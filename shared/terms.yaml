@@ -1116,7 +1116,235 @@ septem_petitiones:
   first_use: "chytraeus-catechismus-1594, locus I § 20"
   note: Matt 6:9-13.
 
+# ─── CHYTRAEUS 1594 · Locus II (De Creatione, De Providentia, De Homine) ─
+
+creatio_ex_nihilo:
+  english: Creation out of nothing
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 1"
+  note: >
+    Chytraeus's definition stresses (i) actio externa Dei — outward, not
+    an eternal emanation from the divine essence (against Neoplatonic
+    and Origenist inheritance); (ii) ex nihilo — against Aristotelian
+    eternalism; (iii) ecclesiological finis — the eternal Church, not
+    the world for its own sake.
+
+opera_trinitatis_ad_extra:
+  english: The outward works of the Trinity
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 2"
+  note: >
+    In Lutheran orthodoxy, indivisa — every outward work is jointly of
+    the Father, the Son, and the Holy Spirit. Preserved untranslated on
+    formal doctrinal use. Cf. Augustine De Trinitate I.4.7; Aquinas STh
+    I q.45 a.6.
+
+hexaemeron:
+  english: The Six-Day Work of Creation
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 3"
+  note: >
+    The literal six days of Gen 1:1-2:3, per the standard 16th-c.
+    Lutheran hexaemeral reading (Luther In Genesin, WA 42:1-91).
+
+theatrum_naturae:
+  english: The Theatre of Nature
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, locus II § 4"
+  note: >
+    Chytraeus's humanist metaphor for the created universe as a schola
+    sapientiae Dei. Ultimately from Cicero De Natura Deorum II.98,
+    mediated through Melanchthon Initia Doctrinae Physicae (1549).
+
+providentia_generalis_specialis:
+  english: Providence (general and special)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 5"
+  note: >
+    Chytraeus's twofold definition: (i) action of the divine mind that
+    sees and foresees; (ii) government by which God preserves, cares
+    for the human race, punishes crimes, rewards righteousness.
+  see_also: [determinatio_divina, concursus_divinus]
+
+determinatio_divina:
+  english: Divine determination
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 5"
+  note: >
+    A part of Providence: God, seeing all events, helps the good,
+    permits the evil, and to that permission sets times and limits.
+    Classical distinction between God's voluntas signi and His
+    permission.
+
+permissio_divina:
+  english: Divine permission
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 5"
+  note: >
+    God's negative-permissive relation to evil, distinguished from His
+    positive will. God permits evil but sets its limits.
+
+angeli_boni:
+  english: Good Angels
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 6"
+  note: >
+    Spiritual essences, created to God's image (intelligent, truthful,
+    just, free-willed), immortal, ordained by God to celebrate Him,
+    servants of the Church and guardians of the pious.
+
+diaboli:
+  english: Devils
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 7"
+  note: >
+    Initially created to God's image, fell by depravitas propriae
+    voluntatis (not by divine impulse — the Augustinian anti-Manichaean
+    point), enemies of God, God-permitted, God-repressed, God-terminated
+    at the Last Judgement. Cf. Augustine De Civitate Dei XI.9-17.
+
+anima_immortalis:
+  english: The immortal soul
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 9"
+  note: >
+    Chytraeus's insistence that the soul is not extinguished when it
+    departs from the body — aimed against the mortalist (psychopannychist)
+    tradition in the radical Reformation. Fuller treatment in Locus X.
+
+vires_animae_quinque:
+  english: The five powers of the soul
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus II § 10"
+  note: >
+    Rational, sensitive, appetitive, locomotive, vegetative. The
+    Aristotelian-Melanchthonian scheme (Aristotle De Anima II-III;
+    Melanchthon De Anima 1553, CR 13:5-178). Chytraeus was Melanchthon's
+    student and here reproduces the master's textbook.
+
+mens_intellectus:
+  english: Mind / Intellect
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus II § 10"
+  note: >
+    Power of rational soul, rectrix vitae, seat of the principia et
+    normae artium (axioms of the arts), including the λόγοι of number
+    and order. Given chiefly ad cognoscendum Deum — for the knowledge
+    of God.
+
+voluntas_indeclinabilis:
+  english: Will (not compelled)
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus II § 10"
+  note: >
+    Pre-lapsarian will was indeclinabilis — not compelled either to good
+    or to evil — but acquiescens in lege Dei. Careful pre-Formula-of-
+    Concord language; not semi-Pelagian since it treats the pre-lapsarian
+    condition.
+
+affectus_cordis:
+  english: Affects of the heart
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus II § 10"
+  note: >
+    Motions of the will or heart following cognition — species and
+    forms of movement accompanied by delight or pain, by which we
+    pursue or flee the object shown by mind or sense.
+
+imago_dei_in_creatione:
+  english: The Image of God in creation
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 11"
+  note: >
+    Chytraeus's threefold analysis: mind illuminated with true knowledge
+    of God + will freely loving and obeying God + heart with affects
+    conformable to the Law of God. Follows Melanchthon Loci Praecipui
+    1559, CR 21:665-69.
+  see_also: [renovatio_imaginis, imago_dei]
+
+renovatio_imaginis:
+  english: The renewal of the Image of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 11"
+  note: >
+    Renewal of the imago Dei in Christ, per Col 3:10, Eph 4:24,
+    2 Cor 3:18 — the standard Lutheran axis for renewed anthropology.
+
+archetypus:
+  english: Archetype
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 11"
+  note: >
+    God Himself, of whom the imago in man was the similitude and
+    conformity of the principal human powers. Preserved on formal use.
+
+liberum_arbitrium_ante_lapsum:
+  english: Free choice before the Fall
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Integrity of mind and will — Adam had libertas contradictionis,
+    free to obey or to fall. FC SD I §9-11, Art. II §10-12.
+
+liberum_arbitrium_post_lapsum:
+  english: Free choice after the Fall
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Retains natural competence in things of civil life (honest / base,
+    useful / useless), but servile et captivum et mortuum in things
+    pertaining to salvation. Luther De Servo Arbitrio (1525) doctrine
+    as received into FC SD II §7, 17, 24, 60.
+
+liberum_arbitrium_in_renatis:
+  english: Free choice in the regenerate
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Careful post-Formula theology by a Formula signatory (Chytraeus,
+    1577): (i) liberated by the Son — passive; (ii) helped by the Holy
+    Spirit — cooperative; (iii) by their own effort and diligence in
+    SANCTIFICATION (not in conversion). Explicitly allows the possibility
+    of losing faith (et rursum a Deo deficere potest) — against Reformed
+    perseverantia sanctorum.
+  see_also: [concursus_divinus, perseverantia_sanctorum]
+
+tenebrae_peccati:
+  english: Darkness of sin
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Chytraeus's term for the noetic effect of the Fall — the mind is
+    oppressa and cannot rightly know God's essence or will.
+
+aversa_adversa_deo:
+  english: Averse to and set against God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Chytraeus's FC-conformable description of the fallen will and heart
+    (aversa et adversa Deo).
+
+servum_arbitrium:
+  english: Servile choice
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Luther's De Servo Arbitrio (1525), WA 18:632-787. The fallen will
+    is servile, captive, and dead in things pertaining to salvation.
+    Received by Chytraeus and by FC SD II.
+
+perseverantia_sanctorum:
+  english: Perseverance of the saints
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus II § 12"
+  note: >
+    Reformed doctrine (five points of Dort will formalise later) that
+    the regenerate cannot finally fall. Chytraeus, following the Formula
+    of Concord, allows that they CAN fall — et rursum a Deo deficere
+    potest.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Locus I). Every
-# completed work appends its own new entries here.
+# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Locus I + Locus II).
+# Every completed work appends its own new entries here.
 # ═══════════════════════════════════════════════════════════════════════════

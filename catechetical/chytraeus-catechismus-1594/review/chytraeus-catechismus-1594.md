@@ -79,8 +79,21 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;§ 19. What true Invocation of God is | 38 |
 | &nbsp;&nbsp;&nbsp;§ 20. The parts of true Invocation | 38 |
 | &nbsp;&nbsp;&nbsp;§ 21. The difference between Christian and pagan Invocation | 39 |
-| Notes | 41 |
-| Glossary of Terms | 47 |
+| **Locus II · Of Creation — of the World, of the Angels, and of Men** | 43 |
+| &nbsp;&nbsp;&nbsp;§ 1. What Creation is | 43 |
+| &nbsp;&nbsp;&nbsp;§ 2. Creation is the work of all three Persons | 43 |
+| &nbsp;&nbsp;&nbsp;§ 3. The order of the Six Days | 44 |
+| &nbsp;&nbsp;&nbsp;§ 4. Why the world was created by God | 44 |
+| &nbsp;&nbsp;&nbsp;§ 5. What the Providence of God is | 45 |
+| &nbsp;&nbsp;&nbsp;§ 6. What Angels are | 46 |
+| &nbsp;&nbsp;&nbsp;§ 7. What Devils are | 46 |
+| &nbsp;&nbsp;&nbsp;§ 8. What Man is | 47 |
+| &nbsp;&nbsp;&nbsp;§ 9. What the Soul is | 47 |
+| &nbsp;&nbsp;&nbsp;§ 10. The five powers of the Soul; the two parts of the rational Soul; the Affects | 48 |
+| &nbsp;&nbsp;&nbsp;§ 11. What the Image of God is | 49 |
+| &nbsp;&nbsp;&nbsp;§ 12. What Free Choice is — before the Fall, after the Fall, and in the regenerate | 50 |
+| Notes | 55 |
+| Glossary of Terms | 63 |
 
 — ❦ —
 
@@ -132,7 +145,7 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 
 ## 5. What is not yet in this working translation
 
-- **Locus II — X.** Locus I *De Vera Dei Agnitione et Invocatione* is now translated. Locus II *De Creatione et De Homine*, Locus III *De Lege Dei*, Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow in subsequent working sessions.
+- **Locus III — X.** Loci I and II are now translated. Locus III *De Lege Dei*, Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow in subsequent working sessions.
 - **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued when the full Locus set is translated.
 - **The 1588 recension.** The Internet Archive item pairs the 1594 edition with an earlier 1588 recension. Textual collation between the two — to identify precisely which passages the 1594 title-page description *multis in locis aucta* refers to — is a task deferred to a future edition.
 
@@ -667,6 +680,168 @@ Four are the principal differences.
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+# Locus II
+
+## *Of Creation — of the World, of the Angels, and of Men*
+
+— ❦ —
+
+### § 1. What Creation is
+
+***What is Creation?***
+
+**Creatio** is an external action of God, by which God — willing, out of His immense goodness — fabricated all other things, visible and invisible, out of nothing, by His own counsel: that He might build for Himself an eternal Church, by which He might be acknowledged and celebrated, and in which He might dwell for all eternity.⁶²
+
+— ❦ —
+
+### § 2. Creation is the work of all three Persons
+
+***Whose work is Creation?***
+
+Of all three Persons of the Divinity — of the eternal Father, of the Son, and of the Holy Spirit — who together created and preserve all other things: as it is said, Ps 33[:6]: *By the Word of the Lord were the heavens established, and by the Spirit of His mouth all their host*. Of the Son it is said, John 1[:3]: *All things were made through Him.*⁶³
+
+— ❦ —
+
+### § 3. The order of the Six Days
+
+> The bodies of the world were made not all in the same moment of time, but *in order, distinct, in six days* (Gen 1–2):
+>
+> **First Day.** The matter of heaven and earth; and Light.
+>
+> **Second Day.** Heaven, and the celestial Orbs.
+>
+> **Third Day.** Earth, and Plants.
+>
+> **Fourth Day.** Sun, Moon, and Stars.
+>
+> **Fifth Day.** Birds, and Fish.
+>
+> **Sixth Day.** Terrestrial animals; and Man.⁶⁴
+
+— ❦ —
+
+### § 4. Why the world was created by God
+
+***Why was the world made by God?***
+
+This whole theatre of nature was made by God, and by wonderful art and wisdom distributed and adorned, for this end: that God the Maker might be shown to us; that it might serve the uses of men; and that it might be a *school* of the wisdom, goodness, presence, and omnipotence of God — which, by the angels and men made by Him, wills to be acknowledged and celebrated, and in turn wills Himself and all His goods to be imparted to them. Rom 1[:19–20]; Eph.⁶⁵
+
+— ❦ —
+
+### § 5. What the Providence of God is
+
+***What is the Providence of God?***
+
+> **Providence** is the *action of the divine mind*, which sees all things and foresees all future events; and, next, the *government of God*, by which He sustains and preserves the nature He has created, and chiefly cares for the human race, guards civil society, punishes atrocious crimes with atrocious penalties, and adorns just men with rewards.
+>
+> A part of Providence is the *divine determination*, by which God — seeing all things, and beholding all future events, whether of good men or of evil — helps the good, but permits the evil, and to that permission sets times and limits how far He shall permit.⁶⁶
+>
+> Hitherto concerning God the Creator; now concerning the creatures, from which God has chosen for Himself an eternal Church, let us speak. And these creatures are either *rational* — bodiless and invisible, as the *Angels* and the souls of men — or *corporeal and visible*, as *Men*.
+
+— ❦ —
+
+### § 6. What Angels are
+
+***What are Angels?***
+
+**Good Angels** are spiritual essences, created by God to His image — that is, intelligent, truthful, just, of free will — which are not a part of another species (as the souls of men are); and they are immortal, ordained by God that they may celebrate Him, and are servants of the Church, and guardians of the pious.
+
+— ❦ —
+
+### § 7. What Devils are
+
+***What are Devils?***
+
+> **Devils** are spiritual essences, at their beginning created to the image of God (that is, intelligent, truthful, just, of free will) — who by the depravity of their own will, without divine impulse, became enemies of God, and hurled the human race, drawn away from God, into sin and death; and daily they augment the sins and calamities of every kind of the human race. Which tyranny God, by wonderful counsel, permits — and represses — until the Last Judgement, in which all devils, together with impious men, shall be cast down into eternal punishments. 2 Pet 2; Jude 6; 1 Pet 3.⁶⁷
+
+— ❦ —
+
+### § 8. What Man is
+
+***What is Man?***
+
+**Man** is a substance created by God, having a body and a rational soul, conjoined to the image of God, that he may acknowledge and celebrate God.
+
+— ❦ —
+
+### § 9. What the Soul is
+
+***What is the Soul?***
+
+The **Soul of Man** is a spiritual essence, created by God to His image (that is, intelligent, free, just), which is a part of man — nor is it extinguished when it departs from the body, but is *immortal*.⁶⁸
+
+— ❦ —
+
+### § 10. The five powers of the Soul; the two parts of the rational Soul; the Affects
+
+***What are the principal powers of the Soul in man?***
+
+Five: the **Rational**, the **Sensing**, the **Appetitive**, the **Locomotive**, and the **Vegetative**.⁶⁹
+
+***What are the parts of the rational Soul?***
+
+Two: **MIND** and **WILL** — with which, in serious matters, are conjoined the **AFFECTS** of the heart.
+
+***What is the Mind?***
+
+> **MENS** or **INTELLECTUS** is the power of the rational soul that cognises — illustrated at creation by the rays of divine wisdom and light — by which it discerns God and the Law of God rightly and truly (which is the *rectrix* of life); and by which it knows numbers, order, **λόγον** — which are the principles and norms of the arts; and all the letters of language and intellect it in some way knows and gathers; and by another faculty it discourses of, and rightly and truly judges of the coherences of things. This power was chiefly given for this cause in man: that he may know God the Creator, and the testimonies of divine wisdom and goodness impressed upon the universe of things, and demonstrate them to others.⁷⁰
+
+***What is the Will?***
+
+> **VOLUNTAS** is the power of the rational soul, indeclinable (that is, not compelled either to good things or to evil), or seeking the higher things — by which man freely embraces or repels the object indicated to him by the intellect; and this by directing the action of the members, that they may act in one way or another — or from acting cease. Therefore, for this end has the will been given to man: that it may seek the honest with a right divine judgement, and freely acquiesce in the Law of God.⁷¹
+
+***What are the Affects?***
+
+**AFFECTUS** are the various species and forms of motions of the will accompanied by some delight or pain — that is, the affects are motions of the will or the heart following cognition, by which the object shown by mind or sense we either pursue or flee.
+
+— ❦ —
+
+### § 11. What the Image of God is
+
+***What is the Image of God?***
+
+The **Image of God**, to which man was created, was a *similitude and conformity of the principal powers of man with the Archetype* — that is, God Himself. Namely:
+
+**Mind**, illustrated by the light of the true knowledge of God, and of wisdom, discerning right and wrong.
+
+**Will**, with freest choice desiring and approving right and just things, ardent with the *love of God* and with true *obedience toward God*.
+
+**Right heart** — having all affects and motions conformable to the Law of God. Gen 1.
+
+Col 3[:10]: *Put on the new man, which is renewed in the knowledge of God, according to the image of Him who created him.*
+
+Eph 4[:24]: *Put on the new man, which after God is created in righteousness and true holiness.*
+
+2 Cor 3[:18]: *We all, with unveiled face beholding the glory of the Lord, are transformed into the same image, from glory to glory, as by the Spirit of the Lord.*⁷²
+
+— ❦ —
+
+### § 12. What Free Choice is — before the Fall, after the Fall, and in the regenerate
+
+***What is Free Choice?***
+
+**LIBERUM ARBITRIUM** in general signifies the *notice and judgement of the Mind* concerning good things and evil, and the *faculty of the Will* by which anything is chosen or spurned freely.
+
+***What was Free Choice in Man before the Fall?***
+
+> **The integrity of Mind and Will**, by which the primeval endowments of the essence and will of man were bestowed integrally by God — that man might rightly acknowledge Him, and desire the true good in which he had been created, and by his own free and spontaneous and serious motion persevere in obedience to God, or fall away from Him and sin.⁷³
+
+***What is Free Choice in Man after the Fall?***
+
+> It is the faculty by which the mind of man rightly distinguishes honest things from base ones, useful things from useless ones, and other things pertaining to human reason and to civil life — without any peculiar illumination — understands, discerns, and judges; and by which the will freely embraces or defends the same, and directs the external actions of the members, that they may take actions congruent, or non-congruent, with the judgement of the mind.
+>
+> But before *regeneration* itself, that Free Choice of man is *servile and captive to sin, and dead* — a natural impotence: that is, a defect and depravity of mind and will, inherited according to Adam and born with us, by which the mind, oppressed by the darkness of sin, is unable rightly either to acknowledge the essence or the will of God, or by its own sight to see the way of eternal salvation; and by which the will and the appetites of the heart, averse to and set against God, are unable to convert themselves by their own strength to God, nor to believe in Christ, nor to render worships pleasing to God — nor can they do anything other than sin, unless they be liberated by the *grace of Christ*.⁷⁴
+
+***What is Free Choice in those regenerate by water and the Spirit?***
+
+> It is the *faculty* by which mind and will, liberated by the Son from the servitude of sin, and helped by the Holy Spirit, are able also by their own effort and diligence not only to govern external morals honestly and to avoid external crimes, but also *the internal and spiritual motions of the soul* — that they may excite, foster, and augment the true knowledge of God, and invocation, and patience, and so on; and may resist vicious inclinations, or indulge them; and may again fall from God.⁷⁵
+
+*Now, since we have said that Man was created to the image of God, and what was the conformity of the nature of man with the LAW of God: now the doctrine of the LAW of God — to which our minds, wills, and hearts should be congruent — must at once be added. Locus III follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Notes
 
 ## From Chapter 1 · Prolegomena & Front Matter
@@ -794,6 +969,36 @@ Four are the principal differences.
 ⁶⁰ The seven petitions of the **Lord's Prayer** (Matt 6:9–13 = Luke 11:2–4 in the shorter form). On Lutheran-catechetical exposition, cf. Luther *Small Catechism*, Third Chief Part (BSELK, pp. 872–76); *Large Catechism* III (BSELK, pp. 1078–1122).
 
 ⁶¹ Chytraeus's closing distinction — Christian invocation as *invocatio in nomine Filii* — is a summary of the whole theological logic of Locus I: the Trinity is not a speculative doctrine but the objective structure of Christian *praxis pietatis*. Compare Luther *WA* 26:505–9 (1528 *Vom Abendmahl Christi, Bekenntnis*): *"Wenn ich die drey Person nicht recht kenne, so kenne ich Gott nicht recht, ja ich kenne den rechten Gott gar nicht."*
+
+## From Locus II · Of Creation
+
+⁶² Chytraeus's definition emphasises three points: (i) *actio externa Dei* — creation is an outward act, not an eternal emanation from the divine essence (against Neoplatonic and Origenist inheritance); (ii) *ex nihilo* — the classical formula against Aristotelian eternalism; (iii) the *finis* is ecclesiological — the eternal Church, not the world for its own sake. Compare Melanchthon *Loci Praecipui* 1559, *De Creatione*, CR 21:637–41; Gerhard *Loci* IV, *De Creatione*, ed. Preuss, IV.1–15.
+
+⁶³ On the *opera Trinitatis ad extra* being *indivisa* (a work of all three Persons together), see Augustine *De Trinitate* I.4.7 (PL 42:824; CCSL 50:36); Aquinas *STh* I q.45 a.6. Chytraeus's evidencing from Ps 33:6 (Word + Breath) and John 1:3 (through the Son) is the standard Reformation catechetical proof-pair.
+
+⁶⁴ The six-day scheme is *hexaemeral* and follows Gen 1:1–2:3 literally — the standard 16th-c. Lutheran reading. Compare Luther *In Genesin Enarrationes* (1535–45), WA 42:1–91 (on the six days); LW 1:1–121. The distribution of the days here — Matter+Light / Firmament / Land+Plants / Luminaries / Fish+Birds / Land Animals+Man — is precisely Luther's.
+
+⁶⁵ Chytraeus's *theatrum naturae* image is a classical humanist commonplace (from Cicero *De Natura Deorum* II.98, *pulcherrimum mundum theatrum vitae humanae*), taken up by Melanchthon in the *Initia Doctrinae Physicae* (1549, CR 13:179–412) as the framing metaphor for the created order as *schola sapientiae*. It becomes a Reformation topos.
+
+⁶⁶ Chytraeus's twofold definition of Providence — (i) the *action of the divine mind* seeing and foreseeing, (ii) the *government* by which God preserves and directs — corresponds to the scholastic distinction between *praescientia* and *praedestinatio*, and between *providentia generalis* and *providentia specialis*. On God's *permission* of evil (as distinct from His *voluntas signi*), cf. Melanchthon *Loci Praecipui* 1559, *De Causa Peccati*, CR 21:640–56; Gerhard *Loci* VI, *De Providentia*, ed. Preuss, VI.63–72.
+
+⁶⁷ Chytraeus's angelology and demonology follow the standard patristic-Lutheran pattern: (i) angels created good, in the image of God; (ii) the devils fell by *depravitas propriae voluntatis*, not by divine impulse — the Augustinian rejection of any Manichaean two-principles doctrine; (iii) their *tyranny* is God-permitted, God-repressed, and God-terminated at the Last Judgement. Cf. Augustine *De Civitate Dei* XI.9–17 (PL 41:323–34; CCSL 48:328–38); Luther *In Genesin* on Gen 3 (WA 42:120–35; LW 1:158–79).
+
+⁶⁸ Chytraeus's insistence on the *immortalitas animae* — that the soul is not extinguished when it departs from the body — is aimed against the mortalist (or *psychopannychist*) tradition in the radical Reformation, which some early Luther texts had been misread as supporting. The Augsburg Confession does not treat the point; the Reformed Belgic Confession Art. 37 does. See Gerhard *Loci* XIII, *De Immortalitate Animae* — which Chytraeus's Locus X will treat further.
+
+⁶⁹ The **five powers** of the soul are the classical Aristotelian-Melanchthonian scheme: rational (*rationalis*), sensitive (*sentiens*), appetitive (*appetens*), locomotive (*locomotiva*), and vegetative (*vegetans*). Cf. Melanchthon *De Anima* (1553; CR 13:5–178), from Aristotle *De Anima* II–III. Chytraeus was Melanchthon's student and here reproduces the master's textbook.
+
+⁷⁰ Chytraeus's account of the mind (*mens, intellectus*) as *rectrix vitae* and as the seat of the *principia et normae artium* (the axioms of the arts) — including the *λόγοι* of number and order — is standard humanist-Aristotelian faculty psychology, transposed into the Lutheran doctrine that the mind was created *ad cognoscendum Deum*. Compare Aristotle *De Anima* III.4–5 (429a10–430a25) on *νοῦς*; Melanchthon *De Anima* on the *mens* / *intellectus*.
+
+⁷¹ The definition of will as *potentia … indeclinabilis* preserves the pre-lapsarian liberty of choice — the will is not compelled to good or to evil — and locates the finality of the will in *acquiescentia in lege Dei* (rest in the Law of God). This is careful pre-Formula-of-Concord language: it is *not* semi-Pelagian, since it treats the pre-lapsarian condition; the post-lapsarian doctrine follows in § 12.
+
+⁷² Chytraeus's threefold analysis of the *imago Dei* (mind illuminated / will free and loving God / heart with conformable affects) follows Melanchthon *Loci Praecipui* 1559, *De Imagine Dei*, CR 21:665–69. The three Pauline texts — Col 3:10, Eph 4:24, 2 Cor 3:18 — are the standard biblical loci for the *renovatio imaginis* in Christ, and are the axis of the whole Lutheran anthropology.
+
+⁷³ Chytraeus's pre-Fall doctrine of free choice as *integrity of mind and will* is the settled Lutheran-orthodox position: Adam had *libertas contradictionis* — free to obey or to fall. Compare *Formula of Concord*, Solid Declaration, Art. I *De Peccato Originis*, §§9–11 (BSELK, pp. 848–50); Art. II *De Libero Arbitrio*, §§10–12 (BSELK, pp. 872–74).
+
+⁷⁴ Chytraeus's post-Fall doctrine is the *bondage of the will* in things pertaining to salvation — Luther's *De Servo Arbitrio* (1525) doctrine as received into the Formula. The mind is *oppressed by the darkness of sin* (*tenebrae peccati*), the will is *averse and adverse to God* (*aversa et adversa Deo*) — these are the exact formulations the Formula uses. Cf. FC SD II *De Libero Arbitrio*, §§7, 17, 24, 60 (BSELK, pp. 872, 878, 882, 900). *Servile et captivum et mortuum* is Luther's *WA* 18:632–787.
+
+⁷⁵ The *free choice in the regenerate* passage is careful post-Formula theology, articulated by Chytraeus (a signatory of the Formula, 1577) with disciplined precision: (i) the regenerate is *liberated by the Son* — passive; (ii) *helped by the Holy Spirit* — cooperative; (iii) *by their own effort and diligence* — the *concursus* of grace and renewed will in sanctification (not in conversion). And the last clause — *"and may again fall from God"* (*et rursum a Deo deficere potest*) — is Chytraeus's affirmation of the possibility of losing faith, against Reformed *perseverantia sanctorum*. Compare FC SD II §65–66 (BSELK, pp. 904–06); FC SD XI *De Praedestinatione*, §42 (BSELK, pp. 1092–94).
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -953,6 +1158,54 @@ Four are the principal differences.
 
 — ❦ —
 
-*End of Chapter 1 and Locus I. Locus II — De Creatione Mundi et Angelorum et Hominum — follows in the next working session.*
+*Additional entries from Locus II:*
+
+**creatio (ex nihilo)** — Creation out of nothing. Chytraeus's definition stresses (i) *actio externa* — outward, not an eternal emanation; (ii) *ex nihilo* — against Aristotelian eternalism; (iii) the ecclesiological *finis* — the eternal Church.
+
+**opera Trinitatis ad extra** — The outward works of the Trinity. In Lutheran orthodoxy, *indivisa* — indivisible; every outward act is jointly of the Father, the Son, and the Holy Spirit. Preserved untranslated on formal doctrinal use.
+
+**hexaemeron** — The six-day work of creation (Gen 1:1–2:3). Chytraeus reads the six days literally — the standard 16th-c. Lutheran reading, following Luther's *In Genesin*.
+
+**theatrum naturae** — The theatre of nature. Chytraeus's humanist metaphor (via Melanchthon's *Initia Doctrinae Physicae*) for the created universe as a *schola sapientiae Dei*.
+
+**providentia (generalis / specialis)** — Providence. Chytraeus's twofold definition: (i) the *action of the divine mind* that sees and foresees; (ii) the *government* by which God preserves, cares for the human race, punishes crimes, rewards righteousness.
+
+**determinatio divina** — Divine determination. A part of Providence: God, seeing all events, *helps the good, permits the evil, and to that permission sets times and limits*. The classical distinction between God's *voluntas signi* and His *permission*.
+
+**Angeli boni** — Good Angels. Spiritual essences, created to God's image (intelligent, truthful, just, free-willed), immortal, ordained by God to celebrate Him, servants of the Church and guardians of the pious.
+
+**Diaboli** — Devils. Initially created to God's image, fell by *depravitas propriae voluntatis* (not by divine impulse — the Augustinian anti-Manichaean point), enemies of God, God-permitted, God-repressed, God-terminated at the Last Judgement.
+
+**anima immortalis** — The immortal soul. Chytraeus's insistence that the soul is *not extinguished when it departs from the body* — aimed against the mortalist (*psychopannychist*) tradition in the radical Reformation.
+
+**vires animae (quinque)** — The five powers of the soul: rational, sensitive, appetitive, locomotive, vegetative. The Aristotelian-Melanchthonian scheme (Aristotle *De Anima* II–III; Melanchthon *De Anima* 1553).
+
+**mens / intellectus** — Mind / intellect. Power of rational soul, *rectrix vitae*, seat of the *principia et normae artium* (axioms of the arts), including the *λόγοι* of number and order. Given chiefly *ad cognoscendum Deum* — for the knowledge of God.
+
+**voluntas (indeclinabilis)** — Will (not compelled). Pre-lapsarian will was *indeclinabilis* — not compelled either to good or to evil — but *acquiescens in lege Dei*.
+
+**affectus** — Affects. Motions of the will or heart following cognition — species and forms of movement accompanied by delight or pain.
+
+**imago Dei (in creatione)** — The Image of God in creation. Chytraeus's threefold analysis: mind illuminated with true knowledge of God + will freely loving and obeying God + heart with affects conformable to the Law of God.
+
+**Archetypus (of the imago Dei)** — The Archetype. God Himself, of whom the *imago* in man was the *similitude and conformity* of the principal human powers.
+
+**liberum arbitrium (ante lapsum)** — Free choice before the Fall. *Integrity of mind and will* — Adam had *libertas contradictionis*, free to obey or to fall.
+
+**liberum arbitrium (post lapsum)** — Free choice after the Fall. Retains natural competence in things of civil life (honest / base, useful / useless), but *servile et captivum et mortuum* in things pertaining to salvation — Luther's *De Servo Arbitrio* doctrine received into the Formula of Concord Art. II.
+
+**liberum arbitrium (in renatis)** — Free choice in the regenerate. Careful post-Formula theology: (i) liberated by the Son (passive); (ii) helped by the Holy Spirit (cooperative); (iii) by their own effort and diligence in sanctification (not in conversion). Explicitly allows the possibility of losing faith — against Reformed *perseverantia sanctorum*.
+
+**tenebrae peccati** — Darkness of sin. Chytraeus's term for the *noetic* effect of the Fall — the mind is *oppressa* and cannot rightly know God's essence or will.
+
+**aversa et adversa Deo** — Averse to and set against God. Chytraeus's Formula-of-Concord-conformable description of the fallen will and heart.
+
+**servile et captivum et mortuum arbitrium** — Servile, captive, and dead choice. Luther's *WA* 18:632–787 formulation, received by Chytraeus and by Article II of the Formula.
+
+**concursus (in regenerate)** — Cooperation. The concurrent working of divine grace and renewed will in *sanctification* (not in conversion) — the Melanchthonian-Formula settlement on which Chytraeus, as a Formula signatory, is careful.
+
+— ❦ —
+
+*End of Chapter 1, Locus I, and Locus II. Locus III — De Lege Dei — follows in the next working session.*
 
 *The Scholastic Lutherans · 2026*
