@@ -577,7 +577,110 @@ After the appended prefaces to the books there follows, verse by verse, so far a
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 2d closes here at Große's pointer to Müller's *Erklärung der heiligen Schrift* (Bertelsmann Gütersloh). Still to come in the Luther writings-catalogue: the Catechism editions (pp. 46–48), the *Wahres Christentum nach Luther* of Statius, the Delius edition of Luther's Trostschriften (Gotha, Perthes 1884), Luther's writings on the House- and Marriage-estate, on the estates and callings, and Große's closing evaluation of Luther in the Reformation Century (pp. 48–65). Continues in the next work-cycle.]*
+### 4. The Catechisms
+
+Luther's Catechisms — the crown of all his writings, as noted above — are available in several current editions.
+
+**[No. 2 — the anonymous edition]** contains Luther's Small Catechism with preface, appendices, Haustafel, marriage-booklet (*Traubüchlein*), and baptism-booklet (*Taufbüchlein*); the Great Catechism with both prefaces, together with the short admonition to confession already circulated with it in 1529.⁶⁴ Unclear passages are elucidated in notes or given as Scripture-passages.
+
+**3. Luthers Großer Katechismus.** Verlag von Joh. Herrmann, Zwickau i. S. On 206 pp in fair type, 29 lines to the page, with the more closely-set (35 lines) shorter and longer Preface of Luther. Paper-board 1.20 M; elegant cloth 1.60 M.
+
+A new fair edition together with the Small Catechism is that issued at the *Niedersächsische Gesellschaft* in Hamburg:
+
+**4. Dr. Martin Luthers Katechismen,** herausgegeben von D. Karl Bertheau. Hamburg, 1896, Niedersächsische Gesellschaft zur Verbreitung christlicher Schriften, Brennerstraße 8. VIII + 167 pp, small quarto, 32 lines. Fair large type with archaic capital initials. Bound 1 M. — The edition brings in the preface a scholarly treatise on the oldest and best editions and on the character of the present one, which then makes itself intelligible to today's reader. In brackets, the new German expressions or variant readings are given in the text; otherwise the vocabulary of Luther and his sentence-structure is left as far as possible unchanged. Pp. 1–32 contain the Small Catechism with Preface, appendices, Haustafel, marriage- and baptism-booklets. Pp. 35–167 contain the Great Catechism with the Prefaces of 1529 and 1530 and the short Admonition to Confession at p. 162 ff.
+
+**5. Dr. Martin Luthers Großer Katechismus. Mit Erläuterungen dem deutschen evangelischen Volke dargeboten** von D. Georg Buchwald. Leipzig, Bernh. Richter, 1897. VIII + 122 pp, 8°. (Type: 39 lines to the page.) — This edition is opened by pp. I–VIII with an excellent popular preface, addressing itself chiefly to the youth: "Who should read the book, and how Luther's Catechisms came to be." All difficulties and unintelligibilities are explained in notes, and so the catechism (following pp. 1–122) is brought near to everyone — chiefly to the youth or the confirmands — through word- and matter-explanations.
+
+The Great Catechism cannot be too much recommended to reflective young Christians, and generally to reflective pray-ers.⁶⁵
+
+### 5. Wahres Christentum nach Luther — after Statius
+
+There follows in Große's account an edition that gathers from Luther's whole corpus a two-book anthology on *Wahres Christentum* — "true Christianity" — carried out by **Martin Statius,**⁶⁶ the seventeenth-century Brandenburg pastor (of whom Große treats more fully in his own biographical portrait below, in the post-Reformation section). Statius writes in his own preface that he undertook the "rather heavy labour" to gather out of all Luther's works — which he industriously read through from beginning to end — the material on *Wahres Christentum,* so that the false-Christian teachings might be overthrown and the Lutheran Christianity fostered; and that the enemies of the truth, who slander Dr. Luther as founder and beginner of an evil life among the Lutherans, might have their mouths stopped, to God's honour and to many men's benefit.
+
+The first book handles, in fifteen chapters with many subsections, faith (dead, historical, [saving]; origin, properties of the same, etc.). The second book handles, in sixteen chapters, love (or good works) — for example, how faith and works are close of kin; that in the article on justification, faith and love are to be distinguished; which works Luther refuses and which he does not, and the like. The four antique copperplates are portraits of Luther, Melanchthon, Statius, and of the Diet of Augsburg. Whoever will come to know thoroughly what Luther, out of Scripture, has clearly recognised and expressed on faith and works, is to reach for this materially fine-ordered collection.⁶⁷
+
+### 6. Trostschriften — The Consolation-Writings of Luther
+
+The editions of Luther's *Trostschriften* by **Pasig** (*Schatz* 1883) and Emil Ohly's *Symbola Lutheri* (Frankfurt, 1852) are now out of print; but they live on in the following:
+
+**1. Dr. Martin Luthers Trostschriften,** ed. Dr. Joh. Delius, Gymnasium-teacher in Ems.⁶⁸ Gotha, Friedrich Andreas Perthes, 1884. V + 319 pp, small 8°, 37 lines, bound 3.50 M. — As the second part of a selection out of Luther's writings, this stands as a separate book, containing as fully as possible everything Luther has written for consolation:
+
+1. The consolation-writing for every Christian — the *Tessaradekas*;
+2. through 6.: 58 consolation-letters after various headings (for those who suffer for faith's sake; for the faint-hearted; for the melancholy; for those who mourn at a death; for the sick);
+7. Sermon on Preparation for Dying (translated, 1519);
+8.–16.: from the Scripture-exposition and the sermons (especially 14 from John 14–16);
+17. some consolation-sayings, together with some material from the *Tischreden* "on Anfechtung and the dear holy cross."
+
+The volume "hits the nail on the head, and a deep, enlightened spirit looks into the depths of the human heart."⁶⁹
+
+### 7. Luther on Household and Marriage
+
+What is to be drawn from Luther's writings on the House- and Married-estate follows now in the several pieces of the following ordering: **[chapter overview of a compendium issued from Luther's writings on the household]**:
+
+- Ch. 1 (pp. 1–24): *Betrothal* (rights and duties of parents therein; secret betrothals).
+- Ch. 2 (pp. 25–28): *[Marriage-preparation]* (danger of postponement; permissibility of… hindrance of excess; the best gift).
+- Ch. 3 (pp. 29–106): *Marriage* (God's ordering; end and destination; right judgement, dignity, use and blessing; sufferings and burdens; contempt, misuse, sins in marriage; fellowship in marriage; various causes of the concluding of a marriage; light-mindedness at the concluding; freedom at the concluding; condition of a happy marriage; causes of unhappy marriages).
+- Ch. 4 (pp. 107–130): *Married partners* (their mutual relation; duties, especially of the husband, of the wife, in sufferings and burdens, toward sick partners; love among them, discord and unbearability).
+- Ch. 5 (pp. 131–137): *Adultery* (its abominableness — gross and fine; causes; punishment-worthiness).
+- Ch. 6 (pp. 138–149): *Divorce* (when only permissible, when not).
+- Ch. 7 (pp. 150–156): *Celibacy* (whether one should remain unmarried, whether it is commanded; the sinfulness of the vow of chastity).
+- Ch. 8 (pp. 157–183): *Parents* (their love toward the children; duties, sternness, rights, responsibility; condition of blessed effectiveness, merits, sins, cares and sufferings, independence; the love, reverence, obedience due to them).
+- Ch. 9 (pp. 184–209): *Children and child-training* (children as the loveliest pledge of marriage; their manners; child-training — end and aim, worth and merit, requisites, God's blessing, obligation, comfort, faults, consequences of bad rearing).
+- Ch. 10 (pp. 210–216): *[Master-and-servant]* (burdens, rights, duties).
+
+Then follows as an appendix (pp. 217–245) *"Something out of Luther's household life: Luther's outward personality, Luther as husband, father, son — from his Tischreden and from W. Thieß's *Theodora*."* Pp. 251–285 give thirty-six house- and marriage-rules of Flattich, and pp. 286–288 the Table of Contents close the volume.⁷⁰
+
+**Das goldene Hausbuch Dr. Martin Luthers** — sayings on the married estate, parent-estate, and household-estate, put together by O. Gericke, Pastor at Ortrand. Bound 1 M. Berlin, 1871, Hauptverein für christliche Erbauungsschriften. 264 pp, 38 lines to the page, thin paper.
+
+### 8. Tischreden — Editions of the Table-Talk in Print
+
+The *Tischreden* — which Luther, over many years, held against learned people, uninvited guests, and his table-companions — appear in a selection for the German people, 2nd edition, 8°, 160 pp.
+
+**Dr. Martin Luthers sinnreiche Tischreden** — a selection for the German Christian people, seen through by Ferdinand Bäßler, 2nd ed., 8°, 1 M. Heinrich Naumann (now with Joh. Herrmann, Zwickau). Also from the *Concordia*-Verlag St. Louis Walch-edition,⁷¹ the *Tischreden* can be bought separately as vol. 22 (997 pp, 15 M).
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### 9. Gebete, Gebetbücher, Andachtssammlungen — Prayer-books after Luther
+
+As to prayers, prayer-books, and prayer-and-devotion collections after Luther, the following books are to be named.
+
+**A) Those which contain all his prayers:**
+
+- **Gebetbuch,** containing all the prayers and sighs of Dr. Martin Luther, as also prayers of Melanchthon, Bugenhagen, Mathesius, Habermann, Arndt, and other God-enlightened men. 3rd edition. Paper 1.80 M; half-cloth 2.40 M; half-leather 2.80 M. Berlin, Hauptverein. See Appendix I, Part 3, No. 1.
+
+**B) Those which teach Luther's manner of praying:**
+
+**1. Luthers Betbüchlein** — of the blessed man of God Dr. Martin Luther, drawn from his own spirit-, comfort- and life-full words. Small 8°. 2nd enlarged edition, VII + 136 pp, bound 1 M; 3rd ed., sedez, 176 pp, 27 lines to the page, Calwer Verlagsverein 1886.
+
+This little book, first put together in 1565 by **Anton Otto,** pastor at Nordhausen — then by P. Treuer of Coburg (Pfarrer Dindel of Coburg had already issued a similar one in 1562) completed 1571 (1579, 1591, 1627; other editions 1604, 1669) — has for our time been reworked from 1883 on. There is drawn from Luther's prayers and prayer-instructions what claims imperishable worth. In Part I is found a preparation to prayer with instruction on prayer, with 10 prayers. In Part II follow prayers over 5 weeks: in the first week the Lord's Prayer is paraphrased through Wednesday, then three other prayers follow; in the second week follows a longer prayerful paraphrase [of another part of the Lord's Prayer]; in the third, "the Ten Commandments"; in the fourth, the four articles of faith; in the fifth week, 10 prayers with sayings from Luther. Part V gives several prayers for the estates: for prince, warrior, [and so on]. Part VI contains prayers for a blessed end. And there close the whole, first, an appendix — *Salutationes Christi Lutheri* — set out prayer-wise; and, second, six [thanksgivings-etc.].
+
+**a) 3rd. To the Small Catechism of Dr. Luther** — press and publisher: Joh. Herrmann, Zwickau. 78 pp, 23 lines, stiff paper 30 pf; in pressed cloth bound, 50 pf. — Also given here in Appendix pp. 57–78 is "A Short Form, how the Lord's Prayer is to be prayed," with an afterword out of the *Anweisung, wie man beten soll.*
+
+**b) Dr. Martin Luthers Auslegung des Vaterunsers,** with a preface by Lic. B. Riggenbach. Basel 1883, bound 1.20 M, VI + 160 pp, 22 lines to the page, large type. Re-issued for the Luther-celebration. Fair clear type. — The preface speaks of the appreciation Luther must find with the Reformed. The volume goes back to Luther's Vaterunser-sermons of 1517, which Agricola wrote down from memory of what he had heard, and which Luther himself in 1518 saw through in a second edition; the Basel printer Adam Petri put forth an edition, and Zwingli's learned friend recommended the Vaterunser-sermons to the pious Franciscan Guardians for carrying them from place to place.⁷²
+
+The whole gives the manner of praying, teaches others the words and what we pray, then treats the tone, the division, the petitions singly, and closes with: "Short summary and ordering of the Vaterunser according to the seven petitions," a paraphrase, and the hymn *Vater unser im Himmelreich.*
+
+**C) For particular devotions Luther's thoughts are used in:**
+
+**1. Beicht- und Abendmahlsbüchlein,** from the writings of Dr. Martin Luther. Bound 80 pf, 16°, 218 pp, 33 lines, small type. Reutlingen, [Fleischhauer & Spohn]. — The book brings the thoughts of Luther in three books. The first handles, in 9 sections, confession: (1) On confession in general; (2) On the confession before God; (3) Short instruction on how one should confess; (4) Short [prayers] (8); (5) Wherein the transgression of the Ten Commandments consists (as with No. 3, for self-examination); (6) Wherein the fulfilment [of the Law consists]; (7) What the word Sin means; (8) [Sins against] gross sins (avarice, theft, adultery, pride, prodigality, drunkenness, unchastity, lying, calumny, wrath); (9) Examples of right repentance and conversion out of Scripture (Peter, Paul, Matthew, Magdalena as a sinner); [pp. 1–75]. — The second handles, in 8 sections, the Supper: (1) On worthy preparation; (2) Reminder how the suffering of Christ is to be contemplated; (3) Contemplations on the suffering (pp. 88–130 gives 15 Passion-contemplations); (4) Institution; (5) Nature and use; (6) Worthy participation; (7) Hymn of praise: *Gott sei gelobet und gebenedeiet;* (8) Prayers; [pp. 76–167]. — The third handles, in 8 sections, the fruit of it: (1) Grow; (2) Fight; (3) Watch; (4) Seek first the Kingdom of God; (5) Faith, love, hope; (6) On the holy cross; (7) Against the Anfechtung of death; (8) Luther's consolation-prayer in our last hour; [pp. 168–218].
+
+Since the book contains full contemplations, it is more to be recommended to riper, adult Christians who in their devotions for confession and the Supper wish once to use something other than the customary communion-books.
+
+**2. Das Leiden und Sterben unsers HErrn JEsu Christi** — 42 contemplations for household devotion for the several days of Passion-tide, put together out of Luther's Passion-sermons. Issued by the *Christlicher Verein im nördlichen Deutschland,* Eisleben, 1854. IV + 197 pp, 8°, half-cloth 60 pf, cloth 90 pf. — To the contemplations hymns are added, that suit the old grained Luther-language, drawn therefore out of the hymn-treasury of the 16th century up to Joh. Heermann († 1647). To each day comes a contemplation of 4–5 pp.
+
+**[Further collections] — Continuation:** The Perthes-Delius selection (already treated above); Schinmeyer's *Schatzkästlein* — Sayings out of Luther's writings with fuller explanation, put together for the whole year through. **Johann Christoph Schinmeyer** at his own time gave out this *Schatzkästlein,* occasioned by 2 Cor. 3:16,⁷³ after in the Pietist age many had been printed which explained the sayings with hymns; he willed to set his contemporaries upon God's Word and Luther's teaching. He praises "the sound, emphatic, and full-mouthed explanation of Luther" as especially edifying. He himself indicates as his purpose: to show Luther as the *comforter of troubled and faint-hearted consciences* — how Luther there mightily set forth the doctrine of Justification out of Grace, but at the same time pressed for sanctification and good works. "The design of this little booklet is further to show how far the doctrine and the life of our present Lutherans deviates from Luther's doctrine and life, and further, that these testimonies of Luther may serve for the edification, comfort, and grounding of faith in the house, on journeys, in sermons and in letters." This purpose of Schinmeyer is not missed even today, but makes the book useful, for every friend of God's Word and Luther's teaching, as a short collection thereupon.
+
+Schinmeyer at first gave out the explanation of 200 sayings. Little by little the editions were enlarged; so 1769 to 500. On this rest the most recent editions.
+
+That printed at Wilh. Baur is the same as is distributed by A. Schmidt, Anklam (now Altona), with the closest possible tying-in with the [feast-days of the church-year].⁷⁴
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 2e closes here with Große's evaluations of the Luther prayer-book editions and the Schinmeyer *Schatzkästlein.* Still to come: closing evaluations of the Luther bibliography, cross-references to Luther's letters as *Trostbriefe,* Große's overall assessment of Luther's significance for the whole tradition of Erbauungsliteratur, and the transition to §3 Luthers Mitarbeiter (Luther's Fellow-Workers) — pp. 58–65 continuing to end of Luther entry. Then §§4–7: Rhegius, Brießmann, Dietrich, Spangenberg + Andreä-excursus (pp. 65–85), which closes Tranche 2. Continues in the next work-cycle.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -720,6 +823,28 @@ After the appended prefaces to the books there follows, verse by verse, so far a
 ⁶² **Johann Georg Walch** (1693–1775), Jena theologian, editor of the great *Sämtliche Schriften Lutheri* in 24 vols. (Halle, 1739–1753) — the standard eighteenth-century collected edition of Luther's German writings. Gustav Schlawitz's 1856 Berlin reprint is a nineteenth-century re-issue of Walch's German-language corpus, which Große names as the fuller source-text underlying Eberle's excerpts.
 
 ⁶³ Große's Bertelsmann/Müller-entry closes on the address to student, pastor, and layman; the OCR breaks at "dem Studenten,". Reconstructed in translation as *[to serve the student and pastor and layman]* pending JP2 sighting.
+
+⁶⁴ Große's numbered entries here (Nos. 2, 3, 4, 5) refer to Catechism editions in the same numbered series he opened for the Postille catalogue. The OCR loses the head of Entry No. 2 in a page-turn gap; the bracket-flagged reconstruction *[No. 2 — the anonymous edition]* stands pending JP2 sighting. The short Admonition to Confession that Große mentions circulated with the Great Catechism from 1529 as its addition — Kolb-Wengert 476–479.
+
+⁶⁵ Große's tone here — "The Great Catechism cannot be too much recommended to reflective young Christians, and generally to reflective pray-ers" — is characteristic of nineteenth-century confessional-Lutheran pastoral counsel, in which the *Large Catechism* was recommended as devotional reading (not merely as a doctrinal reference) for the household.
+
+⁶⁶ **Martin Statius** (1589–1655), Berlin/Mark-Brandenburg pastor and devotional writer. Große treats him in his own biographical portrait below (Tranche 4 / II a) §6, pp. 151–155). Statius's *Wahres Christentum aus Luthero* (Wittenberg, 1642 — deliberately named against Arndt's *Vier Bücher vom wahren Christentum* of 1610, which Statius held to be tainted by mystical sources) is the anthology treated here. Text of Statius's preface in the 1642 imprint at HAB Wolfenbüttel; a modern re-edition has not been made.
+
+⁶⁷ Große's evaluative sentence — *"Whoever will come to know thoroughly what Luther, out of Scripture, has clearly recognised and expressed on faith and works, is to reach for this materially fine-ordered collection"* — is characteristic of his mode of evaluating an edition: he combines a scholarly-critical judgement of the material ordering with a pastoral commendation of its use.
+
+⁶⁸ **Johann Delius** (1826–1905), Gymnasium-teacher at Ems, editor of the Perthes *Auswahl aus Luthers Schriften* (2 vols., 1883–1884). The Trostschrift-volume is the second part of the two-volume selection; the first was the *Reformatorische Schriften.* Große cites the second volume by its stand-alone title.
+
+⁶⁹ The evaluative quotation — *"trifft den Nagel auf den Kopf, und ein tiefer, erleuchteter Geist blickt in die Tiefen des menschlichen Herzens"* — is Große quoting one of the contemporary reviews of the Delius selection (probably from the *Allgemeine Lutherische Kirchenzeitung* or *Neue Kirchliche Zeitschrift*); the exact provenance to be verified at JP2 sighting.
+
+⁷⁰ **Johann Friedrich Flattich** (1713–1797), Württemberg Pietist pastor at Münchingen, famed for his household-pedagogical *36 Haus- und Ehestandsregeln* — a compact tract of moral maxims for the Christian family that circulated widely in eighteenth-and-nineteenth-century Lutheran devotional collections. Flattich appears also in Große's own portraits below (Tranche 7 / III a) E. Württemberger Pietisten).
+
+⁷¹ **Concordia-Verlag St. Louis** — Concordia Publishing House, publishing arm of the American Missouri Synod (founded 1869 in St. Louis, Missouri). The Concordia St. Louis re-issue of the Walch edition of Luther's works (revised, 23 vols., 1880–1910) is one of the main nineteenth-century confessional-Lutheran editorial projects, running in parallel with the Weimar Edition then in its opening decades. Große's mention marks the Missouri-Synod-Hermannsburg confessional-Lutheran solidarity as an editorial fact.
+
+⁷² **Adam Petri** (1454–1527), Basel humanist printer, one of the earliest publishers of Luther's writings outside Wittenberg; his 1518/1519 Basel editions helped carry the Reformation-devotional literature into the Swiss Confederation. **Ulrich Zwingli's learned friend** — most likely Johannes Oecolampadius (1482–1531), but possibly Beatus Rhenanus; identification pending JP2 sighting. The reception of Luther's Vaterunser-sermons by early Swiss reformed figures is Große's implicit ecumenical note here, though he does not develop it.
+
+⁷³ Große's citation "2 Cor. 3:16" is likely a compositor's slip for **1 Tim. 3:16** — the "great mystery of godliness" as the theme of Schinmeyer's *Schatzkästlein.* The reading is to be verified against the JP2 image.
+
+⁷⁴ **Johann Christoph Schinmeyer** (1734–1801), Lübeck theologian and popular devotional writer. His *Schatzkästlein* (first ed. 1750?; 200 sayings expanded to 500 by 1769) is treated more fully by Große in Tranche 7 / III G. below, alongside Cober and Woltersdorf as one of the *Vertreter der luth. Orthodoxie im Pietismus-Zeitalter.* His pastoral vocation — to hold his contemporaries "to God's Word and Luther's teaching" against the accretions of pietist mystical embellishment — makes him one of the paradigm-figures of Große's own late-nineteenth-century confessional-revival programme.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
