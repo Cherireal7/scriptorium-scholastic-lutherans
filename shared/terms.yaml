@@ -3260,11 +3260,59 @@ bonifacius_secundus_coercitio:
     as the moment when Latin Africa was finally subjected to Roman
     jurisdiction — six centuries into Church history.
 
+# ─── Tranche 2k — Turonicum + Iulius + Hispani + Innocentius (vl0056-61) ─
+
+directa_siricii:
+  english: Siricius's Directa
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hispani sacerdotes at vl0058"
+  note: >
+    Pope Siricius (384-399) decretal Directa to Himerius of Tarragona
+    10 Feb 385 (Denzinger 185) — first papal legislation mandating
+    clerical celibacy for Latin West. Confuses Rom 8:8 (qui in carne
+    sunt Deo placere non possunt) with marital sexuality. Exegetical
+    howler corrected by Augustine + Aquinas + all serious commentators.
+    Shaped medieval anti-marital pastoral rhetoric for a millennium.
+
+hispani_sacerdotes_resistentia:
+  english: Spanish clerical marriage resistance
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hispani sacerdotes at vl0058"
+  note: >
+    4th-c Spanish clergy invoked Heb 13:4 + 1 Cor 7 + 1 Tim 3 to
+    defend clerical marriage against Siricius Directa. Extended by
+    Isidore the Younger (Seville c. 560-636) De Ecclesiasticis
+    Officiis II.5 permitting cleric either wholly celibate or single-
+    married. Gratian Decretum Dist. 23. Resistance collapsed under
+    11th-c Gregorian reform.
+
+concilium_turonicum:
+  english: Council of Tours (461)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Turonicum concilium at vl0056"
+  note: >
+    Under Perpetuus of Tours — Canon 3 mitigated penalty for
+    clerics continuing conjugal life post-ordination to excommunication
+    without perpetual deposition. Evidence 5th-c Gallic bishops did
+    not treat clerical marriage as summa haeresis (as later Gregorian).
+
+iulius_pseudo_decreta:
+  english: The pseudo-Julian decretal
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Iulius Papa at vl0057"
+  note: >
+    Pseudo-Julian text (Cum omne crimen) preserved in Gratian
+    Decretum De consecratione dist. 2, arguing for communion sub
+    utraque specie. Ironically part of the same forgery-corpus
+    Flacius attacks elsewhere, but he invokes gratefully against
+    Constance 1415 session XIII (DH 1198-1200) denial of chalice
+    to laity — foundational Hussite/Reformation locus.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Sixth Carthage (vl0001-vl0056, 56 body
-# pp + 32 paratexts ≈ 10.1% of 1094-pp body). Flacius lemma total: 10 seed
-# + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d)
-# + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) = 75.
+# FLACIUS 1556 — TRANCHE 2 through Innocent I (vl0001-vl0061, 61 body pp
+# + 32 paratexts ≈ 11.1% of 1094-pp body). Flacius lemma total: 10 seed +
+# 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) +
+# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) = 79.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

@@ -816,7 +816,61 @@ Hence you may clearly perceive, Christian brother, that the Popes for more than 
 
 Let the Popes now depart with their mancipiis; and let us — the noble Patres patres — the Councils and the Fathers embrace: with them and with the Fathers and the Councils be plainly horribly-contempered, contumeled, and concocted. Hanc totam historian separatim I have prolixly recited; and them if here compendiously in summary redigere I have willed. Worthy however would it profectò be, if by a learned man luculenter it were described.
 
-*[Continues on `vl0056` with* **Turonicum concilium** *(Council of Tours c. 460); staged for the next Tranche 2 session.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Turonicum concilium
+
+### *Council of Tours (c. 460)* — vl0056–vl0057
+
+The **Turonian Synod**, about the year of the Lord 460 celebrated, mitigated the penalty for priests who — before Papists, and by others equally chaste as by men are constituted — had procreated legitimate children by lawful marriage. For when they thought that clerics offend, they should be simply excommunicated: but he not further degrees ascend, or in office remain permitted.²⁴²
+
+Whence appears that they did not consider Papal thunderbolts to be much veneration: nor consider them a crime, on which account any-Christian from the Christian assembly is to be cast out. But now they punish legitimate marriage in priests, not only with excommunication, sword-fire and other most-atrocious punishments, as though a most-extreme heresy. See how much of Sodomitical love of chastity we have profited!
+
+## Iulius Papa
+
+### *Pope Julius I* — vl0057–vl0058
+
+**Julius the First Pope** sat about the year 350 of the Lord.²⁴³ Whom I ascribe not thence, that in some point he contradicted Antichrist's errors: but that most impudently he *falsified the Nicene Synod's decrees, and here I depict him as a seducer*.²⁴⁴ For he writes in a certain letter, that the Nicene Synod constituted, none plainly of the Synods, unless by the Pope's will, might be celebrated. To the contrary, and copies of exemplars edited and approved by Papists themselves testify. For not only nothing there of the sort is found, but even manifestly the Pope claims contrary that Metropolitans execute-out. Testifies also the contrary, the Synod of Milevis, and the Arelate second, which give to Metropolitans authority for convoking their councils. And likewise experience testifies of many councils which Caesars convoked, and in which no plain reason or mention of the Pope has been reserved.²⁴⁵
+
+Likewise, this same Pope affirms not only the Nicene Synodum, but also all others statuisse, that not licit episcopos to Roman Pope call, and that all major businesses to him be referred. To the contrary however the papistical exemplars themselves of the Nicene Synodus testify. The Milevitan Synodus contrariwise decrees, that prohibits, that anyone beyond sea appeal be licit: which also affirms, the same also once from many Synods to be established. To the contrary too the Sixth Carthaginian Synod also asserts, that says, no Synod ever to the African churches allowed be right of confining, or finally of one's causes pronouncing: but likewise, the Nicene Synod many bishops and priests simply to their Metropolitans subiciisse, so that never except to Synods them to appeal may licit be.²⁴⁶
+
+Hence you may discern, Christian brother, with what modesty of Pope's tyranny they have injured in the Ecclesia Dei-then, and with what sanctity the councils either did or defended.
+
+Even so, is cited also his Papal peritissima defensio of communion sub utraque specie: *De consecratione distinct. 2*.²⁴⁷ Where he sharply argues, Christum seorsim of the bread, and seorsim of the chalice communionem instituisse: and-so, that by all modes constantly to be observed, is-it, communion.²⁴⁸ For then indeed some intinctum quoquot of the Eucharist sub sola panis specie communicantibus offered.
+
+## Hispani sacerdotes
+
+### *The Spanish Priests* — vl0058–vl0060
+
+The **Spanish Priests** at the time of Pope Siricius — that is, about the year of the Lord 400 — not only had wives, from which they procreated children: but even lawful marriage from Sacred Scriptures defended, that in the Old and in the New Testament by God was given by means.²⁴⁹
+
+Contra to whom, Deus bone, quàm ferventer intumescit ac vociferatur Siricius! He roars no less impudently than unlearnedly, saying: *Say now to me, whoever is that follower of libidines, and preceptor of vices: Item, this you say to be, quod Paulus dixit in the flesh to live, cum Rom. 8. inquit: Qui in carne sunt, Deo placere non possunt. Item dicit: eos obscoenis cupiditatibus inhiare, &c.*²⁵⁰ See the impudence of this Antichrist. Therefore Christian spouses to God please cannot, because in marriage — that is, in the flesh, as this ass rudely-brays — live?
+
+Certainly this most-sanctissimus pater not only sacred letters ignorant was, who claim honorable to be marriage, and thorum immaculatum: but even Nicene Synod, which a little before had established, priest-clerics to the use of their marriage not to be interdicted, as a matter pious, and to God grateful.²⁵¹
+
+Ut autem huius Antichristi mirabilem ac plane stolidam perversitatem eo melius agnoscis, ac detesteris, audi. Statim post superiora incipit disputare, non licere ei bene-ordinare, qui duas aut plures uxores duxerit &c. And, ut hoc probet, cites the Moses law: *Sacerdotes uxorem semel accipiant (quod unde sumpserit, nescio) & Sacerdos uxorem virginem accipiat, non uiduam, non repudiatam, non meretricem.*²⁵²
+
+He says this ther-twists, ut ostendat, non licere bigamum esse sacerdotem: & interea non perpendit stultissimus homo (quàm hoc multo magis contra se) qui penitus damnabat sacerdotum coniugium: quàm contra Hispanos sacerdotes, qui id tuebantur, pugnare. Sic temerè, petulanter, impudenter, impie, ac inerudite Romani pontifices sacris literis abusi sunt ad stabiliendam sui capitis vanissima somnia.²⁵³
+
+Ceterum quòd dixi Hispanos sacerdotes coniugium sub defendisse: omnino uidentur in ea sententia diutissime perseverasse. Nam & Isidorus iunior, qui post 600 Domini annum floruit, in libro de Clericorum vita, inter alia de eorum vitae rationibus scribit, eos aut omnino castos esse debere, aut ut certè unius matrimonij sese foederentur. Haec enim eius verba sunt. Citatur autem hic locus Dist. 23.²⁵⁴
+
+## Innocentius
+
+### *Pope Innocent I* — vl0060–vl0061
+
+**Innocent the First Pope** sat about the year 413 of the Lord.²⁵⁵ Which is in an epistle to Macedonian bishops, quoted in *distinct. 26*: he says: *"Tell me (with your peace, I speak) crimes only in baptism dismissed, and that all which by the Lord's precepts are secondly instituted: are they to be attached? To bring a wife is that a crime, or is it not a crime? If it is a crime, then who committed it (allowed with a gift) will be author in guilt, that his crimes are committed and permitted in paradise, when he himself put-together, joined, blessed. If it is not a crime, why what God has joined, unlawful is called: and Solomon added, from the Lord it is prepared to a man a wife: how then to be reckoned among crimes to be dismissed, on which the author has-instituted?"*²⁵⁶
+
+If this Innocent alone, or the other Popes are constituted true to be, and thus of marriage they sensed: why then to priests have they prohibited it, or still do they prohibit? Why did that most impudent and most-unlearned Siricius shout, *to be in the flesh alive God to please not to be able*, to be immundicity, to be obscene voluptuous and libidines followers and-preserving-be? But so mendacissimo and by lies eronious teachers happens, that at some point in themselves imprudent contradict.
+
+Wonder profectò is that the Papists — even by this argument today — with what care-they perpend it: when in the middle of themselves-selves the Bibles, that is, in Decrees, and in the book Councils it-is-set.
+
+Hence therefore they may cognosce Roman Antichrists, themselves, when what God has ordered, they call sin and heresy, and God himself as author to damn and blaspheme.²⁵⁷
+
+Many centuries after him lived **Innocent III**, who in a general council instituted that the sacred at temples, in vernacular languages, be conducted.²⁵⁸ Here too this same Innocent in the book *On the Life and Honesty of the Clergy*, testifies, in which regions of nostrils in-cognized-mores-morally-be, that priests their wives not-dismissed. Whom for that reason not-damn, but a greater poena-injustice affirms to be, if they lapse, when their own wives to use may.
+
+*[Continues on `vl0061` with* **Polychronius Hierosolymae archiepiscopus** *; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1413,6 +1467,48 @@ Let the Popes now depart with their mancipiis; and let us — the noble Patres p
 **²⁴⁰** **Pope Boniface II** (530–532) — 130 years after Carthage 419 — extorted from **Eulalius of Carthage** and other African bishops a formal repudiation of the Sixth Carthaginian synod, anathematising their own predecessors. Flacius reads Boniface II's coercion as the moment when Latin Africa was finally subjected to Roman jurisdiction — six centuries into Church history.
 
 **²⁴¹** The chained list of papal tyranny-mechanisms — falsifying holy Synods, the *Donation of Constantine* (Valla 1440), the pseudo-Clementine epistles, excommunications and interdicts, wars against Germanic Caesars — compresses the whole Reformation-historiographical case against papal-institutional legitimacy. Compare Luther's *An den Christlichen Adel* (1520, WA 6:404–469) and Melanchthon's *Tractatus de potestate et primatu papae* (1537).
+
+## From the Catalogue — Turonicum concilium (vl0056–vl0057)
+
+**²⁴²** **Council of Tours** (c. 461, under Bishop Perpetuus of Tours) — Canon 3 mitigated the penalty for clerics who continued conjugal life with their wives after ordination: excommunication only, without perpetual deposition. Flacius reads the merciful tone as evidence that 5th-c. Gallic bishops did not consider clerical marriage the *summa haeresis* it later became under Gregorian reform.
+
+## From the Catalogue — Iulius Papa (vl0057–vl0058)
+
+**²⁴³** **Pope Julius I** (337–352), best known for defending Athanasius against the Arian majority and for supporting the Council of Sardica (343). His extant letters — preserved in Athanasius *Apologia contra Arianos* and in the Latin canonical collections — do include some claims for Roman appellate jurisdiction which Flacius here treats as forgery-based rather than authentic.
+
+**²⁴⁴** *Ut seductor* — "as a seducer." Flacius's harsh characterisation of Julius is unusual in the *Catalogus*, whose usual mode with early Latin bishops is more nuanced. The vehemence reflects the polemical value of a mid-4th-c. papal forgery-of-Nicaea claim.
+
+**²⁴⁵** The countervailing conciliar witness — Milevis, Arles II, and later councils convoked by Emperors without papal reference — is Flacius's evidence-triangulation against the pseudo-Julian claim of Roman conciliar-convocation monopoly.
+
+**²⁴⁶** The Sixth Carthage argument (already glossed at endnote 220 and endnote 237–241) is here invoked again as the definitive African-conciliar refutation of Roman appellate-jurisdictional claims.
+
+**²⁴⁷** ***De consecratione distinctio 2*** — the sub-section of Gratian's *Decretum* dealing with sacramental theology, which includes a Pseudo-Julian text (*Cum omne crimen*) arguing for communion sub utraque specie against the growing medieval practice of concomitant reception of the host alone.
+
+**²⁴⁸** The Pseudo-Julian argument for communion in both kinds — an argument Flacius invokes gratefully against Roman denial of the chalice to the laity (formalised at Council of Constance 1415, session XIII, DH 1198–1200) — was a standard Bohemian-Hussite and Reformation locus. That the pseudo-Julian text itself belonged to the same forgery-corpus Flacius attacked elsewhere is a paradox Flacius does not here address.
+
+## From the Catalogue — Hispani sacerdotes (vl0058–vl0060)
+
+**²⁴⁹** **The 4th-c. Spanish clerical marriage tradition** — attested in the correspondence Himerius of Tarragona → Damasus/Siricius → Himerius (c. 384–385), which culminated in Siricius's *Directa* of 10 February 385 (Denzinger 185), the first papal decretal legislating clerical celibacy for the Latin West. That the Spanish clergy resisted, and cited Old and New Testament proof-texts (Heb 13:4, 1 Cor 7, 1 Tim 3), is Flacius's evidence for a 4th-c. Latin resistance to papal-legislative celibacy.
+
+**²⁵⁰** **Siricius's** *Directa* argument confusing Rom 8:8 (*qui autem in carne sunt, Deo placere non possunt*) — where "flesh" means the sinful nature — with marital sexual activity. The exegetical howler was corrected by Augustine (*De bono coniugali*), by Aquinas (*ST* Suppl. q. 41 a. 3), and by every serious commentator; but the *Directa* framing shaped medieval anti-marital pastoral rhetoric for a millennium.
+
+**²⁵¹** Contrast with Nicaea I (325) and Paphnutius's intervention (glossed at endnote 211): Siricius's imposition in 385 contradicted the Nicene position by 60 years.
+
+**²⁵²** The **Old-Testament priest-marriage argument** — the *Directa* invokes Levitical priest-marriage restrictions (Lev 21:7, 21:13–15) to argue against clerical second-marriages and against widow-marriage. Flacius's counterargument: if OT allows priestly first-marriage (as it clearly does), then invoking OT levitical priestly law contradicts precisely the Roman-enforced-celibacy position.
+
+**²⁵³** *Sic temerè, petulanter, impudenter, impie, ac inerudite Romani pontifices sacris literis abusi sunt* — Flacius's five-adverb hammering (rashly, petulantly, impudently, impiously, and unlearnedly) of Siricius's exegesis. The rhetorical intensification is characteristic of the *Catalogus* at its most invective.
+
+**²⁵⁴** **Isidore the Younger** — probably **Isidore of Seville** (c. 560 – 636), whose *De Ecclesiasticis Officiis* II.5 permits clerics to be either wholly celibate or bound to a single marriage. **Gratian *Decretum* Dist. 23** incorporates the Isidorean passage. Flacius reads Isidore as 7th-c. Spanish continuation of the same resistance to Roman-mandated celibacy — resistance that finally collapsed under the Gregorian reform of the 11th c.
+
+## From the Catalogue — Innocentius (vl0060–vl0061)
+
+**²⁵⁵** **Pope Innocent I** (401–417), whose extensive decretal correspondence (Denzinger 200–205 and elsewhere) shaped 5th-c. Latin canonical practice. The letter to *Macedonian bishops* here quoted is preserved in Gratian's *Decretum* Dist. 26 c. 4.
+
+**²⁵⁶** The passage from Innocent's letter contains a theologically-honest defence of clerical marriage as a *bonum* founded on divine institution (Prov 19:14 *domus et divitiae dantur a parentibus, a Deo autem proprie uxor prudens*). Flacius reads this Innocentian passage as internal contradiction within the papal corpus: Innocent defends marriage as divine gift, Siricius damns it as *in carne vivere*. The papal magisterium is not a coherent voice.
+
+**²⁵⁷** *Deum ipsum authorem damnare ac blasphemare* — the theological weight of Flacius's argument: to condemn as sin what God instituted is to blaspheme God as author of sin. The formulation is standard Reformation-anti-Roman polemical logic; compare Luther *De captivitate Babylonica* (1520, WA 6:497–573).
+
+**²⁵⁸** **Pope Innocent III** (1198–1216), *Fourth Lateran Council* (1215), Canon 9 permitted the celebration of Mass in the vernacular in certain multilingual dioceses. Flacius's citation is loose; Lateran IV Canon 9 permits *linguae diversae* for pastoral care but does not authorise vernacular Mass as such. Flacius exploits a partial permission as broad warrant.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
