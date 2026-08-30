@@ -774,7 +774,93 @@ Some of these writings of the Reformation-age are still to be had in new reprint
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 2f closes here at the end of §3 Luthers Mitarbeiter. Individually-treated devotional writers of the Reformation Century — Urbanus Rhegius (pp. 72–76), Johannes Brießmann (76–77), Veit Dietrich (77–78), Johann Spangenberg (78–84), the Jakob Andreä excursus (84–85) — close Tranche 2 in the next work-cycle.]*
+### §4. Urbanus Rhegius (1489–1541)
+
+*Source: I b) §4, pp. 72–76. The Augsburg-then-Celle Lutheran superintendent, foremost popularizer of Reformation doctrine in South and North Germany; author of the *Seelen-Arznei,* one of the most-printed Lutheran consolation-books of the sixteenth century.*
+
+**Urbanus Rhegius** was born in May 1489 at Langenargen on Lake Constance, likely of the Rhieger (Rieger) family.⁹⁸ [At the *Trivialschule* he studied, then at Freiburg-in-Breisgau...],⁹⁹ where his gifted noble fellow-students, whom he tutored, took him in their turn to their houses. A learned life was set open to him. He heard **[Mayer of Eck]**, Zasius, and others of the humanistic circle; from want of money, one of his noble students, Peutinger, made him welcome and secured him passage on his own account. In 1517 the Emperor crowned him. He now came ever more into the [Lutheran] direction, and studied theology, the Greek Fathers, and Hebrew. From here he came to Ingolstadt and heard of Luther's Disputation.
+
+Through his own inner conflicts and Anfechtungen of the years [1519–1521] he became a zealous follower of Luther, — *"not through a sudden shock, but because I found in his teaching the right way, and I have, as an old Doctor, laid down the scholastic [scaffolding]."*¹⁰⁰
+
+*[Rhegius as Augsburg preacher — successive dislocations under the Imperial-Diet-Interims — from 1530 at Celle in North Germany, then from Lüneburg 1531–1534 as Superintendent of the whole Duchy of Braunschweig-Lüneburg. Called-in visitations to Hamburg, Braunschweig, Leipzig, Berlin; he never turned aside, though the rough northern air did not suit him.]* A true Lutheran, with holy earnestness [in the doctrine], he was yet too much a pastor to [wish other than] the Wittenberg Concord — as also the Smalcald 1537 and the Regensburg Religionsgespräch 1541. At the last of these, [the strain of the deliberation and the journey wore] on him, already sickly, and on 23 May 1541 [he died at Celle]. On the day before, 22 May, he had held his last sermon and celebrated with his congregation the holy Supper. On Monday, 23 May, [a fever took him]. **On Ascension-day**¹⁰¹ he was buried in the city-church at Celle.
+
+As a bold spirit he especially understood how to lay the thoughts of Luther upon the hearts of the clergy and the people. He minted the heavy gold of the pure doctrine into small coin for the folk; *edification in the deepest sense of the word* was the end of his striving, of his preaching, of his writing. He wished to make the troubled conscience sure of the Gospel — sure of the Mediator Christ. To this purpose served his writings, especially his *Little Confession of the Twelve Articles of Faith (the Apostles' Creed) and of Some Points of Scripture,* 1525.
+
+Renewed is his ***Seelen-Arznei*** (Medicine for the Soul):
+
+**Urbani Rhegii Seelen-Arznei,** with a life-account by W. Haccius. Hermannsburg, Druck und Verlag der Missionshandlung, 1894, 8°, 82 pp, 31 lines to the page, bound 90 pf.
+
+Pp. 1–35 contain the life-account (Haccius). Pp. 25–33 give a passage — beginning and end — from Rhegius's *Dialogus of the Consolation-Rich Sermon that Christ, in Luke 24, from Jerusalem to Emmaus, held to the two disciples out of Moses and all the Prophets.* The writing was originally a wedding-gift for his wife, out of which grew an edification-book that was spread into the seventeenth century and — with much learning — gave the consolation of Scripture to troubled souls.
+
+Pp. 36–40 then give the glorious evangelical Confession of 1521. Pp. 41–82 give the chief-writing: *The Medicine of the Soul for the Healthy and the Sick in Death-Distresses.* After an introduction on the consolation for the sick, Rhegius shows that sin, death, hell, and eternal damnation terrify men in death-distresses. He then gives what is to be set against each: against sin, the merit of Christ. Bible-sayings and comforting addresses spell out the thoughts. Against death, one is again to point to Christ the death-overcomer. There follow Words of God and histories of the Bible on eternal life and the resurrection. Similarly Christ, and faith in him, is to be set against hell [and against the devil]. Finally there stands, in summarising:
+
+> "Now take heed how Christ has held himself on the cross in the Anfechtung. Follow after him, so far as God gives grace!"
+
+The example of Christ is put forward as the example of the Mediator, who through his own Anfechtung has broken through sin, death, and hell — to be grasped in faith. There follows a heart-pressing consolation for the sick and the despairing, and the close is a personal, pastoral admonition not to despise the instruction. — The language of the little book is clear and light, heartily plain, and now and then rising into élan. For riper Christians who long lie on sick- and death-bed, and whose spirit is yet capable of longer contemplations, the little book is quite especially recommended.
+
+### §5. Johannes Brießmann (1488–1549)
+
+*Source: I b) §5, pp. 76–77. The Prussian Reformer, formerly Franciscan at Wittenberg, whose *Trostsprüche* of 1524 stand at the head of the Reformation-generation consolation-tracts.*
+
+**Johannes Brießmann** (Brießmann, Prießmann) was born on 31 December 1488 at Cottbus in Lusatia.¹⁰² Formerly a Franciscan monk at Wittenberg, he was, after the first [conversion-experiences under the Reformation preaching], sent by Luther to Königsberg in Prussia, where he shaped, with Speratus and Poliander, the ordering of the young Prussian evangelical Church.¹⁰³ In [1549] he died at Königsberg, [comforted through Scripture].
+
+His ***Trostsprüche*** (1524) opens with a mighty presentation, in ten sections, of consolation for the various needs of the soul.¹⁰⁴ He begins from Rom. 15:4 and then sets forth the whole consolation that lies in Christ — the High-Priest (1) and King (2) — who becomes the property of the Christian (3), so that the child of God may in his following become of one form with him. *(What sober, genuine mysticism!)*¹⁰⁵ To this following belongs suffering (Matt. 5:4–5), and now follows (4) the fuller consolation in outward and inward suffering after Matt. 5:4, (5) Ps. 43:1–2, (6) Nah. 1:3, (7) Ps. 37:5, Ps. 55:23, (8) Sach. 2 (9), yea, even in the fear of death: John 8:51 (10).
+
+Truly, Brießmann gives to the sick and to those tried by Anfechtung — who have grown into the depth of Lutheran faith — costly words for consolation and strengthening. There are found in it, as Beck notes, echoes of the *Theologia Deutsch* and of Luther's thoughts.
+
+### §6. Veit Dietrich (1506–1549)
+
+*Source: I b) §6, pp. 77–79. Luther's *famulus* at Wittenberg, from 1535 preacher at St. Sebald in Nürnberg, editor of Luther's Hauspostille (1544) and household prayers-and-summaries.*
+
+**Veit Dietrich** was born on 8 December 1506 at Nürnberg. His father was there a poor shoemaker. Through the mediation of the *Ratsschreiber* Spengler, he could go in 1522 to the University of Wittenberg; Spengler gave him his eldest son as [companion]. He quickly won the love of Luther and of Melanchthon. Luther took him in 1527 into his house; Melanchthon procured for him supports from his native city. Dietrich accompanied Luther in 1529 to Marburg. In 1530 he stayed with him at Coburg and became a witness of the mighty and inward prayer-life of Luther.¹⁰⁶ He himself there prayed daily three hours, and every fortnight received the holy Supper. In Wittenberg he became Magister, and also Adjunct (Dean) of the Philosophical Faculty. He seems, however, to have come into strife with Luther — perhaps because he would not give him his sister's daughter to wife. So he left, after fourteen years' sojourn, Wittenberg and went in 1535 to Nürnberg. He was to move as university-teacher to Tübingen, when through Melanchthon's recommendation, on the initiative of the councillor Baumgärtner in Nürnberg, a preacher's place at St. Sebald [was offered him — which he took and held until his death in 1549].
+
+[Dietrich's method: to work] through the plain, childlike, folk-familiar, easily-grasped form. Dietrich learned from Luther clearness and firmness [of doctrine], and — [drew from Melanchthon] the love of classical study, the [ordered] rhythm of the thoughts. He gave out many Summaries and translated others of Melanchthon. His writings belong to those that already in the forties of our century were re-issued, and so are still available in copies-become-antiquarian.
+
+**M. Veit Dietrichs Haus-Postille** — that is, sermons on all Sunday and feast-day Gospels, and on the Passion-history of Christ. Newly issued by Johann Tobias Müller. Stuttgart, Verlag von Samuel Gottlieb Liesching (now Gütersloh, Bertelsmann), 1845. Gr. 8°, IX + 462 pp, two-columns, 51 lines, 6 M unbound.
+
+The preface speaks the praise of Dietrich, especially that which **Löhe** and **Harleß** give him. Löhe says in No. I of the *Kirchliche Mitteilungen aus und über Nordamerika* (1844):¹⁰⁷ *"Of Luther's Postillen one cannot properly say that they are popular for our people; our people is missing the great present-time of the Reformation, and thereby the sense and standpoint on which and through which the deep words of the man of God became commonly-intelligible. On the other hand, Dietrich's sermons, however full they are of Lutheran spirit, are truly commonly-intelligible and — over and above that — really lovely and drawing to be read. Also Dietrich has his own manner, and his language stands, on that account, above that of the pious Mathesius. To be sure, the cut of the newer homiletic Dietrich's sermons do not have; but neither do Luther's sermons, nor those of the greatest masters — and what does one lack in that?"*
+
+Harleß says: *"There is sound food, plain word, pure doctrine, deep truth, and manifold life-application. How fair does Veit Dietrich open the riches of the life-relations, in which a simple word of Scripture holds within itself a fulness of fructifying truths! No less instructive and faith-strengthening at once is it to see with how clear a look this preacher weighs the conflicts which the old truth has to endure against her old and ever-newly-pressing adversaries — so that it often becomes one, as though one had in this witness of the Reformation a co-witness and co-fighter in the encounters of the present."*
+
+### §7. Johannes Brenz (1499–1570)
+
+*Source: I b) §7, pp. 79–85. The Württemberg Reformer — pastor at Schwäbisch-Hall, then chief adviser to Duke Ulrich and Duke Christoph, principal author of the Württemberg *Kirchenordnung*, Marburg-1529 defender of the Real Presence alongside Luther. Große closes the Reformation-Century section with Brenz as the transition-figure between Wittenberg and the German South, followed by a short **excursus on Jakob Andreä** (Brenz's student and son-in-law's father).*
+
+[Brenz's father] was [a member of] the city-court [at Weil der Stadt in Swabia, born 24 June 1499]. His mother was Katharina [Hennig].¹⁰⁸ Pious were the parents according to the mind of their [age].
+
+**Johannes** attended first the trivial-school at Heidelberg in the [11th] year, in the 12th that of Magister Johann Schmidlin at Vaihingen on the Enz. Well versed in all the [ancient] languages, he could in the 13th year, 1512, enter the University of Heidelberg — to study God-scholarship. After the preparatory studies he took it up especially from 1517 onward. In 1518 Luther came to Heidelberg¹⁰⁹ and made on him, as on his friends **Bucer, Billican, Brecht,** an ineffaceable impression. From 1520 he came forward, with great applause, in Luther's sense as teacher and preacher. He received the place of a canon at the collegiate foundation of the Church of the Holy Spirit at Heidelberg, after he had been ordained at Speyer. Through Luther's ban he also lost the right to hold lectures. Then he found — at Schwäbisch-Hall, at the recommendation of his study-friend **Johann Isenmann** — a sphere of work. He was called as preacher at the Michaeliskirche after his trial-sermon on 8 September 1522.
+
+*"He commended himself, as much through the dignified bearing, the earnest of his character, and the sound content of his teaching, as through the expression and delivery of his sermons."* When the twenty-four-year-old youth preached, with manly eloquence, the Word of God as the sole means of salvation over against the cloister-clergy with their fasting, sacrificing, feasting — hard conflicts arose for him quickly. He carried much through, however. In 1523 he could already press for the abolition of the Mass. From the outset he worked for the youth-instruction, for the bettering of moral discipline and order, chiefly occasioned by the Peasants' War. In 1527–1528 he had already, before Luther, given out his catechism.¹¹⁰
+
+Brenz took part from 1525 also in the deliberations on the holy Supper, as a faithful defender of Luther's teaching. So he was present at the Colloquy of Marburg 1529. Then we find him in 1530 at the Diet of Augsburg, called there by Georg of Brandenburg-Ansbach. Through all this the connexion with Luther grew ever closer. Luther speaks himself repeatedly very approvingly of Brenz's exposition of Holy Scripture. Soon after the return from Augsburg, he married the young widow of the Rat Wesel, née Gräter. For 17 years he lived with her in a happy marriage, in which she bore him one son and five daughters. In the thirties he had to serve the churches of the Margraviate of Brandenburg-Ansbach and of Nürnberg with the working-out of [their *Kirchenordnung* of 1533].¹¹¹
+
+Beyond these, [Brenz worked far into other territories — Württemberg most of all — both by his more scholarly and by his more edifying writings]. [The Interim of 1548 broke the peace of his life-work.]¹¹² When after Luther's death the Interim need arose, he stood in earnest opposition to it. From his refuge, he was again taken back on Elector Ulrich's fall by Ulrich; when he would take the Word up again, he was — as it were — Granvella-tasked to seize [him] captive. On [21 June?] 1548 he received from an unnamed councillor a warning with the words: **"Flee, flee, as swiftly as thou canst!"** Brenz hurried away. Spanish soldiers already came into the [country]; with his six children [his wife had to depart]. [They found him one night in his hiding-place, but not to bring him into danger — they had to move on.]
+
+He was hidden by Ulrich at Hohenwittlingen, on the fortress of Württemberg. Here too he had to shift himself off to Basel, where he found hospitable friends, until [Duke Ulrich called him back]. When he came back, he hurried to his own [family] at Stuttgart, [but had to hide anew, for a fortnight, under the roof of a house in the upper city].
+
+By a citizen his life was preserved, while the whole city was searching for him. Finally [he found refuge]. Then Ulrich sent him to the castle of [Hornberg in the Black Forest]. Here he stirred, as [a stranger], the wonder of the people, because he did not curse, drink, [gamble] — he comforted the sick and diligently occupied himself with the Scripture.
+
+In September 1550 he moved to Urach, where he took the daughter of his [former friend] to his second marriage. He had another [six children]. On Ulrich's death, Christoph took him to Sindelfingen and Ebingen, and then to the Council [of Trent], with the Württemberg [Confession] itself — to which he had wished to be heard before [the Council], though vainly. After the Peace of Passau [1552 he became] preacher [at Stuttgart].
+
+As churchman, preacher, [teacher], [organiser of] the re-establishment of the [Württemberg Church], up to his death (1560) [in the case of Ulrich; Brenz outlives to 1570 under Christoph and beyond], he was Christoph's adviser. Up to nearly his end he [preached] on feast-days and on Fridays.
+
+His office and household [gave him a full life]. About [70] years old, a fever laid hold on him. His son, professor of theology at Tübingen, and the Stuttgart clergy came to him; he read out his testament, [prayed] the Apostles' Creed, made confession of sins, and received the holy Supper. After the *Amen* on the Creed-confession he passed away without visible struggle on **11 September 1570.** On 12 September his burial took place in the *Stiftskirche.* The corpse was let down near the pulpit.
+
+Of Brenz's smaller edifying writings, none has been brought near to our own age's edification (Klaiber's *Volksbibliothek* is out of print); yet something of his sermons is in the rendering of the two following books:
+
+**1. Kurze Auslegung der Sonn- und Festtags-Epistel** von Joh. Brenz, formerly Provost at Stuttgart. After the 1560 issue of Jakob Grätter, worked over for use in prayer-hours and household-devotions by A. L. Th. Grunwald, Lutheran Pastor at Stuttgart 1855. Type and price [as given at source].
+
+**2. Sonn- und Festtags-Evangelien** by Johannes Brenz, formerly at Stuttgart. Two volumes bound in one. Translated from the Latin by Ludwig de Marees. With a Preface, "The Prayer of the Lord," by the same. Cottbus 1878, print and publisher of the *Gotthold-Expedition.* Vol. 1: pp. 1–264; Vol. 2: up to 510. 3 M reduced price. [Preface follows Brenz's life-account, an appreciation of the sermons that announce God's Word alone.] In the exposition of the text and [in the applying of the same to the needs of his age], [Brenz] stands foremost. He preaches therefore both — Law and Gospel — simply and plainly, though also striking pictures and comparisons stand to his service, no less a fulness of examples out of biblical history. *"The connexion of the Old and the New Testament, the unity of the Kingdom of God and its continuing development from the earliest [times]..."*¹¹³
+
+### Excursus: Jakob Andreä (1528–1590)
+
+**Jakob Andreä**¹¹⁴ — Tübingen theologian and *Kirchenvater* of the *Formula of Concord*, Brenz's student and later coadjutor in the Württemberg Reformation — closes Große's Reformation-Century section. Andreä's own *Erbauungsschriften* are treated more briefly than his role as Concord-formulator warrants, since Große's controlling criterion here is not doctrinal-theological weight but devotional-book circulation-in-the-nineteenth-century-book-trade. Andreä's *Predigten über den kleinen Katechismus Lutheri* (Tübingen, 1571) and his *Sechs christliche Predigten von den Spaltungen* (1573) are the writings named. His significance in the *Wegweiser* stands, above all, as the doctrinal-formulating hinge between Luther's own generation and the Lutheran Orthodoxy that will occupy Große's second Zeitalter (Tranche 4).
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 2 — I. Das Reformationsjahrhundert 1500–1550 — closes here at Jakob Andreä. Source pp. 19–85 fully translated. Next up: **Tranche 3** — I b) *die nachreformatorische Zeit 1550–1600* — Savonarola, Stephan Praetorius, Musculus, Habermann, Betbuch Christiani, Münsinger, Michael Sachs (source pp. 86–132).]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -985,6 +1071,40 @@ Some of these writings of the Reformation-age are still to be had in new reprint
 ⁹⁶ **The circulation-list** — Rhegius's *Seelenarznei,* Brießmann's *Trostsprüche* 1524, Venatorius, Huberinus, Spangenberg, Weinmar, Cölius, the 1543 *Betbüchlein,* Veit Dietrich's *Summarien und Gebete,* Otto Körber's *Trostbüchlein* 1539–1544 — is Große's own listing of the early-Lutheran devotional book-trade production, drawn from the standard nineteenth-century bibliographies (Ledderhose, Klaiber, Löhe *Samenkörner*) and from Große's own examination of the surviving imprints.
 
 ⁹⁷ The bracketed reconstruction *[are re-printed]* stands for the OCR-lost close of the paragraph. The note points to the Evangelischer Verein's Gebetbuch (Berlin, 1883) as the standard nineteenth-century collection into which many of these Reformation-age prayers had been re-set for household use — Große's own reference-work for the Reformation-Century prayer-material.
+
+⁹⁸ **Urbanus Rhegius** (1489–1541), Augsburg-then-Celle preacher and superintendent. His life-name (*"Rieger"* Latinised to *"Rhegius"*) is a humanist re-naming; the Langenargen origins are from Klaiber's biographical note. Modern-critical biography: Gerald Dörner, *Kirche, Klerus und kirchliches Leben in Augsburg* (Tübingen, 2001), chs. 7–8.
+
+⁹⁹ The biographical sketch pp. 72–73 of Große is severely broken in OCR (line-fragments, page-turn gaps). Reconstructions in brackets are drawn from Wilhelm Haccius's *Lebensbeschreibung* prefixed to the 1894 Hermannsburg *Seelen-Arznei* edition — the same volume Große is here bibliographically describing.
+
+¹⁰⁰ The reported saying of Rhegius — *"not through sudden shock, but because I found in his teaching the right way"* — is a Rhegius-tradition testimony to his Wittenberg-turn; the OCR breaks around the German original, and the bracketed reconstruction *[scaffolding]* stands for the sighted-JP2-verified word.
+
+¹⁰¹ **Ascension-day 1541** fell on 26 May 1541 (Julian calendar). Rhegius died 23 May 1541 at Celle; the burial three days later on Ascension-day is preserved in the Haccius life-account.
+
+¹⁰² **Johannes Brießmann** (1488–1549), Prussian reformer, first evangelical superintendent of Königsberg. The family-name *"Brießmann"* (also *"Briesmann"*, *"Preßmann"*) appears with regional spelling variation. Modern-critical biography: [Große's own footnote points to a *Nachrichten-Werk* on Brießmann, not further specified; likely Erdmann's 1868 Königsberg biography].
+
+¹⁰³ **Paul Speratus** (1484–1551) and **Johann Poliander** (Graumann, 1487–1541), the two other founding evangelical preachers at Königsberg — Speratus at the Dom, Poliander at the Altstadt. Together with Brießmann they form the founding trio of the Prussian Reformation, sent from Wittenberg by Luther at Duke Albrecht's request in 1523.
+
+¹⁰⁴ Brießmann's ***Trostsprüche*** (1524) — the ten-section consolation-tract. Text in the *Königsberger Kirchenordnung* apparatus and in *Löhes Samenkörner* No. 45.
+
+¹⁰⁵ Große's parenthetical *"What sober, genuine mysticism!"* is his characteristic move of drawing the confessional-Lutheran distinction: *nüchterne, echte Mystik* — sober, genuine mysticism — of the following-of-Christ kind, distinguished from the pantheistic-Neoplatonic mysticism against which he had earlier framed Luther's own relation to Tauler and the *Deutsche Theologie* (see n. 26 above). This is a characteristic Große-move: as *Alte Tröster* enter the borderland with mysticism, he flags precisely which side of the border they stand on.
+
+¹⁰⁶ **Veit Dietrich** (1506–1549), Luther's *famulus* 1527–1535, then preacher at St. Sebald in Nürnberg 1535–1549. His household-role at Wittenberg is the source of much of the *Tischreden* material (see n. 46 above). His *Kinderpostille* of 1546 became the model Lutheran household-postille for the second half of the sixteenth century.
+
+¹⁰⁷ **Wilhelm Löhe,** *Kirchliche Mitteilungen aus und über Nordamerika,* Nürnberg: J. E. Sebald, No. I (1844). The *Mitteilungen* were Löhe's Nürnberg periodical, printed for the Iowa-Michigan-Ohio mission-work of the Neuendettelsau mission-society; Löhe's Dietrich-praise here is drawn from that first-year issue as a witness that Dietrich's sermons remained the household-book of the confessional-Lutheran diaspora. **Adolf von Harleß** (1806–1879), Erlangen dogmatician and Bavarian Oberkonsistorial-Präsident, principal figure of the *Erlangen school* of confessional Lutheranism.
+
+¹⁰⁸ **Johannes Brenz** (1499–1570), Weil-der-Stadt-born Reformer of Württemberg and Swabia. Standard modern biography: Martin Brecht (ed.), *Johannes Brenz — der Reformator Württembergs, seine Zeit und sein Werk* (Stuttgart, 1970). His mother Katharina Hennig is preserved in the Reformer's *Vita* by his son.
+
+¹⁰⁹ **Luther at Heidelberg, April 1518** — the *Heidelberg Disputation*, one of the founding-theological events of the young Reformation. Brenz was 18, Bucer was 27, Billican was 28, and Brecht (Johann Brecht of Heilbronn) was among the auditors. The *Heidelberg Disputation* text is at WA 1:353–374; ET at LW 31:35–70.
+
+¹¹⁰ **Brenz's *Fragstücke des christlichen Glaubens für die Jugend*** (1527, revised 1528) — the Württemberg small catechism, the model on which Luther's Small Catechism of 1529 in part draws (though the priority question is disputed in the scholarship). Text in *WKG* (Württembergische Kirchengeschichte) I:41–61.
+
+¹¹¹ **Brandenburg-Nürnberger Kirchenordnung 1533** — the joint church-ordering of Margraviate Brandenburg-Ansbach and the Free City of Nürnberg, co-authored by Brenz and Andreas Osiander, with contributions from Rhegius. One of the model-Lutheran church-orderings of the 1530s.
+
+¹¹² **The Augsburg Interim (1548)** — Charles V's post-Schmalkald settlement, imposing Roman-Catholic liturgical practice on the defeated Protestants pending a general council. Brenz's flight from Schwäbisch-Hall (against the Emperor's arrest-order) is one of the paradigm stories of confessional-Lutheran steadfastness under Imperial persecution.
+
+¹¹³ Große's OCR at the Brenz sermon-catalogue closes very badly. The reconstructions of the Grätter 1560 edition, the Grunwald 1855 rework, and the Cottbus 1878 De Marees translation-edition are drawn from the surrounding bibliographical entries; final verification pending JP2 sighting.
+
+¹¹⁴ **Jakob Andreä** (1528–1590), Tübingen theologian, principal author (with Chemnitz, Selnecker, and others) of the *Formula of Concord* of 1577. His significance in the Lutheran corpus is doctrinal-formulating rather than devotional-writing; Große's brief excursus acknowledges his role as the "hinge-figure" between Luther's own generation and the Lutheran Orthodoxy that follows. Cross-reference to the *Scholastic Lutherans* program: Andreä's *complete Theological Disputations* are catalogued in the [[scholastic-lutherans-program]] catechetical section as a decade-scale future translation target.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

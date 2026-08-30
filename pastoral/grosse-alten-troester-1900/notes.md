@@ -80,7 +80,7 @@ Sighted against the IA plain-text OCR of the 1900 imprint (`sources-original/ia-
 | &nbsp;&nbsp;&nbsp;4. Urbanus Rhegius | ~72 | |
 | &nbsp;&nbsp;&nbsp;5. Johannes Brießmann | ~76 | |
 | &nbsp;&nbsp;&nbsp;6. Veit Dietrich | ~77 | |
-| &nbsp;&nbsp;&nbsp;7. Johann Spangenberg + [excursus: Jakob Andreä pp. 84–85] | 78–85 | |
+| &nbsp;&nbsp;&nbsp;7. Johannes Brenz + [excursus: Jakob Andreä pp. 84–85] | 79–85 | *TOC-read correction 2026-08-30 T2g: earlier reading as "Johann Spangenberg" was an OCR-corruption error in the Inhaltsverzeichnis. Biographical content pp. 79ff. — Heidelberg 1512, Luther-in-Heidelberg 1518, Schwäbisch-Hall Michaeliskirche 1522, Marburg 1529, Brandenburg-Ansbach Kirchenordnung 1533, Interim exile via Hohenwittlingen, Duke Christoph Württemberg 1550, †11 Sept 1570 Stuttgart Stiftskirche — is unmistakably **Brenz** (1499–1570), the Württemberg Reformer.* |
 | **I b) Die nachreformatorische Zeit 1550–1600** | 86–132 | *The post-Reformation era.* |
 | &nbsp;&nbsp;&nbsp;1. Allgemeines / 2. Zur Frömmigkeit | 86–88 | |
 | &nbsp;&nbsp;&nbsp;3. Girolamo Savonarola | 89–90 | Note: Große includes Savonarola (†1498) despite lying just before his chronological window, presumably as a witness read across Lutheran devotional lines |
