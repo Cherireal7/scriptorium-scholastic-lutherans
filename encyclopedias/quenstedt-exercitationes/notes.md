@@ -2,7 +2,9 @@
 
 Scholastic Lutherans working file. This is the operational scratchpad for the translation; the reader-facing Translator's Note lives at `review/quenstedt-exercitationes.md`.
 
-**Session log:** kick-off scaffold 2026-08-30 (this file's first revision). No body prose yet.
+**Session log:**
+- **2026-08-30 · kick-off scaffold** (commit `55e15d6`). Source-registry, TN, terms.yaml seed.
+- **2026-08-30 · Tranche 0.5 source-sighting + Tranche 1 Part A** (this revision). BSB Munich `bsb11205336` (1691 Wittenberg 2nd ed., Vol. 1) confirmed as workable text-base with per-page hOCR served by MDZ. Sibling manifests `bsb11205337` (Vol. 2) and `bsb11205338` (Vol. 3) also resolve. **Praefatio ad Lectorem** (canvases 15–18) fully translated into English scholarly prose. **Cap. I §§ Ι–ΙΙΙ** (canvases 19–~22, folio pp 1–~4) translated — Thesis I (definition of theology as *sermo de Deo*, with 10 *Notae* on origin, signification, usage) + Thesis II (double homonymy pure/analogical, with the taxonomy of *false theologies* in *Notae* IV–XIV: Ethnic, Talmudic, Muhammedan, Samaritan, Pseudo-Christian, Heretical, Scholastic, Syncretistic, Sceptic) + Thesis III (the *archetypa* / *ectypa* distinction, with *Notae* I–II). Thirteen endnotes added, with citation apparatus to Hülsemann, Melanchthon (invariata/variata), Gerhard, Calov, Brochmand, König, Basil, Cyril of Jerusalem, Thomas Aquinas, Luther *Disputatio contra Scholasticam*, Calixt/Calov Syncretism, and Voetius on Sceptics. **Discovery — CAPITA I. PARTIS on canvas 18 shows Pars I has *fourteen* chapters, not four:** see "Scope correction" below.
 
 ## The source, in one sentence
 
@@ -17,6 +19,16 @@ An ambiguity to fix at kick-off, before the working translation carries the burd
 
 **Working decision.** We translate **Pars Prima of the *Theologia didactico-polemica*** as the *Exercitationes de theologia in genere*, disclosing the identification in the Translator's Note. If a discrete 1670s Wittenberg *Exercitationes* imprint surfaces in Tranche 0.5 source-sighting (VD17 hard-search, HAB Wolfenbüttel, Wittenberg university-archive catalogues), we re-open the question, sight the imprint, and — if materially different from Pars Prima — cross-check paragraph by paragraph and disclose the divergence in the TN. Until then, Pars Prima of the 1685 editio princeps is the text-base.
 
+## Scope correction — Pars I has 14 chapters, not 4 (discovered 2026-08-30)
+
+The IA Leipzig 1715 collation surfaced at Tranche 0 sighting reported Pars Prima as four chapters (De Theologia in genere / De Objecto / De Principio / De Sacra Scriptura, pp 1–347). But the 1691 Wittenberg BSB imprint — an earlier and structurally-authoritative witness — plainly gives, at the close of the *Praefatio ad Lectorem* (canvas 18), the following **CAPITA I. PARTIS**:
+
+I. De Theologia in genere. · II. De Theologia objecto generali, videl. Religione. · III. De Theologia principio. · IV. De S. Scriptura. · V. De Articulis Fidei. · VI. De DEO, Ejusque naturali notitia. · VII. De Cognitione DEI revelata, & primo de DEI Nominibus. · VIII. De essentia Dei absolutè consideratâ. · IX. De DEO relativè spectato, sive de SS. Trinitate. · X. De Actionibus DEI in genere & in Specie de Creatione. · XI. De Angelis. · XII. De Homine. · XIII. De Providentia. · XIV. De fine Theologiae formali, quae est Fruitio Dei, & Vita aeterna, Deque ejus oppositô, Morte aeterna.
+
+**What this means.** Cheri's coordination-memo characterisation of the *Exercitationes de theologia in genere* as a "shorter theological-encyclopedic tract, ~300 pp" is best read as pointing to **Cap. I alone** (folio pp 1–19 in the 1691, ~19 pp), or at most the classical prolegomena-cluster **Cap. I–IV** on theology, religion, principle, and Scripture — not the whole of Pars I. The IA 1715 collation apparently consolidated the material differently (or the "pp 1–347" range covered all fourteen chapters of Pars I under the header "Pars Prima," not just the four the excerpt showed). At any rate: **the 1691 witness is authoritative on the internal division**, and the *Exercitationes* — for the purposes of this working translation — comprise Cap. I *De Theologia in genere* alone unless Cheri decides otherwise. Chapters V–XIV are their own volumes' worth of Pars I material (loci on faith-articles, on the divine essence, on the Trinity, on creation, angels, man, providence, eschatology) and belong to a subsequent volume, or to the wider Pars-I project if Cheri chooses to expand scope.
+
+**Provisional working decision.** *Exercitationes de theologia in genere* = **Cap. I of Pars I** (folio pp 1–19, canvases 19–37 in `bsb11205336`). The tranche plan is re-cut accordingly (see below). Cheri to confirm scope at review of this session; if expansion to Cap. I–IV or Cap. I–XIV is intended, the plan re-cuts again.
+
 ## Full title and paratexts of the 1685 editio princeps (to be transcribed at source sighting)
 
 *Theologia Didactico-Polemica, Sive Systema Theologicum, In Duas Sectiones, Didacticam Et Polemicam, Divisum, In quarum prima: Omnes & singuli fidei Christianae articuli iuxta causarum seriem, perspicuè traduntur ... In secunda sectione: In quavis controversia I. Verus quaestionis status, remotis falsis statibus, ritè formatur; II. Orthodoxa sententia verbis simplicibus proponitur ...*
@@ -29,7 +41,19 @@ Imprint: **Wittebergae, Sumtibus Haeredum Simonis Fincelii. Typis Matthaei Henck
 
 ## Digital sources — sighted 2026-08-30
 
-### Operational text-base: Internet Archive, Leipzig 1715 reprint
+### **PRIMARY OPERATIONAL TEXT-BASE (as of Tranche 0.5, 2026-08-30): BSB Munich, Wittenberg 1691 second edition**
+
+- **Base URL scheme:** `https://api.digitale-sammlungen.de/iiif/image/v2/bsb11205336_NNNNN/full/full/0/default.jpg` for images; `https://api.digitale-sammlungen.de/ocr/bsb11205336/NN` for per-canvas hOCR text.
+- **Manifest:** `https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11205336/manifest`
+- **Volume set:** three volumes — `bsb11205336` (Vol. 1), `bsb11205337` (Vol. 2), `bsb11205338` (Vol. 3). Each ~107 canvases at folio-opening resolution.
+- **Front matter:** Title page (canvas 1), *Praefatio ad Lectorem* (canvases 15–18), *Capita I. Partis* table (end of canvas 18).
+- **Cap. I *De Theologia in genere*:** canvases 19–37 (folio pp 1–19). Sectio I Didactica: canvases 19–30 (folio pp 1–12). Sectio II Polemica: canvases 31–37 (folio pp 13–19).
+- **Cap. II opens** at canvas 38 (folio p. 20).
+- **OCR quality:** clean Antiqua Latin at ≥95% word accuracy per MDZ hOCR. Two-column layout produces occasional column-interleaving in the extracted text that must be reconstructed at translation-time by paragraph-boundary recognition. Long-*s* (ſ) mostly resolved correctly; Greek preserved in polytonic script with occasional garbling that must be verified against the image. Marginal apparatus (biblical loci, cross-refs to König, Calov, Chemnitz, Gerhard) preserved.
+- **Local archive:** `sources-original/bsb-1691/` contains, at Tranche 0.5 close: canvases 15–35 + samples of 36–70 hOCR (~30 files), plus `praefatio-raw.txt` and `cap-01-raw.txt` (concatenated raw OCR text). Gitignored via `**/sources-original/`.
+- **Advantages over the IA 1715:** IIIF/hOCR served at page level → no 1.2 GB PDF download needed; earlier edition (closer to the 1685 editio princeps in every substantive way); MDZ metadata resolves reliably; per-canvas access rules out any bulk-transfer bottleneck.
+
+### Fallback text-base: Internet Archive, Leipzig 1715 reprint
 
 - **URL:** `https://archive.org/details/TheologiaDidactico`
 - **Edition:** Leipzig 1715, "first print Wittenberg 1685" per IA metadata. Full one-piece PDF (~1.2 GB).
@@ -83,19 +107,20 @@ The full IA PDF is ~1.2 GB. Two options:
 
 **Recommendation:** (A). This is a single work in one PDF — pull once, extract per-tranche, discard the PDF at volume-final. Different from Flacius (where the source is 1,094 discrete JPGs on a fragile facsimile server); here IA is stable and one file is simpler.
 
-## Provisional tranche plan (revised against sighted Pars Prima structure)
+## Tranche plan — revised against 1691 sighted structure (14-chapter Pars I; Exercitationes = Cap. I alone)
 
-Total: 5 tranches, ~348 pp of source. Shorter than Chytraeus (~200 pp Latin → 4,076 MD lines): expect this to run ~1,500–2,000 MD lines when translated at Chytraeus cadence.
+Total: **3 tranches, ~19 folio pp of source** (Cap. I of the 1691 Wittenberg 2nd ed. only). This scopes the working translation as a genuinely *short* theological-encyclopedic tract, matching Cheri's original memo characterisation. Should Cheri decide to expand scope to Cap. I–IV (the classical prolegomena quartet — theology, religion, principle, Scripture, ~pp 1–76) or to the whole 14-chapter Pars I, the tranche plan re-cuts.
 
-- **Tranche 0 — Kick-off** (2026-08-30, this scaffold). Notes, TN draft, terms.yaml seed. ✅
-- **Tranche 0.5 — Source sighting.** Retry BSB / SLUB / HAB for 1685 Wittenberg editio princeps; confirm text-critical divergences (if any) from the 1715 Leipzig; pull IA PDF; verify hOCR quality on a 10-page sample; log to this file. Deliverable: text-base locked, sample OCR verified.
-- **Tranche 1 — Front matter + Cap. I *De Theologia in genere*** (pp 1–27, ~27 pp). The core theological-encyclopedic essay: name of the discipline, its definition, its division (theologia archetypa / ectypa; theologia viatorum / comprehensorum), its subject, its practical / theoretical character. Cross-check against Poellot 1986 line-by-line; disclose any divergence in endnotes. Mid-checkpoint DOCX/PDF build (build #1 of 2). Deliverable: front matter + Ch. 1 complete, glossary populated for Ch. 1 vocabulary.
-- **Tranche 2 — Cap. II *De Objecto Theologiae generali, Religione*** (pp 28–45, ~18 pp). Object of theology; theology and religion; true religion vs. false; Quenstedt's typology of religions. Short. Deliverable: Ch. 2 complete.
-- **Tranche 3 — Cap. III *De Theologiae Principio*** (pp 46–76, ~31 pp). Principium theologiae; distinction of principium essendi vs. principium cognoscendi; principium externum vs. internum; the priority of Scripture. Deliverable: Ch. 3 complete.
-- **Tranche 4 — Cap. IV *De Sacra Scriptura* (First Half)** (pp 77–~210, ~130 pp). Doctrine of Scripture: name, authors, canon, autographs vs. apographs, the languages of Scripture (Hebrew, Aramaic, Greek), Vulgate vs. originals, translations, points and vowels (the Buxtorf–Cappellus controversy inherited), the affections of Scripture (auctoritas, perfectio, perspicuitas, efficacia). This is the meat of Quenstedt's bibliology and the reason Pars Prima is remembered.
-- **Tranche 5 — Cap. IV *De Sacra Scriptura* (Second Half)** (pp ~210–347, ~140 pp). Continuation: Scripture and tradition, Scripture and the Church, the analogy of faith, Scripture's use, the reading of Scripture by the laity (Quenstedt's own 1676 dissertation-cognate, *De lectione Scripturae Sacrae laicis concedenda*, is thematically continuous — flag cross-reference), objections and refutations. Final DOCX/PDF build (build #2 of 2). Deliverable: volume-final PDF.
+- **Tranche 0 — Kick-off** (2026-08-30, commit `55e15d6`). Notes, TN draft, terms.yaml seed. ✅
+- **Tranche 0.5 — Source sighting + text-base swap** (2026-08-30, this session). MDZ Munich `bsb11205336` (1691 Wittenberg Vol. 1) adopted as primary text-base after the IA Leipzig-1715 PDF proved impractical (1.2 GB, no OCR derivatives, network fetch fell to ~30 KB/s). BSB serves per-canvas hOCR reliably; Cap. I boundaries confirmed (canvases 19–37, folio pp 1–19); Cap. II opens at canvas 38. **CAPITA I. PARTIS transcribed → discovered Pars I has 14 chapters not 4** (see "Scope correction" above). ✅
+- **Tranche 1 Part A — *Praefatio ad Lectorem* + Cap. I §§ I–III** (2026-08-30, this session). Full Praefatio translated (Quenstedt's honour-roll of predecessors — Luther, Melanchthon, Chemnitz, Hutter, Gerhard, Calov, Brochmand — his motivation, and his 8-step Polemic method); Cap. I Thesis I *definition of theology* + 10 Notae, Thesis II *double homonymy* + 8 Notae on false theologies (Ethnic, Talmudic, Muhammedan, Samaritan, Pseudo-Christian, Heretical, Scholastic, Syncretistic, Sceptic), Thesis III *archetypa / ectypa* + 2 Notae. 13 endnotes seeded. Terms.yaml extended. No build yet (build budget preserved). ✅
+- **Tranche 1 Part B — Cap. I §§ IV–XXVIII (Sectio Prima Didactica completion)** (next session). Theses IV–VI (archetypa in the Trinity; archetypa communicated to Christ *θεάνθρωπος*; Christ's *theologia humanae naturae* — connata, infusa, acquisita, δόκησις); VII–VIII (theology of good Angels — concreated, intuitive, experimental); IX (theology of viatorum vs. comprehensorum); X–XI (Paradisiac theology, concreated and revealed); XII–XIII (theology of viatores after the Fall — natural, ἔμφυτος / ἐπίκτητος); XIV (supernatural theology — immediate revelation vs. mediate manifestation); XV onward (didactic-catechetic distinction; theology as *habitus practicus*, thesis XXXII and following, the practical/theoretical debate against the Scotists); through the end of Sectio I. Deliverable: Cap. I Sectio I complete.
+- **Tranche 2 — Cap. I Sectio Secunda Polemica** (canvases 31–37, folio pp 13–19). Polemic against the Roman-Catholic doctrine that theology is a *habitus speculativus* subordinate to metaphysics; against the Scotist reduction of theology to a *habitus affectivus*; against the Reformed doctrine that non-regenerate persons cannot properly be called theologians. Deliverable: Cap. I complete. Mid-checkpoint DOCX/PDF build (build #1 of 2).
+- **Tranche 3 — Final polish, glossary consolidation, volume-final build** — front matter (title page cross-checked against 1691 canvas 1); Contents finalised; Notes numbered afresh across the volume; Glossary rendered from `shared/terms.yaml`; back matter and colophon per the Chytraeus reference-implementation. Deliverable: volume-final PDF (build #2 of 2).
 
-Page-boundaries within Ch. IV are approximate — re-cut at each tranche's kick-off against the sighted source. Build budget: 2 builds total (Tranche 1 mid-checkpoint, Tranche 5 volume-final) per the workflow discipline.
+Build budget: 2 builds total (Tranche 2 mid-checkpoint, Tranche 3 volume-final) per the workflow discipline.
+
+**Note on scope expansion.** If Cheri decides at any tranche-review to widen the *Exercitationes* to include Cap. II *De Religione* and Cap. III *De Principio* (adding pp 20–~50, ~30 more folio pp), that adds two tranches. Including Cap. IV *De Sacra Scriptura* (which in the 1691 is likely to be the volume's dominant chapter, as it is in the 1715) would add another 5–8 tranches — the ~130-page bibliology chapter is the natural fault-line, and if included, the "*Exercitationes*" volume becomes essentially the classical Lutheran-orthodox prolegomena in the manner of Gerhard's *Loci* I.
 
 ## Editorial notes specific to this work
 

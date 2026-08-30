@@ -2778,6 +2778,168 @@ auctoritas_scripturae:
 # below this line as translation proceeds).
 # ═══════════════════════════════════════════════════════════════════════════
 
+
+# ─── QUENSTEDT · Praefatio + Cap. I §§ Ι–ΙΙΙ (Tranche 1 Part A, 2026-08-30)
+
+sermo_de_deo:
+  english: Speech concerning God
+  alt: ["λόγος περὶ τοῦ Θεοῦ"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i thesis i"
+  note: >
+    Quenstedt's basic definition of theology in Thesis I. Emphatically
+    "speech CONCERNING God" (objective genitive: λόγος περὶ τοῦ Θεοῦ),
+    not "speech OF God" (subjective genitive: λόγος Θεοῦ, which is
+    Scripture itself). The distinction underwrites the principle-vs-
+    principiate architecture of Cap. I and Cap. III.
+  see_also: [principium_theologiae, principiatum]
+
+principiatum:
+  english: Principiate
+  type: scholastic
+  first_use: "quenstedt-exercitationes, cap. i thesis i note i"
+  note: >
+    That which flows or is derived from a principle. Late-orthodox term
+    of art (Aristotle → scholasticism → 17th-c. dogmatics). For
+    Quenstedt, Scripture is the principium and theology is the
+    principiatum. Keep the Latin form in doctrinal contexts; "derivative"
+    or "flowing-from" is too weak.
+  see_also: [principium_theologiae, sermo_de_deo]
+
+didactica_polemica:
+  english: Didactic / Polemic
+  alt: ["sectio didactica", "sectio polemica"]
+  type: methodological
+  first_use: "quenstedt-exercitationes, praefatio"
+  note: >
+    The two sections into which each locus of Quenstedt's Systema is
+    divided. Didactica sets out the thetic doctrine following König's
+    Theologia Positiva pattern (causes, effects, definitions, attributes,
+    adjuncts, all with dicta probantia from Scripture); Polemica pursues
+    controversy in an 8-step method: status controversiae → thesis →
+    ekthesis → antithesis → confirmatio → ekdikesis → dialysis
+    objectionum → author index. Preserve the two Latin section-names as
+    running headers.
+  see_also: [status_controversiae, ekthesis, ekdikesis]
+
+status_controversiae:
+  english: State of the controversy
+  type: methodological
+  first_use: "quenstedt-exercitationes, praefatio"
+  note: >
+    First step of Quenstedt's 8-step polemic method: the verus status
+    quaestionis is formulated, with "false states" (misconstruals of
+    the opponent's position, or forged monstrous opinions falsely
+    imputed to us) removed. The concession that opponents rarely propose
+    the controversy fairly is Baroque commonplace but earned by
+    Quenstedt against the syncretists especially.
+  see_also: [didactica_polemica, antithesis]
+
+ekthesis:
+  english: Exposition
+  alt: ["ἔκθεσις"]
+  type: methodological
+  first_use: "quenstedt-exercitationes, praefatio"
+  note: >
+    Third step of the polemic method: the difficulties around the status
+    controversiae are cleared up through distinctions and observations,
+    and the thesis and its terms are more fully explained. In
+    late-orthodox usage, ekthesis is the space where the working
+    theologian's craft appears — scholastic distinctions applied to
+    keep the thesis exact.
+  see_also: [didactica_polemica, dialysis]
+
+ekdikesis:
+  english: Vindication
+  alt: ["ἐκδίκησις"]
+  type: methodological
+  first_use: "quenstedt-exercitationes, praefatio"
+  note: >
+    Sixth step: sacred texts are vindicated from the frivolous
+    interpretations, distortions, and depravations of the heterodox.
+    Late-orthodox term of art; the negative counterpart of confirmatio
+    (fifth step, where Scripture positively proves the thesis).
+    Together they mark the biblical-defence half of the polemic method.
+
+dialysis:
+  english: Dissolving of objections
+  alt: ["διάλυσις", "διάλυσις objectionum"]
+  type: methodological
+  first_use: "quenstedt-exercitationes, praefatio"
+  note: >
+    Seventh step: the defences that adversaries subtly seek from
+    Scripture and from the Fathers for their desperate cause are
+    wrenched from them; fair-shining Truth (ἡ εὐπρεπὴς ἀλήθεια) is
+    restored to herself. Preserve the Greek term where it echoes
+    Aristotelian aporetic method; "objection-solving" is fine in the
+    plain English body.
+
+pura_analogica_homonymia:
+  english: Pure vs. analogical homonymy
+  alt: ["homonymia pura", "homonymia analogica"]
+  type: scholastic
+  first_use: "quenstedt-exercitationes, cap. i thesis ii"
+  note: >
+    Aristotelian equivocation-typology (Categories 1a1) redeployed by
+    Quenstedt as the classificatory device for the whole subsequent
+    taxonomy: PURE homonymy generates "false theologies" (Ethnic,
+    Talmudic, Muhammedan, Samaritan, pseudo-Christian, heretical,
+    scholastic, syncretistic, sceptic — the ten Notae of Thesis II);
+    ANALOGICAL homonymy generates the archetypa/ectypa distinction
+    within TRUE theology (Thesis III onward).
+  see_also: [theologia_archetypa, theologia_ectypa]
+
+syncretismus:
+  english: Syncretism
+  type: polemical
+  first_use: "quenstedt-exercitationes, cap. i thesis ii note xiii"
+  note: >
+    The commingling of diverse religions from carnal reason and
+    untimely peace-study. Specifically: the Calixtine claim that
+    Lutherans, Reformed, and Papists can be tolerated with faith and
+    salvation safe, because their doctrinal dissent does not touch the
+    fundamentum fidei. Quenstedt inherits the anti-syncretistic polemic
+    from his father-in-law Calov; see [[calixt-apparatus-1628]] for the
+    target and [[dannhauer-mysterium-syncretismi-1648]] for the parallel
+    Wittenberg-Strassburg response.
+  see_also: [articulus_fundamentalis, consensus_quinquesaecularis]
+
+theologia_cothurnata:
+  english: Cothurnate Theology
+  alt: ["theologia sceptica", "theologia placentina", "theologia mundana"]
+  type: polemical
+  first_use: "quenstedt-exercitationes, cap. i thesis ii note xiv"
+  note: >
+    Voetius's metaphor (Selectae Disputationes III p. 829 following):
+    the Sceptic theologian is like the actor in high tragic boots
+    (cothurnus) — now this side, now that, as pragmatic necessity
+    dictates. Quenstedt places it last in his taxonomy of false
+    theologies because it degrades the very notion of theology as
+    habitus. In the working translation, keep "Cothurnate" italicised
+    on first use, gloss briefly, then "Sceptic Theology" or "Doubting
+    Theology" thereafter.
+
+sophia_adidaktos:
+  english: Undoctored Wisdom
+  alt: ["σοφία ἀδίδακτος"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i thesis iii note ii"
+  note: >
+    "Wisdom untaught" — Quenstedt's characterisation of theologia
+    archetypa: God's own wisdom that requires no teacher. Set against
+    διδακτῆς σοφίας λόγος ("word of taught Wisdom," 1 Cor. 2:13),
+    which is theologia ectypa. The pair captures the archetype/ectype
+    distinction philologically as well as theologically. Preserve the
+    Greek on first occurrence in Cap. I; use "the untaught Wisdom" in
+    English body thereafter.
+  see_also: [theologia_archetypa, theologia_ectypa]
+
+# ═══════════════════════════════════════════════════════════════════════════
+# QUENSTEDT · Tranche 1 Part A complete (Praefatio + Cap. I §§ Ι–ΙΙΙ).
+# 12 seed + 11 body entries = 23 total. Body-tranche entries to append
+# below this line as translation proceeds.
+# ═══════════════════════════════════════════════════════════════════════════
+
 # ─── PASTORAL / SECONDARY — Große, Die alten Tröster (1900) ─────────────────
 # Constantin Große's Hermannsburg-imprint Wegweiser to the devotional
 # literature of the Evangelical-Lutheran Church of the 16th–18th centuries.
