@@ -1052,7 +1052,47 @@ Illud quoq[ue] huius uiri dictum contra Paparum ambitionem praeclarum est, quod 
 
 In libro porrò de Norma vivendi, inquit Hieronymus: *Nulla tam crudelis in mundo bestia est, quàm modò du clericus vel sacerdos malus. Nam corrigi non patitur, nec veritatem audire potest.*³¹⁸ Quo ille sanè dicto admodum graphice nostros pseudo-spirituales depinxit.
 
-*[Jerome continues on `vl0081`; staged for the next Tranche 2 session.]*
+Item exponens dictum Christi *Quodcunque ligaveritis super terram* &c., dicit, indoctos prealatos sibi hinc aliquid de pharisaica supercilio arrogare, putantes se posse pro libito ligare aut soluere: cum tamen nihil aliud sit eorum ligare & soluere, quam ex uerbo Dei, eius sententiam indicare.³¹⁹ Contra nostri praelati et canonistae garriunt, sententiam spiritualium esse timendam, siue sit iusta, sive iniusta: ac non uolunt ea huius dicti interpretatione, Papae potestatem maiorem, quàm Dei ipsius est, imò supra, & contra Deum, quasi ex plenitudine potestatis liceat quicquid eius pectoris scrinio libeat, impiè arrogant.
+
+Memorabilis & illa Hieronymi sententia est: *Ecclesia ex quo creuit in possessionibus, decreuit in virtutibus.*³²⁰
+
+Hieronymus in **epistola 84**, pulchrè quoq[ue] depingit clericorum uitam, sic scribens ad Eustochium virginem: *Sunt de hominibus mei ordinis, qui ideo presbyteros et diaconatum ambiunt, ut licentius mulieres uideant. Et his est omnis cura de uestibus, si bene oleant; si pes laxa pelle non uaccillet: crines calamistri uestigio rotantur, digiti anulis nitidi radiant. Tales igitur cum uideris, sponsos magis aestimato quàm clericos. Alij ad sacerdotium anhelant, ut inopiae cedant, & miseriae: Quia in statu seruili & abiectionis esse abhorret, laborare recusant pro pigritia, mendicare erubescunt validi, quia nihil daretur eis: fatti autem sacerdotes, prouis beneficijs, ac alijs titulis, ab illis omnibus redimuntur. Alij ut rabbi uocentur, aut domini. nam in simplici statu nullius reputationis cum essent, nec respectus fiebat ab eis, facti sacerdotes, ceruices erigunt, uestes longas deferunt, honores ab hominibus exigunt, tanquam debitum iis reseruatum. Nec putant se tunc debere humiliare, & poenitentiam agere: sed imò primos accubitus ambiunt, uotiua ut debitum exquirunt, eleemosynas à fidelibus expetunt, hypocrisi, dolo, ui & fraude, modis quibuscunq[ue]. Alij ut praeeminentibus dignitatibus, diuicijs, ut suos consanguineos exaltare valeant: qui prius ignobiles ac degeneres, postea inter alios ingenui uideantur. Et isti sunt sacerdotes Baal.*³²¹
+
+Scribit item hic pater ad **Rusticum Narbonensem**, quòd ex quo creuit in Ecclesia auaricia, sicut & in Imperio, perijt lex de sacerdotibus, & uisio à propheta.
+
+Digna sanè Romanistarum impudentia est, quae hoc etiam loco taxetur. Gloriatur enim, Romanam ecclesiam esse omnium ecclesiarum matrem, cum sit penè omnium filia & ultima. Hierosolymitana est omnium mater. Inde enim exijt lex, & uerbum Dei, teste propheta. Damasus ad Hieronymum scribens, testatur, nullam certam sedem seu cautiones eam Ecclesiam usq[ue] ad sua tempora habuisse: eoq[ue] petit ab eo eam rationem psallendi, seu canendi, suae ecclesiae praescribi, quam in Oriente in usu Ecclesiae iam olim habuerunt.³²²
+
+In epistola ad Lucinum, disserit de consuetudinibus Ecclesiae, quae contra fidem non sunt, in ijs unam quamq[ue] provinciam in suo sensu abundare posse. Non ergo sensit, omnibus Romanas necessariò observandas esse, ut nunc Papistae contendunt.
+
+Adscribam hic Sylvij (seu Pij secundi) uerba, qui in concilij Basiliensis commentarijs citat locum ex Hieronymo, probans Papam, si ineptus, aut etiam malus pastor sit, piè deponi posse. Inquit igitur Hieronymus quoq[ue] super illis Matthaei uerbis, *Sal insatuatuum nihil prodest, nisi ut proijciatur foras, & conculcetur à porcis*, sic in persona Petri et Pauli inquit: *Non est facile stare in loco Petri et Pauli, et tenere cathedram cum Christo regnantium. Insatuatum sal, id est, stultus praelatus, insipidus in praedicando, & fatuus in delinquendo, ad nihilum prodest, nisi ut mittatur foras, id est, deponatur: & conculcetur à porcis, id est, à daemonibus, qui dominantur malo praelato, tanquam pecori suo.* En clarum est Hieronymi testimonium, proijciatur foras, id est, deponatur, exponit: & loquitur de praelato, qui Petri locum tenet: & sic de Romano pontifice, quem in praedicando insipidum, & fatuum in delinquendo, ex gradu ac dignitate deponendum affirmat.³²³
+
+Idem de superstitione peregrinationum pulchrè alicubi dicit: *Non Hierosolymam uidisse, sed Hierosolymis piè uixisse laudandum est.*³²⁴
+
+Memorabile et illud Hieronymi dictum est, quod & in Decretis citatur: *Veteres*, inquit, *scrutans historias, invenire non possum, aliquos alios scidisse Ecclesiam, prae quos Domini nequissimos peculiario sedituisse, praeter eos qui sacerdotes à Deo positi fuerant, & prophetae id est, speculatores. Isti ergo uertuntur in laqueum tortuosum, in omnibus locis omnes praebendo scandalum.*³²⁵
+
+Item in epistolae ad Nepotianum dicit: *Clericum ex inope divitem, ex ignobili gloriosum factum, quasi pestem quandam fuge.* At nostri clerici nec reprehendi, nec corrigi amplius volunt.³²⁶
+
+Hisce & similib. scriptis ac dictis malam gratiam apud Romanos curtisanos iniuit, ut etiam superius in **Agapitis** dixi. Fuit q[ue] in tanto & odio & periculo Romae, ut fugere inde coactus sit; sicut in gestis ipsius disertè legitur. Nimirum semper illud Satyrici uerum fuit, Romae non ueridicis, sed mendacibus & adulatoribus locum esse. Quid autem aliud de ea Babylone sperari, optari, ue potest?
+
+## Gelasius
+
+### *Pope Gelasius I* — vl0084
+
+**Gelasius Papa** sedit anno 493.³²⁷ *In Decretis de consecratione, Dist. 2*, duriter reprehendit mentes communionem sub altera tantum specie, hisce verbis: *Comperimus autem, quòd quidam sumpta tantum corporis sacri portione, à calice sacri cruoris abstineant: qui procul dubio, quoniam nescio qua superstitione docentur astringi, aut integra sacramenta percipiant, aut ab integris arceantur. Quia diuisio unius eiusdem[que] mysterij, sine grandi sacrilegio non potest accidere.*³²⁸ En iste Papa dicit esse grande sacrilegium, sub altera tantum specie communicare: praesentes verò nunc Antichristi vociferantur esse catholicum, orthodoxum, &c. Hinc etiam observatur eius sententiae, ut errorem communionis sub una specie iam olim gliscere coepisse: sed pios homines ei aliquandiu restitisse, donec tandem error ueritatem euicit & pessundedit.
+
+## Symmachus (supplementum)
+
+### *Pope Symmachus — supplement* — vl0085
+
+**Symmachus Papa** sedit aliquanto post 500 annum.³²⁹ Scripsit librum *De excessibus clericorum*. Apparet ergo, iam tunc quoq[ue] pseudo-spirituales istos, cum infinitis pluribus maioribus fuerint quàm nunc sunt, egregia iusticia pietatisq[ue]; normam excedere solitos esse.
+
+## Episcopi Germaniae & Galliae
+
+### *The Bishops of Germany and Gaul* — vl0085+
+
+**Inter collectanea Auentini**, inuenio epistolam hoc titulo, *Epistola episcoporum Germaniae et Galliae ad papam Anastasium*: cuius ea est summa, ut moneant Papam & Italicos episcopos, ut sese missos faciant, nec deinceps super eos tyrannide exercere pergant. Iubent eos, ut semel prius cauerat. Eorum enim scilicet prauam famam per orbem terrarum spargi. Se, si quid in suis regionibus peccatum fuerit, promet ipsis facile curaturos, & correcturos. Apparet tunc aliquid grauius contra eos statuisse, idq[ue] temerè ac praecipitanter. Vident uidentur Papae imperium aut regnum supra sese concedere noluisse: & alioqui multos eius tetros lapsus & uidisse, & non dissimulasse. Sed subijciam ipsam totam epistolam, unde rectius lector sententiam eius cognoscere possit. Dubito autem, ad quem Anastasium ipsi scripsissent: num ad secundum, qui sedit circa 500 Domini annum: aut potius ad primum, qui sedit circa annum Domini 400, cuiusq[ue] etiam epistola ad episcopos Germaniae missa, cum Cocilijs impressa exstat. Sequitur epistola ipsa.³³⁰
+
+*[Epistola ipsa follows on `vl0086`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1837,6 +1877,36 @@ In libro porrò de Norma vivendi, inquit Hieronymus: *Nulla tam crudelis in mund
 **³¹⁷ Jerome, *Ep.* 14 to Heliodorus** or one of the exhortatory letters — the celebrated tag *non sanctorum filii sunt, qui tenent loca sanctorum, sed qui exercent opera eorum* ("the sons of the saints are not those who hold the saints' places, but those who do their works"). Preserved in **Gratian *Decretum* Dist. 40** as an aphorism against ecclesiastical position-holding without corresponding character. Flacius reads it as Jerome's own critique of the developing Roman-episcopal position-doctrine.
 
 **³¹⁸ Jerome, *Regula monachorum* / *De Norma Vivendi*** — a work of disputed attribution, sometimes cited in medieval collections as Jerome's. The aphorism *nulla tam crudelis in mundo bestia est, quam sacerdos malus* ("there is no beast so cruel in the world as a bad priest") is a Jeromean tag preserved in canonical collections; Flacius applies it to contemporary Roman-clerical corruption.
+
+**³¹⁹ Jerome, *In Matthaeum* c. 16** (PL 26:118) — on Matt 16:19 (*quodcumque ligaveris super terram*), the *ligare et solvere* power is exercised only *ex verbo Dei*, not as arbitrary Pharisaical prerogative. Reformation-standard exegesis; compare Melanchthon *Loci* on the keys.
+
+**³²⁰** ***Ecclesia ex quo crevit in possessionibus, decrevit in virtutibus*** ("The Church, since it grew in possessions, decreased in virtues") — the famous Jeromean tag applied throughout medieval reform-literature and Reformation polemic. Actual Jerome source unclear (possibly *Vita Malchi* or an epistolary passage); the aphorism circulated freely and was standardly attributed.
+
+**³²¹** **Jerome, *Ep.* 22 to Eustochium** (PL 22:394–425) — the celebrated *de custodia virginitatis*, from which Flacius draws the extended satire on Roman clerical vanity (perfumed vestments, curled hair, glittering rings, seeking honours). The letter Jerome himself notes provoked massive clerical hostility at Rome (already glossed at endnote 178). *Sacerdotes Baal* — Jerome's closing verdict.
+
+**³²²** **Damasus I to Jerome** — the correspondence between Pope Damasus (366–384) and Jerome, which Flacius invokes to prove that as late as the 380s the Roman liturgy lacked stable canticle-practice and had to import Eastern liturgical psalmody. The specific letter is disputed; the point stands as historical fact of 4th-c. Roman liturgical dependence on Eastern models.
+
+**³²³** **Aeneas Sylvius (Pius II), *Commentarii de gestis Basiliensis Concilii*** (composed while Aeneas was secretary at the Council of Basel, 1440–1442, in his pre-papal conciliarist phase) — quotes Jerome on Matt 5:13 (*sal insipidum*) as warrant for deposing a bad pope. The *conciliarist* argument that a fatuous or wicked pope may be deposed is here traced back to Jerome — a pre-Reformation Latin patristic warrant for the Basel conciliarist theology. Flacius's use of *pre-papal Aeneas Sylvius* against *post-papal Pius II* is a favorite polemical move (already at endnote 152 and 221).
+
+**³²⁴** *Non Hierosolymam vidisse, sed Hierosolymis pie vixisse laudandum est* ("Not to have seen Jerusalem, but to have lived piously at Jerusalem, is praiseworthy") — Jerome's celebrated line against pilgrimage-as-piety-substitute. **Ep. 58 to Paulinus** (PL 22:579). Reformation-standard anti-pilgrimage locus.
+
+**³²⁵ Jerome, *Ep. ad Damasum* or *In Titum* passage** — the historical observation that in Old-Testament times only *sacerdotes et prophetae* rent the Church, applied by Flacius against the medieval clerical class as *scindentes ecclesiam*. The passage is preserved in medieval canonical collections; Flacius follows Gratian.
+
+**³²⁶** **Jerome, *Ep.* 52 to Nepotianus** (PL 22:527–540), the extended pastoral-life letter, contains the celebrated *clericum ex inope divitem, ex ignobili gloriosum, quasi pestem fuge* ("flee as from a plague the cleric who has been made rich from poor, glorious from ignoble"). Reformation-standard critique of clerical-social-mobility corruption.
+
+## From the Catalogue — Gelasius (vl0084)
+
+**³²⁷** **Pope Gelasius I** (492–496), best known for the *De duabus in Christo naturis* against Eutyches and Nestorius, and for the *Duo Sunt* letter to Emperor Anastasius on the two-swords doctrine. Flacius here focuses on Gelasius's eucharistic passage.
+
+**³²⁸** **Gelasius, *De consecratione* Dist. 2 c. 12** (preserved in Gratian's *Decretum*) — the celebrated denunciation of communion in one kind as *grande sacrilegium*. **Reformation-key proof-text against Constance 1415**: even a 5th-c. pope declared communion sub una specie sacrilegious, yet in 1415 Constance session XIII (DH 1198–1200) mandated communion in one kind for the laity. The internal-Roman contradiction is the Flacian rhetorical structure.
+
+## From the Catalogue — Symmachus (supplement, vl0085)
+
+**³²⁹** **Symmachus, *Liber de excessibus clericorum*** — a lost or uncertain work sometimes attributed to Pope Symmachus (498–514). Flacius invokes its title alone as evidence that Roman-clerical corruption was already recognised and documented in 500 AD.
+
+## From the Catalogue — Episcopi Germaniae & Galliae (vl0085–)
+
+**³³⁰** **The *Epistola episcoporum Germaniae et Galliae ad papam Anastasium*** — preserved in **Johannes Aventinus's *Annales Boiorum*** (Ingolstadt, 1554) collectanea; a document of contested authenticity, possibly a 15th-c. Gallican-conciliarist forgery projected back onto the pontificate of Anastasius I (399–401) or Anastasius II (496–498). Flacius honestly notes his uncertainty about which Anastasius. The letter's claim that the Trans-Alpine bishops rebuked papal jurisdictional overreach is the polemical content, whether the document is 5th-c. or 15th-c.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

@@ -3513,12 +3513,75 @@ non_sanctorum_filii:
     holding without corresponding character. Flacius reads as Jerome's
     own critique of developing Roman-episcopal position-doctrine.
 
+# ─── Tranche 2p — Jerome tail + Gelasius + Symm-supp + Germaniae 81-85 ──
+
+ecclesia_ex_quo_crevit_in_possessionibus:
+  english: Ecclesia ex quo crevit in possessionibus decrevit in virtutibus
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hieronymus at vl0081"
+  note: >
+    Famous Jeromean tag applied throughout medieval reform-literature
+    and Reformation polemic. Actual Jerome source unclear (possibly
+    Vita Malchi or an epistolary passage); circulated freely.
+
+sacerdotes_baal:
+  english: Priests of Baal (Jerome on clerical vanity)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hieronymus at vl0081"
+  note: >
+    Jerome Ep. 22 to Eustochium (PL 22:394-425) closing verdict on
+    corrupt clerical vanity — perfumed vestments, curled hair,
+    glittering rings, seeking honours. Letter provoked massive
+    clerical hostility at Rome (n178). Reformation-standard tag.
+
+pius_ii_conciliarism:
+  english: Aeneas Sylvius conciliarism (pre-papal Pius II)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hieronymus at vl0083"
+  note: >
+    Aeneas Sylvius Piccolomini Commentarii de gestis Basiliensis
+    Concilii (1440-42, pre-papal) — quotes Jerome on Matt 5:13
+    sal insipidum as warrant for deposing bad pope. Flacius uses
+    pre-papal Aeneas Sylvius against post-papal Pius II as favorite
+    polemical move (parallel n152 + n221).
+
+pilgrimage_critique:
+  english: Non Hierosolymam vidisse (Jerome anti-pilgrimage)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hieronymus at vl0083"
+  note: >
+    Jerome Ep. 58 to Paulinus (PL 22:579) — Non Hierosolymam uidisse
+    sed Hierosolymis pie uixisse laudandum est. Reformation-standard
+    anti-pilgrimage locus.
+
+gelasius_de_consecratione_dist_2:
+  english: Gelasius against communion sub una specie
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Gelasius at vl0084"
+  note: >
+    Gelasius I (492-496) De consecratione Dist. 2 c. 12 (Gratian
+    Decretum) — divisio unius eiusdemque mysterii sine grandi
+    sacrilegio non potest accidere. REFORMATION-KEY PROOF-TEXT
+    against Constance 1415 session XIII (DH 1198-1200) mandating
+    communion in one kind for laity — even 5th-c pope declared
+    it sacrilege. Internal-Roman contradiction structure.
+
+epistola_germaniae_galliae:
+  english: Epistola episcoporum Germaniae et Galliae ad Anastasium
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Episcopi Germaniae at vl0085"
+  note: >
+    Preserved in Johannes Aventinus Annales Boiorum (Ingolstadt 1554)
+    collectanea. Contested authenticity (possibly 15th-c Gallican-
+    conciliarist forgery projected onto Anastasius I 399-401 or II
+    496-498). Flacius honestly notes uncertainty about which Anastasius.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Jerome opening (vl0001-vl0080, 80 body
-# pp + 32 paratexts ≈ 14.6% of 1094-pp body). Flacius lemma total: 10
-# seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
-# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
-# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) = 98.
+# FLACIUS 1556 — TRANCHE 2 through Episcopi Germaniae opening (vl0001-vl0085,
+# 85 body pp + 32 paratexts ≈ 15.5% of 1094-pp body). Flacius lemma total:
+# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
+# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
+# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) = 104.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
