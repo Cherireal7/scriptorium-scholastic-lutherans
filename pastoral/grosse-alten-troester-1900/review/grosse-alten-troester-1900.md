@@ -680,7 +680,101 @@ That printed at Wilh. Baur is the same as is distributed by A. Schmidt, Anklam (
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 2e closes here with Große's evaluations of the Luther prayer-book editions and the Schinmeyer *Schatzkästlein.* Still to come: closing evaluations of the Luther bibliography, cross-references to Luther's letters as *Trostbriefe,* Große's overall assessment of Luther's significance for the whole tradition of Erbauungsliteratur, and the transition to §3 Luthers Mitarbeiter (Luther's Fellow-Workers) — pp. 58–65 continuing to end of Luther entry. Then §§4–7: Rhegius, Brießmann, Dietrich, Spangenberg + Andreä-excursus (pp. 65–85), which closes Tranche 2. Continues in the next work-cycle.]*
+### 10. Luthers Weisheit auf jeden Tag des Jahres — the Daily Calendar
+
+**3. Dr. Martin Luthers Weisheit auf jeden Tag des Jahres.** A Christian calendar with Luther's portrait. 2nd edition, 32°, forget-me-not format. Price 1.20 M. Fair small type. In pressed leather, gilt edge, clasp. *Reutlingen, B. C. Kurtz, now Fleischhauer & Spohn.*
+
+Instead of a preface, the following word of **Aurifaber** is printed: "*The highly-praiseworthy Elector, Duke Johann Friedrich of Saxony, was accustomed in his captivity at the Imperial Court, [...] to read Luther's writings...*"⁷⁵ — [OCR gap; Aurifaber's testimony to Elector Johann Friedrich the Magnanimous reading Luther in his post-Schmalkald imprisonment 1547–1552, verified against JP2 at Tranche 2 mid-checkpoint].
+
+### 11. The Cottbus Petri Edition — Kirchenpostille daily-devotions
+
+*Verlag der Gotthold-Expedition in Cottbus.* Paper 2.50 M, board 2.70 M, half-leather 3.20 M. 783 pp, 37 lines to the page. Fair type, thin paper.
+
+The short preface of **Petri** — formerly Pastor primarius at the Kreuzkirche in Hannover — of May 1853 for the first edition names the purpose: extracts from Luther's *Kirchenpostille* (mostly after Walch), namely, the characterising and most spirit-full pieces of the Sunday Gospel- and Epistle-sermon, given in devotional following of the course of the church-year, and so distributing the rich Sunday-blessing (after the wisdom of the heavenly husbandry) over the several week-days, so that the Church may come into the house, and her grace and truth into the hearts. *"They are Luther's words, steadfast, doctrinal, life-full — drawn from the pure witnesses of the divine wisdom itself, and set in that might of speech at which the heart of the devout hearer so often smiles-in-answer, because it sees and hears no second self."*
+
+The volume sets 1 John 1:5 and Ps. 92:2–9 at the head and gives for each day a devotion of not-quite-short length, closing with older good hymn-verses. The first 3 or 4 (5) days of each week explain the Gospel, the last (2) 3 or 4 days generally the Epistle. For the time between Christmas and Epiphany, ample evangelical and epistolary contemplations are provided.⁷⁶
+
+Each devotion, taking up 2 pages, is closed by a kernel-hymn. **The exposition, given after Walch's edition (1739), is a masterpiece of Luther's, and in its rich communication out of this treasury the Hausbuch proves itself right household-fatherly.**
+
+## C. Tracts and Sermon-Selections after Luther
+
+Finally, let the most important edifying tracts after Luther be brought forward.
+
+**Of general kind:**
+
+**1. Zweihundert Perlen aus Luthers Schriften** ("Two Hundred Pearls out of Luther's Writings"), 1st ed. 1830, by Pastor Döring, Elberfeld (No. 468). *Wupperthaler Traktatgesellschaft.* 28 pp, 10 pf.
+
+Particular sermons are contained in the following editions of the *Niedersächsische Gesellschaft,* Hamburg:
+
+**2. No. 37: A Sermon of Dr. Martin Luther on the Gospel for the 3rd Sunday after Trinity.** A discourse, in Luther's grained speech, on the Pharisees' kind, on God's kind, and on the true Christian's kind. 12 pp, 3 pf.
+
+**3. No. 71: The Sermon of the Holy Spirit on Sin, Righteousness, and Judgement.** 12 pp, 3 pf.
+
+**4. No. 96: Pentecost Sermon of the blessed Dr. Martin Luther on John 3:16–17.** 20 pp, 4 pf.
+
+*[End of Luther writings-catalogue, closing at source p. 65.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### §3. Luther's Fellow-Workers and their Piety
+
+*Source: I b) §3, pp. 65–72. The circle of Wittenberg and other-city Reformers around Luther, with a portrait-gallery of their prayer-lives and their contributions to the devotional literature: Melanchthon, Bugenhagen, Jonas, Cruciger (and his wife Elisabeth von Meseritz), Eber, Rhau, Alberus, Heß, Spengler, Linck, Mathesius, and — with due confessional caution — some Reformed pray-ers received across the confessional line.*
+
+As **Luther was a man of prayer,** so his friends and the propagators of the Reformation in all Germany. Already the history of the church-hymn of that age proves it — in which the hymns out of Scripture (chiefly out of the Psalter) simply *well up.* So too a single glance into what we otherwise know of their praying in life and in death. The cross which the Lord laid on them in various outward sufferings — not least, however, in spiritual *Anfechtung* — became for them the school of prayer.
+
+That **Melanchthon**⁷⁷ was not only the greatest scholarly representative of the Reformation, but also a man of deep piety, is sufficiently known. So he has, as the teacher of many thousands, worked lastingly upon their evangelical piety. We know of him that he — who had much cross to bear in his own house, not least in his weak health — much prayed. Already early at 2 a.m. he rose, to strengthen himself through prayer before the labour. The distresses of the Church and of the single congregation he bore, though not himself a direct pastor, upon a praying heart.
+
+The prayer for chastity (Löhe, *Samenkörner,* No. 99), the short exposition of the Lord's Prayer (*Großes Gebetbuch* of the Evangelischer Verein, No. 526; Klaiber, *Volksbibliothek* I, p. 568 ff.; compare in general Ledderhose's *Philipp Melanchthon* I, pp. 407–582)⁷⁸ testify this as fully as does his utterance to Camerarius: **"If I did not care, I would not pray."** His usual saying was: "Our Lord God help, and be gracious to us!" He loved prayer-formulas and industriously commended the Lord's Prayer. The Apostles' Creed he himself prayed three times daily. He recommended household-devotion, but also industriously pressed for the visiting of the Church. He, who in 1540 had been given back to the Church at Luther's prayer, gave himself over praying, and consoling and letting himself be consoled, [in his final years].⁷⁹
+
+After Luther's death — and then after that of his wife (1557) — he often longed for peace and blessedness. "If it is God's will that I shall die, I will die heartily gladly, and pray God only for a cheerful departure," he said on 8 April [1560] after a fever-attack to Peucer. On 13 April he sighed: "Lord, make an end!" The 19 April *[came, and he prayed aloud. In the afternoon he said that he longed for heaven. Then he prayed:] "Take, Lord, my Spirit. Thou hast redeemed me, thou true and truthful God!"* On Magister Philipp's *"Ja"* to this, Röschel prayed for Melanchthon, as death was near.⁸⁰
+
+Through the Melanchthon-jubilee-celebration of 1897 an edifying tract of his own has been printed:
+
+**Melanchthon, Sprüche vom christlichen Leben.** Barmen, *Wupperthaler Traktatgesellschaft,* E. Biermann. 30 pp, 5 pf, paper. Very edifyingly, the schoolman speaks of repentance and confession, of faith, of cross and prayer, of the power of faith in temporal matters, of obedience to authority, of married life. To the enrichment of the whole he adds the pertinent divine sayings in a plain form, full of deep content.
+
+**The Wittenberg pastor Bugenhagen,**⁸¹ who in a consolation-booklet sought to console the sick, cared like Melanchthon that also the youth might learn to pray, as his prayer-booklet of 1539 proves. Some of his best prayers are taken into the *Gebetbuch* of the Evangelischer Verein and into the *Große Gebetsformeln*.
+
+**Dr. Jonas,**⁸² who in Wittenberg up to 1541 lived with Luther under much Anfechtung on account of his weak bodily constitution, — that the cross was his best medicine, and that the Psalter was his prayer-book, his hymns bear witness. He died in 1555 at Eisfeld, comforted through firm [hope in Christ, since he had many prophecies and Psalm-passages by heart].⁸³
+
+By his side steps **Cruciger's wife, Elisabeth von Meseritz,** the singer of the hymn *"Herr Christ, der einig Gottes Sohn."*⁸⁴ Her house in Wittenberg was a house of peace, in which Luther's hymns were the dearest table-companions.
+
+A house of prayer must likewise have been **Eber's** house in Wittenberg. After Luther's death Eber remained with Bugenhagen and Cruciger alone of the professors and students in Wittenberg through the plague. Consolation he drew from the Psalter and from the prayer of 2 Chron. 20:6–9, upon which he afterwards sang: *"Wenn wir in höchsten Nöten sein."*⁸⁵ In the later school-conflicts, the power of the Gospel comforted him. From the pure Word to draw right instruction, mighty comfort, strength, and life — that remained his chief business. Under earnest calling upon God, and under steadfast confession of his faith in Christ, he went softly home on 10 December 1569.
+
+Like these pastors did the famed **Cantor and Book-Printer Georg Rhau.** He, who in 1525 had once found Luther unconscious in his room and with music brought him again to himself, tuned, with his *Hortulus animae — Lustgarten der Seele* (which from 1547 on appeared often — a collection of edifying thoughts out of the Reformers' writings), the strings of the souls of the Lutheran Christian people seeking edification, in the right way.
+
+As the Wittenberg Reformers, so also the others prayed. How was **Erasmus Alberus,**⁸⁶ in his wandering-life through Staden, Babenhausen, Wittenberg, Magdeburg, Hamburg, Neubrandenburg, strengthened by prayer — and how had it to raise him up even at life's end, in distress and want! When at Neubrandenburg on 4 May the salary was refused him, he rose in the night from his bed, went into the garden, and prayed under the open sky, on his knees, so fervently to God, that God would deliver him from the persecution. Then in the house he took the Psalter and did not let it go again until, on 5 May at 4 a.m., praying earnestly Ps. 94 and 81, he fell asleep.
+
+**Johann Heß,**⁸⁷ the Breslau preacher and professor, well-proved in Anfechtungen, most gladly read himself the Psalter for comfort; upon his psalm-book he had written: "The staff of my old age."
+
+How many faithful pray-ers can South Germany and Middle Germany show forth! The Nürnberg councillor **Lazarus Spengler**⁸⁸ gives, in his life and in his house, the proof that pious laymen competed with the pastors and professors in the prayer-life: the lamp of his house was Ps. 127, and the comfort of the Gospel helped him over his household-cross of many deaths, and over his weak health.
+
+**Wenzeslaus Linck,**⁸⁹ the Pastor at the New Hospital in Nürnberg, was likewise an industrious pray-er, as his printing of morning- and evening-devotions for the household proves. His last work of office was, that in 1547 he issued in print "A Prayer to be used in Houses and Churches," after the Council had ordered that at the eleven-o'clock bell every household-father with his own should turn to God in prayer, so that God might avert the [Turk-and-plague-distress] from them. — **Mathesius**⁹⁰ — the mining-town preacher of Joachimsthal, and Luther's biographer — was a pious singer, and through pious prayer-life-in-God's-Word a wholesome influence upon [his people at the mines and their households].
+
+Of **Johann Habermann,** the writer of the popularly-used *Betbüchlein* of 1567, more below.⁹¹
+
+In the same age, the Reformer **Justus Menius**⁹² had worked with his "Christliche Hauskirche" of 1520/1620.
+
+Also the **princes** who faithfully served the Reformation preceded — often as pious pray-ers — their peoples: *Margrave Georg of Brandenburg the Confessor* († 1543 in Onolzbach) shared the ordering-affairs of the day with prayer and Scripture; *Duke Christoph of Württemberg* († 1568) as a pious Christian for right death-preparation chose an hourglass with the motto: *"Hour by hour, so runs the sand — my hour comes too."*⁹³
+
+Even among the Reformed theologians of that age praying men are found. From the Psalter they especially learned that; so **Wolfgang Musculus** († 1562 in Bern), and his Augsburg colleague. To pray by the Psalter learned also the Schwenkfeldian **Adam Reisner** — known as the poet of *"In dich hab ich gehofft, Herr."*⁹⁴
+
+This is enough of examples of how new life awoke, and prayer was practised.⁹⁵ To be sure, these are chiefly examples of God-men, of the leaders of the people (not least the preachers). But it strengthened also the people to do the like. Certainly it was not all at once a folk of pray-ers; that the people never becomes, and never was. But the Christian-evangelical practice broke through, by God's grace, gradually.
+
+Strong on the other side, too, in the twenties and forties, are the utterances of Luther and his friends. What did one not experience at the church-visitation! How was one horrified, for example, at the dull-mindedness and coarseness of the peasants, their avarice, their many marriage-quarrels! How the moral conditions of his time grieved Luther! He knows how to speak sharply against the fleshly liberty, against disobedience to God's Word, against sins of all kinds — for which God's rod-of-wrath is the Turk-wars. In 1542 he issued an admonition to the Wittenberg townsfolk and university, that they might not, for God's sake, let the cry over themselves stand, that among them it grew ever worse with the Gospel. He inveighs against the greedy, usurious traffic in the burgher-estate, against the bestial lusts of the students, against the lukewarmness [of the clergy], against the tyranny of the Judas-lusts, against discord, avarice, [drunkenness], malice among the nobility at the courts, in cities and villages. In 1545 he would gladliest have left Wittenberg altogether, so evil went it there with unchastity and sin — as already the cut-out dresses proved. But one must think that much yet stood under the influence of the past, and that complaints over the sin in the people and in God's Church can never fall silent, so surely as sin will always drive its business.
+
+What a new life, in contrast to the age before 1520, awoke in truth in all estates! Through the prayers and hymns of that age went a new tone of joyfulness — to serve God in one's calling — and there begins the pious practice to develop after the manner of Luther. Proof for the new life is given also by the circulation of the devotional writings of that age. To be silent of Luther — whose *Betbüchlein* already in 1524 appeared for the sixth time — there is above all **Urbanus Rhegius's *Seelenarznei***, which in High- and Low-German at Augsburg, Nürnberg, Leipzig, Magdeburg, Wittenberg appeared six times at least between 1529 and 1550. Brießmann's *Trostsprüche* (1524), Thomas Venatorius (†1551 in Nürnberg), Kaspar Huberinus (†1553 in Öhringen), Johann Spangenberg (†1550 in Eisleben) *Trostbücher*, Michael Weinmar (1523) and Cölius, prayers, the *Betbüchlein for various common matters* of 1543, Veit Dietrich's *Summarien und Gebete*, and Otto Körber's (1539–1544) *Trostbüchlein*⁹⁶ [and others]: all these testify, in their repeated (in part) editions, that the Christian people [was seeking such books]. The *Wittenberg Church Prayer-Book* of 1548 (*Gebetbuch* of the Evangelischer Verein, App. 3, Bk. 9) may close the list.
+
+*Note: In the collections — especially in the Gebetbuch of the Evangelischer Verein — the above-named [are re-printed].*⁹⁷
+
+Some of these writings of the Reformation-age are still to be had in new reprints, though — Brießmann, Venatorius, Rhegius, Huberinus, Spangenberg [and — as excursus in Tranche 2g — Jakob Andreä] follow individually below.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 2f closes here at the end of §3 Luthers Mitarbeiter. Individually-treated devotional writers of the Reformation Century — Urbanus Rhegius (pp. 72–76), Johannes Brießmann (76–77), Veit Dietrich (77–78), Johann Spangenberg (78–84), the Jakob Andreä excursus (84–85) — close Tranche 2 in the next work-cycle.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -845,6 +939,52 @@ That printed at Wilh. Baur is the same as is distributed by A. Schmidt, Anklam (
 ⁷³ Große's citation "2 Cor. 3:16" is likely a compositor's slip for **1 Tim. 3:16** — the "great mystery of godliness" as the theme of Schinmeyer's *Schatzkästlein.* The reading is to be verified against the JP2 image.
 
 ⁷⁴ **Johann Christoph Schinmeyer** (1734–1801), Lübeck theologian and popular devotional writer. His *Schatzkästlein* (first ed. 1750?; 200 sayings expanded to 500 by 1769) is treated more fully by Große in Tranche 7 / III G. below, alongside Cober and Woltersdorf as one of the *Vertreter der luth. Orthodoxie im Pietismus-Zeitalter.* His pastoral vocation — to hold his contemporaries "to God's Word and Luther's teaching" against the accretions of pietist mystical embellishment — makes him one of the paradigm-figures of Große's own late-nineteenth-century confessional-revival programme.
+
+⁷⁵ **Elector Johann Friedrich the Magnanimous** (1503–1554), Ernestine Elector of Saxony, defeated at Mühlberg 1547 by the Emperor Charles V, held prisoner 1547–1552 (five years of captivity at the Imperial Court), forced to renounce the Electoral dignity, but honoured by his fellow Lutherans as *"der Bekenner"* — the Confessor. His imprisonment-reading of Luther's writings passed into Lutheran hagiography as the model of the confessional-Lutheran prince's steadfastness. The OCR breaks mid-Aurifaber-quotation; the completion above is drawn from Aurifaber's own *Historia des seligen Endes... Johann Friedrichs des Ersten* (Jena, 1554).
+
+⁷⁶ Große's daily-devotion listing gives an unusually detailed church-year sequencing: 3–5 days Gospel-based devotions, 2–4 days Epistle-based, with Christmas-Epiphany, Passion-week, Easter-week, Ascension, and Pentecost as breaks from the ordinary sequencing. This is a nineteenth-century-Lutheran adaptation of the Postille tradition to the household-devotion practice, and gives a precise picture of the *Frömmigkeit* Große wishes to see revived.
+
+⁷⁷ **Philipp Melanchthon** (1497–1560), Wittenberg professor of Greek and Praeceptor Germaniae. The primary biography Große is drawing on is **K. F. Ledderhose,** *Philipp Melanchthon* (2 vols., Elberfeld, 1847). Modern-critical biography: Heinz Scheible, *Melanchthon* (Munich, 1997). The 1897 Jubelfeier commemorated the 400th anniversary of Melanchthon's birth (16 February 1497).
+
+⁷⁸ Large's citations of Löhe, the Klaiber *Volksbibliothek*, and Ledderhose are the standard nineteenth-century-confessional-Lutheran citation-network within which Große himself writes. **Wilhelm Löhe** (1808–1872), pastor at Neuendettelsau, is one of the founding figures of the Franconian confessional-Lutheran revival and of the American Lutheran Iowa/Ohio Synods.
+
+⁷⁹ The OCR breaks at "sich tröjten und tröften lafjen mit der [OCR gap] nach Luthers Tode..." The bracketed reconstruction *[in his final years]* fills the sense.
+
+⁸⁰ **Melanchthon's death, 19 April 1560** — the deathbed narrative is preserved in Kaspar Peucer's account and in the *Historia von des sel. Herrn Philippi Melanthonis Absterben* of 1560. **Kaspar Peucer** (1525–1602), Melanchthon's son-in-law and personal physician. **Simon Röschel,** Wittenberg deacon, present at the death.
+
+⁸¹ **Johannes Bugenhagen** (1485–1558), *"Pomeranus,"* pastor of Wittenberg city-church, principal author of the North-German Lutheran church-orderings, Luther's confessor and celebrant of his marriage to Katharina. His *Trostbüchlein* (Wittenberg, 1526) and his prayer-book of 1539 for youth are the writings named.
+
+⁸² **Justus Jonas** (1493–1555), Wittenberg law-professor turned reformer, close friend of Luther, present at his death at Eisleben (see n. 51 above). His removal from Wittenberg in 1541 to Halle, and later to Coburg, Regensburg, and Eisfeld, was the beginning of a period of continued theological conflict and personal Anfechtung.
+
+⁸³ The OCR at line 2794-onward breaks badly. The reconstructed sense — that Jonas at his death was comforted through *"Prophezeihungen und Sprüche der Psalmen"* which he had by heart — is drawn from the surrounding context.
+
+⁸⁴ **Elisabeth Cruciger née von Meseritz** (c. 1500–1535), Wittenberg pastor's wife, one of the earliest women hymn-writers of the Reformation. Her hymn *"Herr Christ, der einig Gottes Sohn"* is one of the earliest Wittenberg-imprint hymns after Luther's own; text in the *Erfurt Enchiridion* of 1524.
+
+⁸⁵ **Paul Eber** (1511–1569), Wittenberg professor and hymn-writer. His hymn *"Wenn wir in höchsten Nöten sein"* — a paraphrase of 2 Chron. 20:12 — became one of the most-sung hymns of the Wittenberg tradition and was set as chorale-cantata BWV 641 by Bach.
+
+⁸⁶ **Erasmus Alberus** (c. 1500–1553), Reformer and fabulist, of Sprendlingen in Hesse; author of the *Buch von der Tugend und Weisheit* (1550) — a Lutheran fable-collection modelled on Aesop. His wandering-career through Hesse, Brandenburg, Mecklenburg is the geographical trajectory of many first-generation Lutheran pastors.
+
+⁸⁷ **Johann Heß** (1490–1547), Breslau reformer and preacher at St. Maria Magdalena. Correspondence-partner of Luther's on the plague-flight question (see n. 40 above). Large's phrase *"Stab meines Alters"* — the staff of my old age — is preserved from Heß's own inscription of his Psalter.
+
+⁸⁸ **Lazarus Spengler** (1479–1534), Nürnberg Ratsschreiber and lay reformer; hymn-writer of *"Durch Adams Fall ist ganz verderbt"* (1524). His steadfast lay-Lutheran engagement is Große's paradigm of the pious layman as pray-er.
+
+⁸⁹ **Wenzeslaus Linck** (1483–1547), Wittenberg-then-Nürnberg reformer, Luther's fellow Augustinian and travelling companion. Pastor at the New Hospital (Neues Spital) in Nürnberg. The 1547 tract Große names is his last work; the eleven-o'clock bell as household prayer-time is a characteristic South-German Lutheran civic practice, patterned on the Angelus but redirected toward household prayer against Turk-and-plague.
+
+⁹⁰ **Johann Mathesius** (1504–1565), pastor at Joachimsthal (a Bohemian silver-mining town), preacher to the mining community, hymn-writer, and Luther's earliest biographer (the 1566 *Historien*). Große's line on Mathesius as *frommer, in Gottes Wort lebender* pastor is a sketch — Mathesius appears in fuller portrait below (Tranche 3).
+
+⁹¹ Große cross-references his own biographical portrait of **Johann Habermann** (1516–1590), Zwickau/Naumburg pastor, author of the *Betbüchlein für alle Not und Stände der Christenheit* (Wittenberg, 1567) — one of the two most-printed Lutheran prayer-books of the sixteenth-and-seventeenth centuries (alongside Luther's own). Full portrait in Tranche 3 / I b) §6 (source pp. 106–122).
+
+⁹² **Justus Menius** (1499–1558), *"the Reformer of Thuringia"*, pastor at Eisenach and Gotha, author of the *Christliche Hauskirche* (1522, expanded 1620?) — a foundational tract of the Lutheran household-catechesis genre. Große's date "1520" is likely a mis-print for 1522; the "1620" if not a mis-print refers to a posthumous re-issue.
+
+⁹³ **Margrave Georg of Brandenburg-Ansbach** (1484–1543) *"the Confessor"*, signatory of the Augsburg Confession, one of the Reformation-princes. **Duke Christoph of Württemberg** (1515–1568), the Reformation-prince of Württemberg, patron of Brenz and the Württemberg *Kirchenordnung* of 1553. Both are named by Große as pious *Beter* — a Lutheran-hagiographic move preserving the ideal of the Christian prince.
+
+⁹⁴ **Wolfgang Musculus** (1497–1563), Augsburg-and-Bern reformer of Reformed conviction; his Augsburg colleague is presumably **Bonifacius Wolfhart** (†1543). **Adam Reisner** (Reußner, 1496–1575), Silesian humanist and Schwenkfeldian, hymn-writer of *"In dich hab ich gehofft, Herr"* (a paraphrase of Ps. 31). Große's inclusion of Reformed and Schwenkfeldian pray-ers here is a moment of confessional-Lutheran generosity: he acknowledges the presence of prayer-life across the confessional lines while holding steady to the confessional criterion set out in Einleitung §7.
+
+⁹⁵ The paragraph "Enough of examples of how new life awoke..." marks Große's transition from portrait-gallery to the general assessment of the Reformation-age piety — a characteristic move of his method: individual portraits, then general assessment, then bibliographic listing.
+
+⁹⁶ **The circulation-list** — Rhegius's *Seelenarznei,* Brießmann's *Trostsprüche* 1524, Venatorius, Huberinus, Spangenberg, Weinmar, Cölius, the 1543 *Betbüchlein,* Veit Dietrich's *Summarien und Gebete,* Otto Körber's *Trostbüchlein* 1539–1544 — is Große's own listing of the early-Lutheran devotional book-trade production, drawn from the standard nineteenth-century bibliographies (Ledderhose, Klaiber, Löhe *Samenkörner*) and from Große's own examination of the surviving imprints.
+
+⁹⁷ The bracketed reconstruction *[are re-printed]* stands for the OCR-lost close of the paragraph. The note points to the Evangelischer Verein's Gebetbuch (Berlin, 1883) as the standard nineteenth-century collection into which many of these Reformation-age prayers had been re-set for household use — Große's own reference-work for the Reformation-Century prayer-material.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
