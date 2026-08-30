@@ -2686,3 +2686,175 @@ auctoritas_scripturae:
 # QUENSTEDT — KICK-OFF (12 seed entries; body-tranche entries to append
 # below this line as translation proceeds).
 # ═══════════════════════════════════════════════════════════════════════════
+
+# ─── PASTORAL / SECONDARY — Große, Die alten Tröster (1900) ─────────────────
+# Constantin Große's Hermannsburg-imprint Wegweiser to the devotional
+# literature of the Evangelical-Lutheran Church of the 16th–18th centuries.
+# Genre-vocabulary of Erbauungslitteratur — the Lutheran devotional-genre
+# apparatus by which Große classifies the writers he surveys. Kick-off:
+# 12 seed entries; body-tranche entries append below the section-end marker.
+
+Erbauungslitteratur:
+  english: Devotional Literature
+  alt: ["Erbauungsliteratur"]
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, title"
+  note: >
+    Große's own controlling category — the Lutheran-Protestant genre of
+    writings aimed at the edification (Erbauung) of the reader's inner
+    life: prayer-books, meditations, hymn-collections, funeral-consolations,
+    catechetical-devotional expositions, and Trostschriften. Distinct from
+    dogmatic, polemical, and homiletic literature, though the boundary
+    with sermon-collections is soft. Große spells the word with the older
+    double-t (Erbauungslitteratur); the modern form is Erbauungsliteratur.
+    Preserve his form in title-and-Latin reference; use "devotional
+    literature" freely in English body.
+  see_also: [erbauung, andacht, trost, trostschrift, betrachtung]
+
+erbauung:
+  english: Edification
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    The interior building-up of the Christian in faith, hope, and love,
+    accomplished through the Word and the devotional means Große surveys.
+    A Pauline term (1 Cor. 14:26; Eph. 4:12) claimed by the Lutheran
+    devotional tradition as its own defining aim. Preserve "Erbauung"
+    on first substantive occurrence in each section; use "edification"
+    thereafter.
+  see_also: [erbauungslitteratur, andacht]
+
+andacht:
+  english: Devotion / Meditation
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    The inner act of directed, prayerful reflection on Scripture or on
+    a doctrinal-devotional theme. In Lutheran usage the noun covers both
+    the interior act and its written form: an Andachtsbuch is a book
+    of such directed reflections. Context governs the English: "devotion"
+    for the interior act, "meditation" for the written form when the
+    genre-name is at stake.
+  see_also: [betrachtung, andachtsbuch]
+
+andachtsbuch:
+  english: Devotional Book / Book of Meditations
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    The written-genre form of Andacht. A book of directed meditations
+    for private reading. Contrasts with Gebetbuch (prayer-book) and
+    Trostbuch (consolation-book) as neighbouring genres within
+    Erbauungslitteratur.
+  see_also: [andacht, gebetbuch, trostbuch]
+
+betrachtung:
+  english: Contemplation / Meditation
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    Sustained interior consideration of a scriptural or doctrinal theme,
+    typically longer and more elaborated than an Andacht. Arndt's *Wahres
+    Christentum* is arranged as a sequence of Betrachtungen; the term
+    carries the meditative-mystical inflection that Große watches for as
+    the pietism-boundary is approached.
+  see_also: [andacht, meditation_lat]
+
+trost:
+  english: Comfort / Consolation
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, title"
+  note: >
+    The title-word of the whole volume — "die alten Tröster" are the
+    old bringers-of-consolation. Lutheran Trost is theological before it
+    is affective: it consists in the promises of God in Christ addressed
+    to the afflicted conscience. Preserve on formal occurrence; use
+    "consolation" or "comfort" freely thereafter as context requires.
+  see_also: [troester, trostschrift, trostbuch, anfechtung]
+
+troester:
+  english: Comforter / Consoler
+  alt: ["Tröster"]
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, title"
+  note: >
+    A bringer of Trost. In Große's title the plural "alte Tröster"
+    designates the Lutheran devotional writers of the 16th–18th centuries
+    themselves — the tradition's witnesses of consolation. The term
+    carries a christological echo (Christ as παράκλητος, the "Comforter"
+    of John 14:16), which Große trades on but does not press. Preserve
+    "Tröster" in title reference; use "Comforter" or "Old Comforters"
+    for the collective in the English body.
+  see_also: [trost, parakletos]
+
+trostschrift:
+  english: Consolation-Writing
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    A written consolation, typically addressed to a specific affliction
+    (bereavement, plague, exile, imprisonment, temptation). Distinct from
+    a Trostbuch (a book-length collection of consolations) by scope: the
+    Trostschrift is often a single tract or letter. Große's survey
+    catalogues Trostschriften across the three centuries, from Luther's
+    own to the late-baroque anthology.
+  see_also: [trost, trostbuch, anfechtung]
+
+trostbuch:
+  english: Consolation-Book / Book of Consolations
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    A book-length arrangement of consolations, typically by topic (against
+    death, against sickness, against poverty, against calumny) or by
+    Christian estate (for widows, for the imprisoned, for the persecuted).
+    Chytraeus's *duodecim consolationes Christianae* in his 1594
+    Catechesis (Locus IX §9) is a compact prototype of the genre;
+    Große's *Wegweiser* is the survey of the tradition that arose from it.
+  see_also: [trost, trostschrift, consolatio, chytraeus-catechismus-1594]
+
+anfechtung:
+  english: Spiritual Affliction / Testing / Assault
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, vorwort"
+  note: >
+    Central Lutheran term for the trial that presses in on the conscience
+    from sin, death, devil, and the hidden God. What Trost is addressed
+    to. The English lexicon has no single equivalent: "affliction" catches
+    the passivity, "testing" the theological weight, "assault" the
+    devil-and-hidden-God dimension. Preserve Anfechtung untranslated
+    on formal occurrence; render context-appropriately in English body.
+  see_also: [trost, deus_absconditus, tentatio_lat]
+
+vaeter:
+  english: The Fathers
+  alt: ["Väter"]
+  type: pastoral
+  first_use: "grosse-alten-troester-1900, title"
+  note: >
+    Große's "alte Tröster" are the Lutheran devotional Väter of the
+    16th–18th centuries — the Fathers of the Lutheran devotional
+    tradition, in a deliberate echo of the patristic "Fathers" (patres,
+    πατέρες) of the ancient Church. The echo carries the whole authorial
+    claim: that Lutheran devotion has its own ancestry of authoritative
+    voices. Preserve the echo; render "the Fathers" in English body.
+  see_also: [patres, troester, erbauungslitteratur]
+
+missionshandlung:
+  english: The Mission-House Press
+  type: proper-name
+  first_use: "grosse-alten-troester-1900, imprint"
+  note: >
+    The publishing arm of Louis Harms's Hermannsburg-Mission, in
+    Kommission with whom Große's *Wegweiser* was issued. Not incidental
+    to the volume's character: the imprint locates Große squarely within
+    the late-19th-century confessional-Lutheran mission-revival that
+    sent Hermannsburg pastors to the Boer Republic and to India, and
+    that read the old Lutheran devotional writers as the theological
+    ancestry of its own missional-confessional labour.
+  see_also: [hermannsburg]
+
+# ═══════════════════════════════════════════════════════════════════════════
+# GROSSE 1900 — KICK-OFF (12 seed entries; body-tranche entries to append
+# below this line as translation proceeds).
+# ═══════════════════════════════════════════════════════════════════════════

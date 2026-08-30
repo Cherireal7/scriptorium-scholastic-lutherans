@@ -28,7 +28,7 @@ scholastic-lutherans/
 │   └── flacius-catalogus-testium-1556/
 ├── pastoral/
 │   ├── balduin-casibus-conscientiae-1628/
-│   └── grosse-alten-troester-1614/
+│   └── grosse-alten-troester-1900/
 ├── catechetical/
 │   ├── chytraeus-catechismus-1594/
 │   └── andreae-disputationes/
