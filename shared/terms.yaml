@@ -3413,12 +3413,79 @@ crede_et_manducasti:
     dentem et ventrem? Crede, et manducasti. Reformation sola-fide +
     eucharistic-theology locus classicus for spiritualis manducatio.
 
+# ─── Tranche 2n — Augustine-B + Sibylla + Chrysostom + Carthage V (73-77) ─
+
+petra_non_petrus:
+  english: Petra vero erat Christus (Augustine on Matt 16:18)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Augustinus at vl0073"
+  note: >
+    Augustine Retractationes I.21.1 (PL 32:618) — non ego dixi super
+    Petrum sed super petram, quia non petra a Petro sed Petrus a petra
+    dictus est. Petra vero erat Christus. Augustine reverses earlier
+    Peter-as-rock exegesis in favour of Christ-as-rock. DECISIVE
+    Reformation proof-text against Petrine-primacy-from-Matt-16.
+
+de_opere_monachorum:
+  english: Augustine De Opere Monachorum
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Augustinus at vl0074"
+  note: >
+    Augustine PL 40:547-582 systematic critique of North African
+    monastic idleness. Applied by Flacius against medieval mendicant
+    orders via 2 Thess 3:10 si quis non vult operari nec manducet.
+
+confessio_auricularis_augustini_critique:
+  english: Augustine's implicit critique of auricular confession
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Augustinus at vl0074"
+  note: >
+    Confessiones X.3.3 (PL 32:780) Quid mihi ergo est cum hominibus
+    ut audiant confessiones meas? Flacius reads Augustine's suspicion
+    of interpersonal confession as ancient warrant against medieval
+    auricular-confession sacrament (Lateran IV 1215 obligatory annual).
+
+oracula_sibyllina:
+  english: The Sibylline Oracles
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sibylla at vl0075"
+  note: >
+    Corpus of prophetic verse-oracles in Greek hexameters, composite
+    Jewish-and-Christian 2nd c. BC-7th c. AD. Preserved by Lactantius
+    + Augustine De Civitate Dei XVIII.23. Flacius invokes for
+    Ecclesia fantastica imagery + Ernestine-exile-after-Mühlberg
+    (1547 John Frederick I + Otto Henry + Kaspar Pflug) as Sibylline
+    "exile-and-return of princes for true piety" retrospective
+    apocalyptic confirmation.
+
+chrysostomus_cathedra_non_facit:
+  english: Cathedra non facit sacerdotem sed sacerdos cathedram
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Chrysostomus at vl0077"
+  note: >
+    Chrysostom In Matthaeum Homilia 43 (PG 57:459) on Matt 23:2.
+    Classic Chrysostomic distinction of office from office-holder:
+    the chair does not sanctify the man. Flacius reads against
+    later papal claims that Roman see itself confers holiness on
+    the sitter.
+
+concilium_carthaginense_v_canon_14:
+  english: Carthage V (401) Canon 14 against spurious altars
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Concilium Carthaginense V at vl0077"
+  note: >
+    Carthage V (401) Canon 14 — spurious altars and memorials not
+    authenticated by relics or fathers' tradition to be destroyed;
+    against martyr-cults based on private visions/dreams (somnia).
+    Flacius reads as ancient conciliar witness against medieval
+    private-revelation-based cults (Marian apparitions etc.).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Augustine part A (vl0001-vl0072, 72 body
-# pp + 32 paratexts ≈ 13.1% of 1094-pp body). Flacius lemma total: 10 seed
-# + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d)
-# + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k)
-# + 4 (T2l) + 6 (T2m) = 89.
+# FLACIUS 1556 — TRANCHE 2 through Carthage V opening (vl0001-vl0077, 77
+# body pp + 32 paratexts ≈ 14% of 1094-pp body). Flacius lemma total: 10
+# seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
+# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
+# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) = 95.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

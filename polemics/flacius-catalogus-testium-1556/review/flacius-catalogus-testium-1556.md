@@ -962,7 +962,67 @@ An non hic diserte beatus Augustinus, and nos-culpa hereseos ac schismatis liber
 
 Sanctorum invocationem seu adorationem hisce verbis reprehendit libro *De Vera religione*: *Non sit nobis religio cultus hominum mortuorum. quia si pie uixerint, non sic habentur, ut tales quaerant honores: sed illum à nobis coli uolunt, qui illuminante largitur eos amari meriti sui non esse conseruos. Honorandi sunt propter imitationem, non adorandi propter religionem.* Et paulo post: *Hoc etiam ipsos optimos angelos uel credamus, ut unum cum ipsis colamus Deum,* etc &c. Sequitur: *Quare honoramus eos charitate non seruitute, & c. Nec eis templa constituimus, nolint enim sic se à nobis honorari: quia nos ipsos, cum boni sumus, templa esse Dei nouerunt.* Rectè huic scribitur, hominem ab Angelo prohibitum, ne se adoraret: sed unum Deum, sub quo esset & ille conseruus. *Apoc. 19. 22.* Sic *lib. 10. de Ciuitate Dei*, inquit: Sancti non lunt nos sibi sacrificare, sed ei cuius et ipsi nobiscum sacrificium esse nouerunt. Talia complura contra sanctorum adorationem, apud Augustinum extant.²⁸⁸
 
-*[Augustine entry continues on `vl0073`; staged for the next Tranche 2 session.]*
+Which is if not ignorant, why do we in this life act? If they are ignorant, then in vain are they invoked.²⁸⁹
+
+Quod porrò etiam primatum Papae oppugnarit, dictum est in Carthaginensi sexta synodo.²⁹⁰ Sed tamen dicatur et iam breviter aliquid. Saepe enim Augustinus, etiam cum quaestione contendit, claues non uni Petro, sed toti Ecclesiae traditas esse. Primo *Retractationum* inquit: *Non petra a Petro, sed Petrus a petra dicitur. Petra vero erat Christus.*²⁹¹ Quare addit: *super petram*, non super Petrum, esse aedificatam Dei Ecclesiam. Item in fine de Agone Christiano, contendit toti Ecclesiae, non uni Petro claves traditas esse.
+
+Addit pauca: Nec eos audiamus, qui negant Ecclesiam habere potestatem remittendi omnia peccata. Itaque miseri, dum in Petro suo non intelligunt Petrum, et nolunt credere datas claves regni caelorum ipsi, sed de manibus amiserunt.²⁹² Ubi clarè Papam notare uidetur.
+
+Monachos, in libro de *Opere monachorum*, acriter taxat: quod eos tantum otij et saginae studio in monasteria cursitare, quosdam etiam ex ijs ossa sanctorum uel uera uel falsa uenditantes discursitare. Iubet igitur eos laborare proprijs manibus, & applicat ad eos illud D. Pauli dictum: *Qui non laborat, non comedat.*²⁹³ Reprehendit & alias quasdam eorum superstitiones.
+
+Auricularem confessionem, libro *Confessionum X*, sic inflectat: postquam dixisset solam confessionem, quae Deo fit, nos curare & sanare, inquiens: *Quid malum ergo cum hominibus, ut audiant confessiones meas? quasi ipsi sanaturi omnes languores meos, curiosum genus hominum ad cognoscendam alienam vitam, desidiosum ad corrigendam suam.*²⁹⁴
+
+Reprehendit etia[m] acriter divortia coniugiorum post uotum contractorum. Inquit enim in libro de *Bono coniugali*, quod dictum & Dist. 27 repetitur: *Quidam nubentes post uota asserunt adulteros esse. Ego autem dico uobis, quod grauiter peccant, qui tales dividunt.*²⁹⁵ At hodie Papistis id non graue peccatum, sed sanctissimum, Deoq[ue] gratissimum opus est.
+
+Illud quoq[ue] pulchrè cum Antichristi, eiusq[ue] spiritualium erroribus pugnat, quod dicit, Ioannem ideo digito monstrasse Christum, & affirmasse quod ipse tollat peccata mundi, quo praeveniret sequuturos haereticos, qui erant docturi, quòd ipsi tollant peccata mundi. Quid enim aliud faciunt Papa, sacrificuli, monachi et moniales, nisi ut mentiantur se suis bullis, sacrificijs, cucullis, & alijs sanctissimis operibus, superarrogantibus, peccata mundi tollere & abolere: seq[ue], ueluti nouos quosdam agnos, nouasq[ue]; hostias, cóuerso in se ipsos pio miseris mortalib. pro Christo ostentent & uenditent moribundis non agnum Dei, sed hasce tantum suas sanctitates ostentent & uenditent.²⁹⁶
+
+Ita oppugnauit B. Augustinus praecipuos errores et abusus Antichristi. Nam quod à plerisq[ue] omnibus dissenserit, iam non dicam, cum id in praesenti opere nostri instituti non sit.
+
+De moribus quoque sacerdotum ita inquit: *Solas tantum libidines iam plerique in sacerdotibus reprehendunt, cum sint & alia plurima et maxima eorum peccata.*²⁹⁷
+
+Augustino & illud in Sic quidam tribuunt: *Religio perit divitias, & filia devoravit matrem.*²⁹⁸
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Sibylla
+
+### *The Sibyl* — vl0075–vl0076
+
+I read a certain brief prophecy in verse comprehended, to which the name **Sibyl** was inscribed.²⁹⁹ In that prophecy expressly are predicted, among other things, both the *exilium* and the return of powerful men on account of true piety. Foretold also, the ruin of the fantastic Church, and successes are certain: doubtless indicating some present-day certamina of religion. For it is not established of any similar-to-Christ, that some princes on account of true piety were exiled, and afterwards returned — as we saw Elector Saxonicus and the Colonians: who nonetheless for the return of their principate, preferred rather to the heavenly kingdom to migrate. Went-into-exile with them, some most-illustrious princes, Otto Henricus, Comes Albertus, Gasparus Pflug, Baro Boemicus, and other insignal men.²⁹⁹ᵃ
+
+By no other more accommodate vocable of the Ecclesia Papistica ratio and formam might be expressed than *fantastica*: which among Italians signifies a matter of such species to be had, that yet nothing of that species comprehends: of what sort I judge that melancholy people fantasise to themselves. For the whole Papatus, and especially spirituales, have a species of piety and popular Dei, with all efficacy: eius (as B. Paul predicted) they abnegate. All-things enim in externis ceremonijs, ritibus and gesticulations they collocate: praedicationem uerò puri uerbi Dei, quo iam olim tam puritas & Ecclesia generatur, iam olim neglexerunt, & nunc crudelissime persequuntur. Quo porrò tempore carmina haec composita sint, ignoro.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Chrysostomus
+
+### *St John Chrysostom* — vl0076–vl0077
+
+**Chrysostom** flourished about the year of the Lord 400, and 1152 [from the founding of Rome].³⁰⁰ In **Homilia 12** he praises the Cananite woman, that she sought not from Peter, John, or James mediation: but at the summit of good hastened, namely to Christ himself.³⁰¹
+
+Upon Matthew, he reprehends hard on sacerdotes, that upon the sick they suspended Gospels from the neck — as in Papatu Euangelium Ioannis; and he says this to be impiety and insanity.³⁰²
+
+Item alibi upon the same Evangelist he says: *Non enim gaudent martyres, quando ex illis pecuniis honorantur, pro quibus plorant pauperes*. Et paulò post: *Vis domum Dei aedificare? redde fidelibus pauperibus, unde uiuant, & aedificasti post uotum rationabilem domum Dei*, &c. Gravissimè abusum istum Papistarum, charitatis negligentium ob aedificiorum structuram, reprehendens.³⁰³
+
+Super epistolam ad Titum, contendit Evangelium omnia necessaria ad salutem continere, nihilq[ue] ei addendum esse. Saepe traditiones humanas vituperat. Item super Heb. 2. & Matth. 5. & alias saepe affirmat, non esse necesse confiteri homini, sed tantum Deo. Item de uerbis Esaiae, videt Domini, Homil. 4. inquit: *Sacerdotis tantum est, arguere, liberamq[ue] praestare admonitionem, non movere arma, non clypeos usurpare, non uibrare lanceam, nec iacula mittere.*³⁰⁴ At Papistici praelati nihil fermè aliud sunt, quàm cruenti bellatores, et perpetui planè belli inter Christianos excitatores.
+
+Pulchrè quoq[ue] retundit fastum spiritualium, de sua dignitate superbientium, inquiens super **Matthaeum 23**: *Cathedra non facit sacerdotem, sed sacerdos cathedram. Non locus sanctificat hominem, sed homo locum: multi sunt sacerdotes: & pauci sacerdotes: multi nomine, sed pauci opere. Non omnis sacerdos sanctus est: sed omnis sanctus sacerdos. Qui bene sederit super cathedram, honorem accipiet ab illa. Qui malè sederit, iniuriam facit cathedrae. Ideoq[ue] malus sacerdos de sacerdotio suo crimen acquirit, non dignitatem.*³⁰⁵ Illud quoq[ue]; de sacerdotum peruicacia apud eum obseruatu est dignissimum: *Clerici peccantes difficilè poenitentiam agunt. Erubescit enim aliquando rursus iudicari, qui semper fuit iudex.* Alibi affirmat, *sacerdotum culpa potissimum fieri, ut mali mores sint corrupti.* Item dicit: *Sicut omne bonum a sacerdotio, ita & omne malum egreditur.*³⁰⁶
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Concilium Carthaginense V
+
+### *Fifth Council of Carthage (438)* — vl0077
+
+The **Fifth Council of Carthage**, celebrated in the year 438, constituted, that little chapels or altars of saints, where the bodies of saints or other real relics were not, be destroyed; if there is danger of tumult of the people, or at least the preachers should exhort the people not to frequent those places. Little chapels also and altars from *somnia* or similar revelations fabricated (of which kind are now already in the Papacy very many, or rather infinite, everywhere) altogether he reprobates.³⁰⁷ Thus it appears, those good Fathers wished the growing idolatry of cult of saints and of temples to resist…
+
+*[Continues on `vl0078` with more of Concilium Carthaginense V and next entries; staged for next session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1675,6 +1735,52 @@ Sanctorum invocationem seu adorationem hisce verbis reprehendit libro *De Vera r
 **²⁸⁷** **Augustine, *De Ecclesiasticis Dogmatibus*** — actually a work of **Gennadius of Massilia** (5th c.), often attributed to Augustine in medieval codices. Chapter 68 on food-choice ("it is good to take food with thanksgiving, and whatever God created for eating is chiefly to be eaten…"). Flacius's use is unchanged by the misattribution: the argument stands as ancient patristic witness.
 
 **²⁸⁸** **Augustine, *De Vera Religione* c. 55** (PL 34:169–170) — the celebrated formulation against saint-cult: *Non sit nobis religio cultus hominum mortuorum* ("Let not the cult of dead men be our religion"). Reformation *locus classicus* against the veneration of saints, invocation, and reliquary-shrines. Continued at *De Civitate Dei* X.4–6 on true and false sacrifice, and X.20 on Christ as sole mediator and eternal priest.
+
+**²⁸⁹** Flacius's closing rhetorical *si ignorant, quid nos in hac uita agamus* ("if they are ignorant of what we do in this life") — the classical Reformation critique of saint-invocation: either the saints know our prayers (which requires an omniscience proper only to God), or they do not (in which case invocation is futile).
+
+**²⁹⁰** Cross-reference to the Sixth Carthaginian entry (glossed at endnotes 237–241) — Augustine was one of the 217 bishops present at Carthage 419 who exposed the Zosimus-Boniface-Celestine Nicene-canon forgery.
+
+**²⁹¹** **Augustine, *Retractationes* I.21.1** (PL 32:618) — the celebrated recantation on the *petra* (rock) of Matt 16:18: *non ego dixi super Petrum, sed super petram, quia non petra a Petro, sed Petrus a petra dictus est. Petra vero erat Christus.* Augustine here reverses his earlier "Peter as rock" exegesis in favour of "Christ as rock" — a decisive Reformation proof-text against the Petrine-primacy-from-Matt-16 doctrine.
+
+**²⁹²** **Augustine, *De Agone Christiano* 30.32** (PL 40:307) — the keys of the kingdom given to the whole Church, not to Peter alone. Together with the *Retractationes* passage, this constitutes Augustine's mature ecclesiology against Petrine-primacy.
+
+**²⁹³** **Augustine, *De Opere Monachorum*** (PL 40:547–582), the whole treatise being a systematic critique of North African monastic idleness, applied by Flacius against medieval mendicant orders. **2 Thess 3:10** — *si quis non vult operari, nec manducet* — is the Pauline proof-text.
+
+**²⁹⁴** **Augustine, *Confessiones* X.3.3** (PL 32:780) — the celebrated meta-reflection on the *Confessiones*'s own confessional character: *Quid mihi ergo est cum hominibus, ut audiant confessiones meas? … curiosum genus ad cognoscendam vitam alienam, desidiosum ad corrigendam suam.* Flacius reads Augustine's suspicion of interpersonal confession as ancient warrant against the medieval auricular-confession sacrament (Lateran IV, 1215, made annual sacramental confession universally obligatory).
+
+**²⁹⁵** **Augustine, *De Bono Coniugali* 26** (PL 40:396) — that those who dissolve marriages contracted after monastic vows sin gravely. Gratian *Decretum* Dist. 27 preserves the passage. Flacius: the Papists now treat post-vow marital dissolution as a work meritorious, not sinful — the exact inversion of Augustine.
+
+**²⁹⁶** The extended anti-monastic figure: monks and nuns claiming through their bulls, sacrifices, cowls, and other supererogatory works to *take away the sins of the world* — precisely the christological title (John 1:29 *ecce Agnus Dei qui tollit peccata mundi*) which Augustine reads John the Baptist as pointing to Christ alone to prevent later heretical arrogation. Flacius's closing: the monk-orders offer to the dying not the Lamb of God but only their own *sanctitates*.
+
+**²⁹⁷** **Augustine, *De Moribus Ecclesiae Catholicae*** or one of the anti-Manichaean corpora — the observation that men blame priestly sins only in libidines while ignoring their other and greater sins. Flacius extends the observation against 16th-c. selective moral rhetoric.
+
+**²⁹⁸** *Religio perit divitias, & filia devoravit matrem* — "Religion begets riches, and the daughter has devoured the mother." The aphorism circulated in medieval Latin as an Augustinian tag (of doubtful actual Augustinian provenance); the Reformation-era polemic used it to explain the medieval Church's decadence.
+
+## From the Catalogue — Sibylla (vl0075–vl0076)
+
+**²⁹⁹** **The Sibylline Oracles** — a corpus of prophetic verse-oracles in Greek hexameters, of composite Jewish-and-Christian origin (2nd c. BC – 7th c. AD), preserved by early Christian writers (Lactantius, Augustine *De Civitate Dei* XVIII.23) and widely quoted throughout the Middle Ages as pagan prophetic witness to Christ. Flacius here refers to a specific short prophecy circulating in mid-16th-c. Latin manuscripts; the *Ecclesia fantastica* imagery he cites belongs to the tradition of Reformation-era eschatological verse-prophecy.
+
+**²⁹⁹ᵃ** **The Ernestine exile after Mühlberg (1547)** — Elector John Frederick I, Otto Henry of Palatinate, Count Albert, Kaspar Pflug (Bohemian nobleman), and other Reformation-supporting princes were exiled under Charles V's post-Mühlberg settlement; some returned after 1552, others (including John Frederick I) never regained their electoral dignity. Flacius reads the Sibylline "exile-and-return of princes for true piety" as retrospective apocalyptic confirmation.
+
+## From the Catalogue — Chrysostomus (vl0076–vl0077)
+
+**³⁰⁰** **St John Chrysostom** (c. 349 – 407), Patriarch of Constantinople 398–404, greatest Greek preacher of the patristic era. The parallel Roman dating (*1152 ab urbe condita* = c. AD 400) is Flacius's dual-dating.
+
+**³⁰¹** **Chrysostom, *In Matthaeum Homilia* 52** (PG 58:519) on Matt 15:22 — the Canaanite woman went directly to Christ, not through apostolic intermediaries. Reformation proof-text for Christ as *unicus mediator*.
+
+**³⁰²** **Chrysostom, *In Matthaeum Homilia* 72** (PG 58:669) — the critique of hanging Gospels around the neck as amulets. Flacius applies to medieval and 16th-c. papal use of the *Gospel of John* prologue as an apotropaic charm.
+
+**³⁰³** **Chrysostom, *In Matthaeum Homilia* 50** (PG 58:508) — *nolite martyres pecunia honorare, dum pauperes fame perire sinitis*. The critique of temple-building at the expense of the poor became a Reformation locus against Renaissance-era papal building programmes (New St Peter's, begun 1506 under Julius II and continued under Leo X, whose indulgence-sale to fund it triggered Luther's 95 Theses).
+
+**³⁰⁴** **Chrysostom, *De Verbis Isaiae Vidi Dominum Homilia* 4** (PG 56:120) — the celebrated distinction of the priestly office from the military. Flacius applies against the medieval papacy's crusading and military mobilisations.
+
+**³⁰⁵** **Chrysostom, *In Matthaeum Homilia* 43** (PG 57:459), on Matt 23:2 (*super cathedram Moysi sederunt scribae et Pharisaei*). The classic Chrysostomic distinction of office from office-holder: the chair does not sanctify the man. Flacius reads against later papal claims that the Roman see itself confers holiness on the sitter.
+
+**³⁰⁶** **Chrysostom, *De Sacerdotio*** and various homilies on the difficulty of priestly penance and the corrupting effect of clerical sin on the whole community. Reformation-standard proofs against the medieval doctrine of clerical exemption from lay judicial process.
+
+## From the Catalogue — Concilium Carthaginense V (vl0077)
+
+**³⁰⁷** **Council of Carthage V** (401) — Canon 14 provided that spurious altars and memorials, not authenticated by relics or the tradition of the fathers, be destroyed. The canon was directed against the proliferation of martyr-cults based on private visions or dreams (*somnia*). Flacius reads it as ancient conciliar witness against medieval private-revelation-based cults (Marian apparitions, Bernadette-of-Lourdes-type shrines, etc.).
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
