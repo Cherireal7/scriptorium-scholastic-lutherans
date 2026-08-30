@@ -112,8 +112,18 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;§ 17. The Third Precept — the six good works commanded | 74 |
 | &nbsp;&nbsp;&nbsp;§ 18. The Third Precept — On Ceremonies in the Church | 76 |
 | &nbsp;&nbsp;&nbsp;§ 19. The Third Precept — Why the specific Sabbath is abrogated for Christians though the Decalogue remains | 77 |
-| Notes | 79 |
-| Glossary of Terms | 89 |
+| **Locus III · Part 2: The Second Table + Closing on the Uses of the Law** | 79 |
+| &nbsp;&nbsp;&nbsp;§ 20. The Fourth Precept — Honour, its parts, and the six virtues; on *Politia* and *Magistratus* | 79 |
+| &nbsp;&nbsp;&nbsp;§ 21. The Fifth Precept — Love of neighbour and its fourteen virtues | 83 |
+| &nbsp;&nbsp;&nbsp;§ 22. The Sixth Precept — Chastity and marriage | 87 |
+| &nbsp;&nbsp;&nbsp;§ 23. The Seventh Precept — Just possession and its six virtues | 89 |
+| &nbsp;&nbsp;&nbsp;§ 24. The Eighth Precept — Truthfulness and its ten virtues | 91 |
+| &nbsp;&nbsp;&nbsp;§ 25. The Ninth and Tenth Precepts — Concupiscence | 94 |
+| &nbsp;&nbsp;&nbsp;§ 26. The six uses of the Law of God | 95 |
+| &nbsp;&nbsp;&nbsp;§ 27. What Discipline is; why God demands it even of the non-regenerate; impediments to discipline | 96 |
+| &nbsp;&nbsp;&nbsp;§ 28. On the Promises and Threats attached to the Decalogue | 98 |
+| Notes | 101 |
+| Glossary of Terms | 113 |
 
 — ❦ —
 
@@ -165,7 +175,7 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 
 ## 5. What is not yet in this working translation
 
-- **Locus III Second Table + closing; Locus IV — X.** Locus III (De Lege Dei) is the largest single Locus of the Catechism; it is here translated in two parts. **Part 1** — the Law framework and the First Table of the Decalogue (Precepts 1–3) — is present in this working translation. **Part 2** — the Second Table (Precepts 4–10) and the closing sections on the uses of the Law, discipline, and the promises and threats attached to the Decalogue — will follow in the next working session. Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow thereafter.
+- **Locus IV — X.** Loci I, II, and III (in two parts) are now translated. Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow in subsequent working sessions.
 - **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued when the full Locus set is translated.
 - **The 1588 recension.** The Internet Archive item pairs the 1594 edition with an earlier 1588 recension. Textual collation between the two — to identify precisely which passages the 1594 title-page description *multis in locis aucta* refers to — is a task deferred to a future edition.
 
@@ -1262,7 +1272,536 @@ The virtue akin to this is **CONSERVATIO MINISTERII EVANGELICI** — the conserv
 
 The Law concerning the Sabbath is *partly moral* — insofar as it concerns the *genus*, that is, the *conservation of the public ministry*; *partly ceremonial* — namely insofar as it prescribes the *rite of the seventh day*, which along with the other Mosaic Ceremonies was abrogated, and in its place the *first day of the week* was substituted — on which Christ the Lord rose from death.⁸⁸
 
-*Locus III Part 2 — the Second Table of the Decalogue (Precepts 4–10) and the closing sections on the uses of the Law, discipline, and the promises and threats attached to the Decalogue — follows in the next working session.*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus III · Part 2
+
+## *The Second Table of the Decalogue, and the Uses of the Law*
+
+— ❦ —
+
+## *The Fourth Precept*
+
+> ***Honour thy father and thy mother.***
+
+— ❦ —
+
+### § 20. The Fourth Precept — Honour, its parts, and the six virtues; on *Politia* and *Magistratus*
+
+***What is Honour?***
+
+**HONOR** is the *approbation attributing to another dignity and pre-eminence on account of some virtue and gift of God in him*, and — with internal or external testimony — reverently subjecting oneself to him.
+
+***What are the parts of Honour due to parents, magistrates, and teachers?***
+
+**I.** To *acknowledge* the order and offices of parents, magistrates, and teachers to be *works of God*, and to be instituted and conserved by God; and to be *ministries and instruments of God's sapient providence and goodness toward the human race*.
+
+**II.** Honorific *approbation of the persons* themselves, judging them faithful ministers of God and fideliter serving the fatherland — divinely called and by God retained.
+
+**III.** *Reverence* toward their place and person, subjecting oneself to God's providence and gift.
+
+**IV.** *Giving of thanks* for these gifts of God.
+
+**V.** *Prayer*, that God may preserve, direct, and assist pious parents and magistrates.
+
+**VI.** Due *obedience*.
+
+**VII.** *Candour* and *equity* in judging the laws and actions of magistrates and parents, if any infirmities and defects of theirs are considered.⁸⁹
+
+***What are the virtues or good works of the Fourth Precept?***
+
+I. *Pietas seu Philostorgia* — Piety, or Natural Affection.
+
+II. *Iustitia universalis*, or Obedience to the Laws.
+
+III. *Iustitia distributiva* — Distributive Justice.
+
+IV. *Sedulitas* — Diligence.
+
+V. *Gratitudo* — Gratitude.
+
+VI. *Reverentia* — Reverence.
+
+— ❦ —
+
+**PIETAS seu PHILOSTORGIA** (**φιλοστοργία**) is the virtue by which, to parents and children and to others joined by blood, we bestow *fitting love and honour*, and due offices.
+
+> **Sins fighting with Pietas** are: **ἀστοργία** (*astorgia*, unnatural absence of familial affection), *over-indulgence* (*indulgentia*), and *impiety* (*impietas*).⁹⁰
+
+**IUSTITIA UNIVERSALIS** is *obedience toward all laws and magistrates in a political society that is governed by honest laws*.
+
+***What is Polity?***
+
+**POLITIA** is the *legitimate ordination of a certain assembly of men, associated by honest laws — from the fount of the law of nature — in which, through certain magistrates ordained by laws, according to certain laws, discipline and peace are retained*, for this principal end: that in peace the citizens may be as happy as possible, and as much as possible friends among themselves. That is: that men may be *taught concerning God*, and children reared and instructed, honestly governed by discipline, and gathered for God as an eternal Church.
+
+***What is a Magistrate?***
+
+**MAGISTRATUS** is the *governor constituted by the ordination of God*, that he may be a *nursing-father of the Church of God and of the Schools*, and be the guardian of discipline and of peace, according to the laws of nature and congruent laws; and be the executor of laws, punishing with bodily penalties the contumacious, and defending against unjust violence those who obey.⁹¹
+
+> **Extremes of Justice:** *Disobedience* or *contumacy* or *contempt* of superior magistrates and of laws; *sedition*; *superstitious observance* of any laws whatsoever.
+
+**IUSTITIA DISTRIBUTIVA** is that which, by *geometrical proportion*, discerns the grades of persons and offices in life, and attributes to each his fitting place, honour, and fitting office.⁹²
+
+> **Extremes:** *confusion of grades*, and *tyranny*.
+
+**SEDULITAS** is the *just distribution of labours to each*, inclining the will that diligently, faithfully, and constantly — for God and for the common salvation — one may perform the labours fitting his vocation.
+
+> **Extremes:** *idleness* (*ignavia*), and *πολυπραγμοσύνη* (*polypragmosynē*, meddling, or curiosity).
+
+**REVERENTIA** is the virtue by which we attribute to others their place, and acknowledge and magnify God's gifts in others, and — acknowledging our own infirmity — subject ourselves to them, and by external significations declare this subjection.
+
+> **Extremes:** *pride* contemning others; and *flattery* (*assentatio*).
+
+**GRATITUDO** is the *justice* by which, to those who have deserved well of us, we render due thanks — with benevolence of soul, with other offices.
+
+> **Extremes:** *ingratitude*, and *simulated gratitude* — which is displayed with empty hands.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Fifth Precept*
+
+> ***Thou shalt not kill.***
+
+— ❦ —
+
+### § 21. The Fifth Precept — Love of neighbour and its fourteen virtues
+
+***What are the virtues or good works of the Fifth Precept?***
+
+**The common genus of the virtues of the Fifth Precept, and of almost the whole Second Table, is:**
+
+**DILECTIO PROXIMI — LOVE OF NEIGHBOUR**
+
+Its parts are these fourteen:
+
+I. *Iustitia particularis* — Particular Justice.
+
+II. *Iustitia puniens scelera* — Punishing Justice against crimes.
+
+III. *Fortitudo bellica* — Warlike Fortitude.
+
+IV. *Fortitudo togata* — Civil Fortitude.
+
+V. *Patientia philosophica* — Philosophical Patience.
+
+VI. *Mansuetudo* — Gentleness.
+
+VII. **ἐπιείκεια** (*epieikeia*) — Equity.
+
+VIII. *Misericordia* — Mercy.
+
+IX. *Candor* — Candour.
+
+X. *Amicitia* — Friendship.
+
+XI. *Fidelitas* — Fidelity.
+
+XII. *Studium concordiae* — Zeal for concord.
+
+XIII. *Humanitas* — Humanity.
+
+XIV. *Nemesis* — Righteous Indignation.
+
+— ❦ —
+
+**DILECTIO PROXIMI** is: with the true knowledge of Christ going before, and with faith determining that we are loved by God on account of the Son, in turn to subject oneself to God and to obey, and on account of God to embrace other men with true benevolence, and to avert their harm, and — as much as we can — to do them good, with whatever offices we are able.
+
+> **Fighting with Love** are: *Malevolence*, *hatred*, *envy*, *simulation of benevolence*, and all the other extremes of the following virtues.
+
+**IUSTITIA PARTICULARIS** is the virtue which, either injuring no one in body, life, name, or goods, either by force or by fraud — but renders to each his due, and preserves equality.
+
+> **Sins opposed:** **INIURIA**, which is either by violence, or by deceptive fraud, to injure body, name, or goods without just cause.
+>
+> **PETULANTIA**, which without any cause acts contumeliously toward others and, for its own delight, harms others or affects them with any contumelia.
+>
+> **NEQUITIA**, an affected badness, either with the injury of others or with the disturbance of tranquillity, or without cause playing.
+>
+> The excess is *summum ius, summa iniuria* — extreme right, extreme injustice.
+
+**IUSTITIA DISTRIBUTIVA**, in magistrates, *afflicting the criminal with penalties*.
+
+> **Extremes:** *cruelty* and *indulgence*.
+
+**FORTITUDO** is the virtue *defending justice, undertaking perils and labours for the defence of the Church, of the fatherland, of honest discipline, of spouses, of children* — and not abasing the soul in adverse things, nor puffing up the soul in prosperous things.
+
+> **Extremes:** *timidity* (*timiditas*), deserting those to whom defence is owed; and *rashness* (*temeritas*), meeting perils not necessary and not repelling them by right reason.
+
+**FORTITUDO TOGATA** is the *constancy of soul persevering in an honest purpose rightly undertaken according to vocation, and tolerating injuries for an honest cause*; and with lofty soul despising pleasures, honours, threats, wealth, detractions, envy, for the sake of virtue — that is, so that on account of these impediments an honest purpose is not cast down.⁹³
+
+> **Extremes:** *softness of soul*, *unjust obstinacy*, and *stoical moroseness*.
+
+**PATIENTIA PHILOSOPHICA** is the *virtue akin* [to Fortitude] which *obeys reason* in enduring injuries and all adverse things, and moderates sorrow — lest it oppress nature, and lest it impel us against justice, constancy, modesty, or other virtues.
+
+> **Extremes:** *impatience*, and *stupor*.
+
+**MANSUETUDO** is the virtue which *moderates anger and desire for vengeance*, remits offences, and pardons even true injuries — for the sake of public concord.
+
+> **Extremes:** *irascibility* (*iracundia*), *hatred*, and *lenity* (*lenitas*).
+
+Akin — and almost the same virtue — is **ἐπιείκεια** (*epieikeia*), or **ἀκυβεία** (*akybeia*): which in prosecuting injuries remits something of the *strict right* (*summum ius*), and bears in others many infirmities — such as moroseness, irascibility, sloth, **φιλοδοξία** (*philodoxia*, love of glory), greed for glory, and so on — for the sake of public concord. And ambiguous things it does not receive calumniously to the worse part.⁹⁴
+
+**MISERICORDIA** is the virtue *afflicted with sorrow at the calamity of another* — especially of good men or of the seduced — and by probable reason mitigates penalties, and helps the miserable: either on account of *justice* (as when the mercy is toward the innocent), or on account of *goodness* (relaxing something of strict right, as when GOD is merciful to the human race), or because we too, in the common lot of others, have need of mercy.
+
+> **Extremes:** *cruelty*, *ἀνόμος* (*anomos*, being without feeling for another's calamity), and *indulgence*, not remitting what is not to be remitted.
+
+**CANDOR** is the virtue *willing well to good people, and rejoicing in their prosperities, and approving others' wills with probable reason* — some ambiguous things bending to the better part.
+
+> **Extremes:** *malevolence*, *suspicion*, envy (*livor*), and *foolish credulity*.
+
+**AMICITIA** is the virtue of *rendering true benevolence for true benevolence*, and giving *mutual communication of offices and of liberal goods*, for the sake of virtue.
+
+> **Extremes:** *enmity*, *hatred*, and *simulation of benevolence*.
+
+**FIDELITAS** is the *constancy of will in true benevolence, and in all the offices owed to friendship*.
+
+> **Extremes:** *perfidy*, and *flattery*.
+
+**STUDIUM CONCORDIAE** — zeal for concord, or **εἰρηνοποιία** (*eirēnopoiia*) — is the virtue by which, thinking humbly of oneself, and reining in and moderating anger, and tolerating others' infirmities, and pardoning even true injuries, one *preserves concord*; and takes care not to contend about any not very necessary matter, lest the public tranquillity of the Church and Commonwealth be disturbed.⁹⁵
+
+> **Extremes:** *φιλονεικία* (*philoneikia*, contentiousness), and *lenity*.
+
+**HUMANITAS** is the *conjunction of justice with the milder and sweeter virtues* — with courtesy, gentleness, easiness of approach, affability.
+
+> **Extremes:** *moroseness* (*morositas*), not offering any sign of benevolence toward others; and *levity*.
+
+**NEMESIS**, or *ZELUS*, is *indignation against turpitude*, or *just sorrow on account of some crime committed by another*, and the *desire to expel and punish it*.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Sixth Precept*
+
+> ***Thou shalt not commit adultery.***
+
+— ❦ —
+
+### § 22. The Sixth Precept — Chastity and marriage
+
+***What are the virtues of the Sixth Precept?***
+
+I. *Castitas* — Chastity.
+
+II. *Verecundia* — Modesty, or Shame.
+
+III. *Temperantia* — Temperance.
+
+— ❦ —
+
+**CASTITAS**, or **PUDICITIA** (*Pudicitia*), is the virtue *retaining the cleanness of mind and body according to the will of God, and avoiding all the lusts prohibited by God*.
+
+**CASTITAS of celibate life** is the *cleanness of mind and body without mingling and contamination of bodies, and without any abuse of the seed*.
+
+**CASTITAS CONIUGALIS** is *to preserve one's own body chaste and holy to one spouse*, or *reverently to guard the laws of matrimony divinely instituted*.
+
+***And what is Matrimony?***
+
+**CONIUGIUM** is the *legitimate and indissoluble conjunction of one husband and one wife*, divinely instituted, that we may acknowledge God to be a chaste mind, and that we may serve Him in chastity, and that by this mode — the human race being propagated — the eternal Church may be gathered for God.⁹⁶
+
+> **Extremes:** all *vituperations and prohibitions of matrimony*, and of the female sex; *vague lusts and fornications*, *adulteries*, *vulgar divorces*, *incest*, *all effusions of seed outside marriage*, and *feigned chastity*.
+
+**VERECUNDIA**, or **PUDOR**, is the virtue which *fears the true infamy always accompanying delicts*, and *fears the divine judgement and the reproach of one's own conscience and of others rightly judging*; and *contains all lusts*, and shuns delicts; and so governs the gestures of soul and body that they may be congruent with the order of nature, of persons, and of places.
+
+> **Extremes:** **IMPUDENTIA**, which is *to contemn the judgements of God and of all men, and, without regard for the judgement of one's own conscience and of other pious men, to loose the reins on any lust whatsoever*.
+>
+> *Stupor* — excessive shame.
+>
+> *Lasciviousness* — proneness to various games and various pleasures, without desire to harm.
+>
+> *Wantonness* (*Protervitas*) — proneness to depraved pleasures, and to committing contumelies.
+
+**TEMPERANTIA** is the virtue that *moderates the appetites of food and drink*, that they hinder neither prayer nor sleep.
+
+> **Extremes:** *gluttony* (*voracitas*), *drunkenness* (*ebrietas*), and *excessive abstinence* (*nimia abstinentia*).
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Seventh Precept*
+
+> ***Thou shalt not steal.***
+
+— ❦ —
+
+### § 23. The Seventh Precept — Just possession and its six virtues
+
+***What are the virtues or good works of the Seventh Precept?***
+
+I. *Iusta possessio et bonus usus* — Just possession and good use of one's own things.
+
+II. *Iustitia commutativa* — Commutative Justice.
+
+III. *Beneficentia seu Liberalitas* — Beneficence, or Liberality.
+
+IV. *Hospitalitas* — Hospitality.
+
+V. *Frugalitas seu Parsimonia* — Frugality, or Thrift.
+
+VI. **αὐτάρκεια** (*autarkeia*) — Self-sufficiency, or contentment.
+
+— ❦ —
+
+**IUSTA POSSESSIO ET BONUS USUS** of one's own resources is the virtue which — *in the fear of God, and in faith and good conscience* — holds one's own resources, and acknowledging that they are given and preserved by God, diligently studies to augment them by honest reasons, and to confer them to the uses ordained by God.
+
+> **Fighting with this** are: all *unjust seizures of wealth*, superstitious *collation of possessions in common*, *theft*, and so on.
+
+**IUSTITIA COMMUTATIVA** is the virtue which, *in contracts or in the exchange of things, preserves arithmetical equality*.
+
+> **Fighting with this virtue** are all *frauds in contracts*.
+
+**BENEFICENTIA**, or **LIBERALITAS**, is the virtue which *communicates one's resources and one's efforts, not owed by civil obligation, but by natural or divine [obligation]* — where and when it teaches, and effects a *mean* between prodigality and sordidness.
+
+**HOSPITALITAS** is the virtue *akin to Beneficence*, by which *strangers and guests* — and especially those exiled on account of the profession of true doctrine — are received with *true benevolence, with all the offices of hospitality*.
+
+**PARSIMONIA** is the virtue which *guards one's own things*, and usefully places necessary expenses, and *avoids buildings*, luxuries, unnecessary expenditures — and yet, where reason requires, *expends as much as is needed*.
+
+> **Extremes:** *avarice*, *sordidness*, and *prodigality*.
+
+**αὐτάρκεια** (*autarkeia*) is the virtue *akin to Parsimony*, which is *content with present goods*, and *calmly bears poverty and other inconveniences*; nor covets others' goods, nor is broken in penury, that against piety owed to God, or against other virtues, it should act.⁹⁷
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Eighth Precept*
+
+> ***Thou shalt not speak false witness against thy neighbour.***
+
+— ❦ —
+
+### § 24. The Eighth Precept — Truthfulness and its ten virtues
+
+***What are the virtues or good works of the Eighth Precept?***
+
+I. *Veritas* — Truth.
+
+II. *Simplicitas* — Simplicity.
+
+III. *Constantia* — Constancy.
+
+IV. *Modestia et gravitas* — Modesty and Gravity.
+
+V. *Appetitio Gloriae* — Right Appetite of Glory.
+
+VI. *Taciturnitas* — Discretion (silence in season).
+
+VII. *Eloquentia* — Eloquence.
+
+VIII. *Docilitas* — Docility (teachableness).
+
+IX. *Comitas* — Affability.
+
+X. *Urbanitas* — Urbanity.
+
+— ❦ —
+
+**VERITAS** is the virtue *inclining the will that we love true sentences (that is, congruent with things as they are)* — in the doctrine concerning God and in the other arts — and constantly speak and do true, right, explicated, and salutary things; and in our morals shun insidious concealments and simulations.
+
+> **Its objects:**
+>
+> - Doctrine concerning God, the nature of things, morals.
+> - Judicial matters: accusations, defences, testimonies, sentences of judges.
+> - Pacts, or all promises in treaties and contracts, emptions, venditions.
+> - Counsels in government and in private life.
+> - Speeches concerning others' virtues or turpitudes, praises and vituperations.
+> - Signification of our will toward others, in speeches and gestures.
+>
+> **Sins fighting with Truth are all MENDACIA (LIES)** — all opinions, speeches, and gestures not congruent with things themselves, and harming either the liar himself, or others; and *the whole Sophistic art*, which defends false opinions and bad causes with painted pretexts.
+>
+> *Heresies*, and the zeal for teaching or defending false opinions, or vain and unnecessary subtleties in all doctrines.
+>
+> *Forensic calumnies* — all in accusations, testimonies, sentences of judges.
+>
+> *Perfidy* in not preserving promises and treaties and treaties; *perjury* and *frauds* in contracts.
+>
+> *Perfidy* and *insincerity* in giving counsels.
+>
+> *Boasting* (*iactatio*), *slandering* (*maledicentia*), *vanity*, *levity*.
+>
+> All *hypocrisy* or *simulation* in morals and gestures.
+
+**SIMPLICITAS** is the *perspicuous and open truth, without involvements and ambiguities* — that is, the *true, right, and explicated in all the arts*; and in the common life, *to speak and do things properly and perspicuously*.
+
+> **Extremes:** *duplicity of soul*, ambiguities in doctrine and in morals; *simulation of simplicity*, in order to trap or to harm another.
+
+**CONSTANTIA** is *perseverance in Truth and Justice*, and the government of all actions and gestures congruent with the norm of right reason.
+
+> **Extremes:** *levity*, and *stubbornness* (*inconstantia*).
+
+**MODESTIA** is the virtue which *reins us in*, lest in opinion of ourselves, or in speech, we attribute to ourselves more than becomes our weakness; nor in actions bear ourselves above our strengths, nor take up anything outside our vocation, nor despise others — but in the *fear of God and faith* diligently perform the offices of our vocation, and in our gestures not depart from the order of nature, persons, and places.
+
+> **Extremes:**
+>
+> *Arrogance* (**ARROGANTIA**), which in speech attributes to itself more than is due;
+>
+> *Boasting* (**IACTANTIA**), which by words immoderately and falsely predicates of itself;
+>
+> *Ambition* (**AMBITIO**), which by attempted actions — not necessary or unjust, outside vocation — seeks to surpass others;
+>
+> And *excessive shyness* or *stupor*;
+>
+> Furthermore *bad morals*, *scurrility in gesture and vesture*, *obscenity*, and *impudence*.
+
+**APPETITIO VERAE GLORIAE** is the virtue *approving its work*, or *governing counsels and actions of life all according to the norm of the divine will*, and *faithfully and sedulously performing the offices of vocation divinely commanded*; and studies to obtain the *approbation of God* and of *one's own conscience rightly judging*, and the *approbation of other good and right-judging men*.
+
+> **Extremes:** *levity and impudence*, and *ambition*.
+
+**DOCILITAS** is the virtue that *reins in souls, lest they think arrogantly of themselves*, but rather listen to others, learn, and *assent to true opinions*.
+
+> **Extremes:** *pertinacity*, and *Academic vanity* (*ματαιότης*, *mataiotēs*) — always and about everything learning, and never coming to the knowledge of the truth (2 Tim 3:7).⁹⁸
+
+**TACITURNITAS**, or *to be silent by reason*.
+
+> **Extremes:** *garrulity*, *futility* (*futilitas*), and *dissimulation*.
+
+**ELOQUENTIA** is the virtue that *governs the mind and tongue, that it may speak perspicuously and ornately things pleasing to God and salutary to men*.
+
+> **Extremes:** *all abuses of the faculty of speech.*
+
+**COMITAS**, or **AFFABILITAS**, is the virtue *inclining us that, in speaking, in hearing, in responding, and in performing offices, in face and gestures we may with a certain sweetness declare our benevolence toward others*.
+
+> **Extremes:** *lenity* and *moroseness*, hearing others fastidiously, harshly responding, and with difficulty performing offices, and offering no signification of sweetness and benevolence toward another.
+
+**URBANITAS** is the *ornament of truth*, whereby by jocose or figurative or false speeches, seasonably and honestly, others are *admonished, or made gentler, or even excited in place to joke*.
+
+> **Extremes:** *scurrility*, which sows obscene and contumelious jokes, and with mordant salt petulantly plucks; and *stolidity* and *insipidity*.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Ninth and Tenth Precepts*
+
+> ***Thou shalt not covet.***
+
+— ❦ —
+
+### § 25. The Ninth and Tenth Precepts — Concupiscence
+
+> In the Ninth and Tenth Precepts is commanded the **rectitude of all the powers of man, congruent with the norm of the Law**, or the *conformity with the Law of God*, or the *congruence, or coming-together, or similitude of the whole human nature*: of mind, of will, of heart, of all the powers and external members — which with the norm of the divine mind expressed in the Law were to be perfectly congruent. In sum: **original righteousness**, or the *image of God*, to which man was created.
+>
+> The **sin fighting with the Ninth and Tenth Precepts** is **CONCUPISCENTIA**, which is the *ἐπιθυμία* (*epithymia*) or *corruption of all the powers of man* — namely, in the mind, *blindness*, *caligo* and *doubts* about God; in the will and heart, *aversion from God*, and *voidness of the Fear of God, of Love, of Invocation, of Faith*. Item, *depraved inclinations, disordered appetitions*, and the *flames of vicious affects*.⁹⁹
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### § 26. The six uses of the Law of God
+
+> **I.** The *notice of the Law is a testimony that God truly is.*
+>
+> **II.** It *teaches what God is like* — namely, just, true, beneficent, chaste — such as the Law describes.
+>
+> **III.** It *teaches to what end human nature was created* — namely, that it may acknowledge God, and obey Him according to the Law.
+>
+> **IV.** It *shows sin*, and is the perpetual judgement of God, accusing and condemning all men who do not flee for refuge to Christ the Mediator.
+>
+> **V.** It is the *rule of good works*, in which the regenerate must exercise their obedience toward God.
+>
+> **VI.** It is the *norm of the life even of the non-regenerate men*, that honest discipline may govern their morals.¹⁰⁰
+
+***Can a man render obedience to the Law of God?***
+
+**No man**, in this sad corruption of nature, is able to render integral and perfect obedience owed to the Law of God (Rom 8:7). But external morals can somehow be governed according to the Law — even in the non-regenerate — and can honestly be reined in by discipline (Rom 2; Tit 3).
+
+— ❦ —
+
+### § 27. What Discipline is; why God demands it even of the non-regenerate; impediments to discipline
+
+***What is Discipline?***
+
+**DISCIPLINA** is *to govern external morals* that they may be congruent with the Law of God or with right reason; and *to repress the impulses of vicious affects*, and to shun external crimes which the Law of God prohibits.
+
+***For what causes does God demand discipline even of the non-regenerate?***
+
+For **five** causes:
+
+**I.** On account of the *mandate of God*. Rom 13[:5]: *It is necessary to be subject not only for wrath but also for conscience' sake. Wherefore do that which is good, and thou shalt have praise of it.*
+
+**II.** *That penalties may be shunned.* For the *rule of divine judgement* both in the Church and among pagans is *certain and immoved*: *atrocious crimes are punished by God, either through inner sorrows and desperations, or through Magistrates* (Rom 13[:4]: *He beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.*)
+
+**III.** That *civil society may be preserved tranquil and safe*.
+
+**IV.** That *by our example we may invite others to honesty of morals and to virtue*.
+
+**V.** The *usual cause* is alleged from Paul, Gal 3[:24]: *The Law was our schoolmaster* (*paedagogus*) *unto Christ, that we might be justified by faith.* For as the three offices of a good schoolmaster are: *to teach, to restrain by discipline and to govern morals, to chastise the delinquent* — so the *Law*: first, *teaches* us concerning God (that He is); concerning the offices owed to God; concerning the wrath of God, sin, justice, judgement; and so on. Then it *guards* and *contains* us as with dogs — not only casting reins and bonds upon vicious desires and external members, lest they rush out against the will of God — but also *accusing, terrifying, and condemning* us on account of sin. And *in these terrors and anguishes impelling us, it forces us to flee for refuge to the Son of God our Redeemer and Physician*, who liberates us from the prison of law, sin, and death, in which we were shut up. This is the proper and genuine sense of the Pauline saying — with which also the usual accommodation does not fight: *"Neither fornicators, nor idolaters, nor adulterers"* (nor those who persevere pertinaciously in the violation of external discipline) *"shall inherit the kingdom of God"* (1 Cor 6:9–10).
+
+> **In the regenerate**, however, discipline — that is, the government of morals according to the Law of God — which is done with the true knowledge of Christ and faith going before in the heart — is a *worship of God* and *part of the new obedience*; and indeed is *aided by the Holy Spirit and made pleasing* (to God), and is *compensated by present and eternal rewards*.
+
+***What are the impediments to Discipline?***
+
+Three chief:
+
+**I.** *Natural infirmity*, or the *caligo* and blindness of mind; the *proneness of the will to unlawful things displeasing to God*; and the *incendia* of depraved affects.
+
+**II.** *External allurements*: bad companions and examples of a vicious multitude, various and manifold occasions of delicts.
+
+**III.** *The impulses of the devils.*¹⁰¹
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### § 28. On the Promises and Threats attached to the Decalogue
+
+***On the promises and threats added to the Decalogue.***
+
+> In each precept of the Decalogue it is *useful to consider five questions in order*: (1) *What virtues are exacted?* (2) *How can they be performed?* (3) *What crimes are prohibited?* (4) *What promises are added to the virtues?* (5) *And what threats of penalties certainly accompany sins?*
+>
+> Although promises and threats are not added to each precept, in the Decalogue itself a summary is comprehended in this sentence added to the First Precept: *"I am the Lord thy God, jealous, visiting the iniquity of the fathers on the children unto the third and fourth generation of them that hate me, and shewing mercy in thousands to them that love me and keep my precepts."* Item: *"He who doeth these things shall live in them"* (Lev 18:5). Rom 10; Gal 3; and Deut 27[:26]: *"Cursed is the man who does not remain in all things that are written in the book of the Law."*
+>
+> To these are added *promises of rewards and threats of penalties* concerning the virtues and vices delivered in each of the precepts — of which many are collected in the *Proverbs of Solomon* and in the *Book of Sirach*, and are repeated everywhere in the sermons of the Prophets concerning the rewards of good works and the penalties of sins.
+>
+> That the promises and threats may be rightly understood, it is useful to have in view **six admonitions**, which I now most briefly recite:¹⁰²
+
+> **FIRST.** Since God is truthful, it is most certain that His threats are not empty terrifying-devices, nor His promises empty allurements; and are proposed for this end: that in some way they may either compel the foolish, or invite them. Let us therefore most firmly determine, though the events often seem to us not to answer, that all divine promises and threats — *in the form and sentence in which God has delivered them and interpreted them* — are true, certain, fixed, firm, and immoveable.
+
+> **SECOND.** The *genera of promises* are to be most accurately distinguished by fixed limits.
+>
+> The **Promises of the Gospel** properly promise *remission of sins, imputation of righteousness, the Holy Spirit, and eternal life* to all who believe — **GRATIS**, on account of Christ, not on account of any merit or obedience of ours.
+>
+> The **legal promises** by no means offer *gratis* remission of sins, eternal life, or other spiritual and bodily rewards, but they have annexed the *condition of perfect obedience* — as the cause and merit on account of which alone the promised things are to be exhibited; as it is said: *"He who has done these things shall live"* (Lev 18:5), and *"I am merciful to those who love me and keep my precepts"* (Exod 20:6).
+
+> **THIRD.** Since, however, no one renders the *perfect obedience which the Law demands*, anxious minds inquire: how do the amplest promises of rewards added to each virtue become ratified for us, and how can the penalties be shunned? To this question Paul responds (2 Cor 1[:20]): *"All the promises of God in Christ are Amen"* — that is, ratified and firm — *"that is, they are given truly and certainly on account of Christ."* Item, Rom 3[:31]: *"We establish the Law through faith."* For to those who by faith flee to Christ, the *Holy Spirit* is given, who begins an obedience *congruent with the Law of God* — an obedience which is adorned with spiritual and bodily rewards in this life and eternal life; as 1 Tim 4[:8]: *"Piety has the promises of the present and future life."* Matt 5[:12]: *"Your reward is copious in the heavens."*
+
+> **FOURTH.** The *promises delivered in the Gospel* are to be discerned.
+>
+> The **First**, chief, and most necessary is the **PROMISE OF GRACE** and reconciliation and eternal life — that is, of spiritual and eternal goods, which God promises Himself to give *certainly and by name*, on account of Christ, *without any condition and without an exception*. This chief promise of the Gospel is always ratified and firm to believers — even (if it were the case) *while all bodily goods are absent*. Therefore it is to be retained by the firmest faith, as Job 13[:15]: *"Even though He should slay me, yet will I trust in Him."* Ps 73[:26]: *"My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever."* Rom 4[:16]: *"Therefore it is of faith, that it might be by grace, to the end that the promise might be firm."*
+>
+> The **other** are *promises of bodily goods necessary for the conservation of this mortal life* — that is, of life, health, food, drink, of liberation from disease, wounds, exile, war, plague, fertility of the fields, and the like — which under the appellation of *daily bread* are contained. These too God bestows for **six causes**: First, that *we may acknowledge God to be the giver and preserver even of this bodily life*; and that we may not chance to scatter bodily goods, nor acquire them by our own diligence, but truly receive them from God. Then, that *the Church may be conserved in this life*. Next, *that Invocation may be exercised in the petition and expectation of bodily goods*. Then, *that it may commonly-remind us of Christ and of the promise of spiritual goods*. Next, *that our gratitude to God we may daily declare by the use of bodily goods*. Finally, *that bodily goods may be adminicula* of our vocation, and *instruments* of beneficence and the other virtues.
+
+> **FIFTH.** Although promises of bodily goods are also fixed and ratified, and God most faithfully exhibits the goods promised, yet they are seen to be added with these **four exceptions**:
+>
+> **I.** The *mode or time of exhibiting bodily goods and liberations is not to be prescribed to God by us*, but let it simply be left to His wisdom and will patient. Therefore let our will be prepared for obedience — how long God will exercise us, and by fixed counsel differ liberation.
+>
+> **II.** Since bodily goods are promised to good and obedient men, God is not impeded by these promises from severely punishing the impious and criminal.
+>
+> **III.** Since in the pious also and obedient — that is, in the true Church — much dregs of sin remain, by fixed counsel God wills also the pious and holy to be exercised by *tribulations and the Cross* — on account of the twelve causes which will be recited in the Locus concerning the Church.¹⁰³
+>
+> **IV.** *Bodily promises are not to be seized by our own counsels without a divine call.* As the sons of Ephraim (1 Chr 7), invading the promised land *without a call*, are killed. Abraham, though the land was promised to him, never occupied it. David, though the kingdom was promised to him, did not seize the kingdom, so long as Saul lived, but awaited his vocation.
+
+> **SIXTH.** The *threats and penalties* which in fixed order accompany sins are sanctioned by God for **six causes**:
+>
+> **1.** The *justice of God*, whose eternal and unmoved norm it is to punish and destroy and abolish the criminal.
+>
+> **2.** That *in the penalties we may behold the discrimen* of virtue and vices, and acknowledge God to be *seeing*, *just*, and *the lover of virtue*.
+>
+> **3.** That these *brief bodily penalties may be admonitions concerning eternal penalties*.
+>
+> **4.** That the *penalties may impel us to repentance*, to shunning sins, and to the emendation of life.
+>
+> **5.** That *public tranquillity may be conserved*.
+>
+> **Finally**, that by the *examples of hurtful penalties* others may shun the delicts by which the penalties are drawn.
+>
+> To all threats of penalties God adds the *condition of repentance* — by which repentance always either liberation or mitigation of calamities is procured, as Jer 18[:8] says: *"If that nation repent of its malice, against which I have spoken: I too will repent of the evil which I had thought to do to them."* And therefore God defers penalties, that men may be led to repentance. Wis 11[:23]: *"He winks at the sins of men, that they may do penance."*¹⁰⁴
+
+*Locus IV — De Peccato, quod per Legem Dei cognoscitur, accusatur ac damnatur — follows in the next working session.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1453,6 +1992,40 @@ The Law concerning the Sabbath is *partly moral* — insofar as it concerns the 
 ⁸⁷ Chytraeus's treatment of *ceremoniae ecclesiasticae* / *adiaphora* is the Formula-of-Concord doctrine, Solid Declaration Art. X *De Adiaphoris* (BSELK, pp. 1040–78). Note the careful preservation of ecclesiastical *paedagogia* — Chytraeus (like the Formula) is not iconoclastic; ceremonies that serve good order and instruction are retained. The catalogue of ludicrous rites is polemical against late-medieval popular devotions: *processions with statues*, *the Palm Sunday donkey*, *the placing of the man in the sepulchre* on Good Friday, the *tonsure of monks*.
 
 ⁸⁸ On the transfer of the Sabbath from the seventh to the first day of the week, and the ceremonial / moral distinction, cf. *Augsburg Confession* XXVIII (BSELK, pp. 200–30); Luther *Large Catechism*, Third Commandment (BSELK, pp. 963–66); and Melanchthon *Loci Praecipui* 1559, *De Tertio Praecepto*, CR 21:749–52. This is the mainstream Lutheran position (against both Sabbatarian Sabbath-restorationism and any wholly acasuistic abrogation of the Sabbath).
+
+## From Locus III · Part 2 — Second Table and Uses of the Law
+
+⁸⁹ Chytraeus's seven-part analysis of *honor* extends beyond mere formal recognition to include *acknowledgement of divine institution*, *approbation of persons*, *reverence*, *thanksgiving*, *prayer*, *obedience*, and *candour/equity*. This is a Melanchthonian expansion of the classical Aristotelian *honor* (Aristotle *Ethica Nicomachea* IV.3, 1123b17ff). Compare Melanchthon *Elementa Ethices* (CR 16:167–224).
+
+⁹⁰ **φιλοστοργία** (*philostorgia*) is the Pauline term for natural familial affection (Rom 12:10, *τῇ φιλαδελφίᾳ εἰς ἀλλήλους φιλόστοργοι*); **ἀστοργία** (*astorgia*) is its privative — the *unnatural absence* of familial affection listed among the vices of the reprobate (Rom 1:31, *ἀστόργους*, *without natural affection*). Chytraeus's use follows the classical rhetorical-humanist tradition of employing Greek moral vocabulary in Latin Lutheran ethics.
+
+⁹¹ Chytraeus's definitions of *Politia* and *Magistratus* follow Melanchthon *De Republica* (in the *Elementa Ethices*, CR 16). The *finis principalis* of civil society — that men may be *taught concerning God* and *the eternal Church gathered* — is a mark of the Lutheran two-kingdoms doctrine, according to which the magistrate is *nutritius Ecclesiae* even while remaining within the temporal order. Cf. *Augsburg Confession* XVI *De Rebus Civilibus* (BSELK, pp. 104–06); XXVIII *De Potestate Ecclesiastica* (BSELK, pp. 200–30).
+
+⁹² *Iustitia distributiva* in *proportione geometrica* is the Aristotelian formula (Aristotle *Ethica Nicomachea* V.3, 1131a10ff), distinguished from *iustitia commutativa* which operates by *arithmetical* proportion (V.4, 1131b25ff). Chytraeus preserves Aristotle's technical framework as the natural-law basis of political order.
+
+⁹³ *Fortitudo togata* — literally *fortitude in the toga* — is a Ciceronian topos (from Cicero's *Cedant arma togae*, *De Officiis* 1.77) for civic fortitude as distinguished from *fortitudo bellica* (military fortitude). The pair is standard in humanist ethics.
+
+⁹⁴ **ἐπιείκεια** (*epieikeia*) is Aristotle's technical term (Aristotle *Ethica Nicomachea* V.10, 1137a31–1138a3) for the *equity* which corrects the general law in particular cases where the letter would work injustice — one of the classical bridges between natural law and positive law. **ἀκυβεία** (*akybeia*) — perhaps to be read *ἀκυμία* or the like; the manuscript reading is uncertain — glosses the same concept. **φιλοδοξία** (*philodoxia*), *love of glory*, is Plato's term (*Republic* V.480a): *οἱ φιλόδοξοι*, contrasted with *οἱ φιλόσοφοι* — those who love opinion vs. those who love wisdom.
+
+⁹⁵ **εἰρηνοποιία** (*eirēnopoiia*) — peace-making — echoes the beatitude Matt 5:9 (*μακάριοι οἱ εἰρηνοποιοί*, *blessed are the peace-makers*); **φιλονεικία** (*philoneikia*), contentiousness, is Pauline (Luke 22:24; 1 Cor 11:16 in the related noun *φιλόνεικοι*), always used pejoratively.
+
+⁹⁶ Chytraeus's definition of *coniugium* as *legitimate and indissoluble conjunction of one husband and one wife* is the Lutheran mainstream position, consistent with *Augsburg Confession* XXIII *De Coniugio Sacerdotum* (BSELK, pp. 120–24) and Luther's own *Von Ehesachen* (1530), WA 30.3:198–246. The *finis* of matrimony as (i) *cultus Dei*, (ii) *propagation of the Church*, (iii) *mutual chastity* is Melanchthon's (*Loci Praecipui* 1559, *De Coniugio*, CR 21:1055–70).
+
+⁹⁷ **αὐτάρκεια** (*autarkeia*) is a philosophical topos of self-sufficiency (Aristotle *Ethica Nicomachea* X.7, 1177a27–b1; Stoic and Cynic ethics), taken over by Paul (1 Tim 6:6, *ἡ εὐσέβεια μετὰ αὐταρκείας*, *piety with contentment*; Phil 4:11, *αὐτάρκης εἶναι*). Chytraeus's Christian *autarkeia* is not Stoic self-sufficiency in indifference, but *contentment with divine providence* — Pauline in its shape.
+
+⁹⁸ 2 Tim 3:7: *πάντοτε μανθάνοντα καὶ μηδέποτε εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν δυνάμενα* — Chytraeus's Latin *"semper et omnia discens, et nunquam ad agnitionem veritatis perveniens"* closely tracks the Vulgate. The polemical application to *Academic vanity* (**ματαιότης**, *mataiotēs*) is a classical Reformation-humanist critique of scholastic-nominalist over-elaboration.
+
+⁹⁹ Chytraeus's treatment of *concupiscentia* under the Ninth and Tenth Precepts is careful post-Augustinian doctrine: original sin is not *merely* the *actus concupiscentiae* but the *corruption of all the powers of man*. Cf. *Formula of Concord*, Solid Declaration, Art. I *De Peccato Originis*, §5–17 (BSELK, pp. 846–56); Luther *Contra Latomum* (1521), WA 8:43–128; Melanchthon *Loci Praecipui* 1559, *De Peccato Originis*, CR 21:668–83. The **ἐπιθυμία** (*epithymia*) is the term of Rom 7:7 (*τὴν ἐπιθυμίαν οὐκ ᾔδειν, εἰ μὴ ὁ νόμος ἔλεγεν· οὐκ ἐπιθυμήσεις*, *I had not known concupiscence unless the Law had said: Thou shalt not covet*).
+
+¹⁰⁰ Chytraeus's six uses of the Law is a wider enumeration than the standard three-fold Lutheran scheme (*usus politicus / paedagogicus / didacticus*), but subsumes them: uses I–II are *cognitive* (what God is and what He is like), III is *anthropological* (finis creationis), IV is *paedagogicus* (accusing and condemning), V is *didacticus* or *tertius usus* (rule of good works in the regenerate), VI is *politicus* (civil discipline of the non-regenerate). Cf. FC SD VI *De Tertio Usu Legis* (BSELK, pp. 1030–40).
+
+¹⁰¹ The three impediments to discipline are a standard Reformation-catechetical scheme: (i) *inner corruption*; (ii) *worldly seductions*; (iii) *diabolical impulsion* — the classical *tria hostia hominis* (world, flesh, devil) in Chytraeus's technical vocabulary. Cf. 1 John 2:15–17; James 4:7; Eph 6:12.
+
+¹⁰² Chytraeus's *"five questions in order"* and *"six admonitions"* framework for the promises and threats attached to the Decalogue is a pedagogical distillation of Melanchthon's fuller treatment in the *Loci Praecipui* 1559, *De Promissionibus* (CR 21:911ff), and reflects the Wittenberg school method of systematic Q-and-A analysis.
+
+¹⁰³ The *"twelve causes"* Chytraeus promises to enumerate in the Locus concerning the Church (Locus IX in the present catechism) is a mnemonic scheme for the *causae crucis* — why God permits and even wills the affliction of the pious. Compare Luther *WA* 40.3:518–20 (Ps 27 lecture, 1533): the classical *causae* include (1) trial of faith, (2) exercise of patience, (3) mortification of sin, (4) conformity to Christ, (5) discipline against pride, (6) preservation from worse falls, (7) capacity for consolation of others, (8) glory of the resurrection, and so on. See in this working translation Locus IX, when completed.
+
+¹⁰⁴ Wis 11:23 in the Vulgate (Wisdom of Solomon 11:23): *dissimulas peccata hominum propter poenitentiam* — Chytraeus's citation is standard among 16th-c. Lutherans who continued to cite the deuterocanonical books, though the *Formula of Concord* (Solid Declaration, *Rule and Norm*, §3, BSELK, p. 830) restricts *sedes doctrinae* to the canonical books alone. Sirach and Wisdom appear regularly in Chytraeus's own writings as *sapientia libri* — books of wisdom useful for teaching, though not for establishing doctrine.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1732,6 +2305,108 @@ The Law concerning the Sabbath is *partly moral* — insofar as it concerns the 
 
 — ❦ —
 
-*End of Chapter 1, Locus I, Locus II, and Locus III Part 1. Locus III Part 2 (Second Table + closing) follows in the next working session; Locus IV (De Peccato) after that.*
+*Additional entries from Locus III · Part 2 — Second Table and Uses of the Law:*
+
+**Honor (septem partes)** — Honour, its seven parts. Chytraeus's Melanchthonian expansion of classical *honor* to include acknowledgement of divine institution, approbation of persons, reverence, thanksgiving, prayer, obedience, and candour/equity.
+
+**Pietas / Philostorgia** (**φιλοστοργία**) — Natural familial affection (Rom 12:10). Its extreme: **ἀστοργία** (*astorgia*), the unnatural absence of familial affection (Rom 1:31).
+
+**Politia** — Polity. The *legitimate ordination of a certain assembly of men associated by honest laws*, ordered to the principal *finis* that men may be taught concerning God and the eternal Church gathered.
+
+**Magistratus** — Magistrate. The *governor constituted by the ordination of God*, *nursing-father of the Church of God and of the Schools*, guardian of discipline and peace. Cf. the Lutheran two-kingdoms doctrine.
+
+**Iustitia distributiva (proportione geometrica)** — Distributive justice by geometrical proportion. Aristotelian technical framework (Aristotle *EN* V.3), preserved by Chytraeus as the natural-law basis of political order.
+
+**Sedulitas** — Diligence. Just distribution of labours to each; performing labours fitting one's vocation. Opposed to *ignavia* (idleness) and **πολυπραγμοσύνη** (*polypragmosynē*, meddling curiosity).
+
+**Reverentia** — Reverence. Attributing to others their place and acknowledging God's gifts in them; opposed to pride and flattery (*assentatio*).
+
+**Gratitudo** — Gratitude. Rendering due thanks with benevolence and offices; opposed to ingratitude and simulated gratitude ("displayed with empty hands").
+
+**Dilectio Proximi** — Love of Neighbour. The common genus of virtues in almost the whole Second Table.
+
+**Iustitia particularis** — Particular Justice. Rendering to each his due, preserving equality. Opposed to *iniuria*, *petulantia*, *nequitia*.
+
+**Fortitudo (bellica / togata)** — Fortitude, military and civic. Ciceronian pair (*Cedant arma togae*, *De Officiis* 1.77).
+
+**Patientia Philosophica** — Philosophical Patience. The virtue akin to Fortitude which obeys reason in enduring injuries. Distinct from *Patientia Christiana* (Locus III § 13 First Table).
+
+**Mansuetudo** — Gentleness. Moderating anger and desire for vengeance for public concord's sake.
+
+**ἐπιείκεια** (*epieikeia*) — Equity. Aristotle's technical term (*EN* V.10) for the equity which corrects general law in particular cases where the letter would work injustice.
+
+**Misericordia** — Mercy. Sorrow at another's calamity, mitigating penalties, helping the miserable — on account of justice, or goodness, or the shared human lot.
+
+**Candor** — Candour. Willing well to good people, rejoicing in their prosperities; bending ambiguous things to the better part.
+
+**Amicitia** — Friendship. Rendering true benevolence for true benevolence, with mutual communication of offices for virtue's sake.
+
+**Fidelitas** — Fidelity. Constancy of will in true benevolence and in all offices owed to friendship.
+
+**Studium concordiae / εἰρηνοποιία** — Zeal for concord / peace-making (Matt 5:9). Preserving concord by humility, moderation of anger, tolerance, pardoning. Opposed to **φιλονεικία** (*philoneikia*, contentiousness).
+
+**Humanitas** — Humanity. Conjunction of justice with milder and sweeter virtues.
+
+**Nemesis / Zelus** — Righteous Indignation. Indignation against turpitude, just sorrow at another's crime, and desire to expel and punish it.
+
+**Castitas (celibalis / coniugalis)** — Chastity, of celibate life and of marriage. Preserving cleanness of mind and body according to God's will.
+
+**Coniugium** — Matrimony. The *legitimate and indissoluble conjunction of one husband and one wife*, divinely instituted. Its *fines*: cult of God, propagation of the Church, mutual chastity.
+
+**Verecundia / Pudor** — Modesty, or Shame. Fearing true infamy, the divine judgement, and reproach of conscience; containing lusts; opposed to *impudentia*.
+
+**Temperantia** — Temperance. Moderating appetites of food and drink. Extremes: gluttony, drunkenness, excessive abstinence.
+
+**Iusta possessio et bonus usus** — Just possession and good use. Holding one's resources in the fear of God, augmenting them by honest reasons, conferring them to divinely-ordained uses.
+
+**Iustitia commutativa** — Commutative Justice. In contracts, preserving arithmetical equality (Aristotle *EN* V.4).
+
+**Beneficentia / Liberalitas** — Beneficence, or Liberality. Communicating one's resources not by civil but by natural or divine obligation.
+
+**Hospitalitas** — Hospitality. Especially toward exiles for the true doctrine's sake.
+
+**Frugalitas / Parsimonia** — Frugality, or Thrift. Guarding one's goods, avoiding luxuries, yet expending as reason requires.
+
+**αὐτάρκεια** (*autarkeia*) — Self-sufficiency, contentment (1 Tim 6:6; Phil 4:11). Christian contentment with divine providence, distinct from Stoic-Cynic self-sufficiency.
+
+**Veritas** — Truth. Loving *sentences congruent with things as they are*, constantly speaking and doing what is true. Opposed to *mendacia* in all its forms.
+
+**Simplicitas** — Simplicity. Perspicuous and open truth, without involvements or ambiguities.
+
+**Constantia** — Constancy. Perseverance in truth and justice; governing all actions according to right reason.
+
+**Modestia et Gravitas** — Modesty and Gravity. Opposed to arrogance, boasting (*iactantia*), ambition, and scurrility.
+
+**Appetitio verae Gloriae** — The right Appetite of Glory. Approving one's work according to the norm of divine will, seeking the approbation of God, of one's own conscience rightly judging, and of good men.
+
+**Docilitas** — Docility, teachableness. Opposed to pertinacity and Academic **ματαιότης** (*mataiotēs*, vanity; 2 Tim 3:7).
+
+**Taciturnitas** — Discretion. To be silent by reason. Opposed to garrulity, futility, and dissimulation.
+
+**Eloquentia** — Eloquence. Speaking perspicuously and ornately things pleasing to God and salutary to men.
+
+**Comitas / Affabilitas** — Affability. Declaring benevolence toward others by sweetness of speech, hearing, response, and gesture.
+
+**Urbanitas** — Urbanity. Seasonable and honest jocose speech that admonishes, gentles, or seasonably provokes. Opposed to scurrility.
+
+**Concupiscentia** — Concupiscence. The **ἐπιθυμία** (*epithymia*) of Rom 7:7; not merely an act but the *corruption of all the powers of man* — the sin fighting with the Ninth and Tenth Precepts. Post-Augustinian Lutheran doctrine of original sin.
+
+**usus Legis (sex)** — The six uses of the Law. Chytraeus's enumeration: (i-ii) cognitive, (iii) anthropological, (iv) *paedagogicus*, (v) *didacticus / tertius usus*, (vi) *politicus*. Subsumes the standard threefold Lutheran scheme.
+
+**Disciplina** — Discipline. Governing external morals to be congruent with the Law of God or right reason; repressing vicious affects; shunning external crimes.
+
+**tria hostia hominis** — The three enemies of man. Chytraeus's three impediments to discipline: (i) inner corruption, (ii) worldly seductions, (iii) diabolical impulsion — the classical *world, flesh, devil*.
+
+**Promissiones Legales** — Legal Promises. Have annexed the condition of *perfect obedience* — as the cause and merit on account of which promised things are exhibited.
+
+**Promissiones Evangelii** — Gospel Promises. Promise remission of sins, imputation of righteousness, Holy Spirit, eternal life to all who believe *GRATIS*, on account of Christ, without any condition or exception.
+
+**panis quotidianus (promissa corporalia)** — Daily bread (bodily promises). Bodily goods promised for six causes: acknowledgement of God as giver, conservation of the Church, exercise of invocation, admonition to spiritual goods, expression of gratitude, adminicula of vocation.
+
+**causae crucis** — Causes of the Cross. The *twelve causes* Chytraeus promises to enumerate in Locus IX (De Ecclesia): why God wills the affliction of the pious.
+
+— ❦ —
+
+*End of Chapter 1, Loci I–II, and Locus III (in two parts). Locus IV — De Peccato — follows in the next working session.*
 
 *The Scholastic Lutherans · 2026*

@@ -1619,7 +1619,337 @@ sabbatum_moraliter_ceremonialiter:
     (first day of the week) substituted, on which Christ rose. Cf. AC
     XXVIII; Luther Large Catechism, Third Commandment.
 
+# ─── CHYTRAEUS 1594 · Locus III Part 2 (Second Table + Uses of the Law) ─
+
+honor_septem_partes:
+  english: Honour and its seven parts
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 20"
+  note: >
+    Chytraeus's Melanchthonian expansion of classical honor (Aristotle
+    EN IV.3) to include (i) acknowledgement of divine institution,
+    (ii) approbation of persons, (iii) reverence, (iv) thanksgiving,
+    (v) prayer, (vi) obedience, (vii) candour/equity.
+
+philostorgia:
+  english: Natural familial affection (φιλοστοργία)
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, locus III § 20"
+  note: >
+    Rom 12:10. Pauline moral vocabulary. Its extreme opposite:
+    ἀστοργία (astorgia, Rom 1:31 — without natural affection).
+
+politia:
+  english: Polity
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 20"
+  note: >
+    Legitimate ordination of an assembly of men associated by honest
+    laws, ordered to the principal finis that men may be taught
+    concerning God and the eternal Church gathered. Cf. AC XVI.
+
+magistratus:
+  english: Magistrate
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 20"
+  note: >
+    The governor constituted by the ordination of God — nutritius
+    Ecclesiae et scholarum — guardian of discipline and peace. Lutheran
+    two-kingdoms doctrine. Cf. AC XVI, XXVIII.
+
+iustitia_distributiva:
+  english: Distributive Justice
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus III § 20"
+  note: >
+    By geometrical proportion (Aristotle EN V.3). Distinct from
+    iustitia commutativa (arithmetical proportion, V.4).
+
+sedulitas:
+  english: Diligence
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 20"
+  note: Opposed to ignavia and πολυπραγμοσύνη (polypragmosynē, meddling curiosity).
+
+dilectio_proximi:
+  english: Love of Neighbour
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    The common genus of virtues in almost the whole Second Table. In
+    Chytraeus's fourteen-fold enumeration: iustitia particularis,
+    puniens scelera, fortitudo bellica/togata, patientia philosophica,
+    mansuetudo, epieikeia, misericordia, candor, amicitia, fidelitas,
+    studium concordiae, humanitas, nemesis.
+
+iustitia_particularis:
+  english: Particular Justice
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Rendering to each his due, preserving equality. Opposed to iniuria,
+    petulantia, nequitia. Excess: summum ius, summa iniuria.
+
+fortitudo_togata:
+  english: Civic Fortitude
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Ciceronian topos from De Officiis 1.77 (Cedant arma togae). Paired
+    with fortitudo bellica (military fortitude). Constancy of soul
+    persevering in an honest purpose despite despising pleasures,
+    honours, threats, wealth, detractions, envy.
+
+epieikeia:
+  english: Equity (ἐπιείκεια)
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Aristotle EN V.10, 1137a31-1138a3. The equity which corrects the
+    general law in particular cases where the letter would work
+    injustice. Classical bridge between natural and positive law.
+
+misericordia:
+  english: Mercy
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Sorrow at another's calamity, mitigating penalties. Grounded in
+    justice (toward the innocent), goodness (relaxing strict right),
+    or the shared human lot.
+
+candor:
+  english: Candour
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Willing well to good people, rejoicing in their prosperities;
+    bending ambiguous things to the better part.
+
+studium_concordiae:
+  english: Zeal for Concord (εἰρηνοποιία)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Peace-making — Matt 5:9 (μακάριοι οἱ εἰρηνοποιοί). Preserving
+    concord by humility, moderation of anger, tolerance, pardoning.
+    Opposed to φιλονεικία (philoneikia, contentiousness).
+
+humanitas:
+  english: Humanity
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: Conjunction of justice with milder and sweeter virtues.
+
+nemesis_zelus:
+  english: Righteous Indignation (Nemesis, Zelus)
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, locus III § 21"
+  note: >
+    Indignation against turpitude, just sorrow at another's crime, and
+    desire to expel and punish it.
+
+castitas_celibalis_coniugalis:
+  english: Chastity of celibate and married life
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 22"
+  note: >
+    Preserving cleanness of mind and body according to God's will —
+    either without contamination of bodies (celibate) or reverently
+    guarding matrimony (conjugal).
+
+coniugium:
+  english: Matrimony
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 22"
+  note: >
+    Legitimate and indissoluble conjunction of one husband and one wife,
+    divinely instituted. Fines: cult of God, propagation of the Church,
+    mutual chastity. Cf. AC XXIII; Luther Von Ehesachen (1530), WA
+    30.3:198-246.
+
+verecundia_pudor:
+  english: Modesty, Shame (Verecundia, Pudor)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 22"
+  note: >
+    Fearing true infamy, divine judgement, and reproach of conscience.
+    Extreme opposite: impudentia.
+
+temperantia:
+  english: Temperance
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 22"
+  note: >
+    Moderating appetites of food and drink. Extremes: voracitas
+    (gluttony), ebrietas (drunkenness), nimia abstinentia.
+
+iustitia_commutativa:
+  english: Commutative Justice
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus III § 23"
+  note: >
+    In contracts, preserving arithmetical equality (Aristotle EN V.4).
+    Opposed to all frauds in contracts.
+
+beneficentia_liberalitas:
+  english: Beneficence, Liberality
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 23"
+  note: >
+    Communicating resources not by civil but by natural or divine
+    obligation. Mean between prodigality and sordidness.
+
+hospitalitas:
+  english: Hospitality
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 23"
+  note: >
+    Especially toward exiles for the true doctrine's sake — a live
+    16th-c. concern for Lutheran refugee ministers.
+
+autarkeia:
+  english: Self-sufficiency, contentment (αὐτάρκεια)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 23"
+  note: >
+    1 Tim 6:6 (piety with contentment); Phil 4:11. Christian contentment
+    with divine providence, distinct from Stoic-Cynic self-sufficiency
+    in indifference.
+
+veritas:
+  english: Truth
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: >
+    Loving sentences congruent with things as they are, constantly
+    speaking and doing what is true. Opposed to all mendacia — including
+    heresies, forensic calumnies, perfidy, perjury, boasting.
+
+simplicitas:
+  english: Simplicity
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: >
+    Perspicuous and open truth, without involvements or ambiguities.
+
+constantia:
+  english: Constancy
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: Perseverance in truth and justice; opposed to levity and inconstantia.
+
+modestia_gravitas:
+  english: Modesty and Gravity
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: >
+    Opposed to arrogantia (in speech), iactantia (boasting), ambitio,
+    and scurrility.
+
+appetitio_verae_gloriae:
+  english: Right Appetite of Glory
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: >
+    Approving one's work according to the norm of divine will, seeking
+    approbation of God, of one's conscience rightly judging, and of
+    good men.
+
+docilitas:
+  english: Docility (teachableness)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: >
+    Opposed to pertinacity and Academic ματαιότης (mataiotēs, vanity;
+    2 Tim 3:7).
+
+urbanitas:
+  english: Urbanity
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, locus III § 24"
+  note: >
+    Ornament of truth: seasonable and honest jocose speech that
+    admonishes, gentles, or seasonably provokes. Opposed to scurrility.
+
+concupiscentia_originalis:
+  english: Concupiscence (original)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 25"
+  note: >
+    ἐπιθυμία of Rom 7:7; the sin fighting with the Ninth and Tenth
+    Precepts. Not merely an act but the corruption of all the powers
+    of man. FC SD I §5-17.
+
+usus_legis_sex:
+  english: The six uses of the Law
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 26"
+  note: >
+    Chytraeus's enumeration: (i-ii) cognitive (that God is; what God is
+    like), (iii) anthropological (finis creationis), (iv) paedagogicus
+    (accusing and condemning), (v) didacticus / tertius usus (rule of
+    good works in the regenerate), (vi) politicus (civil discipline of
+    the non-regenerate). Subsumes the standard threefold Lutheran
+    scheme.
+  see_also: [usus_paedagogicus, usus_politicus, usus_didacticus, tertius_usus_legis]
+
+disciplina:
+  english: Discipline
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 27"
+  note: >
+    Governing external morals to be congruent with the Law of God or
+    right reason; repressing vicious affects; shunning external crimes.
+    Demanded even of the non-regenerate.
+
+tria_hostia_hominis:
+  english: The three enemies of man (world, flesh, devil)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 27"
+  note: >
+    Chytraeus's three impediments to discipline: (i) natural infirmity,
+    (ii) external allurements, (iii) diabolical impulsion. Classical
+    world-flesh-devil scheme. Cf. 1 John 2:15-17; Eph 6:12.
+
+promissiones_legales:
+  english: Legal Promises
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 28"
+  note: >
+    Have annexed the condition of perfect obedience — as the cause and
+    merit on account of which promised things are exhibited. Cf. Lev
+    18:5.
+
+promissiones_evangelii:
+  english: Gospel Promises
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 28"
+  note: >
+    Promise remission of sins, imputation of righteousness, Holy Spirit,
+    eternal life to all who believe GRATIS, on account of Christ,
+    without any condition or exception. Cf. Rom 4:16; 2 Cor 1:20.
+  see_also: [iustificatio, sola_fide, sola_gratia]
+
+panis_quotidianus:
+  english: Daily bread (bodily promises)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 28"
+  note: >
+    Bodily goods promised for six causes: acknowledgement of God as
+    giver, conservation of the Church, exercise of invocation,
+    admonition to spiritual goods, expression of gratitude, adminicula
+    of vocation.
+
+causae_crucis:
+  english: The causes of the Cross
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 28"
+  note: >
+    The twelve causes to be enumerated in Locus IX De Ecclesia: why God
+    wills the affliction of the pious. Compare Luther WA 40.3:518-20.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Locus I + Locus II
-# + Locus III Part 1). Every completed work appends its own new entries here.
+# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Loci I-II + Locus III
+# Parts 1-2). Every completed work appends its own new entries here.
 # ═══════════════════════════════════════════════════════════════════════════
