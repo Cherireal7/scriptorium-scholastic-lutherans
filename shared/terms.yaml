@@ -3879,3 +3879,276 @@ missionshandlung:
 # GROSSE 1900 — KICK-OFF (12 seed entries; body-tranche entries to append
 # below this line as translation proceeds).
 # ═══════════════════════════════════════════════════════════════════════════
+
+
+# ─── CATECHETICAL — Kirchner, Enchiridion (1583) ────────────────────────────
+# Timotheus Kirchner (1533–1587), court preacher to Elector Palatine Ludwig VI
+# at Heidelberg; co-author with Chemnitz + Selnecker of the 1583 Apologia oder
+# Verantwortung des christlichen Concordien-Buchs. Enchiridion imprint 1583
+# Heidelberg (Spies), BSB Catech. 388 = bsb00020680 = VD16 K 1037. First
+# Scholastic Lutherans tranche 2026-08-30 = title + Widmungsvorrede + Hauptstück I
+# Von der Heiligen Schrifft (source canvases 5, 7-28, 29-44). Kick-off: 15
+# Kirchner-specific lemmas; body-tranche entries append below the section-end
+# marker as translation proceeds.
+
+enchiridion:
+  english: Enchiridion (handbook)
+  alt: ["ἐγχειρίδιον", "Handbüchlein"]
+  type: catechetical
+  first_use: "kirchner-enchiridion, title page"
+  note: >
+    From Greek ἐγχειρίδιον, "in-the-hand" — a portable handbook. The genre
+    is a Reformation commonplace: Luther's Small Catechism was originally
+    titled *Enchiridion piarum precationum*; Melanchthon, Erasmus, Eck each
+    wrote an Enchiridion. Kirchner's 1583 use is entirely of this tradition
+    — a pocket-sized Q&A catechism intended (per his Vorrede) to be carried
+    daily and compared with the preacher's sermon-content. Preserve
+    untranslated as the book's own title; render the German *Handbüchlein*
+    literally where it appears within Kirchner's text.
+  see_also: [hauptstueck, catechismus_lat]
+
+sacramentierer:
+  english: Sacramentarians
+  type: polemical
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 22"
+  note: >
+    Kirchner's standing 1583 term for the Reformed (Zwinglian and Calvinist)
+    on the basis of their denial of the real bodily presence in the Lord's
+    Supper. Not a term the Reformed used of themselves; a Lutheran polemical
+    designation weaponised in the Palatinate context, where Kirchner served
+    as Lutheran court preacher in 1579–1583 against a still largely-Reformed
+    Heidelberg faculty and populace. The paired claim in Kirchner (Vorrede,
+    cv 22) that the Sacramentarians "blow into one horn" with the Jesuits
+    on the Person of Christ makes it a targeted polemical name for a
+    specific christological position rather than a general Reformed label.
+    Preserve as "Sacramentarians" in English body — the doctrinal claim is
+    the label; modernising to "Reformed" softens the polemic beyond
+    faithfulness. See Kirchner's counterpart deployment in the 1583
+    Apologia oder Verantwortung des Concordienbuchs he co-authored with
+    Chemnitz and Selnecker.
+  see_also: [genus_maiestaticum, ubiquitas, communicatio_idiomatum]
+
+schwaermer:
+  english: Enthusiasts
+  alt: ["Schwärmer", "enthusiastae"]
+  type: polemical
+  first_use: "kirchner-enchiridion, hauptstueck i § 10 at cv 39"
+  note: >
+    Literally "swarmers." Luther's collective term for the radical
+    spiritualist wing of the Reformation — Karlstadt, Müntzer, the Zwickau
+    prophets, later Schwenkfeld and the Anabaptist spiritualists. The
+    Lutheran technical charge: the claim of the Spirit apart from the
+    verbum externum (external Word). Kirchner's use at Hauptstück I § 10
+    (cv 39) is entirely standard: those who "reject God's Word or the
+    preached Word." Rendered in the English body as "Enthusiasts" (the
+    English technical term of art), with the German preserved on first
+    occurrence per Hauptstück. Formula of Concord Solid Declaration II
+    fixes the confessional formulation.
+  see_also: [verbum_externum, sacra_scriptura, principium_essendi_cognoscendi]
+
+hauptstueck:
+  english: Chief chapter / chief head
+  alt: ["Hauptstück"]
+  type: catechetical
+  first_use: "kirchner-enchiridion, title page"
+  note: >
+    The standing organising unit of Lutheran catechesis from Luther's
+    Small Catechism onward. Kirchner's Enchiridion is organised by
+    Hauptstück, not by Locus (Chytraeus) or Articulus (later scholastics)
+    or Frage-Nummer (Heidelberg Catechism). Render "chief chapter" on the
+    primary occurrence per Hauptstück; abbreviate to "Hauptstück" thereafter
+    within that locus. The plural is Hauptstücke, but Kirchner's title
+    uses the older form Hauptstück as invariable plural.
+  see_also: [catechismus_lat, enchiridion]
+
+widmungsvorrede:
+  english: Dedicatory Preface
+  alt: ["dedicatio", "epistola dedicatoria"]
+  type: rhetorical
+  first_use: "kirchner-enchiridion, front matter cv 7-28"
+  note: >
+    The 16th-c. formal genre — a preface addressed to a named patron,
+    functioning simultaneously as dedication, statement of purpose,
+    patronage acknowledgment, and (in a confessional context) doctrinal
+    self-locating statement. Kirchner's Widmungsvorrede is unusually
+    theologically substantive: the whole Nehemiah-typological reading of
+    the Reformation is worked out in its ~20 pages before the personal
+    dedicatio to Ludwig VI, and functions as a small tract in its own
+    right. Chytraeus by contrast has an epistola dedicatoria + a separate
+    address to the pious reader; Kirchner merges the two in a single
+    extended piece. Render "Widmungsvorrede" untranslated in structural
+    reference (as a heading); "dedicatory preface" in the English body.
+  see_also: [epistola_dedicatoria, catechismus_lat]
+
+concordi_buch:
+  english: Book of Concord
+  alt: ["Konkordienbuch", "Liber Concordiae"]
+  type: dogmatic
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 27"
+  note: >
+    Kirchner's 1583 spelling of Konkordienbuch (1580) — the collection of
+    the Lutheran confessional documents (Three Ecumenical Creeds, Augsburg
+    Confession, Apology, Smalcald Articles, Tract on the Power and Primacy
+    of the Pope, Small and Large Catechisms, Formula of Concord). Render
+    "Book of Concord" in English body; preserve the 1583 spelling in
+    Kirchner's own phrase (e.g. *im Christlichen Concordi Buch*). The
+    Kirchner-Enchiridion is dedicated (Widmungsvorrede § 3) to the
+    proposition that its author will not depart in the least from the
+    confession of the saving faith "repeated in the Christian Book of
+    Concord" — the sentence that qualifies the Enchiridion for treatment
+    as a systematic-catechetical footprint of the Confessions themselves.
+  see_also: [formula_concordiae, concordi_werk, apologia_concordiae]
+
+concordi_werk:
+  english: Christian Concord-Work
+  alt: ["Christliches Concordi Werk"]
+  type: dogmatic
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 25"
+  note: >
+    The entire Lutheran concord enterprise as a work-in-progress: the
+    1577 Formula of Concord + 1580 Book of Concord + 1583 Apology of the
+    Book of Concord (Apologia oder Verantwortung, by Kirchner + Chemnitz
+    + Selnecker) considered together as the confessional-institutional
+    settlement Kirchner and his collaborators were finishing in 1583.
+    Preserve the compound noun in English rendering (do not disaggregate
+    into "concord work") since Kirchner uses it as a technical term.
+  see_also: [concordi_buch, apologia_concordiae, formula_concordiae]
+
+apologia_concordiae:
+  english: Apology of the Book of Concord
+  alt: ["Apologia oder Verantwortung des christlichen Concordien-Buchs"]
+  type: dogmatic
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 25 (implied) + Translator's Note § 1"
+  note: >
+    The 1583 official defence of the Book of Concord against Reformed and
+    irenicist critics, authored by Timotheus Kirchner, Martin Chemnitz,
+    and Nikolaus Selnecker. Printed at Heidelberg by Johann Spies in 1583
+    — the same shop and same year as the Enchiridion. Not to be confused
+    with Melanchthon's 1531 Apology of the Augsburg Confession (Apologia
+    Augustanae Confessionis) — the 1583 Apology is a defence of the whole
+    Book of Concord, not of the AC alone. Kirchner's Enchiridion is the
+    catechetical footprint of the same-year Apology: same author, same
+    doctrinal binding, same shop, cast in Q&A form for parochial use.
+    Preserve the German title in bibliographic reference; render "Apology
+    of the Book of Concord" in the English body.
+  see_also: [concordi_buch, concordi_werk, formula_concordiae]
+
+kirchenbaw:
+  english: Church-building
+  alt: ["Kirchengebäude (mod.)", "aedificatio ecclesiae"]
+  type: pastoral
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 20"
+  note: >
+    Not the physical building (Kirchengebäude in modern German) but the
+    typological building of the Church as Congregation — the sustained
+    Nehemiah-Temple metaphor that structures Kirchner's Widmungsvorrede.
+    Rendered "Church-building" (with the hyphen) in English body: the
+    hyphen preserves the metaphor's compound-noun character and blocks
+    modern misreading as "the building where the church meets." Cognate
+    forms in the same Vorrede: Widerauffbawung ("re-building"), Kirchen-
+    baw ("Church-building"), Auffbawung ("upbuilding"). All render
+    consistently; do not paraphrase the metaphor into "reform" or
+    "reformation" — Kirchner's typology depends on the building image.
+  see_also: [widerauffbawung, schwerdt_des_geistes]
+
+widerauffbawung:
+  english: Rebuilding
+  alt: ["Widerauffbawung", "reaedificatio"]
+  type: pastoral
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 8"
+  note: >
+    The Reformation as *re-building* of the Church after the Babylonian /
+    papal captivity — Kirchner's controlling typological figure in the
+    Widmungsvorrede. Modelled on Nehemiah's rebuilding of Jerusalem after
+    the seventy-year Babylonian captivity; Cyrus of Persia the type of
+    God's providential deliverer, Luther and the Reformation-era princes
+    the antitype. Not simply "reform" (Reformierung); the term insists on
+    the physical-architectural metaphor. Render "rebuilding" consistently.
+  see_also: [kirchenbaw, babylonische_gefangknuss]
+
+schwerdt_des_geistes:
+  english: Sword of the Spirit
+  alt: ["gladius Spiritus", "μάχαιρα τοῦ Πνεύματος"]
+  type: pastoral
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 18"
+  note: >
+    Ephesians 6:17, invoked cumulatively across the Nehemiah typology of
+    Kirchner's Vorrede: the youth in schools trained "to build with the
+    one hand and to hold the weapons with the other" — the weapons being
+    the pointed use of Scripture in polemic against papal and Reformed
+    error. Render literally. Kirchner is not adding a novel doctrine but
+    activating a Reformation commonplace; the Ephesians phrase does
+    heavy work in Luther's 1530 Predigt daß man Kinder zur Schule halten
+    solle, and Kirchner's whole Nehemiah-two-handed-builder image
+    presupposes that Luther background.
+  see_also: [kirchenbaw, verbum_externum]
+
+babylonische_gefangknuss:
+  english: Babylonian Captivity (papal)
+  alt: ["Babylonische Gefangenschaft"]
+  type: polemical
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 8"
+  note: >
+    The Reformation typological reading of the medieval papal centuries
+    as a Babylonian captivity of the Church — Luther's own coinage in
+    De captivitate Babylonica ecclesiae 1520 (WA 6:497–573), inherited
+    by Kirchner as an assumed frame. In Kirchner's Vorrede, the exodus
+    from Babylon under Cyrus is the OT type; the Reformation the antitype.
+    Preserve on first invocation; use "papal captivity" or "Babylonian
+    captivity" freely thereafter.
+  see_also: [widerauffbawung, kirchenbaw]
+
+wort_gottes:
+  english: Word of God
+  alt: ["Verbum Dei", "λόγος τοῦ Θεοῦ"]
+  type: dogmatic
+  first_use: "kirchner-enchiridion, hauptstueck i § 2 at cv 30"
+  note: >
+    Kirchner uses "Wort Gottes" and "Heilige Schrifft" synonymously in
+    Hauptstück I — the doctrine of Scripture as Word of God. Not to be
+    over-distinguished from sacra_scriptura in this locus: Kirchner's
+    scholastic articulation of the Word-verbum-λόγος distinction is
+    latent (the same locus in the Latin *Methodica explicatio* 1586
+    develops it further). Render "Word of God" consistently; the German
+    formulation is the standard 16th-c. Lutheran equivalent to sacra
+    scriptura.
+  see_also: [sacra_scriptura, verbum_externum, lex_et_evangelium]
+
+fuernembste_hauptstueck:
+  english: The Chief Chapters (of Christian doctrine)
+  alt: ["fürnembste Hauptstück"]
+  type: catechetical
+  first_use: "kirchner-enchiridion, title page + widmungsvorrede at cv 23"
+  note: >
+    The title-formula and Vorrede-repeated phrase — "the *chief* Hauptstück
+    of Christian doctrine." Signals that Kirchner's Enchiridion is not a
+    complete dogmatics but a *selective* catechesis on the *disputed*
+    Hauptstück — those in contest between Lutherans and Papists on the
+    one side and between Lutherans and Reformed on the other. Determines
+    the scope of the book: Scripture, God, Person of Christ, Justification.
+    Standard Lutheran Loci (Predestination, the Sacraments, the Church)
+    are not treated at length precisely because they were not the
+    controverted matters in Heidelberg 1583.
+  see_also: [hauptstueck, enchiridion, sacramentierer]
+
+hoffprediger:
+  english: Court preacher
+  alt: ["Hofprediger", "concionator aulicus"]
+  type: proper-name
+  first_use: "kirchner-enchiridion, widmungsvorrede at cv 25"
+  note: >
+    The princely court preacher — a distinct office in early modern
+    Lutheran territorial churches, responsible for the daily preaching
+    at the electoral or ducal court, catechesis of the ruling family,
+    and (often) senior consultation on ecclesiastical policy. Kirchner
+    served as Hofprediger to Ludwig VI at Heidelberg for four years
+    (cv 25: "nun ins vierte Jar Vnterthenigster Diener geweft"),
+    approximately 1579–1583. Render "court preacher" in English body;
+    preserve "Hofprediger" on first substantive occurrence.
+  see_also: [ludwig_vi]
+
+# ═══════════════════════════════════════════════════════════════════════════
+# KIRCHNER 1583 — KICK-OFF (15 seed lemmas from Tranche 1 = Vorrede + Hauptstück I).
+# Body-tranche entries for Hauptstück II onward to append below this line as
+# translation proceeds.
+# ═══════════════════════════════════════════════════════════════════════════
