@@ -3576,12 +3576,35 @@ epistola_germaniae_galliae:
     conciliarist forgery projected onto Anastasius I 399-401 or II
     496-498). Flacius honestly notes uncertainty about which Anastasius.
 
+# ─── Tranche 2q — Epistola ipsa + Salvian + Pelagius (vl0086-vl0090) ────
+
+haec_sancta_conciliarism:
+  english: Haec sancta conciliarist doctrine
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Epistola Germaniae ipsa at vl0086"
+  note: >
+    Council of Constance 1415 session V Haec sancta decreeing council
+    authority superior to pope; continued at Basel 1431-1449. The
+    pseudo-Anastasius letter's core thesis authoritas Conciliorum
+    maior est quam unius Papae directly echoes it — either 15th-c
+    Gallican forgery marker or remarkable proto-conciliarism.
+
+salvianus_massiliensis:
+  english: Salvian of Marseille De Gubernatione Dei
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Salvianus at vl0090"
+  note: >
+    Salvian c. 400-c. 480 De Gubernatione Dei V (PL 53:96-108) —
+    blames Western Empire collapse on Roman-Christian moral corruption.
+    PECCATA INTERDIXIT DEUS NON MATRIMONIA against Siricius Directa
+    385 celibacy-imposition (still contemporary aftermath c. 480).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Episcopi Germaniae opening (vl0001-vl0085,
-# 85 body pp + 32 paratexts ≈ 15.5% of 1094-pp body). Flacius lemma total:
-# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
-# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
-# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) = 104.
+# FLACIUS 1556 — TRANCHE 2 through Salvian (vl0001-vl0090, 90 body pp
+# + 32 paratexts ≈ 16.4% of 1094-pp body). Flacius lemma total: 10 seed
+# + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
+# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
+# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) = 106.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

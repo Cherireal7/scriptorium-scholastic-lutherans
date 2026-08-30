@@ -1092,7 +1092,47 @@ Hisce & similib. scriptis ac dictis malam gratiam apud Romanos curtisanos iniuit
 
 **Inter collectanea Auentini**, inuenio epistolam hoc titulo, *Epistola episcoporum Germaniae et Galliae ad papam Anastasium*: cuius ea est summa, ut moneant Papam & Italicos episcopos, ut sese missos faciant, nec deinceps super eos tyrannide exercere pergant. Iubent eos, ut semel prius cauerat. Eorum enim scilicet prauam famam per orbem terrarum spargi. Se, si quid in suis regionibus peccatum fuerit, promet ipsis facile curaturos, & correcturos. Apparet tunc aliquid grauius contra eos statuisse, idq[ue] temerè ac praecipitanter. Vident uidentur Papae imperium aut regnum supra sese concedere noluisse: & alioqui multos eius tetros lapsus & uidisse, & non dissimulasse. Sed subijciam ipsam totam epistolam, unde rectius lector sententiam eius cognoscere possit. Dubito autem, ad quem Anastasium ipsi scripsissent: num ad secundum, qui sedit circa 500 Domini annum: aut potius ad primum, qui sedit circa annum Domini 400, cuiusq[ue] etiam epistola ad episcopos Germaniae missa, cum Cocilijs impressa exstat. Sequitur epistola ipsa.³³⁰
 
-*[Epistola ipsa follows on `vl0086`; staged for the next Tranche 2 session.]*
+### **The Letter Itself** — vl0086–vl0089
+
+> **Against Anastasius Pope, the Bishops of Gaul and Germany, under Litavicus [Clovis] the Great King, whom the Gauls call Clodovaeus.**³³¹
+>
+> Far other are pontifical thrones, and other are those presidents: hence honour and dignity of themselves — the presidents however, if they should so live-and-act, by ways beside they follow-not. Hence it is, that our clusters we-gather, and thorns we take-care-to-avoid. Not by presumption, but by truth, we bishops affirm — from many authorities saying — that the *authority of Councils is greater than that of Anastasius alone.*³³²
+>
+> Paul the Apostle, who cries, *"Imitators of me become as I of Christ,"* resisted Peter the prince of the Apostles to his face, because he was reprehensible, and equally-gently *among the Gentiles* he behaved as a Jew (Gal 2:11–14).³³³ For scandals are seed-beds, when bishops together with bishops make tempests to rage in holy Ecclesia, where the summit peace should be: bishops of a deaf and enraged heart hearing Scripture saying, "What you would not that be done to you, do not to another."³³⁴ Not to imitate the humility of the good pastor, who lays his soul for the sheep: who not according to hearing of the ear judges, nor according to sight of the eyes decides, but according to what he-may-be-inspector of hearts. Hear therefore uel Apostolum, that clamouring to you and to the whole flock, in which the Holy Spirit has placed you as bishops, to rule the Ecclesia, which he has acquired for himself.
+>
+> Therefore not-suddenly with temerity are-to-be-brought forth the sentences of bishops against bishops — willing to make void the powers of other bishops. **Anacletus** the Pope says: *"Accusers however and witnesses cannot be, who yesterday or day-before-yesterday were enemies: nor was it lawful for one wounded in judgement to disagree in his own vindication."*³³⁵ Hence **Xistus** the Pope: *"By suspicion of accusers, or of persons from a house of enemies, credit is not to be given."* **Telesphorus** the Pope says: *"The palm of justice does not attain those, unless well witnesses appear, who are judges: and no sentence stands opposed except that Scripture-of-truth is annulled."*
+>
+> Besides, we say — according to the literal understanding — our judgement flees the *novelty of compassion*, which they use towards the infirmity of France. **Continual with fever they are-agitated**, who are willing to cure our bishops. They are blind, who promise light to others. Gibberosos and blind, who make our bishops, who bear tumours of avarice: through the strait gate they cannot enter. They allow their own sheep to err, and lead our pastors back to their own life; that is, they place spiritual disease-medicines, that is, absolutions of souls, at Rome to be sought: but they compel them to go to Rome amidst arms, which stops them within to sound. *Is there in all Italy nothing available, that would be a searcher of judgement?* If in our own toils he exercises his own judgment, let him hear Paul: *"Do not judge before the time, until the Lord come, who will illuminate the hidden things of darkness, and will manifest the counsels of hearts; and then will there be praise to each one from God."*³³⁶
+>
+> And so audaciously *in the ears of the mob* to reprehend, we would cease, if — even after us, through God's grace — sanos, wound-of-fire they would-bring-in. What that fire remains still adverse to our bishops-to-move, they-arrange. To Gallican in themselves the truth they-may-know, which without cause in themselves they-provoke. Nor should they be judged, as an ill physician, who cures fever with fire, than to know the qualities of the sickness.
+>
+> If however further, bishops of Gaul spiritually to-are-sick they-affirm: they-may-know therefore the *Dominican precept* according to that: *"Sick not to visit."* For it does not concern the fevered to-hurry to the physician, but the physician to the sick. What if he refuses, they-may-know, us to have a most-perfect and most-Evangelical antidote — the Son of God — through which every spiritual troubling is-healed. To-be-warned are bishops, that they do not commit hidden things of the conscience of our episcopal-order: nor pretend to us that either through zeal of excessive justice, or insidias of Regian judgment, we may be compelled evangelically to respond: *"Who is without sin, first let him cast a stone."*³³⁷ This is why we say: not through hardness of their own mind, authority — which they think to be their own — in bishops of ours they-carry: since it is not impossible, that a struck-blow they-prejudice, and in us they-repel — especially since ours never learn more than necessary is to fear.³³⁸ Let-us-confess however today Christ, who has-set his father-in-law Peter of fevers-be-freed, and himself the consolers-of-heavy Italian bishops-be-be, whom John from Patmos island *truly from the number of the elect* he-saw, when among-others he-says: *"He sent a dragon, and drew the third part of the stars."*³³⁹ Who while trying to draw from-our pastors-of-light of-praise, they-are-rolled with a fog of their own error. Whom likewise we-do, that whoever have-seen, may-not-see. *"For a report is, therefore, that lame is thing terrible."* Not to be esteemed is a good report at the ends of the earth: Who inhabit beyond Jove's mountain [the Alps], arrows beyond the stone of salvation: which not so planted in the house of the Lord, in the order of Melchizedek. To whom is-expedient, that a mill-of-flour be suspended around their necks, since they have attempted rashly to scandalise our pastors.³⁴⁰ But if they-shall-be-able, as much as by that abundance which they-have, nothing to-hurt, whom it is-plain by day-and-night obliged to have shadow-in-sleep-be: so they-esteem in Gaul to-be to-lack these three: *Word, iron, ingenium*. Not therefore fumum of their-own-will in vain let-them-scatter, and be-silent-in judging-and-tacking-they-do-be-become.
+>
+> Even *inclined is the ark of the testament of us*, kicking bulls of Gaul from-of-our episcopal-order-be, and of them, incline-let-relieve. What if in the arca of the ecclesia of us a solicitous tongue crime intends, they-will-be-able-to have a ruin-interior of Uzzah's levite of-be.³⁴¹ Let-us-confess however, since these titles cogitationum of our-of-selves may-be-known, their-own summit-of-good in us not to have-been-committed: and dialectically this syllogism let them vigilantly understand: *"If in all bishops there is-one power, is-also to-one: for-that however is-in-all one power."*³⁴²
+>
+> **These the letter reperta is-among Auentini schedas, in his proper hand described: whence, I do not know.** Hence you may Christianus brother animadvert, that already at that time it was-doubted-be Roman Antichrist to-be, as few for centuries: but tyranny of the Pope with-otherwise-calamitates-of-world, in-immense grew.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Salvianus episcopus Massiliensis
+
+### *Salvian, Bishop of Marseille* — vl0090
+
+**Salvian, Bishop of Marseille**, a man in the name of piety and erudition especially commended, lived about the year of the Lord 480.³⁴³ He, among other things, against sub-orities of pullulating errors said, even *clerical marriage defended*. But I will subscribe his words from book 5 of *De Providentia Dei*:³⁴⁴
+
+*"A new-utterly is the genus of conversion. Licit-they-do-not, illicit they-commit. They temperate from marriage, and do-not-temperate from rapine. What do you-do, foolish persuasion? Peccata interdixit Deus, non matrimonia. Preposterous is what you-do. Studies of yours, deeds of yours. You-do-not-be to-be friends of criminum, who you-say yourselves to-be effectrices of virtues. You-do-not-owe consciousness of self to-be-a-friend of glory, an accessor is not conversely-but-adversely. Whoever now, as report is, are-relict of honest matrimony, at length from wickedness they-cease."*
+
+**From these it is manifest**, that he not-only-defended marriage, but also at-once by-shady-obscure Pope himself of celibate-of-priests-precipient oppugnasse. All-things-however-almost-words against-being-of-some-directly-of-are: and interdixerat with-many-years-before Syricius clero coniugium, sequentes-be Papae in eius prauis uestigijs permanebant.³⁴⁵
+
+## Pelagius
+
+### *Pope Pelagius I* — vl0090+
+
+**Pelagius**…³⁴⁶
+
+*[The Pelagius entry continues on `vl0091`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1907,6 +1947,42 @@ Hisce & similib. scriptis ac dictis malam gratiam apud Romanos curtisanos iniuit
 ## From the Catalogue — Episcopi Germaniae & Galliae (vl0085–)
 
 **³³⁰** **The *Epistola episcoporum Germaniae et Galliae ad papam Anastasium*** — preserved in **Johannes Aventinus's *Annales Boiorum*** (Ingolstadt, 1554) collectanea; a document of contested authenticity, possibly a 15th-c. Gallican-conciliarist forgery projected back onto the pontificate of Anastasius I (399–401) or Anastasius II (496–498). Flacius honestly notes his uncertainty about which Anastasius. The letter's claim that the Trans-Alpine bishops rebuked papal jurisdictional overreach is the polemical content, whether the document is 5th-c. or 15th-c.
+
+**³³¹** ***Litavicus Magnus Rex, quem Galli Clodoveum vocant*** — Latin-Germanic humanist rendering of **Clovis I** (r. 481–511), King of the Franks. If the letter is authentic to the 490s, this dates it to Clovis's early reign, immediately before or after his baptism (traditionally 496). If pseudo-, the humanist Latinisation is characteristic of 15th-c. Gallican historical work.
+
+**³³²** *Authoritas Conciliorum maior est quam unius Papae* — the letter's core conciliarist thesis, directly echoing the Council of Constance's decree *Haec sancta* (1415, session V) and the Council of Basel's continuation of it (1431–1449). If the letter is 15th-c. forgery, this is the smoking gun; if 5th-c., a remarkable proto-conciliarism.
+
+**³³³** **Galatians 2:11–14** (already glossed at endnote 58) — the Antioch rebuke of Peter by Paul, invoked here as apostolic warrant for lesser bishops rebuking greater.
+
+**³³⁴** **Matthew 7:12 / Luke 6:31** — the Golden Rule inverted, applied to episcopal jurisdictional overreach.
+
+**³³⁵** **Pseudo-Anacletus, *Ep.* 3** — from the Pseudo-Isidorian Decretals (already glossed at endnote 100), the forged patristic-canonical apparatus that the German-Gallic bishops (or the pseudo-author) here quote as legitimate canonical authority. That the letter cites Pseudo-Isidore is another marker of medieval rather than 5th-c. origin.
+
+**³³⁶** **1 Corinthians 4:5** — *nolite ante tempus iudicare, quousque veniat Dominus*. Pauline judgement-restraint, deployed against Roman jurisdictional overreach.
+
+**³³⁷** **John 8:7** — *qui sine peccato est vestrum, primus in illam lapidem mittat*. The classic non-throwing-stones proof-text, deployed against papal moral-judicial-authority claims.
+
+**³³⁸** *Numquam plus quam necesse est formidare* — the closing self-defence: the Trans-Alpine bishops do not fear more than is necessary.
+
+**³³⁹** **Apocalypse 12:4** — *cauda eius trahebat tertiam partem stellarum caeli*. The dragon-tail cast down stars; applied by the letter to Roman-Italian bishops (the "consolers of heavy Italian bishops") who follow the dragon.
+
+**³⁴⁰** **Matthew 18:6** — *expedit ei ut suspendatur mola asinaria in collo eius*. The Dominical millstone-around-the-neck warning against scandalising, applied to Roman jurisdictional scandal-giving.
+
+**³⁴¹** **2 Samuel 6:6–7** — the death of Uzzah for touching the ark. The letter applies to Roman jurisdictional overreach: touching (jurisdictionally) the *arca of our ecclesia* risks Uzzah-like judgement.
+
+**³⁴²** The *dialectical syllogism* — if all bishops share one power (as Cyprian *De Unitate* 4 taught, glossed at endnote 164), then that one power belongs to each; therefore no one bishop can lord it over another. The scholastic-syllogistic form is another marker of medieval rather than 5th-c. composition.
+
+## From the Catalogue — Salvianus (vl0090)
+
+**³⁴³** **Salvian of Marseille** (c. 400 – c. 480), presbyter of Marseille, moralist and social critic, author of *De Gubernatione Dei* (also called *De Providentia Dei*) — the celebrated 5th-c. treatise blaming the Western Empire's collapse on Roman-Christian moral corruption. Flacius here reads Salvian as pre-Reformation anti-celibacy witness.
+
+**³⁴⁴** **Salvian, *De Gubernatione Dei* V** (PL 53:96–108) — the diatribe against Latin-clerical hypocrisy: *Peccata interdixit Deus, non matrimonia* ("God forbade sins, not marriages"). Reformation-standard citation.
+
+**³⁴⁵ Pope Siricius's *Directa* of 385** (already glossed at endnote 249) — Flacius reads Salvian c. 480 as still contemporary with the aftermath of Siricius's celibacy-imposition, and as continuing Reformation-avant-la-lettre resistance.
+
+## From the Catalogue — Pelagius (vl0090+)
+
+**³⁴⁶** **Pope Pelagius I** (556–561), Justinianic-era pope in the aftermath of the Three-Chapters controversy. Not to be confused with the heresiarch Pelagius (c. 354 – c. 420/440) whose doctrine on grace Augustine and the whole Latin tradition condemned. Entry continues on the next page.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
