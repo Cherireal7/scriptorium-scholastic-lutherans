@@ -352,7 +352,49 @@ These things I have proffered concerning both grievous stumblings and imbecility
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[The Sanctus Petrus entry ends here on the middle of `vl0007`; a new section `Sacrae literae` (Sacred Letters, on Scripture's own witness against the Pope) opens immediately after. Sacred Letters is staged for the next Tranche 2 session.]*
+*[The Sanctus Petrus entry ends here on the middle of `vl0007`; the next section, `Sacrae literae`, opens immediately below on the same page.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Sacrae literae
+
+### *The Sacred Letters* — vl0007–vl0011
+
+The Sacred Letters fight against the Pope and his errors, not only insofar as they propose a contrary doctrine, but also insofar as they expressly declare and openly foretell that Antichrist is to come, and not obscurely indicate that he himself is the Pope, and that his errors are what Scripture has foretold.
+
+**St Paul** teaches that Antichrist will sit in the temple of God, and will there display his own power and exercise his tyranny.⁶³ Now the temple of God is his whole Church: *Vos estis templum Dei viventis* — "You are the temple of the living God" (1 Cor 3:16; 2 Cor 6:16).⁶⁴ God has no longer a material temple in some one place, as of old at Jerusalem — which many centuries ago was demolished to the foundations. But who else has raised himself in the Church, and exalted, and made a show of himself, than the Popes?
+
+**Likewise**, Paul says that he will display himself as though he were God — since he raises himself above God and his worship. Christ interprets this at Matthew 24 by saying: *he will come in Christ's name*.⁶⁵ It is certain that the Pope has sold himself as the *Vicar of Christ* — and yet has usurped for himself a greater power than the very Son of God has usurped. For Christ always subjected himself to Scripture, and said that whatever he did or suffered he did and suffered *that the Scripture might be fulfilled*.⁶⁶ But the Pope says of himself that he can dispense against the Apostle and against the Evangelist — that he can make right things crooked, and the contrary.⁶⁷
+
+**Likewise** Paul foretold at what time Antichrist would come — namely at the ruin of the Roman empire — which point too agrees with the truth of the matter. For it was then that the Pope began to lift up his head, and to heap impieties upon impieties.⁶⁸
+
+**Peter also**, exceedingly graphically and in his own natural colours, depicts this successor of his and his prelates, in the second chapter of his Second Epistle.⁶⁹ He predicts that they will deny the Lord himself who redeemed them — which the Pope with his party plainly did, when they wished to redeem and save themselves and others by their own sacrifices and merits.⁷⁰
+
+**Likewise** he says that they will traffic through avarice, with feigned speeches, on the miseries of Christians.⁷¹ This the ministers of Antichrist have utterly done — with so many contrived little tales of miracles, of apparitions, of the relics of saints, and so forth.
+
+He says they will be given up to lusts, and will despise the magistrate.⁷² Whether this fits any other than the Roman Antichrist and his little sons — let all judge; who even thrust their stinking feet on kings and Caesars to be kissed, who set up and depose kings and Caesars at their own pleasure and at their own lust, excommunicate them, absolve them, and wickedly liberate their subjects from the oath of fidelity to them.⁷³
+
+**Likewise** Peter continues: they will be given to luxury, will damn unknown things, will have hearts trained to rapines — will have a semblance of piety, but will nonetheless be, as it were, waterless waves, breathing out grand and *sesquipedalian* words, and so forth. All of which things fit — precisely to the mark — the Pope and his pompous Cardinals and prelates and the rest of his sacrificing rabble.⁷⁴
+
+**Daniel** teaches that he will not care for the love of women — that is, of honourable marriages — just as St Paul foretold that he would prohibit marriages and the use of foods.⁷⁵ It is well known that the Pope did both. For he prohibited marriage to his spirituals; and, in general, on marriage he taught that it is an unclean and carnal way of life, less pleasing to God.
+
+**John in the Apocalypse** indicated the time during which he would reign — namely 1260 days, that is, years, since Scripture often in prophecies and types denotes a year by a day.⁷⁶ Likewise from the person itself, namely the one who will however revive the fallen Roman empire (Apoc. 13). This too the Pope has done.⁷⁷ He indicated also the place where above all he would dwell — namely at Rome, which although he calls Babylon,⁷⁸ nonetheless even the papists themselves take Babylon in the New Testament to mean Rome.
+
+And that you may doubt still less of what city he is speaking, he adds this indication too — that it is a city built upon seven hills, and having dominion over the whole earth: both of which then were truly said of Rome.⁷⁹
+
+**The very name of Antichrist** — of which the thirteenth chapter of the Apocalypse treats — Irenaeus in the fifth book of his *Against Heresies* interprets as being **LATINVS**, by which the Pope is plainly designated.⁸⁰
+
+These things I wished briefly to say, only that I might warn how the Sacred Letters plainly accuse the Pope of being Antichrist. I do not now wish to explicate more prolixly *how* he has stripped Christ of both his priesthood and his kingdom by new sacrifices, new mediators, and by his own patrons as defenders of the Church.⁸¹ For all these things can be fully sought from those who have discussed the matter more diligently and prolixly.
+
+Having proved that Sacred Scripture plainly shows — or rather preaches — that the Pope is Antichrist, in which point it is the most-ample and most-worthy-of-faith witness of the truth, I shall now add that even that primacy of which the Pope now so boasts himself, was more than once agitated and damned, both by Christ and by Paul. For at least four times the question was raised among the Apostles, and by Christ was utterly damned: Matt. 18, 20, 23; and likewise at the last supper, Luke 22.⁸² Christ never answered that he had already given the primacy to Peter: it would not have been necessary for them to squabble so many times over a thing already done and transacted — which he would certainly have said, if he had at Matt. 16 given the primacy to Peter, as the Papists will have it. Rather, he most sternly refuted and condemned every such Apostolic thought, as noxious and too carnal.⁸³
+
+Wherefore it is most manifest that Christ himself sharply, and not only once, taxed and condemned this furious ambition and tyranny of the Roman Antichrist. In the same manner Paul, in the epistles to the Corinthians and especially in the epistle to the Galatians, chapters one and two — when certain pseudo-apostles gloried in Peter as in their master, and in his primacy — not only prolixly denies that Peter has anything over him, but even boasts of having sharply rebuked Peter erring at Antioch, of having gained more than all the Apostles by his labours, and asserts that this had been given him by the dexterity of the divine promise, namely that he would preach the Gospel to the Gentiles, as Peter to the Jews: on the ground that Peter was called to preach principally to the Jewish nation, but he himself to the Gentiles.⁸⁴ For with so great vehemence acts Paul here, that beyond doubt the Holy Spirit himself will chiefly through him have laid low and resisted the tyranny or primacy of the Roman Antichrist.
+
+These things I have briefly wished now to say concerning the loci of the Sacred Letters which as if of set-purpose seem to have been directed against the Pope. For many other passages of the Bible are of the same kind — as has been shown at length in our Churches' writings and doctors' works, and is increasingly indicated in the growing volumes of writings and refutations.⁸⁵
+
+*[The Sacrae literae entry ends here at the top of `vl0011`; the next section, `Canones Apostolorum` (the Apostolic Canons — pseudo-apostolic canonical collection of 4th-c. Antiochene origin), opens immediately below and is staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -517,6 +559,54 @@ These things I have proffered concerning both grievous stumblings and imbecility
 **⁶¹** **1 Corinthians 1:12–13** — *Ego quidem sum Pauli, ego autem Apollo, ego vero Cephae, ego autem Christi. Divisus est Christus?* ("I am of Paul, I of Apollos, I of Cephas, I of Christ. Is Christ divided?"). Paul's reproof of factional boasting from apostolic names is Flacius's proof that even Peter's name cannot be a ground of ecclesial boasting.
 
 **⁶²** The closing argument gathers up the whole entry: since Antichrist claims Peter as ancestor and successor, then everything Peter did badly is likewise part of the papal inheritance. The seven-fold enumeration (illiterate + ambition + Matt-16 rebuke + refusing washing + drawing sword + three denials + Antioch stumble) is presented as prefiguring, in each Petrine failure, a corresponding papal failure. The rhetorical figure is *typology-in-reverse*: where medieval allegorists made Peter's positive acts figures of papal glory, Flacius makes Peter's negative acts figures of papal corruption.
+
+## From the Catalogue — Sacrae literae (vl0007–vl0011)
+
+**⁶³** **2 Thessalonians 2:3–4** — *ostendens se tanquam sit Deus… ita ut in templo Dei sedeat* ("showing himself as though he were God… so that he sits in the temple of God"). The single most-cited Reformation proof-text for the identification of the papacy with the *homo peccati*. Flacius here weaves the passage into a chain that also draws on Matt 24, 2 Pet 2, Dan 11, 1 Tim 4, and Apoc 13.
+
+**⁶⁴** The two Corinthian temple-passages take the *templum Dei* from a physical building to the Church herself. The exegetical move is decisive for the Reformation reading of 2 Thess 2: since God has no material temple after AD 70, Antichrist's throne must be *within the Church*, not outside her — which is what makes the papal-Antichrist identification structurally possible in Lutheran hermeneutics.
+
+**⁶⁵** **Matthew 24:5, 24** — *multi enim venient in nomine meo, dicentes: Ego sum Christus, et multos seducent…surgent enim pseudochristi et pseudoprophetae* ("many will come in my name saying 'I am Christ' and will lead many astray…false christs and false prophets will arise"). Flacius reads *in nomine meo venient* as the Christological warrant for the papal-Antichrist identification: the *Vicarius Christi* titulature is Antichrist's coming-in-Christ's-name.
+
+**⁶⁶** John 19:24, 28, 36 (*ut Scriptura impleretur*), Matt 26:54, 56 (*ut adimpleantur Scripturae Prophetarum*): Christ's principle of *sola Scriptura* argued from the passion narrative — Christ himself subordinated to Scripture in the very moment of his suffering.
+
+**⁶⁷** The papal *plenitudo potestatis* — the doctrine that the pope can *dispensare contra Apostolum* — is systematised in the medieval canonists (Gratian *Decretum*; Innocent IV, Hostiensis), reaching its most-extreme form in Boniface VIII's *Unam Sanctam* (1302). Flacius reads it as the practical evidence that the pope claims a power greater than Christ's own self-limitation to Scripture.
+
+**⁶⁸** 2 Thessalonians 2:6–8 — *et nunc quid detineat scitis, ut reveletur in suo tempore* ("and now you know what restrains him, that he might be revealed in his own time"). The *quod detinet* / *ὁ κατέχων* was interpreted by Tertullian, Ambrose, and Jerome as the Roman empire — whose fall in the West (5th c.) would release Antichrist. Flacius takes over this patristic exegesis and reads the timing precisely: as the western empire collapses (Odoacer 476), the papal claim rises (Leo I †461 asserts Roman primacy; Gelasius I †496 the *duo sunt* doctrine).
+
+**⁶⁹** **2 Peter 2** — the whole chapter on false teachers, which Flacius takes as Petrine self-prophecy of the papacy. The choice of *Peter's own second epistle* as evidence against the papal claim to Petrine succession is a further rhetorical inversion: Peter himself foresaw and denounced his self-styled successors.
+
+**⁷⁰** 2 Pet 2:1 — *Dominum qui emit eos negantes*. Flacius's exegesis: the papist doctrine of works-merits (indulgences, satisfactions, votive masses) is a functional denial of Christ's redemption *pretio* (1 Pet 1:18–19).
+
+**⁷¹** 2 Pet 2:3 — *et in avaritia fictis verbis de vobis negotiabuntur* ("and through greed they will traffic in you with feigned words"). Flacius applies to the medieval indulgence-trade and the miracle-reliquary economy that Luther attacked in the 95 Theses (1517, WA 1:233–238) and that Melanchthon systematised in *Apologia* XXI (BSELK 320–334).
+
+**⁷²** 2 Pet 2:10 — *dominationem contemnentes, audaces, sibi placentes, sectas non metuunt introducere, blasphemantes*.
+
+**⁷³** The papal claim to *depositio Principum* — the power to depose monarchs and to release subjects from oaths of fidelity — was formally exercised by **Gregory VII** against Henry IV (1076 canonical deposition), by **Innocent III** against John of England (1213), and by **Paul III** against Henry VIII (1538 bull *Ejus qui immobilis*). Flacius alludes to all such papal acts in the plural.
+
+**⁷⁴** 2 Pet 2:13, 17–18 — *ut nubes sine aqua…superba enim vanitatis loquentes* ("as clouds without water…speaking great swelling words of vanity"). *Sesquipedalia verba* is a Horatian coinage (*Ars Poetica* 97 — foot-and-a-half long words) applied by Flacius to curial-Latinate pomposity.
+
+**⁷⁵** **Daniel 11:37** — *et Deum patrum suorum non reputabit, et erit in concupiscentiis feminarum* (LXX and Vulgate); Flacius reads *et in concupiscentiis feminarum non erit* with the medieval Latin exegetes: "he will have no regard for the love of women (that is, of honourable marriage)." Paired with **1 Timothy 4:1–3** — *prohibentium nubere, abstinere a cibis quos Deus creavit* — the classic Pauline anti-Marcionite passage which Flacius applies to enforced clerical celibacy (Lateran I 1123, Lateran II 1139) and Lenten fasting-obligations.
+
+**⁷⁶** **Apocalypse 12:6, 13:5** — the 1,260 days of the woman in the wilderness and of the beast's authority. The day-for-a-year exegesis (from Num 14:34 and Ezek 4:6) yields 1,260 years, which — reckoned from the papal decrees of the mid-6th century — was projected in Reformation apocalyptic to terminate near the year 1810 (the reckoning becomes prominent in Bullinger's *Hundert Predigten über die Apokalypse*, 1557, and in the later Napoleonic-era apocalyptic).
+
+**⁷⁷** **Apoc 13:3** — *et vidi unum de capitibus suis quasi occisum in mortem: et plaga mortis eius curata est* ("and I saw one of his heads as if wounded to death: and the wound of his death was cured"). The wounded-and-healed head is read by Flacius (with the whole Wittenberg tradition) as the fallen-and-restored Roman empire: fallen in 476, restored by the papacy through the coronation of Charlemagne (800) and the *renovatio imperii*.
+
+**⁷⁸** **Apoc 17:5** — *Babylon magna, mater fornicationum et abominationum terrae*. That even Roman-Catholic commentators (from Bede through the Glossa Ordinaria to the 16th c.) accepted the identification of Apocalyptic Babylon with Rome — but read it of pagan Rome — is Flacius's polemical inversion-lever: since even the papists concede Babylon = Rome, only the referent is contested.
+
+**⁷⁹** Apoc 17:9 — *septem capita, septem montes sunt, super quos mulier sedet*. The *urbs septicollis* topos (Aventine, Palatine, Capitoline, Quirinal, Viminal, Esquiline, Caelian) was a topographical commonplace known to any humanist reader; Apoc 17:18 supplies the *quae habet regnum super reges terrae*.
+
+**⁸⁰** **Irenaeus, *Adversus Haereses* V.30.3** (PG 7:1207 = SC 153:378–380) — *Λατεῖνος nomen…significat autem eiusdem generationem, quorum nunc regnum tenet imperium* ("*Latinus* — this name however signifies that generation of theirs which now holds the empire"). Irenaeus offers this as *one of three* names whose numerical value in Greek yields 666 (Rev 13:18: Λ=30, α=1, τ=300, ε=5, ι=10, ν=50, ο=70, ς=200; sum = 666). Flacius makes what Irenaeus offered as a speculative possibility into a firm identification. The move is patristically over-reading, but rhetorically effective.
+
+**⁸¹** The three papal claims Flacius names — *ademit sacerdotium et regnum Christo per nova sacrificia, novos mediatores, et propugnatores suos patronos* — correspond to the *tria munera Christi* (priest, king, prophet) as displaced onto (1) the sacrifice of the mass, (2) the invocation of saints, and (3) the doctrine of tradition and the magisterium as parallel authorities to Scripture. Each was the subject of separate Reformation polemical treatises; Flacius here compresses.
+
+**⁸²** **Matthew 18:1–5** (*quis putas maior est in regno caelorum*), **Matthew 20:20–28** (Zebedee's-sons petition and *non ita erit inter vos*), **Matthew 23:8–12** (*vos autem nolite vocari Rabbi*), **Luke 22:24–27** (the last-supper dispute *quis eorum videretur esse maior* and *qui maior est in vobis fiat sicut minor*). Flacius's four-fold enumeration is exegetically precise: at each of these four evangelic moments, an apostolic dispute about primacy is settled by Christ *against* the very possibility of primacy — not by delegating it to Peter.
+
+**⁸³** The argument-from-silence: if Christ had at Matt 16:18 (*Tu es Petrus*) given Peter primacy, he would not — in the subsequent scenes at Matt 18, 20, 23 and Luke 22 — have needed to *repeatedly* refute the disciples' recurrent question about primacy. The recurrence of the question is evidence that no primacy had been given. The argument is Melanchthon's (Tractatus *De potestate et primatu papae*, 1537, §§7–13; BSELK 728–732).
+
+**⁸⁴** **Galatians 2:6–9** — the compact of Jerusalem (*qui autem videbantur aliquid esse…mihi enim qui videbantur esse aliquid, nihil contulerunt…dexteras dederunt mihi et Barnabae societatis; ut nos in gentes, ipsi autem in circumcisionem*). Paul's "they added nothing to me" and the parity of the Gentile-mission with the Jewish-mission is Flacius's decisive proof that no primacy was recognised in Peter by Paul, and thus that no primacy was given.
+
+**⁸⁵** *Ecclesiarum nostrarum scriptoribus* — the growing Wittenberg-and-Magdeburg polemical corpus: Luther *De captivitate Babylonica* (1520, WA 6:497–573), Melanchthon *Loci Communes* passim, Flacius's own *De Primatu Papae* (Magdeburg 1550) and *Confutatio* (Basel 1549), Amsdorf, Nicolai Gallus, Wigand — the Gnesio-Lutheran polemical library of the 1550s, of which the *Catalogus* itself is now a landmark.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

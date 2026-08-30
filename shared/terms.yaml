@@ -2738,9 +2738,95 @@ choragus:
     praesultor = chorus-master, precentor, lead-dancer) to mock the
     papal styling of Peter as coryphaeus of the Apostolic college.
 
+# ─── Tranche 2 body — Sacrae literae (vl0007–vl0011) ────────────────────
+
+vicarius_Christi:
+  english: Vicar of Christ
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0008"
+  note: >
+    The papal titulature Flacius reads as fulfilling Christ's warning
+    that Antichrist will come "in Christ's name" (Matt 24:5). The
+    title is medieval (developed under Innocent III, 1198–1216); the
+    earlier papal titulature was Vicarius Petri. Preserve untranslated
+    on first invocation.
+  see_also: [antichristus, homo_peccati]
+
+plenitudo_potestatis:
+  english: Fullness of power
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0008"
+  note: >
+    The doctrine that the pope can dispensare contra Apostolum et
+    Evangelistam — systematised in the medieval canonists (Gratian,
+    Innocent IV, Hostiensis) and reaching extreme form in Boniface
+    VIII's Unam Sanctam (1302, DH 870–875). For Flacius, the practical
+    evidence of Antichrist's usurpation.
+  see_also: [duo_gladii, primatus]
+
+homo_peccati:
+  english: Man of Sin
+  alt: ["ho anthropos tēs anomias"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0007"
+  note: >
+    2 Thess 2:3 — Paul's designation of the eschatological Antichrist
+    who sits in the temple of God. The single most-cited Reformation
+    proof-text for the papal-Antichrist identification (Smalcald
+    Articles II.iv, BSELK 462); Flacius's Sacrae literae builds the
+    identification from this text plus Matt 24, 2 Pet 2, Dan 11,
+    1 Tim 4, Apoc 13.
+  see_also: [antichristus, quod_detinet]
+
+quod_detinet:
+  english: That which restrains
+  alt: ["ὁ κατέχων"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0008"
+  note: >
+    2 Thess 2:6–8. Tertullian, Ambrose, and Jerome interpreted the
+    restraining power as the Roman empire, whose fall in the West
+    (5th c.) would release Antichrist. Flacius takes over this
+    patristic exegesis and reads the timing precisely: as the western
+    empire collapses (Odoacer 476), the papal claim rises (Leo I †461,
+    Gelasius I †496 duo sunt doctrine).
+
+latinus_sexcenti_sexagintasex:
+  english: LATINVS = 666
+  alt: ["numerus bestiae"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0010"
+  note: >
+    Irenaeus, Adversus Haereses V.30.3 (PG 7:1207 = SC 153:378–380)
+    offers Λατεῖνος as one of three names whose Greek numerical value
+    yields 666 (Λ=30, α=1, τ=300, ε=5, ι=10, ν=50, ο=70, ς=200; sum
+    = 666). Irenaeus proposes it as speculative; Flacius reads it as
+    a firm anti-papal identification. Rhetorically effective though
+    patristically over-reading.
+
+sesquipedalia_verba:
+  english: Sesquipedalian words
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0009"
+  note: >
+    Horace, Ars Poetica 97 — "foot-and-a-half long words." Flacius
+    applies the Horatian coinage to curial-Latinate pomposity,
+    joining it to 2 Pet 2:18 (superba enim vanitatis loquentes).
+
+depositio_principum:
+  english: Deposition of Princes
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sacrae literae at vl0009"
+  note: >
+    The papal claim to depose monarchs and to release subjects from
+    oaths of fidelity. Formally exercised by Gregory VII against
+    Henry IV (1076), Innocent III against John of England (1213),
+    Paul III against Henry VIII (1538 bull Ejus qui immobilis).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 OPENED (St Peter entry vl0001-vl0007). Total
-# Flacius lemmas: 10 seed + 8 (1a) + 6 (1b) + 6 (T2 Peter) = 30 entries.
+# FLACIUS 1556 — TRANCHE 2 CONTINUES (Peter vl0001-7 + Sacrae literae
+# vl0007-11). Total Flacius lemmas: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2
+# Peter) + 7 (T2 Sacrae literae) = 37 entries.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
