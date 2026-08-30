@@ -708,9 +708,71 @@ Hic sese speculentur in tam preclaro exemplo nostri temporis adulatores Paparum,
 
 ### *St Basil the Great* — vl0043
 
-**Basil the Great** claruit circa 370 years.²⁰³ Institutit initia aliqua monachatus, and hymns, which by little more into the whole church he brought in, so in trifles clear entered his opus operati degenerated on that occasion, that he thus new cults instituted, and from the common human life quasi-derogated, reprehended him from the Church of Neocaesarea, as it appears from his epistle 63.²⁰⁴ Likewise his proper bishop Eusebius, as from Basilii by Gregory Nazianzus recitata may be animadverted.²⁰⁵ Whence appears many still thus monastic novissima ista of piety genera to damn: although impossible said it be, quantum in a monastic our fuit purior sincerior, and from all superstitions mundior…
+**Basil the Great** claruit circa 370 years.²⁰³ Institutit initia aliqua monachatus, and hymns, which by little more into the whole church he brought in, so in trifles clear entered his opus operati degenerated on that occasion, that he thus new cults instituted, and from the common human life quasi-derogated, reprehended him from the Church of Neocaesarea, as it appears from his epistle 63.²⁰⁴ Likewise his proper bishop Eusebius, as from Basilii by Gregory Nazianzus recitata may be animadverted.²⁰⁵ Whence appears many still thus monastic novissima ista of piety genera to damn: although impossible said it be, quantum in a monastic our fuit purior sincerior, and from all superstitions mundior than our.
 
-*[The Basilius entry continues on `vl0044`; staged for the next Tranche 2 session.]*
+Queritur porrò admodum lugubriter Basilius de sui temporis episcopis, ad occidentales episcopos scribens: Dicit enim, veram ac piam doctrinam ex Ecclesia tolli, ac praefici Ecclesiis sceleratos et falsos doctores.²⁰⁶ In libro de spiritu S. dicit, Episcopos falsa dogmata seditiuoli, & caedibus defendere. Quae pestis, Deu bone, quàm in immensum ex tempore hactenus creuit! Et isti pigri uentres adhuc clamitant, nihil uicij esse in Ecclesia, nec eam reformatione indigere.²⁰⁷
+
+## Concilium Gangrense
+
+### *Council of Gangra* — vl0044
+
+**Council of Gangra** — which was celebrated before the Nicene, that is about the year 300 of Christ — severely damned superstitious men who, on account of *coniugium*, of eating flesh, or of a common garment or a common life, thought lightly of one another as though impure.²⁰⁸ Concerning clerical marriage he clearly writes: *"if any think it not licit for a married priest, on account of his marriage, to exercise the sacerdotal function, or should he abhor him on account of his marriage, let him be anathema."*²⁰⁹ Anathematised likewise those who esteem another garment more holy, or that more piety-earning who so judge — as now monks. Anathematised likewise those, who abstain from the cult of parents, as also monks. Thus appears that this holy synod condemned superstitions of monkishness then springing up, and defended clerical marriage in the first place with study. So-great-of-magni-such-things this council-fact is, that all almost in the decree is recited.²¹⁰ And now all these decrees are not catholic, but Lutheran and heretical — pseudocatholics ours have made them.
+
+## Paphnutius
+
+### *Bishop Paphnutius* — vl0045–vl0046
+
+Around the year 350 of Christ flourished **Paphnutius**, a man for constancy, miracles, and piety insignal.²¹¹ At the **Nicene Synod**, he contradicted those who wished to deprive bishops and priests of the use of coniugium — that is, to force nearly all to *castitas*: that they might restrain themselves from the use of their own wife. He put forward with the great whole council's assent that word of Paul: *Honorabiles esse nuptias et lectum incontaminatum*.²¹² He said, that if such a decree of prohibiting the use of *coniugium* were to be established, greatest occasion at once to disgraceful libidinising could be presented.
+
+Wonder must one who verily wonder well then, that so many all those holy Fathers, as Nicephorus testifies, in so pernicious a decree were prone and inclined to lapse: only Paphnutius the truth to have sustained.²¹³ Even more wonderful yet, that although the false opinion of this synod was rejected: and though from all in the greatest veneration they held him honoured before all others, not much later many other Western bishops (not without their spirit consenting) — Sodomite Romanists — anew in the pristine error, that priests be deprived the use of coniugium, relapsed.
+
+Hence let animate, Christian reader, first, that also of most-summit-of-vir turpiter to have erred, and often among the 300 Bishops scarce one or another sanely to have sensed. Then also, that at any point Satan attempted, through this Sodomite priestly-castity into the Church to introduce: but for a while pious doctors resisted, until at last human peccatism — which the truth of love did not have — the error prevailed.
+
+The same **Paphnutius**, when he had been a virgin, and even a solitary life led, and thought that he had by now much advanced: at length, he asked God in prayer, whom he to whom already very-many, in similar merit, might be? Answered to him first, that he was similar to some *musico*, who not far thence in a certain village was singing: this same him he judged like to. Secondly answered, likewise him a certain rich merchant.
+
+Whence he learned, and also to priests coming to him rightly taught: all honest ways of life to be pleasing to God, and in all mankind pious be made, likewise pleasing to God: nor to please monastic-life God more than the common of lay-life-not, nor profession or *votum* to men to commend, accept-be, effectively — as impious Thomas [Aquinas] wrote: the *cucullus* the man makes, as also his baptism.²¹⁴ So and Anthony at times responded, as accepted, self among all a certain Alexandrian cobbler equal be in piety. Atque hoc responsum illis sancti patres accepterunt tunc, cum et longe maius studium bonorum operum in monachis fuit, & monastica regula adhuc purior ac sincerior, magisque Christiana extitit.
+
+## Nicaenum concilium
+
+### *Council of Nicaea I* — vl0046–vl0049
+
+The **Nicene Synod** of 318 bishops congregata, decreed that it be licit for bishops and priests to have wives, and to procreate children.²¹⁵ It obtained that against him of every partie sententia, only against the pious Paphnutius' celibate and martyric.²¹⁶ Now indeed many, all Fathers to have been inclined, that priests be interdicted the use of their coniugium: only that stone rightly perpended, and them by acceptable-est-io persuaded to them: as sacred letters he cited, being marriage and *cubile immaculatum*: indicating even by such celibacy to be given greatest occasion could disgraceful and rule libidini. What reasons? To God so profoundly loving eligens animorum eorum inclinare (moti Fathers, praise-arun Paphnutij sententiam. Testatur id Nicephorus and Eusebius.)²¹⁷
+
+Wonder in truth by-perfect-quis mirari, cum ultra 300 sancti, & docti, vir ei synodo interfuerint, tam temerè plerosq[ue] in eum errorem inclinasse. But God's Wondrous eligens animunculum an tantam rem, indicates, so-only be his truth to Ecclesiae conservatorem, non homines: however-much learned, good or sapientes sint. Hinc ergo apparet, quam vere sit, multos etiam doctos, bonos, & pios homines in rebus divinis, sinceroque scripturae testimonio sequi.
+
+Mirum et illud supra modum est, quod cum hanc synodum omnes ecclesiae, etiam Latinae, atque adeo & ipsa Romana, in Maximis semper venerationae habuerint: tamen tam citò postea, nempe in annis 30, coeperint multi occidentales episcopi coniugium sacerdotum q[ue] et praesertim Romanenses (Deo scilicet iustè eos ibi esse Babylonica meretrice, omnium ne statu spiritualem, sed et carnalium libidinum matre) ut eam Apocalypsis nominet.²¹⁸
+
+Constituit quoq[ue] haec S. Synodus, ut singulari provinciarum Metropolitani potestatem habeant in suos episcopos, sacerdotes et ecclesias: Alexandrinus in Aegypto, Antiochenus in Syria, et Romanus in vicinis Italiae episcopos, et ita alij alibi: ut et singuli sacerdotes et episcopi suis Metropolitanis ita subiecti sint, ut ad alios Metropolitanos appellare non possunt, nisi ad synodos provinciales et universales.²¹⁹
+
+Nullum sane privilegium apparet tum Romanum metropolitanum prae Alexandrino, aut Antiocheno, aut aliis habuisse. Nulla eum ne syllaba quidem haec Synodus prae Alexandrino, Antiocheno aut aliis metropolitanis honorat.
+
+Etsi enim tres Romani papae, nempe Zozimus, Bonifacius, & Celestinus, decreta Nicaenae synodi nefarie falsauerant, eaq[ue] ita falsata ad sextam Carthaginensem synodum miserant, petentes sibi imperium in Africanas & aliarum extraru[m] prouinciarum ecclesias: tamen illa sacrosancta synodus, ut alibi prolixius dicam, illud crimen falsi manifestius animaduertit, & clarè eius sceleris Papam coram ipsis legatis, tum per litteras redarguit: ac euidenter ostendit, Nicaenam synodum statuisse, ut singularum prouinciae sacerdotes suis Episcopis subiecti sint, nec ad ullum in peregrinam prouinciam appellare possint, nisi ad synodos: sed ut causae in sua provincia, ubi orte sunt, finiantur.²²⁰ Hunc inquam esse verum ac genuinum sensum Nicaenae synodi, and clarè Carthaginensis synodus ostendit, ut Papa, quod contra garriret esse habebat. Quin et edita hoc tempore exemplaria consentiunt.
+
+Statuit etiam haec Synodus, ut episcopus à uicinis episcopis ordinaretur: sicut & apostolici canones etiam praecipiunt, de quib. superius dixi. Hinc sumpsit Papa tyrannis qualecunque initiolum. Licet enim et ante Papae sedulo affectauerint imperium regnum, tamen nihil eximium efficere poterant, nullaeq[ue] eorum eximia authoritas ante Nicaenam synodum fuit, ut etiam eorum Syluius, uel ipsius secundo, epistola 301 testatur, inquiens: *Ante Nicaenam synodum unusquisq[ue] sibi (id est) suo arbitrio uixit, et paruus respectus ad Romana ecclesiam habebatur.*²²¹ Haec sunt eius verba. Hinc disce pie lector, quod haec sacrosancta Synodus de coelibatu aut coniugio sacerdotum senserit, aut quis fuerit habitus Ecclesiae ante Nicaenam Synodum, & unde initium suae tyrannidis Romanus episcopus sumpserit.
+
+Sed Deus bone, quam prospere Papa Romanus hac qualicunq[ue]; sui regni confirmatiuncula usus est! Statim coepit crescere & intumescere, sedq[ue] uelle Deo aequare: donec tandem nostris temporibus, ueluti illa Aesopica arana, aut potius ipse Iudas Christi proditor, medius crepuit, omnemq[ue] dignitatem, gloriam, opes ac potentiam, quae turpiter in suum uentrem congesserat, magno cum foetore ac dedecore suo suspensus effudit.²²²
+
+## Constantinopolitana Synodus
+
+### *Council of Constantinople I* — vl0049–vl0050
+
+The **Constantinopolitan Synod** against Macedonium, denying the Holy Spirit's divinity, of 150 bishops circa 380 of Christ congregata, decreed that the *Constantinopolitanus archiepiscopus* have primacy among Oriental churches.²²³ Which non hence I recite, quod id ualdè probem: sed ut ostendam, Ecclesiam Christi tunc nondum sciuisse, & esse Christi mandatum, ut solus Romanus Papa omnibus ecclesijs per orbem terrarum imperet: nec fuisse tunc Papae tyrannidem ita firmatam, ut non putarent sancti patres fas esse, alicui alteri primatum seu regmen in alijs prouincijs dari. Ad cuius sententiae confirmationem et illud facit, quod tunc quidem huic decreto Papae non ausi sint contradicere.
+
+Sed postea tamen circiter post 80 annos in Chalcedonensi synodo 630 Episcoporum repeteretur, seu renouaretur hic idem canon, Deus bone, quas turbas, quos tumultus, propterea concitauit in Ecclesia Leo, eiusq[ue] successores, de quo postea dicam.²²⁴ Vnde itidem apparet, Romanos pontifices subinde sibi maiores spiritus sumpsisse.
+
+## Concilium Mileuitanum
+
+### *Council of Milevis* — vl0050
+
+The **Milevitan Council**, at which — besides many other most-learned and most-godly Bishops — even *S. Augustine* was present, decreed that no priest or bishop appeal beyond sea (that is, to the Roman Pope), that if he did, he would be reckoned excommunicated. Adding also by the decree of the sacrosanct Synod, this often even before by Synods to be established.²²⁵ Which is worthy of note.
+
+Decernit item eadem Synodus, ut Metropolitani synodos conuocent, nulla planè Papae mentione facta. At nunc, et iam multis seculis, ut impudentissime blatterarunt, sibi conuocandi concilia statutum ad se pertinere.²²⁶
+
+Praecipit iam haec Synodus, ne temerè precationes nouae recipiantur, nisi à toto concilio probatae fuerint. At postea cuilibet monacho licuit impietissimas preces Christianis hominum praescribere, & pro excommunicato sibi nouum cultum excogitare: quod Deo omnia quae essent, quae modò bono studio fierent.²²⁷
+
+Anathematizat quoq[ue] eos, qui negant sanctos ac iustos uiros peccata habere, propter quae quotidie remissionem peccatorum petere à Deo suppliciter…
+
+*[The Concilium Mileuitanum entry continues on `vl0051`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1221,6 +1283,60 @@ Hic sese speculentur in tam preclaro exemplo nostri temporis adulatores Paparum,
 **²⁰⁴** **Basil, *Ep.* 63 to Neocaesarea** — Basil defends his liturgical innovations at Caesarea against Neocaesarean traditionalist critique. Flacius reads Basil's opponents (the church of Neocaesarea) as pre-Reformation critics of liturgical novelty and ceremonial expansion.
 
 **²⁰⁵** **Gregory Nazianzus, *Oratio* 43** — Gregory's funeral oration for Basil, in which the tension between Basil and Bishop Eusebius of Caesarea (Basil's predecessor and later superior) is described. Flacius reads Eusebius's criticism as *ex Ecclesia* witness against monastic-liturgical novelty.
+
+**²⁰⁶** **Basil, *Ep.* 90–92 (to the Westerners)** — Basil's celebrated letters c. 371 to the Latin-Western episcopate, describing the East's ecclesiastical crisis after Arian dominance under Valens: *veram ac piam doctrinam ex Ecclesia tolli, ac praefici Ecclesiis sceleratos et falsos doctores*. Flacius reads Basil's 4th-c. lament as directly transferable to the 16th-c. Roman-clerical corruption.
+
+**²⁰⁷** **Basil, *De Spiritu Sancto* c. 30** (PG 32:213) — the celebrated *epilogus* describing bishops defending false dogmas *seditiuoli et caedibus* (with sedition and slaughter). Flacius's *pigri uentres adhuc clamitant* riffs on Titus 1:12 (*ventres pigri*) applied to Roman-clerical defenders of anti-reformist status quo.
+
+## From the Catalogue — Concilium Gangrense (vl0044)
+
+**²⁰⁸** **Council of Gangra** (Paphlagonia, c. 340/341, actually post-Nicene despite Flacius's "before Nicene ~300"), convoked against the Eustathian ascetics whose rigorism condemned marriage, meat, and normal life-in-society. Its 21 canons systematically anathematise ascetic-elitism. Preserved in Latin translation (Dionysius Exiguus) and incorporated into Gratian's *Decretum*.
+
+**²⁰⁹** **Gangra canon 4** — *Si quis discernit presbyterum coniugatum, tanquam occasione nuptiarum, quod offerre non debeat, et ab eius oblatione ideo abstinet, anathema sit* ("If any distinguishes a married priest as though he ought not offer on the occasion of his marriage, and abstains from his oblation for that reason, let him be anathema"). The pre-eminent Reformation-anti-celibacy conciliar proof.
+
+**²¹⁰** **Gangra canons 10, 12, 20, and 21** — anathematising respectively (10) those who judge fasting-monks holier than lay Christians, (12) those who wear special habit *tanquam ex ea iustitiam consequentes*, (20) those who separate from parents on ascetic pretext, (21) those who condemn assembling for divine services in ordinary places. Flacius reads the whole conciliar apparatus as a systematic 4th-c. rejection of what medieval Latin monasticism would eventually institutionalise.
+
+## From the Catalogue — Paphnutius (vl0045–vl0046)
+
+**²¹¹** **Bishop Paphnutius of the Upper Thebaid** (fl. c. 325), Egyptian confessor who had lost an eye in the Diocletianic persecution, attended the Council of Nicaea (325). Preserved by **Socrates, *HE* I.11** and **Sozomen, *HE* I.23**; Nicephorus Callistus later. Modern scholarship debates whether the Paphnutius-speech-against-celibacy story is historical (defended by Valesius, doubted by Baronius), but the story was universally accepted by 16th-c. Reformation polemicists.
+
+**²¹² Hebrews 13:4** — *honorabile connubium in omnibus et thorus immaculatus*.
+
+**²¹³** **Nicephorus Callistus** *HE* VIII.19 — the 14th-c. Byzantine church-historian who transmits the Paphnutius-at-Nicaea episode. Flacius follows Nicephorus and reads the near-vote for enforced celibacy as evidence that even 318 sanctified Fathers can err on a single question — only Paphnutius held the truth.
+
+**²¹⁴** **Aquinas, *Summa Theologiae* II-II.184 art. 5** on the *religiosus* state, and various scholastic manuals of religious profession claiming that monastic profession is a *secundum baptismum* — a second baptism. The claim *cucullus facit hominem* ("the cowl makes the man") is a scholastic-monastic parody-formula that Flacius attributes here to Aquinas. Actual Thomistic doctrine is subtler; Flacius here uses a popularised scholastic maxim as target.
+
+## From the Catalogue — Nicaenum concilium (vl0046–vl0049)
+
+**²¹⁵** **Council of Nicaea I** (325), the first ecumenical council, convoked by Constantine to settle the Arian crisis. 318 bishops (the traditional round-number; actual attendance c. 250–318). Flacius here focuses on the celibacy-vs-marriage question and the metropolitan-jurisdiction canons.
+
+**²¹⁶** The near-vote for enforced celibacy at Nicaea is preserved only in Socrates, Sozomen, and Nicephorus; the canons themselves do not contain such a provision, and Paphnutius's intervention is credited with preventing the imposition. Modern historiography treats the episode with skepticism.
+
+**²¹⁷** The account here (*Nicephorus et Eusebius*) merges Socrates/Sozomen (main sources) with a spurious Eusebian attribution. Flacius's memory conflates the historians.
+
+**²¹⁸** *Babylonica meretrice* — Apoc 17:5. Flacius reads the historical fact that within 30 years the Western churches (especially Rome) reverted to celibacy-mandates as apocalyptic proof: the Roman church is the *Whore of Babylon* — mother of all spiritual and carnal libidines.
+
+**²¹⁹** **Nicaea canons 4 and 6** — Canon 4 provides that bishops be ordained by neighbouring bishops of the province; Canon 6 recognises the traditional jurisdiction of Alexandria over Egypt/Libya/Pentapolis, of Antioch over its own region, and of Rome over its own suburbicarian region — but grants no super-jurisdiction to Rome over other patriarchates. The absence of Roman-universal-jurisdictional language in Canon 6 is Flacius's decisive point.
+
+**²²⁰** The **Zosimus/Boniface/Celestine forgery of Nicene canons at Carthage** — Popes Zosimus (417–418), Boniface I (418–422), and Celestine I (422–432) at various points sent to the Council of Carthage what they claimed were Nicene canons — actually canons of the Council of Sardica (343) that granted Roman appellate jurisdiction. The African bishops (led by Aurelius of Carthage and Augustine) detected the forgery by consulting authentic Nicene manuscripts held at Alexandria and Constantinople. The exposure is preserved in the *Codex Canonum Ecclesiae Africanae* and was a Reformation-era locus classicus for papal-forgery.
+
+**²²¹** **Aeneas Sylvius Piccolomini (Pius II), *Epistula 301*** (in the pre-papal *Epistolae familiares*, before his 1458 election) — *Ante Nicaenam synodum unusquisque sibi suo arbitrio vixit, et parvus respectus ad Romanam ecclesiam habebatur*. That the future Pope himself acknowledged pre-Nicene independence of the churches from Rome was one of the most-cited Reformation *ex ore proprio* proofs.
+
+**²²²** The closing Aesop-Judas metaphor — the papacy compared to Aesop's inflating frog (*rana*), or to Judas Iscariot, who *medius crepuit* (Acts 1:18) — is Flacius's characteristic satirical-apocalyptic mode, positioning the 16th-c. Reformation crisis as the papacy's providential deflation-and-bursting.
+
+## From the Catalogue — Constantinopolitana Synodus (vl0049–vl0050)
+
+**²²³** **Council of Constantinople I** (381), the second ecumenical council, called by Emperor Theodosius against Macedonianism (denial of the Holy Spirit's full divinity). 150 bishops. Canon 3 assigned the Bishop of Constantinople primacy of honour *after Rome*, *quia sit nova Roma* ("because it is New Rome") — an ecclesiological move that reflected the political reality of the imperial capital's transfer to the Bosphorus in 330.
+
+**²²⁴** **Chalcedon canon 28** (451) — the reaffirmation and expansion of Constantinople's primacy, granting the Bishop of Constantinople jurisdiction over Pontus, Asia, and Thrace, and equating Constantinople's status with Rome. **Pope Leo I** vigorously protested Canon 28 (see *Ep.* 104, 105, 106), refused to confirm it, and this dispute became one of the foundational East-West rifts leading to the eventual 1054 Schism. Flacius forward-refs to his own Leo entry later in the *Catalogus*.
+
+## From the Catalogue — Concilium Mileuitanum (vl0050)
+
+**²²⁵** **Milevis II** (416, at which Augustine was present) — condemned Pelagius and appealed for confirmation to Pope Innocent I. **Milevis II Canon 22** (per Gratian *Decretum* C. 2 q. 6 c. 34) forbade priests and bishops appealing beyond seas (*ultra mare*, i.e. to Rome) — an anti-Roman-appellate-jurisdiction canon at the very moment that the African churches were also cooperating with Rome against Pelagius. The double-track is characteristic of 5th-c. Latin-African ecclesiology.
+
+**²²⁶** *Metropolitani synodos convocent* — the Milevitan canon assumes metropolitan-conciliar convocation is the standard, with no Roman role. Flacius: *impudentissime blatterarunt* — "they most impudently prattled" — Roman claims to exclusive conciliar-convocation authority.
+
+**²²⁷** **Milevis II Canon 12** on liturgical uniformity — new prayers or hymns may not be received into the liturgy unless approved by a full council. Flacius reads this as anti-monastic-innovation legislation being subsequently violated by the medieval proliferation of votive Masses, private prayers, and monastic devotions.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

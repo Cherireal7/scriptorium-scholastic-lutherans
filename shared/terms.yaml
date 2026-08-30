@@ -3169,11 +3169,66 @@ hilarius_vs_leo_legend:
     historical error is characteristic of Catalogus at its scholarly
     best.
 
+# ─── Tranche 2i — Gangra through Milevis (vl0044–vl0050) ────────────────
+
+concilium_gangrense:
+  english: Council of Gangra
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Concilium Gangrense at vl0044"
+  note: >
+    Council of Gangra c. 340/341 — 21 canons anathematising ascetic-
+    elitism (Eustathian rigorism). Canon 4 anathematising discrimination
+    against married priests is pre-eminent Reformation-anti-celibacy
+    conciliar proof. Preserved via Dionysius Exiguus + Gratian.
+
+paphnutii_sententia:
+  english: The Paphnutius intervention at Nicaea
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Paphnutius at vl0045"
+  note: >
+    Bishop Paphnutius of Upper Thebaid at Nicaea I (325) preventing
+    enforced celibacy by invoking Heb 13:4 honorabile connubium.
+    Per Socrates HE I.11 + Sozomen HE I.23 + Nicephorus VIII.19.
+    Modern historicity debated but universally accepted by 16th-c
+    Reformation polemicists.
+
+nicaenum_concilium:
+  english: Council of Nicaea I (325)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Nicaenum concilium at vl0046"
+  note: >
+    First ecumenical council. Flacius emphasises Canons 4 (neighbouring-
+    bishops ordination) + 6 (Alexandria/Antioch/Rome regional
+    patriarchates with NO Roman universal-jurisdiction). Absence of
+    Roman-super-jurisdictional language in Canon 6 is decisive.
+
+zosimus_forgery:
+  english: The Zosimus/Boniface/Celestine Nicene-canon forgery
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Nicaenum concilium at vl0048"
+  note: >
+    Popes Zosimus (417-418), Boniface I (418-422), Celestine I (422-432)
+    sent to Council of Carthage what they claimed were Nicene canons —
+    actually Sardica 343 canons granting Roman appellate jurisdiction.
+    African bishops (Aurelius, Augustine) detected forgery via Alexandria
+    + Constantinople manuscripts. Reformation locus classicus for papal-
+    forgery.
+
+chalcedonensis_canon_28:
+  english: Chalcedon Canon 28
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Constantinopolitana Synodus at vl0050"
+  note: >
+    Chalcedon (451) Canon 28 reaffirmed Constantinople's primacy,
+    equating Constantinople status with Rome. Leo I vigorously
+    protested (Ep. 104-106) — foundational East-West rift leading
+    to 1054 Schism.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Basil opening (vl0001-vl0043, 43 body pp
-# + 32 paratexts ≈ 7.7% of 1094-pp body). Flacius lemma total: 10 seed +
+# FLACIUS 1556 — TRANCHE 2 through Milevis opening (vl0001-vl0050, 50 body
+# pp + 32 paratexts ≈ 9% of 1094-pp body). Flacius lemma total: 10 seed +
 # 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) +
-# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) = 67.
+# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) = 72.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
