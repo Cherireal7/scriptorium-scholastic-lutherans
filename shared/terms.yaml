@@ -2516,3 +2516,173 @@ schisma:
 # FLACIUS 1556 — KICK-OFF (10 seed entries; body-tranche entries to append
 # below this line as translation proceeds).
 # ═══════════════════════════════════════════════════════════════════════════
+
+
+# ─── ENCYCLOPEDIAS — Quenstedt, Exercitationes de theologia in genere ───
+#
+# KICK-OFF STATE. Only seed lemmas here — the core theological-encyclopedic
+# vocabulary that structures Pars Prima (Cap. I De Theologia in genere →
+# Cap. IV De Sacra Scriptura) of the Theologia Didactico-Polemica
+# (Wittenberg 1685). Real entries accrete tranche by tranche as the body
+# prose is written. Text-base is the 1685 editio princeps, operational
+# text-base the 1715 Leipzig collation held at Internet Archive.
+
+theologia:
+  english: Theology
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    Discipline-name. Quenstedt distinguishes theologia as a name for the
+    doctrine (materialiter) from theologia as a habit in the theologian
+    (formaliter), and further subdivides both under the archetypa /
+    ectypa distinction. Preserve Latin on the first formal definition
+    in Cap. I; use "theology" thereafter.
+  see_also: [theologia_archetypa, theologia_ectypa, habitus_practicus]
+
+theologia_archetypa:
+  english: Archetypal Theology
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    The theology God has of himself — the divine self-knowledge that
+    is the pattern (archetypos) of every creaturely theology. Not
+    communicable as such; the creaturely theologia ectypa participates
+    in it by revelation. Central to Quenstedt's distinction from
+    Roman-Catholic and Reformed accounts.
+  see_also: [theologia, theologia_ectypa]
+
+theologia_ectypa:
+  english: Ectypal Theology
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    Theology as impressed upon a creature — the copy or reflection
+    (ektypos) of the archetypa. Subdivided into theologia unionis
+    (proper to the human nature of Christ), theologia visionis or
+    comprehensorum (proper to the blessed in patria), and theologia
+    viatorum (proper to us on the way). All human theology in this
+    life is theologia viatorum.
+  see_also: [theologia_archetypa, theologia_viatorum, theologia_comprehensorum]
+
+theologia_viatorum:
+  english: Theology of the Pilgrims
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    The theology proper to those still on the way (in via) — imperfect,
+    mediated through Scripture, apprehended by faith rather than sight.
+    The subject of the whole discipline as Quenstedt treats it.
+    Contrast theologia comprehensorum.
+  see_also: [theologia_ectypa, theologia_comprehensorum]
+
+theologia_comprehensorum:
+  english: Theology of the Blessed
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    Theology proper to those who have arrived (comprehensores, those
+    who have laid hold — in patria). Perfect, immediate, by vision
+    (visio beatifica). The eschatological completion toward which the
+    theologia viatorum tends. Preserve Latin on first invocation.
+  see_also: [theologia_ectypa, theologia_viatorum]
+
+habitus_practicus:
+  english: Practical Habit
+  alt: ["habitus theologicus practicus"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    Quenstedt's answer to the medieval-scholastic dispute (Thomas vs.
+    the Scotists) on whether theology is speculative or practical: for
+    Quenstedt, following the Lutheran consensus, theology is an
+    eminently practical habit — its terminus is not knowledge for its
+    own sake but the salvation of the theologian. Preserve on formal
+    doctrinal use in Cap. I.
+  see_also: [theologia, habitus_mixtus]
+
+principium_theologiae:
+  english: Principle of Theology
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. iii"
+  note: >
+    That from which theology draws its content and its authority.
+    Subdivided by Quenstedt into principium essendi (God, from whom
+    the truth of theology proceeds) and principium cognoscendi (the
+    Scripture, by which we know the truth). The doctrine of Scripture
+    (Cap. IV) unfolds under this heading.
+  see_also: [principium_essendi_cognoscendi, sacra_scriptura]
+
+principium_essendi_cognoscendi:
+  english: Principle of Being / of Knowing
+  alt: ["principium essendi", "principium cognoscendi", "principium cognoscendi externum", "principium cognoscendi internum"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. iii"
+  note: >
+    The scholastic distinction Quenstedt turns into a Lutheran
+    bibliology: God is the principium essendi (the source of theology
+    itself); Scripture is the principium cognoscendi externum (the
+    external source of our knowing); the internal testimony of the
+    Spirit is the principium cognoscendi internum (that by which the
+    external Word convicts us). Against Rome (which adds tradition
+    and the magisterium to the external principle) and against the
+    Enthusiasts (who reduce the external to the internal).
+  see_also: [principium_theologiae, sacra_scriptura, analogia_fidei]
+
+articulus_fundamentalis:
+  english: Fundamental Article
+  alt: ["articulus non-fundamentalis", "articuli fundamentales"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i"
+  note: >
+    Articles of faith the denial of which destroys saving faith,
+    distinguished from non-fundamental articles the denial of which
+    is error but not damnation. Late-orthodox refinement of the
+    distinction (Calov, Quenstedt, Hollaz) against the Calixtine
+    reduction (see [[calixt-apparatus-1628]]) and against Roman
+    equivalent-authority-of-tradition claims. Preserve Latin on
+    formal doctrinal use.
+  see_also: [analogia_fidei]
+
+analogia_fidei:
+  english: Analogy of Faith
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. iv"
+  note: >
+    Hermeneutical principle: obscure passages of Scripture are
+    interpreted by the clear, and the clear passages are the sum of
+    the articuli fundamentales. Quenstedt's rule against private
+    exegesis and against Roman-magisterial substitution of the
+    Church's judgement for the analogy. Rooted in Rom. 12:6.
+  see_also: [articulus_fundamentalis, sacra_scriptura, auctoritas_scripturae]
+
+sacra_scriptura:
+  english: Sacred Scripture
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. iv"
+  note: >
+    The principium cognoscendi externum of theology. Cap. IV occupies
+    271 of Pars Prima's 347 pages precisely because on the Lutheran
+    account the doctrine of Scripture is the material of the whole
+    theologia in genere. Divisions treated: name, authors, canon,
+    autographs / apographs, languages, translations, vowel points
+    (Buxtorf-Cappellus), the four affections (auctoritas, perfectio,
+    perspicuitas, efficacia), Scripture and tradition, Scripture and
+    the Church, use, lay reading.
+  see_also: [principium_theologiae, principium_essendi_cognoscendi, auctoritas_scripturae, perfectio_scripturae, perspicuitas_scripturae, efficacia_scripturae]
+
+auctoritas_scripturae:
+  english: Authority of Scripture
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. iv"
+  note: >
+    First of the four affections (affectiones) of Scripture. Divided
+    into auctoritas causativa (that Scripture is what it is because
+    God is its author) and auctoritas normativa (that Scripture is
+    the norm and rule of faith and life). Central against Rome's
+    subordination of Scripture to the Church's judgement.
+  see_also: [sacra_scriptura, perfectio_scripturae, perspicuitas_scripturae, efficacia_scripturae]
+
+# ═══════════════════════════════════════════════════════════════════════════
+# QUENSTEDT — KICK-OFF (12 seed entries; body-tranche entries to append
+# below this line as translation proceeds).
+# ═══════════════════════════════════════════════════════════════════════════
