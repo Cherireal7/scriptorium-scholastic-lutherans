@@ -48,22 +48,22 @@ Working English edition · 2026
 
 # Contents
 
-*Provisional. The internal division of the 1556* editio princeps *is to be read off the scan and this table filled in accordingly; the tranches below reflect the operational release plan, not necessarily Flacius's own book-and-chapter scheme.*
+*Page numbers below refer to the English volume and are filled in as the volume assembles; source folio references (`vl####`) are given for the body divisions since the 1556 imprint is a single running chronological catalogue rather than a book-and-chapter structure.*
 
 |  | Page |
 |:---|---:|
 | Translator's Note | i |
-| **Paratexts** (from the 1556 imprint) | 1 |
+| **Paratexts** (from the 1556 Basel imprint) | 1 |
 | &nbsp;&nbsp;&nbsp;Title Page | 1 |
-| &nbsp;&nbsp;&nbsp;Dedication *(to be identified at source sighting)* | — |
-| &nbsp;&nbsp;&nbsp;Praefatio · Flacius to the Christian Reader | — |
-| **The Catalogue of Witnesses** | — |
-| &nbsp;&nbsp;&nbsp;Ancient witnesses (sub-apostolic through Gregory the Great) | — |
-| &nbsp;&nbsp;&nbsp;Early medieval witnesses (600–1000) | — |
-| &nbsp;&nbsp;&nbsp;High medieval witnesses (1000–1250) | — |
-| &nbsp;&nbsp;&nbsp;Dissenting movements (1150–1350) | — |
-| &nbsp;&nbsp;&nbsp;Late medieval to Reformation eve (1350–1500) | — |
-| Index | — |
+| &nbsp;&nbsp;&nbsp;Epistola Nuncupatoria — the Dedicatory Epistle | — |
+| &nbsp;&nbsp;&nbsp;Praefatio — Flacius to the Christian Reader | — |
+| &nbsp;&nbsp;&nbsp;Index rerum et personarum | — |
+| **The Catalogue of Witnesses** *(1,094 folio pages of body, single chronological run)* | — |
+| &nbsp;&nbsp;&nbsp;Ancient witnesses — from St Peter through Gregory the Great *(vl0001–ca. vl0100)* | — |
+| &nbsp;&nbsp;&nbsp;Early medieval witnesses — Bede through the Carolingians *(ca. vl0100–vl0300)* | — |
+| &nbsp;&nbsp;&nbsp;High medieval witnesses — Berengar and the Investiture controversy *(ca. vl0300–vl0550)* | — |
+| &nbsp;&nbsp;&nbsp;Dissenting movements — Waldensians, Cathars, Fraticelli *(ca. vl0550–vl0800)* | — |
+| &nbsp;&nbsp;&nbsp;Late medieval to Reformation eve — Wycliffe, Hus, Savonarola *(ca. vl0800–vl1094)* | — |
 | Notes | — |
 | Glossary of Terms | — |
 
@@ -79,9 +79,9 @@ Working English edition · 2026
 
 ## 1. The text base
 
-The English will render the **1556 Basel** *editio princeps* of Matthias Flacius Illyricus's *Catalogus testium veritatis*, printed *in officina Ioannis Oporini* (the Basel workshop of Johannes Oporinus). This is the first edition — the one composed and signed by Flacius himself, before the enlargements of the 1597 Frankfurt recension of Simon Goulart, before the 1666–67 Frankfurt two-volume expansion, and before the intervening reprints of 1562. The choice is deliberate: what is translated here is the Flacian text, not the tradition of the book.
+The English rendered here follows the **1556 Basel** *editio princeps* of Matthias Flacius Illyricus's *Catalogus testium veritatis*, printed *in officina Ioannis Oporini* (the Basel workshop of Johannes Oporinus). This is the first edition — the one composed and signed by Flacius himself, before the 1597 Geneva recension of Simon Goulart, before the 1666–67 Frankfurt two-volume expansion, and before the intervening reprint of 1562. The choice is deliberate: what is translated here is the Flacian text, not the tradition of the book.
 
-The scan and its OCR are to be sighted, verified, and registered in the working notes (`notes.md`) before any body prose is committed. The section immediately preceding the paratexts will be updated with the exact repository identifier (Internet Archive item, VD16 shelf-mark, or comparable) once fixed.
+The working text-base is the fully-digitised 1556 held by the **Bibliotheca Palatina — CAMENA project** at the University of Mannheim, whose facsimile images are addressable under the identifier `flacius1` (paratexts at `avl0001.jpg`–`avl0032.jpg`, body at `vl0001.jpg`–`vl1094.jpg`). Text-critical cross-checks are drawn from the 1562 Basel reprint digitised by the **Bayerische Staatsbibliothek Munich** (shelfmark `bsb11203912`) and from the 1556 copy held at the **Herzog August Bibliothek Wolfenbüttel** — the latter of particular interest because one HAB copy carries Flacius's own handwritten dedication to his patron Joachim von Alvensleben, a copy-specific witness to the book's early reception in the Saxon nobility.
 
 ## 2. What the author himself supplies
 
@@ -117,9 +117,11 @@ Body prose contains no modern scholarship, no editorial voice, no bracketed inse
 
 ## 5. Scope disclosure — the tranche structure
 
-At approximately 1,200 folio pages, the *Catalogus* is not a single volume's work. Its translation is planned in seven tranches, documented in the working notes: (0) this kick-off scaffold, (1) the paratexts, (2)–(6) the witnesses in five chronological blocks from the sub-apostolic era through the Reformation eve, (7) the index and final apparatus. The chronological blocking is an operational convenience; Flacius's own internal division of the 1556 imprint — whether by books, by centuries, or as a single running catalogue — will be read off the source and this Translator's Note updated accordingly, along with the Contents above.
+The 1556 *editio princeps* comprises **32 folio pages of front matter** (title page, *Epistola Nuncupatoria*, *Praefatio*, and *Index rerum et personarum*) followed by **1,094 folio pages of body**, in which Flacius arranges his roughly four hundred and forty-three witnesses as a **single running chronological catalogue** — not by books, not by centuries, but as one stream from the sub-apostolic era through the Reformation eve. Flacius opens the catalogue with **St Peter**: the apostle whom Rome claims as its first pope becomes, in his arrangement, the first witness *against* the papal claim, and the polemical weight of that positioning is preserved in the English.
 
-At this kick-off state, no body prose has yet been committed. What is complete is the scaffolding: the intended text base, the editorial conventions, and the release plan. Everything else remains to be built, one tranche at a time.
+Because the volume is one continuous run of witnesses at approximately 1,126 folio pages, its translation is planned in seven tranches, documented in the working notes: (1) the paratexts, (2)–(6) the body in five approximate chronological blocks — ancient witnesses (sub-apostolic through Gregory the Great), early medieval (Bede through the Carolingians), high medieval (Berengar and the Investiture controversy), the dissenting movements (Waldensians, Cathars, Fraticelli), and late medieval to the Reformation eve (Wycliffe, Hus, Savonarola) — and (7) the closing apparatus. Chronological page-boundaries are provisional and will be re-cut against the source at each tranche's kick-off.
+
+At this working-translation state, the scaffolding is complete: the text base is fixed, the editorial conventions are set, and the release plan is drawn against a fully-sighted source structure. Body prose accrues tranche by tranche.
 
 ## 6. Authorship
 
