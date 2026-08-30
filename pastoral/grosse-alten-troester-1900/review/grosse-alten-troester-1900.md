@@ -502,7 +502,82 @@ So died the great man of faith praying, as he had prayed while he lived.
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 2c closes here at Luther's death at Eisleben, February 1546. Luther's writings-catalogue proper — Große's bibliographic-and-critical overview of the then-current new editions of Luther's *Erbauungsschriften* (the *Kirchenpostille*, the *Hauspostille*, the *Tessaradekas* Trostbüchlein, the *Sieben Bußpsalmen* of 1517, the *Auslegung des Vaterunsers*, and Luther's collected *Gebete* — pp. 38–65) — continues in the next work-cycle.]*
+### §2. Luther and his Significance for Devotional Literature — Part Three: The Writings-Catalogue
+
+*Source: I b) §2, pp. 38–65. Große's bibliographic-and-critical survey of the new editions of Luther's devotional writings then in print (1900). Each edition-entry preserves the imprint, collation, price, and Große's evaluative comment; where the OCR is broken beyond safe reconstruction, the passage is marked and reserved for JP2 sighting.*
+
+*Let us now give an overview of the newly-issued devotional writings of Luther then in print.* To this some remarks are to be sent ahead. Luther's prayers and edifying selections from his writings were, already in his own age and through all the centuries thereafter, gathered and worked over. So something also of the age of the particular editors will need again to be named. In the description of Luther's writings, completeness has not been striven for. What his sermons concern: there are here editions of the more scholarly, and the more edifying, kinds; only in so far as they are meant to serve the congregation directly are they mentioned here. His Scripture-exposition, further, so uniquely binds together the theological-scholarly and the practically-edifying side, that the question presses which [face of it belongs in the *Wegweiser* and which not].⁵²
+
+## A. Luther's Own Devotional Writings, by Category
+
+### The *Betbüchlein* and the Ways to Right Prayer
+
+The *Betbüchlein* of 1522 and its enlargements have already been named above.⁵³ Luther enlarged the *Exposition of the Ten Commandments* by "an Exposition of the Holy Lord's Prayer, forward and backward" and by the further exposition of the Ave Maria. He set out his own method of prayer in the beautiful writing "**How one shall pray, for Master Peter the Barber**" (1534, pp. 126 ff.).⁵⁴ Here he gives the immediately-useful counsels for a right prayer-life: how out of the Ten Commandments one may — through meditation (*Betrachtung*) — arise, and how out of the petitions and words of Scripture and of the faith one may pass on to the prayer, in that one makes of each of these one thing — a doctrine, a thanksgiving, a confession, a prayer.
+
+Also of high worth stands beside these the significant Trostschrift **"Tessaradekas Consolatoria — a Little Book of Fourteen Comforting Means for the Weary and Heavy-Laden"** of the year 1520.⁵⁵ Instead of the "Fourteen Nothelfer" (the fourteen intercessory saints then popularly invoked), Luther will set before the sick person a great painting in two panels, each with seven pictures. On the first panel he shows the evils:
+
+1. the evil in us (sin and hell);
+2. the future evil, or the evil before us (death);
+3. the evil of the past, or the evil behind us (which points to God's mercy);
+4. the evil from below, or the evil under us (hell);
+5. the evil at our left, or the evil to our left hand (enemies);
+6. the right evil, or the evil to our right hand (the evils of our friends);
+7. the evil on high, or the evil above us (which points to Christ the Crucified).
+
+On the second panel he shows the goods, under the like seven headings.⁵⁶
+
+Of consolation-writings there is further to be found in Vol. VI [of the received editions]:
+
+- p. 61 — **"A Sermon on Preparation for Dying"** — to set the holy Sacrament of the Altar, and Christ himself, over against the Anfechtung.⁵⁷
+- p. 81 — **"Whether one may flee before dying"** (1527).
+- p. 107 — **"Fair chosen sayings of the Holy Scripture, wherewith Luther has comforted himself in great Anfechtungen"** (1530).⁵⁸
+- p. 115 — **"Consolation-writing for a person in high Anfechtungen."**
+
+## B. The New Editions Currently in Print for the Congregation
+
+### 1. Postillen — the Sermon-collections for the Church Year
+
+The following editions make Luther's sermons accessible for the congregation, and are especially to be pointed to for the pulpit:
+
+1. **Dr. Martin Luthers Hauspostille** — 6 sheets: 2.80 M paper, 3.40 M half-cloth, 4 M half-leather, 4.80 M in full leather. Issued by the *Hauptverein für christliche Erbauungsschriften* in Berlin. Large quarto, 54 sheets, 49 lines, 2 columns, medium-large type, with Luther's portrait. Berlin, 1883. The collection contains, besides the complete series of Gospel-sermons, further passion-sermons, sermons for the apostle-days, one wedding-sermon and two funeral-sermons, together with Luther's Preface (pp. 1–2) and Sermon 542: How the people are to be exhorted to the general prayer at the close of the sermon. *(Note: on the edition of Luther's Hauspostille, both after Dietrich and after Rörer, see the note on p. 41.)*
+
+2. **Dr. Martin Luthers Kirchenpostille** — the Epistle-sermons — "Sermons on the Epistles for all Sundays and the chief feast-days of the whole year, for religious edification in families of all estates." *Verlag christlicher Schriften, C. Stottmeister & Co., Braunschweig.* Folio with very large type, 909 pp. Reprint of the original edition of 1562, also with Luther's theses and illustrations. Complete bound, 13 M; with gilt edge, 17 M.
+
+3. **Dr. Martin Luthers Evangelienpredigten** — Gospel-sermons "from the Hauspostille and Kirchenpostille, for all Sundays and feast-days of the church-year," selected by Pfarrer Gustav Schloßer. *A gift for the 400th jubilee of the birth of Luther* [i.e. 1883]. Fourth unchanged edition, gr. 8°, 651 pp, with Luther's portrait after Cranach. Bound 2 M, elegantly bound 3 and 4 M. *Calwer Vereinsbuchhandlung.* The sermons — as the brief 1883 preface says — are, through the language adapted to our modern High German, made easier to be understood. There are on 649 pp 65 sermons ordered after the church-year, in fair broad type (40 lines to the page). Each sermon carries in the superscription or in the note the indication of its source: whether taken from the Hauspostille or Kirchenpostille, whether abridged, or how — as VII — worked out from two sermons of 1535 and 1531, and how VIII from the Haus- and Kirchenpostille, and the like (XV, XIX).
+
+### 2. Vorreden zur heiligen Schrift — Luther's Prefaces to the Bible
+
+**Dr. Martin Luthers Vorreden zur heiligen Schrift** — "For the Reformation-Jubilee-Year 1883, newly issued at the arrangement of the *Hauptverein für christliche Erbauungsschriften* by G. Kleinert." *Berlin, 1883.* VII + 185 pp, gr. 8°, [ca.] lines to the page.⁵⁹ The volume opens with a Preface by G. Kleinert giving fuller particulars on the origin of the prefaces and of Luther's Bible-rendering as a whole. The book carries, besides the well-known prefaces, Luther's summary-inscriptions to the whole Bible, notice of the German-rendering of the Book of Job, three prefaces to the Psalter, one after-note, one short piece, two to the Ezekiel, etc., also *"Grund und Ursach der Übersetzung Röm. 3, 28"* and Luther's last written note, put down in Latin two days before his death, in a German translation — thus offering in completeness and exactness (on the ground of newer scholarship) advantages over Edition No. 1, though that latter has ahead of it the Summaries on the Psalms.⁶⁰
+
+### 3. Auslegung der heiligen Schrift — The Scripture-Expositions
+
+**Luther's expositions of Holy Scripture** are set before us by the works of **Eberle**, which have appeared in Stuttgart at the *Verlag der Evangelischen Gesellschaft:*
+
+- **Luther, Dr. Martin, Psalmen-Auslegung und die Salomonischen Schriften** — Song of Songs, Ecclesiastes, Proverbs, and Job. *A commentary on the poetical books of the Old Testament.* Worked out of his writings by Chr. G. Eberle. Gr. 8°, 106 sheets, 43 lines to the page, medium-large type. Paper 9 M, in two half-leather volumes 12 M.
+- **Luther, Dr. Martin, Evangelien-Auslegung** — worked out of his homiletical and exegetical works by Chr. G. Eberle. Gr. 8°, 86 sheets, 2nd ed. Previous price 8 M, reduced price 4 M, bound in half-leather 5.60 M. Type as above.
+- **Luther, Dr. Martin, Epistel-Auslegung** — a commentary on the Acts of the Apostles, the apostolic epistles, and — [both from the larger, as also from the smaller commentary on the ground of the careful working-out of Chr. G. Eberle in *Luthers Epistel-Auslegung*, and yet somewhat more searchingly than that.]⁶¹ Whoever wishes to read the larger commentary in German is referred to the reprint of the Walch edition, arranged 1856 by Gustav Schlawitz in Berlin. In extent this "Ausführliche Erklärung" offers nearly the double of what we give. But there are found in it so many repetitions, and so much material become for us indifferent, that the readers will surely thank us for this abridgement.⁶² pp. 365–808 give a fair alphabetical subject-register.
+
+**5. Whoever, as pastor or as interested layman**, will come to know Luther's practically-and-scholarly-significant Scripture-exposition in coherence, is pointed to:
+
+**Luthers Erklärung der heiligen Schrift, zusammengestellt von P. E. Müller.** Gr. 8°. Each part 1.50 M; complete 12 M; bound 14 M. 1347 pp. *Verlag von C. Bertelsmann, Gütersloh.*
+
+- Part 1: the Gospel of Matthew.
+- Part 2: the Gospels of Mark and Luke.
+- Part 3: the Gospel of John.
+- Part 4: the Acts of the Apostles and the Epistle to the Romans.
+- Part 5: the two Epistles to the Corinthians.
+- Part 6: the shorter Epistles of Paul to the Galatians, Ephesians, Philippians, Colossians, and Thessalonians.
+- Part 7: the Pastoral Epistles and the Epistles of Peter.
+- Part 8: the three Epistles of John, the Epistle to the Hebrews, the Epistles of James and Jude, and the Revelation of John.
+- Part 9: Addenda and source-references. Pp. 1265–1347.
+
+After the appended prefaces to the books there follows, verse by verse, so far as reference-passages are found in Luther, the exposition in a language adapted to our understanding. Where Luther, as at the Epistle to the Galatians, has himself produced extensive commentaries, one finds here only a short excerpt. In the Preface to Part 1 the editor speaks of the [significance] of Luther's exposition, and duly honours Chr. G. Eberle's collections. In contrast with Eberle, he now gives the exposition more shortly, throughout in the order of the Scripture-text, discarding matter that offers no new thought but only elaboration (or repetition) of a kernel-thought. He wishes with his labour [to serve the student]⁶³ — [and pastor and layman.]
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 2d closes here at Große's pointer to Müller's *Erklärung der heiligen Schrift* (Bertelsmann Gütersloh). Still to come in the Luther writings-catalogue: the Catechism editions (pp. 46–48), the *Wahres Christentum nach Luther* of Statius, the Delius edition of Luther's Trostschriften (Gotha, Perthes 1884), Luther's writings on the House- and Marriage-estate, on the estates and callings, and Große's closing evaluation of Luther in the Reformation Century (pp. 48–65). Continues in the next work-cycle.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -619,6 +694,32 @@ So died the great man of faith praying, as he had prayed while he lived.
 ⁵⁰ **The Eisleben journey and death, January–February 1546** — Luther travelled to Eisleben at the end of January 1546 to mediate between the sons of Count Albrecht IV of Mansfeld over the family mining and inheritance disputes. He preached four sermons there (WA 51:187–194), completed the mediation on 17 February, and died the following morning, 18 February 1546. The deathbed narrative and the last confession-formula ("Reverende pater...") are recorded in the eye-witness accounts of Justus Jonas, Michael Coelius, and Ambrosius Rudtfeld, and printed in the *Historia von des ehrwürdigen Herrn D. Martini Lutheri seligem Abschied* (Wittenberg, 1546). Text of the accounts at WA 54:487–496.
 
 ⁵¹ Luther's dying confession — a free-form prayer in Luther's own voice, transcribed from his lips by Justus Jonas or Coelius on the night of 17–18 February 1546. Preserved in the death-day *Historia* of 1546; text at WA 54:487–496; standard modern ET in LW 55 (letters) and in Roland Bainton's *Here I Stand* (New York, 1950), ch. 22. Große quotes it here as one of the founding Trostschriften of Lutheran devotional tradition: it becomes, in the following two centuries of Lutheran devotional-writing, the model of the *evangelischer Sterbegebet* — the evangelical prayer at the point of death.
+
+## From Tranche 2 · The Reformation Century — Luther (Part Three, Writings-Catalogue)
+
+⁵² The final sentence of Große's introductory paragraph runs out in the OCR to broken text; the sense — that Luther's Scripture-exposition binds theological-scholarly and edifying sides so uniquely that the *Wegweiser*'s inclusion-criterion has itself to be adjusted — is stated in the paragraphs that follow. Reconstructed in translation as *[which face of it belongs in the Wegweiser and which not]*.
+
+⁵³ The *Betbüchlein* (Wittenberg, 1522) — Luther's little prayer-book for the laity, composed as an evangelical replacement for the medieval *Hortulus animae* and *Salus animae* prayer-books. Text at WA 10 II:331–501.
+
+⁵⁴ **Wie man beten soll, für Meister Peter den Balbierer** (1535 [not 1534]) — Luther's tract "How one should pray, for Master Peter the Barber" — his personal barber Peter Beskendorf, who had asked how to pray. Text at WA 38:358–375; ET at LW 43:187–211 as "A Simple Way to Pray." A charter-document of the Lutheran devotional method: work outward from the Ten Commandments, the Creed, and the Lord's Prayer, treating each item under the four heads of *doctrine, thanksgiving, confession, prayer.* Große cites page-count 126 ff. of an edition not further specified — probably a nineteenth-century Erbauungs-collection.
+
+⁵⁵ **Tessaradekas Consolatoria** — the fourteen-consolations tract of 1520 already treated at n. 30 above. Große here gives the two-panel iconographic schema by which Luther replaces the medieval Fourteen Nothelfer cult with a scriptural anthropology of the seven evils and seven goods. The schema was intended as an actual painted diptych for the sick-room, though how many such were produced is unknown; the text at WA 6:99–134 preserves the schema in prose.
+
+⁵⁶ The parallelism of the two panels (seven evils, seven goods) is Luther's own — a Lutheran retort to the medieval cult of the fourteen intercessory saints. The reader is not to invoke the saints against distress, but to consider the *Gnadenschau* — the vision of the graces given in Christ, categorised by their coming-to-us.
+
+⁵⁷ **Ein Sermon von der Bereitung zum Sterben** (1519) — the "Sermon on Preparation for Dying," Luther's early charter-document of Lutheran ars moriendi. Text at WA 2:685–697; ET at LW 42:97–115. The counter-move to the medieval *ars moriendi* tradition (Gerson, etc.): the dying man is to look not at his sins but at the Sacrament, at Baptism, and at Christ.
+
+⁵⁸ **Schöne auserlesene Sprüche der heiligen Schrift, damit sich Luther in großen Anfechtungen getröstet hat** (1530) — a collection of Scripture-consolations that Luther used against his own Anfechtungen, made known through his correspondence and included in later collections; text at WA 30 II:697–710.
+
+⁵⁹ The OCR omits the line-count for the Kleinert edition of Luther's Prefaces. Left as *[ca.] lines to the page* pending JP2 sighting.
+
+⁶⁰ **Große's "Edition No. 1"** refers to the Hauspostille edition given as the head of the postille-catalogue above; the comparison there is between the two available editions of Luther's Bible-prefaces on the 1883 Reformation-Jubilee market — the *Hauptverein* Hauspostille (with Psalter-Summaries added) and Kleinert's *Vorreden zur heiligen Schrift* (with fuller apparatus).
+
+⁶¹ The Epistel-Auslegung entry in the OCR breaks mid-sentence; the bracketed reconstruction is drawn from the sense of the surrounding paragraphs. To be verified at JP2 sighting.
+
+⁶² **Johann Georg Walch** (1693–1775), Jena theologian, editor of the great *Sämtliche Schriften Lutheri* in 24 vols. (Halle, 1739–1753) — the standard eighteenth-century collected edition of Luther's German writings. Gustav Schlawitz's 1856 Berlin reprint is a nineteenth-century re-issue of Walch's German-language corpus, which Große names as the fuller source-text underlying Eberle's excerpts.
+
+⁶³ Große's Bertelsmann/Müller-entry closes on the address to student, pastor, and layman; the OCR breaks at "dem Studenten,". Reconstructed in translation as *[to serve the student and pastor and layman]* pending JP2 sighting.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
