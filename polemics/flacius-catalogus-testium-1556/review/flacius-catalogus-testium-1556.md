@@ -544,7 +544,61 @@ And a little after: *"The altar however is truly holy, just, from him, and from 
 
 *'Now concerning those who abhor matrimony, the blessed Paul says: In the last days some shall depart from the faith, giving heed to spirits of error, and doctrines of demons, forbidding to marry, and to abstain from foods.'¹³⁸ And again he says: 'Let no one deceive you with humility and religion and parsimony of the body.' The same likewise says: 'To the wife is bound, do not seek freedom from her; freed from wife, do not seek a wife.'¹³⁹ And again: 'Every man should have his own wife, that Satan may not tempt you.'¹⁴⁰ What of the fact that even our old just fathers took procreation with grateful action to be a companion? Some indeed took children, though continuously they had been in matrimony. And iterum a little: But do they reprove the Apostles? For Peter and Philip procreated sons. Philip moreover, his own daughters, gave to husbands. Paul certainly did not fear in a certain epistle to call his wife, whom he was not carrying with him — because there was no great need of the ministry.*¹⁴¹ *He says however, in a certain epistle: 'Do we not have power to lead about a sister-woman, as also the other Apostles?' — But he to be sure, as he was consenting to the ministry, did not carry her, so as by more his attention to preaching to be given, and not on account of wives, but in a marketplace…'"*
 
-*[The Clemens Alexandrinus entry ends on the top of `vl0027`; next entry* **Methodius Graecus** *opens immediately below.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Methodius Graecus
+
+### *Methodius of Tyre* — vl0027
+
+**Methodius the Greek** — for several bore this name — Bishop of Tyre, flourished about the year 255 of the Lord.¹⁴² He wrote, besides many other things, also certain prophecies of the last times, which **Sebastian Brant** at Basel in the year 1498 caused to be printed.¹⁴³ Among other things he predicts that in the last times priests will not only live shamefully and criminally, but will even *spontaneously and uncompelled* corrupt religion itself — and on that account will be divinely punished. He predicts, among other things, that monks and clerics will burn sacred things, and cast them to swine; he paints bishops as *straining at a gnat and swallowing a camel*.¹⁴⁴ By which he wished to indicate the perversity of a zeal focused on the observance of rites and their little traditions, while meanwhile neglecting the doctrine itself and the salvation of souls. He predicts also that God, at some point, was to restore and to purge the true religion. Whence we understand this present-day restoration of Christian piety divinely done.
+
+## Iustinus Martyr
+
+### *St Justin Martyr* — vl0028
+
+**Justin Martyr** flourished about the year 150 after the Lord's birth.¹⁴⁵ In him, together with many other outstanding vestiges of antiquity, an abhorrence from papal abuses and superstitions is contained: but above all, in his description of the liturgy — or of the Lord's sacrifice — he so depicts it, that he wholly excludes all what-was-called-the-Mass.¹⁴⁶ See yourself, Christian reader, the passage at the end of his greater *Apology*. I have therefore not written it out here, because I intend to publish him separately.
+
+## Ecclesia Ravennas, Aquileiensis, & Mediolanensis
+
+### *The Churches of Ravenna, Aquileia, and Milan* — vl0028–vl0029
+
+**The Ravennate Church, the Aquileian, and the Milanese**, and their doctors, for about 200 years resisted the primacy — or rather the tyranny — of the Pope, and after 700 fought long against him.¹⁴⁷ But at last, about the year 700 (as Daniel testifies), when Antichrist's nefarious attempt began at some point to succeed, they were oppressed by the Pope, and utterly subjected to him. Never before were they under his yoke. Whence it easily appears that he holds primacy not by divine right, but that he seized it by his own fraud, ambition, and violence, with many churches contradicting and groaning.
+
+Certain historians, like **Platina** and similar flatterers of the Popes, say that these Churches had been subject to Rome before, but then wished to withdraw obedience.¹⁴⁸ But you may know the contrary both from other sources and from the epistle of **Ad Ursum Ducem Venetum** written, which is preserved in Sabellicus and Bonaventura.¹⁴⁹ In which the Pope clearly confesses that the Ravennate Church is the head of many churches.
+
+## Ecclesiae Sclavonicae
+
+### *The Slavic Churches* — vl0029
+
+To these public testimonies of the churches let this be added: that the **Slavic churches** even today, in their public rites, use the vernacular language.¹⁵⁰ Whence it is collected, that Antichrist and his lackeys — who wished to compel all to the Latin tongue — do not act rightly. It is collected also, from lessons and canticles read in Church, that they were not held on the ground that they thought that worship worked *ex opere operato*,¹⁵¹ but that by an intelligible language the Church might be edified.
+
+**Aeneas Sylvius** reports that much was disputed at Rome about the year 900, on the Slavonian matter to be brought to Rome. At last, from heaven a voice was heard: *"Omnis spiritus laudet Dominum, et omnis lingua confiteatur ei"* — "Let every spirit praise the Lord, and let every tongue confess him."¹⁵² Wherefore he ceased. Since the Popes disputed the Roman line, may the Papists believe — Aeneas Sylvius (afterwards Pope Pius II) is he who tells this — that such a voice from heaven came down: why then do they now so furiously damn, as heretical and nefarious, the use of vernaculars in divine things, in German and other churches?
+
+## Anglica ecclesia
+
+### *The English Church* — vl0029–vl0030
+
+**Bale**, in his own *Catalogus*, affirms, from certain writers in England, that before that Augustine whom Gregory the First Pope sent, English Christianity was much purer, and that by all his Papistic ceremonies-introducing he changed it into a worse condition.¹⁵³ Of which there is no doubt. For Gregory in the whole occidental Christian church made piety much worse by his new ordinances and deformations. But that also is memorable, that the same author says: many resisted him in Britain, especially doctors. And therefore Augustinus, wishing in the Romanists' manner to promote his religion, was so incited by some tyrants to wickedness, that many even in exile his impiety-resisting doctors were once slaughtered.¹⁵⁴ Whence — after such an atrocious slaughter of holy martyrs — nonetheless for a long time it was resisted, that they retained the Roman rites and superstitions of Augustinus, as the same author affirms preached. The marriage of priests, nonetheless, up to the year of the Lord 1100 — on the testimony of Bale, Polydore, and other English writers of matters — was retained. About which time, then, also from the German churches was taken away.
+
+## Apollonius
+
+### *Apollonius* — vl0030
+
+**Apollonius**, an ecclesiastical writer, greatly praised by St Jerome, lived around the year 110.¹⁵⁵ He writes (as Eusebius testifies in the *Ecclesiastical History* book 5, chapter 16) against **Montanus**, that he is a perverse spirit, since by laws of fasting he restricted the Church.¹⁵⁶ Whence it appears, that in the primitive Church fasting and other such exercises were free, tied to no fixed circumstances: and the pious then thought it not to be from a good spirit, of fastings, nor of a Papal spirit; and so, in Montanists too Antichrist they condemned. Although in Montanists it may also rightly be said, that the spiritual sanctity of celibacy was from the primitive Church condemned.
+
+## Attalus
+
+### *Attalus, Martyr* — vl0030–vl0031
+
+**Attalus**, noble martyr of Christ, suffered about the year 180 of the Lord.¹⁵⁷ Of him such a story in book 5 of the *Ecclesiastical History* at the word is read. Reported is also in the same scripture another narrative, which for knowledge's sake I here insert.
+
+There was a certain **Alcibiades** among the number of those who for Christ's sake were kept in chains, and led a life sufficiently harsh and austere, so that he was not willing to accept food, but used only salt and bread with water. When he wished to obtain even before his first confession — which he made in the amphitheatre — this rigour of life, it was revealed [to Attalus]: that Alcibiades did not rightly, in not using the creatures of God himself, and in leaving a form of scandal to others. When these things were made known, Alcibiades began to receive all things with the giving of thanks. For the same Spirit that revealed to Attalus, that he might teach, also persuaded Alcibiades to follow.¹⁵⁸
+
+Whence it clearly appears that from the beginning pious men — indeed the Holy Spirit himself — sedulously resisted the endeavours of superstitious men of ceremonies, who placed religion and piety in the use or abstinence of foods and in fasts. But at last human blindness, of Antichrist, superstition and hypocrisy — the *doctrines of demons* about abstinence from foods — obtruded themselves on the Church of God, whether it would or would not. Wickedly then do the Papists in this time, who all these abuses, superstitions, and impieties of the Church of God, to the Holy Spirit — against their own conscience — attribute. If yet however some little monk who lives on modest bread, salt and water, they have — they call him already spiritual…
+
+*[The Attalus entry continues into the top of `vl0032`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -889,6 +943,54 @@ And a little after: *"The altar however is truly holy, just, from him, and from 
 **¹⁴⁰** **1 Corinthians 7:2, 5** — *unusquisque suam uxorem habeat, ne temptet vos Satanas*.
 
 **¹⁴¹** **The Apostles' marriages** — Clement's argument (following the earlier Alexandrian tradition) that Peter, Philip, and Paul were married. The historical warrant: Matt 8:14 (Peter's mother-in-law) implies Peter had a wife; Acts 21:9 mentions Philip's four unmarried daughters (Philip being one of the seven deacons of Acts 6, whom Clement here confuses with Philip the Apostle — a common patristic slippage); Paul's own status is debated (1 Cor 9:5 rhetorical question about leading about a *sister-wife* is compatible with either married or unmarried). The Clementine passage was a Reformation locus for defending clerical marriage.
+
+## From the Catalogue — Methodius Graecus (vl0027)
+
+**¹⁴²** Flacius conflates two distinct Methodii. **Methodius of Olympus/Patara** (†c. 311) is the actual patristic figure; Flacius's dating "c. 255" applies to him. **Pseudo-Methodius of Patara** is the author of the *Revelationes* (a 7th-c. Syriac apocalypse, translated to Greek and Latin), whose prophecies of the last times were widely printed in the late medieval and Reformation eras. What Flacius here treats as "Methodius's prophecies" are the Pseudo-Methodian *Revelationes*, not the historical Methodius of Olympus.
+
+**¹⁴³** **Sebastian Brant's Basel 1498 printing** — the *Revelationes divi Methodii episcopi Paterensis* (Basel: Michael Furter, 1498), Brant's edition of the Pseudo-Methodian apocalypse. Brant (1457/58–1521) is best known for the *Narrenschiff* (*Ship of Fools*, 1494); his 1498 edition of Pseudo-Methodius was a standard Reformation-era Latin edition. Flacius does not distinguish authentic from apocryphal here.
+
+**¹⁴⁴** **Matthew 23:24** — *excolantes culicem, camelum autem glutientes*. Christ's rebuke of the Pharisees applied by (pseudo-)Methodius to future clerical rigorism-with-neglect-of-doctrine, and by Flacius to the medieval papal system.
+
+## From the Catalogue — Iustinus Martyr (vl0028)
+
+**¹⁴⁵** **St Justin Martyr** (c. 100 – c. 165), Christian philosopher and apologist, author of the *First Apology* (c. 155) and *Second Apology*, and the *Dialogue with Trypho*. Flacius treats him as ante-Nicene witness; his martyrdom under Marcus Aurelius (c. 165) supplies the epithet.
+
+**¹⁴⁶** **Justin, *First Apology* 65–67** — the celebrated description of the Sunday liturgy in mid-2nd-c. Rome, containing no mention of propitiatory eucharistic sacrifice, of transubstantiation, or of a sacerdotal-priestly office. Flacius's cross-reference to the "end of his greater Apology" points to *Apology* 65–67 as commonly reckoned. His *quod eum separatim edi curavi* — "since I have taken care to publish him separately" — refers to Flacius's own or Wagner's projected separate edition of Justin, part of the wider Wittenberg-Magdeburg project of restoring ante-Nicene primary sources.
+
+## From the Catalogue — Ravenna, Aquileia, Milan (vl0028–vl0029)
+
+**¹⁴⁷** The three great Northern Italian metropolitan sees — **Ravenna** (imperial capital 402–476, then Byzantine exarchate 584–751), **Aquileia** (major patriarchate through the Middle Ages, styled "Patriarch of Aquileia" until 1751 abolition), and **Milan** (see of Ambrose †397; long-standing Ambrosian rite distinct from Roman). Each maintained substantial independence from Roman jurisdictional claims through the early medieval period. Flacius's "resistance for about 200 years" and eventual submission "around 700" telescopes several distinct episodes.
+
+**¹⁴⁸** **Bartolomeo Sacchi (Platina)** (1421–1481), papal librarian and author of *Vitae Pontificum* (Venice 1479), the first comprehensive Renaissance-humanist papal biographical series. Flacius reads Platina, like other papal court-historians, as a *adulator Paparum* — a "flatterer of the Popes" — whose narrative of the Northern-Italian sees minimises their independence.
+
+**¹⁴⁹** **Marcantonio Coccio (Sabellicus)** (c. 1436–1506), Venetian humanist historian, *Rerum Venetarum Decades* (1487). The reference to "Bonaventura" is unclear — possibly to a later Venetian chronicler who preserved the same papal letter to Doge Ursus, or to Bonaventura Vulcanius, or a garbled reference. Flacius's use is to show that a papal letter to a doge of Venice explicitly describes Ravenna as head of many churches — self-witness against later Roman claims.
+
+## From the Catalogue — Ecclesiae Sclavonicae (vl0029)
+
+**¹⁵⁰** The **Slavic churches** — the mission of **Sts Cyril and Methodius** (863 onward) established Slavonic-language liturgy in Great Moravia and eventually across the Byzantine-Slavic world. The Glagolitic/Cyrillic script was designed for it. Flacius's *hodierna die in publicis sacris vernaculis utuntur* correctly reports the ongoing Old Church Slavonic liturgy of the Serbian, Bulgarian, and Russian churches into the 16th c.
+
+**¹⁵¹** ***Ex opere operato*** — the medieval scholastic doctrine that sacraments confer grace by the objective performance of the rite, not by the subjective disposition of the minister or recipient (systematised by Aquinas *ST* III.62.1). Flacius's rejection is that vernacular Slavonic proves that early Christians did not treat sacred language as *ex opere operato*, but as intelligibility-for-edification.
+
+**¹⁵²** **Aeneas Sylvius Piccolomini** (1405–1464, later Pope Pius II 1458–1464), *Historia Bohemica* c. 25, records the disputed heavenly voice — quoting Ps 150:6 (*Omnis spiritus laudet Dominum*) — that supposedly resolved a Roman debate over Slavic-language liturgy c. 880 (in the case of Methodius's mission, under Pope Adrian II). Flacius's polemical use: even the future Pope Pius II records that heaven itself sanctioned vernacular liturgy — why then does the Papacy now damn German vernacular?
+
+## From the Catalogue — Anglica ecclesia (vl0029–vl0030)
+
+**¹⁵³** **John Bale** (1495–1563), English Reformation bishop, whose *Illustrium Maioris Britanniae Scriptorum Summarium* (Wesel 1548; expanded Basel 1557) is the first great Protestant bio-bibliography of English writers. Flacius invokes Bale's argument that pre-**Augustine of Canterbury** (arrived 597, sent by Gregory the Great) British Christianity — the Celtic and British-Roman tradition — was purer than what Augustine's Roman-rite mission imposed.
+
+**¹⁵⁴** **The Slaughter of the Bangor Monks** — Bede *Historia Ecclesiastica* II.2 records that at the Battle of Chester (c. 616), 1,200 monks of Bangor-is-y-Coed (who had refused Augustine's demand of Roman conformity at the Synod of Chester c. 603) were massacred by the pagan king Æthelfrith of Northumbria. Bale, Flacius, and later Protestant historians read the massacre as papal-instigated (Augustine had allegedly prophesied it); modern scholarship treats the interpretation as anti-Roman polemic reading providence into a battle.
+
+## From the Catalogue — Apollonius (vl0030)
+
+**¹⁵⁵** **Apollonius**, a late-2nd-c. anti-Montanist writer whose refutation of the Phrygian prophetic movement Eusebius (HE V.18) excerpts and praises. Jerome (*De Viris Illustribus* 40) also mentions him. Flacius's dating "c. 110" is far too early; the correct date is c. 190–210, contemporary with Tertullian.
+
+**¹⁵⁶** **Montanus** (fl. c. 170), Phrygian prophet, founded the New Prophecy / Montanism, an apocalyptic rigorist movement that imposed extra fastings and heightened ascetic discipline. Condemned by regional synods (c. 175) and universally by the mid-3rd c. Flacius treats Montanist rigorism as prefigurative of later papal rigorism (celibacy, fasts); the polemical parallel — 2nd-c. anti-Montanist arguments serving as templates for 16th-c. anti-papal arguments — is the polemical mechanism of the whole *Catalogus*.
+
+## From the Catalogue — Attalus (vl0030–vl0031)
+
+**¹⁵⁷** **Attalus of Pergamon** (†c. 177), martyred at Lyon in the persecution under Marcus Aurelius. His story is preserved in the **Letter of the Churches of Lyon and Vienne** to the churches of Asia and Phrygia, quoted in Eusebius *HE* V.1–2. Attalus is one of the most-celebrated of the Lyon martyrs.
+
+**¹⁵⁸** **The Alcibiades episode** — Eusebius *HE* V.3.2–3 — the fellow-martyr Alcibiades practising extreme dietary asceticism in prison, Attalus receiving the revelation that Alcibiades was wrong to refuse God's creatures, Alcibiades then eating normally with thanksgiving. The episode is Flacius's proof-text that even in the earliest Christian centuries the Holy Spirit himself corrected ascetic-excess through revelation — an ante-Nicene warrant for the Reformation critique of forced fasting and celibacy.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

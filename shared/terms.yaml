@@ -3019,11 +3019,58 @@ apostolorum_coniugia:
     confuses Philip the deacon with Philip the Apostle), 1 Cor 9:5.
     Standard Reformation locus for defending clerical marriage.
 
+# ─── Tranche 2f — Methodius through Attalus (vl0027–vl0031) ─────────────
+
+ex_opere_operato:
+  english: By the work worked
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ecclesiae Sclavonicae at vl0029"
+  note: >
+    Medieval scholastic doctrine that sacraments confer grace by
+    the objective performance of the rite, not by subjective
+    disposition of minister or recipient (Aquinas ST III.62.1).
+    Flacius rejects: vernacular Slavonic liturgy proves early
+    Christians treated sacred language as intelligibility-for-
+    edification, not as ex opere operato.
+
+pseudo_methodius:
+  english: Pseudo-Methodius
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Methodius Graecus at vl0027"
+  note: >
+    Flacius conflates the historical Methodius of Olympus (†c. 311)
+    with the 7th-c. Syriac Revelationes divi Methodii episcopi
+    Paterensis (Sebastian Brant's Basel 1498 edition). The apocalyptic
+    prophecies belong to Pseudo-Methodius, not the historical figure.
+
+montanismus:
+  english: Montanism (New Prophecy)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Apollonius at vl0030"
+  note: >
+    Late-2nd-c. Phrygian prophetic movement led by Montanus (fl.
+    c. 170), imposing extra fastings + ascetic discipline. Flacius
+    treats Montanist rigorism as prefiguring later papal rigorism
+    (celibacy, fasts) — 2nd-c. anti-Montanist arguments serving as
+    templates for 16th-c. anti-papal arguments.
+
+vernacula_liturgia:
+  english: Vernacular liturgy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ecclesiae Sclavonicae at vl0029"
+  note: >
+    Sts Cyril and Methodius's 863+ Old Church Slavonic mission
+    established Slavic-language liturgy across the Byzantine-Slavic
+    world. Aeneas Sylvius (later Pius II) records supposed heavenly
+    voice sanctioning Slavic (quoting Ps 150:6). Flacius's polemical
+    use: even future Pope preserved witness that heaven sanctioned
+    vernacular — why now damn German vernacular as heretical?
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 CONTINUES through Clemens Alex (vl0001-vl0027,
-# ~27 pp of body + 32 pp paratexts). Total Flacius lemmas: 10 seed + 8
-# (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae literae) + 8 (T2c) + 3
-# (T2d) + 6 (T2e Council+Clemens Alex) = 54 entries.
+# FLACIUS 1556 — TRANCHE 2 through Attalus (vl0001-vl0031, ~31 body pp +
+# 32 pp paratexts = 63 folio pp of source ≈ 5.6% of the 1094-pp body).
+# Total Flacius lemmas: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7
+# (T2 Sacrae literae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) = 58.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
