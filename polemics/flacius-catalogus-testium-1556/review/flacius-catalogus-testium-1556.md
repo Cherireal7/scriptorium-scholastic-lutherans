@@ -770,9 +770,53 @@ Decernit item eadem Synodus, ut Metropolitani synodos conuocent, nulla planè Pa
 
 Praecipit iam haec Synodus, ne temerè precationes nouae recipiantur, nisi à toto concilio probatae fuerint. At postea cuilibet monacho licuit impietissimas preces Christianis hominum praescribere, & pro excommunicato sibi nouum cultum excogitare: quod Deo omnia quae essent, quae modò bono studio fierent.²²⁷
 
-Anathematizat quoq[ue] eos, qui negant sanctos ac iustos uiros peccata habere, propter quae quotidie remissionem peccatorum petere à Deo suppliciter…
+Anathematizat quoq[ue] eos, qui negant sanctos ac iustos uiros peccata habere, propter quae quotidie remissionem peccatorum petere à Deo suppliciter debeant. In quo articulo planè nostros sophistas damnasse videtur.²²⁸
 
-*[The Concilium Mileuitanum entry continues on `vl0051`; staged for the next Tranche 2 session.]*
+Statuit etiam, quòd & prius sepissimè in multis Synodis decretum sit, ne uel masculus uel foemina ante 25 aetatis annum consecretur. Quòd utinam nostro quoq[ue] tempore seruatum fuisset. Non tam multi homines temerè imprudenter[que] professi fuissent, ac in istos monasteriorum carceres perpetuos sese praecipitassent. Omnino apparet, tunc adhuc syncereiores doctores in Ecclesia fuisse.²²⁹
+
+## Chalcedonensis synodus
+
+### *Council of Chalcedon (451)* — vl0051–vl0054
+
+The **Chalcedonian Synod** of 630 bishops, under the year of Christ 474 [rectius 451] against Eutyches congregated, repeated the decree of the Constantinopolitan Synod, and constituted, that the Bishop of Constantinople have primacy or supreme rule over all Oriental churches — that is, the Greek, Asian, Egyptian, and *ex decima-sexta actione eius Synodi* it plainly appears, where more prolixly this matter is treated.²³⁰
+
+Against this Synod's decree first the **Pope's legates** in the council opposed themselves clamouring: the Synod ought not with such a decree consent. But when the bishops nominally and by order were asked by the presidents-of-judgement, they responded: they willingly, and freely consent. There too the Pope's legates plainly used a *cursive stratagem*. For when they conjectured against the constituted Constantinopolitan decree Nicene of Metropolitans by right, added they at the summit of these words: *"That the Roman Bishop should have primacy over all provinces"* — wishing this in the general sense to be understood, when the text manifestly against that summary of it fought. Nevertheless, however, that fraud to them somewhat availed.²³¹
+
+Opposed himself afterwards also **Pope Leo** most fiercely to this decree, greatest turbas, as also his successors, on that account stirred up. He clamours indeed in his Epistles Leo: that the Nicene Synod's singular provinces' clerics to their Metropolitans have been subjected: neither has any been added, so that the Constantinopolitan them to himself might subject — that liberty his private.²³² Rather to imitate potius the Constantinopolitan bishop ought Christ himself, who came, and to minister to others, not to himself be ministered: whatever the greatest maximum wish, dixerit, that must be the servant of all, most-humble. Modesty must be increasing to a bishop, and not ambition.
+
+But this same Leo, meanwhile in modesty aliud amplandaq[ue] tyrannideq[ue] suae summam curam habebat, ut itidem ex eius Epistolis apparet.²³³ Why did he not himself consider — the same Leo saying, contrary to his own ambition all-things — when he himself against Anatolius the Constantinopolitan patriarch declaimed? Why then now so-much preargue-argument contra id decretum ipsum Nicaene Synodi, of the liberty or privileges of the Metropolitans not to be oppressed: rather sixteen years-back which antecessors his Zozimus, Bonifacius and Celestinus, that same decree formerly-falsified, and sent to the sixth Carthaginian Synod, with legation held, Nicene Synod the Roman Pope to all churches and Metropolitans to be subject.²³⁴
+
+Thus and **Gelasius**, Leo's successor, disputes: not all Canons of the Chalcedonian Synod pious to be, nor for that certainly not to be received, that to the Constantinopolitan Archbishop primacy gave.²³⁵
+
+Hence learn first, of the Roman pontiffs perpetual fidem seu regulam, that all Iura, sacred letters, canons, councils, and Fathers, so-far be valid, when for them, and how far pro ipsis, non contra ipsos, aut eorum tyrannidem uel opes, loquuntur et pronunciant.
+
+Observe also from this Chalcedonensis so frequentis Synodi decree, nondum tunc illos sanctissimos patres aut Ecclesiae Dei sciuisse, & Christi soli Papae Romano omnes suas ecclesias, tanquam unico capiti Ecclesiae et vicario suo subiecisse. Alioqui quomodo ausi fuissent aliud aliquid statuere aut instituere? Atque itidem Nunc Synodum Papae in suis decretis dicunt, esse tanquam unum ex quatuor Euangelistis venerari. Sed intellige, quatenus opinionum ambitioni non aduersatur. Nam omnia tunc esse bona desinunt, cum Papis obsunt, aut displicent.
+
+Finally observe & hanc fraudem, quod in subscriptionibus huius Synodi aliquoties additur, quòd Paschasinus legatus praesederit Synodo, nomine Papae. Quod ab aliquo scelerato falsatore additum esse, inde apparet, quòd cum legis actiones seu disputationes, semper regunt eas, & interloquuntur nescio qui, quos Textus semper uocat *Gloriosissimos judices*. Credo fuisse aliquos consiliarios Caesaris, uiros virtute, sapientia & authoritate praestantes. Sic uides, Papistas nobis Synodorum & sanctorum patrum scripta subinde falsasse, quo suam impiam tyrannidem super piorum ceruices stabilirent.²³⁶
+
+## Sexta Carthaginensis synodus
+
+### *Sixth Council of Carthage (419)* — vl0054–vl0056
+
+The **Sixth Council of Carthage**, of 217 bishops, among whom also *S. Augustine* was, was celebrated about the year of the Lord 430 [rectius 419]. A most-useful matter in it is contained. For there most acerbly between the Pope and the Fathers of that holy Synod, over the primacy of the Roman episcopus, of five whole years contended. For three of the Popes, Zosimus, Bonifacius, and Celestinus, sent with legates and with letters petitioned: for themselves *super Africanas aliasque prouinciarum ecclesias iurisdictionem ac imperium concedi*.²³⁷ That it might more easily be obtained, they falsified Nicene Synod's decrees, and them corrupted to the Synod proposing.
+
+The Fathers however first responded to Zosimus (for he first began tyranny to seek) that indeed never had they anything of the sort in the Nicene decrees read, indeed contrary things themselves noted; but tamen for concord's sake, his petition to accede — as far as from authentic decrees more certainly they may know. Then secondly to Pope Boniface, urging and threatening: they inspected the common copies of the Nicene Synod, which certainly they had could-obtain, nothing tale to be found could-possibly-be. But nonetheless they promised to send at the very first occasion legates to Alexandria and to Constantinople, who authentic copies of the Synod thence should bring. Which and they did.²³⁸
+
+When the legates Marcellus and Innocentius had returned, they gave the Africans decrees quite otherwise having, than the two Popes had said: rather the legates had lied — they sent the same legates with the same copies also to Bonifacius; who then still lived, but a little after also himself died.
+
+Wherefore Celestinus his successor, thirdly sent to the African Synod, letters and legates, the same tyrannical petition in the same mode urging. Gravely there was a whole triduum between the Fathers and the legates contended: at last however by God's benefice, constantly from the whole Synod concluded, no plane Papal jurisdiction over the African, or over other external churches, to be conceded. And likewise, from displaying-the-authentic-exemplaria, the crime of falsification manifestly against them was known and shown to be, and was manifest by letters to the Pope, evidently manifest and refutation was.²³⁹
+
+By this holy Synod's constant repulse of the Popes' nefarious ambition, of one hundred integrated with African churches sent-away — it was compelled. Although they were once attempted, they nonetheless between them for a while them oppress could not.
+
+*Post 130 demum annos*, Bonifacius secundus by excommunications and menaces and blandishments so-far bore Eulalium the Carthaginian metropolitan, and certain African bishops, that not only they might be subject to the Roman Pope: but also anathematize all their majors, who to the contrary had established: that is, the whole that sacrosanct Synodum sextam Carthagine celebratam.²⁴⁰
+
+Hence you may clearly perceive, Christian brother, that the Popes for more than six hundred years after Christ's nativity had no jurisdiction over the Church of God, such as they now have.
+
+*Non tantum stare, sed & florere potuit* — it was able not only to stand, but also to flourish. Credible it is, and already Christians can be saved without a Pope. You may hence too cognosce, by what mode by the pretexts of arts of the Pope his same tyranny over the ecclesiae Dei, and even upon Kings and Caesars they were-obtained, namely by scelerate falsifying holy Synods, and anathematising them, by fingering the falsely-written *donatione Constantini*, epistolas Clementis, ibiq[ue] propria iura of privileges scribendo, and by the whole terrestrial Christianum by excommunications and interdicts, and by the most-cruel wars (as after with the Germanic Caesars often), perdendo, and by everything.²⁴¹
+
+Let the Popes now depart with their mancipiis; and let us — the noble Patres patres — the Councils and the Fathers embrace: with them and with the Fathers and the Councils be plainly horribly-contempered, contumeled, and concocted. Hanc totam historian separatim I have prolixly recited; and them if here compendiously in summary redigere I have willed. Worthy however would it profectò be, if by a learned man luculenter it were described.
+
+*[Continues on `vl0056` with* **Turonicum concilium** *(Council of Tours c. 460); staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1337,6 +1381,38 @@ Anathematizat quoq[ue] eos, qui negant sanctos ac iustos uiros peccata habere, p
 **²²⁶** *Metropolitani synodos convocent* — the Milevitan canon assumes metropolitan-conciliar convocation is the standard, with no Roman role. Flacius: *impudentissime blatterarunt* — "they most impudently prattled" — Roman claims to exclusive conciliar-convocation authority.
 
 **²²⁷** **Milevis II Canon 12** on liturgical uniformity — new prayers or hymns may not be received into the liturgy unless approved by a full council. Flacius reads this as anti-monastic-innovation legislation being subsequently violated by the medieval proliferation of votive Masses, private prayers, and monastic devotions.
+
+**²²⁸** **Milevis II Canon 6 (or 7)** — the anti-Pelagian canon anathematising those who deny that even saints must ask daily forgiveness of sins. Flacius reads it as anticipating Reformation-Lutheran doctrine of *simul iustus et peccator*.
+
+**²²⁹** **Age of ordination** — a repeated conciliar minimum: Council of Neocaesarea (315), Nicaea I in some readings, and Milevis II reaffirmed 25 as minimum age for ordination. Flacius laments medieval monastic tonsuring of children (7-year-olds bound by vow) as violation of ancient conciliar standard.
+
+## From the Catalogue — Chalcedonensis synodus (vl0051–vl0054)
+
+**²³⁰** **Chalcedon Canon 28** (already glossed at endnote 224 above) — 630 bishops (actual attendance c. 400) at the fourth ecumenical council (451), whose actio XVI passed the canon reaffirming Constantinople as *nova Roma* with jurisdiction over Pontus, Asia, and Thrace. Flacius's date "474" is an error for 451.
+
+**²³¹** **Paschasinus of Lilybaeum**, Leo I's chief legate at Chalcedon, protested against Canon 28 immediately after its passage; the Chalcedonian *acta* record his objection and the bishops' overriding it. Flacius's reading: Rome tried to reframe Canon 28 as granting *Rome* universal primacy, when the text plainly gave Constantinople equal-with-Rome status.
+
+**²³² Leo I, *Epistulae* 104 (to Emperor Marcian), 105 (to Empress Pulcheria), 106 (to Anatolius of Constantinople)** — Leo's formal protests of Canon 28, refusing to confirm it while insisting the Nicene canonical order be preserved. The letters are the standard patristic proof-text for Roman-primatial claims in medieval and Counter-Reformation apologetics.
+
+**²³³** Flacius's *ad hominem* against Leo: while lecturing Anatolius on humility, Leo himself sought to extend Roman jurisdiction. The double-standard critique became standard Reformation polemic against papal moral-authority claims.
+
+**²³⁴** The Zosimus-Boniface-Celestine Nicene-canon forgery (already glossed at endnote 220) is Flacius's core structural argument: Leo's own predecessors, only 30 years before, had committed the same forgery that Leo now protests against — but the Chalcedonian assembly, unlike the African Carthaginians who caught the fraud, accepted Roman claims uncritically.
+
+**²³⁵** **Pope Gelasius I** (492–496), *De duabus in Christo naturis contra Eutychen et Nestorium* and various letters, argued that not all Chalcedonian canons need be accepted — specifically not Canon 28. Flacius: the Roman rule of canonical reception is not principled, but instrumental (a canon "counts" only when it favours Rome).
+
+**²³⁶** *Gloriosissimos iudices* — the Chalcedonian *acta* record imperial judges (senators appointed by Marcian) as presiding at the sessions, not the papal legates. Flacius reads later Roman claims that Paschasinus presided as forgery: the Roman-primatial narrative was retrofitted onto the Chalcedonian record.
+
+## From the Catalogue — Sexta Carthaginensis synodus (vl0054–vl0056)
+
+**²³⁷** **Council of Carthage 419** (Flacius's "Sixth Carthage") — the great African-Latin council under Aurelius of Carthage, at which the Zosimus-Boniface-Celestine forgeries were exposed (already glossed at endnote 220). The *Codex Canonum Ecclesiae Africanae* records the proceedings; the Latin conciliar-canon collections preserve the whole apparatus.
+
+**²³⁸** The **Alexandria-and-Constantinople manuscript verification** — the African bishops sent Marcellus and Innocentius (later confirmed as Vitus and Vincent in some sources) to bring back authentic copies of the Nicene canons from the two eastern patriarchal archives. The historical episode is the textbook case in Reformation and modern historiography of source-critical exposure of papal forgery.
+
+**²³⁹** The Celestine legates' response — a full three days of debate in the African synod — ended in the African bishops' constant refusal to concede Roman jurisdiction. Flacius's *Dei beneficio* frames the outcome as providential.
+
+**²⁴⁰** **Pope Boniface II** (530–532) — 130 years after Carthage 419 — extorted from **Eulalius of Carthage** and other African bishops a formal repudiation of the Sixth Carthaginian synod, anathematising their own predecessors. Flacius reads Boniface II's coercion as the moment when Latin Africa was finally subjected to Roman jurisdiction — six centuries into Church history.
+
+**²⁴¹** The chained list of papal tyranny-mechanisms — falsifying holy Synods, the *Donation of Constantine* (Valla 1440), the pseudo-Clementine epistles, excommunications and interdicts, wars against Germanic Caesars — compresses the whole Reformation-historiographical case against papal-institutional legitimacy. Compare Luther's *An den Christlichen Adel* (1520, WA 6:404–469) and Melanchthon's *Tractatus de potestate et primatu papae* (1537).
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
