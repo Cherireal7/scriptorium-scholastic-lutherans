@@ -1,10 +1,42 @@
 ---
 title: "Exercitations on Theology in General"
-subtitle: "Exercitationes de theologia in genere ejusque principio sancta scriptura — Pars Prima of the Theologia Didactico-Polemica, Wittenberg 1685"
+subtitle: "Exercitationes de theologia in genere — Chapter I of the Theologia Didactico-Polemica, Wittenberg 1685"
 author: "The Scholastic Lutherans translation team"
 date: "2026"
 lang: en
 ---
+
+<!-- HALF-TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# EXERCITATIONS
+
+## ON THEOLOGY IN GENERAL
+
+&nbsp;
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- FULL TITLE PAGE (recto) -->
+
+&nbsp;
 
 # EXERCITATIONS
 
@@ -14,13 +46,9 @@ lang: en
 
 — ❦ —
 
-*and its Principle, the Sacred Scripture*
+*Exercitationes de theologia in genere*
 
-— ❦ —
-
-*Exercitationes de theologia in genere ejusque principio sancta scriptura*
-
-*being Pars Prima of the*
+*being Chapter I of Part I of the*
 
 *Theologia Didactico-Polemica, Sive Systema Theologicum*
 
@@ -33,18 +61,105 @@ in the Academy of Wittenberg
 
 — ❦ —
 
-Wittenberg · in the printing house of Matthaeus Henckel
-at the expense of the Heirs of Simon Fincelius
+**Wittenberg · in the printing house of Matthaeus Henckel**
 
-Anno M.DC.LXXXV — 1685
+**at the expense of the Heirs of Simon Fincelius**
 
-— ❦ —
+**Anno M.DC.LXXXV — 1685**
 
-A translation by
+&nbsp;
+
+&nbsp;
+
+A working English edition translated by
 
 **The Scholastic Lutherans**
 
-Working English edition · 2026
+*2026*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- COLOPHON / IMPRINT PAGE (verso) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Working translation from the Latin, prepared from the facsimile*
+
+*of the 1691 Wittenberg second edition held at the Bayerische*
+
+*Staatsbibliothek München under identifier* `bsb11205336`, *offered*
+
+*as per-canvas hOCR by the Münchener Digitalisierungszentrum*
+
+*through the endpoint* api.digitale-sammlungen.de/ocr/bsb11205336/N —
+
+*Chapter I of Pars I of Quenstedt's four-part* Systema.
+
+&nbsp;
+
+*The 1685 editio princeps has not been text-critically collated*
+
+*against the 1691; where any variance may obtain, the working*
+
+*translation follows the 1691 witness.*
+
+&nbsp;
+
+*Set in Palatino Linotype and rendered in the Hülsemann style*
+
+*established for the* Scholastic Lutherans *translation program.*
+
+&nbsp;
+
+**The Scholastic Lutherans translation team**
+
+*2026*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- DEDICATION (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*To the memory of*
+
+**Johann Gerhard** (1582–1637)
+
+*avunculus desideratissimus* —
+
+*and of*
+
+**Abraham Calov** (1612–1686)
+
+*generus meus*, colleague and brother in Christ —
+
+*through whom the Wittenberg lineage of orthodox theology*
+
+*came into the hands of the author himself.*
+
+&nbsp;
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -52,28 +167,56 @@ Working English edition · 2026
 
 # Contents
 
-*Page numbers below refer to the English volume and are filled in as the volume assembles; source folio references (Pars Prima, pp. 1–347 of the Leipzig 1715 collation) are given at the chapter level so that the reader may collate the English against the Latin.*
+&nbsp;
+
+### *Front Matter*
 
 |  | Page |
 |:---|---:|
 | Translator's Note | i |
-| **Front Matter** *(from the 1691 Wittenberg imprint, BSB Munich `bsb11205336`)* | 1 |
-| &nbsp;&nbsp;&nbsp;Praefatio ad Lectorem *(Preface to the Reader)* | 1 |
-| &nbsp;&nbsp;&nbsp;Table of the Chapters of Part I | — |
-| **Chapter I. Of Theology in General** *(De Theologia in genere, folio pp. 1–19, canvases 19–37)* | — |
-| &nbsp;&nbsp;&nbsp;**Section One — Didactic** *(pp. 1–12, canvases 19–30)* | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses I–III: Definition; the double homonymy; archetypa/ectypa | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses IV–VIII: Archetypa in the Trinity; in Christ *θεάνθρωπος*; theology of Angels | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses IX–XV: Viatorum vs. comprehensorum; Paradisiac; post-lapsum natural and supernatural | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses XVI–XXVI: Catechetic vs. Acroamatic; Exegetic, Didactic, Polemic, Homiletic, Casual, Historical, Patria | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses XXVII–XXXIX: Wholly / partially; essentially / accidentally; systematic; habitual; the causes; form; matter; subject; end | — |
-| &nbsp;&nbsp;&nbsp;**Section Two — Polemic** *(pp. 13–19, canvases 31–37)* | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question I: *An detur Theologia?* — Whether Theology is given | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question II: *An Theologia revelata in Ecclesia sit necessaria?* — Whether Revealed Theology is necessary | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question III: *An Theologia sit habitus θεόσδοτος practicus?* — Whether Theology is a divinely-given practical habit | — |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authors on Theology in general, to be consulted | — |
-| **Notes** | — |
-| **Colophon** | — |
+| Praefatio ad Lectorem *(Preface to the Reader — Quenstedt, 1685)* | 1 |
+| Table of the Chapters of Part I | 9 |
+
+&nbsp;
+
+### *Chapter I · Of Theology in General*
+
+|  | Page |
+|:---|---:|
+| **Section One — Didactic** | 11 |
+| &nbsp;&nbsp;&nbsp;Thesis I: The Definition of Theology as *sermo de Deo* | 11 |
+| &nbsp;&nbsp;&nbsp;Thesis II: The Double Homonymy — the Taxonomy of False Theologies | 14 |
+| &nbsp;&nbsp;&nbsp;Thesis III: The *Archetypa* / *Ectypa* Distinction | 17 |
+| &nbsp;&nbsp;&nbsp;Thesis IV: The Archetypal Theology in the Trinity | 18 |
+| &nbsp;&nbsp;&nbsp;Thesis V: The Archetypal Theology in Christ *θεάνθρωπος* | 20 |
+| &nbsp;&nbsp;&nbsp;Thesis VI: The Fourfold Theology of Christ's Human Nature | 22 |
+| &nbsp;&nbsp;&nbsp;Thesis VII: Theology of the Fatherland | 25 |
+| &nbsp;&nbsp;&nbsp;Thesis VIII: Theology of the Good Angels | 25 |
+| &nbsp;&nbsp;&nbsp;Theses IX–X: *Viatorum* vs. *Comprehensorum*; Ante- and Post-Lapsum | 28 |
+| &nbsp;&nbsp;&nbsp;Theses XI–XII: The Paradisiac Theology, Concreated and Revealed | 29 |
+| &nbsp;&nbsp;&nbsp;Theses XIII–XV: Post-Lapsum Theology, Natural and Supernatural | 30 |
+| &nbsp;&nbsp;&nbsp;Theses XVI–XVIII: Catechetic vs. Acroamatic | 32 |
+| &nbsp;&nbsp;&nbsp;Theses XIX–XXV: The Six Species of Acroamatic Theology | 34 |
+| &nbsp;&nbsp;&nbsp;Theses XXVI–XXVIII: The Theology of the Fatherland | 36 |
+| &nbsp;&nbsp;&nbsp;Theses XXIX–XXXI: Systematically vs. Habitually Considered | 38 |
+| &nbsp;&nbsp;&nbsp;Theses XXXII–XXXV: The Causes of Theology | 39 |
+| &nbsp;&nbsp;&nbsp;Theses XXXVI–XXXVIII: Form, Matter, Subject | 41 |
+| &nbsp;&nbsp;&nbsp;Thesis XXXIX: The End of Theology | 42 |
+| **Section Two — Polemic** | 43 |
+| &nbsp;&nbsp;&nbsp;Question I: *An detur Theologia?* — Whether Theology is Given | 43 |
+| &nbsp;&nbsp;&nbsp;Question II: *An Theologia revelata in Ecclesia sit necessaria?* — Whether Revealed Theology is Necessary in the Church | 45 |
+| &nbsp;&nbsp;&nbsp;Question III: *An Theologia sit habitus θεόσδοτος practicus?* — Whether Theology is a Divinely-Given Practical Habit | 47 |
+| &nbsp;&nbsp;&nbsp;Authors on Theology in general, to be consulted | 55 |
+
+&nbsp;
+
+### *Back Matter*
+
+|  | Page |
+|:---|---:|
+| Notes | 57 |
+| Glossary of Terms | 65 |
+| Colophon | 71 |
 
 — ❦ —
 
@@ -220,6 +363,43 @@ XI. Of the Angels.
 XII. Of Man.
 XIII. Of Providence.
 XIV. Of the formal end of Theology, which is the enjoyment of God and Eternal Life; and of its opposite, Eternal Death.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+
+<!-- CHAPTER I TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+# CHAPTER I
+
+## OF THEOLOGY IN GENERAL
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*Theologia à Deo docetur, Deum docet, & ad Deum ducit.*
+
+*"Theology is taught by God, teaches God, and leads to God."*
+
+— **Thomas Aquinas**, *Summa Theologiae* I, q. 1, a. 7
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -792,30 +972,51 @@ Of the *Calvinists*: **Franciscus Junius**, in a peculiar tract *On the origin a
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Colophon
+<!-- BACK MATTER TITLE PAGE (recto) -->
 
-*This working translation of Johann Andreas Quenstedt's **Exercitationes de theologia in genere** — that is, of Chapter I of Pars I of the **Theologia Didactico-Polemica, sive Systema Theologicum** in the arrangement of the 1691 Wittenberg second edition — was prepared by the Scholastic Lutherans translation team in the year 2026. The wider Cap. III *De Principio* and Cap. IV *De Sacra Scriptura* material (together with the whole *Theologia Didactico-Polemica*) belongs to prior English partial-and-full renderings — Luther Poellot's *The Nature and Character of Theology* (CPH 1986), the *Fathers of Lutheran Orthodoxy* POD facsimiles (Lutheran Legacy / Emmanuel Press), and Robert Preus's synthetic *Theology of Post-Reformation Lutheranism* Vol. I (CPH 1970) — and is not repeated here.*
+&nbsp;
 
-*The Latin text-base is the 1691 Wittenberg imprint of the second edition, from the exemplar held at the Bayerische Staatsbibliothek München under identifier* bsb11205336, *offered as per-canvas hOCR by the Münchener Digitalisierungszentrum through the endpoint* api.digitale-sammlungen.de/ocr/bsb11205336/N*. The 1685 editio princeps has not been text-critically collated against the 1691; where any variance may obtain, the working translation follows the 1691 witness.*
+&nbsp;
 
-*The translation was rendered into scholarly English, with the scholastic apparatus of definitions, distinctions, theses, notae, observations, antitheses, confirmations, and fontes solutionum preserved throughout. The Greek is preserved in polytonic script with parenthetical transliteration; the Hebrew where it appears is preserved in pointed consonantal script with transliteration; the classical and patristic citations are given in the modern-critical edition standards proper to the Scholastic Lutherans program (PG, PL, CCSL, WA, LW, BSLK, MSA, CR).*
+&nbsp;
 
-*The work honours those to whom Quenstedt himself dedicated the labour of his life — his uncle **Johann Gerhard** and his father-in-law **Abraham Calov** — and, through their continuous Wittenberg lineage, the whole succession of orthodox Doctors from Luther and Melanchthon and Chemnitz down to Quenstedt's own late-orthodox generation.*
+# BACK MATTER
 
-*Soli Deo Gloria.*
+&nbsp;
 
 — ❦ —
 
-*The Scholastic Lutherans translation team · 2026*
+&nbsp;
+
+*Notes · Glossary · Colophon*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*Lucerna pedibus meis verbum tuum,*
+
+*et lumen semitis meis.*
+
+*"Thy word is a lamp unto my feet,*
+
+*and a light unto my path."*
+
+— **Psalm 119:105**
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+<!-- BLANK VERSO -->
+
+&nbsp;
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
-
 
 # Notes
 
@@ -940,3 +1141,105 @@ Of the *Calvinists*: **Franciscus Junius**, in a peculiar tract *On the origin a
 # Glossary of Terms
 
 *Populated as translation proceeds. Master entries live in* `shared/terms.yaml` *under the ENCYCLOPEDIAS — Quenstedt section; the per-volume glossary here is a rendered subset presented alphabetically.*
+
+
+# Glossary of Terms
+
+*Rendered alphabetically from the master* `shared/terms.yaml` *— the Scholastic Lutherans working vocabulary as it grew through this volume. Each entry gives the term, the English rendering, a short technical note, and the first thesis in which it appears.*
+
+&nbsp;
+
+**analogia fidei** — *Analogy of Faith.* Hermeneutical principle: obscure passages of Scripture are interpreted by clear, and the clear passages are the sum of the *articuli fundamentales*. Rooted in Rom. 12:6. *First use: Cap. I Thesis I (Nota).*
+
+**articulus fundamentalis** — *Fundamental Article.* Articles of faith the denial of which destroys saving faith, distinguished from non-fundamental articles the denial of which is error but not damnation. Late-orthodox refinement (Calov, Quenstedt, Hollaz) against the Calixtine reduction. *First use: Cap. I Thesis II (Nota XIII on Syncretism).*
+
+**auctoritas Scripturae** — *Authority of Scripture.* First of the four affections of Scripture. Divided into *auctoritas causativa* (Scripture is what it is because God is its author) and *auctoritas normativa* (Scripture is the norm and rule of faith and life). *First use: Cap. I Thesis III.*
+
+**catechetica / acroamatica** — *Catechetic / Acroamatic Theology.* The two modes of mediate revelation: Catechetic = initial, ruder, *τῶν νηπίων*, for the rude common folk; Acroamatic = advanced, more accurate, *τῶν τελείων*, for Bishops and Presbyters in Academies. Differ not in matter but in mode of considering. *First use: Cap. I Thesis XVI.*
+
+**causa efficiens / movens / media / ministerialis** — *Efficient / Moving / Middle / Ministerial cause.* The fourfold causal analysis of Theology: (1) efficient = *Deus Uni-Trinus*; (2) moving = *προηγουμένη* internal (God's goodness) and *καταρκτική* external (our misery); (3) middle = *Verbum Dei scriptum*; (4) ministerial = the *θεόπνευστοι* writers + orthodox Doctors of the Church. *First use: Cap. I Theses XXXII–XXXV.*
+
+**connata / infusa / acquisita** — *Connate / Infused / Acquired.* Fourfold classification of Christ's human-nature theology: (1) connate (from creation of the soul); (2) infused (poured in); (3) acquired by experience; (4) intuitive by way of excellence. Against Manichean and Bellarmine *δόκησις*-only readings. *First use: Cap. I Thesis VI.*
+
+**dialysis** — *Dissolving of Objections (*διάλυσις*).* Seventh step of Quenstedt's 8-step Polemic method: the defences that adversaries subtly seek from Scripture and the Fathers are wrenched from them, and Truth is restored. *First use: Praefatio.*
+
+**didactica / polemica** — *Didactic / Polemic.* The two Sections into which each locus of Quenstedt's Systema is divided. Didactica sets out the thetic doctrine following König's *Theologia Positiva* pattern; Polemica pursues controversy in an 8-step method. *First use: Praefatio.*
+
+**ekdikesis** — *Vindication (*ἐκδίκησις*).* Sixth step of the Polemic method: sacred texts are vindicated from the frivolous interpretations, distortions, and depravations of the heterodox. *First use: Praefatio.*
+
+**ekthesis** — *Exposition (*ἔκθεσις*).* Third step of the Polemic method: difficulties around the *status controversiae* are cleared up through distinctions and observations. *First use: Praefatio.*
+
+**habitus practicus** — *Practical Habit.* Quenstedt's answer to the medieval-scholastic dispute (Thomas vs. Scotists) on whether theology is speculative or practical: theology is an eminently practical habit — its terminus is not knowledge for its own sake but the salvation of the theologian. *First use: Cap. I Thesis I.*
+
+**habitus theosdotos practicus** — *Divinely-given practical habit.* Quenstedt's definitive characterisation of Theology in the polemic climax (Sectio II Q.III): an intellectual habit, divinely-given through the written Word by the Holy Spirit, practical, concerning true religion, by which sinful man is led through faith in Christ to eternal life. *First use: Cap. I Sect. II Q. III Thesis.*
+
+**praxis pisteos / eusebeias** — *Praxis of Faith / of Piety (*πρᾶξις τῆς πίστεως / τῆς εὐσεβείας*).* *Praxis fidei* = fiducial apprehension of Christ's merit and Evangelical promises; *praxis pietatis* = pursuit of good works, which emanates from the former as a rivulet from its fountain. Theology is called practical *propter illam*, not *propter hanc* — against Calixt and Hornejus. *First use: Cap. I Sect. II Q. III Distinction XII.*
+
+**principiatum** — *Principiate.* That which flows from a principle. Scripture is the *principium*; theology is the *principiatum*. Late-orthodox term of art. *First use: Cap. I Thesis I Note I.*
+
+**principium essendi / cognoscendi (externum / internum)** — *Principle of Being / of Knowing (external / internal).* Late-orthodox distinction: God is the *principium essendi*; Scripture is the *principium cognoscendi externum*; the internal testimony of the Spirit is the *principium cognoscendi internum*. Against Rome and against the Enthusiasts. *First use: Cap. I Thesis I (Nota).*
+
+**principium theologiae** — *Principle of Theology.* That from which theology draws its content and its authority. Subdivided into *principium essendi* (God) and *principium cognoscendi* (Scripture). *First use: Cap. I Thesis I (Nota).*
+
+**pura / analogica homonymia** — *Pure vs. analogical homonymy.* Aristotelian equivocation-typology (*Categories* 1a1) redeployed by Quenstedt as the classificatory device for false theologies (pure homonymy) vs. true theology's internal analogical distinction (archetypa/ectypa). *First use: Cap. I Thesis II.*
+
+**sacra Scriptura** — *Sacred Scripture.* The *principium cognoscendi externum* of theology. In Pars I Cap. IV of Quenstedt, the doctrine of Scripture is treated as the substance of the whole *theologia in genere*. *First use: Cap. I Thesis I.*
+
+**sermo de Deo** — *Speech concerning God (*λόγος περὶ τοῦ Θεοῦ*).* Quenstedt's basic definition of theology in Thesis I. Emphatically "speech CONCERNING God" (objective genitive), not "speech OF God" (subjective genitive, which is Scripture itself). *First use: Cap. I Thesis I.*
+
+**sex species theologiae acroamaticae** — *The six species of Acroamatic Theology.* Exegetica (Biblica); Didactica *stricte* (Systematica seu Thetica seu Positiva); Polemica (*πολεμικὴ καὶ συρρακτική*); Homiletica (Ecclesiastica); Casualis (Casuum, Consistorialis); Historica. Canonical typology for 18th-c. Lutheran theological encyclopedia. *First use: Cap. I Thesis XIX.*
+
+**sophia adidaktos** — *Undoctored Wisdom (*σοφία ἀδίδακτος*).* Quenstedt's characterisation of *theologia archetypa*: God's own wisdom that requires no teacher. Set against *διδακτῆς σοφίας λόγος* ("word of taught Wisdom", 1 Cor. 2:13). *First use: Cap. I Thesis III Note II.*
+
+**status controversiae** — *State of the Controversy.* First step of Quenstedt's 8-step Polemic method: the *verus status quaestionis* is formulated, with *false states* removed. *First use: Praefatio.*
+
+**subjectum inhaesionis / operationis** — *Subject of Inhaesion / of Operation.* Threefold analysis of the "subject" of Theology: inhaesionis *quod* = the theologian (2 Tim. 3:17); inhaesionis *quo* = his intellect; tractationis = all theological things (*religio vera*); operationis = man after the Fall, as *beatifiable*. *First use: Cap. I Thesis XXXVIII.*
+
+**syncretismus** — *Syncretism.* The commingling of diverse religions from carnal reason and untimely peace-study. Specifically: the Calixtine claim that Lutherans, Reformed, and Papists can be tolerated with faith and salvation safe, because their doctrinal dissent does not touch the *fundamentum fidei*. Quenstedt inherits the anti-syncretistic polemic from his father-in-law Calov. *First use: Cap. I Thesis II Note XIII.*
+
+**theanthropos** — *God-Man (*θεάνθρωπος*).* Christological title identifying the subject of *Theologia Unionis* — the archetypal theology communicated to Christ *per unionis gratiam*. Not merely "man" or "God" but the personal union expressed as a single noun. *First use: Cap. I Thesis V.*
+
+**theologia** — *Theology.* Discipline-name. Quenstedt distinguishes theologia as a name for the doctrine (*materialiter*) from theologia as a habit in the theologian (*formaliter*). *First use: Cap. I Thesis I.*
+
+**theologia archetypa** — *Archetypal Theology.* The theology God has of himself — the divine self-knowledge that is the pattern (*ἀρχέτυπος*) of every creaturely theology. *First use: Cap. I Thesis III.*
+
+**theologia comprehensorum** — *Theology of the Blessed.* Theology proper to those who have arrived *in patria* — perfect, immediate, by vision (*visio beatifica*). *First use: Cap. I Thesis IX.*
+
+**theologia cothurnata** — *Cothurnate Theology.* Voetius's metaphor (*Selectae Disputationes* III, p. 829 following): the Sceptic theologian is like the actor in high tragic boots (*cothurnus*) — now this side, now that. Placed last in Quenstedt's taxonomy of false theologies because it degrades the very notion of theology as *habitus*. *First use: Cap. I Thesis II Note XIV.*
+
+**theologia ectypa** — *Ectypal Theology.* The copy or reflection (*ἔκτυπος*) of the archetypa — theology as impressed upon a creature. Subdivided into *theologia unionis*, *theologia visionis*, and *theologia viatorum*. *First use: Cap. I Thesis III.*
+
+**theologia endoterow / symbebekotos** — *Essentially / Accidentally (*ἐνδοτέρως / συμβεβηκότως*).* The two modes of taking the word "Theology": *ἐνδοτέρως* = essentially, absolutely, habitually — for the notice in the mind; *συμβεβηκότως* = accidentally, relatively, systematically — for the doctrine in books. *First use: Cap. I Thesis XXVIII.*
+
+**theologia patriae** — *Theology of the Fatherland (of the Blessed).* Also *theologia beatorum*, *theologia visionis*, *theologia intuitiva*. Communicated through the clear vision of the divine Essence, face to face (*πρόσωπον πρὸς πρόσωπον*), by *αὐτοψία*. *First use: Cap. I Thesis XXVI.*
+
+**theologia viatorum** — *Theology of the Pilgrims.* The theology proper to those still on the way (*in via*) — imperfect, mediated through Scripture, apprehended by faith rather than sight. The subject of the whole discipline as Quenstedt treats it. *First use: Cap. I Thesis IX.*
+
+**theopneustos** — *God-breathed (*θεόπνευστος*).* Standard patristic-scholastic term for the inspired writers (Prophets in OT, Evangelists and Apostles in NT), from 2 Tim. 3:16. The ministerial cause of Theology. *First use: Cap. I Thesis XXXV.*
+
+**theotheologos theologia** — *The knowable / the knower / knowledge — the theological / the theologian / theology (*ἐπίστητον, ἐπιστήμων καὶ ἐπιστήμη*).* Quenstedt's tri-fold formula for God's identity with archetypal theology. *First use: Cap. I Thesis IV.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Colophon
+
+*This working translation of Johann Andreas Quenstedt's **Exercitationes de theologia in genere** — that is, of Chapter I of Pars I of the **Theologia Didactico-Polemica, sive Systema Theologicum** in the arrangement of the 1691 Wittenberg second edition — was prepared by the Scholastic Lutherans translation team in the year 2026. The wider Cap. III *De Principio* and Cap. IV *De Sacra Scriptura* material (together with the whole *Theologia Didactico-Polemica*) belongs to prior English partial-and-full renderings — Luther Poellot's *The Nature and Character of Theology* (CPH 1986), the *Fathers of Lutheran Orthodoxy* POD facsimiles (Lutheran Legacy / Emmanuel Press), and Robert Preus's synthetic *Theology of Post-Reformation Lutheranism* Vol. I (CPH 1970) — and is not repeated here.*
+
+*The Latin text-base is the 1691 Wittenberg imprint of the second edition, from the exemplar held at the Bayerische Staatsbibliothek München under identifier* bsb11205336, *offered as per-canvas hOCR by the Münchener Digitalisierungszentrum through the endpoint* api.digitale-sammlungen.de/ocr/bsb11205336/N*. The 1685 editio princeps has not been text-critically collated against the 1691; where any variance may obtain, the working translation follows the 1691 witness.*
+
+*The translation was rendered into scholarly English, with the scholastic apparatus of definitions, distinctions, theses, notae, observations, antitheses, confirmations, and fontes solutionum preserved throughout. The Greek is preserved in polytonic script with parenthetical transliteration; the Hebrew where it appears is preserved in pointed consonantal script with transliteration; the classical and patristic citations are given in the modern-critical edition standards proper to the Scholastic Lutherans program (PG, PL, CCSL, WA, LW, BSLK, MSA, CR).*
+
+*The work honours those to whom Quenstedt himself dedicated the labour of his life — his uncle **Johann Gerhard** and his father-in-law **Abraham Calov** — and, through their continuous Wittenberg lineage, the whole succession of orthodox Doctors from Luther and Melanchthon and Chemnitz down to Quenstedt's own late-orthodox generation.*
+
+*Soli Deo Gloria.*
+
+— ❦ —
+
+*The Scholastic Lutherans translation team · 2026*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
