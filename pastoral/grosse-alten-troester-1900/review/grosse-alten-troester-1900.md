@@ -1233,7 +1233,71 @@ And so much as he stressed the *bride-relation* of the Church to Christ (the Bri
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 4a closes here at Nikolai. Tranche 4b covers §§4–7: **Georg Dedeken** (1564–1628 Hamburg, *Praxis conscientiarum* + *Kleinod der Seefahrenden* 1608), **Valentin Wudrian** (1584–1625 Hamburg, *Kreuz-Schule* in 30 chapters), and **Martin Statius** (1589–1656 Danzig, *Geistliche Schatzkammer der Gläubigen* — the Praetorius-systematic-anthology in 7 books). Then §§8–12 through the mid-checkpoint at Meyfart.]*
+### §4. Georg Dedeken (1564–1628)
+
+*Source: II a) §4, pp. 147–148. Nikolai's co-worker and confessor at Hamburg, a Lutheran-Orthodox pastoral-casuistical writer.*
+
+Also Nikolai's fellow-worker and confessor **Georg Dedeken** (*Dedekennus*),¹⁵⁴ born 1564 at Lübeck, died 1628 at Hamburg, was active as an edification-writer in various fields. Especially valuable is his ***Praxis conscientiarum,*** or "Description how one is to handle broken consciences and troubled hearts in *Anfechtungen* etc." (Hamburg, 1616) — out of which comes probably the prayer No. 331 in the *Grosser Gebetsschatz:* **"Prayer of a troubled one, who is grieved because he has, unworthily, received the holy Supper."** He also wrote — as had already Praetorius, and after him other North-Germans — in 1608 a **"Kleinod der Seefahrenden"** ("Jewel of Those Who Fare on the Sea"), an edification-book for seafarers.¹⁵⁵
+
+### §5. Valentin Wudrian (1584–1625)
+
+*Source: II a) §5, pp. 148–150. Hamburg *Hauptpastor* at St. Peter, author of the *Kreuz-Schule* — the "Cross-School" — a 30-chapter meditation-book that grew from a private compilation by a suffering Pomeranian nobleman into one of the most-read consolation-tracts of the seventeenth century.*
+
+To Hamburg leads us further:
+
+**Valentin Wudrian,**¹⁵⁶ born at Demmin in Pomerania on 23 February 1584, was from 1621 *Hauptpastor* at St. Peter in Hamburg and died in 1625. His name is borne by the **Kreuzschule** ("Cross-School"), which is still today circulated in four editions. With it stands the following origin:
+
+In Pomerania there lived a noble man. He had his aristocratic name, his fair office, high incomes, military honours, high standing in society. Then the Lord sent testings upon him. Under them he read in the Scripture, in sermon- and edification-books, and wrote down for himself what especially suited him. This he shared with his confessor **Wudrian.** He brought the disconnected pieces together, and the result is the ***Kreuz-Schule*** — which he issued at Hamburg 1631 (posthumously). The book grew into one of the most-printed Lutheran meditation-tracts of the seventeenth century.
+
+**Editions of the *Kreuz-Schule* now in print:**
+
+**1.** [The base 1631 edition, with the 30 chapters] and an appendix of 5 prayers, short biblical *Herzensseufzerlein,* and 10 hymns.
+
+**2. Christliche Kreuz-Schule, oder Ausführlicher Unterricht von dem lieben Kreuz** — Newly worked over by Emil Krautzsch, Pastor at Kropp. Verlag der Buchhandlung Ebenezer. 35 lines to the page, 8°, unbound 1 M, bound 1.50 M.
+
+Pp. 1–299 give the 30 chapters, again closed with short prayers. Pp. 300–312 give the 5 devotional prayers, then the biblical *Herzensseufzer* with 6 headings; and then 6 penitential, complaint-, and consolation-hymns. Among the *Seufzer,* several from the first edition are missing (Isa. 37:3, Jer. 14:19, Jer. 15:18); [the omission is a Krautzsch decision]. Additionally: *"O Gott des Trostes,"* which was in Ausgabe 1, is here retained; *"In JEsu freue ich mich"* is also found. In place of the 7 other [hymns of Edition 1], here 3 others. The language is more modern (also in the superscriptions); at times slightly abridged.
+
+**3. Valentin Wudrians Christliche Kreuz-Schule** — "A Consolation-Book for the Suffering and the Anfechtungs-tried." *New edition, [circa 1875, Bremen].* [Compressed to 26 chapters.] Chapters 1–12 run as in the old editions. Missing here: ch. 13 (*"Von den Exempeln der Geduld bei den Heiligen,"* the examples of patience in the saints and how we should follow them); ch. 14 (*"daß wir all unser Anliegen auf den HErrn werfen sollen,"* that we should cast all our concerns on the Lord); ch. 17 (*"vom sonderbaren Trost in Kreuz und Widerwärtigkeit,"* of the special comfort in cross and adversity); and ch. 29 (*"wieviel höher die Frommen in ihrem Unglück als die Gottlosen in ihrem Glück vor Gott geachtet sind,"* how much higher the pious are in their misfortune than the godless in their fortune esteemed before God). Pp. 155–188 give in full the prayers from the *Neukrantz* edition [1631]. Though they lack (as Westermeier says) a particular *"fulness of thought,"* they are — precisely by their simplicity, soberness, and brevity in biblical language — excellent. They are all good prayers of the seventeenth century (compare in Olearius, later Schmolck).
+
+**4.** *[A further Wudrian *Kreuzschule*-edition of the mid-19th century, briefly listed]*: 12 in part longer prayers in sickness and death-distress; then shorter morning- and evening-prayers, and various *Trostsprüche.* Each morning: a saying, a prayer, a verse, a prayer, consolation-sayings; each evening: saying, prayer, verse, prayer. Closing (pp. 187–188): *"General Intercession."*
+
+*Note: In North Germany also point to the **Hamburgische Reise- und Handbüchlein,** the Holsteiner hymn-writer **Wilhelm Alard** (†1645), **Georg Rost** (†1629, *Betschule* 1627), the **Lüneburgische Handbuch für Reisende zu Land und Wasser** (first 1612, later often enlarged to 1655/1658), the Lüneburger Superintendent **Sigmund Schererz** (driven from Bohemia, †1639), **Georg Zeämann** (†1638 as Superintendent in Stralsund after many persecutions, ***Biblischer Betquell,*** 1632; in 1630 he sat 62 weeks in Schloss Ehrenberg in Tyrol at Jesuit initiative) — whose prayers have often found their way into the prayer-collections of our own age (especially also in Löhe).*
+
+### §6. Martin Statius (1589–1656) — Danzig
+
+*Source: II a) §6, pp. 150–155. The Danzig systematiser of Stephan Praetorius's tracts — whose *Geistliche Schatzkammer der Gläubigen* (1625/1636) became one of the most-circulated devotional-anthologies of the seventeenth century and a founding-text of the later Pietist reception of Praetorius.*
+
+To Pomerania leads:
+
+**Martin Statius**¹⁵⁷ was born 1589 at Naugard in Pomerania, as son of the *Bürgermeister* Andreas Statius. From 1617 he was Deacon at St. John's Church in Danzig. In 1655 he died there emeritus [in retirement]. He produced — after a *"Vortrab der Geistlichen Schatzkammer"* (Forerunner) already sent out earlier [1625] at Joh. Heinrich Stern in Lüneburg — the systematically-ordered abridgement of the writings of **Stephan Praetorius:**
+
+> ***Geistliche Schatzkammer der Gläubigen, in welcher die Lehre vom wahren Glauben, Gerechtigkeit, Seligkeit, Majestät, Herrlichkeit, christlichen Leben und heilsamen Kreuz der Kinder Gottes, anfänglich vor 50 und mehr Jahren von M. Stephan Prätorio, weiland Pastor zu Salzwedel, stückweis an den Tag gegeben und anno 1622 zusammengesucht und zum Druck verordnet mit einer Vorrede Herrn Joh. Arnden, weiland Fürstlich Braunschweig-Lüneburgischen weitberühmten General-Superintendenten, nunmehr mit sonderlichem Fleiß in richtige Ordnung gebracht von Martin Statio, Prediger zu St. Johannis in Danzig. Luk. 17: das Reich Gottes ist inwendig in euch.***
+
+*("Spiritual Treasure-Chamber of the Believers, in which the doctrine of the true faith, righteousness, salvation, majesty, glory, Christian life and healing cross of the children of God — first, more than 50 years ago, by M. Stephan Prätorius, sometime Pastor at Salzwedel, given out piece by piece, and in the year 1622 gathered together and ordered for printing with a preface by Herr Joh. Arndt, sometime Princely Braunschweig-Lüneburg-Superintendent-General — now with particular industry brought into right order by Martin Statius, Preacher at St. John's in Danzig. Luke 17: the Kingdom of God is within you.")*
+
+This writing was soon much re-issued: 1636 [and] 1652, 1687 at Lüneburg, 1649 at Anhausen [?], and 1750 at Jena. He orders the whole in **7 books:**
+
+1. Of the treasure of the salvation of the believers (9 chapters);
+2. Of the acquirer of the treasure of salvation (4 chapters);
+3. Of the offering and taking of the treasure of salvation through the means ordained by God to this end (4 chapters);
+4. Of the seals and letters which God has given us for the assurance of the treasure of salvation (2 chapters);
+5. Of the majesty and glory of the true Christians (6 chapters);
+6. Of the healing use of the treasure of salvation (9 chapters);
+7. Of the virtue-rich life, as also of the cross and Eternal Life of the true Christians, who rightly use the treasure of their salvation (Part 1: 3 chapters; Part 2: 6 chapters; Part 3).
+
+The form is that of the catechism — in questions and long answers. Statius works as closely as possible after Praetorius; he softens some hardnesses in expression, leaves off personal and temporal [Prätorius-specific] material. Though Statius was also — on account of his writing — attacked by the strict-Lutheran clergy (among them, from 1643, **Abraham Calov** at the Trinitatis-Church),¹⁵⁸ and a **six-year pen-war** with many negotiations on the manner-and-way of the salvation (that after him is already here [in this life] the Lord's), followed — he ultimately satisfied his opponents in a statement, without, however, really recanting. For the reproaches of real heresies of *Osiandrism, Weigelianism, Antinomianism* etc. touched neither him nor Praetorius. The strife of the Orthodox over the matter continued even after Statius's death. But upon the living Christians of the Church it worked all the more; and also a new storm which arose over it in the Pietist age could not change that.
+
+**Cosack** in his monograph brings forward several witnesses precisely of the evangelical *Trost*-power of the book. In the second quarter of the seventeenth century, in the midst of the misery of the Thirty Years' War, a circle of awakened Christians worked at Cottbus. At the head stood two schoolmen: the Rektor Benedikt Müller and the Konrektor Bartholomäus Apis. Nearby lay the estate Gatlow, belonging to the family von Pannewitz, which was an outstanding member of the little-flock. A chief-source and a gathering-point for the little-flock were Stephan Praetorius's tracts. In writings appearing between 1630 and 1640 at Frankfurt on the Oder, much is referred to Praetorius, drawn from him — especially [because of] his high-lifting of the power of the blood of Christ in Baptism. At Salfeld in 1649 a *Fürstlich Amtsschösser Samuel Steiner* issued a new edition at Arnstadt (see above), which was warmly recommended by the Dresden *Oberhofprediger* Weller. At Tübingen there lived at this time a professor of medicine **Dr. Brotbeck** (†1677), an acquaintance of Spener, and he assured that his faith after the Scripture was awakened through Statius's *Schatzkammer.* **August Hermann Francke**¹⁵⁹ reports (after a Spener-communication) how a rough general was converted by his wife's reading-aloud from it; and Spener himself utters himself from 1668 onward very often over the [book].
+
+The whole [Schatzkammer] admonishes to the grasping of grace. Pp. 1–22 give the life of Praetorius and further material on his own *Handbuch;* — hints on the right use and abuse — with letters to Spener. One should never forget that Statius wished only to describe the *fruits* of grace, not how it comes to them and how one must preserve them. But that the book does not one-sidedly emphasise, for example, the power of Baptism, but requires just as much a walk answering to the living faith and a growth in the state of grace, is proved by passages such as I.II.26; I.III.18; II.I.15; III.I.12; IV.II.5; VI.IX.11–14; VI.I.10.¹⁶⁰ [Pp. 23–24] contains the *Dedication* of the author of 1 September 1635 in Danzig. [Pp. 25 ff.] follow the 7 books with — going into single detail — division. P. 521 follow 2 tractlets in which the author himself gives the kernel of this *Schatzkammer* in question and answer.
+
+*Statius's own 1642 *Wahres Christentum aus Luthero* (see n. 66 above) is treated by Große at Tranche 2 as the *Luther-anthology-counterpart* to this *Praetorius-anthology* — the two *Auszüge* (extracts) that Statius produced parallel: from Luther, the Wittenberg-Orthodox side; from Praetorius, the mystical-devotional side; and the pastoral discipline of holding these two together under one Lutheran-confessional reading is Statius's particular ministry in Danzig 1617–1655.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 4b closes here at Statius. Tranche 4c covers §§7–10: **Johannes Kolerus** (Posen/Silesia), **Valerius Herberger** (1562–1627, Fraustadt, *Passzeiger*), **Johann Heermann** (1585–1647, Köben — hymn-writer of "Herzliebster Jesu, was hast du verbrochen"), and the entrance to the great **Johann Arndt** portrait (1555–1621, source pp. 177–197, second-largest in the whole volume). Then §§11–12 Gerhard + Meyfart through the mid-checkpoint at source p. 218.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1560,6 +1624,20 @@ And so much as he stressed the *bride-relation* of the Church to Christ (the Bri
 ¹⁵² The OCR at the deathbed passage breaks; Nikolai's actual last words are preserved in **Petrus Cypraeus,** *Nachrichten von Wittenberg* (Wittenberg, 1609), and in the funeral-sermon by Nikolaus Selnecker's son.
 
 ¹⁵³ **"Der schöne Morgenstern"** — the "beautiful morning-star" — a direct allusion to Nikolai's own hymn *Wie schön leuchtet der Morgenstern* (2 Pet. 1:19). The Halle A. Bohmerus edition — with a preface by **Friedrich August Gottreu Tholuck** (1799–1877), the Halle patriarch of the mid-nineteenth-century confessional-Lutheran revival — is one of the key *Erweckungs*-editions, and its cheap reduced-price of 1.20 M places the *Freudenspiegel* within reach of the ordinary parishioner of Große's own age. Tholuck's blessing here is a Große-move linking the Halle *Erweckung* directly to the plague-generation Lutheran Orthodoxy piety.
+
+¹⁵⁴ **Georg Dedeken** (1564–1628), Lübeck-born Hamburg pastor at St. Nikolai and consistorial-preacher, one of the significant Lutheran-Orthodox pastoral-casuistical writers. His *Praxis conscientiarum* (Hamburg, 1616) is the standard Lutheran pastoral casuistry-manual of the early seventeenth century — a companion in genre to Balduin's later *Tractatus... De Casibus Conscientiae* of 1628 (see [[scholastic-lutherans-program]] pastoral catalogue).
+
+¹⁵⁵ **Kleinod der Seefahrenden** (1608) — one of the earliest Lutheran devotional-books for seafarers, following in the Praetorius-mission tradition (see n. 123 above, Praetorius's *Seefahrertrost*). The genre would flower in the 17th-18th c. Hanseatic-city devotional book-trade.
+
+¹⁵⁶ **Valentin Wudrian** (1584–1625), Demmin/Pomerania-born Hamburg pastor at St. Peter. The *Kreuz-Schule* is one of the paradigm-consolation-tracts of the Thirty Years' War period; its 30-chapter structure — with prayer + rhymed-sigh closing each chapter — became a model for later Lutheran meditation-tract writers.
+
+¹⁵⁷ **Martin Statius** (1589–1656), Naugard/Pomerania-born Danzig Deacon at St. John's. Standard modern biography: Wilhelm Cosack, *Zur Geschichte der evangelischen ascetischen Literatur in Deutschland* (Basel, 1871), the "Cosack" from whom Große draws his Statius-material.
+
+¹⁵⁸ **Abraham Calov** (1612–1686), Wittenberg professor of theology 1650–1686, one of the sharpest Lutheran-Orthodox controversialists of the late seventeenth century. His attack on Statius from the Trinitatis-Church at Danzig (1643 onward) — six years of *pen-war* — is a paradigm of the intra-Lutheran-Orthodox conflict between the strict-Wittenberg line and the *Arndt-Praetorius* mystical line.
+
+¹⁵⁹ **August Hermann Francke** (1663–1727), Halle theologian and founder of the Halle Waisenhaus + Franckesche Stiftungen; the leading figure of the Halle Pietist school. His witness that a "rough general" was converted by a woman reading Statius's *Schatzkammer* aloud is a Große-move — establishing that the *Praetorius-Statius* Lutheran-devotional line was received with warmth in the Halle Pietist orbit, further confirming Statius's mediating status between the confessional-Orthodox and the Pietist-devotional strands.
+
+¹⁶⁰ Große's book-citation-form for Statius uses **book.chapter.section** — e.g., *"I.II.26"* means Book I, Chapter II, Section 26. This system, though awkward on the printed page, is preserved in the translation as a research aid.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
