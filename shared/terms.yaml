@@ -1,0 +1,514 @@
+# Scholastic Lutherans — Master Translation Glossary
+# ═══════════════════════════════════════════════════════════════════════════
+# Living master glossary, all 22 works. Every work adds entries; entries are
+# preserved once added. Keyed by the Latin/German lemma as the source spells it.
+#
+# Fields:
+#   english      — chosen rendering (used consistently)
+#   alt          — acceptable alternates (internal QA only, do not switch)
+#   type         — musical | liturgical | theological | dogmatic |
+#                  polemical | philosophical | scholastic | rhetorical |
+#                  proper-name | biblical-ref
+#   first_use    — work-slug where first attested, and chapter
+#   note         — rationale, technical context, discipline history
+#   see_also     — cross-references to related lemmas
+#
+# Convention: entries are grouped by broad domain, then alphabetical within
+# domain. The Praetorius trilogy contributed ~250 musical entries; those live
+# in the syntagma-musicum repo's own glossary/terms.yaml. This file starts
+# with the seed of Lutheran-Orthodoxy theological vocabulary and grows.
+
+# ─── DOGMATICS — the article of Justification ───────────────────────────
+
+justificatio:
+  english: Justification
+  type: dogmatic
+  first_use: ""
+  note: >
+    The articulus stantis et cadentis ecclesiae. Preserve on formal doctrinal
+    occurrence; use English "justification" freely thereafter.
+  see_also: [sanctificatio, fides_qua, articulus_stantis]
+
+sanctificatio:
+  english: Sanctification
+  type: dogmatic
+  first_use: ""
+
+articulus_stantis_et_cadentis_ecclesiae:
+  english: Article of the Standing or Falling Church
+  type: dogmatic
+  first_use: ""
+  note: >
+    Justification. Preserve Latin on formal doctrinal invocation; use English
+    otherwise.
+
+fides_quae_creditur:
+  english: The faith which is believed
+  alt: ["fides quae"]
+  type: dogmatic
+  first_use: ""
+  note: >
+    Objective content of faith. Contrast fides_qua_creditur (subjective act).
+
+fides_qua_creditur:
+  english: The faith by which one believes
+  alt: ["fides qua"]
+  type: dogmatic
+  first_use: ""
+
+fides_historica:
+  english: Historical Faith
+  type: dogmatic
+  first_use: ""
+  note: >
+    Mere assent to historical facts of salvation history, without fiducia.
+
+fiducia:
+  english: Trusting Faith
+  type: dogmatic
+  first_use: ""
+
+simul_iustus_et_peccator:
+  english: Simul iustus et peccator
+  type: dogmatic
+  first_use: ""
+  note: Preserve untranslated. Confessional shibboleth.
+
+sola_scriptura:
+  english: Sola Scriptura
+  type: dogmatic
+  first_use: ""
+  note: Preserve untranslated. Confessional shibboleth.
+
+sola_fide:
+  english: Sola Fide
+  type: dogmatic
+  first_use: ""
+  note: Preserve untranslated.
+
+sola_gratia:
+  english: Sola Gratia
+  type: dogmatic
+  first_use: ""
+  note: Preserve untranslated.
+
+# ─── DOGMATICS — Christology ────────────────────────────────────────────
+
+unio_personalis:
+  english: Personal Union
+  type: dogmatic
+  first_use: ""
+  note: The Two Natures in Christ. Central to Lutheran vs. Reformed disputes.
+
+communicatio_idiomatum:
+  english: Communication of Attributes
+  type: dogmatic
+  first_use: ""
+  note: >
+    Preserve on all formal Christological occurrence. Central Lutheran term;
+    three genera follow.
+
+genus_maiestaticum:
+  english: Genus Maiestaticum
+  type: dogmatic
+  first_use: ""
+  note: >
+    Communication of divine attributes to the human nature. The Lutheran
+    genus that the Reformed reject.
+
+genus_apotelesmaticum:
+  english: Genus Apotelesmaticum
+  type: dogmatic
+  first_use: ""
+  note: Common operation of both natures.
+
+genus_tapeinoticum:
+  english: Genus Tapeinoticum
+  type: dogmatic
+  first_use: ""
+  note: >
+    Reformed (Ursinus, etc.) doctrine — the communication of human
+    limitations to the divine nature during the state of humiliation.
+    Lutherans reject.
+
+status_humiliationis:
+  english: State of Humiliation
+  type: dogmatic
+  first_use: ""
+
+status_exaltationis:
+  english: State of Exaltation
+  type: dogmatic
+  first_use: ""
+
+ubiquitas:
+  english: Ubiquity
+  type: dogmatic
+  first_use: ""
+  note: >
+    Lutheran doctrine of Christ's body — following from the genus
+    maiestaticum. Central to Reformed polemics.
+
+finitum_capax_infiniti:
+  english: The finite is capable of the infinite
+  type: dogmatic
+  first_use: ""
+  note: >
+    Lutheran principle. Preserve Latin on formal invocation. The Reformed
+    counter-principle is *finitum non capax infiniti* — see below.
+
+finitum_non_capax_infiniti:
+  english: The finite is not capable of the infinite
+  type: dogmatic
+  first_use: ""
+  note: Reformed principle; cite when Lutheran sources reject it.
+
+extra_calvinisticum:
+  english: Extra Calvinisticum
+  type: polemical
+  first_use: ""
+  note: >
+    Reformed doctrine of the Logos operating outside the flesh of Christ.
+    Preserve untranslated.
+
+# ─── DOGMATICS — Predestination ─────────────────────────────────────────
+
+praedestinatio:
+  english: Predestination
+  type: dogmatic
+  first_use: ""
+
+reprobatio:
+  english: Reprobation
+  type: dogmatic
+  first_use: ""
+
+praescientia:
+  english: Foreknowledge
+  type: dogmatic
+  first_use: ""
+
+praedestinatio_ante_praevisa_merita:
+  english: Predestination before foreseen merits
+  type: dogmatic
+  first_use: ""
+  note: Reformed / Augustinian-strict; Lutherans distinguish carefully.
+
+praedestinatio_post_praevisa_merita:
+  english: Predestination after foreseen merits
+  type: dogmatic
+  first_use: ""
+  note: >
+    Formula of Concord Article XI acknowledges *praescientia* of unbelief
+    but rejects merit-based predestination.
+
+decreta_absoluta:
+  english: Absolute Decrees
+  type: polemical
+  first_use: ""
+  note: Reformed strict-supralapsarian doctrine; Lutheran polemic target.
+
+scientia_media:
+  english: Middle Knowledge
+  type: dogmatic
+  first_use: ""
+  note: >
+    Molina's doctrine of God's knowledge of counterfactuals of freedom.
+    Lutheran orthodoxy variously receives or rejects.
+
+# ─── DOGMATICS — Ecclesiology, Ministry, Sacraments ─────────────────────
+
+sacramentum:
+  english: Sacrament
+  type: dogmatic
+  first_use: ""
+
+praesentia_realis:
+  english: Real Presence
+  type: dogmatic
+  first_use: ""
+  note: Lutheran doctrine of the Supper.
+
+manducatio_oralis:
+  english: Oral Eating
+  type: dogmatic
+  first_use: ""
+  note: >
+    Lutheran vs. Reformed on the Supper — that even the impious eat Christ's
+    body. Central marker.
+
+manducatio_spiritualis:
+  english: Spiritual Eating
+  type: dogmatic
+  first_use: ""
+
+manducatio_impiorum:
+  english: Eating of the Impious
+  type: dogmatic
+  first_use: ""
+
+baptismus:
+  english: Baptism
+  type: dogmatic
+  first_use: ""
+
+paedobaptismus:
+  english: Infant Baptism
+  type: dogmatic
+  first_use: ""
+
+regeneratio:
+  english: Regeneration
+  type: dogmatic
+  first_use: ""
+
+officium_ministerii:
+  english: Office of the Ministry
+  type: dogmatic
+  first_use: ""
+
+vocatio:
+  english: Call / Calling
+  type: dogmatic
+  first_use: ""
+  note: >
+    Distinguish contextually: divine call to salvation vs. ecclesiastical
+    call to office.
+
+# ─── HERMENEUTICS ───────────────────────────────────────────────────────
+
+analogia_fidei:
+  english: Analogy of Faith
+  type: dogmatic
+  first_use: ""
+  note: >
+    Central hermeneutical principle — Scripture interprets Scripture within
+    the analogy of the confessional whole.
+
+sedes_doctrinae:
+  english: Locus of Doctrine
+  type: dogmatic
+  first_use: ""
+  note: >
+    The principal biblical passage(s) in which a doctrine has its base.
+
+sensus_literalis:
+  english: Literal Sense
+  type: dogmatic
+  first_use: ""
+
+sensus_mysticus:
+  english: Mystical Sense
+  type: dogmatic
+  first_use: ""
+
+sensus_allegoricus:
+  english: Allegorical Sense
+  type: dogmatic
+  first_use: ""
+
+# ─── SOTERIOLOGY ────────────────────────────────────────────────────────
+
+satisfactio_vicaria:
+  english: Vicarious Satisfaction
+  type: dogmatic
+  first_use: ""
+  note: The Anselmic atonement doctrine as received by Lutheran orthodoxy.
+
+causa_meritoria:
+  english: Meritorious Cause
+  type: scholastic
+  first_use: ""
+
+causa_impulsiva:
+  english: Impulsive Cause
+  type: scholastic
+  first_use: ""
+  note: Distinguished internal vs. external.
+
+causa_instrumentalis:
+  english: Instrumental Cause
+  type: scholastic
+  first_use: ""
+  note: >
+    Of justification — the Word and Sacraments as instruments of grace.
+
+media_salutis:
+  english: Means of Salvation
+  type: dogmatic
+  first_use: ""
+
+# ─── LAW AND GOSPEL ─────────────────────────────────────────────────────
+
+lex_et_evangelium:
+  english: Law and Gospel
+  type: dogmatic
+  first_use: ""
+
+usus_paedagogicus:
+  english: Pedagogical Use of the Law
+  type: dogmatic
+  first_use: ""
+
+usus_politicus:
+  english: Political (Civil) Use of the Law
+  type: dogmatic
+  first_use: ""
+
+usus_didacticus:
+  english: Didactic Use of the Law
+  type: dogmatic
+  first_use: ""
+  note: >
+    Called *tertius usus legis* (third use) in Formula of Concord Article VI.
+
+# ─── CASUISTRY — for Balduin's ***De Casibus Conscientiae*** ─────────────
+
+casus_conscientiae:
+  english: Case of Conscience
+  type: dogmatic
+  first_use: ""
+  note: >
+    In Balduin's tractate preserve *casus* throughout — it is the subject
+    of study.
+
+conscientia_recta:
+  english: Right Conscience
+  type: dogmatic
+  first_use: ""
+
+conscientia_probabilis:
+  english: Probable Conscience
+  type: dogmatic
+  first_use: ""
+
+conscientia_dubia:
+  english: Doubtful Conscience
+  type: dogmatic
+  first_use: ""
+
+conscientia_erronea:
+  english: Erroneous Conscience
+  type: dogmatic
+  first_use: ""
+
+conscientia_scrupulosa:
+  english: Scrupulous Conscience
+  type: dogmatic
+  first_use: ""
+
+casus_necessitatis:
+  english: Case of Necessity
+  type: dogmatic
+  first_use: ""
+
+# ─── POLEMICAL VOCABULARY ───────────────────────────────────────────────
+
+adiaphora:
+  english: Adiaphora
+  type: polemical
+  first_use: ""
+  note: Preserve untranslated. Central to 16th-c. Interim controversies.
+
+syncretismus:
+  english: Syncretism
+  type: polemical
+  first_use: ""
+  note: >
+    Central to Dannhauer's ***Mysterium syncretismi*** and to Calixtine
+    polemics generally.
+
+consensus_quinquesaecularis:
+  english: Consensus of the First Five Centuries
+  type: polemical
+  first_use: ""
+  note: >
+    Calixtine irenic principle — that the first 5 c. of the Church furnish
+    a sufficient doctrinal norm. Lutheran orthodoxy sharply rejects.
+
+articuli_fundamentales:
+  english: Fundamental Articles
+  type: polemical
+  first_use: ""
+  note: >
+    Calixtine distinction between fundamental and non-fundamental doctrines
+    of faith.
+
+fundamentaltheologie:
+  english: Fundamental Theology
+  type: polemical
+  first_use: ""
+
+# ─── SCHOLASTIC METHOD ──────────────────────────────────────────────────
+
+reduplicative:
+  english: Reduplicatively
+  type: scholastic
+  first_use: ""
+  note: >
+    Distinct from ***specificative***. Scholastic distinction on modes of
+    predication.
+
+specificative:
+  english: Specificatively
+  type: scholastic
+  first_use: ""
+
+analogia_entis:
+  english: Analogy of Being
+  type: scholastic
+  first_use: ""
+  note: >
+    Roman Catholic scholastic doctrine; Lutheran orthodoxy variously
+    engages (Gerhard, Calov) or rejects (Dannhauer).
+
+concursus_divinus:
+  english: Divine Concurrence
+  type: dogmatic
+  first_use: ""
+  note: >
+    Providence — how God concurs with created causes. Central to
+    predestination and to human freedom debates.
+
+# ─── CONFESSIONAL AND ECCLESIASTICAL VOCABULARY ─────────────────────────
+
+concordia:
+  english: Concord
+  type: dogmatic
+  first_use: ""
+  note: >
+    Both the general concept and the confessional documents. Preserve for
+    ***Formula Concordiae*** and ***Book of Concord***.
+
+formula_concordiae:
+  english: Formula of Concord
+  type: dogmatic
+  first_use: ""
+  note: Preserve Latin.
+
+corpus_doctrinae:
+  english: Corpus Doctrinae
+  type: dogmatic
+  first_use: ""
+  note: The 16th-c. Lutheran confessional collections.
+
+kirchenordnung:
+  english: Church Ordinance
+  type: dogmatic
+  first_use: ""
+  note: German source term; preserve when the source is German.
+
+landeskirche:
+  english: Territorial Church
+  type: dogmatic
+  first_use: ""
+
+symbolum:
+  english: Confession (of faith)
+  alt: [Creed]
+  type: dogmatic
+  first_use: ""
+
+# ═══════════════════════════════════════════════════════════════════════════
+# END OF SEED. Every completed work appends its own new entries here.
+# ═══════════════════════════════════════════════════════════════════════════

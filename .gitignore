@@ -1,0 +1,26 @@
+# Scholastic Lutherans — .gitignore
+# ═══════════════════════════════════════════════════════════════════════════
+# All-private working repo. Build artifacts and heavy sources not tracked.
+
+# Build artifacts (regenerated from MD)
+**/review/*.docx
+**/review/*.pdf
+
+# Source scans — kept locally but not tracked (often huge PDFs and JP2s)
+**/sources-original/
+
+# Temp / editor
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+*.swp
+
+# LibreOffice profile crumbs
+lo-profile-*/
+
+# Python / venv (if any script tooling develops)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
