@@ -1473,7 +1473,126 @@ Arndt's language is indeed not especially gripping, as Herberger's; he keeps him
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 4d closes here at Arndt. Tranche 4e (or a new chat) takes up the closing of the Arndt entry (source pp. 187–197 with 4-book contents-and-editions catalogue + *Paradiesgärtlein* + Böhme-excursus), then §11 **Johann Gerhard** (1582–1637 with the *Geistliche Übungen* and *Meditationes sacrae*) and §12 **Johann Matthäus Meyfart** (1590–1642, Erfurt/Coburg — *Tuba novissima* and *Höllenpforte*) — closing the Lutheran-Orthodoxy tranche at the mid-checkpoint at source p. 218.]*
+#### The *Paradiesgärtlein* — the Prayer-Book
+
+**Of like — if not higher — worth than the *Wahres Christentum* is his prayer-book, the *Paradiesgärtlein.*** Its treatment is inseparable from that of the former, since it is mostly spread in one volume with *Wahres Christentum* already from 1612 onward.
+
+**Arndt's *Paradiesgärtlein* is, since Habermann, the most significant prayer-book of our Church,** and became with Habermann for a long time that which enthused all pious pray-ers and served as their favourite prayer-book. **It is, with Habermann, not surpassed even today,** and no greater prayer-collection is conceivable from the time of its origin up to today which does not use its prayers. Also in *churchly* use they passed over: it may only be recalled the 13th–16th prayer of Class 2, which found in the Passion-liturgy manifold reception:
+
+- **13. Contemplation of the person who suffers and of the causes of the suffering of JEsus Christ:** *"Ah my God and my Lord! Let me know and consider..."*
+- **14. Thanksgiving for the suffering of JEsus Christ and for the reconciliation with God:** *"Ah Lord JEsu Christe, thou holy, tender, undefiled and innocent Lamb of God..."*
+
+How many prayer-books have not passed out of the 2nd Part of the *Paradiesgärtlein* the morning- and evening-blessings (1, 2) and the Supper-prayers (10, 11, 12)!
+
+*[Arndt is very richly represented in our prayer-collections. Naumburger *Allgemeines ev. Gebetbuch* Nos. 24 (Passion-prayer), 50 (Easter), 58 (etc.); Löhe *Samenkörner* has him repeatedly.]* Arndt himself says he prays only for a right pray-er a holy life, in daily repentance, in faith and in the fear of faith, and to bring to growth in the spiritual life.
+
+He arranged in the *Paradiesgärtlein* — "**voller christlicher Tugenden, wie solche zur Übung des wahren Christentums durch andächtige, lehrhafte und trostreiche Gebete in die Seele zu pflanzen**" ("full of Christian virtues, how they are to be planted into the soul, for the practice of true Christianity, through devout, doctrinal, and consolation-rich prayers") — **the prayers in 5 Classes.** They are indeed long and written *to teach one how to pray,* how through prayer to fetch strength for the virtues. But they are yet by no means dry; one notices in them rather that in them Arndt himself has so prayed. He prayed them repeatedly in the plague- and other misery-times. Yea, the very fulness of thoughts, the constant crossing-over of adoration and the actual petition, praise, and thanksgiving; the therefore often lacking connexion, the missed inner unity and logic, the frequent [repetitions] — point to the fact that we have here no *made-up* prayers, but prayers that have grown out of Arndt's own prayer-spirit. **Therein lies their power, therein their influence** — therefore the Christian people, that once knows them and really prays them, holds them so high.
+
+**Beck** in the already-mentioned Introduction (p. XLVII ff.) has set them a glorious memorial, chiefly the morning- and evening-blessings.
+
+Beck adds: *"After the delicious plan of the thought-course of the evening-blessing:¹⁸³ 'Later study of the writings of Arndt has often quickened me the perception that he in countless passages goes back always again to the same facts and thoughts of the evening-blessing and the corresponding morning-blessing, or points to them. These prayers are therefore evidently intertwined with his innermost personal faith-life in the closest way.'"* And in the note: *"The adoration of God takes in Arndt the rank due to it, which — in the churchly-usual liturgical orderings and still more in the private prayer of Christians and in his personal prayer — is unfortunately often withheld from it."*
+
+**Beck** further lifts from the prayers especially the ***"holy Lord's Prayer, comfortingly expounded"*** — wherein, after Luther's and Melanchthon's manner, the several petitions are unfolded into prayers (III, 12).
+
+Of the power which drew, in Arndt's *Paradiesgärtlein,* to adoration, speaks also his influence on the church-hymn. **Paul Gerhardt** received from it the thoughts for **six hymns:**
+
+- III, 23. *"Ach, treuer Gott, barmherziges Herz"* (Ah, faithful God, merciful heart)
+- III, 24. *"Barmherziger Vater, höchster Gott"* (Merciful Father, highest God)
+- III, 17. *"Ich danke dir demütiglich"* (I thank thee humbly)
+- III, 87. *"Wie lang, o HErr, wie lange soll"* (How long, O Lord, how long shall)
+- I, 14. *"HErr, aller Weisheit Quell und Grund"* (Lord, source and ground of all wisdom)
+- I, 34. *"JEsu, allerliebster Bruder"* (JEsu, most-beloved Brother).¹⁸⁴
+
+Besides these, Gerhardt's other hymns often touch in the closest way the basic-thoughts in Arndt's prayers. **Hiller** poeticised the whole into hymns at Nürnberg 1729–1731. Of the 297 hymns some — like *"HErr von unendlichem Erbarmen"* (Class III, 6: *Thanksgiving for the eternal election of grace*) — have preserved themselves also as church-hymns.
+
+#### Editions of Arndt's *Vier Bücher vom Wahren Christentum + Paradiesgärtlein* in Print
+
+**1. Johann Arnds, weiland Generalsuperintendent des Fürstentums Lüneburg, vier Bücher vom Wahren Christentum**, together with the *Paradiesgärtlein.* Unchanged reprint. Berlin, Ev. Bücherverein (Hauptverein für christliche Erbauungsschriften, Klosterstraße 65/67). 13th ed. 1838, 542 + 196 pp, 52 lines. Paper 1.60 M, half-cloth 2.40 M, half-leather 2.80 M, leather with gilt edge 4 M. Small type, chiefly in the prayers of the four books.
+
+After the preface and the contents-overview stand pp. 11–532 the four books, following Arndt's original arrangement (which he did not, however, follow with sharp connexion — for he did not write according to a previously-drawn-up plan, but *"after his heart's thoughts"*). The four books:
+
+1. **Liber Scripturae** ("Book of Scripture") — 42 chapters (pp. 10–152). How in a true Christian the old Adam is daily to die, and Christ in him is to live; and how he is to be renewed in the image of God daily and to live in the new birth.
+2. **Liber vitae Christi** ("Book of the Life of Christ") — 58 chapters (pp. 153–376). How Christ's incarnation, love, humility, meekness, [passion], dying, cross, shame, and death are the medicine and healing-well of our souls, mirror and book of our life; and how a true Christian is to overcome sin, death, devil, and all tribulation through faith, prayer, patience, sanctification, and heavenly comfort — all this in Christ Jesus, through his power, strength, and victory in us.
+3. **Liber conscientiae** ("Book of Conscience") — 28 chapters (pp. 377–433). How God — the highest Treasure — has his Kingdom in the heart of man as a hidden treasure in the field, as an inward Light of the soul; and how the same is to be awakened and sought.
+4. **Liber naturae** ("Book of Nature") — 91 chapters (I: 6 chapters + II: 40 chapters + III + IV + V; pp. 434–532). How the world-book of Nature witnesses of God and leads to God.
+
+Each chapter is divided into small sections and contains a superscription. It ties to a Bible-passage. To each is added a mostly-shorter prayer (with special superscription for what is being prayed). The prayers of the four books — composed *in Arndt's spirit,* in holy, clear, comforting form — are by *Generalsuperintendent Fischer* (Halberstadt) and are found first in an edition appearing at Riga in 1679; from then on they are always added. Holy Scripture is drawn extremely richly into the treatise.
+
+Pp. 538–542 contain a register with the superscriptions, and one with the [text-]passages for the Gospels of the church-year.
+
+Further joins itself — as with all editions — Arndt's ***Paradiesgärtlein voller christlicher Tugenden***, with threefold register (pp. 161–186; one according to order, one according to the Gospels, one according to the articles of the Christian religion). After pp. 3–11 (dedication and preface *"on right prayer-art"*) follow:
+
+1. **Virtue-prayers after the Ten Commandments** — 48 prayers (pp. 12–63), with prayers for various circumstances and estates as sub-parts to the 3rd and (especially) the 4th commandment;
+2. **Thanksgiving-prayers for the benefits of God the Father, the Son, and the Holy Spirit** — beginning with morning- and evening-blessings, containing Sacraments and much Passion-prayer, as well as other feast-time-prayers, 29 prayers (pp. 63–96);
+3. **Cross- and Comfort-prayers** — 49 (pp. 97–164), including three short prayers in death-distress (pp. 99–101), many confession-prayers. Appended to No. 104, containing Nos. 105–118: *"Spiritual soul-medicine against the abominable plague of pestilence and other punishments"* in 4 chapters, joined with prayers in death-times. Before No. 114 stands the super-scription: *"The holy Christian faith comfortingly expounded prayer-wise"* (114–116). To this class belongs also 121: **Prayer in war-distress and against the Turk;** 123 and 124: weather-prayers.
+4. **Office-prayers** are named as the 4th Class, but through the register they are to be sought from the other classes;
+5. **Praise- and Joy-prayers to God's praise and honour** — 15 (pp. 164–179), where Nos. 139, 140 are two Latin hymns; 141, 142 two German — the 1st a translation of 140 (*"O JEsu süß, wer dein"*), and the 2nd *"Ach Gott, wie manches Herzeleid"* (probably both from Martin Moller).
+
+#### Other Editions
+
+**2. Rauhes Haus Hamburg edition** — 1853, unbound 1.50 M (without *Paradiesgärtlein*), gr. 8°, 49 lines to the page, format slightly smaller than No. 1; 612 pp. Each book carries its own separate title-page. The Latin words and sentences are not here included, nor a Gospel-register. The edition of the 4 books is otherwise similar. *[The *Paradiesgärtlein* to this edition is separately given.]*
+
+**3. Widely-spread (chiefly by Jäger & Robert in Stuttgart) is the beautiful edition of the 6 books** — with the *Paradiesgärtlein:*
+
+**Johann Arndts, des hocherleuchteten Lehrers, weil. Generalsuperintendent des Fürstentums Lüneburg, sechs Bücher vom Wahren Christentum nebst dessen Paradiesgärtlein.** With the life-description of the blessed man, together with his portrait and 57 *Sinnbilder* ("emblem-pictures"). New stereotype 14th impression. Stuttgart, Druck und Verlag von J. F. Steinkopf. LXIV, 532 + 236 pp, gr. 8°, 42 lines, in Fraktur type on white paper. 3.40 M paper, bound 4.80 M.
+
+A very fine, thorough life-description of Arndt runs through 9 chapters: **1.** the distress of the Church and the faithfulness of God (a brief account of the history of Christian life since the Reformation — treating one-sidedly the doctrinal-conflicts as detracting from life; and setting Paracelsus, Weigel too high by way of contrast); **2.** the youth- and formation-history of Arndt; **3.** the work-field with abundant Arndt-material and quotations; **4.** Arndt's writings, together with the sufferings and joys their publication caused, with the reception of 9 defense-letters (1st to Kurfürst Christian I; 2nd to an unknown friend; 3rd to Joh. Gerhard in Heldburg; 4th to Bucher in Stade; 5th and 6th to Herzog August the Younger; 7th to Menter in Gießen; 8th and 9th to Piskator in Jena — here materially ordered); **5.** looks into Arndt's private life; particular character-traits (letter to Joh. Gerhard on his wife's death; his testament of 1610 at Eisleben and 1616 at Celle); **6.** blessed home-going; **7.** account of the divine blessing and the remarkable preservations that were granted to Arndt's writings (with reference to the 16 or 17 miraculous preservations,¹⁸⁵ and narrative of some); **8.** testimonies of enlightened men of God about Arndt and his writings (Heinrich Müller, Dannhauer, Spener, Andreä, Leyser, Glassius, Francke, Bengel, Storr); **9.** instruction on how to use Arndt's *Wahres Christentum* in a right manner (9 rules that Joh. Christ. Storr once added to his edition).
+
+**The 57 *Sinnbilder* pictures** appended to Books 1–4 are notable. First appearing in the Riga 1679 edition; here freshly drawn by P. Schnorr, Stuttgart. In Arndt's sense and spirit they tie especially to simple, well-known events in Nature or instruments from natural-lore (Sun, Light, etc.), and with their short motto, description, and verses give much to reflection. They stem from a **Royal-Swedish Commissar Dunt,** while the verses come from a **Königsberg secretary Meyer,** and are spread in most editions with Fischer's prayers. The verses are poetically of little significance — simple, child-rhymed prose, in figured form uniformly printed. Also without explanation one could not understand the pictures, as in many of them a movement is brought that in the picture cannot be expressed, and the essentials are often only to be guessed from the picture.
+
+The work follows in beautiful, medium-large type: pp. 1–184 Book 1, pp. 185–460 Book 2, pp. 461–529 Book 3, pp. 530–654 Book 4. Paul Gerhardt's spring-hymn is set as an appendix to Book 4, ch. 3; and to Book 3, ch. 6 the hymn *"Ach, was mach ich in den Städten."*
+
+*[Große continues with the further Steinkopf-edition contents on pp. 191–197: the material for Books 5 and 6 — Arndt's *defense-letters* and the *supplements* on Tauler, the *Deutsche Theologie,* and Nachfolge Christi, and the *doppeltes Testament* of 1610 and 1616 — followed by three registers.]*
+
+**4. The Christlicher Zeugendruck edition of Gernsbach** (Christlichen Verein zum Ritter, Gernsbacherstraße 9): the 6 books with *Paradiesgärtlein.* XVII + 959 + 185 pp, unbound 3.60 M plus 80 pf for the binding-cover. Fine, calendered, wood-free paper; larger, wider type; quarto format. The prayers only are smaller and closer set; the treatise is wide and legible, two-columned, 39 lines to the page.
+
+**5a. *Paradiesgärtlein* only, cheap edition** — Reutlingen (E. Kurtz, now Fleischhauer & Spohn). 1.70 M half-leather or 1.80 M with clasp, 416 pp, 35 lines. Also spread by Wilhelm Baur (half-leather 1.70 M). Contains: 14 *wondrous stories* of Paradiesgärtlein-preservations in fire and water; then the five classes of prayers, followed by 3 registers. *[Different arrangement: the *Spiritual Soul-Medicine* is here made the 4th Class, and the *Office-prayers* are not separately catalogued but distributed.]*
+
+### §11. Johann Gerhard (1582–1637)
+
+*Source: II a) §11, pp. 197–211. The greatest of the Lutheran-Orthodox dogmaticians and — through his *Meditationes sacrae* and *Geistliche Übungen* — one of the significant devotional writers of the age. Große treats him as the intellectual counterpart to Arndt: Gerhard receives the Arndt-mystical strand into the Wittenberg-Orthodox dogmatics without compromising either.*
+
+**Johann Gerhard**¹⁸⁶ was born at Quedlinburg on 17 October 1582, son of the *Ratsherr* Bartholomäus Gerhard. In his sixteenth year he was seized by a serious illness. At his side stood Arndt, and this decided him for theology. In 1599 he entered the University of Wittenberg, where he was Melanchthon's grand-student; then Jena and Marburg. He worked over deep depression through Arndt's counsel, and won a certainty of grace that stayed with him.
+
+In 1605 he became superintendent at Heldburg (Coburg territory); in 1615 general-superintendent at Coburg; in 1616 professor of theology at Jena, where he stayed to his death on **17 August 1637.** His son Johann Ernst Gerhard succeeded him at Jena.
+
+**Gerhard**'s greatest work is the ***Loci theologici*** (Jena, 1610–1622) — the nine-volume dogmatic corpus of Lutheran Orthodoxy, the reference-standard for the whole century and beyond.¹⁸⁷ For our purpose, however, more important are his devotional writings.
+
+**Meditationes sacrae** (Jena, 1606) — 51 sacred meditations composed in his own hand for personal devotion, printed at the urging of friends. Went through countless editions and translations. Latin devotional-form; the ***Geistliche Übungen*** are his own German expansion and rendering. Standard modern edition: **Johann Anselm Steiger**, *Meditationes sacrae* (Stuttgart, 2000).
+
+**Postille** — Gerhard's sermon-collections. **Erklärung der Historie des Leidens und Sterbens JEsu Christi** (Frankfurt, 1611) — 43 Passion-meditations in the manner of Arndt-Moller.
+
+**Schola pietatis** (Jena, 1622–1623) — five books on personal devotion. Compendium of Lutheran-devotional theology in six parts (grounds; means; particular exercises; conflicts against sin; conflicts against death; the devotional life-goal).
+
+Editions of Gerhard's *Meditationes sacrae* in current print: Steinkopf Stuttgart; the *Predigt der Kirche* series (No. 9, ed. Wilhelm Rocholl); *Christlicher Zeugendruck* Gernsbach.
+
+### §12. Johann Matthäus Meyfart (1590–1642) — Erfurt / Coburg
+
+*Source: II a) §12, pp. 212–218. The Coburg-Erfurt theologian, hymnist of "Jerusalem, du hochgebaute Stadt," author of the *Tuba novissima* — the "last trumpet" — a 17th-century apocalypticist. Große closes Section II a) at Meyfart before the mid-checkpoint.*
+
+**Johann Matthäus Meyfart**¹⁸⁸ was born on 9 November 1590 at Jena, son of a Lutheran pastor. He studied at Jena under Gerhard, and Wittenberg. He was called in 1616 as *Konrektor* at the Gymnasium at Coburg, in 1618 as professor at the Casimirianum. Under Meyfart the Casimirianum became a devotional academy. In 1633 he became professor of theology and General-Superintendent of Erfurt.
+
+He is best known as author of **"Jerusalem, du hochgebaute Stadt"** — one of the greatest eschatological hymns of the Lutheran tradition, still today at *EG* No. 150.¹⁸⁹
+
+**Meyfart's writings** are dominated by an eschatological expectation:
+
+**1. Tuba novissima** ("Latest Trumpet") — 4 sermons, Coburg 1626, on the resurrection of the dead and the final judgement. Reissued Berlin (Otto Wigand, ed. Elias Steinmeyer), 1851 — with the four sermons on: the death of the pious; the resurrection of the pious; the last judgement; the joy of the elect in eternal life. Große: *"A finer, more moving little book of the Last Things scarcely exists in our Church."*
+
+**2. Höllenpforte** ("Gate of Hell") — the eschatological warning-book, on the judgement of the wicked. Companion piece to the *Tuba.*
+
+**3. Christenpflicht** — 12 sermons on Christian duty.
+
+**4. Meyfart's Postille** and the funeral-sermon collection.
+
+Meyfart died at Erfurt on **26 January 1642.** In him the Lutheran Orthodoxy's eschatological hope reaches its literary height: from his hymn to his sermons runs one theme — *the last trumpet, the coming judgement, the citizens of the heavenly Jerusalem.*
+
+*Section II a) closes here at Meyfart, source p. 218.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 4 CLOSES at Meyfart, source p. 218 — the **mid-checkpoint** of the Wegweiser and the natural pause point for **build #1 of 2** (which remains unspent, to be triggered at Cheri's direction). Remaining work: Tranche 5 (II b) *Blütezeit der lutherischen Erbauungslitteratur 1648–1680* pp. 218–306) — Lütkemann, Müller, Scriver, Lassenius, Fibicius, Württemberg-Bibel, Rittmeyer, Quirsfeld, Pfeiffer, Dilherr. Tranche 6 (II c) *Ausgang der nüchternen Orthodoxie und Anfang des Pietismus 1680–1700* + III a) opening) — Spener, Schade, Starck, Fresenius, Rambach, Francke, Bogatzky, Steinmetz, Porst. Tranche 7 — Radikale + Herrnhut + Württemberger + Vertreter der Iuth. Orthodoxie im Pietismus-Zeitalter (Neumann, Schmolck, Cober, Woltersdorf). Tranche 8 — III b) *Ausgang* 1750–1800 (Goeze, Erhardt, Claudius, Lavater, Nies, Zollikofer, Zschokke) + closing reflections. Tranche 9 — Anhang I (Rutherford, Baxter, Bunyan, medieval Postillen) + Anhang II (tabular overviews + folding chronology) + Nachträge + final build #2 of 2.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1858,6 +1977,20 @@ Arndt's language is indeed not especially gripping, as Herberger's; he keeps him
 ¹⁸¹ **Valentin Weigel** (1533–1588), Saxon pastor and mystical writer whose posthumous 1612ff. writings — read only after Arndt had used them — became one of the sources of the 17th-c. **Weigelianismus** movement. Weigel's mystical-pantheism was decisively rejected by the strict-Wittenberg Lutheran Orthodoxy. Große is here careful to note that Arndt used only an anonymous 1606 manuscript (not knowing the author) — a defense against the strict-Wittenberg accusation of *Weigelianism.*
 
 ¹⁸² **Albrecht Ritschl** (1822–1889), Göttingen theologian and founder of the *Ritschl-school* — the liberal-Protestant theological school that dominated late-19th-c. German Protestantism. Ritschl's rejection of both Roman-Catholicism and of the *fellowship-mysticism* of Lutheran Orthodoxy (including Arndt) is one of the fundamental conflicts of Große's own age. Große's polemical alignment here — *"Ritschl and his school... smell Catholicism there straight away"* — is a characteristic late-19th-c. confessional-Lutheran anti-Ritschlian move. The reference to **Haβbagen's Introduction** — probably F. Th. J. von Hahn, though the OCR is unclear — is to a *Predigt der Kirche*-series volume in which the anti-Arndt-Ritschlian position is set out.
+
+¹⁸³ **Beck's prose on Arndt's morning/evening blessings** — Große quotes his own teacher Johann Tobias Beck (see n. 17, 126 above) at length here. Beck's evaluation of Arndt's *Paradiesgärtlein* as intertwined with Arndt's *innermost personal faith-life* is one of the significant appreciations of Arndt from within the Tübingen-Biblicist school.
+
+¹⁸⁴ **Paul Gerhardt** (1607–1676), Berlin court-preacher and greatest of the seventeenth-century Lutheran hymn-writers. Big's six-hymn indebtedness to Arndt's *Paradiesgärtlein* prayer-material is a well-established feature of Gerhardt scholarship; the reception-line is Arndt → Paradiesgärtlein → Gerhardt → Bach cantatas. Gerhardt's own portrait belongs to the following century's Blütezeit-tranche, but Große touches him here through the Arndt-connexion.
+
+¹⁸⁵ **The 16-17 wondrous preservations of the *Paradiesgärtlein*** — a small hagiographical tradition of copies of Arndt's prayer-book surviving fires, floods, and shipwrecks unscathed. Preserved in the various nineteenth-century Steinkopf and Reutlingen editions as a devotional appendix. **Johann Jakob Rambach** (1693–1735), Halle theologian and hymnist, added 16 of these narratives to his edition; the 17th was added by the Schaffhausen edition.
+
+¹⁸⁶ **Johann Gerhard** (1582–1637), Jena professor, greatest of the Lutheran-Orthodox dogmaticians. Standard modern biography: Johann Anselm Steiger, *Johann Gerhard (1582–1637): Studien zu Theologie und Frömmigkeit des Kirchenvaters der lutherischen Orthodoxie* (Stuttgart, 1997). Große treats Gerhard as the *intellectual counterpart* to Arndt — the strand of Lutheran Orthodoxy that received the Arndt-mystical devotional emphasis and set it into disciplined dogmatic form.
+
+¹⁸⁷ **Loci theologici** (Jena, 1610–1622) — Gerhard's 9-volume dogmatic corpus, the reference-standard of Lutheran Orthodoxy. Modern critical edition ed. E. Preuss (Berlin, 1863–1875); text also in Gerhard's *Confessio Catholica* (1633). Cross-reference to the [[scholastic-lutherans-program]]: Gerhard's *Loci* stand as one of the foundational Wittenberg-Orthodox dogmatic works, alongside Chytraeus (already complete) and Quenstedt (in progress).
+
+¹⁸⁸ **Johann Matthäus Meyfart** (1590–1642), Jena-Coburg-Erfurt theologian, hymnist, and eschatologist. Modern-critical study: Erich Trunz, *Johann Matthäus Meyfart. Theologe und Schriftsteller in der Zeit des Dreißigjährigen Krieges* (Munich, 1987). His witch-persecution polemic (*Christliche Erinnerung, wo und wie man die grausamen Prozessen gegen die vermeinten Hexen und Zauberer moderieren solle*, 1635) makes him one of the earliest German-Lutheran opponents of the witch-trials.
+
+¹⁸⁹ ***"Jerusalem, du hochgebaute Stadt"*** — Meyfart's great eschatological hymn, first printed in his *Tuba novissima* (Coburg, 1626) closing sermon. Text at *EG* 150. Melodic setting by Melchior Franck. One of the standard funeral- and All-Saints'-hymns of the Lutheran tradition.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
