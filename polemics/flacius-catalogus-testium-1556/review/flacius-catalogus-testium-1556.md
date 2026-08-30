@@ -308,7 +308,51 @@ These things now, briefly, I wished to say by way of preface to the present Work
 
 # The Catalogue of Witnesses
 
-*To be populated tranche by tranche. See* `notes.md` *for the chronological tranche plan; the plan is to be re-cut to Flacius's own division once the 1556 imprint is sighted.*
+*The 1556 imprint carries as its body-title, at the head of `vl0001`:*
+
+> **TESTES VERITATIS, QVI ANTE NOSTRAM aetatem uixerunt: siue Catalogus scriptorum, qui Papae ante Lutherum reclamarunt.**
+>
+> **Witnesses to the Truth who lived before our age: or, a Catalogue of writers who spoke against the Pope before Luther.**
+
+*The body of the volume is a single running chronological catalogue, without book- or century-division. This working translation preserves Flacius's own arrangement. Entries below follow the source's own order, with source-page cross-references given as* vl####.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Sanctus Petrus
+
+### *St Peter* — vl0001–vl0007
+
+I know I do injury to the divine Peter, if I shall call him either a Pope, or an antecessor of these popes, and especially if I shall have called him a kind of founder and author of that pestilential see. For what I have declared on his Roman episcopate elsewhere at sufficient length — and above all in the history of the Sixth Carthaginian Synod⁴¹ — [I need not repeat here]. Nonetheless, since Antichrist and his impious rabble absolutely will have it that Peter is their *choragus*, their *praecentor*, or their *praesultor*⁴² — and since God is sometimes wont to depict in his own saints even the evils that would follow: as some learned men not ineptly write, Christ, by his sleep in the ship being tossed on the Jewish sea, wished to signify that if ever in the greatest difficulty and peril of the Church, the bishops would be sleeping softly on the cushion of the opulence of the Church's goods⁴³ — since therefore it is verisimilar, that in some of Peter's very acts, or even sins, the life and government of the Roman bishops are depicted and as it were prefigured: and since the adversaries with so great study heap up and preach whatever things anywhere in the sacred letters are truly, or verisimilarly, said in Peter's commendation: I do not think I shall do absurdly, or unusefully, if here at the very beginning I collect and enumerate all those things in which Peter can be seen not only to have sinned, but also to have prefigured and depicted the Roman Popes.
+
+**First**, it cannot be denied that Peter was of humble family and condition, and illiterate: and Popes for the most part come to that tyranny gradually by evil arts from the lowest dregs, and have generally been most-unlearned asses.⁴⁴ Not indeed was this shameful to Peter, nor to be reproached him: since we all are equally created to the image of God, and men in every condition and way of life can please God: and God is wont to adorn even homunculi of no consequence with the most-ample gifts, and to make them suitable to the preaching of the Gospel — as he did above all in the Apostles and Prophets. And finally, [Peter was not called] to the powers, might, and rule of this world, for which nobility of family, insignal authority, and other letters and good arts undertaken from tender exercises are necessary. But it is shameful for the Popes that they are both illiterate and ignorant of so great a function as the rule of the whole Church — since indeed the languages and other gifts necessary to the ministry are no longer given us as of old, but must be learned by study and labour — and that ignobles are borne with headlong ambition to seize for themselves the empire and rule of the whole earth.
+
+**Shameful** also, that — utterly forgetful of their own cradles and their own dirt — as soon as they have taken up that triple crown,⁴⁵ they burst into such loftiness and pride that they do not fear to thrust their stinking feet, with truly-barbaric and tyrannical insolence, upon Kings and Caesars to be kissed: while God however, even through their own Peter — whose successors they would rather have themselves seen to be — commanded them to obey and be subject to all magistrates and kings.⁴⁶
+
+**Secondly**, it cannot be denied that Peter laboured some times with ambition and greed for power. For — to say nothing here of those disputes about primacy which he often undertook with the other apostles⁴⁷ — I would not want to charge on Christ that he had left all things for his sake, and to demand and to stipulate a certain reward — which then Peter carnally dreamed of — when nothing but misery and poverty was promised in return. By this imbecility of Peter's it is doubtless signified that the bishops who glory in Peter's succession, likewise — indeed in infinite parts — will labour with greater ambition.
+
+**Thirdly**, Peter not understanding the mystery of Christ's passion, and the benefit thence to come to the human race: but wholly immersed in the cogitation, hope, and cupidity of human power, which he expected from the Messiah's kingdom — audaciously rebukes Christ, Matt. 16,⁴⁸ that he is prepared to suffer for the human race. But Christ severely repels him, casting up to him his ignorance and contempt of divine things, and his cupidity of human power — for the Greek word *φρονεῖν* [phronein] carries this — such as, if it be diligently weighed, would be a scandal even to the Lord himself. Wherefore he even calls him *Satan*, and repels him by colloquy.⁴⁹ By which perverse ambition of the adversaries — that it was straightway followed by them, when they will have it that primacy was given to Peter, or in particular the greatest diligence-of-observation ought to bestow: they will not, of course, be able to animadvert, that some privilege was given to Peter also, and some primacy — as they call it — but that it not so given, nor would have been given, but by Christ rejected.⁵⁰ Whence also this so perverse ambition of Peter, and, in ignorance now-in-negligence, that Christ so ipsissimum-satanically calls him, so as suddenly to signify that that egregious praise doubtless-Roman-episcopate-of-which as first, and of prerogatives Petrine-heir he would-be, immediately would come to be, of celestial affairs ignorant and contemptuous, and human, of a work of the studies of power and pleasure, future scandal to the Church of God, and *ipsissimum satanam*⁵¹ from the Lord JESUS in all things to be rebuked and repudiated.
+
+**Fourthly**, in the very passion (where in particular the future calamities of the Church of God are depicted) Peter is the first to appear perverse. He is unwilling to be washed by Christ⁵² — by which is doubtless signified that Papist perversity and impiety, that they would not want to be washed and justified by Christ's merit alone, but by their own works and merits. Then likewise Peter boasts of his own constancy toward Christ before all: he boldly promises what the other apostles too — yet after a while, in the perils of Peter, all promise little. Such has always been the Roman boasting: that in the greatest difficulties of the Church of God, he was in the summit of the sublimity.⁵³
+
+**Fifthly**, in the very peril Peter draws his sword, understanding little of the Lord's word or command:⁵⁴ indeed he undertakes to fight with iron against Christ's own will. By which it is manifestly indicated that the Papist commentary of the Roman Pope, the successor of Peter, is: to hold *two swords*, both the political and the ecclesiastical, and to rush against Christ's own will — as also he wished to consummate this type himself, when in one and the same day he showed forth two swords, and gave orders "Behold, two swords."⁵⁵ By that same fact it is signified that the Pope, not by confession, or by purity of doctrine, but by the violence of the sword, seeks to help his Church, or his assembly.
+
+**Sixthly**, in the very peril — Peter, who a little before had boasted grandly of his own constancy, love and fidelity toward Christ — a little later refuses to keep even the one hour with him vigil: which the Lord tersely reproves him.⁵⁶ Wherefore a little after him, terrified by one little maidservant, he denies Christ three times with a grand perjury. By which without doubt is significantly prefigured that the Roman bishops, though they boast themselves to be Peter — Christ the Lord, even if not in words, yet in reality (*re ipsa*) — utterly to be for-their-love defectors.
+
+**Finally**, even after having received the Holy Spirit, some sins of his own crop up, and some slips he betrays. Now, in the vision at Joppa, he does not immediately understand, but is corrected divinely and by a celestial vision.⁵⁷ Now, more shamefully still, simulating that he shrinks from association with the Gentiles, he did not walk with a right foot toward the sincerity of the Gospel — and to that extent not shamefully-so-forth. Whereupon he was sharply rebuked by Paul, and by his way was, as if with a great violence, taken and pulled back.⁵⁸ Then also he did not lightly resist the perversity and impiety of the pseudo-apostles: those who put forward Peter as their preceptor, or their greater, and, before all the churches, boasted of his Apostolic authority: and thus, as if by the shadow of his name assisted, they had shaken and shifted the purity of the Gospel of Christ and Paul's authority.⁵⁹
+
+Wherefore, that Peter's primacy is rejected by Paul, and denied that Peter would in any part be over him: nor that Peter is confessed by him to have taught, or received, the Gospel, or acknowledged the right of it, nor finally that he had anything more than the rest.⁶⁰ Nay rather, that Peter at Antioch grievously and perniciously erring, is announced to have peccated, mortally, and to have been gravely rebuked by him and by other apostles before all men.
+
+Wherefore in a similar question, in the First to the Corinthians, Paul severely rebukes and warns, that no one ought either from Peter's or from any other homunculus's name to be lifted up and to boast: but from Christ alone, who alone died for us, and rose again in the underworlds, redeemed us — not from Peter, nor from other Apostles, however celebrated or praised.⁶¹
+
+These things I have proffered concerning both grievous stumblings and imbecility and infirmity of Peter, so that I might say here, since therefore, that Antichrist with his rabble, with such solicitude, treats up the praises of Peter, and if from the Evangelical History indeed verisimilarly he can attribute alone [to Peter], and himself as heir and successor of a necessary lineage of him he contends himself to be: it is likewise fitting also that in the same measure both his lapses and grave errors, and reproaches — which on account of his cognizant Lord Satan is called from him — are considered pertinent to Petrine hereditary succession, which most-verisimilarly, indeed truly — in real Peter's fictitious history, so to say — depict Peter's habits, life and acts, and prefigure them from him. When Christ himself for that same Peter, though shortly after penitent, yet so severely damned him, that even he called him Satan: it is easy to consider what it is Christ's business, that in the pertinacious in those furors, impieties or horrible libidines, blasphemies, heresies, idolatries, and tyrannic persecution against the truth in the Church consider that judgement and command.⁶²
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[The Sanctus Petrus entry ends here on the middle of `vl0007`; a new section `Sacrae literae` (Sacred Letters, on Scripture's own witness against the Pope) opens immediately after. Sacred Letters is staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -427,6 +471,52 @@ These things now, briefly, I wished to say by way of preface to the present Work
 **³⁹** *Desolationum abominationibus* — the plural intensification of the Dan 9:27 / Matt 24:15 phrase (τὸ βδέλυγμα τῆς ἐρημώσεως / *abominatio desolationis*).
 
 **⁴⁰** The Praefatio closes with an explicit crowd-source appeal: Flacius asks correspondents to submit further witnesses from local archives and elderly informants. This appeal is what produced the enlarged 1562 and (via Simon Goulart) the 1597 editions — the mechanism of expansion is set here at the outset. The Scholastic Lutherans translation faithfully renders the appeal but does not itself act on it: our translation-object is fixed at the 1556 *editio princeps*.
+
+## From the Catalogue — Sanctus Petrus (vl0001–vl0007)
+
+**⁴¹** Flacius's cross-reference is to his own earlier treatment: **the Sixth Council of Carthage** (AD 419) — famously the African-Church council that formally rejected Roman appellate jurisdiction, based on canon 3–4 of the councils of Nicaea and Sardica misquoted in Zosimus's *Commonitorium*. The councils' rejection of Roman primacy claims is a Flacian topos already developed in the *Confutatio* (Basel, 1549) and in the polemical writings of the early 1550s. He assumes the reader knows the argument and does not repeat it here at the head of the Catalogus.
+
+**⁴²** *Choragus, praecentor, praesultor* — three musical/liturgical terms for a leader: chorus-master, precentor (lead-singer), lead-dancer. Flacius stacks them to mock the papal habit of stylising Peter as the *coryphaeus* of the Apostolic college.
+
+**⁴³** The **Christ-asleep-in-the-ship** allegory (Mark 4:35–41 / Matt 8:23–27 / Luke 8:22–25) is here interpreted allegorically after the medieval fourfold-sense pattern, but with a specifically Reformation twist: the sleeping Christ prefigures the bishops who slumber on the pillow of ecclesiastical wealth while the ship of the Church is tossed. The reading is not original to Flacius; it appears in earlier Reformation polemic (Erasmus's *Enchiridion*; Luther's *Von der Freiheit*), but Flacius sharpens the polemical edge.
+
+**⁴⁴** *Indoctissimi asini* — "most-unlearned asses." The register is deliberately harsh; Renaissance humanist polemic characteristically permits this level of invective against ecclesiastical adversaries (compare Erasmus's *Julius Exclusus* and Luther's *Wider das Papsttum zu Rom*, 1545, WA 54:206–299).
+
+**⁴⁵** *Triplex corona* — the papal **tiara**, three crowns stacked, symbolising the pope's threefold sovereignty (Church militant / spiritual / temporal); introduced under Boniface VIII (†1303), abolished by Paul VI in 1964.
+
+**⁴⁶** 1 Peter 2:13–17 — *Subditi estote omni humanae creaturae propter Deum; sive regi quasi praecellenti, sive ducibus...* ("Be subject to every human creature for God's sake; whether to king as supreme, or to governors..."). Flacius's point: Peter's own First Epistle commands obedience to kings, yet Peter's self-claimed successors demand that kings kiss their feet.
+
+**⁴⁷** Compare Mark 9:33–37 / Luke 22:24–27 — the apostles' recurrent disputes *quis eorum videretur esse maior* ("which of them should seem to be the greatest"), which the Gospel narratives consistently present as a failure Christ has to correct.
+
+**⁴⁸** **Matt. 16:22–23** — Peter's rebuke of Christ's passion-prediction (*Absit a te Domine; non erit tibi hoc*), and Christ's response: *Vade post me Satana, scandalum es mihi, quia non sapis ea quae Dei sunt, sed ea quae hominum* ("Get thee behind me, Satan; thou art a scandal unto me, for thou savourest not the things that are of God, but the things that are of men"). This becomes Flacius's central proof-text for the whole entry: the Petrine ancestor of the papacy is called *Satan* by Christ himself.
+
+**⁴⁹** The Greek verb **φρονεῖν** (*phronein*) — "to be minded, to intend, to set the mind on" — in Matt 16:23 renders *non sapis* / "you do not savour." Flacius glosses the verb because the Greek carries a stronger volitional-affective sense than the Vulgate's *sapere* readily conveys: Peter's fault is not intellectual failure alone but affective misdirection — his mind is set on the things of men, not the things of God. The gloss anticipates Melanchthon's own treatment of *phronein* in the Romans commentary (CR 15:1153 ff.).
+
+**⁵⁰** *Nec Petro non ita datum fuisset, ut aliqua sunt fieri* — Flacius's compressed argument: even if some *primatus* was given to Peter, it was rejected by Christ (Matt 20:25–28, *Non ita erit inter vos*), and therefore cannot be the ground of papal claims. The point is a compressed dogmatic thesis; Flacius develops it more fully in the *De primatu papae* (Magdeburg, 1550).
+
+**⁵¹** *Ipsissimum satanam* — "very Satan himself." The construction is Flacian; the argument is the same as in the Smalcald Articles' identification of the papacy with Antichrist (BSELK 462).
+
+**⁵²** **John 13:6–10** — the foot-washing at the Last Supper; Peter's initial refusal *Non lavabis mihi pedes in aeternum* ("You shall never wash my feet") and Christ's *Si non lavero te, non habebis partem mecum* ("If I do not wash you, you shall have no part with me"). Flacius's allegorical reading: Peter's refusal prefigures the papist rejection of justification *sola gratia* — the papists too refuse to be washed by Christ alone, and demand to be justified by their own works.
+
+**⁵³** Compare Matt 26:33 (Peter: *Etsi omnes scandalizati fuerint in te, ego numquam scandalizabor*) and the immediate collapse at Matt 26:69–75. The self-proclaimed constancy that yields at the first pressure is Flacius's type for papal boasting.
+
+**⁵⁴** **John 18:10** — Peter cutting off the ear of Malchus the high-priest's servant, and Christ's *converte gladium tuum in vaginam* ("put up thy sword into the scabbard") at Matt 26:52.
+
+**⁵⁵** **The Two Swords** (Luke 22:38 — *Ecce duo gladii hic; at ille dixit eis: Satis est*). The passage was famously interpreted by **Boniface VIII in *Unam Sanctam*** (1302, DH 870–875) as authorising papal supremacy over both spiritual and temporal power. Flacius here mocks the interpretation by inverting it: Peter's misapplication of the sword prefigures papal misapplication of both swords.
+
+**⁵⁶** **Matt 26:40** — Christ finding the disciples asleep in Gethsemane: *Sic non potuistis una hora vigilare mecum?* ("Could you not thus watch with me one hour?"). The three denials follow at Matt 26:69–75.
+
+**⁵⁷** **Acts 10:9–16** — Peter's vision at Joppa (the sheet let down from heaven with unclean beasts, and the voice *Quod Deus purificavit, tu commune ne dixeris*), which he required a divine intervention to understand.
+
+**⁵⁸** **Galatians 2:11–14** — Paul's rebuke of Peter at Antioch for withdrawing from table-fellowship with Gentile Christians when the men from James arrived (*cum vidissem quod non recte ambularent ad veritatem evangelii, dixi Cephae coram omnibus...*). This is the New Testament's clearest apostolic-level correction of Peter, and the standard Reformation proof-text against papal-infallibility claims. The Council of Trent had not yet defined papal infallibility (that awaits Vatican I, 1870), but the Antioch-rebuke is already the point at issue in mid-16th-c. polemic.
+
+**⁵⁹** *Pseudoapostoli* — the Judaising missionaries at Antioch and in Galatia (Gal 1:6–9, 2:4, 6:12–13), who claimed apostolic authority (perhaps invoking Peter and James) to require Gentile Christians to be circumcised. Flacius's argument: they invoked Peter's shadow-authority to shake Paul's Gospel, and Peter's own compromise gave them purchase.
+
+**⁶⁰** Compare Galatians 2:6 — *Ab his autem qui videbantur esse aliquid...mihi nihil contulerunt* ("But from those who were reputed to be somewhat...they added nothing to me"). Paul explicitly denies that Peter contributed anything to his Gospel or has any authority over him.
+
+**⁶¹** **1 Corinthians 1:12–13** — *Ego quidem sum Pauli, ego autem Apollo, ego vero Cephae, ego autem Christi. Divisus est Christus?* ("I am of Paul, I of Apollos, I of Cephas, I of Christ. Is Christ divided?"). Paul's reproof of factional boasting from apostolic names is Flacius's proof that even Peter's name cannot be a ground of ecclesial boasting.
+
+**⁶²** The closing argument gathers up the whole entry: since Antichrist claims Peter as ancestor and successor, then everything Peter did badly is likewise part of the papal inheritance. The seven-fold enumeration (illiterate + ambition + Matt-16 rebuke + refusing washing + drawing sword + three denials + Antioch stumble) is presented as prefiguring, in each Petrine failure, a corresponding papal failure. The rhetorical figure is *typology-in-reverse*: where medieval allegorists made Peter's positive acts figures of papal glory, Flacius makes Peter's negative acts figures of papal corruption.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

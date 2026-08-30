@@ -2673,9 +2673,74 @@ theologia_humana:
     The critique targets not only the medievals but also, by 1556,
     the growing bulk of Reformation-era commentary.
 
+# ─── Tranche 2 body — Sanctus Petrus (vl0001–vl0007) ────────────────────
+
+triplex_corona:
+  english: Triple Crown (papal tiara)
+  alt: ["tiara"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — St Peter entry at vl0003"
+  note: >
+    The papal tiara, three crowns stacked, symbolising the pope's
+    threefold sovereignty (Church militant / spiritual / temporal);
+    introduced under Boniface VIII (†1303), abolished by Paul VI in
+    1964. Flacius's symbol of curial arrogance.
+
+duo_gladii:
+  english: The two swords
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — St Peter entry at vl0005"
+  note: >
+    Luke 22:38 (Ecce duo gladii hic), famously interpreted by
+    Boniface VIII in Unam Sanctam (1302, DH 870–875) as authorising
+    papal supremacy over both spiritual and temporal power. Flacius
+    inverts the interpretation: Peter's misapplication of the sword
+    prefigures papal misapplication of both swords.
+
+ipsissimus_satanas:
+  english: Very Satan himself
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — St Peter entry at vl0004"
+  note: >
+    Flacian intensification (superlative -issimus) of Christ's word
+    to Peter at Matt 16:23 (Vade post me Satana). Preserve untranslated
+    on formal doctrinal use.
+  see_also: [antichristus]
+
+primatus_Petri:
+  english: The Petrine primacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — St Peter entry at vl0004"
+  note: >
+    The papal claim that Peter received supremacy over the whole
+    Apostolic college and that this supremacy passes to the Roman
+    bishops. Flacius denies both claims via Gal 2:11–14 (Paul's
+    Antioch rebuke) and Matt 20:25–28 (Christ's Non ita erit).
+  see_also: [primatus, universalis_episcopus]
+
+pseudoapostolus:
+  english: Pseudo-apostle
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — St Peter entry at vl0006"
+  note: >
+    The Judaising missionaries at Antioch and in Galatia (Gal 1:6–9,
+    2:4, 6:12–13) who invoked Peter's and James's authority against
+    Paul's Gospel. Flacius reads them as the New Testament type of
+    the papist appeal to Peter against the Reformation.
+
+choragus:
+  english: Chorus-master
+  alt: ["praecentor", "praesultor"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — St Peter entry at vl0001"
+  note: >
+    Three musical/liturgical terms Flacius stacks (choragus, praecentor,
+    praesultor = chorus-master, precentor, lead-dancer) to mock the
+    papal styling of Peter as coryphaeus of the Apostolic college.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 1 COMPLETE (paratexts): 10 seed + 8 (1a) + 6 (1b) =
-# 24 entries. Body-tranche entries append below this line for Tranches 2–7.
+# FLACIUS 1556 — TRANCHE 2 OPENED (St Peter entry vl0001-vl0007). Total
+# Flacius lemmas: 10 seed + 8 (1a) + 6 (1b) + 6 (T2 Peter) = 30 entries.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
@@ -3008,6 +3073,206 @@ sophia_adidaktos:
 # QUENSTEDT · Tranche 1 Part A complete (Praefatio + Cap. I §§ Ι–ΙΙΙ).
 # 12 seed + 11 body entries = 23 total. Body-tranche entries to append
 # below this line as translation proceeds.
+# ═══════════════════════════════════════════════════════════════════════════
+
+
+# ─── QUENSTEDT · Cap. I §§ IV–XXXIX + Sectio II Polemica Q.I–III (2026-08-30)
+
+theotheologos_theologia:
+  english: The knowable / the knower / knowledge — the theological / the theologian / theology
+  alt: ["ἐπίστητον, ἐπιστήμων καὶ ἐπιστήμη"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i thesis iv"
+  note: >
+    Quenstedt's tri-fold formula for God's identity with archetypal
+    theology: in God, the subject that knows, the object that is known,
+    and the very knowing itself are one and the same. Applied to
+    theology: "the thing theological, the theologian, and Theology"
+    (res theologica, theologus, theologia). Central Trinitarian and
+    epistemological formula.
+  see_also: [theologia_archetypa]
+
+theanthropos:
+  english: God-Man
+  alt: ["θεάνθρωπος"]
+  type: christological
+  first_use: "quenstedt-exercitationes, cap. i thesis v"
+  note: >
+    Christological title Quenstedt uses to identify the subject of
+    Theologia Unionis — the archetypal theology communicated to Christ
+    per unionis gratiam. Not merely "man" or "God" but the personal
+    union expressed as a single noun. Older Fathers (Damascene) use
+    it; Quenstedt inherits it via Chemnitz's Christology (De duabus
+    naturis in Christo, 1571).
+  see_also: [theologia_archetypa, communicatio_idiomatum, unio_personalis]
+
+connata_infusa_acquisita:
+  english: Connate / Infused / Acquired
+  alt: ["connata", "infusa", "acquisita", "δόκησις intuitiva"]
+  type: christological
+  first_use: "quenstedt-exercitationes, cap. i thesis vi"
+  note: >
+    Fourfold classification of the theology of Christ's human nature:
+    (1) connate — given from creation of the soul; (2) infused — poured
+    in; (3) acquired by experience; (4) intuitive by way of excellence.
+    Against Manicheans (denying real incarnation) and Calvinists
+    (Bellarmine's δόκησις-reading, according to which Christ only
+    *appeared* to grow in wisdom). Central to the Lutheran account of
+    Christ's true humanity.
+  see_also: [theanthropos, theologia_archetypa]
+
+theopneustos:
+  english: God-breathed
+  alt: ["θεόπνευστος", "θεόπνωσος"]
+  type: bibliological
+  first_use: "quenstedt-exercitationes, cap. i thesis xxxv"
+  note: >
+    Standard patristic-scholastic term for the inspired writers
+    (Prophets in the OT, Evangelists and Apostles in the NT), from
+    2 Tim. 3:16. The ministerial cause of Theology in Quenstedt's
+    causal analysis. In the plural (θεόπνευστοι, θεόπνωσοι), the
+    inspired men themselves; in the singular, their inspired writing.
+    Preserve on formal doctrinal use.
+  see_also: [sacra_scriptura, principium_theologiae]
+
+catechetica_acroamatica:
+  english: Catechetic / Acroamatic
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i thesis xvi"
+  note: >
+    The two modes of mediate revelation: Catechetic = initial, ruder,
+    of the little ones (τῶν νηπίων), the summary heads of Christian
+    doctrine for the rude common folk; Acroamatic = advanced, more
+    accurate, of the perfect (τῶν τελείων), for Bishops and Presbyters
+    especially in Academies who are κατ' ἐξοχήν called Theologians.
+    Differ not in matter but in mode of considering. The word
+    "Acroamatic" (ἀκροαματικός, "for hearers") is Aristotelian in
+    origin — the esoteric lectures for advanced students.
+  see_also: [theologia, habitus_practicus]
+
+sex_species_theologiae_acroamaticae:
+  english: The six species of Acroamatic Theology
+  alt: ["Exegetica", "Didactica stricte", "Polemica", "Homiletica", "Casualis", "Historica"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i thesis xix"
+  note: >
+    Quenstedt's classification of Acroamatic Theology quoad modum
+    tractandi into six species: (1) Exegetica/Biblica — commentary and
+    paraphrase of Scripture; (2) Didactica stricte = Systematica seu
+    Thetica seu Positiva; (3) Polemica = πολεμικὴ καὶ συρρακτική =
+    Elenctica = Controversa; (4) Homiletica = Ecclesiastica;
+    (5) Casualis (Casuum, Consistorialis); (6) Historica. This typology
+    becomes canonical in 18th-c. Lutheran theological encyclopedia
+    (Baumgarten, Buddeus).
+  see_also: [catechetica_acroamatica, didactica_polemica]
+
+theologia_patriae:
+  english: Theology of the Fatherland (of the Blessed)
+  alt: ["theologia beatorum", "theologia visionis", "theologia intuitiva"]
+  type: eschatological
+  first_use: "quenstedt-exercitationes, cap. i thesis xxvi"
+  note: >
+    Theology of the blessed in patria (after death) — communicated
+    through the clear vision of the divine Essence. Face to face
+    (πρόσωπον πρὸς πρόσωπον; פנים אל פנים), by αὐτοψία (autopsy). Also
+    called comprehensiva (as opposed to apprehensiva, of the way). The
+    blessed intuit the divine essence clearly, perfectly, immediately —
+    but insofar as the infinity of the divine majesty and the narrowness
+    of human minds permits.
+  see_also: [theologia_viatorum, theologia_comprehensorum]
+
+theologia_endoterow_symbebekotos:
+  english: Essentially / Accidentally
+  alt: ["ἐνδοτέρως", "συμβεβηκότως"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i thesis xxviii"
+  note: >
+    The two modes of taking the word "Theology": ἐνδοτέρως =
+    essentially, absolutely, habitually — for the notice in the mind,
+    the habitus animi; συμβεβηκότως = accidentally, relatively,
+    systematically — for the doctrine or discipline in books. The
+    former is πρώτως (primary); the latter δευτέρως (secondary).
+    Determines what "Theology" refers to in scholastic disputes on
+    genus and definition.
+  see_also: [habitus_practicus, theologia]
+
+causa_efficiens_movens_media_ministerialis:
+  english: Efficient / Moving / Middle / Ministerial cause
+  type: scholastic
+  first_use: "quenstedt-exercitationes, cap. i theses xxxii–xxxv"
+  note: >
+    The four causes of Theology in Quenstedt's causal analysis:
+    (1) Causa efficiens principalis = Deus Uni-Trinus; (2) Causa movens
+    duplex = προηγουμένη internal (God's goodness) et καταρκτική
+    external (our misery after the Fall); (3) Causa media = Verbum Dei
+    scriptum; (4) Causa ministerialis = writers immediately θεόπνευστοι
+    + orthodox Doctors and Ministers of the Church. Standard scholastic-
+    Aristotelian causal apparatus redeployed to Christian bibliology.
+  see_also: [theopneustos, sacra_scriptura, principium_theologiae]
+
+subjectum_inhaesionis_operationis:
+  english: Subject of inhaesion / of operation
+  type: scholastic
+  first_use: "quenstedt-exercitationes, cap. i thesis xxxviii"
+  note: >
+    Threefold analysis of the "subject" of Theology: (1) subiectum
+    inhaesionis quod = the theologian himself, the "man of God"
+    (2 Tim. 3:17); (2) subiectum inhaesionis quo = his mind and
+    intellect, in which the theological habit immediately inheres;
+    (3) subiectum tractationis / considerationis = all theological
+    things, i.e. religio vera; (4) subiectum operationis = man after the
+    Fall, sinful man, as beatifiable. The last is the practical end of
+    Theology — the medium introducing salvation into man.
+
+habitus_theosdotos_practicus:
+  english: Divinely-given practical habit
+  alt: ["habitus θεόσδοτος practicus"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i sect. ii q. iii thesis"
+  note: >
+    Quenstedt's definitive characterisation of Theology in the polemic-
+    climax of Cap. I: an intellectual habit, divinely-given (not by
+    ecstasy or ἐνθουσιασμός but by mediate divine giving through the
+    written Word), practical (against the pure-theoretic view of
+    Marsilius / Gandavensis and the mixed view of Thomas / Cajetan),
+    concerning true religion, by which sinful man is led through faith
+    in Christ to eternal life. Preserve the compound Latin/Greek form on
+    first formal doctrinal invocation.
+  see_also: [habitus_practicus, theopneustos, sacra_scriptura]
+
+praxis_pisteos_eusebeias:
+  english: Praxis of faith / of piety
+  alt: ["πρᾶξις τῆς πίστεως", "πρᾶξις τῆς εὐσεβείας"]
+  type: encyclopedic
+  first_use: "quenstedt-exercitationes, cap. i sect. ii q. iii distinction xii"
+  note: >
+    Distinction critical to Quenstedt's practical-habit account of
+    theology. Praxis fidei = fiducial apprehension of the merit of
+    Christ and of the Evangelical promises (the internal ἐνέργεια of
+    faith). Praxis pietatis = the pursuit of good works, which emanates
+    from the former as a rivulet from its fountain. Both are given in
+    Theology, but theology is called practical propter illam, not
+    propter hanc — against Calixt and Hornejus who make good-works-
+    praxis part of theology's practical character.
+  see_also: [habitus_theosdotos_practicus]
+
+process_analyticus:
+  english: Analytic process (method)
+  type: methodological
+  first_use: "quenstedt-exercitationes, cap. i sect. ii q. iii confirmatio vi"
+  note: >
+    The methodological argument for theology-as-practical: because
+    theology is treated by the analytic method (from end → to subject →
+    to means), which is the method of practical disciplines. As opposed
+    to the synthetic method (from causes → to demonstrated affections),
+    which is the method of theoretic disciplines. The late-orthodox
+    order — Deus + Verbum → man fallen → salvation → means (Word,
+    Sacrament, faith) — is programmatically analytic.
+
+# ═══════════════════════════════════════════════════════════════════════════
+# QUENSTEDT — CAP. I COMPLETE (Sectio I Didactica + Sectio II Polemica).
+# 12 seed + 11 Part A + 13 Part B = 36 total. Body-tranche entries for
+# Chapters II onward (if scope-expanded) to append below this line.
 # ═══════════════════════════════════════════════════════════════════════════
 
 # ─── PASTORAL / SECONDARY — Große, Die alten Tröster (1900) ─────────────────
