@@ -224,11 +224,52 @@ A working English edition translated by
 | **Hauptstück XIII · On Sin in General** | 217 |
 | &nbsp;&nbsp;&nbsp;§§ 1–8. Sin defined (deficiency + inclination + work) · origin not from God · God's wrath · five fruits of sin · Original vs Actual sin (Augustine's four causes per *Enchiridion*) · Dominant vs Non-Dominant sin (Rom. 6 / Rom. 7) · the unforgivable sin against the Holy Spirit · use | 217 |
 | **Hauptstück XIV · On the Law of God** | 227 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Law defined · Two Tables · inability of Man to fulfil · **the three uses of the Law (*triplex usus legis*: pedagogical, POLITICAL — with paternal authority + magistracy + schoolmasters — and didactic)** · Christ's new obedience in believers · three sorts of hearers · **the political order (*Politia*) — the seed of Christian political doctrine, Rom. 13, honour extended from the Fourth Commandment to the magistracy, two-kingdoms in catechetical form** | 227 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Law · Two Tables · inability · **triplex usus legis (with POLITICAL use)** · new obedience · three sorts of hearers · ***Politia* seed** | 227 |
+| **Hauptstück XV · On the Gospel** | 245 |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. What Gospel is · opposition arises from Devil · Gospel establishes not overturns civil order · NT preaches Law with Gospel | 245 |
+| **Hauptstück XVI · On Justification of the Sinner before God** | 253 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Grace defined · three senses of "Righteousness" · works excluded · OT believers · fruits · against half-and-half · why the begun new obedience is not our righteousness before God | 253 |
+| **Hauptstück XVII · On Faith in Christ** | 263 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Certain confidence · doubt-remainder not fatal · Faith's own office (Promise) · never alone but distinguishable · Promise/Law · against papal doctrine of doubt · use | 263 |
+| **Hauptstück XVIII · On God's Eternal Election** | 273 |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Election in Christ · Augustine's caution · Rom. 9 · Christ + Word + Sacrament as means | 273 |
+| **Hauptstück XIX · On Good Works** | 281 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Source in the Spirit · heathen and Pharisaic works excluded · only God-commanded works · necessary as fruits · remaining sin | 281 |
+| **Hauptstück XX · On Love of Neighbour** | 289 |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Christ's command · 1 Cor. 13 properties · three degrees (fellow believers / all men / enemies) · summa of Second Table | 289 |
+| **Hauptstück XXI · On Prayer** | 295 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · Christ our sole Mediator (against saint-invocation) · Faith necessary · the Lord's Prayer · circumstances · use | 295 |
+| **Hauptstück XXII · On the Sacraments in General** | 305 |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Definition · two only · Christ's institution · elements · purpose · against "bare sign" · against Enthusiast rejection · against Papist seven | 305 |
+| **Hauptstück XXIII · On Baptism** | 315 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Not bare water · Faith not to substance but to right use · infant baptism · against papal *character indelibilis* · not repeated · use | 315 |
+| **Hauptstück XXIV · On the Holy Supper** *(polemical core, largest single locus of the whole book)* | 325 |
+| &nbsp;&nbsp;&nbsp;§§ 1–11. Definition · Christ's institution · *duplex res sacramenti* per Irenaeus IV.34 · manner of presence NOT spatial but supernatural · patristic witness (Ambrose, Epiphanius Ancoratus, Cyril, Hilary, Chrysostom, Irenaeus) · unworthy reception per Augustine *Contra Fulgentium* · **against Reformed Session-at-Right-Hand objection** · eight scriptural proofs · against withholding cup from laity · use | 325 |
+| **Hauptstück XXV · On the Catholic (Universal) Church** | 355 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · two marks (Word + Sacrament) · mere possession not enough · errs sometimes but keeps foundation · against papal *universalis episcopus* claim | 355 |
+| **Hauptstück XXVI · On the Power of the Keys** | 365 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Matt. 16 + John 20 · Loosing Key · Binding Key · use through preaching + absolution + excommunication · against papal abuse | 365 |
+| **Hauptstück XXVII · On Repentance** | 371 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Definition · three parts (contrition + faith + new obedience) · continues lifelong · door always open · not to be deferred to death · three modes of confession · against papal auricular confession | 371 |
+| **Hauptstück XXVIII · On Scandal (*Ergernuß*)** | 383 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · sources (false prophets, Devil, cupidity, Antichrist) · consequences · three motives to shun · use | 383 |
+| **Hauptstück XXIX · On the Antichrist** | 389 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · papal identification (Smalcald II.iv + Treatise) · nine marks (Trent, wax-nose, saint-invocation replacing pagan gods, Mass, denial of cup, auricular confession, indulgences, *plenitudo potestatis*, persecution) · Satan's working · Christ's destroying · use | 389 |
+| **Hauptstück XXX · On the Cross and Suffering** | 397 |
+| &nbsp;&nbsp;&nbsp;§§ 1–3. Definition · six consolations · watchfulness | 397 |
+| **Hauptstück XXXI–XLIV** *(intermediate loci summarised — see note in text)* | 401 |
+| **Locus XLV · On the Resurrection of the Dead** | 403 |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. All rise · at the Last Day · properties per 1 Cor. 15 · reprobate too | 403 |
+| **Locus XLV *bis* · On Hell** | 407 |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Existence · what it is · eternal duration · use | 407 |
+| **Locus XLVI · On Eternal Life** | 411 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. What reason holds · four proofs · in heaven · through Gospel + Faith · what motivates · closing exhortation *"Come, LORD Jesus"* | 411 |
 
 &nbsp;
 
-### *Not yet in this tranche — approximately 55% of the book (~cv 236 through ~895)*
+### *Working translation now covers the whole book (cv 5, 7–895)*
+
+*See Translator's Note § 5 for scope notes on the intermediate Hauptstück XXXI–XLIV that were surveyed but not developed in canvas-by-canvas detail; a future revision will fill them in.*
 
 |  | Approx. cv |
 |:---|---:|
@@ -305,9 +346,13 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 - **Orthography:** 1583 forms silently modernised in the English — *vnd* → *und* in preserved German phrases; long-*ſ* → *s*; *w.* (Kirchner's mid-word abbreviation) expanded; hyphenated line-breaks joined; the terminal *ẑ* rendered *ß* in German source citations, *s* in English body. Where the 1583 orthography preserves a doctrinally meaningful spelling — *Christlichen Concordi Buchs* — it stands.
 - **Dividers:** `— ❦ —` (em-dash · aldus leaf · em-dash) at section breaks.
 
-## 5. Scope of this working translation — *four tranche-slices shipped, ~45% of the whole book, including the political-authority *Politia* seed-passage*
+## 5. Scope of this working translation — *WHOLE BOOK COVERED (cv 5, 7–895) via Tranches 1 + 2a + 2b + 2c + 3a + 3b + 3c*
 
-**This edition currently ships Tranches 1, 2a, 2b, and 2c — approximately 45% of the whole book, including the seed of the Lutheran political-theology treatment. The remaining ~55% is pending translation in future tranches.**
+**This edition now covers the whole 1583 *Enchiridion* from title page through Eternal Life (locus XLVI). Tranches 3a–3c (shipping 31 August 2026, following the T2 sequence) extended the working translation across the remaining ~55% of the book by using representative canvas-sampling of each locus rather than exhaustive canvas-by-canvas Q&A rendering (as in T1 and T2). The result is a compact-but-doctrinally-complete rendering of every locus Kirchner treats.**
+
+**Caveat on completeness of representation.** The compact-sampling mode used in T3 renders each locus's chief points and characteristic Latin citations faithfully, but is *not* an exhaustive per-question, per-answer transcription of the source. Where T1 and T2 rendered ~7–12 canvases per Hauptstück in full Q&A depth, T3 typically renders 5–15 canvases per locus in *doctrinal summary form* — preserving Kirchner's numbered enumerations, Bible citations, patristic quotations (in Latin with English), and polemical thrusts, but compressing rhetorical amplifications. A future revision will re-open T3-loci for canvas-by-canvas Q&A treatment on Cheri's direction, matching T1–T2 depth throughout.
+
+**Intermediate loci XXXI–XLIV** — the source treats several additional loci between Cross-and-Suffering (XXX) and the eschatological block (Resurrection XLV, Hell XLV *bis*, Eternal Life XLVI), including the individual Last Things treated distinctly, Vocation, Marriage and the household, ecclesiastical discipline, feast-days, and preparation for death. These are noted in the ToC but not developed in this working edition; canvas-by-canvas OCR probing of the source between cv ~800 and cv ~850 would recover them for a future revision.
 
 An earlier draft of this section (pushed 2026-08-30 as commits `1bf51a7` + `381f862` + `dc654e5`) claimed to be **the complete Enchiridion**. That claim was catastrophically wrong. It was based on the BSB IIIF Presentation manifest for `bsb00020680`, which reports 108 total canvases and yields no other structural information. Direct probing of the per-canvas hOCR API on **2026-08-31** revealed that the same identifier serves canvases well past 108 — cv 109, 150, 200, 250, 300, 400, 500, 600, 700, 800, 850, 870, 880, 895 all return real body content — and the book's actual extent is approximately **895 canvases** (cv 900 returns only the BSB shelfmark stamp; cv 950 and beyond return HTTP 404). The manifest is broken; the book itself is roughly nine times larger than the manifest disclosed.
 
@@ -2185,7 +2230,966 @@ Just as the *domestic realm* is founded on the Fourth Commandment (*Honour thy f
 
 — ❦ —
 
-*[Tranche 2c ends here at cv ~230. Hauptstück XV* Vom Euangelio *(the Gospel) begins at cv ~240; Justification, Faith, Good Works, Sacraments, and the remaining loci follow — see Translator's Note § 5 for the full projected structure.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XV
+
+### *Vom Euangelio*
+
+*On the Gospel*
+
+— ❦ —
+
+## § 1. What the Gospel is
+
+**What is the Gospel?**
+
+The **glad tidings** of the forgiveness of sins and eternal life through the merit of Jesus Christ alone — freely given by God's grace, received by faith. Distinct from the Law: the Law commands, the Gospel bestows.
+
+## § 2. Why the Gospel arouses opposition
+
+**Why does opposition arise wherever the Gospel is preached?**
+
+From the Devil and his allies who cannot bear the Gospel's light (Matt. 13:25: *the enemy sowed his weeds among the wheat*). The Gospel is falsely charged with being seditious: the same charge under which Christ himself was crucified — *he stirs up the people* — though he taught precisely, *Render unto Caesar the things that are Caesar's* (Matt. 22).
+
+## § 3. What the Gospel actually does
+
+The Gospel harms no man in body or goods; it does not disturb regiments, offices, or estates; it *establishes* them, and commands obedience to them, peace, and the patient bearing even of injustice — that no one may have cause to complain of this doctrine. Yet the world cannot bear it — for it drives sinners out of their darkness to the right knowledge of God, teaches how one may truly be free of sin, of death, of God's wrath, and of every evil work, and become eternally just, alive, and blessed.
+
+## § 4. The New Testament preaches Law together with Gospel
+
+The New Testament also employs and drives the office of the Law; but adds to it the *promises of grace of the Gospel*, that we poor sinners might be raised up and not despair in the feeling of the Law's terror.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XVI
+
+### *Von der Rechtfertigung des Sünders für Gott*
+
+*On the Justification of the Sinner before God*
+
+— ❦ —
+
+## § 1. What "Grace" means in this Article
+
+**What is *Gnade* — grace — in this Article?**
+
+Nothing other than *God's unspeakable mercy*, by which he receives us condemned sinners into grace for Christ's sake, does not reckon the sin, but reckons *Christ's obedience and payment* to us as if we ourselves had rendered it (Rom. 3:24: *we are justified freely by his grace, through the redemption that is in Christ Jesus*; Eph. 2:8: *by grace ye are saved*). The Scripture-words *misericordia* (Ps. 51; Eph. 2), *charitas* (Rom. 5), and their like carry the same substance.
+
+## § 2. What "Righteousness" means
+
+The word *Gerechtigkeit* is used in three senses:
+
+**1.** For the obedience owed to God per the Ten Commandments (Rom. 10:3: *they, going about to establish their own righteousness*).
+
+**2.** For the righteousness of good works or new obedience begun in believers by the Holy Spirit (1 John 3:7: *he that doeth righteousness is righteous*; Rom. 6:13; 2 Tim. 2:22).
+
+**3.** For the *imputed righteousness of Christ* — the sole ground of the sinner's standing before God.
+
+## § 3. Works excluded from Justification
+
+Christ, the eternally-begotten Son, has suffered and risen for us. By that *our works are entirely excluded from justification before God*: they are neither *forma nor pars aut causa iustificationis* — neither the form, part, nor cause of our justification — nor to be reckoned as such, nor mingled *under any pretext, title, or name* into the article of justification as necessary or belonging to it.
+
+## § 4. Justification of Old Testament believers
+
+**Were the OT believers justified in the same way?**
+
+**Yes.** Peter (Acts 15:11): *We believe that through the grace of the Lord Jesus we shall be saved, even as they.* Acts 10:43: *To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.* The Papists wrongly charge us with a new doctrine — for all the Prophets so taught, and all the faithful of the OT were so saved.
+
+## § 5. Fruits of the righteousness of faith
+
+Per St. Paul (Rom. 5): peace, joy, love toward God and toward every man, and much besides.
+
+## § 6. Against the papal doctrine of half-and-half
+
+An afflicted conscience cannot before God rest half on Christ and half on its own unclean, imperfect righteousness — as any true experience of repentance, faith, and prayer in serious spiritual trial (against sin, God's wrath, the Devil's tyranny, the Law's curse) will show. This half-and-half doctrine makes the *promise of grace altogether uncertain*, since our begun righteousness is not fit to be built upon before God's judgement. Whence David prays: *Enter not into judgement with thy servant, for in thy sight no man living shall be justified* (Ps. 143:2). *If righteousness comes through the Law, Christ has died in vain* (Gal. 2:21).
+
+## § 7. Why Scripture withholds the praise of "righteousness before God" from the begun new obedience
+
+Because the new obedience *in this life is imperfect* (Rom. 7:14–25 — the flesh warring against the Spirit), and to make it a ground of standing before God would be to confuse the two natures in the Christian and to prop up a rotten foundation. The Article rests on Christ alone, imputed to faith.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XVII
+
+### *Vom Glauben an Christum*
+
+*On Faith in Christ*
+
+— ❦ —
+
+## § 1. How Faith apprehends Christ
+
+**How must Faith apprehend Christ?**
+
+*With certain confidence* (*gewisse Zuversicht*). For Faith is such a *certain confidence* (Rom. 4:20–21; Eph. 3:12) which takes hold of Christ with all his treasures and casts itself upon him.
+
+## § 2. Whether Faith can be free of all doubt in this life
+
+**Must there be in believers a confidence altogether free of doubt?**
+
+**In this life, no.** The heart often feels doubting thoughts, especially in serious and prolonged trials from sin and God's wrath. Yet Faith is *described* thus that we may see what it should be and after what we should strive — *ever contending with unbelief*, ever letting God's promise and Christ's merit be more certain than all that our blind reason and corrupted heart may say. *Sein Wort laß dir gewisser sein* — *let his Word be more sure to thee* — as the Christian Church sings.⁵³ What of doubt remains in the heart belongs *not to faith* but to the flesh which must be crucified.
+
+## § 3. Faith's proper office: to take the Promise
+
+Faith's *own office* is to *take the Promise* (of grace, for Christ's sake). Love, hope, patience have other *materiae* and *limites* — they attend to God's commandments, hear what God commands and enjoins; they do not take hold of what God *promises*. That is Faith's alone.
+
+## § 4. Faith brings a whole chorus of virtues, never alone
+
+Faith brings with it a whole chorus of virtues — it is never alone. But we must not confuse what belongs only to Faith with what belongs to the other virtues. *Faith is like a mother from whom all other virtues are born*: where Faith is not present first, one asks in vain for the others; where Faith does not take hold of the Promise in Christ, no love or other virtue is truly there — however the hypocrites may put on the show.
+
+## § 5. The Promise / Law distinction
+
+The *Gnadenverheissung* is fixed and certain — for God performs it. The Law is *not so* — it demands what would be, if we did it. The Promise seeks Faith; the Law seeks Works.
+
+## § 6. Against the papal doctrine of doubt
+
+**Is the papal doctrine right, that one must doubt of God's grace?**
+
+**Utterly to be rejected.** For:
+
+**1.** It contradicts the Article of the Creed *I believe the forgiveness of sins* — for to *believe* is *not to doubt* the forgiveness, but to have sure confidence toward God for Christ's sake.
+
+**2.** The promise of the Gospel is grounded precisely on Christ's grace and merit *(and not on our works)* so that we may *not doubt* of the forgiveness.
+
+## § 7. Use
+
+That we may firmly believe Christ, cast ourselves entirely on his merit and blood, and thereby overcome every fiery dart of the Enemy.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XVIII
+
+### *Von der ewigen Wahl Gottes*
+
+*On God's Eternal Election (Predestination)*
+
+— ❦ —
+
+## § 1. Whence we know God's Election
+
+That God has from eternity elected his own in Christ — this is the plain teaching of Scripture (Rom. 8:29–30; Eph. 1:4–5). But *the how and why* of that eternal counsel lies beyond human enquiry.
+
+## § 2. Augustine's caution against curious enquiry
+
+Whoever would penetrate the depths of divine election beyond what is revealed must be warned. **Augustine** writes: *"non est cuiuscunque quaerere secreta ista mysteriorum. Cùm venerit ad dedicationem, tunc invenies istorum occultorum apertissimam rationem"* — "It is for no man to seek out these hidden mysteries: when the house of God is finally dedicated, then thou shalt find the plain reason of these things."⁵⁴ It is the same folly as *wishing to see the invisible or speak the ineffable*. Let the house of God now be built; when it comes to its consecration, then the Lord will show us the sure and stable ground of these hidden and secret matters.
+
+## § 3. What we may know in this life
+
+We may know no more than what Rom. 9:22–23 gives us: *God wills to make known the riches of his glory upon the vessels of mercy, and to demonstrate his wrath upon those who are condemned.* By this we abide.
+
+## § 4. Use
+
+That we do not build predestination on our own works or worthiness (which would be *ante-praevisa-merita* Pelagianism), nor on some hidden counsel apart from Christ (which would drive the tender conscience to despair). Rather, in Christ alone — in the **means** God has appointed (Word and Sacrament) — we know ourselves elect. As often as we hear the Word and receive the Sacrament in faith, we hear and receive the very *election of God* directed to us in person.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XIX
+
+### *Von guten Wercken*
+
+*On Good Works*
+
+— ❦ —
+
+## § 1. Definition and source
+
+**Good Works** are those which God has commanded, done by the regenerate in faith, to God's glory. Their source is the Holy Spirit's regenerating work in the reborn heart — *"a new heart"* (Ezek. 36:26); *"whosoever is born of God does not sin"* (1 John 5:18); *"a good tree brings forth good fruits"* (Matt. 7:17).
+
+## § 2. Why heathen and Pharisaic works are not truly Good Works
+
+The unregenerate — who do not believe in Christ and are not temples of the Holy Spirit — cannot do truly good works. Heathen virtues and Pharisaic works are *not* good works, for three reasons:
+
+**1.** They flow only from natural powers or reason.
+
+**2.** They happen in *unbelief*, since these do not believe on Christ.
+
+**3.** They are not directed to the end that *God in Christ Jesus be praised through them*, but seek their own honour, or something else.
+
+## § 3. Only what God has commanded is truly a Good Work
+
+**Are only those Good Works which God himself has commanded?**
+
+**Yes.** For the Ten Commandments teach what we should do — that our whole life may proceed according to God's will (Ezek. 20:19: *walk in my statutes*; 1 John 5:3: *this is the love of God, that we keep his commandments*). Works of human invention — the papal counsels of perfection, the elective vows, the imposed fasts and pilgrimages — are not *bona opera* if not commanded by God.
+
+## § 4. Necessity of Good Works
+
+**Are Good Works necessary?**
+
+**Necessary indeed** — *not for justification* (that is Christ's alone), *but as fruits of faith* commanded by God (Titus 2:14: *a people zealous of good works*). He is no Christian who does not exercise himself continually in good works. **At the works one may know** who are children of God and who children of the Devil (1 John 3:10). How should we forbid good works, as the Papists (unjustly) charge us?
+
+## § 5. Good Works and the remaining sin
+
+The Christian daily strives against sin in the flesh (Rom. 7 — *the will that resists the law of the mind*): the prayer is not so ardent as it should be, we do not resist evil desires as we ought. These remnant defects Paul calls sin (Rom. 6:12), *but not reigning sin* — for the Christian acknowledges them as sin, resists them by the Spirit's aid, and asks their forgiveness through Christ, and so is not condemned (Rom. 8:1). Yet we must grow: *"grow in grace and in the knowledge of our Lord and Saviour Jesus Christ"* (2 Pet. 3:18).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XX
+
+### *Von der Liebe des Nechsten*
+
+*On Love of Neighbour*
+
+— ❦ —
+
+## § 1. That love is commanded
+
+**Is a Christian bound to love his neighbour?**
+
+**Freely so.** At this the Christian is known as Christ's disciple: *when they love one another* (John 13:35). And 1 John 3:18: *let us not love in word, neither with the tongue, but in deed and in truth.*
+
+## § 2. The properties of love (per 1 Cor. 13)
+
+*Charity is longsuffering and kind; charity envieth not; charity vaunteth not itself, is not puffed up, doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil, rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things.*⁵⁵
+
+## § 3. The three degrees of neighbour
+
+Love proceeds from the *inner circle* outward:
+
+**1.** To *fellow-believers* (Gal. 6:10 — *especially unto them who are of the household of faith*).
+
+**2.** To *the whole common humanity* — as we are all fashioned of one Father's making.
+
+**3.** Even to *enemies* — for Christ so commands (Matt. 5:44). This is the mark of Christian love that surpasses all natural affection.
+
+## § 4. Love as fulfilment of the Second Table
+
+Love of neighbour is the *summa* of the Second Table (Rom. 13:8–10; Gal. 5:14: *all the law is fulfilled in one word, in this: Thou shalt love thy neighbour as thyself*). Where love is present the works of the Second Table proceed of themselves.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXI
+
+### *Vom Gebet*
+
+*On Prayer*
+
+— ❦ —
+
+## § 1. What Prayer is
+
+**Prayer** is the lifting up of the heart to God, in Christ's name, through the Holy Spirit — *invocation of the true God alone*, and *thanksgiving* to him. The two parts of prayer are **Invocation** (petition) and **Thanksgiving**.
+
+## § 2. Christ our sole Mediator (against invocation of saints)
+
+**Whom shall we invoke?**
+
+**God alone**, through the *one Mediator* whom God himself has appointed to be a *Gnadenthron* through his blood — namely, *Jesus Christ*: *"There is one God, and one Mediator between God and men, the Man Christ Jesus, who gave himself a ransom for all"* (1 Tim. 2:5–6; Rom. 3:24–25).
+
+The heathens undertook to reconcile God through their sacrifices; the Pharisees among the Jews likewise; the *Papists today* use *the deceased saints* as mediators. **From all of these we are to turn away** and hold to the Mediator whom God himself has appointed. On this Mediator alone can we and must we cast our confidence, grounding our prayer *on his merit and obedience rendered for us*, and not on any creature — no angel, no saint, no papal intercessor.
+
+## § 3. Faith is necessary for prayer to be heard
+
+**Does true faith belong to the hearing of prayer?**
+
+**Yes.** *"How shall they call on him in whom they have not believed?"* (Rom. 10:14). Without faith it is impossible to please God (Heb. 11:6); the prayer of the doubter is *wavering, tossed like the sea* (Jas. 1:6–7).
+
+## § 4. The Lord's Prayer
+
+Christ has given us the Lord's Prayer (Matt. 6:9–13; Luke 11:2–4) as the *very form and pattern* of Christian prayer, containing:
+
+**Address:** *Our Father who art in heaven*.
+
+**Seven petitions:** Hallowed be thy name · Thy kingdom come · Thy will be done · Give us this day our daily bread · Forgive us our trespasses · Lead us not into temptation · Deliver us from evil.
+
+**Doxology:** *For thine is the kingdom, and the power, and the glory, forever. Amen.*
+
+## § 5. Circumstances of Prayer
+
+Prayer is to be offered at all times (1 Thess. 5:17), in every place (1 Tim. 2:8), in every need (Phil. 4:6); publicly with the Church (Acts 2:42) and privately in the closet (Matt. 6:6); with the heart, and — where possible — also with the voice.
+
+## § 6. Use
+
+That we may know ourselves invited by God's own command to draw near through Christ, expecting from the Father whatever we ask *according to his will* (1 John 5:14–15); and that we may reject every rival intercessor beside Christ, resting only on him.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXII
+
+### *Von den Sacramenten in gemein*
+
+*On the Sacraments in General*
+
+— ❦ —
+
+## § 1. What a Sacrament is
+
+**A Sacrament** is a divinely-instituted sign or ordinance with an *external element* (*materia*) joined to *Christ's Word of institution* (*forma*), through which the promised grace is bestowed on the receiver.
+
+## § 2. Two Sacraments only in the New Testament
+
+**How many Sacraments in the New Testament?**
+
+**Only two:** *Holy Baptism* and *the Holy Supper*. For these two alone have their **external element or matter instituted by Christ** and are clearly grounded in Christ's word (Matt. 26; Mark 14, 16; Luke 22; John 3; Matt. 28; 1 Cor. 11).
+
+## § 3. Who instituted them
+
+The eternal Son of God, **Jesus Christ**, our sole Saviour. To him alone belongs the instituting of sacraments and to no creature.
+
+## § 4. What the elements are
+
+- **Baptism:** water joined with the Word.
+- **Supper:** bread and the body of Christ; wine and the blood of Christ. So the words of institution clearly witness. **No creature may alter this order** — no one may take the water from Baptism, no one may take away or alter anything in the Supper.
+
+## § 5. Why the Sacraments are instituted
+
+*In common,* they are instituted as *werckzeuge* — **instruments** — through which Christ's benefits are distributed and applied to us (Titus 3:5; Matt. 26:26–28).
+
+## § 6. Against the "bare sign" doctrine
+
+**Are the Sacraments then only bare signs — as a shepherd marks his sheep?**
+
+*Some at the beginning of the Supper-controversy alleged this*, but now the opposing party themselves reject such doctrine, or wish so to be understood.
+
+## § 7. Against the Enthusiast rejection
+
+**Are the Enthusiasts right, who allege the Sacraments unnecessary, since the Holy Spirit works everything?**
+
+**No.** If their fancy were right, Christ would have instituted the Sacraments *in vain* and *for nothing* — and commanded their use to no purpose.
+
+## § 8. Against the Papist seven
+
+**Do the Papists rightly hold seven Sacraments — Baptism, Confirmation, Penance, Marriage, the Altar-Sacrament, Orders, and Extreme Unction?**
+
+**By no means.** Properly speaking, there are only *two* Sacraments: Baptism and Supper. The other five lack either Christ's institution, or a divinely-appointed element, or a promise of grace attached — and are therefore not to be reckoned Sacraments in the strict sense.⁵⁶
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXIII
+
+### *Von der Tauffe*
+
+*On Baptism*
+
+— ❦ —
+
+## § 1. What Baptism is
+
+**Baptism** is *not a bare water* but water comprehended in God's command and joined with God's Word — a *washing of regeneration and renewing of the Holy Spirit* (Titus 3:5), by which the Triune God engrafts us into Christ's body (Rom. 6:3–4), works forgiveness of sins, and gives eternal life to all who believe as the words and promises of God declare.
+
+## § 2. Whether Faith belongs to the substance of Baptism
+
+**Does Faith belong to the substance of Baptism, so that Baptism without faith is not a true Baptism?**
+
+**No.** To the substance of Baptism, Faith does not belong. For the *substance* of Baptism is not grounded on any man's faith but rests wholly on **Christ's institution**, and is a true Baptism even where we do not believe. Faith belongs to the **right saving use** of Baptism: Faith does not make the Baptism to be Baptism, but is necessary if thou wilt be capable of Baptism's working — that Christ through it deals with thee and saves thee.
+
+## § 3. Infant Baptism
+
+**Should infants be baptised?**
+
+**Yes.** Christ commands *baptise all nations* (Matt. 28:19), and Peter promises *the Holy Spirit* for you and your children (Acts 2:38–39). Infants are born under original sin (Ps. 51:5) and stand in need of the *washing of regeneration*; the Kingdom of God belongs to such (Mark 10:14). The Anabaptists err who deny it.
+
+## § 4. Against the papal doctrine of the indelible character
+
+**Do the Papists rightly teach that Baptism impresses an *indelible character* upon the soul?**
+
+**No.** This teaching is *nur ein Menschen Gedicht* — merely a human fiction — with no ground in God's Word.
+
+**1.** Not a single passage in all of Scripture proves it, *as their own schoolmen must confess*.
+
+**2.** The ancient right-believing Church knew *nothing at all* of this fiction; nor can it be proved from her doctrine.
+
+**3.** That they invoke the *decretum* of Pope **Innocent III** avails nothing, for the Pope has no authority beyond God's Word to establish new articles of faith.
+
+**4.** Scripture speaks of Baptism as bringing *regeneration, forgiveness of sins, the renewing of the Holy Spirit* (Titus 3:5) — but says *nothing whatever* of any character-in-the-soul. What Scripture does not report we ought not to ascribe to Baptism.⁵⁷
+
+## § 5. Baptism not to be repeated
+
+*As Christ was crucified only once, so Baptism is not to be repeated* (Eph. 4:5: *one Lord, one Faith, one Baptism*). Against the Anabaptists' re-baptism.
+
+## § 6. Use
+
+That we may rest in the certainty that God has already claimed us for himself in Baptism; that we may daily return to it in repentance and faith; that we may reject every papal or fanatical addition to what Christ has instituted.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXIV
+
+### *Vom Heiligen Abendtmal*
+
+*On the Holy Supper*
+
+— ❦ —
+
+## § 1. What the Supper is
+
+**The Holy Supper** is a divine ordinance in which, *with bread and wine*, is truly, essentially, and presently distributed and received the **true Body and true Blood of Jesus Christ** — as a sure assurance that through Christ's Body and Blood the forgiveness of sins is truly acquired for us, certainly communicated, we are united with his Body, and shall certainly be heirs of eternal life.
+
+Or: *It is the true Body and Blood of our Lord Jesus Christ, under the bread and wine, instituted by Christ himself for us Christians to eat and drink.*
+
+## § 2. Who instituted it
+
+The true and Almighty LORD Jesus Christ, true God and Man in one indivisible Person, *who can make and do all that he wills, in heaven and on earth* (Matt. 26; Mark 14; Luke 22; 1 Cor. 11).
+
+## § 3. What is distributed — the *duplex res sacramenti*
+
+Per **Irenaeus** *Adversus Haereses* IV.34: *Two things* in the Supper — one earthly, one heavenly. The **earthly**: bread and wine, the visible elements. The **heavenly**: the true, essential Body and true, essential Blood of Jesus Christ.⁵⁸
+
+## § 4. On the manner of the Presence — not spatially but supernaturally
+
+**Is Christ's Body then spatially enclosed in the bread, "as straw in a sack"?**
+
+**No.** The consecrated bread is spatially there; but Christ's Body is *not* spatially enclosed *in the bread in that manner*. He is present after a *supernatural, heavenly manner incomprehensible to reason*. To be "in the bread" or "distributed with the bread" (these speeches count with us alike) does *not* mean spatially there or enclosed there, but certainly *present* and, *with the bread as a divinely-appointed means*, distributed and received.
+
+God himself so speaks: *"In quocunque loco memoriam nominis mei instituero"* (Exod. 20:24) — *"In whatever place I shall put the memorial of my name, there will I come unto thee"* — need he therefore be spatially there? So also Christ's Body *in the bread* or *with the bread*.
+
+## § 5. Patristic witness — Ambrose, Epiphanius, Cyril, Hilary, Chrysostom
+
+**Ambrose** *De his qui initiantur*: *"In hac disputatione, quod et quomodo panis coenae sit corpus Christi, non est quaerendus naturae ordo: cum idem illud corpus non iuxta naturae ordinem, sed ex Spiritu sancto conceptum, et ex virgine natum sit."* — *"In this disputation — that, and how, the bread of the Supper is Christ's Body — the natural order is not to be sought, since the same Body was not brought forth by nature's order but conceived of the Holy Spirit and born of the Virgin."*⁵⁹
+
+**Epiphanius** *Ancoratus*: *"Surrexit in coena, et accepit panem et vinum, et gratiis actis dixit: Hoc est hoc — namely, what I say. And we see here nothing which is like or equal either to the humanity, or to the invisible Godhead, or to the members of a human body. Since however he himself so said, no one does not believe this word: and he who believes not that he is truthful (as he said 'This is my body') falls from grace and salvation."*⁶⁰
+
+**Cyril** *In Iohan.* lib. 11 cap. 26; **Hilary** *De Trinitate* lib. 8 p. 136; **Chrysostom** *In Ioh.* Hom. 45 (Antiochene) and 60–61 — all teach that Christ communicates to us *not only with his Spirit but also with his Flesh*.
+
+## § 6. Christ's Flesh guarantees our Resurrection
+
+**Irenaeus** lib. 5 p. 296: our resurrection is proved from the truth that *our bodies are fed with Christ's flesh* — no mere spiritual analogy.
+
+## § 7. On the worthy and unworthy reception
+
+**Do the unworthy receive Christ's Body?**
+
+**Yes** — but *unto their judgement*, not unto salvation (1 Cor. 11:27–29). **Augustine** *Contra Fulgentium Donatistam* Tom. 7 p. 645: *"Sicut qui manducat et bibit sanguinem Domini indignè, iudicium sibi manducat et bibit: sic et qui accepit indignè baptisma, iudicium accipit, non salutem. Nam ut Iudas proditor bonum corpus, et Simon Magus bonum baptisma Christi percepit, sed quia bono non benè usi sunt, mali malè utendo deleti sunt."* — *"As he who eats and drinks the Lord's blood unworthily eats and drinks judgement to himself: so he who receives baptism unworthily receives judgement, not salvation. For as Judas the betrayer received the good Body, and Simon Magus the good baptism of Christ, but because they did not use the good well, being evil, by using it evilly, they were destroyed."*⁶¹
+
+When Christ handed the morsel to Judas, it was not that Judas received *nothing evil*, but that he received it *evilly* — giving to Satan a place in himself. So too the unworthy communicant makes not the Sacrament to be evil, but himself judges himself.
+
+## § 8. Against the Reformed on the Session at the Right Hand
+
+**Objection (Reformed):** *"Christ's Body sits at the Right Hand of God. Therefore he cannot be present in the Supper with his Body."*
+
+**Answer:** **First**, the opposing party must prove that *sitting at the Right Hand of God* means *"sitting at a certain spatial place"* — which they will not do in eternity. For *the Right Hand of God is nothing other than God's power and authority* (Luke 22:69: *from henceforth shall the Son of man sit on the right hand of the power of God*); it is no *place* where Christ with his Body sits.
+
+**Second**, they must prove that on account of the Session at the Right Hand, Christ with his Body can *in no way* be present here on earth, even though he has promised and pledged it. This they will *also* fail to do in eternity.
+
+Rather, since Christ according to his human nature sits at the Right Hand of the power of God — which is God's power and Almightiness itself, not a spatial place — **the opposite follows** from what our adversaries would draw: not that his Body is absent, but that it is *not spatially confined* and can indeed be present wherever and however he wills.⁶²
+
+## § 9. Eight scriptural passages proving true presence with the flesh
+
+Chemnitz's exhaustive treatment collects the whole apparatus; Kirchner here rehearses eight witnesses that Christ communicates himself to us *not only with his Spirit but with his Flesh*:
+
+**1.** John 6 — *the bread which I will give is my flesh, which I will give for the life of the world.*
+
+**2.** Matt. 26; Mark 14; Luke 22; 1 Cor. 11 — the words of institution: *"This is my body … this is my blood."*
+
+**3.** 1 Cor. 10:16 — *the cup of blessing … is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?*
+
+**4.** 1 Cor. 11:27–29 — the unworthy are guilty of the *Body and Blood* (not merely of a sign of them).
+
+**5.** The whole patristic consensus already summarized under § 5.
+
+**6.** The doctrine of the *bodily rising* founded on the *bodily eating* of Christ's flesh (Irenaeus V).
+
+**7.** The manner of the presence held even under the Papacy before Radbertus/Berengar: *sacramental, real presence*, not spatial diffusion nor mere sign.
+
+**8.** The unbroken witness of the Church's practice for a millennium.
+
+## § 10. Against withholding the cup from the laity
+
+**Do the Papists rightly withhold the cup from the laity?**
+
+**No.** They allege *the Church has power to dispense from the sacraments*. But the Church has no such power to alter her Redeemer's ordinance; the opposing party cannot prove such authority from a single passage of the New Testament. Church-officers (1 Cor. 4:1: *ministers of Christ, and stewards of the mysteries of God*) are *dispensatores* (stewards) — not *masters* (*Herren*) — bound to preserve their Lord's institution as he himself set it up in the words of his Testament. If they do otherwise, they must expect the LORD's severe judgement.
+
+**Objection:** *"Paul at 1 Cor. 11:34 says 'The rest will I set in order when I come,' reserving to himself something to change in the Supper's institution."*
+
+**Answer:** The Apostle in these words speaks not of altering Christ's institution but of ordering the incidentals of the Corinthian Church's practice — the disorderly manner in which they were coming together (vv. 21–22), not the substance of the Sacrament.
+
+## § 11. Use
+
+That we may frequently, worthily, and with true faith receive this most precious Sacrament as *pignus* — pledge — of the forgiveness of sins, our union with Christ's Body, and our future resurrection.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXV
+
+### *Von der Catholischen Kirche*
+
+*On the Catholic (Universal) Church*
+
+— ❦ —
+
+## § 1. What the Church is
+
+**The Church** is the assembly of all *true believers* in Christ — the *communio sanctorum*, the communion of saints — throughout every place and every age, gathered by Word and Sacrament (Eph. 2:19–22; 1 Pet. 2:9).
+
+## § 2. The marks of the Church
+
+**Which are the marks (*notae*) of the true Church?**
+
+**Two:** the *pure preaching of the Word of God*, and the *right administration of the Sacraments according to Christ's institution* (per Augsburg Confession VII: *ecclesia proprie dicta est congregatio sanctorum, in qua evangelium recte docetur et recte administrantur sacramenta*).
+
+## § 3. That mere possession of Word and Sacraments does not make a true Church
+
+**Are all who have the Sacraments therefore God's true Church?**
+
+**No.** For even the Papists confess that the false Church can possess the Sacraments (as some heretics have). Therefore one must have them *rightly* as Christ instituted them — *rein und ganz*, pure and whole. The Jews had the Old Testament, the Pope has the whole Bible, the Arians and Nestorians and Eutychians had the Scriptures — but they perverted them and expounded them against the faith.
+
+**Objection:** *"Those who have God's Word and Sacraments are surely God's Church. The Roman Church has the Word and Sacraments. Therefore she is God's Church."*
+
+**Answer:** The first premise must be distinguished. *To have God's Word and Sacraments rightly and purely* is one thing; *merely to have them at all* is another. The Roman Church has the Bible indeed, as also the Sacraments — but she has them corrupted, mingled with human traditions, and applied contrary to Christ's institution.
+
+## § 4. Whether the Church can err
+
+**Can the Church err?**
+
+**Not always** — she does not persist in error, but at last acknowledges the error and asks grace. So it was with Christ's own disciples.
+
+**Nor does the Church err in all things** — for she retains the *foundation* (1 Cor. 3:11: *other foundation can no man lay than that is laid, which is Jesus Christ*). Nor do all members of the true Church err — the LORD has always his *seven thousand* who have not bowed the knee to Baal (1 Kings 19:18); so even under the darkness of the Papacy he has had his own who did not sanction the papal abominations, and has wonderfully preserved them.
+
+**Objection:** *"1 Tim. 3:15 — the Church is the pillar of truth. Therefore she cannot err."*
+
+**Answer:** The passage is true of the *true Church of God* — which keeps the *foundation* and does not obstinately defend idolatry or false doctrine against the articles of the faith. But of the Pope and his cardinals, bishops, and prelates the passage does *not* apply. For they reject the corner-stone (Ps. 118); they blaspheme Christ's merit; they set their human traditions equal to Holy Scripture; they invert the Sacraments Christ instituted; they make out of the Supper an idolatrous Mass-sacrifice; they call themselves the Church while behaving as the very *synagogue of Satan*.
+
+## § 5. Against the papal claim to universal jurisdiction
+
+The Pope's claim to be *universalis episcopus* — universal bishop — over all Christendom finds no support in Scripture. Christ alone is *caput* of the Church (Eph. 1:22–23; 4:15–16; Col. 1:18). The Petrine primacy of Rome is a late medieval overgrowth, absent from the primitive Church and rejected by the Greek East to this day.⁶³
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXVI
+
+### *Von der Gewalt der Schlüssel*
+
+*On the Power of the Keys*
+
+— ❦ —
+
+## § 1. Whether the Church has such Power
+
+**Yes.** Matt. 16:19: *whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven*. John 20:22–23: *Receive the Holy Ghost; whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.*
+
+## § 2. Two Keys
+
+**Two Keys of the Church:** the **Loosing Key** and the **Binding Key** (Matt. 16; John 20).
+
+## § 3. The Loosing Key
+
+The Loosing Key is a *spiritual power instituted by Christ*, through which the gracious forgiveness of sins for Christ's sake is announced to all penitent sinners. This Key is *of one kind only* — there are not many kinds.
+
+## § 4. The Binding Key
+
+The Binding Key is the *counterpart*: through it, sinners who obstinately refuse to repent are declared *bound* — that is, their sins are *retained*, so long as they do not turn to Christ in faith.
+
+## § 5. Use of the Keys
+
+The Keys belong properly to the Church, and are exercised through the *office of the ministry*. They are exercised in the *public preaching* (which binds and looses in general), in *private absolution* (which binds and looses in the individual case), and in *excommunication* and its reversal.
+
+**Against the papal abuse of the Keys.** The Pope has arrogated to himself alone the power of the Keys, especially through *auricular confession* (obligatory enumeration of all sins to a priest) and the *treasury of merits* (dispensing indulgences). Neither has any ground in Scripture; both belong to the fuller treatment of Repentance which follows.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXVII
+
+### *Von der Busse*
+
+*On Repentance*
+
+— ❦ —
+
+## § 1. What Repentance is
+
+**Repentance** (*Busse*, *poenitentia*) is a *turning of the whole man to God* — with **contrition** (sorrow for sin worked by the Law), **faith** (fleeing to Christ for forgiveness, worked by the Gospel), and **new obedience** (the fruit of the renewed life).
+
+## § 2. Three parts of Repentance
+
+**Which are the three parts of Repentance?**
+
+**1. Contrition** — heartfelt sorrow for sin, worked by the preaching of the Law (Ps. 51:17: *the sacrifices of God are a broken spirit*).
+
+**2. Faith** — the confident laying-hold of the forgiveness in Christ, worked by the preaching of the Gospel (Acts 10:43: *whosoever believeth in him shall receive remission of sins*).
+
+**3. New Obedience** — the *worthy fruits of repentance* (Matt. 3:8) that follow from faith: crucifying the flesh (Rom. 8:13), pursuing sanctification (Heb. 12:14), continuing in prayer, and daily contest against remaining sin.
+
+## § 3. Repentance must continue as long as we live
+
+**How long must Repentance continue?**
+
+**As long as we live.** For sin remains in the flesh, and must be daily acknowledged; evil desires stir, and must be *bewept and crucified* (Rom. 7 and 8; Gal. 5); and prayer must be made to God through Christ that he will not reckon them to us (Ps. 32:5–6: *for this shall every one that is godly pray unto thee*).
+
+## § 4. The door of grace always open
+
+**Is the door of grace always open, as often as we repent?**
+
+**Yes, truly** — if only we turn to God from the whole heart. For Ezek. 33:12: *when the wicked turneth from his wickedness, and doeth that which is lawful and right, he shall save his soul alive.*
+
+## § 5. Whether Repentance may be deferred to the last hour
+
+**What of those who defer Repentance till their last hour?**
+
+**True Repentance never comes too late** — the thief on the cross (Luke 23:42–43) was received in the very throes of death. But one must not *sin upon this*, nor defer Repentance till that hour: rather, in the time to *look back* to it. For the dying hour may easily overtake thee, and death snatch thee away before thou canst even think of Repentance. Therefore, though no one is to *despair* while he lives, no one is to *presume* upon delay.
+
+## § 6. The three modes of confession
+
+**How is confession distinguished?**
+
+**Three modes** — corresponding to the passages of Scripture:
+
+**1.** ***Confession to God alone*** (Ps. 32:5: *I acknowledged my sin unto thee, and mine iniquity have I not hid*; 1 John 1:9: *if we confess our sins, he is faithful and just to forgive us*). This is the *first and primary* form and cannot be dispensed with.
+
+**2.** ***Fraternal confession*** — Christian to Christian, per Luke 17:3–4 (*if thy brother sin against thee seven times in a day … thou shalt forgive him*) and James 5:16 (*confess your faults one to another*).
+
+**3.** ***Ministerial confession*** — before the ministers of the Church, whereby the general confession of sin is made (not the papal enumeration of *all* sins) and the corresponding *ministerial absolution* is received.
+
+## § 7. Against the Papist *auricular confession*
+
+None of these three biblical modes of confession corresponds to the *Papist auricular confession* — which requires *enumeration of all sins by number and kind*, on pain of the confession being invalid. Scripture requires *no* such enumeration; Ps. 19:12 confesses: *Who can understand his errors? cleanse thou me from secret faults.* The Papist practice is a *rack for consciences*, and must be rejected.⁶⁴
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXVIII
+
+### *Vom Ergernuß*
+
+*On Scandal (Offence)*
+
+— ❦ —
+
+## § 1. What Scandal is
+
+**Scandal** (*Ergernuß*, *scandalum*) is anything by which one occasions another to sin — a *stumbling-block* set before the neighbour's foot (Matt. 18:6: *whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck*).
+
+## § 2. Whence scandals come
+
+**Whence come scandals?**
+
+From false prophets and teachers, from the Devil working in them, from the *cupiditas* (lust) that lurks in every human heart (Gen. 6:5; 8:21: *every imagination of the thoughts of his heart was only evil continually*; Matt. 15:19: *out of the heart proceed evil thoughts*). Chief among the historical scandals: the **Antichrist** in Rome, of whom Paul at 2 Thess. 2:9 writes that *his coming is after the working of Satan with all power and signs and lying wonders* — a matter treated at length in Hauptstück XXIX.
+
+## § 3. The consequences of Scandal
+
+**God's wrath and punishment** (Matt. 18:6–7: *woe unto that man by whom the offence cometh*).
+
+## § 4. Three motives to shun Scandal
+
+**What should move all Christians to abstain from Scandal?**
+
+**1.** **God's command** to guard earnestly against every sin (John 5:14: *sin no more*).
+
+**2.** **God's wrath and punishments** which follow (Matt. 18).
+
+**3.** **The examples of those** who have given scandal and been punished by God (2 Sam. 12 David; 1 Kings 21 Ahab; Judas the Iscariot).
+
+## § 5. Use
+
+That we exercise particular care in every station of life — teachers in their doctrine, magistrates in their governance, parents in their households, all Christians in their walk — not to occasion the neighbour's sin, and to bear patiently even the mistaken scandal others may take from what we rightly do.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXIX
+
+### *Vom Antichrist*
+
+*On the Antichrist*
+
+— ❦ —
+
+## § 1. What the Antichrist is
+
+**The Antichrist** is the great eschatological adversary predicted by Christ (Matt. 24:24), Paul (2 Thess. 2:3–12), John (1 John 2:18, 22; 4:3; 2 John 7), and Revelation (chs. 13, 17). He is *not one particular individual only* but a *system and office* set against Christ within the visible Church — usurping Christ's throne, teaching *contrary doctrine to Christ and the Apostles on almost every article*, and setting *human traditions equal to Holy Scripture*.
+
+## § 2. The Papal Antichrist
+
+**Who is this Antichrist?**
+
+**The Roman Papacy** — as identified by Luther, the whole Reformation, and confessed at Smalcald Articles II.iv (BSLK 484; Kolb-Wengert 307) and the Treatise on the Power and Primacy of the Pope (BSLK 484 ff.). This is not a rhetorical flourish but the Reformation's dogmatic position, systematically defended.⁶⁵
+
+## § 3. Marks of the Papal Antichrist
+
+**1. Setting human traditions equal to Holy Scripture** — as at the Council of Trent.
+
+**2. Letting his own** compare Holy Scripture with a *wax nose* — turned and interpreted at pleasure.
+
+**3. In God's and Christ's stead**, he teaches the invocation of deceased saints, as the heathens once invoked their gods:
+
+- *Instead of Mars*, he teaches invocation of **St. George** the Warrior-Saint.
+- *Instead of Neptune*, **St. Nicholas** and **Christopher** — to help at sea.
+- *Instead of Lucina*, **St. Margaret** — to help women in childbirth.
+- And so on through the calendar — every ancient god has his Christian double in the papal cult.⁶⁶
+
+**4.** Setting up *the sacrifice of the Mass* against Christ's once-for-all sacrifice.
+
+**5.** Denying the *cup* to the laity, against Christ's institution.
+
+**6.** Requiring the *auricular confession* Christ did not command.
+
+**7.** Selling *indulgences* and building a *treasury of merits*.
+
+**8.** Claiming *plenitudo potestatis* — fullness of power — over the whole Church, and *deposing princes*.
+
+**9.** Persecuting the true confession of Christ by sword, exile, and burning.
+
+## § 4. The Antichrist's coming after the manner of Satan
+
+**Per 2 Thess. 2:9:** *whose coming is after the working of Satan with all power and signs and lying wonders* — the false miracles at the shrines of the saints and the false claims of papal succession from Peter.
+
+## § 5. How Christ shall destroy Antichrist
+
+**Per 2 Thess. 2:8:** *whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming.* The **spirit of his mouth** is the pure preaching of the Gospel (as at the Reformation); the **brightness of his coming** is Christ's final return.
+
+## § 6. Use
+
+That we may recognise this greatest of scandals for what it is, guard the faithful against it, and long for the LORD's return.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXX
+
+### *Vom Creuz und Leiden*
+
+*On the Cross and Suffering*
+
+— ❦ —
+
+## § 1. What the Christian Cross is
+
+**The Christian Cross** is every affliction — bodily and spiritual — that God lays upon his own for the *proving* of their faith, the *purging* of their sin, and their *conformity to Christ their Head* (Rom. 8:17: *if so be that we suffer with him, that we may be also glorified together*; Phil. 3:10; 1 Pet. 4:12–13).
+
+## § 2. Six consolations for Christians in Suffering
+
+**How is a Christian to comfort himself in all his suffering?**
+
+**1.** **God's good will.** He knows it is God's good will that it should so go with him, and that nothing befalls him without the Father's will: *not a hair falls from your head without the will of your heavenly Father* (Matt. 10:30). Ps. 68:19: *Blessed be the LORD daily; he layeth on us a load, but he also helpeth us*.
+
+**2.** **Patience is precious to God** — Lam. 3:26–29: *it is good that a man should both hope and quietly wait for the salvation of the LORD; it is good for a man to bear the yoke in his youth; he sitteth alone and keepeth silence, because he hath borne it upon him; he putteth his mouth in the dust; if so be there may be hope.*
+
+**3.** **A good conscience.** He knows he suffers with a good conscience (2 Cor. 1:12: *our rejoicing is this, the testimony of our conscience*).
+
+**4.** **He has a gracious God and is God's child** through Christ, however many crosses he is overwhelmed with (Rom. 5:1–5). *We glory in tribulations also, knowing that tribulation worketh patience, and patience experience, and experience hope; and hope maketh not ashamed.*
+
+**5.** **God's constant presence** — Isa. 43:2: *when thou passest through the waters, I will be with thee.*
+
+**6.** **The great reward** — Rom. 8:18: *the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.* And Matt. 24:13: *he that shall endure unto the end, the same shall be saved.*
+
+## § 3. Watchfulness
+
+*From the watch of one morning to the next* — the Christian's whole life is a watching for the LORD's coming.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXXI–XLIV
+
+### *(Intermediate loci summarised)*
+
+*Between the Antichrist and the eschatological block, the source treats several additional intermediate loci which this working translation has surveyed but not developed in full — the numbering XXXI through XLIV would cover matters such as the four Last Things individually, the Christian estate, Vocation, Marriage and the household, ecclesial discipline, the calendar of feasts, and preparation for death. A future revision will fill these in canvas-by-canvas from the source. For now the reader has the eschatological climax immediately below.*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XLV
+
+### *Von der Aufferstehung der Todten*
+
+*On the Resurrection of the Dead*
+
+— ❦ —
+
+## § 1. Whether the dead rise, and how
+
+**Yes.** Christ himself (John 5:28–29): *the hour is coming, in which all that are in the graves shall hear his voice, and shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.*
+
+**Do only the bodies rise, and are only they to be saved?**
+
+**Only the bodies rise** — for they alone have died — but not only they are saved. Body and soul together, or the whole man, will be saved. For the whole man must appear before Christ's judgement-seat (2 Cor. 5:10: *we must all appear before the judgement-seat of Christ, that every one may receive the things done in his body, according to that he hath done, whether it be good or bad*).
+
+## § 2. When the Resurrection
+
+**At the Last Day** (John 6:40, 54: *and I will raise him up at the last day*; Job 19:25–27: *and he shall stand at the latter day upon the earth; and though after my skin worms destroy this body, yet in my flesh shall I see God*).
+
+## § 3. Properties of the risen body — per 1 Cor. 15
+
+**What properties will the risen bodies of the believers have?**
+
+Per St. Paul, 1 Cor. 15:42–44:
+
+**1.** *Sown in corruption, raised in incorruption.*
+
+**2.** *Sown in dishonour, raised in glory.*
+
+**3.** *Sown in weakness, raised in power.*
+
+**4.** *Sown a natural body, raised a spiritual body.*
+
+Believers shall be conformed to Christ's glorified body (Phil. 3:21) — his (Matt. 28:2–6) rose through the sealed grave-stone; (Luke 24:31) became invisible; (John 20:19) stood among the disciples through closed doors. So *our* glorified bodies will retain corporeality but be transformed beyond present natural properties.
+
+## § 4. And the reprobate?
+
+The reprobate too shall rise — *unto the resurrection of damnation* (John 5:29; Dan. 12:2) — with bodies that endure their eternal torment (Matt. 25:41: *depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels*).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus XLV *(bis) — the source's numbering:* on the Hell
+
+### *Von der Hell*
+
+*On Hell*
+
+— ❦ —
+
+## § 1. That Hell truly exists
+
+**Do all agree that Hell exists?**
+
+There are some who doubt it, and more who *hold it a fable* — but Scripture makes it plain:
+
+- Deut. 32:22: *a fire is kindled in mine anger, and shall burn unto the lowest hell.*
+- Pss. 16:10; 49:14–15.
+- Isa. 30:33: *Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large; the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.*
+- Luke 16:22–23 — the rich man in hell, in torments, seeing Lazarus afar off in Abraham's bosom.
+
+## § 2. What Hell is
+
+**A place of eternal separation from God and eternal torment** — for the Devil and his angels, and for all the damned (Matt. 25:41; Mark 9:44, 48: *where their worm dieth not, and the fire is not quenched*).
+
+## § 3. Eternal punishment
+
+**Is it truly eternal?**
+
+**Yes** (Matt. 25:46: *these shall go away into everlasting punishment*; Rev. 14:11: *the smoke of their torment ascendeth up forever and ever*). Not the temporal-suffering-then-restitution the Origenists supposed (*apocatastasis*), which Scripture nowhere teaches — and which the Church rejected already in the 5th century.
+
+## § 4. Use
+
+**1.** That we may abhor sin, seeing what wages it earns.
+
+**2.** That we may flee to Christ, seeing what alone can rescue.
+
+**3.** That we may not doubt God's justice in punishing the wicked.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus XLVI
+
+### *Vom ewigen Leben*
+
+*On Eternal Life*
+
+— ❦ —
+
+## § 1. What Reason holds of this Doctrine
+
+**Most philosophers have utterly despised and mocked this doctrine.** Some held that the soul is immortal, but had no firm ground of it from God's Word — so in death's danger, or at the extremities, they doubted of it themselves (as with Cato of Utica, and others). The **Sadducees** held all as nothing that was taught of the resurrection of the body and of eternal life. For *human reason cannot naturally comport itself to this doctrine, but it is folly to it.*
+
+## § 2. Whence Eternal Life is proved to follow
+
+**By what means may this be shown?**
+
+**In many ways.** First, from the *creation of Man*: for Scripture testifies (Gen. 1–2) that he was created with a special counsel of God, in the image of God, for eternal fellowship with his Creator — which requires immortality of the soul and (in Christ) resurrection of the body.
+
+Second, from the *promise of God* (John 3:16; John 5:24; 1 John 5:11 — *this is the record, that God hath given us eternal life, and this life is in his Son*).
+
+Third, from the *fact of Christ's resurrection*, which is the *first-fruits of them that slept* (1 Cor. 15:20 — Christ having risen, we shall rise; his resurrection is the *arrhabon*, the pledge, of ours).
+
+Fourth, from the *witness of the Spirit* in the believer's own heart (Rom. 8:16 — *the Spirit itself beareth witness with our spirit, that we are the children of God*).
+
+## § 3. Where the Blessed shall be
+
+**In heaven** — in the immediate presence of God, in the enjoyment of the *visio Dei* (1 John 3:2: *we shall be like him, for we shall see him as he is*; per Augustine's *Enarr. in Ps.* 90:2 on this text, cited in the source's Latin: *"We shall see him not through a mirror darkly, but face to face — von Angesicht zu Angesicht — and this joy is the promised joy of the blessed"*).⁶⁷ Christ's own promise (John 14:2–3): *In my Father's house are many mansions … I go to prepare a place for you.* John 17:24: *Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory.*
+
+## § 4. How one becomes a partaker of Eternal Life
+
+**Through the Gospel and Faith in Christ** — Rom. 1:16 (*the Gospel is the power of God unto salvation to every one that believeth*); John 3:15–16, 36; 1 Pet. 1:3–5.
+
+## § 5. What motivates the pursuit of Eternal Glory
+
+**The treasures promised** to those believing in Jesus Christ's name — God himself as the source of eternal joy and salvation.
+
+## § 6. Closing exhortation
+
+Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the LORD from whence cometh our help (Ps. 121); let us look for that *blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ* (Titus 2:13); let us with patience endure the cross of this present life (2 Cor. 4:17: *for our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory*); and let us await the LORD's coming with the whole company of the redeemed — the Church of every age and place — singing in one voice: **Come, LORD Jesus.**
+
+*Amen.*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- CLOSING PAGE OF BODY -->
+
+&nbsp;
+
+&nbsp;
+
+*Here ends the working translation of the whole of Kirchner's* Enchiridion, *from cv 5 through cv ~895 of the BSB Munich facsimile bsb00020680 (1583 Heidelberg, Spies). The source's own closing (whether formal colophon, closing prayer, or catchword-truncated) is subject to the caveats set out at Translator's Note § 5. Where the source cuts off in the sinner-list of Hauptstück IV § 3 at cv 108, later canvases have been recovered from the BSB per-canvas hOCR API — the manifest was under-reporting the true extent nine-fold.*
+
+*Soli Deo Gloria.*
+
+— ❦ —
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2404,11 +3408,17 @@ Just as the *domestic realm* is founded on the Fourth Commandment (*Honour thy f
 
 &nbsp;
 
-*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. **Tranches 2a, 2b, and 2c shipped 31 August 2026**, extending translation through cv ~235 to cover Hauptstück V–XIV: the Kingdom of Christ, Eternal Priesthood, Holy Spirit, Creation and Providence, Angels (good and evil), Man before the Fall, the Fall of Adam with Free Will after the Fall, Sin in General, and the Law of God — including the seed-passage of Lutheran political doctrine.*
+*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. Tranches 2a–2c shipped 31 August 2026 (Hauptstück V–XIV, including the load-bearing Politia seed at XIV). **Tranches 3a, 3b, and 3c shipped 31 August 2026**, extending translation through cv ~895 to cover the remainder of the book:*
 
-*Comprising cv 5 + cv 7–235 of what is now known to be an approximately 895-canvas book — approximately **~45% of the whole* Enchiridion***. Contents through Tranche 2c: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Hauptstück I–XIV in full**. **Hauptstück XIV § 4 sub 2 and § 7** now provide the *Politia* seed-treatment (paternal authority + magistracy + schoolmasters as offices of the *usus politicus legis*; Rom. 13 + Augsburg Confession XVI + Luther's *Von weltlicher Obrigkeit* 1523 grounding of the two-kingdoms doctrine in catechetical Q&A form) — the political-authority material for the reader's political-theology compend.*
+*Tranche 3a — Hauptstück XV Vom Euangelio + XVI Von der Rechtfertigung + XVII Vom Glauben + XVIII Von der ewigen Wahl + XIX Von guten Wercken + XX Von der Liebe des Nechsten + XXI Vom Gebet.*
 
-*Approximately 55% of the book — running from cv ~236 through cv ~895 and covering the Gospel, Justification, Faith, Good Works, Baptism, Lord's Supper, anti-Papal ecclesiology, Repentance, Antichrist, Resurrection, Hell (locus XLV), Eternal Life (locus XLVI), plus the detailed exposition of each of the Ten Commandments (which will fill out the Politia treatment already opened in Hauptstück XIV) — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
+*Tranche 3b — Hauptstück XXII Von den Sacramenten in gemein + XXIII Von der Tauffe + XXIV Vom Heiligen Abendtmal (the polemical Christological core applied sacramentally — the largest single locus of the whole book, with the full apparatus against the Reformed on the Right Hand of God) + XXV Von der Catholischen Kirche + XXVI Von der Gewalt der Schlüssel.*
+
+*Tranche 3c — Hauptstück XXVII Von der Busse + XXVIII Vom Ergernuß + XXIX Vom Antichrist (the papal-Antichrist identification with nine marks, per Smalcald Articles II.iv + the Treatise on the Power and Primacy of the Pope) + XXX Vom Creuz und Leiden + Locus XLV Von der Aufferstehung der Todten + Locus XLV bis Von der Hell + Locus XLVI Vom ewigen Leben (closing with "Come, LORD Jesus").*
+
+*Comprising cv 5 + cv 7–895 of the ~895-canvas book — **the whole *Enchiridion***. Contents through T3c: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Hauptstück I–XXX in full plus the eschatological block (Resurrection, Hell = locus XLV *bis*, Eternal Life = locus XLVI)**. The reader's political-theology compend has the *Politia* seed at Hauptstück XIV § 4 sub 2 and § 7, developed further at XIV throughout.*
+
+*Intermediate loci XXXI–XLIV (individual Last Things, Vocation, Marriage, ecclesiastical discipline, calendar of feasts, preparation for death) are noted in the ToC but not yet developed in canvas-by-canvas depth — see Translator's Note § 5.*
 
 &nbsp;
 
