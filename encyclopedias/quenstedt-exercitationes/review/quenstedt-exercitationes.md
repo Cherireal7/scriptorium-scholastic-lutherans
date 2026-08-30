@@ -57,27 +57,24 @@ Working English edition · 2026
 |  | Page |
 |:---|---:|
 | Translator's Note | i |
-| **Front Matter** *(from the 1685 Wittenberg imprint)* | 1 |
-| &nbsp;&nbsp;&nbsp;Title Page | 1 |
-| &nbsp;&nbsp;&nbsp;Dedicatory Epistle *(if present in the paratexts of Pars Prima)* | — |
-| &nbsp;&nbsp;&nbsp;Praefatio ad Lectorem | — |
-| **Chapter I. Of Theology in General** *(De Theologia in genere, pp. 1–27)* | — |
-| **Chapter II. Of the General Object of Theology — Religion** *(De Objecto Theologiae generali, Religione, pp. 28–45)* | — |
-| **Chapter III. Of the Principle of Theology** *(De Theologiae Principio, pp. 46–76)* | — |
-| **Chapter IV. Of the Sacred Scripture — First Part** *(De Sacra Scriptura, pp. 77–ca. 210)* | — |
-| &nbsp;&nbsp;&nbsp;The Name, the Authors, the Canon | — |
-| &nbsp;&nbsp;&nbsp;The Autographs and the Apographs | — |
-| &nbsp;&nbsp;&nbsp;The Languages of Scripture — Hebrew, Aramaic, Greek | — |
-| &nbsp;&nbsp;&nbsp;The Vernacular Translations | — |
-| &nbsp;&nbsp;&nbsp;The Vowel Points — the Buxtorf-Cappellus Controversy | — |
-| &nbsp;&nbsp;&nbsp;The Affections of Scripture — Authority, Perfection, Perspicuity, Efficacy | — |
-| **Chapter IV. Of the Sacred Scripture — Second Part** *(De Sacra Scriptura cont'd, pp. ca. 210–347)* | — |
-| &nbsp;&nbsp;&nbsp;Scripture and Tradition | — |
-| &nbsp;&nbsp;&nbsp;Scripture and the Church | — |
-| &nbsp;&nbsp;&nbsp;The Analogy of Faith | — |
-| &nbsp;&nbsp;&nbsp;The Use of Scripture | — |
-| &nbsp;&nbsp;&nbsp;The Reading of Scripture by the Laity | — |
-| &nbsp;&nbsp;&nbsp;Objections and Refutations | — |
+| **Front Matter** *(from the 1691 Wittenberg imprint, BSB Munich `bsb11205336`)* | 1 |
+| &nbsp;&nbsp;&nbsp;Praefatio ad Lectorem *(Preface to the Reader)* | 1 |
+| &nbsp;&nbsp;&nbsp;Table of the Chapters of Part I | — |
+| **Chapter I. Of Theology in General** *(De Theologia in genere, folio pp. 1–19, canvases 19–37)* | — |
+| &nbsp;&nbsp;&nbsp;**Section One — Didactic** *(pp. 1–12, canvases 19–30)* | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses I–III: Definition; the double homonymy; archetypa/ectypa | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses IV–VIII: Archetypa in the Trinity; in Christ *θεάνθρωπος*; theology of Angels | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses IX–XV: Viatorum vs. comprehensorum; Paradisiac; post-lapsum natural and supernatural | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses XVI–XXVI: Catechetic vs. Acroamatic; Exegetic, Didactic, Polemic, Homiletic, Casual, Historical, Patria | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theses XXVII–XXXIX: Wholly / partially; essentially / accidentally; systematic; habitual; the causes; form; matter; subject; end | — |
+| &nbsp;&nbsp;&nbsp;**Section Two — Polemic** *(pp. 13–19, canvases 31–37)* | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question I: *An detur Theologia?* — Whether Theology is given | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question II: *An Theologia revelata in Ecclesia sit necessaria?* — Whether Revealed Theology is necessary | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question III: *An Theologia sit habitus θεόσδοτος practicus?* — Whether Theology is a divinely-given practical habit | — |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authors on Theology in general, to be consulted | — |
+| *(Chapter II. Of the General Object of Theology — Religion) — pending* | — |
+| *(Chapter III. Of the Principle of Theology) — pending* | — |
+| *(Chapter IV. Of the Sacred Scripture) — pending, optional per scope decision* | — |
 | **Notes** | — |
 | **Glossary of Terms** | — |
 
@@ -300,9 +297,501 @@ According to that homonymy which we called *analogical*, true Theology is distin
 
 *Note II.* *Archetypal* Theology is the origin and principle of all wisdom; *ectypal* is *its outflowing and out-shining* (*ἀπόρροια καὶ ἀπαύγασμα*), or effigy. That is the *undoctored Wisdom* (*σοφία ἀδίδακτος*); this is *the word of taught Wisdom* (*διδακτῆς σοφίας λόγος*), which is taught and learned (1 Cor. 2:13). That is most perfect, wholly at once, and pure act (*actus purissimus*); this is imperfect, partial, discrete, habitual.
 
+##### *Θέσις IV — Thesis IV*
+
+**The archetypal Theology is not only *in* GOD, but is God himself** — who is here wondrously *the knowable, the knower, and knowledge* itself (*ἐπίστητον, ἐπιστήμων καὶ ἐπιστήμη*); that is, the very subject that knows, the very object that is known, and the very knowing itself; or, put in the theological terms: *the thing theological, the theologian, and Theology*. For God's *being*, *knowing*, and *wisdom* are one and the same. And since the archetypal Theology is of the essence of the divine nature, therefore — as the very *being* of GOD — this *θεοσοφία* is common to Father, Son, and Holy Spirit.
+
+We prove this thesis from **Matthew 11:27**: *"No one knows the Son but the Father; nor does anyone know the Father but the Son, and he to whom the Son wills to reveal him"*; and from **1 Corinthians 2:10–11**: *"The Spirit [of GOD] searches all things, even the deep things of God … And the things of God no one knows except the Spirit of God."*
+
+*Observation (1).* At the earlier place (Matthew 11:27), some interpreters think that *ἐπιγινώσκειν* is put for *γινώσκειν*; but **Chrysostom** much more rightly holds that an *accurate cognition* — an *ἀκριβὴς γνῶσις*, as he expresses it — is denoted.
+
+*Observation (2).* At the same place the knowledge by which the divine persons most intimately and most perfectly know one another is ascribed only to Father and Son; but this exclusive proposition does not exclude the Holy Spirit — only what is diverse from the divine nature, that is, creatures. This is according to the theological axiom: *"The exclusive particles* only, alone, merely, *and the like, when added to essential attributes in divine things, exclude only other essences and things of another nature."* And that we may understand the Holy Spirit is not excluded, the Apostle at the second place vindicates to the Holy Spirit the searching-out and knowledge of all the things which are God's.
+
+*Observation (3).* The verb *ἐρευνᾶν* does not here denote a laborious investigation, but an exquisite cognition, which has place only in divine things — for divine *ἐρεύνησις* takes place through a simple intuition, without any labour of investigation. Therefore searching (*scrutinium*) is attributed here to the Holy Spirit, not as of one ignorant (as Crellius maintains, *De uno Deo*, book I, part i, sect. 3, ch. 14), but as of the simple intuition that penetrates all things and knows them most exactly — the same way in which God and Christ are said elsewhere to *search the reins and hearts* (Ps. 7:10 [ESV 7:9]; Jer. 11:20; Rom. 8:27; Rev. 2:23). Indeed, of him of whom v. 10 says *ἐρευνᾷ* ("he searches"), v. 11 says *οἶδεν* ("he knows") — so that you may know that the *searching* of v. 10 is put for its consequent.
+
+##### *Θέσις V — Thesis V*
+
+**This divine and unsearchable archetypal Theology belongs to Christ *θεάνθρωπος* (God-Man)** — (1) *by nature and essentially*, in as much as he is GOD; (2) *by the grace of union*, that is, *personally*, in as much as he is man, that is, according to his human nature. And in this second respect it is also called **Theology of Union** (*Theologia Unionis*), because by force of the hypostatic union it was in time communicated to the assumed nature of Christ.
+
+*Note.* Franciscus Junius (*De Theologia*, ch. 4, thesis 7) and Alsted (*Præcognita Theologica*, book I, ch. 4, at the end) say that the archetypal Theology is incommunicable — because, as proper to the Deity, it can be communicated to no created thing; that it is communicative not properly of itself, but only of its image; and thence they infer further that this essential Theology of God could not have been communicated to the human nature of Christ. But a distinction must be drawn: between created things left to themselves, that is, constituted outside God, and the human nature of Christ subsisting in the hypostasis of the Son of God. To the former, we concede, only the image of that infinite Wisdom of God is transmitted; but the infinite and essential Wisdom of God itself has been truly and really communicated to the humanity of Christ — this we affirm.
+
+We prove our thesis from **Colossians 2:3**: *"In whom are hidden all the treasures of wisdom and knowledge."*
+
+*Observation (1).* That *"in whom"* is not to be referred to the phrase *"of the mystery"* (*τοῦ μυστηρίου*) in verse 2 — that is, "in the mystery of God the Father and Christ, that is, in the Gospel, all the treasures of wisdom and knowledge are hidden" — as Zanchius (*De Incarnatione*, book 2, p. 12), Pareus (*Commentary* on this place), and other Calvinists will have it; but it is to be referred to the immediately preceding *Christ*. For relative pronouns are ordinarily referred to their immediately preceding names, not to remote ones, unless another consideration of context and another pregnant cause persuade otherwise. And the subject here is not the mystery or the Gospel, but the person of Christ, as is plain from comparison with verse 9.
+
+*Observation (2).* The speech is not of the treasures of created and finite wisdom (as the Calvinists contend) but of uncreated and infinite. For it is *this* (not the other) which in Scripture is called *the treasure of all wisdom and knowledge*, and which is *synonymously* (*συνωνύμως*) explicated by *βάθος πλούτου καὶ σοφίας καὶ γνώσεως θεοῦ* — *"the depth of the riches and of the wisdom and knowledge of God"* — in Romans 11:33.
+
+*Observation (3).* Although the text speaks not expressly of the humanity of Christ but of Christ (as Wendelinus objects, *Exercitationes Vindicae* LVII § 18), yet it cannot be understood except of the human nature, because in the Deity of Christ the treasures of wisdom and knowledge cannot properly be stored, since he is himself the infinite Wisdom *ἐνδοτέρως*. Therefore all the treasures of wisdom and knowledge hidden in Christ are to be understood according to that nature *according to which* the *πλήρωμα τῆς θεότητος* (v. 9), that is, the fullness of the Godhead, dwells in him — namely, the human nature. And that the speech is here of Christ as man, that is, according to his human nature, is manifest also from the word *ἀπόκρυφοι* (*hidden*); for in the humanity of Christ those treasures of wisdom and knowledge were indeed possessed in the state of humiliation, but rarely appeared or were manifested (compare Philippians 2:6–8).
+
+##### *Θέσις VI — Thesis VI*
+
+**The Theology of the human nature of Christ is** (1) *connate* (given from creation of the soul); (2) *infused* (poured in); (3) *acquired by experience*; and (4) finally *intuitive by way of excellence*. That which is *habitual and experimental* was Christ's *in diebus carnis* (in the days of his flesh); the *intuitive* he now enjoys in the other life, and it belongs to him in a mode far more excellent and eminent than to any of the heavenly ones or the blessed — this by force of the *glorification of the human nature*.
+
+We prove this thesis from **Luke 2:40**: *"And the child grew, and was strengthened in Spirit, filled with wisdom; and the grace of God was upon him."* And v. 52: *"And Jesus advanced in wisdom, and in stature, and in favour with God and men."*
+
+*Observation (1).* The advancement in wisdom is here said of Christ not by reason of his divinity, but of his humanity. For as the increase of stature belonged to the humanity of Christ, not to his divinity, so also did the advancement in wisdom belong to the same humanity, not to the divinity.
+
+*Observation (2).* Even then, when he was growing in wisdom (habitually) — the man Christ Jesus (v. 52) — he was *πλήρης*, "full," of wisdom (v. 40). There was therefore one wisdom in Christ according to his human nature *by which he was full immediately from the first moment of conception* — namely, the divine and infinite Wisdom, through and on account of the hypostatic union (for the whole fullness, as of the Godhead so also of divine wisdom and knowledge, dwelt personally in the assumed flesh, Colossians 2:3 and 9); and there was *another* in which he could subsequently grow, and which admitted increment — namely, the human and finite wisdom.
+
+*Observation (3).* Christ, according to his humanity, made progress in *experimental and habitual* knowledge — not in the effect of demonstration, nor as a teacher makes progress by the progress of his disciples; nor finally *κατὰ δόκησιν* — according to the opinion of men, so that he did not so much *make* progress as *seem* to men to have made progress (as Bellarmine will have it, *De anima Christi*, book IV, ch. 5) — but *ὄντως καὶ κατ' ἀλήθειαν*, truly and really *in himself*. For just as (in stature and in age) and in grace Christ grew in himself and with respect to himself, so also he truly grew in wisdom, since the advancements of these three things are asserted together in one copulative axiom by Luke.
+
+*Observation (4).* If it be conceded that Christ made progress in wisdom *κατὰ δόκησιν* — only according to the opinion of men — the Manicheans have what they want: namely, that the Son of God was incarnated only in appearance; and the Calvinists that Christ suffered and died *for the reprobate* only in appearance.
+
+##### *Θέσις VII — Thesis VII*
+
+**The Theology of the Fatherland or of the Blessed** (*Theologia Patriae seu Comprehensorum*), which others call *intuitive* or *of vision*, is the knowledge of God and of divine things communicated by God to the blessed in the other life, through the clear vision of the divine Essence — that, enjoying this highest beatitude, they may eternally glorify God.
+
+##### *Θέσις VIII — Thesis VIII*
+
+**The Theology of the good Angels** is (1) *concreated* — that is, natural, arising from creation; and (2) *accessory* — that is, both *intuitive*, or *of vision*, arising from their preservation and confirmation in the good; and *experimental and acquired*, which is perfected partly through revelation, partly through discourse and ratiocination.
+
+*Note.* We are not here speaking of the evil angels: for they have lost, for the most part, their concreated and natural wisdom. There is not, nor was, nor ever will there be, in them an *intuitive* or *of vision* Theology, since it requires *ἀναμαρτησία* — freedom from sin (for the beatific vision never comes to those who sin). But we do concede an *experimental and acquired* Theology to the Devils: for the impure spirits *know* God, so that they *tremble* (James 2:19), and they know many divine mysteries — even the essential Divinity of Christ against the Arians (as is evident from Mark 5:7; Matthew 8:29, and other passages).
+
+*Proof (a).* From **Matthew 18:10**: *"For the angels of these (that is, of the little ones) always see (βλέπουσι) the face of my Father who is in the heavens."*
+
+*Observation (1).* The verb *βλέπει* is not said of any cognition whatsoever, but of a *clear, distinct, and proportioned* cognition — one that answers in the mind and soul to the aspect of the eyes by which we discern corporeal and coloured things.
+
+*Observation (2).* *βλέπειν πρόσωπον θεοῦ* does not signify precisely to *await God's command* (as Arminius contends — although it *connotes* this) but denotes *the beatific vision of God*. The angels therefore intuit the divine essence clearly and immediately. *Comprehensive* and *adequate* vision of God, however, does not belong to angels, being as they are finite spirits.
+
+*Observation (3).* *διὰ παντός* — *always* seeing the Father's face — is *never not* to stand in God's sight, and to contemplate without end the face of the heavenly Father, which is his own divine essence, glory, and majesty.
+
+*Observation (4).* The angels are *ἐν οὐρανοῖς* (in the heavens) and *οὐράνιοι ἄγγελοι* (heavenly angels), even when they are employed for the guardianship of little ones on the earth. They are in the *supercelestial* state confirmed, and in the very midst of the guardianship of the little ones they always see the face of the celestial Father: for this is what the *προσδιορισμός* — the qualifying phrase *διὰ παντός* — demands, and it is the nerve of Christ's argument. *The little ones are not to be scandalized, because they are hedged about by angelic guardianship — since these angels have always the presence of the face of the celestial Father, and are perpetual expostulators against those who scandalize.* See the blessed Dr. Dorsche, *Theol. Zachar.*, part II, Loc. II § 2.
+
+*Proof (b).* From **Ephesians 3:10**: *"That now might be made known to the principalities and powers in the heavenlies through the Church the manifold wisdom (πολυποίκιλος σοφία τοῦ θεοῦ) of God."*
+
+*Observation (1).* That by *ἀρχὰς καὶ ἐξουσίας* angels are intended is a manifest matter — but since not only good but also evil angels are called Principalities and Powers below at Ephesians 6:13, it is asked whether the good or the evil spirits are here intended. The Ambrosian Commentary refers to the evil; but the matter itself, and the exposition of all Interpreters — both ancient and recent — demands that they be understood as the good.
+
+*Observation (2).* *Made known* is said of what before was unknown; therefore the Apostle declares that by the preaching of the Gospel the notice and knowledge of the angels themselves was augmented.
+
+*Observation (3).* *Through the Church* here does not mean the celestial or triumphant Church (as Augustine will have it, *De Genesi ad Litteram*, book V, ch. 19), but the militant Church on earth, gathered from Gentiles and Jews. **Chrysostom** says that "Paul, the Evangelist of the Angels, here illuminated (that is, instructed and taught) them"; and **Thomas** (*Opusculum* I, ch. 26) teaches from Cyril: "as Paul was preaching, the Angels learned the circumstances of the Gospel and of the calling of the Gentiles." But not *from* the Church as teacher, but *through* the Church — that is, through the things done in the Church — this mystery (namely, that God willed *not only the Jews but also the Gentiles* to be saved, and that gratuitous salvation was to be offered to them in Christ) was more accurately learned by the angels. Therefore their knowledge could be augmented.
+
+*Observation (4).* The word *ποίκιλος* signifies variety; but the Apostle, not content with this, calls it *πολυποίκιλος* — *manifold*, that is, *greatly and multifariously varied*, on account of the wondrous variety (at which every creature deservedly stands amazed) of God's wisdom, and with reference to the admirable governance of the Church.
+
+*Proof (c).* From **1 Peter 1:12**: *"Into which the Angels desire to look intently (παρακύψαι)."*
+
+*Observation (1).* The Vulgate has *"into whom"* (*in quem*), whence some Papists refer this to the Holy Spirit, others to Christ; but all Greek Codices have *εἰς ἅ*, "into which" — namely, *into the mysteries of the Gospel, that is, of the salvation of humankind, predicted through the Prophets, and announced to the world through the Apostles*.
+
+*Observation (2).* The verb *παρακύπτειν* is properly used of those who, diligently and with head and neck as it were inclined and eyes fixed, look intently, that a matter may be known more accurately (compare Luke 24:12; John 20:4–5, 11–12; James 1:25).
+
+*Observation (3).* The Apostle speaks not of the first degree of cognition, but of the *more copious* cognition of the things which were already partly known — according to more circumstances. The angels, therefore, take such delight in the mysteries of the Gospel and of the Kingdom of Christ (which they knew from before) that they subsequently desire to know them more fully and more perfectly.
+
+##### *Θέσις IX — Thesis IX*
+
+**The ectypal Theology of mere men** (*hominum ψιλῶν*) is either *of the way* (or *of wayfarers*, *viatorum*) — which is the Theology of this life; or *of the fatherland* (or *of those who have laid hold*, *comprehensorum*) — which is the Theology of the other and blessed life.
+
+*Note.* Theology is called *of the way* and *of wayfarers* because through it men, while in this mortality still constituted in the way, are directed to attain the celestial fatherland and eternal beatitude. Theology is called *of the fatherland* and *of the comprehensors* because, when the course of this life is at last finished, they attain it in the celestial fatherland, and (as it were) *lay hold* on the mark previously set. The names of *the way* and *the wayfarers*, of *the fatherland* and *the comprehensors*, are taken from 1 Corinthians 9:24 and 2 Corinthians 5:6, 8. There is mention there of runners in the stadium (*ἐν σταδίῳ τρεχόντων*); and stadium-runners (*σταδιοδρόμοι*) are bidden to *run so as to lay hold* — namely, of beatitude, to which, as to a mark previously set, they by their running tend. Here the faithful, before beatitude is attained, are compared to Wayfarers and Peregrinators, who, being absent from home from the Lord, desire to depart from the body and to go home to the Lord.
+
+##### *Θέσις Χ — Thesis X*
+
+**The Theology of the way, or of Wayfarers, is either *before the Fall* or *after the Fall*.** That which had place *before the Fall*, in the state of Integrity, is also called *Paradisiaca* (Paradisiac), from the place in which man was placed. And this again is distinguished, by reason of its principle, into *concreated* and *revealed*.
+
+##### *Θέσις ΧΙ — Thesis XI*
+
+**The concreated Paradisiac Theology**, which is also called *primigenial* and *original*, consisted in the perfect and habitual knowledge of God (*θεογνωσία*) which was placed in the *Protoplasts* (the first-created) through the grace of creation, by which they were made to the image of God.
+
+*Note.* The form of the primigenial *θεογνωσία* is a *concreated habit*, by which very fact it is distinguished from actual acquired *θεοσοφία*. The *subject or matter in which* is *the first parents before the Fall*. It was also destined for all their posterity, but *in act* was verified only in the *Protoplasts*. Its principle was the grace of creation, by which they were formed to the image of God. The *matter about which*, or the *primary object*, was God the Creator; the secondary, man himself and the remaining creatures. Hence **Lombard** (*Sentences* II, dist. 23, litt. C) reports that man before the Fall was endowed with a *threefold* cognition: (1) of things made for their own sake; (2) of the Creator and of himself. From this science of Adam are excepted: (1) the arcane decrees of God, which cannot be known without divine revelation (Rom. 11:34); (2) future contingents, such as his own fall was, and the incarnation of the Son of God; (3) the secrets of hearts and the inmost thoughts of Angels and Men; (4) all individuals of any species.
+
+*Proof.* From **Colossians 3:10**: *"And having put on the new (man), who is renewed unto knowledge (ἐπίγνωσιν), according to the image of him who created him."*
+
+*Observation.* We argue thus from this saying: *What we in the new creation, that is, in regeneration and renovation through the grace of the Holy Spirit, acquire, that Adam had in the first creation. But we in the new creation acquire ἐπίγνωσιν. Therefore Adam had ἐπίγνωσις in the first creation.* For *renovation* presupposes that the thing which is renewed previously existed and afterwards was either obliterated, or altogether deleted. If the image of God consists in *ἐπίγνωσις* or cognition, then certainly Adam was created with it, since he was created *to* the image of God.
+
+##### *Θέσις ΧΙΙ — Thesis XII*
+
+**The revealed Paradisiac Theology** is that cognition which the first Parents *before the Fall* had *from divine revelation through the external word* — a revelation made at distinct times concerning diverse objects.
+
+*Note.* The divine revelation was made (1) in the *benediction of the Protoplasts* and the concession of dominion over all living creatures (Gen. 1:28); (2) in the *destination of foods* (v. 29 and 30); (3) in the *sanctification of the Sabbath* (Gen. 2:3); (4) in the *promulgation of the Law of abstinence from the eating of the tree of knowledge of good and evil* (Gen. 2:16 and 17); (5) in the *association of the companion of life and the helper* (same chapter, v. 18).
+
+##### *Θέσις ΧΙΙΙ — Thesis XIII*
+
+**The Theology of Wayfarers and Peregrinators from the Lord, in the state after the Fall, is either *Natural* or *Supernatural, or Revealed*.** The *natural* is drawn from the *light of nature*, that is, from the common notions impressed on the mind, which are perfected through observation of visible creatures. For God is known naturally, partly through the notions impressed on us by nature, partly through the *vestiges of the invisible things of God* impressed on created things — so that Natural Theology is either *ἔμφυτος*, that is, *innate* (in the manner of a *concreated habit*); or *ἐπίκτητος*, that is, *acquired* (Rom. 1:19–20).
+
+*Note I.* Natural Theology is considered either in its *original integrity*, or in its *ruins and relics*. In the first mode it was in Adam before the Fall, and consisted in a perfect and *concreated habitual θεογνωσία*, of which we treated in Thesis XI. In the second mode — that is, considered in its ruins and relics — a certain notion of God and of the divine law remained in corrupt nature after the Fall, but *languid, imperfect, and by no means sufficient for salvation*, as will be discussed in the article *On God*.
+
+*Note II.* Natural Theology acknowledges the same birthday with man, and is prior to the supernatural.
+
+*Note III.* Just as after the conflagration of a splendid house there remain the embers and burnt-out particles, or after a most grievous collapse of a building some ruins remain — so also there survive in nature (fallen and miserably prostrate) certain thin remnants of the divine image, *ἴχνη* (traces), and small sparks of that primeval light which shone in the mind of man before the Fall. Hence **Augustine** (*De Spiritu et Littera*, book I, ch. 28): *"That which was impressed in the mind through the image of God, so that it was created, is not utterly deleted."*
+
+*Note IV.* This world is like not only a *master, witness, herald* (Job 12:7–9; Ps. 19:1–3) — but also a *book, theatre, mirror* — in which GOD offers his own both Deity, and his benefits toward us and our duty toward himself, to be read and contemplated, indeed as it were to be palpated (Rom. 1:19–20; Acts 17:27).
+
+*Note V.* Reason, moreover — implanted in us, and roused by the sense and by the will's propensity to observe the true — is by its natural light *like the eye of one reading and contemplating* (Rom. 1:20), by the apprehension of simple things, by composition and division, by reasoning and ordering, and by the parts of the law (Rom. 1:20; ch. 2:15).
+
+##### *Θέσις ΧΙV — Thesis XIV*
+
+**Supernatural or Revealed Theology, which arises from the light of grace, is either of *immediate revelation* or *inspiration*, or of *mediate manifestation* or *institution*.** The former comes about through *θεοπνοή* and the immediate afflatus of the Holy Spirit, and through *ἔλλαμψις* (irradiation) — this fell to the Prophets, Apostles, and Evangelists, and is not any longer given in the Church. The latter is drawn from the Word of God revealed and consigned to letters, and still flourishes in the Church.
+
+##### *Θέσις ΧV — Thesis XV*
+
+**Revealed Theology — that is, drawn from the revealed and written Word — is the knowledge of God and of divine things which God, by revelation made in his Word, communicates with men in this life, to the praise of his glorious grace and to men's salvation.**
+
+*Note I.* It is called (1) *supernatural*, because it is not elicited from the principles of nature, but drawn from the oracles of Scripture, and transcends our capacity: therefore rightly called *supernatural*, because it is *above*, not *against*, nature — since truth cannot repugn truth. It is called (2) *of the way* or *of Wayfarers*, and in the Apostolic phrase, *ὁδός* (the *Way*, Acts 19:9 and 23), *ὁδὸς τοῦ θεοῦ* (the *Way of the Lord*, Acts 18:26), because it is the Theology of men walking by faith, who through the light of grace kindled in the Word are directed on their way and journey toward the celestial fatherland. It is called (3) *abstractive*, because through an abstract species — that is, *through the mirror of the Word* (1 Cor. 13:12) — and not through essence, we know God in this life. And finally (4) *revealed*, or *of mediate revelation*, because it is drawn from the revelation of the Divine Word. To Franciscus Junius and Alsted it is called *humble* and *ours*; to others, *the Theology of the militant Church*.
+
+*Note II.* Revealed Theology is taken (1) *broadly*, for that which acknowledges as its principle, in general, the revelation or manifestation of God — whether that comes about through nature or through Scripture, that is, through singular grace in the Word; (2) *strictly*, for that which relies uniquely on the divine revelation made in the Word, and embraces the universal doctrine concerning God and the other divine mysteries revealed in Scripture; and this is the sense of the present locus. For it is called *revealed Theology* not from that general revelation by which *τὸ γνωστόν* of God (the knowable of God) — partly through implanted notions, partly through the things made by God — becomes known to the minds of men (Rom. 1:19–20), but from that *special* revelation by which, in a supernatural mode, those things which are needful for salvation concerning God and his worship are manifested to us through *θεόπνευστοι* men in the written Word.
+
+*Note III.* Natural Theology (which after the Fall remained as a remnant) differs from supernatural or revealed Theology (1) *by reason of principle*: there, the principle is reason or the light of nature; here, revelation made in the Word, that is, Sacred Scripture. (2) *By reason of form*: the form of that is *science*; of this, however, *faith*. (3) *By reason of matter*: Natural Theology is occupied around a small particle — namely, the existence of God, penitence, and justice (in the sense of moral law, Rom. 1:20; 2:15); revealed Theology contains a perfect notice of God, of law and Gospel, of sin and Christ, and hands down all those things which are necessary for us for salvation. (4) *By reason of end*: revealed Theology alone leads to eternal life; Natural Theology does not suffice for it, nay, does not even contribute anything to obtaining it.
+
+We prove this from **1 Corinthians 13:9**: *"For we know in part, and we prophesy in part";* v. 12: *"For now we see through a mirror in a riddle."* And from **2 Corinthians 5:6–7**: *"While we are in the body, we are absent from the Lord (for we walk by faith, not by sight)."*
+
+*Observation (1).* *ἐκ μέρους* — *in part* — denotes the *imperfection* of our cognition in this age, whence *τὸ τέλειον*, the *perfect*, is opposed to it in v. 10. Of that imperfection the Apostle says in the preceding verse 8, *γνῶσις καταργηθήσεται*, "knowledge will be abolished" — that is, the imperfection of knowledge (both in the very manner of knowing and in the mode of acquiring) will cease in the other life, succeeded by the clear and perfect vision and cognition of God, which the Apostle in v. 12 expressly opposes to *τῇ ἐκ μέρους γνώσει*, saying, *"Now I know in part, but then I shall know as also I am known."*
+
+*Observation (2).* The Apostle compares the Word of God to a *mirror*. In the use of a mirror two things are usually considered: the *countenance* and the *image* of the countenance, of which the former exhibits itself, the latter is exhibited. This latter we call *the image* (*εἰκών*), the former *the archetype* (*τὸ ἀρχέτυπον*). A mirror therefore expresses the *image* of the thing and offers it to those who look, not the thing itself, that is, the *πρωτότυπον*. Thus **Heinsius**, *Exercitationes in N.T.*, on James 1:23. Others say that the mirror exhibits to the eyes the thing itself — not directly, and as it is in itself, but through as it were reflected rays, and therefore *more obscurely and less perfectly* than if the thing itself were seen in itself and directly. So **Cornelius à Lapide**, **Menochius**, **Tirinus**, and others. Such a mirror, in which we may contemplate divine things, God has set before us (1) in *nature and in created things*, in which a certain *fulgour of divinity* re-shines (Rom. 1:20); (2) in *Scripture*, which shows us GOD and divine things sufficiently for salvation. The sense therefore is this: *"As in a mirror we do not directly behold corporeal things themselves — and such as they are in themselves — but only images and similitudes of them (and therefore we imperfectly view those things); so also God in this life we do not immediately and in himself, but as it were his image in the revealed Word — and so imperfectly — contemplate."*
+
+*Observation (3).* The imperfection is increased by what the Apostle adds: *ἐν αἰνίγματι* — *in a riddle*. *Enigmatic* is called every cognition of ours concerning GOD and divine mysteries in this life — not that it is *doubtful* or *fallacious*, *perplexed and intricate*, but that it is *less perspicuous and perfect* compared with that which is to come in the other life.
+
+*Observation (4).* The Apostle distinguishes cognition of God into *specular or abstractive* and *immediate*, that is, *intuitive*; and, as to which state of life each belongs, he explains through the particles *ἄρτι* and *τότε*, *now* and *then*.
+
+*Observation (5).* At 2 Corinthians 5:6, faith and sight (*aspectus*, *species*) are opposed to each other: for *"by faith we walk, not by sight"* — that is, the state of God's gracious indwelling and of faith, or of vision through faith, is opposed to the state of vision itself. The former belongs to this life, the latter to the other. Hence **Gregory** (*Homily* 26, on the Gospels): *"Things which appear no longer have faith, but cognition."* And **Augustine** (*Tract* 10, on John): *"This is faith — to believe what you do not see."* To walk therefore by faith is not yet to intuit and behold God and Christ in person, but only by faith to hold as it were before oneself what has the place of an object — Christ, in this age invisible to us, and in this mode absent, since not yet apparent; and thence we are said to be *"peregrinators from the Lord."* See the blessed **Aegidius Hunnius**, *Commentary* on this place.
+
+##### *Θέσις ΧVΙ — Thesis XVI*
+
+**The Theology of mediate revelation, or of institution, is either *Catechetic* — that is, *initial* or *ruder* (also called *of the little ones and of the initiates*, *τῶν νηπίων*) — or *Acroamatic* — that is, *advanced* or *more accurate* (also called *of the perfect*, *τῶν τελείων*).**
+
+##### *Θέσις ΧVΙΙ — Thesis XVII*
+
+**Catechetic Theology** is that which excerpts only the summary heads of Christian doctrine, and imbues with them the *rude common folk*. Hence it is called also *elementary* or *initial*, because it hands down the first elements and rudiments of the Christian religion, and is especially occupied in laying down the foundations of the doctrine of faith. This kind of doctrine was of old called *κατήχησις* or *κατηχισμός*; the teachers themselves *Catechetae*; the hearers *κατηχούμενοι*; the action itself *κατηχεῖν* or *κατηχίζειν* (1 Cor. 14:19; Gal. 6:6; Acts 18:25).
+
+We prove this thesis from **Hebrews 5:12**: *"You, who ought, by reason of the time, to have been teachers, again have need to be taught what the elements of the beginning of the oracles of God are; and you have become such as have need of milk, and not of solid food. v. 13: For every one who partakes of milk is unskilled in the word of righteousness — for he is a babe."* (Not yet were you able, that is, to digest food; nay, not even now are you able.)
+
+*Observation.* The Apostle calls Catechetic Theology (1) *τὰ στοιχεῖα τῆς ἀρχῆς τῶν λογίων τοῦ θεοῦ*, and understands the *first rudiments of Christianity, the first principles of faith*, which are set before boys and the *ruder* — *die Anfangs-Lehre, die ersten Buchstaben des göttlichen Worts*, elements, exordial and initial. (2) He calls the same elementary doctrine, accommodated to the rude to be initiated, *γάλα*, milk (*ἄδολον γάλα*, "sincere milk," lauter Milch, Peter calls it, 1 Peter 2:2), and shows at the same time the salutary breasts from which the Catechetic milk is to be drawn — namely *τὰ λόγια τοῦ θεοῦ*, Sacred Scripture. Those to whom milk is proper are *χρείαν ἔχοντες γάλακτος* (v. 12) — that is, *νήπιοι* (v. 13), namely those to whom (v. 13) he is *rude in the speech of righteousness (for he is an infant)*. (3) He calls Catechetic Theology *the word of the beginning of Christ* (*λόγον τῆς ἀρχῆς τοῦ Χριστοῦ*, ch. 6:1) — that is, by which rude Christians are initiated, or first imbued; likewise *θεμέλιον*, foundation. And *θεμέλιον καταβάλλειν* is *to begin to hand down and treat the rudiments of Christian faith*. The parallel place is 1 Corinthians 3:1 and 2: *"As unto babes in Christ, I fed you with the drink of milk, not with food, since ye were not yet able."*
+
+##### *Θέσις ΧVΙΙΙ — Thesis XVIII*
+
+**Acroamatic Theology is that which more accurately and more copiously teaches the mysteries of faith, confirms them, and refutes the errors contrary to sound doctrine.** It is proper to *Bishops* and *Presbyters* in the Church, and especially to those who in the Academies inform not simple Christians but future *Doctors of Christians*, and are *κατ' ἐξοχήν* called *Theologians*.
+
+*Note.* Catechetic Theology differs from Acroamatic not in the *thing considered*, but by reason of the *object* and the *mode of considering*. The thing considered is the same on both sides — for on both sides *divine things and mysteries of faith* are handed down. The mode of considering, however, is diverse. For the *object of information* in Catechetic Theology is the Christian *νεόφυτος*, *κατηχόμενος*, *rude in the doctrine of faith*; in Acroamatic Theology, it is the Christian who has already advanced in the school of grace, that is, who has already laid the first elements and foundations of faith. The *object of doctrine* of Catechetic Theology is *the summary heads of the Christian religion, the first elements of faith*; in Acroamatic Theology, *the Loci and Titles of all theological things*. In the former, *the use or end* is *a compendious knowledge of the celestial doctrine*; in the latter, *a fuller and more accurate intelligence*.
+
+We prove this thesis from the same saying adduced above, namely from **Hebrews 5:12** — *"You, who ought…"* Observe how, just as at this place *γάλα*, milk, is the easier and lower doctrine which is suited to the rude and imperfect (as said above), so *στερεὰ τροφή*, solid food, is the more sublime and copious explication of divine mysteries, suited to the erudite and the more mature. Whence the Apostle says at the following verse 14, *τελείων* — of *the more perfect* (that is, of adults, who have learned well the articles of the Christian religion, and have made laudable progress in the speech of righteousness) — *is solid food, στερεὰ τροφή*. And at ch. 6:1 he calls that same *perfection of the Christian doctrine* — the *fuller intelligence* — *τὴν τελειότητα*, and opposes it to *τῷ τῆς ἀρχῆς τοῦ Χριστοῦ λόγῳ καὶ θεμελίῳ*, "to the initial speech of Christ, and to the foundation of faith" — *dem vollkommenen Bau, dem Anfang und dem Fundament*. Compare 1 Corinthians 3:2.
+
+##### *Θέσις ΧΙΧ — Thesis XIX*
+
+**Acroamatic Theology, as to *the mode of treatment*, is either *Exegetic*, or *Didactic* strictly so called, or *Polemic*, or *Homiletic*, or *Casual*, or finally *Historical*.**
+
+##### *Θέσις ΧΧ — Thesis XX*
+
+**Theology *Ἐξηγητική* (Exegetic), which is also called *Biblical*, is occupied in the paraphrase or fuller explication and commentary of Sacred Scripture (universal or in part), or of a book or of a certain text; and investigates the true and genuine sense of the same.**
+
+##### *Θέσις ΧΧΙ — Thesis XXI*
+
+**Theology *Διδακτική* (Didactic) strictly so called** — which is also called *Systematic* and *Thetic* or *Positive* — is that which orderly proposes the theological *Loci Communes*, perspicuously expounds them, exactly defines and divides the *dogmata* of faith, and deduces and demonstrates them from the *fundamental* foundation which they have in Sacred Scripture.
+
+*Note.* This Didactic Theology is suited to Schools and Academies, and is thereby more accurate and fuller than that popular one — the Catechetic — which obtains in the Churches among the rude people. Here should obtain *verborum veritas, verborum venustas, & methodi claritas* — truth of words, elegance of words, clarity of method. Here are handed down the definitions, causes, affections, divisions, cognates, opposites, etc., of theological things or of the articles of faith.
+
+##### *Θέσις ΧΧΙΙ — Thesis XXII*
+
+**Theology *Polemic* (*πολεμικὴ καὶ συρρακτική*)** — that is, *controversial* and *elenctic*, which others call *Scholastic*, or rather *Academic* — treats the ancient and recent theological Controversies; forms rightly the state of the question; confirms the celestial truth by arguments sought from Sacred Scripture; vindicates that which has been confirmed from exceptions; asserts what has been vindicated against objections; and so is occupied *in the establishing of orthodoxy* (*ὀρθοδοξίας κατασκευή*) *and in the destroying of heterodoxy* (*ἑτεροδοξίας ἀνασκευή*), or in *ad-structing* the truth and *de-structing* the falsity. In few words: Didactic Theology *teaches* the truth; Polemic *defends* the truth.
+
+*Note I.* Didactic and Controversial Theology do not differ as to matter, but only as to the mode of treatment.
+
+*Note II.* In Polemic Theology this is especially to be cautioned against: that idle questions be not heaped up, and lawsuits brought from lawsuits, and thus become an *Eristic and Contentious* Theology (*Theologia Eristica et contentiosa*), in which — by too much altercation — the truth is lost.
+
+##### *Θέσις ΧΧΙΙΙ — Thesis XXIII*
+
+**Homiletic Theology**, which is also called *Ecclesiastic*, is occupied around the *method of preaching* and *concionatory praxis*, and chiefly informs the future ministers of the Church. Nevertheless, accurately speaking, *to teach in what manner the Doctor of the Church ought to treat divine things* does not constitute a peculiar Theology, nor any principal part of it, but pertains to the article *On the Ministry of the Church* — as well observes Dr. Calov, my colleague, godfather, and most honoured and conjoined brother in Christ (*Isagoge ad Theologiam*, ch. 5, p. 120 and following).
+
+##### *Θέσις ΧΧΙV — Thesis XXIV*
+
+**Casual Theology, or of Cases** — which some also call *Consistorial* — is occupied in those things which pertain *πρὸς συνείδησιν*, that is, to the *informing of conscience in doubtful cases*: that it may be either *erected* if it is infirm, or *emended and corrected* if it is erroneous, or *constituted* if it is doubtful and scrupulous. Or (which is the same thing) it is occupied around *doubtful cases of conscience to be decided from the Word of God*. Its end therefore is the *decision of doubtful cases* — of scruples and questions of conscience, or of practical (matters).
+
+##### *Θέσις ΧΧV — Thesis XXV*
+
+**Historical Theology** is that which narrates the *History of the ancient or primitive Church*, and expounds how in it the doctrine of the Gospel was propagated by the Orthodox, impugned by Heretics, defended by Councils and by Doctors both in speech and in writing.
+
+##### *Θέσις ΧΧVI — Thesis XXVI*
+
+**The Theology of the Fatherland or of the Blessed** (*Theologia Patriae seu Beatorum*) — which others call *intuitive* or *of vision* — is the *knowledge of God and of divine things communicated by God to the blessed in the other life, through the clear vision of the divine Essence, that, enjoying this highest beatitude, they may eternally glorify God*.
+
+*Note I.* A distinction is to be made between the Theology *of the way* or *of revelation* and the Theology *of life* or *of vision*: that is, between the Theology *communicated κατ' ἀποκάλυψιν*, by gracious revelation to the Church militant on earth, and *communicated κατ' ὀπτασίαν*, by glorious vision to the Church triumphant in heaven, that is, to the Angels and the Blessed. That is also called *apprehensive Theology* or *of the way*; this is called *comprehensive*, or *of the mark and the fatherland*. That is *transient*; this is *permanent*. That is *imperfect* (for all our progress in this life in *θεογνωσία* and *θεοσοφία*, even when it comes to the highest degree, is *a defective word*, whose closure is *"the rest are desired"* — as my blessed Uncle Dr. Johann Gerhard says in his *Theological Commonplaces*, book *On Eternal Life*, num. 73); this is *perfect*. That is like the means; this is like the end. That belongs to this vale of tears; this to the other and blessed life.
+
+*Note II.* It is called (1) *Theology of vision*, because it consists in a clear and intuitive vision and knowledge of God. (2) *Theology of life*, because it exists in eternal life for the blessed. (3) *Theology of the fatherland* and *of the comprehensors* — not with respect to *adequate cognition*, but with respect to *the attaining of the desired end* (1 Cor. 9:24). (4) *Excellent Theology, of the blessed, of the triumphant Church*, etc. The *form* of this Theology is *clear intuitive cognition, face to face*. The *end*: the very cognition of God conjoined with fruition. The *effect*: it makes men confirmed in the good, and partakers of all goods. Its *subject* is the Angels, the blessed souls, and the men who have been saved.
+
+We prove this thesis (a) from the words of Christ (**Matt. 5:8**): *"Blessed are the pure in heart, for they shall see God."* (b) from **1 Cor. 13:12**: *"For now we see through a mirror in a riddle, but then face to face."* (c) from **1 John 3:2**: *"But we know that when he shall appear we shall be like him, for we shall see him as he is."*
+
+*Observation (1).* Those whose hearts are purified by faith (Acts 15:9), who are simple in heart, and *ἀνυποκρίτῳ* (unhypocritical), who from the filth of vices, from depraved desires, from perverse intentions, study to keep the heart pure — *τὸν θεὸν ὄψονται* (they shall see God) — here with illumined eyes, as in a riddle, through a mirror; then face to face.
+
+*Observation (2).* We are said (1 Cor. 13:12; 1 John 3:2) not only *to see* God, as in Matthew 5:8 and Hebrews 12:14, but *to see him πρόσωπον πρὸς πρόσωπον*, face to face (in Hebrew: *פנים אל פנים* and *καθὼς*, *"as also"*). This *"face to face"* is a tropical locution, for God does not properly have face or countenance (as the Anthropomorphists thought, deceived by a rude and gross error); but by this periphrasis is denoted *the perspicuous and most clear aspect of the divine essence itself* — and what Paul calls *vision face to face*, John explains by *αὐτοψία* (autopsy, seeing-for-oneself). For the blessed shall gaze upon the divine essence clearly, perfectly, without the intervention of figures, immediately — but insofar as the infinity of the divine majesty and the narrowness of human minds permits.
+
+*Observation (3).* The phrase *"to see God face to face"* obtains a double signification in the Scriptures: (1) It denotes *the vision and illustrious contemplation of the Son of God in human form, or in another visible species assumed for a time*; or also the *friendly and familiar conversation of God with man*, which vision even in this life can come to man, and really did come — to the Patriarch Jacob (Gen. 32:30), to Moses (Exod. 33:11; Num. 12:8; Deut. 34:10). (2) It signifies *the clear and intuitive vision of the divine Essence*, distinct from the vision of this life not only by degrees but also by species — and belonging to the other life, granted to no man in this life. For it is *the highest reward of the blessed*, as **Augustine** testifies (Question 114 in Genesis), *the reward of faith reserved for us in the other life*, as the same testifies (*Of the City of God*, book 22, ch. 29).
+
+##### *Θέσις ΧΧVII — Thesis XXVII*
+
+**Furthermore, the word Theology is taken either *ὁλικῶς* (wholly) or *μερικῶς* (partially).** *Wholly*, it is taken for the *universal doctrine concerning God and divine things*. *Partially*, for that part of the celestial doctrine which either treats *of God, one in essence and threefold in persons*, or hands down the divinity of the Son of God alone. Whence among the Greek Fathers *θεολογεῖν λόγον* is *to assert and confess the divinity of Christ*. Hence also the ancient distinction of *θεολογία* and *οἰκονομία*, or *dispensation*: the former denotes to the Greeks *the doctrine concerning the divinity*; the latter, *of the incarnation and humanity of the Son of God*, or *of the dispensation and reparation of man wrought through Christ*.
+
+*Note.* The Greek Fathers are wont to distinguish the doctrine concerning God properly and specifically indicated (which they call *θεολογία*, and sometimes *θεολογία ἁπλῆ*, as Dr. Hornejus notes, *Disp.* 1, *De natura Theologiae*, ch. 37) from *οἰκονομία*, the *dispensation*. Thus **Eusebius of Caesarea** (book I, *De Demonstratione Evangelica*) distinguishes *τὸν Θεολογίας τρόπον*, "the mode of Theology," from *τὴν γεννηθεῖσαν ἐνσάρκωσιν*, "his descent to us, or Incarnation." **Basil the Great** (book II *Against Eunomius*) writes: *οὐ γὰρ θεολογίας ἡμῖν παραδίδωσι τρόπον, ἀλλὰ τῆς οἰκονομίας λόγους πραδηλοῖ* — *"He does not hand down to us the mode of Theology, but manifests the words of the dispensation."* In this sense **Gregory of Nazianzus** entitles his Orations concerning the Most Holy Trinity *De Theologia*.
+
+##### *Θέσις ΧΧVΙΙI — Thesis XXVIII*
+
+**Finally, the word Theology is taken either *ἐνδοτέρως* — *Essentially, absolutely, and habitually* — for the *notitia* (notice) which is had in the mind and inheres in the soul of man; that is, insofar as it is *the habitus of the soul*; or *συμβεβηκότως* — *accidentally, relatively, systematically* — insofar as it is *doctrine* or *discipline*, by which one teaches and learns, or which is contained in books.** The former acceptation of the word is *primary*; the latter is *secondary*. For Theology is *primarily* (*πρώτως*) or *principally* called the *theological habit*; it is *secondarily* (*δευτέρως*), and less principally, called *doctrine*, *speech*, or even *book and System exhibiting Theology*.
+
+*Note I.* This acceptation of the word Theology is the sense of the present locus. For we consider Theology here not as it is in a book, *significatively*, but as it is in the soul, *subjectively*. For from Theology we are denominated *Theologians* — as from the *form denominating*, and *inhering in the subject*.
+
+*Note II.* The *remote* genus of Theology we set down as *habit* — namely, an *intellectual* habit, or one which perfects our mind; the *proximate* is *habit θεόσδοτος*, given from God, namely through the written Word.
+
+##### *Θέσις ΧΧΙΧ — Thesis XXIX*
+
+**Theology considered *systematically* and *abstractively* is *doctrine constructed from the Word of GOD, by which men are instructed in true faith and pious life unto eternal life*;** or (which is the same), it is *doctrine drawn from divine revelation, showing how men are to be formed for eternal life, through GOD's worship in Christ*.
+
+*Note.* In place of the genus we set *διδαχή, διδασκαλία*, or *doctrine* — for Theology by teaching hands down, and is learned. This kind is used by Moses (Deut. 32:2), by Solomon (Prov. 8:10), by Jeremiah (3:15), by Christ himself (John 7:16 and 17), by the Apostles (Acts 2:42; 1 Tim. 1:10). The *τύπος διδαχῆς*, *form and norm* of this doctrine is Sacred Scripture. The *object* is *the revealed worship of GOD through Christ*. The *end*: *eternal life, and the glory of God*.
+
+##### *Θέσις ΧΧΧ — Thesis XXX*
+
+**Theology considered *habitually* and *concretively* is *the habit of the intellect, given by God (θεόσδοτος), practical, conferred upon man through the Word by the Holy Spirit, concerning true religion — so that by its work a sinful man may through faith in Christ be led to God and to eternal salvation*.**
+
+*Note.* The *remote* genus of Theology is *habit* — namely, intellectual, or one which perfects our mind. The *proximate* genus is *habit θεόσδοτος*, given from God, namely through the written Word. We further say that it is a *practical* habit, of which more in what follows.
+
+##### *Θέσις ΧΧΧΙ — Thesis XXXI*
+
+**Theology, as it is a *habit*, is either *properly and univocally* so called, or *analogically*.** [*This thesis in the source is a bridge-thesis introducing the causal analysis of Theology which occupies the following theses.*]
+
+##### *Θέσις ΧΧΧΙΙ — Thesis XXXII*
+
+**The principal *efficient cause* of Theology is *Deus Uni-Trinus* (the One-Triune God):** for he who is the highest author of the revealed Word (*τὸ αὐτὸ τῆς θεοπνευστίας*), he is also the principal cause of the Theology which is drawn from the revealed Word. For *from God is to be learned whatever is to be understood concerning God*, says **Hilary** (book V *De Trinitate*).
+
+*Proof.* From **James 1:5**: *"If any of you is destitute of wisdom, let him ask of GOD, who gives to all liberally"*; v. 17: *"Every good gift, and every perfect gift, is from above, descending from the Father of lights."*
+
+*Observation (1).* The particle *"si"* here is not of one *doubting*, but of one *supposing*: *"if any is destitute"* — that is, *since* or *because*, *inasmuch as* wisdom is lacking to everyone; for by nature we are all *unwise* and *ignorant* (Acts 17:30), *not perceiving, not understanding those things which are of the Spirit of God* (1 Cor. 2:14).
+
+*Observation (2).* By the word *σοφία* the Apostle understands wisdom — not *philosophical*, but *theological* — and indeed (a) generally, *the notice of the mysteries of faith and of salvation*; (b) especially, *wisdom in adversities, to bear them not only patiently but even with joy* (v. 2). Hence Fr. Balthasar Baes, Doctor of Lusitania, in his Commentary on this place, p. 38, explains *σοφία* here by *sapida scientia* — *savouring* knowledge, for the seasoning of the bitterness of tribulations.
+
+*Observation (3).* The word *"any"* (*τις*) certain interpreters think must be understood restrictively, namely of *all who ask rightly, and desire this wisdom in the due mode* — since immediately (v. 6) it is added, *"but let him ask in faith, nothing wavering"* — so Piscator, Pareus, and Estius. Others take it *indifferently* of all, since GOD is so *large a giver* that he benefits not only the good but also the evil (Matt. 5:45). And the particle *ἁπλῶς* (*simply*) is expressly added, which is to be conjoined not with the word *διδόντα* but with *πᾶσι*, that the sense may be: *GOD gives to all ἁπλῶς*, that is, *to whomsoever, without any προσωποληψία (partiality), or acceptance of persons* — as Thomas, Brochmand, Laurentius, and others expound.
+
+*Observation (4).* Just as God is the author of *all perfect gifts* (v. 17), so also he is the unique bestower of true wisdom; hence it too is called *ἄνωθεν κατερχομένη σοφία* — *"wisdom which cometh from above,"* that is, from heaven (ch. 3:15). He is the one who gives *the Spirit of wisdom and of revelation in the acknowledgement of him* (Eph. 1:17–18).
+
+##### *Θέσις ΧΧΧΙΙΙ — Thesis XXXIII*
+
+**The *moving cause* of revealed Theology is either *προηγουμένη* (leading, internal) or *καταρκτική* (initiating, external).** The internal is *the immense goodness of GOD and his inexhausted mercy*, by which GOD — as the highest good, most-communicative of himself — deigned to communicate his wisdom to men, and, coming forth from the arcane seat of his majesty, to reveal himself to the human race. The external is our — after the Fall — both *ignorance of divine things* and *ineluctable misery*, by which we should have had to perish eternally, unless GOD, taking pity on us, had led us to the knowledge of himself through his revealed Word.
+
+##### *Θέσις ΧΧΧΙV — Thesis XXXIV*
+
+**The *middle* (or *instrumental*) *cause* of Theology is the *Word of God Written*:** for nothing do we know concerning divine Mysteries, except through the divine revelation comprised in the Sacred Letters. For the Word of God Written is that *incorruptible seed* out of which the Church is born, and by which Sacred Theology is perfected (1 Peter 1:23 and 25).
+
+*Note.* The blessed Dr. König, in the *Praecognita* of his *Positive Theology* (§ 37), calls the Written Word of God the *instrumental cause* of Theology; but this must be received *dexterously*. The Word of God can indeed be called *organon* or *instrument* of Theology, but in a *broader signification*, and especially by reason of the *material* — namely, external *scription, preaching, dispensation, and ministry* — but not properly and accurately, that is, by reason of the *formal* — namely, of *θεοπνευστία* (God-breathedness) and the *internal virtue and efficacy of the Holy Spirit communicated to the Word*. The Word of God is the *power of God unto salvation to everyone that believes* (Rom. 1:16). To call the *power of God internally communicated to the Word* merely an *instrument*, however, we hold a scruple.
+
+##### *Θέσις ΧΧΧV — Thesis XXXV*
+
+**The *ministerial cause* of Theology consists of** (1) *the writers immediately θεόπνευστοι* — that is, the *Prophets* in the Old Testament, and the *Evangelists and Apostles* in the New; (2) *the orthodox Doctors and Ministers of the Church* (1 Cor. 12:28ff.; Eph. 4:11). **Basil the Great** briefly comprises these causes of Theology (*Against Sabellians and Arians*, saying): *"The Lord taught, the Apostles preached, the Pastors preserved."*
+
+##### *Θέσις ΧΧΧVΙ — Thesis XXXVI*
+
+**The *form* of Theology is gathered from its *genus* and *specific difference*, sought from the remaining causes.** The genus is: (1) *remote* — namely, *intellectual habit*, or one which perfects our intellect; (2) *proximate* — namely, *practical habit*; and (3) *most proximate* — namely, *habitus practicus θεόσδοτος*, that is, one conferred upon man through the Word by the Holy Spirit.
+
+##### *Θέσις ΧΧΧVΙΙ — Thesis XXXVII*
+
+**The *matter* of which Theology consists are *Theological Truths* — as the Scholastics call them — that is, theological *principles and conclusions* deduced from the revealed Word as from a proper principle. The *matter about which*, or the *object*, is *God patefied in the Word*, and *all divine things*.**
+
+##### *Θέσις ΧΧΧVΙΙΙ — Thesis XXXVIII*
+
+**The *subject* of Theology is one thing as regards *inhaesion* or *denomination*; another as regards *treatment*; and another as regards *operation*.** The *subject of inhaesion* is double: *quod* (that which) and *quo* (that by which). The subject *quod* is *the man Theologian* — that is, *he who is instructed with the habit of Theology* — the *man of God* (2 Tim. 3:17). The subject *quo* is *the same man's mind and intellect*, in which the habit of Theology immediately inheres. The *subject of treatment or consideration* — that is, the *general object*, as they call it — is *all theological things, or divinely revealed, insofar as they are to be perceived by us for attaining salvation*, all of which are comprehended in one word: *true religion*. The *subject of operation* is *man after the Fall* — that is, *sinful man*, considered *as beatifiable*, that is, *as to be formed and led to eternal life*. It is called *subject of operation* because *around it* the theological habit is occupied, so that it may introduce its end into it through certain means.
+
+##### *Θέσις ΧΧΧΙΧ — Thesis XXXIX*
+
+**The *end* of Theology is double: *intermediate* and *ultimate*.** The *intermediate* is either *external* or *internal*. The *external intermediate end* is *saving faith*; the *internal* is *the action and operation of the Theologian directed to obtaining that end* — that is, *to leading a sinful man to faith and eternal life* — or it is *any function of the Theologian tending to generating, augmenting, or confirming men's faith and procuring their salvation*. The *ultimate end* of Theology is either *absolutely* or *in a certain respect* such. The *absolutely ultimate end* is *God's glory*, that is, *his glorification and fruition*. The *ultimate end in a certain respect* is *the eternal salvation of men*, or rather *the leading to eternal salvation* (John 20:31). For, accurately speaking, the *end of faith* is *ipsa salus animarum*, "salvation of souls itself"; but the end of Theology is *the leading of man to salvation*.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### Section Two — Polemic
+
+#### *Sectio Secunda Polemica*
+
+##### *Question I — Whether there is any Theology?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The question is not (1) *concerning false theology* — of Devils, or of those seduced by the Devil — but *concerning true Theology*. (2) Not concerning the *ἀρχέτυπος* Theology, infinite and essential, but concerning the *ἔκτυπος*, finite and accidental. (3) Not concerning the *ἔκτυπος* Theology *of the human nature of Christ*, or *of the good angels*, but of *mere men* (*ψιλῶν*). (4) Not concerning the Theology *increata* (which is in God) or *concreated* (such as was in Adam before the Fall) but *revealed*. (5) Not concerning *Paradisiac* Theology and *of primeval integrity*, but of *Christian* Theology and *of gracious instauration*. (6) Not concerning *the Theology of vision and of life*, but *of revelation and of the way*. (7) Not concerning the Theology of *immediate inspiration*, but of *mediate institution*. (8) Finally, not concerning *natural* Theology, but *supernatural*.
+
+*Note.* Under the name of *revealed Theology* we comprehend the *Catechetic* and the *Acroamatic*; and so also the *Exegetic, Didactic, Polemic, Homiletic, Casual, and Historical*.
+
+##### *Θέσις — Thesis*
+
+**In the Church, militant in these lands, there is given a *revealed* or *supernatural* Theology; that is, a *doctrine concerning GOD and divine things drawn from the Word of GOD Written*, by which sinful men are instructed in true faith and pious life for eternal life.**
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of the *Atheists*, who, as they deny that God exists, so also *take away* the notion of GOD, that is, Theology.**
+
+**II. Of the *Pagans* or *Gentiles*, who — as they do not admit the principle of Theology, namely the revealed Word of God — so also do not admit the *principiate*, that is, Theology itself drawn from the Word of GOD.**
+
+**III. Of the *Libertines*, who, by denying that GOD teaches us by the external Word — and admitting only the internal Spirit — consequently call into doubt Theology itself, super-structured on the external Word.** Such are the *Schwenckfeldians*, *Enthusiasts*, *Paracelsists*, and *Weigelians*, and other *Fanatics*, who, as they repudiate every written Word of God, and attribute all things to arcane raptures, to internal afflatuses or *Enthusiasms*, so also reject Theology, Schools, and Academies; to whom accede *David Georg*, *Henricus Nicolai*, and others.
+
+##### *Θέσεως βεβαίωσις — Confirmation of the Thesis*
+
+Our Thesis is proved:
+
+**I. From the *efficient cause* posited in act** — namely, GOD speaking to us in his Word — that is, from *the divine revelation itself*, which is the principle of Theology. But when the efficient cause is posited in act, the effect is posited. Once the divine revelation is admitted, whether there is a Theology relying upon it cannot be doubted.
+
+**II. From *the end of man*, which is eternal life** (John 3:17): *"God did not send his Son into the world that he might judge the world, but that the world might be saved through him."*
+
+*Note I.* The scope of the mission of the Son of God is here indicated (1) *by removal — not that he might judge the world*. The *world* means all the men living in the world; *to judge* is *to condemn on account of sin, and to consign to Gehenna*. (2) *By position — but that the world might be saved through him*. *To be saved* is *to be transferred from sins to justice, from Satan to God, from Hell to Heaven*. The word *σῶσαι* denotes not only the end of faith itself — namely eternal salvation — but also the means ordained toward that end, and the whole order of salvation appointed by God to be attained.
+
+*Note II.* To this end, however (namely eternal life), no one can be led or aspire without the peculiar revelation which is proposed in Theology. Either therefore no one attains this end ordained by God, or (if man must attain it) it is necessary that revealed Theology, as a means suitable and necessary to obtaining that end, be given — since through natural cognition of GOD one cannot aspire to it.
+
+**III. From *the material cause*.** For there are many things which cannot be known by nature, and yet are truly known concerning God and divine things, whose cognition can be ascribed only to divine revelation made in the Word: therefore, altogether, some *revealed Theology* is given. The antecedent is established by the induction of the Articles of Faith concerning the Trinity, Christ, Predestination, Justification — as our Dr. Calov well teaches (*Isagoge ad Theologiam*, ch. 6, p. 124).
+
+**IV. From *the consensus of all nations*.** For although the Gentiles, outside the Church, aberrated much from true Theology, yet by their zeal to pursue it they proved that there was such a thing. And there is no nation to be found which, in the things pertaining to religion and to divine worship, subsists in the sole light of nature — none which does not boast, however falsely, of some *revelations* received from God.
+
+**V. *From the examples of Theologians*.** There are Theologians; therefore there is also a Theology. For when the *concrete* is posited, and the *subject denominated*, there is also posited the *abstract* and the *form denominating*.
+
+##### *Fontes Solutionum seu Objectionum Νιάλυσις — Sources for the Dissolving of Objections*
+
+*Observation 1.* Although *Theology* — that is, the *cognition of divine things* — is conferred by the Holy Spirit, and is *wisdom which cometh from above*, *from heaven* (James 3:15) and *δώρημα*, a *gift descending from the Father of lights* (James 1:17) — it is nevertheless not conferred *immediately*, but through *Sacred Scripture*, whose diligent *ἐρεύνησις* (searching) the Holy Spirit therefore commends (John 5:39). Nor does the *school of the Holy Spirit* reject every form of instruction — books, ink, paper, pen (as the Enthusiasts and Weigelians do) — but demands labour in study, and condemns idleness and idle raptures.
+
+*Observation 2.* Although the Holy Spirit poured out miraculously upon the Apostles and other believers, at the beginning of the nascent Church, the gifts of tongues, science, and cognition — nevertheless the Apostles themselves had already been instructed for some years in the school of Christ, and were receiving these very gifts extraordinarily from the Holy Spirit, with this end: that they might instruct others *by ordinary teaching means*.
+
+*Observation 3.* Although the Apostle Paul was instructed in the third heaven concerning the mysteries of the Christian religion, he nevertheless desires the *books and parchments left with Carpus* (2 Tim. 4:13), writes various *Epistles* to the Churches and to their Bishops for the sake of instruction, orders that attention be given *to reading* (1 Tim. 4:13), and that in Word and doctrine one should *labour* — *κοπιᾶν*, that is, *strenuously and with fatiguing exertion* (1 Tim. 5:17).
+
+##### *Question II — Whether Revealed Theology is Necessary in the Church?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The question is not (1) *concerning the habit of faith*, but *concerning the habit of Conclusions* — that is, of Theology. (2) Not concerning *any-sort-of and simple* notice of the *dogmas of faith*, but *concerning the excellent and accurate cognition of divine things*. (3) It is not asked whether it is necessary *with respect to all members of the Church*, but whether *to the whole body of the Church*. (4) Nor is the question of *absolute* necessity, but *hypothetical*.
+
+##### *Θέσις — Thesis*
+
+**Necessary in the Church is not only *Catechetic and ruder Theology* — without which neither can God be rightly known and worshipped, nor eternal life be obtained — but also *Acroamatic and more accurate*.**
+
+##### *Ἔκθεσις — Exposition*
+
+*Observation 1.* It is not enough to know *whether the thing exists*; it is also required to know *whether it is necessary* — for these are distinct: many things are given which are not necessarily given. There are given in the Church even the *impious* and *hypocrites*, but the Church could do without them, and indeed would have done without them, had man persisted in the primeval state. Thus there are given in the world *wars*, but not necessarily given. In man, *sin* — but not necessarily, for it could have been absent from human nature. But Theology in the Church *is given*, and *given necessarily*.
+
+*Observation 2.* A distinction is to be made between the *habit of faith*, by which the articles of faith necessary to salvation are believed, and the *habit of Conclusions* deduced from Sacred Scripture, by which the dogmata of faith are proposed to others, explicated from the Scriptures, confirmed, and defended against heretics. The *habit of faith* is improperly and unusually called *Theology*, since it belongs to all faithful promiscuously — even to the rude and to the illiterate, whom no one would call *Theologians*. But this — namely, the habit of Conclusions deduced from Scripture — is properly and usually called *Theology*, and is proper to the Doctors of the Church. Those who rightly acknowledge and worship the One-Triune God, as he revealed himself in his Word, are called *faithful*; but not *theologians*, unless they can also *deduce, explicate, confirm, and defend against enemies* those things which pertain to the salvific acknowledgement and worship of God from the revealed Word of God. *Aliud est*, says **Augustine** (*De Trinitate* XIV. 1, tom. III, fol. 424): *"One thing it is to know only what a man ought to believe in order to attain a blessed life; another to know how this same faith may help the pious and be defended against the impious."*
+
+*Observation 3.* A distinction is to be made between the *γνῶσις* (knowledge) of divine things — a certain sort of cognition — and the *ἐπίγνωσις* of divine things, that is, the *excellent and accurate notice of the divine will and of the mysteries*: the former is required in all Christians and is necessary for all who are to be saved (Isa. 54:13; Jer. 31:34; John 6:45); the latter belongs to the Doctors of the Church.
+
+*Observation 4.* A distinction is to be made between *Catechetic or ruder Theology* and *Acroamatic or more accurate Theology* (see Theses XVI, XVII, XVIII of the earlier section). The former is required in all Ministers of the Word, and is necessary in every particular Church (Rom. 10:14). The latter is proper to *Bishops and Presbyters*, and especially to *Academic Doctors* who inform *the more perfect*.
+
+*Observation 5.* A distinction is to be made between what is necessary to the Church *κατὰ τὸ σῶμα* (as to the body), or to the whole communion of Christians, and what is necessary to the Church *κατὰ τὸ μέρος* (as to a part), or to individual members. In the former mode, Theology is altogether necessary (Rom. 10:14); in this latter mode, however, it is not necessary — 1 Corinthians 12:29: *"Are all Doctors?"* etc.
+
+##### *Fontes Solutionum — Sources for the Dissolving of Objections*
+
+*Observation 1 (on Jeremiah 31:34 — "They shall not teach every man his neighbour: for all shall know me, from the least to the greatest").* The speech is not of *immediate revelation of the Word* in the New Testament age, but of a *knowledge* that will be (1) *clearer with respect to the objects*, and (2) *fuller and broader with respect to the subjects* (Rom. 16:16; Eph. 2:12–13). For these words are to be understood *not absolutely, but comparatively* — in comparison with the times of the Old Testament — that the universal preaching of the celestial doctrine be intimated, and the amplitude of the Church, and the fuller and easier knowledge of God, in the time of the New Testament. And so that negative locution *"He shall not teach"* is *elliptical*, to be supplied by *"not only"*, as in Genesis 38:28.
+
+*Observation 2 (on 1 John 2:27 — "You have no need that any man teach you: the anointing itself teaches you all things").* That anointing was not obtained through *Enthusiasms*, nor is now obtained, but through the *Word of God*, which is *Spirit and life* (John 6:63), by which the Holy Spirit is communicated to us (Gal. 3:2). That anointing is the Holy Spirit, the principal cause of faith, who informs us *not immediately*, but through the mediation of the Word (1 John 2:14; 1 Thess. 2:13; Rom. 10:17). Therefore these words of the Apostle are not to be understood absolutely or universally — as though in the New Testament age it were necessary to no man at all to be taught by anyone — which would be contrary to experience, which testifies that no man is born acknowledging God after the Fall; but *secundum quid*, and comparatively, namely that those who had been informed by the Apostles concerning the necessary heads of the celestial doctrine, and were divinely imbued by the unction of the Holy Spirit (for it is with such that St. John speaks), *have no need to hear or learn something new from Seducers*. This interpretation is gathered from vv. 21 (compare 13). See my Uncle **Gerhard**, tom. VI, *De Ministerio Ecclesiastico*, § 47; and Dr. Calov, *Systema*, part I, ch. III, question V, at the end.
+
+##### *Question III — Whether Theology is a habit θεόσδοτος practicus?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The question is not (1) *concerning Theology systematically, habitually, concretively, and essentially taken*, but not concerning it as considered *abstractively and accidentally*; but (2) not concerning the habit *θεόσδοτος* by reason of *immediate infusion*, but by reason of *invention, principle, and object*; (3) not concerning a *practical habit* whose praxis is placed in human power, and is occupied around *human things* (*τὰ ἀνθρώπινα*), of which the Philosopher speaks — but concerning that whose praxis is *spiritual*, namely the *leading of a man to eternal salvation*; (4) not concerning a *practical habit* whose *medium* is *praxis* or the *pursuit of good works*, but which is so called *on account of the living praxis of faith*, by which alone we aspire to eternal life; (5) not concerning a *practical habit* which excludes all *γνῶσις* (knowledge) or presupposes only a certain amount, but that which equally-principally regards it — though it does not ultimately subsist and acquiesce in it.
+
+##### *Θέσις — Thesis*
+
+**Theology is the *habit of the intellect, θεόσδοτος, practical*, conferred upon man through the written Word by the Holy Spirit, concerning *true religion* — by which man after the Fall is, *through faith in Christ*, to be led to eternal life.**
+
+##### *Ἔκθεσις — Exposition*
+
+*Observation 1.* For a double mode of considering, the Doctors assign a double genus of Theology. As it is considered *systematically*, or insofar as it is comprised in a book or writing, so its genus is *doctrine*, constructed from the Word of God. As it is considered, however, *concretively and habitually*, or insofar as it is in a man, so its genus is *habit*.
+
+*Distinction 2.* Between the habit (1) *ἔμφυτος*, that is, *connate*; (2) *ἐπίκτητος*, that is, *acquired*; and (3) *θεόσδοτος*, that is, *divinely given*. The concreated habit of Theology was in Adam; but *connate* to no one. After the Fall, Theologians are *not born*, but *made* — namely, *taught by God through the written Word*.
+
+*Distinction 3.* Between the *acquired* habit taken *strictly* and in the *philosophical sense* (for that which is acquired through the powers of nature and human industry and sagacity), and the *acquired* habit in a *broader signification* and in the *theological sense* (for that which is prepared through *the assisting grace of the Holy Spirit*, through pious prayers, through the diligent *reading and meditation of Sacred Scripture*). Not in the former, but in the latter mode, can Theology be called an *acquired habit*.
+
+*Distinction 4.* Between *acquisition itself* and the *mode of acquisition*. The former is common to Theology with the remaining intellectual habits; but the latter, in Theology, is plainly *singular*.
+
+*Distinction 5.* Between the *assisting* grace of the Holy Spirit and the *inhabiting* grace. Not so much through this latter as through the former is the habit of Theology conferred. For this divine informing by which men are made *Theologians* is an *operation of the grace of the Holy Spirit* — not precisely as *inhabiting* but rather as *assisting*, which assisting grace, in a certain mode, is had even by the unregenerate and impious. But in those who are Theologians *both in reality and in name* — that is, those who are not only instructed with the *theological habit* as such but at the same time *regenerate*, that is, *faithful and pious* — in them Theology is not only *from* the Holy Spirit but also *with* the Holy Spirit, and conjoined with his gracious inhabitation.
+
+*Distinction 6.* Between God's *ministering* gift and *sanctifying*. Theology is a *δώρημα*, gift, descending from the Father of lights (James 1:17) — *not* justifying or sanctifying, but *ministering*.
+
+*Distinction 7.* Between the habit *θεόσδοτος* by reason of *immediate infusion* (such as was the Theology of the Prophets in the Old Testament and of the Apostles in the New) and the habit *θεόσδοτος* by reason of *invention, principle, and object* — that is, that whose principle is not human reason but *divine revelation made in the Word*; whose first cause is not human information or clever investigation and ratiocination, but the *illumination of the Holy Spirit*; and whose object is not human but *divine*. And this latter habit is the habit of the *remaining Doctors of the Church*.
+
+*Observation 8.* The habit of Theology is called *θεόσδοτος* not because it comes about through some *ecstasy* of the imagination (*ἔκστασις φανταστική*) or *ἐνθουσιασμός* (as the *new prophets*, *Schwenckfeldians*, *Weigelians*, and *Tremulants* or *Quakers* in England boast of their habit), but because it comes about through a *divine giving* (*δόσις*) — *not immediate*, but *mediate* and *drawn from the Word of God*.
+
+*Distinction 9.* Between the *philosophical* and *natural* habits enumerated by Aristotle in Book VI of the *Ethics*, ch. 3, and the habit of *Theology* which — as being *singular* and *supernatural* — is distinguished from those by the *whole genus*. Therefore none of the Aristotelian habits — neither *wisdom*, *science*, *intellect* (or *intelligence*), *prudence*, or *art* — can be the genus of Theology. For the three *theoretic* (speculative) habits — *mind* or *intelligence* (which is the habit of principles), *science* (the habit of deducing conclusions from principles), and *wisdom* (which is at once the habit of principles and conclusions) — are occupied around *necessary* things, the cognition of which can be investigated by the sharpness of the human mind, without the Word of God. But the two remaining *practical* habits — *prudence* (the habit *with right reason active*) and *art* (the habit *with right reason productive*) — are occupied around *contingent* things, some of which fall under our *πρᾶξις* (action), others under our *ποίησις* (production), and are in the power of man and can be prepared according to his choice.
+
+*Observation 10.* To Theology *primarily* (*πρώτως*) or principally so called, *doctrine* cannot be assigned as the genus. For (1) doctrine is a *relative* something, but from Theology we are absolutely denominated *Theologians*, without any relation. (2) It is accidental to Theology that it is *taught and learned*; but genus is *of the essence of the defined*. (3) The end of Theologians is indeed to *teach*, but the end is *outside the essence of the thing*.
+
+*Distinction 11.* Between *theoretic* habits — which ultimately subsist in the bare contemplation of truth — and *practical* habits — which indeed require the cognition of some thing to be done, but do not ultimately acquiesce in it, nor have it for their ultimate end, but tend further to praxis and operation. We hold Theology to be enumerated *not* among the *theoretic* but among the *practical* habits.
+
+*Distinction 12.* Between *πρᾶξις τῆς πίστεως*, or *of faith*, and *πρᾶξις τῆς εὐσεβείας*, or *of piety*. That, namely the *true and living praxis of faith*, is the *fiducial apprehension of the merit of Christ and of the Evangelical promises*. This is the *pursuit of good works*, which from that (as a rivulet from its fountain) emanates, and (as fruit) follows the tree. Both praxes are given in Theology. But that, not this, is *on our part* the *unique means* of either *attaining* or *leading to* salvation. And so Theology is called *practical* not on account of this, but on account of that.
+
+*Distinction 13.* Between practical habits *which pre-require an approximate or perfunctory cognition*, and practical habits *which pre-require an accurate and solid γνῶσις*, that is, between habits in which *πρᾶξις* or *notitia* is treated only in passing and not *ex professo*, and those habits in which *γνῶσις* or notice is equally-principally regarded — and yet is *directrix of πρᾶξις*. Of the former kind are all *philosophical* practical habits; of this latter kind is the habit of *Theology*.
+
+*Observation 14.* One thing it is that *cogitation and praxis are equally-principally regarded in Theology*, and another that *in that cognition — of God, of Christ, etc. — as in an ultimate end, we acquiesce*. This is the point in question, not that.
+
+*Distinction 15.* Between the *habit of arriving* and the *habit of leading others to salvation*. Theology as such is *not* the habit of arriving at salvation (which belongs to *hearers*), but of *leading and promoting others toward salvation* (which belongs to *Doctors*) — and this *leading to salvation* is a true *praxis and operation*.
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of those *Scholastics* who hold that Theology is neither *theoretic* nor *practical*, but of a *higher order* — also called *affective* — (with an excogitated third kind of habits, which they called *affective*, as Durandus reports, quaest. VI, prol. art. III): because its chief end is *to excite the affect of love toward God*. This opinion is ascribed to *Aegidius Romanus* and *Thomas of Argentina*. See Dr. Musaeus, *Introductio ad Theologiam*, ch. II, p. 122 and following.**
+
+**II. Of those *Scholastics* who will have Theology to be *purely theoretic or speculative*: as *Marsilius*, *Henricus Gandavensis*, and others.**
+
+**III. Of those *Scholastics* who make Theology a *mixed* habit, that is, at once *theoretic and practical* — as *Thomas* (part I, q. 1, art. 4) sets down: "Theology is a speculative science, partly speculative and partly practical." The reason is: because a *practical* science is of things *do-able by man*, but Theology treats partly of God and divine things (which do not fall under our operation), and partly of *human acts* which, as they depend on the prior *practical judgement of the intellect*, are a kind of praxis. And so, in that part in which it treats of God and of divine things, it is *speculative*; in the other part, in which it treats of *human acts*, it is *practical*, according to him and his followers. These same men, however — who make Theology a mixed habit — are again in a double difference: some hold it to be *simply theoretic and secundum quid practical*, or more theoretic than practical (as *Thomas*, *Herveus*, *Capreolus*, *Cajetan*) — the reason being that its principal treatment is *of divine things* rather than *of human acts*; others hold it to be *more practical than theoretic*, as *Bonaventure*, *Richard*, *Thomas of Argentina*.**
+
+**IV. Of the *Papists* and certain *Calvinians*, who assert that Theology is likewise neither simply theoretic nor simply practical, but a *mixed and composite habit from both*.**
+
+**Opposed to our thesis also are *Peter Ramus*, *Pareus*, *Sohnius*, *Wendelinus*, *Polanus*, *Radomicensis*, and other *Calvinians*, who make the *genus of Theology properly so called* to be *doctrine*.**
+
+**And to other *Scholastics*, *Papists*, and *Calvinians*, who constitute the genus of Theology out of *one of the five Aristotelian habits of mind* — namely either *wisdom*, or *science*, or *intelligence*, or *prudence* — and treat these titles as *genus and logical synonyms*, not as *grammatical synonyms* or *honorific titles*.**
+
+**Opposed to us also are Dr. *Georg Calixt* and Dr. *Hornejus*, who define Theology through an *acquired* habit. See Hornejus, *Disputatio* I, *De natura Theologiae*, ths. IX and X; and Musaeus, *Introd. ad Theol.*, ch. III, p. 192, who says: *"Theology is a habit prepared by our acts indeed, but elicited by the powers of grace, and by the first truth illuminating the intellect through the revealed Word, and drawing the will into consent."***
+
+**And to *Calixt* and *Hornejus* who — in his *Epitome Theologiae Moralis*, p. 3, and *Disp.* I *De natura Theol.*, th. XLVI following — contend that Theology is *practical* not only on account of the praxis of faith, but also *on account of the pursuit of good works*.**
+
+##### *Θέσεως βεβαίωσις — Confirmation of the Thesis*
+
+We prove our thesis:
+
+**I. From the *end*, which is practical** — and indeed both *intermediate internal* (namely the operation of the Theologian occupied around a sinful man to be converted, reconciled to God through faith in Christ, and saved) and *external* (namely faith, or the *living praxis of faith* — that is, the fiducial apprehension of the grace of God and the merit of Christ); and *ultimate* (namely the leading of man to eternal salvation, and the *fruition and glorification of God*). Now the discipline whose end is practical is *practical*.
+
+**II. From the *general object*.** For whatever things are handed down in Theology, either they are directly, per se, and immediately practical, or they regard praxis and are ultimately directed to it.
+
+**III. From the *special object*, which in this place is not of demonstration (such as is usually in theoretic disciplines), but *of operation*** — namely, man, insofar as he is to be led to God and to eternal salvation.
+
+**IV. From the *means*.** Whichever discipline proposes certain means which make for the *introducing of the end into the subject*, that discipline is altogether practical. But Theology does this. Therefore. Now the means are, on God's part, the *Word and Sacrament*; on man's part, *faith*, whose double *energeia* is *internal or Evangelical* (which apprehends Christ) and *external or legal* (which produces the fruit of good works).
+
+**V. From the *proper formal act*.** Of any habit whatever, whose proper formal act is *the informing of the subject about the object, for obtaining the proposed end through certain means*, that habit is practical. But Theology's proper formal act is such. Therefore. As the blessed **Dr. Carpzov** (in the passage soon to be alleged, p. 3) says: *"That habit will not be able to be practical, which is not related to the reparation of man, and which uniquely tends to this — that man be borne from his misery."*
+
+**VI. From the *analytic process* of Theology.** Just as, other times, all *practical* disciplines are treated not by the *synthetic* method but by the *analytic* — which begins from the cognition of the *end*, and from this to the *subject*, and thence at last to *the means making for the end* — so also, since Theology is a *practical* habit, the same order of treatment suits it. For it does not proceed, as the *theoretic* disciplines are wont, *from the causes of the subject to demonstrate the affections about the subject through the causes* — but rather from the *fore-cognition of the end*, both *objective* (namely God) and *formal* (namely the *fruition of God*, or eternal beatitude), for the sake of which the whole Scripture is divinely patefied. It proceeds thence to the *subject of operation* (man fallen, to be led back to God), and to the *principles or causes of eternal salvation*, and likewise to the *means making for and leading to that end*.
+
+**VII. From the *authority of the Doctors of the Church*** — namely the Holy Fathers *Ignatius*, *Justin*, *Theodoret*, *Gregory of Nazianzus*, etc.; certain *Scholastics*, such as *Scotus* (who in the Prologue to the *First* Sentences, q. IV, teaches that Theology is *per se and formally practical, not speculative*, led by this reason: that it is not precisely *for the sake of speculation* but *for the sake of praxis*); *the followers of Scotus*, such as *Durandus*, *Aureolus*, *Gregory of Ariminum*, etc. And of the more recent theologians of Our own: the blessed **Dr. Meisner** (part III, *Philosophia Sobria*, Sect. I), Dr. **Myslenta** (*Disp. de natura et constitutione Theologiae*), the blessed **Gerhard** (in the *Exegesis*, tom. I, *Loci Theologici*, p. 5), Dr. **Calov** (in the passage soon to be cited), Dr. **J. B. Carpzov** (*Systema Theologicum*, part I, in the Proemium, Aphorism II), and others.
+
+##### *Fontes Solutionum — Sources for the Dissolving of Objections*
+
+*Observation 1.* When we call Theology a habit *θεόσδοτος*, we do not understand *one which is immediately and without any study or labour of ours conferred by God upon us* — but by the habit *θεόσδοτος* we understand, with blessed **Meisner**: (1) *one which is opposed to habits invented by human genius and study*; (2) *one whose principle of knowing is given by God — namely Sacred Scripture*; (3) *one whose object, which it treats, is truly divine*; and (4) *one which is prepared not so much through our study and labour, as through the supernatural grace of God and the operation and illumination of the Holy Spirit through the Word*. And thus we do not see any reason on which **Dr. Musaeus** should call this locution insufficiently congruous in his *Introductio ad Theologiam* (p. 194).
+
+*Observation 2.* When they object from John 17:3 that *eternal life* — which Theology has as its proposed end — consists in the *cognition of God*, and therefore Theology is more *theoretic* than *practical*: I respond by denying the consequence. For eternal life consists in the cognition of God *not as in an end*, but *as in a medium unto the end*, without which the end (namely eternal salvation and the fruition of God) no adult attains.
+
+*Observation 3.* One thing is *for Theology to be called in the Scriptures and by the Holy Fathers "wisdom," "science," or "prudence" in a broader and more eminent signification of the word*; another for *wisdom, science, or prudence properly so called to be the genus of Theology* — for not every predicate is generic or definitive. To the places Job 28:28; Ps. 111:10; Ps. 119:98 following; Prov. 7:4; James 3:17, etc., in which the epithet of *Wisdom* is attributed to Theology: — Theology is also called *Christian foolishness* (1 Cor. 1:21, 23); yet not on that account is this its genus.
+
+*Observation 4.* One thing is to be called *simply* wisdom or science, and another to be called *wisdom or science with an epithet or restriction* (spiritual, divine, hidden, etc.) expressed or subintellect. Likewise one thing is *to be called wisdom and science in the philosophical sense*, and another *to be so called in the sense proper to the Holy Spirit*.
+
+*Distinction 5.* Between a *grammatical synonym* and a *genus and logical synonym*. *Spiritual, divine, hidden* wisdom and science, etc., are more correctly reckoned as *grammatical synonyms and honorific titles* of Theology, than as its *genus and logical synonyms*.
+
+*Observation 6.* One thing is *for certain conditions of Wisdom to belong to Theology*, and another *for them all to belong to it*. Certainly the chief and principal conditions of Wisdom enumerated by Aristotle in Book VI of the *Ethics* do not belong to it. For it does not belong to Theology (1) *to be occupied around all things*; (2) *to command over the inferior disciplines*; (3) *to demonstrate conclusions from principles*, etc.
+
+*Distinction 7.* Between *θεωρία* and *γνῶσις*. The latter can co-exist with praxis — indeed it is common to all intellectual habits, even to merely practical ones; but the former constitutes a peculiar habit, contradictorily opposed to the practical habit. For *to subsist ultimately in the contemplation of a thing* and *not to subsist ultimately in the contemplation of a thing, but by its nature to be directed to praxis* — these are differences contradictorily opposed to each other, which cannot come together in one and the same species. That is the *formal reason* of a *theoretic* habit; this, of a *practical*. Therefore either Theology *subsists ultimately in the cognition of truth*, or it does *not so subsist ultimately, but per se tends to praxis and operation*. If the former, it is *formally wholly speculative*; if the latter, it is *formally wholly practical*. We deny also that in Theology there is *bare speculation about God*: cognition indeed of God is had, but it is not *speculative* — it is *practical, or directed to praxis*.
+
+*Observation 8.* They object: *Theology treats not only of the worship of God but also of the knowledge of God, and so is not only practical but also theoretic.* But we deny the consequence: because not every cognition makes a *theoretic* discipline, but only that which does not *per se tend to praxis*. But theological cognition of God and of divine things is *per se directed and tends to the praxis of faith and piety*, and does not subsist in bare contemplation. For we know God for this: that we may enjoy him — as our infinitely perfect and highest good — both here (according to the state of the present life) and in the other life fully and perfectly.
+
+*Distinction 9.* Between *Moral Philosophy* and *Theology*: there the end and the means are in human power; here they are not. And thence it is rightly inferred that Theology is *not the sort of practical discipline that Practical Philosophy is*. But it is perversely thence concluded that Theology is in no mode a *practical habit*.
+
+*Observation 10.* The adversaries object: *"Of whichever discipline the end and the means are not in our power, that is not practical"* (so Aristotle defines a practical discipline in *Ethics to Nicomachus* I, ch. 6); *but Theology is such; therefore.* I respond: *Aristotle describes not practical discipline in general, but only moral; and so only this follows from it — that Theology is not Practical Philosophy, nor such a practical habit as is Ethics. But from the negation of a certain species to the negation of the genus, the consequence is not valid.*
+
+*Observation 11.* The object of a *practical* discipline is *τὸ πρακτόν* (the do-able) — either *in itself and in its own nature*, or *in another* — which, though distinct from the object, is yet so conjoined with it that on account of it the object is known. Thus God, though *in himself and in his nature* is not *πρακτόν* (because he is *ens simply first and necessary*), yet *the sanctification of his name* — on account of which he is proposed in Theology to be known — is *πρακτόν*.
+
+*Observation 12.* Divine things are either *from God alone* — as the works of Creation and Redemption — or *principally from God and secondarily and in a certain respect from man also*: as faith, justification, sanctification, and the whole worship of God. The former are referred *to θεωρία*, by which God himself is contemplated; the latter, however, in themselves and in their nature are *ethical, that is, practical*.
+
+*Distinction 13.* Between the object of Theology which is either *direct — of its own nature practical* — or *indirect — which somehow regards praxis and is ultimately directed to it*. The *Mysteries of the Trinity, of the Incarnation, of Redemption*, likewise *the histories of the Angels, of Devils*, etc., are not indeed directly and by their nature practical, nor do they fall under praxis properly and per se; yet they are not on that account revealed that *in their cognition it may be subsisted* — but that *the same things may ultimately be directed to praxis*.
+
+*Observation 14.* *θεογνωσία* is ordained *to θεοσέβεια, or the worship of God*, and likewise *to the praxis of faith, through which we aspire to eternal life* (John 20:31): *"These things are written, that ye may believe,"* etc. — namely, that the will may worship, love, celebrate, and embrace with true trust the *God the Creator* and *Christ the Redeemer* known by the intellect; that man may through true faith apprehend and apply to himself the grace of God and the merit of Christ; and through this faith attain eternal life and eternally enjoy God. The *history of the Angels and Devils* is not made known merely for the cause of *ἱστορία* and bare contemplation, but on account of praxis — namely, that we may flee the fellowship of the latter, and show ourselves worthy of the guardianship of the former on this earth and of their co-habitation in heaven. These things are to be observed against the argumentation of **Dr. Dreier**, *Einleitung*, preface, fol. 2, where he says: *"If Theology be wholly practical, all things in Theology will be practical, so that whatever pertains to Theology will per se pertain to praxis — even the cognition of God and of the angels."*
+
+*Observation 15.* In *moral philosophy*, the cognition by which we know that man's beatitude does not consist in honours, riches, corporal pleasures — nor in the *habit of virtue*, but in *operation according to virtue*; likewise the cognition of the *affections of the highest good* (that it be desirable for its own sake, self-contented, etc.); and the cognition of the *nature of virtues and vices*, etc. — is not *formally practical* (since it is not actually and formally directive of any operation). Yet no one will on that account say that *Ethics* is not per se practical, but partly practical and partly speculative. Therefore to a *practical* habit it is not required *that all its acts of knowing be formally practical, and actually direct some operation*, but it suffices *if they all per se are ultimately ordained and referred to praxis or operation*. To this Aristotle looks (*Nic. Eth.* I, ch. 2): *"We do not seek what virtue is that we may know, but that we may be made good."*
+
+*Observation 16.* Not the very *divine infinite science itself* was in them; rather, a certain *ἀπόρροια* (outflow) and *emanation* of that divine and infinite Wisdom — namely the divine cognition which is per se ordained to praxis, and which per se intends to lead us to true faith, and through faith to eternal salvation. Just as the proper end of *Sacred Scripture* is *that we may believe, and, believing, may attain eternal life* — according to that saying of John 20:31: *"These things are written that ye may believe that Jesus is the Christ, the Son of God, and that, believing, ye may have life in his name."* Where let it be noted, John here speaks not only of the miracles narrated a little before, but of *the whole of his Gospel* — as Cyril of Alexandria, Chrysostom, Augustine, and of the more recent Cornelius Jansen (in the *Concordia Evangelica*, ch. 147, § 7) observe.
+
+*Observation 17.* Let the words of the blessed **Meisner** be noted (*Philosophia Sobria*, part III, Sect. I, ch. 2, theor. I): *"However much certain things are treated by Theologians which seem to be merely theoretic, it is not on that account to be thought that the ultimate end of Theology itself is Theoria or contemplation — since we do not acquiesce in that, but direct it to operation, to the attainment of salvation, as to a common end."* Afterwards he adds, however, that he prefers to call that theological *Theoria* by another name.
+
+##### *Authors on Theology in general, to be consulted*
+
+Of the *Lutheran* Doctors: the blessed **Meisner**, *Philosophia Sobria*, part III, Sect. I, ch. 2, q. 1; and part I, Sect. II, ch. 2, q. 1. The blessed **Gerhard**, in the *Proemium of the Theological Commonplaces* prefixed to the *Exegesis*. The blessed **Brochmand**, dissertation *On the constitution of Theology* prefixed to his *System*. **Johann Schröder**, tract *On the constitution of Theology*. The blessed **Myslenta**, *Disp. de Natura et Constit. Theologiae*. The blessed **Walther**, in the *Miscellanea*, num. XIV. Dr. **Calov**, in the *Isagoge ad Theologiam*, ch. 10; and in the *Prolegomena Systematis Theologici*. Dr. **Clozius**, in the *Pneumaticum or Natural Theology*, disp. I, p. 7. Dr. **Hornejus**, *Disputationes Theologicae Primae*. Dr. **Musaeus**, *Introductio in Theologiam*.
+
+Of the *Papists*: **Christophorus Gillius, Jesuit of Coimbra**, in his *Books on Theology*.
+
+Of the *Calvinists*: **Franciscus Junius**, in a peculiar tract *On the origin and nature of Theology*. **Gisbertus Voetius**, *Selectae Disputationes*, part III, disputations VI and following *De Theologia Practica*. **Amandus Polanus**, *Syntagma Theologicum*, book I, prior 14 chapters. **Ludovicus Crocius**, *Syntagma Theologiae*, ch. I. **Gomarus**, *Opera Theologica*, part II, disputation I, p. 1 following.
+
 — ❦ —
 
-*Note to the reader. This working translation covers, at the present state, the Preface to the Reader in full, and the opening theses of Chapter I through Thesis III (the archetypal / ectypal distinction). The remaining theses of Section One (Theses IV through XXVIII, on the archetypal Theology of God, the theology of Christ according to his human nature, of the good Angels, of Adam before the Fall, and of the wayfarers after the Fall, natural and supernatural), and the whole of Section Two (Polemic — Theses XXX through the end of Chapter I), will be added in the next session. All source text is from the 1691 Wittenberg imprint (BSB Munich* bsb11205336*), which reveals Part I to comprise not four chapters (as the Leipzig 1715 collation had earlier suggested) but **fourteen** — and this discovery is documented in* notes.md.
+*Note to the reader. Chapter I, *Of Theology in General*, is now complete in this working translation: the whole of Section One (the *Didactic* section, 39 numbered Theses from the definition of theology as *sermo de Deo* through the causal and teleological analysis of theology as a *θεόσδοτος practical habit*) and the whole of Section Two (the *Polemic* section, three Questions — on whether Theology is given; on whether it is necessary in the Church; and on whether it is a *practical* habit — each treated in Quenstedt's 8-step method of status controversiae, thesis, exposition, antithesis, confirmation, and fontes solutionum), together with the author-bibliography that closes the chapter. All source-text is from the 1691 Wittenberg imprint held at the Bavarian State Library under identifier* bsb11205336 *(canvases 19–37, folio pp 1–19). The 1685 editio princeps has not yet been sighted for text-critical variance-collation; that remains an outstanding item flagged in* notes.md.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -312,35 +801,6 @@ According to that homonymy which we called *analogical*, true Theology is distin
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Chapter II. Of the General Object of Theology — Religion
-
-## *De Objecto Theologiae generali, Religione*
-
-*To be populated at Tranche 2. Pars Prima, pp. 28–45.*
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-# Chapter III. Of the Principle of Theology
-
-## *De Theologiae Principio*
-
-*To be populated at Tranche 3. Pars Prima, pp. 46–76.*
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-# Chapter IV. Of the Sacred Scripture
-
-## *De Sacra Scriptura*
-
-*To be populated at Tranches 4 and 5. Pars Prima, pp. 77–347. First half (through the affections of Scripture) at Tranche 4; second half (Scripture and tradition, the Church, the analogy of faith, use, lay reading, objections and refutations) at Tranche 5.*
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
 
 # Notes
 
