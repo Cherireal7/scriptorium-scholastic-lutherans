@@ -860,7 +860,132 @@ Of Brenz's smaller edifying writings, none has been brought near to our own age'
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 2 — I. Das Reformationsjahrhundert 1500–1550 — closes here at Jakob Andreä. Source pp. 19–85 fully translated. Next up: **Tranche 3** — I b) *die nachreformatorische Zeit 1550–1600* — Savonarola, Stephan Praetorius, Musculus, Habermann, Betbuch Christiani, Münsinger, Michael Sachs (source pp. 86–132).]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# PART TWO
+
+# The Post-Reformation Age — 1550 to 1600
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Section b) The Time from 1550 to 1600
+
+*Central Point: The first prayer-books and prayer-collections.*
+
+### §1. General Overview
+
+*Source: I b) — Zeit 1550–1600 — §1, pp. 86–87.*
+
+The age of the second half of the sixteenth century had the task of **building on the ground once laid.** The inheritance had to be worked over, formed out, and fixed. That did not go without heavy conflict and strife. The battle against the Romans (who were newly consolidating themselves) did not cease; the battle in the own camp — against the Reformed and those who mediated with them — burned more fiercely after Luther's death.¹¹⁵ One might easily suppose that, over this strife (which was often carried on with hardness and un-Christian vehemence), the inward life and the inward building-out of the Church would be neglected. That is not so. First, the zealous fighters who guarded the dear inheritance of the Reformation were, notwithstanding all their one-sidedness, mostly men of through-and-through-genuine piety. Secondly, the moral state of the congregations required a labour on their inner deepening.
+
+The pure Gospel had been received; but the people had in many cases only outwardly submitted to it. Now there had first to come the through-going re-shaping of the inner life. Here, on the one side, a false liberty was to be resisted; on the other, a false security. This service the *Erbauungsschriften* of the age render — while at the same time they reckon with the needs of those in the congregations who — besides the regular edification in the generally-attended divine services and the many weekly services with their many liturgical prayers — sought for means for the house, for a Christian house-ordering, for a household-devotion. This is met by the **prayer-book literature** — which in its proper sense begins here above all with **Habermann (1567–).** This stands, therefore, at the centre. New prayers are drawn up; older ones from Luther and his companions, and also from the fathers of the ancient and medieval Church, are gathered. Devotions for the house arising out of the Haustafel, the catechism, and so on; contemplations for the preparation for the holy Supper. Alongside, the consolation-literature that began in the earlier age continues. Plagues, wars, Turkish danger, persecution, inward spiritual Anfechtung [give occasion for continued *Trostbuch*-writing].¹¹⁶
+
+Because the lay-congregation is to be served, one writes in a language suited to their understanding. The learned discussions here speak plainly; a certain *popularity* runs through, and betrays that the writers thought of the "little ones" as they wrote. The number of the writings grows, by far, greater — which is also a proof for the greater need.
+
+### §2. Traces in the Literature — and a Glance into the Piety it Witnessed and Nourished
+
+*Source: I b) — Zeit 1550–1600 — §2, pp. 87–90. Große draws the general trace of the post-Reformation piety from the survey of the whole book-trade output.*
+
+Attention must be drawn in this age to the *heightened longing* of laymen for edifying literature. To be sure, this is found only among the educated laity. One must yet consider that the Reformation and its introduction of the German schools had first-of-all effected only the most necessary beginnings of formation. The number of those who can read is still extremely small. Only the higher classes go through the schools and can really read the Bible and the devotional books. In the lower classes of the population it is always only single, especially zealous men who can do the like.
+
+Ever again appear Rhegius's *Seelen-Arznei* and the *Trostbücher* of Cölius (†1573 as Superintendent in Leipzig)¹¹⁷ and Spangenberg — books already covered. Kindred spread books of the same content are those of a **Werner** (Leonhard Werner, *Seelentrost,* Nürnberg 1657 [and] 1670), **Selnecker,** *Tröstliche schöne Sprüche aus heiliger Schrift* (1560); **Andreas Musculus,** *Unterrichtung von* [*Sterben*] and *Trostbüchlein* (1576 and 1585); **Bruno** (†1575 as Diakonusprediger in Zittau) with his *Sterbenskunst;* **Martin Molius** (Rector in [Görlitz], †1611) with his *Sterbenskunst* (1597).
+
+Prayer-books — which soon in household-devotions and personal devotions found wide circulation — begin with **Habermann's *Christliche Gebete*,** a book that first appeared in 1567 at Wittenberg. Only, roughly, Luther's *Betbüchlein* (1565 by Otto and 1571 by Treuer) and Schröder's (Joachim, Rostock) *Betbüchlein über die Haustafel* (1557), that already before spread Cölius (†1548 at Döbeln), that of an anonymous of 1548, **Erasmus Sarcerius** (b. 1501 in Annaberg, †1559 in Magdeburg) with his *Hausbuch* (1553) prepared it; but none has, like Habermann — very soon in connexion with Mathesius's *Hausgebetlein* (from 1586, especially from 1592) — found such a spread. It became the occasion for many prayer-books, which in part drew from it, in part built prayers after its model, or also bound its prayers with older ones. So there appeared in 1589 the *Betbuch* on the initiative of the Saxon Elector Christian I; in 1600 the *Betbüchlein* of Monsinger von Frundeck, and that of **Georg Cystbenius** (†1596 in Magdeburg).
+
+House- and private devotion was served by the books of **Cyriacus Spangenberg,** the *Betbüchlein* of **Simon Musäus** (†1576 as Dean in Mansfeld, 1567), of **Andreas Musculus** (1570), of **Andreas Fabricius** (†1577 as Pastor in Eisleben, 1586), of **Andreas Pancratius** (1584 pastor at [Hof]) — the *Haus- und Kirchenbuch;* of **Philipp Kegel** (†1611 as a private man in Lübeck) — *Zwölf geistliche Andachten* (from 1596). Confession and the Supper were especially served by **Weller** (†1572 in Freiberg) — *Bericht, warum man oft und gern zum heiligen Sakrament gehen soll* (1562), and **Caspar Bienemann's** (†1591 as Generalsuperintendent in Altenburg) little book (from 1586); out of this soon the prayers went over into other books — as into Habermann and its kind.
+
+Of edifying *Betrachtungen,* the greater works of an **Andreas Musculus,** a **Michael Neander** (†1595 in Alfeld, *Menschenspiegel,* from 1560), a **Michael Saxo,** and at the end of the age of a **Moller,** found much reception — as also the tracts of **Stephan Praetorius.** In the exposition of Scripture there stand above all **Christoph Fischer** and **Nikolaus Selnecker,** who — as for example in his Psalm-exposition — at once excellently taught praying. Alongside stands **Weller** with the exposition of Job 1–12 (1568) going onto the inner life. The Passion-history was expounded with prayers by **Johann Tettelbach** (†at Burglengenfeld, *Passional,* 1593). At the end of the age, none speaks so eloquently of the Last Things as **Nikolai** in his *Freudenspiegel* (1599).
+
+### §3. The Piety of the Age — a Portrait Gallery
+
+*Source: I b) — Zeit 1550–1600 — §2 continued, pp. 88–92. Große moves from the book-trade catalogue to the biographical-piety portraits — of princes and educated laity — that give the flesh to the book-trade statistics.*
+
+If only these books, the most important out of the great mass then arising, found readers, [there was a large and pious lay audience]. Some few examples further of the pious educated laity, especially of the princes:
+
+**Duke August of Saxony** read before the regular church-going Luther's *Postille,* used the holy Supper often, prayed daily his morning- and evening-blessings — most out of the Psalter. The Scripture and Luther's works he read again and again. His consort, **"Mother Anna,"** received the witness of a zealous pray-er, who had three prayer-hours a day in her women's chamber (in which too one or another must read in the Bible). She dispensed alms, gathered them from court-officials, herself visited the sick and the women in childbed.
+
+**Joachim Ernst of Anhalt** (†1586) gladly spoke at table over the sermon and the like, and was accustomed to stand before the table with his whole court-household and strike up a hymn. To his servants he was a pastor, who himself read to them out of Scripture or spiritual books. **Sigismund August of Mecklenburg** (†1600) loved above all the Psalter. His funeral-preacher, Lukas Bacmeister, tells: he had seen his own hand-copy, in which he had marked the Psalms he had used.
+
+Now the piety of the educated leaders witnesses to an upright piety of the leaders of the folk.¹¹⁸ But what of the piety of those who let themselves be influenced by these leaders? Here too glorious examples out of all educated estates can be brought forward. Concerning the ones from the highest circles, some illustrate this: at the head of the folk stood in many cases princes who lived and moved in their Lutheran faith, and who out of hearts' need gladly dedicated their time to edification. **August of Saxony** and **Mother Anna** — already treated. Another: from the other Thuringian poet **Cyriacus Schneegaß,** pastor at Friedrichroda (†1597), it is reported that he did not let himself become entangled in the doctrinal disputes of his time but, as a faithful pastor, lived wholly for his congregation — in which he especially cultivated God's Word and singing. He was pastoral-bonded to single members by accompanying their joys and sufferings with his hymns. How the legal-scholar **Steuerlein,** the town-*Schultheiß* at Wasungen (†1613), must have submerged himself in the Bible — since he set it wholly-and-entirely in German rhymes!
+
+These are only a few examples. They give witness enough of an upright piety of the educated leaders of the folk.
+
+Yet, on the other side, one must not overlook the many complaints of the pious — chiefly the spiritual leaders — over the outward-only Lutheran-Christian state of the multitude. It is by the Lord's own prophecy that in all ages it stands plain: the narrow way was never the way of the multitude. If we consider that in the lower classes of the population we can still count only a very small outward measure of formation, then it is alone the might of the Gospel that shows its power precisely there — in that religion becomes the atmosphere and ground of the whole folk-life. It permeated the same, all its institutions; and even the great heap was not untouched by this might. The evangelical-churchly practice of the house formed itself then. Attendance at the public divine service became general. The families bought themselves their church-pews. The pious Lutheran took part twice on the Sunday at the church, and industriously visited the still-existent (in part daily) weekly divine services. The holy Supper was celebrated regularly, mostly four times a year. Before all more important undertakings — before weddings, at office-installations, before journeys, and so on — one went to the Lord's Table.
+
+A full household-divine-service, as the edification-books required and fostered, was the mark of an exemplary-pious house; and of these there were enough in city and country. But morning- and evening-blessing and grace-at-meat became in every family in city and country the custom. In the country these devotions could indeed for the most part consist only of one of the by-heart-learned hymns and of a prayer — often only in the Lord's Prayer. Hymn-books, in this and in the following century, in country-churches especially, did not exist for churchly use. Through singing and re-singing, through singing-out-in-front by the school-teachers, only a small number of kernel-hymns went into flesh and blood of the folk. Also Holy Scripture was, at its still dear price, not yet in the hands of all. Bible-knowledge had for the most part to be limited to the pieces known from the pericopes. In the higher estates one possessed the Bible more generally in the houses, and read it there industriously. Elector August read four weeks before his death the whole Scripture once more through. Free prayer in the house the layman did not yet know. Whoever could read joined to Habermann or similar books. For further edification on Sunday, the educated used the sermons in the postillen since Luther, or fed his inner life on [the daily hymn-verses].¹¹⁹
+
+### §4. Christoph Fischer (1520–1600)
+
+*Source: I b) — Zeit 1550–1600 — §3, pp. 91–96. The Vogtland-born Jüterbog-Schmalkalden-Meiningen-Celle-Halberstadt-Celle preacher — one of the "most fruitful" devotional writers of the immediately-post-Reformation age, and author of the Passionslied "Wir danken Dir, HErr JEsu Christ."*
+
+**Christoph Fischer** (Vischer) was born in the Bohemian mining-town of **Joachimsthal in the Vogtland**¹²⁰ and was in the year 1541 ordained at Jüterbog — which belonged to the Wittenberg Consistorial-district — as evangelical pastor. In the autumn of 1555 he came on Melanchthon's recommendation to the place of Caspar Aquila at Schmalkalden, as court-preacher to Prince Georg Ernst and Superintendent of the County of Henneberg. Here he carried the Reformation through by a great visitation and removed the last of the monks. Earnestly he proceeded against inactive pastors in cities and villages. Therefrom grew for him many Anfechtungen. On 7 November 1571 he became pastor and Hennebergish Superintendent in Meiningen, and then came in 1574 as Court-preacher to Celle. New entanglements over his 1573 Leipzig-issued *Exposition of the Five Chief-Parts of the Holy Catechism* forced him in 1577 to accept a call as Chief-Pastor at St. Mary's in Halberstadt. In 1588 he returned again to Celle as Generalsuperintendent and Visitator of the Principality of Lüneburg. Here he died — after six-and-fifty years' preaching-labour — on **22 January 1600.**
+
+He is also the author of the plain and yet so-deep Passion-hymn **"Wir danken Dir, HErr JEsu Christ,"**¹²¹ one of the most fruitful devotional writers of the immediately-post-Reformation age. His fruits [continue to serve devotion today]:
+
+**Christoph Fischer, Ostergesänge** — the harmoniously-arranged post-resurrection-hymnic material — set together from his 1565 Schmalkalden Postille [wrongly ascribed], the Cottbus 1872 print of G. Sinhuber, 404 pp, 20°, 31 lines to the page, thin paper.
+
+The [contents] are the harmoniously-ordered Easter-preaching of Fischer, [treating in twenty-Ostergesänge the whole Easter-tide] from the Resurrection through the Ascension-onward. After the introduction, the sermons are named in 2–5 parts. These are then developed, expounding the Scripture piece by piece. In this, other thoughts contained in the several Scripture-words are also drawn in. The sermons are homilies. — Their age they betray in their language. This has the Lutheran boldness and often the earthy folk-speech — as, for example, is called upon a plenteous list of Volksbild-terms.
+
+The style is often full of *élan,* even in short sentences. [Example, 2nd sermon, p. 280:] "*Where is Nebuchadnezzar? Where is [Alexander the Great]? — They are all gone down. But he — Christ — is eternal. He distributes eternal goods, heavenly, divine riches; of his kingdom is no end. He lends spiritual and eternally-abiding fiefs, which do not fall away — which even the vassals at the eternal life preserve.*"
+
+Also this is answering to the time: that in nearly every sermon of Fischer's zealously against the Papists — Pope: bear-wolf, arch-soul-murderer, "the accursed" — or against the *Schwärmer* (Enthusiasts, especially the Schwenkfeldians) is proceeded; or other particular distresses of the time are scourged. Schwenkfeld he often calls **"Stinkfeld."**¹²² He reports that the pastors are mocked (7th sermon, p. 156); that some for one, two, three years do not come to absolution (9th sermon, p. 205). That the devil, "the wretched devil," with his Anfechtungen is himself more often named — even instead of sin — is also spoken out of the spirit of the age. But herein there lies at the same time something which raises it above the age: the blessed [comfort], the mighty comfort, the healing warning that (as the close of each sermon adds) they will give, is to be brought with pointing to the fact that the God-child has to fight not only with flesh and blood but with the princes and mighty ones who rule in the darkness of this world — and that for this the greatest comfort lies in the victory of Christ over the devil. The matter is thus rightly touched — even if we, perhaps, are too little used, in the current edifying preaching-manner, to have the personal *Urgrund* of the Evil at once unveiled. So doctrinal-instructive also in single passages — for example, in the 18th sermon, of the Holy Spirit — is spoken; yet the sermons will nothing other than to drive Christ, for the comfort of the down-cast hearts. Therefore any furthered Christian today can use them to blessing, especially in Easter-tide. Many a fine application of the use he also finds out of the single Easter-histories. The sins and Anfechtungen of Fischer's time remain at bottom always the same.
+
+What Beck says of Fischer's language — *"that it often borders on rudeness, at times also is spelling and playful"* — we found above confirmed as well; but so too the point that, like his other edifying writings, these sermons too bear witness of a rich spirit, a great Scripture-knowledge, a heartily-loving sharing in the Church's distress.
+
+*Note: Lochner has in his Osterbuch especially made use of Fischer.*
+
+### §5. Stephan Praetorius (1536–1603) — the 32 Little Tracts
+
+*Source: I b) — Zeit 1550–1600 — §4, pp. 96–102. The Braunschweiger devotional writer, whose 32 *kleine Schriften* — gathered by Johann Arndt and then re-set by Martin Statius (Danzig, 1636) — became a paradigm of Lutheran-orthodox mystical devotion.*
+
+**Stephan Praetorius**¹²³ — not the Praetorius of the *Syntagma Musicum* (Michael Praetorius, †1621, of Wolfenbüttel), but the older Braunschweiger Lutheran devotional writer — was, in his own age and after his death, a preacher who especially treated questions of the inner life with great pastoral wisdom. And that on the ground of a living evangelical faith, which — sure of its blessedness in Christ — stands firm on the well-spring of the holy Baptism, while in language and form remaining bound firm to Luther and his teaching. So it is self-explanatory that his tracts became a blessing to many. The edifying tone, the [comforting] language — proportionally pure and full of *élan,* not spelling and dry — favoured their spread. One of them, his *Seefahrertrost* ("Comfort for Seafarers"), sought even at that time to warm hearts toward the mission — as also *Vom Lämmlein Christi.* But the single writings would readily have fallen into forgetting had not **Johann Arndt** got acquainted with them from 1611 onward and cared for their collection — a collection that came out in 1622, one year after his [Praetorius's, or Arndt's own?] death. To this joined then a new edition, which the preacher **Statius** in Danzig produced in 1636, as an independent working-over and a systematically-ordered abridgement of his writings. This was newly re-issued in 1850,¹²⁴ and so Praetorius speaks through Statius still today. — Fuller particulars under the entry on Statius.
+
+**The 32 titles of the little writings are the following:**
+
+1. *Of the Golden Age.*
+2. *Of the Majesty and Glory of His People.*
+3. *Prophecy of the Erythraean Sibyl of the Kingdom of Christ.*
+4. *Princely Instruction of the Preachers, how they should rightly bear their office and doctrine.*
+5. *Epistle of Paul to the Laodiceans.*⁶
+6. *Of the Eternal Righteousness of the Christians.*
+7. *Of True Faith and its Power — that is, of the Christian's Blessedness.*
+8. *Of the Power of the Blood of Jesus Christ.*
+9. *The Heart of Luther.*
+10. *Praise and Prize of the Holy Baptism.*
+11. *Of Both Sacraments.*
+12. *Discourse on the Supper.*
+13. *The Little Child Jesus in his Form.*
+14. *Of the Incarnation of Jesus Christ.*
+15. *Thanksgiving for the Incarnation of Jesus Christ.*
+16. *Angel-Wish.*
+17. *Of the Name Jesus.*
+18. *Of the Name Immanuel.*
+19. *The Little Lamb of God.*
+20. *Of the Suffering and Dying of Jesus Christ.*
+21. *Thanksgiving for the Bitter Suffering and Dying of Jesus Christ.*
+22. *Of the Joyful Resurrection of Jesus Christ.*
+23. *Of the Holy Spirit.*
+24. *Child-Lore.*
+25. *Dawn of Evangelical Wisdom.*
+26. *Of the Kingdom of God.*
+27. *Of the Peace of God.*
+28. *Hearty Longing after the Revelation of the Kingdom of God.*
+29. *Of Faith, Confession, and Victory of the Christians.*
+30. *The Golden Rose.*
+31. *The Golden House of the Wisdom of God.*
+32. *Answer, that the Christians hold their Salvation's Charter and Seal [in their own hands].*
+
+*[Extends to 32 in the source; Große catalogues each with pastoral comment. Full pastoral commentaries on each of these tracts are compressed in Große's account and will be sighted at Tranche 3 mid-checkpoint against JP2 image.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 3a closes here at Praetorius's tract-list. Still to come in Tranche 3 (source pp. 102–132): full biographical portraits of Andreas Musculus (†1581, Frankfurt an der Oder), Johann Habermann (†1590, Zeitz, author of the most-widely-printed Lutheran Betbüchlein of 1567), Simon Musäus + Betbuch Christiani, Wolfgang Münsinger, Michael Saxo, Georg Mylius/Kegel; and the transition to Part Three — II. Das Zeitalter der luth. Orthodoxie — where Tranche 4 opens with Nicolai and Arndt (source p. 133 onwards).]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1105,6 +1230,28 @@ Of Brenz's smaller edifying writings, none has been brought near to our own age'
 ¹¹³ Große's OCR at the Brenz sermon-catalogue closes very badly. The reconstructions of the Grätter 1560 edition, the Grunwald 1855 rework, and the Cottbus 1878 De Marees translation-edition are drawn from the surrounding bibliographical entries; final verification pending JP2 sighting.
 
 ¹¹⁴ **Jakob Andreä** (1528–1590), Tübingen theologian, principal author (with Chemnitz, Selnecker, and others) of the *Formula of Concord* of 1577. His significance in the Lutheran corpus is doctrinal-formulating rather than devotional-writing; Große's brief excursus acknowledges his role as the "hinge-figure" between Luther's own generation and the Lutheran Orthodoxy that follows. Cross-reference to the *Scholastic Lutherans* program: Andreä's *complete Theological Disputations* are catalogued in the [[scholastic-lutherans-program]] catechetical section as a decade-scale future translation target.
+
+## From Tranche 3 · The Post-Reformation Age
+
+¹¹⁵ **The strife "in the own camp after Luther's death"** — the theological conflicts of the second half of the sixteenth century within the Lutheran party: the Adiaphorist Controversy (1548ff), the Osiandrist Controversy (1550ff), the Majorist Controversy (1552ff), the Synergist Controversy (1555ff), the Antinomian Controversy, and the Crypto-Calvinist Controversy at Wittenberg (1570s) — all settled by the *Formula of Concord* of 1577. Große treats them briefly here; his fuller account of the age is in Tranche 4 (Lutheran Orthodoxy).
+
+¹¹⁶ The OCR breaks at "innere geiftliche Anfechtung [...]"; the reconstruction *[give occasion for continued Trostbuch-writing]* is the natural continuation. The Trostbuch-genre continues here in full flower into the seventeenth century (see Tranche 4/II a) below).
+
+¹¹⁷ **Michael Cölius** (1492–1559), Mansfeld/Leipzig court-preacher; author of *Trostschriften* and translator of Luther into more accessible forms. Note the OCR error: Große writes †1573 as Superintendent in Leipzig, but the standard biographical date for Cölius is †1559 at Mansfeld. Preserved here as Große has it, pending JP2 sighting.
+
+¹¹⁸ Große's transition-paragraph closing §2 is repeated in the OCR — the *Steuerlein rhyme-Bible* line — and marks a page-turn interruption. Large's argument, if slightly repetitive on the surface: the piety-witness of the educated leaders gives the confidence that the age of 1550–1600 was, indeed, a devotional-formation age, not merely a controversialist-formation age.
+
+¹¹⁹ The OCR breaks in mid-sentence with "immer noch [gap]"; the reconstruction *[the daily hymn-verses]* fits the pattern of the surrounding paragraph (educated laity nourishing daily inner life on postillen and hymns).
+
+¹²⁰ **Christoph Fischer / Vischer** (1520–1600), Vogtland-Bohemian-Saxon Lutheran pastor and *Passions-Lied*-hymnist. The Joachimsthal-in-the-Vogtland origin locates him in the same devotional-formation community that produced Mathesius (also Joachimsthal-pastor) and Selnecker (Silesia-adjacent).
+
+¹²¹ **"Wir danken Dir, HErr JEsu Christ"** — Fischer's Passion-hymn, first printed 1568 in the Weimar hymnal, still in the *Evangelisches Gesangbuch* (No. 79) as one of the standard Passion-tide hymns of the Lutheran tradition.
+
+¹²² Große's report of Fischer's re-naming of Schwenkfeld as "Stinkfeld" is preserved in the translation as the historical philological witness it is. **Kaspar Schwenckfeld von Ossig** (1489–1561), Silesian Reformation-adjacent theologian, taught a spiritualist Christology that Luther and the confessional Lutherans held to be a re-emergence of the medieval Wycliffite-Waldensian Christ-in-us-only doctrine.
+
+¹²³ **Stephan Praetorius** (1536–1603), pastor at Salzwedel (Altmark) in the Duchy of Braunschweig-Lüneburg. Not to be confused with the *Syntagma-Musicum*-Praetorius (Michael Praetorius, 1571–1621). His mystical-devotional strand within confessional Lutheranism sits close to the Arndt-line that would open Lutheran Orthodoxy's devotional treasury a generation later.
+
+¹²⁴ **Martin Statius,** *Praetorius-Auszug* (Danzig, 1636) — the systematically-ordered re-arrangement of Stephan Praetorius's 32 tracts, which Statius also produced parallel to his *Wahres Christentum aus Luthero* (see n. 66 above). The 1850 re-edition is one of the German-Lutheran-revival editions of the mid-nineteenth-century *Erweckungsbewegung* — one of the many Große is here bibliographically cataloguing.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
