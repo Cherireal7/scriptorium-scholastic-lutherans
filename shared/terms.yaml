@@ -3644,13 +3644,48 @@ trullanus_canon_13:
     canons on this ground — Reformation invoked as Eastern-Orthodox
     canonical proof against Roman-mandated celibacy.
 
+# ─── Tranche 2s — Trullan continuation + Regula + Carmina (vl0096-vl0098) ─
+
+honorius_condemnatus:
+  english: Pope Honorius I condemned at Constantinople III
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus sexta at vl0097"
+  note: >
+    Pope Honorius I (625-638) condemned for monothelite heresy at
+    Sixth Ecumenical Constantinople III (680-681) session 13, 14 March
+    681. Reformation's SMOKING-GUN PROOF against papal infallibility —
+    general council formally condemned pope as heretic. Bellarmine
+    contorted defence in De Romano Pontifice IV.11.
+
+latin_mass_introduction:
+  english: John of Portus / Latin-Mass introduction
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus sexta at vl0097"
+  note: >
+    Bishop John of Portus (Porto) traditionally credited per Platina
+    with introducing Latin Mass under Vigilius/Gregory mid-6th c.
+    Flacius seizes ex-ore-proprio: if Latin Mass had to be introduced
+    by identified 6th-c bishop, not apostolic. 700 years of Christian
+    history (33-700+) without Latin Mass = clincher for vernacular
+    liturgy.
+
+trullanus_canon_55:
+  english: Trullan Canon 55 (against Roman Saturday-fasting)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus sexta at vl0096"
+  note: >
+    Trullo 692 Canon 55 condemned Roman practice of Saturday fasting
+    in Lent (not Eastern practice). Together with Canon 13 the two
+    reasons Rome rejected Trullan corpus. Flacius reads as further
+    conciliar correction of Rome.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Sixth Synod opening (vl0001-vl0095, 95
-# body pp + 32 paratexts ≈ 17.3% of 1094-pp body). Flacius lemma total:
+# FLACIUS 1556 — TRANCHE 2 through Vetera carmina opening (vl0001-vl0098,
+# 98 body pp + 32 paratexts ≈ 17.9% of 1094-pp body). Flacius lemma total:
 # 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
 # 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
 # 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) = 110.
+# 4 (T2r) + 3 (T2s) = 113.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

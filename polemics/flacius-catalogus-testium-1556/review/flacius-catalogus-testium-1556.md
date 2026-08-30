@@ -1174,7 +1174,33 @@ Hic Papa primus usurpauit titulum, **Seruus seruorum**: ut scilicet testaretur, 
 
 *"Since in the Roman ecclesia the custom we-received-and-know, that ordained deacon or presbyter, be-agreed, that not any more may-not-fit-be-cohabited with wives: however-be-of-the-following-Canon-Apostolic-diligently, and constitution of the sacred bishops-of-are, legal nuptials from-now to-value we-will, no way with their-wives their-copulation to be dissolved, or to be private, familiarity to-injure to each other in tempore opportuno. Whoever therefore diligently invented has-been in sub-diaconal ordination, aut diaconal, aut sacerdotali, in no way prohibited to such an ascending grade to be, on-account-of wife's cohabitation: nor either in time of ordination let-them-profess castitate must-be, that they-should-abstain a legitima uxoris familiaritate. Item let-them-be, that no one to altars ministers, in tempore ministrations of holy castity-of-be be in all things, ut à Deo may possibly obtain the-things, that supplicant to-request-are. If therefore any-of-them dare against Apostolic canons, any of the presbyters or of the deacons privates from-contract of communion of the legitimate wife of-his-own, let-him-be-deposed. Similarly and presbyter or deacon under any religious cause his-wife would-expel, let-him-be-excommunicated. Si uerò in hoc perseuerauerit, deponatur."*³⁶²
 
-*[Sixth Synod continues on `vl0096`; staged for the next Tranche 2 session.]*
+…is-had in manuscripts, and in older printings: but in more recent ones it is by study, as appears, mutilated. In *Book of Councils* however, in the Sixth Synod plainly is not read. What without doubt occurred by papistical fraud.³⁶³ For **Decretum Dist. 16** testifies that this Synod's 202 Canons in the Latin councils are related, on that account probably because to the Popes was not everywhere applauded, but their-of-ambition and impious dogma taxed. **Nilus** on this canon cites, but does not add its words: *"Let ministers officiate,"* etc. Perhaps therefore also this is suppositious.³⁶⁴
+
+Here we see this sacrosanct Synod plainly and ex professo against **Romanistas canones** — that is, of *clerical marriage* — to defend, and to affirm, that *coniugium cum Apostolicis canonibus, et sanctorum uirorum constitutionibus conuenire*, and against Romanos canones with these to fight.
+
+**Damnauit et alio Canone** this Synod the *Romanam consuetudinem ieiunandi in dies sabbati*, ascribing above the old Canon with-itself sentient. Thus indeed it writes in its **Canon 55**: *"Quandoquidem comperimus, quod iam in urbe Romana tempore quadragesimalis ieiunij in sabbatis contra receptam Ecclesiae morem ieiunatur: Quare uisum est huic sacrosanctae Synodo, ut etiam Romanam ecclesiam omnibus obliget Cañ, qui inquit: Si quis clericus deprehensus die Dominico aut sabbati ieiunare, excepto unico tantum sabbato, deponatur. Si uerò laicus, excommunicetur."*³⁶⁵ Liquidò igitur hinc apparet, Romanum episcopum & in doctrinae controuersijs, & alijs rebus actionibusque, iudicari posse ac debere, si quid alienum à recto æquoq[ue]; senserit, aut patrauerit.
+
+Non contendo autem iam quid rectius sit, ieiunare, aut non ieiunare, die sabbati: illud tantum uolo ostendere, duobus ut minimum canonibus hanc Synodum Romanae ecclesiae (quae se iam negat peccare posse, omnesq[ue] iudicare uult, et à nemine iudicari) damnasse.³⁶⁶ Nec tantum canonem unum, aut alterum: sed et unum **Papam, Honorium** nempe, qui paulo ante fuerat, ut idem Nilus et Leo Secundus eius iudicium comprobantes testantur. Interfuerunt autem huic synodo fermè trecenti episcopi, nempe 290.³⁶⁷
+
+Atque hanc synodum etiam Papae approbant, et recipiunt, ac in sancto spiritu congregatam fatentur, lege Dist. 16. Paparum adulatores mentiuntur, in hac Synodo Papam cum suis legatis regnasse. Verum supradicti decreti libertas propalam contra Romanistas directi, contrarium planè testatur, nempe eam Synodum cum suis legatis liberam fuisse, et Papam ibi cum suis legatis non plus aliquo alio episcopo authoritatis habuisse: quin potius ueluti sontem aut reum indicatum, damnatumq[ue], esse. Narrant quoq[ue], Papistae, ut Platina et alij quidam, in hac synodo primà Latina missam à Iohanne Portuensi episcopo decantatam esse, et à patribus comprobatam esse. Est ergo fermè per 700 à Christo nato annos nulla fuit Latina missa, multo minus à tota Ecclesia fuit approbata. Quod si 700 fermè annis Ecclesia sine latinismisssa florauit, posset forte et iam sine extremo piaculo carere.³⁶⁸
+
+Apparet quoq[ue], hic ex ipsorum Papistarum proprio testimonio, Latinam missam humanum inventum esse & non iam inde à Christo constitutum receptaq[ue] fuisset, ut Sidonius cum suis Papistis impudenter mentitur. Si enim inde ab Apostolis Latina missa recepta, usitata et approbata fuisset, non opus fuisset eam à sextà synodo probari.³⁶⁹
+
+## Regula clericorum
+
+### *The Rule for Clerics (Pseudo-Ulric)* — vl0098
+
+**In epistola diui Vlrici Augustani episcopi**, of which after a little more mention I shall make, it is written, that the writer of the *Rule for Clerics*, agreeing with the sacred letters, prescribed that a cleric be either fully pudicus, or bound in one matrimony: as if either way is pious to God, and pleases God.³⁷⁰ Who further has been this writer of the Rule for Clerics, or who is that Rule, I plainly do not know. There is not indeed one opinion, which was the same little before S. Ulric, from the councils' Aquisgranensis decrees compiled, which above I have said in Ludovic Charles' son.
+
+**Cranzius** testifies that alicubi, the little book Regulam clericorum uocari, & clericorum luxum, fastum et libidines nonnihil cohercuisse.³⁷¹ For huius, of which agimus, regula the pre-said Bishop of one to have been script the affirms. But that indeed another nihil aliud, nisi tottius concili decreta fuit.
+
+## Vetera carmina
+
+### *Ancient Poems* — vl0098+
+
+**Valentinus Muntzerus** in his *chronographia* testifies these following verses on the ruin of the Pope, nearly before 1000 years by some pious and learned man written, and now in an ancient book found:³⁷²
+
+*[Continues on `vl0099` with the actual verses; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2061,6 +2087,30 @@ Hic Papa primus usurpauit titulum, **Seruus seruorum**: ut scilicet testaretur, 
 **³⁶¹** **The Council in Trullo (Quinisext)**, held at Constantinople 691/692, was called by Emperor Justinian II as a completion of the Fifth (553) and Sixth (680–681) Ecumenical Councils — hence *Quinisextum*. Its 102 canons regulated ecclesiastical discipline. Rome rejected the Trullan canons because of Canons 13 (permitting married priests) and 55 (permitting Saturday fasting only in Lent) — the very canons the Reformation invoked against Roman celibacy and fasting discipline. Flacius here treats the Trullan Synod as a full Sixth Ecumenical Council (already glossed at endnote 88; here elaborated).
 
 **³⁶²** **Trullan Canon 13** — the canonical text preserved in Gratian's *Decretum* Dist. 31 with the Latin translation Flacius here quotes. The canon explicitly permits ordained deacons and presbyters who were married before ordination to continue conjugal relations, and forbids requiring vows of celibacy at ordination. Ministry-time abstinence for altar-service is required, but full celibacy is not. The Trullan legislation was the Eastern Orthodox position that the Reformation invoked against Roman-mandated clerical celibacy.
+
+**³⁶³** *Papistarum fraude* — Flacius's charge that later Roman editions of the councils suppressed the Trullan canons unfavourable to Roman practice. The critical apparatus of the *Corpus Iuris Canonici* (Gratian) partially preserves them; the Cabassutius and later *Concilia Generalia* editions selectively omit.
+
+**³⁶⁴** **Nilus of Rhodes** (Nilos Doxopatres, 12th-c. Byzantine canonist) transmits some Trullan-canon material to the Latin West. His witness that "Let ministers officiate…" is truncated raises Flacius's suspicion that Roman recipients edited-down the canon.
+
+**³⁶⁵** **Trullan Canon 55** — condemns the Roman practice of Saturday fasting in Lent (which the Eastern churches did not observe) and mandates deposition for clergy and excommunication for laity who so fast. Together with Canon 13, one of the two reasons Rome rejected the Trullan corpus. Flacius reads Canon 55 as further evidence that even a general council found the Roman Pope subject to conciliar correction.
+
+**³⁶⁶** *Se iam negat peccare posse, omnesq[ue] iudicare uult, et à nemine iudicari* — Flacius's target: the medieval papal claim to infallibility (developed under Innocent IV's *Apparatus in Quinque Libros Decretalium* c. 1250 and systematised at Vatican I 1870), against which he invokes the Trullan Synod's actual disciplinary condemnation of Rome.
+
+**³⁶⁷** **Pope Honorius I** (625–638) — the historical papal condemnation for monothelite heresy at the Sixth Ecumenical Council of Constantinople III (680–681, distinct from Trullo 692). Flacius here conflates the two councils; the Honorius condemnation is at Constantinople III, session 13 (14 March 681). This is Reformation's smoking-gun proof against papal infallibility: a general council formally condemned a pope as heretic. Compare Bellarmine's later contorted defence in *De Romano Pontifice* IV.11.
+
+**³⁶⁸** **John, Bishop of Portus (or Porto)** — traditionally credited (per Platina and later Roman historians) with introducing the Latin Mass under Pope Vigilius or Gregory in the mid-6th c. Flacius seizes on the papal attribution: if the Latin Mass had to be *introduced* by an identified 6th-c. bishop, then it is not apostolic. Roughly 700 years of Christian history (AD 33 to AD 700+) without a Latin Mass is the polemical clincher for optional-vernacular liturgy.
+
+**³⁶⁹** **Sidonius (Sidonius Apollinaris)** and the Papists' claim of continuous Apostolic Latin Mass — Flacius reads the papal *ex ore proprio* admission that the Latin Mass required conciliar approval at Trullo (692) as internal-Roman refutation of the same papacy's claim to unbroken apostolic continuity.
+
+## From the Catalogue — Regula clericorum (vl0098)
+
+**³⁷⁰** **The *Regula Clericorum*** — a medieval canonical-disciplinary compilation attributed variously to Chrodegang of Metz (c. 754), Amalarius of Metz (9th c.), or the Council of Aachen (816 under Louis the Pious). Flacius's Ulric of Augsburg attribution follows the *pseudo-Ulrican* transmission tradition. The rule mandated either full celibacy or one canonical marriage — Reformation-standard evidence of medieval flexibility on clerical marriage before the Gregorian hardening.
+
+**³⁷¹** **Albert Krantz (Cranzius)** (c. 1448 – 1517), Hamburg canonist and historian, *Metropolis* and *Ecclesiastica Historia Saxoniae* — Flacius follows Krantz's identification of the *Regula Clericorum* as a work moderating clerical excess, not enforcing strict celibacy.
+
+## From the Catalogue — Vetera carmina (vl0098+)
+
+**³⁷²** **Valentin Muntzer(us)** — a 15th-c. Bavarian chronicler whose *Chronographia* preserved various anti-papal Latin verses attributed to earlier centuries. The specific verses Flacius promises to subscribe on the next page are staged for Tranche 2t.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
