@@ -203,12 +203,20 @@ A working English edition translated by
 | &nbsp;&nbsp;&nbsp;§§ 1–10. How God is to be known · what God is · his four properties · one God · three Persons against Arius/Macedonius/Sabellius · against Jews and Turks · inward distinction of Persons · sum of the mystery · necessity for salvation · the Person of the Father | 39 |
 | **Hauptstück III · On the Person of Our Lord Christ** | 55 |
 | &nbsp;&nbsp;&nbsp;§§ 1–23. Christ true God + true man · Mary Theotokos · Chalcedonian Definition · communicatio idiomatum · genus maiestaticum · caro vivifica · Christ's knowledge and invocation according to the human nature · Ascension · Right Hand of God as no *Locus Physicus* · state of Humiliation and Exaltation | 55 |
-| **Hauptstück IV · On the Office of Christ** *(opening only)* | 115 |
-| &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103); ends mid-sentence at cv 108 in the sinner-exemplar list. **Locus continues past cv 108 for many more canvases — see Translator's Note § 5.** | 115 |
+| **Hauptstück IV · On the Office of Christ** | 115 |
+| &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103) · the redeemed-sinner exempla — Baptism and Supper as means of appropriation | 115 |
+| **Hauptstück V · On the Kingdom of Christ** | 127 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Threefold Kingdom (grace / power / glory) · spiritual attributes · Christ the meek King · extent · fivefold work · against Anabaptist externalisation · three differences from earthly kingdoms · practical use | 127 |
+| **Hauptstück VI · On the Eternal Priesthood** | 137 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Christ our High Priest per Ps. 110 · fourfold function · sevenfold contrast Aaronic vs Christian priesthood · propitiatory vs spiritual sacrifices (against the Mass) · the priesthood of all believers · against the papal claim · use | 137 |
+| **Hauptstück VII · On the Holy Spirit** | 147 |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Third Person, from Father and Son via Word and Sacraments · fivefold proof of divine Personhood · four chief works · given through the *verbum externum* (against Schwärmer) · three marks of possession · the Spirit's help in weakness · fruits of the Spirit · use | 147 |
+| **Hauptstück VIII · On Creation (and Providence)** | 157 |
+| &nbsp;&nbsp;&nbsp;§§ 1–11. Trinity as Creator · *creatio ex nihilo* · Six Days · why God created · pre-Fall goodness · divine sovereignty & freedom · perishing of the world through fire (2 Pet. 3) · Providence in four modes · four *regimens* (spiritual / ecclesiastical / domestic / **political**) · three grounds of Providence · special care for the Church | 157 |
 
 &nbsp;
 
-### *Not yet in this tranche — approximately 88% of the book (~cv 109 through ~895)*
+### *Not yet in this tranche — approximately 76% of the book (~cv 141 through ~895)*
 
 |  | Approx. cv |
 |:---|---:|
@@ -285,23 +293,32 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 - **Orthography:** 1583 forms silently modernised in the English — *vnd* → *und* in preserved German phrases; long-*ſ* → *s*; *w.* (Kirchner's mid-word abbreviation) expanded; hyphenated line-breaks joined; the terminal *ẑ* rendered *ß* in German source citations, *s* in English body. Where the 1583 orthography preserves a doctrinally meaningful spelling — *Christlichen Concordi Buchs* — it stands.
 - **Dividers:** `— ❦ —` (em-dash · aldus leaf · em-dash) at section breaks.
 
-## 5. Scope of this working translation — *first tranche only*
+## 5. Scope of this working translation — *first two tranches shipped, ~24% of the whole book*
 
-**This is a first tranche covering approximately 12% of the whole book. The remaining ~88% is pending translation in future tranches.**
+**This edition currently ships Tranches 1 and 2a — approximately 24% of the whole book. The remaining ~76% is pending translation in future tranches.**
 
 An earlier draft of this section (pushed 2026-08-30 as commits `1bf51a7` + `381f862` + `dc654e5`) claimed to be **the complete Enchiridion**. That claim was catastrophically wrong. It was based on the BSB IIIF Presentation manifest for `bsb00020680`, which reports 108 total canvases and yields no other structural information. Direct probing of the per-canvas hOCR API on **2026-08-31** revealed that the same identifier serves canvases well past 108 — cv 109, 150, 200, 250, 300, 400, 500, 600, 700, 800, 850, 870, 880, 895 all return real body content — and the book's actual extent is approximately **895 canvases** (cv 900 returns only the BSB shelfmark stamp; cv 950 and beyond return HTTP 404). The manifest is broken; the book itself is roughly nine times larger than the manifest disclosed.
 
 Kirchner's *Enchiridion* is therefore not what the earlier note described as a "polemical Christological catechism" running four short Hauptstück in 108 canvases. It is a **fully comprehensive Lutheran systematic-catechetical handbook** of at least 46 numbered loci across ~895 canvases (~447 leaves = ~890 pp small octavo Fraktur), covering the whole range of Reformation dogmatics. The running-head "locus XLV" (*Von der Hell* at cv 870) and "locus XLVI" (*Vom ewigen Leben* at cv 880–895) confirm at least 46 loci; the true count may be higher.
 
-### What THIS tranche ships (cv 5, 7–108 = the first 12%)
+### What is shipped so far (Tranches 1 + 2a, cv 5, 7–140 = ~24% of the book)
+
+**Tranche 1 (2026-08-30)** — cv 5, 7–108:
 
 - **Title page + Widmungsvorrede an Elector Ludwig VI** (cv 5, 7–28) — the Nehemiah-typology dedication and the load-bearing Book-of-Concord binding at cv 27;
 - **Hauptstück I · *Von der Heiligen Schrifft*** (cv 29–44) — 14 numbered sections on Scripture, its authority, the interpretive rule, against Papist and Enthusiast (*Schwärmer*) errors;
 - **Hauptstück II · *Von Gott*** (cv 45–50) — 10 numbered sections on the Trinity;
-- **Hauptstück III · *Von der Person unseres HERREN Christi*** (cv 51–103) — 23 numbered sections on Christology, including the full Latin *Symbolum Chalcedonense apud Nicephorum* with facing English, the three *genera* of the *communicatio idiomatum*, the *genus maiestaticum* against Reformed rejection, the careful distinction between multipresence *per unionem personalem* and rejected substance-in-every-creature ubiquity, and the exegesis of the Right Hand of God as no *Locus Physicus* but the Divine Majesty itself. This is the polemical core of the tranche and one of the great locus-treatments of 16th-c. Lutheran Christology in vernacular Q&A form;
-- **Hauptstück IV · *Vom Ampt Christi*** (cv 104–108, opening only) — the fourfold Office broken off in the shipped tranche at the sinner-exemplar list.
+- **Hauptstück III · *Von der Person unseres HERREN Christi*** (cv 51–103) — 23 numbered sections on Christology, including the full Latin *Symbolum Chalcedonense apud Nicephorum* with facing English, the three *genera* of the *communicatio idiomatum*, the *genus maiestaticum* against Reformed rejection, the careful distinction between multipresence *per unionem personalem* and rejected substance-in-every-creature ubiquity, and the exegesis of the Right Hand of God as no *Locus Physicus* but the Divine Majesty itself;
+- **Hauptstück IV · *Vom Ampt Christi*** (cv 104–110) — the fourfold Office of Christ (Redemption + fulfilment of the Law + Preaching-and-Sacraments + sending of the Spirit) + appropriation through faith + comfort against great sin + full sinner-list closing (Adam and Eve, Manasseh, David, Peter, Magdalene, Paul, the thief) transitioning into Baptism-and-Supper as means of appropriation.
 
-### What is NOT yet translated (cv 109 through ~895 = the remaining ~88%)
+**Tranche 2a (2026-08-31)** — cv 111–140:
+
+- **Hauptstück V · *Vom Reich Christi*** (cv 111–117) — the threefold Kingdom (grace / power / glory); spiritual, everlasting, and distributive character; five works; against Anabaptist externalisation; three (five) contrasts with earthly kingdoms;
+- **Hauptstück VI · *Vom ewigen Priesterthumb*** (cv 118–123) — Christ our eternal High Priest per Ps. 110; fourfold function; sevenfold contrast Aaronic vs Christian priesthood; propitiatory vs spiritual sacrifices (against the Mass); priesthood of all believers; against the papal arrogation of priesthood as *Gottslästerung*;
+- **Hauptstück VII · *Vom Heiligen Geist*** (cv 124–133) — third Person of the Godhead; fivefold proof of divine Personhood; four chief works; given through *Wort, Predigtamt, und Sacramenta* (the *verbum externum*, against the *Schwärmer*); three marks of possession; the Spirit's help in weakness; the fruits of the Spirit;
+- **Hauptstück VIII · *Von der Schöpffung*** (cv 134–140) — Trinity as Creator (*Opera Trinitatis ad extra sunt indivisa*); *creatio ex nihilo*; Six Days; divine sovereignty and freedom; perishing of the world through fire (2 Pet. 3); Providence in four modes; the **four regimens of divine governance** (spiritual / ecclesiastical / domestic / political); special care for the Church. §  9 gives the seed-passage of Lutheran two-kingdoms teaching, from which the fuller *Politia* / *Obrigkeit* treatment grows in the later Decalogue locus.
+
+### What is NOT yet translated (cv ~141 through ~895 = the remaining ~76%)
 
 Loci confirmed via cv-probes on 2026-08-31 (with the running head-form reported by the OCR):
 
@@ -1228,9 +1245,381 @@ Isa. 1: *Though your sins be as scarlet, they shall be as white as snow; though 
 
 Ps. 103: *As far as the east is from the west, so far has he removed our transgressions from us.*
 
-**Examples of great sinners who obtained grace through Christ:** Adam and Eve, Manasseh, David, Peter, Mary Magdalene, Paul, the thief on the cross³⁷ — [*here the source-copy breaks off mid-sentence; see Translator's Note § 5*].
+**Examples of great sinners who obtained grace through Christ:** Adam and Eve, Manasseh, David, Peter, Mary Magdalene, Paul, the thief on the cross.³⁷ Whoever in a repentant heart calls upon Christ shall likewise obtain grace. Salvation cannot fall to any other than to thee, the penitent sinner. In Baptism thou hast been sealed for the forgiveness of thy sins; in the Lord's Supper thou art spiritually nourished by his true Body and Blood; Christ Jesus is come into the world to save sinners (1 Tim. 1); and by his Spirit he intercedes for the believers, sealing them unto the day of redemption. Whoever believes on him has, and shall have, everlasting life (John 3).
 
 — ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück V
+
+### *Vom Reich Christi*
+
+*On the Kingdom of Christ*
+
+— ❦ —
+
+## § 1. Christ's threefold Kingdom
+
+**What is Christ's Kingdom?**
+
+Christ himself said, John 18: *My Kingdom is not of this world.* It is a threefold Kingdom:
+
+**1.** The **spiritual Kingdom** — Christ's rule over the Church on earth, which is called the *Kingdom of Grace and Forgiveness of sins*.
+
+**2.** The **Kingdom of Power** (*regnum potentiae*) — Christ's sovereignty over all creation, mentioned Eph. 1 and Ps. 8: *Thou hast put all things under his feet.*
+
+**3.** The **Kingdom of Glory** (*regnum gloriae*) — the everlasting Kingdom after the Resurrection of the dead, into which the blessed shall enter.³⁸
+
+**Who established this Kingdom?**
+
+God the Father, out of pure grace, that lost humanity — driven under Satan's tyranny by sin — might be restored through the Son (Ps. 2: *Ask of me, and I will give thee the heathen for thine inheritance*).
+
+## § 2. Chief attributes of the Kingdom
+
+**Which are the chief attributes of Christ's Kingdom?**
+
+**1.** **Spiritual** — not consisting in food and drink, but in righteousness and the Holy Spirit (Rom. 14; Matt. 11; Ps. 22). Christ's Kingdom comforts the afflicted and delivers them from Satan's tyranny.
+
+**2.** **Everlasting** — for it endures forever (John 13; Luke 1; Isa. 9).
+
+**3.** **Distributes spiritual goods** — forgiveness of sins, the Holy Spirit, righteousness, eternal life; and it delivers from spiritual harm.
+
+**What kind of King is Christ?**
+
+*Ein geistlicher König* — a spiritual King, poor and meek (Zech. 9: *Behold, thy King cometh unto thee, meek and lowly*), yet with eloquence and wisdom to speak to the weary (Isa. 50).
+
+## § 3. The extent of Christ's power
+
+**How far does his power extend?**
+
+Over all creatures, to the ends of the world (Ps. 2). His subjects offer themselves willingly *in holy adornment* (Ps. 45; Matt. 21; Zech. 9). His scepter is a righteous scepter (Ps. 45).
+
+## § 4. The works of Christ's Kingdom
+
+**What is the work of Christ's Kingdom?** *Five points:*
+
+**1.** He gathers an everlasting Congregation to himself through Word and Sacraments.
+
+**2.** He grants forgiveness of sins.
+
+**3.** He sanctifies believers through the Holy Spirit.
+
+**4.** He protects them from misfortune.
+
+**5.** He bestows eternal life and blessedness.
+
+**Why must this King suffer and die?**
+
+For the transgressions of his people, that they might be justified (Isa. 43; 53; Rom. 3–4).
+
+## § 5. Christ's Kingdom is spiritual, not external
+
+**Is Christ's Kingdom, then, an external bodily realm — as the Anabaptists and others say?**
+
+**No.** The Anabaptists err. Christ's Kingdom is *spiritual*, conducted through the preaching ministry and the Sacraments. It exists wherever his holy Word is preached and Sacraments administered according to his order. Its end is eternal life (John 3). Its subjects — centurions, royal officials, and Christians in every worldly station — need not abandon their offices, but bring the Kingdom into them (Matt. 8; Acts 10; Gal. 3: *there is neither Jew nor Greek, bond nor free, male nor female — all one in Christ Jesus*).
+
+## § 6. Three differences between Christ's Kingdom and earthly kingdoms
+
+**What difference is there between Christ's Kingdom and worldly kingdoms?** *Three points:*
+
+**1.** Worldly kingdoms are governed by men alone; Christ, being both God and Man, rules in both natures.
+
+**2.** Temporal kingdoms distribute material goods — *zeitlicher Friede* (temporal peace), discipline, propriety. Christ's Kingdom distributes spiritual treasures — forgiveness of sins, divine righteousness, the Holy Spirit, and eternal life.
+
+**3.** Earthly powers govern only *the external members* through force. Christ's Kingdom governs the heart, renewing the whole person (Ps. 51; Ezek. 36).
+
+**4.** Worldly kingdoms use physical force and have defined boundaries; Christ's Kingdom operates through Word and Holy Spirit and extends to the world's end.
+
+**5.** Earthly kingdoms eventually fall; Christ's Kingdom is everlasting (Ps. 110; Dan. 2; Luke 1).
+
+## § 7. Practical use of this doctrine
+
+**What practical use has this doctrine for a Christian?**
+
+That we may trust in Christ as our King and Head, expecting from him protection, answered prayer, and eternal life; and that we may confidently rely on him for all our security and salvation.³⁹
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück VI
+
+### *Vom ewigen Priesterthumb*
+
+*On the Eternal Priesthood*
+
+— ❦ —
+
+## § 1. Christ our Eternal High Priest
+
+**Is Christ our eternal High Priest?**
+
+**Yes.** Ps. 110: *Thou art a priest for ever, after the order of Melchizedek.* And Heb. 7: *He hath an unchangeable priesthood.*
+
+## § 2. The fourfold function of Christ's High Priesthood
+
+**What does Christ discharge in his High-Priestly office?** *Four principal functions:*
+
+**1.** He brings forth and teaches *the mystery of the Gospel* — knowledge that no other creature previously possessed. Only the Son who *dwelt in the Father's bosom* has declared him (John 1).
+
+**2.** He intercedes for the believers before the heavenly Father, securing eternal grace (Isa. 53; John 19; Rom. 8).
+
+**3.** He offered himself once and for all in a single sacrifice, achieving eternal redemption (John 17; Heb. 9–10).
+
+**4.** He calls his own through the preached Word, sanctifies them, and makes them partakers of the redemption through faith (2 Cor. 5; Rom. 1, 10).
+
+**Why can Christ alone be our High Priest?**
+
+Because he alone was without sin, and thus needed no sacrifice for himself — he could offer only for the sins of others (Heb. 4:15; 7:26–27).
+
+## § 3. Seven differences between the Aaronic and the Christian priesthood
+
+**What differences are there between the priesthood of the Old and the New Testament?** *Seven points:*
+
+**1.** **Establishment.** Aaron's priesthood was established *without an oath*; Christ's, *with an oath* (Ps. 110: *The LORD hath sworn, and will not repent*).
+
+**2.** **Person.** The Old Testament high priest was merely human, and sinful; Christ is both God and Man, without sin.
+
+**3.** **Doctrine.** Old Testament priests served the Law; Christ has revealed the Gospel.
+
+**4.** **Duration.** Old Testament priests made temporary intercessions; Christ is an eternal High Priest.
+
+**5.** **Sacrifice.** The blood of bulls and goats could not cleanse consciences (Heb. 10); Christ's own blood has purchased eternal redemption.
+
+**6.** **Object of Sacrifice.** Old Testament priests offered for their own sins as well as for the people's; Christ offered only for others (Heb. 7:27).
+
+**7.** **Succession.** The Old Testament had many priests succeeding one another; the New Testament has *only one* eternal High Priest — Jesus Christ — who needs no successor.⁴⁰
+
+## § 4. Sacrifices in the New Testament
+
+**What sacrifices, then, are there in the New Testament?**
+
+**One propitiatory sacrifice** — Christ's, which needs no repetition. To claim that Christ must be daily re-sacrificed (as the Papists teach in the Mass) is blasphemy.
+
+The remaining Christian sacrifices are **spiritual** — works commanded by God performed in faith as thanksgiving. Rom. 12: *Present your bodies a living sacrifice, holy, acceptable unto God.* Ps. 50, 51: *The sacrifices of God are a broken spirit.*
+
+## § 5. The priesthood of all believers
+
+**Are all Christians spiritual priests?**
+
+**Yes.** 1 Pet. 2: *Ye are a royal priesthood.* Rev. 1:5: *He hath made us kings and priests unto God.*
+
+Consequently, all believers may spread the doctrine of the Gospel, pray for themselves and for others, and give thanks to God (Matt. 7; Gal. 1; 1 Cor. 14).
+
+## § 6. Against the papal claim to Christ's priesthood
+
+**Is the Pope a High Priest, then?**
+
+**No.** Scripture nowhere gives him the testimony it gives to Christ. He cannot possess Christ's attributes — being without sin or serving as sole Mediator between God and men — and to claim such is *eine Gottslästerung*, a blasphemy.⁴¹
+
+## § 7. Use of the doctrine
+
+**What is the use of this doctrine of Christ's High-Priesthood?**
+
+That in every trial we may fly to him alone as our Intercessor; that we may know our sins are covered by his once-for-all offering; that we may reject every priesthood set up in competition with his; and that as members of his royal priesthood, we may live in worship and mutual service, being kings and priests unto God (Rev. 5:10).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück VII
+
+### *Vom Heiligen Geist*
+
+*On the Holy Spirit*
+
+— ❦ —
+
+## § 1. What the Holy Spirit is
+
+**What, then, is the Holy Spirit?**
+
+The Holy Spirit is the third Person of the Godhead, proceeding from the Father and the Son, who is sent through the preached Word and the Sacraments to kindle true conversion and faith in hearts, and to make them alive and renewed.
+
+Christ himself says, John 14: *The Father shall send you another Comforter, the Spirit of truth, which proceedeth from the Father, who shall bear witness of me.*
+
+## § 2. Proof that the Holy Spirit is a distinct Person, not a created force
+
+**Prove to me that the Holy Spirit is a self-subsistent Person, and not a created motion.**
+
+**1.** Scripture attributes the work of *creation* to the Holy Spirit (Ps. 33; Gen. 1: *the Spirit of God moved upon the face of the waters*). Therefore the Spirit cannot be a mere created force but must be the Creator himself.
+
+**2.** Christ commands baptism *in the name of* the Father, and of the Son, and of the Holy Spirit (Matt. 28) — thus giving to the Spirit's name equal divine standing.
+
+**3.** At Christ's baptism the Spirit descends in the form of a dove (Matt. 3; John 1) — as one distinctly manifested, not as a mere emanation.
+
+**4.** The Lord calls him a *Comforter* (John 14:15–26) — a personal designation, not a description of a force.
+
+**5.** God promises, Joel 2 and Isa. 59: *I will pour out my Spirit upon you* — the Spirit shares God's essential nature. Therefore the Holy Spirit is *wahrer ewiger Gott*, true eternal God.
+
+## § 3. The chief works of the Holy Spirit
+
+**Which are the chief works and benefits of the Holy Spirit?**
+
+**1.** He gathers the Church, or Christendom, through Word and Sacraments (John 16).
+
+**2.** He regenerates the human being, kindling in the heart true faith in Christ and new obedience (John 3; Titus 3: *the washing of regeneration, and renewing of the Holy Ghost*).
+
+**3.** He comforts troubled hearts through faith.
+
+**4.** He governs believing Christians in their vocations and daily lives (Rom. 8; Eph. 3; Ps. 51; Ps. 143).
+
+## § 4. How the Holy Spirit is given
+
+**Through what means is the Holy Spirit given?**
+
+Through the **Word, the preaching-office, and the Sacraments** (*Wort, Predigtamt, und Sacramenta*). God has ordained this ordinary means and no other. Whoever despises the preached Word cannot receive the Spirit; the *Schwärmer* err who seek the Spirit apart from the external Word.⁴²
+
+## § 5. How Christians recognise that they have the Holy Spirit
+
+**How do Christians recognise that they possess the Holy Spirit?**
+
+**Three marks:**
+
+**1.** **A heartfelt, fervent love and desire for Christ**, his Word, and his Sacraments — a movement which does not come from human nature but from the Spirit himself.
+
+**2.** **The Spirit's internal testimony** — for the Spirit bears witness with our spirit that we are the children of God, and heirs (Rom. 8:16).
+
+**3.** **True prayer** — for God sends the Spirit of his Son into the hearts of believers, causing them to cry *Abba, Father* (Gal. 4:6).
+
+## § 6. The Spirit's help in weakness
+
+**How does the Spirit help us in our weakness?**
+
+We receive not a spirit of bondage to fear, but *the Spirit of adoption*, by which we cry *Abba, Father* (Rom. 8:15). In tribulation and suffering, the Spirit intercedes for us *with inexpressible sighing* (Rom. 8:26), and produces in us a progression: *tribulation worketh patience, patience experience, and experience hope* (Rom. 5:3–4).
+
+## § 7. Marks that we belong to Christ
+
+**How do I know that I belong to Christ?**
+
+If ye live after the flesh, ye must die (Rom. 8:13). Those who *belong to Christ* have crucified the flesh with its affections and lusts (Gal. 5:24). The fruit of the Spirit is *love, joy, peace, longsuffering, kindness, goodness, faith, meekness, temperance* (Gal. 5:22–23). Where these are, there is no doubt the Holy Spirit dwells in the heart.
+
+## § 8. Use of the doctrine
+
+**What is the use of this doctrine?**
+
+That we may pray earnestly for the Spirit, use faithfully the means by which he is given (Word and Sacraments), and expect from him regeneration, comfort, guidance, and preservation to eternal life.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück VIII
+
+### *Von der Schöpffung*
+
+*On Creation (and Divine Providence)*
+
+— ❦ —
+
+## § 1. By whom the world was created
+
+**By whom was the world created?**
+
+By the **Holy Trinity**, one and undivided in operation. Ps. 33: *By the Word of the LORD were the heavens made.* All three Persons — Father, Word, and Spirit — act as a single Maker without distinction, according to the theological principle **Opera Trinitatis ad extra sunt indivisa** — the works of the Trinity toward the outside are undivided.⁴³
+
+## § 2. Creation *ex nihilo*
+
+**Out of what were heaven and earth created?**
+
+**Out of nothing** (*ex nihilo*). All things were made through the Word, but the Word itself was not made — the Word exists eternally with God *in the beginning* (John 1:1–3).
+
+## § 3. The Six Days of Creation
+
+**In how many days did God create the world?**
+
+**In six days**, according to the account of Moses in Genesis:
+
+- **Days 1–2:** Heaven, earth, light, and the firmament.
+- **Day 3:** Dry land and vegetation.
+- **Day 4:** Sun, moon, and stars.
+- **Day 5:** Fish and birds.
+- **Day 6:** Land animals and man.
+
+## § 4. Why God created the world; and on his rest
+
+**Why did God create all things?**
+
+For his own glory, and for the benefit of his rational creatures.
+
+**Did God rest from creation?**
+
+Only from bringing new species into being; he continues to sustain and govern all things. John 5: *My Father worketh hitherto, and I work.*
+
+## § 5. Creation before the Fall — corrupted through sin
+
+**In what state was the world before the Fall?**
+
+Very good, in all its parts (Gen. 1:31). Because humanity turned away from God's path, the world itself became corrupted.
+
+## § 6. Divine sovereignty and freedom
+
+**Does God rule the world freely and independently, or bound by creation?**
+
+Although God created and ordered all things through his Word, he remains **unbound by creation**. He works freely within it, holding all things in his hands (Ps. 115; Ps. 135). Both the miracles of the Old and New Testaments and the ordinary course of nature testify that God acts *voluntarily*, and is not constrained by any creature.
+
+## § 7. The world will not endure forever
+
+**Will the world remain eternally as it is?**
+
+**No.** Ps. 102: *The earth was founded by thee, and the heavens are the work of thy hands; they shall perish, but thou shalt endure.* The world will *perish through fire* (2 Pet. 3), when Christ comes for the Last Judgement (Luke 18; Matt. 24). Whence the world grows worse and worse (*wird jimmerdar ärger*); pray therefore that we may be preserved in faith in Christ.
+
+## § 8. Divine Providence — that God cares for all creatures
+
+**Does God care for all creatures?**
+
+**Yes.** For it would be impossible for creatures to exist even a moment without God's love and care.
+
+**By what means does God govern the world?** *Four modes:*
+
+**1.** **Direct divine action** — God alone sustains creation through his power, without the co-work of any creature.
+
+**2.** **Angelic mediation** — God commands angels to guide and protect his creatures externally.
+
+**3.** **Internal sustenance** — God alone provides interior support and help.
+
+**4.** **Special protection of humans** — angels particularly guard *die Menschen*, humanity.
+
+## § 9. The four regimens of divine governance
+
+**Through what four *regimens* does God govern all things?**
+
+**1.** **Spiritual realm:** angels combat evil and assist humanity.
+
+**2.** **Ecclesiastical realm:** God governs through apostles, preachers, and the ministry of the Word — the *verbum externum* alongside the interior work of the Spirit.
+
+**3.** **Domestic realm:** household governance and parental authority over children (this is the seed-plot of the fourth Commandment; on which more in the treatise on the Law).
+
+**4.** **Political realm:** civil government and the natural order — the magistracy which God has ordained for the *outward peace* of humanity (Rom. 13).⁴⁴
+
+## § 10. Three grounds of God's providence
+
+**How is God's care for creation known?** *Three grounds:*
+
+**1.** From **the ordinary course of nature** and its natural works — the seasons, the fertility of the earth, the breath in creatures.
+
+**2.** From **God's miraculous works** in Old and New Testaments.
+
+**3.** From **God's unfailing Word**, in which he plainly declares that he cares for every creature (Acts 17:24–28; Rom. 14; Ps. 104; 1 Tim. 4).
+
+## § 11. God's special care for the Church
+
+**Does God care especially for the Church?**
+
+**Yes.** Ps. 145, 147: *The LORD is nigh unto all them that call upon him.* Ps. 128: *Blessed is every one that feareth the LORD; thou shalt eat the labour of thy hands.* And 1 Tim. 4:10: *the living God, who is the Saviour of all men, especially of those that believe.* Though he cares generally for all creatures, he demonstrates special concern for his Church on earth and for the believers.
+
+— ❦ —
+
+*[Tranche 2a ends here at cv 140. Hauptstück IX* Von Engeln Gottes *begins at cv 145 and continues into evil angels; the Fall of Adam locus opens at cv 165, and the Sin locus at cv 180. The Law with the political-authority material (* Politia *and* Obrigkeit *) is expected around cv 210–240. See Translator's Note § 5 for the full projected structure.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1342,7 +1731,29 @@ Ps. 103: *As far as the east is from the west, so far has he removed our transgr
 
 ## From Hauptstück IV
 
-**³⁷** The list of exemplary redeemed sinners at the source's terminating passage — **Adam and Eve, Manasseh, David, Peter, Mary Magdalene, Paul, the thief on the cross** — is a stock Reformation-era Trostbuch enumeration used to comfort tender consciences that no sin excludes them from grace if they turn in faith to Christ. The source breaks off mid-sentence in the enumeration; the English follows the source's incompletion, disclosed at Translator's Note § 5. The seven exemplars are reconstructed from the surviving fragment ("Adae vnd …" — *"of Adam and …"*) and from the fixed Lutheran devotional convention of citing precisely this cluster.
+**³⁷** The list of exemplary redeemed sinners — **Adam and Eve, Manasseh, David, Peter, Mary Magdalene, Paul, the thief on the cross** — is a stock Reformation-era Trostbuch enumeration used to comfort tender consciences that no sin excludes them from grace if they turn in faith to Christ. An earlier draft of this endnote noted only "Adae vnd …" as the source's terminating fragment; direct hOCR-probing of cv 109 (2026-08-31) shows the list continues through Manasseh, David, Peter, Magdalene, Paul, and the thief before transitioning into the Baptism-and-Supper means-of-grace closing at cv 110. The full list has been reconstructed accordingly.
+
+## From Hauptstück V (Vom Reich Christi)
+
+**³⁸** The threefold Kingdom distinction (grace / power / glory — *regnum gratiae, potentiae, gloriae*) is Kirchner's inheritance from the mainline Lutheran scholastic tradition. Formalized by Chemnitz *De duabus naturis* (1571), the distinction became a standing locus in later Lutheran dogmatics (Gerhard *Loci* XVIII; Quenstedt *Systema* III.i). Preserve the Latin technical terms; render freely in the body.
+
+**³⁹** The "practical use" closes the locus per Kirchner's standard catechetical rhythm: doctrine → controversy → *praxis pietatis*. This closing-with-use pattern is retained across all Hauptstück of the *Enchiridion*.
+
+## From Hauptstück VI (Vom ewigen Priesterthumb)
+
+**⁴⁰** The seven-point contrast between the Aaronic and Christian priesthoods is drawn cumulatively from **Hebrews 7–10**, and is the standard Reformation-era catechetical treatment. Kirchner's specific ordering (oath / person / doctrine / duration / sacrifice / object / succession) is characteristic of the Formula-of-Concord-era scholastic apparatus; parallel formulations appear in Chytraeus's *Catechesis* Loc. VII and in the Second Helvetic Confession XVIII.
+
+**⁴¹** The rejection of the papal claim to Christ's High-Priesthood is one of the sharpest anti-papal moments in the whole *Enchiridion*: Kirchner names the papal claim *eine Gottslästerung* — a blasphemy. The Formula of Concord Solid Declaration X (BSLK 1053) and the Smalcald Articles II.iv (BSLK 483) authorize the identical language. The doctrine follows: Christ alone is the *unicus Mediator* of 1 Tim. 2:5, and the papal arrogation of intercessory power intrudes upon Christ's proper office.
+
+## From Hauptstück VII (Vom Heiligen Geist)
+
+**⁴²** *Verbum externum* — the "external Word." Kirchner's rejection of the *Schwärmer* here at Hauptstück VII § 4 rehearses the position first developed in Hauptstück I § 10 (which see, and endnote 20 on the *Schwärmer*). The doctrine is Formula of Concord Solid Declaration II — that the Holy Spirit is given *not* apart from but *through* the external means (Word and Sacraments). The seed-plot for this in Kirchner's own theological formation is Luther's *De servo arbitrio* (1525, WA 18:600–787).
+
+## From Hauptstück VIII (Von der Schöpffung)
+
+**⁴³** *Opera Trinitatis ad extra sunt indivisa* — "the works of the Trinity toward the outside are undivided." Standard scholastic principle from **Augustine** *De Trinitate* I.7–8 (PL 42:829–834) and formalized by the medieval schoolmen. Preserved through Lutheran scholasticism (Chemnitz, Gerhard, Quenstedt) as the ontological ground for the doctrine that all external divine operations — creation, redemption, sanctification, glorification — proceed from the one indivisible Trinity. The *appropriation* of creation to the Father, of redemption to the Son, of sanctification to the Spirit is a *personal appropriation*, not a division of the underlying divine act.
+
+**⁴⁴** The "four regimens of divine governance" at Hauptstück VIII § 9 is the *seed-plot* of the Lutheran two-kingdoms teaching. Kirchner distinguishes: (1) *spiritual realm* (angels), (2) *ecclesiastical realm* (Word and ministry), (3) *domestic realm* (household and parental authority — the base of the Fourth Commandment), (4) *political realm* (civil government, magistracy, natural order — Rom. 13). The pairing of ecclesiastical + political corresponds directly to the *regnum Christi spirituale* and the *regnum politicum* distinguished by Luther *Von weltlicher Obrigkeit* (1523, WA 11:245–281) and by the Augsburg Confession XVI *De rebus civilibus*. The developed *Politia* / *Obrigkeit* treatment (with the office of magistracy, the Christian's civil duties, the two-kingdoms teaching) sits within the missing tail of the book — expected to unfold under the Ten Commandments locus (around cv 210–240) — and is highlighted here as the seed-passage from which that fuller treatment grows.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1401,11 +1812,11 @@ Ps. 103: *As far as the east is from the west, so far has he removed our transgr
 
 &nbsp;
 
-*Tranche 1 shipped 30 August 2026 (kick-off) and 30 August 2026 (Hauptstück II–IV opening). Retracted "complete" claim 31 August 2026 upon discovery that the BSB IIIF manifest under-reported the canvas count by roughly nine-fold.*
+*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. **Tranche 2a shipped 31 August 2026**, extending translation through cv 140 to cover Hauptstück V (Kingdom of Christ), VI (Eternal Priesthood), VII (Holy Spirit), and VIII (Creation and Providence).*
 
-*Comprising cv 5 + cv 7–108 of what is now known to be an approximately 895-canvas book — approximately **12% of the whole *Enchiridion***. Contents this tranche: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; Hauptstück I* Von der Heiligen Schrifft*, Hauptstück II* Von Gott*, Hauptstück III* Von der Person unseres HERREN Christi *(the polemical Christological core), and the opening of Hauptstück IV* Vom Ampt Christi *(broken off in the source-shipped-slice at the sinner-exemplar list, cv 108).*
+*Comprising cv 5 + cv 7–140 of what is now known to be an approximately 895-canvas book — approximately **~24% of the whole* Enchiridion***. Contents through Tranche 2a: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; Hauptstück I–VIII in full (Scripture, Trinity, Person of Christ, Office of Christ, Kingdom of Christ, Eternal Priesthood, Holy Spirit, Creation and Providence). Hauptstück VIII § 9 gives the seed-passage on the **four regimens** of divine governance (spiritual / ecclesiastical / domestic / **political**) from which the fuller *Politia* / *Obrigkeit* treatment grows in the later Decalogue locus.*
 
-*Approximately 88% of the book — running from cv 109 through cv ~895 and covering the standard Lutheran catechetical loci from Christ's Kingdom through Angels, Man, Sin, the Decalogue and *Politia*, Justification, Faith, Baptism, Lord's Supper, Repentance, Antichrist, and Last Things — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
+*Approximately 76% of the book — running from cv ~141 through cv ~895 and covering Angels (good and evil), Man, the Fall, Original Sin, Actual Sin, **the Decalogue and Politia**, the Gospel, Justification, Faith, Good Works, Baptism, Lord's Supper, anti-Papal ecclesiology, Repentance, Antichrist, Resurrection, Hell (locus XLV), and Eternal Life (locus XLVI) — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
 
 &nbsp;
 
