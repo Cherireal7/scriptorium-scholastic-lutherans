@@ -1395,7 +1395,46 @@ Scripsit **Zacharias papa ad hunc Bonifacium**: et postea Bonifacius in quadam s
 
 **Carolus Magnus**, rex Galliae & Germaniae, primusq[ue] Germanus Imperator, regnauit circa 800 Domini annum.⁴¹⁶ Curauit quinq[ue] Synodos celebrari, in quibus multa sunt decreta contra errores & abusus nunc quidem grassantes & regnantes, tunc uerò…
 
-*[Charlemagne entry continues on `vl0120`; staged for the next Tranche 2 session.]*
+…then indeed sensim gliscentes et suborientes. Decreuit et ipse per sese uniuersum rex et Imperator, multa in eandem sententiam suo arbitrio.⁴¹⁷
+
+*Ex ijs omnibus Decretis Caroli, et postea filij Ludouici, congessit **Ansegisus Abbas**, sub ijsdem temporibus uixit, quatuor libellos suo quodam ordine, qui anno 1550 Parisijs impressi sunt.* In eo ergo opere sunt, praeter multa alia praeclara, haec Decreta:⁴¹⁸
+
+- *Quòd in templis tantum Canonici libri, id est, sacrae literae legi debeant:* Lib. 1 cap. 19.⁴¹⁹
+- *Quòd episcopi et parochi debeant docere populum sanam doctrinam ex sacris literis, et non pati ut quisquam eloquatur nouum ex suo sensu, aut ex sacris literis non desumptum, cōfingat aut doceat.* Et ibidem hanc sanctissimam exhortationem subiungit: *Ideo dilectissimi (inquit) toto corde praeparemus nos in scitu ueritatis, ut possimus cōtradicentibus. ueritatiue sistere, et diuina donante gratia uerbum Dei currat, et crescat: et multiplicetur in profectu ecclesiae Dei sanctae, et salutem animarum nostrarum, et laudē et gloriā nominis Domini nostri Iesu Christi. Pax praedicantibus, gratia obedientibus, gloria Domino nostro Iesu Christo, Amen.* Lib. 1 cap. 76.⁴²⁰
+- *Quòd reditus Ecclesiastici inter pauperes et sacerdotes distribui debeant.* Lib. 1 cap. 80.⁴²¹
+- *Quòd clerici non praesumant à quoquam accipere eiusmodi donationem, quae in magnum damnum liberorum, aut aliorum haeredum cedere possit.* Lib. 1 cap. 83.
+- Eodem primo libro, cap. 103, sub titulo *De pabulo uerbi diuini nuncciando*, sanctissima lex his uerbis exposita: *Episcopi uerò, ut siue per se, siue per uicarios, pabulum uerbi diuini sedulo populo annuncient*. Quia, ut ait Gregorius, est occulti iudicis excitat sacerdos, si sine praedicationis sonitu incedit. Et ut ipsi clerum sibi commissum in sobrietate & castitate nutriant: superstitiones; quas quibusdam in locis in exequijs mortuorum nonnulli faciunt, eradicant.⁴²²
+- **Ex hoc Decreto apparet, Carolo, eiusq[ue] concilio non esse probatum, quòd sacerdotes neglecta predicatione uerbi Dei, coeperint exequijs & missis pro mortuis occupari.**
+- Libro secundo, cap. 38, tit. *De corporis et sanguinis Domini laicorum communione*, est decretum, *ut laici ad minimum ter in anno communicent*.⁴²³
+- **Vadianus**, in *Aetoli et Troade*, multarum Germanicarum synodorum, quae post Carolum fuerunt, testimonia citat, ex quibus patet, communionem sub utraque specie tunc in usu fuisse.
+- Sunt et haec decreta in praedicto Ansegisi, ex Caroli Magni opusculo: *Quòd sacerdotes non debeant ordinari, nisi prius rectè examinati fuerint. Quòd excommunicatio temere et sine graui causa fieri non debeat.*⁴²⁴
+- *Quòd omnis symoniacus ingressus sit cauendus: quodq[ue] episcopi secundum Canones à populo et clero suo, sine acceptatione personarum, habita tantum meriti, uitae et doni sapientiae ratione, eligi debeant, ut sermone et doctrina populum instruere possint.* Hoc decretum et Gratianus Dist. 63 recitat.
+- *Quòd nemo debeat profiteri monachatum, nisi petita à rege uenia, propter multas fraudes*, etc. *Quòd pueri ac puellae non debeant ante maturam aetatem intrudi in monasteria. Quòd sacerdotes paterno affectu plebem et auditores regere debeant.*⁴²⁵
+- **Valdè item pauca festa Carolus celebrari uoluit**, nempe *diem Dominicum, Pascha*, cum praecedente hebdomada, *Pentecosten, Petri et Pauli, natiuitatem Baptistae, Assumptionem Mariae, Remigij, Martini, Andreae, Natale Domini, et sequentes dies quatuor, Epiphaniam, Purificationem*: et non martyrum festa, in suis tantum locis celebrari uoluit, ubi corpora eorum iacerent.⁴²⁶
+- Vt **Ansegisus** refert, luxum sacrificorum et omnem plane eorum licentiam uehementer coercuit.
+- **Statuit item de uoluntate ac consensu totius sui regni**, ne sacerdotibus in bellum pugnandi causa ire liceat, sed tantum docendi & procurandae religionis causa (tametsi hoc egerrimè sacrificij tulerint, quibusq[ue] modo sit, tuas libertates ac iura sibi imminui: ut ex ipso Decreto, cuius uerba adscribam, apparet).⁴²⁷
+
+Notandum et alibi paulò seuerius de sacerdotum uita loquitur Carolus, prohibitis eorum consortio publicè damnatis mulieribus: *Quòd honores sacerdotum et res ecclesiarum auferre, uel minorare eis uoluissemus, quòd nullatenus facere uelle, uel facere uoletib. consentire, omnes scire cupimus: sed quantò quis eorum amplius suā normā seruauerit, tantò Deo seruierit, tanto eum plus honorare & chariorem habere uolumus.*
+
+- **Statuerat idem annis compluribus antè et Carolomannus, patruus Caroli, dicta Synodo, praesente et approbante Bonifacio Germanorum apostolo**, sicut in Bonifacio id commemoraui, ac decretum restaui.⁴²⁸
+- Sed adscribam quaedam de eo, quomodo erga sacerdotes gesserit, ex **Auentino**: *Praecepit etiam, ut monachi sacerdotes literis operā sedulò darent, emendatè et rectè scriberent: in omnibus contuberniis monachorum et episcoporum aedibus pueros docerent. Mendicis palantibus uetuit quicquam tribui, suos quaeq[ue]; regionem inopes alere: sanos et ualidos labore uictum quaerere, ac desiderio sufficere manus tuisti. Idcirco opes Ecclesiasticas in ternas diuisit partes, duas egenis, tertiam sacerdotibus attribuit. In aedibus augustioribus donaria aequa lance inter egenos et sacerdotes bipartit est.*⁴²⁹
+- **Author et aliarum legum fuit, in quibus cauit, Ne temere et passim sacrificijs interdiceretur: ne uae cadauera in sanis inhumarentur: non sacerdotes auaritia, Venerij, deditii essent: ut pontifices officio publicè in templo docendi plebem fungerentur: ut sacerdotes auaritiam, gulam, cauponas, negotia prophana, familiaritatem mulierum euitarent, aut sacerdotio cederent, uel tanta mouerentur: Vt fures, homicidae, et huiusmodi crimina committentes, si ad asylum, templum ue fuga elapsi forent, repeterentur, atque ui eriperentur.**
+
+**Quòd si quis Monachorum, Pontifex ue, praefectus ue, illos reddere recusaret, satisdaret damni infecti, compensandiq[ue]. si illorum quispiam aufugisset, id non sua opera esse factum, iuraret. Ius assiduè summa diligentia dixit, non uniquam manè dum indueretur: tanti temporis iactura apud eum erat. Nulli plures Ducatus, praefecturasq[ue], aut sacerdotia concessit: dicitans, sibi et suos in ordinem ad pristinum modum, quàm honorem à D. Paulo praescriptum, reduxit. Curiosè cauit, ne quis auarus, aut ambitiosus, luxu ue perditus, unquam pontificalis apice adipisceretur.**⁴³⁰
+
+**Hyldegardae reginae** petenti pro sacrificulo suo, ac idem proceribus aulae rogantibus, respondit: *Idoneo, et si pauperi, iam destinaui: Imperatorem mentiri nulli sit, illon dicet, ut obtrudas superis, cuius uitam, mores, ingenium ignoret: et tanto ne oneri par sit, coeptum non habeat.* **Episcopum Moguntinum**, quod linum aureum, distinctum gemmis, instar Caesarei sceptri usurpasset, seuerissima coercuit oratione: eidem auaritiam et superbiam pro cōcione propalam exprobrauit, indignabundus et clamitans: *En, ait, pastores nostros, crucem Christi professos, qui spretae cura, et pascendarum ouium sollicitandarum, ostentatione opibus, luxu, Imperatorem quemuis opulentissimum lacessant.*⁴³¹
+
+Quendam pridie feriarum D. Martini designatum episcopum, quòd is auctus tanta dignitate, amicis coenam exhibens, et (si fit) mero seseminium onerans, somno deinde oppressus, noctu diuinis rebus non interfuisset, rursus sacerdotio mouit: *Intolerabilem negligentiam esse dicens, tui, qui primo se sibi non temperarat: ut sui compos Deum ad iracundiam non prouocaret.* Item alium leuiorem ob pontificatum donatum, atq[ue] gestientem, et ab humo in equum absq[ue] scamno, siue suppedaneo, uno impetu subsilientem, reuocauit: *Vales, inquit, ut uideo, uiribus, et eques haud malus in bellis, ubi tua uirtus enitescat, indigeo: proinde ignobili et imbecillo oues et gregem pecudum relinque.* Hactenus Auentinus.⁴³²
+
+**Alicubi in Decreto citatur Caroli Magni statutum**, in quo ille queritur, imponi suo regno à Papauix ferendum iugum. Sed decreta alicuius recentioris Caroli esse.⁴³³
+
+**Ex his apparet primùm, Papam tunc non habuisse ullum regimen in exteras ecclesias: quippe cùm Reges, Synodos conuocarint, et decreta clericis proposuerint. Deinde apparet tunc omnem animam, id est, non minus clericos quàm laicos, politicis magistratibus subiectam fuisse. Postremò, quod ex animo quidem errorib. et abusibus, qui nunc iacet regnant, tunc uerò orirebantur, pietissimi illi Caesares et patres resistere uoluerunt, sed frustra: uincente tandem impietate Antichristi, sicut Daniel praedixit.**⁴³⁴
+
+**Editus est libellus in decimosexto (ita enim uocent) Parisijs (ut opinor) nomine Caroli Magni, contra synodum quandam Graecam, quam Graeci paulo antè Nicaeae pro statuarum adoratione celebrauerant, et septimam uocauerant.** Refutat ergo praedictus libellus illa Synodum, et praesertim statuarum adorationem, prolixè et accuratè reijciendo iustitum, suffitum, lumina, et alia ornamenta statuarum, item et geniculationem ante eas. Facit horum quatuor librorum et **Eccius** mentionem in suo Enchiridio. Is uerò qui eum libellum curauit, multis firmisq[ue] argumentis euidenter probat, non esse suppositum aut adulterinum. Dicit inter alia, etiam Romae in Lateranensi bibliotheca idem exemplar uetustis Lōgobardicis literis descriptum extare: id quod **Augustinus Steuchus**, eius bibliothecae praefectus, in publico etiam scripto testatur. Scriptus porrò ille libellus ea ratione et occasione est, quòd, sicut Constantinopolitanus Imperator pro statuarum adoratione concilium pro sua & imperij authoritate auxit conatibus defendere ac propagare conatus erat: sic contra Carolus (forte non aliqua aemulatione motus, ut fit) tum Synodo Francofordiae congregatâ, tum suo proprio scripto uehementer eijecit ac damnauit. Quòd uerò in Francofordiana Synodo, praesente et praesidente Carolo Magno, non tantum Felicis error de filio Dei, sed et illa septima Graeca synodus propter errorem adorationis statuarum damnata sit, posteà dicetur.⁴³⁵
+
+**Apparet porrò ex eodem scripto, Carolum Magnum, et alios pios, tunc longè leuius de adoratione sanctorum**…
+
+*[Charlemagne entry continues on `vl0127`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2418,6 +2457,44 @@ Scripsit **Zacharias papa ad hunc Bonifacium**: et postea Bonifacius in quadam s
 ## From the Catalogue — Carolus Magnus (vl0119+)
 
 **⁴¹⁶** **Charlemagne** (Charles the Great, r. 768–814), King of the Franks and, from Christmas Day 800, the first Holy Roman Emperor of the Latin West. Flacius reads Charlemagne as a Christian ruler who convoked five reforming synods (Frankfurt 794 already at endnote 130; Aachen 799 and 802 and 809; Chalons 813) whose canons *contra errores et abusus* were later ignored by the Roman papacy. Entry continues on next page.
+
+**⁴¹⁷** Charlemagne's imperial legislation *suo arbitrio* — the Frankish-imperial capitulary tradition, in which the emperor issued binding regulations for both church and empire without formal papal confirmation. The Reformation reads Carolingian imperial-ecclesiastical legislation as evidence that Roman-monarchical papacy is a later development.
+
+**⁴¹⁸** **Ansegisus of Fontenelle** (c. 770 – 833), Abbot of Saint-Wandrille, whose *Collectio Capitularium* (827) compiled Carolingian imperial capitularies into four books. The 1550 Paris printing Flacius here cites is a humanist edition. Standard Reformation source for Carolingian conciliar legislation.
+
+**⁴¹⁹** Ansegisus I.19 — restricting temple-readings to canonical Scripture only. Reformation-standard proof against medieval liturgical use of legendary/hagiographic readings.
+
+**⁴²⁰** Ansegisus I.76 — the celebrated Carolingian preaching-mandate. Bishops and parochial priests must teach *sana doctrina ex sacris literis*, not permit anyone to speak *novum ex suo sensu* (novelty from private opinion). Reformation-standard *sola scriptura* proof-text.
+
+**⁴²¹** Ansegisus I.80 — church revenues to be distributed between poor and priests. Reformation reads against later medieval clerical wealth-accumulation.
+
+**⁴²² Ansegisus I.103** — the *De pabulo verbi divini nunciando* canon, quoting Gregory the Great: *si sine praedicationis sonitu incedit* — a preacher-less priest is a *judgement-provoking* silent one. Reformation locus classicus against ceremonial-priesthood without preaching. Applied to superstitious *exequiae mortuorum*.
+
+**⁴²³** Ansegisus II.38 — lay communion at least three times a year. Reformation reads against the medieval reduction of lay communion to once-yearly Easter minimum (Lateran IV 1215).
+
+**⁴²⁴** **Joachim Vadianus (Watt)** (1484–1551), Swiss humanist and reformer, *Aetoli et Troade* — Vadian's antiquarian-geographical work incidentally citing Germanic synodal testimony for lay communion sub utraque specie in the Carolingian era.
+
+**⁴²⁵** Carolingian canons preserved by Ansegisus: proper episcopal examination pre-ordination, restraint on excommunication, anti-simony, royal permission required for monastic vocation, protection of children from premature monastic vows, pastoral-paternal spirit of clerical governance.
+
+**⁴²⁶** **Charlemagne's approved feast-day calendar** — remarkably short: Sunday, Easter (with preceding week), Pentecost, Peter and Paul, Nativity of the Baptist, Assumption of Mary, Remigius, Martin, Andrew, Christmas + next four days, Epiphany, Purification. Martyr-feasts approved *only in their local place* (where the body lies). Flacius reads as ancient warrant against the medieval calendrical proliferation of feast days.
+
+**⁴²⁷** Charlemagne's canonisation of Boniface's arms-ban (glossed at endnote 415) — clerics may not go to war except *docendi et procurandae religionis causa* (for teaching and religious care). Sacrificers' hostile reaction to loss of the traditional bearing-arms right is a proto-Reformation topos of clerical-secular jurisdictional conflict.
+
+**⁴²⁸** **Carloman** (c. 706 – 754), Charlemagne's granduncle (brother of Pepin the Short), Frankish mayor of the palace whose 743 Concilium Germanicum (already at endnote 415) established the same anti-arms-bearing canon.
+
+**⁴²⁹ Ansegisus's Charlemagne-on-priests catalogue** — clerical education mandate (priests must teach children), anti-mendicancy legislation (each region should support its own poor), triple division of church revenues (two-thirds poor, one-third clergy). Reformation-standard model of Carolingian social-legislation compared to medieval clerical wealth-concentration.
+
+**⁴³⁰** Extended catalogue of Charlemagne's clerical-discipline laws from **Aventinus** — restraint on interdicts, cleanliness burial requirements, anti-avarice-and-luxury for pontifs, mandatory public preaching, ban on clerical taverns and profane businesses, restriction on multiple benefice-holding. The Charles-Aventinus material is a Reformation-standard vision of ideal Christian-empire governance.
+
+**⁴³¹** **Hildegard**, Charlemagne's wife (queen c. 771 – 783), petitioning for a court-favourite's episcopal appointment; Charlemagne's refusal: *Idoneo, et si pauperi, iam destinaui* — I have already designated a worthy candidate, though poor. The **Mainz episcopal reproof** — Charlemagne publicly rebuking the Archbishop of Mainz for wearing a jewel-studded golden sceptre imitating imperial regalia. The invective *En, ait, pastores nostros, crucem Christi professos, qui spretae cura et pascendarum ouium sollicitudinis, ostentatione opibus, luxu, Imperatorem quemuis opulentissimum lacessant* is Charlemagne's Reformation-standard reproach of episcopal luxury.
+
+**⁴³²** Two further Charlemagne-episcopal-reproach episodes from Aventinus: (i) an episcopal appointee whose feasting the night before the Feast of Martin caused him to sleep through vigils, deposed for *intolerabilem negligentiam*; (ii) a lighter-hearted appointee eager for military-style equestrian display, redirected: *Vales…uiribus, et eques haud malus in bellis, ubi tua virtus enitescat, indigeo: proinde ignobili et imbecillo oues et gregem pecudum relinque*. Charlemagne as ideal pastor-of-pastors, correcting episcopal *habitus* toward humility.
+
+**⁴³³** *Recentioris Caroli* — probably a reference to a Carolingian-era decree misattributed to Charlemagne himself; Flacius notes his uncertainty about the specific text.
+
+**⁴³⁴** **The polemical summary**: (i) Papa in the Carolingian era had no jurisdiction over external churches; kings convoked synods and issued canons. (ii) All souls (clerics and laity alike) were subject to political magistrates. (iii) The pious Emperors and Fathers of the age tried to resist the errors and abuses now rampant but were defeated: *vincente tandem impietate Antichristi, sicut Daniel praedixit*. Standard Reformation-historiographical arc.
+
+**⁴³⁵** **The Frankfurt Synod of 794** — the fullest treatment yet in the *Catalogus*. Charlemagne convoked Frankfurt in response to (i) the Adoptionist heresy of **Felix of Urgel** (condemned) and (ii) the pro-icon decrees of the **Second Nicene Council of 787** (which the Frankish delegation had not been consulted on and rejected as encouraging idolatry). The **Libri Carolini** (composed under Theodulf of Orléans c. 790, Latin text PL 98) systematically refuted Nicaea II's iconic theology. The **Latin manuscript in the Lateran library** — attested by **Augustinus Steuchus** (1497–1548, Papal librarian and Vatican archivist under Paul III) — is Flacius's authority for the Libri Carolini as a genuine Carolingian document, not later Reformation forgery. **Johann Eck** (1486–1543) mentions the four books in his *Enchiridion Locorum Communium* (1525+). The Libri Carolini were the systematic Carolingian-Latin refutation of icon-veneration and Reformation-key polemical ancestor of Luther's *Wider die himmlischen Propheten* (1525) anti-image position.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

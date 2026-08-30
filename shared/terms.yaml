@@ -3915,13 +3915,61 @@ carolus_magnus:
     whose canons contra errores et abusus later ignored by Roman
     papacy.
 
+# ─── Tranche 2y — Charlemagne large treatment (vl0120-vl0126) ────────────
+
+ansegisus_capitulare:
+  english: Ansegisus Collectio Capitularium 827
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Carolus Magnus at vl0120"
+  note: >
+    Ansegisus of Fontenelle c. 770-833 Abbot of Saint-Wandrille
+    Collectio Capitularium 827 compiled Carolingian imperial
+    capitularies into four books. Paris 1550 humanist printing.
+    Standard Reformation source for Carolingian conciliar legislation.
+
+libri_carolini:
+  english: Libri Carolini (Theodulf c. 790 anti-Nicaea-II)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Carolus Magnus at vl0126"
+  note: >
+    Systematic Carolingian-Latin refutation of Second Nicene Council
+    787 pro-icon decrees, composed under Theodulf of Orléans c. 790,
+    Latin text PL 98. Preserved in Lateran library manuscript
+    attested by Augustinus Steuchus 1497-1548 Papal librarian.
+    Reformation-key polemical ancestor of Luther Wider die
+    himmlischen Propheten 1525 anti-image position.
+
+concilium_francofurtense_794:
+  english: Frankfurt Synod 794 (Charlemagne)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Carolus Magnus at vl0126"
+  note: >
+    Charlemagne convoked Frankfurt 794 in response to Adoptionist
+    heresy of Felix of Urgel (condemned) + Second Nicene Council
+    787 pro-icon decrees (rejected as encouraging idolatry). West
+    stood briefly with Byzantine iconoclasts against East.
+
+hildegard_pastoral_rebuke:
+  english: Charlemagne's episcopal-appointment reproaches
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Carolus Magnus at vl0124"
+  note: >
+    Charlemagne refused wife Hildegard's request for court-favourite
+    episcopal appointment (IDONEO ET SI PAUPERI IAM DESTINAVI), publicly
+    rebuked Archbishop of Mainz for jewel-studded golden sceptre
+    imitating imperial regalia — En ait pastores nostros crucem
+    Christi professos qui spretae cura et pascendarum ovium
+    sollicitudinis ostentatione opibus luxu Imperatorem quemvis
+    opulentissimum lacessant. Charlemagne as ideal pastor-of-pastors.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Carolus Magnus opening (vl0001-vl0119,
-# 119 body pp + 32 paratexts ≈ 21.7% of 1094-pp body). Flacius lemma total:
-# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
-# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
-# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) = 133.
+# FLACIUS 1556 — TRANCHE 2 through Charlemagne substantive treatment
+# (vl0001-vl0126, 126 body pp + 32 paratexts ≈ 23% of 1094-pp body).
+# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
+# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
+# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
+# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
+# 5 (T2w) + 5 (T2x) + 4 (T2y) = 137.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
