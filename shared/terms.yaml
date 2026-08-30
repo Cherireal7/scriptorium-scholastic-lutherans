@@ -3752,13 +3752,60 @@ pseudo_ulrican_argument:
     bestiality/infanticide (vii) Peroration — Christ sole eternal high
     priest.
 
+# ─── Tranche 2v — Historici + Nicetas + Beseritae + Const + Claudius ────
+
+gregorius_vii_1074:
+  english: Gregory VII 1074 Lenten Synod (mandated celibacy)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Historici at vl0110"
+  note: >
+    Hildebrand/Gregory VII r. 1073-1085 Roman Lenten Synod 1074
+    formally prohibited married priests from celebrating Mass and
+    required wives' expulsion. Led to German-episcopal resistance
+    (Otto of Constance 1071-1086, Ratholdus of Strasbourg 1075-1077)
+    and counter-schism running to Concordat of Worms 1122.
+
+phocas_607:
+  english: Phocas 607 decree recognising Roman primacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Archiepiscopi Constantinopolitani at vl0112"
+  note: >
+    Byzantine usurper Phocas r. 602-610 (deposed and killed Emperor
+    Maurice + sons) in 607 issued imperial decree formally recognising
+    Roman see as head of all churches — founding-moment of papal
+    universal-jurisdictional claim. Phocas's parricide character taints
+    the origin — Reformation ad-hominem commonplace (Luther Ad librum
+    ambrosii Catharini 1521 WA 7:733-735).
+
+nicetas_stethatos:
+  english: Nicetas Stethatos and 1054 Schism
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Nicetas at vl0111"
+  note: >
+    Nicetas Stethatos c. 1005-c. 1090 Studite monk-theologian at
+    Constantinople defending married clergy + attacking Roman customs.
+    Treatises condemned by Cardinal Humbert of Silva Candida 1054 —
+    the exchange of anathemas constituting traditional dating of
+    East-West Schism. Flacius reads as pre-Reformation anti-celibacy.
+
+claudius_altisidiorensis:
+  english: Claudius Clemens Scotus / Claudius of Turin
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Claudius at vl0112"
+  note: >
+    Flacius conflates Claudius Clemens Scotus (Irish Palace-School
+    scholar c. 780-c. 830 disputed with Boniface) with Claudius of
+    Turin †c. 827 (great Carolingian-era anti-image-cult bishop) —
+    two Claudii commonly confused in medieval and Reformation sources.
+    Standard pre-Reformation anti-image-veneration witness.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Historici opening (vl0001-vl0109, 109
-# body pp + 32 paratexts ≈ 20% of 1094-pp body — CROSSED 20% MILESTONE!).
-# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
-# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
-# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
-# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) = 119.
+# FLACIUS 1556 — TRANCHE 2 through Claudius opening (vl0001-vl0112, 112
+# body pp + 32 paratexts ≈ 20.5% of 1094-pp body). Flacius lemma total:
+# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
+# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
+# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
+# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) = 123.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

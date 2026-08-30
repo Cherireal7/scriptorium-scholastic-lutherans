@@ -1286,7 +1286,43 @@ Closing: *"Nemo sine castimonia non tantum in uirginali flore, sed etiam in coni
 
 **Historians narrate**: **Nauclerus**, **Krantz**, and **Hirsfeldensis** [the *Chronicon Hersfeldense*], in the year 1074, that grave contentions arose in Germany… ³⁸⁷
 
-*[Continues on `vl0110`; staged for the next Tranche 2 session.]*
+…in Germany, over clerical *coniugium*, when **Hildebrand [Gregory VII] the Pope** was urging bishops and priests of the Germans vehemently, that they abstain from marriage and from wives, and would not do so themselves; but as far as they had power they resisted. Narrat too, among others also **Otho of Constance**, of whom afterwards, and **Ratholdus of Strasbourg**, bishop, and that Popes then had attempted at this. But the Pope could not then straightway be effected, because the Germans sharply of priests resisted this unjust mandate.³⁸⁸ Sprang up also new schism, and the ecclesia some ones to itself elected pastors without episcopal ordination. For they would not permit any bishop to ordain, unless he was according to the Pope's celibate decrees. But the same Pope by that tyranny, both of Caesars oppressed, at last on Germanic priests coniugium ripped away: and-so-was-that-thing scarcely up-to the year 400, ex quo demum in Germania coniugati sacerdotes desierunt.³⁸⁹
+
+**Exstat epistola quaedam Synodi Brixiensis** to Hildebrand, in which impious act obiiciunt, quòd de coniugia sacerdotum distrahat. Celebrata est ea synodus circa annum 1076, sed de hac re positum est in Henrico 4 & Hildebrando, seu Gregorio 7, aliqui leges non contenendi.³⁹⁰
+
+**Polydorus lib. 6 Anglicae historiae** narrat, coniugia sacerdotibus in Anglia abrogari coepisse circa annum 970. Libro porrò 5 de Inuentoribus rerum testatur, demum circa annum Domini 1100 occidentalibus coniugium penitus ademptum esse.³⁹¹
+
+**Fuerunt et Syricij papae certamina** cum Taraconensi episcopo, alijsq[ue] Hispanis sacerdotibus, de coniugio, cum & illi ius coniugij sacerdotum tuerentur. Sed illa longè antea acciderunt.
+
+**Quin et Lotharium Imperatorem**, qui circa annum Domini 855 regnauit, testatur Sigebertus, coniugio sacerdotum repugnare noluisse. **Gebuilerus** huius temporis Papisticus scriptor, testatur fuisse tempore Henrici IIII, 24 episcopos, unà cum suo clero in Germania et Gallia, coniugatos.³⁹²
+
+## Nicetas
+
+### *Nicetas of Nicomedia (or Stethatos)* — vl0111
+
+**Nicetas quidam Graecus**, teste Sigberto, circa annum 1050, edito scripto defendit coniugium sacerdotum.³⁹³ Credo id eum propterea fecisse, quòd uidit tunc temporis Papas in id totos incumbere, ut coniugium sacerdotum aboleret. Sed ob hunc tam grauem errorem, ab Antichristo tanquam haereticus damnatus est. Scripsit contra eum **Leo papa**, cuius scripti multa fragmenta passim in Decretis citantur, tametsi & alioqui inueniantur.
+
+## Beseritae
+
+### *The Beserites* — vl0111
+
+**Beseritae inter haereticos numerantur**, quos aiunt originem suam à Beser quodam, qui ante 800 annos uixit, accepisse. His uicio datur, quòd damnauerint imagines, & earu[m] cultũ. O graue scelus. Credo fuisse pios homines, qui crescenti superstitioni circa idola resistere sunt conati, si non maiores aliquos errores habuerunt. Nam nulli eis alioqui obiiciuntur, quòd ego sciam.³⁹⁴
+
+## Archiepiscopi Constantinopolitani
+
+### *The Archbishops of Constantinople* — vl0111–vl0112
+
+**Constantinopolitani archiepiscopi**, ut testantur historici, aliquandiu usurparunt sibi primatum, comprobante tertià et quartà synodo, uniuersalesq[ue] episcopi nominati sunt: nihil minus a Romanis pontificibus solis id tituli ac dignitatis concedere uolentes.³⁹⁵ Quanquam nec usurparant quidem planè propalam usquam ante Gregorium, quod annis ferme sexcentis post Christum accidit; sibi episcopi Romani eam dignitatem, nisi quòd sextae Africanae Synodi tempore accidit, ut alibi diximus. Vide registrum Gregorij: inde clarè apparet, planè ignotum fuisse primitiuae Ecclesiae, quòd Romanus episcopus habeat primatum super omnes ecclesias; quodq[ue] habeat ius utriusque gladij super totum terrarum orbem.³⁹⁶ Si enim notum receptumq[ue]; fuisset istud Papae ius ac potestas, quomodo ausus fuisset Constantinopolitani patriarcha id sibi usurpare? Sed rapuerunt tandem sibi Romani pontifices ea dignitate, adiuuante eos parricida seditiosoq[ue] tyranno **Phoca**, licet summa ui Graeci contra repugnarent.³⁹⁷
+
+**Audio quoq[ue]**, hodierna die extare uersus in aede Laterana alicubi in pariete scriptos, non diuinu[m], sed humanum ius pro Papae primatu iactent. Stultissimi autem fuissent Romanistae, si humanum ius ibi citarent, sibi diuinum se habere non dubitarent.
+
+## Claudius Altisidiorensis, seu Clemens Scotus
+
+### *Claudius of Auxerre, or Clement the Scot* — vl0112+
+
+**Claudius Altisidiorensis**, seu Claudius Clemens Scotus, floruit circa 800 annum, uir eruditus, pius ac prudens, eoq[ue] Carolo Magno pergratus.³⁹⁸ Fuit unus ex praecipuis Parisiensis scholae instauratoribus, diuq[ue] in ea docuit. Is acriter una cum Adalberto Gallo, teste Baleo, restitit Bonifacio (qui alioqui Germano-…
+
+*[Claudius entry continues on `vl0113`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2231,6 +2267,36 @@ Closing: *"Nemo sine castimonia non tantum in uirginali flore, sed etiam in coni
 ## From the Catalogue — Historici, de coniugio sacerdotum (vl0109+)
 
 **³⁸⁷** **Johannes Nauclerus** (c. 1425 – 1510), *Memorabilium omnis aetatis et omnium gentium Chronici Commentarii* (Tübingen 1516) — the standard humanist-era universal chronicle; **Albert Krantz** (c. 1448 – 1517, already at endnote 371) *Saxonia* and *Metropolis*; **Hersfeldensis** (the *Annales* or *Chronicon* of the Abbey of Hersfeld, 11th c.) — the three historical sources Flacius chains for the 1074 German clerical marriage-controversy under Gregory VII's Roman-decreed celibacy-enforcement.
+
+**³⁸⁸** **Gregory VII** (Hildebrand, r. 1073–1085) — the Roman Lenten Synod of 1074 formally prohibited married priests from celebrating Mass and required their wives' expulsion. **Otto of Constance** (Bishop 1071–1086) and **Ratholdus** (probably Bishop of Strasbourg 1075–1077) led German-episcopal resistance. Flacius's "up to the year 400" is a Latin typo for "up to the year 1400" — clerical marriage persisted informally in Germany for three-plus centuries after Gregorian enforcement.
+
+**³⁸⁹** **The German counter-schism** — bishops loyal to Emperor Henry IV against Gregory, and priests refusing celibacy-imposition, elected their own pastors and refused Gregorian episcopal ordination. The schism ran from c. 1076 through the Concordat of Worms 1122.
+
+**³⁹⁰** **Synod of Brixen** (June 1080) — under Henry IV, formally deposed Gregory VII and elected Guibert of Ravenna as antipope Clement III (1080–1100). The Brixen letter to Hildebrand accusing him of tearing apart clerical marriages was preserved in the anti-Gregorian polemical corpus.
+
+**³⁹¹** **Polydore Vergil** (1470–1555), *De Rerum Inuentoribus* (Venice 1499, expanded 1521) and *Anglicae Historiae* (Basel 1534) — Italian humanist historian working in England. Flacius uses Polydore's chronology: English clerical marriage began to be abolished c. 970 (under Dunstan's reforms, 959–988), definitively suppressed by c. 1100 (under Anselm of Canterbury's reforming councils).
+
+**³⁹² Gebwiler (Gebuilerus)** — Hieronymus Gebwiler (c. 1473–1545), Strasbourg humanist historian, Flacius's *Papisticus scriptor* whose historical work on Henry IV's era testified to 24 married bishops in Germany and Gaul with their clergy.
+
+## From the Catalogue — Nicetas (vl0111)
+
+**³⁹³** **Nicetas Stethatos** (c. 1005 – c. 1090), Studite monk and theologian at Constantinople, whose treatises defending married clergy and attacking Roman customs (in Latin translation) were formally condemned by **Cardinal Humbert of Silva Candida** in 1054 — the exchange of anathemas that constitutes the traditional dating of the East-West Schism. Flacius (following Sigebert of Gembloux, c. 1030 – 1112) treats Nicetas as pre-Reformation anti-celibacy witness; the Leo IX (not Leo more generally) response cited is Humbert's *Adversus Graecorum calumnias* (PL 143:929–974).
+
+## From the Catalogue — Beseritae (vl0111)
+
+**³⁹⁴** **The Beserites (or Bosserites, Basserites)** — a poorly-attested medieval sect grouped in canonical heresy-catalogues with the Iconoclasts. Flacius honestly notes he does not know what other errors they were charged with beyond image-rejection — an acknowledgment that they may have been pre-Reformation reformist rather than genuine heretics. The passing observation is characteristic *Catalogus* scholarly restraint.
+
+## From the Catalogue — Archiepiscopi Constantinopolitani (vl0111–vl0112)
+
+**³⁹⁵** The Constantinopolitan Patriarchate's primacy-claim (already glossed at endnotes 223–224 on Constantinople I 381 and Chalcedon 451 Canon 28) — Flacius here reads it as evidence that no *ecumenical* primacy-doctrine existed before Gregory the Great, when both Constantinople and Rome contested the title.
+
+**³⁹⁶** **The Registrum of Gregory the Great** — the 850+ letter Gregory epistolary corpus, whose systematic reading shows no assumption of Roman universal jurisdiction. Reformation-standard *ex ore proprio* proof against later medieval Roman ecclesiology.
+
+**³⁹⁷** **Phocas** (r. 602–610), Byzantine usurper who deposed and killed Emperor Maurice and his sons; in 607 issued the decree formally recognising the Roman see as *head of all churches* — the imperial declaration that Reformation polemic reads as the founding-moment of papal universal-jurisdictional claim. Phocas's usurper-parricide character taints the origin of the Roman primacy doctrine: Flacius's ad-hominem is a Reformation commonplace (compare Luther's *Ad librum ambrosii Catharini* 1521, WA 7:733–735).
+
+## From the Catalogue — Claudius Altisidiorensis (vl0112+)
+
+**³⁹⁸** **Claudius Clemens Scotus** (or *Clemens Scottus*, c. 780 – c. 830), Irish scholar at Charlemagne's court, teacher at the Palace School under Louis the Pious, disputed against Boniface's Anglo-Roman ceremonial impositions in Germany. Flacius conflates or associates him with **Claudius of Turin** (†c. 827), Bishop of Turin whose anti-image-cult writings made him the great Carolingian-era iconoclast — Reformation-standard pre-Reformation witness against image-veneration. The two Claudii are often confused in medieval and Reformation sources.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
