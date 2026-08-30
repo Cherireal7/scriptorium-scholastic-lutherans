@@ -20,19 +20,27 @@ lang: en
 
 *Catalogus testium veritatis, qui ante nostram aetatem reclamarunt Papae*
 
-*Opus varia rerum, hoc praesertim tempore scitu dignissimarum, cognitione refertum, ac lectu cum primis utile atque necessarium*
+*Opus uaria rerum, hoc praesertim tempore scitu dignissimarum, cognitione refertum, ac lectu cum primis utile atque necessarium*
+
+*with a Preface of Matthias Flacius Illyricus, in which both the plan and the use of this work are set forth*
 
 — ❦ —
 
 Matthias Flacius Illyricus
 
-with the collaboration of Marcus Wagner
+— ❦ —
+
+*3 Reg. 19 · Rom. 11*
+
+**"I have kept for myself seven thousand men who have not bowed the knee to the image of Baal."**
 
 — ❦ —
 
+*Basileae, per Ioannem Oporinum*
+
 Basel · in the printing house of Johannes Oporinus
 
-Anno M.D.LVI — 1556
+M · D · LVI
 
 — ❦ —
 
@@ -133,7 +141,148 @@ At this working-translation state, the scaffolding is complete: the text base is
 
 # Paratexts
 
-*To be populated from the 1556 Basel imprint — title page, dedication (if present), and* Praefatio ad lectorem *by Flacius. See* `notes.md` *for the source-sighting checklist.*
+## From the Title Page
+
+*Verbatim from `avl0001.jpg` of the 1556 Basel imprint.*
+
+> Catalogus testi- / VM VERITATIS, QVI / ante nostram aetatem recla- / marunt Papae.
+>
+> *Opus uaria rerum, hoc praesertim tempore / scitu dignissimarum, cognitione refertum, / ac lectu cum primis utile atq[ue] / necessarium.*
+>
+> Cum Praefatione MATHIAE FLA- / CII Illyrici, qua Operis huius & / ratio & usus exponitur.
+>
+> **3.Reg.19. Rom.11.**
+> Reliqua mihi ipsi feci septem millia uirorum, qui / non incuruarunt genu imagi- / ni Baal.
+>
+> **BASILEAE, PER IOAN- / nem Oporinum.**
+
+*In English:*
+
+**A Catalogue of Witnesses to the Truth, who before our age spoke against the Pope.**
+
+A work stocked with the knowledge of many things — chiefly, at this time, most worthy of being known, and above all useful and necessary to read.
+
+*With a Preface of Matthias Flacius Illyricus, in which both the plan and the use of this work are set forth.*
+
+*3 Kings 19 · Romans 11.*¹
+
+**"I have kept for myself seven thousand men who have not bowed the knee to the image of Baal."**
+
+*Basel · in the printing house of Johannes Oporinus.*²
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## The Epistola Nuncupatoria
+
+### *Dedicatory Epistle to the Ernestine Dukes of Saxony*
+
+### **Salutation**
+
+*Verbatim:*
+
+> ILLUSTRISS. ET PIEN- / TISS. PRINCIPIBUS, D. D. IO- / HANNI FRIDERICO maiori, IOHANNI / VVILHELMO, & IOHANNI FRIDE- / RICO minori, Fratribus, Saxoniae Du- / cibus, &c. suis Dominis cle- / mentissimis.
+
+**To the most Illustrious and most Godly Princes, the Lords JOHN FREDERICK the Elder, JOHN WILLIAM, and JOHN FREDERICK the Younger, Brothers, Dukes of Saxony, &c., his most Clement Lords.**³
+
+### **Opening**
+
+Most illustrious and most godly Princes,
+
+Paul, that chosen instrument of Christ,⁴ writing to console his Philippians, says: *Vobis datum a Deo est, non tantum credere in Christum, sed & pati pro eo* — "To you it has been granted by God, not only to believe in Christ, but also to suffer for him."⁵ It is a great commendation this, and at the same time an outstanding consolation — one than which no greater can be set before a devout and Christian mind. For God has granted them the true knowledge of himself, and constancy in suffering.
+
+However much wretched little men may applaud themselves, puff themselves up, be arrogant, and haughtily despise all others because they excel in some little science of their own, daily experience and the times themselves teach — and more than sufficiently teach — that all sciences of the world are as nothing. But to have rightly known God's Son, and through him the Father — this is the true and singular gift and benefit of the merciful God.⁶ And so much the more must the whole of human learning be reckoned, in comparison, as of no worth: it is a matter greater and more advantageous than any other, in the certainty of its promise and its return.
+
+Exceptional therefore, and altogether inexpressible, is the consolation to a Christian man, to see this great and true gift of the Son's knowledge mercifully conceded and given him by the heavenly Father. And if to this it is added that he also confesses the Christ he acknowledges, alacritously, and stands constant for him — then indeed God's gifts are heaped up, and nothing better can befall a mortal man on this earth.⁷
+
+For this is what the blessed Paul says: that we are made conformable to the Son of God; and if in this life we suffer together with him, at his appointed time we shall together and gloriously reign.⁸
+
+Great therefore, as I have said, most godly Princes, is this praise and consolation — which for you, and for all the pious pressed under the cross of Christ, may deservedly be set out in every grief and disturbance and ought to be relied upon. For such indeed it is that, rightly and devoutly considered, it can bring an abolition of all pains and griefs, and truly exhilarate us.
+
+And to this chief consolation another is joined as its handmaid: that in proportion as such men, who have sincerely acknowledged Christ and openly confessed him, have on that account suffered manifold reproaches from an adversary whose name is *calumniator* — namely, from the Devil himself and his ministers⁹ — accused and reviled: nonetheless, in the intellect and the excellent testimony of their conscience and of all good men, they have a clear witness of their faithfulness.
+
+Often indeed has this word of Psalm 94 not lightly consoled me, and confirmed me: *Adhuc ad iustitiam revertetur iudicium* — "Judgement shall yet return unto righteousness, and after it all the upright in heart shall follow."¹⁰ An excellent experiment of this thing we have in your ancestors — in your father, your grandfather, and his brother, most illustrious Electors of Saxony:¹¹ who, though variously for the truth's sake were harried, disfigured, and afflicted with the curses, calumnies, and finally the gravest injuries of very many of the worst of men, yet in the end, the truth being victor, they were adorned and honoured — and are still adorned — by the favour, the testimony, and the praises of all good men. Into their praises, then, and into the favours of all the pious, most godly Princes, you succeed, along with the ardent zeal and confession of the cross itself, by a certain hereditary right.
+
+These things I wished briefly to say by way of preface, to give my judgement that these and other similar pious admonitions and consolations are necessary to us, especially since our present times have been sad, and greater evils appear to have their beginnings in these.
+
+Now let me tell you the chief reason I have wished to trouble Your Highnesses. In my zeal to demonstrate that there have always been seven thousand of the pious, who did not bow their knees to the Roman Baal, I have collected a modest catalogue of those who — before Doctor Martin, of pious memory¹² — either rebuked the whole Papacy, or some of its errors, or who sharply attacked the moral filth of the papist clergy and their neglect of the pastoral office. This writing I have wished to dedicate to Your Highnesses for many reasons, which I now willingly pass over in silence; and rather I shall lay out my thoughts on the whole matter, if perchance in some small way, from my modest condition, I may offer something useful and pious.
+
+*[Editorial note. The following six folio pages of the Epistola Nuncupatoria — `avl0008.jpg` through `avl0013.jpg`, covering approximately signatures α4–α6 — carry Flacius's fuller argument on the pastoral duty of Christian princes toward the Church of the True Doctrine, the debt owed to the Ernestine house for their preservation of the Reformation cause through the Interim,¹³ and his own credentials as a compiler standing in the tradition of the Elijah-remnant. They are staged for **Tranche 1b** of this working translation. What follows is the epistle's closing.]*
+
+### **Closing and Subscription**
+
+...God, who has hitherto — by his singular mercy — protected the doctrine and its professors against so many varied furies of the world, of Satan, and of Antichrist,¹⁴ shall doubtless do so henceforth also. And this all the more so, in that now is that blessed time, of the greatest and most manifest revelation of Antichrist — that revelation which has been so often promised in the Sacred Letters.¹⁵ And so, relying on this consolation and on this hope, that you all the more alacritously, standing in the footsteps of your most illustrious ancestors, may with all your strength cherish and promote letters, true religion, and every righteousness, holiness, and honesty.
+
+These things I wished now to write to Your Highnesses. From my heart I pray God the Father of our Lord Jesus Christ, that he preserve and rule you, and lead you into all truth, and into the way that pleases him. Amen.
+
+Your Highnesses' most devoted,
+
+**Matthias Flacius Illyricus.**¹⁶
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## The Praefatio
+
+### **Matthias Flacius Illyricus to the Christian Reader, eternal Salvation in the Lord.**
+
+That holy Elijah,¹⁷ in the time of Ahab, King of Israel, was doubtless shaken with immense grief and even temptation, when — the true worship of God being oppressed and extinguished, and the pious cultivators of the true religion either driven out, or dragged into apostasy, or nearly all conspiring in the wickedness of the many — the idolatric fury throughout the whole realm was in vigour, with the greatest applause and favour of the King, the Queen, and the nobles. Contrary indeed, without doubt, the seducers and their followers were not only glad, but even confirmed in their errors as if in constancy and rightness: so much the more, since they persuaded themselves that they had almost all classes of society, and in particular the powerful, in their idolatries by consent and enthusiasm. Wherefore Elijah, that most eminent man in every virtue and most full of the Holy Spirit — nevertheless, with so great and (so to speak) so conspiratorial a consensus of idolatry, he was so far cast down in mind and so prostrate, that he begged from God the death of a prophet: as much because he could not bear so foul and execrable a state of things: as because he was compelled, together with others, in so great temptation and error to be abducted.¹⁸ But that God consoled him, and that he wanted to live still, is confirmed above all by this argument, that he indicated that many things still rightly and (though he himself was ignorant of it) many thousands, who had not fallen into idolatry, were preserved.
+
+There was doubtless in that most sorrowful state of things much affliction — the same "sifting" which Christ himself calls it¹⁹ — such as often happens in the Church of God: but not so much for the temptation and consolation of Elijah alone was this once written, as for the perpetual consolation of the Church of God. And with this consolation, we too — who now sorrowfully press through in this time — need not only in Elijah's little history, but by God's own testimony and act — to seek and to plead, not only from the little narrative of Elijah, but also from the very experience of things, and from the history of all times.
+
+For the Papists, distrusting the shield and testimony of the Sacred Letters,²⁰ mutter this sophistical trick against us:
+
+> *"The true Church and religion are perpetual; false churches and false religions, however, are afterward variously changed and transformed. Now from all writers and histories it is established that our Church and religion — that which depends on the Roman pontiff — is very ancient, and indeed has its origin from the times of Christ and the Apostles themselves, propagated as by an unbroken succession. Yours, however, is new — sprung up and instituted only 30 years ago by Luther. Therefore our Church and religion — that is, the Roman — and not yours, is the true and genuine one."*²¹
+
+And this sophism is very plausible, and admits of vast amplifications, when they cry out and importunately demand of us: are we then wiser than the holy and prudent doctors, and than the whole world besides? — nor should we alone dare to condemn all of them.
+
+Nor do the adversaries thus only sophistically dispute in their writings — but Satan himself not seldom hurls such ignited fiery darts²² into the consciences of the pious. This sophism is truly indissoluble and hard to destroy, quite easily, when the adversary's perpetuity of doctrine and Church, and our newness, are proved beyond question. But even if it be plausible, and be tossed about by the approval and assent of many hearers, it is nonetheless most treacherous. For it often happens either because Christ's Gospel is a truly hidden mystery, or because truth is for the most part pressed down heavily, few embrace it, and more follow lying: so that (as I have said) most religions display themselves in a mass to men's eyes and are pushed. Thus it is, I say, that for these and many similar reasons excited doctors of the true doctrine, and above all evangelists of Christ, are set against, their errors attacked, and — bringing forth to almost all men some new and previously unheard doctrine, and opposing the most-received old — they are shouted down by the applause of most hearers, and denounced under this name and condemned.
+
+So in the time of the Prophets, the idolators contended: that they should sacrifice in Bethel and elsewhere, where the most holy Fathers Abraham, Isaac, and Jacob had sacrificed, and not only in Jerusalem;²³ that they should contend against those same de Missos [chosen] men, in the plurality of sacrifices, the crowd of ceremonies and observations, and consist in the sincere piety of hearts, much less in the true knowledge of the Messiah. Novel likewise, and plainly blasphemous, it seemed to the whole people, when the prophet inveighed against them: that God would overthrow that people, that city, and that temple. Likewise, that God would repudiate the Jews, and would complete his intention with the Gentiles.
+
+Just so, in Christ's and the Apostles' time, the Pharisees claimed as their preceptor Moses, and the most ancient sanctions of the fathers and their observations; and — with this stubbornness — they trumpeted that this indeed was the true doctrine and religion of the salvation of their ancestors, and that piety consisted in the assiduity of sacrifices, in the zeal of ceremonies, and in a middling discipline, or in an honester manner of life: and by great consensus of many they affirmed the most ancient religion to be theirs. Against those who despised the traditions of the Fathers, and did not magnify ceremonies and sacrifices — but who contended that the whole of piety was to be constituted in the true knowledge and worship of the God of the heart, in the new and solid recognition of the Messiah — those they accused of great novelty, blasphemy, and impiety.
+
+But when Christ himself contended that he was more ancient than Moses (indeed, more ancient than Abraham himself), whether by his works or by merit, whether he was rightly known — they no longer contended by arguments so much as by furor and stones, and wished to suppress him.²⁴ So they thought themselves certain of their doctrine's antiquity, and of Christ's novelty.
+
+Wherefore just as then it was difficult, indeed almost impossible, for the prophets, Christ, and the Apostles, to remove from their doctrine the boasting of the true and ancient religion, so as to take from the doctors the stain of impious novelty — so too now with us. Truly there are two chief reasons, as I have already indicated: (1) that for the most part truth is pressed down and, as it were, hides itself; and (2) that few embrace it, and even fewer truly understand it. Ultimately, that Christ is not so conspicuous — indeed all men's eyes turn away — as, on the other hand, the totally-diverse turba of paupers turns itself, by triple crowns, by so many various hats, by so many precious ornaments, by so prodigious vestments, by discoloured cowls, by such shoutings and howlings, by such thundering of bells, and finally by such and so many pomps, triumphs and riches — such that it can hardly be recognised or perceived to be a religion at all, let alone a doctrine.²⁵
+
+Truly, we set against this plausible-seeming sophism, above all, the express Word of God, which testifies that these are the true assembly or Church of God, who hear his voice, embrace and cherish it, & who are hated, persecuted, and blasphemed for it. So he who is truest the way and the life, says: *Oues meae uocem meam audiunt* — "My sheep hear my voice" (John 10).²⁶ Likewise: *Mater mea & fratres mei sunt, qui sermonem Dei audiunt, ac faciunt illum* — "My mother and my brothers are those who hear the word of God, and do it" (Luke 8).²⁷ Likewise: *Si quis sermonem meum servaverit, veniemus cum patre ad eum, et mansionem apud eum faciemus* — "If any keep my word, we shall come with the Father to him, and shall make our dwelling with him" (John 14).²⁸ Likewise: *Dedit eis potestatem filios Dei fieri* — "He gave them the power to become sons of God" (John 1).²⁹ Likewise to the same, most-often repeated: *Qui crediderit, salvus erit; qui uero non crediderit, iam damnatus est.* — "Whoever shall believe shall be saved; whoever shall not believe is already condemned."³⁰ Which whole testimony of the sons of God's Faith, that infinity, cannot without dubiousness testify that they are, or become, God's chosen assembly, who hear his own Son; and contrary, that they are the rejected and damned rabble, who despise and persecute the voice of God's Son.
+
+Nothing is easier to prove than this: that we, at any rate, in our doctrine follow and embrace the very Word of God — but that the adversaries do the contrary, since in most articles and doctrines they despise God's Word, and calumniate it with a blasphemous mouth, calling it obscure, ambiguous, equivocal, occasioning any and all heresies and schisms.³¹ Perspicuously therefore, and necessarily, we conclude from this argument, that our doctrine and religion — since it follows the pressed and true assembly of God, and his religion; and contrary, that the adversaries, since they preach another Gospel, are *anathema maranatha*.³²
+
+Next we set against them experience itself, which testifies that there were always not few but many doctors and auditors who thought with us and not with our adversaries. I now pass over the Patriarchs, Prophets, Christ, and the Apostles — whose (as we said) doctrine we follow without any ambiguity. Certainly it is plainly manifest that the primitive Church, for the first two hundred years from the nativity of the Lord,³³ was quite conformed to us in religion, and in every diameter dissented from our adversaries. Afterwards, for about three hundred years thereafter, errors began to insinuate themselves paulatim, little by little, which are now openly rampant in the Papacy — the seeds of those things which are now sown in the Church; not one and the same have they been eaten, but for so pernicious a fashion of things has it grown, up to about the 600th year of the Lord, that not so much our religion as the Papist's has agreed with itself, and taken its form. And he who reads the writers or Fathers of those ages a little attentively — like Jerome, Augustine, Ambrose, Hilary, Chrysostom, and so forth — will easily perceive that their opinion in most articles agrees with our doctrine: even if some of these Fathers, out of some incaution declaring what they perhaps otherwise think — as it happens — slip up, which the adversaries wrest against the author's mind against us and to their own advantage.³⁴
+
+Nor for that reason do we so retain our doctrine of the consent of the Fathers, that we do not sometimes also seriously — as this present catalogue shows³⁵ — sharply criticise and condemn those very seeds of errors in them. After the 600th year of the Lord, with the Pontifical reign increasing and thereafter becoming worse, so that with the growth of errors and abuses, day by day, the primitive sincerity of integrity was less and less: yet even so, God did not thereby reject his own people, as Paul says;³⁶ but always preserved for himself seven thousand, and even more thousands of the pious, who — springing up either in the growths or in the outbreaks of their errors — resisted and contradicted, not only in word alone but even in their very blood and by their martyrdom.
+
+And lest I appear to feign this rashly, without any authority — the following little book, as you see, plainly recites for you from authentic authors, and sets before your eyes exemplars: which whether I repeat here, would be too many-worded and would produce nothing, save perhaps by some to be perceived as evil.
+
+For that we may approach more nearly to our purpose, on that very account in this present writing I have — as far as could be done — collected all those who in any way, before Luther, gave testimony to the truth of Christ against the errors and furies of Antichrist, and who contradicted the adversaries' errors, their neglect of office, and the utterly-corrupted life: that by very fact and experience I might show that there were always many thousands of the pious, who either abhorred all, or most, of the errors of the Roman Baal, contradicted them, and groaned ardently to the Lord for liberation from so great a captivity.³⁷
+
+And though I number no few witnesses of this truer opinion, and describe their testimonies: nonetheless it is not difficult to conjecture that where one doctor thought more rightly, there also very many hearers existed — whose names and confessions have not been committed to letters.
+
+It is likewise easy to conjecture that, besides these doctors and witnesses of the truth, there were also very many others, who either through fear did not dare to write, or to entrust matters to written monuments, on account of the greatest perils: or, even if they wrote something, that itself perished — by the injury of truth or of the times, or by the fraud and tyranny of the adversaries: just as in many still-extant little books one reads, that the adversaries laboured with the utmost zeal to abolish entirely all writings composed against their errors, their tyranny, and the impurity of life.³⁸
+
+From these very historical testimonies, then, it can abundantly be proved that there were always not a few thousand of the pious, thinking more rightly than the common herd, condemning either the whole Papacy, or some parts of it, along with us: since even the ravenous antiquity of things has consumed much; and Antichrist with his lackeys has with the utmost zeal oppressed such things; and finally, one Doctor usually has many disciples and hearers. Therefore the sophism of the Papists is most false, by which they violently attempt to fasten some hateful mark of newness upon us and our religion, and the honour of antiquity upon themselves: since the primitive Church for nearly 300 years from Christ, thinking with us throughout, was utterly alien from the errors, abuses, and tyranny of the Papacy.
+
+And in the Church which followed, when the seeds of these abominations were beginning to sprout, most of the chief doctors likewise resisted; and finally, with the Roman Antichrist now reigning and flourishing with his desolation-abominations,³⁹ still always some — and no few — doctors and hearers throughout nearly every land, not only refused to bow their knees to them, but even seriously and constantly with voice, with writings, and finally with their blood and with their martyrdom fought against them: and desired with all their heart, and groaned from the innermost of their bowels, that they themselves and the whole Church of God be delivered from them.
+
+These things now, briefly, I wished to say by way of preface to the present Work; and at the same time to beg all lovers of piety that they take this our endeavour in good part, and both by their prayers and by seeking-out and pointing-out of similar little Histories, promote it further. For very many will everywhere arise, if only one now shakes out the old Libraries, or questions the elders, whether ever they have heard, before these times, that there were any who criticised any errors and abuses of the Papacy.⁴⁰
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## The Index rerum et personarum
+
+*The 1556 imprint opens, immediately after the Praefatio, with an* Index scriptorum, qui et ante nostra tempora Papae reclamarunt, & quorum testimonia hoc in libro adducuntur *— an alphabetical index of the writers (individuals, groups, councils, texts) who before our own times spoke against the Pope, and whose testimonies are cited in this book. In the source it runs from* `avl0025.jpg` *through* `avl0032.jpg`, *set in two columns per folio page.*
+
+*A representative first column-run of names from the source (a-entries only): Abbas Graecus (966); Abbas Ioachim Calaber (664); Abbas Ursbergensis (858); Aeneas Sylvius (955); Aetates ecclesiae (762); Agapiti (36); Agendae antiquae (237, 113); Alachi Logobard. regulus (—); Albertus Roxiatus (—); Alboinus (662); D. Ambrosius (78); Ancyranum concilium (—); Andreas Carniae archiepiscopus (1053); Andreas Proles Augustinianorum provincialis (1030); Anglica ecclesia (—); Antonius haeremita (37); Antonius Macinellus (1016); Antonius Rosellus (975), in Apocalypsim comment. (928); Apollonius (—); Apostolorum canones (11); Aquilegiensis ecclesia (—); Archiepiscopi Constantinopolitani (—); Arnoldus Brixiensis, episcopus (645); Arnoldus de nova villa (799).*
+
+*In the Scholastic Lutherans English volume, the Index is rebuilt from the master* `terms.yaml` *POLEMICS entries and from the proper-name gazetteer accreted through Tranches 2–6, and is placed at the volume's end rather than at its front — for reader convenience and consistency with the Praetorius trilogy's back-matter discipline. The Index proper is deferred to **Tranche 7**; only its 1556 source-location and rubric are recorded here.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -149,7 +298,89 @@ At this working-translation state, the scaffolding is complete: the text base is
 
 # Notes
 
-*Endnotes will accrue with the body prose, numbered sequentially across the volume, grouped by tranche and by witness. None yet.*
+*Numbered sequentially across the volume; new endnotes accrue with each tranche.*
+
+## From the Paratexts
+
+**¹** The title-page epigraph combines two references. **3 Reg 19** is Vulgate numbering (= 1 Kings 19); the words *Reliqua mihi ipsi feci septem millia uirorum, qui non incuruarunt genu imagini Baal* render, with slight compression, 1 Kings 19:18 (LXX 3 Kgdms 19:18): *Reliquamque mihi in Israël septem millia virorum, quorum genua non sunt incurvata ante Baal* (Vulgate). **Rom 11** references Paul's own citation of the same verse at Rom 11:4: *"reliqui mihi septem millia virorum qui non curvaverunt genua ante Baal."* The pairing is programmatic: Flacius reads his own catalogue as the Elijah-remnant of the pre-Reformation Church, and reads Paul's Rom 11 use of Elijah as the apostolic warrant for the whole enterprise.
+
+**²** The title-page imprint gives no printed year. **1556** is fixed from the volume's colophon (not sighted in Tranche 1a; standard bibliographic reference: VD16 F 1400; WorldCat OCLC 867400599) and confirmed across all major registers.
+
+**³** The three dedicatees are the sons of the deposed Elector **John Frederick I "the Magnanimous"** (1503–1554) of Ernestine Saxony: (a) **John Frederick II "the Middler"** (1529–1595), the eldest; (b) **John William** (1530–1573), the second, later Duke of Weimar; (c) **John Frederick III "the Younger"** (1538–1565), the third. The Ernestine line had lost the Electoral dignity to the Albertine line (Maurice of Saxony) at Mühlberg in 1547. These three brothers were the political sponsors of the Ernestine theological line of which Flacius was the leading polemicist; two years after this book's publication, they founded the **University of Jena** (1558) as the Ernestine successor to Wittenberg lost to the Albertines. The salutation formula *D[ominis] D[ominis]* is standard 16th-c. courtly Latin doubling.
+
+**⁴** *Selectum Christi organon* — a Latinate rendering of Acts 9:15 (σκεῦος ἐκλογῆς), "a chosen instrument."
+
+**⁵** Philippians 1:29 — Vulgate: *quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini*. Flacius freely reforms the syntax.
+
+**⁶** The pattern of argument echoes Melanchthon *Loci* on the *notitia Dei* — the true knowledge of God as a specific divine gift, exceeding all natural science. Cf. CR 21:601 ff.
+
+**⁷** Cf. Rom 8:29 ff. — the conformitas to Christ theme, developed as the theological ground for consolation under persecution.
+
+**⁸** Rom 8:17 — *si tamen compatimur, ut et conglorificemur*. Flacius's "suo tempore conregnabimus" adopts the eschatological future.
+
+**⁹** *Diabolus ipse, eiusque ministri* — *diabolus* etymologically = *calumniator* (Greek διάβολος, "slanderer"). The theological word-play is deliberate.
+
+**¹⁰** Psalm 94:15 (Vulgate 93:15): *quoadusque iustitia convertatur in iudicium: et qui juxta illam omnes qui recto sunt corde*. Flacius quotes the sentence in his own compressed form.
+
+**¹¹** *Pater et avus vester, cum fratre* — the "father" is **John Frederick I the Magnanimous** (†1554), the "grandfather" is **John the Steadfast** (1468–1532, Elector from 1525, who signed the Augsburg Confession), and *cum fratre* refers to Frederick the Wise's brother — namely John the Steadfast's brother **Frederick III "the Wise"** (1463–1525, Luther's protector at Wartburg). The chain runs three generations of Ernestine Electors who bore the Reformation cause.
+
+**¹²** *Doctor Martinus, piae memoriae* — Martin Luther (1483–1546), by the time of the 1556 imprint ten years dead. The formula *piae memoriae* (of blessed memory) is the standard humanist honorific for a recently-deceased authoritative teacher.
+
+**¹³** The **Augsburg Interim** (1548) and its Ernestine counter-response through the Magdeburg Confession (1550) constitute the historical backdrop the epistle assumes but names elsewhere. Flacius was based in Magdeburg through much of the Interim controversy.
+
+**¹⁴** Cf. Smalcald Articles II.iv (*De Papatu*, Kolb-Wengert 307–310); Flacius's identification of the Papacy with the Antichrist follows the Lutheran-confessional consensus after the 1537 Smalcald meeting.
+
+**¹⁵** 2 Thess 2:3–10; 1 Jn 2:18, 4:3; Rev 13, 17. The apocalyptic reading of the papal office as the *homo peccati* was systematised in the Wittenberg exegesis of Luther and Melanchthon.
+
+**¹⁶** The 1556 imprint carries **no date or place** at the subscription of the dedication. This is unusual for a 16th-c. dedicatory epistle; the omission is silently preserved here. Flacius was based in Magdeburg (through Interim, ended 1552) and then in Jena from 1557 onward; the composition-date of the epistle is therefore probably 1554–56 in Magdeburg, but the point is not fixed by the source-face.
+
+**¹⁷** 1 Kings 19 — Elijah's flight to Horeb after Jezebel's death-threat. Flacius takes the *sanctus Helias* as the archetype of the pious remnant who thinks the true religion is entirely lost, until God reveals the hidden 7,000. The whole Praefatio unfolds on this typological ground.
+
+**¹⁸** 1 Kings 19:4 — *Sufficit mihi, Domine, tolle animam meam; neque enim melior sum quam patres mei* ("It is enough for me, Lord, take my soul; for I am not better than my fathers").
+
+**¹⁹** *Cribratio* — the sifting: Luke 22:31, *Simon, Simon, ecce Satanas expetivit vos, ut cribraret sicut triticum*.
+
+**²⁰** *Sacrarum literarum scutum et testimonium* — the shield-and-testimony of the Sacred Letters. The military metaphor is Pauline (Eph 6:16). *Diffisi* — "having distrusted."
+
+**²¹** This is the argument-from-continuity, the standard Roman polemical response to the Reformation from the 1520s onward: articulated by Johannes Cochlaeus and Johann Eck against Luther, and taking systematic form in Bellarmine's *De Notis Ecclesiae* a generation later. Flacius's *Catalogus* is the systematic Lutheran refutation of it: not by denying continuity as a mark of the true Church, but by claiming the continuity for the Reformation.
+
+**²²** Eph 6:16 — *sagittae ignitae* / *τὰ βέλη τοῦ πονηροῦ τὰ πεπυρωμένα* (the fiery darts of the evil one). The Pauline armour-imagery is applied to the internal spiritual crisis under polemical pressure.
+
+**²³** 1 Kings 12:26–33 — Jeroboam's setting-up of the calf-shrines at Bethel and Dan; the biblical name of the Northern-kingdom idolatry-crisis. Flacius reads Jeroboam's appeal to patriarchal precedent (Abraham/Isaac/Jacob's sacrifices at non-Jerusalem sites) as the OT type of Roman appeal to Fathers against the Reformation.
+
+**²⁴** John 8:56–59 — Jesus's *Antequam Abraham fieret, ego sum* ("Before Abraham was, I am"), followed immediately by *Tulerunt lapides Iudaei ut iacerent in eum*. The Christological antiquity-claim against Pharisaic tradition-claim.
+
+**²⁵** The imagery — *triplicatis coronis, galeris, ornatibus, cucullis, boatuum, campanarum, pompis* — evokes the visible-splendour polemic that runs through Luther's *An den Christlichen Adel* (1520; WA 6:404 ff.) and Melanchthon's *De ecclesia* in the *Loci*. The "triple crown" is the papal tiara; the "cowls" are the mendicant orders' habits.
+
+**²⁶** John 10:27 — *Oves meae vocem meam audiunt* (Vulgate). The Reformation's ecclesiological ground-verse for the *audita ecclesia*.
+
+**²⁷** Luke 8:21 — *Mater mea et fratres mei hi sunt, qui verbum Dei audiunt, et faciunt* (Vulgate).
+
+**²⁸** John 14:23 — *Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus* (Vulgate).
+
+**²⁹** John 1:12 — *Dedit eis potestatem filios Dei fieri, his qui credunt in nomine eius* (Vulgate).
+
+**³⁰** Mark 16:16 — *Qui crediderit et baptizatus fuerit, salvus erit; qui vero non crediderit, condemnabitur* (Vulgate). Flacius compresses the two clauses.
+
+**³¹** Compare Council of Trent, Session IV (*De canonicis scripturis*, April 1546), which had — a decade before Flacius wrote — codified as Roman doctrine that unwritten Traditions must be received *pari pietatis affectu ac reverentia* as Scripture (DH 1501). Flacius is here answering Trent as much as answering older sophisms.
+
+**³²** *Anathema maranatha* — 1 Corinthians 16:22, the Pauline curse-formula.
+
+**³³** Flacius's chronological schema — c. 200 years of primitive purity, c. 300 more of gradual corruption, c. 600 as the terminus at which the Papacy has settled into recognisable form — is the same schema he elaborates through his direction of the **Magdeburg Centuries** (*Historia Ecclesiastica*, 13 vols, Basel 1559–74), the first modern century-by-century Church history from a confessional standpoint. The *Catalogus* is one of the intellectual foundations from which the Centuries proceed.
+
+**³⁴** The Fathers whose critical use Flacius here signals — **Jerome** († 420, PL 22–30), **Augustine** († 430, PL 32–47), **Ambrose** († 397, PL 14–17), **Hilary of Poitiers** († c. 367, PL 9–10), **John Chrysostom** († 407, PG 47–64) — recur throughout the *Catalogus* body as major sources, each with a substantial run of entries.
+
+**³⁵** *ut hoc meo Catalogo subinde ostendo* — Flacius's own cross-reference from the Praefatio to the body of the volume.
+
+**³⁶** Rom 11:1–5 — Paul's *non repulit Deus plebem suam*, culminating in the Elijah-remnant citation at 11:4. Paul's argument is here Flacius's argument.
+
+**³⁷** *Romani Baalis* — the Roman Baal. The metonymic identification of the Papacy with Baal draws directly on the title-page epigraph, and closes the Praefatio's typological arc: as Elijah's 7,000 stood apart from Baal, so the *Catalogus*'s 443 witnesses stand apart from Rome.
+
+**³⁸** Flacius's charge of adversarial book-suppression is not idle. The Council of Trent (April 1546, same session) had provided for the *Index librorum prohibitorum*, formally promulgated in 1559 (three years after this Catalogus was printed); Lateran V's *Inter Sollicitudines* (1515) had already required pre-publication ecclesiastical review. Flacius will document such suppressions in the *Catalogus* body at multiple entries.
+
+**³⁹** *Desolationum abominationibus* — the plural intensification of the Dan 9:27 / Matt 24:15 phrase (τὸ βδέλυγμα τῆς ἐρημώσεως / *abominatio desolationis*).
+
+**⁴⁰** The Praefatio closes with an explicit crowd-source appeal: Flacius asks correspondents to submit further witnesses from local archives and elderly informants. This appeal is what produced the enlarged 1562 and (via Simon Goulart) the 1597 editions — the mechanism of expansion is set here at the outset. The Scholastic Lutherans translation faithfully renders the appeal but does not itself act on it: our translation-object is fixed at the 1556 *editio princeps*.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

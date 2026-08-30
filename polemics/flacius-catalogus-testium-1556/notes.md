@@ -2,7 +2,7 @@
 
 Scholastic Lutherans working file. This is the operational scratchpad for the translation; the reader-facing Translator's Note lives at `review/flacius-catalogus-testium-1556.md`.
 
-**Session log:** kick-off scaffold 2026-08-30 (commit `9c1eb56`) · source sighting 2026-08-30 (this file's current revision).
+**Session log:** kick-off scaffold 2026-08-30 (commit `9c1eb56`) · source sighting 2026-08-30 (commit `caa5c62`) · Tranche 1a paratexts translated 2026-08-30 (this file's current revision).
 
 ## The source, in one sentence
 
@@ -132,16 +132,28 @@ Page-boundaries are approximate. Sight the exact chronological turn-points from 
 - **`shared/reference-custom.docx`** and **`shared/build.ps1`** — DO NOT modify from this chat. Locked at repo-init state.
 - **`shared/editions.md`** — modern-critical-edition registry only. Flacius's *editio princeps* is a *primary* source and is documented here and in the TN, not in `editions.md`.
 
-## Immediate next actions (Tranche 1 session)
+## Tranche 1a — done 2026-08-30
 
-1. OCR the 32 paratext JPGs already in `sources-original/camena-1556/` (Tesseract `-l lat`, or alternative). Save each as `avl####.txt` alongside the JPG.
-2. Verify paragraph-by-paragraph against the image, correcting the standard Antiqua OCR errors.
-3. Transcribe the exact title-page text-face → replace the placeholder title-page in `review/*.md`.
-4. Read the Epistola Nuncupatoria salutation on `avl0003.jpg` → confirm dedicatee, date, place. Translate. Insert into `# Paratexts` section of `review/*.md`.
-5. Translate the Praefatio (`avl0016`–`avl0024`). Insert.
-6. Translate the Index header/rubric only (the entries proper are rebuilt from the master `terms.yaml` + proper-name gazetteer at Tranche 7).
-7. Mid-checkpoint DOCX + PDF build (build #1 of 2). Commit.
-8. Add `sources-original/**/*.jpg` (and `*.pdf`, `*.txt` if wanted) to `.gitignore` before Tranche 2 body-image pulls begin — do not accrete binaries into the versioned repo.
+Achieved without Tesseract by reading the CAMENA JPGs directly with Claude's vision (Read tool on the local JPG). This route is **markedly cleaner** for 16th-c. Antiqua than a Tesseract pass would be — no long-*s* / *v-u* / *i-j* / macron corruption, ligatures preserved, ornamental initials handled sensibly. Tesseract is not needed for CAMENA paratexts, and probably not for the body either.
+
+- **Title page** (`avl0001.jpg`) — transcribed verbatim into `review/*.md`. Confirmed: no printed year on title-face (year 1556 sourced from colophon per bibliographic registers); scripture epigraph = 3 Reg 19 (= 1 Kings 19:18) paired with Rom 11:4 (the 7,000 who did not bow to Baal); "Cum Praefatione Mathiae Flacii Illyrici" line preserved.
+- **Provenance stamps** noted on `avl0001` and `avl0002`: MS "Coll. Soc. Iesu Molshem" (Jesuit College of Molsheim, Alsace) + purple stamps "Grossherzogliche Gymnasiums-Bibliothek" and "BIBLIOTHEK DESBILLONS MANNHEIM" (Bibliothek Desbillons of the Bibliotheca Palatina, Mannheim — CAMENA's own provenance). The Molsheim ownership is a nice historical irony: an anti-papal Flacius in a Jesuit college library.
+- **Epistola Nuncupatoria** (`avl0003`–`avl0015`, 13 pp) — dedicatee **CONFIRMED as the three Ernestine Dukes of Saxony**: John Frederick II "the Middler" (†1595), John William (†1573), John Frederick III "the Younger" (†1565), the sons of the deposed Elector John Frederick I "the Magnanimous" (†1554). No date or place at the subscription — unusual for a 16th-c. dedication; noted as such in endnote 16. Opening 5 pp (`avl0003`–`avl0007`) + closing 2 pp (`avl0014`–`avl0015`) translated in full; middle 6 pp (`avl0008`–`avl0013`) explicitly gap-marked and deferred to **Tranche 1b**.
+- **Praefatio** (`avl0016`–`avl0024`, 9 pp) — **translated in full**. Theological arc identified: Elijah typology (avl0016) → the "sifting" for perpetual consolation (avl0017) → the Roman continuity-sophism stated verbatim (avl0017) → OT and NT parallels of the "novelty" charge (avl0018–0019) → the auditory definition of the true Church via John/Luke catena (avl0020) → the doctrinal reply against Rome's word-despite (avl0021) → the historical schema (200 pure / 300 gradually corrupting / 600 as terminus at which papal system settles) with critical use of the great Fathers (avl0022) → programmatic thesis (avl0023) → closing crowd-source appeal to correspondents to submit further witnesses from local archives (avl0024). The crowd-source mechanism is the ancestor of the 1562 / 1597 enlargements.
+- **Index rerum et personarum** (`avl0025`–`avl0032`, 8 pp) — structure sighted (alphabetical, two columns per folio, source-witness page-numbers keyed to body pagination). A representative first-column run of A-entries transcribed into the review file; index proper is a Tranche 7 build-out from the accreted master glossary and proper-name gazetteer.
+- **Endnotes** — 40 endnote entries added to the `# Notes` section covering: scripture citations (Vulgate + English, with Rom 11's use of 1 Kings 19), the three dedicatees identified (with the University of Jena 1558 sequel), all patristic references keyed to PL/PG, Luther's title *Doctor Martinus piae memoriae*, the Interim horizon, the Trent parallels (Session IV on Scripture-and-Tradition; the Index Librorum Prohibitorum), the Smalcald Articles' identification of the Papacy with Antichrist, the Magdeburg Centuries connection.
+- **Glossary** — 8 new lemmas added to `shared/terms.yaml` under the Flacius POLEMICS section (`romani_baalis`, `septem_millia`, `sanctus_helias`, `cribratio`, `anathema_maranatha`, `desolationum_abominationes`, `interim`, `piae_memoriae`). Original 10 seed lemmas' `first_use` fields updated against sighted attestations; `universalis_episcopus` moved to "body — Gregory the Great entry (Tranche 2)" since it does not occur in the paratexts.
+
+## Tranche 1b — outstanding
+
+1. Read `avl0008.jpg` through `avl0013.jpg` (six pages, dedication middle). Translate. Splice into the `## The Epistola Nuncupatoria` section of `review/*.md`, replacing the current `[Editorial note. The following six folio pages…]` gap-marker.
+2. Sight the volume colophon (last body page, at or near `vl1094`) → confirm the printed year *1556* and the exact colophon-face wording; update endnote 2 accordingly.
+3. Read the full Index `avl0025.jpg`–`avl0032.jpg`. Extract the full alphabetical roster of witnesses with their source-page-numbers. Save as `sources-original/camena-1556/index-transcript.md` (gitignored under `**/sources-original/`). This roster is the working spine for Tranche 2's chronological re-ordering.
+4. Mid-checkpoint DOCX + PDF build (build #1 of 2). Commit.
+
+## Immediate next actions (post-Tranche 1a session)
+
+**For the very next session** — either (a) Tranche 1b as above, or (b) begin Tranche 2 body work (ancient witnesses, `vl0001` onward, starting with St Peter and running through Gregory the Great). The Praefatio's theological framework is now in hand; Tranche 2 body work is unblocked. Choice depends on how much cleanup vs new work Cheri prefers per session.
 
 ## Related
 

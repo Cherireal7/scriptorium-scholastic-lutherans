@@ -2406,9 +2406,10 @@ regula_vitae_melanchthonis:
 
 # ─── POLEMICS — Flacius, Catalogus Testium Veritatis (1556) ─────────────
 #
-# KICK-OFF STATE. Only seed lemmas here — the vocabulary that is certain
-# to recur in any historical-polemical anti-papal catalogue of witnesses.
-# Real entries accrete tranche by tranche as the body prose is written.
+# Kick-off + Paratexts (Tranche 1a) complete. Entries below this heading
+# recur tranche by tranche; original ten seed entries retained, first_use
+# fixed against sighted paratexts, and eight new lemmas added from title
+# page + Epistola Nuncupatoria + Praefatio.
 
 reclamare:
   english: To cry out against, to protest against
@@ -2464,7 +2465,7 @@ primatus:
 universalis_episcopus:
   english: Universal Bishop
   type: polemical
-  first_use: "flacius-catalogus-testium-1556, praefatio"
+  first_use: "flacius-catalogus-testium-1556, body — Gregory the Great entry (Tranche 2)"
   note: >
     Title Gregory the Great famously refused (Ep. V.44 to John the
     Faster of Constantinople). Flacius's paradigm witness against
@@ -2512,9 +2513,99 @@ schisma:
     Flacian counter-polemic, the true schism is Rome's departure from
     the ancient Church. The word carries the whole argument.
 
+# ─── added from Tranche 1a paratexts ────────────────────────────────────
+
+romani_baalis:
+  english: Roman Baal
+  alt: ["Romanus Baal", "Baal Romanus"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — programmatic thesis at avl0007"
+  note: >
+    Flacius's metonymic identifier for the Papacy, drawing on the
+    title-page epigraph (1 Kings 19:18 / Rom 11:4 — the 7,000 who
+    did not bow to Baal). Recurs at the Praefatio close as the
+    constitutive figure of the whole book. Preserve untranslated
+    on first invocation; render "the Roman Baal" thereafter.
+  see_also: [septem_millia, sanctus_helias]
+
+septem_millia:
+  english: The seven thousand
+  alt: ["septem piorum millia"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, title-page epigraph"
+  note: >
+    The Elijah-remnant of 1 Kings 19:18, cited by Paul at Rom 11:4;
+    Flacius reads his own 443-name catalogue as the historical
+    embodiment of the remnant across the papal centuries. The
+    constitutive metaphor of the whole work.
+  see_also: [romani_baalis, sanctus_helias, testis_veritatis]
+
+sanctus_helias:
+  english: The holy Elijah
+  alt: ["sanctus Helias"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio — opening at avl0016"
+  note: >
+    The paradigmatic figure of the pious minority under a state-
+    sponsored idolatric regime (Ahab / Jezebel). Flacius's Praefatio
+    unfolds on the Elijah typology: the sanctus Helias thinking
+    true religion is lost, God revealing the hidden 7,000.
+  see_also: [septem_millia, romani_baalis]
+
+cribratio:
+  english: Sifting
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio at avl0017"
+  note: >
+    Luke 22:31 — Christ's word for Satanic tribulation-testing
+    (Simon, Satanas expetivit vos ut cribraret sicut triticum).
+    Flacius applies it to the state of the true Church under
+    papal ascendancy.
+
+anathema_maranatha:
+  english: Anathema maranatha
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio at avl0021"
+  note: >
+    1 Corinthians 16:22 — Paul's curse-formula. Flacius applies it
+    to "those who preach another gospel" (i.e., the papal system).
+    Preserve untranslated as a scriptural quotation.
+
+desolationum_abominationes:
+  english: Desolation-abominations
+  alt: ["abominatio desolationis"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio at avl0024"
+  note: >
+    Plural intensification of Dan 9:27 / Matt 24:15 (τὸ βδέλυγμα
+    τῆς ἐρημώσεως). Flacius applies it to the papal regime as
+    apocalyptic sign.
+
+interim:
+  english: The Interim
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — historical horizon at avl0014"
+  note: >
+    The Augsburg Interim of 1548, imposed after the Ernestine
+    defeat at Mühlberg (1547). The historical horizon the Epistola
+    Nuncupatoria assumes; Flacius's own theological career, based
+    in Magdeburg through the crisis, is defined by resistance
+    to it. Preserve the Latinism.
+
+piae_memoriae:
+  english: Of pious memory
+  alt: ["beatae memoriae"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria at avl0007 — of Luther, Doctor Martinus piae memoriae"
+  note: >
+    Standard humanist honorific for a recently-deceased authoritative
+    teacher. Preserve on the Latin phrase's first invocation; render
+    freely thereafter.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — KICK-OFF (10 seed entries; body-tranche entries to append
-# below this line as translation proceeds).
+# FLACIUS 1556 — TRANCHE 1a PARATEXTS (10 seed + 8 paratext-derived = 18
+# entries). Body-tranche entries to append below this line as translation
+# proceeds through Tranches 2–7.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
