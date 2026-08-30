@@ -6,6 +6,38 @@ date: "2026"
 lang: en
 ---
 
+<!-- HALF-TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# THE CATECHISM
+
+## OF DAVID CHYTRAEUS
+
+&nbsp;
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- FULL TITLE PAGE (recto) -->
+
+&nbsp;
+
 # THE CATECHISM
 
 ## OF
@@ -16,23 +48,95 @@ lang: en
 
 *Catechesis Davidis Chytraei*
 
-*Postremò nunc ab ipso Autore recognita, & multis in locis aucta*
+*Postremò nunc ab ipso Autore recognita,*
 
-*Now finally revised by the Author himself, and augmented in many places*
+*& multis in locis aucta*
 
-— ❦ —
+*Now finally revised by the Author himself,*
 
-Leipzig · in the printing house of Voegelin
-
-Anno M.D.XCIV — 1594
+*and augmented in many places*
 
 — ❦ —
 
-A translation by
+**Leipzig · in the printing house of Voegelin · Anno M.D.XCIV — 1594**
+
+&nbsp;
+
+&nbsp;
+
+A working English edition translated by
 
 **The Scholastic Lutherans**
 
-Working English edition · 2026
+*2026*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- COLOPHON / IMPRINT PAGE (verso) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Working translation from the Latin, prepared from the facsimile*
+
+*of the 1594 Leipzig edition (Internet Archive, item* `Chytraeus_Catechism`)
+
+*with supplementary material for Loci VII–X and the closing appendix*
+
+*drawn from Chytraeus's own 1588 Wittenberg edition — see*
+
+*Translator's Note § 5 for full source disclosure.*
+
+&nbsp;
+
+*Set in Palatino Linotype and rendered in the Hülsemann style established*
+
+*for the* Scholastic Lutherans *translation program.*
+
+&nbsp;
+
+**The Scholastic Lutherans translation team**
+
+*2026*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- DEDICATION (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*To all teachers and learners*
+
+*of the Christian catechism —*
+
+*and to those whom Chytraeus himself addressed*
+
+*as "the purest and best part of the human race,*
+
+*and the chief seed-plot and flower of the Church of God."*
+
+&nbsp;
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -40,11 +144,22 @@ Working English edition · 2026
 
 # Contents
 
+&nbsp;
+
+### *Front Matter*
+
 |  | Page |
 |:---|---:|
 | Translator's Note | i |
 | To the Pious and Candid Reader *(Chytraeus, 1575)* | 1 |
 | Dedicatory Epistle to Bernhard von Menzingen *(Rostock, 1568)* | 3 |
+
+&nbsp;
+
+### *Part One · Prolegomena*
+
+|  | Page |
+|:---|---:|
 | **Chapter 1 · Prolegomena: What the Catechism Is** | 11 |
 | &nbsp;&nbsp;&nbsp;§ 1. What Catechesis is | 11 |
 | &nbsp;&nbsp;&nbsp;§ 2. What Theology is | 11 |
@@ -57,6 +172,13 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;§ 9. Why the young must learn catechism above all | 19 |
 | &nbsp;&nbsp;&nbsp;§ 10. The word *catechesis* — its meaning and etymology | 21 |
 | &nbsp;&nbsp;&nbsp;§ 11. The uses of examination | 22 |
+
+&nbsp;
+
+### *Part Two · The Ten Loci of Christian Doctrine*
+
+|  | Page |
+|:---|---:|
 | **Locus I · Of the True Knowledge and Invocation of the One True God: Father, Son, and Holy Spirit** | 27 |
 | &nbsp;&nbsp;&nbsp;§ 1. What the Symbol of the Apostles is | 27 |
 | &nbsp;&nbsp;&nbsp;§ 2. What God is — the essence of God | 27 |
@@ -123,15 +245,38 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;§ 27. What Discipline is; why God demands it even of the non-regenerate; impediments to discipline | 96 |
 | &nbsp;&nbsp;&nbsp;§ 28. On the Promises and Threats attached to the Decalogue | 98 |
 | **Locus IV · Of Sin — which is known, accused, and condemned by the Law of God** | 105 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Sin defined, causes, kinds (original + actual + venial + mortal); sin against the Holy Spirit | 105 |
 | **Locus V · Of the Gospel, or the Promise of Remission of Sins for Christ's sake and Justification by Faith** | 111 |
+| &nbsp;&nbsp;&nbsp;§§ 1–9. Gospel defined; the *articulus discretionis* of Law and Gospel; New / Old Testament; Spirit vs. Letter; justifying faith; *sola fide* correlative; five causes; anti-papist doctrine; justification vs. regeneration vs. renovation | 111 |
 | **Locus VI · Of the New Obedience, or Good Works of the Regenerate** | 121 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition, good works, necessity, species, four differences from pagan virtue | 121 |
 | **Locus VII · Of Repentance and Absolution** | 127 |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Definition; three parts (contrition, faith, new obedience); eight causes; contrition of Judas vs. Peter; confession; absolution; keys of the kingdom; eight causes for private absolution | 127 |
 | **Locus VIII · Of the Sacraments — Baptism and the Lord's Supper** | 135 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Sacrament defined; two sacraments; Baptism + infant baptism; Lord's Supper (real presence); six papal abuses; sacrifice — propitiatory vs. eucharistic | 135 |
 | **Locus IX · Of the Church, and of the Cross and Consolations of the Church** | 143 |
+| &nbsp;&nbsp;&nbsp;§§ 1–9. Church visible / invisible; predestination; three marks; ministry; ordination; Kingdom of Christ vs. worldly kingdom; four causes of the Cross; ten final causes; twelve fountains of Consolation | 143 |
 | **Locus X · Of the Immortality of the Soul, the Resurrection of Bodies, the Last Judgement, and Eternal Life** | 155 |
-| Appendix · Brief Explication of the Lord's Prayer | 161 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Death defined; state of souls after death; resurrection; Last Judgement; eternal death; eternal life | 155 |
+
+&nbsp;
+
+### *Part Three · Appendix*
+
+|  | Page |
+|:---|---:|
+| Brief Explication of the Lord's Prayer | 161 |
+| &nbsp;&nbsp;&nbsp;The six loci; the seven petitions expounded; the doxology; *Regula Vitae* of Melanchthon | 161 |
+
+&nbsp;
+
+### *Back Matter*
+
+|  | Page |
+|:---|---:|
 | Notes | 167 |
 | Glossary of Terms | 181 |
+| Colophon | 201 |
 
 — ❦ —
 
@@ -278,6 +423,52 @@ The example of a pious and just man — of a prudent statesman, of a Hero adorne
 Fare well, well and happily.
 
 From the Academy of the *urbs Rosarum*,¹⁶ on the day after the Epiphany of the Son of God, at the beginning of the year 1568 — which is the year 5530 from the beginning of the world.¹⁷ May the Son of God, given to us, grant that this year be happy and prosperous for you and for your most noble mother and for the whole Church and Commonwealth: this from the whole of my heart I pray.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO before Part One -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- PART ONE TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# PART ONE
+
+## *Prolegomena*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"Est summa doctrinae Christianae certa methodo comprehensa."*
+
+*The Catechism is the sum of Christian doctrine*
+
+*comprised in a fixed method.*
+
+— *Chytraeus, Prolegomena § 1*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -498,6 +689,70 @@ Then, in the Church it is necessary that every man render a *Confessio suae fide
 These uses I have recited, since I see that adolescents, either by shame or by pride, flee examinations; whereas I would rouse in some good minds a love of examinations — as much in the other arts as above all in the Christian doctrine.
 
 *Now we shall expound briefly and perspicuously each of the loci of Christian doctrine, in the order in which they have been set out.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO before Part Two -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- PART TWO TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# PART TWO
+
+## *The Ten Loci of Christian Doctrine*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*I · De Deo*  ·  *II · De Homine*  ·  *III · De Lege Dei*
+
+*IV · De Peccato*  ·  *V · De Evangelio*  ·  *VI · De Nova Obedientia*
+
+*VII · De Poenitentia*  ·  *VIII · De Sacramentis*
+
+*IX · De Ecclesia*  ·  *X · De Immortalitate*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"To these two first heads — Decalogue and Symbol of the Faith —*
+
+*all the dogmas and histories contained in the sacred Scripture*
+
+*can be referred; but that the series and* summa *of the doctrine*
+
+*may be more easily surveyed and impressed on the mind, we shall*
+
+*set down TEN LOCI of Christian doctrine as the principal ones."*
+
+— *Chytraeus, Prolegomena § 3*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2702,6 +2957,56 @@ Life eternal shall be the *sight of God*, whereby the *Church, raised from death
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+<!-- BLANK VERSO before Part Three -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- PART THREE TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# PART THREE
+
+## *Appendix*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"The chief and highest worship of GOD,*
+
+*and the best and most excellent work of man,*
+
+*is the true knowledge and Invocation of God.*
+
+*For which God prescribes to us the best and most perfect*
+
+*FORM OF PRAYER through His Son our Lord Jesus Christ."*
+
+— *Chytraeus, Appendix*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Appendix
 
 ## *Brief Explication of the Lord's Prayer*
@@ -2860,6 +3165,56 @@ At the end are added the **impulsive and final causes** on account of which we e
 *And may He kindle our hearts with His fire.*
 
 **FINIS.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO before Back Matter -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BACK MATTER TITLE PAGE (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# BACK MATTER
+
+## *Notes · Glossary · Colophon*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*The Notes and Glossary that follow are supplied by*
+
+*the Scholastic Lutherans translation team.*
+
+*They contain no matter internal to the argument*
+
+*of Chytraeus's catechism, which is complete without them,*
+
+*but rehearse only the standard modern citations, biographical dates,*
+
+*scholarly cross-references, and technical glosses that support the reader.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO -->
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -3639,8 +3994,88 @@ At the end are added the **impulsive and final causes** on account of which we e
 
 **Regula Vitae (Melanchthonis)** — Rule of Life. Melanchthon's gnomic Latin poem appended to the 1588 edition. Central sentence: *nothing succeeds without God's counsel; even fated things yield to God when we pray*.
 
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- BLANK VERSO before Colophon -->
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+<!-- COLOPHON (recto) -->
+
+&nbsp;
+
+&nbsp;
+
+# Colophon
+
+&nbsp;
+
 — ❦ —
 
-*End of the Working Translation. The Catechesis of David Chytraeus, Leipzig 1594 (with 1588 supplement for Loci VII–X and the closing Explicatio Precationis Dominicae), is materially complete.*
+&nbsp;
 
-*The Scholastic Lutherans · 2026*
+*This working English edition of the*
+
+***Catechesis of David Chytraeus***
+
+*was translated from the 1594 Leipzig edition,*
+
+*with the 1588 Wittenberg edition serving as*
+
+*supplementary source for Loci VII–X and the closing appendix,*
+
+*during the summer of the year of grace 2026,*
+
+*by the*
+
+**Scholastic Lutherans translation team.**
+
+&nbsp;
+
+*Composed in Palatino Linotype for the body,*
+
+*with rubricated display type in the Hülsemann style*
+
+*established across the Scholastic Lutherans corpus,*
+
+*and set out with ornamental Aldine leaves (❦)*
+
+*after the manner of Renaissance printers.*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*The whole is dedicated, with Chytraeus, to*
+
+*the "tender age which is the seed-plot and flower*
+
+*of the Church of God, and the chief seminary*
+
+*of the Commonwealth."*
+
+&nbsp;
+
+*Soli Deo Gloria.*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*The Scholastic Lutherans*
+
+*Second work in the corpus*
+
+*After the Praetorius* Syntagma musicum *trilogy*
+
+*Anno Domini* MMXXVI
