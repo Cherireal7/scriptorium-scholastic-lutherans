@@ -81,9 +81,10 @@ Working English edition · 2026
 | **Chapter IV. Of the Sacred Scripture** *(De Sacra Scriptura, folio pp. 54–89 in Vol. 1; continues in Vol. 2)* | — |
 | &nbsp;&nbsp;&nbsp;Sect. I: authors, canon, autographs/apographs, languages, vowel points, four affections (opening) | — |
 | &nbsp;&nbsp;&nbsp;Sect. II Polemica: Q.I Scripture from God?; Q.II Apostles wrote by divine mandate?; Q.III Canon; Q.IV Autographs; Q.V Languages; Q.VI Buxtorf–Cappellus on vowel points; Q.VII the four affections (opening) | — |
-| &nbsp;&nbsp;&nbsp;*(Chapter IV continuation — full four affections + tradition + Church + analogy of faith + use + lay reading — in Volume 2 `bsb11205337`, next-volume tranche)* | — |
+| &nbsp;&nbsp;&nbsp;Sect. II Q.VI–VII: Style (free from barbarism, contra Erasmus) + Authority (supreme, self-authenticating, contra Papist derivation-from-Church) | — |
+| &nbsp;&nbsp;&nbsp;*(Source cutoff at folio p. 89, canvas 107: Q.VIII on Church-and-Scripture begins mid-Krinomenon and ends abruptly — the 1691 Wittenberg imprint compressed Pars I to a single Vol.1 of 89 folio pages; verified against Vol.2 = Pars II Anthropology and Vol.3 = Pars III Predestination + Christology.)* | — |
 | **Notes** | — |
-| **Glossary of Terms** | — |
+| **Colophon** | — |
 
 — ❦ —
 
@@ -1184,7 +1185,113 @@ The seventeenth-century controversy between **Johannes Buxtorf** the Elder (1564
 
 **Sacred Scripture is characterised by *four affections*: (1) *Authority* (auctoritas), (2) *Perfection* (perfectio, sufficientia), (3) *Perspicuity* (perspicuitas), (4) *Efficacy* (efficacia).**
 
-*[The remaining exposition of the four affections continues through the remainder of Chapter IV, which in the 1691 Wittenberg imprint spans into Volume 2 of the three-volume set. What is above completes the portion of Chapter IV contained in Volume 1 (`bsb11205336`); the continuation of the four affections, with the polemical apparatus against Roman claims on tradition and the Church, and the closing questions on the use of Scripture and lay reading, belongs to Volume 2 (`bsb11205337`) and is flagged in* notes.md *as work for the next volume-tranche. — trans. note]*
+##### *Question VI — On the Style of Sacred Scripture: is it free from Barbarism and Solecism?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The question is not whether the writers of the New Testament used the *Attic-classical dialect* of the schools of Athens, but whether the *Hellenistic Greek* they employed — the Greek of the LXX, of the Jewish diaspora, of the koinē of the first century — is *free from barbarism and solecism* in the sense of being a divinely-chosen accommodation to the audience, not a defect.
+
+##### *Θέσις — Thesis*
+
+**The style of the New Testament is *free from every stain of barbarism and solecism* — insofar as, in itself, it is the genuine *Hellenistic Greek* dialect, congruent with the practice of Jews writing Greek in the first century, and not to be judged by the norms of Attic-classical rhetoric.**
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of *Erasmus*, in his *Annotations* on Acts ch. 10, who charged that the sacred writers wrote in a *barbaric and solecistic* Greek — a charge which the Wittenberg orthodoxy holds to be a rhetorical mis-judgement grounded in an inappropriate importation of Attic-classical standards.**
+
+**II. Of certain *Reformed* who admit some *barbaric* elements while defending the divine origin — a position which the Lutherans hold to be a compromise concession that grants too much to the humanistic critics.**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From the *definition of barbarism*. A barbarism is a *departure from the norm of a given language*; but the Hellenistic Greek of the New Testament is *its own dialect*, with *its own norms*, congruent with the historical situation of Jewish-Christian speakers of Greek in the first century — and therefore what appears "barbaric" by Attic standards is normative by Hellenistic standards.
+
+**II.** From the *divine choice of vehicle*. God did not choose the Attic dialect (which would have restricted the message to the learned few), but chose the Hellenistic — the *popular international* language of the age — precisely so that the message might reach the common people. The alleged *rusticity* (*ἀπαιδευσία*, cf. Acts 4:13, *ἰδιῶται*) of the Apostles is not defect but divine accommodation. As **Salmasius** notes (*Commentary on the Hellenistic Language*, p. 260), what earlier critics called *sordid* and *trivial* is in fact the vehicle God chose.
+
+**III.** From the *Fathers*' own testimony. **Chrysostom** on the *ἀπαιδευσία of the Apostles*: *"See the unlearnedness (ἀπαιδευσία) of the Apostles — see how these ignorant, common men (ἰδιῶται) overcame the philosophers."* This is not disparagement but the Chrysostomic reversal: precisely by choosing *unlearned* men and *popular* language, God confounded the wisdom of the world (1 Cor. 1:20–27).
+
+**IV.** Against the Socinian objection that *if inspiration is verbal, the style ought to be uniformly divine and elevated*: distinction between the *dignity of the matter* (which is uniformly divine) and the *mode of expression* (which is divinely accommodated to the audience). Just as the Incarnation is God taking flesh — a real accommodation to human nature without loss of divinity — so the *God-breathed writing* is God taking words — a real accommodation to Hellenistic-Jewish speech without loss of inspiration.
+
+##### *Fontes Solutionum*
+
+*Observation 1.* On the alleged solecisms — the philological work of the seventeenth century (Erasmus's own *Annotationes*, Camerarius, the Wittenberg exegetes Balduin and Meisner) shows repeatedly that what appear to be solecisms turn out to be regular constructions in the Hellenistic dialect once its norms are properly understood.
+
+*Observation 2.* On the *Hebraisms* of NT Greek — these are not corruptions but signs of the *Jewish origin* of the divine revelation, and constitute an internal proof of the antiquity and authenticity of the text.
+
+*Observation 3.* On the Fathers who noted the *rusticity* of the Apostles (Chrysostom, Nazianzus, Cyril of Alexandria) — they did so not to disparage but to *magnify* the divine choice: precisely by choosing common men and popular language, God demonstrated that the power was of God and not of men (2 Cor. 4:7).
+
+##### *Question VII — What is the Authority of Sacred Scripture?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The question is: what is the *authority* of Sacred Scripture — is it *supreme* and *self-authenticating*, or *derived* from another source (the Church, the Fathers, human reason)?
+
+##### *Θέσις — Thesis*
+
+**The authority of Sacred Scripture of both Testaments is *supreme* (*summa*): it is *the very authority of God speaking* — self-authenticating, needing no derivation from any other source; and its authority is *identical* with the divinity by which it is what it is.**
+
+*Note.* Authority (*auctoritas*) is here taken formally: not merely as the *dignity* of a person, but as the *right to bind the will of others to obedience of one's commands*. And thus the authority of Sacred Scripture is nothing other than *its divinity itself considered as it is made manifest to men*, *drawing and enticing* their intellects to assent to what it declares, and *moving and obligating* their wills to obedience of its commands.
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of the *Ethnics* and *Muhammedans*, who deny that Sacred Scripture has any divine authority at all.**
+
+**II. Of the *Papists*, who make the *authority of Scripture* dependent on the *authority of the Church*: *"We would not believe the Gospel unless the authority of the Catholic Church moved us"* (Augustine, *Contra epist. Manichaei* V — a passage grossly abused by Bellarmine and the Trent theologians).**
+
+**III. Of the *Weigelians* and *Enthusiasts*, who acknowledge only *internal* authority (the raptures of the private Spirit) and deny the *external* authority of the written Word.**
+
+**IV. Of the *Socinians*, who admit Scripture's authority but subordinate it to *human reason*.**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From the *identity of author*. Whoever's authority is that of the *author* himself, the same authority is that of *what the author has spoken*. But the author of Sacred Scripture is God; therefore the authority of Scripture is nothing other than the authority of God himself.
+
+**II.** From *Scripture's self-witness*. 2 Peter 1:19 (*"the sure prophetic word"* — that is, *βεβαιότερος*, more sure); 2 Timothy 3:16 (*"all Scripture is God-breathed"* — and therefore *authoritative on its own*, not on any derived warrant).
+
+**III.** From the *inability of any other source to authenticate Scripture*. The Church cannot authenticate Scripture (because the Church herself is founded on Scripture — Eph. 2:20); the Fathers cannot (because they defer to Scripture as norm); reason cannot (because reason is fallen and its conclusions are not norms of divine truth).
+
+**IV.** From the *Augustinian passage properly read*. When Augustine says *"I would not believe the Gospel..."*, he does not mean that the Church's authority is *higher* than Scripture's — but that the Church's *proclamation* is the ordinary *means* by which he first encountered the Gospel. As **Dorsche** (*Theol. Zachariana* II, loc. I § 10, thesis, p. 11) puts it: *"The authority of Scripture is as great as the authority of God"* — and no created authority stands above it or grants it its authority.
+
+##### *Fontes Solutionum*
+
+*Observation 1.* To the Papist appeal from 1 Tim. 3:15 (*"the pillar and ground of truth"*): see the extended answer at Cap. III, *Fontes* Obs. 2 above.
+
+*Observation 2.* To the Papist appeal from *tradition*: see Cap. III, *Fontes* Obs. 1 above.
+
+*Observation 3.* To the Enthusiast appeal from the *inward light*: distinction between *causa* (the Spirit) and *instrumentum* (the external Word). The Spirit is the principal cause; the external Word is the instrumental means. To deny the instrument is to deny the Spirit's own institution.
+
+*Observation 4.* Against the *Jews* (who repudiate the NT) and against the *Socinians* (who subordinate to reason): the OT itself points beyond itself to a fuller revelation (Deut. 18:15–18; Ps. 110; Isa. 53; Dan. 9) — a revelation fulfilled and consigned to writing in the NT.
+
+— ❦ —
+
+##### *The Church-and-Scripture Question — a note on the source's cutoff*
+
+*At folio p. 89 of the 1691 Wittenberg imprint (Vol. 1, canvas 107 in BSB `bsb11205336`), Quenstedt opens a new **Krinomenon** on whether the Church is a means of knowing Scripture — but the volume ends mid-sentence, and the continuation is not present in this three-volume 1691 imprint. Verification: BSB `bsb11205337` (Vol. 2) opens with "**PARS SECUNDA. De Theologiae Subjecto, Homine scil. Peccatore ad Deum...**" — that is, the whole second Part of the Systema on anthropology, not the continuation of Cap. IV of Pars I. BSB `bsb11205338` (Vol. 3) opens with a fresh title page and dedicatory epistle, then continues with Pars III material on Predestination and Christology. Neither continues the doctrine of Scripture.*
+
+*The Wittenberg 1691 arrangement, therefore, compressed the whole of Pars I into a single volume of 89 folio pages — an arrangement in which Cap. IV **De Sacra Scriptura** is truncated after Question VII on Authority, with the Church-and-Scripture question left unfinished. The fuller Cap. IV treatment (with the closing questions on Scripture and Tradition, on the Analogy of Faith, on the Use of Scripture, and on the Reading of Scripture by the Laity) belongs to the expanded editions of 1685 and 1715, which the Scholastic Lutherans have not yet sighted in a form serving reliable OCR. Cross-references to the fuller treatment: Quenstedt's own **Dissertatio de lectione Scripturae Sacrae laicis concedenda** (Wittenberg 1676, dissertation with Kühn as respondens) is a cognate treatment of the lay-reading question; Calov's **Systema Locorum Theologicorum** Vol. I on *De Verbo Dei* covers the full apparatus; and Gerhard's **Loci Theologici** Vol. I on Scripture is the exhaustive precursor.*
+
+*The volume as it stands, therefore, presents the whole doctrine of Theology-in-general and its Principle Sacred Scripture as the 1691 Wittenberg edition preserves it — a genuine and self-contained working translation of what remains the most compressed and pedagogically-designed of Quenstedt's Pars-I recensions.*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Colophon
+
+*This working translation of Johann Andreas Quenstedt's **Exercitationes de theologia in genere ejusque principio sancta scriptura** — that is, of Pars I of the **Theologia Didactico-Polemica, sive Systema Theologicum** in the arrangement of the 1691 Wittenberg second edition — was prepared by the Scholastic Lutherans translation team in the year 2026.*
+
+*The Latin text-base is the 1691 Wittenberg imprint of the second edition, from the exemplar held at the Bayerische Staatsbibliothek München under identifier* bsb11205336, *offered as per-canvas hOCR by the Münchener Digitalisierungszentrum through the endpoint* api.digitale-sammlungen.de/ocr/bsb11205336/N*. The 1685 editio princeps has not been text-critically collated against the 1691; where any variance may obtain, the working translation follows the 1691 witness.*
+
+*The translation was rendered into scholarly English, with the scholastic apparatus of definitions, distinctions, theses, notae, observations, antitheses, confirmations, and fontes solutionum preserved throughout. The Greek is preserved in polytonic script with parenthetical transliteration; the Hebrew where it appears is preserved in pointed consonantal script with transliteration; the classical and patristic citations are given in the modern-critical edition standards proper to the Scholastic Lutherans program (PG, PL, CCSL, WA, LW, BSLK, MSA, CR).*
+
+*The work honours those to whom Quenstedt himself dedicated the labour of his life — his uncle **Johann Gerhard** and his father-in-law **Abraham Calov** — and, through their continuous Wittenberg lineage, the whole succession of orthodox Doctors from Luther and Melanchthon and Chemnitz down to Quenstedt's own late-orthodox generation.*
+
+*Soli Deo Gloria.*
+
+— ❦ —
+
+*The Scholastic Lutherans translation team · 2026*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
