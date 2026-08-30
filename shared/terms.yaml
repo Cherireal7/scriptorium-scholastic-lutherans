@@ -913,7 +913,210 @@ genus_doctrinae:
     that Scripture is — making manifest what is hidden to reason — is
     itself an argument for its divinity.
 
+# ─── CHYTRAEUS 1594 · Locus I (De Deo, De Trinitate, De Christo) ────────
+
+symbolum_apostolicum:
+  english: The Apostles' Creed
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 1"
+  note: >
+    In Chytraeus's pedagogical usage, the simplicissima et prima forma
+    doctrinae de Deo — the priority-form for children's catechesis.
+    The Nicene enters at the confessional-doctrinal level.
+  see_also: [symbolum_fidei, symbolum_nicaenum]
+
+essentia_dei:
+  english: The essence of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 2"
+  note: >
+    Chytraeus's compact list of divine attributes: spiritualis, aeterna,
+    vera, sapiens, bona, misericors, omnipotens. Anticipates the fuller
+    scholastic-Lutheran treatment in Gerhard Loci II.
+
+persona_boethiana:
+  english: Person (Boethian definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 3"
+  note: >
+    Individua substantia intelligens, incommunicabilis, non sustentata
+    in alio. Chytraeus's expansion of the Boethian definition (naturae
+    rationabilis individua substantia — Boethius Contra Eutychen III,
+    PL 64:1343) with the Thomist qualifiers (STh I q.29 a.1) — making
+    the definition precise for Trinitarian and Christological use.
+  see_also: [unio_personalis, hypostasis]
+
+fundamentum_totius_doctrinae:
+  english: Foundation of the whole theological doctrine
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 4"
+  note: >
+    Chytraeus's compact statement of the Lutheran Sola Scriptura:
+    nothing about God's essence or will is to be thought or taught
+    except as He has revealed Himself in the Word delivered through
+    the Prophets and Apostles. Deut 4:2; Isa 8:20.
+  see_also: [sola_scriptura, authoritas_divina]
+
+logos_verbum:
+  english: Word (Logos, Verbum)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 8"
+  note: >
+    Chytraeus's double aspect: (i) respectu Patris — the Son as the
+    substantial Image of the Father; (ii) respectu nostri — the Son as
+    the One who speaks the Gospel promise and is efficacious in His
+    Word. Cf. Chemnitz De Duabus Naturis, cap. II-IV.
+
+imago_patris_substantialis:
+  english: The substantial and integral Image of the Father
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 6"
+  note: >
+    The Son as imago consubstantialis — distinguished from the imago
+    Dei in man (an accidental created likeness, capable of loss and
+    restoration).
+
+homoousion:
+  english: Of the same substance (homoousion)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 10"
+  note: >
+    ὁμοούσιον. The Nicene-Constantinopolitan term for the
+    consubstantiality of the persons. Chytraeus applies it to the Holy
+    Spirit as well as to the Son, following Athanasius Ep. ad Serapionem.
+
+pneuma_hagion:
+  english: Holy Spirit (Πνεῦμα ἅγιον)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 9"
+  note: >
+    Chytraeus's account of the Spirit's processio is Filioquist (Western,
+    a Patre Filioque) — the settled Lutheran doctrine, articulated
+    against the Reformed and confirmed at the Formula of Concord.
+
+filioque:
+  english: And from the Son
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 9"
+  note: >
+    The Western clause added to the Nicene-Constantinopolitan Creed on
+    the Spirit's procession, formally affirmed by Lutheran orthodoxy.
+
+incarnatio_filii_dei:
+  english: Incarnation of the Son of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 12"
+  note: >
+    Chytraeus's definition — unio personalis duarum naturarum — is
+    Chalcedonian and closely tracks Chemnitz De Duabus Naturis (Jena,
+    1571/1578), cap. II. Both natures preserved without confusion,
+    change, division, or separation.
+  see_also: [unio_personalis, chalcedonense]
+
+assumptio_naturae_humanae:
+  english: Assumption of human nature
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 11"
+  note: >
+    The one-way movement of the Incarnation: the Son of God takes to
+    Himself human nature — not the reverse. Central to Lutheran
+    Christological polemics.
+
+emmanuel_quatuor_causae:
+  english: Emmanuel — four causes
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 13"
+  note: >
+    Chytraeus's four-fold explanation of the name Emmanuel (Isa 7:14,
+    Matt 1:23): (1) assumption of our nature, (2) intercession and
+    price of redemption, (3) indwelling by faith, (4) presence in
+    perils and death.
+
+synaphos:
+  english: Joined-together (σύναφος)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 12"
+  note: >
+    Chytraeus's Greek Christological adjective for the Emmanuel-union —
+    rare in classical usage but functional in his Christological
+    register.
+
+syngenos:
+  english: Kindred (σύγγενος)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 13"
+  note: >
+    Applied to Christ as "flesh of our flesh, bone of our bones" in
+    the assumption of our nature.
+
+homogenes:
+  english: Of the same kind (ὁμογενής)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 15"
+  note: Applied to Christ as sanctifier of the assumed nature.
+
+mediator_definitio_chytraei:
+  english: Mediator (definition per Chytraeus)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 14"
+  note: >
+    The Person set between angered God and guilty man, who satisfies
+    divine justice, sustains wrath and punishment, pleads for us,
+    applies His merits, and hears our prayers. Anselmic-scholastic
+    in structure, confessionally Lutheran in idiom.
+  see_also: [satisfactio_vicaria, mediator]
+
+munus_triplex_christi:
+  english: The threefold office of Christ
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 16"
+  note: >
+    Prophet (revealing the Father through the Gospel), Priest
+    (interceding and satisfying), King (governing and defending the
+    Church). Common Reformation property; Chytraeus articulates it
+    without naming Calvin.
+
+praxis_pietatis:
+  english: The practice of piety
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 18"
+  note: >
+    Chytraeus's identifier of the true Church of God: not doctrine as
+    speculation but doctrine as invocation, gratitude, and obedience.
+    Distinct from the later 17th-c. Pietist theologia practica.
+
+invocatio_dei_vera:
+  english: True Invocation of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 19"
+  note: >
+    Chytraeus's definition centres on (i) address to the true
+    trinitarian God, (ii) knowledge of the promise, (iii) confidence
+    of hearing on account of Christ the Mediator.
+
+partes_invocationis:
+  english: Parts of Invocation (six)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 20"
+  note: >
+    Chytraeus's six: compellatio, cogitatio mandatorum, poenitentia seu
+    confessio, consideratio promissionis, fides, commemoratio.
+
+paracletus:
+  english: Comforter, Paraclete
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 18"
+  note: >
+    Johannine title of the Holy Spirit (John 14:16, 26; 15:26; 16:7).
+    Preserved on formal Trinitarian occurrence.
+
+septem_petitiones:
+  english: The seven petitions of the Lord's Prayer
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus I § 20"
+  note: Matt 6:9-13.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# END OF SEED + Chytraeus 1594. Every completed work appends its own new
-# entries here.
+# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Locus I). Every
+# completed work appends its own new entries here.
 # ═══════════════════════════════════════════════════════════════════════════

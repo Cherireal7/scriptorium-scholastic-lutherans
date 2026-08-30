@@ -12,7 +12,7 @@ lang: en
 
 ## DAVID CHYTRAEUS
 
-———  ✦  ———
+— ❦ —
 
 *Catechesis Davidis Chytraei*
 
@@ -20,19 +20,19 @@ lang: en
 
 *Now finally revised by the Author himself, and augmented in many places*
 
-———  ✦  ———
+— ❦ —
 
 Leipzig · in the printing house of Voegelin
 
 Anno M.D.XCIV — 1594
 
-———  ✦  ———
+— ❦ —
 
 A translation by
 
 **The Scholastic Lutherans**
 
-Working English edition · Bishoftu · 2026
+Working English edition · 2026
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -57,10 +57,32 @@ Working English edition · Bishoftu · 2026
 | &nbsp;&nbsp;&nbsp;§ 9. Why the young must learn catechism above all | 19 |
 | &nbsp;&nbsp;&nbsp;§ 10. The word *catechesis* — its meaning and etymology | 21 |
 | &nbsp;&nbsp;&nbsp;§ 11. The uses of examination | 22 |
-| Notes | 25 |
-| Glossary of Terms | 29 |
+| **Locus I · Of the True Knowledge and Invocation of the One True God: Father, Son, and Holy Spirit** | 27 |
+| &nbsp;&nbsp;&nbsp;§ 1. What the Symbol of the Apostles is | 27 |
+| &nbsp;&nbsp;&nbsp;§ 2. What God is — the essence of God | 27 |
+| &nbsp;&nbsp;&nbsp;§ 3. What a Person is | 28 |
+| &nbsp;&nbsp;&nbsp;§ 4. Why three Persons, not more nor fewer | 28 |
+| &nbsp;&nbsp;&nbsp;§ 5. The Father | 29 |
+| &nbsp;&nbsp;&nbsp;§ 6. The Son | 29 |
+| &nbsp;&nbsp;&nbsp;§ 7. Testimonies of the divinity of the Son of God | 30 |
+| &nbsp;&nbsp;&nbsp;§ 8. Why the Son is called Λόγος or Word | 30 |
+| &nbsp;&nbsp;&nbsp;§ 9. The Holy Spirit | 31 |
+| &nbsp;&nbsp;&nbsp;§ 10. Testimonies of the divinity of the Holy Spirit | 31 |
+| &nbsp;&nbsp;&nbsp;§ 11. Which Person of the Divinity assumed human nature | 32 |
+| &nbsp;&nbsp;&nbsp;§ 12. The Incarnation of the Son of God | 32 |
+| &nbsp;&nbsp;&nbsp;§ 13. Why the Son of God is called *Emmanuel* — four causes | 33 |
+| &nbsp;&nbsp;&nbsp;§ 14. What a Mediator is | 34 |
+| &nbsp;&nbsp;&nbsp;§ 15. Why it was necessary that in Christ our Mediator two natures — divine and human — be united in one Person | 35 |
+| &nbsp;&nbsp;&nbsp;§ 16. What Christ is | 36 |
+| &nbsp;&nbsp;&nbsp;§ 17. The difference between Christ and John the Baptist and the other saints | 36 |
+| &nbsp;&nbsp;&nbsp;§ 18. The use and *praxis* of the doctrine of God and of the three Persons | 37 |
+| &nbsp;&nbsp;&nbsp;§ 19. What true Invocation of God is | 38 |
+| &nbsp;&nbsp;&nbsp;§ 20. The parts of true Invocation | 38 |
+| &nbsp;&nbsp;&nbsp;§ 21. The difference between Christian and pagan Invocation | 39 |
+| Notes | 41 |
+| Glossary of Terms | 47 |
 
-———  ✦  ———
+— ❦ —
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -110,19 +132,19 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 
 ## 5. What is not yet in this working translation
 
-- **Locus I — X.** The Prolegomena translated here is the section preceding the Ten Loci proper. Locus I *De Vera Dei Agnitione* through Locus X *De Immortalitate Animae* are the substance of the Catechism and will follow in subsequent working sessions.
+- **Locus II — X.** Locus I *De Vera Dei Agnitione et Invocatione* is now translated. Locus II *De Creatione et De Homine*, Locus III *De Lege Dei*, Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow in subsequent working sessions.
 - **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued when the full Locus set is translated.
 - **The 1588 recension.** The Internet Archive item pairs the 1594 edition with an earlier 1588 recension. Textual collation between the two — to identify precisely which passages the 1594 title-page description *multis in locis aucta* refers to — is a task deferred to a future edition.
 
 ## 6. Author
 
-Translated by **the Scholastic Lutherans translation team**, working from Bishoftu, Ethiopia. Sole authorship: Cherinet Demeke. AI-assisted (Claude Opus 4.7).
+Translated by **the Scholastic Lutherans translation team**. AI-assisted (Claude Opus 4.7).
 
 ## 7. On AI assistance
 
 Translation from the Latin was drafted with the assistance of a large language model, then verified paragraph-by-paragraph against the source facsimile. Every named source, every citation, and every scholastic term was cross-checked; no citation or attribution in the English body text is present that is not present in the Latin source. Where the source is corrupt in the OCR (chiefly in the small-type commentary passages, where 16th-century italic Antiqua occasionally defeats the scanner), the passage was read directly from the PDF facsimile and, where doubt remained, marked with an editorial endnote rather than silently patched. This is the working method already proven across the Praetorius *Syntagma musicum* trilogy (Volumes I–III, completed August 2026), and it is the method by which every one of the twenty-two works of the Scholastic Lutherans corpus will be produced.
 
-———  ✦  ———
+— ❦ —
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -152,7 +174,7 @@ On the day of St Luke, in the year 1575.
 
 *by David Chytraeus*
 
-———  ✦  ———
+— ❦ —
 
 The purest and best part of the human race, and the chief seed-plot and flower of the Church of God, is that tender age which — holding fast the gift of the Holy Spirit received in Baptism — studiously learns the true doctrine of God and of our Redeemer Jesus Christ, and with chaste mind, simplicity, and pure faith invokes God; and with alert and glad heart gives thanks for the benefits received from Him; and, discharging in its studies and in the other departments of its life the offices commanded of it, reverently obeys God and its parents.⁹
 
@@ -199,7 +221,7 @@ From the Academy of the *urbs Rosarum*,¹⁶ on the day after the Epiphany of th
 
 ## *Prolegomena — What the Catechism Is, and How and Why It Is to Be Learned*
 
-———  ✦  ———
+— ❦ —
 
 ### § 1. What Catechesis is
 
@@ -207,7 +229,7 @@ From the Academy of the *urbs Rosarum*,¹⁶ on the day after the Epiphany of th
 
 *Catechesis* is the *summa* of Christian doctrine comprised in a fixed method.¹⁸
 
-———  ✦  ———
+— ❦ —
 
 ### § 2. What Theology, or Christian Doctrine, is
 
@@ -215,7 +237,7 @@ From the Academy of the *urbs Rosarum*,¹⁶ on the day after the Epiphany of th
 
 *Theologia* is the doctrine concerning the essence and will of God, and concerning the benefits shown to the human race for Christ the Mediator's sake, and concerning the worships in turn owed to Him; a doctrine made manifest in the Word of God delivered through the Prophets and the Apostles, and confirmed by illustrious testimonies of miracles; through which God is truly efficacious, and imparts to those who believe the true knowledge of Himself, the remission of sins, and eternal life.¹⁹
 
-———  ✦  ———
+— ❦ —
 
 ### § 3. The two chief heads of Christian doctrine
 
@@ -227,7 +249,7 @@ Two.
 
 > From these two fountains, as it were from the measuring-rod and rule of the whole *sacra scriptura* rightly to be understood, the remaining *loci* of theological doctrine are born and flow forth. To these two first heads of our children's Catechism — namely, the Decalogue and the Symbol of the Faith — all the dogmas and histories contained in the sacred Scripture can be referred. Yet, that the series and *summa* of the doctrine may be distributed for the pupil's ease into more members, and more easily be surveyed and impressed on the mind of adolescents, we shall, without superstition, set down **TEN LOCI** of Christian doctrine as the principal ones; to which all things that the studious read or hear in the Word of God, in the Fathers, and in any other Christian writings, sermons, disputations, or theological treatises, they may refer — arranging them, as it were, in fixed classes, or, as members of one body, aptly fitting them together and comprehending them in their proper order.²⁰
 
-———  ✦  ———
+— ❦ —
 
 ### § 4. The ten principal loci of Christian doctrine
 
@@ -253,7 +275,7 @@ IX. *De Ecclesia et de Cruce ac consolationibus Ecclesiae* — Of the Church and
 
 X. *De Immortalitate Animae, Resurrectione Corporum, Extremo Iudicio, et Vita Aeterna* — Of the Immortality of the Soul, the Resurrection of Bodies, the Last Judgement, and Eternal Life.
 
-———  ✦  ———
+— ❦ —
 
 ### § 5. What the Christian Religion is
 
@@ -263,7 +285,7 @@ The **Christian Religion** is: to believe in Christ, and to worship God accordin
 
 *Religio Christiana* is the *praxis* of theology — that is: to acknowledge one true God, the Father, the Son, and the Holy Spirit, according to the doctrine made manifest by Him Himself; and truly to fear His wrath against sin; and to believe that for Christ the Mediator's sake sins are remitted to us and God is made propitious; and to seal this faith by the Sacraments instituted by Christ; and, this faith shining forth, to invoke Him and to worship Him by the good works which He has commanded in His Word to be worshipped by; and this on account of the honour of God and the salvation of the neighbour.²¹
 
-———  ✦  ———
+— ❦ —
 
 ### § 6. The difference between the Christian Religion and the pagan
 
@@ -277,7 +299,7 @@ The **Christian Religion** is: to believe in Christ, and to worship God accordin
 >
 > Moreover, among the pagans the doctrine of the Law of God and of the virtues also is mutilated and maimed and depraved in many ways — as Cicero *De Officiis* and Aristotle in the *Ethics*,²⁶ instituting *ex professo* an explication of the virtues, make no mention at all of God, or of the primary virtues: studies toward God, fear of God, invocation of God, and giving of thanks, and the like — of which nevertheless some notice does shine forth in the minds of all men by nature, as the sentences even of Plato and Homer show. So too the second table of the Decalogue and the notice of the sixth precept, and the whole doctrine of the inner uncleanness of the heart which the Law argues, and of the perfect obedience of heart which the Law requires — among the pagans it is plainly obscured and corrupted, and almost wholly effaced.²⁷
 
-———  ✦  ———
+— ❦ —
 
 ### § 7. The cause of certainty in Christian doctrine
 
@@ -313,7 +335,7 @@ The subordinate *rationes certitudinis* are these:
 
 Testimonies of Scripture: 1 Thess 2:13, *Ye received the word of God not as the word of men, but, as it is in truth, the word of God, which effectually worketh also in you that believe*. 2 Pet 1:21, *The prophecy came not by the will of man: but holy men of God spake as they were moved by the Holy Ghost*.
 
-———  ✦  ———
+— ❦ —
 
 ### § 8. The best method of study in theology
 
@@ -345,7 +367,7 @@ Theological study, however — that is, the labours of learning — are to be go
 >
 > All *Philosophia*, the arts of speech, *Ethica* and *Politica*, *Arithmetica*, *Physica*, *Astronomia*, *Geographia*, and the knowledge of the other arts taught in schools, are of great use in explaining doctrine and the sacred books, and are moreover a singular ornament and safeguard of the Church.
 
-———  ✦  ———
+— ❦ —
 
 ### § 9. For what causes it is necessary that adolescents learn letters and especially catechism
 
@@ -377,7 +399,7 @@ The *finis* to which we have been created — and in learning and teaching to us
 
 But the *principal end* must always be before us: namely, the true acknowledgement and celebration of God, according to the doctrine made manifest by God Himself through Christ. Therefore the first care of all of us must be this: that we learn the *Catechesis* of the doctrine of Christ. Matt 6:33: **Seek ye first the Kingdom of God.**
 
-———  ✦  ———
+— ❦ —
 
 ### § 10. The word *catechesis* — its meaning and etymology
 
@@ -389,7 +411,7 @@ The word comes from **κατηχέω** (*katēcheō*), which signifies to hear, 
 
 ***For what causes is Catechesis — that is, this form of instruction, which takes place through examination — used in the Church?***
 
-———  ✦  ———
+— ❦ —
 
 ### § 11. The uses of examination
 
@@ -410,6 +432,236 @@ Then, in the Church it is necessary that every man render a *Confessio suae fide
 These uses I have recited, since I see that adolescents, either by shame or by pride, flee examinations; whereas I would rouse in some good minds a love of examinations — as much in the other arts as above all in the Christian doctrine.
 
 *Now we shall expound briefly and perspicuously each of the loci of Christian doctrine, in the order in which they have been set out.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus I
+
+## *Of the True Knowledge and Invocation of the One True God — Father, Son, and Holy Spirit*
+
+— ❦ —
+
+### § 1. What the Symbol of the Apostles is
+
+The simplest and first form of the doctrine concerning God is the **Symbol of the Apostles**⁴⁵ — which the young are all to learn accurately, and which we grown men also ought to recite daily.
+
+> For it comprises the sum of the doctrine concerning the one God, and the three Persons, and all the works and benefits of God — of Creation, of the redemption of the human race by the Son, and of the person, office, passion, resurrection, and reign of Christ; of the perpetual Church gathered by Him; of the Last Judgement; of the remission of sins and of eternal life — under the fewest possible words comprised.⁴⁶ And this cogitation, by the word *CREDO* ("I believe"), is an application of the benefits of Christ; and the very recitation is a confession against the devils, and a comfort in sorrows.
+
+— ❦ —
+
+### § 2. What God is — the essence of God
+
+***What is God?***
+
+**God** is one *essentia* — spiritual, eternal, true, wise, good, merciful, omnipotent — the eternal Father, and the Son, the Image of the Father, and the Holy Spirit proceeding from the Father and the Son: made manifest in the creation of the world and in the Word delivered to the Church, according to which alone He wills to be acknowledged and worshipped by men, and to be celebrated in all eternity.
+
+— ❦ —
+
+### § 3. What a Person is
+
+***How many Persons are there in the Divinity?***
+
+Three: the Father, the Son, and the Holy Spirit.
+
+***What is a Person?***
+
+*Persona* is an individual substance, intelligent, incommunicable, not sustained in another.⁴⁷
+
+— ❦ —
+
+### § 4. Why three Persons, not more nor fewer
+
+***Why are only three Persons of the Divinity to be acknowledged and invoked, and not more nor fewer?***
+
+Because God has so revealed Himself in the Baptism of Christ, and in the institution of our Baptism, and by other testimonies.
+
+Matt 28[:19]: *Baptise them in the name of the Father, and of the Son, and of the Holy Spirit.*
+
+Ps 2[:7,12]: *The Lord hath said unto me, Thou art my Son … kiss the Son.*
+
+Ps 33[:6]: *By the Word of the Lord were the heavens established, and all the host of them by the breath of his mouth.*
+
+> The **foundation of the whole theological doctrine** (*fundamentum totius doctrinae Theologicae*) is this sentence: that concerning the essence and will of God and the worships to be rendered Him, nothing is to be thought or taught otherwise than as God Himself has revealed Himself in His Word, delivered through the Prophets and Apostles.
+>
+> Deut 4[:2]: *Ye shall not add unto the word which I command you, neither shall ye diminish ought from it.* Isa 8[:20]: *If they do not speak according to His word, there is no morning to them.*⁴⁸
+
+— ❦ —
+
+### § 5. The Father
+
+The **Father** is the first Person of the Divinity, who from all eternity begat a Son coeternal with Himself, the Image of Himself, and together with the Son and the Holy Spirit created and preserves all other things out of nothing.
+
+— ❦ —
+
+### § 6. The Son
+
+The **Son** is the second Person of the Divinity, from eternity begotten of the eternal Father; and He is the substantial and integral Image of the eternal Father. This Son was afterward the Intercessor between God and the first fallen men, and — constituted the Mediator — took to Himself from the Virgin Mary a human nature. He was made a victim for sins; and through Him, and on account of Him, is given by the eternal Father the remission of sins, righteousness, and life eternal.⁴⁹
+
+— ❦ —
+
+### § 7. Testimonies of the divinity of the Son of God
+
+Rom 9[:5]: *Christ is over all, God blessed for ever.*
+
+1 John 5[:20]: *We are in the true God, in his Son Jesus Christ. This is the true God.*
+
+Jer 23[:6]: *They shall call him, JEHOVAH our Righteousness.*
+
+John 20[:28]: Thomas: *My Lord, and my God.*
+
+John 1[:1]: **Καὶ Θεὸς ἦν ὁ Λόγος** — *And the Word was God.* And a little later: *Illud omnia condidit* — *All things were made by Him.*⁵⁰
+
+— ❦ —
+
+### § 8. Why the Son is called Λόγος or Word
+
+***Why is the Son of God named* Λόγος *or Word?***
+
+> **First**, in respect of the eternal Father — because He is the Image of the Father, in whom shines fully forth the wisdom, goodness, and essence of the Father: just as our own speech is the sign of our thoughts.
+>
+> **Then**, in respect of us — because He first spoke to the human race the promise of the Gospel, brought forth from the arcane bosom of the Father, and thereafter in the discourses with the Fathers repeated it — as John 1[:18]: *The Son, who is in the bosom of the Father, He hath declared Him.* And in the ministry of His own Word or Gospel He is efficacious, and by speaking and by His Word He kindles the true knowledge of the eternal Father, and true consolation, and eternal life. Matt 11[:27]: *No one knoweth the Father but the Son, and he to whom the Son will reveal Him.* Heb 4[:12]: *The Word of God is alive and efficacious.* Ps 119[:50]: *Thy Word hath quickened me.*⁵¹
+
+— ❦ —
+
+### § 9. The Holy Spirit
+
+The **Holy Spirit** is the third Person of the Divinity, who proceeds from the Father and the Son; and He is sent, that by the ministry of teaching He may govern the Church, and by the Word of the Gospel may regenerate and sanctify the hearts of the pious.
+
+— ❦ —
+
+### § 10. Testimonies of the divinity of the Holy Spirit
+
+Matt 28[:19]: *Baptise them in the name of the Father, and of the Son, and of the Holy Spirit.* — For since Baptism is a covenant with the true God, and since we are baptised not only into the name of the Father and of the Son but also of the Holy Spirit, it is necessary that the Holy Spirit also is predicated of the same Divinity, power, majesty, and glory with the eternal Father and the Son, and is **ὁμοούσιον** (*homoousion*, "of one and the same substance").⁵²
+
+> Then, many are the testimonies in which everywhere the name of GOD and Lord, or of JEHOVAH, is attributed to the Holy Spirit: 1 Cor 12:6, 3:2; 2 Cor 3; Acts 5:3; Isa 6:8. Finally, the works and effects proper to the divine and omnipotent nature alone — as creation, regeneration, vivification, likewise omniscience, omnipresence — are ascribed to the Holy Spirit in the sacred letters. Job 33[:4]: *The Spirit of God hath made me.* Job 26[:13]: *His Spirit hath adorned the heavens.* Ps 33[:6]: *By the Word of the Lord* (**λόγῳ** and **πνεύματι**) *the heavens were established, and by the breath of His mouth* (*not by a creature, but by one creating*) *all their host* (all the stars) *of them.* And the Church sings: *Come, Creator Spirit, fill with heavenly grace the hearts which Thou hast created.*⁵³
+
+— ❦ —
+
+### § 11. Which Person of the Divinity assumed human nature
+
+***Which Person of the Divinity assumed human nature?***
+
+The **second Person**, namely the Son of God, having taken a human nature out of the substance of the Virgin Mary, coupled it to Himself by *personal union*, so that there is one Person, **JESUS CHRIST EMMANUEL** — our Mediator, Redeemer, Justifier, and Saviour.
+
+— ❦ —
+
+### § 12. The Incarnation of the Son of God
+
+***What is the Incarnation of the Son of God?***
+
+The **Incarnation of the Son of God** is the *unio personalis* of two natures — the divine, of the substance of the eternal Father, and begotten from eternity; and the human, of the substance of the Virgin Mary, and assumed — made by the wondrous counsel of the Divinity in Christ the Mediator, that He might be Emmanuel: to the eternal God the Father and to us men **σύναφος** (*synaphos*, "joined-together"), reconciling us to God, and by a sufficient satisfaction, the most just wrath of God against sin being appeased, restoring to men eternal righteousness and eternal life.⁵⁴
+
+— ❦ —
+
+### § 13. Why the Son of God is called *Emmanuel* — four causes
+
+***Why is the Son of God named Emmanuel?***
+
+**EMMANUEL** — that is, *God with us* — He is called for four causes.
+
+**First**, for the assumption of our nature: because, being made *God-Man* and our brother, *flesh of our flesh and bone of our bones* (**σύγγενος**), He is one with us. John 1[:14]: *The Word was made flesh, and dwelt among us* — having assumed our nature, not merely effectively and separably, but *personally*, so that there is one Person.
+
+**Second**, because He *intercedes and pleads for us with the eternal Father, and pays the price of our redemption.* Rom 8[:34]: *He sitteth at the right hand of the Father, and intercedeth for us.* And, *If God be for us, who can be against us* (Rom 8:31). 1 Tim 2[:5–6]: *One Mediator between God and men, the Man Christ Jesus, who gave himself a ransom for all.*
+
+**Third**, because *He, the Son of God, dwells in us by faith when we acknowledge Him, and governs and sanctifies our hearts, and renders them conformable to Himself.* Gal 2[:20]: *Christ liveth in me.* Eph 3[:17]: *Christ dwelleth by faith in your hearts.*
+
+**Fourth**, *with us* in all perils, sorrows, and in death itself our Emmanuel — God and Man — is present, protecting and saving us: as He said, *Lo, I am with you always, even unto the end of the world* (Matt 28:20). Ps 46[:7]: *The Lord of Hosts is with us; the God of Jacob is our refuge.* Ps 91[:15]: *I am with him in trouble.*
+
+— ❦ —
+
+### § 14. What a Mediator is
+
+***What is a Mediator?***
+
+The **Mediator** is the Person who is set between an angered God and a human race guilty of sin and of God's wrath, that He may satisfy the divine justice, sustain the wrath and punishment for sin, plead for us, apply His merits, and hear the sighs and prayers of the invocants. 1 Tim 2[:5–6].
+
+— ❦ —
+
+### § 15. Why it was necessary that in Christ our Mediator two natures — divine and human — be united in one Person
+
+> The causes rehearsed by **Athanasius** in the book *De Incarnatione Verbi*,⁵⁵ and by others, are these:
+>
+> It behoved Him to be **Man**, since Man had sinned, and the order of divine justice required that Man pay the penalty. Then, that He might be able to *suffer and die for man*, that by death He might abolish the empire of death. Furthermore, that as **ὁμογενής** (*homogenēs*, "of the same kind") He might sanctify men by the assumption of the human nature, and might liberate that nature which was crushed and oppressed by the Devil, by His own resurrection and by His session at the right hand of God — glorify.
+>
+> Then it behoved Him to be **God**, that His work — the price for sins — might be equivalent, of merit and dignity sufficient for a new righteousness and life; and, being of infinite dignity, might sustain the load of the wrath of God and of punishments, and might overcome death and the devils, and might restore righteousness and eternal life. Item, that He might enter into the Holy of Holies, look into the bosom of the Father and into the hearts of the invocants; and, being everywhere present to His Church, might hear those who cry to Him, defend them, preserve them, and give to those who ask the wisdom of God and the Holy Spirit. And since in the first creation the Son of God (**Ἰησοῦς**, and life and light — who is the *imago Dei*) had bestowed on men, it was fitting that by the same Word by which had at the outset been given the *imago Dei* (now depraved) should be restored in us.⁵⁶
+
+— ❦ —
+
+### § 16. What Christ is
+
+***What is Christ?***
+
+**CHRIST** is the highest priest and king of the Church, appointed by the eternal Father to Himself and to us men, anointed with the fullness of the Holy Spirit; that He might make manifest to men the Gospel brought forth from the bosom of the Father, through which He gathers to Himself an eternal Church out of the human race; and by His intercession, merit, and efficacy, remission of sins and eternal salvation He obtains and gives to the Church — which in this life He governs by His Word and by the Holy Spirit, defends against the devils and against tyrants, and at last, raised out of death, He shall adorn with life and eternal glory.⁵⁷
+
+— ❦ —
+
+### § 17. The difference between Christ and John the Baptist and the other saints
+
+Four are the principal differences.
+
+**First — of Person.** The Divinity dwells in Christ, not as in other holy men, only effectively and separably; but rather in such a way that the Son of God and the human nature are one indissoluble Person — as the soul and body constitute one man.
+
+**Second — of Office.** For Christ alone is Redeemer and Saviour, appeasing by His merit the wrath of God, delivering us from sins and from death, and restoring righteousness and eternal life. The saints are not redeemers, but only ministers of the Word — by which Christ announces and imparts His benefits to men.
+
+**Third — of Efficacy.** For Christ by His own power is efficacious through the Word, illuminating minds by the true knowledge of God, giving the Holy Spirit, and quickening hearts to a new and eternal righteousness and life. John the Baptist and the other saints are not efficacious by their own power, but only ministers of the Word and Sacraments.
+
+**Fourth**, Christ is holy (*ἅγιος*), free from all sin and stain (2 Cor 5[:21]; 1 Pet 3[:22]). All the saints are sinners (1 John 1[:8]; Ps 32[:1]), and only on account of Christ are absolved from their sins.⁵⁸
+
+— ❦ —
+
+### § 18. The use and *praxis* of the doctrine of God and of the three Persons
+
+***What is the use and *praxis* of the doctrine concerning God and concerning the three Persons of the Divinity?***
+
+> That God may be rightly acknowledged by us and invoked: so that there be *one knowledge of God*, a Fear of the most just wrath of God against our sins; a Faith or trust in the mercy of God, promised on account of the Son the Mediator; an ardent *invocation* of God, by which we ask to be taught by the Son of God, to be saved, and by the Spirit of God the Paraclete to be governed and sanctified; a true gratitude for the highest benefits of God — and especially for the promised Redeemer, and for the Holy Spirit poured forth into our hearts as Comforter; and the *obedience* and conformity of the whole of life with the wisdom, justice, and other virtues of God, be excited, fostered, and confirmed in us.
+>
+> Not by empty speculations and quibbles or by profane questions, which draw the minds away from this true and practical doctrine of God (and yet do not explain the arcane nature of God) do we feed the empty airiness of the wit.
+>
+> But *chiefly in the daily invocation of God* this doctrine — concerning God, concerning the three Persons of the Divinity, concerning the benefits of the Son of God the Mediator, concerning the Spirit the Comforter and the paraclete, concerning promises, concerning faith — is professed. This is the *proper mark* of the ancient Church of God, and it *distinguishes our invocation from that of the pagans, Turks, Jews, and all other peoples' sects*.⁵⁹
+
+— ❦ —
+
+### § 19. What true Invocation of God is
+
+***What is true Invocation of God?***
+
+**True Invocation of God** is: for the true God, the Father of our Lord Jesus Christ — with the true knowledge of the promise of the Son of God the Mediator shining forth — to ask both spiritual and bodily goods (present and eternal), according to His promises, and with a certain confidence that we are cared for by God, that our prayers are heard by God as by a Father who cares for us, on account of the Son of God the Intercessor, and that things salutary are granted to us — and therefore in turn to celebrate God with all offices of grateful and obedient acknowledgement.
+
+— ❦ —
+
+### § 20. The parts of true Invocation
+
+***What are the parts of true Invocation which each of us should piously and attentively consider, embrace, and conjoin in all our prayers to God?***
+
+**I. *Compellatio*** — the Address to the true God, the Father of our Lord Jesus Christ, made manifest by illustrious testimonies in the Church, as it is written: *The Lord thy God shalt thou worship, and Him only shalt thou serve* (Matt 4:10; Deut 6:13). *Thou shalt have no other gods before me* (Exod 20:3).
+
+**II. *Cogitatio mandatorum Dei*** — the Consideration of the commandments of God, which command invocation, and which most severely enjoin the seeking and awaiting of the goods promised by God. Matt 7[:7–11]: *Ask, and it shall be given you.*
+
+**III. *Poenitentia seu Confessio*** — Repentance, or the Confession of one's own unworthiness and sins — of which we have an example in the invocation of David (Ps 51) and of Daniel (Dan 9).
+
+**IV. *Consideratio promissionis*** — the Consideration of the promise concerning the remission of sins, and concerning the hearing of prayers, on account of Christ the Mediator. Ps 50[:15]; Matt 7[:7]; John 16[:23].
+
+**V. *Fides*** — Faith, certainly determining that sins are remitted to it, that it pleases God, and that its prayers are heard on account of Christ. James 1[:6]: *Let him ask in faith, nothing wavering.* Eph 3[:12]: *By faith we have boldness of access.*
+
+**VI. *Commemoratio*** — the Recollection of the things to be asked, which are enclosed by Christ Himself in **seven Petitions**.⁶⁰ To this belongs also the giving of thanks for the spiritual and bodily benefits of God.
+
+— ❦ —
+
+### § 21. The difference between Christian and pagan Invocation
+
+> The differences may be taken from the efficient, impulsive, objective, and adjacent causes; but chiefly two are here to be enumerated:
+>
+> The **former**, taken from the *essentia Dei*.
+>
+> The **latter**, from the *voluntas Dei*.
+>
+> The pagans, the Turks, the Jews — although they boast that they invoke God the Creator of heaven and earth — nevertheless *wander from the true God* and forge for themselves an idol which they invoke. For there is one, and only, Creator of heaven and earth: who is the eternal Father, the Son, and the Holy Spirit — whom they either wholly ignore or affect with contumely. John 5[:23]: *He that honoureth not the Son, honoureth not the Father.* Then, they are also alienated from the *voluntas Dei*, because they spurn the promise of the Gospel and the Son the Mediator.
+>
+> But **true invocation** is directed *to this one God, the Father of our Lord Jesus Christ, made manifest by the sending of His Son and the giving of the Gospel*; and moreover determines with certainty that it is received and heard on account of Christ the Mediator.⁶¹
+
+*Hitherto concerning God the Creator to be rightly acknowledged and invoked. Now concerning the creatures, made in the image of God, that they may acknowledge and celebrate God — Locus II follows.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -507,6 +759,42 @@ These uses I have recited, since I see that adolescents, either by shame or by p
 
 ⁴⁴ Chytraeus cites another gnomic school-hexameter, source unlocated in the classical corpus; the sentiment is Isocratean (cf. *Ad Demonicum* 18) but the exact wording appears to be humanist school-composition.
 
+## From Locus I · Of the True Knowledge and Invocation of the One True God
+
+⁴⁵ The *Symbolum Apostolicum* — the Apostles' Creed, in its Western form standardised through the 8th c. Chytraeus follows the Lutheran-catechetical convention of prioritising it above the Nicene for children's catechesis; the Nicene enters at the confessional level. Cf. Luther *Small Catechism*, Second Chief Part (BSELK, pp. 870–72).
+
+⁴⁶ Chytraeus lists the sum of Christian doctrine in a single sentence — the outline that the Ten Loci will then unpack. The compression is deliberate: he wants children to grasp the whole from the Creed's structure before the loci-treatment expands each article.
+
+⁴⁷ The **Boethian definition of person** — *individua substantia rationalis naturae* — from Boethius *Liber contra Eutychen et Nestorium* III (PL 64:1343): *persona est naturae rationabilis individua substantia*. Chytraeus adds *incommunicabilis, non sustentata in alio* — Aquinas's amplification (STh I q.29 a.1), by which the definition is made precise for use in trinitarian and Christological contexts (excluding the divine essence, which is common, and the humanity of Christ, which is sustained in the Person of the Word).
+
+⁴⁸ The *"fundamentum totius doctrinae Theologicae"* passage is Chytraeus's most concise formulation of Lutheran Scripture-principle. Compare Gerhard *Loci Theologici* I, *De Scriptura Sacra*, ed. Preuss (Berlin, 1863), I.1: *"Fundamentum omnis religionis et primus articulus doctrinae Christianae est de Scriptura Sacra."*
+
+⁴⁹ On the *processio* of the Son from the Father in Lutheran orthodoxy, cf. Melanchthon *Loci Praecipui* 1559, *De Filio Dei*, CR 21:614–24; Gerhard *Loci* III, *De Persona et Officio Christi*, ed. Preuss, III.7–12. Chytraeus's compact formula preserves both the eternal generation and the temporal mission.
+
+⁵⁰ **Jer 23:6** (Vulgate 23:6): *hoc est nomen quod vocabunt eum, Dominus iustus noster* (Hebrew: *YHWH ṣidqēnû* — "the LORD our righteousness"). Chytraeus reads the divine Name *JEHOVA* as directly applied to Christ, the standard Lutheran-orthodox reading. On the Tetragrammaton and Christology, cf. Gerhard *Loci* III, ed. Preuss, III.24–28.
+
+⁵¹ For **λόγος** Christology in the Reformation exegetical tradition, cf. Melanchthon *Enarratio Evangelii Iohannis* 1523/36 (CR 15:1–440); Chemnitz *De Duabus Naturis in Christo* (Jena, 1571 / 1578), cap. II–IV. Chytraeus's twofold explanation (*respectu Patris / respectu nostri*) is standard.
+
+⁵² **ὁμοούσιον** (*homoousion*, "of the same substance") — the Nicene-Constantinopolitan term, *Credo … in Spiritum Sanctum … qui cum Patre et Filio simul adoratur et conglorificatur*. Chytraeus's argument from the baptismal formula to the *homoousion* of the Spirit is standard patristic apologetic, cf. Athanasius *Epistulae ad Serapionem* I.28–33 (PG 26:593–608; SC 15:132–48).
+
+⁵³ The hymn is **Veni Creator Spiritus**, attributed to Rabanus Maurus (†856), preserved in the *Liber Hymnorum* (PL 112:1657) and sung in the Roman Rite at Vespers of Pentecost and at the consecration of a bishop. Luther translated it (*Komm, Gott Schöpfer, Heiliger Geist*, 1524; LW 53:260–62; WA 35:446). Chytraeus's citation shows the hymn was continued in Lutheran usage.
+
+⁵⁴ **σύναφος** (*synaphos*, "joined-together"): rare in classical Greek but a technical Christological term in Chytraeus. His whole definition of the Incarnation follows Chemnitz's *De Duabus Naturis* — cf. II.11 for the *unio personalis* language — and Chalcedon (DS 302): *ἀσυγχύτως, ἀτρέπτως, ἀδιαιρέτως, ἀχωρίστως* ("without confusion, without change, without division, without separation"), transposed into Lutheran-orthodox Latin.
+
+⁵⁵ **Athanasius**, *De Incarnatione Verbi* (PG 25:96–197; SC 199:258–468; ET Robertson NPNF² 4:31–67). The four causes Chytraeus rehearses (God-Man; the ability to die; sanctification of the assumed nature; conquest of the devil by resurrection) map to Athanasius *De Inc.* §§8, 10, 20, 21. The passage is a good example of Chytraeus's easy familiarity with the Cappadocian-Alexandrian Christological tradition.
+
+⁵⁶ Chytraeus's argument that the *Verbum* by which the *imago Dei* was originally imparted is the same *Verbum* by which it is restored — cf. Irenaeus *Adv. Haer.* V.16.2 (PG 7:1167; SC 153:216): *quoniam Verbum Dei factus est homo … per Verbum … utramque similitudinem restituit*. A standard patristic *recapitulatio* argument.
+
+⁵⁷ On Chytraeus's threefold-office (*munus triplex*) Christology — Prophet / Priest / King — cf. his own later *Regulae Vitae* (1598) and, comparatively, Calvin *Institutes* II.15 (though Chytraeus does not name Calvin). The formulation is common Reformation property.
+
+⁵⁸ Chytraeus's fourfold difference between Christ and the saints is aimed pointedly against the cult of the saints. Cf. Melanchthon *Apologia Confessionis Augustanae* XXI, BSELK, pp. 316–29.
+
+⁵⁹ On the *praxis pietatis* as the true differentiator of Christian invocation from Turkish, Jewish, and pagan invocation, cf. Melanchthon *Loci Praecipui* 1559, *De Invocatione*, CR 21:837–43. The category of *Turcae* alongside *Judaei* is standard in 16th-c. anti-Islamic apologetic; Chytraeus knew Melanchthon's edition of the *Alcoran* preface (WA 30.2:198–208 for Luther's parallel *Verlegung des Alcoran*).
+
+⁶⁰ The seven petitions of the **Lord's Prayer** (Matt 6:9–13 = Luke 11:2–4 in the shorter form). On Lutheran-catechetical exposition, cf. Luther *Small Catechism*, Third Chief Part (BSELK, pp. 872–76); *Large Catechism* III (BSELK, pp. 1078–1122).
+
+⁶¹ Chytraeus's closing distinction — Christian invocation as *invocatio in nomine Filii* — is a summary of the whole theological logic of Locus I: the Trinity is not a speculative doctrine but the objective structure of Christian *praxis pietatis*. Compare Luther *WA* 26:505–9 (1528 *Vom Abendmahl Christi, Bekenntnis*): *"Wenn ich die drey Person nicht recht kenne, so kenne ich Gott nicht recht, ja ich kenne den rechten Gott gar nicht."*
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
@@ -515,7 +803,7 @@ These uses I have recited, since I see that adolescents, either by shame or by p
 
 *Terms preserved in Latin (or Greek) in the body of the translation, with their English gloss.*
 
-———  ✦  ———
+— ❦ —
 
 **agnitio Dei** — Acknowledgement / knowledge of God. Not mere information (*notitia*) about God, but the reverent recognition of God as God, which issues in worship. Standard technical distinction across Lutheran orthodoxy.
 
@@ -611,8 +899,60 @@ These uses I have recited, since I see that adolescents, either by shame or by p
 
 **verbum Dei** — The Word of God.
 
-———  ✦  ———
+— ❦ —
 
-*End of Chapter 1. Locus I — De Vera Dei Agnitione — follows in the next working session.*
+*Additional entries from Locus I:*
 
-*The Scholastic Lutherans · Bishoftu · 2026*
+**Symbolum Apostolicum** — The Apostles' Creed. In Chytraeus's usage, the *simplicissima et prima forma doctrinae de Deo* — the pedagogical priority-form for children's catechesis. The Nicene enters at the confessional-doctrinal level.
+
+**essentia Dei** — The essence of God. Chytraeus's brief list of attributes (*spiritualis, aeterna, vera, sapiens, bona, misericors, omnipotens*) is deliberately compact — a summary that anticipates the fuller scholastic-Lutheran treatment (Gerhard *Loci* II).
+
+**persona (Boethian definition)** — Person. *Individua substantia intelligens, incommunicabilis, non sustentata in alio.* Chytraeus's expansion of Boethius (*naturae rationabilis individua substantia*) with the Thomist qualifiers *incommunicabilis* and *non sustentata in alio* — making the definition precise for Trinitarian and Christological use.
+
+**fundamentum totius doctrinae Theologicae** — The foundation of the whole theological doctrine. Chytraeus's most compact statement of the Lutheran *Sola Scriptura*: nothing about God's essence or will is to be thought or taught except as He has revealed Himself in the Word delivered through the Prophets and Apostles.
+
+**Λόγος / Verbum** — Word. In the double aspect Chytraeus articulates: *respectu Patris* (the Son as the substantial Image of the Father) and *respectu nostri* (the Son as the One who speaks the promise of the Gospel and is efficacious in His Word).
+
+**imago Patris (substantialis et integra)** — The substantial and integral Image of the Father. The Son as *imago consubstantialis* — distinguished from the *imago Dei* in man (an accidental created likeness, capable of loss and restoration).
+
+**ὁμοούσιον** (*homoousion*) — Of the same substance. The Nicene-Constantinopolitan term. Chytraeus applies it to the Holy Spirit as well as to the Son, following the pattern of the Athanasian *Ep. ad Serapionem*.
+
+**Πνεῦμα ἅγιον** — Holy Spirit. Chytraeus's account of the Spirit's *processio* is Filioquist (Western, *a Patre Filioque*) — the settled Lutheran doctrine, articulated against the Reformed and confirmed at the Formula of Concord.
+
+**incarnatio (Filii Dei)** — The Incarnation of the Son of God. Chytraeus's definition — *unio personalis duarum naturarum* — is Chalcedonian and closely tracks Chemnitz *De Duabus Naturis*.
+
+**unio personalis** — Personal Union. The Chalcedonian union of the two natures of Christ in one Person. Preserved untranslated on formal Christological occurrence.
+
+**assumptio naturae humanae** — Assumption of human nature. The one-way movement: the Son of God takes to Himself human nature; not the reverse.
+
+**Emmanuel — four causes** — Chytraeus's four-fold explanation of the name *Emmanuel* (Isa 7:14, Matt 1:23): (1) assumption of our nature; (2) intercession and price of redemption; (3) indwelling by faith; (4) presence in perils and death.
+
+**σύναφος** (*synaphos*) — Joined-together. Chytraeus's Greek Christological adjective for the Emmanuel-union — rare in classical usage but functional in his Christological register.
+
+**σύγγενος** (*syngenos*) — Kindred, related by kind. Applied to Christ as *flesh of our flesh, bone of our bones*, in the assumption of our nature.
+
+**ὁμογενής** (*homogenēs*) — Of the same kind. Applied to Christ as sanctifier of the assumed nature.
+
+**Mediator** — Mediator. Chytraeus's definition (the Person set between angered God and guilty man, who satisfies divine justice, sustains wrath and punishment, pleads for us, applies His merits, and hears our prayers) is Anselmic-scholastic in structure and confessionally Lutheran in idiom.
+
+**satisfactio (divinae iustitiae)** — Satisfaction (of divine justice). Anselmic doctrine of the atonement as received by Lutheran orthodoxy through Melanchthon.
+
+**munus triplex Christi** — The threefold office of Christ (implicit in Chytraeus's Locus I § 16): Prophet (revealing the Father through the Gospel), Priest (interceding and satisfying), King (governing and defending the Church).
+
+**gemination officii** — The doubling of office (implicit in the § 17 four-difference passage): what is done in one way by Christ (efficaciter *propria potentia*) is done in another way by the saints (only *ministri verbi et sacramentorum*).
+
+**praxis pietatis** — The practice of piety. Chytraeus's identifier of the true Church of God: not doctrine as speculation but doctrine as invocation, gratitude, and obedience.
+
+**invocatio Dei (vera)** — True Invocation of God. Chytraeus's definition centres it on (i) address to the true trinitarian God, (ii) knowledge of the promise, (iii) confidence of hearing on account of Christ the Mediator.
+
+**partes invocationis** — Parts of Invocation. Chytraeus's six: *compellatio, cogitatio mandatorum, poenitentia seu confessio, consideratio promissionis, fides, commemoratio*.
+
+**paracletus** — Comforter, Paraclete. The Johannine title of the Holy Spirit (John 14:16, 26; 15:26; 16:7). Preserved on formal Trinitarian occurrence.
+
+**septem petitiones** — The seven petitions of the Lord's Prayer (Matt 6:9–13).
+
+— ❦ —
+
+*End of Chapter 1 and Locus I. Locus II — De Creatione Mundi et Angelorum et Hominum — follows in the next working session.*
+
+*The Scholastic Lutherans · 2026*
