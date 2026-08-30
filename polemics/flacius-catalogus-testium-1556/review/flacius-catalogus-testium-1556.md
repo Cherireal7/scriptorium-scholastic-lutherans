@@ -1322,7 +1322,48 @@ Closing: *"Nemo sine castimonia non tantum in uirginali flore, sed etiam in coni
 
 **Claudius Altisidiorensis**, seu Claudius Clemens Scotus, floruit circa 800 annum, uir eruditus, pius ac prudens, eoq[ue] Carolo Magno pergratus.³⁹⁸ Fuit unus ex praecipuis Parisiensis scholae instauratoribus, diuq[ue] in ea docuit. Is acriter una cum Adalberto Gallo, teste Baleo, restitit Bonifacio (qui alioqui Germano-…
 
-*[Claudius entry continues on `vl0113`; staged for the next Tranche 2 session.]*
+…norum **Apostolus** is-called) with-writing also-of-a-book against him. Antichristianissimum enim potius quàm Christianismum in Germania erigebat.
+
+**Ac uicissim cum suo socio à Bonifacio plurima est passus, et tanquam haereticus uterq[ue] etiam à Papa excommunicatus.** Oppugnauit autem potissimum **coelibatum Papisticum, primatum Papae, reliquiarum et imaginum cultum**, aliasq[ue] Papae imposturas: inter alia quoq[ue], quòd Papa sibi ius deponendi reges, soluendiq[ue] iuramento fidelitatis subditos, usurpabat. Nam eo tempore transtulerat Papa regnum ab antiqua Merouorum familia, ad Carolum. Factus tandem in extremo senio episcopus Altisidiorensis. Adalbertus autem in Fuldensis monasterij carcere computruit. Facit et **Nauclerus** predictorum duorum mentionem. Opinor eundem esse cum **Claudio Taurinensi**, qui quòd crucem adorandam esse non putauit, & reseos à Papistis danatur: faciã eius infrà mentionem.³⁹⁹
+
+## Alachis regulus Longobardorum
+
+### *Alachis, King of the Lombards* — vl0113–vl0114
+
+**Multi tum boni, tum magni uiri, spurcissimam Longo iam tempore spiritualium uitam magnopere detestati sunt.** Lepida tamen in primis historia de **Alachi Longobardorum regulo** narratur, ad quem cum prope Ticinum ab episcopo diaconus esset missus, cupereto[que], ut se à pede intromitti, respondit Alachis, Patere ei accessum. Si modò foemoralia haberet munda, affirmantiq[ue] diacono, se munda habere, quippe qui nuper lota induerit; declarauit, se non de subligari loqui, sed de eo quod intus est, & continere-…⁴⁰⁰
+
+…tur. Idem, cum contra eum spirituales bellum ex citassent, ac insuper sacrificulus quidam armis ducis suae partis ab Alachi provocatus, indutus ab eo, occisus, agnitusque, esset, uehementius indignatus uouit, si uicerit, se integrum puteum clericorum testiculis impleturum. Ita longissimo tempore iam nulli sano non summè exosus fuit impurissimus iste spiritualium coelibatus. Quippe cum illi, praesertim in Italia, teste diuo Ulrico, iam olim se non tantum non à masculorum & cognatarum, sed etiam nec à pecorum quidem commixtione abstinuerint. Vixit autem Alachis fermè ante 1000 annos.⁴⁰¹
+
+## Prophetia, Gallorum leuitas &c
+
+### *A Prophecy on the Levity of the Gauls* — vl0114–vl0115
+
+**Vulgò habetur et celebratur prophetia quaedam**, cuius initium est, *Gallorum leuitas*, &c. Ea praedicit, Caesarem quendam latè ac longè regnaturum, eiusq[ue]; tempore cessaturam gloriam uani cleri. Sic enim inquit:
+
+> *Caesar regnabit ubiq[ue],*
+> *Sub quo tunc uani cessabit gloria cleri.*⁴⁰²
+
+Intelligit de Papistico clero, seu de spiritualibus Papisticis, quod experientia testatur. Nam ipsi nunc regnante latissimè Carolo V, nõnihil in ordinem rediguntur. Vocat autem Papisticum clerum, uanum clerum, haud dubiè non tantum propter uitae turpitudinem, sed & in primis propter uanitatem religionis, cuius ministri fuerunt. Quare hic non hominis qualiscunq[ue] testimonium habemus, de Papistica religionis uanitate: sed eiusmodi hominis, qui etiam longius prospicere caeteris mortalibus, atq[ue] adeò futura Dei spiritu praeuidere potuit. Aliqui tribuunt hanc prophetiam **D. Brigittae**. Multi certè testatur inueniri eam in ualdè uetustis exemplaribus. Credo ut minimum ante centum, si non ante ducentos annos, compositam esse.⁴⁰³
+
+## Sydonius Apollinaris
+
+### *Sidonius Apollinaris* — vl0115
+
+**Sydonius Apollinaris episcopus Gallicus**, queritur in quodam scripto, ambitione & auaritia episcoporum Christianitatem in ingentes calamitates adduci.⁴⁰⁴
+
+## Michael Palaeologus Imp.
+
+### *Emperor Michael VIII Palaeologus* — vl0115
+
+**Michael Palaeologus, Imperator Constantinopolitanus**, imperauit circa annum Domini 860 [rectius 1260].⁴⁰⁵ Is scripsit quandam epistolam ad **Papam Nicolaum primum**, quod scias: & quantum ex responsione Papae coniicere licet, fuit satis liberalis: ac potissimum *primatum Papae commentitium* tum ex uerbo Dei, tum ex patribus & concilijs, denique etiam historijs refutauit. Hortatus etiam est eadem epistola Papam ad studium concordiae, deponendumq[ue] illam immensam ambitionem, & tyrannidis affectationem. Papa contra prolixè & superbè declamitat, nullo tamen firmo argumento uel sua communit, uel aduersarium refutat. Vtinam illa Imperatoris epistola extaret: sed non sine causa eam Papistae suppressserunt. Audio hunc Imperatorem etiam contra idololatriam imaginum scripsisse.⁴⁰⁶
+
+## Bonifacius Germanorum Apostolus
+
+### *Boniface, Apostle of the Germans* — vl0115+
+
+**Hunc Bonifacium à multis Germanorum Apostolum dictum, non eò meo catalogo insero, quòd ipse**…⁴⁰⁷
+
+*[Boniface entry continues on `vl0116`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2297,6 +2338,34 @@ Closing: *"Nemo sine castimonia non tantum in uirginali flore, sed etiam in coni
 ## From the Catalogue — Claudius Altisidiorensis (vl0112+)
 
 **³⁹⁸** **Claudius Clemens Scotus** (or *Clemens Scottus*, c. 780 – c. 830), Irish scholar at Charlemagne's court, teacher at the Palace School under Louis the Pious, disputed against Boniface's Anglo-Roman ceremonial impositions in Germany. Flacius conflates or associates him with **Claudius of Turin** (†c. 827), Bishop of Turin whose anti-image-cult writings made him the great Carolingian-era iconoclast — Reformation-standard pre-Reformation witness against image-veneration. The two Claudii are often confused in medieval and Reformation sources.
+
+**³⁹⁹** **Adalbert of Wetterau** (fl. c. 745), Gallic bishop condemned along with Clement the Scot at the Roman Synod of 745 under Pope Zacharias, for anti-hierarchical and possibly anti-image doctrines. Both were imprisoned; Adalbert reportedly died in the Fulda monastery prison. The Boniface–Zacharias correspondence on their case is preserved in the *Codex Carolinus* (PL 89:697). Flacius reads the Adalbert-Clement pair as Carolingian-era proto-Reformers persecuted by Anglo-Roman-monastic conformism, and rightly links Claudius Clemens to Claudius of Turin. **Papal deposition-and-transfer of the Merovingian dynasty** to Pippin the Short (751, sanctioned by Zacharias) is Flacius's target: Zacharias's *ius deponendi reges* claim later became the foundation of Innocent IV's *plenitudo potestatis*.
+
+## From the Catalogue — Alachis (vl0113–vl0114)
+
+**⁴⁰⁰** **Alachis, Duke of Trent and Brescia** (fl. c. 688 – 689), Lombard nobleman who briefly seized the Lombard kingdom against King Cunincpert. Preserved in **Paul the Deacon, *Historia Langobardorum* V.36–41** (PL 95:606). Flacius's *lepida historia* (charming story) — the deacon-messenger asking to kiss Alachis's feet, Alachis's demand that first the *foemoralia* (undergarments) be clean, meaning not physical but *interior* purity — is a proto-Reformation parable of inward-vs-external piety, applied to Roman clerical corruption.
+
+**⁴⁰¹** The **testicles-in-well** vow — Alachis's threat to fill a well with clerical testicles if he won the war — is preserved in Paul the Deacon as historical fact. Flacius's use is anti-clerical shock-value; the *fermè ante 1000 annos* dating places Alachis c. 688 (a rounded 800+ years before 1556).
+
+## From the Catalogue — Prophetia (vl0114–vl0115)
+
+**⁴⁰²** **The *Gallorum leuitas* prophecy** — a 13th–14th-c. apocalyptic Latin verse-oracle circulating in late-medieval manuscripts, sometimes attributed to **St Bridget of Sweden** (1303–1373) whose *Revelationes* were widely read. The verse predicts a universal Caesar (usually read as **Charles V** in 16th-c. Reformation reception) under whom the vain-clergy's glory shall cease. Flacius reads the prophecy as *ex ore proprio* pre-Reformation apocalyptic witness against the Papacy.
+
+**⁴⁰³** **St Bridget of Sweden** (1303–1373) — mystic and founder of the Bridgettine order, whose *Revelationes coelestes* contain strong anti-papal apocalyptic material despite Bridget's canonization (1391). Reformation polemicists frequently invoked Bridget's *Revelationes* as pre-Reformation Roman-Catholic witness against papal corruption.
+
+## From the Catalogue — Sydonius Apollinaris (vl0115)
+
+**⁴⁰⁴** **Sidonius Apollinaris** (c. 430 – c. 489), Gallo-Roman aristocrat, prefect of Rome (468), Bishop of Clermont from c. 470, poet and letter-writer whose *Epistulae* preserve 5th-c. Gallo-Roman ecclesiastical culture. Flacius's brief cross-reference to Sidonius on episcopal ambition and avarice is a compact citation; Sidonius is a substantial patristic-era witness in his own right, but Flacius here treats him as a supporting-note only.
+
+## From the Catalogue — Michael Palaeologus (vl0115)
+
+**⁴⁰⁵** **Michael VIII Palaeologus** (r. 1259–1282), the Byzantine emperor who recaptured Constantinople from the Latin crusaders (1261), founding the Palaeologan dynasty. Flacius's dating "c. 860" is a Latin typo for "c. 1260" — the temporal setting is the mid-13th c., not the 9th. The correspondent was **Pope Nicholas III** (r. 1277–1280), not Nicholas I — another Latin transcription slip.
+
+**⁴⁰⁶** **The Michael-Palaeologus-to-Nicholas-III correspondence** — the Byzantine emperor's letter refuting Roman papal primacy from scripture, Fathers, councils, and history. Preserved fragmentarily in Byzantine sources; the Roman response (Nicholas III's *Fideli ac devoto*, 1278) is fully extant. Flacius laments that the emperor's letter itself is suppressed — a Reformation-standard charge of Roman documentary suppression of anti-primatial witnesses.
+
+## From the Catalogue — Bonifacius (vl0115+)
+
+**⁴⁰⁷** **St Boniface** (Winfrid, c. 675 – 754), *Apostolus Germanorum*, the Anglo-Saxon missionary who Christianised Frisia and central Germany under papal commission. His extensive correspondence (preserved in the *Epistolae Bonifatii*, PL 89) shows both his conversion-labour and his imposition of Anglo-Roman-monastic conformism on the German churches. Flacius includes him ambivalently — Boniface accomplished Christian conversion, but also opposed the Carolingian-era anti-Roman reformers (Adalbert and Clement the Scot, glossed at endnote 399). The entry continues on the next page.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

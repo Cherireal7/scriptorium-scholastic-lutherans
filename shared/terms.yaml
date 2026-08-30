@@ -3799,13 +3799,72 @@ claudius_altisidiorensis:
     two Claudii commonly confused in medieval and Reformation sources.
     Standard pre-Reformation anti-image-veneration witness.
 
+# ─── Tranche 2w — Claudius-tail + Alachis + Prophetia + Michael Pal ────
+
+adalbert_wetterau:
+  english: Adalbert of Wetterau (Carolingian anti-Roman reformer)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Claudius tail at vl0113"
+  note: >
+    Gallic bishop condemned with Clement the Scot at Roman Synod 745
+    under Zacharias for anti-hierarchical + possibly anti-image
+    doctrines. Died in Fulda monastery prison. Boniface-Zacharias
+    correspondence Codex Carolinus PL 89:697. Flacius reads pair as
+    Carolingian-era proto-Reformers persecuted by Anglo-Roman conformism.
+
+alachis_ticinum:
+  english: Alachis of Trent — interior-vs-external piety parable
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Alachis at vl0113"
+  note: >
+    Alachis Duke of Trent+Brescia fl. c. 688-689 per Paul the Deacon
+    Historia Langobardorum V.36-41 (PL 95:606). Deacon asked to kiss
+    Alachis's feet, Alachis demanded clean foemoralia meaning INTERIOR
+    purity — proto-Reformation parable of inward-vs-external piety.
+    Also testicles-in-well vow anti-clerical shock.
+
+gallorum_leuitas_prophetia:
+  english: Gallorum leuitas prophecy (medieval Latin verse-oracle)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Prophetia at vl0114"
+  note: >
+    13th-14th c apocalyptic Latin verse-oracle circulating in late-
+    medieval manuscripts sometimes attributed to St Bridget of Sweden
+    1303-1373 Revelationes coelestes. Predicts universal Caesar under
+    whom vain-clergy's glory ceases (read in 16th c as Charles V).
+    Flacius reads as ex-ore-proprio pre-Reformation apocalyptic witness.
+
+michael_palaeologus_ep:
+  english: Michael VIII Palaeologus letter to Nicholas III (c. 1278)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Michael Palaeologus at vl0115"
+  note: >
+    Byzantine emperor Michael VIII r. 1259-1282 (recaptured Constan-
+    tinople from Latin crusaders 1261, founded Palaeologan dynasty)
+    letter to Pope Nicholas III r. 1277-1280 refuting Roman primacy
+    from scripture+Fathers+councils+history. Preserved fragmentarily
+    in Byzantine sources; Roman response Nicholas III Fideli ac
+    devoto 1278 fully extant. Flacius laments emperor's letter
+    suppressed = Reformation charge of Roman documentary suppression.
+
+boniface_apostolus:
+  english: Boniface Apostle of Germans (ambivalent inclusion)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Bonifacius at vl0115"
+  note: >
+    St Boniface/Winfrid c. 675-754 Anglo-Saxon missionary Christianised
+    Frisia + central Germany under papal commission. Epistolae Bonifatii
+    PL 89. Flacius includes ambivalently — accomplished conversion but
+    also opposed Carolingian-era anti-Roman reformers (Adalbert +
+    Clement Scot).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Claudius opening (vl0001-vl0112, 112
-# body pp + 32 paratexts ≈ 20.5% of 1094-pp body). Flacius lemma total:
+# FLACIUS 1556 — TRANCHE 2 through Bonifacius opening (vl0001-vl0115, 115
+# body pp + 32 paratexts ≈ 21% of 1094-pp body). Flacius lemma total:
 # 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
 # 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
 # 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) = 123.
+# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) = 128.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
