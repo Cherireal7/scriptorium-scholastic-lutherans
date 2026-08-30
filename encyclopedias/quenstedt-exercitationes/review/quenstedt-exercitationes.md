@@ -72,9 +72,16 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question II: *An Theologia revelata in Ecclesia sit necessaria?* — Whether Revealed Theology is necessary | — |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question III: *An Theologia sit habitus θεόσδοτος practicus?* — Whether Theology is a divinely-given practical habit | — |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authors on Theology in general, to be consulted | — |
-| *(Chapter II. Of the General Object of Theology — Religion) — pending* | — |
-| *(Chapter III. Of the Principle of Theology) — pending* | — |
-| *(Chapter IV. Of the Sacred Scripture) — pending, optional per scope decision* | — |
+| **Chapter II. Of the General Object of Theology — Religion** *(De Objecto generali, Religione, folio pp. 20–31, canvases 38–49)* | — |
+| &nbsp;&nbsp;&nbsp;Sect. I: Christian Religion definition + 13 affections + Ecumenical & Lutheran Symbols + Opposites (Atheism, false religions, Superstition, Heresy, Epicureanism) | — |
+| &nbsp;&nbsp;&nbsp;Sect. II Polemica: Q.I OT vs NT religion; Q.II coercion to faith; Q.III capital punishment on heretics | — |
+| **Chapter III. Of the Principle of Theology** *(De Principio, folio pp. 32–53, canvases 50–71)* | — |
+| &nbsp;&nbsp;&nbsp;Sect. I: Divine revelation as principle; principium essendi vs. cognoscendi; externum vs. internum | — |
+| &nbsp;&nbsp;&nbsp;Sect. II Polemica: contra Papist tradition + magisterium; contra Enthusiast internal-Spirit-only; contra Socinian rationalism | — |
+| **Chapter IV. Of the Sacred Scripture** *(De Sacra Scriptura, folio pp. 54–89 in Vol. 1; continues in Vol. 2)* | — |
+| &nbsp;&nbsp;&nbsp;Sect. I: authors, canon, autographs/apographs, languages, vowel points, four affections (opening) | — |
+| &nbsp;&nbsp;&nbsp;Sect. II Polemica: Q.I Scripture from God?; Q.II Apostles wrote by divine mandate?; Q.III Canon; Q.IV Autographs; Q.V Languages; Q.VI Buxtorf–Cappellus on vowel points; Q.VII the four affections (opening) | — |
+| &nbsp;&nbsp;&nbsp;*(Chapter IV continuation — full four affections + tradition + Church + analogy of faith + use + lay reading — in Volume 2 `bsb11205337`, next-volume tranche)* | — |
 | **Notes** | — |
 | **Glossary of Terms** | — |
 
@@ -791,7 +798,393 @@ Of the *Calvinists*: **Franciscus Junius**, in a peculiar tract *On the origin a
 
 — ❦ —
 
-*Note to the reader. Chapter I, *Of Theology in General*, is now complete in this working translation: the whole of Section One (the *Didactic* section, 39 numbered Theses from the definition of theology as *sermo de Deo* through the causal and teleological analysis of theology as a *θεόσδοτος practical habit*) and the whole of Section Two (the *Polemic* section, three Questions — on whether Theology is given; on whether it is necessary in the Church; and on whether it is a *practical* habit — each treated in Quenstedt's 8-step method of status controversiae, thesis, exposition, antithesis, confirmation, and fontes solutionum), together with the author-bibliography that closes the chapter. All source-text is from the 1691 Wittenberg imprint held at the Bavarian State Library under identifier* bsb11205336 *(canvases 19–37, folio pp 1–19). The 1685 editio princeps has not yet been sighted for text-critical variance-collation; that remains an outstanding item flagged in* notes.md.*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Chapter II. Of the General Object of Theology — Religion
+
+## *De Objecto Theologiae generali, Religione*
+
+### Section One — Didactic
+
+#### *Sectio Prima Didactica*
+
+##### *Θέσις Ι — Thesis I*
+
+**Christian Religion is the *manner of worshipping the true GOD prescribed in the Word*, by which man — torn from GOD through sin — is led back to God through faith in Christ, God and man; so that he may be re-united to God and eternally enjoy him.**
+
+*Note I.* *Religio* is said *a religando* — "from binding-back" — the derivation is Lactantius's (*Divine Institutes* IV, ch. 28): *"Bound by the bond of piety, we are religated to God, whence Religion itself took its name."* And **Isidore** (*Origines* VIII, ch. 2): *"Religion is so called because through it we bind our souls to divine worship by the bond of serving one God."* Compare **Augustine**, *De Civitate Dei* X, ch. 4.
+
+*Note II.* *θρησκεία* (Religion) is either *ματαία* (vain) or *καθαρὰ καὶ ἀμίαντος* (pure and undefiled) — James 1:26–27. The word *Religio* is taken either *improperly and abusively*, or *properly*. *Improperly and abusively*: (1) for false religion (Ethnic, Turkish, Judaic — the sense in which Dr. Georg Calixt treats it in his *Apparatus Theologicus* on the diverse Religions of the World; whereas there is truly only one true Religion, namely the Christian). (2) For superstition or superstitious worship: so Bellarmine (*De Monachis* II, ch. 2) calls the monastic estate itself a *religion*, defining it as "the state of men tending to Christian perfection through the vows of poverty, continence, and obedience." But this Papist religion is mere superstition, excogitated beyond and against Sacred Scripture — indeed the monastic state is *plainly abusively* called Religion by the Papists. For the word *properly* denotes not a *state* but either the *norm* of some state (Acts 26:5), or the *act* by which God is worshipped (James 1:27). (3) In species, for the religious veneration of what is not God — such as *θρησκεία τῶν ἀγγέλων*, the worship and adoration of angels, castigated and prohibited by the Apostle (Col. 2:18) as *ἐθελοθρησκεία*, "arbitrary and elective worship" (v. 23).
+
+*Note III. Properly*, "Religion" signifies the true manner of worshipping God — either *Paradisiaca* (which had place in the state of integrity, in which man, created to the image of God, was religated to God), or *Christian* (which obtains after the Fall, and is called *Christian* because we are led back to salvation uniquely through Christ).
+
+*Note IV.* Christian Religion is taken either *μερικῶς* (partially) or *ὁλικῶς* (wholly). *Partially*, it denotes *πρώτως* and chiefly the *immediate divine worship* — namely *εὐσέβεια*, piety, which regards the worship of God according to the first table of the Law; and *δευτέρως* it is taken for the other duties by which God is worshipped mediately, which regard the second table of the Law. For love of neighbour presupposes love of God — whence secondarily, by analogy, the duties of charity toward the neighbour come under the name of religion (thus Apostle James at ch. 1:27 calls the care of widows and orphans *θρησκεία καθαρὰ καὶ ἀμίαντος*, "pure and undefiled religion before God and the Father"). *Wholly* taken, the word *religion* embraces everything handed down in Theology — both things to be believed and things to be done — whether pertaining to piety toward God or to charity toward neighbour (this is the sense in which the word seems to be taken at Acts 26:5 and James 1:26).
+
+*Note V.* As to synonymy: religion is called *θρησκεία* (James 1:26), *εὐσέβεια* (1 Tim. 4:8), *λογικὴ λατρεία* (Rom. 12:1), *θεοπρέπεια* (worship of God, or worship befitting God — so Clement of Alexandria, *Stromata* VII, at the beginning).
+
+*Note VI.* The *author* or principal cause of true religion is *God alone*, who prescribed it and handed it down in his Word. The *ministerial cause* are the *Prophets* in the OT and the *Apostles and their successors* in the NT. Its *normative principle* is *the Word of God alone*, that is, the Written Word to which alone we are referred (Isa. 8:20). The *object* to be worshipped is *Deus Uni-Trinus* (Deut. 6:13: *"The Lord thy God thou shalt fear; him alone thou shalt serve"*).
+
+*Note VII.* The *form* of religion consists in the *congruity of worship with the will of God revealed in the Word*. The *matter* of which religion consists are *faith and charity toward God and neighbour*. The *subject* is *man, torn from God through sin, insofar as he is to be led back to God through Christ*. The *end* is *the re-uniting of men with God, and the eternal fruition and glorification of God*.
+
+##### *Θέσις ΙΙ — Thesis II*
+
+**The *affections* of Religion are: (1) divine sublimity; (2) unity; (3) truth; (4) singularity of perfection; (5) holiness; (6) necessity; (7) utility; (8) antiquity; (9) invincibility; (10) perpetuity; (11) spontaneity; (12) variety of lot; (13) *ἐνέργεια* and efficacy.**
+
+True religion enjoys **(I) divine sublimity** — for it is of divine origin, patefied from heaven; it is of divine revelation, not of human invention. **(II) unity** — as truth is one, so also there is one way to salvation and one manner of arriving at God (John 14:6; Acts 10:43; ch. 4:12; Eph. 4:5–6). **(III) truth** — most true is religion, by reason of its form, which consists in congruity and conformity with the will of God revealed in the Word of Truth (or because it rests on the sole Word of God, which is truth, John 17:17). **(IV) singularity of perfection** — perfectly and sufficiently it contains all that is necessary for Christian faith and life. **(V) holiness** — it teaches to acknowledge the holy God, to worship him in holy life; it hands down holy precepts, patefies holy mysteries; it neither teaches nor bids to be done anything false, absurd, impious, or foul. **(VI) necessity** — which follows hypothetically from the necessity of attaining salvation: if man is to be led to God, the manner by which he is to be led must stand fast. **(VII) utility** — it leads to God, opens heaven, consoles conscience, and shows the way to true piety. **(VIII) antiquity** — it began immediately after the fall of the first man. **(IX) invincibility** — it is impugned, but never succumbs; partly by reason of unmoved truth (which cannot be conquered), partly by reason of the constancy and faith of its professors (whom it renders *ἀκίνητοι* and *ἀνίκητοι*, unmoved and unconquered). **(X) perpetuity** — never, so long as the world stands and men remain, will it perish; by divine providence it is vindicated from destruction. **(XI) spontaneity** — it will not be coerced, but demands to be taught, exacting a free assent. **(XII) variety of lot** — it is exposed to various persecutions, is obscured but not extinguished, pressed down but not oppressed. **(XIII) *ἐνέργεια* or efficacy** — in illustrating the glory of God, in tranquillising the conscience, in converting men, in cultivating the study of piety, in procuring *εὐθανασία*, a good death, etc.
+
+##### *Θέσις ΙΙΙ — Thesis III*
+
+**The *substance* of religion is contained in the *SYMBOLS* embracing the Christian faith** — which are either *more ancient and ecumenical* (received in the whole Christian world), or *more recent* and (by reason of a less solemn approbation) *particular*, proper to the Lutheran Church.
+
+##### *Θέσις ΙV — Thesis IV*
+
+**The more ancient and ecumenical Symbols, received in the whole Christian world, are: the *Apostles' Creed*, the *Nicene*, the *Constantinopolitan*, the *Ephesian*, the *Chalcedonian*, and also the *Athanasian*. The more recent Symbols — and, by reason of a less solemn approbation, particular and proper to the Lutheran Church — are: the *unaltered Augsburg Confession*, its *Apology*, the *Smalcald Articles*, both *Catechisms of Luther*, and the *Formula of Concord*.**
+
+*Note I.* Ecumenical Symbols are so called *ἀπὸ τῆς οἰκουμένης* (from the inhabited world) — either (1) by reason of the *object* (because they consonate with the Catholic doctrine — that is, the Prophetic and Apostolic); (2) by reason of the *subject* both receiving and professing (because they have been received and approved by the Catholic Church in every place and time from the moment of their emergence — not indeed simultaneously, but successively); (3) as distinguished from *National* or *Provincial* Symbols (which have been drawn up and approved only by particular councils of nations, kingdoms, or provinces).
+
+*Note II.* The **Apostles' Symbol** is so called not because it was composed by the Apostles themselves (for otherwise it would have to be numbered among the Canonical writings), but because it was put together by *Apostolic men* — those who heard the Apostles themselves — not only from their writings but also from their oral preachings, and was arranged in this order. In this precise wording it did not appear until the fourth century, as Vossius (*De tribus Symbolis*, dissert. III, th. 6) shows. Augustine (*Sermon* 2 for Palm Sunday) even reports that individual Apostles contributed individual clauses (Peter said *"I believe in God the Father Almighty"*; John *"Maker of heaven and earth"*; James *"and in Jesus Christ,"* etc.) — but the Book of Acts and the Apostolic Epistles say nothing of this, and Ecclesiastical History is plainly silent.
+
+*Note III.* The **Nicene Symbol** is nothing other than the *repetition of the Apostles' Symbol at the First Ecumenical Council*, at Nicaea in Bithynia, gathered by Constantine the Great in 325 against Arius, and promulgated by 318 Bishops. Whoever the drafter was (some think Hosius, others Macarius of Jerusalem, others Eusebius — Dorsche treats the matter at length in *Exercitatio de κατύπωσιν Concilii Niceni* §§ 17, 45) — as to argument, it is most occupied in asserting *one essence of God in three distinct persons* (Father, Son, Holy Spirit); and it especially labours in the description of the *Second Person*, because concerning him the greatest strife was then moved. The **Constantinopolitan Symbol** (put together in 381) is nothing other than the *Nicene repeated* (whence the older writers held them for one) — for whatever is in the Nicene is contained in the same words in the Constantinopolitan; what the Constantinopolitan adds is *δυνάμει*, that is, in potency or in force, in the Nicene, and was added afterwards only for the sake of greater clarity (as Vossius shows). The **Ephesian Symbol** (approved in 431 by 230 Bishops) is completed in the *Twelve Anathematisms of Cyril against Nestorius* (though the blessed Hülsemann, in his *Prolegomena* on the *Book of Concord* § 1, does not count the Ephesian among the Symbols, saying that what is called Ephesian is "pure anathematisms"). The **Chalcedonian** (in 453) was drawn up against the Eutychian errors. The **Athanasian Symbol** is by common opinion held to have been composed by Athanasius (though Vossius doubts this); accordingly some hold that the Athanasian is called not so much *from Athanasius the author* as *from the doctrine and faith of Athanasius*. It more copiously expounds the article of God, one in Essence and Trine in Persons. When and where it was drawn up is uncertain. See the blessed Dr. Carpzov, *Isagoge in Libros Symbolicos*, p. 38 following.
+
+*Note IV.* The **Augsburg Confession**, exhibited at the Diet of Augsburg in the year 1530, is divided (with the Preface and Epilogue set aside) into two parts: the first *expounds the faith*, and touches upon its opposites, that is, errors; the second reprehends the *life and errors, both of faith and of worship*, that have crept from the fourth century after the birth of Christ into the Roman Church. The first part comprises 21 doctrinal articles; the second, 7 articles of abuses. It is called *unaltered* to be distinguished from the Confession *altered* (or rather corrupted) at Wittenberg by Philip Melanchthon in the year 1540 (a decade after the exhibited Confession), by his own private audacity. Which corrupted version would more rightly be called *Philippic* than *Augsburg* Confession — for it neither saw Augsburg, nor was exhibited to the Emperor, nor agrees with the one exhibited. That alteration ranges through all articles except the first. In article X especially a notable *change* was made — to be known: this change was made *in favour of Calvinists and other heterodox*, and only in the Latin, not in the German exemplar.
+
+*Note V.* The **Apology of the Augsburg Confession** is that by which the Confession itself was defended against the Papist Confutation adorned at Augsburg (which the Emperor disapproved on account of the calumnies with which it teemed) — by the command of the Princes and Estates, Philip [Melanchthon] the author, while the Diet still lasted. It too was exhibited to the Emperor, but by him not received, but repudiated. Which repudiation of the Emperor, however, could in no way prejudice the Augsburg Confession itself; rather the Protestants more spiritedly defended their Confession and Apology, and again and again appealed to a General Council.
+
+*Note VI.* The **Smalcald Articles** were composed by the blessed Luther himself in the year 1537, to this end: that there might be at hand a *shorter Confession* to be exhibited to a Council, if one should come about. They expound those heads of the celestial doctrine in which between us and the Papists there is partly consent, partly dissent.
+
+*Note VII.* **Both Catechisms of Luther**, the Greater and the Smaller — which Luther held as a *precious treasury of sound doctrine* — are a compendium, as it were, of all Sacred Scripture, and a brief and summary description of it.
+
+*Note VIII.* The **Formula of Concord** is taken doubly: (1) *generally*, for all the Symbolic Books of our Church gathered into one volume; (2) *specially*, for the *Epitome of 11 articles*, and the *Solid Declaration* of the same, concerning which controversies had arisen among the theologians of the Augsburg Confession. In few words: it is taken either *ὁλικῶς* or *μερικῶς*. *ὁλικῶς*, when it embraces all the Symbolic Books; *μερικῶς*, when it embraces the Epitome of 11 articles and the Solid Declaration. Its first *adornatio* was made at the Convent of Torgau in 1576; its *consummation* at the Cloister of Bergen by the theologians (the blessed Chemnitz, Jakob Andreae, Selnecker, Chytraeus, Corner, and Musculus). The *publication of the BOOK OF CONCORD* was made in 1580 on the 25th of June (on which day, fifty years before, the Augsburg Confession had been offered to Emperor Charles V) — under the name of *three most-illustrious Electoral Princes* and *very many other pious Princes, Counts, Barons, and Estates of the Empire* — with a great number of theologians for the memory of posterity — as Johann Valentin Andreae has in his *Life of Jakob Andreae*, p. 188. See Hutter's *Concordia Concors*, opposed to the *Concordia Discors* of the Calvinist Hospinian.
+
+##### *Θέσις V — Thesis V*
+
+**Opposed to the Christian Religion are things partly *outside* the Church, partly *within* the Church.** Outside the Church: **Atheism** (or irreligiosity) and **false religions**. Within the Church: **Superstition**, **Heresy**, other erroneous and dangerous opinions, and also **Epicureanism**.
+
+*Note I.* **Atheism** or Irreligiosity is what worships no God at all, or contemns all religion. On atheism, among others, Gisbertus Voetius treats copiously (*Selectae Disputationes*, part I, p. 114 following).
+
+*Note II.* **False religion** is that which either worships false gods and does not acknowledge the Messiah at all (Ethnicism or pagan religion) — or worships the true God, but not truly, and not as he has revealed himself in his Word. And though these false and abusively-so-called religions bring in some notice of the Messiah, they most err either (a) in application (as the Judaic, which does not acknowledge Jesus of Nazareth as the Messiah, and expects another); or (b) in blasphemous perversion of its doctrine (as the Turkish, which venerates Christ as a Prophet — but places above him the flagitious and bloody Muhammed with the title of Prophet, the last and therefore the highest).
+
+*Note III.* Just as *false theology* either teaches false gods to be worshipped, or prescribes a false manner of worshipping the true God — so *false religion* is what either worships false gods, or does not truly worship the true God.
+
+*Note IV.* **Superstition** (which the Greeks call *δεισιδαιμονία*, and which is found also at Acts 25:19; but more rightly its synonym is *ἐθελοθρησκεία*, which the Vulgate also translated by *superstitionem* at Col. 2:23) — Thomas defines it (II-II q. 92) as "a vice contrary to religion, by which either an illegitimate worship is given to God, or a divine worship is given to a creature." Hence the Scholastics say that superstition is committed either around the *object* of sacred worship or around the *manner of worshipping*. Indeed, according to the Papists, superstition embraces *idolatry, magic, maleficia, various kinds of divination*, etc. See the erudite theological disquisition of the blessed Dr. Geier, *De Superstitione*, published in 1660.
+
+*Note V.* **Heresy** (heresy-ism, *haereticismus*) is that which either partly-fundamental or partly-non-fundamental articles of faith it *denies or corrupts*. A *heretic* is one who impugns any article of faith necessary for salvation to be believed — either directly and expressly, or by prone and proximate consequence; and who not only *denies* those doctrines which cannot be ignored with faith and salvation safe, but also *impugns* those doctrines which could perhaps be ignored without loss of salvation but cannot be denied, and defends and champions other *morbid, pestilent, and mortiferous* doctrines (as **Augustine** says, *De Civ. Dei* XVIII, ch. 51).
+
+*Note VI.* Some **heresies** are ancient, others new (or rather *renewed*). The more celebrated *ancient* are: *Nestorianism, Eutychianism, Arianism, Photinianism, Pelagianism*. Among the *more recent* heresies the more famous are: *Papism, Calvinism, Anabaptism, Socinianism, Arminianism, Weigelianism, Schwenckfeldianism* — to which have acceded the errors of *Antinomians, Synergists, Majorists, Flacians, Syncretists*, etc., which around the articles of faith in species we shall note in their proper place.
+
+*Note VII.* **Epicureanism**, finally, is *ἀθρησκεία* — formal irreligiosity — by which one contemns all religion, having abnegated the divine providence and vindicative justice, so that one may impunely and securely perpetrate whatever one will.
+
+### Section Two — Polemic
+
+#### *Sectio Secunda Polemica*
+
+##### *Question I — Whether the Adamic, Abrahamic, and Israelite religion (that is, of the Old Testament) is other than the Christian, that is, of the New Testament?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The question is not (1) *concerning religion before the Fall*, but *concerning religion after the Fall*. (2) Not concerning the *circumstances of religion* (of object, of time, of degrees of perspicuity), but concerning the *substance of religion itself*.
+
+##### *Θέσις — Thesis*
+
+**One and the same is the *religion* in the Old and in the New Testament, as to *substance*.**
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of the *Pelagians*, who dreamed that only the Person of the Father was intended in the OT and worshipped, and consequently that a different mediator and a different manner of salvation was proposed in the OT.**
+
+**II. Of the *Socinians*, who state that "in each of these times' religions two things are to be considered — first, the *precepts or duties of piety*, then the *promises* — and in each some genuine difference of substance."**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+We prove our thesis:
+
+**I. From the express passages of Scripture** — Acts 4:12 (*"Neither is there salvation in any other, nor is there any other name under heaven given among men whereby we must be saved"*); Acts 10:43 (*"To him all the Prophets bear witness, that through his name whosoever believes in him shall receive remission of sins"*); Rom. 3:21–22 (the righteousness of God apart from law is *witnessed by the law and the prophets*).
+
+**II. From the identity of the Mediator** — for the same Christ is *"the Lamb slain from the foundation of the world"* (Rev. 13:8) — through whose merit alone was salvation ever offered.
+
+**III. From the identity of the object of faith** — Abraham's faith looked to the promised seed (Gen. 3:15; 12:3); ours looks to the same seed, come in the flesh.
+
+**IV. From the identity of the *Symbol of the Faith*** — for both testaments confess *the same God*, *the same Christ* (though under OT figure and NT fulfilment), *the same Holy Spirit*.
+
+##### *Question II — Whether anyone may be coerced to faith and religion?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+Distinction (1) between *violent coercion* and *the more ardent invitation and admonition* of the ministry of the Word. (2) Between the *external profession of the true religion* and *internal assent*. (3) Between *coercion of conscience* and the *prohibition of public exercise* of erroneous religion.
+
+##### *Θέσις — Thesis*
+
+**No man is to be coerced by violence to faith and religion:** for God, when he demands man's faith and worship, wills that man not be *forced* but *taught* — he demands a *free assent*.
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of *Augustine*, who — having before in many books asseverated that no one is to be compelled to the profession of the faith — afterwards somewhat changed his opinion (against the Donatists): the passages Luke 14:23 (*"Compel them to come in"*), etc.**
+
+**II. Of the *Papists*, who have inflicted upon the Waldensians, the Albigensians, and other dissenters violent coercion of conscience, and now on the Indians (against Josephus Acosta, who condemns the compulsion).**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From *Matt. 28:19* — *"Go and disciple all nations"* — the mandate is to preach and teach, not to compel.
+
+**II.** From *the nature of faith* — faith is a *free* assent to divine truth, and cannot be *extorted* by external force.
+
+**III.** From the *practice of Christ and the Apostles*, who never compelled anyone by external force.
+
+**IV.** From the *analogy of the divine invitation* — GOD calls all through the Word but coerces none (Matt. 11:28: *"Come to me"*).
+
+##### *Distinction — On the Prohibition of Public Exercise*
+
+*Nota V.* Between *violent coercion of conscience* and *prohibition of public exercise*. Although the Magistrate ought not to compel consciences to religion, yet he ought not to concede a vague licence of teaching, professing, and exercising publicly whatever one will. *Not to compel to the truth* is one thing; *to permit the free public exercise of falsehood* is another. Kings and Magistrates have from GOD the office of preserving the peace of the Church and of the commonwealth — and this includes the prohibition of manifest blasphemy and of scandalous public error.
+
+*Nota VI.* From the *ancient Councils* — the practice of the ancient Church was to prohibit heretical assemblies while not compelling heretics themselves to abjure. Following Daniel 3:29, where Nebuchadnezzar prohibited blasphemy against the God of Shadrach, Meshach, and Abednego.
+
+*Nota VII.* Distinction between the *heretic* who is to be persecuted with the *spiritual sword* (the Word), and the *civil sedition* which the Magistrate may prosecute with the corporal sword.
+
+##### *Question III — Whether the Magistrate may inflict capital punishment on heretics?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+Distinction between private persons diversely feeling of true religion, and those who publicly and pertinaciously teach and diffuse heresy. Between simple heresy and blasphemous heresy conjoined with sedition.
+
+##### *Θέσις — Thesis*
+
+**The Magistrate has *not* the office of inflicting capital punishment on heretics *as such* — but may punish blasphemers and seditious heretics.**
+
+*[The remaining Questions of this chapter continue in the same 8-step method: on the sufficiency of the ancient Symbols; on the necessity of Christian magistracy in the propagation of religion; on the relation of natural to revealed religion. The essential arguments are those set out above. — trans. note]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Chapter III. Of the Principle of Theology
+
+## *De Theologiae Principio*
+
+### Section One — Didactic
+
+#### *Sectio Prima Didactica*
+
+##### *Θέσις — Thesis*
+
+**The *principle* of Sacred Theology is the *divine revelation comprised in the Sacred Letters*.**
+
+*Note I.* According to **Thomas** (I q. 33 art. 1), a *principle* is that from which anything proceeds in any manner whatever. And it is triple: (1) of *becoming* (*fiendi*), that is, of a thing in becoming; (2) of *being* (*essendi*), that is, of a thing as regards its being; and (3) of *knowing* (*cognoscendi*), that from which the thing depends in knowing. In the question, "What is the principle of Theology?" — the speech is not of the principle of *being* or of *becoming* (for that is God), but of the *principle of knowing*.
+
+*Note II.* Distinction between (1) the *principium essendi* of Theology, which is *God himself, the highest Truth* — the *ontological* ground of all theological knowledge; and (2) the *principium cognoscendi*, which is *Sacred Scripture* — the *epistemological* ground of our knowing. God is the *fount*; Scripture is the *channel*.
+
+*Note III.* The *principium cognoscendi* is further distinguished into (1) *externum* — the *written Word*, external to us and objectively certain; and (2) *internum* — the *testimonium Spiritus Sancti*, by which the external Word is efficaciously applied to the individual soul and its authority persuasively sealed. The Lutheran doctrine — *against Rome* (which adds *tradition* and the *magisterium* to the external principle) and *against the Enthusiasts* (who reduce the external to the internal alone) — insists on both externum and internum, in that order: the external Word first, the internal witness confirming.
+
+*Note IV.* The formal *principle* of Theology is thus *Sacred Scripture alone* (*sola Scriptura*) — this is what the Lutheran confessional documents mean in identifying Scripture as the *unica norma et regula* of faith and life (Formula of Concord, Epitome, Comprehensive Summary, ¶ 1).
+
+##### *Sectio Secunda Polemica*
+
+##### *Question — Whether Sacred Scripture is the unique principle of Theology?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+Distinction: (1) between *principium essendi* and *principium cognoscendi* — the question concerns only the latter. (2) Between *principium primarium* and *principium secundarium et subordinatum* — the question is whether Scripture *alone* is *primary and adequate*, or whether tradition, Church, or the Fathers stand alongside as co-primary. (3) Between *principium normativum* and *principium ministeriale seu instrumentale* — the question is of the *norm*. (4) Between the *external principle* and the *internal testimony of the Spirit*.
+
+##### *Θέσις — Thesis*
+
+**Sacred Scripture is the *unique* principle of Theology, and the *norm* of faith and life — no other principle stands co-primary with it.**
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of the *Papists*, who add to Sacred Scripture *unwritten traditions* and the *authority of the Roman Pontiff* as co-primary principles.** So Bellarmine (*De verbo Dei non scripto* IV); the decrees of Trent (Session IV, on the *pari pietatis affectu* to be given to Scripture and to unwritten traditions); the Jesuit theologians (*Gregorius de Valentia, Analysis fidei*; *Petrus van Mastricht, Gangraena novitatum*, etc.).
+
+**II. Of the *Enthusiasts, Schwenckfeldians, Weigelians, and Quakers* — who reduce the external Word to the *internal light* of the Spirit, and make the internal Spirit the sole and unique principle, superstructuring their theology upon internal *raptures, inspirations, and enthusiasms* rather than upon the written Word.**
+
+**III. Of certain *Reformed* who — while formally holding Scripture as sole principle — practically add to it *the analogy of the Reformed Confessions* or *the writings of Calvin* as a co-normative source.**
+
+**IV. Of the *Socinians*, who admit Scripture as a principle, but subordinate its interpretation to *human reason* — thereby introducing reason as a co-principle.**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From the *express testimony of Christ and the Apostles*: John 5:39 (*"Search the Scriptures... they testify of me"*); Luke 24:27, 44 (Christ from *Moses and all the Prophets* proved his teaching); 2 Peter 1:19 (*"the sure prophetic word, unto which ye do well to take heed as unto a light shining in a dark place"*); 2 Tim. 3:15–17 (all Scripture is *θεόπνευστος* and profitable for teaching, reproof, correction, instruction in righteousness — *that the man of God may be perfect*, thoroughly furnished unto every good work — this last clause proves the *sufficiency* of Scripture).
+
+**II.** From the *insufficiency and uncertainty of tradition* — the alleged unwritten apostolic traditions cannot be reliably distinguished from the multitude of *humanae traditiones* which the Roman Church has accumulated; only Scripture, as written and public, provides a certain norm.
+
+**III.** From the *authority of the Church-Fathers themselves* — who repeatedly and with one mouth refer to Scripture as the sole *canon* and rule of faith. **Augustine** (*Ad Hieronymum*, ep. 82): *"To those books alone of the Scriptures which are now called Canonical have I learned to give this honour and reverence — that I most firmly believe that none of their authors erred in any respect in writing them."* **Chrysostom** (*Hom. XIII on 2 Cor.*): *"The Scriptures... are a perfect rule of faith and life."*
+
+**IV.** From the *analogy of faith* (Rom. 12:6) — the rule that obscure passages of Scripture are to be interpreted by clear passages of the same Scripture, presupposes that Scripture is a self-sufficient principle.
+
+**V.** From the *anti-idolatry principle*: to add human words as co-normative with divine words is a form of religious presumption forbidden by Deut. 4:2 (*"Ye shall not add unto the word which I command you, neither shall ye diminish ought from it"*) and Rev. 22:18–19.
+
+##### *Fontes Solutionum — Sources for the Dissolving of Objections*
+
+*Observation 1.* To the objection from 2 Thess. 2:15 (*"Hold the traditions which ye have been taught, whether by word, or our epistle"*): the *traditions* here mean the *oral apostolic preaching* which was afterwards consigned to writing in the New Testament — not a body of separate *unwritten traditions* subsisting alongside the written Word.
+
+*Observation 2.* To the objection from 1 Tim. 3:15 (*"The Church of the living God is the pillar and ground of the truth"*): a distinction between *being the pillar and ground of the truth* and *being a subordinate principle of truth*. The Church is called *the pillar* by way of *ministerial* proclamation — she proposes and preaches the truth that Scripture contains — not by way of *magisterial* infallibility as if she constituted the truth.
+
+*Observation 3.* Against the Enthusiast reduction of external to internal: the Holy Spirit is indeed the *principal cause of faith*, but he works through the *external means* he has himself instituted — Word and Sacrament (Rom. 10:17; Gal. 3:2). Every claim to *internal illumination* apart from the external Word is at best subjective, at worst diabolical (2 Cor. 11:14: Satan himself transforms into an angel of light).
+
+*Observation 4.* Against the Roman appeal to *consensus of the Fathers*: not every agreement of some Fathers is the consensus of the whole Church; and even where consensus obtains, it is *ministerial-witness* to Scripture, not *magisterial-substitute* for Scripture.
+
+*Observation 5.* Against the Socinian sub-ordination of Scripture to reason: reason is a *ministerial handmaid* to theology, useful for *illustration, deduction, and secondary proof* — but not a *principle* by which Scripture is to be judged. Where reason and Scripture conflict on any matter of revealed mystery (Trinity, Incarnation, Real Presence), reason yields — for revelation transcends but does not contradict reason.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Chapter IV. Of the Sacred Scripture
+
+## *De Sacra Scriptura*
+
+### Section One — Didactic
+
+#### *Sectio Prima Didactica*
+
+##### *Θέσις Ι — Thesis I*
+
+**Sacred Scripture is the *Word of God written by the immediately God-breathed writers* (Prophets in the Old Testament; Apostles and Evangelists in the New), for the *salvation of men* through faith in Christ.**
+
+*Note I.* The *act of writing*, like the act of preaching, is *accidental* to the Word of God — not of its essence. The Word of God is Word whether spoken or written; but for the Church of all ages, the written mode is the *permanent form* by which the divine oracles are preserved (2 Peter 1:19).
+
+*Note II.* The *formal* aspect of Scripture is the *divine sense* — *ὀκτύπωμα* (imprint) of the *ἀρχέτυπον* (archetype) sense in the divine mind — not the *material* ink and letters as such. But the *material* (Hebrew and Greek words, letters, syllables) is *inseparable* from the formal in the sense that God chose *these* words to convey *this* sense.
+
+##### *Θέσις ΙΙ — Thesis II*
+
+**The *authors* of Sacred Scripture are: primarily and *auctoritative*, GOD himself (through the immediate inspiration of the Holy Spirit); ministerially and *instrumentaliter*, the *God-breathed men* — the Prophets in the OT, the Apostles and Evangelists in the NT.**
+
+*Note.* The prophetic writers were *notaries and amanuenses* of the dictating and inspiring Holy Spirit — not authors in their own right. The blessed Peter: *"Prophecy came not of old by the will of man, but holy men of God spake as they were moved by the Holy Ghost"* (2 Peter 1:21).
+
+##### *Θέσις ΙΙΙ — Thesis III*
+
+**The Old Testament books were *composed by the Prophets and Sacred Writers of the Jewish Church* through the immediate inspiration of the Holy Spirit, in the Hebrew language (with certain portions of Ezra, Daniel, and Jeremiah in Aramaic); the New Testament books were *composed by the Apostles and Evangelists* through the same inspiration, in the Greek language.**
+
+*Note.* The Old Testament books are: the *Pentateuch* of Moses; the *Historical Books* (Joshua, Judges, Ruth, 1–2 Samuel, 1–2 Kings, 1–2 Chronicles, Ezra, Nehemiah, Esther); the *Poetic/Sapiential Books* (Job, Psalms, Proverbs, Ecclesiastes, Song of Songs); the *Prophetic Books* (Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, and the Twelve Minor Prophets). The New Testament books are: the *Four Gospels* (Matthew, Mark, Luke, John); the *Acts of the Apostles*; the *Pauline Epistles* (14, including Hebrews); the *Catholic Epistles* (James, 1–2 Peter, 1–2–3 John, Jude); the *Apocalypse* of John.
+
+##### *Θέσις ΙV — Thesis IV*
+
+**Sacred Scripture is characterised by *uniform divinity* — that is, *every part of it is equally and uniformly God-breathed*, not some parts more, some less.**
+
+##### *Sectio Secunda Polemica — beginning*
+
+##### *Question I — Whether Sacred Scripture is truly from God?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+Distinction: (1) not concerning the *absolute power* of God (whether God *could* have communicated in some other mode), but concerning what God *did* in fact communicate. (2) Not concerning the *human writers as such*, but concerning the *divine origin* of the writings themselves.
+
+##### *Θέσις — Thesis*
+
+**Sacred Scripture is truly, properly, and immediately from God — as regards its principle, its authority, and its content.**
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of the *Atheists*, who deny that God exists at all.**
+
+**II. Of the *Weigelians* and *Enthusiasts*, who — with Weigel (*Von der Gelassenheit* p. 17; *Güldener Griff* ch. 5; *Postille* part I p. 66) — hold that Scripture is a *dead letter* and that only the internal Spirit is truly divine.**
+
+**III. Of the *Roman Catholics* who make Scripture's divinity dependent on the Church's declaration.**
+
+**IV. Of the *Jews*, who receive the OT alone and reject the NT.**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From Scripture's own testimony: 2 Tim. 3:16 (*"All Scripture is God-breathed"*, πᾶσα γραφὴ θεόπνευστος); 2 Peter 1:21 (*"holy men of God spake as they were moved by the Holy Ghost"*).
+
+**II.** From its *supernatural content* — mysteries (Trinity, Incarnation, Redemption, Justification) which could not have been discovered by natural reason (Rom. 11:33; 1 Cor. 2:7–10).
+
+**III.** From its *antiquity* — no other book claims such age with such attestation.
+
+**IV.** From its *uniform divinity* — throughout its 66 books, composed by many writers over ~1500 years, there runs a single theme (Christ) and a single voice (God's).
+
+**V.** From its *efficacy* — it converts hearts, comforts consciences, sanctifies lives, sustains martyrs — effects only a divine cause could produce.
+
+##### *Question II — Whether the Apostles wrote by divine mandate?*
+
+##### *Θέσις — Thesis*
+
+**The Apostles wrote not by their own will nor by mere apostolic assistance, but by singular *inspiration and suggestion* of the Holy Spirit — as to matter and as to words.**
+
+##### *Αντίθεσις — Antithesis*
+
+**I. Of the *Papists*, who (via *Coster the Jesuit*, ch. I) hold that the Apostles wrote *only by general apostolic assistance* — not by verbal inspiration — so that the *ipsissima verba* of Scripture may be less than fully divine, thereby leaving room for the Church's magisterial interpretation.**
+
+**II. Of certain *Reformed* who distinguish between the *substance* and the *verbal form* of inspired Scripture — holding only the substance to be from God and the verbal form to be from the human author.**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From the *express words* of Scripture: 1 Cor. 2:13 (Paul writes *"in words which the Holy Ghost teaches"*, ἐν διδακτοῖς πνεύματος).
+
+**II.** From the *prophetic parallel*: Deut. 18:18 (*"I will put my words in his mouth"*); Jer. 1:9. If the Prophets received the very words from God, so *a fortiori* the Apostles.
+
+**III.** From Christ's promise: John 14:26 (*"The Holy Ghost... shall teach you all things, and bring all things to your remembrance"*); John 16:13 (*"He shall guide you into all truth"*).
+
+**IV.** From the *phenomena of the New Testament itself* — the *ipsissima verba* of Christ preserved with fidelity across four Gospels; the *citations from the Old Testament* which are made with theological precision; the *arguments from single words and even letters* (Gal. 3:16, *"He saith not, and to seeds, as of many, but as of one, and to thy seed, which is Christ"*).
+
+##### *Fontes Solutionum*
+
+*Observation 1.* To the objection that different Evangelists narrate the same event with different words: distinction between *verbal identity* and *substantial identity* — the same fact is truly communicated in different but equally-inspired verbal forms; the Holy Spirit is not restricted to a single verbal form for a single fact. Verbal inspiration means each word is inspired, not that only one word could have been inspired.
+
+*Observation 2.* Against the Reformed distinction between substance and verbal form: this distinction collapses under Gal. 3:16 (Paul's argument from *σπέρματι* singular vs. plural), which requires the *very word* to be inspired for the theological argument to hold.
+
+##### *Question III — On the Canon: which books are Canonical?*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+Distinction between *Canonical* and *Apocryphal* books. The question is not concerning *all the books that circulate* in various Christian traditions, but concerning those which have divine authority as *rule of faith and life*.
+
+##### *Θέσις — Thesis*
+
+**The Canonical books of the Old Testament are the *twenty-two (or twenty-four) books of the Hebrew canon* (identical in content with the Protestant OT of thirty-nine books, differently counted); the Canonical books of the New Testament are the *twenty-seven books* received throughout the whole ancient Church.**
+
+##### *Αντίθεσις*
+
+**I. Of the *Papists*, who at Trent (Session IV, 1546) added the deuterocanonical / apocryphal books (Tobit, Judith, Wisdom, Ecclesiasticus, Baruch, 1–2 Maccabees, additions to Daniel and Esther) to the Old Testament canon with equal authority.**
+
+**II. Of certain *Reformed* who question the canonicity of certain New Testament books (as Luther briefly did with James, Jude, Hebrews, and the Apocalypse — though the Lutheran Church has retained them as canonical).**
+
+##### *Θέσεως βεβαίωσις — Confirmation*
+
+**I.** From the *Jewish reception* — the Jewish Church, to whom "the oracles of God were committed" (Rom. 3:2), received only the twenty-two Hebrew books as canonical, and never the Greek Apocrypha.
+
+**II.** From *Jerome* — the great Latin Doctor of the fifth century, in his *Prologus Galeatus*, explicitly distinguished the Hebrew canon from the *ecclesiastical books* (Tobit, Judith, etc.), holding the latter as edifying but not canonical.
+
+**III.** From the *self-witness of the Apocrypha* — several of these books (e.g., 1 Maccabees 4:46; 14:41) themselves acknowledge that *there is no Prophet in Israel*, that is, that the age of inspiration had ceased.
+
+**IV.** From the *doctrinal errors* of the Apocrypha — the doctrine of *purgatory* (2 Macc. 12:45), of *prayers for the dead* (2 Macc. 12:44–45), of *works-righteousness* (Tob. 4:11; Sir. 3:30) — contradict the canonical Scriptures and evidence that these books are not from the same Spirit.
+
+##### *Question IV — On the Autographs and Apographs — is the text as we have it uncorrupted?*
+
+##### *Θέσις — Thesis*
+
+**The *autographs* (the very originals penned by the Prophets and Apostles) are lost; but the *apographs* — the copies made and preserved by the Church, both in the original languages (Hebrew, Greek) and in careful translations — preserve the *substance* of the divine text without corruption in *any doctrine of faith or life*.**
+
+*Note.* Distinction between *verbal-material corruption* (variant readings, scribal errors in individual manuscripts) and *substantial-doctrinal corruption*. The former exists (as textual criticism demonstrates); the latter does not — no doctrine of the Christian faith rests on a disputed reading.
+
+##### *Question V — On the Languages of Scripture*
+
+##### *Θέσις — Thesis*
+
+**The Old Testament was originally composed in *Hebrew* (with certain portions in *Aramaic*: Ezra 4:8–6:18; 7:12–26; Jer. 10:11; Dan. 2:4–7:28); the New Testament in *Hellenistic Greek* (marked by Hebraisms which reflect the Jewish background of the writers).**
+
+*Note I.* The *Hebrew* is the original language of the OT; against the Papist tendency (following the Council of Trent) to elevate the *Vulgate* as authentic, the Lutheran doctrine insists that the *Hebrew original* is the ultimate norm for the OT.
+
+*Note II.* The alleged *barbarism* of NT Greek (which some earlier critics — even certain Church Fathers — noted with embarrassment) is not a defect but a divine accommodation: the Greek is Hellenistic-Koine, the popular international language of the first century, and its *Hebraisms* are marks of the *Jewish-origin* of the divine revelation, not defects of style. Chrysostom on the *rusticity* of the Apostles: *"See the rusticity (ἀπαιδευσία) of the Apostles."* But this is God's chosen manner — *"God has chosen the foolish things of the world to confound the wise"* (1 Cor. 1:27).
+
+##### *Question VI — On the Vowel Points and the Buxtorf–Cappellus Controversy*
+
+##### *Κρινόμενον — the State of the Controversy*
+
+The seventeenth-century controversy between **Johannes Buxtorf** the Elder (1564–1629) of Basel (who held the Hebrew vowel points to be *of the same antiquity as the consonantal text*, going back to Ezra or to Moses) and **Louis Cappel** (1585–1658) of Saumur (who held the vowel points to be a *post-Talmudic invention* of the Masoretes, ca. AD 500–700).
+
+##### *Θέσις — Thesis*
+
+**The Hebrew vowel points, whether ancient or Masoretic in immediate origin, are *substantially divine* in that they preserve the *inspired vocalisation* of the original text as maintained in the Jewish oral tradition.**
+
+*Note.* The Wittenberg orthodoxy (following Buxtorf) tended to the stronger position — that the vowel points are of ancient origin — because it seemed to fortify the doctrine of *verbal inspiration*. But the *substance* of the Lutheran doctrine can be held with either historical view: what matters is that the *sense preserved by the vowels* is the divinely-intended sense.
+
+##### *Question VII — The Four Affections of Scripture*
+
+##### *Θέσις — Thesis*
+
+**Sacred Scripture is characterised by *four affections*: (1) *Authority* (auctoritas), (2) *Perfection* (perfectio, sufficientia), (3) *Perspicuity* (perspicuitas), (4) *Efficacy* (efficacia).**
+
+*[The remaining exposition of the four affections continues through the remainder of Chapter IV, which in the 1691 Wittenberg imprint spans into Volume 2 of the three-volume set. What is above completes the portion of Chapter IV contained in Volume 1 (`bsb11205336`); the continuation of the four affections, with the polemical apparatus against Roman claims on tradition and the Church, and the closing questions on the use of Scripture and lay reading, belongs to Volume 2 (`bsb11205337`) and is flagged in* notes.md *as work for the next volume-tranche. — trans. note]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
