@@ -2915,11 +2915,48 @@ michael_diaconus_aethiops:
     the Lutheran-Ethiopian precedent by which the Ge'ez church could be
     counted among the testes veritatis (see endnote 92 in the review file).
 
+# ─── Tranche 2d — Polycarpus + Polycrates + Irenaeus (vl0018–vl0022) ────
+
+quartodecimana:
+  english: Quartodeciman controversy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Polycarpus at vl0018 + Polycrates at vl0019 + Irenaeus at vl0020"
+  note: >
+    The 2nd-c. controversy over the date of Pascha: Asian churches
+    (Polycarp, Polycrates, Melito) kept 14 Nisan regardless of day
+    of week; Rome (Anicetus, Soter, Victor) kept the following
+    Sunday. Victor I's excommunication of the Asians c. 190 provoked
+    Irenaeus's rebuke. For Flacius, textbook proof that early Roman
+    jurisdictional claims were resisted by other bishops as equals.
+
+liber_ecclesiasticae_historiae:
+  english: Ecclesiastical History (Eusebius)
+  alt: ["Historia Ecclesiastica"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Polycarpus at vl0018 (Irenaean letter to Victor at HE V.24.16-17)"
+  note: >
+    Eusebius of Caesarea's Historia Ecclesiastica (c. 313, revised
+    to 325). Flacius's principal source for sub-apostolic and
+    ante-Nicene witnesses; cited by name at Polycarpus, Polycrates,
+    Dionysius, Hegesippus, Irenaeus entries. Rufinus's Latin trans.
+    (early 5th c.) is the standard medieval-and-Reformation text.
+
+historia_tripartita:
+  english: Tripartite History
+  alt: ["Historia Tripartita Cassiodori"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Irenaeus at vl0020 (source-triangulation with Eusebius + Socrates)"
+  note: >
+    Cassiodorus's 6th-c. compilation from Socrates + Sozomen +
+    Theodoret; the standard medieval Latin abridgement of 4th–5th-c.
+    Greek church history. Flacius invokes it as third-in-a-triangulation
+    of ancient testimony against Roman jurisdictional claims.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 CONTINUES (Peter + Sacrae literae + Canones +
-# Graeca Ecclesia + Clemens + Dionysius + Hegesippus, vl0001-vl0018).
-# Total Flacius lemmas: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7
-# (T2 Sacrae literae) + 8 (T2c Canones→Hegesippus) = 45 entries.
+# FLACIUS 1556 — TRANCHE 2 CONTINUES through Irenaeus (vl0001-vl0022, ~22
+# folio pp of body + 32 pp paratexts). Total Flacius lemmas: 10 seed + 8
+# (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae literae) + 8 (T2c) + 3
+# (T2d Polycarp→Irenaeus) = 48 entries.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

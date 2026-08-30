@@ -472,7 +472,47 @@ So we see: always the imperitos superstitiously — men embracing that ceremonie
 
 **Hegesippus**, a man celebrated both in the name of piety and of erudition, flourished about 160 years after the nativity of Christ. He writes (as Eusebius, Book 4 and 5 of his history refers) that the Church of the Lord was a virgin until his death — a virgin, whom no heretic was able to contaminate: but after his death, error rushed into it as into a deserted house.¹⁰⁸ This indeed is said sadly, but is nonetheless useful against secure Papists — who, from the fact that so many centuries after Christ's passion have elapsed, and yet dare shout still, that error is neither in the Church, nor has the Pope ever erred, nor can he err. May the history of this most holy man's ecclesiastical acts be extant — many doubtless similar testimonies would be found in it.
 
-*[Next entry:* **Polycarpus** *at vl0018 mid, staged for the next Tranche 2 session.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Polycarpus
+
+### *St Polycarp of Smyrna* — vl0018–vl0019
+
+**Polycarp**, disciple of John the Evangelist, most-celebrated in the name of erudition and of sanctity, flourished about the year 140 of the Lord — or a little later. He, as Irenaeus writes in the letter to Pope Victor, came in the time of **Pope Anicetus** to Rome, and in the first congress conducted with him a contention on the paschal date, on fasting, and on some similar matters.¹⁰⁹ But Anicetus was not on this account angry with Polycarp: rather he communicated the Eucharist with him, and permitted Polycarp to administer the Eucharist in his own church.¹¹⁰
+
+Whence it may be understood, first, that not yet did the Roman bishop threaten others among the Christians, nor did all of necessity yield to him — that is, at the beginning of the second century. Then to be observed: that the same Roman bishop, as though equal — and not as superior — bore up together with Polycarp in the very titles-of-honour. Observe also, that though they already assigned some little observation of rituals to the Pope, and to other bishops and doctors — yet nothing as it did later, when a little later Pope Victor, for the sake of these small things — the paschal date and other trifles — excommunicated Asiatic bishops disapproving of him, both eastern and western.
+
+## Polycrates, Ephesiorum episcopus
+
+### *Polycrates of Ephesus* — vl0019–vl0020
+
+**Polycrates, Bishop of the Ephesians** — a plainly great and Apostolic man, on the testimony of Nicephorus — flourished about the year 170 of the Lord.¹¹¹ When Pope Victor of Rome urged upon him the Roman day of celebrating Pascha, in which he himself refused to yield: nor was he only who resisted the Pope, but had also other Asian bishops — as he writes in his epistle to the Pope. Whom when the Pope excommunicated on this account, he was grievously exhorted through Irenaeus and other bishops (as Eusebius refers) that if he would not change his sentence, he should be compelled from the excommunication to desist.¹¹² In an epistle on the same matter Polycrates writes to the Pope, in which certain things not-a-little seem to be forbidding.
+
+In which and this is worthy of note: that he says his fathers or ancestors seven were bishops, and he himself was the eighth. Hence he acknowledged the legitimacy of having wives to priests, at the time. Know also of that audacity of the Papists, that they were already usurping the empire to themselves in the Asiatic churches, and were seeking ceremonies to constitute and to teach, when they themselves were most-unlearned men.¹¹³ But the bishops, both eastern and occidental, men of erudition and piety notable, their fury then themselves constantly and gravely opposed. Take from me the liberty and constancy of those consecrated men, of which the Romans made use, when the present bishops' adulations and the kissing of blessed feet compare and judge, how not much of those times ecclesiastical polity, from the tyranny of our Popes and from the adulations of the bishops, was different.
+
+## Irenaeus
+
+### *St Irenaeus of Lyon* — vl0020–vl0022
+
+**Irenaeus, Bishop of Lyon**, disciple of Polycarp, hearer of John, among the Fathers longest-celebrated: flourished about the year 170 of the Lord.¹¹⁴ He, together with other Gauls, sharply rebuked Pope Victor for excommunicating the Asians on account of a certain variety of the day of Pascha (on the testimony of Eusebius book 5, and Socrates book 5, and *Tripartite History* 9) — through a letter, affirming that the observation of Pascha, of fastings, and of other such matters ought to be free (book 5, chapter 24 of the Ecclesiastical History; a part of his Epistle is inserted).¹¹⁵ Eusebius testifies also that others bishops freely admonished Victor of this matter.¹¹⁶
+
+Read then, I beg you, Christian reader, one only sentence from that epistle. For among other things he says: *Truly those presbyters who preceded Soter, and who governed the Church which you now govern — I speak of Anicetus, the pious Pius, Hyginus, Telesphorus, and Xystus — neither did they themselves so observe Pascha and fasting.*¹¹⁷
+
+See, I beseech, how little honourably he addresses the Popes. He says **"you"** and not **"Your Sanctity."** So many Popes he calls only "presbyters," and not "most holy" and "most exalted," etc. He says they *governed the Roman Church* — he does not say the world, or the universal Church.¹¹⁸
+
+Here observe, pious reader, first how great was the ignorance under which then both Pope and clergy of the Roman Church laboured, that between the necessary and the *adiaphora* could make no discrimination: indeed that they held *human traditions*¹¹⁹ superior to the mandate of God concerning love of neighbour and concord to be maintained in the Church. And that nonetheless among them not a few, better doctors, urged that ignorance or error of the Pope — that they be reckoned as not-necessary — as plainly necessary and mandates of Christ, reprehensible: that of that superstitious ignorance of the hypocrites, straiter observers of days and rites and of other human traditions than of the mandates of God — they might, at last, be beaten by the saner, and the praise of piety obtain.¹²⁰
+
+Finally observe, that the Pope not-yet had so elevated himself, that it was not licit for any Bishop and to warn him and even a little more liberally to argue. Afterwards the Roman Antichrist collapsed into this fury, that no one dared it to decree — indeed even if he himself infinite souls with himself into the infernal region draw down — no one would dare to say: *Quid facis?* — "What are you doing?"¹²¹
+
+Eusebius writes also, that many novelties and schisms in the Roman Church were sprung up in Irenaeus's time — of which we resist, so that he wrote some little books, *De Schismate*, *De Monarchia Dei*, etc.¹²² A wonder is that some, of the mildest and most-modest of men — of Irenaeus, that he dared not to say that the Roman Church erudita to be sanare he would want, than to which the Romanists impudently claim it to be the mother and mistress of all churches — nor rather that Irenaeus would err. But what would he not dare, who dared to warn and rebuke even the very Pope, as was said above? Hence you may manifestly discern how different an appearance was then of the Roman Church and polity, than which now it is.
+
+Almost forgot am I to add, that in this our author scarcely worthy of oblivion is: in his fifth book *Against Heresies*, where the name of Antichrist in Apocalypse 13 is expounded, he reasons that it would be **LATINVS** — that both by literal quantity it corresponds to the number 666, and that then the Latins had the Roman empire of the world.¹²³ Which certainly is not obscurely indicated: the Roman Pope to be the Antichrist. For the Pope is and calls himself *Latinus* or *Roman*, and rules in Latium.
+
+Moreover of the interpretation of the Roman Church Irenaeus in these words says: *Founding therefore and instructing the Roman Church, the blessed Apostles committed the bishopric to Linus.*¹²⁴ There is nothing of years 25, that Peter sat at Rome, or of the triple crown that he wore there, as the Papists impudently and mendaciously assert — but scarcely so much scarcely of that church, as also of others infinite. Whence therefore of the most-impudent Romanists that they before all other churches by Peter and Paul to be founded and *Apostolic Petrine* seat to glory in?
+
+*[The Irenaeus entry ends on the middle of `vl0022`; next entry* **Concilium Elibertinum, & Constantinopolitanum** *(Councils of Elvira and Constantinople) opens immediately after.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -741,6 +781,44 @@ So we see: always the imperitos superstitiously — men embracing that ceremonie
 ## From the Catalogue — Egesippus / Hegesippus (vl0017–vl0018)
 
 **¹⁰⁸** **Eusebius, *Historia Ecclesiastica* III.32.7–8 and IV.22.4–5** — the famous fragment from **Hegesippus** (fl. c. 165–175, whose lost *Hypomnēmata* / *Memoirs* Eusebius preserves) on the Church's virginity until the death of the last apostle (John, †c. 100 or Symeon of Jerusalem, †c. 106), whereafter *ἡ ψευδώνυμος γνῶσις* ("the falsely-so-called gnosis") entered *ὡς εἰς οἶκον ἔρημον* — "as into a deserted house." Flacius reads Hegesippus's testimony as apostolic-succession evidence *against* papal-infallibilist claims: even Hegesippus, an anti-Gnostic witness sub-apostolic in his origins, acknowledges that error entered the post-apostolic Church early and widely — which cuts against any claim of continuous doctrinal purity, and *a fortiori* against papal claims to have never erred.
+
+## From the Catalogue — Polycarpus (vl0018–vl0019)
+
+**¹⁰⁹** **Polycarp** (c. 69–c. 156), Bishop of Smyrna, disciple of the Apostle John, is one of the pre-eminent Apostolic Fathers. **Anicetus** was Bishop of Rome c. 154–166. The Roman visit — sometime in the 150s — is described by Irenaeus in his letter to Victor of Rome (preserved by Eusebius *HE* V.24.16–17).
+
+**¹¹⁰** *Cum eo Eucharistiam communicavit, et in ecclesia Polycarpo administrandam eucharistiam permisit* — Anicetus permitted Polycarp to celebrate the Eucharist in the Roman church, even though Polycarp kept the Quartodeciman (14 Nisan) date for Pascha against Roman practice. The historical episode is the textbook example — for Flacius — of an early Roman bishop treating a foreign bishop as equal, not as inferior. The subsequent behaviour of Victor (see next endnote) contrasts sharply and thus proves the papal-monarchical claim to be a later development, not an apostolic institution.
+
+## From the Catalogue — Polycrates (vl0019–vl0020)
+
+**¹¹¹** **Polycrates of Ephesus** (c. 130 – after 190), on the testimony of **Nicephorus Callistus** *Historia Ecclesiastica* IV.38 (a 14th-c. Byzantine church historian). The Ephesian episcopal succession Polycrates traces in his letter to Victor is one of the earliest attested episcopal-genealogies of the sub-apostolic age; the appeal to *seven ancestors as bishops* was Polycrates's own credential for defending the Quartodeciman practice against Roman intervention.
+
+**¹¹² Victor I** (Bishop of Rome c. 189–199) attempted to enforce the Roman date of Pascha on the Asian churches, and excommunicated them when they refused. **Eusebius *HE* V.24.11–17** records Irenaeus and other Western bishops sharply rebuking Victor, and successfully persuading him to reverse the excommunication. The episode is textbook evidence, for Reformation polemicists, of the limits of even 2nd-c. Roman jurisdictional claims.
+
+**¹¹³** *Ceremonias cogere et docere voluerint, cum ipsimet fuerint indoctissimi homines* — Flacius's characteristically sharp formulation: the Popes were seeking to impose ceremonies while being themselves most-unlearned. The line echoes the *indoctissimi asini* of the St Peter entry (endnote 44); Flacius maintains the polemical register throughout.
+
+## From the Catalogue — Irenaeus (vl0020–vl0022)
+
+**¹¹⁴** **St Irenaeus of Lyon** (c. 130 – c. 202), Bishop of Lyon from c. 177, disciple of Polycarp and thus a second-generation hearer of the Apostle John. His *Adversus Haereses* (c. 180) is the first great systematic anti-Gnostic treatise; Book V, particularly, treats eschatology and the number 666.
+
+**¹¹⁵** **Eusebius *HE* V.24.10–18**; **Socrates *HE* V.22** (though Socrates writes a century and a half later and depends on Eusebius); the *Historia Tripartita* (compiled by Cassiodorus, c. 550, from Socrates, Sozomen, and Theodoret) at IX.38. Flacius's threefold citation shows his method of source-triangulation: no single source alone, but a chain of witnesses.
+
+**¹¹⁶** *Etiam alios episcopos libere admonuisse Victorem* — even Roman-Empire bishops, contemporaneous with Victor, freely admonished him. For Flacius, further evidence that no doctrine of papal-jurisdictional immunity existed in the 2nd century.
+
+**¹¹⁷** Irenaeus's Greek preserved by Eusebius (*HE* V.24.14–15). The Roman presbyters Irenaeus lists — **Soter** (†174), **Anicetus** (†166), **Pius** (†154), **Hyginus** (†140), **Telesphorus** (†136), **Xystus/Sixtus I** (†125) — are the six Bishops of Rome preceding Victor. Irenaeus's calling them *presbyteri* rather than *episcopi* is Flacius's coup, since the term-of-address indicates the equality of Roman with other bishops in the 2nd c. — no papal-monarchical office yet.
+
+**¹¹⁸** *Non dicit orbem terrarum, aut universam Ecclesiam* — Irenaeus's careful geographic phrasing: the Roman presbyters governed *only the Roman Church*, not the whole world or the universal Church. The absence of universal-jurisdictional language in Irenaeus is decisive for Flacius against later papal claims.
+
+**¹¹⁹** *Traditiones hominum* — Flacius's Reformation-standard term for medieval papal accretions distinguished from apostolic tradition proper (see glossary *traditio*). The distinction between adiaphora and doctrina necessaria — a mark also of Melanchthonian methodology — is here located in 2nd-c. Irenaean practice.
+
+**¹²⁰** The complex sentence structure (Flacius's Latin is here more baroque than usual) argues: even in Irenaeus's time, most Roman-clergy could not distinguish necessary doctrine from adiaphora; but the better doctors laboured to correct that ignorance; the true praise of piety belongs to those saner doctors, not to the ceremonies-imposing rigorists.
+
+**¹²¹** *Quid facis?* — the question Flacius wishes the Roman clergy still dared to put to the Pope. The rhetorical figure echoes the pseudo-Clementine Peter-to-Pope apostrophe of endnote 104: Flacius's polemical structure is one of repeated apostrophic direct-address to the papal seat.
+
+**¹²²** **Irenaeus's lost works** — Eusebius *HE* V.20.1 mentions treatises *Peri Monarchias* (On the Divine Monarchy) and *Peri Ogdoados* (On the Ogdoad, a lost anti-Gnostic work); other Eusebian references at V.26 mention letters to Blastus and Florinus. Flacius's *De Schismate* / *De Monarchia Dei* enumeration compresses this lost corpus.
+
+**¹²³** **Irenaeus *Adv. Haer.* V.30.3** — the same passage cited in endnote 80 (from the *Sacrae literae* section). Flacius here returns to LATINVS = 666 in the specifically-Irenaean context, making explicit what was implicit before: Irenaeus himself, on Flacius's reading, indicates the Roman Pope as Antichrist. The double-citation of the same Irenaean passage across two body-entries (*Sacrae literae* + *Irenaeus*) is deliberate — it marks Irenaeus as a load-bearing witness for the whole *Catalogus*.
+
+**¹²⁴** **Irenaeus *Adv. Haer.* III.3.3** (PG 7:849 = SC 211:32–34) — *Θεμελιώσαντες οὖν καὶ οἰκοδομήσαντες οἱ μακάριοι ἀπόστολοι τὴν ἐκκλησίαν, Λίνῳ τὴν τῆς ἐπισκοπῆς λειτουργίαν ἐνεχείρισαν* ("having founded and built the church, the blessed Apostles committed the office of the episcopate to Linus"). Flacius's polemical use: Irenaeus attributes the founding of the Roman Church to *the Apostles* (plural, i.e. Peter and Paul jointly), and the first bishopric to *Linus*, not to Peter. The Roman claim to Petrine-exclusive foundation is thus refuted by the very Irenaean text that Roman apologetics claims for the succession-argument.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
