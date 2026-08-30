@@ -870,7 +870,49 @@ Hence therefore they may cognosce Roman Antichrists, themselves, when what God h
 
 Many centuries after him lived **Innocent III**, who in a general council instituted that the sacred at temples, in vernacular languages, be conducted.²⁵⁸ Here too this same Innocent in the book *On the Life and Honesty of the Clergy*, testifies, in which regions of nostrils in-cognized-mores-morally-be, that priests their wives not-dismissed. Whom for that reason not-damn, but a greater poena-injustice affirms to be, if they lapse, when their own wives to use may.
 
-*[Continues on `vl0061` with* **Polychronius Hierosolymae archiepiscopus** *; staged for the next Tranche 2 session.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Polychronius Hierosolymae archiepiscopus
+
+### *Polychronius, Archbishop of Jerusalem* — vl0061–vl0063
+
+**Polychronius**, Bishop of Jerusalem, lived about the year 440 of the Lord.²⁵⁹ He asserted that Jerusalem is the supreme and primatial see, because that city is holy — which God once chose, and because there Christ came, there suffered, there rose again, there gave the Holy Spirit, there the Christian church was first constituted, whence the primatial teaching-and-doctrine proceeds. Wherefore he contended that no supreme Episcopus be in the church of God, but he himself, and all others be subjected and *dicto audientes* be ought.²⁶⁰
+
+By this stirred, **Sixtus the Third Pope**, cogitating that it was not expedient for himself (for the Popes then already were affecting tyranny over all churches, as above we heard in the Sixth Carthaginian Synod), a Synod at Rome he convoked, and Polychronius, not for affected tyranny over churches, but that he had violated the Simoniacal canon in all things — a criminal accusation, super-imposed with a certain nebulon Euphemius of Jerusalem, priest, who Polychronius from-such-things-things-things-accused was.²⁶¹
+
+Effects therefore the Pope, that the whole Synod from his own number send three bishops, three priests, and two deacons to Jerusalem, with the letters of Caesar Valentinian, who by Caesar's authority congregate some provincial Synod, with him would accuse. It came about, that Polychronius was deposed. But afterwards, when the good old man's marvellous innocence and pauperie beneficence were known, and it was observed, that his manners were far from what he-charged with Simony-had-been — anew, in his own place, by Caesar Valentinian is restored, and Euphemius the accuser is in perpetuum damned.²⁶²
+
+This little history is otherwise recited by some Papal flatterer in the book of Councils; but diligently the circumstances if you inspect, and truth investigate, easily you will animadvert, that my narration is far more truthful.
+
+I do not here recite that for the sake of praising Polychronius' ambition, but that I might show, the Church of God then not yet knew, that only Christ is universally-of-his-Church of the plebs and head of God's caput preferred: as also-above in the Constantinopolitan Synodum I said, and after in Chalcedon.
+
+## Hilarius Vicennensis, & Gallicae ecclesiae
+
+### *Hilary of Arles and the Gallic Churches* — vl0063–vl0064
+
+**Hilary of Arles**, bishop, sat about the year of the Lord 450.²⁶³ He was accustomed to argue: that neither was Peter the prince of the Apostles, nor that any of them had a right in the Gallic churches, or of exterior provinces to have a superior — and by no means to permit, so that all bishops' ordinations to himself would be attracted, and all rights of the churches to himself he would carry off. **Leo** wrote *Epistula 77* against him and against the Gallic bishops, reproachful, that his kingdom of the Pope over the Gallic churches — was it true or false, I know not.²⁶⁴ Certainly he himself sets to be superiority in that ecclesias asserturus, and thus acts, that it appears the yet Papal kingdom not to have been in so-manner-firmly solidly established.
+
+He says, that he remembers that they without doubt they knew — of what Gallic ecclesiae had — some Roman see, quickly conjecture of himself is to have taken: consulted are then not only superiors, but even others in whom something of wisdom is thought to be.
+
+But now our Papae will clamour: What is this novum illuens intemperie you agitate? For do you-then dis-junct yourself from the Church of God, the unique vicar of Christ, from your right too? Have divine dei tightly-you-preserved, in-which everything-in-you sacrament and oath so-sanctly-obtained? Would-vociferate too be schism, would be heresy plainly horrible!
+
+Nothing however was the imperio suae authoritate Gallis Papa mandated: but nonetheless of their counsel and authority this or that were to constitute, etc. Now however Pope simplicity says, let them do that Apostolic authority they mandate, etc. To whom mandated if any temerariously to contradict presumed, etc. Because that of insolent-facts already, so-and-so above Councils to reign wish. To this Hilary I have even one story attributed, which as above I said, is Picta-vi-en-si Hilario attributed: and in a magno concilio graviter arisen a contention between them, on which grounds Leo Arianus, suddenly by-divinity extincted was: that also Hilary long before Leon the first lived. But now (as insulted canonists say-say-say) if some against the Pope speaks, that in heaven he raises: O of the degenerate of the Christian minds!²⁶⁵
+
+## Symmachus
+
+### *Pope Symmachus* — vl0064–vl0066
+
+**Symmachus** sat about 500 years of the Lord's year.²⁶⁶ He was of most-large sins accused, I know not by whom, before **Theodoric King of the Longobards**, and before a Synod at Rome congregated for that cause. His accusers were Italic pseudo-bishops. The accusers and crimes are not named. It appears from a *responsorio libello*, they were great men. On that account the king first, then also the pontifical clergy, forbade office administration.²⁶⁷ But as soon as the affair was concluded from the constant Romanists' Synodum deduced, straightway the Pope, that his accusers may not once be rightly heard, but he himself indicted an unheard cause of himself would-be — bene conscius that he nequaquam-guilty was, when no cognition of the Synod's cause would-perhaps-be-derived — because indeed the Synod of him from-such-cause was congregated, and-so, of the consent of the Pope. But I conjecture, on that ground that the Pope acted, that if the bishops of the Synodum convoked, that he-knew easier from their judgement — inasmuch as he already for himself strictorum (because he-himself according to Nicene Synod's decrees of them was Metropolitans) — quàm ex regijs, was able to slip out.
+
+Complained his accusers by proper writing, of that Synodum, that unknown-cause the Pope-of-so-grave crimes-defendant absolved: and this was, the Pope on writing to jactare his power, that with pastoral office-power etiam-of-sinning-license he had-received: They said, they at least ordered their proper laws or canons observe ought. They said also, neither Moses, nor Samuel, nor Peter, nor Paul, nor any other-known man not from public judgment refused: how then it is, that the Pope of all judgment, even paenitentiae, refuses aut recuses?
+
+And by writing responds a certain most-impudent rabble, from courtiers, in the Pope's name, Ennodius, that inter alia clamitat, that it must be plainly not licit inter-judicare Popes, even so may be, that they yet-of-his-own kinsmen of that sacrosanct sedis by-merit-be-lifted-up: that sedes even receive sancti — or effeceris, etc. And *actis Conciliorum insertum* is-it, that more you might wonder.²⁶⁸
+
+Hence you may animadvert, Christian reader, quàm nulla iura, nulla iudicia, quàm summum flagitium of judicating, so-old the Pope suffered or bear was-able-to-be: but they willed always the summum licentiam of sinning and in the pious tyrannizing to have. Whence, thence-among-them, that the interea Pope this observed is, that testatus here in a council at Rome, in his time of dominations, love the clerics invaded, and had-shaken the yoke of ecclesiastical discipline: eorum, excesses that narrate difficult be. But let-him-cogitate a Christian brother, quantum ab eo tempore ambitionis tyrannidisq[ue]; furor in clero cruerit.²⁶⁹
+
+*[Continues on `vl0066` with* **Ius civile** *(Justinian's Novels); staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1509,6 +1551,34 @@ Many centuries after him lived **Innocent III**, who in a general council instit
 **²⁵⁷** *Deum ipsum authorem damnare ac blasphemare* — the theological weight of Flacius's argument: to condemn as sin what God instituted is to blaspheme God as author of sin. The formulation is standard Reformation-anti-Roman polemical logic; compare Luther *De captivitate Babylonica* (1520, WA 6:497–573).
 
 **²⁵⁸** **Pope Innocent III** (1198–1216), *Fourth Lateran Council* (1215), Canon 9 permitted the celebration of Mass in the vernacular in certain multilingual dioceses. Flacius's citation is loose; Lateran IV Canon 9 permits *linguae diversae* for pastoral care but does not authorise vernacular Mass as such. Flacius exploits a partial permission as broad warrant.
+
+## From the Catalogue — Polychronius (vl0061–vl0063)
+
+**²⁵⁹** **Juvenal of Jerusalem** (†458, called *Polychronius* by Flacius following a Latin transmission-error) — Bishop of Jerusalem 422–458, who at the Council of Chalcedon (451) secured Jerusalem's elevation to a patriarchate (fifth after Rome, Constantinople, Alexandria, Antioch). Flacius here follows a Latin tradition (possibly via Nicephorus Callistus) that garbles the name and dates the confrontation with Sixtus III (432–440) rather than the Chalcedonian negotiation.
+
+**²⁶⁰** The Jerusalem-primacy argument — the *loca sancta* claim: Jerusalem is the site of Christ's suffering, resurrection, ascension, and Pentecost, hence primatial. The argument had genuine 5th-c. currency (used against both Rome and Antioch) and shaped the eventual Chalcedonian recognition. Flacius reads it as evidence that no one-city-primacy-doctrine existed in the 5th-c. Church.
+
+**²⁶¹ Sixtus III** (432–440), Roman bishop, the actual confrontation is with Juvenal of Jerusalem over jurisdictional overlap with Antioch, not simony as Flacius (following a garbled Latin source) reports. The details are muddled but the polemical point stands: Rome and Jerusalem contested primacy in the 5th c.
+
+**²⁶² Emperor Valentinian III** (425–455), the Western emperor whose 445 *Novella* on Roman episcopal jurisdiction was invoked by Leo I against Hilary of Arles. That the imperial court could restore a deposed bishop against a Roman-convoked synod is Flacius's decisive point.
+
+## From the Catalogue — Hilarius Vicennensis (vl0063–vl0064)
+
+**²⁶³** **St Hilary of Arles** (c. 401–449), Bishop of Arles from c. 430, senior metropolitan of Gaul. His conflict with **Leo I** over Gallic ecclesiastical jurisdiction — precipitated by Hilary's deposition of Bishop Chelidonius of Besançon in 444 and Leo's overturning of that deposition — culminated in Leo's *Epistula 10* (rectius, not 77 as Flacius says) to the Gallic bishops (10 July 445), Emperor Valentinian III's *Novella* 17 (8 July 445) confirming Roman appellate jurisdiction over Gaul, and Hilary's continued resistance. The whole episode is a Reformation-key contest between metropolitan-episcopal and Roman-monarchical ecclesiology.
+
+**²⁶⁴** Leo's *Epistula 10* (PL 54:628–636) — the celebrated denunciation of Hilary's alleged usurpation of Roman authority. Flacius honestly notes that Leo's account may be unreliable (*veréne aut falsò, nescio*) — the *ex parte* character of Leo's letter is characteristic scholarly self-correction.
+
+**²⁶⁵** The garbled Hilary-vs-Leo Arian legend (also glossed at endnote 199 above) — Flacius here correctly assigns it to Hilary of Arles (Vicennensis), not to Hilary of Poitiers as the medieval hagiographic tradition had done. The scholarly candor about the source-transmission error is characteristic *Catalogus*-at-its-best.
+
+## From the Catalogue — Symmachus (vl0064–vl0066)
+
+**²⁶⁶** **Pope Symmachus** (498–514), whose disputed election against Laurentius (498) began the "Laurentian schism" that split the Roman clergy for a decade. The **Palmary Synod of 502** (convoked under Ostrogothic King Theodoric) heard accusations against Symmachus of simony, sexual immorality, and misuse of church property. Symmachus refused to submit to trial by the synod. **Ennodius of Pavia** (†521) composed the *Libellus pro Synodo* (503, PL 63:183–208) defending Symmachus's immunity from judicial process — the earliest systematic argument for the *prima sedes a nemine iudicatur* principle. Flacius reads Ennodius's *Libellus* as the origin of papal-immunity doctrine.
+
+**²⁶⁷** *Theodoric King of the Longobards* is a compression-error: Theodoric was king of the **Ostrogoths** (r. 471–526), not Longobards. The 502 Palmary Synod was convoked under Theodoric's direct authority.
+
+**²⁶⁸** **Ennodius's *Libellus pro Synodo Palmari*** — the origin-text of the doctrine that no earthly tribunal (not emperor, not bishops assembled in council) can judge the Roman pontiff. Flacius reads it as the moment when Roman-episcopal *ambitio* first formalised itself as canonical doctrine.
+
+**²⁶⁹** *In-clero cruerit* — the closing lament: *how much more since that time has the tyrannical fury and ambition of the clergy grown*. The historical periodisation — 502 as the origin-moment of papal immunity, developing into medieval canonical *nemo iudicare potest primam sedem* — is Flacius's rhetorical closing.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

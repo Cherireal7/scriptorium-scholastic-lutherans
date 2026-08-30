@@ -3308,11 +3308,56 @@ iulius_pseudo_decreta:
     Constance 1415 session XIII (DH 1198-1200) denial of chalice
     to laity — foundational Hussite/Reformation locus.
 
+# ─── Tranche 2l — Polychronius + Hilary of Arles + Symmachus (vl0061-66) ─
+
+loca_sancta_primatus:
+  english: The loca sancta primacy claim
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Polychronius at vl0061"
+  note: >
+    Jerusalem's 5th-c claim to primacy on ground it is site of Christ's
+    suffering + resurrection + ascension + Pentecost. Argument had
+    genuine currency (Juvenal of Jerusalem at Chalcedon 451 securing
+    patriarchate). Flacius reads as evidence no one-city-primacy-
+    doctrine existed in 5th-c Church.
+
+ennodius_libellus:
+  english: Ennodius's Libellus pro Synodo Palmari
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Symmachus at vl0065"
+  note: >
+    Ennodius of Pavia †521 composed Libellus pro Synodo Palmari 503
+    (PL 63:183-208) defending Pope Symmachus's immunity from judicial
+    process at Palmary Synod 502. Origin-text of prima sedes a nemine
+    iudicatur doctrine.
+
+prima_sedes_a_nemine_iudicatur:
+  english: The first see is judged by no one
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Symmachus at vl0065"
+  note: >
+    Medieval canonical doctrine of papal immunity from any earthly
+    tribunal — Emperor, bishops, kings. Ennodius Libellus 503, then
+    Gratian Decretum Dist. 40. Flacius traces origin to Palmary Synod
+    502 and reads whole subsequent papal monarchy as its consequence.
+
+hilarius_arelatensis:
+  english: Hilary of Arles
+  alt: ["Hilarius Vicennensis"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hilarius Vicennensis at vl0063"
+  note: >
+    Bishop of Arles c. 401-449, senior metropolitan of Gaul. Conflict
+    with Leo I 444-445 over Chelidonius of Besançon deposition led
+    to Leo Ep. 10 (PL 54:628-636) 445 + Valentinian III Novella 17
+    445 confirming Roman appellate jurisdiction over Gaul.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Innocent I (vl0001-vl0061, 61 body pp
-# + 32 paratexts ≈ 11.1% of 1094-pp body). Flacius lemma total: 10 seed +
+# FLACIUS 1556 — TRANCHE 2 through Symmachus (vl0001-vl0066, 66 body pp
+# + 32 paratexts ≈ 12% of 1094-pp body). Flacius lemma total: 10 seed +
 # 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) +
-# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) = 79.
+# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) +
+# 4 (T2l) = 83.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
