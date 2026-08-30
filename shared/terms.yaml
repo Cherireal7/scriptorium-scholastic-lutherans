@@ -3858,13 +3858,70 @@ boniface_apostolus:
     also opposed Carolingian-era anti-Roman reformers (Adalbert +
     Clement Scot).
 
+# ─── Tranche 2x — Bonifacius full + Carolus Magnus opening (vl0116-119) ─
+
+malefacius_wordplay:
+  english: Malefacius (Boniface polemical anti-title)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Bonifacius at vl0117"
+  note: >
+    Flacius's transformation of Bonifacius (bene-facere well-doer)
+    into Malefacius (male-facere evil-doer) — polemical senhal applied
+    throughout entry. Bilingual Latin pun characteristic of Reformation
+    Latinate wit.
+
+boniface_oath_722:
+  english: Boniface's oath of Roman obedience 722
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Bonifacius at vl0118"
+  note: >
+    Preserved Codex Carolinus year 722 — Boniface pledged to work
+    ad obedientiam Apostolicae sedis irritare et inclinare whatever
+    hearers encountered. Flacius reads as founding moment of
+    specifically-PAPAL (not merely Christian) German conversion.
+
+virgilius_salisburgensis:
+  english: St Virgilius of Salzburg (defender of antipodes)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Bonifacius at vl0118"
+  note: >
+    Irish-born bishop of Salzburg †784 defended doctrine of antipodes
+    against Boniface's condemnation as heretical. Among Aventinus
+    Annales Boiorum IV list of German-Gallic clerics opposing Boniface
+    Roman conformism (Clement Scot + Adalbert + Samson + Sidonius +
+    Virgilius) — Reformation-standard pre-Reformation-reformist
+    catalogue.
+
+boniface_synod_arms_ban:
+  english: Boniface Concilium Germanicum 742 + Estinnes 743 arms-ban
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Bonifacius at vl0119"
+  note: >
+    Boniface Concilium Germanicum 742 + Synod of Estinnes 743 canons
+    prohibiting clerical arms-bearing + hunting-with-dogs-and-falcons
+    (except military chaplains with princely retinue). Flacius reads
+    with grim irony: even Papal-Roman apostle formally banned clerical
+    warfare — discipline utterly ignored by medieval papacy's warrior-
+    popes (Julius II most notoriously).
+
+carolus_magnus:
+  english: Charlemagne (Holy Roman Emperor 800)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Carolus Magnus at vl0119"
+  note: >
+    Charles the Great r. 768-814, first Holy Roman Emperor of Latin
+    West from Christmas 800. Convoked five reforming synods
+    (Frankfurt 794 already n130 + Aachen 799/802/809 + Chalons 813)
+    whose canons contra errores et abusus later ignored by Roman
+    papacy.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Bonifacius opening (vl0001-vl0115, 115
-# body pp + 32 paratexts ≈ 21% of 1094-pp body). Flacius lemma total:
+# FLACIUS 1556 — TRANCHE 2 through Carolus Magnus opening (vl0001-vl0119,
+# 119 body pp + 32 paratexts ≈ 21.7% of 1094-pp body). Flacius lemma total:
 # 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
 # 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
 # 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) = 128.
+# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) = 133.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

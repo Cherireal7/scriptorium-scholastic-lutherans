@@ -1363,7 +1363,39 @@ Intelligit de Papistico clero, seu de spiritualibus Papisticis, quod experientia
 
 **Hunc Bonifacium à multis Germanorum Apostolum dictum, non eò meo catalogo insero, quòd ipse**…⁴⁰⁷
 
-*[Boniface entry continues on `vl0116`; staged for the next Tranche 2 session.]*
+himself in any Papist errors resisted, unless because in a certain epistle he indicates to the Pope, that from his own abuses Romanistarum, quibus Germans, who at Rome had-been, scandalised-and-troubled-be, quaedam sua dispensationi: sed ut habeam occasionem dicendi de statu religionis, qui tunc in ecclesijs Germanicis fuerit.⁴⁰⁸
+
+**Fuerat iam olim** circa Apostolorum tempora religio Christiana in Germania sparsa, creuerat[que] etiam postea magis. Nam et patres quidam Germanicarum ecclesiarum uenerant, et **Auentinus** testatur, discipulos Apostolorum in Germania docuisse. Sed Papis nihil satis Christianum erat, quod non simul etiam Romanum esset. Quare misit hunc suum pseudoApostolum **Gregorius secundus**, qui circa annum Domini 715 sedit in Germania, cum plenissimis seu turgidissimis bullis, ut Germanos magis ad Papam quàm Christum conuerteret.⁴⁰⁹
+
+**Baleus scribit in suo Catalogo**, huic Bonifacio omnia in Romanae ecclesiae formam commutanti, sese opposuisse doctos quosdam viros, scilicet **Clementem**, **Scotum**, & **Adalbertum Gallum**, qui librum contra eum edidit. Sed Bonifacius illos sua & Papae quoq[ue] excommunicatione damnasse, & in carcerem Adalbertum in Fuldensi monasterio conijecisse, ubi et computruit ille bonus ac pius vir. Epistola quaedam **Zachariae papae** nominat illos episcopos, nec obijicit eis haeresim, sed tantum haec, haud dubie propterea quod in nullis fidei articulis errarent, sed tamen intere non omnia approbarent, quae papista Bonifacius egebat. Vtinam ille liber Adalberti extaret.⁴¹⁰
+
+**Sanè apparet ex epistolis huius Bonifacij ad papas, et illorum responsionibus, cum non minus de Papae, quàm de Christi regno promouendo solicitus fuisse.** Nam in suo iuramento, quo se Romanistis obligat, clarè hoc inter alia ponit: *Sed fide ac puritatem meam, ut dixi, atque concursum tibi & utilitatibus tuae Ecclesiae exhibebo.* Sic ergo Malefacius docuit, ut praecipue utilitatibus Papae et Romanae ecclesiae quaereret.
+
+Exstat inter alias etiam una epistola **Gregorij secundi** ad istum Bonifacium, in qua haec verba leguntur: Pro obeuntibus quippe consuluisse dignum est, si liceat oblationes offerre. **Sancta sic tenet Ecclesia**, ut quisq[ue] pro suis mortuis uerè Christianis offert oblationes, atq[ue] presbyter eorum memoriam faciat. Vnde profectò multa observatu dignissima intelligi possunt.⁴¹¹
+
+*Primum*, oblationes pro mortuis non perinde fuisse in usu olim, ut iam sunt. Ignorat enim olim oblationes pro mortuis tantus papae Apostolus, quas iam ne rustici quidem ignorant, ut pote quorum facultates non parum per Missas pro mortuis exhauriantur. Deinde clarè etiam hunc animaduerti potest, cuiusmodi tunc fuerit ratio offerendi pro mortuis: nempe talis, ut quisq[ue] offerret in templo quãcumq[ue], rem utilem ad uictum & amictum uellet, aut haberet, idq[ue]; se offerre pro suis mortuis diceret: Sacerdos autem in publica precatione eorum memoriam faciat, quod etiã ex aliorum antiquorum scriptis animaduerti potest.⁴¹²
+
+**Quaesiuit quoq[ue] hic idem doctissimus apostolus à Papa, quando ist laridum commendandum sit.** Papa respondit, tunc commendandum, cum uel fumo siccatum, uel alioqui coctum fuerit. Ridiculum hoc ualdè est: sed tamen apparent hinc, et ex alijs quaestiunculis Papae ab eo propositis, quàm praeclaris pascuis oues Christi hic lupus in Germania pauerit: nempe manifestissimis caeremonijs, et uanissimis traditiunculis, et in primis studio obediendi Rom. pontificibus, sicut ipsemet Malefacius de sese scribit ad Zachariam papam inquiens: *Quantoscunque audientes uel dicentes uidero in ista legatione mihi Deus donauerit, ad obedientiam Apostolicae sedis irritare et inclinare non cesso.*⁴¹³
+
+Hic igitur Christiane lector perspicis, quali Christianismo Bonifacius iste Germanos imbuerit, nempe quòd eos ex Christi cultoribus Papae cultores effecerit. Aiunt tamen, eum aliquos ex ethnicis conuertisse. Fieri sanè potest. Subinde enim aliqui conuertebantur tum ante eius natiuitatem, tum etiam post eius mortem.
+
+**Auentinus libro Bauaricorum annalium quarto scribit**, ualde multos sacerdotes sese huic Bonifacio ritus Romanos Germanicis ecclesijs obtrudenti opposuisse, eumq[ue] etiam in publicis concionibus accusasse, sit mendaciorum author, Christianaeq[ue] religionis ac pacis perturbator & corruptor: sed partim carceribus, partim Pontificis ac Regis authoritate repressos et oppressos esse. Omnino uerisimile est, eos non sine causa ei repugnasse. Constat enim, **Clementem**, **Albertum**, **Samsonem**, **Sidonium** archiepiscopum, **D. Virgilium**, & alios quosdam, Bonifacij aduersarios fuisse, uiros eruditione ac pietate cum primis celebres ac praestantes.⁴¹⁴
+
+Scripsit **Zacharias papa ad hunc Bonifacium**: et postea Bonifacius in quadam sua Synodo confirmari decreto curauit, ne ullo modo sacerdotibus arma portare, aut pugnandi causa ad bellum proficisci liceat. Sed adscribam ipsum decretum. **Seruis Dei per omnia omnibus armaturam portare, aut pugnare, aut in exercitum et in hostem pergere, omninò prohibemus. Nisi illis tantummodo, quia propter diuinum ministerium, missarum scilicet solemnia adimplenda, et sanctorum patrocinia portanda, ad hoc electi sunt: id est, ut unum uel duos episcopus cum capellanis presbyteris, princeps secum habeat. Et unusquisq[ue] praefectus unum presbyterum, qui hominibus peccata confitentibus indicare et indicare poenitentiam possit. Nec non illas uenationes, & syluaticas uagationes cum canibus, omnibus seruis Dei interdiximus: similiter accipitres et falcones non habendos.**⁴¹⁵
+
+**Vtinam hoc idem etiam nostris temporibus servaretur.** Pleraq[ue] enim bella iam 500 annis, à sacrificulis et excitata sunt. Quietiores profectò res non parum in Christianitate haberemus, firmiorq[ue] pace Deo iuuante perfrueremur.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Carolus Magnus
+
+### *Charlemagne* — vl0119+
+
+**Carolus Magnus**, rex Galliae & Germaniae, primusq[ue] Germanus Imperator, regnauit circa 800 Domini annum.⁴¹⁶ Curauit quinq[ue] Synodos celebrari, in quibus multa sunt decreta contra errores & abusus nunc quidem grassantes & regnantes, tunc uerò…
+
+*[Charlemagne entry continues on `vl0120`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2366,6 +2398,26 @@ Intelligit de Papistico clero, seu de spiritualibus Papisticis, quod experientia
 ## From the Catalogue — Bonifacius (vl0115+)
 
 **⁴⁰⁷** **St Boniface** (Winfrid, c. 675 – 754), *Apostolus Germanorum*, the Anglo-Saxon missionary who Christianised Frisia and central Germany under papal commission. His extensive correspondence (preserved in the *Epistolae Bonifatii*, PL 89) shows both his conversion-labour and his imposition of Anglo-Roman-monastic conformism on the German churches. Flacius includes him ambivalently — Boniface accomplished Christian conversion, but also opposed the Carolingian-era anti-Roman reformers (Adalbert and Clement the Scot, glossed at endnote 399). The entry continues on the next page.
+
+**⁴⁰⁸** **The Boniface *Malefacius* wordplay** — Flacius's transformation of *Bonifacius* (*bene-facere*, "well-doer") into ***Malefacius*** (*male-facere*, "evil-doer") is the polemical *senhal* Flacius applies throughout the Bonifacius entry. The bilingual Latin pun is characteristic of Reformation-era Latinate wit.
+
+**⁴⁰⁹** **Pope Gregory II** (r. 715–731), sent Boniface to Germany in 719, consecrated him bishop in 722 with express commission to impose Roman liturgical and disciplinary conformity. Flacius reads this as the moment when Roman-monastic conformism was imposed on a pre-existing German Christianity that had grown organically from Apostolic times. **Johannes Aventinus's** *Annales Boiorum* (Ingolstadt 1554, already at endnote 330) is Flacius's chief source for this Bavarian-Germanic anti-Roman tradition.
+
+**⁴¹⁰** **Bale, John** (already glossed at endnote 153) — Bale's *Catalogus* preserves the Adalbert-Clement-Scot resistance to Bonifacian Romanising. **Pope Zacharias's** *Epistula ad Bonifacium* (in the *Codex Carolinus*) is the correspondence in which the two are condemned. Adalbert's own book against Boniface — *quo utinam liber Adalberti extaret* — is lost, one of the many pre-Reformation reformist texts Flacius laments as suppressed.
+
+**⁴¹¹** **Gregory II, *Epistula ad Bonifacium*** on oblationes pro mortuis — one of the specific canonical questions Boniface put to the papal see. Flacius reads Gregory's cautious answer (*si liceat oblationes offerre* — "if it be lawful to offer oblations") as evidence that even in the early 8th c. the doctrine of oblationes for the dead was not yet universal in the Church.
+
+**⁴¹²** Flacius's careful reading of Gregory II's letter — the 8th-c. Roman practice of *oblationes pro mortuis* was congregation-oblation-of-goods-for-priestly-memorial, not sacrificial Mass for the dead. The Reformation-standard distinction (Melanchthon *Apologia* XXIV) between primitive prayers-for-the-dead and later medieval Mass-sacrifice-for-the-dead is exemplified here.
+
+**⁴¹³** **Boniface's oath of Roman obedience** — preserved in the *Codex Carolinus* under the year 722 — in which Boniface pledged to work *ad obedientiam Apostolicae sedis irritare et inclinare* whatever hearers he encountered. Flacius reads the oath as the founding moment of specifically-Papal (as distinct from Christian) German conversion.
+
+**⁴¹⁴** **Aventinus, *Annales Boiorum* IV** preserves the names of German-Gallic clerics who opposed Boniface's Roman conformism: **Clement (Scot)**, **Albert (Adalbert)**, **Samson**, **Sidonius the Archbishop**, and **St Virgilius of Salzburg** (†784) — the last-named a scholar of unusual erudition who defended the doctrine of the *antipodes* against Boniface's condemnation as heretical. Reformation-standard *pre-Reformation-reformist* catalogue.
+
+**⁴¹⁵ Boniface's Synod of Estinnes (743) and Concilium Germanicum (742)** — the canons prohibiting clerical arms-bearing and hunting-with-dogs-and-falcons (except for military chaplains with a princely retinue). Flacius reads with grim irony: even Boniface, the Papal-Roman apostle, formally banned clerical warfare — a discipline utterly ignored by the medieval papacy's own warrior-popes (Julius II most notoriously).
+
+## From the Catalogue — Carolus Magnus (vl0119+)
+
+**⁴¹⁶** **Charlemagne** (Charles the Great, r. 768–814), King of the Franks and, from Christmas Day 800, the first Holy Roman Emperor of the Latin West. Flacius reads Charlemagne as a Christian ruler who convoked five reforming synods (Frankfurt 794 already at endnote 130; Aachen 799 and 802 and 809; Chalons 813) whose canons *contra errores et abusus* were later ignored by the Roman papacy. Entry continues on next page.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
