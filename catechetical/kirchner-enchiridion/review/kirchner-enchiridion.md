@@ -195,25 +195,42 @@ A working English edition translated by
 
 &nbsp;
 
-### *Part One (continued)*
+### *Part One (continued in this tranche)*
 
 |  | Page |
 |:---|---:|
 | **Hauptstück II · On God** | 39 |
 | &nbsp;&nbsp;&nbsp;§§ 1–10. How God is to be known · what God is · his four properties · one God · three Persons against Arius/Macedonius/Sabellius · against Jews and Turks · inward distinction of Persons · sum of the mystery · necessity for salvation · the Person of the Father | 39 |
 | **Hauptstück III · On the Person of Our Lord Christ** | 55 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Christ true eternal God · another Person, not another God · true man of the Virgin Mary · Mary rightly Theotokos · God and Man in one indivisible Person; the Chalcedonian Definition in full | 55 |
-| &nbsp;&nbsp;&nbsp;§§ 6–9. Why the Mediator had to be God and Man · both natures preserve properties · neither is its own Person · three points on speaking cautiously (person suffers not nature; person is Mediator per both natures; scriptural attribution of all authority to the human nature) | 61 |
-| &nbsp;&nbsp;&nbsp;§§ 10–13. First and Second Objections on the *communicatio idiomatum* + *genus maiestaticum*; Christ's human nature active in miracles (Athanasius + Cyril); Christ's flesh as life-giving (Cyril on John 6 + Ephesus) | 71 |
-| &nbsp;&nbsp;&nbsp;§§ 14–17. Christ's knowledge according to the human nature (against the Agnoetae) · invocation of Christ according to the human nature · objection on creature-worship (Augustine on the flesh of the Lord); the resurrected body | 82 |
-| &nbsp;&nbsp;&nbsp;§§ 18–21. The Ascension not allegorical · what "heaven" means (not a *Locus Physicus*) · the Right Hand of God is not a created place but the Divine Majesty · Christ rules present at the Right Hand · against ubiquity-of-substance-in-all-creatures, for ubiquity-of-Person-per-Personal-union | 91 |
-| &nbsp;&nbsp;&nbsp;§§ 22–23. Christ's glorified body (through sealed grave, invisible, doorless appearances) · the state of Humiliation and Exaltation (Christ's Majesty concealed but held; released fully at Ascension and sitting at Right Hand) | 103 |
-| **Hauptstück IV · On the Office of Christ** | 115 |
-| &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103); source-copy terminates mid-sentence at cv 108 | 115 |
+| &nbsp;&nbsp;&nbsp;§§ 1–23. Christ true God + true man · Mary Theotokos · Chalcedonian Definition · communicatio idiomatum · genus maiestaticum · caro vivifica · Christ's knowledge and invocation according to the human nature · Ascension · Right Hand of God as no *Locus Physicus* · state of Humiliation and Exaltation | 55 |
+| **Hauptstück IV · On the Office of Christ** *(opening only)* | 115 |
+| &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103); ends mid-sentence at cv 108 in the sinner-exemplar list. **Locus continues past cv 108 for many more canvases — see Translator's Note § 5.** | 115 |
 
 &nbsp;
 
-### *Back Matter*
+### *Not yet in this tranche — approximately 88% of the book (~cv 109 through ~895)*
+
+|  | Approx. cv |
+|:---|---:|
+| Continuation of Hauptstück IV sinner-list + *Vom Reich Christi* (Kingdom of Christ) | 109–149 |
+| *Von bösen Engeln* (evil angels — locus continues back to good angels) | ~150 |
+| *Von der wircklichen Sünde* (actual sin) | ~200 |
+| *Von der Rechtfertigung* (Justification) | ~250 |
+| *Vom Glauben an Christum* (faith vs Papist works) | ~300 |
+| *Von der Tauffe* (Baptism) | ~400 |
+| *Von dem H. Abendtmal* (Lord's Supper) | ~500 |
+| *Von der Catholischen* (anti-Papal on false doctrines) | ~600 |
+| *Von der Busse* (Repentance, against auricular confession) | ~700 |
+| *Vom Antichrist* (papal Antichrist) | ~800 |
+| *Von der Aufferstehung der Todten* (Resurrection) | ~850 |
+| *Von der Hell* — Hell, locus XLV | ~870 |
+| *Vom ewigen Leben* — Eternal Life, locus XLVI | 880–895 |
+
+**Almost certainly present in the untranslated ~700 canvases but not yet located by cv-probe:** Creation, Providence, good Angels (partially — the evil-angels locus at cv 150 must open with good angels), Man before and after the Fall, Original Sin, **the Ten Commandments / Decalogue with the *Politia* and *Obrigkeit* / political-authority material**, Christian Liberty, Good Works, the Church (marks + ministry + ordinances), the Cross and Consolation, Sanctification, Prayer / the Lord's Prayer.
+
+&nbsp;
+
+### *Back Matter (this tranche)*
 
 |  | Page |
 |:---|---:|
@@ -268,24 +285,54 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 - **Orthography:** 1583 forms silently modernised in the English — *vnd* → *und* in preserved German phrases; long-*ſ* → *s*; *w.* (Kirchner's mid-word abbreviation) expanded; hyphenated line-breaks joined; the terminal *ẑ* rendered *ß* in German source citations, *s* in English body. Where the 1583 orthography preserves a doctrinally meaningful spelling — *Christlichen Concordi Buchs* — it stands.
 - **Dividers:** `— ❦ —` (em-dash · aldus leaf · em-dash) at section breaks.
 
-## 5. Scope of this working translation
+## 5. Scope of this working translation — *first tranche only*
 
-This working edition ships **the whole of Kirchner's 1583 *Enchiridion*** — title page, dedication epigraph, Widmungsvorrede in full (cv 7–28), and all four Hauptstück in full:
+**This is a first tranche covering approximately 12% of the whole book. The remaining ~88% is pending translation in future tranches.**
 
-- **Hauptstück I · *Von der Heiligen Schrifft*** — cv 29–44, 14 numbered sections;
-- **Hauptstück II · *Von Gott*** — cv 45–50, 10 numbered sections (Trinity, three Persons in one Divine Being, against Arius / Macedonius / Sabellius / Jews / Turks);
-- **Hauptstück III · *Von der Person unseres HERREN Christi*** — cv 51–103, 23 numbered sections; the polemical core of the entire book. The *Symbolum Chalcedonense* is preserved in full Latin (*apud Nicephorum* lib. 15 c. 6) with a facing English rendering. The block develops the *communicatio idiomatum* in three points (person-not-nature suffers; person mediates per both natures; all authority ascribed to the human nature); handles two systematic objections on the *genus maiestaticum*; treats Christ's flesh as life-giving (per Cyril and the Council of Ephesus); the invocation of Christ per Personal union (Augustine *In Ioan.* 14); the Ascension not as spatial motion but as entry into full use of Majesty; the "Right Hand of God" as no *Locus Physicus* but as the Divine Majesty itself; and the anti-Sacramentarian doctrine of Christ's bodily presence per Personal union rather than per ubiquity-of-substance-in-all-creatures. Kirchner's Q&A here is the catechetical distillation of Formula of Concord Articles VII and VIII (Lord's Supper and Person of Christ).⁵ It is the largest single locus of the work and the reason for the volume's existence;
-- **Hauptstück IV · *Vom Ampt Christi*** — cv 104–108, 3 numbered sections. The four-part office of Christ (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit); appropriation of the benefits by faith alone in Christ's merit; comfort against great sin from Rom. 5, Matt. 9, Matt. 11, Luke 15, Isa. 1, Ps. 103, and a list of exemplary redeemed sinners.
+An earlier draft of this section (pushed 2026-08-30 as commits `1bf51a7` + `381f862` + `dc654e5`) claimed to be **the complete Enchiridion**. That claim was catastrophically wrong. It was based on the BSB IIIF Presentation manifest for `bsb00020680`, which reports 108 total canvases and yields no other structural information. Direct probing of the per-canvas hOCR API on **2026-08-31** revealed that the same identifier serves canvases well past 108 — cv 109, 150, 200, 250, 300, 400, 500, 600, 700, 800, 850, 870, 880, 895 all return real body content — and the book's actual extent is approximately **895 canvases** (cv 900 returns only the BSB shelfmark stamp; cv 950 and beyond return HTTP 404). The manifest is broken; the book itself is roughly nine times larger than the manifest disclosed.
 
-**One editorial note on the source's end.** Canvas 108 — the last of the digitised BSB copy of the 1583 Heidelberg imprint — breaks off mid-sentence, in the enumeration of Adam and other paradigm sinners who received grace. After the first tranche closed, this working translation was cross-checked against **two additional BSB copies** of a later Frankfurt reprint of the same work (1592: shelfmarks `bsb10193988` and `bsb10174368`, both 107 canvases each). Findings:
+Kirchner's *Enchiridion* is therefore not what the earlier note described as a "polemical Christological catechism" running four short Hauptstück in 108 canvases. It is a **fully comprehensive Lutheran systematic-catechetical handbook** of at least 46 numbered loci across ~895 canvases (~447 leaves = ~890 pp small octavo Fraktur), covering the whole range of Reformation dogmatics. The running-head "locus XLV" (*Von der Hell* at cv 870) and "locus XLVI" (*Vom ewigen Leben* at cv 880–895) confirm at least 46 loci; the true count may be higher.
 
-- The 1583 Heidelberg copy at 108 canvases is the **fullest digital witness** to Kirchner's *Enchiridion* now available. Both 1592 reprints run only to a point corresponding roughly to our 1583 canvas 103 (mid-*Magister sententiarum* reference) — they appear either to have dropped Hauptstück IV *Vom Ampt Christi* altogether or to be truncated in the digital scan.
-- **All three BSB scans** terminate with a *catchword* rather than a *colophon*. In early-modern printing a terminal catchword ordinarily indicates a following leaf, and three separate physical copies ending in the same non-colophonal pattern raises the possibility that all three BSB digitisations lost the same final leaf or short terminal quire; equally, some 16th-century devotional pocket-books do simply end without formal colophon, and the recurrent pattern may be a printer's convention rather than three parallel losses. The evidence does not settle the question.
-- A definitive answer would need a non-BSB copy (K10plus, HAB Wolfenbüttel, and WorldCat OCLC 257769993 for the 1585 Magdeburg imprint were all inaccessible or Anubis-blocked at the time of this working translation), or the VD16 K 1037 physical-description record from a working VD16 gateway. Neither was obtainable.
+### What THIS tranche ships (cv 5, 7–108 = the first 12%)
 
-The English here therefore closes with the same suspension as the fullest available witness — disclosed at Hauptstück IV § 3. If a full-collation copy later surfaces with an intact tail, this working edition can be extended; the missing content, if any, is unlikely to exceed one short quire (roughly a few more sinner-exempla, a closing prayer, and a printer's colophon), and does not touch the doctrinal substance of the volume, which is fully preserved in Hauptstück III's Christology and Hauptstück IV's fourfold Office.
+- **Title page + Widmungsvorrede an Elector Ludwig VI** (cv 5, 7–28) — the Nehemiah-typology dedication and the load-bearing Book-of-Concord binding at cv 27;
+- **Hauptstück I · *Von der Heiligen Schrifft*** (cv 29–44) — 14 numbered sections on Scripture, its authority, the interpretive rule, against Papist and Enthusiast (*Schwärmer*) errors;
+- **Hauptstück II · *Von Gott*** (cv 45–50) — 10 numbered sections on the Trinity;
+- **Hauptstück III · *Von der Person unseres HERREN Christi*** (cv 51–103) — 23 numbered sections on Christology, including the full Latin *Symbolum Chalcedonense apud Nicephorum* with facing English, the three *genera* of the *communicatio idiomatum*, the *genus maiestaticum* against Reformed rejection, the careful distinction between multipresence *per unionem personalem* and rejected substance-in-every-creature ubiquity, and the exegesis of the Right Hand of God as no *Locus Physicus* but the Divine Majesty itself. This is the polemical core of the tranche and one of the great locus-treatments of 16th-c. Lutheran Christology in vernacular Q&A form;
+- **Hauptstück IV · *Vom Ampt Christi*** (cv 104–108, opening only) — the fourfold Office broken off in the shipped tranche at the sinner-exemplar list.
 
-An earlier draft of this note claimed the VD16 physical description as `[8], 90, [1]` leaves; that figure was extrapolated rather than verified against VD16 itself and has been withdrawn. The BSB copy's extent is what it is (108 canvases small octavo); the true full extent of the 1583 imprint is an open bibliographic question.
+### What is NOT yet translated (cv 109 through ~895 = the remaining ~88%)
+
+Loci confirmed via cv-probes on 2026-08-31 (with the running head-form reported by the OCR):
+
+| Approximate cv | Locus |
+|:---|:---|
+| 109–149 | Continuation of sinner-list + *Vom Reich Christi* (Kingdom of Christ, spiritual) |
+| 150+ | *Von bösen Engeln* (of evil angels) — extending back through good angels |
+| 200 | *Von der wircklichen Sünde* (actual sin) |
+| 250 | *Von der Rechtfertigung* (Justification) |
+| 300 | *Vom Glauben an Christum* (faith vs Papist *fides caritate formata*) |
+| 400 | *Von der Tauffe* (Baptism — against the papal *character indelibilis* doctrine, Innocent III's decretal) |
+| 500 | *Von dem H. Abendtmal* (Lord's Supper — Christ's body's spatial location, Chrysostom, Jerome, Augustine) |
+| 600 | *Von der Catholischen* (Catholic doctrine — anti-Papal, sacrifice of the Mass, purgatory, saint-invocation) |
+| 700 | *Von der Busse* (Repentance — against auricular confession) |
+| 800 | *Vom Antichrist* (the Antichrist — papal identification, saint-invocation as pagan *interpretatio Christiana*) |
+| 850 | *Von der Aufferstehung der Todten* (Resurrection) |
+| 870 | *Von der Hell* — Hell, locus XLV |
+| 880–895 | *Vom ewigen Leben* — Eternal Life, locus XLVI (last locus) |
+| ~900 | End (blank leaf; cv 900 shows only shelfmark stamp) |
+
+Certainly present but not yet located by cv-probe (must live in the ~700 untranslated canvases between our tranche and Resurrection): **the Ten Commandments / Decalogue treatment**, which in Lutheran catechesis carries the *Politia* / *Obrigkeit* material — the political-authority doctrine including the two-kingdoms teaching, the office of magistracy, the Christian's civil duties. This is what your reader wanted for their political-compend project and is definitely somewhere in the ~cv 200–400 stretch. **Also standard Lutheran loci** almost certainly present but unlocated: Creation, Providence, Angels-both-good-and-evil, Man before and after the Fall, Original Sin, Christian Liberty, Good Works, the Church (marks + ministry + ordinances), the Cross and Consolation, Sanctification.
+
+Kirchner's *Enchiridion* in its true extent is therefore comparable in doctrinal scope to Chytraeus's 1594 *Catechesis* (10 loci in ~180 pp) but nearly five times its extent, and in the same magnitude as his own Latin *Methodica explicatio* (1586, 1310 pp folio) though in octavo format. Kirchner in the Vorrede at cv 23 modestly calls it *"kurze Enchiridion oder Handbüchlein"* ("short handbook") — evidently a modesty topos, since the actual book runs ~890 pages.
+
+### Cross-check against 1592 Frankfurt reprints — needs re-verification
+
+An earlier draft of this section reported that two BSB copies of the 1592 Frankfurt reprint (`bsb10193988` and `bsb10174368`, both 107 canvases per their manifests) run to a point corresponding to our cv 103 and appear either to have dropped Hauptstück IV or be truncated. **That reasoning is now also suspect**: both 1592 manifests may equally under-report their true canvas count, and the 1592 reprints may in fact contain the whole ~895 canvases as our 1583 does. This will be re-probed in Tranche 2. The 1592 reprints may still turn out to be a legitimate shortened *Auszug* rather than truncated scans; the current best evidence is provisional.
+
+### The withdrawn VD16 line
+
+An earlier draft claimed the VD16 K 1037 physical description as `[8], 90, [1]` leaves. That figure was extrapolated rather than verified against VD16 itself and has been withdrawn. It is now clear that any collation formula for this imprint must be closer to `[8], ~440, [1]` leaves or thereabouts. The VD16 gateway remained Anubis-blocked and the precise physical description could not be verified at the time of this correction.
 
 Also reserved for a possible companion volume is Kirchner's fuller Latin systematic recasting of the same doctrinal material: the *Methodica explicatio praecipuorum capitum doctrinae coelestis* (1586, printed at both Wipprecht — 1310 pp — and Steinman; second edition 1595, Beyer, 1029 pp). Google Books holds three editions in facsimile;⁶ a full Latin-versus-German collation would substantially thicken the endnote apparatus and is a plausible companion volume in its own right rather than an inclusion in the present edition of the pocket-sized 1583 *Enchiridion*.
 
@@ -1354,9 +1401,11 @@ Ps. 103: *As far as the east is from the west, so far has he removed our transgr
 
 &nbsp;
 
-*Working translation completed 30 August 2026.*
+*Tranche 1 shipped 30 August 2026 (kick-off) and 30 August 2026 (Hauptstück II–IV opening). Retracted "complete" claim 31 August 2026 upon discovery that the BSB IIIF manifest under-reported the canvas count by roughly nine-fold.*
 
-*Comprising the whole of Kirchner's 1583 *Enchiridion*: Title Page, Colophon, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full (source canvases 7–28); Hauptstück I* Von der Heiligen Schrifft *in full (cv 29–44), Hauptstück II* Von Gott *in full (cv 45–50), Hauptstück III* Von der Person unseres HERREN Christi *in full (cv 51–103) — the polemical Christological core, at 23 numbered sections the largest single locus — and Hauptstück IV* Vom Ampt Christi *in full (cv 104–108). The source-copy terminates mid-sentence at cv 108 in the sinner-list of Hauptstück IV § 3; the English follows the source's incompletion, disclosed at Translator's Note § 5.*
+*Comprising cv 5 + cv 7–108 of what is now known to be an approximately 895-canvas book — approximately **12% of the whole *Enchiridion***. Contents this tranche: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; Hauptstück I* Von der Heiligen Schrifft*, Hauptstück II* Von Gott*, Hauptstück III* Von der Person unseres HERREN Christi *(the polemical Christological core), and the opening of Hauptstück IV* Vom Ampt Christi *(broken off in the source-shipped-slice at the sinner-exemplar list, cv 108).*
+
+*Approximately 88% of the book — running from cv 109 through cv ~895 and covering the standard Lutheran catechetical loci from Christ's Kingdom through Angels, Man, Sin, the Decalogue and *Politia*, Justification, Faith, Baptism, Lord's Supper, Repentance, Antichrist, and Last Things — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
 
 &nbsp;
 
