@@ -219,12 +219,16 @@ A working English edition translated by
 | &nbsp;&nbsp;&nbsp;§§ 1–11. *Teufel = Lästerer* · demonic hierarchy · six characteristics (mighty / thousand-arts / liars-and-murderers / envious / melancholy / corrupting) · six pieces of the spiritual armour per Eph. 6 · Satan has no power over God's servants · why God permits demonic trial · against Papist exorcism · whether Devils are saved · where Evil Spirits dwell · Christian consolations | 181 |
 | **Hauptstück XI · On Man before the Fall** | 195 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Man as God's creature · created by the Trinity in counsel · body from *Aphar* + soul from divine breath · woman from Adam's rib · Image of God as *righteousness and holiness* per Paul · seven attributes of the original state · Image as gift not essence · Man's purpose (know / honour / praise / serve) | 195 |
-| **Hauptstück XII · On the Fall of Adam** | 203 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Beginning of sin in Devil's temptation · the Tree as sign of God's superiority · what Adam would have done sinless · Adam's sin against all Ten Commandments · seven consequences of the Fall · restoration via the *protoevangelium* (Gen. 3:15) | 203 |
+| **Hauptstück XII · On the Fall of Adam (with Free Will after the Fall)** | 203 |
+| &nbsp;&nbsp;&nbsp;§§ 1–13. Beginning of sin in Devil's temptation · seven consequences of the Fall · restoration via the *protoevangelium* (Gen. 3:15) · **Free Will after the Fall** — Augustine's *servum arbitrium* · eight reasons for spiritual inability · conversion as *pur Gnadenwerk Gottes* · not coercion but transformation · Luther's *purè passivè* clarified · use | 203 |
+| **Hauptstück XIII · On Sin in General** | 217 |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Sin defined (deficiency + inclination + work) · origin not from God · God's wrath · five fruits of sin · Original vs Actual sin (Augustine's four causes per *Enchiridion*) · Dominant vs Non-Dominant sin (Rom. 6 / Rom. 7) · the unforgivable sin against the Holy Spirit · use | 217 |
+| **Hauptstück XIV · On the Law of God** | 227 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Law defined · Two Tables · inability of Man to fulfil · **the three uses of the Law (*triplex usus legis*: pedagogical, POLITICAL — with paternal authority + magistracy + schoolmasters — and didactic)** · Christ's new obedience in believers · three sorts of hearers · **the political order (*Politia*) — the seed of Christian political doctrine, Rom. 13, honour extended from the Fourth Commandment to the magistracy, two-kingdoms in catechetical form** | 227 |
 
 &nbsp;
 
-### *Not yet in this tranche — approximately 65% of the book (~cv 163 through ~895)*
+### *Not yet in this tranche — approximately 55% of the book (~cv 236 through ~895)*
 
 |  | Approx. cv |
 |:---|---:|
@@ -301,9 +305,9 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 - **Orthography:** 1583 forms silently modernised in the English — *vnd* → *und* in preserved German phrases; long-*ſ* → *s*; *w.* (Kirchner's mid-word abbreviation) expanded; hyphenated line-breaks joined; the terminal *ẑ* rendered *ß* in German source citations, *s* in English body. Where the 1583 orthography preserves a doctrinally meaningful spelling — *Christlichen Concordi Buchs* — it stands.
 - **Dividers:** `— ❦ —` (em-dash · aldus leaf · em-dash) at section breaks.
 
-## 5. Scope of this working translation — *first three tranche-slices shipped, ~35% of the whole book*
+## 5. Scope of this working translation — *four tranche-slices shipped, ~45% of the whole book, including the political-authority *Politia* seed-passage*
 
-**This edition currently ships Tranches 1, 2a, and 2b — approximately 35% of the whole book. The remaining ~65% is pending translation in future tranches.**
+**This edition currently ships Tranches 1, 2a, 2b, and 2c — approximately 45% of the whole book, including the seed of the Lutheran political-theology treatment. The remaining ~55% is pending translation in future tranches.**
 
 An earlier draft of this section (pushed 2026-08-30 as commits `1bf51a7` + `381f862` + `dc654e5`) claimed to be **the complete Enchiridion**. That claim was catastrophically wrong. It was based on the BSB IIIF Presentation manifest for `bsb00020680`, which reports 108 total canvases and yields no other structural information. Direct probing of the per-canvas hOCR API on **2026-08-31** revealed that the same identifier serves canvases well past 108 — cv 109, 150, 200, 250, 300, 400, 500, 600, 700, 800, 850, 870, 880, 895 all return real body content — and the book's actual extent is approximately **895 canvases** (cv 900 returns only the BSB shelfmark stamp; cv 950 and beyond return HTTP 404). The manifest is broken; the book itself is roughly nine times larger than the manifest disclosed.
 
@@ -1945,9 +1949,243 @@ Because Adam *sinned against God's Word* and — through this one act — *again
 
 Through the **Word of Promise** given in Gen. 3:15 — *the Seed of the Woman shall bruise the serpent's head* — the *protoevangelium*, the first promise of the Gospel and of the Christ to come.⁴⁷
 
+## § 6. On Free Will after the Fall
+
+**What can free will accomplish in spiritual matters?**
+
+**Nothing at all — of and from itself.** For the will after the Fall is the Devil's prisoner (2 Tim. 2:26); wherefore *Augustine* against Julian (lib. 2) turns the phrase *"free will"* upon itself and calls it *servum arbitrium* — a *bound* or *enslaved* will.⁴⁸
+
+## § 7. Why Man's powers avail nothing spiritually after the Fall
+
+**Why do Man's powers now avail nothing in spiritual matters?**
+
+**First**, the free will after the Fall of Adam is only *an empty name* — and when it does what is in it, *it sins mortally* (Augustine, *De Spiritu et Littera* 4: *"Free will without God's grace serves only to sin"*).
+
+**Second**, Man is *a corrupted mirror* who no longer knows or understands God nor his gracious will.
+
+**Third**, Man is a *prisoner of sin and the Devil* until converted (Eph. 2:2; 2 Tim. 2).
+
+**Fourth**, "in Man there is nothing good on account of sin" (Ps. 14:3; Rom. 3:12).
+
+**Fifth**, all are *conceived in sins and born* (Ps. 51:5).
+
+**Sixth**, all are *flesh*, living fleshly lives in thought, speech, and action until reborn (John 3).
+
+**Seventh**, no human can boast before God on his own powers.
+
+**Eighth**, all are therefore *guilty before God's judgement* (Rom. 3:19).
+
+## § 8. Free will retained in outward things
+
+**Does Man retain free will in outward or worldly matters?**
+
+**Yes** — in *Kühe, Pferde, Geld, Gut* (cattle, horses, money, possessions) and temporal concerns Man retains a real dominion, though this capacity too is weakened.
+
+## § 9. That conversion is entirely God's work
+
+**What is the "stone heart" of which Scripture speaks?**
+
+After the Fall, natural human powers have no *Geschicklichkeit* (skill) or *Tüchtigkeit* (capability) in divine matters. Human conversion is *ein pur Gnadenwerk Gottes* — purely a work of God's grace, accomplished through the divine operation of the Holy Spirit alone. **God promises**: *"I will give you a new heart and a new spirit"* (Ezek. 36:26).
+
+Even *Augustine* on Predestination (cap. 3) at first believed *"accepting or receiving [grace] stood within our power,"* but later acknowledged his error. Accepting God's promise and giving assent to it is exclusively *God's or the Holy Spirit's gift and work*.
+
+**How is Man converted to God?**
+
+Conversion occurs through God's provision of **Word and Sacraments** — the preaching of the Law breaks hardened hearts (Jer. 23:29: *my Word is like a hammer that breaks the rock*), the Gospel restores the broken heart (Rom. 1:16: *the Gospel is a power of God unto salvation*). *"Convert thou me, and I shall be converted"* (Jer. 31:18) is the prophet's own prayer, confessing that all spiritual transformation begins with God.
+
+## § 10. Whether conversion is coercion
+
+**Is human conversion to God a *Coactio* or force?**
+
+**No.** God does not coerce; he *changes* the resistant heart. He converts an *unwilling* heart into a *willing* heart (Ps. 110:3: *thy people shall be willing in the day of thy power*; Rom. 7). What was compulsion in the natural man becomes freedom in the reborn.
+
+## § 11. Whether the reborn will can cooperate with grace
+
+**Can the renewed or reborn will cooperate with divine grace?**
+
+Before the Fall, Man possessed this capacity; after the Fall, it was **entirely lost** (*gar verloren*). The will cannot direct itself toward God's grace unless the person is first **born anew**. Paul (Rom. 7) describes the internal conflict between *the law of the mind* and *the law of sin* which remains even in the reborn — for the reborn experience continuing weakness rather than perfection in this life. Continuous spiritual growth is expected: *the converted shall grow from day to day* (2 Cor. 6:1 — *receive not the grace of God in vain*).
+
+## § 12. Whether Luther's "purely passive" means without the Word
+
+**Luther says humans act *purè passivè* (purely passively) in their own conversion. Does that mean they convert without the preaching of God's Word?**
+
+**No.** Luther's meaning is not that humans convert apart from the preached Word. Rather, Luther means: *daß der Mensch gantz und gar nichts zu seiner Bekehrung wircke* — that humans contribute nothing to their conversion by their own natural powers — but merely *leyde, daß Gott in ihm wircket* — *suffer that God works within them* — through the ordinary means (the Word). Chrysostom and Basil taught the same, when rightly understood.
+
+**Objection.** *"Return unto me,"* God says (Gen. 4; Jer. 3) — surely this proves Man can turn *of himself* by free will?
+
+**Answer.** These sayings show what Man *ought to do*, not what he *is able to accomplish* by his own powers. The Sophists err who take biblical imperatives as proofs of unaided ability. God commands what he then himself works in us (Phil. 2:13: *for it is God which worketh in you both to will and to do of his good pleasure*).
+
+**Another Objection.** Free will can *accept* the innate grace; must not God first *"lay the stone"*?
+
+**Answer.** Rom. 10:14 — *how shall they hear without a preacher?* God alone must *lay the first stone and begin in thee*; without him you find only sin.
+
+## § 13. Use of the doctrine
+
+**What use has this doctrine of Man's spiritual inability?**
+
+**1.** That we may be **humbled**, learning through this teaching to recognise God's grace rightly.
+
+**2.** That we may learn faith is *ein Zuversicht dessen, das man nicht sihet* — *confidence in what one does not see* (Heb. 11:1) — a gift and grace from God rather than a work of reason.
+
 — ❦ —
 
-*[Tranche 2b ends here at cv 162. Free-will discussion continues at cv 165, followed by Hauptstück XIII* Von der Sünde *(Sin) at cv 180; and* Vom Gesetze *(the Law), where the political-authority /* Politia */* Obrigkeit *material lives, at cv ~210–240. See Translator's Note § 5.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XIII
+
+### *Von der Sünde in Gemein*
+
+*On Sin in General*
+
+— ❦ —
+
+## § 1. What Sin is
+
+**What is Sin?**
+
+Sin is *ein Mangel, böse Zuneigung, böses Werk oder That* — **a deficiency, an evil inclination, an evil work or deed** — which violates God's Law, angers God, and deserves temporal and eternal punishment unless forgiven through Christ.
+
+- **Sin as deficiency**: Rom. 3:23 (*all have sinned and come short of the glory of God*).
+- **Sin as known through the Law**: Rom. 7:7 (*I had not known sin, but by the Law*).
+- **Sin as works of the flesh**: Gal. 5:19 ff.
+
+Sin includes both **internal** (evil inclinations, lusts, desires — *böse Neigungen, Lüsten und Begierden*) and **external** (evil works). Both are prohibited by the Ten Commandments.
+
+## § 2. Origin of Sin
+
+**Whence comes Sin? Does it originate from God?**
+
+**No.** God is not the author of sin. He created humanity *ohne Sünd in Gerechtigkeit* — *without sin, in righteousness*. Humans were **seduced by the Devil** and fell away from God and his Word (John 8:44: *the devil is a murderer and liar from the beginning*). Human nature has since been corrupted by sin, the heart now inclined toward evil.
+
+## § 3. God's wrath against Sin
+
+**How does God regard sin?**
+
+*Rom. 1:18*: *the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men.* Sin is *das Unrecht* — *unrighteousness itself* (1 John 3:4). *Rom. 6:23*: *Der Tod ist der Sünden Sold* — *the wages of sin is death*.
+
+## § 4. The fruits of Sin — five points
+
+**What are the fruits of sin?**
+
+**1.** **Blindness of understanding** — our senses are darkened, that we no longer see or know God (Eph. 4:17–18).
+
+**2.** **God's righteous wrath**, and *fear and trembling of the conscience* (Eph. 2:3; Ps. 6; Ps. 38; Job 5; Wisd. 16).
+
+**3.** **Error and delusion** in all our doings and leavings, in spiritual and worldly matters (Rom. 1:21: *they became vain in their imaginations, and their foolish heart was darkened*).
+
+**4.** **Temporal calamities** — every misery of this life traces back to sin.
+
+**5.** **Eternal damnation** for those who die impenitent.
+
+## § 5. Original Sin vs Actual Sin
+
+**How is Sin divided?**
+
+**Original Sin (*peccatum originale*)** — the corruption inherited from Adam, described at Ps. 51:5 (*conceived in sins and born*). This is not a mere absence of righteousness but a positive corruption of nature — the *fomes peccati*, the "tinder of sin," that inclines even the reborn toward evil.
+
+**Actual Sin (*peccatum actuale*)** — every particular thought, word, or deed against God's Law that flows from the corrupt nature. Actual sin is divided into *internal* (evil desires, unbelief, arrogance) and *external* (blasphemy, cursing, swearing, murder, adultery, drunkenness, and every other work of the flesh — Matt. 15:19; Gal. 5:19–21). **Augustine's *Enchiridion*** identifies four causes of actual sin: *ignorance, weakness, pain or suffering, and lust*.⁴⁹
+
+## § 6. Dominant vs Non-Dominant Sin
+
+**What is the distinction between *herrschende* and *nicht herrschende Sünde* — dominant and non-dominant sin?**
+
+**Dominant Sin** rules in the unregenerate — those in whom sin has free course, who consent to sin without repentance and remain in unbelief. Such sin *reigns* and issues in eternal death (Rom. 6:12–14).
+
+**Non-Dominant Sin** remains in the reborn — the remnant of original corruption that Paul confesses in Rom. 7:14–25 (*"the good that I would I do not; but the evil which I would not, that I do"*). This sin **does not reign**, is fought against by the Spirit, is daily confessed and forgiven for Christ's sake, and does not exclude from grace.⁵⁰
+
+## § 7. Whether sin against the Holy Spirit can be forgiven
+
+**Can every sin be forgiven?**
+
+**Every sin can be forgiven** *save* the sin against the Holy Spirit (Matt. 12:31–32: *whosoever speaketh a word against the Son of Man, it shall be forgiven him; but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come*). This sin is not the failing of the weak but the *deliberate, obstinate, knowing rejection of the truth of God once acknowledged* — the sin of the stubborn heart that no longer wills repentance. Since it will not repent, it cannot be forgiven.
+
+## § 8. Use of the doctrine
+
+**What use has this doctrine of sin?**
+
+**1.** That we may know the greatness of our misery, and be driven to Christ the Physician.
+
+**2.** That we may abhor sin and flee it.
+
+**3.** That we may not despair — for **no sin is so great that Christ's blood does not cover it**, if we turn to him in faith.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XIV
+
+### *Vom Gesetze Gottes*
+
+*On the Law of God*
+
+— ❦ —
+
+## § 1. What the Law of God is
+
+**What is God's Law?**
+
+*"Nichts anders, dann Gottes Wort und Gebot"* — **nothing other than God's Word and Commandment**, demanding *internal and external obedience* and threatening punishment and eternal damnation for disobedience (Deut. 27:26; Gal. 3:10: *cursed is every one that continueth not in all things which are written in the book of the Law to do them*).
+
+## § 2. The Two Tables
+
+**How is the Law of God divided?**
+
+The Ten Commandments were written *by God himself* upon **two tables** (Exod. 20; Deut. 5):
+
+- **The First Table** — three commandments addressing humanity's relationship *with God*: to have no other gods, not to take his name in vain, to remember the Sabbath.
+
+- **The Second Table** — seven commandments governing *interpersonal conduct*: to honour father and mother, not to kill, not to commit adultery, not to steal, not to bear false witness, not to covet.
+
+## § 3. Whether Man can fulfil the Law
+
+**Can human nature fulfil the Law?**
+
+**No.** *"So kann es menschliche Natur nicht recht hören, geschweige denn, daß sie es erfüllen sollte"* — *human nature cannot even rightly hear it, much less fulfil it* (Exod. 19–20; Deut. 5; Rom. 3:20; Pss. 130 and 143; Luke 18:19; Matt. 12; Matt. 18). Moses himself asserts that no person can completely observe the Law. Even believers retain sinfulness and cannot achieve complete fulfilment of the Law through works alone.
+
+## § 4. The three uses of the Law
+
+**For what purposes does God give the Law?** *Three uses, corresponding to the classical Lutheran triplex usus legis:*
+
+**1.** **Pedagogical use** (*usus paedagogicus*) — that God's Law be made *universally known*, and Man never forget his obligation to God.
+
+**2.** **Political use** (*usus politicus*, also called *usus civilis*) — the Law's role in outward discipline and civil order, *maintaining discipline among all estates* through the offices God has instituted: **paternal authority (*väterliche Obrigkeit*), the magistracy (*Obrigkeit*), and schoolmasters (*Schulmeister*)** — all instituted to uphold discipline and resist wickedness. *This is the seed-passage on Christian civil order in the whole Enchiridion.*⁵¹
+
+**3.** **Didactic use** (*usus didacticus*, also called *tertius usus legis*) — the Law's role in reminding humans of human corruption, driving them toward *repentance* and *conversion*, and magnifying Christ's benefits (since only the sick recognise medicine's value — Matt. 9:12). Also, in believers, the Law directs the *new obedience* (§ 5 following).
+
+## § 5. Christ's new obedience produced in believers
+
+**What obedience does Christ produce in the faithful?**
+
+Christ, through the Holy Spirit, produces in faithful hearts *einen neuen Gehorsam* — **a new obedience** — though this obedience remains **weak and incomplete** in this life. It is the fruit of faith, not its cause; it flows from the Spirit's regenerating work, not from unaided human effort. Rom. 8:4: *the righteousness of the Law is fulfilled in us, who walk not after the flesh, but after the Spirit*.
+
+## § 6. Three types of hearers of the Law
+
+**Who hears the Law?** *Three sorts of hearers:*
+
+**1.** Those who *hear yet despise* the Law — the impenitent.
+
+**2.** Those who hear and are *terrified but do not turn to Christ* — the despairing.
+
+**3.** Those who hear, are *convicted, driven to Christ, and receive both forgiveness and the Spirit's regenerating grace* — the true hearers.
+
+## § 7. On the *Politia* — the seed of Christian political doctrine
+
+**How ought a Christian to regard the political order (*Politia*)?**
+
+The political realm is God's own institution (Rom. 13:1–7: *the powers that be are ordained of God*). In it the *Obrigkeit* — the civil magistracy — bears the sword *not in vain*, but as *God's minister for good*, restraining evil and rewarding good. The Christian owes to the magistracy honour, obedience, and prayer (1 Tim. 2:1–2), so far as the magistracy does not command against God's Word.
+
+Just as the *domestic realm* is founded on the Fourth Commandment (*Honour thy father and thy mother*), so the *political realm* extends the same principle: **the honour due to parents is extended to the magistracy**, and both are God's ordinances for the outward peace of humanity. This is the Lutheran doctrine of the *two kingdoms* in its catechetical form: the church and the political order are both under God, each with its proper office, and the Christian lives in both without confusion or contradiction.⁵²
+
+*[Further exposition of the individual Commandments and their political implications continues in the source past cv 235; the fuller treatment of the office of the magistracy — his rights, duties, and limits — belongs to the extended Decalogue exposition that this working translation has not yet reached in detail.]*
+
+— ❦ —
+
+*[Tranche 2c ends here at cv ~230. Hauptstück XV* Vom Euangelio *(the Gospel) begins at cv ~240; Justification, Faith, Good Works, Sacraments, and the remaining loci follow — see Translator's Note § 5 for the full projected structure.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2093,6 +2331,22 @@ Through the **Word of Promise** given in Gen. 3:15 — *the Seed of the Woman sh
 
 **⁴⁷** *Protoevangelium* — Gen. 3:15, *"I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel"* — the first evangelical promise, understood by the Reformation exegetes (with the Fathers before them) as the seed-form of the whole Gospel, promising the coming *Seed of the Woman* (Christ) who would defeat the serpent. Standard Reformation-era terminology; Luther's exposition in the 1535 *Genesis Lectures* (WA 42:145 ff.; LW 1:192 ff.) is the classical locus. Kirchner presupposes the reader will recognise the term; the English preserves the Latin.
 
+## From Hauptstück XII continued (Free Will after the Fall)
+
+**⁴⁸** *Servum arbitrium* — *"bound will"* or *"enslaved will."* Augustine's coinage against the Pelagian *liberum arbitrium* (*Contra Iulianum* II.viii.23; also *De Spiritu et Littera* 3–4). Luther adopted the term as the title of his 1525 *De servo arbitrio* against Erasmus (WA 18:600–787). Kirchner's citation of the Augustine-source directly (rather than of Luther's book by that title) is characteristic 1583 discipline — Kirchner grounds the Lutheran doctrine in the Church Father rather than in the immediate Reformer, in the pastoral service of readers who need to see the ancient consensus. Formula of Concord Solid Declaration II makes the identical move.
+
+## From Hauptstück XIII (Von der Sünde in Gemein)
+
+**⁴⁹** **Augustine, *Enchiridion ad Laurentium*** (ca. 421, PL 40:231–290), cap. 22 (*"peccati causa quattuor sunt: ignorantia, infirmitas, dolor, cupiditas"* — the four causes of sin are ignorance, weakness, pain, and lust). Kirchner cites Augustine's *Enchiridion* — the medieval-and-Reformation *manual* of Christian doctrine par excellence — as the classic Latin source for the fourfold analysis of actual sin's origin. That Kirchner's own *Enchiridion* thus stands in a self-conscious tradition of the *Enchiridion*-genre inaugurated by Augustine and passed through Erasmus (1503), Melanchthon (1521), and Eck (1525) is a subtle but real generic self-location.
+
+**⁵⁰** The Dominant/Non-Dominant sin distinction is the **Rom. 6 / Rom. 7 tension** in classical Lutheran form. Formula of Concord Solid Declaration II–III develops the same distinction under the vocabulary *concupiscentia* (dominant in the unregenerate, non-dominant in the reborn). Kirchner catechises it in Q&A form. The pastoral point: *the reborn Christian who feels sin's continued struggle need not despair, for that struggle is itself the mark of the regenerate*.
+
+## From Hauptstück XIV (Vom Gesetze Gottes)
+
+**⁵¹** The **three uses of the Law** (*triplex usus legis*: *paedagogicus, politicus, didacticus*) is the standard Lutheran taxonomy formalized by Melanchthon in the *Loci Communes* (1535+ editions) and made confessional by Formula of Concord Article VI *De tertio usu legis* (BSLK 962 ff.; Kolb-Wengert 502 ff.). Kirchner's rehearsal here is entirely standard — but the specific enumeration at Hauptstück XIV § 4 sub 2 of the offices instituted for *usus politicus* — **paternal authority (*väterliche Obrigkeit*), the magistracy (*Obrigkeit*), and schoolmasters (*Schulmeister*)** — is the seed-passage of Kirchner's political-theology treatment. Every subsequent commandment's implication for civil life will unfold from this seed as the Decalogue commentary proceeds in the source past cv 235. Compare Chytraeus *Catechesis* (1594) Loc. III § 20 on the Fourth Commandment, which develops the *Politia* and *Magistratus* at length; Kirchner's parallel treatment must lie further in the missing tail of his book than this working translation has yet reached.
+
+**⁵²** The seed of Lutheran **two-kingdoms doctrine** (*Zwei-Reiche-Lehre*) at Hauptstück XIV § 7 is drawn from Rom. 13:1–7 and 1 Tim. 2:1–2, and directly from Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48). Luther's *Von weltlicher Obrigkeit, wie weit man ihr Gehorsam schuldig sei* (1523, WA 11:245–281) is the classical exposition; Melanchthon *Loci* on the Fourth Commandment develops the *civilis magistratus* in scholastic form. Kirchner's brief closing at § 7 sits in this tradition and prefigures the fuller treatment in the missing tail (Kirchner will unfold the *Politia* in detail when he reaches the individual Commandments and the office of the magistracy). The English "two-kingdoms" is a modern gloss; the 16th-c. term is more usually *das geistliche* and *das weltliche Regiment* — the spiritual and worldly *regiments* (recall Hauptstück VIII § 9 which anticipated this distinction under the four *regimens* of divine governance).
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
@@ -2150,11 +2404,11 @@ Through the **Word of Promise** given in Gen. 3:15 — *the Seed of the Woman sh
 
 &nbsp;
 
-*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. **Tranche 2a shipped 31 August 2026** (Hauptstück V–VIII). **Tranche 2b shipped 31 August 2026** (Hauptstück IX–XII: Angels good and evil + Man before the Fall + Fall of Adam).*
+*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. **Tranches 2a, 2b, and 2c shipped 31 August 2026**, extending translation through cv ~235 to cover Hauptstück V–XIV: the Kingdom of Christ, Eternal Priesthood, Holy Spirit, Creation and Providence, Angels (good and evil), Man before the Fall, the Fall of Adam with Free Will after the Fall, Sin in General, and the Law of God — including the seed-passage of Lutheran political doctrine.*
 
-*Comprising cv 5 + cv 7–162 of what is now known to be an approximately 895-canvas book — approximately **~35% of the whole* Enchiridion***. Contents through Tranche 2b: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Hauptstück I–XII in full**. Hauptstück VIII § 9 gives the seed-passage on the four regimens of divine governance (spiritual / ecclesiastical / domestic / **political**) from which the fuller *Politia* / *Obrigkeit* treatment grows in the coming Decalogue locus (~cv 210–240).*
+*Comprising cv 5 + cv 7–235 of what is now known to be an approximately 895-canvas book — approximately **~45% of the whole* Enchiridion***. Contents through Tranche 2c: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Hauptstück I–XIV in full**. **Hauptstück XIV § 4 sub 2 and § 7** now provide the *Politia* seed-treatment (paternal authority + magistracy + schoolmasters as offices of the *usus politicus legis*; Rom. 13 + Augsburg Confession XVI + Luther's *Von weltlicher Obrigkeit* 1523 grounding of the two-kingdoms doctrine in catechetical Q&A form) — the political-authority material for the reader's political-theology compend.*
 
-*Approximately 65% of the book — running from cv ~163 through cv ~895 and covering Free Will after the Fall, Original Sin, Actual Sin, **the Decalogue and Politia**, the Gospel, Justification, Faith, Good Works, Baptism, Lord's Supper, anti-Papal ecclesiology, Repentance, Antichrist, Resurrection, Hell (locus XLV), and Eternal Life (locus XLVI) — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
+*Approximately 55% of the book — running from cv ~236 through cv ~895 and covering the Gospel, Justification, Faith, Good Works, Baptism, Lord's Supper, anti-Papal ecclesiology, Repentance, Antichrist, Resurrection, Hell (locus XLV), Eternal Life (locus XLVI), plus the detailed exposition of each of the Ten Commandments (which will fill out the Politia treatment already opened in Hauptstück XIV) — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
 
 &nbsp;
 
