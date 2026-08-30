@@ -2402,3 +2402,117 @@ regula_vitae_melanchthonis:
 # after Praetorius trilogy. Every completed work appends its own new
 # entries here.
 # ═══════════════════════════════════════════════════════════════════════════
+
+
+# ─── POLEMICS — Flacius, Catalogus Testium Veritatis (1556) ─────────────
+#
+# KICK-OFF STATE. Only seed lemmas here — the vocabulary that is certain
+# to recur in any historical-polemical anti-papal catalogue of witnesses.
+# Real entries accrete tranche by tranche as the body prose is written.
+
+reclamare:
+  english: To cry out against, to protest against
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, title page"
+  note: >
+    The verb of the title (reclamarunt Papae). Legal-forensic register:
+    the witnesses "raised their voice against" the papal claim. Preserve
+    on first occurrence; render as "spoke against," "protested," or
+    "raised their voice against" as context requires.
+
+testis_veritatis:
+  english: Witness to the Truth
+  alt: ["testes veritatis"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, title page"
+  note: >
+    The category-term of the work. Plural testes veritatis is the
+    collective designation for Flacius's roll of pre-Reformation
+    dissenting voices. Not "martyrs" (testes for whom no death is
+    claimed), but witnesses in the juridical sense: those who testify.
+  see_also: [reclamare, catalogus]
+
+catalogus:
+  english: Catalogue
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, title page"
+  note: >
+    In humanist Latin, a catalogue is not merely a list but an ordered
+    enumeration with authority. Preserve "Catalogus" in title-and-Latin
+    reference; use "Catalogue" freely in English body.
+
+papatus:
+  english: The Papacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    The papal system-as-institution, distinct from any given pope. In
+    Flacian polemic, papatus is what the witnesses spoke against;
+    individual papae are its holders. Preserve the distinction.
+  see_also: [primatus, hierarchia, antichristus]
+
+primatus:
+  english: Primacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    Papal claim to primacy over the whole Church. The single doctrine
+    most consistently protested by the witnesses (from Gregory the
+    Great's rejection of universalis episcopus onward).
+  see_also: [papatus, universalis_episcopus]
+
+universalis_episcopus:
+  english: Universal Bishop
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    Title Gregory the Great famously refused (Ep. V.44 to John the
+    Faster of Constantinople). Flacius's paradigm witness against
+    Roman claims: the papal see itself once condemned what it later
+    claimed. Preserve Latin on first invocation.
+  see_also: [primatus]
+
+hierarchia:
+  english: Hierarchy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    The ordered rank of ecclesiastical offices. In Roman-Catholic
+    polemical usage, positive; in Flacian usage, the descriptor for
+    the graded papal chain-of-command against which the witnesses
+    testified.
+
+antichristus:
+  english: Antichrist
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    Standard Lutheran identification of the papal office (Smalcald
+    Articles II.iv). For Flacius, the theological verdict on papatus
+    as an institution — not on this or that individual pope. Preserve
+    on formal doctrinal use; use "Antichrist" freely thereafter.
+  see_also: [papatus]
+
+traditio:
+  english: Tradition
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    Ambivalent term: apostolic traditio is preserved; humanae
+    traditiones (the merely-papal accretions) are what the witnesses
+    contested. Flacius trades on the distinction — flag context on
+    each occurrence.
+
+schisma:
+  english: Schism
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, praefatio"
+  note: >
+    In papal polemic, the charge levelled against the witnesses; in
+    Flacian counter-polemic, the true schism is Rome's departure from
+    the ancient Church. The word carries the whole argument.
+
+# ═══════════════════════════════════════════════════════════════════════════
+# FLACIUS 1556 — KICK-OFF (10 seed entries; body-tranche entries to append
+# below this line as translation proceeds).
+# ═══════════════════════════════════════════════════════════════════════════
