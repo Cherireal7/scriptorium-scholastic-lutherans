@@ -1130,9 +1130,51 @@ Hisce & similib. scriptis ac dictis malam gratiam apud Romanos curtisanos iniuit
 
 ### *Pope Pelagius I* — vl0090+
 
-**Pelagius**…³⁴⁶
+**Pelagius Papa** sedit circa annum 550.³⁴⁶ His sentence *99 Dist.* is cited, that no *universalis episcopus* be named. **Pelagius** to all bishops: *"None from the name of universality let any patriarch use. Since the true patriarch may be said universalis, of the patriarchs the name to others is derogated. But far be it from the faithful, that this one to himself should arrogate, whence they-would-remove of his brothers honour from any-such-lesser-place they-see. Wherefore of your charity to no one ever, even in his epistles, may-name a patriarch to himself write, when he-inflicts owed honour to another."*³⁴⁷
 
-*[The Pelagius entry continues on `vl0091`; staged for the next Tranche 2 session.]*
+**Distinction.** He says here the Pope that the celibate of priests and of bishops especially, is instituted, that Ecclesiastical goods into wives and children of theirs may not be dispensed. If true is-it, why then now our Papists priests' marriage damn, as though per-se impious and impure?³⁴⁸
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Gregorius papa I
+
+### *Pope Gregory the Great* — vl0091–vl0094
+
+**Gregory Pope the First** sat in the year 600.³⁴⁹ He vehemently fought against the *primacy of the Pope*. He willed not to be called *universalis episcopus*, nor did-he-any of his own of the primary said, that with dignity to-receive-they-would-be-hoped, when to-be-them by the [Constantinopolitan John the Faster] would-be-offered. With most-hard invectives he-lashes that title, and its-desirants, comparing them with Lucifer.³⁵⁰ Among other things he pronounces also him who that dignity would-accept, to-be a *precursor of Antichrist*.³⁵¹ He exhorts too all-together the bishops passim, that in the ecclesia they resist that title's tyranny.
+
+He disserts too briefly, not to be necessary ceremonies in all ecclesias's similarity, but each may choose the best for its own self.³⁵² Wonderful of this pontiff refers the history *divus Hulricus in sua epistola*, whose by-a-little-after mention I shall make in Hulric.³⁵³ The sum of it is that **Gregory** first indeed mandated celibate of priests: afterwards however when he learned, nonetheless libidines to be exercised, and moreover from-those foetus to be slaughtered, that mandate to abrogate, and to say: *"Better is to marry, than to give cause of deaths."* Libro 7, Regesti, chapter 63, writes he these words.³⁵⁴
+
+*"The custom of the Apostles was, that with the Dominical only-prayer they consecrated the host."*³⁵⁵ Hence it appears, how simple was Apostolic Mass — indeed how manifest is it, the Apostles the body of the Lord for communion of the flock, not for sacrifice to have had. Nowhere did they say: *We-offer* or *We-sacrifice this-to-body, for-souls-salvation-be*: but singularly the Popes subsequently something added to the words of the Supper, until plainly of another body it became, than what the Lord instituted, they-effected.
+
+*He is-questioned also-with the pontiff gravely, Dist. 92*, that a bad custom in the Roman ecclesia had arisen, that priests, whose care was to attend to the Evangelic ministry, omitted that office, and gave themselves to singing. This *prava consuetudo* thus has-taken-hold, that it appears Christ to sacerdotibus have said, not *"Go and preach,"* but *"Go and be-Mass-say, and ululate."* He wrote also, on account of this evil in the Ecclesia arising, worthy indignation is-to-be-borne.³⁵⁶
+
+But we shall subscribe some of his own sayings from ex 17 Homilia, where prolixly the crimes of priests he recognises and reprises. On the words: *Messis quidem multa, operarij autem pauci: rogate ergo dominum messis, ut mittat operarios suos in messem suam* — thus lamentably speaks:
+
+*"What without heavy grief speak I cannot? Because if there be good hearers, there are not those who speak. Behold the world of priests is full, but rarely in the harvest of God is found a worker. Because the office indeed of priest we-receive: but the work of the office we-do-not-fulfil."*
+
+Et post dicit ulterius: *"Et exteriora negocia in lapsi sumus, & aliud ex honore suscipimus, atque aliud pro officio actionis exhibemus: ministerium praedicationis relinquimus, & ad poenam mittimur, ut uideo, episcopi uocamur, qui honoris nomen, non uirtutem tenemus."*³⁵⁷
+
+Et infra: *"Nullum puto, fratres charissimi, ab alijs maius praeiudicium admittit, quàm à sacerdotibus, tolerat Deus: qui eos, quos ad aliorum correctionem posuit, dare de se exempla prauitatis cernit: quando ipsi peccauimus, qui compescere peccata debuimus. Plerumq[ue], quod est grauius, sacerdotes, qui propria dare debuerant, etiam aliena diripiunt: plerumq[ue], si quos humiliter, si quos continenter uiuere conspiciunt, irrident. Considerate ergo, quid de gregibus agatur, quando lupi pastores sunt: illi custodiunt gregis suscipiunt, qui insidiari gregi Dominico non metuunt, contra quos Dei greges custodiri debuerant: nulla animarum lucra quaerimus, ad nostra quotidie stipendia uacamus: terrena concupiscimus, humanam gloriam intenta mente captamus. Et quia eo ipso quo ceteris praelati sumus, ad agenda quaelibet, laetitiam habemus, suscepta benedictionis ministerio uertimus ad ambitionis augmentum: Dei causam relinquimus, ad terrena negocia festinamus: locum sanctitatis accipimus, & terrenis actibus complicamur. Impletum est in nobis profectò, quod scriptum est: Et erit, sicut populus, sic & sacerdos."*³⁵⁸
+
+**Et infra dicit**: *"Quanto graui gladio feriatur, aspicitis: quibus quotidie percussionibus intereat populus, videtis. Cuius hoc est, nisi nostro precipue peccato agitatur? Ecce depopulatae urbes, euersa claustra, ecclesiae ac monasteria destructa, in solitudine agri redacti sunt: sed nos pereunte populo auctores mortis existimus, cuius debuimus esse duces ad uitam. Ex nostro enim peccato populi turba prostrata est: quia faciente nostra negligentia, ad uitam erudita non est."*³⁵⁹ Haec per totum sanctus Gregorius.
+
+Hic Papa primus usurpauit titulum, **Seruus seruorum**: ut scilicet testaretur, se suos[que] successores alienissimos à cupiditate dominandi, uniuersalemq[ue] episcopatum ambiendi, esse oportere, ut prius dixi. Verùm titulum quidem & posteri retinuerunt, sed tamen domini omnium totius orbis terrarum dominium esse, dicit, uoluerunt: eoq[ue] saepissime à plurimis obiectum est, quod quando quidem tam ambitiosi, totiusq[ue] orbis domini uelint: non serui seruorum, sed dominantium domini se meritò scribere deberent.³⁶⁰
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Synodus sexta
+
+### *The Sixth [Ecumenical] Synod (Quinisext / Trullan II 692)* — vl0094–vl0095+
+
+**The Sixth Synod** general at Constantinople, celebrated about the year 680.³⁶¹ In it is that pious and plainly Christian decree of the *coniugio* of priests constituted, which per uerbum sic in Decretis papalibus dist. 31 continetur:
+
+*"Since in the Roman ecclesia the custom we-received-and-know, that ordained deacon or presbyter, be-agreed, that not any more may-not-fit-be-cohabited with wives: however-be-of-the-following-Canon-Apostolic-diligently, and constitution of the sacred bishops-of-are, legal nuptials from-now to-value we-will, no way with their-wives their-copulation to be dissolved, or to be private, familiarity to-injure to each other in tempore opportuno. Whoever therefore diligently invented has-been in sub-diaconal ordination, aut diaconal, aut sacerdotali, in no way prohibited to such an ascending grade to be, on-account-of wife's cohabitation: nor either in time of ordination let-them-profess castitate must-be, that they-should-abstain a legitima uxoris familiaritate. Item let-them-be, that no one to altars ministers, in tempore ministrations of holy castity-of-be be in all things, ut à Deo may possibly obtain the-things, that supplicant to-request-are. If therefore any-of-them dare against Apostolic canons, any of the presbyters or of the deacons privates from-contract of communion of the legitimate wife of-his-own, let-him-be-deposed. Similarly and presbyter or deacon under any religious cause his-wife would-expel, let-him-be-excommunicated. Si uerò in hoc perseuerauerit, deponatur."*³⁶²
+
+*[Sixth Synod continues on `vl0096`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1983,6 +2025,42 @@ Hisce & similib. scriptis ac dictis malam gratiam apud Romanos curtisanos iniuit
 ## From the Catalogue — Pelagius (vl0090+)
 
 **³⁴⁶** **Pope Pelagius I** (556–561), Justinianic-era pope in the aftermath of the Three-Chapters controversy. Not to be confused with the heresiarch Pelagius (c. 354 – c. 420/440) whose doctrine on grace Augustine and the whole Latin tradition condemned. Entry continues on the next page.
+
+**³⁴⁷ Pelagius I, letter to the Illyrian bishops** preserved in Gratian's *Decretum* Dist. 99 (identifier per Flacius's *Dist. 99 Dist.* attribution) — the express prohibition against the *universalis episcopus* title. Flacius invokes it as an earlier papal witness to what Gregory the Great would famously reiterate against John the Faster (see next entry endnote 350).
+
+**³⁴⁸** The Pelagian defence of clerical celibacy on *economic* grounds (protecting ecclesiastical property from clerical-family inheritance) contrasted by Flacius with the later-imposed *theological* claim that marital sexuality is intrinsically impure. The economic-vs-theological polemical wedge distinguishes Reformation critique of celibacy-as-doctrine from prudential-institutional celibacy-as-discipline.
+
+## From the Catalogue — Gregorius papa I (vl0091–vl0094)
+
+**³⁴⁹** **Pope Gregory I "the Great"** (590–604), the founding figure of medieval Latin ecclesiastical culture — architect of the papal liturgy, missionary to the Angles (sending Augustine of Canterbury 597), author of *Regula pastoralis*, *Dialogi*, *Moralia in Iob*, and 850+ letters. Flacius's most-important Gregory-topics are the anti-*universalis-episcopus* letters and the celibacy-abrogation report.
+
+**³⁵⁰** **Gregory, *Epistulae* V.44, VII.30, VIII.29, IX.68** to John the Faster of Constantinople and to Emperor Maurice — the celebrated series arguing that any bishop who claims the title *universalis episcopus* (John the Faster's usage) is a *precursor of Antichrist*. The most-cited patristic proof-text in Reformation polemic (already flagged at endnote 89 above, forward-referenced from Universal Bishop lemma).
+
+**³⁵¹** *Praecursor Antichristi* — Gregory *Ep.* V.44: *ego autem fidenter dico, quia quisquis se universalem sacerdotem vocat, vel vocari desiderat, in elatione sua Antichristum praecurrit* ("I confidently say that whoever calls himself universal priest, or desires so to be called, in his pride runs before Antichrist"). One of the most-devastating patristic self-witnesses in the Reformation arsenal.
+
+**³⁵² Gregory, *Ep.* I.41 to Augustine of Canterbury** (PL 77:497), the celebrated *responsiones* on liturgical variation — each church may adopt whatever custom is most conducive to piety, without slavish conformity to Rome. Reformation-standard proof-text for liturgical adiaphorism.
+
+**³⁵³** **Ulric of Augsburg** (†973) — the pseudo-Ulrican letter (actually a 10th-c. or 11th-c. anti-celibacy forgery attributed to Ulric) that transmits the story of Gregory the Great abrogating clerical celibacy after discovering the *foetus trucidati* — infants killed to conceal clerical sexual liaisons. Flacius forward-refs to his own Ulric entry.
+
+**³⁵⁴** The pseudo-Ulrican Gregorian *melius est nubere quam caedibus causam praebere* ("better to marry than to give cause of killings") — attributed to Gregory *Regesti* VII c. 63. The passage is not authentic Gregorian but was universally cited in Reformation anti-celibacy literature. Flacius treats it as genuine; modern scholarship recognises the pseudo-Ulrican character.
+
+**³⁵⁵** **Gregory, *Ep.* IX.26** — *Apostolos non aliud quam solam dominicam orationem oblationi tradidisse*. The claim that the apostolic Mass consisted only of the Lord's Prayer and the consecratory institution-words. Reformation-standard proof-text for eucharistic simplicity vs medieval Roman canon accretion.
+
+**³⁵⁶** **Gregory, *Ep.* V.57** (PL 77:770), the "prava consuetudo" letter regretting the growing practice of Roman priests concentrating on liturgical chanting to the neglect of preaching. Preserved in Gratian's *Decretum* Dist. 92 c. 2. Reformation locus against medieval Roman liturgical elaboration.
+
+**³⁵⁷ Gregory, *In Evangelia Homilia* 17** (PL 76:1139), the celebrated harvest-workers homily on Luke 10:2. The lament that priests are *nomine, non virtute* — priests in name only — became the standard Reformation proof-text against 16th-c. clerical corruption.
+
+**³⁵⁸** The extended quotation from Homily 17 — priests as bad shepherds, plundering rather than protecting, ridiculing the humble and continent, seeking earthly glory rather than saving souls — is the fullest Gregorian anti-clerical-corruption passage in the *Catalogus*. Applied by Flacius verbatim to 16th-c. Roman clergy.
+
+**³⁵⁹** Homily 17 continues: the destruction of cities, ruin of monasteries, depopulation of the Christian countryside are all consequences of clerical sin. Gregory reads the Lombard invasions of Italy (568+) as divine judgement on Roman clerical laxity. Flacius extends the reading to Reformation-era political disturbance.
+
+**³⁶⁰** ***Servus servorum Dei*** — the papal self-titulature adopted by Gregory the Great as a deliberate humility-formula against the *universalis episcopus* claim. That subsequent popes retained the title while inverting its meaning (claiming *totius orbis terrarum dominium*) is Flacius's rhetorical closing — the papal self-designation itself is a *manifest lie* against the papal actual pretension.
+
+## From the Catalogue — Synodus sexta (vl0094–vl0095+)
+
+**³⁶¹** **The Council in Trullo (Quinisext)**, held at Constantinople 691/692, was called by Emperor Justinian II as a completion of the Fifth (553) and Sixth (680–681) Ecumenical Councils — hence *Quinisextum*. Its 102 canons regulated ecclesiastical discipline. Rome rejected the Trullan canons because of Canons 13 (permitting married priests) and 55 (permitting Saturday fasting only in Lent) — the very canons the Reformation invoked against Roman celibacy and fasting discipline. Flacius here treats the Trullan Synod as a full Sixth Ecumenical Council (already glossed at endnote 88; here elaborated).
+
+**³⁶²** **Trullan Canon 13** — the canonical text preserved in Gratian's *Decretum* Dist. 31 with the Latin translation Flacius here quotes. The canon explicitly permits ordained deacons and presbyters who were married before ordination to continue conjugal relations, and forbids requiring vows of celibacy at ordination. Ministry-time abstinence for altar-service is required, but full celibacy is not. The Trullan legislation was the Eastern Orthodox position that the Reformation invoked against Roman-mandated clerical celibacy.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

@@ -3599,12 +3599,58 @@ salvianus_massiliensis:
     PECCATA INTERDIXIT DEUS NON MATRIMONIA against Siricius Directa
     385 celibacy-imposition (still contemporary aftermath c. 480).
 
+# ─── Tranche 2r — Pelagius + Gregory the Great + Sixth Synod (vl0091-95) ─
+
+praecursor_antichristi:
+  english: Precursor of Antichrist (Gregory on universalis episcopus)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Gregorius papa I at vl0091"
+  note: >
+    Gregory the Great Ep. V.44 to John the Faster of Constantinople —
+    quisquis se universalem sacerdotem uocat uel uocari desiderat in
+    elatione sua Antichristum praecurrit. ONE OF THE MOST DEVASTATING
+    patristic self-witnesses in Reformation arsenal (already n351).
+
+servus_servorum_dei:
+  english: Servant of the servants of God (papal titulature)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Gregorius papa I at vl0094"
+  note: >
+    Papal self-titulature adopted by Gregory the Great as deliberate
+    humility-formula against universalis episcopus claim. Subsequent
+    popes retained title while inverting its meaning claiming totius
+    orbis terrarum dominium — Flacius reads as MANIFEST LIE.
+
+pseudo_ulricus_anti_celibatus:
+  english: Pseudo-Ulric on Gregorian celibacy-abrogation
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Gregorius papa I at vl0092"
+  note: >
+    Pseudo-Ulrican letter (10th-11th c anti-celibacy forgery attributed
+    to Ulric of Augsburg †973) transmits story of Gregory the Great
+    abrogating clerical celibacy after discovering foetus trucidati
+    (infants killed to conceal clerical liaisons). Universally cited
+    in Reformation anti-celibacy literature. Not authentic Gregorian.
+
+trullanus_canon_13:
+  english: Trullan Canon 13 (permitting married clergy)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus sexta at vl0094"
+  note: >
+    Council in Trullo (Quinisext) 691/692 Canon 13 preserved Gratian
+    Decretum Dist. 31. Explicitly permits ordained deacons/presbyters
+    married before ordination to continue conjugal relations, forbids
+    requiring celibacy-vows at ordination. Rome rejected Trullan
+    canons on this ground — Reformation invoked as Eastern-Orthodox
+    canonical proof against Roman-mandated celibacy.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Salvian (vl0001-vl0090, 90 body pp
-# + 32 paratexts ≈ 16.4% of 1094-pp body). Flacius lemma total: 10 seed
-# + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
-# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
-# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) = 106.
+# FLACIUS 1556 — TRANCHE 2 through Sixth Synod opening (vl0001-vl0095, 95
+# body pp + 32 paratexts ≈ 17.3% of 1094-pp body). Flacius lemma total:
+# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
+# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
+# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
+# 4 (T2r) = 110.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
