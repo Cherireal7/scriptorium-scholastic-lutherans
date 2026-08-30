@@ -656,9 +656,61 @@ Epiphanius testifies the same, in his epistle to **John, the Hierosolymitan Patr
 
 ### *St Anthony the Hermit* — vl0037–vl0038
 
-**Anthony the Hermit**, greatly celebrated, likewise flourished about 350 of Christ's year.¹⁸² In his superstition about ceremonies (as they call them) of the liquids…
+**Anthony the Hermit**, greatly celebrated, likewise flourished about 350 of Christ's year.¹⁸² In his superstition about ceremonies (as they call them) of the liquids he harshly inveighed. Which that it may be more clearly perceived, a passage from his life I subscribe.
 
-*[The Antonius entry continues on `vl0038`; staged for the next Tranche 2 session.]*
+*"The custom is with the Egyptians, that the nobles — and especially the blessed martyrs — should wrap the bodies in linen and duly wind them, and not commit them to the earth, but on couches at home in the house keep them. This honour to those falling-asleep of a inveterate custom vanity delivered. Concerning which Anthony, having sought the bishops in the presence of the people, contended that the Ecclesiastical censures be corrected: and to the lay men and to the women rigidly himself intercepted, saying: Neither legitimate to be, nor to God pleasing: since indeed both of the patriarchs and of the prophets the sepulchres, which up to us endure, this fact contain. And of the Lord's body an example intuiting we are bidden — which in the sepulchre placed, with a stone up to the resurrection's day the third was closed. And so these ways he condemned the Egyptians' custom, even that of the saints the bodies were, coargent — saying: What is greater or holier than to be able of the Lord's body? Which according to the custom of the peoples they might carry: those buried also in the earth carcasses, likewise, thanksgivings to the Lord for so great a magisterium they gave."*¹⁸³ These his words.
+
+But now Antichrist teaches, of highest piety it be, corpses of the pious (or if some already be supposititious), even putrid, out of the earth to dig up, in ornaments and precious things to place them, and them as for God to worship and invoke.
+
+He disapproved also of *peregrinations*, teaching that in all lands is the kingdom of heaven.¹⁸⁴ Many-things also with Satan he fought: but nowhere of holy water, of the cross, of wax and blessed herbs, or of similar-most-clear-of-Antichrist against him with arms — for the rest he only word, and prayer with him fought I find.
+
+Faith indeed in Christ inter docendum in the first the diligently inculcated, and against justice-in-works confidence gravely inveighed.¹⁸⁵ Memorable indeed is that among other things of him, that when he had considered a little the great matter of his own sanctity, and had prayed God that someone would reveal to him of what meritum he was — it was answered him: that he to his sanctity and severely lived-so-with-cast-life, and of solitary life ended-so, some paterfamilias Alexandrino sutori, in equal piety and meritis, was equal. So God those from monastic life of admiration wished not-so-much to revoke, as to common life rightly cultivating: but even in universum from operum meritorum he wished; them to constitute, that Christ himself is our perfection, and other similar men Christian saints, to God's grace-equally-cared to be.¹⁸⁶
+
+What of human traditions and monasticism and rules he sensed, inde apparet, that **Peter of Paris Cantor** testifies:¹⁸⁷ that when some monks were petulantly a rule or norm of life demanding from him, he offered the Evangelical codex — quo ille nimirum indicare wished, all things of piety necessarily abundantly in the sacred letters comprehended to be, and not to be therefore of any new rules of canons or norms usus. But God! how many thousands of traditions, canons and rules from the Pope, bishops, and monks are heaped up? To which diabolical furor thence-perduces, that now they say it a horrible heresy to say or feel, that the whole doctrine necessary to salvation in the sacred letters is comprehended.¹⁸⁸
+
+## Spiridon
+
+### *St Spyridon of Cyprus* — vl0040
+
+**Spiridon**, Bishop of Cyprus, sanctity, miracles and prophetic spirit shining forth, about the year 350 flourished.¹⁸⁹ At the time of Lent-fast a certain hospes carnes porcinas apposuit, ut ecclesiastica historia testatur ("porcine flesh set out, as the ecclesiastical history testifies"). Which he refusing, since a Christian he was, [Spiridon] responded: *For this very reason, that a Christian you are, it is licit to eat flesh: for* omnia munda mundis, *sermo divinus testatur.*¹⁹⁰ And he himself likewise with him did eat. Whence appears: little by little to have crept in that diabolical doctrine of prohibitions of foods, far otherwise even from the pious doctors of that day thinking: but in nothing, was that of those and others by superstitious reprised.
+
+## Concilium Anciranum
+
+### *Council of Ancyra and Council of Milevis* — vl0040–vl0041
+
+This **council**, about the year 300 of the Lord celebrated, decreed: that if deacons in their ordination should protest that they will take wives, it be to them licit; and at the same time in ministry to continue.¹⁹¹ The same the **Arelate synod** the second decreed, as testifies the *Decretum*. Likewise decreed the **Arelate synod second**, that by Metropolitanum's judgement synods be convoked and celebrated. It is a lie therefore of the Popes, who say, that only to themselves it is a right to convoke councils and to congregate them.¹⁹² The same also the **Mileuitana synod** constituted, as elsewhere is said.¹⁹³ Although often also emperors and kings have convoked, but concerning this we have said also something in Julius the Pope's entry.
+
+## Hilarius Pictaviensis
+
+### *St Hilary of Poitiers* — vl0041–vl0043
+
+**Hilary**, Bishop of Poitiers, flourished about the year 360 of the Lord.¹⁹⁴ He wrote much, in which not a few seeds of the present Papacy's errors he attacks. In the book *Against Auxentius* he asks about the reason and form of the true Church, so depraved is it, that as once it was poor, humble, afflicted, and from all persecution suffering, so now on the contrary it is proud, rich, of others persecuting.¹⁹⁵ Many such antitheses he collects, of the properties of the primitive Church, fighting-with those which have followed, and thus concludes: *He deceives himself, who through exiles and prisons of the Church he thinks it, since through those the Church has-been-committed. She hangs on communication, not on suffocation: those consecrated by terror, she flies. The priests, who commit sacrilege, are propagated: they gloriare not, that Christ has-been-fled from the world, from whom the world was not able to be conquered.*¹⁹⁶ These by comparison of that once handed-down-to-you Church, now depraved is she.
+
+Thus far Hilary. Concerning human traditions above Matthew he says: *Truly all things are to be eradicated, on which account they are men-not-God's-plantation: and moreover, on which account men human traditions transgress.*¹⁹⁷ Upon Psalm 123 acutely inveighs in the human free-will and *coram-Deo-merits* arrogance, quoting that of Paul: *Quid autem habes, quod non accepisti? quod si accepisti, quid gloriaris tanquam non acceperis?* — "What have you that you did not receive? and if you received it, why do you glory as if you had not received it?"¹⁹⁸
+
+These of the many, in which Antichristi tum pullulantes errores damnavit, quoted may suffice.
+
+In the legend of the blessed Hilary is read, that when at Milan Leo the Pope made himself an Arian, in a council-and-celebration were-called Hilary in the council: most-hardly the contention began with Leo, who himself gloriously the-being-of-the-Apostolic-See's-episcopate: he indeed said, that he himself also is a bishop, and in-no thing to the Pope has to cede he should: at last a sudden of Leo's death, the controversy was finished.¹⁹⁹ Testifies also an epistle Oxoniensis Pragensis to Paris, that even against the Pope himself the blessed Hilary certain-solitum was.
+
+Utinam et acta integra extarent. But the history of the certamen with Leo Papa of Arminium, in my judgement rightly Hilary Vicennensis, who at the time of the first Leo lived, and much with him certamina had, than to this be-attributed. For this longè ante primum Leonem lived.
+
+Hic sese speculentur in tam preclaro exemplo nostri temporis adulatores Paparum, qui mentiuntur Papam minime errare posse — neminemque reprehendere aut iudicare, sed omnes ipsi subesse debere.²⁰⁰
+
+**Baptista Mantuanus** testifies in *Fastis* that this Hilary was also married in his episcopate. Whence appears, what he and many other pious, and learned, of clergy marriage then sensed. But of Mantuanus of these carmina, later beneath his title I shall subscribe.²⁰¹
+
+## Eusebius
+
+### *Eusebius of Caesarea* — vl0043
+
+**Eusebius Caesariensis** flourished a little after 300 of the Lord's year. He wrote the *Ecclesiastical History*, beyond many other things, in which he also writes: that that most-sorrowful persecution under Diocletian, chiefly from priestly and episcopal orta be petulantia, pride and rivalries — who both against God-and-His-Word themselves-had-irritated, and to the ethnic tyrant occasions-cogitando given: so the whole Christian religion to be a mere-of-depraved-men *commentum*.²⁰² Which even then, when other were priests, in the primitive Roman (of whom itself Rome and its spectator) such were, what non-verisimilarly, from that time impieties and improbities on-them accessed?
+
+## Basilius
+
+### *St Basil the Great* — vl0043
+
+**Basil the Great** claruit circa 370 years.²⁰³ Institutit initia aliqua monachatus, and hymns, which by little more into the whole church he brought in, so in trifles clear entered his opus operati degenerated on that occasion, that he thus new cults instituted, and from the common human life quasi-derogated, reprehended him from the Church of Neocaesarea, as it appears from his epistle 63.²⁰⁴ Likewise his proper bishop Eusebius, as from Basilii by Gregory Nazianzus recitata may be animadverted.²⁰⁵ Whence appears many still thus monastic novissima ista of piety genera to damn: although impossible said it be, quantum in a monastic our fuit purior sincerior, and from all superstitions mundior…
+
+*[The Basilius entry continues on `vl0044`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1113,6 +1165,62 @@ Epiphanius testifies the same, in his epistle to **John, the Hierosolymitan Patr
 ## From the Catalogue — Antonius heremita (vl0037–vl0038)
 
 **¹⁸²** **St Anthony the Great** (c. 251 – 356), "father of desert monasticism," subject of **Athanasius's *Vita Antonii*** (c. 360), the foundational hagiographic text of Christian monasticism. Flacius's cautious presentation — "in his superstition about ceremonies" — signals that the coming treatment will be critical: even Anthony, though celebrated, is treated as showing symptoms of the emerging ceremonial-observance that later hardens into medieval monastic rigorism.
+
+**¹⁸³** **Athanasius, *Vita Antonii* c. 90–91** — Anthony's insistence on burial of the martyrs *sub terra*, against the Egyptian custom of keeping wrapped bodies at home. Athanasius reports Anthony citing (a) the patriarchs' and prophets' burial-sepulchres and (b) Christ's own tomb as the model. Flacius reads Anthony as ante-Nicene witness against the medieval relic-cult.
+
+**¹⁸⁴** ***Peregrinationes*** — pilgrimages. Anthony's teaching that *in omnibus terris esse regnum caelorum* — the kingdom of heaven is in every land — is a Vita-Antonii commonplace read by Reformation polemicists as ancient warrant against Marian and saint-shrine pilgrimages (Rome, Compostela, Loreto, Walsingham).
+
+**¹⁸⁵** *Fidem in Christum inter docendum in primis diligenter inculcavit* — Flacius reads Anthony's sayings as anticipating the Reformation-Lutheran doctrine of *sola fide*. The historical Anthony was closer to a proto-monastic ascetic than to a Reformed evangelist; Flacius's reading is selective.
+
+**¹⁸⁶** **The Anthony-and-the-shoemaker legend** — the story that Anthony was told his sanctity equalled that of an anonymous *sutor Alexandrinus* is traceable to the *Apophthegmata Patrum* (5th-c. desert-fathers collection) and to Cassian *Collationes* XVIII.15. Flacius reads it as Anthony's own witness against monastic-vocational-elitism: the shoemaker in secular life equals the desert monk. The lay-vocation-parity theme is central to Luther's *De Votis Monasticis Iudicium* (1521, WA 8:573–669).
+
+**¹⁸⁷** **Peter Cantor of Paris** (†1197), theologian at Notre-Dame in Paris, whose *Verbum Abbreviatum* is a late-12th-c. reform-minded manual. Cantor's *Anthony-with-the-Evangelical-codex* story circulated widely in scholastic-critical monastic literature.
+
+**¹⁸⁸** The final line — that Antichrist now brands as heresy the claim that Scripture contains all things necessary to salvation — is Flacius's compressed indictment of the Tridentine doctrine of *pari pietatis affectu* (Session IV, April 1546, DH 1501) elevating unwritten Traditions to Scripture's parity.
+
+## From the Catalogue — Spiridon (vl0040)
+
+**¹⁸⁹** **St Spyridon of Trimythous, Cyprus** (c. 270 – 348), attended Council of Nicaea I (325). His *Life* (by Theodore of Paphos, 7th c.) supplies the anecdotes Flacius here draws on; the ecclesiastical-history reference is to Socrates *HE* I.12 or Sozomen *HE* I.11.
+
+**¹⁹⁰** **Romans 14:14, 20** and **Titus 1:15** — *omnia munda mundis* (Vulg. Tit 1:15). The Pauline principle Spyridon invokes to legitimate meat-eating during Lent. Flacius reads the anecdote as 4th-c. Cypriot witness against the developing Latin-Western fasting-regime.
+
+## From the Catalogue — Concilium Anciranum & Mileuitanum (vl0040–vl0041)
+
+**¹⁹¹** **Council of Ancyra (Ancyra I)** — held in 314, whose Canon 10 permits deacons who at ordination declared their inability to remain celibate to take a wife post-ordination and remain in ministry. The canon is preserved in Gratian's *Decretum* (D. 28); the Council's status as pre-Nicene provincial council is undisputed.
+
+**¹⁹²** **The Councils of Arles (Arelate)** — Arles I (314) and Arles II (mid-5th c.). Canon 1 of Arles II reserved the right to convoke provincial synods to the metropolitan bishop, not to Rome. Flacius takes this as direct textual witness against later Roman claims to exclusive conciliar-convocation authority.
+
+**¹⁹³** **Council of Milevis (Mileuitanum)** — Milevis I (402) and Milevis II (416, at which Augustine was present); Milevis II condemned Pelagius. Flacius here refers to conciliar-competence claims generally; the specific Milevis canon he has in mind is uncertain.
+
+## From the Catalogue — Hilarius (vl0041–vl0043)
+
+**¹⁹⁴** **St Hilary of Poitiers** (c. 315 – c. 367), Bishop of Poitiers, "Athanasius of the West" for his defence of Nicene Trinitarianism against 4th-c. Arianism (in exile in Phrygia 356–361). Major works: *De Trinitate*, *De Synodis*, *Contra Auxentium*, commentary on Matthew, commentary on Psalms.
+
+**¹⁹⁵** **Hilary, *Contra Auxentium* c. 3** (PL 10:611) — the celebrated antithesis of the primitive vs. imperial-established Church: *Male vos parietum amor cepit; male ecclesiam in tectis aedificiisque veneramini* ("Wrongly has love of walls seized you; wrongly do you venerate the Church in roofs and buildings"). Hilary's rhetoric of primitive-poor vs. established-rich Church became a Reformation topos.
+
+**¹⁹⁶** The chained quotation compresses several passages of *Contra Auxentium* on suffering-Church vs persecuting-Church. Flacius's Latin is loose but the substance is Hilarian.
+
+**¹⁹⁷** **Hilary, *In Matthaeum* c. 15** (PL 9:998) on Matt 15:13 — *omnis plantatio quam non plantavit Pater meus caelestis, eradicabitur* ("every plant which my heavenly Father has not planted shall be uprooted"). The classic proof-text against human tradition, made programmatic by Melanchthon *Loci Communes*.
+
+**¹⁹⁸** **1 Corinthians 4:7** — the Pauline anti-Pelagian *quid habes quod non accepisti*. Hilary's *In Psalmum 123* invokes it against ascriptions of merit to human free will; the Augustinian anti-Pelagian tradition depends on it, and Flacius reads Hilary as anticipating the Reformation's *sola gratia*.
+
+**¹⁹⁹** **The Hilary-vs.-Pope-Leo legend** — a spurious medieval legend that at a fictional council at Milan, Hilary confronted Pope "Leo" (chronologically impossible: Leo I 440–461 postdates Hilary †367 by ~75 years). Flacius honestly signals the anachronism, suggesting the story really belongs to **Hilary of Arles (Vicennensis)** (c. 400 – 449), who did have documented conflict with Leo I over Gallic ecclesiastical jurisdiction. The candor about historical error is characteristic of the *Catalogus* at its scholarly best.
+
+**²⁰⁰** *Adulatores Paparum, qui mentiuntur Papam minime errare posse* — Flacius's direct rebuke of contemporary defenders of papal infallibility. The formulation predates Vatican I's 1870 definition by more than three centuries.
+
+**²⁰¹** **Baptista Mantuanus (Battista Spagnoli)** (1447–1516), Carmelite general and humanist poet, *Fasti* — a chronological calendrical poem. Mantuanus is Catholic but reformist; his claim that Hilary was married is one of several such humanist rehabilitations of clerical marriage. Flacius forward-refs to Mantuanus's own later entry in the *Catalogus*.
+
+## From the Catalogue — Eusebius (vl0043)
+
+**²⁰²** **Eusebius of Caesarea** (c. 260 – c. 339), *Historia Ecclesiastica* VIII.1.7–9 — the celebrated pre-persecution self-diagnosis: *ubi ex nimia libertate ad negligentiam segnitiemque delati sumus…rixis inter nos et contentionibus* ("when from excessive liberty we had descended into negligence and idleness…in quarrels and contentions among ourselves"). Eusebius reads the Diocletianic persecution (303–311) as divine judgement on episcopal petulance. Flacius amplifies the point against Roman clerical corruption.
+
+## From the Catalogue — Basilius (vl0043)
+
+**²⁰³** **St Basil the Great** (c. 330 – 379), Bishop of Caesarea in Cappadocia from 370. One of the three Cappadocian Fathers with Gregory Nazianzus and Gregory of Nyssa. Author of the *Regulae fusius tractatae* and *Regulae brevius tractatae*, foundational of Eastern monastic rule; also *Ep.* 63 (which Flacius here cites).
+
+**²⁰⁴** **Basil, *Ep.* 63 to Neocaesarea** — Basil defends his liturgical innovations at Caesarea against Neocaesarean traditionalist critique. Flacius reads Basil's opponents (the church of Neocaesarea) as pre-Reformation critics of liturgical novelty and ceremonial expansion.
+
+**²⁰⁵** **Gregory Nazianzus, *Oratio* 43** — Gregory's funeral oration for Basil, in which the tension between Basil and Bishop Eusebius of Caesarea (Basil's predecessor and later superior) is described. Flacius reads Eusebius's criticism as *ex Ecclesia* witness against monastic-liturgical novelty.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

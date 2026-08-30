@@ -3123,11 +3123,57 @@ theologus_par_excellentiam:
     never seen a synod come to a good end" as Reformation locus
     for conciliar corruption; Melanchthon Apologia BSELK 494.
 
+# ─── Tranche 2h — Antonius completion through Basil (vl0038–vl0043) ─────
+
+vita_antonii:
+  english: Life of Anthony (Athanasius)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Antonius at vl0038"
+  note: >
+    Athanasius's c. 360 hagiography of Anthony the Great — foundational
+    text of Christian monasticism. Flacius invokes Vita c. 90-91 on
+    burial-of-martyrs against relic-cult; Anthony-and-shoemaker legend
+    (Apophthegmata Patrum + Cassian Collationes XVIII.15) for lay-
+    vocation-parity vs monastic elitism.
+
+sola_scriptura_antonii:
+  english: Anthony's Evangelical codex answer
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Antonius at vl0039"
+  note: >
+    Per Peter Cantor of Paris (†1197) Verbum Abbreviatum, Anthony
+    offered petitioners the Evangelical codex as the sufficient rule
+    of life — Flacius's ancient-monastic warrant for sola-scriptura
+    principle against later monastic-rule proliferation.
+
+adulator_paparum:
+  english: Flatterer of the Popes
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ravenna/Aquileia/Milan at vl0028 + Hilarius at vl0042"
+  note: >
+    Flacian rhetorical formula for pro-papal court-historians and
+    canonists who defend papal-infallibility (Papam minime errare
+    posse). Predates Vatican I 1870 definition by three centuries.
+    Applied to Platina Vitae Pontificum 1479 and to contemporary
+    16th-c defenders.
+
+hilarius_vs_leo_legend:
+  english: The Hilary-vs-Pope-Leo legend
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hilarius at vl0042"
+  note: >
+    Spurious medieval legend of Hilary of Poitiers †367 confronting
+    Pope "Leo" (chronologically impossible; Leo I 440-461). Flacius
+    honestly signals anachronism, suggesting story really belongs
+    to Hilary of Arles (Vicennensis c. 400-449). Candor about
+    historical error is characteristic of Catalogus at its scholarly
+    best.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Antonius heremita opening (vl0001-vl0037,
-# 37 body pp + 32 paratexts ≈ 6.3% of 1094-pp body). Flacius lemma total:
-# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c)
-# + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) = 63.
+# FLACIUS 1556 — TRANCHE 2 through Basil opening (vl0001-vl0043, 43 body pp
+# + 32 paratexts ≈ 7.7% of 1094-pp body). Flacius lemma total: 10 seed +
+# 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) +
+# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) = 67.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
