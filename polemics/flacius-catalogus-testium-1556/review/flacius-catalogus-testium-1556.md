@@ -1200,7 +1200,51 @@ Apparet quoq[ue], hic ex ipsorum Papistarum proprio testimonio, Latinam missam h
 
 **Valentinus Muntzerus** in his *chronographia* testifies these following verses on the ruin of the Pope, nearly before 1000 years by some pious and learned man written, and now in an ancient book found:³⁷²
 
-*[Continues on `vl0099` with the actual verses; staged for the next Tranche 2 session.]*
+> *Roma diu titubans, longis erroribus acta,*
+> *Decidet, et mundi desinet esse caput.*
+>
+> *Ecclesiae censura, fides, discessi[t] Romae,*
+> *Regnaq[ue] de medio iam sunt remouenda prius.*
+>
+> *Qui latet error, erit publicus: connubia foeda*
+> *Fiunt, tolletur hinc pudor, inde timor.*
+>
+> *Post homo peccati ueniet, quem spiritus oris*
+> *Christi perdet, erit postq[ue] suprema dies.*
+>
+> **In English:**
+>
+> Rome, long tottering, driven by long errors,
+> Will fall, and cease to be the head of the world.
+>
+> Ecclesiastical censure, faith, departed from Rome,
+> And kingdoms first must be removed from the midst.
+>
+> The error which hides will become public: foul marriages
+> Occur, hence shame is taken away, thence fear.
+>
+> After, the man of sin will come, whom the Spirit of the mouth
+> Of Christ will destroy, and then the last day will be.³⁷³
+
+The first two verses, in two words alone I differ. That **Frederick the Second** of the Pope was sent [into exile], I shall afterwards say. If moreover these verses are attributed to the divine Spirit, it will be with some difficulty to bring them to their fulfilment. But nonetheless clearly the Roman ecclesia is being-said to be full of errors, and-ready to fall. And so these two verses as summary of the following-are to-be-seen.³⁷⁴
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## S. Udalricus Augustanus episcopus
+
+### *St Ulric, Bishop of Augsburg* — vl0099–vl0100+
+
+**St Ulric of Augsburg**, bishop, who lived nearly 700 years ago, most-fiercely repugned the Pope, who in Germany was willing to interdict clerical *coniugium*.³⁷⁵ There exists his epistle admodum grauis and pia, in which he not-tantum most-impurely of celibate of spirituals of Papae attacks tetris words describing, and-duris-most-times insects, coniugium too, of priests firmly defends, and-at-the-same-time in tyrannis of the clergy, of prelates and of bishops he-inveighs. He-cites-them, scripture-authority, against man impostorous integrity, and other-of-those-of-Papistical also abuses seriously reprises. He-narrates passim to-be-recited most-foul examples of celibate castitatis clerical. He-says-and-that, that priests, in-course-and-then great prelates, and-so bishops especially in Italy, so libidinous-be, that not-only from-virgins and from-conjugatists themselves-abstain-not-be: but even with kinswomen, with masculines, and-so also with brutes (which wickedness!) themselves foulish-mix.
+
+He-narrates too plainly worthy of memory a history, that **divus Gregorius papa** first indeed mandated the celibate to priests: afterwards however, when perchance sometime in a pond his-having-drawn, and-there of six-hundred submerged infants heads-found had-been, seeing-that this from his own violent celibate had-come-forth, ex-imo pectore laments-and-groans, immediately his mandate abrogates, and-recites Pauline sententia, *Melius est nubere quam uri*, adiciends, *Melius est nubere quàm caedis causam praebere*.³⁷⁶
+
+If so-great and so-many libidines, and horrible slaughters from this most-clear Papist celibate already once nearly before 1000 years occurring, pious reader, what tetter and-most-horrible-and-most-tetrical from that-time until our-days-be-be, you-consider, when growing-in-all humans wickedness, and especially in-immense of-and-of-opulence-be-be-Papists-be, and other-of-those-be seriously-been. Let-be-it-of-the-letter: not-it-pigebit-of-labour-be. Is-being-found however still that letter in old membranaceous books.
+
+Testatur et **Aeneas Sylvius** in his some peregrination, S. Ulricum Augustanum episcopum, Papae coelibatum promouenti restitisse.³⁷⁷ Apparet autem ex hac epistola, quod tunc temporis adhuc coniugium sacerdotum in usu fuerit: quodq[ue] Papae primatus, uel potius impia tyrannis, nondum ita inualuerat, ut nefas putaretur, si eum etiam aliquis infimus episcopus peccantem grauius et asperius admonuisset, et obiurgasset…
+
+*[The Udalricus entry continues on `vl0101`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2111,6 +2155,18 @@ Apparet quoq[ue], hic ex ipsorum Papistarum proprio testimonio, Latinam missam h
 ## From the Catalogue — Vetera carmina (vl0098+)
 
 **³⁷²** **Valentin Muntzer(us)** — a 15th-c. Bavarian chronicler whose *Chronographia* preserved various anti-papal Latin verses attributed to earlier centuries. The specific verses Flacius promises to subscribe on the next page are staged for Tranche 2t.
+
+**³⁷³** The **anti-papal verses** — four elegiac couplets prophesying Rome's fall, the departure of censure and faith from Rome, the public exposure of hidden error, foul marriages (*connubia foeda*), and the coming of the *homo peccati* (2 Thess 2:3). The verses closely parallel Joachimite-Franciscan spiritual apocalypticism (12th–13th c.) and were widely copied in late-medieval anti-papal manuscript traditions. Flacius's dating "1000 years ago" is Muntzerian tradition, not historically defensible.
+
+**³⁷⁴** **Frederick II Hohenstaufen** (1194–1250), Holy Roman Emperor, whose long conflict with the papacy (excommunicated by Gregory IX in 1227 and 1239, condemned by Innocent IV at Lyons 1245) made him the paradigm imperial-victim-of-papal-persecution in Reformation historiography. Flacius forward-refs to his own Frederick II entry.
+
+## From the Catalogue — S. Udalricus (vl0099–vl0100+)
+
+**³⁷⁵** **St Ulric of Augsburg** (890 – 973), Bishop of Augsburg from 923, canonized in 993 (the first formal papal canonization in history). The **Pseudo-Ulrican Letter** (*De continentia clericorum*, PL 135:57–66), Flacius's chief Ulric source, is actually an 11th-c. anti-Gregorian-Reform forgery composed in Germany during the Investiture Controversy, but universally attributed to Ulric throughout the Middle Ages and cited by Reformation-era anti-celibacy polemicists as authentic 10th-c. testimony. Flacius here treats the pseudo-Ulrican as genuine.
+
+**³⁷⁶** The **fish-pond-with-six-hundred-infant-skulls story** — Flacius here restates the Pseudo-Ulrican Gregorian celibacy-abrogation story already glossed at endnote 354. The specific detail of a papal fish-pond dredged yielding 600 infant skulls (killed by celibate priests concealing sexual liaisons) is a Pseudo-Ulrican dramatic amplification; not attested in Gregory's actual *Regesti*. The *Melius est nubere quam caedis causam praebere* line was universally cited in Reformation anti-celibacy literature. Modern scholarship recognises the whole pseudo-Ulrican corpus as 11th-c. Investiture-Controversy forgery.
+
+**³⁷⁷** **Aeneas Sylvius Piccolomini** (later Pius II) again invoked (already at endnotes 152, 221, 323) — his testimony that Ulric of Augsburg resisted papal celibacy-promotion is Flacius's *ex ore proprio* Roman witness. That Aeneas Sylvius himself as pre-papal historian preserved the anti-Roman tradition is one of Flacius's most-frequent polemical moves.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

@@ -3679,13 +3679,48 @@ trullanus_canon_55:
     reasons Rome rejected Trullan corpus. Flacius reads as further
     conciliar correction of Rome.
 
+# ─── Tranche 2t — Vetera carmina verses + Ulric of Augsburg (vl0099-100) ─
+
+roma_diu_titubans:
+  english: Roma diu titubans (anti-papal medieval verse)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Vetera carmina at vl0099"
+  note: >
+    Four elegiac couplets prophesying Rome's fall, censure/faith
+    departing, hidden error made public, connubia foeda, coming of
+    homo peccati. Parallels Joachimite-Franciscan spiritual apocalyptic
+    (12th-13th c). Preserved via Valentin Muntzer Chronographia.
+
+pseudo_udalricus:
+  english: Pseudo-Ulric De continentia clericorum
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — S. Udalricus at vl0099"
+  note: >
+    PL 135:57-66 attributed to Ulric of Augsburg 890-973 but actually
+    11th-c anti-Gregorian-Reform forgery composed in Germany during
+    Investiture Controversy. Universally attributed to Ulric throughout
+    Middle Ages, cited by Reformation-era anti-celibacy polemicists as
+    authentic 10th-c testimony. Flacius treats as genuine.
+
+fishpond_infant_skulls:
+  english: Papal fish-pond 600 infant-skulls (Gregorian celibacy story)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — S. Udalricus at vl0100"
+  note: >
+    Pseudo-Ulrican dramatic amplification: papal fish-pond dredged
+    yielded 600 infant skulls (killed by celibate priests concealing
+    sexual liaisons). Not attested in Gregory's actual Regesti. Melius
+    est nubere quam caedis causam praebere universally cited Reformation
+    anti-celibacy. Modern scholarship recognises whole pseudo-Ulrican
+    corpus as 11th-c Investiture-Controversy forgery.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Vetera carmina opening (vl0001-vl0098,
-# 98 body pp + 32 paratexts ≈ 17.9% of 1094-pp body). Flacius lemma total:
-# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
-# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
-# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) + 3 (T2s) = 113.
+# FLACIUS 1556 — TRANCHE 2 through Ulric opening (vl0001-vl0100, 100 body
+# pp + 32 paratexts ≈ 18.3% of 1094-pp body — CROSSED vl0100!). Flacius
+# lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae)
+# + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i)
+# + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p)
+# + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) = 116.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
