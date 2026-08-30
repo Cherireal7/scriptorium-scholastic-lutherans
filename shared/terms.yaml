@@ -2952,11 +2952,78 @@ historia_tripartita:
     Greek church history. Flacius invokes it as third-in-a-triangulation
     of ancient testimony against Roman jurisdictional claims.
 
+# ─── Tranche 2e — Council + Clemens Alex (vl0022–vl0027) ────────────────
+
+concilium_elibertinum:
+  english: Council of Elvira
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Concilium Elibertinum at vl0022"
+  note: >
+    Council held at Illiberis (Elvira, Spain) c. 305/306. Canon 36
+    forbade pictures in the church, invoked by Byzantine iconoclasts
+    (Hieria 754) and by Reformation polemicists as ancient anti-icon
+    witness. Scope disputed; Flacius reads maximally.
+
+iconoclasia:
+  english: Iconoclasm
+  alt: ["imagines-condemnatio"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Concilium at vl0022"
+  note: >
+    The Byzantine iconoclast movement (726–843), including Emperors
+    Leo III + Constantine V, Council of Hieria (754). Reversed by
+    Nicaea II (787), then briefly re-affirmed under Frankfurt Synod
+    (794) + Libri Carolini in the Carolingian West. Flacius invokes
+    the sequence selectively, suppressing Nicaea II — a rare
+    instance of one-sided source-selection in the Catalogus.
+
+thysia_eucharistica:
+  english: Eucharistic sacrifice (as prayer)
+  alt: ["oratio", "sacrificium spirituale"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Alex Stromateis VII.6 at vl0023"
+  note: >
+    Clement of Alexandria's redefinition (Stromateis VII.6.31–32,
+    PG 9:433–436) of Christian sacrifice as prayer offered from the
+    just soul, and altar as gathered congregation — Reformation
+    proof against the medieval propitiatory-Mass doctrine.
+
+altare_spirituale:
+  english: Spiritual altar (as the gathered congregation)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Alex at vl0024"
+  note: >
+    Clement's ecclesiology from Stromateis VII: the altar is not
+    physical stone but the gathered pious congregation. Cuts against
+    later doctrine of altare consecratum and the theology of
+    eucharistic space.
+
+siricius_papa:
+  english: Pope Siricius
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Alex forward-ref at vl0024"
+  note: >
+    Bishop of Rome 384–399. In letter *Directa* to Himerius of
+    Tarragona (Feb 385) laid down first formal legislative
+    requirement of clerical celibacy for the Latin West. Flacius
+    forward-refs to his own entry later in the Catalogus body.
+
+apostolorum_coniugia:
+  english: The Apostles' marriages
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Alex at vl0025"
+  note: >
+    Clement of Alexandria (Stromateis III.6.53) argues that Peter,
+    Philip, and Paul were married — historical warrant: Matt 8:14
+    (Peter's mother-in-law), Acts 21:9 (Philip's daughters — Clement
+    confuses Philip the deacon with Philip the Apostle), 1 Cor 9:5.
+    Standard Reformation locus for defending clerical marriage.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 CONTINUES through Irenaeus (vl0001-vl0022, ~22
-# folio pp of body + 32 pp paratexts). Total Flacius lemmas: 10 seed + 8
+# FLACIUS 1556 — TRANCHE 2 CONTINUES through Clemens Alex (vl0001-vl0027,
+# ~27 pp of body + 32 pp paratexts). Total Flacius lemmas: 10 seed + 8
 # (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae literae) + 8 (T2c) + 3
-# (T2d Polycarp→Irenaeus) = 48 entries.
+# (T2d) + 6 (T2e Council+Clemens Alex) = 54 entries.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

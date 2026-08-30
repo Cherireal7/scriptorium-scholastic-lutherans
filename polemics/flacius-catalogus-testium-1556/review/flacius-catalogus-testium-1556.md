@@ -512,7 +512,39 @@ Almost forgot am I to add, that in this our author scarcely worthy of oblivion i
 
 Moreover of the interpretation of the Roman Church Irenaeus in these words says: *Founding therefore and instructing the Roman Church, the blessed Apostles committed the bishopric to Linus.*¹²⁴ There is nothing of years 25, that Peter sat at Rome, or of the triple crown that he wore there, as the Papists impudently and mendaciously assert — but scarcely so much scarcely of that church, as also of others infinite. Whence therefore of the most-impudent Romanists that they before all other churches by Peter and Paul to be founded and *Apostolic Petrine* seat to glory in?
 
-*[The Irenaeus entry ends on the middle of `vl0022`; next entry* **Concilium Elibertinum, & Constantinopolitanum** *(Councils of Elvira and Constantinople) opens immediately after.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Concilium Elibertinum, & Constantinopolitanum
+
+### *Council of Elvira and Council of Constantinople* — vl0022–vl0023
+
+Concerning **images and the relics of saints**, and their veneration or luminaria — there have long been contentions in the Church.¹²⁵ And they were condemned by many: among whom first the **Council of Elvira**, before 1270 years.¹²⁶ Then **Epiphanius**, before nearly 1200 years.¹²⁷ Then likewise before 800 years, some Constantinopolitan Emperors, in order, and also a Synod at Constantinople, where 300 partly bishops, partly other learned men were present.¹²⁸ **Gregory Pope also, in Epistle 9, chapter 9,** praises **Serenus, Bishop of Marseille**, who about the year 600 wrote and forbade images to be adored.¹²⁹ To these idolatry-opposers add also the **Synod of Frankfurt** and **Charlemagne**, of whom a little later.¹³⁰
+
+But the Popes for so long and so vehemently propagated idolatry, that not only did they retain those images, but also embraced the worship of them, and at last plainly divine honour attributed to them, even as the Gentiles their idolatry — and to this day tribute. As likewise Ludovicus Vives in the commentary above Augustine *On the City of God* says: *"See you not what is between most of the Christians, that they venerate images no otherwise than the ethnics [pagans] idolatrise, than some most-impious pseudo-spiritual of these times — like Sydonius and others — for whom the Church has never erred, that great a discrimination could be exercised in the Papistic churches: and no idolatry there."*¹³¹
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Clemens Alexandrinus
+
+### *St Clement of Alexandria* — vl0023–vl0027
+
+**Clement of Alexandria** — writer in the primitive Church already celebrated, both in the name of piety and of erudition — flourished about the year 200 of the Lord.¹³² He of the sacrifices makes wonderful mention: nor ever of the Mass of ours' [the Papists'] mention — but always he speaks of the sacrifice of the Christian church as of prayers; and the altar he calls the pious soul; likewise the whole congregation of God to be invoked. For thus he has in *Stromateis* VII:¹³³
+
+*"If God rejoices to be honoured, and yet by nature indigent of nothing, then not unreasonably we honour God by our prayers, and offer this best sacrifice and most-just, together with justice, honouring in his word by which we accept — his cognition, discerning — of them-things which he attends to. Whence the altar with us is not the terrestrial congregation of those who lie down on their prayers, who as it were with one voice have and one mind. And a little after: A conspiracy, however, or unanimous vows properly are said to be in the Church. It is in the Church the sacrifice, the word which from the saints exhales, the mind at the same time and opened, whole to God."¹³⁴
+
+And a little after: *"The altar however is truly holy, just, from him, and from him is emitted, is offered, to us saying — dictating prayers, may they not err."* &c.
+
+**Marriage** likewise he defends not only for laymen, but for presbyters, against the perversity of those who condemned marriage as an unclean thing, and who said: *"if Christ went about in virginity, they too would want to imitate — as afterwards Pope Syricius, of whom later, horribly deformed marriage."*¹³⁵ But let us adduce Clement's own words:
+
+*"They say — these vainglorious jactators — that we imitate the Lord, who neither took a wife nor in the world had any possession. But to them Scripture says: God resists the proud, but gives grace to the humble.¹³⁶ Then they do not know the cause why the Lord did not take a wife. For first he had his own spouse — the Church. Then also he was not a common man, who required an aid in the flesh to procreate; nor was it necessary for him to procreate sons who would remain eternally, and he was born the only Son of God. And he himself the Lord says: 'What God has joined, let not man separate.'¹³⁷ And a little after:*
+
+*'Now concerning those who abhor matrimony, the blessed Paul says: In the last days some shall depart from the faith, giving heed to spirits of error, and doctrines of demons, forbidding to marry, and to abstain from foods.'¹³⁸ And again he says: 'Let no one deceive you with humility and religion and parsimony of the body.' The same likewise says: 'To the wife is bound, do not seek freedom from her; freed from wife, do not seek a wife.'¹³⁹ And again: 'Every man should have his own wife, that Satan may not tempt you.'¹⁴⁰ What of the fact that even our old just fathers took procreation with grateful action to be a companion? Some indeed took children, though continuously they had been in matrimony. And iterum a little: But do they reprove the Apostles? For Peter and Philip procreated sons. Philip moreover, his own daughters, gave to husbands. Paul certainly did not fear in a certain epistle to call his wife, whom he was not carrying with him — because there was no great need of the ministry.*¹⁴¹ *He says however, in a certain epistle: 'Do we not have power to lead about a sister-woman, as also the other Apostles?' — But he to be sure, as he was consenting to the ministry, did not carry her, so as by more his attention to preaching to be given, and not on account of wives, but in a marketplace…'"*
+
+*[The Clemens Alexandrinus entry ends on the top of `vl0027`; next entry* **Methodius Graecus** *opens immediately below.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -819,6 +851,44 @@ Moreover of the interpretation of the Roman Church Irenaeus in these words says:
 **¹²³** **Irenaeus *Adv. Haer.* V.30.3** — the same passage cited in endnote 80 (from the *Sacrae literae* section). Flacius here returns to LATINVS = 666 in the specifically-Irenaean context, making explicit what was implicit before: Irenaeus himself, on Flacius's reading, indicates the Roman Pope as Antichrist. The double-citation of the same Irenaean passage across two body-entries (*Sacrae literae* + *Irenaeus*) is deliberate — it marks Irenaeus as a load-bearing witness for the whole *Catalogus*.
 
 **¹²⁴** **Irenaeus *Adv. Haer.* III.3.3** (PG 7:849 = SC 211:32–34) — *Θεμελιώσαντες οὖν καὶ οἰκοδομήσαντες οἱ μακάριοι ἀπόστολοι τὴν ἐκκλησίαν, Λίνῳ τὴν τῆς ἐπισκοπῆς λειτουργίαν ἐνεχείρισαν* ("having founded and built the church, the blessed Apostles committed the office of the episcopate to Linus"). Flacius's polemical use: Irenaeus attributes the founding of the Roman Church to *the Apostles* (plural, i.e. Peter and Paul jointly), and the first bishopric to *Linus*, not to Peter. The Roman claim to Petrine-exclusive foundation is thus refuted by the very Irenaean text that Roman apologetics claims for the succession-argument.
+
+## From the Catalogue — Concilium Elibertinum & Constantinopolitanum (vl0022–vl0023)
+
+**¹²⁵** The *imagines et reliquiae sanctorum* controversy — image-veneration, cult of relics, votive lights — runs from the 4th c. (Elvira) through the Byzantine Iconoclast controversy (726–843) and into the Reformation. Flacius here compresses a millennium of contested practice into one paragraph.
+
+**¹²⁶** **Council of Elvira (Illiberis)**, c. 305/306 (Flacius's "1270 years before" places it c. 285, roughly accurate). **Canon 36**: *Placuit picturas in ecclesia esse non debere, ne quod colitur et adoratur, in parietibus depingatur* ("It was resolved that pictures ought not to be in the church, lest what is worshiped and adored be depicted on the walls"). The canon is disputed as to scope (some read it as against pagan-derived imagery only) but was long invoked as ancient anti-icon witness by both Byzantine iconoclasts and Reformation polemicists.
+
+**¹²⁷** **Epiphanius of Salamis** (†403), *Epistula ad Iohannem Hierosolymitanum* (preserved in Jerome's Latin, *Ep.* 51.9): Epiphanius reports having torn down a painted curtain in a Palestinian church because the image (*imago quasi Christi vel sancti alicuius*) was "contrary to Scriptures." The letter was cited by Byzantine iconoclasts (Council of Hieria, 754) and by Reformation writers — Flacius here dates the witness at "1200 years before," i.e. c. 355, though Epiphanius's episcopal career runs 366–403.
+
+**¹²⁸** **Iconoclast Council of Hieria** (754), which condemned image-veneration; its decrees were reversed by the **Second Council of Nicaea** (787), which restored icon-veneration and was received in the East. The 300-bishops-plus-scholars figure Flacius gives corresponds to Hieria's attendance. Flacius suppresses Nicaea II (which reversed Hieria) — a rare instance in the *Catalogus* of one-sided source-selection.
+
+**¹²⁹** **Gregory the Great, *Ep.* IX.209 to Serenus of Marseille** (October 599; not "IX.9" as Flacius cites — probably a printer's error): Serenus had destroyed images in his church; Gregory rebukes him mildly, defending images as *pauperum scriptura* (a Bible for the illiterate) *but* forbidding their adoration. Flacius reads Gregory as pro-Serenus, though the letter is actually mixed: it defends images-as-teaching but forbids images-as-cult-object. The distinction is Flacius's polemical point.
+
+**¹³⁰** The **Synod of Frankfurt** (794) under Charlemagne, prompted by the *Libri Carolini* (composed c. 790 under Theodulf of Orléans), rejected the decisions of Nicaea II (787) on images. The Frankfurt canon condemned *both* the destruction and the adoration of images, defending only their commemorative use. The West thus stood, briefly, with the Byzantine iconoclasts against Nicaea II — a fact Flacius exploits against later Roman iconodulia.
+
+**¹³¹** **Juan Luis Vives** (1493–1540), Spanish humanist, whose *Commentarii in libros De civitate Dei S. Augustini* (Basel: Froben, 1522) — a standard Reformation-era reprint of Augustine — added humanist prefaces and marginal comments critical of contemporary Catholic devotional practice. Vives's line criticising image-veneration as functionally pagan gave Flacius a Catholic-humanist witness against the Papacy — a rhetorical coup, since Vives was firmly Catholic. *Sydonius* (Sidonius) here is unclear; possibly a corruption for a name like Beatus of Liébana, or a general reference to Latin Christian authors who had already opposed image-cult.
+
+## From the Catalogue — Clemens Alexandrinus (vl0023–vl0027)
+
+**¹³²** **Titus Flavius Clemens of Alexandria** (c. 150 – c. 215), Christian teacher and predecessor of Origen at the Alexandrian catechetical school. His three principal works — *Protrepticus*, *Paedagogus*, *Stromateis* — established the alliance of Christian doctrine with Greek philosophical culture that shapes the whole Alexandrian tradition. Flacius here treats him as a pro-Reformation witness on the sacrifice-as-prayer, the altar-as-congregation, and the legitimacy of clerical marriage.
+
+**¹³³** **Clement, *Stromateis* VII.6.31–32** (PG 9:433–436 = GCS 17:24 Stählin) — the celebrated passage in which Clement redefines *thysia* (sacrifice) as prayer offered from the just soul. Flacius quotes accurately in Latin translation and reads it as ancient Alexandrian witness against the later Roman doctrine of the eucharistic sacrifice as a *propitiatory* re-presentation of Christ's death.
+
+**¹³⁴** *Congregatio pietatis animarum incumbentium orationibus…qui uelut unam uocem habent communem, et unam mentem* — Clement's ecclesiology: the altar is not the physical stone, but the gathered congregation united in prayer. Flacius uses this to argue against the medieval doctrine of the *altare consecratum* and the theology of eucharistic space.
+
+**¹³⁵** **Pope Siricius** (Bishop of Rome 384–399), who in his letter *Directa* to Himerius of Tarragona (Feb 385) laid down the first formal legislative requirement of clerical celibacy for the Latin West. Flacius's forward reference — *de quo post* — points to Siricius's own entry later in the *Catalogus* body.
+
+**¹³⁶** **James 4:6** = **1 Peter 5:5**, quoting Prov 3:34 LXX.
+
+**¹³⁷** **Matthew 19:6** = **Mark 10:9** — *quod ergo Deus coniunxit, homo non separet*. Christ's affirmation of the marriage-covenant against divorce, deployed by Clement as an affirmation of marriage itself as divinely instituted.
+
+**¹³⁸** **1 Timothy 4:1–3** — Paul's warning against *prohibentium nubere, abstinere a cibis*, applied by Clement (and Flacius) against enforced clerical celibacy and fasting-mandates.
+
+**¹³⁹** **1 Corinthians 7:27** — *alligatus es uxori, noli quaerere solutionem; solutus es ab uxore, noli quaerere uxorem*.
+
+**¹⁴⁰** **1 Corinthians 7:2, 5** — *unusquisque suam uxorem habeat, ne temptet vos Satanas*.
+
+**¹⁴¹** **The Apostles' marriages** — Clement's argument (following the earlier Alexandrian tradition) that Peter, Philip, and Paul were married. The historical warrant: Matt 8:14 (Peter's mother-in-law) implies Peter had a wife; Acts 21:9 mentions Philip's four unmarried daughters (Philip being one of the seven deacons of Acts 6, whom Clement here confuses with Philip the Apostle — a common patristic slippage); Paul's own status is debated (1 Cor 9:5 rhetorical question about leading about a *sister-wife* is compatible with either married or unmarried). The Clementine passage was a Reformation locus for defending clerical marriage.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
