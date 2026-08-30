@@ -1043,7 +1043,87 @@ The style is throughout **biblical.** The prayer-book bears within itself the tr
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 3b closes here at Habermann. Still to come in Tranche 3 (source pp. 122–132): the Betbuch Christiani (1584), Wolfgang Münsinger von Frundeck (1600 Betbüchlein), Michael Saxo, the closing figures of the Reformation-age prayer-book tradition, and the transition to **Part Three — II. Das Zeitalter der luth. Orthodoxie 1600–1680** — which opens Tranche 4 with Nikolai, Dedeken, Wudrian, Statius, Kolerus, Herberger, Heermann, Arndt (with the Böhme-excursus), Gerhard, and Meyfart (source pp. 133–218), where the mid-checkpoint build #1 of 2 is spent at the natural pause point of mid-Orthodoxie.]*
+#### The Twelve Habermann Editions Compared
+
+The result of this wandering through the various Habermann editions shows in essentials a **fourfold kind:**
+
+- **Very short-abridged editions:** Fleischhauer and Baur.
+- **The customary form, with fuller use of hymns:** Johann Herrmann, Stuttgart.
+- **The customary form, with 18 prayers for various matters:** Enslin, Fleischhauer, Baur, Cottbus, Schmidt (2 prayers more), Eisleben, Berliner Stadtmission, Neu-Enslin, [and the *Verein für Verbreitung christlicher Schriften im nördlichen Deutschland* by Bodemann] — the last three considerably shortened.
+- **The Herrmann long-form with more of the fuller Habermann material:** [certain regional and Nassauer editions].
+
+The nearby-standing table gives an overview of the character of each.
+
+*Note:* 1898 saw a further, curious edition: ***Der kleine Habermann in Gabelsberger Stenographie*** — Dr. Johann Habermann's *Christliche Morgen- und Abendgebete,* together with Confession-and-Communion-Prayers, in **Gabelsberger stenography**,¹³² price 1.25 M, *Reuterbibliothek* Vol. 75, translated from the older edition of Enslin & Laiblin. Noticed in the *Stenographischen Monatsbericht,* February 1898: *"Whoever wishes the 'little Habermann' as a devotional book, and can read it in Gabelsberger stenography, will perhaps gladly take up this dainty and original little book in duodecimo format."*
+
+### §8. Betbuch Christian I. (1589)
+
+*Source: I b) — Zeit 1550–1600 — §7, pp. 122–124. The prayer-book of Elector Christian I of Saxony (1589) — after Habermann the most substantial post-Reformation Lutheran prayer-book, compiled from Habermann + patristic + Reformation sources.*
+
+After Habermann's prayer-book had once appeared, a series of similar books was composed. Seldom did one try oneself in independent prayers. Mostly one gathered them from Habermann and from the older-available books and set them in new arrangements. From his time on, the **prayer-collections out of the treasury of the Church** begin generally. A prayer-book of that age, the richest in content, is the **Betbuch which appeared at the initiative of the Elector Christian I** in 1589.¹³³ It gathers the best that had until then been brought forth in this field, and has taken nearly all of Habermann up into itself. The book — so precious for the history of prayer-literature as for the churchly edification — was newly issued in 1853:
+
+**Betbuch Christian des Ersten, Herzogs und Kurfürsten zu Sachsen, vom Jahre 1589. Mit Gebeten des Kurfürsten August von Sachsen.** Newly issued by Johann Konrad Irmischer, evangelical-Lutheran Pastor. Erlangen, Andreas Deichert, 1853. [Page count: ~180 pp], 32 lines, wider type. Unbound 1 M.
+
+The preface gives exactly the original title and briefly the content of the book, and the character of the prayers: **"The prayers themselves are in their content biblically-confession-rich and faithful, and therefore also doctrinal, mighty and unctuous. They are just as fit to further the knowledge of the Christian [faith] as [they are to nourish the inner life]."**
+
+The book's contents are then given [in six parts]: **1.** the 14 morning- and evening-blessings on all the days of the week from Habermann; **2.** 24 shorter and longer Segen, one of them from Augustine, one from Kurfürst August; **3.** 65 prayers of the holy patriarchs, kings, prophets, apostles, and other blessed men and women [drawn out of Scripture — the canonical and apocryphal Old and New Testament books, and the Psalter]; **4.** 42 prayers for particular estates, [ordered after the Catechism]. Of these 18, 6, 19, 20, 22–26, 35, 41 are from Habermann; 5 are from Augustine; 40 are from Luther (for example, that at his death). **5.** 85 prayers for all the need of the whole of Christendom, ordered after the [petitions of the Lord's Prayer]: 1 [is from Melanchthon, 18 or so from the older Christian tradition], 63 [drawn from Ambrose and other patristic sources]. **6.** With 18 numbers, three sorts: [a] the holy Lord's Prayer set out prayer-wise — paraphrases of the Catechism sacraments, travel- and weather-prayers; [b] Melanchthon's exposition of the Lord's Prayer; [c] contains the "short, plain contemplation and exposition of the suffering and dying of Christ after the order of the four evangelists," in four passages by night and by day, closed with a longer Passion-prayer.
+
+### §9. Wolfgang Münsinger von Frundeck (†1588)
+
+*Source: I b) — Zeit 1550–1600 — §8, pp. 124–125.*
+
+Alongside the Betbuch Christian I stands the Betbüchlein of **Wolfgang Münsinger von Frundeck.**¹³⁴ [Already in 1684 the Frundeck-Betbüchlein went into revised editions]; Münsinger von Frundeck, who was assessor at the Imperial Chamber-Court and — in 1556 — Kanzler at Wolfenbüttel, died as a private man at [Alsleben] on 3 May 1588.
+
+The learned jurist gathered from the prayer-treasury of Luther and of the evangelical Church, as well as from the Church Fathers, [the prayers]. He also took up Melanchthon's paraphrase of the Lord's Prayer, as well as a register of the prayers contained in the Scripture, and an instruction on how to use the Psalms in various life-situations — as one finds it later also, for example, in Gerhard's *Geistliches Kleinod.*
+
+From his Betbüchlein much has been taken into the prayer-collections of our own time: in Löhe's *Samenkörner* No. 283 (morning-prayer on Saturday), 244 (for the service of the holy angels). Of these, No. 283 is already found in the Prayer-book of Elector Johann Friedrich of 1570 (perhaps 1557), whence Münsinger perhaps has it. In the *Allgemeines lutherisches Gebetbuch* he is often, and with 40 prayers, represented in the *Evangelisches Gebetbuch* (Berlin).
+
+### §10. Michael Saxo (Sarö, ~1530–1600)
+
+*Source: I b) — Zeit 1550–1600 — §9, pp. 125–132. The Remda Kantor-turned-preacher whose *Arcana annuli pronubi* — "the Mystery of the Marriage-Ring" — became a paradigm of marriage-symbolic devotional literature.*
+
+**Michael Saxo** (Sarö) is first known¹³⁵ as *Kantor* at Remda in 1561; then in 1562 as *Stadtschreiber* at Egeln; in 1568 as school-teacher at Remda. In 1569 he was here — against his will — called to the preaching-office. From 1569 he was, for more than 25 years, [pastor at Remda] up to his death.
+
+His writings have this peculiarity: that he sought — chiefly by *rhetorical* means — to hold the reader in tension. Along with his Christian discourse, one has the impression from all his writings that his chief aim is to bring [the theological content] not so much in the language of the school, as rather **in the language of the everyday** — [to offer] the heavenly spiritual gifts in the shell of naturalistic speech. This he does well; even at times, it must be admitted, further than the matter warrants, and thereby forfeits weight.
+
+Among his many writings — *Christliches Zeitvertreib* or *Geistliches Rätselbuch* (Leipzig, 1616–1619, 1655), in which the holy things are treated more for pastime and for banter-questions in outward manner — the simplicity of his time hardly took offence.¹³⁶ Of others, the first — the *geistliche Reisegespräche* (Nürnberg, 1581) and *Trostbüchlein* (1867 newly issued) — deserve mention. Especially his ***Arcana annuli pronubi*** — in 1588 first out, then 1592 [enlarged] — as the preface reports.
+
+**Arcana annuli pronubi** — *"Mystery of the Marriage-Ring, opened by 24 chapters. What should be drawn from it for teaching and comfort, admonition, by all who are married or are about to be — expounded out of God's Word and confirmed with many notable [images], comparisons, and *arcana naturae* — for the third time enlarged (1594), with a register bettered and made easier to read from that of Elias Sarcerius. Newly issued at Gottfried Zech, Nürnberg, now at [Bertelsmann,] Gütersloh — "newly again brought to light for use." 214 pp, 8°, 33 lines, medium type, 1.60 M.
+
+The volume is again divided into 24 chapters and contains all that the bride-groom and suitor is to consider for the Christian married life, in connexion with the meaning of the marriage-ring. The 24th chapter is a sermon of **Cyriacus Spangenberg** on Titus 2:3–5, *"Virtue-Ring of all Christian [wives]"* — welded together out of eight-fold noble metals. Page 129 gives, out of a sermon by the Roman parish-priest of Wittenberg-time Agricola at Spalt, [an appendix]; and closes with an alphabetical subject-register. The book is rich in examples, histories, comparisons, rhymed-sayings, sayings, and citations from the Fathers, and from the learned of his time, in Latin and in the translation. After nearly every chapter follow histories or examples or comparisons under particular superscription; from ch. 14 on also a prayer.
+
+Its peculiarity can be seen from the chapter-titles. E.g.:
+- Ch. 5: that the marriage-ring is, of all bodily good deeds of God, the greatest — as gold is the best metal.
+- Ch. 6: the priority of the man, and the discipline and praise of the woman, drawn from the comparison of gold and silver.
+- Ch. 7: how many persons at once should marry — drawn from the unity of the ring.
+- Ch. 9: of the hard, unloosable bond of marriage — from the fact that the ring goes so tightly on the finger.
+- Ch. 11: that married love should proceed from the heart — from the *ring-finger* on which the ring is set.
+- Ch. 15: that every one should take his equal — from the fitting width of the ring.
+- Ch. 17: that the inclination of one toward the other is God's creation and ordering — as gold is drawn toward ivory.
+- Ch. 19: that the married estate is a medicine against evil lusts — as gold serves against leprosy.
+- Ch. 22: on industriousness and thrift in household economy — drawn from the manner of the Indian ants, that guard the gold there.
+
+The little book will today serve less to actual edification than rather to the knowledge of the peculiarity of the second half of the sixteenth century — in part also in its devotional-literature. For the preacher, however, it gives material in *Hülle und Fülle* for marriage-addresses and household-estate-sermons. Löhe himself put it to use.¹³⁷
+
+*Tranche 3 — I b) die nachreformatorische Zeit 1550–1600 — closes here. Source pp. 86–132 fully translated.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# PART THREE
+
+# The Age of Lutheran Orthodoxy
+
+## and of the Pietism Beginning within it
+
+# 1600 to 1750
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 3 CLOSED at Michael Saxo, source p. 132. **Tranche 4** opens Part Three (II. Das Zeitalter der luth. Orthodoxie und des sich innerhalb ihrer beginnenden Pietismus) with the sub-section II a) Die Zeit von 1600 bis zum Ausgang des dreißigjährigen Krieges — the Lutheran Orthodoxy proper, source pp. 133–218. Tranche 4 covers Nikolai (Philipp, 1556–1608), Georg Dedeken, Valentin Wudrian, Martin Statius, Johannes Kolerus, Valerius Herberger, Johann Heermann, and — as the second-largest single entry in the whole volume — **Johann Arndt** (1555–1621, source pp. 177–197) with the Jakob Böhme excursus, then Johann Gerhard (~197–211) and Johann Matthäus Meyfart (212–218). **Mid-checkpoint build #1 of 2** is spent at the natural pause point at end of Tranche 4 (~source p. 218).]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1324,6 +1404,18 @@ The style is throughout **biblical.** The prayer-book bears within itself the tr
 ¹³⁰ **The old wedding-day** — Tuesday — a Jewish and early-Christian custom (Jer. 33:11 sees a marriage-day of joy) preserved in some sixteenth-century German Lutheran regional churches into the seventeenth century. Habermann embeds the custom in his prayer-book's Tuesday-orderings.
 
 ¹³¹ **The *Endzeit* consciousness** — the sense of the Last Day approaching — was a marked feature of German Lutheran devotional writing of the second half of the sixteenth century (compare Nicolai's *Freudenspiegel* of 1599, treated below in Tranche 4). Habermann shares this feature. The mission-thought — that the gospel is to be spread to the nations — appears in Habermann's prayer-book in Tuesday's intercession-orderings.
+
+¹³² **Franz Xaver Gabelsberger** (1789–1849), Bavarian civil servant and creator of the *Gabelsberger stenography* system (1834), the standard German shorthand for the nineteenth-and-early-twentieth-century civil service, journalistic, and clerical use. Habermann's Betbüchlein in Gabelsberger stenography is one of the more remarkable devotional-artefacts of Große's own age: it testifies to Habermann's continued place in the daily-prayer life of stenographers and clerks, and the *Reuterbibliothek* series was a small-format stenographic library for pocket-use.
+
+¹³³ **Elector Christian I of Saxony** (1560–1591), Albertine-Saxon Elector, patron of the Crypto-Calvinist party at Wittenberg during his reign. His 1589 initiative for a prayer-book (in reality edited by his court-preacher and consistorial advisers, not by him personally) is a rare instance of an Electoral-Saxon patronage of a Lutheran devotional-book of this scale. The 1853 Irmischer re-edition places the volume in the mid-nineteenth-century confessional-Lutheran revival context — as one of the *Erweckungs*-editions.
+
+¹³⁴ **Wolfgang Münsinger von Frundeck** — Große's compressed source-account is difficult to sight-verify because of the OCR gaps and the density of the Löhe cross-references. Münsinger was Kammergerichts-Assessor and, from 1556, Kanzler of the Duchy of Braunschweig-Wolfenbüttel; his *Betbüchlein* was one of the several private-devotion prayer-books drawn from the Reformation-era Lutheran corpus. His death-place *Alsleben* is uncertain; some sources give *Alsfeld*.
+
+¹³⁵ **Michael Saxo** (Sarö) — a devotional writer whose *Arcana annuli pronubi* is a paradigm of the sixteenth-century Lutheran wedding-sermon symbolism: the marriage-ring becomes the interpretive key to a whole theology of the married estate. Modern reception is limited; the work is treated in Große here principally as a monument to the era's *Andachtssymbolik.* Life-dates uncertain — Große gives approximately 1530 to just before 1600.
+
+¹³⁶ Große's tone of gentle bemusement — that the *simplicity of his time hardly took offence* at the *Christliches Zeitvertreib* / *Geistliches Rätselbuch* mixing of sacred and playful matter — is characteristic of his late-nineteenth-century confessional-Lutheran assessment: he does not condemn Saxo's method, but marks it as a curiosity of taste that would not pass in his own age. This is a rare Große-note distancing himself from a sixteenth-century usage rather than endorsing it.
+
+¹³⁷ **Wilhelm Löhe** (see n. 78 above) drew from Saxo's *Arcana* for the marriage-address material in his own *Agende für christliche Gemeinden lutherischen Bekenntnisses* (1st ed. 1844). Große's note here is a nineteenth-century confessional-Lutheran cross-reference: Löhe's use of Saxo is a witness that even Saxo's *arcana-symbolic* method remained useful for the Bavarian confessional-Lutheran revival — a small vindication of the sixteenth-century way of speaking.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
