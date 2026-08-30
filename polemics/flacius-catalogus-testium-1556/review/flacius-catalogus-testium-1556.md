@@ -1244,7 +1244,49 @@ If so-great and so-many libidines, and horrible slaughters from this most-clear 
 
 Testatur et **Aeneas Sylvius** in his some peregrination, S. Ulricum Augustanum episcopum, Papae coelibatum promouenti restitisse.³⁷⁷ Apparet autem ex hac epistola, quod tunc temporis adhuc coniugium sacerdotum in usu fuerit: quodq[ue] Papae primatus, uel potius impia tyrannis, nondum ita inualuerat, ut nefas putaretur, si eum etiam aliquis infimus episcopus peccantem grauius et asperius admonuisset, et obiurgasset…
 
-*[The Udalricus entry continues on `vl0101`; staged for the next Tranche 2 session.]*
+…and rebuked. But afterwards, as-it-be, and especially in this time, among his Antichrist cultores it is-had. But let us subscribe indeed the letter itself of Ulric.
+
+### **The Pseudo-Ulrican Letter — *Rescriptum Sancti Hulderici episcopi Augustensis*** (vl0101–vl0109)³⁷⁸
+
+**"To Nicolaus Domino et patri perumigli, S. Rom. ecclesiae proviisi, Hulderius solo nomine episcopus, amorem ut filius, timorem ut servus."** ("To Nicholas the beloved Lord and Father, of the holy Roman Church prevost, Ulric bishop in name only, love as a son, fear as a servant.")
+
+The letter is a sustained, carefully-argued response to a papal decree — attributed here to **"Pope Nicholas"** (actually **Nicholas II**, †1061, whose Roman synod of 1059 formally required clerical continence) — arguing that the mandated celibacy is *not just, but impious, not canonical, but indiscretely treated*.³⁷⁹ Its argument-structure across roughly ten folio pages runs as follows:
+
+**(i)** *Scriptural argument from the Old Testament* — Aaron and the Levitical priests married (Ex 6:23, Lev 21:7, 1 Chr 24), Samuel, Zacharias father of John the Baptist, and the OT priestly tradition throughout permitted matrimony.³⁸⁰
+
+**(ii)** *Scriptural argument from the New Testament* — Christ himself commended honorable marriage (Matt 19:6, Heb 13:4). Paul explicitly requires bishops to be *unius uxoris viri* (1 Tim 3:2, Tit 1:6), which by ancient Latin exegesis Ulric reads as *permissive* of a single wife, not prescriptive of celibacy. **Paul at 1 Cor 7:9** — *melius est nubere quam uri* — is the fundamental Pauline principle. **1 Cor 7:2** — *unusquisque suam habeat uxorem* — is universally applicable.
+
+**(iii)** *Patristic argument* — **Paphnutius at Nicaea I** (325) preserved clerical marriage against the near-vote for enforced celibacy (glossed at endnote 211).³⁸¹ **Augustine** and **Jerome** likewise (*audi Apostolum dicentem ad Timoth. Oportet Episcopum irreprehensibilem esse, unius uxoris uirum*).
+
+**(iv)** *Historical argument from Gregory the Great* — the fish-pond dredged of 600 infant skulls, Gregory's confession that celibacy imposition had caused *cadis causa*, his abrogation of the decree, and his citation of *melius est nubere quam uri* + *melius est nubere quam mortis occasionem praebere* (already glossed at endnote 376).³⁸²
+
+**(v)** *Ecclesiological-conciliar argument* — no local decree of a single Pope can override the universal apostolic-canonical and Nicene-conciliar tradition permitting clerical marriage. Ulric appeals to the *sancta discretio* (holy discretion) that must govern ecclesiastical legislation.³⁸³
+
+**(vi)** *Pastoral-catastrophic argument* — the actual effect of enforced celibacy on the Church of God is not sanctification but massive-scale hidden sin: concubinage, fornication, sodomy, bestiality (bestialitas *cum brutis*), and infanticide. To require what human weakness cannot generally sustain is to invite sin — *Ex 6:14* on the *fructum peccati*.³⁸⁴
+
+**(vii)** *Peroration and confession of faith* — Ulric concludes, invoking Christ as the sole eternal high priest and mediator, and asking Nicholas either to abrogate his decree, or to permit each bishop and priest to observe his own regional-and-conscientious discipline. Amen.
+
+*[Sample verbatim from the letter's midsection (vl0104–vl0105) on Paphnutius at Nicaea:]*
+
+> *"Legimus praeterea in secundo Tripartitae Ecclesiasticae libro historiae, quòd cum Synodus Nicaena in tandem uellent Patres sancti decreta, ut uidelicet Episcopi, Presbyteri, Diaconi, post consecrationem à proprijs uxoribus uel omnino abstinerent, uel gradum deponerent; surgens in medio Paphnutius, ex illis Martyribus quos Maximus Imperator, oculis eorum dextris euulsis & sinistris suris raesectis, damna uit, contradixit, honorabiles connubium cum propria uxore, esse ditatem esse dicens connubium cum propria uxore; persuasitq[ue] Concilio, ne talem ponerent legem: graue asserens esse causam, quo aut ipsis, aut coeteris ex coniugib. occasio fornicationis existeret. Et haec quidem Paphnutius, licet nuptiarum expers, exposuit: Synodusq[ue] eius sententiam laudauit, & nihil ex hac parte sanciit, sed hoc in uniuscuiusq[ue] uoluntate, non in necessitate dimisit."*³⁸⁵
+
+*[And on the *fructum peccati* argument (vl0106–vl0107):]*
+
+> *"Quid uerò per homines fieri potest stolidius? Quid diuinae maledictioni obligatius, quàm cum stultici sint uel Episcopi uidelicet, uel Archidiaconi, ita praecipites sint in libidinem, ut neque adulteria neque incestus, neque masculorum (proh pudor) turpissimos amplexus sciant abhorrere, quòd ad casta clericorum coniugia sibi dicant foedere, & ab eis non iustitia compassione clericos ut conseruos cogant uel moneant continere, sed ut seruos iubeant ac cogant abstinere?"*³⁸⁶
+
+Closing: *"Nemo sine castimonia non tantum in uirginali flore, sed etiam in coniugali habita coniunctione, usurus sit Domini nostri: qui cum Deo patre & Spiritu sancto uiuit & regnat per omnia secula seculorum. Amen."*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Historici, de coniugio sacerdotum
+
+### *The Historians on Clerical Marriage* — vl0109+
+
+**Historians narrate**: **Nauclerus**, **Krantz**, and **Hirsfeldensis** [the *Chronicon Hersfeldense*], in the year 1074, that grave contentions arose in Germany… ³⁸⁷
+
+*[Continues on `vl0110`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2167,6 +2209,28 @@ Testatur et **Aeneas Sylvius** in his some peregrination, S. Ulricum Augustanum 
 **³⁷⁶** The **fish-pond-with-six-hundred-infant-skulls story** — Flacius here restates the Pseudo-Ulrican Gregorian celibacy-abrogation story already glossed at endnote 354. The specific detail of a papal fish-pond dredged yielding 600 infant skulls (killed by celibate priests concealing sexual liaisons) is a Pseudo-Ulrican dramatic amplification; not attested in Gregory's actual *Regesti*. The *Melius est nubere quam caedis causam praebere* line was universally cited in Reformation anti-celibacy literature. Modern scholarship recognises the whole pseudo-Ulrican corpus as 11th-c. Investiture-Controversy forgery.
 
 **³⁷⁷** **Aeneas Sylvius Piccolomini** (later Pius II) again invoked (already at endnotes 152, 221, 323) — his testimony that Ulric of Augsburg resisted papal celibacy-promotion is Flacius's *ex ore proprio* Roman witness. That Aeneas Sylvius himself as pre-papal historian preserved the anti-Roman tradition is one of Flacius's most-frequent polemical moves.
+
+**³⁷⁸** **The Pseudo-Ulrican Letter (*Rescriptum Hulderici*) proper** — full text PL 135:57–66. In the medieval and Reformation manuscript tradition addressed to "Pope Nicholas" and read as Ulric of Augsburg's response to a 10th-c. papal celibacy decree; actually an 11th-c. polemic composed in Germany during the Investiture Controversy (probably c. 1060–1080) in response to Nicholas II's Roman synod of 1059 which required clerical continence. The pseudonymic attribution to a canonised saintly bishop lent it authority. Universally cited in Reformation anti-celibacy literature. Modern scholarship (Nikolaus Häring 1959; Rudolf Schieffer 1981) identifies it as pseudo-Ulrican.
+
+**³⁷⁹** **Pope Nicholas II** (r. 1058–1061) — the Roman Synod of April 1059 established that clerics living with wives or concubines could not celebrate Mass, and that laity should refuse the sacraments from them. The decree was the foundational legislative moment of the Gregorian Reform's celibacy-enforcement (subsequently intensified by Gregory VII †1085, Urban II †1099, and definitively at Lateran II 1139).
+
+**³⁸⁰** The **Old-Testament married-priest scriptural chain** — Aaron (Ex 6:23 marries Elisheba), the Levitical priests (Lev 21:7 permitted single marriage), Samuel (1 Sam 8:1–3 sons Joel and Abijah), Zacharias (Luke 1:5–7 husband of Elisabeth, father of John the Baptist). Standard Reformation-anti-celibacy scriptural apparatus.
+
+**³⁸¹** **Paphnutius at Nicaea I** — already glossed at endnote 211. Ulric's citation confirms 11th-c. and Reformation-era continuous invocation of the Nicene Paphnutian intervention as canonical warrant.
+
+**³⁸²** The **fish-pond-six-hundred-infants** story here reappears as part of Ulric's own argument — Ulric preserves the same Pseudo-Ulrican tradition (glossed at endnote 376). The internal cross-referencing within the Pseudo-Ulrican letter itself is polemically important: the story is presented as ancient historical fact, not novel invention.
+
+**³⁸³** *Sancta discretio* — Ulric's technical term for the mode of ecclesiastical legislation that must balance canonical universality against local-conscientious specificity. The concept anticipates Reformation-Lutheran distinctions between *adiaphora* and *doctrina necessaria* (Melanchthon's methodology).
+
+**³⁸⁴** The **catastrophic-pastoral argument** — mandated celibacy produces not sanctification but concubinage, fornication, sodomy, bestiality, and infanticide. The catalogue is deliberately shocking; Ulric (or the 11th-c. pseudo-author) documents contemporary German-Italian clerical corruption in graphic detail as *reductio ad absurdum* of the Nicholas II decree.
+
+**³⁸⁵** *Legimus praeterea in secundo Tripartitae Ecclesiasticae libro historiae* — Cassiodorus's *Historia Tripartita* II (already glossed at endnote 115), the standard medieval Latin abridgement of Socrates/Sozomen/Theodoret. Ulric's specific verbatim citation confirms the pseudo-Ulrican letter's use of the standard 11th-c. Latin historical library. The Paphnutius passage from *Historia Tripartita* II.14 was universally cited.
+
+**³⁸⁶** The *casta clericorum coniugia* passage — Ulric's rhetorical peak. The syntax: *quod ad casta clericorum coniugia sibi dicant foedere* — that they "bind themselves against chaste clerical marriages" (as if marriage were the offence) while ignoring the actual offences of adultery, incest, and sodomy. Reformation-standard exposure of celibacy-enforcement's misdirection.
+
+## From the Catalogue — Historici, de coniugio sacerdotum (vl0109+)
+
+**³⁸⁷** **Johannes Nauclerus** (c. 1425 – 1510), *Memorabilium omnis aetatis et omnium gentium Chronici Commentarii* (Tübingen 1516) — the standard humanist-era universal chronicle; **Albert Krantz** (c. 1448 – 1517, already at endnote 371) *Saxonia* and *Metropolis*; **Hersfeldensis** (the *Annales* or *Chronicon* of the Abbey of Hersfeld, 11th c.) — the three historical sources Flacius chains for the 1074 German clerical marriage-controversy under Gregory VII's Roman-decreed celibacy-enforcement.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

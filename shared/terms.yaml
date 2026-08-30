@@ -3714,13 +3714,51 @@ fishpond_infant_skulls:
     anti-celibacy. Modern scholarship recognises whole pseudo-Ulrican
     corpus as 11th-c Investiture-Controversy forgery.
 
+# ─── Tranche 2u — Pseudo-Ulrican letter + Historici (vl0101-vl0109) ─────
+
+nicholas_ii_1059:
+  english: Nicholas II Roman Synod 1059 celibacy decree
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pseudo-Ulricus at vl0101"
+  note: >
+    Roman Synod of April 1059 under Nicholas II (r. 1058-1061)
+    established that clerics living with wives or concubines could
+    not celebrate Mass, and that laity should refuse the sacraments
+    from them. Foundational legislative moment of Gregorian Reform's
+    celibacy-enforcement (intensified Gregory VII †1085, Urban II,
+    definitively Lateran II 1139). Pseudo-Ulric letter responds.
+
+sancta_discretio:
+  english: Holy discretion (Ulric's canonical-legislation principle)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pseudo-Ulricus at vl0105"
+  note: >
+    Ulric's technical term for mode of ecclesiastical legislation
+    that must balance canonical universality against local-
+    conscientious specificity. Anticipates Reformation-Lutheran
+    distinctions between adiaphora and doctrina necessaria.
+
+pseudo_ulrican_argument:
+  english: Pseudo-Ulrican 7-part argument against enforced celibacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pseudo-Ulricus at vl0101"
+  note: >
+    (i) OT scriptural chain — Aaron/Levitical priests/Samuel/Zacharias
+    (ii) NT scriptural chain — Matt 19:6, Heb 13:4, 1 Tim 3:2 unius-uxoris,
+    1 Cor 7:2, 7:9 melius-nubere (iii) Patristic — Paphnutius Augustine
+    Jerome (iv) Historical — Gregorian fish-pond-abrogation (v) Ecclesio-
+    logical — no local decree overrides Nicene tradition (vi) Pastoral-
+    catastrophic — celibacy causes concubinage/fornication/sodomy/
+    bestiality/infanticide (vii) Peroration — Christ sole eternal high
+    priest.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Ulric opening (vl0001-vl0100, 100 body
-# pp + 32 paratexts ≈ 18.3% of 1094-pp body — CROSSED vl0100!). Flacius
-# lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae)
-# + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i)
-# + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p)
-# + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) = 116.
+# FLACIUS 1556 — TRANCHE 2 through Historici opening (vl0001-vl0109, 109
+# body pp + 32 paratexts ≈ 20% of 1094-pp body — CROSSED 20% MILESTONE!).
+# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
+# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
+# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
+# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) = 119.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
