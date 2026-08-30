@@ -92,8 +92,28 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;§ 10. The five powers of the Soul; the two parts of the rational Soul; the Affects | 48 |
 | &nbsp;&nbsp;&nbsp;§ 11. What the Image of God is | 49 |
 | &nbsp;&nbsp;&nbsp;§ 12. What Free Choice is — before the Fall, after the Fall, and in the regenerate | 50 |
-| Notes | 55 |
-| Glossary of Terms | 63 |
+| **Locus III · Of the Law of God — Part 1: Framework and First Table** | 57 |
+| &nbsp;&nbsp;&nbsp;§ 1. What the Law of God is — the brief definition | 57 |
+| &nbsp;&nbsp;&nbsp;§ 2. Melanchthon's more expansive definition | 57 |
+| &nbsp;&nbsp;&nbsp;§ 3. The three parts of the Mosaic Law | 58 |
+| &nbsp;&nbsp;&nbsp;§ 4. The causes, form, and ends of the Law | 58 |
+| &nbsp;&nbsp;&nbsp;§ 5. What Natural Law is | 59 |
+| &nbsp;&nbsp;&nbsp;§ 6. What Political or Positive Human Law is | 59 |
+| &nbsp;&nbsp;&nbsp;§ 7. The difference between the Law of God and human laws | 60 |
+| &nbsp;&nbsp;&nbsp;§ 8. Why the Ceremonial and Forensic Laws are abrogated, though the Decalogue remains | 60 |
+| &nbsp;&nbsp;&nbsp;§ 9. How Christ fulfilled the Law — four ways | 61 |
+| &nbsp;&nbsp;&nbsp;§ 10. How "the Law is not laid down for the just" (1 Tim 1) is to be understood | 62 |
+| &nbsp;&nbsp;&nbsp;§ 11. What Christian Liberty is | 62 |
+| &nbsp;&nbsp;&nbsp;§ 12. The Ten Commandments recited | 63 |
+| &nbsp;&nbsp;&nbsp;§ 13. The First Precept — the eight virtues of the First Table | 64 |
+| &nbsp;&nbsp;&nbsp;§ 14. The First Precept — the vices that fight against it (Idolatry, Hypocrisy, Scandal) | 68 |
+| &nbsp;&nbsp;&nbsp;§ 15. The Second Precept — the five virtues (Invocation, Thanksgiving, Preaching, Confession, Oath-taking) | 70 |
+| &nbsp;&nbsp;&nbsp;§ 16. The Third Precept — What "Sabbath" signifies, and the seven causes of the Law of Sabbath | 72 |
+| &nbsp;&nbsp;&nbsp;§ 17. The Third Precept — the six good works commanded | 74 |
+| &nbsp;&nbsp;&nbsp;§ 18. The Third Precept — On Ceremonies in the Church | 76 |
+| &nbsp;&nbsp;&nbsp;§ 19. The Third Precept — Why the specific Sabbath is abrogated for Christians though the Decalogue remains | 77 |
+| Notes | 79 |
+| Glossary of Terms | 89 |
 
 — ❦ —
 
@@ -145,7 +165,7 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 
 ## 5. What is not yet in this working translation
 
-- **Locus III — X.** Loci I and II are now translated. Locus III *De Lege Dei*, Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow in subsequent working sessions.
+- **Locus III Second Table + closing; Locus IV — X.** Locus III (De Lege Dei) is the largest single Locus of the Catechism; it is here translated in two parts. **Part 1** — the Law framework and the First Table of the Decalogue (Precepts 1–3) — is present in this working translation. **Part 2** — the Second Table (Precepts 4–10) and the closing sections on the uses of the Law, discipline, and the promises and threats attached to the Decalogue — will follow in the next working session. Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow thereafter.
 - **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued when the full Locus set is translated.
 - **The 1588 recension.** The Internet Archive item pairs the 1594 edition with an earlier 1588 recension. Textual collation between the two — to identify precisely which passages the 1594 title-page description *multis in locis aucta* refers to — is a task deferred to a future edition.
 
@@ -842,6 +862,412 @@ Eph 4[:24]: *Put on the new man, which after God is created in righteousness and
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+# Locus III · Part 1
+
+## *Of the Law of God — the Framework and the First Table of the Decalogue*
+
+— ❦ —
+
+### § 1. What the Law of God is — the brief definition
+
+***What is the Law of God?***
+
+The **Law of God** is the **Ten Commandments**.
+
+Or: The **Law of God** is the doctrine which God imprinted upon men at creation, and afterward promulgated on Mount Sinai and elsewhere — prescribing what we ought to be, what we ought to do, and what to omit; and promising goods to those who render perfect obedience; showing forth and accusing sin in this corrupt nature; and denouncing the wrath of God and eternal penalties upon all who are polluted by sin.⁷⁶
+
+— ❦ —
+
+### § 2. Melanchthon's more expansive definition
+
+***What is the fuller and more illustrious definition of the Law which our Philip has handed down?***
+
+> The **Law of God** is the **eternal and unmoved wisdom and rule of righteousness in God, discerning right and non-right**, and being horribly angered at all dissimilarity and contumacy which is repugnant to this norm in Himself; and it is made manifest to men at creation, and declared by the divine voice, that we may know what God is, and what He is like; obliging all rational creatures, and demanding that all be conformable to God; condemning and destroying all who are not conformable to God — unless there be a remission and reconciliation on account of the Son the Mediator.⁷⁷
+
+— ❦ —
+
+### § 3. The three parts of the Mosaic Law
+
+***What are the parts of the Mosaic Law?***
+
+Three:
+
+**I. Decalogus**, or the *moral and eternal Law* — of which the definition has been given.
+
+**II. Ceremonial Laws** (*leges ceremoniales*, or ecclesiastical).
+
+**III. Forensic Laws** (*leges forenses*, or judicial).
+
+— ❦ —
+
+### § 4. The causes, form, and ends of the Law
+
+> ***Recite the causes of the Law, and its ends.***
+>
+> **Efficient cause**: immediately God Himself, who inserted this norm of His wisdom and of the institution of human life into the minds of all men at the first creation, and afterward from Sinai delivered it by voice.
+>
+> **Matter**, or subject: the whole rational nature, which with this norm — the mind of the divine, expressed in the Law — was to be perfectly congruent.
+>
+> **Form**: the eternal and unmoved norm of righteousness in God, obliging all either to perfect obedience or to eternal penalties.
+>
+> **Ends**:
+>
+> **First**, that it may teach what God is, and what God is like.
+>
+> **Second**, that the nature of men may be congruent with this norm.
+>
+> **Third**, that it may show, accuse, and with eternal penalties condemn every sin not congruent with this norm.
+
+— ❦ —
+
+### § 5. What Natural Law is
+
+***What is Natural Law?***
+
+The **Law of Nature** in its most proper sense is the *notice of the divine Law*, innate by God in human nature — as Rom 2[:15] says: *The work of the Law written in their hearts.* And the sum of the Law of Nature is contained in the Decalogue.⁷⁸
+
+— ❦ —
+
+### § 6. What Political or Positive Human Law is
+
+***What is Political or Positive Human Law?***
+
+**Political** or **positive** laws are sentences or laws laid down by magistrates with probable reasoning, that they may be *adminicula* (aids) of the Law of Nature — namely, determining certain circumstances in the execution of natural law, or enacting something concerning occasions for keeping the natural law — not conflicting with natural law or divine law.
+
+— ❦ —
+
+### § 7. The difference between the Law of God and human laws
+
+***What is the difference between the Law of God and human laws?***
+
+The most illustrious differences are these four:
+
+**Human** or **positive laws of Magistrates** are *mutable*; they oblige only certain men, to whom they are given; and only to external obedience or to bodily penalties.
+
+**The Law of God** is *eternal and immutable*; and it obliges all Angels and all men, either to perfect obedience or to sustaining eternal penalties.
+
+— ❦ —
+
+### § 8. Why the Ceremonial and Forensic Laws are abrogated, though the Decalogue remains
+
+***Why are the Ceremonial and Forensic Laws of Moses now abrogated, though the Decalogue is retained perpetually?***
+
+> The whole *polity of Moses* was chiefly for this cause established by God: that it might be a certain domicile and a certain place in which Christ, according to the promises, might be exhibited — that is, that it might be the *hospitium* and *school* of Christ, before He was manifested. The Ceremonial and Forensic Laws were therefore *added*, that they might contain this polity and might distinguish it from other nations, until Christ should be exhibited. But after Christ was exhibited, the whole polity was ended — so with the polity also the Ceremonial and Forensic Laws (which were prescribed on account of that polity itself) were extinguished.
+>
+> But the moral Law — the **Decalogue** — is the eternal and unmoved norm of wisdom and righteousness in God Himself, obliging all rational creatures either to perfect obedience or to eternal penalties. Wherefore it is retained even in the Christian Church, as also Christ Himself testified in the New Testament, that He came *not to abolish but to fulfil the Law* (Matt 5[:17]).⁷⁹
+
+— ❦ —
+
+### § 9. How Christ fulfilled the Law — four ways
+
+***How did Christ fulfil the Law?***
+
+In four ways:
+
+**First**, by having and rendering *perfect obedience* for our person.
+
+**Second**, by paying a sufficient *penalty* for our disobedience.
+
+**Third**, by *rightly explaining* the true and genuine meaning of the Law.
+
+**Fourth**, by *effecting* in believers a new obedience congruent with the Law, through the Holy Spirit.⁸⁰
+
+— ❦ —
+
+### § 10. How "the Law is not laid down for the just" (1 Tim 1) is to be understood
+
+***Since the Moral Law is eternal and immutable, how are these words of 1 Timothy 1[:9] to be understood: "The Law is not laid down for the just"; and Rom 6[:14]: "You are not under the Law"?***
+
+Those *justified* through the Son of God are also *liberated* from the curse of the Mosaic Law — from that malediction, or from the obligation to eternal penalties — but the eternal and immutable obligation to obedience remains. For **Christ took upon Himself the malediction of the Law**, that in human nature He might restore the obedience or the conformity with the Law of God.⁸¹
+
+Hence it may be understood what **Christian Liberty** is.
+
+— ❦ —
+
+### § 11. What Christian Liberty is
+
+***What is Christian Liberty?***
+
+**Christian Liberty** is *not* a licence to do whatever one pleases; it is:
+
+The **liberation** from *sin*, from the *wrath of God*, from the *malediction of the Law*, from the *Ceremonies and Forensic Laws of Moses*, and from *external rites without divine command* (outside the case of scandal). John 8; Eph 2; Gal 3, 4, 5.⁸²
+
+— ❦ —
+
+### § 12. The Ten Commandments recited
+
+***What are the chief sentences of the Moral Law? Or: What are the precepts of the Decalogue?***
+
+Ten. Recite them.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The First Precept*
+
+> ***I am the Lord thy God, who brought thee out of the land of Egypt. Thou shalt have no other gods before me.***
+
+— ❦ —
+
+### § 13. The First Precept — the eight virtues of the First Table
+
+***What are the virtues or good works of the First Precept, according to the declaration of the Gospel?***
+
+> All the virtues arise from the *notice or cognition* of the governing thing — since *of the unknown there is no desire* (*ignoti nulla cupido*). Therefore the First Precept begins from the *notice of God*: *I am the Lord thy God*. And it discerns God — by the certain Word, and by the testimonies of miracles (as in the leading of Israel out of Egypt, made manifest) — from all *created* and *invented* deities. This *cognition* is either from the effect of divine intervention: made manifest either in the Law and in commandments, or in the promises and Gospel. When we know the Law of God and the commandments and embrace them by true assent, then *Timor Dei* — the Fear of God — arises. When we embrace the promise of grace and of the love of God in Christ, then *Fides* or *Fiducia* arises, resting in God, and vivifying the heart, and giving birth to *dilectio* toward God and toward the neighbour. From this fount is taken the distribution of the virtues of the First Precept, which under two words — *Timor Dei* and *Fides* — our Philip in the *Loci* comprehends.⁸³
+>
+> It is customary to comprehend all the virtues of the First Table under one word — *Pietas*, or *Religio*; but that the explanation may be clearer, it is useful to unfold them and to distribute them into several *species*, whose several *appellations* often play upon several others by *synecdoche*. Therefore let us recite (without superstition) the eight *genera* of works of the First Precept. And I exhort the studious that they learn the following definitions of the virtues by heart, and set them before themselves as norms and rules of all counsels and actions in the whole of life.
+
+**The common genus of all the virtues of the First Table is:**
+
+**PIETAS ERGA DEUM SEU RELIGIO — PIETY TOWARD GOD, or RELIGION**
+
+**Whose parts are the virtues that pertain to the First Precept of the Decalogue:**
+
+I. Vera Notitia Dei seu Sapientia — True Knowledge of God, or Wisdom.
+
+II. Timor Dei seu Reverentia — Fear of God, or Reverence.
+
+III. Fides — Faith.
+
+IV. Dilectio — Love.
+
+V. Spes — Hope.
+
+VI. Humilitas — Humility.
+
+VII. Patientia — Patience.
+
+VIII. Perseverantia — Perseverance.
+
+— ❦ —
+
+**PIETAS ERGA DEUM seu RELIGIO** is the cognition of the true God, made manifest in the creation of the world and in the Word delivered to the Church — to acknowledge Him, to invoke Him with confidence in Christ the Mediator, and to worship Him, as God in His Word has commanded.
+
+**SAPIENTIA** in the sacred letters is the same as *Pietas* — that is, the true knowledge of God and of our Redeemer Jesus Christ, conjoined with the true fear of God, and with faith, and with the universal obedience of the whole of life, according to the Word divinely delivered.
+
+**VERA NOTITIA DEI** — to rightly acknowledge the essence and the will of God made manifest in the Law and Gospel, according to the Word delivered through the Prophets and the Apostles, and confirmed by certain and illustrious testimonies of miracles (as the leading of the people of Israel out of Egypt, the raising of the dead, and the like).
+
+> **Sins fighting with True Knowledge:** the *caligo* and blindness of the mind ignorant of God; all false opinions concerning the essence and will of God not congruent with the Word delivered through the Prophets and the Apostles — namely the pagan (*Ethnica*), the philosophical, the Turkish, the Judaic (*Iudaica*), all heresies, corruptions of the Gospel, blasphemies.
+
+**TIMOR DEI** is: to be *terrified* by the sight of the wrath of God against sin; and by *filial fear* of the terror of divine judgement to shun crimes; and reverently to subject oneself to God; and by the will and Word of God to govern all counsels and all actions in the spiritual and Christian life.
+
+> **Extremes:** *Securitas* — being without care, without fear of the wrath of God and of divine judgement. And *Superstitio* — trembling with fear where there is no fear. *This the Fear of God confers upon us: that we may contemn all other fears.*
+
+**FIDES** is the *notice* of all the articles of Christian doctrine, and *assent* by which we embrace the whole doctrine delivered by God to us, and in it the *Promise of gratuitous reconciliation*, certainly to be given for Christ the Mediator; and it is the *fiducia* which rests in this promise of God for the Son the Mediator, and certainly determines that its sins are remitted on account of Christ.
+
+> **Sins fighting with Faith:**
+>
+> *Epicurean* and *Academic* doubts about God, about His Providence, about the certitude of the doctrine delivered through Christ and the Apostles.
+>
+> Distrust toward God.
+>
+> Doubt about the remission of sins — whether we are in the grace of God, whether we displease God.
+>
+> Despair.
+>
+> Confidence or presumption.
+>
+> Trust in human aids.
+>
+> Superstition.
+>
+> Magic.
+
+**DILECTIO DEI** is the *ardent burning of love*, by which the mind and will, having acknowledged the *love of God toward us* (which is declared by the sending of the Son), in turn embraces God and subjects itself to God; and preserves all the mandates of God with a certain gladness resting in God. Or, *Dilectio* is: *universal obedience* according to the whole Law — as it is said, Rom 13[:10]: *Love is the fulfilment of the Law*.
+
+> **Sins fighting** are all depraved inclinations, hatred of God, the *stupor* of our hearts not feeling the ardent flames of love, and all other virtues' extremes.
+
+**SPES** is the *certain expectation* of eternal life, near to the promise expressed in the Gospel; and the expectation of the liberation from calamities in this life, according to the counsel of God.
+
+> **The extremes of Faith and Hope are:** Despair and Presumption.
+
+**HUMILITAS**, or **ταπεινοφροσύνη** (*tapeinophrosynē*), is the virtue by which — in the Fear of God acknowledging our own infirmity — we do not exalt ourselves, but with a true heart abase ourselves; and in the offices of just vocation, in the confidence of divine aid, we submit ourselves in humbly bearing penalties and afflictions, and in showing due honour to others.
+
+> **Extremes:** *fictitious or simulated humility*; and **SUPERBIA** — Pride — which is without the fear of God, and without the acknowledgement of one's own infirmity, admiring oneself, magnifying oneself, trusting in riches or in one's own wisdom or strengths, and — when adverse things befall — being angered at God as though He were unjustly punishing.
+
+**PATIENTIA** is the virtue by which in sorrows and griefs, moderately and calmly to be borne, we reverently subject ourselves to the will of God; and neither seek unconceded aids, but by faith determine that God is propitious to us; and ask and expect the aid of God, and mitigation and liberation; and by this faith and hope mitigate our sorrow, and feel peace and joy in the heart.
+
+The parts of *Christian Patience* are **Fear of God** and **Faith**.
+
+> **Extremes** are *impatience*, and the *hypocritical bearing* of sorrows without true assent to the divine will — as in the flogged, the plunderers, and the like.
+
+**PERSEVERANTIA** is: in the true knowledge of God, and in faith in Christ, *constantly and perpetually* to remain until the extreme of life in the Spirit.
+
+> **Extreme:** *defection* from faith, and *pertinacity* in impious opinions or superstitious rites.
+
+> The extremes common to the whole First Table, or the sins fighting with the whole First Table, are: *Epicurean* and *Cyclopean* contempt of God.
+
+— ❦ —
+
+### § 14. The First Precept — the vices that fight against it (Idolatry, Hypocrisy, Scandal)
+
+**IDOLOLATRIA** is either (i) to feign that some thing is God which is not God; or (ii) to attribute honour properly due to God to any thing whatsoever which is not God; or (iii) to bind God to some thing to which He has not bound Himself by His own Word; or (iv) to invent and institute worships without the Word and promise of God, and to confide in these worships — that on account of them God is propitious to us and does us good.
+
+> *Foreign gods* (*Dii alieni*) are not only the fictitious *numina* of the pagans, and the statues and images which are worshipped, but *in genere everything which we love and fear more than God, and in which we trust more than in God.*
+
+**HYPOCRISIS** is the *simulation* of external piety, righteousness, and sanctity — when the heart is nevertheless without the true Fear of God, and without Faith, full of doubts, depraved inclinations and affects, pride, self-admiration, etc.
+
+**SCANDALUM** is either *false doctrine* or *bad example*, by which the glory of God and the salvation of other men are harmed — either because it seduces others, or because it deters others from the Gospel, or because it provides an occasion for the evil-speakers to speak against the Gospel and the Church, or because it invites others to imitation, or because it entails many other sins.⁸⁴
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Second Precept*
+
+> ***Thou shalt not take the name of the Lord thy God in vain.***
+
+— ❦ —
+
+### § 15. The Second Precept — the five virtues (Invocation, Thanksgiving, Preaching, Confession, Oath-taking)
+
+***What are the virtues or good works of the Second Precept, in which consists the true use of the divine name?***
+
+I. True Invocation of God.
+
+II. Thanksgiving.
+
+III. True Preaching.
+
+IV. Confession.
+
+V. Oath-taking (*Iusiurandum*).
+
+— ❦ —
+
+**VERA INVOCATIO DEI** is: with the true motion of the heart and of the tongue, from the true God (made manifest in the promise of the Gospel and in the sent Son) to ask and to await both eternal and bodily goods; and, all doubt being repulsed, certainly to determine that our prayers are received by God and heard, according to His own promises, on account of Christ the Mediator.
+
+> **Extremes** are: the *omission* of invocation; the *cold and lukewarm* prayer, which is of all of us; and the *sundry idolatrous invocations* of pagans, Turks, papists; the invocations of dead men.
+
+**GRATIARUM ACTIO** — Thanksgiving — is with mind and voice to confess that spiritual and bodily goods are not offered to us by chance, nor bestowed by our own wisdom or strength, but that God is the fount and only *author* of all benefits; and on account of this, with a true heart to subject oneself and follow God.
+
+**VERA PRAEDICATIO VERBI DIVINI** — the true preaching of the divine Word — as of the boys, Matt 21[:16]: *Out of the mouth of babes and sucklings*. And so pertains from one's proper place and vocation to declare and to teach, and dexterously to refute corruptions.
+
+> **Extremes** are *connivance* and *neglect*, and *hypocritical simulation*.
+
+**CONFESSIO** — to *profess* constantly the true doctrine, not casting it away for terror, hatred, contempt, or hope of dignity of the powerful — *without this end*: that God be obeyed, lest the true knowledge of God be extinguished on earth.
+
+> **Extremes** are: *defection* from the Gospel, and *pertinacity* in impious causes.
+
+**IUSIURANDUM** is the invocation of the true God, by which one asks that He be witness that we speak true things, and severely punish those who lie.
+
+> **Extremes** are: *Perjury*, and *superstitious observation* of impious oaths.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *The Third Precept*
+
+> ***Remember to sanctify the Sabbath day.***
+
+— ❦ —
+
+### § 16. The Third Precept — What "Sabbath" signifies, and the seven causes of the Law of Sabbath
+
+***What does "Sabbath" signify?***
+
+To the Hebrews, *rest*; also *school*, and *cessation from labours for the studies of the doctrine concerning God* — to which the seventh day of the week has been destinated by God alone in the first creation.⁸⁵
+
+***Why was the Law concerning Sabbath given?***
+
+Seven causes are given:
+
+**I.** God willed that the day of Sabbath in each week should be a *monument of the doctrine of the creation of the world*, completed in six sacred days — from which day the seventh God rested (Gen 2:3), that is, *ceased to found fresh things*, having made the perfect universe, and destinated the successive uses of the works. So He blessed the seventh day, and sanctified it. This distinguishes worship of the true God from all idolatry, since God alone is the Creator of all.
+
+**II.** The Sabbath was a *type* of eternal rest from labours and afflictions for Christians.
+
+**III.** A *type* of the eternal ecclesiastical ministry.
+
+**IV.** *Distinction* from other peoples.
+
+**V.** That households and servants and beasts, fatigued in the labour of the former weeks, might be *recreated* in the leisure and rest of the seventh day. Deut 5[:14].
+
+**VI.** *Monument of liberation from Egyptian servitude*, and the giving of thanks to God for rest from the labours which in Egypt they had heavy and almost intolerably borne. Deut 5[:15].
+
+**VII.** And *chiefly* in the third precept to be considered: that on each week's seventh day men might come together *for learning and propagating the Law of God*, and the promises concerning Christ, and for common prayer and giving of thanks and divine praises. **This it is to sanctify the Sabbath.**
+
+— ❦ —
+
+### § 17. The Third Precept — the six good works commanded
+
+***What, then, are the good works commanded in the Third Precept?***
+
+Six:
+
+I. *Sanctification of the Sabbath* — the conservation of the ministry.
+
+II. *Fidelity* of the ministers, or teachers.
+
+III. *Diligence* of the hearers.
+
+IV. *Reverence and obedience* toward the ministers.
+
+V. *Liberality*, benignly contributing to the conservation of the ministry.
+
+VI. *Pious observation* of the Ceremonies in the Church.
+
+— ❦ —
+
+**SANCTIFICATIO SABBATI** consists in this: with the true Fear of God and Faith going before, to give the day to the ministry of teaching and to the administration of the ceremonies divinely instituted; that is, to give it not to profane things but to holy works — that is, to teaching and learning the true doctrine concerning God, to public prayer, to giving of thanks, to the use of the Sacraments, and so on; not to place it in an inert and idle rest, nor in bodily labours or profane uses that would draw one away from the ministry.
+
+The virtue akin to this is **CONSERVATIO MINISTERII EVANGELICI** — the conservation of the Evangelical Ministry — which is the office of *publicly preaching the Word of God in the assembly of the Church, and of legitimately administering the Sacraments instituted by God*, that by that ministry He may kindle the true knowledge of Himself, faith, invocation, and the other virtues pleasing to Him, and impart all the benefits of Christ and eternal salvation to those who believe in the Gospel.
+
+> **Sin fighting with the Third Precept** is *profanation of the Sabbath*, either through *neglect and contempt of the ministry*, or through *superstitious Judaising* observation of the Sabbath, or through *transformation of the ministry into a mundane kingdom*.
+
+**FIDELITAS DOCENTIUM** is the virtue by which the ministers of the Church — conscious of their mediocre skill in Christian doctrine — as *faithful dispensers of the mysteries of God* diligently and sedulously discharge and constantly maintain the offices of teaching, arguing, consoling, exhorting, and shining before their hearers by example of true piety and holy life.
+
+> **Extremes** are: *ignorance* or unskilfulness in doctrine; *slothfulness* in office; and *excessive anxiety* — or the *pretext* of one's own weakness for deserting the ministry.
+
+**DILIGENTIA AUDITORUM** — the diligence of the hearers — in hearing and learning the doctrine, and in the frequent use of the Sacraments, and in due obedience to the ministry.
+
+> **Extremes common**: *neglect* and *contempt* of the doctrine and Sacraments, and *superstition*.
+
+**REVERENTIA ET OBEDIENTIA erga Ministros** — reverence and obedience toward the ministers, in those things which pertain to the ministry: namely, when they propound the precepts of God, when they announce the consolation of the Gospel, when they exhort to good works, when they excommunicate the contumacious. Luke 10[:16]: *He that heareth you, heareth me.* Heb 13[:17]: *Obey them that are set over you, and submit yourselves: for they watch for your souls, that they may do it with joy, and not with grief.*
+
+> **Extremes** are: *contempt* and *contumacy* toward the ministers, and *simulation* by art suppressing the *ministerium*; and *impious obedience* in corruptions of doctrine or in impious traditions.
+
+**CONTRIBUTIO** — contribution — to the conservation of the Evangelical Ministry, and to the sustenance of the teachers in the Temple and in the schools of the Levites, of *whatever was given by God at the tithe and firstfruits* under the Old Testament, and continues in the New Testament under the *stipendia* which Christians offer to their ministers (as *they that preach the Gospel should live of the Gospel*, 1 Cor 9[:14]).
+
+> **Extremes** are: to *seize on* the goods offered to the ministry of the Church, or to *pour out* wealth in illicit or idolatrous colleges of the dead or of new mendicants.⁸⁶
+
+**PIA OBSERVATIO CEREMONIARUM** — the pious observance of the Ceremonies instituted in the Church — that by them the doctrine concerning God and the salvation of the Church may be known to others; and the *nerves of public assemblies*, that all things in these may be decently and orderly borne.
+
+> **Extremes** are: *impiety*, contemning all rites; and *superstition*, tying salvation to indifferent rites.
+
+— ❦ —
+
+### § 18. The Third Precept — On Ceremonies in the Church
+
+***How is the matter of Ceremonies in the Church to be judged?***
+
+> **Ceremoniae** in general are *gestures* or *external actions* falling under the eyes or other external senses, ordained to certain ends.
+>
+> They are either **Divine** — that is, commanded by God — either in the Old Testament (as *circumcisio* and *sacrificia*, which were signs of the promise and *types* of the benefits of Christ, and marks of the true Church, and bonds and nerves of the public ministry); or in the New Testament (namely *Baptismus* and the *Coena Domini*, of whose ends we shall speak below).
+>
+> Or they are instituted **by men** in the Church of God — which Paul calls *human traditions*. These are either (i) *openly against the Word of God* and prohibited by it — as invocations and worships of statues and dead men, Mass for the departed, Indulgences, and so on; or (ii) they are **ADIAPHORA** — things which God has neither specifically commanded nor prohibited, and which by their nature it is free to observe or not to observe. Of these:
+>
+> Some are *useful* for good order, discipline, or *paedagogia* for the youth, and for the tranquillity and dignity of adorning public assemblies — such as the *form* of Temples, of places, of readings, of prayers, of songs, of chants in public assemblies; the *habits and vestments of learners*; the *rite of public Ordination with imposition of hands*; the *rite of matrimony* of the *sponsus and sponsa*; the *rite of burial with pious rites*.
+>
+> Others are *ludicrous* or even plainly *superstitious* — as ridiculous *gesticulations of sacrificers* in the sacred rites, *processions with statues*, *the circulation of the ass on Palm Sunday*, the *depositing of the man into the sepulchre*, and the *excitation* thereupon and the *shaving of monks*, and so on.
+>
+> These rites, though on account of infirmity and the docile they may in some measure for a time be tolerated (lest by too sudden or intempestive abrogation of former rites, to which they have grown accustomed, they be deterred from the Gospel — Rom 14) — nevertheless we must not by ludicrous rites, nor even by strictly *adiaphorous* ones, be accustomed to the opinion that these are *righteousness before God*, or cult of God through themselves, or *necessary to salvation*, or *works better than those which God commanded in the Decalogue*.⁸⁷
+
+— ❦ —
+
+### § 19. The Third Precept — Why the specific Sabbath is abrogated for Christians though the Decalogue remains
+
+***Since the precepts of the Decalogue are eternal and unmoved, why is the Law concerning the observance of Sabbath abrogated for Christians?***
+
+The Law concerning the Sabbath is *partly moral* — insofar as it concerns the *genus*, that is, the *conservation of the public ministry*; *partly ceremonial* — namely insofar as it prescribes the *rite of the seventh day*, which along with the other Mosaic Ceremonies was abrogated, and in its place the *first day of the week* was substituted — on which Christ the Lord rose from death.⁸⁸
+
+*Locus III Part 2 — the Second Table of the Decalogue (Precepts 4–10) and the closing sections on the uses of the Law, discipline, and the promises and threats attached to the Decalogue — follows in the next working session.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Notes
 
 ## From Chapter 1 · Prolegomena & Front Matter
@@ -999,6 +1425,34 @@ Eph 4[:24]: *Put on the new man, which after God is created in righteousness and
 ⁷⁴ Chytraeus's post-Fall doctrine is the *bondage of the will* in things pertaining to salvation — Luther's *De Servo Arbitrio* (1525) doctrine as received into the Formula. The mind is *oppressed by the darkness of sin* (*tenebrae peccati*), the will is *averse and adverse to God* (*aversa et adversa Deo*) — these are the exact formulations the Formula uses. Cf. FC SD II *De Libero Arbitrio*, §§7, 17, 24, 60 (BSELK, pp. 872, 878, 882, 900). *Servile et captivum et mortuum* is Luther's *WA* 18:632–787.
 
 ⁷⁵ The *free choice in the regenerate* passage is careful post-Formula theology, articulated by Chytraeus (a signatory of the Formula, 1577) with disciplined precision: (i) the regenerate is *liberated by the Son* — passive; (ii) *helped by the Holy Spirit* — cooperative; (iii) *by their own effort and diligence* — the *concursus* of grace and renewed will in sanctification (not in conversion). And the last clause — *"and may again fall from God"* (*et rursum a Deo deficere potest*) — is Chytraeus's affirmation of the possibility of losing faith, against Reformed *perseverantia sanctorum*. Compare FC SD II §65–66 (BSELK, pp. 904–06); FC SD XI *De Praedestinatione*, §42 (BSELK, pp. 1092–94).
+
+## From Locus III · Part 1 — Framework and First Table of the Decalogue
+
+⁷⁶ Chytraeus's brief definition of the Law integrates three moments: (i) the *cognitional* — the doctrine God imprinted at creation; (ii) the *promulgated* — the Sinai delivery; (iii) the *normative* — what we must be, do, and omit, with sanctions attached. Compare Melanchthon *Loci Praecipui* 1559, *De Lege*, CR 21:685–86.
+
+⁷⁷ The fuller definition is Chytraeus's citation of Philip Melanchthon's own formula from *Loci Praecipui* 1559, *De Lege*, CR 21:686–89: *"Lex Dei est aeterna et immota sapientia et regula iustitiae in Deo, discernens recta et non recta …"* — verbatim. Chytraeus's habit throughout the Catechism is to give both a memorisable brief formula and the fuller Melanchthonian text; this discipline is a mark of the Wittenberg-Rostock school method.
+
+⁷⁸ On the *lex naturae* in the Lutheran tradition, cf. Melanchthon *Loci Praecipui* 1559, *De Lege Naturae*, CR 21:711–17; *Elementa Ethices* 1550 (CR 16:167–224). The reduction of natural law to the Decalogue is the Lutheran-humanist mainstream, not the strong voluntarism of some later Reformed writers.
+
+⁷⁹ On the abrogation of the Ceremonial and Forensic parts of the Mosaic Law and the retention of the Moral, cf. *Augsburg Confession* XXVIII *De Potestate Ecclesiastica* (BSELK, pp. 200–30); *Formula of Concord*, Solid Declaration, Art. V *De Lege et Evangelio* (BSELK, pp. 1010–24); *Apologia Confessionis Augustanae* IV, §7–8 (BSELK, p. 170); and Chytraeus's own *Regulae Vitae* (Wittenberg, 1598). The *hospitium et schola Christi* metaphor for the Mosaic polity is standard Reformation typology; Chytraeus draws on Gal 3:24 (*paedagogus in Christum*).
+
+⁸⁰ The four-fold *impletio Legis* is standard Lutheran Christology + soteriology. (i) *Perfect obedience* — active obedience of Christ; (ii) *sufficient penalty* — passive obedience of Christ; (iii) *right explanation* — the Sermon on the Mount and the Christological hermeneutic of the Law; (iv) *new obedience through the Holy Spirit* — the *tertius usus legis*. Compare Formula of Concord SD III *De Iustificatione Fidei*, §14–15 (BSELK, pp. 924–26); SD VI *De Tertio Usu Legis* (BSELK, pp. 1030–40).
+
+⁸¹ Chytraeus's harmonisation of 1 Tim 1:9 and Rom 6:14 is careful Formula-of-Concord theology: what is abrogated for the justified is *the malediction of the Law* (Gal 3:13); what remains is the *obligation to obedience*. Cf. FC SD VI §5–7 (BSELK, pp. 1032–34); Gerhard *Loci* XII *De Legalibus Ceremoniis*, ed. Preuss, XII.101–10.
+
+⁸² The definition of *Christian Liberty* is Melanchthonian; cf. Melanchthon *Loci Praecipui* 1559, *De Libertate Christiana*, CR 21:759–70; Luther *De Libertate Christiana* (1520), WA 7:49–73 / LW 31:333–77. The parenthetical *"outside the case of scandal"* is Pauline (1 Cor 8:9–13; Rom 14:13–23), and Chytraeus preserves it as the standard Lutheran-orthodox qualifier.
+
+⁸³ Chytraeus's derivation of the Fear-Faith pair from the twin cognition of Law and Gospel is precisely Melanchthonian: *cognitio Legis → timor Dei; cognitio Gospelis → fides fiducia*. Cf. Melanchthon *Loci Praecipui* 1559, *De Timore et de Fide*, CR 21:775–82. The eight-virtue enumeration (Wisdom, Fear, Faith, Love, Hope, Humility, Patience, Perseverance) is a pedagogical unfolding of the *Fear-Faith* twofold under the *Piety* / *Religion* genus, common to catechetical works of the Wittenberg tradition.
+
+⁸⁴ Chytraeus's threefold vice-analysis (*Idololatria — Hypocrisis — Scandalum*) draws on Augustine *De Vera Religione* 55.113 (PL 34:172) for the *dii alieni = quidquid amamus et timemus plus quam Deum*; on Matt 6:1–18 for the Christological doctrine of *hypocrisis*; and on 1 Cor 8:9–13 + Rom 14:20–21 for the moral logic of *scandalum*.
+
+⁸⁵ Chytraeus's account of the Sabbath as *rest, school, and cessation from labours for the studies of the doctrine of God* — with the seventh day *destinated by God alone at creation* — grounds the Sabbath in creation rather than in the Sinai law alone; this is the standard Lutheran-orthodox position and is one of the *seven causes* he articulates. Compare Luther *In Genesin* on Gen 2:3, WA 42:57–60; LW 1:78–84.
+
+⁸⁶ The polemic against *"illicit or idolatrous colleges of the dead or of new mendicants"* is aimed at the Roman monastic orders and at the endowment of Masses for the departed — a standard 16th-c. Lutheran critique. Cf. *Augsburg Confession* XXVII *De Votis Monasticis* (BSELK, pp. 190–200); *Apologia* XXVII (BSELK, pp. 348–66).
+
+⁸⁷ Chytraeus's treatment of *ceremoniae ecclesiasticae* / *adiaphora* is the Formula-of-Concord doctrine, Solid Declaration Art. X *De Adiaphoris* (BSELK, pp. 1040–78). Note the careful preservation of ecclesiastical *paedagogia* — Chytraeus (like the Formula) is not iconoclastic; ceremonies that serve good order and instruction are retained. The catalogue of ludicrous rites is polemical against late-medieval popular devotions: *processions with statues*, *the Palm Sunday donkey*, *the placing of the man in the sepulchre* on Good Friday, the *tonsure of monks*.
+
+⁸⁸ On the transfer of the Sabbath from the seventh to the first day of the week, and the ceremonial / moral distinction, cf. *Augsburg Confession* XXVIII (BSELK, pp. 200–30); Luther *Large Catechism*, Third Commandment (BSELK, pp. 963–66); and Melanchthon *Loci Praecipui* 1559, *De Tertio Praecepto*, CR 21:749–52. This is the mainstream Lutheran position (against both Sabbatarian Sabbath-restorationism and any wholly acasuistic abrogation of the Sabbath).
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1206,6 +1660,78 @@ Eph 4[:24]: *Put on the new man, which after God is created in righteousness and
 
 — ❦ —
 
-*End of Chapter 1, Locus I, and Locus II. Locus III — De Lege Dei — follows in the next working session.*
+*Additional entries from Locus III · Part 1:*
+
+**Lex Dei** — The Law of God. In Chytraeus's twofold definition: (i) the *ten commandments*, and (ii) the *eternal and unmoved wisdom and rule of righteousness in God*, obliging all rational creatures.
+
+**Lex moralis** — The Moral Law. That part of the Mosaic Law which is eternal and immutable, and is the Decalogue itself. Distinct from the Ceremonial and Forensic Laws.
+
+**Leges ceremoniales** — Ceremonial Laws. The rites and cultic prescriptions of the Old Testament, abrogated in the New. *Types* of Christ.
+
+**Leges forenses** — Forensic Laws. The judicial and civil prescriptions of the Mosaic polity, abrogated with the polity itself.
+
+**Lex naturae** — Law of Nature. The *notice of the divine Law innate by God in human nature* (Rom 2:15). Its sum is contained in the Decalogue.
+
+**Leges positivae humanae** — Positive Human Laws. Political laws laid down by magistrates as *adminicula* of the Law of Nature; mutable, binding only to external obedience and bodily penalties, only binding those to whom given.
+
+**polittia Mosis** — The polity of Moses. The whole Mosaic ecclesiastical-civil order, described by Chytraeus as *hospitium et schola Christi* — the domicile and school of Christ before His manifestation.
+
+**impletio Legis (quatuor modis)** — Christ's four-fold fulfilment of the Law: (i) perfect active obedience; (ii) sufficient passive obedience for our disobedience; (iii) right explanation of the true meaning of the Law; (iv) new obedience in believers through the Holy Spirit.
+
+**maledictio Legis** — The malediction (curse) of the Law. What Christ took upon Himself (Gal 3:13) and from which the justified are liberated — while the eternal obligation to obedience remains.
+
+**Libertas Christiana** — Christian Liberty. *Not* a licence to do whatever one pleases, but the liberation from sin, wrath, curse of the Law, Mosaic ceremonies and forensic laws, and external rites without divine command (outside the case of scandal).
+
+**Pietas erga Deum seu Religio** — Piety toward God, or Religion. The common genus of all the virtues of the First Table.
+
+**vera notitia Dei** — True knowledge of God. To rightly acknowledge God's essence and will as revealed in the Law and Gospel, confirmed by the illustrious testimonies of miracles.
+
+**caligo mentis** — Blindness of the mind. The noetic effect of the Fall, opposite of *vera notitia Dei*.
+
+**timor Dei (filialis)** — Filial fear of God. Not servile terror but reverent submission and shunning of crimes. Chytraeus's two extremes: *securitas* (careless) and *superstitio* (fearful where no fear).
+
+**fides et fiducia** — Faith and trust. Chytraeus's habitual coupling: *fides* as cognitive assent to all articles of Christian doctrine plus the promise; *fiducia* as the resting-in of the will in that promise.
+
+**dilectio Dei** — Love of God. The *ardent burning of love* by which the mind and will, acknowledging God's love toward us in the Son, embraces God and subjects itself to Him; identified with *universal obedience* (Rom 13:10).
+
+**spes** — Hope. Certain expectation of eternal life and of liberation from calamities in this life according to the counsel of God.
+
+**humilitas / ταπεινοφροσύνη** — Humility. Chytraeus's Pauline (Phil 2:3; Col 3:12) technical term for the virtue by which we do not exalt ourselves but subject ourselves in the fear of God.
+
+**patientia** — Patience. Virtue by which sorrows are borne moderately and calmly, subjecting oneself reverently to the will of God. Parts: *timor Dei* and *fides*.
+
+**perseverantia** — Perseverance. Constantly and perpetually to remain in the true knowledge of God and faith in Christ until the extreme of life.
+
+**Idololatria** — Idolatry. Chytraeus's four-fold definition: (i) to feign that some thing is God which is not; (ii) to attribute honour due to God to a non-God; (iii) to bind God to something to which He has not bound Himself; (iv) to invent and confide in worships without divine command. *Dii alieni = quidquid amamus et timemus plus quam Deum.*
+
+**Hypocrisis** — Hypocrisy. Simulation of external piety with heart void of true Fear of God and Faith.
+
+**Scandalum** — Scandal. False doctrine or bad example harming the glory of God and salvation of others.
+
+**Gratiarum actio** — Thanksgiving. To confess with mind and voice that God is *fons et unicus autor* of all benefits.
+
+**Vera praedicatio Verbi Divini** — True preaching of the divine Word, from one's proper vocation.
+
+**Confessio (fidei)** — Confession of faith, professed constantly without regard for terror, hatred, contempt, or hope of dignity.
+
+**Iusiurandum** — Oath-taking. Invocation of the true God as witness that we speak truth.
+
+**Sanctificatio Sabbati** — Sanctification of the Sabbath. Not idleness or bodily labour, but attendance on the ministry of teaching and the divinely instituted ceremonies.
+
+**Conservatio ministerii Evangelici** — Conservation of the Evangelical Ministry. The virtue akin to Sabbath-sanctification: preserving and providing for the office of publicly preaching the Word and administering the Sacraments.
+
+**Fidelitas docentium** — Fidelity of the teachers. The office of *fideles dispensatores mysteriorum Dei*.
+
+**Contributio (ad ministerium)** — Contribution to the ministry. Tithes and firstfruits under the Old Testament; *stipendia* to ministers under the New (1 Cor 9:14).
+
+**Ceremoniae (divinae / humanae)** — Ceremonies. Chytraeus's careful distinction: (i) Divine — commanded by God (OT: circumcision, sacrifices; NT: Baptism, Lord's Supper); (ii) Human (Pauline *traditiones humanae*) — either openly against the Word, or **Adiaphora**.
+
+**Adiaphora (in ceremonies)** — Things indifferent. Neither commanded nor prohibited; free to observe or not. Some useful for good order (temple form, vestments, ordination rite, marriage rite, burial rite); some ludicrous or superstitious (procession of statues, Palm Sunday donkey, Good Friday sepulchre theatre, monastic tonsure).
+
+**Sabbatum (moraliter / ceremonialiter)** — The Sabbath, morally and ceremonially. *Morally* — the conservation of public ministry; retained. *Ceremonially* — the specific rite of the seventh day; abrogated. The Lord's Day (first day of the week) substituted, on which Christ rose.
+
+— ❦ —
+
+*End of Chapter 1, Locus I, Locus II, and Locus III Part 1. Locus III Part 2 (Second Table + closing) follows in the next working session; Locus IV (De Peccato) after that.*
 
 *The Scholastic Lutherans · 2026*

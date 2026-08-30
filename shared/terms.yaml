@@ -1344,7 +1344,282 @@ perseverantia_sanctorum:
     of Concord, allows that they CAN fall — et rursum a Deo deficere
     potest.
 
+# ─── CHYTRAEUS 1594 · Locus III Part 1 (De Lege Dei — Framework + 1st Table)
+
+lex_dei_duplex_definitio:
+  english: The Law of God (twofold definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III §§ 1-2"
+  note: >
+    (i) Brief: the Ten Commandments. (ii) Melanchthonian: the eternal
+    and unmoved wisdom and rule of righteousness in God, discerning
+    right and non-right, obliging all rational creatures. Cf.
+    Melanchthon Loci Praecipui 1559, De Lege, CR 21:685-89.
+  see_also: [decalogus, lex_moralis, lex_naturae]
+
+lex_moralis:
+  english: The Moral Law
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 3"
+  note: >
+    The part of the Mosaic Law which is eternal and immutable — the
+    Decalogue itself. Distinct from Leges ceremoniales and Leges
+    forenses which were abrogated with the Mosaic polity.
+
+leges_ceremoniales:
+  english: Ceremonial Laws
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 3"
+  note: >
+    The rites and cultic prescriptions of the OT, abrogated in the NT.
+    Types of Christ. FC SD V, VI.
+
+leges_forenses:
+  english: Forensic Laws
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 3"
+  note: >
+    The judicial and civil prescriptions of the Mosaic polity,
+    abrogated with the polity itself when Christ was exhibited.
+
+lex_naturae:
+  english: Law of Nature
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 5"
+  note: >
+    The notice of the divine Law innate by God in human nature (Rom 2:15).
+    Its sum is contained in the Decalogue. Melanchthonian-humanist
+    mainstream, not the strong voluntarism of some later Reformed
+    writers.
+
+leges_positivae_humanae:
+  english: Positive Human Laws
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, locus III § 6"
+  note: >
+    Political laws laid down by magistrates as adminicula of the Law of
+    Nature; mutable, binding only to external obedience and bodily
+    penalties, only binding those to whom given.
+
+politeia_mosis:
+  english: The polity of Moses
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 8"
+  note: >
+    The whole Mosaic ecclesiastical-civil order, described by Chytraeus
+    as hospitium et schola Christi — the domicile and school of Christ
+    before His manifestation. Draws on Gal 3:24 (paedagogus in Christum).
+
+impletio_legis_quatuor_modis:
+  english: Christ's four-fold fulfilment of the Law
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 9"
+  note: >
+    (i) Perfect active obedience for our person; (ii) sufficient passive
+    obedience/penalty for our disobedience; (iii) right explanation of
+    the true meaning of the Law (Sermon on the Mount); (iv) new
+    obedience in believers through the Holy Spirit (tertius usus legis).
+    Cf. FC SD III §14-15; SD VI.
+  see_also: [tertius_usus_legis, iustificatio, satisfactio_vicaria]
+
+maledictio_legis:
+  english: The malediction (curse) of the Law
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 10"
+  note: >
+    What Christ took upon Himself (Gal 3:13) and from which the
+    justified are liberated. But the eternal obligation to obedience
+    remains — Formula-of-Concord doctrine.
+
+libertas_christiana:
+  english: Christian Liberty
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 11"
+  note: >
+    NOT licence to do whatever one pleases; the liberation from sin,
+    wrath, curse of the Law, Mosaic ceremonies and forensic laws, and
+    external rites without divine command (outside the case of scandal).
+    Cf. Luther De Libertate Christiana (1520), WA 7:49-73.
+
+pietas_erga_deum:
+  english: Piety toward God (Religion)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    The common genus of all the virtues of the First Table in Chytraeus's
+    eight-virtue enumeration (Wisdom, Fear, Faith, Love, Hope, Humility,
+    Patience, Perseverance).
+
+vera_notitia_dei:
+  english: True knowledge of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    To rightly acknowledge God's essence and will as revealed in the
+    Law and Gospel, confirmed by illustrious testimonies of miracles
+    (exodus, resurrection of the dead).
+
+caligo_mentis:
+  english: Blindness of the mind
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    The noetic effect of the Fall, opposite of vera notitia Dei. Cf.
+    Locus II § 12 (tenebrae peccati).
+
+timor_dei_filialis:
+  english: Filial fear of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    Not servile terror but reverent submission and shunning of crimes.
+    Chytraeus's two extremes: securitas (careless) and superstitio
+    (fearful where no fear).
+
+fides_et_fiducia:
+  english: Faith and trust
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    Chytraeus's habitual coupling: fides as cognitive assent to all
+    articles of Christian doctrine plus the promise; fiducia as the
+    resting-in of the will in that promise for Christ's sake.
+
+dilectio_dei:
+  english: Love of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    The ardent burning of love by which the mind and will, acknowledging
+    God's love toward us in the Son, embraces God. Identified with
+    universal obedience (Rom 13:10, Dilectio est impletio Legis).
+
+spes:
+  english: Hope
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    Certain expectation of eternal life and of liberation from
+    calamities in this life according to the counsel of God.
+
+humilitas_tapeinophrosyne:
+  english: Humility (ταπεινοφροσύνη)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    Chytraeus's Pauline (Phil 2:3; Col 3:12) technical term for the
+    virtue by which we do not exalt ourselves but subject ourselves in
+    the fear of God. Extreme opposite: superbia.
+
+patientia_christiana:
+  english: Christian Patience
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    Virtue by which sorrows are borne moderately and calmly, subjecting
+    oneself reverently to the will of God. Parts: timor Dei and fides.
+
+perseverantia_in_fide:
+  english: Perseverance in faith
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 13"
+  note: >
+    Constantly and perpetually to remain in the true knowledge of God
+    and faith in Christ until the extreme of life. Distinct from
+    Reformed perseverantia sanctorum (which excludes possibility of
+    losing faith).
+
+idololatria_quadruplex:
+  english: Idolatry (Chytraeus's fourfold definition)
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus III § 14"
+  note: >
+    (i) to feign that some thing is God which is not; (ii) to attribute
+    honour due to God to a non-God; (iii) to bind God to something to
+    which He has not bound Himself; (iv) to invent and confide in
+    worships without divine command. Dii alieni = quidquid amamus et
+    timemus plus quam Deum.
+
+hypocrisis:
+  english: Hypocrisy
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus III § 14"
+  note: >
+    Simulation of external piety with heart void of true Fear of God
+    and Faith. Chytraeus's technical term for false religion beyond
+    mere formal external worship.
+
+scandalum:
+  english: Scandal
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 14"
+  note: >
+    False doctrine or bad example harming the glory of God and salvation
+    of others. Fivefold enumeration in Chytraeus.
+
+gratiarum_actio:
+  english: Thanksgiving
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 15"
+  note: >
+    To confess with mind and voice that God is fons et unicus autor of
+    all benefits — spiritual and bodily.
+
+iusiurandum:
+  english: Oath-taking
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 15"
+  note: >
+    Invocation of the true God as witness that we speak truth. Extremes:
+    perjury and superstitious observation of impious oaths.
+
+sanctificatio_sabbati:
+  english: Sanctification of the Sabbath
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 17"
+  note: >
+    Not idleness or bodily labour, but attendance on the ministry of
+    teaching and the divinely instituted ceremonies.
+
+conservatio_ministerii_evangelici:
+  english: Conservation of the Evangelical Ministry
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 17"
+  note: >
+    The virtue akin to Sabbath-sanctification: preserving and providing
+    for the office of publicly preaching the Word and administering the
+    Sacraments legitimately.
+
+ceremoniae_divinae_humanae:
+  english: Ceremonies (divine and human)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 18"
+  note: >
+    Chytraeus's careful distinction: (i) Divine — commanded by God (OT:
+    circumcision, sacrifices; NT: Baptism, Lord's Supper); (ii) Human
+    (Pauline traditiones humanae) — either openly against the Word, or
+    Adiaphora.
+
+adiaphora_ceremoniarum:
+  english: Adiaphora (things indifferent) in ceremonies
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 18"
+  note: >
+    Neither commanded nor prohibited by God; free to observe or not.
+    FC SD X De Adiaphoris. Some useful for good order; some ludicrous
+    or superstitious. Distinguish from soteric adiaphora.
+
+sabbatum_moraliter_ceremonialiter:
+  english: The Sabbath, morally and ceremonially
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus III § 19"
+  note: >
+    Morally — the conservation of public ministry; retained. Ceremonially
+    — the specific rite of the seventh day; abrogated. The Lord's Day
+    (first day of the week) substituted, on which Christ rose. Cf. AC
+    XXVIII; Luther Large Catechism, Third Commandment.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Locus I + Locus II).
-# Every completed work appends its own new entries here.
+# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Locus I + Locus II
+# + Locus III Part 1). Every completed work appends its own new entries here.
 # ═══════════════════════════════════════════════════════════════════════════
