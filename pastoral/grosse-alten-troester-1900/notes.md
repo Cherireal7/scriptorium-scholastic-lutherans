@@ -63,21 +63,89 @@ The 1900 Hermannsburg imprint is Große's own first — and, to the best of the 
 - **GND** authority record: `101703465` (Deutsche Nationalbibliothek).
 - **VD17 / VD18** — not applicable (1900 imprint; VD17 covers 1601–1700; VD18 covers 1701–1800).
 
-## Structure of the 1900 — provisional, from bibliographic description
+## Structure of the 1900 — SIGHTED 2026-08-30 against IA OCR text
 
-Awaiting sighting of the actual title-page and table of contents against `sources-original/ia-1900/` scan. From the bibliographic collation (vi + [2] + 700 pp + folding table) and the work's stated scope (three centuries of Lutheran devotional literature), the *provisional* internal architecture is:
+Sighted against the IA plain-text OCR of the 1900 imprint (`sources-original/ia-1900/diealtentroeste00grosgoog_djvu.txt`) at the volume's back-of-book Inhaltsverzeichnis. The book's arrangement is **chronological by three great periods (Zeitalter), with biographical-portrait entries on the individual writers within each period-and-region.** Detailed structure:
 
-| Segment | Approx. pp | Content (to be confirmed at Tranche 1 sighting) |
+| Segment | Approx. pp | Content |
 |:---|---:|:---|
-| Front matter — title, dedication, Vorwort | 8 (roman i–vi + [2]) | Author's preface, dedication, statement of purpose |
-| Introduction — the tradition of Erbauungslitteratur | ? | Große's own account of what "devotional literature" means, why he surveys 16th–18th c., his organising principle |
-| 16th-century writers | ? | Luther, Musculus, Selnecker, Herberger — the confessional-formation era |
-| 17th-century writers | ? | Arndt, Gerhard, Heermann, Rist, Scriver, Lassenius — the flowering of Lutheran devotion; the pietist prelude |
-| 18th-century writers | ? | Rambach, Bogatzky, Zinzendorf-adjacent — into the pietist century, with confessional-Lutheran boundary-drawing |
-| Folding table | 1 leaf | Chronology / genealogy of the tradition — the map of the terrain |
-| Index (Register) | ? | Alphabetical proper-name and topic index |
+| Title page | — | Die Alten Tröster / Ein Wegweiser… / Herausgegeben von Constantin Große, Pastor in Sora b[ei] [place — Fraktur OCR unclear, likely a Saxon village near Ostrau/Oschatz/Nossen; to sight against JP2] / Hermannsburg 1900 / in Kommission bei der Missionshandlung |
+| Vorwort (Author's foreword) | iii–vi | Große's account of the book's genesis in a 1896 exchange in the *Sächsisches Kirchen- und Schulblatt* (Nr. 45, 47, 49) with Diakonus P. König of Hirschfelde, and the widening of the initial *Verzeichnis der Gebetslitteratur unserer Alten* into a proper Wegweiser. Signed "Der Verfasser" |
+| External Preface | [vii–viii] | Preface by **D. Fr. Hashagen** of Rostock, signed *am Reformationsfeste 1899* — endorses the volume as a "lebenswarme Einführung in die Erbauungsliteratur". D. Fr. Hashagen was a Rostock churchman |
+| **Einleitung** | 1–18 | Große's introduction to the concept of *Alte Tröster* — who the "old comforters" are, why they matter, the definition of *Erbauungsliteratur*, the chronological cut-off at ~1800 (rationalism), the biographical-and-generic method of the survey, cross-references to Delitzsch, Beck, Franke on the value of the tradition |
+| **I. Das Reformationsjahrhundert 1500–1550** | 19–85 | *The Reformation Century.* |
+| &nbsp;&nbsp;&nbsp;a) Die Reformationszeit (Allgemeiner Überblick) | 19– | General overview |
+| &nbsp;&nbsp;&nbsp;2. Luther und seine Bedeutung für die Erbauungslitteratur | 19–65 | *Luther and his Significance for Devotional Literature* — the largest single entry in the volume; Luther's writings pp. 38–65 |
+| &nbsp;&nbsp;&nbsp;3. Die Mitarbeiter Luthers und die Frömmigkeit | 65– | Luther's fellow-workers |
+| &nbsp;&nbsp;&nbsp;4. Urbanus Rhegius | ~72 | |
+| &nbsp;&nbsp;&nbsp;5. Johannes Brießmann | ~76 | |
+| &nbsp;&nbsp;&nbsp;6. Veit Dietrich | ~77 | |
+| &nbsp;&nbsp;&nbsp;7. Johann Spangenberg + [excursus: Jakob Andreä pp. 84–85] | 78–85 | |
+| **I b) Die nachreformatorische Zeit 1550–1600** | 86–132 | *The post-Reformation era.* |
+| &nbsp;&nbsp;&nbsp;1. Allgemeines / 2. Zur Frömmigkeit | 86–88 | |
+| &nbsp;&nbsp;&nbsp;3. Girolamo Savonarola | 89–90 | Note: Große includes Savonarola (†1498) despite lying just before his chronological window, presumably as a witness read across Lutheran devotional lines |
+| &nbsp;&nbsp;&nbsp;4. Stephan Praetorius | 90–92 | Not the *Syntagma Musicum* Praetorius; the Braunschweiger devotional writer (~1536–1603) |
+| &nbsp;&nbsp;&nbsp;5. Andreas Musculus | 93–106 | The Brandenburg Lutheran (†1581) — cross-refs to the corpus [[scholastic-lutherans-program]] Musculus *Loci Communes* entry |
+| &nbsp;&nbsp;&nbsp;6. Johann Habermann | 106–122 | Author of the widely-printed *Betbüchlein* (1567) |
+| &nbsp;&nbsp;&nbsp;7. Betbuch Christiani | 122–123 | |
+| &nbsp;&nbsp;&nbsp;8. Münsinger von Frundeck | 124– | |
+| &nbsp;&nbsp;&nbsp;9. Michael Sachs et al. | 124–132 | |
+| **II. Das Zeitalter der luth. Orthodoxie und des sich innerhalb ihrer beginnenden Pietismus** | 133–322 | *The age of Lutheran Orthodoxy and of pietism beginning within it.* |
+| &nbsp;&nbsp;&nbsp;a) 1600–1648 (die luth. Orthodoxie) | 133–218 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;1. Allgemeines / 2. Zur Frömmigkeit | 133–140 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;3. Philipp Nicolai (1556–1608) | 141– | |
+| &nbsp;&nbsp;&nbsp;&nbsp;4. Georg Dedeken | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;5. Valentin Wudrian | 148–150 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;6. Martin Statius | 151–155 | *Mark Brandenburg region* |
+| &nbsp;&nbsp;&nbsp;&nbsp;7. Johannes Kolerus | | *Posen, Silesia region* |
+| &nbsp;&nbsp;&nbsp;&nbsp;8. Valerius Herberger | 156–171 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;9. Johann Heermann | 172–176 | *Mitteldeutschland region* |
+| &nbsp;&nbsp;&nbsp;&nbsp;10. Johann Arndt + [excursus: Jakob Böhme] | 177–197 | *Sachsen, Thüringen region* — the Arndt entry is Große's second-largest after Luther |
+| &nbsp;&nbsp;&nbsp;&nbsp;11. Johann Gerhard | ~197–211 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;12. Johann Matthäus Meyfart | 212–218 | |
+| &nbsp;&nbsp;&nbsp;b) Die Blütezeit der lutherischen Erbauungslitteratur 1648–1680 | 218–306 | *The flowering of Lutheran devotional literature.* |
+| &nbsp;&nbsp;&nbsp;&nbsp;A. Die Großen (Lütkemann, Müller, Scriver et al.) | 220–284 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Joachim Lütkemann | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Heinrich Müller | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Christian Scriver | 252–277 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Johannes Lassenius (1636–1692) | 277–284 | Danish-German pastor — the Enzyklothek keyword |
+| &nbsp;&nbsp;&nbsp;&nbsp;7. Georg Fibicius (?) | | Vertreter der Erklärer (Bible commentators) |
+| &nbsp;&nbsp;&nbsp;&nbsp;8. Württemberger Summarien / Anker & Bibel | 288–291 | Vertreter der Bibelwerke |
+| &nbsp;&nbsp;&nbsp;&nbsp;B. Vertreter der Erbauungsschulantien / Gärtner et al. | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Johann Rittmeyer | 291–297 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Johann Quirsfeld | 297–301 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11. August Pfeiffer | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12. Johann Michael Dilherr | 302–306 | |
+| &nbsp;&nbsp;&nbsp;c) Der Ausgang der nüchternen luth. Erbauungslitteratur und Anfang der pietistischen Heiligungslitteratur 1680–1700 | 306–322 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;1. Allgemeines / 2. Frömmigkeit im Anfang des Pietismus | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;3. Philipp Jakob Spener | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;4. Johann Kaspar Schade | 317– | |
+| **III. Das Zeitalter der Blüte des Pietismus, der zu Ende gehenden orthodoxen Erbauungslitteratur, und des Übergangs zur rationalistischen Litteratur** | 322–597 | *The age of pietism's flowering, the ending of orthodox devotional literature, and the transition to rationalist literature.* |
+| &nbsp;&nbsp;&nbsp;a) Die Blüte der pietistischen Heiligungslitteratur 1700–1750 | 322– | |
+| &nbsp;&nbsp;&nbsp;&nbsp;1–3. Allgemeines / Charakter des Pietismus / Frömmigkeit der letzten Orthodoxen | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;A. Die kirchlich gerichteten Pietisten | 336–360 | *Church-oriented pietists* |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Johann Friedrich Starck / 5. Fresenius / 6. Rambach / 7. Christoph Starke / 8. Basler Bibel (reformiert) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;B. Die Halle-Gruppe (Franckesche) | 361–391 | *The Halle circle around A. H. Francke* |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Francke / 10. Bogatzky / 11. Steinmetz / 12. Reuß / 13. Porst | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;C. Radikale / Separatisten (Kreuzberg, G. Arnold) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;D. Die Brüdergemeinde (Herrnhut): Zinzendorf, Spangenberg, Gerhard, Cochius | | |
+| &nbsp;&nbsp;&nbsp;&nbsp;E. Die Württemberger Pietisten 1700–1900 | 419–481 | Hedinger, Cramlich, Urlsperger, Rieger, Bengel, Steinhofer, Baumann, von Ottenhein, Hiller, Burk, Brastberger, Roos, Storr |
+| &nbsp;&nbsp;&nbsp;&nbsp;F. Terstegen (Zerniers Anhang) | 519–527 | *Cross-referenced by Große to note that Terstegen, though Reformed, was received across confessional lines* |
+| &nbsp;&nbsp;&nbsp;&nbsp;G. Vertreter der luth. Orthodoxie [im Pietismus-Zeitalter] | 530–572 | Neumann, Schmolck, Cober, Woltersdorf, Nathanael, Vlock, Schinmeyer, Schauberger |
+| &nbsp;&nbsp;&nbsp;b) Der Ausgang der Erbauungslitteratur, letzte Ausläufer der Iuth. Orthodoxie, Übergang zum Rationalismus, Rationalismus selbst 1750–1800 | 490–597 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;A. Letzte Ausläufer der luth. Orthodoxie | 490–503 | Goeze, Erhardt, Claudius |
+| &nbsp;&nbsp;&nbsp;&nbsp;B. Supranaturalisten | 503–585 | Lavater, Nies, Stillings *Chatelein* (?) |
+| &nbsp;&nbsp;&nbsp;&nbsp;C. Die Rationalisten | 585–597 | J.J. Zollikofer, Zschokke, Witschel |
+| &nbsp;&nbsp;&nbsp;8. Abschließende Betrachtungen und Ausblick in das 19. Jahrhundert | 597– | *Closing reflections and outlook onto the 19th century* |
+| **Anhang I — Ausländisches und Mittelalterliches** | ~600–650 | *Appendix 1.* |
+| &nbsp;&nbsp;&nbsp;I. Englische Erbauungsschriften: Rutherford, Baxter, Bunyan, Wilcox, Drelincourt | | |
+| &nbsp;&nbsp;&nbsp;II. Mittelalterliche Postillenliteratur bei den Lutheranern: Tauler, Ruusbroec, *Theologia deutsch*, Thomas à Kempis | | |
+| &nbsp;&nbsp;&nbsp;III. Sammlungen alter asketischer Stücke, bes. Gebete in Gebetbüchern | | |
+| **Anhang II — Tabellarische Übersichten** | ~660–680 | I. Overview of newly-issued Erbauungsschriften by subject; II. Zeittafel — the folding-leaf chronology of the most important devotional books |
+| **Nachträge und Berichtigungen** | ~688– | Author's addenda and corrections |
+| **Inhaltsverzeichnis** | ~700 | Table of contents at back |
 
-Große's arrangement — chronological by century, or thematic by devotional-genre (prayer-books, hymn-collections, meditations, funeral-consolations, catechetical exposition), or biographical-portrait-by-author — is the first structural question Tranche 1 must resolve against the sighted table of contents.
+The arrangement is now fixed. **Große treats ~90 individually-portrayed writers and multiple additional collective entries, arranged in three great chronological periods with sub-periods, with regional sub-groupings within each sub-period.** The volume's total scale corresponds to a Loci-length primary source (~700 pp), but its per-entry granularity is high — most biographical portraits are 3–20 pp — which allows tranche cuts at natural section joins.
 
 ## What kind of book is this — in relation to the corpus
 
@@ -119,14 +187,22 @@ The full 700-page IA scan at 41.8 MB (facsimile PDF) is manageable. The JP2 imag
 
 **Recommendation:** (A) for the searchable PDF and the plain-text OCR (they are lightweight and enable structural scan-through immediately); (B) for the JP2 image layer per tranche. Add `sources-original/**/*.pdf`, `*.jp2`, `*.txt`, `*.epub` to `.gitignore` before pulling.
 
-## Provisional tranche plan (to be revised against sighted structure)
+## Tranche plan — re-cut against sighted structure 2026-08-30
 
-Total: ~700 pp of body + ~8 pp front matter + folding table.
+Total: ~700 pp body + ~8 pp front matter + folding table. Re-cut into **nine tranches** by Große's own three-period × sub-period × regional-group arrangement. Page-ranges are from the sighted Inhaltsverzeichnis.
 
-- **Tranche 0 — Kick-off + source sighting** (2026-08-30, this commit). Scaffold, notes with two corrections, TN draft, terms.yaml seed. Directory rename. README update. ✅
-- **Tranche 1 — Front matter + Große's introduction.** Pull the IA text + PDF. Verify title page verbatim against JP2. Translate: dedication (if present), Vorwort, and the introductory chapter setting out Große's understanding of *Erbauungslitteratur* and his organising principle for the whole survey. Mid-checkpoint build (build #1 of 2). Deliverable: structural sighting complete, front matter finalised, tranche plan re-cut to Große's actual arrangement.
-- **Tranches 2–N — Body, by Große's own sections.** Cut against his own arrangement once sighted. If chronological-by-century: three tranches (16th c., 17th c., 18th c.). If thematic-by-genre: cut per genre. If biographical-portrait-by-author: cut by author-block (probably 5–7 tranches given ~700 pp ÷ ~120 pp/tranche).
-- **Final tranche — Folding table + Register (Index) + closing apparatus.** The folding-table chronology is the map of the whole tradition; translate its Fraktur inscription verbatim + build a matching modern-typeset English facing table for the final volume. Final build (build #2 of 2). Deliverable: volume-final PDF.
+- **Tranche 0 — Kick-off + source sighting** (2026-08-30, commit `82b8356` + subsequent). Scaffold, notes with two corrections, TN, terms.yaml seed, directory rename, README update. IA OCR pulled to `sources-original/ia-1900/`. Structure sighted against IA OCR at back-of-book Inhaltsverzeichnis. ✅
+- **Tranche 1 — Front matter + Einleitung** (this session, in progress). Title page verbatim. Vorwort by Große. External preface by D. Fr. Hashagen. Einleitung pp. 1–18 — Große's account of who the *alten Tröster* are, why they matter, definition of *Erbauungslitteratur*, method-and-scope statement. Mid-checkpoint build not spent yet (preserve for Tranche 4 or 5). Deliverable: reader can pick up the volume and understand what Große is doing.
+- **Tranche 2 — I. Das Reformationsjahrhundert 1500–1550 (pp. 19–85).** Luther (pp. 19–65, the largest single entry) + Luther's fellow-workers (Rhegius, Brießmann, Dietrich, Spangenberg, Andreä-excursus). ~67 pp source, likely ~40–50 pp English.
+- **Tranche 3 — I b) Die nachreformatorische Zeit 1550–1600 (pp. 86–132).** Savonarola, Stephan Praetorius, Musculus, Habermann, Betbuch Christiani, Münsinger, Michael Sachs. ~46 pp source. Cross-refs to the corpus Musculus target.
+- **Tranche 4 — II a) Die luth. Orthodoxie 1600–1648 (pp. 133–218).** Nicolai, Dedeken, Wudrian, Statius, Kolerus, Herberger, Heermann, Arndt (pp. 177–197, second-largest entry), Böhme-excursus, Gerhard, Meyfart. ~86 pp source. **Mid-checkpoint build (build #1 of 2)** — natural pause at the mid-century.
+- **Tranche 5 — II b) Die Blütezeit 1648–1680 (pp. 218–306).** The great four: Lütkemann, Müller, Scriver, Lassenius; then Fibicius, Württemberger Summarien, Rittmeyer, Quirsfeld, Pfeiffer, Dilherr. ~88 pp source. The Lassenius entry is the one Enzyklothek highlighted.
+- **Tranche 6 — II c) Der Ausgang der luth. Erbauungslitteratur & III a) opening 1680–1750 (pp. 306–420).** Spener, Schade — the pietism inflection point. Then III a) opens: the church-oriented pietists (Starck, Fresenius, Rambach, Ch. Starke, Basler Bibel) and the Halle circle (Francke, Bogatzky, Steinmetz, Reuß, Porst). ~115 pp source. **The pietism boundary — Große draws his sharpest confessional-Lutheran judgements here.** Preserve his placement, endnote modern re-assessments.
+- **Tranche 7 — III a) continued: Radikale + Herrnhut + Württemberger + Terstegen + luth. Orthodoxie im Pietismus-Zeitalter (pp. 419–572).** Kreuzberg, G. Arnold, Zinzendorf, Spangenberg; the Württemberger pietists (Hedinger through Storr — 13 portraits); Terstegen (Reformed, received across confessional lines — noteworthy editorial-caution); and the confessional-Lutheran remnant (Neumann, Schmolck, Cober, Woltersdorf, et al.). ~150 pp source.
+- **Tranche 8 — III b) Der Ausgang 1750–1800 (pp. 490–597).** Goeze, Erhardt, Claudius — the last confessional Lutherans; Lavater, Nies — the Supranaturalists; Zollikofer, Zschokke, Witschel — the Rationalists; Große's closing reflections and 19th-c. outlook. ~107 pp source. **The confessional endpoint of the book.** Große's own century is the reception-context of every judgement here.
+- **Tranche 9 — Anhang I + Anhang II + Nachträge + apparatus (pp. ~600–700).** English devotional literature (Rutherford, Baxter, Bunyan, Wilcox, Drelincourt); medieval Postillen-literature received across Lutheran lines (Tauler, Ruusbroec, *Theologia deutsch*, Thomas à Kempis); miscellaneous collections; Anhang II tabular overviews; Nachträge und Berichtigungen; the folding-leaf chronology-table (translate verbatim + build modern-typeset English facing table); Register (rebuilt from the master `terms.yaml` proper-name gazetteer accumulated over Tranches 2–8). **Final build (build #2 of 2).** Deliverable: volume-final PDF.
+
+**Build cadence check:** ≤2 builds per work per workflow. Build #1 at end of Tranche 4 (~pp. 218 mid-Orthodoxie). Build #2 at end of Tranche 9 (volume-final).
 
 ## Editorial notes specific to this work
 
