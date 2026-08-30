@@ -509,6 +509,411 @@ symbolum:
   type: dogmatic
   first_use: ""
 
+# ─── CATECHETICAL — from Chytraeus 1594 (Ch. 1 Prolegomena) ────────────
+
+catechesis:
+  english: Catechesis
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1"
+  note: >
+    Oral, methodical instruction in the elements of Christian doctrine,
+    with examination. From Greek κατηχέω (katēcheō), "to sound into
+    the ear," "to instruct by voice." In Chytraeus preserved untranslated
+    as the subject of definition throughout the volume.
+  see_also: [summa_doctrinae_christianae, examen, catechumeni]
+
+katecheo:
+  english: To instruct by voice
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 10"
+  note: >
+    κατηχέω. NT usage: Luke 1:4; Acts 18:25; Rom 2:18; 1 Cor 14:19;
+    Gal 6:6. The etymon of "catechesis." "To sound down into the ear."
+
+summa_doctrinae_christianae:
+  english: The summa of Christian doctrine
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 1"
+  note: >
+    Technical Melanchthonian phrase — the systematic ordered epitome of
+    the whole of Christian doctrine, from which loci-based method flows.
+    Cf. Melanchthon Loci Communes 1521 preface (CR 21:81).
+  see_also: [loci_communes, loci_praecipui, catechesis]
+
+theologia:
+  english: Theology
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 2"
+  note: >
+    In Chytraeus's opening definition (following Melanchthon Loci
+    Praecipui 1559, CR 21:606-7): the doctrine concerning God's essence,
+    will, benefits (through Christ), and the worships owed to Him —
+    made manifest in Scripture and efficacious for the salvation of
+    believers.
+
+agnitio_dei:
+  english: Acknowledgement / knowledge of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 5"
+  note: >
+    Not mere notitia (information) about God, but the reverent
+    recognition of God as God, which issues in worship. Standard
+    Lutheran-orthodox distinction; distinguished from cognitio Dei
+    in the technical scholastic register (Gerhard, Loci I).
+  see_also: [cognitio_et_invocatio_dei, vera_dei_agnitio]
+
+cognitio_et_invocatio_dei:
+  english: Knowledge and invocation of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 9"
+  note: >
+    The dual formula summarising the practical aim of theology: cognitio
+    issuing in invocatio. The pattern for the Lutheran division of the
+    Decalogue's First Table.
+  see_also: [agnitio_dei, praxis_theologiae]
+
+vera_dei_agnitio:
+  english: The true knowledge of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 4"
+  note: >
+    The material subject of Locus I of Chytraeus's Catechism. In
+    Lutheran-orthodox usage, distinguishes the trinitarian revealed
+    God from the God-of-natural-reason.
+  see_also: [agnitio_dei]
+
+praxis_theologiae:
+  english: The practice of theology
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 5"
+  note: >
+    Chytraeus identifies religio Christiana with theology-in-practice —
+    cognition issuing in worship. Not theologia practica in the later
+    17th-c. sense (Voetius, van Mastricht) but the immediate ordering
+    of doctrine to worship.
+
+religio_christiana:
+  english: The Christian Religion
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 5"
+  note: >
+    Not a genus of which paganism is another species, but the only true
+    worship of God, defined by Christ, the Word, faith, and the
+    Sacraments. Anti-pagan and anti-natural-religion in emphasis.
+
+religio_ethnica:
+  english: Pagan religion
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 6"
+  note: >
+    The category of external-cultic religion opposed to the religio
+    Christiana. Includes both classical polytheism and any humanly-
+    invented ceremonial system.
+
+authoritas_divina:
+  english: Divine authority
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 7"
+  note: >
+    In the Lutheran doctrine of Scripture, the formal cause of the
+    certitude of Christian doctrine — DIXIT DOMINUS.
+  see_also: [patefactio_divina, sacra_scriptura]
+
+patefactio_divina:
+  english: Divine self-revelation
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 7"
+  note: >
+    Chytraeus's preferred term (over revelatio) for the divine act of
+    making Himself known in the written Word. Emphasises the openness
+    of what was hidden.
+
+rationes_certitudinis:
+  english: Grounds of certainty
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 7"
+  note: >
+    Chytraeus's eleven-point enumeration of the subordinate arguments
+    for the certitude of Christian doctrine. Parallels Gerhard Loci
+    Theologici I, De Scriptura Sacra.
+
+miracula_divinae_omnipotentiae:
+  english: Miracles of the divine omnipotence
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 7"
+  note: >
+    Especially the resuscitationes hominum mortuorum (raisings of the
+    dead), which Chytraeus (following Melanchthon and the pre-Chemnitz
+    apologetic tradition) argues are proper to God alone.
+
+conservatio_ecclesiae:
+  english: Conservation of the Church
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 7"
+  note: >
+    The standing miracle of the Church's survival against all
+    persecution — one of Chytraeus's rationes certitudinis. Cf. Luther
+    WA 30.2:632.
+
+capita_doctrinae:
+  english: Chief heads of doctrine
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 3"
+  note: >
+    In catechetical usage, the duo capita are Law and Gospel;
+    pedagogically expanded into the ten loci in Chytraeus's scheme.
+  see_also: [loci_praecipui, lex_et_evangelium]
+
+decalogus:
+  english: The Decalogue
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 3"
+  note: >
+    Preserved in Latin as the standard catechetical designation.
+    Chytraeus locates the definitions of all virtues under it.
+
+symbolum_fidei:
+  english: The Symbol of the Faith
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 3"
+  note: >
+    Apostles' or Nicene Creed. Preserved in Latin as the technical
+    designation of the confessional formula.
+
+locus:
+  english: Locus (theological)
+  alt: [loci]
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 3"
+  note: >
+    The systematic "place" or heading under which theology is disposed.
+    Preserved in Latin because (i) technical, (ii) the subject of
+    division in Chytraeus's Prolegomena, and (iii) foundational to
+    Melanchthonian and post-Melanchthonian Lutheran method.
+  see_also: [loci_communes, loci_praecipui, sedes_doctrinae]
+
+loci_communes:
+  english: Common places (theological loci)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 3"
+  note: >
+    Melanchthon's Loci Communes rerum theologicarum (1521, definitive
+    ed. 1559 = CR 21). Chytraeus's explicit model.
+
+loci_praecipui:
+  english: The chief loci
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 4"
+  note: >
+    The ten Chytraeus enumerates. Not fixed at ten in the earlier
+    Melanchthonian scheme; Chytraeus's pedagogical reduction.
+
+# ─── LUTHER'S THREE INSTRUMENTS OF THEOLOGY (WA 50:658-61, 1539) ────────
+
+oratio_meditatio_tentatio:
+  english: Prayer, meditation, temptation
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    Luther's three instruments of theology, from the 1539 preface to
+    Vol. I of the German Wittenberg edition, drawn from Ps 119. The
+    complete formula: (1) oratio ardens et quotidiana — burning and
+    daily prayer; (2) meditatio — sustained attention to Scripture;
+    (3) tentatio — the touchstone (lapis Lydius) by which the Word's
+    true efficacy is proved. Chytraeus recommends verbatim.
+  see_also: [precatio_ardens, meditatio, tentatio, textus_bibliorum]
+
+precatio_ardens:
+  english: Burning prayer
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: The first of Luther's three instruments as Chytraeus formulates it.
+
+meditatio:
+  english: Meditation (on Scripture)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    In Luther's three-instrument scheme, sustained prayerful attention
+    to the text of Scripture. Not the mystical or contemplative
+    meditatio of the older monastic tradition.
+
+tentatio:
+  english: Temptation, tribulation
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    The third of Luther's three instruments. Called by Luther lapis
+    Lydius — the touchstone which teaches the theologian by experience
+    the sweetness and power of God's Word. WA 50:660.
+
+experientia_theologica:
+  english: Theological experience
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    Chytraeus's own gloss on tentatio: not empirical experience but the
+    experience of faith under trial. Prefigures the 17th-c. Lutheran
+    distinction between theologia archetypa and theologia ectypa in
+    Gerhard.
+
+# ─── SOURCES CHYTRAEUS CITES ────────────────────────────────────────────
+
+textus_bibliorum:
+  english: The text of the Bibles
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    Chytraeus's preferred term for the primary source of theology.
+    Marks the humanist ad-fontes commitment already in the Melanchthon
+    tradition.
+
+lingua_hebraea:
+  english: The Hebrew language
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+
+lingua_graeca:
+  english: The Greek language
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+
+dialectica_methodus:
+  english: Dialectical method
+  type: scholastic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    In the Melanchthonian curriculum, not sophistical disputation but
+    the methodical art of definition, division, argument, and
+    refutation — a preparatory discipline for theology.
+
+magister_sententiarum:
+  english: The Master of the Sentences (Peter Lombard)
+  type: proper-name
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    Peter Lombard, whose Sententiae (c. 1150) remained the standard
+    textbook of Latin theology into the 16th c. Chytraeus's inclusion
+    of him in the theological curriculum is a humanist-Lutheran
+    willingness to use Lombard as a historical source.
+
+acta_conciliorum:
+  english: Acts of the Councils
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 8"
+  note: >
+    The standard 16th-c. collection was Peter Crabbe, Concilia Omnia
+    (Cologne, 1538 and 1551), later superseded by the Roman edition of
+    Severin Binius.
+
+# ─── PEDAGOGICAL / SCHOOL VOCABULARY ────────────────────────────────────
+
+auditores:
+  english: Auditors, hearers
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 10"
+  note: The catechumens as hearers of the catechetical instruction.
+
+catechumeni:
+  english: Catechumens
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 11"
+  note: >
+    Those under catechesis, particularly pre-baptismal in the primitive-
+    church usage that Chytraeus invokes.
+
+examen:
+  english: Examination
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 11"
+  note: >
+    Both (i) the act of examining a learner, and (ii) the specific
+    reference to Chemnitz's Examen Concilii Tridentini (Frankfurt,
+    1565-73) as Chytraeus's stated textbook.
+
+confessio_fidei:
+  english: Confession of faith
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 11"
+  note: >
+    In Chytraeus's argument, the confessio the every Christian must
+    render is the ecclesial ground of the practice of examination.
+
+finis_studiorum:
+  english: The end (goal) of studies
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 9"
+  note: >
+    Chytraeus distinguishes proximate ends (wisdom, expressive ability)
+    from the principal end (the agnitio et celebratio Dei).
+
+# ─── HUMANIST / TOPONYMIC ─────────────────────────────────────────────
+
+urbs_rosarum:
+  english: The City of Roses (Rostock)
+  type: proper-name
+  first_use: "chytraeus-catechismus-1594, ep. dedicatoria"
+  note: >
+    Rostock. The epithet is standard in 16th-c. Rostock self-designation,
+    from the three roses on the city's arms. Chytraeus dates his
+    dedication "Ex Academia urbis Rosarum."
+
+argentoratensis_academia:
+  english: The Academy of Strasbourg
+  type: proper-name
+  first_use: "chytraeus-catechismus-1594, ep. dedicatoria"
+  note: >
+    Founded by Johannes Sturm 1538 as Gymnasium, raised to Academia
+    (right to confer BA/MA) 1566, to full university 1621. In the
+    1560s the most-praised humanist school in the Empire.
+
+sarepta:
+  english: Sarepta (as type-name for Rostock)
+  type: proper-name
+  first_use: "chytraeus-catechismus-1594, ep. dedicatoria"
+  note: >
+    Ṣarpath / Sarafand, the widow's town where Elijah lodged during
+    the drought (1 Kgs 17:8-24). Chytraeus applies the type to Rostock,
+    where he was preserved and taught. Standard trope among 16th-c.
+    north-German reformers.
+
+pio_et_candido_lectori:
+  english: To the Pious and Candid Reader
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, prefatory address"
+  note: >
+    Standard 16th-c. dedicatory formula for the address-to-reader that
+    complements the epistola dedicatoria to a patron. Chytraeus's
+    version is dated Die Lucae 1575.
+
+epistola_dedicatoria:
+  english: Dedicatory Epistle
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, ep. dedicatoria"
+  note: >
+    Chytraeus's is dated 7 January 1568 to Bernhard von Menzingen,
+    son of his patron Peter von Menzingen. Preserved unchanged in the
+    1594 revision.
+
+paterfamilias:
+  english: Head of the household
+  type: rhetorical
+  first_use: "chytraeus-catechismus-1594, ep. dedicatoria"
+  note: >
+    In the Roman-humanist ethical vocabulary Chytraeus borrows, a
+    title of civic and pious dignity — the pattern of the pious
+    Christian householder, applied to the elder Menzingen.
+
+genus_doctrinae:
+  english: Kind, or genre, of doctrine
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, ch. 1 § 7"
+  note: >
+    In Chytraeus's argument at § 7 (IV): the very sort of teaching
+    that Scripture is — making manifest what is hidden to reason — is
+    itself an argument for its divinity.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# END OF SEED. Every completed work appends its own new entries here.
+# END OF SEED + Chytraeus 1594. Every completed work appends its own new
+# entries here.
 # ═══════════════════════════════════════════════════════════════════════════
