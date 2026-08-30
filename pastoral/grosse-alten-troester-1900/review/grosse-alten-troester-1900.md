@@ -1105,7 +1105,41 @@ Its peculiarity can be seen from the chapter-titles. E.g.:
 
 The little book will today serve less to actual edification than rather to the knowledge of the peculiarity of the second half of the sixteenth century — in part also in its devotional-literature. For the preacher, however, it gives material in *Hülle und Fülle* for marriage-addresses and household-estate-sermons. Löhe himself put it to use.¹³⁷
 
-*Tranche 3 — I b) die nachreformatorische Zeit 1550–1600 — closes here. Source pp. 86–132 fully translated.*
+### §11. Cyriacus Spangenberg (1528–1604)
+
+*Source: I b) — Zeit 1550–1600 — §10, pp. 128–130. The Mansfeld reformer, chronicler, and hymnist whose *Cithara Lutheri* (Wittenberg, 1569) was the first sustained devotional exposition of Luther's hymns.*
+
+**Cyriacus Spangenberg**¹³⁸ — son of the reformer Johann Spangenberg (†1550 in Eisleben, already treated above at the close of §7-catalogue), and one of the most industrious devotional writers of the Mansfeld-Saxon second Reformation-generation. In 1566 Graf Volrad zu Mansfeld called him from [Nordhausen] as *Superintendent* of the county of Mansfeld. As a determined adherent of Flacius Illyricus in the intra-Lutheran controversies of the 1570s, and having irritated Graf Ernst zu Mansfeld (who took the opposing party in the controversies), he was forced in 1577 — in the disguise of a peasant — to flee. For some time he remained in Mansfeld, protected by Graf Volrad and supported with a yearly stipend of [—] thalers. When, as a consequence of a colloquy of 9 September 1577 at Sangerhausen, [Graf] Volrad — his own protector — was likewise banished from the county, Spangenberg turned to [Sondershausen], where the latter [Volrad] had already on 20 July 1578 [entrusted himself to] the Count of [Schwarzburg]. The nobles Wilhelm von Schach and [X] von Görtz then called him to **Schlitz on the Fulda.** After two years of faithful office-labour, he had to yield here too on the death of his patrons. His prayer in this distress remained the **25th Psalm,** which he set into the hymn "*Ich hebe mein Herz zu Dir, o HErr, mich sehne ich*."¹³⁹ Through the mediation of Landgraf Wilhelm of Hesse he found in the Reformed town of Vacha on the Werra a preacher's place, though he had here — as a refugee — to nourish himself and his own children through much labour without office or bread. But he remained in his God firm, as his letters and writings of that time prove. The 127th [Psalm] he experienced upon himself. His children — six sons and two daughters — also found their good provision. Once more he had to change his dwelling-place, driven from the town-officials. In 1595 he betook himself, on an invitation of the brother-son of Graf Volrad, of [Peter] Ernst — who as *Canonicus* lived in Strasbourg — and died on **18 February 1604,** after he had spent nine more years there, lovingly supported by him with his wife.
+
+As a faithful pupil of Luther, he wrote an exposition of Luther's hymns — the ***Cithara Lutheri*** — which grants him rich comfort and doctrine, in 76 sermons.¹⁴⁰ But he also sang himself in the spirit and gift; in 1568 he issued the *Eisleben Gesangbüchlein* (published earlier by his father) in an enlarged edition, in 1582 [issued] "Psalms and other hymns on the Psalter and other hymns of Holy Scripture." From him are, for example, the hymns: *"Nach dir, o HErr, verlange ich"* [*"After thee, O Lord, do I long"*], and others.¹⁴¹
+
+*[Große continues with maxims and edifying sayings drawn from Spangenberg's writings, in the fashion of his own biographical portraits — including the sayings-numbered-52, 60, and similar folk-proverbs:¹⁴²]*
+
+- **Sayings 3, 52:** *"With the many colour-glowing hymn-sayings for a single day one only makes people over-full and tired."*
+- **Saying 60:** *"What burns thee not, thou needest not to quench."*
+- **Saying [?]:** *[On avoiding beheading]* — Christian caution.
+
+### §12. Tilemann Hesshusius (1527–1588)
+
+*Source: I b) — Zeit 1550–1600 — §11, pp. 130–133. The Gnesio-Lutheran controversialist and preacher, forced-through-controversy-into-many-cities-of-office, defender of the *Formula of Concord.**
+
+**Tilemann Hesshusius**¹⁴³ was born on 3 November 1527 at Wesel. After studies at various universities — including Wittenberg — and after journeys through France, England, Denmark, and Germany, he became in 1550 Magister and in 1553 Doctor at Wittenberg (the latter [degree taken] from Goslar). At Goslar he worked from 1552 as Superintendent. In 1556 he was, however, on account of the church-orderings he wished to introduce, dismissed. He went to Magdeburg and soon after obtained at Rostock a theological professorship and the pastoral office at St. James. He inveighed against the old leaven, against all churchly abuse — chiefly against the disturbing Sunday-weddings. Thereby it came to a longer conflict between the Rat and the city-clergy, in which Hesshusius left Rostock and went to Wittenberg in 1559.
+
+Through Melanchthon's mediation he came to the *Generalsuperintendentur* and the first theological professorship at Heidelberg. Through the conflicts against the Calvinist Elector Friedrich III and the Calvinist Deacon Klebitz, he was also there set out of office. In 1560 he went from thence to Magdeburg to St. John's, and in 1561 took over the Superintendentur. His opposition against an edict of the Lüneburg Circle-Diet — which forbade all polemic against the Crypto-Calvinists on the pulpit — brought him for the 4th [time] office-dismissal. On 22 October 1562 he was banished from the city and returned to Wesel. Here he lost his wife by death. Through a writing on the Pope as Antichrist, he was also here dismissed by the Duke of Jülich and had to leave his motherless children in the city in bitter winter-cold. Refused entry at Strasbourg, he received in 1565 a call to the court-preachership of Graf Wolfgang [von Zweibrücken]. Under him he found a rest until he was invited to the court of Kurfürst August of Saxony — where he came to a firm inward strife over the Crypto-Calvinist tendencies — and where he was again forced to move.
+
+He came in 1569 to Prussia, and was in 1571 as court-preacher and professor at Königsberg. Here he lived four years. In 1577 he received a call to Helmstedt, where he took over the professorship. The *Formula of Concord* — which had appeared that same year — he was completely in accord with, and despite all attempts of 1582 and 1583 to force him to withdraw his subscription, he did not weaken. He held firmly to it, and required the re-establishment of the [Wittenberg-Concord] that the Formula of 1577 demanded.
+
+He died on **25 September 1588.** He was a rough but honest man. He confesses in his testament in true humility that he had done in the office of the ministry less than he had been rightly owing, that he should have punished the [gross] sinners still more harshly and should have refuted the sect-spirits more thoroughly. Against that, he was assured — as far as his exile-persecutions were concerned — that he had led the congregation of God [into all truth] and pure and healthy doctrine. Not bitterness, but overheightened conscientiousness, made him so untamable — as also his rough theological writings, especially expositions [teach].¹⁴⁴
+
+His sermons: Though he preaches in the sense of his age dogmatically, [his writings are yet] also for the people [understandable]. Some of his sermons — which appeared 1581, 1594, and 1595 — are available in new editions, and can lead the reflective reader into the truths [of the Lutheran faith] and at the same time warm the heart:
+
+**1. Von dem Unvermögen menschlicher Kräfte in denen Sachen, so das ewige Leben betreffen** — Four Sermons. With a Preface by W. Hübener. Dresden, Heinrich Naumann (now at Joh. Herrmann in Zwickau), 1881. Kl. 8°, VII + 158 pp. Cloth 1.80 M.
+
+**2. Zehn Predigten von der Rechtfertigung des Sünders vor Gott** — by Dr. Tilemann Hesshusius. The 1568 edition reprinted unchanged. St. Louis (Mo.) and Leipzig, Concordia-Verlag¹⁴⁵ (Leipzig, Ernst), 1876. 8°, [size].
+
+Here appears, as preface, the dedicatory letter of 16 February 1568 to Wolfgang, Pfalzgrafen [von Zweibrücken], in old-fashioned broad language. Because the doctrine of Justification is so often misunderstood, so it is precisely because [of that] worth to be praised more mightily. The 1st sermon (pp. 20–61) [treats] how the words *Law, Sin, Righteousness, to justify, Grace, and Faith* are to be understood. The 2nd: how the doctrine of the Justification of the Sinner before God is to be grasped in certain Chief-Points — all sinners — God out of grace, Jesus the Mediator — Faith the means.
+
+*Tranche 3 — I b) die nachreformatorische Zeit 1550–1600 — closes here. Source pp. 86–133 fully translated.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1416,6 +1450,22 @@ The little book will today serve less to actual edification than rather to the k
 ¹³⁶ Große's tone of gentle bemusement — that the *simplicity of his time hardly took offence* at the *Christliches Zeitvertreib* / *Geistliches Rätselbuch* mixing of sacred and playful matter — is characteristic of his late-nineteenth-century confessional-Lutheran assessment: he does not condemn Saxo's method, but marks it as a curiosity of taste that would not pass in his own age. This is a rare Große-note distancing himself from a sixteenth-century usage rather than endorsing it.
 
 ¹³⁷ **Wilhelm Löhe** (see n. 78 above) drew from Saxo's *Arcana* for the marriage-address material in his own *Agende für christliche Gemeinden lutherischen Bekenntnisses* (1st ed. 1844). Große's note here is a nineteenth-century confessional-Lutheran cross-reference: Löhe's use of Saxo is a witness that even Saxo's *arcana-symbolic* method remained useful for the Bavarian confessional-Lutheran revival — a small vindication of the sixteenth-century way of speaking.
+
+¹³⁸ **Cyriacus Spangenberg** (1528–1604), Mansfeld reformer, chronicler, and Flacius-Illyricus adherent. Modern-critical study: Georg Klinger, *Cyriacus Spangenberg als Erzieher* (Halle, 1927). Life-trajectory as reconstructed by Große: Mansfeld Superintendent (1566), Flacius-adherence-driven flight in peasant-disguise (1577), Schlitz on the Fulda (1580s), Vacha on the Werra (Reformed-territory refuge), and finally Strasbourg with Peter Ernst von Mansfeld (1595–1604). His father Johann Spangenberg (†1550) was the Eisleben-Hallenser reformer whose *Postille* Luther praised.
+
+¹³⁹ **Ich hebe mein Herz zu Dir, o HErr** — Cyriacus Spangenberg's paraphrase of Ps. 25, composed during his Schlitz-Vacha exile. Preserved in the *Eisleben Gesangbüchlein* of 1568 (2nd ed. enlarged 1582). Modern reception limited.
+
+¹⁴⁰ ***Cithara Lutheri*** (Wittenberg, 1569) — Spangenberg's sermon-devotional exposition of Luther's hymns, in 76 sermons. Foundational to the Lutheran devotional-hymn-exposition genre; anticipates by fifty years the Arndt-Gerhard hymn-devotional tradition (see Tranche 4 below). Text preserved in 16th-c imprints; no modern-critical edition.
+
+¹⁴¹ ***Nach dir, o HErr, verlange ich*** — Spangenberg's other well-known hymn, a paraphrase of Ps. 42 or Ps. 63 (the "longing after God" motif). Preserved in the 1582 enlarged *Eisleben Gesangbüchlein.*
+
+¹⁴² Große's enumerated sayings from Spangenberg (n. 3, 52, 60, and others) appear to be from a proverb-collection or *Rüstkammer*-book attributed to Spangenberg; source-verification pending JP2 sighting. The numbered form and the folk-proverbial content suggest a devotional-sayings appendix.
+
+¹⁴³ **Tilemann Hesshusius** (or Heshusius) (1527–1588), one of the sharpest Gnesio-Lutheran polemicists of the second half of the sixteenth century, and — despite his lifelong controversies and dismissals — a defender of the *Formula of Concord* of 1577 at Helmstedt. Modern-critical biography: Peter F. Barton, *Um Luthers Erbe: Studien und Texte zur Spätreformation Tilemann Heshusius (1527–1559)* (Witten, 1972).
+
+¹⁴⁴ Große's assessment — that Hesshusius's *rauhness* was not *bitterness* but *overheightened conscientiousness* — is one of the sympathetic acknowledgements of an intransigent orthodox controversialist made possible only from the confessional-Lutheran-revival distance of the late nineteenth century. Modern historiography confirms Große's reading: Hesshusius the *homo iracundus* was also a defender of the true Word.
+
+¹⁴⁵ **Concordia-Verlag St. Louis** — see n. 71 above. The 1876 St. Louis edition of Hesshusius's *Zehn Predigten von der Rechtfertigung des Sünders vor Gott* is one of the Missouri-Synod re-issues of second-generation Wittenberg-orthodox devotional material — evidence for the direct connexion Große assumes between the Hermannsburg-Missouri-Synod confessional-Lutheran revival of his own age and the immediately-post-Reformation Wittenberg-orthodox tradition he is here surveying.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
