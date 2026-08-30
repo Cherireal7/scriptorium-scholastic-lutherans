@@ -2823,10 +2823,103 @@ depositio_principum:
     Henry IV (1076), Innocent III against John of England (1213),
     Paul III against Henry VIII (1538 bull Ejus qui immobilis).
 
+# ─── Tranche 2 body — Canones through Hegesippus (vl0011–vl0018) ────────
+
+canones_apostolorum:
+  english: Apostolic Canons
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Canones Apostolorum at vl0011"
+  note: >
+    85 canons forming Book VIII.47 of the Apostolic Constitutions
+    (Antioch c. 375–380). Received in East from Trullan Synod 692;
+    in West partially through Dionysius Exiguus. Flacius invokes
+    canons 5, 51 (against enforced celibacy) and 34–35 (regional
+    governance, no Roman appellate mention).
+
+quinisextum:
+  english: Sixth Synod (Quinisext / In Trullo)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Canones Apostolorum at vl0012"
+  note: >
+    Council of Constantinople 692 (Trullan II), whose Canon 13
+    explicitly permits married priests to continue conjugal
+    relations. Rejected by Rome precisely on that ground.
+
+romanistarum_commentum:
+  english: A Romanist contrivance
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Canones Apostolorum at vl0012"
+  note: >
+    Flacian polemical formula reducing papal doctrines to commenta
+    (fictions/fabrications). Method inherited from Valla's De falso
+    credita et ementita Constantini donatione (1440) — exposing
+    papal-Antichristian commenta through source-critical historical
+    argument.
+
+ecclesia_graeca:
+  english: The Greek Church
+  alt: ["Graeca Ecclesia et coniunctae"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Graeca Ecclesia at vl0013"
+  note: >
+    Flacius's collective for the non-Latin Christian world: Greek +
+    Asian + Macedonian + Moesian + Wallachian + Ruthenian + Muscovite
+    + African (incl. Coptic-Ethiopian). Never conceded papal primacy,
+    purgatory, private masses, indulgences, single-species communion,
+    enforced celibacy, or image-adoration. Flacius closes with the
+    honest caveat that not all doctrines listed hold in the present.
+
+pseudo_clementina:
+  english: The Pseudo-Clementines
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Papa at vl0014"
+  note: >
+    The pseudo-Clementine corpus (Recognitiones + Homiliae, Syria
+    c. 220–230) attributed to Pope Clement I. The Epistula ad
+    Iacobum was incorporated into Pseudo-Isidorian False Decretals
+    (mid-9th c., PL 130). Flacius demolishes it in 1556 by the
+    chronological argument (James †62 predeceased Peter †64-67 by
+    seven-plus years, so Clement cannot have written to a dead James
+    narrating Peter's death — nisi in purgatorium miserit).
+
+falsae_decretales:
+  english: The False Decretals
+  alt: ["Pseudo-Isidorian Decretals"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Papa at vl0015"
+  note: >
+    Mid-9th-c. forged papal letters attributed to Anacletus, Clement,
+    Evaristus, Alexander I + ~90 other early popes, constructed to
+    buttress papal primacy. Exposed by Magdeburg Centuriators (Vol I
+    1559) and definitively by David Blondel 1628. Flacius here names
+    the corpus as fabrication three years before the Centuries'
+    systematic demolition.
+
+akatastasia:
+  english: Instability, disorder
+  alt: ["ἀκαταστασία"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clemens Papa at vl0016"
+  note: >
+    Biblical Greek term (Jas 3:16, 1 Cor 14:33, Luke 21:9); Flacius
+    uses it to characterise Roman polemical argument as fundamentally
+    disordered against the truth-of-Scripture. Preserve the Greek.
+
+michael_diaconus_aethiops:
+  english: Michael the Ethiopian Deacon
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Graeca Ecclesia at vl0013 (implied via Coniunctae Africana)"
+  note: >
+    Ethiopian priest who visited Wittenberg in 1534; Luther authenticated
+    his Confessio fidei in a foreword to the 1534 Bekenntnis, establishing
+    the Lutheran-Ethiopian precedent by which the Ge'ez church could be
+    counted among the testes veritatis (see endnote 92 in the review file).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 CONTINUES (Peter vl0001-7 + Sacrae literae
-# vl0007-11). Total Flacius lemmas: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2
-# Peter) + 7 (T2 Sacrae literae) = 37 entries.
+# FLACIUS 1556 — TRANCHE 2 CONTINUES (Peter + Sacrae literae + Canones +
+# Graeca Ecclesia + Clemens + Dionysius + Hegesippus, vl0001-vl0018).
+# Total Flacius lemmas: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7
+# (T2 Sacrae literae) + 8 (T2c Canones→Hegesippus) = 45 entries.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

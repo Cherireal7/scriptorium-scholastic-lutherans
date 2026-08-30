@@ -394,7 +394,85 @@ Wherefore it is most manifest that Christ himself sharply, and not only once, ta
 
 These things I have briefly wished now to say concerning the loci of the Sacred Letters which as if of set-purpose seem to have been directed against the Pope. For many other passages of the Bible are of the same kind — as has been shown at length in our Churches' writings and doctors' works, and is increasingly indicated in the growing volumes of writings and refutations.⁸⁵
 
-*[The Sacrae literae entry ends here at the top of `vl0011`; the next section, `Canones Apostolorum` (the Apostolic Canons — pseudo-apostolic canonical collection of 4th-c. Antiochene origin), opens immediately below and is staged for the next Tranche 2 session.]*
+*[The Sacrae literae entry ends here at the top of `vl0011`; the next section, `Canones Apostolorum`, opens immediately below on the same page.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Canones Apostolorum
+
+### *The Apostolic Canons* — vl0011–vl0012
+
+**The Apostolic Canons** — concerning which it has long since been contested, whether they should be held as authentic, or rejected as apocryphal — were nonetheless finally received, as appears from the sixteenth *distinctio* of the Decretum.⁸⁶ They command that a bishop or priest, who has abstained from his wife on the pretext of religion, must dismiss her; and whoever shall have done contrary, is to be excommunicated, anathematized, and eaten with; and them, who, for religion's sake — as Papists do, for whom it is a crime to have eaten meat, or in casu, on any day of the year — condemn eating flesh.⁸⁷ And indeed these two decrees are put down twice, and are expressly said: If any bishop or priest abstains from marriage, or from eating flesh, not for exercise's sake but because he abominates it, he is to be deposed and excommunicated.
+
+**The Sixth Synod** affirms both the Apostolic canons, and the holy Fathers, permitting not only marriage but also procreation of children to their priests: and that same holy Synod defends the marriage of priests expressly against the Roman canons.⁸⁸ See *distinctio* 31, chapter *Quoniam*, and following. From which appears, that Satan straightway at the beginning of the Church put in the doctrines of Sodomite chastity and abstinence from foods, that he might obtrude prohibitions upon the pious: but for a while he was resisted by the pious, until the error at last oppressed the truth.
+
+In the Apostolic canons that too is observable, that when they treat of the polity of the Church, they say that bishops are simply bishops (*sacerdotes simpliciter episcopos*), without any ulterior appellation subjecting them; and in disputes of controversies they refer them, nor make any plain mention of the Pope or Roman bishop.⁸⁹ Whence it appears that the primacy of the Pope and the Apostolic See or tyrannical rather, is a Roman contrivance (*Romanistarum commentum*).⁹⁰ Most-worthy also that is observable, that under the 34th canon, no less archbishops than the bishops themselves are obligated. Whence it appears that then the greatest equality in the Church was of study, and that most horribly all abhorred Antichristian tyranny.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Graeca Ecclesia, & coniunctae
+
+### *The Greek Church and Its Associated Churches* — vl0013–vl0014
+
+The Greek Church, and those associated to it — the Asian, the Macedonian, the Moesian, the Wallachian, the Ruthenian, and the Muscovite; likewise the African — that is, almost the whole world, being certainly by far the greatest part of it — never conceded primacy to the Pope by common consent; never sanctioned purgatory; never private masses; never vigils (as they call them) for the dead; never indulgences; never communion under one species; never enforced celibacy of priests; never adoration of statues; and other similar things; but always resisted those impieties, and even today are utterly alien to what almost the whole religion of Antichrist consists in.⁹¹
+
+Which testimony clearly proves that these are not Catholic dogmas, nor marks of the ancient Church. For if they had been in use in the ancient Church, they would certainly have gone forth into the Greek Church — through which the Christian religion came to the Latins, and which had been mistress in religion of the Latins — with the greatest injury to the whole Church. Always therefore there existed thence from the beginning a great part of the Church, which contradicted Antichrist: so that we cannot glory that the Papists have in the very consent of Catholicism-with-us any impiety. And this profoundly is a witness of truth.⁹²
+
+At Basel I hear that there is a volume of an inquisitorium of Emerici, in which he cites these errors — or rather, the truths — of the Greeks.
+
+**That the Saints Are Not to Be Invoked — indeed, not even the Virgin — because Christ is the one Mediator.**⁹³ That we ought to confess our sins to God alone. That the satisfactions, which the priests of the Pope impose, are reprehensible. Likewise that the eating of any foods, of flesh and of others, is lawful on any day. Likewise that monastic vows are not lawful. Likewise that those who offer to the saints gifts of any kind whatever make a sacrifice to the Devil. Likewise that to adore and kiss the cross is foolish and impious. That the miracles of the saints are false. That they condemn holy water. That baptism in river water avails as much as in consecrated water. Likewise that the decrees and constitutions of the Popes are not to be heard or observed.
+
+But I fear that not all these things can truly be attributed to them in this time, and in some proximate ages.⁹⁴
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Clemens Papa
+
+### *Pope Clement I* — vl0014–vl0016
+
+**Clement**, who heard the Apostles and, as some narrate, succeeded Peter,⁹⁵ says in book five, on the worship of images: *Nos ad honorem inuisibilis Dei imagines uisibiles adoramus* — "We adore visible images to the honour of the invisible God." Which is certainly false. For if we wished to venerate the images of God — men being his benefactors — we ought to have kept veneration in that living image of God which he himself made. And likewise afterwards: *Quis ergo iste honor Dei est, per lapideas & igneas formas discurrere, & inanes figuras tanquam numina venerari; & hominem, in quo uera Dei imago est, spernere?* — "What kind of honour of God is this, to run about among stone and fiery forms, and to venerate empty figures as if they were divinities, while spurning the man in whom the true image of God is?"⁹⁶ Whence it is apparent how this pious man judged of that papistical worship of ceremonies.
+
+To this same Clement some works are attributed, which are printed in the book of Councils. Among them there is a certain one to James the Just, brother of the Lord and Bishop of Jerusalem — of which the first is exceedingly prolix, and contains almost the whole Papacy.⁹⁷ That it is however supposititious appears from this very light, that in it Clement is depicted as narrating Peter's death, and (as it were) his testament — namely his last sermon — when nonetheless all historians testify that James was more than seven years killed before Peter's death.⁹⁸ How then could Clement have narrated Peter's death and his last words to a dead James — unless perhaps he sent the letter into purgatory, or into the Elysian Fields?
+
+Whence it appears that already, before our own times, the Romanist impurity — which very-clearly-shown-to-us appears — many learned men understood, and asserted with firm reasons. Nor for that reason does Jerome ever make mention of these writings — even though he does mention Clement's Epistle to the Corinthians, which he greatly praises.⁹⁹ The vanity of this epistle being detected, it is easy to also detect the not-few other fictitious writings of the primary Popes — as of Anacletus and others, whom Clement subsequently cites.¹⁰⁰ Whence appears, how nefariously Antichrist has adulterated the Church of God then with fictitious writings, that whom in fraud has circumvented.
+
+But let us see plainly the Papists, with their own lies. In the very title of that epistle is such an inscription: *Clemens Iacobo fratri Domini, & episcopo episcoporum, regenti Hebraeorum sanctam ecclesiam Hierosolymis, sed & omnes ecclesias, quas ubique Dei providentia fundatae sunt, &c.* — "Clement to James, the brother of the Lord, and bishop of bishops, governing the sacred Hebrew church at Jerusalem — but also all churches which everywhere are founded by the providence of God."¹⁰¹ If James of Jerusalem is *bishop of bishops*, and ought to rule not only Christian church, but even all — then Rome's Antichrist has lied: since James was surely called *bishop of bishops*, and never was called by that other title.
+
+That in this epistle Clement, with all diligence, inculcates to Peter: to take care that presbyters be taught and the plebs be also learned. For "elsewhere" (he says) "if the blind is led by the blind, both fall into the ditch."¹⁰² Where in judgements of the Church he treats, nothing of appellation to the Roman pontiff penitrates — he says, patriarchs, primates or patriarchs ought to end causes.¹⁰³ He warns also diligently and prolixly, Clement, that he abstain wholly from the businesses of this world, and give himself entirely to the doctrine. Otherwise, he says, it will happen that you, as one who has not taught the things which pertain to the people's salvation, will be deposed — and the disciples, through your ignorance, will perish. **O that this could be persuaded to the Pope, that, having wholly omitted the businesses of temporal, political affairs and the sword, he should give himself entirely to the instruction of the Gospel doctrine, and vacate the people!**¹⁰⁴
+
+The Papists cite the aforementioned epistle as if a certain egregious foundation, base, or column of their errors — and yet Antichrist, in his laws and writings, even to this very day, does not cease to cite it — however manifest its vanity may be. Truly they have their own *ἀκαταστασία* against all rays of light of truth¹⁰⁵ — and against the sword of the Holy Spirit itself, so ambiguous and acute, that is, against the Word of God.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Dionysius
+
+### *Dionysius of Corinth* — vl0017
+
+**Dionysius, Bishop of the Corinthians**, flourished about the year 150 of the Lord. He, by a letter — the testimony of Eusebius¹⁰⁶ — warned **Pynytus**, bishop of the Gnostics, that he should not impose the heavy burden of celibacy upon his disciples, that is upon the Christians, nor obtrude upon his brothers. And Pynytus responded, and gave thanks, that his opinion had approved, and promised that in future he would use sounder doctrine: that food for the growing should be supplied, so that his hearers might so advance that they might not always drink milk-food, and remain infants.
+
+From which words it is licit to gather, that this good Pynytus wished by his little tradition of ceremonies, of fasts, of virginity, and of similar things to burden his hearers: but Dionysius admonished him, by Paul's opinion, that those things are of this world and its elements; and, as once was said to the Jews, so likewise to Christian men solider and stronger food ought to be given — that is, the doctrine of the Evangel.¹⁰⁷
+
+So we see: always the imperitos superstitiously — men embracing that ceremonies' umbrous sanctity, and among others obtruding — but the saner doctors on the contrary, endeavouring to recall them to the sincere and sound doctrine of Christ.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Egesippus
+
+### *Hegesippus* — vl0017–vl0018
+
+**Hegesippus**, a man celebrated both in the name of piety and of erudition, flourished about 160 years after the nativity of Christ. He writes (as Eusebius, Book 4 and 5 of his history refers) that the Church of the Lord was a virgin until his death — a virgin, whom no heretic was able to contaminate: but after his death, error rushed into it as into a deserted house.¹⁰⁸ This indeed is said sadly, but is nonetheless useful against secure Papists — who, from the fact that so many centuries after Christ's passion have elapsed, and yet dare shout still, that error is neither in the Church, nor has the Pope ever erred, nor can he err. May the history of this most holy man's ecclesiastical acts be extant — many doubtless similar testimonies would be found in it.
+
+*[Next entry:* **Polycarpus** *at vl0018 mid, staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -607,6 +685,62 @@ These things I have briefly wished now to say concerning the loci of the Sacred 
 **⁸⁴** **Galatians 2:6–9** — the compact of Jerusalem (*qui autem videbantur aliquid esse…mihi enim qui videbantur esse aliquid, nihil contulerunt…dexteras dederunt mihi et Barnabae societatis; ut nos in gentes, ipsi autem in circumcisionem*). Paul's "they added nothing to me" and the parity of the Gentile-mission with the Jewish-mission is Flacius's decisive proof that no primacy was recognised in Peter by Paul, and thus that no primacy was given.
 
 **⁸⁵** *Ecclesiarum nostrarum scriptoribus* — the growing Wittenberg-and-Magdeburg polemical corpus: Luther *De captivitate Babylonica* (1520, WA 6:497–573), Melanchthon *Loci Communes* passim, Flacius's own *De Primatu Papae* (Magdeburg 1550) and *Confutatio* (Basel 1549), Amsdorf, Nicolai Gallus, Wigand — the Gnesio-Lutheran polemical library of the 1550s, of which the *Catalogus* itself is now a landmark.
+
+## From the Catalogue — Canones Apostolorum (vl0011–vl0012)
+
+**⁸⁶** The **Apostolic Canons** — 85 canons, forming Book VIII, chapter 47, of the *Apostolic Constitutions* (compiled c. 375–380, probably in Antioch by an Apollinarian or semi-Arian editor). Received in the East from the Trullan Synod (Quinisext, 692); received in the West only partially — the first 50 canons through Dionysius Exiguus's Latin translation (early 6th c.). Gratian's *Decretum* (c. 1140) incorporates them into Distinctio 16 (*De canonibus*), on which Flacius here draws.
+
+**⁸⁷** **Apostolic Canons 5 and 51** — the canon against clerical dismissal of wives on pretext of religion (*praetextu religionis*) and the parallel canon against those who abhor marriage or the eating of flesh, wine, and other creations of God as impure. Flacius takes them as apostolic-era witness against later Roman enforcement of celibacy and Lenten discipline.
+
+**⁸⁸** The **Second Trullan Synod** (Quinisext / *In Trullo*, Constantinople 692) — its Canon 13 explicitly permits married priests to continue conjugal relations, refuting the Roman canonical requirement (formalised at Elvira c. 305, at First Lateran 1123). The Trullan Synod was itself rejected by Rome, precisely because of Canon 13 — a point that only sharpens Flacius's polemical use of the Eastern conciliar witness.
+
+**⁸⁹** Apostolic Canons 34–35 provide for regional-metropolitan governance (the *primus* of each ethnos should be consulted; but nothing done without the assent of all), *without any mention* of Roman appellate jurisdiction. The absence, for Flacius, is proof: had papal primacy been apostolic, it would have appeared in the earliest canonical collection.
+
+**⁹⁰** *Romanistarum commentum* — "a Romanist contrivance." The Flacian polemical vocabulary against papal claims regularly reduces papal doctrines to *commenta* (fictions, fabrications), against which he sets *veritas historica*. The rhetorical move is inherited from Valla's *De falso credita et ementita Constantini donatione* (1440), the humanist demolition of the Donation of Constantine — which established the method of exposing papal-Antichristian *commenta* through source-critical historical argument.
+
+## From the Catalogue — Graeca Ecclesia (vl0013–vl0014)
+
+**⁹¹** The seven-fold list of doctrines the Greek Church never held — papal primacy, purgatory, private masses, vigils for the dead, indulgences, single-species communion, enforced celibacy, image-adoration — is drawn from the standard 16th-c. Lutheran-vs-Greek comparanda (Melanchthon's contact with Patriarch Joseph II via Demetrios Mysos in 1559 postdates the *Catalogus* by three years, but the anti-Roman Greek witness was already collated in Luther's *Vom Papsttum zu Rom* (1520, WA 6:285–324) and in Justus Jonas's translation of the *Confessio Bohemica*).
+
+**⁹² *Coniunctae* Ecclesiae** — the Asian, Macedonian, Moesian (present-day Serbia + Bulgaria), Wallachian (Romanian), Ruthenian (Ukrainian-Belarusian), Muscovite (Russian), and African (Coptic-Ethiopian) churches. Flacius's inclusion of the Ethiopian church is remarkable: contact between European Lutheranism and Ethiopian Christianity had begun with the visit of the Ethiopian priest **Michael the Deacon** to Wittenberg in 1534, whose *Confessio fidei* Luther authenticated in a foreword to the 1534 *Bekenntnis* — establishing the Lutheran-Ethiopian precedent by which the *Ge'ez* church could be counted among the *testes veritatis*. (The relevance to the present translator's own Ethiopian setting is not lost on the Scholastic Lutherans team.)
+
+**⁹³** The transitional heading *Quod sancti non sint invocandi* — the strong catena of eleven "Quod…" propositions that follows — reads as a summary of the Byzantine-and-Orthodox positions on a range of ceremonial-devotional questions. The intra-Orthodox positions are more nuanced than Flacius here presents (invocation of saints, in particular, is standard Orthodox practice), which is why Flacius closes the section with the honest caveat that *not all these things can truly be attributed to them in this time and in some proximate ages*.
+
+**⁹⁴** The caveat is textually important: Flacius does not overstate the Greek witness. He knows that some of the propositions listed are contested even within the Greek tradition. The scholarly restraint — surprising for a work of this polemical register — is precisely why the *Catalogus* has value beyond partisan polemic: the author corrects his own overreach.
+
+## From the Catalogue — Clemens Papa (vl0014–vl0016)
+
+**⁹⁵** **Clement I** (†c. 99, traditional dates), traditionally the third Bishop of Rome after Peter (per Irenaeus *Adv. Haer.* III.3.3) or the fourth (per Tertullian's *De Praescriptione* 32 which puts Clement after Peter–Linus–Anacletus–Clement). Flacius's *ut quidam narrant* signals the disputed early-papal succession-lists. The historical Clement is known chiefly as the author of the *First Epistle to the Corinthians* (c. 96), a genuine document; the massive pseudo-Clementine corpus that grew around his name is entirely spurious.
+
+**⁹⁶** The passage quoted is from the **Pseudo-Clementine *Recognitiones*** (compiled probably c. 220–230 in Syria; extant in Latin translation by Rufinus, c. 400) — book V, chapter 23, where "Clement" argues against pagan image-worship. Flacius quotes accurately and directs the argument, brilliantly, against later Roman image-veneration: if the ancient anti-pagan critique of stone-and-fire forms was right, then the medieval Roman practice of image-veneration is that same paganism returned.
+
+**⁹⁷** The **Pseudo-Clementine Epistle to James** — the letter that opens the *Recognitiones* — is the fabrication Flacius here identifies as *supposititia*. It survives in Rufinus's Latin translation and was incorporated into medieval canon-law collections through Pseudo-Isidore (mid-9th c., the *False Decretals*, PL 130). Flacius's argument-from-chronology (see next endnote) had been made in essentially the same form by Nicholas of Cusa (*De Concordantia Catholica* III.2, 1433) and definitively by Lorenzo Valla — and became a Reformation commonplace.
+
+**⁹⁸** The chronological demolition: **James the Just** was killed c. AD 62 (per Josephus *Antiquities* XX.200 and Eusebius *HE* II.23.20); **Peter** was martyred c. AD 64–67 (per the ancient tradition anchored to Nero's persecution). If James died before Peter, then a letter *from Clement to James* narrating *Peter's death* is chronologically impossible. Flacius's *nisi forte in purgatorium, aut campos Elysios eam epistolam miserit* — "unless perhaps he sent the letter into purgatory or the Elysian fields" — is the deadpan sarcasm characteristic of the humanist source-critical method.
+
+**⁹⁹** **Jerome, *De Viris Illustribus* c. 15** — the entry on Clement of Rome, which acknowledges only the (genuine) *Epistula ad Corinthios* and describes it as *valde utilis*. Jerome's silence on the pseudo-Clementine corpus is treated by Flacius as further evidence of its later fabrication.
+
+**¹⁰⁰** The **Pseudo-Isidorian Decretals** (mid-9th c.), a systematic corpus of forged papal letters from **Anacletus, Clement, Evaristus, Alexander I** — and about 90 other early popes — constructed to buttress papal primacy claims. The *False Decretals* were exposed as forgeries by the Magdeburg Centuriators (1st volume, 1559) and definitively by David Blondel (1628). Flacius here, in 1556, is already naming the corpus as fabrication three years before the Centuries' systematic demolition.
+
+**¹⁰¹** *Episcopus episcoporum* — "bishop of bishops." That the pseudo-Clementine letter itself assigns this superlative-of-superlatives to James of Jerusalem, not to Peter or the Roman see, is Flacius's coup: the very forgery that the papacy invokes for its primacy testifies against papal primacy from within its own text.
+
+**¹⁰²** Matt 15:14 — *si caecus caeco ducatum praestet, ambo in foveam cadunt* ("if the blind lead the blind, both fall into the ditch"). The Pseudo-Clementine letter incorporates the dominical logion; Flacius uses it against the papacy's own claim that its magisterium is a blind-doctor pastorate.
+
+**¹⁰³** *Primates seu patriarchae debent finire causas* — "primates or patriarchs ought to end causes." The letter itself, forged though it is, records the pre-Roman appellate order of the ancient Church, in which regional patriarchs (Alexandria, Antioch, Constantinople, Jerusalem, Rome as *primus inter pares*) each had final jurisdiction within their own patriarchates. The centralising Roman appellate model — which Gregory VII systematised (*Dictatus Papae* §21, 1075) — is later.
+
+**¹⁰⁴** The direct apostrophe to the Pope — *Utinam hoc Papae persuaderi posset, ut, omissis penitus negocijs temporarijs politicoq[ue] gladio, tantum doctrinae Euangelij instruendo, populo vacaret* — is Flacius's polemical high-water mark of the entry: the pseudo-Clementine letter's own counsel becomes his rebuke of the reigning papal claim to the *gladius temporalis*.
+
+**¹⁰⁵** *ἀκαταστασία* (*akatastasia*) — instability, disorder, disturbance. A biblical Greek term (Jas 3:16, 1 Cor 14:33, Luke 21:9); Flacius uses it to characterise Roman polemical argument as fundamentally *disordered* against the truth-of-Scripture. The preservation of the Greek is characteristic of the *Catalogus*'s learned register.
+
+## From the Catalogue — Dionysius (vl0017)
+
+**¹⁰⁶** **Eusebius, *Historia Ecclesiastica* IV.23.7** — the record of Dionysius of Corinth (fl. c. 170) writing to *Pinytus, Bishop of Cnossos*, urging him not to impose an excessive burden of enforced celibacy on his people. Eusebius's report is our only source for Dionysius; the exchange is significant because it shows that already in the sub-apostolic age, one bishop was rebuking another for over-strict ascetic imposition — the pattern Flacius reads as *sanior doctor vs. ceremonies-imposing rigorist*.
+
+**¹⁰⁷** **Hebrews 5:12–14** — the milk-and-solid-food distinction Flacius reads Pinytus's response as invoking. Cf. also 1 Cor 3:2 and 1 Pet 2:2. That the sub-apostolic bishop reaches for the New Testament typology of infant-vs-mature doctrine, rather than for ceremonial-observance metrics of piety, is Flacius's evidence that the earliest bishops thought like the Reformers.
+
+## From the Catalogue — Egesippus / Hegesippus (vl0017–vl0018)
+
+**¹⁰⁸** **Eusebius, *Historia Ecclesiastica* III.32.7–8 and IV.22.4–5** — the famous fragment from **Hegesippus** (fl. c. 165–175, whose lost *Hypomnēmata* / *Memoirs* Eusebius preserves) on the Church's virginity until the death of the last apostle (John, †c. 100 or Symeon of Jerusalem, †c. 106), whereafter *ἡ ψευδώνυμος γνῶσις* ("the falsely-so-called gnosis") entered *ὡς εἰς οἶκον ἔρημον* — "as into a deserted house." Flacius reads Hegesippus's testimony as apostolic-succession evidence *against* papal-infallibilist claims: even Hegesippus, an anti-Gnostic witness sub-apostolic in his origins, acknowledges that error entered the post-apostolic Church early and widely — which cuts against any claim of continuous doctrinal purity, and *a fortiori* against papal claims to have never erred.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
