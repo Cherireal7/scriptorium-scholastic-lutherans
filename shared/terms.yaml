@@ -3352,12 +3352,73 @@ hilarius_arelatensis:
     to Leo Ep. 10 (PL 54:628-636) 445 + Valentinian III Novella 17
     445 confirming Roman appellate jurisdiction over Gaul.
 
+# ─── Tranche 2m — Ius civile + Celestine + Socrates + Aug-A (vl0066-72) ─
+
+novellae_iustiniani:
+  english: Justinian's Novellae
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ius civile at vl0066"
+  note: >
+    Novellae Constitutiones 534-565 — Justinian's imperial legislation.
+    Novellae 123, 137 requiring consecrations cum illustri voce in
+    language known to congregation = imperial-law witness against later
+    Roman Latin-only liturgy. Novellae 3, 131 establishing Constantinople-
+    Rome patriarchal equality.
+
+celestinus_de_veste_clericorum:
+  english: Celestine on clerical dress (doctrina non veste)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Celestinus primus at vl0067"
+  note: >
+    Celestine I Ep. 4 to Vienne+Narbonne bishops 428 (PL 50:429-436)
+    — Clergy distinguished doctrina non veste, conversatione non habitu,
+    mentis puritate non cultu. Widely cited Reformation locus against
+    clerical distinctiveness by external observance and monastic dress.
+
+socrates_scholasticus:
+  english: Socrates Scholasticus HE V.22
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Socrates at vl0069"
+  note: >
+    Socrates HE V.22 — classic Reformation locus on regional variation
+    in fasting, liturgical, and clerical-marriage customs. Proof-text
+    that early Christian practice was diverse, not uniform, and that
+    uniformity-drive is later medieval imposition. Preserved via
+    Cassiodorus Historia Tripartita IX.38.
+
+augustinus_ep_55:
+  english: Augustine Ep. 55 to Ianuarius on ceremonial-burden
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Augustinus at vl0069"
+  note: >
+    Augustine Ep. 55 (formerly Ep. 119, PL 33:204-223) — the celebrated
+    lament that Christians burdened themselves with ceremonial-observance
+    more than Jews under the Law. Reformation locus classicus for
+    Augustinian critique of ceremonial-proliferation.
+
+non_praecedunt_bona_opera:
+  english: Bona opera non praecedunt iustificandum, sed sequuntur iustificatum
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Augustinus at vl0071"
+  note: >
+    Augustine De Fide et Operibus 14 (PL 40:212). Proof-text for
+    Reformation-Lutheran ordering of justification-before-sanctification.
+
+crede_et_manducasti:
+  english: Crede et manducasti (Augustine on spiritual eating)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Augustinus at vl0070"
+  note: >
+    Augustine Tractatus in Iohannem 25.12 (PL 35:1602) Quid paras
+    dentem et ventrem? Crede, et manducasti. Reformation sola-fide +
+    eucharistic-theology locus classicus for spiritualis manducatio.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Symmachus (vl0001-vl0066, 66 body pp
-# + 32 paratexts ≈ 12% of 1094-pp body). Flacius lemma total: 10 seed +
-# 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) +
-# 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) +
-# 4 (T2l) = 83.
+# FLACIUS 1556 — TRANCHE 2 through Augustine part A (vl0001-vl0072, 72 body
+# pp + 32 paratexts ≈ 13.1% of 1094-pp body). Flacius lemma total: 10 seed
+# + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d)
+# + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k)
+# + 4 (T2l) + 6 (T2m) = 89.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

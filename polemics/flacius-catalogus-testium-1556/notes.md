@@ -2,7 +2,7 @@
 
 Scholastic Lutherans working file. This is the operational scratchpad for the translation; the reader-facing Translator's Note lives at `review/flacius-catalogus-testium-1556.md`.
 
-**Latest addition:** Tranche 2l batch — Polychronius (Juvenal of Jerusalem) + Hilary of Arles + Pope Symmachus — vl0061-vl0066 — 2026-08-30. **Body-coverage now 12% (66/1094).**
+**Latest addition:** Tranche 2m batch — Ius civile (Justinian's Novellae) + Pope Celestine I + Socrates Scholasticus + Augustine part A — vl0066-vl0072 — 2026-08-30. **Body-coverage now 13.1% (72/1094).**
 
 **Session log:** kick-off scaffold 2026-08-30 (commit `9c1eb56`) · source sighting 2026-08-30 (commit `caa5c62`) · Tranche 1a paratexts translated 2026-08-30 (commit `91377ca`) · Tranche 1b dedication middle filled 2026-08-30 (commit `b2ca187`) · Tranche 2 opened with Sanctus Petrus entry vl0001-vl0007 2026-08-30 (commit `dd774a7`) · Tranche 2 continued with Sacrae literae vl0007-vl0011 2026-08-30 (commit `7782b72`) · Tranche 2c batch — Canones + Graeca Ecclesia + Clemens + Dionysius + Hegesippus vl0011-vl0018 — 2026-08-30 (commit `c3eb273`) · Tranche 2d batch — Polycarpus + Polycrates + Irenaeus vl0018-vl0022 — 2026-08-30 (commit `3e50b4e`) · Tranche 2e batch — Council of Elvira/Constantinople + Clemens Alexandrinus vl0022-vl0027 — 2026-08-30 (commit `d453689`) · Tranche 2f batch — Methodius Graecus + Iustinus Martyr + Ravenna/Aquileia/Milan + Ecclesiae Sclavonicae + Anglica ecclesia + Apollonius + Attalus vl0027-vl0031 — 2026-08-30 (this file's current revision).
 

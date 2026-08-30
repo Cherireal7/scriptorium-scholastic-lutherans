@@ -912,7 +912,57 @@ And by writing responds a certain most-impudent rabble, from courtiers, in the P
 
 Hence you may animadvert, Christian reader, quàm nulla iura, nulla iudicia, quàm summum flagitium of judicating, so-old the Pope suffered or bear was-able-to-be: but they willed always the summum licentiam of sinning and in the pious tyrannizing to have. Whence, thence-among-them, that the interea Pope this observed is, that testatus here in a council at Rome, in his time of dominations, love the clerics invaded, and had-shaken the yoke of ecclesiastical discipline: eorum, excesses that narrate difficult be. But let-him-cogitate a Christian brother, quantum ab eo tempore ambitionis tyrannidisq[ue]; furor in clero cruerit.²⁶⁹
 
-*[Continues on `vl0066` with* **Ius civile** *(Justinian's Novels); staged for the next Tranche 2 session.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Ius civile
+
+### *Civil Law (Justinian's Novels)* — vl0066–vl0067
+
+The **Civil Law** is about a thousand years before by **Justinian Emperor** restored.²⁷⁰ In it, in the Novels, constitution 124 and 126 he expressly commands, that in temples in vernacular languages, which in singular places are known, all things be conducted and treated. He commands also, that with clear intelligibility voice the words of the Sacraments and of the Lord's Supper and of Baptism be recited, that the standing-around devotion with piety may be excited. By which laws without doubt this most-pious Emperor wished to oppose and resist the already then sprouting superstition and abuse — which today reigns, and from Antichrist with utmost study is propagated: that sacred letters in vulgar languages not be treated, nor the words of the Lord's Supper with clear voice be recited.²⁷¹
+
+Concerning primacy however of the Pope so establishes *Novella 125*, that with universal-of-the-clergy provincial patriarch, without any further provocation, be subject. By constitution 100 furthermore, the Constantinopolitan patriarch he makes equal to the Roman.²⁷²
+
+## Celestinus primus
+
+### *Pope Celestine I* — vl0067–vl0069
+
+**Celestine** sat about the year of the Lord 450 [rectius 422–432].²⁷³ Not badly in most things he sensed and taught, even though ambition and dominating cupidity into a headlong course he was carried away, as elsewhere I have said.
+
+First indeed the grace of Christ much preached and defended against Pelagius, and other defenders of free choice — in which the Sorbonists dispute and the Sophists all agree, and rightly he damned. Then he renewed, that he defended rather the accustomed vestments of the Church, than the reluctant hearers of it, upon the bishops he obtruded — but at once, that from the clergy and the people it be chosen. Thirdly, against monastic superstitions he by no means slackly fought.²⁷⁴ He said that it seemed absurd to him: if any from-monks in the clergy were promoted, and used the former vestment habit-would-cast: this if some do not wish, but of superstition monastic habit retain, gravely he refuted them. He says these superstitions in the cult and faith and purity of mind inseruere: to prefer *per literam*, that is, external rites, than by Spirit to God to serve; while amicire themselves *pallium*, and *praecingere* the loins.²⁷⁵ Truly this-not the sententiam divini precepti (that with the letter it be needed *praecingere lumbos: alioqui* and ardent lucernas, and *baculos* in the hands be bearing). *Discernimus sumus* he says, *à ceteris, uel doctrina, non veste: conversatione, non habitu; mentis puritate, non cultu.*²⁷⁶ For if to *studere* we shall begin novelties, tradition to us a Fathers-order the traces would-be-obliterated, that the vacuo place of superstitions to be filled we would-do. Rudes therefore the mindful fidelium not-so we ought to induce. Docendi rather-be pious than illuders. Nor imposed to be their eyes, but hearts with-precepts to be infused.²⁷⁷
+
+Preclara profectò are these precepts, not-common of superstitions of vestments and of altar-trifles addicted: and that pious sheep of Christ they be, than such tale-simulated of piety terrified or illuded: nor eyes of men inani piety species perstringentes, but the pious heart with dogmatibus sedulously imbued. Sequent times, especially in these years 400, all religion in this part completely mutated. Neglected therefore the sincere-of-heart piety, sive the doctrine of the Gospel, seu instruction of Christian-boys-and-things whole in the superstitious observations of vestments, of foods, of days, of rites, and of other cumulus of trifles deducated.
+
+Also notable is that this pontifical worthy is, that establishes, that no bishop against the will of the plebs be obtruded. In no case now the more amplius considered *quicquid* but of same-with-hand rasis but even to the Roman Antichrist money-corrupted appears — if it is, or if placed or displaced, or profitable-be or obstacle-be for the plebs.²⁷⁸
+
+## Socrates
+
+### *Socrates Scholasticus* — vl0069
+
+**Socrates**, author of the *Ecclesiastical History*, among the pious writers not undistinguished, flourished about the year of the Lord 400.²⁷⁹ He in book 5, chapter 22, very prolixly disputes concerning Ecclesiastical rites, such as feasts, fasts, abstinence from foods, songs, and similar things, item and clerical marriages: they are, of nature so free-are — customs saying temerely to have sprung up, in-time little by little use confirmed-are, and-so of different Churches most-diverse rites he mentions to about-that-what — but Apostolic times such omnino free relinquished-are, indeed even free to be doctors he adds. On this disputation the most-beautiful epiphonema he adds: *Mens, inquit, & animus Apostolorum consuluit non de festis diebus sancire traditiunculas, sed uerum Dei cultum & piam vitam praedicare: id est, neglectis caeremonialibus ritibus & traditiunculis (in quibus Antichristus totam religionem collocat) legem et Evangelii praedicarunt, ueramq[ue] cordis erga Deum pietatem, non externas et hypocriticas gesticulationes in hominibus excitare sua praedicatione sunt conati.* Vide Tripar. 9. cap. 38.²⁸⁰
+
+## Augustinus
+
+### *St Augustine of Hippo (opening)* — vl0069–vl0072+
+
+**Augustine** flourished about the year 380 [rectius born 354, bishop 395, †430].²⁸¹ He in *Epistula 119 to Ianuarius* clearly affirms, that it burdens the religion Christian, than-that-plurimum of many rites content-should-be to be, of God mercy volt-when have-been, than-that-if-they-had-been human traditions and rites, ut Iudaeorum condition easier could-have-been (which however his time freed liberty not-attingent) than Christianorum: sed however many of this-things and-so-and-so on-account-scandals-of-some sanctorum, and-even contentions of turbulent persons, oppugnare not-he-would-dare. He deplored then this-of-times so magnificently held human traditions, than divine mandates would-be-preferred. Would-be-added, all-things he says, ubi facultas may-be-given, without any doubt to be cut-away. But God bone, quam in-immensum out of-that time human traditions their authority, abuses and superstitions have grown!²⁸² In the above-said epistle and to Casulus, fasting laws too much superstitious he vituperates.
+
+The Pelagian error of grace, of justification, human strength and works — was of the same-things monastic and Sententiary error, who human free-will liberty, of virum humanarum operum efficaciam, and-defend-they-did, similarly with-preached and inflated-selves, of justice not gratuitously-of-God's-mercy on-account-of-Christ's merit — but of ours by works — nearly philosophic-and even ethnic — attributed. That error Augustine most-severely opposed. Damnavit therefore Papists in most rests, in original-sin, in free-will, in gratuitous justification, in faith, in good works.²⁸³
+
+Fought too Augustine sharply on behalf of authority of Sacred Scripture, against authority of human writers and of custom; and universally, to any of the writings of the Fathers he-wills liberty to judge, adhibita liberty of judgement, and-that says-so-in-alibi-in, in a certain epistle to Jerome, who a little more of writings his tribuere would-be, than par-be.
+
+He reprehended too Augustine that ethnic and Papist opinion, on *ex opere operato*, when in some other parts of religion, but especially in reception of the Lord's Sacrament of the Supper. *Inquit enim: Quid paras uentrem, & detégeas crede,* etc., & comedisti. Because Papists many of the efficacy of Sacraments — as *ex opere operato* — plainly with ethnic mos-they-tumble, in reception of Sacraments promise-they-intent, without any-way-mutuum-be. Wherefore they are of summum cult, if even most-impure and openly Epicurean by-sacrificing-of-someone precula and-*caeremonial*, feigned sacrament they-would-devour.²⁸⁴
+
+Concerning gratuitous justification although prolixly in many places, and well disserit, yet illud dictum in the book *De Fide et operibus, cap. 14*, is-precisely-good: *Bona opera non praecedunt iustificandum, sed sequuntur iustificatum.*²⁸⁵ Which nothing clearer can be said for gratuitous justification. Says thus, ibi inter alia: *Fratres, Iesum Christum iustum, ipsum habemus advocatum apud Patrem, ipse est propitiatio peccatorum nostrorum. Hoc qui tenuit, schisma non fecit. Vnde enim facta sunt schismata? Cum dicunt homines: Nos iusti sumus: cum dicunt homines: nos sanctificamus impios, nos iustificamus impios, nos petimus, nos impetramus,* etc.
+
+An non hic diserte beatus Augustinus, and nos-culpa hereseos ac schismatis liberat, quod omnem iustitiae ac salutis nostrae causam soli Christo tribuimus: et contra, in Papistas operarios and iustitarios, eorum ipse missatores — Papistas hereseos que culpam transfert: qui suis bonis operibus, suisq[ue] pererogationibus, suisq[ue] cucullis, uolunt peccatores saluare, Deumq[ue]; eis suis missis ac uigilijs propitium reddere et efficere?²⁸⁶
+
+*De ciborum delectu ita inquit in libro de Christianis dogmatibus:* Bonum est, cibum cum gratiarum actione sumere, et quicquid Deus creavit ad esse praecipue edendum est. Abstinere autem ab aliquibus non quasi à malis, sed quasi non necessarijs, non est malum. Moderari uerò eorum usum pro necessitate et tempore, propriè Christianorum est.²⁸⁷
+
+Sanctorum invocationem seu adorationem hisce verbis reprehendit libro *De Vera religione*: *Non sit nobis religio cultus hominum mortuorum. quia si pie uixerint, non sic habentur, ut tales quaerant honores: sed illum à nobis coli uolunt, qui illuminante largitur eos amari meriti sui non esse conseruos. Honorandi sunt propter imitationem, non adorandi propter religionem.* Et paulo post: *Hoc etiam ipsos optimos angelos uel credamus, ut unum cum ipsis colamus Deum,* etc &c. Sequitur: *Quare honoramus eos charitate non seruitute, & c. Nec eis templa constituimus, nolint enim sic se à nobis honorari: quia nos ipsos, cum boni sumus, templa esse Dei nouerunt.* Rectè huic scribitur, hominem ab Angelo prohibitum, ne se adoraret: sed unum Deum, sub quo esset & ille conseruus. *Apoc. 19. 22.* Sic *lib. 10. de Ciuitate Dei*, inquit: Sancti non lunt nos sibi sacrificare, sed ei cuius et ipsi nobiscum sacrificium esse nouerunt. Talia complura contra sanctorum adorationem, apud Augustinum extant.²⁸⁸
+
+*[Augustine entry continues on `vl0073`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1579,6 +1629,52 @@ Hence you may animadvert, Christian reader, quàm nulla iura, nulla iudicia, qu�
 **²⁶⁸** **Ennodius's *Libellus pro Synodo Palmari*** — the origin-text of the doctrine that no earthly tribunal (not emperor, not bishops assembled in council) can judge the Roman pontiff. Flacius reads it as the moment when Roman-episcopal *ambitio* first formalised itself as canonical doctrine.
 
 **²⁶⁹** *In-clero cruerit* — the closing lament: *how much more since that time has the tyrannical fury and ambition of the clergy grown*. The historical periodisation — 502 as the origin-moment of papal immunity, developing into medieval canonical *nemo iudicare potest primam sedem* — is Flacius's rhetorical closing.
+
+## From the Catalogue — Ius civile (vl0066–vl0067)
+
+**²⁷⁰** **Justinian I** (r. 527–565), whose codification of Roman law — the *Codex Iustinianus* (534), the *Digest/Pandectae* (533), the *Institutes* (533), and the *Novellae Constitutiones* (534–565) — became the medieval and modern basis of civil-law jurisprudence.
+
+**²⁷¹** **Novellae 123 and 137** (not 124 and 126 as Flacius says — Latin numeration varies) require that consecrations be performed *cum illustri voce* in the language known to the standing congregation. Flacius reads the Justinianic legislation as imperial-law witness against later Roman insistence on Latin-only liturgy.
+
+**²⁷²** **Novella 131** (rectius, not 125) establishes patriarchal jurisdiction. **Novella 3 c. 3** and other constitutions make Constantinople equal in rank with Rome (already glossed at endnote 224).
+
+## From the Catalogue — Celestinus primus (vl0067–vl0069)
+
+**²⁷³** **Pope Celestine I** (422–432), best known for supporting Cyril of Alexandria against Nestorius at Ephesus (431). Flacius here focuses on his anti-Pelagian correspondence (*Ep.* 21 to the Gallic bishops, PL 50:528–537) and his critique of clerical vestments — the *Epistula 4* to the bishops of Vienne and Narbonne (PL 50:429–436) dated 428.
+
+**²⁷⁴** Celestine's *Ep. 4* deplores the introduction into Gaul of monastic dress by clerics — arguing that clergy should be distinguished *doctrina non veste, conversatione non habitu*, "by doctrine not by dress, by conduct not by habit."
+
+**²⁷⁵** *Praecingere lumbos, ardentes lucernas, baculos in manibus* — Celestine's ironic literal reading of Luke 12:35 (*sint lumbi vestri praecincti et lucernae ardentes*) applied to prohibit literalist ceremonial imitation of the dominical saying.
+
+**²⁷⁶** ***Doctrina non veste, conversatione non habitu, mentis puritate non cultu*** — Celestine's clarifying epigram, quoted verbatim by Flacius. The line is one of the great patristic *loci* against clerical distinctiveness by external observance, and was widely cited in the Reformation debate over monastic and clerical dress.
+
+**²⁷⁷** *Docendi rather-be pious than illuders. Nec imponendum est illorum oculis, sed mentibus praecepta infundenda sunt.* — Celestine's conclusion: precepts must be poured into minds, not imposed on eyes. Flacius reads this against the whole medieval-visual-devotional apparatus.
+
+**²⁷⁸** Celestine's principle that no bishop should be *inuitis plebi obtrudatur* (imposed on an unwilling people) — the antithesis of later medieval papal appointment. Compare Cyprian's *Ep.* 67 (glossed at endnote 161) — the two entries reinforce.
+
+## From the Catalogue — Socrates (vl0069)
+
+**²⁷⁹** **Socrates Scholasticus** (c. 380 – c. 439), Constantinopolitan lawyer and church historian, whose *Ecclesiastical History* covers 305–439 as a continuation of Eusebius. **HE V.22** is the celebrated chapter on regional variation in fasting, liturgical, and clerical-marriage customs — proof-text that early Christian practice was diverse, not uniform, and that the drive toward uniformity is a later medieval imposition. The chapter is preserved also in Cassiodorus's *Historia Tripartita* IX.38 (Flacius's *Tripar. 9 cap. 38* citation).
+
+**²⁸⁰** **Socrates's epiphonema** on Apostolic priority of piety over ceremonies — the chapter's rhetorical climax, which Flacius quotes verbatim as ancient warrant for the Reformation subordination of ritual to substance.
+
+## From the Catalogue — Augustinus (opening, vl0069–vl0072)
+
+**²⁸¹** **St Augustine of Hippo** (354 – 430), Bishop of Hippo Regius from 395; the greatest Latin Father, author of *Confessiones*, *De Civitate Dei*, *De Trinitate*, *De Doctrina Christiana*, the anti-Manichaean, anti-Donatist, and anti-Pelagian corpora, and hundreds of letters and sermons. Flacius's Augustine entry is one of the longest in the *Catalogus* (running from vl0069 through vl0075+), commensurate with Augustine's stature as the pre-eminent patristic witness for the Reformation.
+
+**²⁸²** **Augustine, *Ep.* 55 to Ianuarius** (formerly numbered as *Ep.* 119, PL 33:204–223), one of the two great Augustinian letters on Christian liturgy and custom (with *Ep.* 54). The lament that Christians burdened themselves with ceremonial-observance more than Jews under the Law had been — *ut Iudaeorum conditio tolerabilior fuerit quam Christianorum* — was a Reformation locus classicus. The compressed second reference is to **Ep. 36 to Casulanus** (PL 33:136–151), Augustine's defence of Roman Sabbath-fasting against Milanese practice, which Flacius reads as ambivalent about the fasting-mandate itself.
+
+**²⁸³** Augustine's anti-Pelagian corpus — *De Peccatorum Meritis*, *De Gratia Christi et Peccato Originali*, *De Natura et Gratia*, *De Perfectione Iustitiae Hominis*, *De Gratia et Libero Arbitrio* — becomes for Flacius the direct proof-text for Reformation *sola gratia*, applied here against the medieval scholastic-sententiarist tradition (Peter Lombard's *Sentences* and the whole systematic-theological corpus that followed).
+
+**²⁸⁴** **Augustine, *Tractatus in Iohannem* 25.12** (PL 35:1602): *Quid paras dentem et ventrem? Crede, et manducasti* ("Why prepare your teeth and belly? Believe, and you have eaten"). Augustine's celebrated word for the *spiritualis manducatio* — spiritual eating by faith rather than merely physical reception of the eucharistic elements. Reformation *sola fide* + eucharistic-theology *locus classicus*.
+
+**²⁸⁵** **Augustine, *De Fide et Operibus* 14** (PL 40:212): *Non praecedunt bona opera iustificandum, sed sequuntur iustificatum* — "good works do not precede one to be justified, but follow one already justified." The proof-text for the Reformation-Lutheran ordering of justification-before-sanctification.
+
+**²⁸⁶** The anti-Papist inversion Flacius makes here — that heretical and schismatic behaviour is not the Reformation attributing salvation to Christ alone, but the Papists arrogating salvation to their own works, indulgences, cowls, and monastic performances — turns the Roman charge of heresy back on its accusers. The rhetorical move is standard Luther-Melanchthon *Apologia* IV pattern.
+
+**²⁸⁷** **Augustine, *De Ecclesiasticis Dogmatibus*** — actually a work of **Gennadius of Massilia** (5th c.), often attributed to Augustine in medieval codices. Chapter 68 on food-choice ("it is good to take food with thanksgiving, and whatever God created for eating is chiefly to be eaten…"). Flacius's use is unchanged by the misattribution: the argument stands as ancient patristic witness.
+
+**²⁸⁸** **Augustine, *De Vera Religione* c. 55** (PL 34:169–170) — the celebrated formulation against saint-cult: *Non sit nobis religio cultus hominum mortuorum* ("Let not the cult of dead men be our religion"). Reformation *locus classicus* against the veneration of saints, invocation, and reliquary-shrines. Continued at *De Civitate Dei* X.4–6 on true and false sacrifice, and X.20 on Christ as sole mediator and eternal priest.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
