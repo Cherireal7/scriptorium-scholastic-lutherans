@@ -598,7 +598,67 @@ There was a certain **Alcibiades** among the number of those who for Christ's sa
 
 Whence it clearly appears that from the beginning pious men — indeed the Holy Spirit himself — sedulously resisted the endeavours of superstitious men of ceremonies, who placed religion and piety in the use or abstinence of foods and in fasts. But at last human blindness, of Antichrist, superstition and hypocrisy — the *doctrines of demons* about abstinence from foods — obtruded themselves on the Church of God, whether it would or would not. Wickedly then do the Papists in this time, who all these abuses, superstitions, and impieties of the Church of God, to the Holy Spirit — against their own conscience — attribute. If yet however some little monk who lives on modest bread, salt and water, they have — they call him already spiritual…
 
-*[The Attalus entry continues into the top of `vl0032`; staged for the next Tranche 2 session.]*
+…of Antichrist — they would soon canonise him into the third heaven, and his flesh and bones, indeed the very putrefactions of his shoes and (that we may say it) even of his under-garment: perhaps also his stercus in impudence, on the ducats-sum, as though as thirds and quarters, as holy relics they would divide, and set up for cult of God.¹⁵⁹
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Cyprianus
+
+### *St Cyprian of Carthage* — vl0032–vl0033
+
+**Cyprian** lived about the year 240.¹⁶⁰ He contended that to all the giving of the Lord's blood; and asserts that the calling of priests and bishops is in the power of the Church, or the plebs of the Christians. For thus he says in the epistle to Felix the presbyter:¹⁶¹
+
+*"The obsequious observance of the divine precepts, and the fearing of God, from a set-up sinner ought to be separated: nor to blend himself with the sacrileges of a sacrificing priest — since it maximally has in his power, to elect either worthy priests, or to refuse the unworthy. Which we see with divine authority to be derived, so that the priest, in the presence of all his own subjects, is elected, in eyes, and worthy and idoneous is proved by public judgement and by testimony. So in Numbers Moses is commanded by the Lord, saying: Take Aaron thy brother, and Eleazar his son, and impose them upon the mountains before all the synagogue, and strip Aaron of his robe, and put upon Eleazar his son: and let Aaron be gathered there.¹⁶² Before all the synagogue God commands the priest to be constituted: that is, he instructs and shows, that priestly ordinations ought not to be done, unless with the presence of the people-standing, that either the crimes of evils may be laid open, or that the merits of the good may be proclaimed: and thus the ordination may be just and legitimate, which has been examined by the suffrage and judgement of all. Which afterwards is observed, secundum divinam magistrai, in the Acts of the Apostles, when — Peter to the plebs is speaking — to be ordained in the place of Judas the apostle. Nor does this indeed of Bishop and priest only, but even of diaconal ordinations to have been observed the Apostles noted."*¹⁶³ These are his own.
+
+In the treatise on the *Simplicity of the Clergy*, he disputes: that the same was true of the other Apostles as of Peter, of equal both honour and power.¹⁶⁴ Wherefore he calls bishops and their successors *pares dignitate & potestate* — equal in dignity and power. The Roman Pope also, in his own epistles, calls them his brothers, his co-priests, and his colleagues; and thus writes: see him, in what manner. When Cornelius the Pope's election was rumoured to be tainted, and had been said to be a rumour in Africa, he writes to the Roman clergy — to prove that his election had been rightly done, and asserts himself to be no legitimate right vindicating in himself.¹⁶⁵ Then Metropolitanus Carthaginensis was, and even sub-summoning councils among the other Metropolitans by right and power.
+
+## Gregorius
+
+### *St Gregory of Nazianzus, "The Theologian"* — vl0033–vl0034
+
+**Gregory**, by pre-eminence *the Theologian* called, a man conspicuously pious and erudite, flourished about 1200 years before this — that is, 300 years after Christ.¹⁶⁶ He writes in a certain epistle, that up to this point some synod he had seen, in which not indeed more of evil than of good: so great contention and ambition of the bishops has grown up, on which he says himself in his mind to be, that all synods he avoid.¹⁶⁷ And when it fell out under those times, that of homines-crescents, especially the spiritual and Romanists, of the ruling Church, not so much of negligence and rudeness as of a wicked malice, so that infinitely-many false things in councils would be decreed. And our Antichrists still snoring contend, nothing in the church of errors or of abuses to have crept in, nor for that reason to itself of reformation to be in need? Thus indeed he says in his verses:
+
+*Flagitium est in coloribus, & nota in coloribus. Ea enim quae in coloribus existit, faciliter eluitur: Quae uero in profundo mentis, illa mihi amica.*¹⁶⁸
+
+("Disgrace it is in colours, or a mark in colours. For what exists in colours, easily is washed away: but what is in the depth of the mind, that is my friend to me.")
+
+## Lactantius
+
+### *Lactantius* — vl0034
+
+**Lactantius** flourished in the year 300. He vehemently inveighs against **images**, and against the *candelae* which by day in temples were kindled, and against other similar things which were afterwards from the pagans to the Christians transferred.¹⁶⁹ He says that images are superfluous and noxious, and themselves the very seat of demons. On the cult and sacrifices he disputes beautifully: that God is not by corporeal things, but by a pious mind and by justice, to be delighted — and not by structure of temples, not by precious donaria, etc.¹⁷⁰ Just as also now the Papists sense, and Daniel predicted, that Antichrist would be, with his gold-worshipping and gems-worshipping.¹⁷¹ It appears then hence, and from what Christ's eternal priesthood eruditely he disputes: that only perpetual priest he asserts him to be — how what be the Papistic mass, plainly ignored.
+
+## Epiphanius
+
+### *St Epiphanius of Salamis* — vl0035–vl0036
+
+**Epiphanius**, who lived about the year 370, in the chapter against the **Collyridians**, most vehemently reprehends the *adoration of Mary* and of other saints, since he wills not at all that anyone adore, besides God: this error prolixly he damns, as a most bad heresy.¹⁷² If then the invocation of the saints is held for a catholic and orthodox dogma — contrary indeed to the opinion which the Roman Church now they contend to be pious — for a most-pestilent heresy is damned; from which, having grown that Antichrist reigns, the whole nature of things has been changed.
+
+Epiphanius testifies the same, in his epistle to **John, the Hierosolymitan Patriarch**, that he had torn — with him present — the veil in a certain Christian temple: since in the veil was painted the image of Christ or of some saint. And vehemently he disapproves of images: which then to have been little in use, from the same epistle most clearly appears. This epistle indeed from the Greek Jerome translated, and vehemently praises Epiphanius. Whence it appears that he himself was of the same opinion; otherwise certainly he would not have converted it into Latin, if he had judged it wicked.¹⁷³ The same matter Epiphanius treats also in the book *Ancoratus*.¹⁷⁴ Hither also can be referred what Epiphanius wrote against the **Encratites**. There were among them our monks similars. But let us subscribe a few things of his own words:¹⁷⁵
+
+*"Attend to yourselves" (he says) "that ye keep the traditions which ye have received; ye may not decline neither to the right nor to the left, neither to the sinister. Which he insinuates by these things: Be mindful, sons of the elect, that ye not introduce images into the Church, nor set them up in the cemeteries of the saints, but always carry God about with you in your hearts. Furthermore neither in the common house is it lawful, that a Christian by his eyes should be kept in suspense, nor by preoccupation of the mind."*¹⁷⁶ The same likewise in other sermons of his own, on the subversion of images, said many things: which the studious seeking, may easily find.
+
+## Agapiti
+
+### *The Agapetae* — vl0036
+
+**The Agapetae** were once numbered among the heretics.¹⁷⁷ Now the Agapetae were — as those transmit — men of either sex, who *simulating virginity*, and separating themselves from their parents-cognati, so as though more holily-apart from the world habitually to dwell, likewise from clerics adjoining themselves. But — as many writers affirm — more cautiously than chastely they lived. The whole matter was to our monks a monkishness and consimilar. **Jerome** wrote against them.¹⁷⁸ But the writing so vehemently in his time displeased the clerics — as he himself testifies — that even at Rome, on that account, he was very nearly stoned. For there in it, with not obscure colours, is depicted the spiritual clericorum and of monks and of that pseudo-virginity impure impurity chastity. Whence it is no wonder, Christian reader, if of our-consimilar-argument written in this time, from the Romanists be stoned.
+
+## Vigilantius
+
+### *Vigilantius* — vl0037
+
+**Vigilantius**, who flourished about the year 360, attacked the *cult of saints*, the *adoration of relics and images*, the *lighting of candles by day*, and other similar trifles: item, celibacy of the spirituals — and is said to have had many bishops as consenters.¹⁷⁹ Whom although **Jerome** as a heretic immoderately proscribes (as also Erasmus testifies), and his errors exaggerates: nonetheless probably, and perhaps even truly, following Bullinger in the book *On the Origin of Error*, chapters 16 and 17 he is excused.¹⁸⁰ And truly if anyone shall have read Jerome's writing, easily will animadvert that only-abuse and reproaches upon the man have been heaped, but nothing firmly is asserted to the confutation. Would that the *coniugium* in ordaining priests had been necessary (as Jerome to Vigilantius, and to the consenters of the bishops writes) more than to have condemned celibacy — Sounder assuredly pastors, and not-a-little-less of libido and of prodigious turpitudes and of other wickedness in the Church of God we would have — than hitherto we have had — that I may keep silent on the purity of religion, which by these most-filthy Heliogabalians was contaminated and corrupted.¹⁸¹
+
+## Antonius heremita
+
+### *St Anthony the Hermit* — vl0037–vl0038
+
+**Anthony the Hermit**, greatly celebrated, likewise flourished about 350 of Christ's year.¹⁸² In his superstition about ceremonies (as they call them) of the liquids…
+
+*[The Antonius entry continues on `vl0038`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -991,6 +1051,68 @@ Whence it clearly appears that from the beginning pious men — indeed the Holy 
 **¹⁵⁷** **Attalus of Pergamon** (†c. 177), martyred at Lyon in the persecution under Marcus Aurelius. His story is preserved in the **Letter of the Churches of Lyon and Vienne** to the churches of Asia and Phrygia, quoted in Eusebius *HE* V.1–2. Attalus is one of the most-celebrated of the Lyon martyrs.
 
 **¹⁵⁸** **The Alcibiades episode** — Eusebius *HE* V.3.2–3 — the fellow-martyr Alcibiades practising extreme dietary asceticism in prison, Attalus receiving the revelation that Alcibiades was wrong to refuse God's creatures, Alcibiades then eating normally with thanksgiving. The episode is Flacius's proof-text that even in the earliest Christian centuries the Holy Spirit himself corrected ascetic-excess through revelation — an ante-Nicene warrant for the Reformation critique of forced fasting and celibacy.
+
+**¹⁵⁹** The relic-scatology of the Attalus-tail — Flacius's satirical *reductio* of the papal relic-cult, imagining canonisation of even a papal monk's shoe-putrefactions and under-garment stercus. The Rabelaisian-humanist register is deliberate; compare Luther's *Vom Papsttum zu Rom* (1520) for the same sarcastic reduction of relic-veneration to grotesque materiality.
+
+## From the Catalogue — Cyprianus (vl0032–vl0033)
+
+**¹⁶⁰** **St Cyprian of Carthage** (c. 200 – †258), Bishop of Carthage from 249, martyred under Valerian. His *Epistulae* and *De Ecclesiae Unitate* are foundational for Latin patristic ecclesiology. Flacius reads him as pro-Reformation on: (a) lay participation in episcopal election; (b) episcopal parity against Roman primacy.
+
+**¹⁶¹** ***Epistula* 67 (to Felix and the peoples of Legio and Asturica)** — one of Cyprian's most-cited letters, arguing that a corrupt bishop (Basilides of León) forfeits his office and that the *plebs* has the right to elect a worthy replacement. Reformation-era Latin editions (Erasmus, Basel 1520) rendered it accessible to Flacius. The letter is the *locus classicus* for early conciliar-electoral ecclesiology against papal appointment.
+
+**¹⁶²** **Numbers 20:25–26** — Moses's transfer of the priesthood from Aaron to Eleazar *coram omni synagoga* ("before all the congregation"), Cyprian's Old-Testament proof-text for public-electoral episcopal succession.
+
+**¹⁶³** **Acts 1:15–26** — the election of Matthias to replace Judas, Peter addressing the *plebs* (v. 15: "in the midst of the disciples, about 120"), the actual election by lot. Cyprian reads Acts 1 as apostolic warrant for congregational-electoral episcopal ordination.
+
+**¹⁶⁴** **Cyprian, *De Ecclesiae Catholicae Unitate* c. 4** (PL 4:513–515) — *Hoc erant utique et ceteri apostoli quod fuit Petrus, pari consortio praediti et honoris et potestatis* ("What Peter was, that were the other apostles too, endowed with an equal partnership of honour and of power"). This is the load-bearing patristic proof-text for the Reformation-Lutheran doctrine of apostolic parity against Petrine-primacy; Flacius returns to it repeatedly across the *Catalogus*. Note: this passage is preserved in the *textus receptus* of Cyprian; a competing "primacy" reading (the so-called *Textus Primatus*) is a later interpolation, on which post-Trent debates turn.
+
+**¹⁶⁵** **Cyprian, *Ep.* 44–45 (to Cornelius of Rome)**, defending the legitimacy of Cornelius's election against the schismatic claim of Novatian (Rome 251). Cyprian addresses Cornelius consistently as *frater* and *co-episcopus* — never as *sanctitas tua* or *pater papa*. Flacius reads the address-formulas as decisive against later Roman-monarchical claims.
+
+## From the Catalogue — Gregorius (vl0033–vl0034)
+
+**¹⁶⁶** **St Gregory of Nazianzus** (c. 329 – 390), one of the three Cappadocian Fathers, styled *ὁ Θεολόγος* (the Theologian) *par excellence* for his defence of Nicene Trinitarian doctrine. Bishop of Constantinople 379–381, then withdrew. Flacius's dating "300 post Christum" is off by ~30 years but points to the right figure.
+
+**¹⁶⁷** **Gregory, *Epistula* 130 (to Procopius)** — the letter in which Gregory famously declares he will avoid future synods because *οὐδέποτε γὰρ εἶδον σύνοδον χρηστὸν ἔχουσαν τέλος* ("I have never seen a synod come to a good end") — a formulation that became a Reformation locus for the argument that even the Fathers acknowledged conciliar corruption. See especially Melanchthon's use in the *Apologia* (BSELK 494).
+
+**¹⁶⁸** **Gregory Nazianzus, *Carmen* II.1.11 (*De vita sua*), lines 1680–1690** — one of the autobiographical poems, in which Gregory contrasts superficial and interior dishonour. Flacius's Latin translation *flagitium in coloribus vs in profundo mentis* renders the Greek antithesis of surface-versus-depth accurately, though the immediate context in Gregory is more personal than the papal-corruption application Flacius makes.
+
+## From the Catalogue — Lactantius (vl0034)
+
+**¹⁶⁹** **Lactantius** (c. 240 – c. 320), *Divinae Institutiones* Book II (*De origine erroris*) — the polemic against pagan image-cult, applied by Flacius against Roman icons. Lactantius's *diei lampades in templis* — daytime candles in temples — is a specific point (compare *Div. Inst.* VI.2.1); Reformation polemic against votive lights and vigil-candles regularly cites this.
+
+**¹⁷⁰** **Lactantius, *Divinae Institutiones* VI.24–25** — the treatise on the true worship, arguing that God is honoured *pia mente ac iustitia*, not by physical structure or precious donations. The Erasmian editions (Antwerp 1532, Basel 1544) made this available to Flacius.
+
+**¹⁷¹** **Daniel 11:38** — *Deum autem Maozim in loco suo venerabitur; et Deum quem ignoraverunt patres eius, colet auro et argento et lapide pretioso rebusque pretiosis* ("but the god of fortresses in his place he shall honour; and a god whom his fathers did not know he shall honour with gold and silver and precious stones and precious things"). Standard Reformation apocalyptic proof-text for the papal-Antichrist identification via the *aurum et gemmas* topos.
+
+## From the Catalogue — Epiphanius (vl0035–vl0036)
+
+**¹⁷²** **Epiphanius, *Panarion*/*Adversus Haereses* haer. 79 (*Contra Collyridianos*)** (PG 42:740–756 = GCS 37 Holl-Dummer) — the anti-Marian-cult section, condemning the Arabian-Syrian sect of the *Collyridiae* (women who baked and offered small cakes, *κολλυρίδες*, to Mary). Epiphanius's classic formulation: *Ἐν τιμῇ ἔστω Μαρία, ὁ δὲ Πατὴρ καὶ Υἱὸς καὶ Ἅγιον Πνεῦμα προσκυνείσθω* ("Let Mary be in honour, but let the Father and the Son and the Holy Spirit be worshiped"). The *Contra Collyridianos* was the pre-eminent patristic locus for Reformation-Lutheran distinction between *veneratio Mariae* and *adoratio Mariae* (the latter being the Roman development Flacius here damns).
+
+**¹⁷³** **Epiphanius, *Epistula ad Iohannem Hierosolymitanum*** — preserved in **Jerome's Latin translation** (*Ep.* 51.9, PL 22:517–527): Epiphanius reports having torn a painted curtain in a Palestinian church, on the ground that the image was *contra scripturas*. That Jerome translated (rather than refuted) the letter, and preserved it, was read by Flacius and by Reformation polemicists as evidence that Jerome shared Epiphanius's anti-icon position. Modern scholarship treats Jerome's motivations as more complex (the letter was translated in a Bethlehem dispute, not primarily on iconography).
+
+**¹⁷⁴** **Epiphanius, *Ancoratus*** (PG 43:11–236 = GCS 25 Holl) — Epiphanius's earlier (c. 374) systematic doctrinal manual, containing shorter anti-icon material at cc. 40–43. Flacius names it as reinforcing testimony.
+
+**¹⁷⁵** ***Contra Encratitas*** — the anti-encratite (i.e., anti-rigorist ascetic) sections of the *Panarion*, especially haer. 46–48 (Tatian and the Encratites). Flacius reads the Epiphanian critique of Encratism as prefigurative-critique of medieval Latin monasticism.
+
+**¹⁷⁶** The Epiphanian quotation compressed at the vl0036 top is drawn from *Panarion* haer. 79.7 or from the *Iohannem-letter*; the imperative *nolite introducere imagines in Ecclesiam* and the Deuteronomic-turn *neque ad dexteram neque ad sinistram* (Deut 5:32, 17:20) is characteristic Epiphanian phrasing.
+
+## From the Catalogue — Agapiti (vl0036)
+
+**¹⁷⁷** **The Agapetae** (Greek *ἀγαπηταί*, "beloved women") — mixed-sex ascetic households of the 3rd–4th centuries, in which unmarried men and women lived together *sub eodem tecto* on the pretext of chastity, but often with sexual liaisons. Condemned by the Council of Nicaea I (325, canon 3, on *subintroductae*), by John Chrysostom in the *Adversus eos qui subintroductas habent virgines*, and by Jerome. Flacius reads them as a 4th-c. type of medieval clerical *concubinage-under-celibacy-pretext*.
+
+**¹⁷⁸** **Jerome, *Epistulae* 22** (to Eustochium, on virginity) and *117* (to a mother and daughter in Gaul) — the anti-Agapetae polemic that provoked the Roman clerical hostility Jerome reports (*Ep.* 22.28: *Miserabile dictu, sed verum*). Flacius's line *tam vehementer displicebat, ut Romae stone-throwing ei nearly happened* — the near-stoning of Jerome for anti-Agapetae writing — is Jerome's own autobiographical claim (*Ep.* 45, defending himself against the Roman clergy's rumour-campaign).
+
+## From the Catalogue — Vigilantius (vl0037)
+
+**¹⁷⁹** **Vigilantius** (fl. c. 400, so Flacius's "c. 360" is c. 40 years too early) — Gallic-Aquitanian presbyter, author of a lost work critical of the cult of relics, of shrines-veneration, of night-vigils, of ascetic-rigorism, and of enforced clerical celibacy. His work survives only through **Jerome's *Contra Vigilantium*** (406, PL 23:339–352), which vitriolically attacks him. Vigilantius was rediscovered by Reformation polemicists as a genuine 5th-c. proto-Reformer.
+
+**¹⁸⁰** **Heinrich Bullinger** (1504–1575), Zwingli's successor at Zurich, *De Origine Erroris* (Zurich 1539) — chapters 16 and 17 argue that Jerome's polemic against Vigilantius consists of *abusus et convicia* (abuse and reproaches) without theological substance, and that Vigilantius's actual positions were sound. Erasmus's implicit sympathy with Vigilantius (in his edition of Jerome's *Opera*, Basel 1516, apparatus notes) is also invoked. Flacius here draws on Bullinger's Reformed rehabilitation without confessional demarcation.
+
+**¹⁸¹** **Heliogabalus** — the notorious Roman emperor (r. 218–222), byword for sexual and religious excess. Flacius's *spurcissimi Heliogabalos* — as a plural for the Latin-clerical class corrupted by mandated celibacy — is a Renaissance-humanist rhetorical trope (compare Erasmus's *Iulius Exclusus* and Valla's polemics) applied to the Papacy.
+
+## From the Catalogue — Antonius heremita (vl0037–vl0038)
+
+**¹⁸²** **St Anthony the Great** (c. 251 – 356), "father of desert monasticism," subject of **Athanasius's *Vita Antonii*** (c. 360), the foundational hagiographic text of Christian monasticism. Flacius's cautious presentation — "in his superstition about ceremonies" — signals that the coming treatment will be critical: even Anthony, though celebrated, is treated as showing symptoms of the emerging ceremonial-observance that later hardens into medieval monastic rigorism.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

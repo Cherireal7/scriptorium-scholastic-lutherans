@@ -3066,11 +3066,68 @@ vernacula_liturgia:
     use: even future Pope preserved witness that heaven sanctioned
     vernacular — why now damn German vernacular as heretical?
 
+# ─── Tranche 2g — Cyprianus through Antonius (vl0032–vl0037) ────────────
+
+pares_dignitate_potestate:
+  english: Equal in dignity and power
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Cyprianus at vl0033"
+  note: >
+    Cyprian De Ecclesiae Catholicae Unitate c. 4 (PL 4:513-515) —
+    Hoc erant utique et ceteri apostoli quod fuit Petrus, pari
+    consortio praediti et honoris et potestatis. Load-bearing
+    patristic proof-text for Reformation-Lutheran doctrine of
+    apostolic parity against Petrine-primacy; competing Textus
+    Primatus is later interpolation.
+  see_also: [primatus_Petri, primatus]
+
+electio_populi:
+  english: Election by the people
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Cyprianus at vl0032"
+  note: >
+    Cyprian Ep. 67: bishops are elected by the plebs Christiana,
+    not appointed from above (Num 20:25-26, Acts 1:15-26 as
+    proof-texts). Locus classicus for early conciliar-electoral
+    ecclesiology against papal appointment.
+
+collyridiani:
+  english: Collyridians
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Epiphanius at vl0035"
+  note: >
+    Arabian-Syrian sect condemned by Epiphanius Panarion haer. 79 —
+    women who baked cakes (κολλυρίδες) and offered them to Mary.
+    Epiphanius's principle "Let Mary be in honour, but let the
+    Trinity be worshiped" = pre-eminent patristic locus for
+    Reformation distinction veneratio vs adoratio Mariae.
+
+agapetae:
+  english: Agapetae (subintroductae)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Agapiti at vl0036"
+  note: >
+    3rd-4th-c. mixed-sex ascetic households, condemned by Nicaea I
+    canon 3 on subintroductae + Chrysostom Adversus eos qui
+    subintroductas habent + Jerome Ep. 22, 117. Flacius reads as
+    4th-c. type of medieval clerical concubinage-under-celibacy-
+    pretext.
+
+theologus_par_excellentiam:
+  english: The Theologian (title)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Gregorius at vl0033"
+  note: >
+    Gregory Nazianzus's honorific title ὁ Θεολόγος par excellence,
+    for his Trinitarian defence. Flacius invokes Ep. 130 "I have
+    never seen a synod come to a good end" as Reformation locus
+    for conciliar corruption; Melanchthon Apologia BSELK 494.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Attalus (vl0001-vl0031, ~31 body pp +
-# 32 pp paratexts = 63 folio pp of source ≈ 5.6% of the 1094-pp body).
-# Total Flacius lemmas: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7
-# (T2 Sacrae literae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) = 58.
+# FLACIUS 1556 — TRANCHE 2 through Antonius heremita opening (vl0001-vl0037,
+# 37 body pp + 32 paratexts ≈ 6.3% of 1094-pp body). Flacius lemma total:
+# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c)
+# + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) = 63.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
