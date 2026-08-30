@@ -400,9 +400,31 @@ The whole is closed by a searching **Table of Contents.**
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# The Old Comforters
+# PART ONE
 
-*Body proper. Populated tranche by tranche per the nine-tranche plan in* `notes.md`. *Tranche 2 — I. Das Reformationsjahrhundert 1500–1550: Luther and his fellow-workers, pp. 19–85 — is the next unit of work.*
+# The Reformation Century — 1500 to 1550
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Section a) The Time up to 1550
+
+*Central Point: The comfort of the new doctrine, and its power for new life in the world.*
+
+### §1. General Overview
+
+The great Church-reformation of the sixteenth century brought new life into the Christian people. It very soon exercised, on those who let themselves be laid hold of by this movement, a through-and-through renewing effect on the whole way of thinking in moral-religious regard; indeed, indirectly it influenced also those who resisted it. Through the Reformation, the single person, in his standing to God as to the world, was again valued in right measure according to God's Word. Its aim was to give the heart the right comfort over against God, and, by that, to give the man the right standing to the earthly calling in life, in all earthly circles of fellowship. On the one side, therefore, it stressed the justifying faith that calmed the terror-stricken conscience; on the other side, the battle against sin in the world, against the *Anfechtungen* of the devil. Through the Word of God, and through preaching in the mother-tongue, and through the administration of the Sacrament belonging with these, these thoughts conquered hearts for themselves. Naturally, expositions of Scripture were also soon spread. But hand in hand with them went the *Flugschriften* (occasional-tracts) of Luther and his friends, in rhymed and in unrhymed form, in which the new doctrine was always spread out in immediate reference to the practical need.
+
+With that, it emerges that the Reformation became the source of a new devotional literature. This literature is, correspondingly, especially of two kinds. It points, first of all, to the blessing that the preaching of grace in Christ brings, chiefly in outward and inward *Anfechtungen*. Therefore in that age there arose especially **consolation-books** (*Trostbücher*); and therefore Luther and his companions wrote, richly and in all kinds of matters, **letters of consolation**. The Word of God and **prayer** are recommended as the most emphatic means in the battle against Anfechtung. Prayer, according to Luther, is the work of faith towards God. In prayer the man is led over himself into God. Next to preaching, and next to the Word of God, prayer is the highest exercise of the Christian. There is nothing more necessary in Christendom, because we have so much Anfechtung and hindrance. Prayer is, for the Reformers, the pulse of the inner life. It is the Holy Spirit who does nothing else in the Christians than pray without ceasing. Yet prayer has also its being-heard: with prayer the Christians carry through everything they will. God reserves to himself only "measure, aim, manner, place, person." In order to be able rightly to pray, and rightly to plead for comfort, there arise, alongside the *Trostbücher*, the **guides to prayer** (*Anleitungen zum Beten*), the books in which the Lord's Prayer is expounded — and reference is always made anew to the Psalms as the model-prayers of Scripture. Yet intercession is not forgotten. Prayer enters into the service of love for the neighbour. In good works, which come from faith (which is a busy, mighty, active thing), the Christian exercises himself in every calling God has ordained to him. In the prayer of faith, the Christian rises up to God; in the works of love that come out of faith, he goes down at all times. From this arises the other group of devotional writings, that shows itself often enough in Luther's time: **the application of the Haustafel, and of the whole catechism, to life** — writings which lay out for the several estates and callings prayers and Christian-evangelical practice, and rules of conduct accordingly.
+
+The most encompassing look into what was need and what was accomplished in that age is given by the setting-forth of Luther's own significance for the edifying literature. At the same time, Luther is a picture of the evangelical piety — though a picture of the high-point of that piety, one that is to be found only in single men of God. The piety of the people laid hold of by the Gospel reached this height only rarely.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*Tranche 2 continues with §2. Luther und seine Bedeutung für die Erbauungslitteratur (pp. 19–65) — Luther's biographical arc from Eisleben and Erfurt through the Reformation into the great treatises of 1520, and his own devotional writings and their after-history — in the next work-cycle.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
