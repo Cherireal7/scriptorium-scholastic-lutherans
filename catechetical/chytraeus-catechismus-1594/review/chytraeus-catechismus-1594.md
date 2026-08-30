@@ -122,8 +122,16 @@ Working English edition · 2026
 | &nbsp;&nbsp;&nbsp;§ 26. The six uses of the Law of God | 95 |
 | &nbsp;&nbsp;&nbsp;§ 27. What Discipline is; why God demands it even of the non-regenerate; impediments to discipline | 96 |
 | &nbsp;&nbsp;&nbsp;§ 28. On the Promises and Threats attached to the Decalogue | 98 |
-| Notes | 101 |
-| Glossary of Terms | 113 |
+| **Locus IV · Of Sin — which is known, accused, and condemned by the Law of God** | 105 |
+| **Locus V · Of the Gospel, or the Promise of Remission of Sins for Christ's sake and Justification by Faith** | 111 |
+| **Locus VI · Of the New Obedience, or Good Works of the Regenerate** | 121 |
+| **Locus VII · Of Repentance and Absolution** | 127 |
+| **Locus VIII · Of the Sacraments — Baptism and the Lord's Supper** | 135 |
+| **Locus IX · Of the Church, and of the Cross and Consolations of the Church** | 143 |
+| **Locus X · Of the Immortality of the Soul, the Resurrection of Bodies, the Last Judgement, and Eternal Life** | 155 |
+| Appendix · Brief Explication of the Lord's Prayer | 161 |
+| Notes | 167 |
+| Glossary of Terms | 181 |
 
 — ❦ —
 
@@ -173,17 +181,32 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 - **Long-*s*** (ſ) is silently modernised to round *s*. Sixteenth-century *v/u* and *i/j* are normalised to standard modern Latin orthography in citation. The German ligature ß is preserved in original citations, resolved as "ss" in English body text.
 - **Rubrication, typeface, layout** — locked via `shared/reference-custom.docx` and identical to the Praetorius trilogy.
 
-## 5. What is not yet in this working translation
+## 5. Source note — the 1594 / 1588 hybrid
 
-- **Locus IV — X.** Loci I, II, and III (in two parts) are now translated. Locus IV *De Peccato*, Locus V *De Evangelio et De Filio Dei*, Locus VI *De Nova Obedientia*, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, and Locus X *De Immortalitate Animae* will follow in subsequent working sessions.
-- **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued when the full Locus set is translated.
-- **The 1588 recension.** The Internet Archive item pairs the 1594 edition with an earlier 1588 recension. Textual collation between the two — to identify precisely which passages the 1594 title-page description *multis in locis aucta* refers to — is a task deferred to a future edition.
+The Internet Archive OCR of the 1594 Leipzig edition (item `Chytraeus_Catechism`, filename `Chytraeus_Catechism_1594_djvu.txt`) terminates at page 117, mid-Locus VI. The scan itself appears to be incomplete. For **Loci VII–X and the closing appendix** we have therefore fallen back to the **1588 edition** of the same *Catechesis Davidis Chytraei*, present in the same Internet Archive item as `Chytraeus_Catechism_1588_djvu.txt`.
 
-## 6. Author
+Chytraeus's own title-page description of the 1594 (*"postremò nunc ab ipso Autore recognita, & multis in locis aucta"*) indicates the 1594 augmented the 1588 *"in many places"* rather than by wholesale rewriting; the 1588 is therefore a faithful witness to Chytraeus's own text and doctrine, with the substantive theology unchanged.
+
+One structural point of divergence must be noted and preserved: the **1594 enumeration** (already reproduced in Locus I § 4 of this working translation, from the 1594 OCR itself) lists **Locus VII = De Poenitentia et Absolutione** and **Locus VIII = De Sacramentis**. The **1588** printing has these two loci in the reverse order (VII = De Sacramentis, VIII = De Poenitentia). We follow the 1594 enumeration throughout, since it is that recension which Chytraeus himself designated as *postrema* — his final revision. The content is drawn from the 1588 (where the loci are numerically re-labelled but doctrinally identical).
+
+## 6. What is complete in this working translation
+
+All ten Loci and the appended *Brief Explication of the Lord's Prayer* are here translated. This working translation is therefore materially complete for the Catechism proper.
+
+- Front matter: cover, dedicatory epistle, address to the reader, this Translator's Note — from 1594.
+- Chapter 1 (Prolegomena), Locus I *De Vera Dei Agnitione et Invocatione*, Locus II *De Creatione*, and Locus III *De Lege Dei* (in two parts) — from the 1594 OCR.
+- Locus IV *De Peccato*, Locus V *De Evangelio*, most of Locus VI *De Nova Obedientia* — from the 1594 OCR.
+- End of Locus VI, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, Locus X *De Immortalitate Animae*, and the *Brief Explication of the Lord's Prayer* — from the 1588 edition (Chytraeus's own hand, one recension earlier than 1594).
+## 7. What remains for future revision
+
+- **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued in a future editorial pass.
+- **Full 1594 / 1588 textual collation.** Identifying precisely which passages the 1594 title-page description *multis in locis aucta* refers to — line by line — is a task for a future critical edition; the working translation here suffices for reading, teaching, and reference purposes.
+
+## 8. Author
 
 Translated by **the Scholastic Lutherans translation team**. AI-assisted (Claude Opus 4.7).
 
-## 7. On AI assistance
+## 9. On AI assistance
 
 Translation from the Latin was drafted with the assistance of a large language model, then verified paragraph-by-paragraph against the source facsimile. Every named source, every citation, and every scholastic term was cross-checked; no citation or attribution in the English body text is present that is not present in the Latin source. Where the source is corrupt in the OCR (chiefly in the small-type commentary passages, where 16th-century italic Antiqua occasionally defeats the scanner), the passage was read directly from the PDF facsimile and, where doubt remained, marked with an editorial endnote rather than silently patched. This is the working method already proven across the Praetorius *Syntagma musicum* trilogy (Volumes I–III, completed August 2026), and it is the method by which every one of the twenty-two works of the Scholastic Lutherans corpus will be produced.
 
@@ -1801,7 +1824,1042 @@ Three chief:
 >
 > To all threats of penalties God adds the *condition of repentance* — by which repentance always either liberation or mitigation of calamities is procured, as Jer 18[:8] says: *"If that nation repent of its malice, against which I have spoken: I too will repent of the evil which I had thought to do to them."* And therefore God defers penalties, that men may be led to repentance. Wis 11[:23]: *"He winks at the sins of men, that they may do penance."*¹⁰⁴
 
-*Locus IV — De Peccato, quod per Legem Dei cognoscitur, accusatur ac damnatur — follows in the next working session.*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus IV
+
+## *Of Sin — which is known, accused, and condemned by the Law of God*
+
+— ❦ —
+
+### § 1. What Sin is
+
+***What is Sin?***
+
+**Peccatum** is whatever is repugnant to the Law of God, which is *the eternal and unmoved norm of goodness and of right judgement*. 1 John 3[:4]: **ἡ ἁμαρτία ἐστὶν ἡ ἀνομία** — *sin is lawlessness* — that is, a *swerving from the rule of the divine law*, or *dissimilitude and non-congruence with the Law*. For the vocabulary of **ἀνομία**, properly considered as an abstract noun, is nothing other than *ἀσυμφωνία*.¹⁰⁵
+
+The *fuller definition*, well known to the boys, and treated in the schools:
+
+**PECCATUM** is a *defect*, or *inclination*, or *action*, repugnant to the Law of God, deserving the wrath of God and eternal penalties — unless remission be made on account of the Son the Mediator.
+
+— ❦ —
+
+### § 2. The efficient cause of Sin
+
+***What is the efficient cause of Sin?***
+
+**Not GOD**, but the free choice of Devils and men.
+
+> This must be embraced with the whole heart: **God is not the cause of sin, nor does He approve sin, nor impel to sin**; but the *first cause* of sin is the free will of the Devil and of our first parents, who freely and of their own accord turned themselves from God, and lost — for themselves and for their whole posterity — the wisdom, righteousness, and liberty of will infused in them at creation. Deut 32[:4]: *Our God without any iniquity, right and just is He.* John 8[:44]: *The Devil is a murderer from the beginning, and stood not in the truth. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of lies.* Rom 5[:12]: *Through one man sin entered into the world.*¹⁰⁶
+
+The **three external causes** of sins are:
+
+**I.** *Errors* — the blindness and *caligo* of the human mind, which followed the fall of the first parents.
+
+**II.** *Depraved appetites* in the will and heart.
+
+**III.** *The instigation of the Devil*.
+
+**Matter in which** sin resides: the Mind, the Will, the Heart, and the powers obedient to them, and all the external members.
+
+**Form**, or accompanying feature: the *obligation of the person* to the wrath of God and to eternal damnation.
+
+**Ends**, or effects, are:
+
+I. Wrath of God.
+
+II. Eternal damnation.
+
+III. Death of the body.
+
+IV. All calamities of the human race.
+
+V. Tyranny of the Devil.
+
+VI. Concupiscence, which is at once sin and the penalty of sin.
+
+— ❦ —
+
+### § 3. Kinds of Sin — original and actual
+
+***What are the kinds of Sin?***
+
+Two: *original* and *actual*.
+
+**PECCATUM ORIGINIS** is a *defect*, or *inclination*, repugnant to the Law of God, born with us and drawing the wrath of God and eternal penalties upon us — unless remission be made on account of the Son of God the Redeemer.
+
+Ps 51[:5]: *Behold, in iniquities was I conceived, and in sins did my mother conceive me.* Rom 3[:23]: *All have sinned and are deprived of the glory of God.* Cf. John 1; Isa 9. — The whole human race is called *darkness* (**σκότος**), that is, deprived of and lacking the light of the true knowledge of God, and of righteousness and life which God approves. Rom 8[:7]: *The sense of the flesh is not obedient to God, neither indeed can it be obedient.* 1 Cor 2[:14]: *The animal man perceiveth not the things which are of the Spirit of God, neither can he understand them.*¹⁰⁷
+
+**PECCATUM ACTUALE** is an *inner or outer action* repugnant to the Law of God: in the mind, doubts *Epicurean* and *Academic*, all false opinions about God, either not properly considered or wickedly conceived; in the will, delight in one's own merit and contempt for God, thirst for carnal things; in the heart, unjust hatreds, cupidities, love of the world, of pleasures, wealth, glory, and honour more than of the eternal love of God; blasphemies, false testimonies, lies, perjuries, homicides, adulteries, seditions, thefts, frauds in contracts.
+
+To this *actual sin* properly belongs the usual definition, often repeated by Augustine: *Peccatum est dictum vel factum vel concupitum contra Legem Dei* — Sin is anything said, done, or coveted contrary to the Law of God.¹⁰⁸ Wherefore also many, distinguishing *sins of the heart* (namely, depraved cogitations and affects of the heart) from *sins of work* (which are committed in word or deed), rightly divide.
+
+**Species** of sins are more accurately distributed according to the order of the precepts of the Decalogue, as I enumerated them above in the Locus concerning the Law, and as a mediocre catalogue is contained in Rom 1, Gal 5, 1 Cor 6, and elsewhere. Kinds of *actual* sins can also be discerned into *sins of commission* and *sins of omission and negligence*, as the Jurisconsults distinguish **DOLUS** (or *crimen*, or *flagitium*) — a fact whereby the Law of God is violated *against conscience* — from **CULPA** (whether grave or slight), when there is sinning either by *error of judgement* or by the *sudden flames of affects*, or by *neglect and negligence*.
+
+— ❦ —
+
+### § 4. Venial sin, and mortal sin
+
+**PECCATUM VENIALE** is a *defect*, or *inclination*, or *affect*, repugnant to the Law of God, in the regenerate — who, *retaining faith and fighting against depraved affects*, is not held guilty by God.
+
+*The seat, or the matter, of sin in the regenerate is such as* Rom 7[:15,19,23]: *That good which I would, I do not: I see another law in my members, warring against the law of my mind, and taking me captive to the law of sin.* And *there is now no condemnation to them who are in Christ Jesus, who walk not according to the flesh, but according to the Spirit* (Rom 8:1). *If ye through the Spirit mortify the deeds of the flesh, ye shall live* (Rom 8:13). 1 John 1[:8]: *If we say that we have no sin, we deceive ourselves, and the truth is not in us.*
+
+**MORTAL SINS** are not only those seven which are commonly enumerated — Pride, Envy, Wrath, Sloth (*Accidia*), Avarice, Gluttony (*Gula*), Lust — which, together with many other sins, are external actions and seats of sin, *but in the non-regenerate*. Now Original Sin and *actual sins in the lapsed* — those who have before been regenerate — accumulate the more grievous crimes committed with knowledge and will, whereby a man loses grace and the Holy Spirit, and is made guilty of the wrath of God and of eternal penalties, unless he turn to God.
+
+Eph 5[:5]: *Knowing this, that no fornicator, nor unclean person, nor covetous, hath any inheritance in the kingdom of Christ and of God. Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the sons of disobedience.* Ezek 18[:24]: *If the just man shall turn himself away from his justice, and shall do iniquity, he shall die.*
+
+***Sins crying to heaven*** they name: voluntary homicide (Gen 4); the sin of Sodom (Gen 19); oppressions of the poor and widows (Deut 15; Exod 22; Ps 68); the withheld hire of the labourer (Exod 24; Jas 5).
+
+***Nine ways*** by which we communicate in the sins of others they enumerate in this schoolmen's verse:
+
+> *Inquinat alterius vitiis se qui male sanus*  
+> *Consulit, assentit, mandat, palpat, recepto*  
+> *Utitur, iratve silet, non obstat, non manifestat.*
+
+That is: *He infects himself with another's vices who, ill-well counsels, assents, commands, applauds, uses the reward, or is silent in anger, does not resist, does not make manifest.*
+
+— ❦ —
+
+### § 5. The Sin against the Holy Spirit
+
+**PECCATUM IN SPIRITUM SANCTUM** is either (i) to attack truth petulantly, and to attribute works — which manifestly are made by the Spirit of God — to the Devil, out of Pharisaic hatred (as Christ warned: *Beelzebub*), or (ii) to despair — that is, to take away from God the praise of that mercy or grace exceeding sin.
+
+The *six species* they rehearse:
+
+> *Pneumatis est hostis, praesumens spemque relinquens,*  
+> *Impugnans verum, dum fratri invidit amato,*  
+> *Obdurans, poenitentiam simul ac aspernans instantem.*
+
+That is: (1) Presumption; (2) Despair; (3) Attacking the truth known; (4) Envying the brother the grace of God; (5) Hardening; (6) Despising the offered repentance.
+
+> But let us leave the sin *unremissible* to be judged on the last day, and, whatever our sins be, let us know it to be the mandate of God that being converted we determine that all our sins are remitted to us, and the promise of universal grace to be gratuitous.
+>
+> Matt 11[:28]: *Come unto me all* (Ps 51[:1]: *[thy mercy] exceeding above sin*). 1 John 3[:36]: *All that believeth in the Son hath eternal life.*
+
+*Locus V follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus V
+
+## *Of the Gospel, or the Promise of Remission of Sins for Christ's sake, and Justification by Faith*
+
+— ❦ —
+
+### § 1. What the Gospel is
+
+***What is the Gospel?***
+
+**EVANGELIUM** is the **PROMISE CONCERNING CHRIST**: that is, a doctrine *not naturally known*, but drawn forth from the *arcane counsel of the Divinity* through the Son — in which God, out of His immense mercy for Christ His Son's sake, promises **GRATIS** (freely) *remission of sins, righteousness, the Holy Spirit, and eternal life* to all who are acting repentance and by faith embracing this promise of good things.
+
+The *summa of the Gospel* is this saying of Christ:
+
+> *For God so loved the world that He gave His only-begotten Son, that whosoever believeth in Him should not perish, but have everlasting life* (John 3:16).
+
+Or Rom 3[:24]: *Being justified freely by His grace, by the redemption which is in Christ Jesus, whom God set forth as a propitiator through faith in His blood.*¹⁰⁹
+
+— ❦ —
+
+### § 2. The difference between Law and Gospel
+
+***What is the difference between Law and Gospel?***
+
+Three chief and illustrious differences:
+
+**First — of nature**: The **Law** is *naturally known* — as being infused in human minds at the first creation, and which even after the Fall is not wholly extinguished (Rom 1 and 2). The **Gospel** is *not naturally known*, but revealed by the Son of God: Eph 1, 3; Rom 16; Gen 3.
+
+**Second — of promises**: The **Law** promises *righteousness and life*, but with the condition of *perfect obedience*. Rom 10[:5]: *He that doeth these things shall live in them.* The **Gospel**, on the contrary, promises *remission of sins, righteousness, and eternal life* **GRATIS**, on account of Christ alone, not on account of our obedience toward the Law. Rom 3, 4, 10.
+
+**Third — of effects**: The **Law** justifies no one, liberates no one from sin, saves no one — but only accuses, shows and augments sin, and condemns all men on account of sin. Deut 27[:26]: *Cursed be all…*; Rom 3, 4; Gal 3; 2 Cor 3, 15. The **Gospel** is the *power of God for salvation to everyone that believeth*, and **GRATIS**, on account of Christ, bestows on believers *remission of sins, righteousness, and eternal life* (Rom 1[:16]).
+
+— ❦ —
+
+### § 3. The difference of Old and New Testament — of Letter and Spirit
+
+***What is the difference between Old and New Testament?***
+
+Almost the same as of Law and Gospel.
+
+**NOVUM TESTAMENTUM** is plainly the same as the *Gospel*, or the *promise of remission of sins, of the grace of God, of the Holy Spirit, and of eternal salvation, on account of the Son of God our Lord Jesus Christ*, freely to be given to all who believe (Matt 26; Gal 3; Heb 6; 2 Cor 3).
+
+**VETUS TESTAMENTUM** in the proper sense is the *promulgation of the Mosaic Law*, and the promise of the land of Canaan, and of a certain polity and defence, given by God to the Israelites keeping the Law — to which ceremonies and sacrifices God adjoined, that they might be *types* of the person, offices, and benefits of Christ, on account of whom alone believing men in all times obtained remission of sins and eternal salvation.
+
+The difference of *Spirit* and *Letter* (2 Cor 3):
+
+**SPIRITUS** signifies Christ Himself, or the Holy Spirit of Christ, who through the ministry of the Gospel kindles in hearts *the light of the true knowledge of God, true consolation, righteousness, and life*.
+
+**LITERA** signifies the Mosaic Law written on tables of stone, and every obedience or effort to do the works of the Law — ceremonial or moral — without the Holy Spirit, or without true faith in Christ kindled by the Holy Spirit (2 Cor 3; Rom 7).
+
+> This doctrine of the difference between Law and Gospel is the greatest and most necessary in the whole doctrine of the Church, for the true knowledge of God and of the benefits of Christ, for the true invocation of God, for faith, for the true worships to be rendered to God, for the true consolation of souls, and for eternal salvation. And it is as it were the *norm and rule* by which all the chief controversies concerning Justification and other most grave articles are governed and judged. Therefore this doctrine of the difference of Law and Gospel must most diligently be fixed in the innermost recesses of the breast, as **Luther** wisely used to say: that he is *the best Theologian who in teaching and in decisions of controversies sufficiently distinguishes the Law from the Gospel*.¹¹⁰
+
+Testimonies of the doctrine: John 1[:17]: *The Law was given by Moses: grace and truth came through Jesus Christ. No one has ever seen God; the only-begotten Son, who is in the bosom of the Father, He hath declared Him.* Rom 3[:21]: *Now the righteousness of God without the Law is made manifest, being witnessed by the Law and the Prophets — the righteousness of God through faith of Jesus Christ, unto all and upon all who believe.* Gal 3[:18]: *If the inheritance be of the Law, it is no more of promise; but God gave it to Abraham by promise.* Rom 8[:3]: *For what the Law could not do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: that the righteousness of the Law might be fulfilled in us.* Eph 3[:9]: *The Gospel was hidden from ages in God, who created all things through Jesus Christ, through whom we have boldness of access by faith of Him.* Phil 3[:8–9]: *All I count as loss for Christ, that I may gain Christ, and be found in Him — not having my own righteousness which is of the Law, but that which is by faith of Christ.* Gen 12[:3]: *In thy seed shall all the nations be blessed.* Jer 31[:31]. See also Heb 8, 9.
+
+— ❦ —
+
+### § 4. The difference between the righteousness of the Law and of the Gospel
+
+The Law promises righteousness and eternal life, but at the same time requires perfect obedience as the cause. Therefore **RIGHTEOUSNESS OF THE LAW** is either the *perfect obedience of all human powers toward the whole Law of God*, free from all sin (such as has existed in no man, Christ alone excepted); or it is a certain *external righteousness of members* — performing the external works which the Law of God demands — which is *never able to satisfy the Law of God*.
+
+The **GOSPEL**, on the contrary, **GRATIS** promises *remission of sins, righteousness, and eternal life* — not on account of our obedience toward the Law, but on account of the Son of God alone, our Lord Jesus Christ, whom by faith alone we embrace.
+
+— ❦ —
+
+### § 5. Justification of man before God — the righteousness of the Gospel
+
+***What, therefore, is the righteousness of the Gospel, or the justification of man before God?***
+
+**CHRISTIAN RIGHTEOUSNESS** is the *remission of sins*, and the *imputation of the righteousness of Christ*, and the *acceptation to eternal life* — freely, *not on account of any virtues or works of ours*, but on account of Christ the Mediator alone, apprehended by faith.
+
+***What is the Grace of God?***
+
+**GRATIA** is the mercy of God, freely promised on account of the Son the Mediator; or a *gratuitous remission of sins on account of Christ the Mediator*.
+
+***How is Man justified before God?***
+
+**GRATIS** — not on account of any of our own works or merits, but only on account of the one Mediator Jesus Christ, who was made *victim* and *propitiator* for us, man in true conversion obtains *remission of sins*; and so is *just* — that is, pleasing and acceptable to God — on account of the righteousness of Christ imputed; and so heir of eternal life, *when he certainly believes that these goods are given to him by God on account of the Son*.
+
+***What is justifying Faith?***
+
+**FIDES** is the *notice of the person and benefits of Christ, and of the whole doctrine delivered by God*; and *assent* by which we embrace the whole doctrine, and in it the *promise of gratuitous reconciliation, or of the imputation of righteousness on account of Christ, to be given*; and **fiducia** — trust in Christ the Mediator, resting in the promise, and certainly determining that its sins are remitted to it, and that it pleases God, and that it is received and heard, *on account of Christ alone*, **GRATIS**, not on account of its own dignity.
+
+— ❦ —
+
+### § 6. How the proposition *"We are just by faith alone"* is to be understood
+
+Correlatively — that is: that on account of the Son of God our Lord Jesus Christ alone we receive remission of sins, righteousness, and eternal life **GRATIS**, not on account of our merits.
+
+Now Scripture uses this form of words (*we are justified by faith*) that it may teach both. **What is the cause and merit of justification** — that is, what are the benefits of Christ: namely, that *through and on account of Christ alone* remission of sins, righteousness, and eternal life are given to us. And **how they must be applied and transferred to us**: namely, **by faith alone**, embracing the promise and resting in Christ.
+
+The *exclusive particles* — **GRATIS**, *without the Law*, *without works of the Law*, **by faith alone** — do not exclude the merit of Christ, or our own repentance, or the remaining works or virtues (that faith may not be *without* them, or that they should not follow); but they take away from the other virtues or works the *merit* or *cause* of the remission of sins, and transfer the cause to Christ the Mediator alone, apprehended by faith.
+
+— ❦ —
+
+### § 7. For what causes it is necessary that this be preserved: that we are justified before God by faith alone
+
+For **five causes**:
+
+**I.** Because there is no other *medium* by which we can acknowledge and apprehend the promise of Grace, and Christ, except faith alone.
+
+**II.** That to Christ may be attributed the due and proper *honour* — namely, that His obedience alone is the *merit* of the remission of sins, of righteousness, and of eternal life to be given to us; and that our works are not the *merit* on account of which we are received.
+
+**III.** That consciences may have *certain and firm consolation*: for the promise of grace rests on the Son of God alone, and not on our worthiness. Therefore it is said: **BY FAITH ALONE**, that faith may certainly determine that God is *propitious* to us on account of Christ. This cause Paul recites in Rom 4[:16]: *Therefore it is of faith* **GRATIS**, *that the promise may be firm*.
+
+**IV.** That the *difference of Law and Gospel* may be more illustrious.
+
+**V.** That *true invocation* may be rendered, which necessarily rests only on the Mediator, the Son of God, not on our virtues.
+
+> **Justification is by Faith alone** at the point of the *first conversion* (as they speak); but after the first conversion, or after justification, we must determine that we are righteous and please God *partly by faith, partly on account of our works* — or on account of *faith, Hope, and Charity conjoined*. NO. In the beginning, middle, and end, this must always be determined: *we are righteous on account of Christ the Mediator alone by faith*, and please God, and are heirs of eternal life — not on account of any works or virtues of ours, as Paul largely disputes (Gal 3): *He does not say "in seeds," as in many, but as in one, "and in thy seed, who is Christ."*
+
+Rom 5[:1–2]: *Being justified by faith we have peace with God through our Lord Jesus Christ, by whom we have access by faith into this grace wherein we stand* — that is, into acceptation or imputation, by which we are accepted on account of the Son, even if we have not yet perfectly cast off the whole mass of sin. Hab 2[:4]: *The just shall live by his faith.* — Faith cannot lean on two things: on Christ and on our works. Otherwise it becomes wholly uncertain, and brings no firm consolation. Rom 4. — For always in the saints there remain sins in this life, for which they pray: *Forgive us our debts.* Therefore Christ is a *priest interceding for us in perpetuity, and applying His righteousness to us*: nor is there salvation in any other. Rom 5[:9]: *Much more, being justified, we shall be saved by Him, glorying in God through our Lord Jesus Christ* — that is, trusting on account of the Mediator, and to Him alone attributing this glory, that *on account of Him and through Him* eternal goods are given to us. Rom 6[:14]: *You are not under the Law, but under grace* — that is: although sins remain, yet the Law does not now condemn you, but you are received into grace and please God on account of the Mediator. John 11: *I give eternal life to them.* Rom 8[:1]: *There is now no condemnation to them who walk in Christ Jesus.* Rom 4[:5]: *Faith is imputed to the believer apart from works.* Acts 25[:18]: *In him is enlightening*; 1 Pet 1[:12]: *In whom shall be sanctified, not in your cleanness*; Rom 6[:23]: *The gift of God is eternal life.*¹¹¹
+
+— ❦ —
+
+### § 8. The difference between the Gospel doctrine of justification and the false papist doctrine
+
+Three chief differences:
+
+**I.** *Papists teach that men merit remission of sins*, and are just, not on account of Christ alone by faith alone, but also *by good works, or by their own virtues congruent with the Law of God*. Item, by works of Monastics, by Masses, by fastings.
+
+**II.** *Since no one knows whether he has enough of good works*, they teach that one must always doubt whether we have remission of sins, and whether we are in grace.
+
+**III.** They teach that man can *satisfy the Law of God* in this life, and by this fulfilment of the Law is *just and merits eternal life*.
+
+**On the contrary, the Gospel teaches:**
+
+**I.** *Remission of sins is given* **GRATIS**, on account of Christ the Mediator alone, not on account of our works or merits.
+
+**II.** One must **not remain in doubt**, but all who live in delight of their conscience *without faith in Christ* must certainly determine that they *displease God and are guilty of the wrath of God and eternal penalties, unless they turn to God*. Contrary: all who feel the terrors of the wrath of God, and desire to return to God and amend themselves, must certainly determine that their *sins are remitted, and that they are in grace, and please God on account of Christ the Mediator* — as it is expressly said in the Creed: *I believe the remission of sins.*
+
+**III.** *Man cannot in this life satisfy the Law of God*, as Rom 7 and 8 clearly say; but righteousness and eternal life are given to believers **GRATIS** on account of Christ.
+
+— ❦ —
+
+### § 9. The difference between Justification, Regeneration, and Renovation
+
+**JUSTIFICATION** is *remission of sins*, or *absolution from sin and eternal death*, and *reconciliation with God*, whereby the person is just before God — that is, pleasing to God and accepted, and heir of eternal life — *on account of Christ the Mediator*.
+
+**REGENERATIO** is the *action of the Holy Spirit*, who through the Word of the living God and through Baptism, out of a *son of wrath and death* begets a *son of God and heir of eternal life*.
+
+**RENOVATIO** is the *action of the Holy Spirit* who, dwelling in the justified, begins to *expurgate and abolish the old man, or sin — in the mind, *caligo* and doubts about God; in the will, vanity of fear and love of God, and all depraved inclinations; in the heart, incendia and furies of vicious affects* — and *restores and renews the new man, or the image of God lost through sin* — kindling in the mind the light of the true knowledge of God, in the will and heart a new righteousness, and total obedience toward all the mandates of God, and life ordered to this end: that God be celebrated.
+
+From these definitions it appears: **Regeneration** — although in its proper sense it signifies *vivification and renovation* of nature dead by sin — *also often comprehends Remission of sins*, and is, as it were, a whole comprehending two parts, Justification and Renovation of nature by the Holy Spirit, which is the *fount of the New Obedience and of good works*.
+
+***How is the Regeneration of man made?***
+
+All men in *carnal generation* are born polluted by sin, and *sons of wrath and eternal damnation*. Therefore, that the *sons of God* — that is, pleasing to God, and heirs of eternal life — may become, it is necessary that they be *begotten again of God*, or that they be regenerated by the Word and Holy Spirit. Now they are regenerated when in true conversion they receive from God, on account of the Son of God, the *remission of sins promised in the Gospel* by faith; and being reconciled to God, they are *adopted into the number of sons and heirs of the heavenly kingdom*, and *donated with the Holy Spirit*, who paulatim purges out the relics of sin born with us, and kindles new light and righteousness and life in the hearts of believers.
+
+*Locus VI follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VI
+
+## *Of the New Obedience, or the Good Works of the Regenerate*
+
+— ❦ —
+
+### § 1. What the New Obedience is
+
+***What is the New Obedience?***
+
+**NOVA OBEDIENTIA** is: *with the true knowledge of Christ and Faith going before, to shun all delicts displeasing to God, and — not only in external actions but also in affects of will and heart — to obey the precepts of God*, to this end: **that God may be honoured** — that is, that we may testify that this One is truly God whom we serve by true obedience.
+
+The synonymous terms are: *New Obedience*, *Worship of God*, *Good Works*, *Virtue*, *Good Purpose*, *Good Conscience*, *Sacrifice of Praise*, *Righteousness Inherent*, *Inchoate Obedience*, *Mortification of the actions of the flesh*, and so on.¹¹²
+
+— ❦ —
+
+### § 2. What Good Works are — and its synonyms
+
+**BONA OPERA**, or **CULTUS DEI**, are *actions of mind, will, heart, and external members commanded by God, kindled by the Holy Spirit, and done in faith, to this end: that obedience and honour be rendered to God*.
+
+**VIRTUS** is *obedience toward God according to His Word*.
+
+**Good Purpose** (*κατόρθωμα*) is *the firm decree, or constant and perpetual will, no longer to sin consultedly and of one's own accord, but freely and promptly to obey God*.
+
+**BONA CONSCIENTIA** is *the notice of the Law of God and the judgement in our minds, whereby we approve deeds that are right — that is, congruent with the Law of God — and know ourselves to have done rightly, and to have the purpose of not delinquently sinning against the Law of God, consultedly and of our own accord*; which knowledge, by divine order, is followed by *tranquillity of heart, and hope of the aid and protection of God*. 1 Tim 1[:19]: *Fight the good fight, retaining faith and a good conscience.* 1 Pet 3[:16]: *Having a good conscience*.
+
+**SACRIFICIUM LAUDIS** (or **eucharisticum**) is *a work commanded by God, which is done in us with faith in Christ going before, and referred to this end: that God be honoured — that is, that we may testify that He is the true God whom we so worship*. It is *not a price for sin*, nor does it merit for the doer or for others the remission of sins; but it is the *testification that He is God*, and the *testimony of obedience and thanksgiving*. Such sacrifices are all good works and afflictions of the pious. 1 Pet 2; Ps 50, 51, 107, 116; Rom 12, 15.
+
+— ❦ —
+
+### § 3. Whether the New Obedience is necessary in the regenerate
+
+Yes: it is necessary. And *for three chief causes*:
+
+**I.** Because in the very moment when God's *mercy* remits our sin to us, and through Baptism begins to submerge and mortify sin in us, and we are given the Holy Spirit — this is that *henceforth we may no longer sin, but walk in newness of life* — that is, in new light and righteousness and obedience toward all the mandates of God, we may live (Rom 6, 7, 8).
+
+**II.** The *order of divine wisdom and righteousness* is *eternal and unmoved*: that men created by God and redeemed by the Son of God should *obey God, and shun sins repugnant to the will of God* (Rom 8). — *We are debtors* (Rom 8:12). Eph 2[:10]: *We are His workmanship, created unto good works.*
+
+**III.** The *most severe mandates of God* are everywhere repeated. John 9: *Sin no more.* John 15[:12]: *This is my mandate, that you love one another.* Rom 6[:12–13]: *Let not sin reign in your mortal body, to obey it in the lusts thereof: but present your members as instruments of righteousness unto God.* Item [6:22]: *Being made free from sin, and made servants unto God.* Col 3; Eph 4; 1 Tim 1: *Fight the good fight, retaining faith and a good conscience.* 1 Thess 4[:3]: *This is the will of God.* Many more causes are recited in this locus in the *Loci Theologici*.
+
+— ❦ —
+
+### § 4. The species of good works, or parts of the New Obedience
+
+The species of good works, or of the worships of God, can be conveniently distributed *according to the series of the precepts of the Decalogue*:
+
+*True knowledge of God according to the Gospel*; *true fear of God*; *true trust in the promised mercy on account of Christ the Mediator*; *love of God*; *hope*; *fortitude*; *patience*; *humility*; *invocation of God made in spirit and truth*.
+
+*Universal justice*; *obedience toward laws and magistrates*; *piety toward parents*; *particular justice*; *beneficence*; *mercy*; *chastity*; *truth*; *diligent and faithful performance of the offices of one's vocation*; and so on — as above in the Locus concerning the Law we have set out the *catalogue of virtues* with adjoined definitions.
+
+— ❦ —
+
+### § 5. The difference between Christian virtues and the virtues of the pagans
+
+Four are the differences:
+
+**First**: *Many virtues are proper to Christians, unknown to the pagans* — as *Christian Faith*, *trust in the mercy or grace of God promised on account of Christ*, *true invocation of God*, *hope of eternal life*, and the rest expressed in the First Table of the Decalogue — of which Cicero in *De Officiis* and Aristotle in the *Ethica*, expounding *ex professo* the doctrine of virtues, make no mention whatever.
+
+**Second — from the efficient causes**: The virtues of the regenerate are wrought *not only by human strength or the powers of free will*, as those of the pagans, but *by the Holy Spirit of God through the Word are kindled and consummated*.
+
+**Third — from the formal cause**: The good works of Christians are *true and serious motions of heart, kindled by the Holy Spirit, in which the true knowledge of Christ and faith* (*without which it is impossible to please God*) *shine forth*. The good works or virtues of the pagans are only *external gestures, or the government of locomotive motion, without spiritual motion of heart and without faith*.
+
+**Fourth — from the final cause**: For Christians do good works, and obey God, *that they may illustrate the glory of God*. 1 Cor 10; Matt 5. The pagans, and their like, work either from ambition, or from love of glory, or from the hope of external rewards. — And this concludes the material Chytraeus supplies in the 1594 recension we have, before its OCR cuts off.¹¹³
+
+*The reward of good works — six causes, from the Gospel, that they should not go unrewarded — is here supplied from the 1588 text:*
+
+**VIII.** That we may obtain rewards *spiritual and corporeal, present and eternal*. 1 Tim 4[:8]: *Piety has the promises of the present life and of that which is to come.*
+
+*Locus VII follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VII
+
+## *Of Repentance and Absolution*
+
+*Note: this Locus is drawn from the 1588 edition, where it is numbered VIII (the 1594 revision swapped the order of Loci VII and VIII; we preserve the 1594 enumeration as authorised by Chytraeus's final title-page).*
+
+— ❦ —
+
+### § 1. What Repentance is
+
+**POENITENTIA** — *the reception, receiving-again, or apprehension, or practice concerning sin, the wrath of God against sin, and the remission or reconciliation on account of Christ, promised by the grace of the Gospel to believers, from thence to be embraced, and concerning fruits of faith or good works* — is a Locus of a certain sum of the whole Christian doctrine, comprising the chief matters. Now to the use let us transfer it, and let each of us supply his own repentance.
+
+***What is Repentance?***
+
+**POENITENTIA**, or **CONVERSIO AD DEUM**, is *Contrition, Faith, and New Obedience*: that is — *seriously to be terrified by the knowledge of the wrath of God against one's own sins*; and *to sorrow over sins committed*; and *by faith to flee to the mercy of God promised on account of Christ*; and *certainly to determine that one's sins are truly remitted for Christ's sake*; and with this faith going before, *henceforth no longer to sin against conscience*, but so to govern all the counsels and actions of life that they may be congruent with the will and word of God.¹¹⁴
+
+— ❦ —
+
+### § 2. The three parts of Repentance, or Conversion to God
+
+**I. CONTRITIO** is *seriously to be terrified by the sight of the wrath of God against sins known through the Law*, and to sorrow that we have offended God.
+
+**II. FIDES** *acknowledges that the wrath of God against our sins is appeased on account of Christ, who suffered, died, and rose for us*; and *certainly determines that its sins are remitted to it, and that it pleases God on account of Christ*.
+
+**III. NOVA OBEDIENTIA** is: *with this faith in Christ going before, to obey God according to all His mandates, to this end: that God may be honoured and celebrated*.
+
+— ❦ —
+
+### § 3. Eight causes by which each is roused and impelled to seriously act repentance
+
+**I.** The *most severe mandate of God*. Matt 3[:2]: *Do penance.* Isa 21[:12]: *Turn ye to me.* Luke 20[:36]: *You shall be dissimilar.*
+
+**II.** *Eternal salvation*, promised to those acting repentance and believing the Gospel.
+
+**III.** The *oath of God*: *As I live, saith the Lord, I will not the death of the sinner, but that he turn and live* (Ezek 33:11).
+
+**IV.** The *manifold sins*, remaining in mind, will, and heart even of the regenerate and holy, for which assiduous repentance and mortification are needed — because of which all the pious daily pray: *Forgive us our debts* (Ps 32).
+
+**V.** *Public and private calamities* — the horrible Death which devours the whole human race and threatens at every moment, diseases, wars, fires, hunger, the destruction of cities and peoples — which are *assiduous sermons about sins to be seriously acted*.
+
+**VI.** The *death of the Son of God*, which is of all things the most illustrious testimony of the horror of the wrath of God against sin — which by no other means could be appeased.
+
+**VII.** The *advent of the Son of God to Judgement*, to be expected at any hour.
+
+**VIII.** *Eternal damnation* prepared for all who are not in this life converted to God (Luke 3): *Unless ye do penance ye shall all likewise perish* (Rom 2[:5]: *After thy hardness and impenitent heart thou treasurest up unto thyself wrath in the day of wrath and of the revelation of the just judgement of God*).
+
+— ❦ —
+
+### § 4. Efficient causes of Contrition, or Repentance for sin
+
+Four principal:
+
+**I.** The **Law of God**, teaching how great an evil sin is, cleaving in us, and denouncing the horrendous wrath of God, death, and eternal penalties upon all polluted by sin. Rom 7[:7]: *I had not known sin except through the Law.* Gal 3[:10]: *Cursed be all who continue not in the things that are written in the Law.*
+
+**II.** The **Holy Spirit**, through the preaching of the Law kindling in the mind knowledge of sin and of the wrath of God, and imprinting on the will and heart serious sorrows on account of admitted sins. John 16[:8]: *The Holy Spirit shall convict the world of sin.* Jer 31[:19]: *After thou didst convert me, I did penance; I was confounded and blushed.*
+
+**III.** All *calamities of men* — deaths, diseases, wars, and so on — which are as it were in the world perpetual sermons of repentance. Hos 5[:15]: *In tribulation they shall arise to me at day-break: Come, and let us return to the Lord. For it is He who has wounded us, and He will heal us.* Lam 3[:32]: *Turn us, O Lord, and we shall be turned.* Hag 1[:6]: *Ye have sown much, and brought in little.*
+
+**IV.** The **mind and will of the converted man**, considering by the Holy Spirit *the wrath of God and its own uncleanness*, and feeling true sorrows on account of admitted sins, and repenting again and again.
+
+— ❦ —
+
+### § 5. The difference between the repentance or contrition of Judas and of Peter
+
+**Contrition of Judas, of Cain, and their like** is *servile Fear* — namely, terror and flight and trembling before God, *not fleeing to Christ the Mediator by faith*.
+
+**Contrition of Peter, of David** (Ps 51, 130), and *of all the pious throughout the whole time of life*: **filial Fear**, conjoined with faith asking of God and, so to speak, with *trust*, embracing the remission of sins promised on account of Christ.
+
+— ❦ —
+
+### § 6. What Confession is
+
+**CONFESSIO PECCATI** is *a part of Contrition*, whereby *before God we acknowledge our sins, and grieve over them from the soul; and we confess that we are guilty of the wrath of God and of eternal damnation on account of sin*; and *we truly grieve that we have offended God, and we seek pardon and remission of sins on account of Christ*.
+
+This confession is necessary *in every conversion to God and in daily invocation*. Ps 32[:5]: *I said, I will confess against myself my iniquity to the Lord.* Dan 9: *We have sinned, we have acted impiously.* Ps 51: *I acknowledge my iniquity.*
+
+***How many kinds of Confession of sin are there?***
+
+**One is *public***, which is done either by the whole Church in public calamities and afflictions; or in the public assembly of the Church by each individually who is guilty of enormous crimes known to others, before the presbyter and the whole Church: they confess these crimes, and ask pardon of God and of the Church. — In old times, at certain days, the fallen were disciplined before Absolution — clothed in black, with bare feet, before the doors of the Temple or elsewhere — which penalties the Greeks called **στάσεις** — the *stations*, or *satisfactions* — not that they *satisfied for sins* or *merited the remission of guilt and of eternal penalty*, as later they *feigned*, but that (1) the fallen were tested as to whether they seriously did penance, and (2) an example of the penalty of delicts was set before others, that from like falls they might be deterred. From this old rite, which *preceded Absolution*, the name of *satisfaction* and *enumeration of delicts in confession* arose. And this they called *Public repentance*, of which many Canons of the older law speak. These references to *private confession* and *satisfactions after Absolution*, the newer interpreters of the Canon Law *later distorted*.
+
+**Another is *private* or *arcane confession***, either *before God alone* (which we defined just above, and without which absolution is not remitted), or *before the minister of the Church or the Priest*. This is either the *special enumeration of individual sins*, which is *nowhere commanded by Christ*; or the **general Confession**, whereby *both before God and before the Minister of the Church, with express voice we profess ourselves to be sinners, guilty of the wrath of God and of eternal damnation, and to be sorry from a true heart that we have offended God, and we ask the voice of Absolution to be announced to us by the Minister of Christ*.
+
+— ❦ —
+
+### § 7. What Absolution is
+
+**ABSOLUTIO** is the *announcement of the remission of sins*, whereby the Minister of the Gospel, *in the name of Christ, testifies that the sinner acting repentance and asking pardon* is *loosed and freed from sin, the wrath of God, and eternal damnation*.
+
+***What is Excommunication?***
+
+**EXCOMMUNICATIO** is the *announcement of the wrath of God and of eternal damnation*, whereby the Minister of the Gospel, *in the name of Christ, having preserved the legitimate process*, pronounces notorious sinners to be *guilty of the wrath of God and of eternal damnation, and by name excludes them from the society of the Church, and delivers them to Satan for the destruction of the flesh, that the spirit may be saved* (Matt 18; 2 Cor 5; 1 Tim 1).
+
+***What are the Keys of the Kingdom of Heaven?***
+
+**CLAVES REGNI COELORUM** are the *power or ministry* of *loosing and binding, or of remitting and retaining sins* — instituted by Christ and delivered to the Church — by which the Minister of the Church, *by the voice of the Gospel*, announces *remission of sins, donation of the Holy Spirit, and eternal life*, to many and to individuals acting repentance and asking pardon in the name of Christ; and *binds and excommunicates those persevering securely and contumaciously in sins*.
+
+— ❦ —
+
+### § 8. For what causes it is useful that private Absolution be retained in the Churches
+
+For **eight** grave causes:
+
+**I.** That it be a **testimony to the soul** of the *gratuitous remission of sins to be given on account of Christ* — which the pagans, and *Papists teaching that one must satisfy for sins by one's own works*, oppose, denying that grace is given after Baptism unless a satisfaction be interposed.
+
+**II.** That the ignorant, seeking absolution, in that consultation with the *priest* may be more accurately admonished about many things — such as the consideration of true conversion, of poverty in sin, of the Law of God, of the promise of grace, of faith, of new obedience — and be admonished or instructed, and that true repentance may be excited and augmented.
+
+**III.** Because it has always been used in the Church: even if the *enumeration of individual sins* were omitted, yet **in general**, as it were fraternally to *confess one's sins*, and to know oneself guilty, and to grieve because God and the Church have been offended, is a solid discipline (as with the disciples of John and Ananias, and Ps 9, and elsewhere). Otherwise, those *arrogant* and *impudent*, or *persevering in manifest crimes*, would be admitted to communion — against Christ's precept: *Give not what is holy to the dogs* (Matt 7:6).
+
+**V** [sic]. On account of **discipline**, lest the polluted with manifest crimes *without preceding confession and reconciliation with the offended Church* be received.
+
+**VI.** That the *testimony of one's contrition and faith or of true repentance*, before the Minister of the Church as *Vicar of Christ suffering*, may be given by each with true humility of soul (as David to the prophet Nathan said: *I have sinned against the Lord*; where Saul wished not to confess his sin, but *to be honoured before the people*).
+
+**VII.** That we may *refute the fanatics who deny that no man can remit sins* — since God *is efficacious through the ministry of men*, and the *remission of sin* made by the Ministers of the Word has *sanction and divinity of divine origin* (as Christ says: *The Son of Man has power on earth to remit sins* — Matt 9:6; *To thee I will give the keys of the kingdom of heavens: whatsoever thou shalt loose upon earth shall be loosed in heaven* — Matt 16:19; John 20[:23]: *Whose sins ye shall remit, they are remitted unto them*).
+
+**VIII** — and principal: Because in *private Absolution* there is made the **application of the universal promise of Grace to each one severally** — so that each one absolved may certainly determine and know that *its sins have been remitted by Christ Himself* through the ministry of the priest — no less than if Christ Himself with His own voice had pronounced absolution to it (Matt 9): *Be of good cheer, son: thy sins are remitted to thee.*
+
+***What is the other part of conversion to God?***
+
+**FIDES** — *certainly and without hesitation believing to the Absolution, or to the voice of the Gospel, promising remission of sins on account of Christ to all and to each of the believing*, whether it is announced in the reading or sermon of the Gospel to all at once, or through the Minister of the Gospel severally.
+
+*The definitions of Faith and New Obedience, above in the Loci concerning Justification and concerning Good Works, are here repeated.*
+
+***What are the chief Errors and corruptions of the doctrine of Repentance?***
+
+**First and chief** to be castigated is the *horrendous security and impenitence of the greatest part of men*, who, *without any sorrow for sins, and without any fear of divine judgement, loose the reins to all sins* — or *rashly trust in their own sanctity and works*.
+
+**II.** Some Novatians and Anabaptists deny that the fallen after Baptism can be converted to God by repentance, and can obtain pardon — against express testimonies (Luke 15; Matt 18; 1 John 2; Joel 2; Rom 11.2), and against the examples of the first parents (Gen 3), of Aaron (Exod 32), of David (2 Sam 11, 12), of Peter (Luke 22, and Gal 2), of the incestuous (1 Cor 5; 2 Cor 2:7).
+
+**III.** Papists teach that *Contrition merits remission of sins*, which detracts from Christ, *who alone is the Lamb of God bearing the sins of the world*. They teach that contrition must be *sufficient* — but no sorrows of any creature, however great, are equal to the wrath of God, nor can they compensate for sins. They teach that the *enumeration of all delicts, even secret ones, and of all their circumstances, is necessary, and that sins not judged in confession are not remitted* — although nowhere in the Gospel is the enumeration of all commanded, and it is even manifestly impossible, as it is said: *Delicts, who understandeth them? From my secret ones cleanse me* (Ps 19:12).
+
+**IV.** They say nothing of *Faith* (which is *fiducia* in the mercy of God promised on account of Christ) in the doctrine of repentance, and *pertinaciously deny that this faith is necessary*, whereby thou thyself certainly believest that thy sins are remitted on account of Christ. And because *no one knows whether his contrition has been sufficient*, they teach that one must always doubt whether our sins have been remitted to us and whether we are in the grace of God — a doubt which *fights with the whole doctrine of the Gospel and convicts God of lying*.
+
+They teach that one *must satisfy* for sins by works of *human invention and not commanded by the Law of God* — as though men can *by their own works satisfy for sins* and can *fulfil the Law of God, nay do more and better works than the Law of God requires*. Yet the *chief teaching of the Gospel* declares that Christ's *most perfect obedience for us* is *the only price of remission of sins*: for works *not commanded by God* the universal rule is given (Isa 29): *In vain do they worship me with the commandments and doctrines of men.* And the power of the Keys can neither *change eternal punishment into a temporal one of Purgatory* or others of this kind, which are then *redeemed by their works*, and *guilt and eternal death* are said to be remitted to us for Christ's sake alone, and *temporal penalties* by the power of the Keys can *neither be imposed nor removed, but are mitigated by our repentance* — so we know.
+
+The **invention of Purgatorial fire**, in which souls after death are tormented, or are purged, or are redeemed by the merits of others: *partly out of the Gorgias of Plato, partly out of the appearance of ghosts constructed*, and by *superstition and profit confirmed* — is plainly **ethnic** and **blasphemous against the Son of God**, fighting with the whole doctrine of the Gospel, which *nowhere makes mention of this Purgatorial fire*, but expressly teaches that *all who in true faith of Christ depart from this life* are *received into Paradise* (as it is said to the thief: *This day thou shalt be with me in Paradise*; and *Blessed are the dead who die in the Lord*). The Papal *market-days of Indulgences*, which at first were transferred *from the remission of temporal penalties in this life to the remission of Purgatorial penalties and of guilt*, are *ethnic and impious impostures — nothing else than the fowlings of Roman avarice*, as all now know.
+
+*Locus VIII follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VIII
+
+## *Of the Sacraments — Baptism and the Lord's Supper*
+
+*Note: this Locus is drawn from the 1588 edition, where it is numbered VII (order swapped in the 1594 revision).*
+
+— ❦ —
+
+### § 1. What a Sacrament is
+
+**SACRAMENTUM** is a *sacred action, instituted by God, consisting of an integral word and administration of an element, and added to the promise which is proper to the Gospel, that it may apply the promise of grace to individuals, and seal and confirm faith in believers*.
+
+***What are the Sacraments of the New Testament?***
+
+**Two**: **Baptism** and the **Lord's Supper**.¹¹⁵
+
+— ❦ —
+
+### § 2. What Baptism is
+
+**BAPTISMUS** is a *sacred action, instituted by God, containing the immersion of a person into water, and the integral pronunciation of the words: "I baptise thee in the name of the Father, and of the Son, and of the Holy Spirit"* — which testifies that the baptised is *received by God, and donated with the Holy Spirit, and accepted into the promised heirdom of eternal life*.
+
+***What is the sense of the words: "I baptise thee in the name of the Father, and of the Son, and of the Holy Spirit"?***
+
+**I** (says the minister) *immerse or wash thee with water, and invoke over thee the true God, who is the eternal Father of our Lord Jesus Christ, and the Son coeternal with Him, and the Holy Spirit, and I testify that by this true God thou art received, and that thy sins are remitted on account of Christ, who washes thee by this baptism, that testifies that thy sins have been washed off in His blood; and He sanctifies thee by His Spirit unto righteousness and eternal life. Wherefore thou wilt in turn acknowledge, invoke, and celebrate this one God.*
+
+***Are infants to be baptised?***
+
+They are to be baptised. Because to them belongs the *promise of salvation*: *Of such is the kingdom of heaven*. There is no salvation outside the Church (John 3[:5]: *Except a man be born again of water and the Spirit, he cannot enter into the kingdom of God*). Therefore it is necessary that infants also, through Baptism, be regenerated and inserted into the Church. And Christ is *efficacious* in infants *through Baptism*, and works in them *both faith and motions of the actual affections* according to the mode proper to them.
+
+— ❦ —
+
+### § 3. Of the Lord's Supper
+
+***What is the Lord's Supper?***
+
+The **Sacrament of the Altar** is the *true Body and true Blood of our Lord Jesus Christ, under bread and wine, given to us Christians to eat and to drink, instituted by Christ Himself* — or:
+
+**COENA DOMINI** is a *sacred action, instituted by the Son of God, in which — bread and wine being taken — the true Body and true Blood of our Lord Jesus Christ are received, that by this pledge those receiving may be commonly-admonished concerning the promise of the Gospel and may confirm and seal their proper faith*.¹¹⁶
+
+***To what has the Lord's Supper been instituted?***
+
+Its **first and principal end** is the **Confirmation of faith in the converted**. For Sacraments or visible signs are for this purpose added to the promise of the remission of sins, of righteousness, and of eternal life, *that they may commonly-admonish us of the promise, and be testimonies or seals of the promise, that each may apply the promise to itself by faith in the true use of the Sacrament*.
+
+**II.** *Adoption* and *union with Christ most closely*.
+
+**III.** *Thanksgiving* for all the benefits of Christ.
+
+**IV.** It is a *symbol* or *mark of confession and of doctrine*.
+
+**V.** It is a *nerve of the public ministry*.
+
+**VI.** It *commonly-admonishes concerning mutual love*. — As the old verses record:
+
+> *Influvimus, meminit, sustentat, roborat, auget*  
+> *Cœna, spem purgat, refovet, vitam dat, unit,*  
+> *Confirmat fidem, monet, ostentat, remittit.*
+
+That is: *The Supper flows into us, remembers, sustains, strengthens, augments; it purges hope, revives, gives life, unites; it confirms faith, admonishes, displays, remits.*
+
+— ❦ —
+
+### § 4. What are the chief abuses of the Lord's Supper among the Papists?
+
+**First**: they *mutilate the sacrament*, taking away *the other species of the cup* from the laity — contrary to the express words of the institution of Christ.
+
+**Second**: they feign that *by the work itself* — *ex opere operato* — one obtains remission of sins, or that the *Sacraments of the New Law confer grace on those who put no obstacle*.
+
+**Third**: they *transfer the Sacraments to other uses different from the institution* — as to the *circular carrying* [of the host in procession] and to *adoration*. Yet outside the use ordained by God, there is *nothing of the nature of a Sacrament*.
+
+**Fourth**: They *transform the Lord's Supper into a Sacrifice*, in which they *feign that they obtain for themselves and others remission of sins ex opere operato*. Against which it must be *most firmly determined*: Christ *by one sacrifice on the Cross* has merited the *remission of sins* for us, *which is received by faith alone*.
+
+**Fifth**: They *transfer the Lord's Supper to the dead to be liberated from Purgatory*.
+
+**Sixth**: Some now dispute that the *Mass is the application of the sacrifice of Christ* — which nevertheless must be held to be *made by proper faith, not on account of the work of another*. From these errors, the *difference between the Papal Mass and the celebration of our Churches* can easily be understood.
+
+— ❦ —
+
+### § 5. What is Sacrifice?
+
+**SACRIFICIUM** in general is a *ceremony* or *our work*, whereby *we attribute to God the honour proper to the divinity*; or *by which we testify that this One is the true God whom we so worship*.
+
+***What are the species of Sacrifices?***
+
+Some are *typical*, or images. Others are *not shadows but things*, and these are **twofold**: **Propitiatory**; and others **εὐχαριστικά** (eucharistic).
+
+**PROPITIATORY SACRIFICE** is a *work which appeases the wrath of God against sin, and renders God propitious, and merits for others remission of sins, righteousness, and eternal life*. Such is the *one Sacrifice of Christ* — namely *His whole obedience, especially His voluntary sorrows and death*.
+
+**SACERDOS** in general is a *Person ordained by God, that he may teach the Gospel, and pray for others, having a promise that he shall be heard, and offer the sacrifices which God has instituted*.
+
+***What is the High Priest?***
+
+**SUMMUS SACERDOS**, or **CHRISTUS**, is a *Person immediately called by God and anointed with the fullness of the Holy Spirit, that He may bring forth the Gospel from the arcane bosom of the eternal Father, and pray for us, having a promise that He shall certainly be heard, and offer a sacrifice — namely, Himself — whereby by this sacrifice He merits for the whole Church remission of sins, righteousness, and eternal life*.
+
+***What is a Eucharistic Sacrifice?***
+
+*The definition has been given above in the Locus concerning Good Works.*
+
+*Locus IX follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus IX
+
+## *Of the Church, and of the Cross and Consolations of the Church*
+
+*Note: drawn from the 1588 edition. The 1594 enumeration positions this as Locus IX (unchanged from 1588).*
+
+**Credo Ecclesiam sanctam Catholicam, sanctorum communionem.**
+
+— ❦ —
+
+### § 1. What the Church is
+
+**ECCLESIA** — the *Church*, or *People of God* — is the *assembly of those believing in Christ, or of those rightly acknowledging and worshipping God, and heirs of eternal life on account of Christ*.
+
+**ECCLESIA SANCTA CATHOLICA** is the *communion of saints*, or the *universal multitude of all pious men in all times and places living, who embrace the Gospel of Christ, and believe in Christ, and on account of Him please God, and are governed and sanctified by the Holy Spirit unto eternal life*.
+
+The *true members of this Church* are only the *pious and holy*, not hypocrites, not persecutors, who *bear the name of the Church only in appearance*. — Yet, since in this life true Church members are always mingled with some who are not holy, this **visible Church** in this life:
+
+**ECCLESIA VISIBILIS** is *the assembly of men embracing the Gospel of Christ, and rightly using the Sacraments, in which some truly believe and are governed by the Holy Spirit and are heirs of eternal life. But at the same time by external company are mingled many hypocrites, who nevertheless do not attack the true doctrine of the Gospel and do not defend idols* — as (Matt 22) *both the good and the bad are led into the wedding-feast*; and (Matt 13) *the good and the bad fishes are enclosed in the same net of the Church*.
+
+The **living members** of this visible Church are those in whom the Holy Spirit, through the Gospel, kindles *true knowledge of God, true faith, true love, and the other virtues* — although in some more, in some less, kindled and burning.
+
+**Dead members** — or hypocrites — are *twofold*: some *in doctrine consent with the pious in external profession, and do not defend external idols, and govern their morals honestly*, but *are not regenerated by the Holy Spirit*, and are without the true fear of God, and without faith; these are properly called *dead members*. Others are *manifestly impious, defending manifest errors and idols, and persecuting the true Gospel and pious men* — even if by title they seem to dominate; they *are not members of the true Church*: as in the time of Christ *members of the Church of God were* the Virgin Mary, Zechariah, Elizabeth, Joseph, the Magi, Simeon, Anna. But the *Chief Priests and the Pharisees*, though arrogant to themselves the name of the Church, and yet *persecuting Christ*, were *not members of the Church, but from their father the devil* (John 8).
+
+— ❦ —
+
+### § 2. What Predestination is
+
+**PRAEDESTINATIO** is the *eternal decree of the divine mind, by which — out of gratuitous goodness and mercy on account of the Son — He has elected an eternal Church, and men themselves pleasing to Him and heirs of eternal life*: *whose true members are singularly those who, having embraced the Son of Christ by faith in this life, persevere in Christ to the end of life*, according to the saying: *Blessed are those who die in the Lord*; *Be faithful even unto death, and I will give thee the crown of life* (Rev 2:10).¹¹⁷
+
+— ❦ —
+
+### § 3. Marks that show the true Church on earth
+
+Three marks:
+
+**I. The pure doctrine of the Gospel concerning CHRIST.** John 10[:27]: *My sheep hear my voice*. Wherever there is *not true knowledge of Christ and of the Gospel*, there is *no Church of the elect, or no men pleasing to God and heirs of eternal salvation*. John 3[:36]: *He that believeth not the Son shall not see life, but the wrath of God abideth on him.*
+
+**II. The legitimate use of the Sacraments.** Mark 16[:16]: *He that shall believe and be baptised shall be saved.* 1 Cor 11 concerning the Lord's Supper.
+
+**III. Obedience due to the ministry** in those things which properly pertain to the ministry.
+
+— ❦ —
+
+### § 4. How the Church is gathered and governed on earth
+
+*By the ministry of the Word and Sacraments, by which Christ Himself, through His Spirit, illumines minds and hearts of those hearing, that God may converse with them, and may illustrate true knowledge, console, govern, and sanctify unto eternal life.*
+
+Rom 10[:14,17]: *Whoever believes in Christ shall be saved. How shall they believe, of whom they have not heard? How shall they hear without a preacher? Therefore faith cometh by hearing of the word of God.* Ps 119: *Thy word hath vivified me.* Ps 130: *In Thy word have I hoped.* Acts 11: *He shall speak to thee words by which thou shalt be saved, and thy house.*
+
+***What is the Ministry of the Gospel?***
+
+An *office instituted by God, of publicly preaching in the assembly of the Church the Word of God, Law and Gospel concerning Christ, and legitimately administering the Sacraments, announcing the remission of sins, or absolving those acting repentance, and excommunicating the contumacious, and ordaining Ministers of the Church* — through which ministry *God is truly efficacious for salvation to everyone that believeth*.
+
+Luke 10; Matt 10, 18, 28; Rom 10; Eph 4; 1 Tim 3; 1 Tim 2.
+
+***What is Ordination of Ministers?***
+
+**ORDINATIO Ministrorum** in general is a *rite by which, before the whole Church, public testimony is given to a certain person that he is legitimately called and fit to teach the Gospel and to administer the Sacraments*.
+
+— ❦ —
+
+### § 5. The difference between the Ministry of the Gospel and Political Power
+
+Four chief differences:
+
+**First — by objects**: The *political Magistrate* is the *guardian of external discipline, defends bodies and fortunes, and punishes external crimes*. The *Ministry of the Gospel* is *concerned with souls, not only governs external morals but argues and heals hearts*.
+
+**Second — by effects or benefits**: Through the Ministry of the Gospel *God gives eternal goods — remission of sins, liberation from death, and righteousness and eternal life*. Political power *bestows only external and corporeal goods — peace, defence of bodies, and so on*.
+
+**Third — by penalties**: The Magistrate *coerces and punishes the disobedient by bodily force or the sword*. The Ministry of the Gospel *by the word alone, or the voice of the Law, and by legitimate excommunication, argues*.
+
+**Fourth**: The political Magistrate *has power to bring in new laws not fighting with natural ones*, which to violate petulantly is *mortal sin*. The Minister of the Gospel *has no power to bring in new dogmas, or new articles of faith and new worships of God*, nor is it *sin to violate the traditions of Bishops, outside the case of scandal*.
+
+— ❦ —
+
+### § 6. What is the Kingdom of Christ on this earth?
+
+**REGNUM CHRISTI** is the *government of Christ, sitting at the right hand of the Father*, whereby through the *Ministry of the Gospel* at all times *He gathers to Himself in this earth a Church, or elects of the human race, who acknowledge Him as their Lord, believe in Him, and to whom, certainly remitting sins, He imparts eternal goods*; and whom by *His Word and Holy Spirit alone — not by external corporeal arms — He governs, and defends the oppressed unconquerably, and at last from death raises up to life and eternal glory*.
+
+The **differences between the Kingdom of Christ and the kingdoms of this world** are these:
+
+**REGNUM MUNDANUM** is a government in which *one man, or the King, holding supreme empire, by certain laws, judgements, and corporeal arms, rules a multitude of men subject to him*, and *governs an honest civil discipline, and defends the bodies and fortunes of individuals by political force*.
+
+**I.** Between the *Persons of Kings* there is the greatest dissimilarity. Christ is *truly and by nature God*. Kings of the world are only *mortal and weak men*.
+
+**II. Mode of government**: The kingdom of Christ is *spiritual*, that is, *not with garrisons and bodily arms, not with swords and spears, but by the Word alone* is constituted and governed. Political kings govern by *human laws and by armies and exercises military*.
+
+**III. Mode of obedience**: Political kings *demand only obedience of external members, and punish only external crimes*. King Christ requires *interior submission of hearts*.
+
+**IV. Mode of penalties**: Kings of the world *by the sword*; Ministers of Christ *by the word alone punish delicts*.
+
+**V. Benefits**: Of the kingdom of Christ are *spiritual and eternal* — namely *remission of sins, liberation from death, righteousness and eternal life*. Political kings *impart not these eternal but only corporeal and momentary goods — political peace, defence, wealth, and family — to their subjects and armed men*.
+
+**VI. Stability**: All kingdoms of the world, *however powerful and ample, wax and are extinguished*, and return to nothing. But Christ *the Lord reigns on Mount Zion, from this moment and even unto eternity*. And since He is *eternal King*, His Church subject to Him *does not perish, but in all eternity with Him must live*.
+
+— ❦ —
+
+### § 7. The four efficient and impulsive causes of the Cross of the Church
+
+***Why is the Church of Christ subjected to the Cross on this earth?***
+
+The *common efficient and impulsive causes of all the calamities of the whole human race, of the Church, and of the impious* are **four**:
+
+**I.** *The common sin of the whole human race*, which God wills to abolish. Therefore He follows sins with death and other calamities.
+
+**II.** *Errors of the human mind.*
+
+**III.** *Depraved cupidities.*
+
+**IV.** *The tyranny of the Devil impelling men to crimes*, that he may pile up calamities and penalties.
+
+**The chief final causes are two:**
+
+**I.** That men may know that *God is wise, just, and that the wrath of God against sin and iniquity is true and horrendous*.
+
+**II.** That by calamities men may be *bent to the fear of God, modesty, and to reining in the cupidities by which afflictions are attracted*.
+
+**But the particular causes of the Church's calamities** are enumerated as **fourteen** — of which four are *impulsive*:
+
+**1.** The lapse of the first parents, and the sin thence derived to us (Rom 5:12; Ps 106:43).
+
+**2.** The interior uncleanness of the pious — doubts about God, carnal security, admixed vicious affects — which the world neglects but God wills to know and be amended. Isa 46: *I will chastise thee in judgement, that thou seem not innocent to thyself.*
+
+**3.** The rabid hatred of the Devil against the Church of God, more than against other men. Gen 3: *He shall bruise thy head, and thou shalt lie in wait for his heel.*
+
+**4.** Contests of the saints in the Church, which are punished by certain penalties (Ps 89): *I will visit their iniquities with a rod.*
+
+— ❦ —
+
+### § 8. The ten final causes of the Church's Cross
+
+Calamities are not imposed on us by God *that He may destroy us*, but that He may *do us good, and confer utilities and most ample goods*. Heb 12[:6]: *Whom the Lord loveth, He chastiseth.* 1 Cor 11[:32]: *We are chastened by the Lord, that we may not be damned with this world.*
+
+**I.** That by calamities and admonitions the impious may be *called to repentance*, and in the pious *repentance may grow*. Ps 83: *Fill their faces with reproach, and they shall seek Thy name, O Lord.* Hos 5; Lam 3; Jer 31: *Cause me to be turned, O Lord, and I shall be turned.*
+
+**II.** That the virtues of the saints — *Fear of God, Faith, Invocation, Patience, Confession*, and so on — may be *explored, exercised, and confirmed*; which in prosperity become languid and by little by little are utterly extinguished, but contrariwise grow when saints are exercised by tribulations. 2 Chr 20[:12]: *When we are ignorant what to do, our eyes are lifted up to Thee, O God.* Isa 26[:16]: *Lord, being in distress they sought Thee, when Thou didst chastise us, we cry anxiously to Thee.* 1 Pet 1[:7]: *For a little while grieved by various temptations, that the trial of your faith, more precious than gold tried by fire, may be found unto praise and glory.* Isa 28: *The vexation shall give understanding.* Rom 5: *Tribulation worketh patience — patience, probation.*
+
+**III.** That the Church may *recognise the wrath of God against the common sin of the whole human race*, and against the interior uncleanness which the world neglects. Jer 31: *I will chastise thee in judgement, lest thou seem to thyself innocent.*
+
+**IV.** That afflictions may be *testimonies of the immortality of the pious*. For the norm of divine justice is certain and unmoved: that to the pious in the end it goes well, and to the wicked ill.
+
+**V.** That they may be *testimonies of the certitude of doctrine*, and be *occasions for the doctrine to be learned more diligently*. Ps 119[:71]: *Good is it, Lord, that Thou hast humbled me, that I may learn Thy justifications.*
+
+**VI.** That the pious may be *made similar to the image of the Son of God*. Rom 8; 1 Pet 4: *Communicating with the sufferings of Christ, rejoice, that also in the revelation of His glory ye may rejoice with exulting.*
+
+**VII.** That they may *emend interior sins* — doubts, pride, security — and *shun future falls*. Isa 27: *The full fruit is that his sin be taken away.* 2 Cor 4: *Though our outward man is destroyed, yet the inner is renewed day by day.*
+
+**VIII.** That it may appear that *the Church obeys, not on account of other bodily conveniences, but for the sole glory of God*.
+
+**IX.** That the *presence and aid of Christ* may be more illustriously seen by *marvellous liberations*, and that *we, immediately and by God alone, are aided and freed*: as Daniel among the lions says: *The Lord was with me, who forsakes not those who love Him.* Ps 109: *Help me, and be my help. that they may know, because Thy hand is here — and that Thou, LORD, hast done it.* Deut 8: *Say not, my fortitude and the strength of my hand hath done all these things.*
+
+**X.** That we may *obtain the most ample rewards promised to the afflicted*. Matt 5: *Of such is the kingdom of heaven.* 2 Cor 4[:17]: *The momentary lightness of affliction worketh an eternal weight of glory.*
+
+— ❦ —
+
+### § 9. The twelve chief efficacious Consolations to be opposed to the Cross and to Calamities
+
+*Ethnic* or *philosophic* consolations are **seven**:
+
+**I.** The necessity of bearing evils which by grieving cannot be removed. *Bear, do not blame, what thou canst not change.*
+
+**II.** Virtue is to be preferred to sorrow.
+
+**III.** A good conscience. *It is something to be absent from great crimes.*
+
+**IV.** Examples.
+
+**V.** Collation of events.
+
+**VI.** Final causes, or utilities.
+
+**VII.** Uncertain hope of liberation. *Because there is a vicissitude of all things.*
+
+*Wretched is the tempest — yet it does not rage the whole year. And believe me, times of Spring shall come to thee.*
+
+**But the *fountains* of Christian Consolation are TWELVE:** of which the first six, though in some measure agreeing with philosophy, contain nevertheless *stronger reasons*. And six others are added — *more efficacious, unknown to the philosophers, revealed only in the Gospel and proper to the Church*:
+
+**1.** The necessity of obeying God, under whose powerful hand we ought to be humbled — never contending against His wisdom and justice. 1 Pet 5[:6]: *Be humbled under the powerful hand of God.* Ps 119[:75]: *Chastising, the Lord has chastised me.* Ps 39[:9]: *I was dumb, because Thou didst it.*
+
+**2.** The dignity of virtue and of piety toward God, and of confession to be preferred to all things — prosperous and adverse. Matt 10: *Whoever loveth father or mother more than me is not worthy of me.*
+
+**3.** A good conscience, and the healing of a wounded conscience by faith in the Son of God. 1 Pet 4: *Let none of you suffer as a homicide or an evil-doer.* Ps 32: *I said, I will confess to the Lord my iniquity, and Thou hast forgiven the iniquity of my sin.* — To the lapsed, acting repentance, *God commutes penalties into salutary exercises of Faith, Patience, Invocation*, and so on, and *these are not signs of wrath* (as in Saul), *but of paternal chastisement* (as in David).
+
+**4.** Examples of the Son of God, of Abel, of the Apostles, of the martyrs, and of the whole Church — to which we ought to be conformed to the image of the Son of God.
+
+**5.** Collation of events. For *in prosperity* all become *more secure and more insolent*.
+
+**6.** Final causes or utilities — of which the ten were previously recited.
+
+**7.** The knowledge of the good will of God toward us, promised on account of Christ, and the benevolence of God toward us. Prov 3[:12]: *Whom the Lord loveth, He chastiseth.*
+
+**8.** The presence of God in afflictions. Ps 91: *I am with him in tribulation.* Isa 57: *I dwell with the contrite and humble spirit.* Isa 43: *If thou pass through the waters, I will be with thee, and the rivers shall not cover thee.*
+
+**9.** The promise of divine help corroborating hearts in afflictions, that we may be able to endure all things. Phil 4: *I can do all things through Him who comforteth me.* Ps 68: *God will help me.* 1 Cor 10[:13]: *God is faithful, who will not suffer you to be tempted above that ye are able.*
+
+**10.** The promise of the mitigation of calamities in this life, and of certain liberation, either in this life or in eternity. Ps 84: *Thou hast mitigated Thy affliction.* Ps 103: *As a father pitieth his sons.* Ps 55: *Cast thy care upon the Lord, and He shall sustain thee.* Ps 34: *Many are the tribulations of the just, and from them all the Lord shall deliver them.*
+
+**11.** To these promises there accedes *faith* determining that God is with us and will mitigate calamities; *invocation asking help and liberation in afflictions*; *obedience*; *hope of help and liberation*; *patience*; and so on — all these things conjoined make a *sacrifice most pleasing to God*. Ps 51[:17]: *A sacrifice to God is an afflicted spirit.*
+
+**12.** The last and chief place of consolation is the *immortality of the Church, the Resurrection of the body, and the port of eternal life*, in which the Church, liberated from all miseries, shall most sweetly rest, and shall be filled by God with divine light, wisdom, righteousness, glory, and gladness. 2 Cor 4: *A momentary lightness of affliction worketh an eternal weight of glory.* Rom 8: *We shall be glorified together, if together we suffer.*¹¹⁸
+
+*Locus X follows.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus X
+
+## *Of the Immortality of the Soul, the Resurrection of Bodies, the Last Judgement, and Eternal Life*
+
+*Note: drawn from the 1588 edition; the 1594 enumeration preserves this as the final Locus X.*
+
+— ❦ —
+
+### § 1. What Death is
+
+**MORS CORPORIS** is the *dissolution of the soul and the corruption of the body*, which entered on account of sin — *the wages of sin*.
+
+**MORS ANIMAE SPIRITUALIS** is *impiety, or sin not remitted, on account of which man is bound to the wrath of God and to eternal penalties*. John 5[:25]: *The dead shall hear the voice of the Son of God, and hearing shall live* — that is, the impious shall be converted to God, and shall be given new righteousness and life. This first conversion to God, or the *faith* by which the believer in Christ is liberated from sin and the wrath of God, John names *the first resurrection*, just as *the first death* is the departure of the soul from the body, and the *second death* is *eternal damnation*.
+
+***What is the Death of the pious?***
+
+The *transit of the Soul, liberated from all sin and from the miseries of this life, into eternal life*, or into the *blessed converse of God and of the heavenly Church*.
+
+— ❦ —
+
+### § 2. What is the state of Souls after this life?
+
+*Souls of the pious*, departing from this life, *do not perish, nor are they oppressed by perpetual sleep, but survive; and in the sight and converse of God, in tranquil peace and joy, they take pleasure* — until, the number of those to be saved being completed, they return to the domiciles of their bodies, and, perfect beatitude and glory being obtained, they are adorned together with the bodies.¹¹⁹
+
+Wisdom 3[:1]: *The souls of the just are in the hand of God, and no torment of death shall touch them: they seem to the eyes of the foolish to die, but they are in peace.*
+
+***Recite testimonies of the immortality of the Soul.***
+
+Matt 10[:28]: *They cannot kill the soul.* Luke 23[:43]: *This day thou shalt be with me in paradise.* Matt 22[:32]: *I am the God of Abraham, and the God of Isaac, and the God of Jacob: God is not the God of the dead, but of the living.* Matt 17: *Christ conversed with Moses, over 1500 years after he had departed this life.* Luke 16: *Lazarus and Dives after death live.* Rev 6:9: *I saw the souls of those slain for the Word of God, and they are before the throne of God, and serve Him day and night.*
+
+— ❦ —
+
+### § 3. Of the Resurrection of the Dead
+
+***What is the Resurrection of the Dead?***
+
+An *action of divine omnipotence, whereby God, on the last day of the world, by His omnipotent word, shall recall the bodies of all men who have died to life, and shall reunite them with their souls* — that either they may sustain the *eternal penalties of crimes* with the Devils, or they may perceive the *eternal rewards of piety and of good works in heaven*.
+
+**Testimonies**: The *sedes doctrinae*, and, so to speak, the *whole testimony* of the Gospel, is 1 Cor 15. Additionally: 1 Thess 4; Ezek 37.
+
+Job 19[:25–27]: *I know that my Redeemer liveth, and that on the last day I shall rise from the earth: and I shall again be surrounded by my own skin, and in my flesh I shall see God, whom I myself shall see, and not another. This my hope is stored up in my bosom.*
+
+Isa 26[:19]: *Thy dead men shall live, my slain shall rise again.* Dan 12[:2]: *Those that sleep in the dust of the earth shall awake, some to eternal life, and others to eternal reproach. They that shall have been taught shall shine as the brightness of the firmament, and they that instruct many in justice, as stars in perpetual eternities.* John 11 concerning Lazarus raised: *I am the Resurrection and the Life.* John 5[:28–29]: *The hour cometh, wherein all that are in the graves shall hear the voice of the Son of man, and shall come forth: those who have done good, to the resurrection of life; those who have done evil, to the resurrection of judgement.*
+
+— ❦ —
+
+### § 4. Of the Last Judgement
+
+Certain is the future **EXTREMUM IUDICIUM**, in which the Son of God our Lord Jesus Christ, *in the form of the human nature assumed by Him, shall lead before His tribunal all men — the pious and impious — raised from death: and the impious and damned, together with the Devils, He shall cast into eternal fire; and the pious and elect He shall translate into the kingdom of the heavens prepared for them before the foundation of the world*.
+
+Matt 25[:31]: *When the Son of man shall come in His glory, and all His angels with Him, He shall sit upon the throne of His glory, and shall judge…* In this place, not only *the advent of Christ to judgement*, but also *the process and form of the judgement*, are copiously described. Acts 17[:31]: *He hath appointed a day, in which He will judge the world in justice.* Eccl 12[:14]: *God will bring all things to judgement, whatever is done, whether good or evil.*
+
+— ❦ —
+
+### § 5. Of Eternal Death
+
+**MORS IMPIORUM AETERNA**, or **MORS SECUNDA**, will be *horrible terror, anxiety, and flight; or the most bitter biting and torment of the heart perceiving the wrath of God, and the punishments of bodies in fires living and burning without consumption, in sorrow without end*.
+
+John 3[:36]: *He who believes not the Son shall not have life, but the wrath of God abideth on him.* Rom 2[:8–9]: *In the retribution of the just judgement of God, upon the impious shall come indignation and wrath and tribulation and anguish, on every soul of man that worketh evil.* Mark 9[:44]: *They shall be cast into hell, where their worm dieth not, and the fire shall not be extinguished.* Matt 25[:41]: *Go, ye cursed, into eternal fire.*
+
+— ❦ —
+
+### § 6. Of Eternal Life
+
+John 3[:16]: *For God so loved the world, that He gave His only-begotten Son, that whosoever believeth in Him should not perish, but have life eternal.* John 6[:40]: *This is the will of God, that everyone who seeth the Son and believeth in Him should have life eternal.* John 17[:3]: *This is life eternal, that they may know Thee, the only true God, and Jesus Christ, whom Thou hast sent.*
+
+***What is Eternal Life?***
+
+Life eternal shall be the *sight of God*, whereby the *Church, raised from death, and utterly liberated from all sin, shall behold face-to-face the essence and will of the whole Divinity — of the eternal Father, of the Son, and of the Holy Spirit* — and shall be *filled by God, who shall be all in all, with new and perpetual light, wisdom, justice, life, and eternal gladness*, and shall in turn celebrate God.
+
+**TO GOD BE GLORY.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Appendix
+
+## *Brief Explication of the Lord's Prayer*
+
+— ❦ —
+
+***Our Father***
+
+The *chief and highest worship of GOD*, and the best and most excellent work of man — the cause for which we are both *created by God* and *redeemed through the Son*, and *sanctified by the divine Spirit* — and moreover *the proper ornament of the Church of God alone, and the firmest safeguard of the whole life of the pious* — is the **TRUE KNOWLEDGE AND INVOCATION OF GOD**. Which God wills to be assiduously and religiously exercised by us, and *goods and liberations in dangers to be sought from Him, and awaited*, that we may render to the Lord the honour proper to the Divinity, and *may acknowledge and profess Him not to be an empty name, nor negligent of men, but truly to be present with us and to help us and, in such miseries, to bring aid to those invoking Him*. Therefore God *chiefly demands from us this worship of Invocation*, and prescribes to us the *best and most perfect FORM OF PRAYER* through His Son our Lord Jesus Christ (Luke 11 and Matt 6), in whose recitation these *six loci* are assiduously to be considered:
+
+**I.** Who is **the one true God whom we address** — namely, the eternal Father of our Lord Jesus Christ, together with His Son and the Holy Spirit, made manifest in the Church by the sending of this very Son the Mediator, on whose account also we, fleeing to Him by faith, are embraced with paternal benevolence, and our prayers received and heard. This doctrine contains the *address to God*: *Our Father*.
+
+**II.** The **most severe mandate of Christ**, which commands invocation — especially the express recitation of this form of words delivered by Christ (Luke 11).
+
+**III.** **Repentance**, or true conversion to God, acknowledging and deploring its own unworthiness and sins — as Daniel praying first confesses his sins.
+
+**IV.** The **most ample promise of God**: that God wills both to remit sins to those acting repentance, and to receive and hear our invocation, and to exhibit the good things asked, in that order and mode which He has expressed in His promise. Therefore we say: *Our Father*: He is Father — therefore *with paternal benevolence and love He embraces us* (as Luke 11:11–13 says in many words: *If ye, being evil, know how to give good gifts to your children: how much more shall your heavenly Father give the Holy Spirit to them that ask Him*. Ps 103: *As a father hath mercy on his children*). And He is **OUR** Father — not only *loving His only-begotten Son*, of whom He said: *This is my beloved Son*: but also on account of Him loving, regarding, caring, defending, hearing, saving **US** as *adopted sons*.
+
+**V.** **Faith** adding *Amen* to divine promises, and certainly determining that to itself and to God the Father remission of sins is given for the Son's sake, and its prayers heard on account of the Son the Mediator.
+
+**VI.** The **things to be sought** — spiritual and corporeal, eternal and present — which by *most wise order and admirable brevity* are by Christ distributed into **seven petitions**.
+
+— ❦ —
+
+### First Petition
+
+***Hallowed be Thy name.***
+
+*Name* signifies *notice* or *acknowledgement*, *invocation*, and *celebration*.
+
+*Sanctify* signifies to make *holy* — that is, *pure, clean, pleasing to God* — and to *dedicate to divine uses*.
+
+We ask, therefore, by this prayer:
+
+**I.** That the *notice or true and pure acknowledgement of God* may be preserved in the human race, and *all false opinions about God, and doubts, may be taken from our minds*.
+
+**II.** That the *true doctrine of God and the voice of the Gospel* may be *widely spread*, and *all impure dogmas and heresies destroyed*, by which the name of God is affected with contumely.
+
+**III.** That by *true and clean invocation and obedience* — without spots of sin — God may be worshipped and celebrated, and *the glory of God* may be *preferred to our name and fame and to all other human matters*.
+
+— ❦ —
+
+### Second Petition
+
+***Thy kingdom come.***
+
+The **Kingdom of God** in this life is the *government of God*, whereby not only He *guards and preserves the whole created nature, and especially the human race, and punishes the criminal*, but through the *ministry of the Gospel* on account of Christ *gathers to Himself a Church at all times of the world*, and *remits to it sins, liberates it from eternal death, sanctifies it by His Spirit, marvellously defends and governs it in this life oppressed by the Cross, restrains the devils and tyrants and depraved natures with penalties, and raises it up from death to eternal life and glory*.
+
+All these goods — namely, *the collection of the Church by the voice of the Gospel, the destruction of the kingdom of the devil, the government of the Holy Spirit, defence in this life, and the kingdom and celestial glory* — are sought by this prayer: *Thy kingdom come*.
+
+— ❦ —
+
+### Third Petition
+
+***Thy will be done, as in heaven, so on earth.***
+
+We ask that our wills, our counsels, and our actions may be *congruent with Thy will and word*. Flex our wills, that in bearing adverse things, in performing offices of vocation, finally in the whole of life we may obey Thee, as the Angels in heaven obey Thee: give happy successes in ecclesiastical, political, and economic vocation, that they may be pleasing to Thee.
+
+— ❦ —
+
+### Fourth Petition
+
+***Give us this day our daily bread.***
+
+**Daily bread** signifies the *very life of the body, good health, food, clothing, peace, honest discipline, fertility of land, houses, defence of children, spouses, good name*.
+
+All these goods, *necessary for the sustenance of this bodily life*, God wills to be asked of Himself for **four causes**:
+
+**First**: that *we may acknowledge God to be the Giver and Preserver of this bodily life*, and that daily bread is not offered by chance, but *distributed by certain divine counsel*.
+
+**Second**: that we may know God to *will to preserve the Church in this life* — rightly acknowledging Him, invoking Him, and celebrating Him in all eternity.
+
+**Third**: that *Faith, invocation, and thanksgiving in petition, expectation, and use of daily bread* may be exercised.
+
+**Fourth**: that it may *commonly-admonish us of Christ, who is the Bread of eternal life, and of the remission of sins, and of the spiritual goods*, whose petition should always precede the petition of bodily goods. Therefore at once is added:
+
+— ❦ —
+
+### Fifth Petition
+
+***And forgive us our debts, as we forgive our debtors.***
+
+Here is asked the *remission of sins*, **not on account of our meekness or mercy remitting to others offences and injuries, but on account of Christ alone** — as the whole doctrine of the Gospel testifies — but *the other good works necessarily accompany or follow the remission of sins*, so that *the remission of sins and grace cannot be retained* unless *actions are also, which nevertheless are not the cause of the remission of sins, but the effects or necessary companions*: meekness also, or *mercy remitting to others offences*, is necessary.
+
+— ❦ —
+
+### Sixth Petition
+
+***And lead us not into temptation.***
+
+*Temptation* signifies *sometimes instigation or impulsion to whatever sins or falls*; *sometimes calamities and miseries, by which we are either punished or proved*.
+
+*Lead us not*: that is, *let us not be impelled by the devil to sins and falls, but govern us by Thy Holy Spirit*.
+
+— ❦ —
+
+### Seventh Petition
+
+***But deliver us from evil.***
+
+*Deliver us from all evils, present and eternal — from sin, death, the tyranny of the devil, public and private calamities — and grant us life and eternal gladness.*
+
+— ❦ —
+
+### Doxology — *For thine is the kingdom*
+
+At the end are added the **impulsive and final causes** on account of which we expect the goods asked in the seven prior petitions.
+
+*Thine is the kingdom*: **Thou art King and our Father**, therefore Thou willest to give the goods promised.
+
+*And the power*: Thou canst give us the goods promised, for Thou art omnipotent.
+
+*And the glory*: *Final cause* — that *for the sake of which the goods are asked, is the Glory of God*: namely, that when God hears, He may testify that the Church is dear to Him; that the blasphemers may be refuted who dispute that God does not care for human things, that the prayers of the Church are not heard; that the *Faith of the pious may be confirmed*; that, when these benefits are recited, many may *acknowledge God*, and may be invited to the *Fear of God and to Faith*; and that by thanksgiving God may be *celebrated*.
+
+*Amen*: *Certain be it, and let come to pass, what we ask*. This our prayer is *not an empty murmur*, but we certainly determine that our prayers are heard, and that we certainly obtain the goods desired according to the promises. **Amen.**
+
+— ❦ —
+
+### *Regula Vitae* — of Philip Melanchthon
+
+*Nothing is happy without counsel, nor useful ever,*  
+*Unless the divine aid help thy plan.*  
+*Then help avails us, when the mind, conscious of what is right,*  
+*Does the just offices of the mandated duty.*  
+*If together thou seek the aid of the present Christ,*  
+*And await it, with faith not doubting —*  
+*So proceeds a work happy for peoples and cities;*  
+*Ships and sail shall bear thy prosperous winds.*  
+*And no force shall repel the unconquered right hand of God:*  
+*All things shall be forced to yield willingly to God.*  
+*Even those that seem inscribed on adamant, decreed by fate,*  
+*When we pray, yield to God.*  
+*Nor is God shut up in the prison of the Parcae*  
+*(as the Stoics thought God to be).*  
+*He alone can restrain the flying chariots of the sun,*  
+*He commands the rivers to stand as rocks.*
+
+*Prayer from 2 Chronicles 20:*
+
+*In our darkness and dense mist of mind,*  
+*When there is no counsel in the whole breast,*  
+*Being troubled we lift up to Thee, O God, the eyes of the heart:*  
+*Our faith knows Thee, of Thee alone it prays help.*  
+*Rule Thou, best Father, our counsels and acts,*  
+*That our whole work may be serviceable to Thy praise.*  
+*May the Church of Christ Thy servant remain safe,*  
+*And by Thy right hand may She protect us her sons.*  
+*As Thou didst preserve the witnesses in the Babylonian flame,*  
+*Where the King saw Thee present to be God.*
+
+*Prayer taken from Genesis I: "The Spirit of God moved upon the waters" — of Philip Melanchthon*
+
+*As the Spirit of the Lord fostered nascent bodies,*  
+*When the flowing masses hardened themselves by orders of God:*  
+*So may He foster the assemblies which learn the oracles of Christ,*  
+*And may He kindle our hearts with His fire.*
+
+**FINIS.**
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2026,6 +3084,50 @@ Three chief:
 ¹⁰³ The *"twelve causes"* Chytraeus promises to enumerate in the Locus concerning the Church (Locus IX in the present catechism) is a mnemonic scheme for the *causae crucis* — why God permits and even wills the affliction of the pious. Compare Luther *WA* 40.3:518–20 (Ps 27 lecture, 1533): the classical *causae* include (1) trial of faith, (2) exercise of patience, (3) mortification of sin, (4) conformity to Christ, (5) discipline against pride, (6) preservation from worse falls, (7) capacity for consolation of others, (8) glory of the resurrection, and so on. See in this working translation Locus IX, when completed.
 
 ¹⁰⁴ Wis 11:23 in the Vulgate (Wisdom of Solomon 11:23): *dissimulas peccata hominum propter poenitentiam* — Chytraeus's citation is standard among 16th-c. Lutherans who continued to cite the deuterocanonical books, though the *Formula of Concord* (Solid Declaration, *Rule and Norm*, §3, BSELK, p. 830) restricts *sedes doctrinae* to the canonical books alone. Sirach and Wisdom appear regularly in Chytraeus's own writings as *sapientia libri* — books of wisdom useful for teaching, though not for establishing doctrine.
+
+## From Locus IV · Of Sin
+
+¹⁰⁵ 1 John 3:4 in the Greek: *ἡ ἁμαρτία ἐστὶν ἡ ἀνομία*. Chytraeus's careful note that **ἀνομία** is *ἀσυμφωνία* (dissonance) — grammatical abstraction — reflects the late-humanist habit of philological precision on doctrinal texts. Cf. Melanchthon *Loci Praecipui* 1559, *De Peccato*, CR 21:670–72.
+
+¹⁰⁶ The insistence that *God is not the cause of sin* is Formula-of-Concord doctrine against Flacian and Manichaean readings of the *massa perditionis*. Cf. *Formula of Concord*, Solid Declaration, Art. I *De Peccato Originis*, §§27–33 (BSELK, pp. 858–62); Art. XI *De Praedestinatione*, §§4–8 (BSELK, pp. 1082–84).
+
+¹⁰⁷ Chytraeus's account of *peccatum originis* — as *defectus* and *inclinatio* born with us — is the settled Lutheran-orthodox doctrine, tracking the Augsburg Confession II *De Peccato Originis* (BSELK, pp. 92–94) and the Formula's careful *distinction between substance and accident* against Flacius (FC SD I §§21–26, BSELK, pp. 856–58).
+
+¹⁰⁸ Augustine's *definitio actualis peccati*: *peccatum est dictum vel factum vel concupitum contra Legem Dei* — repeated across his corpus, e.g., *Contra Faustum* XXII.27 (PL 42:418; CSEL 25:621). The verse *"Inquinat alterius…"* (nine ways of communicating in another's sin) is a classical medieval schoolmen's mnemonic, taught throughout the 16th-c. Lutheran school system.
+
+## From Locus V · Of the Gospel
+
+¹⁰⁹ Chytraeus's definition of the Gospel — *promissio de Christo* — closely tracks Melanchthon *Loci Praecipui* 1559, *De Evangelio*, CR 21:773–83. The *summa* citation of John 3:16 as the epitome of the whole is Luther's own (WA 45:558–74 on John 3:16 in the *Wochenpredigten*, 1537–40).
+
+¹¹⁰ Chytraeus's citation of Luther on the distinction of Law and Gospel: *"eum esse optimum Theologum, qui in docendo, et in decisionibus controversiarum, sufficienter Legem ab Evangelio accurate distinguit"* — a distillation of Luther's *WA* 36:9–42 (on Gal 3:19 lecture, 1531/35 = LW 26:309–52) and *WA* 40.1:207 (*qui bene distinguit inter legem et evangelium, is gratias agat Deo et sciat se esse theologum*). This is the *articulus discretionis* of Lutheran homiletic method.
+
+¹¹¹ Chytraeus's *five causes* for *sola fide* is a compact restatement of the Wittenberg doctrine of *justificatio per fidem propter Christum* — see *Apologia Confessionis Augustanae* IV, §§55–75 (BSELK, pp. 176–90); *Formula of Concord*, Solid Declaration, Art. III *De Iustificatione Fidei* (BSELK, pp. 916–38). The *correlative* reading of *sola fide* (that faith excludes not works absolutely but works as *cause*) is Melanchthon's mature settled formulation, reproduced by Chytraeus verbatim.
+
+## From Locus VI · Of the New Obedience
+
+¹¹² Chytraeus's list of synonyms for *new obedience* — *cultus Dei, bona opera, virtus, bonum propositum, bona conscientia, sacrificium laudis, iustitia inhaerens, inchoata obedientia, mortificatio actionum carnis* — deliberately gathers vocabulary from disputed sources (medieval scholastic *iustitia inhaerens*, patristic *sacrificium laudis*, biblical *mortificatio*) to show the Lutheran usage of the whole tradition. The parallel is Melanchthon *Loci Praecipui* 1559, *De Bonis Operibus*, CR 21:783–96.
+
+¹¹³ The 1594 OCR (Internet Archive item `Chytraeus_Catechism`, filename `Chytraeus_Catechism_1594_djvu.txt`) terminates at page 117 mid-sentence, in Chytraeus's four-fold comparison of Christian and pagan virtues. The remaining material of Locus VI (the closing on the *reward of good works*) has been supplied from the 1588 edition (`Chytraeus_Catechism_1588_djvu.txt` in the same Internet Archive item), where Chytraeus concludes Locus VI with the same six-cause enumeration of rewards, followed by the citation 1 Tim 4:8. See Translator's Note § 5 above.
+
+## From Locus VII · Of Repentance and Absolution
+
+¹¹⁴ Chytraeus's three-part definition of *poenitentia* — *Contritio, Fides, Nova Obedientia* — is the Melanchthonian-Lutheran mainstream (against the Roman two-part *contritio + satisfactio* and against the Anabaptist reduction to *nova vita alone*). Cf. *Augsburg Confession* XII *De Poenitentia* (BSELK, p. 100); *Apologia* XII §28–29 (BSELK, p. 244–46); *Formula of Concord*, Solid Declaration, Art. V *De Lege et Evangelio* §§7–14 (BSELK, pp. 1012–18).
+
+## From Locus VIII · Of the Sacraments
+
+¹¹⁵ Chytraeus's definition of a Sacrament — *actio sacra, a Deo instituta, constans verbo et administratione elementi integra, et addita promissioni quae est Evangelii propria* — is the classical Lutheran three-fold criterion (word + element + promise), and the ground on which the Lutheran distinction of *only two sacraments* against the Roman seven is made. Cf. *Augsburg Confession* XIII *De Usu Sacramentorum* (BSELK, p. 102); *Apologia* XIII (BSELK, pp. 292–96); Chemnitz *Examen Concilii Tridentini* II *De Sacramentis in Genere*.
+
+¹¹⁶ Chytraeus's definition of the Lord's Supper — *verum corpus et verus sanguis Domini nostri Iesu Christi, sub pane et vino* — is the *manducatio oralis* doctrine of *praesentia realis*, against Zwinglian symbolism and against Calvinist *manducatio spiritualis*. Cf. *Formula of Concord*, Solid Declaration, Art. VII *De Sacra Coena* (BSELK, pp. 1038–1054); Chytraeus was a signatory. The six abuses against Rome and the sacrifice-doctrine catalogued here are standard Lutheran anti-Roman polemic; see Chemnitz *Examen* II.
+
+## From Locus IX · Of the Church
+
+¹¹⁷ Chytraeus's definition of *praedestinatio* is the settled Lutheran-orthodox position: election is (i) *in Christ*, (ii) *gratuitous*, (iii) *of persevering believers* — not the Reformed *supralapsarian absolute decrees*. Cf. *Formula of Concord*, Solid Declaration, Art. XI *De Praedestinatione*, §§4–24 (BSELK, pp. 1082–92). The election is *in filio Christi* and its object is *credentes et perseverantes*, not naked individual souls antecedent to grace and faith.
+
+¹¹⁸ Chytraeus's twelve *fontes consolationis Christianae* — six shared with Ethnic-philosophic consolation, six proper to the Gospel — reflect the humanist-Lutheran integration of the classical *consolatio* tradition (Cicero *Tusculan Disputations* III–V; Seneca *Ad Marciam*, *Ad Helviam*, *Ad Polybium*) with the specifically Christological consolation of the Cross. Compare Melanchthon's *Consolatio* letters and the *De Cruce* passages of the *Loci Praecipui* 1559, CR 21:900–15.
+
+## From Locus X · Of the Immortality of the Soul
+
+¹¹⁹ Chytraeus's account of the *state of separated souls* between death and resurrection — that they *do not sleep, but consciously enjoy God in tranquil peace and joy* — is against the *psychopannychism* (soul-sleep) of some Reformation radicals (Michael Servetus, some early Anabaptists, and, in a milder form, some readings of Luther *De Anima*). The Wisdom 3:1 citation is standard Lutheran anti-mortalist proof. Cf. Gerhard *Loci* XIII *De Immortalitate Animae*, ed. Preuss, XIII.35–52.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2403,10 +3505,142 @@ Three chief:
 
 **panis quotidianus (promissa corporalia)** — Daily bread (bodily promises). Bodily goods promised for six causes: acknowledgement of God as giver, conservation of the Church, exercise of invocation, admonition to spiritual goods, expression of gratitude, adminicula of vocation.
 
-**causae crucis** — Causes of the Cross. The *twelve causes* Chytraeus promises to enumerate in Locus IX (De Ecclesia): why God wills the affliction of the pious.
+**causae crucis** — Causes of the Cross. The *twelve causes* Chytraeus enumerates in Locus IX (De Ecclesia): why God wills the affliction of the pious.
 
 — ❦ —
 
-*End of Chapter 1, Loci I–II, and Locus III (in two parts). Locus IV — De Peccato — follows in the next working session.*
+*Additional entries from Loci IV–X and the Appendix:*
+
+**Peccatum (Chytraeus)** — Sin. Whatever is repugnant to the Law of God, the eternal norm of goodness. 1 John 3:4: **ἀνομία** as *ἀσυμφωνία* (dissonance).
+
+**Peccatum originis** — Original sin. Defect or inclination born with us, drawing wrath and eternal penalties (FC SD I).
+
+**Peccatum actuale** — Actual sin. Inner or outer action repugnant to God's Law — of mind, will, heart, or external members.
+
+**Peccatum veniale / mortale** — Venial vs. mortal sin. Venial: in the regenerate retaining faith. Mortal: whereby one loses grace and becomes guilty of God's wrath.
+
+**Peccatum in Spiritum Sanctum** — Sin against the Holy Spirit. Two-fold: attacking known truth Pharisaically, or despair. Six species (Presumption, Despair, Impugning known truth, Envy of brother's grace, Hardening, Despising offered repentance).
+
+**Peccata clamantia in coelum** — Sins crying to heaven. Voluntary homicide, sodomy, oppression of the poor/widows, withheld hire.
+
+**Novem modi communicationis peccati alieni** — Nine ways of sharing another's sin (schoolmen's mnemonic *Inquinat alterius vitiis…*).
+
+**Dolus / Culpa** — Wilful crime vs. blameworthy fault (jurisconsult distinction).
+
+**Evangelium (Chytraeus)** — The Gospel. The *promise concerning Christ*: a doctrine not naturally known, freely promising remission of sins, righteousness, Holy Spirit, and eternal life on account of Christ.
+
+**Discrimen Legis et Evangelii** — Distinction of Law and Gospel. The *articulus discretionis* of Lutheran theology per Luther: *the best theologian is he who accurately distinguishes them*.
+
+**Novum / Vetus Testamentum** — New and Old Testament. Plainly the same as Gospel and Law respectively.
+
+**Spiritus / Litera (2 Cor 3)** — Spirit vs. Letter. Spirit = Christ or His Holy Spirit; Litera = the Mosaic Law and works without the Spirit.
+
+**Iustitia Legis / Iustitia Evangelii** — Righteousness of the Law vs. of the Gospel. The former demands perfect obedience; the latter given GRATIS on account of Christ, apprehended by faith alone.
+
+**Iustitia Christiana** — Christian righteousness. Remission of sins + imputation of Christ's righteousness + acceptation to eternal life.
+
+**Gratia (Chytraeus)** — Grace. Mercy of God freely promised on account of the Son the Mediator; gratuitous remission of sins.
+
+**Fides iustificans** — Justifying faith. Notice + assent to whole doctrine + *fiducia* in Christ.
+
+**Sola fide (correlative)** — Not that faith is *without* other virtues, but that we are justified *on account of Christ alone, apprehended by faith alone*. Excludes works as *cause*, not as *effect*.
+
+**Particulae exclusivae** — Exclusive particles: GRATIS, *sine Lege*, *sine operibus Legis*, *sola fide*.
+
+**Regeneratio** — Regeneration. Action of the Holy Spirit through Word and Baptism, from son of wrath to son of God.
+
+**Renovatio** — Renovation. Action of the Holy Spirit expurgating the old man and restoring the *imago Dei*.
+
+**Nova obedientia** — New obedience. With true knowledge of Christ and faith going before, shunning delicts and obeying God in affects.
+
+**Cultus Dei** — Worship of God. Synonym for good works, virtue, sacrifice of praise.
+
+**Sacrificium laudis / eucharisticum** — Sacrifice of praise, eucharistic sacrifice. Not a price for sin, but testification and thanksgiving.
+
+**Iustitia inhaerens** — Inherent righteousness. Medieval scholastic term Chytraeus lists among synonyms for *new obedience* — retained but subordinated to the primary *iustitia imputata*.
+
+**Poenitentia (Chytraeus)** — Repentance. *Contritio + Fides + Nova Obedientia*. Against Roman two-part (contrition + satisfaction) and against Anabaptist reduction to *nova vita* alone.
+
+**Contritio Iudae vs. Petri** — Contrition of Judas vs. of Peter. Servile terror without faith vs. filial fear conjoined with faith embracing Christ's promise.
+
+**Confessio (publica / privata / generalis)** — Confession, in its several kinds. Public: Church-wide or before the congregation. Private: before God alone, or before the minister (as general profession or as enumeration).
+
+**Absolutio** — Absolution. Announcement of remission by the minister in Christ's name to the sinner acting repentance.
+
+**Excommunicatio** — Excommunication. Announcement of God's wrath and eternal damnation; delivering the sinner to Satan for the destruction of the flesh (1 Cor 5:5).
+
+**Claves regni coelorum** — Keys of the kingdom of heavens. Ministry of loosing and binding, remitting and retaining sins, given by Christ to the Church.
+
+**Octo causae retinendae absolutionis privatae** — Eight causes for retaining private Absolution.
+
+**Purgatorium (rejection of)** — Purgatory. Chytraeus rejects as *plane ethnicum et blasphemum* — partly out of Plato's *Gorgias*, partly out of ghost-appearances, confirmed by superstition and profit.
+
+**Indulgentiae Papales (nundinae)** — Papal Indulgences (market-days). Nothing else than *the fowlings of Roman avarice*.
+
+**Sacramentum (Chytraeus)** — Sacrament. Sacred action instituted by God, Word + element + promise, applying grace to individuals and sealing faith.
+
+**Duo Sacramenta Novi Testamenti** — Two Sacraments: Baptism and the Lord's Supper. Against the Roman seven.
+
+**Baptismus** — Baptism. Sacred action of immersion + Trinitarian formula, testifying reception, remission, sanctification, and heirdom of eternal life. Infants baptised because to them belongs the promise.
+
+**Coena Domini** — Lord's Supper. *True body and true blood of Christ, under bread and wine* — *praesentia realis* and *manducatio oralis*. Against Zwinglian symbolism and Calvinist *manducatio spiritualis*. FC SD VII.
+
+**Sex fines Cœnae Domini** — Six ends of the Lord's Supper: confirmation of faith, adoption/union with Christ, thanksgiving, symbol of confession, nerve of public ministry, admonition to mutual love.
+
+**Sex abusus Cœnae apud Papistas** — Six papal abuses of the Supper: mutilation, *ex opere operato*, adoration/procession, Mass as sacrifice, transfer to the dead, Mass as application of Christ's sacrifice.
+
+**Ex opere operato** — By the work performed. Rejected Roman scholastic axiom on sacraments conferring grace by mere performance.
+
+**Sacrificium propitiatorium vs. eucharisticum** — Propitiatory (unique to Christ) vs. eucharistic (our thanksgiving).
+
+**Summus Sacerdos (Christus)** — High Priest. Christ alone, immediately called by God, offering Himself as the one sufficient propitiatory sacrifice.
+
+**Ecclesia (invisibilis / visibilis)** — Invisible: all pious in all times. Visible: assembly embracing Gospel + rightly using Sacraments, with hypocrites externally mingled.
+
+**Viva / Mortua membra** — Living vs. dead members. Living: those in whom the Spirit kindles true faith. Dead: hypocrites (either merely conforming externally, or manifestly impious persecutors).
+
+**Praedestinatio (Lutheran)** — Predestination. Eternal decree, gratuitous, *in Christo*, of persevering believers. Not the Reformed *supralapsarian absolute decrees*. FC SD XI.
+
+**Tres notae Ecclesiae** — Three marks: (i) pure Gospel doctrine on Christ, (ii) legitimate use of Sacraments, (iii) obedience to the ministry.
+
+**Ministerium Evangelii** — Ministry of the Gospel. Divine office of publicly preaching the Word and administering the Sacraments.
+
+**Ordinatio Ministrorum** — Ordination. Rite before the whole Church testifying legitimate call and fitness.
+
+**Regnum Christi** — Kingdom of Christ. Christ's government from the right hand, gathering the Church by Gospel, governing by Word and Spirit alone.
+
+**Regnum mundanum** — Worldly kingdom. Political government by law, judgements, corporeal arms. Distinct from *Regnum Christi* in six ways.
+
+**Quatuor causae impulsivae crucis Ecclesiae** — Four impulsive causes of the Church's cross: original sin, interior uncleanness of the pious, hatred of the devil, contests within the Church.
+
+**Decem causae finales calamitatum Ecclesiae** — Ten final causes: repentance, exercise of virtues, recognition of God's wrath against interior uncleanness, testimony of immortality, testimony of doctrine's certitude, conformity to Christ's image, mending interior sins, obedience for God's glory alone, presence and aid of Christ visibly manifest, most ample rewards to the afflicted.
+
+**Duodecim Consolationes Christianae** — Twelve fountains of Christian Consolation. Six shared with philosophy (necessity, dignity of virtue, good conscience, examples, collation, final causes); six proper to the Gospel (God's good will in Christ, God's presence, promised aid, mitigation, faith with prayer, immortality of the Church).
+
+**Mors corporis / animae spiritualis** — Bodily death (dissolution of soul from body) vs. spiritual death of soul (impiety or unremitted sin).
+
+**Mors piorum** — Death of the pious. Transit of the soul into eternal life and the converse of God.
+
+**Status animarum post mortem** — State of souls after death. Souls of the pious do not perish nor sleep, but consciously enjoy God's sight until reunited with bodies at the resurrection. Against psychopannychism.
+
+**Resurrectio mortuorum** — Resurrection of the dead. Divine omnipotence on the last day recalling all bodies and reuniting them with souls. *Sedes doctrinae*: 1 Cor 15.
+
+**Extremum Iudicium** — The Last Judgement. Christ shall lead all the raised before His tribunal.
+
+**Mors aeterna / secunda** — Eternal death, second death. Horror, torment, unquenchable fire.
+
+**Vita aeterna** — Eternal life. The *sight of God*; the raised and utterly-liberated Church shall behold face-to-face the essence and will of the whole Trinity, and shall be filled by God who shall be all in all.
+
+**DEO GLORIA** — To God be glory. Chytraeus's closing.
+
+**Sex loci considerandi in Oratione Dominica** — Six loci for the Lord's Prayer: (1) who the true God addressed is (trinitarian), (2) Christ's mandate, (3) repentance, (4) God's most ample promise, (5) faith adding *Amen*, (6) things to be sought.
+
+**Septem petitiones (expositio)** — Seven petitions expounded with the doxology *Thine is the kingdom, and the power, and the glory*.
+
+**Regula Vitae (Melanchthonis)** — Rule of Life. Melanchthon's gnomic Latin poem appended to the 1588 edition. Central sentence: *nothing succeeds without God's counsel; even fated things yield to God when we pray*.
+
+— ❦ —
+
+*End of the Working Translation. The Catechesis of David Chytraeus, Leipzig 1594 (with 1588 supplement for Loci VII–X and the closing Explicatio Precationis Dominicae), is materially complete.*
 
 *The Scholastic Lutherans · 2026*

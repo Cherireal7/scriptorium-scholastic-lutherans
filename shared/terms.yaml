@@ -1949,7 +1949,456 @@ causae_crucis:
     The twelve causes to be enumerated in Locus IX De Ecclesia: why God
     wills the affliction of the pious. Compare Luther WA 40.3:518-20.
 
+# ─── CHYTRAEUS 1594 · Loci IV-X + Appendix ─────────────────────────────
+
+peccatum_chytraeus:
+  english: Sin (Chytraeus's definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 1"
+  note: >
+    Whatever is repugnant to the Law of God, which is the eternal and
+    unmoved norm of goodness. 1 John 3:4 (ἀνομία as ἀσυμφωνία).
+
+peccatum_originis:
+  english: Original sin
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 3"
+  note: >
+    Defect or inclination born with us, drawing wrath and eternal
+    penalties. FC SD I; AC II.
+
+peccatum_actuale:
+  english: Actual sin
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 3"
+  note: Inner or outer action repugnant to God's Law.
+
+peccatum_veniale:
+  english: Venial sin
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 4"
+
+peccatum_mortale:
+  english: Mortal sin
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 4"
+
+peccatum_in_spiritum_sanctum:
+  english: Sin against the Holy Spirit
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 5"
+  note: >
+    Two-fold: attacking known truth Pharisaically, or despair. Six
+    species: presumption, despair, impugning known truth, envy of
+    brother's grace, hardening, despising offered repentance.
+
+peccata_clamantia_in_coelum:
+  english: Sins crying to heaven
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 4"
+  note: >
+    Voluntary homicide, sodomy, oppression of the poor/widows, withheld
+    hire of labourer.
+
+novem_modi_communicationis:
+  english: Nine ways of sharing another's sin
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IV § 4"
+  note: >
+    Schoolmen's mnemonic verse "Inquinat alterius vitiis se qui male
+    sanus…"
+
+evangelium_chytraeus:
+  english: The Gospel (Chytraeus's definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 1"
+  note: >
+    Promissio de Christo: doctrine not naturally known, drawn from the
+    arcane counsel of the Divinity through the Son. Freely promises
+    remission of sins, righteousness, Holy Spirit, eternal life on
+    account of Christ.
+
+discrimen_legis_evangelii:
+  english: Distinction of Law and Gospel
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 3"
+  note: >
+    The articulus discretionis of Lutheran theology per Luther: "the
+    best theologian is he who accurately distinguishes them." Cf.
+    Luther WA 36:9-42, WA 40.1:207.
+
+novum_testamentum:
+  english: New Testament
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 3"
+  note: >
+    Plainly the same as the Gospel — promise of remission on account
+    of Christ.
+
+vetus_testamentum:
+  english: Old Testament
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 3"
+  note: >
+    Properly, the promulgation of the Mosaic Law and the promise of
+    Canaan.
+
+spiritus_litera:
+  english: Spirit vs. Letter (2 Cor 3)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 3"
+
+iustitia_christiana:
+  english: Christian righteousness
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 5"
+  note: >
+    Remission of sins + imputation of Christ's righteousness +
+    acceptation to eternal life, freely, on account of Christ alone
+    apprehended by faith.
+
+fides_iustificans:
+  english: Justifying faith
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 5"
+  note: >
+    Notice + assent to the whole doctrine + fiducia in Christ the
+    Mediator resting in the promise.
+
+sola_fide_correlative:
+  english: Sola fide (correlative sense)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 6"
+  note: >
+    Not that faith is alone without works, but that we are justified
+    on account of Christ alone apprehended by faith alone. Excludes
+    works as CAUSE, not as effect or accompaniment.
+
+particulae_exclusivae:
+  english: Exclusive particles
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 6"
+  note: "GRATIS, sine Lege, sine operibus Legis, sola fide."
+
+regeneratio:
+  english: Regeneration
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 9"
+  note: >
+    Action of the Holy Spirit through the Word and Baptism; from son
+    of wrath to son of God.
+
+renovatio_naturae:
+  english: Renovation of nature
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus V § 9"
+  note: >
+    Action of the Holy Spirit dwelling in the justified, expurgating
+    the old man and restoring the imago Dei.
+
+nova_obedientia:
+  english: New obedience
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VI § 1"
+  note: >
+    With true knowledge of Christ and faith going before, shunning
+    delicts and obeying God in affects, to the end that God be
+    honoured.
+
+cultus_dei:
+  english: Worship of God
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VI § 1"
+
+sacrificium_laudis:
+  english: Sacrifice of praise (eucharistic)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VI § 2"
+  note: >
+    Not a price for sin, but testification of God's divinity and
+    thanksgiving.
+
+iustitia_inhaerens:
+  english: Inherent righteousness
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VI § 1"
+  note: >
+    Medieval scholastic term Chytraeus lists among synonyms for new
+    obedience. Subordinated to primary iustitia imputata of
+    justification.
+
+poenitentia_chytraeus:
+  english: Repentance (Chytraeus's three-part definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 1"
+  note: >
+    Contritio + Fides + Nova Obedientia. Against Roman two-part
+    (contrition + satisfaction) and Anabaptist reduction to nova vita
+    alone. Cf. AC XII; Apologia XII §28-29; FC SD V §7-14.
+
+contritio_iudae_petri:
+  english: Contrition of Judas vs. of Peter
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 5"
+  note: >
+    Servile terror without faith vs. filial fear conjoined with faith
+    embracing Christ's promise.
+
+confessio_species:
+  english: Confession, kinds of (public, private, general)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 6"
+
+absolutio:
+  english: Absolution
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 7"
+  note: >
+    Announcement of remission by the minister in Christ's name to
+    the sinner acting repentance.
+
+excommunicatio:
+  english: Excommunication
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 7"
+  note: 1 Cor 5:5; Matt 18; 1 Tim 1.
+
+claves_regni_coelorum:
+  english: Keys of the kingdom of heavens
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 7"
+
+octo_causae_absolutionis_privatae:
+  english: Eight causes for retaining private Absolution
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VII § 8"
+  note: >
+    Chytraeus's Lutheran-orthodox catalogue against both Anabaptist
+    rejection and Roman confessional-satisfaction distortion.
+
+purgatorium_rejectio:
+  english: Purgatory (Chytraeus's rejection)
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus VII § 8"
+  note: >
+    "Plane ethnicum et blasphemum contra filium Dei" — partly out of
+    Plato's Gorgias, partly out of ghost-appearances, confirmed by
+    superstition and profit.
+
+indulgentiae_papales:
+  english: Papal Indulgences (nundinae)
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus VII § 8"
+  note: "Nothing else than the fowlings of Roman avarice."
+
+sacramentum_chytraeus:
+  english: Sacrament (Chytraeus's definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 1"
+  note: >
+    Actio sacra, a Deo instituta, constans verbo et administratione
+    elementi integra, et addita promissioni quae est Evangelii propria.
+    Three-fold Lutheran criterion: Word + element + promise.
+
+duo_sacramenta:
+  english: Two Sacraments of the New Testament
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 1"
+  note: >
+    Baptism + Lord's Supper. Lutheran position against the Roman seven.
+
+baptismus_chytraeus:
+  english: Baptism (Chytraeus's definition)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 2"
+  note: >
+    Immersion + Trinitarian formula. Infants are baptised because to
+    them belongs the promise (Matt 19; John 3:5).
+
+coena_domini:
+  english: Lord's Supper
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 3"
+  note: >
+    Verum corpus et verus sanguis Domini sub pane et vino — the
+    praesentia realis and manducatio oralis doctrine. Against Zwinglian
+    symbolism and Calvinist manducatio spiritualis. FC SD VII.
+
+sex_fines_coenae:
+  english: Six ends of the Lord's Supper
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 3"
+  note: >
+    Confirmation of faith, adoption/union with Christ, thanksgiving,
+    symbol of confession, nerve of public ministry, admonition to
+    mutual love.
+
+sex_abusus_papistarum:
+  english: Six papal abuses of the Lord's Supper
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus VIII § 4"
+  note: >
+    Mutilation (cup withheld), ex opere operato, adoration/procession,
+    Mass-as-sacrifice, transfer to the dead, Mass as application of
+    Christ's sacrifice.
+
+ex_opere_operato:
+  english: By the work performed
+  type: polemical
+  first_use: "chytraeus-catechismus-1594, locus VIII § 4"
+  note: >
+    Roman-scholastic doctrine that sacraments confer grace by mere
+    performance if no obstacle placed — rejected.
+
+sacrificium_propitiatorium:
+  english: Propitiatory sacrifice
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 5"
+  note: Unique to Christ; distinct from eucharistic sacrifice.
+
+summus_sacerdos:
+  english: High Priest (Christ)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus VIII § 5"
+  note: >
+    Immediately called by God and anointed, offering Himself as the
+    one sufficient propitiatory sacrifice.
+
+ecclesia_invisibilis_visibilis:
+  english: Church, invisible and visible
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 1"
+  note: >
+    Invisible: all pious of all times who truly believe. Visible:
+    assembly embracing Gospel and rightly using Sacraments, with
+    hypocrites externally mingled.
+
+viva_mortua_membra:
+  english: Living vs. dead members of the Church
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 1"
+
+praedestinatio_lutheran:
+  english: Predestination (Lutheran)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 2"
+  note: >
+    Eternal decree, gratuitous, IN CHRISTO, of persevering believers.
+    Not the Reformed supralapsarian absolute decrees. FC SD XI.
+
+tres_notae_ecclesiae:
+  english: Three marks of the Church
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 3"
+  note: >
+    (i) pure Gospel doctrine on Christ, (ii) legitimate use of
+    Sacraments, (iii) due obedience to the ministry.
+
+ministerium_evangelii:
+  english: Ministry of the Gospel
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 4"
+
+ordinatio_ministrorum:
+  english: Ordination of Ministers
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 4"
+
+regnum_christi:
+  english: Kingdom of Christ
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 6"
+  note: >
+    Christ's government from the right hand of the Father, gathering
+    the Church by the Gospel, governing by Word and Spirit alone.
+
+regnum_mundanum:
+  english: Worldly kingdom
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 6"
+  note: Distinct from Regnum Christi in six ways.
+
+quatuor_causae_impulsivae_crucis:
+  english: Four impulsive causes of the Church's cross
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 7"
+
+decem_causae_finales_calamitatum:
+  english: Ten final causes of the Church's calamities
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 8"
+
+duodecim_consolationes_christianae:
+  english: Twelve fountains of Christian Consolation
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus IX § 9"
+  note: >
+    Six shared with philosophy; six proper to the Gospel. Reflects the
+    humanist-Lutheran integration of the classical consolatio tradition
+    (Cicero Tusc. Disp. III-V; Seneca Consolationes) with specifically
+    Christological consolation of the Cross.
+
+mors_corporis_animae:
+  english: Death of body vs. spiritual death of soul
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus X § 1"
+
+status_animarum_post_mortem:
+  english: State of souls after death
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus X § 2"
+  note: >
+    Souls of the pious do not perish nor sleep, but consciously enjoy
+    God's sight until reunited with bodies at the resurrection. Against
+    psychopannychism. Wis 3:1.
+
+resurrectio_mortuorum:
+  english: Resurrection of the dead
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus X § 3"
+  note: "Sedes doctrinae: 1 Cor 15."
+
+extremum_iudicium:
+  english: The Last Judgement
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus X § 4"
+  note: Christ leads all the raised before His tribunal (Matt 25:31ff).
+
+mors_aeterna_secunda:
+  english: Eternal death, second death
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus X § 5"
+
+vita_aeterna:
+  english: Eternal life
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, locus X § 6"
+  note: >
+    The sight of God: the raised and utterly-liberated Church shall
+    behold face-to-face the essence and will of the whole Trinity, and
+    shall be filled by God who shall be all in all.
+
+sex_loci_orationis_dominicae:
+  english: Six loci for considering the Lord's Prayer
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, appendix"
+  note: >
+    (1) Who the true God addressed is (trinitarian), (2) Christ's
+    mandate, (3) repentance, (4) God's most ample promise, (5) faith
+    adding Amen, (6) things to be sought.
+
+regula_vitae_melanchthonis:
+  english: Rule of Life (Melanchthon's poem)
+  type: dogmatic
+  first_use: "chytraeus-catechismus-1594, appendix"
+  note: >
+    Melanchthon's gnomic Latin poem appended to the 1588 edition:
+    nothing succeeds without God's counsel; even fated things yield
+    to God when we pray.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# END OF SEED + Chytraeus 1594 (Ch. 1 Prolegomena + Loci I-II + Locus III
-# Parts 1-2). Every completed work appends its own new entries here.
+# CHYTRAEUS 1594 — WORK COMPLETE (all 10 Loci + Ch. 1 Prolegomena + closing
+# Explicatio Precationis Dominicae). Second Scholastic Lutherans work done,
+# after Praetorius trilogy. Every completed work appends its own new
+# entries here.
 # ═══════════════════════════════════════════════════════════════════════════
