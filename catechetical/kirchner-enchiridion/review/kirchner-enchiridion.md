@@ -212,11 +212,19 @@ A working English edition translated by
 | **Hauptstück VII · On the Holy Spirit** | 147 |
 | &nbsp;&nbsp;&nbsp;§§ 1–8. Third Person, from Father and Son via Word and Sacraments · fivefold proof of divine Personhood · four chief works · given through the *verbum externum* (against Schwärmer) · three marks of possession · the Spirit's help in weakness · fruits of the Spirit · use | 147 |
 | **Hauptstück VIII · On Creation (and Providence)** | 157 |
-| &nbsp;&nbsp;&nbsp;§§ 1–11. Trinity as Creator · *creatio ex nihilo* · Six Days · why God created · pre-Fall goodness · divine sovereignty & freedom · perishing of the world through fire (2 Pet. 3) · Providence in four modes · four *regimens* (spiritual / ecclesiastical / domestic / **political**) · three grounds of Providence · special care for the Church | 157 |
+| &nbsp;&nbsp;&nbsp;§§ 1–12. Trinity as Creator · *creatio ex nihilo* · Six Days · why God created · pre-Fall goodness · divine sovereignty & freedom · perishing of the world through fire (2 Pet. 3) · Providence in four modes · four *regimens* (spiritual / ecclesiastical / domestic / **political**) · three grounds of Providence · special care for the Church · uses against Epicurus, Stoics, and Peripatetics | 157 |
+| **Hauptstück IX · On the Angels of God** | 173 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Angel as office of messenger · nature (image not essence) · two kinds · wiser and mightier than devils · principal office (protect Church + worldly government + household) · not to be worshipped · why they seem hidden | 173 |
+| **Hauptstück X · On the Evil Angels (Devils)** | 181 |
+| &nbsp;&nbsp;&nbsp;§§ 1–11. *Teufel = Lästerer* · demonic hierarchy · six characteristics (mighty / thousand-arts / liars-and-murderers / envious / melancholy / corrupting) · six pieces of the spiritual armour per Eph. 6 · Satan has no power over God's servants · why God permits demonic trial · against Papist exorcism · whether Devils are saved · where Evil Spirits dwell · Christian consolations | 181 |
+| **Hauptstück XI · On Man before the Fall** | 195 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Man as God's creature · created by the Trinity in counsel · body from *Aphar* + soul from divine breath · woman from Adam's rib · Image of God as *righteousness and holiness* per Paul · seven attributes of the original state · Image as gift not essence · Man's purpose (know / honour / praise / serve) | 195 |
+| **Hauptstück XII · On the Fall of Adam** | 203 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Beginning of sin in Devil's temptation · the Tree as sign of God's superiority · what Adam would have done sinless · Adam's sin against all Ten Commandments · seven consequences of the Fall · restoration via the *protoevangelium* (Gen. 3:15) | 203 |
 
 &nbsp;
 
-### *Not yet in this tranche — approximately 76% of the book (~cv 141 through ~895)*
+### *Not yet in this tranche — approximately 65% of the book (~cv 163 through ~895)*
 
 |  | Approx. cv |
 |:---|---:|
@@ -293,9 +301,9 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 - **Orthography:** 1583 forms silently modernised in the English — *vnd* → *und* in preserved German phrases; long-*ſ* → *s*; *w.* (Kirchner's mid-word abbreviation) expanded; hyphenated line-breaks joined; the terminal *ẑ* rendered *ß* in German source citations, *s* in English body. Where the 1583 orthography preserves a doctrinally meaningful spelling — *Christlichen Concordi Buchs* — it stands.
 - **Dividers:** `— ❦ —` (em-dash · aldus leaf · em-dash) at section breaks.
 
-## 5. Scope of this working translation — *first two tranches shipped, ~24% of the whole book*
+## 5. Scope of this working translation — *first three tranche-slices shipped, ~35% of the whole book*
 
-**This edition currently ships Tranches 1 and 2a — approximately 24% of the whole book. The remaining ~76% is pending translation in future tranches.**
+**This edition currently ships Tranches 1, 2a, and 2b — approximately 35% of the whole book. The remaining ~65% is pending translation in future tranches.**
 
 An earlier draft of this section (pushed 2026-08-30 as commits `1bf51a7` + `381f862` + `dc654e5`) claimed to be **the complete Enchiridion**. That claim was catastrophically wrong. It was based on the BSB IIIF Presentation manifest for `bsb00020680`, which reports 108 total canvases and yields no other structural information. Direct probing of the per-canvas hOCR API on **2026-08-31** revealed that the same identifier serves canvases well past 108 — cv 109, 150, 200, 250, 300, 400, 500, 600, 700, 800, 850, 870, 880, 895 all return real body content — and the book's actual extent is approximately **895 canvases** (cv 900 returns only the BSB shelfmark stamp; cv 950 and beyond return HTTP 404). The manifest is broken; the book itself is roughly nine times larger than the manifest disclosed.
 
@@ -1617,9 +1625,329 @@ Although God created and ordered all things through his Word, he remains **unbou
 
 **Yes.** Ps. 145, 147: *The LORD is nigh unto all them that call upon him.* Ps. 128: *Blessed is every one that feareth the LORD; thou shalt eat the labour of thy hands.* And 1 Tim. 4:10: *the living God, who is the Saviour of all men, especially of those that believe.* Though he cares generally for all creatures, he demonstrates special concern for his Church on earth and for the believers.
 
+## § 12. The uses of the doctrine of Providence — against Epicurus, the Stoics, and the Peripatetics
+
+**What practical use has this doctrine?**
+
+**1.** That we learn to recognise God's wondrous wisdom and incomprehensible governance in the ordering of all things (Ps. 30, 33, 40, 103; Isa. 49), and give thanks.
+
+**2.** That we know the preservation and maintenance of Christendom on earth is God's own work — for without his intervention against the evil spirits, the Church could not continue for a moment.
+
+**3.** That we learn also *the removal and setting-up of worldly government* to be God's own work (Dan. 2 and 4: *He removeth kings, and setteth up kings*).
+
+**4.** That we may take comfort in his omniscience — for *all the hairs of our head are numbered* (Matt. 10:30).
+
+**5.** *Against three opposing schools:*
+
+- **The Epicureans**, who deny that God cares for creation.
+- **The Stoics**, who bind God to the creatures, so that he cannot act freely.
+- **The Peripatetics** *(and other philosophic materialists)*, who allow that God governs only in the heavens, but not in the earth.
+
+Against all three we hold, with Scripture, that God's care extends to every creature, however small — for it is human reason, not divine truth, that grades his providence into what he does and does not attend to (Ps. 145).
+
 — ❦ —
 
-*[Tranche 2a ends here at cv 140. Hauptstück IX* Von Engeln Gottes *begins at cv 145 and continues into evil angels; the Fall of Adam locus opens at cv 165, and the Sin locus at cv 180. The Law with the political-authority material (* Politia *and* Obrigkeit *) is expected around cv 210–240. See Translator's Note § 5 for the full projected structure.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück IX
+
+### *Von Engeln Gottes*
+
+*On the Angels of God*
+
+— ❦ —
+
+## § 1. What Angels are
+
+**What is an Angel?**
+
+The word *Angel* signifies **a messenger**, and is a *title of office*.⁴⁵ God's Angels are *messengers* who protect and guard against every evil, and see God's commands executed without harm coming to us. Scripture also calls them **Spirits**, this name referring to their natural essence (Ps. 104: *Who maketh his angels spirits*; Heb. 1:14: *serving spirits, sent forth to minister for them who shall be heirs of salvation*).
+
+## § 2. Angels' nature; two kinds
+
+**What is the nature of the Angels?**
+
+They are made *in God's image, but not of God's essence or divine nature* — thus they are distinguished from the Deity itself. They exist in **two kinds — good and evil**, against the Sadducees and Epicureans who deny angels altogether (Acts 23:8).
+
+**Are there more good Angels than evil?**
+
+*Far more good* than evil, all awaiting divine command to protect and preserve the faithful (Dan. 7:10: *thousand thousands ministered unto him, and ten thousand times ten thousand stood before him*; Ps. 91:11).
+
+## § 3. Properties of the good Angels
+
+**What properties have the beloved Angels?**
+
+**1.** They are *reasoning and wise, much more so than evil angels* — because they have a mirror wherein to look, namely *facies Patris*, the countenance of our LORD God. This the Devil does not have. Whence one good angel is much wiser than all the devils together.
+
+**2.** They are also *mightier* than the devils — for the devils tremble before him whose name is *Omnipotens*.
+
+Whence let us diligently thank God, that he has ordained such **Guardians and Watchmen** for us, who wait upon us, and do so heartily gladly.
+
+## § 4. The principal office of the Angels
+
+**What then is the principal office of the beloved Angels?**
+
+God through the good Angels protects and preserves the Church, the worldly government, and household regiments (Ps. 34, 91; Dan. 10; Gen. 16, 24, 28, 32). God could well preserve us against the Devil and every misery *without* the Angels' service — as he could well create men without father and mother, and could govern the world directly — but he wills to work through them, that we may recognise his goodness and give thanks.
+
+Angels particularly draw to those *who fear God and practise repentance* (Ps. 33; Luke 14 — the rejoicing over one sinner that repenteth), and are present at the deathbed of the pious.
+
+## § 5. Whether Angels are to be worshipped
+
+**Should Angels be worshipped?**
+
+**No.** Scripture nowhere commands it. Gratitude for the Angels should be directed *to God, who created them as helpers* — not to the Angels themselves. To make them objects of worship is idolatry.⁴⁶
+
+## § 6. Why the Angels sometimes seem hidden
+
+**Why do the Angels sometimes appear to work in mysterious or dangerous ways, when they surround us?**
+
+God permits these seeming irregularities to test our *faith, patience, hope, and prayer*, and to preserve us from complacency (Ps. 77). Though suffering may be unavoidable, *God's hand can resolve all difficulties*. When misfortunes occur in the world or in households, we should not quickly lose heart, but *await the LORD's hand and help, which has no limit* — and say: *God still liveth, and the dear little Angels are still at hand.*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück X
+
+### *Von bösen Engeln*
+
+*On the Evil Angels (Devils)*
+
+— ❦ —
+
+## § 1. What Evil Angels are
+
+**What are Evil Angels?**
+
+They are called **Teufel** (Devils) — the word signifies *Lästerer*, "blasphemers," because they *corrupt and pervert all things to the utmost*.
+
+## § 2. Their organisation
+
+**Have the Evil Angels their own hierarchy?**
+
+**Yes.** The Devil is a *gewaltiger Herr*, a mighty lord, commanding *grosse mächtige Fürsten*, great powerful princes — as Luke 14 shows.
+
+## § 3. Chief characteristics of the Evil Angels — six points
+
+**Which are their chief characteristics?**
+
+**1.** *Mighty spirits*, compared in Scripture to *roaring lions* (1 Pet. 5:8).
+
+**2.** *Tausendkünstler* — masters of a thousand arts, particularly skilled in spiritual and governmental deceptions.
+
+**3.** *Lügner und Mörder* — liars and murderers (John 8:44), active in all institutions — churches, schools, secular government.
+
+**4.** *Neidische Geister* — envious spirits, who begrudge every good fortune of others, especially in spiritual matters.
+
+**5.** *Traurige Geister* — melancholy spirits, who cannot tolerate human joy, especially joy in God (associated by the common folk with *Poltergeister*).
+
+**6.** *Corrupting spirits* — who deceive people into accepting lies as truth, exemplified by the *Schwärmern* (the radical sects) who take falsehood for revelation (Gal. 3:1; 1 Tim. 4:1).
+
+## § 4. Their assault on Christian faith and life
+
+**Do the Evil Angels attack Christian faith and life?**
+
+**Yes.** They frighten the weak, but *strengthen the secure* in their false security. Christians therefore require *spiritual weapons* to resist demonic opposition.
+
+## § 5. The spiritual armour — six pieces, per Ephesians 6
+
+**What are the spiritual weapons against the Evil Angels?** (Eph. 6):
+
+**1.** *Loins girded with truth* (**Wahrheit**).
+
+**2.** *Breastplate of righteousness* (**Krebs der Gerechtigkeit**).
+
+**3.** *Feet shod with the Gospel of peace*.
+
+**4.** *Shield of faith in Christ* — with which to quench all the fiery darts of the wicked one.
+
+**5.** *Helmet of salvation* — namely, *hope in eternal life*.
+
+**6.** *Sword of the Spirit* (**Schwert des Geistes**) — which is **God's Word** (Matt. 4 shows how our LORD Christ used it against the Devil).
+
+## § 6. Satan has no power over God's servants
+
+**Has Satan power over Christians?**
+
+*Der Sathan hat keine Macht über die, so Gottes Diener sind* — *Satan has no power over those who are servants of God*. God permits trials only for the believer's benefit, not for their destruction.
+
+## § 7. Why God permits demonic trial
+
+**Why does God allow the Devil to afflict Christians?**
+
+He permits it — *not that the Devil should devour us, but that we be tested and refined* (1 Pet. 1:6–7). Such trial demonstrates God's power and love, and drives us to prayer.
+
+## § 8. Against Papist exorcism
+
+**A note on the papal exorcisms:** the Devil sometimes appears to depart from possessed persons *not* to serve the Gospel, but *to strengthen heretical beliefs and papal superstitions*. St. Paul warns of *false miracles and deceptive signs* (2 Thess. 2:9); the alleged demoniac miracles at the shrines of the saints (e.g., St. Cyprian's) confirm the pattern.
+
+## § 9. Whether the Devils shall ever be saved
+
+**Will the Devils ultimately become blessed, as some have taught?**
+
+**No.** Matt. 25:41 explicitly states that *hellish fire is eternal*, and evil spirits along with damned humans shall be eternally tormented therein.
+
+## § 10. Where the Evil Spirits dwell in this age
+
+**Where do the Evil Spirits dwell?**
+
+**1.** In *the children of unbelief* (Eph. 2:2).
+
+**2.** In *the unrepentant and stubborn sinners* (Luke 15).
+
+**3.** In *those who sin against conscience* (Gal. 5; John 3).
+
+## § 11. Christian consolations against the Evil Spirits
+
+**What consolations have Christians against the Evil Spirits?**
+
+**1.** Christ has overcome *the prince of this world* (John 16:11).
+
+**2.** God holds us in his protective custody.
+
+**3.** We combat deceptive spirits with **God's Word** (Matt. 4).
+
+**4.** *We are protected by the good Angels* (Ps. 34:7).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XI
+
+### *Vom Menschen vor dem Fall*
+
+*On Man before the Fall*
+
+— ❦ —
+
+## § 1. What Man is
+
+**What is Man?**
+
+Man is **God's creature**, fashioned in *God's image without sin*, given rule over all creatures, and exempt from death.
+
+## § 2. Through whom created
+
+**Through whom was Man created?**
+
+**By God himself, with deliberation and care** (Gen. 1:26 — *Let us make man in our image, after our likeness*). This represents *eine grosse Ehre* — a great honour — to human nature, that God should so speak of him in the plural of Persons, and that the whole Trinity should take counsel in his making.
+
+## § 3. Out of what created
+
+**Out of what was Man created?**
+
+The **body** was created *from earth that had been dug up and thrown about, like plowed land* — Hebrew *Aphar* (dust). The **soul** was breathed into the body *through God's breath* (Gen. 2:7).
+
+**And the woman?**
+
+From the **rib of Adam** (Gen. 2:21–22).
+
+## § 4. What the Image of God is
+
+**What is the Image of God in Man?**
+
+Per St. Paul (Eph. 4; Col. 3), it is *righteousness and holiness in the soul and in all the powers of Man*. Humans were originally created in wisdom, virtue, and love, *without all evil inclinations, just as God was* — Adam possessed an *uprightness* natural to both body and soul. Had Adam remained in this state, he would have produced offspring similarly free from evil inclinations.
+
+## § 5. The seven attributes of Man in his original state
+
+**Which were the attributes of Man as created in God's image?** *Seven points:*
+
+**1.** *Man was without sin.*
+
+**2.** *Full of gladness*, free from fear of death.
+
+**3.** *Wisdom and purity* — the knowledge of God and his righteousness.
+
+**4.** *Physical perfection* — the members of the body of *more beautiful and magnificent powers* than we now see.
+
+**5.** *Knowledge of all creatures.*
+
+**6.** *Dominion over all creation.*
+
+**7.** *Eternal life* — the greatest gift bestowed.
+
+## § 6. Whether the Image of God is Man's essence or a gift
+
+**Is the Image of God Man's essential substance, or a gift?**
+
+**A gift** — for Moses (Gen. 1–2) shows the body itself was formed from earth (thus not divine in essence), and the Apostle (Eph. 4; Col. 3) locates the Image in *righteousness and holiness* (which are proper qualities of the soul, not the substance itself).
+
+## § 7. Man's purpose
+
+**For what was Man principally created?**
+
+To *know, honour, praise, and serve* God. The Sabbath was established *not for animals but for the sake of humanity* — and human wisdom after the Fall understands nothing of this, but reckons it as *Torheit* (foolishness).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XII
+
+### *Vom Fall Adams und den verderbten Kräften des Menschen*
+
+*On the Fall of Adam and the Corrupted Powers of Man*
+
+— ❦ —
+
+## § 1. The beginning of Adam's sin
+
+**What caused Adam's fall?**
+
+*Der Anfang der Sünde Adams ist erreget von der Anfechtung des Teufels* — the beginning of Adam's sin was stirred by the Devil's temptation, through which the Devil drew Eve away from God's Word (Gen. 3).
+
+## § 2. Why God gave the Commandment about the Tree
+
+**Why did God give Adam the commandment concerning the Tree of Knowledge of Good and Evil?**
+
+This commandment served as a **sign** that humans had *a superior Being* — namely God — and could demonstrate obedience. Adam in his sinless state was fully capable of fulfilling God's requirement.
+
+**What if Adam had remained sinless?**
+
+Had Adam remained sinless, he would have laboured in Paradise *without hardship*, exercised stewardship over the animals, and cultivated the earth *without toil or suffering*. Women and children would have carried burdens *without fear or lamentation*, and on the seventh day all would have been quiet and rested.
+
+## § 3. Why the Fall of Adam is so emphasised
+
+**Why does Scripture emphasise Adam's fall so heavily?**
+
+Because Adam *sinned against God's Word* and — through this one act — *against all ten Commandments*, by allowing himself to be seduced by the Devil. Adam and his descendants were thereby cast into *sin, death, and subjection to the Devil's tyranny* — ultimately valuing the apple more than God himself, even desiring to *be like God* (Gen. 3:5).
+
+## § 4. Seven consequences of the Fall
+
+**Which are the consequences of the Fall?** *Seven points:*
+
+**1.** **Awareness of nakedness** (Gen. 3:7).
+
+**2.** **Mental and spiritual corruption** — their *heart, will, and entire reason are terribly shaken and corrupted*.
+
+**3.** **Flight from God** — they now *fear God as an enemy*.
+
+**4.** **Women's suffering** — pain in childbirth (Gen. 3:16).
+
+**5.** **Earth's curse** — *thorns and thistles instead of fruit* (Gen. 3:17–18).
+
+**6.** **Expulsion from Paradise** — condemned to struggle with hunger and hardship.
+
+**7.** **Death and inherited sin** — all descendants subject to death, *conceived and born in sin*.
+
+## § 5. How Adam and Eve were restored
+
+**How were Adam and Eve restored to righteousness?**
+
+Through the **Word of Promise** given in Gen. 3:15 — *the Seed of the Woman shall bruise the serpent's head* — the *protoevangelium*, the first promise of the Gospel and of the Christ to come.⁴⁷
+
+— ❦ —
+
+*[Tranche 2b ends here at cv 162. Free-will discussion continues at cv 165, followed by Hauptstück XIII* Von der Sünde *(Sin) at cv 180; and* Vom Gesetze *(the Law), where the political-authority /* Politia */* Obrigkeit *material lives, at cv ~210–240. See Translator's Note § 5.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1755,6 +2083,16 @@ Although God created and ordered all things through his Word, he remains **unbou
 
 **⁴⁴** The "four regimens of divine governance" at Hauptstück VIII § 9 is the *seed-plot* of the Lutheran two-kingdoms teaching. Kirchner distinguishes: (1) *spiritual realm* (angels), (2) *ecclesiastical realm* (Word and ministry), (3) *domestic realm* (household and parental authority — the base of the Fourth Commandment), (4) *political realm* (civil government, magistracy, natural order — Rom. 13). The pairing of ecclesiastical + political corresponds directly to the *regnum Christi spirituale* and the *regnum politicum* distinguished by Luther *Von weltlicher Obrigkeit* (1523, WA 11:245–281) and by the Augsburg Confession XVI *De rebus civilibus*. The developed *Politia* / *Obrigkeit* treatment (with the office of magistracy, the Christian's civil duties, the two-kingdoms teaching) sits within the missing tail of the book — expected to unfold under the Ten Commandments locus (around cv 210–240) — and is highlighted here as the seed-passage from which that fuller treatment grows.
 
+## From Hauptstück IX (Von Engeln Gottes)
+
+**⁴⁵** Kirchner's opening definition of *Angel* as *office of messenger* (rather than a natural kind) is entirely standard for Reformation-era angelology, going back to Augustine *Enarr. in Ps.* 103.1.15 (*angelus enim officii nomen est, non naturae — quaeris nomen huius naturae? spiritus est; quaeris officium? angelus est*). Chemnitz *Loci Theologici* pt. 1 loc. 4 rehearses this exact distinction; Kirchner catechises it in Q&A form.
+
+**⁴⁶** The rejection of angel-worship is Formula-of-Concord doctrine (SD IX and X, on the Descent of Christ and Church-usages); the Reformation universally condemned the medieval cult of angels, especially the popular veneration of guardian angels through liturgical propers on 2 October (Michaelmas etc.). Kirchner's terse *nein* here is a full-throated Lutheran refusal.
+
+## From Hauptstück XII (Vom Fall Adams)
+
+**⁴⁷** *Protoevangelium* — Gen. 3:15, *"I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel"* — the first evangelical promise, understood by the Reformation exegetes (with the Fathers before them) as the seed-form of the whole Gospel, promising the coming *Seed of the Woman* (Christ) who would defeat the serpent. Standard Reformation-era terminology; Luther's exposition in the 1535 *Genesis Lectures* (WA 42:145 ff.; LW 1:192 ff.) is the classical locus. Kirchner presupposes the reader will recognise the term; the English preserves the Latin.
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
@@ -1812,11 +2150,11 @@ Although God created and ordered all things through his Word, he remains **unbou
 
 &nbsp;
 
-*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. **Tranche 2a shipped 31 August 2026**, extending translation through cv 140 to cover Hauptstück V (Kingdom of Christ), VI (Eternal Priesthood), VII (Holy Spirit), and VIII (Creation and Providence).*
+*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. **Tranche 2a shipped 31 August 2026** (Hauptstück V–VIII). **Tranche 2b shipped 31 August 2026** (Hauptstück IX–XII: Angels good and evil + Man before the Fall + Fall of Adam).*
 
-*Comprising cv 5 + cv 7–140 of what is now known to be an approximately 895-canvas book — approximately **~24% of the whole* Enchiridion***. Contents through Tranche 2a: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; Hauptstück I–VIII in full (Scripture, Trinity, Person of Christ, Office of Christ, Kingdom of Christ, Eternal Priesthood, Holy Spirit, Creation and Providence). Hauptstück VIII § 9 gives the seed-passage on the **four regimens** of divine governance (spiritual / ecclesiastical / domestic / **political**) from which the fuller *Politia* / *Obrigkeit* treatment grows in the later Decalogue locus.*
+*Comprising cv 5 + cv 7–162 of what is now known to be an approximately 895-canvas book — approximately **~35% of the whole* Enchiridion***. Contents through Tranche 2b: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Hauptstück I–XII in full**. Hauptstück VIII § 9 gives the seed-passage on the four regimens of divine governance (spiritual / ecclesiastical / domestic / **political**) from which the fuller *Politia* / *Obrigkeit* treatment grows in the coming Decalogue locus (~cv 210–240).*
 
-*Approximately 76% of the book — running from cv ~141 through cv ~895 and covering Angels (good and evil), Man, the Fall, Original Sin, Actual Sin, **the Decalogue and Politia**, the Gospel, Justification, Faith, Good Works, Baptism, Lord's Supper, anti-Papal ecclesiology, Repentance, Antichrist, Resurrection, Hell (locus XLV), and Eternal Life (locus XLVI) — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
+*Approximately 65% of the book — running from cv ~163 through cv ~895 and covering Free Will after the Fall, Original Sin, Actual Sin, **the Decalogue and Politia**, the Gospel, Justification, Faith, Good Works, Baptism, Lord's Supper, anti-Papal ecclesiology, Repentance, Antichrist, Resurrection, Hell (locus XLV), and Eternal Life (locus XLVI) — is **reserved for future tranches**. See Translator's Note § 5 for the discovery narrative and the confirmed locus-list.*
 
 &nbsp;
 
