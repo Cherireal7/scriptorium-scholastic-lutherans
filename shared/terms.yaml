@@ -4291,3 +4291,220 @@ hoffprediger:
 # Body-tranche entries for Hauptstück II onward to append below this line as
 # translation proceeds.
 # ═══════════════════════════════════════════════════════════════════════════
+
+# ─── KIRCHNER 1583 · Tranche 2 body — Hauptstueck II-IV Christological block ────
+
+theotokos:
+  english: God-bearer
+  alt: ["Θεοτόκος", "Gottes Gebärerin", "DEI genitrix"]
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 4 at cv 55"
+  note: >
+    The Ephesine title (431) defending the personal union of Word and
+    flesh from the moment of conception. Not primarily a Marian claim
+    but a Christological one: what is affirmed is that the Person born
+    of Mary is the eternal Word made flesh, and therefore that Mary
+    bore not merely a human being subsequently united to God but God
+    incarnate. Formula of Concord Solid Declaration VIII (BSLK 1017)
+    receives the title without gloss. Preserve the Greek on first
+    occurrence per Hauptstück; use "God-bearer" thereafter in body.
+  see_also: [symbolum_chalcedonense, communicatio_idiomatum, unio_personalis]
+
+symbolum_chalcedonense:
+  english: Chalcedonian Definition
+  alt: ["Chalcedonense", "horos Chalcedonensis"]
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 5 at cv 55-57"
+  note: >
+    The 451 Christological Definition of the Council of Chalcedon,
+    Denzinger-Hünermann §§ 300-303. Kirchner cites the Latin form
+    apud Nicephorum lib. 15 c. 6 (Nicephorus Callistus Xanthopoulos,
+    Historia ecclesiastica, early 14th c., first printed Basel 1553),
+    rather than from the Acta directly. The four canonical adverbs
+    inconfuse / immutabiliter / indivise / insegregabiliter
+    (ἀσυγχύτως / ἀτρέπτως / ἀδιαιρέτως / ἀχωρίστως) fix the four
+    boundaries against Eutyches (confusion), Arius (change), Nestorius
+    (division), and later monophysitism (separation-refusal that
+    collapses to confusion). Preserve untranslated in structural
+    reference; give facing English rendering per Kirchner's own layout.
+  see_also: [theotokos, communicatio_idiomatum, genus_maiestaticum]
+
+caro_vivifica:
+  english: Life-giving flesh
+  alt: ["sarx zoopoios", "σὰρξ ζωοποιός", "lebendigmachend Fleisch"]
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 13 at cv 78"
+  note: >
+    Cyril of Alexandria's doctrine (esp. In Iohannis Evangelium IV.24,
+    PG 73:557 ff.) that Christ's flesh is life-giving by virtue of its
+    Personal union with the life-giving Word. Received into the
+    Definition of the Council of Ephesus (431) as the ninth of the
+    twelve Cyrilline Anathematisms (Denzinger-Hünermann § 262).
+    Lutheran Christology from Chemnitz's De duabus naturis in Christo
+    (1571) onward relies on this Cyrilline material as the patristic
+    warrant for the genus maiestaticum. Kirchner (Hauptstück III § 13)
+    carefully preserves the point that the flesh is life-giving NOT of
+    itself (as the Spirit is) but on account of the Personal union.
+    Preserve on formal doctrinal invocation; render "life-giving flesh"
+    in English body.
+  see_also: [genus_maiestaticum, unio_personalis, communicatio_idiomatum]
+
+praedicatio_verbalis:
+  english: Verbal predication (rejected)
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 9 at cv 63"
+  note: >
+    The Reformed Christological position Kirchner rejects: that
+    Scriptural predicates joining Divine and human properties in Christ
+    (e.g. God has suffered, the Lord of glory is crucified) are merely
+    verbal figures of speech (praedicationes verbales) without real
+    communication of properties between the natures. Lutherans insist
+    the predication is real, grounded in the Personal union. Formula of
+    Concord Solid Declaration VIII, BSELK 1017. Preserve untranslated
+    on formal polemical use; the Latin marks the target-position, not
+    Kirchner's own view.
+  see_also: [communicatio_idiomatum, genus_maiestaticum]
+
+agnoetae:
+  english: Agnoetae
+  type: polemical
+  first_use: "kirchner-enchiridion, hauptstueck iii § 14 at cv 81"
+  note: >
+    6th-c. Egyptian Monophysite sub-sect, followers of the deacon
+    Themistius of Alexandria, who taught that Christ was truly ignorant
+    of the day of judgement and other things according to his human
+    nature (basing themselves on Mark 13:32 / Matt. 24:36). Condemned
+    by Eulogius of Alexandria in 599 and by Pope Gregory the Great
+    the following year. Nicephorus Callistus Historia ecclesiastica
+    18.50 is Kirchner's cited source. His polemical thrust: Reformed
+    theologians who preserve the finitude of Christ's human nature by
+    denying its participation in Divine knowledge come materially near
+    the Agnoete heresy. Preserve untranslated.
+  see_also: [genus_maiestaticum, communicatio_idiomatum]
+
+dextra_dei:
+  english: Right Hand of God (as Divine Majesty, not place)
+  alt: ["Rechte Hand Gottes"]
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 19 at cv 94-97"
+  note: >
+    Kirchner argues systematically (Hauptstück III § 19) that the
+    "Right Hand of God" (Ps. 110:1, Acts 2:33, Heb. 1:3) is NOT a
+    Locus Physicus (spatial place) but the Divine Majesty and Power
+    itself — whence it is called dextra maiestatis Dei (Heb. 1:8) and
+    dextra virtutis Dei (Luke 22:69). This exegesis is load-bearing
+    for the whole Lutheran doctrine of the Session: since the Right
+    Hand is not a spatial location, Christ's session at it is
+    compatible with his human nature's multipresence wherever he
+    wills. Formula of Concord Solid Declaration VII (BSLK 1002) and
+    VIII (BSLK 1017) make the same distinction. The Reformed position
+    (Right Hand = locus in heaven) forces Christ's body into a single
+    spatial cell and renders bodily presence in the Supper impossible.
+  see_also: [genus_maiestaticum, ubiquitas, status_exaltationis]
+
+locus_physicus:
+  english: Spatial (physical) place
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 18 + § 19 at cv 92-95"
+  note: >
+    The Reformed conception of heaven and of the Right Hand of God
+    that Kirchner rejects (Hauptstück III §§ 18-19). If heaven is a
+    Locus Physicus and the Right Hand a spatial location within it,
+    Christ's body is there and cannot be here — and the bodily
+    presence in the Supper falls. If neither is spatial (Kirchner's
+    Lutheran position), the objection collapses. The Reformed
+    counter-argument that Scripture describes heaven with spatial
+    language (Christ "went up," is "seated") Kirchner reads as
+    figurative accommodation. Preserve untranslated in doctrinal
+    loci.
+  see_also: [dextra_dei, ubiquitas, illocalitas]
+
+ampt_christi:
+  english: Office of Christ (fourfold)
+  alt: ["munus Christi"]
+  type: dogmatic
+  first_use: "kirchner-enchiridion, hauptstueck iv § 1 at cv 104"
+  note: >
+    The fourfold work of Christ Kirchner catechises in Hauptstück IV:
+    (1) Redeemer-of-sin (Rom. 3; Isa. 53; 1 Tim. 2); (2) Fulfiller-of-
+    the-Law (Matt. 5; Rom. 8, 10); (3) Bestower-through-Word-and-
+    Sacrament (Rom. 1; Luke 24); (4) Sender-of-the-Spirit (John 14-16;
+    Phil. 1-2; 1 Pet. 5). NOT the developed Threefold Office (Prophet,
+    Priest, King) which is a 17th-c. dogmatic refinement in Gerhard's
+    Loci XVIII and Quenstedt (see [[quenstedt-exercitationes]]). The
+    Kirchner four-part office is a Formula-of-Concord-era catechetical
+    treatment focused on the benefits appropriated by faith, closing
+    the whole polemical Christological argument of the volume with a
+    pastoral application. Render "Office of Christ" in English body.
+  see_also: [genus_apotelesmaticum, munus_triplex]
+
+illocalitas:
+  english: Illocality (of Christ's exalted body)
+  alt: ["illocalis praesentia"]
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 21 at cv 87"
+  note: >
+    Kirchner's technical term (Damascene lib.3 cap.3 indistanter is
+    cited) for the manner of Christ's exalted body's presence: not
+    a spatial (localis) presence, not an infinite diffusion, but
+    a multipresence per Personal union that goes over spatial
+    categories entirely. Distinguished from ubiquitas-in-omnibus-
+    creaturis (which Kirchner explicitly rejects at Hauptstück III
+    § 21, cv 86: NOT in stone, leaf, grass, sun, moon) and from the
+    Reformed extra-Calvinisticum (which retains a residual spatial
+    logic). Preserve untranslated on formal doctrinal use.
+  see_also: [ubiquitas, dextra_dei, extra_calvinisticum]
+
+genus_apotelesmaticum_kirchner:
+  english: Genus Apotelesmaticum (Kirchner's second point)
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 9 at cv 63"
+  note: >
+    Kirchner's second of three points on the communicatio idiomatum
+    at Hauptstück III § 9: the Person of Christ handles and works
+    NOT in one nature alone but in, with, and through both natures
+    together — as the Chalcedonian Rule expresses it, "the one nature
+    works in communion with the other, whatever is the property of
+    each." Applied to the mediatorial office (Redeemer, King, High
+    Priest): Christ mediates according to both natures. Formula of
+    Concord Solid Declaration VIII (BSLK 1029) formalises this as
+    the genus apotelesmaticum. See master glossary entry for the
+    generic term.
+  see_also: [genus_maiestaticum, genus_idiomaticum]
+
+genus_idiomaticum_kirchner:
+  english: Genus Idiomaticum (Kirchner's first point)
+  type: christological
+  first_use: "kirchner-enchiridion, hauptstueck iii § 9 at cv 61-62"
+  note: >
+    Kirchner's first of three points on the communicatio idiomatum at
+    Hauptstück III § 9: the properties of one nature are ascribed to
+    the whole Person of Christ, not to the isolated nature — hence
+    the Person Christ suffered (not the bare human nature suffered),
+    and God has purchased his congregation with his own blood (Acts
+    20:28). This is the biblical grammar Kirchner insists on against
+    the Reformed praedicatio verbalis. See master glossary entry for
+    the generic term.
+  see_also: [communicatio_idiomatum, praedicatio_verbalis]
+
+nicephorus_callistus:
+  english: Nicephorus Callistus (Xanthopoulos)
+  type: proper-name
+  first_use: "kirchner-enchiridion, hauptstueck iii § 5 at cv 55-57"
+  note: >
+    Byzantine church historian, c. 1256–c. 1335; his Historia
+    ecclesiastica (18 books) was Kirchner's route of access to the
+    Chalcedonian Definition (cited apud Nicephorum lib. 15 c. 6,
+    Hauptstück III § 5) and to the Agnoete heresy (lib. 18 c. 50,
+    Hauptstück III § 14). First printed at Basel 1553 in Johannes
+    Langus's Latin translation; standard Reformation-era reference.
+    Kirchner's use is characteristic 16th-c. Lutheran patristic
+    method: the historians who quoted the councils were more broadly
+    available than the Acta themselves.
+  see_also: [symbolum_chalcedonense, agnoetae]
+
+# ═══════════════════════════════════════════════════════════════════════════
+# KIRCHNER 1583 — COMPLETE (Tranche 1 kick-off + Tranche 2 body). 15 seed +
+# 12 Christological body = 27 total Kirchner-specific lemmas. Working
+# translation of the whole Enchiridion (cv 5, 7-108) shipped 2026-08-30.
+# ═══════════════════════════════════════════════════════════════════════════
