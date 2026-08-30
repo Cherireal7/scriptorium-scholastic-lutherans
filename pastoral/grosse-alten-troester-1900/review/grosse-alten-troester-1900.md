@@ -1297,7 +1297,90 @@ The whole [Schatzkammer] admonishes to the grasping of grace. Pp. 1–22 give th
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[Tranche 4b closes here at Statius. Tranche 4c covers §§7–10: **Johannes Kolerus** (Posen/Silesia), **Valerius Herberger** (1562–1627, Fraustadt, *Passzeiger*), **Johann Heermann** (1585–1647, Köben — hymn-writer of "Herzliebster Jesu, was hast du verbrochen"), and the entrance to the great **Johann Arndt** portrait (1555–1621, source pp. 177–197, second-largest in the whole volume). Then §§11–12 Gerhard + Meyfart through the mid-checkpoint at source p. 218.]*
+### §7. Johannes Rosner — Mark Brandenburg
+
+*Source: II a) §7, pp. 155–156. Brief compressed entry on the Berlin Deacon and Brandenburg prayer-book compiler.*
+
+Into the Mark Brandenburg leads:
+
+**Johannes Rosner** (first half of the 17th century)¹⁶¹ stems from Lorch on the Rhine and became later Deacon at the *Graues Kloster* in Berlin. He composed the ***Rosae poenitentiae*** — "The Repentance-Roses of the Holy Spirit" — which by its clear catechism-connexion is well useful also for those to be confirmed and the newly-confirmed; as a companion to the sacramental preparation-instruction it will greatly further the understanding of the same (compare Rittmeyer below).
+
+*Note: From his time also stems the much-used **Brandenburgisches Gebetbuch,** which Johann Fleck first put together; later (1679) enlarged by Johann Gottfried Olearius.*¹⁶²
+
+### §8. Valerius Herberger (1562–1627) — Fraustadt in Posen
+
+*Source: II a) §8, pp. 156–171. The great Silesian-Polish Lutheran devotional writer, hymnist of "Valet will ich dir geben," pastor of the plague-and-Polish-persecution congregation at Fraustadt, author of the *Herz-Postille* (a Genesis-devotional cycle) and the *Passzeiger* (24-hour Passion-contemplation). The largest entry after Arndt in the Lutheran-Orthodoxy section, and a paradigm of the ***devotional preacher of the age of the cross.****
+
+#### The Life
+
+**Valerius Herberger**¹⁶³ was born in **Fraustadt** in Posen [10 April 1562]. In the 9th year of the boy his father died — a shoemaker who had been faithfully caring for the boy and had chosen him for the service of the Church. How eagerly the father had striven to lead the boy to the Lord is proved by this: before he brought him to the school, he went with him into the church, kneeled down there, and prayed heartily. Herberger's mother **Anna,** née Hoffmann, married again the shoemaker Johann Fengler. The boy came into the house of the mother's sister, the butcher's wife **Barbara Wende,** and from thence visited the town-school.
+
+In 1579 he was supposed to become a shoemaker. But his godfather, Pastor **Martin Arnold,** procured for him — according to the wish of his father — a place at the flourishing *Lateinschule* in Freystadt, that he might one day study theology. So he soon studied [Greek and] Hebrew. In 1582 he entered the high-school at Frankfurt-on-the-Oder, and after a short time that at Leipzig. Here he sat at **Selnecker's** feet¹⁶⁴ and studied industriously as a pious student. The alms-support of many high persons preserved him: at the *Ratsschreiber* Sculterus's house he had already at Freystadt been *Hofmeister* to the sons; here he became *Famulus* of the medical professor **Michael Bartsch.**
+
+God the Lord watched wonderfully over his life. He himself reports many life-rescues [in the Latin and German prefaces to his sermon-books].
+
+[After graduation Herberger returned to his native Fraustadt, was ordained pastor, and served the Lutheran-German community there through the era of Roman-Catholic recovery in Poland — an era which in 1604 took the parish-church from him, and in which he built the *Kripplein-Christi* chapel (later Christ-Church) from a cemetery-house.]
+
+During the great plague-years he stayed with his flock. He admonished the people to remain in their houses so as not to be infected. From that time of hourly [death-preparation] stems his hymn **"Valet will ich dir geben"** ("Farewell I will give thee"), a name-acrostic after his own name.¹⁶⁵ Meanwhile he refused honourable calls to Freystadt, Torgau, [Frankfurt], Breslau — to remain by his dear *Kripplein-Gemeinde.* He had the joy that in 1615 his son stood by him as Deacon.
+
+*[As his end drew near he was held in *Himmelssehnsucht* (heavenly-longing) 12 weeks on the bed.]* His dying-prayer, ***"O JEsu sei und bleibe mir mein JEsus!"*** ("O Jesus, be and remain to me my Jesus!"), the Lord heard, and let him — on Tuesday after Ascension, **18 May 1627,** after midnight — softly fall asleep, at the age of 65 years, 3 weeks, and 6 days. His friend Preibisch of Großglogau held for him the funeral-address on Luke 10:20. Not in the church but — as he wished — on the general churchyard, *as shepherd among his flock,* he was laid to rest.
+
+#### The Writings
+
+Herberger is a blessed edifying-writer through a great mass of writings — partly expositions of Scripture, partly sermons — which he issued from 1601 [onwards]. The consideration of the most important connects to the setting-out of the new editions.
+
+A selection of his sermons appeared in the *Predigt der Kirche* series:
+
+**Valerius Herberger, Ausgewählte Predigten,** with an excellently written, well-orienting monograph by Dr. Orphal, Pastor at Eisleben. Leipzig, Fr. Richter, 1892. XLVI + 124 pp, bound 1.60 M.
+
+#### 1. Genesis-Exposition — the *Herz-Postille*
+
+**Das erste Buch Mose, ausgelegt und erklärt von Valerius Herberger** — the Genesis-exposition. In this manner of exposition an *insertion of the name JESUS* takes place throughout, and allegory drives its boldest play. Thereby it comes to spelling that we find hard to bear, and to lacks of purity. Also the learnedness in histories, examples, comparisons, and citations — which often makes itself broad in Latin words — is disturbing to us. Yet despite this, the fervent love for the Saviour, and the deep, upright piety of Herberger, wins us again and again for the costly thoughts he sets forth in — though often wonderful — manner. Not for the layman simply, but for the educated layman and for the preacher, the book can be quickening, and gives much material for a deeper, practically-concrete edifying study — one that pastoral-care and preaching can be fertilised by.
+
+Yet **Herberger is a master of the German tongue:** fresh, gripping, folk-familiar, child-like naive, image-rich, he speaks of the earnestest things and — where it is fitting — gives humour its right too. That unforgivable coarsenesses and strong expressions run through is the tribute that even he pays to his time. His originality easily lets him shoot beyond the mark.
+
+The present edition (in 639 pp) contains, in an inclusive register (through p. 652), the whole in the four once-severally-issued parts:
+
+- **Part 1:** In 24 meditations, after a foundation-contemplation on John 5:26 concerning the best book of the world, the Bible: after Gen. 1–3 — *JEsus at the beginning, as the beginning of consolation, of his speech; JEsus as the beginning and Creator of the world, as our souls' Paradise, tree of life, paradise-river, as the other Adam.*
+- **Part 2:** In 33 contemplations on Gen. 4–15. Some superscriptions mark, for example, his manner: *IV. JEsus, the noble Man, in whom Eve rejoices in the pains of childbirth; V. JEsus the Lamb of God, in Abel's Easter-lamb shadowed; VI. JEsus the true Methuselah, the mighty overcomer of death and Duke of Life; IX. JEsus the noble balsam-shrub — his benefits are the healing oil-leaves which the holy Pentecost-dove, the Spirit of God, carries into the *Kästlein* of our heart; XXIV. JEsus, the sole heaven-tower on which we are, above all, secure — contemplated at the Babylonian Tower.*
+- **Part 3:** 53 contemplations on Gen. 16–34, in the history of the patriarchs. Instead of "Jehovah" always [stands the name of Christ or the Trinity].
+
+The whole method: Herberger draws deep from the Scripture and writes spirit-rich, poetic, kernel-like, gripping, folk-familiar. The [text] is drawn through with heartily prayer-sighs to Christ at the beginning of every chapter of Genesis. What Herberger drew daily from his dearest hand-book for 25 years, he wishes to offer us in his exposition — thoughts drawn from the depth of the Word and ripened under the *Trübsalpresse* of a rich-in-movement, heavily-tested life — full, sweet God-fruits: *"Who would not gladly stretch out heart and hand, to make use of what has grown on this deep-rooted tree of life!"*
+
+#### 2. Psalm-Exposition — the *Psalter-Paradise*
+
+The ***Psalter-Paradies*** embraces the first 23 Psalms (through Ps. 23:5); his son Zacharias continued it to Ps. 128. Herberger wanders through this pleasure-garden not merely as a botanist — for whom the concern is to learn to know each herb in its essence and to determine the order to which it belongs — but as an inspired friend of the heavenly-flowers, and he cannot say enough of them: how full they are of wonderful healing-powers, how lovely they smell, how they take heart and mind captive with their delicious appearance. And the flowers are to him not dumb; their smelling is testimony, their rustling is living, eloquent speech: **they speak of the one Heaven-flower, the fairest and most-healing — they all speak of the Lord Jesus Christ.**¹⁶⁶
+
+What Matthisson has sung of earthly love and Beethoven has translated into masterly sounds — how on every leaflet the one precious name stands — that sounds as the Song of Songs of heavenly love in the heart of this dear man of God; he seeks and finds only one name on all leaves, in all blossoms, in every flower-calyx of the dear Word of God.
+
+Some peculiarity-samples: **Ps. 1** is to him a *fan,* to fan up the coals of our devotion. Ps. 11 offers on 5 branches noble *breast-berries.* The Messianic Ps. 2 lets him pluck *flowers* from the words of the Trinity. He *"botanises"* even in the mineralogy [of the Psalm-imagery]. He disposes the whole Psalm as the picture within the text-verses. At Ps. 18, however, he disposes without image: 1. a bitter complaint; 2. a hearty prayer; 3. a joyful *Amen.* To Ps. 16 he even inserts a riddle. He disposes with many parts and sub-parts, e.g., Ps. 128 [with many parts]. To characterise his peculiarity further, some *chapter-titles:*
+
+- *Grape-clusters from the Paradise-garden of the [Christian], for all Christian hearts, that they may squeeze pure divine-must from them:* the 1st Grape (Ps. 3), the 2nd, 3rd, 4th (Ps. 4, 5, 6 with 5 sub-clusters), etc.
+- *Ten rows or strings full of black corals, which the evil enemy hangs on his damned spear-companions* — Ps. 10.
+- *Heart's-ease, Ehrenpreis (speedwell), noble violets, St. Katharinen-flowers* — from Ps. 15.
+- *Paradise-bells, salvation- and wonder-bells, which all wish David and Christ good fortune and peace* — Ps. 20.
+- *Passion-rosettes and spiritual violet-blues from the 22nd Psalm.* The 1st bundle with 7 rosettes (v. 1); the 2nd with 9 (vv. 2–4); the 3rd with 12 (vv. 5–9); the 4th with 5 rosettes into one great filled fourfold rose (vv. 10–12) — so through the 9th to the last handful.
+- *Sheep-garbe for the little sheep of JEsus Christ, for our souls* — from Ps. 23. In the middle (Ps. 23:5) his son Zacharias continues in his own tone.
+
+Despite the imagery-play, Herberger draws deep from the Scripture — and writes spirit-rich, poetic, kernel-like, gripping, folk-familiar. The whole is drawn through with hearty prayer-sighs to Christ at the beginning of every Psalm.
+
+#### 3. The *Passzeiger* — 24-Hour Passion-Contemplation
+
+**Passionszeiger zu heilsamer Betrachtung des bittern Leidens und Sterbens JEsu Christi. Nach Ordnung der vierundzwanzig Stunden** von Valerius Herberger. Issued by Karl Friedrich Ledderhose, evangelical Pastor. 2nd edition of the new impression. Halle, Verlag von Jul. Fricke (Nithack & Stahn) 1858. VIII + 186 pp, 8°, 31 lines to the page — clear, wide though small type. Unbound 1 M, bound 1.50 M. This first appeared in 1611, in 1706 in 2nd edition, and in 3rd 1854.
+
+After Ledderhose's preface and table of contents, Herberger gives as introduction a *Bericht* — *why* he divided the history of the Passion of JEsus into the 24 day- and night-hours — and a short summary content, together with a contemplation over *"JEsus Christ's Freier-day, all Christian hearts' good Friday"* (pp. 1–18). Then follow **24 contemplations for each hour** from Maundy Thursday (*Horoscopia*) 7 PM to Good Friday 6 PM. Ever he frightens, comforts, and teaches after three points of view: **what we have deserved; what JEsus has deserved for us; what JEsus has deserved *about* us.**
+
+Onto all important words of the Passion-history he attaches godly, edifying contemplations, which almost always pass quickly from contemplation to prayer. Also in the *Passzeiger,* Herberger's childlike-simple and yet deep grasp of Christ's suffering shines out from page to page. Naturally he cannot deny his folk-familiar, at times coarse, playful-with-language-and-thought manner; and in expressions, examples, little histories, there is here no lack either. The comparison of Christ's Jewish enemies with the Papists he lets — after Luther's example, though in tamer polemic — often shine through.¹⁶⁷ Whoever is able to look past that in which Herberger is (as few) strongly influenced by the spirit and manner of his age, and to let himself be captivated by that hearty-thoughtful, from-the-heart-humming, to-the-heart-going, pastoral-contemplation-manner of Herberger, will win from the book a rich blessing.
+
+*[Sample Herberger-imagery from the *Passzeiger,* preserved in the translation to give the flavor:¹⁶⁸ p. 31 — *"Woe to the heart which, with the fingers of Christian devotion, does not pluck thy Passion-rosettes from thee!"* — p. 35 — *"Thy heart cracks and thunders."* — p. 43 — *"Take me into the treasure-chamber of thy grace! Write thy love also on the earth-clod of my heart!"* — p. 48 — *"When in child-like devotion I string thy Blood-drops as corals around the hands of my faith [I am kept]"* — p. 50 — *"Malchus lost the right ear, for he had heard Christ's preaching always with the left ear."* — p. 59 — *"Caiaphas is grandfather of all Samosatans and Arians."* — p. 133 — *"Thou green rod of Aaron, feed me with the almond-kernels of thy merit! Thou blessed citron-tree, take from me all serpent-poison of sin!"*]
+
+Große closes on Herberger with the acknowledgement that these sermons — *"characterise Valerius Herberger in his peculiarity and outstanding preacher-gift"* — and have become for many the means of the *awakening and deepening of Christian knowledge and walking,* a good ground for this life and for that Life-to-come. **A certain kinship with Luther's preaching-way is not to be misjudged,** especially in the deep inwardness, the Scripture-knowledge and Scripture-understanding, the coarseness and fineness, the folk-familiar language. Herberger himself calls his book: **the *Herz-Postille*** — the "Heart-Postille."
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[Tranche 4c closes here at Herberger. Tranche 4d takes up §9 **Johann Heermann** (1585–1647, Köben — hymn-writer of "Herzliebster Jesu, was hast du verbrochen") and moves into the great **§10 Johann Arndt** (1555–1621, source pp. 177–197, the second-largest entry in the whole volume) with the Böhme-excursus, followed by **§11 Johann Gerhard** and **§12 Johann Matthäus Meyfart** — closing the Lutheran-Orthodoxy tranche at the mid-checkpoint at source p. 218.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1638,6 +1721,22 @@ The whole [Schatzkammer] admonishes to the grasping of grace. Pp. 1–22 give th
 ¹⁵⁹ **August Hermann Francke** (1663–1727), Halle theologian and founder of the Halle Waisenhaus + Franckesche Stiftungen; the leading figure of the Halle Pietist school. His witness that a "rough general" was converted by a woman reading Statius's *Schatzkammer* aloud is a Große-move — establishing that the *Praetorius-Statius* Lutheran-devotional line was received with warmth in the Halle Pietist orbit, further confirming Statius's mediating status between the confessional-Orthodox and the Pietist-devotional strands.
 
 ¹⁶⁰ Große's book-citation-form for Statius uses **book.chapter.section** — e.g., *"I.II.26"* means Book I, Chapter II, Section 26. This system, though awkward on the printed page, is preserved in the translation as a research aid.
+
+¹⁶¹ **Johannes Rosner** — first half of the 17th c., Berlin *Graues Kloster* Deacon. His ***Rosae poenitentiae*** (Berlin, ~1620s) is one of the many small Lutheran-Orthodox catechism-connected devotional-tracts of the era. Modern reception has vanished.
+
+¹⁶² **Johann Gottfried Olearius** (1635–1711), the well-known Halle-Saxon hymnist and devotional writer, one of the *Olearii* dynasty; his 1679 enlargement of the *Brandenburgisches Gebetbuch* by Fleck is treated more fully by Große below in Tranche 5 (II b) among the *Vertreter der Erbauungsschulantien*). Life-dates and works: **Johann Christoph Olearius** (1668–1747), hymnologist; **Adam Olearius** (1603–1671), the well-known geographer. The **Olearius family of Lutheran clergy and scholars** was a defining presence in early-modern Saxon Lutheran piety.
+
+¹⁶³ **Valerius Herberger** (1562–1627), Fraustadt-Posen Lutheran-German pastor, hymnist, and devotional-preacher. Modern-critical biography: Erdmann Adolf Klein, *Valerius Herbergers Lebens- und Wirkensbild* (Neukirchen, 1927). Standard reference: Wilhelm Herbst, *Deutsche Erbauungsliteratur* (Halle, 1937). Große's principal source here is Klaiber II, plus the Predigt-der-Kirche series monograph by Orphal (1892).
+
+¹⁶⁴ **Nikolaus Selnecker** (1530–1592), Leipzig theologian and hymnist, one of the co-authors of the *Formula of Concord.* His pastoral influence on the Leipzig student Herberger is significant: Selnecker's *Trostschriften* stand behind Herberger's own devotional method. Selnecker is a translation target of the [[scholastic-lutherans-program]] dogmatics catalogue (*Institutiones*, 1573).
+
+¹⁶⁵ ***"Valet will ich dir geben"*** — Herberger's plague-hymn, a name-acrostic (each verse-beginning spelling out V-A-L-E-R-I-U-S). First printed 1613. In modern hymnals as *EG* No. 523. One of the standard funeral-hymns of the Lutheran tradition.
+
+¹⁶⁶ Große's rendering of Herberger's *Psalter-Paradise* imagery — the flowers speaking of *"the one Heaven-flower, Jesus Christ"* — is one of the finest moments in Große's own prose: his own late-nineteenth-century pastoral warmth kindled by Herberger's early-seventeenth-century warmth. The reader may forgive the strain of the imagery-metaphor for the sake of the pastoral heart it carries.
+
+¹⁶⁷ Herberger's *Jew-Papist* comparison-move — following Luther — is one of the passages a modern reader would want to see contextualised: it belongs to the confessional-polemic apparatus of the seventeenth century, not to a distinct Anti-Judaic writing. Große preserves the notice without approving it — his own confessional-Lutheran position at Hermannsburg 1900 was firmly *pro-mission-to-the-Jews* (against the anti-Semitic Adolf-Stoecker line then rising in Berlin).
+
+¹⁶⁸ The *Passzeiger* sample-imagery is preserved in translation *verbatim* as one of the most-arresting moments in Große's own account. Herberger's imagery — the Passion-rosettes, the citron-tree taking serpent-poison of sin, the corals of Christ's Blood — is a paradigm of the *tender-visual-devotional* strand of Lutheran-Orthodox devotion, one that would flow through the seventeenth-century hymnody (Gerhardt, Franck) into the Bach cantatas and passions.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
