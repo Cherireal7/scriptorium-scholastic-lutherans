@@ -3480,12 +3480,45 @@ concilium_carthaginense_v_canon_14:
     Flacius reads as ancient conciliar witness against medieval
     private-revelation-based cults (Marian apparitions etc.).
 
+# ─── Tranche 2o — Carthage V tail + Ambrose + Jerome (vl0078-vl0080) ────
+
+ambrosiaster_thess:
+  english: Ambrose(-aster) on 2 Thess 2:3 — Roman-restorer-Antichrist
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ambrosius at vl0078"
+  note: >
+    Ambrose (or Ambrosiaster) Commentaria in II Thessalonicenses on
+    2 Thess 2:3 (PL 17:483) — homo peccati arising after Roman empire
+    collapse and restoration by "Roman" figure. Pre-Reformation Latin
+    exegete already indicating Roman-restoration-figure as Antichrist.
+
+presbyter_et_episcopus_idem:
+  english: Presbyter and episcopus originally same office (Jerome)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hieronymus at vl0080"
+  note: >
+    Jerome Ep. 146 to Evagrius (PL 22:1194) — in earliest Church
+    presbyter and episcopus were same office; elevation of episcopus
+    above presbyter is by human not divine right. Foundational
+    Reformation proof-text against medieval episcopal-hierarchical
+    claim. Parallel at Commentaria in Titum I.5 (PL 26:562).
+
+non_sanctorum_filii:
+  english: Non sanctorum filii sunt qui tenent loca sanctorum
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hieronymus at vl0080"
+  note: >
+    Jerome tag preserved in Gratian Decretum Dist. 40 (probably from
+    Ep. 14 to Heliodorus). Aphorism against ecclesiastical position-
+    holding without corresponding character. Flacius reads as Jerome's
+    own critique of developing Roman-episcopal position-doctrine.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Carthage V opening (vl0001-vl0077, 77
-# body pp + 32 paratexts ≈ 14% of 1094-pp body). Flacius lemma total: 10
+# FLACIUS 1556 — TRANCHE 2 through Jerome opening (vl0001-vl0080, 80 body
+# pp + 32 paratexts ≈ 14.6% of 1094-pp body). Flacius lemma total: 10
 # seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
 # (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
-# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) = 95.
+# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) = 98.
 # ═══════════════════════════════════════════════════════════════════════════
 
 

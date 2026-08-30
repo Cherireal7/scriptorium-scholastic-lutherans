@@ -1022,7 +1022,37 @@ Pulchrè quoq[ue] retundit fastum spiritualium, de sua dignitate superbientium, 
 
 The **Fifth Council of Carthage**, celebrated in the year 438, constituted, that little chapels or altars of saints, where the bodies of saints or other real relics were not, be destroyed; if there is danger of tumult of the people, or at least the preachers should exhort the people not to frequent those places. Little chapels also and altars from *somnia* or similar revelations fabricated (of which kind are now already in the Papacy very many, or rather infinite, everywhere) altogether he reprobates.³⁰⁷ Thus it appears, those good Fathers wished the growing idolatry of cult of saints and of temples to resist…
 
-*[Continues on `vl0078` with more of Concilium Carthaginense V and next entries; staged for next session.]*
+…to resist: but nonetheless somewhat mildly to act being compelled, on account of the fury of the superstitious and half-ethnic people. Observe how worthy it is, by what fraud that decree of the impious pious those Fathers escaped. Initially those holy men judged something be conceded to the memory of the martyrs, that where the bodies of the saints were said to lie, there memorials and little chapels (as they call them) be erected. But posterity, whichever, either would put up domos coleret; would-know, this decree escaping, dispensing one saint's cadaver-place-vest-nose-be-place; into some thousand particulars of larynx or in altars — even that any might say — in all those temples the body of the same saint be, if not totum, at least certainly a particular some or itself, or of its shoe or the least most-Papistical mos of the council seemed to be observed.³⁰⁸
+
+In this however third **Carthage synod** it is decreed also, that no non-canonical books in the Ecclesia be read: because not only Fathers in temples are read, but also Aristotle — indeed even most-vain fables in the pulpit are exposed to be spoken.³⁰⁹ In the third Carthaginian synod it is written, that neglect of priests is the cause of the dissolution of discipline in the Ecclesia. Which if ever at any time, at our times is most-true.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Ambrosius
+
+### *St Ambrose of Milan* — vl0078–vl0080
+
+**Ambrose** lived in the year 370, who in most parts dissented from the Papists.³¹⁰ I will however call up that word — 2 Thess. 2 — he says: *Priusquam Antichristus veniat, Romanum regnum debilitandum esse, sed Antichristum Romanis sub suo nomine libertatem restituturum.*³¹¹ He as if with the finger indicates *istius sancti viri* the *spiritus*, *tempus* the *adventus* of Antichrist, and his *persona*. He says the time is that, after the defection of the Roman empire, and its restoration. The person is thus he — some Roman empire, when now collapsed, will raise up. Which most-fittingly of the Pope may be said. He indeed, when now the Roman empire was propemodum extinct, that all-of-it he restored — translated to Caesar the title as to Gallos and Germanos: whence in his name, that is, tanquam Papa. Hitherto Papa did — vult-of-him allies of law above Roman monarchy. Perhaps this pious man his interpretation was gleaned from **Apocalypse 13**, where the beast has significance of wound-with-nomen-sanata a beast Antichristum signifies, honorators.
+
+In some however sermon he says: *Ex inordinata et in disciplinata sacerdotum multitudine, hodie datur contemptui nostrae redemptionis venerabile sacramentum.*³¹² For it ought to be Apostolic, in-fact-being of society of the Jew, and forerunners of Antichrist.
+
+Alone of no faith he justifies, super Romans, and often also fights constantly and gravely asserts.³¹³ Only Papists are they that against him for a long time exclaim, of Antichrist, his sophists, and of justice of faith nothing plainly know, and that doctrine also in the extreme atrociously damn.
+
+Saints however of invocation in many places not obscurely he reprehends. Nam super Rom. 1 manifestly and acrimoniously he refutes similitudinem illa Papisticam, that just as here on earth we cannot get anything by kings-not-know unless friends or counselors approach, so also in heaven God through saint mediators should be got-back. Super Colossians. 1 he says of Christ's omnipotence so illustrated, that we might know that we alone in him ought to have faith.³¹⁴ Where indeed those words he adds: *Vt si quis alicui angelorum aut potestatum devotus se debere esse putet, errare se sciat. Nam qui se subiicit humiliat, totus errat: non tenens caput, truncus est*, &c.
+
+## Hieronymus
+
+### *St Jerome* — vl0080+
+
+**Jerome** lived in the year 390.³¹⁵ He in an epistle to Evagrius contends that all bishops are of equal rank power constituted. And clearly he equates the Roman bishop, with other minor cities' bishops. Even more, that he clearly proves, bishops not by divine, but by human right of presbyters superiors to be. For as of old presbyter to be bishop was, so also here Jerome scribit super Galatas, that Paul in no way Peter's obiurgare he would-be-dare, if not himself par-to-be-was known.³¹⁶
+
+Illud quoq[ue] huius uiri dictum contra Paparum ambitionem praeclarum est, quod Dist. 40 citatur: *Non facile in loco Petri et Pauli stare et tenere cathedram regnantium cum Christo.* Quo dicto hinc indicat: *Non sanctorum filij sunt, qui tenent loca sanctorum, sed qui exercent opera eorum.*³¹⁷ Praeclarum sanè huc dictum est, quod hic Hieronymus tanquam usitatum ac celebre recitat. Si enim loca doctores aequarent, tum et is qui Hierosolymis post Christum docuit, ad authoritate aequaretur. Quo quid absurdius aut perniciosius omnino excogitari potest?
+
+In libro porrò de Norma vivendi, inquit Hieronymus: *Nulla tam crudelis in mundo bestia est, quàm modò du clericus vel sacerdos malus. Nam corrigi non patitur, nec veritatem audire potest.*³¹⁸ Quo ille sanè dicto admodum graphice nostros pseudo-spirituales depinxit.
+
+*[Jerome continues on `vl0081`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1781,6 +1811,32 @@ The **Fifth Council of Carthage**, celebrated in the year 438, constituted, that
 ## From the Catalogue — Concilium Carthaginense V (vl0077)
 
 **³⁰⁷** **Council of Carthage V** (401) — Canon 14 provided that spurious altars and memorials, not authenticated by relics or the tradition of the fathers, be destroyed. The canon was directed against the proliferation of martyr-cults based on private visions or dreams (*somnia*). Flacius reads it as ancient conciliar witness against medieval private-revelation-based cults (Marian apparitions, Bernadette-of-Lourdes-type shrines, etc.).
+
+**³⁰⁸** The **relic-fragmentation loophole** — Flacius's incisive observation that Carthage V's canon against spurious altars was subverted by the medieval practice of dividing a single saint's body into thousands of relic-particles, so that every church could claim to hold a piece and thus qualify under the canon's own exception (memorials where the body of the saint lies). The polemic against relic-multiplication is standard Reformation critique (compare Erasmus *Peregrinatio religionis ergo* 1526; Luther *Wider die himmlischen Propheten* 1525).
+
+**³⁰⁹** **Carthage III (397) Canon 47** (Flacius here confuses Carthage III and Carthage V) established the biblical canon received in the Latin West and forbade reading in church of works not in the canon. Flacius reads against medieval Aristotelianism penetrating the pulpit (a 13th-c. development post-Aquinas) and against exemplary-preaching's use of *fabellae* from the *Legenda Aurea* tradition.
+
+## From the Catalogue — Ambrosius (vl0078–vl0080)
+
+**³¹⁰** **St Ambrose of Milan** (c. 340 – 397), Bishop of Milan from 374, teacher of Augustine, one of the four traditional Latin Doctors. Flacius's dating "c. 370" points to Ambrose's early episcopate.
+
+**³¹¹** **Ambrose (or Ambrosiaster), *Commentaria in II Thessalonicenses* on 2 Thess 2:3** (PL 17:483) — the interpretation of the *homo peccati* as arising after the Roman empire's collapse and restoration by a "Roman" figure. The exegesis was later applied by Reformation polemicists to the papacy as *ipsissimus antichristus* — the one who preserves the Roman title while inverting its authority. That the pre-Reformation Latin exegete already indicated the Roman restoration-figure as Antichrist is Flacius's polemical high point.
+
+**³¹² Ambrose, *De officiis ministrorum* I.1** or one of the anti-Arian sermons — the *inordinata sacerdotum multitudo* lament. Flacius applies against the proliferation of medieval clerical orders (mendicants, canons regular, military orders).
+
+**³¹³ Ambrose, *In Romanos*** (part of the Pauline commentary corpus historically attributed to Ambrose but now recognised as **Ambrosiaster's** work, c. 375) — the celebrated *sola-fide* passages on Rom 3:24, 3:28, 4:5, cited across Reformation *justification* apologetics as pre-Reformation patristic testimony to Reformation doctrine.
+
+**³¹⁴ Ambrose(-aster), *In Colossenses* 1**, on Christ's omnipotence and the danger of angelic-mediator devotion. The exegesis was Reformation-standard against the medieval angelology of the *Celestial Hierarchy* tradition (Pseudo-Dionysius).
+
+## From the Catalogue — Hieronymus (vl0080+)
+
+**³¹⁵** **St Jerome** (c. 347 – 420), the great Latin translator (Vulgate 382–405) and Biblical exegete. Flacius's dating "c. 390" points to Jerome's Bethlehem period, when the major exegetical and epistolary corpus was composed.
+
+**³¹⁶** **Jerome, *Ep.* 146 to Evagrius** (formerly *Ep.* 85, PL 22:1194) — the celebrated declaration that in the earliest Church, *presbyter* and *episcopus* were the same office, and that the elevation of *episcopus* above *presbyter* is by human, not divine, right. The *Ep. ad Evagrium* was the foundational Reformation proof-text against the medieval episcopal-hierarchical claim. Compare Jerome's parallel treatment at **Commentaria in Titum** I.5 (PL 26:562) — Flacius's forward reference *super Galatas* is actually to the Titus commentary or to *Ep.* 146.
+
+**³¹⁷ Jerome, *Ep.* 14 to Heliodorus** or one of the exhortatory letters — the celebrated tag *non sanctorum filii sunt, qui tenent loca sanctorum, sed qui exercent opera eorum* ("the sons of the saints are not those who hold the saints' places, but those who do their works"). Preserved in **Gratian *Decretum* Dist. 40** as an aphorism against ecclesiastical position-holding without corresponding character. Flacius reads it as Jerome's own critique of the developing Roman-episcopal position-doctrine.
+
+**³¹⁸ Jerome, *Regula monachorum* / *De Norma Vivendi*** — a work of disputed attribution, sometimes cited in medieval collections as Jerome's. The aphorism *nulla tam crudelis in mundo bestia est, quam sacerdos malus* ("there is no beast so cruel in the world as a bad priest") is a Jeromean tag preserved in canonical collections; Flacius applies it to contemporary Roman-clerical corruption.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
