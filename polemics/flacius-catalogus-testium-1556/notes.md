@@ -2,7 +2,7 @@
 
 Scholastic Lutherans working file. This is the operational scratchpad for the translation; the reader-facing Translator's Note lives at `review/flacius-catalogus-testium-1556.md`.
 
-**Session log:** kick-off scaffold 2026-08-30 (commit `9c1eb56`) · source sighting 2026-08-30 (commit `caa5c62`) · Tranche 1a paratexts translated 2026-08-30 (this file's current revision).
+**Session log:** kick-off scaffold 2026-08-30 (commit `9c1eb56`) · source sighting 2026-08-30 (commit `caa5c62`) · Tranche 1a paratexts translated 2026-08-30 (commit `91377ca`) · Tranche 1b dedication middle filled 2026-08-30 (this file's current revision).
 
 ## The source, in one sentence
 
@@ -144,12 +144,17 @@ Achieved without Tesseract by reading the CAMENA JPGs directly with Claude's vis
 - **Endnotes** — 40 endnote entries added to the `# Notes` section covering: scripture citations (Vulgate + English, with Rom 11's use of 1 Kings 19), the three dedicatees identified (with the University of Jena 1558 sequel), all patristic references keyed to PL/PG, Luther's title *Doctor Martinus piae memoriae*, the Interim horizon, the Trent parallels (Session IV on Scripture-and-Tradition; the Index Librorum Prohibitorum), the Smalcald Articles' identification of the Papacy with Antichrist, the Magdeburg Centuries connection.
 - **Glossary** — 8 new lemmas added to `shared/terms.yaml` under the Flacius POLEMICS section (`romani_baalis`, `septem_millia`, `sanctus_helias`, `cribratio`, `anathema_maranatha`, `desolationum_abominationes`, `interim`, `piae_memoriae`). Original 10 seed lemmas' `first_use` fields updated against sighted attestations; `universalis_episcopus` moved to "body — Gregory the Great entry (Tranche 2)" since it does not occur in the paratexts.
 
-## Tranche 1b — outstanding
+## Tranche 1b — done 2026-08-30
 
-1. Read `avl0008.jpg` through `avl0013.jpg` (six pages, dedication middle). Translate. Splice into the `## The Epistola Nuncupatoria` section of `review/*.md`, replacing the current `[Editorial note. The following six folio pages…]` gap-marker.
-2. Sight the volume colophon (last body page, at or near `vl1094`) → confirm the printed year *1556* and the exact colophon-face wording; update endnote 2 accordingly.
-3. Read the full Index `avl0025.jpg`–`avl0032.jpg`. Extract the full alphabetical roster of witnesses with their source-page-numbers. Save as `sources-original/camena-1556/index-transcript.md` (gitignored under `**/sources-original/`). This roster is the working spine for Tranche 2's chronological re-ordering.
-4. Mid-checkpoint DOCX + PDF build (build #1 of 2). Commit.
+- **Dedication middle** (`avl0008`–`avl0013`, 6 pp) — read + translated in full and spliced into `review/*.md`, replacing the Tranche 1a gap-marker. The material is not the ancillary connective tissue I had assumed: it contains **Flacius's programmatic proposal to the Ernestine dukes for two intellectual works still owing to the Church** — (i) a Lutheran replacement for the medieval *Glossa Ordinaria* (realised as the *Clavis Scripturae Sacrae*, 1567), and (ii) a diligent Ecclesiastical History from Christ's nativity to the Reformation (realised as the **Magdeburg Centuries**, 13 vols folio, Basel: Oporinus, 1559–74). The dedication is therefore the **earliest surviving programmatic statement of the Centuries project**, three years before Vol I is printed. It also contains a fund-raising ask: books, collaborating scholars, and money will be needed, and the Ernestine dukes are asked to fund the enterprise. The Catalogus itself is presented in the dedication as the polemical-anthological first fruits of the same enterprise.
+- **13 sub-endnotes** (¹²ᵃ–¹²ᵐ, inserted between ¹² and ¹³ in the apparatus, thematically attached to endnote ¹² *piae memoriae* which closes the dedication opening) covering: Postilla references (Luther Kirchenpostille WA 17.2 & 21), Glossa Ordinaria (Anselm-of-Laon school †1117; Flacius's own Clavis 1567 and Glossa Compendiaria 1570), Magdeburg Centuries connection, the *a divina ad humanam Theologiam* critique (Aquinas, Scotus, Ockham), humanist critical-edition layout convention, *Regulae Hebraismorum* → Clavis Part II, *restauratio ad puritatem primitivae Ecclesiae* topos, **φιλανθρωπία** (Titus 3:4; Chrysostom / Nazianzen / Cyril patristic history), *septem millia* quadruply-reinforced structural function, Thucydides *κτῆμα ἐς αἰεί* (Pel. War I.22.4), Virgil-Ennius *aurum in stercore* (Suet. *Vita Vergilii* §46 Donatus), forward-reference to the Praefatio, syntactic completion of the *illu-* catchword onto avl0014.
+- **6 new POLEMICS lemmas** in `shared/terms.yaml` (`glossa_sacrarum_literarum`, `ecclesiastica_historia`, `philanthropia`, `restauratio_ecclesiae`, `postilla`, `theologia_humana`).
+
+## Tranche 1c — outstanding (deferred, not blocking Tranche 2)
+
+1. Sight the volume colophon (last body page, at or near `vl1094`) → confirm the printed year *1556* and the exact colophon-face wording; update endnote 2 accordingly.
+2. Read the full Index `avl0025.jpg`–`avl0032.jpg`. Extract the full alphabetical roster of witnesses with their source-page-numbers. Save as `sources-original/camena-1556/index-transcript.md` (gitignored under `**/sources-original/`). This roster is the working spine for Tranche 2's chronological re-ordering.
+3. Mid-checkpoint DOCX + PDF build (build #1 of 2) — do at Tranche 2 midpoint or Tranche 4 endpoint, whichever comes first.
 
 ## Immediate next actions (post-Tranche 1a session)
 

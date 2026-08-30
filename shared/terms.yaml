@@ -2602,10 +2602,80 @@ piae_memoriae:
     teacher. Preserve on the Latin phrase's first invocation; render
     freely thereafter.
 
+# ─── added from Tranche 1b dedication middle ────────────────────────────
+
+glossa_sacrarum_literarum:
+  english: Gloss on the sacred letters
+  alt: ["Glossa Ordinaria", "Glossa"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — middle at avl0008"
+  note: >
+    The standard medieval marginal-and-interlinear Bible gloss
+    (attributed to the school of Anselm of Laon †1117). Flacius's
+    proposal to the Ernestine dukes is for a Lutheran replacement in
+    the same layout-format; partially realised in his own Clavis
+    Scripturae Sacrae (1567) and Glossa Compendiaria (1570).
+    Preserve "Glossa" untranslated on first mention.
+
+ecclesiastica_historia:
+  english: Ecclesiastical History
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — middle at avl0008/0010"
+  note: >
+    Flacius's 1556 proposal for a century-by-century history of the
+    Church from Christ's nativity to the Reformation — the intellectual
+    programme that becomes the Magdeburg Centuries (13 vols folio,
+    Basel: Oporinus, 1559–74). The 1556 dedication is the earliest
+    surviving statement of the Centuries project.
+  see_also: [glossa_sacrarum_literarum, catalogus]
+
+philanthropia:
+  english: Love-of-man
+  alt: ["φιλανθρωπία"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — middle at avl0010"
+  note: >
+    Divine love-of-man; Titus 3:4 (χρηστότης καὶ φιλανθρωπία τοῦ
+    σωτῆρος ἡμῶν θεοῦ). Chrysostom, Gregory Nazianzus, Cyril of
+    Alexandria develop it as a title of the incarnate Word. Flacius
+    preserves the Greek to invoke the patristic weight.
+
+restauratio_ecclesiae:
+  english: Restoration of the Church
+  alt: ["restauratio ad puritatem primitivae Ecclesiae"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — middle at avl0010"
+  note: >
+    The Reformation historiographical topos of the Church's restoration
+    to its primitive purity. Common in Luther, Melanchthon, Bullinger,
+    Calvin from 1520 onward; Flacius reads the whole ecclesiastical past
+    as an oscillation between deformation and restauratio, of which the
+    Reformation is the most complete instance.
+
+postilla:
+  english: Postil
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — middle at avl0008"
+  note: >
+    Running commentary keyed to the lectionary or biblical text, from
+    post illa verba textus. Luther's Kirchenpostille (WA 17.2 & 21) and
+    Melanchthon's postils are Flacius's implicit reference.
+
+theologia_humana:
+  english: Human Theology
+  alt: ["theologia scholastica"]
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, epistola nuncupatoria — middle at avl0008"
+  note: >
+    Flacius's contrast-term for the medieval scholastic apparatus of
+    gloss-upon-gloss (Aquinas, Scotus, Ockham) that in his reading
+    diverts readers from Scriptura sacra to the scriptiones hominum.
+    The critique targets not only the medievals but also, by 1556,
+    the growing bulk of Reformation-era commentary.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 1a PARATEXTS (10 seed + 8 paratext-derived = 18
-# entries). Body-tranche entries to append below this line as translation
-# proceeds through Tranches 2–7.
+# FLACIUS 1556 — TRANCHE 1 COMPLETE (paratexts): 10 seed + 8 (1a) + 6 (1b) =
+# 24 entries. Body-tranche entries append below this line for Tranches 2–7.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
