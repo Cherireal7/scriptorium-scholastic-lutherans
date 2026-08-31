@@ -1024,11 +1024,196 @@ Nor do we teach that Christ's Flesh *of and for herself* is life-giving, as the 
 
 **2.** The Godhead of the Word **is the Life itself**; but Christ's Flesh **is not the Life itself**, but *makes alive*, because she is exalted to such Power on account of the Personal Union.
 
-**3.** The Godhead of the Word is **the Life from Eternity** and *the fountain* of the same...
+**3.** The Godhead of the Word is **the Life from Eternity** and *the fountain* of the same; Christ's Flesh, however, has *received* such Power *in the fullness of the time*.
+
+**4.** The Godhead of the Word imparts the Life *as a living Spirit*; Christ's Flesh, however — because she is come to the Power of Christ's Spirit *through the Personal Union* — [makes alive]; therefore no *mixing* of Natures or properties is here to be found.
 
 — ❦ —
 
-*[Chapter III continues with further Q&A on Christ's knowledge, invocation, resurrection body, Ascension, Right Hand of God, Sitting at the Right Hand, ubiquity vs. non-ubiquity of substance, the two states of Humiliation and Exaltation. Translation continues in Rebuild-Tranche 5.]*
+## Question 31. Is then to the LORD Christ, according to his assumed Human Nature, also the Knowledge or Cognition of all things communicated?
+
+**Is then to the LORD Christ, according to his assumed Human Nature, also the Knowledge or Cognition of all things communicated?**
+
+**Yes.** For at **Colossians 2:3** it stands: *"In Christ lie hidden all treasures of Wisdom and Knowledge."* — **John 2:24–25**: *"But Jesus committed not himself unto them, for he knew them all, and needed not that any should testify of a Man; for he knew what was in Man."* — **John 21:17**: *"LORD, thou knowest all things,"* etc. This same [truth] has also **Damascene**, *Lib. 2 cap. 22 and Lib. 3 cap. 21*, taught.
+
+— ❦ —
+
+## Question 32. Yet it stands at Mark 13:32, that he knew not the hour of the Last Judgement?
+
+**Yet it stands at Mark 13:32, that he knew not the hour of the Last Judgement?**
+
+Christ speaks there as **one sent, who is not to reveal every one of his secrets** — not that he *had not known it*, but that in *that day* — that is, in the time of the Humiliation — he was not to reveal it, or was unwilling. Whence **Hilary**, *De Trinitate*, writes:
+
+*"Professionem nescitæ diei, non esse ignorationis infirmitatem, sed tacendi dispensationem."*
+
+That is: *That the LORD lets it be understood that he knows not the hour, is not the token of an ignorant weakness, but the token that he was not then to reveal such.*
+
+And this saying is specially *not* to be drawn to the State of *Exaltation* of Christ. For since he shall bear and hold the Last Judgement — also as a Man, John 5 — he will indeed also know the day of the same.
+
+So **Nicephorus**, *Lib. 18 cap. 50*, writes: that there were Heretics, called ***Agnoetae***, who gave out that Christ, according to his Human Nature, knew not many things. Wherefore may those look about themselves — who at this present day likewise hang on such doctrine — how they will *escape the Heresy of the Agnoetae*.
+
+— ❦ —
+
+## Question 33. Has then Christ, according to his Human Nature, also received the Honour of Invocation?
+
+**Has then Christ, according to his Human Nature, also received the Honour of Invocation?**
+
+**Yes — he has received it.** For thus it stands at **Philippians 2:9–11**: *"Wherefore God hath exalted him, and hath given him a Name that is above every name, that in the Name of Jesus every knee should bow, of those in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is the LORD, unto the Glory of God the Father."*
+
+And **John 9**, the blind man who had become seeing worshipped the whole Christ — not alone as God, but also as Man.
+
+**Matthew 15**, the Heathen woman worships the whole Christ, God and Man, and says: *"O LORD, thou Son of David, have mercy upon me."*
+
+— ❦ —
+
+## Question 34. The Adoration, however, is to be directed toward no Creature. Now Christ's Manhood, even in the Personal Union, is a Creature?
+
+**The Adoration, however, is to be directed toward no Creature. Now Christ's Manhood, even in the Personal Union, is a Creature?**
+
+**Answer.** Christ's Human Nature is in this matter **not** considered *bare, as a mere Creature*, but *as she is with the Divine Nature of the Son of God personally and indivisibly united*, and thus belongs to the whole Person of Christ.
+
+Wherefore we teach with the whole Christendom, that not alone the Godhead but also the assumed Human Nature *in the Word or the Son of God*, who has personally and indivisibly united her to himself, **is to be invoked and worshipped**.
+
+And accordingly we adore *not* a bare, mere Creature or Human Nature — for herself and by herself, as she is naturally in her Being, or might be considered — but *because of and forasmuch as* she belongs to the Person of Christ, and *is with the eternal Godhead of the Son personally united*.
+
+So that we can *nevermore* wholly honour and invoke the Person of Christ, if we shut out his Human Nature from Prayer or Invocation. It is therefore a *blasphemy of God* to teach that Christ, as Man, is not to be invoked, but only as God.
+
+Whence also **Cyril**, in his book *Ad Reginas*, rightly writes: *"So any one say that the Flesh of our LORD Christ is not to be adored — because it is a Man's Flesh — and says not that one shall adore it as the LORD's and God's Flesh: him let the holy Catholic Church anathematise. **Si quis dicat, inadorabilem domini nostri carnem ut hominis, & non adorabilem ut Domini & DEI carnem, hunc anathematisat sancta & catholica Ecclesia.**"*
+
+— ❦ —
+
+## Question 35. But it stands written, Jer. 17: "Cursed is he that setteth his trust upon Man, and holdeth Flesh for his Arm"; but Christ's Flesh is a very Flesh — Ergo, so is he cursed, who directs his prayer to the Flesh of Christ, even in the Personal Union?
+
+**But it stands written, Jer. 17:5: "Cursed is he that setteth his trust upon Man, and holdeth Flesh for his Arm"; but Christ's Flesh is a very Flesh — Ergo, so is he cursed, who directs his prayer to the Flesh of Christ, even in the Personal Union?**
+
+**Answer.** The saying of Jeremiah speaks *by no means* of the Flesh or Human Nature of Christ, but of *all other men's flesh outside of Christ*. So our adversaries interpret *blasphemously* this passage upon the Flesh which the Son of God has *personally and indivisibly united to himself, and exalted to the Right Hand of the Power of God*. Wherefore she has also received the Honour of Invocation.
+
+Whence also **Augustine**, on John 14, *De Verbis Domini, Serm. 58*, says:
+
+*"Quid est quod carnem eius, quam creaturam esse non negas, simul cum Divinitate adoras? & ei non minus quam Deitati deservis? Ego vero Dominicam carnem, imò perfectam in Christo humanitatem ideò adoro, quod à divinitate suscepta & Deitati unita est, ut non alium & alium, sed unum eundemque DEUM & Hominem filium DEI esse confitear. Denique, si hominem separaveris à DEO, illi nunquam credo & servio."*
+
+*"What is it that thou adorest his Flesh — which yet thou holdest for a Creature — together with the Godhead? and servest it no less than the Godhead? But I do adore the LORD's Flesh — yea, the perfect Manhood in Christ — for this cause, that she is taken up by the Godhead and united to the Deity, and I confess that it is not two, but one and the same GOD and Man, the Son of GOD. In sum: if thou sunderest the Man from GOD, I never believe him and serve him not."*
+
+— ❦ —
+
+## Question 36. Christ's Flesh is not God — wherefore also the Honour of Invocation is not fitting for her. Isa. 42:8: "I will give my Honour to no other"?
+
+**Christ's Flesh is not God — wherefore also the Honour of Invocation is not fitting for her. Isa. 42:8: "I will give my Honour to no other"?**
+
+**Answer.** Christ's Flesh is not adored *because she is God essentially*; but rather because she is with the Godhead of the Son *personally united*, and to the Right Hand of the Power of God *exalted*.
+
+And the saying of Isaiah goes *by no means* upon the assumed Human Nature of Christ, but speaks of the *Idols and Idolatry*, as the words clearly bear with them: *"I will give my Honour to no other, nor my Praise to the graven Images."*
+
+Wherefore, though the Son of God communicates the Honour of Invocation to his assumed Human Nature (as he truly does — **Phil. 2**), yet he gives it to *no other*. For **in him there is not another and another** — as *Nestorius* has fabled — but *another and another* [nature] — that is, the Human Nature, which he has *personally united* to himself, and to the Right Hand of the Power of God *exalted*, to whom he communicates such Honour on account of the said Union and Exaltation.
+
+— ❦ —
+
+## Question 37. Is then Christ, as Man, also thus exalted, that he present — and not absent — carries on his Heavenly Lordship and Rule?
+
+**Is then Christ, as Man, also thus exalted, that he present — and not absent — carries on his Heavenly Lordship and Rule?**
+
+**Assuredly.** This is witnessed by the sayings of Holy Scripture, which say first, **that he is by his Congregation upon earth** —
+
+- **Matt. 18:20** — *"Where two or three are gathered together in my Name, there am I in the midst of them."*
+- **Matt. 28:20** — *"I am with you until the end of the world."*
+
+Secondly, the sayings which say **that he as Man also is exalted to the Right Hand of God**, and *present* rules and has all in his hands —
+
+- **Ps. 8:6–8** — *"Thou hast put all things under his feet — sheep and oxen all together, therewith also the wild beasts, the fowls under the heaven, and the fish in the sea, and whatsoever passeth through the paths of the seas."*
+- **Eph. 1:20–23** — *"God hath set him at his Right Hand in the heavens, above all Principality and Power, Might, Dominion, and every name that is named — not alone in this world, but also in that which is to come. And hath put all things under his feet, and hath set him as Head over the Congregation which is his Body, namely the Fullness of him who filleth all in all."*
+- **Eph. 4:10** — *"He that is ascended above all heavens, that he might fill all things."*
+
+— ❦ —
+
+## Question 38. Teach ye then, that the Substance of Christ's Flesh or Body is in all Creatures — as in stone, foliage, grass, sun, moon?
+
+**Teach ye then, that the Substance of Christ's Flesh or Body is in all Creatures — as in stone, foliage, grass, sun, moon?**
+
+**No — thus we teach not, will also not use this manner of speaking**; but abide simply with that whereof the foresaid sayings of Scripture make report.
+
+Further: **because this Mystery in this life is unfathomable and unspeakable, we let ourselves not in upon it.**
+
+— ❦ —
+
+## Question 39. How, however, can it be possible that Christ, as Man — because his assumed Human Nature is and remains finite — should at the same time be present in more than one place?
+
+**How, however, can it be possible that Christ, as Man — because his assumed Human Nature is and remains finite — should at the same time be present in more than one place?**
+
+**Answer.** Our opposite side holds such *throughout for impossible* — or, if it should come to pass, then must the Human Nature *become infinite*.
+
+We, however, abide by the clear sayings of Scripture — Matt. 18, 28; Eph. 1, 4; Ps. 8 — and know that **the Creator of all things**, the eternal Son of God, quite easily can bring it to pass that his assumed Human Nature (which *is and remains finite*) — because he has united her to himself **indivisibly**, and (as Damascene, *Lib. 3 cap. 3*, speaks) ***indistanter***, that is, not divided one from another according to place or stead, so that the *one* Nature had remained on earth while the Human Nature was gone into heaven (as *some* now write and say) — [that this Nature], being **exalted also to the Right Hand of God, *without* any spatial, comprehensible extension or *deification* thereof, in a heavenly, supernatural, and incomprehensible manner, is at once present in many places at one time**.
+
+For **His Word cannot lie nor fail** — *Ps. 33:9*: *"What He speaks, that comes to pass."* And *with Him is no word impossible* — **Luke 1:37**.
+
+— ❦ —
+
+## Question 40. Were it not enough, if one taught that Christ — so much as concerns his Human Nature — is only adorned with high Gifts above all Angels and blessed Men, and let the other — of Almighty Authority, of the Power to make alive, and what else more is of the like — go by?
+
+**Were it not enough, if one taught that Christ — so much as concerns his Human Nature — is only adorned with high Gifts above all Angels and blessed Men, and let the other — of Almighty Authority, of the Power to make alive, and what else more is of the like — go by?**
+
+**Answer.** By no wise. For the Scripture reports **both**.
+
+**First**: that Christ, according to his assumed Human Nature, has many Gifts — whereby he surpasses all Angels' and Saints' Gifts — as Wisdom, Purity, Holiness, Strength, Honour, Glory, and what else more is of the like.
+
+**And secondly**: that he, according to his Human Nature, has received:
+
+- **All Authority in heaven and on earth**,
+- **The Power to make alive**,
+- **The Honour of Invocation**, etc.
+
+— which are *no created Gifts*, but *Divine Properties and Glories* which are ascribed to no other Creature — neither Angel nor Man. Wherefore must we also keep both, and it stands not in our power to give away or let fall anything hereof.
+
+— ❦ —
+
+## Question 41. What, however, has the LORD Christ received at his awakened Body for majesties, so far as the Scripture reports?
+
+**What, however, has the LORD Christ received at his awakened Body for majesties, so far as the Scripture reports?**
+
+**First**: that his Body has become **immortal** — *for in that he died, he died unto sin once* — **Rom. 6:10**.
+
+**Secondly**: that he has become **glorious** — **Phil. 3:21**: *"Who shall change our vile Body, that it may be like unto his glorious Body."* Item — **spiritual** — **1 Cor. 15:44**. For if such shall come upon the elect in the resurrection, then much more shall it be in Christ's Body.
+
+Wherefore is he — **Matt. 28** — through the sealed grave-stone risen up. **Luke 24** — become invisible before his disciples. Item **John 20** — not stepping foot by foot from one place to the other in the disciples' chamber through opened doors and stairs or steps — but (as John writes) **suddenly and unawares he stood in the midst among the disciples**, so that the disciples supposed they saw a Spirit.
+
+These and suchlike glories of Christ's transfigured Body cannot in this life be all known, much less spoken. Wherefore it is a *rash boldness* on the part of the opposite side — that they, even in the State of Exaltation, press only upon the *comprehensibility* and *visibility* of Christ's Body — as though Christ's Body could no more be a true human Body, if he were not always visibly and comprehensibly in one certain place.
+
+Yet Christ also *in the state of Humiliation* has made himself invisible — as **Theophylact**, on John 8, writes: *"Sua magna potestate invisibilem se fecit insidiatoribus."*
+
+Besides, it will by no means do to reason thus: *"A natural Body cannot do this or that. Ergo, so cannot a spiritual Body (1 Cor. 15) — for they are, so much as concerns the glorious properties (as in 1 Cor. 15) — distinct."* How much less shall it hold of our bodies — which can neither this nor that — to draw such consequences and thence force out: *"Ergo, so cannot Christ's Body, that is exalted to the Right Hand of God, do the same either."*
+
+— ❦ —
+
+## Question 42. Has not Christ, after his Resurrection, kept the Nail-Marks?
+
+**Has not Christ, after his Resurrection, kept the Nail-Marks?**
+
+**Answer.** This has come to pass — as the old right-believing Church has said — ***per dispensationem***, forasmuch as Christ wished thereby to *witness the truth of his Resurrection*. But it follows not therefrom that he *seated at the Right Hand of God* still has them.
+
+For this were *contrary to the nature and properties of the glorified bodies*. And since Scripture witnesses (**1 Cor. 15**) that our bodies in the Resurrection *shall have no more defect*, this shall much more be true of Christ's *glorified* Body.
+
+That he, however, after his Resurrection **for a time kept them**, is (as reported) come to pass **for the sake of the Apostles** — that the truth of the Resurrection of his Body might be more strongly confirmed among them.
+
+— ❦ —
+
+## Question 43. Is then the Honour, which Christ's Body has received out of the Resurrection, one and the same as that which he has received out of the Personal Union and Sitting at the Right Hand of the Power of God?
+
+**Is then the Honour, which Christ's Body has received out of the Resurrection, one and the same as that which he has received out of the Personal Union and Sitting at the Right Hand of the Power of God?**
+
+**No.** For the Glory or Honour which Christ's Body has out of the Resurrection is **finite**, and can *in some measure* be compared with the Saints' Honour, which they in that Life have out of the Resurrection — with this proviso, that Christ's Body will keep **the pre-eminence in Glory over all other blessed bodies**.
+
+The Glory, however, which he has received *out of the Personal Union* — in the state of Humiliation, but not always used, and pertained unto him upon the *Sitting at the Right Hand of God* — that is **Divine**, and befalls no other Creature.
+
+— ❦ —
+
+## Question 44. How dost thou understand the Ascension of Christ?
+
+**How dost thou understand the Ascension of Christ?**
+
+**Not in an Allegorical manner**, but *according to the letter*, as the Scripture speaks thereof.
+
+— ❦ —
+
+*[Chapter III continues with Ascension explication, Right Hand of God, Sitting-session, Kingdom, Providence, Coming Again — and closes into Chapter IV Vom Ampt Christi. Translation continues in Rebuild-Tranche 5.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
