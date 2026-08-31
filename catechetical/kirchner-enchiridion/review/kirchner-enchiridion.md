@@ -11569,6 +11569,262 @@ Wherefore speaks **Chrysostom, *In Matthaeum***: ***Ego ideò gaudendum magis no
 
 **Fourth**, that he *shall certainly awaken them out of Death*, and *make Body and Soul eternally Blessed and Glorious* — **John 5, 6; Job 19:25–27**: *"I know that my Redeemer lives, and he shall hereafter awaken me out of the Earth, and I shall thereafter be surrounded with my Skin, and in my Flesh shall I see God — the same shall I see for me, and my Eyes shall behold him, and no Stranger."*
 
+— ❦ —
+
+# XL.
+
+# Of *Burial*.
+
+## Question 1. Whence is it come, that one *buries the Dead in the Earth*?
+
+**Whence is it come, that one buries the Dead in the Earth?**
+
+**Without doubt from the Saying** — **Gen. 3:19**: *"Thou art Earth, and shalt become Earth."*
+
+Otherwise the Burial is in Scripture first *thought of at Gen. 15* in Abraham's History: *"Thou shalt be buried in good Age."*
+
+— ❦ —
+
+## Question 2. What has moved Men thereto, that they *bury their Dead*?
+
+**What has moved Men thereto, that they bury their Dead?**
+
+**God's Word — Gen. 3 and 15**. Thereafter, the *Love which one owes to one's Neighbour*. The Believing have done such especially, **to witness their Hope of the Resurrection of the Dead**. Item, that they *remind themselves of Mortality*, and *whence such Sorrow has come upon the Human Race* — that it dies, and *so wretchedly must decay in the Earth*.
+
+The **School-Teachers** have among others given out that *Graves were also invented therefore, that one might pray for the Dead thereat*. But **such can not at all from Holy Scripture, with Sayings or Examples, be proven**. Though they draw certain Sayings from the Fathers, yet the same avail nothing, because **they are not grounded in God's Word**.
+
+— ❦ —
+
+## Question 3. Is it then right and praiseworthy *to bury the Dead*?
+
+**Is it then right and praiseworthy to bury the Dead?**
+
+**Yes truly.** For **Scripture itself teaches such**, as indicated. The **Gileadites** are therefore praised, that they *fetched the bodies of Saul and Jonathan, and laid them in the Earth* — **2 Sam. 2:4–7**. The *Patriarchs and Fathers in the Old Testament buried their Dead honourably* — **Gen. 23**, and elsewhere. Such has also *been held in the New Testament*, etc.
+
+— ❦ —
+
+## Question 4. At what *Place* shall one *bury the Dead*?
+
+**At what Place shall one bury the Dead?**
+
+**The Scripture writes thereof nothing ***in specie*** or in particular**, and it also *in itself does not matter*. For **the Earth is the LORD's** — **Psalm 24:1**. So there is *no need that a Bishop or Mass-priest consecrate the Churchyard*, for the *Earth as God's Creation is in itself good* — **Gen. 1**.
+
+Yet it *indicates therewith* that one has *commonly buried the Dead outside the Cities*. As **Abraham**, at **Gen. 23**, buries his **Sarah** in the *Grove Mamre*, in the *twofold Cave*. **Luke 7:12**: the *Widow's Son* is carried *outside the City*. **Lazarus** is buried *outside Bethany* — **John 11:30**. Wherefore it is not wrong that our people have, *outside the Cities or otherwise*, certain **God-fields** whereto one honourably buries the Dead. The **Hebrews** called their God-fields the **Houses of the Living**, because they *believed that the Deceased had their hidden Life in God*, and *should certainly rise from the Dead*, to *live eternally with God*.
+
+— ❦ —
+
+## Question 5. Does it then help the Deceased *to their Salvation, when they are honourably buried*?
+
+**Does it then help the Deceased to their Salvation, when they are honourably buried?**
+
+**No.** They are buried where they may and how they may — so it *furthers their Salvation not*. For *many holy Martyrs' Bodies were not laid in the Earth*, but *only cast aside* — and yet are they *none the more Unblessed for it*.
+
+So the *Salvation of the Christians* stands **not in the Burial**, but in the **Merit of Jesus Christ** and *coming Glory* which shall be revealed at them as Believers — **Rom. 8:18**.
+
+— ❦ —
+
+## Question 6. Does it come then to the *Godless's help, when they are honourably buried*?
+
+**Does it come then to the Godless's help, when they are honourably buried?**
+
+**There is no doubt that the Rich Man** — **Luke 16:22** — was *quite honourably laid*. What however it *helped him*, the LORD Christ witnesses in the same place clearly enough.
+
+**In sum**: as the *poor Burial* did not hurt **poor Lazarus**, so the *honourable Burial* helps the *Rich* not at all. Yea, it hurts the Believing not at all, though *their Bodies be not buried at all*. Whence **Augustine, *in Quaestionibus super Genesin***, writes: *"The Believing shall be certain and without care concerning the Burial. Wherever their Bodies be buried — yea, though they be not buried, but well torn by wild Beasts — for they shall on account thereof in the Resurrection have no lack of Glory."*
+
+— ❦ —
+
+## Question 7. Wherefore have then the Ancients *buried theirs with such Pomp*, if it *furthers nothing*?
+
+**Wherefore have then the Ancients buried theirs with such Pomp, if it furthers nothing?**
+
+**Thereupon answers Augustine, *De Civitate Dei, lib. I, cap. 12***: ***Proinde omnia ista, id est, curatio funeris, conditio sepulturae, pompae exequiarum, magis sunt vivorum solatia, quàm subsidia mortuorum.*** — *"All that in this matter happens — as the care of the burial, the state of the sepulchre, and the pomp that is held thereat — happens more for the sake of the Living than that it could help the Dead."*
+
+### Objection. But the Heathen have accused the Christians to their shame, that their Bodies were often cast aside unburied?
+
+**On the contrary they have had the certain Comfort**, that they *knew that their Bodies should be awakened out of Death* — in whatever fashion they had decayed — **1 Cor. 15**.
+
+### Objection. Wherefore have the Christians however, when the Persecutions ceased, commonly laid their Dead at the Martyrs' Graves?
+
+**It appears that it came from this**: at that time one was *wont to hold Sermons at the same*, to *admonish the Christians to Steadfastness in the Doctrine of Christ*, to *follow the Examples of the Martyrs*, and to *pray to God for Steadfastness of Faith*.
+
+— ❦ —
+
+## Question 8. What is however to be held of it, that **Augustine, *De Cura pro mortuis***, writes, that the *Deceased Souls can be helped*, and that some *have been helped by Martyrs*?
+
+**What is however to be held of it, that Augustine writes such?**
+
+**All this Augustine speaks without God's Word — wherefore also nothing thereupon is to be held.** For to the Souls no one can help but **Christ alone**, as one who has *given his Life as Ransom for us* — **1 Tim. 2:6**. This however happens *while the Man lives*, and *not first when he is dead* — **John 3:36**: *"Whoever believes on the Son of God has eternal Life."*
+
+### He however says: the Church has such from ***Tradition***?
+
+**Answer**: This ***traditio***, since it *has no ground in God's Word, is rightly to be rejected*. They — the Papists — may see whence *these and other ***traditiones*** come*. We hold to the Holy Scripture — whither Christ himself, and *not to Men's Doctrines*, has pointed us — wherefore then Augustine's words of the Tradition *concern us not*, nor are we *bound thereto*.
+
+— ❦ —
+
+## Question 9. Is it then right, that the *Clergy in the Papacy makes a Year-Market out of the Burial*?
+
+**Is it then right, that the Clergy in the Papacy makes a Year-Market out of the Burial?**
+
+**By no means.** For they have *no Command or Word of God for it*, but do it *only out of Human Ordinances*.
+
+— ❦ —
+
+## Question 10. Shall one then take *no account at all of the Burial*, however it be held?
+
+**Shall one then take no account at all of the Burial, however it be held?**
+
+**One shall look to it, that one do neither too little nor too much thereto.** *Those do too little to it* who out of *Security regard it not at all*, as some *Heathen* also did, since they *knew nothing of the Resurrection*.
+
+*These however do too much to it*, who out of *Unbelief mean that the Pomp furthers something to Salvation*.
+
+— ❦ —
+
+# XLI.
+
+# Of the *State of the Souls after Man's Death*.
+
+## Question 1. Does then Man die *at the same time in Body and Soul*?
+
+**Does then Man die at the same time in Body and Soul?**
+
+**No.** But **only the Body dies**. **The Soul is through Death torn from the Body, but yet remains living.**
+
+**Matt. 10:28**: *"The Soul they cannot kill."* It is also, **Gen. 2:7**, called a *Living Breath* which God has *breathed into Man*, that it *dies not*. So speaks **Eccl. 12:7**: *"The Spirit comes to God who has given it."* And **Wisd. 3:1**: *"The Souls of the Righteous are in God's Hand."* Item, **Psalm 31:5**: *"Into thy Hand I commit my Spirit."* **Acts 7:59**: *"LORD Jesus, receive my Spirit."*
+
+### Objection. God threatens however to the whole Man, when he sinned, Death — **Gen. 2**?
+
+**Answer**: When the Scripture speaks hereof, it does not look thereto, that the Soul according to its *Substance or Being is mortal*, but *upon the State of the Soul*. For since **God himself is the Life of the Soul**, so is the Soul's Death, *when it is forsaken by God*, and *loses the Spiritual Life which it should have in God*, and *is damned to eternal Punishment*. Whence **Augustine, *De Trinitate, lib. XIV, cap. 4***, speaks: ***Habet quippe et anima mortem suam, cum vita beata caret, quae vera animae vita dicenda est***, etc. — *"The Soul also has its Death — namely, when it lacks the Blessed or Spiritual Life, which alone is to be held for the right Life of the Soul."* Otherwise the Soul is **immortal**, for however wretchedly it lives, it *dies nevermore*.
+
+— ❦ —
+
+## Question 2. Where remain then the Souls of the *Believing*, when they are separated from the Body?
+
+**Where remain then the Souls of the Believing, when they are separated from the Body?**
+
+**The Scripture says plainly and simply: they remain in God's Hand** — **Psalm 31:5; Wisd. 3:1; John 10:28**. **Rev. 6:9–10** stands, that the *Martyrs' Souls lie under the Altar*, etc., and *cry with great voice: "LORD, thou Holy God, how long judgest thou, and avengest not our Blood?"*
+
+**Augustine, *ad Laurentium***, speaks: *"They are hidden in their secret Receptacles"* — ***in abditis suis receptaculis***. **Bernard** speaks: *"They stand or wait in the Courts of the LORD, and are come to Rest, but not yet perfectly made Glorious."*
+
+— ❦ —
+
+## Question 3. What do they *make there*?
+
+**What do they make there?**
+
+**Luke 16:25** — Christ speaks: *"They are comforted"* — that is, *behold God*, and are *comforted by him*, and *await with Joy the Resurrection of the Flesh*.
+
+— ❦ —
+
+## Question 4. Where remain the *Godless's Souls*?
+
+**Where remain the Godless's Souls?**
+
+**The Scripture says — Luke 16:23 — they are in Hell.** **Psalm 49:14–15** stands: *"They lie in Hell,"* etc. — in Hell they must *remain*. **Matt. 22:13** stands: *"They shall be cast into the utmost Darkness."*
+
+### Objection. If they are in Hell, why does the Scripture say — Matt. 25 — that at the Last Day they shall go into the Hellish Fire?
+
+**There it speaks of the whole Man with Body and Soul.** Otherwise the Scripture has *not perfectly revealed this Mystery*. It is also *not necessary that we should know everything*. But this is *needful and enough for us*: **that we do Repentance in this Life, and believe on Christ**, so that we there with Body and Soul *may not be eternally damned*, and *suffer Hellish Torment*.
+
+— ❦ —
+
+## Question 5. Do then the *Godless's Souls suffer something* when they are separated from their Bodies?
+
+**Do then the Godless's Souls suffer something when they are separated from their Bodies?**
+
+**Luke 16:23–24** stands, of the Rich Man's Soul, that it is *in Torment* and *suffers great Pain*. So stands **Matt. 22:13**: *"There shall be Weeping and Gnashing of Teeth."* But **these Mysteries can in this Life not be sufficiently grasped or expressed**.
+
+— ❦ —
+
+## Question 6. Why does the Scripture say however that the Dead *sleep or rest*?
+
+**Why does the Scripture say however that the Dead sleep or rest?**
+
+**Therefore**: that the *Bodies rest in the Graves*, and the Souls are *freed from all Sorrow of this present Life*. Otherwise the Souls *sleep or rest not*, but *live forever and ever, also when they are separated from the Body*.
+
+— ❦ —
+
+## Question 7. Is there then a *Middle Place between Heaven and Hell*?
+
+**Is there then a Middle Place between Heaven and Hell?**
+
+**The Papists say such well, but the Scripture knows nothing hereof**, for it only *speaks of Heaven and of Hell*. **John 3:16**: *"That all who believe on him should not be lost, but have eternal Life."* **Mark 16:16**: *"Whoever believes not shall be damned."* **John 3:18**: *"Whoever believes not on the Name of the Only-begotten Son of God is already judged."* **John 5:24**: *"He who believes on him who has sent me has eternal Life, and comes not into Judgment, but is pressed through from Death to Life."*
+
+— ❦ —
+
+## Question 8. Must one then *pray for the Deceased Souls*?
+
+**Must one then pray for the Deceased Souls?**
+
+**No.** The Blessed *need it not*; the Damned *it helps not* — **Luke 16:26**: *"For a great Chasm is fixed, that those who would go down from hence cannot, and neither can they come over hither to us from there."*
+
+— ❦ —
+
+## Question 9. Are the Souls not *cleansed in Purgatory*?
+
+**Are the Souls not cleansed in Purgatory?**
+
+**Answer**: **No.** For **there is no Purgatory**, nor *can and may it out of Scripture with any Ground of Truth be proven*. But it is the **Papists' own Fable, coming most of all from Gregory the Great**, who gave out that the *Souls at certain Places were cleansed*, and thereafter by the *Angels borne into Heaven*.
+
+**That there is no Purgatory, the following Grounds prove:**
+
+**1.** **Christ has through himself made the Cleansing of our Sin.** *Ergo*, so *no other Cleansing of Sin in Purgatory can remain*. For otherwise it would follow, that **Christ did not fully accomplish his Office**.
+
+**2.** *No Doctrine that strives with the Sayings of Holy Scripture can be right and true.* The Doctrine of Purgatory does such — *Ergo*, it cannot be right and true. The *minor* is clear from the following Sayings: **1 John 1:7**: *"The Blood of his Son cleanses us from all Sins."* **Heb. 9:14**: *"The Blood of Christ, who has offered himself without blemish to God, cleanses our Conscience,"* etc.
+
+**3.** If the *Papists' Doctrine of Purgatory were right and true, and needful to Salvation to know*, so would the **Apostles in their Writings not have passed it by**, but would well have *thought thereupon*. That however they have not done — wherefore it is *not true*, also *not needful to Salvation*. The Papists can also *never prove out of the Apostles' Writings such their Doctrine*.
+
+**4.** The *temporal Punishments do not extend into that Life*. Therefore the *Papists' Purgatory cannot stand*, that the Souls should therein *atone for the temporal Punishments of Sins*. **1 Pet. 5:10** stands: *"God has called us to eternal Glory, which we a little time suffer"* — it says *not* that the Souls in Purgatory shall *first suffer*, and *thereafter possess the Glory*. **Rom. 8:18**: *"The Suffering of this Time is not worthy of the Glory that shall be revealed to us"* — says *nothing of the Suffering in Purgatory, in that World, which should first follow*.
+
+**5.** The Scripture speaks only of *two kinds of Places in the future World* — namely, of **Heaven and of Hell** — **Luke 16:23**. In *Heaven or Paradise are the Blessed*, in *Hell the Damned* — and *makes mention of no third Place or Purgatory*. Wherefore is also **no such third Place or Purgatory**. *"Whoever believes and is baptised, shall be Blessed; whoever believes not, shall be damned"* — **Mark 16:16**.
+
+**6.** Those who *live to the Last Day shall not be cast into any Purgatory* — that they should there first *for the temporal Punishments of Sins atone* — but the **Believing come then, from that moment, into eternal Life; the Unbelieving however into eternal Damnation**. **1 Thess. 4:17**: *"We who remain in the Coming of the LORD, shall together with the same be caught up in the Clouds, to meet the LORD."* Wherefore there can be **no Purgatory at all**, in which Souls must *first for the temporal Punishments in that World make satisfaction*. There can also be *no Cause indicated* why *those who die before the Last Day should come into Purgatory*, but *not the others who shall live to the Last Day*.
+
+**7.** When Men die, they are either **Righteous through Faith in Christ**, and *have Peace with God* — **Rom. 5:1** — or else **Unrighteous, and are damned**. Wherefore there can be *no Purgatory*, into which they should *first come after this Life*. Since the Believing, who have Peace with God, *do not need to suffer Pain in that World in Purgatory*, but are *with God*; the Damned however *belong straightway into Hell*, etc.
+
+**8.** The Christians are bound to *reject all Doctrines that have no Ground in God's Word*, but *are invented by Men*. The Doctrine of Purgatory however has *no Ground in God's Word*, but is *a pure sheer Human Invention* — invented *partly from the Heathen Philosophers, as Plato, Virgil*, and others; *partly from Gregory the Great, in his Dialogues*, out of *false Appearances of Deceased Souls*. *Ergo*, they are bound to *reject this Doctrine as false and wrong*.
+
+That **Plato, Virgil, and Gregory the Great**, however, *treat of Purgatory*, and *teach the same outside of God's Word*, is as clear as the bright Sun, and *needs no lengthy proof* — since **no Saying in the Scripture is at hand which clearly confirms such Purgatory**.
+
+### Objection. But *Augustine* has also mentioned Purgatory?
+
+**Answer**: He has indeed *thought of Purgatory* — but *doubtingly*. For in his ***Enchiridio, cap. 69***, he writes: *"It is not incredible that there is one"* — and shortly thereafter he says: *"It can still be disputed or questioned, whether there is one."* Even if he had *plainly set and taught it*, it would yet not avail — for neither **Augustine**, nor any Man, yea *no Angel in Heaven*, may *give out anything as an Article of Faith which has no ground in God's Word*.
+
+In addition, **Augustine, *lib. I, De peccatorum meritis et remissione, cap. 28***, himself writes: ***Nec est ulli medius locus, ut possit esse, nisi cum Diabolo, qui non est cum Christo.*** — *"There is no Middle Place for any one — for he who is not with Christ, must be with the Devil."* This same he also writes ***De Civitate Dei, lib. XXI, cap. 25***.
+
+### Objection. It is however said, **2 Macc. 12:43**, that Judas sent twelve thousand *Drachmas* of Silver, that one should sacrifice for the Sins of the Deceased. *Ergo*?
+
+**Answer**: **First**, they must themselves confess that in the *Old Testament there was no Purgatory* — how then can or will they prove it from this Text?
+
+**2.** So there stands *no word in this Text of Purgatory*. **Judas** also did *not believe any*, but the *Resurrection of the Dead*.
+
+**3.** Even if in the said Words something of Purgatory *did stand*, yet *nothing could be proved therefrom*, since this Book is *not in the Canon*, but is *reckoned among the Apocrypha*.
+
+### Objection. It stands however, **Psalm 66:12**: *"We have gone through Fire and Water"*?
+
+**The Saying speaks of no Purgatory**, but of the *Cross and Persecution of the Believing in this Life*. The Word **"We"** there means *not the Souls*, but the *living Men who suffer for God's Honour*. So the Papists themselves confess that Purgatory *was not in the Old Testament*.
+
+### Objection. It is however said **1 Cor. 3:15**: *"He shall be saved, so however, as through Fire"*?
+
+**Answer**: Also this Saying — as such **Augustine, *ad Laurentium***, witnesses at **cap. 68** — *speaks only of the Tribulations of this Life*, and *not of Purgatory*.
+
+### Objection. Yes, they say, the *little Word "Fire"* stands here?
+
+**Fire and Purgatory are two different things.** Of **Fire** speaks Paul — that is, ***de tentatione tribulationis***, *of the Anfechtungen and Cross of this Life* — which comes over the *Believing Teachers and Hearers*. *Nothing however of Purgatory* — whereof **St. Paul** *dreamed nothing*, much less that he should have taught it.
+
+— ❦ —
+
+## Question 10. Do the *Souls not let themselves be seen*, when they are parted from these Bodies?
+
+**Do the Souls not let themselves be seen, when they are parted from these Bodies?**
+
+**The Papists invent such well**, and *appeal specially to the ***Dialogi*** of Gregory the Great* — but the same *avail nothing among right-believing Christians*, since they cannot *prove it from Scripture*. For *all that is brought forth outside of Scripture avails in matters of Faith nothing*.
+
+**Luke 16:26** stands, that they *cannot come down thither*. So the *Rich Man could not obtain* that **Lazarus** be sent *to his Brothers*.
+
+**Tertullian, *lib. IV contra Marcionem***, writes: *"That the Souls parted from the Body are not upon Earth, but in Abraham's Bosom."*
+
+And **Chrysostom, *Homilia 29, in Matth. c. 8***: ***Non potest anima à corpore separata, in his regionibus errare, iustorum animae enim in manu Dei sunt***, etc. *Ibidem*: ***Peccatorum verò post hunc exitum, continuò abducuntur, quod à Lazaro et divite planum efficitur: sed alibi quoque Dominus ait: Hodie animam abs te repetent. Non igitur potest anima, cùm à corpore abscesserit, apud nos hic errare, nec id iniuria. Nam si in terra euntes assueta et nota, et corpore amicta, cùm in ignotas regiones inciderint, nesciunt quò ituri sint, nisi ducem habeant: quantò magis anima relicto corpore, cùm nova omninò sibi vitam et viam ingrediatur, quò itura sit, ignorabit, nisi ducem consequatur?*** — *"The Soul, when parted from the Body, cannot wander about in these regions; for the Souls of the Righteous are in God's Hand. Item: The Souls of Sinners are, after this exit, straightway led away — as is made plain from Lazarus and the Rich Man. But elsewhere also the LORD says: 'This night they shall require thy Soul from thee.' Therefore the Soul, when it has departed from the Body, cannot wander about here among us — and not without cause. For if those who walk on Earth in familiar and known places, and are clothed with the Body, when they fall into unknown regions know not whither to go — unless they have a Guide — how much more shall a Soul, having left the Body, when it enters upon a completely new Life and Way — not know whither to go, unless it obtain a Guide?"*
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
