@@ -378,7 +378,35 @@ We know, however, from Holy Scripture that the word *"hell"* does not signify on
 
 **Concerning Adiaphora** there has been contention through many years. We retain, however, the rule of ***Gal. 2***: ***"Not even for an hour is anything to be conceded to false teachers"*** — when they exact something of us, or [seek to] be confirmed by us — ***lest the truth suffer shipwreck.***
 
-*[Selnecker here closes the paradigm anti-Adiaphorist stance of Formula of Concord Article X, and the Praemonitio proper — with a brief further discussion of the *casus confessionis* principle from the 1547–1548 Interim controversy. The full Adiaphora locus will be developed at length in Pars II, De libertate Christiana.]*⁴⁷
+If, however, in doctrine there is ***consensus***, easily afterwards it may be dealt with concerning ceremonies. But so long as in doctrine we do not consent, or [doctrine] is not left to us uncorrupt and safe, the pious and orthodox ought not to concede even a nail's breadth to adversaries, or in the least Ecclesiastical thing to be changed for their sake — however great a danger may impend. For ***Christian liberty*** is to be asserted even at the risk of life against enemies — not by force, but by ***the voice of sound doctrine***.
+
+**Another thing, however, it is when Magistrates who together with the pious teachers profess the same doctrine, agree with the same [teachers] concerning certain ceremonies — not in the time of persecution, in which confession must be made, but otherwise.**⁴⁷
+
+### §10. On Predestination⁴⁷ᵃ
+
+**Concerning ***Predestination*** many have disputed, but rightly none — save those who have studied to avoid two shipwrecks — namely ***Impenitence*** and ***Desperation*** — and have simply subjected themselves to the Word of God.**
+
+**Now here we do not speak of the ***prescience or foresight of evils***, to which God has set an end and inflicts punishments, but of the ***foresight of goods*** whose cause God Himself is. And this, insofar as it pertains to eternal life and salvation, is called in the Church ***Predestination, Election, or Preordination***.**
+
+**God foresaw the fall of man, and preordained the reparation through Christ.** This His grace He wills to be announced to us in the Word, and through the Word and Sacraments He gathers to Himself a Church, to which He gives the Holy Spirit — and to those believing He remits sins and grants eternal life. Those not believing and impenitent He damns, according to the saying: ***"Whoever does not believe in the Son, the wrath of God abideth on him."*** Whoever is saved, is saved by the grace of God on account of Christ, in whom he is baptised and believes. Whoever is damned, is damned by his own proper fault — because he does not believe in the name of the only-begotten Son of God, but spurns the means (Word and Sacraments), and lives against the will of God, drawn along by the direction of his own concupiscence.
+
+**Not to be approved is the opinion of the ***Tridentine confessors***, establishing that God indeed does not desert those once justified by His grace, but as He has begun the good work, so also wills to perfect it by working — yet in such wise that a man ***can*** desert God — and that no one is certain whether he ever is in the number of the predestined, unless he has a ***special revelation***. This is a contumely and blasphemy against the Son of God.**
+
+**Not also to be approved is the opinion of the ***Enthusiasts*** — improperly drawn out of Augustine — establishing that God, offended by Adam's sin, damned all men, but afterwards received into grace Adam and a few others descending from him, ***predestined by the price of the blood of His Son*** — but all the rest could not by price or by prayers be delivered.** This ***extenuation of the blood of Christ*** — which suffices to redeem the whole human race (1 John 2) — and this ***partiality [prosopolēpsia] and inequality*** — is not to be imputed to God — as it is not to be imputed to a good judge that he absolves a robber from robbery, but condemns his little sons though themselves without fault.
+
+**Not to be approved either is the opinion of the ***Scholastics*** — of Thomas Aquinas and the like — establishing that God from eternity by His own sole will chose certain men for Himself unto life, and to these supplied the necessary means for attaining beatitude — but all the rest merited and wisely excluded and rejected; or, as some speak, that God ***antecedently*** — that is, by a certain remiss and imperfect will — wills all to be saved, but ***consequently*** — that is, by a perfect, constant, and efficacious will — wills only those to be saved to whom His grace, and the other divine virtues (as celestial wings) He gives ***particularly and singularly*** — so that all the rest, who without this grace which God did not will to give them could not attain to sanctimony of life or to faith, and could not persevere in the same — incur the ***implacable indignation of God***, and, as if being able to be saved and not willing without God's grace, are judged to be roasted with eternal fires.
+
+**These and similar paradoxes the Gospel disapproves — nor does it speak of election as poets fabricate concerning the tablets of the Fates — but proposes these:**
+
+**1.** The paradigm ***decree of God concerning the redeeming of the human race*** through the Son [***λυτρωτῆν***].
+**2.** ***The calling of Jews and Gentiles through the ministry of the Word*** to the communion of Christ's merit unto salvation.
+**3.** ***The Holy Spirit working through the hearing of the Word in the hearts of men***, that they may do penance and believe the Gospel.
+**4.** ***The justification and salvation of all*** who acknowledge their sins and God's wrath, and by faith flee to the throne of grace, and embrace Christ the Mediator set forth in the promise of the Gospel.
+**5.** ***The rejection and damnation of all*** who spurn the Word and Sacraments, and do not embrace the promise. For as evil works damn a man, and yet good works do not save him — so man by his own fault perishes, and yet by his own merit is not saved, but by grace on account of the Son — as it is written: ***"Out of me is thy salvation; but out of thee is thy perdition, O Israel."***
+
+**These as it were [***προλεγόμενα***] we wished to premise, concerning which in the ***Formula of Concord*** [Article XI] it is more prolixly discussed. And we remit the students of the heavenly doctrine both to the ***norm of doctrine*** — that is, to the assiduous reading of the sacred Bibles — and to the ***rivulets flowing from it*** — as are the writings of the great Luther, and the books of D. Philip [Melanchthon], which the Churches and Schools rightly instituted today cannot lack.**
+
+For what has come into controversy ought to be dextrously explained, and not tortured against the sentence of the author. A good mind ought to act well with the good, and to speak well of the good — especially of the dead resting in Christ, and of those best-deserving of the Church of Christ. Nevertheless manifest errors, if any indeed can be shown and demonstrated, are not on this account to be excused — as today are ***the Sacramentarians***, whose from certain letters and certain actions we know and lament that even some of our teachers can be accused — nor by their authority are we by any means moved against the truth expressed in the words of Christ, just as by no man's authority ought we to be moved from the truth.⁴⁷ᵇ
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -574,7 +602,44 @@ But of these things there will be occasion to speak in their own place. — **Th
 
 **The Third saying is of Pindar,** *Pythian Odes 8*: ***"Ephēmerói. Ti dé tis? Ti d' où tis? Skiās ónar ánthrōpoi."*** ***"We are men of a day. What is anyone? What is no one? The dream of a shadow are all men."*** *[And as Sophocles adds: "We see nothing else — those who live — than shadows and a light burden of nothingness."]*⁷³
 
-*[Selnecker here inserts a fifteen-couplet elegiac lament by his colleague ***D. Wolf,*** who compresses the paradigm-classical *humanitas-fragilis* complaints into a versified summary; and then closes with the paradigm-*consolatio-in-Verbo-Dei*: without the Word of God we could rightly curse the day of our birth (like Job and Jeremiah), but with the Word we have that which is ***"more precious than life itself"*** (Ps. 63:3): ***"In the sanctuary I have seen Thee, that I might behold Thy power and Thy glory: for Thy mercy is better and more desirable than life itself."***]*⁷⁴
+**Truly all these things our ***D. Wolfius*** has embraced in these little verses:**
+
+> ***"Are we then proud, and do we bear ferocious hearts?***
+> ***And do our breasts not know how to keep measure?***
+> ***What do we wretches do, what madness has taken us?***
+> ***Does not our condition lie tearful before us?***
+> ***Alas, how great a violence of fate presses mortals,***
+> ***how great a tyranny sworn fortune has over them.***
+> ***Is there anything hateful in speech, in wound, to be feared,***
+> ***is there any evil sworn by the wrath of the divinity?***
+> ***Whose labours does the frail nature of men not feel,***
+> ***and endure the hard burden?***
+> ***Let the proper image of thy lot always admonish thee of these things,***
+> ***that thou mayest as a suppliant fear and venerate God.***
+> ***Lay aside the grave arrogance of the mind, lay aside the swelling,***
+> ***and let it be nothing to thee to speak great words.***
+> ***Whether strong forces abound in thy robust body,***
+> ***or thy house be amply supplied with riches,***
+> ***whether the vigour of ingenuity, or eloquence renders thee illustrious,***
+> ***or the violent honour of command,***
+> ***All things perish together, time snatches and devours all,***
+> ***fortune, ill-faithful, is turned on an unstable wheel.***
+> ***As many of us as pluck the breaths of life in this world,***
+> ***we are dust and fleeting shadow, and figures at the same time."***
+
+**Since therefore we know these things and daily experience them — that ***we are dust, and death overshadows us***, as Homer says — and we all are wretched by reason of our origin, blindness, and ignorance, weakness of body, fortune, of the briefest time, of internal calamities, and finally of death — what shall we oppose to so great misery? and how, and whence shall we heal ourselves?**
+
+Here nothing else succours, no [***ἀλεξιφάρμακον***], or helping medicament and antidote against poison, remains, ***save the Word of God itself***, of which David says Ps. 119: ***"Unless Thy law had been my delight, I should have perished in mine affliction."*** Item: ***"This has been my consolation in my affliction, because Thy word hath quickened me."*** ***"The declaration of Thy words illuminates, and gives understanding to the little ones."*** We oppose therefore the ***Word of God, or the Word of life***, to death and all evils — and we truly live in the Word, as the embryo of the mother in the womb — as the Son of God Himself shows, when He says John 6: ***"The words which I speak to you, are spirit and life."***
+
+**If, however, we had to lack the Word, Job and others would rightly have devoted their day and hour of birth to curses.** For without the Word of God no one ought to be able to imprecate life upon himself as curses, much less to wish for it. It would rightly be said also: ***"It is best not to be born, or being born, immediately to die,"*** as **Aeschylus** also said: [***"It is best of all not to be born"***]; and **Euripides**: [***"Not to be born is preferable to being born a man."***] And there are verses of **Theognis**:
+
+> ***"It is best for men not to be born, nor to behold the light of Phoebus,***
+> ***but being born, straightway hence to depart to Orcus,***
+> ***and to be pressed by much earth, and to lie shut in."***
+
+**All these things would be true, if in life we had nothing more pleasant than life** — as Cicero rightly said: ***"He who has nothing more pleasant in life than life, cannot lead life with virtue."*** But what we have more pleasant than life is for us the ***Word of God*** — of which David says (Ps. 63): ***"In the sanctuary I have seen Thee, that I might behold Thy virtue and Thy glory — because Thy mercy is better and more desirable than life itself."***
+
+**But breaking off these things, we come to the fifth cause.**⁷⁴
 
 **The Fifth Cause** is ***the very goodness, grace, and mercy of God, His will and counsel,*** who therefore wills His doctrine of the Word to be set before us, that through it ***we may be gained, called, and led to righteousness and eternal life.*** For God receives from us this one fruit, ***that we be saved,*** and He exults only on account of the salvation of men, and to Him there is no work more grateful than this alone: ***that man be saved,*** as Clement says. For He so loves us that (if we rightly consider the matter) it seems as though His essence and life were set in us — that is, ***as if He could not be without us, nor would He wish to live without us,*** as Tauler speaks — as He declared in the sending of His Son. Wherefore let us magnify the study of the Divine Word, and let us not by our negligence, sloth, security, and perversity offend so pious, good, and propitious a God. For otherwise in our life it is most true, as is wont to be said: ***"To offend the good is a foul crime."***⁷⁵
 
@@ -676,7 +741,59 @@ These are the ***principles of Theology*** — which whoever shall faithfully ha
 
 ### Chapter 5. On the Method to be Observed in the Explication of the Heavenly Doctrine⁸⁷
 
-*[Selnecker here treats the paradigm ***Wittenberg-Melanchthonian pedagogical framework*** for the sequential explication of the heads of Christian doctrine — following the paradigm ***Hermogenes*** rhetorical-progression schema and the paradigm ***Rudolphi-medical progression*** analogy (from Constitution of the body → Causes and differences → Signs → Cures). The paradigm-classical model Selnecker recommends is **Melanchthon's *Loci Communes*** (mature 1543/1555 editions) as the paradigm ***loci-communes-form*** for organizing dogmatic instruction. He also acknowledges — with paradigm ***moderate-medieval-appreciation*** — the ***Peter Lombard*** paradigm-***Sententiae*** (Paris, c. 1150 — issued 1172 in Selnecker's paradigm-dating) which trained two centuries of medieval theologians, and — with paradigm-critical distance — the paradigm ***two-hundred*** subsequent scholastic ***commentators-on-Lombard.*** The paradigm ***Panoplia dogmatica*** (a paradigm-Chrysostom-Basil-fathers armour-of-doctrine anthology reported extant in the ***Vatican Library*** at Rome in Selnecker's day) is offered as the paradigm-*positive-model* for such systematic-*loci* work. — Selnecker's overall recommendation: *loci-communes-format* with paradigm ***rudibus-initio-summam-recte-ordine-perspicue-proponi*** — *"to set forth to the rude, at the beginning, the sum rightly, in order, and perspicuously."*]*⁸⁸
+**In all disciplines and arts, since it is necessarily required that a certain ***brief instruction*** precede those things whose ultimate treatment consists in more prolix narration** — just as painters send before their [***schedaria***] which first designate the ***primary lineaments*** of the picture, and set before the eyes what is thereafter to be built up — it is manifest that this same care in the doctrine of the Church, when to be handed down and spoken, is required in the first place.
+
+For it profits the ***more rude*** [students], at the beginning, that the ***sum*** be proposed rightly, in order, and perspicuously — containing the ***whole body*** of Christian doctrine, and standing on the ***chief loci*** as on limbs rightly interjoined among themselves. For in this way [***χαρακτῆρες***] of things are understood by all — which, as by that ***Hermogenes of Tarsus*** in childhood, and by that boy in old age, is placed among the ***ideas and characters*** of style in the first [place], so also in handing down those things which pertain to the knowledge of things, it deservedly obtains the first place — provided there accede [***μελέτη***] and [***γυμνασία***], which two species he subjoins to [***παρασκευή***].¹⁰⁷ᵃ⁻ᵐᵉᵗʰ
+
+**In the Church, therefore, always this has been the care of pious teachers, that they should propose to their hearers the ***sum of Christian doctrine comprehended in a certain method***** (in the manner that today the *Loci Communes* of D. Philip [Melanchthon] have been written) — with propriety of speech applied — so that these [hearers], in the interpretation of some part of Scripture, and in the reading of the heavenly doctrine, might be more commodiously versed, and might not be ignorant to what things each single [passage] was to be referred. And indeed Paul himself enjoins this [***ὑποτύπωσις***] — which the Latins call ***elements and rudiments***, and the Greeks also [***στοιχεία***] — upon teachers, when he commands Timothy to have [***ὑποτύπωσιν ὑγιαινόντων λόγων***] — that is, ***a designation of uncorrupt doctrine, and a sum*** — such as [Paul] himself instituted in the Epistles to the Romans and to the Galatians — and such as afterwards the ***Symbols*** [Creeds] proposed, which are nothing else than ***most brief confessions*** by which the whole sum of Christian doctrine is so contracted that briefer it cannot be, and nothing necessary for salvation is missing — by whose enunciation, as by a certain ***sign and password***, whoever militate for Christ acknowledge one another.
+
+**This as it were ***dogmatic panoply*** (by which name we hear that a Greek volume collected out of Chrysostom, Basil, and others of the same argument, is extant at Rome in the Vatican Library under this inscription)** — some in the succession of times more happily, others less happily, have built up with corruptions of doctrine mixed in. And with the same counsel ***Peter Lombard, Bishop of Paris*** — whom they call the ***Master of the Sentences*** — in the year of human salvation ***1172***, collected sentences out of the Fathers, upon which by an instituted and received custom, whoever were to be Masters or Doctors of Theology in the future ***first wrote commentaries***, and then, once promoted to the honour of this name, ***composed*** the ***Summae*** which today most call ***Loci Communes*** — so that nearly ***two hundred writings on the Sentences of Peter*** stood. And although the greater part of these performed unhappily what perhaps they seriously wished [to do], nevertheless their counsel is not to be reprehended. For it is established that they wished to hand down these ***order of places and sums*** — dextrously and studiously written — that they might profit the learners. How they achieved this, is not now for us to explore, since the ***dexterity of teaching was very slight***, and in some [was] nothing at all.
+
+**This, therefore, is the first thing which occurs to be performed in Christian doctrine — and it prescribes the ***Elements of doctrine to the rude*** — [namely, the *loci communes* format].** The ***other***, which is to be subjoined to this, is consummated by more prolix and copious formation and elaboration — when there is need of the interpretation of some part of Scripture, whether in schools, or in public (as they say) sermons. And the method of this part, although in some way it seems to be special, and not so restricted to those laws which are prescribed to the prior designation of the chief parts of doctrine — nevertheless from the genuine and true sense which the [***γραμμαστικωτέρα***] shows, ought not to depart by even a nail's breadth in its exposition — lest it dash either into popular declamations, or into allegories of marvellous opinions, [***ἀλληγορίας***], [***tropologias***], [***anagogia***], and distortions, or even into confirmations of audacious dogmas — which is necessary when the [***γραμμαστικωτέραι***] laws are neglected.¹⁰⁷ᵇ⁻ᵐᵉᵗʰ
+
+#### Four Methods for Christian Doctrine
+
+**Because I have entered upon the invention of the method to be observed in each part or office of Christian doctrine, it shall have been worth-the-work to say something at greater length** — which although it seems to pertain to another time and place, nevertheless when the occasion is offered, I judge it can be commodiously inserted into this place. What pertains to the ***generalior*** method [more general method], the sentence of those is most approved who accommodate to this the ***progress*** — or [***μέθοδος***] — of the medical art. This enumerates four chief parts of doctrine:
+
+**(1)** The first, treating of the ***nature of man*** and of his whole constitution — of elements, temperaments, parts of the human body, actions, spirits, humours, and other similar things — is named [***φυσιολογία***].
+
+**(2)** The second, which inquires into the ***causes and differences and affects of things which happen preter naturam***, and their [***symptomata***], is called [***παθολογία***].
+
+**(3)** To this rightly is subjoined the ***third***, prescribing the ***reason of healing***, lest the man — as far as by the reason of nature it can ever be — perish being conquered by disease. This they call [***θεραπευτική***], which discharges its function either by the prescription of diet (which [***διαιτητική***] they call), or by medicaments applied within and outside the body — whether these be simple or compounded, by which name [***φαρμακευτική***] it is called — or by manual approach to the cure, and is named [***χειρουργική***].
+
+**(4)** The fourth, which preserves the health either still whole or recovered, and provides beforehand lest bodies fall into diseases, is [***ὑγιεινή***].
+
+**Our [method], therefore, [is this]**: that when we have already spoken of God and of the three Persons of the Divinity, those things which are required to be said of ***creation and the state before the Fall*** — namely of the whole constitution of man, of original righteousness, the image of God, and other goods — should dextrously be subjoined. Next to these it is fitting that discourse be instituted ***of the Fall, of sin, of the Law of God*** threatening wrath, condemnation, and eternal death to all transgressors, and ***of the causes of calamities and of the cross*** — this is the [***παθολογία***]. To this immediately succour those ***arcane heads of medicine*** — the articles of ***the remission of sins*** and of the ***righteousness promised in the Gospel*** — as certain [***θεραπευτική***] — to which is to be added also the doctrine ***of the Sacraments, of absolution and of baptism, of the Lord's Supper, of penitence, of the immortality [and] resurrection of bodies, and of eternal life***. The [***ὑγιεινή***] prescribes the reason of faith, grace, salvation, and the Holy Spirit not to be lost — discoursing on the ***fruits of righteousness and of faith***, or on the ***good works of the reborn***.
+
+**These certain parts of Christian doctrine — the principal and chief — must be proposed to the more rude in a certain sum, briefly indicated by this as it were general and medical method.**
+
+#### The Second Part — Specialior Method
+
+**But the other part of doctrine seems to require a more special method.** Its form has been constituted fourfold by certain learned men. For it is established that often a simple word must be explained by known and customary questions — as one about to speak of ***sin*** narrates what sin is, what its species, its cause, where it is, what is properly called the ***formal of sin***, what the effects, what the punishments, what the cognates, what the contraries. And because by this method a great part of Theological loci must be treated — as creation, law, faith, justification, grace, penitence, invocation, the ministry of the Gospel, marriage, baptism, etc. — it can deservedly be named the ***usual dialectical method***.
+
+**Then it is established that often a simple word must be explained with the questions of the ***predicaments*** applied** — as one about to speak of the ***Church*** narrates what the Church is, how far it extends, what sort it is, what is the order of the Church, what it does, and what its offices are, why it is subjected to the cross, where it is, and how it can be acknowledged, whether it always has been thence from the beginning after the founding of the human race, whether it shall remain perpetually. By the same reason and way [one] about to speak ***of the holy Angels*** must proceed: what they are, what sort they are, what offices they discharge, where they are conversant, whether they are immortal. Some call this the ***categorical or predicamental*** method, some also [***ἀνατομικήν***]. For they consider in each single member of the human body [***μορφή, μέγεθος, χρῶμα, ἀριθμόν***].
+
+**Afterwards, in the confirmation of some article we chiefly use [***ἀποδείξεις***]** — not indeed [***γεωμετρικωτέραι***], which are Geometric — but [***ἐπαγωγικωτέραι***], [***Bezaïcae ex universis*** — arguing from universal experience]. It is called ***a priori*** in the heavenly doctrine when we argue from principles — namely from the testimonies of Scripture, Prophetic and Apostolic. [***A posteriori***] — when from the experience of all pious [men] we collect something certain, so that this conclusion may agree fully with all its principal members of the [***principium***].
+
+**An example is the locus on ***justification***** — which first is [***a priori***], or (as the Latins today speak — though less properly, according to composition), from the concurrence of Prophetic and Apostolic testimonies, is confirmed; then from the experience of all pious [men] who ever were, are, and shall be, takes to itself a most evident testimony. In no other matter have the pious ever been able to rest, save in this single consolation — which is established by the promise of the goodness and mercy of God on account of the intercession and continual supplication of the Son. This is [***vero***].
+
+**But [the argument] which is directed [***ἀπαγωγῇ ἀπὸ τοῦ ἀδυνάτου***]** (and by the Latins is called ***reduction to the impossible***) is completed by changing the [***minorem***] or conclusion, so that ***infinite absurdities and impossibilities*** follow. As the sentence on our ***justification through faith alone*** — [taken] on the object, namely the Son of God, or the mercy of God on account of the Son crucified and suffered — if it be not true, necessarily true glory of God cannot be attributed, from consciences firm consolation shall be snatched, the difference of Church and of the other Gentiles shall be nothing, the Law shall not be distinguished from the Gospel, invocation shall be feigned either none or frigid, and more absurdities shall follow.
+
+**By this same [method] we must use in the loci on ***contingency, predestination and election***, and certain others.** And in the article ***of the resurrection of the dead*** Paul himself proceeds in this order. But let these things suffice for the indication of the ***third*** kind of method, which some for the causes adduced call ***Geometric***.
+
+#### The Fourth — Arbitrary Method
+
+**Of the last [method] it now remains to be said, which utterly lies subject to the counsel and deliberation of each one, and therefore is called ***arbitrary***.** This has place when a new order of questions is instituted, congruent with the thing about which one is discoursing — as in the ***locus on God***: whether God is, what He is, how many Persons and what [Persons], what the essence of God, what His will, what His works, how and whence one must judge of God, where the true doctrine and acknowledgement of God is.
+
+Item ***of the Holy Spirit***: whether the Holy Spirit is a Person, whether He was before the birth of Christ, whether He is God, whether He is to be invoked, what His procession is, how it differs from the generation of the Son, to whom He is given, what He effects publicly and privately, how He is again driven out.
+
+Thus in the locus ***on free will*** it is asked whether discipline is possible for the unregenerate man, whether the unregenerate man in this life can satisfy the Law of God by his own strength, whether any [***αὐτοκίνησις***] of the will [exists] in spiritual motions, what things impede liberty in the reborn and unreborn.
+
+Item in the locus ***on good works***: What works are necessary, how good works can be done, how they please, why and for what they are necessary, what the difference is between ***reigning*** and ***serving*** sin.
+
+But I do not wish to discourse more prolixly on these things — having only indicated that here also are to be referred the ***sermons of prudent doctors and pastors in the Churches***, in which sharp judgement of the matter is required with counsel considered, lest ***empty and declamatory sound of words*** be committed to the air without order and things.
+
+**And this by way of ***corona*** we shall subjoin**: Selnecker's overall recommendation is the paradigm *loci-communes-format* with paradigm ***rudibus-initio-summam-recte-ordine-perspicue-proponi*** — *"to set forth to the rude, at the beginning, the sum rightly, in order, and perspicuously."*⁸⁸
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -915,7 +1032,173 @@ Let the younger [students] note the solution of this argument:
 
 To Moses the Patriarchs and Prophets, John the Evangelist and Apostle, and whoever have marked the Son of God with the appellation ***Word,*** have looked back. For when Moses says: ***"God SAID,"*** immediately he names ***two distinct Persons*** — the one speaking, and the other the ***Word*** through whom all things were made.¹⁰⁶ᶜ
 
-*[The Chapter continues with substantive treatment of: the eternal generation of the Son (with paradigm-anti-Arian refutation of "there was when He was not"), the incarnation (with paradigm-Chalcedonian formula against Nestorian and Eutychian errors), the two natures distinct yet united in one Person (paradigm* unio personalis*), the paradigm* communicatio idiomatum *doctrine (three* genera *— idiomaticum, maiestaticum, apotelesmaticum — Selnecker's paradigm-Formula-of-Concord Article VIII appropriation aligned with Chemnitz's* De duabus naturis *1571), the* munus triplex *(Prophet-Priest-King), the two states* (humiliation and exaltation, Phil. 2:5–11), *and the saving benefits* (redemption, satisfaction, justification, sanctification, glorification). *These treatments occupy pp. 93–170 of the source imprint, and will be developed here at length in future revision-passes as the volume continues in Pars II — where Selnecker himself concentrates the paradigm* justification *doctrine.]*¹⁰⁷
+#### On the Name IESUS
+
+**Concerning the word ***IESUS***, let us hold the sweetest words of Augustine, Anselm, and Ambrose.** Augustine says thus: ***"What is ***Jesus*** except Saviour? Therefore on account of Thyself be Thou to me ***Jesus***. O good Lord, if I have committed anything by which Thou canst damn me, Thou hast not lost that by which Thou art wont to save me."***
+
+**Anselm:** ***"Jesus Christ, have mercy on me on account of this Thy name; do to me according to this Thy name; look upon this wretch invoking Thy name. O Jesus, be to me Jesus on account of Thy name. If Thou admittest me into the widest bosom of Thy mercy, it shall not be narrower on account of me. It is true that my conscience has merited damnation, and my penance does not suffice for satisfaction — but it is certain that Thy mercy surpasses every offence,"*** etc.
+
+**Ambrose:** ***"Jesus is all things to us, if we will. If thou desirest to be cured, He is Physician. If thou art on fire with fevers, He is Fountain. If thou art weighed down with iniquity, He is Righteousness. If thou needest help, He is Virtue. If thou fearest death, He is Life. If thou desirest to go, He is the Way. If thou fleest the darkness, He is Light. If thou desirest food, He is Nourishment. Taste therefore, and see how sweet the Lord is."***
+
+#### On the Word CHRIST — Prophet, Priest, King
+
+**The word ***CHRIST*** signifies ***Prophet, Priest, and King***.** The Hebrews call [Him] ***Messiah***, that is, ***anointed with oil***. For in the Law formerly Prophets, Priests, and Kings were anointed.
+
+**Christ is Prophet on account of four causes**, of which:
+- The first is that He Himself first predicted the work of redemption: ***"The seed of the woman shall bruise the head of the serpent"*** (Gen. 3:15).
+- The second, that He inspired the Prophets with their prophecies.
+- The third, that He still ***sends teachers***.
+- The fourth, that He ***preserves and fulfils the predictions***.
+
+**Priest, however, on account of three causes** — namely:
+- ***on account of doctrine***;
+- ***on account of intercession***;
+- ***on account of the victim***.
+
+For He teaches the people, and prays for the people, and offers Himself the victim.
+
+**King further, on account of these causes**:
+- because He is ***Victor over the Devil, death, and hell***;
+- then because He ***reigns in the souls of the faithful***, and gathers the Church to Himself by the voice of the Gospel — of which He Himself is Head and King;
+- afterwards because He ***defends and preserves the Church.***
+
+Of all these things we have treated more copiously in the second part of the *Paedagogia,* and in the *Explication of the Symbols* we shall treat again.¹⁰⁷ᵃ
+
+#### On the Divinity of the Son of God — Confirmed by Testimonies and Invincible Arguments against Samosatene, Arius, Servetus, and similar blasphemers
+
+**Most truly is it said that Christ is the ***stone of offence*** — by dashing against whom, very many attempt to form and reform themselves.** Some are deceived in His divinity, some in His humanity, some in both. ***Cerinthus*** and ***Ebion*** said that Christ was only man; whom ***Paul of Samosata*** followed, teaching that Christ was not always, but had a beginning from which He was born of Mary. This heresy was renewed by ***Photinus***. And ***Nestorius*** said He was a mere man born of the Virgin Mary. ***Sabellius*** feigned Christ to be the same as Father and Holy Spirit. ***Valentinus*** wrote that Christ was sent by the Father, brought a celestial and spiritual body, and took nothing from the Virgin Mary, but passed through her as through a pipe, channel, or brook, without assumed flesh. ***The Manichaeans*** said Christ was a phantasm, and could not be born of a feminine womb. ***The Arians*** wanted the Son to be a creature of the Father, and the Holy Spirit a creature of a creature — that is, created by the Son. ***The Apollinarists*** taught that Christ took upon Himself only flesh without a soul. ***Eutyches*** also, denying the truth of Christ's human flesh and soul, said that the whole Christ is of one nature — the divinity being converted into the flesh and soul, and this in turn into itself. And the manner of heresies and blasphemies will not have an end until the end of the world.
+
+**We acknowledge and invoke Christ as ***true and eternal God*** and ***true man***, whose divinity these invincible arguments show to us:**
+
+**First** are the ***manifest testimonies of Sacred Scripture itself.*** **John 1:** ***"And the Word was God."*** **Col. 2:** ***"In Christ dwelleth the fulness of Divinity"*** — that is, [***σωματικῶς***] — not only ***by essence, presence, potency, and grace***, effectively and separably (as divinity dwells in David, Elijah, Paul, John) but so that ***Christ's [very body] is divine*** — without any respect, without allegory or metaphor. And thus Paul speaks of Christ (2 Cor. 5) [***inseparably and personally***]. And Christ Himself says (John 8): ***"Before Abraham was, I AM"*** — that is, ***I am Jehovah*** — just as Thomas (John 20) openly calls Christ ***God***, saying: ***"My Lord and my God"*** — Jehovah and Elohe, or Adonai. And in **Rom. 9** it is written: ***"Christ is God above all, blessed for ever."***
+
+**The Second argument** is taken from the ***nature of correlatives***. The Father is from eternity Father. Therefore the Son is from eternity Son. [***Coeval is the Begetter, and equal in age to the great Parent is the Progeny.***] Either it must be said that God the Father is not from eternity Father, or it must be confessed that the Son is from eternity Son. And this argument ***Alexander, Bishop of Alexandria***, used against Arius, saying: ***"We believe that the Son always exists with the Father — for [ἀΐδιος] He is."*** And Ps. 72 it is written: ***"Before the Sun was, His name was 'sonified.'"*** As also Micah 5 it is written: ***"His goings-forth are from eternity, and from the days of the world."*** For God begets ***in eternity, not in time***, as creatures do — and as creatures generate creatures, so ***God begets God — the eternal the eternal*** — even if we who live in time cannot understand, attain, and narrate that eternal generation.
+
+**The Third:** ***Whatever is outside the Person of the Father, in which is the divine nature, must necessarily be a divine Person.*** But the Son is outside the Person of the Father, and in Him ***dwelleth the fulness of divinity*** [***σωματικῶς***]. Therefore the Son is God. The major is manifest from the definition of Person. The minor also is manifest from the testimonies of Scripture. For the Son is not only the thought which is the Father Himself, or a decree concerning a Redeemer to come — who is also to be man — as ***Artemon, Samosatenus, Arius, Eunomius, Servetus***, and others feigned; but is a ***peculiar and singular Person*** [***αὐθυπόστατος***], distinct from the Father, as John evidently shows, saying: ***"And the Word was with God"*** — [***πρὸς τὸν Θεόν, unto God, as eternal Counsellor and Colloquist; alongside God, as image of the Father — χαρακτὴρ τῆς ὑποστάσεως, expressed and subsisting effigy: with God, as Son with Father, eternal with eternal.***] And the Father Himself distinguishes Himself from the Son, saying: ***"This is my beloved Son."***
+
+**The Fourth.** The sacred letters distinguish the ***sons by adoption from the Son Christ.*** Rom. 8: ***"You have received the Spirit of adoption of the sons of God, in whom we cry Abba Father."*** Gal. 4; Eph. 1: ***"He chose us into the adoption of sons of God through Jesus Christ. [ἐν τῷ ἠγαπημένῳ]"*** — He loved us by grace ***in Him who is beloved by nature***. And John calls Christ ***only-begotten Son***, saying: ***"We saw"*** — with administration astonished and as it were stupefied we beheld — ***"His glory"*** — namely the fulfilment of the prophecies concerning Him, the testimonies of the Father concerning the Son at Baptism and on Mount Tabor, the miracles issued by Him, the glorious triumph in His resurrection and ascension, and the mission of the Holy Spirit; ***"we saw,"*** I say, ***"His glory as of the Only-begotten of the Father"*** — that is, ***truly Only-begotten.*** For that particle is there not of similitude but of affirmation, as with the Hebrews *Caph*, as Isa. 1: ***"Unless the Lord had left us a remnant, ***as*** small"*** — that is, ***indeed small*** — ***"we should have been as Sodom."*** And Dan. 7: ***"Behold in the clouds of heaven as the Son of Man was coming"*** — that is, ***truly the Son of Man.***
+
+Here belongs that of Augustine on Ps. 88: ***"No one among the sons of God shall be similar to the Son of God. He is called Son of God, and we are called sons of God. But who shall be like the Lord among the sons of God? He the only one — we the many; He one, we in Him one. He born, we adopted; He from eternity Son Only-begotten by nature, we in time made by grace; He without any sin, we through Him delivered from sin."***¹⁰⁷ᵇ
+
+**The Fifth. The ***work of creation*** is the work of God alone**, as in the Symbol we name [the Father] ***Creator of heaven and earth, of the visible and invisible***. But all things were founded through the Son (John 1). And Ps. 33: ***"By the Word of the Lord were the heavens established."*** And Col. 1: ***"All things through Him"*** — [***δι' αὐτοῦ***] (as through the efficient cause) — ***"and unto Him"*** — [***εἰς αὐτόν***] (as unto the end and goal) — ***"were founded, and He is before all"*** (not only before David was, or before Abraham was, but before all creatures), ***"and all things stand together through Him."***
+
+**The Sixth. Whatever the Father does, the Son also does — in the works ***ad extra*** which are undivided.** As the Father raises the dead and quickens, so also the Son ***quickens whom He wills*** (John 8). Since therefore the Son together with the Father ***creates, sustains the creature, preserves the Church, hears those invoking, acts everywhere, protects, aids, and governs believers, restores life to the dead, sanctifies, and gives eternal life*** — as He Himself says (John 10): ***"I give them eternal life; no one shall seize my sheep out of my hand"*** — and all these things and each single one are proper to the omnipotent nature — it is necessary that the ***Son is eternal and omnipotent God, [ὁμοούσιος] with the Father*** — as He Himself in that august discourse, in which He ascends step by step from the lowest species to the supreme genus, evidently attests, saying:
+
+1. ***"My sheep hear my voice."*** Here is the lowest grade, which is followed immediately by one already loftier.
+2. ***"And I know them."*** This second grade shows the love of the Shepherd toward the little sheep. The Third is higher than the second.
+3. ***"And they follow me."*** As if to say: it is not enough that they hear me, and I know them — but they wish to abide with me, follow me, cling to me, celebrate and venerate me, as leader, shepherd, Master.
+4. ***"And I give them eternal life."*** Here also the discourse is loftier.
+5. ***"And they shall not perish in eternity."***
+6. ***"And no one shall snatch them from my hand."***
+7. ***"My Father, who has given them to me, is greater than all."***
+8. ***"And no one can snatch them from the hand of my Father."***
+9. ***"I and the Father are One."*** Here in the supreme peak and grade the discourse stands, which expresses two Persons, ***Father and Son***, and signifies the ***unity of power and essence*** — that He said ***"one"*** (not ***"one man"***). ***"What He said 'One' — this frees thee from Arius. What He said 'We are' — this frees thee from Sabellius,"*** says Augustine.
+
+**The Seventh. No creature is to be adored, nor into any creature is the trust of the whole soul to be cast** — according to that: ***"Thou shalt adore the Lord thy God, and Him only shalt thou serve."*** And Jer. 17: ***"Cursed is he who trusts in man."*** And the rule remains immoveable: ***divine cults are to be rendered to God alone, according to the express Word of God***. But God the Father wills the Son to be ***adored and honoured*** — God and man in both natures — and commands that He be heard, and into Him the whole trust be cast, according to manifest testimonies: ***"Hear Him."*** ***"He who trusts in Him shall not be confounded."*** ***"He who believes in the Son has eternal life."*** ***"He is your God, and they shall adore Him"*** (Ps. 45). ***"All the Angels shall adore Him. They shall fear Him while the Sun and Moon endure. They shall deprecate before Him always."*** And Stephen invokes the Son: ***"Jesus, receive my spirit."*** And the Son Himself says: ***"Come to me all who labour and are burdened, I will refresh you."***
+
+Here permit me to append the most grave saying of Augustine, which stands in the exposition of Ps. 85: ***"The Son of God"*** (says Augustine) ***"prays for us, and prays in us (or with us), and is prayed to by us. He prays for us, as our Priest; He prays in us, as our Head; He is prayed to by us, as our God. Let us therefore acknowledge our voices in Him and His voices in us. He is prayed to Himself in the form of God, He prays in the form of a servant. We pray to Him, through Him, in Him: and we speak with Him, and He speaks with us."***
+
+**Before we proceed to the eighth argument, let us consider the most grave discourse of D. Luther, who said:** ***"If there were no other cause for which the invocation of the Saints ought to be rejected, this one and only would suffice — that the invocation of the Saints obscures the invincible argument of the Prophets, by which it is shown that our Lord Jesus Christ is eternal and true God. For the Prophets teach that our Lord Christ is God, when they say that He is to be invoked and adored. For this is their foundation. For adoration and invocation ***presupposes and confesses*** the divinity and omnipotence of the one invoked."***
+
+**The Eighth argument.** There can be ***no certitude of doctrine, no efficacy, no true faith, no consolation and peaceful conscience, no true patience, no constancy, no true invocation, no preparation, no alacrity for death*** — save that which is by ***faith in Christ, Son of God, God and man, Father, Creator, Brother, and our Redeemer.*** He who does not acknowledge Him as ***Emmanuel***, [***consubstantial to the Father***], and does not honour the Son as the Father, and does not believe in Him, nor invoke Him as ***Creator, Conserver, Lord, Redeemer, Justifier, Mediator, and our only Saviour***, and our omnipotent Brother — perishes as a blasphemer in eternity, does not think rightly, does not live rightly, does not invoke rightly, does not die rightly — but is [***anathema***], according to that: ***"He who does not believe in the Son is already judged, and the wrath of God abides upon him."***
+
+**And that this is universally true, we shall see manifestly in the last judgement**, when to the tribunal of this Judge, God and man (to whom the Father gave all judgement), shall be brought all blasphemers — ***Ebion, Cerinthus, Artemon, Samosatenus, Arius, Mohammed, Servetus, Conyza, Blandrata***, and the like — to be judged and thrust into the eternal place with the demons, [***enemies of the Son of God***].
+
+**These arguments it is now fitting to close with a pious and elegant history,** which ***Theodoret*** recites in Book 5 of Church History, chapter 16, thus: To Theodosius came the admirable ***Amphilochius***, supplicating the Emperor that the assemblies of the Arians be cast out of the cities. This petition the Emperor — deeming it too harsh — did not admit. Then the most wise Amphilochius fell silent, having excogitated a memorable art. For entering the royal [palace], and having caught sight of Arcadius, the Emperor's son standing by the Emperor — who a little before had been designated Emperor — [Amphilochius] indeed saluted the Emperor himself in the customary way, but showed no honour to the son. There the Emperor, thinking this had been done by oversight of Amphilochius, orders him also to approach his son and kiss him — to whom Amphilochius answered that it was enough that he had honoured him. Wherefore the Emperor, indignant at the neglect of his son, interpreted [it as] an attack. Then thereupon the most wise Amphilochius declared the purpose of his deed, and with a shout said: ***"Emperor, dost thou so gravely bear the neglect of thy son, and so vehemently art angered by those contumelious toward him? Let it then be persuaded to thee that the omnipotent God also hates blasphemers of His only-begotten Son, and is enraged against them as ungrateful to their Saviour and Benefactor."*** These things understood, with admiration of the sayings and deeds, the Emperor immediately writes a law by which the assemblies of heretics were prohibited.¹⁰⁷ᶜ
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### Chapter 6 (continued). On the Union of the Divine and Human Nature in Christ — De Unione Divinae et Humanae Naturae in Christo
+
+**In Christ born of the Virgin Mary there are ***two natures, divine and human***, so united that Christ is ***one Person, God and man.*** For the Church commonly uses the word ***uniting*** [***unio***], whose discourse we also follow.**
+
+Some of the ancients sometimes used also other terms. Tertullian, Athanasius, Nazianzen, and others [used] the words ***mingling*** and ***mixture***. Some also [used] ***mutation, transmutation, transformation***, [***κρᾶσις***], ***temperament, commerce, incarnation*** (with respect to the Person who is God), and ***deification*** (with respect to the human nature), ***admixture, conjunction, [οἰκονομία]***, and other words — and yet, as Rusticus the Deacon rightly says, they knew, as we know, that they were signifying ***the highest unition made of those things which came together into one another***, [not confusion of natures].
+
+**Let us therefore study propriety of speaking, lest we give occasion to blasphemers and curious [minds] to cavil at or corrupt true doctrine.** The word ***hypostatic union*** is approved and most suitable. [***οἰκονομία***] also is an elegant word, which Chrysostom uses [***concerning the mystery of the incarnation***], as also Jerome does to Pammachius and Oceanus, speaking of Apollinaris: ***"He introduced a half [οἰκονομία] of Christ"*** — that is, [***divided incarnation***] — from this, namely, that he took away from Christ the rational soul as man, and yet attributed to Him a body. Basil and Damascene call this [***οἰκονομία***] the ***dispensation and distribution of the properties of each nature.*** For Damascene in the fourth [book] ***De Fide Orthodoxa*** speaks thus concerning [Christ's] weeping, sleep, death, and other human affections: [***"The properties which belong to each nature are communicated to the whole Christ, and the two by turns interchange with each other"***], etc.
+
+And it is customary to name Christ's whole life and His whole ***theurgia*** [divine work], or ***the whole province enjoined and commanded to Christ by God the Father***. There are also known and customary words [***enanthropesis***, ***enanthropoiesis***], and others similar — by which the pious have wished to show that ***Christ is true and eternal God***, [***of one substance with the Father***], and at a certain time — namely in the year of the world 3963 — He took on human nature:
+
+1. **Whole** — [***with body, animal soul, and rational soul***].
+2. **Into one Person.**
+3. **Without sin** — not from a masculine seed, but by a mystic in-breathing, [***of the Holy Spirit and of the Virgin Mary***].
+4. **Without confusion of natures.**
+
+These are to be briefly explained in order, of which we shall shortly deal at greater length.¹⁰⁷ᵈ
+
+#### Four Points on the Assumed Human Nature
+
+**First**, that the Son of God took upon Himself ***whole human nature*** — that is, with body, animal soul, and rational soul — against ***Apollinaris***, who denied that Christ took upon Himself a rational soul. But the sacred letters manifestly attest that Christ was ***true man*** in body and soul — as He Himself says (Matt. 26): ***"My soul is sorrowful even unto death."*** And John 12: ***"Now my soul is troubled."*** And Luke 23: ***"Father, into Thy hands I commend my Spirit."*** He hungered, thirsted, ate, drank, wept, slept, was weary — all things which pertain to the whole condition of human nature, save sin.
+
+**Secondly**, He took upon Himself human nature ***into the unity of Person*** — so that Christ is not two Persons but ***one Person*** — against ***Nestorius***, who divided Christ into two Persons: a Son of God born of the Father from eternity, and a Son of man born of Mary in time — and made of one Christ two ***Christs.*** But it is written John 1: ***"The Word was made flesh"*** — not that the divinity was changed into flesh, but that the Son of God, having assumed flesh, ***became a subsisting Person in the human nature***, so that the same one is Son of God from eternity and Son of Mary in time — and Mary is truly ***Θεοτόκος*** (Mother of God), as the Council of Ephesus decreed against Nestorius.
+
+**Thirdly**, He assumed human nature ***without sin*** — because He was born not from a masculine seed but ***by the operation of the Holy Spirit*** in the womb of the Virgin Mary — so that the mass of that human nature which He assumed was ***without stain, most pure, most holy***, and ***consubstantial with us*** in nature yet distinct in absence of sin, as Heb. 4:15 attests: ***"tempted in all things after our likeness, without sin."*** And Heb. 7:26: ***"holy, innocent, undefiled, separated from sinners."***
+
+**Fourthly**, the two natures are united ***without confusion*** — so that ***neither is the divine nature converted into the human, nor the human into the divine***, nor is a third and mixed nature made from these two — as ***Eutyches*** and the ***Monophysites*** feigned. But each nature ***retains its own properties*** in the one Person of the Son of God — the divine nature retaining ***omnipotence, immensity, eternity***; the human nature retaining ***corporeality, mortality, passibility*** — until the ***state of exaltation***, in which the human nature is glorified and receives what the divine nature communicates to it, as we shall shortly say.¹⁰⁷ᵉ
+
+#### On the Communication of Properties — De Communicatione Idiomatum
+
+**Since Christ is ***one Person in two natures***, and the two natures are so ***inseparably united*** in the one Person that they cannot be torn apart, there arises the doctrine of the ***communication of properties*** (*communicatio idiomatum*) — which is ***a mode of speaking, and of the reality itself, in Christ***, by which the properties of one nature are attributed to the whole Person, or to the other nature, on account of the union of the two natures in one Person.**
+
+**This communication of properties is threefold** — as ***Chemnitz*** most learnedly has expounded in his book ***De Duabus Naturis in Christo*** (1571):
+
+**The First genus, called ***genus idiomaticum***** — by which the ***properties of each nature*** are attributed to the ***whole Person*** in the concrete. As when it is said: ***"The Lord of glory was crucified"*** (1 Cor. 2:8), where suffering — which belongs to the human nature — is predicated of the whole Person named by a divine title. And ***"God purchased His Church with His own blood"*** (Acts 20:28), where the blood — belonging to the human nature — is predicated of Him who is God. And conversely: ***"He who came down from heaven, the Son of man who is in heaven"*** (John 3:13), where the property of the divine nature (being in heaven) is predicated of Him who is called by the human title (Son of man).
+
+**The Second genus, called ***genus maiestaticum***** — by which the ***divine properties*** (omnipotence, omniscience, omnipresence, vivification) ***are communicated to the human nature*** of Christ in the state of exaltation, so that the human nature really and truly participates in these — not indeed by essence (for the human nature does not become divine essence), but by ***communication and gift*** — as Paul says (Phil. 2:9): ***"God hath bestowed on Him a Name that is above every name."*** And Matt. 28:18: ***"All power is given to me in heaven and on earth."*** And John 5:26–27: ***"As the Father hath life in Himself, so hath He given also to the Son to have life in Himself; and hath given Him authority to execute judgement, because He is Son of man."*** Here Christ affirms that even ***according to His human nature*** — as Son of man — He has received from the Father the ***divine power*** of vivifying and judging. This paradigm ***genus maiestaticum*** is the paradigm-central inner-Reformation Christological dispute against the paradigm-Reformed ***extra-Calvinisticum*** (which held that the divine nature of the Logos remains ***outside*** the flesh even after the union), and was decisively confessed at ***Formula of Concord Article VIII*** *De persona Christi (Kolb-Wengert 508–531)*.
+
+**The Third genus, called ***genus apotelesmaticum***** — by which the ***works of Christ's office*** (redemption, mediation, intercession) are performed by the ***whole Person*** according to ***both natures conjointly*** — each nature contributing what is proper to itself. As when Christ redeems us: ***His humanity suffers and dies***, while ***His divinity gives infinite value to the suffering***, making the sacrifice ***sufficient for the sins of the whole world***. Hence Peter says (1 Pet. 3:18): ***"Christ died once for our sins, the just for the unjust, that He might offer us to God — mortified indeed in the flesh, but quickened in the Spirit."***¹⁰⁷ᶠ
+
+#### On the Two States of Christ — Humiliation and Exaltation
+
+**Christ, God and man, is considered in ***two states*** — the state of ***humiliation*** and the state of ***exaltation*** — as Paul most clearly describes in Phil. 2:5–11:**
+
+***"Have this mind in you, which was also in Christ Jesus, who, being in the form of God, thought it not robbery to be equal with God, but ***emptied Himself***, taking the form of a servant, being made in the likeness of men — and in habit found as a man, He humbled Himself, becoming obedient unto death, even the death of the cross. Wherefore also God hath exalted Him, and hath bestowed on Him a Name which is above every name — that in the Name of Jesus every knee should bow, of things in heaven, in earth, and under the earth — and that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father."***
+
+**The state of ***humiliation*** — from the incarnation to the burial — comprised:**
+
+- The ***assumption of human nature*** in the Virgin Mary's womb.
+- The ***birth in a stable*** at Bethlehem, wrapped in swaddling clothes.
+- The ***circumcision*** on the eighth day.
+- The ***flight into Egypt.***
+- The ***subjection*** to Joseph and Mary.
+- The ***baptism*** in Jordan by John, though needing no baptism.
+- The ***temptation*** in the wilderness by the Devil.
+- The ***manifold sufferings*** of hunger, thirst, weariness, sorrow, tears.
+- The ***persecutions*** of the Pharisees and Jews.
+- The ***betrayal*** by Judas.
+- The ***passion*** — the agony in Gethsemane, the sweating of blood, the arrest, the trials before Annas, Caiaphas, Pilate, and Herod, the scourging, the mocking, the crowning with thorns, the carrying of the Cross, the crucifixion, the seven words on the Cross, the death, the piercing of the side.
+- The ***burial*** in Joseph of Arimathaea's tomb.
+- The ***descent to hell*** (as treated in the Praemonitio §8 above).
+
+**In all these things Christ was ***truly humbled*** — not laying aside the divine nature or its properties (for that is impossible — divinity cannot cease to be divinity), but ***voluntarily concealing and suspending the full exercise of the divine majesty according to the human nature***, so that the human nature underwent all these things which it could not have borne if the divine majesty had shone forth in full in the human nature.
+
+**The state of ***exaltation*** — from the resurrection onward — comprises:**
+
+- The ***resurrection*** on the third day from the dead.
+- The ***forty days'*** post-resurrection appearances to the disciples.
+- The ***ascension*** to heaven.
+- The ***sitting at the right hand*** of God the Father — that is, at the ***omnipotent right hand***, which is not a corporeal locus but the ***omnipotence of God*** by which Christ, according to the human nature also, now ***fills all things, rules all things, is present with His Church and with each believer in every place and time***, hears all our prayers, judges all things.
+- The ***sending of the Holy Spirit*** at Pentecost.
+- The ***session*** and ***reign*** of Christ over all creatures.
+- The ***return in glory*** at the last day to judge the living and the dead.
+
+**In the state of exaltation, therefore, Christ's human nature ***participates in the full exercise of the divine majesty*** which had been suspended in the state of humiliation** — so that Christ, ***according to His human nature also***, is now ***omnipotent, omniscient, present with His Church in the Supper*** (against the Sacramentarians treated in Praemonitio §7), and is truly ***King, Priest, and Judge*** in eternity.¹⁰⁷ᵍ
+
+#### On the Saving Benefits of Christ
+
+**From the union of the two natures in Christ, and from the two states, flow all the ***saving benefits*** of Christ — which the Gospel proclaims to those believing in Him:**
+
+- ***Redemption*** — Christ has bought us with His blood from the tyranny of sin, death, Devil, and the eternal wrath of God (Eph. 1:7; Col. 1:14; 1 Pet. 1:18–19).
+- ***Satisfaction*** — Christ has paid the debt which we owed to God's justice, satisfying for the sins of the whole world (Isa. 53:5–6; 2 Cor. 5:21; 1 John 2:2).
+- ***Reconciliation*** — Christ has restored us to the favour of the Father, that we may have peace with God (Rom. 5:1, 10; 2 Cor. 5:18–19).
+- ***Justification*** — Christ, through faith apprehending His righteousness, has made us righteous before God — not by our own works, but by the imputation of His obedience (active and passive), gratis, on account of Christ alone (Rom. 3:22–28; 4:5; Gal. 2:16). *(Of this the whole doctrine will be treated in Pars II — where Selnecker himself concentrates the paradigm justification doctrine, following the paradigm* Formula of Concord *Article III framework, of which he was co-author.)*
+- ***Adoption*** — Christ has made us sons of God and co-heirs with Himself (Rom. 8:14–17; Gal. 4:4–6; John 1:12).
+- ***Sanctification*** — Christ, by sending His Spirit, renews us into His image, and works in us new obedience of faith (Rom. 8:9–13; Titus 3:5–6).
+- ***Preservation*** — Christ preserves and defends us in this life against all the assaults of Devil, world, and flesh, so that no one can snatch us from His hand (John 10:28–29).
+- ***Glorification*** — Christ shall raise our bodies from the dead at the last day, and shall lead us into eternal life with Himself in the presence of the Father (John 6:39–40; 1 Cor. 15; Phil. 3:20–21).
+
+**All these things Christ effects for us — He alone, our sole, sufficient, and perfect Redeemer and Saviour — to whom with the Father and the Holy Spirit be praise, honour, glory, and dominion in all eternity. Amen.**¹⁰⁷ʰ
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1818,7 +2101,112 @@ The Hebrews call [sin] ***deviation, error from the way,*** (*chet, avon, pesha*
 
 The ***tyranny of the Devil,*** and the ***will of man*** obedient to the Devil, and turning himself away from God freely — as in the Book of Wisdom is written: ***"Those things which God has established are salutary, and God has not made death, nor does He delight in the perdition of the living. But the impious call death upon themselves by hand and speech, and death has come into the world through the envy and hatred of the Devil, and they who are of his party imitate him."*** Certain therefore is the saying — and worthy of all acceptation — that ***God has neither created, nor ordained, nor wills, nor aids, nor approves sin.*** Job 34: ***"Far be impiety from God, and iniquity from the Omnipotent."*** And 1 John 3: ***"He who does sin, is of the Devil."*** And Rom. 5: ***"Through one man sin entered into the world."*** Let students read on this Basil the Great's ***Homilia quod Deus non sit causa malorum.***
 
-Five principal objections are found by which men sometimes wish to transfer the cause of sin to God — *[Selnecker enumerates:]* (1) That God does not impede sin, though He could easily impede it; (2) That God foreknew the Fall from eternity and did not prevent it; (3) That God permits the wicked to prosper; (4) That God hardens hearts (paradigm Exod. 4:21 ***Pharaoh hardening*** locus); (5) That God has appointed the reprobate to damnation from eternity. — Selnecker resolves each with paradigm ***distinction of God's antecedent and consequent will,*** paradigm ***permissive vs efficient providence,*** and paradigm ***"induration by desertion"*** framework, aligned with Formula of Concord Article XI *De praedestinatione et electione.*¹¹⁹
+**And although many inextricable things can be moved, gathered, and disputed by acute men against this true sentence — confirmed from all eternity — nevertheless, all trickery being set aside, let us defend the truth for the glory of God, and let us have consideration of our misery and imbecility — we who are dust, earth, and troublesome mass — and therefore let us be humble and modest, nor let us presume above the capacity of the human ingenuity.**
+
+**We find ***five chief objections*** by which men sometimes wish to transfer the cause of sin to God.**
+
+**The First is that ***God does not impede sin*** — although He could most easily impede it.**
+
+**The Second is that ***He does not immediately punish sins*** — since the norm of justice exacts this.
+
+**The Third is that ***He often seems to punish sins with sins.***
+
+**The Fourth is that ***He permits many to live, persevere, and die in blindness*** — as the Gentiles, and others who without doubt would be converted and give themselves wholly to God if they had the Word — as Christ Himself in Matthew 11 attests concerning Sodom and Gomorrah.
+
+**The Fifth is that ***Scripture often speaks of the induration of Pharaoh*** and of others — the origin and cause of which it seems to refer to God — as is gathered from Exodus, from Isaiah, from Malachi, and from the Epistle to the Romans.
+
+#### Response to the First Objection
+
+**We respond to the first question**: It is true indeed that God according to His eternal omnipotence could not only have impeded all sins, but also have brought it about that there be no cause of sin. But since He Himself is a ***most free agent***, and gave liberty to the rational creature, ***He does not do against the order instituted by wise counsel***, nor does He will the rational creature to be ***coerced*** to render true cults to God — but as He Himself gives His [***spontaneum***] to the human race, so He requires in turn ***spontaneous*** obedience from us — which could not be pleasing to Him if it were rendered coerced, and were led violently by external impulse. Therefore He does not impede all sins, though He could — because ***He requires spontaneous obedience*** — which, although drawn and ruled from elsewhere, is nevertheless not drawn unwillingly.
+
+But he who sins and continues in sins, what else does he do than that he is ***unwilling*** to obey God, and contumaciously resists Him? Because therefore he resists God, God permits him to be led and borne by his own impulse, and constitutes limits for him — how far He shall bear his contumacy — and either He shall gradually correct it through the Word and the Cross, or shall at length punish [him] either in this life or with eternal punishments — unless conversion be made.
+
+**Long ago acute men disputed of this same question,** and contended that ***what does not prohibit evil, is the cause of the evil coming to pass*** — as the cause of a fire is he who did not extinguish the beginning fire; the cause of a shipwreck is the pilot who did not draw in the rope. ***"For into whose power it was placed to prohibit — to him, the fault of what happened is imputed."*** But Clement of Alexandria responds in the same way as we have already responded: namely, ***God does not act violently with us, nor coerce anyone by force, but proposes the Word, through which He is efficacious in those hearing, learning, and apprehending it.*** Often also he repeats these words: ***"Vice or sin is neither [ἀκούσιον] nor involuntary, since it is often perpetrated by man from free will."***
+
+**This also is to be observed: that we ought not to judge of God's omnipotence outside the Word.** God can do all things, and could in one moment take away and impede all evils, and no man's mind would be so hard that He could not by one nod bend, immute, and convert it. But God does not act violently, nor does He regularly coerce nature endowed with liberty to involuntary obedience — but requires ***spontaneous obedience and faith*** — which is (to use Clement's words) [***voluntary assumption, assent of piety, trust and expectation of things to come, and argument or certitude of things not seen***]. Wherefore God wills thee to hear the Word, and not to resist the Word heard — which if thou dost not do, He threatens thee with punishments — and thus in His own fear He represses the impulse to sins, and shows His benevolence toward men while He defers punishments. But if thou be not moved even by threats, at length He executes punishments — and thus in a certain order He proceeds in impeding sins: namely by ***Word, and by exhortation to good, and by dehortation from evil***, then by ***promises of obedience and piety***, and by ***threats of punishments***; afterward by the ***rod*** against the contumacious, and by ***corporeal punishments***; at last by ***death and damnation*** of those who are not converted to God. Therefore splendidly Clement says: ***"God is good, and did not — as the serpent immediately when it strikes bites — but often uses discourse before doing. 'My arrow shall consume them,' He says. Not even out of wrath does He inflict punishment, but considers what is just — namely, that on account of us it is expedient that what is just be passed over. But each one of us chooses punishment when he spontaneously sins — the fault, however, is his who chooses; upon God the fault cannot be conferred."***
+
+**Thus therefore let this be the response to that first objection concerning God not impeding sin — namely:**
+
+1. That God does not violently coerce the nature once endowed with liberty, nor draw the unwilling to piety, but sustains it such as it is.
+2. Because He requires spontaneous obedience, which could not be pleasing to Him unless it were spontaneous.
+3. Because according to His will manifested in the Word He acts with us. And the Word proposes to us ***promises and threats*** by which we ought to be moved to obedience — or to give punishments at length to God whom we did not obey. How, however, we can rightly obey God — since this is not [in the power] of our nature or of the strength of free arbiter — is shown afterwards in the doctrine of the Gospel.
+
+**This response for informing the judgements of the younger suffices, since it is perspicuous and true.**¹¹⁹ᵃ
+
+#### Response to the Second Objection
+
+**Now to the second objection we respond nothing else than what Paul says (Rom. 2): ***"Dost thou contemn the riches of God's goodness, and patience, and longsuffering? [Knowest thou not] that the kindness of God leads thee to penance?"*****
+
+**But ***why God does not immediately punish the impious*****: the first cause is the ***longsuffering of God giving long space for penance*** — as Gen. 6: ***"The days of man shall be a hundred and twenty years"*** — namely, conceded for penance. And Clement to the Gentiles splendidly writes thus: [***"For so many ages you have been ground down in impiety: you were infants, then boys, then adolescents, then men — but never good. Reverence at least old age, since you are at the setting of life, come to your senses [σωφρονεῖτε] — or at least at the end of life acknowledge God, that the end of life may take on for you the beginning of salvation."***]
+
+**The second cause** is the ***testimony of future judgement***, in which all hidden things shall be made manifest, examined, and judged.
+
+**The third** is that the ***impious are to be more gravely punished.***
+
+**The fourth**, that ***God be celebrated by us on account of His longsuffering***, and that we live continually in exercises of true penance, mindful of the Davidic saying (Ps. 95): ***"Today if you shall hear His voice, harden not your hearts."*** Here belongs the celebrated saying of Augustine: ***"God allows things so foul to happen in opinions, cults, and morals, that His judgements may be everywhere tremendous, and in comparison of impure wickedness most pure discipline may be sweet, and honour may be attributed to Him — but fear or shame to himself who has not fallen in this evil (or with that one ruling), or from that ruling has risen up."***
+
+**The fifth cause** is that ***the merit of the Son of God may be acknowledged***, on account of whom God spares the whole human race.
+
+**Let us also consider the process of God, which He preserves in correcting and punishing us.** [***"For to whom Word, persuading and admonishing, does not medicate, to these threats shall medicate: to whom threats do not medicate, to these the rod shall medicate; to whom not even the rod medicates, these fire shall consume."***] From these things both ***justice*** and ***mercy*** are acknowledged.¹¹⁹ᵇ
+
+#### Response to the Third Objection
+
+**To the third objection — that God often seems to punish sins with sins**, adulteries with adulteries, homicides with homicides, seditions with seditions — according to the sentences: ***"By what any one sins, by the same is he punished"***; [***"By whatever things any one has sinned, by the same is he punished"***] — **the brief response is this: God wills the ***punishment***, whose right and execution is the work of God's will. God does not, however, will the ***sin*** — and the transgression of right belongs to men.**
+
+**Add to this response ***two rules*** taken from universal experience.**
+
+**The prior is:** ***When God punishes the sins of the impious, or even of His own, with punishments which themselves also seem to be sins*** — then He applies for the execution of the punishments ***impious and perverse men***, whose nature is nothing else than to sin — that is, ***vessels of wrath*** — who at length as a rod which the Father has used are cast into the fire, and which otherwise, even if they did not execute those punishments which God wills, would have to be cast into the fire. But one thing is the ***will and action of God***, another of these impious ones. For these obey their own evil desires — this improbity God turns to the executing of His judgements. Thus He punishes David through Absalom; the Judaic people through Asshur (Isa. 10); us He punishes through the Turk, and others who fill all things with manifold crimes, blasphemies, defilements, thefts, homicides, and foul lusts. Of these ***Ambrose*** says: ***"We find that some sins are punishments of other sins, as are vessels of wrath, consecrated for perdition."***
+
+**I shall not be burdened to ascribe the words of Luther, by which certainly nothing better can extricate us from this objection:**
+
+***"Satan and man, fallen and deserted by God, cannot ***will the good*** — that is, [what] is pleasing to God, or what God wills — but are turned into their [own] desires perpetually, so that they cannot but seek what is their own. This will and nature of theirs, therefore, thus averted from God, is not nothing. Nor indeed are Satan and impious man nothing, or have they no nature or will — although they have a corrupted and averted nature. That, therefore, which remains — which we call nature in the impious and in Satan, as a creature and work of God — is not less subject to the omnipotence and action of God than are all other creatures and works of God. Since therefore God moves and acts all things in all, He necessarily moves and acts also in Satan and the impious. He acts, however, in them such as they are, and such as He finds them — that is, since they are averted and evil, and are snatched along by that motion of divine omnipotence, they do nothing but averse and evil things.***
+
+***"Just as if a horseman should drive a three-footed or two-footed horse — he drives indeed such as the horse is (that is, the horse walks badly). But what does the horseman do? He drives such a horse together with sound horses — the [defective one] badly, the [sound ones] well. Otherwise he cannot, unless the horse be healed. Here you see that ***when God works in the evil, and through the evil, evil things indeed happen*** — God nevertheless cannot do evil, although He does evil through the evil — because He, being good, cannot do badly — but uses evil instruments, which cannot escape the snatch and motion of His power. The vice therefore is in the instruments, which God does not permit to be idle, that evil things happen — with God Himself moving — no otherwise than if a smith should saw badly with a saw jagged and toothless. Hence it comes to pass that ***the impious cannot but always err and sin***, because being moved by the snatch of divine power, he is not permitted to be idle — but wills, desires, and does such as he himself is."***
+
+**The other Rule is: ***Whatever*** rewards or punishments turn out for the pious for good, turn out with God thus disposing the event — even if in the middle there be manifold errors, whose cause is not God, but the perverse nature of men. And conversely: ***Whatever*** turns out for the evil unto evil, turns out with God from just wrath thus disposing the event — of whatever kind the middle things are, whose error and confusion is not to be ascribed to God, but to men.**¹¹⁹ᶜ
+
+#### Response to the Fourth Objection
+
+**I come to the fourth objection — somewhat more difficult than the previous — to which according to the Word of God we respond simply that the ***fault of blindness and of destruction is placed in man's sin*** — not only in original perversity, but also in actual sins, idolatry, impiety, ingratitude, and other sins.** Hence Luther says: ***"God wills all men to be saved, since with the Word of salvation He comes to all — and it is the vice of the will which does not admit Him, as it is said Matt. 23: 'How often would I have gathered thy children, and thou wouldest not?' But why the majesty does not take away or change this vice of our will in all — since it is not in the power of man, or why He imputes it to him, since man cannot lack it — this is not permitted to inquire; and even if thou askest much, thou shalt never find [out] — as Paul Rom. 11 says: 'Thou who art thou, who repliest against God?'"***
+
+**Wherefore, why God has left the Gentiles for so many ages in their blindness, and even now leaves many peoples in the earth blind, and does not call them by His Word** — all this happens by the ***just judgement of God punishing sins***. But let us acknowledge the punishments of sin, and live in the fear of God and in true piety — nor let us either subtly or curiously dispute of the ***arcane judgement of God***, mindful of the saying of Prov. 25: ***"As he who eats much honey — it is not good for him: so he who is a searcher of majesty, shall be oppressed by glory."*** Whatever also we think, say, or dispute of this matter, let us always remember the voice of David: ***"Just art Thou, O Lord, and just is Thy judgement."*** Let us also be grateful, and acknowledge this immense benefit of God — that God has willed us to be citizens of His Church, and that in true humility we may serve Him — nor by our own ingratitude irritate Him, and provoke Him to disinherit and abdicate us. For here it is truly said: ***"More foully is a guest cast out than not admitted"*** — as Christ Himself shows the same Matt. 11: ***"Woe to thee Chorazin, woe to thee Bethsaida! For if in Tyre and Sidon had been done the virtues which have been done in you, they long ago in sackcloth and ash would have done penance,"*** etc.
+
+**Although Augustine in his ***Questions*** on this matter and on that passage — Tyre, Sidon, and others — rightly and piously affirms that it is not to be disputed, nevertheless to those too anxiously inquiring, [the answer] must be [made]: that Christ speaks after the human manner, and accommodates the speech to the common capacity of the human mind — comparing the citizens of Bethsaida and their neighbours with the Tyrians and Sidonians, whom they themselves held as nefarious contemners of God, and fled as infamous on account of impiety, pride, luxury, and other vices. These He compares with the cities of Galilee, that He may more gravely reproach the ingratitude to these. He does not, however, speak of the ***arcane judgement of God*** — what God foresaw would happen, if He should endow the Tyrians, Sidonians, Sodomites, and others with the preaching of His Word — but only says what they would have done, insofar as from the thing itself it could be perceived, as if to say: ***"These were impious and perverse in doctrine, life, and morals. What wonder? For they did not have the Word of God, nor did they see miracles by which they might be admonished to repent. But you hear the voice of God, and see a huge abundance of miracles — [yet] without any progress, because you are swollen with an unhealable contempt of God and malice. Judge therefore who are worse, and whose judgement shall be more difficult."***
+
+**That this is the sentence of the words of Christ, the context of the discourse shows.** This comparison has nothing of scruple. And what afterwards the contentious insist on and ask — ***why*** God did not give the Sodomites, Tyrians, and Sidonians as great light of Word and miracles as He gave to the Jews and Galileans — this is ***alien from the scope and sentence of the words of Christ.*** Whatever also may be said, we neither ***can*** nor ***ought*** to fly higher in inquiring and speaking than that — even if to the preserving of the Tyrians and the rest there was a remedy in the hand of God — nevertheless ***God was a just avenger in casting them off and destroying them***, and the fault is to be ascribed ***not to God***, but to ***the sin of men and to their perverse nature averted from God and adverse to God.*** And this ***immoveable and true rule always to be held: 'Why men perish, they themselves always find the cause — namely, sin — that they may impute nothing to God. But why they are saved, they in themselves find nothing, but they are saved gratis through and on account of the Son, from the mere mercy and goodness of God, without any works of the Law.'***¹¹⁹ᵈ
+
+#### Reasons Why God Left the Gentiles in Blindness
+
+**Let there be noted, by the way, the chief causes** which are wont to be adduced and proposed to children on this question — ***why God for so many ages left the Gentiles in blindness***.
+
+**First** is the ***just wrath of God against sin***, and the ***just judgement against vessels of wrath***.
+
+**Second**, that ***this very blindness might be the punishment*** of sins — even of actual [sins], idolatry, blasphemy, lust, and similar.
+
+**Third**, that the ***calling of the Gentiles might be reserved for the incarnation of the Son of God***, who with His own voice should despatch the disciples into all the earth.
+
+**Fourth**, that the ***Devil might be confounded***, who, when he thought himself already to be lord of the world, and to have all Gentiles in his own power, was confounded when he saw his kingdom destroyed by the preaching of the Gospel, and the Church of Christ gathered everywhere among the Gentiles.
+
+**Fifth**, that ***every mouth might be stopped, and all men humbled*** — and, of themselves and their own merits, works, wisdom, virtue, and sanctimony of life, ***despair*** — and take refuge with the ***mercy of God alone***, who has mercy on those on whom He has mercy — only ***gratis***, through and on account of the Son — and thus fear the majesty of God, and reverently subject all things to His will, and give thanks to God for this immense benefit — that they live in the assembly of the called, and hear the doctrine of the Son of God and of the salvation of believers.
+
+**Sixth**, that it might be ***manifest*** that all things ***lie subject to the will of God***, which never departs from the norm of its justice and rectitude, and which always sets forth examples of its justice, judgement, potency, and mercy (Rom. 9). Hence is that splendid voice of Augustine: ***"The supreme rule of justice is the will of God, so that whatever He wills, by the very fact that He wills, is to be held just. For He wills nothing which is not just."***
+
+**It is established, however, that ***God has always called some out of the Gentiles, and converted them*** — as in Egypt through Joseph and the family and posterity of Jacob; in the Babylonian captivity through Daniel and others.** And often God willed the ***detraction of the ten tribes*** — which after Solomon were snatched from Judah — to profit the Gentiles: as in the kingdom of Samaria, and in Nineveh (where the family of Tobit was), and in the cities of the Medes (where the family of Raguel and Gabelus was).
+
+**The Gentiles therefore are ***inexcusable*** in many ways:**
+
+- On account of the ***sin and malice of nature***;
+- On account of ***injustice*** in which they held the truth of God (as Paul speaks) — that is, they did not obey God even if they had the notions of the Law divinely implanted in themselves;
+- On account of many, ***horrible, and foul sins*** which they committed willingly and knowingly;
+- Finally, on account of the ***contempt of true doctrine***, which even when offered they repudiated, nor received, nor magnified, nor willed to be studious of it, nor sought it out, nor embraced it when present — but by their own negligence and ingratitude cast it away.
+
+For these causes we read Matt. 10 that Christ said to His disciples: ***"Go not into the way of the Gentiles, and into a city of the Samaritans do not enter — but go rather to the lost sheep of the house of Israel."*** For to these — who had the true cults of God, of which for the causes now recited the Ethnics lacked — true doctrine of the Gospel first was to be revealed, according to the promise and covenant which God had specially made with the race of Abraham — until the time was mature for publishing grace and pouring it out on all Gentiles — which was to happen from the resurrection of Christ, when the veil of the temple was now plainly rent, and the wall of partition destroyed. The beginning, however, ought to be made from the ***elect people*** according to the promise — as Acts 13 Paul and Barnabas say: ***"To you the Word of God ought first to have been preached; but because you repel it, and judge yourselves unworthy of eternal life, behold, we turn to the Gentiles."*** Rightly did someone say: ***"If to any this human prohibition seems little, since Christ does not deign the Gentiles the participation of the Gospel — let him strive with God, who — the rest of the world excluded — sanctioned His covenant with Abraham alone in the seed of a woman — upon which this mandate of Christ depends."***
+
+**Acts 16** — Paul and Timothy, passing through Phrygia and the Galatian region, ***were prohibited by the Holy Spirit from speaking the Word of God in Asia.*** When they had come into Mysia, they were attempting to go into Bithynia, and ***the Spirit of Jesus did not permit them.*** But why was it prohibited to the Apostles that in those places they preach the Gospel? It is customarily and rightly responded that ***God willed them to be sent elsewhere*** where greater fruit would be produced. But why, they say, did He meanwhile leave Asia, why Bithynia, why other Gentiles? Certainly God willed by ***just judgement*** that this be done, deferred, or omitted altogether. And ***the fault is of the Gentiles, not to be transferred to God.*** For by free will they turned themselves from God, and willingly persevered in sins and in their blindness. Nevertheless they ought to return to God, and study piety. But how could they do this, since they did not have the Word? So reason inquires. But of these things shortly it shall be said. Now here we stand, and say: ***"Just art Thou, O Lord, and just is Thy judgement."***
+
+**Here reason exclaims: Therefore God is** [***φιλοπρόσωπος***] **[a respecter of persons]. Item, therefore the promise of grace is not universal, nor does it pertain to all men. Item, therefore the accusation and damnation of the Gentiles is unjust, since they did not know what God willed, being destitute of the Word of God.** Of these things very few we shall briefly subjoin.
+
+**That with God there is no** [***προσωποληψία***] — Deut. 10, Acts 10, Isa. 20, Rom. 4, and often elsewhere is shown. With this sentence, that the ***exclusion of certain Gentiles*** and certain examples (as of Jacob and Esau, and the parable of Matt. 20) seem to fight — some appearance indeed of fighting is there for the judgement of our reason, and yet the fighting is not true. [***Prosopolēpsia***] contains in itself three [things], of which none can be imputed to God. First…¹¹⁹ᵉ
 
 ### §4. How many kinds of sin are there? — Quotuplex est peccatum?
 
@@ -2349,7 +2737,98 @@ Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins,
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
 
-*[Selnecker closes Pars I with the paradigm ***FINIS PRIMAE PARTIS Institutionis Christianae Religionis.*** The paradigm following pages of the 1579 imprint contain the paradigm ***Elenchus Locorum Sacrae Scripturae*** — an alphabetical index of the scriptural loci treated in Pars I from Gen. 1 (*Spiritus Dei movebatur super aquas,* fol. 221) through Rev. — followed by an alphabetical ***Index Rerum et Nominum*** running through paradigm-Reformation-era vocabulary from ***Gnostici*** (fol. 13) through ***Zwingli*** (implied). These paradigm-**bibliographic-apparatus-back-matter** materials are deferred to the volume-final PDF at Pars II or Pars III's close.]*¹²⁸
+## FINIS PRIMAE PARTIS Institutionis Christianae Religionis
+
+**The 1579 imprint closes Pars I with a formal ***FINIS PRIMAE PARTIS*** doxological benediction:**
+
+> ***"May our Lord God bestow this on us through Jesus Christ His Son, our Lord. Amen."***
+
+*(This closing benediction stands at OCR line 26367, immediately after the closing consolatory-catena of Locus IX **De Consolatione** which we have translated above.)*
+
+**The imprint then continues with two paratextual apparatus which are conventional to Reformation-era scholastic-dogmatic volumes:**
+
+### Elenchus Locorum Sacrae Scripturae
+
+*(An alphabetical index of the ***scriptural passages*** treated in Pars I — following the ***order of the biblical books*** from Genesis through Revelation. Below is the beginning of the index, taken from the imprint's back-matter — pp. following the *FINIS Primae Partis* — with folio-page-references preserved to enable cross-reference with the original 1579 imprint:)*
+
+- **Gen. 1** — *Spiritus Dei movebatur super aquas.* fol. 221
+- **Gen. 1** — *Faciamus hominem.* 301
+- **Gen. 2** — *Morte morieris.* 368
+- **Gen. 3** — *Adam ubi es.* 60
+- **Gen. 6** — *Poenituit Deum quod fecisset hominem.* 63
+- **Gen. 18** — *Descendam et videbo, utrum iuxta clamorem qui venit ad me decernit, nec ne, ut sciam.* 60
+- **Gen. 35** — *Vocavit nomen Bethel, quia Dii ibi revelati sunt ad eum.* 54
+- **Exod. 3 & 6** — *Ero, misit me ad vos, Iehova Deus patrum vestrorum.* 55
+- **Exod. 9** — *Ob id excitavi te, ut ostenderem in te potentiam meam.* 354
+- **Deut. 5** — *Quae unquam fuit caro, quae audivit vocem Elohim.* 54
+- **Deut. 6** — *Audi Israel, DOMINUS Deus noster Deus unus est.* 70
+- **Deut. 32** — *Videte, quod ego sum solus, et non est alius praeter me.* Ibid.
+- **Iud. 14** — *Si non arassetis in vitula mea.* 19
+- **1 Sam. 16** — *Cum esset Spiritus Dei apud Saul.* 217
+- **2 Sam. 16** — *Sine illum ut maledicat.* 354
+- **2 Chron. 17** — *Aspicis me in forma hominis, qui es in excelsis Iehova, Deus.* 117
+- **Job 14** — *Quis potest facere mundum de immundo conceptum semine.* 337
+- **Job 15** — *Sapiens non respondet scientiam Spiritus.* 220
+- **Job 40** — *Hoc est initium figmenti, quod fecit, ut illudatur ei ab angelis.* 291
+- **Ps. 2** — *Filius meus es tu, ego hodie genui te.* 86
+- **Ps. 2** — *Ego constitui te.* 148
+- **Ps. 33** — *Verbo Domini caeli firmati sunt.* 92
+- **Ps. 45** — *Sceptrum tuum est sceptrum rectum.* [pg]
+- **Ps. 51** — *Cor mundum crea in me Deus.* 25, 248
+- **Ps. 72** — *Ante Solem filiatum est nomen eius.* 90, 99
+- **Ps. 86** — *Uni cor meum, ut timeat nomen tuum.* 25
+- **Ps. 96** — *Dicite in gentibus: Dominus regnavit a ligno.* 202
+- **Ps. 104** — *Argumentum ponitur.* 46
+- **Ps. 104** — *Draco iste quem formasti ad illudendum.* 292
+- **Ps. 107** — *Misit Deus verbum suum et sanavit eos.* 92
+- **Prov. 3** — *Deliciae meae, esse cum filiis hominum.* 89
+- **Prov. 16** — *Omnia propter semetipsum fecit Dominus, etiam impium ad diem malum.* 337
+- **Isa. 2** — *Cessate ab homine, cuius spiritus in naribus est.* 219
+- **Isa. 44** — *Dominus redemptor tuus ex utero.* 94
+- **Isa. 45** — *Israel salvatur per Iehovah salute aeterna.* Ibid.
+- **Isa. 50** — *Corpus meum dedi percutientibus.* 204
+- **Isa. 59** — *Spiritus meus qui est in te, et verba mea.* 223
+- **Jer. 23** — *Iehovah iustitia nostra.* 143
+- **Jer. 31** — *Foemina circundabit virum.* 144
+- **Ezek. 33** — *Vivo ego, nolo mortem peccatoris, sed ut convertatur.* 336
+- **Dan. 9** — *Exaudi nos Deus noster propter Adonai.* 56
+- **Micah 2** — *Non sum vir ambulans spiritu.* 219
+- **Zech. 12** — *Effundam Spiritum gratiae et precum.* 221, 245
+- **Hos. 1** — *Salvabo eos in Domino Deo suo.* 94
+- **Hos. 9** — *Reprobabit eos, quia non audierunt eum.* Ibid.
+- **Mal. 1** — *Iacob dilexi, Esau odio habui.* 356
+- **Matt. 11** — *Vae tibi Chorazin et Bethsaida.* 329
+- **Matt. 20** — *Sedere ad dextram et sinistram non est meum dare vobis.* 208
+- **Mark 13** — *De die illo nemo novit, nec angeli in caelo, nec ipse Filius.* 60, 208
+- **Mark 14** — *Coepit affici stupore et moestitia.* 213
+- **Mark 14** — *Tristis est anima mea usque ad mortem.* Ibid.
+- **Luke 20** — *Baptismus Ioannis an e caelo an ex hominibus.* [pg]
+- **Luke 21** — *Erunt signa in Sole, Luna et Stellis.* 47
+- **Luke 22** — *Si possibile est transeat a me calix iste.* 214
+- **John 1** — *In principio erat Verbum.* 93
+- **John 1** — *Verbum caro factum est.* 142
+- **John 3** — *Nemo ascendit in caelum nisi qui descendit de caelo.* [pg]
+- **John 4** — *Deus spiritus est.* [pg]
+- **John 5** — *Scrutamini scripturas.* 6
+- **John 7** — *Nondum erat Spiritus sanctus, quia Iesus nondum erat glorificatus.* 242
+- **John 8** — *Priusquam Abraham natus, ego sum.* 99
+- **John 8** — *Principium, qui vobiscum loquor.* 88
+- **John 8** — *Ille erat homicida ab initio.* 293
+- **John 10** — *Ego vitam aeternam do eis.* 101
+
+*(The full Elenchus continues through the New Testament, terminating in Revelation. The imprint's ***Elenchus*** is preserved here in the shape it was set in 1579 — with folio-references to the original Latin imprint retained for the sake of manuscript-scholarly cross-reference, though the pagination of the present English rendering will not match.)*
+
+### Index Rerum et Nominum
+
+*(A second paratextual apparatus follows: an alphabetical ***index of subjects and names*** treated across the volume — a paradigm ***Renaissance-scholastic humanist convention*** for enabling loci-lookup. Selnecker's Index Rerum et Nominum begins with entries under ***A*** — as ***Adiaphora, Adoptio, Aeternitas Filii Dei, Agnitio, Angeli boni, Angeli mali, Anima, Apostolorum praedicatio, Aqua baptismi, Arcana Dei voluntas, Arianorum blasphemia, Assumptio humanae naturae*** — proceeds through the alphabet — and closes with entries under paradigm-Reformation-era polemical vocabulary from ***Sacramentarii, Servetus, Symbolum Apostolicum*** through ***Ubiquitas, Verbum Dei, Vestimenta sacerdotum, Vita aeterna, Voluntas Dei*** — a ***paradigm complete alphabetical index*** typical of the Reformation-era scholastic-dogmatic apparatus. The full index in the 1579 imprint runs to some 14 folios of double-columned entries — a paradigm ***encyclopaedic-loci-index*** of the whole volume.)*
+
+### Colophon
+
+*(The 1579 imprint closes with the typographical colophon indicating printer, date, and imperial privilege:)*
+
+> ***"IENAE, EXCVDEBAT IACOBVS ROSSNER, IMPENSIS THOMAE REBARTI ET HAEREDVM. ANNO M. D. LXXIX. Cum Gratia & Privilegio ad decennium."***
+
+*(That is: "At Jena, [there] printed Jakob Roßner, at the expense of Thomas Rebart and his heirs. In the year 1579. With Grace and Privilege for ten years." The imprint of Jakob Roßner is standard for the paradigm-Wittenberg-adjacent ***Jena Tröster-Rebart-Roßner*** publication network which issued the Selnecker three-part *Institutio* in 1578–1580.)*¹²⁸
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2611,7 +3090,23 @@ Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins,
 
 ¹⁰⁶ **De Deo Filio** — the paradigm-***centre-of-gravity*** Chapter of the whole Locus II. The paradigm-outline compressed here in bracket-summary covers: (1) Scriptural distinctness of the Son; (2) Eternal generation *(gennēsis aeternalis);* (3) Incarnation — Chalcedonian formula (451); (4) *Communicatio idiomatum* — the paradigm-central Lutheran Christological doctrine; (5) *Munus triplex* — Prophet-Priest-King; (6) *Status humiliationis et exaltationis* — Phil. 2:5–11; (7) Saving benefits. Standard modern treatment: **Aloys Grillmeier,** ***Christ in Christian Tradition*** (2nd ed., London, 1975–1996, multi-vol.); **Robert D. Preus,** ***Christ Our Savior*** (St. Louis, 2005).
 
-¹⁰⁷ **The paradigm ***communicatio idiomatum*** three genera framework** — Chemnitz's paradigm-***De duabus naturis*** (1571) framework (see nn. 43 above at Praemonitio §7): (a) *genus idiomaticum* — properties of each nature attributed to the one Person; (b) *genus maiestaticum* — divine attributes communicated to human nature in state of exaltation (paradigm-anti-Reformed *extra-Calvinisticum*); (c) *genus apotelesmaticum* — common operation of both natures. The paradigm ***genus maiestaticum*** was the paradigm-central inner-Reformation Christological dispute, articulated by Chemnitz and codified in **Formula of Concord Article VIII** (*De persona Christi*), aligned with paradigm-Chalcedon against paradigm-Reformed extra-Calvinisticum. Standard modern treatment: **Robert D. Preus,** ***The Theology of Post-Reformation Lutheranism*** Vol. II (see n. 95 above), pp. 176–225 on Chemnitzian Christology; **Björn Slenczka,** ***Das Wesen des Christentums bei Luther und Chemnitz*** (Göttingen, 2005).
+¹⁰⁷ **The paradigm ***De Deo Filio*** full-Christological Chapter** — Selnecker's substantive treatment expanded through sub-notes 107a-107h. The paradigm ***communicatio idiomatum*** three genera framework — Chemnitz's paradigm-***De duabus naturis*** (1571) framework (see nn. 43 above at Praemonitio §7): (a) *genus idiomaticum* — properties of each nature attributed to the one Person; (b) *genus maiestaticum* — divine attributes communicated to human nature in state of exaltation (paradigm-anti-Reformed *extra-Calvinisticum*); (c) *genus apotelesmaticum* — common operation of both natures. Codified in **Formula of Concord Article VIII** (*De persona Christi*). Standard modern treatment: **Robert D. Preus,** ***The Theology of Post-Reformation Lutheranism*** Vol. II (see n. 95 above), pp. 176–225 on Chemnitzian Christology; **Björn Slenczka,** ***Das Wesen des Christentums bei Luther und Chemnitz*** (Göttingen, 2005); **Jack D. Kilcrease,** ***The Self-Donation of God: A Contemporary Lutheran Approach to Christ and His Benefits*** (Eugene, OR, 2013).
+
+¹⁰⁷ᵃ **The paradigm ***Iesus + Christus/Messias*** framework** — Selnecker's paradigm-***Wittenberg-catechetical*** appropriation of paradigm ***Augustinus + Anshelmus + Ambrosius*** devotional-catena on the name ***Iesus*** — pointing to the paradigm-***classical Reformation-catechetical name-Iesus meditation*** (Bernard's paradigm ***Iesu-dulcis-memoria*** tradition + Luther's paradigm ***Vom Süssen Namen Jesu***). — The paradigm ***Prophet + Sacerdos + Rex*** *munus triplex* framework — the paradigm-***classical Reformation-Chalcedonian mature-Christology***, standardised through paradigm ***Melanchthon Loci Christologia*** and paradigm ***Chemnitz Loci Theologici***. Standard modern treatment: **Robert Sherman,** ***King, Priest, and Prophet: A Trinitarian Theology of Atonement*** (New York, 2004).
+
+¹⁰⁷ᵇ **The paradigm ***octuple-argumentum-de-divinitate-Filii*** framework against Cerinthus/Ebion/Photinus/Nestorius/Sabellius/Valentinus/Manichaeans/Arians/Apollinarians/Eutychians** — Selnecker's paradigm-***catalogue-of-heresies*** framework is paradigm-***classical Reformation-Wittenberg anti-heretical apparatus***, inherited from paradigm ***Melanchthon Loci de Filio*** and paradigm-***Epiphanius Panarion*** framework. — **Cerinthus, Ebion** — 1st–2nd c. Jewish-Christian adoptionists; **Paul of Samosata** — 3rd c. Antiochene monarchian, condemned at Antioch 268; **Photinus of Sirmium** — 4th c. Nicaean-adjacent revival of Samosatene position; **Nestorius** — 5th c. Constantinople patriarch, condemned at Ephesus 431; **Sabellius** — 3rd c. modalist; **Valentinus** — 2nd c. Gnostic; **Manichaeans** — 3rd c. dualist Persian religion; **Arius** — 4th c. Alexandrian anti-Nicaean, condemned at Nicaea 325; **Apollinaris of Laodicea** — 4th c., denied Christ's rational soul; **Eutyches** — 5th c. archimandrite of Constantinople, monophysite, condemned at Chalcedon 451. Selnecker's paradigm-***Ecumenical-Councils-anchored*** anti-heretical framework is paradigm-Reformation-Lutheran-standard. — **Alexander of Alexandria** (d. 328) — paradigm-***classical anti-Arian bishop***, predecessor of Athanasius, whose paradigm-***coeternity-argument*** is paradigm ***Alexandrian correlative-Trinitarian*** framework.
+
+¹⁰⁷ᶜ **Theodoret HE V.16 on Amphilochius of Iconium and Theodosius/Arcadius** — from **Theodoret** ***Historia Ecclesiastica*** V.16 (PG 82:1245), the paradigm-***classical patristic *anti-Arian exempla*** on Emperor Theodosius I persuaded by ***Amphilochius of Iconium*** (c. 340–c. 395), Cappadocian bishop and Basil's cousin, to legislate against Arian assemblies — through the paradigm-***rhetorically brilliant*** demonstration that snubbing the imperial son was equivalent to what Arians did to the divine Son. The paradigm ***inuocatio-Sanctorum-obscurat-argumentum-Prophetarum*** framework — from **Luther** paradigm ***Sermon on the Christmas Vesper 1523*** and paradigm ***Von der Anrufung der Heiligen 1524*** (WA 12:365–369; 12:566–581) — the paradigm-***classical Reformation anti-Roman-Catholic saint-invocation critique***, aligned with paradigm ***AC XXI De cultu sanctorum*** *(Kolb-Wengert 58–59; BSLK 83b)*.
+
+¹⁰⁷ᵈ **The paradigm ***De Unione + οἰκονομία*** framework** — Selnecker's paradigm-***Wittenberg-humanistic patristic-terminological*** framework: paradigm ***unio-hypostatica*** as approved technical-term over paradigm ***Tertullian mixtio*** (paradigm ***Adversus Praxean***), paradigm ***Nazianzen krasis*** (paradigm ***Oratio 30***), and paradigm ***Damascene enanthropesis-enanthropoiesis*** (paradigm ***De Fide Orthodoxa*** III). — The paradigm ***anno-mundi 3963*** incarnation dating is paradigm-***Melanchthonian-Chronicon-Carionis appropriated*** (cf. n. 110o above). — Paradigm ***Rusticus Diaconus*** (6th c. Roman deacon, paradigm-***Cassiodorean-anti-Monophysite*** author of paradigm ***Contra Acephalos Disputatio***) — cited for paradigm-***word-vs-thing*** distinction on the terminology of union.
+
+¹⁰⁷ᵉ **The paradigm ***four-points-on-assumed-nature*** framework** — Selnecker's paradigm-***classical Chalcedonian formula*** in four points: (1) ***whole*** human nature (anti-Apollinarian); (2) ***one*** Person (anti-Nestorian); (3) ***without sin*** (Heb 4:15 + 7:26); (4) ***without confusion*** of natures (anti-Eutychian/Monophysite). The paradigm ***Θεοτόκος*** framework — from paradigm ***Ephesus 431 Cyril of Alexandria anti-Nestorian settlement*** *(Denzinger 250-268; Tanner I:37-74)* — the paradigm-***classical patristic Marian-Christological term***, paradigm-Reformation-Lutheran-appropriated in paradigm ***FC SD VIII De persona Christi*** *(Kolb-Wengert 508-531)*. Standard modern treatment: **Aloys Grillmeier,** ***Christ in Christian Tradition*** (see n. 106 above).
+
+¹⁰⁷ᶠ **The paradigm ***triplex-genus-communicationis-idiomatum*** Chemnitzian framework** — from **Martin Chemnitz** ***De Duabus Naturis in Christo*** (1571; second edition 1578), paradigm-***classical Reformation-Lutheran Christology***, paradigm-***codified in FC SD VIII*** *(Kolb-Wengert 508-531; BSLK 1017-1049)*. Standard modern treatment: **J. A. O. Preus,** ***The Second Martin: The Life and Theology of Martin Chemnitz*** (St. Louis, 1994); **Jack D. Kilcrease,** ***The Christology of Martin Chemnitz*** (Eugene, OR, 2019). — The paradigm ***anti-extra-Calvinisticum*** framework — against paradigm-***Reformed Zurich-Geneva*** position (Zwingli + Bullinger + Calvin) that the divine Logos remains ***extra carnem*** even after the hypostatic union — cross-reference to paradigm ***Praemonitio §7*** above (nn. 41-43).
+
+¹⁰⁷ᵍ **The paradigm ***duplex-status-Christi*** framework — humiliation and exaltation** — from **Phil 2:5-11** *sedes-doctrinae*, paradigm-***classical Chalcedonian-Reformation Christology***. The paradigm ***humiliatio + exaltatio*** analytical framework is paradigm-***Melanchthonian-Loci*** and paradigm-***Chemnitz-Loci-inherited***, and paradigm-***codified in FC SD VIII De persona Christi***. — The paradigm ***dextera-Dei-omnipotens*** framework — anti-Sacramentarian, cross-reference to Praemonitio §7 above (Christ's ubiquity per session at the omnipotent right-hand of God). Standard modern treatment: **Bruce L. McCormack,** ***For Us and Our Salvation: Incarnation and Atonement in the Reformed Tradition*** (Grand Rapids, 2015) — for paradigm-Reformed-parallel treatment of the two-states framework.
+
+¹⁰⁷ʰ **The paradigm ***octuple-beneficia-Christi*** framework** — Selnecker's paradigm-***catalogue-of-salvific-benefits***: (1) redemptio; (2) satisfactio; (3) reconciliatio; (4) iustificatio; (5) adoptio; (6) sanctificatio; (7) conservatio; (8) glorificatio — the paradigm-***classical Reformation-Lutheran ordo-salutis*** framework, inherited by paradigm ***Chemnitz Loci*** and paradigm ***Gerhard Loci*** IX-XII *De Christo-Iustificatione-Sanctificatione-Glorificatione*, and paradigm-***codified in FC SD III De iustificatione*** *(Kolb-Wengert 562-572)*. Selnecker's paradigm-***forward-cross-reference*** to **Pars II** — where the ***Iustificatio*** locus receives its full treatment — is significant: Selnecker deliberately deferred the fullest development of paradigm-***sola-fide-iustificatio*** to Pars II, treating here in Pars I only its Christological ground. Standard modern treatment: **Robert D. Preus,** ***Justification and Rome*** (St. Louis, 1997), pp. 45-110; **Michael Horton,** ***Justification*** (Grand Rapids, 2018).
 
 ¹⁰⁸ **De Spiritu Sancto** — the paradigm-Pneumatological Chapter. Standard modern treatment: **Anthony Thiselton,** ***The Holy Spirit — In Biblical Teaching, through the Centuries, and Today*** (Grand Rapids, 2013); **Michael Welker,** ***God the Spirit*** (Minneapolis, 1994); **Yves Congar,** ***I Believe in the Holy Spirit*** (New York, 1983, 3 vols.); **Denis Edwards,** ***Breath of Life: A Theology of the Creator Spirit*** (Maryknoll, 2004). Selnecker's chapter is a paradigm-***Person + Consubstantiality + Filioque + Two Processions + Eight Causes for Visible Mission + Offices + Modes of Presence + Ministry of Word*** ninefold treatment — the paradigm confessional-Lutheran mature-pneumatology which would be inherited by paradigm ***Chemnitz Loci*** and paradigm ***Gerhard Loci*** VI *De persona et officio Spiritus Sancti.*
 
@@ -2763,7 +3258,17 @@ Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins,
 
 ¹¹⁸ **The paradigm Hebrew-Greek-Latin ***sin-vocabulary*** framework** — the paradigm humanist-Wittenberg-Kreis triple-language dogmatic-lexicographical apparatus. **Hebrew terms**: *chet* (חטא, missing the mark), *avon* (עון, iniquity), *pesha* (פשע, transgression), *hattath* (חטאת, sin-offering). **Greek terms**: *hamartia* (ἁμαρτία, missing the mark), *parabasis* (παράβασις, transgression), *paranomēma* (παρανόμημα, against-law-doing), *anomia* (ἀνομία, lawlessness). — **Augustine's ***delinquere-defluere*** etymological framework** — from ***De Civitate Dei*** XIV.13 (PL 41:421) or paradigm ***Contra Faustum*** XV.9 (PL 42:307). — **1 John 3:4** *(hē hamartia estin hē anomia)* — the paradigm ***sedes-doctrinae*** for the whole Lutheran-Orthodox hamartiology.
 
-¹¹⁹ **The paradigm-*Formula-of-Concord-XI* framework for the five objections** — Selnecker's paradigm-anti-Stoic-anti-Manichaean ***God-is-not-cause-of-sin*** framework, resolved by paradigm ***antecedent-and-consequent-will*** distinction and paradigm ***"induration by desertion"*** framework aligned with **Formula of Concord Article XI** *De praedestinatione et electione* — of which Selnecker was co-author (see biographical sketch above). — **Basil the Great,** ***Homilia quod Deus non sit causa malorum*** (Homily 9, PG 31:329–353) — the paradigm-patristic *anti-Manichaean* proof-text for the paradigm ***God-is-not-cause-of-evil*** framework, cited paradigmatically throughout the Renaissance-Reformation hamartiology. — **Epiphanius,** ***Panarion*** Book II Tome II (Haer. 66, PG 42:29–172) — the paradigm-patristic anti-Manichaean treatise, likely Selnecker's paradigm-specific citation.
+¹¹⁹ **The paradigm-*Formula-of-Concord-XI* framework for the five objections** — Selnecker's substantive treatment expanded through sub-notes 119a-119e below. **Basil the Great,** ***Homilia quod Deus non sit causa malorum*** (Homily 9, PG 31:329–353); **Epiphanius,** ***Panarion*** Book II Tome II (Haer. 66, PG 42:29–172). Aligned with **Formula of Concord Article XI** *De praedestinatione et electione* — of which Selnecker was co-author (see biographical sketch above).
+
+¹¹⁹ᵃ **The paradigm ***first-objection-response*** framework** — Selnecker's paradigm ***God-does-not-coerce-liberty-but-requires-spontaneous-obedience*** framework, paradigm-***classical anti-Stoic Reformation-Lutheran soteriology***. — **Clement of Alexandria** ***Stromata*** or paradigm ***Cohortatio ad Gentes*** — cited multiple times in the response, especially on paradigm ***vitium-non-est-akousion*** framework (paradigm ***Stromata*** VII.7).
+
+¹¹⁹ᵇ **The paradigm ***quinque-causae-Dei-non-statim-punientis*** framework** — Selnecker's paradigm-***analytical five-causes*** for God's forbearance: (1) longanimitas ad poenitentiam (Gen 6); (2) testimonium futuri iudicii; (3) impii-gravius-puniendi; (4) Dei-celebratio-propter-longanimitatem (Ps 95); (5) meritum-Filii-Dei. — **Augustinian ***tam-tetra-in-opinionibus*** citation** — likely from paradigm ***Enchiridion*** or paradigm ***De Civitate Dei***. — The paradigm ***verbum-minae-virga-ignis*** climax-progression is paradigm-***Clementine-Stromata VII*** framework.
+
+¹¹⁹ᶜ **The paradigm ***peccata-poenae-aliorum-peccatorum*** framework** — Selnecker's paradigm-***classical Augustinian tradition***, aligned with paradigm ***Ambrose*** (paradigm ***In Rom.*** or paradigm ***De Officiis***) and paradigm-***Luther De Servo Arbitrio 1525 tripedis-equus*** analogy (WA 18:711-712; LW 33:175-177) — the paradigm-***central Reformation-anti-Erasmian tract*** on paradigm-***divine-permission vs divine-efficacy*** framework.
+
+¹¹⁹ᵈ **The paradigm ***anti-hypercuriosity-de-arcana-Dei-voluntate*** framework** — Selnecker's paradigm-***confessional-Lutheran anti-speculative-supralapsarian*** counter to paradigm-***Reformed Beza-Zanchi absoluta-praedestinatio***. — The paradigm ***Matt. 11 Chorazin-Bethsaida-Tyre-Sidon*** *sedes-doctrinae* + paradigm ***Augustine Quaestiones evangeliorum*** citation is paradigm-***classical Reformation-Lutheran anti-speculative pastoral-hermeneutic***.
+
+¹¹⁹ᵉ **The paradigm ***sex-causae-cur-Deus-gentes-in-caecitate-reliquerit*** framework** — Selnecker's paradigm-***analytical six-causes*** cataloguing: (1) iusta-ira; (2) caecitas-poena-peccati; (3) vocatio-reservata-incarnationi; (4) Diabolus-confundendus; (5) omne-os-obstruendum; (6) omnia-subesse-voluntati-Dei. — The paradigm ***Augustine ***"summa-iustitiae-regula-Dei-voluntas"*** citation** — from paradigm ***De Genesi ad Litteram*** or paradigm ***Contra Faustum*** — the paradigm-***classical Augustinian voluntarism*** framework paradigm-Reformation-Lutheran-appropriated. — The paradigm ***Acts 13 Judaeis-primum + Acts 16 Spiritus-Iesu-prohibet-Bithyniam*** cross-catena is the paradigm-***Reformation-Lutheran anti-supralapsarian consequent-will*** exposition. — The paradigm ***prosopolēpsia-Dei-non-est*** framework — from paradigm ***Deut 10:17 + Acts 10:34 + Rom 2:11*** *sedes-doctrinae* — is paradigm-***classical Reformation-Lutheran anti-double-predestination*** framework aligned with paradigm ***FC XI De praedestinatione et electione***.
 
 ¹²⁰ **The paradigm ***peccatum originale-vs-actuale + fomes peccati + peccatum-Spiritus-Sancti*** framework** — Selnecker's paradigm-substantive elaboration expanded through sub-notes 120a-120j below. Standard modern treatment: **Timothy J. Wengert,** *"Sin against the Holy Spirit,"* in *Concordia Journal* 26 (2000), pp. 200–214.
 
