@@ -4012,14 +4012,61 @@ burchard_ursbergensis:
     Flacius accuses medieval Catholic historians of deliberate
     suppression.
 
+# ─── Tranche 2aa — Frankfurt Synod substantive + Chalons (vl0130-135) ──
+
+frankfurt_dammat_nicaea_ii:
+  english: Frankfurt 794 damned Nicaea II 787 for image-adoration
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus Francofordiensis at vl0130"
+  note: >
+    Flacian syllogism (i) Frankfurt 794 damned some Greek synod
+    (documented) (ii) that Greek synod was Nicaea II 787 (iii)
+    Nicaea II's chief novelty was image-adoration (iv) therefore
+    Frankfurt damned image-adoration. QED against medieval Roman
+    elision of Franco-Roman iconographic disagreement.
+
+hincmar_remorum:
+  english: Hincmar of Rheims (Carolingian witness)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus Francofordiensis at vl0131"
+  note: >
+    Hincmar of Rheims c. 806-882 Archbishop 845-882 Opusculum LV
+    Capitulorum contra Hincmarum Laudunensem c. 869-870 — 9th-c
+    Carolingian witness reading Libri Carolini as young man in
+    Aachen palace (non-modicum-volumen sent from Rome). Reformation-
+    Lutheran ecclesiology inherits Hincmar's scholastic-conciliar
+    theory of unitas → catholicitas → universalitas directly.
+
+regino_prumensis:
+  english: Regino of Prüm Chronicon (Pseudosynodus Graecorum)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus Francofordiensis at vl0130"
+  note: >
+    Regino of Prüm †915 Chronicon 794 entry explicitly labels
+    Nicaea II PSEUDOSYNODUS GRAECORUM PRO ADORANDIS IMAGINIBUS
+    falsely called Seventh Ecumenical condemned by Frankish bishops.
+    Reformation-key documentation.
+
+media_via_imaginum:
+  english: Media via imaginum (Franco-Frankfurt-Lutheran middle position)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus Francofordiensis at vl0132"
+  note: >
+    Franco-Frankfurt position (accurately preserved by Flacius) —
+    images may be HAD and CARRIED for ornament or historical
+    instruction but NOT adored, NOT venerated with vestments/lights/
+    incense, no procumbere aut genua flectere. Precisely Luther media
+    via in Wider die himmlischen Propheten 1525 (WA 18:62-125)
+    against both Karlstadt iconoclasm and Roman iconodulia.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Frankfurt Synod opening (vl0001-vl0129,
-# 129 body pp + 32 paratexts ≈ 23.6% of 1094-pp body). Flacius lemma total:
+# FLACIUS 1556 — TRANCHE 2 through Frankfurt substantive (vl0001-vl0135,
+# 135 body pp + 32 paratexts ≈ 24.7% of 1094-pp body). Flacius lemma total:
 # 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
 # 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
 # 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
 # 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) +
-# 4 (T2y) + 4 (T2z) = 141.
+# 4 (T2y) + 4 (T2z) + 4 (T2aa) = 145.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
