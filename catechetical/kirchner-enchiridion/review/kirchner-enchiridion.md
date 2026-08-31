@@ -11825,6 +11825,308 @@ In addition, **Augustine, *lib. I, De peccatorum meritis et remissione, cap. 28*
 
 And **Chrysostom, *Homilia 29, in Matth. c. 8***: ***Non potest anima à corpore separata, in his regionibus errare, iustorum animae enim in manu Dei sunt***, etc. *Ibidem*: ***Peccatorum verò post hunc exitum, continuò abducuntur, quod à Lazaro et divite planum efficitur: sed alibi quoque Dominus ait: Hodie animam abs te repetent. Non igitur potest anima, cùm à corpore abscesserit, apud nos hic errare, nec id iniuria. Nam si in terra euntes assueta et nota, et corpore amicta, cùm in ignotas regiones inciderint, nesciunt quò ituri sint, nisi ducem habeant: quantò magis anima relicto corpore, cùm nova omninò sibi vitam et viam ingrediatur, quò itura sit, ignorabit, nisi ducem consequatur?*** — *"The Soul, when parted from the Body, cannot wander about in these regions; for the Souls of the Righteous are in God's Hand. Item: The Souls of Sinners are, after this exit, straightway led away — as is made plain from Lazarus and the Rich Man. But elsewhere also the LORD says: 'This night they shall require thy Soul from thee.' Therefore the Soul, when it has departed from the Body, cannot wander about here among us — and not without cause. For if those who walk on Earth in familiar and known places, and are clothed with the Body, when they fall into unknown regions know not whither to go — unless they have a Guide — how much more shall a Soul, having left the Body, when it enters upon a completely new Life and Way — not know whither to go, unless it obtain a Guide?"*
 
+Ibid.: ***Quòd verò nec peccatorum animae hic commorari possint, divitem audias, qui enixè eam rem petit, nihil tamen impetrat. Quòd si possint animae hominum hic conversari, venisset ipse, ut cupiebat, et suos de tormentis inferni fecisset certiores. Quo ex loco scripturae illud etiam apertè paret, quod, post exitum à corpore, in locum quendam certum animae deducuntur, unde redire sponte sua non possunt, sed terribilem illum iudicii diem ibi expectant.*** — *"It cannot be that the Soul, when parted from the Body, should wander here upon Earth. For the Souls of the Righteous are in God's Hand. Item: The Souls of Sinners are however (after this Departure) straightway led away, as is clear from Lazarus and the Rich Man. The LORD speaks otherwhere — Luke 12:20 — 'Tonight shall they require thy Soul of thee.' Therefore it is in vain that one gives out that the Souls, when they part from the Body, shall wander here upon Earth, and that not without cause. For since it is before Eyes, that they — while they were still on Earth united with the Body and go about — when they came into unknown places, knew not whither they should go, unless they had a Guide: how much more will the Soul, when it is separated from the Body, and comes into an entirely new Life and Way, not know whither it should go, unless it have one who shows it the way? With many Sayings of the Scripture can it be proven, that the Souls of the Righteous after Death do not wander here upon Earth. For **Stephen, Acts 7:59**, speaks: 'LORD, receive my Spirit.' And Paul, **Phil. 1:23**, desires to be *dissolved and to be with Christ*. Of the Patriarch **Abraham, Gen. 25:8**, the Scripture speaks: 'He died, and was gathered to his People, nourished in a good old Age.' That however also the Souls of Sinners cannot remain here upon Earth: hear thereof the **Rich Man, Luke 16**, who *earnestly asked therefor*, and yet obtained nothing. For could the Souls of the Deceased be here upon Earth, he would have come to his Brothers, as he desired, and would have *warned his own against such Pain and Torment*. Out of which Saying of Scripture this is also clear, that after Death the Souls are brought to a certain Place, from whence they cannot come by their own pleasure, but must there *await the terrible Day of God's Judgment*."*
+
+— ❦ —
+
+## Question 11. Yet **Samuel** appeared to **Saul** — **1 Sam. 28**?
+
+**Yet Samuel appeared to Saul — 1 Sam. 28?**
+
+**Answer**: **That was not Samuel, or his Soul** — which was in God's Hand, and could *not be torn out* through the *Fortune-Teller's* or *Devil's Art* — but it was an **Appearance of the Devil himself**. Inasmuch as *Sorcerers or the Devil himself have in the least no Power to take the Souls of the Blessed out of God's Hand, and place them here upon Earth* — else the Souls of the Blessed were *very ill guarded*.
+
+— ❦ —
+
+## Question 12. Yet at **Matt. 17** **Moses and Elias** appeared?
+
+**Yet at Matt. 17 Moses and Elias appeared?**
+
+**Answer**: **That is quite a special matter.** Moreover, they *appeared to Christ*; and it stands *not* that their *Souls* appeared, but **Moses and Elias**.
+
+— ❦ —
+
+## Question 13. Whence has then the Fable of *Purgatory* come?
+
+**Whence has then the Fable of Purgatory come?**
+
+**Without doubt from the Heathen books, as *Plato* and *Virgil*, who almost in the same manner speak thereof as the Papacy teaches hereof.**
+
+— ❦ —
+
+# XLII.
+
+# Of the *End of this World*.
+
+## Question 1. Shall this World *finally pass away and take an End*?
+
+**Shall this World finally pass away and take an End?**
+
+**Yes, it shall finally pass away.** For the *Holy Scripture witnesses clearly*, however highly also the *Epicurean Scoffers laugh thereat*. **Psalm 102:26**: *"The Heavens shall pass away."* **Luke 21:33**: *"Heaven and Earth shall pass away."* **2 Pet. 3:7**: *"The Heaven now and the Earth are by his Word spared, that they be kept for the Fire."* **Rev. 21:1**: *"I saw a new Heaven and a new Earth."*
+
+— ❦ —
+
+## Question 2. At what *Time* however shall that happen?
+
+**At what Time however shall that happen?**
+
+**The Scripture says no certain Time, Hour, or Year when such shall happen, but keeps that to God alone.** **Matt. 24:36**: *"Of the Day however, and of the Hour, no one knows."* **Acts 1:7**: *"It belongs not to you to know the Time or Hour which the Father has kept in his Power."* **1 Thess. 5:1–2**: *"Of the Times however and Hours, dear Brethren, is not needful to write you — for ye yourselves know certainly, that the Day of the LORD shall come as a Thief in the Night."*
+
+— ❦ —
+
+## Question 3. Shall it then last *so long a Time* before the End comes?
+
+**Shall it then last so long a Time before the End comes?**
+
+**No.** For **1 John 2:18** stands: *"Children, it is the last Hour."* And Christ — **Luke 17:26** — compares it with the *Times of Noah*, before the Flood: *"And as it happened in the Times of Noah, so shall it also happen in the Days of the Son of Man,"* etc.
+
+— ❦ —
+
+## Question 4. Why has the LORD not willed to let us know this Time?
+
+**Why has the LORD not willed to let us know this Time?**
+
+**Thereupon he himself answers, Matt. 24:42**: that it *therefore happens*, so that we *shall watch and pray*. *"Therefore watch, for ye know not what Hour your LORD shall come. But this shall ye know: if a Householder knew what Hour the Thief would come, he would then watch, and not let him break into his House. Therefore be ye also ready, for the Son of Man shall come at an Hour that ye think not."*
+
+— ❦ —
+
+## Question 5. What Signs shall go before the End of the World?
+
+**What Signs shall go before the End of the World?**
+
+**Answer**: **The Signs are described — Matt. 24, 25; Mark 13; and Luke 21** — where each Christian shall *daily and in order read them*.
+
+**Paul** sets among other Signs also the **Revelation of the Antichrist** — **2 Thess. 2:3**.
+
+Likewise the *horrible Security of the World* — **1 Thess. 5:3**: *"When they shall say: 'It is Peace, there is no Need' — so shall the Ruin suddenly overcome them, just as the Pain of a pregnant Woman, and they shall not escape."*
+
+— ❦ —
+
+## Question 6. How shall the World *pass away*?
+
+**How shall the World pass away?**
+
+**That describes Peter, 2 Pet. 3:10–12**, with these Words: *"Ye wait and hasten to the Coming of the Day of the LORD, in which the Heavens shall pass away from Fire, and the Elements melt for Heat."*
+
+Ibid.: *"But the Day of the LORD shall come as a Thief in the Night, in which the Heavens shall pass away with great Crashing, but the Elements shall melt for Heat, and the Earth and the Works that are therein shall burn,"* etc.
+
+— ❦ —
+
+## Question 7. How is this to be understood?
+
+**How is this to be understood?**
+
+**Of the Transformation** — as the **102nd Psalm** says: *"They shall be transformed like a Garment."* Whence also **Augustine, *De Ecclesiasticis Dogmatibus***, speaks: ***Elementa, id est, caelum et terram, non credamus abolenda per ignem, sed in melius commutanda. Figuram quoque mundi, id est, imaginem non substantiam transituram.*** — *"We shall not believe that the Elements — that is, Heaven and Earth — shall entirely pass away through the Fire, but they shall be bettered. The Figure of the World also, or its Image, shall pass away — but not the Substance or Being itself."*
+
+— ❦ —
+
+## Question 8. What shall become hereafter?
+
+**What shall become hereafter?**
+
+**New Heavens and new Earth, in which Righteousness shall dwell.** **2 Pet. 3:13**: *"We wait however for a new Heaven and a new Earth, according to his Promise, in which Righteousness dwells."*
+
+— ❦ —
+
+# XLIII.
+
+# Of the *Resurrection of the Dead*.
+
+## Question 1. Is it then certain that the *Dead shall rise*?
+
+**Is it then certain that the Dead shall rise?**
+
+**Yes, it is certain.** For the *Scripture witnesses it mightily*. **Job 19:25**: *"I know that my Redeemer lives."* **Dan. 12:2**: *"Many, so lie asleep under the Earth, shall awake."* **Isa. 26:19; Ezek. 37**.
+
+Likewise the LORD Christ confirms it clearly — **John 5:28–29**: *"The Time shall come, in which all who are in the Graves shall hear his Voice, and shall come forth."*
+
+The **Apostles** likewise confirm it — **1 Cor. 15** — whose whole Chapter belongs here. For there the Apostle proves the Resurrection of the Dead:
+
+**1.** From the Sayings of Holy Scripture. **2.** From the Resurrection of Jesus Christ. **3.** Through Living Witnesses. **4.** From the *unanimous Consent of the whole Church* concerning this Article. **5.** ***Ab absurdis et impossibilibus***, that *many unbecoming and impossible matters must follow* if the Dead should not rise. **6.** From the *Use of Baptism*. **7.** From the *Suffering of the Christians*. **8.** From the *Order of Nature*: *"Thou Fool, that which thou sowest,"* etc.
+
+Thus is the Resurrection of the Dead also confirmed through the *Examples of all those* who — both in *Old and New Testament* — have been *awakened from the Dead*.
+
+In like fashion, it is also confirmed through the *Order of God's Righteousness*. For it is *fair that the Pious be rewarded, and the Evil be punished*. That happens however in this Life not entirely. Wherefore then the Dead must rise, that the *Pious in the coming World may be rewarded, and the Evil rightly punished*. So it is also impossible that the *foremost People and Martyrs*, who from the beginning have been in the Church of God, were created only for this Misery. Wherefore there must still be another Life, and thus a *Resurrection of the Dead*, wherein the same all shall be *fully rewarded for their Suffering*.
+
+**God's Judgment** is also *conformable* — therefore must the Body rise, which has been an Instrument of Godly Workings, so that it *may next to the Soul live eternally*.
+
+So has also **Nature manifoldly figured forth the Resurrection of the Dead**. As **1 Cor. 15:36**: the Apostle appeals hereto — *"Thou Fool, that which thou sowest,"* etc.
+
+— ❦ —
+
+## Question 2. What is then the *Resurrection*?
+
+**What is then the Resurrection?**
+
+**God's Work, wherein he — through his Almighty Power, and according to his Counsel — awakens all the Dead's Bodies, and again unites them with the Soul**, so that they with one another *eternally live*: those who have *believed, in eternal Joy*; those who have *not believed, in eternal Damnation*.
+
+— ❦ —
+
+## Question 3. How manifold is the Resurrection?
+
+**How manifold is the Resurrection?**
+
+**Twofold.** One, of *those who are singly awakened by the Prophets, Christ, and the Apostles*. The other, the *common Resurrection of all Dead*, which shall happen at the Last Day — **1 Cor. 15; 1 Thess. 4:16–17**.
+
+Also, one is a **Resurrection to eternal Death** — **John 5:29** — and one **to eternal Life** — Ibid. and **Dan. 12:2**.
+
+— ❦ —
+
+## Question 4. Who works then the *Resurrection of the Dead*?
+
+**Who works then the Resurrection of the Dead?**
+
+**God — Father, Son, and Holy Spirit — or the Son himself.** **John 5:21**: *"Just as the Father awakens the Dead and makes them living, so also the Son makes living whom he will."*
+
+**Rom. 8:11**: *"He who has awakened Christ from the Dead shall also make your mortal Bodies living."*
+
+**John 6:40**: *"This is the Will of him who has sent me — that whoever sees the Son, and believes on him, may have eternal Life, and I shall awaken him at the Last Day."*
+
+**1 Thess. 4:14**: *"God shall also — those who are fallen asleep — through Jesus lead with him."*
+
+— ❦ —
+
+## Question 5. Who has *merited* the Resurrection?
+
+**Who has merited the Resurrection?**
+
+**Jesus Christ** — **Rom. 4:25**: *"He is risen for the sake of our Righteousness."* **1 Cor. 15:20–22**.
+
+— ❦ —
+
+## Question 6. What shall then *rise*?
+
+**What shall then rise?**
+
+**The Body shall be awakened out of the Earth** — **Job 19:26**: *"And he shall hereafter awaken me out of the Earth."*
+
+— ❦ —
+
+## Question 7. Who shall then rise?
+
+**Who shall then rise?**
+
+**All who lie asleep under the Earth**, or **all the Dead** — **1 Cor. 15; Dan. 12:2**.
+
+— ❦ —
+
+## Question 8. What shall however become of those who are *still alive at Christ's Coming*?
+
+**What shall however become of those who are still alive at Christ's Coming?**
+
+**The same shall in a moment be transformed**, and shall be *caught up in the Clouds to meet the LORD*. **1 Cor. 15:51–52**: *"See, I say to you a Mystery: We shall not all fall asleep, but we shall all be transformed — and that suddenly, in a moment, at the Time of the last Trumpet. For the Trumpet shall sound, and the Dead shall rise incorruptible, and we shall be transformed,"* etc.
+
+— ❦ —
+
+## Question 9. Shall the *Awakened in the Resurrection* get *another Substance or another Flesh according to Being, than they have now*?
+
+**Shall the Awakened in the Resurrection get another Substance or another Flesh according to Being, than they have now?**
+
+**By no means.** **Even that Flesh shall rise, which has died** — **Job 19:26**: *"He shall hereafter awaken me out of the Earth, and I shall thereafter be surrounded with this my Skin, and shall in my Flesh see God."* **In sum**: even that Flesh shall rise which **Christ has taken on and redeemed**. Now he has taken on our Flesh (yet without Sin) — wherefore it shall also rise. Therefore the Creed also speaks: *"I believe a Resurrection of the Flesh."*
+
+Grievously err therefore those who *deny such* at this time.
+
+— ❦ —
+
+## Question 10. How shall the *Resurrection* come to pass?
+
+**How shall the Resurrection come to pass?**
+
+**Through the Almighty Power of God, who can make all he wills, in Heaven and on Earth.** **John 5:25**: Christ speaks: *"The Dead shall hear the Voice of the Son of God — and those who hear shall live,"* etc.
+
+— ❦ —
+
+## Question 11. Shall then *only Bodies rise* — and be *blessed*?
+
+**Shall then only Bodies rise — and be blessed?**
+
+**Only the Bodies shall rise**, for *they alone have died* — but they shall not alone be blessed, but **Body and Soul together, or the whole Man with Body and Soul** — as *also the whole Man with Body and Soul must appear before the Judgment-seat of Jesus Christ*. **2 Cor. 5:10**: *"We must all be made manifest before the Judgment-seat of Christ, that everyone may receive according as he has done — in the Body's Life — be it good or evil."*
+
+— ❦ —
+
+## Question 12. When shall the Resurrection happen?
+
+**When shall the Resurrection happen?**
+
+**At the Last Day** — **John 6:40**: *"And I shall awaken him at the Last Day."* Item, **Job 19:26**: *"And he shall awaken me at the Last Day out of the Earth."*
+
+— ❦ —
+
+## Question 13. What *Properties* shall the Believing get at their *Bodies through the Resurrection*?
+
+**What Properties shall the Believing get at their Bodies through the Resurrection?**
+
+**That teaches the Apostle Paul, 1 Cor. 15:42–46**, where he speaks: *"It is sown perishable, and shall rise imperishable. It is sown in Dishonour, and shall rise in Glory. It is sown in Weakness, and shall rise in Power. It is sown a natural Body, and shall rise a spiritual Body. If one has a natural Body, so also has one a spiritual Body,"* etc.
+
+**A perishable Body** however is and means a *mortal Body*. **An imperishable Body** means an *immortal Body*, that *cannot die* — as the *Bodies of the Blessed shall be in that World*.
+
+**To be sown in Dishonour** is: to be *conceived and born in Sins*, and to *lack the Honour which we should have before God* — **Rom. 3:23** — and thereto to have a *poor, needy, wretched, feeble Body*, full of *Sickness and Pains* — for the sake of Sins.
+
+**To have a Glorious Body** means to have such a Body wherein *no Sin, Uncleanness, or any Lack or Failing* is any more to be found — as *Enoch's, Moses', Elijah's Bodies* now are.
+
+**To be sown in Weakness** means to be *conceived and born in Weakness*, and to have a *weak and frail Life, from Beginning to End*, subject to *all manner of dangerous Changes*, from *Childhood to Old Age* — yea to the *Grave*, having to *sustain all manner of Dangers*, and *ever to be in fear that all may now break together*; and finally in *Dying to become the Worms' Food*.
+
+**To be sown in Power** means to receive a *strong, powerful Body, which is forever and ever healthy, which can eternally endure and live*. And in Sum, **such a Body wherein nothing at all shall be lacking of what belongs to Strength, Beauty, Nimbleness, and Blessedness**.
+
+**A natural Body** means one that *needs Eating, Drinking, Clothes, House, Court, and everything else that pertains to this temporal Life*. And even if all be at hand that pertains hereto, such a natural Body *decreases from day to day and loses its Powers*, till it *goes entirely away*.
+
+**A spiritual Body** means such a Body *that shall have spiritual Properties, and shall no more need the help of Creatures* — that is, wherein *all Powers shall be moved by the Holy Spirit*, and shall *burn and shine in Innocence, Righteousness, and Holiness*. As the *three Apostles on Mount Tabor* saw such Spiritual Bodies at **Christ, Moses, and Elias**, who *for Brightness could not rightly be beheld*. But this cannot in this Life *be sufficiently expressed*.
+
+— ❦ —
+
+## Question 14. Shall there also be a *Distinction of Gifts at the Blessed*?
+
+**Shall there also be a Distinction of Gifts at the Blessed?**
+
+**Yes truly.** For this teaches **Daniel 12:3**, where he says: *"The Teachers shall shine as the Brightness of Heaven, and those who bring many to Righteousness, as the Stars, for ever and ever."* And Paul, **1 Cor. 15:41–42**: *"One Brightness has the Moon, another Brightness have the Stars — for one Star surpasses the other in Brightness — so also the Resurrection of the Dead."*
+
+**Moses, Elijah, Isaiah, Jeremiah** shall have *greater Brightness* than I and thou — but shall yet all have *one Heaven and one eternal Life*.
+
+— ❦ —
+
+## Question 15. What shall be the *Distinction between the Bodies of the Believing and the Damned*?
+
+**What shall be the Distinction between the Bodies of the Believing and the Damned?**
+
+**Answer**: The **Resurrection of the Flesh shall be alike to the Blessed and the Damned** — for the Flesh of *both* shall be awakened. But the **eternal Glory** shall only *befall the Believing*; their *Bodies also shall at the same time eternally endure*. But the **Damned shall in Body and Soul lack the eternal Joy, Life, and Glory**.
+
+— ❦ —
+
+## Question 16. Shall the *little Children* also rise *in the size of the Adults*?
+
+**Shall the little Children also rise in the size of the Adults?**
+
+**One holds that also the Believing little Children shall rise in the size of the Body of Christ** — **Eph. 4:13** — and *become a perfect Man*, who shall be *in the measure of the perfect Age of Christ*. But the Apostle speaks there of the *Renewal of the inward Man*, which begins here, and there in that Life *shall first be perfect*.
+
+Wherefore it is best that we let such and the like Questions *rest* till the *joyful Resurrection*, when we shall *ourselves in the seeing find and understand it*.
+
+— ❦ —
+
+## Question 17. What are then the *Final Causes* of the Resurrection?
+
+**What are then the Final Causes of the Resurrection?**
+
+**The first is the Glorification of the Believing**, which is promised to them in Christ Jesus. **Phil. 3:21**: *"Who shall transfigure our nothing Body, that it may be like his glorified Body,"* etc.
+
+**The other**: the **Completion of all Divine Promises and Threatenings**. To the Believing is *promised eternal Life and Joy*; to the Unbelieving is *threatened eternal Damnation* — that shall to *them both then in Deed be performed*.
+
+— ❦ —
+
+## Question 18. What shall then *follow upon the Resurrection*?
+
+**What shall then follow upon the Resurrection?**
+
+**1.** Shall *all temporal, transient, and frail things at our Bodies cease* — **1 Cor. 15**.
+
+**2.** The Creatures shall be *delivered from their Bondage* — **Rom. 8:21**.
+
+**3.** The *Preaching-Office and Sacraments shall cease*. For we shall then *see God face to face* — **1 John 3:2**. And **God shall be all in all** — **1 Cor. 15:28**.
+
+**4.** Likewise shall the *Worldly Governments and the Household-Estate take their End*. **Dan. 2:44**: *"He shall grind all these Kingdoms into powder, and destroy them; but it shall eternally remain."* **1 Cor. 15:24**: *"When he shall abolish all Dominion, and all Authority, and Power."*
+
+**5.** All the *Benefits of Christ shall in that blessed Time be fully accomplished upon us* — **1 Cor. 15**. **Isa. 25:8**: *"He shall swallow up Death eternally, and the LORD LORD shall wipe away the Tears from all Faces."*
+
+**6.** The *Believing shall then be richly recompensed for all their Suffering, through the Glory that shall be revealed at them* — **Rom. 8:18** — which shall be of such greatness that it *cannot be expressed*.
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
