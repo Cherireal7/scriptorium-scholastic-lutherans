@@ -11057,6 +11057,230 @@ And finally, since God has for **Christ's sake wholly and entirely taken away th
 
 **Answer**: **Paul speaks there not at all of the Marriage-Estate**, but *in general of all Christians who are justified out of Grace through Faith in Christ, and renewed through the Holy Spirit* — and *wills that they shall serve God in Holiness and Righteousness, and not hang after the Flesh's Lusts*. And he calls it thus, **to be in the Flesh** — *not to live in the Marriage-Estate*, but *to lead a Fleshly Life, to obey the Lusts of the Flesh*. Wherefore it is *Sin and Shame that the Popes have interpreted such a Saying upon the Marriage-Estate*.
 
+### Objection. Yes, they say, we see hereby chiefly upon the *Priests*, who shall not live in the Marriage-Estate, that they may please God?
+
+**Answer**: They may look wheresoever they will, so it is certain that **Paul, Rom. 8, deals neither with the Marriage-Estate nor with the Priests' Marriage.** So the Holy Spirit not only *permits* the Priests Marriage, but *plainly says*: *"A Bishop shall be the Husband of one Wife"* — **1 Tim. 3:2**. And he declares that the *Command to abstain from the Marriage-Estate is a Devil's Doctrine* — **1 Tim. 4:1–3**.
+
+— ❦ —
+
+## Question 15. Should then *Church-Servants* with a good Conscience be able to have Married Wives?
+
+**Should then Church-Servants with a good Conscience be able to have Married Wives?**
+
+**The Pope holds No. But the contrary is true.** For **what is honourable with all, that can be forbidden to no Estate**. The Marriage-Estate is and shall be *honourable, and held so, with all* — **Heb. 13:4**. *Ergo*, so it can not be forbidden the Church-Servants.
+
+So Paul speaks — **1 Tim. 3:2**: *"A Bishop shall be the Husband of one Wife,"* etc. Wherefore should then the Church-Servants not with a good Conscience be able to live in the Marriage-Estate?
+
+So he writes also, **1 Cor. 7:2**: *"Every one, to avoid Whoredom, shall have his own Wife."* Now since this is a *common Command*, so it lets *no Exception, of the Church-Servants*.
+
+The **LORD Christ** also, **Matt. 19:11–12**, wills that *all shall use the Marriage-Estate who have not the special Gift of Chastity* — and takes *not the Church-Servants out*.
+
+The **Council of Nicaea**, though it at first went upon the *Marriage-forbidding with the Priests*, yet on the *reminder of Paphnutius* let the same fall, and *let the Church-Servants keep the Marriage-Estate*.
+
+Finally, it is *undeniable* that the **Priests in the Old Testament had Wives**. Likewise also in the **First Church some hundred years after another**, etc. — as such the *Church-History richly shows*. Wherefore should such then now *not be right*?
+
+— ❦ —
+
+# XXXVIII.
+
+# Of the *Antichrist*.
+
+## Question 1. What is the *Antichrist*?
+
+**What is the Antichrist?**
+
+**The Antichrist, or rather the Kingdom of the Antichrist, is a Church-and-Political mixed Rule**, whose Institutor is **Satan** and his Servants; which *directs all its ability thereto* that it — *under the Name and Appearance of Christ and his Church* — **destroys and perverts what Christ has taught and instituted**. It also *tears to itself*, under the *Appearance of Godliness*, **the Kingdoms of the World**; and *leads the Consciences from Christ upon Human Ordinances and Devil's Doctrine*.
+
+— ❦ —
+
+## Question 2. Whence comes then this *Antichristian Kingdom*?
+
+**Whence comes then this Antichristian Kingdom?**
+
+**It is an old Fable, with which the Papists trouble themselves, that the Antichrist shall be born of the Tribe of *Dan* at *Babylon*.** For this Antichristian Kingdom has already **begun in Paul's times, though secretly** — **2 Thess. 2:7**. But at last it *broke fully out*, when **Phocas** the Emperor-Murderer made the Pope **Boniface III** at Rome, about the *Year of Christ 607*, the **Universal or common Head of Christendom**. To this the following Popes have with utmost diligence and earnestness held themselves, and *from day to day strengthened and pushed forward such Kingdom through evil Practices, Deceit, and Murder*.
+
+**Thus is the right Institutor of this Kingdom Satan himself** — **2 Thess. 2:9**: whose *coming happens after the working of Satan*.
+
+The **Instruments** have been the **Popes themselves**, who have *let themselves be used thereto*, and still do. For though Rome originally had many fine Bishops, who also became Martyrs, yet it has had far more who — *partly out of the Devil's driving, partly out of their own Pride* — **stood after the Primacy in God's Church** — as such out of the ***Vitae Pontificum*** is sufficiently to be proven.
+
+So have also **some Emperors** not a little helped thereto — as **Phocas, Heinrich V**, and others more, etc. — as such the Histories witness, who *conceded too much to the Popes*.
+
+— ❦ —
+
+## Question 3. Whereby is it however *proved that it is from the Devil*?
+
+**Whereby is it however proved that it is from the Devil?**
+
+**First**, thereupon: **The Worldly Ruling has not been able to ordain this Kingdom**, since it has *no Power* thereto; for it does *not belong to the Roman Kingdom or Emperor* to *set the Church of God such a Head as is the Pope at Rome* — but *to God alone*.
+
+**Second**, so have also the **Church-Servants, Bishops, or Councils**, themselves *not been able to ordain* or set up *the Pope at Rome for Christ's Vicar* — for it belongs *to God alone to give the Church a Head*, and neither to this nor that.
+
+**Third**, so the Pope himself **does not confess that he has his Primacy from Men**, etc.
+
+Since then the Papacy has neither *from the Worldly Ruling, nor from the Bishops or Councils* its Origin — inasmuch as they had *no Power to ordain it* — it *cannot fail: it must be from the Devil*.
+
+That it however is *not from God*, appears thereupon — that **the Heavenly Father has set *Christ* as Head of the Church** — **Eph. 1:22, 5:23** — and *not the Pope at Rome*. So has Christ himself of the Roman Pope, or of the Papacy and Papal Primacy, **in no letter or word in his Sermons thought** — the Apostles also not.
+
+There has also **no Pope at Rome, until Boniface III**, ventured to *bind to himself the presumptuous Title* that he was a *Bishop of the whole Christendom on the Earth*. **Gregory the Great**, his predecessor, *cast this Title from himself, and cried it up as a Sign of the Antichrist*. From this Boniface on, the following Popes have with *cunning and force* diligently *strengthened themselves in this Highness*; and *countless much Blood has been shed thereover*, and still to this day, that they *may abide thereby*.
+
+**Thus it also appears that the Papacy at Rome is from the Devil**, since the Pope himself, in the ***Decreta, dist. 40***, writes: *"Though he led many thousand Souls with him into Hell, yet may no one say to him: What doest thou?"* — and what more of the like there is. Which is a public indication that **his doing is not from God, but from the wretched Satan**.
+
+*Finally*, that **Paul, 2 Thess. 2:9**, clearly writes that such Kingdom *comes with the working of Satan*, etc.
+
+— ❦ —
+
+## Question 4. How has however the Papacy *gradually pushed itself forward and strengthened*?
+
+**How has however the Papacy gradually pushed itself forward and strengthened?**
+
+**First**, the Popes have to their advantage used the many *Heresies* which arose in the *Oriental Churches*; where commonly those Churches, in arising Strifes, sought Counsel with the Roman Bishops — out of which they afterward *made a Right*, and *drew to themselves all Church-judgment*.
+
+**2.** The Bishops' Strifes also have done much thereto. Inasmuch as *mostly the innocent, who were deposed or excommunicated on account of pure Doctrine, gave themselves in to the Roman Bishops and sought Assistance with them*.
+
+**3.** Hereto is come that the **Emperors**, as **Phocas** and others, *strongly strengthened the Popes in their undertakings*; some *have subordinated to them Land and People*.
+
+**4.** The *Regard of the City of Rome* has also not little served this matter — which at that time was wont to be *called the Head of the World*. Item, the *horrible confusion of the Roman Empire caused by the Barbarian Peoples*, who at that time *overran Rome and Italy*. Item, that **Constantine moved the Seat of the Roman Empire to Constantinople**. Item, that *some Popes had merit around the City of Rome* — as **Leo I**, who *stilled Attila*; **Pelagius I**, who *dismissed Totila with good, that he destroyed not Rome*.
+
+**5.** They have *shamefully misused the Saying* **Matt. 16:18**: *"Thou art Peter,"* etc. — whereby they *frightened Emperors, Kings, and everyone*, and *chased them into Fear*. Now that same does *just as much for the confirmation of the Pope's Primacy* as the Saying **Gen. 1:16**: *"God made two great Lights in the Heaven."*
+
+**They see also not** — that if they *would appropriate the said Saying*, they *would have to lay aside the threefold Crown, and the whole Papal Pomp*, and *must preach, teach, reach out the Sacraments, as Peter and the other Apostles did*. See hereon **Bernard, *Epistolam 227 ad Eugenium Papam***.
+
+**In sum, this Saying does not concern them.** For **first**, Christ himself *rebuked most highly the Apostles who wrangled for the Primacy* — **Luke 22:24–26**. How should it then be, that he *confirmed to St. Peter in this Saying the Primacy*?
+
+**2.** It is uncertain whether **Peter** ever came to *Rome*. They set that he was at Rome in the *Year of Christ 44*; but now it is certain that he was at Jerusalem still in the *Year of Christ 57*, when the *Apostles' Council* was held, whereof **Acts 15** stands. So he was also not there when *Paul was brought prisoner*, about the *Year of Christ 58 and 60*. For in **Acts** stands nothing thereof, also in Paul's Epistles nothing — whereas there is no doubt: if he had at that time been Pope at Rome, he would have been thought of; and he would have well *visited Paul in his Bonds* — whereof however one finds not a *letter in the Book of Acts*.
+
+Since they might now object *that he came thither afterward* — yet he would *not have been there long*, and thus his Papacy at Rome would be *entirely uncertain*.
+
+**3.** Though he had been there — yet it does not matter to the case. For it *does not follow*: *"Peter was at Rome. Ergo, so the Popes at Rome are the Highest Bishops over the whole Christendom, and Vicars of Christ."*
+
+**4.** Even if to Peter *something special was promised* (which is not so), he does *not therefore bear it over upon the Popes at Rome*.
+
+**5.** If **Peter** had been *highest Pope at Rome and Head of Christendom*, the Apostles in their writings would *without doubt have indicated it*. But that they have done with *no letter or word*.
+
+**6.** **Peter** has *not called himself a Bishop* in his Epistles, but only a **Fellow-Elder** — **1 Pet. 5:1**. Much less has he *arrogated to himself the Primacy over all Teachers and over the whole Christendom, and the Vicariate of Christ*.
+
+**7.** It is certain that ***Petra*** or *Rock*, in the Saying **Matt. 16:18**, means **not the Pope at Rome, but Christ himself**, or the **Confession which Peter made of Christ** — inasmuch as the Church of God *can or may be built upon no sinful and mortal Man*. **Augustine, *Tractatu ultimo in Ioannem***, speaks: ***Supra hanc Petram, quam confessus es, aedificabo Ecclesiam meam*** — *"Upon the Rock which thou hast confessed, will I build my Church."* And **Hilary, *libro 6 De Trinitate***: ***Petro revelavit Pater, ut diceret: Tu es Filius Dei vivi: Supra hanc igitur confessionis Petram Ecclesiae aedificatio est. Haec fides Ecclesiae fundamentum est.*** — *"The Heavenly Father has revealed it to Peter, that he might say: Thou art the Son of the Living God. Upon this Rock of the Confession is the building of the Church. This Faith is the Foundation of the Church."* And **Chrysostom**: ***Super hanc Petram: non super Petrum: Non enim super hominem, sed super fidem Petri, aedificavit Ecclesiam suam. Quae autem erat fides? Tu es Christus filius Dei vivi.*** — *"Upon this Rock, and not upon Peter — for Christ has built his Church not upon a Man, but upon the Faith or the Confession of Peter concerning Christ. Which however was Peter's Faith? These Words: Thou art the Son of the Living God."*
+
+**8.** So the **Keys** are also given *not to Peter alone*, but *at the same time to all the Apostles of the whole Christendom* — as **Matt. 18:18** is to be seen, where Christ *repeats such Promise*, and **John 20:23**.
+
+**9.** So also this is to be marked, that the ***Glossatores*** of the Papal Rights confess that Peter's, or the Pope's, Primacy *cannot be proven from this Saying*. For they distinguish between the *Promise and the Institution*. Wherefore they give out that **John 21:15–17** — in the Saying, *"Feed my Sheep"* — the Primacy should first be confirmed. For there Christ gave *with the deed to Peter the Jurisdiction, Ruling, and full Power* — ***in capitulo Significasti***. Item, ***cap. Considerandum***. But the one is *as true as the other*.
+
+— ❦ —
+
+## Question 5. What has moved the Popes to *seek such Primacy*?
+
+**What has moved the Popes to seek such Primacy?**
+
+**Without doubt Satan, and the miserable Ambition, Lust and Love to rule, and to possess such a Highness at which they might freely and without all shame do and leave what they willed** — ***dist. 40, cap. Si Papa***.
+
+### Objection. Yes, they say, for order's sake it had to be so?
+
+**Answer**: **No order avails in this case, unless it be grounded in God's Word.** But this may from the Papacy in eternity *not be brought forth*.
+
+### Objection. Item, the Church must have a *visible Head*?
+
+**The Scripture however witnesses of no other Head of the Church than of Christ Jesus alone.** **Eph. 1:22**: *"He has set him for a Head over the Congregation, in Christ."* **Col. 1:18**: *"He is the Head of the Body, namely of the Congregation,"* etc.
+
+### Objection. Item, the Papacy has held the Church-enemies together?
+
+**Yes, far rather destroyed and ruined.** *His own Church* the Pope has well held together, but *Christ's Church* by no means. For **the utmost Persecutor** — as *Experience shows more than is good* — has witnessed, and still witnesses, thereto.
+
+— ❦ —
+
+## Question 6. Whereof does then the *Papacy consist*?
+
+**Whereof does then the Papacy consist?**
+
+**First**, it is **patched together out of Heathen and Jewish Ceremonies**. As at the *Feast of Candlemas, Carnival*, and other more — which are taken from the Heathen.
+
+**2.** Out of **shameful Mixture of the Spiritual and Worldly Rule** — for the Pope *bears both Swords, against Christ's teaching* — **Luke 22:25–26**: *"The Worldly Kings rule, and the Mighty are called gracious Lords; ye however not so."*
+
+**3.** Out of **shameful perversion of the chief Articles of the Christian Doctrine** — of *Calling-upon, of the Mediator Christ and his Office, of Law and Gospel, of Repentance, of Indulgences, of Human Ordinances, of the Supper, of the Prohibition of Priests' Marriage, of the Doubt of God's Grace*.
+
+**4.** Out of **wittingly invented Fables** — of the ***donatione Constantini*** — namely, that the *Emperor Constantine the Great* is to have *given to the Pope at Rome the Imperial Crown, and all Imperial Glory at Rome and in the Welsh lands, and all that is West of the Emperor* — and other Privileges and Immunities of which they *arrogate themselves and falsely boast*.
+
+**5.** Out of **Falsification of Councils and Church-Histories** — as such is to be seen from the **Sixth Council of Carthage** concerning the Pope's Primacy.
+
+**6.** Out of **established Cardinals, Monks, Priests, and the like**, which are Servants of this Kingdom.
+
+— ❦ —
+
+## Question 7. What are then the Papacy's *chief Properties*?
+
+**What are then the Papacy's chief Properties?**
+
+**1.** To *pervert Christ's Word and Doctrine*.
+
+**2.** To *turn away the Sacraments instituted by Christ*, and *out of the Holy Supper make an Idolatrous Sacrifice-Mass*.
+
+**3.** *In place of Christ, to teach to call upon the Saints and Idol-images*, that they be Mediators, etc.
+
+**4.** *To set up Purgatory*, or *press it now upon the whole Christendom by force*.
+
+**5.** To *set up Human Ordinances* and *set and hold the same equal to the Holy Scripture*.
+
+**6.** To *forbid the Marriage-Estate to the Priests* — which is *Devil's Doctrine* — **1 Tim. 4:3**.
+
+**7.** To *forbid certain Foods* — **1 Tim. 4:3**.
+
+**8.** To *do deceitful Signs and Wonders* — **2 Thess. 2:9**.
+
+**9.** To *turn the Spiritual Kingdom of Christ into a Worldly Ruling*.
+
+**10.** To *persecute, condemn, and kill those who hold to God's Word*.
+
+— ❦ —
+
+## Question 8. What is the *End* of the Papacy?
+
+**What is the End of the Papacy?**
+
+**Answer**: **In the outcome, to lead many souls into the Abyss of Hell with itself** — ***Dist. 40, cap. Si Papa***.
+
+— ❦ —
+
+## Question 9. Is then the Pope at Rome the *Head of this Antichristian Kingdom*?
+
+**Is then the Pope at Rome the Head of this Antichristian Kingdom?**
+
+**That he himself confesses.** For he *takes upon himself all those Pieces of which hitherto has been said*.
+
+**For the second**, though he might well *deny it*, he can be *convicted thereof*.
+
+For **first**, he teaches *openly against Christ* — **Luke 22:25–26** — that *he has Worldly Ruling*, also *to depose Emperors, and to set them up again*.
+
+**2.** What is still more — he *perverts almost all the Articles of the Doctrine which Christ and the Apostles taught*, and *teaches the contrary*. Wherefore he is then also rightly called the **Antichrist** — as for Example: he *sets his Human Ordinances equal to the Holy Scripture in the Tridentine Council*.
+
+He lets it happen that his own *compare the Holy Scripture to a *waxen Nose* which one may turn and interpret as one will*.
+
+**In God's and Christ's place, he teaches to call upon the deceased Saints** — as perhaps the Heathen called upon their Idols. For **in place of Mars**, he teaches to call upon **Georgius** as a *War-Saint*. In place of **Neptune**, **St. Nicholas and Christopher**, who shall *help upon the Sea*. In place of **Lucina**, **St. Margaret**, who shall *help bearing Wives*. In place of **Minerva**, **Gregory and Catherine**, who shall *help the Learned*.
+
+Thus the Papacy has the **Fourteen Emergency-Helpers**: **St. Valentine** shall *help against the falling Sickness*. **Otilia**, against the *bad Eyes*. **Apollonia**, against the *bad Teeth*. **Sebastian and Roch**, against the *Pestilence*. **Urban** shall *protect the Wine*. **St. Gall** shall be the *Patron of the Geese and Hens*. **St. Wendel** of the *Sheep*. **Eulogius** of the *Horses*. **Pelagius** of the *Oxen*. The **Patron of the Theologians** shall be **Augustine**. Of the **Jurists, Ivo**. The **Patron of Shoemakers, Crispin**. Of the **Hunters, Eustachius**. Of the **Carpenters, Joseph**. Of the **Unchaste Women, Afra and Magdalene**.
+
+**He casts himself up as Christ's Vicar or Deputy on Earth, and as the visible Head of the Church** — which is *openly against Scripture*.
+
+**Yea, he himself sets himself in God's place**, lets himself be *cried up as an earthly God*, who can *make all that God makes*. He *is all*, and is *over all*, and *can do all*. He has the *highest Power*, so that *God ratifies all he does and ordains*. To him is *all Power in Heaven and on Earth given* — so that he can *command in Heaven, on Earth, and in Hell*. He can *dispense against the Epistles of Paul*, or *make ordinances*; and is *greater than Paul*. God has cast all under the Pope's Feet — therefore *may he also do all*. And what such more Blasphemous Pieces there are, which his *fox-tails* give out and write of him, and which he *lets himself well please*.
+
+He teaches, and lets be taught, that the **Monk and Nun Estate, or Vows, are a *new Baptism***, and that through the same Vows *Sin is forgiven no less than in Baptism itself*.
+
+**14.** He teaches and confirms the *Works of Supererogation*, and that the *Spiritual can sell to others their good Works for money unto Salvation*.
+
+Item, that **Authorities and Married People are in a Fleshly Estate**, and *persuades them* that they *shall betake themselves into the Cloisters*, to *atone therein for their Sins* — or shall let themselves *after their Death be buried in Monk's Cowls*, that they may become *partakers of the Monks' Merit*, and their Souls the sooner delivered out of Purgatory.
+
+How horribly he *perverts the Article of the Doctrine of Christian Repentance*, the Christian Reader finds above, in the Article *Of Repentance*, where it is true, that the **Papist Repentance and Confession has been a horrible Rack-mastery and Torture-bench of the troubled Consciences**, and with the Papists still is today.
+
+How he *falsifies the Article of the Justification of the poor Sinner before God*, is also above, where the said Article is treated, in some measure set forth.
+
+He teaches *horrible Untruths, of Indulgence and Indulgence-letters*, and *sells the same for Money*. He teaches and confirms the *Idolatrous Pilgrimages to the Saints* — of which neither Christ nor the Apostles have spoken a single little word. Thus he teaches of the **Holy Water**, and that through the same the *daily Sins are washed away* when one *sprinkles oneself therewith* — which alone belongs to *Christ's Blood*.
+
+He teaches that there is a **Purgatory**, and that the *souls that come therein are delivered through the Sacrifice-Masses* — which is a *shameful Untruth and Fable*.
+
+He teaches the **consecrating of Oil and the Chrism, the Blessing of Palms, of Fire, of Flesh, of Candles, of the ***Agnus Dei***, and what the like** — and gives out that thereby the *Sins are washed away and forgiven*, God's *Favour and Grace obtained*. He *robs the Laity of the Cup, against Christ's Institution and Ordinance*.
+
+He makes out of the Supper a **Heathenish Idolatrous Sacrifice-Mass** for the Living and the Dead — whereas Christ instituted his Supper *alone for the Living*. For he speaks: *"Eat, Drink,"* — which the *Dead cannot*.
+
+He teaches to *enclose the consecrated Host in the Sacrament-cabinet, to carry it about, and to worship it*; has also *instituted a special Feast, ***Corporis Christi***, of the Holy Body*, whereof *neither Christ nor the Apostles knew anything* — yea, which is *entirely against Christ's Ordinance*. He *forbids the Priests Marriage, and forbids certain Foods* — which **Paul, 1 Tim. 4:1–3**, openly names **Devil's Doctrine**. And what of the matter far more could with Truth be drawn from his and his own's Books and Writings.
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
