@@ -8887,7 +8887,649 @@ But the *Preaching-Office* punishes also the **inward Sin in the Heart** — as 
 
 ## Question 1. Has the Church such Power?
 
-*[Chapter XXX Of the Power of the Keys continues. Translation continues in Rebuild-Tranche 41.]*
+**Has the Church such Power?**
+
+**Yes indeed.** For **Matt. 18:18** stands clear: *"Whatsoever ye shall bind on Earth shall also be bound in Heaven; and whatsoever ye shall loose on Earth shall also be loosed in Heaven."*
+
+**John 20:22–23**: *"Take ye the Holy Ghost. Whose Sins ye remit, they are remitted unto them; and whose Sins ye retain, they are retained."*
+
+— ❦ —
+
+## Question 2. How manifold are the Church-Keys?
+
+**How manifold are the Church-Keys?**
+
+**Twofold: the Loosing-Key, and the Binding-Key** — **Matt. 16:19; John 20:23**.
+
+— ❦ —
+
+## Question 3. What is then the Loosing-Key?
+
+**What is then the Loosing-Key?**
+
+**It is a Spiritual Power, instituted by Christ**, through which to all *penitent Sinners* the *gracious Forgiveness of Sins*, for Christ's sake, is announced.
+
+— ❦ —
+
+## Question 4. Is this Key also manifold?
+
+**Is this Key also manifold?**
+
+**Only one.** For there is *no more than one Loosing-Key* given by Christ, though many Church-Servants make use of the same. For whether it looses **Peter or Titus**, it is *all one*. The regard of the Person does *not alter the Power*.
+
+The ***Absolutio*** itself can be *divided*: into a **private Absolution**, which is practised when the *Hearers seek comfort from the Pastors*; and into the **public Absolution**, which takes place when *public sinners*, who have offended the whole Congregation, are again received.
+
+— ❦ —
+
+## Question 5. From whom is the Key instituted?
+
+**From whom is the Key instituted?**
+
+**From Jesus Christ himself**, as stands at **Matt. 16:19** and **John 20:22–23**.
+
+— ❦ —
+
+## Question 6. Who are then the Servants thereto?
+
+**Who are then the Servants thereto?**
+
+**The Church-Teachers**, to whom the *Church* has committed the same.
+
+— ❦ —
+
+## Question 7. Who then shall be loosed therewith?
+
+**Who then shall be loosed therewith?**
+
+**The penitent Sinners**, who have *contrite and broken hearts*, and *desire Comfort* — **Matt. 11:28**: *"Come unto me, all ye that labour and are heavy-laden,"* etc.
+
+For the others, who **continue in Sins**, shall *not be loosed*. Where also the Church-Servants **absolve the Impenitent**, they *misuse the Loosing-Key shamefully*, and it reaches the Impenitent to no good — but rather to *greater burden and Damnation*.
+
+— ❦ —
+
+## Question 8. What Properties has the Power of the Keys, or what kind of Power is it?
+
+**What Properties has the Power of the Keys, or what kind of Power is it?**
+
+**First**, it is a **Spiritual and no Worldly Power**, which does *not extend over the Worldly Governments* to *set them down or up*, but *only upon the Forgiveness of Sins*.
+
+**Second**, this Power is exercised **alone through the Gospel**, and in *no other way or manner*.
+
+**Third**, it grounds itself upon the **Name and Merit of Jesus Christ**, for *alone for his sake* are the Sins forgiven.
+
+**Fourth**, **God himself** in this matter is *efficacious through the Preaching-Office*, and *forgives Sins* — **2 Cor. 5:19–20**.
+
+— ❦ —
+
+## Question 9. From what Sins shall one then unbind the Sinners?
+
+**From what Sins shall one then unbind the Sinners?**
+
+**From all Sins.** For **Christ, in the Institution of the Absolution**, has *not thought of any ***casus reservatos***, as the Pope fables — nor of *any Sins reserved* which *the Pope alone or his Bishops could forgive*. As he *calls all Men to Repentance*, so he *offers to all the gracious Forgiveness of all Sins*: **Luke 24:47** — *"to preach in his Name Repentance and Forgiveness of Sins among all Nations,"* etc.
+
+— ❦ —
+
+## Question 10. May then the Church-Servants forgive Sin to whomever they will?
+
+**May then the Church-Servants forgive Sin to whomever they will?**
+
+**By no means.** But *without distinction* they are bound to *deal out the Absolution* to all who **do Repentance and turn to God**, and *from the heart and with earnest* desire Grace and Comfort. For Christ has *not placed it in their power to do therewith as they will*, but wills that it should *happen* as *he himself has prescribed*.
+
+— ❦ —
+
+## Question 11. Is then the Absolution or Loosing bound to a certain Time of the Year?
+
+**Is then the Absolution or Loosing bound to a certain Time of the Year?**
+
+**The Papists have indeed given out such**, and have appointed thereto especially the **Fasting-time**, and above all the **Passion Week**. But **God's Word knows nothing of this**.
+
+— ❦ —
+
+## Question 12. Is then the Absolution grounded upon Man's Contrition, Confession, and Satisfaction, as the Papists give out?
+
+**Is then the Absolution grounded upon Man's Contrition, Confession, and Satisfaction, as the Papists give out?**
+
+**No.** It is indeed needful that he who *desires the Absolution* should have *Contrition over his Sin*, should *ask the Church-Servant for Comfort*, and should have a *good purpose to better his Life henceforward*. But the **Power of the Absolution is not grounded thereupon**, but (as said) **upon Christ's Name or Merit**. For it offers the Forgiveness of Sins, *not for the sake of our Contrition, Confession, or Works*, but **alone for the Merit and Obedience of Jesus Christ's sake**.
+
+The troubled Consciences shall also *by no means* be pointed *to their Contrition or good purposes*, but **alone to the Blood and Death of Jesus Christ**. For otherwise the *Loosing-Key would become a Wavering-Key* — as *has happened in the Papacy*, where one has pointed the People to their Contrition, and where one also *could not certainly comfort them of the Forgiveness of Sins*. For no one might know when he had *contrite, confessed, and made satisfaction enough*, etc.
+
+— ❦ —
+
+## Question 13. Why is then the Loosing-Key chiefly instituted?
+
+**Why is then the Loosing-Key chiefly instituted?**
+
+**For the sake of the penitent and troubled Consciences**, that the same might thereby *be comforted*. For it is a *great Comfort* to know that God, *through the Word of the Gospel*, so *deals with us* — which Word is *efficacious* and *forgives Sins*.
+
+The LORD Christ also, with the *Loosing-Key*, willed to **withstand the future Novatians**, who taught that **after Baptism no mortal sin might be forgiven on Earth**. But Christ gives *not to the Heathen and the unbaptized* the Loosing-Key, but to his **Disciples and baptized Christians** who *also sin after receiving Baptism*.
+
+— ❦ —
+
+## Question 14. Yet God alone forgives Sin — how can it then be that the Church-Servants shall forgive Sins?
+
+**Yet God alone forgives Sin — how can it then be that the Church-Servants shall forgive Sins?**
+
+**God forgives them alone, as ***causa efficiens*** (Efficient Cause), but the Church-Servants he uses thereto as ***organa***, Instruments, or ***causae instrumentales*** (Instrumental Causes)**. For so it has *well-pleased him*, through such Means to *deal with us Men*, and to make us *partakers of his Grace and Heavenly Treasures* — **Matt. 9:8**: *"who has given such Power unto Men on Earth."*
+
+— ❦ —
+
+## Question 15. What if the Church-Servants absolve the Impenitent?
+
+**What if the Church-Servants absolve the Impenitent?**
+
+**That does not hold.** For **Christ is not come to make the Sinners sin, but to call them to Repentance** — **Matt. 9:12–13**. And **to the strong and the stiff-necked the Physician is not near, but to the sick**.
+
+— ❦ —
+
+## Question 16. What is it, that the Pope has reserved to himself certain ***Casus*** or Cases?
+
+**What is it, that the Pope has reserved to himself certain Casus or Cases?**
+
+**Answer**: In the *Old Church* it was customary that those who were *charged with public gross Sins*, on whose account they were also wont to be *excommunicated*, should be *reported to the Bishops*, that with their *Counsel* a certain manner might be *prescribed to the same* as to *how they should do Repentance*.
+
+Thence in time the *Custom crept in* that certain ***casus*** or *grave Cases* were **reserved**, and *directed to the Bishops*, and at last also *to the Pope at Rome*. But the **Holy Scripture knows nothing at all of such ***casus reservatis***.** Christ also has commanded *nothing thereof* — **John 20:23**. So also the **Tridentine Council** itself confesses that ***in articulo mortis***, in dying, *every Priest can absolve in such Cases*.
+
+— ❦ —
+
+## Question 17. Is then the Absolution an ***actus Iudicialis***, a judicial Process, in which the Priest recognises the Sin, and lays a Satisfaction on the Confessant according to the state of the same?
+
+**Is then the Absolution an actus Iudicialis, in which the Priest recognises the Sin, and lays a Satisfaction on the Confessant according to the state of the same?**
+
+**The Papists give out such indeed. But it is their own Fable.** For Christ says *not*: *"Whose Sin ye have recognised, and according as they are great or small have laid a Satisfaction upon,"* etc. — *"to those shall the Sins be forgiven."* But he says: *"Whose Sins ye remit,"* etc. It is therefore a **shameful perversion of the Absolution** which the Papists here, out of their own brain, *without — yea, against Christ's Word and Institution* — invent, and *bring in into God's Church*.
+
+— ❦ —
+
+## Question 18. Does then belong to the Absolution, that it be efficacious, the Priest's ***Intent***?
+
+**Does then belong to the Absolution, that it be efficacious, the Priest's Intent?**
+
+**The Pope's and his own Fable is such.** But **the Consciences shall not turn to this at all**, but when they are *absolved by the Church-Servant*, they shall *straightway look upon Christ's Promise*, be the Church-Servant *minded as he will* — inasmuch as **Christ, in the Institution of the Absolution, has said nothing at all of the Church-Servant's ***Intentione***.** A Christian could also *never become certain* of the Forgiveness of his Sins, if the *Power of the Absolution* were to be grounded upon the *Priest's Intention*.
+
+— ❦ —
+
+## Question 19. What is then to be held of the public Absolution, so commonly announced in general after the Sermon?
+
+**What is then to be held of the public Absolution, so commonly announced in general after the Sermon?**
+
+**Answer**: **The same as of the public and common Preaching of the Gospel.** For the Gospel not only in particular offers *God's Grace and Forgiveness of Sins to single Persons*, but also *in common to all* who **do Repentance and believe on the Name of Jesus Christ** — **Luke 24:47**.
+
+— ❦ —
+
+## Question 20. But how can the Heap be absolved, in which are many whom one should rather bind?
+
+**But how can the Heap be absolved, in which are many whom one should rather bind?**
+
+**Answer**: The common Absolution *goes and stretches itself upon all penitent Sinners* who are found under the Heap — **Matt. 11:28**. To the others, who have *no penitent hearts, and desire no Comfort with earnest*, the *Absolution avails not*. The Impenitent also are far more **bound** than absolved.
+
+— ❦ —
+
+## Question 21. What is then the Binding-Key?
+
+**What is then the Binding-Key?**
+
+**It is a Spiritual Power, instituted by Christ**, through which to the **stiff-necked and impenitent Sinners** the Sin is *retained*, and **God's Wrath, Punishment, and eternal Damnation** is *threatened* — until so long as they *afterward do Repentance*, and from the heart *turn to God*.
+
+— ❦ —
+
+## Question 22. Is then the Binding-Key also only one?
+
+**Is then the Binding-Key also only one?**
+
+**Yes**, there is *only one Binding-Key instituted by Christ*.
+
+— ❦ —
+
+## Question 23. Who has instituted it?
+
+**Who has instituted it?**
+
+**Jesus Christ** — **Matt. 18:18; John 20:23**. Therefore one shall not hold it for a *human trifle*, since it is *before eyes* that Christ himself has given it to the Church — not that she should *let it lie and rust*, but should *use it earnestly* against the Impenitent.
+
+— ❦ —
+
+## Question 24. Who shall then use it?
+
+**Who shall then use it?**
+
+**The Church-Servants**, who are *orderly called thereto by the Church*, and to whom the **Preaching-Office** is *committed*.
+
+— ❦ —
+
+## Question 25. Against whom shall it then be used?
+
+**Against whom shall it then be used?**
+
+**Against the stiff-necked**, who *do not Repentance*, but upon *all faithful, manifold Admonition and Punishment* nevertheless *continue in their Sins*. Christ has *not absolved* the stiff-necked *Pharisees and Sadducees*, but far more **bound** them. The Apostles also not. For the *Gospel comforts alone the Penitent*, and *not the stiff-necked and impenitent Sinners*.
+
+— ❦ —
+
+## Question 26. What Properties has it?
+
+**What Properties has it?**
+
+**First**, that it goes *only over the Sin* whereby God is *angered*, and *not over outward worldly matters*. For *of the retaining of Sins* speaks Christ — and *not of the deposing of Emperors or Kings*, as the Pope wills to use the same.
+
+**Second**, it is *led alone through the Word*, and effected through *no outward Power* — as the Pope has deposed certain Emperors with force.
+
+**Third**, **God himself is efficacious thereby**, and *binds the Impenitent*, or *forgives them not their Sins*, so long as they *do not turn* and *humble themselves before his Majesty*.
+
+— ❦ —
+
+## Question 27. Why is it then chiefly instituted?
+
+**Why is it then chiefly instituted?**
+
+**For the Terror of all godless, stiff-necked, and impenitent Sinners.** For **God does not jest** when he *binds such a Sinner in Heaven*. Therefore shall everyone *fear before God's Wrath*, and *in good time do Repentance*, that he **perish not on the way** — **Psalm 2:12**.
+
+— ❦ —
+
+## Question 28. Do they also do right, who leave to the Preachers *alone the Loosing-Key*, but *take the Binding-Key* away, etc., and will that one should *without distinction* absolve everybody?
+
+**Do they also do right, who leave to the Preachers alone the Loosing-Key, but take the Binding-Key away, and will that one should without distinction absolve everybody?**
+
+**Truly they do wrong therein.** For Christ has *instituted the Binding-Key as well as the Loosing-Key*. Wills that it be *just as much used* as the other, and has *had it abolished by no creature*.
+
+### But what if the Church-Servants themselves *throw it away*, that they may *not gain disfavour with theirs*?
+
+**They shall have to give heavy Reckoning for this before God** — that they have *set aside for Christ his Ordinance* for the sake of their *belly or good comfort*.
+
+— ❦ —
+
+## Question 29. What if a Preacher out of ***private Affects*** refused Absolution to someone, or wanted to bind him whom he ought rightly to loose?
+
+**What if a Preacher out of private Affects refused Absolution to someone, or wanted to bind him whom he ought rightly to loose?**
+
+**That is not right.** For here one must heed *not one's own affects*, but **alone Christ's Ordinance**. Whoever also *lets private Affects come in* in this so weighty matter, *misuses the Preaching-Office and the Binding-Key*, and *sins heavily*.
+
+— ❦ —
+
+## Question 30. Is then the Pope's Exposition right, that the little word (**All**) is to be understood *not only of Sin*, but also of *the Deposition of Emperors and Kings*?
+
+**Is then the Pope's Exposition right, that the little word (All) is to be understood not only of Sin, but also of the Deposition of Emperors and Kings?**
+
+**By no means.** For *Christ speaks of Sin*, and *not of the Deposition of Emperors and Kings* or of *their Governments* — as *everyone understands*, and *needs no proof*.
+
+— ❦ —
+
+## Question 31. What is then the public **Church-Ban** (Excommunication)?
+
+**What is then the public Church-Ban?**
+
+**It is a Separation or Cutting-off of a public Sinner**, who has been *sufficiently and often admonished*, but nevertheless *continues in his Sins* — whereby it is *declared before the whole Church* that he is *no more a member of Christ*, nor shall be *admitted to the Use of the Sacraments*, etc.
+
+— ❦ —
+
+## Question 32. Who has instituted this?
+
+**Who has instituted this?**
+
+**Jesus Christ** — **Matt. 18:18** and **John 20:23**; the sayings are above brought in.
+
+— ❦ —
+
+## Question 33. Who shall then exercise such public Separation?
+
+**Who shall then exercise such public Separation?**
+
+**When it is reported to the whole Church, or to the Elders, or to the Church-Consistory**, all *Warnings orderly gone before*, and *nothing wills to help*, **then the Consistory itself may do it**, or *command the Pastors to carry it out*. So **Paul bound the incestuous man**, with the *Consent of the Church at Corinth* — **1 Cor. 5**. And this Christ also indicates — **Matt. 18:15–17** — where he speaks of the *various Admonitions* which shall be *undertaken with a Sinner* and must *go before* one *tells it to the Church*, and *counts him for a Heathen and Publican*.
+
+— ❦ —
+
+## Question 34. Upon whom shall such Separation be used?
+
+**Upon whom shall such Separation be used?**
+
+**Upon those who sin publicly**, and upon *foregoing Admonition* will *not let themselves be pointed at all*. They are **Heretics**, **false Teachers**, or **those who otherwise live disorderly** and offend the whole Congregation — **1 Cor. 5:11**: *"Now I have written unto you, ye should have nothing to do with them — namely, if any that is called a brother is a Fornicator, or a Covetous, or an Idolater, or a Reviler, or a Drunkard, or a Robber — with such a one ye shall also not eat."*
+
+— ❦ —
+
+## Question 35. Is then this Binding also efficacious?
+
+**Is then this Binding also efficacious?**
+
+**That appears sufficiently from the fifth Chapter of the Second Epistle to the Corinthians** — where Paul and those at Corinth had put *the incestuous man into the Ban*, or separated him, so that the same was *most highly grieved in Conscience thereover*, and Paul therefore commands: *"that one should forgive him, and comfort him — that he sink not into overmuch sorrow,"* etc. — **2 Cor. 2:6–8**.
+
+— ❦ —
+
+## Question 36. Why should it be done?
+
+**Why should it be done?**
+
+**In order that such stiff-necked Sinners may be put to shame, and do Repentance** — that they may come *out of the Devil's Snares* — **2 Tim. 2:26** — and *for warning to others* — **1 Tim. 5:20**.
+
+— ❦ —
+
+## Of the ***Process***.
+
+**The Process** is: *that such a one first be admonished in particular by the Preaching-Office*, and *that not one time*.
+
+**Afterward**, that it be *brought before the Elders or Spiritual Consistories*, when the *former Admonitions do not help or take effect*.
+
+**When then such a one also hears not the Elders or the Chosen and Council of the Church**, then it shall be *told to the Church or whole Congregation*.
+
+**That takes place** either through the *Consistory itself*, or through the *Pastors* to whom such is *committed*.
+
+— ❦ —
+
+## Question 37. What Form of such Separation shall be used?
+
+**What Form of such Separation shall be used?**
+
+**There is indeed no certain Form prescribed.** But it may well be taken *from Paul's words* — **1 Cor. 5:3–5**.
+
+**In sum**: the public Separation shall **first** happen *in the Name of Jesus Christ*. **Afterward** the *Sinner shall be publicly named*. **Third**, he shall be *given over to Satan* for the *destruction of the Flesh, that the Spirit may be saved on the Day of the LORD Jesus*. **Fourth**, such Separation shall *endure so long* till such a one *earnestly turns himself*. **But as soon as such a Man does Repentance**, he shall be *received again to Grace*, and *reconciled again with the Congregation*.
+
+— ❦ —
+
+## Question 38. What Ceremonies may blamelessly be held therewith?
+
+**What Ceremonies may blamelessly be held therewith?**
+
+**In some Churches** one *places the Person who is separated in a certain place*, that he may be *seen by everyone in the Church*.
+
+**Second**, the *Separation is carried out by the Church-Servant* to whom such is *committed*.
+
+**Third**, when the same is carried through, *the ***Custos templi*** (Warden of the Church) takes him*, and *leads him publicly out of the Church*.
+
+**Fourth**, the *Officers publicly announce in the Office* that he shall be *admitted to no Honest gatherings*.
+
+**Fifth**, those are *punished who publicly eat or drink with him, harbour him*, etc.
+
+**Sixth**, he may *nevertheless well go to Church*, and *hear Preaching* — yet that he *stand apart*, and that he *withdraw from the Church when the Supper of Christ is held*. But **this is here prescribed to no one**.
+
+— ❦ —
+
+## Question 39. How was it held in the First Church after the Apostles' times, when a public separated Sinner was reconciled again with the Church?
+
+**How was it held in the First Church after the Apostles' times, when a public separated Sinner was reconciled again with the Church?**
+
+**First**, they were *examined by the Bishops in the presence of the Brethren*, as is to be seen in **Cyprian, *lib. III, Epist. 11***. In this Examination, however, they were *asked with diligence*, and had to *publicly confess afterward* that they had *done wrong*, and *ask pardon*.
+
+**Second**, when they had made such Confession, they were *publicly absolved* — as **Tertullian, in the Book *De Poenitentia***, writes; the *Hands* were also *laid upon them* thereat.
+
+**Third**, then one *reached to them the Holy Supper*.
+
+**Fourth**, followed thereupon the *Joy of the whole Church, and Thanksgiving*, that this Sinner had been *converted*.
+
+This manner is followed almost in many Churches where such ***receptio*** of the public Sinners is held.
+
+— ❦ —
+
+# XXXI.
+
+# Of Repentance.
+
+## Question 1. How is the Word *Repentance* used in Scripture?
+
+**How is the Word Repentance used in Scripture?**
+
+**In a twofold manner.**
+
+**First**, for the *whole Conversion of Man to God*, to which pertain **Contrition and Faith** — as **Jer. 18:8**: *"When a People do Repentance,"* etc. And **Jer. 31:19**: *"After thou hast converted me, I did Repentance."*
+
+**Second**, it is taken *only for the one Part of Repentance*, namely for **Contrition** — **Mark 1:15**: *"Do Repentance, and believe the Gospel."* **Luke 24:47**: *"Preach Repentance and Forgiveness of Sins."*
+
+— ❦ —
+
+## Question 2. What is then Repentance?
+
+**What is then Repentance?**
+
+**It is**: to *know one's Sin heart-warmly*, to *be terrified before God's Wrath against Sin*, to *have Contrition and Sorrow in the Heart on account of the same*. And on the contrary, to *raise oneself up*, to *comfort oneself through Faith of God's Mercy promised in Christ*, and *not to doubt* that **God will be gracious**, and will *forgive the Sins for Christ's sake*. Which Faith then shall be *followed by upright Fruits of Repentance*.
+
+— ❦ —
+
+## Question 3. How many Pieces has the Christian Repentance?
+
+**How many Pieces has the Christian Repentance?**
+
+**Two Pieces**: namely **Contrition** or *Recognition of Sins*; and **Faith** in Christ *of the gracious Forgiveness of Sins*. So Christ himself divides Repentance — **Mark 1:15**: *"Do Repentance, and believe the Gospel."* Likewise **Luke 24:47**. And thus also the **Augsburg Confession** enumerates the *Parts of Repentance*, in the **11th Article**.
+
+— ❦ —
+
+## Question 4. What is then to be held of it, when one says: There are *three Pieces* of Repentance — Contrition, Faith, and *new Obedience*?
+
+**What is then to be held of it, when one says: There are three Pieces of Repentance — Contrition, Faith, and new Obedience?**
+
+**When one so speaks without evil after-cunning, it may pass.** But when one wills to speak *properly*, it is *certain* that Repentance has *only two Pieces*, of which is already spoken. **The new Obedience, however, properly to speak, is a Fruit and Consequence of Repentance**, and *not a Piece of the same*. And thus **John the Baptist** also names it — **Matt. 3:8**. So one also says not, otherwise, that *the Fruit of a Tree is a Piece of the same*. For **Tree and Fruit are not the same**.
+
+Beside this, that this Speech — where it is *stubbornly defended* — brings with it certain *unlawful matters*: namely, *that Good Works are needful to Salvation*.
+
+For thus certain use to conclude: **The whole Repentance is needful to Salvation. The new Obedience is a Piece of the same. *Ergo*: So is it needful to Salvation.**
+
+**The Minor**, or second Proposition of this Argument, **is false**. For the *new Obedience*, properly to speak, is *not a Piece of Repentance*, but a *Fruit of the same*, as *John the Baptist speaks* — **Matt. 3:8**: *"Do upright Fruits of Repentance."* Wherefore it is *most safest to abstain from the said speeches*.
+
+— ❦ —
+
+## Question 5. Whereas Repentance comprehends Contrition in itself, tell me, what is then Contrition?
+
+**Tell me, what is then Contrition?**
+
+**A hearty Recognition of Sin, and an earnest Fear or Terror before Sin and God's Wrath**, whereby the *Heart is longingly grieved that it has angered God*, and *wins an earnest Shame before the Sins, to serve the same no more* — **Psalm 51**.
+
+— ❦ —
+
+## Question 6. Why does God, however, require such Contrition?
+
+**Why does God, however, require such Contrition?**
+
+**Not, as the Papists give out, that one merits Forgiveness of Sin thereby** — but he wills that when we *recognise our Unworthiness*, we *then heartily humble ourselves before him*, and *build not at all upon our Merit*. Afterward, **that we learn to esteem the Benefits of Christ so much the greater**, for whose sake we are *received to Grace*. Further, **that we hereafter guard ourselves the more diligently against Sins** — which cause such *Anguish and Terror of the Heart*, that (if God did not comfort us) we must despair in such Fear and Terror. Finally, **so Contrition also makes a Distinction between hypocritical and true Repentance** — for where *no right Contrition or Recognition of Sins is*, there is also *no right true Repentance*.
+
+— ❦ —
+
+## Question 7. Who begins such Contrition in us?
+
+**Who begins such Contrition in us?**
+
+**Not the Powers of our corrupted Will, but God himself** — as **Job 9** stands. Likewise **Isa. 38:13**: *"He breaketh all my Bones like a Lion."*
+
+— ❦ —
+
+## Question 8. What Means, however, does he use thereto?
+
+**What Means, however, does he use thereto?**
+
+**The Preaching of the Law, temporal Punishment, and inward Anfechtung of the Heart** — and what is the like.
+
+— ❦ —
+
+## Question 9. Where is then Contrition?
+
+**Where is then Contrition?**
+
+**In the Heart, or in the Soul.** **Psalm 51:17**: *"A broken Heart wilt thou, O God, not despise."* **Psalm 6:3**: *"My Soul is very terrified"* — for the *LORD attacks us most where we are softest*.
+
+— ❦ —
+
+## Question 10. What Properties has it then?
+
+**What Properties has it then?**
+
+**Psalm 38** sets these Properties:
+
+**1.** *Stinking of the Wound* — that is, the *Increase of Anguish and Grief in the Heart*, so that one *scarcely knows where to remain for Sorrow*.
+
+**2.** *Going Bowed and Crooked* — for a **sorrowful Gait** is a *sure Sign of inward Sorrow of the Heart*.
+
+**3.** *Drying-up of the Loins* — that is, *Loss of the inward Powers*.
+
+**4.** *Weakening of the whole Body* — for he says: *"There is no soundness in my body."*
+
+**5.** *Unrest of the Heart* — that is, that the *Heart can never still itself or be at peace*, but *stands ever in Fear and Care*: *"My Heart trembleth,"* etc.
+
+**6.** *Lack of the Light in the Eyes* — that is, that *one cannot look joyful*, but *casts down the head like a Publican* — **Luke 18:13**.
+
+— ❦ —
+
+## Question 11. Why does God then so crush the Heart?
+
+**Why does God then so crush the Heart?**
+
+**That it may humble itself before him**, *recognise the Sin*, and *heartily pray for Forgiveness* — **Psalm 32:4–5**: *"Thy Hand was heavy upon me day and night,"* etc. *"Therefore I confess to thee my Sin."* And **Isa. 38:13, 15, 17**: *"He brake all my Bones like a Lion. Item, I shall be shy all my Life-days, for such Trouble of my Soul. See, for Comfort was it very anxious to me — but thou hast heartily taken thyself to my Soul, that it perished not."*
+
+— ❦ —
+
+## Question 12. Can then the human Heart have *perfect Contrition* over its Sin — so that it therewith merits Grace with God?
+
+**Can then the human Heart have perfect Contrition over its Sin — so that it therewith merits Grace with God?**
+
+**By no means.** For the *human Heart could not bear such great Terror*. So also **alone the LORD Jesus Christ has perfectly repented Sin**, and *with his Contrition, Anguish of Heart, and Sorrow, atoned our Sins*, and brought it about *that God lets us not stick in our Terror and utterly perish*. For which we shall also *thank him heartily*. **Isa. 53:6**: *"The LORD laid on him the Sin of us all,"* etc. **Psalm 22:14–15**: *"My Bones are parted asunder, my Heart in my Body is as melted wax, my Powers are dried up, and my Tongue cleaves to my palate, and thou layest me into the dust of Death."*
+
+— ❦ —
+
+## Question 13. Since then to right Repentance *true Faith in Christ* belongs, tell me briefly, what is such Faith?
+
+**Since then to right Repentance true Faith in Christ belongs, tell me briefly, what is such Faith?**
+
+**Answer**: **A hearty Trust and Confidence of the Heart, that God will be gracious to thee, forgive all thy Sin**, and — *for Jesus Christ's sake* — *not reckon the same to thee to Damnation* — since he else had *good Right to do such*, inasmuch as *the Death is Sin's Reward* — **Rom. 6:23**.
+
+— ❦ —
+
+## Question 14. Why must then such Faith be at Repentance?
+
+**Why must then such Faith be at Repentance?**
+
+**Therefore, because no Creature could stand out and bear the Pains which a troubled Heart feels when it is attacked on account of its Sin** — if this Comfort did not come thereto: that God, for **Christ's sake**, would let his righteous Wrath against Sin fall, and graciously forgive the Sin.
+
+**In Sum**: if Faith in Christ came not thereto, so *Contrition would bring a Man temporally to death*. Wherefore the **69th Psalm** speaks: *"God help me, for the Waters go up to my Soul."* And **Psalm 88:15**: *"I bear thy Terror, that I almost despair."*
+
+What further is to be said of Faith, thou findest above in the **Article or Doctrine of Faith, Fol. 123**.
+
+— ❦ —
+
+## Question 15. How manifold is Repentance?
+
+**How manifold is Repentance?**
+
+**Twofold.** **One**, which is the *right Christian Repentance*. **The other** is an *hypocritical, false Repentance*, where one *puts on a show* as though one *did Repentance*, and it is *nevertheless nothing*. As **Ahab** feigned as though he *would do Repentance* — **1 Kings 21** — but did *no right Repentance*.
+
+— ❦ —
+
+## Question 16. Wherein stands then the Distinction of the right and the hypocritical Repentance?
+
+**Wherein stands then the Distinction of the right and the hypocritical Repentance?**
+
+**First**, *where right Repentance is, there is also an earnest Terror and Fear before Sin and God's Wrath*. Where that, however, is not, there the *Heart knows nothing of such Terror*, but is *secure*, etc.
+
+**Second**, *where right Repentance is, there the Heart raises itself upon the Promise of the Gospel of Christ, and comforts itself of God's Grace*. Where that is not, there is also *no right true Comfort or Faith in the Heart*, but rather *Security* — or on the other hand *Despair of God's Grace*.
+
+**Third**, *where right Repentance is, there follow also good Fruits of Repentance*. Where those follow not, there is *certainly no right Repentance* at hand.
+
+— ❦ —
+
+## Question 17. Whence comes right true Repentance?
+
+**Whence comes right true Repentance?**
+
+**From God himself.** For he *crushes the Hearts, wounds them, and heals them again* — or *comforts them again* — **Job 6; Acts 16:14**. **He alone opens the Heart, he alone converts** — **Jer. 31:18; Psalm 68:23**: *"Of the fat ones will I convert some."* This same is witnessed also by the **Examples of Adam and Eve, of David, of Manasses, of Peter, of Paul, of the Thief on the Cross**. For **Repentance is not of Man**, or of his *free Will*, or of his *own Powers' Work*, but of **God**.
+
+— ❦ —
+
+## Question 18. When I then cannot do Repentance, why does then the Scripture say: **Do Repentance**?
+
+**When I then cannot do Repentance, why does then the Scripture say: Do Repentance?**
+
+**Answer**: **It speaks not so, as if thou couldst of thyself, or out of own Powers, do right true hearty earnest Repentance**. But it drives thee *with such Speech thereto, that thou shalt recognise thy Inability*: ***A praecepto ad posse non sequitur consequentia*** — *"From the Precept to the Ability the consequence follows not."* And so *thou shalt attribute to God the LORD the Honour of the Conversion to God alone*, and *not at all to thine own Powers*.
+
+— ❦ —
+
+## Question 19. Shall I then continue in Sins, when I cannot do Repentance for myself out of my own Powers?
+
+**Shall I then continue in Sins, when I cannot do Repentance for myself out of my own Powers?**
+
+**That also thou shalt not do.** But thou shalt *go into the Church, hear Preaching* — there will God *stir thy Heart and open it*, that thou shalt *recognise thy Sin*, and will *so convert thee to himself* — as he **Acts 16:14** *opened the Heart of Lydia*, that she *marked what was spoken by Paul*.
+
+— ❦ —
+
+## Question 20. What Means, however, does he use thereto, when he will bring us to Repentance?
+
+**What Means, however, does he use thereto, when he will bring us to Repentance?**
+
+**The Law and the Gospel.** Through the **Law** he works the *Contrition* or *Recognition of Sin* — **Rom. 3:20**: *"Through the Law comes Recognition of Sin."* Through the **Gospel**, the *Faith in Christ* — **Gal. 3:2**: *"Have ye received the Holy Spirit through the Preaching of Faith?"*
+
+— ❦ —
+
+## Question 21. Wherein happens then Repentance or Conversion to God?
+
+**Wherein happens then Repentance or Conversion to God?**
+
+**In the Heart of Man.** **Ezek. 36:26**: *"I will take away the stony Heart, and will give you a fleshly Heart."* The **Publican** — **Luke 18:13** — whose Heart *God the LORD himself has stirred inwardly through the Law-preaching*, *smites upon his Heart or Breast*, and speaks: *"God be merciful to me a poor Sinner."* The **51st Psalm** speaks: *"A distressed and broken Heart wilt thou, O God, not despise."*
+
+**God, however, works through Means in the Heart**, both Contrition and Faith — and **deals not with us without Means**, as the **Enthusiasts** invent.
+
+— ❦ —
+
+## Question 22. What if any would put off Repentance till he becomes sick?
+
+**What if any would put off Repentance till he becomes sick?**
+
+**No truly.** For it stands: *"To-day, when ye hear my voice, harden not your hearts,"* — **Psalm 95:7–8**.
+
+— ❦ —
+
+## Question 23. Is then Repentance also of avail in the future World, or in the other Life?
+
+**Is then Repentance also of avail in the future World, or in the other Life?**
+
+**It is not of avail in that Life** — as such at **Luke 16** is to be seen in the *Rich Man*. And **Cyprian** fine speaks: ***Quando isthinc excessum fuerit, nullus locus poenitentiae est. Hic vita aut amittitur aut retinetur***, etc. That is: *"When Man is departed from this World, Repentance has no place any more. Here in this World the Life is either lost or retained."*
+
+— ❦ —
+
+## Question 24. Is it of avail then also, when one after committed Sin did Repentance more than once?
+
+**Is it of avail then also, when one after committed Sin did Repentance more than once?**
+
+**Yes truly** — when the Repentance is only *upright*. Therefore **Matt. 18:22** stands: *"I say to thee, not seven times."* And **Gal. 6:1**: *"If one is overtaken with a Fault, help him up again."* **Ezek. 18 and 33:11**: *"As truly as I live, saith the LORD: I will not the Death of the Sinner, but that he be converted and live."* **1 John 2:1–2**: *"My little Children, this I write to you, that ye sin not; and if any sin, we have an Advocate with the Father, Jesus Christ the Righteous — and the same is the Propitiation for our Sins, but not for ours alone, but also for those of the whole world."*
+
+Whence the **Novatians'** doctrine avails not, who denied Repentance to those who *sinned after Baptism*.
+
+— ❦ —
+
+## Question 25. Which are then the Fruits of upright Repentance?
+
+**Which are then the Fruits of upright Repentance?**
+
+**First, the good Works or the new Obedience** — which comprehends in itself a *beginning of a new Life toward God and Men*, and a *beginning of the Crucifixion of the Flesh, together with its Lusts and Desires* — **Rom. 6, 7, 8; Gal. 5**. Whereto pertains that **John the Baptist** speaks — **Matt. 3:8**: *"Do upright Fruits of Repentance."*
+
+**Second**, Repentance also brings this Good: **that the Converted become God's Temple or Dwelling** — **Isa. 57:15**: *"He dwells with those who are of a broken Heart."* **Psalm 34:19**: *"The LORD is nigh unto those who have a broken Heart,"* etc.
+
+**Third**, it brings also **Lightening of temporal Punishments** — as **Jer. 18:8**: *"When a People turns from its Wickedness against which I speak, then shall the Evil also repent me which I had thought to do to them."* **1 Cor. 11:31**: *"If we judged ourselves, then should we not be judged."*
+
+— ❦ —
+
+## Question 26. How dost thou however understand this, that Repentance should bring *Lightening of temporal Punishments*?
+
+**How dost thou however understand this, that Repentance should bring Lightening of temporal Punishments?**
+
+**Thus** — that to the *Believing*, who are *converted to God*, the *temporal Punishments* are *either lightened*, or at times indeed *entirely remitted according to God's Will and Good Pleasure*. **Not that Repentance for itself is such a Work through which the Sin is atoned, or the Forgiveness of the same is merited**; but that *God the LORD is reconciled with such People for Christ's sake*.
+
+When he sometimes now, after the Conversion, visits them *with the Rods of Children*, and *chastises them*, so he does such **not that they should through such Chastisement blot out the Sin**, but that their *Faith may be proven*, and the *Prayer be exercised*; and he gives them at the same time *Strength and Power*, that they may *bear such fatherly Chastisements and endure them*.
+
+— ❦ —
+
+## Question 27. What shall then move a Man to do Repentance?
+
+**What shall then move a Man to do Repentance?**
+
+**First**, **God's earnest Command**: *"Do Repentance"* — **Mark 1:15**. At this Voice all Men's Hearts should rightly tremble.
+
+**Second**, **the earnest Threatenings of God, and Examples of the Punishments against the stiff-necked** — **Luke 13:3**: *"When ye repent not, ye shall all likewise perish."* Hereto pertain the History of the **Flood, of Sodom, of the Destruction of the City Jerusalem**, and the like more.
+
+**Third**, **the highest Need and great Danger in which we every moment stand** — for we must *every moment await divine Punishments*, so are we also of our Life *wholly uncertain and unsafe*.
+
+**Fourth**, **that after this Life Repentance has no place** — **Luke 16:24**: For the *Rich Man cannot in the Torment obtain a drop of Water*, wherewith he may *cool the tip of his tongue*, etc.
+
+**Fifth**, **that God out of pure Mercy offers us his Grace** — **Ezek. 33:11**: *"As truly as I live."* **Matt. 11:28**: *"Come unto me all ye that labour and are heavy-laden — I will refresh you."*
+
+**Sixth**, **the Examples of those who have done Repentance and converted themselves to God** — of the *Publican*, **Matt. 9**; **Magdalene**, **Luke 7**; **Zacchaeus**, **Luke 19**; the **Thief**, **Luke 22**; **Peter**, **Paul**, and others.
+
+— ❦ —
+
+## Question 28. Must then a Christian's Life be a **continual Repentance**?
+
+**Must then a Christian's Life be a continual Repentance?**
+
+**Yes indeed** — therefore **John** speaks: *"Do Repentance,"* etc.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
