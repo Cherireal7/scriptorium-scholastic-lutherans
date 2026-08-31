@@ -5417,11 +5417,302 @@ What sort of Fast the Papists' Fast is, is known to the whole World.
 
 # Of Prayer.
 
-## Question 1. Is it right that Prayer...
+## Question 1. Is it right to omit Prayer?
+
+**Is it right to omit Prayer?**
+
+**Truly no.** For those who *pray not* despise God's Command, who has commanded [us] to pray, and *sin heavily*. They also despise God himself, from whom they have received all Good; indicate therewith that they are **Godless secure people**, and give others *evil Examples*.
 
 — ❦ —
 
-*[Chapter XXIV Of Prayer opens. Translation continues in Rebuild-Tranche 23.]*
+## Question 2. What is then Prayer?
+
+**What is then Prayer?**
+
+**Prayer is an earnest Conversation with God**, wherein we *lament to him our Need*, and — in Faith on Christ — pray for **Help**, likewise for **temporal and eternal Gifts**.
+
+— ❦ —
+
+## Question 3. Who works Prayer in the Christians?
+
+**Who works Prayer in the Christians?**
+
+**The Holy Spirit** — as he is therefore called at **Zech. 12:10** *a Spirit of Grace and of Prayer*.
+
+— ❦ —
+
+## Question 4. How manifold is Prayer?
+
+**How manifold is Prayer?**
+
+**It is twofold.** For there is a *right true* Prayer which happens **in Spirit and in Truth**; and there is a *false and unright* Prayer which happens *without Knowledge of God and Faith on Christ*. Such is the Prayer of the *Jews, Turks, and Hypocrites*.
+
+— ❦ —
+
+## Question 5. Whereby is the right Prayer distinguished from the false?
+
+**Whereby is the right Prayer distinguished from the false?**
+
+**1.** The **right worshippers** know *what they worship* — namely, God the Father through Jesus Christ. The false worshippers, as Jews and Turks, know it not.
+
+**2.** The right worshippers pray *in Faith*, and know that they are heard *for Christ's sake*. The false without Faith, and *in Doubt*.
+
+**3.** The false worshippers pray upon the trust of *their own works*. The right worshippers alone upon the **Merit of Jesus Christ**.
+
+**4.** The false worshippers know not *what they should pray*. The right worshippers know it from *God's infallible Word*, etc. — **John 4**.
+
+— ❦ —
+
+## Question 6. Who are then those who can pray rightly?
+
+**Who are then those who can pray rightly?**
+
+**Answer**: Those who worship *in Spirit and in Truth*, or with *contrite Heart* — or in true **Knowledge and Confidence upon the precious Merit of Jesus Christ** — **John 4:23–24**.
+
+For where the Prayer shall be right, in the Heart must dwell the **Holy Spirit**, who drives and leads the Prayer — and it must happen in **true Knowledge of God through Jesus Christ**.
+
+— ❦ —
+
+## Question 7. Whom shall one then invoke?
+
+**Whom shall one then invoke?**
+
+**God himself, as he has revealed himself in his Word** — namely, **Father, Son, and Holy Spirit**. **Ps. 50:15**: *"Call upon me in the time of need."*
+
+The Heathen indeed also mean that they invoke God — but because they have no Word of God, they invoke only *the thoughts of their Heart*, and not the true God. For God cannot outside of his Word be rightly known or invoked.
+
+**The Turks of this present time** — although they give out that they invoke the God of Heaven and Earth — yet it is in vain, for they wholly reject the *Revelations in which God through his Son Jesus Christ has demonstrated himself*, and *blaspheme the Son of God*. For **whoso honours not the Son honours also not the Father** — **John 5:23**.
+
+**The Jews** — though they indeed invoke the God of Israel — yet because they *reject and shame Jesus Christ his Son, the World's Saviour*, their Prayer is also good for nothing.
+
+**The Papists** — though they indeed invoke the Heavenly Father and his Son Jesus Christ — yet they spoil it thereby, that they at the same time *invoke the departed Saints*. Wherefore they also pray never rightly.
+
+**Alone the Believing Christians, who abide by the Revelation and invoke God in Christ Jesus through true Faith, are the right worshippers.**
+
+— ❦ —
+
+## Question 8. But I see not God when I will pray — how shall I then speak to him or invoke him?
+
+**But I see not God when I will pray — how shall I then speak to him or invoke him?**
+
+**Answer**: Therefore it is called: **The right worshippers invoke him in Spirit and in Truth** — **John 4:24**. **Believe and trust him according to his infallible Word**, wherein he has revealed himself and his most gracious Will — though they see him not now in this Life with their mortal eyes.
+
+— ❦ —
+
+## Question 9. What Mediator, however, must one use thereto — for whose sake our Prayer be heard?
+
+**What Mediator, however, must one use thereto — for whose sake our Prayer be heard?**
+
+**Human Reason tries all manner of Ways in this matter.** For the *Consideration of Divine Majesty terrifies the Heart*. Wherefore the Heathen have undertaken *to reconcile God with their sacrifice*; as also the Pharisees among the Jews; the Papists to this day use *the departed Saints* as Mediators.
+
+Wherefore it is needful that we hold ourselves to the Mediator whom **God himself has ordained as a Throne of Grace through his Blood** — namely, **Jesus Christ** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God and one Mediator between God and Man, the Man Christ Jesus, who has given himself for all unto Redemption."*
+
+For (as reported) he is by God himself ordained thereto; has given himself for us; is **our High Priest eternally, who intercedes for us** — **Rom. 8:34; Heb. 7:25**. Is also our **LORD and King**, who holds us in his *Protection and Shield*; who also with a *double Oath* — **John 16:23** — has promised that *whatsoever we pray in his Name, that shall be given us*.
+
+**Upon this Mediator alone** we can and shall **trust**, and ground our Prayer upon *his Merit and Obedience rendered for us*, and *upon no other Creature, Angel, or Saint's Intercession*.
+
+— ❦ —
+
+## Question 10. Does then right Faith also belong to the Hearing of Prayer?
+
+**Does then right Faith also belong to the Hearing of Prayer?**
+
+**Assuredly.** Wherefore stands **Rom. 10:14**: *"How shall they invoke him on whom they believe not?"*
+
+**It is impossible** that thy Heart should rightly pray anything of God and be able to await it, when thou hast not the *Trust through Christ toward him* — that he is gracious to thee, and for the same's sake ready to help thee.
+
+Thus **Rom. 5:1–2**: *"So now, being made Righteous through Faith, we have an access to this Grace wherein we stand."* For this witnesses Experience itself: that when thy Heart concludes not that with God, for Christ's sake, it is well with him — he draws not near to God, but *flees before him as before a strict Judge*.
+
+Item, **Matt. 21:22**: *"All that ye pray in Prayer, so ye believe, so shall ye receive."* From which sufficiently appears that those who pray *without Faith receive nothing*. When one will pray, one must not so think: *"I will indeed pray, but I know not what I shall accomplish therewith; perhaps God hears not my Prayer."* Rather, much more one must conclude: *"I will pray, for it is God's Command; I also believe that God hears my Prayer, for he has promised it in Christ Jesus; wherefore he will hear me and give what is profitable to me, specially in bodily matters."*
+
+— ❦ —
+
+## Question 11. What Order shall one keep in Prayer?
+
+**What Order shall one keep in Prayer?**
+
+**First**, thou shalt pray for that which is needful to thy **Blessedness** — as *Faith on Christ*, or the *Increase of the same*, and what suchlike more is.
+
+**Thereafter** thou shalt also pray for **temporal Gifts** which belong to this Life — as *Clothing, Nourishment, and the like*.
+
+**In Spiritual matters** — as the *Forgiveness of Sins, and God's Grace, the Ruling of the Holy Spirit* — thou shalt **firmly conclude** that God the LORD will *certainly give thee such Gifts*. For he has promised them, in Christ Jesus his dear Son, to all Believing *without Condition* — **Matt. 11:28**; **Rom. 10:12–13**: *"There is one LORD, rich over all who invoke him; whoso invokes the Name of the LORD shall be made blessed."*
+
+**In matters, however, which concern this temporal Life** — as *Health, Riches, long Life*, and the like — thou shalt pray with this Condition: *"LORD, thou knowest best what is profitable to me in this matter; do with me according to thy holy Will. Is it good for me, then give it; if not, then give me good Patience and Constancy to submit myself to thy fatherly will in such cases."*
+
+So prays the leper — **Matt. 8:2**. So also David — **2 Sam. 15:25–26**: *"If I find Grace before the LORD, so shall he bring me back again,"* etc. But if he says thus: *"I have no delight in thee — behold, here am I; let him do with me as it pleases him."*
+
+— ❦ —
+
+## Question 12. What is needful that we pray, seeing God beforehand knows all?
+
+**What is needful that we pray, seeing God beforehand knows all?**
+
+**Although he beforehand knows all that we need — Matt. 6:8 — yet shall we pray and lament to him our Need**, for he has commanded it. So has he also *in the Our Father* prescribed *how and what we shall pray*.
+
+Whence says **Augustine, Epistle 121, *ad Probam viduam***: ***Nobis necessaria sunt verba, quibus commoneamur, et inspiciamus quid petamus, non quibus Dominum seu docendum seu flectendum esse credamus.***
+
+That is: *"It is needful to us that we use words in our Prayer to God, whereby we are reminded on the way of what we pray — not, however, that we would teach or move our LORD God thereby,"* etc.
+
+— ❦ —
+
+## Question 13. Though I pray long and much, yet God gives me nothing at all — what then do I pray for?
+
+**Though I pray long and much, yet God gives me nothing at all — what then do I pray for?**
+
+**Answer**: This objection is *false*, when it is so cast in general. For the **34th Psalm** rightly says: *"When this Poor Man cried, so heard the LORD him,"* etc. All Believers' Examples witness the *counter-play* — who have prayed and are heard.
+
+So says also **Psalm 25:3** rightly: *"None shall be confounded who wait for thee."*
+
+Besides, it is certain that the *Spiritual Goods* — as Forgiveness of Sins, Reconciliation with God, and Eternal Life — are *denied to no penitent Sinner who prays for them in Faith*, as shortly before heard.
+
+Though now the bodily Goods and Gifts *are not always given*, yet it follows from that not, that God gives us *nothing at all* — for to whom he gives *Forgiveness of Sins* and *Eternal Life*, to him he has indeed given *much*.
+
+So it is not always good that he hear us in bodily matters. For **we know not what we pray** — **Rom. 8:26** — and God the LORD *understands better* what he shall give us in such cases than we ourselves. We often pray in bodily matters — *Riches, Health, Honour*, and the like — which, if God should give us the same, would be *harmful to us*, and we would *shamefully misuse them*.
+
+Yea, it is out of God's Word manifest that *Cross and Temptation* are profitable and good to us, and that **to those who love God all things serve unto the Best** — **Rom. 8:28**. Wherefore we shall be at peace with the dear God, though he hear us not always in bodily matters.
+
+**Augustine has hereof a very fine little saying**: ***Fideliter supplicans Deo, pro necessitatibus huius vitae, et misericorditer auditur, et misericorditer non auditur. Quid enim infirmo sit utile, magis novit medicus quàm aegrotus.***
+
+That is: *"He who invokes God diligently in matters concerning this temporal Life, is according to God's Mercy heard, and according to the same also not heard. For what is profitable and good for the sick, the Physician understands better than the sick person himself."*
+
+— ❦ —
+
+## Question 14. How shall one behave when God so *long delays* the hearing of the Prayer?
+
+**How shall one behave when God so long delays the hearing of the Prayer?**
+
+**Hereupon answers Psalm 27:14**, and says: *"Wait upon the LORD; be of good cheer and undismayed, and wait upon the LORD."*
+
+Likewise **Ps. 130:5–6**: *"I wait upon the LORD; my Soul waits, and I hope upon his Word. My Soul waits upon the LORD, from one morning-watch to the next."*
+
+And the Prophet **Habakkuk 2:3**: *"Though she tarry, yet wait for her; she shall certainly come, and not delay."*
+
+Item, **Jeremiah in his Lamentations 3:26–29**: *"It is a precious thing to be patient, and to hope on the LORD's Help. It is a precious thing for a Man that he bear the Yoke in his Youth; that a Forsaken one be patient when something befalls him, and put his Mouth in the dust, and wait for Hope."*
+
+For our LORD God delays for the most part the Hearing of Prayer, that he in his Time may **much more give** than we prayed or hoped — **Eph. 3:20**: *"To him who can do exceedingly abundantly, above all that we pray or understand, according to the Power that worketh in us — to him be Glory in the Congregation,"* etc.
+
+A right Christian must also **not set the Hearing of Prayer** so that our LORD God *always must do* what he prays, but so that he *works and gives what is profitable to him in body and soul*. For he knows better what he shall give, and *what is profitable to us*, than we ourselves.
+
+So he delays the Hearing of Prayer also therefore, **that Prayer may grow and become stronger**; item, **that we may have so much more cause to practise ourselves in God's Word and Faith**. For if he always at once heard, we would soon become **secure and lazy** in all such spiritual Practices.
+
+**In sum**: A Christian must know and practise the following Rule — **God the LORD promises, but he nevertheless delays the Help, tempts us so, that our Faith may have Cause to practise itself, that we learn to trust God — not alone when things go well, but also when things go ill**. He indeed helps at last; but will beforehand *prove our Faith, Hope, and Patience*.
+
+And there must be, in a Christian, an **Interchange of Suffering and of Joys** — just as Day and Night alternate with one another. **Ps. 30:5**: *"Weeping endures for the evening long, but Joy in the morning."*
+
+When with a Christian it is *always well*, he becomes secure. When it also with him *goes too ill always*, he would become too faint-hearted, and must at last despair. Wherefore God the LORD uses such Interchanges — that he at times troubles, to cut off the Security in us; at times he rejoices us again, that he may resist Despair.
+
+When it thus goes with a Christian, it goes rightly — for that is the ***modus gubernationis divinae***, or the right Kind and Manner which he uses in the Governing of his Children.
+
+**Of the Time and Manner to help**, stands **Judith 8:12–13**: *"Who are ye that ye tempt the LORD? That serves not to obtain Grace, but rather Wrath and Disfavour. Would ye then prescribe to the LORD, at your Pleasure, Time and Day when he shall help?"*
+
+Wherefore we shall not undertake **to prescribe to the LORD Time and Manner to help**. For he knows the *helping-hour* best — **John 2:4**. He is **a Helper in Need at the right Time** — **Ps. 9:9**. He knows well when it is best. Wherefore, because we know not the Time and Manner, our eyes shall (**2 Chron. 20:12**) look *straight upon the LORD*, and commit all to him in **Patience**.
+
+— ❦ —
+
+## Question 15. But John 9:31 stands: "We know that God does not hear Sinners." Now I am a Sinner — what then shall I pray?
+
+**But John 9:31 stands: "We know that God does not hear Sinners." Now I am a Sinner — what then shall I pray?**
+
+**Answer**: There are two kinds of Sinners — some who **do Repentance**, some who **go on in Sin without Repentance**.
+
+That God hears not the Sinners who do not Repentance — there is no doubt. But it is a *much other occasion* with the **penitent Sinners**, who with contrite Heart appear before God's Countenance, and (with the Publican, **Luke 18:13**) ask for Grace. For these he *gladly hears* — though also in the Christians *much Weakness* remains. Yet because they *know it* and pray through Christ for Forgiveness, the same is *not imputed to them* — **Rom. 8; Ps. 32; 51**.
+
+— ❦ —
+
+## Question 16. What words shall one use for Prayer?
+
+**What words shall one use for Prayer?**
+
+**The best Form of Prayer is that which the LORD Christ himself has prescribed in the Our Father.** For the same *comprehends all together*, and lets nothing out — both what belongs to eternal Life and what belongs to this temporal Life.
+
+Yet a Christian may also use other Christian Prayers — specially, however, the **Psalms of David**. For therein are found the very finest **Prayer-Psalms**, from which is to be traced how the Saints in the Old Testament, in their highest Temptations and Needs, *spoke with God*, lamented to him their Need, and invoked with hearty and great earnest for hearing.
+
+— ❦ —
+
+## Question 17. What has then Prayer for Power, or what does it work?
+
+**What has then Prayer for Power, or what does it work?**
+
+**Through Prayer one obtains from God for Jesus Christ's sake all manner of *bodily and spiritual Gifts***.
+
+- **Matt. 7:7** — *"Ask, so shall ye receive."*
+- **John 14:14** — *"What ye shall ask in my Name, that will I do."*
+
+**The Leper**, **Matt. 8:2**, obtains cleansing from Leprosy. **The Heathen Woman**, deliverance of her Daughter — **Matt. 15**. **The Nobleman** preserves his Son's Life — **John 4**. And so forth.
+
+— ❦ —
+
+## Question 18. What shall stir a Christian to diligent Prayer?
+
+**What shall stir a Christian to diligent Prayer?**
+
+**God's Command** — **Matt. 7:7**: *"Ask,"* etc. **Ps. 50:15**: *"Call upon me in the time of need."*
+
+The **glorious fair Promises** of the Hearing of Prayer — **John 16:23; Ps. 145:19**: *"He does what the God-fearing desire."*
+
+**His own Need**. For every moment we need God's Protection and Shield. Wherefore it is needful that we every moment **sigh to God and pour out our Hearts before him**.
+
+— ❦ —
+
+## Question 19. Is it right to invoke the *departed Saints*?
+
+**Is it right to invoke the departed Saints?**
+
+**By no means.** For there stands **God's Command**: *"Call upon me,"* etc. — **Ps. 50:15**. Item, **Deut. 6:13**: *"Thou shalt worship the LORD thy God."*
+
+So they are also **not Almighty and All-knowing**; wherefore such Honour befits them not.
+
+In the Scripture is also no **Command or Example** at hand whereby the *Invocation of the Saints* is confirmed.
+
+Through the Invocation of the Saints the Doctrine of the *Invocation of the sole Mediator Jesus Christ* is *darkened*. Wherefore it is not right to invoke the departed Saints. Yea, **it is a horrible Idolatry, to invoke the Saints.**
+
+### Objection.
+
+**The Saints pray for us — therefore we shall invoke them.**
+
+Though they indeed pray for us, yet we have *no Word of God* from that we shall therefore invoke them. Of Christ we know certainly, that he is our Intercessor — **Rom. 8:34; Heb. 7:25**. And of him we have also Command, that we shall invoke him; know also, when we invoke him, that we are heard.
+
+Of the Saints, however, stands **Isa. 63:16**: *"Abraham knows nothing of us, and Israel recognises us not."*
+
+### Another Objection.
+
+**The Saints are well with God. Therefore one shall invoke them, that they intercede for us?**
+
+**That follows not at all.** For though they be well with God, yet the Holy Scripture *teaches not* that one shall on that account invoke them as Intercessors. Because we then have no Word of God from that, we shall also not do it.
+
+— ❦ —
+
+## Question 20. Shall one then not honour the Saints at all?
+
+**Shall one then not honour the Saints at all?**
+
+**One shall well honour them** — that we **thank God for the Benefits which he through them or their Service demonstrates to his Congregation**; shall also **follow their God-blessedness**. But **invoke them** we shall not.
+
+— ❦ —
+
+## Question 21. Can the *secure reckless Sinners*, in whom is no Repentance and no right Faith on Christ, also pray?
+
+**Can the secure reckless Sinners, in whom is no Repentance and no right Faith on Christ, also pray?**
+
+**No.** For of such God himself speaks — **Isa. 1:15**: *"Though ye stretch out your Hand, yet will I hide my eyes from you; and though ye pray much, I will not hear you — for your Hands are full of Blood."*
+
+Item, **Prov. 1:28–30**: *"Then shall they call unto me, but I will not answer; they shall seek me early, and not find me — because they hated the Doctrine, and would not have the Fear of the LORD, would not my Counsel, and blasphemed all my Punishment,"* etc. *"So shall they eat of the Fruits of their being, and become sated of their counsel."*
+
+— ❦ —
+
+# XXV.
+
+# Of the Sacraments in General.
+
+## Question 1. Is the word *Sacrament* — so far as concerns the Baptism and the Supper — also found in the Scripture?
+
+**Is the word *Sacrament* — so far as concerns the Baptism and the Supper — also found in the Scripture?**
+
+**No.** Of the Baptism and Supper it stands nowhere in the Scripture. Otherwise it is well used in the old Translation for the...
+
+— ❦ —
+
+*[Chapter XXV Sacraments in General opens. Translation continues in Rebuild-Tranche 24.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
