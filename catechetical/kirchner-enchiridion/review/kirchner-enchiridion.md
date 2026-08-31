@@ -6740,11 +6740,201 @@ For how Christ dispenses his Body with the Bread, that he has *not revealed*. Th
 
 **4.** We teach after Christ's Words a **twofold Reception of the Body and Blood of Christ** — the **Spiritual and the Sacramental**. But the opposite side teaches only *one* Reception of the Body and Blood of Christ, namely the *Spiritual*. Sacramental Reception, they say, is nothing more than the Reception of the sanctified Signs of Bread and Wine — which is at bottom wrong and false. For **the Sacrament has *two* pieces**: the Holy Signs of Bread and Wine, and the Body and Blood of Christ. And the Signs alone are only the *half part* of the Sacrament, and not the whole Sacrament.
 
-**5.** We teach that **this is not the Nature and Kind of Faith** — that he shall lift the Soul above all Heavens to the place where Christ's Body...
+**5.** We teach that **this is not the Nature and Kind of Faith** — that he shall lift the Soul above all Heavens to the place where Christ's Body sits and enjoys it, etc., as our opposite side does. Rather, that this is Faith's Property: **that he believe the Words of Institution, and hold for certain that through the Holy Signs of Bread and Wine — on account of the Sacramental Unity — the true Body and true Blood of Jesus Christ, in the Holy Supper (which is held here on Earth), are present dispensed and received**.
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues. Translation continues in Rebuild-Tranche 29.]*
+### Objection.
+
+**If the Body of Christ is Sacramentally united with the Bread, and received with the Mouth, then must he also with the *teeth* be truly chewed?**
+
+**Answer**: Christ's Body is now become **immortal and imperishable** — **Rom. 6:9**. Though he now, according to his words *"Eat, this is my Body,"* be also Sacramentally received with the Mouth, yet it follows not therefrom that he is properly and truly *with the teeth chewed* like the sanctified Bread, or *consumed in the stomach* like other food. Because he is not now at all subjected to perishability — but rather, on the contrary, it follows that **he transforms our mortal Body to Immortality and Eternal Glory**. Whence also **Irenaeus** writes that our Bodies are capable of Resurrection *because they have enjoyed the Body of Christ*.
+
+— ❦ —
+
+## Question 21. Tell me in brief words, what do ye then hold of the *Manner of the Presence* of the Body of Christ in the Supper?
+
+**Tell me in brief words, what do ye then hold of the Manner of the Presence of the Body of Christ in the Supper?**
+
+**Answer**: We hold straight that the **Manner of the Presence is Heavenly, supernatural, and incomprehensible**, and in this Life cannot nor shall be *searched out*.
+
+Our opposite side, because it supposes that it is *abominable* that Christ's Body should be truly and essentially dispensed with the Bread, *fables the Presence of the Power*. Some — as **Beza** — use the *similitude* of a Bread out of which one presses the Sap or Power, and the Bread meanwhile remains by the basin, etc. But we can and shall not follow them therein; but must stand straight upon Christ's Words, which speak of the **Distribution of his true Body**, and not of the *Distribution of the Power* of the same — as he must himself confess in his *Volumen Epistolarum, Epist. 4 & 5*.
+
+### Yes — when ye say Christ's Body is **bodily or essentially** there, ye yourselves express the *Manner of the Presence*. *Ergo*, so is the Manner not *supernatural and inexpressible*?
+
+**Answer**: The word ("bodily") and what more is of the like, we understand *not* concerning the **Manner** of the Presence (which we quite commit to Christ), but *alone concerning the *true Presence of the Substance of his Body*** — though we cannot understand or express the Manner in which the same Body is present. We fable *not* that Christ's Body be *spatially there*, as *straw in a sack*, or as *a knife in the sheath*, or as *a sword in its hilt*; but the **true Presence of his Body** we will thereby indicate — and further, nothing.
+
+Much less do we concede to the opposite side that the strife between us and them is ***de modo praesentiae***, "concerning the Manner of the Presence" — for we strive *not* ***de modo praesentiae***; but the Manner of the Presence of his true Body we commit to him alone, because he has not revealed the same to us. ***Praesentiam corporis et sanguinis Christi*** — the **true Presence of the Body and Blood of Christ** — we teach and believe; ***modum praesentiae*** — the Manner of the Presence, that is, *how* he, Christ's Body, is there — we cannot express. In a natural manner it happens not; wherefore it must happen in an incomprehensible, supernatural, Heavenly manner, which in this Life is *inexpressible*.
+
+— ❦ —
+
+## Question 22. How is the Holy Supper instituted?
+
+**How is the Holy Supper instituted?**
+
+**The Form is to be taken from the Words of Institution.** For thus, and *not otherwise*, must it be held, than as Christ himself has instituted it.
+
+The Bread he took, and spoke: *"Take, eat; this is my Body,"* etc. This the disciples have done. Likewise he has given them the Cup, and spoken: *"Drink ye all of it; this is my Blood of the New Testament,"* etc. And the disciples have all drunk of it.
+
+**And in Sum**: the little word ("Do this") belongs to the *whole Action* of the Supper, and teaches that one shall so hold and use it as he has instituted it, and not otherwise. Wherefore it is a **great church-robbery** that the Papists **withdraw the Cup from the Laity**, against the *express Command* of Christ.
+
+### When did he institute it?
+
+**In the night in which he was betrayed** — **Matt. 26**.
+
+### Where did he institute it?
+
+**In the Chamber wherein he ate the Passover-lamb with his disciples** — **Luke 22**.
+
+### What Bread did he take thereto?
+
+**From the Evangelists it clearly appears that he took *unleavened Bread* thereto**.
+
+**Of the Kind of Wine which he used thereto, one cannot say anything certain.** It is enough for us that we know that it was Wine — **Matt. 26**.
+
+— ❦ —
+
+## Question 23. Must we then also *sit at Table* as Christ with his disciples, when we would use the Supper?
+
+**Must we then also sit at Table as Christ with his disciples, when we would use the Supper?**
+
+**Christ has left thereof no express command.** Wherefore one shall not make a Commandment of it, and drive it upon the Conscience.
+
+### How does it stand with the *Breaking of Bread*?
+
+**Our opposite side presses hard hereupon** — that it must be broken *as with a sound* — but because Christ has given thereof *no special Command*, one is much more to look upon the *Distribution*. For *"to break"* in Scripture — **Isa. 58:7** and elsewhere — means as much as *to dispense*. Gives or takes also such *outward circumstance* of the matter in itself nothing at all.
+
+### Must the Cup be given into the *hands* of the Communicants, that they themselves drink out of it?
+
+**They press upon both the Bread and Cup, that one shall give them both into the hands of the Communicants.** But it is *needless* to dispute much of these Circumstances, forasmuch as Christ has given no certain Command over these. It is also *wrong* to make consciences for the Christians over this — provided the Supper otherwise be held according to Christ's Institution.
+
+— ❦ —
+
+## Question 24. For whom is this Supper instituted?
+
+**For whom is this Supper instituted?**
+
+**For the living Christians, and not for the departed or dead.** Wherefore he says: *"Eat, drink,"* etc. — which none the dead can do. Which is to be marked *against the Papists*, who *offer the Supper also for the dead*.
+
+So too is it not instituted alone for the Priests, but for **the whole Christendom**, as such is to be seen from the Repetition of the Institution of the Supper — **1 Cor. 11:23** — where Paul says he has given it *to the Congregation at Corinth as he has received it from the LORD*. But those were **not all Priests or Church-Servants**, but for the most part *Laity* — which also serves against the Papists, who *rob the Laity of the Cup*.
+
+— ❦ —
+
+## Question 25. What is the *End-purpose* wherefore it is instituted?
+
+**What is the End-purpose wherefore it is instituted?**
+
+**That is expressed in Christ's words** — where he says: *"This do in remembrance of me."* Item, **1 Cor. 11:26**: *"Ye shall proclaim the LORD's Death until he comes"* — that is, **use this Supper of Christ to strengthen and increase Faith in you**, and give the LORD Christ your Saviour, out of Believing Hearts, **Thanks for his bitter Death**.
+
+— ❦ —
+
+## Question 26. What does it work or accomplish?
+
+**What does it work or accomplish?**
+
+**First**, it is a **Distribution of the New Testament**. For the LORD Christ dispenses beside us with his Body and Blood — through which he has confirmed the New Testament — at the same time also the *Forgiveness of Sins*, and all that he with the *giving-up of his Body* and *shedding of his precious Blood* has obtained; and therefore he uses also the little word "New Testament," etc. And is the Body and Blood of Christ — which are dispensed and received with Bread and Wine — as a **Seal and Pledge**, whereby we are assured that unto us truly is given the **Forgiveness of Sins**, etc.
+
+**2.** He **incorporates the Believing** — who enjoy this Supper rightly — **into his holy Body**; unites them with the same, that they with him **become one Flesh and one Bone**, and that Christ dwells in them and they in Christ. And in Sum: that he in them is *mighty*, makes them alive, comforts, refreshes, and strengthens in all Temptations of Body and of Soul. As such **Hilary, *De Trinitate Lib. 8, pag. 136***, finely sets forth.
+
+**3.** He **wards off through it the Temptation** on account of the Sin that still dwells in the mortal Bodies of the Christians — **Rom. 7**.
+
+For therefore he gives thee his Holy Body with the Bread to eat — that thou shalt be *certainly* comforted, that for his sake all thy Infirmities and Sins, which are still remaining in thee, shall be **out of Grace forgiven and not imputed**, and that **nothing shall separate thee from the Love of God in Christ Jesus**.
+
+**4.** He **feeds and gives thee to drink with his Holy Body and Blood** — that thy sinful corrupted Flesh shall be made capable of the *joyful Resurrection and Immortality* and be assured. Whence then the two old teachers **Justin and Irenaeus** take a *certain Argument for the Resurrection of our Flesh* therefrom.
+
+**5.** It shall be **a Bond of Christian Love**. For Christ, who imparts to us his Body and Blood in the Supper, kindles also in our Hearts **true Love of God and of Neighbour** — that we love one another *as he himself has loved us*. And the *Signification* of the many grains from which the Bread is baked, and the grapes from which the Wine is made, reminds thereof, likewise as elsewhere of such Signification is reported.
+
+— ❦ —
+
+## Question 27. Wherein stands the *right use* of this Supper?
+
+**Wherein stands the right use of this Supper?**
+
+**First**, that we **prove ourselves** — **1 Cor. 11:28**. That is: **do Repentance, and in true fear of God and knowledge of our Sin go thereto**, from the heart confess our unworthiness.
+
+**2.** That we **pray for Forgiveness of Sins for Christ's sake**, and set all our Confidence and Trust upon Christ's holy Merit and Obedience, doubting not that we through him are reconciled with the Heavenly Father.
+
+**3.** That we **distinguish the Body of the LORD from other common food** rightly, and firmly believe that **not memorial-signs of the far-absent Body and Blood of Christ are imparted to us, but the true Body and true Blood of Christ himself**, which he gave and shed for us.
+
+**4.** That we have a **good purpose** — with God's help henceforth to *better ourselves*, to abstain from sins, to live according to God's Will, and **crucify the Flesh with its Lusts and Desires** — **Gal. 5:24**.
+
+— ❦ —
+
+## Question 28. Is the Reception of the Body and Blood of Christ in the Supper *one and the same* with that of Holy Baptism?
+
+**Is the Reception of the Body and Blood of Christ in the Supper *one and the same* with that of Holy Baptism?**
+
+**Our opposite side indeed gives such out, but it is not so.**
+
+**1.** The Reception of the Body and Blood of Christ is properly the **Seal of the New Covenant**, and *not* of Baptism.
+
+**2.** The words *"Eat, this is my Body; drink, this is my Blood,"* etc., cannot properly be said of Baptism. For they properly and alone belong to the LORD's Supper, and not to Baptism.
+
+**3.** If there were one and the same Reception in both Sacraments, the words *"Eat, drink"* would have to be understood *figuratively*; also, one would not need the Elements Bread and Wine which are ordained by Christ.
+
+As one now cannot properly refer the words of Holy Baptism to the words of the Supper, so also on the contrary the ***formalia verba*** of the Supper, etc., cannot properly be drawn to the words of Baptism. For they are not one and the same, but *distinct*, and speak also of *different matters*.
+
+### But the opposite side says there must be a Comparison between the Sacraments, etc. So as in Baptism the essential Blood of Christ is not in the Baptism-water, so also is it not to be thought that in the Supper it is dispensed with the Wine?
+
+**That concludes ***a particulari***.** Of the Supper we have Christ's clear Word, in which he promises to dispense his precious Blood — which he shed for us — *with the Wine*. Though in the Words of Baptism it stands not that it is essentially in the Baptism-water, from that it *follows not*: *"Of the Baptism-water Christ says not expressly that his essential Blood is therein. *Ergo*, so is it also not in the Supper."*
+
+We indeed grant well a Comparison between Baptism and Supper in *other pieces*; but so far as concerns the ***causam materialem*** or **Substance**, we grant it *in no wise*. For what in the Supper — so far as its Substance concerns — is dispensed and received, one must **not take from the Baptism, but from the Words with which Christ has instituted it**.
+
+— ❦ —
+
+## Question 29. How manifold is then the Reception of the Body of Christ?
+
+**How manifold is then the Reception of the Body of Christ?**
+
+**Two-fold**: the one is **Sacramental**, the other **Spiritual**.
+
+**The Sacramental Reception is: with the blessed Bread to eat the Body of Christ orally, and with the blessed Wine to drink the Blood of Christ orally, unto a certain Seal and Pledge that we are truly through Christ's Body and Blood redeemed and shall be his own.** For hereto this Reception happens, and all this out of the Power and by virtue of the Institution of Christ — although *not all* who go to the Table of the LORD use the Sacrament thereunto. For not all who go to the Supper bring true Faith, but some of them are unworthy, and receive it therefore **unto Judgement**. And such takes from the Sacramental Reception in itself *nothing*, forasmuch as the *Unbelief of the Unworthy* does not alter Christ's Institution or Sacrament.
+
+**That the LORD Christ has instituted such Sacramental Reception of his true Body and Blood with the sanctified Signs, appears from this:**
+
+**First**, that the words ("Eat, Drink") do *not stand figuratively* here, but shall and must be understood *as they read* — namely, of the *Sacramental Eating*. The disciples of the LORD have also understood them *no otherwise than as they read*, in that they have used the Supper with their Mouth.
+
+**Second**, that Christ has *nowhere grounded* the Eating and Drinking in the Supper upon the distinction of the outward and inward Man (upon which our opposite side presses); nor with the least little word mentioned that the outward Man — that is, the Body or Mouth — shall receive only the Holy Signs, Bread and Wine; but the inward Man — that is (according to their giving-out) the Soul — alone shall enjoy and receive the Body of Christ Spiritually.
+
+**Third**, that Christ in the words where he says *"Eat, this is my Body; drink, this is my Blood"* **distinguishes not** between Judas his betrayer, as an *unworthy guest*, and the other disciples. Nor does he say: *"Thou Judas shalt receive only the outward Signs of my Body and Blood; the others, however, shall enjoy the whole Sacrament."* Which he would well have done, if this had been his meaning — that the Unworthy should receive only the *bare* and *alone* the sanctified Signs.
+
+**Fourth**, that Christ says *not*: *"Take, eat; this is a Sign of my absent Body,"* or *"Eat the sanctified Bread which has received the Name of my Body,"* but: **"Eat, this is my Body, which is given for you."** Item, that he says *not*: *"Drink the Wine, which is a Sign of my absent Blood,"* or *"which has received the Name of my absent Blood,"* but plainly: **"Drink, this is my Blood of the New Testament, which is shed for you."**
+
+Accordingly Christ bids us, in the Sacramental Reception, *not to eat and drink bare Bread and Wine as Signs of his absent Body and Blood*, but **his Body given for us and his Blood shed for us — Sacramentally, with the Mouth**. Paul also — **1 Cor. 10:16** — confirms such Sacramental Reception of the Body and Blood of Christ with the sanctified Bread and Wine. There is no doubt that such Sacramental Reception is instituted by Christ himself and is to be held for true, regardless of what from Human Reason may or can be brought against it.
+
+**But the Spiritual Reception is: to believe with the Heart that thou through the giving-up of the Body and shedding of the Blood of Christ certainly *obtainest* and hast *Forgiveness of Sins, Life, and Blessedness*, and that thou through this Reception of the Body and Blood of Christ art *more and more united with Christ* and *becomest one Body with him*.**
+
+This Spiritual Reception the LORD Christ has instituted *together with* the Sacramental. But because not all who go thereto are Believing, they enjoy it also not all Spiritually; but the Unbelieving or Unworthy receive it *only Sacramentally, and unto their Judgement*.
+
+Of the Spiritual Reception speak the following sayings: *"which is given for you,"* and *"which is shed for you,"* item, *"this do in remembrance of me."*
+
+— ❦ —
+
+## Question 30. Does our opposite side teach rightly, that there is a **twofold Sacramental Reception** — the one, where only the Holy Signs are enjoyed, as by the Unworthy; the other, according to which the Believing receive both the Holy Signs, and *what through the same is figured*?
+
+**Does our opposite side teach rightly, that there is a twofold Sacramental Reception — the one, where only the Holy Signs are enjoyed, as by the Unworthy; the other, according to which the Believing receive both the Holy Signs, and *what through the same is figured*?**
+
+**No.** For the Reception where they say only the Holy Signs are enjoyed is *not instituted by Christ*. The words of the Supper speak of no bare Signs alone, but treat also at the same time **of the Body and Blood of Christ**. The LORD has also not said: *"When an Unworthy goes thereto, so receives he only the sanctified Signs of Bread and Wine; but when a Believing goes thereto, so receives he the whole Sacrament."* Paul has also not driven this distinction.
+
+Wherefore there is *no such Reception* whereby the Signs alone would be dispensed. So this Doctrine is also therefore not of worth: that it *imputes to Faith* that he makes the Sacrament *whole and full* — but where he be not, only bare Signs would be there.
+
+**And in Sum**: with this Doctrine they abolish the **Sacramental Reception** of the Body and Blood of Christ. For they concede no other Reception of the Body and Blood of Christ than the *Spiritual*, which happens through Faith. But *thus* to eat means no more than *to believe that Christ's Body is given for us* — which happens also *outside of the Supper* and can happen, and shall *for ever and ever* happen.
+
+— ❦ —
+
+## Question 31. Have the Fathers also taught that the Body of Christ is *received with the Mouth* in the Supper?
+
+**Have the Fathers also taught that the Body of Christ is received with the Mouth in the Supper?**
+
+**Yes indeed.** They have so taught, and have taken such Doctrine from Christ's own words — where he says: *"Take, eat"*; item, *"Drink ye all of it,"* — which words indeed *unanswerably* speak of the Mouth. Their witnesses read thus:
+
+- **Augustine, Epist. 118**: ***Placuit Spiritui sancto, ut in honorem tanti Sacramenti in os Christiani priùs dominicum corpus intraret, quàm cœteri cibi.*** — *"It has pleased the Holy Spirit that, for the honour of this exalted Sacrament, the Christians first take the Body of the LORD into their Mouth before they use other common food."*
+- **Idem, Sermone de tempore, 215**: ***Videte, fratres charissimi, si iustum est, ut ex ore Christianorum, ubi corpus Christi ingreditur, luxuriosum canticum, aut simile quiddam, quasi venenum Diaboli, proferatur.*** — *"See, dear Brethren, whether it is right that out of the Christians' Mouth — with which they eat Christ's Body — a *shameful, unchaste song*, or the like Devil's poison, should come forth."*
+- **Idem, Contra adversarium legis, Lib. 2 cap. 9**: *"We eat the LORD's Body,"* etc.
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues (patristic testimonies + close). Translation continues in Rebuild-Tranche 30.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
