@@ -6930,11 +6930,152 @@ Wherefore there is *no such Reception* whereby the Signs alone would be dispense
 
 - **Augustine, Epist. 118**: ***Placuit Spiritui sancto, ut in honorem tanti Sacramenti in os Christiani priùs dominicum corpus intraret, quàm cœteri cibi.*** — *"It has pleased the Holy Spirit that, for the honour of this exalted Sacrament, the Christians first take the Body of the LORD into their Mouth before they use other common food."*
 - **Idem, Sermone de tempore, 215**: ***Videte, fratres charissimi, si iustum est, ut ex ore Christianorum, ubi corpus Christi ingreditur, luxuriosum canticum, aut simile quiddam, quasi venenum Diaboli, proferatur.*** — *"See, dear Brethren, whether it is right that out of the Christians' Mouth — with which they eat Christ's Body — a *shameful, unchaste song*, or the like Devil's poison, should come forth."*
-- **Idem, Contra adversarium legis, Lib. 2 cap. 9**: *"We eat the LORD's Body,"* etc.
+- **Idem, Contra adversarium legis, Lib. 2 cap. 9**: ***Nos mediatorem Dei Iesum Christum, carnem suam manducandam, bibendum sanguinem dantem, fideli corde atque ore suscipimus.*** — *"We receive with believing Heart and Mouth the Mediator of God and Men, Jesus Christ, who gives us his Flesh to eat and his Blood to drink."*
+- **Leo, Sermone 6 de Ieiunio**: ***Sic sacrae mesae communicare debetis, ut nihil prorsus de veritate corporis et sanguinis Domini ambigatis. Hoc enim ore sumitur, quod corde creditur.*** — *"So shall ye find yourselves at the LORD's Table, that ye doubt not of the true Presence of the Body and Blood of Christ. For what we believe with the Heart, that we also take with the Mouth."*
+- **Gregory, Homilia Paschalis 22**: ***Quid sit sanguis agni, iam non audiendo, sed bibendo didicistis, Qui sanguis super utrumque postem ponitur, quando non solum ore corporis, sed etiam ore cordis hauritur.*** — *"What the Blood of the Lamb is, ye have learned not alone through hearing, but also through drinking — which Blood is laid over both thresholds, when it is taken not alone with the Mouth of the Body, but also with the Mouth of the Heart."*
+- **Tertullian, *De resurrectione carnis***: ***Caro corpore et sanguine Christi vescitur, ut et anima de Deo saginetur.*** — *"Our Flesh eats and drinks the Body and Blood of Christ, that also the Soul may be nourished by God."*
+- **Irenaeus, *Lib. 5 pag. 296***: ***Quando mixtus calix et fractus panis percipit verbum DEI, fit Eucharistia sanguinis et corporis Christi, ex quibus augetur et consistit carnis nostrae substantia. Quomodo negant carnem capacem esse donationis DEI, quae est vita aeterna, quae sanguine et corpore Christi nutritur?*** — *"When over the Cup and the broken Bread the Word of God is spoken, it becomes the Eucharist of the Blood and of the Body of Christ, from which our Flesh's Being is increased and consists. How then can they deny that our Flesh is capable of the Gift of God — which is Eternal Life — because it is nourished with the Blood and Body of Christ?"*
+- **Cyprian, *Sermone de lapsis***: ***Iacens stantibus, et integris vulneratus minatur: Et quòd non statim Domini corpus inquinatis manibus accipiat, aut ore polluto Domini sanguinem bibat, sacerdotibus sacrilegus irascitur.*** — *"The one who lies threatens those who yet stand, and the wounded threatens those who yet are whole. And a Church-robber becomes angry with the Priests because he cannot at once, with his unclean hands, receive the LORD's Body, or with his unclean Mouth drink Christ's Blood."*
+- **Chrysostom, Homil. 29 on 2 Cor., de osculo sancto**: ***Per has ianuas et portas ingressus est, et ingreditur Christus, quando communicamus.*** — *"Through these Doors and Gates Christ has entered in, and enters through them when we receive the Supper. Ye who are partakers of the Holy Mysteries know what is said there. For our Mouth comes not to slight honour when it receives the Body of the LORD. This let those mark who speak shameful and blasphemous words, and let them terrify to defile such a Mouth."*
+- **Idem, Homil. 27 in 1 Cor. contra ebrietatem**: ***Hoc facis, cùm ad mensam Domini accubueris, illa ipsa die, qua dignus habitus es carnem eius Lingua attingere.*** — *"This thou doest when thou hast gone to the LORD's Table, on that same day when thy LORD Christ Jesus has held thee worthy to touch his Flesh with thy Tongue. That such may not come to pass, cleanse thy right hand, thy Tongue and Lips, as those which are become an Entrance through which Christ enters to us."*
+- **Theodoret, *Lib. 5 cap. 18***, recounts Ambrose's words to Emperor Theodosius: ***Qua temeritate ore tuo poculum sanguinis pretiosi percipies, quando furore verborum tuorum iniustè est sanguis effusus?*** — *"What is this Presumption — that thou wilt take the Cup of the precious Blood of Christ with thy Mouth, seeing thou through thy wrathful command hast unrighteously shed Blood?"*
+- **Bede, ex Augustino, in Joh. 1**: ***Corpus et sanguis Christi fidelium ore sumitur ad salutem.*** — *"The Body and Blood of Christ are received with the Mouth of the Believing unto Blessedness."*
+- **Oecumenius on 1 Cor. 11**: ***Sacratissimum Christi corpus manibus impuris accipiunt indigni, et exsecrando ori suo admovent.*** — *"The Unworthy receive the Most Holy Body of Christ with their unclean hands into their cursed Mouth."*
+- **Chrysostom, Homil. 3 ad Ephesios**: ***Quomodo comparebit ante tribunal Christi, qui labiis et manibus immundis ausit corpus ipsius attingere?*** — *"How shall the Man appear before Christ's Judgement-seat, who dared to touch his Body with unclean Lips and Hands?"*
+
+Wherefore there is *no doubt* that **the Body of Christ is received with the Mouth**, though the Mouth understands not, tastes not, or knows not what it eats — but the *Faith in the Heart* knows and understands, out of and according to God's Word, what the Mouth eats and drinks, etc.
+
+### Yes, says the opposite side, the Body of Christ can only be Spiritually eaten with the *Mouth of Faith*. *Ergo*, so is he not enjoyed with the bodily Mouth?
+
+**Answer**: **Unto Eternal Life** or unto Blessedness, he can only be enjoyed with Faith. But from this it *by no means* follows that he can not therefore be received **Sacramentally with the Mouth**. For what Christ has ordained, that can and must come to pass. Christ has instituted the *Sacramental Reception of the Body and Blood* in the Words of Institution, where he takes the Bread and says: *"Eat, this is my Body, which is given for you."* Item: *"Drink ye all of it,"* etc. Wherefore it must truly come to pass — and does also come to pass.
+
+The words *"Take, eat; this is my Body; drink, this is my Blood,"* etc., let themselves *not so be scratched out* as the opposite side supposes. They can also not be turned upon *bare Signs* — as above is proved — forasmuch as **Christ has instituted no bare Signs**; and Bread and Wine are only a *piece* of the Sacrament, not the *whole* Sacrament. Now Christ has *nowhere indicated* that the Unworthy shall receive only the *bare Signs* and thus scarcely the *half Sacrament*.
+
+Just as the *Spiritual Resurrection* does not abolish the *Bodily Resurrection*, so also the **Spiritual Reception** of the Body of Christ does not abolish the **Sacramental Reception** — but lets one stand beside the other.
+
+### But the Body of Christ has his Length and Breadth, etc. How then can he be received Orally?
+
+**Answer**: We teach *no such gross, Natural, Comprehensible, Oral Reception* of the Body of Christ, as the Capernaites dreamed. But so far as concerns the *Manner*, we say that **Christ's Body is present in a supernatural and incomprehensible manner — yet truly — and is enjoyed**. Wherefore this Objection concerns us not.
+
+### Objection.
+
+**What enters into the Mouth goes into the belly — Matt. 15:17.**
+
+**After your Doctrine, Christ's Body enters into the Mouth. *Ergo*, etc.**
+
+**Answer**: Christ's words at **Matt. 15** speak *not* of the Supper and of the Reception of his Body, but of other common natural foods. Wherefore this Argument serves not to the matter. For we do not teach that Christ's Body enters the Mouth in *natural manner* like other natural food, but is enjoyed in a **supernatural manner**. It is also for itself a great Sin to want to interpret the said little saying of Christ **Matt. 15** of the Sacramental Reception of his Body — and so *grossly and impudently* to speak of it.
+
+### Does then the Mouth *understand* what she Sacramentally receives?
+
+**No.** She understands it not, and knows not what she eats. Rather, the **Faith in the Heart** — that knows and understands from, and according to, the Words of the Institution, what the Mouth Sacramentally eats and drinks. Just as in Baptism the outward Body also receives the same, and is *washed with the Holy Baptism-water*, and yet knows not or understands not what God intends therewith. But the Faith in the Heart, that understands it when he takes God's Word — with which Baptism is instituted — before himself. So also with the Supper.
+
+And it serves the Believing both in Body and Soul, that the same is helped from all harm and misery and made partaker of Eternal Glory. For the Body must be made blessed *just as well* as the Soul — wherefore he also must be helped just as well as the Soul. The Body understands also not, when God forgives the Man his Sins — the Heart alone understands it. Should therefore not the *whole Man*, in Body and Soul, enjoy the *gracious Forgiveness of Sins* and become partaker?
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues (patristic testimonies + close). Translation continues in Rebuild-Tranche 30.]*
+## Question 32. What is then the *Distinction* between the *Sacramental and Spiritual Reception*?
+
+**What is then the Distinction between the Sacramental and Spiritual Reception?**
+
+**First**, the Sacramental Reception can happen **only in this Sacrament**. But the Spiritual Reception also *outside* of the Supper — **John 6**.
+
+**2.** The Sacramental Reception belongs to the *Substance* of this Sacrament. But the Spiritual Reception concerns *the Fruits or Power* of the same. For thus is the Sacramental Reception profitable *when Faith comes thereto*.
+
+**3.** The Sacramental Reception of the *whole Sacrament* is *common also to the Unworthy* — **1 Cor. 11**. But the Spiritual Reception is *alone* of the Believing — **John 6**.
+
+— ❦ —
+
+## Question 33. What is the Distinction between the *6th chapter of John* and the *Words of Institution*?
+
+**What is the Distinction between the *6th chapter of John* and the *Words of Institution*?**
+
+**The distinction stands therein**:
+
+**First**, that the Preaching of **John 6** happened long before the Supper was instituted by Christ. But the Words of Institution were first given by Christ *in the night in which he was betrayed* — **Matt. 26**. Wherefore he could not have taught in John 6 of the Supper — which was first instituted a year afterward.
+
+**2.** In John 6 nothing at all is mentioned of the Reception of the Elements Bread and Wine — which yet the Words of the Supper *earnestly demand*. For it treats alone of the **Spiritual Eating of the Body of Christ**, which happens through Faith.
+
+**3.** The Preaching of John 6 has *figurative words*. For *"eating and drinking"* there mean as much as *believing*. But in the Words of the Supper, *eating and drinking* mean **not** as much as *believing*, but **with the Mouth to eat and drink**.
+
+And thus is the Reception of which John 6 treats **distinguished** from the Sacramental Reception of the Supper. For:
+
+**First**, to eat Christ's Body *Spiritually* is at all times *necessary*, so long as the Christians live. But it is not *necessary* to use the Supper *every hour or moment*.
+
+**2.** So far as also concerns the Spiritual Eating of the Body of Christ, it is *necessary to all Christians without distinction*, if they would otherwise be made blessed. The Sacramental Reception, *not so* — for the *little Children* rightly abstain from it, because they *cannot yet prove themselves* — **1 Cor. 11**.
+
+**3.** The Spiritual Eating is at all times, and to all those who do it, *profitable*. But the Sacramental, not — for those who *eat unworthily* eat unto themselves **Judgement**.
+
+Wherefore these matters shall not be mixed together. Hence also **Calvin himself** writes on John 6, that the said Chapter is *wrongly* interpreted of the Supper. And for this cause: For if it were **one and the same** Eating in John 6 and in the Supper, it must follow that *all* who eat Christ's Body and drink his Blood should be made blessed. But that is not so; for *many enjoy it unto Judgement*. Wherefore in both places there cannot be treated of *one and the same Eating*.
+
+### Objection.
+
+**It is enough with the Spiritual Reception. *Ergo*, so one needs not the Oral Reception?**
+
+**Answer**: If it were of worth so to conclude, then one might in the same manner conclude that one needed the Supper and the outward Elements *not at all*. For we could eat Christ's Body Spiritually — also *without* them — in Faith. But it holds not. Rather, one must let **Christ's Institution remain unmastered and unreformed**, and do what he has commanded to be done.
+
+### Christ's Body can much better be eaten *Spiritually through Faith* than with the Mouth. *Ergo*.
+
+**Answer**: It is of no worth so to want to conclude in the matters that Christ has instituted. Rather, we must follow, and abide by Christ's Ordinance. He has also instituted the **Sacramental Reception** — wherefore one must also let that stand. But that the Sacramental Reception be *profitable*, he has willed that it happen in **true Faith**. For without Faith it profits not — forasmuch as the Unbelieving or Unworthy eat and drink **Judgement** thereof.
+
+### The Promise of the Gospel can never be grasped with the Mouth, but with Faith. In the Supper is the Promise of the Gospel. *Ergo*, so cannot the Mouth receive the same, but alone Faith.
+
+**Answer**: This Argument we grant *entirely* when speaking of the **Spiritual Reception**. But in the Supper is *not alone the Promise of the Gospel* of Forgiveness of Sins; but the Promise is *also* therein, that Christ will dispense with the Bread his Body which he gave for us, and with the Wine his Blood which he shed for us. Upon which Promise the Christians must give heed *just as much as* upon the Promise of Grace — forasmuch as **Christ's Body and Blood dispensed in the Supper** shall be as a **Seal** through which the gracious Forgiveness of Sins is *certainly imparted to us*.
+
+Now if the opposite side would in this matter maintain something, it must first prove that Christ *could not have* — nor should have — instituted the Sacramental Reception of his Body and Blood. Whereupon will they prove that? Now, however, we have God's Word concerning the *twofold Reception of the true Body and Blood of Christ* in the Institution before us. Wherefore we let ourselves not be driven off therefrom.
+
+— ❦ —
+
+## Question 34. In this way ye teach that Faith does *not* belong to the *Sacramental Reception*?
+
+**In this way ye teach that Faith does not belong to the Sacramental Reception?**
+
+**Answer**: This is our Doctrine — namely, that the *Unbelief of the Man* who goes to the Supper *takes nothing away* from the Substance or Being of the same. As also *Faith does not make the Substance or Being of the Supper whole*. Rather, the Perfection of the Supper, that it is *according to Being or Substance whole*, stands alone and only upon **Christ's Institution**.
+
+But that the Sacrament or Sacramental Reception be *profitable* to us, we teach, Faith is in every wise needful. And without Faith it is *not alone unprofitable*, but also *hurtful*. For the Unbelieving or Unworthy enjoy it **unto Judgement** — **1 Cor. 11**.
+
+— ❦ —
+
+## Question 35. But ye then set the two Receptions — Sacramental and Spiritual — *against each other*, so that the one does not *seal* the other?
+
+**But ye then set the two Receptions — Sacramental and Spiritual — against each other, so that the one does not seal the other?**
+
+**Answer**: That be far from us. For we teach *expressly and unanimously* that the **Sacramental Reception serves the Spiritual Reception** — confirms and strengthens the same in the Believing who *worthily use the Supper*; or is a **Seal and Pledge** through which the Spiritual Reception is *sealed*. And on the contrary — the Spiritual Reception serves the Sacramental Reception, when she is *profitably or unto Blessedness used*; and thus one *offers hand to the other*, and no *opposition* is found between these two Receptions, but much more **a lovely correspondence** of the same.
+
+— ❦ —
+
+## Question 36. Do then the **Unworthy** also receive the Body and Blood of Christ in the Supper with Bread and Wine?
+
+**Do then the Unworthy also receive the Body and Blood of Christ in the Supper with Bread and Wine?**
+
+**Yes, they receive it. And such is proved from this**:
+
+**First**, that Christ has not instituted a *bare Reception of the sanctified Bread and Wine*, as also the Elements are scarcely a *piece* of the Sacrament, and not the whole Sacrament.
+
+**2.** That he has with no word said: *"Whoso receives worthily shall receive the whole Sacrament according to its Substance; whoso, however, receives unworthily shall receive only the bare Signs, and thus scarcely the half Sacrament."*
+
+**3.** So has *Christ himself in the first Supper given his betrayer Judas the whole Sacrament*, according to his own words, and *not only the bare Signs*. Nor does he say: *"Thou, Judas, receivest only the sanctified Signs, because thou goest thereto unworthy."*
+
+**4.** The Apostle Paul also has taught **the Reception of the Unworthy** with clear words — **1 Cor. 11:27–29** — where he says: *"Those who eat unworthily shall be *guilty of the Body and Blood of the LORD*."* And this therefore, that they *unworthily eat of the Bread of which Christ himself speaks*: *"Take and eat; this is my Body, which is given for you."* Wherefore else should the Apostle also accuse the Unworthy — that through the eating and drinking they *became guilty of the Body and Blood of Christ* — if they had not truly received the same with Bread and Wine?
+
+As he then also does not say that it comes to pass therefore, that they *distinguish not the Bread*, but that they *distinguish not the Body of the LORD*. For *not to distinguish* means here: *not to distinguish the Body of the LORD from other common food*.
+
+And thus **Augustine, *Tractat. 62 in Ioh.***, also explains Paul's words: ***Recordamini sic scriptum: Quicunque manducaverit panem, aut biberit calicem Domini indignè, reus erit corporis et sanguinis Domini. Et de his sermo erat, cum Apostolus diceret: Qui Domini corpus, velut alium quemlibet cibum, indistinctè negligenterque sumebant. Hic ergò, si corripitur, qui non iudicat, id est, non discernit à cœteris cibis Dominicum corpus, quomodo non damnatur, qui ad eius mensam, fingens amicum, accedit inimicus?*** — *"Remember, it is thus written: 'Whoso eats unworthily of this Bread, and drinks from the Cup of the LORD, shall be guilty of the Body and Blood of the LORD.' And the Apostle spoke of those who took the Body of the LORD indistinctly and negligently, as any other food. If now he is punished who *distinguishes not* the Body of the LORD from other food, how shall he not be damned who *comes to his Table as a Feigning Friend, though he be an Enemy*?"*
+
+— ❦ —
+
+## Question 37. Has the old Right-believing Church also so taught concerning the *Reception of the Unworthy*?
+
+**Has the old Right-believing Church also so taught concerning the Reception of the Unworthy?**
+
+**Yes, she has so taught** — as the following witnesses clearly show:
+
+- **Augustine, *Lib. 5 Contra Donatistas, cap. 8***: ***Sicut Iudas, cui buccella tradidit Dominus, non malum accipiendo, sed malè accipiendo, locum in se Diabolo praebuit: Sic indignè quisque sumens Dominicum Sacramentum, non efficit, ut quia ipse malus est, malum sit, aut quia non ad salutem accipit, nihil acceperit. Corpus enim Domini, et sanguis Domini, nihilominus etiam erat illis, quibus dicebat Apostolus: Qui manducat indignè, iudicium sibi manducat, et bibit.*** — *"As Judas, to whom the LORD gave the sop, did not receive anything evil, but gave place to Satan in himself by receiving evilly — so whoso takes the LORD's Sacrament unworthily makes it not (because he is evil) that the Sacrament also is evil, or (because he receives it not unto Blessedness) that he has therefore received nothing. For it was the LORD's Body and the LORD's Blood *nonetheless* also to those to whom the Apostle said: 'He who eats and drinks unworthily eats and drinks Judgement to himself.'"*
+- **Contra Fulgentium Donatistam, Tom. 7, pag. 645**: ***Sicut qui manducat et bibit sanguinem Domini indignè, iudicium sibi manducat et bibit: Sic et qui accipit indignè Baptisma, iudicium accipit non salutem. Nam ut Iudas proditor bonum corpus, et Simon Magus bonum Baptisma Christi percepit, sed quia bono non benè usi sunt, mali malè utendo deleti sunt.*** — *"As he who eats and drinks the Blood of the LORD unworthily eats and drinks Judgement to himself, so also whoso receives Baptism unworthily receives Judgement, not Blessedness. For as *Judas the betrayer received the good Body of the LORD*, and *Simon Magus received the good Baptism of Christ* — because they used not the good well, they, being evil, through evil use perished."*
+- **Cyprian, *Sermone de lapsis***: ***Quòd non statim Domini corpus inquinatis manibus accipiat, aut ore polluto sanguinem Domini bibat, sacerdotibus sacrilegus irascitur.*** — *"The Church-robber becomes wrathful with the Priest because he cannot at once receive the LORD's Body with his unclean Hands, or drink the Blood of the LORD with his unclean Mouth."*
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues (patristic testimonies + close). Translation continues in Rebuild-Tranche 31.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
