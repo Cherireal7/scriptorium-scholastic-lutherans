@@ -3144,9 +3144,265 @@ The *Human Nature* also has *her own subsistent Being*. But *Original Sin, not* 
 
 **Man's Body** is also not *itself the Sin*. For **Rom. 6** the Apostle says: *the Sin is in our mortal Body*. So also she cannot be Man's *Soul* — for that is *a spiritual reasonable Creature which dies not* — but that cannot be said of Original Sin, etc.
 
+If also the corrupted Nature itself should be the Sin, and the Sin itself, however, comes not from God — so it must follow that **the Devil, from whom the Sin comes, would be the Creator of the corrupted Nature** — which is also horrible to hear, etc.
+
+In Sum: the *corrupted Nature in the Believing shall be made blessed*, but the *Sin not*. Wherefore must Nature and Sin be distinguished, etc.
+
 — ❦ —
 
-*[Chapter XIV continues with more distinctions between Nature and Sin, closing into Chapter XV Von der wircklichen Sünde. Translation continues in Rebuild-Tranche 13.]*
+## Objections concerning Original Sin.
+
+### Objection.
+
+**What is *not conformable* to God's Law, or contrary to the same, that is Sin.**
+
+**The whole Human Nature is not conformable, or contrary, to God's Law.**
+
+**Ergo: So is she the Sin itself, etc.**
+
+**Answer.** What is *simpliciter* — that is, of itself and by itself — *not conformable* to God's Law, that is Sin. But the *corrupted Nature* is not contrary or unconformable to God's Law *of and by herself*, but *on account of the cleaving-on or dwelling-in Corruption* wherewith she is defiled.
+
+The Nature — insofar as she is a Nature — is God's work, but is unconformable to God's Law *not insofar as she is a Nature*, but *insofar as she is through and through corrupted by Sin*.
+
+Wherefore she is *not the Sin itself*, though she be unconformable to God's Law — but rather is *sinful* or *corrupted*, *unclean*, and *rejected*, so long as she is not helped through Christ.
+
+So this Argument holds not — because Sin and Nature are not one, and Nature is not contrary to God's Law *of or by herself*, but ***per accidens***, that is, on account of the Sin wherewith she is corrupted.
+
+### Second Objection.
+
+**Original Sin is thereby diminished, if one says that she is not the corrupted Nature itself, but an evil accident upon the same?**
+
+**Answer. By no means.** If one said that Original Sin were *a slight, small accident*, which could easily be done away with, then this Objection would have a *seeming*.
+
+Now we teach, however, that Original Sin is such a *heavy, great, and horrible harm*, that it cannot be *counter-worked*, save alone through the **Death and Blood of the Son of God Jesus Christ**. From which is to be understood that we *in no least measure diminish* Original Sin.
+
+### Objection.
+
+**If Original Sin were an evil accident, then Christ must have died for such an accident, or *pro accidente*. But he died not for an *accidens* or accident, but for the corrupted Nature. Wherefore Original Sin cannot be an *accidens* or evil accident?**
+
+**We answer to the other proposition or *Minor***: that Christ has both suffered Death for **Original Sin** (which is an evil *accidens* or accident), and then also for the **corrupted Nature itself**, that he might rescue the same from Original Sin and other Sins.
+
+For because Human Nature is *defiled with the evil accident*, the Son of God has willed to suffer and die for her — that he might *release* her from such evil accident, *cleanse* her, and *endow* her with eternal Joy and Blessedness. For he indeed appeared to *rescue the corrupted Nature* and make eternally blessed; but the Sin *to do away with from Nature*, and (as the Prophet **Micah 7:19** says) to *cast into the Depth of the Sea*.
+
+— ❦ —
+
+# XV.
+
+# Of Actual Sin.
+
+## Question 1. What is Actual Sin?
+
+**What is Actual Sin?**
+
+**They are all Fruits of Original Sin** — that is, all inward and outward Sins, evil Inclinations, Word and Work against the Ten Commandments. Here belong the sayings — **Gen. 6:5**: *"All imagining."* Item **Matt. 7:17**: *"An evil Tree brings evil Fruits."* Item **Matt. 15:19**: *"Out of the Heart come evil Thoughts."* Item **Gal. 5:19**: *"Manifest are the Works of the Flesh,"* etc.
+
+Man's Heart is the **well and fountain** wherein stick the right *Chief-Sins* — namely, false worship of God, contempt of God, unbelief, disobedience, evil Lusts, and *striving against* God's Command.
+
+And in short — what St. Paul **Rom. 8:7** calls "*being carnally minded*," and gives it the title and praise that *it is enmity against God*, and *cannot be subject to the Law of God*. That is **the stem and root of all other Sins**, and even the *pitiful Original Damage* from Adam in Paradise — that if she were not, there would nevermore any *Theft, Murder, Adultery* come to pass.
+
+— ❦ —
+
+## Question 2. How are Actual Sins divided?
+
+**How are Actual Sins divided?**
+
+**Into inward and outward Sins.**
+
+**Inward Sins** are called the **evil Lusts and Desires**. Item — *Unbelief, Security, Pride, and the like*.
+
+**Outward** — which are committed with outward Works and Deeds — as **open blasphemy of God, cursing, swearing, murder, adultery, fornication, drunkenness, and the like**.
+
+— ❦ —
+
+## Question 3. Whence come these Sins?
+
+**Whence come these Sins?**
+
+**To answer in general**, they are Fruits of Original Sin — **Matt. 15:19**: *"Out of the Heart come evil Thoughts."* — **Gal. 5:19**, Paul says: *they are Works of the Flesh*. For the *corrupted Flesh, or the corrupted Nature*, keeps no holiday, but *ever goes on* to imagine and do Evil, if she is not *held back by God*. An *evil Tree can bring naught but evil Fruits*.
+
+**Augustine, in his *Enchiridion*, sets four Causes of Actual Sin**: *Ignorance, the Lust-plague, Pain, and Delight*.
+
+**Eph. 2:2–3** — The Apostle sums up the Causes in the following words, where he says: *"In which Sins ye have formerly walked, after the course of this World, and after the Prince who ruleth in the air — namely, after the Spirit which at this time has his Work in the Children of Unbelief, among whom we all also have formerly had our conversation, in the Lusts of our Flesh, and did the Will of the Flesh and of Reason."*
+
+— ❦ —
+
+## Question 4. How do the Actual Sins rise up in us, and how do they go on and forward?
+
+**How do the Actual Sins rise up in us, and how do they go on and forward?**
+
+**James 1:14–15** stands, where he writes: *"Every man is tempted, when he is drawn out and enticed of his own Lust; thereafter, when Lust hath conceived, she beareth Sin."*
+
+**In Sum**: **First**, there arises in our Heart *an evil Thought*, of this or that Lust or Matter.
+
+**Thereafter**, the Heart *wins a special Desire thereto*, and lets it *well please him*. As is seen in Eve — **Gen. 3** — with the forbidden Apple, etc.
+
+**Afterward** comes the **Consent** thereto — that Heart and Will of Man fall thither, and *seek Occasion to bring such Sin into Work*.
+
+But *although* the Heart at times (as specially with Believing Christians happens) *resists* — it is nevertheless yet Sin; but it becomes so much the *heavier* when the *Deed* comes thereto.
+
+— ❦ —
+
+## Question 5. Can then the Unregenerate not defend themselves from such Matters?
+
+**Can then the Unregenerate not defend themselves from such Matters?**
+
+**Yes, in some measure — specially in outward Sins.** For also an Unbeliever, when a thought falls in him to kill his Neighbour, can *at the beginning in some measure* defend himself. But it goes on *heavily*, on account of the *inborn Weakness*, and the *Tyranny of the Devil*, who is mighty in the Children of Unbelief — **Eph. 2:2**.
+
+— ❦ —
+
+## Question 6. Can the true Christians and Regenerate keep themselves therefrom?
+
+**Can the true Christians and Regenerate keep themselves therefrom?**
+
+**Yes indeed.** For they have received **the First-Fruits of the Holy Spirit**, and can *through the Holy Spirit* **mortify the deeds of the Flesh** — **Rom. 8:13** — and *crucify* the evil Lusts — **Gal. 5:24** — and *quench* them, that they bring them not into Work. As such **St. Paul's example, Rom. 7**, where he laments over the Sin dwelling in his Flesh, witnesses. For he has *resisted the same through the Power and Assistance of the Holy Spirit, in Faith on Christ*, and *has not walked after the evil Lusts*.
+
+— ❦ —
+
+## Question 7. How, however, shall a Christian bear himself when he feels that the evil Lusts stir themselves in the Heart?
+
+**How, however, shall a Christian bear himself when he feels that the evil Lusts stir themselves in the Heart?**
+
+**First**: he shall *not follow* such inclinations or give them room, but *earnestly resist*.
+
+**2.** He shall *heartily pray* for the **Assistance of the Holy Spirit** — to crucify and mortify such Lusts. **Ps. 51:10–12**: *"Create in me, O God, a clean Heart, and give me a new certain Spirit. Cast me not away from thy Presence, and take not thy Holy Spirit from me. Comfort me again with thy help, and let the joyful Spirit uphold me."*
+
+**3.** He shall *take in hand his Bible or Psalter*, and *diligently read and search therein*. For where one deals with it, Satan cannot so accomplish his Work in us, as he otherwise can and is able, when he finds us *outside the meditation of God's Word*.
+
+**4.** He shall *diligently go to Church, hear God's Word*, and *use the Holy Supper* — for thereby also is he *led away from evil Thoughts*.
+
+**5.** He shall *with God-fearing Christians* speak hereof. For **God-blessed conversation takes away many evil thoughts** — forasmuch as Christ himself has said, that *where two or three are gathered in his Name*, he will be *in the midst among them* — **Matt. 18:20**.
+
+— ❦ —
+
+## Question 8. In which Men, then, are such Sins found?
+
+**In which Men, then, are such Sins found?**
+
+**Answer. In all Men** — **Gen. 6:5; 8:21** — for *"The imagining of Man's Heart is evil from Youth up."* Such witnesses every Man's own *Experience*, as also Paul at **Rom. 7:23** complains: *"I see another Law in my members, that striveth against the Law in my mind."*
+
+— ❦ —
+
+## Question 9. What have Actual Sins for Kind in themselves?
+
+**What have Actual Sins for Kind in themselves?**
+
+**1.** They **please the corrupted Heart** well — **Gen. 3**: *"The Apple pleased Eve well, because it made wise,"* etc.
+
+**2.** They are *easily committed*, but *heavily again healed*. Cain slew his brother Abel *easily* to death; David *easily* broke the marriage. But how does it *afterward* go? Cain despairs quite in his Sins. David, though he is converted, *spins no silk thereby*.
+
+**3.** They make Man **deaf and dumb**, so that he hears not God's Word — even when he is thereby admonished — nevertheless *will not know and confess the Sin*. **Ps. 32:3**: *"When I would keep silence, my bones consumed away,"* etc.
+
+**4.** An Actual Sin *commonly draws more after itself*. As David — having *broken the marriage* — becomes also *a slayer*.
+
+Wherefore we shall *earnestly guard* ourselves therefrom, and *not consent*, but resist in God's Fear and Invocation of his Holy Name. **Ps. 119:133**: *"Let my Going be sure in thy Word, and let no Unrighteousness rule over me."*
+
+— ❦ —
+
+## Question 10. What do they bring for Fruits?
+
+**What do they bring for Fruits?**
+
+**God's Wrath and Disfavour** — **Rom. 1**. **An evil Conscience** — **Rom. 1**. **Wisdom 17**: *"That one is so despairing — his own Wickedness makes this, which convicts and damns him."*
+
+**Temporal and eternal Punishments** — for **the wages of Sin is Death** — **Rom. 6**. **Ps. 39:11**: *"Thou chastisest men for Sins' sake,"* etc.
+
+— ❦ —
+
+## Question 11. Whereto serves this Doctrine?
+
+**Whereto serves this Doctrine?**
+
+**That we may rightly know the corrupted Kind of our Nature**, *flee and avoid the evil Lusts*; **not diminish Sin** — with the Papists and others — and not ascribe *more* to the corrupted Nature than *she really has*.
+
+— ❦ —
+
+# XVI.
+
+# Of Ruling and Non-Ruling Sin.
+
+## Question 1. How is Sin further divided?
+
+**How is Sin further divided?**
+
+**Into Death or Ruling Sin**, and into **Sin or Weaknesses that yet remain in Believers** — which they shall *earnestly resist* — **Rom. 6, 7, 8**.
+
+— ❦ —
+
+## Question 2. What is then Deadly Sin?
+
+**What is then Deadly Sin?**
+
+**In general one calls Deadly Sin all Sin in the Unconverted and Unbelievers** — Original Sin and her Fruits or Actual Sin. For **whoso believes not on the Son of God, over him remains the Wrath of God** — **John 3:36**.
+
+But when one speaks of those who are *Christians and Believers*, there Deadly or Ruling Sins are called **when they let the Sin or evil Lusts have the reins**: they *bring them to work*, resist the evil Desires no more, *crucify them not*, but *seek Occasion to accomplish the same*.
+
+Wherefore Paul calls it — **Rom. 6:12** — **Ruling Sin**: that is, where the evil Lusts *gain the upper hand*, so possess the Heart that it *has delight and pleasure therein* and *resists not the same*, but *gives full course*. As Cain, Saul, David have done. Hence they are also called **manifest Works of the Flesh**, where the Heart knows that it is doing wrong, and *does it nevertheless against the Witness of the Conscience* — **Gal. 5:19**.
+
+— ❦ —
+
+## Question 3. What, however, are called ***venialia peccata***, or Weaknesses in the Believing Christians?
+
+**What, however, are called *venialia peccata*, or Weaknesses in the Believing Christians?**
+
+**All the remaining Defects and Lacks in the Believing**, which *daily* still stir themselves in the Heart or Flesh — as **Unbelief, Security, Impatience, evil sudden thoughts, and the like** — which, however, the Believers **resist, crucify, and mortify**, and *for ever and ever* pray for the Forgiveness of the same through Christ. **Rom. 8:1, 4**: *"Who walk not after the Flesh, but after the Spirit."* Item: *those who mortify the deeds of the Flesh through the Spirit* — who pray for their Sins — **Ps. 32:6**: *"For this shall all the Saints pray to thee."* And in Sum: those who *terrify at such stiff-neckedness* and *steadily hold on for the Ruling of the Holy Spirit* — **Ps. 51:11**: *"Cast me not away from thy Presence, and take not thy Holy Spirit from me."*
+
+— ❦ —
+
+## Question 4. What is then the distinction between Deadly Sin and the Weaknesses that yet remain in the Believing?
+
+**What is then the distinction between Deadly Sin and the Weaknesses that yet remain in the Believing?**
+
+**In Baptism all Sins are forgiven**; but the *Old Adam* or the *sinful kind* is not at once wholly blotted out. Wherefore the Believing must *strive thereagainst* as long as they live; and such Lusts and Desires are *in themselves damnable*, if they were not forgiven for Christ's sake.
+
+Thus they become **Deadly Sin or Ruling Sin** when a Christian *strives not against the evil Lusts*, but *follows the Desires*, and lets the *Sin rule in his mortal body*, *does the Sin with the Deed* — **Gal. 5**; *seeks Occasion* to accomplish the Sin; *ceases to have Rue and Sorrow* over Sin; fears no more before God's Wrath and Punishments; prays also no more for the Forgiveness of Sins and the Ruling of the Holy Spirit. As is to be seen in David's Example, who not alone *feels* the evil Lusts, but also *takes hold on the Deed*, with Adultery and Murder — *resists no more*, but *follows* — in like manner as also Cain, Saul, and Judas have done.
+
+But in this manner the Sin remains in the *baptised, believing, and penitent* Christians only as **Weakness** — and lets herself be *ruled and quenched*, damns them also not — **Rom. 8:1** — although she stir herself, provided that they *earnestly resist the same*, hold such evil Lusts *for Sin*, pray *without ceasing* through Christ for Forgiveness of the same, and let it be their *concern* — that they let *not the said Lusts and Desires rule in their mortal bodies*, but *crucify them* — **Rom. 6; Gal. 6**.
+
+Wherefore shalt thou know that Sins are not so forgiven that thou shouldst therefore be *secure and snore*, as though thou hadst now *no more Sin* — or that thou mightest say: *"Ey, now will I comforted sin,"* — but that thou *hereafter give thyself not to follow them*, but *rather crucify and mortify them*, as Paul and other Believing after their Conversion to God have done.
+
+— ❦ —
+
+## Question 5. Do those in whom Sin rules yet nevertheless *have and keep* true Faith in Christ?
+
+**Do those in whom Sin rules yet nevertheless *have and keep* true Faith in Christ?**
+
+**By no means.** There are indeed *some sectaries* who hold that all who *once* received the Holy Spirit or Forgiveness of Sins, or became Believers — even if the same thereafter *sin*, remain nevertheless in Faith, and such Sin harms them not — and they cry out: *"Do what thou wilt; if thou believest, then it is all nothing — Faith blots out all Sin."* They say thereto: if any *after Faith and Spirit* sins, then he had *never rightly* had Spirit and Faith. **Such senseless men are to be found everywhere.**
+
+Wherefore it is needful *to know and teach*, that where the holy people — beyond what they *still have and feel* of Original Sin, and *daily do penance and strive* against — nevertheless fall into some *manifest Sin*, as David into Adultery, Murder, and Blasphemy — that *then Faith and Spirit have been away*. For the Holy Spirit *lets not Sin have sway* and *gain the upper hand*, that she be accomplished; but *steers and holds back*, that she must *not do what she wills*. If she does, however, what she wills, then Holy Spirit and Faith are not by. For as **St. John** says: **"Whoso is born of God sinneth not"** — **1 John 3:9** — and cannot sin. And yet is also the Truth (as the same St. John writes at **1 John 1:8**): *"If we say that we have no Sin, we lie, and God's Truth is not in us."* For the Regenerate *resist Sin*, *mortify the deeds of the Flesh through the Spirit*, and *defend themselves against the evil accidents* — but they *at times* also err out of Weakness, or *strive not for ever and ever so earnestly against the evil Lusts* as they should. Wherefore they *know and confess* that they are still *Sinners and unperfect before God's Judgement*, though they have begun a *new Obedience*.
+
+— ❦ —
+
+## Question 6. What does one teach in the Papacy hereof?
+
+**What does one teach in the Papacy hereof?**
+
+**They hold that evil Inclination is not Deadly Sin** — although *all Sin, Inclination, and Lust, or whatever it is, is in itself right Sin and damnable*, unless it be forgiven for Christ's sake to those to whom it is *grievous* and who *ask for Forgiveness*.
+
+Item, they give out that there are *only seven Deadly Sins* — as **Pride, Unchastity, Wrath, Hate, Gluttony, Drunkenness, Sloth**, etc. — yet the *right Chief Sins are*: **Ignorance of God, Contempt of God, Ingratitude, Murmuring against God, being contrary to God's Will, doing or thinking nothing but what Flesh and Blood likes**, etc.
+
+— ❦ —
+
+## Question 7. Do the Papists also do rightly, that they *deny* that after Baptism Sin remains in Christians?
+
+**Do the Papists also do rightly, that they deny that after Baptism Sin remains in Christians?**
+
+**By no means.** For **St. Paul, Rom. 7:23**, says *not*: *"I find a Fault in me"*, but says: *"I serve after the Flesh the Law of Sin."* Item: *"The Sin that dwells in me, that does the Evil."* And John says not: *"When we say we have no Fault"* — **1 John 1:8** — but *"When we say we have no Sin,"* etc.
+
+**What God's mouth calls Sin, we shall also call Sin, and not merely Fault or Defect.**
+
+It is *two things*: **Sin forgiven in Baptism**, and **a Sin being present**. After Baptism and Repentance all Sins are forgiven; but there is *nevertheless still Sin present until Death*, though she through the Forgiveness for Christ's sake *harms us not in Blessedness*, so long as we strive against her and *follow her not* — **Rom. 8:1**.
+
+— ❦ —
+
+## Question 8. What is then the Strife and Combat of Sin and Faith in the upright Christians?
+
+**What is then the Strife and Combat of Sin and Faith in the upright Christians?**
+
+**The Apostle Gal. 5:17** describes it clearly — the *Strife of the Flesh and Spirit*, which all Believers feel in themselves. For every Christian feels that his *Flesh strives against the Holy Spirit* — so that though he *gladly* would be *upright and pious*...
+
+— ❦ —
+
+*[Chapter XVI continues on Ruling vs Non-Ruling Sin, closing into Chapter XVII Von der Sünde in den Heiligen Geist. Translation continues in Rebuild-Tranche 13.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
