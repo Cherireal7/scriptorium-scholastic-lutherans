@@ -5589,16 +5589,189 @@ papatus_sinistre_procedit_ex_temporalium:
     Reformation-Lutheran ecclesiological argument connecting papal
     doctrinal corruption to papal temporal-usurpation.
 
+# ─── Tranche 2nn — 964 Synod signatories close + Henry Token Rapularius +
+# Investiture Controversy (1111 Paschal-Henry V) + Sleidan Gallican Pragmatic
+# Sanction + Antiquae agendae + Hincmar to Charles the Bald (vl0231-vl0238)
+
+henricus_token_rapularius_magdeburgen:
+  english: Henry Token canon of Magdeburg Rapularius as Flacius's manuscript-source
+  type: reference
+  first_use: "flacius-catalogus-testium-1556, body — post-964 Synod signatures at vl0231"
+  note: >
+    Henricus Toke c. 1390-1454 Erfurt-educated theologian, canon of
+    Magdeburg from 1428, prominent late-medieval North German reformist.
+    His RAPULARIUS (Sylva locorum communium "Forest of Common-places")
+    preserves diverse reformist material including Theodoric of Niem
+    transcriptions. Survives in several manuscripts Berlin + Stuttgart
+    + Weimar. Kleineidam Universitas Studii Erfordensis Leipzig 1966.
+    Reformation-standard significance: MAGDEBURG-CANONICAL LINK between
+    10th-c Ottonian charters + Flacius's own Magdeburg Centuries project —
+    Henry Token's manuscripts literally on shelves at Magdeburg where
+    Flacius worked 1553-1557.
+
+gregorius_v_prima_papa_teutonica_996:
+  english: Pope Gregory V (996-999) — first Teutonic Pope of Otto III's kin
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0233"
+  note: >
+    Gregory V r. 3 May 996-18 Feb 999 born BRUNO OF CARINTHIA cousin of
+    Emperor Otto III r. 983-1002 = FIRST GERMAN-NATIONALITY POPE (though
+    there had been Frankish Popes earlier), installed by Otto III in 996
+    to consolidate Ottonian imperial-papal relations. Short pontificate.
+    Otto III replaced with SYLVESTER II r. 999-1003 (Gerbert of Aurillac).
+    Electors of the Empire "constituted in his time" = Theodoric of Niem's
+    projection back onto Ottonian period of later GOLDEN BULL OF 1356
+    Charles IV formally constituting College of Seven Electors (three
+    archbishops Mainz+Cologne+Trier + King of Bohemia + Count Palatine
+    + Duke of Saxony + Margrave of Brandenburg). Reformation-standard
+    Electoral College as key imperial-constitutional institution against
+    papal universalist claim. Schneidmüller Die Kaiser des Mittelalters
+    Munich 2006.
+
+henricus_v_paschalis_ii_1111_privilegium:
+  english: The 1111 Crisis (Paschal II captured by Henry V) + Lateran 1112 rescission
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — post-Theodoric of Niem at vl0233-vl0234"
+  note: >
+    One of most-dramatic episodes of Investiture Controversy. Henry V
+    r. 1105-1125 came to Rome for imperial coronation 12 February 1111.
+    Paschal II r. 1099-1118 proposed radical RENUNTIO-agreement: German
+    bishops surrender all imperial-regalia (imperial fiefs) in exchange
+    for Henry V surrendering INVESTITURE. This PONTE MAMMOLO agreement
+    signed but broke down when German bishops refused it in coronation
+    procession — riots at St Peter's — PASCHAL II AND THIRTEEN CARDINALS
+    CAPTURED BY HENRY V TROOPS held prisoner 61 days. 11 April 1111
+    Paschal forced to sign PRIVILEGIUM CONCORDATE granting Henry V
+    imperial-episcopal investiture with ring and staff = unprecedented
+    papal capitulation. After Henry left Rome April 1111 Paschal
+    convoked Lateran Synod March 1112 which DECLARED THE PRIVILEGIUM
+    EXTORTED UNDER DURESS ("PRAVILEGIUM" = "bad-privilege") and formally
+    RESCINDED despite Pope's OATH = Reformation-standard providential-
+    perfidy charge against papacy (Luther De captivitate Babylonica 1520
+    on papal oath-breaking + Melanchthon Tractatus §§21-27 on papal
+    fides). Hartmann Der Investiturstreit Munich 1993 + Blumenthal
+    The Investiture Controversy Philadelphia 1988.
+
+concordatum_wormaciense_1122:
+  english: Concordat of Worms 1122 (Calixtus II + Henry V)
+  type: reference
+  first_use: "flacius-catalogus-testium-1556, body — Investiture Controversy at vl0234"
+  note: >
+    Concordat of Worms 23 September 1122 = final settlement of German
+    Investiture Controversy between Calixtus II r. 1119-1124 and Henry V
+    r. 1105-1125: Emperor renounced SPIRITUAL INVESTITURE (with ring and
+    staff), retaining only LAY INVESTITURE with the sceptre; Pope conceded
+    FREE CANONICAL ELECTION but with imperial presence at contested
+    elections. Reformation-standard reading (Flacius via Theodoric of
+    Niem): papal VICTORY OVER imperial ecclesiastical governance of
+    Ottonian-Salian era. Tellenbach Church, State and Christian Society
+    at the Time of the Investiture Contest Oxford 1940.
+
+sleidanus_de_statu_religionis:
+  english: Johann Sleidan Commentarii de statu religionis (1555) = Reformation-standard historian
+  type: reference
+  first_use: "flacius-catalogus-testium-1556, body — Sleidan French Gallican liberties at vl0234"
+  note: >
+    Johann Sleidan (Johannes Sleidanus) 1506-1556 great German-Protestant
+    historian, secretary to Cardinal Jean du Bellay then to Schmalkaldic
+    League. Commentarii de statu religionis et reipublicae Carolo V.
+    Caesare Strasbourg 1555 = CLASSIC German-Reformation historical work
+    in 25 books covering 1517-1555. Standard Reformation-Lutheran source
+    for 16th-c history. Kess Johann Sleidan and the Protestant Vision
+    of History Aldershot 2008. Sleidan died 1556 = very year Flacius's
+    Catalogus was published, creating subtle Reformation-historiographical
+    coincidence.
+
+pragmatica_sanctio_bourges_1438:
+  english: Pragmatic Sanction of Bourges 1438 (Charles VII adopts Basel decrees)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sleidan Gallican at vl0235"
+  note: >
+    Pragmatic Sanction of Bourges 7 July 1438 = Charles VII of France
+    formally adopted the Basel Council decrees (against annates +
+    reservations + expectatives) as royal law. FOUNDING-DOCUMENT of
+    GALLICAN LIBERTIES, in force until Concordat of Bologna 1516.
+    Reformation-standard: Gallican-anti-Roman-fiscal precedent
+    anticipating Reformation ecclesiological demands. Preceded by
+    traditional "1265 Pragmatic Sanction of Saint Louis" (Louis IX
+    r. 1226-1270 legendary attribution now doubted per Petit-Dutaillis
+    The Feudal Monarchy in France and England London 1936; textual
+    tradition emerges only 1420s under Charles VII). Confirmed by
+    Council of Basel 1431-1449 Session XXXI (1436) prohibiting ANNATES
+    (first-year taxes on new benefices, exacted by papacy since Boniface
+    VIII c. 1302). Eugenius IV declared Basel void; Pius II 1461
+    solicited Louis XI via Cardinal Balue (Jean Balue c. 1421-1491
+    Bishop of Angers, Cardinal 1467, chief adviser to Louis XI,
+    imprisoned by Louis XI 1469-1480 for treasonous correspondence
+    with Charles the Bold). Parlement de Paris counseled with precedents
+    (Clovis + Charlemagne + Philip II + Louis IX + Philip IV + Louis X
+    Hutinus + John I) + economic argument DECIES CENTENA MILLIA
+    AUREORUM QUOTANNIS (1 million gold pieces annually from Gaul to
+    Rome). Stieber Pope Eugenius IV, the Council of Basel and the
+    Secular and Ecclesiastical Authorities in the Empire Leiden 1978.
+
+concordatum_bononiense_1516:
+  english: Concordat of Bologna 1516 (Francis I + Leo X replaces Pragmatic Sanction)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Sleidan Gallican at vl0237"
+  note: >
+    Concordat of Bologna 18 August 1516 between FRANCIS I r. 1515-1547
+    and LEO X r. 1513-1521 replacing Pragmatic Sanction of Bourges:
+    French king gained right to NOMINATE bishops and abbots (with
+    6-month papal-confirmation window); papacy gained restoration of
+    ANNATES and expectatives in France. Concluded after Francis I's
+    decisive victory at MARIGNANO 13-14 September 1515 securing Milan
+    (Insubria). Reformation-standard: papal-French royal COMPROMISE at
+    expense of Gallican liberties. Louis XII previous inimicities with
+    Julius II + Fifth Lateran Council 1512-1517. Knecht Renaissance
+    Warrior and Patron: The Reign of Francis I Cambridge 1994.
+
+antiquae_agendae_communio_sub_utraque:
+  english: Ancient Agendas prescribed communion under both kinds + healing anointing
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Antiquae agendae at vl0237"
+  note: >
+    Flacius's Reformation-standard proof from medieval Agendae (liturgical
+    service-books, also Ordo/Rituale/Manuale): (i) pre-15th-c sick-
+    visitation liturgies routinely mandated COMMUNION UNDER BOTH KINDS
+    for the laity before Council of Constance Session XIII 15 June 1415
+    decreed communion sub una specie normative; (ii) ancient anointing-
+    of-sick given BEFORE COMMUNION not in extremis + REPEATABLE during
+    same illness UNTIL RECOVERY = per James 5:14-16 HEALING RITE not
+    sacrament-of-death (Reformation-standard rejection of medieval
+    Extreme Unction formalized Council of Florence 1439 DH 1324; Luther
+    De captivitate Babylonica 1520 WA 6:497-573 §§34-38 on unctio extrema).
+
+episcopi_a_metropolitanis_confirmati_1497:
+  english: 1497 Pontificale Romanum preserves Metropolitan-confirmation of Bishops
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Antiquae agendae at vl0238"
+  note: >
+    Pontificale Romanum Rome Stephan Plannck 1497 = editio princeps of
+    printed Pontifical. Flacius's FORENSIC PROOF: the papal liturgical
+    book itself in its 1497 form preserves earlier ordo ordinationis
+    episcopi in which newly-consecrated bishop swears fidelity to his
+    METROPOLITAN not to Pope, and is confirmed by his Metropolitan not
+    by Pope (folios 24-42). Papal centralization thus exposed as
+    POST-1497 INNOVATION (Pontificale Romanum completely revised 1596
+    under Clement VIII precisely to eliminate this Metropolitan-precedence).
+    Reformation-standard: OLIM CETUPLO ANGUSTIOREM FUISSE PAPARUM
+    TYRANNIDEM QUAM NUNC SIT — the tyranny of Popes was once 100 times
+    narrower than now. Cross-reference Nicaea 325 canons 4/5/6
+    metropolitan governance + Sixth Council of Carthage 419 (already at
+    n42) rejecting Roman appellate jurisdiction. Dykmans Le Pontifical
+    romain Rome 1985.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Leo VIII 2nd Privilegium + 964 Roman
-# Synod signatories (vl0001-vl0230, 230 body pp + 32 paratexts ≈ 42.0% of
-# 1094-pp body). Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6
-# (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) +
-# 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) +
-# 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) +
-# 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) +
-# 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) +
-# 8 (T2hh) + 8 (T2ii) + 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) = 241.
+# FLACIUS 1556 — TRANCHE 2 through Antiquae agendae + Hincmar-Senlis opening
+# (vl0001-vl0238, 238 body pp + 32 paratexts ≈ 43.5% of 1094-pp body).
+# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
+# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
+# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
+# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
+# 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
+# + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
+# 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) = 250.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
