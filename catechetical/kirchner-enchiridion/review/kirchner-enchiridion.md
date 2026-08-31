@@ -11281,6 +11281,294 @@ He makes out of the Supper a **Heathenish Idolatrous Sacrifice-Mass** for the Li
 
 He teaches to *enclose the consecrated Host in the Sacrament-cabinet, to carry it about, and to worship it*; has also *instituted a special Feast, ***Corporis Christi***, of the Holy Body*, whereof *neither Christ nor the Apostles knew anything* — yea, which is *entirely against Christ's Ordinance*. He *forbids the Priests Marriage, and forbids certain Foods* — which **Paul, 1 Tim. 4:1–3**, openly names **Devil's Doctrine**. And what of the matter far more could with Truth be drawn from his and his own's Books and Writings.
 
+**In sum**: with the **Ebionites**, who were Heretics, he denies that **Faith alone in Christ makes blessed**. With the Heretic **Montanus**, he *ordains hypocritical seeming-Fasts*, and the like, whereof the Scripture *commanded nothing*. With the **Encratites, Tatianists**, and the *Devils themselves*, he **forbids the Marriage and certain Foods**. With the **Pelagians**, he ascribes to the *Powers of Free Will* more than the Holy Scripture *teaches and will have*. With the **Donatists**, he wills, with his adherents, to be *alone the right Catholic Church*, etc.
+
+**3.** He undertakes to *command the Angels in Heaven*, that they *shall lead the Souls out of Purgatory up to Heaven* — whereas *no one but God alone has to command the Angels*.
+
+**4.** That in his *Rights* he *freely and openly writes*: ***Si Papa*** — *"When the Pope leads even many thousand Souls with himself into Hell, yet no one shall speak to him therefore, and say: Why doest thou this?"*
+
+**5.** The same witnesses also the **Contempt of Worldly Authority**, which he *lets kiss his unclean, filthy, and stinking Feet*, etc. **2 Pet. 2:10** stands: *"There shall come false Prophets who nullify the Governments and blaspheme the Majesties."* Such is at the Pope and his own *all-too much fulfilled*.
+
+— ❦ —
+
+## Question 10. How comes it however that the *Antichrist* has been so *late recognised*?
+
+**How comes it however that the Antichrist has been so late recognised?**
+
+**Answer**: **He has indeed by many in time been recognised, and been withstood also.** But it was then not yet Time that he *openly should be recognised*. For at *that* Time he was first to be revealed — **2 Thess. 2:8** — when *God pleased to make him known to them*.
+
+— ❦ —
+
+## Question 11. How is he then *revealed*?
+
+**How is he then revealed?**
+
+**Through the Spirit of God's Mouth** — **2 Thess. 2:8** — that is, through **God's Word**, whose *right understanding God has in these last Times given again*, and *still wonderfully preserves against all poisonous Practices of the Pope, and pushes forward*.
+
+— ❦ —
+
+## Question 12. How long will such Kingdom last?
+
+**How long will such Kingdom last?**
+
+**Until the Last Day** — **2 Thess. 2:8**. **He shall make an end of him through the Appearance of his Coming.**
+
+— ❦ —
+
+## Question 13. How shall however *right Christians against the Papacy, as the Antichristian Kingdom, comport themselves*?
+
+**How shall however right Christians against the Papacy, as the Antichristian Kingdom, comport themselves?**
+
+**They shall go out from her** — **Rev. 18:4** — that they *become not partakers of her Plague*. Thus they go out from her:
+
+**First**, when they *reject her Doctrine as Devil's Doctrine in the Pieces wherein she teaches contrary to Christ and his Word*.
+
+**Second**, when they *confess themselves alone to Christ's Doctrine and Word*, hear the voice of *Christ their Shepherd*, and *not of the Pope at Rome*, and *follow* — **John 10:27**.
+
+**3.** When they *entirely abstain from all his invented Divine Services, Sacrifice-Masses*, and what more is.
+
+**4.** When they *let not themselves and theirs be consecrated or chrism'd by the Pope and his own*, for the sake of fat Prebends. For **Rev. 14:9–10** stands: *"If any worship the Beast and his Image, and take the Mark upon his Forehead or his Hand, he shall drink of the Wine of the Wrath of God,"* etc.
+
+**5.** When they *in the least, whether in Doctrine or Ceremonies, do not compare themselves with him* — unless he let *the whole Papacy beforehand fall*, and *accept the clear Truth of the Gospel throughout*.
+
+**6.** When they *do not let themselves be used for the Furtherance of the Pope and his Antichristian Being*, or *otherwise with Service-obligation make themselves acquainted with him*, to *lend Help*, either to *bring in or set up the fallen Papacy again*, or *on the contrary to damp down and blot out the Doctrine of the Gospel*.
+
+— ❦ —
+
+# XXXIX.
+
+# Of *Death*.
+
+## Question 1. What is *Death*?
+
+**What is Death?**
+
+**It is a Punishment of God laid upon Men for the sake of Sins** — through which the *human Nature is plagued* with *all manifold sorts of Weaknesses and Sicknesses*, and at last **Body and Soul** are *horribly torn from each other*; the *Body becomes the Worms' Food*, and *decays*. And that therefore: that God may *show his righteous Wrath*, and that Man, *through this bodily Death, be cast into eternal Damnation* — where he is not in this Life *through Faith in Christ reconciled with God*.
+
+— ❦ —
+
+## Question 2. How manifold is *Death*?
+
+**How manifold is Death?**
+
+**First**, there is a **natural Death**, where a Man *dies in the usual manner*; thereafter an **unnatural Death**, when someone is *otherwise horribly murdered or perishes*.
+
+Thereafter, a **timely Death**, when one *reaches a fitting age*; and an **untimely Death**, when one *dies just in the bloom*.
+
+Also there is the **Death of the Christians, and of the Godless**. The **Christians' Death is a soft Sleep, or Rest, or Entry into eternal Life** — **John 5:24**.
+
+The **Godless's Death** is a *horrible Departure* from this Life *into the Hellish Fire and eternal Damnation* — **Luke 16:22–23**.
+
+— ❦ —
+
+## Question 3. What is then the *Cause of Death*?
+
+**What is then the Cause of Death?**
+
+**Of this Philosophy or human Reason knows nothing.** **Galen** has written: ***Mortem esse innati caloris extinctionem*** — *"Death is when the natural Warmth in Man extinguishes."* That is well-reasonably spoken, but does not yet *attain the Truth of this matter*.
+
+**God's Word** speaks: **the chief Cause of Death and all Sicknesses is the *Fall of Adam*** — **Gen. 3** — and the **Sin**, in which Man is *conceived and born* — **Rom. 5, 6**: *"Death is the Wage of Sin."* **Psalm 90**: *"God has not so created Man that he should die."* The **Book of Wisdom, cap. 2**, reports: *"Through the Devil's envy is Death come into the World."* That is true, for he brought the *first Men to the Fall*.
+
+The **Actual Sins** also help at times thereto, that Death *comes so much the sooner* — **Psalm 39:11**: *"When thou chastisest one on account of Sin, so his Beauty is consumed like Moths. Alas how nothing at all are all Men!"* **1 Chron. 10:13**: stands that **Saul** died for the sake of his Sins.
+
+— ❦ —
+
+## Question 4. Which are the *Instruments of Death*?
+
+**Which are the Instruments of Death?**
+
+**Sirach 38** writes: *"From Sorrow comes Death."* Item: *"Many have eaten themselves to Death."*
+
+So are also Death's ***instrumenta*** all manner of **Sicknesses**, wherewith our Bodies are *weakened and worn out*.
+
+The **Pestilence** is also Death's Servant — **Psalm 91; 2 Sam. 24**. Likewise **Hunger and Dearth, Wars** — **Deut. 28**.
+
+**Sirach 40:9**: *"Murder, Blood, Strife, Sword, Misfortune, Hunger, Ruin, and Plague — all such is ordained against the Godless,"* etc.
+
+The **Devils** also do their part therein, when they *bring us into Sorrow, Need, and take our Life*.
+
+— ❦ —
+
+## Question 5. What dies in Man?
+
+**What dies in Man?**
+
+**The Body.** For the Soul cannot be killed — **Matt. 10:28**. **Gen. 3:19**: *"Thou art Earth, and shalt become Earth."* That is to be understood of the *Body*. And **Psalm 90:3**: *"Thou lettest the Children of Men die"* — understand *after the Body*, for the *Soul is immortal*.
+
+— ❦ —
+
+## Question 6. How is it then with *Death*?
+
+**How is it then with Death?**
+
+**It is in a Word to state, a Dissolution, or painful, wretched *Divorce* of the Soul and the Body.**
+
+And the Pains of Death witness that Man was **not created for such Misery**, but is *thus punished on account of Sins*.
+
+The **Soul** is then separated from the *Body*, and — *if the Man was Believing* — **is borne into Abraham's Bosom** (or rather, into **Christ's Bosom**) — **Luke 16:22** — or, as **Luke 23:43** stands, **brought into Paradise**. The **Book of Wisdom, cap. 3**, speaks: *"The Souls of the Righteous come into God's Hand."*
+
+The **Body** is laid into the *Earth*, decays, and becomes the *Worms' Food*. And indeed it is before Eyes, that **no other Creature's Body becomes so loathsome after Death as Man's Body** — for from it *Snakes and Vermin grow*.
+
+— ❦ —
+
+## Question 7. Must then all Men *die*?
+
+**Must then all Men die?**
+
+**Certainly.** **Psalm 90; Heb. 9:27**: *"To Man is appointed once to die."* **Gen. 3:19**: *"Thou shalt become Earth."* **1 Cor. 15:22**: *"In Adam they all die,"* etc. And indeed *daily Experience witnesses such*, so that it *needs no lengthy proof*.
+
+Yet **one dies before the other**, and the *Hour of Death is entirely uncertain* — wherefore also Men are *compared to a Shadow*. **Psalm 39:6–7**: *"They go about like a Shadow, and make themselves much vain Unrest; they gather, and know not who shall get it,"* etc.
+
+— ❦ —
+
+## Question 8. What are then the *Final Causes* of Death?
+
+**What are then the Final Causes of Death?**
+
+**First**, God lets his *Wrath through such Death be seen* — indicating that the *human Nature is corrupted*; for otherwise it *would not need to so wretchedly perish*. **Psalm 90:7**: *"That makes thy Wrath, that we so pass away."*
+
+**Second**, that other Men through such *sorrowful Spectacles may be admonished to Repentance*. ***Hodie mihi, cras tibi.*** — *"Today for me, tomorrow for thee."*
+
+**Third**, that they be *driven thereto to seek a Physician who can help against Death, and give the Life back* — **Matt. 11:28**.
+
+**Fourth**, that in the *right-believing*, through such Death, may be *awakened a longing after eternal Life* — **Rom. 7; Phil. 1**.
+
+— ❦ —
+
+## Question 9. Is then the *Philosophers'* Opinion right, who hold that Man, or Nature, is *so constituted that it must again pass away*?
+
+**Is then the Philosophers' Opinion right?**
+
+**No truly.** For Death is **not God's Work**, but *comes from Sin* — **Gen. 3; Rom. 6:23**.
+
+— ❦ —
+
+## Question 10. Is then the *Pelagians'* Opinion right, who give out that *Death is natural*, and Man *would have died even if he had not sinned*?
+
+**Is then the Pelagians' Opinion right?**
+
+**No.** For **God's Word directly reports the contrary**: *"On what Day thou eatest thereof, thou shalt of Death die"* — **Gen. 2:17**. As also the Apostle **Paul**, **Rom. 5:12**, speaks: *"Death is pressed through unto all Men, because all have sinned."* Item, **Rom. 6:23**: *"Death is the Wage of Sin."* Whereof it is clear that the **Pelagians' Opinion is false**.
+
+— ❦ —
+
+## Question 11. Is then their Opinion right, who hold that *Body and Soul die at the same time*?
+
+**Is then their Opinion right, who hold that Body and Soul die at the same time?**
+
+**By no means.** For **Matt. 10:28** plainly stands, that the *Soul is immortal*: **"The Soul they cannot kill."**
+
+— ❦ —
+
+## Question 12. How shall then a Man *prepare himself to Death*?
+
+**How shall then a Man prepare himself to Death?**
+
+**First**, that he *every Day consider*, he is *sickly and over-nightly*, as we Germans say. **Sirach 10:12**: *"Today King, tomorrow Dead."*
+
+**Second**, that he — to come the better to this *Consideration* — *ever hold before himself* that the *Death-hour is every Moment to be expected*. Item, *God's Judgment*, and the *eternal Damnation or Death at the Impenitent* — the *eternal Life however at the Believing*. When he *weighs such Pieces*, they will *drive him thereto, that he learn earnestly to prepare himself for the blessed Death-hour*.
+
+**Third**, that he may also *blessedly die*, he shall *in time learn to know Christ, the Prince of Life, and Lord of Death, in right Faith* — that he in him and through him *blessedly and well may die off*. **Phil. 1:21**: *"For Christ is our Life, and Dying is our Gain."*
+
+**Fourth**, **Repentance** shall no one *put off till the last Little-hour*, but in Time turn to God, ere the Way *runs out on him* — **Psalm 2:12**: *"That he perish not on the Way."*
+
+**Fifth**, everyone *shall and must also avoid the Sin and Evil*, whereby one *sticks oneself into the Jaws of eternal Death*.
+
+**Sixth**, it is also good that a Christian *use the Holy Supper*, and finally *forever and ever pray through Christ for a blessed Death-hour*. **Psalm 90:12**: *"LORD, teach us to consider that we must die, that we may become wise."*
+
+— ❦ —
+
+## Question 13. What has however *everyone in his last End most to consider*?
+
+**What has however everyone in his last End most to consider?**
+
+**Three things.**
+
+**First**, not the *Departure itself*, but foremost, and most of all — that **Jesus Christ delivers him from Death**. **Psalm 68:20**: *"We have a God who helps, and a LORD LORD who can save from Death."* **John 11:25–26**: *"I am the Resurrection and the Life. Whoever believes on me shall live, though he die; and whoever lives, and believes on me, shall nevermore die."*
+
+**Second**, the *Comfort-rich Promises of the Gospel* — of *gracious Forgiveness of Sins, and gift of eternal Life, through Christ*. **John 3:16**: *"God so loved the World, that he gave his Only-begotten Son."*
+
+**Third**, *what he in that World shall find in Christ Jesus* — namely, **eternal Joy, eternal Life, eternal Rest, eternal Salvation, eternal Fellowship with God himself, the dear Angels, and all Saints**. **2 Tim. 4:8**: *"To me is laid up the Crown of Righteousness, which the LORD, that righteous Judge, will give me at that Day; not to me alone, but also to all who have loved his Appearance."*
+
+**Cyprian, *De Mortalitate***: ***Mihi vivere Christus est, et mori lucrum, lucrum maximum, iam saeculi laqueis non teneri, iam nullis peccatis et vitiis carnis obnoxium fieri, exemptum pressuris angentibus, et venenatis Diaboli faucibus liberatum ad laetitiam salutis aeternae, Christo vocante, proficisci.*** — *"Christ is my Life, and Dying my Gain. Certainly it is a great Gain then no longer to be held captive by the Snares of this World, no longer to be subject to any Sin and Lusts of the Flesh, to be delivered from all Anguish and Trouble, freed from the poisonous Jaws of the Devil, and — at Christ's Call — to depart out of this Vale of Sorrow into the Joy of eternal Life."*
+
+— ❦ —
+
+## Question 14. Is *Death* then a *Substance* or *Being*?
+
+**Is Death then a Substance or Being?**
+
+**No truly.** But it is a **wretched Destruction of Human Nature**, which *on account of Sin meets Man*.
+
+— ❦ —
+
+## Question 15. Is it then true that *the Dead are nothing at all*?
+
+**Is it then true that the Dead are nothing at all?**
+
+**Be that far.** For the *Soul in Man dies indeed not*, but *remains living*, though it is *separated from the Body* — **Matt. 10:28; Psalm 31; Wisd. 3; Acts 7**.
+
+As much as concerns the **Body**, it is indeed true that it *decays in the Earth*. But yet with this *understanding*: that it *shall at its time be again awakened out of the Earth*, and *united with the Soul*, and *then eternally live* — **1 Cor. 15; John 5, 6, 11**.
+
+Wherefore the **Dead are not nothing at all**, as it is elsewhere in ***Tusculanis*** of **Cicero** disputed.
+
+— ❦ —
+
+## Question 16. Wherefore then die the *right-believing Christians*?
+
+**Wherefore then die the right-believing Christians?**
+
+**Answer**: For the sake of the remaining Sin which *still dwells in the Flesh* — **Rom. 7, 8**. Yet with their Death has this the following Occasion: that they *through the same enter into eternal Life* — **John 5:24** — and *come not into Judgment*.
+
+Item, that they *what is still mortal in their Body, entirely and altogether lay aside* — **1 Cor. 15; 2 Cor. 5**.
+
+Item, that they *become conformed to the Image of the Son of God* — **Rom. 8:29**.
+
+And in Sum: that *everyone see* that there is a *Distinction between this and the future Life*, where there shall be **no Dying or Death at all** — **Hos. 13; Isa. 25**.
+
+— ❦ —
+
+## Question 17. How comes it that also the *Believing sometimes still shrink before Death*?
+
+**How comes it that also the Believing sometimes still shrink before Death?**
+
+**That makes the *Corruption* or *Sin* that still dwells in the Flesh** — **Rom. 7**. For thence comes it that also the right Christians *sometimes still shrink before Death*, since they are *not perfect* in this Life. Yet they shall *strive thereafter, that they overcome such Fear through Faith*.
+
+Hither belongs the beautiful little Saying of **Cyprian, *De Mortalitate***: ***Mori timeat, qui non Christi cruce et passione censetur: mori timeat, qui ad secundam mortem de hac morte transibit.*** *"Let him fear to die, whom Christ's Cross and Passion does not concern; let him fear to die, who through the temporal Death will come into the eternal Death."* And in the same: ***Si in Christum credimus, si dictis verbis et promissis eius habeamus, et non moriemur in aeternum, ad Christum, cum quo et victuri et regnaturi semper sumus, laeta securitate perveniamus. Quod interim morimur, ad immortalitatem morte transgredimur, nec potest vita aeterna succedere, nisi hinc contigerit exire: non est exitus, sed transitus, et temporali itinere decurso ad aeterna transgressus. Quis non ad meliora festinet? Quis non mutari et reformari ad Christi speciem, et ad caelestis gratiae dignitatem venire citius exoptet?*** — *"If we believe on Christ, and hold his Words and Promises for true, we shall not eternally die, but come — in cheerful assurance — to the LORD Christ, with whom we shall eternally live and reign. That we meanwhile die, is certain: we go through Death into Immortality. Eternal Life can also not follow, save that we first *depart from this World*. This Departure is also *not an Exit, but a *Passage*; and after the temporal *pilgrimage* of this Life is completed, an *Entry to eternal Life*. Who would not now hasten thither, where he has better to expect? Who would not have a hearty Longing to be transformed and made conformable to Christ, and to the Glory of the Heavenly Grace to come sooner?"*
+
+— ❦ —
+
+## Question 18. Is it also right to *weep for the Dead*?
+
+**Is it also right to weep for the Dead?**
+
+**The Scripture forbids it not.** Only that it wills, *a Measure should be held therein* — **1 Thess. 4:13**. For **we Christians have the certain Hope of the Resurrection of this Flesh, and of the eternal Life**.
+
+The **Heathen** have therefore *bewailed theirs more heavily* — for they *knew nothing of the Resurrection and eternal Life*. Christians *need this not*.
+
+Wherefore speaks **Chrysostom, *In Matthaeum***: ***Ego ideò gaudendum magis nobis censeo, quoniam corruptione corporis, mors ipsa corrumpitur, mortalitas destruitur: non substantia corporis. Nam ut quando aes funditur, ut inde statua conficitur, nullam aeris perditionem tunc esse dicimus, cùm ad meliorem usum traducatur. Similiter de corpore quoque tuo et tuorum futurum est.*** — *"I say that we have all the more to rejoice, when the Body dies. For through it Death itself is destroyed, and Mortality taken away, and not the Substance of the Body. For just as no one says, when out of the Ore an Image is cast, that such is a Ruin of the Ore, but everyone must confess it is a Bettering, since it is turned to a better use — so shalt thou know it also of thy Body, and thy Children's."*
+
+— ❦ —
+
+## Question 19. May one then help oneself out of this Life?
+
+**May one then help oneself out of this Life?**
+
+**No.** For God speaks: *"Thou shalt not kill"* — that is, *thou shalt not only not kill other People, but also not thyself*. **No one is a Lord of his Members**, but **God alone**. So has also God *set every one his Goal*, which one shall await. **Job** laments well over his great Pains, and *often wishes Death out of Impatience*, but yet does not *lay hands on himself*.
+
+— ❦ —
+
+## Question 20. What is then the *highest Comfort against the temporal Death*?
+
+**What is then the highest Comfort against the temporal Death?**
+
+**This**: that **Jesus Christ through his Death has destroyed Death**, and through his *joyful Resurrection has again brought eternal Life* — **1 Cor. 15**.
+
+**Second**, that he *bestows this his Victory upon all Believing out of Grace, that it be their own*. **John 11:25**: *"I am the Resurrection and the Life. Whoever believes on me shall live, though he die."*
+
+**Third**, that he *is with them in Death's Needs*, bestows on them a *blessed Death-hour*, and *tears them out of this Vale of Sorrows* — gives them also *a cheerful mind* thereto, that they *desire to be dissolved and to be with him* — **Phil. 1:23**.
+
+**Fourth**, that he *shall certainly awaken them out of Death*, and *make Body and Soul eternally Blessed and Glorious* — **John 5, 6; Job 19:25–27**: *"I know that my Redeemer lives, and he shall hereafter awaken me out of the Earth, and I shall thereafter be surrounded with my Skin, and in my Flesh shall I see God — the same shall I see for me, and my Eyes shall behold him, and no Stranger."*
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
