@@ -1454,8 +1454,190 @@ To the Minor we respond: although in the Person of Christ there is not the ***id
 
 ### Objection II. Of contraries the ratio is the same. The real distinction of properties and the real communication of properties are contraries. *Ergo* the ratio of both is the same. And consequently, as the real distinction of properties is nothing else than ***physical***, or (as **Damascene** speaks) ***essential*** — for the natures in Christ differ ***really, that is, essentially and physically*** — so also the real communication of majesty is nothing else than ***physical or essential***.
 
-**Respondeo**: **This argument labours under many vices,** which we shall unfold in the next tranche.
+**Respondeo**: **This argument labours under many vices.** For **first**, it proceeds from an ambiguous philosophical principle. For **contraries are not always straightway equally entire** — as is clear from the definition of contraries.
+
+Next, in the Minor there is manifest falsity. And primarily an equivocation occurs in the vocable ***real*** — which is interpreted far otherwise than we take it. For if the vocable ***real*** is used for that which is opposed to the ***fictitious and imaginary***, those two things do not fight among themselves — namely, ***real distinction of properties*** and ***real communication of properties***. For in the first part of the Minor, where the ***real distinction of properties*** is spoken of, the vocable ***real*** is taken for ***essential, physical, and natural***; and this wills that the properties of the two natures in Christ are essentially or naturally distinct among themselves — so that indeed the property of one nature never becomes an essential property of the other nature in eternity. But in the other part of the Minor, the vocable ***real*** does not signify the same as in the first, but (as has been said) is opposed to ***verbal communication*** — which substitutes for the things themselves inane titles of honour.
+
+The Sacramentarian allegory, following the Zwinglian tradition, leaves to Christ, according to the assumed nature, nothing but ***bare words of honour***.
 
 — ❦ —
 
-*[Locus III continues in Rebuild-Tranche 6 — remaining Objections + Second Genus of predications (genus apotelesmaticum, of the divine-human operations) + Third Genus (genus maiestaticum, of the communication of majesty to the assumed nature: vivific flesh, adorable flesh, session at the right hand of God, ubiquity).]*
+## Of the Second Genus
+
+### *In which the offices of the Mediator are treated.*
+
+**As therefore concerns the office of the Mediator Christ, the Person acts not in, with, through, or according to one nature only — but in, with, through, and according to *both natures*.** Or, as the ***Council of Chalcedon*** speaks: ***"One nature acts with the communion of the other, that which is proper to each."***
+
+## Question 40. Is Christ then, ***according to both natures***, our Mediator, Redeemer, King, and highest Priest?
+
+**Is Christ our Mediator, Redeemer, King, and Priest according to both natures?**
+
+**Most certainly.** For this cause the personal union of these two natures was made — that we might have such a Mediator and Lord who in one undivided Person is at once ***true God and true Man*** — as was set forth shortly before, in the causes why the Mediator ought to be God and Man.
+
+### Objection. Yet the Council of Chalcedon in the said rule seems to insinuate that the human nature of Christ, in the office and works of redemption, does no more than its natural properties permit — so that it has no communion with the operations proper to the Divinity. For thus sound the following words of the Canon: ***"The human nature succumbs to injuries; the divine coruscates with miracles."***
+
+**Respondeo**: **In this formula of speaking, it is considered and expounded that each nature according to its essential properties acts in the office of Mediator.** Meanwhile, however, this is by no means denied — that Christ's human nature, on account of and according to the personal union, and by reason of the exaltation, is truly enriched in the offices and benefices of the Mediator by divine operations. Whence also the flesh of Christ is called ***vivific flesh*** — **John 6**, and in the Council of Ephesus.
+
+## Question 41. Prove that Christ is our Mediator ***according to both natures***.
+
+**Prove Christ is our Mediator according to both natures.**
+
+**Acts 20:28** — *"That God has redeemed the Church through his own blood."*
+
+**Heb. 4:14** — *"We have a great High Priest that hath penetrated the heavens — Jesus the Son of God."*
+
+**2 Cor. 5:18–19** — *"All things are of God, who hath reconciled us to himself by Jesus Christ, since indeed God was in Christ reconciling the world to himself."*
+
+**Col. 1:19–20** — *"In him it hath pleased the Father that all the fulness should dwell, and through him to reconcile all things unto himself."*
+
+**1 Tim. 2:5–6** — *"There is one Mediator of God and men, the Man Christ Jesus, who gave himself a ransom for all."* These testimonies cannot be taken of the human nature alone.
+
+### Objection I. But those words of the Apostle (*"the Man Jesus Christ"*) show that Christ is Mediator only according to the humanity. *Ergo*, etc.
+
+**Respondeo**: **False is the interpretation.** For the Apostle uses a ***concrete*** vocable denoting the Person, to show that Christ is our Mediator ***not only according to the humanity, but also according to the divinity***. Which the remaining testimonies of Scripture that speak of the office of the Mediator most plainly witness. And no one will ever dare to deny this, unless he wills to make Christ's merit finite and imperfect, and our redemption and justification null. For if Christ is our Mediator, Redeemer, and Priest ***according to the humanity only***, what need was there for the Son of God to be incarnate and to sink down into our miseries? This mystery they overturn, whoever deny that Christ is our Mediator and Redeemer ***according to both natures***.
+
+Whence **Cyril writes, lib. 2, ad Reginam**: *"He would not have been made one ransom for all, if he had been simply man. But if he is understood as ***God incarnate***, and suffering in his own flesh — small is every creature toward Jesus, and one carnal death suffices for the redemption of the world. For it was proper to the Word born of God the Father."*
+
+To sum up: **Christ ***whole*** is our Mediator, since neither the ***λόγος*** alone, nor the flesh alone (or the human nature alone), but the ***Person, which is God and Man, according to both natures***, has reconciled us to God, and efficaciously bestows and applies to us the reconciliation once accomplished.**
+
+### Objection II. He who teaches that Christ is our Mediator ***also according to the divinity*** subjects the Son to the Father. Whence it seems to follow that he is not equal to the Father, but less than the Father even according to the divinity.
+
+**Respondeo**: **False is the inference.** The reason is manifest: that although Christ is and is called our Mediator ***also according to the divinity***, yet this does not pertain to his essence, but to the ***office*** — for the sake of which he assumed the human nature into the unity of Person, and by the hypostatic union made it proper to himself. Whence **Chrysostom, on the Apostle's words at Rom. 8**, writes: *"The intercession for us expresses not diminution, but only his love toward us."* And indeed nothing goes off from a king's majesty, even if by his own intercession he willingly and spontaneously reconciles a man condemned to a co-equal king. Just as also nothing subtracts from a prince's dignity if he expedites the will of a co-equal in some doubtful business. It was the Father's will that the Son should become Mediator and Reconciler of men — to which will the Son was made obedient. Nor yet does it hence follow that this obedience takes away the ***equality of essence, glory, and majesty*** of the Son.
+
+### Objection III. If Christ were Priest according to the divine nature, he would have offered ***himself to himself***. But no one offers to himself. *Ergo*.
+
+**Respondeo** is plain: **The office is of the Person.** This Person, which is at once God and Man, discharges the office of Mediator with the Divinity — according to the ineffable counsel of divine Majesty, which it pleased in this way, and not otherwise, to reconcile men to itself. In this counsel let us rest, nor let us curiously inquire into the arcana of Majesty. ***No inequality of glory, essence, or majesty*** follows thence — since intercession regards the ***destined office***, not the essence of the Son of God — according to which he is ***ὁμοούσιος*** with the Father, and remains in eternity.
+
+### Objection IV. No one is Mediator of himself. *Ergo* Christ according to the divinity is not Mediator.
+
+**Respondeo**: **This objection would be valid if it were understood in the same respect, and where there is only one Person.** But in the Divinity there are more Persons; the Son therefore, by reason or respect of the office, is Mediator and Priest between the Father and men, with whom God was rightly angry on account of sin.
+
+### Objection V. But **Augustine** says at **Ps. 103** that Christ is Mediator ***not because God, but because Man***. *Ergo*, etc.
+
+**Respondeo**: **But the same Augustine, in the book *De ovibus*, cap. 12, writes**: *"Whence [is he] Mediator of God and men, because God with the Father, because Man with men? Not Mediator, Man apart from the Deity; not Mediator, God apart from the humanity. Behold Mediator: Divinity without humanity is not mediatrix; but between divinity alone and humanity alone, the mediatrix is the ***human divinity and divine humanity of Christ***."*
+
+Wherefore, as concerns the words of Ps. 103, it is necessary that they be so understood — namely, that ***Christ is Mediator not because God bare, but because God-made-Man, nor apart from Man or the assumed human nature***.
+
+For as **Vigilius** writes: *"The office of Mediator, unless from the truth of the nature of the flesh which he had from us, he could not fulfil. For through it, between God and men he appeared as Mediator."* Yet it does not follow that he is ***Mediator according to the humanity only***, since on that very account it was necessary that in the Mediator two natures — divine and human — should be united; because ***neither the Word alone, nor the human nature alone, but the ***Word incarnate*** — was to reconcile us to the eternal Father, and could***.
+
+### Objection VI. But **Lombard** also denies that Christ is Mediator according to the divinity — **lib. 3, dist. 19**. *Ergo*, etc.
+
+**Respondeo**: **Human authority against the manifest Word of God avails nothing.** Nor is the corrupt sentence of the flesh to be heard or followed, where the ***Holy Spirit perspicuously shows*** what he wills to be taught and believed. The perspicuous Scripture-testimonies concerning the office of the Mediator according to ***both natures*** are those we alleged above; let us hear and follow these, caring nothing what Lombard or others out of their own brains dispute against them. Next, it is plain that Lombard's saying is ***insufficient*** — since he speaks only of the ***passion***, not of the ***victory***, not of the ***intercession*** which is before the Father, not of the ***perpetual conservation of the Church***.
+
+## Question 42. Are there in Christ ***two wills, actions, and operations*** — and ***ἐνέργειαι***?
+
+**Are there in Christ two wills, actions, and operations?**
+
+**Most certainly.** For the ***λόγος*** assumed a perfect human nature, consisting of a rational soul and body. It is not doubtful, therefore, that in him there are two wills, actions, and operations — namely, ***divine and human***. And that the human will is ***subject to the divine***. Rightly, therefore, did **Damascene** write of Christ's two wills: *"It is impossible that a nature should remain without its natural properties."* And Christ himself says at **Luke 22:42**: *"Not my will, but thine be done."* He therefore had, besides the divine, a human will also. And in miracles he used the human voice, touch, groaning — he also shed tears.
+
+### Objection of the ***Monothelites***. Where there is one work, there is one will and one action. In Christ there is one work — one redemption. *Ergo* also one will and one action.
+
+**Respondeo** to the Minor: **Although the ***ἀποτέλεσμα***, the redemption of the human race, is one, yet to the producing of this ἀποτέλεσμα concur the actions of ***both natures*** in Christ.** For ***one nature in Christ acts with the communion of the other***, etc. Whoso desires more on this arduous matter, let him read **Damascene, lib. 3, cap. 13, 14, 15**. The sum of the matter is: **In Christ there are two ***ἐνέργειαι*** or operations, but ***one ἐνέργημα or ἀποτέλεσμα*** — one ***θεανδρικὸν ἔργον*** — common to each nature**, as has been said.
+
+## Question 43. Does the ***assumed human nature*** cooperate in producing the offices of Messiah and the divine works?
+
+**Does the assumed human nature cooperate in producing the divine works?**
+
+**Respondeo**: **Altogether it does cooperate.** For hence the flesh of Christ is called and is ***vivific and vivifying*** — **John 6:63**. Redemption is indeed a divine work; but nevertheless in producing this work, the assumed human nature cooperated — just as in miracles and other divine works. And not only from its essential properties, but chiefly from that ***majesty*** which — beyond and above its natural properties and the hyperphysical created gifts — it received from the hypostatic union.
+
+This is most conveniently and plainly declared by the similitude of ***iron ignited***. For as in ignited iron not only the fire, but ***the iron itself***, on account of its union with the fire, burns — by that same power which is proper indeed to the fire and does not go outside its own subject, yet is communicated to the iron ***without conversion or equating*** — so the ***assumed human nature***, on account of the most close and intimate union with the Word — with the Word shining in the assumed human nature, and efficaciously operating with it and through it — ***cooperates in producing the divine works***. And it cooperates not only from its natural properties, but by that very ***power and majesty*** which is proper to the Word, and does not go outside its own subject — but is truly communicated to the assumed nature on account of the hypostatic union. Hence it is that **Damascene, lib. 3, cap. 17**, writes: *"The flesh of the Lord is enriched with divine ***energies***."*
+
+## Question 44. But what do the Adversaries think of this part of the doctrine?
+
+**What do the Adversaries think of this?**
+
+**Respondeo**: **They concede that in producing the work of redemption and vivification, ***each nature acts with the communion of the other, that which is proper***. But they deny that the ***proper operation of the Deity of the Word*** exerts itself through the assumed flesh, and that the assumed human nature is enriched with divine operations from the majesty of its glory ***beyond and above*** its essential properties and powers — cooperating in this way.** But by the words of Damascene shortly before cited they are manifestly refuted.
+
+### Objection I. Of those things whose ***ἐνέργειαι*** are the same, of those also is the same ***οὐσία***. *Ergo* if Christ's flesh cooperates in producing divine works, it will be of the same essence with God.
+
+**Respondeo** to the antecedent: **Of those things whose ***natural*** ἐνέργειαι are the same, of those is also the same essence.** But we do not teach ***one natural and essential*** operation of Christ's flesh and Deity. *Ergo* we do not attribute one essence to Christ's flesh and Deity. To each nature we ascribe its own proper operation. But we add moreover, from Scripture and the orthodox Fathers, that ***the flesh of Christ is enriched with divine operations*** — not because these operations, made of the flesh, are essential, but because the Deity of the Word, with its own operations, ***dwells hypostatically*** in the assumed flesh, and makes its own power and efficacy common to the flesh through the dispensation of this indwelling. Hence, just as in ignited iron the operation or the ***power of burning*** is one and the same — proper indeed to the fire, but communicated to the iron on account of the union — nor yet does it hence become one essence of iron and of fire: so in producing the work of vivification, the ***power of vivifying*** is one and the same — proper indeed to the Word, but communicated to the assumed flesh by reason of the union — nor yet does it follow that the Word and the assumed flesh are of one essence.
+
+### Objection II. If Christ's flesh is a cooperator of the Deity in all divine actions, it is carried up ***into the very throne of the Deity***. But it is not to be carried into the very throne of the Deity. *Ergo*, etc.
+
+**Respondeo**: **The Minor is false.** For ***the very right hand of God***, as **Gregory of Nyssa** speaks according to Scripture, ***"raised the assumed Man into its own altitude through the union."*** Whence also **Eusthathius** in **Theodoret** calls Christ's human nature ***σύνθρονος*** — con-throned — with the most divine Spirit. Rightly therefore this majesty is attributed to Christ's flesh.
+
+### Objection III. If Christ's flesh cooperated in divine actions, either the omnipotence of the Word would ***perpetually need cooperation***, or it would have bound itself by this law that ***by its own powers alone it could now do nothing***. But the omnipotence of the Word does not need cooperation, nor has it bound itself by this law. *Ergo*, etc.
+
+**Respondeo** to the Major: **The omnipotence of the Word does not on this account perpetually need cooperation, because it enriched the assumed flesh with divine actions.** For it does this ***according to its own good pleasure***, as **Athanasius** in **Dialogue 4** writes; nor is there need that on account of the ***enrichment*** of the assumed flesh (to which it made common the operations of its own majesty), it should bind itself by this law, that by its own powers alone it could accomplish nothing — since it made that enrichment with ***most willing will***, and ***most freely in the assumed flesh, with it and through it, accomplishes its divine operations***.
+
+### Objection IV. If the human nature is a cooperator in all divine actions, then in the Person of Christ the divine nature does not do what belongs to the Deity, nor does the human do what belongs to humanity — but the human alone does what belongs to Deity and humanity.
+
+**Respondeo**: **The matter is plain.** In the ***second degree*** of communication, it is taught what operation is proper to each nature — according to the rule: ***one nature acts with the communion of the other, that which is proper to each***. But in the ***third genus***, in which the communication of majesty is treated, at the same time it is taught concerning the ***participation of divine operations*** — not because the human nature alone works all things, but because ***one and the same Christ works all things***, and because the ***λόγος*** makes common, as with his own flesh, the operations of his divine majesty.
+
+### Objection V. To edit miracles is the work proper to the Divinity alone. *Ergo* it can in no wise be ascribed to the assumed humanity.
+
+**Respondeo**: **Miracles are rightly and deservedly ascribed to the divine nature.** For the ***virtue of editing miracles*** is an essential property of Divinity alone — **Ps. 86:10**: *"Thou art God alone, who doest wondrous things."*
+
+But since the whole plenitude of the Divinity in Christ — that is, in his flesh — dwells ***σωματικῶς*** (**Col. 2:9**), this divine virtue and power ***exerts itself in, with, and through the assumed human nature***. For to this very end has it been assumed by the ***λόγος*** into the unity of the Person, that the Divinity of the ***λόγος*** may in, with, and through it accomplish its operations.
+
+Hence **Athanasius, Dial. 5 De Trinitate**, writes: *"The ***λόγος*** united to the Man edits miracles and operates — not apart or separately from the assumed human nature; but by his own goodness it pleased him ***through the assumed humanity, in it and with it***, to exercise by acting his own divine potency."* Thus **Cyril, De Incarnatione Unigeniti, cap. 7**: *"He makes common, as with his own flesh, the operations of his divine majesty — that he might also vivify the dead,"* etc. Miracles therefore remain truly ***works proper to the Divinity***, although they are accomplished ***in, with, and through the assumed human nature***.
+
+### Objection VI. That which edits miracles is God. Christ's flesh edits miracles. *Ergo* it is God.
+
+**Respondeo** to the Major by distinction: **That which of itself and by the property of its nature edits miracles, this is God.** To the Minor: But Christ's flesh does not edit miracles ***of itself*** or by the property of its nature, but ***from elsewhere*** — that is, on account of the union with the Word, which accomplishes its divine operations ***in the flesh, with the flesh, and through the flesh***, according to its good pleasure. From the edition of miracles, therefore, it does not follow that Christ's flesh is God — just as it does not follow: ***"That which burns is fire. Ignited iron burns. Ergo it is fire."*** But as ignited iron burns on account of the union of fire and iron, so Christ's flesh edits miracles, because it is personally united to the vivifying Word.
+
+— ❦ —
+
+## Of the Third Genus
+
+### *Or, of the Communication of Majesty*
+
+**Third: Sacred Scripture not only says in general that Christ, according to his assumed human nature, received many and great gifts (whereby it surpasses immensely the gifts of all angels and blessed men), but ***in specie*** and expressly shows that to Christ, according to the human nature, or to Christ's human nature, has been given:**
+
+- ***All power in heaven and on earth*** — **Matt. 28:18**
+- The ***power of vivifying*** — **John 6:54**
+- The ***cultus of adoration*** — **John 9:38; Phil. 2:10**
+- The ***power of making judgement*** — **John 5:27**
+- The ***majesty of filling all things*** — **Eph. 1:23** and **Eph. 4:10**.
+
+### Objection. But it is not lawful to say that the divinity ***suffered and died***. How then would it be lawful to say that the humanity ***truly received such divine properties***?
+
+**Respondeo**: **In the earlier locution Scripture itself shows a distinguishing particle — 1 Pet. 3, 4** — that ***Christ suffered in the flesh***. But here she speaks otherwise; wherefore we also may rightly and safely with her so speak. Besides, there is here a very great difference. The divine nature is ***immune and exempt from all mutation***; it cannot suffer and die. But the human nature is ***mutable***, and can be ***humbled and exalted***; and it is of the divine nature to give and communicate majesty; of the human, to receive — just as also the divine nature exalts the human, but is not exalted by it.
+
+And to conclude: between these two formulas of speaking, there is a greatest difference — which abundantly is clear from this: that we rightly with Scripture say that ***Christ's flesh is vivific***, whereas it is not lawful to say that ***the divinity is passible or mortal***.
+
+## Question 45. Briefly and fundamentally explain to me: of what nature are the sayings of Scripture which speak of ***things given in time*** to be received and explained?
+
+**Of what nature are the sayings of things given in time?**
+
+**Not of the divine, but of the assumed human nature of Christ** — as the ancient orthodox Church always understood these sayings ***against the Arians***. All things, namely, which Scripture affirms were given to Christ ***in time***, are to be understood of the ***assumed human nature***, and not of the divine — as *for example* **Gregory of Nyssa, *Contra Eunomium***; **Athanasius** in **Theodoret**, etc. For to the divine nature — which from all eternity is all, and has all — nothing can be given in time. But to the human nature, which per se is humble, can be given; and truly ***also has been given*** — ***beyond and above*** the essential and natural properties, and ***beyond the created gifts*** which it habitually has in itself.
+
+Hither pertain the sayings **Matt. 28:18; John 5:27; Phil. 2:10** — alleged above. Item **John 3:35**: *"The Father loveth the Son, and hath given all things into his hand."* These let us diligently attend, and faithfully hold — that we may render Christ also, according to the assumed human nature, the due honour; and lest with the Adversaries we despoil him of the given, communicated, glory and majesty. For **Leo, Epistle 10**, treating the place **Eph. 1**, says: *"The Adversaries of truth wander when the omnipotent Father — according to which nature has he exalted the Son above all, or subjected all things to whose substance? For to the Deity, as Creator, all things were always subject. If to this were added power, if exalted sublimity, he would be lesser than the exalter; nor would his divinity have that nature by whose largesse it needed. But whoever thinks such things — Arius takes them into his own fellowship."*
+
+### Objection. But perhaps the words of Christ at **Matt. 28** are to be taken of a ***middle power***?
+
+**Respondeo**: **Christ at Matt. 28:18 says ***omnem potestatem*** — all power** — which at **Luke 22:69** is called the ***Virtue of God***. From this saying: *"Hereafter the Son of Man shall sit at the right hand of the Virtue of God."* But ***the Virtue of God is not middle or finite, but infinite power***. A mere fiction, therefore, is whatever the Adversaries trifle about ***middle power*** in the explication of the saying at **Matt. 28**.
+
+## Question 46. Is the divine glory and majesty, then, communicated to the assumed human nature in such a way that it becomes and is her ***essential property***?
+
+**Is the divine majesty communicated to the assumed nature as an essential property?**
+
+**By no means.** For in this fashion the Word or Son of God has and retains his majesty ***only in his essence, common with the Father and the Son*** (with whom he is of one and the same essence) — not, however, ***with the assumed human nature***, from which, according to essence, he differs. And if the divine majesty were communicated in this way to the human nature, it would truly be ***converted into the divinity***, which is false and erroneous. For we do not consent to the Eutychians or the Schwenckfeldians, who feign a ***conversion of the humanity into the divinity***.
+
+## Question 47. Is the communication of majesty then ***physical*** — as if the Son of God should have poured out his divinity or divine majesty outside himself into the assumed human nature, so that she should have it in herself ***formally***?
+
+**Is the communication of majesty physical?**
+
+**By no means.** For the Word or Son of God, or the divine nature, is ***immutable***, and does not so pour itself into any physical subject, as ***balsam or oil is poured from one vessel into another***. Just as also the Word or Son of God does not in the assumed human nature ***create any new majesty*** — separated and severed from his own divinity — or communicate that to her. For hence would follow a ***double divinity***, which would be false and blasphemous to say; and from this it would consequently follow that the human nature, according to the delirium of the Eutychians and Schwenckfeldians, ***would be converted into the divinity***. Besides, if it were taught that ***each nature*** in Christ has a distinct, proper, and separated divinity, the ***Nestorian division of Persons*** would also follow, and two Persons would be constituted in Christ — which likewise is false and by no means to be believed.
+
+## Question 48. How, therefore, is this communication of majesty to be named?
+
+**How is this communication of majesty to be named?**
+
+**Personal.** For ***from the personal union of the two natures in Christ, and from the exaltation of the assumed human nature***, Scripture affirms this ***divine glory and majesty to be communicated to the human nature***.
+
+### Objection. If the essential properties of the divine nature are really communicated to the assumed human nature, they will no longer be and remain the properties of the divine nature. For that which is proper to one, if it is communicated to another, does not remain that one's own.
+
+**Respondeo**: **If the divine majesty and omnipotence, the power of vivifying, and the like were so communicated to Christ's human nature that the human nature had them in herself, ***naturally***, no less than the divine nature — there would be no doubt that they would not remain properties of the divinity, since by such a reason they would also become essential properties of the human nature itself.**
+
+But perspicuously from and according to the Word of God we teach that these properties are ***perpetually and remain in the fourth mode*** the essential properties ***of the divinity alone***, and never become in eternity essential properties of the human nature. Wherefore we do not assign to ourselves such conversion or perversion.
+
+For when we speak of these matters, we extend them no further than to that ***communication which, through the personal union and the exaltation of the human nature to the right hand of God***, has been made (witnessing Scripture). Scripture says that ***the majesty has been given and communicated to the human nature*** — namely, ***all power in heaven and on earth***, the ***vivification***, the ***cultus of adoration***, and other things of this kind. In these pronouncements of Scripture we rest; and although the ***mode*** of the communication in this life we cannot sufficiently understand or explicate, yet we firmly believe the communication itself.
+
+The Fathers with the similitude of ***ignited iron*** have tried in some measure to explicate these great things. Although this similitude cannot fully explicate so great a mystery, yet in some measure it shows that ***such a communication can happen without conversion of the natures and of essential properties***. For as fire communicates to iron its properties of ***heating and burning*** without abolition of the nature of iron, so it is not necessary that the human nature be ***abolished or converted into the divinity***, although the divinity of the Word ***really communicates its majesty to the human nature*** — in it, with it, and through it, ***shines, acts, and accomplishes its truly divine operations***.
+
+And just as the ***soul*** communicates to its body its properties, and yet does not convert or change it into itself — so the divinity of the ***λόγος*** communicates its properties and majesty to its assumed humanity ***without any conversion***. For the human nature is perpetually and remains ***finite***; nor is it converted into the divinity, and is left ***far below the Creator***. Neither is it equated in the divinity's properties, but ***all power and virtue of vivifying*** is perpetually and remains the essential property ***of the divinity alone***.
+
+— ❦ —
+
+*[Locus III continues in Rebuild-Tranche 7 — closing questions on the session at the right hand of God + Christ's ubiquity + the state of exaltation in the assumed nature + closing recapitulation of the three genera.]*
