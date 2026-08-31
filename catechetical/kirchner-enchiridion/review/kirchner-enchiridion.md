@@ -8699,11 +8699,195 @@ Thus also *in our time* the Ordination is only to be sought with those with whom
 
 ### Ye have (they give out further) the ***Ius*** or Right *to call and ordain Preachers* — lost, in that ye have fallen away from the Roman Church?
 
-**Answer**: That is worth *proving from God's Word*, so far as concerns the Papists...
+**Answer**: That is worth *proving from God's Word*, so far as concerns the Papists.
+
+That we have fallen away from the Pope and gone out from his Roman Church, we have done *according to God's Command* — **1 Cor. 10:14** — which bids us **flee Idolatry**, as above in the ***locus de Ecclesia*** further set forth.
+
+Because also here beforehand it is deduced — if anything at all should be regarded upon the Succession — that one must look alone upon the **Succession of the Pure Doctrine** (which with the Papacy is not at all), why should we then have to seek Ordination with those with whom the Succession of Doctrine is not found pure?
+
+And what needs many words? They have never had such Right, nor can they show from the New Testament that it befits them; how should we then have *lost* it, in that we from them (as from the *Antichrist's heap and from the right Babylon*) went out?
+
+**This Right of Calling and Ordaining belongs alone to the Right Church, which has God's Word and Sacrament pure, as Christ himself instituted them.** These Pieces we have (God be praised) with us *pure*. Wherefore this Right belongs to our Churches before the Papists, who have these Pieces *not pure*.
+
+Because our people then, by virtue of the Example and Sayings in the Book of Acts and in the Epistles to Timothy and Titus set forth, deal with Calling and Ordination, and follow therein the Apostolic Doctrine and Church — there is no doubt that the Ordination with us is **right and pleasing to God**.
+
+### But ye must yourselves confess that your Church-Servants' Calling is an ***extraordinaria vocatio***. Because, however, no such ***vocationes*** have been, since the Ascension of Christ, or shall happen, etc., to reform the Church — so it cannot be right or good?
+
+**Answer**: The Papists must prove from Scripture that *no such ***extraordinariae vocationes***, for reformation or bettering of the deranged Church, occur or shall happen* — but that they can *nevermore* do.
+
+We, however, can witness the ***extraordinarias vocationes*** or Callings from the Scripture with the *Examples of all Prophets*, which God himself set against the *ordinary Succession of the Priests* in the Old Testament when they departed from the right Doctrine.
+
+Afterward, we ground ourselves upon **Paul's Prophecy — 2 Thess. 2:3**, that an *Apostasy* shall come in the Church, etc.; and that the LORD nevertheless, *through the Spirit of his mouth*, shall stem the same and *reveal and destroy* the wicked adversary. As also, God be praised, has come to pass through the **Revelation of the Antichrist and his Antichristian Kingdom or Papacy at Rome**, etc., and still daily goes into work.
+
+Item, upon the *Book of Revelation of John, chs. 11, 12, 14*, wherein plainly is indicated that the LORD, at the *Perversion of the Church*, shall raise up **Witnesses of the Truth** who shall *prophesy* (that is, preach) against the *destroyers of the Church*, and admonish the whole World to give God alone the Honour and to fear him, etc.
+
+### So must ye (they say) confirm the Calling of your Church-Servants with **Miracles** — otherwise one is not bound to let the same pass. Your people, however, have to this day done no Miracles. *Ergo*, etc.
+
+**Answer**: It cannot from God's Word be shown that all ***extraordinariae vocationes*** were confirmed or must be confirmed with *Miracles*. **Obadiah, Nahum**, and other Prophets are so called, but one reads not that their Calling was confirmed with Miracles. Likewise the New Testament plainly says — **John 10:41** — that **John the Baptist did no sign**. Should therefore his Calling not hold, or his Doctrine not be of worth? That be far.
+
+So Christ also commands — **Matt. 7:15–16** — where he speaks of the *signs* by which one shall prove the Doctrine — that one shall not look upon *Miracles*, but much more upon the **fruits, that is, upon the Doctrine — whether that agrees with Scripture or not**.
+
+Likewise **Moses — Deut. 13:1–3** — plainly says: **though a Prophet do signs or wonders, no one shall turn to them, but alone give heed whether he carries the Doctrine which God himself has revealed**.
+
+**St. Augustine, *De unitate Ecclesiae, cap. 16***, when the Donatists appealed to Miracles and would confirm from them their meaning of the Church, dismissed them straight and said: ***Remotis omnibus, Ecclesiam suam demonstrent, non in conciliis Episcoporum suorum, non in literis quorumlibet disputatorum, non in signis et prodigiis fallacibus: quia etiam contra ista, verbo Domini praeparati et cauti redditi sumus: sed in praescripto legis, in Prophetarum praedictis, in Psalmorum cantibus, in ipsius Pastoris vocibus, in Euangelistarum praedicationibus et laboribus, hoc est, in omnibus Canonicis sanctorum librorum autoritatibus.***
+
+That is: *"Setting aside all other things, let them prove their Church — not out of the councils of their Bishops, not out of the writings of this or that disputer, also not out of *deceitful signs or miracles* (for we are prepared and made cautious against those through God's Word), but out of that which stands written in the Law, out of what the Prophets prophesied, out of the Psalms, out of the voice of the Archbishop of the Church, Jesus Christ, out of the preachings and labours of the Evangelists — that is, out of all Books of the Holy Scripture."*
+
+Wherefore, though our Church-Servants have done no Miracles wherewith they confirm their Calling, yet the same is powerful — on account of the *pure Doctrine which they carry*, and also on account that they are, according to the Holy Spirit's Ordinance in the Epistles to Timothy and Titus, *called and ordained*.
+
+Yet it is not a *slight Miracle*, that God through **Luther's and others' writing-quills** has so stormed the Papacy, cleansed the Doctrine, and reformed the fallen Church — where at the same time the *Highest and Greatest in the Empire* set themselves with cunning and violence against the same.
+
+### Yes, they say further — though your first Teachers, as Luther and others, were *Priests*, yet they were **not Bishops**. *Ergo*, so they could not Ordain.
+
+**Answer**: This is easy to answer. For it is from God's Word manifest that **Bishops and Priests** (so far as they are Church-teachers) are *in deed and in truth one and the same*; and that, properly and according to Scripture to speak, **there is no distinction between a Priest or Elder and a Bishop**.
+
+For **Tit. 1:5–7**, Paul says: *"I left thee in Crete, that thou shouldst set in order what I have left, and appoint Elders (Presbyteri) in each place, as I have commanded thee, etc. Where any is blameless,"* etc. — *"For a Bishop shall be blameless."*
+
+So he addresses the *Elders* of the Congregation at Ephesus — **Acts 20:28** — and says: *"Take heed to yourselves and to the whole flock, over which the Holy Spirit has set you as **Bishops**, to feed the Congregation of God,"* etc.
+
+**Peter** himself also — **1 Pet. 5:1** — calls himself not a *Bishop*, but only a **fellow-Elder and Witness**.
+
+And **Phil. 1:1** — Paul greets *"all the Saints at Philippi, together with the Bishops and Deacons."*
+
+At **Eph. 4:11** Paul indeed treats of the Church-offices, enumerates and names also the **Pastors and Teachers**, but he makes no *high estate* of Bishops. Yea, he mentions also the name Bishop at that place only, so that *necessarily the Bishops are comprised under the name of Teachers* — which name is most nearly compared with the word *Elders*.
+
+Because now according to the Scripture, **Elder or Priest, and Bishop, are one and the same**, and there is no distinction between the same (save that afterward from *Human Ordinance* a distinction was made) — so could **Luther and other Teachers**, together with the *Church's Consent*, ordain just as well as if they had also had the name of Bishops.
+
+**Specially** because they have accomplished their ***ordinationes*** according to the Apostles' Doctrine and Example. Whence also **Jerome, on Tit. 1**, writes: ***Presbyter idem est, qui Episcopus*** — *"Elder is the same as Bishop."* Item: ***Episcopi noverint, se magis consuetudine, quam dispositionis Dominicae veritate Presbyteris esse maiores*** — *"Bishops shall know that they are more by *custom* than by the *true Ordinance of the LORD* set higher than the Elders."* Item, ***ad Euagoram***: ***Quòd postea unus electus est, qui ceteris praeponeretur, in schismatis remedium factum est*** — *"That afterwards one was chosen who was set before the others, is come to pass to avoid Division."*
 
 — ❦ —
 
-*[Chapter XXIX Vom Predigampt continues. Translation continues in Rebuild-Tranche 40.]*
+## Question 16. For what reasons is it *not to be permitted* that one at this present time seek the Ordination with the Papal Bishops?
+
+**For what reasons is it not to be permitted that one at this present time seek the Ordination with the Papal Bishops?**
+
+**Answer**: **First**, therefore: because the Pope, together with his Bishops, is neither the *true Church of God*, nor are they upright Teachers or Shepherds of the same. For they teach not God's Word, they administer not the Sacraments according to Christ's Institution — but are **Worldly Lords**, persecute the Gospel, and *kill the Right-believing* where they can come thereto.
+
+**Second**, that they bind the *Ordinands to Godless matters with an oath* — as to the *defence of all Idolatry of the Papacy*, to keep the Mass, and to the *vow of Chastity* — or to *refrain from marriage*, which Paul calls a **Devil's doctrine**. On account of these and other causes, one cannot with a good conscience seek Ordination with the Pope and his heap.
+
+— ❦ —
+
+## Question 17. Is the *Priest-consecration* a Sacrament?
+
+**Is the Priest-consecration a Sacrament?**
+
+**No.** It is *no Sacrament*, as the Papists fable. For it has *no Element*; so it has also *no Promise of Forgiveness of Sins*.
+
+— ❦ —
+
+## Question 18. What is then to be held of the Priest-Ordination?
+
+**What is then to be held of the Priest-Ordination?**
+
+**It is undeniable that Christ instituted no special Ceremonies to be used at the Priest-Ordination.** So too he consecrated the Apostles themselves with *no special Ceremonies*, as at **Matt. 4 and 5** is to be seen — where he only bids them *follow him*.
+
+**Acts 1** — one prays over the Choice of **Matthias** and casts the Lot — but there stands no command therewith that one at this time also should cast lots, etc.
+
+**Acts 6** — the seven Deacons are only with *Prayer and Laying-on of Hands* confirmed. But afterward under the Papacy many Ceremonies at the Ordination have been set up which have no ground in God's Word.
+
+Wherefore it is by far the best **to abide by the Apostolic Simplicity**, which we also in the Ordination of our Church-Servants follow — that one confirm them to the Preaching-Office with **Prayer and Laying-on of Hands**, when they have beforehand been diligently *examined* and *orderly chosen*. And thus is the Ordination also, **1 Tim. 4:14**, described: *"Let not out of use the Gift that is given thee through Prophecy, with laying-on of the Elders' hands."* And **2 Tim. 1:6**: *"For which cause I remind thee that thou stir up the Gift of God which is in thee, through the laying-on of my hands,"* etc.
+
+— ❦ —
+
+## Question 19. May one then also *depose* a Preacher, who is orderly called, when one will, and for whatever reasons one will?
+
+**May one then also depose a Preacher, who is orderly called, when one will, and for whatever reasons one will?**
+
+**By no means.** But *on account of false doctrine and evil offensive Life*. For a Church-Servant who *teaches rightly and leads a virtuous life* is worthy of **double honour** — **1 Tim. 5:17**. How should one then have Might so, *without lawful cause*, to *dismiss him*?
+
+### Is it then right to depose a Teacher because he *punishes too hard*, or will not have to do with unclean doctrines?
+
+**Just as right as it was that Jeroboam and others persecuted the Prophets of God**; the Pharisees persecuted Christ and the Apostles; Herod persecuted John the Baptist, etc. So right is it also today that on account of the said causes, faithful Church-Servants — who in *Doctrine and Life are unblameable* — alone on account of the *punitive preaching*, and because they *cry out against false Teachers or Wolves*, are *driven into misery* or otherwise ill-treated.
+
+— ❦ —
+
+## Question 20. May then a Church-Servant also *with a good conscience take remuneration*?
+
+**May then a Church-Servant also with a good conscience take remuneration?**
+
+**Yes, he can with a good conscience do it.** For Christ himself — **Matt. 10:10** — says: *"A labourer is worthy of his hire."* And Paul, **1 Cor. 9:14**: *"The LORD has thus ordained, that they who proclaim the Gospel shall also live thereof."*
+
+### But it stands: **"Freely have ye received, freely give"** — Matt. 10:8?
+
+**Answer**: The Church-Servants shall not chiefly *for the sake of money* preach or teach, but foremost **for the sake of God's Honour and the Blessedness of Men**. And this Christ means, where he says: *"Freely give, preach not for the sake of money."* But he does not forbid to take **fitting, needful remuneration** — forasmuch as he shortly after says: *"A labourer is worthy of his hire."*
+
+### What if a Teacher take money or other things, and *spare the people from the Punitive Preaching*?
+
+**That grounds not at all**, as from Balaam's History — Numbers 22 — is to be seen. And Ezek. 13:19: *"Ye unhallow me among my people for a handful of barley, and for pieces of bread,"* etc.
+
+— ❦ —
+
+## Question 21. Wherein stands the **Power of the Preaching-Office**?
+
+**Wherein stands the Power of the Preaching-Office?**
+
+**The Preaching-Office has *no outward Might or Power to rule***, as the Pope has arrogated to himself *two swords*, and has undertaken to *depose and set up Emperors and Kings*, and still today undertakes. As he has also taken to himself the Might to *dispense against the Gospels and Epistles of Paul*. But all this is *against God's Word and Command*. For it says: *"The Worldly Kings rule, and the Mighty are called Gracious Lords. Ye, however, not so — but the Greatest among you shall be as the Youngest, and the Chief as a servant"* — **Luke 22:25–26**.
+
+So he has also, as the *Highest Bishop*, willed to rule over the whole Christendom and be their Head — as also yet today — but all *against God's Command and Ordinance*.
+
+Further, he has taken to himself also the *Might to bind and loose* whatever and whenever he wills, even in *Worldly matters*; and to *command the Angels in Heaven over the Souls*.
+
+But of these things *none* stand in the Power of the Preaching-Office. For the same has *no other Might* than to **preach the Word of God pure** (when orderly Calling has gone before), **to reach the Sacraments as they are by Christ instituted**, and *not otherwise*.
+
+**With the Loosing-Key** to announce Forgiveness of Sins to the troubled Hearts; and **with the Binding-Key** to retain, according to God's Command and Word, the Sins to the stiff-necked Sinners who do not Repentance. Item, with the *Consent of the Church*, to set up **free and not-God's-Word-contrary Ceremonies** for the Edification of the same, without burdening the consciences — and again to *do away with* the same, when they turn out ill, or shall no more be edifying — and thus in the Church to *watch that all go orderly and well*.
+
+And all this stretches *no further* than as it is conformable to God's Word, or *prescribed by the same*. **Prov. 30:5–6**: *"All God's Words are pure, and are a Shield to those who trust in them. Do nothing to his Words, that he punish thee not, and thou be found a Liar."*
+
+— ❦ —
+
+## Question 22. Have then the Bishops a *special Power*, above other Teachers, in matters of Faith to *ordain and pronounce*, and otherwise to *set up Ceremonies* whereby one may serve God and obtain Forgiveness of Sins?
+
+**Have then the Bishops a special Power, above other Teachers, in matters of Faith to ordain and pronounce, and otherwise to set up Ceremonies whereby one may serve God and obtain Forgiveness of Sins?**
+
+**The Pope with his own gives out such indeed, but without God's Word.** Wherefore we are also not bound to give heed to it. In the Church there is *no such ***primatus potestatis*** or ***iurisdictionis***, that the Pope and the Bishops may **ordain, set, or teach what they will** and one must accept it.
+
+Much less does the Scripture teach that they may set up Ceremonies to obtain Grace with God, as they do and have done *against God's Word*.
+
+### But they say the Bishops have such Power, that they may well make this or that Ordinance of *Food, Feast-days, of distinct Orders of Church-Servants, Fasting, Pilgrimages, Processions*, and the like — and lay them on the Consciences, to obtain God's Grace therewith?
+
+**They say it well, but it is not right**, and they cannot from God's Word *ever prove* that they have such Might. They take it to themselves, and have taken it to themselves *of their own thirst*, against the Institution of the Preaching-Office and Christ's Command to teach *what he has commanded* — **Matt. 28:20**.
+
+### But they have the *Worldly sword and Court-compulsion*?
+
+**They have it however not as Bishops from Divine Right**, but out of *Human Rights bestowed*; and it concerns the Preaching or Teaching Office *not at all*, does also not belong thereto; they shall also *not have it* — **Luke 22:26**: *"Ye however not so."*
+
+### But it stands, John 16:12–13: **"I have yet much to say to you, but ye cannot bear it now. When the Spirit of Truth comes, he shall lead you into all Truth."** *Ergo*, so the Bishops have the aforesaid Power.
+
+**Answer**: This Text speaks of *purely Spiritual matters*; but they drag it *by the hair* upon the Pope and Bishops.
+
+Christ says: *"I have yet much to say to you,"* etc. — they interpret it: *the Pope and Bishops have yet many commandments to set up which Christ has not given*.
+
+**"Many"** here means **to report of Cross and Suffering** which should meet the disciples of Christ — but they interpret it of *Ceremonies and Men's or Church-statutes* — whereas in the whole Preaching of Christ not a *single word* of such Ordinances is to be found; Christ also speaks not of it.
+
+**Yes** (they say), **the Holy Spirit does it through the Pope and Bishops**, etc.
+
+**Answer**: The LORD explains his words himself, where he shortly after says: *"For he shall not speak of himself, but what he shall hear, that shall he speak,"* etc. Item: *"He shall take of mine, and shall show it unto you."* He says *not*: *"The Holy Spirit shall through the Pope ordain new laws which I have not given you,"* but: *"What he hears, that shall he speak. Item, of mine shall he take."*
+
+Now Christ has mentioned in the Gospel *nothing of the Pope's or Bishops' statutes*; they are also not of Christ or of the Holy Spirit, but of *their spirit*. Accordingly we need not turn to their giving-out, because they *so shamefully pervert and misuse Christ's words*.
+
+— ❦ —
+
+## Question 23. What is the *distinction* between the **Preaching-Office and Worldly Lordship**?
+
+**What is the distinction between the Preaching-Office and Worldly Lordship?**
+
+**First**, *Worldly Lordship* carries, beside its Laws, the **bodily sword**, and punishes its subjects with bodily might. But the *Preaching-Office* carries only the **Word — Law and Gospel** — forgives the Penitent the Sin, but retains it to the Impenitent; and punishes not with the sword.
+
+**Second**, *Worldly Lordship* punishes only *outward Sin*, and maintains *Discipline* over the *First and Second Table of the Ten Commandments*, and does away with what is contrary thereto.
+
+But the *Preaching-Office* punishes also the **inward Sin in the Heart** — as *Unbelief, Security, evil Lusts*, etc. — **John 16:8**: *"The Holy Spirit shall reprove the World of Sin, because they believe not on me."*
+
+**Third**, *Worldly Lordship* has Might **to make Law and Ordinance in temporal matters, and to execute the same** — **Rom. 13**. The *Preaching-Office*, however, has no such Might to set up Laws and lay them upon Consciences, but must remain by **God's Word**, etc.
+
+— ❦ —
+
+# XXX.
+
+# Of the Power of the Keys.
+
+## Question 1. Has the Church such Power?
+
+*[Chapter XXX Of the Power of the Keys continues. Translation continues in Rebuild-Tranche 41.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
