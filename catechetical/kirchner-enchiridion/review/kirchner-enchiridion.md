@@ -1727,9 +1727,195 @@ Wherefore it is *a blasphemy of God*, that he in this manner *assumes for himsel
 
 **4.** The Priests of the Old Testament prayed a *little while* for the People, for they were *mortal Men*. But Christ is **an eternal High Priest**, and intercedes for us for ever and ever — **Rom. 8**.
 
+**5.** The Priests of the Old Testament have offered only the blood of *calves and goats*, etc., which *cleansed not the conscience of Sins*. But Christ, through his own Blood, is entered into the Holy of Holies, and has procured an *eternal Redemption* — **Heb. 9, 10**.
+
+**6.** The Priests of the Old Testament offered *for their own and the People's sins*. But Christ offers *not for his own*, but alone for other men's sins — **Isa. 53**.
+
+**7.** In the Old Testament were *many High Priests one after another*. But the New Testament has only *one High Priest*, namely Jesus Christ, who suffers no successor — for he is **High Priest eternally** — **Ps. 110**.
+
 — ❦ —
 
-*[Chapter VI continues with further Q&A on Priesthood of Christ vs Old Testament, sacrifices, intercession, application. Translation continues in Rebuild-Tranche 7.]*
+## Question 7. What has the New Testament for Sacrifices?
+
+**What has the New Testament for Sacrifices?**
+
+**The New Testament has only *one* Reconciliation-Offering** — namely, the *Offering of Jesus Christ*, through which an eternal Redemption is procured — **Heb. 10** — and it is *not needed* that it be repeated. Wherefore it is a *horrible blasphemy of God* that the Papists give out — **Christ must in the Mass be daily offered to the Father**.
+
+The other Sacrifices of the New Testament are pure **Thank-Offerings** — that is, such works as God has commanded, and which shall come to pass *in Faith of Christ* — **not to merit Eternal Life, but for thanksgiving**.
+
+- **1 Pet. 2:5** — *"Offer to God spiritual Sacrifices,"* etc.
+- **Rom. 12:1** — *"Yield your bodies as a Sacrifice, that is living, holy, and well-pleasing to God — which shall be your reasonable Divine Service."*
+- **Ps. 50:14** — *"Offer to God thanks."*
+- **Ps. 51:17** — *"The Sacrifices which please God are a troubled Spirit — a troubled and broken Heart wilt thou not despise, O God."*
+
+— ❦ —
+
+## Question 8. In this manner must all true Christians be Spiritual Priests?
+
+**In this manner must all true Christians be Spiritual Priests?**
+
+**Yes indeed.** For thus it stands, **1 Pet. 2:9**: *"Ye are a chosen generation, the royal Priesthood, the holy people, the people of possession,"* etc.
+
+And **Rev. 1:6**: *"He hath made us Kings and Priests unto God and his Father."*
+
+These sayings witness that in the New Testament all *believing* Christians are **Spiritual Priests**. Wherefore they can also, according to their calling, **spread abroad the Doctrine of the Gospel**, *pray for themselves and for others*, *thank God for his Benefits with heart and mouth*, and *judge of all doctrines according to God's Word*:
+
+- **Matt. 7:15** — *"Beware of the false Prophets."*
+- **Gal. 1:8** — *"So an Angel from Heaven preach another Gospel,"* etc.
+- **John 10:5** — *"A stranger they follow not."*
+- **1 Cor. 14:29** — *"But let the Prophets speak — two or three — and let the others judge."*
+
+— ❦ —
+
+## Question 9. Whereunto serves this Doctrine of the High Priesthood of Jesus Christ?
+
+**Whereunto serves this Doctrine of the High Priesthood of Jesus Christ?**
+
+**That we may know and believe** — Christ is our High Priest and Intercessor, who has offered himself for us; who prays for us in all temptations; hears our Prayer and Sighing and *helps us out* — to whom we also may and shall boldly take our Refuge.
+
+— ❦ —
+
+# VII.
+
+# Of the Holy Spirit.
+
+## Question 1. Of the Word "Spirit."
+
+**The word "Spirit"** is in the Scripture used in *manifold* ways. But here it means **the third Person of the Godhead**, who sanctifies and comforts us.
+
+— ❦ —
+
+## Question 2. What is then the Holy Spirit?
+
+**What is then the Holy Spirit?**
+
+**He is the third Person of the Holy Trinity, who proceeds from the Father and the Son**, and is sent, that he might be *powerful* through the Office of Preaching and the Sacraments in God's Church — to kindle *true conversion and Faith* in the hearts, to *make the same alive* and *renew*.
+
+This description is taken out of the sayings:
+
+- **John 14:16** — *"The Father shall send you another Comforter"* — where he indicates therewith that the Holy Spirit is *a distinct Person*, who is not the Father nor the Son.
+- **John 15:26** — *"But when the Comforter comes, whom I will send you from the Father — the Spirit of Truth, who proceeds from the Father — he shall witness of me."*
+- **John 16:8–11** — *"The Holy Spirit shall reprove the World: of Sin, of Righteousness, and of Judgement. Of Sin — because they believe not on me. But of Righteousness — because I go to the Father, and ye see me henceforth no more. Of Judgement — because the Prince of this World is judged."*
+
+— ❦ —
+
+## Question 3. Prove to me that the Holy Spirit is a subsistent Person, and not a created movement?
+
+**Prove to me that the Holy Spirit is a subsistent Person, and not a created movement?**
+
+**Ps. 33:6** stands: *"The Heavens are made through the Word of the LORD, and all their Host through the Spirit of his mouth"* — where to the Holy Spirit the *work of Creation* is expressly ascribed. Wherefore he can be **no created movement**, but must be *the Creator himself*.
+
+The LORD Christ — **Matt. 28:19** — in the words of Holy Baptism commands that also *in the name of the Holy Spirit* the Heathen shall be baptised, and that the same Name be *invoked over them*. Now he wills not, however, that we should adore any Creature. Wherefore the Holy Spirit can be **no created movement or Creature**.
+
+So too the Revelation in the Baptism of Christ — **Matt. 3; John 1** — where he in the shape of a Dove came down and set himself upon Christ's head — witnesses that he is *no created Creature or movement*, but **a subsistent Person**.
+
+In this manner the LORD calls him a **Comforter** — **John 14, 15**. Wherefore is he *no created movement*, but rather **a Teacher and Subsistent Person**.
+
+— ❦ —
+
+## Question 4. Is then the Holy Spirit true eternal God?
+
+**Is then the Holy Spirit true eternal God?**
+
+**Yes indeed.** He is the *third Person of the Godhead* — **Matt. 28**. Wherefore he must be true eternal God — for it will not suffer to say or to think that anything *created* is in the Holy Trinity — as **Epiphanius** rightly writes hereof.
+
+So he is **of the Being of the Godhead** — **Joel 2:28**: *"I will pour out from my Spirit over you."* — **Isa. 59:21**: *"My Spirit that is by thee,"* etc. — wherefore it follows unanswerably that he is **true and eternal God**.
+
+The LORD Christ ascribes also to him the *Honour of Invocation* — **Matt. 28** — where he commands to baptise *in his Name*. Wherefore he must be God. For to God alone belongs such Honour.
+
+As the Scripture also ascribes to him the *Creation* — **Gen. 1; Ps. 33**, and elsewhere — from which it is rightly concluded that he is **true, eternal God**. For God alone is **Creator**.
+
+In like manner she ascribes to him also *Regeneration and Renewal* — **Tit. 3:5** — which no Creature can work. So he is *true, eternal God* with the Father and the Son.
+
+— ❦ —
+
+## Question 5. Which are the chief Works and Benefits of the Holy Spirit?
+
+**Which are the chief Works and Benefits of the Holy Spirit?**
+
+**First**: he *helps to gather Christendom on earth* through the Word and Sacraments. — **John 16:8** — *"The Holy Spirit shall reprove the World for Sin's sake."* — **Matt. 10:20** — *"It is not ye that speak, but your Father's Spirit, that speaketh through you."*
+
+**2.** He *regenerates the whole man*, and kindles in his heart true Faith in Christ and new Obedience. — **John 3:5** — *"Except one be born of Water and Spirit, he cannot enter into the Kingdom of God."* — **Tit. 3:5** — *"Through the bath of Regeneration and Renewal of the Holy Spirit."*
+
+**3.** He *comforts the sorrowful and troubled hearts* in all temptations, strengthens and preserves them in Christ in Faith, in Hope, and in Patience.
+
+- **John 16:7** — Therefore is he called a *Comforter*: *"It is good for you that I go away — for if I go not, then comes the Comforter not to you; but if I go, I will send him to you."*
+- **Eph. 3:16** — *"That he may give you power, according to the riches of his Glory, to be strong through his Spirit at the inward man."*
+- **Ps. 51:12** — *"Comfort me again with thy help, and let the joyful Spirit uphold me."*
+- **Rom. 8:26** — *"The Spirit helps up our weakness."*
+
+**4.** He *rules the believing Christians in their calling and whole life.*
+
+- **Ps. 143:10** — *"Teach me to do according to thy good pleasure; for thou art my God; thy good Spirit lead me on a plain path."*
+- **Ps. 51:10–11** — *"Create in me a clean heart, and give me a new certain Spirit. Cast me not away from thy Presence, and take not thy Holy Spirit from me."*
+- **Rom. 8:14** — *"Whom the Spirit of God drives, those are Children of God."*
+- **Gal. 5:22** — *"The fruit of the Spirit is love, joy, peace, patience, friendliness, goodness."*
+
+**5.** He **sanctifies the believers unto Eternal Life**.
+
+- **Rom. 8:11** — *"So the Spirit of him that hath raised Jesus from the dead dwell in you, then shall the same, who raised Christ from the dead, make also your mortal bodies alive, for the sake of the Spirit, that his Spirit dwells in you."*
+- **Gal. 6:8** — *"He that sows on the Spirit shall of the Spirit reap eternal Life."*
+
+These Works and Benefits of the Holy Spirit shall God-fearing hearts *always have before their eyes*, and comfort and raise themselves therewith against the temptations of the evil Spirit.
+
+— ❦ —
+
+## Question 6. Whereby, however, is the Holy Spirit given?
+
+**Whereby, however, is the Holy Spirit given?**
+
+**Through the Word or Office of Preaching, and the Sacraments.**
+
+- **Isa. 59:21** — *"I make such a Covenant with them (says the LORD): my Spirit that is by thee."*
+- **Zech. 7:12** — *"Whom the LORD of Sabaoth sent his Spirit, through the former Prophets."*
+- **Gal. 3:5** — *"He that reaches to you the Spirit, and does such deeds among you — does he it through the works of the Law, or through the Preaching of Faith?"*
+- **Eph. 1:13** — *"Through whom ye also have heard the Word of Truth, namely the Gospel of your Blessedness — through whom, when ye believed, ye have also been sealed with the Holy Spirit of the promise, who is the pledge of our inheritance."*
+- **Acts 2:38** — *"Let every one be baptised on the Name of Jesus Christ unto the forgiveness of sins, so shall ye receive the gifts of the Holy Spirit."*
+- **Tit. 3:5** — *"Through the bath of Regeneration and Renewal of the Holy Spirit,"* etc.
+
+Wherefore shall all men keep themselves to the *ordinary Office of Preaching* — forasmuch as the Holy Spirit is *certainly given* through the same, as *a means ordained by God thereunto*.
+
+— ❦ —
+
+## Question 7. To whom, however, is he given?
+
+**To whom, however, is he given?**
+
+**John 14:17** — Christ says: *"the World cannot receive him."* Wherein does it then fail? In nothing else, than that they **know not Christ**, and *will not hear his Word*. On the contrary, those who *hear Christ*, out of his Word *know* and *invoke* him — those receive the Holy Spirit, as **Joel 2:28, 32** stands: *"I will pour out from my Spirit over all flesh; and all who call upon the Name of the LORD shall be blessed."*
+
+— ❦ —
+
+## Question 8. Whereout, however, do Christians know that they have the Holy Spirit?
+
+**Whereout, however, do Christians know that they have the Holy Spirit?**
+
+**First**: therefrom, that they have a *hearty, earnest, zealous delight and love to Christ* and *his holy Word and Sacraments*. For such delight and love is *not a work of the Flesh*, but of the Holy Spirit himself. — **John 8:47**: *"Whoso is of God, hears God's Word."*
+
+**2.** From the *inward witness* — **Rom. 8:16**: *"The Holy Spirit bears witness with our Spirit that we are God's Children."* For such childlike Confidence toward God — that we in trust and undoubting believe that we are his dear Children and Heirs — comes also *not from corrupted Nature*, but from the Holy Spirit himself.
+
+**3.** From *true Prayer* — **Gal. 4:6**: *"Because ye are Children, God hath sent the Spirit of his Son into your hearts, who crieth: Abba, dear Father."*
+
+**Rom. 8:15**: *"Ye have not received a servile Spirit, that ye should again fear — but ye have received a childlike Spirit, through whom we cry: Abba, dear Father."* For to *invoke God in such wise* in needs and afflictions can no man do without the Holy Spirit — who *works such Prayer in the believers*.
+
+**4.** From *Hope and Patience in temptation, persecution, tribulation, and suffering* — where the Holy Spirit fights and strives in our hearts with faint-heartedness, sorrow, impatience, and vanquishes and overcomes the same.
+
+- **Rom. 5:2–5** — *"We boast of the Hope of the future Glory that God shall give. But not this alone — we boast us also of the Tribulations, for we know that Tribulation bringeth Patience, Patience bringeth Experience, Experience bringeth Hope; Hope, however, letteth not come to shame. For the Love of God is poured out into our heart through the Holy Spirit, who is given to us."*
+- **Rom. 8:26** — *"In like manner also the Spirit helps up our weakness. For we know not what we should ask, as is meet — but the Spirit himself intercedeth for us mightily, with unspeakable groanings."*
+- **Ps. 130:5–6** — *"I wait upon the LORD my God, my Soul waiteth, and I hope upon his Word. My Soul waiteth upon the LORD, from one morning-watch to the next."*
+
+Which all cannot come to pass without the Holy Spirit.
+
+**5.** From the *enmity and earnest avoidance of Sins*, and *steady combat against the lusts of the Flesh and evil desires*.
+
+- **Rom. 8:13–14** — *"So ye live after the Flesh, then must ye die. But if ye through the Spirit mortify the deeds of the Flesh, then shall ye live. For whom the Spirit of God drives, those are God's Children."*
+- **Gal. 5:16–18** — *"Walk in the Spirit, so shall ye not fulfil the lusts of the Flesh. For the Flesh lusteth against the Spirit, and the Spirit against the Flesh. These are contrary one to another, that ye do not what ye will. But when the Spirit rules you, then are ye not under the Law."*
+- Item — those who *belong to Christ* **crucify their flesh, together with the lusts and desires.**
+
+Where these Pieces are present, there is *no doubt* that the Holy Spirit *dwells in the heart* — though they be not always felt to stir with equal strength.
+
+— ❦ —
+
+*[Chapter VII closes here. Chapter VIII "Von der Schöpffung aller Creaturen" follows. Translation continues in Rebuild-Tranche 8.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
