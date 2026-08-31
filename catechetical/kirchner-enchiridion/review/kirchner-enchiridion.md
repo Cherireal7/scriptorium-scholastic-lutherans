@@ -5216,11 +5216,212 @@ The **Our Father** teaches all Saints to confess that they are *Debtors* — how
 
 The LORD Christ speaks indeed of the Reward of rightly good Works — but adds *not* thereto that such Reward comes from *Duty*, as though the Works were meritorious, and God were *bound of Right* to give us Eternal Life therefor.
 
-So also Paul and other Believing, both in the Old and New Testament, have indeed *known well* the Promises of Reward of good Works. But nowhere have they let themselves be understood that they should thereby *merit Eternal Life*. Rather, they much more confessed that *if God should impute Sin, they could not stand before him* — **Ps. 130:3** — and if they should reckon with him, they could not answer one of a thousand — **Job 9:3**. Paul — **Rom. 7:25** — says simply: *"He thanks God through Jesus Christ."*
+So also Paul and other Believing, both in the Old and New Testament, have indeed *known well* the Promises of Reward of good Works. But nowhere have they let themselves be understood that they should thereby *merit Eternal Life*. Rather, they much more confessed that *if God should impute Sin, they could not stand before him* — **Ps. 130:3** — and if they should reckon with him, they could not answer one of a thousand — **Job 9:3**. Paul — **Rom. 7:25** — says simply: *"He thanks God through Jesus Christ."* And **Phil. 3:8** — he holds his works for *filth* in God's Judgement, and desires only through Christ's Merit to be made blessed.
 
 — ❦ —
 
-*[Chapter XXIII Good Works continues with further Q&A on rewards being of Grace, closing into Chapter XXIV Von Sacramenten in gemein. Translation continues in Rebuild-Tranche 22.]*
+## Question 22. How, then, are the sayings that speak of *the Reward of good Works* to be understood?
+
+**How, then, are the sayings that speak of the Reward of good Works to be understood?**
+
+**Answer**: **Of the gracious Reward**, which God gives *not out of Duty or Debt* (for as at **Matt. 20:15** stands, the LORD is nothing owing to us, but may with his own do as he wills), and not that our works were of themselves worthy — but that he *has us as a Father dear*, and out of Grace and Fatherly Love, *as his Children*, will *reward also our imperfect works* for Jesus Christ's sake — for whose sake he has received us unto Grace.
+
+Just as **Parents promise Children this or that Gift to entice them to Piety** — not that the Children merit such Gift, but because they are *fatherly minded toward them*. Otherwise, if it were to be seen upon works, the *servants* would deserve more (as they must work more) than the Children.
+
+Accordingly the Christians shall herein always look upon *these two Pieces*: **That God will be served by us as by Children and out of a free Heart**, and by no means that we shall boast our doings before him. For it is all still *unclean and imperfect* — **Isa. 64:6; Rom. 7:18** — and that all our good works are *nothing else than God's own Gifts* which he works in us — **Eph. 2:10**. They can accordingly *not be meritorious*.
+
+**In sum**: a work that shall be meritorious must have these **three Properties**:
+
+**First**, that it come from *such a Heart as has no Sin at all*.
+
+**Second**, that it be **perfect**, and *cannot in the least be blamed* in God's Judgement.
+
+**Third**, that it be **worthy** of the Matter which it shall merit.
+
+Such Properties, however, are found *alone with the LORD Christ's Works* — which are meritorious. For they come from *quite pure Heart*; are *perfect and without Lack*; are also *worthy of the Matter which they shall merit* — because he was not alone a *holy Man*, but also **true God**.
+
+Our Hearts, however, are still *unclean and sinful*, and our works *imperfect*. Much less are they *worthy of Eternal Life*. Wherefore it cannot be ascribed to them, that they should *merit Eternal Life from Duty or of Right*.
+
+— ❦ —
+
+## Question 23. Have then the Saints *no Merit at all*?
+
+**Have then the Saints no Merit at all?**
+
+**No.** They have *no Merit* (when one properly is to speak); but what befalls them happens **out of pure Grace, for Jesus Christ's sake**, through whom they are holy and please God.
+
+— ❦ —
+
+## Question 24. Whereupon is this proved?
+
+**Whereupon is this proved?**
+
+**First**, hereupon: for **Eternal Life is a Gift of God** — **Rom. 6:23** — and not a Merit of our works.
+
+**Second**, that it is a *Blasphemy of God against Christ's holy Merit* to teach that our works are meritorious of Eternal Life. For **in no other is Salvation** — **Acts 4:12**.
+
+**Third**, that at **Rom. 4:4** *Merit is quite excluded* from the Article of Justification — *not of Duty*, says the Apostle.
+
+**Fourth**, those who are *not their own* cannot demand anything of Right. The Believing are *not their own* — but Christ's; wherefore they can demand nothing of Duty.
+
+**Fifth**, they are **unprofitable servants** — **Luke 17:10**. Wherefore they *merit nothing of Duty*.
+
+— ❦ —
+
+## Question 25. Yet the little word (***Meritum***, "Merit") is often used in the writings of the Fathers, and also otherwise?
+
+**Yet the little word (*Meritum*, "Merit") is often used in the writings of the Fathers, and also otherwise?**
+
+**True**. But it were better they had not used it, on account of the *Misunderstanding* which afterward arose therefrom — that one gradually took from this word occasion *to teach of the Merit of Works*. For although the Papists from the saying and Epistle to the Hebrews ch. 11 draw the word ("Merit"), yet is it certain that it stands *not in the Greek tongue*, as the learned well know.
+
+Wherefore also **Augustine, Epistle 105**, writes: ***Quid habere boni meriti possunt peccatores, sed & ipsa remissio peccatorum sine merito est, hanc fides impetrat.*** That is: *"What Merit can Sinners have? For the Forgiveness of Sins itself is without Merit — and Faith grasps her."*
+
+— ❦ —
+
+## Question 26. How is the saying, James 2:24, to be understood, where he says: **"So ye see now that Man is Justified through works, not through Faith alone"**?
+
+**How is the saying, James 2:24, to be understood, where he says: "So ye see now that Man is Justified through works, not through Faith alone"?**
+
+**Answer**: To rightly explain this saying, it is needful to give heed *whereof James treats* — namely, **not of the Righteousness of Faith and whereupon the same rests**, but *of those who judged* that it was not needful for believing Christians *diligently to practise themselves in good works*. Such James contradicts, and teaches on the contrary: **the Right-Believing shall through good works *demonstrate* that they have been made Righteous through Faith** — and are *not trees without fruit*.
+
+And the word ***Iustificare*** (*to justify*) in James does *not* mean, as in Paul, *to be acquitted from Sins and made Righteous for Christ's sake*, but rather **as much as: to explain, demonstrate, witness, and with the deed** — or with upright good works, as *Fruits of the true Faith* — **to set forth that we are truly through the Faith on Christ made Righteous**.
+
+Thus **Augustine, *Quaestionum 83, quaest. 76*, has explained this saying**: ***Quapropter (inquit) non sunt sibi contrariae duorum Apostolorum sententiae, Pauli et Iacobi, cùm dicit: Unus iustificari hominem per fidem sine operibus: et alius dicit, inanem esse fidem sine operibus, quia ille dicit de operibus, quae fidem praecedunt, iste de iis, quae fidem sequuntur, sicut etiam ipse Paulus multis locis ostendit.***
+
+*"Wherefore the sentences of the two Apostles Paul and James are not contrary to each other, when one says: Man is justified through Faith without works; and the other says: Faith is vain without works. For the one speaks of the works that precede Faith; the other of those which follow Faith — as also Paul himself in many places shows."*
+
+— ❦ —
+
+## Question 27. Do the Papists do rightly, in that they lay to our charge that we forbid good works?
+
+**Do the Papists do rightly, in that they lay to our charge that we forbid good works?**
+
+**They do us violence and wrong therein.** For we do teach that good works are *necessary*, and that he is no right Christian who does not *for ever and ever practise* himself in good works. Yea, we confess that by the *works themselves* one shall know whether we are God's Children or not — **1 John 3:10**: *"Herein it is manifest, which are the Children of God, and the Children of the Devil: Whoso doeth not right is not of God, and whoso loveth not his Brother."* How then should we *forbid* the good works, as the Papists (but unrightly) lay to us for guilt?
+
+— ❦ —
+
+## Of the Love of Neighbour.
+
+## Question 28. Is a Christian bound to love his Neighbour?
+
+**Is a Christian bound to love his Neighbour?**
+
+**Assuredly.** For thereby the Christians are known that they are *Christ's Disciples*, when they *love one another* — **John 13:35**.
+
+**How shall such Love be shaped?** — This reports John — **1 John 3:18**: *"My little Children, let us not love with Words nor with Tongue, but with Deed and with Truth."*
+
+**What has she besides for Properties?** — That stands **1 Cor. 13:4–6**: *"Love is longsuffering and friendly; Love envies not; Love plays not the wanton; she puffs not up; she poses not indecently; she seeks not her own; she lets not herself be embittered; she strives not after Harm; she rejoices not when Injustice goes on,"* etc.
+
+**Is it right that a Christian grows weary of loving and serving, when he sees the World's Ingratitude?** — **No indeed.** For Paul says — **Gal. 6:9**: *"Let us do good, and not become weary; for in his time we shall also reap without ceasing."* Though a Christian find little or scant thanks from the World or evil people, yet shall he not cease *to love and serve*, but go on and *not become weary or vexed*.
+
+— ❦ —
+
+## Of Almsgiving.
+
+## Question 29. Shall a Christian also give Alms?
+
+**Shall a Christian also give Alms?**
+
+**Yes indeed.** For that belongs to Christian Love, and thereby she *demonstrates herself*. **Isa. 58:7**: *"Break thy bread to the hungry,"* etc. And Christ — **Matt. 25:34–36** — will at the Last Day praise us, when we have *fed the hungry, given drink to the thirsty, clothed the naked*, etc.
+
+**Why does the LORD then, Matt. 6:1–4, reprove the Pharisees on account of Alms?** — Not for the work's sake, but on account of their *false delusion* which they had thereby — that they gave Alms for the sake of *their own Honour and Boast*, and *not for the sake of God's Honour and the Neighbour*. Wherefore he says: *"Take heed of your Alms,"* etc.
+
+**What is then Alms-giving that the Left Hand knows not?** — Simple and *without all seeking*, alone for God's sake, to help the Neighbour — and to look neither for Favour nor Thanks, but only (as reported) *upon God, his Honour, and Command*.
+
+**What means, "to give Alms in secret"?** — Where the Heart seeks not *its own boast or advantage*, but simply looks upon God and his Command — whether it earn Thanks or Ingratitude thereby.
+
+**Does Almsgiving then merit Forgiveness of Sins?** — **No.** For such has only *Jesus Christ* merited us, who has given himself into Death for the sake of Sinners — **Gal. 2:20**.
+
+### But Sirach 4 says Almsgiving blots out Sin?
+
+**Answer**: The Book of Sirach is *not in the Canon*, but belongs among the **Apocrypha**. Wherefore no ground can be taken from it in this matter — specially because the Holy Scripture *elsewhere throughout* witnesses that **alone the Suffering and Obedience of Christ blots out Sin before God**, and *no man's work*.
+
+The saying is accordingly to be understood of the **Reconciliation which happens among Men**, and *not toward God*. For there Kindness can *make friendship* or reconcile.
+
+**In Sum**: the Article must remain firm — that **alone Jesus Christ's Blood cleanses us from all Sins** — **1 John 1:7**.
+
+### But Daniel 4:27 stands: "Let my counsel please thee, and make thyself free from thy Sins through Righteousness, and free from thy Misdeed through Kindness to the Poor." Ergo, so can Men through their Alms make satisfaction for the *temporal Punishments*, etc.?
+
+**Answer**: That follows not at all.
+
+**First**, the Prophet Daniel says *not* that Alms make satisfaction for the temporal Punishments (as such is not to be found in his words). Wherefore it does not hold that the Papists set up such reckonings thereon, and would force such *false erroneous meanings* upon it, which stand there with *no word or letter*.
+
+**Second**, he says also *in the least degree not*, that Alms or other good works make satisfaction *before God's Countenance for the Sins themselves* or the Punishments of the same, as the opposite side wills to conclude from it — for thereof stands in Daniel *no letter or word* — but the opposite side *fabricates* such upon the Prophet's words to *confirm their false Doctrine the better*.
+
+**Third**, can also this Papist Interpretation not stand for itself — because she runs *directly against the chief sayings of Holy Scripture* concerning Christ's Repentance and Satisfaction:
+
+- **1 Pet. 1:18–19** — *"Ye know that ye are not redeemed with perishable Silver or Gold, but with the precious Blood of Christ."* Now Alms are counted among such *perishable things*, and are by no means the precious Blood of Christ, to which the Redemption alone is ascribed.
+- **Eph. 1:7** — *"In whom we have the Redemption through his Blood — namely the Forgiveness of Sins."* Alms, however, are not Christ's Blood.
+- **Ps. 130:8** — *"He redeems Israel from all his Sins."* Says *not* that Alms redeem from Sins or from their Punishment.
+
+**Fourth**, it can also be perceived from this: that the Prophet does *not* speak, in the Papist way, of *satisfaction for temporal Punishments of Sins*, in the presence of King Nebuchadnezzar. For as they themselves teach — only the **Justified and Believing** can through Alms make satisfaction for temporal Punishments. Now it is undoubtedly true that when Daniel with Nebuchadnezzar spoke this, he was **not yet Justified or right-believing**, but was first to be *converted to God and Justified*. For at that time he was still a *proud unconverted Tyrant*, who of Conversion to God knew and understood *nothing groundly*, as **Daniel 4** richly witnesses. Wherefore it in no wise fits, that the Papists would draw the said Words of Daniel unto Satisfaction for the *temporal Punishments*.
+
+**Fifth**, this also stands not — that the words (Sin and Misdeed) here shall not mean more than *temporal Punishments of Sins*. For this they cannot prove with any saying of Scripture — that the name Sin or Misdeed anywhere in the Scripture should mean as much as *temporal Punishment of Sin, when the Guilt is already remitted*. So it cannot even be, that Sin and Misdeed are ever *without Guilt before God*. For where Sin is, there is also Guilt.
+
+### What means then the Prophet Daniel, when this is not the right sense which the Papists bring forth?
+
+**Answer**: This he means — that Nebuchadnezzar shall **do Repentance**, from the Heart *turn to God*, and with **upright Fruits of Repentance** (as with **Alms** and the like) *publicly witness* to every man that he has done true Repentance and is converted to God. For when he does this, he will be *reconciled with the men whom he has here troubled, robbed, and plundered*, and *with the deed witness* that he has done upright Repentance and is turned to God.
+
+For as concerns *Satisfaction for Sin and Punishments of Sin before or with God*, Daniel knew well that no one can atone therefor but *Christ Jesus alone* — as he also, at **Dan. 9:24**, plainly gives to understand, when he says: *"The Messiah shall come to forgive Sin and reconcile Misdeed."* And **Isa. 53:5**: *"The Punishment lies upon him, that we might have Peace."* Wherefore the Papists do quite wrong in that they so shamefully pervert and falsely interpret the said saying of Daniel.
+
+### Has it then otherwise other Rewards?
+
+**Yes indeed.** For at **Isa. 58:7–8** stands: *"Break thy bread to the hungry"* — *"then shall thy Light break forth as the morning-red, and thy Recovery shall grow speedily,"* etc. **Luke 6:38**: *"Give, so shall it be given you."* So shall it also be *richly rewarded in the coming World* — **Matt. 25:34**.
+
+### Ey — the Papists say — Christ has with his Obedience merited that our Alms and other good works blot out Sin and merit Eternal Life; and such he imparts to our works?
+
+**Answer**: **That cannot be proved by any saying of the Holy Scripture.** So too is *Sin-blotting* such a Work that can be laid to *no mere Creature, or Human Work*, but belongs *alone to Jesus Christ*, who is **the Lamb of God that bears the Sin of the whole World**. Whoso ascribes such Holiness to his own works *sets them upon the Throne of the Majesty of God*.
+
+So this Doctrine agrees also not with the *End-purpose of the Suffering of Jesus Christ*. For Christ has suffered *to atone for our Sin*, and to *merit us Forgiveness of Sins* — by no means, however, that he with his Suffering has brought about for our works that *they would become meritorious and could blot out Sin*.
+
+- **Isa. 53:5** — *"He is wounded for our Misdeed's sake."* Says not: *"he is wounded for the sake of our good works, that he might for the same obtain the power to blot out Sin and merit Eternal Life."*
+- **1 Tim. 1:15** — Paul says: *"Christ Jesus came into the World to make Sinners blessed."* Says not: *"He came to merit that our good works could blot out Sin, and merit Blessedness."*
+
+— ❦ —
+
+## Of Fasting.
+
+## Question 30. Is a Christian also bound to Fast, or to lead a sober temperate Life?
+
+**Is a Christian also bound to Fast, or to lead a sober temperate Life?**
+
+**Yes indeed.** For **1 Pet. 5:8** stands: *"Be sober, and watch,"* etc. Item, **Eph. 5:18**: *"Drink not yourselves full of Wine, whereupon an unruly life follows."* **Rom. 13:13**: *"Not in gluttony and drunkenness,"* etc. **Luke 21:34**: *"Take heed that your Heart be not weighed down with Gluttony and Drunkenness."* Such **Fasting** a Christian is bound *daily for ever and ever* to keep; and when he does against it, he sins *heavily*.
+
+### Does then such Fasting merit Forgiveness of Sins?
+
+**By no means.** For the same has *Jesus Christ alone* merited us and brought about. Rather, it serves to this end — that we may be so much the fitter for **Prayer** and for accomplishing of our *Office or Calling*.
+
+### Has then Christ instituted the *Forty-Day Fasting* and commanded it to be kept by a certain command?
+
+**No.** No word or command is here at hand. He indeed fasted **forty days and nights in the Wilderness** — **Matt. 4:2** — but has not commanded that we shall do the same after him; as also we in such manner *cannot*. Nor have the Apostles ordained it. Neither can it be proved from their Epistles and Writings. In the same manner it stands with the other **Fast-days of the Papists**, for neither the LORD Christ nor the Apostles in the New Testament have instituted such Fast-days. As also — as at **Eusebius, Lib. 5 cap. 26**, is to be seen — of the *days on which one shall fast* there has always been strife in the Church.
+
+Whence also **Augustine, Epistle 86**, writes: ***Quibus diebus non oporteat ieiunare, et quibus oporteat, praecepto Domini vel Apostolorum non invenio definitum.*** That is: *"On which days one shall not fast, and on which one shall fast, I find not that it is decided or explained through the LORD Christ's or the Apostles' Command."*
+
+### Does then the Papists' Fasting *not* merit Forgiveness of Sins?
+
+**They indeed say so.** But it is a **horrible blasphemy against the Merit of Jesus Christ**. The Scripture also nowhere says that it shall *merit Forgiveness of Sins*. It can well be **a Practice, the better to quench the Flesh and the evil Lusts** — but it merits not Forgiveness of Sins.
+
+What sort of Fast the Papists' Fast is, is known to the whole World.
+
+### May one not at times ordain certain days *to fast*?
+
+**Yes** — according to occasion of matters, as in *scarcity, war-need, times of dying*, or the like. And that therefore, that one may become so much the fitter for **earnest Prayer** — not, however, that one should thereby *merit Forgiveness of Sins*.
+
+### In this way do ye forbid the Fasting?
+
+**We forbid it not**; but so much as concerns the Christians' daily Life, we teach that they shall *constantly fast, or live sober and temperate*, with Gluttony and Drunkenness not weighing down their Hearts. But so much as concerns the Papists' *appearance-and-hypocrisy Fasting*, we punish rightly — because they draw it as *needful to Blessedness*, and would thereby merit Forgiveness of Sins — which has *no ground in the Scripture*, but rather is *plainly rejected with the Pharisees' Fasting* — **Matt. 6:16–18**.
+
+— ❦ —
+
+# XXIV.
+
+# Of Prayer.
+
+## Question 1. Is it right that Prayer...
+
+— ❦ —
+
+*[Chapter XXIV Of Prayer opens. Translation continues in Rebuild-Tranche 23.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
