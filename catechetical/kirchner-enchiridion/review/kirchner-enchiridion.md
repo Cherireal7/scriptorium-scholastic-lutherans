@@ -6440,11 +6440,171 @@ The Evangelists also — though they have *repeated* the words — nevertheless 
 
 **The word ("Is") is here understood ***substantivè*** — and cannot on that account be interpreted through the word ("Signifies") — because it is *undeniable* that Christ speaks of *his own true Body*, and not of a *Figurative Body*.
 
-So it can also not be proved that ("Is") in this place means as much as "signifies" — even if the opposite side should write itself to death. For **Christ's Body is his Body — and *does not signify* his Body**. Should there also be a *Signification* here, then must it follow that...
+So it can also not be proved that ("Is") in this place means as much as "signifies" — even if the opposite side should write itself to death. For **Christ's Body is his Body — and *does not signify* his Body**. Should there also be a *Signification* here, then must it follow that **Christ's true Body has not been given for us** — for of the Body he speaks who is given for us, and of no other.
+
+**The little word ("Body")** here means **the true essential Body of Jesus Christ**, and cannot be otherwise interpreted. For there stand the Words: *"given for you."* Now no *Figure of Christ's Body* is given for us — but the **true Body of Christ himself**. The word ("My") also permits no Figure. Likewise the word "My Blood" — for Christ has *no other Blood* than that which he shed for the World's Sin — and *this* he dispenses out with the Wine. We enjoy it also. So likewise the word ("New Testament") cuts off the Figure. For the *Blood of the New Testament* is the *precious Blood of Christ*, and no other; nor is any other shed for us but the same — as **Beza himself** must witness in **Epistle 5 *ad Alamannum***, where he writes: ***Verba illa, quod pro vobis traditur, et qui pro vobis effunditur, necessariò huc te adigunt, ut de ipsamet corporis et sanguinis substantia hoc intelligere cogaris.***
+
+That is: *"The words 'given for you' and 'shed for you' compel thee, that thou must necessarily confess that the word 'Body' and the word 'Blood' can no otherwise be understood or interpreted than *of the very Substance of the Body and Blood of Christ*."*
+
+If also the little word ("Body") here should mean as much as *a Figure of the Body of Christ*, then must it in other sayings of the Supper mean so too — **1 Cor. 10:16** — and Paul's words must read: *"The Bread is the Distribution of the Figure of the Body of Christ"* — which is *throughout false*.
+
+**And in Sum**: the words *"given for you"* permit no ***metonymia signi et rei signatae*** — that namely the Bread should take the *Name of the Body of Christ* and thus be a *Memorial-sign of the far-absent Body of Christ*. For:
+
+**First**, in the Words of Institution two things are *not alone understood*, but also **named with Names**, that they are *dispensed and received together*: namely, **Bread and the Body of Christ; the Wine and the Blood of Christ**. Which in the ***metonymia signi et rei signatae*** (as the learned in the schools know) — where the Sign takes on the Name of the signified thing — *happens not*. Forasmuch as the ***metonymia signi et rei signatae*** *ceases* when the Name of the Sign is expressed. As when one says: ***Canum caput et senilis ruga sunt signum senectutis*** — *"a grey head or wrinkle is a Sign of a high Age."*
+
+**Second**, that the said Words clearly witness that **the Body is dispensed and received which is given for us** — which at bottom permits *not the metonymia*. For no *Sign of the Body* of Christ is given for us, but *his Body itself*.
+
+**Third**, that if this Figure should hold in the Words of Christ, **nothing more than bare Signs of Bread and Wine** must be dispensed in the Supper. For as concerns the said Figure, there follows *not at the same time* the *Distribution of the signified thing*, but *alone the Signification* of the same — nothing more. As the opposite side itself cannot deny, when it will keep the ***metonymia*** in the Words of Christ *"This is my Body"* — namely, that to the Bread, as the *Sign* of the signified thing, is given the name of the *far-absent Body of Christ*.
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues. Translation continues in Rebuild-Tranche 27.]*
+## Question 9. But Christ (they say) has given to the Bread — as to a *Holy Sign* — only the Name of his Body?
+
+**But Christ (they say) has given to the Bread — as to a *Holy Sign* — only the Name of his Body?**
+
+**That is worth proving**. He himself has *not* called it a Sign of his Body. For he says not: *"This is a *Symbolum* or Sign of my Body, which is given for you."* So the Words also permit not that it be so understood. For **the Bread does not *signify* the Body of Christ, but with the same the Body of Christ is *truly and present dispensed and received*** — as the Words of Institution clearly bring with them: *"This is my Body, which is given for you"* — where the Body of Christ is *plainly beside and with the Bread named and expressed*, and *not figured or signified*; where also the ***metonymia*** of Sign and signified thing can *not at all take place*.
+
+— ❦ —
+
+## Question 10. But the *Holy Fathers* have called it ***Symbolum, signum, antitypon*** — that is, *a Sign and Figuration*?
+
+**But the *Holy Fathers* have called it ***Symbolum, signum, antitypon*** — that is, *a Sign and Figuration*?**
+
+**True**. But they have *not thereto set* (as our opposite side *impudently* does) that it be a Sign of the *far-absent Body of Christ*. Wherefore we may well grant that the sanctified Bread be called *a Sign* — yet that this *addition of the opposite side* remain away: that it is a Sign of the *far-absent* and *not of the present Body of Christ*, which in the Supper is *dispensed and received therewith*.
+
+So too **not all Signs are Signs of *absent* things**. As **Gen. 9:12–13** — the Rainbow is a Sign, but *not of an absent God*, or of his *absent Covenant*, but of the **present**.
+
+— ❦ —
+
+## Question 11. What is then the *Manner of Speech* in the words *"This is my Body"*, when they are taken *quite together*?
+
+**What is then the *Manner of Speech* in the words *"This is my Body"*, when they are taken quite together?**
+
+**It is a *Sacramental* or *special* Manner of Speech** — ***sacramentalis sive inusitata***. For the Bread is called the Body of Christ — **not** that it should have merely the *bare Name*, or be a *Memorial-sign of the absent Body of Christ*, but on account of and for the sake of **the Sacramental Unity** — insofar as **the true Body of Christ is united with the blessed Bread in an incomprehensible manner, and truly and present dispensed and received by the Communicants**.
+
+The Fathers — **Augustine, Chrysostom, Gelasius, Theodoret** — have compared them with the sayings of Christ *"God is become Man,"* etc., on account of the *Sacramental Union*: that just as in Christ the two Natures — Divine and Human — are personally united together, so also is there a **Sacramental Union of the Bread and the Body of Christ in the Supper**.
+
+Yet must here be always indicated that the Union in Christ is *personal*. But this Union in the Supper is **only in the Supper**, when it is dispensed and received; and is **not personal, but Sacramental**.
+
+**In Sum**: the Fathers have looked to this — that no one might think that in the Supper *only bare Signs* are dispensed, but *two Things*: **the Bread and the Body of Christ; the Wine and the Blood of Christ**. Which is also our concern.
+
+We strive not about the *names*: whether one call them ***sacramentalem*** or ***inusitatam***, or call them ***synecdochen*** as *Luther* has done, provided that one lets **the two Things in the Supper remain — Bread and the true Body of Christ, Wine and the true Blood of Christ**, as Christ's Words will have it.
+
+— ❦ —
+
+## Question 12. Yes, says the opposite side — one must explain them according to the sayings: *"Circumcision is the Covenant"*; *"the Lamb is the Passover"*?
+
+**Yes, says the opposite side — one must explain them according to the sayings: *"Circumcision is the Covenant"*; *"the Lamb is the Passover"*?**
+
+**That cannot be** (as also before was reported). For:
+
+**First**, in the said sayings *nothing* is spoken with any word of the *Distribution and Reception of the Body and Blood of Christ*, which at that time was not yet.
+
+**Second**, that Christ has for this very cause instituted this Sacrament *with certain intelligible Words* — that thereupon, and *nowhere else*, one shall take *what is dispensed in the Supper*. Whereto else were the Words of the Institutions of use?
+
+**Third**, that in the New Testament there are *not Shadows or Figures*, but the ***Corpus*** and *the Truth itself* — **Col. 2:17**. And that Christ in the Words of Institution speaks *not of a Figure of his Body*, but of *his essential Body itself*.
+
+### Objection.
+
+**The Sacramental Sayings are common in Scripture.**
+
+***Ergo***, so the words ("This is my Body") cannot be counted among the ***inusitatas locutiones***, or *unusual sayings*.
+
+**Answer**: ***Inusitatum***, *unusual*, is here not understood [as] *of that which alone is thought of only once in the Holy Scripture*, but *that which expresses such a Matter as is specially ordained by God*. As here, where the LORD Christ in the *special Ordinance or Institution* of the Supper takes the Bread and speaks: *"Take, eat; this is my Body, which is given for you."* For this is *specially ordained by Christ* and instituted in this Sacrament — that in this Sacrament with the sanctified Bread and Wine **the Body and Blood of Christ shall be dispensed and received**.
+
+Though the Sacramental sayings in Scripture are common, yet must they be explained *so, and not otherwise*, than as the Words of the Institution of each Sacrament bring with them and as they read. Otherwise all Sacraments must be *one Sacrament*, and there would remain *no distinction* between the same.
+
+— ❦ —
+
+## Question 13. What is to be held of the little words when one says: **In, With, Under the Bread**?
+
+**What is to be held of the little words when one says: In, With, Under the Bread?**
+
+**These are not our invention**, but by the Fathers so used — as with **Augustine, Cyril, Chrysostom**, and others is to be seen. Among others **Augustine** says: *"Receive in the Bread that which hung on the Cross,"* etc.
+
+**1.** We keep them, not that we thereby understand any **spatial Enclosure of the Body of Christ in the Bread** (that be far); but *first*: to give at the day our Confession against the Papal *Transformation*.
+
+**2.** Our Confession of the **Presence of the Body and Blood of Christ in the Supper** thereby to open.
+
+**3.** The opposite side, which otherwise uses *slippery words* in this matter to entice out — that they must speak straight — as at some time the old Church has, with the word ***Homousios*** ("one Being"), brought forth to the light the secretly cunning **Arians**, so that one could know them.
+
+**4.** We keep them also therefore, that we see that likewise the Scripture herself resolves and explains these sayings: *"Christ is God"* (Rom. 9:5) through the other manner of speaking *"God was in Christ"* (2 Cor. 5:19), yet not thereby abolishes the first. Why should we then, with the old Church, not be able to use this Particle, without disadvantage of the saying: *"The Bread is the Body of Christ,"* etc.?
+
+But if the opposite side otherwise agreed with the Truth in this Article, on account of the said Particle there would be easy Counsel to find.
+
+### Yes, [they say] — if ye keep this Particle, ye yourselves depart from the *proper Understanding* of the Words of the Supper, etc. For it is quite another saying: *"The Bread is the Body of Christ"* — and: *"In the Bread is the Body of Christ"*?
+
+**Answer**: Just as the Apostle — **2 Cor. 5:19** — where he writes *"God was in Christ"* — departs *not* from the other saying *"Christ is God"* but *explains* the same — so we depart, on account of the said saying, *in the least not* from the proper Understanding of the Words of the Supper, but use it only *by way of Explanation*, out of the causes shortly before indicated. We also prefer Christ's Words *"This is my Body"* to the other saying *"In the Bread is my Body"*. For Christ's Word we must keep — but the Fathers' Manner of speaking (provided we are otherwise united in the *Chief Matter*) we could well let go.
+
+### Objection.
+
+**If Christ's Words shall keep their proper Understanding, the said Particles cannot be used.**
+
+**Is a vain Objection.** For as little as Paul with the words *"God was in Christ"* would make the other saying *"Christ is true God,"* etc., *figurative* or *abolish* — so little do we, with the Use of the Particles ("In, With, Under the Bread," etc.) think to interpret Christ's Words *figuratively*. For we only use them, with the Fathers, *by way of Explanation*, and no further.
+
+### Objection.
+
+**If Christ's Body is given in the Bread, but the Bread is *spatially* there — then must Christ's Body also be *spatially enclosed in the Bread*?**
+
+**Answer**: The blessed Bread is well spatially there. But that from this should follow — *Ergo*, so Christ's Body is also spatially in the Bread *as straw in a sack*, etc. — this **follows not**. For **the Bread is there in one manner, and the Body of Christ in another manner**. For the same is not *spatially enclosed in the Bread*, but in a **supernatural, heavenly manner — which is incomprehensible to Reason — he is present**.
+
+To *be in the Bread*, or to be *dispensed and received with it* (for these sayings hold for us the same), means *not to be spatially there or enclosed*, but **certainly to be present, and to be dispensed and received with the same as with a means ordained thereto**. God himself is said — **Ex. 20:24**: ***In quocumque loco memoriam nominis mei instituero*** — *"In whatever place I shall establish the memorial of my Name, there will I be by thee."* Should or must he therefore be spatially there?
+
+So also Christ's Body in the Bread, or with the Bread, etc. — for we hold these to be *identical sayings*. It needs not therefore be *spatially there* or *enclosed*, though he certainly be *dispensed and received therewith*.
+
+### But even the practised Christians, when one says *"Christ's Body is in the Bread"* — cannot well ward off the thought that he is *spatially there*?
+
+**Answer**: We say hereto with **Martin Bucer**: on account of our *Ununderstanding and Weakness*, the truth of this Doctrine *cannot or shall not be altered*. It befits us in these matters to bring Reason *under the Obedience of Faith* — **2 Cor. 10:5** — and *not with the same contradict the Truth*.
+
+### But ye sing: *"Hidden in the Bread so small"* — *ergo*, so must ye indeed thereby understand a *spatial Enclosure of the Body of Christ in the Bread*?
+
+**True it is that we so sing.** But that we would thereby understand a spatial Enclosure of the Body of Christ in the Bread — that is *at bottom quite otherwise*. For we understand the said Words *no further than* concerning the **true Presence of the Body of Christ**, and that the same be *truly dispensed with the sanctified Bread in the Supper*. Which is an *Instrument or Means* through which Christ in the Holy Supper — which is held *here on Earth and not above in Heaven* — will dispense his true Body which he for us gave into Death.
+
+And it has *never come into our mind* (though our opposite side *constantly*, but *unrightly*, casts up to us) that we would understand such words of a **spatial comprehensible Enclosure**. And we say the same of the other Manner of Speech (*"to drink his Blood in the Wine"*) — that the same to us means nothing else than *to be present*, or that **Christ's Blood is certainly present**, and with the sanctified Wine truly dispensed and received. We fable also there **no spatial Enclosure of the Blood of Christ in the Wine**, etc.
+
+— ❦ —
+
+## Question 14. What means one then with the word ***corporaliter***, *bodily*?
+
+**What means one then with the word *corporaliter*, *bodily*?**
+
+**Answer**: Nothing else than that Christ's Body is *truly and essentially* — yet **not in a bodily, comprehensible, spatial, Capernaite manner**, but in a **heavenly, supernatural manner** — there is, and certainly is dispensed and received. And so **Hilary, *De Trinitate*, Lib. 8**, uses it. **Paschasius** uses the word ***realiter***, "with the Deed." Our opposite side gives out that we thereby understand a *spatial Enclosure*, but does us wrong before God.
+
+It follows not at all: *"Christ's Body is bodily, that is, truly present. *Ergo*, so is he *spatially* there."* For **Christ has, with his Body, more than the *spatial* manner of being somewhere and of dispensing his true Body**.
+
+— ❦ —
+
+## Question 15. Whereupon rests then properly the *Chief Dispute* in this matter between us and the opposite side, the Sacramentarians?
+
+**Whereupon rests then properly the Chief Dispute in this matter between us and the opposite side, the Sacramentarians?**
+
+**First**, one strives *not* whether **the Bread is transformed into the Body of Christ**, as the Papists fable. For thereto we say roundly **No**.
+
+**Second**, also *not* concerning the **spatial Enclosure of the Body of Christ in the Bread**, or of the Blood of Christ in the Wine. For those we also reject.
+
+**Third**, also *not* concerning the **Capernaite gross eating of the Flesh of Christ** — as they thought it must be *chewed with the teeth as other flesh* — which Eating our opposite side gladly would ascribe to us, but does us violence therein. For we with clear words reject it.
+
+**Fourth**, one strives also *not* concerning the **Spiritual Eating of the Body of Christ**, which happens through Faith. For this we teach on both sides.
+
+**Fifth**, also *not* concerning the **Adoration of the blessed Bread, Enclosure, or Carrying-about** of the same. For these we reject in like manner as the Transubstantiation or Transformation.
+
+**Rather, the dispute between us and them is this**: **Whether the true essential Body of Christ, and the true essential Blood of Christ, are — with the sacred Signs of Bread and Wine — truly and present offered and received**. For of the Presence of Bread and Wine there is *no dispute*: we confess together that Bread and Wine are dispensed in the Supper. But of the Body and Blood of Christ the opposite side says that they are **not dispensed nor received with Bread and Wine in the Supper**, because they are *farther therefrom than the highest Heaven from the lowest Earth*. But we say — **according to the Words of the Supper** — **Christ's Body and Blood are present dispensed and received therewith**.
+
+— ❦ —
+
+## Question 16. Whereout is then the *essential, true, present Distribution of the Body and Blood of Christ* in the Holy Supper *proved*?
+
+**Whereout is then the essential, true, present Distribution of the Body and Blood of Christ in the Holy Supper proved?**
+
+**The ground or proof we take not from the Presence of the whole Christ by the Creatures or otherwise, but *alone from the Words of Institution*** — which are ground enough for us. So we also *concede to no one* that the Words of Institution shall be the *materia* about which one strives — for they are, God be praised, *bright and clear enough*, and *explain themselves*.
+
+The little word ("My") speaks *plainly of Christ's Body*. The little word ("Body") cannot and may not be otherwise interpreted than of *Christ's Body*. ("Is") that cannot be understood *significatively*, forasmuch as there stands *"which is given for you."* The little word ("which") can here not be taken for the word ***quatenus***, or *so far as he is crucified*, but points **properly and unanswerably to the true Body of Christ which is truly given for us into Death**.
+
+Likewise the words of the Cup point us also to no *Figure or Memorial-sign of the absent Blood of Christ*. For thus speaks Christ — **Matt. 26:28; Mark 14:24**: *"This is my Blood, which is shed for you."* They speak of Christ's own Blood, and precisely of the Blood *that is shed for us*. But that was the *true Blood of Jesus Christ*. Wherefore we cannot from the Words ("My Blood") let ourselves make a *Sign of absent Blood* — forasmuch as the Blood of...
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues. Translation continues in Rebuild-Tranche 28.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
