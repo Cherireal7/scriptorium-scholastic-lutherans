@@ -5452,16 +5452,153 @@ privilegium_ottonianum_leonianum_964:
     Ottonian-imperial Church. MGH Diplomata regum et imperatorum Germaniae
     I:322-324; Sickel Das Privilegium Otto I. Innsbruck 1883.
 
+# ─── Tranche 2mm — Henry Fowler Fritzlar 919 + Otto extended Empire +
+# Avignon simony + POPE JOAN + Leo VIII 2nd Privilegium territorial-
+# restitution + 964 Roman Synod signatories (vl0223-vl0230) ─────────────
+
+henricus_auceps_fritzlar_919:
+  english: Henry the Fowler elected king at Fritzlar 919 (refused anointing)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0223"
+  note: >
+    Fritzlar in Mainz diocese classic Reichstag-site of East Frankish
+    Carolingian kings where Henry the Fowler elected King of East Franks
+    May 919 by Frankish and Saxon nobility ending Louis IV / West Frankish
+    overlordship claim. NOLUIT IN REGEM UNGI = refused royal anointing
+    (Widukind of Corvey Res gestae Saxonicae I.26 archbishop of Mainz
+    offered anointing, Henry declined saying enough that elected king by
+    peers). Standard Reformation Ottonian-humility topos. Reintegrated
+    Alemannia — 919-936 consolidation of East Frankish kingdom against
+    Duchy of Swabia + Bavaria + Lotharingia + Slavonic-Magyar frontiers;
+    victory over Magyars at RIADE 933 ended systematic raids following
+    Louis the Child death. Althoff Die Ottonen Stuttgart 2000. Note:
+    Theodoric of Niem here inverts chronology (Louis IV d'Outremer r.
+    936-954 much later than Henry's 919 election).
+
+otto_i_lotharingiam_burgundiam:
+  english: Otto I extended Empire to Lotharingia + Kingdom of Burgundy
+  type: reference
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0223"
+  note: >
+    Otto I inherited Lotharingia (Lorraine) from father. 951 marriage to
+    ADELHEID acquired Kingdom of Italy (Berengar II deposed at Pavia
+    951/952). Kingdom of Burgundy under Ottonian client-suzerainty
+    through brother-in-law Conrad the Peaceful r. 937-993 King of Burgundy.
+    Reformation-standard evidence of Ottonian RENOVATIO. IUS INVESTITURAE
+    PER OMNEM IMPERIUM (through whole Empire) classic pre-Investiture-
+    Controversy formulation MGH Constitutiones I.
+
+nemo_deinceps_habet_facultatem_electionis:
+  english: Exclusive imperial electoral clause (no one but the King)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0224"
+  note: >
+    NEMO DEINCEPS CUIUSCUNQUE GRADUS ET CONDITIONIS AUT DIGNITATIS SEU
+    RELIGIONIS ELIGENDI REGEM UEL PATRICIATUM SEU PONTIFICATUM SUMMAE
+    SEDIS APOSTOLICAE AUT QUAECUNQUE EPISCOPIA UEL ORDINANDI HABEAT
+    FACULTATEM SED SOLI REGI ROMAN. IMPERIJ HANC REUERENDA TRIBUAT
+    FACULTATEM ET ABSQUE OMNI PECUNIA DISPONAT. Reformation-standard
+    evidence of imperial-monarchical Church-jurisdiction. Simony always
+    excepted. Compare Melanchthon Tractatus §§37-51 on imperial convocation
+    of ancient councils.
+
+avinionis_papae_simonia_systematica:
+  english: Avignon Papacy simoniac practice via Apostolic Camera (Theodoric of Niem)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0224"
+  note: >
+    Theodoric of Niem's late-medieval polemical target: Avignon Papacy
+    1309-1378 systematic SIMONIAC practice of appointing archbishops
+    bishops abbots FOR THE COMMON SERVICE OF THE CARDINAL-LORDS through
+    APOSTOLIC CAMERA (papal-financial-treasury). Theodoric's De Schismate
+    1410 one of great anti-Avignon polemical treatises feeding into Council
+    of Constance conciliarism. Reformation-standard use: Avignon corruption
+    is immediate proximate cause of Reformation per Luther. Renouard The
+    Avignon Papacy London 1970.
+
+papa_ioanna_mulier_papissa:
+  english: Pope Joan legend (Mainz-born woman disguised as man, papacy, birth in procession)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0225"
+  note: >
+    Medieval legend of female pope (PAPISSA IOANNA) disguised as man,
+    born in Mainz, taught at Athens then Rome, elected pope, gave birth
+    in solemn procession, died in disgrace. Preserved Martin of Opava
+    Chronicon Pontificum et Imperatorum c. 1275 + Boccaccio De mulieribus
+    claris c. 1360 + Platina Vitae Pontificum 1479 (Vita Iohannis VIII).
+    Traditional dating post-Leo IV †855. Templum Pacis reference =
+    Basilica of Maxentius/Constantine Roman Forum; old marble statue
+    reflects medieval Roman VICUS PAPISSAE alleyway near Colosseum +
+    "statue of Roma". REFORMATION SMOKING-GUN — Luther Wider das Papsttum
+    zu Rom vom Teufel gestiftet 1545 WA 54:206-299 + Melanchthon + Magdeburg
+    Centuries. Modern historical-critical consensus Boureau La papesse
+    Jeanne Paris 1988 + Stanford Legend of Pope Joan London 1998 treats
+    as LEGENDARY arising 13th c from misread Roman monuments + anti-
+    clerical polemic. Flacius accepts as historical per 16th-c sources.
+
+leo_viii_secundum_privilegium_restitutio_964:
+  english: Leo VIII Second Privilegium 964 territorial restitution to Otto I
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0226-vl0230"
+  note: >
+    Follow-on to Leonian Adrianum-renewal (n691): whereas first privilege
+    concerned RIGHTS (papal-election-consent + investitures + patriciate),
+    SECOND concerns TERRITORIALITIES. Leo VIII formally RESTORES to Otto I
+    all Italian territories previously granted to Papacy (via Donations of
+    Pippin 754/756 + Charlemagne 774). REFORMATION SMOKING-GUN on Papal
+    States: held not by Constantinian donation but by Ottonian GRANT, and
+    grant made expressly on condition of REVOCABILITY (Pope's abjuration
+    is PERPETUUS but grant to Otto is IRREVOCABLE IN PERPETUUM). Enumerated
+    territories: essentially WHOLE 10th-c Papal-States claim PLUS additional
+    Byzantine-Italian territories = Ferrara + Istria + Dalmatia + Ravenna
+    Exarchate + Faenza + Cesena + Ancona + Perugia + Todi + Spoleto +
+    Rimini + Marches + Apulia + Calabria + Naples + Benevento + Capua +
+    Salerno + Sorrento + Sardinia + Corsica + Venice islands + Campania +
+    Aquino + Ferentino + Terracina + monasteries (Monte Cassino + Farfa +
+    Bologna). Schramm Kaiser Rom und Renovatio Leipzig 1929.
+
+papa_abiuratio_temporalium_super_reliquias:
+  english: Papal formal abjuration of temporalities on holy relics (964)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0226-vl0227"
+  note: >
+    PAPA IN GENERALI CONCILIO SUPER ISTIS UENERABILIBUS RELIQUIJS ABIURAUIT
+    PERPETUÒ ILLA REGALIA & TEMPORALIA QUAE TRANSTULIT IN IPSUM OTTHONEM
+    PRIMUM AUGUSTUM. Pope's formal abjuration of temporalities in general
+    council sworn upon holy relics. Reformation-standard proof for Papal
+    States as NON-PAPAL-BY-RIGHT — formally renounced by very Pope who
+    initially held them (Leo VIII). Later medieval-papal claim to Italian
+    territorial sovereignty exposed as USURPATION CONTRA SACRAMENTUM.
+    Quadruple relic-oath: (i) Cross of Lord = True Cross fragment (ii)
+    shoes of Peter's feet = Sancta Sanctorum treasury relic (iii) uno
+    stimeto in cositili (corrupt MS) (iv) above body of St Peter = Confessio
+    at St Peter's.
+
+papatus_sinistre_procedit_ex_temporalium:
+  english: Papacy proceeds sinisterly in Catholic faith due to illegitimate temporal claim
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Theodoric of Niem at vl0229"
+  note: >
+    Reformation smoking-gun passage: QUARE IGITUR ISTA SUNT OBLATA EIDEM
+    IMPERIO ROMAN. & NUNC PER DIUERSOS TENENTUR OCCUPATA TANQUAM SI SINT
+    DE IURE & PROPRIETATE ECCLESIAE ROM. ET ILLA FORSAN EST CAUSA QUARE
+    TAM SINISTRE PROCEDUNT IN CAPITIBUS NEGOCIA CATHOLICAE FIDEI.
+    Theodoric of Niem late-medieval anti-papal-usurpation argument: papal
+    SINISTRA PROCEDURA in matters of Catholic faith is DIRECT CONSEQUENCE
+    of Papacy's ILLEGITIMATE TEMPORAL-TERRITORIAL CLAIM. Fundamental
+    Reformation-Lutheran ecclesiological argument connecting papal
+    doctrinal corruption to papal temporal-usurpation.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Adrianum + Leo VIII 964 renewal to Otto
-# (vl0001-vl0222, 222 body pp + 32 paratexts ≈ 40.6% of 1094-pp body —
-# CROSSED 40% MILESTONE!). Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b)
-# + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f)
-# + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m)
-# + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t)
-# + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa)
-# + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg)
-# + 8 (T2hh) + 8 (T2ii) + 8 (T2jj) + 9 (T2kk) + 8 (T2ll) = 233.
+# FLACIUS 1556 — TRANCHE 2 through Leo VIII 2nd Privilegium + 964 Roman
+# Synod signatories (vl0001-vl0230, 230 body pp + 32 paratexts ≈ 42.0% of
+# 1094-pp body). Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6
+# (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) +
+# 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) +
+# 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) +
+# 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) +
+# 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) +
+# 8 (T2hh) + 8 (T2ii) + 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) = 241.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
