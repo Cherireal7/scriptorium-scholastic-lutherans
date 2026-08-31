@@ -2650,6 +2650,30 @@ Haec **Hincmarus**. Graeca illa synodus septima ab ipsis uocata, quâ à Francof
 
 **⁴⁵⁵** **The Council of Chalons-sur-Saône** — probably Chalons 813, one of the five reforming councils Charlemagne convoked (already glossed at endnote 416). Its canons on episcopal-priestly Scripture-study duty, restraint of superstition, and pastoral formation continue the Carolingian reforming programme.
 
+**⁴⁵⁶** Chalons's school-restoration decree — bishops must sedulously restore youth-schools everywhere. Reformation-standard proof for the Carolingian precedent of Christian education-mandate (which Luther and Melanchthon renewed as Reformation programme via Melanchthon *De officio Concionatoris* and the Wittenberg Ordinances).
+
+**⁴⁵⁷** Chalons's anti-clerical-rapacity canon — restraining clerical persuasion of the simple to donate to temples/monasteries then themselves enter religious orders, forcing restitution to defrauded heirs, prohibiting clerical hunting (dogs and falcons), inebriation, entanglement in civil business, and simoniacal fees for chrism/dedication/ordination. Standard Reformation-standard Carolingian moral discipline.
+
+**⁴⁵⁸** **Chalons 813 Canon 45 on pilgrimage-abuses** — the celebrated canon distinguishing five kinds of pilgrimage-abusers: (i) presbyters and clerics thinking pilgrimage purges their sins; (ii) laity thinking pilgrimage licenses future sin; (iii) powerful men using pilgrimage as pretext for extraction; (iv) beggars using pilgrimage for mendicant profit; (v) the deluded believing sight of holy places purges sins, against Jerome's *non Hierosolymam vidisse sed Hierosolymis pie vixisse laudandum est* (already glossed at endnote 324). Reformation-standard proof-text for Chalons's anti-pilgrimage discipline as pre-Reformation warrant.
+
+**⁴⁵⁹** The Carolingian *media via* on pilgrimage — piously-recommended penitential pilgrimage with prayer, almsgiving, moral amendment is permitted, but *not* pilgrimage-as-magical-sin-purge or pilgrimage-as-substitute-for-actual-repentance. Flacius reads Chalons as vindicating the *accidentia* of a good pilgrimage (prayer, alms, penance) rather than the pilgrimage-in-itself.
+
+## From the Catalogue — Methodius Illyricus (vl0138–vl0139)
+
+**⁴⁶⁰** **St Methodius of Thessaloniki** (c. 815 – 885), *Illyricus* by regional designation — one of the "Apostles to the Slavs" (with his brother Cyril †869), inventor of the **Glagolitic alphabet** for Old Church Slavonic. **Aventinus, *Annales Boiorum* IV** is Flacius's chief source for the 863+ Slavonic mission to Great Moravia and Pannonia. **Special significance**: Flacius's own regional/ethnic identification as "Illyricus" (from **Labin/Albona in Istria**) makes this entry a personal-genealogical statement of Illyrian Christianity's anti-Roman heritage.
+
+**⁴⁶¹** **Olomouc** (Olmütz), the Moravian centre where Methodius reportedly was buried (though modern hagiography usually locates his tomb at Sirmium or Velehrad). Flacius's *bonus vir* affection for Methodius is unmistakable.
+
+**⁴⁶²** **Illyrian vernacular liturgy still persists** in Flacius's own day (1556) — a fact of major Reformation-polemical importance: Roman uniformity is not universal even within Latin Christendom. The **Glagolitic-rite liturgy** of the Illyrian churches, formally sanctioned by Pope Innocent IV in 1248, persisted (and persists) in Croatian coastal dioceses as the unique Latin-communion vernacular exception.
+
+**⁴⁶³** **Aeneas Sylvius (Pius II)** (already at endnotes 152, 221, 323, 377) *Historia Bohemica* on the Roman Curia's *diu multumque deliberatum* over the Slavonic-vernacular question, resolved by a heavenly voice *Omnis lingua laudet Dominum* (Ps 150:6). Flacius's cross-reference to his own earlier Slavonic-churches entry (glossed at endnote 152). **Pope Eugene II** (824–827) letter to a **Moravian Methodius** raises the question of whether the 863+ Methodius is distinct from an earlier bishop of the same name — Flacius honestly leaves the question open.
+
+## From the Catalogue — Successores Paparum (vl0139)
+
+**⁴⁶⁴** **The doctrine that later popes may correct their predecessors' errors** — preserved in Gratian *Decretum* Causa 25 quaestio 1 (*Errata priorum Paparum à successoribus corrigi mutariq[ue] posse et debere*). Flacius seizes on the canonical text as *ex ore proprio* proof against papal infallibility: if popes may correct popes, then popes are not *ἀναμάρτητον* (*anamartēton*, impeccable/without-error). The Greek philosophical term deployed against the medieval theological claim.
+
+**⁴⁶⁵ The Belgian bishops** — the entry running vl0139 bottom+ concerns 9th-c. Belgian episcopal resistance to Roman jurisdictional overreach; specific figures to be identified in Tranche 2cc.
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```

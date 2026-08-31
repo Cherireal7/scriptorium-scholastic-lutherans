@@ -4059,14 +4059,53 @@ media_via_imaginum:
     via in Wider die himmlischen Propheten 1525 (WA 18:62-125)
     against both Karlstadt iconoclasm and Roman iconodulia.
 
+# ─── Tranche 2bb — Chalons + Methodius Illyricus + Successores ─────────
+
+chalons_canon_45:
+  english: Chalons 813 Canon 45 (5-fold pilgrimage-abuse taxonomy)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Cabilonense concilium at vl0136"
+  note: >
+    Chalons 813 Canon 45 distinguishes 5 kinds of pilgrimage-abusers
+    — (i) clerics thinking pilgrimage purges sins (ii) laity thinking
+    pilgrimage licenses future sin (iii) powerful men using as pretext
+    for extraction (iv) beggars using for mendicant profit (v) deluded
+    believing sight of holy places purges sins. Against Jerome non-
+    Hierosolymam-vidisse n324. Reformation-standard proof-text.
+
+methodius_illyricus_apostolos_slavorum:
+  english: Methodius of Thessaloniki (Illyrian Apostle to Slavs)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Methodius Illyricus at vl0138"
+  note: >
+    St Methodius c. 815-885 with brother Cyril †869 — Apostles to
+    Slavs, inventors of Glagolitic alphabet for Old Church Slavonic.
+    Aventinus Annales Boiorum IV. FLACIUS'S OWN REGIONAL IDENTIFICATION
+    as Illyricus (from Labin/Albona in Istria) makes this entry
+    personal-genealogical statement of Illyrian Christianity's anti-
+    Roman heritage. Glagolitic-rite liturgy sanctioned by Innocent IV
+    1248 persists in Croatian coastal dioceses.
+
+successores_paparum_correctio:
+  english: Successores Paparum errata corrigi possunt
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Successores Paparum at vl0139"
+  note: >
+    Gratian Decretum Causa 25 quaestio 1 — errata priorum Paparum
+    a successoribus corrigi mutariq[ue] posse et debere. Flacius
+    ex-ore-proprio proof against papal infallibility: if popes may
+    correct popes then popes are NOT ἀναμάρτητον (anamartēton
+    impeccable). Greek philosophical term deployed against medieval
+    theological claim.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Frankfurt substantive (vl0001-vl0135,
-# 135 body pp + 32 paratexts ≈ 24.7% of 1094-pp body). Flacius lemma total:
-# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
-# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
-# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) +
-# 4 (T2y) + 4 (T2z) + 4 (T2aa) = 145.
+# FLACIUS 1556 — TRANCHE 2 through Successores Paparum (vl0001-vl0139, 139
+# body pp + 32 paratexts ≈ 25.4% of 1094-pp body — CROSSED 25% MILESTONE!).
+# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
+# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
+# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
+# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
+# 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) = 148.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
