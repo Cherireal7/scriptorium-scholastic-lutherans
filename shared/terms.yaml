@@ -4791,15 +4791,144 @@ luitprandus_ticinensis_cremonensis:
     41 Chiesa 1998. Flacius uses old-parchment MS (Vitae Pontificum)
     attributed to Liutprand.
 
+# ─── Tranche 2hh — Ravenna letter close + Otto I 963 deposition of John XII
+# Theodoric of Niem + Liutprand + Fraxinetum flight (vl0183-vl0190) ──────
+
+missa_humanum_inventum_non_divinum_institutum:
+  english: Mass is human invention not divine institution (5-rite diversity proof)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ravenna letter close at vl0184"
+  note: >
+    From Charles the Bald's response (chapter 7) to the Ravenna clergy
+    letter — Flacius omits response for prolixity but extracts one crucial
+    substantive point: 5 different Mass rites coexisted at time: Jerusalem
+    (Liturgy of St James Byzantine-Palestinian) + Constantinople (Liturgy
+    of St John Chrysostom / St Basil Byzantine Rite) + Rome (Roman Rite)
+    + Milan (Ambrosian Rite) + Toledo (Mozarabic / Old Hispanic Rite).
+    Reformation-standard: liturgical diversity PROVES Mass is human
+    invention not divine institution — if divine institution had fixed
+    the Mass form, this diversity would not be permitted. Compare Luther
+    Formula Missae 1523 WA 12:205-220 + Deutsche Messe 1526 WA 19:44-113;
+    Chytraeus + Lutheran orthodoxy on liturgical jus non-divinum.
+
+ottho_primus_reformator_paparum:
+  english: Otto I the Great (r. 936-973) as imperial reformer of the papacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus at vl0184-vl0190"
+  note: >
+    Otto I r. 936-973 East Franks + 962-973 Emperor. Founder Ottonian
+    dynasty; consolidated imperial-ecclesiastical settlement. Founded
+    Magdeburg Archdiocese 968 (personal-ecclesiological identification
+    for Flacius = Magdeburg Centuries base). Enriched Roman Church with
+    secular dominions (Privilegium Ottonianum 962) with imperial-
+    ecclesiastical superintendence right. IUS INVESTITURAE = right of
+    conferring bishoprics. Held pre-Investiture-Controversy constitutional-
+    canonical foundation until Concordat of Worms 1122. Standard Timothy
+    Reuter Germany in the Early Middle Ages 1991 chs. 6-7. Deposed John
+    XII December 963 Roman Synod. Suppressed 2 successive schisms
+    (Capitolium + Castel Sant'Angelo papal claimants). Later deposed
+    Benedict V exiled to Saxony.
+
+theodoricus_niem_de_schismate:
+  english: Theodoric of Niem (c.1345-1418) De Schismate + De Reformatione
+  type: reference
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus at vl0185"
+  note: >
+    Theodoric of Niem (Dietrich von Niem) c. 1345-1418 Westphalian papal
+    chancellor from c. 1370, chief-of-scribes under Urban VI (1378-89) +
+    Gregory XII (1406-15) + John XXIII (1410-15). Author De Schismate
+    libri tres (1410) on Great Western Schism + De Reformatione Ecclesiae
+    (1411) presented at Council of Constance. Bishop of Verden 1408.
+    Modern edition Erler Leipzig 1890; modern study Heimpel Münster 1932.
+    Standard late-medieval-conciliarist source for Reformation polemic.
+    Flacius quotes Niem Book 5 chapter 9 on Otto I's papal reformation.
+
+ioannes_xii_octavianus_scandalum_papatus:
+  english: John XII (Ottavianus) — the teenage scandalous pontiff (955-964)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus at vl0185"
+  note: >
+    John XII r. 16 Dec 955-14 May 964 born Octavianus (Ottavianus) dei
+    Conti di Tuscolo son of Alberic II of Spoleto. Elected pope age 18.
+    FIRST DOCUMENTED CASE of papal name-change (Ottavianus → John).
+    Notorious for hunting wild animals + sexual scandals + gambling +
+    ordinations for simony + consecration in stable + mutilating
+    Cardinals who reproved him. Deposed by Otto I at Roman Synod December
+    963 on charges of sacrilege + adultery + simony + consecration in
+    stable. Died 14 May 964 either struck by stroke while committing
+    adultery or beaten to death by outraged husband (Liutprand tradition).
+    Standard Reformation-Lutheran locus classicus for medieval papal
+    corruption. Hüls Kardinäle Klerus und Kirchen Roms 1049-1130 (1977);
+    Zielinski Lex des Mittelalters V (1991).
+
+roma_synodus_963_deposit_ioannem_xii:
+  english: Roman Synod December 963 — Otto I deposes John XII installs Leo VIII
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus at vl0185"
+  note: >
+    Otto I convoked synod at Rome (4 or 6 December 963) at which JOHN
+    XII FORMALLY DEPOSED on charges of sacrilege + adultery + ordinations
+    for simony + consecration in a stable. LEO VIII r. 4 Dec 963-1 Mar
+    965 elected + consecrated in his place. Historically the deposition
+    was of doubtful canonical status (John XII still living), and Roman
+    clergy elected Benedict V r. 22 May-23 June 964 after John XII's
+    death, but Otto's imperial force reinstated Leo VIII. Reformation-
+    standard imperial-conciliar deposition of manifestly-immoral Pope.
+    Modern Gerhard Laudage Otto der Große und der Papst (Regensburg 2003).
+
+privilegium_ottonianum_962_investitura_episcopalis:
+  english: Privilegium Ottonianum 962 imperial-papal + episcopal-investiture
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus at vl0184"
+  note: >
+    13 February 962 confirmed imperial-papal relations and Ottonian
+    episcopal-investiture rights. Constitutional-canonical foundation of
+    pre-Investiture-Controversy imperial ecclesiastical government,
+    retained until Concordat of Worms 1122. Reformation-standard evidence:
+    IURA AC OPES IMPERIJ INUIOLATA CONTRA PONTIFICES SERUAUIT ECCLESIARUM
+    & CURAM & IUS EAS CONFERENDI HABUIT. Undercuts Donation of Constantine
+    since Ottonian donations to Roman Church are enormously post-Constantine;
+    Percy Ernst Schramm Kaiser Rom und Renovatio Leipzig 1929.
+
+berengarius_adalbertus_tyranni_italiae:
+  english: Berengar II + Adalbert Italian kings 950-961 vs Papacy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0188"
+  note: >
+    Berengar II of Ivrea r. King of Italy 950-961 + son Adalbert
+    r. co-king 950-961. Sacked Papal territory 959-960 triggering John
+    XII appeal to Otto I. Otto crossed Alps August 961, reached Rome
+    31 January 962, crowned Emperor by John XII 2 February 962 in Old
+    St Peter's Basilica = FOUNDING-EVENT OF HOLY ROMAN EMPIRE in Ottonian
+    form. Berengar II died in exile at Bamberg 966; Adalbert continued
+    to intrigue against Otto to c. 972. Vualdo Archbishop of Milan +
+    Otbertus Marchio testified to Otto against Berengar/Adalbert savagery.
+
+ioannes_xii_ad_saracenos_confugit:
+  english: John XII flees to Fraxinetum Saracen pirate stronghold
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0190"
+  note: >
+    After 962 imperial coronation John XII forgot oath sworn over body of
+    Peter never to favour Berengar/Adalbert. Conspired with Adalbert
+    against Otto. Then fled Rome to FRAXINETUM = Saracen pirate stronghold
+    at La Garde-Freinet in Provence (c. 890-975) from which Muslim raiders
+    operated across Alps and into Burgundy. COMMENDED HIMSELF TO SARACEN
+    FIDELITY. Reformation SMOKING-GUN: a Pope preferring the fellowship
+    of Muslim pirates to Christian imperial authority. Liutprand Historia
+    Ottonis (Flacius mislabels as Antapodosis Book 6). Modern Mohammad
+    Ballan "Fraxinetum: an Islamic Frontier State in Tenth-Century Provence"
+    Comitatus 41 (2010):23-76.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Ravenna clergy letter middle section
-# (vl0001-vl0182, 182 body pp + 32 paratexts ≈ 33.3% of 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Otto I / John XII / Fraxinetum flight
+# (vl0001-vl0190, 190 body pp + 32 paratexts ≈ 34.7% of 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
 # 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
-# + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) = 192.
+# + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) = 200.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
