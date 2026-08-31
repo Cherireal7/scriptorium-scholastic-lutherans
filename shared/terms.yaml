@@ -5762,16 +5762,157 @@ episcopi_a_metropolitanis_confirmati_1497:
     n42) rejecting Roman appellate jurisdiction. Dykmans Le Pontifical
     romain Rome 1985.
 
+visitator_ecclesiae_9c:
+  english: Visitator (Carolingian delegated-fellow-bishop for canonical episcopal election)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Charles-Bald at vl0239"
+  note: >
+    Carolingian-Frankish canonical office: a FELLOW-BISHOP FROM THE SAME
+    PROVINCE delegated by the Metropolitan to conduct on-site the
+    canonical steps of episcopal succession in a vacant see — convening
+    local clergy and people, reading out forma electionis, receiving
+    decretum canonicum, personally conducting elect to Metropolitan for
+    examination. Reformation-standard: the pre-Gregorian conciliar-
+    provincial alternative to later papal provisiones and papal nuntii.
+    Structurally recurs in each of the four Hincmar election-letters at
+    vl0239-vl0246. Devisse Hincmar archevêque de Reims 845-882 Geneva
+    1975-1976 II 731 ff.
+
+leonis_domus_domini_nihil_inordinatum:
+  english: Leo's House-of-the-Lord principle (nihil inordinatum, nihilque praepostere)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Charles-Bald at vl0239"
+  note: >
+    Leo I Epistulae (esp. Ep. 12 Ad episcopos per Mauritaniam
+    Caesariensem §5 PL 54:653 + Ep. 14 Ad Anastasium Thessalonicensem
+    PL 54:668-678); the phrase itself is a Carolingian conflation of
+    Leonine themes on ecclesiastical order, transmitted through
+    Decretales Pseudo-Isidorianae mid-9c which was Hincmar's working
+    canonical corpus. Reformation-standard canonical LOCUS CLASSICUS
+    for ecclesiastical ordo. Jasper-Fuhrmann Papal Letters in the Early
+    Middle Ages Washington DC 2001 137 ff.
+
+manus_cito_nemini_imposueris:
+  english: Lay hands hastily on none (1 Tim 5:22, examen electi tradition)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar election-letters at vl0239-243"
+  note: >
+    1 Tim 5:22 Vulgate MANUS CITO NEMINI IMPOSUERIS NEQUE
+    COMMUNICAVERIS PECCATIS ALIENIS — locus classicus of medieval
+    canonical EXAMEN ELECTI tradition, invoked by Hincmar in three of
+    the four letters at vl0239-vl0246. Reformation-standard reception:
+    Leo's exegetical gloss (CITO MANUS IMPONERE = HONOREM TRIBUERE NON
+    PROBATIS; COMMUNICARE PECCATIS ALIENIS = TALEM EFFICI ORDINANTEM
+    QUALIS EST ILLE QUI NON MERUIT ORDINARI) transmitted in Decretum
+    Gratiani D. 24 c. 6 Manus cito. Melanchthon Tractatus §§60-62 on
+    examen ministrorum + Formula of Concord SD X on episcopal ordination.
+
+sex_pontifices_hincmariani:
+  english: The six canonically-received Popes (Siricius/Innocent/Celestine/Leo/Gelasius/Gregory) as decretal fathers in Hincmar
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0245"
+  note: >
+    Hincmar's decretal fathers at vl0245: SIRICIUS (384-399) INNOCENT I
+    (401-417) CELESTINE I (422-432) LEO GREAT (440-461) GELASIUS I
+    (492-496) GREGORY GREAT (590-604) — the six papal authorities whose
+    letters were canonically received in the Frankish church of the 9c
+    (chiefly through Dionysiana + Hispana collections and by Hincmar's
+    day through Pseudo-Isidorian Decretals). Notably ABSENT from
+    Hincmar's canonical list: ANY ROMAN POPE AFTER GREGORY I — a
+    striking mid-9c limitation of authoritative papal decretals to the
+    PRE-MUSLIM patristic era. Reformation-standard proof that the
+    Carolingian church did NOT receive post-Gregorian papal magisterium
+    as canonically-binding. Fuhrmann Einfluss und Verbreitung der
+    pseudoisidorischen Fälschungen 3 vols Stuttgart 1972-1974.
+
+haeresis_symoniaca:
+  english: Simoniacal heresy (Simon Magus / buying-selling of ecclesiastical office)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0245"
+  note: >
+    Buying or selling of ecclesiastical office, named from Simon Magus
+    (Acts 8:18-24). Condemned as HAERESIS from Chalcedon 451 canon 2.
+    In Carolingian era anti-Simoniac norm central to whole reformatio
+    cleri, culminating in the GREGORIAN REFORM 11c and reaching
+    Reformation refraction in Luther An den christlichen Adel 1520
+    WA 6:428-441 on curial-Roman venditio beneficiorum. Weigand Die
+    Naturrechtslehre der Legisten und Dekretisten Munich 1967.
+
+neophyte_prohibition_1_tim_3_6:
+  english: Neophyte-prohibition for episcopal ordination (1 Tim 3:6 + Nicaea I canon 2)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0245"
+  note: >
+    From 1 Tim 3:6 (non neophytum, ne in superbiam elatus in judicium
+    incidat diaboli) canonized at Nicaea I canon 2 (novices lately
+    admitted from pagan life not to be promoted forthwith to
+    episcopate or presbyterate). Hincmar's characteristic phrase
+    NEOPHYTUM ID EST NOUITER ATTONSUM = newly-tonsured convert,
+    reflecting Carolingian discipline that catechumens received the
+    clerical tonsure only after prolonged probation. Statuta Ecclesiae
+    Antiqua mid-5c canons 87-89.
+
+forma_episcopi_disqualifications_9c:
+  english: Hincmar's 7-fold disqualification catalogue for episcopal ordination
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0245-246"
+  note: >
+    Hincmar's disqualifying-categories catalogue at vl0245-vl0246 draws
+    from multiple canonical sources: (i) EX LAICIS MILITAVERIT — bore
+    arms after baptism, Ancyra 314 c.24 + Nicaea I c.12; (ii) CAUSAS
+    GERINT — pleaded civil-law causes, Chalcedon 451 c.3 on saecularia
+    negotia; (iii) POSTULAVERIT — legally demanded/accused; (iv)
+    ADMINISTRAVERIT — held administratio publica, Chalcedon 451 c.3 +
+    Meaux-Paris 845-846 under Hincmar's own presidency; (v) AEDE
+    SERVIVIT — served pagan shrine, Statuta Ecclesiae Antiqua on former
+    pagan priests; (vi) PUBLICAM POENITENTIAM PRO CULPIS CRIMINALIBUS
+    EGIT — public penance for criminal offences prohibits ordination
+    since Siricius Epist. ad Himerium 385 §§8, 14; (vii) DIGAMUS UEL QUI
+    MARITAM UIDUAM DUXIT UEL SICUT CUBINAM UEL PELLICEM NOVIT — bigamist
+    + marrier of widow + concubinist per 1 Tim 3:2 (unius uxoris virum)
+    at Neocaesarea 315 c.7 + Statuta Ecclesiae Antiqua c.66. Reformation-
+    standard: the FORMA EPISCOPI which AC XIV De ordine ecclesiastico +
+    AC XXVIII De potestate ecclesiastica + SD X inherit and re-canonize.
+    Reynolds The Ordinals of Christ from Their Origins to the Twelfth
+    Century Berlin 1978.
+
+negotiator_clericus_prohibitus:
+  english: Negotiator-cleric prohibition (Chalcedon 451 c.3 + Meaux-Paris 845-846)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0246"
+  note: >
+    A cleric engaged in saecularia negotia (secular commerce),
+    prohibited from ordination and — if ordained — from continued
+    exercise of ministry: Chalcedon 451 c.3 + Second Council of Nicaea
+    787 c.10 + Meaux-Paris 845-846 c.25 under Hincmar's own presidency.
+    Reformation refraction: Luther Sermon von dem Kaufhandel und Wucher
+    1524 WA 15:293-322 critique of KRÄMERGEIST of medieval clerical
+    estate.
+
+analogia_fidei_hincmariana:
+  english: Analogia fidei as ratio praedicationis (Rom 12:6 + Matt 24:45)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0246"
+  note: >
+    MODUM VERBI FIDEI PROBATAE — Hincmar's elegant gloss on the
+    dominical CIBUM IN TEMPORE of Matt 24:45, connecting the forma
+    episcopi to the ANALOGIA FIDEI of Rom 12:6 (prophetiam secundum
+    rationem fidei). Reformation-standard resonance: the analogia fidei
+    as ratio praedicationis is central to Luther Vom Missbrauch der
+    Messe 1522 WA 8:477-563 and to whole Reformation forma docendi.
+    The Hincmarian phrase is the 9c BRIDGE between the Pastoral
+    epistles' forma sana and the Reformation's analogia fidei.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Antiquae agendae + Hincmar-Senlis opening
-# (vl0001-vl0238, 238 body pp + 32 paratexts ≈ 43.5% of 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Hincmar of Rheims canonical election-letters
+# (vl0001-vl0246, 246 body pp + 32 paratexts ≈ 45.0% of 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
 # 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
 # + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
-# 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) = 250.
+# 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) = 259.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
