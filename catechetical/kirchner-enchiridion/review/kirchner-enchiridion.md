@@ -9529,7 +9529,555 @@ When he sometimes now, after the Conversion, visits them *with the Rods of Child
 
 **Must then a Christian's Life be a continual Repentance?**
 
-**Yes indeed** — therefore **John** speaks: *"Do Repentance,"* etc.
+**Yes indeed.** Therefore **John** speaks: *"Do upright Fruits of Repentance"* — but the same must **endure so long as Man lives**. **There remains in the Flesh Sin**, which must *every moment be recognised*; evil lusts stir themselves, which must be *bewept and crucified* — **Rom. 7, 8; Gal. 5** — and one must be *held-in with God through Christ*, that he *will not reckon the same to us* — **Psalm 32:6**: *"For this shall all Saints entreat thee."*
+
+— ❦ —
+
+## Question 29. Does then the *Door of Grace* stand always open, so often as we do Repentance?
+
+**Does then the Door of Grace stand always open, so often as we do Repentance?**
+
+**Yes truly.** Only *when we turn ourselves to God from the whole Heart*. For **Ezek. 33:12** speaks: *"When a Godless becomes upright, so shall it not hurt him, that he was Godless."*
+
+— ❦ —
+
+## Question 30. What is to be held then of those who *spare their Repentance till the last little hour*?
+
+**What is to be held then of those who spare their Repentance till the last little hour?**
+
+**Answer**: **True Repentance comes never too late.** The **Thief** — **Luke 23** — is *taken up in Death's need*. But one shall *not sin thereon*, nor *spare the Repentance until then*: but rather in the *Time think back*. For it can *quite easily happen* that the *little Hour of Death overtake thee*, and *Death snatch thee away* ere thou canst even *think on Repentance*. Wherefore — though at *no one, while he lives, one is to despair* — yet **one shall thereupon not sin**. For *one may easily fail*. God promises indeed *Forgiveness of Sins* to those who do Repentance and believe on Christ — but he *promises no one to live long*, and *to drive on with sinning a good time yet*.
+
+— ❦ —
+
+## Question 31. For what Sins shall one then do Repentance?
+
+**For what Sins shall one then do Repentance?**
+
+**For all Sins** — be they great or small, all *shall one recognise*, and *at all times seek Grace* for Christ's sake with the *Heavenly Father*. **In sum, no Sin shall be excused**, however slight it may appear.
+
+— ❦ —
+
+## Question 32. Is the Description of Repentance right, where the Papists say — *Repentance is a Virtue, whereby we lament the committed Sin, with Purpose to abstain from the same, and take heed that we do such Sins no more*?
+
+**Is the Description of Repentance right, where the Papists say — Repentance is a Virtue, whereby we lament the committed Sin, with Purpose to abstain from the same, and take heed that we do such Sins no more?**
+
+**It is not right.** For Repentance is *not our Virtue*, but **God's Work in us**. So they leave out the **Faith in Christ** — without which no *penitent Sinner can comfort himself* and *raise himself up*, but must fall into *Despair*. Moreover, they attribute the *Bettering of Life* to *our Powers* — whereas the same is also a **Work of the Holy Spirit** — **Rom. 8:13**: *"If ye through the Spirit mortify the deeds of the Flesh, so shall ye live."* **Gal. 5:22**: *"The Fruit of the Spirit is Love, Joy, Patience,"* etc.
+
+— ❦ —
+
+## Question 33. Do they then teach right therein, that Repentance comprehends *three Pieces* — Contrition, Confession, and Satisfaction?
+
+**Do they then teach right therein, that Repentance comprehends three Pieces — Contrition, Confession, and Satisfaction?**
+
+**No.** For **God's Word knows nothing of this Division of Repentance**, and enumerates only the *two Pieces — Contrition and Faith* — **Mark 1:15**: *"Do Repentance, and believe the Gospel."* **Luke 24:47**: *"In his Name preach Repentance and Forgiveness of Sins."* Thus it also speaks *distinctly of the Fruits of Repentance* — **Matt. 3:8**: *"Do upright Fruits of Repentance,"* etc. Contrition is indeed a *Piece of Repentance* — but that it should be able to be *perfect*, or *merit Forgiveness of Sins*, has **no ground in God's Word**.
+
+**Confession is not a Piece of Repentance**, but far more a *Fruit and Consequence of true Contrition*. For where *right Recognition of Sins is in the Heart*, there follows the *Confession of Sins of itself* — **Psalm 32:3–5**: *"Thy Hand was day and night heavy on me, that my Sap was dried up, as it becomes withered in Summer. Therefore I confess to thee my Sin, and hide not my Misdeed. I said, I will confess my Transgression to the LORD — there thou forgavest me the Misdeed of my Sin,"* etc.
+
+**Satisfaction, however, is a Fable** which stands full of **Blasphemy of God**, takes from the **LORD Christ his due Honour**, and takes from the Consciences their *steadfast Comfort*, which they should have *in Christ Jesus and out of his Satisfaction*.
+
+— ❦ —
+
+## Question 34. Is then Repentance a *Sacrament*, as the Papists give out?
+
+**Is then Repentance a Sacrament, as the Papists give out?**
+
+**It is no Sacrament.** Reason: **it has no Element instituted by Christ**.
+
+— ❦ —
+
+## Question 35. Whence has then the Papists' Teaching of Repentance arisen?
+
+**Whence has then the Papists' Teaching of Repentance arisen?**
+
+**Without all doubt, from the Examples of those who** in the Church *after the Apostles' time* had to do *public Repentance* on account of their *public Sins*, etc. — with which the Ancients dealt *beyond measure strict*.
+
+**In the time of Gratian**, about the year **1150**, one first began to dispute of the *necessity of Confession and Satisfaction* — but *then no conclusion was reached*.
+
+**The *Magister Sententiarum*** (Peter Lombard) first made a **Sacrament** out of Repentance; thereupon the **School-Teachers** began to dispute of the ***materia*** and ***forma*** of this Sacrament.
+
+**In Gabriel's time** (who lived about 100 years ago) it was *still uncertain* what the *Sacrament of Repentance* had for a ***materia*** or *Element* — and even today they *cannot with confidence and out of God's Word show forth* what the ***materia*** or *Element* of this Sacrament of theirs may be.
+
+— ❦ —
+
+## Question 36. What do the Papists then teach of Contrition?
+
+**What do the Papists then teach of Contrition?**
+
+**First**, they say, *Contrition* is not the *Recognition of Sins which God works*, but that which *Man undertakes for himself freely of his own will*.
+
+**Second**, that *the Repenting prepares Man for the Reconciliation with God*, as the ***Concilium Tridentinum*** teaches.
+
+**Third**, that by the *Power of Contrition* — according to **Thomas Aquinas'** doctrine — the *Guilt is forgiven*, the *Punishment is taken away*, and *Glory is brought to pass*.
+
+**Fourth**, that *Contrition then merits Forgiveness*, when it *becomes perfect through Love* — that is, *when it goes from the Heart and out of Delight toward Godliness*. The School-Teachers name it **perfect Contrition**.
+
+**Fifth**, the ***Attritio*** or *half-Contrition* is not enough — yet it does serve for *Preparation to obtain Grace*. **Half Contrition** they call it, when Man does *so much as is in him*, and, though he *cannot from the Heart be an enemy of Sin*, yet he *wishes that his Sin might be sorrowful to him*, etc. **But none of these Pieces can they prove and show forth from God's Word.**
+
+— ❦ —
+
+## Question 37. What do they teach then of Confession?
+
+**What do they teach then of Confession?**
+
+**First**, that a Man must confess **all Sins** to the Priest, and that **with all Circumstances**; where this did not happen, the *Absolution should not be efficacious*. Whereas the **19th Psalm** says: *"LORD, who can mark how often he offends? Forgive me the hidden faults."*
+
+**Second**, they set a *certain Time to confess* — as *in the Fast*, and *especially in the Passion Week* — but also *without Christ's Command*.
+
+— ❦ —
+
+## Question 38. When did this Teaching of Auricular Confession under the Papacy properly begin?
+
+**When did this Teaching of Auricular Confession under the Papacy properly begin?**
+
+**In the Council of Lateran, Anno Christi 1200**. Before, there was *no Commandment of the same*. For in **Gratian's time** (about 50 years earlier) one had *still no Law* that *Confession must necessarily happen* — ***Distinct. I, de Poenitentia*** — and there were then many who *held that it was not necessary*. But **Lombardus** (Peter Lombard) went upon the *Necessity of the same*. The **School-Teachers**, who followed him, laid *still harder conditions* thereupon — as is to be seen in *their writings*.
+
+**Third**, thereto is come that they now make out of Confession and Absolution a *full judicial Process*, and give out that the Priest must there *weigh the Sin*, and according to its state *lay a Penance or Satisfaction on the Confessant*. **But God's Word knows nothing of this.**
+
+**Fourth**, they teach also that one need *only confess Deadly Sin* — because the *daily Sins do not need the Absolution*, but may well through *striking on the Breast* and *sprinkling with Holy Water* be *washed away and blotted out*. This Error arises thence, that they *understand not* what **Original Sin** and the *inward Corruption of Human Nature* is — and what a *Wretchedness follows therefrom*.
+
+**Fifth**, they give out that even if one *confesses all his Sins*, it yet *helps him not*, if he does not confess them to a **Priest** who has *from the Pope or Bishops the Power to forgive Sins* — but this they *cannot show from a single Saying of Christ, or of the whole New Testament*. To this **Ambrose** rightly speaks: ***Verbum Dei dimittit peccata: Sacerdos minister est, exhibens quidem officium suum, nullius verò potestatis iura exercens.*** *"God's Word forgives Sins. The Preacher is a Servant thereto, who indeed does his Office, but exercises no juridical Power thereover."*
+
+**Sixth**, they teach that there are ***casus reservati*** — *special Cases* in which *alone the Pope or the Bishops can dispense*, and that a *common Priest*, though they be confessed to him, yet *cannot forgive them* — *save in the Necessity of Death*, etc. **But Christ has instituted or commanded such with no Word.**
+
+### Objection. Yes (they say), no Judgment can happen where Recognition does not go before. *Ergo*, so must all Sins be confessed?
+
+**Answer**: **There is a great Distinction between the Worldly Power and the Preaching-Office.** *Worldly Governance recognises first* — but the *Preaching-Office gives Forgiveness of Sins to all who do Repentance and believe on Christ*; it *institutes no Recognition between the Sins*, nor *lays any Satisfaction upon*.
+
+— ❦ —
+
+## Question 39. A Confessant however can deceive the Priest in the common Confession?
+
+**A Confessant however can deceive the Priest in the common Confession?**
+
+**Answer**: **He can do that just as well when he shall enumerate all Sins in particular.** Wherefore one must *admonish the People* with whom they have to do, when they *seek Absolution* — namely, **not with Men, but with God himself**.
+
+— ❦ —
+
+## Question 40. What do they teach then of Satisfaction?
+
+**What do they teach then of Satisfaction?**
+
+**First**, that a Priest **can and shall lay Satisfaction on the Confessant** according to the state of his Sin.
+
+**Second**, that *such Satisfaction is meritorious*.
+
+— ❦ —
+
+## Question 41. What was in the Old Church the *Canonical Satisfaction*?
+
+**What was in the Old Church the Canonical Satisfaction?**
+
+**Answer**: Those charged with *public Sins*, and upon whom such was laid by the Bishops, *stood in a certain Place, separated from the state of the Right-believers*; had to be *specially clothed*, to *hold themselves*, to *fast, weep, pray*, to *publicly confess their Sins* — as such Ceremonies are to be found in **Tertullian, *De Poenitentia*, and in Eusebius, lib. V, cap. 28; lib. VI, cap. 25**, etc. These Penalties **Sozomen** names *τιμωρίας* (*timōrías*), the Latins have called them ***satisfactiones***, Satisfactions.
+
+Thence had **the Monks** in past times occasion to *dispute of Satisfaction* — out of *ignorance of the word Satisfaction and of the Ceremonies* which were *customary in the Old Church*.
+
+— ❦ —
+
+## Question 42. Why have then the Ancients set up such Church-Penalties?
+
+**Why have then the Ancients set up such Church-Penalties?**
+
+**That witnesses the Church-History**: namely, *not that the Penitents thereby atoned for their Sins*, but —
+
+**First**, that through such Ceremonies the *Mind of the Penitent should be searched out*, whether their Repentance were *earnest to them*.
+
+**Second**, that the *offended Church* might *herein have satisfaction done*.
+
+**Third**, that *others might take heed at such an Example*.
+
+**Fourth**, that those *who had fallen* might *hereby have cause for earnest weighing of their Sins*, and *for Bettering of their Life*.
+
+**Fifth**, that such Punishment might be a *public Signification* that the **Church of God**, or the **Gospel**, gives *no Freedom to sin*.
+
+Thereupon appears now, **what a great Distinction there is between the Satisfaction of which the Ancient Church-Teachers speak — and the Satisfaction of which now the Papists dispute**. For *what they lay on, everyone knows*, etc. That they also *hold such Ceremonies of the Old Church no more at all*. Wherefore they have also *no cause to appeal to the word ***Satisfactio*** or Satisfaction as the Ancients used it* — inasmuch as in the *Writings of the Fathers* it is used *much differently* than they now draw it in.
+
+— ❦ —
+
+## Question 43. What ***gradus*** of Satisfaction have the Papists invented?
+
+**What gradus of Satisfaction have the Papists invented?**
+
+**Five.**
+
+**The First** has comprised the *Works of Supererogation*, which God has *not commanded* — as there have been **Pilgrimages to the Saints, Rosaries, Fasting on certain Days**, etc.
+
+**Second**, that one *baptise oneself into an Order*, or *betake oneself to a Brotherhood*.
+
+**Third**, that one *seize hold of the Merit of the Saints who have died*. For the Pope gave out that he had *full Power to deal out the Merit of the Saints through Indulgences*.
+
+**Fourth**, was **Purgatory**. Since it was *uncertain* whether one had *rightly made satisfaction enough*, one pointed the People *to Purgatory*.
+
+**Fifth ***gradus*** were the **Vigils and Masses**, to save the souls out of Purgatory.
+
+**All these ***gradus***, when one holds them against God's Word, are found to be *pure human invention, Blasphemy, and lies*.**
+
+— ❦ —
+
+## Question 44. How do they understand it then, when they dispute of the Laying-on of Satisfaction?
+
+**How do they understand it then, when they dispute of the Laying-on of Satisfaction?**
+
+**Thus.** Since after the *Remission of the Guilt* — which, as they hold, *happens through Contrition* — there yet *remains an Obligation to temporal Punishments*, which however, on account of the *stern Righteousness of God*, is *impossible to us to avert*, and is also *not entirely known to us*, yet a very *satisfaction must be done therefor* — so is the *Priest* given the **Power** to *weigh and estimate such Punishment*, and *a Part of the same Punishments is forgiven by the Power of the Keys*; but the *remaining Part* must be *atoned by Satisfaction*. In order now that the *matter may be rightly done*, the Priest *lays a Satisfaction on the Confessant*, according to the state and finding of the Sins which he has confessed. And when the Confessant *fulfils the same Satisfaction*, so he *atones for God*, and *obtains Grace and Salvation* — and *this is the judicial Process* of which the **Tridentine Council** reports.
+
+— ❦ —
+
+## Question 45. Has this Teaching then also Ground in God's Word?
+
+**Has this Teaching then also Ground in God's Word?**
+
+**By no means.** For —
+
+**First**, it is certain that the **Forgiveness of Guilt is not to be separated from the Forgiveness or Remission of eternal Punishments**. As the Sayings clearly witness: *"That all who believe on him should not be lost, but have eternal Life"* — **John 3:16**. **Rom. 5:9**: *"We shall be preserved through him from the Wrath, since we are justified through his Blood."* Wherefore it is *by no means to be invented* that, though the *Guilt is remitted*, the *eternal Punishment yet remains to be paid*. For when the *Sin for Christ's sake is forgiven*, a Christian needs to fear neither *God's eternal Wrath* nor *eternal Punishment* — for a Believing Christian *certainly has eternal Life*. **John 3:36**: *"Whoever believes on the Son has eternal Life."*
+
+**Second.** Although the *Remission of the eternal Guilt* is to be *distinguished from the Remission of the temporal Punishments of this Life* — as the **89th Psalm** clearly witnesses: *"I will visit their Misdeeds with the Rod,"* etc. — yet it is *not true*, nor can it *be shown with any Saying of Scripture*, that the *temporal Punishments of Sin are subjected to the Power of the Keys or the Priestly Office*, and that the Priests should have *Power* to *lay Punishments or Satisfaction* on the *penitent Sinner*. For the *Work itself witnesses* that it *stands in no single Man's Power* to *punish with temporal Death, visit with Sicknesses, attack with War or Pestilence* — as it also stands *in no Man's Power to either lighten or entirely take away the same Punishments*. As also is to be seen in the **first Parents, in David, and in the Examples of other penitent Christians** — but *alone stands in God's Power*. How can then a *Priest, without God's Word and Command, undertake it*?
+
+**So is it also a pure sheer Fable** that they give out, that the *Punishments or Satisfaction which the Priest lays on atone the Sins, and win God's favour and Grace*. For **God's Word says nothing thereof**.
+
+**Third.** As much also as concerns the *temporal Punishments*: it is *before eyes* that God *lets them at times entirely fall in the Converted*, at times *lightens them* — and though he *lay them on*, yet it happens *not to the end that they should thereby atone Sin*, but **God has many other Causes** on which he sends *at times to his own the Cross and Suffering*. Whereof in the *Writings on the Cross and Suffering* Report is given.
+
+**Fourth.** In addition, there is a *great Distinction between the Papists' Satisfaction and the Crucifixion of the Flesh in the Christians*, which *daily happens and shall happen*. For the Christians *therewith do not atone their Sins*, but *withstand the evil Lusts of the corrupted Flesh* — **Gal. 5:24**. Paul **Rom. 7:23** *withstands the Sin dwelling in the Flesh*, but *atones it not thereby* — for the *Atonement for Sin has Christ Jesus alone accomplished*.
+
+**Fifth.** Over all this, it is clear that there is *only one single Satisfaction for all Sin*, namely, **the Suffering and Death of Jesus Christ**, to which alone the *troubled Hearts shall be pointed*. It is also *one of the most horrible Blasphemies of God* driven in the Papacy, that they point the Christians *to their own Satisfaction* — whereas **Christ alone has made satisfaction and paid enough for all the World's Sin**, and *no Man can atone or pay for even the smallest Sin*.
+
+**Sixth.** Although the Christians *shall and must be held to good Works*, yet their *good Works have not this End* that they should be *Satisfaction for Sin* — but are *only Fruits of upright Repentance* — **Matt. 3:8** — which they do, that Men may *see their good Works, and better themselves after their Example* — **Matt. 5:16** — and that **God foremost may be praised thereby**.
+
+— ❦ —
+
+## Question 46. They say however, one must through Satisfaction after committed Sin *rise up again*?
+
+**They say however, one must through Satisfaction after committed Sin rise up again?**
+
+**Is their own invention.** **1 John 2:1–2** stands: *"Little Children, when ye sin, know that we have an Advocate with the Father, Jesus Christ the Righteous, and the same is the Propitiation for our Sins."* There is *nothing said of our Satisfaction* — when we, *after Baptism or received Grace, sin*, but we are *then also only pointed to Christ*.
+
+— ❦ —
+
+## Question 47. Yet is *David* laid a Punishment upon in **2 Samuel Chapter 12**, after he was again received?
+
+**Yet is David laid a Punishment upon in 2 Samuel Chapter 12, after he was again received?**
+
+**Answer**: **God himself lays it on, and not the Prophet Nathan.** He also lays it on him *not that he may thereby make satisfaction for his Sin*, but that he *may hereafter become more wary*, and *guard himself more diligently against Sins*. Item, that he may have Cause *to live in constant Fear and Calling on God*, and to *shun Security*.
+
+— ❦ —
+
+## Question 48. It stands however **1 Cor. 11:31**: *"If we judged ourselves, we should not be judged."* *Ergo*?
+
+**It stands however 1 Cor. 11:31: "If we judged ourselves, we should not be judged." Ergo?**
+
+**Answer**: To *judge* here does not mean *to lay Satisfaction on oneself for one's Sin, or to have it laid on by Priests* — but it means **to accuse and blame oneself**, etc. Which happens by those who *do hearty Repentance*. For the same are *unwilling with themselves*, are *displeased with themselves*, and *ask God for Forgiveness through Christ*, with an *earnest Purpose to better their Life hereafter*.
+
+— ❦ —
+
+## Question 49. Yet **John** speaks: *"Do Fruits of Repentance."* *Ergo*?
+
+**Yet John speaks: "Do Fruits of Repentance." Ergo?**
+
+**Answer**: **But he speaks not of the Papist Satisfaction**, but of the *upright good Works which God himself has commanded*, which shall give *Witness* that we are *truly turned to God through Faith in Christ*.
+
+— ❦ —
+
+## Question 50. Yet **Moses** set up almost for all Sins *special Sacrifices*?
+
+**Yet Moses set up almost for all Sins special Sacrifices?**
+
+**Answer**: **There is a great Distinction between the Fore-figures of the Old Testament**, which pointed to **Christ's one Reconciliation-Sacrifice**, etc. — **and between the Papists' Satisfaction**. Wherefore such Sacrifices *do not at all rhyme in here*.
+
+— ❦ —
+
+## Question 51. Why is then the Papist Auricular Confession *abolished in our Churches*?
+
+**Why is then the Papist Auricular Confession abolished in our Churches?**
+
+**On the following Causes.**
+
+**First**: **That the Pope urges it on the Consciences**, and *entangles and confuses them therewith* — whereas *neither Christ nor the Apostles have ordered or commanded anything of such a Confession as is used in the Papacy*.
+
+**Second**: **That such Papist Confession quite turns the Gospel of Christ into the Doctrine of the Law.** For they give out that *Sin cannot certainly be forgiven*, where it is not *rightly and with all its Circumstances confessed* — which ***conditio*** or condition is *impossible*.
+
+**Third**: **That they make Confession itself meritorious**, for the *Remission of Guilt*, for the *Lessening of Punishments*, for the *Opening of Paradise*, and for the *Comfort of Salvation* — as such is to be read in the *School-Teachers' writings*.
+
+**Fourth**: **That it leads the Consciences into doubt.** For it is *impossible to know* whether one has *narrated all*, and *rightly recounted all Circumstances*.
+
+— ❦ —
+
+## Question 52. They allege however the *Antiquity*, that namely Confession has always been held in the Church as it is now in use?
+
+**They allege however the Antiquity, that namely Confession has always been held in the Church as it is now in use?**
+
+**The opposite however is true.** For **Christ has not thus taught it, nor the Apostles either — much less have they thus held it.** So it is also known from **Gratian** when the *Papist Auricular Confession first began* — as above thereof report is given.
+
+— ❦ —
+
+## Question 53. Yet has *Adam* confessed?
+
+**Yet has Adam confessed?**
+
+**But that was no Auricular Confession** of which the Pope teaches — but a *common Confession of Sins*. Which indeed came *sour enough to him* — as at **Gen. 3** is to be seen. For he wanted *straightway to excuse and justify himself*, and *reported not the Circumstances*.
+
+— ❦ —
+
+## Question 54. It stands however **Matt. 3**: *"They confessed their Sins"*?
+
+**It stands however Matt. 3: "They confessed their Sins"?**
+
+**The Words speak again not of the Papist Auricular Confession**, and *Enumeration of all Sins before the Priest*, but of the *common Recognition and Confession of Sins* which those did who *desired Baptism from John*. As indeed one then also *knew not a single little word of the Papist Auricular Confession*. **That one otherwise in general before the Church-Servants recognise oneself guilty of all Sins as before God**, is not against *God's Word*, nor against *our Church's Teaching*.
+
+— ❦ —
+
+## Question 55. In **Acts 19** however it is said: *"Many came and confessed and reported what they had done"*, etc. *Ergo*?
+
+**In Acts 19 however it is said: "Many came and confessed and reported what they had done", etc. Ergo?**
+
+**Answer**: **Luke deals there not with the Papist Auricular Confession**, which at that Time was *not yet in ***rerum natura*** (in existence)* — but with the *common Confession of those who had become believing*, and *now confessed that they had done wrong that they had driven curious Arts and gone about with sorcery*. He also reports not that they *narrated all their Sins in particular and with all Circumstances*, but that they *in general recognised and confessed that such their doing was not right* — as also **Augustine** in the *books of the ***Confessiones*** has written.
+
+— ❦ —
+
+## Question 56. **Luke 19**: *"Zacchaeus indeed reports he has defrauded many"*, etc. *Ergo*?
+
+**Luke 19: "Zacchaeus indeed reports he has defrauded many", etc. Ergo?**
+
+**Answer**: **But the LORD Christ demands from him no ***special*** Narration of all his Sins with all their Circumstances**, as the Pope does. But he *is content with the common Confession*, and *absolves him thereupon*, saying: *"To-day is come Salvation to this House."*
+
+— ❦ —
+
+## Question 57. The Scripture however speaks in many Places of the *Confession*; likewise the *Holy Fathers*. *Ergo* — so it is necessary.
+
+**The Scripture however speaks in many Places of the Confession; likewise the Holy Fathers. Ergo — so it is necessary.**
+
+**Answer**: **The Holy Scripture speaks first of the Confession which happens alone to GOD**, as **Psalm 32:5**: *"I said, I will confess my Transgressions unto the LORD."* And **1 John 1:9**: *"If we confess our Sin, then he is faithful and just, that he forgives us the Sin."* But *thereof is no dispute*. This Confession also *has nothing to do with the Papist Auricular Confession*.
+
+**Afterward it speaks of the ***brotherly*** Confession or Recognition** — **Luke 17:3–4**: *"When thy Brother sins against thee seven times in one day, and seven times comes again to thee and says: 'It repents me' — then thou shalt forgive him."* And hither belongs also the Saying **James 5:16**: *"Confess your Sins one to another,"* etc. This Confession also *does not at all concern the Papist Auricular Confession*.
+
+**Over that, the Scripture speaks in general of a Confession or Recognition which happens before the Church-Servants** — where also *never all Sins are enumerated*, as in the Papist Confession, but *in general the Sin is confessed*. As **2 Samuel 12**, where **David** speaks to **Nathan**: *"I have sinned to the LORD."* And **Nehemiah 8**, where the *People confess their Sin before the Levites*. Item: **Luke 7:38**, where the *Sinful Woman* laments her Sin *with tears* — but *not in particular narrating all*. **This Confession is Christian and praiseworthy**, is also *not rejected by us* — but *does nothing for the Papist Auricular Confession*.
+
+**As much however as concerns the ***Fathers' sayings*** of Confession**, the same treat also of *various matters*, as is easily marked out of the *Fathers' writings*. For at times they speak of the *public Confession before the whole Church, in public Sins* — as **Irenaeus, *lib. I, cap. 9***, where he reports of certain *Women who fell back from the Marcionites*, and *publicly confessed their Sins before the Church*. Likewise **Tertullian, *De Poenitentia***. Item, **Eusebius, *lib. VI, cap. 34***, where he mentions the *Emperor Philip's public Confession*. Item, ***libro V, cap. 28***, where he writes of *Natalis*, how he *publicly did Repentance and confessed his Sin*.
+
+**In the Church at Constantinople** in **Nectarius's** times, the Confession that was wont to happen *before a Priest specially appointed thereto* was abolished, since the *same had ill borne himself* — as **Sozomen** writes, ***lib. VII, cap. 16***.
+
+**Over this**, one finds in the Fathers certain Sayings which also admonish thereto — that in *lesser Sins* (for the *earlier all speak of gross and such Sins whereon one could be publicly put in the Ban*) one *should confess to the Priest*. But herewith is to be marked that **the Fathers therefore have not held** that the *Auricular Confession was of Divine Right*, or *by God himself instituted in such a fashion* — as *particularly the Pope teaches* — but *to obtain Comfort*. And though they also insisted upon it *most vehemently*, their *sayings can nevertheless make no Article of Faith* whereof one has *no express Word of God*, as one has *not for the Papist Auricular Confession*. As also **Gratian himself has read together therefrom unequal Sayings of the Fathers**.
+
+— ❦ —
+
+## Question 58. Why do we then *keep* Confession in our Churches?
+
+**Why do we then keep Confession in our Churches?**
+
+**Answer**: As much as the ***private*** Confession concerns, **we keep the same not out of Compulsion or Constraint of the Consciences**, or *that we would require Enumeration of all Sins with all their Circumstances* — as the Pope with his own does. But **on account of other Christian Causes**, namely:
+
+**That those who go to the Supper** may *announce themselves* and *entreat for the Absolution*; also that the Church-Servants may have *cause to examine their Parishioners*, whether they know *rightly to prove themselves* and *blessedly to use the Holy Supper* — whether they *rightly understand the Christian Doctrine* — especially of **Sin, Faith in Christ, and the Fruits of Repentance**. Item, **that the troubled Consciences, laden with Anfechtungen (Trials), may through the Preaching-Office be comforted also privately**.
+
+### Objection. Since it is not *clearly instituted in Scripture*, should one not keep it at all?
+
+**Answer**: **We keep it free, and without Compulsion of the Consciences**; also *compel no one to enumerate his Sin alone and with all Circumstances*, much less do we say that it is *meritorious* — but *use it only from the Causes* whereof shortly before mention was made. Item, that the Scripture *nevertheless in general remembers of the Confession which happens before the Priest*, as before was heard — though it *demands the Special Enumeration from no one*, which we then also do not do.
+
+### Objection. There is however much Misuse and Evil crept in with the Papists through Auricular Confession into the Church. *Ergo*, one should let it go entirely.
+
+**Answer**: **We do the Misuses away, punish them, and warn everyone of them.** What however is good, and serves for the *Edification of the Consciences and good Church-Discipline*, that **we retain**.
+
+### Objection. No one however can forgive Sin but God alone. *Ergo*: so it is not necessary that one keep the Confession for the sake of Absolution.
+
+**Answer**: **True it is, that God alone forgives the Sins — but he does such through Means**, namely, *through the Church-Servants* — as Christ **John 20:23** speaks: *"Whose Sins ye remit, they are remitted unto them."*
+
+### Objection. That however can well happen through the public Preaching-Office, etc. *Ergo* — is the Confession then not needful?
+
+**Answer**: Just as it follows not — *"A Christian can well through the public Preaching-Office be made partaker of all the Benefits of Christ. Ergo, so he needs not the Supper"* — **so it also follows not**: *"A Christian can through the public Preaching-Office obtain Comfort. Ergo, so he needs not the special Comfort which is imparted to him through the private Absolution."* For **through both wills the LORD Christ be efficacious**, as such also *witnesses the Experience of all pious Christians*. So also often *tempted Christians have such cases* that they *well need the good Counsel of their Pastors*. Which they can then *seek and obtain from them in the Confession*.
+
+— ❦ —
+
+# XXXII.
+
+# Of Christian Freedom.
+
+## Question 1. What is understood through the word *Freedom* in this matter?
+
+**What is understood through the word Freedom in this matter?**
+
+**Chiefly the *Spiritual Freedom*, or *Deliverance from Sin and eternal Damnation*** — **John 8:36**: *"When the Son makes you Free, then shall ye be truly free."*
+
+— ❦ —
+
+## Question 2. What is then *Christian Freedom*?
+
+**What is then Christian Freedom?**
+
+**It is a *Spiritual Freedom* or *Deliverance from Sin, the Power of the Devil, the Accusation of the Law, God's Wrath, and Death** — likewise **from Mosaic Ceremonies and Man's Ordinances**. Which Freedom **Jesus Christ has purchased**, and to *all Believing Christians of Grace through Faith on him* is *bestowed*.
+
+— ❦ —
+
+## Question 3. How is Christian Freedom divided?
+
+**How is Christian Freedom divided?**
+
+**Into four Pieces.**
+
+**The First is: Freedom from Sin**, that it should not condemn the Believing — **John 8, Gal. 3 and 5, Col. 2:14**: *"He has blotted out the Handwriting that was against us,"* etc.
+
+**The Second** is that the *Sin's Dominion has been taken away* in our mortal body. For to the Believing the Holy Spirit is given, who in them *takes away the Dominion of Sin*, *crucifies the same from day to day*, and *sets a new life in the Believing*. Wherefore **Rom. 8:13** stands, that we shall *mortify the deeds of the Flesh*. And **Rom. 6:22**: *"Ye are made free from Sin and become the Servants of God."* **1 Pet. 2:16**: *"As the Free — and not as had ye the Freedom for a cover of Wickedness — but as the Servants of God."* **Gal. 5:13**: *"Ye are called to Freedom, only see that ye give not room to the Flesh through the Freedom, but through Love serve one another."* Though this Piece in this Life is and remains **imperfect**, yet it must be **begun in the Christian**.
+
+**The Third Piece is Freedom from *Worldly* and *Church-Laws* of Moses.** For these are given only to the People of Israel, and thereto for a certain time — namely, **till Christ's coming** — **Matt. 11:13**: *"The Law and the Prophets prophesied until John."*
+
+The **Jewish Kingdom** was instituted, that there might be a *certain Place and People* in which the *Messiah should be born*, and thereafter *ceased*.
+
+The **Church-Laws** were ordained, that they should be *Fore-figures of coming Things* — **Heb. 10:1**. Now Christ is appeared and has *fulfilled all*, so they *cease*. And is also therefore *Kingdom and Temple of the Jewish People destroyed*, that we may know that these *Laws no more bind the Christianity of the New Testament*. And that Christians may well use such *Laws in outward matters as are set by the Authority of each place*, and are not repugnant to the *Law of Nature or God's Word*.
+
+**The Fourth Piece** is **Deliverance from *Man-made Ordinances*, or *Adiaphora*** — that the Christians' Consciences should *not be bound to them, to become blessed thereby*. But of Man-made Ordinances further Report shall hereafter happen.
+
+— ❦ —
+
+## Question 4. Who is however the true *Author* of this Freedom?
+
+**Who is however the true Author of this Freedom?**
+
+**God himself.** For *no Creature could have invented or brought to pass the same*. Inasmuch as *to no Creature was it known* how *Sin was to be abolished, God's Wrath stilled, and Men reconciled with God*.
+
+— ❦ —
+
+## Question 5. What moved him thereto?
+
+**What moved him thereto?**
+
+**First**, **his overflowing Mercy**, whereby he was *not willed that we should all die under the Yoke of Sin* — **John 3:16**.
+
+**Second**, **our great Misery and Wretchedness** — for we could *in the least not make ourselves free of the Kingdom of Sin, under which we were sold* — **Rom. 7:14**.
+
+— ❦ —
+
+## Question 6. Who has however *merited* this Freedom?
+
+**Who has however merited this Freedom?**
+
+**Jesus Christ**, with his *Repentance for Sin*, and *Fulfilment of the whole Law*. **John 8:36**: *"When the Son makes you Free, then shall ye be rightly Free."*
+
+— ❦ —
+
+## Question 7. Whom does this Freedom then concern?
+
+**Whom does this Freedom then concern?**
+
+**Alone the Believing**, who through *Faith are in Christ Jesus* — **Rom. 8:1**. For in the same is *nothing damnable*. Though also indeed *through Christ's Death the whole human Race is redeemed*, yet **alone the Believing are made partakers of such Redemption** — **John 1:12**: *"He has given Power to become Children of God to all those who believe on his Name."*
+
+— ❦ —
+
+## Question 8. What Properties has it?
+
+**What Properties has it?**
+
+**First**, that it is **Spiritual and not Fleshly** — belongs *to the Conscience* and *not to the Flesh* — **Gal. 5**.
+
+**2.** That it comprehends in itself the *Bestowal of the Righteousness which avails before God*, the *Gift of the Holy Spirit and his Ruling*. Item, the *Comfort and Assistance in all Needs*, etc.
+
+**3.** That it on the contrary encloses in itself **Freedom from Sin, God's Wrath, Curse of the Law, Tyranny of Satan, from eternal Death and Damnation**.
+
+**4.** That it is *first in that Life fully accomplished* — as much as concerns the *Renewal of the Heart or inward Man*. For there our Nature is *first entirely delivered from Sins*, and *shall perfectly serve Righteousness* — **1 Cor. 15**. **2 Pet. 3:13**: *"We however wait for a new Heaven and a new Earth, according to his Promise, in which Righteousness dwells."*
+
+— ❦ —
+
+## Question 9. What is the End of this Freedom?
+
+**What is the End of this Freedom?**
+
+**The End of the same is *eternal Life*.** For therefore are the Christians *made free*, that they through *Christ's Grace may become Heirs of eternal Life* — **John 3:16**: *"That all who believe on him may not be lost, but have eternal Life."*
+
+— ❦ —
+
+## Question 10. What Fruits does it bring then?
+
+**What Fruits does it bring then?**
+
+**Where this Freedom is in the Heart, there is *Freedom of Conscience and Peace with God*** — there dwells also the *Holy Spirit* — **Rom. 5, 8**. And **Man serves henceforward no more the Sin, but the Righteousness**. For the *Christian Freedom* does *not deliver the Believing from Obedience of the Ten Commandments*; but because they have such Freedom from Christ *out of pure Grace*, and are thereto made *partakers of the Holy Spirit*, they are *by so much the more bound* — through a **holy Life** to be *thankful therefor*, to *withstand the Sin dwelling in the Flesh*, and *in Righteousness to serve God the LORD*. **Rom. 6:18**: *"But now, since ye are made free from Sin, so are ye become Servants of Righteousness."*
+
+— ❦ —
+
+## Question 11. Do then the Papists teach right — that to the Christians the *Obedience of the Law* is *needful to Salvation*?
+
+**Do then the Papists teach right — that to the Christians the Obedience of the Law is needful to Salvation?**
+
+**No.** For such is **directly opposite to the Doctrine of Christian Freedom**. Since **Christ has fulfilled the Law for us**, and through *Faith reckoned such Fulfilment to us for Righteousness*. **Rom. 10:4**: *"Christ is the End of the Law for Righteousness, to all who believe on him."* That we, *through the Law and its Works*, on account of the *Corruption of our Flesh*, *could not become righteous or blessed before God*.
+
+— ❦ —
+
+## Question 12. Is it then right that they give out — *Human Ordinances are needful to Salvation*, and *the Pope and the Bishops have Power to set up the same*?
+
+**Is it then right that they give out — Human Ordinances are needful to Salvation, and the Pope and the Bishops have Power to set up the same?**
+
+**By no means.** For therefrom has *Christ also freed us*. And because *God's Law is not needful to Salvation, to obtain the same thereby* — **much less can Human Ordinances**, of whomsoever they are set up, *serve thereto*. So Christ *rejects over that Human Ordinances and Teachings*, **Matt. 15:9**, *with clear Words*, and says: *"They serve me in vain therewith."*
+
+### But to the Bishops one is obligated Obedience. The same set up such Ordinances. *Ergo*, so is one bound to be obedient to them in the same?
+
+**Answer**: **The first Speech holds of matters which have Ground in God's Word.** For therein are Christians bound to render them Obedience. But **of Human Ordinances**, which — *as God's Commands* — are *laid upon the Consciences and made needful to Salvation*, **it does not hold at all**.
+
+As much as touches the *Minor*: we grant, in the case of upright Bishops who ordain something that serves *for the Edification of the Church and good Order* — as long as they do **not urge it upon the Consciences as a Divine Service and needful to Salvation** — but otherwise **we grant them nothing at all**.
+
+— ❦ —
+
+## Question 13. How then shall one use the Christian Freedom in Middle-Things (Adiaphora) or Church-Ordinances, etc.?
+
+**How then shall one use the Christian Freedom in Middle-Things or Church-Ordinances?**
+
+**First**, that no Church *lightly damn the other* on account of such Ordinances. For **Pope Victor** did certainly not right when he *damned the Asian Churches on account of the Passover-Feast*, that they *still held Easter with the Jews* — **Socrates, *lib. V, cap. 22***.
+
+**Second**, that we **spare the Consciences of the Weak** — **Rom. 14:1**: *"Him that is weak in Faith receive; and confuse not the Consciences. One believes that he may eat all,"* etc. **1 Cor. 8:13**: *"Wherefore, if the Meat offend my Brother, I will never more eat Flesh, that I offend not my Brother,"* etc.
+
+**Third**, as much however as concerns the **stiff-necked**, who are *not to be pointed* — the same we shall also **not strengthen in their Stubbornness**, that the *Christian Freedom suffer no Need*, but *use the same comfortably*. Whereof **Paul** — **Gal. 2:5** — writes: *That he did not for a single hour yield to the *false Brethren* who would have *reduced the Christian Freedom to Servitude*, etc.* As also now is to be done with the *stiff-necked Papists*.
+
+— ❦ —
+
+## Question 14. May one then not at the *Time of Persecution* yield to the Enemies of the Truth in such outward Ceremonies, and accept the same for *Peace and Rest's* sake?
+
+**May one then not at the Time of Persecution yield to the Enemies of the Truth in such outward Ceremonies, and accept the same for Peace and Rest's sake?**
+
+**No.** In the Time of Persecution, **in ***casu confessionis*** (in the case of Confession)**, when the Adversaries go about therewith to — either through *force or compulsion*, or otherwise in a *cunning manner* — *press down the pure Doctrine*, and *quietly again slip in their false Doctrine into our Churches* — one shall and can **also in Middle-Things with a good Conscience not be at their will**, or *to please them accept such Ceremonies*, etc. **2 Cor. 6:14**: *"Draw not on the strange Yoke,"* etc. **Gal. 5:1**: *"Stand fast in the Freedom wherein Christ has made you free."*
+
+**Of such fashion, the War-men of the Emperor Julian** — as **Theodoretus, *lib. III, cap. 16***, writes — *would not, to please Julian, cast a single Corn of Incense on the Heathen Altar*. Those who *had done it*, however, *were held by the others for ***Mamalucks*** and apostate Christians*. Wherefore *pious Hearts shall diligently guard themselves from Compromise with the **Roman Antichrist***, and *not enter into dealings with him* — unless he *let the damned Papacy fall*, and *accept and confess with us the Truth of the Gospel*.
+
+— ❦ —
+
+## Question 15. What is however to be held of the *now-present Jews*, or of those who *would burden us with the Mosaic Law* — as there is the **Sabbath**, or *others*, etc.?
+
+**What is however to be held of the now-present Jews, or of those who would burden us with the Mosaic Law — as the Sabbath, or others?**
+
+**These are in the Church of Christ not to be heard.** For — as above said — the **Ceremonial and other Laws of Moses** are, through *Christ's Appearance*, **entirely done away**. Wherefore we shall *not make ourselves partakers of the same again*. **Gal. 5:2**: *"If ye let yourselves be circumcised, so Christ profits you nothing."*
+
+— ❦ —
+
+## Question 16. Is it then right, under the *pretence of Christian Freedom*, to withdraw the *due Obedience from the Authorities*?
+
+**Is it then right, under the pretence of Christian Freedom, to withdraw the due Obedience from the Authorities?**
+
+**That is not right.** For **Paul** rightly speaks — **Gal. 5:13**: *"See that ye through the Freedom give not room to the Flesh."* **In Sum: the Christians' *Spiritual Freedom* does not abolish the Obedience of the Authorities in temporal matters**, etc.
+
+### Objection. It is however the Freedom's Property to owe nothing to no one. The Christians are Free. *Ergo*, so are they to no one anything owing.
+
+**Answer**: The *first Proposition or Major* passes when speech is of the *Freedom which is in God himself*, and of the *Deliverance from Sin which has happened through Christ*.
+
+As much however as concerns the *Minor* — it is *no further true* than of the **Spiritual Freedom**, but **not of the Obedience which the Christians owe to the Authorities in outward matters**. The *Curse of the Law* is *taken away through Christ*, but *not the Obedience*. Wherefore Christ himself speaks — **Matt. 22:21**: *"Give unto the Emperor what is the Emperor's, and unto God what is God's."*
+
+— ❦ —
+
+## Question 17. Do then the *Libertines* teach right — that to a Christian *all matters, even Sin, are without distinction free*?
+
+**Do then the Libertines teach right — that to a Christian all matters, even Sin, are without distinction free?**
+
+**By no means.** For **the very Christian Freedom therefore comprises the Gift of the Holy Spirit in itself, that we should know to *shun Sin and Evil*, *not to serve Sins*, or *let the Dominion in our mortal body*** — **Rom. 6:12**: *"Let not now Sin reign in your mortal body, to obey it in its Lusts,"* etc.
+
+### Objection. Paul speaks however **1 Cor. 6:12**: *"I have Power over all,"* etc. *Ergo*?
+
+**Answer**: **The Apostle in the said Words speaks of Middle-Things** — as of *eating Flesh which had been sacrificed to the Idols* — and teaches that *it is free to eat the same*, provided **no Superstition is thereby** — or that it *happen not with Offence of the Church or the Weak Consciences*, to whom the *Doctrine of Christian Freedom is not yet sufficiently known*. Wherefore it *avails not to conclude therefrom, "Ergo, so may a Christian do all he wills."* For **St. Paul teaches such not** — yea, far more *earnestly forbids* it, especially **1 Cor. 5, 6; Gal. 5:19–21**: *"The Works of the Flesh are manifest, which are: Adultery, Whoredom, Uncleanness,"* etc. — *"of which I have said to you before, and say again before, that those who do such shall not inherit the Kingdom of God."*
+
+### Objection. **1 Cor. 9:5** stands: *"Have we not Power to lead about a Sister to Wife,"* etc. *Ergo*, so wills Paul that one may also *drive Unchastity*, etc.
+
+**Answer**: **This is a Devilish perversion of the Apostle's words.** For he speaks there of the **holy Marriage-Estate**, which stood to **Paul and Barnabas** as free as to the others. So these Blasphemers *twist it upon Unchastity, Shame, and Villainy*, and would *thence force out that the Christians should have Power to drive the same free and without shame* — whereas even **Paul, 1 Cor. 6:9**, writes that *no Whoremonger or Unchaste shall possess the Kingdom of God*, etc.
+
+— ❦ —
+
+# XXXIII.
+
+# Of Offence (Ergernuss).
+
+## Question 1. What is or means *Offence*?
+
+**What is or means Offence?**
+
+**An evil Word, Doctrine, or Deed, whereby other People are offended**, or *stumble that they fall*.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
