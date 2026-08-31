@@ -404,7 +404,197 @@ Whence Christ says (**Luke 24:48**): *"Ye are witnesses of all these things."*
 
 — ❦ —
 
-*[Chapter I continues in the source through further Q&A on the Councils, human traditions, 2 Thess. 2:15, and the fourfold difference between pagan and Christian doctrine. Translation continues in Rebuild-Tranche 2.]*
+## Question 24. Whether one is bound to believe the Councils even where they bring no Word of God?
+
+**Whether one is bound to believe the Councils even where they bring no Word of God?**
+
+**No.** For Christ says (**John 10:4–5**): *"My sheep hear my voice, and a stranger they follow not."* And Paul (**Gal. 1:8**): *"If even an angel from heaven should preach unto you another Gospel,"* etc.
+
+— ❦ —
+
+## Question 25. But when the Councils are not to be further believed than according to God's Word — when then shall the disputing come to an end?
+
+**But when the Councils are not to be further believed than according to God's Word — when then shall the disputing come to an end?**
+
+**Answer.** When the wrong party will not let itself be shown by God's Word, but goes on obstinately in its erring opinion once set — then *God himself* at last steps in and makes an end of the strife: as happened from the beginning with Arius and other suchlike heretics.
+
+— ❦ —
+
+## Question 26. Whether one is not bound to believe human traditions?
+
+**Whether one is not bound to believe human traditions?**
+
+**No.** They may not be equated with God's Word, for they come from sinful men. So says God's Word expressly, that one honours God in vain with such doctrine as is human command (Matt. 15:9). Beside that, it also plainly teaches (1 Thess. 5:21), that one shall *prove all things*, and only *what is good* — that is, what is in accord with God's Word — is to be kept. But the touchstone is (as said) God's Word. The LORD Christ also has not said, *"I am a human doctrine or custom,"* but *"I am the Truth."*
+
+— ❦ —
+
+## Question 27. But does the Apostle not say, 2 Thess. 2:15: "Hold fast the traditions ye have been taught"?
+
+**But does the Apostle not say, 2 Thess. 2:15: "Hold fast the traditions ye have been taught"?**
+
+**Answer.** The Apostle in the said Words speaks not of human traditions *apart from God's Word* — but of the doctrine which the Apostle set forth to the Thessalonians partly in preaching, partly in his first Epistle to the Thessalonians. For the Apostles have not preached one doctrine when present, and written another when absent, and further commanded a third to the Church over and above — so that one doctrine ran against another.
+
+— ❦ —
+
+## Question 28. What difference is there between the doctrine of the heathen and of the Christian Church?
+
+**What difference is there between the doctrine of the heathen and of the Christian Church?**
+
+**Answer.**
+
+**First**, the doctrine of the heathen is brought forth from human reason alone; the Scripture, however, is given by God himself.
+
+**Second**, the doctrine of the heathen is only a small particle of Law and of Virtues; of the *Being* and gracious *Will* of God she knows nothing certain. But the doctrine of the Christian Church is *both of the Law and of the Gospel*, complete, and sufficient for the true knowledge of God.
+
+**Third**, the doctrine of the heathen confirms **idolatry** and invocation of those who are no gods but only creatures. The Scripture, however, teaches only the right knowledge of God, and how one is to invoke the living God and no creature.
+
+**Fourth**, the doctrine of the heathen is not a means through which God enlightens and converts the hearts of men — but rather an *instrument* through which Satan turns the hearts away from God. The Christian religion, however, or God's Word, is an *Instrument* through which God converts, renews, enlightens, and sanctifies the hearts unto eternal life. As Rom. 1:16 stands: *"The Gospel is a power of God unto salvation to all who believe thereon."*
+
+— ❦ —
+
+*[Here ends Chapter I.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Chapter II
+
+### *Von Gott*
+
+*On God*
+
+— ❦ —
+
+## Question 1. How and whereby will God the LORD be rightly known?
+
+**How and whereby will God the LORD be rightly known?**
+
+**In and by his Word**, wherein he has revealed himself.
+
+**Ps. 119:105** — *"Thy Word is a lantern unto my feet, and a light unto my path."*
+
+— ❦ —
+
+## Question 2. What is God?
+
+**What is God?**
+
+With this Question have the highest and wisest men on earth at all times been highly troubled — but never has any one hit upon it.
+
+Whoever now would rightly pursue this Question, he must put all things away, and hearken only where God himself points us — namely: *"This is my beloved Son; him shall ye hear."* Therefore whoever would know what God is, let him look upon Christ, the Son of God.
+
+For the simple, this description drawn from the *Catechism* may be held:
+
+**God is a spiritual, single Being — threefold in Persons — who has created all things and still preserves them, who has redeemed the damned and lost men through his Son, and through the Holy Spirit sanctifies, calls into his Christendom or Church, enlightens, forgives sins, on the Last Day awakens from the dead, and gives all believers an eternal Life — but thrusts the godless into eternal damnation.**
+
+Such description is taken from God's Word and from the *Symbolum Apostolicum*, as is easy to see.
+
+- **John 4:24** — *"God is a Spirit."*
+- **Matt. 28:19** — *"Baptise them in the name of the Father, and of the Son, and of the Holy Ghost."*
+- **Gen. 1:1** — *"In the beginning God created heaven and earth."*
+- **John 3:16** — *"So God loved the world,"* etc.
+- **John 5:28** — *"The hour cometh, in which all that are in the graves shall hear the voice of the Son, and shall come forth."*
+
+— ❦ —
+
+## Question 3. Which are the chief properties of God? These.
+
+**Which are the chief properties of God? These.**
+
+**1.** That he is **Almighty**, and therefore works everything that he wills, and can help out of every need. **Gen. 17:1** — *"I am the Almighty God."*
+
+**2.** That he is **truthful and wondrous** — holds all that he has spoken. **John 4** — *"God is truthful."* **Ps. 23** — *"The Word of the LORD is truthful."*
+
+**3.** That he is **just and the highest Judge**, wherefore one should fear before him. **Ps. 7:12** — *"God is a righteous Judge, and a God who threatens daily; if one will not be converted, he has whetted his sword."*
+
+**4.** That he is **merciful, patient, and of great Goodness**, etc. — wherefore the penitent shall not doubt his grace. **Ps. 103; John 3.**
+
+— ❦ —
+
+## Question 4. Is there then only one God?
+
+**Is there then only one God?**
+
+**Yes**, there is only **one** single, eternal, natural, truthful God.
+
+- **Deut. 6:4** — *"Hear, O Israel: The LORD our God is one LORD."*
+- **Isa. 44:6** — *"I am the first, and I am the last; and beside me there is no God."*
+- **Ibidem** [Isa. 44:8] — *"Ye are my witnesses. Is there also a God beside me? There is no Rock; I know none."*
+
+— ❦ —
+
+## Question 5. How many Persons, however, are in the one Godhead?
+
+**How many Persons, however, are in the one Godhead?**
+
+**Three distinct Persons — Father, Son, Holy Spirit** — one right, single, natural, truthful **God**, Creator of heaven and earth: against the **Arians, Macedonians, Sabellians**, and their like heresy.
+
+— ❦ —
+
+## Question 6. Prove this to me from Scripture.
+
+**Prove this to me from Scripture.**
+
+**Gen. 1:1** — *"In the beginning **Elohim** created heaven and earth."* Now it is manifest that *Elohim* is *pluralis numeri* — signifies not one but many — and yet he does not say *"they created"* (as many), but *"he created"* (as one) in the singular: giving to understand that there is no more than one single God and Creator. But that he says *"the gods"* [Elohim] shows that in that same single Divine Being there is nevertheless a *Number*, that one calls "many" or "more than one."
+
+**Matt. 28:19** — *"Go ye therefore and teach all nations, baptising them in the Name of the Father, and of the Son, and of the Holy Spirit."* Here Christ says to baptise into *one* Name, since the Godhead is only one Being; and yet he names *three distinct Persons* — Father, Son, and Holy Spirit — to show that in the one Divine Being there are three distinct Persons, etc.
+
+— ❦ —
+
+## Question 7. Do the Jews and Turks then act rightly in rejecting this doctrine of the Holy Trinity?
+
+**Do the Jews and Turks then act rightly in rejecting this doctrine of the Holy Trinity?**
+
+**No.** For it will not do to judge according to reason, that inwardly in his Godhead it must be — as it seems to us — a single Person, whereof we have never seen anything, and no man can see. Since now we have Scripture's indication that in the Divine Being there are three Persons, we shall follow the Scripture (which is God's testimony of himself) and not heed what blind reason adds thereto. For **God we must believe, as he has revealed himself in his Word.**
+
+— ❦ —
+
+## Question 8. What difference then is there between the three Persons of the Holy Trinity?
+
+**What difference then is there among the three Persons of the Holy Trinity?**
+
+**The distinction of the Father** is that he has the Godhead from none, but has given it from eternity, through the eternal Generation, to the Son.
+
+**The distinction of the Son from the Father** is that the Son is born of the Father from eternity — **Ps. 2:7**.
+
+**The distinction of the Holy Spirit from the Father and the Son** is that the Holy Spirit *proceeds* from the Father and the Son — **John 15:26**.
+
+Beside such **inward distinction** of the Persons there is now the **outward distinction**, in which the Son and the Holy Spirit are made manifest — the Son in the *Manhood*, for the Son alone became Man; the Holy Spirit is manifest distinctly in the form of the **Dove**, the **fiery Tongues**, the **Gifts**, the **manifold Languages**, and **Wonder-signs** — though the Manhood was made by all three Persons, and the fiery tongues and the Gifts of the Holy Spirit are the *work and creation of all three Persons*.
+
+— ❦ —
+
+## Question 9. Give me in a brief conception the *Summam* of this great mystery.
+
+**Give me in a brief conception the Summa of this great Mystery.**
+
+**Summa:** there is **one God**, **one LORD**, one Divine Majesty, Nature and Being of all three Persons — but there is manifested sometimes the Person of the Father, sometimes of the Son, sometimes of the Holy Spirit; and whichever now is manifested, it is *the one God in three Persons*, that we may rightly know the Divine Majesty, and not — as Jews, heretics, Mahomet — blindly and headlong believe as though God were no more than a single Person: which God will not have, but will be known as he has revealed himself to us. And especially is God concerned about the *Revelation and Knowledge of his Son* through the whole Scripture of the Old and New Testament.
+
+**John 5:39** — *"Search the Scriptures, for they bear witness of me."*
+
+— ❦ —
+
+## Question 10. Can anyone also be saved without knowledge of this Article?
+
+**Can anyone also be saved without knowledge of this Article?**
+
+**Without knowledge of this Article** let no man venture to come to heaven — namely, that three distinct Persons in the Godhead are: Father, Son, Holy Spirit — and yet a *single, eternal, almighty, Divine Being*. So will God be known, and this is our Christian Faith upon which we are baptised and called (**Matt. 28:19; Mark 16:15**).
+
+— ❦ —
+
+## Question 11. Give me a brief report on the Person of the Father.
+
+**Give me a brief report on the Person of the Father.**
+
+The Father is the **first Person** of the Holy Trinity — the *Origin or Fountain* (as one may call it) of the Godhead in the Son and Holy Spirit — and the Son (when the Father is named) may not be *sundered off*, but must together be named and meant; likewise also the Holy Spirit must be named and meant with the Father and Son, because no Person outside the other can be *a separate God for himself*.
+
+So speak **St. Paul** and **St. Peter**: *"Blessed be God, the Father of our Lord Jesus Christ, the Father of all grace."* And he [the Father] himself in the Gospel ever *puts the Father foremost* and ascribes everything to him — and yet says (**John 5:23**) *"they shall honour the Son as they honour the Father."* Likewise (**John 16:15**): *"All that the Father hath is mine"* — except that the Father is the first Person from whom the Son has it, and not the reverse.
+
+That certain sins, however, happen distinctly against the Father, against the Son, and *into* the Holy Spirit — this pertains to the **revelation of the Persons**, not to a *division of the Being*, etc.
+
+— ❦ —
+
+*[Here ends Chapter II. Chapter III* Von der Person des HERREN Christi *— On the Person of Our Lord Christ, the massive Christological locus — follows in Rebuild-Tranche 3.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
