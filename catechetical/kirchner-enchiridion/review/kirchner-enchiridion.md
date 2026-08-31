@@ -1209,11 +1209,209 @@ The Glory, however, which he has received *out of the Personal Union* — in the
 
 **How dost thou understand the Ascension of Christ?**
 
-**Not in an Allegorical manner**, but *according to the letter*, as the Scripture speaks thereof.
+**Not in an Allegorical manner**, but *according to the letter*, as the Scripture speaks thereof. For his Body has been *truly lifted up from the earth*, and gone into heaven.
 
 — ❦ —
 
-*[Chapter III continues with Ascension explication, Right Hand of God, Sitting-session, Kingdom, Providence, Coming Again — and closes into Chapter IV Vom Ampt Christi. Translation continues in Rebuild-Tranche 5.]*
+## Question 45. What, however, is meant by the word "Heaven," whither Christ has gone?
+
+**What, however, is meant by the word "Heaven," whither Christ has gone?**
+
+**Heaven means here as much as** — *the seat or dwelling of the Blessed*, whither all Blessed come; and where Christ (also after the manner of the glorified bodies) is with his glorified Body.
+
+And this Heaven, or heavenly dwelling of the Blessed, is truly distinct from Hell. For as **Christ, Luke 16**, says: *"A great gulf is fixed between the Blessed and the Damned,"* etc.
+
+But under this we by no means approve the *childish thoughts* of the opposite side — who so describe Heaven, as though it were a *spatial place*, just as places are here upon earth. For the Scripture does *not* describe Heaven in such a spatial manner of place and stead, as though he were a ***Locus Physicus*** — a certain bodily, natural, spatial place — but names Heaven **God's House** (John 14), **Paradise** (Luke 23), **the eternal Life** (Dan. 12; Matt. 25 — *"the Righteous shall go into eternal life"*).
+
+But these matters cannot in this life be spoken by us. Rather it is and remains true, **that no eye hath seen, no ear hath heard, neither hath entered into any man's heart, what God hath prepared for them that love him** — **Isa. 64:4; 1 Cor. 2:9**.
+
+— ❦ —
+
+## Question 46. What difference then is there between the Ascension of Christ and that of the Blessed, who also will come into heaven?
+
+**What difference then is there between the Ascension of Christ and that of the Blessed, who also will come into heaven?**
+
+**This is the difference**: that the Blessed will come *into* Heaven, but will not be *higher than* Heaven. Christ, however, has so gone into Heaven with his Body, that he now is *higher than the Heaven* — **Hebrews 7:26**: ***Sublimior cœlis factus*** — which cannot be said of any other Man.
+
+So the Blessed do not come into Heaven in such wise, that they should rule *over* Heaven — but this pertains to the LORD Christ alone, who rules over all things (**1 Cor. 15**), and so also over Heaven itself.
+
+Further: Christ, according to his assumed Manhood or Human Nature, is *ascended above all heavens, that he might fill all things*, or *present rule* over all — which cannot or may be said of any blessed Man.
+
+So Christ has also with his Body so gone into Heaven, that he has *at the same time set himself at the Right Hand of God* — which befalls neither Angel nor blessed Man — **Heb. 1**.
+
+— ❦ —
+
+## Question 47. But the Scripture says, Acts 3, that Christ must be received from Heaven?
+
+**But the Scripture says, Acts 3:21, that Christ must be received from Heaven?**
+
+**Answer.** The opposite side interprets the word *δέξασθαι* thus, and does us wrong therein — especially because it is done to this end: that with such interpretation a certain saying or text may be set forth, whereon it may be proved that **Christ's Body in the Holy Supper with the blessed Bread is not present given out**.
+
+This cannot stand: because *Heaven has not so received Christ's Body*, that he in the same is held or kept *as in a prison* — but Christ has much rather **taken possession of Heaven with his Body**, so that he *rules over Heaven itself*.
+
+Item: because the Scripture, **Eph. 4:10**, clearly says: *"He is ascended above all heavens, that he might fill all things."* Item: *"He sits with his Body at the Right Hand of the Power of God."* From which sufficiently appears that he with his Body is *not* shut up in Heaven, so that he otherwhere is not or cannot be.
+
+— ❦ —
+
+## Question 48. What is then the Right Hand of God?
+
+**What is then the Right Hand of God?**
+
+**Answer. No created place.** For a created place — however blessed it be — cannot with constancy and truth be called God's Right Hand, forasmuch as the Right Hand of God is **uncreated and eternal**, which cannot or may be said of any created place; but rather **the Divine Majesty and Power of God himself**.
+
+Wherefore also she is in Scripture called ***the Right Hand of the Majesty of God*** — **Heb. 1:3; 8:1**. Item **Luke 22:69** — ***the Right Hand of the Power of God***.
+
+Accordingly, as the Right Hand of God is no place, so she is also *not shut up in any spatial place*, but rather goes far above all spatial places and steads. Also, if the Right Hand of God were a certain place of Blessedness in Heaven, then it must follow that Christ, at his Coming Again, would leave the Right Hand of God when he shall appear in the clouds — which, however, is wrong. For **he sits at the Right Hand of God for ever and ever, and leaves the same nevermore**.
+
+— ❦ —
+
+## Question 49. According to which Nature is he then exalted to the Right Hand of God?
+
+**According to which Nature is he then exalted to the Right Hand of God?**
+
+**The Person** is exalted to the Right Hand of God — yet not according to the Divine, but according to **the assumed Human Nature**.
+
+Such appears from this: that the Godhead in herself can neither be exalted nor humbled. But the Manhood — as she is changeable — can be humbled and exalted.
+
+Item: that this Exaltation has come to pass **in time**. Now it cannot be said of the Godhead that she has received anything in time, forasmuch as she has had all things from Eternity. Wherefore the said Exaltation must be understood **of the assumed Human Nature**.
+
+So Christ, according to his Godhead, is also the Right Hand of God himself — **Isa. 48** [sic, 43:13; Kirchner cites Esaie 13]. Wherefore it cannot be said that he is according to the same exalted to the Right Hand of God. So the Exaltation must again be drawn upon the Human Nature.
+
+The Scripture demonstrates this also therewith — that at **Acts 2:36**, she says: *"The crucified Christ has been made LORD."* Item: *"The Christ who has been raised from the dead is exalted to the Right Hand of God."* For she there plainly points to the assumed Human Nature.
+
+And thus also has the old right-believing Church explained this Article — namely, that Christ **is set at the Right Hand of God according to his Human Nature**:
+
+- **Athanasius apud Theodoretum**: ***Corpus est, cui dicit Dominus: sede à dextris meis.*** — *"It is the Body of which the LORD says: Sit thou at my Right Hand."*
+- **Ambrose on Hebrews**: *"'Sit thou at my Right Hand' pertains to the exaltation of the Human Nature."*
+- Even this same [truth] teach also ***Cyprian, Chrysostom***, and others.
+
+— ❦ —
+
+## Question 50. Yet the Scripture itself says that God is exalted — wherefore could not the Exaltation also well be understood of Christ's Godhead?
+
+**Yet the Scripture itself says that God is exalted — wherefore could not the Exaltation also well be understood of Christ's Godhead?**
+
+**Answer.** When the Scripture says that God is exalted, that is *not understood of the Godhead herself*, but is spoken **on our account** — namely, how God is by us exalted, when we hold *high, gloriously*, and *thus of him*, as he in himself is.
+
+For God is and remains in himself, in his Being and Majesty, ever the Highest; as his Name in himself is holy, but by us is hallowed when we *hold holy and rightly of the same*. In like manner the Scripture says that he is exalted, when we hold *high and thus of him*, as befits according to his Word and Revelation.
+
+But *in this manner* Christ is not exalted to the Right Hand of God, but he is truly according to his Human Nature exalted, and to the Right Hand of the Power of God set — that he **above all Creatures, with the Father and the Holy Spirit, hath equal Lordship, Might, and Power**; has all in his hands and under his feet — **Eph. 1**.
+
+— ❦ —
+
+## Question 51. Follows then from the Sitting of Christ at the Right Hand of God, that Christ not alone as God but also as Man has all things present, and present rules in heaven and on earth?
+
+**Follows then from the Sitting of Christ at the Right Hand of God, that Christ not alone as God but also as Man has all things present, and present rules in heaven and on earth?**
+
+**Assuredly it follows therefrom.** For the *Sitting at the Right Hand of God* is and means properly nothing else than **to rule with equal Might, Power, and Glory with the Father over all Creatures**.
+
+Now the Father does not rule *absent* over all Creatures, but *present*. Wherefore, because Christ according to his Human Nature sits at the Right Hand of God — that is, rules with equal Might, Power, and Glory over all Creatures — there is no doubt that he also **as Man not absent, but present** (yet in a heavenly, supernatural, and to human Reason incomprehensible manner) rules over all in heaven and on earth.
+
+As is also clearly indicated in **Eph. 1:20–23**, where Paul says: *"He is set at the Right Hand in the heavens, above all Principality and Power, Might, Dominion, and every name that is named — not alone in this world, but also in that which is to come; and all things are put under his feet."* Item **Ps. 8:6–8**: *"Thou wilt make him LORD over the works of thy hands; thou hast put all under his feet — sheep and oxen all together, therewith also the wild beasts, the fowls under the heaven, and the fish in the sea, and whatsoever passeth through the paths of the seas."*
+
+— ❦ —
+
+## Question 52. It may well be that Christ according to his Human Nature sits at the Right Hand of God — but it must nevertheless be so explained, that the Human Nature retains her essential properties?
+
+**It may well be that Christ according to his Human Nature sits at the Right Hand of God — but it must nevertheless be so explained, that the Human Nature retains her essential properties?**
+
+**That is right, and thus do we also explain it — and not otherwise.** For it has never come into our mind that the Human Nature in Christ, through such Exaltation, should *lose her essential properties*, or be transformed into the Godhead herself. The Scripture reports **both**: namely, that Christ *for ever and ever* keeps the properties of his Human Nature, and that beyond this — according to the same Nature — is exalted to the Divine Power and Majesty.
+
+Wherefore the one must not upset the other, but both must be true. For it is easy for him to raise his Human Nature to such Height, and yet at the same time keep her properties **unimpaired and undestroyed**.
+
+— ❦ —
+
+## Question 53. The Scripture, however, uses at Heb. 1:3 the little word "in the Height." That seems as though the Scripture herself taught, that Christ with his Body is at a certain place of Heaven, in the Height?
+
+**The Scripture, however, uses at Heb. 1:3 the little word "in the Height." That seems as though the Scripture herself taught that Christ with his Body is at a certain place of Heaven, in the Height?**
+
+**We answer hereupon with Chrysostom** — that such saying does *not* shut up Christ's Body at a certain place of Heaven, but only indicates that he is **higher than all things**, and that he is exalted **unto the Throne of the Brightness of his Heavenly Father**.
+
+That also this and suchlike sayings do not assign to Christ in Heaven any *circumscribed seat*, appears from this: that Paul, **Eph. 4:10**, writes: *"He is ascended above all heavens, that he might fill all things."* Wherefore they must be understood of his **Majesty and Glory**, which stretches herself over Heaven, Earth, and all Creatures.
+
+— ❦ —
+
+## Question 54. But the Scripture itself says that he shall come again from heaven to judgment?
+
+**But the Scripture itself says that he shall come again from heaven to judgment?**
+
+**Answer.** Yes — that is true; only that it may be rightly understood and explained. At **Acts 1:11** stands the explanation: *"As ye have seen him go into heaven."* Wherefore he will *visibly* come to judgment — where he now (in an *invisible* manner) sits at the Right Hand of the Power of God, and fills all things — **Eph. 4** — is present by his Congregation — **Matt. 18** — and *rules in the midst of his enemies* — **Ps. 110:2**.
+
+— ❦ —
+
+## Question 55. What, however, does the Scripture mean when she speaks of the Humiliation of Christ?
+
+**What, however, does the Scripture mean when she speaks of the Humiliation of Christ?**
+
+**Answer.** *The whole time* from the Conception and Incarnation, unto his victorious Resurrection. And then all the *weaknesses* (sin excepted) which he took upon himself — as poverty, misery, etc.; that he was carried from one place to another; that he *trembled and quaked*; let himself be crucified; suffered the bitter Death; and what else more was of the like.
+
+Wherefore at **Philippians 2:8** it stands: *"He was found as a Man in fashion, and became obedient unto the Death of the Cross."*
+
+— ❦ —
+
+## Question 56. Had then the LORD Christ, at the time of the Humiliation according to his assumed Human Nature, NOT the Divine Majesty and Glory?
+
+**Had then the LORD Christ, at the time of the Humiliation according to his assumed Human Nature, NOT the Divine Majesty and Glory?**
+
+**Answer.** The Humiliation means *not* a *lack* or *robbing* of the Majesty according to the Human Nature — but looks upon the *use* of the same: that he kept such Majesty *hidden* at that time, and did not always fully use her.
+
+For he had such Majesty **from the Conception**, but did not always let it be seen or openly showed — yet, that it not gain the appearance as though he had this Majesty not, he *at times* (as in his glorious Wonder-signs and otherwise) demonstrated the same.
+
+As **John 1:14** stands: *"We saw his Glory, a Glory as of the Only-begotten Son of the Father."* And **John 2:11**: *"And Jesus revealed his Glory, and his disciples believed on him."* So has he also let himself be seen on the Mount Tabor, where he *before his disciples was transfigured* — **Matt. 17**.
+
+— ❦ —
+
+## Question 57. But the Scripture says, Luke 24:26 — "he entered into his Glory after the Resurrection." How then should he have also had it before?
+
+**But the Scripture says, Luke 24:26 — "he entered into his Glory after the Resurrection." How then should he have also had it before?**
+
+**Answer.** The said saying does not teach that Christ, according to his assumed Human Nature, first *now* after his Resurrection *obtained* his Majesty — but that he, after his Resurrection (in that he *fully entered upon the State of Glory*), also *fully used and demonstrated* the same his Glory — after the old rule: ***Res tunc dicitur fieri, cùm incipit manifestius patefieri.*** — "A thing is then said to happen, when it begins to become more clearly and plainly revealed."
+
+As also **Augustine**, *Lib. 83 Quaest.* quaest. 69, and the ***Magister Sententiarum***, *Lib. 3 Distinct. 18*, write.
+
+— ❦ —
+
+## Question 58. But hereupon would follow a mixing of the Articles of the Christian Faith — of the Incarnation, Ascension, and Sitting at the Right Hand of God?
+
+**But hereupon would follow a mixing of the Articles of the Christian Faith — of the Incarnation, Ascension, and Sitting at the Right Hand of God?**
+
+**Answer. By no means.**
+
+For **in the Incarnation** — where the Union of the Divine and Human Nature came to pass — Christ *straightway* according to his Human Nature, on account of the Personal Union with the Godhead, **had such Majesty**. But he *held her hidden* at the time of the Humiliation, and did not always but only *at times* use her.
+
+**Through the Ascension**, however, he has *laid aside all weakness* of this life which he took upon himself for our sakes, and the whole Humiliation — and thus has gone out of this world.
+
+**Through the Sitting at the Right Hand** he has entered into the *full use and exercise* of his Majesty — thus, that he no more *hides* his Majesty or holds her secret (as it came to pass in the time of the Humiliation), but *fully uses and demonstrates* the same **in, with, and through the assumed Human Nature**. And so the Humiliation has then *ceased* — **Phil. 2:9** — *"where he is exalted,"* etc.
+
+— ❦ —
+
+## Question 59. For what cause has he then so taken on the Humiliation?
+
+**For what cause has he then so taken on the Humiliation?**
+
+**Answer.** *For our sake and for our Salvation's sake.* For had he willed to *use* his Majesty — which he in the Incarnation according to his Human Nature received — he could neither have suffered nor died. But in order that he might accomplish the Work of Redemption (which through suffering and dying, etc., was to come to pass), he *emptied himself of his Glory for a season*, and did not always will to use her.
+
+— ❦ —
+
+# IV.
+
+# Of the Office of Christ.
+
+## Question 1. Wherein consists then chiefly the Office of the LORD Christ?
+
+**Wherein consists then chiefly the Office of the LORD Christ?**
+
+**Answer.** In these Pieces:
+
+**First**: that he **has redeemed us from Sins and Death**, and offered up his Life for us — **Rom. 3; Isa. 53; 1 Tim. 2:5–6**: *"There is one God, and one Mediator between God and Men — namely, the Man Christ Jesus, who gave himself a Ransom for all."*
+
+**Secondly**: that he **has fully fulfilled the whole Law of God for us** — **Matt. 5:17**: *"I am not come to abolish the Law, but to fulfil."* **Rom. 8:3–4**: *"That which the Law could not do (in that it was weak through the flesh), God did — and sent his Son in the likeness of sinful flesh, and condemned Sin in the flesh through Sin, that the righteousness of the Law might be fulfilled in us, who now walk not after the flesh but after the Spirit."* **Rom. 10:4**: *"Christ is the fulfilment of the Law."*
+
+**Thirdly**: that he **gives us both these Pieces through the Office of Preaching and the Sacraments**, imputes them to us in Faith and applies them. Whence the Gospel, **Rom. 1:16**, is called *a Power of God*...
+
+— ❦ —
+
+*[Chapter IV Vom Ampt Christi continues with further Q&A on Mediator, Redemption, Priest-King-Prophet, Munus Regium et Sacerdotale, application of grace. Translation continues in Rebuild-Tranche 6.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
