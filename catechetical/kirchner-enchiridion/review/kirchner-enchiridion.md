@@ -12127,6 +12127,546 @@ Wherefore it is best that we let such and the like Questions *rest* till the *jo
 
 **6.** The *Believing shall then be richly recompensed for all their Suffering, through the Glory that shall be revealed at them* — **Rom. 8:18** — which shall be of such greatness that it *cannot be expressed*.
 
+— ❦ —
+
+## Question 19. Have **Hymeneus** and **Phyletus** — **2 Tim. 2:17–18** — taught right, that the *Resurrection is already happened*, and that the Bodies would not rise?
+
+**Have Hymeneus and Phyletus taught right, that the Resurrection is already happened?**
+
+**By no means.** For the Scripture teaches that there are **two kinds of Resurrection** — one **Spiritual**, which happens *through Faith which begins in Baptism*; and one **Bodily**, or *of the Body*, which shall *first happen at the Last Day* — **1 Cor. 15**.
+
+— ❦ —
+
+## Question 20. Yet it stands **1 Cor. 15:50**: *"Flesh and Blood shall not see the Kingdom of God"*?
+
+**Yet it stands 1 Cor. 15:50: "Flesh and Blood shall not see the Kingdom of God"?**
+
+**Answer**: **The Apostle speaks there not of the Substance of the Body, but of the Fleshliness or Fleshly Being which comes from Sin.** That same Fleshly, Sinful, corrupted Nature which is now at Man, and *inherited from Adam*, shall in the Resurrection be *entirely done away*, and Nature *entirely delivered from Sin, and all fleshly Being, Lusts, and Desires*; be **purer, holier, and fairer than Man was before the Fall**.
+
+Thus **Augustine, *ad Laurentium, cap. 91***, also explains this Saying of Paul: ***Quantum attinet ad substantiam, etiam tunc caro erit, per carnem igitur corruptione intelligit***, etc. — *"So much as concerns the Substance or Being, our Flesh shall then also be Flesh. Therefore the Apostle understands, through the word Flesh, the Corruption of the Flesh."*
+
+### Objection. Yet the LORD Christ shall then *create new Bodies* — for there shall all be new?
+
+**According to the Being, he shall not create new Bodies** — for that shall *remain* — but according to *Gifts, Prerogatives, Properties, and Glories*. For he shall *impart to the Awakened new, holy Powers and Properties in Body and Soul* — as we shortly before have heard from **1 Cor. 15** — but shall *not give us according to Being any other or new Body*. For otherwise **Job** would have to be wrong, when he says: *"I shall be awakened out of the Earth, and in my Flesh shall I see him,"* etc.
+
+### Objection. It stands however **2 Cor. 7:1**: *"Let us cleanse ourselves from all Defilement of the Flesh and the Spirit."* *Ergo*?
+
+**Answer**: **Thence follows not that we shall in the Resurrection according to Being obtain other Bodies.** For Paul speaks not of *other Bodies according to Being*; also he does not in this place treat of the *Resurrection*, but of the *inward Cleansing which is begun in this Life through the Holy Spirit and Faith*, and *in that Life first completed*. It is thus quite something else — to be *cleansed from all Defilement of the Flesh and the Spirit* (that is, from all Sins and Uncleannesses) and *become entirely new or holy* — and to *obtain another, new Being or Substance of Body and Soul*.
+
+### Objection. The Scripture speaks however of *Transformation*. *Ergo*, so shall we according to Being then have other Bodies?
+
+**Not at all.** For the Transformation of which the Scripture speaks — **1 Cor. 15:52** — does not concern the *Being of the Flesh*, so that the same in the Resurrection should be *transformed into a new Being essentially distinguished from the earlier* — but *of Transformation of Properties and Gifts*, as Paul shortly before himself has declared, where he says: *"It is sown perishable,"* etc.
+
+Item shortly after: *"For this perishable must put on the imperishable, and this mortal must put on Immortality."*
+
+— ❦ —
+
+## Question 21. What is to be held of the **Chiliasts'** Opinion — which they have given out (as **Eusebius, *lib. III, cap. 39***; Item, ***lib. VII, cap. 22***; and **Lactantius, *lib. VII, cap. 24*** report) — that the Pious shall be awakened *before the common Resurrection* and enjoy for a *thousand years* the World's Dominion and Delights?
+
+**What is to be held of the Chiliasts' Opinion?**
+
+**Answer**: **The Opinion is wrong.** For though they have brought forward the *20th Chapter of the Revelation of John*, and interpreted such upon *said thousand Years* — yet it is clear that **John**, in the said place, speaks of the **Kingdom of Christ**, and that this Reckoning is to be *begun from the Birth and Preaching-Office of Christ* — until the Time when **Muhammad in the Orient** and **the Pope in the Occident** began *most highly to trouble and confuse the Kingdom of Christ*.
+
+For that the *Joy of eternal Life* shall not be a *Worldly Joy*, or be understood of the *Delights of this Life*, is clear from the Sayings of Scripture. **Mark 12:25**: *"When they rise from the Dead, they shall not marry nor be given in marriage, but they are as the Angels in Heaven."* Item, **Matt. 22:30**: *"In the Resurrection they shall neither marry nor be given in marriage."*
+
+— ❦ —
+
+## Question 22. Is then the *Sadducees'* Opinion right, who held that *there is no Resurrection of the Flesh*, and that it *is impossible*?
+
+**Is then the Sadducees' Opinion right?**
+
+**No.** For Christ speaks clearly — **Matt. 22:29**: that they *err, and know neither the Scripture nor the Power of God*.
+
+— ❦ —
+
+# XLIV.
+
+# Of the *Last Judgment*.
+
+## Question 1. Shall then the *Last Judgment certainly come*?
+
+**Shall then the Last Judgment certainly come?**
+
+**Yes truly.** For **Jesus Christ** has spoken it with his *truthful Mouth himself* — **Matt. 25** — and indeed *indicated the whole Process of the same*; the Apostles likewise. **Acts 10:42**: *"He is set by God as Judge of the Living and the Dead."* **Paul, Rom. 2:5**, speaks: *"Thou gatherest to thyself Wrath at the Day of Wrath and righteous Judgment of God."* And in **2 Cor. 5:10**: *"We must all be made manifest before the Judgment-seat of Christ."* So this Judgment-Day was also announced in the *Old Testament*, as **Gen. 4** [and] **Isa. 66:15–16**: *"For behold, the LORD shall come with Fire, and his Chariots as Storms, that he may pay in the Fury of his Wrath, and his Rebuke in Flames of Fire. For the LORD shall through the Fire judge, and through his Sword all Flesh."*
+
+**Psalm 9:4**: *"Thou sittest on the Throne, a righteous Judge."*
+
+— ❦ —
+
+## Question 2. What is then the *Last Judgment*?
+
+**What is then the Last Judgment?**
+
+**It is such an ***Actus***, in which the LORD Jesus Christ shall gather all Men — Living and Dead — before his Judgment-Seat in the Clouds, and publicly speak the Last Verdict over both the Believing and the Unbelieving; the Believing he shall install into the full possession of eternal Life, but the Unbelieving he shall thrust into eternal Hellish Fire.**
+
+— ❦ —
+
+## Question 3. Who shall then be *the Judge*?
+
+**Who shall then be the Judge?**
+
+**Jesus Christ**, as he himself speaks — **Matt. 25:31**: *"When now the Son of Man shall come in his Majesty, and all the Angels with him,"* etc. And **John 5:22**: *"The Father has committed all Judgment to the Son."*
+
+**In Sum**: **he shall be Judge who was judged before Pontius Pilate**, who has *created all Men's Hearts* and *knows them*.
+
+**Augustine**, quoted by **Prosper**, speaks: ***Quamvis nunquam recedat à Filio Pater: ad iudicandos tamen vivos et mortuos non ipse dicitur, sed filius affuturus, quia ibi nec Patris nec Filii Deitas, sed illa forma videbitur Filii, quam sibi per Sacramentum incarnationis univit: Ipsa ergo erit Iudex, quae sub iudice stetit: ipsa iudicabit, quae iudicata est, ut videant impii eius gloriam, in cuius mansuetudinem fremuerant. Talis ergo apparebit iudex, qualis videri possit et ab eis, quos coronaturus, et ab eis, quos damnaturus est. Pater autem non apparebit, quia forma servi non est indutus, sed filio, qui etiam homo factus, dedit iudicii potestatem.*** — *"Though the Father never departs from the Son, yet the Scripture says not that the Father, but the Son, shall appear — for there shall neither the Father's nor the Son's Godhead be seen, but the *Manhood* which the Son has personally united to himself in the Incarnation. The Human Nature shall be Judge, which has stood before the Judge; that shall judge, which has been judged — that the Godless may see his Glory, whose Meekness they have despised. Wherefore such a Judge shall appear, who can be seen both by those whom he shall crown with eternal Glory, and by those whom he shall thrust into eternal Damnation. The Father however shall not appear, for he has not taken on Human Nature, but to the Son, who is become Man, has he given the Power to hold the Judgment."*
+
+— ❦ —
+
+## Question 4. Who shall however then be *judged*?
+
+**Who shall however then be judged?**
+
+**All Men — no one excluded — who have lived in this transient World.** For thus stands **Matt. 25:32**: *"There shall be gathered before him all the Heathen."* **Rom. 14:10–11**: *"We shall all be presented before the Judgment-seat of Christ, as it is written: As truly as I live, saith the LORD, before me all Knees shall be bowed, and all Tongues confess God. So shall now everyone give Account for himself to God."* **2 Cor. 5:10**: *"We must all be made manifest before the Judgment-seat of Christ, that everyone may receive according as he has done in the Body's Life, whether good or evil."*
+
+Thus **not alone the poor Lazaruses shall have to appear before this Judgment**, but *also the Rich Gluttons*; **not alone the Preachers, but also the Hearers**; **not alone the Subjects, but also the Authorities**, etc.; **not alone the Children and Servants, but also the Parents and Masters**, etc. The **Devils** shall there also *receive their Verdict*, and be *cast into the Hellish Fire* — **Matt. 25:41**; **Rev. 20:10**. Wherefore we shall all *with earnestness make ourselves prepared thereto*, for it *concerns us all*.
+
+— ❦ —
+
+## Question 5. When shall it be held?
+
+**When shall it be held?**
+
+**The Day is not revealed**, but the Judge has *kept the same to himself* — that he may *stir us up all the more to prepare for his Coming*. He has however nevertheless indicated **what Signs shall go before**, whereby to some measure it can be recognised that he is *not far off*. As **Matt. 24; Mark 13; Luke 17, 21**. Among which:
+
+**1.** The **perversion of pure Doctrine**. **2.** *Wars and rumours of War*. **3.** *Confusion and Fall of Worldly Governments*. **4.** *Pestilence*. **5.** *Hunger*. **6.** *Earthquakes*. **7.** *Persecution of the Pious*. **8.** *Falling-away of many People from the Faith*. **9.** The *Multitude of Sins*, and *Cooling of Love*. **10.** The *Preaching of the Gospel over all Peoples*. **11.** The *Abomination of Desolation at the Holy Place*. **12.** The *Multitude of false Teachers*. **13.** *Signs in Heaven and on Earth*, and that the People shall be *anxious for Fear of the Things which are coming*. **14.** The *Sign of the Son of Man in Heaven*. **15.** The *utmost Security of Men, as in the Days of Noah*.
+
+**Daniel** speaks that the *Fall of the Four Monarchies shall go before* — as is *before everyone's Eyes*.
+
+**Paul, 2 Thess. 2**, writes that the **Revelation of the Antichrist** shall *previously happen* — which by God's Grace has now also happened, and *daily still further happens*.
+
+— ❦ —
+
+## Question 6. Where shall it however be held?
+
+**Where shall it however be held?**
+
+**In the Clouds** — as **Paul, 1 Thess. 4:17**, writes: *"We shall be caught up in the Clouds, to meet the LORD in the Air."*
+
+### Objection. But *Joel 3:12* speaks that *it shall happen in the Valley of Jehoshaphat*?
+
+**Answer**: The Prophet speaks there *not of the Last Judgment* — as the Papists interpret it — but of the *Calling of the Heathen to the Kingdom of Christ*. For **through the Word** he judges all Heathen — *shows them out of the Law the Sin*, and out of the *Gospel* (when they do Repentance and believe) declares them *blessed*. **John 3:16**: *"That all who believe on him should not be lost, but have eternal Life."*
+
+— ❦ —
+
+## Question 7. What shall then the *Process* be?
+
+**What shall then the Process be?**
+
+**That is described at length at Matt. 25** — where a right Christian shall *daily read and in God's Fear consider*.
+
+— ❦ —
+
+## Question 8. What shall be *the Verdict*?
+
+**What shall be the Verdict?**
+
+**That is already revealed** — **John 3:18**: *"Whoever believes on the Son of God shall never be judged; whoever however believes not is already judged."* Item, **Mark 16:16**: *"Whoever believes and is baptised, shall be Blessed. Whoever however believes not, shall be damned."*
+
+— ❦ —
+
+## Question 9. What shall then the *End of this Last Judgment* be?
+
+**What shall then the End of this Last Judgment be?**
+
+**The full Deliverance of all God-blessed who have in this Life believed on Christ** — **Luke 21:28**. **And on the contrary, the *entire and eternal Rejection of all Unbelieving*.** For therefore is it held — that the *Pious may obtain the promised and pledged Glory and Joy*. And on the contrary, that also *the Godless may with the Deed experience that the Threatenings of Divine Judgment and Punishments were not vain words, as they in this Life so surely have held them*.
+
+— ❦ —
+
+## Question 10. How is however the Saying of Christ, **Matt. 25:34–35**, where he says: *"Come and possess the Kingdom, for I was hungry,"* etc. — to be understood?
+
+**How is however the Saying of Christ, Matt. 25:34–35, to be understood?**
+
+**Of the *Fruits* wherewith the Believing Christians have in this Life *witnessed and shown their Faith* — which Fruits Christ shall at the same Day *praise and glorify at them before all Creatures*.** For that Christ does *not will that the said Words shall be understood of *Merit*, appears therefrom:
+
+**First**, that he uses the word ***Benedicti*** — *"Ye Blessed."* Now it is certain that such **Blessing is bestowed on the Believing alone out of pure Grace for Christ's sake** — since they otherwise on account of their Sins are *cursed* — **Gal. 3:10**.
+
+**Second**, the word — ***inherit the Kingdom*** — which can no otherwise than *of Grace, and not of Merit* be interpreted. Inasmuch as the *Inheritance is not through Merit, but through Birth given to the Children*. Since then the *Believing are God's Children or Heirs, re-born through the Word and Sacrament* — **John 3** — it is clear that they *obtain the eternal Kingdom of Heaven not through their Merit or good Works, but alone out of Grace*.
+
+**Third**, the word — ***Prepared*** — *"It is prepared for you"*, he speaks, and *not* — *"Ye have prepared it for yourselves through your good Works, or have merited it."*
+
+**Fourth**, that he says: *before the Foundation of the World was laid, it was already prepared*. How could then the Believing prepare or *merit* it through their Works?
+
+— ❦ —
+
+## Question 11. How comes it however, that *so many Men so surely despise this Day*?
+
+**How comes it however, that so many Men so surely despise this Day?**
+
+**That comes from this**: that, according to human Reason, the said Day *is somewhat delayed*. **2 Pet. 3:3–4**: *"Know this, that in the Last Days shall come Scoffers, who walk after their own Lusts, and say: 'Where is the Promise of his Coming? For since the Fathers fell asleep, all remains as it was from the beginning of the Creation.'"* But *wilfully they will not know* that the *Heavens in old times were also, and the Earth stood out of Water and in Water, through God's Word — thereafter was the World at that time destroyed through the same by the Flood — so also the Heavens now and the Earth are by his Word spared, that they be kept for the Fire on the Day of Judgment, and the Damnation of Godless Men. But this one thing be not hid from you, ye Beloved, that one Day before the LORD is as a thousand Years, and a thousand Years as one Day. The LORD delays not the Promise, as some hold it for a Delay, but he has Patience with us, and wills not that any be lost, but that every one turn to Repentance. But the Day of the LORD shall come as a Thief in the Night, in which the Heavens shall pass away with great Crashing, but the Elements shall melt for Heat, and the Earth and the Works that are therein shall burn."*
+
+— ❦ —
+
+## Question 12. How shall then a right Christian *prepare himself thereto*?
+
+**How shall then a right Christian prepare himself thereto?**
+
+**That teaches the Apostle Peter, 2 Peter 3:11–14**, where he thus writes: *"Since then all this shall pass away, how ought ye then to be equipped with holy Walk and God-blessed Being? — that ye wait and hasten to the Coming of the Day of the LORD, in which the Heavens shall pass away from Fire, and the Elements melt for Heat. We however wait for a new Heaven and a new Earth, according to his Promise, in which Righteousness dwells. Therefore, my beloved, since ye shall wait for it, do diligence that ye be found before him undefiled and unblameworthy in Peace, and hold the Patience of our LORD for your Salvation. But ye, my beloved, since ye know this beforehand, guard yourselves that ye be not led astray through the error of the Reckless People with them, and fall from your own Steadfastness. Grow however in the Grace and Knowledge of our LORD and Saviour Jesus Christ, to whom be Honour, now and to eternal Times, Amen."*
+
+**In Sum**: the *Preparation rests thereupon* — that we *foremost do Repentance, believe on Christ, earnestly avoid Sin, bring upright Fruits of Repentance, diligently watch and pray*. **Matt. 24:42**: *"Watch, for ye know not at what Hour your LORD shall come."* And **Luke 21:34–36**: *"Guard yourselves, that your Hearts be not burdened with Gorging and Guzzling, and with Cares of Nourishment, and this Day come suddenly over you. For as a Snare shall it come over all who dwell on Earth. So be ye now watchful at all times, and pray, that ye may be worthy to escape all this that shall happen, and to stand before the Son of Man."*
+
+**Augustine** fine speaks: ***Unusquisque debet etiam de die huius vitae suae novissimo formidare. In quo enim quenquam invenerit suus novissimus dies, in hoc eum comprehendet mundi novissimus dies, quoniam, qualis in die isto quisque moritur, talis in die illo iudicatur. Ac per hoc vigilare debet omnis Christianus, ne imparatum eum inveniat Domini adventus. Imparatum autem inveniet illa dies, quem imparatum invenerit suae vitae ultimus dies.*** — *"Everyone shall be watchful also for the Last Day of his Life. For in whatever way each one is found by his last Day, in that shall the Last Day of the World also grasp him — since, as everyone dies on that Day, so shall he be judged at the Last Day. Wherefore now shall every Christian watch, that the Coming of the LORD find him not unprepared. But unprepared shall that Day find him whom his Life's Last Day or Death-hour has found unprepared,"* etc.
+
+— ❦ —
+
+# XLV.
+
+# Of *Hell*.
+
+## Question 1. Is there then a *Hell*?
+
+**Is there then a Hell?**
+
+**Many are who *doubt of it*, still more however who hold it for a Fabrication, whatever is said of it. That however there is a Hell, first the Scripture witnesses, in the Old Testament** — as **Num. 16:33**: *"They went living down into Hell, with all that they had."* **Deut. 32:22**: *"The Fire is kindled through my Wrath, and shall burn to the lowest Hell."* **Psalm 16:10**: *"Thou wilt not leave my Soul in Hell."* **Psalm 49:14**: *"They lie in Hell like Sheep — Death gnaws them; in Hell must they remain."* **Isa. 30:33**: *"The Pit is prepared from Yesterday; yea, the same is also for the King prepared, deep and wide enough, so the Dwelling therein is Fire and Wood in abundance — the Breath of the LORD shall kindle it as a brimstone Stream."*
+
+**Second**, the Scripture of the *New Testament*, as **Luke 16:23–24**, where the Rich Man *comes into Hell and Torment*. Item, **Matt. 25:41**: *"Go into the eternal Fire."*
+
+**John the Baptist**, **Matt. 3:10**, also delivers a *strong Sermon hereof*, where he speaks: *"The Axe is laid to the Roots of the Trees; therefore whatsoever Tree brings not good Fruit shall be hewn down, and cast into the Fire."*
+
+**2 Thess. 1:8–9**: Paul speaks: *"The Disobedient, who believe not the Gospel, shall suffer Pain, eternal Ruin, from the Countenance of the LORD, and from his glorious Power."*
+
+**Third**, also the *Gnawing of Conscience* is an *infallible Witness of Hell*, and of the coming Damnation of the Godless. **Rom. 2:15–16**: *"The Thoughts that accuse and excuse themselves — at the Day, when God shall judge the Hidden of Men, through Jesus Christ, according to my Gospel."*
+
+**Fourth**, likewise the *Confession of the damned Spirits in the Gospel*, who *fear before such Torment*. **Matt. 8:29**: *"Art thou come hither to torment us, before the Time?"*
+
+— ❦ —
+
+## Question 2. What Names has she in *Holy Scripture*?
+
+**What Names has she in Holy Scripture?**
+
+**In the Holy Tongue** she is called ***Sheol***, from *Craving*. For she is never satisfied — always would have more — **Psalm 16, 49**.
+
+She is called ***Gehenna*** — **Matt. 5:22**. Now Gehenna was a beautiful Valley of the Children of Hinnom, in the Tribe of Benjamin, in which the *Godless Parents burnt their Children alive to Moloch*. Whence then this Word was afterward *by Christ drawn upon the Hellish Fire*. For just as in the said Valley the *living Children were burnt* — so shall in Hell the *Godless with eternal Fire be tormented*.
+
+**Rev. 20:10** — she is called *a fiery and brimstone Pool*.
+
+**Matt. 18:34** — Christ names her a *Prison*. **Matt. 22:13** — a *Place where Weeping and Gnashing of Teeth shall be*.
+
+— ❦ —
+
+## Question 3. What is then *Hell*?
+
+**What is then Hell?**
+
+**Such a Prison, wherein — according to God's righteous Judgment — the Devils and Godless Men, in Body and Soul, on account of Sins, shall eternally be tortured and tormented.** **Matt. 25; Mark 9:43–44**: *"And thou shalt be cast into the Hellish Fire, where their Worm dies not, and their Fire is not extinguished."*
+
+— ❦ —
+
+## Question 4. Whence comes she?
+
+**Whence comes she?**
+
+**God himself has ordained her for the Punishment of the Devils, and of the stiff-necked Godless Sinners.** For just as an Authority has its Prison for the *evil Rogues*, so has the LORD *prepared Hell for those who are disobedient to his Word and Command*.
+
+— ❦ —
+
+## Question 5. Who shall then be *in Hell*?
+
+**Who shall then be in Hell?**
+
+**The damned evil Spirits, together with all those Sinners who have died in Unbelief and Impenitence** — as **Matt. 25:41** plainly indicates: *"Go from me, ye Cursed, into the eternal Fire, that is prepared for the Devil and his Angels."* **Rev. 21:8**: *"The Fearful however, and the Unbelieving, and the Abominable, and the Murderers, and the Whoremongers, and the Sorcerers, and the Idolatrous, and all Liars, their Portion shall be in the Pool that burns with Fire and Brimstone — which is the second Death."* **1 Cor. 6:9–10**: *"Let yourselves not be misled — neither Whoremongers, nor Idolaters, nor Adulterers, nor Effeminate, nor Boy-defilers, nor Thieves, nor Greedy, nor Drunkards, nor Slanderers, nor Robbers, shall inherit the Kingdom of God."* **Gal. 5:19–21**.
+
+— ❦ —
+
+## Question 6. Shall then *only the Body be tormented in Hell*?
+
+**Shall then only the Body be tormented in Hell?**
+
+**The Damned shall in Body and Soul be tormented in Hell**, as **Matt. 10:28** stands: *"Fear much more him who can destroy Body and Soul in Hell."* Thus also Paul, **2 Cor. 5:10**, says: *"Everyone shall receive according as he has done in the Body's Life"* — where he freely speaks of the *whole Man*.
+
+— ❦ —
+
+## Question 7. *Where* is then Hell?
+
+**Where is then Hell?**
+
+**That there is a Hell, and that she is a horrible Prison or Dungeon in which the Devils and Damned shall eternally be tormented — thereof have we in God's Word strong Witness.** But *where she is*, is in the Scripture *not properly revealed*. It ought to concern us more to *see how we escape Hell*, than to *search out where she is*. **Luke 16:28** — she is called a *Place of Torment*, and it is also said, *"No one can come down to you"* — but it is *not distinctly indicated where she then is*.
+
+— ❦ —
+
+## Question 8. *How great* is she then?
+
+**How great is she then?**
+
+**Isa. 5:14** stands: *"She has opened her Jaws wide, beyond all measure."* And **Prov. 27:20**: *"Hell and Destruction shall never be full."* Whence sufficiently to be understood, that she is (so to speak) **great enough for all Devils and damned Men, to hold the same in eternal Pain and Torment**.
+
+— ❦ —
+
+## Question 9. What kind of Fire is then the *Hellish Fire*?
+
+**What kind of Fire is then the Hellish Fire?**
+
+**That there shall be an eternal Fire in Hell, and be — this we know from God's Word.** But *what kind of thing it has in itself*, we shall rightly *abstain from speaking* — since it is *in God's Word not distinctly indicated*. That it is a *painful Fire*, is impressed at **Luke 16:24**, where the Rich Man complains that he *suffers Pain in this Flame*.
+
+**Reason** wonders how it can *possibly be* that it *should burn, and yet not consume the Damned Body*. But that **the Almighty LORD can easily bring about**. It says further, that *no Body which feels Pain does not have to die or pass away* — but that only holds of the *Human Bodies as they are in this Life*. When they come thither, they shall be *thus disposed, that they shall eternally suffer, and yet not be able to die*.
+
+Wherefore **St. Bernard** speaks: ***Homo in Gehenna uri poterit, non exuri, ardere, sed non deleri.*** — *"Man shall in the Hellish Fire be able to burn, but not to burn up; he shall be able to suffer painful Fire, but not to be destroyed."* And **Augustine, *lib. XXI De Civitate Dei, cap. 7***, answers upon this Objection thus: ***Cur facere non posset Deus, ut et resurgant corpora mortuorum, et igne aeterno crucientur corpora damnatorum, qui fecit mundum in caelo, in terra, in aere, in aquis innumerabilibus miraculis plenum.*** — *"Why should God not be able to bring about that the Bodies of the Dead may rise, and the Bodies of the Damned be tormented with eternal Fire — he who has made the World in Heaven, on Earth, in the Air, in the Waters, full of innumerable Wonder-works."* And in the same book, ***cap. 8***: he shows that *Human Flesh was of one manner before Sin, of another after Sin*, so *there also it shall be in a different fashion, when it shall be awakened from the Dead*.
+
+— ❦ —
+
+## Question 10. Shall there also be *various Degrees of Punishments in Hell*?
+
+**Shall there also be various Degrees of Punishments in Hell?**
+
+**Yes.** For Christ **Matt. 11:22** speaks: *"It shall go more tolerably at the Day of Judgment for Sodom and Gomorrah than for you at Capernaum."* And **Luke 12:47–48**: *"The Servant who knows his LORD's Will, and has not prepared himself, and also has not done according to his Will — the same shall suffer many Stripes. But he who knows it not, yet has done what is worthy of Stripes, shall suffer few Stripes."* **In Sum**: as there shall be a *Distinction among the Blessed as concerning the Gifts in eternal Life*, so also shall there be a *Distinction of Punishments at the Damned in the Hellish Fire*.
+
+— ❦ —
+
+## Question 11. Shall then the Punishment of the *Hellish Fire eternally endure*?
+
+**Shall then the Punishment of the Hellish Fire eternally endure?**
+
+**Such Christ himself says — Matt. 25:41**: *"Go into the eternal Fire."* And **Mark 9:43–44**: *"And they shall be cast into the Hellish Fire, where their Worm dies not, and their Fire is not extinguished."*
+
+### Objection. Yet **Psalm 103:9** stands: *"He shall not eternally hold Anger"*?
+
+**Answer**: **This Saying speaks not of the Hellish Fire, or of eternal Damnation** — as it has been interpreted by the *Origenists* — but of the *gracious Forgiveness of Sins in the Kingdom of Christ*. For God is prepared to *show Grace to all penitent*, and *fatherly to take up all Labouring and Laden for Christ's sake, and to refresh them* — **Matt. 11:28**.
+
+— ❦ —
+
+## Question 12. What shall then the *Punishments in Hell chiefly be*?
+
+**What shall then the Punishments in Hell chiefly be?**
+
+**The Scripture names them with manifold Names**: **Matt. 22:13** — *Weeping and Gnashing of Teeth*. **Psalm 49:14, 19** — *Death's Gnawing, and in Eternity to see no Light*, as also **Matt. 22** — *utmost Darkness*. To be *separated from God* — **Matt. 7:23**. To be *damned with the Devils* — **Matt. 25:41**. *Unquenchable Fire* — **Mark 9:48** [Mark 11:cf.]. An *undying Worm* — **Isa. 66:24**. A *fiery and brimstone Pool wherein the Damned shall be tormented* — **Rev. 20:10**.
+
+— ❦ —
+
+## Question 13. Is then the *Papists'* Doctrine right, who have invented that after Death there are *Five Places* to which Men come — the first, the Hell of the Damned; the second, of unbaptised Children; the third, Purgatory; the fourth, the ***Limbus Patrum*** (in the New Testament they have added Paradise thereto); the fifth, the open Heaven?
+
+**Is then the Papists' Doctrine right?**
+
+**No, she is not right** — as much as concerns the Place of the *Unbaptised Children*, *Purgatory*, the ***Limbus Patrum*** or *Fore-court of Hell*. For **these Pieces have no ground at all in God's Word**, and can *not be proven therefrom with the least Letter*, but are only *Human Fables* — inasmuch as the Scripture *only knows of two: namely, of Hell, and of Heaven or the Heavenly Paradise*. Wherefore we shall *not at all turn to the Papists' Fable, nor let ourselves be misled thereby*.
+
+— ❦ —
+
+# XLVI.
+
+# Of *Eternal Life*.
+
+## Question 1. What holds *Reason* of this Doctrine?
+
+**What holds Reason of this Doctrine?**
+
+**The most Philosophers have entirely despised and mocked this Doctrine.** Some indeed have held that the *Soul is immortal*, but had *no steadfast Ground of it from God's Word* — wherefore in *Death's Danger, or in utmost Need, they themselves doubted of it*. As at **Cato Uticensis** and others is to be seen. The **Sadducees** have held it *all for nothing that was taught of the Resurrection of the Body and of eternal Life*. For **Human Reason cannot, of natural fashion, fit itself into this Doctrine**, but it is a *Folly to her*.
+
+— ❦ —
+
+## Question 2. Whence is it however *proved that eternal Life shall certainly follow*?
+
+**Whence is it however proved that eternal Life shall certainly follow?**
+
+**Such can in manifold ways be shown forth.**
+
+**First**, from the **Creation of Man**. For the Scripture witnesses — **Gen. 1, 2** — that he was *created with special Counsel of God*. Whence clearly to be seen, that there is a *Distinction between Man and other irrational Creatures*, and that Man is *not alone created for this Life*.
+
+**Second**, the **Image of God**, after which Man in the Beginning was created, is also a *sure Witness of eternal Life*.
+
+**Third**, that **God first threatened to Man Death upon Sin** — **Gen. 2**.
+
+**Fourth**, that **God himself breathed into Man a living Breath or Soul** — **Gen. 2**.
+
+**Fifth**, that he *set up the Sabbath even in Paradise*, whereupon Man should specially serve God, hear his Word, learn and consider — which was certainly *chiefly directed upon eternal Life*.
+
+**6.** Prove it the *beautiful Sayings of Scripture*:
+
+**Psalm 16:11**: *"Thou makest known to me the Way of Life; before thee is Joy the fullness, and lovely Being at thy Right Hand eternally."*
+
+**Psalm 22:26**: *"Their Heart shall eternally live."*
+
+**Job 19:25**: *"I know that my Redeemer lives."*
+
+**Ezek. 37:12**: *"See, I will open your Graves."*
+
+**Dan. 12:2**: *"Many, so lie asleep under the Earth, shall awaken — some to eternal Life, some to eternal Reproach and Shame."*
+
+**John 3:16**: *"That all who believe on him should not be lost, but have eternal Life."*
+
+**John 10:28**: *"I give them eternal Life."*
+
+**Matt. 25:46**: *"The Righteous shall go into eternal Life."*
+
+**John 6:39–40**: *"This is the Will of the Father who has sent me, that I lose nothing of all that he has given me, but that I awaken it at the Last Day. This is the Will of him who has sent me, that whoever sees the Son, and believes on him, may have eternal Life, and I shall awaken him at the Last Day."*
+
+**John 11:25**: *"I am the Resurrection and the Life; whoever believes on me shall live, though he die."*
+
+**Seventh**, the **Examples of the Old Testament** — **Abel, Enoch, Moses, Elijah** — which clearly witness that *another Life is at hand*.
+
+**Eighth**, in the New Testament, **Christ has therefore ascended into Heaven, to show that another Life is at hand**.
+
+**Ninth**, the *Word and Sacraments* are given for this, that they should *lead us to eternal Life* — so must there be *another and eternal Life*.
+
+**Tenth**, the Articles of our Christian Faith say clearly: *"I believe a Resurrection of the Flesh, and an eternal Life."*
+
+**Eleventh**, the Apostle in **Rom. 8:18** speaks: *"The Sufferings of this Time are not worthy of the Glory that shall be revealed at us."* Wherefore then there must be *another and better Life at hand*.
+
+**Twelfth**, in **Matt. 22:32** Christ convicts the *Sadducees*, and speaks: *"God is a God of Abraham, Isaac, and Jacob; God is however not a God of the Dead, but of the Living."* *Ergo*, so there must be *a Resurrection of the Dead, and another Life*.
+
+— ❦ —
+
+## Question 3. How is it *named in the Scripture*?
+
+**How is it named in the Scripture?**
+
+**It is called an *eternal Life* against this temporal Life** — **John 3:16**.
+
+**Rev. 21:2** — it is called the *new and holy City Jerusalem, prepared by God* — for **God alone gives eternal Life**. And God shall then *renew all in us, and make our Nature perfectly holy* — which in this Life through Faith is only begun.
+
+— ❦ —
+
+## Question 4. What is then *eternal Life*?
+
+**What is then eternal Life?**
+
+**In this Life it cannot perfectly be grasped or expressed what eternal Life is.** Yet it can from and after God's Word thus be described:
+
+**Eternal Life is an Estate of the Blessed, after the Resurrection of the Flesh, in which they shall perfectly know and behold God, eternally live without Sin, in Righteousness, Holiness, and eternal Joy.** **John 17:3**: *"This is eternal Life, that they know thee, that thou art the true God, and him whom thou hast sent, Jesus Christ."*
+
+— ❦ —
+
+## Question 5. Whence comes *eternal Life*?
+
+**Whence comes eternal Life?**
+
+**God alone gives it** — **Rev. 21:6**. The **Son of God however, Jesus Christ, has brought it to pass with his Death, Resurrection, and Ascension** — **John 3:14–16**. For **we Men could not merit it with our Works**. Had we been able to merit it, God would not have needed to *let his Son be born Man*, and to *suffer and die for us*.
+
+— ❦ —
+
+## Question 6. Who shall be in *eternal Life*?
+
+**Who shall be in eternal Life?**
+
+**All who have believed on Jesus Christ, and departed in his Knowledge** — **John 3:16**: *"That all who believe on him should not be lost, but have eternal Life."*
+
+**It appears indeed hard to deny eternal Life to the honourable Heathen and others**; but we must remain straight by Christ's Word, and *not go further*. *"Whoever believes not is already judged"* — **John 3:18**. **Mark 16:16**: *"Whoever believes not shall be damned."*
+
+### Objection. But it seems God is *Unrighteous* if he gives not eternal Life to the *honourable Heathen and other World-pious People*?
+
+**He is however therefore not Unrighteous.** For *Death is Sin's Wage* — **Rom. 6:23**. Because they then are Sinners, no Wrong befalls them though they die in their Sins. So has God set it, that **no other Name is given, whereby Men shall be Blessed, than alone the Name of Jesus Christ** — **Acts 4:12**. But this they have *not recognised*, nor believed on him — wherefore they *cannot become Blessed*.
+
+Though it *appears to Reason* as though God were in this Piece Unrighteous, we shall yet fully understand — ***in lumine gloriae***, when we shall behold God himself in eternal Life — **that there is no Unrighteousness in this matter at him**, and that he *has done Wrong to no one*.
+
+— ❦ —
+
+## Question 7. *Where* shall then eternal Life be?
+
+**Where shall then eternal Life be?**
+
+**With God in Heaven** — **John 14:2**: *"In my Father's House are many Dwellings."*
+
+### Objection. Is then the Heaven, in which the Blessed shall be, not such a Place as is spatial, as here on Earth spatial Places are?
+
+**Our Opposite indeed presses hard hereupon, but cannot prove it from God's Word.** From God's Word it is *clear and unquestionable that there is and shall eternally be a certain Place of Blessedness*. But that the same shall be *such a spatial Place, as Places and Cities here on Earth are, and as Aristotle describes the Place* — upon which our Opposite presses — that is a *pure sheer Fable*. For it is *false and wrong that the word* ***Stätte*** (Place), **John 14:2**: *"I go to prepare a Place for you"* — should mean *so much as a spatial Place*. Since such spatial Places or Cities *belong alone to this transient World*. Rather it means so much as a *Glorious Spiritual Dwelling or House*, whose fashion and being *can with no human Reason be grasped* — much less with words in this Life *expressed*.
+
+And what need many words? Since the Scripture, **1 Cor. 2:9**, plainly says: *"No Ear has heard, and it has entered into the Heart of no Man, what God has prepared for those who love him"* — with what ground can then the Opposite give out that eternal Life, or the Heaven into which Christ has gone, and in which the Blessed shall be with the LORD Christ, is *a spatial Place, as Aristotle describes the Place*?
+
+### Objection. What is however this, that **2 Pet. 3:13** stands: *"We wait for a new Heaven, and a new Earth, in which Righteousness shall dwell"*, etc.?
+
+**Answer**: We *cannot in this Life sufficiently express*. For **these matters — how namely the new Heaven and the new Earth shall properly be constituted — are and remain Mysteries**, and our Knowledge in this Life is *piecework* — **1 Cor. 13:9**. Let us be content that we *know: Heaven and Earth shall then be renewed, and much more glorious than now* — as also **Isa. 65:17** stands: *"I will create a new Heaven and a new Earth, that the former shall be no more remembered."*
+
+— ❦ —
+
+## Question 8. Wherefore has then God *prepared eternal Life*?
+
+**Wherefore has then God prepared eternal Life?**
+
+**That the Blessed may in the same eternally enjoy the promised Joy and Glory.**
+
+— ❦ —
+
+## Question 9. What Goods and Glories shall we then have in *eternal Life*?
+
+**What Goods and Glories shall we then have in eternal Life?**
+
+**First**, we shall then in Body and Soul be **perfectly Righteous, pure, and holy** — **1 John 3:2**: *"My Beloved, we are now God's Children, and it is not yet appeared what we shall be. We know however that when it shall appear, we shall be like him — for we shall see him as he is."* For there shall be *accomplished what here through Word, Sacraments, and Faith is begun in us*.
+
+**2.** We shall have a **perfect Freedom from Death, and all Misfortune**. **Isa. 25:8**: *"He shall swallow up Death eternally."* **Hosea 13:14**: *"I will save them from Death,"* etc. **1 Cor. 15; Rev. 21**.
+
+**3.** Likewise a **perfect Freedom from the Tyranny of the Devil and Hellish Pain** — **1 Cor. 15; Rev. 12:9; Rev. 20:10**: *"The Dragon shall be cast into the fiery Pool."* **Hosea 13; John 8**.
+
+**4.** So shall we have a **perfect Freedom from all Tribulation, Cross, and Suffering — inward and outward**. **Isa. 25:8**: *"The LORD shall wipe the Tears from all Countenances."* **Psalm 116:8**: *"Thou hast delivered my Soul from Death."* **John 16:20**: *"Your Sorrow shall be turned into Joy."*
+
+**5.** Our Bodies shall then be **made conformable to the glorified Body of Christ** — **Phil. 3:21**. Yet so that Christ's exalted Body always keeps the Precedence before all Blessed Bodies. Christ is now Immortal in his Body — that our Bodies also shall be — **1 Cor. 15**. We shall then have a **spiritual Body**, just as we have now a natural Body. **Matt. 13:43**: *"The Bodies of the Righteous shall shine as the Sun."*
+
+**6.** **Marrying and being given in marriage**, and what more of the like there is, shall then entirely *cease* — **Matt. 22:30; Luke 15**: *"They shall neither marry nor be given in marriage, but be as the Angels."*
+
+So also then shall all *Kingdoms of this World, the Preaching-Office, and Use of Sacraments no more be*, but shall *cease* — **Dan. 2**. For **GOD shall then be all in all** — **1 Cor. 15:28**.
+
+**7.** We shall **see God face to face**. **Job 19:27**: *"My Eyes shall behold him."* **1 John 3:2**: *"We know that when he shall appear, we shall be like him — for we shall see him as he is."*
+
+**Augustine, *Psalm 75***: ***Contemplabimur Deum facie ad faciem. Hic nobis promittitur, in quem modò non videntes credimus. Quomodo gaudebimus, quod viderimus eum? Fratres, si modò tantum gaudium in nobis facit promissio, quantum est factura redditio? Reddet enim nobis, quod promisit, seipsum: ut facie ipsius et illius contemplatione gaudeamus, et non aliquid aliud delectabit nos, quia nihil est melius illo, qui fecit omnia quae delectant.*** — *"We shall behold God face to face. Here is such promised us, and we believe here on him whom we now see not. How shall we rejoice, that we have seen him! Dear Brethren, if the Promise can now stir up such Joy in us, what a Joy shall then the Fulfilment bring to pass in us? For he shall give himself to us according to his Promise, that we may rejoice at his Face and Beholding of the same — and shall then nothing else delight us, for there is nothing better than he himself, who has created all things which can stir up a Joy in us."*
+
+We shall also *dwell with the LORD Christ in eternal Fellowship*. **John 14:3**: *"I will take you to me, that ye be where I am."* **John 17:24**: *"I will that they be with me, and see my Glory."*
+
+**8.** We shall then have **eternal Joy**. **John 16:22**: *"Your Joy shall no one take from you."* **Isa. 35:10**: *"Eternal Joy shall be over their Head."* **Isa. 65:17–18**: *"I will create a new Heaven and a new Earth, that the former shall no more be remembered, nor come to Heart — but they shall eternally rejoice, and be glad over that which I create."* **Matt. 25:21**: *"Enter into the Joy of thy LORD."*
+
+Hither belongs Augustine's Saying, ***De vera Innocentia***: ***Aeternae civitatis aeterna sunt gaudia, et stantium dierum perpetuitas infinita, nec variabitur, nec labetur.*** — *"The Heavenly Eternal City shall also have eternal Joy, and the steadfast Days of Eternity shall neither be changed, nor otherwise pass away."*
+
+These little Points explain in some measure what Glory we shall have in eternal Life — wherefore we shall then also *heartily long after it*, and with **Paul, Phil. 1:23**, learn to say: *"I desire to be dissolved, and to be with Christ."*
+
+— ❦ —
+
+## Question 10. Shall then all Believing or Blessed have *equal Glory*?
+
+**Shall then all Believing or Blessed have equal Glory?**
+
+**Eternal Life they shall all together have** — but the *Glory shall be distinguished according to the Gifts* — **1 Cor. 15:41–42**. For as *one Star is brighter than another*, though they all be in Heaven — so also the Blessed in eternal Life.
+
+— ❦ —
+
+## Question 11. What shall the *Blessed have to do in eternal Life*?
+
+**What shall the Blessed have to do in eternal Life?**
+
+**From the Book of Revelation, John chapter 5, appears that the Blessed shall in all Eternity rejoice themselves in God, and without ceasing praise and glorify him.**
+
+*"And I saw and heard the Voice of many Angels round about the Throne and round about the Door, and round about the Elders — and their Number was many thousand times thousand, and they spoke with a great Voice: The Lamb that has been slain is worthy to take Power, and Wealth, and Wisdom, and Strength, and Honour, and Praise, and Glory. And all Creatures that are in Heaven, and on Earth, and under the Earth, and in the Sea, and all that is therein, I heard say to him who sat on the Throne, and to the Lamb: Praise and Honour, and Glory, Might from Eternity to Eternity. And the four Beasts said Amen. And the four and twenty Elders fell down, and worshipped him who lives from Eternity to Eternity."*
+
+And **Rev. 7:9–12**: *"Afterward I saw, and behold a great Company, which no one could count, of all Heathen and Peoples and Tongues, standing before the Throne, and before the Lamb, clothed with white Garments and Palms in their Hands, cried with a great Voice, and said: Salvation be to him who sits on the Throne, our God, and to the Lamb. And all Angels stood round the Throne, and round the Elders, and round the four Beasts, and fell down before the Throne on their Face, and worshipped God, and said Amen: Praise and Honour, and Wisdom, and Thanks, and Glory, and Might, and Strength, be to our God from Eternity to Eternity, Amen."*
+
+**Augustine, *lib. XXII De Civitate Dei, cap. 29***, writes: ***Cùm ex me quaeritur, quid acturi sint sancti in illo corpore spirituali, non dico quod iam video, sed dico quod credo. Dico autem quòd visuri sint Deum in ipso corpore.*** — *"When one asks me what then the Blessed in their Spiritual Body shall have to do, I say not what I now see, but I report what I believe: I say therefore that they shall see God in this their Spiritual Body."*
+
+And ***cap. 30***: ***Ipse finis erit desideriorum nostrorum, qui sine fine videbitur, sine fastidio amabitur, sine fatigatione laudabitur.*** — *"He himself, God the LORD, shall be the End of all our Desires — whom we shall without end behold, without weariness love, and without tiring, without ceasing, praise."* Item, ***Psalm 83***: ***Quid acturi sumus in vita aeterna? Hoc erit totum negotium nostrum sine defectu, Halleluia.*** — *"What shall we have to do in eternal Life? This shall be our whole business — that we shall sing *Alleluia*: that is, that we shall praise God without ceasing."*
+
+### Objection. Say then the Philosophers right, that *nothing Earthly can be in Heaven* — now is our Body Earthly, from the Earth?
+
+**They say not right therein.** For the Scripture, **1 Cor. 15:44**, speaks clearly: *"It is sown a natural Body, and shall rise a spiritual Body."* Wherefore God the LORD shall in the Resurrection so dispose the Body, which was originally created upon the Earth, that it shall be *fit to dwell, to be, and to remain eternally in Heaven with God and the dear Angels*. For which we also shall to him in all Eternity say Praise and Thanks.
+
+### Objection. Shall the Blessed then also *know one another in eternal Life*?
+
+**Certainly.** For just as **Adam** knew his **Eve** when God brought her to him, and knew whence she was taken — so shall the *Blessed also in that World know one another*.
+
+And as **Christ** after his joyful Resurrection *spoke with his Disciples, and they knew him* — so shall such in the coming Life *without all doubt much more be*.
+
+As also the Women with the dear Angels speak of the risen Christ — so is there no doubt that also the *Blessed shall with the dear Angels speak, and in all Eternity delight themselves and be merry*.
+
+— ❦ —
+
+## Question 12. How comes one however thereto, that one *becomes partaker of eternal Life*?
+
+**How comes one however thereto, that one becomes partaker of eternal Life?**
+
+**Answer**: **Through the Word of the Gospel**, etc. For thereby it is offered, presented, and *bestowed on us*. **Rom. 1:16**: *"The Gospel is a Power of God to make Blessed all who believe therein."* **Through Faith on Christ** it is grasped and accepted. **John 3:16**: *"That all who believe on him should not be lost, but have eternal Life."* Out of GOD's Might, through Faith, we are *kept unto Salvation, which is prepared to be revealed in the last Time* — **1 Pet. 1:5**.
+
+— ❦ —
+
+## Question 13. What shall move us however, that we *seek the Glory and Joy of eternal Life from Heart and with Earnestness*?
+
+**What shall move us however, that we seek the Glory and Joy of eternal Life from Heart and with Earnestness?**
+
+**The Glorious Treasures and Goods that are promised to those who believe on the Name of Jesus Christ**, whereof shortly before out of GOD's Word Report has been given.
+
+For we can *nowhere better be* than with God the LORD, from whom we shall in Eternity have all that pertains to **eternal ever-enduring Joy, Life, and Salvation** — from whom we shall also *in all Eternity be provided*, that we *feel no Lack, no Weakness, or Neediness at any Good*.
+
+And in Sum, he who has *once for all delivered us from all Evil, and with eternal Life and Glory endowed us* — **thereto help us all Jesus Christ, who has purchased for us such Treasures through his Death and Resurrection, Amen.**
+
+**To God alone be Honour and Thanks, from Eternity to Eternity, Amen, Amen, AMEN.**
+
+— ❦ —
+
+*Printed at Frankfurt am Main by Johann Spies. M. D. XCII.*
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
