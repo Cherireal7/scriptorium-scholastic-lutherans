@@ -8255,11 +8255,207 @@ And according to this Explanation, "Catholic" means *not what this or that Fathe
 
 That, however, he gives out — *"Catholic" is what has always at all times and by all been believed. The Lutheran Doctrine has not always been, but for few years first come up; is also not believed by all, but by few. *Ergo*, so is she not Catholic* —
 
-Thereupon we answer that the ***maior*** or first proposition must be *limited or moderated* with this note: that this is *Catholic* which has **always by all Right-believing, and at all times**...
+Thereupon we answer that the ***maior*** or first proposition must be *limited or moderated* with this note: that this is *Catholic* which has **always by all Right-believing, and at all times, by all right Christians been believed**. For otherwise it does not pass. Forasmuch as it is before eyes that the Truth *at all times* has been contradicted by many, as also still.
+
+Wherefore, when now the ***minor*** according to this true moderation of the first Proposition is weighed, it is found that they do our Church's Doctrine *violence and wrong*. For our Church's Doctrine of God, of Christ and his Office, of the Justification of the Sinner and gracious Forgiveness of Sins, etc., is **from the beginning firm** — **Gen. 1, 2, 3, 12, 15, 22, 28; Acts 10, 15; Rom. 4**. And is not just for a few years come up. For all Patriarchs and Prophets have carried this Doctrine; likewise Christ and the Apostles, and all Saints from the beginning until now — have had **this and no other Faith** than our Churches now by God's Grace have of the said Articles.
+
+We have indeed **Christ's Word and the Apostles'** in the Understanding as it explains itself, and the Christian Faith brings its Explanation with it. We have also the **Ten Commandments, the Apostles' *Symbolum*, the Our Father, the Baptism, the Supper, the Keys** — which the right Catholic Church has always had, etc. Why should then our Doctrine not be Catholic?
+
+On the opposite side, however, it is easy to prove that the **Papal Doctrine in its chief pieces and points is new**. For Christ and the Apostles knew nothing of the *Mass-sacrifice*, nothing of the *One Kind of the Sacrament*, nothing of *Purgatory*, or of the *Invocation of the departed Saints*; also nothing of the *Enclosing, Carrying-about, and Adoration of the Consecrated Host*, of the *Forbidding to Marry*, of the *Forbidding of certain Foods*, and what more pieces there are. From this visibly to demonstrate: that the Pope's Doctrine is by no means Catholic, and has not always been, or by all right Christians believed or received — for neither Christ nor the Apostles have taught and believed such pieces.
+
+**3.** That the **Succession of Bishops** in the Roman Church be a certain Sign of the Church of God is a *pure Human Fable*, which they also cannot prove with any saying of the Scripture. And *defiance be bidden them* in this matter — that they *bring forth or show* any little saying from the New Testament.
+
+So is otherwise the Succession *two-fold*: **One of the Place**, which is of no worth without Scripture, and has also no ground in the New Testament. **The Other of the right Doctrine**. Wherefore, though the Pope could show that one Bishop after another without hindrance has followed in the Roman Church, it would help him nevertheless *pure nothing*, if he did not beforehand also prove that they have **kept the pure Doctrine of the Divine Word and throughout followed Christ's voice**. But that he can *nevermore prove*; rather, much more is he to be convicted that he **has not followed Christ's voice**, has also not left the Sacraments as Christ instituted them, but *shamefully perverted them*.
+
+That the Papists press — the Fathers have nevertheless drawn on the **Succession of Bishops** so highly (as with **Tertullian** and other Teachers is to be seen) — it is true that they thought of the Succession, and used it *against the heretics* who *departed from Christ's and the Apostles' doctrine* (which they had left behind) and *falsified the books of Holy Scripture*, etc., and yet nevertheless would be the right Church.
+
+**But they refuted the heretics' Doctrine** (as of **Marcion, Valentinus**, and others — as in **Tertullian, *De praescriptione***, is to be read; likewise in **Augustine** and other ***patres*** to be found) **first out of Scripture**, and *proved the Truth by striving*. Thereafter they also drew on this: that the Teachers or Bishops in the Churches wherein the Apostles themselves taught had *not learned such erroneous Meanings from the Apostles*, but *contradicted them* — wherefore to the new-arisen heretics' doctrine no assent was to be given. Thus they have appealed *more to the Succession of the right Christian and Apostolic Doctrine* than to the *Succession of Persons and of Places*, as it also must be.
+
+Whence also **Tertullian, *De praescriptione***, rightly writes:
+
+***Nobis nihil ex nostro arbitrio indulgere licet, sed nec eligere, quod aliquis de arbitrio suo induxerit. Apostolos Domini habemus autores, qui nec ipsi quicquam ex suo arbitrio, quod inducerent, elegerunt, sed acceptam à Christo disciplinam fideliter nationibus assignarunt. Itaque etiam si Angelus de coelo aliter euangelizaret, Anathema diceretur à nobis.***
+
+That is: *"We may take nothing to ourselves out of our own will, nor also choose that which any one has brought in of his own wit. We have the Apostles, from whom the Doctrine is spread abroad, who also of themselves have chosen out of their own will nothing that they might bring in; but the Doctrine which they received from Christ, they faithfully commended to the peoples. Wherefore, if also an Angel from Heaven should preach otherwise, so should we curse him."*
+
+Wherefore it helps neither the Pope nor the Papists — that they in this matter appeal to the Fathers — because they have *not kept the Succession of the Apostolic right and pure Doctrine*, but *departed from it no less than the aforesaid heretics*.
+
+### Objection.
+
+**But ye cannot prove the beginning of your Church and Bishops. For she has first begun 60 years ago.**
+
+**Answer**: Our Churches have their Origin from the **Churches of the Patriarchs, Prophets, Christ, and the Apostles**, whose Doctrine they throughout follow, and *even the very same teach and believe* which they taught — as such is visibly to be proved from Scripture.
+
+- **Acts 10:43** — *"Of this Jesus all Prophets witness, that through his Name all who believe on him shall receive Forgiveness of Sins."*
+- **Acts 15:11** — *"We believe through the Grace of the LORD Jesus Christ to be made blessed, in like manner as also they."*
+- **Rom. 4**, and throughout in all chief Articles of Christian Doctrine, easy to prove.
+
+Accordingly we say with **Tertullian, *De praescriptione*, pag. 107**: Though our Churches be planted by no Apostle or Apostolic Man's disciple (forasmuch as they long ago fell asleep in the LORD), ***tamen in eadem fide conspirantes, Apostolicae deputandae sunt, propter sanguinitatem doctrinae*** — *"Yet they are to be held for Apostolic Churches, because they are of one Faith with the same, on account of the blood-relationship of the Apostolic Doctrine."*
+
+**4.** That the Church is thereby to be recognised — that she is **united with the Pope at Rome, and holds the same for her Ministerial Head**, etc. — is worth as much as nothing. The Reason is: that it lies not in the *unity in general*, but in the **Unity of the Doctrine of Christ, the Prophets, and Apostles**. For the Church is built not upon *any unity*, but *upon the Ground of the Apostles and Prophets, whereon Jesus Christ is the Cornerstone* — **Eph. 2:20**. Which Unity the Pope has *shamefully torn asunder*, and *led the Church away* to his *fabled Doctrine and statutes*.
+
+So too the Pope is not the ***Ministeriale Caput*** or **Serving Head** of the visible Christian Church. For the Church has *only one Head, which is Jesus Christ* — **Eph. 1; 5** — whom God himself has set. And knows of no ***Ministeriali Capite*** which shall be the Pope at Rome. So too stands no letter thereof in the Scripture — but it is the *Pope's and his own fable*.
+
+**5.** The **Unity in Men's statutes or Ceremonies** is by neither Christ nor the Apostles set for a *Sign of the Church of God*. Yea, Christ says — **Matt. 15:9**: *"They honour me in vain with Men's doctrines."* And Paul, **Col. 2:16**: *"So let no man now make conscience to you over meat or drink,"* etc.
+
+Whence also **Socrates, *Historiae Ecclesiasticae Lib. 5 cap. 22***, writes: ***Apostolorum scopum non fuisse de festis diebus sancire: sed rectam vitam ac pietatem inducere.*** — *"The Apostles' purpose was not to institute Feast-days, but to plant a saving Life and true God-blessedness."*
+
+**6.** That also the Church shall thereby be recognised — that she holds ***traditiones non scriptas***, the *Men's doctrines or statutes* whereof in the New Testament no word stands, **equal to Holy Scripture** — is a horrible **Blasphemy of God**, against which all pious hearts shall *stop their ears*, and *by no means* receive the same. For alone of **God's Word** is it true what Christ, **John 17:17**, says: *"Sanctify them in thy Truth; thy Word is the Truth"* — thereby it shall also remain.
+
+Whence also **Ambrose, *Lib. 7 De vocatione gentium, cap. 2***, says: ***Sanctis Scripturis non loquentibus, quis loquetur?*** — *"Who will speak, when the Scripture speaks not?"*
 
 — ❦ —
 
-*[Chapter XXVIII Von der Catholischen Kirche continues. Translation continues in Rebuild-Tranche 38.]*
+## Question 30. Are then the Members of the True Church in this Life *perfectly holy and pure*?
+
+**Are then the Members of the True Church in this Life perfectly holy and pure?**
+
+**So far as the outward life concerns, they are in this Life *not perfectly holy*. For there still remains Sin in them — Rom. 7 — which they yet *resist*, and *crucify the Flesh with its lusts*, and thus daily *at the inward man increase*, until in the future World they become *quite perfect*.
+
+### Where still Offence and Lack are, there cannot the Church of God be. With you are still Offence and Lack. *Ergo*.
+
+**Answer**: The first ***propositio*** is not true. Forasmuch as Christ himself, **Matt. 13**, and elsewhere has so described the Church, that in this Life *all manner of Offence and Lacks* shall still be found with her. As he then also himself among his twelve Apostles had a **Judas**.
+
+As it is a good sign when the Body cleans out its infirmities, so it is also a good sign of the right Church when she *puts off the falling Lacks*, and *clears the Offences out of the way*.
+
+### Accordingly it holds not, that the Papists cast up to us: **"There have risen many Sects and Divisions among you. *Ergo*, so are ye not the right Church of God."**
+
+**Answer**: If this objection had ground, then must the **Apostolic and first Church** be *quite rejected*. For also in the Apostles' lifetime the Sects appeared straightway — as **Simonians, Nicolaitans, Cerinthians, Ebionites**, and the like. Paul — **Acts 20:30** — says: *"There shall rise up among you men who speak perverted doctrine."* Should therefore the Congregation at Ephesus not have been God's Church? At **1 John 2:19** it is rightly said: *"They went out from us, but they were not of us,"* etc.
+
+— ❦ —
+
+## Question 31. Is then the Church of God in this World *mostly a little heap*?
+
+**Is then the Church of God in this World mostly a little heap?**
+
+**Yes.** In consideration of the *great multitude* which at every time contradicts the Church and pure Doctrine. Wherefore Christ himself — **Luke 12:32** — says: *"Fear not, thou little flock."* This serves thereto — that we, on account of the little heap, do not separate ourselves from the Truth. **Liberius, in Theodoret Lib. 2 cap. 16**, rightly says: ***Non diminuitur solitudine mea verbum fidei.*** — *"The Word of Truth is not diminished because I am alone or have little following."*
+
+— ❦ —
+
+## Question 32. Is then the *small number* always a *certain Sign of the Church*?
+
+**Is then the small number always a certain Sign of the Church?**
+
+**No.** Rather, this distinction is to be kept — namely, *so far* as the same have **God's Word pure and clear** before them, and *ground themselves thereon*. For where God's Word is not pure, there it helps not — be they few or many — who boast the *Name of the Church*. **God's Word, or the voice of Christ, is the right infallible Sign of the right Church** — **John 10** — whether they be many or few who have the same.
+
+— ❦ —
+
+## Question 33. What has the Church of God for *Power or Might*?
+
+**What has the Church of God for Power or Might?**
+
+**Answer**: The Church's Power is *not Worldly*, as the Pope fables, but *alone Spiritual*, and stands chiefly therein:
+
+**1.** That she holds the **Keys** — *forgives and retains Sins*, in Christ's Name and according to his Word — **Matt. 16, 18; John 20**.
+
+**2.** That she **judges of every Doctrine** — **John 10**: *"A stranger they follow not."* **Matt. 7:15**: *"Beware of the false Prophets."* **1 John 4:1**: *"Prove the Spirits, whether they are of God."* **1 Thess. 5:21**: *"Prove all."* But the Judgement must be set up according to **God's Word**, which alone is the Judge over all Doctrines and Faith. — **1 Tim. 6:3–4**: *"So any teach otherwise and stays not by the sound words of our LORD Jesus Christ, and by the Doctrine of Godliness — he is puffed up and knows nothing."* **Rom. 16:17**: *"Give heed to those who cause divisions and offences beside the doctrine which ye have learned."* **John 17:17**: *"Thy Word is the Truth,"* etc.
+
+**3.** That she has Might to **choose Church-servants** and to *do away with and avoid* the unfaithful and false Teachers. **Acts 1** — Matthias is set forth before the whole Church. **Acts 6** — the seven Deacons are proposed by the whole Church. **Acts 13** — the Church at Antioch sets Paul and Barnabas apart to teach. When **Paul of Samosata** at Antioch began to teach wrongly of Christ and his Godhead, the Church removed him.
+
+**4.** She has also Might to **ordain outward Ceremonies which serve to Edification and good Order** — **1 Cor. 14; Rom. 14**. But yet so that the *Consciences be not burdened therewith* — **Col. 2; Gal. 4**.
+
+**5.** Thereto must also be reckoned the **Gift of Interpretation and the Proving of the same** — **1 Cor. 14:29–30**: *"Let the Prophets speak, two or three, and let the others judge — whether namely the Interpretation is also conformable to the Faith"* — **Rom. 12:6**. But she has *not* Might to set up **new Articles of Faith against God's Word** — **Gal. 1:8**: *"So an Angel from Heaven should preach another Gospel,"* etc.
+
+Wherefore it is also a horrible **Blasphemy of God** — where the Papists give out that the Church has Might to alter *some things which expressly stand in the Scripture*, and may also *set up other things* which stand *not at all in God's Word* out of such Might. Thus is also this a horrible **Untruth** — that the *Church's Reputation is greater than that of Holy Scripture*, and that *Scripture has her Authority from the Church*. Whereas the **Church is spiritually born of God's Word**, and with this *Condition* is God's Church: **insofar as she hears the voice of Jesus Christ and follows it, and no further** — **John 10**.
+
+— ❦ —
+
+## Question 34. What is the strife over the *Gift of Interpretation* between us and the Papal Church?
+
+**What is the strife over the Gift of Interpretation between us and the Papal Church?**
+
+**The strife stands therein**:
+
+**First**, that the Papists fable the Gift of Interpretation is bound *alone to the Bishops and the Pope himself* — whereas **1 Cor. 12:11** stands: *"The Spirit distributes the Gifts to whom he will."*
+
+**2.** That they fable — the Pope's and the Bishops' Interpretation must hold if only it be by them brought forth, and *must not be examined* — whereas **John 4:1** [1 John 4:1] bids **prove the Spirits**.
+
+**3.** That they give out — **all Interpretations of the Holy Fathers must be received *without all Proof***, whether they agree with God's Word or not — whereas the Fathers themselves *appeal to the Scripture*, and *do not want to be believed further* than as they will have the Scripture *for them*.
+
+— ❦ —
+
+## Question 35. What has then the Church of God for *Treasures and Goods*?
+
+**What has then the Church of God for Treasures and Goods?**
+
+**Her Treasures are Spiritual.** As:
+
+**1.** True **Knowledge of God**.
+
+**2.** The certain **Promise of Forgiveness of Sins**, etc.
+
+**3.** The **Hearing of Prayer** — **John 16**.
+
+**4.** The **Bestowal of the Holy Spirit** — **Zech. 12; Joel 3; Rom. 8; Gal. 3, 4**.
+
+**5.** The Promise of **Preservation of the Church until the End of the World** — **Matt. 16:18**: *"The Gates of Hell shall not overpower them."* — **Isa. 41, 46, 49, 54; John 14; Ps. 44, 46**.
+
+**6.** The Promise of **gracious Shielding and Rescue in all Temptations and needs** — **John 10:28**: *"No man shall pluck my little sheep out of my hand."* — **Ps. 91; Hos. 13; Isa. 25, 26**.
+
+**7.** **God's Word, Keys, Baptism, Supper, Christ's daily Intercession** — **Rom. 8** — and finally the *certain Hope of the Resurrection of the Flesh and Eternal Life* — **John 3, 5, 6, 10, 11; 1 Cor. 15**.
+
+These Treasures distinguish Christendom from all other Assemblies, and confirm the Word: **outside the True Church of God is no Salvation nor Blessedness to be found**.
+
+— ❦ —
+
+## Question 36. What have then the *Right-believing Members of the Church* for *inward Signs* whereby they are known?
+
+**What have then the Right-believing Members of the Church for inward Signs whereby they are known?**
+
+**The first is**: the **Dwelling of the Holy Spirit**, who bears witness with their Spirit that they are God's Children — **Rom. 8:16**.
+
+**2.** The **Faith on Christ** — through which they know that they are with God in Grace — **Rom. 5:1**: *"Being now justified through Faith, we have Peace with God, through our LORD Jesus Christ."*
+
+**3.** **Upright Love of God and of the Neighbour** — **1 John 2, 4; John 13**.
+
+**4.** **Earnest enmity against the Sins**, and mortification of the Flesh with its evil Desires — **Gal. 5:24**: *"Whoso belongs to Christ crucifies his Flesh with the lusts and desires."*
+
+— ❦ —
+
+## Question 37. Why does God the LORD then gather a Church or Congregation out of the Human Race?
+
+**Why does God the LORD then gather a Church or Congregation out of the Human Race?**
+
+**Answer**: That he may have people in this World by whom he shall be *rightly known and invoked*. **John 4:23–24** — *"The true worshippers worship the Father in Spirit and in Truth."* And that he may also have people in the *coming World* whom he *makes glorious* and clothes with *Eternal Joy*. **John 3:16** — *"That all who believe on him have Eternal Life."* **John 10:28** — *"I give them Eternal Life."*
+
+Item, that he may demonstrate to the World his **incomprehensible Wisdom**, in that he *chooses what is despised and nothing in this World* — **1 Cor. 1:27–28**.
+
+— ❦ —
+
+## Question 38. Does the Pope then do *wrong* in that he sets himself forth as the **Ministerial or visible Head of the Church on Earth**?
+
+**Does the Pope then do wrong in that he sets himself forth as the Ministerial or visible Head of the Church on Earth?**
+
+**Assuredly he does wrong therein.**
+
+**First**, according to the Scripture, the Church has *no other Head than Christ Jesus* — **Eph. 5:23**: *"Christ is the Head of his Congregation"* — and knows of *no ***ministeriali capite***, "Serving or visible Head," at all*. And is all that is spoken hereof a *pure Papist fable*, as above also has been in part indicated.
+
+**Second**, the Pope also cannot *accomplish* what pertains to the Head of the Church. For he cannot be **present** with the Christendom at all places where she is gathered, *hear her prayer, protect and rescue her from Sin, Death, and Misfortune*.
+
+**Third**, the Scripture calls the Apostles indeed **Members** of the Body of Christ, but the Name of the *Ministerial Head* she ascribes not to them. How then can the Pope ascribe such Name or Title to himself?
+
+**Fourth**, **Peter** himself ascribed never to himself the honour that he be the ***Ministeriale*** or *Serving Head of the Church on Earth*.
+
+**Fifth**, in the Acts of the Apostles *not a single letter* is found of the ***Primate*** of Peter or of the Pope at Rome.
+
+**Sixth**, the *first Council* — **Acts 15** — makes Peter not into a Pope or *Ministerial Head of the Church*, much less his successors.
+
+**Seventh**, from the New Testament it cannot be proved that Peter was a Bishop at Rome, and the outward Head of the whole Church on Earth.
+
+**Eighth**, the oldest Church-Teachers have nothing in their writings that Peter, together with his successors, should be Pope, and the visible Ministerial Head of the whole Christendom or of the General Church on Earth.
+
+**Ninth**, **Gregory the Great** himself has written: ***Ego fidenter dico, quia quisquis se universalem sacerdotem vocat, vel vocari desiderat, in elatione sua Antichristum praevenit, quia superbiendo se caeteris praeponit.*** — *"I speak with courage: whoever calls himself the highest Priest of the General Church, or desires that such a name be given him, comes with pride before the Antichrist, and sets himself through Pride before the other Bishops."*
+
+— ❦ —
+
+## Question 39. Can one then *without danger* separate oneself from the *Church*?
+
+**Can one then without danger separate oneself from the Church?**
+
+**Answer**: **From the right Church** no one can separate himself *without danger of his Blessedness*. **From the false Church**, however, one may very well separate oneself. For Christ himself says — **John 10:5**: *"A stranger's voice they follow not."* And **Acts 2:40**: *"Let yourselves be helped from these perverted people."* **1 Cor. 10:14**: *"Flee Idolatry."* **2 Cor. 6:17**: *"Come out from their midst."* **Rev. 18:4–5**: *"Come out from her, my People, that ye be not partakers of her Sins, that ye receive not of her plagues. For her Sins reach unto Heaven, and God thinks of her wickedness,"* etc.
+
+— ❦ —
+
+*[Chapter XXVIII Von der Catholischen Kirche continues. Translation continues in Rebuild-Tranche 39.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
