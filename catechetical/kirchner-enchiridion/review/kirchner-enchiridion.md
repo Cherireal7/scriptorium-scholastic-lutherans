@@ -3656,11 +3656,239 @@ Wherefore Christ says — **John 16:8** — *"The Holy Spirit shall reprove the 
 
 **Thomas** and the other ***Scholastici Doctores***, when they speak of the abolition of the Law, say that alone the *Worldly Laws of Moses* and the *Ceremonies* are abolished through Christ — **not, however, the Ten Commandments**.
 
-Thou, however, when thou wilt speak of the ***abrogatio*** or *abolition* of the Law, shalt say that **chiefly the Ten Commandments are abolished — not alone the Worldly Laws and Ceremonies**...
+Thou, however, when thou wilt speak of the ***abrogatio*** or *abolition* of the Law, shalt say that **chiefly the Ten Commandments are abolished — not alone the Worldly Laws and Ceremonies** — but that thou must rightly understand, namely thus: that they *do not damn thee*, and thou through them shalt be *made blessed*.
+
+For **Paul** says that we are through Christ *freed from the Curse of the Law*, and speaks there most of all of *the Ten Commandments* — which accuse us, curse, and *condemn the Consciences*.
+
+Wherefore we say: The Ten Commandments have *no more Might to terrify and damn the Conscience* — provided that the Heart *believes on Christ*, who fulfilled the Law. And even when they do [threaten], the Heart shall yet *hold to Christ* — **Rom. 8; John 8**. For **for Christ's sake the Sin is forgiven**; wherefore it has no more Might to *damn* those who are *in Christ Jesus* — **Rom. 8:1**.
+
+But as concerns *the Obedience* — namely, that the Believing also shall *do good works*, and *in that direct themselves after the Ten Commandments* — that has been reported above in the *Third Use of the Law*. For the Obedience in the Believing is *not abolished through the Gospel* — for they are *Debtors*, **Rom. 8:12**, that they live *not after the Flesh, but after the Spirit*. So the Law remains, as much as concerns the *Obedience*.
 
 — ❦ —
 
-*[Chapter XVIII continues on the Law's threefold use and further theological distinctions. Translation continues in Rebuild-Tranche 14.]*
+## Question 18. Is then the Freedom from the Law not directed unto *fleshly Freedom*?
+
+**Is then the Freedom from the Law not directed unto *fleshly Freedom*?**
+
+**No.** The Freedom of the Law, or from the Law, is *firstly*: that it cannot *damn* the Believing who are in Christ Jesus — **Rom. 8** — for they have *in Christ* the fulfilment of the whole Law.
+
+Afterward, it is also a Freedom to *do only good* — with *delight* and *without the Compulsion of the Law*. So the Freedom from the Law is *a Spiritual Freedom*, which does not *abolish* the Law, but *reaches forth what the Law demands* — namely, **Delight and Love** — wherewith the Law is *stilled*, and has no more to *drive and demand* — **Gal. 5:13**: *"Ye are called to Freedom; only see that ye through the Freedom give not room to the Flesh, but through Love serve one another,"* etc.
+
+For thereto is the Holy Spirit given to the Believing — that he *renews the Heart*, and so orders it, that it *begins to be in some measure obedient to the Ten Commandments* — not that it should *live in all Sins and shame*, as the World-children understand Christian Freedom.
+
+— ❦ —
+
+## Question 19. Do then the *Church-Laws* and *Worldly Statutes and Laws of Moses* also bind the Christians?
+
+**Do then the Church-Laws and Worldly Statutes and Laws of Moses also bind the Christians?**
+
+**By no means.** For the same are through Christ *quite abolished* — **Matt. 11:13**: *"The Law and the Prophets have prophesied unto John."*
+
+They have also *alone bound the Jewish people*, and should have endured *until Christ*.
+
+To witness such, both the *Temple* and the *whole Jewish polity* is destroyed.
+
+If yet something remains in the same that *compares itself with the Law of Nature*, that remains *of itself*.
+
+— ❦ —
+
+## Question 20. What is the distinction between *Worldly Laws* and the *Law of God*?
+
+**What is the distinction between Worldly Laws and the Law of God?**
+
+**1.** The Worldly Laws are *changeable*, but the Ten Commandments *not*. For though the Believing get their Sin forgiven *by Grace*, yet Christ has had to *pay for them and fulfil the Law*; otherwise they would have had to be *eternally damned and lost*.
+
+**2.** Worldly Laws demand only *outward Obedience*. But the Ten Commandments demand at once an *inward and outward holy Obedience*, and *Payment for Sin* or transgression. Wherefore also Christ had to render *both* for us, if we were to be made blessed — **Rom. 4, 5, 8**.
+
+**3.** Worldly Lordship punishes only the *Transgressors of the Law themselves*. But the Punishments of the Law reach also *to the Children*, unto the *third and fourth generation* — **Ex. 20**. God punishes Adam's transgression not alone in himself, but in *all his posterity*.
+
+**4.** Worldly Lordship punishes *in body or goods*. But God punishes **Body and Soul at once**, if one does not Penance — as he then in the Law has threatened. **Deut. 27; Rom. 2:8–9**: *"But to those who are contentious, and obey not the Truth, but obey the Unrighteousness — Disfavour and Wrath, Tribulation and Anguish, upon every Soul of the Men that doeth evil,"* etc.
+
+— ❦ —
+
+# XIX.
+
+# Of the Gospel.
+
+## Question 1. What is the Gospel?
+
+**What is the Gospel?**
+
+**"Gospel" is a Greek word**, and in German means *a good message, good new tidings*. Accordingly the Gospel is a *good report and cry* — sounded forth into all the World through the Apostles concerning Christ — who has fought against and overcome **Sin, Death, and the Devil**, and thereby all those *taken captive in Sins*, without their merit, *redeemed, made righteous, alive, and blessed*, and therewith *set at peace and brought home again to God*.
+
+Or, the Gospel is nothing else than **a Preaching of Christ**, true God and Man, who with his Dying and Rising has overcome the *Sin, Death, and Hell* of all Men, and to all who *believe on him proclaims the Forgiveness of Sins, Life, and Blessedness* — **Matt. 11:5**: *"To the Poor is the Gospel preached."*
+
+— ❦ —
+
+## Question 2. From whom is it revealed?
+
+**From whom is it revealed?**
+
+**From God himself** — **Gen. 3:15**: *"I will set enmity between,"* etc. This saying is the *First Gospel* on Earth, wherewith Adam and Eve after the Fall were *raised up again*.
+
+— ❦ —
+
+## Question 3. Where should the Gospel's Preaching in the New Testament begin?
+
+**Where should the Gospel's Preaching in the New Testament begin?**
+
+**Out of Zion shall the Preaching of the Gospel go forth** — **Ps. 110; Isa. 2; Luke 24**. And this is the *touchstone* to judge every doctrine — that one give heed and see, whether it be the Doctrine that has *out of Zion, through the Apostles, been spread abroad* or not. As Mohammed's, the Pope's, and their like doctrine has *not* gone out from Zion through the Apostles.
+
+— ❦ —
+
+## Question 4. What does it teach chiefly?
+
+**What does it teach chiefly?**
+
+**Most of all it teaches what Christ is**, that we learn to know him — thus, that he is our **Saviour**, takes from us *Sin and Death*, helps us out of all misfortune, *reconciles* us with the Father, and makes us *pious and blessed without our works*.
+
+- **John 1:29** — *"Behold, that is God's Lamb, which beareth the Sin of the World."*
+- **John 6:40** — *"This is the Will of God who hath sent me: that whoso seeth the Son and believeth on him hath Eternal Life, and I will raise him up at the Last Day."*
+- **1 Tim. 1:15** — *"It is certainly true, and a precious worthy Word, that Christ Jesus is come into the World to make Sinners blessed,"* etc.
+
+— ❦ —
+
+## Question 5. Which are the chief Properties of the Gospel?
+
+**Which are the chief Properties of the Gospel?**
+
+**First**: that it is a *Mystery hidden to the whole World*. The World understands and knows well *how one shall build and keep house*; but of *the Kingdom of Christ*, how one shall become blessed, she knows nothing — this must be *revealed through the Gospel*. — **John 1:18**: *"No man hath ever seen God — the only-begotten Son, who is in the Bosom of the Father, he hath declared it unto us."*
+
+**2.** It **concerns all Men — Jews and Heathen**. — **Rom. 1:16**: *"The Gospel is a Power of God to make blessed all who believe therein,"* etc.
+
+**3.** It is *offensive to the World*. — **Matt. 11:6**: *"Blessed is he who is not offended in me."* For it sounds *strange to Reason* that a poor Sinner should through *a Stranger* (namely, Christ's Obedience), and not through his *own works*, become righteous.
+
+**4.** It **offers to all who know their Sin the Forgiveness of Sins and Eternal Life, out of Grace, in Christ Jesus** — **Rom. 3:24**: *"And are justified without merit, out of his Grace, through the Redemption which is come to pass through Jesus Christ."*
+
+— ❦ —
+
+## Question 6. What has it for Power or Effect?
+
+**What has it for Power or Effect?**
+
+**The Gospel brings Counsel and Help against Sin — not in one Manner**, for God is *superabundantly rich* in his Grace.
+
+**First**: through the *oral Word*, wherein is preached the *Forgiveness of Sins* into all the World — which is the proper Office of the Gospel.
+
+**2.** Through the *Baptism*.
+
+**3.** Through the *most-worthy Sacrament of the Body and Blood of Jesus Christ*.
+
+**4.** Through the *Power of the Keys*.
+
+And also ***per mutuum colloquium et consolationem fratrum*** — **Matt. 18:20**: *"Where two or three are gathered in my Name, there am I in the midst among them,"* etc.
+
+**2.** [It] **brings Faith and the Holy Spirit into the Heart**, and *changes the old Nature*. For it is a Power of God — **Rom. 1:16** — to make blessed all who believe therein.
+
+**3.** [It] **demonstrates its Power in Temptation**. The Gospel is a *mighty Word*; wherefore it cannot come to its Work *without Temptation*, and no man perceives that it has such Power *until he tastes it*. Where *Suffering and Cross are*, there can it demonstrate its Power. Wherefore it is also preached to the *poor* or *troubled* consciences — **Matt. 11:5**: *"To the Poor is the Gospel preached."*
+
+— ❦ —
+
+## Question 7. Is it so, that where the Gospel goes up, commonly *Sects and Divisions* follow?
+
+**Is it so, that where the Gospel goes up, commonly *Sects and Divisions* follow?**
+
+**Yes indeed.** Where the Gospel goes up, there arise Sects and Divisions, which will *corrupt and quench it again*. The *Cause* is: for the *Devil cannot let be* — he will *sow his seed* under the good seed. And where God builds a Church, he builds his *Chapel or Tavern* thereby. For Satan will always be *among the Children of God*, as the Scripture — **Job 1** — says. Wherefore Christ also warns his Apostles and Church *so diligently*, that they let *no false doctrine* break in — **Matt. 7:15**: *"Beware of the false Prophets."*
+
+— ❦ —
+
+## Question 8. Does the Gospel deserve when it is charged with *stirring up sedition*?
+
+**Does the Gospel deserve when it is charged with stirring up sedition?**
+
+**By no means.** The World indeed hangs upon the dear Gospel this *cloak of shame* — that it is seditious. And indeed the LORD Christ himself was *crucified under this Title* — that he made himself contrary to the Emperor. But she does it wrong: for it teaches *to give to Caesar what is Caesar's, and to God what is God's* — **Matt. 22:21**.
+
+— ❦ —
+
+## Question 9. Whence comes it then, that alongside the Gospel *all manner of trouble* arises?
+
+**Whence comes it then, that alongside the Gospel all manner of trouble arises?**
+
+**From the Devil and his Fellows**, who will not suffer the Gospel. — **Matt. 13:25**: *"The Enemy sowed his tares among the wheat."*
+
+— ❦ —
+
+## Question 10. What does it do, that one could *rightly lay such Evil to its charge*?
+
+**What does it do, that one could rightly lay such Evil to its charge?**
+
+**Nothing** — save that it *redeems Men from their Darkness*, brings [them] to *right Knowledge of God*, and shows how one shall *truly become free of Sin, of Death, of God's Wrath and all evil works*, [and] *eternally righteous, alive, and blessed*. Does *no man harm* in body or goods; lets all Regiments, Offices, and Estates on Earth *go on in their being unhindered*; yea, *confirms them thereto*, bids [men] be obedient to them and *keep peace* — yea, also to *suffer wrong and violence*, that no man may have any cause to *complain of this Doctrine*. Yet the World cannot suffer it.
+
+— ❦ —
+
+## Question 11. What is the distinction between the *Law and the Gospel*?
+
+**What is the distinction between the Law and the Gospel?**
+
+**The distinction between the Law and the Gospel is the highest Art in Christendom**, which every one who boasts of, or receives, the Christian name *can and must know*. For where in this piece there is a lack, there one cannot know a Christian from a Heathen or a Jew — so much lies on this distinction.
+
+**In the Papacy** they knew nothing *upright* of the distinction of Law and Gospel. **The *Enthusiasts (Schwärmer)*** know nothing thereof either — neither ***activè*** nor ***effectivè*** nor ***speculativè***. And right Christians experience *daily on themselves* how difficult it is to distinguish these Doctrines from one another, specially in Temptations. The Holy Spirit must here be Master and Teacher, or no Man on Earth will be able to *understand or learn* them. Wherefore no Papist, no false Christian, no Enthusiast can *judge these two from one another*, specially in ***causa materiali et obiecto***.
+
+**Briefly to speak thereof**: the distinction stands in these three Pieces:
+
+**1.** That the Law is, even after the Fall, in some measure *known to Reason* — **Rom. 1:19, 2:14–15** — and Man in some measure understands that if he be *pious*, he is *acceptable to God*. But he knows not, however, *how he can come thereto*, and that it is *impossible for him* through the works of the Law to be made blessed — forasmuch as he *fully fulfills it not*.
+
+**But the Gospel — which preaches that God will be gracious to the poor Sinners who have not deserved such** — is **wholly unknown to Reason**, and *only the Son of God has revealed it out of the Bosom of his Heavenly Father* — **John 1**. Adam and Eve knew of *no Grace* after the Fall, if God had not *revealed* it to them — **Gen. 3**. Hence the Gospel is called a **Mystery** — **Rom. 16** — and elsewhere, etc. We know of this *Preaching of Grace* by Nature *also nothing*; but we would have to *die in our Sins with an evil conscience*, if it were not shown to us *out of Grace*. For no Man by Nature can answer thereupon before God's Judgement. *"The Sinners are worthy of Death; I am a Sinner, therefore am I worthy of Death,"* etc. — where not Christ come and *shown us in the Gospel what we should say thereto*, namely: **that though the Sinners are not worthy of Life, yet the Son of God has for the Sinners paid with his Death and Blood**; and whichsoever Sinner *takes hold of the same in a broken Heart with true Faith or Confidence* shall be *rescued from Death*, and for the sake of Christ's Merit and Intercession *eternally righteous and blessed*. For otherwise Death and Damnation belong to him.
+
+**2.** The Law is such a Doctrine, which has indeed *Promise* — **Luke 10:28**: *"Do this, so wilt thou live."* **Matt. 19:17**: *"Wilt thou enter into Eternal Life, keep the Commandments."* But because *no living Man can keep it*, or has kept it, no one can *lay claim to such Promises* — for it says **not "The Hearers," but "The Doers of the Law are justified thereby"** — **Rom. 2:13**. Even Paul and the greatest Saints cannot say that they *fulfil the Law*; but must *acknowledge and confess their Sin and Imperfection* — **Rom. 7**.
+
+**But the Gospel offers Grace, Life, and Blessedness — also to the unworthy Sinners** — who do Repentance, turn themselves to God, and believe on the Name of Jesus Christ. **Matt. 11:28**: *"Come unto me, all ye who are weary and heavy-laden — I will refresh you."* Of this Preaching a *troubled Heart and terrified Conscience* can rejoice and comfort itself, and *undoubtedly conclude that it has a gracious God in Heaven, and the Forgiveness of its Sins for Christ's sake*.
+
+**3.** The Law is such a Doctrine, **which does not comfort, but frightens, kills, and fills Man's heart with Trouble and Anguish**. For it announces to him **God's Judgement, Wrath, and Damnation**, which he has deserved with his Sins — **Rom. 4:15**: *"The Law worketh Wrath."*
+
+Before it is *preached and understood*, our Hearts are *secure and reckless*. But when it *rightly touches and strikes* the Heart, it feels nothing but **Death-Anguish and Terror** — as such is to be seen in Adam, Eve, David, and others. As also Paul, **Rom. 7:9–10**, confesses: *"I lived once without the Law; but when the Commandment came, the Sin became alive again — and I died. And it was found that the Commandment which was given me unto Life, worked unto me Death."*
+
+**But the Gospel brings Comfort, Peace, and Joy of Heart, raises the Sinner up again, and proclaims to him God's Grace and Mercy — that for Christ's sake all Sins are forgiven, and not more imputed.**
+
+As such the *Examples of all Believers* witness. **David** becomes joyful of heart when Nathan absolves him; so also **Manasseh**, when God comforts him; likewise **Peter, Mary Magdalene, the man sick of the palsy** — **Matt. 9**; **the Thief on the Cross**. And they could with joyful heart speak to God, and *look for all Grace and Good from him as from their heart-dear Father*.
+
+**Augustine, in his *Meditations***, could not have said that all his *Comfort and Confidence of Heart stood upon the worthy Reconciling-Blood of the LORD Jesus Christ*, if he had not *drawn* such Comfort out of the *grace-rich Preaching of the Gospel*.
+
+Wherefore this distinction of both Doctrines is *diligently to be observed*. Forasmuch as without the knowledge of it we cannot deal with God at all — who *outside of the Gospel is but a consuming Fire* — **Deut. 4:24**. Of Whom, according to the Doctrine and Preaching of the Law, *no poor Sinner can comfort himself*, because *no one has performed* what in the Law is required of all Men — namely, **to love God with the whole heart, and the Neighbour as himself**.
+
+— ❦ —
+
+## Question 12. Is then the Gospel not such a Preaching as also proclaims Grace and Life to those who *unrepentant persist and go on in Sins*?
+
+**Is then the Gospel not such a Preaching as also proclaims Grace and Life to those who unrepentant persist and go on in Sins?**
+
+**Truly, no.** For **Matt. 9:13** Christ says: *"He is come to call the Sinners to Repentance (and not to Sin)."* Repentance, however, requires *Rue and Sorrow over Sin*, and *not persistence in Sins*. Item, **Matt. 11:5**: *"To the Poor is the Gospel preached"* — that is, *to those who feel their misery and poverty in the Heart, and terrify therefor* — not to those who *make sport and laughter of Sin and of God's Wrath against Sin*. Item, *"Come unto me, all ye who are weary and heavy-laden,"* etc. Calls **not** the *unrepentant, stiff-necked Sinners, who securely persist in their Sins without Repentance*, etc.
+
+Also **Isa. 61:1**: *"He hath sent me to preach to the wretched, to bind up the broken hearts."*
+
+— ❦ —
+
+## Question 13. Does not the Gospel require Faith? Wherefore has it also *conditional Promises*?
+
+**Does not the Gospel require Faith? Wherefore has it also conditional Promises?**
+
+**The Gospel promises to all Penitents Forgiveness of Sins — without any Condition of their Works and Merit.** — **Matt. 11; Rom. 3:24**: *"And are justified without merit, out of his Grace, through the Redemption which is come to pass through Christ Jesus — whom God hath set forth as a Throne of Grace through Faith in his Blood,"* etc.
+
+That it therewith *requires Faith* happens *therefore*: that we may learn what is the **Means or Instrument** whereby we shall *receive and grasp Christ's Merit which is offered to us in the Gospel out of pure Grace*. For it demands Faith **not as a Cause or Merit** — but that it may *distinguish* between those who do Repentance and believe, and the others who persist in their Sins.
+
+And the Promises of the Gospel have *no Condition at all* of our Works or Merit — so that even the **Holy Spirit, through the Preaching of the Gospel itself, kindles and works Faith in the Heart** (whereby we receive and grasp his Benefits and Merit) on Christ *out of pure Grace* — **Rom. 1:16**: *"The Gospel is a Power of God to make blessed."* — **Rom. 10:17**: *"So then Faith comes by Preaching."* — **Phil. 1:29**: *"To you it is given, not alone to believe, but also for Christ's sake to suffer."*
+
+— ❦ —
+
+## Question 14. But the Gospel *does* preach also of good Works? *Ergo*, so has it Conditions?
+
+**But the Gospel does preach also of good Works? *Ergo*, so has it Conditions?**
+
+**Answer**: The Gospel, taken *in general*, preaches also of good Works — for **Christ has carried both Doctrines, Law and Gospel**. When he now *drives his Disciples to good Works*, and reminds them: because Christ has *redeemed them, that they shall henceforth live in Righteousness and Holiness pleasing to God* and *bring right Fruits of Repentance* — he then holds up the *Law*. But when he *comforts the anxious Consciences*, there he holds up to them the Gospel **in its proper Understanding** — where it is *alone a Preaching of Grace and Comfort*, to *raise up the poor terrified Sinners* — as **Matt. 9:2**, where he says to the man sick of the palsy: *"Be of good cheer, my Son; thy Sins are forgiven thee."*
+
+— ❦ —
+
+## Question 15. Is then the Gospel — *properly to speak* — not a Preaching of Repentance?
+
+**Is then the Gospel — *properly to speak* — not a Preaching of Repentance?**
+
+**No** — but alone a **grace-rich, joyful Comfort-Preaching**, in which to the poor Sinners *out of pure Grace, for Christ's sake, the Forgiveness of Sins is offered*.
+
+For "**Gospel**," properly to speak, is nothing...
+
+— ❦ —
+
+*[Chapter XIX continues with further Q&A on Gospel/Law distinction, Repentance, closing into Chapter XX Von der Rechtfertigung des Sünders. Translation continues in Rebuild-Tranche 15.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
