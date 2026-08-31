@@ -4261,14 +4261,171 @@ regula_clericorum_aquisgranensis:
     develops the reading. Platina Vita Ludovici Pii lament O
     Ludovice ut nam nunc uiueres.
 
+# ─── Tranche 2dd — Ludovicus letter to Arno + Salzburg + Amalarius + Leo III
+# submission + Sergius II + pseudo-Eutropius appendix (vl0151-vl0158) ─────
+
+epistola_ludovici_ad_arnonem_salzpurgensem:
+  english: Louis the Pious's letter to Arno of Salzburg (816-817)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator continuation at vl0152-vl0155"
+  note: >
+    Louis's imperial mandate (816-817) to Arno of Salzburg r. 785-821
+    who had not attended Aachen Council. Reformation smoking-gun:
+    imperial legislative formula VOLUMUS ATQUE DECERNIMUS with NO
+    papal mention. Sent by missus Nothonus with canonical formulas
+    from Aachen 816. Instructs Arno to summon diocesan bishops at
+    convenient time and place, read out formulas chapter by chapter,
+    demonstrate what serves ecclesiastical exaltation and salvation
+    of souls. Imperial audit via missus dominici sent September 1
+    each year to verify compliance. Volumus et decernimus = Byzantine
+    imperial-legislative formula (Corpus Iuris Civilis Cod. Just.
+    1.1-13) appropriated for Carolingian-Frankish ecclesiastical
+    governance. Full text in MGH Epistolae V.
+
+constitutio_romana_824:
+  english: The Constitutio Romana (824) — imperial oversight of papal elections
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0151"
+  note: >
+    Louis the Pious 824 constitution confirming imperial oversight
+    of papal elections MGH Capitularia I:322-324. Held (with Ottonian
+    Privilegium Ottonianum 962 renewing it) until Nicholas II decree
+    1059 restricted papal election to College of Cardinals.
+    Reformation-standard pre-Gregorian-reform status quo evidence:
+    in potestate Caesaris fuisse tunc, creare non tantum alios
+    episcopos & prelatos, sed & Romanum, seu Papam.
+
+meretrix_pedes_osculandos:
+  english: The Whore whose stinking feet Kings and Caesars must kiss
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0151"
+  note: >
+    Meretrix illa caput contra Deum extulit, Regibusq[ue] ac Caesaribus
+    (proh nefas) foetidos osculandos obtrusit. Rev 17 Whore-of-Babylon
+    identified with papacy + osculum pedum papal foot-kissing =
+    Reformation smoking-gun on inverted power. Historical inversion
+    begins with Gregory VII Dictatus Papae 1075 §9 (Solus Papa possit
+    uti imperialibus insigniis... Quod solius Papae pedes omnes
+    principes deosculentur). Standard Melanchthon Tractatus §41.
+
+molinaeus_dumoulin:
+  english: Charles Du Moulin (Molinaeus, 1500-1566) on pre-Gregorian imperial-papal order
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0151"
+  note: >
+    Charles Du Moulin French Reformed-inclining jurist, prof at
+    Tübingen 1554-56. Commentarius in edictum Henrici II contra
+    parvas datas 1552 + De monarchia Franciae 1555 = great humanist-
+    legal treatment of Gallican liberties against papal jurisdictional
+    encroachment. Flacius invokes as contemporary humanist-jurist
+    witness for pre-Gregorian order (in 816-840 Popes obeyed the
+    Emperor).
+
+amalarius_metensis_rector_religionis:
+  english: Amalarius of Metz — Louis as rector totius Christianae religionis
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0155"
+  note: >
+    Amalarius of Metz c. 775-c. 850 great Carolingian liturgist,
+    Liber Officialis c. 823 + De Ecclesiasticis Officiis dedicated
+    to Louis the Pious. Reformation smoking-gun: Amalarius addresses
+    Louis as RECTOR TOTIUS CHRISTIANAE RELIGIONIS quantum ad homines
+    pertinet — where here is the Apostolic See and Primacy of the
+    Pope? Same book contains proposition that MISSA TANTUM CUM
+    VERBIS DOMINI CELEBRARETUR SICUT TEMPORE APOSTOLORUM — Mass
+    with only Words of the Lord (Institution narrative) as in
+    apostolic time. Directly anticipates Luther Formula Missae
+    1523 + Deutsche Messe 1526 recovery of verba Domini as substance
+    of the rite. Modern edition Studi e Testi 138-140 Hanssens 1948-50;
+    Amalarius controversially condemned by Florus of Lyon at Synod of
+    Quierzy 838.
+
+pactum_ludovicianum_817:
+  english: Pactum Ludovicianum (817) — Louis's donation-charter to Paschal I
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0156"
+  note: >
+    Louis the Pious 817 donation-charter confirming papal territorial
+    rights while RESERVING imperial confirmation of papal elections
+    MGH Capitularia I:352-355. Response to Paschal I r. 817-824 sending
+    apologetic legation after his election without imperial confirmation.
+    Later CONSTITUTUM LUDOVICIANUM = medieval forgery (DH 641) claiming
+    Louis renounced imperial rights in papal creation; weaponised at
+    Investiture Controversy. Reformation critical reading: Louis's
+    actual Pactum did NOT renounce imperial confirmation. Modern crit
+    Sickel 1883 + Schramm 1929.
+
+leo_iii_iudicio_ludovici_submittit:
+  english: Leo III submits himself to Louis's judgement (Gratian C.II q.7)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0157"
+  note: >
+    Reformation smoking-gun against papal infallibility preserved
+    in Gratian Decretum Causa II Quaestio VII. Pope Leo III confesses:
+    (i) may have acted incompetently (ii) may have failed to preserve
+    just law in his subjects (iii) wills all things amended by Louis's
+    judgement (iv) confesses that he — quos aliena debemus corrigere
+    peccata — commits worse sins than laymen (v) requests imperial
+    missi be sent to investigate. Very Leo now claimed inerrant confesses
+    potential grave error and submits to secular imperial correction.
+    Melanchthon Tractatus §§25-27 develops on pre-Gregorian pontifical
+    submission-formulas. Emil Friedberg Corpus Iuris Canonici I 1879.
+
+sergius_secundus_osporcus:
+  english: Sergius II Hog's-mouth (Os porci) 844-847
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0157"
+  note: >
+    Elected + consecrated January 844 without consultation of Emperor
+    Lothar I r. 840-855. Lothar sent son Louis II of Italy r. 844-875
+    with DROGO OF METZ (Charlemagne's illegitimate son by concubine
+    Regina, half-brother of Louis the Pious, Bishop of Metz r. 823-855;
+    FLACIUS MISIDENTIFIES as Archbishop of Cologne — possibly from
+    corrupted MS since Drogo was papal vicarius for Gaul-and-Germany
+    844-855 which may have obscured see-identification) + strong army
+    to Rome. Roman clergy + people after military coercion swore to
+    observe ancient customs in papal election. Sergius ultimately
+    confirmed by Lothar after heavy fine, anointed as king of Italy.
+
+pactum_leonianum:
+  english: Pactum Leonianum — Leo III's 800 oath to Charlemagne
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0157"
+  note: >
+    Leo III r. 795-816 sacrosancta iuraiurando, literis ac sigillo
+    to Charlemagne (attested Annales Regni Francorum ad an. 800 MGH
+    SS rer. Germ. VI) that no papal election should proceed without
+    imperial consultation. Oath renewed by successive Frankish
+    emperors, forms constitutional basis of Carolingian imperial-
+    papal relations until Nicholas II 1059 decree. Reformation-
+    standard pre-Gregorian imperial-superior arrangement evidence.
+
+pseudoeutropius_appendix:
+  english: The pseudo-Eutropius appendix (medieval anonymous historical continuation)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0158"
+  note: >
+    Anonymous medieval historical compilation appended to ancient
+    Eutropius Breviarium ab Urbe Condita producing 26-book universal
+    history from Roman antiquity through medieval period. Multiple
+    such continuations existed (Paul the Deacon Historia Romana
+    most-diffused). Flacius draws on specific manuscript he possesses
+    whose author he judges non admodum literato. Structural thesis
+    matches Catalogus own: quo ratione, quibus ne fraudibus quidam
+    Pontifices Caesarum potentiae labefactarint, sua[m]q oppresso
+    Imperio auxerint — by what reason and frauds Pontiffs undermined
+    Caesar-power and augmented their own by oppressing Empire.
+    Opening translatio imperii ad Byzantium under Constantine as
+    Nova Roma matching Chalcedon 451 Canon 28.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Ludovicus Imperator opening (vl0001-vl0150,
-# 150 body pp + 32 paratexts ≈ 27.4% of 1094-pp body). Flacius lemma total:
+# FLACIUS 1556 — TRANCHE 2 through Eutropii appendix opening (vl0001-vl0158,
+# 158 body pp + 32 paratexts ≈ 28.9% of 1094-pp body). Flacius lemma total:
 # 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
 # (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
 # (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4
 # (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4
-# (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc) = 158.
+# (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) = 168.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
