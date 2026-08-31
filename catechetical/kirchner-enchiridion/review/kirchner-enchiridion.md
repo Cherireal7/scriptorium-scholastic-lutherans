@@ -4091,11 +4091,251 @@ Item, **Rom. 8:3–4**: *"What was impossible for the Law, that God did — and 
 
 **3.** So could we also *not fulfil the Law with our works* — for the *corrupted Flesh hindered us* therefrom — **Rom. 8:3**. Now it is *vain* to will to deal with God concerning the Righteousness, unless we have the *complete Fulfilment of the whole Law*. If we were then to be helped, it must come to pass through the **holy and fully sufficient Obedience of Jesus Christ**.
 
-**4.** That whereby the *Forgiveness of Sins* is obtained, and the *Righteousness that is valid before God* is brought about — that must be of such **Worthiness** that it can *merit such matters with God*. It must also be *throughout pure and unblameable*, and be rendered by *such a Person* that with him was such *reputation with God*, that God with the same Payment and Satisfaction should be at peace. But our works could not be of such worthiness before God's Judgement. So they were not (and are not) *throughout pure and unblameable* — besides that we are *sinful, corrupted men*...
+**4.** That whereby the *Forgiveness of Sins* is obtained, and the *Righteousness that is valid before God* is brought about — that must be of such **Worthiness** that it can *merit such matters with God*. It must also be *throughout pure and unblameable*, and be rendered by *such a Person* that with him was such *reputation with God*, that God with the same Payment and Satisfaction should be at peace. But our works could not be of such worthiness before God's Judgement. So they were not (and are not) *throughout pure and unblameable* — besides that we are *sinful, corrupted men* — indeed have not the reputation with God, that he should let himself be paid and stilled with our unclean, sinful, and imperfect works.
+
+Wherefore, if we were to be **reconciled with God**, it had to come to pass through the **Merit of Christ**, who is *worthy enough, pure and unblameable*, and has also the reputation with God, that he for the sake of the same his Son and his Satisfaction *gladly takes us unto Grace*.
+
+Whence **Paul, Rom. 8:32**, writes: *"God hath not spared his own Son"* — showing that because it has cost God so precious an inexpressible treasure — namely, his own Son, who himself had to be given up for our Sin — it is easy to gather that we cannot atone for the Sin, nor obtain the Righteousness with our works.
 
 — ❦ —
 
-*[Chapter XX continues with the full Justification treatise (Faith as instrument, Forgiveness of Sins, imputation, Roman errors, closing into Chapter XXI Von der ewigen Wahl Gottes). Translation continues in Rebuild-Tranche 16.]*
+## Question 16. How does the *penitent Sinner* become Righteous before God?
+
+**How does the penitent Sinner become Righteous before God?**
+
+**When he in a contrite and broken Heart, and true hearty Knowledge of his Sins and God's Judgement against the Sin, raises himself up through the Payment of Christ and his holy Obedience, and with hearty Confidence grasps the Death and the whole Merit of Jesus Christ — there God certainly forgives him all his Sins for Christ's sake**, who has given himself up for him; imputes to him, and *bestows on him* the whole Obedience of Christ — that Man with *constant Confidence* may rely upon it, that **Christ's Satisfaction is his Satisfaction, and Christ's Obedience and Fulfilment of the Law is his Righteousness** — for whose sake he is *acquitted of Sins, reconciled with God, made Righteous, and received as an Heir of Eternal Life*.
+
+- **Rom. 3:28** — *"So we hold now, that Man is made Righteous without the works of the Law, alone through Faith."*
+- **Rom. 4:5** — *"To him, however, that dealeth not with works, but believeth on him who justifieth the Godless, is his Faith reckoned unto Righteousness,"* etc.
+
+— ❦ —
+
+## Question 17. Is then Christ's Payment and Fulfilment of the Law *certainly* our Payment?
+
+**Is then Christ's Payment and Fulfilment of the Law *certainly* our Payment?**
+
+**Yes: it is certainly ours.** For **for our Sin he is given up** — **Rom. 4:25**. And **Isa. 53:5**: *"Through his Wounds are we healed."* — **1 Cor. 1:30**: *"Jesus Christ is made unto us of God, Wisdom, and Righteousness, and Sanctification, and Redemption — that (as it is written) whoso boasteth, boast in the LORD."*
+
+— ❦ —
+
+## Question 18. Through what is such Righteousness *dispensed*?
+
+**Through what is such Righteousness dispensed?**
+
+**God uses on his side the *Gospel* and the *Sacraments* thereto** — these are as *Means* through which he makes us *partakers of the Merit of his Son*, and *bestows and hands over* the same.
+
+- **1 Cor. 1:21** — *"It hath pleased God through the foolish Preaching to make blessed those who believe."*
+- **Rom. 1:16** — *"The Gospel is a Power of God to make blessed all who believe therein."*
+- **Mark 16:16** — *"Whoso believes and is baptised shall be blessed."*
+
+**So much as, however, concerns us**, we **grasp, receive, take and hold** such given Righteousness through **Faith**, or *the Confidence of Heart* — which firmly relies thereon, and *strives against Doubt and Unbelief*. — **John 3:36**: *"Whoso believes hath Eternal Life."*
+
+— ❦ —
+
+## Question 19. What *moves* God the LORD to this, that he does such?
+
+**What moves God the LORD to this, that he does such?**
+
+**First**, his **inexpressible Mercy** — whereby he wills that we poor Men be helped from Sin and Death. — **John 3:16**: *"So hath God loved the World, that he gave his only Son,"* etc.
+
+**Second**, the **Payment and true Merit of Jesus Christ** — **Rom. 3:24**: *"Through the Redemption which is come to pass through Jesus Christ."* Forasmuch, namely, as Christ Jesus his dear Son has *obtained such for us*.
+
+— ❦ —
+
+## Question 20. To whom will God let such great Grace *befall*?
+
+**To whom will God let such great Grace befall?**
+
+**To all penitent Sinners and Sinneresses, who from the Heart turn themselves to God, and pray for Grace through the Throne of Grace Jesus Christ.**
+
+- **Matt. 11:28** — *"Come unto me, all ye who are weary and heavy-laden — I will refresh you."*
+- **Ezek. 33:11** — *"As I live, saith the LORD, I will not the Death of the Sinner, but that he convert and live."*
+- **Ps. 22:26** — *"The wretched shall eat, that they may be filled."*
+- **Isa. 55:1** — *"Well then, all ye who thirst, come to the Water; and ye that have no money, come, buy and eat; come, buy without money,"* etc.
+
+— ❦ —
+
+## Question 21. What Order does he keep in the Justification of the poor Sinner?
+
+**What Order does he keep in the Justification of the poor Sinner?**
+
+**That stands at *Matt. 18* in the Parable of the servant who was indebted to his Lord *ten thousand talents*** — whom the Lord first leads to *Knowledge of his uncountable debt and Sins*, *contrites and grinds him small in the Heart*, thereafter has mercy upon him, *comforts him through the Gospel and lets him go free* — yea, remits him also all the debt.
+
+— ❦ —
+
+## Question 22. Are then all Men who do Repentance *justified in like manner* by God?
+
+**Are then all Men who do Repentance justified in like manner by God?**
+
+**Yes.** For **here is no distinction**: we are all together **Sinners**, and *lack the boast which we shall have before God* — **Rom. 3:23**. So are we also in this piece equal, that we are *all together made Righteous, without our merit, out of Grace, through the Redemption which is come to pass through Christ — whom God hath set forth as a Throne of Grace, through Faith in his Blood* — etc.
+
+— ❦ —
+
+## Question 23. Have the Believing in the Old Testament also been made Righteous and Blessed in this manner?
+
+**Have the Believing in the Old Testament also been made Righteous and Blessed in this manner?**
+
+**Yes.** For thus Peter says — **Acts 15:11**: *"We believe to be made blessed through the Grace of the LORD Jesus Christ, in like manner as also they."*
+
+Item, **Acts 10:43**: *"Of this Jesus witness all the Prophets — that through his Name they receive Forgiveness of Sins, all who believe on him."*
+
+Wherefore the Papists do us great wrong, that they cast up to us that we have herein *a new Doctrine* and a *new Faith* — forasmuch as all Prophets so have taught, and all Believing, also in the Old Testament, in this manner have been made blessed.
+
+— ❦ —
+
+## Question 24. Which are the Fruits of the Righteousness of Faith?
+
+**Which are the Fruits of the Righteousness of Faith?**
+
+**These St. Paul enumerates in Romans 5:1–5** — *Peace, Joy, Love toward God and every man* — thereto **Boldness, true Invocation of God, Patience, and Hope in Tribulation and Suffering**, etc. For all this follows where the Faith is upright — on account of the *superabundant Good* which God shows us in Christ, that he has let him die for us *before we could pray to him for it* — yea, when we were still his Enemies.
+
+Thus we hold then that **Faith without all works makes Righteous** — and yet from this it *follows not* that one shall therefore do *no good works*; but that *upright works do not remain wanting* — of which the *works-Saints know nothing*.
+
+— ❦ —
+
+## Question 25. Have Men then the Righteousness that is valid before God through the Faith which *works or brings no fruits of Repentance*?
+
+**Have Men then the Righteousness that is valid before God through the Faith which works or brings no fruits of Repentance?**
+
+**No.** For where Works and Love break not forth, there is the Faith not right, there the Gospel has not yet held; and Christ is not rightly known. For where the Faith is, it cannot *contain itself* — it demonstrates itself, and *breaks forth through good works*.
+
+— ❦ —
+
+## Question 26. What is the distinction between the *imputed Righteousness* and the *begun Obedience or good Works* of the Christians?
+
+**What is the distinction between the imputed Righteousness and the begun Obedience or good Works of the Christians?**
+
+**First**: **Christ's imputed Righteousness is perfect**, and a troubled Heart may boldly rely on her before God's Judgement. But the *Christians' begun Righteousness is only piece-work*, and no Heart may rely upon it before God — **Rom. 4; Ps. 130, 143** — because it is also *unclean and imperfect*.
+
+**Second**: **Christ's Righteousness is throughout pure and holy**, and is directed to this End — that she can and shall be *imparted to others*. But the Christians' begun Righteousness is *not yet throughout pure*, but has *many defects*, can also and shall be imparted to no one to Blessedness.
+
+**Third**: **Christ's Righteousness is by him obtained and brought about for the sake of our Souls' Salvation and Blessedness.** But the Christians' Righteousness is *kindled by the Holy Spirit in the Believers*, and serves neither themselves nor others *to obtain or gain Blessedness with God*, but shall be *rendered by them to demonstrate their Faith and God-blessedness therewith* — **Matt. 5:16**: *"Let your Light shine,"* etc.
+
+**Fourth**: **Christ's imputed and by Faith grasped Righteousness brings Peace and Joy in the Heart, and a joyful access to God** — **Rom. 5:2**. But that the *begun Righteousness of the Christians cannot do*, because it is still *defiled with Sins* — **Rom. 7**.
+
+— ❦ —
+
+## Question 27. How are then the Believing Righteous before God, since they nevertheless still have Sin as long as they live?
+
+**How are then the Believing Righteous before God, since they nevertheless still have Sin as long as they live?**
+
+**Righteous and pure are they through Christ in Faith**, whose Blood indeed is pure. But as much as concerns the *Flesh*, and the *remaining Uncleanness* that is still remaining in the Flesh — that is **not imputed** to those who are *in Christ Jesus through Faith*, and *walk not after the Flesh but after the Spirit* — **Rom. 8**.
+
+— ❦ —
+
+## Question 28. What remains then for Sin in the Believing?
+
+**What remains then for Sin in the Believing?**
+
+**All Sins are forgiven to the Believing, and are not imputed to them for Christ's sake.** And there yet remain remaining Sins, Weaknesses, and Infirmities — as **Doubt, Pride, Impatience, evil Lusts and Desires** — which strive against Faith and Holy Spirit — etc. in the Flesh — **Rom. 7** — against which the Christians *daily fight and strive*. The same are not imputed to them for Damnation, because they through Faith on Christ *every moment pray for Forgiveness*, and *fight and strive against the same Sins cleaving in the Flesh* — **Rom. 7, 8**.
+
+Wherefore the Christians' Righteousness — whereby they are Righteous before God — stands *not in their own proper Cleanness or Piety* (so unclean and only-begun), but **alone on Christ's imputed Righteousness**. ***In praedicamento relationis, non in praedicamento substantiae aut qualitatis*** — *"in the category of relation, not in the category of substance or quality"* (thus, teaching the cause, says **Luther**), — such vocabularies I use.
+
+And it is a great distinction — between the **Forgiveness of Sins**, which is done through Faith, and between the **Blotting-out of Sin** which remains in the Flesh — which Blotting-out is indeed begun, but in this Life is not accomplished, but only in the future.
+
+— ❦ —
+
+## Question 29. Must then the Christians *earnestly fight* against the same remaining Sins which they still feel in their Flesh — that they *rule not*?
+
+**Must then the Christians earnestly fight against the same remaining Sins which they still feel in their Flesh — that they rule not?**
+
+**Yes indeed.** For if they do not this, it is soon come to pass that these Sins and evil Inclinations *take root and gain the upper hand* — as befell David himself, and many great people.
+
+Against this *Security and Inclination of the Flesh* a Christian must, through Prayer and otherwise, *daily fight* — that Sin gain not again the Lordship in him. Thus does David, who has *Forgiveness of Sins* — **Ps. 51** — and yet prays for *cleansing from Sin*, so that Sin may not *anew obtain the Rule over him*. For though the Sin is forgiven him out of Grace, yet is she not *quite blotted out from the Flesh and Heart*, but *stirs herself ever still*. Wherefore the Believing must *fight and strive against her*.
+
+— ❦ —
+
+## Question 30. Why, however, does God make Sinners Righteous *only out of pure Grace*?
+
+**Why, however, does God make Sinners Righteous only out of pure Grace?**
+
+**First**: that his **inexhaustible Mercy be revealed to all Men** — **Eph. 2:4–5**: *"God, who is rich in Mercy, through his great Love wherewith he hath loved us — when we were dead in Sins, hath he made alive together with Christ,"* — which yet we very heavily, specially in temptation, can believe.
+
+**Second**: that **all boasting be excluded** — [so] that whoso will boast, boast alone in the LORD Christ and his Satisfaction — **1 Cor. 1:31; Eph. 2**. For because God through his Son *alone* does and has done it, he wills also (as *fitting*) to have alone the *Boast of this Deed*; and it is a *horrible blasphemy of God* through trust upon one's works (as the Papists do) to *take away from Christ such Boast*.
+
+**Third**: he does it not on *his own* account, but much more **for our sake**. For if he should deal with us *according to Right, and not according to pure Grace*, no living Man could stand or be made Righteous before God — **Rom. 3, 4; Ps. 130, 143**. Forasmuch as *none of us* — even the very holiest — has the full Righteousness and *holy Obedience* which is demanded in the Law. Beside God, it is trouble enough that — though God out of pure Grace makes us Righteous, that the Promise of Blessedness be certain — we *with Faith receive such* and rely upon it *with hearty Confidence*. What then should become, if he should deal with us according to his Right? And the Promise of Blessedness stood on this Condition: *"When thou doest this and fully keepest it, thou shalt be Blessed — if not, thou must be damned and remain [damned]."*
+
+— ❦ —
+
+## Question 31. What is the distinction between the Papists' Doctrine and our Church's Doctrine, of the *Righteousness that is valid before God*?
+
+**What is the distinction between the Papists' Doctrine and our Church's Doctrine, of the Righteousness that is valid before God?**
+
+**The distinction stands chiefly in these five Pieces:**
+
+**First**: That they teach — **Christ has merited to us, that we hereafter through our own works shall be made Righteous**. We, however, say **No** thereto, as shortly before was indicated.
+
+**Second**: That they teach — **Man can with his own works merit Forgiveness of Sins and Eternal Life**. There we again say **No** — since Christ alone has merited such for us; and we with our works can not *merit* Forgiveness of Sins or Eternal Life. But shall render the same for **thanksgiving** for the received Grace — that Men may see our good works, and our Heavenly Father may thereby be *praised* — **Matt. 5:16**.
+
+**3.** That they teach — **Faith is not the only Means whereby we grasp the Righteousness**, but also *other good works* are needful thereto. There we with the Scripture — **Rom. 3** — ascribe such **alone to Faith**, as that which *alone grasps Christ with his Grace-treasures*, and *can grasp him*.
+
+**4.** That they teach — **the New-born can in this Life fulfil the Law**, and thereby merit Eternal Life ***de condigno***; yea, do *more* than God demands. This we again *hold for a blasphemy of God*; for Paul, **Rom. 7:18**, plainly writes: *"To will I have, but to accomplish [the good] I find not."* If then Paul finds it not, we shall of course find it far less.
+
+**5.** That they teach — **Man cannot in this Life be sure of his Blessedness, and undoubtedly conclude that he is in Grace**. Which we also contradict out of God's Word. For Christ teaches that *whoso believes on him hath Eternal Life*. And the Gospel teaches us *to strive against Doubt* — as the Apostles pray: *"LORD, strengthen us the Faith"* — **Luke 17:5**.
+
+— ❦ —
+
+## Question 32. Is the distinction right which the Papists make, between the *First* and the *Second Justification*?
+
+**Is the distinction right which the Papists make, between the First and the Second Justification?**
+
+**No.** They give out — the *First Justification* is when to an unregenerate Man first are *infused or given Faith, Hope, and Love*, and that this Infusion no preceding works merit.
+
+The *Second* is when the *infused Love* practises itself and *does good*; and this second Justification can be *obtained with good works*. They hold also that this Righteousness is *greater than the First*; and that such works, which a Believing person does, certainly *merit Eternal Life*.
+
+**But the said distinction goes expressly against the sayings of Scripture**, where it is said: **that also the Righteous lives of his Faith** — **Rom. 1:17**. And that **Abraham** — though he had many good works — was yet *not* out of the same made Righteous before God — **Rom. 4** — but his Faith on Christ was to him *imputed unto Righteousness*.
+
+So **St. Paul, Phil. 3:7–9**, expressly says: *"But what to me was gain — that have I for Christ's sake counted loss. For I count it all loss, against the superabundant Knowledge of Christ Jesus my LORD, for whose sake I have counted all things loss and count them for filth, that I may gain Christ, and be found in him — that I have not my Righteousness which is from the Law, but that which comes through the Faith on Christ, namely, the Righteousness that from God is imputed to Faith."*
+
+From which again clearly [appears] that Paul is *not first* made Righteous by his subsequent good works, and *merited something* — that he did not will to ascribe to himself, but much more counted all as loss — that he had his Righteousness *alone in Christ Jesus*.
+
+Beside, it is also **wholly blasphemous, against the precious Merit of Christ**, to give out that the other Righteousness — which shall consist in our works — is *greater* than the *imputed Righteousness* or the *Merit and holy Obedience of Jesus Christ*, which is given to us through Faith.
+
+— ❦ —
+
+## Question 33. Do the Papists then teach *wrongly*, in that they say that Man is *partly through Christ's Merit, partly through his own works* made Righteous before God?
+
+**Do the Papists then teach wrongly, in that they say that Man is partly through Christ's Merit, partly through his own works made Righteous before God?**
+
+**Truly they teach wrongly.** For the Scripture — **Rom. 3:28** — expressly teaches the counterpart: *"We are made Righteous without merit."* Item: *"Without the works of the Law."*
+
+It is also this doctrine **blasphemous against Christ's Merit**, to whom such Honour alone belongs — **Gal. 2:21**: *"If Righteousness came through the Law, then is Christ died in vain."*
+
+**Abraham's and all the Believing's Example** condemns the said Doctrine of the Papists, as is to be seen at **Rom. 4** — likewise **Acts 10, 15**.
+
+So is it also *impossible* that a troubled Conscience can rely before God upon its unclean, imperfect Righteousness — or set its trust at once upon Christ's, and then also upon its own Righteousness — as such in the true practice of Repentance, Faith, and Prayer, in the *spiritual, high, and heavy Temptations*, where a Christian must fight with *Sin, God's Wrath, Devil's Tyranny, and the Curse of the Law*, [is found] well finds itself.
+
+**And in Sum**: this doctrine makes the *Grace-Promises quite uncertain* to us — forasmuch as our begun Righteousness is not so constituted that upon her one could build before God's Judgement. And David therefore prays: *"LORD, enter not into Judgement with thy servant; for before thee is no living Man Righteous"* — **Ps. 143:2**.
+
+— ❦ —
+
+## Question 34. Why does the Scripture *withdraw from* the begun new Obedience in Man the *praise of Righteousness before God*?
+
+**Why does the Scripture withdraw from the begun new Obedience in Man the praise of Righteousness before God?**
+
+**First**: because such Obedience in this Life is *imperfect* and *remains so* — **Rom. 7**.
+
+**Second**: that the *Boast of the Righteousness which is valid before God* pertains to and belongs to the LORD Christ and his Obedience *alone* — **1 Cor. 1; Eph. 2**.
+
+— ❦ —
+
+## Question 35. Which is the *chief dispute* between us and the Papists in the Article of Justification?
+
+**Which is the chief dispute between us and the Papists in the Article of Justification?**
+
+**Answer.** The chief dispute is not *whether a Man shall do Repentance*, or *whether in the Believing there shall be a new Obedience*, or *whether Love shall follow*; or again, *whether the Believing after the received Righteousness may live freely and do what they will*; or *whether they may do or omit good works*. For herewith the Papists gladly *charge* our Church's Doctrine — but they do us wrong therein.
+
+Rather, **it is the dispute concerning the *very Piece* whereby Man is made Righteous and Blessed before God**, and *therefore obtains* Forgiveness of Sins and Eternal Life. Whether that comes to pass for the sake of **Christ's Satisfaction, Merit, and Obedience**, or on account of **our own Virtues** which we either ourselves have done, or the Holy Spirit in us has begun.
+
+**In Sum**: the dispute is *whether Christ's Obedience and Payment is our Righteousness before God*, or *whether our good works, in part or in whole*.
+
+Here we say plainly, that **it is alone and only the precious Merit and Payment of Jesus Christ**, and *not at all* our good works — that also our good works, as *unclean and imperfect*, belong here *not at all*.
+
+But we deny not, however, that one shall do Repentance, do good works, live in Righteousness and Holiness pleasing to God. For where the Faith on Christ is upright, all this *follows*; and a *right-believing Christian* asks not much...
+
+— ❦ —
+
+*[Chapter XX Justification treatise continues (dispute closing, more objections), then closes into Chapter XXI Von der ewigen Wahl Gottes. Translation continues in Rebuild-Tranche 17.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
