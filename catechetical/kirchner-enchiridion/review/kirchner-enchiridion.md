@@ -4540,11 +4540,228 @@ Here, however, is the question: *whereby are we made Righteous, and obtain Etern
 
 **2.** That the troubled Consciences may have **constant Comfort**, and *hold themselves up* against the Temptations of Sin and God's Wrath. — **Ps. 130:4**: *"With thee is the Forgiveness."* Wherefore thou findest not the Forgiveness of Sins in Moses, in the Law, or in thy works — but in the Merit of Christ *alone*. For upon that alone can thy troubled Conscience *rely*; and upon nothing else at all. It is also *impossible* that thou shouldst have constant Comfort for thy troubled Conscience, if thou groundest not thyself *alone on Christ's Obedience and Merit*.
 
-**3.** This Doctrine must also be preserved (that Man alone through Faith be made Righteous, for Christ's sake) — for when one undertakes to be Righteous *from the Law or works*...
+**3.** This Doctrine must also be preserved (that Man alone through Faith be made Righteous, for Christ's sake) — for when one undertakes to be Righteous *from the Law or works*, then is the *distinction of Law and Gospel* thereby *abolished*, and there follows either **Presumption** or **Despair**. The Law works **Presumption** in those who its Powers understand not yet, or have not experienced. **Despair**, however, in and by the Hearts who through the Office of the Law are terrified, and led to Knowledge of their Sin and of God's Wrath. Wherefore a troubled Heart must hold *alone to the Gospel*, the LORD Christ and his Merit — for on that alone flows constant Comfort. And this has sufficiently been proved in the Papacy, where the people — because of Christ's Benefits nothing was taught — either presumed to be blessed *through their own works*, or at last fell into Despair. For the Law can *neither comfort nor make alive* anyone, because no one fulfils it fully — **Rom. 3, 8**.
+
+But if someone would say: *Shall one then not do the Law, or shall one then do no good works?* Yes, one shall do them; but when thou hast done all, thou shalt know that thou art an **unprofitable servant** — for thou hast not fully fulfilled it anywhere. Meanwhile thou shalt hold the *Comfort firm*, that thou art *alone for Christ's Merit's sake made Righteous and Blessed*.
+
+**4.** The **Exclusiva** must also be kept, that the Doctrine of St. Paul and of the whole Scripture may remain true — that **alone Faith makes Righteous and Blessed**. For Christ alone has fulfilled the Law; and this fulfilment *alone Faith* grasps, and nothing else in Man, etc.
+
+Wherefore, when one disputes how one shall be Righteous before God, there **set all thy good works aside**, and look **alone thither** — that thou grasp Christ with his whole Obedience, and hold him firm. Therewith canst thou stand against Sin, Devil, Death, and all Temptation — for **Christ alone has strangled the Sin**, and *destroyed the Devil's works*, and obtained for thee **Life and all Blessedness that is valid before God**.
 
 — ❦ —
 
-*[Chapter XXI Faith continues. Translation continues in Rebuild-Tranche 18.]*
+## Question 16. Yes, the Adversaries say, the little word ("alone") stands not in the Scripture?
+
+**Yes, the Adversaries say, the little word ("alone") stands not in the Scripture?**
+
+**It stands therein.**
+
+- **Mark 5:36** — ***Solummodo crede*** — *"Only believe."*
+- **Gal. 2:16** — ***Non nisi ex fide Iesu Christi*** — *"We become Righteous alone through Faith on Christ Jesus."*
+- **Luke 8:50** — ***Crede solummodo***, etc.
+
+— ❦ —
+
+## Question 17. Does then the little word (***Sola***, *"alone"*) exclude the good works, so that they shall not be present in the Converted or Justified — cannot or must not [be present]; or that Faith may be for a time without good works, or can be, when he deals with God through Christ concerning the Justification; or so that the Believing may not or shall not do good works; or that the new Obedience in the Believing thereby be abolished?
+
+**Does then the little word (*Sola*, "alone") exclude the good works, so that they shall not be present in the Converted or Justified — cannot or must not [be present]; or that Faith may be for a time without good works, or can be, when he deals with God through Christ concerning the Justification; or so that the Believing may not or shall not do good works; or that the new Obedience in the Believing thereby be abolished?**
+
+**By no means.** We know (God be praised) quite well that **Love, Hope, and other Virtues are fair Gifts of God**, by God himself commanded, and by the Holy Spirit in our Hearts *awakened and kindled*. We know also well that **Faith is not without these Gifts as Fruits**. But now the question is *of which one is his Property*.
+
+In the Believing **Abraham** are many glorious fair Virtues. But here is the question: *what does Faith alone do* — not with which Virtues he in the Believing Abraham is combined, or what Virtues may dwell with him. There is it, however, certain and undoubted: that **Faith alone grasps Abraham's Promise** — for this is the *proper Office of Faith*. Love, Hope, Patience have *other materia* wherewith they deal, ***habent alios limites intra quos consistunt*** — for they *receive not the Promise*, but *carry out God's Commandments*; hear what God commands and orders, hear not what God *promises* — for that does alone Faith.
+
+Wherefore one must maintain this distinction — that **the Faith, which receives the Promise, alone makes Righteous**. Love, however, deals with God's Commandments to accomplish them.
+
+**In Sum**: **Faith brings with him a whole choir full of fair Virtues, and is never alone.** But therefore one shall not mix these things together, and ascribe to other Virtues what properly and alone belongs to Faith. **Faith is as a Mother** from whom all other Virtues are born and come. If he is not first there, thou askest in vain about the other Virtues. If also this Faith grasps not the Promise of Christ, so is there **neither Love nor other Virtue** — although the Hypocrites at times pose as though they had such Virtues.
+
+Wherefore the **Grace-Promises and the Law must be distinguished**: the Promise demands Faith, the Law works. The Grace-Promise is *firm and certain*, and comes certainly to pass — for God performs it. But the Law comes not to pass *as it should*, because we who shall do it are Men — that is, poor *frail Sinners*.
+
+Wherefore our Righteousness rests, or stands, **not in the Law or in works**. For we cannot fully keep the Law; but she stands on the **Promise in Christ**, which is firm and unmoveable. Wherefore also, when Faith grasps the same, there happens what the Promise in Christ *promises* — and it follows *unanswerably*: because alone Faith *receives the Promise*, accordingly **also alone Faith — as an Instrument or Means whereby we grasp Christ's Merit** — makes Righteous, etc.
+
+**Law and works make not Righteous**, and yet must nevertheless the Law be taught, likewise the works be taught and done, that we may know our misery, and be so much the more eager to *receive the offered Grace*.
+
+**This *Theologia* is not with us born, or by us fabricated and invented** — but the Apostle Paul, **Rom. 4**, teaches it, and calls up herein **Moses**, who writes: *"Abraham believed, and this was to him imputed unto Righteousness."*
+
+**We deny by no means** that one is bound to do good works. But hereat we take offence — that our Adversaries *brew together and mix* the Faith which alone makes Righteous, and the *works* of those who have been made Righteous through Faith. ***Benè quidem conveniunt*** (says D. Luther, on Gen. 22) ***et sunt connexa inseparabiliter fides et opera, sed sola fides est, quae apprehendit benedictionem. Ideò solam fidem iustificantem praedicamus, quia sola benedicitur; opera non habent gloriam, quòd benedicant, sed sunt fructus benedictae personae.*** — That is: *"Faith and good works agree quite well with each other, and are inseparably together. But alone Faith is that which grasps the Blessing in Christ. Wherefore we also teach that alone Faith makes Righteous — for alone to Faith is the Blessing imputed. Works have not the Honour of bringing the Blessing, but are only Fruits of such a Person as has through Faith on Christ obtained the Blessing."*
+
+From all this it is now clear that the ***exclusiva***, or the little word ("alone"), *excludes not* the good works, that they shall not be present in the Believing and Justified, or follow — for Faith without Love, Hope, and other Virtue is not.
+
+**2.** So too is this clear, that the ***exclusivae*** will not say that Faith be for a time (when he deals with God through Christ concerning Justification, or when he justifies) *without good works*, or have *no good works* — for the right Faith in the Regenerate has many Virtues by and beside him, as shortly before heard.
+
+**3.** Neither is this the sense of the ***exclusivarum***, or of the little word (*"alone"*), or of the Proposition — **Alone Faith makes Righteous** — that the Believing *may not do good works*, or that the new Obedience in the Believing be thereby abolished as unnecessary. For the Law must be preached, good works must be taught and done, etc.
+
+— ❦ —
+
+## Question 18. Whereto then do the ***exclusivae particulae*** go?
+
+**Whereto then do the *exclusivae particulae* go?**
+
+**Answer.** Thereto — that we may know that **all lies on this**: that not Faith and Works *in this Article of Justification* be mixed into one another, with harm and disadvantage of the Consciences. Wherefore here in this Article the question is not *whether the exclusivae exclude the works, that they shall not be present*, or that Faith (when he makes Righteous) *have no good works or shall have none*, or that the good works be excluded from Faith or forbidden or *not follow*.
+
+But it rests on this: **which is the proper Office and Property of the sole saving Faith**. There it is now certain that **alone Faith receives the Grace-Promise** — for this is Faith's Property alone. Love, Hope, Patience have other matters whereabout they deal — for they receive not the Promise, but carry out God's Commandments — as shortly before reported.
+
+We deny not, when we teach that alone Faith makes blessed, that one shall not do good works — for we know well that Faith and good works agree well together, and are *inseparably together*. But this is it, that we punish: that the Adversaries *mix together* the Faith which makes Righteous and the works of those who have been made Righteous — and draw the works *into the Justification before God* and *braid* them therein. This we rightly punish — that thereby Christ's Honour is robbed, the troubled Consciences' comfort taken away, and Law and Gospel mixed. Whereas the Scripture teaches that because Faith alone receives the Promise, so alone he also *makes Righteous and Blessed for Christ's sake*, whose Merit he grasps, etc.
+
+— ❦ —
+
+## Question 19. Can Faith stand for a time beside an evil purpose?
+
+**Can Faith stand for a time beside an evil purpose?**
+
+**No** — this Meaning does not hold at all, as though Justification and Renewal were separated from one another, so that *a true Faith* might for a while stand *beside an evil purpose* and consist. But herewith is only indicated the **Order** — how one comes before the other, or follows. The Faith goes before as the **Cause**; the Works follow as the **Fruits**, etc.
+
+— ❦ —
+
+## Question 20. Is it then right when the Adversaries teach that Faith makes Righteous, so far as works are present with it?
+
+**Is it then right when the Adversaries teach that Faith makes Righteous, so far as works are present with it?**
+
+**By no means.** Our Papists — after they at last observed that their horrible abomination is come too openly to light, in that they pure condemned the Saviour Christ and his Faith, and taught and almost cried to build on one's own works — draw now in the pipes, and grasp also the word ("Faith"), who say: *"It is true, one must through Faith be made Righteous, so far as works are present with it; for without and outside works Faith is nothing."*
+
+With these words they *name Faith*, as that which makes Righteous — but nevertheless give still to *works* the Righteousness, and to Faith alone quite nothing; and bend it hither: **Faith makes Righteous when works are present with it, otherwise it is nothing.**
+
+Here is *to blow warm and cold from one mouth*: when I say Faith makes Righteous, and yet is *without works nothing* — for if he alone is nothing without works, so must the works be *entirely* — when yet the same (that is, Faith) is thereby *nothing*. Such is their *secret Meaning*, and the old former abomination brought forth in new words, and *a new coat put on the old Idol*.
+
+— ❦ —
+
+## Question 21. Who preserves the Faith in the Christians' Hearts?
+
+**Who preserves the Faith in the Christians' Hearts?**
+
+**The Holy Spirit.** For Human Powers cannot do it, and this is well found in the Temptation. **1 Pet. 1:5**: *"Ye are preserved through God's Power, through Faith, unto Blessedness."* Wherefore the preservation of Faith is *not to be ascribed to good works*, as some have done.
+
+— ❦ —
+
+## Question 22. Are then all Men made blessed *through one and the same Faith*?
+
+**Are then all Men made blessed *through one and the same Faith*?**
+
+**Yes.** For Adam had the same Faith on Christ which we have. **Acts 15:11**: *"We believe through the Grace of Jesus Christ to be made blessed, in like manner as also they."* Only this is the distinction: that they believed on the **future Christ**, but we on him **who has come**.
+
+— ❦ —
+
+## Question 23. Can anyone be made blessed through *another's* Faith?
+
+**Can anyone be made blessed through another's Faith?**
+
+**No.** It lies for every one on his *own risk* how he believes, and he must for himself see that he rightly believes. **Rom. 1:17**: *"The Righteous shall live of his [own] Faith."*
+
+— ❦ —
+
+## Question 24. What Fruits does right Faith bring?
+
+**What Fruits does right Faith bring?**
+
+**First**: that we are **Children of God** — **John 1:12**: *"He hath given power to become God's Children to all who believe on his Name."*
+
+**2.** It brings **Joy and Peace**, and a *certain Comfort and Boldness* against all Temptation of Sin, of Death, of the Devil, and of the World. For whoso undoubtedly believes on Christ needs not to fear Sin and Death — **Rom. 5:1**: *"Being now made Righteous through Christ, we have Peace with God."*
+
+**3.** The Believing become **new Creatures through the Holy Spirit**. For the Holy Spirit makes of us a new Creature, which now gets *other Sense, Heart, and Thoughts* — namely, *right Knowledge of God*, and *right hearty Trust in his Grace*.
+
+**4.** Right Faith brings **good works** — for where Faith is upright, he demonstrates himself, after the saying of Christ: *"Whoso remains in me, brings much Fruit"* — **John 15:5**. Loves his Neighbour, is friendly and helpful toward him, and where he is *frail* or does too much, bears it with **Patience and Meekness**, etc.
+
+**5.** Faith **quenches and constrains the evil Lusts**. For though the Man become Righteous, he is nevertheless not free of evil Lusts — Faith has well begun to quench the Flesh, but she still stirs herself ever and rages nevertheless in all manner of Lusts, which would fain again come forth and go after their Will. Wherefore the Holy Spirit has *daily to work*, that he tame and quench her; and must *without ceasing strike therewith*, and *look upon the Flesh*, that it upset not Faith. Wherefore they *deceive themselves* who say they have Faith, mean it is enough therewith — and live thereby *after their own will*. Where Faith is upright, there he must *lay hold on the Body and hold it in check*, that it do not what lusts it. Wherefore St. Peter teaches — **1 Pet. 5:8** — that we shall be *sober*; for such is a chief Work of Faith, etc.
+
+— ❦ —
+
+## Question 25. Is anything set up thereby, if one boasts much of Faith where no Fruits follow?
+
+**Is anything set up thereby, if one boasts much of Faith where no Fruits follow?**
+
+**Nothing at all.** For the LORD Christ teaches us thus to judge: that it is not enough if one boasts much of Faith and Christ — but that one must look upon the **Fruits** — **John 15**. For where they demonstrate themselves not, or the *counter-play* demonstrates itself, there is *certainly not Christ*, but nothing but a *bare false delusion*.
+
+*"Yes,"* thou sayest, *"Faith yet makes Righteous and Blessed without works?"* Yes, that is true; but *where is he, or where does he remain?* Where does he demonstrate himself? For it must not be *so idle, useless, deaf, or dead a thing*, but a **living, fruitful Tree**, which breaks forth with Fruits — **Phil. 1:11**.
+
+— ❦ —
+
+## Question 26. Which is then the distinction and *proof* of right Faith?
+
+**Which is then the distinction and *proof* of right Faith?**
+
+**That is the distinction and Proof between the upright and the false or coloured Faith** — that where the Faith is true, there he *demonstrates himself with the Life*. The **false Faith** indeed bears the same name, word, and boast, but *nothing follows thereafter*.
+
+— ❦ —
+
+## Question 27. What harm follows where the Doctrine of Faith on Christ is not kept pure?
+
+**What harm follows where the Doctrine of Faith on Christ is not kept pure?**
+
+**Where this Article of Christ is not driven, that we alone through him are made Righteous and Blessed, and outside him hold all condemned — there is no more *warning and holding back*, yea no measure or ceasing of all Heresies and Errors, of all Sects and Divisions**. Where every man invents and *sets up* something special and peculiar — as has befallen us until now under the Pope, where no monk dreamed anything but it had to come upon the Pulpit, and a *special Divine Service* made thereof, etc.
+
+But where he is diligently driven, one can, with God's help, *well guard oneself against Errors and false doctrine*.
+
+— ❦ —
+
+## Question 28. What is then to be held of the Papists, who teach that one must *doubt* at God's Grace?
+
+**What is then to be held of the Papists, who teach that one must doubt at God's Grace?**
+
+**This Doctrine of the Papists is wholly and altogether to be rejected.** For:
+
+**First**, she strives against the Article of our Christian Faith: **"I believe the Forgiveness of Sins."** But *to believe* means not *to doubt* at the Forgiveness of Sins, but to have **the sure Confidence toward God, that he for Christ's sake forgives all Sins**.
+
+**Second**, so is the Promise of the Gospel therefore founded on the Grace and Merit of Christ, and not on our works or merit — **that we shall not doubt of the Forgiveness of our Sins, but be certain of the same**. — **Rom. 4:16**: *"Therefore must the Righteousness come by Grace, that the Promises may remain firm."*
+
+**Third**, the *Names* which are ascribed to Faith also witness — as: **Eph. 3:12** — *a joyful Confidence*; **Rom. 4:20–21** — *a most certain Knowledge or Trust*; **Heb. 11:1** — *a certain Confidence*, etc. — that the *right Faith* on Christ shall not doubt at God's Grace or at the most gracious Forgiveness of Sins, but be *certain of the same*, and firmly or undoubtedly believe.
+
+**Fourth**, the *Sacraments* are also *instituted to this End* — that they may **assure our Hearts of God's Grace, and defend against Doubt**.
+
+**Fifth**, the Holy Spirit is poured into the Believing's Hearts *therefore* — that he **comfort, strengthen, and preserve** them in sure Confidence of God's Grace and Forgiveness of Sins — **Rom. 8:15**: *"Ye have not received a servile Spirit,"* etc. — **Gal. 4:6**: *"Because ye are Children,"* etc. — **Eph. 1:13**: *"Through whom ye also, when ye believed, are sealed with the Holy Spirit of the Promise — who is the pledge of our Inheritance unto our Redemption."*
+
+**Sixth**, Doubt is *clearly forbidden in the Scripture in this matter* — **1 John 5:10**: *"Whoso believes not God, makes him a Liar."*
+
+— ❦ —
+
+## Objection.
+
+**On uncertain matters one can set no firm trust.**
+
+**Whether thou and I are in Grace is uncertain.**
+
+***Ergo***: We cannot rely certainly thereon.
+
+**The *Minor* is false.** The reason is this: For **the Redemption which is come to pass through Christ** — **Rom. 3:24** — is a **common Work**, which concerns all Men. Wherefore thou canst not *without Blasphemy of God* exclude thyself from it. **God has given his Son as well for thee and for me as for others.** Wherefore should or would we then exclude ourselves? So the saying, **Matt. 11:28** — *"Come unto me, all ye who are weary and heavy-laden"* — **includes thee**, so far as thou only feelest thy misery and weariness and comest to Christ.
+
+**The Office of Preaching calls thee** — **2 Cor. 5:19**: *"For God was in Christ, and reconciled the World with him."* There hearest thou that God **exhorts**, and Christ himself **prays** — how then should God's Grace be uncertain to thee?
+
+**So in Baptism** is thy Name **written in the Book of Life**, when thou wast baptised *in the Name of the Holy Trinity*. So art thou in the **Supper** *specially* fed and given to drink with Christ's Body and Blood — that thou shouldst be certain *for thyself* of thy Redemption; likewise *specially* absolved of Sins — that thou shouldst be *assured and certain of God's Grace toward thee*. Wherefore thou shalt not let this Comfort be *made uncertain to thee*.
+
+— ❦ —
+
+# XXII.
+
+# Of God's Eternal Election.
+
+*Because also the upright Christians many times feel therefrom heavy Temptation, indicate briefly what the Grace-Election is.*
+
+## Question 1. What is the Eternal Election?
+
+**What is the Eternal Election?**
+
+**The Eternal Election is an *Ordinance of God*, according to which he out of pure Mercy — for the sake of his Only-begotten Son — has chosen for himself a Congregation or people to whom he shall impart Eternal Life out of Grace**; to which Grace-Congregation all those belong who believe on Christ and unto the End in such Faith *persist*.
+
+- **Rom. 9:15** — *"On whom I have mercy, on him I have mercy."*
+- **Eph. 1:4** — *"He hath chosen us through Christ before the foundation of the World was laid — that we should be holy and unblameable."*
+
+— ❦ —
+
+## Question 2. Is the Election to Eternal Life *manifold*?
+
+**Is the Election to Eternal Life manifold?**
+
+**No.** It is only **one and the same** — as there is only *one Justification and one Sanctification*.
+
+— ❦ —
+
+## Question 3. Whence does she come?
+
+**Whence does she come?**
+
+**Out of God's *gracious Counsel and Will*...**
+
+— ❦ —
+
+*[Chapter XXII Eternal Election continues. Translation continues in Rebuild-Tranche 19.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
