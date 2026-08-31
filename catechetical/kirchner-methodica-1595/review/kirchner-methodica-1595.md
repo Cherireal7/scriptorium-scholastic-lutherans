@@ -1136,4 +1136,326 @@ Whence **Cyril, to Regina, lib. 1**: *"Some say that the name Christ is fitting 
 
 — ❦ —
 
-*[Locus III continues in Rebuild-Tranche 5 — Christological continuation on communicatio idiomatum + genus maiestaticum + genus apotelesmaticum + status exinanitionis/exaltationis + Christ's session at the right hand + operations of the assumed nature.]*
+## Question 14. Not by any nature is Christ *whole*?
+
+**Is Christ whole in any single nature?**
+
+**Not by one nature is Christ whole.** Whence **Augustine, In John, tractate 23**, writes: *"Not only is the Word Christ; because 'the Word was made flesh, and dwelt among us' — therefore both the Word and the flesh is Christ. Item, take Christ whole — Word, rational mind, and flesh. This whole is Christ."*
+
+The integrity therefore of the Person of Christ ***does not stand without the assumed human nature***. And those grievously hallucinate who feel the contrary.
+
+— ❦ —
+
+## Question 15. What kind of union of the two natures is there in Christ?
+
+**What kind is the union of the two natures in Christ?**
+
+**Respondeo**: **It is not ***essential***, of the same kind as the union of the Persons in the Divinity.** [*Luther: T. 8 De novissimis verbis Davidis, pp. 148, 149*] For the divine and human nature in Christ are not ***one essence***, as the three Persons in the Divinity — but each nature in Christ retains its own distinct substance, though not separated.
+
+It is, however, a ***personal union***, whereby the ***λόγος*** — remaining in himself what he is — assumed the human nature ***inconvertibly, immutably, indivisibly, inseparably, indistantly*** — which he ***not only bears or sustains, but makes so proper to himself*** that with him it becomes ***one ὑπόστασις*** or one Person; and this ***for us men and for our salvation***.
+
+— ❦ —
+
+## Question 16. Is it therefore rightly said that the divine nature in the Person of the Word is ***truly or really communicated*** to the assumed humanity?
+
+**Is the divine nature truly communicated to the assumed humanity?**
+
+**Rightly is it said.**
+
+**I.** For **Col. 2:9** it is written: ***"In Christ dwells the whole plenitude of the Divinity"*** — that is, ***in his flesh, corporeally***; which is nothing else than that the Divinity of the Word is communicated to the assumed nature in Person, or on account of the personal union.
+
+**II.** In vain would the Man Christ be called God ***only in title***, and not truly, if he had ***no communion*** with the Divinity of the Word. For nothing can truly be called ***God*** apart from a ***true communion of the Divinity***.
+
+**III.** It is clear that the union of the two natures in Christ was made ***in the most perfect degree***. Therefore it necessarily follows that also the ***highest and most perfect degree of communion*** between them existed, and that the assumed nature ***truly, through the hypostatic union, came into the communion of the divine nature, glory, and majesty***.
+
+**IV.** If there were no communion of the natures and of properties in the Person of Christ, the human race could not have been redeemed and saved.
+
+Hence orthodox antiquity writes: *"The Divinity has communicated itself to us **totally in one hypostasis of itself**"* — **Damascene, lib. 3, cap. 6**.
+
+**Basil, ***De Nativitate***: *"The very human flesh of the Lord has been made partaker of the Divinity."*
+
+**Nyssen, ***De Anima***: *"God the Word from that communion which he has to the body and the soul, is neither altered nor made partaker of their imperfection; but handing over to them the power of his own divinity, he remains the same as he was before the union."*
+
+**Athanasius, Epistle to Epictetus**: *"To the very human nature a great addition was made from the Word's communion and union to it."*
+
+Most false, therefore, is it to feel that the divine nature is communicated to Christ's humanity ***neither in reality nor in name***.
+
+— ❦ —
+
+## Question 17. But does this ***κοινωνία*** or communion of the natures introduce the Eutychian ***confusion*** of the natures?
+
+**Does this communion of natures introduce Eutychian confusion?**
+
+**By no means.** For it is one thing that one nature ***communicates to another***, and another that it ***becomes one and the same by essence, or is utterly abolished***. The flesh indeed, or the assumed human nature in Christ, is made ***partaker of the Divinity of the Word***, yet is neither changed into the Divinity itself nor is it abolished — just as ***iron becomes partaker of the nature of fire***, yet it is neither converted into the substance of fire, nor from that communion with fire is it utterly abolished.
+
+— ❦ —
+
+## Question 18. But would it not suffice, under the name of ***personal union***, to understand only a union ***according to subsistence***, without any ***communion of the Divinity*** or of the ***properties of the Divinity***?
+
+**Would it suffice to understand only subsistence-union without communion of divine properties?**
+
+**By no means.** For the human nature was assumed by the Word not for the cause of ***subsistence only***; but because the ***λόγος*** willed to accomplish the work of the redemption of the human race ***in the assumed [nature], with the assumed, and through the assumed nature***. It was therefore necessary that it should come ***not only into the unity of subsistence, but also into the communion of the divine nature***, since ***more certain than certain*** it is, that ***the Man Christ***, without this communion, could not have satisfied the infinite justice of God ***by acting and suffering***, and could not have saved the human race.
+
+— ❦ —
+
+## Question 19. Did the assumed human nature of Christ have, ***immediately from the first moment of conception***, divine majesty on account of the hypostatic union?
+
+**Did the assumed human nature of Christ have divine majesty from the first moment of conception?**
+
+**Most certainly.** For hence at **John 1:14** it is said: *"We saw his glory, glory as of the Only-begotten of the Father,"* etc. And **Nyssen**: *"The very right hand of God, [that is, the humanity] united to itself, ***εἰς τὸ ἴδιον ἀνήγαγεν ὕψος διὰ τῆς ἑνώσεως*** — into its own proper altitude he raised it, through the union."*
+
+### Objection. But **Scripture, Phil. 2:7**, plainly hands down that Christ was ***exinanited***?
+
+**Rightly. But according to the assumed human nature.**
+
+### Objection. But the ***Fathers*** also say that the ***λόγος*** exinanited himself?
+
+**Respondeo**: **It is true that Theodoret, Nazianzen, and certain other Fathers wrote that the ***λόγος*** was exinanited — because he alone, not the Father or the Holy Spirit, deigned to assume the human nature.** But yet the exinanition of which Paul writes at **Phil. 2:7** ***chiefly regards the assumed nature***.
+
+— ❦ —
+
+## Question 20. What, then, does the ***exinanition*** comprise?
+
+**What does the exinanition comprise?**
+
+**The assumption of our infirmities**, which he took upon himself ***without sin, not by necessity but by will***. **Isa. 53:4** — *"Truly he bore our infirmities."* For he was born in the utmost poverty, wept, suffered, died, and was buried. Item, that he grew in the ***gratuitous gifts, or created and finite qualities*** of his habitual grace; and that he ***concealed for a time his glory and divine majesty***, which he received in the moment of incarnation according to the assumed nature, and did not always in the assumed nature, with it and through it, manifestly exert.
+
+— ❦ —
+
+## Question 21. Why did it behove Christ thus to be exinanited?
+
+**Why did it behove Christ to be exinanited?**
+
+**That he might be able to suffer, be crucified, and die for the human race, which was to be redeemed by the death of the Son of God.** But he could not suffer and die, unless in the time of humiliation he had exinanited himself according to the flesh, and voluntarily undertaken passion and death for us. For he was, according to the flesh, ***without sin*** conceived, and therefore not obnoxious to death — unless he had willingly for us undertaken it.
+
+Next, since to the ***vivifying Word*** the flesh was united, on this account also Christ would not have been obnoxious to death — unless the divine nature ***had withdrawn its power from operation***, so that with the Word ***at rest***, according to the flesh he might be able to suffer and to die.
+
+— ❦ —
+
+## Question 22. What is understood by the ***glorification*** or ***exaltation*** of Christ?
+
+**What is meant by the exaltation of Christ?**
+
+**Respondeo**: That, the infirmities and state of exinanition being laid aside, ***he took up his glory and majesty*** — which he had according to the assumed human nature ***straightway from the first moment of the incarnation*** — with fullest power, and in the assumed nature, with it and through it, ***manifestly exerted and exercises it*** — **Phil. 2:9–11**.
+
+— ❦ —
+
+## Question 23. How manifold, then, is the glory of Christ?
+
+**How manifold is the glory of Christ?**
+
+**Respondeo**: **Twofold.**
+
+**One** of ***majesty***, which is proper to the Divinity, which Christ, according to the assumed nature, received in the very moment of incarnation — of which at **John 1:14**: *"We saw his glory."* Which, however, in the time of exinanition he did not always exert.
+
+**Another** ***habitual***, which embraces the ***created and finite gifts***. For the created habits exerted themselves through the moments of times. For he grew, as concerning gifts. And hither pertains the glory which the glorified body of Christ has in itself — **Phil. 3:21** — according to which the bodies of the blessed shall be in some way ***conformed to the glorious body of Christ***.
+
+— ❦ —
+
+## Question 24. By what similitudes did the ancient Church wish in some way to declare the mystery of the hypostatic union?
+
+**By what similitudes did the ancient Church declare the hypostatic union?**
+
+**By three:**
+
+**The first** was taken from ***light and the sun***, which **Justin Martyr** recites in *De Expositione Fidei*.
+
+**The second** was taken from ***the rational soul and the body***, which the Symbol of **Athanasius** has.
+
+**The third** was of ***fire and iron ever-ignited***, which stands in **Origen, Basil, Cyril, Damascene**, etc.
+
+Which similitudes, although they do not agree in every respect with this mystery, nevertheless elegantly declare it. Certainly they beautifully agree in these things: they show ***the union of the two natures, the communication of idioms, the preservation of properties, and the communion of actions and operations***.
+
+— ❦ —
+
+## Question 25. What difference is there between the ***hypostatic union*** and the ***presence of God in other creatures***?
+
+**What is the difference between hypostatic union and presence of God in other creatures?**
+
+**Respondeo**: **This — that the ***λόγος*** so dwells in the assumed human nature that with it it constitutes one ***ὑπόστασις***.** God is also present in all creatures, as regards sustentation and preservation. But this presence causes no hypostatic union.
+
+Thus God dwells inseparably also in the ***Angels and the Blessed***; yet not so that the Angels, the Blessed, and God are ***one ὑπόστασις*** — as the ***λόγος*** and the flesh, or the assumed human nature, now after the incarnation are ***one Person***.
+
+He dwells also in the ***regenerate*** in this life, but ***separably***. And the Saints in this life and God do not constitute ***one Person***.
+
+— ❦ —
+
+## Question 26. Does the whole plenitude of the Divinity, then, dwell in the assumed flesh ***by way of accident***?
+
+**Does the plenitude of the Divinity dwell in Christ's flesh by way of accident?**
+
+**Respondeo**: **The whole plenitude of the Divinity, with all essential attributes, dwells wholly and totally in the assumed flesh or human nature — Col. 2:9 — as in its own temple**, which after the incarnation is ***not a bare creature***, but the proper body of God the Word. And it dwells (as orthodox antiquity has spoken) ***as fire in iron*** — not by way of accident in a subject (since fire itself is not an accident either), but ***as essence in essence, through the economy of union, without any conversion or equating***.
+
+### Objection I. The finite is not capable of the infinite. Christ's human nature is finite. *Ergo* it is not capable of the whole plenitude of the Divinity.
+
+**Respondeo**: **The Major of this argument is a ***physical rule***, speaking of those things which happen according to the usual order of nature**, and is by no means to be transferred to the mystery of the incarnation. For if you press it, by the same reasoning you deny the incarnation itself — since the human nature is finite, but the Divinity of the Word is infinite.
+
+As concerns the Minor: Christ's human nature is indeed finite, but ***it pleased God that the whole plenitude of the Divinity, with all its redundance, should dwell in him*** — **Col. 2:9**. Whence **Justin Martyr** writes: *"The assumed temple, as a most pure eye, catches the splendour of the whole light of the Sun of righteousness."*
+
+### Objection II. No thing is capable of the Divinity except God himself. Christ's human nature is not God. *Ergo* it is not capable of the Divinity.
+
+**Respondeo**: **The Major of this argument needs limitation.** It is indeed true that ***no thing is per se capable of the Divinity except God himself***. But if God wills that some created thing become capable of his Divinity, no creature can hinder that he make it capable of the Divinity.
+
+As concerns the Minor: it is true that the human nature is not God — but meanwhile it cannot be denied that ***the assumed human nature, through the grace of union, was made capable of the whole plenitude of the Divinity***.
+
+— ❦ —
+
+## Of the Idioms
+
+## Question 27. What are the ***properties of the divine nature***?
+
+**What are the properties of the divine nature?**
+
+**Respondeo**: To be from eternity, to be infinite, omnipotent, immense, to be at once and everywhere naturally, or per se to be present everywhere, to know all things, etc.
+
+## Question 28. What are the ***properties of the human nature***?
+
+**What are the properties of the human nature?**
+
+**Respondeo**: To be a creature, to have flesh and blood, to be finite.
+
+## Question 29. Are the properties ***changed***?
+
+**Are the properties changed?**
+
+**Respondeo**: **Property knows no change.** Therefore rightly is it said that properties ***do not go out of their subjects***, and that the essential properties of one nature ***never become the essential properties of another nature***. For example, ***omnipotence, omniscience, omnipresence*** — which are essential properties of the Divinity — ***never become essential properties*** of the assumed human nature.
+
+— ❦ —
+
+## Of the Concrete and the Abstract
+
+## Question 30. What is the ***concrete***?
+
+**What is the concrete?**
+
+**Respondeo**: It is a name designating the Person: for example, ***God, Man, λόγος, Son of God, Son of Man, Christ***, etc.
+
+## Question 31. What is the ***abstract***?
+
+**What is the abstract?**
+
+**Respondeo**: The abstract in this doctrine is an appellation, either of the divine or the human nature, ***considered per se with its essential properties***. Thus: ***divinity, divine nature, humanity, human nature, flesh, body, blood***.
+
+## Question 32. What is an ***abstractive locution***?
+
+**What is an abstractive locution?**
+
+**Respondeo**: It is a discourse or proposition ***consisting of abstract vocables***, which indeed signify the very human nature in Christ, but at the same time indicate ***what the assumed human nature of Christ received beyond and above its essential properties, and beyond and above the habitual gifts, from the hypostatic union and the exaltation to the right hand of God***.
+
+For example: ***"The flesh of Christ is vivifying, is to be adored,"*** etc. In which propositions the assumed human nature is considered not according to what it has ***of itself*** or from its essential properties, but ***what it received from the union with the Word*** — and this is enunciated not only through a ***concrete vocable***, but also through an ***abstract vocable***. For rightly we say that ***the flesh of Christ is vivifying, adorable***, etc. — on account of the union with the Word. But of these more below in the third genus.
+
+— ❦ —
+
+## Of the Communication of Idioms
+
+## Question 33. What does ***κοινωνία*** — communication or communion — signify in this article?
+
+**What does communicatio or communio signify here?**
+
+**Respondeo**: **First**, it signifies the ***union itself already made***. And so it is used by the Fathers — **Athanasius, ad Epictetum**, **Damascene lib. 3, cap. 6**, and others.
+
+**Second**, it signifies the ***effect or consequence of the hypostatic union***. And in this signification it is taken when there is discourse of the ***communication of idioms*** usually so called; item of the ***communication of operations or offices***; and of the ***communication of majesty***.
+
+## Question 34. How, therefore, ought one to speak carefully of this highest mystery?
+
+**How ought one to speak carefully of this highest mystery?**
+
+**For the sake of easier instruction, ***the predications concerning Christ*** are most conveniently distributed into three genera:**
+
+### The First Genus
+
+**Since there are in Christ two natures distinct and inconfusedly with their essential and natural properties, and the Person of these two natures is nevertheless one and undivided — that which is proper to one nature is attributed to the whole Person which is God-Man in the concrete.** Hence the Apostle says the Son of God was made ***of the seed of David according to the flesh*** — **Rom. 1:3**. And **1 Pet. 3:18 and 4:1** — Christ suffered in the flesh.
+
+### Objection I. Does it follow hence that only the humanity suffered for us?
+
+**By no means.** For that Person suffered for us who is at once ***God and Man***. **Luke 24:26** — *"Ought not Christ to have suffered these things, and so to enter into his glory?"* — where he says **Christ ought so to have suffered** (who is God and Man in one indivisible and indissoluble Person) — not **Christ's humanity ought so to have suffered**. So at **1 Cor. 2:8** the Apostle says: *"If they had known, they would never have crucified the Lord of glory,"* — where he also does not ascribe the passion to Christ's humanity alone, but names the Person, namely, ***the Lord of glory***.
+
+### Objection II. But the Divinity cannot suffer?
+
+**This is true.** But since the Divinity and Humanity, or the divine and human nature in Christ are one and undivided Person, on account of this personal union, Scripture also attributes to the Divinity those things which happened to the assumed human nature in the time of humiliation. Although the Divinity does not suffer, that Person which is God suffers in his assumed humanity or in the flesh. For otherwise, if only the humanity had suffered for us, the passion of this Person would not have been a ***sufficient ἀντίλυτρον*** for the sins of the whole world. Whence Scripture at **Acts 20:28** says that ***God acquired the Church with his own blood***.
+
+### Objection III. Does not Christ's Divinity therefore suffer no otherwise, when Christ suffers, than as God suffers in his saints — they being subjected to torments and death?
+
+**By no means.** For although God dwells in the saints, and therefore their passion also concerns God himself — yet this happens only ***through relation***, as we speak in the schools. But it is another matter, when Scripture says: ***God suffered, God was crucified***. For the Divinity of the ***λόγος*** does not merely dwell in Christ's human nature as in other saints; but the human nature was ***united to the divine in the unity of the Person, indivisibly***. Wherefore ***here the Divinity in its own flesh suffers*** — whence also the passion of this Person is of such value and efficacy that ***the sins of the whole world are expiated through it, God's anger is appeased, and eternal redemption is acquired***. **Heb. 10**.
+
+### Objection IV. Is it therefore false and erroneous to refer the sayings that speak of the passion of Christ to Christ's human nature alone, and plainly to sever [them] from the divinity?
+
+**Most certainly.** For with the operations divided, the very Person must also be torn asunder — since all actions and passions are ***not of the natures but of the Person***. For it is the Person that acts and suffers, one thing indeed according to this nature, another according to the other nature. Whence also these are not merely words or verbal predications — when it is said: ***God suffered, the Lord of glory was crucified*** — as certain contend.
+
+## Question 35. Which propositions are ***received*** in this first genus, and which ***rejected***?
+
+**Which are received and which rejected in the first genus?**
+
+**Received are:** *"God is man"; "Man is God"; "God suffered, was crucified, died"; "The Lord of glory was crucified"; "God poured out blood,"* etc.
+
+**Rejected are:** *"The Divinity suffered, was crucified, died"; "The humanity or human nature is from eternity."*
+
+## Question 36. Can it be said that Christ suffered ***according to both natures***?
+
+**Can it be said that Christ suffered according to both natures?**
+
+**By no means.** For the divine nature is ***impassible***. Wherefore **Peter, 1 Pet. 3:18**, writes that ***Christ suffered in the flesh***.
+
+## Question 37. Recite the chief errors of ***Nestorius***.
+
+**Recite the chief errors of Nestorius.**
+
+He felt that in the assumed Man the Word ***did not personally dwell***, but as in the saints ***by grace*** — save that he had conferred more gifts on this Man than on other saints. [*Luther: T. 7, pp. 249, 250*]
+
+He defined the union by the ***mere conjunction of dignity***, without the meeting of the natures ***into one hypostasis***.
+
+He distinguished the Evangelical voices concerning Christ ***into two Persons***, attributing some to Christ-God, others to Christ-Man.
+
+He contended that ***Mary bore Man, not God***; that ***the Jews crucified not God, but Man***. For he abolished the ***communication of idioms***, denying that those things which are proper to the human nature can be attributed to the Divinity of the Word on account of the hypostatic union. Just as today the ***Sacramentarians*** deny that the idioms proper to the Divinity are ***truly communicated to the assumed nature*** on account of the personal union.
+
+He denied that the flesh of Christ is ***vivific***, etc. From these positions it necessarily follows that ***there are two Persons in Christ***. The errors of Nestorius, therefore, as a certain pestiferous plague, are most diligently to be shunned. For on account of the distinction of the natures, Christ is by no means to be divided into two Persons.
+
+### Objection I. God has no beginning from a woman. *Ergo* God is not born of Mary, and consequently Mary is not ***Deipara***.
+
+**Respondeo** to the antecedent: **God has no beginning from a woman ***as concerns the divinity***** — for according to the divinity he is from eternity — **but he has a beginning from a woman ***according to the assumed human nature***, according to which he was conceived and born of the Virgin Mary. And in this manner Mary is rightly called ***Deipara***, in that she bore God ***according to the assumed humanity***.
+
+### Objection II. That which is from eternity, and is born of the Father, cannot be temporally born of a man. But the Son is born from eternity of the Father. *Ergo* he is not born of the Virgin Mary, nor is it fitting that Mary should be called Deipara.
+
+**Respondeo**: **The Major must be distinguished.** He could not be born temporally according to that eternal generation whereby he was begotten of the Father from eternity; but he could be born temporally according to the flesh which in the fulness of time he assumed.
+
+As to the Minor: it is indeed plain that according to the divinity he was born from eternity of the Father; but this eternal generation does not hinder that temporal nativity by which, in the perfection of time, he was born a true man of the Virgin Mary. It remains therefore firm: because he assumed of the Virgin Mary a human nature which he made proper to himself by the hypostatic union, and joined by an indissoluble bond — Mary on this account is rightly called ***Deipara***.
+
+### Objection III. A human nature is not perfect unless it has the ratio of a Person. In Christ the human nature is perfect. *Ergo* it will not be without Person; and so there will be two Persons in Christ, or one Christ will be God and not Man, and another Christ Man and not God.
+
+**Respondeo**: **The Major is true according to the usual course of nature.**
+
+The Minor must be declared: although the human nature in Christ is perfect, yet it does not have the ratio of a Person, but has its subsistence in the Person of the Word, by whom it was assumed into the unity of Person. And this example is ***singular and unwonted***.
+
+## Question 38. Show also what was the error of ***Eutyches***.
+
+**What was Eutyches's error?**
+
+**At the outset it must be observed: Nestorius, by attending to the properties of the natures, fell from the unity of Person, and introduced two Christs, or two Persons.** [*Luther: T. 7, pp. 252, 255*] But Eutyches, in inspecting the Person, fell from the property of the natures. He conceded before the union two natures, but after the union or incarnation contended that now there was ***only one nature — namely, the divine***.
+
+He had chiefly these causes of his error: that nature is not without Person. Wherefore if in Christ two natures are recognised, also two Persons — with Nestorius — must be recognised. And that Scripture said the Word ***was made flesh***.
+
+To the first, response was made shortly before in the refutation of the argument the Nestorians used. He speaks in the usual manner, that human nature is not without a Person; but the Word, ***beyond the usual course of things***, assumed the human nature into the unity of its Person — so that it does not constitute its own Person, but has its subsistence in the Person of the Word.
+
+To the second: the Word indeed ***was made flesh***, but not by conversion of the divinity into humanity, nor by mutation of the humanity into divinity. But by ***assumption of flesh or human nature into the unity of Person***, so that indeed in Christ after the incarnation the two natures — divine and human — remain, ***without any conversion***, and retain their essential properties without change in eternity.
+
+## Question 39. Is the communication of idioms rightly called ***realis***?
+
+**Is the communicatio idiomatum rightly called ***real***?**
+
+**Respondeo**: **Rightly.** For ***real*** in this article signifies the same as ***true, non-fictive***; and is opposed to inane titles. It is called therefore a ***real*** communication, because it is ***not verbal, fictitious, imaginary, putative***, but true and really so having itself — ***without confusion and equating of the natures, and without division of the Person***.
+
+### Objection I. Essentially and really they differ in the mystery of the Trinity on account of the identity of nature or essence. But in the Person of Christ there is no identity of natures. *Ergo* in the Person of Christ these vocables differ in nothing; and by consequence, just as the ***physical*** communication of idioms — so also the ***real*** — is false and to be shunned, unless with set purpose one wishes to recall the error of the ***Monophysites*** into the Church.
+
+**Respondeo**: **First, in this argument is the ***fallacy of equivocation***.** For it takes ***real*** for ***physical, natural, essential***, when we oppose the vocable ***real*** only to the ***fictitious and imaginary***.
+
+Next, in the Major it is clear that the vocables ***essentially and really*** are used far differently in the article of the Trinity than in the doctrine of the communication of majesty. For the Persons of the Trinity are ***not essentially distinct among themselves***, since there is one Divinity of all. They are however ***really distinct***, since they are three distinct Persons, and not only one Person, just as they are of one essence only. But in the article of the Person of Christ the reasoning is quite different. In the Trinity there is an ***essential communication*** of all the Persons of the Divinity. In the Person of Christ, however, the communion is ***not essential***, as in the Trinity, but ***personal***. Whence it is clear that the Major of this argument does not stand.
+
+To the Minor we respond: although in the Person of Christ there is not the ***identity of natures*** as in the mystery of the Trinity (for there remain in Christ two natures, divine and human, ***without conversion and abolition***), yet there is nevertheless a vast difference between the vocables ***essential and real, or essentially and really***. For as the communion is, such is also the union, and *vice versa*. In the Trinity there is an ***essential*** communion of all Persons of the Divinity, on account of the identity of nature or essence. But in the Person of Christ, there is not such an ***essential union of natures, divine and human***, as in the Trinity, but ***personal*** — so that these two natures constitute one Person, but not one essence or nature. Wherefore, just as the things themselves are and remain distinct, so also the vocables. Whence it is manifest to anyone from our doctrine that ***no confusion of natures follows, much less the heresy of the Monophysites***.
+
+### Objection II. Of contraries the ratio is the same. The real distinction of properties and the real communication of properties are contraries. *Ergo* the ratio of both is the same. And consequently, as the real distinction of properties is nothing else than ***physical***, or (as **Damascene** speaks) ***essential*** — for the natures in Christ differ ***really, that is, essentially and physically*** — so also the real communication of majesty is nothing else than ***physical or essential***.
+
+**Respondeo**: **This argument labours under many vices,** which we shall unfold in the next tranche.
+
+— ❦ —
+
+*[Locus III continues in Rebuild-Tranche 6 — remaining Objections + Second Genus of predications (genus apotelesmaticum, of the divine-human operations) + Third Genus (genus maiestaticum, of the communication of majesty to the assumed nature: vivific flesh, adorable flesh, session at the right hand of God, ubiquity).]*
