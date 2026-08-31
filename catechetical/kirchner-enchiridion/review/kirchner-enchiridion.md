@@ -2558,9 +2558,308 @@ For what Adam and Eve lost, they have also lost to their Children; what harm the
 
 **8.** They are consequently all **guilty before God's Judgement**.
 
+**Rom. 3:19** — *"All the World is guilty before God, and has no reputation with God — dare not say they are unblameable and righteous before God, and there is here no difference."*
+
 — ❦ —
 
-*[Chapter XII continues with further Q&A on corrupted powers, original sin depth, effect on will, effect on reason, salvation-necessity. Translation continues in Rebuild-Tranche 10.]*
+## Question 7. Can then Man, as he now is, not accomplish something in outward things?
+
+**Can then Man, as he now is, not accomplish something in outward things?**
+
+**Yes indeed.** For the Free Will still has some measure of *Lordship* over Cattle, Horse, Money, Goods — **Gen. 2** — and what belongs to this temporal Life. But it is all *weak and poor work*, as the Experience with all men *superabundantly* bears witness. For we poor Men must, on account of Sin, **fear before all Creatures**, and there is none so small that it could not harm us. Now Fire, now Wind, now the Water, harms us; now other Creatures wound us, etc.
+
+— ❦ —
+
+## Question 8. Has the unregenerate Man also still so much Power that he can go into Church, hear God's Word, and at home read and consider it?
+
+**Has the unregenerate Man also still so much Power that he can go into Church, hear God's Word, and at home read and consider it?**
+
+**Yes truly. He can do it.** For thus have the *Pharisees* heard Christ's sermons, at home in *Moses and the Prophets* read, and pondered the matters. And so still today read Jews and Papists the Bible, know much thereof to speak and to write; but in the heart they *understand it not* — but it is to them a *folly* — **1 Cor. 2:14**.
+
+— ❦ —
+
+## Question 9. How then must it come to pass, that the heard or read Word be so received and believed?
+
+**How then must it come to pass, that the heard or read Word be so received and believed?**
+
+**Answer. The Holy Spirit must open Man's heart** — as of Lydia at **Acts 16:14** it stands — when he is to *mark rightly upon the Word* and to *believe the same*. Or as **Luke 24:45** stands: *The LORD Christ himself must open our Understanding, that we understand the Scripture*, and receive God's Word with a believing heart. For **out of our own natural and unregenerate Powers, we cannot do this in the least**.
+
+— ❦ —
+
+## Question 10. Can or may then the Free Will of Man in Spiritual matters do nothing?
+
+**Can or may then the Free Will of Man in Spiritual matters do nothing?**
+
+**Answer. Nothing at all — out of and from itself** — for **he is the Devil's captive** — **2 Tim. 2:26**. Wherefore Augustine turns the little word *Free Will*, ***Contra Iulianum lib. 3***, and calls it ***servum arbitrium***, **a bound Will**.
+
+— ❦ —
+
+## Question 11. For what Cause can Man's Powers now do nothing in Spiritual matters?
+
+**For what Cause can Man's Powers now do nothing in Spiritual matters?**
+
+**Of this. First**: For the Free Will after the Fall of Adam is only *an empty name*; and when it does what in matters of Religion and Faith — touching God, his Word, and Blessedness — it seems to it *right and good*, it *sins mortally*. — **Augustine**, *De Spiritu et Litera*: *"The Free Will without God's Grace is good for nothing but sinning."*
+
+**2.** For it is only *inclined to evil* — **Gen. 6**.
+
+**3.** For the *Flesh* is at the highest **against the Spirit** — **Gal. 5**. Nevertheless the Sophists temper it among themselves — that the Free Will (which is pure Flesh) shall *seek the Spirit*.
+
+**4.** For it *strives with God*, specially in the needs of Death, and *strives against the Help and Grace of the LORD Christ* — **Rom. 8**: *is an enmity against God*.
+
+**5.** For it is *dead*, and *nothing*, and *the Devil's, of Death and Sin, captive* — **Eph. 2; 2 Tim. 2**. Also, if a Free Will were in us, against or above the Devil, Death, and Sin — then Christ would not have needed to die, etc.
+
+**6.** For it is **stark blind in God's matters** — **John 1:5**: *"The darkness comprehended it not."* For although Reason can indeed judge in outward things, yet cannot she see *what Faith is* — there is she stark blind. And if all men's Wisdom did come together, they could not understand *a single letter* of Divine Wisdom — **1 Cor. 2**.
+
+**7.** For Reason and the Free Will cannot *grasp and receive* the Word of Grace. **John 6:44**: *"No man can come to me, except the Father draw him."* And again: *"Whoso hears it of my Father, and learns it, he comes to me."*
+
+— ❦ —
+
+## Question 12. What means then the Scripture therewith, that she ascribes to Man a Stony Heart?
+
+**What means then the Scripture therewith, that she ascribes to Man a Stony Heart?**
+
+**She thereby gives to understand** — that in Man's heart, after the Fall, *of natural manner*, there is *no Fitness, Capability, or Ability* for God's matters; and that he from his own and unregenerate powers can *nothing at all* work or co-work to his Conversion.
+
+For else *in outward things* — touching this Life — she stands, that Man be *witty and reasonable*. But in God's matters he is like **a Pillar of Salt**, etc.; and *exercises an enmity against God* — **Rom. 8** — and *ceases not to exercise such stiff-neckedness*, until God himself, through the ordinary Means, alters the same.
+
+— ❦ —
+
+## Question 13. Is then the Conversion of Man a pure work of Grace of God?
+
+**Is then the Conversion of Man a pure work of Grace of God?**
+
+**Yes.** This Work can *neither in whole nor in part, nor to any the least or slightest measure*, be ascribed to the human, natural, unregenerate Powers of the Will. Rather it is **wholly and altogether alone to be ascribed to the Divine Working and to the Holy Spirit**.
+
+- **Ezek. 36:26** — *"I will give you a new Heart and a new Spirit in you."*
+- **Acts 16:14** — *"The LORD opened Lydia's heart, that she gave heed to that which was spoken by Paul."*
+
+— ❦ —
+
+## Question 14. Is then not something left over in Man's Powers, that he — though weakly — can accept the Promise of Grace, and give thereto the Word "Yea"?
+
+**Is then not something left over in Man's Powers, that he — though weakly — can accept the Promise of Grace, and give thereto the Word "Yea"?**
+
+**Augustine, *De Praedestinatione, cap. 3*, confesses** that he had once been of the mind that the *assent or receiving* stood in us. But he confesses that he had *therein erred* — that he held such — and witnesses on the contrary, that it is **alone God's or the Holy Spirit's Gift and Work**, that we *assent to the Promise, receive the same, or give the Word "Yea" thereto*.
+
+And such is the *concordant consensus of the whole Holy Scripture* — in that she witnesses that **Faith** (which is a Trust or Confidence) and the **Grace in Christ** (which grasps and receives) is **God's Gift and Present** — **Phil. 1:29**: *"Unto you is given to believe."*
+
+— ❦ —
+
+## Question 15. How then is Man converted to God, and through what Means?
+
+**How then is Man converted to God, and through what Means?**
+
+**God gives the Word and Sacraments, lets the Word be preached, breaks the stony Hearts** through the Preaching of the Law — **Jer. 23** — and through the *Cross*. Through the *Gospel*, however, he *raises up again* the broken Hearts — **Rom. 1** — and kindles a *little spark of Faith* in the Heart, so that the Heart therewith begins to grasp and receive the Promises of Grace and Mercy of God set forth in Christ Jesus.
+
+Although all this goes on in great Weakness — as the Father, **Mark 9:24**, confesses and says: *"I believe, dear LORD; help my Unbelief."*
+
+When now thy Heart feels such new stirring and moving of the Holy Spirit — though it be at times *weak and small* — thou shalt yet be certain that God has *worked it in thee*. And take heed that thou continue, and *exercise and use* such Movement of thy Heart, that it may from day to day *grow stronger in thee* — as **Jer. 31:18**, the enlightened Prophet prays: *"Turn thou me, so shall I be turned; when I was turned, then I did Repentance."* This has the Prophet from God alone, and *not* from the natural and unregenerate Powers of his Heart.
+
+Now if any man *despise the Preaching*, it does him not wrong if the Holy Spirit *enlightens him not*.
+
+— ❦ —
+
+## Question 16. Has then Man not yet a *modus agendi*, or Manner of working in Divine matters, before Conversion?
+
+**Has then Man not yet a *modus agendi*, or Manner of working in Divine matters, before Conversion?**
+
+**God has indeed a *modus agendi*, a manner of converting Men, through the preached and heard Word.** But the *unconverted Man has no manner of working* in or to his Conversion, before his Heart is enlightened by God and made believing. For Man is **dead in Sins** — **Eph. 2**. How then should he have a Manner of working, to his Conversion, before he be made alive?
+
+— ❦ —
+
+## Question 17. Is then the Conversion of Man to God a ***Coactio*** or Coercion?
+
+**Is then the Conversion of Man to God a *Coactio* or Coercion?**
+
+**No indeed.** But God *alters* the *stiff-necked heart* of Man, and makes it that it *goes to him*; renews it, that out of an *unwilling* it becomes **a freewilling Heart**, and (in so far as it is new-born) *gladly believes* the Promise. — **Ps. 110:3** — *"Thy People shall offer willingly."* — **Rom. 7:22** — *"I have delight in God's Law, after the inward Man."*
+
+— ❦ —
+
+## Question 18. Can then the renewed or regenerate and converted Will co-work?
+
+**Can then the renewed or regenerate and converted Will co-work?**
+
+**Yes — that it can.** Wherefore Paul says, **Rom. 7:25**: *"I serve with the mind the Law of God,"* etc.
+
+— ❦ —
+
+## Question 19. Is then the Free Will ***facultas se applicandi ad gratiam***, that is, a Power of *ordering itself to God's Grace*?
+
+**Is then the Free Will ***facultas se applicandi ad gratiam***, that is, a Power of ordering itself to God's Grace?**
+
+**No.** *Before* the Fall he was so indeed; but *after* the Fall, such Power in Spiritual matters is *quite lost*, and the Will cannot out of its own Power *order itself thereto*, unless it be first *born anew*. For **Flesh is no use** — **John 6:63** — *"It is the Spirit that makes alive."*
+
+— ❦ —
+
+## Question 20. Are then the Converted wholly and entirely born anew, so that no Weakness remains in them?
+
+**Are then the Converted wholly and entirely born anew, so that no Weakness remains in them?**
+
+**Answer. There remains much Weakness in the Regenerate**, as Paul at **Rom. 7:23** complains, that he finds another Law in his members, which *strives against the Law of his mind*, etc.
+
+Wherefore they are *not fully renewed* in this Life; but it is only *begun*, and shall grow *from day to day* in the Converted — after which they shall also strive, that they have *not received the Grace in vain* — **2 Cor. 6:1**.
+
+— ❦ —
+
+## Question 21. What is then to be held of the speech which sets *three efficient causes* of Conversion?
+
+**What is then to be held of the speech which sets three efficient causes of Conversion?**
+
+**They will not do**, when they are used **of the unregenerate Man** — for it is *certain* that the unconverted human Will is *no efficient cause of Conversion*.
+
+But when it is said **of the regenerate and converted Man**, that the *converted and renewed Will also co-works* to the good Works — thereto Man in Christ Jesus is created — there it passes right well, and *agrees with Paul's words*, **Rom. 7:18**: *"He has the will,"* etc.
+
+— ❦ —
+
+## Question 22. Is it then right, if one ascribes to the unconverted Man ***activam capacitatem***, or an *actual capacity*?
+
+**Is it then right, if one ascribes to the unconverted Man *activam capacitatem*, or an actual capacity?**
+
+**This also is not right.** For before Man is converted to God through the Holy Spirit, he is **dead to the good** — **Eph. 2** — and the Free Will *hates God's Judgement*.
+
+Of the *converted Man*, however, it is true that he has an *actual Capacity* to do good — for this has the Holy Spirit *kindled in him*, who has made him fit — **2 Cor. 3:5**: *"That we are fit is of God."*
+
+— ❦ —
+
+## Question 23. How are then Chrysostom and Basil's Sayings — "God draws; yet he draws him who wills." Item: "Only will, so shall God come to meet thee" — to be understood?
+
+**How are then Chrysostom and Basil's Sayings — "God draws; yet he draws him who wills." Item: "Only will, so shall God come to meet thee" — to be understood?**
+
+**It is clear that the said Authors have introduced them for the confirmation of the natural Free Will in the Conversion of Man, against the Doctrine of Grace.** Wherefore also others who have used them after them have not done right therein. But if with clear plain words they were interpreted *only on those who are already converted*, and have *renewed Hearts* — then could they well be used. But in the sense in which the first Authors and also others after them used them, they are *contrary to God's Word*.
+
+— ❦ —
+
+## Question 24. How is then the ***Phrasis*** or Manner of speaking to be understood, when Luther says ***pure passivè*** — that is, that Man does *not at all* work to his Conversion, but only suffers that God works in him?
+
+**How is then the *Phrasis* or Manner of speaking to be understood, when Luther says *pure passivè* — that is, that Man does not at all work to his Conversion, but only suffers that God works in him?**
+
+**Answer.** Luther's Meaning is *not* that Man be converted *without* the Office of Preaching and the Hearing of the Word.
+
+It is also not his Meaning, that in the Conversion of Man to God *no new movement* is awakened in us by the Holy Spirit, and no Spiritual working *begun*. But he means this: that Man **out of himself, or out of his natural Powers, is able for nothing, can help nothing, or co-work** to his Conversion. And that the Conversion is — *not in part, but wholly and entirely* — **a working, a Gift, a Present, and a Work of the Holy Spirit alone**, who through his Power and Might, through the Word, in the Understanding, Will, and Heart of Man ***tanquam in subiecto patiente*** (that is, where Man out of his natural unregenerate Powers *nothing does, works, or co-works*) creates, brings about, and *out of pure Grace* sets up — for which also all pious Hearts shall render him praise and thanks.
+
+— ❦ —
+
+## Objections concerning the Free Will.
+
+### First Objection.
+
+**But it stands written — the people of Nineveh believed. Wherefore, so the Free Will is indeed able to believe, etc.**
+
+**Answer.** From this it *follows not*, that the Free Will is able for anything unto Faith. For it is one thing *to believe*, which is God's Gift — another to *believe out of one's own Powers*, which the Free Will cannot.
+
+### Another Objection.
+
+**Genesis 4:7 stands: *"Let it (the Sin) crouch before thee,"* etc. Wherefore the Free Will can something?**
+
+**Answer.** This saying is nothing more than a **Teaching or Law**, how one *shall do*. But it *follows not* therefrom, that the Free Will *can soon do* what God commands.
+
+### Another Objection.
+
+**"Turn ye to me, saith the LORD"** — this saying the Sophists also bring forth for the Free Will, as though Man could convert himself. But the Text says not *what Man is able*, but only *what he is duly bound to do*. For that he says: *"Turn ye to me"* — he indicates that they shall be converted. Whether now Man may do that of himself, the Scripture *here says not*, but sufficiently elsewhere. It is very far between *being able to do* and *being bound to do*; wherefore one must *not draw the Scripture, nor understand it, of being able to do*, when she speaks of being bound to do.
+
+### Another Objection.
+
+**Ey — the Free Will can indeed accept the offered Grace, etc. Can indeed lay the first stone, and make a beginning?**
+
+**Answer.** Before thou dost *seek God*, God must be come to thee beforehand, and *have found thee* — **Rom. 10:20**. God must lay the *first stone*, and make the beginning in thee, that thou seek and abide in him, etc. If he is *not there*, then thou beginnest nothing, but pure Sin.
+
+— ❦ —
+
+## Question 25. Whereto serves it then, that one teaches — the Free Will is able for nothing in God's matters?
+
+**Whereto serves it then, that one teaches — the Free Will is able for nothing in God's matters?**
+
+**Twofold does it serve. First**: that we may *through such Teaching be humbled*, and learn to know our *pitiable corruption* and *uttermost inability*, into which we are come through Sin, and *God's Grace rightly*.
+
+**Secondly**: that we may learn, that *Faith is a Confidence* in that which is not seen, or can be comprehended with the Reason — or is a **Gift and Present of God**; and that we ascribe Faith *not to our own unregenerate Powers* or capability — but be *thankful to God* for such great Gift of Grace.
+
+— ❦ —
+
+# XIII.
+
+# Of Sin in General.
+
+## Question 1. What is Sin?
+
+**What is Sin?**
+
+**Sin (in general to speak thereof) is a Lack, evil Inclination, evil Work or Deed** — which is *contrary to the Law of God*, whereby God is *angered*, and *temporal and eternal Punishment is deserved* — where it is not *forgiven for Christ's sake*.
+
+- That *Sin is a Lack* stands **Rom. 3:23**.
+- That *evil Inclinations, Lusts, and Desires are Sin* appears from the Ten Commandments — wherein they are earnestly *forbidden and punished*. Item, from **Rom. 7:7**, where written stands: *"The Sin I knew not except through the Law; for I knew nothing of Lust, if the Law had not said: Let it not lust thee,"* etc.
+- That *evil Works or Deeds are Sin*, in like manner teach the Ten Commandments, wherein they are punished by God; and **St. Paul, Gal. 5:19**, where he says: *"The Works of the Flesh are manifest,"* etc.
+- That *all Sins are contrary to God's Law* reports **1 John 3:4**, where he writes: *"Sin is the Unrighteousness."* Item, the Apostle at **Rom. 3:20**: *"Through the Law comes Knowledge of Sin."*
+- That *God is angry against Sin* stands clearly **Rom. 1:18**: *"God reveals his Wrath from Heaven over all godless Being and Unrighteousness of Men."*
+- That *Sin deserves temporal and eternal Punishment* stands **Deut. 27** and **Rom. 6:23**: *"The wages of Sin is Death."*
+
+— ❦ —
+
+## Question 2. Whence comes then the Sin?
+
+**Whence comes then the Sin?**
+
+**The Sin comes not from God** — he has also *not created* it. But rather he has created Man **without Sin, in Righteousness and Holiness**, has also given him free Powers to *avoid Sin*.
+
+But Man has let himself be *seduced by the Devil*, and *torn from God and his Word*. Thereby he has become sinful, and Sin and all Evil has *raised itself out of this Disobedience and Falling-away*. Hence it now comes that Human Nature is *pitiably corrupted through Sin*, and the Heart *bent to all evil* — **Gen. 3**. In the History of the Fall of the First Men, all this is to be found.
+
+— ❦ —
+
+## Question 3. Wherein is the Sin?
+
+**Wherein is the Sin?**
+
+**In Man's corrupted Nature, Body and Soul** — as it is hereafter further set forth in the Doctrine of Original Sin.
+
+— ❦ —
+
+## Question 4. What has the Sin for properties?
+
+**What has the Sin for properties?**
+
+**1.** This, that she **corrupts Man through and through** — **Ps. 14; Rom. 3:12–18**: *"They are all together good for nothing. They are all gone astray, and all together become unprofitable; there is none that doeth good, no not one. Their throat is an open grave; with their tongues they deal deceitfully; the poison of adders is under their lips. Their mouth is full of cursing and bitterness; their feet are swift to shed blood; in their ways is naught but misfortune and heart-suffering, and the way of peace they know not; there is no fear of God before their eyes,"* etc.
+
+**2.** That she is *not idle*, but ever brings forth *evil fruits* — **Gen. 6:5; 8:21**: *"The imagination of Man's Heart is evil from youth up."*
+
+**3.** That she **angers God** — **Rom. 3**.
+
+**4.** That she deserves *temporal and eternal Punishment* — **Rom. 6:23; Deut. 27**.
+
+— ❦ —
+
+## Question 5. Should God then punish Sin — which seems so slight a defect — so hard?
+
+**Should God then punish Sin — which seems so slight a defect — so hard?**
+
+**Yes indeed.** For thus he has revealed himself in his Word concerning Sin:
+
+- **Ezek. 18:20** — *"The Soul that sinneth shall die."*
+- **Rom. 6:23** — *"The wages of Sin is Death."*
+- **John 3:36** — *"Whoso believes not, over him remains the Wrath of God."*
+- **Mark 16:16** — *"Whoso believes not shall be damned."*
+
+Wherefore we shall *keep ourselves from Sins* and not be secure. For God is *a consuming Fire against the Sinners* who persist in Sins.
+
+— ❦ —
+
+## Question 6. What are the Fruits of Sin?
+
+**What are the Fruits of Sin?**
+
+**The first evil Fruit of Sin is**: that thereby our Understandings are *darkened* — **Eph. 4:18** — so that we can no more *see or know God*.
+
+**The second**: **God's Righteous Wrath**, and *fear and terror of Conscience* — **Eph. 2:3**: *"We were by Nature Children of Wrath."* — **Ps. 6:1**: *"O LORD, punish me not in thy Wrath."* — **Ps. 38; Job 6:4**: *"The arrows of the Almighty stick in me; their venom sighs upon my Spirit, and the terrors of God are directed against me."*
+
+In the **Book of Wisdom, ch. 17**: *"That one is so despairing — this his own wickedness makes, which convicts and damns him; and a terrified conscience always suspects the worst."* For **Fear comes hence** — that one *knows not how to answer, nor knows any help*. But where *little comfort* is in the Heart, there the same Despair makes *more anxious than the Plague itself*.
+
+**The third**: **Error and Delusion**, in all our Doings and Leavings, in Spiritual and Worldly matters. — **Rom. 1:21**: *"They became vain in their imaginations, and their foolish Heart was darkened."*
+
+**The fourth**: that our *Sense, Heart, and all Powers in Man* are *shamefully perverted*, and have delight only to Evil — **Rom. 8; Gen. 6, 8**.
+
+**The fifth**: *all manner of Misfortune, Punishments, Misery*...
+
+— ❦ —
+
+*[Chapter XIII continues with further Q&A on fruits of sin, death, temporal-eternal punishment, and closes into Chapter XIV Von der wircklichen Sünde. Translation continues in Rebuild-Tranche 11.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
