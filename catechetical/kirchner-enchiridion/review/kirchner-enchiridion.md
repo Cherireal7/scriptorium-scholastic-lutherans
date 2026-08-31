@@ -7494,11 +7494,191 @@ If it should also be a figurative speech, and the word ("Is") should mean as muc
 
 **The word ("Is") must in the Supper be understood for the word ("signifies") — as John 7:39: "The Holy Spirit was not yet." And Ex. 12: ***Agnus est Pasach*** — "The Lamb is the LORD's Passover." *Ergo*, ye do wrong in holding so hard upon your Understanding.**
 
-**Answer**: [reserved for next tranche.]
+**Answer**: That ("Is") shall and must in the Words of Institution mean as much as "signifies" — is the opposite side's fable, which they cannot make good. For it *follows not*: ("Is") means in this or that place as much as "signifies." *Ergo*, so it means as much in the Supper. For that is ***à particulari*** (as one says in the schools) — from which nothing follows.
+
+So far as the saying **John 7:39** concerns: he speaks not of the *Substance or Being* of the Holy Spirit — that he had not yet then been (for if that were true, the Holy Spirit would not be God, but must have first *begun* to be, when he was visibly poured out over the Apostles on Pentecost). Rather, he speaks of the **visible Outpouring of the Holy Spirit**, which should first happen at Jerusalem on Pentecost. Wherefore the word ("was") can by no means mean as much as "signifies."
+
+The other saying stands not so, **Ex. 12:11**: *"The Lamb is the LORD's Passover"* — but so: *"Ye shall eat it as those who hasten away, for it is the LORD's Pasach — that is, Passing-through."* Wherefore they press vainly upon it. Besides, the word ("Is") in the said saying cannot mean as much as "signifies" — for the LORD's Passing-through was not there *signified*, but happened at that time.
+
+Even if it were proved that in this place it means as much as "signifies" (which cannot happen), it would still not be shown that in the Words of Institution it must also mean the same. For it *concludes not*, ***ex puris particularibus***, in this matter.
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues (Arguments XVII+ closure into Ch XXVIII). Translation continues in Rebuild-Tranche 34.]*
+## XVIII. Creophagia / Capernaite Eating.
+
+**If Christ's Body should truly be dispensed in the Supper, then follows therefrom ***Creophagia***, or Flesh-eating, or the Capernaite eating, etc.**
+
+**Answer**: It follows by no means. For we teach no such gross Reception of the Flesh of Christ — as one eats Flesh that one buys at the meat-bench. Rather, this is our Doctrine: **Christ's Body is truly and present in the Supper dispensed Sacramentally and received with the Bread — but not in such Capernaite, natural, spatial, comprehensible, earthly, fleshly manner, but in a Heavenly, supernatural manner**, because Christ has promised it in the Words of Institution, which manner we in this Life cannot express.
+
+— ❦ —
+
+## XIX. Augustine on Ps. 98.
+
+**Augustine on Ps. 98 says clearly: ***Non hoc corpus, quod videtis***, etc. — "Ye shall not eat the Body ye see. I have commanded you a Sacrament; when ye understand it Spiritually, so shall it be profitable to you." *Ergo*, so is Christ's Body not dispensed with the Bread in the Supper and received.**
+
+**Answer**: Augustine himself explains in the said place that he there speaks of the **Capernaites** and Capernaite Eating of Christ's Body. Which supposed (as Augustine indicates) that the LORD would *cut off certain particles or pieces from his Body and give them to eat*. This meaning Augustine rightly rejects and says: *"Ye shall not eat the Body ye see — understand it upon such gross, comprehensible, earthly manner as ye understand it, in a fleshly, natural, comprehensible manner (as ye see the Body there stand naturally); ye shall not eat it. But in another supernatural manner,"* etc.
+
+If the opposite side would straight without distinction press upon Augustine's words, they must themselves confess that only bare Signs would be in the Supper, etc. — which they will not have appear.
+
+And what needs many words? St. Augustine in this very Psalm, pag. 1104, sets these words: ***De carne Mariae carnem accepit, et in ipsa carne hic ambulavit, et ipsam carnem nobis manducandam ad salutem dedit.*** — *"He took Flesh from the Flesh of Mary; in that Flesh he walked here; and that same Flesh he also has given us to eat unto our Blessedness."* From which it is enough to understand that Augustine has *not rejected all Reception* of the Flesh or true Body of Christ, but only the **Capernaite** — which we with Augustine in like manner also *quite reject*.
+
+— ❦ —
+
+## XX. Fathers called it a Sign / Figure / Antitype.
+
+**The Fathers have called the Supper a *Sign, Figure, and Antitype*. *Ergo*, so it was not their Meaning that with the Bread the Body of Christ be dispensed.**
+
+**Answer**: It is true, the Fathers so called it — as in **Tertullian, Augustine, Nazianzen** is to be read. But they nowhere added (as our opposite side does) that it should be *Signs, Figures, or Antitypes of the far-absent Body and Blood of Christ*. Rather, they much more held that **two things are in the Supper**, as shortly hereafter shall be further indicated. Whence clearly appears that they held it **not for bare, but for ***exhibitiva signa*** — *exhibitive Signs***.
+
+So there are also some among the ***patres*** who round out openly say — **Christ has not said "This is a Figure," but "This is my Body"** — as **Theophylact, on Matt. 26**, and **Damascene, Lib. 4 cap. 14**. Besides, it is undeniable that the Fathers at times call it ***Symbola*** — ***propter analogiam panis et vini*** — for the sake of the *signification* which can be taken from Bread and Wine. That, however, takes nothing at all from the *Substance* of the Supper.
+
+**Chrysostom, on Hebrews**, calls the whole Action of the Supper ***signum commemorativum mortis Christi*** — a Sign whereby we are reminded of Christ's Death — but abolishes not the Substance of the Supper. And **Augustine, Contra Adimantum Manichaeum**, says: ***Panem ita esse signum corporis, sicut sanguis est signum animae*** — *"The Bread is thus a Sign of the Body of Christ, as the Blood is a Sign of the Soul."* But this [Soul] is not absent from the Blood, but **present**. So also the Body of Christ in the Supper, etc.
+
+Further, we will with brief words prove that the Fathers held our Church's confession of the Supper. For:
+
+**1.** They say with us that in the Supper are **two Things**, an Earthly and a Heavenly — that is, the Bread and the Body of Christ. **Irenaeus, Lib. 4 cap. 34**; **Augustine, in Sententiis Prosperi**; **Hesychius on Leviticus, Lib. 2 cap. 8**.
+
+**2.** So they explain themselves that these two Pieces in the Supper are **truly united**, as is to be seen from this: that they compare the Doctrine of the Supper with the Doctrine of the *personal Union of both Natures in Christ* — as in **Justin Martyr, Gelasius Contra Eutychen, Chrysostom ad Cæsarium, Theodoret Dialogo 2**, and elsewhere.
+
+**3.** They write expressly that the **true Body and Blood of Christ are dispensed with Bread and Wine in the Supper**. **Augustine**: ***Hoc accipite in pane***, etc. — *"Receive that in the Bread which hung on the Cross."* **Chrysostom**: ***Hoc quod in calice est, illud est, quod ex latere Christi effluxit, et illud participamus.*** — *"That which is in the Cup is even that which flowed from Christ's Side, and this we receive."*
+
+**4.** As they also witness this — that **Christ's Body is at once in Heaven and in the Supper**. **Chrysostom, 1 Cor. Homil. 24**: ***Christus ascendit non tantùm ad hoc spectabile caelum, sed ad ipsum supremum thronum, eò enim corpus illud subvexit: Hoc ipsum corpus nobis dedit, et amplecti et manducare, quod magna charitatis est.*** — *"Christ ascended not alone to this visible Heaven, but to the very highest Throne — for thither he brought his Body. This same Body he also gives us to eat, and that is a Sign of great Love."*
+
+**Leo, in Epistola ad Anastasium**: ***Qui licet in Patris sit dextra constitutus, in eadem tamen carne, quam sumpsit ex virgine, Sacramentum propitiationis exequitur.*** — *"Though he sits at the Right Hand of the Father, yet he accomplishes the Sacrament of Reconciliation in the very Flesh which he took from the Virgin Mary."*
+
+**5.** In like manner they teach that **the Body of Christ is Sacramentally received with the Mouth**. Their sayings are above brought in.
+
+**6.** So they teach also plainly that **Christ imparts himself to us not alone with his Spirit, but also with his Flesh**. **Cyril Lib. 11 in Iohan. cap. 26; Hilary De Trinitate Lib. 8 pag. 136; Chrysostom Homilia 45 in Iohan. ad Antioch. Hom. 60, 61**.
+
+**7.** So they prove also the **Resurrection of our Flesh** from this: that our Bodies are *fed with Christ's Flesh*. **Irenaeus Lib. 5 pag. 296**.
+
+**8.** They also witness through the Doctrine of the **Reception of the Unworthy** (whereof above some of their sayings are drawn) that they held even that of the Supper which our Churches hold and teach.
+
+Because we then have these splendid witnesses on our side, why should we let ourselves be talked into something else by the opposite side?
+
+— ❦ —
+
+## XXI. "I leave the World" — "Ye shall not always have me."
+
+**Christ himself says: "I leave the World." Item: "Me shall ye not always have. I am yet a little while by you." *Ergo*, so his Body cannot be dispensed and received in the Supper.**
+
+**Answer**:
+
+**First** (with **Bucer**): with the witnessing of his going out of the World to the Father, it is certain that the LORD wished only thereby to give to understand that he departed *from the manner in which one lives in this perishable World* (which Human Reason can understand) into the **glorious and Heavenly manner of living** which properly shall be in the future Life after the joyful Resurrection. But with the same manner of the coming Life it stands so, that (as *no eye has seen and no ear has heard, so it can come into no Man's Heart*) — we cannot understand it with our Reason.
+
+Wherefore these sayings by no means force that Christ's Body and Blood cannot essentially be dispensed in the Supper. Because they *go no further* than that Christ will leave the *manner of living and dwelling with his disciples* which is *customary in this perishable World*, and now enter into another **Heavenly and to Human Reason incomprehensible and inexpressible manner of living** — in which he will not so **visibly, comprehensibly** and *in such fellowship of eating and drinking* dwell with them as he has hitherto done; but in quite another manner, of which **Matt. 28:20** stands: *"I will be with you until the End of the World."*
+
+**Second**, Christ's own words bring with themselves how he would have them understood, when he says he leaves the World. For he says at **John 16:28**: *"I have come out from the Father and am come into this World"* — but not so, that he had therefore *left the Father*, or that the Father was not in the World (for he indeed fills Heaven and Earth); but that he **emptied himself of his Majesty** and subjected himself to all *misery of this Life — yea, even to Death itself — for our sake*. Whence clear it is what he means on the other hand when he says he leaves the World and goes to the Father: namely, that after accomplishing the Work of Redemption and after laying aside the State of Humiliation, he **goes into his Glory** and has *no more to do with the manner of living that belongs to this World* — but now lives in a **Heavenly and to Reason incomprehensible manner**.
+
+So the said sayings quite cannot nor shall not be so interpreted, as though Christ, God and Man, had *so* left this World that he in *no manner at all* is more by us — and thus also his true Body and Blood in the Supper neither dispenses, nor can dispense. Rather, they are to be understood only of this: that Christ, after laying aside the State of Humiliation, is *no more by us in the outward, visible, comprehensible manner* which is common to this World — which, however, in no way hinders or abolishes the Presence of his Body and Blood in the Holy Supper.
+
+**Third**, the LORD explains himself yet more plainly — **Luke 24:44** — where he says: *"These are the words that I spake unto you, while I was yet with you."* There he witnesses that at that time the sayings (*"I am yet a little while by you; me shall ye not always have; I leave the World"*) were **fulfilled**, and that they by no means are to be understood of the *quite absence of his whole Person*, but only of *another manner of living, dwelling, and dealing with us*. For when the LORD said (*"When I was yet by you"*), he was there not *fully absent from them*; but only he was not by them as *before* — that is, *mortal, subject to Cross and Suffering, and after the manner of this present World*. And in this manner he is now also not by us; but in another **Heavenly manner**, which is of the coming Life, and which no Reason can understand or grasp.
+
+How does it then follow from this: *"Christ is now in this manner not in the World as he was in the time of his Suffering and Dying — namely, visibly, spatially, comprehensibly. *Ergo*, so is his Body and Blood not present in the Supper, and with Bread and Wine in the Supper is not dispensed"* — though he has promised it in the Words of his Testament? For though he is *not more* in the World in such outward, spatial, comprehensible manner, yet **he is with us in another Heavenly manner**, and dispenses us his Body and Blood in the Supper *present with Bread and Wine, according to his Promise* — nothing can hinder him therein.
+
+And such Explanation of the said sayings has also **Augustine, on John 14**, and **Jerome, on Matt. 26**.
+
+— ❦ —
+
+## XXII. Adoration of the Bread.
+
+**If Christ's Body were truly and present dispensed with the Bread, then must one *adore the Bread*.**
+
+**Answer**: That follows by no means.
+
+**First**, Christ says *not*: *"Adore my Body,"* but: *"Take and eat; this is my Body."*
+
+**Second**, it does not follow without more that all is to be adored where God binds himself, or where he dwells. God the LORD dwelt indeed in the **Mercy-seat**, and the Priests indeed adored *toward* the Mercy-seat — but they did not therefore *adore the Mercy-seat itself* or the *Ark of the Covenant*. So too the sanctified Bread — because of the Sacramental Unity, and because it is a Means through which Christ in the Holy Supper *dispenses to us his true Body present and lets it be received* — is by no means to be adored.
+
+**Third**, so also Christ says not: *"Take and adore the Bread with which my Body is Sacramentally united, offered, and received,"* but only: *"Take and eat"* — thereby we shall also let it stand.
+
+That the Papists **enclose the sanctified Host or Bread, adore it, and carry it about** — that they may answer for; it does not concern our Doctrine and Confession. For we plainly say that the Adoration of the sanctified Bread is a **horrible Idolatry and Blasphemy of God**.
+
+— ❦ —
+
+## Question 39. What holdest thou then of the *Consecration* or *Blessing* of the Supper, as Paul, 1 Cor. 10, calls it?
+
+**What holdest thou then of the *Consecration* or *Blessing* of the Supper?**
+
+**Our Church's Doctrine hereof is**: that *no Man's Word or Work*, but alone **the LORD Christ's Word and Ordinance** [effects] that his Body and Blood in the Supper is present dispensed and received. For Christ's words were not alone powerful in the *first Institution*, but they *endure, are valid, work, and are still powerful* today, where the Supper is held after Christ's Institution and his words are used.
+
+Whence **Chrysostom** rightly says hereof: ***Et nunc ille praesto est Christus, qui illam ornavit mensam, ipse ipsam quoque consecrat: Sacerdotis ore verba proferuntur, et DEI virtute operantur et gratia.*** — *"And now Christ is present, who prepared this Table; he also sanctifies it. Through the Servant's Mouth the words are spoken; but through God's Power and Grace they are powerful."*
+
+The very same teaches also **Irenaeus, Lib. 4 cap. 34; Lib. 5 pag. 295**.
+
+The **Papal Idolatrous Consecration** we rightly reject.
+
+— ❦ —
+
+## Question 40. What is to be held of the Papal Transubstantiation?
+
+**What is to be held of the Papal Transubstantiation?**
+
+**That is rightly to be rejected.** For:
+
+**1.** Christ has not taught it in the Words of Institution.
+
+**2.** The Apostle — **1 Cor. 10:16** — even after the Blessing calls it **Bread**.
+
+**3.** That the Doctrine of Transubstantiation was first confirmed in the year of Christ **1215** in the ***Concilium Lateranense*** by **Innocent III** of this name.
+
+**4.** That **Scotus, *Cameracensis***, and other School-Teachers roundly confess that Transubstantiation cannot be proved either from Scripture, or from the Articles of Faith, or from the Fathers' sayings.
+
+**5.** That the Greek Church has for **100 years** (up to the time of the Council of Florence) not been willing to accept the same Doctrine.
+
+**6.** That the *shape or shadow of the Bread* (as they fable) cannot be enclosed in the little Sacrament-house, carried about — much less grasped, seen, and chewed with the teeth.
+
+— ❦ —
+
+## Question 41. With what Grounds is the Pope's Doctrine of the *Sacrifice of the Mass* to be overthrown?
+
+**With what Grounds is the Pope's Doctrine of the Sacrifice of the Mass to be overthrown?**
+
+**1.** That the Words of Institution have *not one letter* which witnesses that the Supper shall be a Mass-sacrifice for the Living and Dead.
+
+**2.** That the Apostles and Apostolic Church knew *quite nothing* thereof, held the Supper also for *no sacrifice*, as is sufficiently to be seen from their writings, and the counterpart is not at all to be proved from them.
+
+**3.** That the LORD Christ himself, in the Supper, did **not offer himself to his Heavenly Father**, but gave his Body and Blood to the disciples to eat and drink with Bread and Wine.
+
+**4.** That the LORD Christ bids ***eat and drink*** in the Supper, etc., and not ***offer*** for the Living and Dead.
+
+**5.** That there is not more than **one sole Reconciliation-Offering**, whereby we all are sanctified — namely, the *Offering-up of Christ on the holy Cross* — **Heb. 10**.
+
+**6.** That to offer Christ pertains to *no Man or Angel*. For **John 17:19** he says: *"I sanctify — that is, I offer myself for them."* And **John 10:18**: *"I have Power to lay down my life,"* etc. — that is, *to offer for the Sin of the World*.
+
+**7.** That it is the Papists' fable that the Mass be a Reconciliation-Offering — whereas **Rom. 3:25** stands: **Christ alone** is set forth as ***Propitiatorium***, or *Throne of Grace, in his Blood, through Faith*.
+
+**8.** That the *Mass-priests* would daily *crucify Christ anew*, and make of their Idolatrous Mass a **peddler's shop or money-market**.
+
+— ❦ —
+
+## Question 42. Can then the Supper *not at all* be *offered for the Dead*?
+
+**Can then the Supper not at all be offered for the Dead?**
+
+**By no means.**
+
+**1.** It is instituted not for the Dead, but for the Living. Christ says not: *"Offer my Body for the Dead,"* but: *"Take, eat, this is my Body,"* etc. *"Drink, this is my Blood"* — which the Dead cannot do.
+
+**2.** That the LORD Christ commanded those who *receive the Supper* to *proclaim his Death* — which the Dead also cannot do.
+
+**3.** That the Apostles and the first Church knew nothing thereof, nor taught that the Supper shall be offered for the Dead.
+
+**4.** That the **Purgatory** — out of which the Souls shall through the Mass-sacrifices be redeemed — is a *pure fable* and can not be proved with a single saying of Scripture, but is taken from **Plato and Virgil**.
+
+— ❦ —
+
+## Answer to the chief Arguments whereby the Papists confirm their Sacrifice of the Mass.
+
+### I. Heb. 13:10.
+
+**Heb. 13 stands: "We have an Altar." *Ergo*, so must one also have a Sacrifice, that is, the Mass, etc.**
+
+**Answer**: The Epistle to the Hebrews indeed mentions the Altar; but that the Mass shall be the Sacrifice upon the said Altar — *no word* stands at the same place. Rather, she says that the Christians' Sacrifice is **the Fruit of the Lips**, or the *Confession of the Name of Christ*; likewise **doing good** and *imparting to others* — **Heb. 13:15–16**. From which appears that the word "Altar" *in no least degree* proves that the Mass be a Sacrifice which for the Living and Dead must be set forth.
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues (more Papal arguments + closure into Ch XXVIII). Translation continues in Rebuild-Tranche 35.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
