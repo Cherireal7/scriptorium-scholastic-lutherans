@@ -7072,10 +7072,151 @@ And thus **Augustine, *Tractat. 62 in Ioh.***, also explains Paul's words: ***Re
 - **Augustine, *Lib. 5 Contra Donatistas, cap. 8***: ***Sicut Iudas, cui buccella tradidit Dominus, non malum accipiendo, sed malè accipiendo, locum in se Diabolo praebuit: Sic indignè quisque sumens Dominicum Sacramentum, non efficit, ut quia ipse malus est, malum sit, aut quia non ad salutem accipit, nihil acceperit. Corpus enim Domini, et sanguis Domini, nihilominus etiam erat illis, quibus dicebat Apostolus: Qui manducat indignè, iudicium sibi manducat, et bibit.*** — *"As Judas, to whom the LORD gave the sop, did not receive anything evil, but gave place to Satan in himself by receiving evilly — so whoso takes the LORD's Sacrament unworthily makes it not (because he is evil) that the Sacrament also is evil, or (because he receives it not unto Blessedness) that he has therefore received nothing. For it was the LORD's Body and the LORD's Blood *nonetheless* also to those to whom the Apostle said: 'He who eats and drinks unworthily eats and drinks Judgement to himself.'"*
 - **Contra Fulgentium Donatistam, Tom. 7, pag. 645**: ***Sicut qui manducat et bibit sanguinem Domini indignè, iudicium sibi manducat et bibit: Sic et qui accipit indignè Baptisma, iudicium accipit non salutem. Nam ut Iudas proditor bonum corpus, et Simon Magus bonum Baptisma Christi percepit, sed quia bono non benè usi sunt, mali malè utendo deleti sunt.*** — *"As he who eats and drinks the Blood of the LORD unworthily eats and drinks Judgement to himself, so also whoso receives Baptism unworthily receives Judgement, not Blessedness. For as *Judas the betrayer received the good Body of the LORD*, and *Simon Magus received the good Baptism of Christ* — because they used not the good well, they, being evil, through evil use perished."*
 - **Cyprian, *Sermone de lapsis***: ***Quòd non statim Domini corpus inquinatis manibus accipiat, aut ore polluto sanguinem Domini bibat, sacerdotibus sacrilegus irascitur.*** — *"The Church-robber becomes wrathful with the Priest because he cannot at once receive the LORD's Body with his unclean Hands, or drink the Blood of the LORD with his unclean Mouth."*
+- **Chrysostom, Homil. 61 ad Antiochenos**: ***Corpus Domini impura mente suscipientes eandem subire vindictam cum his, qui clavis ipsum disciderunt.*** — *"Those who receive the Body of the LORD with unclean Hearts are punished in the same manner as those who tore him with nails."*
+- **Theodoret on 1 Cor. 11**: ***Non solùm undecim Apostolis, sed et Iudae proditori pretiosum corpus et sanguinem impertivit.*** — *"He imparted his precious Body and Blood not alone to the eleven Apostles, but also to the betrayer Judas."*
+- **Theophylact on 1 Cor. 11**: ***Non secus qui corpus et sanguinem Christi indignè sumpserit, sceleri erit obstrictus: quam si sanguinem ipsum Domini fuderit.*** — *"Whoso takes the Body and Blood of the LORD unworthily shall be no less guilty of misdeed than if he himself had shed the Blood of Christ."*
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues (patristic testimonies + close). Translation continues in Rebuild-Tranche 31.]*
+## Objections concerning the Reception of the Unworthy.
+
+### First Objection.
+
+**Where the Promise is, there is Faith. The Evil have no Faith. Therefore they have also no Promise that they shall receive Christ's Body.**
+
+**Answer**: The first proposition holds not. For it follows not that Faith is *at once there* where the Promise is. So says **Augustine, *Contra Donatistas***: ***Non interest***, etc. — *"It lies not on this, when one asks of the Perfection of the Sacrament, what one believes, or what sort of Faith he has who receives the Sacrament. It lies indeed thereon so far as concerns Blessedness or right Use — but so far as the Question of the Sacrament itself is concerned, it lies not thereon. For it can well happen that one has the whole Sacrament and yet is of a perverted Faith."* Wherefore, though one believes not rightly, yet takes it *nothing from the Substance of the Sacrament*, that he should not receive the *whole Sacrament according to Being*.
+
+### Second Objection.
+
+**Only those eat Christ's Body for whom he was crucified. For the Godless he is not crucified. *Ergo*, etc.**
+
+**The second proposition is throughout false** — that Christ shall not have been crucified for the Godless. For **he is the Lamb of God that beareth the Sin of the whole World** — **John 1:29**. So stands **1 Tim. 2:6**: *"He gave himself as Payment for all."* **2 Cor. 5:15**: *"One died for all."* **Isa. 53:6**: *"God laid all our Sins on him."* **1 John 2:2**: *"Not only for our Sins, but also for the Sins of the whole World."* That, however, not all Men *receive* Christ's Death and enjoy his Dying and Resurrection — from that it *follows not* that he is therefore *crucified only for the Believing*, but is the *fault of the Unbelief* in the same. Because this is so, the whole Argument fails at all.
+
+### Third Objection.
+
+**The Unworthy have not Faith. *Ergo*, so they also receive not the Body of Christ.**
+
+**Answer**: This Objection distinguishes not between the **Substance** and the *right Use* of the Supper. Because the Unworthy have no Faith, they indeed receive not the Body of Christ *unto Blessedness*; but that they on that account — so far as the Substance of the Supper concerns — should *not at all receive* [it], that is a *pure Human Fable*, directly contrary to the Words of the Institution — which speak of the Substance *without distinction of Persons* who go thereto. Wherefore this Argument holds well of the right Use, but not of the Substance of the Supper — forasmuch as the same is *not altered on account of Unbelief*.
+
+### Fourth Objection.
+
+**The Life-giving Spirit of Christ cannot be separated from his Flesh. The Unworthy receive not the Spirit of Christ. *Ergo*, so they receive also not his Body.**
+
+**Answer**: Here needs no *dividing* of the Spirit and Flesh of Christ. For Christ according to his Flesh has not alone the Might *to make alive*, but also the Might *to hold Judgement* — **John 5:27**. Accordingly, as those are who *receive his Body*, so also does he demonstrate himself toward them. If they are Believing, then his Flesh makes them *further Believing* and strengthens them in Faith. If, however, they are without Faith, then he *judges* the same. And thus **Christ's Flesh has its different Workings** according to the Persons who go to the LORD's Table.
+
+### Fifth Objection.
+
+**Ye must either say that Christ's Body is enjoyed with the Senses, with Reason, or with Faith. Now it is clear that Senses and Reason reach not to Christ's Body. Wherefore he must be enjoyed with Faith. But because the Evil have no Faith, they can also not enjoy the LORD's Body.**
+
+**Answer**: This whole Argument *plays with the word "enjoy."* For there are **two kinds of Reception of Christ's Body**: the one Spiritual, the other Sacramental. So far as concerns the **Spiritual Reception**, it is true that there is *no other means* whereby the Body of Christ can be enjoyed than **Faith**. But so far as concerns the **Sacramental Reception**, it has another occasion. For Christ says not: *"Whoso goes to the Supper without Faith shall eat only pure Bread — my Body, however, shall he not receive."* Rather, where he treats of the **Substance** of the Supper, he says **without any condition**: *"Take, eat, this is my Body, which is given for you."*
+
+If now our opposite side understands the said Argument of the **Sacramental Reception**, it commits ***fallaciam ab insufficiente enumeratione partium*** — for the same Reception happens *neither with the Senses nor with Reason, nor with Faith*, but **with the Mouth** — whether the Man who goes thereto believes or not.
+
+Accordingly they *do wrong* that they will look through their fingers upon Christ's words *"Take, eat, this is my Body,"* etc. (where he speaks of the **Sacramental Reception** which happens with the Mouth, and *not of the Spiritual* which happens through Faith), and press only on the Spiritual Reception — whereas *both Receptions*, on account of the Words of the Institution, must be taught and kept in the Church of God.
+
+### Sixth Objection.
+
+**Christ is Life and Resurrection itself — John 11. Since now the Evil received the Body of Christ just as well as the Believing, then they should also receive the Life just as well as the Believing — which happens not. *Ergo*, so they receive only the sanctified Signs of Bread and Wine.**
+
+**Answer**: Christ has not only the Life, but also the **Judgement** — **John 5**. It follows accordingly not that, because the Evil receive not the Life, that they on that account should not *Sacramentally* receive Christ's Body with the sanctified Bread. Forasmuch as (as before mentioned) **Christ is received not only unto Life, but also unto Judgement**, and has not alone the Might to *make alive* but also to *judge*. Wherefore, though they receive the Body of Christ not — as the Believing — *unto Life*, yet they receive him **unto Judgement**. The opposite side lacks only in this: that they in this matter will not distinguish between the *Substance* of the Supper and the *right profitable Use* of the same — which yet Augustine and the whole old right-believing Church, as above heard, have done.
+
+### Seventh Objection.
+
+**Christ's Body — they say — can not be a *materia of damnation* to the Unbelieving. Wherefore also the Unbelieving cannot receive the same.**
+
+**Answer**: In and of itself, Christ's Body is not a materia of damnation in the Unbelieving; but rather on account of *their Unbelief*.
+
+Hither pertains what **Augustine, *Lib. 1 Contra Cresconium, cap. 25***, writes: ***Nonne Apostolus docet, etiam corpus Christi fieri perniciosum malè utentibus. Ait enim: Quicunque indignè edit, iudicium sibi manducat.*** — *"Does not the Apostle teach that also the Body of Christ becomes hurtful to those who use it wrongly? For he says: Whoso eats unworthily eats Judgement to himself."*
+
+**Contra literas Petiliani, Lib. 2 cap. 40**: ***Ex una quippe re sancta, Iudas sumebat sibi iudicium, Petrus salutem.*** — *"From one and the same holy Thing, Judas took to himself Judgement, and Peter Blessedness."*
+
+**De adulterinis coniugiis, Lib. 1 cap. 27**: ***Traditori suo dedit, quod in sua ille perniciem sine culpa dantis, cum dignis indignus accepit.*** — *"He gave to his betrayer that which the Unworthy, together with the Worthy, received to his own harm, without fault of the Giver."*
+
+**Chrysostom, 1 Cor. 11 Homil. 28**: ***Quid dicis? dic quaeso, tantorum bonorum causa, et quae vitam exhibet, mensa sit iudicium? Minimè propter eius naturam, sed propter accedentis voluntatem.*** — *"What sayest thou? Is it true that the Table which imparts Life and such great Goods becomes Judgement? That happens not on account of her Nature, but on account of him who goes thereto unworthy."*
+
+From all which sufficiently appears that Christ's Body is indeed *in and of itself hurtful to no one*, but that he becomes hurtful to those who *without Faith unworthily* receive him.
+
+### Eighth Objection.
+
+**The Spiritual Gifts are not given to the Unworthy. Christ's Body is a Spiritual Gift. *Ergo*, so he is not given to the Unworthy.**
+
+**Answer**: This whole Argument holds of the **Spiritual Reception** of Christ's Body, but of the **Sacramental Reception** it is not right. For the Unworthiness of the Unworthy does not alter the Substance or Being of the Supper — though they use the same *unto their Damnation*. Just as also the dear Sun does not change on account of those who *misuse her light*.
+
+### Ninth Objection.
+
+**Those who receive only the *Sacrament* and not the ***res*** or that which is the Sacrament's own, receive not the Body of Christ (for the *res of the Sacrament* is the Body of Christ). The Evil, however (as Augustine teaches), receive the Sacrament, but not the ***res Sacramenti***. *Ergo*, so they receive not Christ's Body.**
+
+**Answer**: There is an ***æquivocatio*** in the words "Sacrament" and "***res Sacramenti***." Our opposite side understands by the word "Sacrament" only the sanctified Signs of Bread and Wine; but by "res Sacramenti" they mean the *Power* of the Body of Christ. We say No to both.
+
+**First**, that "Sacrament" does not mean only the sanctified Signs is clear from this: that to the *whole Sacrament* two things belong — the Bread and the Body of Christ, the Wine and the Blood of Christ — as **Irenaeus** and **Augustine** expressly mention, and the Words of Institution themselves plainly give.
+
+**Second**, that ***res Sacramenti*** — where Christ says: *"Eat, this is my Body"* — does not mean as much as *"Eat, this is the Power of my Body"* is also undoubted. Yea, it is so clear, that even **Beza** — in **Epistola 5 ad Alamannum** — must himself confess it.
+
+As concerns **Augustine**, it is before eyes that he uses this word ***res Sacramenti*** in **twofold** manner:
+
+**First**, for the *Body of Christ himself*. For thus he speaks — **Contra literas Petiliani, Lib. 2 cap. 40**: ***Ex una quippe re sancta, Iudas sumebat sibi iudicium, Petrus salutem.*** — *"From the one holy Thing, Judas took to himself Judgement, and Peter Blessedness."* Every one sees that the *holy Thing* here for Augustine means not the *Fruit or effectual working, or the Merit of the Body of Christ*, but the **Body of Christ himself**. For no man can receive Christ's Merit *unto Judgement*, but alone unto Blessedness.
+
+**Second**, he uses this Word also when he speaks of the *Power or blessed-making Working of the Body of Christ*. As **Tractat. 26 in Ioh.**, where he says: ***Rem Sacramenti nulli hominum in exitium cedere posse, sed omnibus ad vitam.*** — *"The Thing or Power of the Sacrament cannot be hurtful to any Man, but must serve every man who receives her unto Life."*
+
+Wherefore this Argument concludes nothing.
+
+### Tenth Objection.
+
+**Augustine, Tract. in Ioh., says: *Iudas accepit panem Domini contra Dominum, Apostoli autem panem Dominum.* — Judas received the Bread of the LORD *against* the LORD; the Apostles, however, received the Bread the LORD. *Ergo*, so Judas has not received the Body of the LORD.**
+
+**Answer**: To rightly understand Augustine's saying, one must give heed *what he means* by "the Bread of the LORD" and "the Bread the LORD." It is certain that Augustine in the cited saying speaks of **two kinds of Reception of the Supper** — namely, the **Sacramental**, which happens *only in this Supper*; and the **Spiritual**, which happens (and can happen) also *outside* this Supper by the Believing.
+
+The **Sacramental Reception** he understands when he names *"the Bread of the LORD."* Whence he also — **Lib. 7 de Bapt. Contra Donatistas** — says: ***Dominus vocat panem corpus suum.*** — *"The LORD calls the Bread his Body."* Whence also **Irenaeus, Lib. 4 cap. 44**, says: ***Panis Domini, quo gratiae actae sunt, corpus est Domini.*** — *"The Bread of the LORD, over which thanks are given, is the Body of the LORD."*
+
+Item, **Ambrose, Lib. 4 de Sacrament. cap. 4**: *"The Bread is Christ's, and the LORD's Body."* And **Jerome, ad Hedibiam**: ***Panis, quem fregit Dominus, deditque discipulis suis, est corpus Domini et salvatoris.*** — *"The Bread that the LORD broke and gave to his disciples is the Body of the LORD and Saviour."*
+
+But on the contrary, he understands the **Spiritual Reception** when he says *"the Bread, the LORD"* — ***Panis Dominus***. This "Bread, the LORD" — or the Power and Working of the Body of Christ — Judas did not receive, because he went thereto without Faith. And of this Bread also **John 6** speaks — which only the Believing enjoy.
+
+### Eleventh Objection.
+
+**The Apostle says not that Christ's Body is eaten unworthily, but "the Bread": *whoso eats of this Bread*. *Ergo*, so the Unworthy enjoy not the Body of Christ.**
+
+**Answer**: He speaks, however, of the *Bread of which he has beforehand said* that it is the **Body of Christ**, given for us into Death — and of which — **1 Cor. 10:16** — he has written: *"The Bread which we break, is it not the Fellowship or Distribution of the Body of Christ?"* He also explains himself when he shortly after says: *"For he distinguishes not the Body of the LORD."* Wherefore the said words do not abolish the Reception of the Unworthy, but much more *confirm it*.
+
+### Twelfth Objection.
+
+**Just as it cannot be that one become partaker of the rays of the Sun who shuts the light of the Sun from himself — so is it impossible that the Unbelieving, who enjoy not the Power of Christ's Body, should nevertheless be partakers of the Body.**
+
+**Answer**: Similitudes conclude nothing in this matter. As one also in this business must not judge by his similitudes, but alone according to the Words of Scripture. Besides, that the LORD Christ works freely: he well gives the Unworthy his Body Sacramentally, but gives them not the Power, or makes them not blessed, but *judges them on account of their Unbelief*. And that shall not surprise us: that Christ makes not alive with his Body at all times. **A food, be it as good as it will (says Chrysostom, Homil. 61 ad Antioch.), when it is enjoyed by one who has an unclean stomach, it spoils all and becomes a cause of sickness.** So also the LORD's Supper. For Christ is ordained by his Father to *Judge and Saviour* — which office he accomplishes wherever he is, and works in the Penitent *Blessedness*, in the Godless *Judgement*.
+
+### Thirteenth Objection.
+
+**Yes, says the opposite side — there is a distinction between the *offering* of Christ's Body and the *reception* of the same. He is offered to all, but the Unbelieving thrust him from themselves through Unbelief; and in this manner they become guilty of the Body of the LORD. Wherefore the Unbelieving do not receive him.**
+
+**Answer**: **Paul, 1 Cor. 11:29**, gives this decision thereupon — that he says: *"Whoso eats and drinks unworthily,"* — he says *not*: *"whoso thrusts him from himself becomes guilty of the Body of the LORD."* Thereafter, so speaks **Augustine, Epist. 162**: ***Tolerat ipse Dominus Iudam, diabolum, furem et venditorem suum, et sinit accipere inter innocentes discipulos, quod norunt fideles pretium nostrum.*** — *"The LORD tolerates Judas his Devil, thief, and betrayer, and lets him among his innocent disciples receive that of which the Believing know that it is given for our Redemption."*
+
+From which is clearly to be understood that Judas became guilty of the Body of the LORD not through *thrusting-away*, but through **unworthy eating**. And **Contra Fulgentium** he says again: ***Iudas proditor bonum corpus percepit.*** — *"Judas the betrayer received the good Body of the LORD."* Item, **Chrysostom, Homil. 61 ad Antioch.**: ***Impura mente Domini corpus suscipiunt.*** — *"With unclean Heart they receive the Body of the LORD."* Accordingly the opposite side's distinction cannot stand.
+
+### Fourteenth Objection.
+
+**When the Institution of Christ is not kept, then it is no Sacrament. *Ergo*, so the Hypocrites and Unworthy cannot receive the Body of Christ because they are without Faith.**
+
+**Answer**: The said rule — *when Christ's Institution is not kept as he instituted it, so is it no Sacrament* — is not meant of the Reception of the Unworthy. Rather, it is set against the **Papists**, who fabled: when the blessed Bread is *shut up in the Sacrament-house* and *publicly carried about in Procession, in the Monstrance*, etc. — then it is a Sacrament, though in the Words of Institution nothing hereof stands. But our opposite side draws it *falsely* upon the *use of Faith*, and will force therefrom that, because the Unworthy have no right Faith, they receive nothing but *bare Signs* — which is wrong.
+
+— ❦ —
+
+## Question 38. **Answer to the chief Arguments** whereby the opposite side would prove that Christ's true Body and Blood are *not at all* dispensed with the sacred Signs of Bread and Wine in the Supper.
+
+### I. From the Property of Human Body.
+
+**It is impossible (they say) that Christ should keep his true Body, with the same's essential Properties, and yet dispense the same truly with the sanctified Bread. For he assumed a true Human Body like ours, which cannot at the same time be present in more than one Place. *Ergo*, etc.**
+
+**Answer**: We gladly grant that Christ **according to the Flesh** is like his brothers — *sin, however, excepted*. But that on that account he should not be able to accomplish more with his Body than we with ours, is the *opposite side's fable*.
+
+Christ's Body is **personally and indivisibly united with the Godhead of the Son**. Through the Body of the Flesh of Christ — **Col. 1:22** — is the Human Race *reconciled with God*. Through the Blood of Christ we have Forgiveness of Sins — **Eph. 1:7**. The Blood of Christ cleanses us from all Sins — **1 John 1:7**. The Flesh of Christ is *life-giving* — **John 6**, and *to be adored* — **John 9; Phil. 2**. According to the Flesh, or according to the assumed Human Nature, he has received **all Power and Authority in Heaven and on Earth**; is according to the same *set at the Right Hand of the Power of God*, which fills all, and can and does all he wills. These **Prerogatives** has the Body of Christ *above all other men's bodies*.
+
+Wherefore should he then not with his Body truly accomplish, do — and be able to do — what he wills? Accordingly, when he in the Words of Institution has promised to dispense his Body present with the Bread, there is no doubt that he can and is able also, regardless that otherwise a natural Body cannot be at the same time in more than one place. It also does not do without more to argue from other men's bodies, and thence force out that Christ's Body cannot do more than the same.
+
+So is with him also no Word impossible. Because he then has promised to dispense his Body in the Supper with the Bread, no man shall draw it forth as impossible — unless he would give Christ's words the lie.
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues with further Objection-responses (Ascension, Right Hand, Reason). Translation continues in Rebuild-Tranche 32.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
