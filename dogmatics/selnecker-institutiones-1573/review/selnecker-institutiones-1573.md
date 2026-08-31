@@ -149,6 +149,117 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+# Table of Contents
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+**Front Matter**
+
+- Translator's Note
+- Nikolaus Selnecker — Biographical Sketch
+- The Title Page as Printed (1579 imprint)
+- Dedication to the Consuls and Senators of the Republic of Leipzig
+
+**Praemonitio de Nonnullis Controversis Articulis** — *Explanation and Admonition concerning Certain Controverted Articles*
+
+- §1. On Original Sin — Whether it is Substance or Accident
+- §2. On the Term "Accident" and the Mature Post-*Formula* Formulation
+- §3. On Free Will and the Beginning of Conversion
+- §4. On Essential Righteousness
+- §5. On Good Works
+- §6. On the Definition of the Gospel and On the Use of the Law
+- §7. On the Lord's Supper and the Person of Christ
+- §8. On the Descent of Christ to Hell
+- §9. On Adiaphora
+- §10. On Predestination
+
+**Catalogus Librorum Didacticorum** — *A Catalogue of Selnecker's Didactic Books to 1579*
+
+**Locus I. De Verbo Dei — On the Word of God**
+
+- Chapter 1. On the Authority of the Divine Word (Efficient, Material, Formal, Final Causes + Three Practical Applications)
+- Chapter 2. On the Seven Causes Which Ought to Impel Us to the Study of the Divine Word
+- Chapter 3. On the Scope of the Whole Scripture
+- Chapter 4. On the Method of Learning the Doctrine of the Church (Nine Rules of Jacob's Ladder + Four Immoveable Principles)
+- Chapter 5. On the Method to be Observed in the Explication of the Heavenly Doctrine (Four Methods)
+- Chapter 6. On the Manifestation of God — De Patefactione Dei
+
+**Locus II. De Deo — On God**
+
+- Chapter 1. That There is a God — *Quod sit Deus*
+- Chapter 2. Whence it is Certainly Established that there is a God
+- Chapter 3. The Definition of God — *De Definitione Dei*
+- Chapter 4. On the Distinction of the Persons — *De Distinctione Personarum*
+- Chapter 5. On God the Father — *De Deo Patre*
+- Chapter 6. On God the Son — *De Deo Filio* (Name Iesus + Munus triplex + Eight Arguments de Divinitate + De Unione + Communicatio Idiomatum + Two States + Eight Saving Benefits)
+- Chapter 7. On God the Holy Spirit — *De Spiritu Sancto*
+
+**Locus III. De Creatione — On Creation**
+
+**Locus IV. De Angelis — On the Angels**
+
+- On the Good Angels — Six Offices + Guardian-Angel Histories
+- On the Evil Angels — De Angelis Malis — Fall + Devil's Attacks + Sylvester II Legend
+
+**Locus V. De Hominibus — On Man**
+
+- The Fourfold Consideration of the Image of God: Substance + Gifts + Eminence + Immortality
+- The Four States of Man + Original Righteousness Debate
+
+**Locus VI. De Peccato — On Sin**
+
+- §1. What is Sin?
+- §2. Is Sin a Thing Created and Ordained by God?
+- §3. What are the Causes of Sin? (Five Objections with full responses)
+- §4. How many kinds of sin are there? (Original + Actual)
+- §5. Effects and Punishments of Sin (Nine Effects + Decalogue Catalogue)
+- §6. The Fomes Peccati Debate against Trent Session V
+- §7. Actual Sin + Sin against the Holy Spirit
+- §8. The Fivefold Use of the Doctrine of Sin
+
+**Locus VII. De Lege Dei — On the Law of God**
+
+- §1. Two Kinds of Men Considering the Law
+- §2. Luke 18 — The Pharisee in the Temple
+- §3. What is the Law of God? (Five-part Definition)
+- §4. Whether Anyone Can Satisfy the Law? (Five Demonstrations)
+- §5. In What Respect the Law is Abrogated
+- §6. Of the Triple Use of the Law
+- §7. Distinction between Pharisaic and Christian Righteousness
+
+**Locus VIII. De Calamitatibus et Cruce — On Calamities and the Cross**
+
+- §1. What the term *Cross* signifies among Christians
+- §2. What the Cross of Christians is
+- §3. How Manifold is the Cross of the Pious (Kolasis + Peirasmos + Martyrion)
+- §4. Whence the Cross of the Pious Arises (Fourfold Origo)
+- §5. The Fourfold Distinction between Piorum Cross and Impiorum Calamities
+- §6. The Six Causes Why God Subjects His Own to the Cross
+- §7. The Chief Consolation — Four Philosophical vs Four Evangelical Heads
+
+**Locus IX. De Consolatione — On Consolation**
+
+- Divine-Mercy Promises
+- Biblical Exempla of God's Forgiveness
+- Gracious Promises through the Prophets
+- Faith-Required Passages
+
+**Back Matter**
+
+- FINIS PRIMAE PARTIS
+- Elenchus Locorum Sacrae Scripturae (Alphabetical Scripture Index)
+- Index Rerum et Nominum (Alphabetical Subject Index)
+- Colophon (Jena · Jakob Roßner · 1579)
+- **Endnotes** (approximately 240 endnotes with Wittenberg-Reformation editorial apparatus: WA/LW · CR/MSA · BSLK/Kolb-Wengert · PL/PG/CCSL/SC · Formula of Concord cross-references)
+- Glossary of Terms Reference
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Nikolaus Selnecker — Biographical Sketch
 
 *(For the reader coming to Selnecker for the first time.)*
