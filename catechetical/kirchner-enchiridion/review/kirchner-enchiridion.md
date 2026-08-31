@@ -2240,9 +2240,327 @@ Wherefore, when it goes evil in the World, or also in our Houses, one shall not 
 
 **First**: they are **mighty Spirits** — **1 Pet. 5:8**: *"like roaring Lions."*
 
+**2.** They are **thousand-artisans**, which they especially prove *in Spiritual matters and Heresies* — where they can wondrously twist themselves and *fight against every man's abiding by the Truth*.
+
+**3.** They are **liars and murderers** — in all Regiments, in Church, Schools, Worldly and Household Estate — **John 8:44**: *"He is a liar and a father of the same,"* etc.
+
+**4.** **Envious Spirits**, who begrudge no man any good — even in bodily things, let alone in Spiritual. Wherefore they are also in our German tongue rightly called ***Schadenfroh*** ("harm-glad") — for they rejoice most of all in Men's misfortune.
+
+**5.** **Sorrowful Spirits**, who cannot endure that a heart should be *glad*, specially in God.
+
+**6.** They are **noisy spirits (Poltergeister)** — as under the Papacy has been to be seen.
+
+**7.** They have **delight and joy in doing evil**, bodily and Spiritual — that no man might become blessed, or any good come to pass.
+
+**8.** They can **bewitch men**, that they receive the *lies for truth* — as is to be seen in the *Enthusiasts (Schwärmer)*. **Gal. 3:1**: *"Who hath bewitched you?"*
+
+**9.** They are **specially enemies of all the Learned** — for they have ever the concern lest a Learned one become a Preacher and *do harm to their Kingdom*.
+
+**10.** They are **proud Spirits** — as at **Matt. 4** is to be seen, where he desires to be adored.
+
+**11.** They can **transform themselves into Angels of Light**, and even deceive the pious hearts — **2 Cor. 11:14**.
+
+**12.** Their kind is: **to make Sin (when it is committed) great**, and *to drive men into despair* — wherefore every man shall diligently keep himself from Sin.
+
 — ❦ —
 
-*[Chapter X on Evil Angels continues. Translation continues in Rebuild-Tranche 9.]*
+## Question 4. Which are then the chief Works of the evil Angels?
+
+**Which are then the chief Works of the evil Angels?**
+
+**1.** *Lie and murder* — **John 8**. In sum: they *tear men away from God's Word*.
+
+**2.** They *set themselves against God's Will* where they can.
+
+**3.** They *hinder all that we pray* where possible to them.
+
+**4.** They *make good works into Sin*, specially in Temptation and Death-agony.
+
+**5.** They *possess* the poor men — at times bodily, at times spiritually.
+
+**6.** They *plague men* with bad conscience and heavy Temptations, specially before the Last Day.
+
+**7.** They *assault most of all the Faith* of the Christians, and *not their life*.
+
+**8.** They *terrify the timid*, and *strengthen the secure and reckless hearts*.
+
+**9.** They *let the Sinners be secure a while*, but at last bring them into despair.
+
+**10.** Their sharpest diligence is *to lead us off from the Way of Life*.
+
+**11.** They *assail us through our own Flesh and Blood*.
+
+— ❦ —
+
+## Question 5. What weapons then shall the Christians use against these Enemies?
+
+**What weapons then shall the Christians use against these Enemies?**
+
+**First**: they shall **gird their loins with Truth** — **Eph. 6:14**. Truth means an *upright Being*, ordered after the Word of Truth or the Gospel. To *gird the loins* means: *to arm oneself*, that one be *ready and fit to run and fight* with the Enemy, the Devil.
+
+**2.** They must **preserve the breast with the breastplate of Righteousness** — which is a *good conscience*, that a Christian *so live* that he may *boast of his conscience* — **2 Cor. 1:12**.
+
+**3.** They shall be **shod on the feet with the Gospel of Peace** — that is, that they keep peace toward every man, and *suffer wrong in patience*.
+
+**4.** They shall **take the Shield of Faith** — that is, hold themselves fast to the LORD Christ, and let themselves be *torn away from him neither by Temptation of Sin nor otherwise*. For therewith can they quench all the *fiery darts* of the wicked one.
+
+**5.** They must also have the **Helm of Salvation** — which is nothing else than *Hope* and *Waiting for another Life, that is above in Heaven*. For this Comfort must the Christians know: when they are plagued by Devil and World, *another Life is still at hand*.
+
+**6.** They must also have the **Sword of the Spirit, which is God's Word**, by them — that is the right piece wherewith they can *strike the Devil and drive from themselves*, and *conquer against him* — **Matt. 4**.
+
+— ❦ —
+
+## Question 6. Can then the Devil harm the Christians without God's permission?
+
+**Can then the Devil harm the Christians without God's permission?**
+
+**No.** For this is a special *comfort-piece against the Devil* — that our LORD God has him bound, that he can go no further than He grants and permits him — **Job 1, 3**. In Sum: *Satan has no might over those who are God's Servants*, unless the LORD grants it him — and even then, for their best.
+
+— ❦ —
+
+## Question 7. Why then does God permit the Devil to plague the Christians thus?
+
+**Why then does God permit the Devil to plague the Christians thus?**
+
+**Therefore he puts us thus in the Death, and lets the Devil rush upon us** — not that he should devour us, but that we *may be proved and cleansed*, and that he may reveal himself more and more to us — that we may know his Love. For such *Temptation and Combat* shall teach us *by experience* (which the Preaching alone cannot do) how mighty Christ is, and how the Father truly loves us — that thereby may ever grow the *Confidence toward God*, and *Knowledge, Praise, and Thanks for his Grace and Benefit*. Otherwise we should go on with the first-begun Faith, become *idle, unfruitful, unpractised Christians*, and should soon quite grow rusty, etc.
+
+— ❦ —
+
+## Question 8. What is then to be held of the Exorcists in the Papacy?
+
+**What is then to be held of the Exorcists in the Papacy?**
+
+**To these the Devil at times yields in the possessed**, not for the sake of the Gospel or of Christ, but that their *Errors, Idolatries, and Abominations of the Papacy* may be *strengthened in the people's hearts*. Thus one has had **St. Cyriax and other Saints**, to whom one brought the possessed and *drove out the Devil* — where he willingly yielded, to strengthen his Idolatries, etc. As indeed **St. Paul, 2 Thess. 2:9**, has prophesied of such *lying false Wonder-signs* — that they should come and *deceive many people*.
+
+— ❦ —
+
+## Question 9. Shall the Devils at last also be made blessed, as some have taught?
+
+**Shall the Devils at last also be made blessed, as some have taught?**
+
+**No.** For at **Matt. 25:41, 46** it stands expressly, that the Hell-Fire is **eternal**, and the evil Spirits, together with other damned Men, shall **eternally therein be plagued**.
+
+— ❦ —
+
+## Question 10. With what Men have the evil Spirits their dwelling?
+
+**With what Men have the evil Spirits their dwelling?**
+
+**Answer. With the Children of Unbelief** — **Eph. 2:2**. With the *unrepentant and stiff-necked* Children — **Luke 15**. And in sum, **with those who do Sin against conscience** — **Gal. 5:19–21; 1 John 3:8**. For these are *of the Devil*. Wherefore all such men shall know, that they have the evil Spirits **as fellows and cohabitants**.
+
+— ❦ —
+
+## Question 11. What have the Christians then for a Comfort against the evil Spirits?
+
+**What have the Christians then for a Comfort against the evil Spirits?**
+
+**1.** That **Christ has overcome the Prince of this World** — **John 16:11**.
+
+**2.** That they are **God's Children**, whom he protects and preserves against these Enemies — **Ps. 91**.
+
+**3.** That they *can strike the lie-Spirits with God's Word* and drive from themselves — **Matt. 4**.
+
+**4.** That the **good Angels erect a Wagon-fortress about them** — **Ps. 34:7**.
+
+**5.** That the *Temptations and Plagues of the evil Spirits must serve for their best* — **Rom. 8:28**. And **nothing can separate them from the Love of God**.
+
+**6.** They have the **dear Prayer** — **Prov. 18:10**: *"The Name of the LORD is a strong Castle; the Righteous runneth thither, and is protected."*
+
+— ❦ —
+
+# XI.
+
+# Of Man before the Fall.
+
+## Question 1. What is Man?
+
+**What is Man?**
+
+**Man is God's Creature**, created that he has body and soul, at the beginning **formed after God's Image**, without Sin — that he begat Children, ruled over the Creatures, and was not at all subjected to Death — **Gen. 1, 2**.
+
+— ❦ —
+
+## Question 2. Through whom is he created?
+
+**Through whom is he created?**
+
+**Of God himself** — **Gen. 1:26**: *"Let us make Men,"* — wherewith he indicates that with *special counsel and diligence* he willed to create Man; and this is a *great Honour* to Human Nature.
+
+— ❦ —
+
+## Question 3. Out of what is he created?
+
+**Out of what is he created?**
+
+**Gen. 2:7** — ***de limo terræ***, we have in the Latin text. In the Hebrew stands ***Aphar***, which means such Earth as is dug up, and a little thrown up, as a land that is ploughed, or from a grave — but not *dust* which flies in the air. Of such *loose earth* he took a *clod*, and made the Man therefrom.
+
+Thus is the *Body* created out of the Earth; the *Soul* is *breathed into him* through God's Breath.
+
+— ❦ —
+
+## Question 4. How is the Woman created?
+
+**How is the Woman created?**
+
+**Out of the Rib** which he took from Adam the Man — **Gen. 2:21–22**.
+
+— ❦ —
+
+## Question 5. What was the Image of God, whereafter Man is created?
+
+**What was the Image of God, whereafter Man is created?**
+
+**The Image of God, St. Paul, Eph. 4:24, expounds**: that it is **upright Righteousness and Holiness** in the Soul, and *all the Powers of Man*. And it is as much as: that Man in the beginning was created **full of Wisdom, Virtue, and Love**, without all evil Lusts, *like God* — so that he was *full of God*. That means also the Wise Man: *"God hath created Man upright."*
+
+This Uprightness was *natural* in body and soul; and if Adam had remained therein, he would also have begotten such Children in whom no evil Lust had been, etc. This one had so called the ***Original Righteousness*** — as that which had been brought and *inherited* from Adam *through the Birth*. Now, however, he did not so remain; and the Image is destroyed, and we have *become like the Devil through this Birth*.
+
+In sum, chiefly these Pieces belonged to the Image of God:
+
+**1.** That Man was **without Sin**.
+
+**2.** That he was **full of joy**, and *without fear of Death*.
+
+**3.** That he was full of **Wisdom, Knowledge of God, and Purity**.
+
+**4.** That all Members of the body were also **full of fair and glorious Powers**.
+
+**5.** That Man had a **fair Knowledge of all Creatures** — of all Beasts, Herbs, Fruits.
+
+**6.** Likewise the **Lordship over all Creatures**.
+
+**7.** The **Eternal Life** — which was the very greatest.
+
+— ❦ —
+
+## Question 6. Was the Image of God, whereafter Man is at the beginning created, Man's Substance or Being itself?
+
+**Was the Image of God, whereafter Man is at the beginning created, Man's Substance or Being itself?**
+
+**By no means.** For Moses — **Gen. 1, 2** — says expressly that the Body was created from the Earth. The Image of God, however, is a *Spiritual thing*; wherefore the Body of Man, properly speaking, cannot be the Image of God.
+
+Of the Soul, however, he says that it was *breathed into* Man; and that she in Man, even after the Fall, so far as her Substance and Being is concerned, has remained — though she is *shamefully corrupted*.
+
+But the Image of God is *lost*. Wherefore also the Soul, *properly to speak*, cannot be the Image of God.
+
+So the Apostle Paul writes, **Eph. 4; Col. 3**, that to the Image of God belonged **Righteousness and Holiness**. These, however, are no Substance or *anything essential*, or the Soul of Man itself — but *fair Gifts and Adornments of the Soul*.
+
+— ❦ —
+
+## Question 7. Could then the Image of God be lost without harm and destruction of Human Nature, Body, and Soul?
+
+**Could then the Image of God be lost without harm and destruction of Human Nature, Body, and Soul?**
+
+**By no means.** For it was *natural to Man*, so that it could not be lost *without great destruction and harm of Human Nature*. Wherefore also the Scripture says — **Ps. 14:3**: that Man is corrupt; that the *imagination of Man's heart is from youth up bent to evil* — **Gen. 6:5; 8:21**. Item — *"Out of Man's heart come evil thoughts"* — **Matt. 15:19**. And **Rom. 8:6–7**: *"To be carnally minded is an enmity."* Hence also the Christian Church sings: *"Through Adam's Fall is quite corrupted Human Nature and Being,"* etc.
+
+— ❦ —
+
+## Question 8. Why has God the LORD set before Man a special Command, with the Tree of the Knowledge of Good and Evil?
+
+**Why has God the LORD set before Man a special Command, with the Tree of the Knowledge of Good and Evil?**
+
+**This command has he given him only as a Sign** — that Man might know that he had an *Over-Lord*, and that he might *demonstrate his Obedience to God*. For he was pious, without Sin, and had at the Creation received Powers thereto, so that he could well render such Obedience.
+
+— ❦ —
+
+## Question 9. What would Adam have done in Paradise, if he had remained without Sin?
+
+**What would Adam have done in Paradise, if he had remained without Sin?**
+
+**He would have worked in Paradise, and stood in charge of Fish, Fowl, and Beasts on Earth** — for God would not let him go idle. But he would have done all *without unpleasure*, and it would not have been *sour to him*, with Sweat and Anxiety, as it now is.
+
+Also the Earth would not have borne Thistles, but had been pure *precious growth*, as he would have willed; that also no Beast would have done anything with *disobedience*, and all would have gone as he willed. Thus the *work and Regiment* would have remained — yet *without unrest and misfortune*. As also the Women would have borne Children — but *not with Anxiety, misery, and need*. But on the *seventh Day* all had also stood still, and rested — when he had sanctified the Sabbath with holy Works.
+
+— ❦ —
+
+## Question 10. Wherefore is Man chiefly created?
+
+**Wherefore is Man chiefly created?**
+
+**Most of all — that he shall rightly know, honour, praise, and serve God.** For the Sabbath, on which God and his Works are to be preached, is not instituted for the *sheep or oxen*, but for **Man's sake**. Of all this Human Wisdom, now after the Fall, knows *nothing at all* — yea, it is *a folly to her* when she hears it.
+
+— ❦ —
+
+# XII.
+
+# Of the Fall of Adam, and of the Corrupted Powers of Man.
+
+## Question 1. Whence has the Fall of Adam caused itself?
+
+**Whence has the Fall of Adam caused itself?**
+
+**The beginning of Adam's Sin is stirred up from the Temptation of the Devil** — where he *led Eve away from the Word of God*. Into this Temptation the first Men *consented*, and *turned themselves away from God*. Hereof shall every Christian read the third chapter of Genesis in God's Fear, and *often and much consider it*.
+
+— ❦ —
+
+## Question 2. Wherein has the Fall of Man come to pass?
+
+**Wherein has the Fall of Man come to pass?**
+
+**First**, in the Soul, in Understanding, Will, and then in all the Powers and Members of the Body. For the Devil *first persuaded them in the Heart*; thereafter he turned also Eyes and Hands from God, that they ate of the forbidden Tree — although they did not mark it, until the Fall had come to pass, and God spoke to them thereof.
+
+— ❦ —
+
+## Question 3. Why then does God draw Adam's Fall so high?
+
+**Why then does God draw Adam's Fall so high?**
+
+**Because Adam sinned against God's Word — yea, against all Ten Commandments** — in that he *let himself be seduced by the Devil*. For he *fell away from God himself*, did against his holy Name and Word, *plunged himself and all his posterity into Sin and Death*, subjected them to the Devil's Tyranny and Damnation; esteemed the Devil's Word greater than God's Command; loved the Apple more than God; yea, would be **equal with God himself** — **Gen. 3**.
+
+— ❦ —
+
+## Question 4. What harm and misery, however, is come to pass from Adam's Fall?
+
+**What harm and misery, however, is come to pass from Adam's Fall?**
+
+**1.** That they became aware of their *nakedness* — **Gen. 3**.
+
+**2.** That their heart and will and whole Reason was *fearfully deranged and corrupted*.
+
+**3.** That they *flee before God*, and fear before him *as before their Enemy*.
+
+**4.** That the Woman must bear and give birth to Children *with pains*.
+
+**5.** That the ground of the Earth is *cursed*, to bear *Thorns and Thistles and weed* instead of the glorious Fruits.
+
+**6.** That they are cast out of Paradise, and *banished into misery*, to nourish themselves with hunger and grief.
+
+**7.** That they are now subjected — with all their posterity — **to Death**; and their Children are *conceived and born in Sins*, and are therefore also **Children of Death**.
+
+For what Adam and Eve lost, they have also lost to their Children; what harm they received, their Heirs must also share.
+
+— ❦ —
+
+## Question 5. How, however, are Adam and Eve brought again to rights?
+
+**How, however, are Adam and Eve brought again to rights?**
+
+**Through the Word of Promise** — whereof read the **3rd Chapter of Genesis**, or the First Book of Moses.
+
+— ❦ —
+
+## Question 6. What then is Man with all his Powers after the Fall, and what has it for an Occasion with him?
+
+**What then is Man with all his Powers after the Fall, and what has it for an Occasion with him?**
+
+**1.** Man's Heart is **the well and fountain** wherein stick the *chief Sins* — namely, *false worship of God, contempt of God, unbelief, disobedience, evil lust*, etc. — **Rom. 8**.
+
+**2.** He is **a corrupted mirror**, that he no more rightly sees nor understands anything of God and his gracious Will.
+
+**3.** Wherefore is Man the *captive of Sins* and of the *Devil*, and does *what he suggests to him*, before he is converted — **Eph. 2:2; 2 Tim. 2:26**.
+
+**4.** In Man is *nothing good* on account of the Sin; and that one first sees when Need is at hand — **Ps. 14; Rom. 3**.
+
+**5.** All are *conceived and born in Sins* — **Ps. 51**. Wherefore is nothing pure in us.
+
+**6.** All Men are **Flesh** — that is, they live, work, think, speak, and do *fleshly* — unless they be *born anew* — **John 3**.
+
+**7.** No Man can boast of his Powers before God — because they are only *conceived and born in Sins* — **Ps. 51**.
+
+**8.** They are consequently all **guilty before God's Judgement**.
+
+— ❦ —
+
+*[Chapter XII continues with further Q&A on corrupted powers, original sin depth, effect on will, effect on reason, salvation-necessity. Translation continues in Rebuild-Tranche 10.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
