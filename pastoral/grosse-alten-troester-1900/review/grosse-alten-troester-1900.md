@@ -6,216 +6,225 @@ date: "2026"
 lang: en
 ---
 
-<!-- HALF-TITLE PAGE (recto) -->
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# THE OLD COMFORTERS
-
-## A GUIDE TO THE DEVOTIONAL LITERATURE
-
-## OF THE EVANGELICAL-LUTHERAN CHURCH
-
-&nbsp;
-
-— ❦ —
+<!-- ═══════════════════ HALF-TITLE PAGE (recto) ═══════════════════ -->
 
 ```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="52"/><w:color w:val="B71C1C"/></w:rPr><w:t>THE OLD COMFORTERS</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="28"/></w:rPr><w:t>A Guide to the Devotional Literature</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="28"/></w:rPr><w:t>of the Evangelical-Lutheran Church</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-<!-- BLANK VERSO -->
-
-&nbsp;
+<!-- ═══════════════════ BLANK VERSO ═══════════════════ -->
 
 ```{=openxml}
+<w:p/>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-<!-- FULL TITLE PAGE (recto) -->
-
-&nbsp;
-
-# THE OLD COMFORTERS
-
-## A GUIDE TO THE DEVOTIONAL LITERATURE
-
-## OF THE EVANGELICAL-LUTHERAN CHURCH
-
-## OF THE SIXTEENTH THROUGH EIGHTEENTH CENTURIES
-
-— ❦ —
-
-*Die alten Tröster*
-
-*Ein Wegweiser in die Erbauungslitteratur*
-
-*der evangelisch-lutherischen Kirche*
-
-*des 16. bis 18. Jahrhunderts*
-
-— ❦ —
-
-**Constantin Große**
-
-— ❦ —
-
-**Hermannsburg · in Kommission bei der Missionshandlung · 1900**
-
-&nbsp;
-
-&nbsp;
-
-A working English edition translated by
-
-**The Scholastic Lutherans**
-
-*2026*
+<!-- ═══════════════════ FULL TITLE PAGE (recto) ═══════════════════ -->
 
 ```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="48"/><w:color w:val="B71C1C"/></w:rPr><w:t>THE OLD COMFORTERS</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>A Guide to the Devotional Literature</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>of the Evangelical-Lutheran Church</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>of the Sixteenth through Eighteenth Centuries</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Die alten Tröster</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Ein Wegweiser in die Erbauungslitteratur</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>der evangelisch-lutherischen Kirche</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>des 16. bis 18. Jahrhunderts</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/></w:rPr><w:t>Constantin Große</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Hermannsburg · in Kommission bei der Missionshandlung · 1900</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t>A working English edition translated by</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>The Scholastic Lutherans</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>2026</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-<!-- COLOPHON / IMPRINT PAGE (verso) -->
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-*Working translation from the German, prepared from the facsimile*
-
-*of the 1900 Hermannsburg edition (Internet Archive, item*
-
-`diealtentroeste00grosgoog`*).*
-
-&nbsp;
-
-*Set in Palatino Linotype and rendered in the Hülsemann style established*
-
-*for the* Scholastic Lutherans *translation program.*
-
-&nbsp;
-
-**The Scholastic Lutherans translation team**
-
-*2026*
+<!-- ═══════════════════ COLOPHON / IMPRINT PAGE (verso) ═══════════════════ -->
 
 ```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Working translation from the German, prepared from the facsimile</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">of the 1900 Hermannsburg edition (Internet Archive, item </w:t></w:r><w:r><w:rPr><w:rFonts w:ascii="Consolas" w:hAnsi="Consolas"/></w:rPr><w:t>diealtentroeste00grosgoog</w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>).</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Set in Palatino Linotype and rendered in the Hülsemann style established</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">for the </w:t></w:r><w:r><w:t xml:space="preserve">Scholastic Lutherans </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>translation program.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>The Scholastic Lutherans translation team</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>2026</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-<!-- DEDICATION (recto) — provisional; to be replaced by Große's own dedication if the sighted title-page carries one -->
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-*To the pastors, teachers, and quiet readers*
-
-*for whom the old comforters are still companions —*
-
-*and to those coming to them for the first time,*
-
-*in whatever language they are met.*
-
-&nbsp;
-
-— ❦ —
+<!-- ═══════════════════ DEDICATION (recto) ═══════════════════ -->
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-<!-- BLANK VERSO -->
-
-&nbsp;
-
-```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>To the pastors, teachers, and quiet readers</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>for whom the old comforters are still companions —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>and to those coming to them for the first time,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>in whatever language they are met.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 # Contents
 
-|  |
+*A navigation aid to the volume. Page numbers may be added by opening the document in Word or LibreOffice and inserting an updateable Table-of-Contents field (Word:* Insert → Table of Contents*; LibreOffice:* Insert → Table of Contents and Index*).*
+
+— ❦ —
+
+|  Section  |
 |:---|
-| **Front Matter** |
-| &nbsp;&nbsp;&nbsp;Translator's Note |
-| &nbsp;&nbsp;&nbsp;The Title Page as Printed |
-| &nbsp;&nbsp;&nbsp;Vorwort — Preface (Große's own) |
-| &nbsp;&nbsp;&nbsp;Foreword (English rendering) |
-| &nbsp;&nbsp;&nbsp;Einleitung — Introduction (§§1–9) |
+| **FRONT MATTER** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Translator's Note |
+| &nbsp;&nbsp;&nbsp;&nbsp;The Title Page as Printed (from the 1900 Hermannsburg imprint) |
+| &nbsp;&nbsp;&nbsp;&nbsp;Vorwort — Preface (Große's own) |
+| &nbsp;&nbsp;&nbsp;&nbsp;Foreword (English rendering) |
+| &nbsp;&nbsp;&nbsp;&nbsp;Einleitung — Introduction (§§1–9) |
 | &nbsp; |
-| **Part One — The Reformation Century (1500–1550)** |
-| &nbsp;&nbsp;&nbsp;§1. General Overview |
-| &nbsp;&nbsp;&nbsp;§2. Luther and his Significance for Devotional Literature *(three parts)* |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Luther's Own Devotional Writings, by Category |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. The New Editions Currently in Print (11 categories) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Tracts and Sermon-Selections after Luther |
-| &nbsp;&nbsp;&nbsp;§3. Luther's Fellow-Workers and their Piety |
-| &nbsp;&nbsp;&nbsp;§4. Urbanus Rhegius (1489–1541) |
-| &nbsp;&nbsp;&nbsp;§5. Johannes Brießmann (1488–1549) |
-| &nbsp;&nbsp;&nbsp;§6. Veit Dietrich (1506–1549) |
-| &nbsp;&nbsp;&nbsp;§7. Johannes Brenz (1499–1570) — with Excursus on Jakob Andreä |
+| **PART ONE  ·  THE REFORMATION CENTURY  ·  1500–1550** |
+| &nbsp;&nbsp;&nbsp;&nbsp;§1. General Overview |
+| &nbsp;&nbsp;&nbsp;&nbsp;§2. Luther and his Significance for Devotional Literature |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part One — The Life to 1529 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part Two — The Life from 1527 to 1546 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part Three — The Writings-Catalogue |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Luther's Own Devotional Writings |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. The New Editions Currently in Print (11 categories) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Tracts and Sermon-Selections after Luther |
+| &nbsp;&nbsp;&nbsp;&nbsp;§3. Luther's Fellow-Workers and their Piety |
+| &nbsp;&nbsp;&nbsp;&nbsp;§4. Urbanus Rhegius (1489–1541) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§5. Johannes Brießmann (1488–1549) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§6. Veit Dietrich (1506–1549) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§7. Johannes Brenz (1499–1570) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excursus: Jakob Andreä (1528–1590) |
 | &nbsp; |
-| **Part Two — The Post-Reformation Age (1550–1600)** |
-| &nbsp;&nbsp;&nbsp;§1. General Overview · §2. Traces in the Literature · §3. Piety Portrait |
-| &nbsp;&nbsp;&nbsp;§4. Christoph Fischer · §5. Stephan Praetorius · §6. Martin Moller |
-| &nbsp;&nbsp;&nbsp;§7. Johann Habermann · §8. Betbuch Christian I. · §9. Münsinger |
-| &nbsp;&nbsp;&nbsp;§10. Michael Saxo · §11. Cyriacus Spangenberg · §12. Tilemann Hesshusius |
+| **PART TWO  ·  THE POST-REFORMATION AGE  ·  1550–1600** |
+| &nbsp;&nbsp;&nbsp;&nbsp;§1. General Overview |
+| &nbsp;&nbsp;&nbsp;&nbsp;§2. Traces in the Literature and the Piety it Nourished |
+| &nbsp;&nbsp;&nbsp;&nbsp;§3. The Piety of the Age — a Portrait Gallery |
+| &nbsp;&nbsp;&nbsp;&nbsp;§4. Christoph Fischer (1520–1600) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§5. Stephan Praetorius (1536–1603) — the 32 Little Tracts |
+| &nbsp;&nbsp;&nbsp;&nbsp;§6. Martin Moller (1547–1606) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§7. Johann Habermann (1516–1590) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§8. Betbuch Christian I. (1589) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§9. Wolfgang Münsinger von Frundeck (†1588) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§10. Michael Saxo (Sarö, ~1530–1600) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§11. Cyriacus Spangenberg (1528–1604) |
+| &nbsp;&nbsp;&nbsp;&nbsp;§12. Tilemann Hesshusius (1527–1588) |
 | &nbsp; |
-| **Part Three — The Age of Lutheran Orthodoxy and of the Pietism Beginning within it (1600–1750)** |
-| &nbsp;&nbsp;&nbsp;**Section II a) 1600 to the End of the Thirty Years' War** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Overview and Piety · §3 Philipp Nikolai · §4 Dedeken |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§5 Wudrian · §6 Statius · §7 Rosner · §8 Valerius Herberger |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§9 Johann Heermann · §10 Johann Arndt · §11 Johann Gerhard |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§12 Johann Matthäus Meyfart |
-| &nbsp;&nbsp;&nbsp;**Section II b) The Blossom-Time 1650–1680** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Overview and Piety |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II b) A. Lütkemann and his Disciples: §3 Lütkemann · §4 Heinrich Müller |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§5 Christian Scriver · §6 Lassenius |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II b) B–C. §§7–8 Erklärer · §§9–12 Sprachgesellschaft-influenced authors |
-| &nbsp;&nbsp;&nbsp;**Section II c) The Ausgang 1680–1700 — Founding Pietism** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Opening · §3 Philipp Jakob Spener · §4 Johann Kaspar Schade |
+| **PART THREE  ·  LUTHERAN ORTHODOXY AND EARLY PIETISM  ·  1600–1750** |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Section II a)  ·  1600 to the End of the Thirty Years' War** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2. Overview and Piety |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§3. Philipp Nikolai (1556–1608) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§4–7. Dedeken · Wudrian · Statius · Rosner |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§8. Valerius Herberger (1562–1627) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§9. Johann Heermann (1585–1647) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§10. Johann Arndt (1555–1621) — *Wahres Christentum* |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§11. Johann Gerhard (1582–1637) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§12. Johann Matthäus Meyfart (1590–1642) |
 | &nbsp; |
-| &nbsp;&nbsp;&nbsp;**Section III a) 1700 to 1750 — The Age of Pietism** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Opening · §§3–4 Orthodoxy-and-Piety · §§5 Fresenius |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A. Kirchliche Pietisten:** §§3–5 Starck · Fresenius |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B. Die Hallesche Schule:** §6 Francke · §7 Bogatzky · §§8–11 Steinmetz + Reuß-Schleiz + Porst + Hollaz · §§12–16 Werner + Cober + Woltersdorf + Creutzberg + Arnold |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C. Die Brüdergemeinde:** §17 Zinzendorf + Spangenberg + Forstmann + Loskiel |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D. Die Württemberger Pietisten (1700–1800):** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§18 Hedinger · §19 Grammlich · §20 Urlsperger · §21 Konrad Rieger |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***§22 Johann Albrecht Bengel (1687–1752) — paradigm figure*** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§23 Steinhofer · §24 Marie Katharine Sophie · §25 Hiller · §26 Burk |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§27 Brastberger · §28 Roos · §29 Storr · §30 K. H. Rieger |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§31 Oetinger · §32 Fricker · §33 Hahn · §34 Harttmann |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E. Vertreter der luth. Orthodoxie im Pietismus-Zeitalter:** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§35 Emendörfer · §36 *Wahrer Christen Himmelsleiter* · §37 [Anhang] Tersteegen |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§38 Caspar Neumann · §39 Benjamin Schmolck · §40 Bernhard Bock |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§41 Schinmeier · §42 Lenz |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§43 Joseph Schaitberger — Salzburger Emigrant |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Section II b)  ·  The Blossom-Time  ·  1650–1680** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2. Overview and Piety |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§3. Joachim Lütkemann (1608–1660) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§4. Heinrich Müller (1631–1675) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§5. Christian Scriver (1629–1693) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§6. Johannes Lassenius |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§7–12. The Later Blossom-Time Authors |
 | &nbsp; |
-| **Part Four — Ausgang and Vorbilder (1750–1800 and beyond)** |
-| &nbsp;&nbsp;&nbsp;**Section III b) Ausgang 1750–1800** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Die Supranaturalisten — Goeze · Ehrhardt |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Die Rationalisten — Claudius · Lavater · G. J. Zollikofer · Zschokke |
-| &nbsp;&nbsp;&nbsp;**Anhang I — English and Medieval Vorbilder** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Anglisch-Puritanische — Rutherford · Baxter · Bunyan |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Mittelalterliche — Tauler · Ruusbroec · *Theologia Deutsch* · Kempis |
-| &nbsp;&nbsp;&nbsp;**Anhang II — Tabularische Übersichten** |
-| &nbsp;&nbsp;&nbsp;**Nachträge — Closing Additions and Witness** |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Section II c)  ·  Ausgang  ·  1680–1700 — Founding Pietism** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2. Opening |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§3. Philipp Jakob Spener (1635–1705) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§4. Johann Kaspar Schade (1666–1698) |
 | &nbsp; |
-| **Back Matter** |
-| &nbsp;&nbsp;&nbsp;Notes *(408 endnotes, grouped by tranche and section)* |
-| &nbsp;&nbsp;&nbsp;Glossary of Terms |
-| &nbsp;&nbsp;&nbsp;Colophon |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Section III a)  ·  1700–1750 — The Age of Pietism** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2. Opening and Overview |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A. Kirchliche Pietisten:** §§3–5 Starck · Fresenius |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B. Die Hallesche Schule** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§6. August Hermann Francke (1663–1727) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§7. Karl Heinrich von Bogatzky (1690–1774) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§8–11. Steinmetz · Reuß-Schleiz · Porst · Hollaz |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§12–16. Werner · Cober · Woltersdorf · Creutzberg · Arnold |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C. Die Brüdergemeinde** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§17. Zinzendorf · Spangenberg · Forstmann · Loskiel |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D. Die Württemberger Pietisten (1700–1800)** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§18. Johann Reinhard Hedinger (1664–1704) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§19. Johann Andreas Grammlich (1680–1728) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§20. Samuel Urlsperger (1685–1772) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§21. Georg Konrad Rieger (1687–1743) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**§22. Johann Albrecht Bengel (1687–1752)  ·  paradigm figure** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§23. Maximilian Friedrich Christoph Steinhofer (1706–1761) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§24. Marie Katharine Sophie, Gräfin (1680–1761) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§25. Philipp Friedrich Hiller (1699–1769) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§26. Philipp David Burk (1714–1770) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§27. Immanuel Gottlob Brastberger (1716–1764) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§28. Magnus Friedrich Roos (1727–1803) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§29. Christian Friedrich Storr (1712–1773) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§30. Karl Heinrich Rieger (1726–1791) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§31. Friedrich Christoph Oetinger (1702–1782) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§32. Johann Ludwig Fricker (1729–1766) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§33. Philipp Matthäus Hahn (1739–1790) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§34. Karl Friedrich Harttmann (1743–1815) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E. Vertreter der luth. Orthodoxie im Pietismus-Zeitalter** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§35. Johann Friedrich Emendörfer (1751–1813) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§36. *Wahrer Christen Geistliche Himmelsleiter* |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§37. [Anhang] Gerhard Tersteegen (1697–1769) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§38. Caspar Neumann (1648–1715) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§39. Benjamin Schmolck (1672–1737) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§40. Bernhard Bock (1669–1739) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§41–42. Schinmeier · Lenz |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§43. Joseph Schaitberger (1658–1733) — Salzburger Emigrant |
+| &nbsp; |
+| **PART FOUR  ·  AUSGANG AND VORBILDER  ·  1750–1800 AND BEYOND** |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Section III b)  ·  Ausgang  ·  1750–1800** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Die Supranaturalisten — Goeze · Ehrhardt |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Die Rationalisten — Claudius · Lavater · G. J. Zollikofer · Zschokke |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Anhang I  ·  English and Medieval Vorbilder** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Anglisch-Puritanische — Rutherford · Baxter · Bunyan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Mittelalterliche — Tauler · Ruusbroec · *Theologia Deutsch* · Kempis |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Anhang II  ·  Tabularische Übersichten** |
+| &nbsp;&nbsp;&nbsp;&nbsp;**Nachträge  ·  Closing Additions and Witness** |
+| &nbsp; |
+| **BACK MATTER** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Notes *(408 endnotes, grouped by tranche and section)* |
+| &nbsp;&nbsp;&nbsp;&nbsp;Glossary of Terms |
+| &nbsp;&nbsp;&nbsp;&nbsp;Colophon |
 
 — ❦ —
 
@@ -294,39 +303,25 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 
 *(Verbatim from the 1900 Hermannsburg imprint, IA identifier* `diealtentroeste00grosgoog` *; Fraktur silently modernised, long-*ſ *→ round *s*, no other emendation.)*
 
-&nbsp;
-
-**Die Alten Tröſter.**
-
-*Ein Wegweiſer in die Erbauungslitteratur*
-
-*der*
-
-*evang.-luth. Kirche*
-
-*des 16. bis 18. Jahrhunderts.*
-
-&nbsp;
-
-*Das Buch enthält außer einer eingehenden Beschreibung derselben die Grundzüge ihrer Geschichte und die Darstellung des Lebens ihrer Verfasser, sowie einige Züge aus der Entwicklung der christlich-kirchlichen Frömmigkeit, zumal des Gebetslebens in der lutherischen Kirche, des Bodens, auf dem sie einerseits erwachsen ist, den sie andererseits wieder genährt hat.*
-
-&nbsp;
-
-Herausgegeben von
-
-**Constantin Große,**
-
-*Pastor in Sora bei [——]*¹
-
-&nbsp;
-
-**Hermannsburg 1900.**
-
-*In Kommiſſion bei der Missionshandlung, Hermannsburg (Hann.)*
-
-*Druck der Missionshandlung in Hermannsburg.*
-
-&nbsp;
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="40"/><w:color w:val="B71C1C"/></w:rPr><w:t>Die Alten Tröſter.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>Ein Wegweiſer in die Erbauungslitteratur</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>der</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>evang.-luth. Kirche</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>des 16. bis 18. Jahrhunderts.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Das Buch enthält außer einer eingehenden Beschreibung derselben die Grundzüge ihrer Geschichte und die Darstellung des Lebens ihrer Verfasser, sowie einige Züge aus der Entwicklung der christlich-kirchlichen Frömmigkeit, zumal des Gebetslebens in der lutherischen Kirche, des Bodens, auf dem sie einerseits erwachsen ist, den sie andererseits wieder genährt hat.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve">Herausgegeben von</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="28"/></w:rPr><w:t>Constantin Große,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Pastor in Sora bei [——]</w:t></w:r><w:r><w:rPr><w:vertAlign w:val="superscript"/></w:rPr><w:t>1</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Hermannsburg 1900.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>In Kommiſſion bei der Missionshandlung, Hermannsburg (Hann.)</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Druck der Missionshandlung in Hermannsburg.</w:t></w:r></w:p>
+```
 
 *The Old Comforters. A Guide to the Devotional Literature of the Evangelical-Lutheran Church of the Sixteenth through Eighteenth Centuries. Besides a searching description of that literature, the book gives the outlines of its history and a portrayal of the lives of its authors, together with some features of the development of Christian-churchly piety, chiefly of the life of prayer in the Lutheran Church — the soil out of which those writings grew and which they in turn nourished. Issued by Constantin Große, Pastor in Sora near [——]. Hermannsburg 1900. In commission with the Mission-House Press, Hermannsburg (Hanover). Printed at the Mission-House Press in Hermannsburg.*
 
@@ -454,44 +449,24 @@ The whole is closed by a searching **Table of Contents.**
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# PART ONE
-
-&nbsp;
-
-## The Reformation Century
-
-&nbsp;
-
-## 1500 to 1550
-
-&nbsp;
-
-&nbsp;
-
-— ❦ —
-
-&nbsp;
-
-*"The Word they still shall let remain,*
-*Nor any thanks have for it;*
-*He is with us upon the plain*
-*With His good gifts and Spirit."*
-
-*— Luther,* Ein feste Burg ist unser Gott, *v. 4*
-
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-&nbsp;
-
-```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:color w:val="B71C1C"/></w:rPr><w:t>PART ONE</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>The Reformation Century</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>1500 to 1550</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>"The Word they still shall let remain,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Nor any thanks have for it;</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>He is with us upon the plain</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>With His good gifts and Spirit."</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve">— Luther, </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Ein feste Burg ist unser Gott, </w:t></w:r><w:r><w:t>v. 4</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
@@ -955,39 +930,23 @@ Of Brenz's smaller edifying writings, none has been brought near to our own age'
 
 &nbsp;
 
-&nbsp;
-
-# PART TWO
-
-&nbsp;
-
-## The Post-Reformation Age
-
-&nbsp;
-
-## 1550 to 1600
-
-&nbsp;
-
-&nbsp;
-
-— ❦ —
-
-&nbsp;
-
-*"Wake, awake, for night is flying;*
-*The watchmen on the heights are crying:*
-*Awake, Jerusalem, at last!"*
-
-*— Nicolai,* Wachet auf, ruft uns die Stimme
-
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-&nbsp;
-
-```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:color w:val="B71C1C"/></w:rPr><w:t>PART TWO</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>The Post-Reformation Age</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>1550 to 1600</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>"Wake, awake, for night is flying;</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>The watchmen on the heights are crying:</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Awake, Jerusalem, at last!"</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve">— Nicolai, </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>Wachet auf, ruft uns die Stimme</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
@@ -1264,46 +1223,26 @@ Here appears, as preface, the dedicatory letter of 16 February 1568 to Wolfgang,
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# PART THREE
-
-&nbsp;
-
-## The Age of Lutheran Orthodoxy
-
-## and of the Pietism Beginning within it
-
-&nbsp;
-
-## 1600 to 1750
-
-&nbsp;
-
-&nbsp;
-
-— ❦ —
-
-&nbsp;
-
-*"Wenn ich einmal soll scheiden,*
-*So scheide nicht von mir!*
-*Wenn ich den Tod soll leiden,*
-*So tritt du dann herfür."*
-
-*— Paul Gerhardt,* O Haupt voll Blut und Wunden
-
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-&nbsp;
-
-```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:color w:val="B71C1C"/></w:rPr><w:t>PART THREE</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>The Age of Lutheran Orthodoxy</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>and of the Pietism Beginning within it</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>1600 to 1750</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>"Wenn ich einmal soll scheiden,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>So scheide nicht von mir!</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Wenn ich den Tod soll leiden,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>So tritt du dann herfür."</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve">— Paul Gerhardt, </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>O Haupt voll Blut und Wunden</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
@@ -3444,46 +3383,26 @@ Contents: Vorreden (Wöbking 1895 with information on book and author + Arens 18
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# PART FOUR
-
-&nbsp;
-
-## The Ausgang of the Eighteenth Century
-
-## and the English and Medieval Vorbilder
-
-&nbsp;
-
-## 1750 to 1800 and beyond
-
-&nbsp;
-
-&nbsp;
-
-— ❦ —
-
-&nbsp;
-
-*"Mir ist Erbarmung widerfahren,*
-*Erbarmung, deren ich nicht wert;*
-*Das zähl ich zu dem Wunderbaren,*
-*Mein stolzes Herz hat's nie begehrt."*
-
-*— Philipp Friedrich Hiller,* Mir ist Erbarmung widerfahren *(EG 355)*
-
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-&nbsp;
-
-```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:color w:val="B71C1C"/></w:rPr><w:t>PART FOUR</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>The Ausgang of the Eighteenth Century</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>and the English and Medieval Vorbilder</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>1750 to 1800 and beyond</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>"Mir ist Erbarmung widerfahren,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Erbarmung, deren ich nicht wert;</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Das zähl ich zu dem Wunderbaren,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Mein stolzes Herz hat's nie begehrt."</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve">— Philipp Friedrich Hiller, </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Mir ist Erbarmung widerfahren </w:t></w:r><w:r><w:t>(EG 355)</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
@@ -3578,29 +3497,17 @@ Contents: Vorreden (Wöbking 1895 with information on book and author + Arens 18
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# BACK MATTER
-
-&nbsp;
-
-## Notes · Glossary of Terms · Colophon
-
-&nbsp;
-
-— ❦ —
-
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-&nbsp;
-
-```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:color w:val="B71C1C"/></w:rPr><w:t>BACK MATTER</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="32"/></w:rPr><w:t>Notes  ·  Glossary of Terms  ·  Colophon</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
