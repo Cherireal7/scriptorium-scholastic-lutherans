@@ -4331,11 +4331,220 @@ Rather, **it is the dispute concerning the *very Piece* whereby Man is made Righ
 
 Here we say plainly, that **it is alone and only the precious Merit and Payment of Jesus Christ**, and *not at all* our good works — that also our good works, as *unclean and imperfect*, belong here *not at all*.
 
-But we deny not, however, that one shall do Repentance, do good works, live in Righteousness and Holiness pleasing to God. For where the Faith on Christ is upright, all this *follows*; and a *right-believing Christian* asks not much...
+But we deny not, however, that one shall do Repentance, do good works, live in Righteousness and Holiness pleasing to God. For where the Faith on Christ is upright, all this *follows*; and a *right-believing Christian* asks not much whether he shall do good works, and *resist Sin in the Flesh*: rather, he is *for ever and ever* in the *doing and practice of good works*, and *strives against the Flesh*, or against the evil lusts and desires.
 
 — ❦ —
 
-*[Chapter XX Justification treatise continues (dispute closing, more objections), then closes into Chapter XXI Von der ewigen Wahl Gottes. Translation continues in Rebuild-Tranche 17.]*
+## Question 36. Wherewith is such proved?
+
+**Wherewith is such proved?**
+
+**First** — with the sayings of Scripture which say that we are made Righteous *without works, through Faith* — **Rom. 3, 4; Eph. 2**.
+
+**2.** From the **Mediator's Office of Jesus Christ**, who *alone* is thereto ordained, that he shall make us Righteous through his Obedience — **Rom. 3; Isa. 53**.
+
+**3.** From the **Office of the Law**: the Law's Office is not *to make Righteous*, but *to reveal the Sin* — **Rom. 3; Gal. 3**. Because also *no one keeps* the Law, or *has kept it*, it is vain to *hope or seek Blessedness through the works of the Law* — outside of Christ alone.
+
+**4.** From the **Corruption of our Nature**: it is *impossible* even to atone *for one Sin* — let alone to *fulfil the whole Law*. Wherefore our Righteousness stands *only and alone* upon Christ's Obedience — **Rom. 5, 10**.
+
+**5.** From the **property of the Promise of Grace** — **Rom. 4** — that she stands *firm*. Now she does not stand firm, when one will seek the Righteousness *outside of Christ* also in our own works.
+
+**6.** There is no doubt but that the Doctrine alone brings **Righteousness**, which works *Comfort and Peace in the troubled Consciences*. But that does *alone the Doctrine of the Holy Gospel* — wherefore she also alone brings *Righteousness and Blessedness*, and not the Doctrine of the Law.
+
+**7.** Undoubtedly, the Doctrine is *wrong* which *robs Christ of his fitting Honour*, and lets the troubled Consciences *hang in doubt*. But that does the Papists' Doctrine in this Article — wherefore *rightly to be avoided*.
+
+**8.** **All Prophets give witness of our Doctrine of Justification** — **Acts 10:43**: *"Of this Jesus witness all the Prophets — that through his Name they receive Forgiveness of Sins, all who believe on him."* Wherefore is there no doubt that she has *ground and is true*.
+
+The Doctrine concerning the **Calling of the Idolatrous Heathen to the Kingdom of Christ** mightily confirms our Doctrine — for they are *without any their own works and merit*, alone by God, for Christ's sake, **through Faith received unto Grace, made Righteous and Blessed** — **Acts 10, 13, 15**.
+
+— ❦ —
+
+# XXI.
+
+# Of Faith on Christ.
+
+## Question 1. What means "to believe"?
+
+**What means "to believe"?**
+
+**Faith is not alone a Knowledge of the History concerning Christ**; but is **a hearty Confidence upon God's Mercy — that he for the sake of Christ's Obedience and Merit forgives us all Sins out of Grace, makes us Righteous and Blessed**, etc. — **Eph. 3:12**: *"Through which Christ we have Boldness and access with all Confidence,"* etc.
+
+**Jewish and Papist Faith** is: through Works to will to obtain God's Grace, atone for Sin, and be made blessed.
+
+— ❦ —
+
+## Question 2. Whereupon is it proved, that Faith is not a *bare Knowledge of the History* concerning Christ (as the Papists give out), but a **hearty Confidence and Trust**?
+
+**Whereupon is it proved, that Faith is not a *bare Knowledge of the History* concerning Christ (as the Papists give out), but a hearty Confidence and Trust?**
+
+**1.** The Faith **brings Life** — **Rom. 1:17**: *"The Righteous shall live of his Faith."* The Knowledge of the History, however, brings *not Life*. Wherefore in the Article of Justification, Faith must indeed mean *something more* than a bare Knowledge of the History concerning Christ.
+
+**2.** The Faith on Christ brings a **joyful access to God** — **Eph. 3:12**: *"Through whom we have Boldness and access with all Confidence, through the Faith on him."* Such, however, the bare Knowledge of the History concerning Christ *cannot bring*. Wherefore there is no doubt that the word "Faith" in this Article means as much as *to have a joyful Confidence*, after which the believing Man can *speak to God in all needs*.
+
+**3.** The Faith on Christ brings **Peace in the Heart toward God** — **Rom. 5:1**: *"So now, being justified through Faith, we have Peace with God, through our LORD Jesus Christ."* Whence *clearly appears* that Faith in this Article does not alone mean a Knowledge of the History, but chiefly **such a Confidence toward God through Christ, and in Christ Jesus, which brings the troubled Consciences Peace** — that they *firmly conclude, God is gracious to them*.
+
+**4.** The Faith **cleanses the Hearts** — **Acts 15:9**. This the bare Knowledge of the History concerning Christ cannot do. Otherwise would also the Hearts of the *Pharisees, Sadducees, and Pilate* have been cleansed and reconciled with God. Wherefore Faith in this Article must indeed mean *something more* than to have a Knowledge of the History concerning Christ — namely, **a certain Confidence of the gracious Cleansing or Forgiveness of all Sins for Christ's sake**.
+
+**5. Heb. 11:1** it is said: **"Faith is a certain Confidence of that which is hoped for, and doubts not of that which is not seen."** Wherefore the word "Faith" must mean not alone a bare Knowledge of the History concerning Christ, but rather **a certain Confidence, set opposite to Doubt**.
+
+**6. Rom. 4:20–21** — Faith on Christ is called a certain Knowledge, whereof one *doubts not*, etc. Accordingly Faith must not be merely a Knowledge, but also **an undoubting Confidence, that the Heavenly Father for Christ's sake is gracious to us, and will forgive our Sins**.
+
+— ❦ —
+
+## Question 3. How manifold is Faith?
+
+**How manifold is Faith?**
+
+**First**, is *stronger* and then also *weaker* Faith. Yet **St. Peter and St. Paul have no more of Christ than *Mary Magdalene, I and thou*** — only this is the distinction: that they hold the treasure *more firmly* than I and thou. None the less must and shall I believe that I have the very same treasure in Christ that all Saints have.
+
+**2.** **Uncoloured and coloured Faith.** Uncoloured Faith grounds itself *alone on Christ*. Coloured Faith mixes together God's Grace and its own merit.
+
+**3.** **World's, Pharisee's, Turk's, and Papist's Faith** is: to conclude from *outward Fortune and Prosperity* that God is gracious to us, or to trust and build on one's own works.
+
+**4.** ***Fides acquisita et informis*** — that is, an *idle empty thought*, which fights not with the Temptation, Sin, and Death.
+
+**5.** ***Fides formata charitate*** — Faith which the *Works or Love gives Power and Form* — the Papists teach, etc. But it is wrong. For Faith alone makes blessed, which grasps Christ's Merit. And it is one thing that **Faith makes Righteous**, another that it is ***active through Love*** — **Gal. 5:6**.
+
+— ❦ —
+
+## Question 4. Who works Faith in the Hearts?
+
+**Who works Faith in the Hearts?**
+
+**The efficient Cause of Faith on Christ is the Holy Spirit himself**, who kindles such Confidence in the Heart *out of pure Grace* — for it is *his Work alone* to make the dead hearts alive, and to awake Faith therein. Wherefore at **Phil. 1:29** it stands: *"To you it is given to believe on Christ."* And **Col. 2:12**: *"Ye are risen through the Faith which God worketh."*
+
+And they teach *quite wrongly* who give out that true Faith on Christ Jesus is *partly also Man's Work*.
+
+— ❦ —
+
+## Question 5. Through what Means is such Faith given?
+
+**Through what Means is such Faith given?**
+
+**Through the Word and Sacraments** — for these are ordained thereto.
+
+- **Gal. 3:2** — *"Faith is received through the Preaching of Faith."*
+- **Rom. 10:17** — *"Faith comes by Preaching."*
+- **Acts 2:38** — *"Do Repentance, and let every one be baptised on the Name of Jesus Christ unto the Forgiveness of Sins — so shall ye receive the Gift of the Holy Spirit."*
+- **Tit. 3:5** — *"Through the bath of Regeneration and Renewal of the Holy Spirit."*
+
+— ❦ —
+
+## Question 6. Where is Faith kindled in Man?
+
+**Where is Faith kindled in Man?**
+
+**In the Heart.** — **Rom. 10:10**: *"With the Heart one believeth unto Righteousness."* — **Acts 15:9**: *"The Hearts are cleansed through Faith."*
+
+— ❦ —
+
+## Question 7. Whereupon does the *saving* Faith stand, or whereon must it *ground itself*?
+
+**Whereupon does the saving Faith stand, or whereon must it ground itself?**
+
+**Answer**: **Solely and alone upon Christ, his precious Merit, and Obedience.** For when Faith deals with God concerning Forgiveness of Sins, and will know how he stands with God, he can ground himself *on nothing else* than alone upon Christ's Blood and Death, or upon the Promise which God in the Gospel *for the sake of Christ his Son* offers.
+
+For upon the Preaching of the Law and his own doing he cannot *rely* — forasmuch as the Law preaches *nothing but Wrath*, and our works are *unclean and imperfect*; we have also not by *far* yet come to the point that we should have loved God from the whole heart, and our Neighbour as ourselves.
+
+Wherefore at **Rom. 3:25** it clearly stands: *"God hath set forth Christ as a Throne of Grace through Faith."* And **Acts 10:43**: *"Of this Jesus witness all the Prophets,"* etc.
+
+— ❦ —
+
+## Question 8. How, however, must Faith grasp Christ?
+
+**How, however, must Faith grasp Christ?**
+
+**Answer**: **With sure Confidence** — for Faith is such a *sure Confidence* which receives Christ with all his treasures, and *relies upon it*. — **Rom. 4:20–21**: *"He doubted not at God's Promise through unbelief, but was strong in Faith; gave God the Honour, and knew of the very most certain, that what God promises, that also he can do."* — **Eph. 3:12**: *"Through whom we have Boldness and access with all Confidence, through Faith."*
+
+— ❦ —
+
+## Question 9. Must then in the Believing be *such a certain Confidence*, which feels no doubt at all any more?
+
+**Must then in the Believing be *such a certain Confidence*, which feels no doubt at all any more?**
+
+**That cannot be in this Life in the Believing.** For the Heart *often* feels doubting thoughts, specially in heavy long-lasting Temptations of Sin and God's Wrath. But Faith is therefore so described, *that we may see what and how it shall be, and after which we shall strive* — namely, for ever and ever to fight and strive with Unbelief, and let ourselves be *more certain of the Grace-Promise together with Christ's Merit* than of all that our *blind Reason and corrupted Heart* says: *"Let his Word be to thee more certain, and though thy Heart speak pure No, yet let it not grieve thee"* — as the Christian Church sings.
+
+Afterwards, that we may know that whatever Doubt still remains in the Heart, that pertains *not to Faith*, but to the **Flesh**, wherein nothing good — on account of Sin — dwells. The Believing therefore lament their Weakness, and comfort themselves meanwhile: **God imputes not the Weakness even to the weak-in-Faith for Christ's sake, but forgives out of Grace, and will *increase* the Faith in them from day to day**, etc.
+
+— ❦ —
+
+## Question 10. Do Faith and Promise belong together?
+
+**Do Faith and Promise belong together?**
+
+**Yes indeed.** **Promise and Faith belong together.** For where no Promise is, there no Faith can be; and where no Faith is, there is the Promise of no use to us.
+
+Faith, however, is not at all times equally firm, but at times *assaulted and weak*. But the Promise, as *God's Word*, remains ever equally firm. Wherefore David has *chiefly* on this account been named ***Chizkam*** — *"strengthened"* — because he has the firm Promise (**2 Sam. 23**), and *holds the same firm with Faith*, or *grasps it*.
+
+— ❦ —
+
+## Question 11. How does Faith behave in bodily matters?
+
+**How does Faith behave in bodily matters?**
+
+**Faith doubts not at God's Good Will toward his Person**, and yet in bodily matters *sets God no measure nor manner how he shall help*. **Matt. 8:2**: *"So thou wilt, thou canst well cleanse me."* **Rom. 8:26**: *"We know not what we shall pray,"* etc. If it be needful, so shall he help; if not, so shall his Holy Will be done.
+
+— ❦ —
+
+## Question 12. Which are the chief Properties of Faith?
+
+**Which are the chief Properties of Faith?**
+
+**The Holy Scripture chiefly ascribes to Faith these Properties:**
+
+**First**: that Faith is such a Confidence which looks upon the **Grace-rich Promises of the Gospel** — as in which God the LORD *comfortingly offers his Grace, Forgiveness of Sins, and Eternal Life*. **Matt. 11:28**: *"Come unto me, all ye who are weary and heavy-laden — I will refresh you."*
+
+For where these or the like *Grace-Promises* were not by God revealed and given, we could not comfort ourselves of the *gracious Forgiveness of Sins* and *Reconciliation with God*. Forasmuch as no man could know how he is disposed toward us Men, if it were without his Word.
+
+**Second**: She indicates that Faith **grounds itself in the matter of Justification before God *not at all* on one's own works or merit**, but relies *only and alone* on the *precious Merit and holy Obedience of Jesus Christ* — which he *imputes to himself* and *with sure Confidence believes to be his own* — just as if he had himself done all that Christ performed for him. **Phil. 3:9**: *"That I may gain Christ, and be found in him — that I have not my Righteousness which comes from the Law, but that which comes through the Faith on Christ, namely, the Righteousness that is from God imputed to Faith."* — **Eph. 3:12**: *"Through Christ we have an access to God."* — **Rom. 4:5**: *"To him, however, that dealeth not with works, but believeth on him who justifieth the Godless, is his Faith reckoned unto Righteousness."* — **Rom. 3:26–27**: *"That he alone be Righteous, and make Righteous him who is of the Faith on Jesus. Where remains now the Boast? It is nothing. Through what Law? Through the Law of Works? Not so, but through the Law of Faith,"* etc.
+
+So Faith concludes that **God is not alone gracious to others, but also to *thee thyself*** — to *thee*, I say — will forgive thy Sin out of Grace, for Christ's sake, *without thy merit*, — will bestow on thee the Kingdom of Heaven, Holy Spirit, and Eternal Life *out of pure Grace* — for **the Righteous lives of his Faith** — **Rom. 1:17**.
+
+**Third**: She reports that Faith in all matters — where he has to do with God, whether concerning Temporal or Eternal — grounds himself *alone on God's Mercy and Christ's Merit*. For he knows out of God's Word that God *neither hears Prayer, nor otherwise helps in needs*, unless such come to pass **for the sake of Christ, the only Mediator**. Wherefore at **Matt. 21:22** stands: *"All that ye pray in Prayer, so ye believe, so shall ye receive."* Item, **John 16:23**: *"So ye shall pray the Father anything in my Name, so will he give it to you."* **Matt. 9:2**: *"Be of good cheer, my Son; thy Sins are forgiven thee."* **Luke 9** [8:50]: *"Only believe, so shall thy daughter become whole."* For it is *impossible* that a Heart with joyful and sure Confidence can pray anything of God, unless it beforehand know that it is through Christ *reconciled with God, and has Forgiveness of Sins*.
+
+**Fourth**: She teaches that Faith **receives the Grace-Promise in Christ Jesus, and relies certainly thereon, also before and beforetimes he feels the Gracious Help**. **John 4:50**: *"The Man believed the Word, and went his way."* **Abraham**, **Rom. 4:18**, *"believed in Hope, where nothing was to be hoped."* For though the Heart *not soon feels* the Help, or does not from that hour feel Peace in Conscience — but *fights and strives* yet with the Temptations of Sin, God's Wrath, and the like — yet Faith holds it *for certain* that the Grace-Promises are *certain, and waver not*. And upon this Combat finally follows also *Peace of Conscience* — **Rom. 5:1**.
+
+**Fifth**: She reports that Faith has also this Property — that he **grows and increases from day to day** — **2 Pet. 3:18** — lets also not Sin rule over him, but *mortifies the Flesh with its evil Lusts and Desires* — **Rom. 8**. This report mightily *refutes the cry of the Papists*, who impute to us that we should teach a *dead Faith*. As it also overthrows the delusion of the ***Mouth-Christians***, who hold it for enough — the Faith on Christ is only a *bare thought of the Heart*, and it is enough if one only *says* he believes, though in the meantime he neither *knows nor understands* what the right Faith is, and what its Properties are, and also *persists and goes on* in Sins against Conscience.
+
+— ❦ —
+
+## Question 13. Is one then made Righteous before God *alone through Faith on Christ*?
+
+**Is one then made Righteous before God *alone through Faith on Christ*?**
+
+**Yes indeed.** We teach also, that one shall *do good works*, and that one shall *love and serve the Neighbour* — but *distinctly*, when one asks of *good works* **outside** of this chief Article concerning the gracious Forgiveness of Sins.
+
+Here, however, is the question: *whereby are we made Righteous, and obtain Eternal Life?* — To which we answer with the Apostle Paul: ***Sola fide in Christum nos pronunciari iustos, non operibus legis aut charitate, etc.*** — *"Alone through Faith on Christ are we pronounced Righteous, not through the Works of the Law or Love"* — not that we *reject* good works or love, but that they shall not be *mixed* into this Article of Justification before God.
+
+- **Rom. 3:28** — *"So we hold now that Man is made Righteous, without the works of the Law, alone through Faith."*
+- **Gal. 2:21** — *"For if through the Law comes the Righteousness, then is Christ died in vain."*
+- **Eph. 2:8–9** — *"By Grace ye are made blessed, through Faith; and the same not of you — it is God's Gift — not of works, that no one may boast."*
+
+— ❦ —
+
+## Question 14. Why does Faith alone make Righteous?
+
+**Why does Faith alone make Righteous?**
+
+**Faith alone makes Righteous** *therefore*: **because he alone grasps Christ**. In Sum: Faith makes not Righteous *as a Work*, but therefore that **he grasps and receives God's Mercy offered in Christ**. — **Rom. 4:5**: *"Whoso believes on him who justifieth the Godless, to him is his Faith reckoned unto Righteousness."*
+
+— ❦ —
+
+## Question 15. Is it then needful and right that one hold to the doctrine of the ***Exclusivis***, or that *alone Faith makes Righteous*?
+
+**Is it then needful and right that one hold to the doctrine of the *Exclusivis*, or that alone Faith makes Righteous?**
+
+**In every way it is right and needful.**
+
+**First**: that to Christ — the *blessed Seed* — **all Honour of Justification alone belongs**. — **Gen. 22:18**: *"Through thy Seed shall all peoples on Earth be blessed."* — **Gal. 3:16**: *"He says not: through the Seeds, as through many; but as through one — through thy Seed, which is Christ."* — **1 Cor. 1:30**: *"Christ is made unto us of God, Wisdom, Righteousness, Sanctification, and Redemption."* — **Rom. 3:27**: *"Where remains now the Boast? It is nothing."* Abraham had many good works — **Rom. 4** — but before God in this Article he *cannot and dare not boast*. In sum: **Christ is our *formalis benedictio, unctio, vita, salus — quia ei adhaeremus per fidem***.
+
+**2.** That the troubled Consciences may have **constant Comfort**, and *hold themselves up* against the Temptations of Sin and God's Wrath. — **Ps. 130:4**: *"With thee is the Forgiveness."* Wherefore thou findest not the Forgiveness of Sins in Moses, in the Law, or in thy works — but in the Merit of Christ *alone*. For upon that alone can thy troubled Conscience *rely*; and upon nothing else at all. It is also *impossible* that thou shouldst have constant Comfort for thy troubled Conscience, if thou groundest not thyself *alone on Christ's Obedience and Merit*.
+
+**3.** This Doctrine must also be preserved (that Man alone through Faith be made Righteous, for Christ's sake) — for when one undertakes to be Righteous *from the Law or works*...
+
+— ❦ —
+
+*[Chapter XXI Faith continues. Translation continues in Rebuild-Tranche 18.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
