@@ -10447,6 +10447,260 @@ Thus has **Satan under the Papacy caused many Signs and Wonders through his Inst
 
 **By no means.** For **such Works stem from the Devil**. So *these People misuse Christ's Name*, and God permits *for Punishment* that they *at times through the Devil's driving accomplish something*.
 
+— ❦ —
+
+# XXXV.
+
+# Of Cross and Suffering.
+
+## Question 1. Wherefore is it needful to recognise this Doctrine?
+
+**Wherefore is it needful to recognise this Doctrine?**
+
+**First**, that Reason *out of and from itself knows not how to comport itself therein*, when it is not *beforehand informed from God's Word*.
+
+**Second**, that we *at the same time search out from God's Word* which is then the *right and steadfast Comfort* whereof one is to make use in the Cross and Suffering.
+
+**Third**, that we have *Cause to thank God for this Hearty, Useful, and Salutary Doctrine*.
+
+**Fourth**, that we may thereby be *especially moved to thank our Saviour Christ* — that he through his *holy bitter Suffering and Death* has *sanctified all our Suffering*, so that it *does not hurt us, but must serve to the best*.
+
+**Fifth**, that we may be prepared to *steadfastly comfort troubled and suffering Hearts out of God's Word* — **2 Cor. 1:4**: *"God comforts us, that we also may comfort those who are in all manner of Tribulation."*
+
+— ❦ —
+
+## Question 2. Is then the Christianity here on Earth *subjected to the Cross*?
+
+**Is then the Christianity here on Earth subjected to the Cross?**
+
+**Yes.** For the *whole Holy Scripture witnesses this, of the Old and New Testament* — **Psalm 38:17**: *"I am made for Suffering, and my Pain is ever before me."* **2 Tim. 3:12**: *"All those who wish to live godly in Christ Jesus must suffer Persecution."*
+
+Likewise witness also the **Examples of the holy Patriarchs, Prophets, Apostles, Martyrs, and of all Saints from the beginning**.
+
+Yea, the **Son of God himself, the Head of the Church**, was *subjected to the Suffering of the Cross* — yet not for his *own*, but for *another's* — that is, for the *Sin of the whole World* — **Isa. 53:5**: *"He is wounded for our Misdeed. The Punishment lies on him, that we might have Peace."*
+
+— ❦ —
+
+## Question 3. What is then the *Cross* of the Christians?
+
+**What is then the Cross of the Christians?**
+
+**It is all manner of Burden or Load, Spiritual and Bodily, inward and outward, which God lays on his own** — *for certain Causes, and for the Believing's best*. **Psalm 68:19**: *"God lays a Load upon us, but he also helps us."*
+
+— ❦ —
+
+## Question 4. How is then the *Cross* divided?
+
+**How is then the Cross divided?**
+
+**First**, some Sufferings are **Punishments of certain Sins** — whereof the **39th Psalm** speaks: *"When thou chastisest one, for Sin's sake, then his Beauty is consumed like Moths."* And hither belong *all Examples of Punishments in all Histories of Old and New Testament*, and in *other Histories* wherein is indicated *how God for Sin's sake has punished Men*.
+
+### Are then such Punishments of Sins commensurate?
+
+**By no means.** For the *Wage of Sin is Death* — **Rom. 6:23**. Though God at times punishes horribly, yet has no one to complain that God does him wrong, punishes too much, or too hard. Yea, if we Men would reckon with God, we *could not answer him for one out of a thousand* — **Job 9:3**. Wherefore shall we let *God's Punishments urge us to Repentance*, that we may **humble ourselves under the mighty Hand of God** — **1 Pet. 5:6** — and *not much complain over the Hardness of the Punishments*, but *over the Multitude and Greatness of our Sins whereby such Punishments are caused*. **Jer. 30:15**: *"Why criest thou over thy Damage, and over thy desperately evil Pains? Have I not done thee this on account of thy great Misdeed, and on account of thy strong Sins?"* **Lam. 3:39**: *"How murmur the People in Life? Let everyone murmur against his Sin."*
+
+**Second**, some Sufferings are **upright Trials of the Believing**, whereby God tries their *Faith, Hope, Prayer, and Patience* — as at the *Examples of Abraham, Isaac, Jacob, Joseph, Job, Daniel*, etc., is to be seen. For God lays the Cross upon them, *not that they have earned it with special Sins*, but that he may have Cause (as said) to **prove their Faith and Patience**, and *to set upon them praiseworthy Examples of Steadfastness to others*.
+
+### Are then such Sufferings of the Believing an *Atonement for their Sins*?
+
+**Truly no.** For **Christ alone has with his Suffering atoned the Sins of us all** — **Isa. 53**. But they are, as said, **Exercises of Faith and other Virtues**.
+
+### Do then the Christians not suffer on account of *Misdeed*, as the others?
+
+**No.** For thus stands **1 Pet. 4:15–16**: *"None among you shall suffer as a Murderer, or a Thief, or an Evildoer, or as one who reaches into a strange Office. But if he suffer as a Christian, so let him not be ashamed, but honour God in such a case,"* etc.
+
+### Can then the Christians' Suffering also well be called a *Punishment*?
+
+**Yes.** It can well be so called, because the Christians *in their Flesh still have Sin*, which needs *to be crucified and mortified*; and that they, *through such Punishments or Chastisements, may be reminded to live in continual Repentance* — also that God at times *still temporally punishes upon them their previous Sins*, and *chastises them for their own best and others' Example*.
+
+And yet it *follows not straightway* that such Punishments or Bodily Chastisements are therefore an *Atonement or Payment for Sin*. For it is one thing to be *chastised or visited on account of the remaining Sins that still cleave in the Flesh*, or also on account of *previous committed Sins after Conversion temporally (as David and others)* punished or chastised — and *through such Punishments to atone Sin and still God's Wrath*, which **is possible to no one but the Son of God alone**.
+
+**Third**, it is quite a special Suffering when God, according to his gracious, Fatherly Will, makes some **Martyrs** — that they *for the Name and Witness of Jesus shed their Blood or lay down their Life*. **Rev. 6:9**: *"I saw under the Altar the Souls of those who were slain for the sake of God's Word, and for the sake of the Witness which they had."* Hither belong all *Examples of the right and holy Martyrs, both in Old and New Testament* — as the **Three Youths in the fiery Furnace**, the **Seven Maccabees**, **John the Baptist**, the **Holy Apostles**, **Ignatius**, **Polycarp**, **Babylas**, and the like *holy Martyrs of Jesus Christ*.
+
+**Fourth**, is now the **Suffering of Jesus Christ**, which alone bears this Honour-Title — that it is an **Atonement and Ransom** for our and the whole World's Sin — **Isa. 53:5**: *"He is wounded for our Misdeed's sake."*
+
+— ❦ —
+
+## Question 5. What is then the *Distinction* between Christ's and the Believing's Suffering?
+
+**What is then the Distinction between Christ's and the Believing's Suffering?**
+
+**A mighty and high Distinction.**
+
+**1.** After the Person. For **Christ is true God and Man**; the Saints, however, though they are indeed *Temples or Dwellings of God*, yet are they *neither God nor Almighty*; the Godhead is also *never personally united with them*. Whence also the *Suffering of the Saints concerns God only ***per relationem***, or thus*, because he *through Faith dwells in them*. On the contrary, it comes therefrom that **Christ's Suffering is so highly and greatly esteemed, because this Person who suffers is true God and Man**.
+
+**2.** In **Christ is no Sin at all**; the Saints however *bear the sinful Flesh still on their neck* — though through the Holy Spirit a *Renewal is begun in them* — wherefore they *still suffer as Sinners*.
+
+**3.** Christ has in his Suffering *out of Impatience or Unbelief not murmured against God*. But though in the Hearts of the Saints the Holy Spirit has *kindled a Joy in Tribulation* — **Rom. 5:3** — yet there *still runs among them much Weakness, Impatience, and Unbelief*. Wherefore they have to entreat, *that God reckon it not to them* — **Psalm 32:6**: *"For this shall all the Saints entreat thee."*
+
+**4.** Christ has *perfectly satisfied the Law*, and *accomplished all that is required of Man therein* — **Rom. 8, 10**. In the Saints however something is indeed *begun*, but it is and *remains in this Life imperfect* — **Rom. 7:18**: *"To perform I find not."* Wherefore no Man can boast that he *loves God above all things in Cross and Suffering*, and *for his sake bears all with a good Will*. For **Experience witnesses the contrary**.
+
+**5.** Christ has with his Suffering *perfectly atoned for the whole World's Sin*. The Saints however, or the Believing, *atone with their Suffering neither their own nor other People's Sin*. For **Sin can no one atone but he who is at the same time God**.
+
+**6.** Christ's Suffering is not only *meritorious*, but can also to *all poor penitent Sinners be reckoned for Salvation before God*, who *comfort themselves of the same in right Faith*. The Saints' Suffering however is *not meritorious*, can also *not be reckoned to others for Forgiveness of Sins and Salvation* — but is *only an Example of Patience and Hope*, wherein other suffering Christians can *mirror themselves*.
+
+— ❦ —
+
+## Question 6. How manifold is then the *right Christians' Suffering*?
+
+**How manifold is then the right Christians' Suffering?**
+
+**Twofold** — **inwardly in the Heart, or in the Soul**; and **outwardly on the Body, in Honour, Goods, Wife, Children, and all that they have**.
+
+Whence **Paul** — **2 Cor. 7:5** — speaks: *"Without were Fightings, within were Fears."* And the whole Scripture *up and down describes the Christians' Suffering thus*: that they at times *inwardly in the Heart feel Anguish* — as **Psalm 6, 18, 22, 42** — at times *are plagued on the Body or otherwise* — as **Job, David** — in their *manifold Misery*.
+
+— ❦ —
+
+## Question 7. Whence comes however *in general* all Suffering of Men?
+
+**Whence comes however in general all Suffering of Men?**
+
+**The efficient Cause of all Suffering is *Sin*, in which we all together are conceived, born, and live** — namely **Original and Actual Sin**. **Psalm 90:8**: *"Thou settest our unrecognised Sin in the Light, before thy Countenance."* **Jer. 2:19**: *"It is the fault of thy Wickedness that thou art so smitten, and of thy Disobedience that thou art so punished. Thus must thou become aware and experience what Sorrow and Heart-suffering it brings to forsake the LORD thy God."* More Sayings hereon findest thou at **Psalm 6, 39, 107; 2 Sam. 12**; in the Lamentations of **Jer. cap. 1, 2, 3, 4**, and elsewhere.
+
+### Objection. Have not the Heathen taught rightly hereof, when they said: Death and other Misery comes because Nature is thus created or made, that it must pass away, as an Apple or an Animal?
+
+**No.** They have not taught rightly hereof. For **God has not thus created Man**, but *through Sin has Man brought himself to such Sorrow* — **Rom. 5:12**: *"Through one Man is Sin come into the World, and Death has so pressed through unto all Men."*
+
+**In part** they have ascribed such Evil to the **Influence of the Stars**. But it comes all from Sin — in the *Book of Creation, chapter 3*.
+
+Thereafter they have given out that *much befalls Man by chance*. But the **LORD Christ** speaks: *"Not a Hair falls from our Head without the Will of the Heavenly Father"* — **Matt. 10:29–30**.
+
+Others have given out that it comes from ***Fato*** (Fate), and *must thus happen*, etc. But this is all *wrong*. For the Scripture witnesses that **Adam and Eve sinned out of free Will** — **Gen. 3**. So we also are *not forced to Sin*, but *sin willingly with the Desires of the Flesh* — **Matt. 15:19**: *"Out of the Heart come evil Thoughts."*
+
+When the **Philosophers** were asked whence it comes that *many a bad Rogue fares so ill*, they have indeed answered rightly, that *it is his Sin's Fault* — but yet have known *nothing of the Corruption of Nature*.
+
+Wherefore we are *by so much the more bound to thank God*, that he has *revealed such matters to us in his Word*.
+
+In addition to this — that Sin and one's own Will is Cause of all Misery — there is also this: that **Satan stokes fire with us poor Men**, and *incites us to Sin* — **John 8:44**: *"The Devil is a Murderer from the beginning, and a Father of Lies,"* etc.
+
+— ❦ —
+
+## Question 8. How comes it however that God lets the *Believing Christians* — who in Christ Jesus are his Children — be laid with so much Cross and Suffering?
+
+**How comes it however that God lets the Believing Christians be laid with so much Cross and Suffering?**
+
+**Upon this Question one cannot rightly answer outside of God's Word.** Reason can also *not at all fit itself into the following Argument*:
+
+**The Pious it shall go well with.**
+**The Believing are pious.**
+***Ergo***: **It shall always go well with them — and yet it happens not so.**
+
+The ***maior*** must be **distinguished**: *The Pious or the Righteous it shall go well with* — namely, *those who are perfectly pious and righteous*. Of these however *there are none in this World* — for there is *no one who has perfectly fulfilled the Law* — **Rom. 7:18**: *"To perform I have not."*
+
+Concerning the ***minor***: though the *Believing are pious and righteous through Faith in Christ*, and *through the Holy Spirit a new Obedience is kindled in them* — yet is it only a *begun Work*, and much *Weakness still runs among it* — **Rom. 7**. Wherefore it is no wonder that they are *laden with Cross and Misery*. **In the future Life they shall be perfectly pious** — there shall they also be *without all Cross and Misery*.
+
+But *in the meantime it is however very well with them*, also *when they are laden with the very greatest Burdens and Anfechtungen*, etc.
+
+**First**, therefore: they have and keep *nevertheless the one gracious God through Christ* — **Rom. 5:1**.
+
+**Second**, they have in the Cross **access to God** — **Rom. 5:2** — can *lament to him their Needs*.
+
+**Third**, they have **God himself with them in Need** — **Psalm 91:15**: *"I am with him in Need,"* etc.
+
+**Fourth**, they have the *Comfort of the Holy Spirit in the Heart*, who comforts them in all Needs — **Rom. 5:5** — and *with unspeakable Sighing intercedes*.
+
+**Fifth**, the LORD **lightens the Suffering to them**, or *helps them entirely out of it* — **Psalm 34:19**: *"The Righteous must suffer much, but the LORD helps him out of it all."*
+
+**Sixth**, finally, he **delivers them from all Evil**, and gives them *eternal Life and Salvation*. **Luke 16:22**: He takes **Lazarus** out of all Misery, and gives him the Kingdom of Heaven. And in Sum, it is with the Believing *well in Suffering, yea also in Death*. For it must all *serve to the best*, and cannot separate them from the Love of God in Christ Jesus — **Rom. 8:28**: *"We know that to those who love God, all things serve to the best — to those who are called according to the purpose."*
+
+So now are these the **Causes wherefore the LORD lets it come to pass that it commonly goes ill with the Christians in this Life**:
+
+**First**, that they *before all other Men* may **recognise the wretched Corruption of Human Nature**, and *learn to heartily lament* the same — which the *Children of this World do not*, who *neither regard nor fear Sin or God's Wrath greatly*. **Psalm 90:7–8**: *"That makes thy Wrath, that we so pass away, and thy Fury, that we so suddenly must depart. For thou settest our Misdeed before thee."* **Lam. 1:5**: *"The LORD has made her full of Sorrow, on account of her great Sins."* Item: *"My heavy Sins are awake through his Power."*
+
+**Second**, that also in the Believing there are *still many Failings — Security, Impatience, Slackness in Prayer, Vengeance, evil Lusts, and the like* — these also need it well, that *God visits, chastises, and defends* — **Psalm 89:32–33**: *"I will visit their Sin with the Rod, and their Misdeed with Plagues; but my Grace will I not turn from them."*
+
+— ❦ —
+
+## Question 9. Who are however the *Instruments* which let themselves be used against us?
+
+**Who are however the Instruments which let themselves be used against us?**
+
+**That is Satan, and the evil World**, which God permits to *plague the God-fearing*. He nevertheless *sets them a Goal* which they *cannot overstep* — as Job's History clearly witnesses. Job also, though he well knows that Satan is his *Adversary and Plaguer*, yet speaks: *"The LORD has given, the LORD has taken."* And he says **not**: *"Satan has done it"* — **Job 1:21**.
+
+Satan however, and the World his Bride, have *no other Cause than Hate and Enmity against Christ, his Word, and the same's faithful Disciples and Confessors* — whom they *cannot suffer or bear*, but *would gladly have Dead and cleared away*.
+
+— ❦ —
+
+## Question 10. Which are however the *Final Causes* of the Cross of the Believing?
+
+**Which are however the Final Causes of the Cross of the Believing?**
+
+**First**, that they in Cross and Suffering may **study the ***Praxin Theologiae*** (Practice of Theology)**, and *learn to practise and use* what they *have gathered from God's Word*. Wherefore the **119th Psalm** speaks: *"It is good for me, LORD, that thou hast humbled me, that I may learn thy Statutes."* **Jer. 31:18**: *"Thou hast chastised me, and I am chastised."* God's Word teaches much of *Faith, Hope, Patience, Prayer*, etc. But what these Pieces are, one *learns nowhere better to understand than in Cross and Suffering* — as such is to be seen in **David** and in *all the Believing's Histories and Life*.
+
+**Second**, that *Faith, Hope, Patience, Calling-upon*, etc., **may grow in such Exercise**, be *increased*, and *from day to day become stronger*. **Jehoshaphat** — **2 Chron. 20** — would never have prayed so devoutly, had the Cross not done it. So also **David, Daniel**, and others would never have made such beautiful Prayers, if the *Anfechtung and their manifold Suffering had not driven them thereto*. Whence also **Peter** — **1 Pet. 1:6–7** — speaks: *"Ye are now for a little time sorrowful, that your Faith may be found upright and much more precious than the perishing Gold that is tried through the Fire,"* etc.
+
+**Third**, that they may **more take to heart and lament the Corruption of Nature and the Greatness of the Sins which is in Nature** than the *secure World*, which asks neither after Sin nor after God's Wrath. **Psalm 78:34–37**: *"When he slew them, then they sought him, and turned early to God; and remembered that God was their Rock, and God the Highest their Redeemer — and flattered him with their Mouth, and lied to him with their Tongue, but their Heart was not steadfast to him, and they held not fast to his Covenant,"* etc. **Micah 7:9**: *"I will bear the LORD's Wrath, for I have sinned against him."* **Psalm 38:17**: *"For I am made for Suffering, and my Pain is ever before me — for I show my Misdeed, and care for my Sin."*
+
+**4.** That the *manifold Sufferings of this Time* are a *sure Witness of the Immortality and eternal Holiness* which shall be revealed at the Believing. **Rom. 8:18**: *"I hold this for it, that the Sufferings of this Time are not worthy of the Glory that shall be revealed at us."* **2 Tim. 2:11**: *"This is certainly true: If we die with, so shall we live with,"* etc. The **Suffering of the Prophets, Apostles, and Martyrs** are *infallible Witnesses of the future Life at them*; on the contrary, however, *Witness of coming Damnation at their Persecutors* who *have not been converted in this Life*.
+
+**5.** That the Christians' Suffering is also a **Witness that it is not for them about this Life and its Delights**, but *alone about God's Honour and eternal Life*. And that they pledge not to the Gospel *to catch Wealth or Delight thereby*, but that they *hold it truly for God's Word*, and would *rather be therefor of Death* than *give it up*. As such is *at all Prophets, Apostles, and Martyrs Example sufficient to trace*.
+
+— ❦ —
+
+## Question 11. What works however the *Cross*?
+
+**What works however the Cross?**
+
+**Commonly it brings Sorrow of Heart.** **Psalm 42:5**: *"What grievest thou, my Soul, and art so unrestful in me,"* etc. It **reveals also the Thoughts of the Hearts** — **Luke 2:35**: *"And a Sword shall pierce through thy Soul, that many Hearts' Thoughts may be revealed."*
+
+— ❦ —
+
+## Question 12. Why does God however punish Sin *in this Life*, since he wills to punish in the future World?
+
+**Why does God however punish Sin in this Life, since he wills to punish in the future World?**
+
+**First**, that his *righteous Wrath and Zeal against Sin may be traced* — **Exod. 20:5**: *"I, the LORD thy God, am a Jealous God."*
+
+**2.** That he may *preserve the Governments in Peace and Rest*. For if the *Evil should not be punished at all*, then no Government among Men could long endure.
+
+**3.** As **Example to others**: David's Adultery and Murder is punished — **2 Sam. 12** — that others should *mirror themselves therein*, and *guard themselves from the like Sins*. **Absalom** hangs on the Tree, and is *stabbed to Death*, as a *Warning to all disobedient Children* — **2 Sam. 18**.
+
+**4.** **To indicate that another Judgment is yet at hand.** For the *brief Punishments upon the Evil* are only *indications what horrible Punishments they shall in the future World (if they are not converted in this Life) sustain*.
+
+**5.** God will also have that such Examples of Punishments *shall all lure us to Repentance*, and *warn against Security* — for it soon can happen that we *fall thither and sin, when we walk not carefully and in God's Fear*.
+
+— ❦ —
+
+## Question 13. What are the *Virtues* needful in the Cross?
+
+**What are the Virtues needful in the Cross?**
+
+**First**, **true Faith in Christ**, that we also in Suffering may be *certain that God is gracious to us for Christ's sake*, and *therefore is not angry with us*, though he *chastens us well* — for the *Child that he has dear, that he chastises* — **Prov. 3:12**.
+
+**2.** **Patience** — **Rom. 5:3–5**. For Patience brings Experience; Experience however brings Hope; and Hope lets not come to shame. **Psalm 27:14**: *"Wait for the LORD; be of good comfort and undaunted, and wait for the LORD."* **Psalm 130:5**: *"I wait for the LORD, my Soul waits,"* etc. **Tobit 2:12**: *"Such Tribulation let God come over him, that his Descendants might have Examples of Patience."*
+
+**3.** **Prayer.** This is especially thereto needful, that we may be *strengthened in Faith*, *comforted in Patience*, to *wait upon the dear God*. **Isa. 26:16**: *"LORD, when Tribulation is there, so they seek thee; when thou chastisest them, so they call anxiously."*
+
+**4.** **Perseverance unto the End.** **Psalm 130:6**: *"My Soul waits for the LORD, from one Morning-watch to the next."* *"He who perseveres unto the End shall be blessed"* — **Matt. 24:13**.
+
+— ❦ —
+
+## Question 14. Wherewith shall then a Christian *in general in all his Suffering* comfort himself?
+
+**Wherewith shall then a Christian in general in all his Suffering comfort himself?**
+
+**First**, that he knows: **It is God's good Will that it thus goes with him**, and that it happens *not by any chance* — **Matt. 10:29–30**: *"No Hair falls from your Head without the Will of your Heavenly Father."* **Psalm 68:19–20**: *"Praised be the LORD daily; he lays a Load upon us, but he also helps us. We have a God who helps, and a LORD LORD who delivers from Death."*
+
+**2.** That it is a *precious glorious Thing* that a Christian in Cross and Suffering *is patient and submits himself to God*. **Lam. 3:26–29**: *"It is a precious Thing to be patient, and to hope upon the Help of the LORD. It is a precious Thing to a Man that he bear the Yoke in his Youth — that a Forsaken be patient when something overtakes him, and stick his Mouth in the Dust, and expect Hope."*
+
+**3.** That he suffers with a **good Conscience** — **2 Cor. 1:12**: *"Our Boast is that — namely, the Witness of our Conscience."*
+
+**4.** That he knows he has a **gracious God**, and *is God's Child through Christ*, though he is *overshadowed with manifold Cross*. **Rom. 5:1–3**: *"We have Peace with God through our LORD Jesus Christ — through whom we also have Access in Faith to this Grace,"* etc. And *we glory in Tribulation*.
+
+**5.** That he is *sure that God himself with his Protection and Comfort is with him in Need*. **Psalm 91:15**: *"I am with him in Need."* **John 14:18**: *"I will not leave you Orphans."* **Matt. 28:20**: *"I am with you unto the End of the World."* **Isa. 41:14**: *"Fear not, thou little Worm Jacob, thou poor heap Israel — I help thee, saith the LORD."* Item: *"Fear not, I am with thee, turn not aside, for I am thy God,"* etc.
+
+**6.** That he is *assured of the eternal Deliverance from all Evil, and of the coming Glory in Christ Jesus*. **Rom. 8:38–39**: *"I am sure, that neither Death nor Life, neither Angels nor Principalities, nor Powers, neither Present nor Coming, neither High nor Deep, nor any other Creature may separate us from the Love of God, which is in Christ Jesus, our LORD."*
+
+**7.** He has also for himself the **Examples of all Saints who have been before him**, and *knows certainly that none of the same has been forsaken who have hoped upon the LORD* — **Psalm 25:3**. Wherefore *it will also at him not fail*. **Psalm 34:6**: *"When this Wretched cried, the LORD heard,"* etc. **Judith 8:22**: *"Comfort the People, that they consider that our Fathers also were tested, that they might be tried, whether they served God from the Heart. Remind them how our Father Abraham was manifoldly tested, and became God's Friend, after he was proven through manifold Anfechtung. So also were **Isaac, Jacob, Moses**, and all who have loved God, steadfast, and had to overcome much Tribulation."*
+
+**8.** That he is *informed of the Final Causes* — wherefore the Cross is good, and that it *serves him in many ways*. Hither belong the beautiful Sayings **Tobit 3**: *"When thou art angry, thou showest Grace and Goodness, and in the Tribulation forgivest thou Sin — to those who call upon thee."*
+
+And again: *"This I know for certain: whoever serves God, he is comforted after the Anfechtung, and delivered out of the Tribulation, and after the Chastisement he finds Grace. For thou hast not Delight in our Ruin — but after the Storm thou lettest the Sun shine again, and after the Howling and Weeping thou pourest us with Joy."*
+
+**9.** That he reminds himself, it is *far better to suffer with all Saints than to rejoice with the World* — inasmuch as the *Christians' Suffering shall be turned into Joy* — **John 16:20**.
+
+**10.** That **God is faithful, and lets not his own be tested above their ability** — but *makes that the Testing takes such an End that they can bear it* — **1 Cor. 10:13**. **Lam. 3:31–33**: *"For the LORD casts not away eternally, but grieves indeed, and pities again according to his great Goodness. For he plagues and grieves Men not from the Heart."* Ibid.: *"Thou wilt indeed think thereon; for my Soul says it to me, this I take to Heart, therefore I still hope. The Goodness of the LORD is that we are not entirely out; his Mercy has yet no End, but is new every Morning — and thy Faithfulness is great. The LORD is my Portion, says my Soul, therefore will I hope in him. For the LORD is friendly to him that waits upon him, and to the Soul that seeks him."*
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
