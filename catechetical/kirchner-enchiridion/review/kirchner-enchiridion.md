@@ -177,7 +177,7 @@ A working English edition translated by
 
 |  | Page |
 |:---|---:|
-| **Hauptstück I · On Holy Scripture, or the Word of God** | 21 |
+| **Chapter I · On Holy Scripture, or the Word of God** | 21 |
 | &nbsp;&nbsp;&nbsp;§ 1. Whence it is proven that the Christian religion alone is the true religion | 21 |
 | &nbsp;&nbsp;&nbsp;§ 2. What God's Word or Holy Scripture is | 23 |
 | &nbsp;&nbsp;&nbsp;§ 3. The chief chapters of Scripture: Law and Gospel | 24 |
@@ -199,75 +199,75 @@ A working English edition translated by
 
 |  | Page |
 |:---|---:|
-| **Hauptstück II · On God** | 39 |
+| **Chapter II · On God** | 39 |
 | &nbsp;&nbsp;&nbsp;§§ 1–10. How God is to be known · what God is · his four properties · one God · three Persons against Arius/Macedonius/Sabellius · against Jews and Turks · inward distinction of Persons · sum of the mystery · necessity for salvation · the Person of the Father | 39 |
-| **Hauptstück III · On the Person of Our Lord Christ** | 55 |
+| **Chapter III · On the Person of Our Lord Christ** | 55 |
 | &nbsp;&nbsp;&nbsp;§§ 1–23. Christ true God + true man · Mary Theotokos · Chalcedonian Definition · communicatio idiomatum · genus maiestaticum · caro vivifica · Christ's knowledge and invocation according to the human nature · Ascension · Right Hand of God as no *Locus Physicus* · state of Humiliation and Exaltation | 55 |
-| **Hauptstück IV · On the Office of Christ** | 115 |
+| **Chapter IV · On the Office of Christ** | 115 |
 | &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103) · the redeemed-sinner exempla — Baptism and Supper as means of appropriation | 115 |
-| **Hauptstück V · On the Kingdom of Christ** | 127 |
+| **Chapter V · On the Kingdom of Christ** | 127 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Threefold Kingdom (grace / power / glory) · spiritual attributes · Christ the meek King · extent · fivefold work · against Anabaptist externalisation · three differences from earthly kingdoms · practical use | 127 |
-| **Hauptstück VI · On the Eternal Priesthood** | 137 |
+| **Chapter VI · On the Eternal Priesthood** | 137 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Christ our High Priest per Ps. 110 · fourfold function · sevenfold contrast Aaronic vs Christian priesthood · propitiatory vs spiritual sacrifices (against the Mass) · the priesthood of all believers · against the papal claim · use | 137 |
-| **Hauptstück VII · On the Holy Spirit** | 147 |
+| **Chapter VII · On the Holy Spirit** | 147 |
 | &nbsp;&nbsp;&nbsp;§§ 1–8. Third Person, from Father and Son via Word and Sacraments · fivefold proof of divine Personhood · four chief works · given through the *verbum externum* (against Schwärmer) · three marks of possession · the Spirit's help in weakness · fruits of the Spirit · use | 147 |
-| **Hauptstück VIII · On Creation (and Providence)** | 157 |
+| **Chapter VIII · On Creation (and Providence)** | 157 |
 | &nbsp;&nbsp;&nbsp;§§ 1–12. Trinity as Creator · *creatio ex nihilo* · Six Days · why God created · pre-Fall goodness · divine sovereignty & freedom · perishing of the world through fire (2 Pet. 3) · Providence in four modes · four *regimens* (spiritual / ecclesiastical / domestic / **political**) · three grounds of Providence · special care for the Church · uses against Epicurus, Stoics, and Peripatetics | 157 |
-| **Hauptstück IX · On the Angels of God** | 173 |
+| **Chapter IX · On the Angels of God** | 173 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Angel as office of messenger · nature (image not essence) · two kinds · wiser and mightier than devils · principal office (protect Church + worldly government + household) · not to be worshipped · why they seem hidden | 173 |
-| **Hauptstück X · On the Evil Angels (Devils)** | 181 |
+| **Chapter X · On the Evil Angels (Devils)** | 181 |
 | &nbsp;&nbsp;&nbsp;§§ 1–11. *Teufel = Lästerer* · demonic hierarchy · six characteristics (mighty / thousand-arts / liars-and-murderers / envious / melancholy / corrupting) · six pieces of the spiritual armour per Eph. 6 · Satan has no power over God's servants · why God permits demonic trial · against Papist exorcism · whether Devils are saved · where Evil Spirits dwell · Christian consolations | 181 |
-| **Hauptstück XI · On Man before the Fall** | 195 |
+| **Chapter XI · On Man before the Fall** | 195 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Man as God's creature · created by the Trinity in counsel · body from *Aphar* + soul from divine breath · woman from Adam's rib · Image of God as *righteousness and holiness* per Paul · seven attributes of the original state · Image as gift not essence · Man's purpose (know / honour / praise / serve) | 195 |
-| **Hauptstück XII · On the Fall of Adam (with Free Will after the Fall)** | 203 |
+| **Chapter XII · On the Fall of Adam (with Free Will after the Fall)** | 203 |
 | &nbsp;&nbsp;&nbsp;§§ 1–13. Beginning of sin in Devil's temptation · seven consequences of the Fall · restoration via the *protoevangelium* (Gen. 3:15) · **Free Will after the Fall** — Augustine's *servum arbitrium* · eight reasons for spiritual inability · conversion as *pur Gnadenwerk Gottes* · not coercion but transformation · Luther's *purè passivè* clarified · use | 203 |
-| **Hauptstück XIII · On Sin in General** | 217 |
+| **Chapter XIII · On Sin in General** | 217 |
 | &nbsp;&nbsp;&nbsp;§§ 1–8. Sin defined (deficiency + inclination + work) · origin not from God · God's wrath · five fruits of sin · Original vs Actual sin (Augustine's four causes per *Enchiridion*) · Dominant vs Non-Dominant sin (Rom. 6 / Rom. 7) · the unforgivable sin against the Holy Spirit · use | 217 |
-| **Hauptstück XIV · On the Law of God** | 227 |
+| **Chapter XIV · On the Law of God** | 227 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Law · Two Tables · inability · **triplex usus legis (with POLITICAL use)** · new obedience · three sorts of hearers · ***Politia* seed** | 227 |
-| **Hauptstück XV · On the Gospel** | 245 |
+| **Chapter XV · On the Gospel** | 245 |
 | &nbsp;&nbsp;&nbsp;§§ 1–4. What Gospel is · opposition arises from Devil · Gospel establishes not overturns civil order · NT preaches Law with Gospel | 245 |
-| **Hauptstück XVI · On Justification of the Sinner before God** | 253 |
+| **Chapter XVI · On Justification of the Sinner before God** | 253 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Grace defined · three senses of "Righteousness" · works excluded · OT believers · fruits · against half-and-half · why the begun new obedience is not our righteousness before God | 253 |
-| **Hauptstück XVII · On Faith in Christ** | 263 |
+| **Chapter XVII · On Faith in Christ** | 263 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Certain confidence · doubt-remainder not fatal · Faith's own office (Promise) · never alone but distinguishable · Promise/Law · against papal doctrine of doubt · use | 263 |
-| **Hauptstück XVIII · On God's Eternal Election** | 273 |
+| **Chapter XVIII · On God's Eternal Election** | 273 |
 | &nbsp;&nbsp;&nbsp;§§ 1–4. Election in Christ · Augustine's caution · Rom. 9 · Christ + Word + Sacrament as means | 273 |
-| **Hauptstück XIX · On Good Works** | 281 |
+| **Chapter XIX · On Good Works** | 281 |
 | &nbsp;&nbsp;&nbsp;§§ 1–5. Source in the Spirit · heathen and Pharisaic works excluded · only God-commanded works · necessary as fruits · remaining sin | 281 |
-| **Hauptstück XX · On Love of Neighbour** | 289 |
+| **Chapter XX · On Love of Neighbour** | 289 |
 | &nbsp;&nbsp;&nbsp;§§ 1–4. Christ's command · 1 Cor. 13 properties · three degrees (fellow believers / all men / enemies) · summa of Second Table | 289 |
-| **Hauptstück XXI · On Prayer** | 295 |
+| **Chapter XXI · On Prayer** | 295 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · Christ our sole Mediator (against saint-invocation) · Faith necessary · the Lord's Prayer · circumstances · use | 295 |
-| **Hauptstück XXII · On the Sacraments in General** | 305 |
+| **Chapter XXII · On the Sacraments in General** | 305 |
 | &nbsp;&nbsp;&nbsp;§§ 1–8. Definition · two only · Christ's institution · elements · purpose · against "bare sign" · against Enthusiast rejection · against Papist seven | 305 |
-| **Hauptstück XXIII · On Baptism** | 315 |
+| **Chapter XXIII · On Baptism** | 315 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Not bare water · Faith not to substance but to right use · infant baptism · against papal *character indelibilis* · not repeated · use | 315 |
-| **Hauptstück XXIV · On the Holy Supper** *(polemical core, largest single locus of the whole book)* | 325 |
+| **Chapter XXIV · On the Holy Supper** *(polemical core, largest single locus of the whole book)* | 325 |
 | &nbsp;&nbsp;&nbsp;§§ 1–11. Definition · Christ's institution · *duplex res sacramenti* per Irenaeus IV.34 · manner of presence NOT spatial but supernatural · patristic witness (Ambrose, Epiphanius Ancoratus, Cyril, Hilary, Chrysostom, Irenaeus) · unworthy reception per Augustine *Contra Fulgentium* · **against Reformed Session-at-Right-Hand objection** · eight scriptural proofs · against withholding cup from laity · use | 325 |
-| **Hauptstück XXV · On the Catholic (Universal) Church** | 355 |
+| **Chapter XXV · On the Catholic (Universal) Church** | 355 |
 | &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · two marks (Word + Sacrament) · mere possession not enough · errs sometimes but keeps foundation · against papal *universalis episcopus* claim | 355 |
-| **Hauptstück XXVI · On the Power of the Keys** | 365 |
+| **Chapter XXVI · On the Power of the Keys** | 365 |
 | &nbsp;&nbsp;&nbsp;§§ 1–5. Matt. 16 + John 20 · Loosing Key · Binding Key · use through preaching + absolution + excommunication · against papal abuse | 365 |
-| **Hauptstück XXVII · On Repentance** | 371 |
+| **Chapter XXVII · On Repentance** | 371 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Definition · three parts (contrition + faith + new obedience) · continues lifelong · door always open · not to be deferred to death · three modes of confession · against papal auricular confession | 371 |
-| **Hauptstück XXVIII · On Scandal (*Ergernuß*)** | 383 |
+| **Chapter XXVIII · On Scandal (*Ergernuß*)** | 383 |
 | &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · sources (false prophets, Devil, cupidity, Antichrist) · consequences · three motives to shun · use | 383 |
-| **Hauptstück XXIX · On the Antichrist** | 389 |
+| **Chapter XXIX · On the Antichrist** | 389 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · papal identification (Smalcald II.iv + Treatise) · nine marks (Trent, wax-nose, saint-invocation replacing pagan gods, Mass, denial of cup, auricular confession, indulgences, *plenitudo potestatis*, persecution) · Satan's working · Christ's destroying · use | 389 |
-| **Hauptstück XXX · On the Cross and Suffering** | 397 |
+| **Chapter XXX · On the Cross and Suffering** | 397 |
 | &nbsp;&nbsp;&nbsp;§§ 1–3. Definition · six consolations · watchfulness | 397 |
-| **Hauptstück XXXI · On Secular Authority (Magistracy)** | 401 |
+| **Chapter XXXI · On Secular Authority (Magistracy)** | 401 |
 | &nbsp;&nbsp;&nbsp;§§ 1–9. Rom. 13 institution · three kinds of rulers (belly-servers / honour-seekers / godly) · fourfold office (Nurse of Church, Ps. 82 justice, Rom. 13 punish evil, outward peace) · no power against God · **limit of obedience (Acts 5:29 obey God rather than men; Daniel 3; refusing the Papacy)** · Christians as magistrates · Christians in trade with Golden Rule · use of Imperial Law · use | 401 |
-| **Hauptstück XXXII · On Marriage** | 415 |
+| **Chapter XXXII · On Marriage** | 415 |
 | &nbsp;&nbsp;&nbsp;§§ 1–5. Gen. 2 institution · against polygamy · six requirements · six goods (institution / procreation / help / remedy / *officina* of virtues / Ps. 127–128 blessing) · against papal denigration (Dan. 11:37 + 1 Tim. 4:1–3 as Antichrist marks) | 415 |
-| **Hauptstück XXXIII · On Death** | 423 |
+| **Chapter XXXIII · On Death** | 423 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. All die · four causes (wrath / warning / physician / longing) · Cyprian *De mortalitate*: *Mihi vivere Christus est, et mori lucrum* · not a substance · passage not end · weeping moderated | 423 |
-| **Hauptstück XXXIV · On Burial** | 429 |
+| **Chapter XXXIV · On Burial** | 429 |
 | &nbsp;&nbsp;&nbsp;§§ 1–7. Christian love · against Schoolmen on prayer for dead · Scripture examples (Gileadites, Patriarchs, Apostles) · place not prescribed · Augustine *De cura pro mortuis gerenda* I.12 · reproach of unburial · burial near martyrs' graves | 429 |
-| **Hauptstück XXXV · On the State of Souls after Death** | 435 |
+| **Chapter XXXV · On the State of Souls after Death** | 435 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Souls do not sleep · pious go to Christ (Luke 23:43; 2 Cor. 5:8; Phil. 1:23) · godless in torment (Luke 16:23) · Augustine *De pecc. mer.* I.28 no middle place · 1 Sam. 28 Samuel-appearance was Devil · Matt. 17 Moses+Elias special case | 435 |
-| **Hauptstück XXXVI · On Purgatory (Refuted)** | 441 |
+| **Chapter XXXVI · On Purgatory (Refuted)** | 441 |
 | &nbsp;&nbsp;&nbsp;§§ 1–5. Fable from Plato and Virgil · Augustine *Enchiridion* c. 69 only doubtful · 2 Macc. 12 not proof (apocryphal + speaks of Resurrection not Purgatory) · patristic ambiguity not scriptural ground · use | 441 |
 | **Locus XLIII · On the Resurrection of the Dead** | 447 |
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Scripture proofs · Paul's seven proofs at 1 Cor. 15 · whole man saved · at the Last Day · properties per 1 Cor. 15 · reprobate too | 447 |
@@ -282,11 +282,11 @@ A working English edition translated by
 
 ### *Working translation now covers the whole book (cv 5, 7–895)*
 
-*See Translator's Note § 5 for scope notes on the intermediate Hauptstück XXXI–XLIV that were surveyed but not developed in canvas-by-canvas detail; a future revision will fill them in.*
+*See Translator's Note § 5 for scope notes on the intermediate Chapter XXXI–XLIV that were surveyed but not developed in canvas-by-canvas detail; a future revision will fill them in.*
 
 |  | Approx. cv |
 |:---|---:|
-| Continuation of Hauptstück IV sinner-list + *Vom Reich Christi* (Kingdom of Christ) | 109–149 |
+| Continuation of Chapter IV sinner-list + *Vom Reich Christi* (Kingdom of Christ) | 109–149 |
 | *Von bösen Engeln* (evil angels — locus continues back to good angels) | ~150 |
 | *Von der wircklichen Sünde* (actual sin) | ~200 |
 | *Von der Rechtfertigung* (Justification) | ~250 |
@@ -363,30 +363,30 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 
 **This edition now covers the whole 1583 *Enchiridion* from title page through Eternal Life (locus XLVI). Tranches 3a–3c (shipping 31 August 2026, following the T2 sequence) extended the working translation across the remaining ~55% of the book by using representative canvas-sampling of each locus rather than exhaustive canvas-by-canvas Q&A rendering (as in T1 and T2). The result is a compact-but-doctrinally-complete rendering of every locus Kirchner treats.**
 
-**Caveat on completeness of representation.** The compact-sampling mode used in T3 renders each locus's chief points and characteristic Latin citations faithfully, but is *not* an exhaustive per-question, per-answer transcription of the source. Where T1 and T2 rendered ~7–12 canvases per Hauptstück in full Q&A depth, T3 typically renders 5–15 canvases per locus in *doctrinal summary form* — preserving Kirchner's numbered enumerations, Bible citations, patristic quotations (in Latin with English), and polemical thrusts, but compressing rhetorical amplifications. A future revision will re-open T3-loci for canvas-by-canvas Q&A treatment on Cheri's direction, matching T1–T2 depth throughout.
+**Caveat on completeness of representation.** The compact-sampling mode used in T3 renders each locus's chief points and characteristic Latin citations faithfully, but is *not* an exhaustive per-question, per-answer transcription of the source. Where T1 and T2 rendered ~7–12 canvases per Chapter in full Q&A depth, T3 typically renders 5–15 canvases per locus in *doctrinal summary form* — preserving Kirchner's numbered enumerations, Bible citations, patristic quotations (in Latin with English), and polemical thrusts, but compressing rhetorical amplifications. A future revision will re-open T3-loci for canvas-by-canvas Q&A treatment on Cheri's direction, matching T1–T2 depth throughout.
 
 **Intermediate loci XXXI–XLIV** — the source treats several additional loci between Cross-and-Suffering (XXX) and the eschatological block (Resurrection XLV, Hell XLV *bis*, Eternal Life XLVI), including the individual Last Things treated distinctly, Vocation, Marriage and the household, ecclesiastical discipline, feast-days, and preparation for death. These are noted in the ToC but not developed in this working edition; canvas-by-canvas OCR probing of the source between cv ~800 and cv ~850 would recover them for a future revision.
 
 An earlier draft of this section (pushed 2026-08-30 as commits `1bf51a7` + `381f862` + `dc654e5`) claimed to be **the complete Enchiridion**. That claim was catastrophically wrong. It was based on the BSB IIIF Presentation manifest for `bsb00020680`, which reports 108 total canvases and yields no other structural information. Direct probing of the per-canvas hOCR API on **2026-08-31** revealed that the same identifier serves canvases well past 108 — cv 109, 150, 200, 250, 300, 400, 500, 600, 700, 800, 850, 870, 880, 895 all return real body content — and the book's actual extent is approximately **895 canvases** (cv 900 returns only the BSB shelfmark stamp; cv 950 and beyond return HTTP 404). The manifest is broken; the book itself is roughly nine times larger than the manifest disclosed.
 
-Kirchner's *Enchiridion* is therefore not what the earlier note described as a "polemical Christological catechism" running four short Hauptstück in 108 canvases. It is a **fully comprehensive Lutheran systematic-catechetical handbook** of at least 46 numbered loci across ~895 canvases (~447 leaves = ~890 pp small octavo Fraktur), covering the whole range of Reformation dogmatics. The running-head "locus XLV" (*Von der Hell* at cv 870) and "locus XLVI" (*Vom ewigen Leben* at cv 880–895) confirm at least 46 loci; the true count may be higher.
+Kirchner's *Enchiridion* is therefore not what the earlier note described as a "polemical Christological catechism" running four short Chapter in 108 canvases. It is a **fully comprehensive Lutheran systematic-catechetical handbook** of at least 46 numbered loci across ~895 canvases (~447 leaves = ~890 pp small octavo Fraktur), covering the whole range of Reformation dogmatics. The running-head "locus XLV" (*Von der Hell* at cv 870) and "locus XLVI" (*Vom ewigen Leben* at cv 880–895) confirm at least 46 loci; the true count may be higher.
 
 ### What is shipped so far (Tranches 1 + 2a, cv 5, 7–140 = ~24% of the book)
 
 **Tranche 1 (2026-08-30)** — cv 5, 7–108:
 
 - **Title page + Widmungsvorrede an Elector Ludwig VI** (cv 5, 7–28) — the Nehemiah-typology dedication and the load-bearing Book-of-Concord binding at cv 27;
-- **Hauptstück I · *Von der Heiligen Schrifft*** (cv 29–44) — 14 numbered sections on Scripture, its authority, the interpretive rule, against Papist and Enthusiast (*Schwärmer*) errors;
-- **Hauptstück II · *Von Gott*** (cv 45–50) — 10 numbered sections on the Trinity;
-- **Hauptstück III · *Von der Person unseres HERREN Christi*** (cv 51–103) — 23 numbered sections on Christology, including the full Latin *Symbolum Chalcedonense apud Nicephorum* with facing English, the three *genera* of the *communicatio idiomatum*, the *genus maiestaticum* against Reformed rejection, the careful distinction between multipresence *per unionem personalem* and rejected substance-in-every-creature ubiquity, and the exegesis of the Right Hand of God as no *Locus Physicus* but the Divine Majesty itself;
-- **Hauptstück IV · *Vom Ampt Christi*** (cv 104–110) — the fourfold Office of Christ (Redemption + fulfilment of the Law + Preaching-and-Sacraments + sending of the Spirit) + appropriation through faith + comfort against great sin + full sinner-list closing (Adam and Eve, Manasseh, David, Peter, Magdalene, Paul, the thief) transitioning into Baptism-and-Supper as means of appropriation.
+- **Chapter I · *Von der Heiligen Schrifft*** (cv 29–44) — 14 numbered sections on Scripture, its authority, the interpretive rule, against Papist and Enthusiast (*Schwärmer*) errors;
+- **Chapter II · *Von Gott*** (cv 45–50) — 10 numbered sections on the Trinity;
+- **Chapter III · *Von der Person unseres HERREN Christi*** (cv 51–103) — 23 numbered sections on Christology, including the full Latin *Symbolum Chalcedonense apud Nicephorum* with facing English, the three *genera* of the *communicatio idiomatum*, the *genus maiestaticum* against Reformed rejection, the careful distinction between multipresence *per unionem personalem* and rejected substance-in-every-creature ubiquity, and the exegesis of the Right Hand of God as no *Locus Physicus* but the Divine Majesty itself;
+- **Chapter IV · *Vom Ampt Christi*** (cv 104–110) — the fourfold Office of Christ (Redemption + fulfilment of the Law + Preaching-and-Sacraments + sending of the Spirit) + appropriation through faith + comfort against great sin + full sinner-list closing (Adam and Eve, Manasseh, David, Peter, Magdalene, Paul, the thief) transitioning into Baptism-and-Supper as means of appropriation.
 
 **Tranche 2a (2026-08-31)** — cv 111–140:
 
-- **Hauptstück V · *Vom Reich Christi*** (cv 111–117) — the threefold Kingdom (grace / power / glory); spiritual, everlasting, and distributive character; five works; against Anabaptist externalisation; three (five) contrasts with earthly kingdoms;
-- **Hauptstück VI · *Vom ewigen Priesterthumb*** (cv 118–123) — Christ our eternal High Priest per Ps. 110; fourfold function; sevenfold contrast Aaronic vs Christian priesthood; propitiatory vs spiritual sacrifices (against the Mass); priesthood of all believers; against the papal arrogation of priesthood as *Gottslästerung*;
-- **Hauptstück VII · *Vom Heiligen Geist*** (cv 124–133) — third Person of the Godhead; fivefold proof of divine Personhood; four chief works; given through *Wort, Predigtamt, und Sacramenta* (the *verbum externum*, against the *Schwärmer*); three marks of possession; the Spirit's help in weakness; the fruits of the Spirit;
-- **Hauptstück VIII · *Von der Schöpffung*** (cv 134–140) — Trinity as Creator (*Opera Trinitatis ad extra sunt indivisa*); *creatio ex nihilo*; Six Days; divine sovereignty and freedom; perishing of the world through fire (2 Pet. 3); Providence in four modes; the **four regimens of divine governance** (spiritual / ecclesiastical / domestic / political); special care for the Church. §  9 gives the seed-passage of Lutheran two-kingdoms teaching, from which the fuller *Politia* / *Obrigkeit* treatment grows in the later Decalogue locus.
+- **Chapter V · *Vom Reich Christi*** (cv 111–117) — the threefold Kingdom (grace / power / glory); spiritual, everlasting, and distributive character; five works; against Anabaptist externalisation; three (five) contrasts with earthly kingdoms;
+- **Chapter VI · *Vom ewigen Priesterthumb*** (cv 118–123) — Christ our eternal High Priest per Ps. 110; fourfold function; sevenfold contrast Aaronic vs Christian priesthood; propitiatory vs spiritual sacrifices (against the Mass); priesthood of all believers; against the papal arrogation of priesthood as *Gottslästerung*;
+- **Chapter VII · *Vom Heiligen Geist*** (cv 124–133) — third Person of the Godhead; fivefold proof of divine Personhood; four chief works; given through *Wort, Predigtamt, und Sacramenta* (the *verbum externum*, against the *Schwärmer*); three marks of possession; the Spirit's help in weakness; the fruits of the Spirit;
+- **Chapter VIII · *Von der Schöpffung*** (cv 134–140) — Trinity as Creator (*Opera Trinitatis ad extra sunt indivisa*); *creatio ex nihilo*; Six Days; divine sovereignty and freedom; perishing of the world through fire (2 Pet. 3); Providence in four modes; the **four regimens of divine governance** (spiritual / ecclesiastical / domestic / political); special care for the Church. §  9 gives the seed-passage of Lutheran two-kingdoms teaching, from which the fuller *Politia* / *Obrigkeit* treatment grows in the later Decalogue locus.
 
 ### What is NOT yet translated (cv ~141 through ~895 = the remaining ~76%)
 
@@ -415,7 +415,7 @@ Kirchner's *Enchiridion* in its true extent is therefore comparable in doctrinal
 
 ### Cross-check against 1592 Frankfurt reprints — needs re-verification
 
-An earlier draft of this section reported that two BSB copies of the 1592 Frankfurt reprint (`bsb10193988` and `bsb10174368`, both 107 canvases per their manifests) run to a point corresponding to our cv 103 and appear either to have dropped Hauptstück IV or be truncated. **That reasoning is now also suspect**: both 1592 manifests may equally under-report their true canvas count, and the 1592 reprints may in fact contain the whole ~895 canvases as our 1583 does. This will be re-probed in Tranche 2. The 1592 reprints may still turn out to be a legitimate shortened *Auszug* rather than truncated scans; the current best evidence is provisional.
+An earlier draft of this section reported that two BSB copies of the 1592 Frankfurt reprint (`bsb10193988` and `bsb10174368`, both 107 canvases per their manifests) run to a point corresponding to our cv 103 and appear either to have dropped Chapter IV or be truncated. **That reasoning is now also suspect**: both 1592 manifests may equally under-report their true canvas count, and the 1592 reprints may in fact contain the whole ~895 canvases as our 1583 does. This will be re-probed in Tranche 2. The 1592 reprints may still turn out to be a legitimate shortened *Auszug* rather than truncated scans; the current best evidence is provisional.
 
 ### The withdrawn VD16 line
 
@@ -569,7 +569,7 @@ Herewith I commend Your Electoral Grace, together with your Electoral Consort, t
 
 &nbsp;
 
-— Kirchner, Hauptstück I § 8, on Romans 12
+— Kirchner, Chapter I § 8, on Romans 12
 
 &nbsp;
 
@@ -579,7 +579,7 @@ Herewith I commend Your Electoral Grace, together with your Electoral Consort, t
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück I
+# Chapter I
 
 ### *Von der Heiligen Schrifft, oder Wort Gottes*
 
@@ -785,7 +785,7 @@ No. For Christ says (John 10): *My sheep hear my voice, and a stranger they do n
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück II
+# Chapter II
 
 ### *Von Gott*
 
@@ -885,7 +885,7 @@ The Father is the first Person of the Holy Trinity — the Origin or Fountain (a
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück III
+# Chapter III
 
 ### *Von der Person unseres HERREN Christi*
 
@@ -1245,7 +1245,7 @@ Through the sitting at the Right Hand, he entered into the full use and exercise
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück IV
+# Chapter IV
 
 ### *Vom Ampt Christi*
 
@@ -1323,7 +1323,7 @@ Ps. 103: *As far as the east is from the west, so far has he removed our transgr
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück V
+# Chapter V
 
 ### *Vom Reich Christi*
 
@@ -1417,7 +1417,7 @@ That we may trust in Christ as our King and Head, expecting from him protection,
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück VI
+# Chapter VI
 
 ### *Vom ewigen Priesterthumb*
 
@@ -1499,7 +1499,7 @@ That in every trial we may fly to him alone as our Intercessor; that we may know
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück VII
+# Chapter VII
 
 ### *Vom Heiligen Geist*
 
@@ -1583,7 +1583,7 @@ That we may pray earnestly for the Spirit, use faithfully the means by which he 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück VIII
+# Chapter VIII
 
 ### *Von der Schöpffung*
 
@@ -1713,7 +1713,7 @@ Against all three we hold, with Scripture, that God's care extends to every crea
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück IX
+# Chapter IX
 
 ### *Von Engeln Gottes*
 
@@ -1773,7 +1773,7 @@ God permits these seeming irregularities to test our *faith, patience, hope, and
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück X
+# Chapter X
 
 ### *Von bösen Engeln*
 
@@ -1881,7 +1881,7 @@ He permits it — *not that the Devil should devour us, but that we be tested an
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XI
+# Chapter XI
 
 ### *Vom Menschen vor dem Fall*
 
@@ -1953,7 +1953,7 @@ To *know, honour, praise, and serve* God. The Sabbath was established *not for a
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XII
+# Chapter XII
 
 ### *Vom Fall Adams und den verderbten Kräften des Menschen*
 
@@ -2091,7 +2091,7 @@ Before the Fall, Man possessed this capacity; after the Fall, it was **entirely 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XIII
+# Chapter XIII
 
 ### *Von der Sünde in Gemein*
 
@@ -2175,7 +2175,7 @@ Sin includes both **internal** (evil inclinations, lusts, desires — *böse Nei
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XIV
+# Chapter XIV
 
 ### *Vom Gesetze Gottes*
 
@@ -2247,7 +2247,7 @@ Just as the *domestic realm* is founded on the Fourth Commandment (*Honour thy f
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XV
+# Chapter XV
 
 ### *Vom Euangelio*
 
@@ -2281,7 +2281,7 @@ The New Testament also employs and drives the office of the Law; but adds to it 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XVI
+# Chapter XVI
 
 ### *Von der Rechtfertigung des Sünders für Gott*
 
@@ -2333,7 +2333,7 @@ Because the new obedience *in this life is imperfect* (Rom. 7:14–25 — the fl
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XVII
+# Chapter XVII
 
 ### *Vom Glauben an Christum*
 
@@ -2385,7 +2385,7 @@ That we may firmly believe Christ, cast ourselves entirely on his merit and bloo
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XVIII
+# Chapter XVIII
 
 ### *Von der ewigen Wahl Gottes*
 
@@ -2415,7 +2415,7 @@ That we do not build predestination on our own works or worthiness (which would 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XIX
+# Chapter XIX
 
 ### *Von guten Wercken*
 
@@ -2459,7 +2459,7 @@ The Christian daily strives against sin in the flesh (Rom. 7 — *the will that 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XX
+# Chapter XX
 
 ### *Von der Liebe des Nechsten*
 
@@ -2497,7 +2497,7 @@ Love of neighbour is the *summa* of the Second Table (Rom. 13:8–10; Gal. 5:14:
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXI
+# Chapter XXI
 
 ### *Vom Gebet*
 
@@ -2547,7 +2547,7 @@ That we may know ourselves invited by God's own command to draw near through Chr
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXII
+# Chapter XXII
 
 ### *Von den Sacramenten in gemein*
 
@@ -2602,7 +2602,7 @@ The eternal Son of God, **Jesus Christ**, our sole Saviour. To him alone belongs
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXIII
+# Chapter XXIII
 
 ### *Von der Tauffe*
 
@@ -2654,7 +2654,7 @@ That we may rest in the certainty that God has already claimed us for himself in
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXIV
+# Chapter XXIV
 
 ### *Vom Heiligen Abendtmal*
 
@@ -2754,7 +2754,7 @@ That we may frequently, worthily, and with true faith receive this most precious
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXV
+# Chapter XXV
 
 ### *Von der Catholischen Kirche*
 
@@ -2804,7 +2804,7 @@ The Pope's claim to be *universalis episcopus* — universal bishop — over all
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXVI
+# Chapter XXVI
 
 ### *Von der Gewalt der Schlüssel*
 
@@ -2840,7 +2840,7 @@ The Keys belong properly to the Church, and are exercised through the *office of
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXVII
+# Chapter XXVII
 
 ### *Von der Busse*
 
@@ -2902,7 +2902,7 @@ None of these three biblical modes of confession corresponds to the *Papist auri
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXVIII
+# Chapter XXVIII
 
 ### *Vom Ergernuß*
 
@@ -2918,7 +2918,7 @@ None of these three biblical modes of confession corresponds to the *Papist auri
 
 **Whence come scandals?**
 
-From false prophets and teachers, from the Devil working in them, from the *cupiditas* (lust) that lurks in every human heart (Gen. 6:5; 8:21: *every imagination of the thoughts of his heart was only evil continually*; Matt. 15:19: *out of the heart proceed evil thoughts*). Chief among the historical scandals: the **Antichrist** in Rome, of whom Paul at 2 Thess. 2:9 writes that *his coming is after the working of Satan with all power and signs and lying wonders* — a matter treated at length in Hauptstück XXIX.
+From false prophets and teachers, from the Devil working in them, from the *cupiditas* (lust) that lurks in every human heart (Gen. 6:5; 8:21: *every imagination of the thoughts of his heart was only evil continually*; Matt. 15:19: *out of the heart proceed evil thoughts*). Chief among the historical scandals: the **Antichrist** in Rome, of whom Paul at 2 Thess. 2:9 writes that *his coming is after the working of Satan with all power and signs and lying wonders* — a matter treated at length in Chapter XXIX.
 
 ## § 3. The consequences of Scandal
 
@@ -2944,7 +2944,7 @@ That we exercise particular care in every station of life — teachers in their 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXIX
+# Chapter XXIX
 
 ### *Vom Antichrist*
 
@@ -3005,7 +3005,7 @@ That we may recognise this greatest of scandals for what it is, guard the faithf
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXX
+# Chapter XXX
 
 ### *Vom Creuz und Leiden*
 
@@ -3043,7 +3043,7 @@ That we may recognise this greatest of scandals for what it is, guard the faithf
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXI
+# Chapter XXXI
 
 ### *Von der weltlichen Obrigkeit*
 
@@ -3117,7 +3117,7 @@ That we may honour the Magistracy in her God-given office, pray for those in aut
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXII
+# Chapter XXXII
 
 ### *Vom Ehestandt*
 
@@ -3185,7 +3185,7 @@ Both marks *palpably present themselves in the Pope at Rome*.⁷⁰
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXIII
+# Chapter XXXIII
 
 ### *Vom Tode*
 
@@ -3233,7 +3233,7 @@ Scripture does not forbid moderate weeping for the dead; only that it not be as 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXIV
+# Chapter XXXIV
 
 ### *Von der Begräbniß*
 
@@ -3275,7 +3275,7 @@ It appears they did so because *sermons were preached at those places* — exhor
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXV
+# Chapter XXXV
 
 ### *Vom Zustand der Seelen nach dem Tode*
 
@@ -3313,7 +3313,7 @@ It appears they did so because *sermons were preached at those places* — exhor
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXVI
+# Chapter XXXVI
 
 ### *Vom Fegfeuer*
 
@@ -3604,7 +3604,7 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 &nbsp;
 
-*Here ends the working translation of the whole of Kirchner's* Enchiridion, *from cv 5 through cv ~895 of the BSB Munich facsimile bsb00020680 (1583 Heidelberg, Spies). The source's own closing (whether formal colophon, closing prayer, or catchword-truncated) is subject to the caveats set out at Translator's Note § 5. Where the source cuts off in the sinner-list of Hauptstück IV § 3 at cv 108, later canvases have been recovered from the BSB per-canvas hOCR API — the manifest was under-reporting the true extent nine-fold.*
+*Here ends the working translation of the whole of Kirchner's* Enchiridion, *from cv 5 through cv ~895 of the BSB Munich facsimile bsb00020680 (1583 Heidelberg, Spies). The source's own closing (whether formal colophon, closing prayer, or catchword-truncated) is subject to the caveats set out at Translator's Note § 5. Where the source cuts off in the sinner-list of Chapter IV § 3 at cv 108, later canvases have been recovered from the BSB per-canvas hOCR API — the manifest was under-reporting the true extent nine-fold.*
 
 *Soli Deo Gloria.*
 
@@ -3670,7 +3670,7 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **¹⁵** The single most important line of the entire *Enchiridion* for the Scholastic Lutherans corpus: Kirchner's explicit public binding to the **Book of Concord** as the pattern of the confession of the saving faith. This is the sentence that qualifies the *Enchiridion* — and its author — for treatment as a systematic-catechetical footprint of the confessional documents themselves. The parallel formula in the 1583 *Apologia* is at its opening: *"solidum ac genuinum verae doctrinae sensum tenere, uti in Concordiae Christianae Libro repetitum est."*
 
-## From Hauptstück I
+## From Chapter I
 
 **¹⁶** *"as if the smaller and the others were pressing against it on every side"* — the 1583 sentence "wider alle / obergleich als leine gewest / vnd die andern alle in angefochten" is broken in the OCR; the sense recovered is that the Christian faith stood as a smaller party against many contending faiths, from which context the translation gives *"the smaller … pressing against it on every side."* If a cleaner reading later becomes available, this passage will be revisited.
 
@@ -3688,7 +3688,7 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **²³** **Arius** (ca. 250 – ca. 336) — the Alexandrian presbyter whose denial of the eternal deity of the Son was condemned at the First Council of Nicaea (325). Kirchner's parenthetical remark — that God ends stubborn heresy by his own hand when the disputants cannot be persuaded by Scripture — alludes to the tradition of Arius's grotesque death in a Constantinople latrine (reported by Socrates *Historia ecclesiastica* 1.38 and by Athanasius *Ad episcopos Aegypti*), which was a favourite Reformation exemplum of divine judgement on obdurate error. Kirchner treats Arianism as a paradigm of the case where doctrinal dispute admits no negotiated end.
 
-## From Hauptstück II
+## From Chapter II
 
 **²⁴** The extended definition of God — "spiritual, single Being, threefold in Persons, who has created … through his Son … through the Holy Spirit …" — is Kirchner's own compression of the *Symbolum Apostolicum* article by article, keyed to the Trinitarian Persons. The reference cluster **1 John 4; Matt. 28; Gen. 2; John 3, 15, 16; John 5; Matt. 25; 1 Cor. 15** is a proof-catena for each clause: 1 John 4 for the spiritual/single Being, Matt. 28 for Trinity, Gen. 2 for creation, John 3 & 15 & 16 for redemption through the Son, John 5 & Matt. 25 for the Last Day, 1 Cor. 15 for the Resurrection. Formally akin to Luther's Small Catechism explanation of the Creed but tighter.
 
@@ -3696,7 +3696,7 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **²⁶** *Ex Patre Filioque* — Kirchner sides squarely with the Western reading of John 15:26 and the *filioque* clause of the Nicene-Constantinopolitan Creed as recited in Latin from the 6th c. onward. The Greek East never accepted the addition. Formula of Concord and *Book of Concord* recite the Nicene Creed with the *filioque*; Kirchner rehearses the Western position without polemical development against the East, since it was not his 1583 target.
 
-## From Hauptstück III
+## From Chapter III
 
 **²⁷** *"substantialis imago, non artificialis aut facta vel creata"* — "essential image, not artificial nor made nor created." The formula is standard 4th-c. anti-Arian Christology (Athanasius, Basil, the Cappadocians on Heb. 1:3 *χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ* — the *express image of his substance*). Kirchner's Latin form is the technical vocabulary of Reformation-era scholastic Christology: the Son as *imago substantialis* against the Arian *creatura* and against any Origenist gradation of divinity.
 
@@ -3718,79 +3718,79 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **³⁶** The single most delicate line in the whole *Enchiridion*: **Kirchner explicitly rejects the doctrine of ubiquity-of-substance in every creature** (that Christ's body is present *in stone, leaf, grass, sun, moon*), even while defending the multipresence of Christ's human nature per Personal union and exaltation. This is the crucial Lutheran distinction between **ubiquity** (in every creature by nature; a caricature imputed by Reformed polemics) and **multipresence** or **illocality** (present wherever Christ wills to be, per the exalted Personal union). Formula of Concord Solid Declaration VII carefully makes the same distinction (BSLK 1002; Kolb-Wengert 608); Kirchner is catechising it word for word.
 
-## From Hauptstück IV
+## From Chapter IV
 
 **³⁷** The list of exemplary redeemed sinners — **Adam and Eve, Manasseh, David, Peter, Mary Magdalene, Paul, the thief on the cross** — is a stock Reformation-era Trostbuch enumeration used to comfort tender consciences that no sin excludes them from grace if they turn in faith to Christ. An earlier draft of this endnote noted only "Adae vnd …" as the source's terminating fragment; direct hOCR-probing of cv 109 (2026-08-31) shows the list continues through Manasseh, David, Peter, Magdalene, Paul, and the thief before transitioning into the Baptism-and-Supper means-of-grace closing at cv 110. The full list has been reconstructed accordingly.
 
-## From Hauptstück V (Vom Reich Christi)
+## From Chapter V (Vom Reich Christi)
 
 **³⁸** The threefold Kingdom distinction (grace / power / glory — *regnum gratiae, potentiae, gloriae*) is Kirchner's inheritance from the mainline Lutheran scholastic tradition. Formalized by Chemnitz *De duabus naturis* (1571), the distinction became a standing locus in later Lutheran dogmatics (Gerhard *Loci* XVIII; Quenstedt *Systema* III.i). Preserve the Latin technical terms; render freely in the body.
 
-**³⁹** The "practical use" closes the locus per Kirchner's standard catechetical rhythm: doctrine → controversy → *praxis pietatis*. This closing-with-use pattern is retained across all Hauptstück of the *Enchiridion*.
+**³⁹** The "practical use" closes the locus per Kirchner's standard catechetical rhythm: doctrine → controversy → *praxis pietatis*. This closing-with-use pattern is retained across all Chapter of the *Enchiridion*.
 
-## From Hauptstück VI (Vom ewigen Priesterthumb)
+## From Chapter VI (Vom ewigen Priesterthumb)
 
 **⁴⁰** The seven-point contrast between the Aaronic and Christian priesthoods is drawn cumulatively from **Hebrews 7–10**, and is the standard Reformation-era catechetical treatment. Kirchner's specific ordering (oath / person / doctrine / duration / sacrifice / object / succession) is characteristic of the Formula-of-Concord-era scholastic apparatus; parallel formulations appear in Chytraeus's *Catechesis* Loc. VII and in the Second Helvetic Confession XVIII.
 
 **⁴¹** The rejection of the papal claim to Christ's High-Priesthood is one of the sharpest anti-papal moments in the whole *Enchiridion*: Kirchner names the papal claim *eine Gottslästerung* — a blasphemy. The Formula of Concord Solid Declaration X (BSLK 1053) and the Smalcald Articles II.iv (BSLK 483) authorize the identical language. The doctrine follows: Christ alone is the *unicus Mediator* of 1 Tim. 2:5, and the papal arrogation of intercessory power intrudes upon Christ's proper office.
 
-## From Hauptstück VII (Vom Heiligen Geist)
+## From Chapter VII (Vom Heiligen Geist)
 
-**⁴²** *Verbum externum* — the "external Word." Kirchner's rejection of the *Schwärmer* here at Hauptstück VII § 4 rehearses the position first developed in Hauptstück I § 10 (which see, and endnote 20 on the *Schwärmer*). The doctrine is Formula of Concord Solid Declaration II — that the Holy Spirit is given *not* apart from but *through* the external means (Word and Sacraments). The seed-plot for this in Kirchner's own theological formation is Luther's *De servo arbitrio* (1525, WA 18:600–787).
+**⁴²** *Verbum externum* — the "external Word." Kirchner's rejection of the *Schwärmer* here at Chapter VII § 4 rehearses the position first developed in Chapter I § 10 (which see, and endnote 20 on the *Schwärmer*). The doctrine is Formula of Concord Solid Declaration II — that the Holy Spirit is given *not* apart from but *through* the external means (Word and Sacraments). The seed-plot for this in Kirchner's own theological formation is Luther's *De servo arbitrio* (1525, WA 18:600–787).
 
-## From Hauptstück VIII (Von der Schöpffung)
+## From Chapter VIII (Von der Schöpffung)
 
 **⁴³** *Opera Trinitatis ad extra sunt indivisa* — "the works of the Trinity toward the outside are undivided." Standard scholastic principle from **Augustine** *De Trinitate* I.7–8 (PL 42:829–834) and formalized by the medieval schoolmen. Preserved through Lutheran scholasticism (Chemnitz, Gerhard, Quenstedt) as the ontological ground for the doctrine that all external divine operations — creation, redemption, sanctification, glorification — proceed from the one indivisible Trinity. The *appropriation* of creation to the Father, of redemption to the Son, of sanctification to the Spirit is a *personal appropriation*, not a division of the underlying divine act.
 
-**⁴⁴** The "four regimens of divine governance" at Hauptstück VIII § 9 is the *seed-plot* of the Lutheran two-kingdoms teaching. Kirchner distinguishes: (1) *spiritual realm* (angels), (2) *ecclesiastical realm* (Word and ministry), (3) *domestic realm* (household and parental authority — the base of the Fourth Commandment), (4) *political realm* (civil government, magistracy, natural order — Rom. 13). The pairing of ecclesiastical + political corresponds directly to the *regnum Christi spirituale* and the *regnum politicum* distinguished by Luther *Von weltlicher Obrigkeit* (1523, WA 11:245–281) and by the Augsburg Confession XVI *De rebus civilibus*. The developed *Politia* / *Obrigkeit* treatment (with the office of magistracy, the Christian's civil duties, the two-kingdoms teaching) sits within the missing tail of the book — expected to unfold under the Ten Commandments locus (around cv 210–240) — and is highlighted here as the seed-passage from which that fuller treatment grows.
+**⁴⁴** The "four regimens of divine governance" at Chapter VIII § 9 is the *seed-plot* of the Lutheran two-kingdoms teaching. Kirchner distinguishes: (1) *spiritual realm* (angels), (2) *ecclesiastical realm* (Word and ministry), (3) *domestic realm* (household and parental authority — the base of the Fourth Commandment), (4) *political realm* (civil government, magistracy, natural order — Rom. 13). The pairing of ecclesiastical + political corresponds directly to the *regnum Christi spirituale* and the *regnum politicum* distinguished by Luther *Von weltlicher Obrigkeit* (1523, WA 11:245–281) and by the Augsburg Confession XVI *De rebus civilibus*. The developed *Politia* / *Obrigkeit* treatment (with the office of magistracy, the Christian's civil duties, the two-kingdoms teaching) sits within the missing tail of the book — expected to unfold under the Ten Commandments locus (around cv 210–240) — and is highlighted here as the seed-passage from which that fuller treatment grows.
 
-## From Hauptstück IX (Von Engeln Gottes)
+## From Chapter IX (Von Engeln Gottes)
 
 **⁴⁵** Kirchner's opening definition of *Angel* as *office of messenger* (rather than a natural kind) is entirely standard for Reformation-era angelology, going back to Augustine *Enarr. in Ps.* 103.1.15 (*angelus enim officii nomen est, non naturae — quaeris nomen huius naturae? spiritus est; quaeris officium? angelus est*). Chemnitz *Loci Theologici* pt. 1 loc. 4 rehearses this exact distinction; Kirchner catechises it in Q&A form.
 
 **⁴⁶** The rejection of angel-worship is Formula-of-Concord doctrine (SD IX and X, on the Descent of Christ and Church-usages); the Reformation universally condemned the medieval cult of angels, especially the popular veneration of guardian angels through liturgical propers on 2 October (Michaelmas etc.). Kirchner's terse *nein* here is a full-throated Lutheran refusal.
 
-## From Hauptstück XII (Vom Fall Adams)
+## From Chapter XII (Vom Fall Adams)
 
 **⁴⁷** *Protoevangelium* — Gen. 3:15, *"I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel"* — the first evangelical promise, understood by the Reformation exegetes (with the Fathers before them) as the seed-form of the whole Gospel, promising the coming *Seed of the Woman* (Christ) who would defeat the serpent. Standard Reformation-era terminology; Luther's exposition in the 1535 *Genesis Lectures* (WA 42:145 ff.; LW 1:192 ff.) is the classical locus. Kirchner presupposes the reader will recognise the term; the English preserves the Latin.
 
-## From Hauptstück XII continued (Free Will after the Fall)
+## From Chapter XII continued (Free Will after the Fall)
 
 **⁴⁸** *Servum arbitrium* — *"bound will"* or *"enslaved will."* Augustine's coinage against the Pelagian *liberum arbitrium* (*Contra Iulianum* II.viii.23; also *De Spiritu et Littera* 3–4). Luther adopted the term as the title of his 1525 *De servo arbitrio* against Erasmus (WA 18:600–787). Kirchner's citation of the Augustine-source directly (rather than of Luther's book by that title) is characteristic 1583 discipline — Kirchner grounds the Lutheran doctrine in the Church Father rather than in the immediate Reformer, in the pastoral service of readers who need to see the ancient consensus. Formula of Concord Solid Declaration II makes the identical move.
 
-## From Hauptstück XIII (Von der Sünde in Gemein)
+## From Chapter XIII (Von der Sünde in Gemein)
 
 **⁴⁹** **Augustine, *Enchiridion ad Laurentium*** (ca. 421, PL 40:231–290), cap. 22 (*"peccati causa quattuor sunt: ignorantia, infirmitas, dolor, cupiditas"* — the four causes of sin are ignorance, weakness, pain, and lust). Kirchner cites Augustine's *Enchiridion* — the medieval-and-Reformation *manual* of Christian doctrine par excellence — as the classic Latin source for the fourfold analysis of actual sin's origin. That Kirchner's own *Enchiridion* thus stands in a self-conscious tradition of the *Enchiridion*-genre inaugurated by Augustine and passed through Erasmus (1503), Melanchthon (1521), and Eck (1525) is a subtle but real generic self-location.
 
 **⁵⁰** The Dominant/Non-Dominant sin distinction is the **Rom. 6 / Rom. 7 tension** in classical Lutheran form. Formula of Concord Solid Declaration II–III develops the same distinction under the vocabulary *concupiscentia* (dominant in the unregenerate, non-dominant in the reborn). Kirchner catechises it in Q&A form. The pastoral point: *the reborn Christian who feels sin's continued struggle need not despair, for that struggle is itself the mark of the regenerate*.
 
-## From Hauptstück XIV (Vom Gesetze Gottes)
+## From Chapter XIV (Vom Gesetze Gottes)
 
-**⁵¹** The **three uses of the Law** (*triplex usus legis*: *paedagogicus, politicus, didacticus*) is the standard Lutheran taxonomy formalized by Melanchthon in the *Loci Communes* (1535+ editions) and made confessional by Formula of Concord Article VI *De tertio usu legis* (BSLK 962 ff.; Kolb-Wengert 502 ff.). Kirchner's rehearsal here is entirely standard — but the specific enumeration at Hauptstück XIV § 4 sub 2 of the offices instituted for *usus politicus* — **paternal authority (*väterliche Obrigkeit*), the magistracy (*Obrigkeit*), and schoolmasters (*Schulmeister*)** — is the seed-passage of Kirchner's political-theology treatment. Every subsequent commandment's implication for civil life will unfold from this seed as the Decalogue commentary proceeds in the source past cv 235. Compare Chytraeus *Catechesis* (1594) Loc. III § 20 on the Fourth Commandment, which develops the *Politia* and *Magistratus* at length; Kirchner's parallel treatment must lie further in the missing tail of his book than this working translation has yet reached.
+**⁵¹** The **three uses of the Law** (*triplex usus legis*: *paedagogicus, politicus, didacticus*) is the standard Lutheran taxonomy formalized by Melanchthon in the *Loci Communes* (1535+ editions) and made confessional by Formula of Concord Article VI *De tertio usu legis* (BSLK 962 ff.; Kolb-Wengert 502 ff.). Kirchner's rehearsal here is entirely standard — but the specific enumeration at Chapter XIV § 4 sub 2 of the offices instituted for *usus politicus* — **paternal authority (*väterliche Obrigkeit*), the magistracy (*Obrigkeit*), and schoolmasters (*Schulmeister*)** — is the seed-passage of Kirchner's political-theology treatment. Every subsequent commandment's implication for civil life will unfold from this seed as the Decalogue commentary proceeds in the source past cv 235. Compare Chytraeus *Catechesis* (1594) Loc. III § 20 on the Fourth Commandment, which develops the *Politia* and *Magistratus* at length; Kirchner's parallel treatment must lie further in the missing tail of his book than this working translation has yet reached.
 
-**⁵²** The seed of Lutheran **two-kingdoms doctrine** (*Zwei-Reiche-Lehre*) at Hauptstück XIV § 7 is drawn from Rom. 13:1–7 and 1 Tim. 2:1–2, and directly from Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48). Luther's *Von weltlicher Obrigkeit, wie weit man ihr Gehorsam schuldig sei* (1523, WA 11:245–281) is the classical exposition; Melanchthon *Loci* on the Fourth Commandment develops the *civilis magistratus* in scholastic form. Kirchner's brief closing at § 7 sits in this tradition and prefigures the fuller treatment which unfolds in Hauptstück XXXI (Von der weltlichen Obrigkeit). The English "two-kingdoms" is a modern gloss; the 16th-c. term is more usually *das geistliche* and *das weltliche Regiment* — the spiritual and worldly *regiments* (recall Hauptstück VIII § 9 which anticipated this distinction under the four *regimens* of divine governance).
+**⁵²** The seed of Lutheran **two-kingdoms doctrine** (*Zwei-Reiche-Lehre*) at Chapter XIV § 7 is drawn from Rom. 13:1–7 and 1 Tim. 2:1–2, and directly from Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48). Luther's *Von weltlicher Obrigkeit, wie weit man ihr Gehorsam schuldig sei* (1523, WA 11:245–281) is the classical exposition; Melanchthon *Loci* on the Fourth Commandment develops the *civilis magistratus* in scholastic form. Kirchner's brief closing at § 7 sits in this tradition and prefigures the fuller treatment which unfolds in Chapter XXXI (Von der weltlichen Obrigkeit). The English "two-kingdoms" is a modern gloss; the 16th-c. term is more usually *das geistliche* and *das weltliche Regiment* — the spiritual and worldly *regiments* (recall Chapter VIII § 9 which anticipated this distinction under the four *regimens* of divine governance).
 
-## From Hauptstück XVII (Vom Glauben)
+## From Chapter XVII (Vom Glauben)
 
 **⁵³** *"Sein Wort laß dir gewisser sein / und ob dein Herz sprech lauter Wein"* — an anonymous 16th-c. Lutheran hymn-tag on the certainty of Faith over the heart's doubt. Kirchner's citation of what "the Christian Church sings" is the pastoral kernel of Lutheran Faith-doctrine: sung certainty against felt doubt.
 
-## From Hauptstück XVIII (Von der ewigen Wahl Gottes)
+## From Chapter XVIII (Von der ewigen Wahl Gottes)
 
 **⁵⁴** **Augustine**, *De Trinitate* XV.13.22 (or one of the related passages in the *Enarrationes in Psalmos* on Ps. 91) — the classical Augustinian caution against inscrutable enquiry into the divine mysteries. Kirchner's Latin snippet *"non est cuiuscunque quaerere secreta ista mysteriorum"* is a paraphrase from the Augustinian corpus, of the sort that circulated widely in Reformation florilegia. The pastoral shape is Lutheran: predestination is not to be probed by curiosity but received in the means Christ has appointed (Word and Sacrament) — a doctrine formalized at Formula of Concord Solid Declaration XI *De aeterna praedestinatione* (BSLK 1053 ff.; Kolb-Wengert 640 ff.).
 
-## From Hauptstück XX (Von der Liebe des Nechsten)
+## From Chapter XX (Von der Liebe des Nechsten)
 
 **⁵⁵** **1 Corinthians 13** as the *charter of Christian love* is universally quoted; Kirchner's compact rehearsal (rather than full exposition) is characteristic Q&A form. The Reformation's use of 1 Cor. 13 always insists it is *not* a description of faith-work-cooperating (as Trent read it) but a portrait of the *fruit* of faith which cannot be counted the *cause* of justification.
 
-## From Hauptstück XXII (Von den Sacramenten in gemein)
+## From Chapter XXII (Von den Sacramenten in gemein)
 
 **⁵⁶** The rejection of the Papist **seven sacraments** (Baptism, Confirmation, Penance, Marriage, Altar-Sacrament, Orders, Extreme Unction) reduced to *two* (Baptism + Supper) is Reformation-standard; formalized at Augsburg Confession XIII (BSLK 66; Kolb-Wengert 46) and Apology XIII. The medieval seven were formally defined at the Councils of Florence (1439) and Trent (1547, Session VII). Kirchner's grounds — that only Baptism and Supper have Christ's instituted element + promise of grace — are Melanchthonian.
 
-## From Hauptstück XXIII (Von der Tauffe)
+## From Chapter XXIII (Von der Tauffe)
 
 **⁵⁷** The **papal doctrine of *character indelibilis*** — the indelible mark impressed on the soul at Baptism (and, in Roman theology, at Confirmation and Orders) — is medieval-scholastic, developed by Aquinas *Summa Theologiae* III q. 63 a. 1 and canonically fixed at the Council of Trent Session VII, canon 9 (Denzinger-Hünermann § 1609). The doctrine grounds the non-repeatability of Baptism, but does so on a philosophical claim not scripturally warranted. Kirchner's rejection is standard Reformation — Baptism is not repeated because of *God's ordinance* and the *once-for-all Christ-event it engrafts into* (Eph. 4:5; Rom. 6:3–4), not because of a metaphysical character.
 
-## From Hauptstück XXIV (Vom Heiligen Abendtmal)
+## From Chapter XXIV (Vom Heiligen Abendtmal)
 
 **⁵⁸** **Irenaeus**, *Adversus Haereses* IV.18.5 (PG 7:1029; SC 100:610) — the *duplex res sacramenti* doctrine: *"quemadmodum enim qui est a terra panis, percipiens vocationem Dei, iam non communis panis est, sed Eucharistia, ex duabus rebus constans, terrena et coelesti"* — *"as the bread which grows out of the earth, receiving the invocation of God, is no longer common bread but the Eucharist, consisting of two things — earthly and heavenly."* One of the load-bearing patristic texts for both Lutheran and Roman Eucharistic doctrine. Chemnitz *De coena Domini* (1560) cites it prominently.
 
@@ -3800,19 +3800,19 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **⁶¹** **Augustine**, *Contra Fulgentium Donatistam* — the fragment Kirchner cites is from the medieval florilegia and is not securely traceable to any surviving genuine Augustinian work; probably from the pseudo-Augustinian *Contra Fulgentium* corpus circulated under Augustine's name in the medieval West. The doctrinal point — that the sacrament remains *good* even when received *badly* — is nevertheless authentically Augustinian (compare *Contra litteras Petiliani* II.47 on Baptism, which extends by analogy). Kirchner uses the citation in the honest medieval manner.
 
-**⁶²** The **Session-at-the-Right-Hand objection** as answered here is the direct application of Hauptstück III § 19 (Right Hand of God as NO created place but the Divine Majesty itself) to the *sacramental locus*. This is the polemical spine of Kirchner's whole book: the Christological doctrine of the *Enchiridion* is not a topic for its own sake but is set up to underwrite the Lutheran doctrine of the Real Presence. The Reformed rejection of the Real Presence stands or falls with the Reformed doctrine of Christ's *locally-confined* body-in-heaven; Kirchner has been dismantling that doctrine since Hauptstück III.
+**⁶²** The **Session-at-the-Right-Hand objection** as answered here is the direct application of Chapter III § 19 (Right Hand of God as NO created place but the Divine Majesty itself) to the *sacramental locus*. This is the polemical spine of Kirchner's whole book: the Christological doctrine of the *Enchiridion* is not a topic for its own sake but is set up to underwrite the Lutheran doctrine of the Real Presence. The Reformed rejection of the Real Presence stands or falls with the Reformed doctrine of Christ's *locally-confined* body-in-heaven; Kirchner has been dismantling that doctrine since Chapter III.
 
-## From Hauptstück XXV (Von der Catholischen Kirche)
+## From Chapter XXV (Von der Catholischen Kirche)
 
 **⁶³** The papal claim to be *universalis episcopus* was resisted from within the medieval papacy itself — famously by **Gregory the Great** (†604), *Epistula* V.44 (to John the Faster of Constantinople), where Gregory calls the title *"impium"* and its bearer *"praecursor Antichristi."* Kirchner's rejection follows this Gregorian line — a rhetorically sharp move, since it turns the papacy's own greatest-and-most-authoritative-past-pontiff against later papal claims.
 
-## From Hauptstück XXVII (Von der Busse)
+## From Chapter XXVII (Von der Busse)
 
 **⁶⁴** The rejection of **auricular confession** as *rack for consciences* is Reformation-standard; see Luther *Von der Beicht* (1521, WA 8:129–185); Augsburg Confession XI *De confessione* (BSLK 65; Kolb-Wengert 44); Apology XI + XII. The Reformation retained a form of private absolution for the comfort of consciences, but abolished the *obligation* to enumerate every sin.
 
-## From Hauptstück XXIX (Vom Antichrist)
+## From Chapter XXIX (Vom Antichrist)
 
-**⁶⁵** The identification of the **Papacy as the Antichrist** — not as a rhetorical curse but as a *dogmatic position defended systematically* — is fixed at Smalcald Articles II.iv *De papatu* (BSLK 483; Kolb-Wengert 307) and the *Tractatus de potestate et primatu papae* (BSLK 471; Kolb-Wengert 329). Kirchner's whole Hauptstück XXIX + XXXVI is the catechetical unfolding of these confessional documents.
+**⁶⁵** The identification of the **Papacy as the Antichrist** — not as a rhetorical curse but as a *dogmatic position defended systematically* — is fixed at Smalcald Articles II.iv *De papatu* (BSLK 483; Kolb-Wengert 307) and the *Tractatus de potestate et primatu papae* (BSLK 471; Kolb-Wengert 329). Kirchner's whole Chapter XXIX + XXXVI is the catechetical unfolding of these confessional documents.
 
 **⁶⁶** The *interpretatio Christiana* of pagan invocations — replacing Mars with St. George, Neptune with St. Nicholas and Christopher, Lucina with Margaret, and so on — is a Reformation-historiographical thesis of considerable durability. Modern scholarship has substantiated the historical fact (though usually not with the theological negative-judgement) in the work of **Peter Brown**, *The Cult of the Saints* (1981), and **Peter Burke**, *Popular Culture in Early Modern Europe*. Kirchner's Reformation instinct — that the medieval calendar of saints represents a *Christianising overlay* on a persisting substrate of pagan invocation — is philologically defensible, whatever one makes of the theological verdict.
 
@@ -3820,29 +3820,29 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **⁶⁷** **Augustine** *Enarrationes in Psalmos* on Ps. 90:2 develops the *face-to-face* vision. The Kirchner citation is characteristic 16th-c. Augustinian eschatology.
 
-## From Hauptstück XXXI (Von der weltlichen Obrigkeit)
+## From Chapter XXXI (Von der weltlichen Obrigkeit)
 
 **⁶⁸** **Ambrose** and **Emperor Theodosius I** — the celebrated episode of 390, when Ambrose imposed public penance on Theodosius for the massacre at Thessalonica (Theodoret *Historia ecclesiastica* V.17; Sozomen VII.25). Kirchner invokes it as the paradigm of the *godly ruler humbling himself before the Word*, in contrast to the papal claim to depose princes. The episode became a Reformation-era locus classicus for Church–State relations correctly ordered: the prince listens to the Word, the bishop declares the Word, neither claims sovereignty over the other's sphere.
 
-**⁶⁹** The whole of Hauptstück XXXI is Kirchner's fuller unfolding of what he seeded at Hauptstück XIV § 4 sub 2 and § 7. Where the Law-locus gave the *principle* of the *usus politicus* — the political-authority material named in briefest form — here at Hauptstück XXXI Kirchner develops the *doctrine of the office* in Q&A form: institution (Rom. 13; Gen. 9), three kinds of rulers, fourfold office, no power against God, limit of obedience (Acts 5:29), whether Christians may hold office, whether Christians may trade, whether Christians may use imperial law, and the practical use. This is the locus Cheri's collaborator needed for the political-theology *compend* — not a mere seed but a *fully articulated Christian civil doctrine*. The material corresponds substantively to Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48) expanded into catechetical Q&A depth. Formula of Concord Solid Declaration X on the *adiaphora controversy* is the close ecclesiological neighbour on where civil obedience must yield to fidelity to God's Word.
+**⁶⁹** The whole of Chapter XXXI is Kirchner's fuller unfolding of what he seeded at Chapter XIV § 4 sub 2 and § 7. Where the Law-locus gave the *principle* of the *usus politicus* — the political-authority material named in briefest form — here at Chapter XXXI Kirchner develops the *doctrine of the office* in Q&A form: institution (Rom. 13; Gen. 9), three kinds of rulers, fourfold office, no power against God, limit of obedience (Acts 5:29), whether Christians may hold office, whether Christians may trade, whether Christians may use imperial law, and the practical use. This is the locus Cheri's collaborator needed for the political-theology *compend* — not a mere seed but a *fully articulated Christian civil doctrine*. The material corresponds substantively to Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48) expanded into catechetical Q&A depth. Formula of Concord Solid Declaration X on the *adiaphora controversy* is the close ecclesiological neighbour on where civil obedience must yield to fidelity to God's Word.
 
-## From Hauptstück XXXII (Vom Ehestandt)
+## From Chapter XXXII (Vom Ehestandt)
 
 **⁷⁰** The **Dan. 11:37 + 1 Tim. 4:1–3** proof-catena as identifying the papal Antichrist by his *anti-marital* legislation is a Reformation-era commonplace, deployed from Luther's *De captivitate Babylonica ecclesiae* 1520 (WA 6:497–573) onward. The specific target is the *clerical celibacy* imposition, canonically fixed for the Latin West by Pope **Siricius**'s *Decretale Directa* of 385 (Denzinger-Hünermann § 185), and hardened by the eleventh-century Gregorian Reform. The identification of *forbidding to marry* as an Antichrist-mark makes Reformation clerical marriage *not a licence but a positive confession* against Antichristian usurpation.
 
-## From Hauptstück XXXIII (Vom Tode)
+## From Chapter XXXIII (Vom Tode)
 
 **⁷¹** **Cyprian**, *De mortalitate* 26 (CSEL 3.1:314; PL 4:602–603). The tract was written during the 252 plague at Carthage; the passage Kirchner extracts is one of the great Christian consolations of death, cited across the confessional divide (medieval, Reformation, Counter-Reformation alike). The Latin quotation is preserved verbatim; the English rendering is the Scholastic Lutherans' own.
 
-## From Hauptstück XXXIV (Von der Begräbniß)
+## From Chapter XXXIV (Von der Begräbniß)
 
-**⁷²** **Augustine**, *De cura pro mortuis gerenda* I.12 (CSEL 41:632; PL 40:596), ca. 421 — Augustine's short treatise addressed to Paulinus of Nola on whether burial-place or the pomp of obsequies benefits the dead. Augustine's answer — that these things are *consolations of the living*, not aids to the dead — cuts against precisely the medieval intercessions-for-the-dead machinery that Kirchner attacks at Hauptstück XXXVI. Kirchner cites Augustine here as the honest Father whom the medievals invoke against the doctrine of which Augustine himself is the least-committed and most-doubtful witness.
+**⁷²** **Augustine**, *De cura pro mortuis gerenda* I.12 (CSEL 41:632; PL 40:596), ca. 421 — Augustine's short treatise addressed to Paulinus of Nola on whether burial-place or the pomp of obsequies benefits the dead. Augustine's answer — that these things are *consolations of the living*, not aids to the dead — cuts against precisely the medieval intercessions-for-the-dead machinery that Kirchner attacks at Chapter XXXVI. Kirchner cites Augustine here as the honest Father whom the medievals invoke against the doctrine of which Augustine himself is the least-committed and most-doubtful witness.
 
-## From Hauptstück XXXV (Vom Zustand der Seelen)
+## From Chapter XXXV (Vom Zustand der Seelen)
 
 **⁷³** **Augustine**, *De peccatorum meritis et remissione* I.28 (CSEL 60:31; PL 44:127): *"Nec est ulli medius locus, ut possit esse nisi cum Diabolo, qui non est cum Christo."* — the classical Augustinian denial of any *intermediate place* between heaven and hell for the departed. Repeated substantially at *De Civitate Dei* XXI.25. Kirchner uses this passage as the demolition of the medieval Purgatory-doctrine; the same passage does the same work at Melanchthon's *Apology* XXIV (BSLK 313; Kolb-Wengert 274 on the sacrifice of the Mass and its supposed benefit for souls in Purgatory). Formula of Concord Article I on Original Sin also invokes Augustine's positive doctrine.
 
-## From Hauptstück XXXVI (Vom Fegfeuer)
+## From Chapter XXXVI (Vom Fegfeuer)
 
 **⁷⁴** Kirchner's derivation of Purgatory from **Plato** (*Phaedo* 113D–114C; *Republic* X.614–621) and **Virgil** (*Aeneid* VI.735–743, the *aliae panduntur inanes / suspensae ad ventos* passage) has a real philological basis. The medieval Purgatory-doctrine did draw formally on pagan-antique models of *purification of souls after death* — as **Le Goff**, *La Naissance du Purgatoire* (1981) demonstrated with modern scholarly apparatus. Kirchner's Reformation-era polemic here is not caricature but a real historical observation about the doctrine's *genealogy*: however the Papists dress it in Christian garb, the underlying schema is pagan-antique. The 2 Maccabees 12 proof-text has been the medieval-and-Tridentine principal defence (see Council of Trent Session XXV *Decretum de purgatorio*, Denzinger-Hünermann §§ 1820–1821). Kirchner's response follows Chemnitz's *Examen Concilii Tridentini* Pars III on Purgatory in giving four counter-arguments (apocryphal book, no explicit Purgatory-language, Judas's faith in Resurrection, Augustine's demolition).
 
@@ -3873,29 +3873,29 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 | **Schwerdt des Geistes** | Sword of the Spirit | Ephesians 6:17 language, invoked in the Nehemiah typology: teachers and Christians armed with the Word against error. Render literally. |
 | **Anfechtung** | Temptation, trial, spiritual assault | The Lutheran technical term for spiritual trial — not merely temptation to sin but the wider assault on faith and conscience by the devil, the world, the flesh, and God's own hiddenness. Preserve the German on first occurrence per Hauptstück; render "temptation" or "trial" in ordinary flow, "Anfechtung" where the technical weight matters. |
 | **verbum externum** | External Word | The preached and written Word as the ordinary means of the Spirit, over against the Enthusiasts' claim to an unmediated inner Word. Preserve untranslated in doctrinal loci. |
-| **Fürnembste Hauptstück** | Chief chapters | The title-formula: "the *chief* Hauptstück of Christian doctrine." Signals that the *Enchiridion* is not a complete dogmatics but a selective catechesis on the *disputed* points — those between Lutherans and Papists on the one side, Lutherans and Reformed on the other. |
+| **Fürnembste Hauptstück** | Chief chapters | The title-formula: "the *chief* Chapter of Christian doctrine." Signals that the *Enchiridion* is not a complete dogmatics but a selective catechesis on the *disputed* points — those between Lutherans and Papists on the one side, Lutherans and Reformed on the other. |
 | **Fromm** | Pious, upright, honest | 16th-century *fromm* carries the older sense of "upright, honest, of integrity" as much as the later narrowly-religious "pious." Kirchner uses it in the older wider sense: *frommen Herzen* = "upright hearts." |
 | **Politia / Politia Christiana** | Civil order, Christian polity | The civil-magistracy sphere in Lutheran two-kingdoms teaching. Not a Kirchner-*Enchiridion*-locus (his catechism is deliberately restricted to the disputed articles); listed here to signal the wider systematic apparatus this book presupposes. |
 
-### *Christological vocabulary (added Tranche 2 for Hauptstück III)*
+### *Christological vocabulary (added Tranche 2 for Chapter III)*
 
 |  |  |  |
 |:---|:---|:---|
 | **Θεοτόκος / Gottes Gebärerin** | God-bearer, Mother of God | The Ephesine title (431) defending the personal union of Word and flesh from conception. Preserve the Greek on first occurrence; render "God-bearer" thereafter. Kirchner deploys the title precisely as the Council did — as a Christological rather than a Marian claim. |
 | **Symbolum Chalcedonense** | Chalcedonian Definition | The 451 Christological Definition preserved by Kirchner in full Latin *apud Nicephorum* lib. 15 c. 6. Preserve untranslated in structural reference; give facing English. |
-| ***genus maiestaticum*** | Genus Maiestaticum | The communication of Divine majesty to the assumed human nature. The polemical spine of Hauptstück III — Kirchner catechises the doctrine section by section against the Reformed rejection. Preserve untranslated on formal doctrinal use. |
+| ***genus maiestaticum*** | Genus Maiestaticum | The communication of Divine majesty to the assumed human nature. The polemical spine of Chapter III — Kirchner catechises the doctrine section by section against the Reformed rejection. Preserve untranslated on formal doctrinal use. |
 | ***genus apotelesmaticum*** | Genus Apotelesmaticum | The common operation of both natures in the mediatorial works. Kirchner's second of three points at § 9. Preserve untranslated. |
 | ***genus idiomaticum*** | Genus Idiomaticum | Attribution of the natural properties of one nature to the whole Person of Christ (*God has purchased his congregation with his own blood*, Acts 20:28). Kirchner's first of three points at § 9. Preserve untranslated. |
 | **caro vivifica / lebendigmachend Fleisch** | Life-giving flesh | Cyril of Alexandria's *sarx zoopoios* doctrine (Council of Ephesus 431, ninth Anathematism). Christ's flesh as life-giving *by virtue of Personal union with the Word* (not of itself as if it were the Spirit). Preserve on formal doctrinal invocation. |
 | ***communicatio idiomatum*** | Communication of Attributes | The overarching doctrine of the mutual sharing of properties in the one Person of Christ. Preserve untranslated throughout. |
 | ***praedicatio verbalis*** | Verbal predication | The Reformed position Kirchner rejects: that scriptural predicates of God (e.g. *God has suffered*) are *merely verbal* — figures of speech — and do not signify a real communication of properties. Kirchner insists on *real* rather than *verbal* predication. Preserve the Latin polemically. |
-| **Ubiquität / *ubiquitas*** | Ubiquity (technical Lutheran term) | The Reformed polemical label for the Lutheran doctrine of the multipresence of Christ's human nature. Kirchner is careful (Hauptstück III § 21) to reject the caricature — *not* substance-in-every-creature (stone, leaf, grass, sun, moon) — while defending the Lutheran positive: *illocal multipresence* per Personal union and exaltation. See [[reference-scholastic-lutherans-glossary]] under *ubiquitas* for the standing entry; this Kirchner refinement is critical. |
-| **Rechte Hand Gottes / dextra Dei** | Right Hand of God | Kirchner (Hauptstück III § 19) argues systematically that the "Right Hand of God" is *not a Locus Physicus* (not a spatial place) but the Divine Majesty and Power itself (Heb. 1, 8; Luke 22). This exegesis is load-bearing for the whole Lutheran doctrine of the Session: since the Right Hand is not a place, Christ's session at it is compatible with his human nature's presence everywhere he wills to be. |
+| **Ubiquität / *ubiquitas*** | Ubiquity (technical Lutheran term) | The Reformed polemical label for the Lutheran doctrine of the multipresence of Christ's human nature. Kirchner is careful (Chapter III § 21) to reject the caricature — *not* substance-in-every-creature (stone, leaf, grass, sun, moon) — while defending the Lutheran positive: *illocal multipresence* per Personal union and exaltation. See [[reference-scholastic-lutherans-glossary]] under *ubiquitas* for the standing entry; this Kirchner refinement is critical. |
+| **Rechte Hand Gottes / dextra Dei** | Right Hand of God | Kirchner (Chapter III § 19) argues systematically that the "Right Hand of God" is *not a Locus Physicus* (not a spatial place) but the Divine Majesty and Power itself (Heb. 1, 8; Luke 22). This exegesis is load-bearing for the whole Lutheran doctrine of the Session: since the Right Hand is not a place, Christ's session at it is compatible with his human nature's presence everywhere he wills to be. |
 | ***Locus Physicus*** | Spatial (physical) place | The Reformed conception of heaven and of the Right Hand of God that Kirchner rejects. If heaven is a spatial place and the Right Hand a spatial location, Christ's body is *there* and cannot be *here*; if neither is spatial, the objection collapses. Preserve untranslated in doctrinal loci. |
-| **Status humiliationis / exaltationis** | State of Humiliation / of Exaltation | The two states of Christ's earthly and heavenly existence. Kirchner (Hauptstück III § 23) treats the humiliation as a *concealment and non-use* rather than a *lack* of the Majesty acquired at Incarnation. The Reformed position — *lack* — leads back to a Nestorian split. Preserve untranslated on formal use. |
-| **Agnoetae** | Agnoetae | The 6th-c. Egyptian sect who taught real ignorance in Christ's human nature. Kirchner (Hauptstück III § 14) sees the Reformed Christological position as materially near this heresy — a polemical thrust characteristic of Lutheran scholasticism after Chemnitz. |
+| **Status humiliationis / exaltationis** | State of Humiliation / of Exaltation | The two states of Christ's earthly and heavenly existence. Kirchner (Chapter III § 23) treats the humiliation as a *concealment and non-use* rather than a *lack* of the Majesty acquired at Incarnation. The Reformed position — *lack* — leads back to a Nestorian split. Preserve untranslated on formal use. |
+| **Agnoetae** | Agnoetae | The 6th-c. Egyptian sect who taught real ignorance in Christ's human nature. Kirchner (Chapter III § 14) sees the Reformed Christological position as materially near this heresy — a polemical thrust characteristic of Lutheran scholasticism after Chemnitz. |
 | ***Sit à dextris meis*** | Sit thou at my right hand | Ps. 110:1, foundational text for the whole Christological doctrine of the Session. Athanasius (*apud Theodoretum*) reads it as spoken to the *body* of Christ. Kirchner marshals the entire patristic chain (Athanasius → Ambrose → Cyprian → Chrysostom) to establish the Right Hand's exaltation-of-the-humanity reading. |
-| **Ampt Christi / *munus Christi*** | Office of Christ | The fourfold work of Christ as Redeemer-of-sin, Fulfiller-of-the-Law, Bestower-through-Word-and-Sacrament, and Sender-of-the-Spirit. Kirchner's Hauptstück IV — the closing brief locus. Not the developed *Threefold Office* (Prophet, Priest, King) of later scholastic dogmatics (Gerhard, Quenstedt), which is a 17th-c. refinement not yet formalised in 1583. |
+| **Ampt Christi / *munus Christi*** | Office of Christ | The fourfold work of Christ as Redeemer-of-sin, Fulfiller-of-the-Law, Bestower-through-Word-and-Sacrament, and Sender-of-the-Spirit. Kirchner's Chapter IV — the closing brief locus. Not the developed *Threefold Office* (Prophet, Priest, King) of later scholastic dogmatics (Gerhard, Quenstedt), which is a 17th-c. refinement not yet formalised in 1583. |
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -3907,15 +3907,15 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 &nbsp;
 
-*Tranche 1 shipped 30 August 2026 (kick-off + Hauptstück II–IV opening). "Complete" claim retracted 31 August 2026. Tranches 2a–2c shipped 31 August 2026 (Hauptstück V–XIV, including the load-bearing Politia seed at XIV). **Tranches 3a, 3b, and 3c shipped 31 August 2026**, extending translation through cv ~895 to cover the remainder of the book:*
+*Tranche 1 shipped 30 August 2026 (kick-off + Chapter II–IV opening). "Complete" claim retracted 31 August 2026. Tranches 2a–2c shipped 31 August 2026 (Chapter V–XIV, including the load-bearing Politia seed at XIV). **Tranches 3a, 3b, and 3c shipped 31 August 2026**, extending translation through cv ~895 to cover the remainder of the book:*
 
-*Tranche 3a — Hauptstück XV Vom Euangelio + XVI Von der Rechtfertigung + XVII Vom Glauben + XVIII Von der ewigen Wahl + XIX Von guten Wercken + XX Von der Liebe des Nechsten + XXI Vom Gebet.*
+*Tranche 3a — Chapter XV Vom Euangelio + XVI Von der Rechtfertigung + XVII Vom Glauben + XVIII Von der ewigen Wahl + XIX Von guten Wercken + XX Von der Liebe des Nechsten + XXI Vom Gebet.*
 
-*Tranche 3b — Hauptstück XXII Von den Sacramenten in gemein + XXIII Von der Tauffe + XXIV Vom Heiligen Abendtmal (the polemical Christological core applied sacramentally — the largest single locus of the whole book, with the full apparatus against the Reformed on the Right Hand of God) + XXV Von der Catholischen Kirche + XXVI Von der Gewalt der Schlüssel.*
+*Tranche 3b — Chapter XXII Von den Sacramenten in gemein + XXIII Von der Tauffe + XXIV Vom Heiligen Abendtmal (the polemical Christological core applied sacramentally — the largest single locus of the whole book, with the full apparatus against the Reformed on the Right Hand of God) + XXV Von der Catholischen Kirche + XXVI Von der Gewalt der Schlüssel.*
 
-*Tranche 3c — Hauptstück XXVII Von der Busse + XXVIII Vom Ergernuß + XXIX Vom Antichrist (the papal-Antichrist identification with nine marks, per Smalcald Articles II.iv + the Treatise on the Power and Primacy of the Pope) + XXX Vom Creuz und Leiden + Locus XLV Von der Aufferstehung der Todten + Locus XLV bis Von der Hell + Locus XLVI Vom ewigen Leben (closing with "Come, LORD Jesus").*
+*Tranche 3c — Chapter XXVII Von der Busse + XXVIII Vom Ergernuß + XXIX Vom Antichrist (the papal-Antichrist identification with nine marks, per Smalcald Articles II.iv + the Treatise on the Power and Primacy of the Pope) + XXX Vom Creuz und Leiden + Locus XLV Von der Aufferstehung der Todten + Locus XLV bis Von der Hell + Locus XLVI Vom ewigen Leben (closing with "Come, LORD Jesus").*
 
-*Comprising cv 5 + cv 7–895 of the ~895-canvas book — **the whole *Enchiridion***. Contents through T3c: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Hauptstück I–XXX in full plus the eschatological block (Resurrection, Hell = locus XLV *bis*, Eternal Life = locus XLVI)**. The reader's political-theology compend has the *Politia* seed at Hauptstück XIV § 4 sub 2 and § 7, developed further at XIV throughout.*
+*Comprising cv 5 + cv 7–895 of the ~895-canvas book — **the whole *Enchiridion***. Contents through T3c: Title Page, Dedication Epigraph, Contents, Translator's Note; Widmungsvorrede in full; **Chapter I–XXX in full plus the eschatological block (Resurrection, Hell = locus XLV *bis*, Eternal Life = locus XLVI)**. The reader's political-theology compend has the *Politia* seed at Chapter XIV § 4 sub 2 and § 7, developed further at XIV throughout.*
 
 *Intermediate loci XXXI–XLIV (individual Last Things, Vocation, Marriage, ecclesiastical discipline, calendar of feasts, preparation for death) are noted in the ToC but not yet developed in canvas-by-canvas depth — see Translator's Note § 5.*
 

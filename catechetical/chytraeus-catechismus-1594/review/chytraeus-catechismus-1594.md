@@ -297,7 +297,13 @@ Two paratexts embedded in the 1594 printing are earlier in date than the edition
 
 Both are preserved unchanged in every subsequent edition and are here translated in their proper 1568/1575 voice. The body proper reflects the augmentations of the 1594 revision.
 
-## 2. What the author himself supplies
+## 2. The two recensions of Chytraeus's *Catechesis*
+
+Chytraeus's *Catechesis* exists in two materially different recensions. The **first printing** appeared in the mid-1550s from Chytraeus's Rostock lectures; as he himself explains in the address to the reader that follows this Note, that first printing was published *"me plane inscio et ignaro"* ("without my own knowledge") by his teacher and colleague Dr Johann Aurifaber, and was a comparatively brief teaching text. Over the following three decades Chytraeus repeatedly revised and expanded the catechism, so that the **1588** Leipzig printing (from the press of Abraham Lamberg) and the **1594** Leipzig printing (from the *officina Voegeliana*) represent a substantially longer, mature, author-revised recension. Both carry on their title page the same formula, *"postremò nunc ab ipso Autore recognita, & multis in locis aucta"* ("now at last revised by the Author himself, and augmented in many places").
+
+The first recension was translated by **Dinda in the 1990s** and published by **Repristination Press** under the title *A Summary of Christian Doctrine*. The present translation is not a duplicate of Dinda's: it is, so far as we are aware, the first English rendering of the mature *postremò recognita* recension, from a Latin base substantially longer than the *editio prima*.
+
+## 3. What the author himself supplies
 
 Chytraeus's Catechism is composed on two typographic registers, and both are preserved:
 
@@ -306,7 +312,7 @@ Chytraeus's Catechism is composed on two typographic registers, and both are pre
 
 All scripture citations, all patristic and classical allusions, the enumeration of Luther's three instruments (*oratio · meditatio · tentatio*) from the 1539 preface to Volume I of the German Wittenberg edition, the Aristotle *Ethica* reference, the *Pythagoras* aphorism, the Greek gnomic hexameters, the biographical dedication to the young Menzingen and to Chytraeus's own tenure "in hac Balthici littoris Sarepta" (Rostock, called *Sarepta* on Baltic shores) — all of these are Chytraeus's own and are preserved.
 
-## 3. What the Scholastic Lutherans have added — and where
+## 4. What the Scholastic Lutherans have added — and where
 
 *Nothing in the body text is our own.* All editorial additions are relegated to the numbered endnotes at the end of this volume. These endnotes supply, and only supply:
 
@@ -316,7 +322,7 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 - Modern place-names for German-humanist toponyms (Rostock for *urbs Rosarum*, Strasbourg for *Argentoratum*, Massilia for Marseille, etc.)
 - Brief technical notes where the Latin carries a scholastic distinction the English cannot preserve
 
-## 4. Editorial conventions
+## 5. Editorial conventions
 
 - **Register:** scholarly / academic-critical English. Reverent but not archaising.
 - **Greek** is preserved in polytonic script, with parenthetical transliteration and English gloss on first substantive occurrence — e.g. **κατηχέω** (*katēcheō*, "I sound down into the ear," "instruct by voice").
@@ -326,7 +332,7 @@ All scripture citations, all patristic and classical allusions, the enumeration 
 - **Long-*s*** (ſ) is silently modernised to round *s*. Sixteenth-century *v/u* and *i/j* are normalised to standard modern Latin orthography in citation. The German ligature ß is preserved in original citations, resolved as "ss" in English body text.
 - **Rubrication, typeface, layout** — locked via `shared/reference-custom.docx` and identical to the Praetorius trilogy.
 
-## 5. Source note — the 1594 / 1588 hybrid
+## 6. Source note — the 1594 / 1588 hybrid
 
 The Internet Archive OCR of the 1594 Leipzig edition (item `Chytraeus_Catechism`, filename `Chytraeus_Catechism_1594_djvu.txt`) terminates at page 117, mid-Locus VI. The scan itself appears to be incomplete. For **Loci VII–X and the closing appendix** we have therefore fallen back to the **1588 edition** of the same *Catechesis Davidis Chytraei*, present in the same Internet Archive item as `Chytraeus_Catechism_1588_djvu.txt`.
 
@@ -334,7 +340,7 @@ Chytraeus's own title-page description of the 1594 (*"postremò nunc ab ipso Aut
 
 One structural point of divergence must be noted and preserved: the **1594 enumeration** (already reproduced in Locus I § 4 of this working translation, from the 1594 OCR itself) lists **Locus VII = De Poenitentia et Absolutione** and **Locus VIII = De Sacramentis**. The **1588** printing has these two loci in the reverse order (VII = De Sacramentis, VIII = De Poenitentia). We follow the 1594 enumeration throughout, since it is that recension which Chytraeus himself designated as *postrema* — his final revision. The content is drawn from the 1588 (where the loci are numerically re-labelled but doctrinally identical).
 
-## 6. What is complete in this working translation
+## 7. What is complete in this working translation
 
 All ten Loci and the appended *Brief Explication of the Lord's Prayer* are here translated. This working translation is therefore materially complete for the Catechism proper.
 
@@ -342,16 +348,16 @@ All ten Loci and the appended *Brief Explication of the Lord's Prayer* are here 
 - Chapter 1 (Prolegomena), Locus I *De Vera Dei Agnitione et Invocatione*, Locus II *De Creatione*, and Locus III *De Lege Dei* (in two parts) — from the 1594 OCR.
 - Locus IV *De Peccato*, Locus V *De Evangelio*, most of Locus VI *De Nova Obedientia* — from the 1594 OCR.
 - End of Locus VI, Locus VII *De Poenitentia*, Locus VIII *De Sacramentis*, Locus IX *De Ecclesia*, Locus X *De Immortalitate Animae*, and the *Brief Explication of the Lord's Prayer* — from the 1588 edition (Chytraeus's own hand, one recension earlier than 1594).
-## 7. What remains for future revision
+## 8. What remains for future revision
 
 - **Marginal glosses.** The 1594 print carries running marginal notes in the OCR text that appear to be reader-added rather than Chytraeus's own. These are not yet transcribed; they will be catalogued in a future editorial pass.
 - **Full 1594 / 1588 textual collation.** Identifying precisely which passages the 1594 title-page description *multis in locis aucta* refers to — line by line — is a task for a future critical edition; the working translation here suffices for reading, teaching, and reference purposes.
 
-## 8. Author
+## 9. Author
 
 Translated by **the Scholastic Lutherans translation team**. AI-assisted (Claude Opus 4.7).
 
-## 9. On AI assistance
+## 10. On AI assistance
 
 Translation from the Latin was drafted with the assistance of a large language model, then verified paragraph-by-paragraph against the source facsimile. Every named source, every citation, and every scholastic term was cross-checked; no citation or attribution in the English body text is present that is not present in the Latin source. Where the source is corrupt in the OCR (chiefly in the small-type commentary passages, where 16th-century italic Antiqua occasionally defeats the scanner), the passage was read directly from the PDF facsimile and, where doubt remained, marked with an editorial endnote rather than silently patched. This is the working method already proven across the Praetorius *Syntagma musicum* trilogy (Volumes I–III, completed August 2026), and it is the method by which every one of the twenty-two works of the Scholastic Lutherans corpus will be produced.
 

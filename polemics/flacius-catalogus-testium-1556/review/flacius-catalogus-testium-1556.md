@@ -1506,7 +1506,41 @@ Haec **Hincmarus**. Graeca illa synodus septima ab ipsis uocata, quâ à Francof
 
 **Cabilonense concilium circa anni Domini 800, sub Carolo Magno celebratum**, multa utiliter statuit, in quibus etiam crescenti superstitioni et abusib. restitit.⁴⁵⁵ Praecepit enim, ut sacerdotes et episcopi diligenter studeant in sacris literis, ut docendi sui plebs…
 
-*[Chalons entry continues on `vl0136`; staged for the next Tranche 2 session.]*
+…**Item, ut sedulò ubiq[ue] scholas iuuentutis instaurent et erigant.**⁴⁵⁶ **Seuerissimè quoq[ue] coercuit sacerdotum et monachorum impuram rapacitatem**, quos querūtur illi patres, persuadere simplicibus hominibus, ut sua bona templis aut monasterijs stultè largiantur, ipsiq[ue] sese in monachatum praecipitent. Quinetiam iussit id concilium, omnino omnia illa bona suis haeredibus, parentum stultitia et sacerdotum auaritia spoliatis, reddere. Vetuit praeterea, ne episcopi aut sacerdotes alant canes aut accipitres: ne se se inebrient, ac ita minus liberè suum uulgus arguere ausint: ne se implicent negocijs ciuilibus, ne quicquam à suis inferioribus sacerdotibus exigant: ne item quicquam pro chrismate, aut ecclesiarum dedicatione, aut sacerdotum ordinatione accipiant. Iussit, ut publicè peccantes, publicè poenitentiam agant.⁴⁵⁷
+
+**Verùm peregrinationes religionis causa, in primis seueriter coercuerunt.** Sic enim 45 Canone de eis sentiunt ac sanciunt: *Nam et à quibusdam qui Romam, Turonum ue, et alia quaedam loca sub praetextu orationis inconsulté peragrat, plurimum erratur. Sunt presbyteri et diaconi, et caeteri in clero constituti, qui negligenter uiuentes, in eo purgari se à peccatis putant, et ministerio suo fungi debere, si praefata loca attingant. Sunt nihilominus laici, qui putant se impunè uel peccare, uel peccasse, quia haec loca oratui frequentant. Sunt quidam potentum, qui acquirendi census gratia, sub praetextu Romani siue Turonici itineris, multa acquirunt, multos pauperum opprimunt: & quod ipsa cupiditate faciunt, orationum siue sanctorum locorum uisitationis causa se facere uideri affectant. Sunt pauperes, qui ideo id faciunt, ut maiorem habeant materiam mendicandi. De quorum numero sunt illi, qui circumquaq[ue], illô se hostiendo, uel quia sic tantum sunt uecordes, ut putent, se sanctorum locorum sola uisione à peccatis purgari, non attendentes quod ait beatus Hieronymus: **Non Hierosolymam uidisse, sed Hierosolymis benè uixisse, laudandum est.***⁴⁵⁸
+
+**De quibus omnibus Domini Imperatoris, qualiter sint emendanda, sententia expectatur.** Qui uerò peccata sua sacerdotibus, in quorum sunt parochijs, confessi sunt, et ab his agendae poenitentiae consilium acceperunt, ac orationibus insistendo, eleemosynas largiendo, uitam emendando, mores componendo, Apostolorum limina uel quorumlibet sanctorum inuisere desiderant, horum si deuotio omnibus custodiatur…
+
+**Talis planè opinio, quòd illa ipsa tantum aliquorum locorum uisitatio peccata purget, ac Deum placet, hodie in Papatu inualuit: utpote cum etiam alios pro se mittere ad tales peregrinationes, religionem putauerunt esse.** Imò etiam mortuos talibus aliorum peregrinationibus iuuari probant: id faciunt eorum temporum illorum regnantiq[ue] superstitionis consensu uicij, sed tamen ita ita, quàm ut accidentia quae adijunguant, magis quàm ipsam peregrinationem probare uideantur. Nempe si pius ac doctus sacerdos id ad poenitentiam eius castigationem persuaseris, illi perrexerint orationibus insistendo, eleemosynas largiendo, uitam emendando, mores componendo, etc. Vt non tam ipsam peregrinationem, quàm haec optima accidentia respexerint, ac laudarint.⁴⁵⁹
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Methodius Illyricus
+
+### *St Methodius of Thessaloniki (Illyricus)* — vl0138–vl0139
+
+**Quidam Methodius Illyricus**, uir doctus, floruit circa 860 Domini annum. Scribit de eo **Auentinus** *Bauaricorum annalium quarto*, quòd **Sclauis seu Vandalis literarum characteres inuenerit**, sacrasq[ue] literas in uulgari sermone uerterit.⁴⁶⁰ Ait quoque eum impulisse Dalmatas, alios[que] Illyricos, ut abolita lingua Latina, uulgari in sacris mysterijs peragendis uterentur. Quin etiam affirmat, ritus Romanos penitus ex illis ecclesijs explosisse. Eo opere perfecto, dicit illum etiā in Bauariam peruenisse, idem[que] ibi tentaturum: sed sacerdotes ac episcopos concitasse in eum principes ac populos, ita ut in Morauiam bonus ille bonum aufugerit; uel mortuus, ac Olmutzae sepultus sit. Vtinam aliqua eius scripta extarent, historiamq[ue] certaminum ipsius notiorem haberemus. Nam non parua, nec uulgaria fuisse oportet.⁴⁶¹
+
+**Acciderat uerò non ita multo antè, nempe sub Carolo Magno, ut plerisque ecclesijs exterarum regionum, Romani sui Papistici ritus obtruderentur. Quare uerisimile est, istum bonum uirum, tum eā recenti mutatione rituum Ecclesiasticorum, tum etiam ipsā non intelligibili sermonis in religione, ad id conandum incitatum esse.** Apparet sanè ex istis eius factis, eum non parum melius intellexisse, quàm reliquum sacerdotum uulgus, quid ad Ecclesiae Dei aedificationem prosit, aut obsit. **Est uerò adhuc in Ecclesiasticis actionibus seu sacris usitata uulgaris lingua in Illyria, siue ea res ab hoc Methodio initium instaurationisq[ue], sumpserit, siue sic semper inde ab initio in usu fuerit.**⁴⁶²
+
+**Syluius**, ut superius indicaui, dicit diu multumq[ue], in Romana curia deliberatum esse, an sit Sclauis Vandalis permittendum, ut uulgari lingua in sacris peragendis utantur: sed tandem coelitus audita uocem, *Omnis lingua laudet Dominum*, sic ijs concessum esse. Caeterum ritus planè Romani sunt, exceptis paucis remotioribus, locis, ubi Graeca religionis forma est. Scribit Auentinus in maxima ueneratione esse, ac ueluti pro sancto coli in quibusdam locis in Illyria istum Methodium. Dubitat etiam, an idem hic fuerit cum alio quodam Methodo Morauiensi episcopo, ad quem olim Eugenius secundus scripserat.⁴⁶³
+
+## Successores Paparum
+
+### *The Successors of the Popes* — vl0139
+
+**Multi planè inter Papas (ut etiam Platina saepius testatur) successores, suorum praecessorum gesta ac decreta reprehenderunt, ac aliqua irrita fecerunt, abrogauerunt.** Quin et tota noua quaestio 25 causae, id disputat, errata priorum Paparum à successoribus corrigi mutariq[ue], posse et debere.⁴⁶⁴ Ergo ipsius Antichristi proprio testimonio probatur, eum non esse *ἀναμάρτητον* [anamartēton], impeccabilem, ut ita loquar: sicut eius adulatores et cultores impudenter mentiuntur, eum errare non posse.
+
+## Episcopi Belgici
+
+### *The Belgian Bishops* — vl0139+
+
+**Habuerunt et aliquot episcopi Belgici, circa annum**…⁴⁶⁵
+
+*[Episcopi Belgici entry continues on `vl0140`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
