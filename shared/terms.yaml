@@ -4098,14 +4098,177 @@ successores_paparum_correctio:
     impeccable). Greek philosophical term deployed against medieval
     theological claim.
 
+# ─── Tranche 2cc — Belgian bishops + Sachsenspiegel + Liutbert + Charlemagne
+# Edict + Iconoclast emperors + Ludovicus opening (vl0139-vl0150) ────────
+
+episcopi_belgici_gunther_theotgaud:
+  english: The Belgian bishops (Gunther of Cologne + Theotgaud of Trier vs Nicholas I)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Episcopi Belgici at vl0139-vl0142"
+  note: >
+    Gunther Archbishop of Cologne (r. 850-863) + Theotgaud Archbishop
+    of Trier (r. 847-863) — deposed at Roman Synod October 863 by
+    Nicholas I over the LOTHAR II divorce case (858-869). Presided
+    over Metz Synod June 863 approving Lothar's divorce of Teutberga
+    and marriage to Waldrada; Nicholas I annulled decrees + deposed
+    metropolitans without provincial hearing. Founding-moment of
+    specifically-papal jurisdictional overreach into Frankish
+    provincial affairs; direct precursor of Dictatus Papae 1075
+    and Innocent III plenitudo potestatis. Letter preserved in
+    Aventinus Annales Boiorum IV.
+
+servus_servorum_dominus_dominantium:
+  english: Servant of servants who strives to be Lord of Lords
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Episcopi Belgici Gunther/Theotgaud letter at vl0141"
+  note: >
+    Reformation locus classicus on papal-titulature inflation.
+    Servus servorum Dei introduced by Gregory the Great Ep V.44
+    as anti-universalis-episcopus humility-formula — inverted by
+    later popes into title of universal jurisdiction. Dominus
+    dominantium echoes 1 Tim 6:15 + Rev 17:14/19:16 (divine title
+    now usurped). Gunther-Theotgaud letter deploys the contradiction
+    to full polemical effect. Compare Gregory VII Dictatus Papae
+    1075 §§9,11; Melanchthon Tractatus BSELK 728-732; the argument
+    is the standard Reformation-Lutheran titulature critique.
+
+lupus_sub_pastore:
+  english: Wolf under the shepherd's cloak
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Episcopi Belgici Gunther/Theotgaud letter at vl0141"
+  note: >
+    Sub cultu pastoris lupum sentimus — under the shepherd's cloak
+    we detect the wolf. Standard Reformation identification of the
+    papacy under Matt 7:15 (lupi rapaces in sheep's clothing) +
+    Acts 20:29 (graves lupi entering the flock). Compare Luther
+    De captivitate Babylonica 1520 WA 6:497-573. Gunther-Theotgaud
+    deploy the trope with special force since Nicholas I titles
+    himself pontifex (shepherd) while acting the tyrant.
+
+speculum_saxonicum:
+  english: The Sachsenspiegel (Saxon Mirror)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Speculum Saxonicum at vl0142"
+  note: >
+    Mid-13th c German customary-law code c. 1220-1235 compiled by
+    Eike von Repgow for Saxon secular usage. Says Pope cannot mandate
+    or ordain anything against Saxon right; further restricts clerical
+    inheritance. Flacius's dating 1000+ years and ascription to
+    Constantine are humanist misdating (the Sachsenspiegel is High-
+    Medieval not Late-Antique) but the polemical point survives:
+    even a High-Medieval Germanic legal culture recognised limits
+    on papal jurisdictional reach into secular law. MGH Fontes iuris
+    germanici antiqui Nova Series I (Eckhardt).
+
+luitpertus_moguntinus:
+  english: Liutbert of Mainz (letter to Louis on papal error)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Luitpertus at vl0142-vl0145"
+  note: >
+    Archbishop of Mainz r. 863-889 East-Frankish primate under Louis
+    the German. Letter to Louis (the German most probably, or Louis
+    the Younger post-876) asking imperial intervention against papal
+    error. Extended body-of-Christ pathology metaphor — head struck
+    with injuries, sickness spreads to members, diseased limbs must
+    be amputated iuxta praeceptum ueri medici nostri (Matt 5:29-30
+    applied ecclesiologically). Zizaniorum sator = Matt 13:24-30
+    tares-among-wheat identified as devil-of-doctrinal-scandal.
+    Standard Reformation-Lutheran precedent for imperial-court
+    coordination against papal overreach; Carolus frater = Charles
+    the Bald West-Frankish king, coordination-model between East and
+    West Frankish courts.
+
+admonitio_generalis_karoli:
+  english: Charlemagne's Admonitio Generalis (23 March 789)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Edictum Caroli Magni at vl0145-vl0149"
+  note: >
+    Charlemagne's foundational imperial ecclesiastical-reform edict
+    promulgated at Aachen 23 March 789. MGH Capitularia I:52-62
+    (Boretius) no. 22. 82 chapters — 59 from Dionysio-Hadriana
+    canonical collection + 23 Charlemagne's own additions on
+    preaching, schooling, moral discipline, clerical training.
+    Standard Reformation-Lutheran proof-text: Charlemagne addresses
+    bishops as pastores ecclesiarum Christi + ductores gregis +
+    clarissima mundi luminaria (Phil 2:15) preserving pastoral
+    office without recognising papal-monarchical superintendence.
+    Modern edition Mordek/Zechiel-Eckes/Glatthaar 2012 (MGH Fontes
+    iuris germanici XVI). Preaching-content: Trinity + incarnation
+    + resurrection-in-ipsis-corporibus + Gal 5:19-21 vice catalog
+    + Dominical Prayer + 2 Tim 3:1-9 pseudodoctores.
+
+iosias_typus_imperatoris:
+  english: Josiah as type of the Christian emperor-reformer
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Edictum Caroli Magni at vl0146"
+  note: >
+    2 Kings 22-23 (2 Reg. Vg) Josiah's rediscovery of Book of the Law
+    + reform of Judah's worship. Charlemagne explicitly types himself
+    as Josiah in Admonitio Generalis. FOUNDING-IMAGE of Christian
+    imperial reform-of-religion: inspires Alfred the Great, Ottonian
+    reform, and — critically — the REFORMATION itself where Frederick
+    the Wise + successive Lutheran electors read themselves as Josiah
+    restoring true worship. Compare Luther An den christlichen Adel
+    1520 WA 6:404-469 on the Christian magistrate's duty to reform
+    the Church.
+
+missi_dominici:
+  english: Missi dominici (imperial envoys)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Edictum Caroli Magni at vl0146"
+  note: >
+    Carolingian institutional innovation: pairs of bishop-plus-count
+    sent from the palace to supervise ecclesiastical and civil affairs
+    in every province. Ex nostris ad uos direximus missos qui ex nostri
+    nominis authoritate una nobiscum corrigerent quae corrigenda essent
+    — Charlemagne's own language. Reformation-standard evidence for
+    IMPERIAL oversight of ecclesiastical discipline in the Carolingian
+    period without papal mediation. Classical study F.L. Ganshof
+    Frankish Institutions under Charlemagne (Providence 1968) chs. 2-3.
+
+imperatores_iconoclastae:
+  english: The Iconoclast Emperors (Leo III through Theophilus)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Imperatores & Synodus Constantinopolitana at vl0149"
+  note: >
+    Leo III the Isaurian (r. 717-741 iconoclast decree 726/730) →
+    Constantine V Copronymus (741-775) → Leo IV the Khazar (775-780)
+    → [Irene + Nicaea II 787 pro-icon interlude] → Leo V the Armenian
+    (813-820) → Michael II the Amorian (820-829) → Theophilus (829-
+    842). Definitively reversed at Synod of Constantinople 843
+    Triumph of Orthodoxy. Standard Reformation-Lutheran reading:
+    Iconoclast emperors were WITNESSES OF THE TRUTH against Nicaea
+    II innovation of image-adoration. Council of Hieria 754 (338
+    bishops Palace of Hieria across Bosphorus). Empress Irene
+    parricida — blinded her son Constantine VI in 797, convoked
+    Nicaea II 787.
+
+regula_clericorum_aquisgranensis:
+  english: The Rule of Clerics of Aachen (Institutio Canonicorum, 816)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Ludovicus Imperator at vl0150"
+  note: >
+    Louis the Pious (r. 813 co-emperor / 814-840 sole) convoked
+    Aachen 816 Council issuing Institutio Canonicorum + Institutio
+    Sanctimonialium (nuns' rule). MGH Concilia II.1 (Werminghoff).
+    FLACIUS'S SMOKING-GUN: Louis's letter to Archbishop of Salzburg
+    who did not attend council mandates the canonical rule NULLA
+    PENITUS PAPAE MENTIONEM FACIENS — "making no mention whatsoever
+    of the Pope" — by imperial authority alone (Volumus et decernimus).
+    Salzburg archbishop = Arno r. 785-821 or Adalram r. 821-836.
+    Reformation-Lutheran standard evidence for Carolingian ecclesiastical
+    governance as IMPERIAL not papal; Magdeburg Centuries Cent IX
+    develops the reading. Platina Vita Ludovici Pii lament O
+    Ludovice ut nam nunc uiueres.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Successores Paparum (vl0001-vl0139, 139
-# body pp + 32 paratexts ≈ 25.4% of 1094-pp body — CROSSED 25% MILESTONE!).
-# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
-# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
-# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
-# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
-# 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) = 148.
+# FLACIUS 1556 — TRANCHE 2 through Ludovicus Imperator opening (vl0001-vl0150,
+# 150 body pp + 32 paratexts ≈ 27.4% of 1094-pp body). Flacius lemma total:
+# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
+# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
+# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4
+# (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4
+# (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc) = 158.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
