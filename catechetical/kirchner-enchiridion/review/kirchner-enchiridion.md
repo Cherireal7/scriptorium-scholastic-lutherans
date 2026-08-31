@@ -7676,9 +7676,143 @@ The **Papal Idolatrous Consecration** we rightly reject.
 
 **Answer**: The Epistle to the Hebrews indeed mentions the Altar; but that the Mass shall be the Sacrifice upon the said Altar — *no word* stands at the same place. Rather, she says that the Christians' Sacrifice is **the Fruit of the Lips**, or the *Confession of the Name of Christ*; likewise **doing good** and *imparting to others* — **Heb. 13:15–16**. From which appears that the word "Altar" *in no least degree* proves that the Mass be a Sacrifice which for the Living and Dead must be set forth.
 
+### II. Daniel 7 and 11.
+
+**In Daniel 7 and 11 it stands of the Antichrist: he shall take away the daily Sacrifice. *Ergo*, so must there be a Sacrifice in the New Testament — and that is the Mass.**
+
+**Answer**:
+
+**1.** It is certain that Daniel's words speak properly of **Antiochus**, and are only *allegorically* interpreted of the Antichrist. Further, that he should have spoken of the Supper of the LORD — which the Pope has transformed into the Mass-sacrifice for the Living and Dead — that can never be brought forth *in all Eternity*. The reason is: for the Supper is *no such Sacrifice*, and by Christ was not instituted thereto. So too is it certain that the Holy Spirit, who spoke through the Prophet Daniel, would not contradict the LORD Christ and the Institution of his Testament, and make of the Supper of the New Testament a *Reconciliation-Sacrifice for the Living and Dead* — forasmuch as it is not unknown to him that there is only **one sole Reconciliation-Sacrifice** of the New Testament, namely, the Sacrifice wherein Christ himself on the Stem of the Cross *offered himself for the Sin of the whole World* — which shall never be *repeated* — **Heb. 10:12, 14**: *"This one hath offered one Sacrifice for Sins that is valid eternally."* Item: *"With one Sacrifice he hath perfected those who are sanctified."*
+
+### III. Christ's Priesthood.
+
+**Christ's Priesthood was not to be abolished through his Death. *Ergo*, so he must not alone once on the Cross, but also hereafter in the Mass, have been offered — that he may thus be a Priest eternally.**
+
+**Answer**: The **consequence** does not hold at all. For Christ's Priesthood remains one way as the other, though his Body is not daily in the Mass offered for the Living and Dead. Wherein the Priesthood of Christ stands, Scripture herself indicates — namely, that he **always lives and intercedes for his own** — **Heb. 7:25**; item, that we through him, as the *High Priest*, have an **access to the Heavenly Father** — **Heb. 5; Rom. 8**; item, that he *can eternally make blessed those who through him come to God* — **Heb. 7:25**.
+
+From which bright and clear how and in what manner Christ's Priesthood remains, and is not abolished through his Death. But from this it *by no means* follows that therefore his Body must or shall daily in the Mass be offered as a *Reconciliation-Sacrifice* for the Living and Dead. For **Heb. 9:25–28** stands *not* that he offers himself often — as the High Priest goes every year into the Holy Place with strange blood; otherwise he must have had to *suffer often from the beginning of the World*. But now, at the end of the World, he is **once appeared through his own Sacrifice to take away Sin**. And as it is set for Men *once to die*, and thereafter the Judgment, so is Christ **once offered to take away the sins of many**, etc.
+
+### IV. Visible Sacrifice.
+
+**We Men need a visible Sacrifice. *Ergo*, so Christ instituted the Mass-sacrifice.**
+
+**Answer**: What sort of Sacrifice we need, or have needed, is in Holy Scripture clearly expressed — namely, the **one Reconciliation-Sacrifice of Jesus Christ**, which he on the Stem of the Cross rendered *once for us all*. And that came to pass **visibly** at the time when it happened. But that we should need a *daily visible Reconciliation-Sacrifice*, and that such should be the Mass, which shall daily be visibly offered and repeated in the Church, runs *directly against Scripture* — **Heb. 9 and 10** — as the sayings shortly before drawn. Besides, that Christ bids his Supper be *eaten and drunk*, and not *daily offered for the Living and Dead*.
+
+### V. "Do this in remembrance of me."
+
+**Christ says: "This do in remembrance of me." In the Mass happens the *Remembering* of Christ. *Ergo*, so is the Mass a Sacrifice.**
+
+**Answer**: Christ bids in the Supper eat his Body with Bread and drink his Blood with Wine, and wills that at such eating and drinking his Death's Remembrance shall happen — for the strengthening of Faith, and that he be **thanked** therefor. This must now mean to the opposite side as much as **to offer for the Living and Dead**. Christ, however, said not: *"Offer this in remembrance of me,"* but: *"Eat, this is my Body, which is given for you. Item, drink, this is my Blood, which is shed for you; and do this in remembrance of me."* This does not at all rhyme with the Sacrifice of the Mass.
+
+So far as the ***minor*** or the other proposition concerns, one asks not what they do in their fabled Sacrifice or Idol-Mass, but **what Christ in the Words of his Supper instituted and commanded to be done**. He, however, has not bid *offer* his Body and Blood with Bread and Wine for the Living and Dead, but *eat and drink*, and *do this in remembrance of him*. Thereby it shall and must remain. And no Angel or Pope has the Might to make something else out of the Holy Supper than what Christ instituted. Wherefore it holds not, what they in their fabled Mass *remember or not*, but alone *what Christ has commanded to be done*.
+
+### VI. The Figure of Melchisedek — Gen. 14.
+
+**The Figure of Melchisedek — Gen. 14 — must have been fulfilled in Truth. Melchisedek, however, offered God Bread and Wine. Wherefore Christ also must to his Heavenly Father not alone have offered Bread and Wine, but also — that the Truth might be fulfilled — under the shape of Bread and Wine, his Body and Blood. This, however, could have happened nowhere else than only in the Supper.**
+
+**Answer**: The ***minor*** or other proposition of this Argument is *throughout false*. For that Melchisedek should have offered God Bread and Wine — that can never in Eternity be brought forth from Moses' words. Forasmuch as Moses writes not that Melchisedek *offered* God Bread and Wine, but that he **brought forth Bread and Wine** — for so reads the Hebrew Text: ***Hozieduxit, protulit panem et vinum*** — to strengthen Abraham with his own.
+
+And thus have also **Chrysostom** and **Cyprian** explained these words, and have used *not* the word ***obtulit*** — "offered" — but the word ***protulit*** — that is, *"brought forth"* or *"carried out."* As also the ***Septuaginta interpretes*** in the Greek have given it no otherwise than *to bring forth*.
+
+Moses does indeed say that Melchisedek was a *Priest of God*. But that he should say Melchisedek had offered God Bread and Wine — that is a **pure Papist fable**, of which no letter stands in Moses.
+
+Because it is so, then also from this false and fabled ground — that Melchisedek should have offered Bread and Wine to God — it *throughout cannot* be concluded that Christ, to fulfil the Figure of Melchisedek, should have offered Bread and Wine in the Supper — much less his Body and Blood. That such never happened, the Words of Institution *plainly witness*, in which he neither offers his Body and Blood himself with Bread and Wine, nor commands others to offer, but says: **"Take, eat, this is my Body; Take, drink, this is my Blood."** Wherefore this Argument of the Papists does not at all stand.
+
+### VII. "Do this."
+
+**When Christ says: "Do this in remembrance of me" — he commands the disciples to offer his Body and Blood. *Ergo*, so is the Supper a Sacrifice.**
+
+**Answer**: That ("Do") here shall mean as much as *offer* — the opposite side can *nevermore* make good. For Christ commands here to do *the very thing, and nothing else, than what he himself has done*. Now he has not himself in the Supper **offered** his Body and Blood, but with Bread and Wine reached to eat and drink, as the Words of Institution *clearly bring with them*. Wherefore he can also not have commanded that his disciples shall offer his Body and Blood for the Living and Dead, which he himself in the Supper did not.
+
+Though it is otherwise used, as at **Ex. 29**, yet in the Words of Institution it cannot mean as much as *offer* — for (as reported) Christ in the same did not bid his Body and Blood be offered, but *eaten and drunk*. The LORD Christ also does not say: *"Do or offer my Body and my Blood for the Living and Dead,"* but: *"Do this in remembrance of me,"* — where he assuredly speaks of the *whole Action of the Supper*, and where the word ("Do") can by no semblance at all be drawn to *offering* for the Living and Dead.
+
+### VIII. Priests in the New Testament.
+
+**Every Priest is set that he offer for Sin — Heb. 5. Now there are Priests in the New Testament. Wherefore they must also *offer for Sin*.**
+
+**Answer**: The first proposition speaks only of the Priests of the **Old Testament**, as at **Heb. 5** is to be seen, and not that in the New Testament there also shall be many such *outward Priests*, as the Children of Aaron and the Levites in the Old Testament were.
+
+The other proposition is also *false*. For in the New Testament there are *no such outward Priests* as the Children of Aaron and Levites in the Old Testament were. It is also no such **outward Priesthood** in the New Testament by Christ instituted. As also the Papists can prove with no saying of the New Testament that outward Priests — as in the Old Testament — are or shall also be in the New Testament. Wherefore also what they give out of such Priests cannot stand.
+
+**1 Pet. 2:9** — all Christians in general are indeed called a **royal Priesthood** to offer God spiritual gifts. But that has *nothing at all to do* with such Papal Priests or Mass-priests, who would offer Christ's Body and Blood for the Living and Dead. The New Testament knows only of *one High Priest* who *once for all* offered himself for the sins of the whole World on the Stem of the Cross; but nothing of other outward Priests who should daily in the Mass offer Christ's Body and Blood for the Living and Dead.
+
+### IX. Malachi 1.
+
+**The Prophet Malachi, ch. 1:11, says that in the New Testament, in all places, incense shall be offered to the Name of Christ, and a pure Meat-offering. That same Meat-offering is the Mass, they give out.**
+
+**Answer**: That Malachi prophesies that in the New Testament a *pure Meat-offering* shall be offered — we gladly grant. But that the Papist Mass should be the same, is yet *unproved*, remains also well *unproven in all Eternity*. For with no letter can it be shown that he prophesies of a *Mass-priest with special ceremonies and gestures offering to the Heavenly Father, with Bread and Wine, the Body and Blood of Christ for the Living and Dead*, and that such Offering shall be a *Reconciliation-Sacrifice*. Wherefore the Papal Mass-sacrifice cannot in the least be shown from Malachi's words.
+
+*"Yes,"* they say, *"Malachi nevertheless prophesies of such a Sacrifice which under the Heathen, in all places, shall be offered in the New Testament."* But of this there is no dispute; rather, of this: whether Malachi speaks of the **Papal Sacrifice of the Mass for the Living and Dead**, which they have made contrary to the Institution of the Holy Supper. This they can nevermore bring forth.
+
+Malachi has indeed prophesied of a Meat-offering. But if one wants to know what that is, one need not first hear what the Pope gives out hereof, but if one will have and know the right ground of Truth herefrom, one shall look at the **Prophet's Words themselves**. He, however, speaks not of a new Sacrifice, much less of the Meat-offering which the Pope in the Holy Supper contrary to the Words of the Institution of Christ has made, but of a **pure Sacrifice**. Nor does he set against each other the Sacrifices of the Old Testament and the pure Sacrifice among the Heathen. Rather, he *by name* mentions the *Levitical Sacrifices* which were offered at a certain place of the Jewish land, and sets over against them the **pure Meat-offering of the New Testament**.
+
+He also explains with plain words what he thereby means — namely, the **Glorification of the Name of God** (that is to say): *"Hitherto God's Name has been praised only in the narrow place of the Jewish land; in the New Testament, however, such shall happen among all Heathen, and in all places — that the Name of the LORD, of the Messiah, shall be gloriously *made great, spread abroad, and praised.*"* And this shall happen through the **public Preaching-Office of the Holy Gospel**.
+
+Thus also the Apostle **Peter** interprets this Sacrifice of the New Testament — **1 Pet. 2:9**: *"Ye are the royal Priesthood, the holy People, the People of possession, that ye should proclaim the Virtues of him who called you out of Darkness into his marvellous Light."* In **Proclaiming or Praising the Virtues of God who called us**, this **pure Meat-offering** shall stand — and not in offering the Body and Blood of Christ with Bread and Wine for the Living and Dead, as by Papal Priests is daily done and held contrary to Christ's Institution. And thus have this saying of Malachi been interpreted by **Jerome on Malachi ch. 1** and **Eusebius, *Lib. 1 Demonstrationis Evangelicae, cap. 6***.
+
+But what needs many words? If they will indeed that Malachi should have prophesied of their Mass-sacrifice, they must first show:
+
+**1.** That Christ in the Supper offered his Body and Blood with Bread and Wine to God.
+
+**2.** That he intended his Supper *for ever and ever* to be such a Mass-sacrifice as it is in the Papacy with all Ceremonies.
+
+**3.** That Christ has instituted his Supper *to be offered for the Living and Dead*.
+
+And what such pieces more they fable of their Mass — of which they can in Eternity make good none. Wherefore they cannot with ground draw and cite Malachi's words for themselves therein.
+
+**Beyond all this**, it is clearly to be shown from Church History that the **Papal Sacrifice of the Mass has not at all times been in Christendom and in all places**. For Christ and the Apostles did not have it; likewise the Church for some hundred years after Christ's Ascension knew nothing of it.
+
+### X. The Mass has always been in Christ's Church.
+
+**They say roundly out: The Mass has always been so in Christ's Church. *Ergo*.**
+
+**Answer**: The **counterpart** is true. For the Papal Writers themselves — as **Platina** and **Gregory the Great, in Registro**, etc. — confess that the Apostle **Peter** held the Supper *simply*, and used only the Prayer of the Our Father, beside the Words of Institution. **Platina, *in vita Sixti I***.
+
+As they also witness this — that many Popes one after another have **patched at the Canon of the Mass**, and one has set to this piece, another that. They also set forth *by name* what each Pope did for himself thereto, as such at length could be recounted. How then can it be true that the Papal Sacrifice of the Mass be and always in Christ's Church has been so as she now is?
+
+**Justin Martyr, *Apolog. 2***, indeed describes the Supper as at that time in Christ's Church was held; but mentions with no word the *Mass-sacrifice for the Living and Dead*. In like manner also **Irenaeus, Lib. 4 & 5**.
+
+So too the ***Concilium Tridentinum*** itself is not so bold that it dared say ***de canone Missae*** that it was made by Christ and the Apostles themselves. Rather, it says only that the Canon stands upon Christ's words, the Apostles' statutes, and the *God-blessed Ordinances of holy Popes*. How dare they then be so bold, and give out that the Sacrifice of the Mass for the Living and Dead has always been so in Christ's Church?
+
+In the same manner also the word **"Mass"** is **quite unknown** to the old Greek Church, as such from **Ignatius, Sozomen**, and others is *visibly* to be seen. In **Ambrose, *Epist. Lib. 5 cap. 33***, it is well found, but *not at all* in the sense in which they now use it — namely, of the *Offering of the Body and Blood of Christ for the Living and Dead*. For thereof Ambrose in the said place makes mention with *no word*.
+
+**Suppose also that it was common with the Fathers Ambrose and others in general**, because however it stands not in the New Testament, and much less is indicated therein, that the Mass is a Sacrifice for the Living and Dead — so could it not from the Fathers' words be proved that therefore the Papal Sacrifice of the Mass be right. For Christ and the New Testament know nothing thereof, and have not taught it.
+
+That they, however, give out — the word *Sacrifice* stands often in the writings of the old Fathers, and wherefore it should follow that the Mass be a right Sacrifice for the Living and Dead — is of no worth. Reason: for the old Fathers call it not a Sacrifice for the Living and Dead. Rather, because in the early Church (as such is clearly indicated at **Irenaeus Lib. 4; Justin Martyr Apolog. 2; and in ***Decret. de consecrat. distinctio 1***, and elsewhere) it was customary that the Christians brought Bread and Wine into the Church, which they offered on the Table or Altar, and from such Bread and Wine was then taken what was needful or used for the Supper — thence they called it a **Sacrifice**.
+
+Thus the Supper is by **Irenaeus, Justin**, and other old Fathers called ***Eucharistia***, therefore: that at the use of the Supper thanks were given to Christ, that he on the Stem of the Cross *once* offered himself for us, and *procured through it an eternal Redemption* — and not that Christ's Body and Blood with Bread and Wine should be offered for the Living and Dead.
+
+Wherefore it cannot from the word *Sacrifice* — which the Fathers sometimes used — be forced that the Mass of the Papists be a Reconciliation-Sacrifice for the Living and Dead. Even if the Fathers had so called and described it, that would not be right; because Christ the LORD has not so instituted it. For in Christ's Church what this or that Father has written shall not hold, but **what our only LORD, Master, and Redeemer Jesus Christ himself in the Words of the Institution of his Holy Supper commanded and bid to be done, or in the same clearly expressed and prescribed**.
+
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues (more Papal arguments + closure into Ch XXVIII). Translation continues in Rebuild-Tranche 35.]*
+## Question 43. Did the Popes then rightly withdraw the use of the Cup from the Laity?
+
+**Did the Popes then rightly withdraw the use of the Cup from the Laity?**
+
+**They did not do right therein**, but rather have as **Church-robbers** dealt in this piece.
+
+**1.** Christ bids **drink**, and says: *"Drink ye all of it"* — **Mark 14:23**.
+
+**2.** They have had no Might to alter Christ's command concerning the Cup.
+
+**3.** So too Christ's Blood is not less shed for the Laity than for the Priests. Wherefore should they then be robbed of its Use in the Supper — which Christ instituted for the whole Church?
+
+**4.** This is also clear, that in the Apostles' time also the Laity received Christ's Blood — **1 Cor. 11** — for at Corinth were not merely Priests.
+
+**5.** So too it is to be seen from the old ***Canones*** and **Gelasius's** words that he *severely punished* those who out of some superstition (I know not what) would not use the Cup, and *roundly says* that they shall either use the whole Sacrament or refrain from the whole Sacrament — forasmuch as the *dividing of this Mystery cannot happen without great Blasphemy of God*.
+
+**6.** That the ***Concilium Constantiense*** first, about the year of Christ **1415**, quite took the use of the Cup from the Laity — notwithstanding that Christ instituted the same for the whole Christendom.
+
+— ❦ —
+
+## Question 44. Answer to some chief Arguments whereby the Papists suppose to defend their withdrawal of the Cup from the Laity.
+
+*[Answers to specific Papal arguments continue. Translation continues in Rebuild-Tranche 36.]*
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper close + Chapter XXVIII Von der Catholischen Kirche opening. Translation continues in Rebuild-Tranche 36.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
