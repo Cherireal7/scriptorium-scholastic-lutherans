@@ -4977,11 +4977,250 @@ Yea, the Heavenly Father himself bids thee *hear his dear Son* — **Matt. 3:17*
 
 **But the Christians' Works — which they do according to God's Command** — are called *Good Works* — **Eph. 2:10**: *"Created unto good works."* — **2 Tim. 3:17**: *"Prepared for every good work."*
 
-Yet not so, however, as though they were **fully good** and could stand before God's Judgement, but because they *come from Regenerate or Believing Men*, and *flow from the Treasure of a good Heart*...
+Yet not so, however, as though they were **fully good** and could stand before God's Judgement, but because they *come from Regenerate or Believing Men*, and *flow from the Treasure of a good Heart*, which is *renewed and created unto good works* through the Holy Spirit.
 
 — ❦ —
 
-*[Chapter XXIII Good Works continues. Translation continues in Rebuild-Tranche 20.]*
+## Question 2. How are the Good Works divided?
+
+**How are the Good Works divided?**
+
+**Some divide them into the Works of the First and Second Tables of the Ten Commandments.**
+
+**Others divide them into inward and outward Works.** For God demands not alone outward good works, but also, and *chiefly*, **inward Piety of the Heart** — that the same *love God, fear him, and above all things trust him*, etc.
+
+— ❦ —
+
+## Question 3. Who works the Good Works in the Right-believing?
+
+**Who works the Good Works in the Right-believing?**
+
+**The Holy Spirit is the right Workmaster or Creator of all good works in the Christians.** Whence at **Gal. 5:22** the Good Works are called **Fruits of the Spirit**. For if the Holy Spirit *creates us not anew unto good works*, we do no good — forasmuch as an **evil tree cannot bring good fruits**.
+
+**In sum**: because our Nature is evil, so must she first be *renewed through the Holy Spirit by means of the Word and Sacraments*, before we do good. — **John 3:6**: *"What is born of the Spirit, is Spirit."*
+
+When we now through the Holy Spirit are *made believing and renewed*, then is Faith **active in us through Love and other good works** — **Gal. 5:6**.
+
+Since also Man is renewed, and his Will and Heart converted to God, he has not alone *delight after the inward Man*, or so far as he is new-born — **Rom. 7:22** — *at the Law of God*, but he also **works with unto the good**, does good — although it all goes on in great Weakness. Hence at **1 John 3:3** stands: *"Whoso has such Hope on him, cleanses himself, as also he is pure."* And **1 John 5:18**: *"Whoso is born of God preserves himself, and the Evil One touches him not."*
+
+— ❦ —
+
+## Question 4. Who can then do rightly good Works?
+
+**Who can then do rightly good Works?**
+
+**Answer**: **The New-born, who through Christ have been given the Holy Spirit — and in whom the Spirit of God dwells and works** — **Rom. 8:14; Ezek. 36:26**: *"I will give you a new Heart, and a new Spirit in you."* — **1 John 5**: *"Whoso is born of God sinneth not."* — **Matt. 7:17**: *"A good tree brings good fruit."*
+
+It appears also hereout, from the counter-part, that **the Unregenerate — who believe not on Christ, and are no Temple of the Holy Spirit — can do no rightly good Works**. Wherefore also the *Heathen Virtues* and the *Pharisees' Works* are not, or are not called, rightly good Works. The **Reason** is: for **their works happen** first *only out of natural Powers or out of Reason*; second, they *happen in Unbelief* — for they believe not on Christ; third, they are also not *directed to this End* — that God in Christ Jesus through their works be praised, but seek indeed *their own Honour* therewith, or something else.
+
+— ❦ —
+
+## Question 5. Are then those alone Good Works which God himself has commanded?
+
+**Are then those alone Good Works which God himself has commanded?**
+
+**Yes.** For the Ten Commandments teach *what we shall do* — that our whole Life go according to God's Will. **Ezek. 20:19**: *"In my Commandments shall ye walk."* **1 John 5:3**: *"This is the Love toward God — that we keep his Commandments."* So also the LORD Christ — **Matt. 15:9** — **rejects the Commandments or Traditions of Men**.
+
+— ❦ —
+
+## Question 6. How, however, must they be done, that they please God?
+
+**How, however, must they be done, that they please God?**
+
+**Answer**: **In right Faith and Knowledge of the LORD Jesus Christ.** **Rom. 14:18**: *"Whoso therein serves Christ, is well-pleasing to God,"* etc. **1 Pet. 2:5**: *"Offer God spiritual Sacrifices, which are acceptable through Jesus Christ."*
+
+Hence also stands at **Heb. 11:6**: *"Without Faith it is impossible to please God."* And **Gen. 4:4**: *"God graciously looked upon Abel and his offering."* Whence *clearly appears* that **the Person beforehand — through Faith, for Christ's sake — must be acceptable to God, before her works please him**; and that the Person is *not* made Righteous through the Works, but rather it stands so: that **a Righteous or Believing Person also does right and God-pleasing Works**.
+
+Wherefore are our Good Works acceptable to God *for Jesus Christ's sake*, for whose Obedience and Satisfaction's sake we together with our good works are pleasing to him. Therefore learn *not* to look upon the Works after the outward Show, but *out of what Heart and Person* they go. Is the same in Christ, then is the work well-pleasing to God, so far as it happens according to God's Word; if not, it is to him *not acceptable*.
+
+— ❦ —
+
+## Question 7. To what End shall the good Works of us Christians be directed?
+
+**To what End shall the good Works of us Christians be directed?**
+
+**Thereupon the LORD himself answers, Matt. 5:16**: *"Let your Light shine, that Men may see your good works, and your Father in Heaven be thereby praised."*
+
+There is nowhere inside that we should thereby *merit God's Grace or Eternal Life*, as the Papists give out.
+
+— ❦ —
+
+## Question 8. Is it right said that Good Works are *needful*?
+
+**Is it right said that Good Works are needful?**
+
+**Yes. It is right and well said.** For the Scripture uses the word ("needful") herself — **Rom. 13; 1 Cor. 9; Acts 5**. It must, however, through the word ("needful") ***necessitas ordinis, mandati et voluntatis Christi ac debiti nostri*** — *not* ***necessitas coactionis*** — be understood. That is: when the word ("needful") is used, so must it be understood *not of a Coercion*, but alone of the *Order of the Unchangeable Will of God*, of which we are *Debtors*.
+
+Thither also his Commandments show — that the Creature shall be obedient to his Creator — **Rom. 8:12**: *"We are Debtors, not to the Flesh."* For the Christians' Obedience shall be a **willing Obedience** — **Ps. 110:3**: *"Thy people shall offer themselves willingly."* **2 Cor. 9:7**: *"A cheerful giver God loves."*
+
+Such Will, however, comes not from the Flesh, but from the Spirit and *inward Man* — **Rom. 7:22** — who has delight at God's Law.
+
+— ❦ —
+
+## Question 9. Do then the Good Works stand so free to the Christians, that it is free and *arbitrary* to them, whether they will do the same or leave [them]?
+
+**Do then the Good Works stand so free to the Christians, that it is free and arbitrary to them, whether they will do the same or leave [them]?**
+
+**By no means.** Whoso so holds or teaches is *wrong therein*, has *false erroneous Meaning*. For to the Christians it is *commanded* that they shall *do good*; and God's Order and Will demands the New Obedience in them. And they shall also *render such Obedience out of willing good Hearts with earnest and gladly*.
+
+— ❦ —
+
+## Question 10. What shall then move a Christian to *practise himself constantly in good works*?
+
+**What shall then move a Christian to practise himself constantly in good works?**
+
+**First**: **God's earnest Command** set forth in the Ten Commandments — for it is God's Will that Creatures render to the Creator, and Children to their Heavenly Father, *childlike due Obedience*.
+
+**Second**: the **Kind of right Faith**. For Faith is *active through Love* — **Gal. 5:6**. Hast thou then a right Faith on Christ, so demonstrates himself such, and shall demonstrate itself, in the **Fruits of Love, Hope, Patience, Invocation, and love and furtherance of the Neighbour** — **Gal. 5**.
+
+**Third**: on account of the **Calling**. For we are called to **Holiness and Christian Walk** — **1 Thess. 4:7**: *"God hath not called us to Uncleanness, but to Sanctification."* **1 Pet. 2:12**: *"Lead a good walk among the Heathen, that those who backbite you as of evildoers may see your good works, and praise God when it shall come to the day."* **1 John 3:10**: *"Herein it is manifest which are the Children of God, and the Children of the Devil: Whoso doeth not right is not of God, and whoso loveth not his brother."*
+
+**Fourth**: that we with our *God-blessed walk* **adorn the Doctrine of the Gospel** — **Phil. 1:27**: *"Walk only worthily of the Gospel of Christ."* **Tit. 2:10**: *"But demonstrate all good faithfulness, that they may adorn the Doctrine of God our Saviour in all pieces."*
+
+**Fifth**: that he be found a **Follower of the LORD Jesus Christ** — **Phil. 2:5**: *"Let every one be minded as Jesus Christ also was."* **1 Cor. 11:1** — Paul says: *"Be ye my Followers, as I am of Christ."* **1 Pet. 1:14–16**: *"Fashion not yourselves, as before, when ye lived in Ignorance according to the Lusts; but according to him who hath called you, and is holy, be ye also holy in all your walk. For it is written: Ye shall be holy, for I am holy."*
+
+**Sixth**: **to avoid Offence** — **1 Cor. 10:31–32**: *"Whatsoever ye do, do all to the Honour of God; be not offensive, neither to the Jews nor to the Greeks, nor to the Congregation of God."* **Phil. 2:14–15**: *"Do all without murmuring and without doubting, that ye may be without blame, and pure, and Children of God, unblameable, in the midst of a *crooked and perverted generation*, among whom ye shine as Lights in the World,"* etc. — More Causes are elsewhere enumerated.
+
+— ❦ —
+
+## Question 11. Are then the Works of the Believing Christians *perfect before God's Judgement*, do they *atone for Sin*, and *make Righteous*?
+
+**Are then the Works of the Believing Christians perfect before God's Judgement, do they atone for Sin, and make Righteous?**
+
+**No.**
+
+**First**: for they are still *unclean*, on account of the *dwelling-in Sin* in the Flesh — **Rom. 7**.
+
+**Second**: they are for themselves *not perfect*. For the Believing cannot in this Life come to **Perfection**, on account of the *cleaving Sin* in the Flesh, etc. — **Rom. 7:18**: *"To will I have, but to accomplish, I find not."*
+
+**Third**: they must all still *daily pray for Forgiveness of Sins* in the Our Father, which is also *an Indication of the Imperfection*.
+
+**Fourth**: so says the Scripture, **Job 9:2**: *"I know very well that it is so, that a Man may not stand upright before God."* If it *delight him to strive with him*, he cannot answer him *one of a thousand*. And **Ps. 143:2**: *"LORD, enter not into Judgement with thy Servant,"* etc.
+
+Because this is so, no man can *boast of Perfection before God*, much less ascribe this to himself, that his good works *atone for Sin before God*. For such Honour belongs to the **Lamb of God** — **John 1:29** — *alone*. And what is *unclean* cannot before God *make clean*.
+
+Wherefore the Apostle — **Phil. 3:8–9** — writes: *"But what to me was gain, that have I for Christ's sake counted loss. For I count it all loss, against the superabundant Knowledge of Christ Jesus my LORD; for whose sake I have counted all things loss, and count them for Filth — that I may gain Christ, and be found in him, that I have not my Righteousness which is from the Law, but that which comes through the Faith on Christ."*
+
+— ❦ —
+
+## Question 12. If they do not make Righteous, are they nevertheless *needful to Blessedness*?
+
+**If they do not make Righteous, are they nevertheless needful to Blessedness?**
+
+**Answer**: The Holy Scripture excludes our good works not alone from the *Justification*, but also from the *Blessedness* — [saying] that they are not needful to obtain the same.
+
+- **Rom. 4:6–8** — *"Blessedness is alone of the Man to whom God imputes the Righteousness without the doing of Works,"* where he says: *"Blessed are they whose iniquities are forgiven, and whose sins are covered. Blessed is the man to whom God imputes no Sin."*
+- **Eph. 2:8–9** — *"Out of Grace ye have been made blessed, through Faith; and the same not of you — it is God's Gift — not of works, that no one may boast."*
+
+**This Doctrine must be kept in Christendom** — that **Christ's Honour be not robbed**, for he *alone* is the one for whose Merit's sake we are made Righteous and Blessed — **Acts 4:12**: *"In no other is Salvation,"* etc. So that the troubled and assaulted Consciences may have *constant Comfort* — which they cannot have if the doctrine remains that their good works are needful to Blessedness, etc.
+
+Item, that they may pray in Temptations, where they are on account of their Sins most heavily assaulted, etc.
+
+**So teach also the Papists that good works are needful to Blessedness — which Doctrine is in this matter to be avoided**, as the speech itself properly goes upon the *Cause or the Merit*.
+
+— ❦ —
+
+## Question 13. Do then the Good Works *preserve* the Faith and Blessedness in us?
+
+**Do then the Good Works preserve the Faith and Blessedness in us?**
+
+**No.** For such comes to pass **alone through God's Power, by means of Faith on Jesus Christ**, as **1 Pet. 1:5** stands: *"We are preserved through God's Might, through Faith, unto Blessedness."*
+
+Wherefore it is wrong when one teaches that our good works *preserve the Blessedness*, or that Faith itself is *either wholly or in part preserved through our good works*.
+
+Through **evil works or Sins against Conscience**, however, Faith can indeed be **lost** — **Rom. 8:13**: *"So ye live after the Flesh, ye shall die."*
+
+— ❦ —
+
+## Question 14. But Christ says — Matt. 5:48 — "Ye shall be perfect"?
+
+**But Christ says — Matt. 5:48 — "Ye shall be perfect"?**
+
+**Answer**: It is true, he says it. But therewith he indicates *not* that we can do it, but much more he demonstrates therewith **our Inability**, and *reminds* us that we may **know our Imperfection**, and by him seek the *full Fulfilment of the Law through Faith* — **Rom. 10:4** — that we may be made Righteous and Blessed.
+
+Whence **Bernard**, on the words of Isaiah, says: ***Nostra si quaest humilis iustitia, recta forsitan, sed non pura: nisi fortè nos meliores esse credimus, quàm patres nostros, non minus veraciter, quam humiliter dicebant, omnes iustitiae nostrae tanquam pannus menstruatae***, etc.
+
+That is: *"Our little and weak Righteousness (so far as it is otherwise so to be called) may perchance be right — but she is not pure. It were then that we would esteem ourselves better than our Fathers, who not alone truly, but also humbly confessed that our Righteousness is *as a filthy garment*."* — **Isa. 64:6**.
+
+— ❦ —
+
+## Question 15. Because now the Believing in this Life are not perfect, what remains for Sins in them?
+
+**Because now the Believing in this Life are not perfect, what remains for Sins in them?**
+
+**Answer**: Many Weaknesses — as **Doubt-Mindedness, Impatience, Negligence, Uncleanness of the Heart, evil Thoughts and Inclinations to the Evil**; the Love toward God and Neighbour is *weak*; and in Sum, all goes on in great Weakness, on account of the *Sin in the Flesh dwelling* — **Rom. 7:17** — which resists the Law of the Mind. The Prayer goes not so *strongly* as it should go; we resist not the evil Lusts *so diligently* as we should. And what other suchlike infirmities more are — where the Heart with *Overweeningness*, or the like, sins.
+
+These Paul calls **Sin** — **Rom. 6:12** — but which do *not rule*, for the Christians *know* that they are Sin, resist through the Assistance of the Holy Spirit, and pray through Christ for Forgiveness of the same. Wherefore they are also therefore not damned. **Rom. 8:1**: *"So is now no Damnation upon those who are in Christ Jesus, and walk not after the Flesh, but after the Spirit."*
+
+— ❦ —
+
+## Question 16. In this manner must the Christians daily fight against the Sin in the Flesh, and *give heed* that they grow and increase in good works?
+
+**In this manner must the Christians daily fight against the Sin in the Flesh, and give heed that they grow and increase in good works?**
+
+**Yes indeed.** For it says — **2 Pet. 3:18**: *"Grow in the Grace and Knowledge of our LORD and Saviour Jesus Christ."* For with our Treasure it stands so, that we have him **in Faith**, but not yet **in seeing**. Wherefore must we *ever go on to work and strive*, that not Sin, but **Faith and its Fruits in us grow and increase**.
+
+As also St. Paul says — **Rom. 6:6**: *"We know that our old man is crucified together with Christ, that the sinful body cease, that we henceforth serve not the Sin."*
+
+The **inward new Man in us** is not perfected in an hour, but from day to day becomes stronger. Wherefore a Christian must strive after this — that he *ever grow and increase in Faith and God-blessedness*.
+
+— ❦ —
+
+## Question 17. What is to be held of this speech — when one says: "**Good Works are hurtful to Blessedness**"?
+
+**What is to be held of this speech — when one says: "Good Works are hurtful to Blessedness"?**
+
+**Answer**: If any one would draw good works *into the Article of Justification*, and teach that the Trust of Blessedness thereupon shall be set, God's Grace thereby to *merit* — it is not wrong to say that such a Man's works are *hurtful to him*. Yet **not on account of the works themselves**, but on account of the *false Trust*, and that *Christ's Honour is thereby robbed*.
+
+But from this it does *not* follow that one shall speak so *in general*: **Good Works are hurtful to the Believing at their Blessedness**. For in the Believing they are *Indication of Blessedness* — **Phil. 1:11**. Wherefore the said speech is *not unrightly rejected*.
+
+— ❦ —
+
+## Question 18. What is then to be held of the **self-chosen Works** which are invented by Men?
+
+**What is then to be held of the self-chosen Works which are invented by Men?**
+
+**Answer**: **It is certain that no such works are to be undertaken or chosen.** For God has forbidden it — **Deut. 12:32**: *"What I command you, that shall ye do; ye shall put nothing thereto, nor take anything therefrom."* How mightily God was angered against the Children of Israel, that they built *High Places*, whereon they offered — **1 Kings 14; Ezek. 16, 20** — at the said places is sufficiently to be understood. So the LORD Christ rejects — **Matt. 15:9** — the *Commandments of Men*. And **Col. 2:18**: *"Let no man make you err from the goal, and walk after his own choice,"* etc.
+
+Whence is easily to be understood *what is to be held of the Papists' self-chosen works and Divine Services*.
+
+— ❦ —
+
+## Question 19. Is it then true, as the Papists teach — that the Christians can not alone *fulfil the Law*, but also do **Works of Supererogation** (as they call them)?
+
+**Is it then true, as the Papists teach — that the Christians can not alone fulfil the Law, but also do Works of Supererogation (as they call them)?**
+
+**Answer. It is a pure fable.** For as at **Rom. 8:3** stands: *"The Law is impossible to fulfil."* And **Luke 17:10** — the LORD himself says: *"When ye have done all that ye should do, so say: we are unprofitable servants."* Where then remain the Works of Supererogation?
+
+**Deut. 6:5**: God says: *"We shall love him with the whole Soul,"* etc. Where remains then what in us is, that we were not bound to do, but of ours could add thereto?
+
+The **Our Father** teaches all Saints to confess that they are *Debtors* — how then should they render Works of Supererogation? So all the Saints confess their **Imperfection** — **Rom. 7; 1 John 1:8**: *"If we say we have no Sin, we deceive ourselves, and the Truth is not in us."* How then should they do Works of Supererogation?
+
+**In Sum**: it is a *damnable and cursed Pride*, when a Man ascribes to himself that he gives God *more than he is bound to him* — and blasphemes the *Suffering and Payment of Jesus Christ come to pass for us*. Wherefore this fable is rightly to be rejected.
+
+— ❦ —
+
+## Question 20. Have then the Good Works of the right-believing Christians also their **Reward**?
+
+**Have then the Good Works of the right-believing Christians also their Reward?**
+
+**Yes.** For thus speaks the LORD Christ — **Matt. 5:12**: *"Be joyful and of good cheer; it shall be well rewarded you in Heaven."* And Paul — **1 Tim. 4:8**: *"Godliness is profitable unto all things, and has the Promise of this and of the future Life; this is indeed certainly true, and a precious worthy Word."* Item, **Rom. 8:18**: *"The Suffering of this Time is not worthy of the Glory which shall be revealed on us."*
+
+— ❦ —
+
+## Question 21. Does this Reward befall out of ***Duty*** or out of ***Grace***?
+
+**Does this Reward befall out of Duty or out of Grace?**
+
+**The Papists hold that it is given from Duty.** But the Scripture says such nowhere. For how should the Believing's works be *meritorious of Eternal Life*, seeing Christ alone has *merited it for them* and *given it out of Grace*?
+
+The LORD Christ speaks indeed of the Reward of rightly good Works — but adds *not* thereto that such Reward comes from *Duty*, as though the Works were meritorious, and God were *bound of Right* to give us Eternal Life therefor.
+
+So also Paul and other Believing, both in the Old and New Testament, have indeed *known well* the Promises of Reward of good Works. But nowhere have they let themselves be understood that they should thereby *merit Eternal Life*. Rather, they much more confessed that *if God should impute Sin, they could not stand before him* — **Ps. 130:3** — and if they should reckon with him, they could not answer one of a thousand — **Job 9:3**. Paul — **Rom. 7:25** — says simply: *"He thanks God through Jesus Christ."*
+
+— ❦ —
+
+*[Chapter XXIII Good Works continues with further Q&A on rewards being of Grace, closing into Chapter XXIV Von Sacramenten in gemein. Translation continues in Rebuild-Tranche 22.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
