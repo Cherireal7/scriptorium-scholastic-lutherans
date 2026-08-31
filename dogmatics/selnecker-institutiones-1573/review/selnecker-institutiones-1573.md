@@ -1154,7 +1154,192 @@ Considering these things, let us deplore our own depravity, and beseech that we 
 
 ## De Creatione — On Creation¹¹⁰
 
-*[Selnecker's paradigm-Creation-Locus. Outline: (1) That God created heaven and earth from nothing (Gen. 1; Heb. 11:3 *τὰ βλεπόμενα ἐκ μὴ φαινομένων*); (2) The paradigm ***hexaemeron*** structure (six days + Sabbath rest) — with paradigm-***Basil the Great Homiliae in Hexaemeron*** commended, and paradigm ***Chronicon of Eusebius*** noted for chronological framework; (3) Creation *ex nihilo* against paradigm-***Aristotelian-Peripatetic*** eternal-matter and paradigm-***Manichaean*** two-principle frameworks; (4) The paradigm ***purpose of creation*** — the glory of God + the good of rational creatures; (5) Divine providence and conservation — that God not only creates but ***upholds*** all things (paradigm ***concursus divinus*** framework). Selnecker's paradigm-recommendation: ***read Moses, Psalm 104, Psalm 136, and Basil the Great's Hexaemeron*** as the paradigm-central reading-list for the doctrine of creation.]*¹¹¹
+*(pp. 258–271 of the imprint.)*
+
+#### Definition of Creation
+
+**Creation of things is properly an external action of God, by which God the eternal Father of our Lord Jesus Christ, together with the eternal Son and the Holy Spirit, willing, first produced from nothing all other things — visible and invisible, spiritual, celestial, corporeal, and terrestrial — of His immense goodness and wisdom — with this counsel: that He might found for Himself an eternal Church, by which He might be acknowledged and worshipped, and to whom He might communicate His own goodness in all eternity.**¹¹⁰ᵃ
+
+**The efficient cause is God the Father, the Son, and the Holy Spirit.** For creation is the work of the whole Trinity, not only of one Person — as above in the rule of Augustine ***on works ad extra*** has been shown, and as it is written in **Psalm 33:** ***"By the Word of the Lord were the heavens established, and by the Spirit of His mouth all the host of them."***
+
+That, however, in the Apostles' Symbol the Father is named ***Creator of heaven and earth*** — is done either by reason of ***order*** or ***ministry,*** or by some other difference of cause. For since the Father is the ***first Person,*** and creation is ***the first work*** by which God has manifested Himself to us — and to the Son is attributed the ***work of redemption,*** to the Holy Spirit truly ***sanctification*** (as to Persons sent from the Father, and revealing both the Father and themselves to us) — deservedly to the Father, as the first Person, the first work is attributed: in which He principally manifested Himself, and afterwards did not appear ***in His own hypostasis,*** but sent the Son and the Holy Spirit — through whom He has manifested and announced His essence and will to every age and posterity.¹¹⁰ᵇ
+
+#### The Species of Creatures
+
+**The species of creatures are all created substances, incorporeal and corporeal.** ***Incorporeal,*** as all Angels, both good and evil, the soul of man either in the body or separated from the body — that is, the ***manes*** (souls of the deceased).
+
+***Corporeal*** either ***simple***, as ***ether***, with its nine spheres (as the artificers name them) — namely the ***primum mobile***, and the ***firmament*** which contains the stars (of which ***Aratus*** wrote in Greek), and the ***seven orbs of the planets***; item, the ***four elements***; — or ***compounded and concrete***, and these either ***imperfect,*** as all ***meteors***, or ***perfect***, which are things both inanimate and animate. ***Inanimate*** are either ***produced by nature***, as stones, metals, and liquids, or ***elaborated by art***, as garments, arms, organs, vessels. ***Animate*** either ***non-sentient***, as plants, trees, shrubs, herbs; or ***sentient*** — as an animal — as man [***rational sentient***], as brutes [***irrational sentient***] — terrestrial, aquatic, aerial, etc.
+
+**Creature is defined in this manner: A creature is the whole workmanship of God — as much of spirits as of other corporeal natures — divinely fashioned to this end: that they may show forth that God is, and that He is to be acknowledged and celebrated as ***potent, wise, and good Architect, Creator, Governor, and Conservator.***¹¹⁰ᶜ
+
+#### The Fourfold Consideration of Created Things
+
+**Created things are considered in a fourfold manner:**
+
+**First,** by reason of the ***variety of species*** — which both is most beautiful, and shows the supreme wisdom and power of the workman.
+
+**Secondly,** by reason of the ***propriety of faculties and virtues*** in things produced — which shows the supreme goodness of God, who has founded all things for certain uses. Hence also the physicists say: ***"Nature does nothing in vain, neither abounds in superfluous things, nor is deficient in necessary things."*** Item: ***"Nature acts for the sake of an end"*** — that is, by the counsel of the architect the species are ordered in the whole of nature and are preserved, and have certain forms and effects; and in each single mixed species there is a certain mode of propagation. And ***Aristotle*** rightly says: ***"That which nature does, is according to order."***
+
+**Thirdly,** created things are considered by reason of ***order,*** which is twofold — namely, the ***order of creation,*** and the ***order of things created.*** The order of creation shows that all things have been founded ***for the sake of men,*** as the Stoics rightly said, and that God has ***provided for us all things in His own way before we were born***: for man is the ***end of all things,*** who is more excellent than certain other things destined [to lower ends]. Whence also ***Ovid*** most learnedly says:
+
+> ***"An animal more sacred than these, more capacious of high thought,***
+> ***Was yet lacking, and one that could rule the rest.***
+> ***Man was born; and while the other animals bend their gaze upon the earth,***
+> ***He gave to man an upright face, and bade him behold the sky,***
+> ***And lift his gaze erect unto the stars."***
+
+Which words Ovid seems to have borrowed from ***Cicero,*** who in his first book *De Legibus* writes thus: ***"Nature gave the shape of the body suitable and apt to the human genius: for when she had cast down the other animals to their food, she raised up man alone, and as it were roused him by the sight of his ancient kinship and pristine domicile of heaven."*** The same sentiment ***Silius Italicus*** thus renders:
+
+> ***"Dost thou not see how God has raised up the lofty countenances of men***
+> ***unto the stars, and fashioned sublime mouths,***
+> ***while the herds and the race of birds, and the shapes of wild beasts***
+> ***He has bent to the sluggish and obscene belly?"***¹¹⁰ᵈ
+
+It is fitting also to add the words of ***Cicero*** from Book 2 *De Natura Deorum*: ***"All things,"*** he says, ***"have been generated for the sake of others — as fruits and produce, which the earth generates, for the sake of animals; animals moreover for the sake of men — as the horse for carrying, the ox for ploughing, the dog for hunting and guarding; and man himself has arisen for the sake of contemplating and imitating the world."***
+
+**But the order of things created consists in four grades**, of which the ***lowest*** is that of things which ***only are***, as the elements and all mineral things — stones, metals, and the like. The ***second grade*** is of things which ***are and only live*** — that is, are generated, increased, and nourished, but have a ***vegetative soul only***, as plants, herbs, shrubs. The ***third grade*** is of things which ***are, live, and feel,*** as brute animals. The ***fourth order*** is of things which not only ***are, live, feel, desire, and are moved,*** but ***also understand***, as men.
+
+**This order is diligently to be considered,** because it shows that ***by God's counsel the lower grades serve the higher*** — with each one's dignity preserved. The elements serve plants, herbs, brutes, men. Plants serve brutes and men. Brutes serve men. But man — whom should he serve? God the Creator; whom if man does not serve, he now does contrary to his own nature — and inverts, nay, ***perverts,*** the order of nature.¹¹⁰ᵉ
+
+A good rule ***Aristotle*** has laid down concerning the grades of living, saying: ***"Just as prior figures*** (that is, those which are named from an earlier and lesser number of angles) ***are enclosed in later*** (which have their name from a later and greater number of angles) — as the trigon in the tetragon, the tetragon in the pentagon — item, the ternary in the quaternary, and the quaternary in the quinary: ***so prior powers are enclosed in later***: that is, they concur as parts to their constitution, and are consummated by the later — that is, they grow, are increased, are perfected, and are received into the service of the constitution of the whole." **Since therefore all prior things by order and by nature concur to the utility of man, and this natural order seems as it were to consist in this — whom man ought to look upon, in whom he himself is enclosed? Here God the Creator, and nothing else occurs, whom man ought to serve.**
+
+The consideration of this order admonishes us of ***four greatest things***:
+
+**First, of the excellence of man,** by which man excels above all things placed below his order.
+
+**Secondly, of the goal of our actions,** to which we ought to direct and refer all our actions — namely, to the ***glorifying of God***, and to giving Him ***thanks for this benefit*** — that He has founded all things for our utility.
+
+**Thirdly, of the perversity and misery of our nature and of our whole life** — that we are far distant from the dignity and office of our order, so that almost no creature has so fallen out of its own order as we have fallen out of ours. For how few are there who in all things [***make of God***, and refer all things to the glory of God]?
+
+**Fourth, the consideration of our order admonishes us to seek a Mediator of our nature — who is the ***Son of God-Mediator***.**¹¹⁰ᶠ
+
+**Lastly, created things are considered by reason of the ***principal end*** — which from the order of creatures can easily be understood.** For ***all things have been founded for the sake of man; but man for the sake of God*** — not that God needs our service, but that we, serving God, may enjoy the benefits of God. For ***"all things are ours"*** (1 Cor. 3) — namely, as ***Augustine*** narrates: ***higher, equal, and lower*** things. ***Higher*** [things] for enjoyment, as God Himself. ***Equal*** [things] for co-living, as the Angels — who now also serve us, and in eternal life we shall be equal to them. ***Lower*** [things] for use, by their service.
+
+#### Bernard's Seven-fold Consideration of the Benefit of Creation
+
+**Bernard's words are worthy of memory. Consider seven things in the benefit of creation:**
+
+**1.** That He created thee ***not for His own convenience.***
+**2.** ***Without any merit of thine,*** because he has merited nothing who was utterly nothing.
+**3.** Consider ***of what quality*** He has made [thee].
+**4.** ***As to the body,*** an excellent creature.
+**5.** ***As to the soul,*** more excellent — as one signed with the image of the Creator, participant of reason, capable of eternal blessedness.
+**6.** Consider the ***power of dominion.*** For the terror of man is seen to be poured out upon all living things.
+**7.** Consider the ***administration of largesse.*** How many things He has bestowed on thee for sustenance, how many for erudition, how many for consolation, how many for correction, how many for delight? Why should you not give thanks?
+
+**Let these things said in general concerning creation suffice.**¹¹⁰ᵍ
+
+#### From What Are Things Created — The Ex Nihilo Framework
+
+**But it is asked from whence things were founded.** We know from Sacred Scripture that ***no matter out of which*** [pre-existed], but that all things ***in the beginning*** (that is, when there was plainly nothing except the eternal God Himself) were ***made by God from nothing*** — as it is written **Psalm 33:** ***"He Himself spoke, and they were made; He commanded, and they were created."*** And **Ecclesiasticus 18:** ***"He who liveth for ever, created all things together."***¹¹⁰ʰ
+
+#### The Erroneous Opinions of the Philosophers on the Principles of Things
+
+**The philosophers disputed in various manners of the principles of all things,** and thought that ***some certain matter*** from which things had arisen was ***always.***
+
+**Heraclitus,** the ***Obscure,*** around the year of the world's founding 3506, taught that ***fire*** was truly the principle, from which all things consist.
+
+**Diogenes,** in the year of the world 3569, taught that ***air*** was the principle of things.
+
+**Thales the Milesian,** the first Physicist by profession, in the year of the world 3326, said that ***all things were made from water,*** and again were resolved into water — to which opinion alluding, Homer says: [***"Ocean is the origin of all things"***]. Whence the Latins also call ***water aqua***, as it were ***from which*** (*aqua*) all things are born.
+
+**Democritus,** in the year of the world 3462, established ***atoms,*** which he said were as certain seeds, or minutest corpuscles — such that they do not admit ***section,*** and volitating through the void, [contended] that by their casual concurrence and conglobation other bodies are born, and thence were created fire, air, water, earth — and from these the rest. Whence **Virgil** in the *Silenus* says:
+
+> ***"For he sang, how through the great void***
+> ***the seeds of lands, air, sea, were driven together;***
+> ***and how from these first beginnings***
+> ***of light-flowing fire were the primordia,***
+> ***and the tender globe of the world itself grew together."***
+
+**Empedocles,** in the year of the world 3509, taught that ***all things are procreated from the four elements.*** Hence **Lucretius:**
+
+> ***"From rain, earth, and breath, and fire, things are born."***
+
+This was also formerly the opinion of the ***physicians.***
+
+**The Stoics** feigned two eternal things: ***God, or Mind, and Nature, or Matter*** — as also ***Hermes Trismegistus the Egyptian,*** who says: [***"Two eternal principles"***].
+
+In the same way the ***Poets*** also established ***two principles, God and Chaos*** — as is clear from Ovid, who imitating Hesiod calls ***Chaos*** the confusion of all things, and a mass compacted into one, distinct and distributed into no species, and not placed in its own place.
+
+**Plato,** in the year of the world 3572, following the Stoics, added moreover an ***Idea***, and said there were ***three principles*** of all things: ***God, Matter, and Idea*** or image of the work in the divine mind — according to which form is sculpted out. He affirmed that the world was thence founded. For in the ***Phaedo*** he writes that ***Mind is the architect of the world.*** And there stands a passage in the ***Epinomis*** which ***Budaeus*** greatly esteemed and admired: [***"The Word, that is, He who is most divine of all, ordered the world; whom, by knowing, the blessed man is affected first by admiration, then by love"***] — that is, ***the WORD, [Logos]*** — He who is most divine of all — ordered the world; whom by knowing, the blessed man is affected first by admiration, then by love ***of thoroughly investigating***: that so he may lead the best and most happy life, and after death may be received into the places suited to his virtue. **That Plato spoke these things concerning the Son of God, Budaeus altogether affirms** — especially since he admonishes Hermias, Erastus, and Coriscus in a certain epistle that they should ***piously venerate*** and ***with all zeal and piety worship the God of all things — Guide and Author of things present and future — through whom, namely, the Father [is to be known and named]***. These things Plato took from the Philosophy of the Hebrews, especially since in Egypt (as Justin, Clement, and others attest) he had studiously come to know the writings of Moses and of some Prophets — whose doctrine and truth, nevertheless, hindered perhaps by fear, he did not freely dare to profess. For thus of him ***Justin*** writes in his hortatory oration to the Gentiles: ***"Plato seems indeed to acknowledge the doctrine of Moses and of the other Prophets concerning the one true God, which he had learned in Egypt — but on account of Socrates's case, fearing lest against him also some Anytus or Meletus should arise as accuser who might exclaim before the Athenian people: 'Plato by his curiosity violates the deities whom the state worships — he does not deem them to be Gods!' — from fear of the hemlock he variously figures his speech about the Gods, giving material both to deniers and affirmers, as one may easily know from his own sayings."***¹¹⁰ⁱ
+
+I shall add the words of Justin pertaining to this: ***"Plato, when after God he makes matter and Idea principles of things, seems to have taken occasion from no other source than from Moses — although he learned the name of species or Idea from Moses's writings, yet had not heard from those experienced in them that no certain knowledge of these is to be acquired save by mystical contemplation. For Moses writes that God spoke thus to him from the tabernacle: 'And thou shalt make me a tabernacle in all things like the exemplar which was shown to thee prescribed on the mountain.' And a little later: 'Thus, in every case, thou shalt make it after the form which I showed thee on the mountain.' Having gained these writings, Plato, after he had diligently pondered them as he ought, thought there was a certain more ancient species, separated from that which is perceived by sense — which he was also wont to name the exemplar of things, because the letters of Moses so speak concerning the tabernacle: 'After the species shown to thee on the mountain, thou shalt make it.' In the same manner concerning earth, heaven, and man he seems to have slipped into error: for he thought that of these also there were Ideas. Moses writes: 'In the beginning God made heaven and earth': then he subjoins: 'But the earth was rude and invisible.' This the philosopher so understood: 'the earth was' — said of a more ancient earth. And what Moses said, 'God made heaven and earth,' he thought was said of a sensible earth made after the form or species of that more ancient one. Item, of the created heaven — that another had been made, which is called firmament, and this sensible; but that the other was intelligible, of which that vates says: 'The heaven of heaven is the Lord's, but the earth He hath given to the sons of men.' The same happened with man — whom Moses first names, and afterwards, after many creatures, recounts how he was fashioned from mud, saying: 'And God made man, taking mud from the earth.' Plato therefore thought that this first-named man was more ancient than the one created here — but the latter fashioned from mud after the pattern of that species."*** Thus far Justin on Plato's opinion.¹¹⁰ʲ
+
+#### Aristotle on the Eternity of the World
+
+**Aristotle,** in the year of the world 3600, taught that ***the world is eternal,*** and that ***three principles are simultaneously perpetual*** — matter, form, and privation in elementary matter — deceived by physical arguments taken from this order of nature already founded: ***"From nothing, nothing is made."*** Whence he said that ***the first and last man cannot be given.*** Item: that the ***universe neither arose nor is corrupted, but is one and sempiternal — having no beginning or end of eternity.***
+
+What pertains to the physical axiom ***"from nothing, nothing is made"*** — it is to be known that this holds ***in nature already founded and ordered***, and pertains to the ***generation of created things*** — not truly to the ***first creation of things founded from nothing.***
+
+**For creation differs from physical generation.** Creation is the work ***of God alone***, and is understood as ***from a non-being to being*** — such that no matter pre-exists. **Physical generation** is the motion ***from non-being to being*** — that is, from ***not-such or not-of-that-kind*** being to ***such*** being — and has place in a thing already created by God, as also does corruption, of which it is said: ***"Something is not resolved into nothing."*** For corruption is from ***being to non-being*** — that is, from ***such*** being to ***not-such*** being. **Annihilation, however, is the work of God alone** — ***from something-being to plainly-nothing-being*** — such that both matter and form are destroyed.¹¹⁰ᵏ
+
+**And although Aristotle in the eighth book of his *Physics* endeavours by many arguments to confirm his opinion on the eternity of the world**, nevertheless of all those [arguments] only ***two*** are of any moment — which, once understood and refuted, the remainder fall of themselves. These are:
+
+> ***"A proper and most perfect cause is not idle in eternity.***
+> ***God is a proper and most perfect cause.***
+> ***Therefore He is not idle."***
+
+He would however have been idle from eternity, unless the world had always existed as a ***subject*** in which He could exercise His powers.
+
+**The response is easy — first to the major.** The major is true of ***natural efficients***, not of ***voluntary*** — as fire applied to stubble cannot but burn, but the smith can suspend his action. Since this is true of all voluntary [agents], how much more is it true of the ***first cause*** — which is the ***fount and origin*** of every voluntary and free faculty, and acts deliberately and freely, and most freely at a certain time founded the world.
+
+**But what is inquired — ***"What did God do in that eternity before the world was founded?"*** — the response in the Church is easy: namely, that ***the communication of wisdom between God the Father, Son, and Holy Spirit was eternal*** — especially since the Son of God from eternity ***is*** and is named [***the Word***]. What beyond this we have to answer, we have not. For neither do we understand what ***eternity*** is, nor do we attain what things are ***outside time*** and ***before time,*** nor can we comprehend God in His eternal and essential light and rest. Therefore ***Augustine*** says that he here contracts the sails of his own ingenuity. He adds also that when a certain smatterer inquired ***what God had done before the creation***, [Augustine] replied that ***God was fabricating a hell for such questioners***. Whence verses long ago written by us are recited:
+
+> ***"Thou askest, Father Augustine, what He did before***
+> ***the beginning, by which all things founded are, God did.***
+> ***Thou repliest that He was fabricating a hell for such questioners,***
+> ***that they may deservedly suffer the punishments they have merited.***
+> ***Say to the auditor: Whoever seizes upon the mysteries of the Word***
+> ***with feeble genius, perishes."***
+
+**Of these and similar questions Epiphanius against Aetius speaks thus:** ***"The ratiocinations of men are miserable, and their thoughts corruptible, and they involve themselves, and are transferred into syllogisms and questions. For some out of their own ratiocinations, by a certain sophistical [approach], investigate concerning the origin of evil; others, whence the devil is, and why he was made; others, why God created man to sin; others, why God should ascribe fault to man, when He had created such a one that could sin. When they have moved all their thoughts by these questions, let them say themselves to be corruptible, and attribute to God alone knowledge and adoration, and let them ask and obtain from Him the true knowledge of faith — let them not think too highly of themselves, but think unto this, that they may be modest,"*** as it is written (Rom. 12), [***"not thinking more highly than one ought to think, but thinking unto modesty"***].¹¹⁰ˡ
+
+#### Distinctions of Terms — Aeternitas, Aevum, Tempus
+
+**Let us also know that we, who yet are and live in time, cannot understand the ratio of eternity.** For God ***founded time*** together with created things — nor was there time before there was heaven and earth, but eternity. Whence Augustine, *De Civitate Dei* book 12, chapter 15, and *De Trinitate* book 5, chapter 6, says: ***"God was before time was, and He did not begin in time to be Lord: because He was Lord of time when time began to be — nor indeed did time begin to be in time, since time was not before time began."***
+
+**Let the younger observe the distinctions of terms:**
+
+***Aeternitas*** (Eternity) is properly attributed only to God, who lacks beginning and end.
+
+***Aevum*** (Age) is called the duration of those things which have begun to be at a certain beginning, but do not cease, as the Angels and the souls of men.
+
+***Tempus*** (Time) is the duration of changeable things which have beginning and end — as all corporeal things serving man in this life.
+
+Hence our own verses are recited:
+
+> ***"That which began, time also, ceases to be,***
+> ***And with swift foot hastens to the supreme goal.***
+> ***Age had beginning, but never ceases —***
+> ***Thus the Angelic choir itself beholds the Light.***
+> ***But God is the eternal Preserver and Author of things,***
+> ***And without beginning is He, and without end — God."***¹¹⁰ᵐ
+
+**What Jerome in his letter to Titus says** — ***"Six thousand years of our time are not yet fulfilled; and how great eternities before, how great times, how great origins of ages must be conjectured to have been — in which Angels, Thrones, Dominions, and the other orders served God without alternations of time and measures, and by God's command sustained themselves"*** — that we leave [***as belonging to his own place***] to that place [***as an unknown and unresolved matter***], and we use the words of Augustine which he wrote to Jerome himself, saying: ***"My brother, I do not think that thou wouldst have thy books read as though they were of Prophets or Apostles — of whose books to doubt that they lack all error is impious."*** And Jerome himself in the same letter to Titus says: ***"Without the authority of the Scriptures garrulity has no faith."*** Item: ***"Let sense be exercised, and let the mind be nourished daily by divine reading — and our questions will not be foolish."***
+
+#### The Second Aristotelian Argument — Perpetual Motions
+
+**The second argument of Aristotle is this:** That which does not change, is not subject to generation and corruption. The laws of celestial motions do not change, but are [***invariable and always in the same manner***]. Therefore this mass always was — and, thus always circumacted, has effected the various alternations of generations and corruptions in inferior things.
+
+**The response is plain and easy.** The argument is ***particular*** — and it cannot be said of the whole world and of all its parts, which certainly are ***subject to alterations***. Moreover, the argument does not hold from physical generation to perpetuity. For creation is to be distinguished from physical generation, as has been said above.
+
+**These are the chief arguments by which human reason is disturbed. But let students read the ***refutation of some Aristotelian dogmas*** by ***Justin the philosopher and martyr***, and consider these words of Justin: ***"The Greek professors,"*** he says, ***"do not speak of God and of creation according to demonstrative science, but define by conjectures whatever seems to them, and commit the investigation of the knowledge of God to their own ratiocinations; and they greatly disagree, both among themselves and from themselves, on things and their principles — as to essence, number, motion, and end."***
+
+**Let us therefore assent to the divine voice** — that is, to the writings of Moses and of the Prophets, who, as Justin truly and piously says, ***learned from the Creator God Himself the doctrine of God and of creation.***¹¹⁰ⁿ
+
+#### The Chronology of the World
+
+**Let us also know that in this year of Christ's birth 1571,** the years from the world's founding are ***5533*** — and let us not seek a longer space, and let us know that we already live in the ***old age*** [***nay, in the belly and dregs***] of the world, and expect the coming of the Son of God.
+
+**Let us also hold the saying of Elias:** ***"Six thousand years shall the world endure. Two thousand [years] in vain; two thousand under the Law; two thousand [in the] days of the Messiah."*** And if anything of these shall be lacking, it shall be lacking on account of our sins, which are many and innumerable.
+
+That today many count the ***seventh millennium from the founding of the world*** — as is often read in certain vulgar Calendars — has happened by error. For the ***Seventy Interpreters,*** at Gen. 5 and 11, often rendered ***two hundred*** for ***one hundred*** — perhaps taking the singular noun ***Meah*** (hundred) for the plural noun ***Meoth*** — which signifies ***a hundred repeated many times*** — or for the dual ***Meothim*** (two hundred). The excessive years in the Seventy have afterwards begotten many errors, as is detected in the *Chronicon* of Eusebius, in Epiphanius, and in many others. And Jerome also admonishes of this error in the *Hebrew Questions.*¹¹⁰ᵒ
+
+#### Closing Recommendation for the Student
+
+**But of creation let students read Moses himself, and Psalms 104 and 136 — item, the *Hexaemeron* of ***Basil the Great*** — a work stuffed with erudition and stupendous piety.**
+
+**Now of the Angels we shall add a brief admonition.**¹¹⁰ᵖ
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1701,7 +1886,39 @@ Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins,
 
 ¹⁰⁹ **The paradigm-anti-Macedonian-Pneumatological settlement** — Selnecker's paradigm ***Person + Divinity + Filioque-procession + Work*** four-fold treatment reflects paradigm-Nicene-Constantinopolitan (381) Pneumatology as appropriated by the paradigm-Western tradition. The paradigm ***Isa. 11:2 seven-fold gifts*** — Wisdom, Understanding, Counsel, Might, Knowledge, Piety, Fear of the Lord — belongs to the paradigm-***septem dona Spiritus Sancti*** tradition, paradigmatic in Catholic-and-Lutheran devotional catechesis. — **1 Cor. 12 charismata** — paradigm-Pauline ***varieties of gifts*** framework.
 
-¹¹⁰ **Locus III De Creatione** — Selnecker's paradigm-brief creation-treatment (relative to expected treatment) reflects the paradigm ***"Read Moses + Ps. 104 + Basil's Hexaemeron"*** self-conscious deferral to paradigm-standard sources. **Basil the Great** (c. 330–379), Cappadocian Father whose ***Homiliae in Hexaemeron*** (nine homilies on the six days of creation, PG 29:3–208; SC 26) is the paradigm ***patristic-golden-standard*** on creation-doctrine, cited paradigmatically throughout the Renaissance-Reformation creation-treatments. Standard modern treatment: **Andrew Louth,** ***The Origins of the Christian Mystical Tradition*** (Oxford, 1981), on paradigm-Cappadocian creation-theology.
+¹¹⁰ **Locus III De Creatione** — Selnecker's paradigm-creation-Locus. Standard modern treatment: **Andrew Louth,** ***The Origins of the Christian Mystical Tradition*** (Oxford, 1981), on paradigm-Cappadocian creation-theology; **Jaroslav Pelikan,** ***Christianity and Classical Culture*** (New Haven, 1993) on Cappadocian appropriation of Greek philosophy; **Colin E. Gunton,** ***The Triune Creator: A Historical and Systematic Study*** (Grand Rapids, 1998); **Peter C. Bouteneff,** ***Beginnings: Ancient Christian Readings of the Biblical Creation Narratives*** (Grand Rapids, 2008). Selnecker's Locus follows the paradigm-Melanchthonian ***brevem-commonefactionem*** register — deferring the substantive-exegetical labour to Moses himself + Ps. 104 + 136 + Basil's paradigm ***Hexaemeron*** — while supplying the paradigm-***scholastic-*definitio-causae-species-consideratio-fines*** framework that all subsequent paradigm-Lutheran-Orthodox creation-doctrine (Chemnitz, Hutter, Gerhard, Quenstedt) would inherit.
+
+¹¹⁰ᵃ **The paradigm ***creatio-definitio-in-5-partes*** framework** — Selnecker's paradigm-***5-part*** creation-definition (external action + Trinity + ex nihilo + goodness/wisdom + Church-*finis*) is a paradigm-***Wittenberg-Melanchthonian-Loci-scholastic*** *definitio* — foundational for all subsequent paradigm-Lutheran-Orthodox systematic-creation-doctrine. Standard modern treatment: **Robert D. Preus,** ***The Theology of Post-Reformation Lutheranism*** Vol. II (St. Louis, 1972), pp. 165–226 on paradigm-Lutheran-Orthodox creation-doctrine.
+
+¹¹⁰ᵇ **The paradigm ***Filioque-appropriated-in-creation*** framework** — Selnecker's paradigm-***"first-Person + first-work"*** appropriation follows paradigm-Augustinian ***works-ad-extra-common-but-Person-appropriated*** rule (cf. n. 102 above at Chapter 4). Paradigm-parallel appropriations: ***Son / redemption,*** ***Spirit / sanctification.*** Standard modern treatment: **Lewis Ayres,** ***Augustine and the Trinity*** (Cambridge, 2010), pp. 210–250.
+
+¹¹⁰ᶜ **The paradigm ***nine-sphere-Ptolemaic-cosmology*** framework** — Selnecker's paradigm-***primum-mobile + firmamentum + septem-planetae*** enumeration is the paradigm-***Ptolemaic-geocentric-Aratean*** cosmology (paradigm-***Aratus of Soli,*** *Phaenomena* c. 270 BC — cited by Paul at Acts 17:28 — the paradigm ***classical-Hellenistic astronomical didactic-poem***). Selnecker writes 33 years after paradigm ***Copernicus De Revolutionibus 1543*** but before paradigm ***Galileo 1610*** — so the paradigm-Ptolemaic cosmology remains normative for paradigm-***confessional-Reformation-humanistic-scholarship.*** Standard modern treatment: **John North,** ***Cosmos: An Illustrated History of Astronomy and Cosmology*** (Chicago, 2008), pp. 209–282 on paradigm-late-Renaissance transition. — The paradigm ***creatura-definitio*** framework echoes paradigm ***Aquinas Summa Contra Gentiles II*** *De rebus creatis* and paradigm ***Melanchthon Loci de creatione*** *(CR 21).*
+
+¹¹⁰ᵈ **The paradigm-***classical-humanistic-triple-citation of Ovid-Cicero-Silius*** on man's uprightness** — paradigm-***Wittenberg-humanistic-Melanchthonian*** framework of citing paradigm-***classical Gentile-anthropological witnesses*** to the paradigm-***biblical-imago-Dei*** doctrine. **Ovid** *Metamorphoses* I.76–86 (paradigm-***"os homini sublime"***); **Cicero** *De Legibus* I.9.26; **Silius Italicus** *Punica* XV.84–87. Selnecker follows paradigm-Melanchthon's paradigm ***classical-humanistic-*proof-text*-marshalling*** as illustrated throughout *Loci Communes* and paradigm ***Orationes.***
+
+¹¹⁰ᵉ **The paradigm ***quadruple-gradus-viventium*** (four-grade hierarchy) framework** — the paradigm-***Aristotelian-*De Anima* + *Historia Animalium*** paradigm-***scholastic-Christianised*** framework: (1) inanimate/existing; (2) vegetative-soul plants; (3) sensitive-soul brutes; (4) intellective-soul man. Paradigm-Aquinas ***Summa Theologiae*** I.q.78 *De potentiis animae*. Selnecker's paradigm-***Melanchthonian-humanistic*** appropriation places man as ***paradigm-***finis-omnium-inferiorum*** who himself is ***paradigm-*servitor-Dei-solius.****
+
+¹¹⁰ᶠ **The paradigm ***quadruple-admonitio-ex-ordine-hominis*** framework** — Selnecker's paradigm-***moral-theological*** deduction from the paradigm-*ordo-creaturarum* framework: (1) man's excellence; (2) *scopus-actionum* = glory of God + thanksgiving; (3) perversitas-miseriae-hominis (echoing paradigm ***Ps 8*** + paradigm ***Augustinian-Anselmian curvatus-in-se*** framework); (4) *quaerendus-Mediator-in-natura-nostra* — the paradigm-***anthropological transition to Christology.*** This paradigm-***moral-anthropological-Christological-move*** anticipates paradigm ***Chemnitz Loci de imagine Dei + de peccato originali*** framework.
+
+¹¹⁰ᵍ **Bernard's paradigm ***septuple-consideratio*** framework** — **Bernard of Clairvaux** (1090–1153), paradigm-***Cistercian-mystical-monastic*** giant, whose paradigm-***septem-considerationes*** on the benefits of creation is likely drawn from **Bernard** ***Sermones in Cantica Canticorum*** (PL 183:785–1198) or paradigm ***De diligendo Deo*** (PL 182:973–1000). Bernard is paradigm-Selnecker's paradigm-***medieval-mystical-preferred-witness*** — cited approvingly throughout, as also in paradigm-Luther's paradigm ***Bernard-appreciation*** framework (paradigm-*fides ad extra* passages, WA 30/3:329). Standard modern treatment: **Bernard McGinn,** ***The Growth of Mysticism*** (New York, 1994), pp. 158–224 on paradigm-*Bernardine-mysticism*.
+
+¹¹⁰ʰ **The paradigm ***creatio-ex-nihilo*** framework** — the paradigm-***confessional-Christian creation-doctrine*** framework: **Ps. 33:9** *(ipse dixit et facta sunt)* + **Ecclesiasticus 18:1** *(qui vivit in aeternum creavit omnia simul)* as *sedes-doctrinae.* Paradigm ***Heb. 11:3*** *(τὰ βλεπόμενα ἐκ μὴ φαινομένων γεγονέναι)* is the paradigm-***chief NT sedes-doctrinae*** (mentioned at note 111 below). Standard modern treatment: **Gerhard May,** ***Creatio ex Nihilo: The Doctrine of "Creation Out of Nothing" in Early Christian Thought*** (Edinburgh, 1994).
+
+¹¹⁰ⁱ **The paradigm ***classical-Greek-philosophers-on-first-principles*** doxographical catalogue** — Selnecker's paradigm-***Wittenberg-Melanchthonian-humanistic doxography*** of Presocratic and Platonic-Aristotelian first-principles debates. Sources: (1) **Heraclitus of Ephesus** (c. 535–475 BC) — paradigm ***fire-primary-element,*** DK B fragments; (2) **Diogenes of Apollonia** (5th c. BC) — paradigm ***air-primary-element***; (3) **Thales of Miletus** (c. 624–546 BC) — paradigm ***water-primary-element***; (4) **Democritus of Abdera** (c. 460–370 BC) — paradigm ***atoms-in-the-void*** (also **Leucippus**); (5) **Empedocles of Acragas** (c. 495–435 BC) — paradigm ***four-elements + Love/Strife***; (6) **Zeno of Citium** (c. 334–262 BC) + Stoics — paradigm ***God/Mind + Nature/Matter*** dyad; (7) **Hesiod** *Theogony* + **Ovid** *Metamorphoses* I — paradigm ***God + Chaos*** dyad; (8) **Plato** *Timaeus* + *Phaedo* — paradigm ***God + Matter + Idea*** triad. Selnecker's paradigm-***anno-mundi*** dating framework is paradigm-***Melanchthonian-Chronicon-Carion-appropriated*** (*Chronicon Carionis* 1532, ed. Melanchthon; expanded by Peucer). Standard modern treatment: **G. S. Kirk, J. E. Raven, M. Schofield,** ***The Presocratic Philosophers*** (Cambridge, 1983, 2nd ed.). — **Guillaume Budé** (1467–1540), French humanist and paradigm-Renaissance-Hellenist, cited for his paradigm-***Platonic-Christianising*** reading of the paradigm ***Epinomis 986C-D*** *Logos-passage* as a proto-***Logos-doctrine*** — a paradigm-common ***Renaissance-humanist prisca-theologia*** interpretative framework.
+
+¹¹⁰ʲ **Justin Martyr on Plato's dependence on Moses** — from **Justin Martyr,** ***Cohortatio ad Graecos*** (also called ***Oratio ad Gentiles Exhortatoria***, PG 6:241–312 — possibly not by Justin himself but paradigm-3rd-c. Justin-adjacent apologetic-work). The paradigm ***Plato-borrowed-from-Moses-in-Egypt*** framework is a paradigm ***early-Christian apologetic-humanistic*** topos (also in Clement of Alexandria's ***Stromata*** I; and paradigm ***Aristobulus of Alexandria*** fragments) — paradigm-***Renaissance-humanistic revived*** through Marsilio Ficino's paradigm-***Prisca Theologia*** framework. Selnecker's paradigm-***Justin-appropriated*** version follows paradigm-***Wittenberg-humanistic-Melanchthonian*** convention. Standard modern treatment: **Sara Ahbel-Rappe,** ***Reading Neoplatonism*** (Cambridge, 2000); **Christoph Riedweg,** ***Ps.-Justin (Markell von Ankyra?), Ad Graecos de Vera Religione*** (Basel, 1994).
+
+¹¹⁰ᵏ **The paradigm ***creatio-vs-generatio-vs-annihilatio*** scholastic distinction** — the paradigm-***Aquinas-Bonaventura-Scotus*** mature-scholastic *distinctio* between: (1) ***creatio*** — action of God alone, from ***non-being to being***, no pre-existing matter; (2) ***generatio physica*** — motion within already-created nature, from ***not-such-being to such-being***; (3) ***annihilatio*** — reverse of creation, from ***being to nothing***, work of God alone. Paradigm ***Aquinas Summa Theologiae*** I.q.45 *De modo emanationis rerum a primo principio*. Paradigm-***Reformation-mainstream*** retention of paradigm-scholastic-*distinctio-clarification* even as paradigm-scholastic-*theological-syncretism* was polemically rejected.
+
+¹¹⁰ˡ **The paradigm ***Epiphanius contra Aetium*** citation** — **Epiphanius of Salamis** (c. 315–403), *Panarion* Book III, Haer. 76 *Adversus Aetianos* (PG 42:517–635) — the paradigm-4th-c. anti-***Aetius the Anhomoean*** framework (a paradigm-Neo-Arian more extreme even than Eunomius). Selnecker's citation of paradigm-Epiphanian ***ratiocinationes-hominum-miserae-sunt*** framework is a paradigm-***anti-speculative*** counter to paradigm-***curiosity-questions*** about creation. — **The paradigm ***Augustinian-*infernum-fabricat-curiosis*** anecdote** — from ***Confessiones*** XI.12.14 (PL 32:815) and ***De Genesi ad Litteram*** V.5.12 (PL 34:325). Paradigm-***classical apophatic-response*** to paradigm-speculative-cosmological curiosity.
+
+¹¹⁰ᵐ **The paradigm ***aeternitas / aevum / tempus*** scholastic distinction** — the paradigm-***Boethian-Aquinas mature-scholastic*** *distinctio* between: (1) ***aeternitas*** — God alone, no beginning no end; (2) ***aevum*** — Angels and souls, beginning but no end; (3) ***tempus*** — corporeal things, beginning and end. Paradigm ***Boethius Consolatio Philosophiae*** V.6 + paradigm ***Aquinas Summa Theologiae*** I.q.10 *De Dei aeternitate*. Selnecker's paradigm-***Wittenberg-Kreis*** appropriation retains the paradigm-scholastic-***distinctio*** while cleansing it of paradigm-scholastic-***syncretism.***
+
+¹¹⁰ⁿ **The paradigm ***two-Aristotelian-arguments-refutation*** framework** — Selnecker's paradigm-***scholastic-refutation*** of Aristotle's paradigm ***causa-perfectissima-non-est-otiosa*** + paradigm ***motuum-caelestium-perpetuitas*** arguments for the world's eternity. The paradigm-***voluntarist counter*** (God acts freely, not by natural necessity) is paradigm-***confessional-Reformation-appropriated Scotist-voluntarism.*** Standard modern treatment: **Richard A. Muller,** ***Post-Reformation Reformed Dogmatics*** Vol. III: *The Divine Essence and Attributes* (Grand Rapids, 2003), pp. 227–298 on paradigm-Reformation-voluntarism.
+
+¹¹⁰ᵒ **The paradigm ***anno-mundi 5533 / annus-Christi-1571*** dating** — Selnecker's ***"in this year of Christ's birth 1571 = anno mundi 5533"*** dating implies a **1571-composition-date** for this section — 8 years before the 1579-imprint, suggesting the *Institutio* was composed and revised over roughly a decade. — The paradigm ***Elias-prophecy of 2000-in-vain + 2000-under-Law + 2000-Messianic*** *sedes-doctrinae* is a paradigm-***Talmudic-Sanhedrin 97a*** framework, paradigm-***Reformation-appropriated*** for eschatological-*imminentia-Domini* register. — The paradigm ***Septuagint-Meah/Meoth error*** framework — paradigm-Jerome ***Quaestiones Hebraicae in Genesim*** (PL 23:983–1062) and paradigm ***Chronicon of Eusebius*** (paradigm-4th-c. Eusebius-Jerome-Latin *Chronicon universale*). Standard modern treatment: **Anthony Grafton,** ***Joseph Scaliger*** (Oxford, 1983–1993, 2 vols.) on paradigm-Reformation-humanistic chronology.
+
+¹¹⁰ᵖ **The paradigm ***"Read Moses + Ps 104 + 136 + Basil's Hexaemeron"*** closing recommendation** — Selnecker's paradigm-***self-conscious-deferral*** to paradigm-classical patristic-and-biblical creation-treatments. **Basil the Great** (c. 330–379), Cappadocian Father whose ***Homiliae in Hexaemeron*** (nine homilies, PG 29:3–208; SC 26) is the paradigm ***patristic-golden-standard*** on creation-doctrine, cited paradigmatically throughout Renaissance-Reformation creation-treatments. Standard modern treatment: **Frances Young,** ***Biblical Exegesis and the Formation of Christian Culture*** (Cambridge, 1997), pp. 213–248 on paradigm-Cappadocian *Hexaemeron*-tradition; **Andrew Louth,** ***The Origins of the Christian Mystical Tradition*** (Oxford, 1981), pp. 88–113.
 
 ¹¹¹ **The paradigm ***ex-nihilo-anti-Aristotelian-anti-Manichaean*** creation-framework** — the paradigm ***confessional-Christian*** creation-doctrine against paradigm-***Aristotelian*** ***materia-aeterna*** and paradigm-***Manichaean*** ***two-eternal-principles*** frameworks. Paradigm ***Heb. 11:3*** (*τὰ βλεπόμενα ἐκ μὴ φαινομένων*) is the paradigm-*sedes-doctrinae* for *creatio ex nihilo.* — The paradigm ***concursus divinus*** framework — that God ***upholds*** all things continuously — was developed by paradigm ***mature-Lutheran-Orthodoxy*** as a paradigm ***three-fold concurrence*** (Gerhard, Quenstedt): ***concursus generalis, concursus specialis, concursus liberi arbitrii.*** Standard modern treatment: **Robert D. Preus,** ***The Theology of Post-Reformation Lutheranism*** Vol. II (see n. 95 above), pp. 165–226.
 
