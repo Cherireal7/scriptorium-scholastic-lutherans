@@ -4757,11 +4757,231 @@ But where he is diligently driven, one can, with God's help, *well guard oneself
 
 **Whence does she come?**
 
-**Out of God's *gracious Counsel and Will*...**
+**Out of God's *gracious Counsel and Will*.** — **Eph. 1:5**: *"He hath ordained us to be his Adopted Children through Jesus Christ, according to the good pleasure of his Will,"* etc.
 
 — ❦ —
 
-*[Chapter XXII Eternal Election continues. Translation continues in Rebuild-Tranche 19.]*
+## Question 4. What moves him to such Grace-Election?
+
+**What moves him to such Grace-Election?**
+
+**His inexpressible Mercy** — **Rom. 9; Eph. 1**. And that he has not willed that the whole Human Race should be created *in vain*, and finally *die and perish in Eternal Death* — **Ezek. 18:23, 32**: *"I will not the Death of the Sinner, but that he be converted and live."*
+
+— ❦ —
+
+## Question 5. Who has deserved such Grace-Election?
+
+**Who has deserved such Grace-Election?**
+
+**None but Jesus Christ alone** — with his holy Suffering and Dying, and holy Obedience, whereby he has bought us Men from Sin and Death, and obtained us for his own inheritance — **Eph. 1:6–7**: *"He hath made us acceptable in the Beloved, in whom we have Redemption through his Blood."*
+
+Wherefore it is wrong to seek the Cause of Election in *us Men and our merit*, as the Papists do.
+
+— ❦ —
+
+## Question 6. What *Order* does God keep in the Grace-Election?
+
+**What Order does God keep in the Grace-Election?**
+
+**The Order is described by the Apostle Paul at Rom. 8:30**: *"Whom he has ordained, those has he also called; whom he has called, those has he also made Righteous; whom he has made Righteous, those has he also glorified."*
+
+Wherefore the Elect are nowhere to be sought *save in the Congregation of God*, where his holy Word is preached *pure and clear*, and the Sacraments are administered *according to Christ's Ordinance*. There namely the *Calling goes in force*. For the Calling comes to pass through the **Office of Preaching**.
+
+— ❦ —
+
+## Question 7. Is then the Grace-Election so bare in the secret Counsel of God to be considered?
+
+**Is then the Grace-Election so bare in the secret Counsel of God to be considered?**
+
+**Answer**: Whoso will think of the Grace-Election with **Profit and Fruit**, he must *begin at Repentance*. **First**, from the heart *know his Sins*. **Afterward**, believe on Jesus Christ, and obtain **Forgiveness of Sins**. **Thirdly**, be *created through the Power of the Holy Spirit unto good works* — **Eph. 2:10** — that he may *walk therein*. **Fourthly**, through the *Cross and manifold Temptations be exercised in Faith*. Then can he with Profit think of the Grace-Election.
+
+But whoso will begin at the *bare secret Counsel of God*, and let the Repentance and all else stand — he will not be able without *harm* to think hereof, but will fall either into **Security** or into **Despair**.
+
+And this Order shows us the Apostle Paul in his Epistle to the Romans: where he first *preaches Repentance* to them; afterward, *Faith on Christ*; thirdly, teaches how the Holy Spirit renews the Believing's hearts and works a new Obedience; fourthly, praises them through much and manifold Cross; and *then* — only in the 9th chapter — properly leads to the Grace-Election.
+
+**So also**, if any one will think of the Grace-Election out of Reason or out of the Law, he sets nothing up. For this Mystery is *too high for Reason*. But the Law preaches only of Sin and of God's Wrath against Sin, and *not of Grace* — **Rom. 3, 8**. Wherefore one cannot seek the Grace-Election in the Law.
+
+— ❦ —
+
+## Question 8. How comes it then that few are chosen — as Christ says, Matt. 20:16?
+
+**How comes it then that few are chosen — as Christ says, Matt. 20:16?**
+
+**Answer**: We speak here of the **revealed Word**. That says — **Rom. 11:20**: *"They are broken off for the sake of their Unbelief"* — where it is *clearly indicated* that **Unbelief is the Fault**.
+
+— ❦ —
+
+## Question 9. Is then God the Cause that some are damned?
+
+**Is then God the Cause that some are damned?**
+
+**By no means.** For he swears, and says himself: *"I will not the Death of the Sinner, but that he be converted and live"* — **Ezek. 18:23, 32**.
+
+Wherefore we shall *not say* that the **Reprobation of the Godless is God's Will or Ordinance**, but much more confess that **Sin is the Cause of the same**. For the wages of Sin is Death — **Rom. 6:23**.
+
+— ❦ —
+
+## Question 10. Is then this rightly said, that some give out that God from his *free counsel*, and *without regard to Sin*, out of *free will and purpose* has ordained certain Men to Damnation, who cannot be converted?
+
+**Is then this rightly said, that some give out that God from his *free counsel*, and *without regard to Sin*, out of free will and purpose has ordained certain Men to Damnation, who cannot be converted?**
+
+**By no means.** For the Scripture nowhere speaks so; but says much more — **1 Tim. 2:4**: *"God wills that all Men be helped, and come to Knowledge of the Truth."* — **Hos. 13:9**: *"Israel, thou bringest thyself into misfortune; thy Help stands alone by me."*
+
+Wherefore *rightly* all pious hearts hold themselves from this and the like *blasphemous speeches*, and where they hear it of others, they shall *stop their ears therefor*.
+
+— ❦ —
+
+## Question 11. Ey, they say — the Reprobate can never be made blessed; they do what they will?
+
+**Ey, they say — the Reprobate can never be made blessed; they do what they will?**
+
+**Answer**: Because we have no certain Witness — *which* are the ones who finally are Reprobate and damned (for we cannot certainly say, *who* they are, in this Life — forasmuch as for the Conversion of all Men there is Hope while they are alive); and the *Thief*, **Luke 23**, at the very last End was converted — we shall not undertake **to grasp into God's Judgement** and pronounce judgement of *hidden matters*.
+
+— ❦ —
+
+## Question 12. Could he then convert them all with one another?
+
+**Could he then convert them all with one another?**
+
+**There is no doubt of it** — if he would use his Almightiness. But that he does it not, we have not to reckon with him therefor. Paul, **Rom. 9:22**, writes: *"He demonstrates Wrath and makes known his Power, and bears with great Patience the vessels of Wrath,"* etc. In those whom he thus leaves in their Unbelief, he demonstrates *his Righteousness and Wrath against Sin*. He is *nothing owing to any of us*; rather, what he gives and does, that he does out of pure Grace for Jesus Christ's sake — to whom we have to *thank and ascribe all*.
+
+— ❦ —
+
+## Question 13. Because now Faith on Christ is a *special Gift of God*, why does he not give it to all?
+
+**Because now Faith on Christ is a *special Gift of God*, why does he not give it to all?**
+
+**The resolution of this Question we shall save unto the Eternal Life**; meanwhile letting ourselves suffice, that God wills not that we shall search his hidden Judgements — **Rom. 9:33** [11:33]: *"O what a Depth of the Riches, both of the Wisdom and Knowledge of God — how quite incomprehensible are his Judgements!"*
+
+— ❦ —
+
+## Question 14. But it has the appearance as though God were Unjust — that he gives not to all Men, Turks, Heathen, and Impenitent, his Knowledge and Faith?
+
+**But it has the appearance as though God were Unjust — that he gives not to all Men, Turks, Heathen, and Impenitent, his Knowledge and Faith?**
+
+**Answer**: How can he be Unjust — because he is nothing owing to any Man — **Matt. 20:15** — and could have let them all die in their Sins? Wherefore also the Apostle — **Rom. 9:20** — says: *"Dear Man, who art thou, that thou wilt reason with God?"* etc.
+
+It seems also that God is Unjust in this — that he here on Earth for the most part lets the *Pious go ill*, and the *Evil go well* — and Reason cannot at all order herself hereto. **But the Gospel indicates the Cause why God lays manifold Cross upon his own, and saves the Glory for yonder side.**
+
+So here it seems to us God is Unjust — in that he gives not to all Men his Word and Faith on Christ; and our Reason can hereout in this Life *not find*. But when we there in that Life shall come, then we shall see and understand that God is *not Unjust*, though he gives not to all Men Word and Faith. ***Lumen gloriae*** — that is, the **Light of Glory** — will then finely and easily resolve the Question — which resolution we ***in lumine gratiae***, in the Light of Grace or of the Gospel, cannot *altogether see*.
+
+God's Punishments and Judgement over Sin must be *equally* known, as also his Grace. All Men's Nature is *through Sin corrupted*. Wherefore God is nothing owing to us but *Damnation*. That he even at times gives his Word and Grace, we *thrust the same out* and make ourselves *unworthy of Eternal Life* — as at **Acts 13:46** stands of the Jews. Wherefore *no Unrighteousness* can rightly be laid to God the LORD in this matter.
+
+— ❦ —
+
+## Question 15. Yet I would gladly know most groundly and properly, what for a Cause this has?
+
+**Yet I would gladly know most groundly and properly, what for a Cause this has?**
+
+**Hereupon I answer with Augustine, *De Verbis Apostoli, Sermone 20***: ***Nemo quaerat à me occultorum rationem. Ille dicit, inscrutabilia sunt iudicia eius, & tu scrutari venisti. Ille dicit, inuestigabiles vias eius, & tu inuestigare venisti. Si igitur scrutari veniris, & inuestigabilia veſtigare venisti, crede iam periisti. Tibi satis vellem esse quia scrutabilia, inuiſibilia videre, & ineffabilia fari. Ergo, aedificetur domus, cum peruenerit ad dedicationem, tunc inuenies istorum occultorum apertiſsimam rationem.***
+
+That is: *"Let no man desire to know from me the Causes of such hidden Mystery. The Apostle says: his Judgements are incomprehensible — and thou comest and wilt comprehend them. He says: his Ways are unsearchable — and thou comest and wilt search them out. When thou wilt thereto undertake, to comprehend and search out the incomprehensible and unsearchable things, it is already all over with thee. It is the very same to trouble oneself to comprehend and search out the incomprehensible and unsearchable things, as to see invisible things, and to speak inexpressible things. Let God's House now be built; when it comes to the Dedication, there will the LORD show us of such hidden and secret matters ground and constant Cause,"* etc.
+
+**In Sum**: in this Life we can *no more say*, brood and speculate as we will — for as at **Rom. 9:23** stands: *"That God will make known the riches of his Glory upon the vessels of Mercy — but his Wrath he will demonstrate upon those who are damned."* Thereby we shall let it *remain*.
+
+— ❦ —
+
+## Question 16. Which is then the *End* of such Grace-Election?
+
+**Which is then the *End* of such Grace-Election?**
+
+**God's Honour** — **Eph. 1:6, 12**: *"He hath ordained us to the Praise of his glorious Grace"* — and *our Souls' Salvation and Blessedness*.
+
+— ❦ —
+
+## Question 17. Which are the Fruits of the Grace-Election?
+
+**Which are the Fruits of the Grace-Election?**
+
+**These the Apostle sets forth also finely plainly, Eph. 1:4**, where he says: *"He hath chosen us, that we should be Holy and Unblameable before him, in Love."* And in **Eph. 2:10**: *"We are his workmanship, created in Christ Jesus unto good works, whereunto God hath before prepared us, that we should walk therein."*
+
+Likewise **Rom. 8:29**, where he writes: *"Whom he hath foreseen, those hath he also ordained, that they should be conformable to the Image of his Son"* — that is, to *bear Christ's Cross after him*, and *through much Tribulation enter into the Kingdom of Heaven*.
+
+**Finally**, where he — **Rom. 8:35, 38–39** — says that the Elect can be separated by no one from the Love of God: *"I am certain,"* says he, *"that neither Death nor Life, neither Angels nor Principalities, nor any other creature, can separate us from the Love of God, which is in Christ Jesus our LORD."*
+
+— ❦ —
+
+## Question 18. Is it then wrong to teach that the Grace-Election stands on our Works or on our Will?
+
+**Is it then wrong to teach that the Grace-Election stands on our Works or on our Will?**
+
+**Yes indeed.** For she stands *alone on God's Mercy* — **Rom. 9:15**: *"On whom I have mercy, on him I have mercy."* And on **Christ's Merit** — **Eph. 1:5**: *"And hath ordained us to be Adopted Children through Jesus Christ,"* etc.
+
+— ❦ —
+
+## Question 19. Does then God's Foresight compel Men to Sin?
+
+**Does then God's Foresight compel Men to Sin?**
+
+**By no means.** For he is not a God to whom *Godless Being pleases* — **Ps. 5:5**: *"Whoso doeth Unrighteousness abides not before him."*
+
+We Men sin *willingly*. For all imagining and striving of Man's Heart is *from Youth up bent to the Evil* — **Gen. 6:5; 8:21**. And **Matt. 15:19**: *"Out of Man's Heart come evil Thoughts,"* etc.
+
+— ❦ —
+
+## Question 20. It seems, however, as though this point *abolishes* the Doctrine of Good Works, and makes the people *secure to sin*?
+
+**It seems, however, as though this point abolishes the Doctrine of Good Works, and makes the people secure to sin?**
+
+**By no means.** How should this Article abolish the Doctrine of Good Works and make the people secure — since **Eph. 1:4** clearly stands: *"God hath chosen us that we should be Holy and Unblameable before him, in Love."* And **Eph. 2:10**: *"He hath before prepared us thereto, that we should walk in good works."*
+
+That the Godless folk, however, use this Article — as also many other — as *cover of shame for their willfulness*, is not the fault of the Doctrine itself, but of *the wickedness of Human Heart*, which is wont to *pervert and misuse all good*.
+
+**From the Devil, and not from God, come the thoughts**: *"Art thou chosen — do what thou wilt, it can harm thee nothing at all."* For the Scripture nowhere says that thou shalt use this Article thereto, or so think of the Grace-Election. But that *this Grace-Election shall give thee Cause to walk in all good works, and be unblameable and holy before God*, etc. — **Eph. 1; 2**.
+
+— ❦ —
+
+## Question 21. How shall a troubled Christian Heart *comfort itself* in the heavy and high Temptations of Eternal Grace-Election?
+
+**How shall a troubled Christian Heart comfort itself in the heavy and high Temptations of Eternal Grace-Election?**
+
+**First**, shall (in such assaulted Heart) look upon the *comfort-rich Promises* wherein God himself names himself *a God of the troubled, broken, and afflicted Hearts* — **Ps. 9; 10; 40; 51** — and offers them a constant Comfort, and this same Comfort *bring into no doubt*. For what the LORD promises, that he keeps *certainly*. Heaven and Earth pass away, but his Words pass not away — **Luke 21:33**.
+
+He will not the Broken *quite to break*, but *raise up*. Because thou hast then such a broken Heart, thou shalt be certain that he will *comfort thee* and *rescue thee out of this heavy Temptation*.
+
+**Second**, that Jesus Christ himself calls such troubled Hearts to himself, and *promises them Refreshment* — **Matt. 11:28**: *"Come unto me, all ye who are weary and heavy-laden — I will refresh you."* Because thou findest thyself in thy Heart with the said Temptation *highly weighed down and burdened*, and it presses thy Heart as a heavy load, thou shalt not doubt — **the LORD Jesus Christ will take such load from thee, and graciously refresh or comfort thee**.
+
+**Third**, why wilt thou *torment and afflict thyself* with this Temptation about God's *secret Counsel*, seeing the Heavenly Father has revealed to thee a *true, constant Heart* of thy Blessedness in *Christ Jesus his dear Son*? Upon this thou canst and shalt be *certain of thy Election*, as **John 3:16** stands: *"So hath God loved the World,"* etc. — **John 6:40**: *"This is God's Will,"* etc. Item, **Rom. 10:12**: *"There is one LORD, rich over all who invoke him. For whoso invokes the Name of the LORD shall be blessed."*
+
+Yea, the Heavenly Father himself bids thee *hear his dear Son* — **Matt. 3:17**. But what witnesses he of thy Blessedness? This, namely: that if thou believest on him, thou shalt *not come into Judgement* or be *damned* — **John 5:24** — but have *Eternal Life*, and *have passed from Death unto Life*.
+
+**Fourth**, what needs many words: such troubled assaulted Hearts shall look only into the *blood-dripping Wounds of Jesus Christ, the only Mediator*, wherein their Grace-Election *constantly appears*. For because he has for thy sake *let himself be wounded and killed*, and shed his precious Blood for thee — wherefore then shouldst thou not be elect to Eternal Life? Yea, why shouldst thou be eternally damned and lost? He has all this *not therefore risen*, that thou shouldst be damned and lost, but *much more that thou shouldst thereby be made blessed*. **Isa. 53:5**: *"Through his Wounds we are healed; the Punishment lies upon him, that we should keep Peace."* — **1 John 1:7**: *"The Blood of Jesus Christ makes us clean from all Sin."* If it makes thee clean from all Sin, then must thou indeed be elect. For whoso is cleansed from all Sin is certainly an Heir of the Kingdom of Heaven and Eternal Life. So count thyself therefore *not among the Damned*, seeing thou art through the precious Blood of Jesus Christ *dearly bought from all thy Sins* and *washed clean* — **1 Cor. 6:20**.
+
+**Fifth**, here stand the *common Grace-Promises*, which certainly concern also thee — where it is said that the LORD has *mercy on all* — **Rom. 11; Gal. 3** — that he is *rich over all* — **Rom. 10** — that he will make blessed all who believe on the Son. Now thou believest on Jesus Christ his Son, and comfortest thyself of his *most holy Obedience, Suffering, Dying, and Resurrection*, etc. Wherefore wouldst thou then *exclude thyself* from such common Promises?
+
+**Sixth**, so art thou also *baptised on the Name and Blood of Jesus Christ*, unto Forgiveness of Sins and inheritance of Eternal Life — **Acts 2; Mark 16**. Hast accordingly no Cause to doubt of thy Blessedness or Election. For **whoso believes and is baptised shall be blessed**.
+
+**Seventh**, so gives the Holy Spirit, who dwells in thy Heart — **Rom. 8:16** — witness with thy Spirit that thou art God's Child and Christ's Co-heir. How shouldst thou then not be *elect unto Eternal Life*? Hence also at **2 Cor. 1:21–22** stands: *"God is he that establisheth us together with you in Christ, and hath anointed and sealed us, and given the pledge — the Spirit — into our Hearts."*
+
+**Eighth**, thy Election is also confirmed by the *costly Pledge of the Body and Blood of Jesus Christ*, given to thee in the Holy Supper with Bread and Wine. Because now Jesus Christ *feeds and gives thee to drink with his own Flesh and Blood*, how then should he not be *of intent to make thee eternally blessed*, and take thee into his Kingdom of Heaven?
+
+— ❦ —
+
+## Objection.
+
+**I know not, however, whether I am in the number of the Elect?**
+
+**Answer**: These are thoughts which the evil Enemy *imagines* in thee, and therewith troubles thee — which thou shalt *by no means follow*, but much more look upon the *foretold Grounds*, in which thou art *plainly and clearly instructed* that thou in Christ Jesus, and through his Blood and Death, art *certainly elected* and shalt be *eternally blessed*. Abide by this, and let thyself not be driven therefrom; the Temptation will through God's Help or Grace *well slack*, and thou shalt at last again be *rejoiced*.
+
+— ❦ —
+
+# XXIII.
+
+# Of Good Works.
+
+## Question 1. What are Good Works?
+
+**What are Good Works?**
+
+**Good Works are called *the works which God has commanded*, and which happen in Faith and Knowledge of Jesus Christ**, and are directed to this End: that **God thereby be praised, and the Neighbour served** — **Ex. 20; Rom. 14:17**: *"The Kingdom of God is not eating and drinking, but Righteousness and Peace and Joy in the Holy Spirit; whoso therein serves Christ, is well-pleasing to God, and worthy to Men."* — **Heb. 11:4**: *"Through Faith Abel offered God a Sacrifice."* — **Matt. 5:16**: *"So let your Light shine before the people, that they may see your good works, and praise your Father in Heaven."*
+
+**But the Christians' Works — which they do according to God's Command** — are called *Good Works* — **Eph. 2:10**: *"Created unto good works."* — **2 Tim. 3:17**: *"Prepared for every good work."*
+
+Yet not so, however, as though they were **fully good** and could stand before God's Judgement, but because they *come from Regenerate or Believing Men*, and *flow from the Treasure of a good Heart*...
+
+— ❦ —
+
+*[Chapter XXIII Good Works continues. Translation continues in Rebuild-Tranche 20.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
