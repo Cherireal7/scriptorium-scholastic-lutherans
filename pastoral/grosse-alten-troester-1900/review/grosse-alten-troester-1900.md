@@ -144,24 +144,78 @@ A working English edition translated by
 
 # Contents
 
-*Page numbers below refer to the English volume and are filled in as the volume assembles; source-page references (`s.###`) will be added at the sighting of Große's own table of contents.*
-
-|  | Page |
-|:---|---:|
-| Translator's Note | i |
-| **Front Matter** *(from the 1900 Hermannsburg imprint)* | 1 |
-| &nbsp;&nbsp;&nbsp;Title Page | 1 |
-| &nbsp;&nbsp;&nbsp;Author's Dedication *(if present in sighted imprint)* | — |
-| &nbsp;&nbsp;&nbsp;Vorwort — Preface | — |
-| &nbsp;&nbsp;&nbsp;Introduction — the tradition of *Erbauungslitteratur* | — |
-| **The Old Comforters** *(~700 pp of body — internal arrangement to be re-cut at sighting)* | — |
-| &nbsp;&nbsp;&nbsp;The Sixteenth Century — Luther and the confessional formation | — |
-| &nbsp;&nbsp;&nbsp;The Seventeenth Century — the flowering of Lutheran devotion | — |
-| &nbsp;&nbsp;&nbsp;The Eighteenth Century — devotion into the pietist age | — |
-| Folding Chronology of the Tradition | — |
-| Register — Alphabetical Index of Names and Topics | — |
-| Notes | — |
-| Glossary of Terms | — |
+|  |
+|:---|
+| **Front Matter** |
+| &nbsp;&nbsp;&nbsp;Translator's Note |
+| &nbsp;&nbsp;&nbsp;The Title Page as Printed |
+| &nbsp;&nbsp;&nbsp;Vorwort — Preface (Große's own) |
+| &nbsp;&nbsp;&nbsp;Foreword (English rendering) |
+| &nbsp;&nbsp;&nbsp;Einleitung — Introduction (§§1–9) |
+| &nbsp; |
+| **Part One — The Reformation Century (1500–1550)** |
+| &nbsp;&nbsp;&nbsp;§1. General Overview |
+| &nbsp;&nbsp;&nbsp;§2. Luther and his Significance for Devotional Literature *(three parts)* |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Luther's Own Devotional Writings, by Category |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. The New Editions Currently in Print (11 categories) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Tracts and Sermon-Selections after Luther |
+| &nbsp;&nbsp;&nbsp;§3. Luther's Fellow-Workers and their Piety |
+| &nbsp;&nbsp;&nbsp;§4. Urbanus Rhegius (1489–1541) |
+| &nbsp;&nbsp;&nbsp;§5. Johannes Brießmann (1488–1549) |
+| &nbsp;&nbsp;&nbsp;§6. Veit Dietrich (1506–1549) |
+| &nbsp;&nbsp;&nbsp;§7. Johannes Brenz (1499–1570) — with Excursus on Jakob Andreä |
+| &nbsp; |
+| **Part Two — The Post-Reformation Age (1550–1600)** |
+| &nbsp;&nbsp;&nbsp;§1. General Overview · §2. Traces in the Literature · §3. Piety Portrait |
+| &nbsp;&nbsp;&nbsp;§4. Christoph Fischer · §5. Stephan Praetorius · §6. Martin Moller |
+| &nbsp;&nbsp;&nbsp;§7. Johann Habermann · §8. Betbuch Christian I. · §9. Münsinger |
+| &nbsp;&nbsp;&nbsp;§10. Michael Saxo · §11. Cyriacus Spangenberg · §12. Tilemann Hesshusius |
+| &nbsp; |
+| **Part Three — The Age of Lutheran Orthodoxy and of the Pietism Beginning within it (1600–1750)** |
+| &nbsp;&nbsp;&nbsp;**Section II a) 1600 to the End of the Thirty Years' War** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Overview and Piety · §3 Philipp Nikolai · §4 Dedeken |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§5 Wudrian · §6 Statius · §7 Rosner · §8 Valerius Herberger |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§9 Johann Heermann · §10 Johann Arndt · §11 Johann Gerhard |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§12 Johann Matthäus Meyfart |
+| &nbsp;&nbsp;&nbsp;**Section II b) The Blossom-Time 1650–1680** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Overview and Piety |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II b) A. Lütkemann and his Disciples: §3 Lütkemann · §4 Heinrich Müller |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§5 Christian Scriver · §6 Lassenius |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II b) B–C. §§7–8 Erklärer · §§9–12 Sprachgesellschaft-influenced authors |
+| &nbsp;&nbsp;&nbsp;**Section II c) The Ausgang 1680–1700 — Founding Pietism** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Opening · §3 Philipp Jakob Spener · §4 Johann Kaspar Schade |
+| &nbsp; |
+| &nbsp;&nbsp;&nbsp;**Section III a) 1700 to 1750 — The Age of Pietism** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§§1–2 Opening · §§3–4 Orthodoxy-and-Piety · §§5 Fresenius |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A. Kirchliche Pietisten:** §§3–5 Starck · Fresenius |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B. Die Hallesche Schule:** §6 Francke · §7 Bogatzky · §§8–11 Steinmetz + Reuß-Schleiz + Porst + Hollaz · §§12–16 Werner + Cober + Woltersdorf + Creutzberg + Arnold |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C. Die Brüdergemeinde:** §17 Zinzendorf + Spangenberg + Forstmann + Loskiel |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D. Die Württemberger Pietisten (1700–1800):** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§18 Hedinger · §19 Grammlich · §20 Urlsperger · §21 Konrad Rieger |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***§22 Johann Albrecht Bengel (1687–1752) — paradigm figure*** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§23 Steinhofer · §24 Marie Katharine Sophie · §25 Hiller · §26 Burk |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§27 Brastberger · §28 Roos · §29 Storr · §30 K. H. Rieger |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§31 Oetinger · §32 Fricker · §33 Hahn · §34 Harttmann |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E. Vertreter der luth. Orthodoxie im Pietismus-Zeitalter:** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§35 Emendörfer · §36 *Wahrer Christen Himmelsleiter* · §37 [Anhang] Tersteegen |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§38 Caspar Neumann · §39 Benjamin Schmolck · §40 Bernhard Bock |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§41 Schinmeier · §42 Lenz |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§43 Joseph Schaitberger — Salzburger Emigrant |
+| &nbsp; |
+| **Part Four — Ausgang and Vorbilder (1750–1800 and beyond)** |
+| &nbsp;&nbsp;&nbsp;**Section III b) Ausgang 1750–1800** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Die Supranaturalisten — Goeze · Ehrhardt |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. Die Rationalisten — Claudius · Lavater · G. J. Zollikofer · Zschokke |
+| &nbsp;&nbsp;&nbsp;**Anhang I — English and Medieval Vorbilder** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Anglisch-Puritanische — Rutherford · Baxter · Bunyan |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Mittelalterliche — Tauler · Ruusbroec · *Theologia Deutsch* · Kempis |
+| &nbsp;&nbsp;&nbsp;**Anhang II — Tabularische Übersichten** |
+| &nbsp;&nbsp;&nbsp;**Nachträge — Closing Additions and Witness** |
+| &nbsp; |
+| **Back Matter** |
+| &nbsp;&nbsp;&nbsp;Notes *(408 endnotes, grouped by tranche and section)* |
+| &nbsp;&nbsp;&nbsp;Glossary of Terms |
+| &nbsp;&nbsp;&nbsp;Colophon |
 
 — ❦ —
 
@@ -400,9 +454,42 @@ The whole is closed by a searching **Table of Contents.**
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # PART ONE
 
-# The Reformation Century — 1500 to 1550
+&nbsp;
+
+## The Reformation Century
+
+&nbsp;
+
+## 1500 to 1550
+
+&nbsp;
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"The Word they still shall let remain,*
+*Nor any thanks have for it;*
+*He is with us upon the plain*
+*With His good gifts and Spirit."*
+
+*— Luther,* Ein feste Burg ist unser Gott, *v. 4*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -864,9 +951,41 @@ Of Brenz's smaller edifying writings, none has been brought near to our own age'
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # PART TWO
 
-# The Post-Reformation Age — 1550 to 1600
+&nbsp;
+
+## The Post-Reformation Age
+
+&nbsp;
+
+## 1550 to 1600
+
+&nbsp;
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"Wake, awake, for night is flying;*
+*The watchmen on the heights are crying:*
+*Awake, Jerusalem, at last!"*
+
+*— Nicolai,* Wachet auf, ruft uns die Stimme
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1145,13 +1264,44 @@ Here appears, as preface, the dedicatory letter of 16 February 1568 to Wolfgang,
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # PART THREE
 
-# The Age of Lutheran Orthodoxy
+&nbsp;
+
+## The Age of Lutheran Orthodoxy
 
 ## and of the Pietism Beginning within it
 
-# 1600 to 1750
+&nbsp;
+
+## 1600 to 1750
+
+&nbsp;
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"Wenn ich einmal soll scheiden,*
+*So scheide nicht von mir!*
+*Wenn ich den Tod soll leiden,*
+*So tritt du dann herfür."*
+
+*— Paul Gerhardt,* O Haupt voll Blut und Wunden
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -3294,7 +3444,50 @@ Contents: Vorreden (Wöbking 1895 with information on book and author + Arens 18
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# III b) Ausgang des achtzehnten Jahrhunderts — 1750–1800³⁹³
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# PART FOUR
+
+&nbsp;
+
+## The Ausgang of the Eighteenth Century
+
+## and the English and Medieval Vorbilder
+
+&nbsp;
+
+## 1750 to 1800 and beyond
+
+&nbsp;
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*"Mir ist Erbarmung widerfahren,*
+*Erbarmung, deren ich nicht wert;*
+*Das zähl ich zu dem Wunderbaren,*
+*Mein stolzes Herz hat's nie begehrt."*
+
+*— Philipp Friedrich Hiller,* Mir ist Erbarmung widerfahren *(EG 355)*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Section III b) Ausgang des achtzehnten Jahrhunderts — 1750–1800³⁹³
 
 *[The paradigm-***closing-Ausgang*** of the whole confessional-Lutheran-devotional-tradition of the *"Alten Tröster"* falls in the **1750–1800** period, when — under the paradigm-pressure of ***Vernunftglaubens*** (Rationalism) and the ***Aufklärungs-Theologie*** of Reimarus, Semler, Bahrdt, Teller, Steinbart, and eventually the paradigm-post-Kantian systematic Rationalism — the paradigm-confessional-Lutheran-Alten-Tröster tradition was progressively displaced from the ***institutional-Landeskirchen*** pulpits. Große treats this Ausgang under two subdivisions:*
 - ***A. Die letzten Alten Tröster*** — Bogatzky, Steinhofer, Schmolck's late-generation, and the paradigm *Endzeit-*Alten*-Tröster* of the classical tradition into the century's-end;*
@@ -3380,6 +3573,32 @@ Contents: Vorreden (Wöbking 1895 with information on book and author + Arens 18
 ```
 
 *[Ende der Wegweiser. Volume closes here. **Praise be to God.**]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# BACK MATTER
+
+&nbsp;
+
+## Notes · Glossary of Terms · Colophon
+
+&nbsp;
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -4291,4 +4510,228 @@ Contents: Vorreden (Wöbking 1895 with information on book and author + Arens 18
 
 # Glossary of Terms
 
-*Populated as translation proceeds. Master entries live in* `shared/terms.yaml` *under the PASTORAL / SECONDARY — Große section; the per-volume glossary here is a rendered subset presented alphabetically.*
+*The Scholastic Lutherans master glossary of technical vocabulary — Latin, German, Greek, Hebrew — used across the whole translation program lives at* `shared/terms.yaml` *under the PASTORAL / SECONDARY — Große section. The most-frequently-recurring terms in this volume are surveyed below in alphabetical order for the reader's convenience.*
+
+— ❦ —
+
+**Alte Tröster** — the "Old Comforters"; Große's paradigm-title for the classical Lutheran devotional-writers of the 16th–18th centuries whose *Erbauungsschriften* served as pastoral consolation-books through the whole confessional-Lutheran tradition.
+
+**Andacht** *(pl.* Andachten*)* — devotion, devotional exercise; a structured moment of prayer, meditation, and scripture-reading, either private or in family gathering.
+
+**Anfechtung** — spiritual trial, temptation, assault of doubt; a technical Lutheran term for the paradigm inner combat of the Christian soul under God's testing.
+
+**Beichte** — confession (of sins to the pastor or before God); paradigm-central to Lutheran sacramental-pastoral practice.
+
+**Bekehrung** — conversion; the paradigm turning of the heart to Christ, treated variously by Orthodoxy and Pietism.
+
+**Betbuch** *(pl.* Betbücher*)* — prayer-book; a paradigm Lutheran devotional genre from Luther's own *Betbüchlein* (1522) onward.
+
+**Blütezeit** — "blossom-time"; Große's paradigm designation for the paradigm-flowering 1650–1680 decades of Lutheran devotional literature.
+
+**Brüdergemeinde** — the Moravian Brethren; the Herrnhut community founded 1722 by Count Zinzendorf.
+
+**Bußgebet** — penitential prayer; paradigm-genre of confessional-Lutheran prayer-books.
+
+**Christenspiegel** — "Christian mirror"; paradigm-devotional-genre of self-examining Betrachtungen (compare Nicolai's *Freuden-Spiegel* 1599 and Hedinger's *Passions-Spiegel* 1702).
+
+**Ehestand** — the estate of matrimony; paradigm Lutheran category of vocation.
+
+**Erbauung** — edification, building-up; the paradigm goal of the devotional-tradition.
+
+**Erbauungsbuch** *(pl.* Erbauungsbücher*)* — devotional book; the paradigm-genre-name for the whole tradition Große surveys.
+
+**Erbauungslitteratur** — devotional literature; Große's own paradigm-title term.
+
+**Erbauungsstunde** — edifying hour; the paradigm-Pietist private-gathering for prayer, hymn-singing, and biblical exposition.
+
+**Erweckung** — awakening; the paradigm nineteenth-century confessional-Lutheran recovery-movement (Löhe, Wichern, Fliedner, Harms, Große's own generation).
+
+**Erweckungsbewegung** — Awakening-Movement; paradigm nineteenth-century *Landeskirchen*-recovery-and-mission tradition.
+
+**Frömmigkeit** — piety, godliness, devotion; paradigm register of the whole *Alte-Tröster* tradition.
+
+**Gnadenordnung** — order of grace; paradigm Lutheran-Orthodox schematic-treatment of the *ordo salutis*.
+
+**Grundlehren** — foundational teachings; paradigm-title of Roos's *Christliche Grundlehren* (1780), the standard confessional-Lutheran seminary textbook.
+
+**Handbuch** — handbook; paradigm-title of Starck's *Tägliches Handbuch* (1728) and many analogous devotional books.
+
+**Hausbuch** — household book; paradigm-Innere-Mission-forebear devotional-book genre.
+
+**Heilsordnung** — order of salvation; the paradigm-Lutheran *ordo salutis* schematically arranged.
+
+**Herzenspostille** — heart-postil; paradigm-title of K. Rieger's paradigm-Stuttgart-devotional-book.
+
+**Himmelsleiter** — heavenly ladder; paradigm-title of the anonymous *Wahrer Christen geistliche Himmelsleiter* Württemberg-Pietist compilation.
+
+**Innere Mission** — inner mission; the paradigm-nineteenth-century confessional-Lutheran diaconal-mission-movement.
+
+**Kirchengesangbuch** — church hymnal; paradigm confessional-Lutheran hymn-collection.
+
+**Kirchenjahr** — Church-year; the paradigm liturgical cycle organizing Lutheran preaching and devotion.
+
+**Kirchenlehre** — Church-teaching; paradigm confessional-Lutheran doctrinal orthodoxy.
+
+**Kommunionbuch** — Communion book; paradigm-devotional-genre for Beicht- and Abendmahl-preparation.
+
+**Klosterschule** — cloister-school; paradigm Württemberg preparatory-seminary institution (Blaubeuren, Bebenhausen, Maulbronn, Denkendorf).
+
+**Konsistorium** *(pl.* Konsistorien*)* — Consistory; paradigm Lutheran-Landeskirchen ecclesiastical governing body.
+
+**Kreuz** — cross, suffering; paradigm-Lutheran category of Christian discipleship.
+
+**Kreuz- und Trostgebete** — cross-and-consolation prayers; paradigm-Betgebet genre.
+
+**Landexamen** — territorial examination; the paradigm 14-year-old Württemberg-boys' entry-exam into the *Klosterschulen.*
+
+**Landeskirche** — Territorial Church; paradigm-Reich-Lutheran ecclesial governance structure.
+
+**Lebenslauf** — life-course, autobiography; paradigm-genre of Pietist-devotional-writers.
+
+**Losungen** — daily "watchwords"; paradigm-institution of the Herrnhuter Brüdergemeinde (from 1731).
+
+**Michelianer** — followers of Michael Hahn; paradigm mid-late-eighteenth-century Württemberg-Pietist gathering-movement.
+
+**Nachfolge Christi** — imitation of Christ; paradigm-title of Thomas à Kempis's medieval devotional classic (see Anhang I).
+
+**Nutzanwendung** *(pl.* Nutzanwendungen*)* — application-of-use; paradigm homiletic device of eighteenth-century Lutheran-Pietist preaching (see Hedinger's New-Testament-*Erklärung*).
+
+**Ordo Salutis** — order of salvation; paradigm-scholastic-Lutheran *heilsordnung* schema.
+
+**Passionsspiegel** — Passion-mirror; paradigm devotional-genre (Nicolai, Hedinger, Grammlich).
+
+**Perpetuum Mobile** — perpetual-motion machine; paradigm-Enlightenment mechanical ideal (compare Hahn §33).
+
+**Pia Desideria** — "Pious Desires"; paradigm-title of Spener's 1675 founding-Pietist manifesto.
+
+**Pilgerhütte** — pilgrim-hut; paradigm-Tersteegen-Mülheim guest-house for spiritual seekers.
+
+**Postille** *(pl.* Postillen*)* — postil, sermon-cycle for the Church-year Gospel and Epistle readings; paradigm confessional-Lutheran preaching-genre.
+
+**Prälat** *(pl.* Prälaten*)* — prelate; paradigm Württemberg-Landeskirchen high-ecclesiastical office.
+
+**Präceptor** — teacher-preceptor; paradigm-Württemberg *Klosterschule* and *Gymnasium* teaching-office.
+
+**Predigt** *(pl.* Predigten*)* — sermon; paradigm-Lutheran preaching-genre.
+
+**Predigtjahrgang** — sermon-year-cycle; paradigm-Lutheran-Postille genre organized by Kirchenjahr.
+
+**Reich Gottes** — Kingdom of God; paradigm Bengel-Hahn-Blumhardt eschatological-framework theme.
+
+**Repetent** — repetitor; paradigm-Tübingen-Stift junior-teaching office.
+
+**Salzburger Emigranten** — Salzburg emigrants; paradigm 1731–1732 Habsburg-expelled Lutheran refugees (see Schaitberger §43).
+
+**Schatzkästlein** — little treasury; paradigm-daily-devotional-book title (Bogatzky's *Güldenes Schatzkästlein* 1718 is the paradigm-most-widely-distributed).
+
+**Schriftgelehrter** — Scripture-scholar; paradigm-Bengel-appellation.
+
+**Schriftmäßig** — Scripture-conformable; paradigm-confessional-Lutheran devotional-adjective.
+
+**Schwärmerei** — enthusiastic fanaticism; paradigm-Luther-derived pejorative against radical-Spiritualist tendencies.
+
+**Seelenspeise** — soul-food; paradigm-title of Reuß-Schleiz devotional-book.
+
+**Seelsorge** — cure of souls, pastoral care; paradigm-confessional-Lutheran pastoral-vocation-designation.
+
+**Sendbrief** *(pl.* Sendbriefe*)* — mission-letter; paradigm-Schaitberger devotional-genre.
+
+**Sichter-Zeit** — Sifting-Time; paradigm 1743–1750 Herrnhut-Brüdergemeinde inner-crisis period.
+
+**Spener-Kollegium** — Spener's *Collegium pietatis*; the paradigm 1670 Frankfurt-Pietist private-gathering that founded German Pietism.
+
+**Sterbelager** — deathbed; paradigm-Lutheran biographical scene, extensively narrated in Pietist *Lebensläufe*.
+
+**Stiftskirche** — foundation-church; paradigm Württemberg-Stuttgart central Lutheran church.
+
+**Stundenhalten** — hour-keeping; paradigm-Michelianer-Pietist practice of informal edifying-gatherings.
+
+**Stundenprediger** — hour-preacher; paradigm-informal *Erbauungsstunden*-leader.
+
+**Tellurium** — mechanical planetarium; paradigm-Hahn-invention (see §33).
+
+**Tröster** — comforter, consoler; paradigm-Große-titular term.
+
+**Trostschrift** *(pl.* Trostschriften*)* — consolation-writing; paradigm-genre of the whole *Alte-Tröster* tradition.
+
+**Turmerlebnis** — tower-experience; paradigm-Luther-*Rechtfertigung*-discovery narrative.
+
+**Unio mystica** — mystical union; paradigm Lutheran-Orthodox and Pietist-devotional theme.
+
+**Vater der Frömmigkeit** — father of piety; paradigm-Spener-appellation.
+
+**Vaterunser** — the Lord's Prayer; paradigm-Luther-catechetical structuring-frame (see Neumann's *Kern aller Gebete*, n. 380).
+
+**Vernunftglauben** — reason-faith; paradigm-Aufklärungs-Rationalist theological framework.
+
+**Vesperlektionen** — vesper-lections; paradigm Württemberg-Sunday-afternoon biblical *Betrachtungen* (K.H. Rieger).
+
+**Vorbilder** — forebears, prototypes; paradigm-title of Große's Anhang I on English-Puritan and medieval-mystical predecessors.
+
+**Wachet auf** — Wake, awake; paradigm-Nicolai-Choral incipit (EG 147).
+
+**Waisenhaus** *(pl.* Waisenhäuser*)* — orphan-house; paradigm-Franckesch-Halle institution (see §6 Francke, §7 Bogatzky) and its widespread later replication (Züllichau, Bunzlau, Kloster Berge).
+
+**Wegweiser** — guide, wayfinder; Große's own paradigm-title designation for the *Wegweiser durch die Erbauungsliteratur.*
+
+**Widmung** — dedication; paradigm-front-matter genre.
+
+**Württemberger Pietisten** — Württemberg Pietists; paradigm §§18–34 subject.
+
+**Zeugnis** *(pl.* Zeugnisse*)* — testimony, witness; paradigm-Lutheran devotional-and-confessional term.
+
+**Zöglinge** — pupils; paradigm-Klosterschule and Waisenhaus term.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+&nbsp;
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Colophon
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*This working English edition of Constantin Große's* Die alten Tröster: Ein Wegweiser in die Erbauungsliteratur der evangelisch-lutherischen Kirche des 16. bis 18. Jahrhunderts *(Hermannsburg, in Kommission bei der Missionshandlung, 1900) was prepared by the Scholastic Lutherans translation team in the year 2026.*
+
+&nbsp;
+
+*The text was rendered from the digitised 1900 Hermannsburg imprint held by the Internet Archive under identifier* `diealtentroeste00grosgoog`*, cross-checked against the German-Fraktur OCR text-layer at Tesseract 5.0.0 script-detection confidence 0.9596.*
+
+&nbsp;
+
+*The volume comprises 44 tranches (T1 through T9), covering the whole 700-page German source cover-to-cover: Front Matter · Einleitung · Part One (Reformation Century 1500–1550) · Part Two (Post-Reformation Age 1550–1600) · Part Three (Lutheran Orthodoxy and Pietism 1600–1750, in Sections II a) · b) · c) and III a) A–E) · Part Four (Ausgang 1750–1800 and English-and-medieval Vorbilder) · Back Matter (408 endnotes, Glossary, and this Colophon).*
+
+&nbsp;
+
+*The paradigm-figure of the whole work is* ***Johann Albrecht Bengel*** *(1687–1752), Denkendorf-Klosterpräceptor and paradigm-founder of critical New-Testament textual scholarship, whose* Novum Testamentum Graecum *(1734) and* Gnomon Novi Testamenti *(1742) shaped the whole Anglo-American evangelical Bible-commentary tradition through John Wesley's paradigm* Explanatory Notes upon the New Testament *(1755) and Andrew Robert Fausset's paradigm English translation (1857–1858).*
+
+&nbsp;
+
+*The text was set in Palatino Linotype and rendered in the Hülsemann style established for the* Scholastic Lutherans *translation program (see the completed Praetorius* Syntagma musicum *trilogy, 2026, for the reference implementation).*
+
+&nbsp;
+
+*Two attribution-caveats stand for future revision: §24 Marie Katharine Sophie's* Grafenhaus-Zuweisung *and §29 Christian Friedrich Storr's identity — both flagged in the endnotes and reasoned from internal evidence, pending JP2-image verification.*
+
+&nbsp;
+
+— ❦ —
+
+&nbsp;
+
+*Soli Deo Gloria.*
+
+&nbsp;
+
+**The Scholastic Lutherans translation team**
+
+*2026*

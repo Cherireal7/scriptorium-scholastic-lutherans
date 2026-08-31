@@ -800,7 +800,235 @@ For the Godhead dwells not merely in the human nature as in other saints; rather
 
 — ❦ —
 
-*[Chapter III continues with the Chalcedonian Rule question, majesty of Human Nature, the "given in time" question, further objections against communicatio idiomatum, and the *genus maiestaticum* against Reformed rejection. Translation continues in Rebuild-Tranche 4.]*
+## Question 15. But has it not the look, as though the Council of Chalcedon in its stated rule would have it understood, that the Human Nature accomplishes in the Office-Matters or Works of the Mediator no more than what its natural properties allow — and that she therein has nothing in common with the Divine Nature's Workings?
+
+**But has it not the look — as though the Council of Chalcedon in its stated rule would give to understand that the Human Nature accomplishes in the Office-Matters or Works of the Mediator no more than what her natural properties allow — and that she therein has nothing in common with the Divine Nature's Workings? For thus run the words of the same further:**
+
+**"The Human Nature suffers the Wrong; the Divine, however, triumphs and lets herself be seen in Wonder-works."**
+
+**Answer.** In this manner of speaking, what is here considered is *what each Nature according to her essential properties accomplishes* in the Office-Matters. But it is by no means denied under this, that the *assumed Human Nature*, on account of and after the manner of the **Personal Union and Exaltation**, is used *in the Office-Matters also for the accomplishment of the Divine Workings*. Wherefore also Christ's Flesh is called a **life-giving Flesh** (John 6), and so is named in the **Ephesine Council**.
+
+Further, the stated rule handles Christ's Office *insofar as concerns the bringing about of Salvation* — under which it is *not* denied that the assumed and exalted Human Nature has its supernatural *co-working*, insofar as concerns the *Giving, Dispensing, and Delivery* of the same [Salvation]. For **the whole Christ is made unto us of God, unto Wisdom and unto Righteousness** (1 Cor. 1:30). But of this more hereafter.
+
+**Third**: the Holy Scripture does not let it stop at saying that Christ *according to his Human Nature has received many and high Gifts, whereby he immeasurably surpasses the Gifts of all Angels and blessed Men* — but shows plainly also that to the Human Nature in Christ is *given*:
+
+- **All Authority** in heaven and on earth — **Matt. 28:18**.
+- **The Power to make alive** — **John 6:63**.
+- **The Honour of Adoration** — **John 9:38; Phil. 2:10**.
+- **To hold the Last Judgement** — **John 5:22, 27**.
+- **The Glory to fill all things** — **Eph. 1:23; 4:10**.
+- And what else more is of the like.
+
+— ❦ —
+
+## Question 16. First Objection: One may nevertheless not say that the Godhead has suffered and died. How then can one say that the Human Nature has received such Divine Properties?
+
+**Objection.** *One may nevertheless not say that the Godhead has suffered and died; how then can one say that the Human Nature has received such Divine Properties?*
+
+**Answer.** In the first speech, Scripture itself shows the *particula distinctiva* — **1 Pet. 3:18 and 4:1**: *"Christ has suffered *according to the flesh*."* But here [when speaking of communication *to* the Human Nature] she speaks otherwise. Wherefore we too may confidently and safely speak with her.
+
+Beside that: here is a great **difference**. For the Divine Nature is *altogether shut off from all changeableness*, cannot suffer and die; but the Human Nature is *changeable*, can be humbled and exalted.
+
+So it is proper to the Divine Nature *to give and communicate* Glory; but to the Human Nature *to receive and take* from the Divine. Wherefore also the Divine Nature *exalts* the Human, and not the reverse.
+
+And in Summa: that here is a *dissimilarity* between the two speeches appears also from this — that we may rightly and well say with the Scripture: *"Christ's Flesh is life-giving,"* whereas we may **not** say that the Godhead has suffered or died.
+
+— ❦ —
+
+## Question 17. So tell me briefly and thoroughly, whereof then must all the sayings of Scripture which speak of giving in time properly and must be understood?
+
+**So tell me briefly and thoroughly — whence then must all the sayings of Scripture that speak of "giving in time" properly and must be understood?**
+
+**Answer.** Not of the **Divine**, but of the **assumed Human Nature in the Person of Christ** — as the ancient right-believing Church ever and always expounded these sayings against the *Arians*. That is: whatever the Scripture says as *given to Christ in time*, that is to be understood **according to the Manhood or Human Nature**, and *not* according to the Godhead or Divine Nature.
+
+**Gregory of Nyssa, *Contra Eunomium*; Athanasius apud Theodoretum**, etc.
+
+For to the Divine Nature — which from eternity *is and has* all things — nothing can be given in time. But to the Human Nature — which is lowly — *can* be given, and it has been given *above her essential natural properties*, above also the created Gifts which she has of and for herself.
+
+Here belong these and suchlike sayings:
+
+- **Matt. 28:18** — *"Unto me is given all Authority in heaven and on earth."*
+- **John 3:35** — *"The Father hath loved the Son, and hath given all things into his hand."*
+- **John 5:27** — *"He hath given him authority to hold the Judgement, because he is the Son of Man."*
+- **Phil. 2:9–11** — *"God hath given him a Name that is above every name, that in the Name of Jesus every knee should bow, of those in heaven and in earth and under the earth, and every tongue confess that Jesus Christ is LORD, unto the glory of God the Father."*
+
+*This* one must therefore know and hold — that one may render to the LORD Christ, **as Man** or **according to his assumed Human Nature**, his rightful honour, and not, with the adversaries thereof, rob him of the *Majesty and Glory* given to him. For **Leo**, *Epistle 23*, on the passage of Paul at Eph. 1, says:
+
+*"So then, do the adversaries of the truth tell us — the Almighty Father, and according to which Nature has he exalted his Son above all things, or according to which Nature has he subjected all to him? For to the Godhead, as the Creator, all things have ever been subject; if to that (Son) his authority is increased and made greater — if his height is exalted still more — then he is lesser than the one who has exalted him, and has not had the riches of the Nature whose bounty he has needed. But whoever holds such opinions, Arius takes into his fellowship."* — ***"Talia sentientem in Societatem suam Arrius rapit."***
+
+— ❦ —
+
+## Question 18. When was such Majesty given to him, however?
+
+**When was such Majesty given to him, however?**
+
+**Soon in the Conception.** **John 1:14** — *"And the Word became Flesh, and dwelt among us, and we beheld his Glory, a Glory as of the Only-begotten Son of the Father, full of grace and truth."*
+
+But he did *not always use it in the time of his Humiliation*, but rather **emptied himself thereof** — **Phil. 2:7** — though he nevertheless *at times* (as in his Wonder-Works) let this same Majesty be *somewhat glimpsed*.
+
+— ❦ —
+
+## Question 19. Ey — must one not understand the little word "All Authority" (Matt. 28) so, that it means as much as *the Almighty Authority* — but rather that it is only a *media potentia*, a middle authority, that surpasses every other creature's authority, and yet is not an endless authority?
+
+**Ey — must one not understand the little word "All Authority" (Matt. 28) so, that it means as much as the Almighty Authority — but rather that it is only a *media potentia*, a middle authority, that surpasses every other creature's authority, and yet is not an endless authority?**
+
+**Answer.** What Christ at **Matt. 28:18** calls "all Authority," he calls at **Luke 22:69** the **Power of God**: *"From henceforth ye shall see the Son of Man sitting at the Right Hand of the Power of God."*
+
+Now God's Power or Authority is *no *media potentia** or middle-power, nor is it *circumscribed*, but is *endless*. Wherefore *it is a pure fiction* — what in the explanation of the said little passage Matt. 28 is prattled by the opposite side of the *middle-Authority*.
+
+— ❦ —
+
+## Question 20. Are then the Divine Glories communicated to the assumed Human Nature so that they become her essential properties?
+
+**Are then the Divine Glories communicated to the assumed Human Nature so that they become her essential properties?**
+
+**No.** For in this manner the Word or Son of God has and keeps his Majesty *alone in his Being, with the Father and the Holy Spirit* (with whom he is of *one Being*) — common; but *not* in common with the assumed Human Nature, from whom he is *distinct according to Being*.
+
+Were they *so* communicated, the Human Nature would be *transformed into the Godhead* — which is *false and wrong*. For we hold neither with the **Eutychians** nor with the **Schwenkfelders** who invent a *transformation of Natures*.
+
+— ❦ —
+
+## Question 21. Is then the communication of such Majesty *natural* — such that the Son of God has poured his Godhead or Majesty into the Human Nature, so that she has such Majesty *of and for herself*?
+
+**Is then the communication of such Majesty *natural* — such that the Son of God has poured his Godhead or Majesty into the Human Nature, so that she has such Majesty of and for herself?**
+
+**Neither so.** For the Word, or Son of God, or his Nature, is *unchangeable* — pours himself not thus *into* the assumed Human Nature as into a *physicum subiectum*, as if a costly balsam were poured from one glass into another.
+
+For the Word or Son of God does *not*, in the assumed Human Nature, *create* a *new* Majesty — or one *distinct from his Godhead* — and communicate the same. For thereby *two Godheads* would follow: which is wrong and blasphemous.
+
+Further, there would follow — the Human Nature would, on the *Eutychian* or *Schwenkfeldian* pattern, be **transformed into the Divine Nature**.
+
+Also, if this were taught, the *Person* would be *torn apart on the Nestorian pattern* — were it advanced that each Nature in Christ had its own, peculiar, or separate Divine Majesty, and so *two Persons* were made out of Christ. Which is *false and insufferable*.
+
+— ❦ —
+
+## Question 22. How then is such communication of the Majesty to be called?
+
+**How then is such communication of the Majesty to be called?**
+
+**Answer. Personal.** For *on account of the Personal Union of the two Natures in Christ* and the *Exaltation of the assumed Human Nature*, it comes to pass that Scripture says: **the assumed Human Nature has been communicated such Divine Majesty and Glory**.
+
+— ❦ —
+
+## Question 23. Objection: If essential properties of the Divine Nature were with the deed communicated to the assumed Human Nature, they could no more be and remain the Divine Nature's properties. For what is *own* remains no more *own* when it is communicated to another?
+
+**Objection.** *If the essential properties of the Divine Nature were with the deed communicated to the assumed Human Nature, they could no more be and remain the Divine Nature's properties. For what is own remains no more own, when it is communicated to another.*
+
+**Answer.** If the Divine Majesty or Almightiness, or the Power to make alive, and what else is of the like, were *communicated* to the Human Nature *in this manner* — that Christ's Human Nature no less than the Godhead had such Majesty or Glory *of and from herself*, or according to the manner of *her own Nature* — there is *no doubt* that they would not remain properties of the Divine Nature alone, since they had *in that fashion* become also *essential properties of the Human Nature*.
+
+**Now, however, we teach plainly, out of and according to God's Word**, that such properties remain *forever and ever* alone the essential properties of the Divine Nature ***in quarto modo*** (as one is wont to speak in the schools) — and never become essential properties of the Human Nature. Wherefore no such *inversion* can in any way be laid to us.
+
+Rather, when we speak of this, we understand nothing further than of the **communication** which, *on account of the Personal Union and the Exaltation of the Human Nature to the Right Hand of God*, has come about, according to the testimony of Scripture. The Scripture says that to the Human Nature such Glories have been communicated or given — namely, **all Power in heaven and on earth, the Life-giving, the Honour of Adoration, and what else is of the like**. Thereby we abide, although we in this life cannot *fully* understand or express the *manner* of the communication, but must believe.
+
+The old teachers have willed to indicate something hereof in the **likeness of the fiery Iron**. Yet this likeness does not fully explain this Mystery — but shows in some measure that such communication *may come about without change of the Natures and essential properties*. For as the *Fire* communicates to the *Iron* its properties of *shining and burning*, without the destruction of the Iron's Nature — so the Human Nature need not therefore be *destroyed* or *changed*, though the Godhead truly communicates to her his Majesty, and *in, with, and through her* shines, works, creates, and accomplishes his works.
+
+And as the *Soul* communicates its properties to its *Body*, and yet transforms it not into itself — so the Godhead communicates to his assumed Human Nature *his properties or Majesty, without a change or transformation*. For the Human Nature remains for ever and ever *finite*, and is not transformed into the Godhead itself, but remains *thus far under the Creator*.
+
+So too she does not become *equal in properties* to the Godhead — but *Almightiness and the Power to make alive remain for ever and ever the essential property of the Divine Nature*, and become nevermore an essential property of the Human Nature, though she — on account of the Personal Union — is communicated the assumed Human Nature.
+
+So no *conforming* happens in regard to the *Will*: for the Divine Nature retains her Divine Will; the Human Nature her Human Will, which is *subject* to the Divine Will.
+
+So too the *Workings* of the Natures are not conformed: for the workings of the Divine Nature are *Divine*; of the Human Nature *Human*.
+
+Though the Godhead also makes his workings common with the assumed Human Nature — as **Cyril**, *De Incarnatione Unigeniti*, cap. 7, rightly writes — yet they never become *natural, essential workings* of Christ's Human Nature; for they come not out of the Nature of the Flesh, but out of the *Personal Union*.
+
+**Finally**: the Divine Nature has this Majesty *in quite another manner* than the assumed Human Nature. For the Godhead has this Majesty *essentially*, and *is* the Almightiness and the Life itself. The assumed Human Nature, however, has it *only on account of the Personal Union*, through which she is exalted to the *fellowship* of such Majesty.
+
+*But is not the Almightiness the Life itself?*
+
+— ❦ —
+
+## Question 24. Second Objection: What has Almighty Authority, that is God. Now the assumed Human Nature has such Authority; therefore must she be God herself?
+
+**Second Objection.** *What has Almighty Authority, that is God. Now the assumed Human Nature has such Authority; therefore must she be God herself?*
+
+**Answer.** What has Almighty Authority ***out of her own Nature and essential properties***, so that she is *naturally and essentially* Almighty — that is God. What, however, has the Almighty Authority *not in the said manner* — that is *not God himself*.
+
+Now although in Scripture (**Matt. 28** and elsewhere) *Almighty Authority* is spoken to the assumed Human Nature of Christ — yet from this it *by no means* follows that she is God. For she has such Almighty Authority *not out of her own Nature's essential properties*, and so that she is *essentially and by Nature Almighty*, or the Almightiness itself. Rather, [it is hers] **on account of the Personal Union and Exaltation**.
+
+Otherwise, if it held to reason so, one might reason in the same fashion against the **Council of Ephesus**: *"What is life-giving, is God. Christ's Flesh is life-giving. Ergo, so is it God."* Yet it does not hold. Rather, the first *propositio* or *Maior* must be so explained: **"What is life-giving out of its own power and essential natural property — that is God."**
+
+Christ's Flesh, however, is not life-giving out of its own power and essential natural property — but *on account of and by reason of the Personal Union and Exaltation*, according to the express words at **John 6**. Wherefore it does not rightly follow from this that she must therefore *be God himself*.
+
+So it remains true, that Christ **according to his assumed Human Nature has received Almighty Life-giving Authority**, and yet the Human Nature has not *essentially* become God, or the Almightiness and Life itself.
+
+— ❦ —
+
+## Question 25. Has then the assumed Human Nature, in the accomplishment of the Miracles and the like — also above her natural properties or received Gifts, on account of the Personal Union and Exaltation — had her *co-working*, so that the Miracles must and shall be ascribed to Christ not according to the Divine [Nature] alone, but at once according to *both Natures*?
+
+**Has then the assumed Human Nature, in the accomplishment of the Miracles and the like — also above her natural properties or received Gifts, on account of the Personal Union and Exaltation — had her *co-working*, so that the Miracles must and shall be ascribed to Christ not according to the Divine [Nature] alone, but at once according to *both Natures*?**
+
+**Answer. In every way.** For the Holy Scripture, **Acts 10:38**, says: *"That God has anointed Jesus of Nazareth with the Holy Spirit and Power, who went about doing good and healing all those who were overpowered of the devil."*
+
+Now this can *not* be understood of his Divine Nature — for she has had such Power from Eternity, and has not had need to *receive* it in time. But the Human Nature, which the Son of God in the fullness of time has assumed *indivisibly* into the Unity of his Person, is therewith **anointed or endowed**.
+
+Whence also **Mark 5:29–30** stands: *"That Christ perceived, when he had stilled the sick woman's flow of blood, that the fount of her blood was dried up, that such power had gone out from him."*
+
+We shall therefore not follow those who allege that the most holy Human Nature of Christ, for the accomplishment of the Miracles, did no more than what her *own powers* admit — or, as they say, like Moses' rod for his Wonder-signs, or Peter and the other Apostles for their Wonder-signs. For this is at bottom nothing else than making *a common Apostle or Saint* out of Christ.
+
+And if their doctrine were to stand thus, they could not show *any distinction* — in what manner, measure, or how far Christ, as Man, is distinguished from the other saints (who through God's Power have done Wonder-signs) — save only in the measure, that the Divine Power dwelt in the saints *per assistentiam*, as one speaks, but in Christ *personally* on both sides — but *without co-working* of the same, insofar as concerns the accomplishment of the Wonder-signs.
+
+— ❦ —
+
+## Question 26. Yes, they say — the doing of Wonder-signs is a work belonging to the Divine Nature alone; wherefore it cannot in any way be ascribed to Christ according to his assumed Human Nature?
+
+**Yes, they say — the doing of Wonder-signs is a work belonging to the Divine Nature alone; wherefore it cannot in any way be ascribed to Christ according to his assumed Human Nature?**
+
+**Answer.** The Wonder-signs are rightly and fittingly ascribed to the Divine Nature. For the *Power to do Wonder-Works* is alone the essential property of the Divine Nature, as it is written, **Ps. 86:10** — *"Thou alone doest Wonders."*
+
+But since the *whole fullness of the Godhead dwells bodily in Christ* (**Col. 2:9**), such Divine Power and Authority shows herself **in, with, and through the assumed Human Nature** — as the [Human Nature] has been assumed for that purpose by the Son of God in the *Unity of the Person*, that the Godhead may **in, with, and through the same let herself be seen, work, and create**.
+
+Whence the old teacher **Athanasius**, *Dialogue 5 De Trinitate*, writes: *That the Word, united with the Human Nature, does Wonder-signs — not sundered from the assumed Human Nature — but it has pleased him through, in, and with the same to demonstrate his Divine Almightiness.*
+
+And **Cyril**, *De Incarnatione Unigeniti* cap. 7: *The Word communicates to the assumed Flesh his Divine Workings, that she can also make the dead alive and heal the sick.*
+
+**The Wonder-signs remain therefore truly God's Work**, though they be accomplished *in, with, and through the assumed Human Nature*; and the assumed Human Nature is in no way to be excluded from the accomplishment of the Wonder-Works.
+
+— ❦ —
+
+## Question 27. Has then Christ's Flesh truly received the life-giving power?
+
+**Has then Christ's Flesh truly received the life-giving Power?**
+
+**Yes indeed.** For **John 6:54** stands thus — that *Christ's Flesh* is truly *a Food* — which the **Council of Ephesus** rightly so understood, that she is *life-giving* — or has *life-giving Power*.
+
+— ❦ —
+
+## Question 28. Yes, some say — one must understand this only of the Merit and Intercession?
+
+**Yes, some say — one must understand this only of the Merit and Intercession?**
+
+**Answer.** Christ's Flesh is *life-giving* **because she is with the life-giving Word personally united**, and because the same [Word] has truly communicated his *life-giving Power* to the assumed Flesh — **Cyril**, *Lib. 4 in Ioan.* cap. 24 — and elsewhere in many places.
+
+And also — because through the assumed Flesh **the Life is merited for the world**.
+
+The *making alive* must therefore be understood *not only of the Merit and Intercession*, but *of the Power to make alive, or to communicate the Life now also*.
+
+— ❦ —
+
+## Question 29. "The Spirit is he who makes alive," John 6 — therefore this cannot be ascribed to Christ's Flesh?
+
+**"The Spirit is he who maketh alive" (John 6:63) — therefore this cannot be ascribed to Christ's Flesh?**
+
+**Answer.** This saying is *not set against Christ's assumed holy Flesh*, but *against our corrupted flesh*. It is therefore *ill* brought forward against Christ's life-giving Flesh.
+
+Nor do we teach that Christ's Flesh *of and for herself* is life-giving, as the Spirit is — for that pertains to the Godhead alone. Rather, *that she is life-giving on account of this: that she is with the life-giving Word personally united*, and thus (as **Cyril**, *Lib. 4 in Ioan.* cap. 23, rightly writes) has become **wholly life-giving**.
+
+— ❦ —
+
+## Question 30. Were it so, then the Properties of both Natures in Christ would be mixed?
+
+**Were it so, then the Properties of both Natures in Christ would be mixed?**
+
+**By no means.** For Christ's Flesh does not make alive **as the Word himself does**. The Godhead of the Word makes alive **through herself**; Christ's Flesh, however, [makes alive] *not through herself*, but *because* she — on account of the Personal Union with the Word — has become **wholly life-giving**.
+
+**2.** The Godhead of the Word **is the Life itself**; but Christ's Flesh **is not the Life itself**, but *makes alive*, because she is exalted to such Power on account of the Personal Union.
+
+**3.** The Godhead of the Word is **the Life from Eternity** and *the fountain* of the same...
+
+— ❦ —
+
+*[Chapter III continues with further Q&A on Christ's knowledge, invocation, resurrection body, Ascension, Right Hand of God, Sitting at the Right Hand, ubiquity vs. non-ubiquity of substance, the two states of Humiliation and Exaltation. Translation continues in Rebuild-Tranche 5.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
