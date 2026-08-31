@@ -104,7 +104,23 @@ This edition renders **all 46 Chapters in full Q&A depth, line-by-line and parag
 
 ## 3. Editorial conventions
 
-*(Details on Latin/Greek preservation, Bible-citation normalisation, Fraktur handling, and the *Hauptstück* → "Chapter" rendering will follow the same conventions as the 1583 edition.)*
+**Chapter numbering.** Kirchner's 46 *Hauptstücke* are rendered as **Chapters I–XLVI** in Roman numerals, following his own Register.
+
+**Question format.** Every *Frag'* is rendered as a numbered `Question` heading, with the question first restated in bold before the answer. Sub-questions (Kirchner's *Objectio*, *Item*, or *Sprechen sie aber*) are rendered as `Objection` sub-headings within the parent question.
+
+**Latin and Greek.** Kirchner's Latin patristic quotations are preserved *verbatim* in italics, followed by a plain-English gloss (e.g. Ambrose's ***Verbum Dei dimittit peccata***, Cyprian's ***Mihi vivere Christus est, et mori lucrum***). Greek loan-words (***timōrías***, ***Sheol***, ***Gehenna***, ***casus reservati***) are transliterated where the source has them in Roman characters. Scholastic technical terms (***causa efficiens***, ***materia***, ***forma***, ***Limbus Patrum***, ***donatione Constantini***) are retained in Latin with a gloss on first occurrence.
+
+**Bible citations.** Book abbreviations are normalised to the modern English standard (Rom., 1 Cor., Matt., etc.); chapter and verse numbers are silently corrected against the underlying reference where Kirchner's citation differs from modern versification. Book:chapter format is used throughout (e.g. **Matt. 18:18**, **Psalm 32:5**).
+
+**Bold and italics.** **Bold** marks Bible citations, Kirchner's own emphatic *Erstlich* / *Zum andern* enumerations, and the load-bearing thesis in each answer. *Italics* mark Latin quotations, Kirchner's German technical terms retained in the original, and the *Anfechtungen* / *Gnadenstuhl* / *Adiaphora* type vocabulary. Section dividers use the aldus-leaf ornament — ❦ — per the Scholastic Lutherans convention.
+
+**Polemical labels.** Kirchner's polemical distinctions — **Papist**, **Sacramentarian**, **Anabaptist**, **Novatian**, **Chiliast**, **Sadducee**, **Enthusiast**, **Ebionite**, **Marcionite** — are preserved *as he uses them* without softening; where he identifies the "Antichrist" as the Bishop of Rome (Ch. XXXVIII), we render the identification straight, per the confessional record.
+
+**Silent OCR corrections.** Long-*s* → *f* and *ss* → *β* confusions, missing spaces, and line-break hyphen artefacts from Poppler's Fraktur extraction are silently corrected against the source-image. Substantive gains or losses that affect the doctrine are noted in the endnotes.
+
+## 4. Reader navigation
+
+The book has **46 Chapters** across the whole span of Christian doctrine: from **Scripture** and the **Doctrine of God** through the person and offices of **Christ**, the **Holy Spirit**, **Creation**, the **Fall**, **Sin**, **Law and Gospel**, **Justification**, the **Sacraments**, the **Church**, the **Antichrist**, and the **Last Things** — closing with **Eternal Life**. A full **Table of Contents** follows this Note; each Chapter opens with a divider ornament and closes with the same before the next Chapter begins. The **Endnotes** appear as a numbered section following Ch. XLVI, keyed to Chapter I citation-markers ¹–⁶.
 
 — ❦ —
 
@@ -112,11 +128,94 @@ This edition renders **all 46 Chapters in full Q&A depth, line-by-line and parag
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Chapter I
+# Table of Contents
+
+## Front Matter
+
+- Title Page
+- Colophon / Imprint
+- Translator's Note
+
+## The Six Parts of Christian Doctrine
+
+### Part I. Foundations — Scripture, God, and Christ
+
+- **Chapter I.** Of the Holy Scripture, or Word of God
+- **Chapter II.** Of God
+- **Chapter III.** Of the Person of Our Lord Christ
+- **Chapter IV.** Of the Office of Christ
+- **Chapter V.** Of the Kingdom of Christ
+- **Chapter VI.** Of the Eternal Priesthood of Jesus Christ
+- **Chapter VII.** Of the Holy Spirit
+
+### Part II. Creation, the Fall, and Sin
+
+- **Chapter VIII.** Of the Creation of All Creatures
+- **Chapter IX.** Of the Angels of God
+- **Chapter X.** Of Evil Angels
+- **Chapter XI.** Of Man before the Fall
+- **Chapter XII.** Of the Fall of Adam, and of the Corrupted Powers of Man
+- **Chapter XIII.** Of Sin in General
+- **Chapter XIV.** Of Original Sin
+- **Chapter XV.** Of Actual Sin
+- **Chapter XVI.** Of Ruling and Non-Ruling Sin
+- **Chapter XVII.** Of the Sin against the Holy Spirit
+
+### Part III. Law, Gospel, and the Life of Faith
+
+- **Chapter XVIII.** Of the Law of God
+- **Chapter XIX.** Of the Gospel
+- **Chapter XX.** Of the Justification of the Sinner before God
+- **Chapter XXI.** Of Faith on Christ
+- **Chapter XXII.** Of God's Eternal Election
+- **Chapter XXIII.** Of Good Works
+- **Chapter XXIV.** Of Prayer
+
+### Part IV. The Sacraments and the Church
+
+- **Chapter XXV.** Of the Sacraments in General
+- **Chapter XXVI.** Of Baptism
+- **Chapter XXVII.** Of the Holy Supper
+- **Chapter XXVIII.** Of the Catholic or Christian Church
+- **Chapter XXIX.** Of the Preaching-Office
+- **Chapter XXX.** Of the Power of the Keys
+
+### Part V. The Christian Life
+
+- **Chapter XXXI.** Of Repentance
+- **Chapter XXXII.** Of Christian Freedom
+- **Chapter XXXIII.** Of Offence (*Ergernuss*)
+- **Chapter XXXIV.** Of Wonder-Signs (Miracles)
+- **Chapter XXXV.** Of Cross and Suffering
+- **Chapter XXXVI.** Of the Worldly Authority
+- **Chapter XXXVII.** Of the Marriage-Estate
+- **Chapter XXXVIII.** Of the Antichrist
+
+### Part VI. The Last Things
+
+- **Chapter XXXIX.** Of Death
+- **Chapter XL.** Of Burial
+- **Chapter XLI.** Of the State of the Souls after Man's Death
+- **Chapter XLII.** Of the End of this World
+- **Chapter XLIII.** Of the Resurrection of the Dead
+- **Chapter XLIV.** Of the Last Judgment
+- **Chapter XLV.** Of Hell
+- **Chapter XLVI.** Of Eternal Life
+
+## Back Matter
+
+- Endnotes (Chapter I)
+- Closing Colophon
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Chapter I. Of the Holy Scripture, or Word of God
 
 ### *Von der Heiligen Schrifft, oder Wort Gottes*
-
-*On the Holy Scripture, or the Word of God*
 
 — ❦ —
 
@@ -458,11 +557,9 @@ Whence Christ says (**Luke 24:48**): *"Ye are witnesses of all these things."*
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Chapter II
+# Chapter II. Of God
 
 ### *Von Gott*
-
-*On God*
 
 — ❦ —
 
@@ -600,11 +697,9 @@ That certain sins, however, happen distinctly against the Father, against the So
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Chapter III
+# Chapter III. Of the Person of Our Lord Christ
 
 ### *Von der Person des HERREN Christi*
-
-*On the Person of Our Lord Christ*
 
 — ❦ —
 
@@ -1393,9 +1488,7 @@ For **in the Incarnation** — where the Union of the Divine and Human Nature ca
 
 — ❦ —
 
-# IV.
-
-# Of the Office of Christ.
+# Chapter IV. Of the Office of Christ
 
 ## Question 1. Wherein consists then chiefly the Office of the LORD Christ?
 
@@ -1489,9 +1582,7 @@ So is Christ himself for thee — that thou be not condemned — **Rom. 8:33–3
 
 — ❦ —
 
-# V.
-
-# Of the Kingdom of Christ.
+# Chapter V. Of the Kingdom of Christ
 
 ## Question 1. Has Christ then a Kingdom here on earth?
 
@@ -1649,9 +1740,7 @@ For therefore is he our King — that he might demonstrate such Benefits to us. 
 
 — ❦ —
 
-# VI.
-
-# Of the Eternal Priesthood of Jesus Christ.
+# Chapter VI. Of the Eternal Priesthood of Jesus Christ
 
 ## Question 1. Is Christ also an eternal High Priest?
 
@@ -1775,9 +1864,7 @@ These sayings witness that in the New Testament all *believing* Christians are *
 
 — ❦ —
 
-# VII.
-
-# Of the Holy Spirit.
+# Chapter VII. Of the Holy Spirit
 
 ## Question 1. Of the Word "Spirit."
 
@@ -1915,9 +2002,7 @@ Where these Pieces are present, there is *no doubt* that the Holy Spirit *dwells
 
 — ❦ —
 
-# VIII.
-
-# Of the Creation of All Creatures.
+# Chapter VIII. Of the Creation of All Creatures
 
 ## Question 1. By whom is the World created?
 
@@ -2104,9 +2189,7 @@ Item, the sayings which witness that he also takes upon himself the Household Re
 
 — ❦ —
 
-# IX.
-
-# Of the Angels of God.
+# Chapter IX. Of the Angels of God
 
 ## Question 1. What are Angels?
 
@@ -2214,9 +2297,7 @@ Wherefore, when it goes evil in the World, or also in our Houses, one shall not 
 
 — ❦ —
 
-# X.
-
-# Of Evil Angels.
+# Chapter X. Of Evil Angels
 
 ## Question 1. What are Evil Angels?
 
@@ -2368,9 +2449,7 @@ Wherefore, when it goes evil in the World, or also in our Houses, one shall not 
 
 — ❦ —
 
-# XI.
-
-# Of Man before the Fall.
+# Chapter XI. Of Man before the Fall
 
 ## Question 1. What is Man?
 
@@ -2480,9 +2559,7 @@ Also the Earth would not have borne Thistles, but had been pure *precious growth
 
 — ❦ —
 
-# XII.
-
-# Of the Fall of Adam, and of the Corrupted Powers of Man.
+# Chapter XII. Of the Fall of Adam, and of the Corrupted Powers of Man
 
 ## Question 1. Whence has the Fall of Adam caused itself?
 
@@ -2775,9 +2852,7 @@ It is also not his Meaning, that in the Conversion of Man to God *no new movemen
 
 — ❦ —
 
-# XIII.
-
-# Of Sin in General.
+# Chapter XIII. Of Sin in General
 
 ## Question 1. What is Sin?
 
@@ -2911,9 +2986,7 @@ Such witness the *Examples of David, Peter, of the Thief on the Cross*, and the 
 
 — ❦ —
 
-# XIV.
-
-# Of Original Sin.
+# Chapter XIV. Of Original Sin
 
 ## Question 1. What is Original Sin?
 
@@ -3186,9 +3259,7 @@ For because Human Nature is *defiled with the evil accident*, the Son of God has
 
 — ❦ —
 
-# XV.
-
-# Of Actual Sin.
+# Chapter XV. Of Actual Sin
 
 ## Question 1. What is Actual Sin?
 
@@ -3316,9 +3387,7 @@ Wherefore we shall *earnestly guard* ourselves therefrom, and *not consent*, but
 
 — ❦ —
 
-# XVI.
-
-# Of Ruling and Non-Ruling Sin.
+# Chapter XVI. Of Ruling and Non-Ruling Sin
 
 ## Question 1. How is Sin further divided?
 
@@ -3422,9 +3491,7 @@ Hereout can now be understood *who are right Christians or not*. **Right Christi
 
 — ❦ —
 
-# XVII.
-
-# Of the Sin against the Holy Spirit.
+# Chapter XVII. Of the Sin against the Holy Spirit
 
 ## Question 1. What is Sin against the Holy Spirit?
 
@@ -3464,9 +3531,7 @@ What shall then in such great matters our poor and vain doing be able to accompl
 
 — ❦ —
 
-# XVIII.
-
-# Of the Law of God.
+# Chapter XVIII. Of the Law of God
 
 ## Question 1. What is the Law?
 
@@ -3706,9 +3771,7 @@ If yet something remains in the same that *compares itself with the Law of Natur
 
 — ❦ —
 
-# XIX.
-
-# Of the Gospel.
+# Chapter XIX. Of the Gospel
 
 ## Question 1. What is the Gospel?
 
@@ -3894,9 +3957,7 @@ The New Testament indeed keeps also and drives the **Office of the Law**; but it
 
 — ❦ —
 
-# XX.
-
-# Of the Justification of the Sinner before God.
+# Chapter XX. Of the Justification of the Sinner before God
 
 ## Question 1. What is or means "Grace" in this Article?
 
@@ -4359,9 +4420,7 @@ The Doctrine concerning the **Calling of the Idolatrous Heathen to the Kingdom o
 
 — ❦ —
 
-# XXI.
-
-# Of Faith on Christ.
+# Chapter XXI. Of Faith on Christ
 
 ## Question 1. What means "to believe"?
 
@@ -4728,9 +4787,7 @@ But where he is diligently driven, one can, with God's help, *well guard oneself
 
 — ❦ —
 
-# XXII.
-
-# Of God's Eternal Election.
+# Chapter XXII. Of God's Eternal Election
 
 *Because also the upright Christians many times feel therefrom heavy Temptation, indicate briefly what the Grace-Election is.*
 
@@ -4965,9 +5022,7 @@ Yea, the Heavenly Father himself bids thee *hear his dear Son* — **Matt. 3:17*
 
 — ❦ —
 
-# XXIII.
-
-# Of Good Works.
+# Chapter XXIII. Of Good Works
 
 ## Question 1. What are Good Works?
 
@@ -5413,9 +5468,7 @@ What sort of Fast the Papists' Fast is, is known to the whole World.
 
 — ❦ —
 
-# XXIV.
-
-# Of Prayer.
+# Chapter XXIV. Of Prayer
 
 ## Question 1. Is it right to omit Prayer?
 
@@ -5700,9 +5753,7 @@ Item, **Prov. 1:28–30**: *"Then shall they call unto me, but I will not answer
 
 — ❦ —
 
-# XXV.
-
-# Of the Sacraments in General.
+# Chapter XXV. Of the Sacraments in General
 
 ## Question 1. Is the word *Sacrament* — so far as concerns the Baptism and the Supper — also found in the Scripture?
 
@@ -5948,9 +5999,7 @@ The words *"For you given"* — [these grasp not] but rather **a Believing Heart
 
 — ❦ —
 
-# XXVI.
-
-# Of Baptism.
+# Chapter XXVI. Of Baptism
 
 ## Question 1. What is Baptism?
 
@@ -6344,9 +6393,7 @@ So too is this a *pure Human Fable* — that Penance is a Sacrament, and moreove
 
 — ❦ —
 
-# XXVII.
-
-# Of the Holy Supper.
+# Chapter XXVII. Of the Holy Supper
 
 ## Question 1. What has this Sacrament for *Names*?
 
@@ -7902,9 +7949,7 @@ But pious hearts shall look upon this:
 
 — ❦ —
 
-# XXVIII.
-
-# Of the Catholic or Christian Church.
+# Chapter XXVIII. Of the Catholic or Christian Church
 
 ## Question 1. Has then God the LORD a *Church or People on Earth*, of which he specially takes care?
 
@@ -8521,9 +8566,7 @@ The Church has indeed her *reputation and Authority*, as **witness of the Truth*
 
 — ❦ —
 
-# XXIX.
-
-# Of the Preaching-Office.
+# Chapter XXIX. Of the Preaching-Office
 
 ## Question 1. Is there a Preaching-Office in the New Testament?
 
@@ -8881,9 +8924,7 @@ But the *Preaching-Office* punishes also the **inward Sin in the Heart** — as 
 
 — ❦ —
 
-# XXX.
-
-# Of the Power of the Keys.
+# Chapter XXX. Of the Power of the Keys
 
 ## Question 1. Has the Church such Power?
 
@@ -9255,9 +9296,7 @@ This manner is followed almost in many Churches where such ***receptio*** of the
 
 — ❦ —
 
-# XXXI.
-
-# Of Repentance.
+# Chapter XXXI. Of Repentance
 
 ## Question 1. How is the Word *Repentance* used in Scripture?
 
@@ -9883,9 +9922,7 @@ Thereupon appears now, **what a great Distinction there is between the Satisfact
 
 — ❦ —
 
-# XXXII.
-
-# Of Christian Freedom.
+# Chapter XXXII. Of Christian Freedom
 
 ## Question 1. What is understood through the word *Freedom* in this matter?
 
@@ -10069,9 +10106,7 @@ As much however as concerns the *Minor* — it is *no further true* than of the 
 
 — ❦ —
 
-# XXXIII.
-
-# Of Offence (Ergernuss).
+# Chapter XXXIII. Of Offence (Ergernuss)
 
 ## Question 1. What is or means *Offence*?
 
@@ -10227,9 +10262,7 @@ Likewise have *all those done* who *upon the Apostles' Preaching cast away their
 
 — ❦ —
 
-# XXXIV.
-
-# Of *Wonder-Signs* (Miracles).
+# Chapter XXXIV. Of *Wonder-Signs* (Miracles)
 
 ## Question 1. What are *Wonder-Signs*?
 
@@ -10449,9 +10482,7 @@ Thus has **Satan under the Papacy caused many Signs and Wonders through his Inst
 
 — ❦ —
 
-# XXXV.
-
-# Of Cross and Suffering.
+# Chapter XXXV. Of Cross and Suffering
 
 ## Question 1. Wherefore is it needful to recognise this Doctrine?
 
@@ -10703,9 +10734,7 @@ And again: *"This I know for certain: whoever serves God, he is comforted after 
 
 — ❦ —
 
-# XXXVI.
-
-# Of the *Worldly Authority*.
+# Chapter XXXVI. Of the *Worldly Authority*
 
 ## Question 1. What is the *Authority*?
 
@@ -10855,9 +10884,7 @@ The LORD Christ has also *not taught that the Captain (Matt. 8) or the Nobleman 
 
 — ❦ —
 
-# XXXVII.
-
-# Of the *Marriage-Estate*.
+# Chapter XXXVII. Of the *Marriage-Estate*
 
 ## Question 1. What is the *Marriage-Estate*?
 
@@ -11081,9 +11108,7 @@ Finally, it is *undeniable* that the **Priests in the Old Testament had Wives**.
 
 — ❦ —
 
-# XXXVIII.
-
-# Of the *Antichrist*.
+# Chapter XXXVIII. Of the *Antichrist*
 
 ## Question 1. What is the *Antichrist*?
 
@@ -11335,9 +11360,7 @@ He teaches to *enclose the consecrated Host in the Sacrament-cabinet, to carry i
 
 — ❦ —
 
-# XXXIX.
-
-# Of *Death*.
+# Chapter XXXIX. Of *Death*
 
 ## Question 1. What is *Death*?
 
@@ -11571,9 +11594,7 @@ Wherefore speaks **Chrysostom, *In Matthaeum***: ***Ego ideò gaudendum magis no
 
 — ❦ —
 
-# XL.
-
-# Of *Burial*.
+# Chapter XL. Of *Burial*
 
 ## Question 1. Whence is it come, that one *buries the Dead in the Earth*?
 
@@ -11679,9 +11700,7 @@ So the *Salvation of the Christians* stands **not in the Burial**, but in the **
 
 — ❦ —
 
-# XLI.
-
-# Of the *State of the Souls after Man's Death*.
+# Chapter XLI. Of the *State of the Souls after Man's Death*
 
 ## Question 1. Does then Man die *at the same time in Body and Soul*?
 
@@ -11853,9 +11872,7 @@ Ibid.: ***Quòd verò nec peccatorum animae hic commorari possint, divitem audia
 
 — ❦ —
 
-# XLII.
-
-# Of the *End of this World*.
+# Chapter XLII. Of the *End of this World*
 
 ## Question 1. Shall this World *finally pass away and take an End*?
 
@@ -11927,9 +11944,7 @@ Ibid.: *"But the Day of the LORD shall come as a Thief in the Night, in which th
 
 — ❦ —
 
-# XLIII.
-
-# Of the *Resurrection of the Dead*.
+# Chapter XLIII. Of the *Resurrection of the Dead*
 
 ## Question 1. Is it then certain that the *Dead shall rise*?
 
@@ -12179,9 +12194,7 @@ For that the *Joy of eternal Life* shall not be a *Worldly Joy*, or be understoo
 
 — ❦ —
 
-# XLIV.
-
-# Of the *Last Judgment*.
+# Chapter XLIV. Of the *Last Judgment*
 
 ## Question 1. Shall then the *Last Judgment certainly come*?
 
@@ -12309,9 +12322,7 @@ Thus **not alone the poor Lazaruses shall have to appear before this Judgment**,
 
 — ❦ —
 
-# XLV.
-
-# Of *Hell*.
+# Chapter XLV. Of *Hell*
 
 ## Question 1. Is there then a *Hell*?
 
@@ -12441,9 +12452,7 @@ Wherefore **St. Bernard** speaks: ***Homo in Gehenna uri poterit, non exuri, ard
 
 — ❦ —
 
-# XLVI.
-
-# Of *Eternal Life*.
+# Chapter XLVI. Of *Eternal Life*
 
 ## Question 1. What holds *Reason* of this Doctrine?
 
@@ -12687,4 +12696,27 @@ And in Sum, he who has *once for all delivered us from all Evil, and with eterna
 
 — ❦ —
 
-*[Full translation of Chapters II–XLVI to follow in Rebuild-Tranche 2 onward. This first tranche of the 1592 rebuild ships Front Matter + Translator's Note + Chapter I (Questions 1–23 of ~30 total). The 1583 first-edition translation is preserved as a comparison text at* `kirchner-enchiridion.1583-first-edition.md` *in the same directory.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Closing Colophon
+
+```{=openxml}
+<w:p/><w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:sz w:val="36"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="36"/></w:rPr><w:t>FINIS</w:t></w:r></w:p>
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Gedruckt zu Frankfurt am Mayn</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>durch Johann Spies</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>M · D · XCII</w:t></w:r></w:p>
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t>Printed at Frankfurt am Main</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t>by Johann Spies · 1592</w:t></w:r></w:p>
+<w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Working English translation</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>The Scholastic Lutherans · 2026</w:t></w:r></w:p>
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>SOLI DEO GLORIA</w:t></w:r></w:p>
+```
