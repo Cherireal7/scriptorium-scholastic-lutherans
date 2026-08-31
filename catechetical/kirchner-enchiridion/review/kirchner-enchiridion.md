@@ -3884,11 +3884,218 @@ And the Promises of the Gospel have *no Condition at all* of our Works or Merit 
 
 **No** — but alone a **grace-rich, joyful Comfort-Preaching**, in which to the poor Sinners *out of pure Grace, for Christ's sake, the Forgiveness of Sins is offered*.
 
-For "**Gospel**," properly to speak, is nothing...
+For "**Gospel**," properly to speak, is nothing else than a **joyful Message**; but *Preaching Repentance*, or *punishing the World for Sin's sake*, is *no joyful*, but a *sorrowful message or preaching*, which *terrifies* the Hearts and makes them not glad.
+
+And this Doctrine must be kept, that the *distinction of both Doctrines* — of Law and Gospel — be not *abolished*. For when Law and Gospel are set beside one another, it *cannot with foundation* be said that the Gospel, *properly to speak*, is a Repentance-Preaching — forasmuch as this is properly the **Office or Work of the Law**: that it shall preach Repentance, *reveal God's Wrath from Heaven* and *drive it in* — **Rom. 1, 7**.
+
+And in Sum, whatever preaches of Sin and God's Wrath — whether it happen in the Old or New Testament — is nothing else than **the Preaching of the Law**. Contrariwise, whatever preaches of God's Grace, Mercy, or the Forgiveness of Sins for Christ's sake — that is **the Gospel**, or *right Comfort*, and not a Repentance-Preaching.
+
+The New Testament indeed keeps also and drives the **Office of the Law**; but it *adds thereto* the Grace-Promises of the Gospel, that we poor Sinners *may be raised up*, and *in the feeling of the same not need to despair*.
 
 — ❦ —
 
-*[Chapter XIX continues with further Q&A on Gospel/Law distinction, Repentance, closing into Chapter XX Von der Rechtfertigung des Sünders. Translation continues in Rebuild-Tranche 15.]*
+# XX.
+
+# Of the Justification of the Sinner before God.
+
+## Question 1. What is or means "Grace" in this Article?
+
+**What is or means "Grace" in this Article?**
+
+**Nothing else than God's inexpressible Mercy**, according to which he **for Christ's sake receives us damned Sinners unto Grace, imputes the Sin not, but Christ's Obedience and Payment — just as if we ourselves had rendered it** — **Rom. 3:24**: *"We are justified without merit, out of his Grace."* — **Eph. 2:8**: *"By Grace ye are made blessed."*
+
+Such witness also the sayings in which the little word ***Misericordia*** ("Mercy") is used — as **Ps. 51; Eph. 2**. Item, the word ***Charitas*** ("Love") — **Rom. 5**, and the like more.
+
+This same is also clear from the use of the little word ***Gratis*** — "for naught," or without merit — **Rom. 3:24**.
+
+This little word witnesses that **the Cause of Justification is not in us**, and that God would have well much Cause *to damn us*, but takes us upon himself *out of pure Grace, for Christ's sake*, and lets his righteous Wrath fall for the same's sake against us — which he, *outside of Christ's Intercession and Merit, would not be bound to do*.
+
+Otherwise it is well used also for the **Gifts of the Holy Spirit** which are given to the Believing for Christ's sake — **1 Cor. 12:4**: *"There are manifold Gifts, but there is one Spirit."* — **Rom. 12:6**: *"We have manifold Gifts according to the Grace which is given us,"* etc.
+
+— ❦ —
+
+## Question 2. Is there also a Distinction between the little words *Grace* and *Gift*?
+
+**Is there also a Distinction between the little words *Grace* and *Gift*?**
+
+**Yes indeed.** For the little word **Grace** in this Article means properly **the Gracious Forgiveness of Sins for Christ's sake**.
+
+The little word **Gift**, however, means the *Gift of the Holy Spirit*, which are *Fruits* of the Gracious Forgiveness of Sins — **Rom. 5:15**: *"So if through the Sin of one many have died, then much more has God's Grace and Gift richly come upon many, through the Grace of the one Man Jesus Christ."*
+
+— ❦ —
+
+## Question 3. Is God then gracious, and makes the Sinners Righteous and Blessed *without Righteousness and Payment for the Sin*?
+
+**Is God then gracious, and makes the Sinners Righteous and Blessed without Righteousness and Payment for the Sin?**
+
+**By no means.** For because we poor Sinners *could not pay, fulfil the Law*, and thus *obtain the Righteousness before God*, he has **set forth his Only-begotten Son for us**, who for our Sins *through his Blood and Death has atoned*, and *the Law through his holy Obedience has fully fulfilled*. So he makes us Righteous and demonstrates Grace to us — yet because his Son has *beforehand atoned for us and satisfied his Righteousness*, without which he would otherwise not do it.
+
+So we obtain Grace, so much as concerns us, *without any our Merit* — but not without the *Merit of Jesus Christ*, who has had to *come between*, if we were otherwise to be helped. As all such stands: **Rom. 3:24**: *"We are made Righteous out of his Grace, through the Redemption which is come to pass through Christ Jesus."* — **Rom. 5:19**: *"Through one's Obedience shall many be made Righteous."* And elsewhere it is *mightily* set forth. From which sufficiently appears that God demonstrates us no Grace and makes us Righteous *without Righteousness and preceding Satisfaction* — forasmuch as he *has held so stiffly upon his Righteousness*, that he *has not willed to forgive the Sin and demonstrate Grace*, unless his dear Son had beforehand *rendered a costly Payment* and *for us all through his Blood and Death atoned*.
+
+— ❦ —
+
+## Question 4. Can then a troubled Conscience, that feels its unworthiness, rely upon this?
+
+**Can then a troubled Conscience, that feels its unworthiness, rely upon this?**
+
+**In every way.** For **God himself has cast all our Sins upon his Son** — **Isa. 53:6**. The Son has *freely* atoned for us, and *put himself under the Law* — so the Payment of Jesus Christ is also **powerful, sufficient**, as also his *holy Obedience*, that we can *stand upon it* and *not need or shall doubt the Grace*.
+
+So now is **Christ's Payment our Payment, and his Obedience our Obedience or Righteousness**. — **Rom. 4:25**: *"Who was given for our Sins, and raised again for our Righteousness."* — **Rom. 5:19**: *"Through the Obedience of one many are made Righteous."* — **1 Cor. 1:30**: *"Who is made unto us Wisdom, and Righteousness, and Sanctification, and Redemption — that (as it is written) whoso boasteth, boast in the LORD."*
+
+— ❦ —
+
+## Question 5. How is then this Speech to be understood: *"By Grace we are made blessed"*?
+
+**How is then this Speech to be understood: "By Grace we are made blessed"?**
+
+**Answer**:
+
+**First**, *not* thus, that we (as the Sophists say) would be made blessed *through infused Grace or good Works*.
+
+**2.** Also not thus, as though we would be received unto Grace *quite without Righteousness and Payment for the Sin*. For had we been to find Grace, then must beforehand *the Eternal Son of God for us have paid* and *obtained his Father's Favour to us* — forasmuch as he has willed to *give up nothing of his Righteousness and the Claim which he has upon us*, unless first a *full Satisfaction* had gone before. Wherefore he has also **not spared his Only-begotten Son** — **Rom. 8:32** — because he has become for us **Surety and Debtor-in-himself**.
+
+**3.** Rather thus: that we poor Sinners — so much as concerns us, who have had nothing to pay (**Matt. 18**), nor have — obtain **Grace for Grace's sake** — that is, *for the sake of Christ's Payment and Satisfaction* — find Grace, God is gracious to us, imputes our Sins not, but *gives us Christ's Obedience through Faith*, just as though we had done all that Christ has *for us suffered and done*. And that means: **out of pure Grace to be made Righteous and Blessed — for the sake of the Foreign Obedience and the Costly Merit of Jesus Christ**.
+
+— ❦ —
+
+## Question 6. The Papists say, however, that *Christ has not merited that God out of Grace should forgive us the Sin and make us Righteous* — but that *for the sake of his Merit, Grace or good works, Faith, Love, Hope, are infused into us*, whereby we *merit Blessedness*?
+
+**The Papists say, however, that Christ has not merited that God out of Grace should forgive us the Sin and make us Righteous — but that for the sake of his Merit, Grace or good works, Faith, Love, Hope, are infused into us, whereby we merit Blessedness?**
+
+**The Scripture, however, says quite the counterpart.** — **Rom. 3:24**: *"We are justified without merit, out of his Grace, through the Redemption which is come to pass through Jesus Christ."* — **Rom. 5:19**: *"Through the Obedience of one many are made Righteous."* From which expressly stands: **not** that Christ has *merited for us*, that *Grace or Faith, Love, and Hope — as three Virtues — should be infused into us*, whereby we hereafter should *obtain Grace and merit Eternal Life* — **but that his Redemption and Obedience is our Righteousness**, which is imputed to us (when we do Repentance and turn to God from the heart) through Faith on Christ.
+
+— ❦ —
+
+## Question 7. Wherefore does the Scripture use and keep the little word *Gratis*, without merit or for naught?
+
+**Wherefore does the Scripture use and keep the little word *Gratis*, without merit or for naught?**
+
+**Answer**: **Not** on that account, that Christ's Merit, the Gospel, and Sacraments should be *excluded* thereby; nor that a right Faith can well be *without Rue*, or as though *good Works* — as the *certain undoubted Fruits* — need not follow true Faith; or as though the Believing need not, must not, *do good Works to demonstrate their Faith*. But rather:
+
+**First**: that **all our Merit and Work** be *excluded from the Justification before God*, and that in such Article alone **Christ's Merit and Obedience** hold and shall hold — so that his fitting Honour of *Throne of Grace* and *sole Saviour* be not withdrawn from him. For **he has trod the Winepress alone** — **Isa. 63** — and *alone borne our Misdeed*, that we through *his Wounds should be made whole* — **Isa. 53**.
+
+**Second**: that the **Comfort of God's Grace be firm and certain** — **Rom. 4:16**: *"Wherefore must the Righteousness come through Faith, that she may be by Grace, and the Promise remain firm."*
+
+Now she could not be *firm*, if she were founded on the Law or our works, *in part or in whole*, and not *on pure Grace* and *alone on the Merit of Jesus Christ*. For though our hearts are through Faith *cleansed*, and we have received the **First-fruits of the Holy Spirit**, who has *begun a new Obedience or upright good works in us* — yet we have not in us *the Obedience and good Works which can stand before God*, and be *set opposite to his strict Judgement*. Forasmuch as there are still many **Weaknesses and Lacks** found in the Believing and Justified, which make the begun Obedience *unclean and defective*. That now the Promise of Blessedness may be certain to us, and we not doubt God's Mercy, she is *directed and founded solely upon the Grace of God and the Merit of Jesus Christ* — and not at all upon our works, begun new Obedience, love of God and Neighbour, or the like Virtues.
+
+**Third**: that we may have a **joyful access to God**, and speak him in all Temptations and needs *comforted, with sure Confidence*, and *plead for Help and Rescue* — **Rom. 5:2**: *"Through whom we have access to this Grace wherein we stand."* Item, **Eph. 3:12**: *"Through whom we have Boldness and access with all Confidence, through the Faith on him."* — All of which would not be, if the ground of our Blessedness stood not alone on the Grace and Christ's Merit, but also in some measure on *our merit and begun imperfect works*.
+
+**Fourth**: that the **Office and Property of Faith alone remain** — that he alone, and nothing else, be the **Means**, whereby and wherewith we grasp God's Grace and Christ's Merit. — **Rom. 3:28**: *"So we hold now that Man becomes Righteous — without the works of the Law — alone through Faith."* But of this in its place more, when we treat of the Faith on Christ.
+
+— ❦ —
+
+## Question 8. What means then ***Iustificare***, to make Righteous or Justify?
+
+**What means then *Iustificare*, to make Righteous or Justify?**
+
+**In this Article it means nothing else than to *acquit* from Sins out of Grace for Christ's sake, and to *impute* Christ's Merit and Obedience to Righteousness through Faith.**
+
+The word itself is a ***forense verbum*** — a word that belongs to the Court — as at **Ex. 23:7** is to be seen, where stands: *"I will not justify the godless."* Whence it is drawn to this exalted Article, and sets before our eyes the *whole Work of Justification*.
+
+For before God's Judgement we are *set forth and accused* on account of Sin. There God's Law can not only *not acquit us*, but also *damns us*. Yea, our own Conscience condemns us. There would now be nothing left but **Eternal Death**, if God should enter into Judgement with us and *deal with us according to our Sins* — **Ps. 130; 143**.
+
+But what does he do? He **acquits us there of our Sins and makes us Righteous** — not because we are *found Righteous before him*, but for the sake of *Foreign Righteousness and Merit* which his dear Son Christ Jesus has performed for us — **Rom. 3, 4, 5, 8**.
+
+He would have Cause to damn us — as reported — for we are Sinners, and Death belongs to Sin — **Rom. 6:23**. But he has mercy upon us; and because his dear Son has become for us Surety and paid, he **acquits us free, quit, and released of Sins**, and imputes to us **Christ's Righteousness** — on account of which he *can also acquit us* — where he otherwise would have to damn us and *sentence us to Death*.
+
+Thus is this word used at **Rom. 8:33–34**: *"Who will accuse God's Elect? God is here, who justifies. Who will damn? Christ is here, who justifies."*
+
+In this manner it is also used at **Isa. 53:11**: *"Through his Knowledge shall he, my Servant, the Righteous, make many Righteous."* Item, **Acts 13:38–39**: *"Through this is also proclaimed unto you Forgiveness of Sins; and of all of which ye could not through Moses' Law be made Righteous — whoso believes on him is Righteous."*
+
+This explanation of the word *"to make Righteous"* is witnessed by the manners of speaking wherein the *Justification is described*: that she is **the gracious Forgiveness of Sins** — **Rom. 4; Ps. 32, 51**. Item, where she is called the **Imputation of the Righteousness of Christ** — **Rom. 4, 5**.
+
+Here also belongs the word ***imputare***, or **to impute** — **Rom. 4:5**: *"To him, however, that dealeth not with works, but believeth on him who justifieth the Godless, his Faith is reckoned unto Righteousness."* Which is set *directly opposite to our works or merit*, and means nothing else than: **that we poor Sinners for the sake of Christ's Merit, Obedience, and Righteousness which he has obtained, and not for the sake of our own merit or works — are pronounced Righteous**; and that the Heavenly Father *so imputes all this to us as though we ourselves had suffered and done all that Jesus Christ, his Only-begotten Son, had suffered and risen for us*. Thereby our works are *quite excluded from the Justification before God*, so that they are neither ***forma*** nor ***pars*** nor ***causa iustificationis*** — that is, that they are not our Righteousness before God, nor to be held for a part or cause of the same, nor otherwise under any pretext, title, or name, in the Article of Justification before God (as needful and belonging thereto) mixed in, etc.
+
+— ❦ —
+
+## Question 9. What means then the little word *Righteousness*?
+
+**What means then the little word *Righteousness*?**
+
+**At times** it means as much as the **Obedience** which all Men owe to God the LORD according to the Ten Commandments — as at **Rom. 10:3**: *"They sought their own Righteousness, and were not subject to the Righteousness of God."*
+
+**At times** it means as much as the *Righteousness of good works or new Obedience*, which is begun in the Believing through the Holy Spirit — **1 John 3:7**: *"Whoso does Righteousness, is Righteous."* — **Rom. 6:13**: *"Give your members as weapons of the Righteousness of God."* — **2 Tim. 2:22**: *"Follow after Righteousness."*
+
+**Sometimes** it means the **Righteousness of Christ**, or *his Obedience and Merit which is imputed to Faith* — **Phil. 3:9**: *"I speak of the Righteousness that comes through Faith."* Item, **Rom. 3:25**: *"That he might set forth the Righteousness that is valid before God — in that he forgives Sin."* And so we use it in this Article of the Justification of the poor Sinner before God.
+
+— ❦ —
+
+## Question 10. What is then the Justification of the Sinner before God?
+
+**What is then the Justification of the Sinner before God?**
+
+**Nothing else than the gracious Imputation of the Righteousness and Obedience of Christ, and the gracious Forgiveness of all Sins on account of Christ's Suffering, Dying, and holy Obedience** — which God the LORD to the *penitent Sinner in Conversion* out of pure Grace imparts, and through Faith on Christ *out of Grace imputes* — **Rom. 3:26**: *"That he alone be Righteous, and make Righteous him who is of the Faith on Jesus."*
+
+— ❦ —
+
+## Question 11. What is then the Righteousness of the poor Sinner before God?
+
+**What is then the Righteousness of the poor Sinner before God?**
+
+**Answer**: **The Forgiveness of Sins and the imputed Righteousness** — or **the imputed Obedience of Jesus Christ grasped through Faith**.
+
+- **Rom. 4:6–8** — David says that Blessedness is *alone the Man's* to whom God *imputes Righteousness without the doing of works*, when he says: *"Blessed are they whose Iniquities are forgiven, and whose Sins are covered. Blessed is the Man to whom God imputes no Sin."*
+- **Rom. 5:19** — *"Through the Obedience of one many are made Righteous."*
+- **Rom. 10:4** — *"Christ is the End of the Law; whoso believes on him is Righteous."*
+- **2 Cor. 5:19, 21** — *"For God was in Christ, and reconciled the World with himself, and imputed their Sins not to them."* Item: *"Him who knew of no Sin hath he made Sin for us, that we might become in him the Righteousness that is valid before God."*
+
+For because we cannot ourselves *atone for our Sins*, nor could render the Righteousness which the Law demands — God has done both through his Son: **atoned for the Sin, and fulfilled the Law**. Such he gives us through Faith — and that is before him *our Righteousness*, whereby we in him *find Grace, and get eternal Blessedness*, where otherwise we should have to *die and be lost eternally in our Sins*.
+
+— ❦ —
+
+## Question 12. So has alone the Son of God, Jesus Christ, brought about such Righteousness for us?
+
+**So has alone the Son of God, Jesus Christ, brought about such Righteousness for us?**
+
+**Yes**: He alone has done, merited, and obtained it. As he himself, **Isa. 43:24**, says: *"Thou hast made me labour with thy Sins,"* etc. Item, **Isa. 53:4**: *"Verily he bore our Sicknesses."* **John 1:29**: *"Behold, that is the Lamb of God, that beareth the Sin of the World."*
+
+**Rom. 3:24** — *"The Redemption is come to pass through Jesus Christ, whom God hath set forth as a Throne of Grace in his Blood."*
+
+— ❦ —
+
+## Question 13. Wherefore had this to be so?
+
+**Wherefore had this to be so?**
+
+**Answer**: This had to be so. For **no mere Creature could pay for the Sin and bring about the Righteousness that is valid before God**. For it costs too much to redeem the Souls — **Ps. 49:8**.
+
+So could also no mere Creature *impute the done Payment and obtained Righteousness to the poor Sinners*, or *protect and preserve them against the Temptation of Sins and Tyranny of the Devil*.
+
+Wherefore the Mediator — who was to obtain, dispense, and preserve it — had to be **in an indivisible Person, God and Man**.
+
+Also for this Cause: that we should *not doubt* — the Payment through Christ come to pass, and the Fulfilment of the Law through him *once* rendered — is *strong and mighty enough* to *rescue us from all Sins, make us Righteous before God's Judgement, and obtain us the Eternal Blessedness*.
+
+— ❦ —
+
+## Question 14. Whereby has he then obtained it?
+
+**Whereby has he then obtained it?**
+
+**First**: through his **Suffering and Dying**. Afterward, through his **holy fully sufficient Obedience**, which he rendered to the *whole Law for us* — **Rom. 4; Isa. 53:5**: *"He is wounded for our Misdeeds."* — **Rom. 5:19**: *"As through one's disobedience many became Sinners, so also through one's Obedience many are made Righteous."*
+
+Item: *"Through one's Righteousness comes the Justification."*
+
+Item, **Rom. 8:3–4**: *"What was impossible for the Law, that God did — and sent his Son in the likeness of sinful Flesh, and condemned Sin in the Flesh through Sin — that the Righteousness required of the Law might be fulfilled in us,"* etc.
+
+— ❦ —
+
+## Question 15. Have we then with our works not at all been able to atone for the Sin, and fulfil the Law, and thus become Righteous before God?
+
+**Have we then with our works not at all been able to atone for the Sin, and fulfil the Law, and thus become Righteous before God?**
+
+**No.** The Causes are these:
+
+**1.** That our Nature is *through Sin so corrupted* that it *cannot come* to such *Satisfaction* — **Matt. 18**: *"We have not wherewith to pay."*
+
+**2.** That our works — how good and holy soever they be — are before God's Judgement *unclean and Filth* — **Phil. 3:8**. Now uncleanness cannot be washed off with uncleanness, nor filth with filth. Rather, that the *filth of our Sins* should be washed from our corrupted Nature, and we obtain *Forgiveness of Sins* and *the Righteousness that is valid before God*, it has had to come to pass **through the Death and pure Blood-shedding of the Son of God, Jesus Christ** — **1 John 1:7; Rom. 3:25**.
+
+**3.** So could we also *not fulfil the Law with our works* — for the *corrupted Flesh hindered us* therefrom — **Rom. 8:3**. Now it is *vain* to will to deal with God concerning the Righteousness, unless we have the *complete Fulfilment of the whole Law*. If we were then to be helped, it must come to pass through the **holy and fully sufficient Obedience of Jesus Christ**.
+
+**4.** That whereby the *Forgiveness of Sins* is obtained, and the *Righteousness that is valid before God* is brought about — that must be of such **Worthiness** that it can *merit such matters with God*. It must also be *throughout pure and unblameable*, and be rendered by *such a Person* that with him was such *reputation with God*, that God with the same Payment and Satisfaction should be at peace. But our works could not be of such worthiness before God's Judgement. So they were not (and are not) *throughout pure and unblameable* — besides that we are *sinful, corrupted men*...
+
+— ❦ —
+
+*[Chapter XX continues with the full Justification treatise (Faith as instrument, Forgiveness of Sins, imputation, Roman errors, closing into Chapter XXI Von der ewigen Wahl Gottes). Translation continues in Rebuild-Tranche 16.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
