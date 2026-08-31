@@ -1915,7 +1915,334 @@ Where these Pieces are present, there is *no doubt* that the Holy Spirit *dwells
 
 — ❦ —
 
-*[Chapter VII closes here. Chapter VIII "Von der Schöpffung aller Creaturen" follows. Translation continues in Rebuild-Tranche 8.]*
+# VIII.
+
+# Of the Creation of All Creatures.
+
+## Question 1. By whom is the World created?
+
+**By whom is the World created?**
+
+**Of the Holy Trinity.** — **Ps. 33:6**: *"The Heavens are made through the Word of the LORD, and all their Host through the Spirit of his mouth."* Made is the Heaven, and all that is therein, etc. So too speaks **Moses**: *"God said: Let there be Heaven — and there was Heaven."* In the same manner is also the Earth, with all that is therein, made *through God's Word*.
+
+He names *three Persons* distinctly — **the LORD, his Word, and his Spirit** — and sets nevertheless no more than **one Maker** without any distinction. ***Opera enim Trinitatis ad extra sunt indivisa.***
+
+— ❦ —
+
+## Question 2. Out of what are Heaven and Earth created?
+
+**Out of what are Heaven and Earth created?**
+
+**Out of nothing.** For it is *pure nothing* out of which the World is created; but *alone through the Word* is all made. The Word, however, is *not made*, but is *with God in the beginning* — who makes all. **John 1:1**: *"In the beginning was the Word."*
+
+— ❦ —
+
+## Question 3. In how many days did God create the World?
+
+**In how many days did God create the World?**
+
+**In six days**, as Moses writes — **Gen. 1**:
+
+- **The first Day**: Heaven and Earth are created, and the Light.
+- **On the second Day**: the Firmament.
+- **On the third**: the Earth brought forth from the Water with her fruits.
+- **On the fourth**: Sun, Moon, and Stars in the Heaven created.
+- **On the fifth**: the Fish in the Sea, and Fowl under the Heaven.
+- **On the sixth**: the Beasts, and last of all also **Man**.
+
+— ❦ —
+
+## Question 4. Why has God created all?
+
+**Why has God created all?**
+
+**For the sake** — that men may **know God the Creator out of these works**, and learn **to thank him for his Benefits**.
+
+— ❦ —
+
+## Question 5. How is it to be understood, that God has rested from all works which he has created?
+
+**How is it to be understood, that God has rested from all works which he has created?**
+
+**Thus, namely** — that he has created *no other Heaven and Earth more*. Not, however, that he shall *no more rule* the created Heaven and Earth — for **he works and rules mightily even at this day** all with all — **John 5:17**: *"My Father worketh hitherto, and I also."*
+
+Further, it is also to be understood **of the state of the first World before the Fall**. For after the Fall of the first men, much has been changed *for the sake of Sin*; and because Man has become perverted, the World also has become perverted.
+
+— ❦ —
+
+## Question 6. Does God rule in the World freely and unbound, or is he bound to the Creatures?
+
+**Does God rule in the World freely and unbound, or is he bound to the Creatures?**
+
+**Although God the LORD has created and ordered all through the Word**, yet he is **not bound to the Creature**, but works therein *freely by his will* — has all in his hand, and can *change* when he wills.
+
+- **Ps. 115:3** — *"Our God is in Heaven; he can do what he wills."*
+- **Ps. 135:5–6** — *"For I know that the LORD is great, and our LORD above all gods; all that he wills, that does he — in Heaven, on Earth, in the Sea, and in all deeps."*
+
+Such witness also all the Miracles or Wonder-works, both of the Old and New Testament — that God works *freely* and is *bound to no Creature*.
+
+Wherefore we shall not soon become faint-hearted, though it *at times seem* as though all Creatures had forsaken us — forasmuch as he is *mighty over all Creatures* and holds the same in his hand.
+
+— ❦ —
+
+## Question 7. Shall then the World eternally so continue to endure?
+
+**Shall then the World eternally so continue to endure?**
+
+**No.** For thus speaks **Ps. 102:25–26**: *"Thou hast beforehand founded the Earth, and the Heavens are the work of thy hands. They shall pass away, but thou remainest. They all shall grow old as a garment; they shall be changed as a garment, when thou changest them."*
+
+And **Christ, Luke 21:33**: *"Heaven and Earth shall pass away, but my Words shall not pass away."*
+
+— ❦ —
+
+## Question 8. Whereby shall the World pass away?
+
+**Whereby shall the World pass away?**
+
+**Through Fire.** As **2 Pet. 3:10** stands written: *"The Heavens shall pass away with great crackling, and the elements shall melt for heat, and the Earth and the works therein shall burn."*
+
+— ❦ —
+
+## Question 9. What shall be the time shortly before the End of the World?
+
+**What shall be the time shortly before the End of the World?**
+
+**The LORD Christ says**: *"Thinkest thou, when the Son of Man shall come, that he shall also find Faith on earth?"* — **Luke 18:8**. And **Matt. 24:37** he compares the *Last Times* with *the times of Noah*. These are very *terrible words*; but the *secure World* despises them, and grows ever the worse. Wherefore may we well pray that God will preserve us in the Knowledge of his Son Christ.
+
+— ❦ —
+
+## Question 10. Does then God the LORD in the meanwhile also care for the whole World, and all Creatures?
+
+**Does then God the LORD in the meanwhile also care for the whole World, and all Creatures?**
+
+**Yes.** For it were impossible that the Creatures should endure *a moment* if God the LORD did not *love them, care for them, and preserve them*. So also has God the LORD not created the Creatures *that he might forsake them*, but *that he may sustain and preserve them* — he is also **always present**, moves, rules, and preserves all, after his manner.
+
+— ❦ —
+
+## Question 11. How, however, does God the LORD rule the World?
+
+**How, however, does God the LORD rule the World?**
+
+**God has a fourfold Regiment**, whereby he rules the World:
+
+**One**: what he *himself does for himself*, without the co-working of the Creatures. This goes wholly and altogether through his Power alone — as when he creates and makes the Creatures, preserves them, and gives them manifold Powers and Kinds. Herein no man helps him.
+
+**The second**: when he commends such created and preserved Creatures to the **Angels** — that they *from without* lead, guide, keep, watch, and help them, and specially the Men. For *from within* the one God alone preserves and helps. So the dear Angels *ward off much evil* and help forward much good, for man's best.
+
+**The third Regiment**: is that God rules through **Men** — as through the Apostles and Preachers. For although God could without preaching teach the men the Gospel (as he indeed also does *inwardly* — just as he *without Angels* preserves and rules all Creatures *inwardly*) — yet he wills not to do so, but *uses the Preachers' outward Word* thereto. **1 Cor. 3:9**: *"We are God's fellow-workers; ye are God's tillage and God's building."*
+
+**The fourth**: is the **Worldly Regiment**. Therein is comprised the **Household Regiment**, and the *Parents' authority over the Children*; likewise the *School- or Discipline-Master's Office*.
+
+— ❦ —
+
+## Question 12. Whereout appears it then, that God cares for the whole World, and preserves all Creatures?
+
+**Whereout appears it then, that God cares for the whole World, and preserves all Creatures?**
+
+**First**: from **the ordinary course of Nature**, or the natural works.
+
+- **Acts 17:28** — *"In him we live, move, and are."*
+- **Acts 14:17** — *"He hath not left himself unwitnessed; he hath done us much good, and given us from Heaven rain and fruitful seasons, filling our hearts with food and joy,"* etc.
+- **Ps. 104:27–30** — *"All wait upon thee, that thou mayest give them meat in due season; when thou givest them, they gather; when thou openest thy hand, they are filled with good; when thou hidest thy face, they are troubled; thou takest away their breath, they die and return to dust. Thou lettest out thy breath, so they are created, and thou renewest the face of the earth."*
+
+**Secondly**: from **his Wonder-works**, which he has demonstrated both in the Old and New Testament.
+
+**Thirdly**: from **his infallible Word**, in which he clearly lets us understand that he *bears care for all Creatures* and *takes them all upon himself*.
+
+- **1 Tim. 4:10** — *"We hope in the living God, who is the Saviour of all Men — but specially of the believing."*
+- **Ps. 145:9** — *"The LORD is alone gracious, and hath mercy upon all his Works."*
+- **Ps. 147:8–9** — *"Who covereth the Heaven with clouds, and giveth rain upon Earth; who maketh grass to grow upon the mountains; who giveth his fodder to the cattle, to the young ravens which cry unto him."*
+
+Here belong the sayings of Holy Scripture which witness that God faithfully takes upon himself the Worldly Regiment, and preserves the same — **Ps. 127:1**: *"Where the LORD keepeth not the City, the watchman waketh in vain."* — **Ps. 147:13–14**: *"He maketh fast the bolts of thy gates, and blesseth thy Children therein; he maketh peace in thy borders, and satisfieth thee with the best wheat."*
+
+Item, the sayings which witness that he also takes upon himself the Household Regiment, and cares for the same — **Ps. 128:1–2**: *"Blessed is he that feareth the LORD, and walketh in his ways; thou shalt nourish thyself of the labour of thine hands; blessed art thou — thou hast it well."*
+
+— ❦ —
+
+## Question 13. Does he specially also care for his Church on earth, and the Believers?
+
+**Does he specially also care for his Church on earth, and the Believers?**
+
+**Yes assuredly.** For though he in general takes upon himself all Creatures, yet he cares **specially for his Believers and Congregation**.
+
+- **Ps. 31:7** — *"Thou knowest my Soul in her need."*
+- **Ps. 31:19** — *"How great is thy goodness, which thou hast laid up for those who fear thee, and demonstratest to those who trust in thee before the men; thou hidest them secretly by thee, from every man's defiance."*
+- **Ps. 34:19** — *"The Righteous must suffer much, but the LORD helps him out of all."*
+- **Ps. 40:17** — *"I am poor and wretched; the LORD, however, cares for me; thou art my Helper and Deliverer."*
+- **Ps. 103:13** — *"As a Father is merciful over his Children."*
+- **Isa. 49:14–16** — *"Zion saith: The LORD hath forsaken me, the LORD hath forgotten me. Can also a wife forget her infant, that she should not have mercy on the son of her womb? And though she should forget the same, yet will I not forget thee — behold, upon my hands have I marked thee,"* etc.
+
+— ❦ —
+
+## Question 14. Whereto serves then the Doctrine of God's Providence for all Creatures?
+
+**Whereto serves then the Doctrine of God's Providence for all Creatures?**
+
+**Firstly, thereto**: that we may learn to know in some measure **God's wonderful Wisdom and incomprehensible Rule**, and thank him therefor. — **Ps. 139:17–18**: *"How precious are before me thy thoughts, O God, how is their Sum so great! Should I count them, they would be more than the sand; when I wake, I am yet with thee."*
+
+**2.** That we may know that specially the *gathering and preservation of Christendom on earth* is his Work and Doing. For otherwise, in such raging of the evil Spirits and their instruments, it were not possible that Christendom could stand, the Office of Preaching and Assembly of the Believers could remain.
+
+**3.** So too that we may learn: the *providence and preservation of Worldly Regiments* is his own Work, and stands in his Hand. — **Dan. 2:21**: *"He putteth Kings down and setteth Kings up; he giveth to the Wise their Wisdom, and to the Understanding their Understanding."*
+
+**4.** That we may know that **all the hairs on our head are counted**, and *none of them falls* without the Will of the Heavenly Father — **Matt. 10:30**.
+
+**5.** That we may know that the *Punishments of the Godless* are also God's works — who lets them a little while blossom, but *thereafter casts them to the ground*. — **Ps. 37:20**: *"The Godless shall perish; and the enemies of the LORD, though they be like a delightful meadow, shall yet pass away, like smoke shall they vanish."*
+
+— ❦ —
+
+## Question 15. What is contrary to this glorious, comforting Doctrine of God's Providence?
+
+**What is contrary to this glorious, comforting Doctrine of God's Providence?**
+
+**1.** The **Doctrine of the Epicureans**, who held that God bore no care for the Creatures, but that all went *by chance*. For God, they said, was not to be *laden with* or *troubled with* such care.
+
+**2.** The **Doctrine of the Stoics**, who gave out that God was *bound to the Creatures*, and could not *freely and without the assistance of the Creatures* work anything — wherefore all must go as it went, and cannot go otherwise than as the Course of Creatures brought it with itself.
+
+**3.** The **Doctrine of the [pagan] Philosophers**, who held that God through his Providence *only* cared for the things above in Heaven; but what happened here below on earth, that the Stars in Heaven ruled. — But there Ps. 104, Ps. 145, and the like, say No.
+
+**4.** So too is this *conceit* not right: that Reason holds — God cares only for that which is high and great in the World; for the little, he cares not. For the **145th Psalm** speaks: *"God is merciful over all his Works."* Though it seem as though it were *too near* to the high Divine Majesty, that she should also take upon herself the *least Men and needy Creatures* — yet it is nothing but a *human thought*, which arises out of Reason. And it is on the contrary *certain out of God's Word*, that God takes upon himself *all his Works*, be they small or great; and lets himself also not be hindered therefrom by the Creatures' neediness or misery.
+
+— ❦ —
+
+# IX.
+
+# Of the Angels of God.
+
+## Question 1. What are Angels?
+
+**What are Angels?**
+
+The word **"Angel"** means as much as **"Message,"** and is an *Office-Name*. So then Angels are **God's Messengers** — that they protect and preserve against all Evil, and that they set up God's Command, and see to it that no harm come. The Scripture calls the Angels also *Spirits*, and the Name goes upon their natural Being — **Ps. 104:4**. In **Heb. 1:14** they are so described, that they are **serviceable Spirits, sent forth for service, for the sake of those who shall inherit Blessedness**.
+
+— ❦ —
+
+## Question 2. Are they also created unto God's Image?
+
+**Are they also created unto God's Image?**
+
+**Yes.** Angels and Men are made **unto the Image of God**. They are, however, *not the Image of his Being or Nature*, nor *made or arisen out of his Divine Nature*.
+
+— ❦ —
+
+## Question 3. How manifold are they?
+
+**How manifold are they?**
+
+**Twofold — good and evil.** Every man must certainly conclude that there are Angels — and not alone good Angels, but also evil — against the *Sadducees* and *Epicureans*, who do not hold that there are Angels — **Acts 23:8**.
+
+— ❦ —
+
+## Question 4. Are there then many Angels?
+
+**Are there then many Angels?**
+
+**Yes** — they are *much more* than the Devils. All they *wait upon the Command* they have, to protect and preserve the *pious* — **Dan. 7**. Item **Ps. 91:11**: *"He hath commanded his Angels,"* etc.
+
+That shall be *comforting to us* against the devil's raging and raving.
+
+— ❦ —
+
+## Question 5. So I understand well, that many Angels are appointed to a Christian?
+
+**So I understand well, that many Angels are appointed to a Christian?**
+
+**Yes — that is true.** *Every Christian has many Angels*, who protect him — just as also every man has his *special devils*, who slink after him.
+
+— ❦ —
+
+## Question 6. What properties then have the dear Angels?
+
+**What properties then have the dear Angels?**
+
+**They are reasonable and wise** — much more than the evil Angels. *Reason*: they have a *Mirror*, wherein they see, which the Devil has not — that is called ***facies Patris***, our LORD God's Countenance. Wherefore a good Angel is much wiser than all the Devils together in a heap. So they are also *mightier* than the Devils — for they stand before Him who is called by his Name **Omnipotens, Almighty**. Wherefore let us thank God diligently, that he has ordered such Guards and Watchmen for us, who shall wait upon us, and *do it also right gladly*.
+
+— ❦ —
+
+## Question 7. What is then chiefly the Office of the dear Angels?
+
+**What is then chiefly the Office of the dear Angels?**
+
+**God protects and preserves through the pious Angels** — in the Church, worldly, and household Regiment — as the Scripture throughout witnesses.
+
+- **Ps. 34:7** — *"The Angel of the LORD encampeth about them that fear him, and helpeth them out."*
+
+Item this same the Scripture teaches also — **Dan. 10; Gen. 16, 24, 28, 32**.
+
+God could well preserve us against the Devil, and all misery, by himself, without the Angels' service — as he could well make Children of us Men without Father and Mother; as he could also well rule without Princes, etc. But he wills not to do so: rather, *through his Angels* will he preserve us. And therefor we shall thank him.
+
+— ❦ —
+
+## Question 8. How do the pious Angels conduct their Regiment or Office?
+
+**How do the pious Angels conduct their Regiment or Office?**
+
+**Quite secretly** — just as the Devil also carries out his doings *secretly*, so that men mark not how it goes. Hence comes it that one says (and it is right and well-said): *"Thou hast had a good Angel today."* That is as much as: **Reason could not have prevented the evil, if the dear Angels had not been — the Devil should have prepared thee a bath.**
+
+— ❦ —
+
+## Question 9. Shall one adore also the Angels?
+
+**Shall one adore also the Angels?**
+
+**No.** For the Scripture commands it not, and they themselves will not have it — **Rev. 22:8–9**: *"I fell down to worship at the feet of the Angel. And he spake unto me: See thou do it not; for I am thy fellow-servant, and of thy brethren the Prophets, and of them who keep the words of this Book. Worship God."* God we shall thank therefor, that he has created them for our good — but not adore them, etc.
+
+— ❦ —
+
+## Question 10. With what Men are the dear Angels most gladly?
+
+**With what Men are the dear Angels most gladly?**
+
+**With those who fear God** — **Ps. 34:7**: *"The Angel of the LORD encampeth about them that fear him."*
+
+Item, **with those who do Repentance** — **Luke 15:7**: *"There is more joy in Heaven over one Sinner that doeth Repentance, than over ninety-nine Righteous who need no repentance."*
+
+Item, **with those who remain in their Calling**, and *do what God has commanded them* — **Ps. 91:11**: *"He hath commanded his Angels over thee,"* etc.
+
+— ❦ —
+
+## Question 11. When the dear Angels are by us and about us — how then goes it sometimes so oddly and dangerously?
+
+**When the dear Angels are by us and about us — how then goes it sometimes so oddly and dangerously?**
+
+**Answer.** That at times *strange things* happen among us — and it seems as though all would break into a heap, and no Angel were by us — has these Causes:
+
+- That God wills to **prove our Faith, Patience, Hope, and Prayer**, and preserve us *against Security*. For we poor Men cannot bear good days for long with our good.
+- Item, that we should *the more press unto God the LORD through Prayer* for the Angels' Wagon-fortress and Protection.
+- Item, that we may see that God is such a LORD who **can send misfortune and permit it over us, and yet can help out of all misfortune** — **Ps. 77:10**: *"I must suffer this; but the Right Hand of the Most High can change it all."*
+
+Wherefore, when it goes evil in the World, or also in our Houses, one shall not soon become faint-hearted, but wait upon the LORD's Hand's Help, which has no bound — and say: *"God still lives, and the dear Angels are still at hand — though it seem as though they had forgotten their Office; they idle not; it is but a Temptation, and the LORD proves us — what we will do. After the dim clouds the Sun of Grace shall look forth again,"* etc.
+
+— ❦ —
+
+# X.
+
+# Of Evil Angels.
+
+## Question 1. What are Evil Angels?
+
+**What are Evil Angels?**
+
+**The Scripture calls them "Devils"** — that is, ***slanderers*** — for it is now, after the Fall, their kind, that they *corrupt all things* and *turn them to the worst*. They are also indeed called *Angeli*, but they are **evil Messengers**.
+
+— ❦ —
+
+## Question 2. Have they also a Kingdom among themselves?
+
+**Have they also a Kingdom among themselves?**
+
+**Yes.** The Devil, as a mighty LORD, has also his *Empire and Regiment*, and under him *great mighty Princes* — or his *heap of Devils*, as his *Court-servants and Host* — as at **Luke 11** is to be seen.
+
+— ❦ —
+
+## Question 3. What is then their Kind and property?
+
+**What is then their Kind and property?**
+
+**First**: they are **mighty Spirits** — **1 Pet. 5:8**: *"like roaring Lions."*
+
+— ❦ —
+
+*[Chapter X on Evil Angels continues. Translation continues in Rebuild-Tranche 9.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
