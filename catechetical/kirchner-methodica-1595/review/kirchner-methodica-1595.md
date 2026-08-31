@@ -868,4 +868,272 @@ So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord
 
 — ❦ —
 
-*[Locus II continues in Rebuild-Tranche 4 — Question 20 opens the vocabulary of ***persona*** and its Trinitarian usage.]*
+## Question 20. What does the vocable ***persona*** signify?
+
+**What does the word "person" signify?**
+
+**Respondeo**: **In this article it signifies an individual substance, intelligent, incommunicable, not sustained in another nature.** To the Greeks the same is ***hypostasis*** — ***συρισάμενος***, something truly subsisting and not vanishing away — from the verb ***ὑφίστημι***, *to subsist*. It is distinguished from ***οὐσία***, as something in reality distinct from the other subsisting things.
+
+— ❦ —
+
+## Question 21. Whence is the word ***Persona*** derived?
+
+**Whence is the word Persona derived?**
+
+**Certain of the Fathers say that the vocable ***persona*** is not found in the Sacred Letters; but if thou attend more diligently, it seems taken from the words of the Apostle** at **2 Cor. 1:11** — *"from many persons"*; **2 Cor. 2:10** — *"I have pardoned in the person (***ἐν προσώπῳ***) of Christ"*; and **2 Cor. 4:6** — *"in the face (or person) of Christ Jesus."*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus III. Of the Person of Our Lord and Saviour Jesus Christ
+
+### *De Persona Domini et Salvatoris Nostri Iesu Christi*
+
+— ❦ —
+
+## Question 1. Demonstrate that Christ is true, eternal, omnipotent, and to the Father and the Holy Spirit ***ὁμοούσιον καὶ συναΐδιον*** — consubstantial and coeternal — God.
+
+**Demonstrate that Christ is true, eternal, omnipotent God, consubstantial and coeternal with the Father and the Holy Spirit.**
+
+**John 1:1–3** — *"In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made through him, and without him was made nothing that was made."* [*Luther: T. 6, pp. 543, 544; T. 4, part 1, p. 12*]
+
+**1 John 5:20** — *"And we know that the Son of God is come, and hath given us understanding, that we may know the true God, and may be in his true Son. This is the true God, and life eternal."*
+
+**John 5:17** — *"My Father worketh until now, and I work."*
+
+**John 17:3** — *"Now this is eternal life, that they may know thee, the only true God, and Jesus Christ, whom thou hast sent."*
+
+**Heb. 1:3** — [The Apostle] calls the Son ***the figure of the substance*** of the Father — ***χαρακτῆρα τῆς ὑποστάσεως τοῦ πατρός*** — whereby he evidently teaches that Christ is **true and by nature God**, and yet on this account there are not more, but ***one*** God.
+
+It is clear therefore that **Christ has been begotten from eternity of the essence of the Father, and is his substantial — not artificial, made, or created — image**. And, to draw the whole together, the ***eternal Divinity of Christ*** is irrefragably demonstrated from the following foundations:
+
+**I. From his eternal generation from the Father.** [*Luther: T. 4, part 1, pp. 748, 749*] **Ps. 2:7** — *"Thou art my Son; this day have I begotten thee."* **John 3:16** — *"So God loved the world, as to give his only-begotten Son."*
+
+**II. From his eternity**, since Scripture at **John 1:1**, and **Micah 5:2** (*"His going forth is from the beginning, from the days of eternity"*), testifies him to be ***from eternity, and thus before the creation of all things, and consequently not a creature but God***.
+
+**III. From the work of creation.** For Scripture testifies that ***all things were made through him*** — **John 1:3**. He is therefore true God by nature, for **creation is a work of the divine Majesty**.
+
+**IV. From the cultus of adoration.** [*Luther: T. 4, part 1, p. 47*] For Scripture attributes to him the ***cultus of adoration*** — **John 9:38**; **Ps. 45:12** — *"For he is the Lord thy God, and they shall adore him"*; **Ps. 72:11** — *"And all kings of the earth shall adore him; all nations shall serve him"*; **Jer. 23; Rom. 8**. It attributes to him therefore also ***the very Divinity***.
+
+**V. From his works.** [*Luther: T. 4, part 1, pp. 91, 119, f. b.*] For to him are attributed in Scripture such works as no creature can effect — as the work of ***redemption, reconciliation with God, gathering of the Church***, and the like. **John 1:29** — *"Behold the Lamb of God, who taketh away the sins of the world."* **Matt. 1:21** — *"Thou shalt call his name Jesus; for he shall save his people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
+
+— ❦ —
+
+## Certain Objections against the eternal Divinity of the Son
+
+### Objection I. **The Father alone is God** — **John 17** — *"that they may know thee, the only true God."* *Ergo* the Son is not true God.
+
+**Respondeo**: **The particle *only* in this saying is not used ***exclusively***, so as to exclude the Son and the Holy Spirit from the Divinity, but is opposed to ***the Idols and fictitious Deities of the Gentiles***.** Next, Christ with these words refutes the Jews, who boasted that they worshipped the true God, when yet they rejected the Son consubstantial with the Father — without whose recognition God can neither truly be worshipped nor be invoked.
+
+### Objection II. **One and the only Father of our Lord Jesus Christ is true God. The Son is not the Father of Christ.** *Ergo* he is not true God.
+
+**Respondeo**: The **Major is true** if by the name of the Father you understand the **one essence of God, which is common to the three Persons** — as at **Matt. 23:9** the word is used when Christ says: *"One is your Father."* It is **false**, however, if you take it of the sole hypostasis of the Father. For as the Father is true God, so also **the Son is true God** — **1 John 5**; and the Holy Spirit is true God — **Acts 5; 1 Cor. 14**. And the particles ***one*** and ***only*** when attributed to God do not exclude that incomprehensible union of the Father, Son, and Holy Spirit as to essence, but exclude the ***plurality of false Gods***.
+
+### Objection III. **Whosoever is not God from himself, but has all things from another, is not true God. Christ is not God from himself, but has all things from another. *Ergo* he is not true God.** The minor they prove from the saying **Matt. 28:18**: *"All power is given to me."*
+
+**Respondeo**: **The saying of Matt. 28 speaks of the assumed human nature**, for according to that in time all power was given to him, and **not according to the divinity**. For according to the divine nature nothing was given to him in time; but from eternity he had all things. Hither pertains the rule of all orthodox antiquity: ***Whatsoever Scripture says Christ received in time is to be understood not of the assumed divinity, but of the assumed humanity.***
+
+### Objection IV. **Whoever ***was made*** Lord and Christ is not true and eternal God. But Christ was made Lord**, as Peter's words at **Acts 2:36** have. *Ergo* he is not true and eternal God.
+
+**Respondeo** to the Minor: **Peter speaks of the assumed human nature, according to which Christ was made Lord in heaven and on earth.** And so **Basil the Great, *Contra Eunomium*, lib. 2**, at the very beginning, expounds Peter's words, saying: *"The word ***fecit*** (made) refers to the humanity of Christ. But Eunomius and the recent Arians transfer it to the generation of the Only-begotten which was from eternity — but wrongly."* A similar saying stands at **Heb. 3:2**, ***"Who was faithful to him that made him"*** — where *made* is used ***for constituted or ordained Pontifex***. For the author of the Epistle speaks not of the divine nature in Christ, but of the office of this Person.
+
+### Objection V. **Whoever has a God common and the same with us is not true God with the Father. But Christ has a God common and the same with us.** *Ergo*, etc. The Minor they prove, that Christ at **John 20:17** calls the Father ***his God***.
+
+**Respondeo**: The saying of Christ does not take away his true Divinity, but rather confirms it. For the vocable ***God*** there is taken of the ***Person of the Father***, from whom the Son was begotten from eternity — **Ps. 2**. That he also calls him ***our*** God happens on account of the ***reconciliation*** which he acquired for us. For in Christ we are the ***adopted sons*** of the eternal Father — **John 1; Eph. 1**. But Christ is the ***only-begotten*** Son — **John 1**.
+
+### Objection VI. **The anointed and the anointing are not one and the same. But the Son is the anointed God, the Father is the anointing God.** *Ergo* the Son is not one and true God with the Father. The Minor is proved from **Ps. 45:7**: *"God, thy God, hath anointed thee."*
+
+**Respondeo**: **The Psalm speaks of the assumed human nature in Messiah, which was in time anointed with the plenitude of the Holy Spirit above his companions** — that is, above all saints — or, as **John 3:34** says, ***"He hath received the Spirit not by measure."***
+
+Meanwhile, he does not deny the Son, as to divinity, to be ***coessential with the Father***. Yea, in the same Psalm he plainly attributes to Christ ***eternal divinity***, saying: *"Thy throne, O God, is for ever and ever."* Item: *"For he is the Lord thy God, and they shall adore him."*
+
+### Objection VII. **He who dies is not God. The Son of God died.** *Ergo* he is not God.
+
+**Respondeo**: **The Major is true if you take it of the bare divinity.**
+
+To the Minor: **The Son indeed died, but according to the flesh** — **1 Pet. 3:18**. For the Word ***rested*** — that is, did not exert his powers in that flesh personally united to himself, so that the assumed nature or flesh might be able to suffer, to be crucified, and to die. And that for us and for our salvation. For the salvation and redemption of the human race had to be received through the ***passion and death of the only-begotten Son of God***.
+
+### Objection VIII. ***"The Father is greater than I"*** — **John 14:28**. *Ergo* the Son is not equal to the Father.
+
+**Respondeo** with **Athanasius** in his Symbol: ***"Equal to the Father according to the divinity; less than the Father according to the humanity."*** Christ therefore speaks not of his divinity, but of the assumed flesh or humanity, according to which the Father is greater than the Son.
+
+### Objection IX. **The Son asks to be glorified** — **John 12** (or, John 17). *Ergo* he is less than the Father.
+
+**Respondeo** with **Cyril on John 12**: *"He asked as man that glory which he always had as God. Not because he was ever without proper glory are these things said by him, but because he willed to lead the proper temple (the assumed body) into the glory which was always his as God."*
+
+— ❦ —
+
+## Question 2. Since, therefore, one Person is Christ's, another the Father's — is Christ then also another God besides the Father?
+
+**Is Christ another God besides the Father?**
+
+**By no means.** He is indeed another and distinct Person from the Father, but not another and distinct or separated God from the Father. For to the Father he is, in one individual essence of the Divinity, ***ὁμοούσιος καὶ συναΐδιος*** — **coessential and coeternal — God**. This is the true, solid, and Scripture-grounded faith; which unless one shall embrace, he shall perish eternally.
+
+Of the evil craft of **Arius**, see **Luther, T. 7, pp. 242, 243, 244**.
+
+— ❦ —
+
+## Question 3. Is there also a **human nature** in Christ?
+
+**Is there also a human nature in Christ?**
+
+**There is.** For the ***λόγος*** assumed a human nature — ***true, entire, or whole***, consisting of body and rational soul, ***consubstantial to us, without sin***, having all the conditions, powers, and appetitions proper and ordinate to nature; in which nature, however, he willed to assume the ***infirmities*** — which as penalties for sin entered into our nature — but ***without vice***, that he might free us from them.
+
+**John 1:14** — *"The Word was made flesh."* **Gal. 4:4** — *"God sent his Son, made of a woman."* **Luke 1:31** — *"Behold thou shalt conceive in thy womb, and shalt bring forth a son, and thou shalt call his name Jesus."* **Heb. 2:14** — *"As children have shared in flesh and blood, he also himself in like manner has been partaker of the same."*
+
+Whence deservedly are rejected the opinions of:
+
+- The **Manichaeans** and their like, who feigned that the ***λόγος*** assumed not a true body, but a ***spectre of a body***.
+
+- The **Valentinians** and their like, who contended that the ***λόγος*** indeed assumed flesh, but that it was ***not consubstantial with us***, but brought down from heaven.
+
+- The **Apollinarists**, who thought that the ***λόγος*** assumed flesh ***without a rational soul***. For what is not assumed is not redeemed, as **Nazianzen** speaks: if the soul had not been assumed, it would not have been redeemed.
+
+- The **Eutychians and Monophysites**, who taught that in Christ, after the incarnation, there was only ***one nature*** — namely, the divine.
+
+- The **Monothelites**, who denied that in Christ there are ***two wills and two operations***. For since there are and remain two natures in Christ — divine and human — and their essential properties safely remain, it is necessary that also there remain ***two wills and two operations***, lest a ***confusion or conversion of the natures*** be feigned.
+
+- Also those who taught that in this life, in the ***time of exinanition***, the human nature in Christ was not truly obnoxious to those infirmities with which our nature is burdened for sin as penalties. For the pains in Christ were not ***feigned***. **Isa. 53:4** — *"Truly he hath borne our infirmities, and he hath carried our sorrows."* And **Matt. 26:38** — *"My soul is sorrowful even unto death,"* etc.
+
+— ❦ —
+
+## Certain Objections against the humanity of Christ
+
+### Objection I. At **Rom. 8:3** it is said that the Son was sent ***in the likeness of flesh***. *Ergo* he did not have true flesh.
+
+**Respondeo**: **The Apostle does not simply write that the Son was sent in the likeness of flesh, but adds *in the likeness of ***sinful flesh***, to show that he does not deny Christ to have assumed true flesh, but that his flesh lacked ***sin***, in which all other men are conceived and born.** For he was conceived and born ***not of virile seed, but of the Holy Spirit***.
+
+Next, he uses the vocable of ***likeness*** to teach that in ***habitus*** also — that is, in gestures, affections, and all actions of life — he was found in the time of exinanition ***as a man*** — **Phil. 2**. And that he was tempted in all things, ***but without sin***, that he might have compassion on us.
+
+### Objection II. A body not received from virile seed is without doubt different from the bodies of the rest of men. But the body of Christ was not conceived of virile seed. *Ergo*, etc.
+
+**Respondeo**: **Although the mode of Christ's conception is otherwise than that of the rest of men — who are conceived not of the Holy Spirit but of virile seed — yet as concerns the ***substance*** itself of human nature there is no difference.** For Christ truly, according to the assumed human nature, was conceived and born of the blood of the Virgin Mary — save that the **Holy Spirit, in the very point of virginal conception, purged and sanctified that drop of blood, and wiped from it the poison of the Devil and of death, which is sin**, that he might be conceived and born ***without sin***.
+
+There is therefore truly a human nature in Christ, no other than in us — save that it was ***utterly purified from sin*** and personally united to the Word. Whence the Church sings: *"Like to us in flesh, but unlike in sin."*
+
+### Objection III. But at **Heb. 7:26** it is written: *"That he was ***segregated from sinners***."* *Ergo* he did not have flesh similar to our flesh.
+
+**Respondeo**: **Although he was segregated from sinners in this respect — that his flesh in conception was cleansed by the Holy Spirit, so that he wholly lacked sin — nevertheless, on this account, Christ's flesh is not of another kind or of a different substance from ours.** For he was segregated from sinners not by reason of the flesh (according to which he is like us), but by reason of ***sin***, which he did not know. To sum up: he is ***like his brethren in all things, sin excepted*** — **Heb. 2:17; 4:15**.
+
+— ❦ —
+
+## Question 4. Is Mary rightly called ***θεοτόκος*** (God-bearer)?
+
+**Is Mary rightly called Theotokos?**
+
+**Rightly.** For at that very time and moment when Mary, at the annunciation of the Angel Gabriel, ***consented with true faith***, saying: *"Behold the handmaid of the Lord; be it done unto me according to thy will,"* — ***Christ was in her womb true God and true Man***. As the Fathers in the Council of Ephesus, against Nestorius, obtained from the foundations of Scripture. Otherwise she could not be called ***Theotokos***.
+
+— ❦ —
+
+## Question 5. How do the ***divine and human nature*** differ in Christ?
+
+**How do the divine and human nature differ in Christ?**
+
+**The divine is eternal, the human created in time. The divine is Creator, the human creature. The divine nature is a spiritual essence; the human is corporeal and animal, consisting of body and soul.**
+
+**The divine nature is itself omnipotence, life, wisdom — naturally or essentially.** The human nature of Christ is not itself omnipotence, etc., but was made ***partaker*** of it through the ***union and exaltation, without confusion and without equating***.
+
+**The divine nature has all things from eternity, and received nothing in time.** The assumed nature received in time ***hyperphysical gifts, and besides, omnipotence***.
+
+**The divine nature is infinite; the human, finite by natural property.** The divine nature is ***incommutable, impassible***, etc., and is neither exinanited nor exalted. The human nature, however, is mutable, was exinanited, hungered, was fatigued, suffered, died, etc.
+
+— ❦ —
+
+## Question 6. What is the ***unio hypostatica***?
+
+**What is the hypostatic union?**
+
+**Respondeo**: **It is a wondrous conjunction of the two natures in Christ, whereby the ***λόγος***, in the fulness of time — remaining in himself immutable — assumed the entire human nature (consisting of a rational soul and body) into the unity of Person, and made it proper to himself: ***inconvertibly, without confusion, indissolubly, inseparably, and without distance*** — so that now these two natures, divine and human, are ***one Person, one Christ, one Son, one Lord***.** And this union was made ***for us men and for our salvation***, etc.
+
+— ❦ —
+
+## Question 7. What is the ***specific difference*** of the hypostatic union?
+
+**What is the specific difference of the hypostatic union?**
+
+**Respondeo**: **The very hypostatic union of the two natures in Christ, so united that they constitute one Person.** But the effect of this union is the ***communicatio idiomatum***. For through it the mystery of the union is in some way explicated.
+
+— ❦ —
+
+## Question 8. Is Christ, then, true God and true Man in one indissoluble Person?
+
+**Is Christ true God and true Man in one indissoluble Person?**
+
+**Most certainly.** **John 1:14** — *"And the Word was made flesh."* [*Luther: T. 8, pp. 32, 33; T. 3, p. 456, f. b.; T. 7, pp. 251, 252; T. 3, part 1, p. 471; T. 4, part 1, pp. 345, 465, 748, 749, 785, 786; T. 3, part 1, on Ps. 45*]
+
+Hither pertains the ***Symbol of Chalcedon***, in which this highest mystery is roundly and perspicuously explicated from Scripture. The Canon of the Chalcedonian Symbol, in **Nicephorus lib. 15, cap. 6**, stands thus:
+
+*"Following in the footprints of the Fathers, we confess one and the same to be the Son, our Lord Jesus Christ, and with one voice we all preach the same to be **perfect in divinity and perfect in humanity, true God and true Man, the same of a rational soul and body, consubstantial with the Father according to divinity, consubstantial with us according to humanity, in all things equal to us apart from sin — before the ages indeed of the Father according to divinity, in the last days the same for us and for our salvation of the Virgin Mary the Mother of God according to humanity. One and the same Jesus Christ, Son, Lord, Only-begotten, in two natures inconfusedly, immutably, indivisibly, inseparably known and preached; the difference of the natures being by no means removed by the union, but rather the property of each nature being preserved, and concurring into one Person and one subsistence — not as though parted or divided into two Persons, but one and the same Son, Only-begotten, God the Word, Lord Jesus Christ, as of old the Prophets, and Christ himself concerning himself, have taught us, and the Symbol of the Fathers has handed down."*
+
+And thus rightly are both ***Nestorianism***, which parts the Person, and ***Eutychianism***, which confounds the natures — condemned.
+
+— ❦ —
+
+## Question 9. Why did it behove the Mediator and Saviour of the human race to be, in one Person, true God and true Man?
+
+**Why did it behove the Mediator and Saviour to be in one Person true God and true Man?**
+
+**I. It behoved him himself to be true God.** [*Luther: T. 8, pp. 156, 157, 158, 159, 160; T. 8 De novissimis verbis Davidis; Gen. T. 2, p. 228*] For **a mere man could neither expiate sins, nor acquire eternal redemption**. For the ***price of the redemption of souls is too dear***, etc. — **Ps. 49:9**.
+
+**II.** Because a mere man could not distribute the acquired redemption, kindle faith in the hearts of men, and preserve them to the end of life through and against various temptations.
+
+**III.** A mere man could not hear the prayers and groans of contrite and humbled hearts, and free them from all miseries.
+
+**IV.** A mere man could not free us from the power of Satan and hell, and defend us against the force and tyranny of the world, and ward off all evils from us.
+
+**V.** A mere man could not raise us from the dead, and give us eternal life, joy, and true beatitude.
+
+**And it behoved him himself to be true Man**:
+
+**I.** That he might dwell among us men, converse with us, instruct us of the will of the heavenly Father, and reveal it to us. For we could not bear the majesty of the bare Divinity, since God according to his majesty is a ***consuming fire*** — **Deut. 4:24**.
+
+**II.** That he might be able to suffer and to die for us men — who had sinned — **Gen. 3**. For the bare divinity can neither suffer nor die.
+
+**III.** That he might be able to have compassion on our infirmities and to co-suffer our miseries — **Heb. 4:15**.
+
+**IV.** That we might be able certainly to conclude that we ourselves are cared for by him, are loved and cherished by him. For ***"no one ever hated his own flesh, but nourishes and cherishes it"*** — **Eph. 5:29**.
+
+— ❦ —
+
+## Question 10. Do both natures in Christ retain their essential properties even after the personal union?
+
+**Do both natures in Christ retain their essential properties even after the personal union?**
+
+**Most certainly.** For **the essential properties of one nature are never the essential properties of another nature in eternity**. And with the essential properties abolished, the very natures would be abolished.
+
+***To be omnipotent, eternal, infinite; to be at the same time and at once everywhere; to be by itself and from its own natural property present*** — these are the idioms proper to Divinity.
+
+***To be corporeal, created, finite, circumscribed; to have flesh and blood; to suffer and die*** — these are the idioms of the human nature.
+
+— ❦ —
+
+## Question 11. But after the union has been made, does each nature subsist by itself and constitute a Person?
+
+**After the union, does each nature subsist by itself?**
+
+**By no means.** For these two natures are so united that now, after the incarnation has been made, ***not only the divine but also the assumed human nature*** pertains to the integrity of the Person of Christ. Otherwise the union would not be personal and indissoluble, nor would the Person be entire.
+
+— ❦ —
+
+## Question 12. What does the name ***Christ*** signify?
+
+**What does the name Christ signify?**
+
+**Respondeo**: **When thou hearest Christ, understand not the incorporeal Word-God, but the Word incarnate. For the name of Christ signifies both natures.**
+
+Whence **Cyril, to Regina, lib. 1**: *"Some say that the name Christ is fitting only and properly, and according to itself, to the Word begotten of God the Father, understood and existing. But we have not so learned to think or to speak. For when the Word was made flesh, then also we say the same to be named Christ Jesus. For because he was anointed with the oil of exaltation — that is, with the Holy Spirit by God and Father — therefore he is called Christ. But that unction is according to the humanity, no one who rightly thinks doubts. For if he be God, and the Word does not need unction. For no one would say that God the Word had been anointed and sanctified by his own Spirit, as if he were another than himself, superior and more excellent by nature. For without controversy the less is well said [to be blessed] by the greater. Since, however, it fits the measure of humanity to be sanctified and anointed, it is altogether necessary that Christ be named — the Word which is of God — not when he was as yet bare and not yet incarnate, but when he was made as we are, that is, man, was anointed according to the humanity. And thus the name Christ in no way fits the Word born of God the Father."*
+
+— ❦ —
+
+## Question 13. *Ergo* to the integrity of the Person of Christ also the human nature pertains?
+
+**Does the human nature also pertain to the integrity of the Person of Christ?**
+
+**Most certainly.** For we confess ***one Christ, in two natures, inconfusedly and inseparably subsisting***. For divinity and humanity ***ineffably concur*** into one subsistence.
+
+— ❦ —
+
+*[Locus III continues in Rebuild-Tranche 5 — Christological continuation on communicatio idiomatum + genus maiestaticum + genus apotelesmaticum + status exinanitionis/exaltationis + Christ's session at the right hand + operations of the assumed nature.]*
