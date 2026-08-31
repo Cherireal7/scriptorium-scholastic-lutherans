@@ -5708,11 +5708,279 @@ Item, **Prov. 1:28–30**: *"Then shall they call unto me, but I will not answer
 
 **Is the word *Sacrament* — so far as concerns the Baptism and the Supper — also found in the Scripture?**
 
-**No.** Of the Baptism and Supper it stands nowhere in the Scripture. Otherwise it is well used in the old Translation for the...
+**No.** Of the Baptism and Supper it stands nowhere in the Scripture. Otherwise it is well used in the *old Translation* for the word ***Mysterium*** — *Mystery* — as at **Eph. 5:32**. But *of the Baptism and Supper, not at all*.
 
 — ❦ —
 
-*[Chapter XXV Sacraments in General opens. Translation continues in Rebuild-Tranche 24.]*
+## Question 2. Whence comes it then, that it has also been used hereof?
+
+**Whence comes it then, that it has also been used hereof?**
+
+**The Fathers *in Latina Ecclesia*** — who wrote their books in the Latin tongue — have begun to use it hereof; and from them Christendom has it, also in the German tongue.
+
+**In the Latin tongue** it is at times used for *a Covenant* with certain Ceremonies, or for **a military Oath**, whereby soldiers bind themselves to their Lord. Whence perhaps the Fathers took cause to *use this little word also of the Baptism and Supper*.
+
+— ❦ —
+
+## Question 3. May one then well keep and use it in this matter?
+
+**May one then well keep and use it in this matter?**
+
+**Yes indeed** — if only it be *not used contrary to the words of the Institution of the Baptism and Holy Supper*, as unfortunately by many happens.
+
+— ❦ —
+
+## Question 4. What is then called a *Sacrament* in the Church?
+
+**What is then called a *Sacrament* in the Church?**
+
+**Special Ordinances of God, which have a certain Element or *Materia*, and are outward Seals of Faith on Jesus Christ.**
+
+— ❦ —
+
+## Question 5. How many pieces belong to a Sacrament?
+
+**How many pieces belong to a Sacrament?**
+
+**Answer**:
+
+**First**, **God's Institution and God's Command** that one shall use it.
+
+**Second**, the **Promise of Grace**.
+
+**Third**, the **Elements — named by God himself**.
+
+For otherwise the *sorcerers* also use elements, and speak *God's Word over them*. But they do it *without Command, Promise, and Ordinance of God*. Wherefore they are also *no Sacraments*, but *Blasphemy of God*.
+
+— ❦ —
+
+## Question 6. How many such Sacraments are in the New Testament?
+
+**How many such Sacraments are in the New Testament?**
+
+**Only two** — namely, **the Holy Baptism and the Holy Supper**. For these two, as said, have their outward Element or *Materia* instituted by Christ, and are *clearly grounded in Christ's Word*.
+
+— ❦ —
+
+## Question 7. Who instituted them?
+
+**Who instituted them?**
+
+**The Eternal Son of God, Jesus Christ, our only Saviour and Blessed-maker** — **Matt. 28; Mark 16; John 1, 3**. Item, **Matt. 26; Mark 14; Luke 22; 1 Cor. 11**. For with him alone it stands, and with no other creature, to *ordain Sacraments*.
+
+— ❦ —
+
+## Question 8. What have they for *Elements* or *Materials*?
+
+**What have they for Elements or Materials?**
+
+**The Baptism has the Water beside the Word.** The Holy Supper has **Bread, and the Body of Christ; Wine, and the Blood of Christ**. As such the Words of the Institution *clearly witness*; and *no Creature* may **alter this Ordinance** or set it up otherwise than by Christ himself is come to pass.
+
+The Water may no one take from the Baptism, etc. Likewise from the Supper may *no Creature take anything away or alter*.
+
+— ❦ —
+
+## Question 9. Wherefore are they instituted?
+
+**Wherefore are they instituted?**
+
+**In general they are instituted, that they shall be *Instruments through which the Benefits of Christ are dealt out and imputed to us*** — **John 3; Tit. 3; Matt. 26**.
+
+Thereafter shall they also serve unto this — that we through them are **united with Christ himself**. Wherefore of the Baptism, **Gal. 3:27**, stands: *"Ye have put on Christ."* And **Hilary** says of the Supper, that it makes that **we are in Christ, and that Christ is in us**.
+
+Afterward they shall also be **public Witnesses of our Faith** — which we thereby confess when we use them.
+
+Further, they shall be **Reminders of the *Mortification of the Flesh and of the New Life*** — **Rom. 6** — as in the Doctrine of Baptism in the Catechism is reported. The Supper shall *set us in Christian Love* — **1 Cor. 10:17**.
+
+Over that, they shall admonish us to **Thanksgiving toward God for his heavenly Benefits**.
+
+And finally they shall also witness to us the **Resurrection of this Flesh**. For because we in the Supper are fed with Christ's Body, there is no doubt that we shall also **rise again** — as the old teacher **Irenaeus** hereof has written in Christian wise, ***Lib. 4 cap. 34***; item, ***Lib. 5 pag. 296***.
+
+— ❦ —
+
+## Question 10. What is the distinction between the Sacraments of the *Old and New Testaments*?
+
+**What is the distinction between the Sacraments of the Old and New Testaments?**
+
+**Our opposite side distinguishes the Sacraments of the Old and New Testaments thus**:
+
+**First**: that the Sacraments of the New Testament *promise the appeared Christ*; but the Sacraments of the Old Testament, *him who shall appear*.
+
+**Second**: as concerns *some circumstances* in Ceremonies, and whatever *special of Christ's Benefits* is thereby figured — thereupon they may specially be directed.
+
+**Third**: so far as concerns the **Working**, they come together.
+
+**We, however, say that such is not enough.** For it is not alone thereupon to be looked. But when one will know the *right distinction* of the Sacraments of the Old and New Testaments, one must with diligence give heed with what words the Scripture herself sets forth and expresses the distinction of the same.
+
+As **Heb. 10:1**: *"The Law had the Shadow of the future Goods, not the Being of the Goods themselves."* From which *clearly appears* that the Sacraments of the Old Testament were only *Shadows and Signifiers of the future Messiah*. The Sacraments of the New Testament, however, have the **Being of the Goods themselves**.
+
+**The Blood of the Old Testament** — **Ex. 24** — is also indeed a right Blood, but of *unreasoning animals*, and has signified the *right true Reconciliation-Blood of the Son of God Jesus Christ*.
+
+**The Blood of the New Testament**, however (as reported), is the *Blood of Jesus Christ himself*, that is shed for us *unto Forgiveness of Sins*; and this is also, in the Holy Supper, according to the Words of Christ, **dealt out present with the Wine**.
+
+Thereafter one must also give heed that the **chief distinction** must be taken from the words with which each Sacrament *is instituted by God*, and *not* from the words of the Institution of another.
+
+**From the words wherewith Circumcision and the Passover-lamb were instituted, one cannot conclude what belongs to the *Substance* of Baptism.** Much less, however, [conclude] what, *so far as the Being concerns*, is *given and dealt out in the Supper*. For in the same *stands no letter* of the *true Body and Blood of Jesus Christ*, whose Distribution is specially in the Holy Supper *promised*.
+
+Thus now the distinction between the **Supper** and the Sacraments of the Old Testament is best given by the *Word of Institution*, wherein Christ promises to dispense *his Body and Blood* with the sanctified Bread and Wine — which special Promise is otherwise with no Sacrament to be found. In the Old Testament also it *could not have been so dispensed*, for the Son of God at that time had not yet assumed human nature.
+
+— ❦ —
+
+## Question 11. Is it true that the Sacraments are *promised alone to the Believing*?
+
+**Is it true that the Sacraments are *promised alone to the Believing*?**
+
+**Answer**: When one speaks of the *right use* of the Sacraments, it is well true that alone the Believing *receive the Power and Fruit* of the Sacraments, and not the Unbelieving.
+
+But that from this it should follow — that, so far as concerns the Sacrament of the Supper (which comprehends two pieces: *Bread and the Body of Christ, Wine and the Blood of Christ*) — the Unworthy receive only the *one* piece, that is, the *sanctified Bread and Wine*, but *not also the Body and Blood of Christ* — **is not so**.
+
+For the *Unbelief or Unworthiness of the receiver* takes nothing away and adds nothing to the *Substance or Being of the Sacrament* — forasmuch as the Sacraments, so far as their Being concerns, are *not grounded or not grounded upon anyone's Faith or Unbelief*, but *alone upon the Words of Institution and the Truth of Christ himself*.
+
+For he says *not* that the Worthy or Believing shall receive the *whole Sacrament*, but the Unbelieving or Unworthy only the sanctified Signs. Rather, *without such distinction*, he promises the Sacrament of his *true Body and Blood to dispense*. Wherefore also the Apostle Paul — **1 Cor. 11:27–29** — drives the terror against the reception of the Unworthy, that no such division of the Sacrament (so far as *Substance or Being* concerns) may be set up.
+
+The right **spiritual Use** remains nevertheless alone with the Believing, who *unto Blessedness* enjoy the Sacrament — which to the Unbelieving does not befall.
+
+And hither belong the fine words of **Augustine, *Lib. 3 contra Donatistas, cap. 14***: ***Non interest cùm de Sacramenti integritate et sanctitate tractatur, quid credat, aut quali fide imbutus sit ille, qui accipit Sacramentum. Interest quidem plurimùm ad salutis viam: sed ad Sacramenti quaestionem nihil interest. Fieri enim potest, ut homo integrum habeat Sacramentum et perversam fidem.***
+
+That is: *"When one deals with the Perfection and Holiness of the whole Sacrament, it lies nothing thereon what one believes, or what sort of Faith he has who receives the Sacrament. It indeed lies much thereon, so far as concerns Blessedness or right spiritual use; but so far as the question of the Sacrament itself concerns, it lies not thereon at all. For it can well come to pass, that one have the whole Sacrament, and yet be of a perverted Faith."*
+
+From which is to be seen that it is a **Donatist Error** to give out that the Unworthy alone receive the sanctified Bread and Wine, and nothing else more. For the *Signs* are not the *whole Sacrament*, but only a piece of the same — which is undeniable.
+
+— ❦ —
+
+## Question 12. How shall I understand the Rule: **"The Sacraments *shall and must* be explained *Sacramentally*"**?
+
+**How shall I understand the Rule: "The Sacraments shall and must be explained Sacramentally"?**
+
+**Answer**: According to the *Words of the Institution* of each Sacrament specially. For therefore has God instituted each Sacrament specially, after certain measure and manner — that one shall thereof, from the Words of such Institution and from *nowhere else*, judge and decide.
+
+Thus we now explain the **Baptism** *Sacramentally* — that is, according to the words with which she is instituted; likewise the Holy Supper.
+
+**But our opposite side interprets this Rule thus**: that the Sacraments must be understood *Figuratively* — so that the *heavenly and spiritual things* take the *Signs' Names*, and *vice versa*, the *Signs* the Names of the *signified Things*. Such interpretation is **false and wrong**. The *Reason* is: for this interpretation cannot be proved with any saying of the Scripture. And that, if this interpretation should hold, the *Words of Institution of the Baptism and Supper* must be *quite perverted and done away*.
+
+The Scripture indeed nowhere says that the Name of *the Blood of Christ*, or of the *Holy Spirit*, is added to the *Baptism-water* as to the Sign. Or, that the Baptism-water takes on the Name of *the Blood of Christ*.
+
+Likewise, she nowhere says that the sanctified Signs, Bread and Wine, take on the Name of the *far-absent Body and Blood of Christ*, or are so named ***per metonymiam signi et rei signatae*** — where to the Sign is given the Name of the absent signified thing.
+
+### Yet Augustine, ad Bonifacium, Epist. 23, says that the Signs receive the Names of the signified things?
+
+**Answer**: Augustine says *not* that in all Sacraments the Names of the Things be given to the Signs only, or dispensed with the Sign. Rather he says (***plerumque***) — *"at times it happens thus."* Thereafter, though he speaks: ***Sacramenta quandam similitudinem habere earum rerum, quarum sunt Sacramenta*** — *"that the Sacraments in certain pieces compare themselves with the things of which they are Sacraments"* — he yet does not say that *in all Sacraments there is nothing but a Similitude of the things whose Sacrament they are*. And though he had written it, yet could out of his words (as of a Man's), in this Matter of Faith without God's Word, *nothing be concluded*.
+
+That in the Holy Supper there is a Similitude of Bread with the Body of Christ, and Wine with the Blood of Christ, is not disputed. For as *Bread and Wine nourish and strengthen the Body unto this Life*, so **the Body and Blood of Christ feed, nourish, and strengthen Soul and Body unto Eternal Life**. But from this it *by no means* follows that only bare Signifiers or *Figurations* are in the Supper, and that the *true Body and Blood of Christ* is not therein *dispensed*.
+
+— ❦ —
+
+## Question 13. But the Sacraments are called *Signs*?
+
+**But the Sacraments are called *Signs*?**
+
+**Yes**, they are so called. But the question is: **Are they only Signs of absent things** (as our opposite side holds — ***significativa signa***) **— or are they *exhibitiva signa*, with and through which the promised Matters are *truly dispensed*?**
+
+The sanctified Bread and Wine in the Supper we can well let be called *Signs*, and it is not against us. But **with this proviso**: that it be added that they are **not** Signs of the *far-absent* Body and Blood of Christ, but such Signs **with which the Body and Blood of Christ are dispensed *present and truly***, according to the Words of the Institution of Christ.
+
+— ❦ —
+
+## Question 14. But it is the Property of the Sacraments that they shall *signify* something?
+
+**But it is the Property of the Sacraments that they shall *signify* something?**
+
+**This we gladly grant** — yet with this proviso, that one make not *bare significations or figures* out of them, as the Sacraments of the Old Testament were. Rather, that beside the signification — according to the words of the Institution — the Supper be *quite kept, and not dismembered*.
+
+We know well that the Signification in the Supper is: that *just as of many grains one Bread, and of many grapes one Wine, is made — so shall we Christians also become one Body* — **1 Cor. 10:17**. But this is *not yet enough*; rather, **the treasure of the present Body and Blood of Christ** must be also therewith left in the Supper — which Christ with clear words has promised, through the sanctified Signs of Bread and Wine, *to dispense present*.
+
+— ❦ —
+
+## Question 15. But it stands, 1 Cor. 10:3–4: "They all ate one and the same Spiritual food," etc. — accordingly we have Christ in the Supper *in no other manner* than the Fathers in the Old Testament had him?
+
+**But it stands, 1 Cor. 10:3–4: "They all ate one and the same Spiritual food," etc. — accordingly we have Christ in the Supper *in no other manner* than the Fathers in the Old Testament had him?**
+
+**Answer**: The Apostle says *not* that they, with us in the New Testament, have eaten one and the same *Spiritual food*, but that **they among one another had one and the same food**. Wherefore these words do *not exclude the true Presence of the Body and Blood of Christ in the Supper*, because they speak *not of Christ's Supper*, but of the *Manna and Water of the Old Testament* — as also **Oecolampadius himself** has acknowledged.
+
+— ❦ —
+
+## Question 16. Are then the Sacraments not merely bare Signs, as a shepherd marks his sheep whereby he knows them?
+
+**Are then the Sacraments not merely bare Signs, as a shepherd marks his sheep whereby he knows them?**
+
+**That some at the beginning of the strife over the Supper indeed gave out** — but now the opposite side itself *rejects such Doctrine*, or wills at least so to appear, that it does not approve the same.
+
+— ❦ —
+
+## Question 17. Is then the *Enthusiasts' Opinion* right, who give out that one has no need of Sacraments, because the Holy Spirit works all?
+
+**Is then the Enthusiasts' Opinion right, who give out that one has no need of Sacraments, because the Holy Spirit works all?**
+
+**No.** For if these people's delusion were right, then had Christ instituted the Sacraments *in vain and useless*, and commanded [them] to be used.
+
+— ❦ —
+
+## Question 18. Do the Papists do rightly, that they count **seven Sacraments** — namely: **Baptism, Confirmation, Penance, Marriage, Sacrament of the Altar, Orders, and Extreme Unction**?
+
+**Do the Papists do rightly, that they count seven Sacraments — namely: Baptism, Confirmation, Penance, Marriage, Sacrament of the Altar, Orders, and Extreme Unction?**
+
+**By no means.** For *properly to speak*, there are **only two Sacraments**: **Baptism and Supper**. For these alone have **God's Institution, Command, Promise of Grace, and certain Elements** ordained by Christ. The others *not at all*.
+
+- **Confirmation** has neither Command nor Element instituted by Christ.
+- **Penance** is indeed commanded, but that it should have a certain Element ordained by Christ, and should be *meritorious of Blessedness* (as the Papists fable), *that is nothing*.
+- **Marriage** is indeed God's Ordinance, but has no Promise of Grace or Forgiveness of Sins; so has it also no Element ever instituted by Christ.
+- The **Spiritual Order or Priesthood** has also no Element, as also no special Promise of Grace and Forgiveness of Sins.
+- So it is certain of **Extreme Unction**, that no Command of God is at hand about *oil*, nor of the same's *idolatrous, sorcerous consecration* — also no special Promise of Grace or of Forgiveness of Sins.
+
+— ❦ —
+
+## Question 19. Do the Papists teach rightly, that the Sacraments ***ex opere operato***, or *by the work of the work*, bring Grace, even if one does not believe?
+
+**Do the Papists teach rightly, that the Sacraments *ex opere operato*, or *by the work of the work*, bring Grace, even if one does not believe?**
+
+**No.** For they are *instituted to strengthen Faith*; are also *not saving* (so far as concerns the *spiritual use*), when he who goes thereto has no Faith, but supposes only by the *use*, as of a work, of itself to obtain Grace.
+
+The words *"For you given"* — [these grasp not] but rather **a Believing Heart**.
+
+— ❦ —
+
+## Question 20. What is the distinction between the *Baptism and the Holy Supper*?
+
+**What is the distinction between the Baptism and the Holy Supper?**
+
+**Answer**: They are chiefly distinguished **in the outward Elements** — for Baptism's Element is *Water*; the Supper's, *Bread and Wine*.
+
+**2.** In the Holy Supper, however, the LORD Christ has **specially promised** that he will also dispense *his Body*, which he for us gave into Death, and *his Blood*, which he for our Sins has shed — with the Signs of Bread and Wine. Which in the Baptism *does not happen*; for in the words of the Institution of Baptism nothing thereof is promised.
+
+— ❦ —
+
+# XXVI.
+
+# Of Baptism.
+
+## Question 1. What is Baptism?
+
+**What is Baptism?**
+
+**Baptism is not *bare Water*, but she is a *Water comprehended in God's Command*, and *bound together with God's Word*** — **Mark 16:16**.
+
+— ❦ —
+
+## Question 2. How manifold is Baptism?
+
+**How manifold is Baptism?**
+
+**There is only one Baptism** — **Eph. 4:5** — as there is only *one God, and one Faith*.
+
+The **Jews and Turks** also to this day use Baptism — wash or bathe themselves — but the Jews' washing has *quite ceased with Christ*. The Turks' bathing is only a *self-appointed work*, that has *no Word of God*; wherefore it is also *of no worth*.
+
+— ❦ —
+
+## Question 3. By whom is Baptism instituted?
+
+**By whom is Baptism instituted?**
+
+**Answer**: Christ Jesus himself has instituted her; for **no one can ordain Sacraments who is not Almighty God, and can thereby mightily work** — **Matt. 28:19**.
+
+— ❦ —
+
+## Question 4. Through whom is Baptism *performed*?
+
+*[Chapter XXVI Of Baptism opens. Translation continues in Rebuild-Tranche 25.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
