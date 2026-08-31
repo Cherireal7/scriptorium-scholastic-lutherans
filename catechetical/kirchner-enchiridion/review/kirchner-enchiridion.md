@@ -2855,11 +2855,298 @@ In the **Book of Wisdom, ch. 17**: *"That one is so despairing — this his own 
 
 **The fourth**: that our *Sense, Heart, and all Powers in Man* are *shamefully perverted*, and have delight only to Evil — **Rom. 8; Gen. 6, 8**.
 
-**The fifth**: *all manner of Misfortune, Punishments, Misery*...
+**The fifth**: *all manner of Misfortune, Punishments, Misery, and heart-suffering*, wherewith we Men are daily burdened.
+
+**Moses in the 90th Psalm** — *"This maketh thy Wrath, that we so pass away, and thy Fury, that we so suddenly must hence. For thou settest our Misdeeds before thee, our unknown Sins into the light, before thy Countenance."*
+
+**The sixth**: **All manner of Sicknesses and the bitter Death** — **Gen. 2; Rom. 6**.
+
+**The seventh**: **The dreadful Tyranny of the Devil**, who drives us to all Evil, and for ever and ever slinks after us *as a roaring Lion* — **2 Tim. 2; 1 Pet. 5; Eph. 2:2**: *"The Spirit has his Work in the Children of Unbelief."* Hence come the dreadful Falls, even of the very *most Spiritual* men on earth.
+
+**The eighth**: **Eternal Damnation** — **John 3:36**: *"Whoso believes not, over him remains God's Wrath."* — **Matt. 25:46**: *"And they shall go into the eternal Pain."*
 
 — ❦ —
 
-*[Chapter XIII continues with further Q&A on fruits of sin, death, temporal-eternal punishment, and closes into Chapter XIV Von der wircklichen Sünde. Translation continues in Rebuild-Tranche 11.]*
+## Question 7. Have the Heathen also had a right Knowledge of Sins?
+
+**Have the Heathen also had a right Knowledge of Sins?**
+
+**No.** For *right Knowledge of Sins* is **a hidden Wisdom** — **Ps. 51:6** — which outside of God's Word is not learned.
+
+So they of the Sins of the *First Table* — as Unbelief, Security, Presumption, Impatience, and the like — have known *nothing*. Have also not known that *Nature is corrupted through Sin*; much less recognised that Sin should deserve God's Wrath, temporal and eternal Punishment.
+
+Although they also knew Murder, Adultery, and the like other Sins against the *Second Table*, yet they did not understand that these were *such heavy Sins against God* — wherefore they also, both Adultery and Fornication, for the most part *left unpunished*, or reckoned as *slight Sins*.
+
+**Idolatry and false worship of God was among them the greatest Virtue** — as they also *undertook to serve God with Fornication*, as the Histories witness.
+
+— ❦ —
+
+## Question 8. Have then the Papists and their like now the right Knowledge of their Sins?
+
+**Have then the Papists and their like now the right Knowledge of their Sins?**
+
+**No.** The Causes are: for they *fable* that the Law requires *only outward Obedience, Discipline, and Ordinance* — as they also give out, that *Man can fulfil the Law*, and *Christians can do more than the Law demands*, if they will only do so.
+
+So they *diminish* Original Sin, saying it is the *very slightest* Sin, give out that *Man can atone for his Sin* — how then can they have right Knowledge of Sins?
+
+— ❦ —
+
+## Question 9. What have we Christians then, in general, for Comfort against Sin?
+
+**What have we Christians then, in general, for Comfort against Sin?**
+
+**The fairest and chief Comfort against Sin** — which on our account is an *unconquerable Tyrant* — is **the Penance and Payment of Jesus Christ our Saviour** — **Rom. 3, 4, 5**.
+
+Item, that God has instituted **the Office of Reconciliation** — **2 Cor. 5:18** — through which he lets Grace and Reconciliation be offered to us.
+
+That he also *assuredly* promises **to all penitent Sinners Grace and Forgiveness of Sins** — **Ezek. 33:11**: *"As I live, saith the LORD, I will not the Death of the Sinner, but that he convert and live."* **1 Tim. 1:15**: *"It is certainly true, and a precious worthy Word, that Christ Jesus is come into the World to make Sinners blessed."*
+
+That he *offers the Forgiveness of Sins also to the very greatest and most unworthy Sinners*:
+
+- **Matt. 11:28** — *"Come unto me, all ye who are weary and heavy-laden — I will refresh you."*
+- **Rom. 10:12** — *"There is one LORD, rich over all who call upon him."* He has also *never refused to any penitent Sinner the Gracious Forgiveness of Sins*, but *gladly received all* — **Luke 15:7**: *"There is more Joy in Heaven over one Sinner that doeth Repentance,"* etc.
+- **Rom. 5:20** — *"Where Sin has become mighty, there has Grace become much more mighty."*
+
+Such witness the *Examples of David, Peter, of the Thief on the Cross*, and the like. Wherefore in Fear and Terror of Sin we shall *never despair*, but *comforted* speak to the Heavenly Father, through Christ our *Throne of Grace*, for Forgiveness of Sins.
+
+— ❦ —
+
+# XIV.
+
+# Of Original Sin.
+
+## Question 1. What is Original Sin?
+
+**What is Original Sin?**
+
+**Original Sin is a very deep Corruption of Nature**, so that no Reason knows it. In sum, it is a **Lack of Righteousness**, and a *dreadful Corruption of the whole Nature* — so that the Understanding is *darkened*, that we know not God rightly; thereafter the Will and Heart *heavily deranged*, that we trust not God, fear him not, but follow *our evil Lusts and Desires*, resist God and his Word, *exercise enmity against God*. Item, that the *Conscience* (when it thinks upon God's Judgement) *fears before God*.
+
+In Sum, she is *a right true Sin*, and not alone *a Fault or Defect*, but such a Sin as damns *all Men who come from Adam*, and *eternally separates them from God* — where not Jesus Christ has come, and has rescued us therefrom.
+
+— ❦ —
+
+## Question 2. Whence comes she first?
+
+**Whence comes she first?**
+
+**God has not created Man that he should sin**, but that he should *live*. But the Devil has hung on the *shameful spot and stain of Nature*, and therewith *through and through most horribly corrupted* the same — where our first Parents *willingly followed him*, and *tore themselves away from God and his Command* — **Gen. 3**.
+
+— ❦ —
+
+## Question 3. How comes she further upon us Men?
+
+**How comes she further upon us Men?**
+
+**Adam has *inherited* her upon us.** The Sin is come *from Adam* — **Rom. 5** — from whom we all are born. **Ps. 51:5** — *"Behold, from sinful Seed am I begotten."* **Eph. 2:3** — *"We were by Nature Children of Wrath, even as the others."*
+
+— ❦ —
+
+## Question 4. So I understand well — all Men are corrupted through Original Sin?
+
+**So I understand well — all Men are corrupted through Original Sin?**
+
+**Yes.** For we confess and know from the Scripture, that *all Men are come from one Man Adam*, and *from the same, through the Birth, bring with themselves and inherit* — the *Fall, Guilt, and Sin* — which the same Adam in Paradise, through the Devil's deceit, committed. And so all together with him **in Sins born, live, and die**, and must be *guilty of eternal Death* — where not Christ come to help — **Ps. 51**.
+
+— ❦ —
+
+## Question 5. Do then the baptised Christians, who have Forgiveness of Sins, inherit Original Sin also to their Children?
+
+**Do then the baptised Christians, who have Forgiveness of Sins, inherit Original Sin also to their Children?**
+
+**Yes indeed.** Wherefore **Ps. 51:5** stands: *"Behold, I am begotten from sinful Seed, and my Mother hath conceived me in Sins,"* — notwithstanding that *David was conceived and born of Believing Parents*.
+
+**John 3:6** — *"What is born of the Flesh is Flesh."* The baptised Christians beget Children *not according to the Birth by which they are newborn through Water and the Holy Spirit in Holy Baptism*, but *according to the Flesh, in which the Sin still dwells* — **Rom. 7**. Wherefore they inherit the Sin upon their Children.
+
+— ❦ —
+
+## Question 6. Does then God create Original Sin in Man at present also, just as he creates the Nature?
+
+**Does then God create Original Sin in Man at present also, just as he creates the Nature?**
+
+**No.** *The Nature* he creates as she is (as the first Article of the Creation teaches). But the *Corruption* which is in Nature, he does not create — just as a *Builder does not create the rottenness that is in the wood*, but takes the wood as he finds it, and makes therefrom a building.
+
+**So** God in the Conception takes the *drop of blood* which is already *corrupted and poisoned with Sin* — which corruption and poisoning he neither creates nor makes — and forms Man therefrom. And of him it *cannot be said* that he creates the Sin, because it is *already* in the sinful Seed *out of which* Man is created.
+
+— ❦ —
+
+## Question 7. Wherein or where is Original Sin?
+
+**Wherein or where is Original Sin?**
+
+**Answer. The whole Man is corrupted through Original Sin**, and so Original Sin is in Man's *Body, Soul, Reason, and all Powers*. For the Scripture — **Rom. 3; Ps. 14** — says that we are *corrupted and good for nothing*; are *conceived and born in Sins* — **Ps. 51**.
+
+In the *Sense or Reason* is Darkness and Ignorance — **Eph. 4:18**: *"Whose Understanding is darkened."* — **1 Cor. 2:14**: *"The natural Man understands nothing of the Spirit of God — it is to him a folly."*
+
+The *Will* is perverted, evil, and *bears an enmity against God* — **Rom. 8**.
+
+In the *Heart and all Powers* is Stiff-neckedness, Security, Unbelief, Doubt, Pride — and all evil comes forth — **Matt. 15; Gen. 6, 8; Rom. 1**: *"Their foolish Heart is darkened; when they held themselves wise, they became fools."* — **Rom. 7:17**: *"In the Flesh dwells Sin, which strives against the Law of the mind."*
+
+Hence it now comes that at **Rom. 3:13**, also of the other Members it is said: *"Their throat is an open grave,"* etc.
+
+— ❦ —
+
+## Question 8. But how can Original Sin be in the Soul, forasmuch as the same is *specially created*?
+
+**But how can Original Sin be in the Soul, forasmuch as the same is *specially created*?**
+
+**This needs not much sharp questioning**, if we will abide with the Holy Scripture — as we then shall do — which speaks *of the whole Man*. **Ps. 51:5**: *"Behold, I am begotten from sinful Seed,"* — where she indeed speaks of the *whole Man*, or at once of Body and Soul.
+
+So the Scripture further witnesses that the *wickedness of Sin* is in the Soul and her Powers — of which we shortly before drew forth many sayings. Thereby we shall *simply abide*, and *not doubt* that Original Sin is in the Soul and all her Powers, and has *pitiably corrupted the same* — as we, alas, in all the *imagining and striving of our Heart*, sufficiently experience, etc.
+
+— ❦ —
+
+## Question 9. Is then Original Sin so great and rightly damnable a Sin?
+
+**Is then Original Sin so great and rightly damnable a Sin?**
+
+**Assuredly.** Reason holds her for a *slight, small Sin*. But that she is a *great, dreadful, and rightly damnable Sin* appears from this:
+
+**First**: that God threatens the same with *Death and all misfortune* — **Ps. 90:8**: *"Thou settest our Misdeeds before thee, our unknown Sins into the light before thy Countenance."*
+
+**Secondly**: the *horrible harms* which in Nature follow therefrom demonstrate what an Abomination Original Sin is. For she corrupts *Sense, Reason, Will, Heart, and all Powers* — yea, Body and Soul — so that from Man's Heart evil Thoughts and all manner of Sin and Shame **for ever and ever well up**; all imagining and striving of the same is from Youth up *bent to the Evil*.
+
+**Thirdly**: she subjects us to the *Tyranny of the Devil*; wherefore she indeed must be a great Abomination before God's Countenance.
+
+**Fourthly**: she subjects us to all manner of *Sicknesses and Afflictions* — which are innumerable. How can she then be a slight thing?
+
+**Fifthly**: she brings *Anxiety, Fear, Terror, and Despair in the Conscience — Doubt of God and his Grace* — which are indeed *terrible harms*, and can nor shall be diminished.
+
+**Sixthly**: she causes that Man *cannot come into the Kingdom of Heaven*, unless he be *born anew* — **John 3; Mark 16**: *"Whoso believeth not, shall be damned."*
+
+**And in Sum**: she is *a source or fountain of all misery* over us poor Men. Wherefore she is truly *a great and damnable Sin*.
+
+— ❦ —
+
+## Question 10. But the Papists say Original Sin is a slight Sin, forasmuch as it is not with the will of the Children (who are conceived therein) to happen?
+
+**But the Papists say Original Sin is a slight Sin, forasmuch as it is not with the will of the Children (who are conceived therein) to happen?**
+
+**Answer.** Of the greatness of Original Sin it is *not* to be judged from the thoughts of *corrupt Reason* — which supposes that only that is a great Sin *whereto Man's Will actually comes* (as in all Actual Sins comes to pass) — but *from and after God's Word*, which of Original Sin and her heaviness, as in the foregoing Question was reported, *expressly* teaches and witnesses.
+
+For **God's Judgement goes much higher and sharper against Sin than we corrupted men can grasp or understand**.
+
+— ❦ —
+
+## Question 11. Whereupon rests then chiefly the Doctrine of Original Sin?
+
+**Whereupon rests then chiefly the Doctrine of Original Sin?**
+
+**On the following Pieces:**
+
+**First**: that one may know — Original Sin is a *Lack of Original Righteousness* — **Gen. 3; Rom. 3**.
+
+**2.** That through Original Sin *the whole Nature of Man, Flesh and Blood, and all in Body and Soul, is poisoned through and corrupted* — **Ps. 51; Eph. 2**.
+
+**3.** That she is not a *slight fault or defect*, or that the ***naturalia*** are yet ***integra*** — that is, that Nature or the natural Powers are yet unspoiled. But that she has *pressed through all Powers of the Soul, Skin and Flesh, Marrow and Bone*, etc.
+
+**4.** That she in *this Life cannot wholly and altogether be blotted out*.
+
+**5.** That she is *unknown to Reason*, and *must be believed alone out of the Revelation of Scripture*.
+
+**6.** That she makes us *guilty of eternal Death* — where not Jesus Christ has *rescued us therefrom*, and taken such Guilt and Sin upon himself, as *an unblameable Lamb*.
+
+**7.** That she is *inherited from Parents unto us through the Birth* — **Ps. 51**.
+
+— ❦ —
+
+## Question 12. What has then Original Sin for harms and punishments led over the whole Human Race?
+
+**What has then Original Sin for harms and punishments led over the whole Human Race?**
+
+**1.** That Men *lack the Righteousness* which Adam had before the Fall — **Rom. 3**.
+
+**2.** That the Earth has been *cursed* — **Gen. 3**.
+
+**3.** That Human Life is subjected to *countless misery and grief* — **Ps. 90**.
+
+**4.** That Paradise and all is *corrupted through Sin*.
+
+**5.** That to the Marriage-State much *harm is thereby added* — **Gen. 3**.
+
+**6.** That the *Nourishment is also changed*, and Man must eat his Bread in *the sweat of his face* — **Gen. 3**.
+
+**7.** That we are *subjected to the Kingdom of Sin and the Devil* — **Eph. 2; 2 Tim. 2**.
+
+**8.** That we, on account of Sin, are *all together with one another subjected to Death and Damnation*.
+
+— ❦ —
+
+## Question 13. What, however, does Original Sin bring forth in Man of itself, for Fruits?
+
+**What, however, does Original Sin bring forth in Man of itself, for Fruits?**
+
+**Such Sin's Fruits are the *evil works* which in the Ten Commandments are forbidden**: as **Unbelief, false Belief, Idolatry, being without Fear of God, Presumption, Despair, Blindness**. And in Sum: **not to know God or care for him**. Thereafter: to *lie*, *swear by God's Name*, *not pray*, *not invoke*, *not care for God's Word*, be disobedient to Parents, murder, unchaste, steal, deceive, etc.
+
+- **Matt. 15:19** — *"Out of the Heart come evil thoughts, murder, adultery, whoredom, theft, false witness, blasphemy. These are the Pieces that defile Man."*
+- **Gal. 5:19–21** — *"The Works of the Flesh are manifest — as are Adultery, Whoredom, Uncleanness, Fornication, Idolatry, Sorcery, Enmity, Contention, Envy, Wrath, Strife, Discord, Sects, Hatred, Murder, Drunkenness, Gluttony, and the like — of which I have foretold you, and yet foretell, that they who do such things shall not inherit the Kingdom of God."*
+
+— ❦ —
+
+## Question 14. How then is Original Sin forgiven in Baptism?
+
+**How then is Original Sin forgiven in Baptism?**
+
+**Original Sin is in Baptism forgiven — John 3.** But we are not yet quite clean — as in the Parable of the Samaritan, **Luke 10**, who carried the wounded from the Robbers into the Inn is indicated. He took him not so, that he made him whole *at once*, but *bound up his wounds and poured oil therein*.
+
+**In Sum**: the Sin is indeed *wholly forgiven*, but not yet *quite cleansed out*. If the Holy Spirit did not rule the Men, they would again grow rotten — but the Holy Spirit must daily *cleanse the wounds*.
+
+Wherefore this Life is **a hospital** — the Sin is indeed forgiven, but not yet *healed*. Evil lusts *stir themselves* still for ever and ever — **Gal. 5:17**: *"The Flesh lusts against the Spirit."* If now thou followest the Lust, then the Sin *becomes ruling*. But there the Gospel *warns thee*: do it not — follow not the evil Desires. The Sin is indeed forgiven, only *see to it*, that thou remainest in the Grace. The remaining Misfortune which still cleaves to the Flesh is *forgiven*, but not yet *cleanly cleansed out*.
+
+But if thou followest — then thou fallest again into *Deadly Sin*. As by Example: **David** had the *gracious Forgiveness of all Sins* through the Faith on the coming Messiah, the World's Saviour. But when he — against his conscience and God's Word — let *Satan and his evil lusts and desires move him*, consented, *broke the marriage and struck dead*, etc., he falls or comes again into *Deadly Sin*, and comes under God's Wrath.
+
+— ❦ —
+
+## Question 15. Which are the chief Errors of the Papists that one should avoid in this Doctrine?
+
+**Which are the chief Errors of the Papists that one should avoid in this Doctrine?**
+
+**These are pure Errors and Blindness against this Article**, which the *School-Theologians* have taught — namely:
+
+- That **Original Sin is only a Fault or Defect**.
+
+- Item, that after the Fall of Adam **Man's natural Powers have remained whole and uncorrupted**, and that Man by nature has *a right Reason and a good Will* — as the Philosophers teach.
+
+- Item, that Man has **a free Will to do Good and leave Evil**, and again to leave Good and to do Evil.
+
+- Item, that Man can from natural Powers *fulfil and keep all Commandments of God*.
+
+- Item, that he can from natural Powers **love God above all things, and his Neighbour as himself**.
+
+- Item, that when a Man does *as much as in him is*, God certainly gives him his Grace.
+
+- Item, when he will go to the Sacrament, it is not needed to have a good purpose to do good, but is enough that he have not an evil purpose to do Sin — so quite good is Nature, and the Sacrament so mighty. It is not founded in the Scripture, that for the good Work is needful the Holy Spirit with his Grace.
+
+Such and the like many pieces are come from *unsound and Ignorance*, both of Sin and of Christ our Saviour — right **Heathen Doctrine**, which we cannot suffer. For if this Doctrine should be right, then is Christ *died in vain* — for no Harm nor Sin is in Man, for which he should have died. Or would he have died only *for the Body and not also for the Soul*, since the Soul also is sound, and only the Body is of Death?
+
+— ❦ —
+
+## Question 16. Is there then still a Distinction between the corrupted Nature and Original Sin?
+
+**Is there then still a Distinction between the corrupted Nature and Original Sin?**
+
+**In every way.**
+
+Such the *Article of Creation* proves: God still to this day creates Nature, but *the Sin he creates not*.
+
+**The Article of Redemption**: for our *Nature* or *Flesh and Blood* has Christ *assumed* — the Sin, however, *not*. Accordingly there must yet be a distinction between the Nature and the Sin.
+
+The *corrupted Nature* has Christ also *redeemed*; but *the Sin, not*. Wherefore Nature and Sin *cannot be one*.
+
+The Nature *cleansed from the Sin* will *rise from the Dead* and live eternally; but the Sin will be *wholly and altogether blotted out of Nature*. How then can they be one?
+
+The corrupted Nature is *regenerated in Baptism* — but the Sin, not. Wherefore Nature and Sin must be *distinguished*.
+
+**Rom. 7** — Paul plainly distinguishes between the *corrupted Nature* and the *Original Sin*, when he says: **the Sin dwells in him**. Item: *"in his Flesh dwells nothing good."* Item: *"the Evil clings to him."*
+
+So **Rom. 1** — where he writes: *"The Wrath of God is revealed from Heaven above all godless Being and Unrighteousness of Men"* — where *Men* and *their godless Being and Unrighteousness* are *not one*.
+
+The *Human Nature* also has *her own subsistent Being*. But *Original Sin, not* — for she is *nothing self-subsistent* or *essential*; rather, she is *in the corrupted Nature*, and is a *Corruption of the same*.
+
+**Man's Body** is also not *itself the Sin*. For **Rom. 6** the Apostle says: *the Sin is in our mortal Body*. So also she cannot be Man's *Soul* — for that is *a spiritual reasonable Creature which dies not* — but that cannot be said of Original Sin, etc.
+
+— ❦ —
+
+*[Chapter XIV continues with more distinctions between Nature and Sin, closing into Chapter XV Von der wircklichen Sünde. Translation continues in Rebuild-Tranche 13.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
