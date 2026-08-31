@@ -7214,9 +7214,137 @@ Wherefore should he then not with his Body truly accomplish, do — and be able 
 
 So is with him also no Word impossible. Because he then has promised to dispense his Body in the Supper with the Bread, no man shall draw it forth as impossible — unless he would give Christ's words the lie.
 
+### But it is against the Nature of a Body. *Ergo*, so it is impossible?
+
+**Answer**: But it is *not against or above God's Almightiness and Will*. Though it *seem* against the Nature of a Body, yet is **Christ the LORD *above* Nature**. And what naturally is contrary to Nature and appears impossible, that he can *supernaturally easily do* — forasmuch as he is Almighty God, and according to his assumed Human Nature has received *all Power in Heaven and on Earth*.
+
+So too stands in the Bible *no word* that God will not, and cannot, bring it to pass that Christ's Body be present *at more than one place* — where the Holy Supper is held. Nor can it be proved therefrom.
+
+Whence also **Augustine, *De Genesi ad Literam Lib. 6 cap. 17***, says: ***Neque ista cùm fiunt, contra naturam fiunt, nisi nobis, quibus aliter naturae cursus innotuit, non autem Deo, cui hoc est natura quod fecerit.*** — *"When suchlike happen, it does not happen against Nature, save only for us, to whom the course of Nature is known otherwise. With God, however, it has quite another meaning; for to him, Nature is what he creates and makes."* See also **Jerome, *Ad Pammachium***, item, ***In Epitaphio Paulae***; and **Augustine, *De agone Christiano, cap. 24***.
+
+### But Christ's Body is at a certain Place in Heaven, and cannot be *without* the Place — for so is he created?
+
+**Answer**: The **spatial or comprehensible Place** is *not an essential Property of the Body*, but an **accidental thing**. For to be *at a Place, to be in Time, to have weight*, etc. — ***in loco et tempore esse, grave esse***, etc. — these are the *conditions of a natural Body*, ***physici corporis conditiones***, belonging to this Life. Christ's Body — which is not alone *made glorious* and *Spiritual*, but also *exalted to the Right Hand of God* (which is no created or spatial Place) — is now *no longer subjected* to such accidental things. Wherefore this Objection concerning Christ's Body does *quite not conclude*, but much more the counterpart is true: namely, **Christ's Body is *above all Places*, and whatsoever can be named**.
+
+**2.** Christ is with his Body **ascended above all Heavens** — where there is no such spatial Place — and *fills all* — **Eph. 4:10**. How should then his Body not be, or not be able to be, without such a spatial comprehensible Place?
+
+**3.** **Heaven itself is no such spatial comprehensible Place**, but is God's **Kingdom, Dwelling, Throne, and House** — **Isa. 66; John 14**, which we in this Life cannot sufficiently describe or express. And when the Scripture calls it God's Throne or House, she by no means understands a spatial place wherein he is *enclosed*. For **Isa. 66:1**, God himself explains this with clear words, saying: *"The Heaven is my Throne, and the Earth is my footstool. What house is it then that ye would build me, or which is the Place where I should rest?"* — that he is not surrounded by any spatial place, but *fills all*. How then can it be said with any standing by the opposite side that Christ's Body in Heaven — where God's Throne, Chair, or Dwelling is — is *enclosed as in a bodily spatial Place*?
+
+**4.** Christ's Body is now considered *as he sits at the Right Hand of the Power of God*, which is *no spatial circumscribed Place*, but his **Almightiness itself**. Item: as he is *indivisibly united with the Godhead*. Whence **Gregory Nazianzen, ad Cledonium**, writes: ***Ubi est corpus, si non cum eo, qui illud assumpsit?*** — *"Where is the Body, if not by him who has assumed it, indivisibly into the unity of the Person?"*
+
+**5.** The Body of Christ — its *Greatness or Bigness* (for we deny not that Christ's Body, according to his Nature, is and remains ***finitum et quantum***, that is, *finite and has its quantity or magnitude*) — was *not hindered* from coming through *closed doors* to his disciples — **John 20**. How then should *Space and Place* hinder him that he with his Body not be, and could not be, ***illocaliter*** — *without Space and Place* — at once **at many Places where the Supper is at once held on one hour or day**? Beside this, that it holds not without more to argue ***à corpore physico*** — from a natural Body — ***ad corpus gloriosum*** — to a *glorified Body*, and *especially* to Christ's Body which sits at the Right Hand of God.
+
+So too is finely said by **St. Augustine, on Ps. 30**: ***Silescat totum, quicquid praeter Deum est, qui nos tueatur in loco vitae huius. Ipse post hanc vitam erit locus noster.*** — *"Let all be silent that is besides God, who protects us in the Place of this life. He himself, after this Life, shall be our Place."*
+
+### Is then Christ's Body *naturally* or in *natural manner* at the same time at so many Places where the Supper is held?
+
+**By no means.** Rather, in a **supernatural, Heavenly, incomprehensible manner** — as he is considered *on account of and after the manner of the Personal Union and the Sitting at the Right Hand of the Power of God*. Now what in natural manner does not happen with Christ's Body, that happens **by virtue of the Personal Union and Sitting at the Right Hand of the Power of God** — specially because the LORD in the Words of Institution has *expressly promised* it.
+
+### In this way Christ's Body would no more be *circumscribed*, but would have become *infinite*?
+
+**In Heaven he is indeed circumscribed, after the manner of glorified bodies** — **Phil. 3:21**. But in the Supper he is in another *incomprehensible manner* — **not spatially, but ***illocaliter***, *without Space*, in a Heavenly manner** — which is unspeakable to us in this Life. And these are not *contrary sayings*, because it happens not in one and the same manner. Herein shine his **Wisdom, Truth, and Almightiness**: Wisdom — that he has chosen such a manner in which he is present with his Body without Space; Truth — that he keeps what he has promised; Almightiness — that he brings it about.
+
+### Christ's Body is *visible* — Luke 24. *Ergo*, so he cannot be present *invisibly* in the Supper, or dispensed therein.
+
+**Answer**: It is true, Christ has assumed a *visible* Body. But that he with the same, in an invisible manner, should *not be present*, follows not therefrom. He has promised the *present Distribution* of his Body — which he gave for us into Death — in his Supper. Because this happens not in a visible manner, and yet must truly happen (since he has promised it and cannot lie), it follows that **he in an invisible manner dispenses his Body with the sanctified Bread**.
+
+To us is also not hidden that our opposite side cites many sayings of the Fathers wherein they see that Christ has assumed a visible Body — and that we also say. But the Fathers set up no such conclusion: *Ergo*, so Christ's Body is not dispensed in an invisible manner with the Bread in the Supper. Wherefore we grant not to the opposite side that it will draw such conclusions from the Fathers' sayings which they themselves did not set.
+
+So they can also with no saying of Scripture prove that if Christ with his Body should be *invisibly present*, the essential Properties of his Body would thereby be destroyed. **John 8** — **Theophylact** writes he became *invisible*, and **Luke 24** — [he became invisible]. Yet he retained *nonetheless* the essential Properties of his true Body. Wherefore should he then lose them through the *invisible Presence* of his Body in the Supper?
+
+Besides, **Augustine, *in Sententiis Prosperi***, and **Bernard, *De coena Domini***, expressly say that Christ's Body is dispensed **invisibly** in the Supper with the sanctified Bread.
+
+### The opposite side says: Christ's Body is *no Phantasm*. Wherefore he must either be *visible* wherever he is, and *comprehensible*, or he can no more be a Body.
+
+**Answer**: When Christ with his Body became *invisible* — **John 8; Luke 24** — and when he went with the same through *closed doors* — **John 20** — he indeed *became no Phantasm*. How then should he on that account have to *become a Phantasm* and *lose his Body* if he dispenses the same to us in the Holy Supper, according to his Promise, with the sanctified Bread, in an **invisible and incomprehensible manner**?
+
+**Augustine, Bernard, and others** have used the very same words — that **Christ *invisibly* dispenses his Body with the Bread in the Supper** — and thereby they have not made Christ's Body into a *Phantasm*, or taken from him the Truth of his Body. So also shall we not do it.
+
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues with further Objection-responses (Ascension, Right Hand, Reason). Translation continues in Rebuild-Tranche 32.]*
+## II. Of the Ascension.
+
+**Christ is with his Body ascended into Heaven. *Ergo*, so he cannot be present dispensed in the Supper.**
+
+**Answer**: The **visible Ascension** and the **invisible Presence and Distribution of the Body of Christ in the Holy Supper** (which is held here down on Earth) are *not* at all against each other, and abolish not each other. For the Scripture teaches *both*: that Christ with his Body is *visibly ascended into Heaven*, and that he dispenses the same Body in the Holy Supper with the sanctified Bread.
+
+Wherefore both is also true; and the Distribution and Reception of the Body of Christ in the Supper (which he has promised) happens just as certainly and truly as the Ascension is come to pass. For the Word cannot fail. But this happens not *visibly*, but in an **invisible, Heavenly, and supernatural manner**. So both Pieces of the Doctrine stand.
+
+If the opposite side would maintain that the Ascension of Christ and the Presence of the Body of Christ in the Holy Supper cannot at the same time stand together, they must prove that the two Articles are *against each other* and *against God's Word*. That Christ's Body is at once *in Heaven* and *in the Supper* (which is held here on Earth) — that they will leave *unproven for all Eternity*.
+
+So the Scripture says not alone that Christ with his Body ascended into Heaven, but ***quòd penetraverit caelos*** — **Heb. 4:14**: *"who is passed through the Heavens."* And **Heb. 7:26**: ***Quòd sublimior caelis factus sit*** — *"who is become higher than the Heavens."* And **Eph. 4:10**: ***Quod ascenderit longè supra omnes caelos, ut omnia impleret*** — *"who is ascended above all Heavens, that he may fill all things."*
+
+Wherefore Christ's exalted Body has such an *Occasion* — that the Ascension does not hinder his invisible Presence in the Supper, but much more **confirms and strengthens it**.
+
+The opposite side says indeed that the *Place* of Heaven, whither Christ has ascended with his Body, does not permit that he with the same his Body should also be *elsewhere*. But this they cannot prove with any saying of the Holy Scripture — and will not be able to prove it *in all Eternity*.
+
+### But it stands, they say, Acts 3:21: **Christum coelo capi** — *"He must be received into Heaven."* *Ergo*, etc.
+
+**Answer**: They do St. Peter's words *violence and wrong*. For he in the said place treats *not* of a spatial Enclosure of Christ's Body in Heaven, but of the **Ascension and Government** to which he is exalted according to his assumed Human Nature through the Ascension and the Sitting at the Right Hand of the Power of God.
+
+So too Peter says not (as also the old Teacher **Oecumenius** observed) that *Heaven has received Christ*, but rather that **Christ has received Heaven**. If also Peter's word were straight so to be understood — that Heaven has received Christ — then must follow that the Godhead of Christ also would be *enclosed and kept in Heaven*. For he names the *whole Christ*. So has **Beza himself** — in his great ***Annotationes*** over the New Testament — written and confessed: he has translated the text ***passivè*** (*capi* — "to be received"), that in the Church a clear witness be at hand against those who teach — **though he does us throughout wrong**, for we by no means teach so of Christ's Presence, but it is his own fable brought forward against our Churches for reproach — *that Christ, in order that we may be united with him, must be drawn down again from Heaven like Jupiter Elicius*. Whether now Beza has the Might so to interpret Peter's words to his own advantage and pleasure, stands at Christendom's judgment.
+
+Besides, this is true — that the Greek word ***δέξασθαι*** is often used among Greek authors (as with **Plutarch** and elsewhere) so that it means: **to take a City, to take a Land** — where indeed the City or Land does not enclose the Lord, catch him, or take him, but the Lord takes the City or Land. Wherefore the said saying by no means shall be so interpreted, as though Christ's Body were received into Heaven, and be therein kept, or as in a *prison guarded*, so that he could not at all be present in his Supper (which is held here on Earth). For the Words of Institution teach *another thing*.
+
+— ❦ —
+
+## III. Of the Sitting at the Right Hand.
+
+**Christ's Body sits at the Right Hand of God. *Ergo*, so he is and can not be present in the Supper with the same.**
+
+**Answer**: **First**, the opposite side must prove that *to sit at the Right Hand of God* means as much as *to sit at a certain spatial Place* — that they will not do in Eternity. Reason: for **the Right Hand of God is nothing else than God's Power and Might** — **Luke 22:69**: *"From henceforth shall the Son of Man sit at the Right Hand of the Power of God."* But the Power of God is *no Place* at which Christ with his Body *sits* — this is unanswerably true.
+
+**Second**, they must prove that on account of the Sitting at the Right Hand, Christ with his Body could not in any manner be *present here on Earth*, though he has promised and pledged. That they will also fail *for all Eternity*.
+
+Because now it is known and true that Christ according to his assumed Human Nature is set at the Right Hand of the Power of God — which is God's Power and Almightiness itself, and no spatial Place — then it follows from such Sitting not only *not* what the opposite side would force from it (namely, the *absence of Christ's Body from the Supper*), but much more the *counterpart*: namely, because Christ with his Body sits at the Right Hand of the Power of God — which is no Place — **he with his Body is certainly present in the Holy Supper, and can be** (for the Right Hand of God is not many thousand miles distant from the Holy Supper), specially because he in the Words of Institution has promised that he will dispense his Body present there.
+
+And this is so clear that even **Calvin himself**, on Eph. 1, writes: ***Hic locus apertè ostendit, si quis alius, quid significet DEI dextra, non locum scilicet aliquem, sed potestatem, quam Pater Christo contulit. Unde perperam faciunt, qui ex sessione ad dextram DEI conantur probare, Christum non nisi in caelo esse.*** — *"This saying, among many others, plainly shows what God's Right Hand is — namely, not a Place or stead, but the Power which the Father has imparted to Christ. Wherefore they do wrong who undertake to prove from the Sitting at the Right Hand of God that Christ is nowhere else but in Heaven."*
+
+Wherefore also **Chrysostom** writes of the Sitting at the Right Hand — **Homil. 61 ad Antioch.**: ***Quotquot sanguinem in coena degustamus, cogitemus, quòd illum sursum sedentem, qui ab Angelis adoratur, degustamus.*** — *"So many of us as taste the Blood of Christ in the Supper shall think that we taste him who sits above, who is adored by Angels."* And **Homil. 3 ad Ephes.**: ***Recolite, quia illius est corpus et sanguis, qui supra caelos residet.*** — *"Consider well, that it is the Body and Blood of him who sits above all Heavens."* And **Homil. 24 ad Corinth.**: ***Ipsum corpus in supremum thronum extulit, quod etiam nobis exhibet, ut manducemus.*** — *"He has exalted his Body to the highest Throne, which Body he also gives us to eat."*
+
+— ❦ —
+
+## IV. Of the Coming Again of Christ to the Last Judgment.
+
+**He shall come to judge the Living and the Dead. *Ergo*, so his Body is not present in the Supper, nor dispensed therein.**
+
+**Answer**: This *visible Coming Again* to the Last Judgment abolishes the invisible Presence of the Body and Blood of Christ in the Supper *not at all*. For it is *quite different things*: to appear *visibly* to Judgment, and in the Supper (according to the Words of Institution) to dispense his Body in an *invisible, Heavenly, and supernatural manner with the blessed Bread*. Whence also the Coming Again of Christ to Judgment — **2 Thess. 1, 2; 1 Tim. 6; 2 Tim. 4** — is called an **Appearing and Revelation** — which word, however, is not at all used of the Presence of the Body of Christ in the Supper.
+
+— ❦ —
+
+## V. "Do this in remembrance of me."
+
+**Christ himself calls the Bread of the Supper a *Memorial-sign of his Body* when he says: "This do in remembrance of me." *Ergo*, so there is a *metonymia* in Christ's words, and the Sign or Bread receives the Name of the *signified Thing* — that is, of the Body of Christ.**
+
+**Answer**: **First**, it is the opposite side's fable, that Christ with the little word ("Remembrance") explains the preceding words *"This is my Body,"* etc. Reason: for Christ in the words *"This do in remembrance of me"* speaks *not of the Being or Substance of the Supper* (which consists of two things: **Bread and the Body of Christ, Wine and the Blood of Christ**), whereof he beforehand in the first part of the Words of Institution (in which the Substance or Being of the Supper is described) has given clear report. Rather, he speaks of the **profitable Use of the Supper**. And there the Body cannot mean a *Memorial-sign*. For the words speak of the **Body given for us into Death**. Now no *Memorial-sign of Christ's Body* is given for us into Death, but the **true Body of Christ itself**.
+
+**Second**, though the Fathers at times called the Supper a *Remembrance of the Death of Christ*, yet it follows not that *End* and *Substance* are one and the same — for Christ himself has distinguished both pieces in the Words of Institution, and expressed and described each one *specially*.
+
+**Third**, so "Remembrance" does not always mean the remembrance of a *far-absent* thing, but also of a **present** thing. The Believing pray constantly: *"God, remember me,"* etc. — should he therefore be absent? And **Ex. 20:24** stands: *"At what Place I will establish the Memorial of my Name,"* etc. — should God therefore not be present? **2 Tim. 1:6** stands: *"I remind thee of the Gift that is in thee"* — the Apostle speaks there not of *absent Gifts*. So has also **Oecolampadius himself** acknowledged the nullity of this Argument — that it does not hold, because one also remembers *present* things.
+
+— ❦ —
+
+## VI. Of the Cup.
+
+**The word ("Cup") cannot be otherwise understood than ***metonymicè***, that is, Figuratively — that namely to the Sign is imparted the Name of the signified Thing, etc.**
+
+**Answer**: That **Luke** recounts Christ's words somewhat otherwise than **Matthew and Mark** takes nothing from the Truth. For Luke's report cannot and shall not be otherwise understood than as the words in Matthew and Mark read — namely, *"This is my Blood of the New Testament, which is shed for many,"* etc. Which words permit no ***metonymia*** of the signified Thing. For not a *Sign of the Blood of Christ*, but the *true Blood of Christ*, is shed for us.
+
+Though also Luke calls the Cup **the New Testament**, this also does not make of the *Blood of the New Testament* a *Blood-sign*. Reason: for the **New Testament is procured and confirmed not with a Sign of the Blood of Christ, but with the Blood of Christ himself**. As also the words of Luke (*"in my Blood"*) do not let themselves be interpreted figuratively, as every man understands: for Christ's own Blood is *no Sign of his Blood*, but the *true Blood itself*.
+
+He calls now the Cup *not the New Testament*, that a *Sign of the absent Blood of Christ* be dispensed there, but *therefore*: because that which in the Supper is dispensed and received *with the Wine* is the **true Blood of Christ, which is the Blood of the New Testament**, which is shed for the Sin of the World — through which the New Testament is made and brought about.
+
+— ❦ —
+
+## VII. 1 Corinthians 10:16.
+
+**Paul says: "The Bread which we break, is it not the Fellowship of the Body of Christ?" This is a Sign that we are incorporated into Christ. *Ergo*.**
+
+**Answer**: The Apostle says *not* that the Bread is *an outward Sign* — that those who eat of it are *incorporated into Christ* — but that the Bread is the **Fellowship or Distribution of the Body of Christ**. **Which Body, however?** Assuredly the Body of which Christ says: *"which is given for you."* As he also says *not* that the Bread be *an outward Sign*, that those who eat of it are *in the Fellowship of the Body of Christ*, that is, in the Christian Church...
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues (more Arguments, closure into Ch XXVIII Von der Catholischen Kirche). Translation continues in Rebuild-Tranche 33.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
