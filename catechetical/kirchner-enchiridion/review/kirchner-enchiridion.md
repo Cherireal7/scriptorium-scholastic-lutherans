@@ -10079,6 +10079,374 @@ As much however as concerns the *Minor* — it is *no further true* than of the 
 
 **An evil Word, Doctrine, or Deed, whereby other People are offended**, or *stumble that they fall*.
 
+— ❦ —
+
+## Question 2. How manifold is it?
+
+**How manifold is it?**
+
+**Twofold.** A **given** Offence, and a **taken** Offence.
+
+— ❦ —
+
+## Question 3. What is then a *given* Offence?
+
+**What is then a given Offence?**
+
+**An evil Teaching, evil Word, or Deed, whereby to another Heart is given Cause to *accept false Teaching, to speak and to do evil*.** Therefore Christ says — **Matt. 18:7**: *"Woe to the World, on account of Offences!"*
+
+As **David** gives to other People *Offence* with his **Adultery and Murder** — **2 Sam. 11**. **Peter** gives Offence, that *he plays the hypocrite with the Jews* — **Gal. 2:12–14**. The *Incestuous man* — **1 Cor. 5** — gives Offence, that he *takes his Stepmother to wife* under an *appearance of Christian Freedom*. The **Pope and the Bishops** give Offence with their *false Doctrine, Idolatry, and invented Divine Services*, and *cause* that *many others follow them therein*. A **Preacher** gives Offence, when he *teaches not right* and *lives ill*. An **Authority**, when it is *unfaithful in its Office*, and *punishes not*, and *otherwise ill-manages the household*. Likewise a **Householder**, when he does not *himself diligently go to Church*, and *often to the Supper*, *offends thereby his Children and Servants*.
+
+— ❦ —
+
+## Question 4. What is however a *taken* Offence?
+
+**What is however a taken Offence?**
+
+**When the *Wise of this World*, or the *Hypocrites*, offend themselves at *pure Doctrine* and *Christian Deeds*, and *would have the right Christians therefore dead*, *persecute and blaspheme* those in the utmost, etc.** As, when **John the Baptist** *teaches right and punishes*, the *Pharisees and Herod* offend themselves thereat. Item, when *Christ preaches the Gospel and does Signs*, the **Jewish People with the Pharisees** stumbles — **Matt. 11:6**: *"Blessed is he who offends himself not at me."* Likewise, when the *Apostles began to preach at Jerusalem and among the Heathen*, the **Gospel** had to *bear the Shame-Title* that it was a *seditious Preaching* which *did away with the right Divine Service and destroyed common Peace* — **1 Cor. 1:23–24**.
+
+**In this fashion the whole Papacy now offends itself at the *pure Doctrine* and *right Use of the Sacraments* in our Churches** — but *without the fault of the Gospel*, which the *evil World cannot bear*. So many People also now *take Offence* on account of the *right Doctrine of the Holy Supper* — but they *do wrong therein*.
+
+— ❦ —
+
+## Question 5. Who causes the *given* Offence?
+
+**Who causes the given Offence?**
+
+**First**, **Satan himself**. For he is the *Beginner of all Evil, among Angels and Men* — **John 8:44**: *"He was a Murderer from the beginning, and stood not in the Truth; when he speaks a Lie, he speaks of his own — for he is a Liar and a Father of the same."*
+
+**Second**, **the corrupted evil-nature and Wickedness of human Nature**, which has *Lust to sin* and *seeks Occasion thereto* — **Gen. 6, 8**. *No doubt there is* that **Satan stoutly stoked** that *he made David an Adulterer*. So there is no doubt that Satan drives on *false Teachers*, that they bring forth *false Teaching and erring Opinions* whereby other People are *offended and misled* — as at **1 Kings 22:22** stands: *"I will go forth and be a false Spirit in the mouth of all his Prophets."* **2 Thess. 2:9**: *"His appearance shall happen after the working of Satan"* — speaks of the *Antichrist or Pope at Rome*.
+
+— ❦ —
+
+## Question 6. What moves however the Men hereto?
+
+**What moves however the Men hereto?**
+
+**The Lust-Sickness that is in Man** — **Gen. 6, 8**: *"All the imagination of the Heart is from Youth up inclined to Evil."* **Matt. 15:19**: *"Out of the Heart come evil Thoughts,"* etc.
+
+— ❦ —
+
+## Question 7. What do they bring to pass with such Offence?
+
+**What do they bring to pass with such Offence?**
+
+**God's Wrath and Punishments** — **Matt. 18:7**: *"Woe to the Man through whom Offence comes,"* etc.
+
+— ❦ —
+
+## Question 8. What shall admonish all Christians that they abstain from such Offences?
+
+**What shall admonish all Christians that they abstain from such Offences?**
+
+**First**, **God's Command to guard oneself earnestly from all Sins** — **John 5:14**: *"Sin no more."*
+
+**Second**, **God's Wrath and Punishments which follow thereupon** — **Matt. 18:7**.
+
+**Third**, **the Examples of those who have given Offence and been punished by God** — David, the Incestuous man — **1 Cor. 5** — and their like.
+
+**Fourth**, **the Punishments of all false Teachers on account of the Offences which they have given with their unrighteous Teaching**.
+
+**Fifth**, **the Lust and Love for Virtue and Innocence**.
+
+**Sixth**, **that Offence is a sure Sign that the one who gives it is of the Devil** — **1 John 3:8**: *"He who does Sin is of the Devil,"* etc.
+
+— ❦ —
+
+## Question 9. Whence comes however the *taken* Offence?
+
+**Whence comes however the taken Offence?**
+
+**First**, also **from Satan**, who *bewitches the Hearts against the Truth*.
+
+**Second**, **out of Ignorance of the Scripture and of Divine matters** — **1 Cor. 2:14**: *"The natural Man perceives nothing of the Spirit of God — it is Folly to him,"* etc.
+
+**Third**, **out of an unseasonable Zeal** — **Rom. 9:31–32** — and **love for the old Doctrine and Customs**, though they be *evil and wrong*.
+
+**Fourth**, **out of Regard for those who cling to false Doctrines and Divine Services**, and *set themselves against the Truth*. So it is now to be seen with the *Papists*, who *look only upon the Pope and other high People* who are *attached to the Papacy*.
+
+**Fifth**, **out of Presumption** — to *bring something new among the People* and to obtain a *great Name* — or *out of Envy*, as **Arius** began his heresies out of *Envy*, because he became *not Bishop of Alexandria*.
+
+**Sixth**, **the Belly also does much thereto**, and the *Belly-care* — **Phil. 3:19**: *"Whose God is their Belly,"* etc. Many offend themselves at the Doctrine of the Gospel, for he has *care that, if he accept it, he will lose his fat Prebend and Preferment*, etc. This Cause is found in the *Pharisees, in the Papists, in false Teachers, and in those who pledge to them*.
+
+### Counter-speech: The Doctrine which *stirs up Offence in the Church* is rightly to be shunned. The Lutheran Doctrine does that. *Ergo*, so it is rightly to be shunned.
+
+**Answer**: **That is our Papists' Accusation against our Doctrine.**
+
+We answer upon the first Proposition or ***maior*** thus, and with distinction: **The Doctrine which *of and from itself* stirs up Offence, or is *offensive and false*, is rightly to be shunned.**
+
+Upon the ***minor***: **Our Church-Doctrine sets up no Offence — much less brings it forth of itself; is also not false or wrong.** For it is the Doctrine *of the Prophets, of Christ, and of the Apostles*, from whom we have received it, and *rightly therefore, as of a dear Deposit, to be held*. But the **Papists** stumble at it, *without any Christian and rightful Causes* — just as also the *Pharisees stumbled at Christ's Doctrine*, and the *Greeks at Paul's Doctrine of the Crucified Christ* — **1 Cor. 1, 2**. Wherefore our Church-Doctrine has *no guilt in the said Offence*, but the same is *wrongly imputed to her*.
+
+— ❦ —
+
+## Question 10. What offends the Papists chiefly in our Churches?
+
+**What offends the Papists chiefly in our Churches?**
+
+**The pure Doctrine in the Chief-pieces of Christian Religion, which runs directly counter to their Doctrine that they have hitherto led.**
+
+**2.** That we *punish their false Doctrine and invented Divine Services*, and *warn and dissuade the whole Christianity therefrom, as from Error and Deceit*.
+
+**3.** That we *desire from them* that they not only *depart from their false Doctrine and invented Divine Services*, which are *nothing but Human Ordinance*, but shall also **openly join to the Truth of the Gospel**, and *before the whole Christendom recognise that they have shamefully misled the Church*.
+
+**4.** That we are *so slight and unseemly People* to reckon against them.
+
+**5.** That they see, when they *accept the Gospel purely* and *deal with the Sacraments according to Christ's Ordinance*, they would themselves have to *stab a great Hole into their Belly*, and *would not be able to keep the fat Prebends thus in idleness, laziness, and all manner of wilfulness*, but *would have to study* and *in the Preaching-Office let it become bloody-sweat to themselves*, and thereto still *take in the World's Ingratitude, Poverty, and Persecution*. That is however not to their taste, as **Belly-servants**.
+
+— ❦ —
+
+## Question 11. What should move them however to depart from such Offence?
+
+**What should move them however to depart from such Offence?**
+
+**First**, **Christ with his unerring and eternal Truth**, which *all Men are bound to hear and to follow* — **Matt. 3:17**: *"Him shall ye hear."* Reason hither, Reason thither — Custom hither, Custom thither — so it still is called, and *remains in Eternity true*: ***Ego sum veritas, et non ego sum Consuetudo*** — *"I am the Truth, and not, I am the Custom."*
+
+The **Pharisees** had their Doctrine also *a long time held and led*, yet had to *depart therefrom*, would they otherwise become blessed. So must the **Papists** also do, if they should be helped.
+
+*It abides thereby*, **John 17:17** — that *Christ's Word alone is the Truth*, and *what is contrary thereto, Untruth*.
+
+**2.** That we also *punish their so trusted-in Doctrine and Human Ordinances out of Scripture* — that should move them by so much the more to *diligently search out the matter or Truth* — just as the **Thessalonians** — **Acts 17:11** — *accepted the Word that Paul preached, and searched in the Scriptures whether it were so*. For **all Doctrines are to be judged after the *Rule of God's Word***, and *alone to God's clear Word is one to pledge oneself*. Whence also **Constantine the Great** at the **Council of Nicea** rightly says: ***Libri sunt Apostolici, antiquorumque Prophetarum oracula, quae nos manifestè instruunt, quid sentiendum sit de rebus divinis. Suscipiamus igitur ex sermonibus divinitus inspiratis quaestionum solutionem.*** — *"There are at hand the Writings of the Apostles and the Prophecies of the old Prophets, which teach us plainly what we shall believe in Divine matters. Wherefore let us take, out of the Words divinely inspired, the resolution of the arising Questions."*
+
+And **Basil, *Epist. 8***: ***Scriptura divinitus inspirata arbiter à nobis constituatur, et apud quos inventa dogmata divinis sermonibus concordantia, his omninò etiam veritatis suffragium accedat.*** — *"The Scripture inspired of the Holy Spirit shall be set as Judge between us; whoever has it on his side, and so teaches as the Scripture teaches, or whose Doctrine agrees with the Scripture, to him one shall in all ways give right and pledge."*
+
+**3.** **To let the erring Opinion fall** — thereof they shall have *no dread*, as also *openly to confess their Error*, etc. For this the **Believing at Corinth** did — **Acts 19:19** — who also **burnt the curious Books**, etc.
+
+Likewise have *all those done* who *upon the Apostles' Preaching cast away their Heathen Doctrine and Opinions*, and *on the other hand heartily accepted the Truth of the Gospel of Christ*. Which Examples *innumerable many Churches in our times, after they are informed of the Truth, have followed*, and *still daily by God's Grace, those who join hither, do follow*.
+
+**4.** **Our Lowness** should *not hold them off at all*. For it depends **not on the Regard of Persons who say something, but on what they say**. The Persons are as poor as they may ever wish — so we err not, when they only *present to us the Truth of God's Word*. For **God's Word is and remains God's Word**, whoever may present it or preach. No doubt is (as their **Panormitanus** says) that even to a *simple Layman who has God's Word for himself* one *must give more Faith* than to a *whole Council which has no Word of God for itself*. And **Tertullian, *De praescriptione***: ***Non fidem ex personis, sed ex fide personas probari debere.*** — *"One must not estimate the Faith after the Persons, but prove the Persons after the Faith."*
+
+**5.** **The Soul's Salvation, and God's Honour**, shall *justly with them count more than the Belly and Belly-care*. For it is *most shameful and pure blasphemous*, when one is *convinced in Conscience of the Truth from God's Word*, and *nevertheless will not accept it — alone for the sake of the Belly, temporal Well-being, good idle Days, and fat Prebends*.
+
+— ❦ —
+
+## Question 12. They give out however: *It offends them chiefly, that our Church-Doctrine is new and only 60 years old and begun*?
+
+**They give out however: It offends them chiefly, that our Church-Doctrine is new and only 60 years old and begun?**
+
+**Is a null Objection.** For they should *by now have heard, read, and experienced enough*, that **our Church-Doctrine is even that Doctrine which the *Holy Patriarchs, Prophets, Christ himself, and the Holy Apostles* have led**, and *in their Writings have left behind to the Church as a dear Deposit*. Since then this is so, and *not otherwise* — and we *hold, write, teach, believe, and confess the Holy Scripture, the ***Symbola Apostolicum, Nicenum, Athanasianum, Ephesinum, Chalcedonense***, etc., unmoved* — and **in Sum witness with all Prophets and Apostles**, that *whoever does upright Repentance and believes on the Name of Jesus Christ from the Heart shall receive Forgiveness of Sins* — **Acts 10:43** — and hold also the *right Use of the Sacraments after Christ's Institution* — they should at last see and recognise that **our Doctrine has not first come up 60 years ago**: but that, since **the Pope and Bishops set the same aside, let it fall, and on the other hand drove their Human Ordinances in the Church in place of the Prophetic and Apostolic Doctrine**, it is *by God's unspeakable Grace* that the *Light of Truth is again kindled*. And as **Rev. 14:6–7** stands, *has been preached to all the World through the Gospel*: *"Fear God, and give him the Honour,"* etc. Would they thereover be blind, and *persecute the dear Truth* — they may on their *Peril* forever do so. We however will, if God will, *not go along with them*. We rest thereby, that we *know that our Churches have one and the same Faith with the Apostles*, and — ***et propter consanguinitatem doctrinae***, as **Tertullian** speaks — *on account of the Blood-relationship with the Apostolic Doctrine* — *are to be held for right Apostolic Churches*. **Tertullian, *De praescriptione***.
+
+— ❦ —
+
+# XXXIV.
+
+# Of *Wonder-Signs* (Miracles).
+
+## Question 1. What are *Wonder-Signs*?
+
+**What are Wonder-Signs?**
+
+**They are *special Works of God, above the Course of Nature*, which he works *for Witness of the right Doctrine which he himself has revealed*.**
+
+— ❦ —
+
+## Question 2. How manifold are the Wonder-Signs?
+
+**How manifold are the Wonder-Signs?**
+
+**Twofold**: **Divine**, which God does; and **Devilish**, which Satan works.
+
+— ❦ —
+
+## Question 3. What is then the *efficient Cause* of the Divine Wonder-Signs?
+
+**What is then the efficient Cause of the Divine Wonder-Signs?**
+
+**God himself** — as at **Psalm 72:18** stands: *"Praised be the LORD, the God of Israel, who alone does Wonders."* Item, **Psalm 136:4**: *"Thank the LORD, for he is friendly, who alone does great Wonders."* **John 10:25**: *"I do the Works in my Father's Name,"* etc.
+
+— ❦ —
+
+## Question 4. Does he also sometimes use *intermediate Persons* thereto?
+
+**Does he also sometimes use intermediate Persons thereto?**
+
+**Yes.** For thus has he *through Moses and the Prophets in the Old Testament done many excellent Signs*; in the New Testament, *through the Apostles*.
+
+— ❦ —
+
+## Question 5. What moves him thereto?
+
+**What moves him thereto?**
+
+**1.** His **great Mercy** or **Goodness** — **Psalm 136:4**.
+
+**2.** That he may *reveal thereby his Almighty Power*, and *witness that he works freely* and is *not bound to the Course of Nature at all* — **Psalm 115:3**: *"Our God is in Heaven, he can create what he will."* Item, **Psalm 135:6**: *"All that he wills, that he does, in Heaven, upon Earth, in the Sea, and in all Depths."* Item, **Exod. 9:16**: *"I have raised thee up, that my Power may appear in thee,"* etc. **Exod. 16**: The murmuring of the People caused God to *rain Manna from Heaven*. **Exod. 17**: That he *let smite the Rock*, that it *gave Water*.
+
+— ❦ —
+
+## Question 6. What Properties have they?
+
+**What Properties have they?**
+
+**1.** That they are **true Signs**, and *no Deceit* — as *Satan often plays with Signs* and *mocks the People*.
+
+**2.** That they **agree with God's Word** and *confirm the same*.
+
+**3.** That the **evil Spirits cannot imitate them**.
+
+**4.** That they **go far above the common Course of Nature**.
+
+**5.** That they are **alone grasped with true Faith** and *rightly understood*.
+
+**6.** That thereby the **Name and Word of God is spread abroad and made known**.
+
+— ❦ —
+
+## Question 7. For what Causes has God from the beginning done Wonder-Signs?
+
+**For what Causes has God from the beginning done Wonder-Signs?**
+
+**First**, that thereby it might be recognised that he *alone is God in Heaven and on Earth*, who has all in his Power — **Exod. 7, 8, 9; 1 Sam. 17** — *that the whole Land may become aware that Israel has a God*.
+
+**2.** That his *Word or Divine Revelations* might be *the more believed*.
+
+**3.** They should also witness that **Jesus Christ is true God, and the World's Saviour** — **Isa. 35; Matt. 11:4–5**: *"Say again to John what ye see and hear — the Blind see, the Lame walk, the Lepers are made clean,"* etc.
+
+**4.** So they shall also **confirm the Doctrine of Christ's Office**, that he namely is *sent to destroy the Works of the Devil* — **Gen. 3:15**: *"He shall bruise the Serpent's Head,"* etc.
+
+**5.** That they **give Witness** that God through Christ will also *help us in all needs* — **Matt. 11:28**: *"Come unto me all ye that labour and are heavy-laden — I will refresh you."*
+
+— ❦ —
+
+## Question 8. For what do the Divine Wonder-Signs serve us today?
+
+**For what do the Divine Wonder-Signs serve us today?**
+
+**They serve us manifold.** For **first**, they *confirm the Chief-pieces of our Christian Doctrine*, and *assure us that it is revealed by God* — as they *have given us fore-warning of the Appearance of Christ the Messiah*, and *witness that the Work of Redemption is truly accomplished*.
+
+**Second**, they *admonish us not to despair in impending Needs and Anfechtungen*. Inasmuch as we have such a **LORD and God** who is *mighty over all Creatures*, who is *free and bound to no Creatures* — but also *over and against the ordinary Course of Nature can work and create all he wills, both in Heaven and on Earth*.
+
+**Third**, they *give us Cause for hearty Calling-upon*. Since we have such a **LORD** who can and will *help even over the Course of Nature*, we shall *the more heartily sigh unto him*, and *not doubt* — since all *stands in his Hand*, and he *can turn and rule all as he wills* — *he will let us stick in no Need*, but *mightily deliver*, and *show his Power upon us*. **Psalm 77:10–11**: *"I said, I must suffer this; the right Hand of the Highest can change all."*
+
+— ❦ —
+
+## Question 9. Is there any *comparison* of the Wonder-Works of Christ, of the Prophets, and of the Apostles?
+
+**Is there any comparison of the Wonder-Works of Christ, of the Prophets, and of the Apostles?**
+
+**Yes**, for they *compare themselves* — **first**, therein — that they are **on both sides true and not deceitful Wonder-Signs**.
+
+**2.** They *witness together of the Truth of the revealed Word of God, both in the Old and New Testament*.
+
+**3.** They *show clearly that the Persons through whom they happened were God's Instruments and Servants*, and *confirm their Calling and Office*.
+
+**4.** They serve *on all sides for the strengthening of our Faith*, which is *grounded on the Word of the Prophets, of Christ, and of the Apostles* — **Eph. 2:20**: *"Built upon the Foundation of the Apostles and Prophets, in which Jesus Christ is the Cornerstone."*
+
+— ❦ —
+
+## Question 10. Wherein however are they *distinguished*?
+
+**Wherein however are they distinguished?**
+
+**1.** Therein: the **Prophets and Apostles**, when they *did Wonder-Signs*, wrought them *neither in their own Name, nor out of their own Power*, much less *when they willed*: but alone *in God's or Christ's Name and Power*, and *when they were bidden thereto by God, or driven thereto*. So did **Moses** his Signs *out of God's Bidding and Command*, the Apostles also — **Matt. 10**. But the **LORD Christ**, as *true God and Man in one indivisible Person*, has *done his Wonder-Works of Divine and own Power*, **as a LORD over the Creatures, when and where he would**.
+
+**2.** The **Prophets** have *seldom done Wonder-Signs*; **Christ** however and the **Apostles** have *worked very many Signs and Wonders* — as such is to be seen from the *Evangelical History and out of the Book of Acts*.
+
+**3.** The **Wonder-Signs of the Prophets** never gave witness to a *present Messiah* — for the same was *not yet appeared* — but were *chiefly directed thereto*, that they *confirmed their prophecy of the coming of Christ, and other matters whereof they prophesied*. The **Miracles of the LORD Christ** however *witnessed that he was appeared*, and that *one need wait for no other* — **Matt. 11:4–5**: *"Go, say again to John what ye see and hear — the Blind see,"* etc. So also the **Apostles' Wonder-Signs** *confirm Christ's Appearance and Doctrine*.
+
+— ❦ —
+
+## Question 11. Do then today *no public Wonders* happen in the Church of God at all?
+
+**Do then today no public Wonders happen in the Church of God at all?**
+
+**Spiritual Wonder-Works still happen today, through the right and ordinary Preaching-Office.** For also in our times, *through the Preaching-Office and Sacraments*, **Devils are driven out**, and the **Blind get their Eyes opened**, *through the Enlightenment of the Holy Spirit*, that they *can see the Truth of the Gospel, the Deceit of the Papacy, and other false Doctrines, and avoid them*. **The Dead**, *who are spiritually dead in Sins*, are *awakened through the Preaching of Repentance and Forgiveness of Sins*. **The spiritual Lepers** are *cleansed through the Conversion to God, or through Faith* — **Acts 15**. **The Dumb** are *made speaking through the Holy Spirit*, and *made cheerful for joyful Confession of the Truth*. **The Lame** are *made going*, when the Holy Spirit *strengthens the Hearts of those who are wavering in Confession, that they walk rightly after the Gospel of Christ*.
+
+So it is indeed *no small Wonder-Work* that in these *latter Times* the **Antichristian Papacy is revealed**, and *the Doctrine, by God's Grace, cleansed, and hitherto against all raging and raving of Satan and his Instruments, defended, spread abroad, and preserved*.
+
+— ❦ —
+
+## Question 12. Are Wonders also sometimes done *through false Teachers and Devil's Servants*?
+
+**Are Wonders also sometimes done through false Teachers and Devil's Servants?**
+
+**Yes.** For **Matt. 7:22** stands, that *many at that Day shall come and say: "LORD, LORD, have we not driven out Devils in thy Name? Have we not done Deeds in thy Name?"* And **Matt. 24:24**: *"There shall stand up many false Prophets, and shall do great Signs and Wonders."* So it is also written of the **Antichrist** — **2 Thess. 2:9** — that his *coming shall happen after the working of Satan, with all manner of lying Powers and Signs and Wonders*, etc.
+
+Thus has **Satan under the Papacy caused many Signs and Wonders through his Instruments** — as out of their *legends* is to be seen. And so the *Spectres deceived **Gregory the Pope*** — that he *set up the Soul-Mass to save the souls out of Purgatory* — whereas it was *pure Devil's Deceit*.
+
+— ❦ —
+
+## Question 13. I thought however that God does *not permit the Godless false Teachers so much*, that they could do Signs?
+
+**I thought however that God does not permit the Godless false Teachers so much, that they could do Signs?**
+
+**He permits it in part *for Trial***, as **Deut. 13:3** stands: *"The LORD your God tests you, that he may know whether ye love him from the whole Heart,"* etc. **In part for Punishment** — as **2 Thess. 2:10–11** is said: *"Because they have not accepted the Love to the Truth, that they might become blessed — therefore shall God send them powerful Error, that they should believe the lie, that they may all be judged who believe not the Truth, but have Delight in Unrighteousness."*
+
+— ❦ —
+
+## Question 14. Why does God however allow at times *true Signs* to happen *through evil People*? — as **Balaam, Num. 24**, prophesied of Christ, etc. **Caiphas** likewise of the Death of Christ.
+
+**Why does God however allow at times true Signs to happen through evil People?**
+
+**Answer**: **John** himself explains how it is to be understood, where he says: *"Caiphas prophesied, because he was High-Priest that Year."* For God can well let it happen, that such a Person *who is in a public Office*, or is a *ruling Person*, **prophesy and do Wonders** — and yet the Person **for himself is not pious**, and *goes to the Devil*.
+
+— ❦ —
+
+## Question 15. What sayest thou however of those who do Wonders, and yet are not in Office? — **Luke 9:49**: one reads of certain who *did Signs and yet were not Christ's Disciples*.
+
+**What sayest thou however of those who do Wonders, and yet are not in Office?**
+
+**Answer**: **God the LORD works freely**, and when he wills to do it, he can also well *through single Persons who are not in the public Office* **do Wonders**. But without doubt, they must be *God-blessed Persons*, and **Temples of the Holy Spirit**.
+
+— ❦ —
+
+## Question 16. What is then the *Distinction* between the right and false Wonder-Signs?
+
+**What is then the Distinction between the right and false Wonder-Signs?**
+
+**First**, they are distinguished in ***causa efficiente***. For the **right Signs** happen *from God, and through Divine Power*; the **false** however, through *Satan's powerful working*.
+
+**Second**, the **Wonder-Signs of the Church of God** are *true, steadfast Wonder-Signs*, where *no Deceit is behind*, and *happen above the common Course of Nature*. The **false Signs** however are *deceitful* — as in former times among the *Heathen* the *Idol-priests hid themselves in the Images and spoke therefrom*, or *secretly ate up the Sacrifices*. As is to be seen in the *History of the Babylonian **Bel** and *Dragon***; or as **Rufinus, *lib. II, cap. 25***, writes of *Tyrannus*, who was a Priest of **Saturn** at Alexandria, that he *spoke through the Image of Saturn*, and *summoned Wives by night into the Church*, etc. As likewise such Histories also **Josephus, *lib. XVIII Antiquitatum, cap. 7***, writes of the Noble Roman *Paulina*, how she was *shamefully deceived by the Priests of the Goddess **Isis***.
+
+**Third**, the **Wonders of the right Church** happen *for the Confirmation of pure Doctrine*, as *revealed by God himself*, and *for the Furtherance of Divine Honour*. The **false**, however, *for the Confirmation of impure Doctrine and false Divine Services* — as both in *Heathen and Papist Signs* is to be seen.
+
+**Fourth**, the **Signs of the Church of God, or of Christ**, can *neither Devils nor Men imitate*. **Hildebrand the Monk**, before he became Pope, *did Signs* — but *out of the Devil*. So **Boniface VIII** deceived his forerunner **Celestine** with the *deceitful Appearance of an Angel's Voice*. Such and the like Signs Satan can *easily through his own bring to pass* — but *Christ's Signs he cannot imitate*.
+
+— ❦ —
+
+## Question 17. How comes it however that today *no public Wonders* happen in the Church?
+
+**How comes it however that today no public Wonders happen in the Church?**
+
+**Therefore they happen not:**
+
+**1.** That it is **not necessary**, since the *Gospel of Christ is beforehand sufficiently confirmed through Wonder-Signs*. **Augustine, *De Civitate Dei, lib. XXII, cap. 8***: ***Necessaria fuerunt miracula, priusquam crederet mundus, ad hoc ut crederet mundus. Quisquis adhuc prodigia inquirit, ut credat, magnum est ipse prodigium, qui mundo credente non credit.*** — *"The Wonder-Signs were necessary before the World believed, to the end that the World might become believing; but he who yet demands Wonder-Signs, that he may believe, is himself a great ***prodigium*** or Wonder, in that he will not believe, when the World believes."*
+
+**2.** That **our people bring forth no new Doctrine** — but bring the same Doctrine which *Christ and the Apostles taught*, and *beforehand richly confirmed with Wonder-Signs*.
+
+**3.** So also **our Opposite would nevertheless not believe**, though we did Signs — as the **Pharisees** believed *neither Christ nor the Apostles*, though *they did many Signs*.
+
+**In Sum: No Signs now happen more.**
+
+**1.** For **God wills that we shall look more upon the Word than upon Signs**.
+
+**2.** So he wills also that we shall look **more upon the first Signs of the Prophets, of Christ, and of the Apostles**, than *gape after new Signs*.
+
+**3.** As he wills also that we shall **believe more than see** — **John 20:29**: *"Blessed are they who believe and do not see."*
+
+— ❦ —
+
+## Question 18. By this manner Christ and the Apostles also would have had to do no Signs, since they brought no *New Teaching*?
+
+**By this manner Christ and the Apostles also would have had to do no Signs, since they brought no New Teaching?**
+
+**Answer**: **It was especially prophesied of Christ, Isa. 35**, that he should *do great Signs and Wonders* — upon which he then also **Matt. 11** appeals to himself. So had the *Apostles* from Christ *Command*, since they should *preach the Gospel among the Heathen*, to *confirm the same with Signs*.
+
+— ❦ —
+
+## Question 19. Yet **Mark 16:17** stands: *"The Signs shall follow them."* *Ergo*?
+
+**Yet Mark 16:17 stands: "The Signs shall follow them." Ergo?**
+
+**Answer**: **The LORD Christ speaks there of the Apostles' Preaching-Office**, and of the *Signs which they at the beginning, for the confirmation of their Office, should do* — and *not of the last Times, in which we live*.
+
+— ❦ —
+
+## Question 20. Is then God a *Cause* of the Signs which the *Sorcerers* today, *with naming the Name of Christ*, do?
+
+**Is then God a Cause of the Signs which the Sorcerers today, with naming the Name of Christ, do?**
+
+**By no means.** For **such Works stem from the Devil**. So *these People misuse Christ's Name*, and God permits *for Punishment* that they *at times through the Devil's driving accomplish something*.
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
