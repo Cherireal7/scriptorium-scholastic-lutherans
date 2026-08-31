@@ -166,117 +166,117 @@ A working English edition translated by
 
 ### *Front Matter*
 
-|  | Page |
+|  |  |
 |:---|---:|
 | Translator's Note | i |
-| Widmungsvorrede: Dedication to Elector Palatine Ludwig VI *(Heidelberg, 6 Sept 1583)* | 1 |
+| Widmungsvorrede: Dedication to Elector Palatine Ludwig VI *(Heidelberg, 6 Sept 1583)* | — |
 
 &nbsp;
 
 ### *Part One · The Chief Chapters of Christian Doctrine*
 
-|  | Page |
+|  |  |
 |:---|---:|
-| **Chapter I · On Holy Scripture, or the Word of God** | 21 |
-| &nbsp;&nbsp;&nbsp;§ 1. Whence it is proven that the Christian religion alone is the true religion | 21 |
-| &nbsp;&nbsp;&nbsp;§ 2. What God's Word or Holy Scripture is | 23 |
-| &nbsp;&nbsp;&nbsp;§ 3. The chief chapters of Scripture: Law and Gospel | 24 |
-| &nbsp;&nbsp;&nbsp;§ 4. Whence Holy Scripture takes its beginning; by whom first brought forth | 24 |
-| &nbsp;&nbsp;&nbsp;§ 5. The four grounds of Scripture's certainty | 26 |
-| &nbsp;&nbsp;&nbsp;§ 6. Against the Papist assertion that Scripture has its authority from the Church | 27 |
-| &nbsp;&nbsp;&nbsp;§ 7. Whether everything necessary for salvation is found in Scripture | 28 |
-| &nbsp;&nbsp;&nbsp;§ 8. How a Christian is to orient himself in interpretation | 29 |
-| &nbsp;&nbsp;&nbsp;§ 9. The power and effects of Scripture — a fivefold enumeration | 30 |
-| &nbsp;&nbsp;&nbsp;§ 10. Why the Word does not everywhere bear fruit; against the Enthusiasts | 31 |
-| &nbsp;&nbsp;&nbsp;§ 11. Against the Papist claim that Scripture is obscure; the two rules on the Fathers | 32 |
-| &nbsp;&nbsp;&nbsp;§ 12. Scripture as the sole judge in religious controversies; the office of Councils | 33 |
-| &nbsp;&nbsp;&nbsp;§ 13. Against human traditions; the true interpretation of 2 Thess 2 | 34 |
-| &nbsp;&nbsp;&nbsp;§ 14. The fourfold difference between pagan and Christian doctrine | 35 |
+| **Chapter I · On Holy Scripture, or the Word of God** | — |
+| &nbsp;&nbsp;&nbsp;§ 1. Whence it is proven that the Christian religion alone is the true religion | — |
+| &nbsp;&nbsp;&nbsp;§ 2. What God's Word or Holy Scripture is | — |
+| &nbsp;&nbsp;&nbsp;§ 3. The chief chapters of Scripture: Law and Gospel | — |
+| &nbsp;&nbsp;&nbsp;§ 4. Whence Holy Scripture takes its beginning; by whom first brought forth | — |
+| &nbsp;&nbsp;&nbsp;§ 5. The four grounds of Scripture's certainty | — |
+| &nbsp;&nbsp;&nbsp;§ 6. Against the Papist assertion that Scripture has its authority from the Church | — |
+| &nbsp;&nbsp;&nbsp;§ 7. Whether everything necessary for salvation is found in Scripture | — |
+| &nbsp;&nbsp;&nbsp;§ 8. How a Christian is to orient himself in interpretation | — |
+| &nbsp;&nbsp;&nbsp;§ 9. The power and effects of Scripture — a fivefold enumeration | — |
+| &nbsp;&nbsp;&nbsp;§ 10. Why the Word does not everywhere bear fruit; against the Enthusiasts | — |
+| &nbsp;&nbsp;&nbsp;§ 11. Against the Papist claim that Scripture is obscure; the two rules on the Fathers | — |
+| &nbsp;&nbsp;&nbsp;§ 12. Scripture as the sole judge in religious controversies; the office of Councils | — |
+| &nbsp;&nbsp;&nbsp;§ 13. Against human traditions; the true interpretation of 2 Thess 2 | — |
+| &nbsp;&nbsp;&nbsp;§ 14. The fourfold difference between pagan and Christian doctrine | — |
 
 &nbsp;
 
 ### *Part One (continued in this tranche)*
 
-|  | Page |
+|  |  |
 |:---|---:|
-| **Chapter II · On God** | 39 |
-| &nbsp;&nbsp;&nbsp;§§ 1–10. How God is to be known · what God is · his four properties · one God · three Persons against Arius/Macedonius/Sabellius · against Jews and Turks · inward distinction of Persons · sum of the mystery · necessity for salvation · the Person of the Father | 39 |
-| **Chapter III · On the Person of Our Lord Christ** | 55 |
-| &nbsp;&nbsp;&nbsp;§§ 1–23. Christ true God + true man · Mary Theotokos · Chalcedonian Definition · communicatio idiomatum · genus maiestaticum · caro vivifica · Christ's knowledge and invocation according to the human nature · Ascension · Right Hand of God as no *Locus Physicus* · state of Humiliation and Exaltation | 55 |
-| **Chapter IV · On the Office of Christ** | 115 |
-| &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103) · the redeemed-sinner exempla — Baptism and Supper as means of appropriation | 115 |
-| **Chapter V · On the Kingdom of Christ** | 127 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Threefold Kingdom (grace / power / glory) · spiritual attributes · Christ the meek King · extent · fivefold work · against Anabaptist externalisation · three differences from earthly kingdoms · practical use | 127 |
-| **Chapter VI · On the Eternal Priesthood** | 137 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Christ our High Priest per Ps. 110 · fourfold function · sevenfold contrast Aaronic vs Christian priesthood · propitiatory vs spiritual sacrifices (against the Mass) · the priesthood of all believers · against the papal claim · use | 137 |
-| **Chapter VII · On the Holy Spirit** | 147 |
-| &nbsp;&nbsp;&nbsp;§§ 1–8. Third Person, from Father and Son via Word and Sacraments · fivefold proof of divine Personhood · four chief works · given through the *verbum externum* (against Schwärmer) · three marks of possession · the Spirit's help in weakness · fruits of the Spirit · use | 147 |
-| **Chapter VIII · On Creation (and Providence)** | 157 |
-| &nbsp;&nbsp;&nbsp;§§ 1–12. Trinity as Creator · *creatio ex nihilo* · Six Days · why God created · pre-Fall goodness · divine sovereignty & freedom · perishing of the world through fire (2 Pet. 3) · Providence in four modes · four *regimens* (spiritual / ecclesiastical / domestic / **political**) · three grounds of Providence · special care for the Church · uses against Epicurus, Stoics, and Peripatetics | 157 |
-| **Chapter IX · On the Angels of God** | 173 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. Angel as office of messenger · nature (image not essence) · two kinds · wiser and mightier than devils · principal office (protect Church + worldly government + household) · not to be worshipped · why they seem hidden | 173 |
-| **Chapter X · On the Evil Angels (Devils)** | 181 |
-| &nbsp;&nbsp;&nbsp;§§ 1–11. *Teufel = Lästerer* · demonic hierarchy · six characteristics (mighty / thousand-arts / liars-and-murderers / envious / melancholy / corrupting) · six pieces of the spiritual armour per Eph. 6 · Satan has no power over God's servants · why God permits demonic trial · against Papist exorcism · whether Devils are saved · where Evil Spirits dwell · Christian consolations | 181 |
-| **Chapter XI · On Man before the Fall** | 195 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Man as God's creature · created by the Trinity in counsel · body from *Aphar* + soul from divine breath · woman from Adam's rib · Image of God as *righteousness and holiness* per Paul · seven attributes of the original state · Image as gift not essence · Man's purpose (know / honour / praise / serve) | 195 |
-| **Chapter XII · On the Fall of Adam (with Free Will after the Fall)** | 203 |
-| &nbsp;&nbsp;&nbsp;§§ 1–13. Beginning of sin in Devil's temptation · seven consequences of the Fall · restoration via the *protoevangelium* (Gen. 3:15) · **Free Will after the Fall** — Augustine's *servum arbitrium* · eight reasons for spiritual inability · conversion as *pur Gnadenwerk Gottes* · not coercion but transformation · Luther's *purè passivè* clarified · use | 203 |
-| **Chapter XIII · On Sin in General** | 217 |
-| &nbsp;&nbsp;&nbsp;§§ 1–8. Sin defined (deficiency + inclination + work) · origin not from God · God's wrath · five fruits of sin · Original vs Actual sin (Augustine's four causes per *Enchiridion*) · Dominant vs Non-Dominant sin (Rom. 6 / Rom. 7) · the unforgivable sin against the Holy Spirit · use | 217 |
-| **Chapter XIV · On the Law of God** | 227 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Law · Two Tables · inability · **triplex usus legis (with POLITICAL use)** · new obedience · three sorts of hearers · ***Politia* seed** | 227 |
-| **Chapter XV · On the Gospel** | 245 |
-| &nbsp;&nbsp;&nbsp;§§ 1–4. What Gospel is · opposition arises from Devil · Gospel establishes not overturns civil order · NT preaches Law with Gospel | 245 |
-| **Chapter XVI · On Justification of the Sinner before God** | 253 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Grace defined · three senses of "Righteousness" · works excluded · OT believers · fruits · against half-and-half · why the begun new obedience is not our righteousness before God | 253 |
-| **Chapter XVII · On Faith in Christ** | 263 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Certain confidence · doubt-remainder not fatal · Faith's own office (Promise) · never alone but distinguishable · Promise/Law · against papal doctrine of doubt · use | 263 |
-| **Chapter XVIII · On God's Eternal Election** | 273 |
-| &nbsp;&nbsp;&nbsp;§§ 1–4. Election in Christ · Augustine's caution · Rom. 9 · Christ + Word + Sacrament as means | 273 |
-| **Chapter XIX · On Good Works** | 281 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Source in the Spirit · heathen and Pharisaic works excluded · only God-commanded works · necessary as fruits · remaining sin | 281 |
-| **Chapter XX · On Love of Neighbour** | 289 |
-| &nbsp;&nbsp;&nbsp;§§ 1–4. Christ's command · 1 Cor. 13 properties · three degrees (fellow believers / all men / enemies) · summa of Second Table | 289 |
-| **Chapter XXI · On Prayer** | 295 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · Christ our sole Mediator (against saint-invocation) · Faith necessary · the Lord's Prayer · circumstances · use | 295 |
-| **Chapter XXII · On the Sacraments in General** | 305 |
-| &nbsp;&nbsp;&nbsp;§§ 1–8. Definition · two only · Christ's institution · elements · purpose · against "bare sign" · against Enthusiast rejection · against Papist seven | 305 |
-| **Chapter XXIII · On Baptism** | 315 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. Not bare water · Faith not to substance but to right use · infant baptism · against papal *character indelibilis* · not repeated · use | 315 |
-| **Chapter XXIV · On the Holy Supper** *(polemical core, largest single locus of the whole book)* | 325 |
-| &nbsp;&nbsp;&nbsp;§§ 1–11. Definition · Christ's institution · *duplex res sacramenti* per Irenaeus IV.34 · manner of presence NOT spatial but supernatural · patristic witness (Ambrose, Epiphanius Ancoratus, Cyril, Hilary, Chrysostom, Irenaeus) · unworthy reception per Augustine *Contra Fulgentium* · **against Reformed Session-at-Right-Hand objection** · eight scriptural proofs · against withholding cup from laity · use | 325 |
-| **Chapter XXV · On the Catholic (Universal) Church** | 355 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · two marks (Word + Sacrament) · mere possession not enough · errs sometimes but keeps foundation · against papal *universalis episcopus* claim | 355 |
-| **Chapter XXVI · On the Power of the Keys** | 365 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Matt. 16 + John 20 · Loosing Key · Binding Key · use through preaching + absolution + excommunication · against papal abuse | 365 |
-| **Chapter XXVII · On Repentance** | 371 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Definition · three parts (contrition + faith + new obedience) · continues lifelong · door always open · not to be deferred to death · three modes of confession · against papal auricular confession | 371 |
-| **Chapter XXVIII · On Scandal (*Ergernuß*)** | 383 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · sources (false prophets, Devil, cupidity, Antichrist) · consequences · three motives to shun · use | 383 |
-| **Chapter XXIX · On the Antichrist** | 389 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · papal identification (Smalcald II.iv + Treatise) · nine marks (Trent, wax-nose, saint-invocation replacing pagan gods, Mass, denial of cup, auricular confession, indulgences, *plenitudo potestatis*, persecution) · Satan's working · Christ's destroying · use | 389 |
-| **Chapter XXX · On the Cross and Suffering** | 397 |
-| &nbsp;&nbsp;&nbsp;§§ 1–3. Definition · six consolations · watchfulness | 397 |
-| **Chapter XXXI · On Secular Authority (Magistracy)** | 401 |
-| &nbsp;&nbsp;&nbsp;§§ 1–9. Rom. 13 institution · three kinds of rulers (belly-servers / honour-seekers / godly) · fourfold office (Nurse of Church, Ps. 82 justice, Rom. 13 punish evil, outward peace) · no power against God · **limit of obedience (Acts 5:29 obey God rather than men; Daniel 3; refusing the Papacy)** · Christians as magistrates · Christians in trade with Golden Rule · use of Imperial Law · use | 401 |
-| **Chapter XXXII · On Marriage** | 415 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Gen. 2 institution · against polygamy · six requirements · six goods (institution / procreation / help / remedy / *officina* of virtues / Ps. 127–128 blessing) · against papal denigration (Dan. 11:37 + 1 Tim. 4:1–3 as Antichrist marks) | 415 |
-| **Chapter XXXIII · On Death** | 423 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. All die · four causes (wrath / warning / physician / longing) · Cyprian *De mortalitate*: *Mihi vivere Christus est, et mori lucrum* · not a substance · passage not end · weeping moderated | 423 |
-| **Chapter XXXIV · On Burial** | 429 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Christian love · against Schoolmen on prayer for dead · Scripture examples (Gileadites, Patriarchs, Apostles) · place not prescribed · Augustine *De cura pro mortuis gerenda* I.12 · reproach of unburial · burial near martyrs' graves | 429 |
-| **Chapter XXXV · On the State of Souls after Death** | 435 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. Souls do not sleep · pious go to Christ (Luke 23:43; 2 Cor. 5:8; Phil. 1:23) · godless in torment (Luke 16:23) · Augustine *De pecc. mer.* I.28 no middle place · 1 Sam. 28 Samuel-appearance was Devil · Matt. 17 Moses+Elias special case | 435 |
-| **Chapter XXXVI · On Purgatory (Refuted)** | 441 |
-| &nbsp;&nbsp;&nbsp;§§ 1–5. Fable from Plato and Virgil · Augustine *Enchiridion* c. 69 only doubtful · 2 Macc. 12 not proof (apocryphal + speaks of Resurrection not Purgatory) · patristic ambiguity not scriptural ground · use | 441 |
-| **Locus XLIII · On the Resurrection of the Dead** | 447 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. Scripture proofs · Paul's seven proofs at 1 Cor. 15 · whole man saved · at the Last Day · properties per 1 Cor. 15 · reprobate too | 447 |
-| **Locus XLIV · On the Last Judgement** | 455 |
-| &nbsp;&nbsp;&nbsp;§§ 1–7. Christ Judge of living and dead · definition · Judge is Christ · who is judged · when (15 signs preceding: false doctrine, wars, political collapse, pestilence, famine, earthquakes, persecutions, apostasy, cooling of love, universal Gospel-preaching, abomination of desolation, false teachers, cosmic signs, sign of Son of Man, universal complacency) · against 2 Pet. 3 scoffers · use | 455 |
-| **Locus XLV · On Hell** | 463 |
-| &nbsp;&nbsp;&nbsp;§§ 1–4. Existence · what it is · eternal duration · use | 463 |
-| **Locus XLVI · On Eternal Life** | 469 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. What reason holds · four proofs · in heaven · through Gospel + Faith · what motivates · closing exhortation *"Come, LORD Jesus"* | 469 |
+| **Chapter II · On God** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–10. How God is to be known · what God is · his four properties · one God · three Persons against Arius/Macedonius/Sabellius · against Jews and Turks · inward distinction of Persons · sum of the mystery · necessity for salvation · the Person of the Father | — |
+| **Chapter III · On the Person of Our Lord Christ** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–23. Christ true God + true man · Mary Theotokos · Chalcedonian Definition · communicatio idiomatum · genus maiestaticum · caro vivifica · Christ's knowledge and invocation according to the human nature · Ascension · Right Hand of God as no *Locus Physicus* · state of Humiliation and Exaltation | — |
+| **Chapter IV · On the Office of Christ** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–3. The fourfold office (Redemption + fulfilment of the Law + Preaching-office and Sacraments + sending of the Spirit) · appropriation of the benefits through faith · comfort against great sin (Rom. 5; Matt. 9, 11; Luke 15; Isa. 1; Ps. 103) · the redeemed-sinner exempla — Baptism and Supper as means of appropriation | — |
+| **Chapter V · On the Kingdom of Christ** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Threefold Kingdom (grace / power / glory) · spiritual attributes · Christ the meek King · extent · fivefold work · against Anabaptist externalisation · three differences from earthly kingdoms · practical use | — |
+| **Chapter VI · On the Eternal Priesthood** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Christ our High Priest per Ps. 110 · fourfold function · sevenfold contrast Aaronic vs Christian priesthood · propitiatory vs spiritual sacrifices (against the Mass) · the priesthood of all believers · against the papal claim · use | — |
+| **Chapter VII · On the Holy Spirit** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Third Person, from Father and Son via Word and Sacraments · fivefold proof of divine Personhood · four chief works · given through the *verbum externum* (against Schwärmer) · three marks of possession · the Spirit's help in weakness · fruits of the Spirit · use | — |
+| **Chapter VIII · On Creation (and Providence)** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–12. Trinity as Creator · *creatio ex nihilo* · Six Days · why God created · pre-Fall goodness · divine sovereignty & freedom · perishing of the world through fire (2 Pet. 3) · Providence in four modes · four *regimens* (spiritual / ecclesiastical / domestic / **political**) · three grounds of Providence · special care for the Church · uses against Epicurus, Stoics, and Peripatetics | — |
+| **Chapter IX · On the Angels of God** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Angel as office of messenger · nature (image not essence) · two kinds · wiser and mightier than devils · principal office (protect Church + worldly government + household) · not to be worshipped · why they seem hidden | — |
+| **Chapter X · On the Evil Angels (Devils)** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–11. *Teufel = Lästerer* · demonic hierarchy · six characteristics (mighty / thousand-arts / liars-and-murderers / envious / melancholy / corrupting) · six pieces of the spiritual armour per Eph. 6 · Satan has no power over God's servants · why God permits demonic trial · against Papist exorcism · whether Devils are saved · where Evil Spirits dwell · Christian consolations | — |
+| **Chapter XI · On Man before the Fall** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Man as God's creature · created by the Trinity in counsel · body from *Aphar* + soul from divine breath · woman from Adam's rib · Image of God as *righteousness and holiness* per Paul · seven attributes of the original state · Image as gift not essence · Man's purpose (know / honour / praise / serve) | — |
+| **Chapter XII · On the Fall of Adam (with Free Will after the Fall)** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–13. Beginning of sin in Devil's temptation · seven consequences of the Fall · restoration via the *protoevangelium* (Gen. 3:15) · **Free Will after the Fall** — Augustine's *servum arbitrium* · eight reasons for spiritual inability · conversion as *pur Gnadenwerk Gottes* · not coercion but transformation · Luther's *purè passivè* clarified · use | — |
+| **Chapter XIII · On Sin in General** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Sin defined (deficiency + inclination + work) · origin not from God · God's wrath · five fruits of sin · Original vs Actual sin (Augustine's four causes per *Enchiridion*) · Dominant vs Non-Dominant sin (Rom. 6 / Rom. 7) · the unforgivable sin against the Holy Spirit · use | — |
+| **Chapter XIV · On the Law of God** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Law · Two Tables · inability · **triplex usus legis (with POLITICAL use)** · new obedience · three sorts of hearers · ***Politia* seed** | — |
+| **Chapter XV · On the Gospel** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. What Gospel is · opposition arises from Devil · Gospel establishes not overturns civil order · NT preaches Law with Gospel | — |
+| **Chapter XVI · On Justification of the Sinner before God** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Grace defined · three senses of "Righteousness" · works excluded · OT believers · fruits · against half-and-half · why the begun new obedience is not our righteousness before God | — |
+| **Chapter XVII · On Faith in Christ** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Certain confidence · doubt-remainder not fatal · Faith's own office (Promise) · never alone but distinguishable · Promise/Law · against papal doctrine of doubt · use | — |
+| **Chapter XVIII · On God's Eternal Election** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Election in Christ · Augustine's caution · Rom. 9 · Christ + Word + Sacrament as means | — |
+| **Chapter XIX · On Good Works** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Source in the Spirit · heathen and Pharisaic works excluded · only God-commanded works · necessary as fruits · remaining sin | — |
+| **Chapter XX · On Love of Neighbour** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Christ's command · 1 Cor. 13 properties · three degrees (fellow believers / all men / enemies) · summa of Second Table | — |
+| **Chapter XXI · On Prayer** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · Christ our sole Mediator (against saint-invocation) · Faith necessary · the Lord's Prayer · circumstances · use | — |
+| **Chapter XXII · On the Sacraments in General** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–8. Definition · two only · Christ's institution · elements · purpose · against "bare sign" · against Enthusiast rejection · against Papist seven | — |
+| **Chapter XXIII · On Baptism** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Not bare water · Faith not to substance but to right use · infant baptism · against papal *character indelibilis* · not repeated · use | — |
+| **Chapter XXIV · On the Holy Supper** *(polemical core, largest single locus of the whole book)* | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–11. Definition · Christ's institution · *duplex res sacramenti* per Irenaeus IV.34 · manner of presence NOT spatial but supernatural · patristic witness (Ambrose, Epiphanius Ancoratus, Cyril, Hilary, Chrysostom, Irenaeus) · unworthy reception per Augustine *Contra Fulgentium* · **against Reformed Session-at-Right-Hand objection** · eight scriptural proofs · against withholding cup from laity · use | — |
+| **Chapter XXV · On the Catholic (Universal) Church** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · two marks (Word + Sacrament) · mere possession not enough · errs sometimes but keeps foundation · against papal *universalis episcopus* claim | — |
+| **Chapter XXVI · On the Power of the Keys** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Matt. 16 + John 20 · Loosing Key · Binding Key · use through preaching + absolution + excommunication · against papal abuse | — |
+| **Chapter XXVII · On Repentance** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Definition · three parts (contrition + faith + new obedience) · continues lifelong · door always open · not to be deferred to death · three modes of confession · against papal auricular confession | — |
+| **Chapter XXVIII · On Scandal (*Ergernuß*)** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Definition · sources (false prophets, Devil, cupidity, Antichrist) · consequences · three motives to shun · use | — |
+| **Chapter XXIX · On the Antichrist** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · papal identification (Smalcald II.iv + Treatise) · nine marks (Trent, wax-nose, saint-invocation replacing pagan gods, Mass, denial of cup, auricular confession, indulgences, *plenitudo potestatis*, persecution) · Satan's working · Christ's destroying · use | — |
+| **Chapter XXX · On the Cross and Suffering** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–3. Definition · six consolations · watchfulness | — |
+| **Chapter XXXI · On Secular Authority (Magistracy)** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–9. Rom. 13 institution · three kinds of rulers (belly-servers / honour-seekers / godly) · fourfold office (Nurse of Church, Ps. 82 justice, Rom. 13 punish evil, outward peace) · no power against God · **limit of obedience (Acts 5:29 obey God rather than men; Daniel 3; refusing the Papacy)** · Christians as magistrates · Christians in trade with Golden Rule · use of Imperial Law · use | — |
+| **Chapter XXXII · On Marriage** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Gen. 2 institution · against polygamy · six requirements · six goods (institution / procreation / help / remedy / *officina* of virtues / Ps. 127–128 blessing) · against papal denigration (Dan. 11:37 + 1 Tim. 4:1–3 as Antichrist marks) | — |
+| **Chapter XXXIII · On Death** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. All die · four causes (wrath / warning / physician / longing) · Cyprian *De mortalitate*: *Mihi vivere Christus est, et mori lucrum* · not a substance · passage not end · weeping moderated | — |
+| **Chapter XXXIV · On Burial** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Christian love · against Schoolmen on prayer for dead · Scripture examples (Gileadites, Patriarchs, Apostles) · place not prescribed · Augustine *De cura pro mortuis gerenda* I.12 · reproach of unburial · burial near martyrs' graves | — |
+| **Chapter XXXV · On the State of Souls after Death** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Souls do not sleep · pious go to Christ (Luke 23:43; 2 Cor. 5:8; Phil. 1:23) · godless in torment (Luke 16:23) · Augustine *De pecc. mer.* I.28 no middle place · 1 Sam. 28 Samuel-appearance was Devil · Matt. 17 Moses+Elias special case | — |
+| **Chapter XXXVI · On Purgatory (Refuted)** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Fable from Plato and Virgil · Augustine *Enchiridion* c. 69 only doubtful · 2 Macc. 12 not proof (apocryphal + speaks of Resurrection not Purgatory) · patristic ambiguity not scriptural ground · use | — |
+| **Locus XLIII · On the Resurrection of the Dead** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Scripture proofs · Paul's seven proofs at 1 Cor. 15 · whole man saved · at the Last Day · properties per 1 Cor. 15 · reprobate too | — |
+| **Locus XLIV · On the Last Judgement** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Christ Judge of living and dead · definition · Judge is Christ · who is judged · when (15 signs preceding: false doctrine, wars, political collapse, pestilence, famine, earthquakes, persecutions, apostasy, cooling of love, universal Gospel-preaching, abomination of desolation, false teachers, cosmic signs, sign of Son of Man, universal complacency) · against 2 Pet. 3 scoffers · use | — |
+| **Locus XLV · On Hell** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Existence · what it is · eternal duration · use | — |
+| **Locus XLVI · On Eternal Life** | — |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. What reason holds · four proofs · in heaven · through Gospel + Faith · what motivates · closing exhortation *"Come, LORD Jesus"* | — |
 
 &nbsp;
 
@@ -284,7 +284,7 @@ A working English edition translated by
 
 *See Translator's Note § 5 for scope notes on the intermediate Chapter XXXI–XLIV that were surveyed but not developed in canvas-by-canvas detail; a future revision will fill them in.*
 
-|  | Approx. cv |
+|  |  |
 |:---|---:|
 | Continuation of Chapter IV sinner-list + *Vom Reich Christi* (Kingdom of Christ) | 109–149 |
 | *Von bösen Engeln* (evil angels — locus continues back to good angels) | ~150 |
@@ -306,11 +306,11 @@ A working English edition translated by
 
 ### *Back Matter (this tranche)*
 
-|  | Page |
+|  |  |
 |:---|---:|
-| Notes | 37 |
-| Glossary of Terms | 45 |
-| Colophon | 51 |
+| Notes | — |
+| Glossary of Terms | — |
+| Colophon | — |
 
 — ❦ —
 
@@ -353,8 +353,8 @@ Following the [Praetorius](../../shared/) reference implementation and the Chytr
 
 - **Register:** scholarly-critical English, reverent but not archaizing. Kirchner's baroque doublets are preserved in substance without being reproduced beat-for-beat where English idiom cannot bear them.
 - **Q&A layout:** questions in **bold**, answers in regular weight, Kirchner's numbered points preserved. Where the source runs question and answer together without a paragraph break, the English inserts one for legibility and marks nothing.
-- **Latin quotations** are preserved in italic Roman with an English rendering following in parentheses or on the next line; the same rule holds for Greek. Kirchner uses no Hebrew in this Hauptstück.
-- **Vocabulary:** the master glossary at `../../shared/terms.yaml` governs. New Kirchner-specific terms this tranche adds: *Enchiridion* (preserved untranslated as the book's own name); *Sacramentierer* rendered as "**Sacramentarians**" (Kirchner's standard 1583 label for the Reformed on the Supper); *Hauptstück* rendered as "**chief chapter**" or "**chief head**"; *Symbolum Apostolicum* / *Chalcedonense* preserved untranslated; *Concordi Buch* rendered "**Book of Concord**"; *Papisten* rendered "**Papists**" per Kirchner's own polemical usage. The Nehemiah-typological cluster (*Kirchenbaw*, *Widerauffbawung*, *Schwerdt des Geistes*) is rendered "the **building of the Church**," "the **rebuilding**," "the **sword of the Spirit**" — the metaphor is Kirchner's spine and must survive the translation intact.
+- **Latin quotations** are preserved in italic Roman with an English rendering following in parentheses or on the next line; the same rule holds for Greek. Kirchner uses no Hebrew in this Chapter.
+- **Vocabulary:** the master glossary at `../../shared/terms.yaml` governs. New Kirchner-specific terms: *Enchiridion* (preserved untranslated as the book's own name); *Sacramentierer* rendered as "**Sacramentarians**" (Kirchner's 1583 label for the Reformed on the Supper); ***Hauptstück* rendered as "Chapter"** throughout the body — the German original is preserved in the glossary entry so the reader can trace back to Kirchner's own numbering; *Symbolum Apostolicum* / *Chalcedonense* preserved untranslated; *Concordi Buch* rendered "**Book of Concord**"; *Papisten* rendered "**Papists**" per Kirchner's own polemical usage. The Nehemiah-typological cluster (*Kirchenbaw*, *Widerauffbawung*, *Schwerdt des Geistes*) is rendered "the **building of the Church**," "the **rebuilding**," "the **sword of the Spirit**" — the metaphor is Kirchner's spine and must survive the translation intact.
 - **Bible:** ESV for English rendering. Vulgate numbering is noted where Kirchner cites in Vulgate form. **Erod.** = Exodus; **Actor.** = Acts; **Pfal.** = Psalm; **Deut.** = Deuteronomy; **Genef.** = Genesis; **Jefai.** = Isaiah. Modernised inline; the 1583 abbreviations are recorded in an endnote at first occurrence only.
 - **Orthography:** 1583 forms silently modernised in the English — *vnd* → *und* in preserved German phrases; long-*ſ* → *s*; *w.* (Kirchner's mid-word abbreviation) expanded; hyphenated line-breaks joined; the terminal *ẑ* rendered *ß* in German source citations, *s* in English body. Where the 1583 orthography preserves a doctrinally meaningful spelling — *Christlichen Concordi Buchs* — it stands.
 - **Dividers:** `— ❦ —` (em-dash · aldus leaf · em-dash) at section breaks.
@@ -3862,8 +3862,8 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 |:---|:---|:---|
 | **Enchiridion** | Handbook, little handbook | Preserve untranslated — the book's own title-genre. From Greek *ἐγχειρίδιον*, "in-the-hand," a portable handbook. Not equivalent to the modern "textbook"; carries the connotation of *portable* reference for the daily walk. Used by Kirchner throughout the Vorrede as the standing name for the present work. |
 | **Sacramentierer** | Sacramentarians | Kirchner's standing 1583 term for the Reformed, on the grounds of their disagreement with Lutherans on the Lord's Supper. Not a term the Reformed used of themselves; a Lutheran polemical designation. Preserve the English "Sacramentarians" rather than modernising to "Reformed"; the term is the doctrinal claim, not a neutral confessional label. |
-| **Schwärmer** | Enthusiasts (technical Lutheran sense) | Literal: "swarmers." Luther's collective term for the radical spiritualists — Karlstadt, Müntzer, the Zwickau prophets, later Schwenkfeld. The Lutheran technical charge is that they claim the Spirit apart from the *verbum externum* (external Word). Preserve as "Enthusiasts" in the English body, with the German on first occurrence per Hauptstück. |
-| **Hauptstück** | Chief chapter, chief head | The standing organising unit of Lutheran catechesis, from Luther's *Small Catechism*. Kirchner's *Enchiridion* is organised by Hauptstück, not by *Locus* (Chytraeus) or *Articulus* (later scholastics). Render as "chief chapter" for the primary occurrence; abbreviate as "Hauptstück" thereafter within a given locus. |
+| **Schwärmer** | Enthusiasts (technical Lutheran sense) | Literal: "swarmers." Luther's collective term for the radical spiritualists — Karlstadt, Müntzer, the Zwickau prophets, later Schwenkfeld. The Lutheran technical charge is that they claim the Spirit apart from the *verbum externum* (external Word). Preserve as "Enthusiasts" in the English body, with the German on first occurrence per Chapter. |
+| **Hauptstück** | Chapter (in this translation) | The standing organising unit of Lutheran catechesis, from Luther's *Small Catechism* (which is organised as *fünf Hauptstücke*, "Five Chief Parts"). Kirchner's *Enchiridion* is organised by *Hauptstück*, not by *Locus* (Chytraeus) or *Articulus* (later scholastics). **In this working translation the German term is rendered "Chapter" throughout the body headings and cross-references**, for the sake of a natural English reader-experience. The German original is preserved here in the glossary and in the concluding locus-numbering (where Kirchner himself explicitly numbers his eschatological loci as *XLIII. Von der Aufferstehung, XLIV. Vom Jüngsten Gericht, XLV. Von der Hell, XLVI. Vom ewigen Leben*) so that "Chapter XLIII" corresponds to Kirchner's own *XLIII. Hauptstück* and the reader can trace the reference back to the source. |
 | **Widmungsvorrede** | Dedicatory Preface | The 16th-century formal genre: a preface addressed to a named patron, functioning simultaneously as dedication, statement of purpose, patronage-request, and confessional statement. Kirchner's is unusually theologically substantive — the whole Nehemiah typology is worked out in it — and reads as a small tract in its own right. |
 | **Bapsthumb** | Papacy | Kirchner's spelling of *Papstthum*, the papal system as a doctrinal-institutional whole. Rendered "the papacy" in the English body. |
 | **Papisten** | Papists | Kirchner's designation for adherents of the papal system. Preserve the polemical form; the source uses it throughout. Not a term of theological neutrality but the standing 16th-century Lutheran usage. |
@@ -3871,7 +3871,7 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 | **Symbolum** | Symbol (Creed) | The credal formulations: **Symbolum Apostolicum** = Apostles' Creed; **Symbolum Chalcedonense** = Chalcedonian Definition; **Symbolum Nicaenum** = Nicene Creed. Preserve untranslated in Kirchner's citation form. |
 | **Kirchenbaw / Widerauffbawung** | Church-building / Rebuilding | The Nehemiah-typological cluster in the Vorrede: the Reformation as *rebuilding* of the Church after papal captivity. Render the metaphor consistently; do not paraphrase into "reformation" or "reform" — the *building* image is Kirchner's spine. |
 | **Schwerdt des Geistes** | Sword of the Spirit | Ephesians 6:17 language, invoked in the Nehemiah typology: teachers and Christians armed with the Word against error. Render literally. |
-| **Anfechtung** | Temptation, trial, spiritual assault | The Lutheran technical term for spiritual trial — not merely temptation to sin but the wider assault on faith and conscience by the devil, the world, the flesh, and God's own hiddenness. Preserve the German on first occurrence per Hauptstück; render "temptation" or "trial" in ordinary flow, "Anfechtung" where the technical weight matters. |
+| **Anfechtung** | Temptation, trial, spiritual assault | The Lutheran technical term for spiritual trial — not merely temptation to sin but the wider assault on faith and conscience by the devil, the world, the flesh, and God's own hiddenness. Preserve the German on first occurrence per Chapter; render "temptation" or "trial" in ordinary flow, "Anfechtung" where the technical weight matters. |
 | **verbum externum** | External Word | The preached and written Word as the ordinary means of the Spirit, over against the Enthusiasts' claim to an unmediated inner Word. Preserve untranslated in doctrinal loci. |
 | **Fürnembste Hauptstück** | Chief chapters | The title-formula: "the *chief* Chapter of Christian doctrine." Signals that the *Enchiridion* is not a complete dogmatics but a selective catechesis on the *disputed* points — those between Lutherans and Papists on the one side, Lutherans and Reformed on the other. |
 | **Fromm** | Pious, upright, honest | 16th-century *fromm* carries the older sense of "upright, honest, of integrity" as much as the later narrowly-religious "pious." Kirchner uses it in the older wider sense: *frommen Herzen* = "upright hearts." |
