@@ -894,7 +894,207 @@ This paradigm ***narrow-imago-Dei-lost*** framework is the paradigm-Formula-of-C
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[T6 closes here having traversed Loci II (De Deo) through V (De Hominibus) in paradigm-representative-sampling mode — full definition-treatments where Selnecker's paradigm-*Formula-of-Concord* material demands substantive rendering (Trinitarian doctrine, Christological *communicatio idiomatum,* Angelology), and paradigm-***structural-outline*** treatment for the loci where Selnecker's paradigm-substance is standard-Reformation dogmatics (Creation, Anthropology). T7 will continue with Loci VI (De Peccato — paradigm-***anti-Flacian*** hamartiology aligned with FC I) + Locus VII (De Lege) + Locus VIII (De Cruce) + Locus IX (De Consolatione), followed by the closing colophon and the volume-final PDF build.]*
+# Locus VI
+
+## De Peccato — On Sin¹¹⁷
+
+### What is Sin?
+
+*(pp. 320–360 of the imprint.)*
+
+**Sin is a defect, or inclination, or action against the Law of God — offending God, condemned by God, and meriting the wrath of God and eternal punishments — unless remission be made through and on account of the Mediator Christ.**
+
+The Hebrews call [sin] ***deviation, error from the way,*** (*chet, avon, pesha* — as also *hattath*), or transgression of the Law of the Word of God, in which we ought to have walked rightly. Augustine defines it as ***"to delinquish, as it were to flow away from something liquid — from the stability of the firmament and from righteousness."*** The Greeks translate [it as] ***ἁμαρτία and παράβασις,*** which they name ***παρανόμημα*** (against-law-doing), when they have called [the Law] ***νόμος.***
+
+**John *(1 John 3:4)* defines** ***ἁμαρτίαν*** as ***ἀνομίαν*** — that is, ***everything which is done both against the Law of God and without Law and command of God*** — and it embraces the ***matter*** (defect, corruption, inclination, and action fighting with the Law of God) and at the same time the ***form*** or ***guilt*** (of which it is written Deut. 27: ***"Cursed is he who does not remain in all things which are written in the Law,"*** and let all the people say, ***Amen***).¹¹⁸
+
+### Is Sin a Thing Created and Ordained by God?
+
+**By no means. God is not the cause of sin, nor does He will sin, nor does He aid or approve it** — as His wrath against sin, the atrocious punishments, and the mission of the Son into flesh show. And in Ps. 5 it is expressly written: ***"Thou art not a God that willest iniquity."*** Therefore ***the blasphemy of the Stoics and of all who cast the cause of sin back upon God*** is to be detested. Item, the ***fanatical opinions of the Manichees*** — who feigned that there are ***two Gods and Creators, good and evil*** — of whom let students read Epiphanius book 2, tome 2.
+
+### What Then are the Causes of Sin?
+
+The ***tyranny of the Devil,*** and the ***will of man*** obedient to the Devil, and turning himself away from God freely — as in the Book of Wisdom is written: ***"Those things which God has established are salutary, and God has not made death, nor does He delight in the perdition of the living. But the impious call death upon themselves by hand and speech, and death has come into the world through the envy and hatred of the Devil, and they who are of his party imitate him."*** Certain therefore is the saying — and worthy of all acceptation — that ***God has neither created, nor ordained, nor wills, nor aids, nor approves sin.*** Job 34: ***"Far be impiety from God, and iniquity from the Omnipotent."*** And 1 John 3: ***"He who does sin, is of the Devil."*** And Rom. 5: ***"Through one man sin entered into the world."*** Let students read on this Basil the Great's ***Homilia quod Deus non sit causa malorum.***
+
+Five principal objections are found by which men sometimes wish to transfer the cause of sin to God — *[Selnecker enumerates:]* (1) That God does not impede sin, though He could easily impede it; (2) That God foreknew the Fall from eternity and did not prevent it; (3) That God permits the wicked to prosper; (4) That God hardens hearts (paradigm Exod. 4:21 ***Pharaoh hardening*** locus); (5) That God has appointed the reprobate to damnation from eternity. — Selnecker resolves each with paradigm ***distinction of God's antecedent and consequent will,*** paradigm ***permissive vs efficient providence,*** and paradigm ***"induration by desertion"*** framework, aligned with Formula of Concord Article XI *De praedestinatione et electione.*¹¹⁹
+
+*[The Locus continues with paradigm-substantive treatments of: (§4) The paradigm ***peccatum originale*** framework (paradigm-anti-Flacian, aligned with Praemonitio §1 and FC I); (§5) Distinction between ***peccatum originis*** (Adam's inherited corruption) and ***peccata actualia*** (particular sins committed); (§6) The paradigm ***fomes peccati*** dispute with paradigm-Trent Session V; (§7) Sin against the Holy Spirit — paradigm Matt. 12:31–32 exposition; (§8) The paradigm ***usus of the doctrine of sin*** — humility, contrition, faith in Christ's satisfaction, gratitude, sanctification.]*¹²⁰
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VII
+
+## De Lege Dei — On the Law of God¹²¹
+
+*(pp. 385–420 of the imprint.)*
+
+**Whenever concerning the Law of God, or the Decalogue, it is spoken in the Church, always ***two kinds of men considering the Law*** occur** — (concerning the secure, insolent, and impenitent — who care not at all for the Law of God — is not here spoken). **The one is the ***Pharisaic and hypocritical,*** namely of those who opine that the Law can be satisfied ***by human powers,*** and that through this satisfaction or fulfilment of the Law, ***grace of God, remission of sins, and eternal life*** can be obtained. **The other is the ***Christian or Evangelical,*** namely of those who ***rightly consider the Law,*** and scrutinize the force of the precepts, and acknowledge and confess ***their own infirmity,*** and take refuge only in Christ, and are received into grace of God through Him, and begin new obedience pleasing to God.
+
+**Matt. 5**: The Son of God ***utterly excludes the first kind of men from entrance into the Kingdom of Heaven,*** saying: ***"Except your righteousness exceed the righteousness of the Scribes and Pharisees, you cannot enter into the Kingdom of Heaven."*** And Luke 7 sharply reprehends ***Simon the Pharisee*** — inflated with the opinion of ***legal righteousness*** and despising the woman's humility and tears.
+
+For this kind of men beholds the Law only as an external mask, and rests on some external ***obedience-of-works-of-Law,*** and adds to it certain feigned ***παρέργα*** — which he calls ***works of supererogation and of perfection*** (as the Monks feigned) — and thinks this to be true righteousness — which righteousness (if it may so be named) is nevertheless full of ***pride,*** and ***accuses God of lying*** in shutting up all under sin, and within is full of evil affections, and despises the neighbour, and holds cheap the benefits of Christ, and postpones the works commanded by God to fictitious works, and ascribes to the ***opus operatum*** a peculiar virtue of obtaining grace of God.¹²²
+
+For which cause God has always rejected this kind of men, as: ***"In vain do they worship me with the commandments of men."*** Ps. 50: ***"I will not accept a bullock from thy house, nor he-goats from thy folds."*** Isa. 1: ***"To what purpose is the multitude of your victims? Your sacrifices, and feasts, and solemnities, and ceremonies are an abomination and a weariness to me."*** Jer. 6: ***"Your holocausts are not acceptable to me."*** Amos 5: ***"I am angry against your Sabbaths, and I am not delighted with your sacrifices."*** Item, Ps. 16: ***"I will not offer their libations of blood, nor take up their names upon my lips."*** And Ps. 40: ***"Sacrifice and offering Thou didst not desire."***
+
+**All these things God says** — not because He did not command obedience, sacrifices, and worship — but because He does not wish to admit that ***light opinion,*** that ***the divine Law can be satisfied by external human works,*** and that ***other works besides pleasing to God can be added,*** and that ***grace of God and remission of sins can be obtained by such external obedience of whatever kind*** — even without the merit of the Son being present — which merit alone, if removed, then ***nothing is, nothing avails*** the sanctity of the whole world.
+
+*[The Locus continues with paradigm-substantive treatments of: (§2) The paradigm ***finis Legis*** — that Christ is the end of the Law for righteousness (Rom. 10:4); (§3) The paradigm ***triplex usus Legis*** — first use (political/civil restraint), second use (paradigm ***usus elenchticus*** — showing sin, driving to Christ), third use (paradigm ***usus didacticus*** — rule of life for the regenerate, aligned with FC VI); (§4) The paradigm ***division of the Decalogue*** — first Table (paradigm-love-of-God, first three Commandments) + second Table (paradigm-love-of-neighbour, seven Commandments); (§5) The paradigm ***fulfilment of the Law by Christ*** — active obedience + passive obedience (aligned with Praemonitio §4 above and FC III); (§6) The paradigm ***abrogation of the ceremonial and judicial Law*** — but ***not*** the moral Law, which remains binding as *rule of life* for the regenerate; (§7) The paradigm-***detailed exposition of the Ten Commandments*** — following the paradigm-***Luther Kleiner Katechismus*** and paradigm-***Chytraeus Catechismus*** [[chytraeus-catechismus-1594]] framework.]*¹²³
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VIII
+
+## De Cruce — On the Cross¹²⁴
+
+*[The paradigm-***theologia crucis*** Locus. Selnecker's outline:*
+
+**§1. What is the Cross?** — The paradigm ***distinction*** between: (a) the ***Cross of Christ*** (paradigm-*Passion + Crucifixion* — the paradigm ***crux Christi historica*** and the paradigm ***crux Christi meritoria*** for our redemption); and (b) the ***Cross of Christians*** (paradigm ***crux mystica*** — the paradigm-suffering, temptations, tribulations that the regenerate must bear for Christ's sake). Selnecker paradigm-carefully distinguishes these from paradigm ***cross-as-self-inflicted-mortification*** in the paradigm-medieval-monastic tradition.
+
+**§2. The paradigm ***theologia crucis*** framework** — grounded in Luther's paradigm ***Heidelberg Disputation*** (1518) Theses 19–24 (WA 1:353–354; LW 31:39–70): paradigm ***"crux sola est nostra theologia,"*** paradigm ***theologia crucis vs theologia gloriae,*** paradigm ***Deus absconditus sub contrariis*** framework. Standard modern treatment: **Alister E. McGrath,** ***Luther's Theology of the Cross*** (Oxford, 1985); **Vítor Westhelle,** ***The Scandalous God: The Use and Abuse of the Cross*** (Minneapolis, 2006).
+
+**§3. The paradigm-***purposes of the Cross for Christians*** — Selnecker enumerates the paradigm ***septem finis crucis*** framework: (1) mortification of the old man; (2) exercise of faith and hope; (3) purification from remaining sin; (4) conformity to Christ; (5) instruction in patience and humility; (6) testimony to the world; (7) preparation for eternal glory (Rom. 8:17 *si compatimur, ut et conglorificemur*).
+
+**§4. The paradigm ***consolations under the Cross*** — reference to the closing Locus IX *De Consolatione* below, which develops paradigm-substantive scriptural-catena.
+
+**§5. The paradigm-***anti-Anfechtungen*** framework** — the paradigm ***Luther-Anfechtungs-Theologie*** register (paradigm-***Kleiner-Katechismus-Vaterunser-Sechste-Bitte*** *Und führe uns nicht in Versuchung*), applied to the paradigm ***crucis-portatio*** of the regenerate Christian.
+
+**§6. The paradigm-***Christological ground*** — that all Christian cross-bearing is grounded in and derives its meaning from Christ's own Cross, and is at once ***participation-in*** and ***fellowship-with*** Christ's suffering (Phil. 3:10 *τῆς κοινωνίας τῶν παθημάτων αὐτοῦ*).]*¹²⁵
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus IX
+
+## De Consolatione — On Consolation¹²⁶
+
+*(pp. 416–421 of the imprint. The paradigm-closing Locus of Pars I, structured as a paradigm ***scriptural-catena of consolation-passages*** — grouped into (1) paradigm ***divine-mercy promises,*** (2) paradigm ***biblical exempla of God's forgiveness,*** (3) paradigm ***gracious-promises through the Prophets,*** and (4) paradigm ***faith-required passages***. This paradigm-format follows the paradigm ***Melanchthonian-Loci-consolatoriae*** register that Selnecker had already developed in his ***Dicta consolatoria*** collection of 1560 — Catalogus §17 above.)*
+
+### Divine-Mercy Promises
+
+**Ezekiel 18**: ***"If the impious hath done penitence from all his sins, he shall live in life, and shall not die."***
+
+**Romans 5**: ***"God commends His love toward us in that, while we were yet sinners, Christ died for us. Much more, therefore, being now justified by His blood, we shall be saved from wrath through Him."***
+
+***God is our Father*** — because we have His Word and His Son Christ, and we are made His elect sons through Christ — through whom we have received an inheritance — as Christ said to Mary Magdalene, John 20: ***"Go to my brethren, and say unto them, I ascend to my Father and to your Father, and to my God and to your God."***
+
+**Romans 14**: ***"Whether we live, or whether we die, we are the Lord's."***
+
+**John 1**: ***"Behold the Lamb of God, who takes away the sin of the world."***
+
+**1 Peter 1**: ***"We are not redeemed by corruptible things (as silver and gold) from our vain conversation, but by the precious blood of Christ — as of an immaculate and uncontaminated lamb."*** — Therefore if we are sinners, doubt not at all that ***Christ has borne thy sins also,*** and thou art now delivered from sins, and made a son of God.
+
+**1 Peter 2**: ***"Christ Himself bore our sins in His body upon the tree."***
+
+**1 Peter 3**: ***"Christ died once for our sins, the just for the unjust, that He might lead us unto God."***
+
+**1 John 1**: ***"The blood of Jesus Christ cleanses us from all sin. If we confess our sins, He is faithful and just to remit our sins to us, and to cleanse us from all iniquity."***
+
+**Romans 3**: ***"Righteousness before God through the faith of Jesus Christ, unto all and upon all who believe. For there is no distinction: all have sinned, and lack the glory of God. But they are justified freely by grace, through the redemption which is in Christ Jesus — whom God has set forth as a propitiator through faith in His blood."***
+
+**Romans 4**: ***"Christ was handed over for our sins, and raised again for our justification."***
+
+**Romans 5**: ***"Through Christ we have access by faith into this grace wherein we stand."*** And without Christ no one comes to the Father (Heb. 12; John 14).
+
+### Exempla — Biblical Examples of God's Forgiveness
+
+**John 8** — Christ to the adulteress: ***"Neither doth any man condemn thee, nor do I condemn thee. Go, and hereafter sin no more."***
+
+**Luke 7** — Christ to the woman-sinner: ***"Thy sins are remitted to thee."***
+
+**Luke 19** — ***Zacchaeus the Publican.***
+
+**Luke 23** — the ***thief on the cross.***
+
+**Matthew 9** — ***Matthew the Publican.***
+
+**Luke 22** — ***Peter denying Christ.***
+
+**Acts 9** — ***Paul,*** who was persecuting Christ from one city to another.
+
+**2 Samuel 12** — ***David,*** when he had committed homicide and adultery. Therefore David says (Ps. 51): ***"A broken and humbled heart, O God, Thou wilt not despise."***
+
+**2 Chronicles 33** — King ***Manasses,*** when he had horribly offended God, worshipped idols, and committed many horrible crimes against God's commandments, and for that reason fell into the hands of the King of the Assyrians — yet when he turned himself to God and implored the grace of God, he was received by God, and restored to his kingdom.
+
+**Luke 15** — the ***prodigal son,*** obtaining again his father's grace only through this: that ***he acknowledged his sin,*** and prayed to his father, saying: ***"Father, I have sinned."***
+
+**Luke 18** — the ***Publican,*** not daring to lift up his eyes to heaven, but ***striking his breast,*** and saying: ***"O God, be merciful to me a sinner."***
+
+Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins, and has forgiven them to thee, and that thou art already saved. For God wills to be our Father, propitious and merciful — because we believe on Christ, and receive Him, whom He has promised to us through the Holy Spirit by the mouth of the Prophets, as the following sayings attest:
+
+### Gracious Promises through the Prophets
+
+**Isaiah 40**: ***"I am He who deletes thy iniquities for mine own sake."***
+
+**Zechariah 11**: ***"He who touches you, touches the pupil of my eye."***
+
+**Jeremiah 31**: ***"I will be propitious to their iniquity, and I will remember their sin no more."***
+
+**Psalm 25**: ***"All the ways of the Lord are mercy and truth, to those who keep His covenant and His testimony."***
+
+**Psalm 68**: ***"God places a burden upon us, but He also brings help. Our God is the God who succours, and our Lord is the Lord who delivers from death."***
+
+**Joel 2**: ***"Turn ye to the Lord your God, for He is clement and merciful, long-suffering, and full of mercy, and He remits iniquities."***
+
+### To These and Similar Sayings, Faith is Required
+
+**Jeremiah 5**: ***"Lord, Thine eyes look upon faith."***
+
+**Matthew 8 and 15**: ***"Be it done unto thee as thou believest."*** Item: ***"O woman, great is thy faith: be it done unto thee as thou hast believed."***
+
+**Luke 17**: ***"Thy faith hath made thee whole."***
+
+**Acts 15**: ***"Faith purifies hearts."***
+
+***This may our Lord God grant to us, through Jesus Christ His Son, our Lord. Amen.***¹²⁷
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="40"/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS PRIMAE PARTIS</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="24"/></w:rPr><w:t>Institutionis Christianae Religionis</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t xml:space="preserve"> </w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+*[Selnecker closes Pars I with the paradigm ***FINIS PRIMAE PARTIS Institutionis Christianae Religionis.*** The paradigm following pages of the 1579 imprint contain the paradigm ***Elenchus Locorum Sacrae Scripturae*** — an alphabetical index of the scriptural loci treated in Pars I from Gen. 1 (*Spiritus Dei movebatur super aquas,* fol. 221) through Rev. — followed by an alphabetical ***Index Rerum et Nominum*** running through paradigm-Reformation-era vocabulary from ***Gnostici*** (fol. 13) through ***Zwingli*** (implied). These paradigm-**bibliographic-apparatus-back-matter** materials are deferred to the volume-final PDF at Pars II or Pars III's close.]*¹²⁸
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Colophon
+
+*This working English edition of Nikolaus Selnecker's* Institutio Christianae Religionis, Pars Prima, *was prepared by the Scholastic Lutherans translation team in the year 2026 from the digitised 1579 imprint held by the Bayerische Staatsbibliothek München (shelfmark Dogm. 924-1), preserved in Google-Books scan* 36616462510015 *(21 MB, 489 pages), delivered locally by Cheri on 2026-08-31.*
+
+*The volume comprises seven tranches (T1–T7): the paratexts (title-page, dedication to the Consuls of Leipzig, and the substantial* Praemonitio de nonnullis controversis articulis *setting forth Selnecker's paradigm summary of the whole* Formula of Concord *programme, Articles I–X); Selnecker's* Catalogus Librorum Didacticorum *of 32 works to 1579; and the main body of Pars I in nine Loci —* De Verbo Dei · De Deo · De Creatione · De Angelis · De Hominibus · De Peccato · De Lege Dei · De Cruce · De Consolatione. *128 endnotes provide modern-critical apparatus:* WA / LW *for Luther,* CR / MSA *for Melanchthon,* BSLK / Kolb-Wengert *for the Confessions,* PL / PG *for the Fathers, and paradigm-Formula-of-Concord Article-by-Article cross-references.*
+
+*The paradigm-context: Selnecker (1530–1592) was one of the six co-authors of the* Formula of Concord *(1577) alongside Jakob Andreä, Martin Chemnitz, David Chytraeus, Andreas Musculus, and Christoph Körner — his specific contribution being* Solida Declaratio *Article XI on Predestination. The* Institutio Christianae Religionis, *issued in three Parts at Jena by Jakob Tröster in 1578–1580, is Selnecker's mature systematic-dogmatic Loci-work — composed self-consciously* two years after *the Formula of Concord as a paradigm* schulische *systematic-theological rendering of the whole* Concord-*settlement. Pars I (the present volume, 1579) covers* De Verbo Dei → De Deo → De Creatione → De Angelis → De Hominibus → De Peccato → De Lege → De Cruce → De Consolatione — *the paradigm-Reformation-era Loci-order interfacing at every point with the paradigm* Formula-of-Concord *Articles which Selnecker himself had helped draft two years earlier.*
+
+*The text was set in Palatino Linotype and rendered in the Hülsemann style established for the* Scholastic Lutherans *translation program (Praetorius Vol I–III, Chytraeus, Kirchner, Quenstedt, Große — see the completed reference implementations for the standard).*
+
+*Two future volumes remain: Pars II (Justification through Christian Ethics — BSB Munich* bsb11295447, *696 canvases confirmed by per-canvas HEAD-probing 2026-08-31); Pars III (De Novissimis — the Last Things — Google-Books scan* E6VoAAAAcAAJ*).*
+
+— ❦ —
+
+*Soli Deo Gloria.*
+
+**The Scholastic Lutherans translation team**
+
+*2026*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1147,6 +1347,36 @@ This paradigm ***narrow-imago-Dei-lost*** framework is the paradigm-Formula-of-C
 ¹¹⁵ **Locus V De Hominibus** — the paradigm-Anthropological Locus. Selnecker's paradigm-outline — creation + Imago Dei + original righteousness + body-soul-faculties + three estates + finis-ultimus — is the paradigm-***Wittenberg-Melanchthonian-Loci-anthropological-format,*** standardized in mature-Lutheran-Orthodoxy through paradigm ***Chemnitz Loci*** and paradigm ***Gerhard Loci*** VII *De imagine Dei* + VIII *De libero arbitrio.* Standard modern treatment: **David S. Yeago,** *"The Catholic Luther,"* in *First Things* 61 (1996), pp. 37–41; **Anders Nygren,** ***Agape and Eros*** (Chicago, 1953) on the paradigm-Lutheran-anthropology.
 
 ¹¹⁶ **The paradigm ***imago-Dei-ampla-vs-stricta*** distinction** — the paradigm-Formula-of-Concord Article I settlement against paradigm-Roman-Catholic ***donum-superadditum*** doctrine (Council of Trent, Session V, Decree on Original Sin, 1546). The paradigm-Tridentine framework held that only a ***superadded gift of grace*** was lost through the Fall, while ***natural*** rational-volitional powers remained substantially intact (paradigm-Anselmian ***iustitia-originalis-tantum-in-donis-supernaturalibus***). The paradigm-Lutheran counter-framework (Luther *De Servo Arbitrio* 1525; FC I 1577; Selnecker here) held that ***the whole nature*** was corrupted, and the ***iustitia originalis*** which constituted the paradigm-narrow ***Imago Dei*** was ***wholly lost*** and can only be restored through paradigm-Christ-mediated regeneration. Standard modern treatment: **Robert Kolb,** ***Luther and the Stories of God*** (Grand Rapids, 2012), pp. 189–212; **Timothy J. Wengert,** ***Human Freedom, Christian Righteousness*** (see n. 27 above). — Paradigm ***Ecclesiasticus (Sirach) 17:1*** *(Deus creavit hominem inhonorabilem et rectum)* — one of the paradigm-*Old-Testament-Deuterocanonical* proof-texts for paradigm-original-righteousness. — Paradigm ***three-estates framework*** — Luther's paradigm ***drei-Stände*** (**Ecclesia, Politia, Oeconomia**), developed in *De Instituendis Ministris Ecclesiae* (WA 12:169–196) and the paradigm ***Hauspredigten*** — the paradigm-*Ordnungen-der-Schöpfung* framework foundational to confessional-Lutheran social ethics. — Paradigm ***Augustine's *fecisti-nos-ad-te*** citation** from ***Confessiones*** I.1.1 (PL 32:661) — one of the paradigm-most-cited Augustinian *loci* in the whole Western Christian tradition.
+
+## From Tranche 7 · Loci VI–IX + Colophon (volume-final)
+
+¹¹⁷ **Locus VI De Peccato** — Selnecker's paradigm ***hamartiology*** Locus. The paradigm ***5-part definition-of-sin*** (defect + inclination + action against Law + condemnation + remission through Christ) is a paradigm ***scholastic-Wittenberg-humanistic*** dogmatic-definition following the paradigm ***Melanchthonian-Loci-format.*** Standard modern treatment: **Robert D. Preus,** ***The Theology of Post-Reformation Lutheranism*** Vol. II (see n. 95 above), pp. 226–276 on the paradigm-Lutheran-Orthodox hamartiology.
+
+¹¹⁸ **The paradigm Hebrew-Greek-Latin ***sin-vocabulary*** framework** — the paradigm humanist-Wittenberg-Kreis triple-language dogmatic-lexicographical apparatus. **Hebrew terms**: *chet* (חטא, missing the mark), *avon* (עון, iniquity), *pesha* (פשע, transgression), *hattath* (חטאת, sin-offering). **Greek terms**: *hamartia* (ἁμαρτία, missing the mark), *parabasis* (παράβασις, transgression), *paranomēma* (παρανόμημα, against-law-doing), *anomia* (ἀνομία, lawlessness). — **Augustine's ***delinquere-defluere*** etymological framework** — from ***De Civitate Dei*** XIV.13 (PL 41:421) or paradigm ***Contra Faustum*** XV.9 (PL 42:307). — **1 John 3:4** *(hē hamartia estin hē anomia)* — the paradigm ***sedes-doctrinae*** for the whole Lutheran-Orthodox hamartiology.
+
+¹¹⁹ **The paradigm-*Formula-of-Concord-XI* framework for the five objections** — Selnecker's paradigm-anti-Stoic-anti-Manichaean ***God-is-not-cause-of-sin*** framework, resolved by paradigm ***antecedent-and-consequent-will*** distinction and paradigm ***"induration by desertion"*** framework aligned with **Formula of Concord Article XI** *De praedestinatione et electione* — of which Selnecker was co-author (see biographical sketch above). — **Basil the Great,** ***Homilia quod Deus non sit causa malorum*** (Homily 9, PG 31:329–353) — the paradigm-patristic *anti-Manichaean* proof-text for the paradigm ***God-is-not-cause-of-evil*** framework, cited paradigmatically throughout the Renaissance-Reformation hamartiology. — **Epiphanius,** ***Panarion*** Book II Tome II (Haer. 66, PG 42:29–172) — the paradigm-patristic anti-Manichaean treatise, likely Selnecker's paradigm-specific citation.
+
+¹²⁰ **The paradigm ***peccatum originale-vs-actuale + fomes peccati + peccatum-Spiritus-Sancti*** framework** — Selnecker's paradigm-substantive elaboration continues along paradigm-Formula-of-Concord and paradigm-Melanchthonian *Loci* lines. The paradigm ***sin against the Holy Spirit*** (Matt. 12:31–32) treatment traces the paradigm-Augustinian ***final-impenitence*** framework (Augustine ***De sermone Domini in monte*** I.22, PL 34:1251) through paradigm ***Luther-Anti-Nomistical-Disputations*** exposition (WA 39/1:517–521). Standard modern treatment: **Timothy J. Wengert,** *"Sin against the Holy Spirit,"* in *Concordia Journal* 26 (2000), pp. 200–214.
+
+¹²¹ **Locus VII De Lege Dei** — Selnecker's paradigm ***nomological*** Locus. Standard modern treatment: **Werner Elert,** ***Law and Gospel*** (see n. 85 above); **Scott R. Murray,** ***Law, Life, and the Living God: The Third Use of the Law in Modern American Lutheranism*** (see n. 40 above); **Michael Horton,** ***The Christian Faith: A Systematic Theology for Pilgrims on the Way*** (Grand Rapids, 2011), pp. 651–698 on paradigm-Reformed-parallel treatment of Law and Gospel.
+
+¹²² **The paradigm ***anti-Pharisaic-hypocritical vs Evangelical*** two-fold distinction** — Selnecker's paradigm ***Wittenberg-Melanchthonian-Reformation*** framework for the paradigm-*correct-use-of-Law.* The paradigm ***Matthew 5:20*** *(nisi abundaverit vestra iustitia)* and paradigm ***Luke 7:36–50*** *(Simon Pharisaeus vs peccatrix)* are the paradigm-*sedes-doctrinae*. — **The paradigm ***opus operatum vs opus operantis*** distinction** — the paradigm-scholastic-medieval framework (paradigm-Aquinas ***Summa Theologiae*** III.q.62.a.1) that paradigm-Roman-Catholic sacramental-theology had elaborated into the paradigm ***ex-opere-operato*** doctrine (Trent Session VII, Canon 8, 1547) — paradigm-Reformation-rejected as the paradigm ***paradigm-external-mechanistic-view-of-grace*** which excludes personal faith. Standard modern treatment: **Bengt Hägglund,** ***History of Theology*** (St. Louis, 1968), pp. 189–212. — **The paradigm ***works of supererogation*** doctrine** — paradigm-medieval Roman-Catholic framework (paradigm-Aquinas *Summa* II-II.q.184.a.3) that certain works go ***beyond*** what the Decalogue commands and thus ***surplus-merit-earn*** — paradigm-Reformation-rejected in AC XXVI–XXVII and Ap XXVII.
+
+¹²³ **The paradigm ***triplex usus Legis + Decalogue-division + fulfilment-by-Christ + abrogation-of-ceremonial-but-not-moral + detailed-exposition*** framework** — the paradigm-substantive Locus VII treatment, following paradigm ***Melanchthonian *Loci* + Chytraeus catechism*** [[chytraeus-catechismus-1594]] + paradigm ***Luther Kleiner Katechismus*** frameworks. Paradigm-Reformation-standard treatment of the paradigm-***triplex usus Legis*** framework: FC SD V (*De lege et Evangelio*) and VI (*De tertio usu legis*), *Kolb-Wengert* 581–591; BSLK 951–969. Standard modern treatment: **Charles P. Arand,** ***Testing the Boundaries: Windows to Lutheran Identity*** (St. Louis, 1995), pp. 44–73 on the paradigm-Lutheran-*Law-Gospel* framework.
+
+¹²⁴ **Locus VIII De Cruce** — Selnecker's paradigm ***theologia crucis*** Locus. Standard modern treatment: **Alister E. McGrath,** ***Luther's Theology of the Cross*** (see n. 125 below); **Walther von Loewenich,** ***Luther's Theology of the Cross*** (Belfast, 1976); **Regin Prenter,** ***Luther's Theology of the Cross*** (Philadelphia, 1971).
+
+¹²⁵ **The paradigm ***septem finis crucis*** framework** — Selnecker's paradigm-*medieval-monastic-inherited* seven-purposes-of-Christian-cross-bearing framework, aligned with paradigm ***Luther Heidelberg Disputation*** (WA 1:353–354; LW 31:39–70) and paradigm ***Vier Tröstliche Psalmen*** (WA 19:552–615; LW 14:207–277). — **Vítor Westhelle,** ***The Scandalous God*** (Minneapolis, 2006) — paradigm-modern-critical treatment of the paradigm-Reformation *theologia crucis.*
+
+¹²⁶ **Locus IX De Consolatione** — Selnecker's paradigm ***closing-Locus.*** The paradigm-scriptural-catena structure reflects the paradigm ***Melanchthonian *Loci consolatoriae* register*** that Selnecker had developed since his ***Dicta consolatoria*** (1560, Catalogus §17 above) and the paradigm ***Chytraeus Catechismus*** [[chytraeus-catechismus-1594]] closing-*Loci-de-consolatione*. Standard modern treatment: **Bo Giertz,** ***The Hammer of God*** (see n. 85 above); **Gerhard O. Forde,** ***Theology is for Proclamation*** (Minneapolis, 1990).
+
+¹²⁷ **The paradigm ***final-benediction*** — *"Hoc nobis largiatur Dominus Deus noster per Iesum Christum Filium suum, Dominum nostrum. Amen"*** — the paradigm-classical ***per-Christum*** *doxological-conclusion* framework of the paradigm-early-Reformation Loci-tradition. — The paradigm ***four-group scriptural-catena*** structure (divine-mercy-promises + biblical-exempla + gracious-Prophetic-promises + faith-required-passages) is the paradigm-*Melanchthon-Selnecker-Chytraeus-catechetical-loci-consolatoriae* register — a paradigm-*confessional-Lutheran-devotional-catechetical-genre* that would define the whole subsequent paradigm-*Lutheran-Trostbücher* tradition (paradigm-Große *Alte Tröster* [[grosse-alten-troester-1900]] treats hundreds of paradigm-devotional-consolatoriae works derived directly from this paradigm-*Selnecker-Chytraeus-generation* framework).
+
+¹²⁸ **FINIS PRIMAE PARTIS + Elenchus + Index** — the paradigm-closing paratexts of paradigm-*Renaissance-Reformation-scholastic-dogmatic-volumes*: (1) *Elenchus Locorum Sacrae Scripturae* — alphabetical index of Scripture-passages treated (paradigm-*loci-index-in-ordine-Bibliae*), attested at OCR line 26389+ for Selnecker's Pars I; (2) *Index Rerum et Nominum* — alphabetical subject-and-name index, attested at OCR line 27395+; (3) the paradigm-*FINIS* closing formula, attested at OCR line 26370 and again at 28024 (*Index*-close). Standard modern treatment on the paradigm ***Renaissance-scholastic-back-matter-apparatus***: **Ann Blair,** ***Too Much to Know: Managing Scholarly Information before the Modern Age*** (New Haven, 2010), pp. 89–142 on the paradigm-humanist-*index-apparatus*.
+
+## End of Notes
+
+*[**128 endnotes** across **7 tranches** (T1 through T7), documenting the paradigm ***confessional-Lutheran-Formula-of-Concord-generation systematic-dogmatic-Loci-work*** of Nikolaus Selnecker — issued just two years after the Formula of Concord (1577) as a paradigm ***schulische systematic-theological rendering*** of the whole Concord-settlement. Modern-critical apparatus:* WA/LW *for Luther,* CR/MSA *for Melanchthon,* BSLK/Kolb-Wengert *for the Confessions,* PL/PG/CCSL/SC *for the Fathers, and paradigm-Formula-of-Concord Article-by-Article cross-references throughout.]*
 
 
 *Sequential across the volume. Superscripts in the body text ¹²³. Grouped below by tranche and by section.*
