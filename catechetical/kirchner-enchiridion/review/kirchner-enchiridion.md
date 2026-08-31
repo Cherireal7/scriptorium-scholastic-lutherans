@@ -7808,11 +7808,234 @@ Wherefore it cannot from the word *Sacrifice* — which the Fathers sometimes us
 
 ## Question 44. Answer to some chief Arguments whereby the Papists suppose to defend their withdrawal of the Cup from the Laity.
 
-*[Answers to specific Papal arguments continue. Translation continues in Rebuild-Tranche 36.]*
+### I. Cup use free.
+
+**The Gospel leaves the use of the Cup *free*. Wherefore the forbidding of the same cannot be punished.**
+
+**Answer**: The ***antecedens*** cannot be proved from the books of the New Testament. For such Freedom is nowhere with the least letter indicated. Rather, the Evangelists and Paul witness that the LORD Christ commanded to use the **whole Sacrament**. For his command is before eyes: *"Drink ye all of it"* — which command also the Apostolic Churches faithfully followed. Wherefore what is said of this **Free-setting** is a *pure fable*.
+
+### II. Luke 24 mentions only Breaking of Bread.
+
+**But at Luke 24 there is mentioned only the *breaking of Bread*. *Ergo*, so may one indeed let the use of the Cup remain undone.**
+
+**Answer**: The breaking of Bread whereof Luke 24 stands does *not at all* concern the Holy Supper, in which the LORD Christ instituted and commanded eating his Body with Bread and drinking his Blood with Wine. Rather, it speaks of the *evening meal* which Christ held with the two disciples at Emmaus — as the Text of Luke plainly and clearly shows, and cannot be denied. For he sat down with the two disciples in the evening to Table, broke the Bread after his custom which they were to use, and gave a portion of it to the disciples, whereby they knew him.
+
+But that he there in the same instituted his Holy Supper with the Bread — dispensed his Body according to the Words of Institution — and gave only his Body alone to the disciples, and not also the Cup — that is the opposite side's fable, which cannot with ground of Truth be shown.
+
+### III. Whole Christ under one Kind.
+
+**The whole Christ (they say) is present under both Kinds. *Ergo*, so it is enough that only the one Kind be given to the Laity — for under the same they also receive the whole Christ, or his Body and Blood. For his Body is not without Blood.**
+
+**Answer**: If it were free to Men to dispute Christ's Ordinance and Institution and conclude what they wanted, one could well fable and bring forth more here. But because it stands with no creature to institute Sacraments, but alone with God — and Christ, true God and Man, has instituted this his Supper thus and not otherwise, that it shall be *whole*, and as he himself dispensed and reached, so also henceforth be reached, dispensed, and received — and *expressly* says of the Cup: *"Drink ye all of it"* — so it stands to no man free to alter anything herein, to reach one Part and withhold the other. Rather, one shall and must let it stand at his Institution and Command.
+
+The LORD would well have known to find this *gimmick* — that a Body is not without Blood, and that therefore it is not needful to reach his Blood specially — had he only wished. But it has pleased him thus, that his Body with the Bread and his Blood with the Wine should, according to the Words of his Institution, be dispensed and received. There shall all Creatures let it remain, and *not alter one letter* herein.
+
+### IV. Church has Might to dispense.
+
+**Yes (they say), the Church has Might to *dispense* concerning the Sacraments. Because the Church has now so ordered — that the Cup shall not be reached to the Laity — one shall and must let it stand thereby.**
+
+**Answer**: The Church has *not this Might*, to alter the Ordinance of its Redeemer and LORD. The opposite side can also not prove such Might from the writings of the New Testament with any saying. For though they give out — the Church-servants are ***Dispensatores*** or Stewards over God's Mysteries — **1 Cor. 4:1** — yet it follows *by no means* from that, that they have Might to alter their LORD's Institutions. Stewards indeed they are thereover, but not *Lords*. Rather, they are bound to keep the LORD Christ's Ordinance as he himself instituted it in the Words of his Testament. If they do not, they have the LORD's heavy Judgement to expect.
+
+**They give out further**: Paul himself — 1 Cor. 11:34 — has written: *"The other will I ordain when I come."* So must he have *kept free to himself* to alter something in the Institution of the Supper.
+
+**Answer**: The Apostle speaks with the said words *by no means* of the Institution of the Supper — that he had kept free or reserved to alter something therein (for of that he had before written in this 11th chapter: *"I have received from the LORD what I have given you"* — where it did not befit him also to alter). Rather, he speaks of other **ceremonies** which might be found useful for the *building of the Church at Corinth*. Wherefore Paul's words are *quite unrightly* drawn to the Alteration of the Supper and the Cup-robbery.
+
+That they also object — the Apostles should have altered the *Form of Baptism* — wherefore the Church may also well alter something at the Holy Supper — that they can *nevermore* make good. For though it stands in the Book of Acts that they baptised *in the Name of Christ* (that is, at Christ's Command), it stands not therewith that they should have altered the *Words of Baptism* as Christ set forth in **Matt. 28**, and administered Baptism otherwise than according to the said Christ's Words.
+
+And what needs many words hereof? It is wrong to alter *Men's Testaments* when they are confirmed through Death — much less will it be right to alter the LORD Christ's Testament, and to take out therefrom the use of the Cup.
+
+That it was decided in the Council of **Constance**, about the year of Christ **1414**, ***hoc non obstante*** — that is, *"notwithstanding"* that Christ instituted it otherwise, the Cup shall not be given to the Laity — proves nothing at all. For neither Council nor any Angelic or Human Creature has Might to alter or abolish Christ's Institution.
+
+**John 15:15** [10:27] — Christ says: *"His little sheep hear his voice"* — he says not: *"his little sheep alter his voice."* From which clear that the Bishops and others in the Council of Constance were *not sheep of Christ, but his adversaries*, in that they undertook to alter the words or Institution of Christ our Saviour.
+
+Even so it stands with the Confirmation of such alteration which was made in the Council of **Trent**. For the same is in the least not empowered nor has Might. As such finely appears from the words of **Gelasius** (who lived about the year of Christ **490**) — when some out of superstition would omit the use of the Cup, whom he punished with the following words. **De consecrat. distinct. 2**:
+
+***Comperimus, quòd quidam sumpta tantummodò corporis sacri portione, à calice sacrati cruoris abstineant. Qui quia nescio qua superstitione docentur astringi, aut integra Sacramenta percipiant, aut ab integris arceantur. Quia divisio unius eiusdemque mysterii, sine grandi sacrilegio, nequit provenire.***
+
+That is: *"We come to experience that some, when they have only received the holy Body of the LORD, abstain from the Cup of the sanctified Blood. Such people know not with what superstition they think they must so do — they shall either be held to receive the whole Sacrament, or be held back from the whole use of the same. For the *division of the sole Sacrament or Mystery* cannot be undertaken without great Spiritual Church-robbery."*
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper close + Chapter XXVIII Von der Catholischen Kirche opening. Translation continues in Rebuild-Tranche 36.]*
+## Question 45. Is then the *Enclosure, Carrying-about, and Adoration of the Consecrated Bread* to be approved?
+
+**Is then the Enclosure, Carrying-about, and Adoration of the Consecrated Bread to be approved?**
+
+**Truly no.**
+
+**1.** For Christ commanded not such, but much more bid: *"Eat, drink,"* — and not: *"Shut it up, carry it about in Procession"* — as the Persians their holy ***Orimasda*** or *Fire*, etc., *"and adore it."*
+
+**2.** That the Apostles neither shut up the sanctified Bread in the Sacrament-house, nor carried it about in Procession, nor adored it.
+
+**3.** That it is a Papal fable and pure Idolatry to shut up the Bread thus, carry it about, and adore it. Of which in part in the ***Concilium Lateranense***, in part thereafter in the following Popes' Constitutions or Ordinances, it is dealt with. **Urban IV** of this Name instituted the Feast ***Corporis Christi*** — from the *disclosure of a Woman*, which is said to have appeared to her.
+
+— ❦ —
+
+## Question 46. How can a simple Christian order himself — both against the Papal Errors at this Sacrament, and against the opposite side of the *Calvinist erroneous Meaning of the Memorial-sign of the far-absent Body and Blood of Christ* — guard and provide himself?
+
+**How can a simple Christian order himself — both against the Papal Errors at this Sacrament, and against the opposite side of the *Calvinist erroneous Meaning of the Memorial-sign of the far-absent Body and Blood of Christ* — guard and provide himself?**
+
+**Answer**: When he *straight* remains by the simple Words of Christ. For these teach *no Transubstantiation* or Transformation of the Bread into the Body of Christ; so they teach also nothing of the Mass-sacrifice, as they also do not rob or withdraw the Cup from the Laity.
+
+So they teach also not that in the Supper only Memorial-signs of the far-absent Body and Blood of Christ be dispensed, but plainly witness that the **Body of Christ (which is given for us) and the Blood of Christ (which is shed for us), etc., are themselves with Bread and Wine in the Supper dispensed**.
+
+And indeed against the *blasphemies of the Papists* it is easy to guard oneself, for the same are all too gross. But against the opposite side's Meaning — which is conformable and adequate to Human Reason — it is not so easy to look out.
+
+But pious hearts shall look upon this:
+
+**First**, that when Christ says it is his Body, they say No, it is not his Body, but a Memorial-sign of his Body.
+
+**2.** That out of the Distribution of the Body of Christ they make a Distribution of the *Fellowship of the far-absent Body of Christ* — **1 Cor. 10** — and thus publicly *pervert Paul's words*.
+
+**3.** That they abolish the Doctrine of the Reception of the Unworthy, contrary to Paul's and the Fathers' witness.
+
+**4.** That they withdraw from Christ the Honour of Truth, in that they say he has not instituted the Presence or Distribution of his Body with the Bread, but a *Memorial-sign* of the same — whereas his words properly speak of the Distribution and Reception of his *true Body*.
+
+**5.** That they also *rob him of his Almightiness*. For they say: *He could not have ordained that he dispenses his Body with the Bread, forasmuch as it is impossible that his Body be present at more than one place*.
+
+**6.** That **Zwingli** in his little book ***Subsidium Eucharistiae*** himself confesses that he learned his interpretation — that ("Is") should mean as much as "signifies" — *out of a dream*, etc.
+
+**7.** That the opposite side brings forth so *manifold unequal Interpretations* over the Words of the Supper, which cannot come from God's Spirit.
+
+**8.** That their Doctrine and Meaning in this point rests chiefly only upon **Philosophical or Human grounds**: as, *"It is impossible that Christ's Body which ascended into Heaven be dispensed with the Bread in the Supper. It is impossible that Christ's Body be somewhere without spatiality, comprehensibility, and visibility. It is impossible that Christ can dispense his Body without destruction of the same in the Supper with the Bread,"* etc.
+
+**9.** That the Doctrine of a *Memorial-sign of the far-absent Body and Blood of Christ* gives **no such constant Comfort**, and that a Conscience in Temptation cannot uphold itself, when it comes before it, *why it has departed from the clear Words of Institution of Christ* and has interpreted the same of *Signs of the far-absent Body and Blood of Christ*, etc. As such **Berengarius's** own History witnesses — a chief of the Sacramentarians — for when he was to die, he said: *"Today the LORD Jesus shall appear to me, either unto my Blessedness, as I hope, for the sake of my Repentance — or unto Judgement, for the sake of those whom I with my doctrine have led astray, and could not bring back again to Right."*
+
+— ❦ —
+
+# XXVIII.
+
+# Of the Catholic or Christian Church.
+
+## Question 1. Has then God the LORD a *Church or People on Earth*, of which he specially takes care?
+
+**Has then God the LORD a Church or People on Earth, of which he specially takes care?**
+
+**Yes.** For therefore he revealed himself to the first Men, and further to the Patriarchs, Prophets, etc., that he might have a certain People on Earth by whom he might be *rightly known, honoured, and praised*. Such witnesses also the sending of the Son of God into this World. Likewise the sending of the Apostles, who shall — **Mark 16:15** — *preach the Gospel to all Creatures*, and thereby gather to God the LORD his Church *out of Jews and Heathen*; and finally the preservation of the Preaching-Office to this day — **Matt. 28:20**.
+
+— ❦ —
+
+## Question 2. What means the little word ***Ecclesia*** or "Church"?
+
+**What means the little word *Ecclesia* or "Church"?**
+
+**It means properly a *called Fellowship*.** — **Acts 19:41**: *"When he had said this, he let the Assembly go."* The simple understand it of the *House or Building*, but it means **an Assembly or Congregation of the Christians**, etc.
+
+— ❦ —
+
+## Question 3. Why is she called *Holy*?
+
+**Why is she called Holy?**
+
+**On account of the Holiness of the LORD Christ, which is imputed to her through Faith**; and for the sake of the *Word and Sacraments*, through which she is *sanctified*. Also on account of the *daily Sanctification*, or *Purging out of Sin*, which through the Spirit in the Believing happens — which, however, is only *begun* in this Life, and in the future World shall first be perfected.
+
+— ❦ —
+
+## Question 4. How manifold is the Church's Holiness?
+
+**How manifold is the Church's Holiness?**
+
+**Two-fold**:
+
+- **An imputed Holiness for Christ's sake, through Faith** — **1 Cor. 1; Eph. 5**.
+- **A begun Holiness**. For the Holy Spirit sanctifies the Christians, gives them holy Hearts, Holiness, and Righteousness wherein they walk. But this Holiness is not perfect, as the first — but only *begun*. Much less does it stand in *outward statutes or works of Men*, as the Pope with his own gives out.
+
+— ❦ —
+
+## Question 5. Why is she called a *Communion of the Saints*?
+
+**Why is she called a Communion of the Saints?**
+
+**Therefore**: that in the *visible Church* — which is gathered through Word and Sacraments — are **many holy living Members** who all for Christ's sake belong to the same, have **one Spirit** and *one Hope*, and are through the *Bond of the Spirit in the Word firmly bound together* — **Eph. 4:3–4**: *"Be diligent to keep the Unity of the Spirit through the Bond of Peace — one Body and one Spirit, as ye are also called upon one and the same Hope of your Calling."*
+
+— ❦ —
+
+## Question 6. Why is she called ***Catholica***?
+
+**Why is she called *Catholica*?**
+
+**The little word *Catholica* means in German properly *a Universal Assembly***. And so is Christendom called, because she is *scattered through the whole World hither and yon*, and is *not bound to a certain Place, City, or Person*. For at all places of the World, wherever only people are who rightly believe on Christ — those are members of this his Congregation.
+
+- **Acts 10:34–35** — *"Now I perceive in truth that God is no respecter of persons; but in every people, whoso feareth him and doeth right, is acceptable to him."*
+- **Rom. 10:12** — *"Here is no distinction between Jews and Greeks — there is one LORD over all, rich to all who call upon him."*
+
+— ❦ —
+
+## Question 7. Is then the ***Catholic*** and the ***Roman Church*** not one and the same?
+
+**Is then the Catholic and the Roman Church not one and the same?**
+
+**By no means.**
+
+- **The Catholic Church** is *all Right-believing*, scattered hither and yon in the whole World, in all places.
+- **The Roman Church**, however, is *the Pope with the people who dwell at Rome, and who otherwise hang on him* — as every man himself understands.
+
+The ***Symbolum Apostolicum*** also knows nothing of the *Roman Church*, much less does it say that *Roman and Catholic are one and the same* — as the Papists gladly would.
+
+— ❦ —
+
+## Question 8. What is then the Church?
+
+**What is then the Church?**
+
+**The visible Church, in general to speak, is an Assembly of all who through the Word of Christ and the Sacraments are called** — in which Assembly the LORD Christ through his Holy Spirit is powerful, and always [makes some] *new-born and holy unto Eternal Life*. In which Assembly also **Hypocrites** or **Evil Ones** run beneath, so far as the outward fellowship concerns.
+
+— ❦ —
+
+## Question 9. Are there then more than one Church or Congregation of God on Earth?
+
+**Are there then more than one Church or Congregation of God on Earth?**
+
+**No.** For there is only **one holy Christian Catholic Church** from the beginning of the World — as there is only *one God, one Faith, one Mediator and Head of the same* — **Eph. 4:4**: *"There is one Body and one Spirit."*
+
+— ❦ —
+
+## Question 10. Why does one then say that there are ***particulares*** or *single Churches*, and that ***universalis Ecclesia***, one General Church or Christendom, is?
+
+**Why does one then say that there are *particulares* or *single Churches*, and that *universalis Ecclesia*, one General Church or Christendom, is?**
+
+***Particulares*** or **single Churches** are called those that are assembled at a certain place — as at Jerusalem, Antioch, Ephesus, etc. — and yet are members of the whole Body of the General Christendom.
+
+The **General Church**, however, is called *all Right-believing in the whole World, wherever and at whatever place, or at whatever time, they are and have lived*.
+
+And there is thus **no other distinction between the Particular Churches and the General Christendom** than *between the whole Body and its Members*. For all Believing belong to this **one General Church**.
+
+— ❦ —
+
+## Question 11. What is meant when one says: the Church is *partly visible, partly invisible*?
+
+**What is meant when one says: the Church is *partly visible, partly invisible*?**
+
+**When one names the *visible Church***, one understands the *whole heap of the Church*, in which are **Good and Evil, Believing and Unbelieving, Wheat and Tares** — **Matt. 13:24–30**. Those who bear wedding garments, and those who wear none — **Matt. 22:11**. **Isa. 61:9**: *"One shall know their Seed among the Heathen,"* etc. For one can in general see with the eyes the heap that confesses itself to the Word and Sacraments — though they are not all together in the said heap Believing or holy, but many Evil are still mixed among.
+
+**When one, however, says: the Church is *invisible***, one understands alone the *Right-believing or Elect*, in whom the Holy Spirit as in his Temple dwells. These are not so to be seen with mere eyes, but are *only known to God, who knows his own* — **2 Tim. 2:19**.
+
+And therefore we say: **"I believe one Church"** — thereby to witness that we set it in no doubt that in the heap in which God's Word is preached and the Sacraments according to Christ's Institution are handled, the LORD has such **holy Members** whose Hearts truly through the Holy Spirit are enlightened, sanctified, and brought to Jesus Christ through Faith, and to himself certainly incorporated.
+
+And in Sum, the Church is called invisible:
+
+**First**, that the LORD alone knows his own.
+
+**2.** For the sake of the Cross and Temptation. For the true Christians are commonly so led *under the Cross*, that they are not by the World esteemed as such — as **Lazarus, Luke 16**.
+
+**3.** That it also becomes hard, on account of manifold Weakness, for the Right-believing themselves to conclude that they are *God's House-fellows and Citizens with the Saints* — **Eph. 2:19**.
+
+**4.** That no Human Heart can sufficiently distinguish Hypocrites from the Right-believing, because they can *pose themselves after outward gestures and walk* as though they were the *very holiest*, though they are not.
+
+— ❦ —
+
+## Question 12. But the Church is a *City that lies on a Mountain* — *Matt. 5:14*. *Ergo*, so she is not invisible?
+
+**But the Church is a *City that lies on a Mountain* — Matt. 5:14. *Ergo*, so she is not invisible?**
+
+**Answer**: When one speaks in general of the Church, it is true that the heap is visible, where God's Word, etc., is preached. Yet nevertheless firmly stands this: **the Right-believing in this heap the LORD alone knows** — **2 Tim. 2:19**.
+
+### But it stands Matt. 18:17: **"Tell it to the Church or Congregation."** *Ergo*, so must she indeed be visible?
+
+**Answer**: This little saying also speaks of the Church in general, as she is a *visible Assembly called through the Word and Sacraments*...
+
+— ❦ —
+
+*[Chapter XXVIII Von der Catholischen Kirche continues. Translation continues in Rebuild-Tranche 37.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
