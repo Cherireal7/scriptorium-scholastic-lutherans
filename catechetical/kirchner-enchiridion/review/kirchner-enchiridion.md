@@ -3398,11 +3398,269 @@ It is *two things*: **Sin forgiven in Baptism**, and **a Sin being present**. Af
 
 **What is then the Strife and Combat of Sin and Faith in the upright Christians?**
 
-**The Apostle Gal. 5:17** describes it clearly — the *Strife of the Flesh and Spirit*, which all Believers feel in themselves. For every Christian feels that his *Flesh strives against the Holy Spirit* — so that though he *gladly* would be *upright and pious*...
+**The Apostle Gal. 5:17** describes it clearly — the *Strife of the Flesh and Spirit*, which all Believers feel in themselves. For every Christian feels that his *Flesh strives against the Holy Spirit* — so that though he *gladly* would be *upright and pious*, he yet cannot accomplish the same *in the manner as he would gladly do*. For the Flesh lies in his way, so that he keeps not God's Commandment thus, loves not God thus, as he were bound. Wherefore it is also *impossible* that we should be *justified through the Works of the Law*. The *good Will* is indeed there — would gladly do good, fulfil the Law, love God and Neighbour — but the Flesh will not follow the Will, but strives against it.
+
+**God, however, reckons not this Sin — because it is by the Believing acknowledged and confessed for Sin** — for he is *gracious* to the Believing *for Christ's sake*.
+
+But from this it *follows not* that thou shouldst make Sin *slight* or *despise* — because God imputes it not. He imputes it indeed not — but to whom, and why? Not to the *hardened, secure*, but to the *Penitent*, who grasp Christ with Faith, for whose sake — as the Sin is forgiven — so also the *remaining Sins in the Flesh are not imputed*. But these make not Sin slight, excuse her not — but make her *great*, for they know that she can be blotted out through *no satisfaction, work, or righteousness*, but alone through the *Death of Christ*. Yet they also *despair not* for the sake of Sins, but believe assuredly that they are forgiven for Christ's sake.
+
+**This must be said**, that no man may think that Sin in the Believing is not *highly to be regarded*. Sin is truly Sin — whether it happen *before or after* the right Knowledge of Christ. And *God is at all times the enemy of Sin*. Yea, what is more: **all Sin, so far as it concerns itself, is deadly or damnable** — although one be *heavier and greater than the other*, according to the Occasion of the Matter and Circumstances. But that she damns *not the Believing*, happens for the LORD Christ's sake — on whose account she is *not imputed*.
+
+To those who *believe not on Christ*, not alone are all Sins damnable — but also all their Works are Sin — **Rom. 14**. Wherefore the Sophists' Doctrine is *a very hurtful Error*, which distinguishes Sins *after their kind* and *not after the Person*.
+
+**The evil Inclinations in a Christian's heart are just as much Sin as in an Unbeliever's or Unchristian's heart.** But because he *believes*, they are *not imputed to him unto Damnation*; but to the *Unbeliever* they are retained and imputed. To the *Believer* they are unblameable, but to the *Unbeliever* damnable — **not for the sake of any distinction of Sin in itself** (as though the Believer's evil Inclinations were slighter, and the Unbeliever's greater), but *on account of the Person*.
+
+For the *Believing Person* holds for certain that (because Christ has given himself for her) *the Sin is forgiven her* — accordingly, though she has and feels *Sin, that is, evil Lusts and Desires*, she remains yet **pious and God-blessed**, and *resists the evil Lusts and Desires through Faith*, *crucifies and mortifies them*. The Unbelieving Person, however, *remains Godless*.
+
+And this is **the right Christians' highest Wisdom and Comfort** — that though they of Weakness sin, have Sin, and cannot bring it to Perfection however hard they toil, they yet know **that for Christ's sake it is not imputed to them**.
+
+This serves the God-blessed for *Comfort*, for these alone feel uprightly that they have and commit Sins — that is, that they *love not God heartily*, do not from the heart trust him — but rather often doubt that he cares for them, are impatient in Cross and Suffering, and grow wrathful against God, etc. Hence also the Believing in Scripture so *pitiably lament*, specially in Psalms — and Paul also laments that he is *sold under Sin*, and that his Flesh strives against the Spirit. But because they *through the Spirit mortify the deeds of the Flesh* — **Rom. 8** — and *crucify the Flesh with its Lusts and Desires* — such Sin must **not harm them, nor damn them, for Christ's sake, whose Obedience is imputed to them for Righteousness**.
+
+But when they follow the Flesh and *accomplish its Lusts and Desires*, they **lose Faith on Christ and the Holy Spirit**. And where they then do not *hate the Sin*, have *Rue and Sorrow* over it, *turn again to Christ* — who has given his Church the *Keys*, that she may *raise up again and comfort the Fallen who convert*, so they may again receive Faith in Christ and the Holy Spirit — they *die in their Sins*. And of those it stands written: *"They who do such things shall not inherit the Kingdom of God"* — understand: **those who in such Sins without Conversion to God and Faith on Christ *persist and go on***.
+
+Hereout can now be understood *who are right Christians or not*. **Right Christians have Sin, feel it also, and it grieves them; they acknowledge it, however, and pray for Forgiveness through Christ** — **Ps. 32**. On the contrary, those who are *no Christians* have not alone Sin, but *take delight therein*, accomplish it, resist not, ask not for Forgiveness, strive and combat not against the Flesh, but *follow the same in its evil Lusts and Desires*, etc.
 
 — ❦ —
 
-*[Chapter XVI continues on Ruling vs Non-Ruling Sin, closing into Chapter XVII Von der Sünde in den Heiligen Geist. Translation continues in Rebuild-Tranche 13.]*
+# XVII.
+
+# Of the Sin against the Holy Spirit.
+
+## Question 1. What is Sin against the Holy Spirit?
+
+**What is Sin against the Holy Spirit?**
+
+**There are two kinds of Sinners**: some sin *unwittingly*, others *wittingly*.
+
+**So one shall now distinguish and speak**: All Sins have between themselves and God **the Offering and Prayer of Christ** — wherefore God will not impute them, if only they be *confessed*, and one *holds to this High Priest with his Offering and Prayer on the Cross*.
+
+But those Sins which *strive against Grace*, and *will not be Sin* — as of the left-hand Thief, and of the High Priests' blasphemies — those pertain not hither, under Christ's Prayer.
+
+**There is a great distinction** between *the Sin one acknowledges to be Sin*, and *the Sin one acknowledges not to be Sin*.
+
+**The Sin one acknowledges as Sin** — be it Unbelief, or Weakness of Faith, or other Faults — those are all *pardonable Sins*. **God will not for the sake of such Sins reject me**, but *will forgive me*, so far as I confess them to be Sin, ask for Grace, and *hold to Christ*.
+
+**But the Sin one acknowledges not as Sin**, but *defends*, are **unpardonable Sins** — for they will not be Sin, etc.
+
+**So one now calls it *Sin against the Holy Spirit*** — where one *rises up and remains upon it*, that it be right, and *knowingly persists* in such Sin, *lets not therefrom*, and *prays not for Forgiveness* of the same, etc.
+
+— ❦ —
+
+## Question 2. Can Sin be paid through anything other than the Death of Christ?
+
+**Can Sin be paid through anything other than the Death of Christ?**
+
+**No.** For Sin is such a great thing, and her cleansing costs so much, that so exalted a Person (as Christ here is praised to be) must *himself* do it, and *through himself cleanse* — **Heb. 1:3**: *"And hath made the cleansing of our Sin through himself."*
+
+What shall then in such great matters our poor and vain doing be able to accomplish — we who are *Creatures*, and moreover *sinful and unfit corrupted Creatures*? That were even as though one undertook to burn Heaven and Earth *with an extinguished firebrand*. There must be **so great a Payment of Sin as God himself is**, who is by the Sin offended.
+
+— ❦ —
+
+## Question 3. Whereout is Sin then known?
+
+**Whereout is Sin then known?**
+
+**Out of the Law of God** — **Rom. 3:20**: *"Through the Law comes Knowledge of Sin."*
+
+— ❦ —
+
+# XVIII.
+
+# Of the Law of God.
+
+## Question 1. What is the Law?
+
+**What is the Law?**
+
+**The Law is nothing else than God's Word and Commandment**, wherein he commands us what we shall do and leave, and demands our Obedience and Work, *inwardly and outwardly*. But *punishes* us when we are disobedient, and threatens us with his Wrath and eternal Damnation — **Ex. 20; Deut. 27; Gal. 3**.
+
+— ❦ —
+
+## Question 2. How are the Ten Commandments divided?
+
+**How are the Ten Commandments divided?**
+
+**In two Tables**: The first three teach *how we shall be ordered toward God*. The Commandments in the second Table *go downward to the Neighbour*, and show *how one Man shall bear himself toward another*.
+
+— ❦ —
+
+## Question 3. Who has given the Ten Commandments?
+
+**Who has given the Ten Commandments?**
+
+**God himself has done it** — as the History **Ex. 19 and 20** shows. For as he alone has created Men, so also has he alone prescribed the Rule after which they shall live.
+
+**First**, at the Creation he has *planted* it in Men's Hearts. Afterward, when the Law through the Fall was *darkened*, he *renewed* it on Mount Sinai. Thereto have the dear Angels ministered — **Acts 7:53; Gal. 3:19**. But the LORD Christ has, **Matt. 5 and 6**, quite *gloriously explained* it.
+
+— ❦ —
+
+## Question 4. Whom does it concern?
+
+**Whom does it concern?**
+
+**All Men — Jews and Heathen** — for it is at the Creation *written in all Men's Hearts* — **Rom. 1, 2**. Wherefore it binds all Men, and here is no distinction — **Rom. 3** — forasmuch as they are *all together Sinners and disobedient*.
+
+— ❦ —
+
+## Question 5. What Obedience does it demand from us Men?
+
+**What Obedience does it demand from us Men?**
+
+**A perfect inward and outward Obedience** — thus, that we love God with the whole Heart, and our Neighbour as ourselves — **Deut. 6:5**: *"Thou shalt love the LORD thy God with the whole Heart, with the whole Soul, with all thy might."* — **Matt. 22:37–39**: *"Thou shalt love GOD thy LORD with the whole Heart, with the whole Soul, with the whole mind — that is the chief and greatest Commandment. But the other is like it: Thou shalt love thy Neighbour as thyself."*
+
+Wherefore it also punishes not alone the *outward*, but also the *inward transgressions of the Heart or of the Soul* — **Rom. 7:14**: *"The Law is spiritual, but I am carnal, sold under Sin."*
+
+Whence the Pharisees and Papists *fearfully err*, who give out that it demands only outward Obedience, and punishes only outward Sin, and not the inward *Uncleanness of the Heart*. Whence it is also *far* from being at peace with us Men, until we have paid the Punishment for Sin, and rendered *perfect Obedience*. This appears from this: that Christ has for us not alone with his *holy Obedience fulfilled the Law*, but also for all our Sins, through his Blood and Death, has had to *make amends, atone, and pay* — **Rom. 4:25**: *"Who was given for our Sins, and raised for our Righteousness."* — **Rom. 5:19**: *"As through one Man's disobedience many are become Sinners, so also through one's obedience many are become Righteous."* — **Rom. 8:3**: *"For what was impossible for the Law (for it was made weak through the Flesh), that God did — and sent his Son,"* etc. — **Rom. 10:4**: *"Christ is the End of the Law; whoso believes on him is righteous."*
+
+— ❦ —
+
+## Question 6. What has it for Promise?
+
+**What has it for Promise?**
+
+**Conditional Promise**: *"Do this, so shalt thou live"* — **Luke 10:28; Rom. 2:13**: *"The doers of the Law shall be righteous thereby."* — **Matt. 19:17**: *"If thou wilt enter into Eternal Life, keep the Commandments."*
+
+But because *no man does this*, no one on account of *his own works and sufferings* can *comfort himself* of these Promises.
+
+— ❦ —
+
+## Question 7. Wherefore is it given?
+
+**Wherefore is it given?**
+
+**Chiefly for three Causes:**
+
+**First**: that in general it serve to the *preservation of outward Discipline* in all Estates, and to *restrain Sin* — **1 Tim. 1:9**: *"The Law is given to the Unrighteous."* And therefore Father-and-Mother-Estate is instituted, likewise the Authority and School-Master ordered, that they may thereout *hold Discipline and Honesty*, and *steer against Wickedness*.
+
+**2.** That it *drive us secure raw Men* to right *Knowledge of our Sin*, work *Wrath and Terror in our Hearts*. Wherefore **Rom. 3:20** stands that it *brings Knowledge of Sin*, and **Rom. 4:15** that it *works Wrath*. For because we by Nature understand not *what Sin and God's Wrath are*, and know not *how pitiably our Nature is corrupted*, God uses the *Preaching of the Law* thereto — *kills and terrifies* our Hearts, *shatters and grinds them to pieces*, so that they may *learn to humble themselves before God's Judgement* and *no more remain so secure and puffed up* as they do without the Preaching of the Law.
+
+And if this Preaching accomplishes nothing, so uses the LORD God *Cross, Temptation, Sickness*, and other Plagues thereto, to *make us tender*. But in all he strikes our Hearts with *Fear and Terror*, makes *the Sin alive in the Conscience* — **Rom. 7** — that we for *anxiety* know not where we should stay.
+
+**3.** That it *show the Regenerate and Believing Christians what good works they shall do* — which please God, and *whereafter they shall order their whole Life* — **Ps. 1:2**: *"But he has delight in the Law of the LORD,"* etc. — **Rom. 7:22**: *"I have delight in God's Law after the inward Man."* — **Ps. 119:105**: *"Thy Word is a Lamp unto my feet."*
+
+Besides that, that it also *remind the same of the remaining Weakness*, and *hold them off from Security and other Sins*.
+
+— ❦ —
+
+## Question 8. Can then we Men in this Life fulfil the Law?
+
+**Can then we Men in this Life fulfil the Law?**
+
+**No.**
+
+The *Unregenerate* Men cannot — for **an evil tree cannot bring good fruits** — **Matt. 12:33**.
+
+So Human Nature cannot even *rightly hear* it — let alone that she should *fulfil* it — **Ex. 19, 20; Deut. 5**.
+
+So it is also certain that *no natural Man* can be set forth who has *fully fulfilled* it — **Rom. 3:20**: *"Through the Works of the Law no living Man is justified."*
+
+**Moses himself, Ex. 34:7**, says that no Man can fully keep it — *for even the Innocent is not innocent before God*.
+
+The Prophets and Apostles witness likewise — **Ps. 130:3**: *"If thou wilt, LORD, mark Sin, LORD, who shall stand?"* — **Ps. 143:2**: *"Enter not into Judgement with thy servant, for before thee is no Living justified."*
+
+Christ also, **Luke 10** — in the Parable of him who had fallen among the Robbers; and in the Similitude of him who was indebted to his Lord *ten thousand talents* — **Matt. 18**.
+
+— ❦ —
+
+## Question 9. Can perhaps the *Believing Christians* fulfil it?
+
+**Can perhaps the Believing Christians fulfil it?**
+
+**No.** For also of the Believing the Scripture says that they still have Sin — **Ps. 51; Rom. 6, 7**. Where, however, is still Sin, there is *no fulfilment of the Law*.
+
+So she says that also in the Believing the *Old Man* is still present, who has evil Lusts and Desires — **Eph. 4; Col. 3**. Where these are still present, there is *not the fulfilment of the Law*.
+
+Over that, she witnesses that also in the Believing the *Love of God is imperfect*. For evil Lusts still remain in all, and the *enmity* — **Rom. 8** — *ceases not wholly* as long as they live.
+
+Besides, she says, we are not *perfect* — **Rom. 7:18**: *"To will I have indeed; but to accomplish the good, I find not."*
+
+Finally, she teaches all Believing *daily* to pray for the *Forgiveness of Sins* in the Our Father. From all which it is certain that also the Believing *fulfil not the Law fully* — although a *new Obedience through the Holy Spirit* is *begun* in them.
+
+— ❦ —
+
+## Question 10. Who has then *fulfilled* the Law?
+
+**Who has then fulfilled the Law?**
+
+**Christ Jesus alone.** He has *atoned for all our Sins*, and taken upon himself the *Punishment of the Law* — **Isa. 53; Rom. 4, 5**. And has also *rendered him a perfect Obedience* — **Rom. 5, 8, 10**.
+
+— ❦ —
+
+## Question 11. What helps it us, however, since the Law was given us Men?
+
+**What helps it us, however, since the Law was given us Men?**
+
+**It has thus pleased God**, that he would take from us the *Punishment and Fulfilment of the Law*, and lay it on his *Only-begotten Son* — forasmuch as the *Law was through our Flesh weakened*, or we on account of the *inborn Corruption* could not fulfil the Law. As stands written — **Rom. 8:3–4**: *"For what was impossible for the Law (forasmuch as it was made weak through the Flesh), that God did, and sent his Son in the likeness of sinful Flesh, and condemned Sin in the Flesh through Sin, that the Righteousness required of the Law might be fulfilled in us — who now walk not after the Flesh, but after the Spirit."*
+
+— ❦ —
+
+## Question 12. How, however, do we obtain such Fulfilment?
+
+**How, however, do we obtain such Fulfilment?**
+
+**In and through true Faith on Christ.** For when we in *contrite and broken Hearts believe on Christ*, and comfort ourselves of his *Satisfaction with sure Confidence* — there **God imputes to us the Penance which Christ has done for our Sins**, and *gives us besides his full whole Obedience*, wherewith he fulfilled the Law — which serves us **just as strongly as if we ourselves had done it** — **Rom. 10:4**: *"Christ is the Fulfilment of the Law, unto Righteousness, to those who believe on him."*
+
+— ❦ —
+
+## Question 13. Does then Christ, through the Holy Spirit, not begin in the Believing Hearts a *new Obedience*?
+
+**Does then Christ, through the Holy Spirit, not begin in the Believing Hearts a new Obedience?**
+
+**Yes indeed.** But it is still very weak, and *no fulfilment of the Law* — yet pleases nevertheless the Heavenly Father for Christ's sake, for whose sake the Person is *acceptable to God* — **Rom. 8:1**: *"So is now no Damnation upon them who are in Christ Jesus, who walk not after the Flesh but after the Spirit."*
+
+— ❦ —
+
+## Question 14. Why shall the Law of God be constantly *sharpened and driven*?
+
+**Why shall the Law of God be constantly sharpened and driven?**
+
+**First**: that it be known to every man, and we may *nevermore forget the same*.
+
+**2.** That it *for ever and ever remind us* of the pitiable Corruption of Human Nature, and *drive us to Repentance and Conversion*.
+
+**3.** That Christ's Benefits may become *so much the more welcome* — for only the Sick rightly understands what the Medicine is good for — **Matt. 9:12**: *"The Strong need not the Physician, but the Sick."*
+
+**4.** That we may be *stirred up* to pray *without ceasing* for the *Assistance of the Holy Spirit*, to lead a Christian Life, and to *demonstrate ourselves in some measure conformable to the Ten Commandments*.
+
+— ❦ —
+
+## Question 15. What has the Law for Pupils?
+
+**What has the Law for Pupils?**
+
+**There are three sorts of Pupils of the Law:**
+
+**The first**: those who *hear the Law and despise it*, lead a reckless Life *without Fear*. To these the Law comes never, and they are figured through the *Calf-servers in the Wilderness*, on whose account Moses *broke the Tables in two*, and brought not the Law to them.
+
+**The second**: those who *undertake it with their own Power to fulfil, without Grace*. These are figured through those *who could not see Moses' countenance* when he brought the tables the second time. To these the Law comes, but they *suffer it not*; wherefore they *cast a veil over it*, and lead a *hypocritical Life* with outward Works of the Law — which yet the Law all makes into Sins if the Veil were taken off. For the Law demonstrates that our capability is *nothing without Christ's Grace*.
+
+**The third** are those who **see Moses clearly without veil**. These are they who understand the Law's Meaning — that she requires *impossible things*. There Sin goes in full force, there Death is mighty. If now Christ came not to help there, no man could bear such Brightness of the Law, and Terror of Sin and of Death.
+
+— ❦ —
+
+## Question 16. The Antinomians say that one shall not preach the Law, but the Gospel?
+
+**The Antinomians say that one shall not preach the Law, but the Gospel?**
+
+**That is true**, that the Law *makes not righteous*, and that in the Article concerning *Justification* one shall teach, say, nor think *nothing else than the Word of Grace shown us in Christ*.
+
+But from that it follows *not* that the Law shall be *abolished*, and *taken away from the Pulpit in the Church*. Yea, even therefore is it so much the more *needful*, that one *diligently teach and drive* the Law — that Man (who is proud, and *relies on his own Powers and Ability*) may thereout be instructed, that he *through the Law cannot be justified*, etc.
+
+Wherefore Christ says — **John 16:8** — *"The Holy Spirit shall reprove the World of Sin"* — which cannot happen except through *the Law's Exposition*. And in Sum: God's Law is as *needful* to be driven and preached as the Gospel — for many are Evil, who must be held back through the *Constraint of the Law*; but the Pious are few, and known to God, who *grasp the Gospel*.
+
+— ❦ —
+
+## Question 17. In what wise are the Ten Commandments abolished?
+
+**In what wise are the Ten Commandments abolished?**
+
+**Thomas** and the other ***Scholastici Doctores***, when they speak of the abolition of the Law, say that alone the *Worldly Laws of Moses* and the *Ceremonies* are abolished through Christ — **not, however, the Ten Commandments**.
+
+Thou, however, when thou wilt speak of the ***abrogatio*** or *abolition* of the Law, shalt say that **chiefly the Ten Commandments are abolished — not alone the Worldly Laws and Ceremonies**...
+
+— ❦ —
+
+*[Chapter XVIII continues on the Law's threefold use and further theological distinctions. Translation continues in Rebuild-Tranche 14.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
