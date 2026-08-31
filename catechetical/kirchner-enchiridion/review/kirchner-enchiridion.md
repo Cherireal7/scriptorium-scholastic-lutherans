@@ -5980,7 +5980,255 @@ The **Jews and Turks** also to this day use Baptism — wash or bathe themselves
 
 ## Question 4. Through whom is Baptism *performed*?
 
-*[Chapter XXVI Of Baptism opens. Translation continues in Rebuild-Tranche 25.]*
+**Through the Church-Servants** — **Matt. 28:19**: *"Go and baptise all the Heathen."*
+
+— ❦ —
+
+## Question 5. What belongs to Baptism — or which is the right *Form* of Baptism?
+
+**What belongs to Baptism — or which is the right *Form* of Baptism?**
+
+**As Christ has described her** — **Matt. 28:19**: *"Baptise all the Heathen in the Name of the Father, of the Son, and of the Holy Spirit."*
+
+**The Element is Water**, which needs *not to be specially consecrated* thereto, as the Papists dream. For thereof no Witness of the Scripture is at hand; neither Christ nor the Apostles have anything commanded of that. **Acts 8:38** — the Chamberlain was baptised on the flowing water *without preceding Consecration of the same*.
+
+— ❦ —
+
+## Question 6. Whom shall one baptise?
+
+**Whom shall one baptise?**
+
+**All Men.** As Christ says: *"Baptise all the Heathen"* — says not: *"Baptise only the Old, and not the young Children"* — but **all Heathen, whether they be old or young**.
+
+— ❦ —
+
+## Question 7. Whereout does one prove the *Infant Baptism*?
+
+**Whereout does one prove the Infant Baptism?**
+
+**First**, from the little saying: *"Baptise all Heathen"* — where Christ makes *no distinction*, or shuts out the Children.
+
+**2.** From the **Example of the Apostles**, who baptised whole Households — **Acts 16:15, 33; 1 Cor. 1:16** — in which not *only old*, but also *Children* were.
+
+**3.** From the *Use* of the Apostolic and following Churches unto this day.
+
+**4.** **Peter** — **Acts 2:38–39** — where he preaches of Baptism, says *expressly*: *"To you and to your Children is this Promise come."* Wherefore there is no doubt that Baptism is also to be dispensed to Children.
+
+**5.** **Mark 10:14** — the LORD Christ says: *"The Kingdom of Heaven is of the Children."* How then should Baptism be *denied to them* — through which as a Means the Kingdom of Heaven is imparted?
+
+**6.** **To the Children it is necessary that they be *born anew***, forasmuch as they are also *Flesh* and *conceived and born in Sins* — **John 3:6; Ps. 51:5**. Wherefore they shall and must also be *baptised*, that they may obtain the **Regeneration**.
+
+**7.** In the Old Testament the little Children were *Circumcised*. Wherefore should one then in the New Testament withhold from the little Children the Baptism?
+
+**8.** So it stands nowhere in the Scripture that Baptism is grounded upon Man's **Confession, Understanding, or Age**, or that one should wait for the same. Wherefore it is not needful that one delay with Baptism until the little Children *reach their years and understanding*.
+
+— ❦ —
+
+## Question 8. Can then the little Children believe?
+
+**Can then the little Children believe?**
+
+**Answer**: **Out of and of themselves, no.** For Faith is not Man's work, but a **Gift of God** — **Eph. 2:8**. But when they are baptised, the Holy Spirit — who through the Water-bath in the Word *regenerates them* — works Faith in them and makes them Believing.
+
+Whence Christ — **Matt. 18:6** — ascribes to the little Children **Faith**.
+
+— ❦ —
+
+## Question 9. Explain to me briefly the Words of Baptism: **"I baptise thee in the Name of the Father, of the Son, and of the Holy Spirit"**?
+
+**Explain to me briefly the Words of Baptism: "I baptise thee in the Name of the Father, of the Son, and of the Holy Spirit"?**
+
+**First**, these words comprehend the *high Article of our Christian Faith*, concerning the **Holy Trinity** — Father, Son, and Holy Spirit — without which Knowledge no Man can be blessed. There is **one Name** — *"Baptise them in the Name"* — he says. Wherefore there is also **one Godhead**, or one Divine Being; all three Persons *one Honour, Majesty, and Glory*.
+
+**Second**, *to be baptised in the Name of the Father, Son, and Holy Spirit* means as much as: **that God's Holy Name is invoked over us**, and we are **out of Grace received and accepted unto Eternal Life and Children of God**.
+
+By Nature we are Children of Wrath; but in Baptism we are **washed from Sins in God's Name**, and unto **Children of God for Christ's sake received and accepted**. The Eternal Father receives us on account of his beloved Son; the Holy Spirit *regenerates* us and makes us into **new Men**, that we henceforth *avoid Sin* and *begin to live in Righteousness*. On account of the Eternal Son the Father hears our Prayer, and the Holy Spirit comforts us.
+
+**Third**, because Baptism happens in the Name of the Holy Trinity, it is clear that the **Worthiness and Power of Baptism is not laid upon the Minister who baptises**.
+
+Wherefore we shall firmly believe that **the Holy Trinity receives us, regenerates us, gives Forgiveness of Sins, imparts the Holy Spirit, and henceforth wills to lead, guide, protect, and shield us** — however it may be with the Minister.
+
+— ❦ —
+
+## Question 10. Is then Baptism *necessary* to Blessedness?
+
+**Is then Baptism necessary to Blessedness?**
+
+**Yes.** For thus says Christ — **John 3:5**: *"Except one be born again through Water and Holy Spirit, he cannot enter into the Kingdom of God."*
+
+— ❦ —
+
+## Question 11. Are then all who *do not obtain* Baptism *certainly damned*?
+
+**Are then all who *do not obtain* Baptism *certainly damned*?**
+
+**No.** The **Thief on the Cross** is made blessed, though he was not baptised. So in the *early Church many Christians became Martyrs for Christ's sake* before they obtained Baptism. Shall one damn these all?
+
+Thus in our times many **captive Christians among the Turks** — who have neither Preaching nor Sacrament — can be made blessed, if they only remain in Faith of Christ and *persist to the End*, though they must be *robbed of the Sacraments*.
+
+So the right-believing Church holds also that the **Christians' Children who die before the received Baptism** — because they through Prayer are set forth and commended to God upon Christ's Promise — are *not damned*.
+
+Accordingly only those are damned who despise Baptism *out of pure willfulness or negligence* and *cast it to the winds*.
+
+— ❦ —
+
+## Question 12. Can one then also *outside* of Baptism be made blessed through Faith? Why then is it necessary that one use the same?
+
+**Can one then also outside of Baptism be made blessed through Faith? Why then is it necessary that one use the same?**
+
+**Answer**: Here must (as before reported) be *distinguished*. For it is one thing to speak of those who either through Death are *cut short*, or otherwise *hindered* — so that though they gladly would be baptised, they yet cannot come thereto, and must thus *against their Will be robbed of Baptism*; and *another* to speak of those who have *good Occasion* to receive Baptism, and yet will not do it, but *despise it*.
+
+These are rightly damned, because they well could have Baptism, and yet will not have it.
+
+Wherefore it is *not right* to conclude therefrom that Baptism is a *needless thing* because one can be made blessed through Faith. For Baptism is **necessary on account of Christ's Ordinance**, and by no means is to be *neglected or despised*, under the pretext of *thoughtlessness*, that one can also without Baptism be made blessed. Forasmuch as such is true only of those who *cannot come thereto* — though they gladly would. Not, however, of the *despisers of Baptism*, who well could have it, and willfully will not use it.
+
+— ❦ —
+
+## Question 13. What does Baptism *work* or bring?
+
+**What does Baptism work or bring?**
+
+**Answer**: **As an *Instrument and Tool of God*, she works and brings Forgiveness of Sins, Regeneration, Renewal, and Blessedness** — as the clear sayings of Scripture witness.
+
+- **Mark 16:16** — *"Whoso believes and is baptised shall be made blessed."*
+- **Acts 2:38** — *"Let every one among you be baptised unto the Forgiveness of Sins."*
+- **Eph. 5:26** — *"And cleanseth his Congregation through the Water-bath in the Word."*
+- **Tit. 3:5** — *"According to his Mercy he made us blessed, through the Bath of Regeneration and Renewal of the Holy Spirit — which he poured over us richly, through Jesus Christ our Saviour, that we should through the same Grace be made Righteous and be Heirs of Eternal Life, according to the Hope,"* etc.
+- **1 Pet. 3:21** — *"Which now saves us also in Baptism, which is signified through that,"* etc.
+
+— ❦ —
+
+## Question 14. Does Faith belong to the *Being* or *Substance* of Baptism — so that Baptism is no right Baptism when Faith comes not thereto?
+
+**Does Faith belong to the *Being* or *Substance* of Baptism — so that Baptism is no right Baptism when Faith comes not thereto?**
+
+**No.** To the Substance and Being of Baptism, Faith does not belong. For so far as the Substance of the Holy Baptism concerns, it is not grounded upon anyone's Faith, but stands alone upon **Christ's Institution**, and is a **right Baptism, though we should not believe**.
+
+But he belongs to the **right saving *Use* of Baptism**. For Faith makes not Baptism into Baptism; but he is needful thereto: that if thou wilt become *capable of the Working* of Baptism, thou must believe that Christ therethrough deals with thee and wills to make thee blessed.
+
+— ❦ —
+
+## Question 15. But Christ himself says: *"Whoso believes and is baptised"*?
+
+**But Christ himself says: "Whoso believes and is baptised"?**
+
+**Answer**: There he speaks of the **right saving use or profit of Baptism**, and not of the Substance or Being of the same.
+
+And so is also **Augustine's saying** to be understood: ***Non quia dicitur, sed quia creditur*** — *"not because it is said, but because it is believed."* For he speaks there not of the Substance of Baptism, that she is no Baptism without Faith, but of the *Profit* — that it profits thee nothing, though it be a right Baptism, when thou believest not.
+
+— ❦ —
+
+## Question 16. What does the Holy Baptism *signify*?
+
+**What does the Holy Baptism signify?**
+
+**She signifies** (as the Children's Catechism rightly and well says) **that the Old Adam in us shall through daily Rue and Repentance be drowned, and die with all Sins and evil Lusts; and again daily come forth and rise a new Man, who lives in Righteousness and Purity before God eternally** — as at **Rom. 6:4** stands: *"We are buried together with Christ through Baptism into Death, that as Christ is raised up from the dead through the Glory of the Father, so shall we also walk in a new Life."*
+
+— ❦ —
+
+## Question 17. Do then those *not* teach rightly who give out that **Baptism is only a Sign of Forgiveness of Sins, and not a Means through which those baptised are washed from Sins**?
+
+**Do then those *not* teach rightly who give out that Baptism is only a Sign of Forgiveness of Sins, and not a Means through which those baptised are washed from Sins?**
+
+**Answer**: They teach **not right**. The reason is: for **Acts 22:16** stands clearly: *"Let thyself be baptised, and wash away thy Sins,"* etc. So it is shortly before proved that Baptism, **as an Instrument and Means of God, works and brings Forgiveness of Sins** — as a Means, I say, not, however, as a ***causa efficiens***, but as a ***causa instrumentalis***.
+
+— ❦ —
+
+## Question 18. Is it then true that the Children of *believing Parents* are *holy* — also before Baptism?
+
+**Is it then true that the Children of believing Parents are holy — also before Baptism?**
+
+**Truly, no.**
+
+**First**, no one is holy who is not yet in the *Kingdom of Grace*. The little Children before Regeneration are not yet in the Kingdom of Grace, forasmuch as they are **Children of Wrath by Nature** — **Eph. 2:3**.
+
+**Second**, what is born only of Flesh — **John 3:6** — is not holy before God. The little Children of the Believing are born only of Flesh. Wherefore they are not holy.
+
+**Third**, no one is holy who has not Forgiveness of Sins. The Children before Baptism have not Forgiveness of Sins; for in Baptism they are first baptised unto the Forgiveness of Sins — **Acts 2:38**. Wherefore they are before Baptism not holy.
+
+**Fourth**, what in Baptism is first cleansed from Sins is beforehand not clean or holy. The little Children of the Believing are first through the *Water-bath in the Word* cleansed from their Sins — **Eph. 5:26**. Accordingly they are before Baptism not holy.
+
+**Fifth**, the *Promise* is of no use unless she be grasped through Faith — **Heb. 4:2**. The little Children become partakers of her only in Baptism. How then should they beforehand be holy, before they have grasped the Promise with Faith?
+
+— ❦ —
+
+## Question 19. But Gen. 17:7 stands: **"I will be thy God, and of thy Seed after thee."** *Ergo*, so must the Believing's Children also before Baptism be holy?
+
+**But Gen. 17:7 stands: "I will be thy God, and of thy Seed after thee." *Ergo*, so must the Believing's Children also before Baptism be holy?**
+
+**Answer**: This Objection holds not. The Reason is this: the opposite side *tears asunder* the Grace-Promise and Circumcision — which, however, God the LORD has joined together. Wherefore it does not hold to impute the *bare Promise* to the little Children, without the Circumcision and without Faith. For (as reported) **what God joins together, no Creature has power to tear asunder**. In the same manner it is also with Baptism and with the Grace-Promises.
+
+Because the opposite side confesses that the little Children — even those born of Believing Parents — have no Faith, so is it *in vain* that they press and argue: **they are holy before Baptism**, and *Heirs of the Promise* — since **Heb. 4:2** clearly stands: *"The Word of Preaching helped them nothing, because those who heard it believed not."*
+
+— ❦ —
+
+## Question 20. But St. Paul says at 1 Cor. 7:14: **"Your Children are holy"**?
+
+**But St. Paul says at 1 Cor. 7:14: "Your Children are holy"?**
+
+**Answer**: The opposite side *perverts* the Apostle's words. For the Apostle speaks of the Children of a **Believing wife who has an Unbelieving Husband**. The Sacramentarians, however, interpret them only upon Children *born of both Believing Father and Mother*.
+
+**Second**, the Apostle's meaning is that he will demonstrate — that the Children are therefore *not unclean*, and that a Believer is *not unclean* if the parents are not both Believing. But the Sacramentarians strive from these Words that the Children are **before and without Baptism** *holy* because they have Believing Parents.
+
+**Third**, the Apostle teaches that to the Believing the little Children are *clean*. The opposite side, however, argues: the little Children are *in themselves holy and clean*, because they have Believing Parents. The Apostle draws the Holiness upon the Parents; the opposite side draws the Holiness upon the little Children themselves — which grounds not.
+
+**Fourth**, the Apostle speaks only of the **outward cleanness or holiness**, by no means, however, of the **inward cleanness or holiness that is valid before God**. For if our opposite side, the Sacramentarians, would interpret this saying of the *spiritual Holiness*, then must they necessarily say that also an **Unbelieving Wife** or an **Unbelieving Husband** — on account of the Believing Consort — is *spiritually holy before God*, and has spiritual inward Holiness which is valid before God. Which, however, is throughout *false and wrong*. For it stands clearly written — **John 3:36**: *"Whoso believes not the Son shall not see Life, but the Wrath of God remains on him."* And **Mark 16:16**: *"Whoso believes not shall be damned."*
+
+— ❦ —
+
+## Question 21. Is Baptism bound to a certain *Place* — so that she is not valid when she happens *not in a consecrated Church*?
+
+**Is Baptism bound to a certain Place — so that she is not valid when she happens not in a consecrated Church?**
+
+**No.** Christ has bound Baptism to *no certain Place*. Wherefore we shall also not do it. He himself was baptised in the Jordan; **Acts 2:41** — about three thousand Men were baptised **outside the Church**. So **Acts 8** also the Samaritans and the Chamberlain of the Queen of the Ethiopians. Wherefrom it is *clear* that Baptism is *right* even though she happen *outside the Church* according to occasion of matters.
+
+— ❦ —
+
+## Question 22. Is there a certain *Time or Year* fixed *when* one shall let oneself be baptised?
+
+**Is there a certain *Time or Year* fixed *when* one shall let oneself be baptised?**
+
+**Not at all.** The **Anabaptists** of our Time press upon this, but *without Scripture and Divine Command*. The Apostles themselves baptised Children — **Acts 16; 1 Cor. 1** — and have not waited until they reached *thirty Years*. In the same manner the Church has held it unto this Time with the **Child-Baptism**. Wherefore we shall not let ourselves be talked into anything else by the Anabaptists.
+
+Though also in the *early Church many people put off Baptism for long*, yet it does not hold to want to ground oneself on such Examples *without God's Word and Command*.
+
+So **Christ's Example** — who first in the *Thirtieth Year of his Age* had himself baptised — is quite ***extraordinarium***, and from it no Rule can be made.
+
+As also this has no ground — that they give out from the *Use of Reason*, which the little Children lack. For Baptism is *not grounded thereon*. So too can God the LORD just as well work Faith in the little Children's Hearts through Baptism, as in the Old who use Reason. Besides — Reason *not alone furthers not Faith, but hinders it much more*. For **the natural Man understands nothing of the Spirit of God — 1 Cor. 2:14 — but it is a folly to him.**
+
+— ❦ —
+
+## Question 23. Is it right to let oneself *be baptised again*?
+
+**Is it right to let oneself be baptised again?**
+
+**By no means.** The Papists put forth *two reasons* why one shall not let oneself be rebaptised: The one, that Baptism *impresses an indelible Character on the Soul*. The other, that whoso after received Baptism has *sinned*, can through the *Sacrament of Penance come again to rights*. But God's Word teaches *quite otherwise* hereof.
+
+**Namely, first**: that **God's Covenant which he sets up with us in Baptism, so far as concerns himself, is *irrevocable*** — **Rom. 3:3**. Our *Unbelief* abolishes not the Promise. Wherefore Baptism could not without special *Blasphemy of God* be *repeated*.
+
+**2.** Of Baptism it stands not: *"As oft as ye do this,"* etc. — as of the Supper. Wherefore Baptism shall not be *repeated*.
+
+**3.** The Scripture also witnesses with clear Examples: those who after received Baptism sinned and turned themselves again to God have *not let themselves be rebaptised*, but have done Repentance and through Faith on Christ have again come to the Grace-Covenant — as **Peter, the Christians at Corinth, among the Galatians**, and the like more.
+
+**4.** Just as **Circumcision in the Old Testament** is *not repeated*, so shall Baptism (which is come *in her place*) not be repeated.
+
+**5.** The right-believing Church has *never permitted or granted* that Baptism might be *repeated*, but has let it remain by the *One Baptism*, as is right.
+
+**6.** **Augustine, *Tract. 11 & 12 in Ioannem***, rightly says: *"Just as there is only one Fleshly Birth, so is there also only one Spiritual Regeneration."* And ***De vera et falsa poenitentia***: *"Just as Christ is only once crucified, so also shall Baptism not be repeated."*
+
+— ❦ —
+
+## Question 24. What is then to be held of the *Papists' Doctrine* that they fable — that Baptism impresses an *indelible Character or Sign* on the Soul?
+
+**What is then to be held of the *Papists' Doctrine* that they fable — that Baptism impresses an *indelible Character or Sign* on the Soul?**
+
+**This Doctrine is only a Human Fable, and has no Ground in God's Word.** For not one little saying is to be found in the whole Bible whereby they can prove such fable — as also the *School-Teachers* themselves must acknowledge.
+
+**2.** So is it certain that the old right-believing Church...
+
+— ❦ —
+
+*[Chapter XXVI Of Baptism continues. Translation continues in Rebuild-Tranche 26.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
