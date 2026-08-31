@@ -594,7 +594,213 @@ That certain sins, however, happen distinctly against the Father, against the So
 
 — ❦ —
 
-*[Here ends Chapter II. Chapter III* Von der Person des HERREN Christi *— On the Person of Our Lord Christ, the massive Christological locus — follows in Rebuild-Tranche 3.]*
+*[Here ends Chapter II.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Chapter III
+
+### *Von der Person des HERREN Christi*
+
+*On the Person of Our Lord Christ*
+
+— ❦ —
+
+## Question 1. Prove that Christ is true, eternal, Almighty God.
+
+**Prove that Christ is true, eternal, Almighty God.**
+
+**John 1:1–3** — *"In the beginning was the Word, and the Word was with God, and God was the Word: the same was in the beginning with God; all things are made through the same."*
+
+**1 John 5:20** — *"This Jesus is the true God, and the eternal Life."*
+
+**John 5:17** — *"My Father worketh hitherto, and I work also."*
+
+**John 17:3** — *"This is life eternal, that they might know thee — that thou art the true God — and Jesus Christ whom thou hast sent."*
+
+**The Epistle to the Hebrews** says: *"He, the Son, is the express image of his Being"* — thereby mightily testifying that Christ must be *right natural God*, and yet not on that account many, but *a single God*.
+
+**Summa:** Christ is born of the Father's Divine Nature from Eternity, and is his essential Image — *substantialis imago, non artificialis aut facta vel creata*, etc.
+
+*In sum*, the eternal Godhead of Christ is on the following grounds *unassailably proved*:
+
+**1.** That Scripture (**John 1:1; Micah 5:2**) testifies that he was *from eternity* — and thus *before the world was created*.
+
+**2.** Scripture testifies that through him all is created. **John 1:3** — *"All things are made through the Word"* — wherefore he is *true God*. For the *creating* is a work of Divine Majesty, etc.
+
+**3.** Scripture ascribes to him the *Honour of Adoration* (John 9; Pss. 45 and 72; Jer. 23; Rom. 9) — wherefore she ascribes to him also the Godhead.
+
+**4.** Scripture writes to him such Works as **no bare Creature can perform** — as the work of Redemption, of Reconciliation with God, of gathering the Church, and what else is of the like. **John 1:29** — *"See, that is God's Lamb."* **Matt. 1:21** — *"He shall be called Jesus, for he shall save his people from their sins."* **1 Tim. 1:15** — *"It is certainly true and a dear worthy word, that Christ Jesus is come into the world to save sinners."*
+
+— ❦ —
+
+## Question 2. Is Christ then, because he is another Person from the Father, therefore also another God than the Father?
+
+**Is Christ then, because he is another Person from the Father, therefore also another God than the Father?**
+
+**No.** He is another *Person* from the Father — but not another *God* from the Father, rather *equal to him in one eternal, single, Divine Being*. This is the Faith; so teaches Faith; here abides Faith — I mean the Christian Faith, which is grounded in the Holy Scripture.
+
+But whoever will not believe the Scripture, but rather follow reason — let him ever go on; the choice stands: *"Believe, or be lost."* This Adam first experienced, and we all after him — should we not will to believe, we shall likewise experience it.
+
+— ❦ —
+
+## Question 3. Is Christ conceived by the Holy Spirit, and true Man born of the Virgin Mary?
+
+**Is Christ conceived by the Holy Spirit, and true Man born of the Virgin Mary?**
+
+**Yes.** The Symbol so testifies, and **Luke chapters 1 and 2**; likewise the following passages of Scripture.
+
+As namely **Gen. 49:10** — *"The sceptre shall not be taken from Judah until Shilo come"* — speaks there of the woman's Seed, *Christ*, born of the Virgin Mary. For *Shilo* comes from *Siliah*, and shall mean *secundinam* — where the child lies in the mother's body, or the newly-born babe.
+
+**Isa. 7:14** — *"A Virgin shall be with child, and shall bring forth a Son, that shall be called Emmanuel"* — that is, the Mother of the Messiah shall be a *Virgin*, who in her *virginal Silia* or body shall conceive *without the operation of any man*.
+
+**Elizabeth** also fittingly proceeds, when she joyfully received Mary and said: *"Blessed is the Fruit of thy body"* — that is, *Sila* — *fructus matricis tuae*: the fruit of thy body alone, and of no man's.
+
+Further **David** says at **Ps. 110:3**: *"Out of the mother, from the dawn, cometh unto thee the Dew of thy Birth"* — as the Dew falleth from the dawn, so cometh thy Birth out of the mother (mother here means not the whole *Person* of the woman, as in the Fourth Commandment, but that which is called *mother* of the women in their body — *matricem* or *Silia*). Now the Dew falls from Heaven *without any man's contribution* (Micah 2) — yea, also *without clouds*: even when the sky is clear and the dawn is at its fairest, then the dew falls all the more lovingly. No man can say whence or where it begins to fall.
+
+*So also Christ is come out of the mother* — who was in the Virgin Mary's body, so that no father knows thereof, yea, no man, nor even she herself can say or know, how it came about that this fair **Dew — Christ — was conceived and born in her body.** It stands: *"of the Holy Spirit, from above"* — conceived.
+
+— ❦ —
+
+## Question 4. Is the Virgin Mary rightly called God-bearer?
+
+**Is the Virgin Mary rightly called God-bearer (*Gottes Gebärerin*)?**
+
+**Yes.** In the moment that Mary gave her full assent to the Angel Gabriel and said: *"Be it unto me according to thy Word"* — Christ was *at once God and perfect Man in one Person*, as the Fathers in the **Council of Ephesus** against **Nestorius** maintained. For if that were not so, she could not be called ***Theotokos***, God's Mother or God-bearer.
+
+— ❦ —
+
+## Question 5. Is Christ then God and Man in one indivisible Person?
+
+**Is Christ then God and Man in one indivisible Person?**
+
+**In every way.** **John 1:14** — *"And the Word became Flesh,"* etc. Here belongs the **Symbolum Chalcedonense**, in which this high mystery is nobly and clearly explained.
+
+**Canon Symboli Chalcedonensis apud Nicephorum, lib. 15, cap. 6:**
+
+*Itaque Patrum vestigiis insistentes, unum atque eundem profitemur esse filium Dominum nostrum Iesum Christum, et una voce omnes praedicamus perfectum eundem in divinitate, et perfectum eundem in humanitate, DEUM verum et hominem verum eundem: ex rationali anima et corpore, consubstantialem Patri secundum divinitatem, consubstantialem nobis secundum humanitatem, per omnia nobis aequalem absque peccato, ante secula quidem ex Patre, secundum divinitatem, in extremis autem diebus eundem, propter nos et propter nostram salutem, ex Maria virgine et DEI genetrice, secundum humanitatem, genitum.*
+
+*Unum et eundem Iesum Christum filium et Dominum unigenitum, in duabus naturis inconfuse, immutabiliter, indivise, insegregabiliter cognitum et deprædicatum: Haudquaquam naturarum differentiam unione tollente, sed proprietatem potius utriusque naturae conservante, quae in personam unam et subsistentiam unam concurrit: non veluti in duas personas dispertitum aut divisum, sed unum et eundem filium unigenitum Deum Verbum, dominum nostrum Iesum Christum, quemadmodum antiquitus Prophetae, et ipse de seipso nos docuit Christus, et Symbolum Patrum nobis tradidit.*
+
+**That is:** Therefore we tread in the footsteps of the Fathers, and confess that the very same Son is our Lord Jesus Christ, and confess all unanimously the same one **perfect in the Godhead**, and the same **perfect in the Manhood** — the same **true God and true Man**, of rational soul and body subsisting, **consubstantial with the Father** according to the Godhead, and **of one Being with us** according to the Manhood, in all things like unto us, **without sin**, before the world begotten of the Father according to the Godhead, but in these last days the same, for us and for our salvation, born of Mary the Virgin and Mother of God according to the Manhood.
+
+The very same **Jesus Christ, the only-begotten Son and LORD**, in two Natures — **unmixed, unchangeably, undivided, unsundered** — known and preached. That the Union in no way sets aside the *distinction of the Natures*, but rather preserves the *property of each of the two natures*, which run together into *one Person* and *one Substance*: not as *torn apart or divided into two Persons*, but the very same only-begotten Son, God the Word, our LORD Jesus Christ — as of old the Prophets and Christ himself concerning himself have taught us, and the *Symbol of the Fathers* has handed down to us.
+
+— ❦ —
+
+## Question 6. Why then must the Mediator or Redeemer of the human race, in an indivisible Person, be true God and true Man?
+
+**Why then must the Mediator or Redeemer of the human race, in an indivisible Person, be true God and true Man?**
+
+**True God** he had to be:
+
+**1.** For a bare Man could neither *do satisfaction for sin*, nor bring about an *eternal Redemption*. For *"it costs too much to ransom the souls"* — **Ps. 49:8**.
+
+**2.** A pure mere Man could not *distribute the redemption once purchased*, nor **awaken Faith** in the hearts of men, nor **preserve** it therein to the end.
+
+**3.** A pure Man could not *hear the prayers or sighs* of afflicted and tempted hearts, and *help* them out of every need.
+
+**4.** A pure Man could not *save* us from the *power of the devil and hell*, and shield against the raging and roaring of the world and every evil.
+
+**5.** A pure Man could not *awaken* us from the dead, and give eternal Life, joy, and blessedness.
+
+**True Man** he had to be:
+
+**1.** That he might **speak with us men** and reveal his heavenly Father's will. For in the bare Godhead we could not have endured his Majesty — *"since God in his Majesty is a consuming Fire,"* **Deut. 4:24**.
+
+**2.** That for us men **who had sinned (Gen. 3)** he might *suffer and die*. For the Divine Nature alone cannot suffer nor die.
+
+**3.** He also had to be a true Man, or have Human Nature about him, that he might have a *fellow-suffering* with us when it goes ill with us — **Heb. 4:15**.
+
+**4.** He had to be a true Man, that we might *the more undoubtedly believe* that he cordially loves us poor men. **Eph. 5:29** — *"For no man ever hated his own flesh, but nourisheth and cherisheth it."*
+
+— ❦ —
+
+## Question 7. Do the two Natures in Christ, after the Personal Union, still retain their essential properties?
+
+**Do the two Natures in Christ, after the Personal Union, still retain their essential properties?**
+
+**Yes, truly.** For essential properties of the one Nature never become essential properties of the other Nature. Where one lifted up the essential properties, one would have to lift up the Natures with them.
+
+**Almighty, eternal, endless, everywhere at once naturally** — that is, according to *the property of the Nature and its natural being* — these are the *essential properties of the Divine Nature*.
+
+**To be a bodily creature; flesh and blood; finite and circumscribed; to suffer and die** — these are properties of the *Human Nature*.
+
+— ❦ —
+
+## Question 8. Does then, after the Incarnation, each Nature in Christ subsist for itself, so that each is a peculiar Person?
+
+**Does then, after the Incarnation, each Nature in Christ subsist for itself, so that each is a peculiar Person?**
+
+**By no means.** For they are so united with one another that now, after the Incarnation, there belongs to the *whole Person of Christ* not only the Divine but also the *assumed Human Nature* — otherwise there would not be an *indivisible Personal Union*, and the Person would not be *entire*.
+
+— ❦ —
+
+## Question 9. How shall one, however, speak carefully of these high Mysteries?
+
+**How shall one, however, speak carefully of these high Mysteries?**
+
+For the sake of the simple, the ***praedicationes*** or speeches concerning Christ may most conveniently be **divided into three Points**.
+
+**First**: since there are *two Natures* in Christ, which in their essential properties remain *unmixed*, and yet only *one Person* of both Natures is — what belongs merely to *one Nature*'s property is ascribed *not to the Nature alone, as though set apart*, but *to the whole Person* — which is at once God and Man.
+
+Therefore the Apostle says that **God's Son is born of the seed of David according to the flesh**. And **1 Pet. 3:18 and 4:1** — *"Christ hath suffered in / at the flesh."*
+
+— ❦ —
+
+## Question 10. Follows there from this, that the bare Human Nature suffered for us?
+
+**Follows there from this, that the bare Human Nature suffered for us?**
+
+**No.** For the *high Person* has suffered for us, who is God and Man.
+
+**Luke 24:26** — *"Christ must suffer"* — there stands not the *bare human nature*, but the *Person Christ*, who is God and Man.
+
+**1 Cor. 2:8** — *"They have crucified the LORD of Glory"* — where also the *bare human nature* is not attributed the suffering, but the **Person** is named — namely, *the LORD of Glory*, etc.
+
+— ❦ —
+
+## Question 11. The Godhead however cannot suffer?
+
+**The Godhead however cannot suffer?**
+
+**It is true** — but because Godhead and Manhood in Christ are *one Person*, Scripture gives, for the sake of such *Personal Unity*, also to the Godhead what befalls the Human Nature.
+
+For though the Godhead does not *suffer*, yet the *Person* — who is God — suffers *in his assumed Manhood, or in the flesh*: otherwise this Person's suffering could not have been a *satisfaction for the sin of the world*, if only the bare human nature had suffered for us. Whence also the Scripture (**Acts 20:28**) says: *"God has purchased the Congregation with his own Blood,"* etc.
+
+— ❦ —
+
+## Question 12. Does then the suffering touch the Godhead in Christ only so far as when God otherwise suffers in his saints, when they are killed?
+
+**Does then the suffering touch the Godhead in Christ only so far as when God otherwise suffers in his saints, when they are killed?**
+
+**By no means.** For although he dwells in the saints, and thus their suffering also concerns him — yet this happens only ***per relationem***, as one speaks in the schools. But when the Scripture says: *"God has suffered, God is crucified,"* it has quite another meaning.
+
+For the Godhead dwells not merely in the human nature as in other saints; rather, the *Human Nature is with the Godhead of the Son personally and indivisibly united*. Therefore he *there in his own Flesh suffers* — which also makes this Person's suffering so worthy and great, that thereby **all the world's sin is satisfied**, God's wrath fully stilled, and an **eternal Redemption brought about** — **Heb. 10**.
+
+— ❦ —
+
+## Question 13. So is it wrong to draw the sayings on the suffering solely to the Human Nature, and altogether turn them away from the Godhead?
+
+**So is it wrong to draw the sayings on the suffering solely to the Human Nature, and altogether turn them away from the Godhead?**
+
+**Yes, it is wrong.** For where the Works are set apart, there the *Person* must be *torn apart* — since all Works or Sufferings are ascribed *not to the Natures but to the Person*. For the *Person* is that which does and suffers everything, some things according to *this*, other things according to *that* Nature. Wherefore also these are *not* mere words — ***praedicationes verbales*** — when one says *"God has suffered"* or *"the LORD of Glory is crucified,"* as some will hold.
+
+**Secondly**: as regards the discharge of Christ's Mediatorial Office, the *Person* handles and works not *in, with, through, or according to one Nature alone*, but *in, with, and through both Natures* — or, as the **Council of Chalcedon** speaks, *"one Nature works in fellowship with the other, whatever is proper to each."*
+
+— ❦ —
+
+## Question 14. Is then Christ our Mediator, Redeemer, King, and High Priest according to both Natures?
+
+**Is then Christ our Mediator, Redeemer, King, and High Priest according to both Natures?**
+
+**Yes, truly.** For therefore has the *Union of both Natures* in Christ come about — that we might have such a Mediator and LORD who is at once, in *one Person*, God and Man — as was briefly indicated in the *reasons* set forth above (where an account was given why the Mediator between God and men, *in an indivisible Person*, had to be God and Man).
+
+— ❦ —
+
+*[Chapter III continues with the Chalcedonian Rule question, majesty of Human Nature, the "given in time" question, further objections against communicatio idiomatum, and the *genus maiestaticum* against Reformed rejection. Translation continues in Rebuild-Tranche 4.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
