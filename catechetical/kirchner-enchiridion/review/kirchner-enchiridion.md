@@ -10701,6 +10701,362 @@ And again: *"This I know for certain: whoever serves God, he is comforted after 
 
 **10.** That **God is faithful, and lets not his own be tested above their ability** — but *makes that the Testing takes such an End that they can bear it* — **1 Cor. 10:13**. **Lam. 3:31–33**: *"For the LORD casts not away eternally, but grieves indeed, and pities again according to his great Goodness. For he plagues and grieves Men not from the Heart."* Ibid.: *"Thou wilt indeed think thereon; for my Soul says it to me, this I take to Heart, therefore I still hope. The Goodness of the LORD is that we are not entirely out; his Mercy has yet no End, but is new every Morning — and thy Faithfulness is great. The LORD is my Portion, says my Soul, therefore will I hope in him. For the LORD is friendly to him that waits upon him, and to the Soul that seeks him."*
 
+— ❦ —
+
+# XXXVI.
+
+# Of the *Worldly Authority*.
+
+## Question 1. What is the *Authority*?
+
+**What is the Authority?**
+
+**An Estate ordained by God himself**, that *one, or more Persons, rule others according to fair Laws* — **to preserve Discipline and Peace, to protect the Pious, and to punish the Evil**.
+
+— ❦ —
+
+## Question 2. Is then the Authority *certainly* God's Ordinance?
+
+**Is then the Authority certainly God's Ordinance?**
+
+**Yes truly.** For such *Paul teaches* — **Rom. 13:1**: *"All Authority is from God."* This is also witnessed by the *Sayings of Scripture in which God has described the Authority's Office* — **Rom. 13**. Likewise the *Examples of all God-blessed Regents* mentioned in the Bible and elsewhere. Item, the *Punishments of those who have set themselves against the orderly Authority*. Item, the *Sayings that teach to pray for the Authority* — **1 Tim. 2:1–2**: *"Pray now for the Kings, and for all Authority."* **Jer. 29:7**: *"Pray for the City to the LORD, for when it goes well with her, it goes well with you also"* — which God would not teach, if this Estate did not please him. Item, the *Examples of David, Solomon, Jehoshaphat, Hezekiah* — whose Prayer God heard, and to whom he faithfully stood by. Item, the *wonderful Preservation of this Estate against all Rebels who have ever set themselves against it*.
+
+### Objection. But there is much *Disorder* in the Ruling-Estate. *Ergo*, the Estate is not from God.
+
+**Answer**: **The Disorders in this Estate are to be distinguished from the same**; the Estate *is and remains God's Ordinance*, though the *Persons who lead it are often godless and evil*. For **when God will punish, he lets ill-fortuned Regents come who do not house-hold well** — **Prov. 28:2**: *"For the Land's Sin's sake there are many Changes of the Principalities; but for the People's sake, who are Understanding and Wise, they remain long."*
+
+### Objection. But it is *wrong to shed Blood*. How can then the Authority be from God?
+
+**Yes**, it is wrong when one does it *for himself out of one's own Vengeance*. But to the **Authority such is by God himself commanded** — **Gen. 9:6**: *"Whoever sheds Man's Blood, his Blood shall also through Man (that is, through the orderly Authority) be shed."* **Rom. 13:4**: *"She bears the Sword not in vain."*
+
+— ❦ —
+
+## Question 3. How manifold Governments are however to be found at all times?
+
+**How manifold Governments are however to be found at all times?**
+
+**Chiefly threefold.** Some, *who rule only for the sake of the Belly, and their own Profit*, and *consider not for what this Estate was instituted*. Some, *who rule only for the sake of temporal Honour and Peace*. Some however, **who understand what their Office is, and direct the same to the End for which God himself has instituted it** — as have been **David, Solomon, Hezekiah, Constantine the Great**, and many other God-blessed Regents more.
+
+— ❦ —
+
+## Question 4. What is chiefly a *God-blessed Authority's Office*?
+
+**What is chiefly a God-blessed Authority's Office?**
+
+**The first**, that she be a **Nourisher and Protector of the Churches and Schools**, *further and maintain God's Word and right Use of the Sacraments*, and *abolish what is contrary to the same* — as **David and other Christian Regents ever and always have done**.
+
+As also **Ambrose** writes of the Emperor **Theodosius** — that when he was to die, he *was more concerned about the Church of God and the pure Doctrine than about himself*. Whereof the **Psalm** speaks: *"So let yourselves now be pointed, ye Kings, and let yourselves be chastised, ye Judges upon Earth; serve the LORD with Fear,"* etc. **Isa. 49:23**: *"The Kings shall be thy Fosterers, and their Princes thy Nursing-Mothers."*
+
+**2.** That she **faithfully and in Person take up the Rule**, *herself with utmost diligence look to the same*, and *think night and day thereupon* how *Discipline, Righteousness, and Honourableness be skilled and rewarded*, and on the contrary *the Evil be abolished and punished*. As the **78th Psalm** reports of **David**: *"He fed his Subjects with all Fidelity, and ruled them with all diligence."* **Isa. 1:17**: *"Seek after Right, help the Oppressed, do Right to the Orphans, and help the Widow's causes."* Hither pertains the *whole 31st Chapter of Job*, which a God-blessed Authority *shall daily read, mirror herself therein, and thereof remind herself of her Office*.
+
+**3.** That she **earnestly punish the Evil**, who *sin against the Ten Commandments and against her own Statutes* — **Rom. 13**. For when the Authority *does not punish Sin, Shame, and Vice*, so **God himself punishes both Lords and Servants**. For he is the **Highest Regent and Judge over all Regents**, who *with waking Eyes looks upon them all*.
+
+**4.** That she **protect the Pious** — **Rom. 13:4**: *"She bears the Sword to the Pious for good."* Wherefore under the Authority, **Cain, Absalom, and their like shall not go free**; and on the contrary, **Abel, Elijah, Jeremiah, and Pious People** shall not be *punished or oppressed*. The *great Hornets shall not break through the Net, and the poor little Flies remain therein caught*. The *Ravens shall not have safe conduct, and the poor little Doves be plagued*, etc.
+
+**5.** Shall she also see to it that her *dear Subjects can honestly and well nourish themselves under her Protection and Shield*; for therefore is she at **Daniel 4** compared to a *fair Tree, under whose Shade the Subjects can hold themselves, seek and find their nourishment*.
+
+### Can it however answer before God, when it lets its Office stand, and meanwhile goes about with other matters?
+
+**Truly no.** For thus stands **Jer. 22:13–17**: *"Woe to him who builds his House with Sins, and his Chambers with Wrong, who lets his Neighbour work for nothing, and gives him not his Wage, and thinks: 'Well, I will build me a great House and wide Palaces, and let Windows hew therein, and panel with Cedars, and paint red' — Thinkest thou to be King, because thou dost pomp with Cedars? Did not thy Father also eat and drink, and yet held over Right and Righteousness, and it went well with him? He helped the Wretched and Poor to Right, and it went well with him. Is it not thus, that such is called: to know me rightly, says the LORD — but thy Heart and Eyes stand not thus, but on thy Greed, on shedding innocent Blood, on frivolity and oppression?"* And **Psalm 82:2–5**: *"How long will ye judge unjustly, and prefer the Person of the Godless? Do right to the Poor and the Orphans, and help the Wretched and Needy to Right; deliver the Small and Poor, and rescue him out of the Godless's Power — but they let them not be told, and heed them not: they go on in darkness, therefore must all the Foundations of the Land fall."*
+
+— ❦ —
+
+## Question 5. Has then the Authority also Power to *ordain something against God, his Word, and honest Law*?
+
+**Has then the Authority also Power to ordain something against God, his Word, and honest Law?**
+
+**Be that far.** For **just therefore is she God's Servant, that she may follow him**, and *alone set up what he has commanded her, and not undertake anything against the same, or against Honesty*. **Matt. 22:21**: *"Give to Caesar what is Caesar's, and to God what is God's."*
+
+**Manasseh, the King of Judah**, had *no Power to abolish the right Divine Services and set up false ones*. **Herod and the Chief-ones at Jerusalem** had *no Power to persecute Christ and his Gospel, and to blot the same out, and on the contrary to maintain their doing*. **Nero, Roman Emperor**, and others, had *no Power to do all after their Will* — that they *only would*, etc. What they do, however, they remain *not unpunished*.
+
+**Ahab** had *no Power to take Naboth his Vineyard, and make a Kale-garden thereof*.
+
+**David** had *no Power to lie with Bathsheba, and kill Uriah* — though he were a *great Lord*.
+
+**The Emperor Valentinus** had *no Power to take two Wives, and by a Mandate allow such to every one in the whole Roman Empire*, etc.
+
+— ❦ —
+
+## Question 6. What is then the Subjects' Office toward the Authority?
+
+**What is then the Subjects' Office toward the Authority?**
+
+**1.** Shall they know that **their Authority is God's Ordinance and Gift**, and *also thank him therefore*.
+
+**2.** **Heartily pray for their dear Authority** — **1 Tim. 2:1–2**: *"Pray for the Kings, and for all Authority, that ye may lead a quiet and still Life, in all Godliness and Honourableness."* **Jer. 29**.
+
+**3.** Shall they be **obedient to the Authority in matters concerning temporal life** — *not alone for the sake of Punishment, but also for the sake of Conscience* — **Rom. 13:5**.
+
+**4.** They are bound to give to the Authority *what belongs to her*. **Rom. 13:6–7**: *"Therefore must ye also pay Tax; for they are God's Servants, who shall handle such Protection. So give now to everyone what ye owe: Tax to whom Tax is due, Toll to whom Toll is due,"* etc.
+
+— ❦ —
+
+## Question 7. Are they then also bound to *obey when the Authority commands something that is against God*?
+
+**Are they then also bound to obey when the Authority commands something that is against God?**
+
+**By no means.** For **Acts 5:29** stands: *"One must obey God more than Men."* The Apostles have done right that they *ceased not from Preaching Christ*, though it was forbidden them. The **three Youths, Daniel's Comrades**, have done praiseworthily that they *did not worship the Image of Nebuchadnezzar*, though they were forced thereto. The **Subjects who will not accept the Papacy** do Christianly therein when they *far rather forsake their House and Home than pledge to godless Doctrine*.
+
+### Objection. To the Authority one is bound Obedience. The Authority commands the Papacy to be accepted. *Ergo*, one shall be obedient to her therein.
+
+**Answer**: **To the Authority one is bound to give what is hers** — **Matt. 22:21**: *"Give to Caesar what is Caesar's,"* etc. — but *not what is God's*. Now the *Confession of the pure Doctrine against the godless Papacy* is *God's*, and *not the Authority's*. Wherefore one is *not bound to yield it to please her, or to give it up*.
+
+### Objection. But what if the Authority *with force presses thereupon*?
+
+**Then a Christian who understands the Truth is bound with most humble reverence to entreat therefore; if it does not help, so let him commend it to God, and suffer what he sends over him thereover; and withstand not the Authority with force.** If he lose anything for Christ's sake — **Mark 10:29–30** — he *can and will restore it to him tenfold in this Life*, etc.
+
+— ❦ —
+
+## Question 8. Do then the *Anabaptists* teach right, that a Christian with a good Conscience *can be no Authority*?
+
+**Do then the Anabaptists teach right, that a Christian with a good Conscience can be no Authority?**
+
+**By no means.** For **Christ himself confirms the Authority** — **Matt. 22:21**: where he bids *give to Caesar what is his*. He was also *himself subject to the Authority in his own Person*, and *gave the Tribute-groschen* — **Matt. 17:27**.
+
+The Apostle Paul teaches to *pray for the Authority* — wherefore should she then not be a *Christian and God-pleasing Estate*?
+
+The LORD Christ has also *not taught that the Captain (Matt. 8) or the Nobleman (John 4) should forsake their Estate*, but *left them therein* — which he certainly would not have done, if a Christian could *not with a good Conscience live in the Estate of the Authority*.
+
+— ❦ —
+
+## Question 9. Can then a Christian with a good Conscience practise **Contracts, Buying, Trading**?
+
+**Can then a Christian with a good Conscience practise Contracts, Buying, Trading?**
+
+**Yes truly.** Only that he *reaches not too far*, or *cheats his Brother in the deal* — **1 Thess. 4:6** — which the Apostle would not have written, if he had not held that a *Christian could with a good Conscience deal*.
+
+— ❦ —
+
+## Question 10. Whereon shall then a Christian in such Dealings *look*?
+
+**Whereon shall then a Christian in such Dealings look?**
+
+**Answer**: **What he would have People do to him, that shall he do them also**; and with what *measure he will have himself measured*, shall he *also measure to others* — **Lev. 19:35–36**: *"Ye shall not deal unequally in Judgment, with the Yard-measure, with Weight, with Measure; right Scales, right Pound, right Bushel, right Cans, shall be with you,"* etc.
+
+— ❦ —
+
+## Question 11. Can a Christian with a good Conscience also use the *worldly Imperial Right*?
+
+**Can a Christian with a good Conscience also use the worldly Imperial Right?**
+
+**Yes he can do it.** For **1 Pet. 2:13** stands: *"Be subject to every Human Ordinance for the LORD's sake — be it the King as the Highest,"* etc. The LORD Christ also *nowhere bids the Worldly Honourable Ordinances and Laws be abolished*, but *submits himself* — **Matt. 17:27** — where he gives the *Tribute-groschen*.
+
+— ❦ —
+
+## Question 12. How is however the Saying of Christ, **Matt. 5:39**: *"Ye shall not withstand the Evil,"* etc. — to be understood?
+
+**How is however the Saying of Christ, Matt. 5:39: "Ye shall not withstand the Evil," etc. — to be understood?**
+
+**Answer**: The **Pharisees** had taught that *everyone might well for himself seek Vengeance and practise it*. Thereto Christ says **no** in the said Saying, and teaches that a *Christian as a Christian* cannot nor shall do that, but shall rather **suffer Force and Wrong**. Therewith he however forbids not that a Christian, when *wrong is done him*, may *not report the same to the Authority in orderly fashion*, and *with discretion seek his Right*, and yet **commend the outcome to God and to the Right**. Also that, *when in this matter something is bent from him, he bear the same with Patience in silence*. Only if the *Heart is right* (as said), he *may well use the orderly Right*.
+
+### Objection. But Christ has said with clear Words: *"Ye shall not withstand the Evil."* *Ergo*, etc.
+
+**But he has not said**: *"Ye shall withstand the Evil not at all, or in no manner, also not in orderly and lawful fashion."* For had he said that, he would have *entirely abolished all Governance and Authority*. But he says: ***Ye, Ye*** — that is, **as my Disciples and Christians** — *shall for yourselves, outside of the worldly Government, suffer the Evil*, and *not avenge yourselves*. But **ye may well announce and lament it to your orderly Authority**, and *commend the same*, that she *do you Right and quell the Evil*.
+
+— ❦ —
+
+# XXXVII.
+
+# Of the *Marriage-Estate*.
+
+## Question 1. What is the *Marriage-Estate*?
+
+**What is the Marriage-Estate?**
+
+**An Institution of God, wherein a Man and a Woman shall live together in indivisible fellowship maritally** — *instituted to this End, that Unchastity be shunned, Children begotten, and God in this chaste Cohabitation be served* — **Gen. 1, 2; Exod. 20; 1 Cor. 7; Eph. 5**.
+
+— ❦ —
+
+## Question 2. From whom is it instituted?
+
+**From whom is it instituted?**
+
+**From God himself**, as **Gen. 2:18** stands: *"It is not good that Man be alone; I will make him a Help-mate, who shall hold to him,"* etc.
+
+— ❦ —
+
+## Question 3. May then a *Manly Person* have more Wives?
+
+**May then a Manly Person have more Wives?**
+
+**No.** For **God himself** speaks: *"Two shall be one Flesh"* — **Gen. 2:24**. Item: *"A Man shall cleave to his Wife"* — and not to *two or more Wives*. The Church of God has also always followed this Ordinance. So mention the **Ten Commandments** only of *Father and Mother*, and not of *many at once*.
+
+**Christ himself** has **repeated and confirmed this Doctrine** — **Matt. 19:5–6**; the Apostles likewise. Wherefore *the contrary is not to be permitted*.
+
+— ❦ —
+
+## Question 4. What belongs then to the Marriage-Estate?
+
+**What belongs then to the Marriage-Estate?**
+
+**The Consent of both Parties**; further belongs thereto, that the Consent be *legitimate*, that it be *honest, right, freewilled, complete, and pure*. For the Married shall:
+
+**First**, not run together *against God's Ordinance in forbidden Degrees*.
+
+**Second**, the Consent shall be *honest*, and *not run against the ***publicam honestatem***, or public Honour*.
+
+**Third**, the Espousal shall *not happen secretly, and without foreknowledge of the Parents or Guardians*.
+
+**Fourth**, the Consent shall *not be forced*, but *freewilled*.
+
+**Fifth**, it shall be *complete and proper*, that the Persons *be not deceived with cunning or fraud*.
+
+**Sixth**: In sum, no Party shall lead the other in this matter with *Untruth, or with evil dishonest Practices, onto the Ice*.
+
+— ❦ —
+
+## Question 5. Why has then God instituted the Marriage-Estate?
+
+**Why has then God instituted the Marriage-Estate?**
+
+**First**, that we Men may recognise that **he is a chaste, pure God, who wills to be served with a chaste Heart** — **1 Thess. 4:3**: *"God's Will is that ye be holy."*
+
+**Second**, that Man might have in this Life a **faithful Helper**. **Gen. 2:18**: *"It is not good"* — etc. The Woman is the Man's Help-mate:
+
+**1.** To *bear Children*. **2.** To *raise the same*. **3.** In the *Household to go about wisely and thriftily* with all that pertains to Nourishment. **4.** To *love her Husband, and friendly, both in Love and Suffering, dwell with him*. **5.** That she *let herself not be parted from him, save bitter Death*.
+
+**Third**, **after the Fall the Marriage-Estate is also instituted therefore, that Whoredom and Unchastity be avoided** — **1 Cor. 7:2**.
+
+**Fourth**, that the **holy Marriage-Estate be a Foreshadowing of the Fellowship of Christ and his dear Church** — **Eph. 5:32**.
+
+— ❦ —
+
+## Question 6. Is it Sin to *desire a Woman for Marriage*?
+
+**Is it Sin to desire a Woman for Marriage?**
+
+**The Papists, or Monks, have held it for Sin — but the Scripture witnesses the contrary.** For since the *Marriage-Estate is a holy Estate*, how can it then be Sin to *enter therein with God and Honour*? So God himself has *in Creation planted the natural inclination in Man*, that he *has Lust and Love toward the Marriage-Estate*. Though also evil Lusts run under it, God will nevertheless *not reckon the same to the Believing for Christ's sake, but cover* — **Psalm 32:1–2**.
+
+— ❦ —
+
+## Question 7. How is the *Marriage-Estate rightly begun*?
+
+**How is the Marriage-Estate rightly begun?**
+
+**To rightly begin the holy Marriage-Estate belongs thereto:**
+
+**First**, **true Fear of God and Faith**, that *God alone bestows a pious Spouse* — **Psalm 128**.
+
+**Second**, **a holy Prayer**, that *God himself will give the prospering thereto*. **Gen. 24**: Abraham's Servant prays when he shall marry **Isaac** his Lord's Son. For *without God's Blessing nothing can prosper*.
+
+**Third**, **that the Persons have lived beforehand from Youth up in Chastity**, and *held themselves from all Unchastity* — as **Isaac, Jacob, Joseph, Tobias**.
+
+**Fourth**, **Consent of the Parents or Guardians**. *"Honour Father and Mother."*
+
+**Fifth**, to *look about oneself* after a **pious God-fearing, understanding, chaste or disciplined Person**.
+
+— ❦ —
+
+## Question 8. How shall Christian *Married Persons lead their Life*?
+
+**How shall Christian Married Persons lead their Life?**
+
+**That they may lead the Marriage-Life rightly, they must ever and always have these Pieces before their Eyes:**
+
+**First**, that *they are given to each other by God himself*, as **Adam and Eve** were *entrusted with each other by God*.
+
+**Second**, that they *remind themselves*: God has written to them the Saying — **Heb. 13:4**: *"The Marriage shall be honourably held, and the Marriage-bed undefiled; but Whoremongers and Adulterers will God judge."*
+
+**Third**, when the Husband looks upon his Married Wife, he shall *always think on the Saying* — **Eph. 5:28**: *"The Men love their Wives as themselves."* For where the Heart *does not go about with such Thoughts*, it is *easily happened* that the **Band of Married Love is torn**, and *one becomes an enemy to the other*.
+
+**Fourth**, that they *are bound* to *hold to each other much Weakness and Failing to good* — just as **Christ toward his Church also does** — **Eph. 5**.
+
+**Fifth**, **no Party must forsake the other, neither in Love nor Suffering**. **Eph. 5:29**: *"No one ever hated his own Flesh, but he nourishes and cares for it, as also the LORD the Church."*
+
+**Sixth**, in sum: **for the Marriage to be uprightly led, both Married Persons must ask God through Christ day and night**, that he *give them a good Marriage*, *bind the Hearts with indivisible Love*, and *through his Holy Spirit rule them to conduct themselves Christianly and well with each other*.
+
+**Seventh**, **the Wife shall be subject or obedient to the Husband** — **Eph. 5:22–23**: *"The Wives be subject to their Husbands, as to the LORD; for the Man is the Wife's Head, just as also Christ is the Head of the Church,"* etc.
+
+**Eighth**, **the Husband on the other hand shall hold his Wife as his Love and Help-mate**, and *with few words to say*, is bound to his Wife: **Love, understanding Rule, and Cohabitation** — **1 Pet. 3:7** — **Provision and Defence of her Body**.
+
+— ❦ —
+
+## Question 9. Does then God the LORD *let the Married Life and the Works of the Marriage-Estate please him*?
+
+**Does then God the LORD let the Married Life and the Works of the Marriage-Estate please him?**
+
+**In the Papacy the Marriage-Estate has been held for a Fleshly and such an Estate that pleases God not.** But **Married Persons shall know that such is false and wrong**.
+
+For that **this Estate, and what pertains to it, pleases God**, witnesses:
+
+**First**, the **Creation and Ordinance** of such Estate.
+
+**Second**, that **Christ himself** — **John 2** — *adorned and hallowed it with his Presence and Gift*.
+
+**Third**, that it is *highly praised up and down in Scripture by the Holy Spirit* — **Gen. 3, 4, 16, 24**, and so on — both in *Old and New Testament*.
+
+**Fourth**, that the Holy Spirit also mentions with all Honour, of Married Persons, the *raising of Children, Household, Housework, Field-work*, and the like, in the Bible and Histories. **Psalm 128:2** stands clear: *"Thou shalt nourish thyself with the Labour of thy Hands; well to thee, thou hast it good."*
+
+— ❦ —
+
+## Question 10. Whence comes it however, that the *Marriage-Estate is a Cross-school*?
+
+**Whence comes it however, that the Marriage-Estate is a Cross-school?**
+
+**From the Fall of the first Married Persons or Parents, Adam and Eve** — **Gen. 3**. And such *cannot now henceforth be otherwise*. For **where Sin is, there must also be Chastisement**. In the Marriage-Estate however there is still Sin — therefore also there must be Chastisement or Cross.
+
+So God the LORD has also promised the Married Persons *Nourishment and Blessing* — **Gen. 3; Psalm 128** — **but with the Condition of the beloved Cross**: *"In the sweat of thy Countenance shalt thou eat thy Bread,"* etc. Item: *"Thou shalt with Pains bear Children,"* etc.
+
+And finally, since God has for **Christ's sake wholly and entirely taken away the eternal Punishments**, we shall willingly and with Patience *take up the temporal Chastisement and Household-Cross*.
+
+— ❦ —
+
+## Question 11. How shall then Believing Married Persons *fit themselves in the House-Cross*?
+
+**How shall then Believing Married Persons fit themselves in the House-Cross?**
+
+**First**, when Cross is found, they shall know that **such is not the fault of the Marriage-Estate itself**, but of **Sin** — **Gen. 3** — and that *such Cross is to be distinguished from the Estate itself*, and *not attributed to the Estate in itself*.
+
+**Second**, that they *take before them with God's gracious Will*, and *with Patience bear what he sends them*. Inasmuch as he *can and will at the right time turn* — and *when his little hour comes*, out of **Water make Wine** — **John 2**.
+
+**Third**, that they *diligently hold themselves to Prayer*, and *call upon God for Lightening of the Cross*, or at least for *Christian Patience*.
+
+**Fourth**, that they *look upon the Examples of all God-blessed Married Persons in Old and New Testament* — **Abraham, Isaac, Jacob**, etc. — which all *witness that they also had their House-Cross*, how they *bore it*, and how *God fatherly dwelt with them therein and helped them out* — as he then also *will do with them*.
+
+— ❦ —
+
+## Question 12. What is then the *right Comfort* whereon Married Persons in all their Cross shall look?
+
+**What is then the right Comfort whereon Married Persons in all their Cross shall look?**
+
+**Before all things they shall look thereupon**, that they are *sure that their Estate is from God*, and that they are *through God's Providence come together* — **Gen. 2**. And that **God will not forsake his Work or Ordinance at them, but graciously preserve — however it may go**. For *his Power is strong in the Weak, and his Hand to help has no goal* — **Psalm 77; 130**.
+
+**Second**, that God will *not less dwell with them and give them Assistance* than he has *dwelt with and stood by all Holy Patriarchs and Married Persons from the beginning*. For therefore are the Examples of the same Married Persons set before them, that they may know **God will as little forsake them as he has forsaken those**.
+
+**Third**, that **more Good than Evil can meet them in the Marriage-Estate**. For though the Marriage-Estate is *never without Cross*, nevertheless it *is and remains God's Ordinance*, which he also *preserves and will preserve*. **2.** So there *remains to them the Promise of Salvation certain and firm* — go it otherwise (as much as concerns the Temporal) as it may. **3.** So shall their **Cross be turned into Joy, their Water into Wine**, when Christ's little hour comes — **John 2**. **4.** There *remains also the Blessing of the Marriage-Estate*, and the Work of Birth — which is a *right Wonder-Work, and an unspeakable Gift, and Fountain-source of the Church-Estate, of Worldly and Household-Rule* — **Psalm 128**. **5.** Thus also remains the *daily Nourishment and Sustenance* — **Psalm 128** — though it not always *equally, but at times poorly and slightly enough goes*. **6.** Likewise remains to the Married Persons the *dear Prayer*. **7.** Item, a *good joyful Conscience*. And **lastly**, that they *can live chastely in the Marriage-Estate*, and *guard themselves from all Unchastity*.
+
+**Fourth**, that **God only tests them for a little time** — **Tobit 3**: *"When thou art angry, thou showest Grace; and in the Tribulation forgivest thou Sin — to those who call upon thee."*
+
+— ❦ —
+
+## Question 13. Why is much and high to be held of the *Holy Marriage-Estate*?
+
+**Why is much and high to be held of the Holy Marriage-Estate?**
+
+**Therefore**: that this Estate is **instituted by God himself**, and till this time *wonderfully preserved* — **Gen. 2**.
+
+**Second**, that **the World cannot dispense with this Estate**. For the Marriage-Estate is a **Fountain-source out of which all Men in all Estates are born**, and out of which God gathers for himself an eternal Congregation.
+
+**Third**, further, that this Estate has **God's Promise**: *"Thou shalt nourish thyself with the Labour of thy Hands."*
+
+**Fourth**: that God the LORD has done this Estate special Honour, that **the holy Patriarchs, Priests, and Prophets have lived therein**; that he has *laid a special Commandment upon this Estate*: *"Thou shalt not commit Adultery."* Item: *"Thou shalt honour Father and Mother."* That **Christ himself went to the Wedding**, and *did his first Wonder-sign thereat* — **John 2**.
+
+**Fifth**, beyond that: the Marriage-Estate is a **hearty ***officina*** or Workshop of the most beautiful Virtues** — **Fear of God, Faith, Hope, Patience, Christian Love, Prayer to God, Chastity, Meekness, Gentleness**, etc. — which in the same *daily can and shall be practised by God-blessed Married Persons*.
+
+**Sixth**, finally, that God has *especially promised this Estate rich Blessing* — **Psalm 127, 128** — which both Psalms belong here.
+
+— ❦ —
+
+## Question 14. Has then the Pope also done right, that he has *cried up the Marriage-Estate as a Fleshly and unblessed Estate*?
+
+**Has then the Pope also done right, that he has cried up the Marriage-Estate as a Fleshly and unblessed Estate?**
+
+**By no means.** For *what is to be held of the Holy Marriage-Estate has hitherto been sufficiently heard from God's Word*. But because the **Pope is the Antichrist**, he had to *let himself be marked as an Enemy of this Estate*, that he *might fulfil what Daniel and Paul prophesied of him*. **Daniel 11:37** stands: *"He shall not regard his Fathers' God."* Item: *"He shall regard neither Love of Women, nor any God, and shall lift himself up above all."* And **1 Tim. 4:1–3**: *"In the latter times some shall depart from the Faith, and forbid to marry."* These Pieces are found *tangibly at the Pope at Rome*, etc.
+
+### Objection. They say however: It stands **Rom. 8:8**: *"Those who are in the Flesh cannot please God."* The Married Persons are in the Flesh. *Ergo*, they cannot please God.
+
+**Answer**: **Paul speaks there not at all of the Marriage-Estate**, but *in general of all Christians who are justified out of Grace through Faith in Christ, and renewed through the Holy Spirit* — and *wills that they shall serve God in Holiness and Righteousness, and not hang after the Flesh's Lusts*. And he calls it thus, **to be in the Flesh** — *not to live in the Marriage-Estate*, but *to lead a Fleshly Life, to obey the Lusts of the Flesh*. Wherefore it is *Sin and Shame that the Popes have interpreted such a Saying upon the Marriage-Estate*.
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
