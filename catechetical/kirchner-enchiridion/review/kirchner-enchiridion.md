@@ -6224,11 +6224,227 @@ As also this has no ground — that they give out from the *Use of Reason*, whic
 
 **This Doctrine is only a Human Fable, and has no Ground in God's Word.** For not one little saying is to be found in the whole Bible whereby they can prove such fable — as also the *School-Teachers* themselves must acknowledge.
 
-**2.** So is it certain that the old right-believing Church...
+**2.** So is it certain that the old right-believing Church knew *pure nothing* of this fable; it can also not be proved from her Doctrine.
+
+**3.** That they call themselves to Pope Innocent III's Decree that he had so *decided* — this is of no worth. For **the Pope has no Might, outside of God's Word, to set up new Articles of Faith**.
+
+**4.** The Scripture speaks well of Baptism, that she brings the Regeneration, Forgiveness of Sins, and Renewal of the Holy Spirit, etc. But of a **Character or Sign in the Soul**, she says *nothing at all*. Wherefore one shall not ascribe to Baptism what the Scripture says nothing of.
 
 — ❦ —
 
-*[Chapter XXVI Of Baptism continues. Translation continues in Rebuild-Tranche 26.]*
+## Question 25. Do the Papists teach rightly, when they give out that **Baptism is not powerful, when the Church-Servant who baptises does not thereto direct his Intention or Purpose to baptise**?
+
+**Do the Papists teach rightly, when they give out that Baptism is not powerful, when the Church-Servant who baptises does not thereto direct his Intention or Purpose to baptise?**
+
+**No.**
+
+**First**, the Holy Scripture knows *nothing* of this Doctrine.
+
+**2.** In the sayings where the Scripture *expressly* speaks of Baptism, she thinks *nothing* of any Intention or Purpose of the Church-Servant.
+
+**3.** So have neither the Apostles nor the Teachers in the old and first Church *thought of this Doctrine*.
+
+**4.** So have the *School-Teachers* — who invented such Doctrine — no Might to set up *new Articles of Faith*.
+
+**5.** She cannot also on this account be tolerated, for she makes Baptism *throughout uncertain*. If Baptism should depend upon what the Church-Servant, when he baptises, had for Devotion, no Christian would be able to conclude whether he were rightly baptised.
+
+**6.** For the *Certainty of Baptism* shall and must not be taken from the Church-Servant's Devotion, but from the *infallible Words of the Institution*. Because in the same nothing of such Devotion stands, one rightly lets such fable of the School-Teachers go.
+
+— ❦ —
+
+## Question 26. Is this then right — that they give out one shall baptise the little Children *in the Faith of the Roman Church*?
+
+**Is this then right — that they give out one shall baptise the little Children *in the Faith of the Roman Church*?**
+
+**By no means.** For **the Righteous lives of *his own* Faith** — **Rom. 1:17**. So are also the Grace-Promises profitable only to those who grasp and receive them with Faith — **Heb. 4:2**. Wherefore, in Baptism the little Children are *born again and through the Holy Spirit enlightened, that they *themselves* believe*. Whence the LORD Christ — **Matt. 18:6** — ascribes Faith to the little Children.
+
+### Objection.
+
+**But Matt. 9:2 stands: that the LORD looked upon the bearers' Faith, who brought the Man Sick of the Palsy to him.**
+
+**Answer**: The sense of these words is not this — that the Palsied Man received Forgiveness of Sins on account of the *bearers' Faith* — but that the bearers through their Faith with Christ obtained that he *kindled in the Palsied a Faith of his own*. As Christ's words clearly indicate, where he speaks to him: *"Be of good cheer, my Son; thy Sins are forgiven thee."*
+
+Besides, if the little Children were to be baptised on a *foreign Faith*, how then would we be certain of their Baptism, and whereupon would we and they be assured that those *rightly believed* upon whose Faith they were baptised?
+
+— ❦ —
+
+## Question 27. Wherein have the Papists otherwise taught wrongly about Baptism?
+
+**Wherein have the Papists otherwise taught wrongly about Baptism?**
+
+**1.** That they have **baptised bells**, and taught to baptise, whereas Christ — **Matt. 28** — commands to baptise *Heathen or Men*.
+
+**2.** That they gave out that **Monkery is a *new Baptism*** — which is a horrible Blasphemy against the Holy Baptism, and can be proved by no saying of Scripture.
+
+**3.** That they fabled — one must **consecrate the Baptism-water every year at Easter and Pentecost**, and that thereby the same Water received a *special Power to infuse Grace* — cannot at all be shown from God's Word.
+
+**4.** That they fabled — the *consecrated Baptism-water* serves against **Sickness, Sorcery**, and the like. Is only a *Man's Invention* without God's Word.
+
+**5.** That they give out — through Baptism *Original Sin is quite blotted out*, so that the former [Sin] which remained in Man was only a **fomes** or *tinder*, and no Sin — this is also *pure Groundlessness*.
+
+For **first**, the Scripture herself confesses that in the Baptised there is still Sin — **Rom. 6:12**: *"Let not now Sin rule in your mortal Body."* **Rom. 7:17, 20**: *"Sin dwells in me."* Item: *"The Sin that dwells in me, it does the Evil; so I find in me a Law, when I would do the Good, that the Evil clings to me."* **1 John 1:8**: *"If we say we have no Sin, we deceive ourselves, and the Truth is not in us."*
+
+**2.** In the Our Father all baptised Christians pray *daily* for Forgiveness of their Sins; so must they still have Sin.
+
+**3.** So Paul — **Rom. 7:24** — desires to be delivered from the Body of this Death, in which Sin still dwells.
+
+**4.** He confesses also — **Rom. 7:18** — that he is not perfect, and cannot come thereto, on account of the *Evil* that still cleaves to him.
+
+**5.** So there is no Saint who could say that he has fulfilled the Commandments of the Love of God and of the Neighbour. So much as still lacks therein — that is Sin.
+
+Wherefore it is *false and wrong* to teach that Baptism *quite blots out Original Sin*.
+
+### Objection.
+
+**What is forgiven in Baptism, that remains not. The Sin is forgiven in Baptism. Therefore she remains not.**
+
+**Answer**: There is a distinction between the *Forgiveness of Sins* and the *complete Blotting-out* of the same from Nature. In Baptism the Sin is indeed *fully forgiven* to the Baptised, so that she shall not be imputed to them unto Damnation. But she is not *at once fully and altogether blotted out of Nature*.
+
+For the Blotting-out is begun through the Holy Spirit in the baptised Christians' hearts, and the Holy Spirit works *for ever and ever* thereon — that he crucifies and mortifies the remaining Sin with her evil Lusts. But she is not accomplished in this Life, but only in the *Resurrection of the Flesh* — where Nature is quite and altogether cleansed from Sin.
+
+Whence Paul admonishes — **Rom. 8:12–13**: *"Dear Brethren, we are Debtors — not to the Flesh, that we should live after the Flesh. For if ye live after the Flesh, ye shall die; but if ye through the Spirit mortify the deeds of the Flesh, ye shall live."*
+
+Because now it is before eyes that Sin is *not entirely blotted out of Nature in Baptism*, but the Blotting-out is only *begun*, every one understands that the Papists' Objection has neither Ground nor Standing.
+
+**6.** That they teach out of **Jerome** — that those who after Baptism sin, Baptism is no more of use to them, but they must flee to the **Sacrament of Penance** *as to the second table after suffered shipwreck*.
+
+For **Jerome's saying is not God's Word**, nor does it agree therewith. For the *Little Ship of Holy Baptism*, which is God's Ordinance, remains *for ever and ever whole for itself*, and is *not broken or divided*, forasmuch as the *Promise of God is certain and remains* — **2 Tim. 2:13**: *"If we believe not, he remains faithful; he cannot deny himself."*
+
+Wherefore when a Christian *out of weakness of the Flesh* and *seduction of the evil Enemy* sins after Baptism (as we, alas, all do), it is not needful for him that he look about after this or that Board, but **let him run to the Little Ship of Holy Baptism itself**, and grasp the *Covenant of Grace* which God in Baptism through Christ's Blood and Death has set up with him — and thus sail into Eternal Life.
+
+So too is this a *pure Human Fable* — that Penance is a Sacrament, and moreover such a Sacrament through which one *merits Forgiveness of Sins*. For though the Scripture teaches to *do Repentance* and *turn to God*, yet she says nowhere that our Repentance or Rue is *meritorious*, but points the penitent Sinners to **the sole Merit of Jesus Christ**, through whom he has brought about Forgiveness of Sins for all penitent Men — and bids us grasp the same *alone*, hold God's Judgement and Wrath before us, and comfort ourselves that for the same's sake he is gracious to us and forgives all Sin — **Rom.** [3–5].
+
+— ❦ —
+
+## Question 28. How shall then a Christian *use* Holy Baptism daily?
+
+**How shall then a Christian use Holy Baptism daily?**
+
+**Answer**: The right use of Baptism stands therein:
+
+**First**: that a Christian in all Needs *invoke the true God*, on whose Name he is baptised — **Matt. 28:19**. For therefore is he baptised on God's Name, that he invoke the same in all needs, and have Refuge to him. But specially pray of him that he will let him *from day to day grow and increase in Faith and Knowledge of Jesus Christ, wherein he is baptised*, and likewise let him go on daily in *Mortification of Sins* — **Rom. 6:11**.
+
+**2.** That he know: his living, as of a baptised Christian, shall be a **steady Repentance** — that is, a *hearty Knowledge of Sins*, and also *Practice of Faith on Christ*, with *steady sighing and prayer* that God will not impute the same to him, but *graciously forgive*. For hereof Baptism reminds us — that we shall know the remaining Sins, and through Faith on Christ *for ever and ever pray for Forgiveness of the same*.
+
+**3.** That he henceforth **lead a new Life, die to Sins, and live to Righteousness** — **Rom. 6:11**. Whoso now goes on in Sins uses Baptism not rightly. So likewise whoso does not *diligently lead a holy and righteous walk* uses her likewise not rightly, as he should do. Wherefore every man shall here *prove himself*.
+
+— ❦ —
+
+## Question 29. What is the distinction between the Baptism of *John*, of *Christ*, and of the *Apostles*?
+
+**What is the distinction between the Baptism of John, of Christ, and of the Apostles?**
+
+**The distinction rests thereon**:
+
+**First**, John baptised *unto Christ*, who was to enter after him into the Preaching-Office — **Acts 19:4**. The Apostles [baptised] *unto Christ, who was already entered into the Preaching-Office*.
+
+**2.** John and the Apostles were only *Servants*; but Christ is the *LORD himself* who instituted Baptism.
+
+**3.** John and the Apostles could not give Baptism *the Power*. But Christ — as the **Almighty LORD and Saviour himself** — has been powerful through their Baptism, and *has accomplished and mightily dealt out the Forgiveness of Sins, Regeneration, and Renewal* through the same. Wherefore it is wrong to hold that through John's Baptism the Sins are *not* forgiven. For **Luke 3:3** stands clearly that John preached **the Baptism of Repentance unto the Forgiveness of Sins**, etc.
+
+— ❦ —
+
+# XXVII.
+
+# Of the Holy Supper.
+
+## Question 1. What has this Sacrament for *Names*?
+
+**What has this Sacrament for Names?**
+
+**First**, it is called — **1 Cor. 11:20** — **the LORD's Supper**, because the LORD in the night in which he was betrayed instituted it.
+
+**Second**, it is called — **1 Cor. 10:21** — **the LORD's Table**, because thereon is dispensed *not common food or drink*, but **the Body and Blood of the LORD Christ with the sanctified Signs of Bread and Wine**.
+
+**Third**, it is called ***Eucharistia*** — **Thanksgiving** — because the LORD Christ *gave thanks* when he instituted this Sacrament.
+
+**Fourth**, it is called ***Synaxis*** — because many together shall enjoy and use this Sacrament.
+
+— ❦ —
+
+## Question 2. What is then the Holy Supper?
+
+**What is then the Holy Supper?**
+
+**She is a Divine Ordinance, in which with Bread and Wine, *truly, essentially, and present*, the *true Body and true Blood of Jesus Christ* is dispensed and received — unto certain Assurance that through Christ's Body and Blood the Forgiveness of Sins is truly obtained to us, certainly imparted, we united with his Body, and shall certainly be Heirs of Eternal Life.**
+
+Or, she is **the true Body and Blood of our LORD Jesus Christ, under Bread and Wine, given to us Christians to eat and to drink, instituted by Christ himself**.
+
+— ❦ —
+
+## Question 3. Who instituted it?
+
+**Who instituted it?**
+
+**The True and Almighty LORD Jesus Christ, true God and Man in an indivisible Person**, who can create and make all he wills, in Heaven and on Earth — **Matt. 26; Mark 14; Luke 22; 1 Cor. 11**.
+
+— ❦ —
+
+## Question 4. What is dispensed therein?
+
+**What is dispensed therein?**
+
+**In the Supper are two Things**, as the old teacher **Irenaeus, *Lib. 4 cap. 34***, rightly says: **an Earthly and a Heavenly**. The Earthly is **Bread and Wine**, as the *visible Elements*. The Heavenly, however, is the **true essential Body, and the true essential Blood of Jesus Christ**.
+
+For the *Words of Institution* speak expressly: **First**, of the outward Elements Bread and Wine; **and then** also of the *Distribution and Reception of the true Body and Blood of Jesus Christ*.
+
+**The Papists take the Elements away**, and *fable a Transformation of the Bread and Wine into the Body and Blood of Christ* — where yet **Paul** also *after the Blessing* calls it Bread and Wine — **1 Cor. 10:16; 11:26**.
+
+**But our opposite side, the Sacramentarians, let the outward Signs Bread and Wine remain**; but they take away, on the contrary, the **true Body and Blood of Christ**, saying that they are farther from the *blessed Bread and Wine of the Supper* than the *highest Heaven from the lowest Earth* — whereas Christ clearly promises that he **wills to dispense them with Bread and Wine truly present**.
+
+— ❦ —
+
+## Question 5. Whereupon is it then certain that they make out of the Bread and Wine in the Supper only *bare Signs of the absent Body and Blood of Christ*?
+
+**Whereupon is it then certain that they make out of the Bread and Wine in the Supper only *bare Signs of the absent Body and Blood of Christ*?**
+
+**First**, it is clear from **Zwingli's** writings that he made out *only bare Signs* thereof — which **Calvin** afterward would something *moderate*, as he himself in his books confesses (as ***De Coena***, pag. 14, ***in volumine Tractationum Theologicorum***).
+
+**Second**, that they give out that to the *sanctified Bread and Wine* is given ***per Metonymiam signi et rei signatae*** the *Name of the far-absent Body and Blood of Christ*. For if this be true — that Bread and Wine are *memorial-signs*, or bear the Name of the *far-from-them absent Body and Blood of Christ* — then it can be no otherwise than that they are and remain *bare Signs*.
+
+**Third**, that they themselves write that the Body and Blood of Christ are now *just as little* united with the sanctified Signs Bread and Wine, and *dispensed*, as when Christ was *not yet Man*. **Beza, contra Pappum, fol. 123–124**. Item, that **Christ according to his Human Nature is no more present to us than the King of Spain is present to the New World, or the Indians in the Orient**. **Beza, contra Pappum, pag. 134**. And that in the Supper *nothing more is dispensed than in the Word of the Gospel*, etc.
+
+**Fourth**, that they *quite roundly* write: The Body and Blood of Christ are as far from the sanctified Signs as the *highest Heaven from the lowest Earth*. **Beza, in Summa de re Sacramentaria**.
+
+**Fifth**, that **Calvin, *in Secunda Defensione contra Westphalum*, writes: The Body of Christ is ***secundum substantiam*** — *according to the Substance* — not dispensed in the Supper.
+
+**Sixth**, that they for ever and ever drive [the argument] that the words *"This is my Body"*, etc., must be understood **Figuratively** — of a *Memorial-sign of the absent Body of Christ*.
+
+— ❦ —
+
+## Question 6. Whereout shall then the right Understanding of the words of the Holy Supper be taken?
+
+**Whereout shall then the right Understanding of the words of the Holy Supper be taken?**
+
+**Answer**: **From the clear Words of the Institution wherewith Christ instituted this Sacrament.** For therefore has Christ so pronounced these words, and let them be written down through the Evangelists and Paul — **1 Cor. 11** — that one may thereupon *at all times* recover *what is to be held of this Sacrament*. And it is a great Folly to ask *whereupon the Rule is grounded — that what each Sacrament properly is, shall and must be taken alone from the Words with which it is instituted*. For if it could be taken from *other things* what each is, then need Christ not to have instituted each *specially* and *with special Words*.
+
+### But the opposite side says the right understanding of this Sacrament must be taken from *comparison with the Circumcision* and other Sacraments of the Old Testament?
+
+We know well that they *say such*; but they have thereof no ground. For therefore has Christ given the Words of the Institution, that thereout one shall take *the right Understanding of this Sacrament*. So also from the Sacraments of the Old Testament, *what the Supper of the New Testament is and what is dispensed therein*, cannot be taken — forasmuch as they have no letter of the *Distribution of the Body and Blood of Christ*; nor was Human Nature or the Body of Christ yet in the Old Testament. How then should from the Sacraments of the Old Testament be taken what the thing is that is dispensed in the New Testament?
+
+— ❦ —
+
+## Question 7. Must one then keep the *proper Understanding* of the Words of Institution, as they read?
+
+**Must one then keep the proper Understanding of the Words of Institution, as they read?**
+
+**Yes indeed.** For in the Words of the Supper an **Article of Faith** is set forth. So the Apostle — **1 Cor. 11:23** — writes these words before us as a **Rule**, whereupon to take what is to be held of the Supper, when he says: *"I have received of the LORD,"* etc.
+
+The Evangelists also — though they have *repeated* the words — nevertheless none of them shows with any *little word* that they shall be understood *otherwise* than as they read. So it is also *not likely* that Christ in the Institution of his Testament had willed to speak *in Parables or Similitudes*. As also is clear that the *Articles of Faith* do not overthrow the property of the Words of the Testament of Christ — as at its place is further to be shown. Wherefore it is right that one abide by the *proper Understanding* of the Words of Christ, etc., and depart not from them.
+
+— ❦ —
+
+## Question 8. Explain to me briefly the words: **"This is my Body"**, item, **"This is my Blood"**?
+
+**Explain to me briefly the words: "This is my Body", item, "This is my Blood"?**
+
+**The word ("Is") is here understood ***substantivè*** — and cannot on that account be interpreted through the word ("Signifies") — because it is *undeniable* that Christ speaks of *his own true Body*, and not of a *Figurative Body*.
+
+So it can also not be proved that ("Is") in this place means as much as "signifies" — even if the opposite side should write itself to death. For **Christ's Body is his Body — and *does not signify* his Body**. Should there also be a *Signification* here, then must it follow that...
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues. Translation continues in Rebuild-Tranche 27.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
