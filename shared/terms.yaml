@@ -5903,16 +5903,213 @@ analogia_fidei_hincmariana:
     The Hincmarian phrase is the 9c BRIDGE between the Pastoral
     epistles' forma sana and the Reformation's analogia fidei.
 
+contemptores_canonum_incongrua_electio:
+  english: Contemners of the canons + incongruous election (metropolitan-corrective jurisdiction)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0247"
+  note: >
+    Carolingian ecclesiastical terminus technicus CONTEMPTORES CANONUM
+    for those who conducted or accepted uncanonical episcopal
+    elections. JUDICIUM CONTEMPTORUM CANONUM = Metropolitan's
+    authoritative sentence overturning such election, canonized in the
+    Council of Meaux-Paris 845-846 c.46 under Hincmar's own presidency.
+    In case of INCONGRUA ELECTIO the Metropolitan may substitute a
+    canonically-fit candidate per LEODICENSES CANONES (Council of
+    Liège 813 under Archbishop Wolfgar; possibly Council of Douzy 871).
+    Reformation-standard: the same category redeployed by Formula of
+    Concord SD X against uncanonical Interimist compromises. Hartmann
+    Die Konzilien der karolingischen Teilreiche 843-859 MGH Concilia
+    III Hanover 1984.
+
+pastor_secundum_cor_dei:
+  english: Pastor according to God's heart (1 Sam 13:14, David-typology inverted)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar-Beauvais at vl0247"
+  note: >
+    1 Sam 13:14 QUAESIVIT SIBI DOMINUS VIRUM JUXTA COR SUUM = biblical
+    locus classicus for elected leadership according to divine
+    election (David-typology). Hincmar characteristically INVERTS the
+    direction — from God's choice of a man according to His heart, to
+    the PEOPLE'S PETITION that God grant them a pastor according to
+    His heart = subtle reception of David-typology transposed to
+    Carolingian episcopal-electoral prayer. Fused at vl0247 with 1 Sam
+    16:7 + Jer 17:10 + Rev 2:23 (NON SICUT HOMO TANTUM IN FACIE SED
+    SINGULORUM CORDA SCRUTATUR ET RENES). Chemnitz Loci 1591 De
+    praescientia et praedestinatione §§39-47.
+
+decretales_hincmariani_electio:
+  english: Hincmar's decretal corpus for episcopal-election (Celestine 18+20 + Leo 12+35)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Hincmar decretal-appendix at vl0248-249"
+  note: >
+    Flacius appends to Hincmar letters 4 papal decretal-extracts
+    demonstrating pre-Gregorian canonical-electoral procedure:
+    (i) CELESTINE cap. 18 NULLIS INVITIS DETUR EPISCOPUS = clergy +
+    plebs + ordo canonicorum consent required (Ep. 4 ad episcopos per
+    Viennensem et Narbonensem 26 July 428 PL 50:431 — Reformation-
+    canonical: AC XIV RITE VOCATUS rests on Celestinian principle);
+    (ii) LEO cap. 12 = THREE-FOLD REQUIREMENT for legitimate episcopal
+    ordination: elected by clergy + petitioned by plebs + consecrated
+    by provincial bishops with Metropolitan's judgement (Ep. 10 ad
+    episcopos per provinciam Viennensem 445 PL 54:634 — transmitted
+    Dionysius Exiguus + pseudo-Isidore + Gratian D. 62 c. 1 Nulla
+    ratio); (iii) LEO cap. 35 = DIVIDED-VOTE RULE in Metropolitan's
+    judgement favouring candidate MAIORIBUS STUDIIS ET MERITIS (Ep. 14
+    ad Anastasium Thessalonicensem §5 446 PL 54:673 — Gratian D. 63
+    c. 27 Cum ergo); (iv) CELESTINE cap. 20 NULLI SACERDOTUM LICEAT
+    CANONES IGNORARE ad episcopos Apuliae et Calabriae (attributed
+    ca. 429 PL 50:436 — Reformation-standard canonical-normative
+    principle against popular-caprice, Melanchthon Loci 1543 CR 21:833).
+
+pontificale_uetus_electoralis:
+  english: Old Pontifical electoral formularies (pre-Ottonian, inserted by Flacius from MS in his hand)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pontificale uetus at vl0249-252"
+  note: >
+    Pre-Ottonian-Roman episcopal service-book (as distinct from
+    Pontificale Romano-Germanicum c. 950 and Pontificale Romanum
+    1485/1497). Flacius inserts from unnamed MS in his own hands
+    (likely pre-Romano-Germanicum ordo transmitted in Sacramentarium
+    Gelasianum branch + Ordo Romanus series 34-36 ed. Andrieu) 4
+    formularies: (i) EPISTOLA VOCATORIA metropolitan-summoning; (ii)
+    DECRETUM CLERUS+POPULUS+ORDO firmare debet with substantive
+    forma-episcopi catalogue; (iii) SUBSCRIPTIO EPISCOPORUM; (iv)
+    presbyter-election-by-plebs formula. Flacius's PONTIFICAL-
+    LITURGICAL-FORENSIC PROOF that pre-Ottonian Church itself mandated
+    (i) episcopal election by clergy-and-people (ii) summoning-letter
+    metropolitan-authenticated (iii) decretum canonicum signed by
+    clergy-plebs-bishops (iv) presbyter-election by plebs. Andrieu Les
+    Ordines Romani du haut moyen âge 5 vols Louvain 1931-1961 + Elze
+    Le Pontifical Romano-Germanique Studi e Testi 226-227 Vatican 1963.
+
+epistola_uocatoria_metropolitani:
+  english: Epistola vocatoria (bishop-elect's summoning-letter to Metropolitan for consecration)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pontificale at vl0250"
+  note: >
+    Ancient Pontifical summoning-letter form sent by ELECTED BISHOP
+    (through electing clergy) to Metropolitan of Apostolic See so-and-
+    so, formally requesting metropolitan consecration. Presupposes:
+    (i) prior election by clergy-plebs-order; (ii) parallel election-
+    notification to Metropolitan; (iii) DUBIAE ORDINATIONIS principle
+    (bishop ordained without epistola vocatoria incurs OBSCURITAS
+    DUBIE ORDINATIONIS = suspect canonical status). Reformation-
+    standard: the parallel CHEST-OF-ELECTION + CALL-TO-CONSECRATOR
+    structure of pre-Gregorian episcopal appointment. Ordo Romanus
+    XXXIVA ed. Andrieu III 601-605.
+
+decretum_forma_episcopi_pontificale:
+  english: Decretum canonicum with forma episcopi catalogue (Pontificale uetus)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pontificale at vl0250-251"
+  note: >
+    Ancient Pontifical canonical-decree form addressed by CLERGY +
+    ORDO + PLEBS of widowed metropolitan Church to Metropolitan's
+    provincial bishops. Substantive core: REFORMATION-CANONICAL FORMA
+    EPISCOPI CATALOGUE — sufficient knowledge + noble morals +
+    Apostolic and ecclesiastical discipline + catholic faith + prudent
+    + teachable + patient + temperate + chaste + sober + humble +
+    affable + merciful + lettered + instructed in Law of God + cautious
+    in Scripture-senses + exercised in ecclesiastical dogmas + walking
+    according to Scripture's tradition + embracing constitutions of
+    orthodox and Apostolic-See presuls + teaching+preserving sound
+    speech + modestly correcting resisters + prevailing to refute
+    adversaries of doctrine + hospitable + modest + well presiding
+    over own house + NOT NEOPHYTE + having good testimony. Essentially
+    whole Reformation-Lutheran forma episcopi as inherited by AC XIV +
+    AC XXVIII + SD X but presented as PRE-GREGORIAN CANONICAL STATUS
+    QUO. INTEGRITAS PRAESIDENTIS SALUS EST SUBDITORUM = epigrammatic
+    conclusion (Luther Vom Missbrauch der Messe 1522 WA 8:477-563 +
+    Melanchthon Loci 1543 De ministerio §§14-19). Cf. 1 Tim 3:2-7 +
+    Titus 1:5-9.
+
+rubrica_consecrationis_9c:
+  english: 9c consecration-rubric (casula/planeta + presbyters-right + deacons-left + schola litany)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pontificale at vl0252"
+  note: >
+    Early-medieval liturgical vestments: CASULA (little house / hooded
+    cape) is older Roman celebrant's vestment; PLANETA is chasuble
+    proper (wide-planed sleeveless outer garment). Rubric ordo: (i)
+    presbyters at right + deacons at left; (ii) elect approaches altar
+    with head inclined; (iii) casula removed + planeta imposed; (iv)
+    formal declaration CIUES NOSTRI ELEGERUNT SIBI ILLUM PASTOREM; (v)
+    collect prayer for Spirit's grace; (vi) responsory CHRISTE AUDI
+    NOS + LITANY sung by SCHOLA. Canonical consecration-liturgy of
+    pre-Ottonian episcopal ordination-rite. Andrieu Le Pontifical
+    Romain au Moyen-Age 4 vols Vatican 1938-1941.
+
+rectori_nauis_topos_presbyter_electio:
+  english: Nave-and-navigator topos (public-consent principle extended to presbyter-election)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Pontificale at vl0252-253"
+  note: >
+    RECTORI NAVIS ET NAUIGIO topos: whole ship's company must share in
+    choosing pilot since common safety depends on his competence.
+    Standard patristic topos traceable to Chrysostom De sacerdotio
+    PG 48:623 ff. + echoed in Cyprian Ep. 67 on election of Basilides
+    and Martial. Pontifical here transfers presbyter-election to same
+    PUBLIC-CONSENT principle as episcopal-election, exhibiting ancient
+    practice of PLEBS-PARTICIPATION IN ALL ORDINATIONS. Reformation-
+    standard: AC XIV De ordine ecclesiastico on RITE VOCATUS extends
+    to presbyters as much as to bishops.
+
+adalberti_professio_morinesis:
+  english: Adalbert of Thérouanne's profession-of-faith to Hincmar (sex synodi + una Ecclesia)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Adalbert-Morini profession at vl0253-254"
+  note: >
+    Formal profession-of-faith of Adalbert bishop-elect of MORINESIS
+    ECCLESIA (Thérouanne / Taruanna, from Roman civitas of Morini
+    people in northernmost Gaul; suffragan see of Rheims metropolitan
+    province; see transferred to Boulogne-Ypres-Saint-Omer 1553
+    following destruction of Thérouanne by Charles V — 5 years before
+    Flacius's Catalogus; Duchesne Fastes III 132-140) addressed to
+    Hincmar of Rheims. Reformation-friendly early-medieval creedal
+    profession: (i) FIDES QUAE PER DILECTIONEM OPERATUR = Gal 5:6
+    foundation of good works; (ii) CORDE CREDITUR AD IUSTITIAM ORE
+    AUTEM CONFESSIO FIT AD SALUTEM = Rom 10:10 fides-confessio
+    duality; (iii) UNAM APOSTOLICAM ET UNIVERSALEM ECCLESIAM IN QUA
+    SOLA POSSUNT RELAXARI PECCATA; (iv) UNUM BAPTISMA IN REMISSIONEM
+    PECCATORUM; (v) EXTRA HANC AUTEM ECCLESIAM AC CATHOLICAM NEMINEM
+    SALVARI POSSE CONFITEOR; (vi) SEX SYNODI DE FIDE explicitly
+    enumerated. Reformation-standard: 9c bishop-elect's profession-of-
+    faith with substantially same doctrinal deposit as later Reformation
+    confessions.
+
+sex_synodi_de_fide_9c:
+  english: Six ecumenical synods enumerated in Carolingian episcopal profession
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Adalbert-Morini at vl0254"
+  note: >
+    Mid-9c Frankish canonical reception of six ecumenical councils in
+    Adalbert of Thérouanne's profession: (i) NICAEA I 325 = 318
+    fathers Silvester+Constantine against Arius; (ii) CONSTANTINOPLE I
+    381 = 150 fathers Damasus+Gratian against Macedonius+Eudoxius;
+    (iii) EPHESUS 431 = 200 fathers Theodosius Great+Celestine against
+    Nestorius (papal legates = Cyril of Alexandria + Arcadius); (iv)
+    CHALCEDON 451 = 630 fathers Marcian+Leo (through vicars) against
+    Eutyches; (v) CONSTANTINOPLE II 553 = Vigilius+Justinian against
+    Theodore of Mopsuestia and Tria Capitula; (vi) implied
+    CONSTANTINOPLE III 680-681 against Monothelites. Reformation-
+    canonical: Reformation confessions receive first FOUR Ecumenical
+    Councils as creedally-binding (AC I Symbolum Nicaenum et
+    Constantinopolitanum + Chalcedonense); 5th and 6th received with
+    reservation. Adalbert-profession here documents Carolingian mid-9c
+    inheritance of all six as FIDE RECEPTI. Tanner Decrees of the
+    Ecumenical Councils 2 vols London-Washington DC 1990 I 5-139.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Hincmar of Rheims canonical election-letters
-# (vl0001-vl0246, 246 body pp + 32 paratexts ≈ 45.0% of 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Adalbert of Thérouanne episcopal profession
+# (vl0001-vl0254, 254 body pp + 32 paratexts ≈ 46.4% of 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
 # 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
 # + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
-# 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) = 259.
+# 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) +
+# 11 (T2pp) = 270.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
