@@ -1434,7 +1434,43 @@ Quendam pridie feriarum D. Martini designatum episcopum, quòd is auctus tanta d
 
 **Apparet porrò ex eodem scripto, Carolum Magnum, et alios pios, tunc longè leuius de adoratione sanctorum**…
 
-*[Charlemagne entry continues on `vl0127`; staged for the next Tranche 2 session.]*
+…sanctorum sensisse, quàm nunc Papistae. Quippe qui saepius repetit, solum Deum adorandum esse: sed tamen sanctis viris suum quendam honorem ac uenerationem rectè exhiberi posse. Caeterum statuas adorandas penitus non esse, mirum non est Carolum sensisse. Nam et **Gregorius Magnus** id ita multò antè idem senserat, ac docuerat, ut apparet ex epistola ad **Syrenum Massiliae episcopum**.⁴³⁶ Citat porrò et Carolus in praedicto libello Gregorium, ac probat de eius sententia, statuas adorandas non esse.
+
+**Audio et Ludouici Caroli Magni filij librum in Gallijs extare**, contra eandem Graecam synodum, in quo longè acrius, quàm in priore patris, imaginum adoratio damnetur.⁴³⁷
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Leo III Papa
+
+### *Pope Leo III* — vl0127–vl0128
+
+**Caroli Magni tempore sedit Romae papa Leo III, homo sanè indoctus, & Latini sermonis admodum ignarus.** Habeo aliquot eius epistolas ad Caroli, prorsus rudes ac barbaras.⁴³⁸ Ex quib. apparet, tum temporis Caesaros ministros, non pontifices, Roma indixisse. In quadā epistola eorum summae Caesareae epistolae, cui respondet ex qua summaria sentētia, faciēē et Paparū impudetia, perfrictâ frons ac iniusticia et Caesaris gravitas et seuertias, qui cū de talib. redarguit, perspicit potest. Sed adjecta ipsa Papae uerba, quātuiuis barbara, inepta et obscura: Chū, per ordine ad sextū cōiugerentis capitulū, quatū quauidē et laetitia praedicteē epist. atq[ue] caetera capitula nobis ingesserūt, tatū moerore et tristitia postmodū sumus repleti. Cōtinebat enim in ipso praefato sexto capitulo, q[uod] missos nō malis inuenire nō ualetis qui nobis placeant, de qua re ualdè tristatur uestra Serenitas, & nullus de ipsis quia ad nos fuit directus, per suam uoluntatem quapiam missus uris est, excepto quòd obedientiam uestram uoluntatis unicuiq[ue] adimplere cupit: & non solum missi uestri timent uestram legationem ad nostram pusillanimitatem, uerum etiam alij iam non sunt ausi quaerere à uobis auxilium: quia nullus est qui uestram quaesuit clementiam, ut dicant, qui postmodù de ipsis pusillanimitate potuissent peruenire in gratiam nostram. et quia plures directos habuistis missos fideles, ex quibus iam alij mortui sunt, & ipsi blasphemati fuerant: & de ipsis qui uiuunt, nullus iam sine blasphemio esse uidetur. Vnde nobis fili dulcissimè, quid aliud agendum est?⁴³⁹
+
+**Memorabile uerò est, quòd hic ipse indoctissimus Papa sanxit, sua pōtificia Decreta omnium scriptorū authoritati ac testimoniis praeferatur.**⁴⁴⁰ *O intolerabili audacia et inscitia.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Gregorius Neocaesariensis
+
+### *Gregory of Neocaesarea* — vl0128
+
+**Congregata est Synodus quaedam** (quam Graeci septimam uocauerunt) Constantinopoli, circa annum Domini 700 [rectius 754, the Iconoclast Council of Hieria]. In qua non tantum cultus imaginum, sed et ipsae imagines penitus damnatae sunt, & ex templis eiectae. Scripsit in ea Synodo librum **Gregorius Neocaesariensis** episcopus, non ille uetus, sed alius, illo multo recentior.⁴⁴¹ In eo libro refutat satis diligenter imagines, tum ex sacris literis, tum ex patrum testimonijs. Is liber tum coram tota Synodo perlectus ac comprobatus, reliquisq[ue] Synodi actionibus tanquam commune quoddam decretum insertus est. Verum postea è contrario libello ab altera septima **Graeca synodo Nicaena**, secunda uocata, reiectus: quae demum à **Francofordensi concilio** et **Carolo Magno**, ut prius audiuimus, est damnata. Vterq[ue] praedictus libellus est actis posteris huius septimae synodi insertus.⁴⁴²
+
+## Synodus Francofordiensis
+
+### *The Synod of Frankfurt* — vl0129+
+
+**Synodus Francofordiensis**, circa 700 Domini annum [rectius 794 sub Carolo Magno congregata, qui et praesidit, inter alia damnauit Graecam synodum paulo antè in Nicaea, ab **Irene matre**, muliere superstitiosissima, & Constantino filio celebratam.⁴⁴³ Causam porrò cur eam damnauerit, **Vrspergensis** & alij Papisiuentes historici, studiô subticuerint: cum indicare, uel maxime ad historici officij pertinuisset. Non enim tā refert scire, quis doctor, aut quae synodus sit probata, damnata, aut reiecta, quàm, propter quae dogmata.
+
+Verum quoquo modo ueritatem occultarint, (de praesertim Papistae, adhuc occultent): tamen tandē Dei beneficio ea emersit, & indies magis ac magis emerget. Nam editum est ante paucos annos alicubi in Gallijs prolixum scriptum Caroli Magni, cōtra praedictam Graecam synodum, statuarum adorationem asserentem & defendentem. Is qui id scriptum edi curauit, multis firmisq[ue] testimonijs, ut superius indicatum est, probauit, esse genuinum Caroli, & non suppositicium, Extāt inibi duos articulos Francofordianae synodi ex uetustissimo codice, in quorū secundo indicatur disertè, Graecam synodum propter statuarum adorationem damnatam sit.⁴⁴⁴
+
+Liquet sanè ueritatis, rectè rem perpendenti, etiam sine hoc…
+
+*[Synodus Francofordiensis entry continues on `vl0130`; staged for the next Tranche 2 session.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2495,6 +2531,30 @@ Quendam pridie feriarum D. Martini designatum episcopum, quòd is auctus tanta d
 **⁴³⁴** **The polemical summary**: (i) Papa in the Carolingian era had no jurisdiction over external churches; kings convoked synods and issued canons. (ii) All souls (clerics and laity alike) were subject to political magistrates. (iii) The pious Emperors and Fathers of the age tried to resist the errors and abuses now rampant but were defeated: *vincente tandem impietate Antichristi, sicut Daniel praedixit*. Standard Reformation-historiographical arc.
 
 **⁴³⁵** **The Frankfurt Synod of 794** — the fullest treatment yet in the *Catalogus*. Charlemagne convoked Frankfurt in response to (i) the Adoptionist heresy of **Felix of Urgel** (condemned) and (ii) the pro-icon decrees of the **Second Nicene Council of 787** (which the Frankish delegation had not been consulted on and rejected as encouraging idolatry). The **Libri Carolini** (composed under Theodulf of Orléans c. 790, Latin text PL 98) systematically refuted Nicaea II's iconic theology. The **Latin manuscript in the Lateran library** — attested by **Augustinus Steuchus** (1497–1548, Papal librarian and Vatican archivist under Paul III) — is Flacius's authority for the Libri Carolini as a genuine Carolingian document, not later Reformation forgery. **Johann Eck** (1486–1543) mentions the four books in his *Enchiridion Locorum Communium* (1525+). The Libri Carolini were the systematic Carolingian-Latin refutation of icon-veneration and Reformation-key polemical ancestor of Luther's *Wider die himmlischen Propheten* (1525) anti-image position.
+
+**⁴³⁶** **Gregory the Great, *Ep.* IX.209 to Serenus of Marseille** (already glossed at endnote 129). The Libri Carolini invoke Gregory as pre-Carolingian anti-image-adoration witness — a rhetorical move exposing the internal-Roman inconsistency of later papal iconodulia.
+
+**⁴³⁷** **Louis the Pious** (r. 814–840), Charlemagne's son, whose reign extended the Frankish anti-icon position. The lost *Libellus contra Graecam Synodum* attributed to Louis is preserved fragmentarily; Flacius reports having heard of a manuscript circulating in Gaul. The Franco-Roman iconographic dispute persisted throughout the 9th c.
+
+## From the Catalogue — Leo III Papa (vl0127–vl0128)
+
+**⁴³⁸** **Pope Leo III** (r. 795–816), the pope who crowned Charlemagne Emperor on Christmas Day 800. Flacius's characterisation — *homo indoctus, & Latini sermonis admodum ignarus* — is a Reformation polemical claim; historically Leo was of Roman priestly background with adequate Latin, but his surviving letters to Charlemagne (in the *Codex Carolinus*) do exhibit stylistic crudity by classical humanist standards. Reformation polemic gleefully seized on the unpolished Latin as evidence of papal ignorance.
+
+**⁴³⁹** The **Leo-III-to-Charlemagne quotation** — from Leo's letter of c. 808 preserved in MGH *Epistolae* V — displays exactly the tortured syntax and repetitive-lament style that Flacius here mocks. Leo complains that his sent-messengers are fearful, that some have died, others have been blasphemed, and no ambassador dares seek the emperor's clemency without risking their reputation. The passage is authentic and its awkwardness genuine.
+
+**⁴⁴⁰** The claim that Leo III's papal decrees should be preferred to all Scripture and Fathers is attributed to Leo in medieval canonical collections and cited in Gratian's *Decretum*. Flacius reads it as the *first* explicit papal assertion of authority-superior-to-Scripture, the theological ancestor of the medieval *plenitudo potestatis* doctrine.
+
+## From the Catalogue — Gregorius Neocaesariensis (vl0128)
+
+**⁴⁴¹** **Gregory of Neocaesarea** (this "later" Gregory, not the 3rd-c. Gregory Thaumaturgus) — an 8th-c. Byzantine bishop who attended the **Iconoclast Council of Hieria** (754, not 700 as Flacius says) and composed the iconoclast treatise later incorporated into the council's *acta*. The Iconoclast position was reversed at Nicaea II (787), which recatalogued Gregory's treatise as a document to be rejected. Flacius reads the whole Iconoclast tradition as pre-Reformation-anti-image witness.
+
+**⁴⁴²** The **iconographic sequence** as Flacius reconstructs it: **Constantinople-Hieria 754** (iconoclast, Gregory of Neocaesarea's book) → **Nicaea II 787** (pro-icon, Gregory rejected) → **Frankfurt 794** (contra Nicaea II, Charlemagne's *Libri Carolini*). Reformation polemic reads this three-council sequence as evidence that iconography was contested throughout Christian antiquity, with the Latin-Frankish tradition standing with the iconoclast side at the founding-moment of medieval Latin Christendom.
+
+## From the Catalogue — Synodus Francofordiensis (vl0129+)
+
+**⁴⁴³** **The Frankfurt Synod of 794** — already glossed at endnotes 130 and 435, here treated as a standalone entry. **Empress Irene** (r. 780–790 as regent, 797–802 alone) convoked Nicaea II 787 with her son Constantine VI; Charlemagne's Frankfurt 794 rejected it. Flacius's *muliere superstitiosissima* dismissal of Irene is standard Reformation-anti-Marian and anti-female-authority rhetoric.
+
+**⁴⁴⁴** **Burchard of Ursberg (Vrspergensis)** (†c. 1230), Premonstratensian abbot, *Chronicon* — the standard medieval Latin chronicle that suppressed the Frankfurt Synod's condemnation of Nicaea II. Flacius accuses medieval Catholic historians of *studiô subticuerint* (deliberately keeping silent) about the Franco-Roman iconographic disagreement.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

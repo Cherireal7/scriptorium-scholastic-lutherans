@@ -3962,14 +3962,64 @@ hildegard_pastoral_rebuke:
     sollicitudinis ostentatione opibus luxu Imperatorem quemvis
     opulentissimum lacessant. Charlemagne as ideal pastor-of-pastors.
 
+# ─── Tranche 2z — Charlemagne tail + Leo III + Hieria + Frankfurt ──────
+
+leo_iii_indoctissimus:
+  english: Leo III Papa homo indoctus + Latin barbara
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Leo III Papa at vl0127"
+  note: >
+    Pope Leo III r. 795-816 (crowned Charlemagne Emperor Christmas 800)
+    — Flacius characterises as HOMO INDOCTUS + LATINI SERMONIS
+    ADMODUM IGNARUS invoking barbaram Latin in his letters to Charlemagne
+    preserved MGH Epistolae V. Reformation polemic seized on unpolished
+    Latin as evidence of papal ignorance. Also FIRST papal assertion
+    of authority-superior-to-Scripture (Gratian Decretum preserved).
+
+concilium_hieriense_754:
+  english: Iconoclast Council of Hieria 754
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Gregorius Neocaesariensis at vl0128"
+  note: >
+    Byzantine Iconoclast Council of Hieria 754 attended by Gregory of
+    Neocaesarea (this later 8th-c bishop not 3rd-c Thaumaturgus) whose
+    iconoclast treatise incorporated into council's acta. Reversed at
+    Nicaea II 787 which recatalogued treatise for rejection. Flacius
+    reads whole Iconoclast tradition as pre-Reformation-anti-image
+    witness.
+
+iconographic_sequence:
+  english: The three-council iconographic sequence
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus Francofordiensis at vl0129"
+  note: >
+    Reformation-standard reconstruction — Constantinople-Hieria 754
+    (iconoclast, Gregory of Neocaesarea book) → Nicaea II 787 (pro-icon,
+    Gregory rejected) → Frankfurt 794 (contra Nicaea II, Charlemagne
+    Libri Carolini). Evidence iconography was contested throughout
+    Christian antiquity with Latin-Frankish tradition standing with
+    iconoclast side at founding-moment of medieval Latin Christendom.
+
+burchard_ursbergensis:
+  english: Burchard of Ursberg Chronicon (suppressed Frankfurt)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Synodus Francofordiensis at vl0129"
+  note: >
+    Burchard of Ursberg †c. 1230 Premonstratensian abbot Chronicon —
+    standard medieval Latin chronicle that STUDIÔ SUBTICUERINT
+    (deliberately kept silent) about Franco-Roman iconographic
+    disagreement + Frankfurt Synod's condemnation of Nicaea II.
+    Flacius accuses medieval Catholic historians of deliberate
+    suppression.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Charlemagne substantive treatment
-# (vl0001-vl0126, 126 body pp + 32 paratexts ≈ 23% of 1094-pp body).
-# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
-# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
-# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
-# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
-# 5 (T2w) + 5 (T2x) + 4 (T2y) = 137.
+# FLACIUS 1556 — TRANCHE 2 through Frankfurt Synod opening (vl0001-vl0129,
+# 129 body pp + 32 paratexts ≈ 23.6% of 1094-pp body). Flacius lemma total:
+# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) +
+# 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
+# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
+# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) +
+# 4 (T2y) + 4 (T2z) = 141.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
