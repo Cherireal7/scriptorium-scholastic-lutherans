@@ -8031,11 +8031,235 @@ And in Sum, the Church is called invisible:
 
 ### But it stands Matt. 18:17: **"Tell it to the Church or Congregation."** *Ergo*, so must she indeed be visible?
 
-**Answer**: This little saying also speaks of the Church in general, as she is a *visible Assembly called through the Word and Sacraments*...
+**Answer**: This little saying also speaks of the Church in general, as she is a *visible Assembly called through the Word and Sacraments*, and speaks not ***in specie*** of the *Right-believing*. For these — so far as their Faith is concerned, which is hidden in the Heart — cannot by Men be so recognised.
 
 — ❦ —
 
-*[Chapter XXVIII Von der Catholischen Kirche continues. Translation continues in Rebuild-Tranche 37.]*
+## Question 13. Why does one say that there are *two kinds of Churches* — a *right true Church of God*, and a *false Church*?
+
+**Why does one say that there are two kinds of Churches — a right true Church of God, and a false Church?**
+
+**Answer**: The right Church is *only one and the same* from the beginning of the World unto now. But because *Satan* beside Christ's Church always builds his *Chapel* (as one is wont to say), so is such **false or Satan's Church and Congregation** here distinguished from the *right true Church of God*. Wherefore Paul, **Rom. 9:6–8**, makes *two kinds of Israelites*: those who are *after the Spirit*, and those who are *after the Flesh*.
+
+That there is only *one Church of God on Earth* does not hinder that there should not also be a **false or Counter-Church** — as it also does not make that those who *depart from the right Church's Word and Sacraments*, or *falsify the same*, should therefore be and remain the right Church of God.
+
+— ❦ —
+
+## Question 14. Who gathers then the Church or Congregation of God?
+
+**Who gathers then the Church or Congregation of God?**
+
+**God himself does it.** Christendom is one of the *chief Works of God*, for whose sake all is created. **Matt. 22:3** — it stands that God himself has *sent forth his servants* to call Men to his Kingdom. And **2 Cor. 5:18–19** — *"All this is of God, who has set up the Office of Reconciliation."*
+
+**In Paradise, after the Fall**, the Son of God himself called the first Men again to the *Kingdom of God* — **Gen. 3**.
+
+**Afterward** he used, for the gathering of his Church, the *service of the Patriarchs and Prophets*.
+
+**In the New Testament** Christ at the beginning himself preached, and finally sent forth the Apostles to gather to him a Congregation from the Human Race — **Matt. 28; Mark 16; Luke 24; John 17**. And he gives also afterward **Preachers and Teachers** to call and build up the Church — **Eph. 4:11**.
+
+— ❦ —
+
+## Question 15. What Means does he use thereto?
+
+**What Means does he use thereto?**
+
+**The Word and Sacraments.** Whence **1 Pet. 1:23** is said: *"Ye are born again — not of perishable, but of imperishable Seed — namely, of the living Word of God,"* etc. And **1 Cor. 4:15**: *"I have through the Gospel in Christ Jesus born you anew."*
+
+Of the Sacraments stand — **Matt. 28:19; Mark 16:16; Acts 2:38; Tit. 3:5**.
+
+He could indeed also do it *without means*, but it has thus *pleased him*, etc. — **1 Cor. 1:21**.
+
+— ❦ —
+
+## Question 16. What moves him thereto?
+
+**What moves him thereto?**
+
+**First**, his **inexpressible Mercy**, according to which he has not willed that the whole Human Race should be lost — **Ezek. 33:11**: *"As I live, saith the LORD, I will not the Death of the Sinner, but that he be converted and live."* As it would then have come to pass, if he had not out of Grace taken us upon himself. For the *wages of Sin is Death*, with all Men — **Rom. 6:23**.
+
+**Second**, the **Intercession, Communication, and precious Merit of Jesus Christ** — **Ps. 2:8**: *"Ask of me, so will I give thee the Heathen for thine inheritance, and the ends of the World for thy possession."* — **Rom. 3:25**: *"Whom God hath set forth as a Throne of Grace in his Blood,"* etc. For if it were without Christ, no Man would become blessed and pleasing to God.
+
+— ❦ —
+
+## Question 17. Whereout is the Church gathered?
+
+**Whereout is the Church gathered?**
+
+**Out of Jews and Heathen**, or **out of all manner of people who dwell under Heaven** — **Acts 2; Matt. 28**: *"Teach all Heathen,"* etc.
+
+— ❦ —
+
+## Question 18. Are then the Jews at this day also *God's People*?
+
+**Are then the Jews at this day also God's People?**
+
+**No.** Unless they do Repentance and *believe on the Name of Jesus Christ* — **Acts 2; Luke 24**. For **whoso believes not is damned** — **Mark 16:16**.
+
+— ❦ —
+
+## Question 19. And so the Turks?
+
+**And so the Turks?**
+
+**Those also belong not to God's People**, though they have great fortune, victory, might, riches, and power. For they gather not with Christ, believe not his Gospel, but *blaspheme and persecute Christ at the highest*. Wherefore they are also not his little sheep — **John 10** — because they follow not his voice, but a *stranger*'s, that is, **Mohammed's**.
+
+— ❦ —
+
+## Question 20. Were then the *Philosophers or Heathen* who lived honourably before this World, etc., *Children of God* and *Members of his holy Congregation*?
+
+**Were then the Philosophers or Heathen who lived honourably before this World, etc., Children of God and Members of his holy Congregation?**
+
+**Also not.** Say the Papists and others whatever they will against it. For there stands God's Word — **John 3:18**: *"Whoso believes not on the Son is already judged."* And again: *"Whoso believes not the Son shall not see Life, but the Wrath of God remains upon him."*
+
+If also the Heathen could be made blessed *outside the true Knowledge of Christ*, what needed then to have come to pass — that the Son of God should become Man and let the Gospel be preached to all Heathen? Likewise, the Most Worthy Sacraments instituted?
+
+— ❦ —
+
+## Question 21. Is then the **Pope at Rome with his Bishops and following** the right Church of Christ?
+
+**Is then the Pope at Rome with his Bishops and following the right Church of Christ?**
+
+**By no means.** For he *defends Heathen Errors* — the Invocation of Dead Men; carries on the *Idolatrous Mass*, the Enclosing, Carrying-about, and Adoration of the sanctified Bread; the Law of Chastity, or the Forbidding to marry — which Paul calls a **Doctrine of Devils** — **1 Tim. 4:1**. He teaches *doubt at the Grace of God*; gives out that *Rue, Confession, Satisfaction* merit Forgiveness of Sins; sells the *fabled Indulgence*; defends the *fable of Purgatory*; sets Men's Doctrine *equal to Holy Scripture*; strangles the *Right-believing*; persecutes the Gospel of Christ and the right Use of the Sacraments with *fire and sword*, etc.
+
+Wherefore he *cannot be* the right Church of Christ — unless he *do Repentance and convert himself*, and *cast away all his abominations*, etc.
+
+— ❦ —
+
+## Question 22. Which are then the **right infallible Signs** whereby one shall know God's People or the Church on Earth?
+
+**Which are then the right infallible Signs whereby one shall know God's People or the Church on Earth?**
+
+**Many such Signs can be enumerated, but the chief are these Three:**
+
+**1.** The **Preaching of the Pure Word of God** — **John 10:27**: *"My little sheep hear my voice."*
+
+**2.** The **Use of the Sacraments as they are instituted by Christ himself** — **Matt. 28; Mark 16; Acts 2; Eph. 5**.
+
+**3.** The **Obedience toward the Preaching-Office** in all those pieces which God himself through his Word has taught. **Matt. 28:20**: *"Teach them to keep all that I have commanded you."* — **Luke 10:16**: *"Whoso hears you hears me."* — **Heb. 13:17**: *"Obey your Teachers, and follow them,"* etc.
+
+— ❦ —
+
+## Question 23. Are then the Hearers *without distinction* bound to follow their Teachers in *all things*?
+
+**Are then the Hearers without distinction bound to follow their Teachers in all things?**
+
+**No** — but according to the *Explanation of Christ*, **Matt. 28**: **When they teach what he has commanded to be taught**, or when they teach *Christ's Gospel* — and *no other* — **Gal. 1:8**.
+
+— ❦ —
+
+## Question 24. Are otherwise more Signs enumerated whereby one may know God's People?
+
+**Are otherwise more Signs enumerated whereby one may know God's People?**
+
+**Yes.** As the **Love** — **John 13:35**; the **Keys** — **Matt. 18**; **Prayer, Praise, and Thanks publicly**; **public Confession of the Name of Christ** — **Matt. 10:32**; **the Cross and Persecution**; and what suchlike more could be enumerated.
+
+— ❦ —
+
+## Question 25. What is to be held of those who do *not have* the public Preaching of the Gospel and the Use of the Sacraments — though they would gladly have it?
+
+**What is to be held of those who do not have the public Preaching of the Gospel and the Use of the Sacraments — though they would gladly have it?**
+
+**Answer**: David, when he went about in *misery*, could not hear the public Preaching-Office, as he desires **Ps. 42**; but it harmed him not, because it happened *not out of wilfulness and contempt*, but *out of need*. So the Christians who are *captive in Turkey* or otherwise are on that account not to be damned, that they do not hear the public Preaching-Office and use not the Sacraments — for they cannot come thereto, though they would gladly do it.
+
+— ❦ —
+
+## Question 26. Is it then *enough* for the Church to have God's Word?
+
+**Is it then enough for the Church to have God's Word?**
+
+**It is not enough to have God's Word** — but this is what matters: that one **have it rightly**, and that it be *explained according to the Rule of Faith* — **Rom. 12:6**. Otherwise the Jews have the Old Testament; the Pope has the whole Bible; the Arians, Nestorians, Eutychians, etc., also had it — but they *perverted the Scripture* and interpreted it *against the Faith and Scripture*.
+
+— ❦ —
+
+## Question 27. Are then all those God's *right Church* who *have* the Sacraments?
+
+**Are then all those God's right Church who have the Sacraments?**
+
+**No.** For also the Papists confess that the *false Church* can have the Sacraments — as *some heretics* have had them. Wherefore one must have them **thus and not otherwise than as they are instituted by Christ**.
+
+### Objection.
+
+**Those who have God's Word and Sacrament are surely God's Church. The Roman Church has the Word and Sacrament. *Ergo*, so she is God's Church.**
+
+**Answer**: The first ***propositio*** or *maior* must be distinguished. For it is one thing to have God's Word and Sacraments *rightly and pure*; another only *simply* to have them. The Roman Church has well the Bible, as also the Sacraments; but she has *shamefully perverted and defiled* them. Just as the Jews to this day have the Old Testament, but with *false Interpretation of the Rabbis and their erroneous Glosses* — so also the Roman Church. Wherefore it is not enough to have Word and Sacrament when one has them *not pure*, as they are by God himself revealed and instituted.
+
+**For example**, let us only recall some sayings of Holy Scripture from which sufficiently appears how *shamefully* the Pope with his own *perverts* the Scripture upon which he yet appeals:
+
+- **Gen. 1:16** — God makes *two great lights*: a great light that rules the Day, and a small light that rules the Night. This saying the Pope explains thus: the great light is *he the Pope*; the small light is *the Emperor*. There every man may grasp that this is a *shameful perversion and misuse of Holy Scripture*.
+
+- **Gen. 3:15** stands: ***Ipsum conteret caput tuum*** — *"the same Seed shall tread on thy head."* Here the Papists make it ***Ipsa*** — that is: *"Mary shall tread on the Serpent's head,"* as is to be seen in their Latin Bibles.
+
+- **Gen. 48:16** stands, that *Manasseh and Ephraim* shall be *named after his (Jacob's) and after his fathers' names*. There they will force out, after the old Latin Version (which does not agree with the Hebrew Text): *the departed Saints shall be invoked* — where yet the whole Church in the Old Testament knew *nothing at all* thereof, and the Patriarch Jacob never dreamed that he with such his words would confirm the *Invocation of the Saints*.
+
+- **Job 5:1** stands: *"Look about thyself, whether after any Saint."* There they undertake in like manner to prove the *Invocation of the departed Saints* — where **Eliphaz** speaks that Job should show him *any Saint who was plagued innocent*, as he Job out of Impatience gave out: *God plagues him without cause* — and by no means speaks of *Invocation of departed Saints*, which never came into his mind.
+
+**What can also more dreadful and horrible be devised or said**, than that they have *directed the whole Psalter upon the Virgin Mary*? Where David teaches to invoke God alone, they *turn about his words* in his mouth, and *in God's stead set the Virgin Mary*, and *teach to invoke her*, and *pray for all from her* which alone is to be prayed of and obtained from *God himself*. As for example, **Ps. 51:1**: ***Miserere mei Domina, quae mater misericordiae nuncuparis. Et secundum viscera misericordiarum tuarum, munda me ab omnibus iniquitatibus meis.*** — *"Have mercy on me, thou Lady Mary, who art called a Mother of Mercy; and according to thy great Mercy cleanse me from all my Sins."*
+
+Has not the Pope **Alexander** finely drawn and used the saying of the **91st Psalm** when he at Venice, on the Emperor Friedrich Barbarossa, that splendid hero, when he humbled himself before him, *trod on his neck* and haughtily said: *"Upon the Lion and adder shalt thou tread,"* etc.? That is indeed to have *finely interpreted and expounded* the Scripture.
+
+The Words of Christ in the Institution of his Holy Testament, where he says: *"Drink ye all of it"* — they explain thus: (All) — that is, alone the Priests; the Laity, however, not. Is not this a **shameful perversion of Christ's words**?
+
+Item, the word *"This do in remembrance of me"* must mean to them as much as *offer the Body of Christ for the Living and Dead* — which runs *quite contrary to Christ's Institution*.
+
+The saying of the disciples in Christ's Passion — **Luke 22:38**: *"Behold, here are two swords"* — the Pope interprets thus: that he is a LORD *over Christendom and over the whole Earth*, that the Roman Emperor is subject to him, and he has Might *to set him off* and *to ordain another Emperor*.
+
+How shamefully the Pope with the saying of Christ — **Matt. 16:18**: *"Thou art Peter,"* etc. — deals, and what he upon the perversion of the said saying has undertaken and to this day undertakes in Spiritual and Worldly matters, is known to the whole World. And more such perversions of Scripture could be drawn in.
+
+So the **Jesuits** in their ***Censura*** have publicly in our time written into the whole Christendom: **the Holy Scripture is defective and imperfect**, and does not comprehend all that is needful for Blessedness. Wherefore one must also have *Men's statutes*, that what the Scripture lacks may be fulfilled.
+
+Item: the Holy Scripture, in the doctrines or commandments which she sets forth, is *like a waxen nose*, and gives no *proper certain understanding*, but can be interpreted in *all manner of ways*, etc.
+
+From all which sufficiently to understand — that though the Pope has the Holy Scripture, he yet deals with her so *perversely and blasphemously* that it is even as much as if he had her not. Wherefore also he vainly appeals to her.
+
+— ❦ —
+
+## Question 28. Has there then been *no Church under the Papacy* hitherto?
+
+**Has there then been no Church under the Papacy hitherto?**
+
+**Answer**: **The Papacy itself, as it is driven and carried on by the Pope and his own, has never been God's Church, and is not yet.** But **under the Papacy the Church or Christendom has nevertheless been and remained**. For the *Antichrist has sat in the Temple of God* — **2 Thess. 2:4**. But the Temple of God is the Church or Christendom, wherein by God's *permission* he has ruled. But God the LORD has always *preserved for himself his seven thousand* (as the Scripture speaks) *who have not bowed their knees to him* — as the *baptised little Children*, and others who in that time had a *little light and Knowledge of Truth*, and therefore contradicted the Papacy. So too is there no doubt that many of them at their last **sighing** let fall the Pope's crying of the *merit of their own works*, and *relied alone on the Merit of Jesus Christ*, *fell asleep in the LORD Christ*, and thus were made blessed.
+
+Just as **Annas, Caiaphas**, and the *Sadducees* were not *God's People or the right Church*, though they sat in the Priestly Office — because they *taught not rightly*. Rather, God's People or Church at that time were: **Zacharias, Elisabeth, Simeon, Anna, Mary, Joseph, the Shepherds**, and their like. And thus the High Priests were *not the Church*, but *under them was the right Church*.
+
+**So the Pope with his Bishops at this day is not the right Church of God**, forasmuch as they teach falsely and pervert the Sacraments — but **under the Papacy the Church has been and still is**, as also in the Old Testament at all times *Right-believing* have been under the *rule and lordship of Godless Priests and Kings* — as such the *Books of Kings* and the writings of the holy Prophets unanswerably witness.
+
+— ❦ —
+
+## Question 29. Do the Papists do rightly, that they give out the **certain Signs of the Church of God** are:
+
+**1.** *Outward Holiness in Papal Doctrine, Ceremonies, and the like*.
+
+**2.** That she be *Catholic*.
+
+**3.** That she have the *ordinary Succession of Bishops*.
+
+**4.** That she be *united with the Pope at Rome as the Head*.
+
+**5.** That she have *one and the same Church-statutes*.
+
+**6.** And finally, that she hold **Men's statutes equal to Holy Scripture**, etc.?
+
+**By no means.**
+
+**First**, so far as the **Holiness** concerns: the same stands in the **gracious Forgiveness of Sins** and the *Imputation of the Holiness of Christ* — **1 Cor. 1:30**: *"Christ Jesus is made unto us of God, Wisdom, and Righteousness, and Sanctification, and Redemption."* Also that the *right Members of the Church*, through the Power of the Holy Spirit, are *sanctified and renewed*, and **begin to live to God's pleasing Holiness and Righteousness and serve God**. And in Sum: that the Church of God have **God's holy Word** — **John 17:17** — and **holy Sacraments instituted by Christ** — **Matt. 28; Mark 16**.
+
+The *Holiness of Papal Doctrine and Ceremonies* not alone does not make the Church holy, but much rather *unhallows* her. For they are not from God, but *Men's Doctrine and Men's statutes* — wherein one *vainly serves God* — **Matt. 15:9**. In truth, the doctrines of the *Invocation of the Saints, the Sacrifice of the Mass, of Purgatory*, and the like — these make no Heart holy, but *unhallow the Heart*. So too the *Procession, Holy-water, Marriage-forbidding*, and the like do not do it, for they are **Doctrines of Devils** — **1 Tim. 4:1**.
+
+**That the right Church of God is *Catholic* or *Universal*** (for so much means the word) is true, and we hold for certain. For the *Right-believing* are bound to no Place, Stead, or Person, but *wherever* under all peoples and tongues on Earth, or under Heaven, people are found who **believe on the Name of Jesus Christ and follow his voice** — those are true Members of the *General Church* — **Acts 10; John 10**.
+
+That, however, the Roman Church or the Pope *arrogates to himself this word "Catholic"* and wills that alone she be the *Catholic Universal Church* — every man understands that this holds not. For **Rome is a Particular Church, and not the General Church or Christendom on Earth**. So too she is no more Church than *insofar as she hears Christ's voice and follows it*, etc.
+
+Wherefore the Pope cannot draw this word upon himself and the Roman Church alone. For when the word "Catholic" is understood as the *Salic Emperor*, ***C. de Summa Trinitate et fide Cathol. 1. cunctos populos***, etc., uses it — namely, that those are called Catholic ***quicunque secundum Apostolicam disciplinam, Evangelicamque doctrinam, Patris et Filii et Spiritus sancti veram Deitatem, sub pari Maiestate et sub pia Trinitate credunt*** — *"who according to Apostolic discipline and Evangelic doctrine believe the true Godhead of the Father, Son, and Holy Spirit, in equal Majesty, and Three Persons in the Godhead"* — but the others, who hold the counter-play, are *Heretics* — then are indeed **our Churches truly Catholic**. For they believe such Doctrine and Articles from whole heart, and confess them publicly before the whole Christendom.
+
+And according to this Explanation, "Catholic" means *not what this or that Father or School-Teacher has written and brought forth*, but **the Doctrine and Faith of the Prophets, Christ, and Apostles, and all that agrees with the same**.
+
+That, however, he gives out — *"Catholic" is what has always at all times and by all been believed. The Lutheran Doctrine has not always been, but for few years first come up; is also not believed by all, but by few. *Ergo*, so is she not Catholic* —
+
+Thereupon we answer that the ***maior*** or first proposition must be *limited or moderated* with this note: that this is *Catholic* which has **always by all Right-believing, and at all times**...
+
+— ❦ —
+
+*[Chapter XXVIII Von der Catholischen Kirche continues. Translation continues in Rebuild-Tranche 38.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
