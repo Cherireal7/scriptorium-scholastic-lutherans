@@ -8,27 +8,17 @@ lang: en
 
 <!-- HALF-TITLE PAGE (recto) -->
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# THE ENCHIRIDION
-
-## OF TIMOTHEUS KIRCHNER
-
-&nbsp;
-
-— ❦ —
-
 ```{=openxml}
+<w:p/><w:p/><w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="72"/></w:rPr><w:t>THE ENCHIRIDION</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="48"/></w:rPr><w:t>OF TIMOTHEUS KIRCHNER</w:t></w:r></w:p>
+<w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:sz w:val="36"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 <!-- BLANK VERSO -->
-
-&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -36,125 +26,73 @@ lang: en
 
 <!-- FULL TITLE PAGE (recto) -->
 
-&nbsp;
-
-# ENCHIRIDION
-
-## OF
-
-## DR. TIMOTHEUS KIRCHNER
-
-— ❦ —
-
-*In which the chief chapters*
-
-*of Christian doctrine, through question*
-
-*and answer, are from God's Word fundamentally*
-
-*explained, and what has principally been*
-
-*objected against them is briefly refuted.*
-
-&nbsp;
-
-*Set forth for the instruction of simple Christians,*
-
-*that they may know the truth and better guard themselves*
-
-*against erroneous opinions.*
-
-&nbsp;
-
-*With the Grace and Privilege of the Elector Palatine.*
-
-— ❦ —
-
-**Printed in the Electoral city of Heidelberg**
-
-**by Johann Spies · M.D.LXXXIII — 1583**
-
-&nbsp;
-
-&nbsp;
-
-A working English edition translated by
-
-**The Scholastic Lutherans**
-
-*2026*
-
 ```{=openxml}
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="96"/></w:rPr><w:t>ENCHIRIDION</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:sz w:val="36"/></w:rPr><w:t>OF</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="48"/></w:rPr><w:t>DR. TIMOTHEUS KIRCHNER</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:sz w:val="28"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>In which the chief chapters</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>of Christian doctrine, through question</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>and answer, are from God's Word fundamentally</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>explained, and what has principally been</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>objected against them is briefly refuted.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Set forth for the instruction of simple Christians,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>that they may know the truth and better guard themselves</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>against erroneous opinions.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>With the Grace and Privilege of the Elector Palatine.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:sz w:val="28"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>Printed in the Electoral city of Heidelberg</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>by Johann Spies · M.D.LXXXIII — 1583</w:t></w:r></w:p>
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:t>A working English edition translated by</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>The Scholastic Lutherans</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>2026</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 <!-- COLOPHON / IMPRINT PAGE (verso) -->
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-*Working translation from the German, prepared from the facsimile*
-
-*of the 1583 Heidelberg edition held at the Bavarian State Library,*
-
-*Munich, shelfmark* Catech. 388, *digital identifier* bsb00020680,
-
-*VD16 K 1037, translated from the per-canvas hOCR served by the*
-
-*Munich Digitization Centre (MDZ) — see Translator's Note § 1*
-
-*for full source disclosure and § 5 for the scope of this first tranche.*
-
-&nbsp;
-
-*Set in Palatino Linotype and rendered in the Hülsemann style established*
-
-*for the* Scholastic Lutherans *translation program.*
-
-&nbsp;
-
-**The Scholastic Lutherans translation team**
-
-*2026*
-
 ```{=openxml}
+<w:p/><w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Working translation from the German, prepared from the facsimile</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>of the 1583 Heidelberg edition held at the Bavarian State Library,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Munich, shelfmark Catech. 388, digital identifier bsb00020680,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>VD16 K 1037, translated from the per-canvas hOCR served by the</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Munich Digitization Centre (MDZ) — see Translator's Note § 1</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>for full source disclosure and § 5 for the scope of this working edition.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Set in Palatino Linotype and rendered in the Hülsemann style established</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>for the Scholastic Lutherans translation program.</w:t></w:r></w:p>
+<w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>The Scholastic Lutherans translation team</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>2026</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 <!-- DEDICATION EPIGRAPH (recto) -->
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-*To the memory of a Lutheran interval —*
-
-*from Kirchner's dedication of 6 September 1583*
-
-*to Elector Palatine Ludwig VI,*
-
-*written from a Heidelberg pulpit that would*
-
-*revert to Reformed rule*
-
-*within five weeks of his patron's death.*
-
-&nbsp;
-
-— ❦ —
-
 ```{=openxml}
+<w:p/><w:p/><w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>To the memory of a Lutheran interval —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>from Kirchner's dedication of 6 September 1583</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>to Elector Palatine Ludwig VI,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>written from a Heidelberg pulpit that would</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>revert to Reformed rule</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>within five weeks of his patron's death.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:sz w:val="28"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 <!-- BLANK VERSO -->
-
-&nbsp;
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
