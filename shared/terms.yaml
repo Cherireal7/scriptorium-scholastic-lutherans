@@ -5043,15 +5043,143 @@ apertim_diabolica_negocia_pertractat:
     ROMAN CARDINALS THEMSELVES: John XII openly wears insignia of
     Antichrist.
 
+# ─── Tranche 2jj — Otto's imperial summons + John XII excommunicates synod +
+# Judas-typology deposition-argument + Leo VIII election + John XII counter-
+# attack + Tiber-bridge battle + John XII death 964 + Benedict V deposed +
+# Leo VIII restored (vl0199-vl0206) ─────────────────────────────────────
+
+ioannes_xii_excommunicat_omnes_synodum:
+  english: John XII's absurd two-sentence excommunication of the entire synod
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0200"
+  note: >
+    IOANNES EPISCOPUS SERVUS SERVORUM DEI OMNIBUS EPISCOPIS: NOS
+    AUDIVIMUS DICERE QUOD UOS UULTIS ALIUM PAPAM FACERE: SI HAEC
+    FACITIS EXCOMMUNICO UOS DE DEO OMNIPOTENTI UT NON HABEATIS
+    LICENTIAM ULLUM ORDINARE ET MISSAM CELEBRARE. Two-sentence
+    "Apologeticum" excommunicating the entire December 963 Roman
+    Synod (including the Emperor, Roman clergy, and Italian/Ottonian
+    bishops). Servus servorum Dei humility-formula prefixed to
+    excommunico uos de Deo omnipotenti = strongest possible imperial-
+    Roman anathema. Reformation-standard example of scandalous papal-
+    monarchical pretension: 26-year-old ignoring synodal summons on
+    serious charges responds with unilateral universal excommunication.
+
+iudas_typologia_paparum_claves_perditae:
+  english: Judas-typology — sinful pope forfeits keys-power (deposition-argument)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0202"
+  note: >
+    Synod's coup-de-grâce argument for deposition of John XII: Judas
+    Iscariot had received from Christ the power of binding and loosing
+    (Matt 18:18) as one of the apostles; but by cupidity became a poison-
+    murderer, and thereby FORFEITED the keys, able only to bind himself
+    in the noose of despair (Matt 27:5). John XII by manifest wickedness
+    has like Judas FORFEITED the keys — his excommunication of the synod
+    is therefore INOPERATIVE; the synod can lawfully disregard it. MOST-
+    IMPORTANT PRE-REFORMATION ECCLESIOLOGICAL FORMULATION ON THE
+    CONDITIONAL CHARACTER OF THE KEYS-POWER: the keys operate only in
+    a holy office-holder. Directly picked up by Wyclif De Ecclesia 1378,
+    Hus De Ecclesia 1413, Luther De captivitate Babylonica 1520 WA
+    6:497-573.
+
+leo_viii_electio_963_protoscriniarius:
+  english: Leo VIII elected Pope 4 December 963 (Ottonian-installed)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0204"
+  note: >
+    Leo VIII r. 4 Dec 963-1 Mar 965 elected by December 963 Roman Synod
+    unanimously (una uoce dixerunt, said three times) as protoscriniarius
+    (papal chief-notary) elevated to Pope with Emperor's consent after
+    John XII deposition. Led to Lateran with praises; consecrated at
+    St Peter's; oaths of fidelity from clergy. First Ottonian-installed
+    Pope; canonical status contested in modern historiography (John XII
+    still living) but Reformation polemic accepts deposition as valid.
+
+pons_tiberis_bellum_963_964:
+  english: Battle at the Tiber bridge (Otto's Saxons vs bribed Roman mob)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0205"
+  note: >
+    Late 963 or early 964. Deposed John XII sent secret nuncios from
+    exile promising PECUNIAM BEATI PETRI OMNIUMQUE ECCLESIARUM (money
+    of blessed Peter and all churches) to Romans willing to attack
+    Emperor + new Pope Leo VIII. Papacy's own treasury weaponised
+    against imperial protector. Romans blocked Tiber bridge with wagons;
+    Otto's Saxon soldiers SICUT ACCIPITRES IN AUES (as hawks against
+    birds) trampled fleeing mob. Otto pulled back own men still thirsting
+    to kill. Leo VIII prostrated at Emperor's feet begged mercy;
+    hostages returned. Otto left Rome COMMITTENS LUPIS AGNUM
+    (committing the Pope as lamb to wolves) — Reformation-standard
+    rueful-realism about impossibility of external institutional-
+    protection of Reforming Pope.
+
+mutilatio_papalis_iohannis_azonis_964:
+  english: John Cardinal + Azo mutilated by John XII faction (spring 964)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0206"
+  note: >
+    When John XII faction returned to power in Rome (spring 964 after
+    Otto left), inflicted maimings on Leo VIII supporters: JOHN CARDINAL-
+    DEACON lost his RIGHT HAND; AZO PROTOSCRINIARIUS lost his TONGUE +
+    both nostrils + two fingers. Standard early-medieval mutilating-
+    punishment for political enemies. Reformation-standard exhibit of
+    how papal-factional violence exceeded even secular sanguinolentia.
+
+ioannes_xii_mors_diabolica_964:
+  english: John XII's death 14 May 964 struck by devil at woman's bed unhouseled
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0206"
+  note: >
+    Liutprand's hagiographic-inverted providential-death account: John
+    XII on a night outside Rome, delighting himself with someone's wife
+    (adulterating), in his temples struck by the devil so grievously that
+    within 8 days' space died from the same wound. DID NOT RECEIVE THE
+    EUCHARIST VIATICUM — dying IMPENITENT AND UNHOUSELED. Liutprand's
+    source: John XII's own kin + familiars present testifying under oath.
+    REFORMATION-STANDARD PROVIDENTIAL-DEATH: pope who invoked demons at
+    dice died struck by devil in adultery unhouseled. Melanchthon on
+    IRA DEI MANIFESTANS in providential deaths of the impious.
+
+benedictus_v_grammaticus_deposit_964:
+  english: Pope Benedict V "Grammaticus" briefly elected then deposed by Otto
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0206"
+  note: >
+    Benedict V r. 22 May 964-4 July 964 briefly elected by Roman clergy
+    after John XII death in disregard of oath sworn to Otto (no Pope
+    without imperial consent). Otto besieged Rome by weapons + machines
+    + famine; Romans surrendered; Benedict formally DEPOSED at Roman
+    synod 23 June 964 led into Leo VIII presence at Lateran formally
+    STRIPPED of pontifical vestments by Benedict Cardinal archdeacon +
+    reduced to diaconate + EXILED to HAMBURG (where he died 966). Leo
+    VIII restored. Standard Reformation-Lutheran example of emperor as
+    DEPOSITOR-OF-ANTIPOPES imperial power adjudicating between competing
+    papal claimants. Schieffer Lex des Mittelalters I 1980.
+
+conciliarism_praedecessor_haec_sancta_synodus:
+  english: 963 Synod as conciliarist predecessor of Constance Haec Sancta 1415
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Otho primus Liutprand at vl0201"
+  note: >
+    The synod's formal response (via Otto's supplementary summons 22 Nov
+    963) naming the synod (from Liguria + Tuscany + Saxony + Franconia +
+    Lotharingia + Aemilia) as PROPER ECCLESIAL FORUM, joining Emperor's
+    authority to assembled clergy — Reformation-standard CONCILIARIST
+    ECCLESIOLOGY anticipating Council of Constance 1414-1418 HAEC SANCTA
+    SYNODUS decree on conciliar supremacy over Pope. The 963 deposition-
+    of-John-XII is the first-attested medieval instance of the conciliar-
+    imperial deposition of a Pope for manifest wickedness/heresy.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through December 963 Synod formal charges (vl0001-
-# vl0198, 198 body pp + 32 paratexts ≈ 36.2% of 1094-pp body). Flacius lemma
-# total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c)
-# + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) +
-# 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) +
-# 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) +
-# 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee)
-# + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) = 208.
+# FLACIUS 1556 — TRANCHE 2 through Benedict V deposition (vl0001-vl0206, 206
+# body pp + 32 paratexts ≈ 37.7% of 1094-pp body). Flacius lemma total: 10
+# seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
+# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
+# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4
+# (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4
+# (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee)
+# + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) + 8 (T2jj) = 216.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
