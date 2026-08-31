@@ -608,4 +608,264 @@ To this, Christ did not say: *"I am human tradition or custom"*, but ***"I am th
 
 — ❦ —
 
-*[Locus I closes. Locus II De Deo begins in Rebuild-Tranche 3.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus II. Of God
+
+### *De Deo*
+
+— ❦ —
+
+## Question 1. How and whence does God rightly will to be known?
+
+**How and whence does God rightly will to be known?**
+
+**In and from his Word, in which he has made himself known.** [*Luther: T. 4, p. 390; T. 7, pp. 64, 65; T. 8, p. 288; T. 2, part 1, pp. 60, 61, 62; T. 4, part 1, p. 5; T. 4, part 1, p. 130*] **Ps. 119:105** — *"Thy word is a lamp unto my feet, and a light unto my paths."*
+
+— ❦ —
+
+## Question 2. What is God?
+
+**What is God?**
+
+**Let the simpler hold this description from the Catechism:** [*Luther: T. 5, pp. 199, 191; T. 7, p. 64; T. 2, p. 227; T. 4, part 1, p. 405, f. b.*]
+
+**God is one in individual spiritual essence, three in Persons, who created all things and sustains them; who redeemed us — lost and damned men — through his Son, and sanctifies us through the Holy Spirit, calls us to his Church, illuminates us, remits sins, will raise us from the dead at the last day, and will give eternal life to all believers, but the impenitent impious he will cast off into eternal fire.**
+
+This description, as easily may be seen, is drawn from the Word of God and from the Apostles' Creed.
+
+**John 4:24** — *"God is a Spirit."* **Matt. 28:19** — *"Going, teach ye all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit."* **Gen. 1:1** — *"In the beginning God created the heaven and the earth."* **John 3:16** — *"For so God loved the world, as to give his only-begotten Son, that whosoever believeth in him may not perish, but may have life everlasting."* **John 5:28–29** — *"Wonder not at this, for the hour cometh, wherein all that are in the graves shall hear the voice of the Son of God, and shall come forth: they that have done good things unto the resurrection of life, but they that have done evil unto the resurrection of judgement."*
+
+— ❦ —
+
+## Question 3. What are the chief idioms and attributes proper to God?
+
+**What are the chief idioms and attributes proper to God?**
+
+**These.**
+
+**I.** That he is ***eternal*** — **Gen. 21:33**: *"He called upon the name of the Lord, the Everlasting God."*
+
+**II.** That he is ***omnipotent and all-sufficient***, and consequently does whatsoever he wills, and can deliver from all evils. [*Luther: T. 1, p. 477; T. 3, p. 351; Gen. T. 2, p. 187; Gen. T. 3, p. 149*] **Gen. 17:1** — *"I am the Almighty Lord — El-Schaddai."*
+
+**III.** That he is ***truthful***, and wonderfully keeps and performs what he has promised. [*Luther: T. 4, p. 449; T. 7, p. 150*] **John 4; Ps. 33:4** — *"For the word of the Lord is right, and all his works are done with faithfulness."*
+
+**IV.** That he is ***just and supreme Judge***, and therefore also to be feared. [*Luther: T. 1, p. 31*] **Ps. 7:12–13** — *"God is a just Judge, strong and patient — is he angry every day? Except you will be converted, he has shaken his sword; he has bent his bow, and made it ready. And in it he has prepared the instruments of death, he has made his arrows for the burning."*
+
+**V.** That he is ***long-suffering, most clement, and most merciful***; wherefore they who do repentance ought not to doubt of his mercy and goodness. [*Luther: T. 4, p. 102, from the Sermon at Pentecost*] **Ps. 103:8–12** — *"The Lord is compassionate and merciful; long-suffering and plenteous in mercy... As a father hath compassion on his children, so hath the Lord compassion on them that fear him."* **John 3:16**.
+
+— ❦ —
+
+## Question 4. Are the properties of God — for example, wisdom, omnipotence, justice, and the like — ***accidents***?
+
+**Are the properties of God accidents?**
+
+**By no means.** For if they were accidents, as they are in us, they would be in him ***from elsewhere and mutably***. But that this is most false is clear to all. For as God has not his origin from elsewhere, so neither are the properties in him ***accidental*** — as we see the virtues in angels and men to be accidents. Hence it is rightly said: ***to the Divinity, to live is not one thing and to know another; nor is it another thing in God to be a living wisdom than to be a wise life***. For God is not mutable — **Mal. 3:6**: *"I am God, and I change not."* **Ps. 102:27** — *"But thou art the selfsame."* And accidents are ***in creatures, not in the Creator***.
+
+### Objection. Every ***relation*** is an accident. In God there are relations. *Ergo* in God there are accidents.
+
+**Respondeo**: **The major is true of the relations of creatures. But in the divine essence, by no means.** For it is agreed that the relations in the persons of the Divinity ***in no way really differ from the essence itself of any Person***. Nor are essence and relation two things in God; for the essence of the Father and the relation of the Father is the Father himself — one and the same in the person of the Father. So also of the remaining Persons.
+
+— ❦ —
+
+## Question 5. Is there therefore only one God in essence — or only one divine essence?
+
+**Is there only one God in essence, or only one divine essence?**
+
+**There is one in essence and nature, eternal, and true God.** **Deut. 6:4** — *"Hear, O Israel: The Lord our God is one Lord."* **Isa. 44:6** — *"Thus saith the Lord of Israel, and his redeemer the Lord of hosts: I am the first, and I am the last, and besides me there is no God."* And **v. 8** — *"You are my witnesses. Is there a God besides me, or a maker whom I have not known?"*
+
+### Objection I. One God could not suffice to govern and preserve all creatures. *Ergo* there are many Gods.
+
+**Respondeo**: **He can suffice for all, since he is omnipotent.** **Gen. 17:1** — *"I am the Lord Almighty — El-Schaddai"* — signifies such a Lord as is sufficient for all creatures, for nourishing, governing, and preserving them.
+
+### Objection II. If God were one, he would also govern in one manner, and would do well to the good and ill to the evil. But we see the contrary happen. *Ergo* [there are more Gods].
+
+**Respondeo** to the Major: **God has his own causes why in this life he sometimes spares the evil and burdens the good with the cross and calamities.** He tolerates the evil patiently for a time, that by his long-suffering he may call them to repentance — **Rom. 2:4**. The good, however, he presses with the cross that he may exercise their faith, hope, and patience. Whence **Ps. 119:71** says: *"It is good for me, Lord, that thou hast humbled me, that I may learn thy justifications."*
+
+— ❦ —
+
+## Question 6. Whence is the vocable ***essentia*** derived?
+
+**Whence is the vocable "essence" derived?**
+
+**From Exodus 3:14**, where God says to Moses: **"I am who am."** [*Luther: T. 4, part 1, p. 118; T. 4, part 1, p. 131*] For because he exists from himself, and has his beginning from nowhere else, but all creatures were made by him — he rightly claims this appellation for himself. Likewise from **Rev. 3** [i.e. Rev. 1:8]: *"who is, who was, who is to come."*
+
+The vocable ***essentia*** in this article is opposed:
+
+**First**, to all fictitious things — for example, to the ***idols of the Gentiles***, which are not from themselves, but have their being from elsewhere.
+
+**Next**, it shows the vast difference between the essence of God and the essence of angels and men. For the divine essence is ***uncreated, eternal, and infinite***; but angels and men are of ***created and finite essence***.
+
+— ❦ —
+
+## Question 7. What, then, does ***essentia*** signify?
+
+**What does essentia signify?**
+
+***οὐσία*** or ***essentia*** signifies the **community of nature**, or that which pertains simply to God, and therefore is predicated in common of all the Persons.
+
+The ***community or common in God*** is called that which pertains not only to the Father, but also to the Son and to the Holy Spirit. As, to be eternal, wise, just, etc. — is proper to all three Persons. For there is **one essence of all three Persons of the Divinity**.
+
+— ❦ —
+
+## Question 8. How is the word ***essentia*** considered in this article?
+
+**How is the word essentia considered in this article?**
+
+**In two ways: ***absolutely*** and ***relatively***.**
+
+**Absolutely** it is said to be considered when it is taken of the whole Divinity, or of all three Persons.
+
+**Relatively**, when it designates a *hypostasis or Person*, according to the property by which each is discerned from the remaining Persons — as when it is said of the person of the ***Father*** that he ***begets*** the Son; of the person of the ***Son*** that he ***is begotten*** by the Father; of the person of the ***Holy Spirit*** that he ***proceeds from the Father and the Son***.
+
+— ❦ —
+
+## Question 9. Why then does Scripture use the vocable ***Elohim***, which is of plural number — if there is only one essence of the Divinity, and not more?
+
+**Why does Scripture use the plural word Elohim?**
+
+**Respondeo**: **She uses this vocable, not because she teaches a plurality of Gods, but because there are more Persons in the Divinity.** For one is the Person of the Father, another of the Son, another of the Holy Spirit.
+
+— ❦ —
+
+## Question 10. *Ergo* Scripture teaches that there are ***more Persons*** in the Divinity?
+
+**Does Scripture teach that there are more Persons in the Divinity?**
+
+**Yes, she does teach it.** And of this assertion these are the ***infallible documents***:
+
+**I.** That by the ***names of Father, Son, and Holy Spirit***, she plainly indicates the distinction of Persons.
+
+**II.** That she has ***perspicuous testimonies*** in which the Father is discerned from the Son. **Ps. 2:7** — *"This day have I begotten thee."* **Gal. 4:4** — *"God sent his Son."*
+
+**III.** That she supplies sayings in which the Son discerns his own Person from the Person of the Father — as **John 8:14–18**: *"My testimony is true; for I am not alone, but I, and the Father that sent me. I am one that give testimony of myself: and the Father that sent me giveth testimony of me."*
+
+**IV.** That similarly she discerns the ***Holy Spirit*** in manifest words from the Father and the Son. **John 14:16** — *"I will ask the Father, and he shall give you another Paraclete."*
+
+**V.** That even in the ***Old Testament***, she everywhere brings forward testimonies of the Trinity of Persons. [*Genesis T. 3, p. 194*] **Gen. 1** — *"In the beginning ***Elohim*** created the heaven and the earth."* And **Ps. 33**.
+
+— ❦ —
+
+## Question 11. Whence is the vocable ***Trinity*** in this mystery derived?
+
+**Whence is the vocable Trinity in this mystery derived?**
+
+**Respondeo**: **Without doubt from the saying at 1 John 5:7**, where it is said: ***"There are three who give testimony in heaven: the Father, the Word, and the Holy Spirit — and these three are one."***
+
+— ❦ —
+
+## Question 12. Is it lawful also to say that there are ***three Gods***, just as we say that there are three Persons of the Divinity?
+
+**Is it lawful to say there are three Gods?**
+
+**Respondeo**: **It is not lawful to say three Gods.** For our faith admits no number of Gods.
+
+— ❦ —
+
+## Question 13. How many Persons, then, are in this divine essence?
+
+**How many Persons in this divine essence?**
+
+**There are three distinct Persons — Father, Son, and Holy Spirit; and these three Persons are one, true, and eternal God in essence and nature, Creator of heaven and earth, and of all things which are in them.** [*Luther: T. 6, pp. 544, 545; T. 4, part 1, pp. 786, 787*] Which against the **Arians, Macedonians, Sabellians**, and similar heretics is to be held with firm faith. The testimonies of Scripture have just before been cited.
+
+— ❦ —
+
+## Question 14. Do the ***Jews, Turks***, and others act rightly, who reject the doctrine and confession of the sacrosanct Trinity?
+
+**Do the Jews, Turks, and others rightly reject the doctrine of the Trinity?**
+
+**By no means.** For since ***no one has ever seen God, nor even can see him***, we ought not to conclude according to the blindness of the judgement of our reason: *"The divine essence is one and individual, therefore there is also one Person of that essence, or in that essence."* For of God we ought not to think or believe otherwise than as he has made himself known in his Word. Since therefore we have express testimonies of the Word of God concerning the Trinity of Persons in one individual essence of the Divinity, let us ***follow Scripture as the testimony of God himself concerning himself***, and set aside the judgement or consequences of our reason.
+
+### Objection I. That which is one in number cannot be divided by numbers. But the true God is one in number. *Ergo* he cannot be divided by numbers.
+
+**Respondeo**: **I concede the whole argument, if thou speakest of the essence of the Divinity.** It is another matter, however, when the discourse is of the Persons. According to essence, God neither can nor ought to be numbered. For he is one only in essence; but the Persons of the Divinity are numbered as three. The reason is, ***that God has thus and not otherwise made himself known***.
+
+### Objection II. Wheresoever there are three substantial Persons, there are three separated substances. But you number three Persons. *Ergo* it would follow that there are also three distinct Gods.
+
+**Respondeo**: **It is different to number Persons of the Divinity, and to say that there are three essences or separated substances, or consequently three Gods in number.** For we do not number essences, nor do we say that the essence of the Divinity is separated or divided. For it is always and remains **one and indivisible**. But we number the Persons of the Divinity — and that according to the manifestation. **Matt. 3:17; John 1**.
+
+### Objection III. Three things and one thing are four. But three Persons and one essence are taught. *Ergo* a ***quaternity*** is taught.
+
+**Respondeo**: **It is the fallacy of composition and division.** For the essence of God is not outside the Trinity of Persons, and something distinct and separated from the three Persons. But those three Persons — Father, Son, and Holy Spirit — are that one and true God, or that one divine essence; and in that one essence are those three Persons; which Persons in essence are one true and eternal God, ***not three Gods or three essences in number***. Three Persons are in number, but not three essences in number. Simply, within the bounds of manifestation in this arcane mystery, we ought to stand.
+
+— ❦ —
+
+## Question 15. Are the Persons of the Divinity, then, ***really and truly*** distinguished among themselves?
+
+**Are the Persons of the Divinity really and truly distinguished among themselves?**
+
+**Most greatly.** For Scripture openly says that ***there are three who give testimony***; nor can it be that the same is at once the ***sender and the sent***. But the Father sent the Son into the world — **John 3:34**. Absurd also would be the invocation of the Father, Son, and Holy Spirit in Baptism, if the Persons of the Divinity were not really distinguished among themselves. Finally, there must be a difference between him who speaks and those with whom he speaks. But the Father, at **Gen. 1:26**, says: *"Let us make man to our own image."* There is therefore a difference between the ***Father speaking***, and the remaining Persons of the Divinity — namely, ***the Son and the Holy Spirit***, whom he addresses. The same difference the ***peculiar manifestations*** also demonstrate, as in the Baptism of Christ, **Matt. 3, John 1, and Matt. 17**. From which it is manifest that the ***Sabellians*** and their like grievously err, who altogether abolished the real distinction of the Persons of the Divinity.
+
+### Objection I. God is one — **Deut. 6**. *Ergo* also only one Person of the Divinity.
+
+**Respondeo**: **He is one in essence** — for there is only one essence of the Divinity, and not more. But in that one and most simple essence are three Persons. For thus has God made himself known.
+
+### Objection II. He who says there are more Persons in the Divinity introduces a plurality of Gods. You say there are more Persons in the Divinity. *Ergo* you introduce a plurality of Gods.
+
+**Respondeo**: **The major is false.** For Scripture, which teaches that there is only one essence of the Divinity, shows at the same time that in that one essence there are three distinct Persons — and yet does not introduce a plurality of Gods. For these three Persons are not three Gods, but that one true and eternal God.
+
+### Objection III. The Trinity is distinguished not by Persons, but by the names of ***offices***. In heaven he is called ***Father***; on earth, ***Son***; in the powers of creatures, ***Holy Spirit***. *Ergo* there is only one Person of the Deity.
+
+**Respondeo**: **It is false that the Trinity is distinguished only by names of offices.** For Scripture openly names three Persons — **Father**, ***λόγον***, and **Holy Spirit**. **1 John 5:7** — *"Three there are who bear witness in heaven — the Father, the Word, and the Holy Spirit; and these three are one."* And by name she distinguishes between the Father and the Son. **John 3:16** — *"So God loved the world, that he gave his only-begotten Son."* And **Gal. 4:4** — *"When the fulness of the time was come, God sent his Son,"* etc.
+
+### Objection IV. If the Persons of the Divinity are really distinguished, they will not be one in essence, and the Trinity will not be unity.
+
+**Respondeo**: **Human reason indeed cannot attain that the Persons of the Divinity are really distinct, and yet in essence be one; but Faith, according to the Word of God, believes this, and leads the reason captive.** For so the Lord himself in the sacred letters speaks concerning this mystery. [*Genesis T. 1, p. 3*] **Gen. 1** describes the creation of all things, and it is said that ***Elohim*** created the heaven and the earth. The verb ***Bara*** is of singular number, that the ***unity of essence*** may be expressed. The name ***Elohim*** is plural, that the ***trinity of Persons in that most simple unity*** may be denoted. This same is repeated **Gen. 2**: *"In the day when Jehovah Elohim made the heaven and the earth."* **Josh. 24:19** — *"Ye cannot serve the Lord, for Elohim (God) is holy himself."* Here expressly the unity is confirmed, and yet at the same time the plurality of Persons is asserted. For he calls the one Jehovah ***holy Gods*** — that is, three Persons, Father, Son, and Holy Spirit.
+
+**Isa. 6:8** — *"Whom shall I send, or who shall go (in Hebrew ***Lanu***, ***nobis***) for us?"* And of this testimony **Jerome** on the 6th chapter of Isaiah writes that it indicates the Sacrament of the ***unity and Trinity***.
+
+**Malachi 1:6** — *"If I am Lord (***Adonim***), where is my fear?"* God, as one Lord in essence, wills to be feared; and yet he speaks in the plural — ***Adonim***, ***Lords*** — that he may teach that in that one and most simple essence of the Divinity there are three distinct Persons.
+
+In the words of Baptism (as **Ambrose, *De fide* lib. 1, cap. 1**, also observed) an illustrious testimony stands, that the three Persons of the Divinity are one in essence, and that truly there is a Trinity of Persons in the unity of the divine essence. Christ said: *"Baptise them in the name"* — in the ***name*** indeed, ***not in the names***. He himself also says: *"I and the Father are one."* He said ***one***, lest a division of power be made. And in the same place, cap. 2, the Lord, saying *"Go, baptise the nations in the name of the Father and of the Son and of the Holy Spirit,"* shows that the power of the Trinity is one.
+
+— ❦ —
+
+## Question 16. What, then, are the ***personal properties*** by which these three Persons of the Divinity are discerned among themselves?
+
+**What are the personal properties by which the three Persons are distinguished?**
+
+**The personal property of the Father** is to be of none, but from eternity to have begotten to himself the Son, ***ὁμοούσιον καὶ συναΐδιον*** — consubstantial and coeternal. [*Luther: T. 8, p. 153; T. 6, p. 542; T. 1, part 1, p. 535; T. 5, last-words of David*]
+
+**The personal property of the Son** is to be from eternity begotten by the Father, ***ὁμοούσιον καὶ συναΐδιον*** — **Ps. 2:7**.
+
+**The personal property of the Holy Spirit**, by which he is discerned from the Father and the Son, is to proceed from the Father and the Son — **John 15:26**.
+
+Besides this ***internal*** distinction of the Persons, there is also ***another*** which is taken from the ***external manifestation***. The Father made himself known in the voice calling from heaven: *"This is my beloved Son, in whom I am well pleased."* The Son manifested himself in the flesh — in human nature — for only the Son was made man. The Holy Spirit alone was manifested in the form of a dove, in cloven tongues as of fire, in various tongues and miracles. Yet the human nature of Christ was formed by all three Persons of the Divinity; yet also the cloven tongues, and the gifts of the Holy Spirit, are the work of all three Persons.
+
+— ❦ —
+
+## Question 17. Recite to me briefly the sum of this venerable mystery.
+
+**Recite briefly the sum of this mystery.**
+
+**The sum of this stupendous mystery thou hast briefly comprised in the Symbol of Athanasius:** [*Luther: T. 3, p. 509; T. 8, p. 154; T. 1, part 1, pp. 532, 533*]
+
+*"One is the Person of the Father, another of the Son, another of the Holy Spirit; but of the Father and of the Son and of the Holy Spirit there is one divinity, equal glory, coeternal majesty,"* etc. The Father is made by none, nor begotten; the Son is of the Father alone, not made, nor created, but begotten; the Holy Spirit is of the Father and of the Son, not made, nor created, nor begotten, but proceeding. One therefore Father, not three Fathers; one Son, not three Sons; one Holy Spirit, not three Holy Spirits. And in this Trinity nothing is prior or posterior, nothing greater or lesser; but the whole three Persons are coeternal to themselves, and coequal.
+
+Although therefore in the Sacred Page and History sometimes only one Person is addressed or appears — whether it be that of the Father, of the Son, or of the Holy Spirit, which manifests itself — yet the remaining two are not excluded. For with that Person and in that Person is present and is addressed **the whole, true, and eternal God, the whole sacrosanct Trinity — Father, Son, and Holy Spirit**. [*Luther: T. 8, p. 164*] Which is diligently to be noted, that we may rightly recognise the divine majesty, and lest with the **Jews, Mahometans**, and other blasphemous heretics we believe only one Person of the Divinity and deny the Divinity of the remaining two. For not thus — but as he made himself known in his Word, and chiefly in and with his Son, and through his Son, will God be recognised. Wherefore also through the whole of the Old and New Testament writings he bears testimony to us of his Son, and sets him forth for us to recognise and to worship. **John 5:39** — *"Search the Scriptures"*, says Christ; *"they are they that give testimony of me."*
+
+— ❦ —
+
+## Question 18. Can a man be saved without the knowledge of this article?
+
+**Can a man be saved without the knowledge of this article?**
+
+**By no means.** [*Luther: T. 8, p. 271*] For let no one presume that he can enter the kingdom of heaven without knowledge of this article, that there are three distinct Persons of the Divinity — Father, Son, and Holy Spirit — and yet these three Persons are one individual and eternal essence. For thus God wills to be known; and this is our Christian Faith, into which we are baptised and called — **Matt. 28; Mark 16**. And *"whoever wishes to be saved, it is necessary that he hold the Catholic Faith; which unless every one shall preserve entire and inviolate, without doubt he shall perish eternally. But the Catholic Faith is this, that we worship one God in Trinity, and Trinity in Unity"* — as the Symbol of Athanasius has.
+
+— ❦ —
+
+## Question 19. Instruct me briefly of the Person of the ***Father***.
+
+**Instruct me of the Person of the Father.**
+
+**The Father is the first Person of the sacrosanct Trinity, from whom the Son is begotten from eternity, from whom (and from the Son) the Holy Spirit proceeds** — so that in respect of order the Father may rightly be called as it were the ***fountain and origin*** of the Divinity. [*Luther: T. 5, p. 156*]
+
+And when the Father is named, the Son is not excluded, but is included and co-named. And so also the Holy Spirit is together addressed and included when the Father or the Son is named — since ***no Person is or can be God separately outside another***.
+
+So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord Jesus Christ, the Father of all mercies and grace,"* etc. And **Christ** himself, in the Evangelical History, always sets the Father before, and ascribes all to him — and yet at **John 5:23** says: *"That all men may honour the Son, as they honour the Father."* And **John 16:15** — *"All things whatsoever the Father hath, are mine,"* etc. — save that the Father is the first Person, from whom the Son from eternity in generation has received all things; and not, on the contrary, the Father from the Son. That certain works, however, are ***distinctly*** said to be and to be done ***to the Father or to the Son or to the Holy Spirit*** — this is to be referred ***to the manifestation, not to the separation, of the Persons***.
+
+— ❦ —
+
+*[Locus II continues in Rebuild-Tranche 4 — Question 20 opens the vocabulary of ***persona*** and its Trinitarian usage.]*
