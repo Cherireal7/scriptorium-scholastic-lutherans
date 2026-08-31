@@ -4540,15 +4540,142 @@ litaniae_contra_principes:
     was Byzantine-style icon-carrying (against later Roman claim
     of native-Latin icon-veneration tradition).
 
+# ─── Tranche 2ff — pseudo-Eutropius conclusion + Claudius of Turin
+# Apologeticum ad Theodemirum (vl0167-vl0174) ─────────────────────────
+
+pseudoeutropius_conclusio_papa_kingmaker:
+  english: Pseudo-Eutropius conclusion — Pope as imperial kingmaker (John VIII 875)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix conclusion at vl0167-vl0168"
+  note: >
+    Pseudo-Eutropius Appendix conclusion: after Louis II of Italy
+    death 12 Aug 875 Brescia leaving no male heir, Pope John VIII
+    r. 872-882 himself served as legate to Charles the Bald secretly
+    inviting him; crowned Emperor 25 Dec 875 at Rome by John VIII
+    despite competing candidacy of Charles the Fat r. 881-888.
+    Papacy played kingmaker between competing Carolingian claimants.
+    John VIII later murdered 882 — first Pope to die violent death.
+    Charles the Bald fled at approach of Charles the Fat, died en
+    route back to France. Pseudo-Eutropius closing lament ab illo
+    autem die honorificas cosuetudens regiae dignitatis nemo
+    imperatorum nemo regum acquisiuit = Carolingian-imperial control
+    at Rome ended with Charles the Bald 875-877.
+
+iohannes_ravennas_crimen_invidiae_nicolai:
+  english: Flacius reframes John of Ravenna's crime as Nicholas I's envy
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — post-Eutropius commentary at vl0168"
+  note: >
+    Reformation hermeneutic-of-suspicion applied to Anastasius
+    Bibliothecarius Liber Pontificalis + Frodoard Historia Remensis
+    Ecclesiae accounts of the John of Ravenna deposition case.
+    Standard historians treated the excommunication as legitimate
+    canonical discipline for jurisdictional insubordination; Flacius
+    inverts: John's real crime was Nicholas's envy — that John did
+    not wish to be papal chattel in every thing (Papae mancipium per
+    omnia esse fortè noluit).
+
+claudius_taurinensis_reformator:
+  english: Claudius of Turin (†c.827) — Carolingian pre-Reformation reformer
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Claudius Taurinensis at vl0168-vl0174"
+  note: >
+    Bishop of Turin from c. 817 originally a Spaniard from Adoptionist
+    milieu made bishop by Louis the Pious. Fought against adoration
+    of images, cross, relics + invocation of saints + pilgrimages +
+    other similar evils. Most-Reformation-anticipating Latin bishop
+    of 9th c. Works surviving mostly through polemical excerpts of
+    opponents Jonas of Orleans + Dungal of Pavia + Theodemir the
+    Abbot. Standard modern study Ilaria Ramelli (2000) + Michael
+    Gorman Speculum 72 (1997):279-329. Standard Reformation-Lutheran
+    identification as pre-Reformation reformer — cf. Luther Auslegung
+    des 82. Psalms 1530 WA 31.I:189-218.
+
+apologeticum_claudii_ad_theodemirum:
+  english: Claudius's Apology to Abbot Theodemir (against images/pilgrimage)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Apologeticum Claudij at vl0168-vl0174"
+  note: >
+    Claudius's defence-letter to Theodemir Abbot of St Michael de
+    Cuxa Roussillon (or elsewhere in Aquitaine) — preserved fragmentarily
+    ONLY through Jonas of Orleans De Cultu Imaginum Book I (PL 106:
+    305 ff.) + Dungal of Pavia Responsa contra perversas Claudii
+    Taurinensis episcopi sententias (PL 105:459-530 c. 828). Editio
+    princeps drawn from these polemical excerpts by Flacius + later
+    Reformation editions (Antoine du Pinet French Geneva 1556; Latin
+    Basel 1560s). Modern reconstruction Paolo Bettiolo Vetera
+    Christianorum 24 (1987):353-388.
+
+imagines_reductio_ad_absurdum:
+  english: Claudius's reductio-ad-absurdum of image-adoration
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Apologeticum Claudij at vl0171-vl0172"
+  note: >
+    Classic Reformation-anticipating reductio. If we adore the cross
+    because Christ hung on it — then adore also: virgins (Mary bore
+    him), mangers (he was laid in one), old rags (he was wrapped in
+    them), boats (he preached from them), asses (he rode one to
+    Jerusalem), lambs (Ecce Agnus Dei), lions (Vicit leo tribu Iuda),
+    rocks (stone sepulchre + Petra erat Christus), thorn-thickets
+    (crown of thorns), reeds (Passion striking), lances (Longinus).
+    Chronological amplification: 276 days in Virgin's womb vs 6 hours
+    on cross = 1104× ratio for proportional adoration. Standard
+    Reformation-Reformed: Zwingli Von den bildern 1523 + Calvin
+    Institutes I.11.5-13.
+
+tropice_non_proprie_predicatio:
+  english: Tropical vs proper predication (Christus petra dicitur tropice)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Apologeticum Claudij at vl0172"
+  note: >
+    Classic medieval hermeneutical distinction: tropus (figurative-
+    metaphorical) vs proprie (literal-substantial) predication.
+    Claudius applies to Christ-as-Rock (1 Cor 10:4): Christus, petra,
+    agnus, leo tropice non proprie dicitur; per significantiam non
+    per substantia. Directly anticipates Zwingli tropus-signum
+    reading of Hoc est corpus meum via the same medieval hermeneutical
+    scaffolding — Reformation Eucharistic controversy inherits this
+    distinction directly from Carolingian-era anti-image polemics.
+
+contra_peregrinationem_romam_reductio:
+  english: Claudius's reductio against Roman pilgrimage
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Apologeticum Claudij at vl0173"
+  note: >
+    Devastating anti-pilgrimage argument via reductio: if going to
+    Rome IS penance, why do abbots (like the addressee Theodemir)
+    keep monks in the monastery instead of sending them all to Rome?
+    Either pilgrimage is NOT penance (Roman traffic unjustified) or
+    abbots systematically deprive monks of penance destroying their
+    souls (liable to Matt 18:6 millstone-around-neck sentence).
+    Reformation-standard: Luther An den christlichen Adel 1520 WA
+    6:404-469 §§21-24 on Roman-pilgrimage abuse.
+
+claves_toti_episcopatui_datae:
+  english: Keys given to whole episcopate (not exclusively Peter/Rome)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Apologeticum Claudij at vl0174"
+  note: >
+    Claudius's Reformation-anticipating reading of Matt 16:18-19: the
+    keys given not to Peter exclusively (and thence Rome) but to whole
+    apostolic-episcopal college — for as long as they peregrinate in
+    mortal body; when bishops die others succeed to same judicial
+    power. Precisely the Reformation-standard reading Melanchthon
+    Tractatus de potestate et primatu papae 1537 BSELK 728-732 §§23-30
+    + Chytraeus De Ecclesia + Luther De potestate papae 1520 WA 6:285-
+    324. Claudius specific formulation inverts common misreading of
+    Matt 16:19 grammar (binding on earth binds in heaven, not vice
+    versa).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through pseudo-Eutropius Louis-II-vs-Nicholas
-# narrative (vl0001-vl0166, 166 body pp + 32 paratexts ≈ 30.4% of 1094-pp
-# body — CROSSED 30% MILESTONE!). Flacius lemma total: 10 seed + 8 (T1a) +
-# 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) +
-# 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) +
-# 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) +
-# 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) +
-# 4 (T2aa) + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee) = 176.
+# FLACIUS 1556 — TRANCHE 2 through Claudius of Turin Apologeticum central
+# section (vl0001-vl0174, 174 body pp + 32 paratexts ≈ 31.8% of 1094-pp
+# body). Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) +
+# 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h)
+# + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
+# 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
+# 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
+# + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) = 184.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
