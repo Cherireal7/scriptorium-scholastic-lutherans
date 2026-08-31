@@ -8455,7 +8455,255 @@ Item, that he may demonstrate to the World his **incomprehensible Wisdom**, in t
 
 — ❦ —
 
-*[Chapter XXVIII Von der Catholischen Kirche continues. Translation continues in Rebuild-Tranche 39.]*
+## Question 40. Have we then done rightly, that we have separated ourselves from the Pope's Church?
+
+**Have we then done rightly, that we have separated ourselves from the Pope's Church?**
+
+**Yes indeed.** The Causes are hitherto much indicated — namely, that the **Pope, Cardinals, Bishops, Prelates**, etc., are *not God's Church*, but the **Antichrist and his heap**. For they **overthrow and pervert Christ's Doctrine**; thereto *defend publicly false Doctrine and Idolatries* — as the **Invocation of the Saints**, and what more horrible pieces there are; *pervert the Sacraments instituted by Christ*, make of the Supper **a Sacrifice for the Living and Dead**; give out that *the Keys of the Church serve to depose Emperors and Lordships* — of which Christ never dreamed; *arrogate to themselves Spiritual and Worldly power*, and *set up the Pope as Head of the Church against Christ*; **forbid the Priests' marriage** — which is Devil's doctrine, etc.
+
+Item, that they will **impose the fabled fable of Indulgence and Purgatory on Christendom with fire and sword**, etc. Item, that they day and night *practise* how they may **root out and destroy** all those who recognise Jesus Christ *alone* as their sole Saviour and Blessed-maker and invoke him.
+
+### Yes (they say) — if the Roman Church or Pope, etc., should not be the right Church, where then would the Church hitherto otherwise have been?
+
+**Answer**: Christ has bound his Church with no word to the *Seat or Pope at Rome*, but has otherwise, until now, also *under the Antichristian Papacy*, wonderfully preserved his Congregation for himself — where the Pope from Christ and his Word *fell away* and, as an *Earthly god in the Church*, through his ***traditiones*** and *Men's statutes* has *ruled*. Just as at **Elijah's times** — **1 Kings 19** — and under **Annas, Caiaphas**, and the other High Priests in the Old Testament, at the Prophets' time also happened.
+
+### But if one would even leave the Pope, one should nevertheless not *separate oneself from the Fellowship of the Church*?
+
+**Answer**: We have from the Fellowship of the right Catholic Church of God (which is built on the ground of the Prophets and Apostles — **Eph. 2:20**) **never** separated ourselves, nor intend hereafter to separate. Just as Christ with his disciples indeed separated himself from Annas, Caiaphas, and their following, but was therefore *never departed from the Congregation of God*, but **remained thereby**. So we also — though we withdraw from the Pope and his Antichristian Kingdom — separate ourselves therefore *not from the Right-believing or Catholic Church*, but *remain and persevere* with the same.
+
+— ❦ —
+
+## Question 41. Can then the Church also err?
+
+**Can then the Church also err?**
+
+**Upon this question one must answer distinctly.**
+
+**First**, that the Church *in general* does not err, so far as the **Foundation** — which is Christ — concerns — **1 Cor. 3:11–12**. Though some *gold*, some *silver*, some *hay*, etc., build thereon.
+
+Thus at all times in the people of Israel there were some who knew the *blessed Seed*, and *held to the pure Doctrine*, though they built not *pure gold* upon the Ground. So too at the time of the Pharisees, etc.: **Zacharias, Elisabeth, Anna, Mary**, and others.
+
+In like manner the disciples of the LORD themselves had many *erroneous meanings* concerning Christ — **Matt. 16, 20; Luke 18, 24; Acts 1** — of his Kingdom, Dying, Resurrection, and the like. So too under the Papacy at all times there have been many *who bowed not the knee to him in all things*, but *contradicted*. Though they built not *pure gold on the Ground*, yet they remained *under the Grace-wings of Christ*. It is also not at all times in the Church the *same Light*, but at times a *greater Light and Knowledge of Truth*, at times a *smaller* — as the Church History visibly demonstrates.
+
+**2.** It is certain that even the Assembly wherein the Church is, can err. Thus **Aaron** with the people in the wilderness erred, when they cast the golden calf. So too **Jeroboam** with his Baal-priests at Bethel and Dan, when they set up the two golden calves. So too the **Pharisees and Sadducees** at John the Baptist's and Christ's times erred concerning many weighty points of Religion — of the Messiah, his Office, and Kingdom.
+
+Whence Christ himself bids the Church pray for *Forgiveness of Sins*. And thence also **Augustine, *Lib. 1 Retract. cap. 7***, speaks: *"Because the whole Church, as long as she is here, prays: 'Forgive us our debts,'"* so she is in this Life *not without fault and lack*.
+
+**3.** Wherefore when it is now said that the Church errs, this is not to be understood of every *heap that arrogates the title of Church*, but of *the Church of God*, which at times has a *greater Light of Truth*, at times a *smaller*. At Elijah's times the Church was a little heap — **1 Kings 19** — where God himself said: *"I have preserved for me seven thousand."* Whereas on the contrary the great heap hung on Baal. So too at Christ's times the Church was likewise a little heap that kept the Foundation, though it had its infirmities, as at *Mary* herself and at the disciples is to be seen. And of the last times Christ himself has said: *"It shall be as in the times of Noah."* And *"For the sake of the Elect the Days shall be shortened"* — **Matt. 24; Luke 18:8**: *"When the Son of Man shall come, thinkest thou he shall also find Faith on Earth?"*
+
+**4.** Thus the *right Church of God* errs not, insofar as she keeps God's Word and follows the same. When, however, she *departs* from it — be it in this or that piece or Article — there is no doubt that she errs. As also **Peter** himself — **Gal. 2** — erred and was punished by Paul. But yet God preserves for himself always a little heap that remains by the **Foundation or Ground** — **1 Cor. 3:11**: *"No man can lay another Ground than that which is laid, which is Jesus Christ"* — though not without lack and infirmity.
+
+**5.** Though the right Church at times in some pieces errs, yet she errs not always, nor persists in Error, but *at length acknowledges* and *asks for Grace* — as also is to be seen at the disciples of Christ.
+
+**Afterward**, so the Church errs also not in all pieces, for she keeps the **Foundation** — **1 Cor. 3:11**. Besides, not all and every Member of the right Church errs — for the LORD has always his **seven thousand who bow not the knee to Baal**. So he has also had under the Darkness of the Papacy his own, and *wonderfully preserved* them, who did not approve the Papacy's abominations.
+
+### But it stands, 1 Tim. 3:15: **the Church is a Pillar of Truth**. *Ergo*, so she cannot err?
+
+**Answer**: The saying is *true of the right Church of God*, which keeps the Foundation and does not *stiff-neckedly defend Idolatry and false Doctrine* against the Articles of the Faith.
+
+To the *Pope, however, and his Cardinals, Bishops, and Prelates*, this saying does *not at all* apply. For they **reject the Cornerstone** — **Ps. 118:22**; *blaspheme Christ's Merit*; set their **Men's statutes equal to Holy Scripture**; overturn the Sacraments which Christ instituted; make of the Supper an **Idolatrous Sacrifice for the Living and Dead**; contend for the fable of Purgatory; teach the *Invocation of the departed Saints*; and *murder those who will not approve such*.
+
+### But Christ himself says, Luke 22:32: **"I have prayed for thee that thy Faith fail not."** *Ergo*, etc.
+
+**Answer**: That applies to Peter, but not to the Popes at Rome. And indeed it needs not many words — the Church Histories bear *superabundant* witness what dreadful Errors and Idolatries the Roman Popes have brought into the Church.
+
+### What is to be held of Augustine's saying: ***Non crederem Euangelio, nisi me commoveret Catholicae Ecclesiae authoritas*** — "I would not believe the Gospel, did not the Authority of the Catholic Church move me"?
+
+**Answer**:
+
+**First**, it is certain that Augustine with these words meant *not* the Roman Papal Church, as she now is and for some hundred years hitherto has been. For thereof he knew nothing, forasmuch as he lived nearly **1200 years ago**.
+
+**2.** It is undeniable that Augustine, the reputation of the Church of that time (which gave witness of Evangelical Truth and confessed that the books and writings of the New Testament were certainly written by the Apostles and left behind, etc.), moved so that he the more readily fell off from the **Manichees**, among whom he had been nine years, and on account of the said witness which the whole Church gave, **believed the Gospel and Scriptures of the New Testament more than the erroneous doctrine and writings of the Manichees**.
+
+But from this it *follows not* — what the Papists would force out of it — namely, that the Church is *higher and greater than the Gospel*. For as little as this holds: *"The reputation of the witness moves me that I believe the Prince. *Ergo*, so is the witness greater than the Prince."* Or: *"The reputation of the Prophets and Apostles moves me to believe Christ more than the Pharisees. *Ergo*, so are the Prophets and Apostles greater than Christ."* So little holds the Papist consequence taken from Augustine's words.
+
+The Church has indeed her *reputation and Authority*, as **witness of the Truth** — **John 16** [15:27]: *"Ye are my witnesses."* But she is not therefore *above Christ and his Gospel itself*. Even if St. Augustine had so meant it (which is not so), we should not therefore have to follow him. For it becomes not that one hold the *witnesses of the Truth greater than the Truth itself*.
+
+— ❦ —
+
+# XXIX.
+
+# Of the Preaching-Office.
+
+## Question 1. Is there a Preaching-Office in the New Testament?
+
+**Is there a Preaching-Office in the New Testament?**
+
+**Yes indeed.** For **2 Cor. 5:18** — the Apostle says: *"God himself has set up the *Office of Reconciliation* in the Church."*
+
+### But it stands, Jer. 31:34: **"No one shall henceforth teach the other,"** etc., **"but they shall all know me."**
+
+**Answer**: It is true that we are taught through the Holy Spirit; but yet not without the *means of the Preaching-Office*. For the Holy Spirit is *given through the same* — **Acts 2, 10**. Wherefore the Prophet's Meaning is by no means that in the New Testament there shall be *no Preaching-Office at all* (for otherwise Christ would by no means have ordained it). But he looks:
+
+**First**, that in the New Testament, on account of the *light* which Christ has kindled, there shall be a *greater Knowledge of Divine Mysteries* than in the Old Testament under the *Mosaic Foreshadowings* was — namely, that every Christian, out of and according to God's Word, shall understand the same *finely and rightly*.
+
+**Afterward**, upon the *Consummation of the Kingdom of Christ in the coming World*, when the Preaching-Office shall quite cease, and the Blessed shall all see God **face to face**, and shall deal with him without such means — **1 Cor. 15:28** — then shall God be **All in All**.
+
+— ❦ —
+
+## Question 2. What is the Preaching-Office?
+
+**What is the Preaching-Office?**
+
+**An Office instituted by Christ himself, to preach Repentance and Forgiveness of Sins, to dispense the Sacraments according to Christ's Ordinance, and to rule the Church according to God's Word** — through which the Holy Spirit is powerful, and *enlightens Men and makes them holy unto Eternal Life*.
+
+— ❦ —
+
+## Question 3. How manifold is it?
+
+**How manifold is it?**
+
+**Only one and the same**, so far as the chief pieces of the same Office concern. For though the Apostles have a higher Calling than other Church-Servants, yet they must all carry *one and the same Doctrine*, and dispense *one and the same Sacraments*, and *all together throughout unite and direct themselves alone according to God's Word*.
+
+— ❦ —
+
+## Question 4. Who instituted the Office?
+
+**Who instituted the Office?**
+
+**Christ Jesus**, when he says — **Matt. 28:19**: *"Go, teach all Heathen, and baptise them."* — **Mark 16:15**: *"Preach the Gospel to all Creatures."*
+
+— ❦ —
+
+## Question 5. What Instruments does he use through which he carries on the Preaching-Office?
+
+**What Instruments does he use through which he carries on the Preaching-Office?**
+
+**In the New Testament**, Christ himself preached at the beginning; afterward sent forth the Apostles — **Matt. 24; Luke 24**; the Apostles [sent] their disciples, and so forth.
+
+— ❦ —
+
+## Question 6. May they then deal with the Preaching-Office *at their own pleasure*?
+
+**May they then deal with the Preaching-Office at their own pleasure?**
+
+**No.** For they have a *measured Command* — **Matt. 28:20**: *"Teach them to keep all that I have commanded you."* **Gal. 1:8**: *"So an Angel from Heaven should preach another Gospel than that which ye have received, let him be cursed."* Likewise with the Sacraments — they must dispense the same according to Christ's Command, and not according to their own pleasure, as the Pope at Rome has done and still does.
+
+— ❦ —
+
+## Question 7. What does the Preaching-Office chiefly comprise in itself?
+
+**What does the Preaching-Office chiefly comprise in itself?**
+
+**First**: the **Preaching of Repentance and Forgiveness of Sins** — **Luke 24:47**.
+
+**Second**: the **Handling of the Sacraments**.
+
+**Third**: the **Office of the Keys** — to forgive and retain Sins.
+
+**Fourth**: the **Ruling of the Church according to God's Word**.
+
+— ❦ —
+
+## Question 8. How shall the Preachers be *fit* for their Person?
+
+**How shall the Preachers be *fit* for their Person?**
+
+**First**, they shall be **rightly called**, and *not run without Calling* — **Jer. 23:21**: *"They ran, and I sent them not."*
+
+**Second**, they shall **not be a reed** that the wind blows hither and yon — **Matt. 11:7**: *"Ye shall not see a reed that the wind blows hither and yon."*
+
+**Third**, they shall be **wise as serpents, and simple as doves** — **Matt. 10:16**.
+
+**Fourth**, they shall know how to **rightly divide the Word of Truth** — **2 Tim. 2:15**.
+
+**Fifth**, they shall be able to **punish and convict the contradicters** — **Tit. 1:9**.
+
+**Sixth**, they shall **not be ashamed to always repeat one and the same** in the right Doctrine — **Phil. 3:1**.
+
+**Seventh**, in punishing they shall be **no respecters of persons** — **Isa. 58:1**: *"Cry lustily, spare not; lift up thy voice like a trumpet; and proclaim to my People their Transgression, and to the House of Jacob their Sins."*
+
+**Eighth, and in Sum**: they shall be **adorned with the Virtues which Paul, 1 Tim. 3 and Titus 1, prescribes**, where he says: *"A Bishop shall be blameless,"* etc.
+
+— ❦ —
+
+## Question 9. Wherefore is the Preaching-Office instituted?
+
+**Wherefore is the Preaching-Office instituted?**
+
+**Thereto**: that through it the LORD Christ **gathers a Church or Congregation out of the Human Race**, to whom he imparts himself and all his Heavenly Treasures and Goods, and whom he also eternally makes blessed. — **1 Cor. 1:21**: *"It pleased God through the foolish preaching to make blessed those who believe therein."*
+
+— ❦ —
+
+## Question 10. What has it then for **Power and Working**?
+
+**What has it then for Power and Working?**
+
+**It gives and brings true Knowledge of God, Repentance, Faith on Christ, New Obedience, true Invocation of God**, etc. For all this the LORD works through the Preaching-Office in the Church. Wherefore at **Rom. 1:16** it stands: *"The Gospel is a Power of God to make blessed all who believe therein."* And at **2 Cor. 3:8** the Preaching-Office of the New Testament is called an **Office of the Holy Spirit**, therefore: because he through it *mightily works*, as such the Book of Acts throughout richly demonstrates in the description of the Histories of those who were converted to God through the Preaching-Office.
+
+— ❦ —
+
+## Question 11. What is *contrary* to the Preaching-Office?
+
+**What is contrary to the Preaching-Office?**
+
+**False Teachers and false Doctrine**, through which the Devil *leads the hearts of Men away from the right Preaching-Office*. As he from the beginning through the false Prophets, false Apostles, and unclean Teachers undertook to bring this into work, and still today through the Pope and other false Teachers undertakes.
+
+— ❦ —
+
+## Question 12. May one then also *teach in the Church without ordinary Calling*?
+
+**May one then also teach in the Church without ordinary Calling?**
+
+**Answer**: Whoso will teach in the Church of God must have a **certain Calling** — either **without means from God himself**, as the Apostles had; or **through means**, as the Apostles' disciples, etc., and those who followed them in the Office. Wherefore the Apostle — **Gal. 1** — punishes the false Apostles who without Calling made the Churches in Galatia go astray. And Jeremiah, ch. 23:21, the LORD says: *"They ran, and I sent them not."*
+
+— ❦ —
+
+## Question 13. Shall one then also *not admit any to the Preaching-Office unless he be beforehand well examined*?
+
+**Shall one then also not admit any to the Preaching-Office unless he be beforehand well examined?**
+
+**No.** For at **1 Tim. 5:22** stands: *"Lay hands hastily on no one."* And **2 Tim. 2:2**: *"What thou hast heard from me through many witnesses, that commend to faithful men who are also fit to teach others."*
+
+See on this the ***Concilium Carthaginense***, which was held in the year 400 after Christ's Birth, in which the **Examination or Hearing** of those who shall be *ordained* to the Preaching-Office is finely and plainly described.
+
+— ❦ —
+
+## Question 14. With whom does the Might to *call to the Preaching-Office* rest?
+
+**With whom does the Might to call to the Preaching-Office rest?**
+
+**Such teaches the Book of Acts with clear words.** For **Acts 1** — **Matthias** is called with the *consent of the whole Church*. **Acts 13** — **Paul and Barnabas** are set forth with the *consent of the whole Church at Antioch*. This use the Church afterward also kept — as from **Cyprian Lib. 1 Epist. 4** is to be seen. Thus also **Ambrose at Milan** was chosen by the whole Church. **Athanasius** named **Peter** to his Successor; **Augustine, Eradius** — but all with the *consent of the Church*. In the same manner **Eustathius at Antioch** became Bishop through the *choice of the whole Church*, as **Theodoret** reports in his Church History. And again **Lib. 5 cap. 9** he writes: that **Nectarius at Constantinople**, and **Flavian at Antioch**, were so chosen — ***assentiente tota Ecclesia***, *"with the consent of the whole Church."*
+
+Afterward the ***Ius Patronatus*** came up, with those who *founded and endowed Churches*. That is still today let stand for the most part in the Churches of the **Augsburg Confession**. In some places the **High Authority** has the ***Ius Patronatus***, sets forth to the Church fit Persons, and lets them choose — also lets them freely indicate where they have *lack in the Persons*. If they [i.e., the objections] are weighty, no such Persons are pressed upon the Church. The **Church-Consistories** have the *Examinations* which must precede, etc.
+
+But the **Pope has finally torn *almost all* to himself with violence**, and neither Emperor nor anyone would he suffer to call to the Preaching-Office. But he has done it *against the Scripture, the Examples of the same, and the use of the pure Church*, as the *right Antichrist*. Wherefore it is rightly that it stand at the **Example of the Apostolic Church**, to which our Churches show themselves most nearly conformable.
+
+— ❦ —
+
+## Question 15. Do the Papists then teach rightly, that our Church-Servants **cannot carry on the Preaching-Office** nor administer the Sacraments — because they are not by *Papal Bishops* (who are in ordinary Succession) *consecrated and anointed*?
+
+**Do the Papists then teach rightly, that our Church-Servants cannot carry on the Preaching-Office nor administer the Sacraments — because they are not by Papal Bishops (who are in ordinary Succession) consecrated and anointed?**
+
+**By no means.**
+
+**First**, no such Succession of Bishops is instituted or commanded by Christ in the New Testament, that the *Priest-consecration* shall be sought with such Bishops.
+
+**Second**, it is certain that the right to *call and confirm Preachers* is not the *Papal Bishops'* (however they are called), but of the *whole Church*, as hitherto from the Acts of the Apostles and Church History is proved.
+
+**Third**, the New Testament says with *no letter or word* that those who are not consecrated, anointed, and shaved in the Papal manner *shall not preach or rightly handle and dispense the Sacraments* — forasmuch as it knows *nothing at all* of such Papal consecration, anointing, and shaving.
+
+**Fourth**, it is otherwise for itself clear that the *Power of the Preaching-Office and Administration of the Sacraments* is in the least *not bound to such Papal consecration, anointing, and shaving*, but stands alone upon **God's Ordinance**, who himself through such Means wills to be powerful, and has with no word let himself be understood that the Power of the Preaching-Office and Sacraments shall be bound to Persons or Priests consecrated by Papal Bishops.
+
+**1 Cor. 1:14–17** stands that Paul himself baptised **Crispus and Gaius**; but that on that account their Baptism should be better than if they had been baptised by another Teacher — he mentions no word thereof. So too it is not to be thought that Christ's Body is dispensed in the Supper *on account of the consecration and Chrism*. For such alone happens *for the sake of Christ's Ordinance and Promise*. So the Papal Consecration here has no place.
+
+### Yes (they say) — but your Preachers' Ordination is not valid, because it happens not by Consecrated Bishops, for so it has been carried on.
+
+**Answer**: If the Papists in this piece would maintain anything, they must beforehand show God's Word, in which is commanded that the *Ordination of Priests shall and must be sought with them* — though they be *unlawful* or *no Bishops at all* according to Paul's description — and that *whoever is not consecrated by them cannot be a right Teacher*. That, however, they will not prove *for all Eternity*.
+
+Afterward: though for a long time it has been so carried on with the Papists, that the Ordination and all had to be *fetched from the Pope and his Bishops*, yet it *follows not* that it is right. The reason is: for they have taken such Might *without — yea, against — God's Word*, the Apostles' and the first Church's Examples, *with violence*.
+
+Beyond that: when **Matthias — Acts 1**, the seven Deacons — **Acts 6**, Paul and Barnabas — **Acts 13** — should have been called and ordained, one had not to seek such with **Annas and Caiaphas**, who sat in the ordinary Succession, but *straight sought it with the Congregation of God*.
+
+Thus also *in our time* the Ordination is only to be sought with those with whom the *pure Preaching-Office* is, and who hear the voice of the *Archshepherd Christ* — and not with the *Enemies and Blasphemers of Christ*, the Pope and his Bishops, who have as much *bishopric* about themselves as **Annas, Caiaphas**, and the *Hierosolymitan Clergy* had at that time.
+
+### Ye have (they give out further) the ***Ius*** or Right *to call and ordain Preachers* — lost, in that ye have fallen away from the Roman Church?
+
+**Answer**: That is worth *proving from God's Word*, so far as concerns the Papists...
+
+— ❦ —
+
+*[Chapter XXIX Vom Predigampt continues. Translation continues in Rebuild-Tranche 40.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
