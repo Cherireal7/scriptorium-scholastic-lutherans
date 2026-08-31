@@ -636,7 +636,126 @@ These are the ***nine steps of Jacob's Ladder,*** to which the tenth — which i
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-*[T4 closes here with the first four rules of the method of learning the doctrine of the Church, after the paradigm ***Jacob's Ladder*** 3+3+3-steps scheme. T5 will continue with the remaining rules (5–9) and the further chapters of Locus I on the sufficiency and perspicuity of Scripture, then open Locus II De Deo.]*
+#### The Fifth Rule
+
+**The learning of ***classical languages***** — the paradigm Greek eloquence (which Budaeus renders in his elegant Latin distich): ***"Eloquence alone was in our heart — as much as the Eastern and the Western tracts of the world together produced, and the illustrious glory of the Greeks at Athens: yet as soon as it had cost us much labour, we abandoned it prostrate before Christ's feet. For to the Word of the highest Godhead yields every varied and versatile speech of the human mind."***
+
+***Augustine*** also says nobly: ***"Just as the Israelites carried the gold and silver vessels out of Egypt with them, and transferred them to the true use and worship of God — so Christians ought to know the writings, arts, and philosophy of the Gentiles, and to transfer them to the glory of God."***⁸²
+
+#### The Sixth Rule
+
+Let there be a ***judgement of interpreters,*** and let those be held who are the illustration of the Prophetic and Apostolic books, and open acknowledgement of the true doctrine of the whole Church. But approved and authentic Doctors of the Church are to be read — whose faith and constancy have profited the Church — and one must not easily applaud whatever writings, but hold the rule of 1 Thess. 5:21: ***"Prove all things: hold fast that which is good."*** And Jer. 6:16: ***"Ask for the old paths, which is the good way, and walk therein."*** And ***Augustine*** on the writings of all Doctors of the Church says: ***"If anything is confirmed by the manifest authority of the divine writings which are called Canonical, without any doubt it is to be believed; but of other testimonies or witnesses, by which anything is persuaded to be believed, it may be lawful for you either to believe or not to believe, according as you weigh the merit either to have or not to have of belief."*** And elsewhere on his own writings he says: ***"I do not wish you to be enslaved to my writings as if to Canonical [Scripture]; but if perchance you find in them what you did not believe, believe unhesitatingly; but in these, what you have not certainly, unless you have understood it certainly, do not firmly believe."***⁸³
+
+#### The Seventh Rule
+
+The ***voice of the ministry divinely instituted in the temples and schools*** is to be heard, and judgements are to be conferred with other pious and learned [men]. As it is written in Judges 14 [of Samson's riddle]: ***"If ye had not ploughed with my heifer, ye had not found out my riddle"*** — that is, ***unless you had heard the doctrine of the Church, you would err by a whole heaven from the true sense of the Gospel.*** And experience testifies that ***fleers of the light*** commonly bring forth ***new kinds of doctrines.***⁸⁴
+
+#### The Eighth Rule
+
+The ***distinction of Law and Gospel*** is to be diligently observed and held — as Paul warns (2 Tim. 2:15): ***"Rightly dividing the word,"*** ὀρθοτομοῦντα, wherewith he demands that care be applied in distinguishing the diverse members of doctrine — Law, Gospel, Philosophy, Political governance, and many others. For with ***conspicuous limits, as it were in a judgement of governed boundaries,*** must Political wisdom and the doctrine proper to the Church be distinguished; and the ***foul and pernicious confusions of these kinds*** are to be dreaded.⁸⁵
+
+#### The Ninth Rule
+
+Let there be added at last the ***exercise of penitence and invocation.*** For in true penitence, faith, invocation, hope, and patience (or in bearing the cross), the whole doctrine of the Gospel is made ***more illustrious,*** as it is written in the Psalm [119:71]: ***"It is good for me, O Lord, that Thou hast humbled me, that I might learn Thy justifications."***
+
+From these rules students of piety and doctrine can easily gather what their office ought to be. But I add also this ***admonition***: he who wishes to be exercised with any fruit in the school of Christ ought to bring with him ***four immoveable and infallible principles.***
+
+**The First**: ***That there is only one eternal, true, omnipotent, and merciful God*** — which principle must be fixed against the multitude of Gods of the Gentiles, and against the Manichees.
+
+**The Second**: Not only that there is a God, and that the care of men before all other bodily creatures is to Him — but also that this same God has ***manifested His essence and will to us in His Word,*** comprehended in the writings of Moses, the Prophets, and the Apostles; and that the supreme good and last end of man, to which man has been established, is the ***knowledge and celebration of the true God*** according to His own manifestation.
+
+**The Third**: That we ought to feel, speak, believe, live, die, be raised, and be saved ***according to the norm and prescription of the divine Word*** — that true knowledge, righteousness, life, and salvation are to be sought from no other source than the Word of God — since God does not wish to be known or worshipped for eternity otherwise than as He has manifested Himself.
+
+**The Fourth**: That whatever is besides this Word ***cannot be judged necessary to salvation***; and whatever fights against this Word ***ought to be anathema.***
+
+These are the ***principles of Theology*** — which whoever shall faithfully have held, may be safe against both the idolatry of Gentiles and Turks, and against human traditions and inventions.⁸⁶
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### Chapter 5. On the Method to be Observed in the Explication of the Heavenly Doctrine⁸⁷
+
+*[Selnecker here treats the paradigm ***Wittenberg-Melanchthonian pedagogical framework*** for the sequential explication of the heads of Christian doctrine — following the paradigm ***Hermogenes*** rhetorical-progression schema and the paradigm ***Rudolphi-medical progression*** analogy (from Constitution of the body → Causes and differences → Signs → Cures). The paradigm-classical model Selnecker recommends is **Melanchthon's *Loci Communes*** (mature 1543/1555 editions) as the paradigm ***loci-communes-form*** for organizing dogmatic instruction. He also acknowledges — with paradigm ***moderate-medieval-appreciation*** — the ***Peter Lombard*** paradigm-***Sententiae*** (Paris, c. 1150 — issued 1172 in Selnecker's paradigm-dating) which trained two centuries of medieval theologians, and — with paradigm-critical distance — the paradigm ***two-hundred*** subsequent scholastic ***commentators-on-Lombard.*** The paradigm ***Panoplia dogmatica*** (a paradigm-Chrysostom-Basil-fathers armour-of-doctrine anthology reported extant in the ***Vatican Library*** at Rome in Selnecker's day) is offered as the paradigm-*positive-model* for such systematic-*loci* work. — Selnecker's overall recommendation: *loci-communes-format* with paradigm ***rudibus-initio-summam-recte-ordine-perspicue-proponi*** — *"to set forth to the rude, at the beginning, the sum rightly, in order, and perspicuously."*]*⁸⁸
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+### Chapter 6. On the Manifestation of God — De Patefactione Dei⁸⁹
+
+**In the Old Testament** God ***manifested Himself*** to the human race in ***many ways***: by ***express Word,*** ***visions,*** ***dreams,*** ***miracles,*** ***sacrifices,*** and ***types.*** We rightly say that God has manifested Himself to us: (1) by the ***Word;*** (2) by the ***mission of His Son;*** (3) by ***spiritual and corporeal benefits*** (or ***miracles***); and (4) by the ***Sacraments.***
+
+If, however, we wish to consider and conjoin not only the Church but also the remaining crowd of the human race, we rightly say there are ***three modes*** by which God has manifested Himself to us:
+
+**The First** consists in the ***inspection and consideration of this whole workshop, palace, and theatre*** which we call ***the world.***
+
+**The Second** is the ***secret spiration or inspiration*** — special and secret — by which formerly the ***Patriarchs and Prophets*** were divinely taught many things: in ***visions, dreams, images,*** and ***miracles***, θεοφανείαις — whence the Prophets are named ***Choim*** — that is, ***seers.***
+
+**The Third** is the ***living, infallible, and certain voice*** directed to all and to each — the universal promise, the doctrine of Law and Gospel, ***enduring even to the end of the world.*** For since it is ***impossible without God to learn God,*** God through His Word ***teaches men to know God*** — and thus God is the author of the doctrine of God.⁹⁰
+
+**Otherwise and more plainly** these things are recalled thus: God has manifested Himself to the human race *first* in ***creation,*** manifesting His ***goodness, wisdom, and power***, and communicating His ***joy, life, and righteousness*** to angels and men — ***the very first bearing witness of Himself.*** Then, after the fall of the human race, He manifested Himself by the ***promise of the Gospel,*** the ***promulgation of the Law,*** and the ***mission of the only-begotten Son into our flesh.*** Then afterward by the ***visible mission of the Holy Spirit*** and in other manners.
+
+Let there be, for the younger [students], this description of the divine manifestation, of whatever kind:
+
+***Manifestation of God is an external action of God, by which God — from His hidden seat and light unknown to all creatures — by immense goodness and mercy proceeded forth, and by divine deliberation and will fabricated all things from nothing, and to the rational creatures communicated His wisdom, righteousness, life, and joy — and familiarly addressed men, and with His own voice handed down the Law and the Gospel, and added testimonies in no wise deceiving of His doctrine (the raising of the dead, and others), that He might testify Himself to be affected with paternal care of us; and that the Church, gathered by God out of the human race, might have a certain norm by which she might direct all her thoughts of God and her invocation — that thus the glory of God might be illustrated, and the salvation of men be certain; for whose cause God Himself, as a Bridegroom, came forth from His chamber, and constituted for Himself an eternal Church, by which He might be known and celebrated.***⁹¹
+
+Four things are here to be considered: first, that the doctrine of manifestation is ***altogether necessary;*** second, that this manifestation is an ***immense benefit of God;*** third, ***what is the end of manifestation;*** and fourth, ***how this doctrine of the manifestation of God is to be used.***
+
+*[Selnecker's paradigm four-fold treatment continues: (1) The necessity of manifestation — since without divine self-disclosure, no creature could know God's essence or will; (2) The immensity of the benefit — that the Creator condescends to speak with creatures; (3) The end — the knowledge, love, worship, and eternal enjoyment of God; (4) The use — the paradigm *lectio-meditatio-oratio-gratitudo-obedientia* framework of pious Bible-reading. This chapter closes Locus I with the paradigm ***transition into Locus II De Deo*** — since the very ***manifestation of God*** presupposes an inquiry into ***the manifested God Himself.***]*⁹²
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[T4/T5 closes Locus I De Verbo Dei. The full chapter-map of Locus I: Cap. 1 De autoritate Verbi Divini — Cap. 2 De causis quae nos ad studium Verbi Divini incitare debent (7 causes) — Cap. 3 De scopo totius Scripturae — Cap. 4 De ratione discendi doctrinam Ecclesiae (9 Rules + 4 Principles) — Cap. 5 De methodo servanda — Cap. 6 De patefactione Dei. Locus I is thus the paradigm ***prolegomena-plus-Scripture-doctrine*** locus that provides the epistemological and hermeneutical foundation for the entire ***Institutio.***]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus II
+
+## De Deo — On God⁹³
+
+### Chapter 1. That There is a God — *Quod sit Deus*
+
+**All sound-minded Gentiles have said** that the ***beginnings of all things must be taken from the immortal God.*** And that there is a God is ***innate and as it were engraved*** upon all. For the ***commodities we use,*** the ***light we enjoy,*** the ***spirit we breathe*** — we see given and imparted to us by God. And of men, there is no nation so untamed, so iron, so ferocious and immane, which — though it may not know ***what sort of God should be had*** — yet does not know that ***a God must be had.***
+
+Although occasionally there have been those who said that ***there are no Gods,*** or that ***they know least of all whether there be any*** — as ***Protagoras,*** who denied that he could know whether there was any divinity or not (for which cause he was cast out of the confines of the Athenians); and ***Cicero*** relates various things of ***Diagoras*** which are not to be borne, whence he was called ***atheist*** — yet ***the more sound-minded Philosophers*** and all Gentiles have always detested the ***delirium*** which feigned that there is no God, and have with one accord established: ***"There is a God, who rules, who governs, who conserves the course of the stars, the changes of times, the vicissitudes of things, orders — contemplating lands and seas, protecting the commodities and lives of men,"*** to use Cicero's words.⁹⁴
+
+Certainly in the Church not only must ***the true God*** be established, but even this very question, ***"Is there a God?"*** — is not freed of suspicion of some blasphemy — until, for the instruction of ruder souls (who are yet to be fed with mother's milk), it is set forth for the confirmation of the true sentence concerning God. For pious minds may more easily deny ***heaven, earth, and all creatures*** (which nevertheless is by no means to be believed possible) than to doubt that there is a God, the Creator and Conserver of all things.
+
+### Chapter 2. Whence it is Certainly Established that there is a God
+
+**There is a twofold knowledge or acknowledgement of God:** ***Universal*** and ***Particular.*** The former pertains to all men. The latter is proper to the ***sons of God,*** or to the ***Church.*** Although, even if no demonstrations were to appear, we should still by ***faith*** believe that God is (as the Epistle to the Hebrews chapter 11 says), yet it profits to have at hand ***natural reasons or [reasons] impressed by nature,*** which testify that there is a God.⁹⁵
+
+What pertains to the ***universal knowledge of God*** — of which Paul preaches to the Romans 1 and 2 — let these illustrious and infallible arguments be held:
+
+**The First** — from the ***marvellous magnitude, disposition, and ornament of the whole world and of its parts*** — whether heaven and the innumerable stars be considered, or earth, living things, and their kinds, or whatever other things, wheresoever they may be. On this argument let Job 9 be read, and Ps. 19: ***"The heavens declare the glory of God, and the firmament announces the works of His hands."*** And Ps. 104, in which David gives thanks to God for the whole re-creation — from which is known ***both that He is, and what sort He is*** — namely wise, good, and just. And hither refer these verses:
+
+> ***"He who denies that God is — let him presently look upon the stars;***
+> ***And who looks upon the stars — swears that God is."***
+> ***"Either the sole of my foot proves God from the herbs;***
+> ***And a single herb declares God present."***
+> ***"The whole series of works recounts its Author,***
+> ***who makes and by wide vigour cherishes all."***
+> ***"The divine power shines from the very fields;***
+> ***And light is the sod that proves that God is."***
+
+**The Second argument** is taken from the ***perpetual similitude and conservation of species.*** From man, man is born; from ox, ox. And not only the universal conservation and propagation of species in the whole nature of things shows that God is, but also the ***mode of propagation and generation of species*** is most worthy of admiration, and shows how great is the wisdom of the Creator — that from a root or a granule cast into the earth and putrefied, plants of the same species are born.
+
+**The Third** — from the ***vicissitude of times***, in which the celestial orbs and the fixed stars, by certain laws, revolve around, and render to us day and night, summer and winter, sowing and reaping, serenity and rains. To this third argument let us join also the ***ordinary revolutions of the celestial luminaries,*** which by motion, light, and influx serve the inferior things.
+
+**The Fourth** — from the ***illustrious notions and gifts in men,*** which themselves also testify and confess ***that God is*** — especially when the ***distinction of honest and base*** is considered; which certainly is ***not casual,*** but is a ***certain and eternal rule,*** discerning good from evils; which rule has been received from another…⁹⁶
+
+*[Selnecker's paradigm-*universal-cognitio-Dei* treatment continues with paradigm ***fifth argument*** from **conscience and its bindings**; ***sixth argument*** from **God's providence in political affairs, monarchies, and revolutions**; ***seventh*** from **miracles and prodigies**; ***eighth*** from **the universal consent of nations**; ***ninth*** from **the horror of impiety in men not utterly seared**; ***tenth*** from **the immortality of the soul and the intimation of a future judgement**. These are the paradigm ***Melanchthon-Rom.-1-2-appropriated Cicero-Rom.-Stoic natural-theology arguments*** — paradigm-***Wittenberg-Loci-Communes-format*** for the paradigm-*universalis-cognitio-Dei* treatment. Then Selnecker turns to the paradigm-more-important ***peculiaris-cognitio-Dei*** — the paradigm **Trinitarian doctrine** delivered exclusively in the paradigm ***Scripture-and-Symbols*** and appropriated by ***fides-Ecclesiae.***]*⁹⁷
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+*[T5 closes here with the opening of Locus II De Deo — universal-vs-particular knowledge distinction + the paradigm *classical-Ciceronian-Stoic natural-theology arguments* for God's existence. T6 will continue Locus II with the paradigm ***peculiaris-cognitio-Dei*** — Trinitarian doctrine of God, the divine essence and attributes, the three Persons, and the *communicatio idiomatum* Christological foundation before opening Locus III De Creatione.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -815,6 +934,40 @@ These are the ***nine steps of Jacob's Ladder,*** to which the tenth — which i
 ⁸⁰ **Rule 2 · Doctrine from Fountains — Sola Scriptura** — the paradigm confessional-Lutheran ***fontes-Israel*** framework (paradigm-*ad-fontes* Renaissance-Reformation formula). — **John 7:17** — paradigm ***voluntas-cognitionem-praebet*** locus, one of the paradigm confessional-Lutheran ***ordo-cognitionis-practicae*** proof-texts. Selnecker's paradigm ***"know the doctrine from the fountains, that is, from the writings of the Old and New Testament"*** is the paradigm-confessional-Lutheran ***sola-Scriptura-material-principle*** in its paradigm-classical form.
 
 ⁸¹ **Rule 3 · Method: Reading-Doctrine-Consolation** — the paradigm ***confessional-Lutheran-catechetical*** three-fold aim of Scripture-reading. **1 Tim. 4:13** (***"attende lectioni, exhortationi, doctrinae"***) is the paradigm ***Pastoral-Epistle prescription*** for the paradigm ***Amtsträger-vita-theologica.*** The paradigm ***reading-education-doctrine-invocation-hope-faith*** sequence Selnecker sketches is a paradigm ***confessional-Lutheran-ordo-cognitionis*** framework anticipating paradigm ***mature-Orthodox-*ordo-Salutis*-Selbstverwaltung*** treatments (Gerhard, Hollaz).
+
+## From Tranche 5 · Locus I Close + Locus II De Deo Opening
+
+⁸² **Rule 5 · Classical languages** — the paradigm ***humanist-Reformation-appropriation*** of the paradigm-*Egyptian-gold-of-classical-learning* trope. **Guillaume Budé (Budaeus)** (1467–1540), Parisian humanist and paradigm-*Hellēnismos-restaurator* of French Renaissance letters; his paradigm elegiac ***"Sola fuit cordi nobis facundia"*** distich is a paradigm-Budaean *humanitas-Christian-elegy* summarizing his conversion from purely-classical to ***Christian-classical*** learning. Standard modern treatment: **Marie-Madeleine de La Garanderie,** ***Guillaume Budé, philosophe de la culture*** (Paris, 2010). — **Augustine on the Egyptian gold** — from ***De doctrina christiana*** II.40.60 (PL 34:63): the paradigm ***"aurum-Aegyptiorum-in-verum-Dei-cultum-transferre"*** framework for the paradigm-Christian appropriation of classical learning, cited paradigmatically throughout the Renaissance-Reformation humanist-tradition — see [[chytraeus-catechismus-1594]] for parallel usage.
+
+⁸³ **Rule 6 · Judgement of interpreters + Augustine's paradigm-dual-witness** — the paradigm ***Augustine-Contra-Manichaeos*** framework (***Contra Faustum*** XI.5, PL 42:249) distinguishing paradigm ***Canonical-Scripture-authority*** from paradigm ***patristic-authority.*** Standard modern treatment: **Peter Fraenkel,** ***Testimonia Patrum: The Function of the Patristic Argument in the Theology of Philip Melanchthon*** (Geneva, 1961); **A. N. S. Lane,** ***John Calvin: Student of the Church Fathers*** (Edinburgh, 1999) for the paradigm-parallel Reformed appropriation. — **Jer. 6:16** *(ask for the old paths)* is the paradigm ***catholic-orthodox-Reformation-conservatism*** proof-text, aligning paradigm-Reformation with paradigm-*Vincentian-canon* (Vincent of Lérins ***Commonitorium*** V, *quod ubique, semper, ab omnibus*).
+
+⁸⁴ **Rule 7 · External ministry + Judges 14 Samson** — the paradigm ***confessional-Lutheran-anti-Schwärmer-external-Word*** framework aligned with **Augsburg Confession Article V** (see n. 28 above). The paradigm ***Samson-heifer-riddle*** allegorization — that ***the Church's doctrine is the plough by which the riddles of Scripture are exposed*** — is a paradigm-Reformation ***tropological-hermeneutical*** appropriation of paradigm-medieval allegorical Samson-*Christologia.*
+
+⁸⁵ **Rule 8 · Law-Gospel distinction** — the paradigm ***confessional-Lutheran core-hermeneutical distinction*** (paradigm-Luther's *"discernere legem ab Evangelio est summa ars"*), grounded in **2 Tim. 2:15** ***ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας*** — one of the paradigm ***sedes-doctrinae*** for the whole confessional-Lutheran ***Predigt-Lehre*** and ***Seelsorge*** tradition. Standard modern treatment: **Werner Elert,** ***Law and Gospel*** (Philadelphia, 1967); **Bo Giertz,** ***The Hammer of God*** (Minneapolis, 1960) for paradigm-*Seelsorge*-application.
+
+⁸⁶ **Rule 9 + Four immoveable principles** — the paradigm ***confessional-Lutheran-catechetical closing*** of the *ratione-discendi* chapter with paradigm ***quatuor-firma-principia:*** (1) One God vs Gentile-polytheism + Manichaean-dualism; (2) God-in-Word-in-Scripture; (3) Verbi-divini-norma-vitae-mortis-resurrectionis; (4) Whatever-besides-Verbum-anathema. This is the paradigm ***sola-Scriptura-plus-una-fides*** framework in nucleus. — **Ps. 119:71** — paradigm ***castigatio-ad-doctrinam*** locus. — **"Anathema" in principle 4** — the paradigm confessional-Lutheran ***anathema-omnia-praeter-Verbum*** register aligned with Gal. 1:8 (see n. 55 above).
+
+⁸⁷ **Chapter 5 · De Methodo Servanda** — the paradigm ***Wittenberg-*Loci-Communes*-pedagogical-methodological*** chapter, drawing on paradigm ***Hermogenes-of-Tarsus*** rhetorical-progression and paradigm ***Galenic-medical-method*** progression (from body-constitution → causes-and-differences → signs → cures). **Hermogenes of Tarsus** (2nd c. AD), Greek rhetorician whose paradigm ***Progymnasmata*** and ***Peri Ideōn*** were paradigm-standard Renaissance-humanist rhetorical textbooks. Standard modern edition: **Hugo Rabe** (ed.), ***Hermogenis Opera*** (Leipzig, 1913).
+
+⁸⁸ **Melanchthon's *Loci Communes* + Peter Lombard's *Sententiae* + Panoplia dogmatica** — the paradigm ***three-way comparative-pedagogical*** framework: (1) paradigm ***Melanchthon 1543/1555 Loci Communes*** as paradigm-*confessional-Lutheran-model,* which Selnecker himself learned and taught; (2) paradigm ***Peter Lombard's Sententiae*** (Paris, c. 1155–1158; Selnecker's paradigm-dating "1172" is off by roughly 15 years, reflecting the paradigm-*posthumous-completion-editions*) — the paradigm ***medieval-scholastic-textbook*** that trained two centuries of paradigm ***Lombard-commentators*** (Aquinas, Bonaventura, Duns Scotus, Ockham); (3) paradigm ***Panoplia dogmatica*** — likely paradigm ***Panoplia dogmatike*** of ***Euthymios Zigabenos*** (12th-c. Byzantine paradigm-Comnenian dogmatic-heresiological anthology of Chrysostom-Basil-Gregory-fathers), preserved in the paradigm-***Vatican Bibliothek*** that Selnecker likely knew through paradigm-***Cornarius*** or paradigm-***Erasmus*** Basel editions. Standard modern treatment: **Marcia L. Colish,** ***Peter Lombard*** (Leiden, 1994, 2 vols.); **Jaroslav Pelikan,** ***The Christian Tradition*** Vol. II (Chicago, 1974), pp. 199–235.
+
+⁸⁹ **Chapter 6 · De Patefactione Dei** — the paradigm ***confessional-Lutheran doctrine of revelation*** — bridging Locus I (De Verbo Dei) to Locus II (De Deo). The paradigm ***two-fold structure*** — three modes of divine self-manifestation (world-inspection + special-revelation-to-patriarchs + universal-Word-Law-Gospel) → four operational aspects (necessity + immensity + end + use) — is the paradigm ***scholastic-humanistic-loci-format*** in dogmatic-application. Compare paradigm Chemnitz ***Loci Theologici*** on ***De patefactione Dei*** and paradigm Gerhard ***Loci*** II ***De natura Dei*** which structurally precede paradigm ***De essentia et attributis Dei*** with the same paradigm-*Selnecker-inaugurated* framework.
+
+⁹⁰ **"Impossibile erat sine Deo discere Deum"** — the paradigm ***confessional-Lutheran-anti-natural-theology*** formulation — a paradigm-*Augustinian-Illuminationist* framework in confessional-Lutheran register. Compare paradigm-Luther ***Disputatio de homine*** (1536) Thesis 20 (WA 39/1:175). The paradigm-***Choim*** identification of the Prophets as ***seers*** is from Hebrew ***חוֹזִים*** (chozim, plural of chozeh, "seer"), attested at 2 Sam 24:11, Isa 30:10, and elsewhere — the paradigm ***prophet-seer*** identification is a paradigm-Melanchthonian *Loci* framework.
+
+⁹¹ **Selnecker's paradigm-Definition of the manifestation of God** — a paradigm ***scholastic-humanistic dogmatic definition-in-oratio-perpetua-form*** — one long paradigm ***periodus rhetorica*** that names: (1) external divine action; (2) proceeding from arcane divine light unknown to creatures; (3) fabrication of all things from nothing; (4) communication of wisdom, righteousness, life, joy to rational creatures; (5) familiar address to men; (6) delivery of Law and Gospel with own voice; (7) miraculous testimonies (raising of the dead + others); (8) demonstration of paternal care; (9) constitution of the Church as norm-of-invocation; (10) glory of God + certain salvation of men; (11) Sponsus-emerging-from-*thalamus* (paradigm-Ps. 19:5 *tanquam sponsus procedens de thalamo suo*) image. This paradigm-**one-sentence-definition** is a paradigm ***rhetorical-genre*** of Renaissance-Reformation dogmatic-loci definitions, established by Melanchthon and standardized in mature Lutheran-Orthodoxy through Chemnitz, Hutter, Gerhard, Hollaz.
+
+⁹² **The four-fold operational treatment** — necessity, immensity, end, use — is the paradigm ***Melanchthonian-Loci-treatment*** structural-standard: paradigm *quaestio-utrum* + *demonstratio-quia* + *ordinatio-teleologica* + *usus-practicus.* This paradigm four-part treatment would be standardized as the paradigm ***quaestio-locus-analysis*** framework in mature Lutheran-Orthodox systematics — compare paradigm-[[quenstedt-exercitationes]] Sectio I Didactica-Polemica-methodological framework, which extends paradigm-Selnecker's four-fold to paradigm-Quenstedt's eight-fold *ordo-analyticus-Wittenbergensis.*
+
+⁹³ **Locus II De Deo** — the paradigm-second Locus of the *Institutio,* following the paradigm ***prolegomena-plus-Scripture-doctrine*** Locus I. The paradigm ***two-fold organization*** — Chapter 1 (that God is) + Chapter 2 (whence it is known that God is) — reflects the paradigm ***scholastic-Aristotelian*** ***an-sit / quia-scitur-an-sit*** epistemological framework, established by paradigm ***Aquinas Summa Theologiae*** I.q.2 and paradigm ***Bonaventura Itinerarium*** I.1, adapted to paradigm ***Wittenberg-*Loci-Communes*-humanistic-form*** by Melanchthon. Standard modern treatment: **Otto Ritschl,** ***Dogmengeschichte des Protestantismus*** (Göttingen, 1908–1927, 4 vols.), Vol. IV on the mature Lutheran-Orthodox doctrine of God.
+
+⁹⁴ **The Ciceronian *quod-Deus-sit-innatum* framework** — the paradigm ***Cicero De Natura Deorum*** I.16.43–17.45 and ***Tusculanae Disputationes*** I.13.30 formulation of the paradigm ***consensus-omnium-gentium*** argument for God's existence. — **Protagoras of Abdera** (c. 490–420 BC), paradigm-Sophist whose paradigm ***"peri men theōn ouk echō eidenai, oute hōs eisin, oute hōs ouk eisin"*** (concerning the gods I have no knowledge, whether they are or are not) — from the paradigm-lost ***Peri Theōn*** — is cited in **Cicero De Natura Deorum** I.23.63 and **Diogenes Laertius** IX.51. His paradigm-Athenian-*expulsion* (paradigm ***atheotēs*** trial c. 415 BC) is paradigm-attested. — **Diagoras of Melos** (5th c. BC), paradigm-*atheist-poet* whose paradigm-alleged *atheotēs* trial c. 415 BC is paradigm-attested in Cicero ***De Natura Deorum*** I.2.2 and elsewhere. Standard modern treatment: **Jan Bremmer,** ***"Atheism in Antiquity,"*** in *The Cambridge Companion to Atheism* (2007), pp. 11–26.
+
+⁹⁵ **The paradigm ***duplex-cognitio-Dei*** framework** — the paradigm ***universalis + particularis*** two-fold epistemological framework, aligning with paradigm-Melanchthon's *Loci* on paradigm-*naturalis vs revelata* knowledge of God. This framework — which had paradigm-medieval antecedents in paradigm-Aquinas ***Summa Theologiae*** I.q.2.a.1 (naturaliter innota vs specialiter revelata) — is here paradigm-*Melanchthonianly* re-cast for confessional-Lutheran usage. Standard modern treatment: **Robert D. Preus,** ***The Theology of Post-Reformation Lutheranism*** Vol. II (St. Louis, 1972), pp. 15–105 on the doctrine of God in Lutheran-Orthodoxy. — **Heb. 11:6** — paradigm ***credere-oportet-quia-est-Deus*** *sedes-doctrinae* for the paradigm ***fides-Dei-primordialis*** framework.
+
+⁹⁶ **The paradigm-natural-theology arguments** — Selnecker's paradigm ***cosmological-teleological-consensuological-conscientious*** argument-cluster is the paradigm-Melanchthonian *Loci*-appropriated Ciceronian ***Rom. 1–2*** natural-theology framework. Standard modern treatment: **William J. Wainwright** (ed.), ***The Oxford Handbook of Philosophy of Religion*** (Oxford, 2005), pp. 156–202 on the paradigm-classical arguments. — Selnecker's paradigm-elegiac catena ("Qui negat esse Deum, mox coeli sydera spectet...") is a paradigm ***Selnecker-humanist-versus*** or perhaps paradigm-*Wittenberg-humanist* collection of paradigm-*natural-theology-mnemonic* couplets. — **Psalm 19 + Psalm 104** — the paradigm ***Old-Testament-natural-theology*** *sedes-doctrinae*, cited paradigmatically in patristic, medieval, and Reformation natural-theology treatments. **Job 9** — paradigm-*sapientia-creatoris* locus with paradigm-***Behemoth-Leviathan-cosmological*** framework.
+
+⁹⁷ **The paradigm ***peculiaris-cognitio-Dei*** transition** — Selnecker's paradigm ***universalis-to-particularis*** transition — from paradigm ***natural-theology*** (Ten arguments compressed here) to paradigm ***revealed-Trinitarian-theology*** — anticipates paradigm-Chemnitz's ***Loci Theologici*** on ***De Deo*** and paradigm-Gerhard's ***Loci Theologici*** II *De natura Dei et attributis divinis* + III *De Sancta Trinitate* + IV *De persona et officio Christi.* The paradigm ***fides-Ecclesiae*** entryway into the paradigm-Trinitarian mystery is the paradigm-confessional-Lutheran ***anti-natural-theology-limitation*** — that God the Trinity can be known ***only*** through paradigm ***Scripture + Creed + Church.***
 
 
 *Sequential across the volume. Superscripts in the body text ¹²³. Grouped below by tranche and by section.*

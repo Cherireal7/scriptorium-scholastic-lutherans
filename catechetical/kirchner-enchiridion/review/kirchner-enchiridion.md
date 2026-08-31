@@ -6600,11 +6600,151 @@ It follows not at all: *"Christ's Body is bodily, that is, truly present. *Ergo*
 
 The little word ("My") speaks *plainly of Christ's Body*. The little word ("Body") cannot and may not be otherwise interpreted than of *Christ's Body*. ("Is") that cannot be understood *significatively*, forasmuch as there stands *"which is given for you."* The little word ("which") can here not be taken for the word ***quatenus***, or *so far as he is crucified*, but points **properly and unanswerably to the true Body of Christ which is truly given for us into Death**.
 
-Likewise the words of the Cup point us also to no *Figure or Memorial-sign of the absent Blood of Christ*. For thus speaks Christ — **Matt. 26:28; Mark 14:24**: *"This is my Blood, which is shed for you."* They speak of Christ's own Blood, and precisely of the Blood *that is shed for us*. But that was the *true Blood of Jesus Christ*. Wherefore we cannot from the Words ("My Blood") let ourselves make a *Sign of absent Blood* — forasmuch as the Blood of...
+Likewise the words of the Cup point us also to no *Figure or Memorial-sign of the absent Blood of Christ*. For thus speaks Christ — **Matt. 26:28; Mark 14:24**: *"This is my Blood, which is shed for you."* They speak of Christ's own Blood, and precisely of the Blood *that is shed for us*. But that was the *true Blood of Jesus Christ*. Wherefore we cannot from the Words ("My Blood") let ourselves make a *Sign of absent Blood* — forasmuch as the Blood of the **New Testament** was not a Sign of the Blood of Christ, but *his true Blood itself*.
+
+This ground **Paul** also confirms — **1 Cor. 11:23** — where he recovers the Words of Institution. And **1 Cor. 10:16** — where he says: *"The Cup which we bless, is it not the Fellowship or Distribution of the Blood of Christ?"* He says **not**: *"the Wine is a Sign of the Blood of Christ"*; nor does he say: *"it is a Sign of the imparted Blood of Christ,"* or *"a Sign of the imparted Power of the Blood of Christ,"* etc. — but that it be **a Distribution of the Blood of Christ**.
+
+**Which Blood, however?** Assuredly, that which *is shed for us* — and no other. And thus he speaks also of the **Distribution of the Body of Christ**: *"The Bread which we break, is it not the Fellowship or Distribution of the Body of Christ?"* — He says *not*: *"The Bread is a Sign of the Body of Christ,"* nor: *"a Sign of the imparted Body of Christ,"* nor *"a Sign of the imparted Power of the Body of Christ"* — but straight: *"It is a Distribution of the Body of Christ,"* etc., *"which is given for us,"* etc.
+
+And this is so clear, that even **Beza himself** — in **Epistle 4** — must write and confess that the Apostle did *not* write that the Bread which we break is a *Distribution of the Power of Christ*, but **a Distribution of the Body of Christ**.
 
 — ❦ —
 
-*[Chapter XXVII Holy Supper continues. Translation continues in Rebuild-Tranche 28.]*
+## Question 17. What is to be held of the *many and unequal Interpretations* which the opposite side brings forth over the Words of Institution?
+
+**What is to be held of the many and unequal Interpretations which the opposite side brings forth over the Words of Institution?**
+
+**Thereupon is this much to be traced**: that God has struck them with a **whirl-spirit** — so that they themselves do not rightly know or understand what they see or say. Forasmuch as the Holy Spirit is *not at variance with himself*.
+
+- **Carlstadt** referred the little word ("This") to the *sitting Body of Christ*.
+- **Zwingli** laid the word ("Is") on the **rack of torture**, and made only *Signification* thereof out of his dream.
+- **Oecolampadius** took the word ("Body") for himself; it had to mean to him *Sign of the Body*.
+- **Schwenckfeld** gave out that one must *take the Words ("This is my Body") out of the eyes*, for they hindered the spiritual understanding.
+- Some of his brood do it thus: *"Take, eat, what is given for you; this is my Body."*
+- Others make it in this manner: *"Take, eat; this is my Body,"* etc. *"in remembrance"* — should mean as much as: *"Take, eat; this is my Body's Memorial."*
+- **Campanus** says it shall mean: *"This is my Body, Corpus scilicet paneum"* — *"This is my Body or Corpse for itself, but not my Body."*
+- Others have turned the Text still otherwise, as is to be seen in Luther's writings.
+- The ***Diallacticon*** and **Beza, Epist. 68**, give out that the little word ("Body") is taken in **twofold manner**: for the *true Body of Christ*, and for a *Spiritual or Sacramental Body*. In the Supper, it means not the true Body of Christ, but the *Sacramental Body*, or a *Sign of his Body* — and more such *unbaked* interpretations.
+
+All of which give witness that the opposite side has in this Dispute **no certain ground for its Matter**. For this same **Beza — *in volumine Epistolarum, Epist. 5 ad Alemannum*** — writes that the little word ("Body") could not otherwise be understood than of the *true Body of Christ*, which is given for us into Death. But in **Epistle 68** he writes the *counterpart*: that it means in the Words of the Supper *not the true Body*, but a *Sacramental Body* — that is, *a Sign of the Body of Christ*, which is *further from the sanctified Bread than the highest Heaven from the lowest Earth*, as he otherwise is wont to speak.
+
+### Objection.
+
+**Though they bring forth manifold Interpretations, they are yet in this all *agreed* — that it means *Sign of the Body*, and that the Bread be a *Memorial-sign of the Body of Christ*.**
+
+**Answer**: There lies no might on this, that they are agreed in this piece of the matter. It nevertheless remains: they either must let *fall as wrong* the manifold interpretations of Christ's Words, or *cannot say that they have a certain Text of the Doctrine of the Supper*. For the *many and thereto contradictory Interpretations* let *nothing certain* stand from the Words of Institution.
+
+— ❦ —
+
+## Question 18. Has then the *old right-believing Church* also explained the Words of Institution as *ye* explain them?
+
+**Has then the *old right-believing Church* also explained the Words of Institution as *ye* explain them?**
+
+**Yes indeed.** And that is easily to be proved.
+
+**First**, the chief ***Patres*** confess it — **Irenaeus *Lib. 4 cap. 34***; **Augustine, in *Sententiis Prosperi*** — that **in the Supper there are two Things**: namely, the earthly Elements **Bread and Wine**, and the **true Body and Blood of Christ**. This we also confess and teach.
+
+**Second**, they confess in like manner that Christ's Body is *not alone in Heaven*, but **also truly present in the Supper**.
+
+- **Augustine, *ad Neophytos***: ***Hoc accipite in pane, quod pependit in cruce: Hoc accipite in calice, quod fusum è Christi latere.*** — *"Receive in the Bread that which hung on the Cross; drink in the Cup that which flowed from the Side of Christ."*
+- **Chrysostom, on 1 Cor. 11**: ***Hoc, quod in poculo est, illud est, quod ex latere Christi fluxit, et illud participamus.*** — *"That which is present in the Cup is even the very same which flowed from the Side of Christ, and this we receive."* This we also confess and teach.
+- **Ignatius, *in Epistola ad Smyrnenses*** (as such words *Theodoret* alleges), says that **those are heretics who deny that the Eucharist is the Flesh of our Saviour Jesus Christ, which suffered for us**.
+
+**Third**, they teach that the **Body and Blood of Christ are present in the Supper in an *invisible* manner and are dispensed**.
+
+- **Augustine, *in Sententiis Prosperi***: ***Eucharistia constat visibili elementorum specie, et invisibili Domini nostri Iesu Christi carne et sanguine.*** — *"The Supper consists of the visible forms of Bread and Wine, and of the invisible Flesh and Blood of our LORD Jesus Christ."*
+- The same teaches also **Cyprian, *In Sermone de coena***, and **Bernard, *De coena Domini***. And this is also our Doctrine and Confession.
+
+**Fourth**, they have with ***disertis verbis*** written that Christ is not alone *with his Power and Working* present in the Supper, but also that **his Body and Blood are present dispensed and received in the Supper**.
+
+- **Cyril, *Lib. 11 in Johannem, cap. 26***: ***Considerandum est non habitudine solùm, quae per charitatem intelligitur, Christum in nobis esse, verùm etiam et participatione naturali.*** — *"It is to be considered that the LORD Christ is in us not alone through Spiritual Unity and Love, but also is in us through natural Participation."*
+- **Ibidem**: ***Nónne corporaliter quoque facit communicatione carnis Christi, Christum in nobis habitare.*** — *"He works also that Christ *bodily* dwells in us through Participation of his Flesh."*
+- **Hilary, *De Trinitate, Lib. 5[8]***: ***Naturam carnis suae, ad naturam aeternitatis sub Sacramento nobis communicandae carnis admiscuit: Et nos verè sub mysterio carnem corporis sui sumimus.*** — *"Through the Sacrament of the imparted Flesh, he has brought the Nature of the Flesh to Eternity and Immortality, and we truly take, under the Mystery, the Flesh of his Body."*
+- **Chrysostom, on Matt. 26, Homily 83**: ***Proprio corpore nos alit, et sibi coniungit atque conglutinat.*** — *"He nourishes us with his own Body, unites and binds us with himself."*
+
+**Fifth**, the Fathers have also, ***per corporalem participationem carnis Christi in sacra coena*** — through the *essential bodily Participation of the Flesh of Christ in the Holy Supper* — as from **Irenaeus, *Lib. 4 cap. 34***, and with others is to be seen — mightily refuted the Marcionite Heresy and Error, which denied that our Flesh and Blood are capable of Eternal Life. How should they then not have believed that Christ's true Body is dispensed and received *present* in the Supper?
+
+This same affirms also **Cyril, *In Johann. Lib. 3 cap. 36; Lib. 4 cap. 14, 17***. **Augustine, *Confessions Lib. 7 cap. 10***. And foremost **Tertullian, *In libro de resurrectione carnis***. Likewise **Chrysostom, *1 Cor. 11, Homily 24***.
+
+**Sixth**, they have in like manner with Luther and with us taught the **Reception of the Unworthy**.
+
+- **Augustine, *Contra Donatistas Lib. 5 cap. 8***: ***Indignè sumens Dominicum Sacramentum non efficit, ut, quia ipse malus est, aut, quia non ad salutem accepit, nihil acceperit. Corpus enim Domini et sanguis Domini nihilominus erat etiam iis, quibus dicebat Apostolus, qui manducat indignè.*** — *"When one takes the Sacrament of the Body and Blood of Christ unworthily, it follows not from this — because he is Godless and has not taken the Sacrament unto his Blessedness — that he should therefore have received quite nothing. For it was Christ's Body and Blood no less also with those to whom the Apostle said: 'Whoso eats unworthily,'"* etc.
+- Also: ***Idem Contra Fulgentium Donatistam***, Tomo 7, pag. 648, Epist. 162. **Cyprian, *Sermone de lapsis***. **Chrysostom, *Homilia 61 ad Antiochenos***. **Theodoret, 1 Cor. 11**. **Theophylact, 1 Cor. 11**.
+
+**Seventh**, they have with **D. Luther and us** pressed with all *earnest* upon the Words of Christ: *"This is my Body,"* and admonished that one *let oneself not be led away from them*.
+
+- **Cyprian, *In Sermone de coena Domini***: ***Inter convivas Dominicae mensae animalis homo non recipitur: Quicquid caro et sanguis dictat, ab hoc coetu excluditur, nihil sapit, nihil prodest, quicquid humana subtilitas molitur. Omne, quicquid à suis rationibus devium videtur, sapientes huius seculi ad dementiam referunt, et à veritate reputant alienum: sed veritas ab erroneis hominibus comprehendi non potuit.*** — *"A Fleshly Man may not be received as a guest at the LORD's Table. For all that Flesh and Blood set forth is excluded from this Assembly; it understands nothing, is nowhere of use, whatever human Wit undertakes. The wise of this World are so fashioned, that they hold all that agrees not with their Reason for Folly and unfit to Truth; but Men drowned in Error cannot grasp the Truth."*
+- **Chrysostom, *Homilia 83 in Matthaeum***: ***Credamus ubique DEO, neque contradicamus ei, etiamsi sensui et cogitationi nostra videatur absurdum esse, quod dicit, superetque et sensum et rationem nostram verbum ipsius: Quod in omnibus et praecipuè in mysteriis faciamus, non illa solummodò, quae prae oculis posita sunt, aspicientes, sed verba eius quoque tenentes. Nam verbis eius defraudari non possumus, sensus verò noster deceptu facilimus est. Quoniam ergo ille dixit: Hoc est corpus meum, nulla teneamur ambiguitate, sed credamus, et oculis intellectus id perspiciamus.*** — *"Let us believe God everywhere, and not contradict him, even though that which he says appear absurd to our Senses and Thoughts. For his Word is high and far above our Reason and Senses; and this we shall do in all, but specially in the Mysteries — and not alone look upon what is before eyes, but grasp and hold fast his Word. For with his Word we cannot be deceived; but our Reason and Senses can very easily be deceived. Because then he has said: 'This is my Body,' we shall doubt not at all, but believe, and look upon it with the enlightened eyes of the Understanding."*
+- **Ambrose, *De iis qui initiantur***: ***In hac disputatione, quòd et quomodo panis coenae sit corpus Christi, non est quaerendus naturae ordo: cùm idem illud corpus non iuxta naturae ordinem, sed ex Spiritu sancto conceptum, et ex virgine natum sit.*** — *"In this Disputation — *that* and *how* the Bread of the Supper is Christ's Body — we shall not look upon the course of Nature, because even the same Body was, *against the course of Nature*, conceived of the Holy Spirit and born of the Virgin."*
+- **Epiphanius, *In Ancorato***: ***Surrexit in coena, et accepit panem et vinum, et gratiis actis dixit: Hoc est hoc, quod scilicet dico. Et videmus nec aequalitatem, nec simile quippiam vel humanitati, vel invisibili Deitati, vel membris corporeis. Quia verò ipse ita dixit, nemo non credit huic verbo: Et qui non credit ipsum esse veracem, ita, sicut dixit, (Hoc est meum corpus) is excidit gratia et salute.*** — *"Christ stood up in the Holy Supper, took the Bread and Wine, gave thanks, and said: 'This is that which I say.' And we here see nothing that is like or equal either to the Humanity or to the invisible Godhead, or to the members of a human Body. But because he has so said, there is none who does not believe this Word. And whoso believes not that he is Truthful in that he says ('This is my Body'), he shall be robbed of God's Grace and of his Blessedness."*
+- **Leo, Sermone 6 de Ieiunio**: ***Sic sacrae mesae communicare debetis, ut nihil prorsus de veritate corporis et sanguinis Domini ambigatis. Hoc enim ore sumitur, quod fide creditur. Et frustra ab illis, Amen respondetur, à quibus contra id, quod dicitur, disputatur.*** — *"So shall ye have communion at the LORD's Table, that ye doubt not *at all* of the true Presence of the Body and Blood of Christ. For that is taken with the Mouth which is believed with Faith. Wherefore they say Amen in vain who dispute against that which is spoken there."*
+
+**Eighth**, they have with clear Words taught that there is a **twofold Reception of the Body of Christ** — as such from many sayings of **Augustine** is to be seen (in which he treats of the Reception of the Unworthy):
+
+- **Augustine, Epist. 162**: ***Tolerat ipse Dominus Iudam Diabolum, furem et venditorem suum, et sinit accipere inter innocentes discipulos, quod fideles norunt precium nostrum.*** — *"The LORD himself endures Judas his Devil, thief, and betrayer, and lets him also together with the other pious Disciples receive that of which the Believing know that it is that wherewith they are bought."*
+- **Theodoret, *In Epist. ad Cor. cap. 11***: ***Non solùm undecim Apostolis, sed et Iudae proditori pretiosum corpus et sanguinem impertivit.*** — *"He has not alone given his precious Body and Blood to the eleven Apostles, but also to the betrayer Judas."*
+
+From which sayings clearly to be seen — that **Christ's Body is eaten in twofold manner**: **once *Sacramentally alone*** — as Judas ate it — **thereafter *Sacramentally and Spiritually at once*** — as the *eleven Believing Apostles* received it.
+
+Whence sufficiently appears that our opposite side *quite unrightly* gives out that before *Luther's times* they had known nothing of this Doctrine, and that the Fathers had taught alone the *Spiritual* and *not also the Sacramental* Reception of the Body of Christ. Which is a *shameless, palpable, and presumptuous audacity*. Forasmuch as it is certain and undeniable that Luther abides by the Words of Christ and Paul — as also the whole right-believing Church has always done, as before is proved. For we have *no new Doctrine*, but abide by the Words of the LORD Christ, etc.
+
+— ❦ —
+
+## Question 19. What callest thou then *Sacramental Unity*?
+
+**What callest thou then *Sacramental Unity*?**
+
+**When we speak of the Sacramental Unity, we understand it not** (as our opposite side does) **of a Union of the *signified Thing with the Sign***, but of the **Present and to Human Reason incomprehensible Union of the sanctified Bread and Body of Christ** — as the same in the Words of the Supper is clearly instituted: namely, that when the sanctified Bread and Wine are reached and received, then at the same time the **true essential Body, and the true essential Blood of Jesus Christ, are truly present with the same sanctified Signs of Bread and Wine dispensed and received**. For that the Words of the Supper teach *unanswerably*.
+
+### But do ye understand a *spatial incomprehensible Union* — so that the Body of Christ is *spatially enclosed in the Bread*?
+
+**By no means.** Rather, a **supernatural Union**, which without any spatial Enclosure goes on in a *Heavenly and incomprehensible manner*, as the LORD Christ himself has reserved to himself — which **endures in the Action or Reception, and no longer**.
+
+For how Christ dispenses his Body with the Bread, that he has *not revealed*. The Elements are consumed, but the Body and Blood of Christ **are not**. The LORD Christ remains in the Believing as a Saviour; the Unbelieving or Unworthy, however, he **judges**. Outside the *use*, there is no Union of the Bread and Body of Christ, etc.
+
+### Ey, ye must understand the Sacramental Unity so — that the Power of the Body and Blood of Christ, with the sanctified Signs of Bread and Wine, is dispensed to the Believing or Worthy?
+
+**Answer**: The Words of Institution speak not of the *Union and Distribution of the Power of the Body and Blood of Christ*, but of the **Union, Distribution, and Reception of the Body and Blood of Christ *itself***. For Christ says not: *"This is the Distribution and Reception of the Power of my Body which is given for you"*; or *"This is the Power of my Blood"* — but: *"This is my Body which is given for you"*, and: *"This is my Blood of the New Testament, which is shed for you unto Forgiveness of Sins."* Wherefore we rightly abide by Christ's *infallible Words*.
+
+### But does not Faith or the believing Soul mount up to Heaven when she receives the sanctified Signs, and there enjoy the Body of Christ, and the Power of the Body and Blood of Christ, which is signified through the Holy Signs?
+
+**Our opposite side fables such indeed, but *without ground of the Words of Christ***. For Christ says not that we shall *swing up with our Thoughts into Heaven*, and there with Faith receive the Body of Christ, or enjoy the Spiritual Power of his Body and Blood. So too he gives to the Signs *not with bare Words* the Name of the *signified Things*; but through the sanctified Signs he **truly dispenses in the Supper — which is held here on Earth, and not above in Heaven — his Body and Blood**, which he for us gave and shed. He points us also not up into the *highest Heaven* when we would receive his Body and Blood, but **into his Holy Supper, which is held here on Earth according to his Institution**. The opposite side is also not able with any word or letter to add thereto, that Christ has commanded — when one uses the Supper — *with Faith to mount up into Heaven and there enjoy his Body*.
+
+### In this way it would follow, that Christ's Body and Blood are present *on account of the outward Elements Bread and Wine*?
+
+**That follows not.** But **for Man's sake they are there**; and it is a much other thing to be present *for the Elements' sake*, and to be present *with, or through, the Elements — according to the Words of the Institution of Christ*, and truly imparted and received. For it has pleased Christ **through these Means to dispense and reach his Body and Blood**, as the Words of Institution read.
+
+### What is then lacking in the opposite side's Doctrine of the Sacramental Unity?
+
+**First**, this: that their Doctrine at bottom (though they deny it with many words) makes and lets stand only **bare Signs of the Body and Blood of Christ** upon Bread and Wine in the Supper. Wherefore they also say that the Bread bears the *Name of the far-absent Body of Christ*.
+
+**2.** That though they *chatter much of the Power of the Body of Christ*, yet this is not enough. Reason: for the Words of Institution speak not of the *Power*, but of the *Body and Blood of Christ themselves*.
+
+**3.** That she *leads the Christians away from the Supper* and points them into the *highest Heaven* — where Christ in the Words of Institution makes no mention with a single letter.
+
+**4.** That they give out — Faith alone enjoys the Body of Christ *in Heaven far absent from us*, but the Mouth receives *nothing more than the sanctified Signs*. Where yet Christ says: *"Eat, this is my Body; drink, this is my Blood"* — which words speak *assuredly* of the *Mouth or Oral Reception*.
+
+— ❦ —
+
+## Question 20. What is then the *Distinction* between both sides' Doctrine in this Point of the Sacramental Unity?
+
+**What is then the Distinction between both sides' Doctrine in this Point of the Sacramental Unity?**
+
+**Answer**:
+
+**First**, that we, according to the Words of Institution, teach that **the Body and Blood of Christ are truly dispensed with Bread and Wine**. They, however, give out — the *Substance of the Body and Blood of Christ* is not dispensed with the Sacred Signs, is also not there, but *in the highest Heaven*.
+
+**2.** We teach *both* — namely, that **the Power of the Body and Blood of Christ**, and also the **Body and Blood of Christ *themselves*, are dispensed with Bread and Wine**. They, however, will not concede this.
+
+**3.** We teach that in the Words of the Supper this is not required — that Faith shall mount to Heaven — but that he stand upon the Words of the Institution of the Supper (which is held here down on Earth), and according to the Words of Christ receive his Body and Blood *present*.
+
+**4.** We teach after Christ's Words a **twofold Reception of the Body and Blood of Christ** — the **Spiritual and the Sacramental**. But the opposite side teaches only *one* Reception of the Body and Blood of Christ, namely the *Spiritual*. Sacramental Reception, they say, is nothing more than the Reception of the sanctified Signs of Bread and Wine — which is at bottom wrong and false. For **the Sacrament has *two* pieces**: the Holy Signs of Bread and Wine, and the Body and Blood of Christ. And the Signs alone are only the *half part* of the Sacrament, and not the whole Sacrament.
+
+**5.** We teach that **this is not the Nature and Kind of Faith** — that he shall lift the Soul above all Heavens to the place where Christ's Body...
+
+— ❦ —
+
+*[Chapter XXVII Holy Supper continues. Translation continues in Rebuild-Tranche 29.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
