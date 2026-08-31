@@ -4667,15 +4667,139 @@ claves_toti_episcopatui_datae:
     Matt 16:19 grammar (binding on earth binds in heaven, not vice
     versa).
 
+# ─── Tranche 2gg — Claudius closing + Os porci Sergius II Saracen sack 846
+# + Clerus Ravennas letter on clerical vestment freedom (vl0175-vl0182) ────
+
+apostolicus_officium_non_cathedra:
+  english: Apostolic = fulfils apostolic office, not sits in apostolic seat
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Claudius Apologeticum closing at vl0175"
+  note: >
+    Claudius of Turin's Reformation-summarising formula: non ille est
+    dicendus Apostolicus, qui in cathedra sedet Apostoli, sed qui
+    Apostolicum implet officium. Applied via Matt 23:2-3 (Moses-seat
+    scribes/pharisees quaecumque dixerint vobis servate & facite;
+    secundum opera vero eorum nolite facere) directly to current
+    Roman occupant. Precise formula Reformation ecclesiology renews:
+    Luther De captivitate Babylonica 1520 WA 6:497-573 veritas-contra-
+    sedem + Melanchthon Tractatus §§40-45 ministerium distinct from
+    sedes. Dating: post-February 824 (Paschal I r. 817-824 death terminus).
+
+sergius_ii_osporcus_saracen_sack_846:
+  english: Pope Sergius II "Hog's-mouth" and the Saracen sack of Rome 846
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Os porci at vl0175-vl0177"
+  note: >
+    Sergius II r. 844-847 Roman noble originally Sergius or "Osporcus"
+    (Hog's-mouth) — Liutprand Antapodosis I.30 preserves name-changing
+    tradition = origin of papal name-changing practice. Elected without
+    imperial confirmation against 824 Constitutio Romana; Louis II
+    Italy + Drogo of Metz (correctly Metz here, not Cologne as at n520)
+    punitive expedition 844 reconfirmed after damages+oaths. Sergius
+    anointed Louis II as King of Lombards. Brother Benedict "Brutus"
+    (Liutprand's nickname) usurped ecclesiastical + secular admin +
+    Albano bishopric + laid waste to Rome by avarice. SYMONIACA
+    HAERESIS publica bishoprics sold to highest bidder. SARACEN SACK
+    OF ROME 24-27 August 846 = Aghlabid Arab pirates ascended Tiber,
+    sacked Old St Peter's + Old St Paul's Outside the Walls; catalyst
+    of Leo IV Leonine Wall construction 848-852 enclosing Vatican in
+    Rome fortifications for first time. Reformation-standard providential
+    reading: flagellum paganorum ad ulciscenda peccata Christianorum
+    (Luther Vom Kriege wider die Türken 1529 WA 30.II:107-148).
+
+symoniaca_haeresis_publica:
+  english: Simoniac heresy publicly selling episcopates
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Os porci at vl0176"
+  note: >
+    Sergius II / Benedict Brutus regime 844-847 publicly sold bishoprics:
+    qui plus dabat, episcopatum accipiebat. Reformation locus classicus
+    on high-medieval papal simony — the 9th-c Sergius/Benedict practice
+    is direct precursor to 10th-c "pornocracy" + simonia-ubique against
+    which Gregorian Reform (Nicholas II + Gregory VII) later reacted.
+    Compare Luther An den christlichen Adel 1520 WA 6:404-469 §§26-28.
+
+flagellum_paganorum_theologia:
+  english: Flagellum paganorum — pagan military disaster as divine chastisement
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Os porci at vl0176"
+  note: >
+    Reformation-standard providential reading of pagan military disasters
+    (Saracen, Turk, Tatar): God uses the pagan as rod of his wrath to
+    punish an apostate Christendom. Applied to Saracen sack of Rome 846
+    as divine chastisement of simoniac Sergius II papacy. Compare Luther
+    Vom Kriege wider die Türken 1529 WA 30.II:107-148 Türk als Gottes
+    Zuchtrute + Melanchthon apocalyptic-eschatological readings.
+
+clerus_ravennas_ad_carolum_calvum:
+  english: Ravenna clergy letter to Charles the Bald on vestment freedom
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clerus Ravennas at vl0177-vl0182"
+  note: >
+    Mid-9th-c Ravenna clergy epistle to Charles the Bald r. 843-877
+    defending Ravenna custom that monks-made-priests laid aside monastic
+    habit for secular clerical vestment. Historical context = aftermath
+    of Boniface (†754) systematic imposition of Roman-monastic customs
+    on Frankish-Germanic churches, which Ravenna (historically exarchate
+    seat of Byzantine influence in Italy) resisted. Ravenna clergy cite
+    Pope Celestine I Epistula IV (26 July 428 PL 50:429-436) on vestment
+    freedom + Pope Leo I Epistula IV (450 PL 54:611-620) on proposition-
+    of-monk / abandonment discipline (interpreted as devotion of holy
+    conversation NOT vestment). Also engages standard Carolingian-
+    canonical qualifications-list drawn from 1 Tim 3:2-7 + Titus 1:6-9
+    + Leviticus 21:16-24 through Carolingian canonists. Boniface here
+    labeled pseudo-apostolus Germanorum (already at n407 ff).
+
+doctrina_non_ueste_conuersatione_non_habitu:
+  english: We distinguished by doctrine not vestment, conversation not habit
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clerus Ravennas at vl0180"
+  note: >
+    Cardinal Reformation-anticipating formulation from Ravenna clergy
+    letter (citing Celestine I): DISCERNENDI À PLEBE UEL CETERIS SUMUS,
+    DOCTRINA NON UESTE; CONUERSATIONE NON HABITU; MENTIS PURITATE NON
+    CULTU. DOCENDI ENIM SUNT POPULI POTIUS QUAM LUDENDI. NEC IMPONENDUM
+    EST EORUM OCULIS, SED MENTIBUS PRAECEPTA SUNT INFUNDENDA. Precisely
+    the polemical direction of Luther An den christlichen Adel 1520 WA
+    6:404-469 §§20-27 (abolition of ceremonial-clerical distinctions)
+    + Melanchthon Loci Communes on ministerium docendi over ceremonial-
+    clerical elaboration.
+
+vestitus_res_libera_adiaphora:
+  english: Vestment as adiaphora (free thing, uniformity charitable not mandatory)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Clerus Ravennas at vl0181"
+  note: >
+    Ravenna clergy's adiaphoristic principle: uniform sacerdotal vestment
+    is BETTER as charitable arrangement, but NOT iure divino compulsory;
+    vestitus res libera. Grounded in Rom 14:5 unusquisque in suo sensu
+    abundet. Reformation-standard adiaphora doctrine: Formula Concordiae
+    Ep./SD X on adiaphora. Also cites Leo I distinction between substantia
+    (devotion of holy conversation) and accidens (scapular vestment) —
+    substance-over-form applied to canonical texts.
+
+luitprandus_ticinensis_cremonensis:
+  english: Liutprand of Cremona (c.920-972) Antapodosis anti-papal biographies
+  type: reference
+  first_use: "flacius-catalogus-testium-1556, body — Os porci at vl0175"
+  note: >
+    Liutprand of Cremona c. 920-972 Bishop of Cremona, author of
+    Antapodosis ("Retribution" c. 958-962) + Historia Ottonis + Relatio
+    de legatione Constantinopolitana (968). Antipapal / imperial-loyal
+    biographies of 9th-c popes source for Sergius II Osporcus + Benedict
+    Brutus + Formosus negative traditions. Modern crit MGH SS rer. Germ.
+    41 Chiesa 1998. Flacius uses old-parchment MS (Vitae Pontificum)
+    attributed to Liutprand.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Claudius of Turin Apologeticum central
-# section (vl0001-vl0174, 174 body pp + 32 paratexts ≈ 31.8% of 1094-pp
-# body). Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) +
-# 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h)
-# + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
+# FLACIUS 1556 — TRANCHE 2 through Ravenna clergy letter middle section
+# (vl0001-vl0182, 182 body pp + 32 paratexts ≈ 33.3% of 1094-pp body).
+# Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
+# Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
+# 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
 # 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) +
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
-# + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) = 184.
+# + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) = 192.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
