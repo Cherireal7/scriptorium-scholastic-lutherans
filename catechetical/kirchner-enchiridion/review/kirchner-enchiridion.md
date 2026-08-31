@@ -257,13 +257,26 @@ A working English edition translated by
 | &nbsp;&nbsp;&nbsp;§§ 1–6. Definition · papal identification (Smalcald II.iv + Treatise) · nine marks (Trent, wax-nose, saint-invocation replacing pagan gods, Mass, denial of cup, auricular confession, indulgences, *plenitudo potestatis*, persecution) · Satan's working · Christ's destroying · use | 389 |
 | **Hauptstück XXX · On the Cross and Suffering** | 397 |
 | &nbsp;&nbsp;&nbsp;§§ 1–3. Definition · six consolations · watchfulness | 397 |
-| **Hauptstück XXXI–XLIV** *(intermediate loci summarised — see note in text)* | 401 |
-| **Locus XLV · On the Resurrection of the Dead** | 403 |
-| &nbsp;&nbsp;&nbsp;§§ 1–4. All rise · at the Last Day · properties per 1 Cor. 15 · reprobate too | 403 |
-| **Locus XLV *bis* · On Hell** | 407 |
-| &nbsp;&nbsp;&nbsp;§§ 1–4. Existence · what it is · eternal duration · use | 407 |
-| **Locus XLVI · On Eternal Life** | 411 |
-| &nbsp;&nbsp;&nbsp;§§ 1–6. What reason holds · four proofs · in heaven · through Gospel + Faith · what motivates · closing exhortation *"Come, LORD Jesus"* | 411 |
+| **Hauptstück XXXI · On Secular Authority (Magistracy)** | 401 |
+| &nbsp;&nbsp;&nbsp;§§ 1–9. Rom. 13 institution · three kinds of rulers (belly-servers / honour-seekers / godly) · fourfold office (Nurse of Church, Ps. 82 justice, Rom. 13 punish evil, outward peace) · no power against God · **limit of obedience (Acts 5:29 obey God rather than men; Daniel 3; refusing the Papacy)** · Christians as magistrates · Christians in trade with Golden Rule · use of Imperial Law · use | 401 |
+| **Hauptstück XXXII · On Marriage** | 415 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Gen. 2 institution · against polygamy · six requirements · six goods (institution / procreation / help / remedy / *officina* of virtues / Ps. 127–128 blessing) · against papal denigration (Dan. 11:37 + 1 Tim. 4:1–3 as Antichrist marks) | 415 |
+| **Hauptstück XXXIII · On Death** | 423 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. All die · four causes (wrath / warning / physician / longing) · Cyprian *De mortalitate*: *Mihi vivere Christus est, et mori lucrum* · not a substance · passage not end · weeping moderated | 423 |
+| **Hauptstück XXXIV · On Burial** | 429 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Christian love · against Schoolmen on prayer for dead · Scripture examples (Gileadites, Patriarchs, Apostles) · place not prescribed · Augustine *De cura pro mortuis gerenda* I.12 · reproach of unburial · burial near martyrs' graves | 429 |
+| **Hauptstück XXXV · On the State of Souls after Death** | 435 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Souls do not sleep · pious go to Christ (Luke 23:43; 2 Cor. 5:8; Phil. 1:23) · godless in torment (Luke 16:23) · Augustine *De pecc. mer.* I.28 no middle place · 1 Sam. 28 Samuel-appearance was Devil · Matt. 17 Moses+Elias special case | 435 |
+| **Hauptstück XXXVI · On Purgatory (Refuted)** | 441 |
+| &nbsp;&nbsp;&nbsp;§§ 1–5. Fable from Plato and Virgil · Augustine *Enchiridion* c. 69 only doubtful · 2 Macc. 12 not proof (apocryphal + speaks of Resurrection not Purgatory) · patristic ambiguity not scriptural ground · use | 441 |
+| **Locus XLIII · On the Resurrection of the Dead** | 447 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. Scripture proofs · Paul's seven proofs at 1 Cor. 15 · whole man saved · at the Last Day · properties per 1 Cor. 15 · reprobate too | 447 |
+| **Locus XLIV · On the Last Judgement** | 455 |
+| &nbsp;&nbsp;&nbsp;§§ 1–7. Christ Judge of living and dead · definition · Judge is Christ · who is judged · when (15 signs preceding: false doctrine, wars, political collapse, pestilence, famine, earthquakes, persecutions, apostasy, cooling of love, universal Gospel-preaching, abomination of desolation, false teachers, cosmic signs, sign of Son of Man, universal complacency) · against 2 Pet. 3 scoffers · use | 455 |
+| **Locus XLV · On Hell** | 463 |
+| &nbsp;&nbsp;&nbsp;§§ 1–4. Existence · what it is · eternal duration · use | 463 |
+| **Locus XLVI · On Eternal Life** | 469 |
+| &nbsp;&nbsp;&nbsp;§§ 1–6. What reason holds · four proofs · in heaven · through Gospel + Faith · what motivates · closing exhortation *"Come, LORD Jesus"* | 469 |
 
 &nbsp;
 
@@ -3030,11 +3043,73 @@ That we may recognise this greatest of scandals for what it is, guard the faithf
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XXXI–XLIV
+# Hauptstück XXXI
 
-### *(Intermediate loci summarised)*
+### *Von der weltlichen Obrigkeit*
 
-*Between the Antichrist and the eschatological block, the source treats several additional intermediate loci which this working translation has surveyed but not developed in full — the numbering XXXI through XLIV would cover matters such as the four Last Things individually, the Christian estate, Vocation, Marriage and the household, ecclesial discipline, the calendar of feasts, and preparation for death. A future revision will fill these in canvas-by-canvas from the source. For now the reader has the eschatological climax immediately below.*
+*On Secular Authority (Magistracy)*
+
+— ❦ —
+
+## § 1. Whence Secular Authority
+
+**Secular Authority (*weltliche Obrigkeit*)** is God's own institution, ordained for the outward peace of humanity — for the punishment of evildoers and the encouragement of the good. **Rom. 13:1–4:** *the powers that be are ordained of God … he beareth not the sword in vain, for he is the minister of God, a revenger to execute wrath upon him that doeth evil.* God himself commands the sword-bearing office at Gen. 9:6: *whoso sheddeth man's blood, by man shall his blood be shed*.
+
+## § 2. Three kinds of Rulers
+
+**How many kinds of rulers are found at all times?** *Three:*
+
+**1.** Those who rule *only for their belly and their own use*, and do not consider to what end this estate was instituted.
+
+**2.** Those who rule *only for temporal honour and peace*.
+
+**3.** Those who understand *what their office is and direct it to the end for which God himself instituted it*. Such were David, Solomon, Hezekiah, **Constantine the Great**, and many other godly rulers.
+
+## § 3. The chief office of a godly Magistracy
+
+**What then is the chief office of a godly Magistracy?**
+
+**First**, that she be **Nurse and Protector of the Church and Schools** — advancing and preserving God's Word and the right use of the Sacraments, and abolishing what is against them (as David and other Christian rulers have ever done). As *Ambrose* said of the Emperor **Theodosius**, so speak we now: the pious prince is guardian of the Church.⁶⁸
+
+**Second**, that she uphold justice among the people (Ps. 82:2–4: *do justice to the poor and needy; deliver them out of the hand of the wicked*). Kings who oppress the poor bring their whole land to ruin.
+
+**Third**, that she punish evildoers (Rom. 13:4).
+
+**Fourth**, that she preserve outward peace, discipline, and honesty in every station.
+
+## § 4. Whether the Magistracy has power to ordain against God
+
+**No — that be far.** The Magistracy is *God's minister*, and shall establish only what he has commanded, not what runs against his Word or common honesty (Matt. 22:21: *Render unto Caesar the things which are Caesar's, and unto God the things that are God's*). **Manasseh** as king of Judah had no power to abolish true worship and set up false; every command against God's Word is *ultra vires* — beyond the office's authority.
+
+## § 5. The limit of obedience
+
+**Are subjects bound to obey when the Magistracy commands what is against God?**
+
+**By no means.** *Man muss Gott mehr gehorsam sein denn den Menschen* — *One must obey God rather than men* (Acts 5:29). The Apostles rightly refused to stop preaching Christ though forbidden. The **three youths of Daniel** rightly refused to worship Nebuchadnezzar's image, though under compulsion (Dan. 3). Subjects who *refuse to accept the Papacy* act Christianly, though they must lose house and home rather than assent to godless doctrine.
+
+**Objection:** *"One is bound to obey the Magistracy. The Magistracy commands the Papacy be accepted. Ergo, one should obey."*
+
+**Answer:** One is bound to give the Magistracy what is *the Magistracy's*. But what the Magistracy commands *against God's Word* is not *the Magistracy's* at all — it is beyond her office, and to obey there is to disobey God (Acts 5:29).
+
+## § 6. Whether Christians may hold Magisterial office
+
+**Yes.** Christ let *the centurion* (Matt. 8) and *the royal official* (John 4) remain in their stations — which he certainly would not have done if a Christian could not be a Magistrate with a good conscience.
+
+## § 7. Whether Christians may engage in trade and contracts
+
+**Yes indeed.** Only that he *not go too far, nor defraud his brother in his business* (1 Thess. 4:6). Which the Apostle would not have written if he did not hold that a Christian could trade with a good conscience.
+
+**On what shall the Christian look in such dealings?**
+
+**The Golden Rule:** *What he wills that men do unto him, that shall he do unto them* — *and with the measure with which he wills to be measured, that shall he measure to others* (Lev. 19:35–36: *ye shall do no unrighteousness in judgement, in meteyard, in weight, or in measure; just balances, just weights, a just ephah, and a just hin shall ye have*).
+
+## § 8. Whether Christians may use Imperial Law
+
+**Yes.** 1 Pet. 2:13–14: *Submit yourselves to every ordinance of man for the Lord's sake* — the Christian may make legitimate use of the civil laws for the defence of right and the resolution of disputes.
+
+## § 9. Use
+
+That we may honour the Magistracy in her God-given office, pray for those in authority (1 Tim. 2:1–2), pay taxes and tribute (Rom. 13:6–7), and know the limits of obedience where Christ's Word is at stake.⁶⁹
 
 — ❦ —
 
@@ -3042,7 +3117,251 @@ That we may recognise this greatest of scandals for what it is, guard the faithf
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Hauptstück XLV
+# Hauptstück XXXII
+
+### *Vom Ehestandt*
+
+*On the Estate of Marriage*
+
+— ❦ —
+
+## § 1. Whence Marriage
+
+**Marriage** is God's institution from the beginning (Gen. 2:18: *It is not good that the man should be alone; I will make him an help meet for him*). Marriage is thus not a fallen accommodation but a good creation-order.
+
+## § 2. Against polygamy
+
+**May a man have several wives?**
+
+**No.** For God himself says: *two shall be one flesh* (Gen. 2:24), and *a man shall cleave unto his wife* — not to two or many wives. God's Church has ever followed this ordinance; the Ten Commandments speak of only *father and mother*, not of many at once. Christ himself repeated and confirmed this teaching (Matt. 19:4–6). The Apostles the same. The opposite is therefore not to be tolerated.
+
+## § 3. Six requirements of a valid marriage
+
+**What belongs to the marriage-estate?** *The consent of both parties*, and beyond that six conditions:
+
+**1.** The consent must be *permitted* — the parties must not run together *against God's order in forbidden degrees* (Lev. 18:6–18).
+
+**2.** The consent must be **honest** — not against *publica honestas*, public honourability.
+
+**3.** The engagement must **not be secret**, but publicly acknowledged.
+
+**4.** The consent must be **just** and *free* — not extorted by fear or force.
+
+**5.** The consent must be **complete and pure** — a whole self-giving to one spouse alone.
+
+**6.** The consent must be **before God** — invoking his blessing.
+
+## § 4. Six goods of the Marriage-estate
+
+**Which are the goods of the married estate?**
+
+**1.** **Divine institution** by God at creation.
+
+**2.** **Procreation** and rearing of children in God's fear (Gen. 1:28).
+
+**3.** **Mutual help and companionship** (Gen. 2:18).
+
+**4.** **A remedy against unchastity** (1 Cor. 7:2).
+
+**5.** **A workshop (*officina*) of the fairest virtues** — the fear of God, faith, hope, patience, Christian love, prayer, chastity, meekness, gentleness — which are daily to be exercised in the marriage by godly spouses.
+
+**6.** **Rich blessing promised by God** to this estate (Pss. 127 and 128, which both belong here).
+
+## § 5. Against the Papal denigration of Marriage
+
+**Has the Pope done rightly in calling the marriage-estate a *fleshly and unblessed* estate?**
+
+**By no means.** For what is to be held of the holy Estate has now been sufficiently taught from God's Word. But because the Pope is the *Antichrist*, he has had to show himself as *an enemy of this estate* — fulfilling what Daniel and Paul prophesied of him:
+
+- **Dan. 11:37:** *he shall not regard the God of his fathers, nor the desire of women, nor regard any god.*
+
+- **1 Tim. 4:1–3:** *in the latter times some shall depart from the faith, forbidding to marry, commanding to abstain from meats.*
+
+Both marks *palpably present themselves in the Pope at Rome*.⁷⁰
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXXIII
+
+### *Vom Tode*
+
+*On Death*
+
+— ❦ —
+
+## § 1. That all must die
+
+**Daily experience** so proves it that no extended argument is needed. Yet *one dies before another*, and the hour of death is quite uncertain — whence men are compared to a *shadow* (Ps. 39:6–7: *they walk about as a shadow; they heap up riches, and know not who shall gather them*).
+
+## § 2. The final causes of Death
+
+**What are the final causes of Death?**
+
+**1.** God lets his wrath be seen by such Death, to show that *human nature is corrupted* — for otherwise she would not so miserably perish (Ps. 90:7: *for we are consumed by thine anger*).
+
+**2.** That other people be warned to repentance by such sad spectacles: *hodie mihi, cras tibi* — today to me, tomorrow to thee.
+
+**3.** That men be driven to seek a Physician who can help against Death and give back life — namely Christ (Matt. 11:28: *Come unto me, all ye that labour and are heavy laden*).
+
+**4.** That in the true-believing, by such Death, a *fervent longing for the eternal life* be awakened (Rom. 7:24; Phil. 1:23: *having a desire to depart, and to be with Christ, which is far better*).
+
+## § 3. Cyprian on Death as Gain
+
+*Cyprian, De mortalitate*: **"Mihi vivere Christus est, et mori lucrum, lucrum maximum: iam saeculi laqueis non teneri, iam nullis peccatis et vitiis carnis obnoxium fieri, exemptum pressuris angentibus, et venenatis diaboli faucibus liberatum, ad laetitiam salutis aeternae, Christo vocante, proficisci."** — *"For me to live is Christ, and to die gain — the greatest gain: no longer to be held by the snares of this age, no longer subject to sins and the vices of the flesh, delivered from grievous distresses, freed from the venomous jaws of the Devil, to travel to the joy of eternal salvation, at Christ's call."*⁷¹
+
+## § 4. Death is not a substance
+
+**Is Death a substance or a being?**
+
+**No.** Rather, Death is *a miserable dissolution of human nature*, which has befallen man on account of sin.
+
+## § 5. Death for the Christian is a *passage*, not an end
+
+*Death is not a going-out but a going-through* — after the pilgrimage of this life is completed, an **entrance into eternal life**. Who would not hasten thither, where better things await? Who would not desire *to be transformed and made conformable to Christ, and to arrive at the glory of heavenly grace*?
+
+## § 6. Weeping for the dead
+
+Scripture does not forbid moderate weeping for the dead; only that it not be as those who *have no hope* (1 Thess. 4:13).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXXIV
+
+### *Von der Begräbniß*
+
+*On Burial*
+
+— ❦ —
+
+## § 1. Why Christians bury their dead
+
+**Out of the love owed to the neighbour** — and Christians especially bury their dead *to witness their hope of the resurrection of the dead* (1 Cor. 15). Also to remember our own mortality and whence this misery came upon the human race.
+
+## § 2. Against the Schoolmen on prayer for the dead
+
+**The Schoolmen** (medieval scholastics) alleged the graves were also invented that one might pray for the dead there. But this cannot in any way be proved from Holy Scripture — neither by passages nor by examples. Though they cite passages from the Fathers, these do not count, since they are not grounded in God's Word.
+
+## § 3. That burial is right and praiseworthy
+
+**Yes indeed.** Scripture itself teaches it: **the Gileadites** are praised for retrieving Saul's and Jonathan's bodies and burying them in the earth (2 Sam. 2:5). **The Patriarchs** and Fathers of the OT honourably buried their dead (Gen. 23 — Abraham for Sarah, and elsewhere). The New Testament continued the practice.
+
+## § 4. Where to bury
+
+Scripture prescribes no particular place. What matters is not the place but the *right disposition* — the confession of the resurrection.
+
+## § 5. Augustine on burial as consolation of the living
+
+*Augustine, De cura pro mortuis gerenda* I.12: **"Proinde omnia ista, id est, curatio funeris, conditio sepulturae, pompa exequiarum, magis sunt vivorum solatia, quàm subsidia mortuorum."** — *"Therefore all these things — the care of the funeral, the condition of the burial, the pomp of the obsequies — are more the consolations of the living than the aids of the dead."*⁷²
+
+## § 6. Whether Christians whose bodies are unburied are thereby harmed
+
+**The heathens have brought it as a reproach against Christians** that their bodies were often cast out unburied. But against this the Christians had the *sure comfort* of knowing their bodies would be raised from the dead, however corrupted (1 Cor. 15).
+
+## § 7. Why the early Christians buried near the martyrs' graves
+
+It appears they did so because *sermons were preached at those places* — exhorting Christians to steadfastness in Christ's doctrine, to follow the martyrs' examples, and to pray to God for constancy of faith.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXXV
+
+### *Vom Zustand der Seelen nach dem Tode*
+
+*On the State of Souls after Death*
+
+— ❦ —
+
+## § 1. Do souls sleep?
+
+**No.** Souls neither sleep nor rest as though ceasing to be conscious; rather, they *live continually*, even when separated from the body. Scripture uses "sleep" and "rest" only of the *bodies in the graves* — the souls, meanwhile, are *freed from all the miseries of this present life*.
+
+## § 2. Where the souls of the pious go
+
+*The souls of the pious go straightway to Christ* (Luke 23:43: *today shalt thou be with me in Paradise*; 2 Cor. 5:8: *absent from the body, and present with the Lord*; Phil. 1:23: *to depart and to be with Christ, which is far better*).
+
+## § 3. Do the souls of the godless suffer?
+
+**Luke 16:23** stands of the rich man's soul, that *she is in torments and suffers great pain*. Matt. 22:13: *there shall be weeping and gnashing of teeth*. Yet this *mystery cannot in this life be sufficiently comprehended or expressed*.
+
+## § 4. Is there a middle place between heaven and hell?
+
+**The Papists say so**, but Scripture says otherwise. **Augustine**, *De peccatorum meritis* I.28: **"Nec est ulli medius locus, ut possit esse nisi cum Diabolo, qui non est cum Christo."** — *"There is for no one a middle place — none can be but with the Devil, who is not with Christ."*⁷³ Augustine repeats the same at *De Civitate Dei* XXI.25.
+
+## § 5. Was it Samuel who appeared to Saul (1 Sam. 28)?
+
+**No** — that was not Samuel, or his soul, who was in God's hand and could not be torn thence by the sorceress's or the Devil's art. **It was an appearance of the Devil himself.** For neither sorcerers nor the Devil have any power to take the souls of the blessed from God's hand and set them upon the earth here.
+
+## § 6. Were Moses and Elias real at the Transfiguration (Matt. 17)?
+
+**A special case:** they appeared *to Christ*, not by sorcery; and Scripture does not say their *souls* appeared but *Moses and Elias* — and Elias never died, but was taken up in a fiery chariot (2 Kings 2:11).
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Hauptstück XXXVI
+
+### *Vom Fegfeuer*
+
+*On Purgatory (Refuted)*
+
+— ❦ —
+
+## § 1. Whence the fable of Purgatory
+
+**Whence has the fable of Purgatory come?**
+
+**Without doubt from the heathens' books** — from **Plato** and **Virgil**, who both taught almost this same manner of purification of souls after death (Virgil *Aeneid* VI.735–743: *aliae panduntur inanes*).
+
+## § 2. Whether Augustine held Purgatory
+
+**Was Augustine of this fable?**
+
+**He mentioned Purgatory, but doubtfully.** In his *Enchiridion*, cap. 69, he writes: **"Non est incredibile"** — *it is not incredible* — that something of the sort might exist. But immediately he adds: **"utrum ita sit, disputari potest"** — *"whether it be so, may be disputed."* Even had Augustine set it down clearly and taught it, it would not avail — for **neither Augustine nor any man, yea nor any angel in heaven, may set forth as an article of faith anything that has no ground in God's Word**.
+
+Moreover, Augustine himself writes at *De peccatorum meritis* I.28: **"Nec est ulli medius locus"** — *there is no middle place*. If there is no middle place, Purgatory cannot exist. He writes the same at *De Civitate Dei* XXI.25.
+
+## § 3. Against the 2 Maccabees 12 proof-text
+
+**Objection:** *2 Macc. 12:43–46: Judas sent twelve thousand drachmas of silver to Jerusalem to have sacrifice made for the sin of the fallen. Therefore Purgatory?*
+
+**Answer:**
+
+**1.** *The Papists themselves must confess* that in the OT there was no Purgatory. **How then can they prove it from an OT text?**
+
+**2.** *There stands no word in this text of Purgatory.* Judas believed not in a purgatory but in the **Resurrection of the dead** — as the very passage states (v. 43: *for if he had not hoped that they which had fallen would rise again, it were superfluous to pray for the dead*).
+
+**3.** *Even had something been in these words*, the Book of Maccabees is **apocryphal** and does not stand equal with canonical Scripture — the Jews themselves excluded it, as **Jerome** and other Fathers testify.
+
+## § 4. What of the passages of the Fathers?
+
+Some of the Fathers speak of a purification-fire, but *not in the medieval sense* — and their language is uncertain, not to be built into an article of faith. The whole Purgatory-machinery — with its **satisfactions**, **indulgences**, **votive masses**, **treasury of merits**, and papal power to release souls — has no ground in Scripture and is a **later Papist invention** built on this ambiguity.
+
+## § 5. Use
+
+That we may reject every Purgatory-fiction as *fabula* — a fable inherited from the heathens and dressed in Christian garb — and rest wholly on Christ's once-for-all satisfaction for our sins.⁷⁴
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus XLIII
 
 ### *Von der Aufferstehung der Todten*
 
@@ -3050,37 +3369,53 @@ That we may recognise this greatest of scandals for what it is, guard the faithf
 
 — ❦ —
 
-## § 1. Whether the dead rise, and how
+## § 1. That the Resurrection is certain
 
-**Yes.** Christ himself (John 5:28–29): *the hour is coming, in which all that are in the graves shall hear his voice, and shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.*
+**Yes.** Scripture testifies it mightily:
 
-**Do only the bodies rise, and are only they to be saved?**
+- **Job 19:25–27:** *I know that my Redeemer liveth, and that he shall stand at the latter day upon the earth; and though after my skin worms destroy this body, yet in my flesh shall I see God.*
 
-**Only the bodies rise** — for they alone have died — but not only they are saved. Body and soul together, or the whole man, will be saved. For the whole man must appear before Christ's judgement-seat (2 Cor. 5:10: *we must all appear before the judgement-seat of Christ, that every one may receive the things done in his body, according to that he hath done, whether it be good or bad*).
+- **Dan. 12:2:** *many of them that sleep in the dust of the earth shall awake.*
 
-## § 2. When the Resurrection
+- **Isa. 26:19; Ezek. 37:1–14.**
 
-**At the Last Day** (John 6:40, 54: *and I will raise him up at the last day*; Job 19:25–27: *and he shall stand at the latter day upon the earth; and though after my skin worms destroy this body, yet in my flesh shall I see God*).
+- **John 5:28–29** (Christ's own word): *the hour is coming, in which all that are in the graves shall hear his voice, and shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.*
 
-## § 3. Properties of the risen body — per 1 Cor. 15
+- **The Apostles** likewise confirm it — the whole of **1 Cor. 15** belongs here.
 
-**What properties will the risen bodies of the believers have?**
+## § 2. Paul's seven proofs at 1 Cor. 15
 
-Per St. Paul, 1 Cor. 15:42–44:
+Paul proves the Resurrection of the Dead:
 
-**1.** *Sown in corruption, raised in incorruption.*
+**1.** From the *passages of Scripture* (vv. 3–4: *according to the Scriptures*).
 
-**2.** *Sown in dishonour, raised in glory.*
+**2.** From the *Resurrection of Jesus Christ* (vv. 12–20: *now is Christ risen from the dead, and become the firstfruits of them that slept*).
 
-**3.** *Sown in weakness, raised in power.*
+**3.** Through *living witnesses* (vv. 5–8: *he was seen of Cephas, then of the twelve; after that, he was seen of above five hundred brethren at once*).
 
-**4.** *Sown a natural body, raised a spiritual body.*
+**4.** From the *unanimous consensus of the whole Church* on this Article.
 
-Believers shall be conformed to Christ's glorified body (Phil. 3:21) — his (Matt. 28:2–6) rose through the sealed grave-stone; (Luke 24:31) became invisible; (John 20:19) stood among the disciples through closed doors. So *our* glorified bodies will retain corporeality but be transformed beyond present natural properties.
+**5.** From *absurdities and impossibilities* which follow if there be no Resurrection (vv. 13–19: *then is Christ not risen … your faith is vain … we are of all men most miserable*).
 
-## § 4. And the reprobate?
+**6.** From the *use of Baptism* (v. 29: *what shall they do which are baptised for the dead, if the dead rise not at all?*).
 
-The reprobate too shall rise — *unto the resurrection of damnation* (John 5:29; Dan. 12:2) — with bodies that endure their eternal torment (Matt. 25:41: *depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels*).
+**7.** From the *analogy of nature* — the seed sown (vv. 36–38).
+
+## § 3. Only the bodies rise, and yet the whole man is saved
+
+Only the bodies rise — for they alone have died — but the whole man (body and soul together) will appear before Christ's judgement-seat (2 Cor. 5:10).
+
+## § 4. When the Resurrection
+
+**At the Last Day** (John 6:40, 54).
+
+## § 5. Properties of the risen body
+
+Per **1 Cor. 15:42–44**: sown in *corruption, dishonour, weakness, natural body*; raised in *incorruption, glory, power, spiritual body*. Believers shall be conformed to Christ's glorified body (Phil. 3:21) — his rose through the sealed grave-stone (Matt. 28), became invisible (Luke 24), stood among the disciples through closed doors (John 20).
+
+## § 6. The reprobate too shall rise
+
+*Unto the resurrection of damnation* (John 5:29; Dan. 12:2) — with bodies that endure their eternal torment (Matt. 25:41).
 
 — ❦ —
 
@@ -3088,7 +3423,91 @@ The reprobate too shall rise — *unto the resurrection of damnation* (John 5:29
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus XLV *(bis) — the source's numbering:* on the Hell
+# Locus XLIV
+
+### *Vom Jüngsten Gericht*
+
+*On the Last Judgement*
+
+— ❦ —
+
+## § 1. That Christ is Judge of the living and the dead
+
+**Yes.** God has set him *to be the Judge of the living and the dead* (Acts 10:42):
+
+- **Rom. 2:5:** *thou treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgement of God.*
+
+- **2 Cor. 5:10:** *we must all be made manifest before the judgement-seat of Christ.*
+
+- **Gen. 4:10** (Abel's blood cries out); **Isa. 66:15–16:** *behold, the LORD will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire, for by fire and by his sword will the LORD plead with all flesh.*
+
+- **Ps. 9:7:** *thou hast prepared thy throne for judgement.*
+
+## § 2. What the Last Judgement is
+
+**An act in which the LORD Jesus Christ will gather all men — living and dead — before his judgement-throne in the clouds, and publicly pronounce the final sentence upon believers and unbelievers alike: leading the believers into full possession of eternal life, and thrusting the unbelievers into the eternal hellish fire.**
+
+## § 3. Who shall be Judge
+
+**Jesus Christ**, as he himself declares (Matt. 25:31: *when the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory*).
+
+## § 4. Who shall be judged
+
+**All men** — not only children and household servants but also parents and lords (Rom. 14:12: *every one of us shall give account of himself to God*). *The devils also* shall there receive their sentence and be cast into the hellish fire (Matt. 25:41; Rev. 20:10). Wherefore let us all prepare ourselves seriously for this — *for it concerns us all*.
+
+## § 5. When shall it be held
+
+**The day is not revealed**, but the Judge has reserved it to himself, that he may the more rouse us to prepare for his coming. Yet he has shown *the signs that shall go before*, by which it may in some measure be known that he is not far off. **Matt. 24; Mark 13; Luke 17 and 21.** *Fifteen signs*:
+
+**1.** The perversion of pure doctrine.
+
+**2.** Wars and rumours of wars.
+
+**3.** Convulsion and fall of worldly regimes.
+
+**4.** Pestilence.
+
+**5.** Famine.
+
+**6.** Earthquakes.
+
+**7.** Persecution of the godly.
+
+**8.** Many people's falling away from the faith.
+
+**9.** The multiplication of sin and the cooling of love.
+
+**10.** The preaching of the Gospel to all nations.
+
+**11.** The abomination of desolation in the holy place.
+
+**12.** The multitude of false teachers.
+
+**13.** Signs in heaven and on earth, and terror among men for the things coming upon the world.
+
+**14.** The sign of the Son of Man in heaven.
+
+**15.** The utter complacency of men, *as in the days of Noah*.
+
+## § 6. Against the Scoffers
+
+**Why do many now doubt this coming?**
+
+Because *it is delayed according to human reason* — **2 Pet. 3:3–4:** *there shall come in the last days scoffers, walking after their own lusts, and saying, Where is the promise of his coming?* But they willingly *are ignorant* that the world was formed by God's Word and destroyed once already by the Flood; so shall it be *reserved unto fire against the day of judgement*. **2 Pet. 3:8:** *one day is with the Lord as a thousand years, and a thousand years as one day.* God is not slack; he is patient, not willing that any should perish (v. 9).
+
+**2 Pet. 3:10:** *the day of the Lord will come as a thief in the night, in which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat; the earth also, and the works that are therein, shall be burned up.*
+
+## § 7. Use
+
+That we may live in *daily preparation* for this Day — in faith, love, and readiness (Matt. 24:44: *therefore be ye also ready, for in such an hour as ye think not the Son of man cometh*).⁷⁵
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus XLV
 
 ### *Von der Hell*
 
@@ -3349,7 +3768,87 @@ Let us then, as *pilgrims and strangers* (1 Pet. 2:11), lift up our eyes to the 
 
 **⁵¹** The **three uses of the Law** (*triplex usus legis*: *paedagogicus, politicus, didacticus*) is the standard Lutheran taxonomy formalized by Melanchthon in the *Loci Communes* (1535+ editions) and made confessional by Formula of Concord Article VI *De tertio usu legis* (BSLK 962 ff.; Kolb-Wengert 502 ff.). Kirchner's rehearsal here is entirely standard — but the specific enumeration at Hauptstück XIV § 4 sub 2 of the offices instituted for *usus politicus* — **paternal authority (*väterliche Obrigkeit*), the magistracy (*Obrigkeit*), and schoolmasters (*Schulmeister*)** — is the seed-passage of Kirchner's political-theology treatment. Every subsequent commandment's implication for civil life will unfold from this seed as the Decalogue commentary proceeds in the source past cv 235. Compare Chytraeus *Catechesis* (1594) Loc. III § 20 on the Fourth Commandment, which develops the *Politia* and *Magistratus* at length; Kirchner's parallel treatment must lie further in the missing tail of his book than this working translation has yet reached.
 
-**⁵²** The seed of Lutheran **two-kingdoms doctrine** (*Zwei-Reiche-Lehre*) at Hauptstück XIV § 7 is drawn from Rom. 13:1–7 and 1 Tim. 2:1–2, and directly from Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48). Luther's *Von weltlicher Obrigkeit, wie weit man ihr Gehorsam schuldig sei* (1523, WA 11:245–281) is the classical exposition; Melanchthon *Loci* on the Fourth Commandment develops the *civilis magistratus* in scholastic form. Kirchner's brief closing at § 7 sits in this tradition and prefigures the fuller treatment in the missing tail (Kirchner will unfold the *Politia* in detail when he reaches the individual Commandments and the office of the magistracy). The English "two-kingdoms" is a modern gloss; the 16th-c. term is more usually *das geistliche* and *das weltliche Regiment* — the spiritual and worldly *regiments* (recall Hauptstück VIII § 9 which anticipated this distinction under the four *regimens* of divine governance).
+**⁵²** The seed of Lutheran **two-kingdoms doctrine** (*Zwei-Reiche-Lehre*) at Hauptstück XIV § 7 is drawn from Rom. 13:1–7 and 1 Tim. 2:1–2, and directly from Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48). Luther's *Von weltlicher Obrigkeit, wie weit man ihr Gehorsam schuldig sei* (1523, WA 11:245–281) is the classical exposition; Melanchthon *Loci* on the Fourth Commandment develops the *civilis magistratus* in scholastic form. Kirchner's brief closing at § 7 sits in this tradition and prefigures the fuller treatment which unfolds in Hauptstück XXXI (Von der weltlichen Obrigkeit). The English "two-kingdoms" is a modern gloss; the 16th-c. term is more usually *das geistliche* and *das weltliche Regiment* — the spiritual and worldly *regiments* (recall Hauptstück VIII § 9 which anticipated this distinction under the four *regimens* of divine governance).
+
+## From Hauptstück XVII (Vom Glauben)
+
+**⁵³** *"Sein Wort laß dir gewisser sein / und ob dein Herz sprech lauter Wein"* — an anonymous 16th-c. Lutheran hymn-tag on the certainty of Faith over the heart's doubt. Kirchner's citation of what "the Christian Church sings" is the pastoral kernel of Lutheran Faith-doctrine: sung certainty against felt doubt.
+
+## From Hauptstück XVIII (Von der ewigen Wahl Gottes)
+
+**⁵⁴** **Augustine**, *De Trinitate* XV.13.22 (or one of the related passages in the *Enarrationes in Psalmos* on Ps. 91) — the classical Augustinian caution against inscrutable enquiry into the divine mysteries. Kirchner's Latin snippet *"non est cuiuscunque quaerere secreta ista mysteriorum"* is a paraphrase from the Augustinian corpus, of the sort that circulated widely in Reformation florilegia. The pastoral shape is Lutheran: predestination is not to be probed by curiosity but received in the means Christ has appointed (Word and Sacrament) — a doctrine formalized at Formula of Concord Solid Declaration XI *De aeterna praedestinatione* (BSLK 1053 ff.; Kolb-Wengert 640 ff.).
+
+## From Hauptstück XX (Von der Liebe des Nechsten)
+
+**⁵⁵** **1 Corinthians 13** as the *charter of Christian love* is universally quoted; Kirchner's compact rehearsal (rather than full exposition) is characteristic Q&A form. The Reformation's use of 1 Cor. 13 always insists it is *not* a description of faith-work-cooperating (as Trent read it) but a portrait of the *fruit* of faith which cannot be counted the *cause* of justification.
+
+## From Hauptstück XXII (Von den Sacramenten in gemein)
+
+**⁵⁶** The rejection of the Papist **seven sacraments** (Baptism, Confirmation, Penance, Marriage, Altar-Sacrament, Orders, Extreme Unction) reduced to *two* (Baptism + Supper) is Reformation-standard; formalized at Augsburg Confession XIII (BSLK 66; Kolb-Wengert 46) and Apology XIII. The medieval seven were formally defined at the Councils of Florence (1439) and Trent (1547, Session VII). Kirchner's grounds — that only Baptism and Supper have Christ's instituted element + promise of grace — are Melanchthonian.
+
+## From Hauptstück XXIII (Von der Tauffe)
+
+**⁵⁷** The **papal doctrine of *character indelibilis*** — the indelible mark impressed on the soul at Baptism (and, in Roman theology, at Confirmation and Orders) — is medieval-scholastic, developed by Aquinas *Summa Theologiae* III q. 63 a. 1 and canonically fixed at the Council of Trent Session VII, canon 9 (Denzinger-Hünermann § 1609). The doctrine grounds the non-repeatability of Baptism, but does so on a philosophical claim not scripturally warranted. Kirchner's rejection is standard Reformation — Baptism is not repeated because of *God's ordinance* and the *once-for-all Christ-event it engrafts into* (Eph. 4:5; Rom. 6:3–4), not because of a metaphysical character.
+
+## From Hauptstück XXIV (Vom Heiligen Abendtmal)
+
+**⁵⁸** **Irenaeus**, *Adversus Haereses* IV.18.5 (PG 7:1029; SC 100:610) — the *duplex res sacramenti* doctrine: *"quemadmodum enim qui est a terra panis, percipiens vocationem Dei, iam non communis panis est, sed Eucharistia, ex duabus rebus constans, terrena et coelesti"* — *"as the bread which grows out of the earth, receiving the invocation of God, is no longer common bread but the Eucharist, consisting of two things — earthly and heavenly."* One of the load-bearing patristic texts for both Lutheran and Roman Eucharistic doctrine. Chemnitz *De coena Domini* (1560) cites it prominently.
+
+**⁵⁹** **Ambrose**, *De mysteriis* IX.53 (PL 16:406) — the standing patristic answer to natural-order objections against Eucharistic presence: the same Christ who transcended nature's order in his conception and birth transcends it in the Supper.
+
+**⁶⁰** **Epiphanius of Salamis**, *Ancoratus* 57 (PG 43:117) — Epiphanius on the *Hoc est corpus meum* as claim-of-truthfulness that refuses natural-order questioning. Preserved untranslated in Kirchner's Latin form; the English follows.
+
+**⁶¹** **Augustine**, *Contra Fulgentium Donatistam* — the fragment Kirchner cites is from the medieval florilegia and is not securely traceable to any surviving genuine Augustinian work; probably from the pseudo-Augustinian *Contra Fulgentium* corpus circulated under Augustine's name in the medieval West. The doctrinal point — that the sacrament remains *good* even when received *badly* — is nevertheless authentically Augustinian (compare *Contra litteras Petiliani* II.47 on Baptism, which extends by analogy). Kirchner uses the citation in the honest medieval manner.
+
+**⁶²** The **Session-at-the-Right-Hand objection** as answered here is the direct application of Hauptstück III § 19 (Right Hand of God as NO created place but the Divine Majesty itself) to the *sacramental locus*. This is the polemical spine of Kirchner's whole book: the Christological doctrine of the *Enchiridion* is not a topic for its own sake but is set up to underwrite the Lutheran doctrine of the Real Presence. The Reformed rejection of the Real Presence stands or falls with the Reformed doctrine of Christ's *locally-confined* body-in-heaven; Kirchner has been dismantling that doctrine since Hauptstück III.
+
+## From Hauptstück XXV (Von der Catholischen Kirche)
+
+**⁶³** The papal claim to be *universalis episcopus* was resisted from within the medieval papacy itself — famously by **Gregory the Great** (†604), *Epistula* V.44 (to John the Faster of Constantinople), where Gregory calls the title *"impium"* and its bearer *"praecursor Antichristi."* Kirchner's rejection follows this Gregorian line — a rhetorically sharp move, since it turns the papacy's own greatest-and-most-authoritative-past-pontiff against later papal claims.
+
+## From Hauptstück XXVII (Von der Busse)
+
+**⁶⁴** The rejection of **auricular confession** as *rack for consciences* is Reformation-standard; see Luther *Von der Beicht* (1521, WA 8:129–185); Augsburg Confession XI *De confessione* (BSLK 65; Kolb-Wengert 44); Apology XI + XII. The Reformation retained a form of private absolution for the comfort of consciences, but abolished the *obligation* to enumerate every sin.
+
+## From Hauptstück XXIX (Vom Antichrist)
+
+**⁶⁵** The identification of the **Papacy as the Antichrist** — not as a rhetorical curse but as a *dogmatic position defended systematically* — is fixed at Smalcald Articles II.iv *De papatu* (BSLK 483; Kolb-Wengert 307) and the *Tractatus de potestate et primatu papae* (BSLK 471; Kolb-Wengert 329). Kirchner's whole Hauptstück XXIX + XXXVI is the catechetical unfolding of these confessional documents.
+
+**⁶⁶** The *interpretatio Christiana* of pagan invocations — replacing Mars with St. George, Neptune with St. Nicholas and Christopher, Lucina with Margaret, and so on — is a Reformation-historiographical thesis of considerable durability. Modern scholarship has substantiated the historical fact (though usually not with the theological negative-judgement) in the work of **Peter Brown**, *The Cult of the Saints* (1981), and **Peter Burke**, *Popular Culture in Early Modern Europe*. Kirchner's Reformation instinct — that the medieval calendar of saints represents a *Christianising overlay* on a persisting substrate of pagan invocation — is philologically defensible, whatever one makes of the theological verdict.
+
+## From Locus XLVI (Vom ewigen Leben)
+
+**⁶⁷** **Augustine** *Enarrationes in Psalmos* on Ps. 90:2 develops the *face-to-face* vision. The Kirchner citation is characteristic 16th-c. Augustinian eschatology.
+
+## From Hauptstück XXXI (Von der weltlichen Obrigkeit)
+
+**⁶⁸** **Ambrose** and **Emperor Theodosius I** — the celebrated episode of 390, when Ambrose imposed public penance on Theodosius for the massacre at Thessalonica (Theodoret *Historia ecclesiastica* V.17; Sozomen VII.25). Kirchner invokes it as the paradigm of the *godly ruler humbling himself before the Word*, in contrast to the papal claim to depose princes. The episode became a Reformation-era locus classicus for Church–State relations correctly ordered: the prince listens to the Word, the bishop declares the Word, neither claims sovereignty over the other's sphere.
+
+**⁶⁹** The whole of Hauptstück XXXI is Kirchner's fuller unfolding of what he seeded at Hauptstück XIV § 4 sub 2 and § 7. Where the Law-locus gave the *principle* of the *usus politicus* — the political-authority material named in briefest form — here at Hauptstück XXXI Kirchner develops the *doctrine of the office* in Q&A form: institution (Rom. 13; Gen. 9), three kinds of rulers, fourfold office, no power against God, limit of obedience (Acts 5:29), whether Christians may hold office, whether Christians may trade, whether Christians may use imperial law, and the practical use. This is the locus Cheri's collaborator needed for the political-theology *compend* — not a mere seed but a *fully articulated Christian civil doctrine*. The material corresponds substantively to Augsburg Confession XVI *De rebus civilibus* (BSLK 70; Kolb-Wengert 48) expanded into catechetical Q&A depth. Formula of Concord Solid Declaration X on the *adiaphora controversy* is the close ecclesiological neighbour on where civil obedience must yield to fidelity to God's Word.
+
+## From Hauptstück XXXII (Vom Ehestandt)
+
+**⁷⁰** The **Dan. 11:37 + 1 Tim. 4:1–3** proof-catena as identifying the papal Antichrist by his *anti-marital* legislation is a Reformation-era commonplace, deployed from Luther's *De captivitate Babylonica ecclesiae* 1520 (WA 6:497–573) onward. The specific target is the *clerical celibacy* imposition, canonically fixed for the Latin West by Pope **Siricius**'s *Decretale Directa* of 385 (Denzinger-Hünermann § 185), and hardened by the eleventh-century Gregorian Reform. The identification of *forbidding to marry* as an Antichrist-mark makes Reformation clerical marriage *not a licence but a positive confession* against Antichristian usurpation.
+
+## From Hauptstück XXXIII (Vom Tode)
+
+**⁷¹** **Cyprian**, *De mortalitate* 26 (CSEL 3.1:314; PL 4:602–603). The tract was written during the 252 plague at Carthage; the passage Kirchner extracts is one of the great Christian consolations of death, cited across the confessional divide (medieval, Reformation, Counter-Reformation alike). The Latin quotation is preserved verbatim; the English rendering is the Scholastic Lutherans' own.
+
+## From Hauptstück XXXIV (Von der Begräbniß)
+
+**⁷²** **Augustine**, *De cura pro mortuis gerenda* I.12 (CSEL 41:632; PL 40:596), ca. 421 — Augustine's short treatise addressed to Paulinus of Nola on whether burial-place or the pomp of obsequies benefits the dead. Augustine's answer — that these things are *consolations of the living*, not aids to the dead — cuts against precisely the medieval intercessions-for-the-dead machinery that Kirchner attacks at Hauptstück XXXVI. Kirchner cites Augustine here as the honest Father whom the medievals invoke against the doctrine of which Augustine himself is the least-committed and most-doubtful witness.
+
+## From Hauptstück XXXV (Vom Zustand der Seelen)
+
+**⁷³** **Augustine**, *De peccatorum meritis et remissione* I.28 (CSEL 60:31; PL 44:127): *"Nec est ulli medius locus, ut possit esse nisi cum Diabolo, qui non est cum Christo."* — the classical Augustinian denial of any *intermediate place* between heaven and hell for the departed. Repeated substantially at *De Civitate Dei* XXI.25. Kirchner uses this passage as the demolition of the medieval Purgatory-doctrine; the same passage does the same work at Melanchthon's *Apology* XXIV (BSLK 313; Kolb-Wengert 274 on the sacrifice of the Mass and its supposed benefit for souls in Purgatory). Formula of Concord Article I on Original Sin also invokes Augustine's positive doctrine.
+
+## From Hauptstück XXXVI (Vom Fegfeuer)
+
+**⁷⁴** Kirchner's derivation of Purgatory from **Plato** (*Phaedo* 113D–114C; *Republic* X.614–621) and **Virgil** (*Aeneid* VI.735–743, the *aliae panduntur inanes / suspensae ad ventos* passage) has a real philological basis. The medieval Purgatory-doctrine did draw formally on pagan-antique models of *purification of souls after death* — as **Le Goff**, *La Naissance du Purgatoire* (1981) demonstrated with modern scholarly apparatus. Kirchner's Reformation-era polemic here is not caricature but a real historical observation about the doctrine's *genealogy*: however the Papists dress it in Christian garb, the underlying schema is pagan-antique. The 2 Maccabees 12 proof-text has been the medieval-and-Tridentine principal defence (see Council of Trent Session XXV *Decretum de purgatorio*, Denzinger-Hünermann §§ 1820–1821). Kirchner's response follows Chemnitz's *Examen Concilii Tridentini* Pars III on Purgatory in giving four counter-arguments (apocryphal book, no explicit Purgatory-language, Judas's faith in Resurrection, Augustine's demolition).
+
+## From Locus XLIV (Vom Jüngsten Gericht)
+
+**⁷⁵** The **fifteen signs** of the coming Judgement is a systematic gathering from Matt. 24, Mark 13, Luke 17 and 21, with additional strands from Rev., 2 Thess. 2, and Dan. — Kirchner's ordering is characteristic of Reformation-era systematic eschatology (see Melanchthon *Loci Communes* 1543 on the Last Judgement). Item 15 — *the utter complacency of men, as in the days of Noah* — draws Matt. 24:38–39 as a summary characteristic-mark of the pre-parousia condition: not persecution alone, not apostasy alone, but a comprehensive *"business as usual"* that will characterise the last moment. The Reformation's frequent appeal to this list belongs to its self-understanding as living in the *last age* (novissima aetas).
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
