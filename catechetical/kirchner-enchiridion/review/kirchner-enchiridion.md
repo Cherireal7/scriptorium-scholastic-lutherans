@@ -1407,11 +1407,329 @@ For **in the Incarnation** — where the Union of the Divine and Human Nature ca
 
 **Secondly**: that he **has fully fulfilled the whole Law of God for us** — **Matt. 5:17**: *"I am not come to abolish the Law, but to fulfil."* **Rom. 8:3–4**: *"That which the Law could not do (in that it was weak through the flesh), God did — and sent his Son in the likeness of sinful flesh, and condemned Sin in the flesh through Sin, that the righteousness of the Law might be fulfilled in us, who now walk not after the flesh but after the Spirit."* **Rom. 10:4**: *"Christ is the fulfilment of the Law."*
 
-**Thirdly**: that he **gives us both these Pieces through the Office of Preaching and the Sacraments**, imputes them to us in Faith and applies them. Whence the Gospel, **Rom. 1:16**, is called *a Power of God*...
+**Thirdly**: that he **gives us both these Pieces through the Office of Preaching and the Sacraments**, imputes them to us in Faith and applies them. Whence the Gospel, **Rom. 1:16**, is called *a Power of God to make blessed all who believe therein*; and specially, **Luke 24:46–47**, it is said: *"Must not Christ have suffered such things, and have Repentance and Forgiveness of sins preached in his Name among all peoples?"*
+
+**Fourthly**: that he **is with us, gives us his Holy Spirit** (John 14, 15, 16), and by the same *strengthens and keeps* us in such Faith — against our own flesh, world, temptation, cross, suffering, devil, and all misfortune — unto the End.
+
+**Phil. 1:6**: *"He who has begun in us the good work will also carry it on until the day of Jesus Christ."*
+
+**Phil. 2:13**: *"It is God who worketh in you both to will and to do, according to his good pleasure."*
+
+**1 Pet. 5:10**: *"But the God of all grace, who hath called us to his eternal Blessedness in Christ Jesus, will make you perfect, strengthen, empower, and ground you — you who suffer a little while."*
 
 — ❦ —
 
-*[Chapter IV Vom Ampt Christi continues with further Q&A on Mediator, Redemption, Priest-King-Prophet, Munus Regium et Sacerdotale, application of grace. Translation continues in Rebuild-Tranche 6.]*
+## Question 2. How, however, do we poor men and sinners become partakers of the Benefits and Grace-treasure of the LORD Christ?
+
+**How, however, do we poor men and sinners become partakers of the Benefits and Grace-treasure of the LORD Christ?**
+
+**When we in contrite and broken hearts believe**, and with sure Confidence *impute unto us all his Payment, Merit, and Obedience* — doubt not that they have come to pass for us and for our sake, and are our own.
+
+- **John 1:12** — *"He hath given power to become Children of God to those who believe on his Name."*
+- **John 3:16** — *"So hath God loved the World, that he gave his only Son, that all who believe on him might not perish, but have eternal Life."*
+- **Rom. 3:24–25** — *"We are justified without merit, of his Grace, through the Redemption which is come to pass through Christ Jesus — whom God hath set forth as a Mercy-seat, through Faith in his Blood."*
+
+For he has given himself for the sins of all the World — not that he might *terrify* the troubled, despairing consciences, much less *thrust them off and condemn them*, but that he might *rescue them from Sin and Death*, **strengthen and comfort them in all anxiety and distress**, and make them **righteous and blessed**.
+
+— ❦ —
+
+## Question 3. Has Christ then died for all men and sinners?
+
+**Has Christ then died for all men and sinners?**
+
+**Yes indeed.** For thus it stands, **2 Cor. 5:14–15**: *"One died for us all."* And **1 John 2:1–2**: *"My little Children — this write I unto you, that ye sin not; and if any man sin, we have an Advocate with the Father, Jesus Christ, who is Righteous — and He is the Reconciliation for our sins; not for ours alone, however, but also for those of the whole World."*
+
+- **Gal. 3:22** — *"The Scripture hath concluded all under Sin, that the Promise might come through Faith on Jesus Christ."*
+- **Rom. 11:32** — *"God hath concluded all under Unbelief, that he might have mercy upon all."*
+- **Isa. 53:6** — *"The LORD laid all our sins upon him."*
+
+— ❦ —
+
+## Question 4. But my Sins are too great, that I cannot comfort myself of him?
+
+**But my Sins are too great, that I cannot comfort myself of him?**
+
+**Answer.** But so is his Blood, Death, and holy Obedience *still stronger and weightier than are thy Sins*.
+
+- **Rom. 5:20** — *"But where Sin has become mighty, there has Grace become much more mighty."*
+
+And here belong all the sayings of Scripture which — without distinction — offer to all penitent [sinners] the Grace of Christ:
+
+- **Matt. 9:13** — *"I am come to call the Sinners to Repentance, and not the Righteous,"* etc.
+- **Matt. 11:28** — *"Come unto me, all ye who are heavy-laden, and I will refresh you."*
+- **Luke 15:7** — *"There shall be Joy in Heaven over one Sinner that doeth Repentance, more than over ninety-and-nine Righteous who need no repentance."*
+- **Isa. 1:18** — *"Though your Sins be as blood-red, they shall yet become snow-white; and though they be as scarlet, they shall yet become as wool."*
+- **Ps. 103:3** — *"Who forgiveth thee all thy Sins, and healeth all thine infirmities."*
+
+Item — the **Examples** of all those Sinners who *for Christ's sake* came to Grace and obtained forgiveness of their sins:
+
+- **Adam and Eve**,
+- **David**,
+- **Manasseh**,
+- The Publican — **Matt. 9**,
+- Mary Magdalene — **Luke 7**,
+- The Thief on the Cross — **Luke 23**,
+- Paul — **Acts 9; 1 Tim. 1**.
+
+— ❦ —
+
+## Question 5. Perhaps, however, it concerns not me poor sinner, but others who are holy?
+
+**Perhaps, however, it concerns not me poor sinner, but others who are holy?**
+
+**It can concern no other than thee, who art a penitent Sinner.** For the Angels need it not, the evil Spirits desire it not — for *thee* is it earned (**Rom. 3, 4, 5**); to *thee* is it promised (**Matt. 9, 11; John 3**): *"That all who believe on him shall not be lost."* — **1 Tim. 1:15**: *"It is certainly true, and a precious worthy Word, that Christ Jesus is come into the World to make Sinners blessed."*
+
+Thou art thereupon Baptised, unto the Forgiveness of Sins — **Acts 2; Mark 16**.
+
+Thou art thereupon fed and given drink, with the Body and Blood of Christ in the Holy Supper — which was given and shed for thee on the Cross.
+
+Thou art thereupon sealed with the Holy Spirit — **Rom. 8:16** — who beareth witness with thy Spirit that thou art God's Child; and the same also intercedeth for thee with *unspeakable groanings*.
+
+So is Christ himself for thee — that thou be not condemned — **Rom. 8:33–34**: *"Who will condemn? Christ is here, who died,"* etc.
+
+— ❦ —
+
+# V.
+
+# Of the Kingdom of Christ.
+
+## Question 1. Has Christ then a Kingdom here on earth?
+
+**Has Christ then a Kingdom here on earth?**
+
+**Yes.** For at **Ps. 93:1–2** it stands, of Christ's Kingdom: *"The LORD is King, and gloriously arrayed; the LORD is arrayed, and hath begun a Kingdom, as far as the World is, and hath so ordered it that it shall endure."*
+
+- **Dan. 2:44** — *"In the time of such Kingdoms, God shall from Heaven set up a Kingdom that shall nevermore be destroyed."*
+- **Isa. 9:7** — *"Upon the Throne of David and upon his Kingdom."*
+- **Luke 1:33** — *"And he shall be King over the House of Jacob eternally."*
+
+— ❦ —
+
+## Question 2. What kind of Kingdom, however, is it?
+
+**What kind of Kingdom, however, is it?**
+
+**A spiritual Kingdom, which consists therein** — that Christ in the same *gathers a Congregation out of the human race*, *forgives the same their Sins*, *gives his Holy Spirit*, *protects them against the Devil's and the World's Tyranny*, *hears their Prayer*, *rescues them from all Evil*, and *gives them eternal Life*.
+
+- **John 18:36** — *"My Kingdom is not of this World."*
+- **Luke 1:33** — *"Of his Kingdom shall there be no End."*
+
+— ❦ —
+
+## Question 3. How manifold is Christ's Kingdom?
+
+**How manifold is Christ's Kingdom?**
+
+**First**: his Kingdom stretches specially over his Church here on earth — and that one commonly calls **the Kingdom of Grace and Forgiveness of Sins**.
+
+**Secondly**: he has also his Lordship and Kingdom **over all Creatures**. For all Creatures are put under his feet — **Ps. 8; Eph. 1**. And he rules over all Creatures present and not absent. Such a Kingdom one calls in the schools ***regnum potentiæ***, **the Kingdom of his Power**.
+
+**Thirdly**: to all Eternity shall he have and keep his Kingdom — after the Resurrection of all the dead. For of his Kingdom shall there be no End. And this one calls ***regnum gloriæ***, **the Kingdom of Glory**.
+
+— ❦ —
+
+## Question 4. But who has established this Kingdom?
+
+**But who has established this Kingdom?**
+
+**God has done it.** — **Ps. 2:6**: *"I have set my King."* Item **Dan. 2**. The like **Luke 1**.
+
+For after Satan through Sin had torn us Men away from God, God has thereagainst set up **this Kingdom**, through which the lost and damned Men might again be brought to rights.
+
+— ❦ —
+
+## Question 5. Wherewith has Christ's Kingdom chiefly to do?
+
+**Wherewith has Christ's Kingdom chiefly to do?**
+
+**With the sorrowful and mourning hearts** — to comfort them, to raise them up, to deliver them from the Tyranny of Satan, to hear their Prayer, to release them from all misery, and to make them eternally blessed.
+
+- **Matt. 11:5** — *"To the poor is the Gospel preached."*
+- **Ps. 22:26** — *"The wretched shall eat, that they may be filled,"* etc.
+
+— ❦ —
+
+## Question 6. What are the chief properties of the Kingdom of Christ?
+
+**What are the chief properties of the Kingdom of Christ?**
+
+**These three**: **First**, that it is *Spiritual*. **Secondly**, that it is *Eternal*. **Thirdly**, that it *distributes spiritual eternal goods*, and *delivers from spiritual eternal harm* — **John 18; Luke 1; Isa. 9; Ps. 22**.
+
+— ❦ —
+
+## Question 7. What has the Kingdom of Christ for Circumstances?
+
+**What has the Kingdom of Christ for Circumstances?**
+
+**1.** That Christ is **a Spiritual King** — *poor and meek* — **Zech. 9:9**.
+
+**2.** That he is **an eloquent King** — **Isa. 50:4**: *"The LORD hath given me a learned tongue, that I may know how to speak to the weary at the right time."* — **Ps. 45:2**: *"Gracious are thy lips."*
+
+**3.** How far his Power reaches — namely, **over all Creatures** — **Ps. 2:8**: *"Ask of me, so will I give thee the Heathen for thine inheritance, and the ends of the World for thy possession."* — **Ps. 8:6**: *"Thou hast put all things under his feet."*
+
+**4.** That he is **a blessed King** — who can bring all under his Power. **Ps. 2:9**: *"Thou shalt break them with a rod of iron, thou shalt shatter them like a potter's vessel."* — **Ps. 45:4**: *"Prosper thou in thine ornaments; ride forth, for the benefit of Truth, and to keep the wretched by Right."*
+
+**5.** What sort of Subjects he has in his Kingdom. **Ps. 110:3**: *"Thy People shall willingly offer to thee in holy ornament; thy Children shall be born to thee, as the dew out of the morning-red."* — **Matt. 11:28** — *"the weary and heavy-laden."*
+
+**6.** What he does in his Kingdom: **First**, he gathers himself an *eternal Congregation* through the Word and Sacraments. **Secondly**, he gives to his own *Forgiveness of Sins*. **Thirdly**, he *sanctifies* his subjects' hearts through his Holy Spirit. **Fourthly**, he *protects and preserves* them against all misfortune — of Body and Soul. **Fifthly**, he *gives them Eternal Life, Joy, and Blessedness*.
+
+**7.** Wherefore this King had to suffer and die — **for the misdeeds of his People** — **Isa. 43, 53; Rom. 3, 4**.
+
+**8.** Wherefore his Subjects must be subjected to Cross and Suffering — namely, that **they may be made conformable to his Image** — **Rom. 8:29**.
+
+**9.** How one may become partaker of this Kingdom of Christ — namely, **through Faith**. — **Ps. 2:12**: *"Blessed are all who trust in him."* — **John 3:16**: *"That all who believe on him should not be lost, but have Eternal Life."*
+
+**10.** Where Christ's Kingdom is — namely, **as far as the World is** — **Ps. 93**. And **where his Holy Word is preached, and the Sacraments are administered according to his Ordinance** — **Ps. 2, 22; Matt. 28**: *"Teach all Heathen."* — **Mark 16**: *"Preach the Gospel to all Creatures."*
+
+— ❦ —
+
+## Question 8. What is then the End of the Kingdom of Christ?
+
+**What is then the End of the Kingdom of Christ?**
+
+The End of this Kingdom is **the Eternal Life**. — **Luke 12:32**: *"Fear not, thou little flock, for it is your Father's good pleasure to give you the Kingdom."*
+
+— ❦ —
+
+## Question 9. Is it right that the Anabaptists and others say — that Christ's Kingdom is an outward, bodily Kingdom?
+
+**Is it right that the Anabaptists and others say — that Christ's Kingdom is an outward, bodily Kingdom?**
+
+**No.** For the Scripture itself calls it *an Eternal Kingdom* — **Dan. 2; Luke 2**. And Christ himself says his Kingdom is not of this World — **John 18**. So is it also carried on only *in a Spiritual manner*, as through the Office of Preaching — **Ps. 2, 110**. It stands also not in eating and drinking, but in **Righteousness and the Holy Spirit** — **Rom. 14:17**. It is also defended only through **Spiritual weapons** — **2 Cor. 10; Eph. 6**.
+
+Wherefore it is *no outward bodily Kingdom*, but **a Spiritual and Eternal Kingdom**.
+
+— ❦ —
+
+## Question 10. Does Christ's Kingdom then abolish the State of Authority and Household?
+
+**Does Christ's Kingdom then abolish the State of Authority and Household?**
+
+**No.** The LORD Christ has called the *Centurion* — **Matt. 7** [sic, 8:5–13] — the *Nobleman* — **John 4:46–53** — and others more, to his Kingdom; but has *not* bidden them therefore to leave their Estates.
+
+Wherefore Paul says, **Gal. 3:28**, of Christ's Kingdom: *"Here is neither Jew nor Greek, here is neither servant nor free, here is neither man nor woman — for ye are all one in Christ Jesus."*
+
+In sum: it will not do, that one for the sake of Christ's Kingdom should change the *outward* life, and take upon oneself another — as the Monks and Nuns in the Papacy have done and still do. Wherefore a Christian shall learn rightly to distinguish Christ's Kingdom and the outward life.
+
+— ❦ —
+
+## Question 11. Is it bound to place, time, or persons?
+
+**Is it bound to place, time, or persons?**
+
+**By no means.** For at **Luke 17:20** Christ says: *"The Kingdom of God cometh not with outward gestures; men shall also not say — see here, see there it is."* Which the other Evangelists express thus: *"Here or there is Christ."* That is as much as: **Christ's Kingdom stands not in outward things, places, times, persons, works** — but (as he there himself says) *"The Kingdom of God is within you"* — which one must know for the sake of the Papists, who bind Christ's Kingdom to these things.
+
+— ❦ —
+
+## Question 12. What difference then is there between Christ's, and between the Kingdoms of the World?
+
+**What difference then is there between Christ's, and between the Kingdoms of the World?**
+
+**First**: The Kingdoms of this World are ruled only by *bare Men*; but Christ is *God and Man*, and rules over his Kingdom thus — namely, **not alone as God, but also as Man**.
+
+**2.** In the worldly Kingdoms are the greatest goods — *temporal peace, discipline, and honesty*. But Christ's Kingdom deals out *Heavenly and Eternal goods* — as **Forgiveness of Sins, Righteousness that is valid before God, the Holy Spirit, and Eternal Life**.
+
+**3.** The Kingdoms of this World rule only over the *outward members*, and hold the same in constraint. But Christ's Kingdom rules over the **heart or the whole man**, and renews the same. — **Ps. 51:10**: *"Create in me a clean heart."* — **Ezek. 36:26**: *"I will give you a new heart, and a new Spirit in you."*
+
+**4.** The Kingdoms of this World are carried on through *outward bodily might, sword, and power*. But Christ's Kingdom is ruled through the **Word and Holy Spirit** — **Ps. 2, 110**.
+
+**5.** The worldly Kingdoms have their *certain termini or borders*, as far as they go. But Christ's Kingdom goes unto the End of the World — **Ps. 2, 72; Dan. 2; Luke 1**.
+
+**6.** The Kingdoms of this World finally *fall to pieces*; but the Kingdom of Christ *remains eternally* — **Luke 1:33**: *"And of his Kingdom shall there be no End."* — **Dan. 2**.
+
+— ❦ —
+
+## Question 13. Whereunto is this Doctrine of the Kingdom of Christ profitable to us?
+
+**Whereunto is this Doctrine of the Kingdom of Christ profitable to us?**
+
+**Answer.** That we may have the **sure comfort** — Christ is our King, LORD, and Head; he is present with us in all needs, protects and preserves us, hears our Prayer, rescues us from all misfortune, and finally gives us the Eternal Life.
+
+For therefore is he our King — that he might demonstrate such Benefits to us. On which we may and shall boldly comfort ourselves and rely upon him.
+
+— ❦ —
+
+# VI.
+
+# Of the Eternal Priesthood of Jesus Christ.
+
+## Question 1. Is Christ also an eternal High Priest?
+
+**Is Christ also an eternal High Priest?**
+
+**Yes.** For thus it stands at **Ps. 110:4**: *"The LORD hath sworn, and it shall not repent him — Thou art a Priest for ever, after the manner of Melchisedek."*
+
+— ❦ —
+
+## Question 2. What is then the High Priest?
+
+**What is then the High Priest?**
+
+**The second Person of the Holy Trinity — true God and Man** — who has brought forth the Gospel out of the Bosom of the Father, born for the Human race, and offered himself for the same, that he might make us Men *holy unto Eternal Life* — **Ps. 110; John 17**.
+
+— ❦ —
+
+## Question 3. Wherein consists the High-Priestly Office of Christ?
+
+**Wherein consists the High-Priestly Office of Christ?**
+
+**Chiefly in these four Pieces:**
+
+**First**: that he *brings forth and teaches the Mystery of the Gospel*, of God's Grace — of which otherwise no Creature has known. — **John 1:18**: *"No Man hath ever seen God; the only-begotten Son, who is in the Bosom of the Father, he hath declared it unto us."*
+
+**Secondly**: **in Prayer** — for he alone has prayed for us with his Heavenly Father, and has procured us eternal Grace. — **Isa. 53:12**: *"He hath prayed for the transgressors."* — **John 19; Heb. 4, 5, 7**. And he still intercedes for us — **Rom. 8:34**.
+
+**Thirdly**: that he **has offered himself once for us**, and thereby procured an eternal Redemption — **John 17; Heb. 9, 10**.
+
+**Fourthly**: that he further *through the Office of Preaching teaches us*, *calls us unto himself*, *sanctifies*, and *makes us partakers of his Redemption through Faith* — **2 Cor. 5; Rom. 1, 10**.
+
+— ❦ —
+
+## Question 4. Is Christ then alone High Priest of the New Testament?
+
+**Is Christ then alone High Priest of the New Testament?**
+
+**Yes.** For the Scripture — **Ps. 110** — ascribes this Honour to Christ alone. So has he also alone accomplished this High-Priestly Office on the Cross — **Isa. 53; Heb. 9, 10** — and procured an *eternal Redemption*.
+
+He alone has also been able to do it. For he alone has been **without Sin** — **Isa. 53; Heb. 7:27** — and has not needed to offer for his own Sins.
+
+He alone can *sanctify* or *impute his Merit* to us; he alone can *hear Prayer*, help in needs, and make eternally blessed.
+
+— ❦ —
+
+## Question 5. Is then the Pope not the High Priest of the Church?
+
+**Is then the Pope not the High Priest of the Church?**
+
+**By no means.** For the Scripture nowhere gives him the testimony as to Christ, but *he presumes it of himself*, and *steals from Christ his own Honour*.
+
+So she says nowhere that he is ordained to *atone for or offer for the sins of the People*.
+
+So too it cannot be said of him that he is *without Sin*, as of Christ. Rather, the Scripture — **2 Thess. 2:3** — much more says of him **that he is a Child of Perdition**.
+
+So also is he *not God and Man in one Person*, as Christ the eternal High Priest.
+
+And in Summa: he can also not preserve and make blessed those who through him would come to God — as also he cannot sit at the Right Hand of God and intercede for us.
+
+Wherefore it is *a blasphemy of God*, that he in this manner *assumes for himself* the Priesthood of Christ.
+
+— ❦ —
+
+## Question 6. What difference then is there between the High Priest of the Old and of the New Testament?
+
+**What difference then is there between the High Priest of the Old and of the New Testament?**
+
+**First**: There is an inequality in the *Institution*. Aaron's Priesthood is established *without an oath*; but Christ's Priesthood through **an Oath** — **Ps. 110:4**: *"The LORD hath sworn,"* etc.
+
+**2.** The High Priest of the Old Testament has been only a *Man* and *Sinner*. Christ, however, is **God and Man in an indivisible Person**, *separated from the Sinners* — **Heb. 7:26**.
+
+**3.** The High Priest in the Old Testament was chiefly a *Minister of the Law*; but Christ has *revealed the Gospel out of the Bosom of the Father*, of which no Creature could know anything — **John 1:18**.
+
+**4.** The Priests of the Old Testament prayed a *little while* for the People, for they were *mortal Men*. But Christ is **an eternal High Priest**, and intercedes for us for ever and ever — **Rom. 8**.
+
+— ❦ —
+
+*[Chapter VI continues with further Q&A on Priesthood of Christ vs Old Testament, sacrifices, intercession, application. Translation continues in Rebuild-Tranche 7.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
