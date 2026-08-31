@@ -4418,14 +4418,137 @@ pseudoeutropius_appendix:
     Opening translatio imperii ad Byzantium under Constantine as
     Nova Roma matching Chalcedon 451 Canon 28.
 
+# ─── Tranche 2ee — pseudo-Eutropius appendix full narrative Peter-through-
+# Louis II vs Nicholas I litanies-contra-principes (vl0159-vl0166) ───────
+
+narsete_polyxena_silverius_legend:
+  english: Narses-Polyxena-Silverius legend (papal-Lombard conspiracy narrative)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0160"
+  note: >
+    Pseudo-Eutropius narrative: Silverius (r. 8 Jun 536 - 11 Mar 537)
+    supposedly conspired with Lombards against Byzantines; Narses's
+    wife Polyxena exposed intrigue; Pope led out on ass with mocking
+    cry HEI DOMINUS PAPA MORTUUS EST. Chronologically compressed
+    hybrid of Silverius-Vigilius Ostrogothic conflict (537) + later
+    Lombard-Byzantine papal politics; Lombard entry 568 postdated
+    Silverius by 30 years. Ass-mounted-pope trope becomes Reformation
+    polemic staple (Cranach Papstesel 1523).
+
+zacharias_carolus_desiderius_intrigue:
+  english: Zacharias-Charles-Desiderius papal-Frankish-Lombard triangle
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0161"
+  note: >
+    Pseudo-Eutropius compressed narrative of Zacharias r. 741-752
+    intriguing with Frankish king against Lombard Desiderius r. 757-774
+    (chronologically confused since Zacharias predates Desiderius).
+    Likely conflates: Zacharias's letter to Pippin 751 authorising
+    Frankish crown-assumption (Melius est vocari regem quam esse) +
+    Charlemagne's divorce of Desiderata 771 + Charlemagne's invasion
+    of Italy 773-774 deposing Desiderius. Establishes fabulous annual
+    tribute of 10 gold pounds + 100 silver + 10 pallia to Papacy at
+    Pavia palatii (not attested in historical Pactum Karoli 774).
+
+leo_iii_799_mutilatio:
+  english: Pope Leo III's attempted mutilation 25 April 799
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0162"
+  note: >
+    Roman conspirators Campulus + Paschalis nephews of deceased
+    Adrian I attacked Leo III during Greater Litanies procession
+    25 April 799; attempted to blind him and cut out tongue but
+    left the job incomplete (hagiographic Vita Leonis III Liber
+    Pontificalis records miraculous restoration). Leo fled to
+    Charlemagne at Paderborn, escorted back to Rome November 799.
+    Charlemagne synod 1 Dec 800 Leo purged himself by oath; 25 Dec
+    800 crowned Charlemagne Emperor. Pseudo-Eutropius adds legendary
+    "three hundred beheaded in the Lateran field" — historical
+    executions were smaller-scale.
+
+ad_lupam_tribunal_lateranense:
+  english: The Lateran "at the She-Wolf" imperial tribunal
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0163"
+  note: >
+    Lateran location — apparently near ancient Lupa Capitolina statue
+    or similar — used as IMPERIAL tribunal seat where emperor's missi
+    judged Roman causes independently of the Apostolic See. Ad Lupam
+    tradition confirmed by 9th-c Ordo Iudiciorum. Compositiones fines
+    equally divided between imperial fisc and papal treasury. Res
+    scelerata confiscated to public fisc not ecclesiastical unless
+    imperial-donation precepts. Reformation-standard evidence for
+    Carolingian-era imperial legal-jurisdictional presence at Rome.
+
+ludovicus_ii_italiae_vs_nicolaus:
+  english: Louis II of Italy vs Nicholas I (John of Ravenna 861)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0164-vl0166"
+  note: >
+    Louis II r. co-emperor 850, sole 855-875, last Carolingian emperor
+    residing primarily in Italy. Bari campaign 866-871 (city taken
+    2 February 871 with Byzantine naval support) against Aggareni
+    Saracens/Hagarenes (Genesis 16, 21 Hagar-Ishmael ethnonym).
+    Beneventan campaign 866-872 based Benevento + Calabria. Conflict
+    with Pope Nicholas I r. 858-867 over deposition of JOHN VIII
+    Archbishop of Ravenna r. c. 850-861 (imperial-loyal primate whom
+    Nicholas deposed 861 for jurisdictional insubordination). Arbitrated
+    at Ravenna 861 with papal legates; John reinstated on submission.
+    Reformation-standard pre-Dictatus-Papae imperial-appellate role.
+
+engelberga_regina_mediatrix:
+  english: Empress Engelberga as mediator in imperial-papal disputes
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0165"
+  note: >
+    Empress Engelberga c. 830-890/91 wife of Louis II of Italy —
+    one of most politically active Carolingian empresses. Chief
+    mediator in Louis II / Nicholas I / John of Ravenna dispute 861,
+    later Adrian II / Louis II tensions late 860s. Modern study
+    François Bougard "Engelberga imperatrice" DBI 42 (1993).
+
+synodus_ab_imperatore_non_a_papa:
+  english: Synod called by Emperor not by Pope (Byzantine principle)
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0165"
+  note: >
+    Byzantine-imperial principle: emperor-convoked ecumenical synod
+    held from Constantine at Nicaea 325 through Justinian at Constantinople
+    II 553. Here asserted by Frankish-Carolingian emperor LOUIS II
+    against mid-9th-c Roman papal plenitudo potestatis claim in the
+    John of Ravenna deposition case: non licitum prelatum
+    excommunicari sine consultatione synodalis concilii + synodus
+    non a Papa sed ab Imperatore uocari deberet. Fundamental to
+    Byzantine-Orthodox ecclesiology (emperor as isapostolos). Reformation
+    revives: Melanchthon Tractatus §§39-45; Chytraeus De Ecclesia.
+
+litaniae_contra_principes:
+  english: Litanies and Masses "against evil-acting princes"
+  type: polemical
+  first_use: "flacius-catalogus-testium-1556, body — Eutropii appendix at vl0166"
+  note: >
+    PAPAL WEAPONISATION OF THE LITURGY as instrument of imperial-
+    political coercion: Nicholas I established monks + consecrated
+    virgins in Roman monasteries to celebrate daily Litanies around
+    circuit of walls and sing Masses CONTRA PRINCIPES MALE AGENTES.
+    Reformation locus classicus against medieval abuse of Mass as
+    instrument of political-clerical warfare. Luther Wider die
+    himmlischen Propheten 1525 + Vom Missbrauch der Messe 1521
+    WA 8:477-563. Louis II's soldiers attacked processions
+    trampling crosses + icons Byzantine-style (sicut mos est
+    Graecorum) = Reformation-relevant: even 9th-c Roman practice
+    was Byzantine-style icon-carrying (against later Roman claim
+    of native-Latin icon-veneration tradition).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Eutropii appendix opening (vl0001-vl0158,
-# 158 body pp + 32 paratexts ≈ 28.9% of 1094-pp body). Flacius lemma total:
-# 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3
-# (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4
-# (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4
-# (T2r) + 3 (T2s) + 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4
-# (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) = 168.
+# FLACIUS 1556 — TRANCHE 2 through pseudo-Eutropius Louis-II-vs-Nicholas
+# narrative (vl0001-vl0166, 166 body pp + 32 paratexts ≈ 30.4% of 1094-pp
+# body — CROSSED 30% MILESTONE!). Flacius lemma total: 10 seed + 8 (T1a) +
+# 6 (T1b) + 6 (T2 Peter) + 7 (T2 Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) +
+# 4 (T2f) + 5 (T2g) + 4 (T2h) + 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) +
+# 6 (T2m) + 6 (T2n) + 3 (T2o) + 6 (T2p) + 2 (T2q) + 4 (T2r) + 3 (T2s) +
+# 3 (T2t) + 3 (T2u) + 4 (T2v) + 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) +
+# 4 (T2aa) + 3 (T2bb) + 10 (T2cc) + 10 (T2dd) + 8 (T2ee) = 176.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
