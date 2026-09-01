@@ -3728,4 +3728,62 @@ From these and similar pronouncements of Sacred Scripture it is sufficiently man
 
 — ❦ —
 
-*[Locus XIV Part 1 closes. Part 2 (12 anti-Flacian Objections) follows in T16. 241 top-level Q + 106 Obj rendered so far.]*
+## Objections *(second series — Flacian arguments turned into formal syllogisms)*
+
+### Objection I. Whatsoever is not conformable to the Law of God, but repugns it, this very thing is sin. The whole nature of man is not conformable to the Law of God, but repugns it. *Ergo* the whole nature of man is sin.
+
+**Respondeo**: **Whatsoever *simply* and *of itself* is not conformable to the Law of God, but repugns it, this is sin.** But **the corrupt nature of man does not simply and of itself repugn the Law of God, and is not not-conformable to it, but on account of the corruption adjacent to it or inhabiting it, by which it is corrupted**. **The nature itself, insofar as it is nature, is the work of God**. But it is adverse to the Law of God, **not insofar as it is nature, but insofar as through sin it is deeply corrupted and depraved**. Wherefore, although it is not conformable to the Law of God, yet **it is not sin itself, but is a sinning sinner, corrupted, unclean, and abominable**, unless it be saved from sin through Christ. Nothing therefore does this argument conclude — since nature and sin are not the same; and since nature not *of itself* but *by accident* (namely on account of sin, by which it is corrupted) repugns the Law of God.
+
+### Objection II. But original sin is extenuated, if we say that it is not the corrupt nature of man itself, but an accident and some evil adjacent to it.
+
+**Respondeo**: **By no means.** If indeed we were saying that original sin is some light accident, which could be easily separated from the nature, this objection would have some show. **But because we teach that original sin is a grave, great, and horrid evil**, which cannot be taken away, expurgated, and healed except through the death and blood of the Son of God Jesus Christ, and by the grace of the Holy Spirit, **it liquidly appears that we in no way extenuate original sin**.
+
+### Objection III. If original sin is some evil accident, Christ will have died for an accident. But he did not die for an accident, but for the corrupt nature of man. *Ergo* original sin cannot be an evil accident.
+
+**Respondeo** to the Minor: **Christ died** — first, that he might expiate original sin with all its fruits; then, that he might fully remit sins to us by faith; and, from the human nature (in which as in a subject they inhere), at last perfectly expurgate them. **Thus he did not die for an accident that it might profit** *it*, but for the nature corrupted by sin, that he might free it from so foul and horrid an accidental evil, and restore it entirely.
+
+### Objection IV. If original sin were an accident, it would be iniquitous that God should be so greatly angered against human nature on account of it, so as also to condemn it unto eternal fires. But there is no iniquity in God. *Ergo* original sin is not an accident.
+
+**Respondeo**: **This argument, besides the horrid blasphemy, contains nothing worthy of refutation.** Wilt thou now teach God, what is just or unjust? Wilt thou now reform his most just and inscrutable judgement? If it is iniquitous that God should be angered against nature and damn it on account of an evil accident, **what wilt thou say of the fall of Adam** — which was certainly an accident? It does not therefore straightway follow that God is unjust, though on account of an evil accident (such as original sin is) he be angered against human nature. **For one is the judgement of God concerning sin, another that of men**, who gladly out of their own arbitrament would pronounce concerning the magnitude or the slightness of sin.
+
+### Objection V. If original sin were an accident, and not the nature itself, then nature of herself could conquer and expel sin. But nature cannot of herself conquer and expel it. *Ergo* it is not an accident.
+
+**Respondeo**: **The Major is most false.** *Pestilence* is an accident, and rarely is conquered and expelled by the benefit of nature and the physician. **How much less can our nature conquer and expel sin, even if it be an accident** — since it is an accident far more pernicious and dangerous than pestilence. Wherefore in no way does it follow that sin can be expelled by nature, if it be laid down to be an accident. **The fall of Adam was an accident, and yet Adam could not conquer or expel that accident by the powers of nature.**
+
+### Objection VI. If original sin is an accident, it is necessary that the natural things be still entire. But they are not entire. *Ergo* original sin is not an accident.
+
+**Respondeo**: **The Major is false.** For there are very many accidents which not only debilitate, but also **corrupt and destroy** the natures in which they are. **Death** corrupts and destroys nature, although it is an accident. **Original sin therefore remains an accident, and yet has not left entire the nature in which it now, after the Fall, is, but has horribly corrupted and depraved it.**
+
+### Objection VII. Whatsoever is not of faith, is sin. The substance of human nature is not of faith. *Ergo* it is sin.
+
+**Respondeo** to the Major: **Paul, Rom. 14, does not speak of corrupt nature, or of original sin, but of works which are not done of faith.** Wrongly therefore is it applied to this controversy, whether original sin is a substance or an accident.
+
+### Objection VIII. That is properly original sin, which is the fount of all actual sins. The corrupt substance is properly the cause and fount of actual sins. *Ergo* it is sin itself.
+
+**Respondeo**: **The Major is false.** For **to act, properly speaking, is not the office of original sin, but of the substance or nature**. It is therefore **a fallacy of composition and division**. And there is a deceit in the conclusion, which does not say: *Ergo* it is *original* sin. **The substance was before original sin**, to which sin acceded through and on account of the fall of Adam. Whence it comes about, that the substance or nature itself is now the fount of sins, since before it brought forth only good fruits.
+
+### Objection IX. Whatsoever the Law of God accuses, this is sin. The Law accuses the depraved nature. *Ergo* it is sin.
+
+**Respondeo**: **First, to the Major with a distinction.** *Whatsoever the Law of God accuses per se, this is sin.* But **the Law of God does not accuse our nature per se, that is, insofar as it is nature, but because it is corrupted and vitiated by sin**.
+
+To the Minor: **The Law indeed accuses the corrupt nature, but not per se, insofar as it is nature; but insofar as it is depraved by sin**. Nothing therefore more follows than that, from the accusation of the Law, this is evinced: namely, that **human nature is corrupted by sin, and on account of this corruption (which is an evil accident) is by right accused**.
+
+### Objection X. Whatsoever needs regeneration and vivification, is sin. The corrupt nature needs regeneration and vivification. *Ergo* it is sin.
+
+**Respondeo** first to the Major: **If it take the word *sin* for original sin, it is most false**. For **original sin is not regenerated, but the nature corrupted by sin is regenerated**.
+
+The Minor has need of a distinction: **The corrupt nature indeed needs regeneration and vivification on account of the sin by which it is polluted; but hence it in no way follows that it is original sin itself**. For they differ among themselves: *to have need of regeneration on account of sin*, and *to be original sin itself*.
+
+### Objection XI. Whatsoever even after regeneration reluctates the Spirit, that is sin. The flesh reluctates. *Ergo* it is sin.
+
+**Respondeo** to the Major: **Whatsoever *per se* after regeneration reluctates the Spirit, that also is sin.**
+
+To the Minor: **But the flesh of the regenerate does not *per se* reluctate the Spirit; but on account of that adjacent evil, of which the Apostle complains, Rom. 7**. Therefore the flesh, in itself and per se, is not sin itself, but **corrupted and vitiated by sin — whence also it comes about that it reluctates the Spirit**.
+
+### Objection XII. Whatsoever bears bad fruits is a bad tree. The essence of man bears bad fruits. *Ergo* it is a bad tree, or sin itself.
+
+**Respondeo**: **It is a fallacy from *dictum secundum quid* to *dictum simpliciter*, etc.** For **in the Major, the essence of the tree is understood as joined with malice**. In the Minor indeed, **the essence is put simply, without determination**. But there differ *the tree*, and *the malice or goodness of the tree*.
+
+— ❦ —
+
+*[Locus XIV closes. Locus XV De Peccato Actuali begins in Rebuild-Tranche 17. 241 top-level Q + 118 Obj rendered so far.]*
