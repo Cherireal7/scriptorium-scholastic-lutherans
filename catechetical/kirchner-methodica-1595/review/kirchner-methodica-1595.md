@@ -4013,4 +4013,72 @@ And **Augustine, lib. 4 Contra Julianum, cap. 2**, writes: *"If a Gentile shall 
 
 — ❦ —
 
-*[Locus XVI Part 1 closes. Part 2 (Q8-Q10 + 7 anti-Papist Objs on regenerate concupiscence) follows in T19. 259 top-level Q + 124 Obj rendered so far.]*
+## Question 8. But what do the Papists teach of the concupiscence which is remaining in the regenerate?
+
+**But what do the Papists teach of the concupiscence which is remaining in the regenerate?**
+
+**Respondeo**: **They deny it to be properly and truly, in itself and its own nature, sin, even though it repugns the Law of God.**
+
+But if this sentence were admitted, it would necessarily be said that **concupiscence is sanctified through Baptism**, so that although before Baptism it was in itself evil, after Baptism it is holy, and in itself and its own nature is not anymore sin, or displeasing to God. **But since the Apostle Rom. 7 expressly calls it sin, we have no reason to take account of the Papists' denial.**
+
+## Objections *(second series — on concupiscence in the regenerate)*
+
+### Objection I. In Baptism there is full remission of all sins. *Ergo* in the regenerate no sin at all remains.
+
+**Respondeo**: **The remission of sin (which takes away guilt) and the mortification or destruction of sin differ.** **Remission of sin is made in Baptism, but sin is not straightway wholly abolished.** For **mortification only begins, and is not perfected in this life**. Whence the Apostle **Rom. 7** complains that sin dwells in his flesh, which needs remission and expurgation.
+
+### Objection II. The baptised have been made beloved of God. *Ergo* in the regenerate God hates nothing, but they are pure.
+
+**Respondeo**: **The baptised are loved by God, not because their nature is fully free from sin, but on account of the Son whom in Baptism they have put on by faith.** The cause therefore of love is not the purity of our nature, but Christ Jesus with his merit, which we possess by faith. **We are beloved in the Beloved** — **Eph. 1**.
+
+### Objection III. Concupiscence cannot hurt those manfully warring through Christ's grace. *Ergo* it is not sin.
+
+**Respondeo**: **Although it may not avail to hurt those manfully warring through Christ's grace, yet hence it does not follow that it is not sin in itself and its own nature.** **Satan is not able to hurt the faithful, and yet hence it does not follow that he can be absolved from guilt.** So also **concupiscence is not good on that account, that it is mortified and overcome by the Spirit**.
+
+### Objection IV. He saved us through the washing of regeneration and renovation — **Tit. 3:5**. *Ergo* no sin remains in us.
+
+**Respondeo**: **The Apostle does not say that the Holy Spirit perfects renovation straightway when man is baptised, but is poured out that the inward man may be renewed from day to day** — as **2 Cor. 4** he writes. **Insofar therefore as we are not renewed, we are yet in the oldness.** And **the efficacy of Baptism extends itself through the whole life**. The regenerate are bound daily to mortify the flesh with its desires, and to cut off the remnants of sins by the grace of the Spirit — therefore they are **not wholly immune from sin**.
+
+### Objection V. He sanctified the Church, cleansing her with the washing of water in the word, that he might exhibit her to himself glorious, not having spot or wrinkle — **Eph. 5:26–27**. *Ergo* etc.
+
+**Respondeo**: **The Church is sanctified by the washing which is in the word, and freed from sin by the gratuitous remission and imputation of the merit and obedience of Christ the Saviour.** But **as for the plenary expurgation of sin, she is not yet without spot and wrinkle**. For **sin still dwells in the flesh of the regenerate** — **Rom. 7**. And the Apostle does not say that Christ exhibits the Church in this life straightway after Baptism without spot, **but that he set her forth without spot and wrinkle** — *when* shall this be? **Then (saith he) when it shall be *gloriously* or *fully glorified*** — which shall be when Christ shall appear in the last judgement.
+
+### Objection VI. **Heb. 9:28** — Christ was offered up to exhaust the sins of many. But of whom slight remnants remain, of them they cannot yet be said *exhausted*. *Ergo* the regenerate have no remnants of sin, or even slight ones.
+
+**Respondeo**: **The word *exhausting* is indeed had in the Vulgate version, but is not read in the Greek.** For the Greek text has the word *ἀνενεγκεῖν*, which signifies *to offer* or *to bear*. Christ, saith he, **was once offered, that he might take away the sins of many**. In vain therefore from the word *exhausting* they collect that the regenerate have no remnants of sins, or even slight ones — since it does not stand in the fountains.
+
+### Objection VII. But concupiscence is the residual punishment of sin. *Ergo* not sin.
+
+**Respondeo** with **Augustine** [*[Luther: T. 2/1, p. 304*]*]: **As the blindness of the heart is both *sin*, by which one does not believe in God — and *punishment of sin*, by which the proud heart is punished with worthy chastisement — and *cause of sin*, when anything evil is committed by the blind heart's error — so concupiscence, against which the good Spirit lusts, is both sin (because it has in it disobedience against the dominion of the mind), and punishment of sin (because it is rendered as merits of disobedience), and cause of sin (by the defection of consenting or by the contagion of one being born).**
+
+— ❦ —
+
+## Question 9. Is it true, that venial sins, into which we daily slip, are not such as render us hateful to God?
+
+**Is it true, that venial sins, into which we daily slip, are not such as render us hateful to God?**
+
+**Respondeo**: **This is most false, if they are considered in themselves and in their own nature.** For it is certain that **venial sins are called sins because they repugn the Law of God** [*[Luther: T. 2/1, pp. 396, 366; T. 2/1, p. 398; T. 2/1, pp. 405, 606*]*]. There stands a perspicuous sentence in Moses (which is also repeated by Paul): **"Cursed is every one that abideth not in all things which are written in the book of the Law, to do them."** Therefore **whatsoever repugns the Law of God, in itself and in its nature is worthy of the curse**. But that the saints are not condemned on account of those infirmities is not on account of the *lightness* of those sins (as the Papists feign), but because **by faith they are in Christ Jesus, through whom every moment they seek remission of sins, and obtain it**.
+
+— ❦ —
+
+## Question 10. What therefore is the wrestling of sin and faith in the truly faithful?
+
+**What therefore is the wrestling of sin and faith in the truly faithful?**
+
+**The Apostle Gal. 5 excellently describes this wrestling of the flesh and Spirit in the several faithful** [*[Luther: Gen. T. 4, p. 63; Gal. 5:4/1, pp. 167–168 and following; pp. 199, 200, 301*]*]. For **each of the faithful experiences in himself, that his flesh reluctates by the Holy Spirit, so that although they will the good, yet they cannot perfectly perform it, as they would**. For **the flesh obstructs, that they may not do the commands of God, and love God as they ought**. Wherefore also **it is impossible for us to be justified and saved by the works of the Law**. To will indeed is present with us — we will the good, we will to satisfy the Law, we will to love God and our neighbour — but **the flesh, having been regenerated, does not obey this will, but repugns**.
+
+But **God does not impute sin, when by the faithful it is acknowledged to be sin and deplored** — for **he is propitious to the faithful through and on account of Christ**. But hence it does not follow that on that account sin is to be extenuated and contemned, because God does not impute it. **God indeed does not impute sin** [*[Luther: Gen. cap. 6, p. 249*]*], **but to whom and why? Not to the hard of neck and impenitent and secure, but to the penitent, who apprehend Christ with true faith** — on account of which Christ, as sins are remitted, so also the remnants of sins in the flesh are not imputed. These, however, **do not extenuate or excuse sins, but exaggerate them, knowing that they can be expiated by no satisfaction, by no works or righteousness of the flesh, save through the death and satisfaction of Christ**. On account of their sins nevertheless they do not despair, but certainly settle that these are forgiven them for Christ's sake. **These things are therefore to be taught and inculcated: lest anyone extenuate sins in the faithful. Sin is truly sin, whether it happen before or after acknowledgement of Christ; and God ever averts sin and abominates it.**
+
+Nay rather, **every sin per se and in se is mortal and condemning**, though one for circumstances and the nature of the thing is graver than another; **but that it does not condemn the faithful, this is on account of Christ, on account of whom it is covered and not imputed**. But of those who do not believe in Christ, **not only all their sins are mortal and damning, but also all their works are sins** — **Rom. 14:23**. Wherefore the doctrine of the Sophists, who distinguish sin *per se* and *not by the condition of the person*, is a pernicious error.
+
+**Depraved inclinations in the heart of the regenerate are as much sins as in the hearts of unbelievers and the not-regenerate; but because they believe, these are not imputed to them unto condemnation.** In the unbelievers they are reserved and imputed. In the faithful they are not unto death, or do not condemn them; but in the unbeliever they condemn, and are to him unto death. **Not per se, and on that account, that depraved inclinations of the faithful are lighter evils than of unbelievers, but on account of the discretion of persons.** For **the person of the faithful believes and certainly settles, that since Christ offered himself for him, sins are remitted to him**. Although therefore he has and feels sins, concupiscence, and cupidities of the flesh, yet **he remains just, repugns concupiscence and the cupidities of the flesh by faith, crucifies and kills the desires of the flesh**. But **the person of the unbeliever remains impious and unjust**.
+
+And this is the sum of the truly faithful's wisdom and consolation: that although they sin out of infirmity, have sins, and cannot come to perfection in this life however much they try — yet **they know that sins on account of Christ are not imputed to them unto death and condemnation**. These things make for the consolation of the pious and faithful. For **only the faithful truly feel that they have and commit sins** — that is, that they do not love God with the whole heart, or consult him; but often doubt whether God takes care of them; bear the cross and afflictions impatiently; and are angered against God and adverse to him. Hence are **the most sad complaints of the faithful in Scripture and in the Psalms**. And Paul likewise complains that he is *sold under sin*, and that his flesh lusts against the Spirit.
+
+But since **by the Spirit they mortify the deeds of the flesh** — **Rom. 8** — and **crucify the flesh with its concupiscences** — **these sins of theirs cannot impede their salvation or condemn them**, because they are covered for Christ's sake, whose obedience and satisfaction is imputed to them. But **when they obey the flesh, and do its concupiscences, they lose faith on Christ and the Holy Spirit**. And unless they do penitence, return to Christ, be converted, and from the ministry of the Word (to which Christ committed the keys of the kingdom of heaven) receive **remission of their sins, true consolation, living faith, and the Holy Spirit** — they perish in their sins. And of these is written: **"They who do such things"** — that is, persevere and go on in their sins without conversion to God and without faith on Christ — **"shall not possess the kingdom of God."**
+
+From these it is easy to understand who are truly the faithful and living members of Christ. **The truly faithful have and feel sins, grieve that they have sinned, acknowledge sins, and seek remission of sins for Christ's sake** — **Ps. 32**. But those who are not faithful **not only have sins, but also delight in their sins, and perfect them by deed; do not repugn the flesh, seek no remission; do not fight against their concupiscence, but obey the flesh according to its cupidities**.
+
+— ❦ —
+
+*[Locus XVI closes. Locus XVII De Peccato in Spiritum Sanctum begins in Rebuild-Tranche 20. 262 top-level Q + 131 Obj rendered so far.]*
