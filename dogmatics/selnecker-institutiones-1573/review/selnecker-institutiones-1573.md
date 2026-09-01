@@ -930,7 +930,62 @@ Let there be, for the younger [students], this description of the divine manifes
 
 Four things are here to be considered: first, that the doctrine of manifestation is ***altogether necessary;*** second, that this manifestation is an ***immense benefit of God;*** third, ***what is the end of manifestation;*** and fourth, ***how this doctrine of the manifestation of God is to be used.***
 
-*[Selnecker's paradigm four-fold treatment continues: (1) The necessity of manifestation — since without divine self-disclosure, no creature could know God's essence or will; (2) The immensity of the benefit — that the Creator condescends to speak with creatures; (3) The end — the knowledge, love, worship, and eternal enjoyment of God; (4) The use — the paradigm *lectio-meditatio-oratio-gratitudo-obedientia* framework of pious Bible-reading. This chapter closes Locus I with the paradigm ***transition into Locus II De Deo*** — since the very ***manifestation of God*** presupposes an inquiry into ***the manifested God Himself.***]*⁹²
+#### De Primo — On the First: How Necessary the Divine Manifestation is
+
+**Just as for building nothing is more required than a firm and stable foundation, upon which afterward the whole house may rest — so the doctrine of the manifestation of God is altogether the ***foundation and basis of the whole Church.*** For God wills to be so acknowledged and invoked as He has manifested Himself; and He rejects and damns the cults and invocations of all men which do not agree with the norm handed down by Him.**
+
+**How necessary the locus on the manifestation of God is, is shown by the ***antithesis*** — that is, by the blindness and mobility of men playing with God through various and vain opinions — as the Epicureans, Stoics, idolaters, heretics, and others play — either ***ignorant of God***, or ***maliciously wandering outside the Word divinely handed down*** (as the Judaic people in the adoration of the calf wandered without God, the cult and Word divinely handed to them being rejected — Exod. 32); or otherwise ***contumelious against God***, and equally contemning all religion; or ***bending and accommodating religion to the peace and splendour of this life***, as today many kings, princes, and others do.
+
+**Let us know, however, that we ought to be ***bound to the Word divinely handed down***** — as it is written **Ps. 119**: ***"Thy Word is a lantern to my feet."*** And **Isaiah 8**: ***"To the Law and to the testimony: which if they shall not have said according to this Word, there shall not be to them the morning light. They shall look up, and behold the earth — and lo, tribulation, darkness, and anguish."*** Item **Romans 10**: ***"Say not in thy heart: 'Who shall ascend into heaven?' — near thee is the Word in thy mouth, the Word of faith which we preach."***
+
+**Let us also ask of God ***confirmation*** against the mobility of the human heart**, and let these sayings be in our view: **Ps. 68**: ***"Confirm, O God, that which Thou hast worked in us, on account of Thy temple."*** And **Ps. 86**: ***"Teach me, O Lord, Thy way, that I may walk in Thy truth: unite my heart, that it may fear Thy name"*** — that is, that my heart may be ***fixed on Thee***, and be ***certain in Thy Word and in faith***, and not play with opinions, and be ***constant in the confession of true doctrine.*** Item **Ps. 51**: ***"Create in me a clean heart, O God, and renew a right spirit in my bowels"*** — that is, ***firm and certain, not doubting, not wandering.***
+
+#### De Secundo — On the Second: How Great a Benefit of God the Manifestation of God is
+
+**No creature can suffice to reach the magnitude of this benefit — that ***God has manifested Himself to us***, and in creation founded us — who were plainly ***mere nothing*** — to His image, and communicated to us His wisdom, life, and righteousness.** Then also after the Fall, when we were bereft of that original righteousness, and were held captive by the Devil on account of sin, and destined to eternal punishments on account of contempt of God — ***He Himself came forth, and handed down the doctrine of the Gospel***, and testified Himself to receive the human race into grace on account of the intercession and deprecation of His Son.
+
+**How great a benefit of God this is, the first parents understood in their supreme consternation and greatest fears** — when they thought themselves to have been cast off by God, and to remain in eternal death and punishments; and knew that a ***great multitude of spirits*** on account of the fall had been cast into eternal punishments — here certainly, ***unless they had been raised up by the promise of the future Seed*** and of deliverance from sin and death — they and we should have had to perish in eternity.
+
+**Pious and ingenious men have used this popular similitude.** A man ***captive and destined for punishment*** on account of atrocious crimes — no wealth, no riches, no food or drink delights, nor is there anything of such weight which can alleviate the trouble of mind and the fears which arise from the consideration of impending punishment. But if he hears that ***some prince has been made an intercessor for him*** [***μεσίτης***], ***and by his intercession has obtained condonation of his sentence*** — here he revives again, is exhilarated, and returns to himself. But what is this compared with ***the intercession of the Son of God***, who delivers, quickens, justifies, and saves the whole human race destined for eternal death and punishment?
+
+**Let us therefore acknowledge the immense benefit of God — that with immense and ineffable goodness He manifested Himself thence from the beginning, and kindled the light which those following are delivered from every error and from all evils.**
+
+**Piously ***Bernard*** on the saying of Ps. 116 (***"What shall I render to the Lord for all that He hath bestowed on me?"***) says**: ***"When I was ignorant, He instructed me; when I erred, He led me back; when I sinned, He corrected me; when I fell, He held me; when I lay, He raised me up; when I went, He led me; when I came to Himself, He received me. Nor for all these have I anything to repay, save only that I love."***
+
+**Let the younger [students] observe also these verses**:
+
+> ***"What the benefits of God are, see, whoever thou art:***
+> ***Creation, manifestation, redemption,***
+> ***Life, conservation, the vigour of the Word,***
+> ***The temple of God, peace, health, clothing, food,***
+> ***Peace of mind, salvation, the future Church.***
+> ***By the ingratitude of all thou art scarcely lost."***
+
+#### De Tertio — On the Third: What is the End of Divine Manifestation
+
+**There are ***two final causes*** on account of which God has manifested Himself.**
+
+**The prior is the ***glory of God***, as it is written **Proverbs 16**: ***"The Lord hath wrought all things on His own account."*** And **Ephesians 3**: ***"He created all things, that through the Church the multiform wisdom of God might become known."*** Item **Isaiah 63**: ***"Where is He who led them out of the sea with the pastor of His flock? Where is He who gave His Holy Spirit to them? Who led forth Moses with the arm of His majesty, and cleft the waters before them, that He might make for Himself an eternal Name?"*** — that is, ***God therefore manifested Himself with such illustrious testimonies, that by us He might be acknowledged, celebrated, and invoked.*** Item **Isaiah 43**: ***"I, I blot out thy iniquities on account of Myself"*** — that is, ***gratis from sheer goodness, that I may be celebrated by thee.***
+
+**The posterior final cause is our salvation**, of which Clement of Alexandria piously says: [***"For God does not need anything, but the salvation of men is the fruit and the delight of His work."***] And of the incarnation of the Son of God the Church sings: ***"Who for us men, and for our salvation, descended from the heavens."***
+
+**Long ago they said (that I may add this by the way), that the Devil once came into the temple** — and when these words in the Symbol were being sung, ***"And was made man,"*** he saw in the assembly of men someone who signified no veneration by the bending of the knees; and immediately he struck him a blow, and by reproach said: ***"Monster of a man, dost thou not blush that thou art without motion, and dost not for very joy fall down? If the Son of God had been made our brother, we should not be so ungrateful and negligent."*** It is likely that this tale was excogitated by a pious man, that thus he might excite us to giving of thanks — we who have been created by God unto life, and by redemption unto salvation, and received into grace.
+
+#### De Quarto — On the Fourth: How this Doctrine of Divine Manifestation is to be Used
+
+**On the ***use of the manifestation of God*** many things cannot be handed down, but there is need of the ***exercises of faith, invocation, and thanksgiving***.**
+
+**In ***invocation*** let mind and thought be fixed always on some illustrious testimonies by which God has manifested Himself.**
+
+**In ***thanksgiving*** let mention be made of this benefit — which certainly is greater than that we can be sufficiently grateful for it.**
+
+**Let there also be excited ***joy in our hearts***, that we may acknowledge the true God who has manifested Himself to us, and distinguish our invocation from the murmur of all Gentiles — and rejoice that we are ***members of the true Church of God***, outside which is no salvation.**
+
+**To this practical use the Holy Spirit leads us**, as Ps. 26: ***"To Thy altar, O Lord, I betake myself, where the voice of thanksgiving is heard, and where all Thy miracles are preached. Lord, I have loved the dwelling of Thy house, and the place of the tabernacle of Thy glory: in the Churches I will bless the Lord."*** And in the following Psalm: ***"One thing I ask of the Lord, this I desire, that I may dwell in the house of the Lord all the days of my life, and see the pleasure (that is, the cults pleasing to God) of the Lord, and visit His temple."*** Ps. 43: ***"Send Thy light and Thy truth, that they may lead me, and bring me to Thy holy mountain, and to Thy tabernacles, that I may enter to the altar of God, to the God of my joy and exultation: I shall confess to Thee on the lyre, O God, my God."*** Item Ps. 65: ***"Blessed is he whom Thou choosest, that he may come to Thee, and dwell in Thy courts: he shall be filled with rich consolation in Thy house, and Thy holy court."*** And Ps. 84 it is shown that ***the highest good is if one is a member of the true Church***: ***"How lovely are Thy tabernacles, O Lord of Sabaoth; my soul longs and considers in the courts of the Lord; my heart and my flesh have exulted in the living God,"*** etc.
+
+**Warned by these and similar sayings, let us rejoice that we are members of the Church, and let us give thanks to God for the manifestation** — and pray Him that He may clemently preserve us all and each in His acknowledgement and in the confession of true doctrine, and defend us against tyrants, heretics, impostors, and Devils. Amen.
+
+**And these things briefly on the manifestation of God we have wished to say.**⁹²
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
