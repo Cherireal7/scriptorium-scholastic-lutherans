@@ -4552,4 +4552,60 @@ But **the Gospel brings consolation, peace, and gladness of the heart, raises up
 
 — ❦ —
 
-*[Locus XIX Part 1 closes. Part 2 (Q12-Q13 + Obj blocks 2 and 3 = 7 more Objs) follows in T24. 295 top-level Q + 150 Obj rendered so far.]*
+## Question 12. Does then the Gospel announce grace and life also to sinners remaining and persevering in sins?
+
+**Does then the Gospel announce grace and life also to sinners remaining and persevering in sins?**
+
+**By no means.**
+
+For **Matt. 9:13** Christ says he came **to call sinners *εἰς μετάνοιαν* — to a coming-to-himself, to penitence** — not to sinning. But **penitence over sins committed requires contrition and grief, not secure perseverance in sins**. Item **Matt. 11:5** — *"The poor have the Gospel preached to them"* — *the poor*, saith he, that is, **those who feel their poverty and nakedness in the heart, and dread**; not those who contemn and mock sin and the wrath of God against sin. Item **Matt. 11:28** — *"Come unto me, all ye who labour and are burdened."* He does not say: *ye who are secure, and who in sins, without any terror and fear, persevere and go on*. Item **Isa. 61:1** — *"He hath sent me to announce to the meek, to heal the contrite in heart, to preach to the captives indulgence, and to those shut in, opening,"* etc.
+
+## Objections
+
+### Objection I. But the Gospel requires faith. *Ergo* the promises of the Gospel itself are also conditional?
+
+**Respondeo**: **The Gospel promises to all sinners doing penitence remission of sins, righteousness, life, and salvation gratuitously without any condition of their work or merit** — **Matt. 11:28; Rom. 3:24–28**. But that it requires **faith**, this is so, that we may learn and know **what the instrument and medium is by which we may and ought to receive and embrace the merit of Christ, freely offered to us in the Gospel**. It requires faith **not as a cause or merit**, but that it may be manifest what the distinction is **between those doing penitence and believing, and those impenitent and persevering in sins**. And **the promises of the Gospel so plainly exclude every condition of our work and merit, that the Holy Spirit through the preaching of the Gospel gratuitously kindles, creates, and works in hearts even faith itself, by which we embrace and apply to ourselves the grace and benefits of Christ** — **Rom. 1:16** — *"The Gospel is the power of God unto salvation to every believer."* **Rom. 10:17** — *"Faith therefore is by hearing; but hearing is by the Word of Christ."* **Phil. 1:29** — *"For to you it is given τὸ ὑπὲρ Χριστοῦ, on behalf of Christ, not only that ye should believe in him, but also that ye should suffer for him."*
+
+### Objection II. But the Gospel also preaches of good works. *Ergo* it also has annexed conditions?
+
+**The Gospel taken generally for the whole doctrine of Christ also preaches of good works**: for **Christ professed both doctrines — of the Law and of the Gospel**. When therefore he exhorts his disciples to good works, he handles the Law — because **we have been redeemed through Christ that we may live in righteousness and true sanctity, and bring forth fruits worthy of penitence**. But **when he consoles contrite hearts, then the Gospel properly so-called** — which is the preaching of grace and consolation, by which wretched sinners are raised up — **he proposes to them, as at Matt. 9:2 he says to the Paralytic**: *"Have confidence, son, thy sins are remitted to thee."*
+
+— ❦ —
+
+## Question 13. The Gospel therefore, properly speaking, is not a preaching of penitence?
+
+**The Gospel therefore, properly speaking, is not a preaching of penitence?**
+
+**It is not a preaching of penitence, properly speaking, but only of grace and consolation** — in which to wretched sinners, out of mere grace on account of Christ, remission of all sins is announced. **For the Gospel, properly speaking, is nothing other than a joyful or good message.** But **to preach penitence, or to convict the world of sin, is not a good and joyful message, but a sad message, which terrifies hearts and does not gladden**.
+
+And **this is diligently to be noted and firmly to be held, lest the distinction of Law and Gospel be taken away**. For **in the collation or comparison of Law and Gospel, it cannot truly be said that the Gospel properly so-called is a preaching of penitence** — since this is properly the work and office of the Law, to preach penitence, to reveal the wrath of God from heaven, and to kill — **Rom. 1:7**. In sum, **whatsoever arraigns sin and denounces the wrath of God, whether in the Old or in the New Testament, this is a preaching of the Law**. And contrariwise: **whatsoever announces grace, the mercy of God, gratuitous remission of sins for Christ's sake, is the Gospel, the true and living consolation, and not a preaching of penitence**.
+
+## Objections *(third series — on whether the Gospel is preaching of penitence)*
+
+### Objection I. Christ joins the preaching of penitence with the promise which is proper to the Gospel, saying: *"Do penitence, and believe the Gospel"* (**Mark 1:15**); and **Luke 24:47**: *"Preach in my name penitence and remission of sins."* *Ergo* the Gospel properly speaking is rightly called a preaching of penitence.
+
+**Respondeo**: **It is not asked, whether Christ joins the preaching of penitence with the promise which is proper to the Gospel; but what properly the Gospel is, or what preaching properly is such.** There, **if we regard the etymon of the word and the very thing of which it chiefly treats, it is certain that properly speaking it is not a preaching of penitence, but only of grace or remission of sins**. For **a preaching of penitence arraigns sins, denounces the wrath of God, threatens present and eternal punishments to sinners** — such a preaching is not a joyful or glad message, by which hearts may be raised up or vivified. Then, as to the sayings of Christ: **it is perspicuous, if it be more attentively weighed, that the word *penitence* in those sayings properly signifies *contrition*, which is to be taught from the Law and not from the Gospel**. For therefore at **Luke 24** he subjoins of *remission of sins*, that he may demonstrate the word *penitence* there **ought to be taken for contrition** — which is the *first* part of conversion, and is taught from the Law, not from the Gospel properly so-called. So also at **Mark 1** the voice of penitence is to be understood only of contrition, **which arises from the preaching of the Law, and not from the preaching of the Gospel**. For **the word of the Gospel there signifies nothing other than the preaching of grace, which is opposed to the preaching of the Law**. This too appears — that when the distinction of Law and Gospel is inquired, **to the Law only the preaching of penitence or contrition, and to the Gospel properly so-called only the announcement of grace ought to be ascribed**. For if the contrary be laid down, **there necessarily follows the confusion of Law and Gospel**. But if the voice of the Gospel be taken **generally for the whole ministry, which comprehends the preaching of the Law and the Gospel**, the definition which calls the Gospel a preaching of penitence in some way can be tolerated. **But for avoiding the confusion of Law and Gospel, it is safer to abstain from that general definition.**
+
+### Objection II. That general definition of the Gospel was to be retained on account of the **Antinomians**, who cry out that **men are not to be terrified by the preaching of penitence, but consoled by the sole promise of grace**. *Ergo* they do ill who will not bear it.
+
+**Respondeo**: **It is a fallacy of non-cause as cause.** For the errors of the Antinomians can be refuted by the grace of God, even if this definition be not retained. And **the preaching of penitence in the Church is to be retained, even if it be unpleasant to the Antinomians**. For **Christ instituted it** — **Luke 24** — and the **Apostles urged it diligently**.
+
+### Objection III. *"The Holy Spirit shall convict the world of sin, because they believe not in me"* (**John 16:8–9**). *Ergo* from the Gospel the sin of incredulity must be arraigned.
+
+**Respondeo**: **The Holy Spirit does not convict the incredulity of the world through the Gospel properly so-called, but through the preaching of the Law, in which all sins are accused — and thus also the sin of incredulity.** And so is expounded the saying **John 16, Tom. 2, German. Jenens., p. 455**.
+
+### Objection IV. One and the same thing cannot exist from two disparates. But **salutary contrition is from the Gospel**. *Ergo* it is not from the Law.
+
+**Respondeo**: To the Minor — **contrition, or the acknowledgement of sin simply, comes from the preaching of the Law**. But that it may be and become **salutary**, this accedes **from the Gospel properly so-called**. **For unless to contrite and dreading consciences the mercy of God were announced from the Gospel, they would never raise themselves up, but in their contrition or sense of sins and of the wrath of God would despair.**
+
+### Objection V. Christ and John the Baptist handed down the Gospel properly so-called, and not improperly. But **Christ and John handed down the doctrine of penitence and remission of sins**. *Ergo* the Gospel properly so-called is a preaching of penitence and remission of sins.
+
+**Respondeo**: **It is *ab non distributo ad distributum*.** For the Major speaks of a part of the ministry, which is the preaching of remission of sins. **True it is that Christ and John taught the Gospel properly so-called, if thou take the voice of *Gospel* concerning that doctrine which properly deals with the benefits of Christ, and offers the grace of God in his name.** For this doctrine, collated with the doctrine of the Law (which preaches penitence, that is, arraigns sins), is properly called the Gospel — **Mark 1**. But the Minor treats of the whole ministry, which comprehends the preaching of penitence and remission of sins. **The conclusion therefore has more than it ought to have.** For it infers the whole, when the Major speaks only of a part. **Christ and John are rightly said to have taught the Gospel properly taken** — not indeed the preaching of penitence (which is proper to the Law), but on account of the doctrine of the gratuitous remission of sins, which is proper not to the Law but to the Gospel alone.
+
+Then there is **ambiguity in the voice *proper***. The **whole ministry of Christ and John is called *proper*, and not *improper*, because it is true, integral, and salutary**. But when we treat **of the parts**, there **that is properly called the Gospel which has a specific difference, by which it is discerned from others**. But between the Law and the Gospel no more specific difference can be shown, than that **the Law arraigns sins and the Gospel promises grace**. It remains therefore firm that **the Gospel properly so-called is the preaching of grace, not of penitence**. And in truth they confound *genus* and *species*, whole and part, who contend that the Gospel properly so-called is a preaching of penitence.
+
+**This is the immoveable foundation**: **disparate species, which have contrary properties, are not to be confounded**; nor can the property of one be attributed to the other without confusion. But **the Law and the Gospel, the preaching of penitence and the promise of grace, are disparate species**. For **through the Law is the knowledge of sin, but through the Gospel grace is promised. The Law is the ministry of death; the Gospel however of righteousness, of Spirit, and of life.** *Ergo* to the Gospel cannot be attributed what is proper to the Law, without confusion of Law and Gospel.
+
+— ❦ —
+
+*[Locus XIX closes. Locus XX De Iustificatione Hominis begins in Rebuild-Tranche 25. 297 top-level Q + 157 Obj rendered so far.]*
