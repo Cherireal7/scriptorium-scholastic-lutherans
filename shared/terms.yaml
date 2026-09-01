@@ -6247,9 +6247,191 @@ turpe_lucrum_clericale_hincmar:
     prohibition is canonical foundation of Reformation critique of
     SINECURE + PLURALISM + VENDITIO BENEFICIORUM.
 
+multa_hinc_christiane_lector:
+  english: "Many things, Christian reader, thou canst learn from this"
+  type: polemical-editorial-formula
+  first_use: "flacius-catalogus-testium-1556, body — vl0267 (Flacius interruption after Charlemagne Edict)"
+  note: >
+    FLACIUS'S DIDACTIC-EDITORIAL VOICE INTERPOSED — standard humanist
+    LECTOR-CHRISTIANE interruption-marker (Erasmus 1516 New Testament
+    annotations model), here used at the polemical CENTRE of Book II
+    to draw the OLIM/NUNC contrast between the pre-Ottonian canonical
+    episcopate and contemporary Papal usurpation. Introduces 4 numbered
+    points: (i) election-right of clergy-and-plebs; (ii) archbishop +
+    Caesar ordination-authority; (iii) obedience-to-Scripture-canons-
+    Caesar-metropolitan; (iv) forma-promissionis oriented to feeding-
+    the-flock-by-Word alone. This is the CATALOGUS-argument's polemical
+    centre-of-gravity at this stage — pre-Ottonian ancient-practice
+    offered as CANONICAL WARRANT for Reformation-reversion.
+
+olim_vs_nunc_ecclesiological_contrast:
+  english: "then vs now — the ecclesiological OLIM/NUNC-contrast"
+  type: polemical-methodological
+  first_use: "flacius-catalogus-testium-1556, body — vl0267-vl0269 (Multa hinc four points)"
+  note: >
+    FLACIUS'S POLEMICAL SIGNATURE METHOD — historical-canonical
+    reconstruction of the pre-Ottonian OLIM-state (electio-cleri-et-
+    plebis + archiepiscopus-Caesar-cooperantes + iuramentum-Scripturae-
+    canonibus-Caesari + forma-praedicandi-verbum-solum) contrasted with
+    the contemporary NUNC-state (Papa-solus-confirmat + mancipia-iurata
+    + nugae-et-superstitiones). Foundational to the CATALOGUS
+    architecture. Reformation-standard: cf. MELANCHTHON TRACTATUS
+    §§60-75; LUTHER AN DEN CHRISTLICHEN ADEL 1520 WA 6:404 ff.
+
+pontificale_moguntinum:
+  english: "Pontifical of Mainz"
+  type: liturgical-canonical-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0270 (Rubric on Episcopal Ordination)"
+  note: >
+    THE PONTIFICAL OF MAINZ — specifically-Rhineland recension of the
+    ORDO ROMANO-GERMANICUS (PRG, c. 950, ed. Vogel-Elze, Studi e Testi
+    226-227), extant in several 10c-12c manuscripts (BSB Clm 10077;
+    StB Bamberg Msc.Lit.53). Flacius's manuscript here — unnamed —
+    likely a pre-Reformation Mainz Cathedral Pontifical accessed
+    through his Wittenberg-Magdeburg documentary network. Cited here
+    as SECOND liturgical-forensic proof (after the PONTIFICALE UETUS
+    formularies of T2pp) that the pre-Ottonian Church itself mandated
+    clerus-plebs-ordo consensus + desiderium for episcopal ordination.
+    Reformation-standard: immediate liturgical background of the
+    WITTENBERG ORDINATIONSFORMULAR 1535.
+
+cleri_plebis_ordinis_consensus:
+  english: "consensus and desire of clergy, plebs, and [presbyteral] order"
+  type: canonical-formula
+  first_use: "flacius-catalogus-testium-1556, body — vl0270 (Mainz Pontifical rubric)"
+  note: >
+    THE MAINZ PONTIFICAL'S TRIPARTITE ELECTION-CONSENT FORMULA:
+    (i) CLERUS (parochial clergy), (ii) PLEBS (lay-populace),
+    (iii) ORDO (presbyteral-diaconal order proper) — all three
+    CONSENSUS AND DESIDERIUM required for the elect-bishop to be
+    ordained. FULLER-canonical form than the Hincmar-Rheims typical
+    CLERUS-ET-PLEBS pair. Reformation-standard: AC XIV
+    DE ORDINE ECCLESIASTICO on the RITE VOCATUS + AC XXVIII on the
+    POTESTAS IURISDICTIONIS.
+
+sylvius_impius_secundus:
+  english: "Aeneas Silvius Piccolomini = Pope Pius II (r. 1458-1464)"
+  type: papal-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0268 (Multa hinc third point)"
+  note: >
+    ENEA SILVIO PICCOLOMINI (1405-1464), the humanist-diplomat turned
+    Pope PIUS II. Flacius uses the epithet IMPIUS SECUNDUS (punning on
+    Pius) — standard Protestant polemical COGNOMEN for the humanist-
+    turned-hierocrat. The letter here cited is likely PICCOLOMINI
+    Epistola 66 ad Iohannem de Segobia (in OPERA OMNIA, Basel:
+    Henricpetri, 1551, pp. 517 ff.) — pre-papal letter expressly
+    asserting that EVEN A TRUE EPISCOPAL STATEMENT AGAINST THE POPE
+    IS A VIOLATION OF THE EPISCOPAL OATH. Flacius uses it as smoking-
+    gun proof that the modern episcopal oath is designed to SILENCE
+    truth against Papal claims.
+
+diet_of_nuremberg_1523:
+  english: "Diet of Nuremberg (1522-1523)"
+  type: reformation-diet-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0268 (Multa hinc conclusion)"
+  note: >
+    DIET OF NUREMBERG 1522-1523 (second and third of three Nuremberg
+    Diets, at which POPE ADRIAN VI, r. 1522-1523 (last non-Italian
+    Pope until John Paul II), sent legate FRANCESCO CHIEREGATI
+    (1479-1539) to demand execution of the Worms Edict against Luther.
+    Bishops of the Empire replied by demanding a FREE GENERAL COUNCIL
+    on German soil, in which their oaths to the Pope would be relaxed.
+    Chieregati responded: "NIHIL ALIUD ESSE QUAM PAPAE MANUS LIGARE"
+    (that is nothing else than to bind the Pope's hands). One of the
+    FOUNDATIONAL incidents cited by Reformation historians (already
+    by SLEIDAN De statu religionis IV, 1555) as evidence of Papal
+    opposition to conciliar-reform. Reference: MGH DEUTSCHE
+    REICHSTAGSAKTEN unter Kaiser Karl V, vol. III (Gotha, 1901),
+    393-465.
+
+hincmar_rheims_5_part_dossier:
+  english: "the 5-part Hincmar-Rheims episcopal-election dossier"
+  type: canonical-dossier-structure
+  first_use: "flacius-catalogus-testium-1556, body — vl0269 (Flacius programmatic promise)"
+  note: >
+    FLACIUS'S PROGRAMMATIC 5-PART CANONICAL-EPISCOPAL-ELECTION-AND-
+    ORDINATION CURSUS reconstructed from Hincmar of Rheims: (i)
+    EPISTLE TO THE EMPEROR petitioning imperial-authority to concede
+    new episcopal election on death of predecessor; (ii) EPISTLE TO
+    CO-BISHOP ordering him to urge joint clergy-people election in
+    a bereaved church; (iii) EPISTLE TO THE BEREAVED CHURCH itself,
+    exhorting suitable-bishop election + prescribing canonical FORMA
+    EPISCOPI; (iv) PROFESSION/PROMISE of elected bishop before
+    Archbishop; (v) TESTIMONY OF ORDINATION AND PASTORAL-INSTRUCTION
+    on how ordained bishop is to conduct himself. Programmatic
+    equivalent to the pre-Ottonian ecclesial-election NORM offered
+    by Flacius as CANONICAL WARRANT for Reformation-Lutheran
+    restoration. Cross-ref n762-n766 (Beauvais 4th) + n777-n783
+    (Pontificale vetus formularies).
+
+capitulare_ecclesiasticum_charlemagne:
+  english: "Capitulary of Charlemagne (ADMONITIO GENERALIS 789)"
+  type: carolingian-canonical-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0267 (Charlemagne Edict excerpt)"
+  note: >
+    CHARLEMAGNE'S ADMONITIO GENERALIS 789 (MGH Capit. I no. 22, ed.
+    Boretius, 52-62) or possibly CAPITULARE MISSORUM GENERALE 802
+    (MGH Capit. I no. 33). The SUPPLICATIO SUBDITORUM framing suggests
+    a specifically-episcopal Capitulary responsive to lay-clerical
+    petitions. Excerpted here for its formulation of the CANONICAL-
+    EPISCOPAL-ELECTION-RULE: bishops (i) elected by clergy-and-people,
+    (ii) according to STATUTA CANONUM, (iii) from the proper diocese,
+    (iv) without personal favor, (v) without gifts, (vi) on MERIT OF
+    LIFE, (vii) on GIFT OF WISDOM. Essentially the AC XIV + AC XXVIII
+    Reformation-canonical episcopal-election formula, documented in
+    the imperial-Carolingian source of the late 8c. Standard edition:
+    MGH Capitularia regum Francorum (Hannover, 1883-1897).
+
+serenio_metropolis_remorum:
+  english: "the most-serene register of the Metropolitan Church of Rheims"
+  type: chancery-formula
+  first_use: "flacius-catalogus-testium-1556, body — vl0266 (Hincmar-Tournai close)"
+  note: >
+    THE MOST-SERENE REGISTER OF THE HOLY METROPOLITAN CHURCH OF RHEIMS
+    — formal Chancery designation of the METROPOLITAN SEE OF RHEIMS
+    under HINCMAR (r. 845-882). SERENIO is a courtly Latin formation
+    echoing the imperial SERENITAS, here Christianized as an epithet
+    of ecclesiastical documents issued from the Metropolitan chancery.
+    Reformation-standard: the PROVINCIAL-METROPOLITAN structure is the
+    PRE-GREGORIAN ECCLESIAL NORM that the Reformation sought to
+    restore (against papal centralism); cf. AC XXVIII on POTESTAS
+    EPISCOPALIS limited to the diocesan-provincial level.
+
+ministerium_ornamentum_patrimonium_redditus:
+  english: "ministry, ornament, patrimony, revenues — the fourfold episcopal-obligation"
+  type: canonical-catalogue
+  first_use: "flacius-catalogus-testium-1556, body — vl0265 (Hincmar-Tournai peroration)"
+  note: >
+    HINCMAR'S FOURFOLD ENUMERATION of episcopal-property-obligations:
+    (i) MINISTERIUM (sacred service), (ii) ORNAMENTUM (liturgical
+    vessels and vestments), (iii) PATRIMONIUM (immoveable
+    ecclesiastical property), (iv) REDDITUS (revenues). All four are
+    to be PRESERVED, AMPLIFIED, AUGMENTED, DISPENSED — but NOT
+    DIMINISHED or CONVERTED-TO-PERSONAL-USE. Reformation-standard:
+    AC XXVIII on POTESTAS IURISDICTIONIS limited to ADMINISTRATION
+    of Church property, not APPROPRIATION. Reference: ULRICH STUTZ,
+    Geschichte des kirchlichen Benefizialwesens (Berlin, 1895),
+    I. 143-182.
+
+evangelicae_veritati_apostolicae_traditioni_sacris_regulis:
+  english: "to Evangelical truth, Apostolic tradition, and sacred rules"
+  type: canonical-criterion-triad
+  first_use: "flacius-catalogus-testium-1556, body — vl0265 (Hincmar-Tournai summary formula)"
+  note: >
+    HINCMAR'S THREE-FOLD CRITERION OF ORTHODOXY: nothing in the parish
+    is to be INIMICAL to (i) EVANGELICA VERITAS (Scripture), (ii)
+    APOSTOLICA TRADITIO (patristic transmission), (iii) SACRAE REGULAE
+    (conciliar canons). ARGUABLY THE CLOSEST 9C LATIN APPROXIMATION TO
+    THE REFORMATION SOLA-SCRIPTURA-CUM-CONSENSU-PATRUM-ET-CONCILIORUM
+    RULE. Later modified by Vincent of Lerins into the QUOD-UBIQUE-
+    QUOD-SEMPER-QUOD-AB-OMNIBUS formula; Hincmar's Carolingian version
+    remains the more Reformation-friendly. Reformation-standard: cf.
+    FC SD RULE AND NORM on the IUDEX CONTROVERSIARUM.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Hincmar disciplinary letter to Tournai
-# (vl0001-vl0262, 262 body pp + 32 paratexts ≈ 47.9% of 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Hincmar-Tournai + Charlemagne Edict +
+# Flacius OLIM/NUNC commentary + Rheims-dossier preface + Mainz Pontifical
+# (vl0001-vl0270, 270 body pp + 32 paratexts ≈ 49.4% of 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
@@ -6257,7 +6439,7 @@ turpe_lucrum_clericale_hincmar:
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
 # + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
 # 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) +
-# 11 (T2pp) + 11 (T2qq) = 281.
+# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) = 292.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
