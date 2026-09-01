@@ -1583,7 +1583,220 @@ And hence the old rule is handed down: ***"One nature acts with communication of
 
 **XLIX.** ***It is established from these things how in the concrete we can rightly speak, that we may retain Christ as ***the Person in two natures*** — which certainly by no other reason can be done in this life, unless from the sacred letters we dextrously and piously explicate the doctrine drawn on the communication of idiomata.***
 
-**L.** ***Let this therefore be our brief admonition on the person of our Redeemer Christ, God and man, in whom dwelleth all the fullness of the Divinity personally; who was made in all things similar to us, except sin; who suffered for us the just for the unjust; who died and was buried, descended to hell, rose again on the third day, ascended to the heavens, sits at the right hand of the Father — and shall come to judge the living and the dead. To Him with the Father and the Holy Spirit be praise, honour, glory, and dominion in every eternity. Amen.***¹⁰⁷ᵐ
+**L.** ***We remember that once it was asked***: whether we can and ought to say simply, ***"The flesh of Christ is life-giving and adorable"***; and in the same manner: ***"The flesh of Christ or the human nature is eternal, omnipotent, and everywhere"*** — since being life-giving, if it truly is, is the proper attribute only of the divine nature, which is omnipotence.
+
+**LI.** ***We respond***: Whatever is said, if the flesh of Christ is ***life-giving and adorable*** (as altogether it is), it must certainly be believed to have been made ***participant of the divine and eternal omnipotence*** — even if per se and of itself, ***formally and habitually*** (as the Scholastics speak), it is not omnipotent. And who denies that the human nature is eternal — not [***a priori***] but [***unto eternity***] — since even we shall live in every eternity?
+
+**LII.** ***Wherefore rightly and piously against the Nestorians and the like we say***: ***"The flesh of Christ is life-giving and adorable"*** (for the Father gave the Son to have life in Himself, John 5) — even if in the same manner we cannot immediately infer and conclude: ***"The flesh of Christ is per se naturally and from eternity eternal, lacks every circumscription, and is everywhere, as the divinity per se."***
+
+**LIII.** ***In the abstract we retain the idiomata and conditions of the human nature, nor do we say***: ***"The human nature or the human body is per se omnipotent, and is everywhere."*** ***In the concrete, however, we say***: ***"Christ the man is omnipotent, and is everywhere,"*** [***ἀπερίγραπτος***], ***and wherever Christ is (and He is everywhere), there God and man are — with the properties of both natures preserved everywhere*** — which even if we cannot in this life and weakness attain how it can be, nevertheless we subject the capacity of our reason to the ***unsearchable mystery***, and we adore Christ God and man hearing us and present to us everywhere, without confusion of natures and without disruption of the Person.
+
+**LIV.** ***Somewhere is extant this phrase***: ***"The body of Christ is everywhere"*** — which Luther, when he used it, expounded the reason of his counsel: namely, that ***by divine wisdom and power he reserved modes unknown to us, by which God can effect that Christ be with His body both in heaven and in the Supper, and elsewhere.***
+
+**LV.** ***For the human nature in Christ sitting at the right hand of the Father has ***immense prerogatives*** above all other bodies — nay, is more powerful than all creatures***, as we have also affirmed above.
+
+**LVI.** ***Wherefore, even if it does not lose its congruent idiomata (as: to be [***κατά τι***], as the ancients spoke, but the body remains [***μεμετρημένον σώμα***]) — nevertheless by no means with rash boldness must it be asserted that Christ is so bound with His body to a certain place of heaven that even if He wills it, He cannot be elsewhere — and that the human nature of Christ has only [either its natural properties, or] finite and created gifts, and has not been made capable and participant of the eternal and infinite omnipotence of God***. For to assert this is blasphemous.
+
+**LVII.** ***Christ is [***περιγεγραμμένος***] by reason of the human nature or of the human body***, which per se from its nature and condition necessarily is finite. But since that same body is by hypostatic union inseparably united to the divinity, and Christ is omnipotent and His human nature has many immense prerogatives beyond other human bodies, and is more powerful than all creatures, on account of the personal union — deservedly to these our thoughts and rash tongue we put a bridle — and when Scripture affirms something concerning the body of Christ which we understand to exceed and surpass the properties of the human nature, ***with Christian modesty and humility reverently we accept and believe it*** — whatever indeed may seem to stand against — knowing that we cannot in this life exhaust and perceive the profundity of the riches and omnipotence of God, and that indeed ***the greatest of those things which we now know is the least of those which remain to be said.***
+
+**LVIII.** ***We ought therefore to remember these two rules***: The first is: ***Christ according to His divine power can be everywhere, and with His body also in all places, or wherever He wills to be, the human nature nevertheless remaining safe and inviolate, not expanded, not diffused, not led out into the infinite.***
+
+**LIX.** ***The reason of this rule is the omnipotence of Christ as God.*** For if it be asked how this can happen, let it in turn be asked how God is omnipotent.
+
+**LX.** ***Since, however, we do not wish to argue [***ad libitum***] from the divine omnipotence and from the prerogative of the human nature in Christ, and to weave whatever consequences by private judgement — therefore we add the posterior rule, which is this***: ***Truly there is the body of Christ wherever Christ wills it to be, and to whatever He has bound it by His expressed Word, though this be done contrary to all the properties of all human bodies.***
+
+**LXI.** ***Most rightly said Cyril***: ***"The own body of the Only-Begotten God, being, transcends all human things."***
+
+**LXII.** ***Wherefore if now the doctrine of the property of the human nature considered in the abstract seems to obstruct something which nevertheless is expressly contained in the Word of God — our task is not indeed to take away the order and course of nature, but to lay aside and contract our speculations — and humbly and reverently to subject to the Word of God all our reason (not abolished, but included within certain limits set by God Himself) — and to admire, venerate, and embrace the omnipotence of God.***
+
+**LXIII.** ***Let the example be the article on the Supper.*** It is the idioma of all human bodies not to be able to be except in one place only. But Christ ***in expressed words*** affirms that ***His body and blood are present in the Supper, are exhibited, and are received.***
+
+**LXIV.** ***Here what must be established and believed?*** If we look at the idioma of the human body, the body of Christ cannot be except in one place of heaven. But if we consider the ***hypostatic union and the omnipotence, truth, and glory of Christ***, and have consideration of our faith and consolation, there shall be nothing further which can inject scruple to us.
+
+**LXV.** ***Nor is it to be judged that a derogation is done to the truth of the human nature in Christ, when the Word of God predicates something of the body of Christ which does not agree with the idiomata of our bodies.***
+
+**LXVI.** ***And even if this whole we shall learn, perceive, and see integrally in the eternal and heavenly Academy, nevertheless for the simpler [minds] the example which is customarily proposed of ***iron heated by fire*** cannot be useless.***
+
+**LXVII.** ***Iron has its own properties from its nature — neither shines nor burns. But from ignition it shines and burns, and yet is and remains iron.*** And our animate bodies have their own properties which per se outside the union with the soul they do not have.
+
+**LXVIII.** ***These things concerning the idiomata of the natures in Christ we have wished briefly to propose. And we pray the Son of God, our Lord Jesus Christ, that in these labyrinths of manifold questions, and in the exacerbations of souls and the many furies, and in the dangers and fear of great tumults both in the Church and in the political Empire, He may clemently assist us, and rule our minds and our hearts by His Holy Spirit — that we may be and remain temples of God, nor rush into errors and crimes, nor decline from truth, but in the integrity and simplicity of true faith acknowledge, worship, fear, invoke, obey, and serve Him — and, militating a good militia and retaining faith and good conscience, expect the coming of the Son of God — and prepare ourselves for receiving Him with a cheerful and humble assembly — and see Him propitious in every eternity. Amen.***
+
+#### On the Appellations of Offices Attributed to the Person according to Both Natures
+
+**Great is the distinction between ***appellations*** which signify the ***properties of the natures***, and the ***appellations of offices.*** For the appellations of the natures contain the idiomata of one nature when they are considered even outside the union. And because the natures with their properties are not confused, they are attributed to the Person ***not according to both, but according to that nature whose they are proper*** — as ***God, omnipotent, immortal*** are appellations to be referred to the divine nature. For they are not the idiomata of the human nature per se in the abstract. ***Man, one who suffered, wounded, dead*** — are idiomata of the human nature.
+
+**But the names of ***offices*** belong to the whole Person according to both natures, and are named ***idiomata not of some nature, but of the Person***, because they are attributed to the Person according to both natures — as to be ***Redeemer, Justifier, Saviour, King, Priest, Life-giver, Propitiator, Pastor***. Let therefore these rules be at hand:**
+
+**I.** ***The whole mystery of Redemption, and the offices of the Messiah saving the human race, pertain to the whole Person according to both natures — not according to one or the other, divine or human.***
+
+**II.** ***The union of the two natures in Christ was made on account of the office of Redemption of the human race. Therefore the office of Redemption agrees with the Person, not according to one nature only, but according to both.***
+
+**III.** ***Thus therefore we say***: ***"Christ is Redeemer, Justifier, Saviour, Mediator, etc. — according to both natures"*** — because ***one nature acts with communication of the other***, and the ***Person has actions in both natures at once.***
+
+**IV.** ***We adore Christ God and man with one*** [***λατρείᾳ***] ***— [as] Mediator, Redeemer, Saviour.*** For these offices agree with the Person according to both natures. Invocation, however, looks upon the ***Person and the benefits of Christ***, and does not separate the human nature from the Person which it invokes.
+
+**V.** ***Mediator, King, Saviour, are understood not only of the nature suffering and dying — but of the ***victrix Person***, which the promise embraces***: ***"The seed of the woman shall crush the head of the serpent."***
+
+**These rules observed, easy is the dijudication of the ***appellations of offices*** which agree with the Person according to both natures.** ***Theodoret*** in his ***Dialogue*** which is entitled [***Ἐρανιστής***] cites the saying of Irenaeus worthy of memory: [***"Vainly, therefore, do the heretics assert that either Christ was crucified according to the divinity only, or according to the humanity only; whereas He is one and the same Son of God, both God and Man, and both natures work in Christ, each conserving what is proper to Itself, and consenting with each other in the operations."***]
+
+And a little before, Theodoret himself says: [***"The Mediator, therefore, being God and Man in one Person, redeemed us, according to both natures worked in Him; and each nature is preserved and inseparably conjoined in the one Christ."***]
+
+**As to what is objected**: ***"No one is Mediator of himself, or intercessor with himself"*** — the response is evident: this is true ***in the same respect and where there is one single Person***. But here it must be discerned between the ***sending divinity*** and the ***Son sent.*** For the Son, insofar as He is ***sent***, is ***Mediator with the sender.*** And yet the Son is [***ὁμοούσιος***] to the eternal Father, and of equal power — but the distinction of Persons remains. For ***the Son assumed human nature, not the Father***, etc.
+
+**Then also ***salvation is of the whole Trinity*** — yet the propriety of each Person is to be retained, because the Father saves and quickens through the Son.** Whence Augustine says: ***"The Son acts not from Himself, but through Himself."***
+
+**These things on the ***appellations of offices*** which are attributed to the Person according to both natures — it has seemed [good] to add. It is dealt with of these more copiously elsewhere, and there stands the ***response of D. Philip [Melanchthon], our preceptor, to the Stancarist controversies***, and the useful book of ***D. Chemnitz*** [***De vinculo personali***]. But of these enough now has been said — of which in the ***Explication of the Symbols*** more, God helping, we shall say.
+
+#### Certain Arguments of the Arians and Similar Blasphemers Denying the Divinity of the Son of God
+
+**Few arguments we shall add which blasphemous men have used for impugning the divinity of the Son of God in all times, that the younger both may learn to solve them, and may learn to detest and flee blasphemous voices.**
+
+**First argument.** ***The divine nature neither suffers nor dies. Christ died. Therefore He is not God.*** — I respond to the minor: ***Christ died according to the human nature***, in which He could suffer and die — as Peter says (1 Pet. 3): [***"put to death indeed in the flesh"***] — that is, ***the divine nature was not lacerated or dead, but was ***obedient to the Father***, rested and yielded to the wrath of the eternal Father against the sin of the human race, was not vacant in power, nor did it exercise its strength.*** Meanwhile the nature was lacerated and dead which could be lacerated and die.
+
+And ***Irenaeus*** says (whose words Theodoret cites in his third dialogue, folio 69): [***"The Word rested and gave assent that He should be tempted, crucified, and die; but was also assisting the humanity, not idle, but sustaining it in the sufferings — that He might overcome, rise again, ascend to heaven, and fulfil the office of the Messiah."***] Here Irenaeus distinctly affirms both that the ***Word rested*** when Christ was tempted, crucified, and died — and at the same time was ***present by personal union to the suffering nature, not idle, but that He might sustain those sufferings transcending every thought — that He might be able to conquer, rise again, ascend into heaven, and fulfil the office of the Messiah.*** In the Latin version of Irenaeus book 3 chapter 21 those words are infelicitously rendered thus: ***"He was man that He might be tempted, the Word that He might be glorified, with the Word resting — that He might be able to be tempted, and to be dishonoured, and to be crucified and to die; the man in Him being absorbed in that which conquers, sustains, and rises again, and is assumed."***
+
+**If thou weigh the saying of Irenaeus, thou shalt understand piously the distinctions of the natures declared, and at the same time illustrated:**
+
+**1.** The ***severity of divine justice*** not admitting reconciliation unless punishment is paid.
+
+**2.** The ***magnitude of divine wrath***, which could not be assuaged except not only by deprecation but also by the ***death of His only-begotten Son.***
+
+**3.** The ***magnitude of sin and the deformity of the image of God in man*** so defiled that it moves nausea in God Himself, and is [***βδέλυγμα***] before God beholding it, and not acknowledging His own image.
+
+**4.** The ***magnitude of God's mercy giving the Son for us.***
+
+**5.** The ***immense love of the Son toward us***, deriving upon Himself our sins, the wrath of the Father, and sustaining the punishments.
+
+**6.** The ***mode of the passion***, which is expressed by the word [***requiescere***], [***ἐμμένειν***] — that is, ***the divine nature did not suffer, but in the passion rested, and sustained the human nature*** — just as in fainting or [***syncope***], the soul sustains the body, lest it utterly collapse and be extinguished.
+
+Therefore ***Athanasius*** on page 28 ***De Incarnatione Verbi*** says: ***"Since it was not possible for the Word itself to die — since He is the immortal Son of the Father — He assumed for Himself a body which could die, because by death the wrath of the eternal Father was to be placated."*** And in the epistle to Epictetus he says: ***"That very thing was extraordinary — that the same one was both suffering and not-suffering: suffering indeed, insofar as His own proper body in which He was, was suffering; not suffering, however, insofar as by nature He was, as God, impassible."*** [***"Ineffable indeed the mystery: for that Christ suffered, and yet did not suffer — He was passible on account of the body, and yet impassible on account of the divinity."***] These words Epiphanius repeats against the Dimoirites (folio 423), and Theodoret alleges the same in the third dialogue (folio 71) — who also cites the ***decree of Damasus***, which stands in book 9 of the ***Tripartite History***: [***"If any one says that in the passion of the cross the Son of God sustained sorrow with the divinity, and not with the flesh and rational soul which He assumed in the form of a servant, as the sacred Scripture said, let him be anathema."***]
+
+**Let us know, however, that not only the human nature is the ***Redemptrix***, but the ***whole Son of God***.** For even if the divinity was not lacerated and dead, nevertheless the laceration was done in that flesh to which the divinity was coupled by personal union.
+
+**Let us also know that there is a great dissimilitude of these propositions**: ***"John the Baptist suffering, or Paul suffering, God suffers"*** (according to that: ***"He who touches you, touches the pupil of my eye"***; item: ***"Whatever you have done to one of the least of mine, you have done to me"***; item: ***"Saul, Saul, why persecutest thou me?"*** and Isa. 63: ***"In their tribulation He also was troubled"*** — here only a certain relation is understood) — and this proposition: ***"Christ suffering, God suffers."*** For when it is said, ***"Paul suffering, God suffers"*** — this proposition is true by metaphor, namely because the relation — that is, the contempt — pertains to God, as the contumely of the legate pertains to the Lord, namely by reason or by thought. But in this proposition, ***"Christ suffering, God suffers,"*** there is no metaphor, but the ***unity of Person is signified*** — namely, that this suffering Person is truly God — and yet no physical confusion of the natures is understood. In Him who dies is the divine nature; but this rests for a time, and wills that humility — in which nevertheless He often scatters the rays of His majesty and power — just as the Sun covered by a cloud sometimes scatters rays penetrating even the clouds, to use the old similitude.
+
+**It is useful, however, that we know some illustrious sayings of the ancient writers**, who wished to hand down certain testimonies about the forms of speaking.
+
+**Jerome** in the ***Exposition of Faith to Damasus*** says: ***"We say thus: 'By the Son of God our passible [nature] was received, so that God remained impassible.' For the Son of God suffered according to that which could suffer — namely, according to the assumed substance. Item: 'The Son of God died according to Scripture, according to that which could die.'"***
+
+**Augustine** on Ps. 129: ***"Through that which He was man, God died; and through that which He was God, the man was raised and rose and ascended into heaven. Whatever the man suffered, God cannot be said not to have suffered."*** And again: ***"We say the Son of God suffered and died in the man whom He bore, without any change or death of the divinity."*** And on Ps. 66: ***"God could not die, except in a man; He could not be crucified, except in a man."***
+
+**Ambrose** ***De Incarnatione Verbi***: ***"He was dying according to the reception of our nature, and He was not dying according to the substance of eternal life."***
+
+**Theophilus of Alexandria** (who flourished in the year of Christ 390, and wrote many splendid things, among which stand ***the four Paschal books*** which D. Jerome translated) in ***Paschal Book 2***: ***"The Lord of glory was shown in the very passion, remaining impassible by the majesty of divinity, and passible by the flesh — as He is found in the eloquence of the Blessed Peter."***
+
+**Basil the Great**: ***"He whom the universe does not contain, embraced death impassibly through the flesh, that by His own passion He might give us impassibility."***
+
+**Cyril to Nestorius**: ***"The Only-begotten Son from God the Father, God — according to His own nature having no part in passion — for us according to the Scriptures suffered in the flesh, in the crucified body impassibly bringing to Himself the sufferings of the flesh. And by the grace of God for all He tasted death, handing over His own body."***
+
+**Irenaeus**: ***"The incarnate Word of God was hung upon the wood."***
+
+**Athanasius** ***De Incarnatione Verbi***: ***"Because He was Life, and the Word of God — and it was fitting that death be made for all — He assumed a mortal body."***
+
+**Epiphanius** everywhere collects many testimonies, and there often stands with him this phrase: ***"The divinity did not suffer."*** The same does Theodoret in the third dialogue. We have discussed of this matter in the *Paedagogia* more prolixly.
+
+**The forms of speaking therefore disapproved and rejected in the Church have been these:**
+
+- ***"The divinity is passible, crucified, dead. The divine nature is passible."***
+- ***"Christ died according to both natures"*** — which Arius also said: that ***crucifixion agrees with the Person according to both natures.*** By this manner he wished to conclude that the other nature — which was before the incarnation — was not divine or eternal.
+
+**The approved forms have been and are these:**
+
+- ***"Christ suffered in the flesh."***
+- ***"Christ suffered according to the human nature which He assumed"*** — or ***"according to the body,"*** or ***"according to that which could suffer and die."***
+- ***"The divinity is impassible."***
+- ***"God suffered and died."***
+- ***"The Word of God is passible."***
+- ***"Life on wood dies."***
+- ***"The Lord of glory is crucified"*** (1 Cor. 2; Rev. 11).
+- ***"God hangs on wood."***
+- ***"Ps. 96: Say among the Gentiles: The Lord reigned from the wood."*** — These words, [***ἀπὸ τοῦ ξύλου***], were of design removed by the Rabbis of the Jews from the context, as Justin Martyr complains in the ***Dialogue with Trypho***. The same saying is cited by Tertullian book 3 against Marcion; and in the hymn: [***"Fulfilled are the things which David the faithful sang in his song, saying: 'Among the nations God reigned from the wood.'"***] Bernard also cites the same saying: ***"Say to the nations: from the wood God reigned."***
+
+**Cyril to Succensus:** ***"Him who is of the Jews according to the flesh — that is, of the seed of Jesse and of David — not only Lord of glory, but also God over all blessed in the ages — the most blessed Paul affirms, pronouncing the ***own body of the Word*** to be affixed to the wood, and by this evidently assigning the cross to Him."***
+
+**Hilary** book 9 ***De Trinitate***: ***"God is born by our reception, He suffers by innocence, He dies for vengeance — while both our man remains in God, and the sufferings of our infirmities are made society for God — and the powers of spiritual wickedness and malice are subjected to the triumph of the flesh, God through the flesh dying."***
+
+#### Whether "The Human Nature in Christ is Passible" can be Rightly Said
+
+**Here it is asked** concerning this phrase: whether it can commodiously be said, ***"The human nature in Christ is passible, crucified, and dead."*** There are those who approve this phrase. There are also those who disapprove. And those who approve use this reasoning: ***"The divine nature in Christ was not passible, crucified, and dead. Therefore the human nature was passible and dead"*** — as if someone should argue thus: ***"Man dies. The soul of man does not die. Therefore the body of man dies."*** And this form of speaking can be received, whether it be understood of the ***laceration and external suffering of the body***, or of the ***affect accompanying the touch*** — that is, of ***sorrow and corporeal death.***
+
+**But those who judge that form not to be received use this argument:** ***"We are not redeemed by corruptible things"*** (1 Pet. 1). Therefore it must not be said that the human nature in Christ suffered for us. I respond: I concede the whole if we speak of the ***presence of the divinity*** (to us ineffable), and of the ***whole satisfaction and victory***, and of the efficacy and fruit of the passion. And the particle ***"for us"*** makes a distinction — which as soon as it is added, shows to us the ***virtue and efficacy or merit*** of the passion and obedience of Christ, whose virtue is not of the human nature only — because the human nature alone is not the ***Redemptrix***, but the ***whole Son of God and of Mary is the Redeemer***, who for us suffered, was crucified, and died.
+
+**This proposition is not received:** ***"The flesh of Christ suffered for us."*** For although it be true that the innocent flesh of Christ was delivered to death for us, nevertheless when it is said ***"for us,"*** it is necessary that the ***whole Person*** be the Redemptrix. Thus therefore we speak: ***"God suffered in His flesh, or in the human nature."*** This also is not to be received: ***"The human nature in Christ died for us."*** But this is true: ***"God, or the Son of God, or the Son of Mary, the man Jesus Christ, for us suffered, was crucified, and died."***
+
+**If we should say, "The human nature in Christ suffered for us"** — immediately we should give occasion to blasphemers who judge that the sufferings of Christ were not more excellent than the sufferings of Elijah or Paul; we should also inject scruple into our consciences, as if Christ by His passion effected nothing more than any other saint.
+
+**This proposition therefore in the concrete concerning the Person is true:** ***"God suffered."*** Item this also: ***"The divine nature in Christ was not idle in the passion of Christ, did not withdraw itself, nor did it lead itself away from the humanity, but rested"*** — that is, ***was not vacant [of its own action], nor of its majesty and power.*** Item: ***"The divine nature by personal union and by power was present to the human nature in the passion, and sustained the human nature, that it might be able to conquer the sorrows. For the human nature would have been reduced to nothing, unless the divine nature and virtue had been present and assisted, and made it partaker not only of all things which had to be sustained by Christ in the passion (and this without any injury, passion, or change — in a manner unsearchable to all creatures) — but also had given and obtained the victory."***
+
+**But how the passion pertained to God — not by speech only, nor by relation, nor by any metaphor, but by another far mode by which the Divinity in Christ [***ἐμμένει***] and works and the unity of Person is retained without physical confusion of the natures — this whole we shall say integrally and perfectly in eternal life.** Meanwhile let us consider the shadow and similitude, which is customarily handed down — taken from the rational soul and our bodies. ***This proposition is true: "The man dies."*** For man consists of soul and body. This is not true: ***"The soul dies"*** — because only the body of the man dies; and yet the soul in the death of the man is not idle, but there is a great struggle of soul and body. But of these things soberly and modestly one must speak. For the similitudes agree [***ἀναλόγως***], as Justin says.
+
+**The Son of God Himself, when He speaks of His passion and obedience, prescribes for us a form of speaking by which is signified the ***unity of Person***** — as when before His incarnation He says (Isa. 43): ***"Thou hast made me serve in thy sins, thou hast presented labour to me in thy iniquities. I am, I Myself am."*** And Isa. 50 He retains the unity of Person, and at the same time shows the distinction of natures to be — which are not to be confounded — saying: ***"I have given My body to those striking"*** (when He says ***"my,"*** He shows the passion to pertain to Himself, and He retains the unity of Person; but when He names ***"body,"*** He distinguishes the natures and their properties) — ***"and my cheeks to those plucking, nor have I turned my face from ignominy and spitting. I have set my face like flint."*** And Zech. 12, John 19: ***"They shall look upon me whom they pierced."*** And so in the Symbol we speak: ***"Who descended from the heavens, was crucified for us."***
+
+**Most rightly, therefore, in the Church of Christ orthodox — in which true faith and confession about Christ sounds — do those judge and speak who deem the disputations and questions about either nature or about the abstract to be omitted today, and who retain the unity of Person — yet in such a way that no confusion of natures happens.** And on this cause Damascene handed down the rule: ***"Actions and passions are not of the natures, but are of the Person. Action indeed is not one in the two natures of Christ — but the properties and actions of the divine nature are different, and different are those of the human nature — on which cause stands the decree in Zonaras, volume three, page 70, against the Monotheletes: 'They who affirm one will and one action in the two natures of Christ obscurely establish also one nature; but*** [***ἀσυγχύτως δύο θελήματα καὶ δύο ἐνέργειαι διαμένουσιν***] ***— [as] Theodoret rightly speaks."***
+
+#### Second Argument of the Arians — Pater maior me est
+
+**John 14:** ***"The Father is greater than I."***
+
+**Therefore the Son is not by nature God.**
+
+**Athanasius** responds: ***"Equal to the Father according to divinity, less than the Father according to humanity."***
+
+**Basil** book 4 against Eunomius: ***"This saying indicates rather the honour of the Son toward the Father, not diminution. And it is said according to the cause-reason — since the ***principle and origin*** of the Son is from the Father. For what else does ***Father*** signify than the ***principle and cause*** of Him who is born from Him?"***
+
+**Athanasius** book 3 ***Ad Theophilum***: ***"Hearest thou, heretic — who hast only the name of Christian, and speakest with the mouth of the devil? Thou art ignorant of the cause of the dispensation of man for which it was said: 'He who sent me is greater than I.'"***
+
+***Ibid.,*** book 8: ***"The Son, as in Deity I do not say lesser — so in the form of a servant, which succumbed to passion, I confess made less, the Apostle saying: 'Him who was made a little less than the Angels, we saw, Jesus,'"*** etc.
+
+And book 9: ***"All these do not weaken the Son, nor depreciate Him — but distinguish Him from the Father, and show His humility and incarnation."***
+
+**Faustus the Bishop:** ***"He is said to be less according to the man, when He is comprehended, scourged, crucified, dies, is buried — according to God, by the virtue of resurrection He is sublimated to the heavenly [things]. As man, receiving death; as God, above death. Sometimes less, sometimes equal, sometimes Lord, sometimes servant. Then less than the Father when He assumed the form of a servant; when also younger than the mother He is found; when the Creator of the Angels is a little made less than the Angels."***
+
+**Basil** in the Epistle to Caesarius: ***"The Son is less than the Father — because on account of thee He became dead and a corpse, that He might free thee from mortality, and make thee partaker of heavenly life; that He might recover the lost sheep, and lead back the one descending from Jerusalem to Jericho (and by this surrounded by robbers) to his own [land], restored to pristine health of his fatherland."***
+
+**Augustine** ***Epistle 66***: ***"For Christ, being in the form of God, to be equal with God was not robbery, but nature — because that He assumed by being born, He did not presume by being proud. But therefore He says the Father to be greater, because He emptied Himself, taking the form of a servant, not losing the form of God. On account of which form of a servant He was made less not only than the Father, but also than Himself and the Holy Spirit — nor only [than] this most excellent Trinity, but also He was made a little less than the Angels. He was also less than men, when He was subject to His parents. On account of this therefore form of a servant, when in the fullness of time coming, being emptied, He received [it], He said: 'The Father is greater than I.' On account of that form of God, however, which He did not lose being emptied, He said: 'I and the Father are one': namely, ***man made, and God remaining.*** For the man was assumed by God — God was not consumed by man. Therefore very reasonably the man Christ is less than the Father, and equal to the Father is the same God Christ."***
+
+**Gregory of Nazianzus** book 2 ***De Filio***: ***"If in Scriptures the Father were said to be greater than the Son, but equal [nowhere] — perhaps those would have something who feign the Son to be unequal to God the Father. But since we find both in the sacred letters, what shall these little dauntlings say?*** [***"For what shall they say?"***] ***Certainly it is of things utterly impossible that the same be greater than the same, and the same be equal to the same? Or rather it appears that the greater is by cause, but equal by nature."***
+
+**From these sentences we see that the ancients received the saying of Christ (***"The Father is greater than I"***) in three senses:**
+
+**1.** Of the ***Father as cause of the Son*** [***ὡς ἀρχή***], the ***generating Person.***
+
+**2.** Of the ***humiliation of Christ*** [***κατὰ τὴν ταπείνωσιν***], which we rightly also call ***emptying [exinanitio].***
+
+**3.** Of the ***death and sufferings.***
+
+Elegant is also the response handed down by D. Philip [Melanchthon] our preceptor, of blessed memory: namely, that ***the sending divinity must be discerned from the Person sent to ministry and humiliation.*** ***"The Father is greater than I"*** — not that which pertains to essence (of which He says, ***"I and the Father are one"***), but that which pertains to ***office*** — in which ***"I am the Person sent, about to suffer, without glory: but the Father sending shall glorify me."*** Thus the Father is greater — namely, sending and glorifying. For here Christ speaks not of essence, but of His ***ministry.*** This collation of the ***sender and the sent*** is perspicuous. The sender is the fount of doctrine and approver, and is greater than the sent — that is, the minister — who from the sender received the doctrine, and is now weak, undergoes the cross, does not exercise His own power, but awaits the testimonies by which the Father adorns the Son and confirms the doctrine — namely, the ***resurrection, the mission of the Holy Spirit, all the miracles of the whole Church, and the last judgement.***
+
+**Let this rule therefore be held:** ***Some sayings speak of the essence, some of the office of Christ sent to teach, and to this obedience — that for us He should be made a victim.***
+
+**Thus John 17 it is said:** ***"Glorify me, Father"*** [***αὐτόν***] — as if to say: ***"Now I am subject to the cross, and I serve my vocation, I obey Thee. But give to me — the man, and the flesh in which I suffer — glory, which I had with Thee before the constitution of the world."***
+
+**By this rule many sayings can and ought most commodiously to be explained**, as **Matt. 20:** ***"To sit at my right hand and at my left, is not mine to give you"*** — namely, in this office in which now I discharge, sent to this obedience in teaching and suffering. But elsewhere He says: ***"All is given to me by the Father."*** And: ***"All mine are Thine, and all Thine are mine."***
+
+**Mark 13:** ***"Of that day, or hour, no one knows — neither the Angels in heaven, nor the Son, but the Father."*** ***Nor the Son*** — namely, insofar as He is sent to this office of teaching the Gospel in this life. To that office it belongs to affirm that there shall be a future judgement, the dead being raised — but to predict the day and hour does not belong to that office.
+
+**John 17:** ***"This is eternal life, that they may know Thee the only true God (Father, Son, and Holy Spirit), and Him whom Thou hast sent, Jesus Christ."*** For the offices are distinguished. In the prior part He understands the ***sending divinity***, where the three Persons are comprehended at once. The other part discerns the ***office of the Person sent (who is God and man)*** from the ***sending divinity.*** For He wishes to say this: that in the Church these two doctrines are necessary — namely, the doctrine ***who is the true God***, and the doctrine ***who is the Messiah***, and what are His benefits, and how they are to be received. First He affirms this to be the true God who sent this Messiah. Here is understood the ***divinity sending the Son***, and three Persons are understood. Then He distinguishes the ***Person sent, suffering, rising again — who is Mediatrix*** — from the ***sending divinity.***
+
+**These two doctrines must be held and joined together**, and both must be opposed to the Gentiles and others who wander from the true God, and are blasphemous against Christ. Those, He says, know not the true God, who deny this One to be God who sent the Son, and deny this Person suffered and raised again to be Christ — as all the Mohammedans of this age deny.
+
+**Let us, however, in invocation address this true God, who has manifested Himself, having sent this Person crucified and raised — and let us behold this Christ**, as He Himself says: ***"He who sees me, sees also the Father"*** — that is, all wander from God who do not so acknowledge Him — that this is the true God who sent this Person suffered and raised. Wherefore that saying in John (***"This is eternal life,"*** etc.) is to be understood as ***distinguishing the sending divinity and the Person sent*** — whence it does not follow that in the Person sent there are not two natures. This grammatical syntax therefore must be used: ***"This is eternal life, that they acknowledge Thee to be the only true God — Thee namely the sender — and this Jesus whom Thou hast sent to be the Messiah, Mediator, Redeemer, and Saviour, gathering the Church."***
+
+#### Third Argument of the Arians — Filius subijcitur Patri
+
+**1 Cor. 15:** ***"He shall deliver the kingdom to God the Father. Then also the Son shall be subjected to the Father, who subjected all things to Him."***
+
+**Therefore, the Arians said, the Son is unequal to the Father.**
+
+**Let this therefore be the ***Third Argument***:**
+
+> ***One subject is less than the superior to whom he is subjected.***
+> ***The Son is subjected to the Father.***
+> ***Therefore [the Son] is less than the Father.***
+
+**I respond to the Pauline saying**: ***The Son is subjected to the Father — not with respect to essence, but with respect to office and reign***, that the Church may acknowledge the reign to be of the divinity, and that eternal life differs from the reign of Christ in this life — not in the thing itself, but in the manner of the thing. For the Son of God shall lead His bride, or the Church, glad and triumphant to the eternal Father — and then together shall reign, no longer having the actions of ***the Deprecator*** — but ***immediately showing the divinity to us***, quickening [us], and pouring into the blessed His wondrous light, wisdom, righteousness, and joy — and God Himself shall be the end of our desires, and without end shall be seen by us, without weariness shall be loved, without fatigue shall be praised, and shall be ***all in all***.
+
+**Cyril** briefly responds thus: ***"Subjection or obedience does not take away the equality of essence and power — but shows the order of Persons."*** This brief response pleased D. Philip our preceptor. But he was accustomed to add a more proper [one]: ***"The Son"*** (he says) ***"is to be considered doubly — as regards office as the Person sent, or as regards divine essence. For as the Person sent, assuming human nature, gathering the Church and the reign by the ministry of the Gospel, and as King and head of the Church — He subjects Himself to the eternal Father, and shall deliver the reign to God the Father"*** — that is, ***shall lead the Church into the sight of the Father.*** For even if it is the same eternal reign of Christ — as it is said: ***"Of His reign there shall be no end"*** — nevertheless the ***manner differs in this life and after this life.***¹⁰⁷ⁿ
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
