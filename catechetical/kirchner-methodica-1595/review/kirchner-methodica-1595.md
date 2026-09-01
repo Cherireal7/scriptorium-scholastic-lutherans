@@ -3344,4 +3344,154 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 — ❦ —
 
-*[Locus XII closes. Locus XIII De Peccato in Genere begins in Rebuild-Tranche 14. 216 top-level Q + 99 Obj rendered so far.]*
+# Locus XIII. Of Sin in General
+
+### *De Peccato in Genere*
+
+## Question 1. What is sin?
+
+**What is sin?**
+
+**Sin (to speak generally) is a defect or inclination or action against the Law of God, offending God and meriting the wrath of God, temporal and eternal punishments, unless remission be made through the Son the Mediator.**
+
+- That sin **is a defect** is had **Rom. 3:23** — *"For all have sinned and fall short of the glory of God."*
+- That **evil inclination or evil concupiscence is sin** appears from the Decalogue, and from **Rom. 7:7**: *"I had not known sin except through the Law; for I had not known concupiscence, unless the Law had said, Thou shalt not covet,"* etc.
+- That **evil actions are sins**, likewise the Decalogue teaches, and Paul demonstrates **Gal. 5:19**: *"Now the works of the flesh are manifest, which are fornication,"* etc., *"and such like — of which I foretell you, as I have foretold, that they who do such things shall not obtain the kingdom of God."*
+- That **all sins are against the Law of God, and fight with it**, the Apostle teaches **1 John 3:4**: ***"Every one that committeth sin, worketh also iniquity: and sin is iniquity"*** — *πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ· καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία*. Item Paul **Rom. 3:20**: *"For by the Law is the knowledge of sin."*
+- That **God is angered against sin** is had **Rom. 1:18**: *"For the wrath of God is revealed from heaven against all impiety and unrighteousness of men."*
+- That **sin merits wrath of God, temporal and eternal punishments**, is had **Deut. 27** and **Rom. 6:23**: *"For the wages of sin is death."*
+
+— ❦ —
+
+## Question 2. Whence then is sin?
+
+**Whence then is sin?**
+
+**Sin is not from God.** God also **did not create it**; but God created man **in righteousness and true holiness, and gave to him most free powers of avoiding sin**. Man, however, suffered himself to be seduced by the Devil, torn away from God and his Word, and thus became a sinner — **Gen. 3**.
+
+— ❦ —
+
+## Question 3. What is the matter *in which* of sin?
+
+**What is the matter *in which* of sin?**
+
+**Respondeo**: **The corrupted nature of man, body and soul** — as hereafter in the doctrine of original sin these things shall be more fully explained.
+
+— ❦ —
+
+## Question 4. What are the properties of sin?
+
+**What are the properties of sin?**
+
+These:
+
+**I.** That she **utterly corrupts man**. **Ps. 14** — *"They are corrupt, and are become abominable in their studies."* **Rom. 3:12–17** — *"They are all gone astray, together become useless,"* etc.
+
+**II.** That **she is not idle, but ever brings forth evil fruits**. **Gen. 6:5; 8:21** — *"For the sense and thought of man's heart is prone to evil from his youth up."*
+
+**III.** That **she offends God** — **Rom. 1**.
+
+**IV.** That **she merits temporal and eternal punishments** — **Gen. 3; Rom. 6:23**.
+
+— ❦ —
+
+## Question 5. Does God punish sin so atrociously, when it seems to be but some slight defect?
+
+**Does God punish sin so atrociously, when it seems to be but some slight defect?**
+
+**Yes indeed.** For thus he has laid open his will concerning sin in his Word:
+
+- **Ezek. 18:20** — *"The soul that sinneth, itself shall die."*
+- **Rom. 6:23** — *"The wages of sin is death."*
+- **John 3:36** — *"He that believeth not the Son shall not see life; but the wrath of God abideth upon him."*
+- **Mark 16:16** — *"He that believeth not shall be damned."*
+
+Therefore let us beware of sins, nor be secure in sins. For **God is a consuming fire against impenitent sinners** — **Deut. 4**.
+
+— ❦ —
+
+## Question 6. What are the fruits of sin?
+
+**What are the fruits of sin?**
+
+**I.** The first evil fruit of sin is, that we have **the understanding darkened with darkness**, and **cannot see and rightly know God** — **Eph. 4:18**.
+
+**II.** **Most just wrath of God, terror and dread of conscience** — **Eph. 2:3**: *"We were by nature children of wrath, even as the rest."* **Ps. 6:1** — *"O Lord, rebuke me not in thy fury, neither chastise me in thy wrath."* **Job 6:4** — *"For the arrows of the Lord are in me, whose indignation drinketh up my spirit, and the terrors of the Lord fight against me."* **Wisdom 17:10–12** — *"For whereas any one is fearful, and looks about at all things, and is affrighted at every noise — this ariseth from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expecteth tragic calamities,"* etc.
+
+**III.** **Madness, blindness, and fury of mind** in all studies and works, corporal and spiritual — **Deut. 28:28; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened."*
+
+**IV.** **Horrid perversion and corruption of mind, understanding, will, heart, and of all the powers and faculties of man, and inclination to evil** — **Rom. 8; Gen. 6, 8**.
+
+**V.** **All kinds of evils, punishments, and infinite misery**, under which daily labouring we groan — **Ps. 90:7–8**: *"For we have failed in thy wrath, and are troubled in thy fury: thou hast set our iniquities in thy sight,"* etc.
+
+**VI.** **All kinds of diseases, and death itself** — **Gen. 2; Rom. 6**.
+
+**VII.** **The miserable and horrid tyranny of the Devil**, who drives us to all kinds of evils and sins, and goeth about us *as a roaring lion* — **2 Tim. 2:26; 1 Pet. 5:8; Eph. 2:1–2**: *"According to the prince of the power of this air, of the spirit that now worketh in the sons of diffidence."* And hence come **the horrid falls even of the holiest men**.
+
+**VIII.** **Eternal damnation** — **John 3:36**: *"He that believeth not the Son shall not see life; but the wrath of God abideth upon him."* **Matt. 25:46** — *"And these shall go into everlasting punishment."*
+
+— ❦ —
+
+## Question 7. Have then also the Ethnics and Gentile men had a true recognition of sin?
+
+**Have then also the Ethnics and Gentile men had a true recognition of sin?**
+
+**By no means.** For **true recognition of sin is of the hidden wisdoms of God** [*[Luther: T. 7, p. 24*]*] — **Ps. 51:6** — which is not learned save from the Word of God.
+
+And since they did not have a true notice of God's Law, how should they have known sin — **which is ἀνομία**? Sins moreover **of the first table** — as *incredulity, diffidence, security, presumption, impatience, and the like* — they **utterly did not know**. They did not know either that the nature of sin is corrupt, nor did they understand that sin merits wrath of God, temporal and eternal punishments. And although they understood *homicides, adulteries, and other sins committed against the second table* to be sins, yet **they did not know that these were atrocious sins, so greatly offending God**. Wherefore also most of them left these very crimes **either wholly unpunished, or extenuated them**. **But idolatry and superstition was with them the highest virtue** — whence also they placed the worship of God in *unchastity*.
+
+— ❦ —
+
+## Question 8. Have the Papists and their like a true recognition of sin?
+
+**Have the Papists and their like a true recognition of sin?**
+
+**By no means.** The reason is, because they **feign that the Law requires only external obedience and discipline**; just as they also feign that **man can satisfy the Law**; likewise that **man can even do more than works of supererogation, and perform more than the Law requires, if only he will**. They also **extenuate original sin**, which they call *the least of sins*; **they enjoin upon men certain acts, by which they may satisfy for their sins**. How therefore should they have a true recognition of sin?
+
+— ❦ —
+
+## Question 9. What consolation have we, who are Christians, against sin?
+
+**What consolation have we, who are Christians, against sin?**
+
+**Our chief and most eminent consolation against sin (which is an enemy and tyrant, with respect to us, unconquerable and invincible) is the obedience and satisfaction of Jesus Christ our Lord and Saviour** — **Rom. 3, 4, 5**.
+
+That **God gave us the ministry of reconciliation** — **2 Cor. 5:18** — *"in whom he offereth to us grace and reconciliation."*
+
+That moreover **he certainly promises to all penitent sinners grace, mercy, and remission of sins** — **Ezek. 33:11**: *"As I live, saith the Lord God, I will not the death of the impious, but that he be converted from his way and live."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners, of whom I am chief."*
+
+That **he offers remission of sins even to the greatest and most unworthy sinners** — **Matt. 11:28**: *"Come unto me, all ye who labour and are burdened, and I will refresh you."* **Rom. 10:12** — *"For there is no distinction of Jew and Greek; for the same is Lord of all, rich to all who call upon him."*
+
+That **never to any penitent sinner has he denied the gratuitous remission of sins, but received all** — **Luke 15:7**: *"So shall there be joy in heaven upon one sinner doing penance, more than upon ninety and nine just, who need not penance."* **Rom. 5:20** — *"But where offence abounded, grace did super-abound."* The examples of *David, Manasseh, Peter, the Thief on the cross, and the like* testify the same. Therefore in the terrors and fears of sin let us **not despair**, but with confidence approach the **eternal Father in Christ the throne of grace full of grace**, and ask remission of sins from him for Christ's sake.
+
+— ❦ —
+
+## Question 10. What opinions fight with the doctrine of sin in general?
+
+**What opinions fight with the doctrine of sin in general?**
+
+**Respondeo**:
+
+**First**, that of the **Manichaeans**, who feigned that God created sin — which opinion **Gen. 1** refutes: *"God saw all things that he had made, and behold, they were very good."* Therefore sin is not from God.
+
+**Secondly** [*[Luther: T. 3, p. 102*]*], those who feign that **God willed men to sin** — whereas **Ps. 5:4** saith: *"Thou art not a God that willest iniquity."* To speak briefly: **it cannot be that we should fall through him, through whom we rise again from sins**.
+
+**Thirdly**, those who fabricate that **no sin is in the nature of man, but that nature is now framed such as it is**. In which opinion were formerly the **Ethnic philosophers and the Pelagians**. But Scripture openly testifies **that the flesh, that is, the nature of man, is corrupted by sin** — **Gen. 6, 8**.
+
+## Objections
+
+### Objection I. Nature is good. *Ergo* in nature there is no sin.
+
+**Respondeo**: **It is a fallacy from *dictum secundum quid* to *dictum simpliciter***. Nature, in as much as also after the Fall she is a creature of God, is a good thing; but **since nature is corrupted through sin, sin cleaves in her** — as **Rom. 7:20** saith: *"Sin dwelleth in me."*
+
+### Objection II. Reason prays after the best. *Ergo* through sin she is not corrupted.
+
+**Respondeo**: **To the antecedent** — reason prays after the *first* things *politically* and *economically*, but yet **not always**. For we sometimes see *the better things, and approve them, and yet follow the worse*. **Spiritually** indeed she prays after the best only then, when to wit she has been **renewed and illumined by the Holy Spirit** — although even in the regenerate there remains a **sad war between the flesh and the Spirit, so long as the man lives** — **Rom. 7:23**: *"I see another law in my members, rebelling against the law of my mind,"* etc.
+
+— ❦ —
+
+**Fourthly**, the opinion of the **Schoolmen** fights with this doctrine — who contend that **the natural things in man are entire**. But if the natural things were entire, **the sense of the flesh would not exercise enmity against God** — **Rom. 8**; and **out of the heart evil thoughts would not proceed** — **Matt. 15**.
+
+— ❦ —
+
+*[Locus XIII closes. Locus XIV De Peccato Originali begins in Rebuild-Tranche 15. 226 top-level Q + 101 Obj rendered so far.]*
