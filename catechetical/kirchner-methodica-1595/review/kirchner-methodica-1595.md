@@ -3024,4 +3024,324 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 — ❦ —
 
-*[Locus XI closes. Locus XII De Lapsu Adami begins in Rebuild-Tranche 13. 181 top-level Q + 81 Obj rendered so far.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus XII. Of the Fall of Adam, and of the Corrupted Powers of Man
+
+### *De Lapsu Adami et Corruptis Viribus Humanis*
+
+— ❦ —
+
+## Question 1. What was the ***occasion of Adam's fall***?
+
+**What was the occasion of Adam's fall?**
+
+**The beginning of Adam's sin is from the ***temptation of Satan***, by which he seduced Eve from the Word of God**; into this temptation the first parents consented, and turned themselves away from God. [*Luther: T. 4, pp. 21, 22; Gen. 3, T. 1*] Hither pertains the ***third chapter of Genesis***, which the pious and faithful ought often and much to read in true piety, and diligently to weigh.
+
+— ❦ —
+
+## Question 2. In what ***parts of man*** did this fall happen — or from what parts of man was this fall designed?
+
+**In what parts of man did the fall happen?**
+
+**First, in the ***soul***, in the intellect and will.** Next, in all the powers, faculties, and members of the body. For the serpent, or the Devil, first persuaded the ***heart and intellect***; next also he turned the ***eyes and hands*** away from God to the ***forbidden tree***, that the first parents ate of the tree, from which God had commanded them not to eat — although what they did they did not understand, save when the fall had been committed, when they were required and addressed by God.
+
+— ❦ —
+
+## Question 3. Why does God ***so exaggerate Adam's fall, and so gravely punish***?
+
+**Why does God so gravely punish Adam's fall?**
+
+**Because Adam, when he consented to the temptation of the Devil, ***acted against the word and commandment of God***, and transgressed the whole Law.** [*Gen. 3, p. 42*] For he ***defected from God***, acted against the name and Word of God, and precipitated himself and all his posterity into sin and death; he subjected himself to the Devil, to his tyranny, judgement, and condemnation; he ***preferred the figments of the Devil to the express command of God***; he loved the evil, or the apple of the forbidden tree, above God himself — nay, he willed ***to be as God himself*** — **Gen. 3**.
+
+— ❦ —
+
+## Question 4. What is the ***penalty, force, and operation of this fall***?
+
+**What is the operation of the fall?**
+
+**I.** The first parents ***knew their own nakedness*** — **Gen. 3**. [*Luther: T. 4, p. 23; Gen. 3, p. 48*]
+
+**II.** The intellect and will, and the whole reason of them, was ***horribly confused and corrupted***.
+
+**III.** They ***flee and dread God as an enemy***. [*Gen. p. 49*]
+
+**IV.** The woman in ***troubles and pain*** brings forth children — **Gen. 3, pp. 57, 58**. [*Luther: T. 4, p. 25*]
+
+**V.** The earth is ***cursed***; instead of the most pleasant fruits, it germinates ***thorns and thistles*** — **Gen. 3, p. 59**.
+
+**VI.** Men were ***cast out of Paradise***, and exiled from Paradise, ***in labour and sweat they eat their bread*** — **Gen. 3, p. 65**.
+
+**VII.** The first parents with all their posterity are ***subjected to death***, and their sons are ***conceived and born in sins***, and consequently also they are ***sons of death***. [*Luther: T. 6, p. 232; Gen. 3, p. 65*] For what the first parents lost, they lost also for their posterity; and what evils they received, their posterity also must bear.
+
+— ❦ —
+
+## Question 5. How were Adam and Eve ***recalled unto the way***?
+
+**How were Adam and Eve recalled to the way?**
+
+**Through the ***Word of Promise***.** Of which read the third chapter of Genesis.
+
+— ❦ —
+
+## Question 6. What therefore is man in all his powers ***after the fall***, or what is the state of man after the fall?
+
+**What is the state of man after the fall?**
+
+**I.** The ***heart of man*** is the fountain and source of all the most atrocious sins — such as ***Idolatry, contempt of God, diffidence, disobedience, evil concupiscence***, etc. — **Rom. 8**. [*Luther: T. 4, p. 57; T. 7, p. 28*]
+
+**II.** He is a ***mirror and image corrupted***, and knows nothing of God and of his good will toward men. [*Luther: T. 6, p. 31*]
+
+**III.** Man is ***a slave of sin and of Satan***, and in the desires of his flesh he does the will of sin and of Satan. [*Luther: T. 3, p. 14*]
+
+**IV.** ***No good is or dwells in man***, on account of sin — which chiefly exerts itself in ***temptations and afflictions*** — **Ps. 14; Rom. 3**. [*Luther: T. 4, p. 494*]
+
+**V.** ***All are conceived and born in sins*** — **Ps. 51:7**. [*Luther: T. 6, p. 73*] Nothing therefore in us is ***innocent***, nothing ***pure or clean***.
+
+**VI.** ***All men are flesh*** — that is, their whole life, all thoughts and actions are ***carnal***, are ***enmity***, and cannot please God, unless man be born again. [*Luther: T. 7, p. 4; on Sunday of Trinity; In Postilla Eccl.; T. 5, p. 520*]
+
+**VII.** ***No man can glory of his own powers before God***. For ***all have sinned, and lack the glory of God***, and glorying is excluded — **Rom. 3:23, 26** — because ***all are conceived and born in sins***. [*Luther: T. 8, p. 53*]
+
+**VIII.** ***All are guilty in God's judgement***. **Rom. 3:19** — *"that every mouth may be stopped and all the world may be made subject to God"* — ***ἵνα ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ Θεῷ*** — **v. 22–23**: *"For there is no distinction: for all have sinned, and lack the glory of God."* They cannot glory ***that before God they are innocent and just***. [*Luther: T. 8, p. 164*]
+
+— ❦ —
+
+## Question 7. Does not man now, after the fall, ***act freely in external things***, and is he able to act?
+
+**Does man act freely in external things?**
+
+**Most certainly.** [*Luther: T. 5, p. 297 f.b.; Gen. T. 2, p. 24; T. 3, part 1, p. 72; T. 1, part 1, p. 657, part 1, p. 373 f.b.*] For the ***free will of man*** in some way still has its dominion and power over sheep, oxen, horses, and mules, over money and other things pertaining to the necessity and use of this life. But this very dominion and this power is joined with ***the greatest infirmity and difficulty***, as the daily experience of all men testifies. For we wretched men, on account of sin, are afraid of all creatures; and none is so slender and contemptible that it cannot harm us: now by fire, now by water, now by other creatures we are hurt — nay, even the flies themselves are troublesome to us.
+
+— ❦ —
+
+## Question 8. Has man ***not yet born again*** still such powers, that he can ***go to the temple, hear the Word of God there, or also at home read and consider it***?
+
+**Has unregenerate man these powers?**
+
+**Most certainly.** This the man not yet regenerate can perform. Thus also the ***Pharisees*** heard the sermons of Christ, and at home read and weighed Moses and the Prophets. And so also now the ***Jews and Papists*** read the sacred Bibles, and have much of the sacred [things] which they speak and write — yet in their ***heart they do not understand***, but folly they are to them — **1 Cor. 2:14**.
+
+— ❦ —
+
+## Question 9. How therefore can the ***Word of God heard or read*** be ***taken up and apprehended in true faith***?
+
+**How can the Word of God be truly apprehended?**
+
+**That men may attend to the Word of God and believe it, ***it is necessary that the Holy Spirit open their hearts*** — as of Lydia at Acts 16:14 we read.** It is necessary that ***Christ himself open the Scriptures to us***, if we are to understand them and embrace the Word of God with true faith — **Luke 24:32**. For out of our own natural and unregenerate powers we cannot in the least perform this.
+
+— ❦ —
+
+## Question 10. Is there therefore ***no faculty of free will in spiritual things before regeneration***?
+
+**Is there any faculty of free will in spiritual things?**
+
+**None at all.** [*Luther: T. 3, part 1, pp. 168, 217; T. 5, p. 297; T. 3, part 1, pp. 172, 183; T. 2, part 1, pp. 310, 311; T. 5, p. 164; Gen. 6, p. 115*] For of itself and per se man can ***neither understand nor act anything in spiritual things***. For man is held captive in the snare of the Devil, to his will — **2 Tim. 2:26**. Whence **Augustine, ***Contra Iulianum*** lib. 2**: *"Free will he calls slave will."*
+
+— ❦ —
+
+## Question 11. For what causes therefore are the powers of unregenerate man ***null*** in spiritual things?
+
+**For what causes are the powers of unregenerate man null in spiritual things?**
+
+**For these causes:** [*Luther: T. 3, part 1, pp. 173, 174; T. 1, pp. 429, 430; T. 3, part 1, pp. 212, 214; pp. 224 and following*]
+
+**I.** Because ***free will*** after the fall of Adam is only a ***mere title and name*** without matter; and if in the cause of religion and faith it does what seems best to itself concerning God, his Word, and our salvation, it ***sins mortally***. **Augustine, *De Spiritu et Littera***: *"Free will without the grace of God ***is worth nothing except to sin***."*
+
+**II.** Because ***every thought of the human heart is intent on evil at all times*** — **Gen. 6:5**.
+
+**III.** Because the ***flesh lusts against the Spirit, and the Spirit against the flesh*** — **Gal. 5:17**. And yet the Sophists do not fear so to conjoin and temper these things, that ***free will*** — which is nothing but ***flesh*** — should ***seek the Spirit***. [*T. 2, p. 101 f.b.*]
+
+**IV.** Because ***it expostulates with God***, chiefly in the agony of death, and ***resists the aid and grace of Christ***. **Rom. 8:7** — *"For the wisdom of the flesh is enmity against God: for it is not subject to the law of God, neither can it be."* [*T. 4, p. 24 f.b.*]
+
+**V.** Because ***free will is dead, and plainly nothing***; and is held captive in the snares of the Devil, death, and sin. **Eph. 2:1** — *"And you when you were dead in your offences and sins,"* etc. **2 Tim. 2**. If there were still some ***free will*** in us, if certain of our own powers against and into the Devil, sin, and death — Christ would not have had to die. [*Luther: T. 5, p. 297*]
+
+**VI.** Because in spiritual things there is nothing but ***mere darkness*** — **John 1:5**: *"The light shineth in darkness, and the darkness comprehended it not."* For although human reason can in some way judge concerning external things, yet ***it cannot understand the things of faith*** — **1 Cor. 2:14**: *"The sensual man perceiveth not these things that are of the Spirit of God, for it is foolishness to him: and he cannot understand,"* etc. [*T. 2, p. 220*]
+
+**VII.** Because ***free will cannot receive the word of faith*** — **John 6:44–45**: *"No man can come to me, except the Father, who hath sent me, draw him. And they shall all be taught of God. Every one that hath heard of the Father, and hath learned, cometh to me."* [*Sunday of Advent; In Postilla Eccl. p. 8; T. 6, p. 182*]
+
+— ❦ —
+
+## Question 12. What does Scripture will, when it attributes to man a ***heart of stone***?
+
+**What means the heart of stone?**
+
+**This it wills: that in the heart of man after the fall there is ***naturally no capacity, aptitude, or fitness for divine things***, and that man out of his own natural and unregenerate powers can ***in no way cooperate or operate in his own conversion***.** In external things Scripture concedes that man is able in ***wisdom and prudence***; but in spiritual and divine things it asserts that man is as it were a ***statue of salt***, and exercises the ***sense of the flesh — the enmity against God*** — **Rom. 8**; nor can he recede from his ***contumacy against God***, unless God through ordinary means changes and illuminates the heart of man. [*Luther: T. 4, part 1, pp. 522, 626, 627; T. 3, pp. 194 f.b., 218, 225; Gen. 3, p. 41; T. 2, part 1, p. 312 f.b.; T. 8, p. 283*]
+
+— ❦ —
+
+## Question 13. Is therefore the ***conversion of man*** the mere work of God, to be ascribed to his mercy alone?
+
+**Is conversion of man a mere work of God?**
+
+**Most certainly.** [*Luther: T. 2, p. 311; T. 3, part 1, p. 210*] For this work can be attributed ***neither in whole, nor in half, nor in any least part*** to human natural and unregenerate powers of free will; but is to be ascribed ***wholly to divine operation and to the Holy Spirit***. **Ezek. 36:26** — *"And I will give you a new heart, and put a new spirit within you: and I will take away the stony heart out of your flesh, and will give you a heart of flesh,"* etc. **Acts 16:14** — *"And the Lord opened Lydia's heart to attend to those things which were said by Paul."*
+
+— ❦ —
+
+## Question 14. Is it not left of human powers so much, that man — though with difficulty — can ***take up the promise of grace and languidly consent to it***?
+
+**Can man languidly consent to the promise?**
+
+**Augustine, ***De Praedestinatione*** cap. 3, confesses that he was in that opinion — that ***assent and acceptation of grace*** was in our own hand: but at the same time he confesses that he was in error therein**, and on the contrary testifies that it is the gift and work of God and the Holy Spirit alone that ***we assent to the promise of grace, and receive it with true faith***. [*Luther: T. 3, part 1, pp. 216 f.b., 171, 172*] And here is the unanimous consent of the whole Scripture, which testifies that faith — which is a true and firm confidence in God, and embraces the promise of grace offered in Christ, and makes it its own — is the ***gift and work of God***. **Phil. 1:29** — *"Because to you it is given for Christ, not only to believe in him, but also to suffer for him."*
+
+— ❦ —
+
+## Question 15. How therefore, and by what means, is man ***converted to God***?
+
+**How is man converted?**
+
+**God gives ***Word and Sacraments***, institutes the ministry through which his Word is preached** [*Luther: T. 7, pp. 333, 334, 335*], and through the preaching of the Law and various tribulations ***breaks the stony hearts*** — **Jer. 23**; through the Gospel however he ***raises again the contrite and humbled hearts*** — **Rom. 1**; kindles some little ***spark of faith*** in the hearts, that the heart of man may begin to console itself of the promise of grace and the mercy offered in Christ, and may be able to embrace it — although all these things happen in the greatest infirmity, as the father of the possessed at **Mark 9:24** professes, exclaiming with tears: *"I do believe, Lord: help my unbelief."*
+
+When therefore in thy heart thou dost feel these new motions of the Holy Spirit — even though they be as yet exceedingly weak and infirm — yet be certain that God is operating them in thee. See therefore that thou proceed ***to exercise these motions and to use them with fruit***, that daily in thee they may grow and be corroborated. As the Prophet **Jer. 31:18** prays: *"Convert me and I shall be converted: for thou art the Lord my God. For after thou didst convert me, I did penance: and after thou didst show unto me, I struck my thigh."* This the holy Prophet had ***from God alone***, and not from his own natural unregenerate powers. If therefore any despises the ministry of the Word, ***he has nothing whereof to complain*** if he be not illuminated and converted by the Holy Spirit.
+
+— ❦ —
+
+## Question 16. Does not man before his conversion have some ***mode of acting*** in divine things?
+
+**Does man have any mode of acting?**
+
+**God indeed has a mode of acting and converting man ***through the Word preached and heard***: but the unregenerate man, before his heart be illuminated and subjected to the obedience of faith, has ***no mode of operating or cooperating in his own conversion or into his own conversion***.** For man is ***dead in sins*** — **Eph. 2:1** — how then in his own conversion should he have a mode of acting before he is quickened?
+
+— ❦ —
+
+## Question 17. Is therefore the conversion of man to God ***a coercion***?
+
+**Is conversion a coercion?**
+
+**By no means.** But God ***changes the contumacious and rebellious heart of man*** and makes it obedient to himself, regenerates and renews it — that from a contumacious heart it becomes a ***spontaneous heart***, and that now regenerate it ***of its own accord*** assents to the promise of grace — **Ps. 110:3**: *"Thy people are spontaneous,"* etc. **Rom. 7:22** — *"For I am delighted with the law of God, according to the inward man,"* etc. [*T. 5, p. 310*]
+
+— ❦ —
+
+## Question 18. Can therefore the ***renewed and regenerated will of man cooperate***?
+
+**Can the regenerate will cooperate?**
+
+**Most certainly.** Whence Paul at **Rom. 7:25** says: *"Therefore I myself, with the mind, serve the law of God."*
+
+— ❦ —
+
+## Question 19. Is ***free will*** then the faculty of ***applying oneself to grace***?
+
+**Is free will the faculty of applying oneself to grace?**
+
+**By no means.** Before the fall indeed such was the faculty; but in the fall and through the fall of the first parents this faculty in spiritual things is ***plainly lost***, and the will can ***in no way apply itself to spiritual things unless it be first regenerated***. For ***the flesh profits nothing; it is the Spirit that quickens*** — **John 6:63**.
+
+— ❦ —
+
+## Question 20. Are the regenerate then so converted that ***no remaining infirmities are or remain in them***?
+
+**Are the regenerate wholly renewed in this life?**
+
+**Many in the saints and truly regenerate remaining infirmities are and remain**, as Paul at **Rom. 7:23** laments that he sees in his members ***another law fighting against the law of his mind***, etc. Wherefore they are ***not wholly renewed in this life***, but the renewal in the saints in this life is only begun; yet it ought to grow in them daily. To which they ought to contend, ***lest they receive the grace of God in vain*** — **2 Cor. 6**.
+
+— ❦ —
+
+## Question 21. What is to be thought of the ***formula of speaking*** which sets ***three concurring efficient causes*** of conversion?
+
+**What of the three-causes formula?**
+
+**This is false, if it be used of unregenerate man.** For this is certain: that the will of unregenerate man is ***in no way whatsoever*** an efficient cause of conversion. When however of regenerate men it is said: ***"The converted and regenerate will cooperates in good works, to accomplish which man was created in Christ Jesus"*** — this is rightly and piously said, and consents with the words of the Apostle, **Rom. 7:18**: *"For to will is present with me."*
+
+— ❦ —
+
+## Question 22. Is it rightly attributed to unregenerate man ***active capacity***?
+
+**Is active capacity in unregenerate man?**
+
+**This too is false.** [*Luther: T. 1, part 1, p. 501; Gen. 2, p. 24; T. 3, part 1, p. 194; T. 1, part 1, p. 190; T. 3, part 1, p. 58*] For before man is converted to God through the Holy Spirit, he is ***dead unto good*** — **Eph. 2** — and the ***wisdom of the flesh is death, because the wisdom of the flesh is enmity against God*** — **Rom. 8:6–7**. But of ***converted*** man it is rightly said that he has ***active capacity to operate good***, for the Holy Spirit kindles this in him, and makes him fit — **2 Cor. 3:4–6**: *"Such confidence we have through Christ toward God. Not that we are sufficient to think anything of ourselves as of ourselves; but our sufficiency is from God."*
+
+— ❦ —
+
+## Question 23. How therefore are the sayings of ***Chrysostom and Basil*** — *"God draws, but the willing"*; item, *"Only will, and God prevents thee"*, etc. — to be understood?
+
+**How to understand Chrysostom and Basil?**
+
+**It is agreed that these authors used these sayings ***for the establishing of natural free will in the conversion of man against the doctrine of grace***: wherefore also others who followed these authors, and used similar sayings, acted wrongly.** If however these sayings by express words were accommodated to those who are ***already regenerate***, and have renewed hearts, they could rightly be used. But in the sense in which the authors themselves, and others following them, used these sayings — ***they are opposed to the Word of God***.
+
+— ❦ —
+
+## Question 24. How therefore is that phrase of ***Luther*** — that ***man in his own conversion holds himself purely passively*** — to be understood?
+
+**How to understand Luther's ***pure passivum***?**
+
+**This is not the mind of Luther, that man is converted ***without the ministry of the Word, without the hearing of the Word***; nor is Luther's intention that ***no new motions and no spiritual operations are begun by the Holy Spirit in the conversion of man to God***.** But Luther wills this: that ***man from himself and from his own natural powers cooperates nothing in his own conversion, contributes nothing to it***; and that conversion not only in part, but ***in whole***, is the operation, gift, and work of the Holy Spirit alone — who by his divine power, through the Word, in the intellect, will, and heart of man, ***as in the subject suffering — not agent or cooperator — creates, operates, and out of mere mercy perfects***. For which also pious minds ***to him alone give thanks***.
+
+— ❦ —
+
+## Objections
+
+### Objection I. Yet in Scripture it is said: *"The Ninevites did penance at the preaching of Jonah, and believed."* *Ergo* man out of his free will can do penance and believe.
+
+**Respondeo**: **From this it does not follow that free will, or that man out of his free will, can believe.** [*Luther: T. 3, pp. 316, 217; T. 3, part 1, pp. 183, 184 and following*] For it is one thing to believe (which is the gift of God), another to believe out of one's own powers (which can in no way be ascribed to free will). The Ninevites did penance and believed — but with ***God kindling in them penitence and faith***.
+
+### Objection II. **Gen. 4:7** we read: *"Under thee shall be his appetite (of sin), and thou shalt rule over it."* *Ergo* free will can something.
+
+**Respondeo**: **This saying is a precept, teaching what is to be done — but from it it does not follow that free will can perform what God commands.** For ***from precept to power the consequence does not follow***.
+
+### Objection III. *"Convert yourselves to me,"* says the Lord — **Zech. 1**. *Ergo*, etc.
+
+**Respondeo**: **The Sophists also allege this saying ***for establishing synergy*** and confirming the faculties of free will**, as if man could convert himself. Whereas the text does not say ***what man can do***, but ***what he ought to do***. For when he says, ***"Convert yourselves to me,"*** he shows that they have need to be converted; whether however man can do this of his own powers, is not in the present passage, but elsewhere in Scripture sufficiently explicated. But ***"to be bound to do"*** and ***"to be able to do"*** are far different — wherefore Scripture is not to be explicated and used of ***"being able to do"*** when it speaks of ***"being bound to do"***.
+
+### Objection IV. If synergy be denied, it is necessary that ***προσωποληψία*** (respect of persons) be set. But it is not to be set. *Ergo* synergy is to be conceded.
+
+**Respondeo**: **The Major is false.** Respect of persons is not set even if synergy be denied. The reason evidently is taken from the definition of respect of persons. For ***respect of persons is not when to unequals unequal things are attributed***: but when, ***the merit of the causes being set aside, the judgement concerning reward or punishment is bent to a circumstance of persons wholly alien from the cause*** — as if a judge should absolve a potent homicide, and behead a poor one. If God did the same in receiving men, he could be accused of respect of persons; but he receives ***unworthy men, to whom he owes nothing***, nor does he regard any quality in them, but out of ***undue grace*** bestows on them remission of sins. Whence **Augustine, Epistle 5 to Sixtus**: *"God owes nothing to anyone. Therefore due punishment is rendered to the condemned; undue grace to the freed. Of a crime therefore respect of persons cannot be accused."*
+
+### Objection V. Perdition is attributed to men. *Ergo* also conversion.
+
+**Respondeo**: **Perdition is rightly attributed to men, and that on account of the sin in which they are conceived and born.** But salvation or conversion cannot be so ascribed to men. For it is ***wholly of God***, and not of the powers of the corrupt will, which in divine things is worth nothing. *"Thy salvation is of me,"* — **Hos. 13**.
+
+### Objection VI. That which is the cause of Papistic doubting is not to be taught. But to teach that there is no synergy in conversion to God is a cause of Papistic doubting. *Ergo*, etc.
+
+**Respondeo**: **The Minor is false.** [*Luther: T. 7, pp. 133, 134*] For other are the causes of Papistic doubting, of which in the doctrine of justifying faith it is treated. But the ***negation of synergy in conversion to God*** looks to this: not that contrite men should doubt of God's grace, but that ***seriously acknowledging the corruption of nature, they may humble themselves before God, and celebrate God the more ardently for the given mercy***.
+
+### Objection VII. Scripture calls us ***συνεργοί*** (co-workers) of God — **1 Cor. 3**. *Ergo* we have synergy in conversion.
+
+**Respondeo**: **The Apostle speaks of the ministry of the Word, through which God is efficacious and converts the hearts of men — and not of our cooperation in conversion to God.** In vain therefore is this saying twisted to ***synergy in the conversion of man to God***.
+
+### Objection VIII. In Joseph there is a struggle, when he is incited by his mistress. *Ergo* some cooperation is to be attributed to man in conversion to God.
+
+**Respondeo**: **Joseph is a man regenerate through the Holy Spirit, in whose heart the Holy Spirit had kindled the beginnings of faith.** Joseph therefore struggles ***out of the gift of the Holy Spirit*** with the flesh, and through faith, which is the ***victory that overcomes the world***, triumphs over his own flesh and over the impure suggestions of Satan. Whence it appears that this example is perversely adduced ***to establish synergy of unregenerate man in spiritual things***.
+
+### Objection IX. **Luke 11:13** — *"He will give the Holy Spirit to them that ask him."* *Ergo*, etc.
+
+**Respondeo**: **Christ speaks of the converted or justified.** For only those who believe, having the beginnings of faith, can ***worship God in Spirit and truth***, and ***ask for the increases of spiritual gifts***. Of the unconverted, **John 4** says: *"You worship that which you know not: we worship that which we know."*
+
+### Objection X. He who says ***"without me"*** concedes something to free will. Christ at **John 15:5** says: *"Without me you can do nothing."* *Ergo* he concedes something to free will.
+
+**Respondeo**: ***"Nothing"*** is not ***"something"***. Whence **Augustine**: *"When the Lord says: ***'Without me you can do nothing,'*** with this one word he comprehends beginning and end."*
+
+### Objection XI. In every donation two things must be considered: first, the ***ratio of the giver***; next, the ***ratio of the apprehender***. Conversion is such an action. *Ergo* in conversion man can apprehend the offered grace — though languidly.
+
+**Respondeo**: **Nothing thence follows for synergy.** For although those two things must be considered in conversion, it does not by any means follow that man from his own powers apprehends the offered grace. For unless the Holy Spirit — who through the Word of the Gospel offers grace to us — ***also kindles faith in the hearts out of grace, that we may apprehend the offered grace*** — we not only do not receive it, but rather ***spew it out and cast it away***. For ***the sense of the flesh is enmity against God*** — **Rom. 8** — unless it be renewed through the Holy Spirit.
+
+### Objection XII. He who cleaves to the Lord is one Spirit with him — **1 Cor. 6:17**. *Ergo* man can cleave himself to God.
+
+**Respondeo**: **The conditional indicatively sets nothing**: therefore, that man may cleave to the Lord and be one Spirit with him, it is necessary that ***the Holy Spirit cleave the heart of man, averted from God, to him by his grace and efficacy*** — otherwise man per se and out of his own powers will never cleave himself to the Lord. When the Lord opened Lydia's heart — **Acts 16** — and kindled true faith in Christ in it, Lydia was cleaved to the Lord; which had not happened, unless the heart of Lydia had been opened by the Lord out of mere grace.
+
+### Objection XIII. Espousal requires mutual consent. Conversion is a mutual espousal of Christ and the sinful man. *Ergo*, etc.
+
+**Respondeo**: **I concede that conversion demands mutual consent**, and that unless such a consent of man come to it, no conversion can happen. But the question is not ***whether man ought to assent to the promise of grace***, but ***whence he has this, unless it be given***, that he can consent to the promise of grace — or, of the promise in which grace and salvation are offered him, assent. To which Scripture answers, that ***faith or this assent is a gift of God*** — **Phil. 1:29**: *"To you it is given, that ye should believe,"* etc.
+
+### Objection XIV. To whom ***unwillingness*** is imputed, to him is ***willing*** attributed. To man ***unwillingness*** is imputed — **Matt. 23:37**: *"How often would I have gathered thee, and thou wouldst not."* *Ergo* to him ***willing*** is attributed.
+
+**Respondeo**: **The Major is false.** It does not follow: ***"We can be unwilling; therefore also willing."*** To the Minor: Christ attributes to us ***unwillingness***, but ***willingness*** he does not attribute equally. ***Unwillingness*** we have from the corruption of nature, so that ***the sensual man not only does not perceive or will the things of the Spirit of God, but also averts them, and holds them for folly*** — **1 Cor. 2**. ***Willingness*** we have not, unless it be given us divinely through the grace of the Holy Spirit through the Word — **Jer. 44**. The Jews have this — that they say to Jeremiah: *"The word which thou hast spoken to us in the name of the Lord, we will not hear from thee. But we will do every word that goeth out of our own mouth."* That however they should obey the words of the Prophet, and adhere to them with firm confidence of heart, they have not, unless they receive it from the Holy Spirit.
+
+### Objection XV. **Rev. 3:20** — *"Behold, I stand at the door, and knock."* *Ergo* men can open to the Holy Spirit when he knocks.
+
+**Respondeo**: ***From precept to power the consequence does not follow***, nor does anything follow from ***debitum to inesse***. We ought indeed to open to the Holy Spirit knocking through the Word, but Scripture and examples testify that we sooner ***close the door to him*** than we open. We can ***resist the Holy Spirit knocking***, and on account of innate corruption we ***reclaim to him gladly***. But to obey him from ourselves or our own powers we are not able, unless the Spirit himself renews the hearts, and inspires the powers of opening out of grace.
+
+### Objection XVI. **John 1:12** — *"He gave them power to be made the sons of God."* *Ergo* it is in our powers to be made sons of God.
+
+**Respondeo**: **These words of John most gravely impugn the assertion of free will or of human powers in divine things.** ***That power is given***, says John. *Ergo* before it is given, we do not have it. Whence **Augustine**: *"Power is given, that they may be made sons of God, when this itself is given to them, that they should believe in him. Which power, unless it be given by God, can be none from free will,"* — ***Contra Duas Epistolas Pelagianorum***.
+
+### Objection XVII. Faith is by hearing — **Rom. 10:17**. *Ergo* in man there is some ***cooperation to conversion or faith***.
+
+**Respondeo**: **There is no connection.** For the antecedent speaks of the ***instrumental cause*** — namely, of the ***word preached, through which faith is given***. But the consequent speaks of the ***efficient cause***. Now there is a vast difference between external preaching and faith itself, by which the heart of God assents to the promise of grace. That the heart may take up the word heard and firmly believe it, ***the efficacious motion of the Holy Spirit must come***.
+
+### Objection XVIII. **Rom. 9:16** — *"It is not of him that willeth, nor of him that runneth,"* etc. *Ergo* the will can something of itself.
+
+**Respondeo**: **In vain is this saying cited for free will, when it plainly denies it in spiritual things, and ascribes the whole conversion of man to God ***in solidum***.** The sentence of the Apostle's words is: *"It is not of him that willeth, nor of him that runneth, but of him that showeth mercy — of God"* — that ***the whole may be given to God***, who ***changes man's depraved will, and gives to him out of grace to will good***.
+
+— ❦ —
+
+*[Locus XII closes. Locus XIII De Peccato in Genere begins in Rebuild-Tranche 14. 216 top-level Q + 99 Obj rendered so far.]*
