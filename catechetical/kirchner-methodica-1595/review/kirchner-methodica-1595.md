@@ -1928,6 +1928,322 @@ The sense, therefore, of the words of the Epistle to the Hebrews is: ***that the
 
 **IV.** They teach that ***Christ indeed is Mediator of Redemption; but that there are many Mediators of Intercession — that is, deceased saints, living with God, who intercede for us and carry our prayers to God***. But that this opinion is blasphemous and detestable is manifest. For **Scripture makes only one Mediator between God and men, and not many, by whatsoever name they may be called** — **1 Tim. 2:5**. Next, the Apostle in the same place, where ex professo he treats of prayers and intercession, ***names no other Mediators of Intercession with God***, but simply and without any exception refers all the faithful ***to Christ alone the Mediator***. And the Epistle to the **Hebrews cap. 7** teaches: *"He is able to save for ever them that come to God by him: always living to make intercession for us."*
 
+He wills that ***we approach not through other intercessors, but through Christ himself, since he always lives to make intercession for us***. If Scripture had known ***Mediators of Intercession*** besides Christ, without doubt she would have signified it by even a little word. But by not a single little word, indeed not even by a syllable, has she signified it. Besides Christ therefore we ought to acknowledge and receive ***no other Mediators of Intercession***.
+
+To this, the Papists themselves are compelled to confess that Scripture ***nowhere teaches the invocation of the Saints***. What therefore Scripture does not teach, we also ought not to teach. But of this matter more below, where the invocation of God will be treated.
+
 — ❦ —
 
-*[Locus IV continues in Rebuild-Tranche 9 — Papist errors on merit continued + treatment of Christ as Prophet + King + Priest + closing of the Office locus.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus V. Of the Kingdom of Christ
+
+### *De Regno Christi*
+
+— ❦ —
+
+## Question 1. Has Christ any kingdom on these lands?
+
+**Has Christ any kingdom on these lands?**
+
+**Most certainly.** [*See Luther: T. 4, part 1, on cap. Mich. p. 550 and following; T. 7*] **Ps. 93:1** — *"The Lord hath reigned, he is clothed with beauty; the Lord is clothed with strength, and hath girded himself. For he hath established the world which shall not be moved."* **Dan. 2:44** — *"In the days of those kingdoms the God of heaven will raise up a kingdom which shall never be destroyed."* **Isa. 9:7** — *"Upon the throne of David and upon his kingdom shall he sit, to establish it and strengthen it in judgement and justice from henceforth and for ever."*
+
+— ❦ —
+
+## Question 2. What kind of kingdom is this?
+
+**What kind of kingdom is this?**
+
+**Spiritual — in which Christ gathers to himself a Church from the human race, to which he remits sins, which he gives his Holy Spirit, which he protects against the tyranny and fury of the Devil and of the world, whose prayers he hears, from all evils he frees, and with eternal life endows.** [*Luther: T. 7, pp. 309, 310; T. 5, p. 478*] **John 18:36** — *"My kingdom is not of this world."* **Luke 1:33** — *"Of his kingdom there shall be no end."*
+
+— ❦ —
+
+## Question 3. How manifold is the kingdom of Christ?
+
+**How manifold is the kingdom of Christ?**
+
+**Threefold: the kingdom of ***grace***, of ***power***, and of ***glory***.**
+
+**I.** His kingdom ***in specie*** concerns his ***holy Church on these lands***, and this is usually called the ***kingdom of grace***.
+
+**II.** He has and exercises kingdom or dominion over ***all creatures***. For all creatures are subject to his feet — **Ps. 8; Eph. 1**. And he ***presently, not absently***, rules over all creatures. And this in the Schools is usually called the ***kingdom of power***.
+
+**III.** After the resuscitation of the dead, in all eternity, he shall have and retain his kingdom. For ***of his kingdom there shall be no end***. And this is usually called the ***kingdom of glory***.
+
+— ❦ —
+
+## Question 4. Who is the author of this kingdom?
+
+**Who is the author of this kingdom?**
+
+**God himself** — **Ps. 2:6** — *"But I have been established king by him upon Sion, his holy mount."* **Dan. 2; Luke 1**. For since by the instinct of Satan men, through sin, have been torn away from God, God has established this kingdom by which lost men are ***recalled and reduced into the way and unto salvation***.
+
+— ❦ —
+
+## Question 5. In what is the kingdom of Christ chiefly occupied?
+
+**In what is the kingdom of Christ chiefly occupied?**
+
+**In consoling contrite and humbled hearts, in raising them up, in freeing them from the tyranny and power of Satan, in hearing their prayers, in freeing them from all evils and blessing them with eternal life.** [*In the Postilla on the Sunday Septuagesima; the 3rd Sunday of Advent*] **Matt. 11:5** — *"To the poor the Gospel is preached."* **Ps. 22:26–27** — *"The poor shall eat and shall be filled, and they shall praise the Lord that seek him."*
+
+— ❦ —
+
+## Question 6. What are the chief properties of Christ's kingdom?
+
+**What are the chief properties of Christ's kingdom?**
+
+**These three:**
+
+**I.** It is ***spiritual***.
+
+**II.** It is ***eternal***.
+
+**III.** It ***bestows spiritual and eternal goods, and delivers from spiritual and eternal evils*** — **John 18; Luke 1; Isa. 9; Ps. 22**.
+
+— ❦ —
+
+## Question 7. What circumstances chiefly are to be attended, in King Christ and in his kingdom?
+
+**What circumstances in King Christ and his kingdom?**
+
+**I.** That Christ is a King ***spiritual, just, poor, and meek*** — **Zech. 9:9**.
+
+**II.** That he is a King ***most eloquent*** — **Isa. 50:4**: *"The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary."* **Ps. 45:3** — *"Grace is poured abroad in thy lips."*
+
+**III.** That ***his power is above all creatures*** — **Ps. 2:8**: *"Ask of me, and I will give thee the Gentiles for thy inheritance, and the utmost parts of the earth for thy possession."* **Ps. 8:8** — *"Thou hast subjected all things under his feet."*
+
+**IV.** That he is a ***happy King***, who can subject all things to his power — **Ps. 2:9**: *"Thou shalt rule them with a rod of iron, and shalt break them in pieces like a potter's vessel."* **Ps. 45:4–5** — *"Gird thy sword upon thy thigh, O thou most mighty; with thy comeliness and thy beauty set out, proceed prosperously, and reign, because of truth, and meekness, and justice; and thy right hand shall wonderfully conduct thee."*
+
+**V.** Whom does he have as ***subjects of his kingdom***? **Matt. 11:28** — the ***labouring and heavy-burdened***.
+
+**VI.** What are the ***chief works and illustrious deeds*** of this King? **1.** He gathers to himself the Church through Word and Sacraments. **2.** To his own he gives ***remission of sins***. **3.** He ***sanctifies*** the hearts of his subjects by his Holy Spirit. **4.** He protects his own against all perils of body and soul. **5.** To his own he bestows life, joy, and eternal beatitude.
+
+**VII.** Why did it behove this King to ***suffer and die***? Namely, on account of the sins of his people — **Isa. 49; Isa. 53; Rom. 3, 4**.
+
+**VIII.** Why are also the subjects of this kingdom subject to the cross and calamities? Namely, that they may be ***conformed to the image of their King*** — **Rom. 8:29**.
+
+**IX.** How are we enrolled as ***citizens of this kingdom***, and made partakers of all this kingdom's benefits? Namely, ***through true and living faith*** — **Ps. 2 [end]**: *"Blessed are all who trust in him."* **John 3:16** — *"That all who believe in him may not perish, but may have eternal life."*
+
+**X.** Where is this kingdom of Christ? Namely, ***through the whole orb of the lands*** — **Ps. 93** — and wheresoever his Word is preached, and the Sacraments are legitimately administered according to his institution. **Ps. 2:6** — *"I am appointed King by him upon Sion, his holy mount, preaching his precept."* **Ps. 22:23** — *"I will declare thy name to my brethren."* **Matt. 28:19** — *"Going therefore, teach ye all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit."* **Mark 16:15** — *"Going into the whole world, preach the Gospel to every creature."*
+
+**XI.** What is the ***cultus*** of this kingdom? [*T. 3, pp. 330, 334*]
+
+— ❦ —
+
+## Question 8. But what is the ***end*** of this kingdom of Christ?
+
+**What is the end of this kingdom?**
+
+**The end of this kingdom is ***eternal life*** — **Luke 12:32**: *"Fear not, little flock, for it hath pleased your Father to give you a kingdom."*
+
+— ❦ —
+
+## Question 9. Is it rightly said by the ***Anabaptists*** and others that the kingdom of Christ is an ***external*** or ***corporeal*** kingdom?
+
+**Is the kingdom of Christ an external kingdom?**
+
+**By no means.** For Scripture itself calls it an ***eternal*** kingdom — **Dan. 2; Luke 1**. [*Luther: T. 3, p. 181; T. 7, p. 320; T. 4, part 1, p. 604, f. b.*] And Christ himself says that ***his kingdom is not of this world*** — **John 18**. And ***only spiritually***, through the ministry of Word and Sacraments, this kingdom is administered — **Ps. 2, 110**. Nor is it food and drink, but ***justice and peace and joy in the Holy Spirit*** — **Rom. 14:17**. Only besides, it is defended by ***spiritual arms*** — **2 Cor. 10:4**: *"For the weapons of our warfare are not carnal, but mighty to God unto the pulling down of fortifications, destroying counsels, and every height that exalteth itself against the knowledge of God, and bringing into captivity every understanding unto the obedience of Christ."* **Eph. 6:11** — *"Put you on the armour of God."* The kingdom of Christ, therefore, is not ***external and corporeal***, but ***spiritual and eternal***.
+
+— ❦ —
+
+## Question 10. Does the kingdom of Christ take away the ***political Magistrate*** and the ***economy*** (household)?
+
+**Does the kingdom of Christ abolish Magistrate and household?**
+
+**By no means.** [*Postilla, Third Sunday of Epiphany*] Christ called the **Centurion** — **Luke 7** — and the **Ruler** — **John 4** — and others to his kingdom, but he did not bid them to forsake their vocation and mode of life in which they had been divinely established. Whence Paul, **Gal. 3:27–28**: *"For as many of you as have been baptised in Christ have put on Christ. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female. For you are all one in Christ Jesus."* Not therefore under pretext of Christ's kingdom is vocation to be forsaken, and another kind of external mode to be instituted — as the Monks and Nuns were wont to do. Let Christian men, therefore, learn to ***rightly discern the kingdom of Christ and the external life***.
+
+— ❦ —
+
+## Question 11. Is the kingdom of Christ ***bound to some certain place, time, or certain persons***?
+
+**Is the kingdom bound to place, time, or persons?**
+
+**By no means.** [*Luther: T. 3, p. 32, f. b.*] For Christ himself says at **Luke 17:20–21**: *"The kingdom of God cometh not with observation; neither shall they say, Behold here, or behold there"* — which the other Evangelists have rendered: *"Behold here is Christ, or there"* — as if he said: *"The kingdom of Christ consists not in external things, places, times, persons, external works,"* but as he there says: *"For lo, the kingdom of God is within you."* Which, on account of the Papists (who will have the kingdom of Christ bound to these circumstances), is to be held.
+
+— ❦ —
+
+## Question 12. What is the difference between the kingdom of Christ and the kingdoms of this world?
+
+**What difference between Christ's kingdom and the kingdoms of this world?**
+
+**I.** The kingdoms of this world are administered by ***mere men***: but Christ is not only Man but also true God, and as God and Man administers his kingdom.
+
+**II.** The goods of the kingdoms of this world are chiefly ***external peace and honest discipline***. But the kingdom of Christ ***comprises and bestows spiritual and eternal goods*** — namely, remission of sins, justice availing before God, the Holy Spirit, eternal life. [*Postilla on the Sunday for Peace of Kingdoms*]
+
+**III.** The kingdoms of this world dominate only over the ***external members***, and coerce them: but the kingdom of Christ dominates over the ***heart and the whole man***, and regenerates and renews the same — **Ps. 51:12**: *"Create in me a clean heart, O God."* **Ezek. 36:25–26** — *"I will pour upon you clean water, and you shall be cleansed from all your filthiness, and I will cleanse you from all your idols; and I will give you a new heart, and put a new spirit within you,"* etc. [*Luther: T. 7, p. 319*]
+
+**IV.** The kingdoms of this world are administered by ***external and corporeal force, sword, and troops***: but the kingdom of Christ is administered by ***Word and Holy Spirit*** — **Ps. 2, 110**.
+
+**V.** The kingdoms of this world are enclosed within certain terms: but the kingdom of Christ diffuses itself unto the ends of the earth over the whole world — **Ps. 2:8**: *"He shall rule from sea to sea, and from the river to the ends of the earth."* **Dan. 2; Luke 1**. [*Luther: T. 5, p. 160*]
+
+**VI.** The kingdoms of this world have their periods, and at last altogether fall down. But the kingdom of Christ is ***eternal*** — **Luke 1; Dan. 2**. Difference between the kingdom of God and of Christ — **T. 6, p. 242**. How this shall be handed over to the Father — **T. 6, p. 236**.
+
+— ❦ —
+
+## Question 13. What is the ***use*** of this doctrine of the kingdom of Christ?
+
+**What is the use of this doctrine?**
+
+**That we may know and firmly hold this immoveable consolation: that Christ is our King, Lord, and Head, that in all perils he is present to us, protects and cherishes us, hears our prayers, delivers us from all evils, and at last will give us eternal life. For to confer these benefits upon us, he is our King. Let us therefore confidently ask and expect all these things from him.**
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VI. Of the Eternal Priesthood of Christ
+
+### *De Aeterno Christi Sacerdotio*
+
+— ❦ —
+
+## Question 1. Is Christ an ***eternal Priest***?
+
+**Is Christ an eternal Priest?**
+
+**Most certainly.** **Ps. 110:4** — *"Thou art a Priest for ever."*
+
+— ❦ —
+
+## Question 2. Who therefore is the highest Priest?
+
+**Who is the highest Priest?**
+
+**Respondeo**: **The highest Priest is the ***second Person*** of the Divinity, ***true God and true Man***, who himself brought forth the doctrine of the Gospel from the bosom of the eternal Father, interceded for the human race, and offered himself for it, that he might sanctify us men unto eternal life** — **Ps. 110; John 17**.
+
+— ❦ —
+
+## Question 3. In what things consists the ***priestly office*** of Christ?
+
+**In what does the priestly office of Christ consist?**
+
+**Chiefly in these four:** [*Luther: T. 7, pp. 340, 341, 342*]
+
+**I.** That he ***brought forth from the bosom of the eternal Father, and narrated to us, the mystery of the Gospel*** concerning the gratuitous mercy of God toward sinful men — a mystery unknown to all men. **John 1:18** — *"No man hath seen God at any time: the only-begotten Son, who is in the bosom of the Father, he hath declared him."*
+
+**II.** In ***intercession***. For he alone, by his intercession, ***reconciled us to the eternal Father***, and ***obtained eternal grace for us from the Father*** — **Isa. 53:12**: *"And he hath prayed for the transgressors."* **John 17; Heb. 4, 5, 7**. And daily he ***intercedes with the Father for us*** — **Rom. 8:34**.
+
+**III.** That ***once on the altar of the cross he offered himself for us, and by his sacrifice acquired eternal redemption for us*** — **John 17:19**: *"And for them do I sanctify myself, that they also may be sanctified in truth."* **Heb. 9:12** — *"Christ by his own blood entered once into the Holies, having obtained eternal redemption."* **Heb. 10:10** — *"In which will we are sanctified, by the oblation of the body of Jesus Christ once."*
+
+**IV.** That ***daily through the ministry of the Word he teaches us, calls us to himself, sanctifies us, and effectively renders us partakers of his redemption and of all his benefices*** through faith — **2 Cor. 5:20**: *"For Christ therefore we are ambassadors, God as it were exhorting by us. For Christ, we beseech you, be reconciled to God."* **Rom. 1:16** — *"The Gospel is the virtue of God unto salvation to every one that believeth."* **Rom. 10:17** — *"Faith cometh by hearing, and hearing by the word of Christ."*
+
+— ❦ —
+
+## Question 4. Is Christ ***alone*** the highest Priest of the New Testament?
+
+**Is Christ alone the highest Priest of the New Testament?**
+
+**Most certainly.** For **Scripture at Ps. 110 attributes this honour to Christ alone**: *"Thou art a Priest for ever after the order of Melchisedech."* **2.** And he alone accomplished this pontifical and priestly munus and office on the altar of the cross — **Isa. 53:11** — *"He shall bear their iniquities."* **Heb. 9, 10** — *"acquired eternal redemption."* **3.** He also alone could perform this. For he alone is ***ἀναμάρτητος*** and without sin — **Isa. 53:9**: *"Because he had done no iniquity, neither was there deceit in his mouth."* **Heb. 7:26–27** — *"For it was fitting that we should have such a High Priest — holy, innocent, undefiled, separated from sinners, and made higher than the heavens; who needeth not daily (as the other priests) to offer sacrifices first for his own sins,"* etc. He alone can also sanctify, efficaciously impute his merit to us, alone hear prayers, free from evils, and save.
+
+— ❦ —
+
+## Question 5. Is not the Roman Pope also the ***Pontifex and highest Priest of the Church***?
+
+**Is not the Roman Pope the highest Priest of the Church?**
+
+**By no means.** Scripture nowhere gives him such testimony as it gives to Christ. But he — as ***thief and robber*** — snatches to himself this honour proper to Christ, taking it from Christ. Nowhere in Scripture is it read that he has been ordained by God to make satisfaction for the sins of the people or to offer. Nor can it be said of him that he is ***ἀναμάρτητος*** and ***separated from sinners***; nay, Scripture at **2 Thess. 2:3** gives express testimony of him that he is the ***man of sin and the son of perdition***. So also he is not ***God and Man in one indivisible and indissoluble Person***, as Christ our highest Priest; likewise he cannot ***save and preserve those who through him approach God***; nor can he sit at the right hand of God and make intercession for us. Blasphemously, therefore, the Roman Pontiff affects the office of the highest Priest of Christ and ascribes it to himself.
+
+Nor does it help him that he says he is the highest Pastor of the Church by reason of ministry alone, that he may govern her by the power handed to him as ***Vicar***. For Sacred Scripture acknowledges no such highest Pastor. Christ himself did not institute such. The Apostles also did not acknowledge such a highest Pastor of the whole Church dispersed throughout the orb of the lands. **Peter** the Apostle, whose ***successor*** the Pope wills to be, nowhere arrogated to himself such pastorate over the ***Catholic Church***; nay, if it had been offered to him, he would never have received it. For he knew that ***Christ alone is the highest and only Pastor of the Catholic Church***.
+
+— ❦ —
+
+## Question 6. What difference is there between the highest Priest of the Old and of the New Testament?
+
+**What difference between the highest Priest of Old and of New Testament?**
+
+**I.** The difference is in the ***institution***. Aaron's priesthood was instituted ***without an oath***: Christ's priesthood with an oath intervening — **Ps. 110**: *"The Lord hath sworn,"* etc. **Heb. 7:20–21**: *"The others indeed were made priests without an oath, but this one with an oath, by him that said to him: The Lord hath sworn."* [*Luther: T. 7, pp. 336, 337, 338, 339*]
+
+**II.** The highest Priest of the Old Testament was only ***Man, and indeed a sinner***. But Christ is God and Man in one Person, and ***separated from sinners*** — **Heb. 7**.
+
+**III.** The highest Priest of the Old Testament was chiefly ***minister of the Law***. But Christ ***brought forth and narrated the Gospel***, unknown to every creature, from the bosom of the eternal Father — **John 1**.
+
+**IV.** The priests of the Old Testament prayed for the people ***for a brief time***. For they were ***mortal men***. But Christ is ***eternal Pontifex***, and always makes intercession for us with the Father — **Rom. 1**. [*Luther: T. 7, p. 338*]
+
+**V.** The priests of the Old Testament offered only ***the blood of bulls and goats***, which could not cleanse consciences from sins. But Christ ***through his own blood entered into the Holies, and acquired eternal redemption*** — **Heb. 9:12; 10:10**.
+
+**VI.** The priests of the Old Testament offered ***for their own and the people's sins***. But Christ offered himself ***not for his own, but only for the people's sins*** — **Isa. 53**.
+
+**VII.** In the Old Testament ***many were priests, succeeding each other***. The New Testament has ***one highest Priest, who admits no successor***. For he is ***Priest for ever*** — **Ps. 110; Heb. 7:21, 23**: *"And they indeed were made many priests, because by reason of death they were not suffered to continue: but this one, because he continueth for ever, hath an everlasting priesthood."*
+
+— ❦ —
+
+## Question 7. What are the sacrifices of the New Testament?
+
+**What are the sacrifices of the New Testament?**
+
+**The New Testament has ***one*** ἱλαστήριον ***sacrifice*** — Christ Jesus himself, who offered himself to God, and acquired eternal redemption** — **Heb. 10:10**. Which sacrifice ***needs not to be offered oftener***. *"Every priest indeed"* (says the Apostle at **Heb. 10:11–12**) *"is ready daily ministering, and often offering the same sacrifices which can never take away sins. But this one, offering one sacrifice for sins, for ever sitteth at the right hand of God,"* etc. It is a horrid blasphemy, therefore, when the Papists say that ***Christ is daily to be offered in the Mass to the Father***. All the remaining sacrifices of the New Testament are only ***εὐχαριστικά*** — that is, they are such works as God has commanded, and which believers ought to do — ***not to merit eternal life, but to show gratitude***. **1 Pet. 2:5** — *"And be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God by Jesus Christ."* **Rom. 12:1** — *"I beseech you therefore, brethren, by the mercy of God, that you present your bodies a living sacrifice, holy, pleasing to God, your reasonable service."* **Ps. 50:14** — *"Offer to God the sacrifice of praise."* **Ps. 51:19** — *"A sacrifice to God is an afflicted spirit: a contrite and humbled heart, O God, thou wilt not despise."*
+
+— ❦ —
+
+## Question 8. To this manner, then, are all true Christians ***spiritual priests***?
+
+**Are all true Christians spiritual priests?**
+
+**Most certainly.** For Peter, **1 Pet. 2:9**, says: *"But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light."* [*Luther: T. 7, pp. 345 f.b., 347, 348*] And **Rev. 1:5–6** — *"Who hath loved us, and washed us from our sins in his own blood, and hath made us a kingdom, and priests to God and his Father."* These testimonies perspicuously demonstrate that ***all the faithful in the New Testament are spiritual priests***. Wherefore each in his own vocation can ***propagate the doctrine of the Gospel, pray for themselves and for others, give thanks to God with heart and mouth for his benefits, and judge of every doctrine according to the norm of the Divine Word*** — **Matt. 7:15**: *"Beware of false Prophets."* **Gal. 1:8** — *"But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema."* **John 10:5** — *"But a stranger they follow not."* **1 Cor. 14:29** — *"And let the prophets speak, two or three; and let the rest judge."* The distinction between ***the ministry of the Word and the priesthood of all the faithful*** — **T. 7, pp. 345, 346, 347, 348**.
+
+— ❦ —
+
+## Question 9. What is the ***use*** of this doctrine of the highest priesthood of Christ?
+
+**What is the use of this doctrine?**
+
+**That we may know and believe: Christ is our Pontifex and Intercessor, who offered himself for us, who makes intercession for us with the Father in all our temptations and afflictions, who hears our prayers and groans, and makes our prayers, and to whom we may and ought to approach with full confidence.**
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VII. Of the Holy Spirit
+
+### *De Spiritu Sancto*
+
+— ❦ —
+
+## Of the Word ***Spirit***
+
+The vocable ***Spirit***, though in Scripture it signifies various things, in this place ***notes the third Person of the Divinity, who sanctifies and consoles us***. [*Luther: T. 4, p. 411, f. b.*]
+
+— ❦ —
+
+## Question 1. Who therefore is the ***Holy Spirit***?
+
+**Who is the Holy Spirit?**
+
+**The Holy Spirit is the ***third Person*** in the sacrosanct Trinity, who ***proceeds from the Father and the Son***, and is sent, that through the ministry of Word and Sacraments in the Church he may be efficacious, may excite and kindle true conversion and faith in the hearts of men, and may vivify and renew the hearts of men.**
+
+This description has been drawn from the manifest testimonies of Scripture. **John 14:16** — *"And I will ask the Father, and he shall give you another Paraclete, that he may abide with you for ever."* By which words Christ himself shows the Holy Spirit to be ***another and distinct Person*** from the Father and the Son. **John 15:26** — *"But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me."* **John 16:8** — *"And when he is come, he will convince the world of sin,"* etc.
+
+— ❦ —
+
+## Question 2. Demonstrate to me that the Holy Spirit is a ***ὑφιστάμενον*** Person subsisting per se, and not any created quality or motion in the hearts of men.
+
+**Demonstrate that the Holy Spirit is a Person, not a created quality.**
+
+**I.** **Ps. 33:6** — *"By the word of the Lord the heavens were established, and all their virtue by the Spirit of his mouth."* By which words expressly the work of creation is ascribed to the Holy Spirit together with the Father and the Son. He is not therefore ***a created quality or motion, but the Creator himself*** — necessarily so.
+
+**II.** Christ also, in the institution of Baptism, **Matt. 28**, commanded that all nations be baptised in the name of the Holy Spirit, and his name be invoked upon them. He wills not, however, that we invoke any created quality. The Holy Spirit therefore is not a ***created motion or creature***.
+
+**III.** The very apparition and manifestation made in the Baptism of Christ (**Matt. 3; John 1**), when he descended in the form of a dove, and remained upon Christ, shows him to be ***not a created motion, but a Person subsisting per se***.
+
+**IV.** By the same reason: since Christ himself calls him ***Paraclete*** — **John 15** [*Luther: T. 7, p. 89, f.b.; T. 6, p. 166 f.b.; T. 6, p. 136 f.b.; T. 6, p. 121*] — he shows him to be ***not a created quality, but a Teacher***, and consequently a ***Person subsisting per se***.
+
+— ❦ —
+
+## Question 3. Is the Holy Spirit ***true and eternal God***?
+
+**Is the Holy Spirit true and eternal God?**
+
+**Most certainly.** [*Luther: T. 7, p. 166 f.b.*] For:
+
+**I.** He is the ***third Person of the Divinity*** — **Matt. 28:19**: *"Baptise them in the name of the Father, and of the Son, and of the Holy Spirit."* True and eternal therefore he must be — for it is not lawful to say or to think anything ***created*** in the sacrosanct Trinity, as **Epiphanius** rightly writes.
+
+**II.** He himself is of the ***essence of the Divinity***. **Joel 2:28** — *"I will pour out my Spirit upon all flesh."* **Isa. 59:21** — *"My Spirit that is in thee."* **John 15:26** — *"But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father."* It is required, therefore, that he be true God from the essence of the Father and of the Son.
+
+— ❦ —
+
+*[Locus VII continues in Rebuild-Tranche 10 — remaining Q&A on the divine works of the Holy Spirit, his operation through Word and Sacraments, distinction from Word, and refutation of pneumatological errors.]*
