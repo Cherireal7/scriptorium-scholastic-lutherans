@@ -4129,4 +4129,153 @@ And what should our works do in so great a matter? — since we are creatures, a
 
 — ❦ —
 
-*[Locus XVII closes. Locus XVIII De Lege begins in Rebuild-Tranche 21. 265 top-level Q + 131 Obj rendered so far.]*
+# Locus XVIII. Of the Law
+
+### *De Lege*
+
+## Question 1. What is the Law?
+
+**What is the Law?** [*[Luther: T. 3/1, p. 87; T. 5, p. 474; T. 4, p. 68 fine*]*]
+
+**The Law is nothing other than the Word and precept of God, wherein he prescribes to us what we ought to do, and what to omit, and demands our obedience and works interior and exterior; but our disobedience he arraigns as contumacy, and threatens his wrath and eternal damnation to the transgressors** — **Exod. 20; Deut. 27; Gal. 3**.
+
+— ❦ —
+
+## Question 2. How is the Decalogue divided?
+
+**How is the Decalogue divided?**
+
+**Into two tables.**
+
+- **The prior table**, containing the **first three precepts**, teaches what we ought to be toward God.
+- **The posterior**, comprehending the **seven subsequent precepts**, shows what we ought to be toward men or our neighbour.
+
+— ❦ —
+
+## Question 3. Who promulgated the Decalogue?
+
+**Who promulgated the Decalogue?**
+
+**God himself**, as the history of **Exod. 19, 20** shows. For as he alone created man, so he alone also prescribed to him the norm and rule of life. **First, in the very creation he sculpted this norm of righteousness upon the hearts of the first men.** And afterwards, when through the fall of the first parents the Law had been obscured, he **repeated the same at Mount Sinai** — to which promulgation **the angels ministered** — **Acts 7:53**. This same Law **Christ, Matt. 5, 6**, most excellently and beautifully expounded.
+
+— ❦ —
+
+## Question 4. But to whom is the Law given?
+
+**But to whom is the Law given?**
+
+**To all men, Jews and Gentiles.** For it is in the very creation sculpted upon the hearts of all men — **Rom. 1, 2**. Wherefore it also obliges all men, and here is no distinction — **Rom. 3:22–23**: *"For all have sinned."*
+
+— ❦ —
+
+## Question 5. But what obedience does the Law of God require from us men?
+
+**But what obedience does the Law of God require from us men?**
+
+**Perfect obedience, absolute in all its numbers — interior and exterior** — that **we love God with the whole heart, and our neighbour as ourselves**. **Deut. 6:5** — *"Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole strength."* **Matt. 22:37–39** — *"Thou shalt love the Lord thy God with thy whole heart, with thy whole soul, and with thy whole mind: this is the greatest and first commandment. And the second is like unto this: Thou shalt love thy neighbour as thyself."*
+
+Wherefore it arraigns not only external offences, but also **the interior transgressions and prevarications of heart and soul** — **Rom. 7:14** [*[Luther: T. 2/1, p. 473*]*]: *"We know that the Law is spiritual, but I am carnal, sold under sin."*
+
+**Greatly therefore err the Pharisees and Papists**, who teach that the **Law requires only external obedience, and arraigns and condemns only external sins, but not the internal uncleanness of the heart**. For **the Law does not acquiesce, unless perfect obedience be shown to it by us, and sufficient punishment be paid out** — which hence appears, because **Christ had to fulfil the Law not only by his most perfect obedience, but also to pay out and satisfy for all our sins through his wounds and death, as a sufficient *ἀντίλυτρον*** — **Rom. 4:25**: *"Who was delivered up for our offences, and rose again for our justification."* **Rom. 5:19** — *"For as by the disobedience of one man many were made sinners, so also by the obedience of one shall many be made just."* **Rom. 8:3** — *"For what was impossible to the Law, in that it was weak through the flesh, God, sending his own Son in the likeness of the flesh of sin, of sin damned sin in the flesh,"* etc. **Rom. 10:4** — *"For Christ is the end of the Law unto righteousness to every believer."*
+
+— ❦ —
+
+## Question 6. What promises has the Law?
+
+**What promises has the Law?**
+
+**Conditional.** *"Do this, and thou shalt live"* — **Luke 10:28; Rom. 2:12**: *"For the hearers of the Law are not just before God, but the doers of the Law shall be justified."* **Matt. 19:17** — *"If thou wilt enter into life, keep the commandments."*
+
+But since **no one keeps or does these**, no one of men **through his own works or merits can be made partaker of the promises of the Law**.
+
+— ❦ —
+
+## Question 7. To what end therefore has the Law been given?
+
+**To what end therefore has the Law been given?**
+
+**Chiefly for three causes.** [*[Luther: T. 6, pp. 583, 584; T. 4/1, pp. 98, 99, 103 sqq.*]*]
+
+**First**, **for preserving external discipline, and coercing sins in all orders and estates** — **1 Tim. 1:9**: *"Knowing this, that the Law is not laid for the just, but for the unjust."* And for this cause also **parents, magistrates, and teachers are ordained by God, that they may be custodians of external discipline according to the Law of God, and coerce sins**.
+
+**Then, that it may reduce us men (otherwise secure) to a true knowledge of our sins, and work in our hearts wrath and terror** [*[Luther: T. 4/1, pp. 49–50*]*] — whence it is said **Rom. 3:20**: *"For by the Law is the knowledge of sin."* **Rom. 4:15** — *"For the Law worketh wrath."* For since we men by nature do not understand what is sin and the wrath of God, nor know how horribly our nature is corrupted, **God through the preaching of the Law kills and terrifies our hearts, contrites and humiliates them, that they may be humiliated in the judgement of God**, nor thus secure and obstinately glory and grow insolent, as otherwise, unless they be prepared by the severe preaching of the Law, they are wont to do. **If even the preaching of the Law effects nothing in us**, God applies **the cross, temptations, sicknesses, and afflictions of every kind, that he may soften our hearts, and through these terrors and dreads terrify our heart and conscience, and stir up and, as it were, vivify sin in the conscience** — for **without the Law sin is dead** — **Rom. 7:8–9**.
+
+**Thirdly**, [*[Luther: Postilla Ecclesiastica in Epist. dei Circumc.; Dom. III Trinit. in Evang.; Postilla Domestica Dom. 3, 4 Adventus; Epiphan. 13 Trinit.; T. 3, p. 407; T. 7, p. 264; T. 4/2, p. 526*]*] **that it may show to the regenerate and faithful, what works please God, and how they ought to conform their whole life to the will of God** — **Ps. 1:2**: *"But in the Law of the Lord is his delight."* **Rom. 7:22** — *"For I delight in the Law of God according to the inward man."* **Ps. 119:105** — *"Thy Word is a lamp unto my feet, and a light unto my paths."* And finally, **that it may admonish the regenerate of the remaining infirmities, and deter them from security and other sins**.
+
+— ❦ —
+
+## Question 8. Can we not therefore in this life fulfil the Law of God, and satisfy it?
+
+**Can we not therefore in this life fulfil the Law of God, and satisfy it?** [*[Luther: Postilla Domestica, in festo circumcisionis Christi; Postilla Ecclesiastica 3 Advent*]*]
+
+**By no means.**
+
+**Men not-regenerate cannot satisfy the Law of God.** For an evil tree cannot bring forth good fruits — **Matt. 8[7]:8**. And **an evil man out of the evil treasure of his heart brings forth evil things** — **Matt. 12:35**. To this, **human nature cannot bear even to hear the voice of the Law**, much less fulfil the whole Law by doing — **Exod. 19, 20; Deut. 5**. It is besides most certain that **there can be given no one of rational men, who would perfectly perform and fulfil the Law** — **Rom. 3:20**: *"For by the works of the Law shall no flesh be justified before him."*
+
+And **Moses himself, Exod. 34:7**, testifies that **no one of men perfectly obeys the Law**: *"For no one is innocent per se before thee."* The same the Prophets and Apostles testify. **Ps. 130:3** — *"If thou, O Lord, wilt observe iniquities, Lord, who shall stand?"* **Ps. 143:2** — *"Enter not into judgement with thy servant, for no living shall be justified in thy sight."* The same **Christ** also shows in the **parable of him who fell among the robbers, Luke 10**; and in the other **parable of the servant owing his Lord ten thousand talents, Matt. 18:24**.
+
+— ❦ —
+
+## Question 9. But perhaps the regenerate and faithful can fulfil the Law of God?
+
+**But perhaps the regenerate and faithful can fulfil the Law of God?**
+
+**By no means.**
+
+Since **even of the regenerate and faithful themselves Scripture pronounces** [*[Luther: T. 4/1, pp. 41, 42, 47, 48, 49, 106, 107, 126, 130; T. 4/1, pp. 81, 82*]*] that **they have remnants of sins** — **Ps. 51; Rom. 6, 7**. But where remnants of sins are, there is no fulfilling of the Law. Likewise, Scripture says that also in the faithful **the old Adam remains with depraved concupiscences and cupidities** — **Eph. 4:22; Col. 3:9**. But where depraved concupiscences and desires of the flesh remain, there is no fulfilment of the Law. Moreover, the same Scripture testifies **that love of God even in the regenerate is imperfect** — for **there remain in all depraved cupidities and enmities of the flesh against God, which in men, while they live, cannot be plainly extirpated**. To this, expressly it says **we are not perfect** — **Rom. 7:18**: *"For to will is present with me, but to perform that which is good I find not."* Finally, it teaches **that all the faithful daily in the Lord's Prayer seek remission of their sins**.
+
+From all these it is manifest that even the regenerate and faithful themselves **cannot fulfil the Law and exhibit perfect obedience to it**, although a new obedience through the Holy Spirit be begun in them.
+
+## Objections
+
+### Objection I. **Rom. 7:25** — *"With the mind I serve the Law of God."* *Ergo* the Law can be satisfied.
+
+**Respondeo**: **But the same Apostle in the same chapter writes of himself, that with the flesh he serves the law of sin.** Therefore he did not fulfil the Law. **For where sin is still remaining, there is no fulfilment of the Law.** As the holy Apostle lacked, much more shall the Monks lack.
+
+### Objection II. **Rom. 8:9** — *"But ye are not in the flesh, but in the Spirit."* *Ergo* the Law is possible to such.
+
+**Respondeo**: **But the same Apostle in ch. 8 writes: The sense of the flesh is enmity against God, and is not subject to the Law of God, nor even can be** — which is also true of the most holy. For no one is wholly free from this sense of the flesh, while he lives in this life. And the phrase, *to be in the Spirit*, does not will this: that the regenerate perfectly follow the leading of the Spirit — but **in some way**. For **only to will is present with the saints, but to perform they find not** — **Rom. 7**. **The mortification of the affections of the flesh is inchoate in the saints, but shall only be perfected in the future life.**
+
+### Objection III. **Gal. 3:26** — *"Ye are all sons of God."* *Ergo* the Law is possible to the sons of God — nay, they can supererogate somewhat.
+
+**Respondeo**: **The Apostle calls believers sons of God, not because they perfectly satisfy the Law, but because through faith on Christ they have been gratuitously adopted as sons and heirs.** For no one perfectly obeys the Law. **Nor does it follow: The sons of God are no longer under the pedagogue, that is, under the damning Law — *ergo* they can supererogate something.** For that they cannot be damned by the Law happens not because they perfectly satisfy the Law, but because **there is no condemnation to those who are in Christ Jesus** — **Rom. 8** — and that on account of Christ's intercession and merit, not on account of their works of supererogation, which are none. Since in this life they never satisfy the divine Law, how shall they supererogate — that is, do more than the Law demands?
+
+### Objection IV. In the regenerate there is love. *Ergo* the regenerate fulfil the Law. For **Rom. 13** it is said: *"Love is the fulness of the Law."*
+
+**Respondeo**: **But not *perfect* love.** If in the regenerate in this life there were so great a perfection of love as the divine Law demands (**Deut. 6; Matt. 22**), the regenerate would fulfil the Law. But **such a love of God and neighbour, absolute in all its numbers, no one of the saints had or has in this life**. **In vain therefore is the fulfilment of the Law attributed to the saints or regenerate.** **Augustine** rightly holds, saying: *"The fullest love, which cannot now be increased, so long as man lives, is in no one."* Therefore not even perfect fulfilment of the Law of love is in the regenerate.
+
+### Objection V. **Phil. 3:15** — *"As many therefore as be perfect."* *Ergo* there is perfection in the regenerate.
+
+**Respondeo**: **The Apostle speaks not of perfection according to the divine Law, but of sincerity of faith and obedience toward God without hypocrisy** — which he opposes against the Pharisees and similar hypocrites, **who simulate a study of piety, but without true faith and spiritual motions of the heart**. For the word *perfect* in the sacred letters does not always signify **perfect and in all its numbers absolute fulfilment of the Law**. But **most often sincerity of faith**, and it is opposed to hypocrisy or simulated piety. For even the holiest men are found imperfect, if you compare their life with the true and exact sentence of the divine Law.
+
+### Objection VI. *"If thou wilt enter into life, keep the commandments"* — **Matt. 19:17**. *Ergo* the Law can be done.
+
+**Respondeo**: **The conditional posits nothing, but only signifies what ought to be done.** And that the young man did not perfectly observe the Law (though he arrogated much to himself), the very thing teaches. For **through sadness of soul he departs from Christ**, when he hears **that his riches must be left on account of the command of Christ**.
+
+### Objection VII. *"If thou wilt be perfect, go, sell all which thou hast, and give to the poor"* — **Matt. 19:21**. *Ergo* man can perfectly satisfy the Law.
+
+**Respondeo**: **The perfect fulfilment of the divine Law and this personal precept differ from one another immensely** — by which Christ convicts the heart of this young man, that he was very far from that perfection of which he presumed. For **he gloried of supreme sanctity**. There **Christ, that he might confound him, proposes to him this precept**: *"Go,"* etc. — hearing which, **he departs sadly** from him, by the very deed testifying **that he loved riches above God, and had never ascended to the summit of the perfect love of God**. But from this personal precept, by which the Lord willed to shatter the proud persuasion of this young man, to conclude that **the perfect fulfilment of the Law is possible to men, and that perfection is placed in the selling of riches** (which men by their own arbitrament choose for themselves), **is a frivolous invention of the Monks**.
+
+### Objection VIII. **Rom. 8:4** — *"That the justification of the Law may be fulfilled in us."* *Ergo* the regenerate fulfil the Law.
+
+**Respondeo**: **It is a perverse twisting of the Pauline saying.** For the Apostle by those words does not speak of the fulfilment of the Law which in the regenerate is rather *begun* than *perfect* in this life, **but of the fulfilment of the Law made by Christ**, which is gratuitously reckoned to believers, to whom the Law or the perfect fulfilment of the Law is impossible on account of the infirmity of the flesh. For thus have the words of the Apostle: **"For what was impossible to the Law, in that it was weak through the flesh, God performed by sending his own Son in the likeness of the flesh of sin, and of sin damned sin in the flesh, that the justification of the Law might be fulfilled in us."**
+
+### Objection IX. **2 Tim. 4:7** — *"I have fought the good fight, I have consummated the course."* *Ergo* the regenerate satisfy the Law, and add somewhat over.
+
+**Respondeo**: **The Apostle does not treat there of the perfect fulfilment of the Law and of works of supererogation, but of his ministry and of the course of his vocation** — that he had performed it with all faith and diligence he could through the grace of Christ. **Therefore this saying makes nothing for the perfect fulfilment of the Law** — which the same Apostle, **Rom. 7**, in express words derogates from himself, saying: *"To perform I find not."* **Much less does it patronise the feigned works of supererogation.**
+
+### Objection X. **1 Cor. 9** — the Apostle says he **preached the Gospel gratuitously**. *Ergo* he supererogated somewhat to the Law.
+
+**Respondeo**: **It was free for the Apostle to receive a stipend, or to abstain from it. But by what reason will they evince that he supererogated somewhat?** He abstained on account of scandal, lest the Corinthians estimate that he taught the Gospel for the cause of gain — not that he supererogated somewhat. **The words therefore of the Apostle pertain nothing whatsoever to establishing works of supererogation.**
+
+### Objection XI. **James** saith: *"Be ye doers of the Law, and not hearers only"* — **James 1:22**. *Ergo* the fulfilment of the Law is possible.
+
+**Respondeo**: **From precept to power the consequence does not follow.** The Holy Spirit commands obedience to the Law, **not because we can perform it in this sad corruption of human nature, but that having recognised the infirmity of our powers, we may with whole heart shudder, and seek the perfect fulfilment of the Law from Christ**.
+
+### Objection XII. **Jerome** says: *"Anathema, if any says that God commanded impossible things."* *Ergo* the Law can be done by human nature.
+
+**Respondeo**: **A distinction is to be made between nature entire and nature corrupt.** Of nature before the Fall this saying is true; but of nature depraved through sin, not so. **For after the Fall the Law is not promulgated that it may justify, but that it may accuse and condemn men and arraign sin, by which human nature is polluted** — **Rom. 3**: *"Through the Law is the knowledge of sin."* Wherefore when it is said that the Law is possible, **first the integral and corrupt nature is to be discerned**. Then, **political wisdom is not to be consulted, nor thought given to external discipline, but to the perfect fulfilment of the whole Law according to the judgement of God, etc.**
+
+— ❦ —
+
+*[Locus XVIII Part 1 closes. Part 2 (Q10-Q20 + 6 anti-Antinomian Objs + abrogation) follows in T22. 274 top-level Q + 143 Obj rendered so far.]*
