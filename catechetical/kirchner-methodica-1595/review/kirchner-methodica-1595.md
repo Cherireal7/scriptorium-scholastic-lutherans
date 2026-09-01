@@ -4278,4 +4278,142 @@ From all these it is manifest that even the regenerate and faithful themselves *
 
 — ❦ —
 
-*[Locus XVIII Part 1 closes. Part 2 (Q10-Q20 + 6 anti-Antinomian Objs + abrogation) follows in T22. 274 top-level Q + 143 Obj rendered so far.]*
+## Question 10. Who therefore fulfilled the Law?
+
+**Who therefore fulfilled the Law?**
+
+**Christ Jesus alone.** He satisfied for the sins of us all, and took upon himself the curse of the Law — **Isa. 53; Rom. 4, 5**. He also **exhibited perfect obedience to the Law** — **Rom. 5, 8, 10**.
+
+— ❦ —
+
+## Question 11. But what does it profit us men, that Christ has fulfilled the Law, since to us the Law is given?
+
+**But what does it profit us men, that Christ has fulfilled the Law, since to us the Law is given?**
+
+**So it pleased God, out of his immense mercy and goodness, to derive satisfaction and fulfilment from us upon his only-begotten Son, and to impose it upon him** — since **the Law in us was weak through the flesh**, and we, on account of original corruption, could not fulfil the Law — **Rom. 8:3–4**: *"For what was impossible to the Law, in that it was weak through the flesh, God, sending his own Son in the likeness of the flesh of sin, and of sin damned sin in the flesh, that the justification of the Law might be fulfilled in us, who walk not according to the flesh, but according to the Spirit,"* etc.
+
+— ❦ —
+
+## Question 12. But how do we obtain this fulfilment of the Law?
+
+**But how do we obtain this fulfilment of the Law?** [*[Luther: T. 6, p. 14; T. 4/1, p. 114 fine*]*]
+
+**By true faith on Christ alone.** For if with a contrite and humiliated heart we believe on Christ, and with true confidence in Christ's satisfaction we lift ourselves up and console ourselves, **then God takes up the punishment which Christ paid out for our disobedience, as though it were performed by us; then also he gives to us the perfect obedience which Christ himself exhibited to the Law** — which profits us as much, as if we ourselves both by paying out the punishment, and by exhibiting the obedience, had satisfied and fulfilled the Law. **Rom. 10:4** — *"For Christ is the end of the Law unto righteousness to every believer."*
+
+— ❦ —
+
+## Question 13. Does not therefore Christ through the Holy Spirit begin in the faithful a new obedience?
+
+**Does not therefore Christ through the Holy Spirit begin in the faithful a new obedience?**
+
+**Very much so.**
+
+But **this begun new obedience is exceedingly weak, and by no means a fulfilment of the Law**; yet **it pleases God for Christ's sake, on account of whom also the very person is accepted to God** — **Rom. 8:1**: *"There is therefore now no condemnation to those who are in Christ Jesus, who walk not according to the flesh, but according to the Spirit."*
+
+— ❦ —
+
+## Question 14. Why therefore is the Law of God to be assiduously urged?
+
+**Why therefore is the Law of God to be assiduously urged?** [*[Luther: T. 3, pp. 167, 168; T. 2, p. 438, 440*]*]
+
+**I.** That it may be known to all, and that we forget it not.
+
+**II.** That it may **assiduously admonish us of the horrid corruption of our whole nature, and lead us to conversion and penitence**.
+
+**III.** That it may commend to us the grace and benefits of Christ more, and make them more acceptable. **For the sick man acknowledges the excellence of medicine**, and there is no need of a physician to the whole, but to the sick — **Matt. 9:12**.
+
+**IV.** That we may be excited **to implore assiduously the aid of the Holy Spirit, to institute life *ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι* (in all piety and gravity), and to conform it to the prescription of the Decalogue**.
+
+— ❦ —
+
+## Question 15. But what disciples or hearers has the Law of God?
+
+**But what disciples or hearers has the Law of God?** [*[Luther: In præfatione super V Tom.; T. 3/1, p. 67*]*]
+
+**The hearers of the Law are triple.**
+
+**The first**, who hear the Law and contemn it, live without any fear of God — to these the Law does not come; and they are signified by the **worshippers of the calves**, on account of whom **Moses shattered the tables of the Law, and did not carry the Law down to them**.
+
+**The second**, who undertake to fulfil it by their own powers without grace; and these are signified by those who **could not gaze upon the face of Moses**, when he a second time carried down the tables of the Law. To these indeed the Law comes, but they do not bear it: therefore they impose a veil upon it, and institute a hypocritical life in external works — which nevertheless all the Law, when the veil is uncovered, arraigns to be sins. For **the Law shows that our powers, without Christ's grace, are of no value**.
+
+**The third**, who **clearly, without veil, gaze upon Moses**. These are they who understand the mind of the Law — how impossible things it demands from us. **In them mighty is sin, mighty is death; and unless here Christ come to help, no one can bear and sustain the clearness of the Law, the terror of death and of hell.**
+
+— ❦ —
+
+## Question 16. But the Antinomians teach that not the Law, but the Gospel is to be taught in the Church of God?
+
+**But the Antinomians teach that not the Law, but the Gospel is to be taught in the Church of God?**
+
+**This indeed is true** — that the Law does not justify, and that in the article of justification nothing is to be taught, said, or thought other than the Word of grace given and exhibited to us in Christ. **But hence it does not follow that the Law is wholly to be taken away, and is not to be taught in the Church.** Nay rather, for this very reason it is necessary that the Law be faithfully taught and urged: **that man, growing proud and confiding in his own powers and works, may learn from the Law that from the Law he cannot be justified**. Hence Christ **John 16:8** saith: *"When the Paraclete shall come, he shall reprove the world of sin"* — which cannot be done save through the denunciation and declaration of the Law. And it is certainly as necessary that the Law be taught in the Church as the Gospel — because **the greatest part of men lives scelerately, whom the discipline of the Law ought to coerce**; few there are, and known to God alone, **the pious and faithful, who receive the Gospel**.
+
+## Objections *(Anti-Antinomian — from the Disputations of Luther against the Antinomians)* [*[Luther: T. 1, p. 516, 517 and following*]*]
+
+### Objection I. Consciences are not to be burdened. But by the preaching of the Law they are burdened. *Ergo* the Law is not to be preached.
+
+**Respondeo**: **Are the Antinomians sweet Christians, who say that their consciences are burdened by the preaching of the Law?** They do not cease to sin — they indulge in avarice, wrath, lust, revellings, etc. — and when they hear these sins reprehended, they are offended, and do not will their consciences to be burdened. **Shall we therefore let each do what pleases, and preach them blessed? By no means.** Rather let us distinguish and say: **contrite consciences, timid and terrified by the acknowledgement of their sins, are not to be burdened with the maledictions of the Law. But to them is to be proposed the sweet promise of the Gospel.** For in these the Law has performed its office. Not therefore to such must the maledictions of the Law be inculcated, but rather they are to be raised up by the voice of the Gospel, lest they despair utterly.
+
+### Objection II. If any adulterer, only let him believe, and he shall have God propitious, etc.
+
+**Respondeo**: **What kind of Church, I pray, shall it be, in which so horrid a voice sounds?** A distinction is to be made, and to be taught: that **adulterers and gross sinners are twofold**. **Certain who acknowledge their adultery or sin**, so that with their whole soul they shudder, and begin seriously to repent; nor do they only grieve that they have committed it, but also **from their soul desire and study never to commit any such thing hereafter**. These, not secure in sin but terrified, and dreading the wrath of God, if they apprehend the Word of the Gospel and confide in the mercy of God, **are saved for Christ's sake, and have remission of sins by faith on Christ**. **The others**, whether adulterers or sinners, although they cannot excuse their sin, yet do not grieve for it; rather they rejoice when they have obtained their wish, seek occasions of sins, and securely indulge in them. These, because destitute of the Holy Spirit, **cannot believe, and he who preaches to them of faith deceives them**. **Another medicine this sickness demands**: that thou shouldst say with Paul: *"God shall judge adulterers, they shall not see the kingdom of God,"* etc. Therefore these are polluted under the wrath of God, etc. **To such, hammers are needed to break these rocks in pieces, etc.**
+
+### Objection III. The Law is not necessary to justification. *Ergo* it is not to be taught.
+
+**Respondeo**: **The more it is necessary that it be taught and urged, because it is not necessary but impossible to justification** — that the proud man, presuming of his own powers, may be taught that he cannot be justified through the Law. For **sin and death are chiefly to be shown, not because they are necessary to life or innocence, but that man may acknowledge his unrighteousness and perdition, and thus be humiliated**. If sin be ignored, a false innocence is presumed, as is discerned in the Gentiles and afterwards in the Pelagians. If death be ignored, it is presumed that this life is the life, and none other in the future. But since none but the Law teaches both, it is clear enough that the Law is greatly necessary and useful.
+
+### Objection IV. Revelation of wrath is to be preached from the Gospel. *Ergo* etc.
+
+**Respondeo**: **To reveal sin is nothing else, nor can be anything else, than to be the Law or the most proper effect and force of the Law.** The Law and the showing of sin, or the revelation of wrath, are convertible terms — as *man* and *the risible* or *the rational*. **To take away the Law and retain the revelation of wrath is the same as to deny Peter to be a man, but affirm him to be risible or rational.** A similar wisdom is **to take away the Law and yet to teach that sin must be remitted** — since the Scripture of the Holy Spirit says that without the Law sin is dead; and where there is no Law, there is no transgression, so that it is impossible to be or to be understood sin without Law, written or sculpted.
+
+### Objection V. The Law without the Holy Spirit accuses sin. *Ergo* etc.
+
+**Respondeo**: **This is false, that without the Holy Spirit the Law accuses sin** — since the Law is written by the finger of God, and every truth, wheresoever it is, is from the Holy Spirit. And to prohibit the Law is to prohibit the truth of God. **To take away the Law on account of this office — that it accuses sin unto condemnation — is evident madness.** For the Law, as it was before Christ (accusing us), so under Christ (placated through remission of sins, and thenceforth to be fulfilled by the Spirit), so after Christ, in the future life, shall remain **fulfilled — being then made itself what meanwhile it demanded, the new creature**. Wherefore the Law is never for eternity taken away, but shall remain either **to be fulfilled in the damned, or fulfilled in the blessed**.
+
+### Objection VI. The Law is not laid for the just, etc. *Ergo* etc.
+
+**Respondeo**: **The Law is also laid for the just, insofar as they are not yet dead, and still live in the flesh.** Then, the Law is not laid for the just — namely, as to condemnation. **Insofar as Christ has been raised up in us, so far are we without the Law, sin, and death. But insofar as he has not yet been raised in us, so far are we under the Law, sin, and death.** Wherefore the Law is to be taught promiscuously (as the Gospel), as much to the pious as to the impious, to the just and to the unjust. **To the impious, that terrified they may acknowledge their sin, death, and the inevitable wrath of God, by which they may be humiliated. To the pious, that they may be admonished to crucify their flesh with concupiscences and vices, lest they become secure. For security takes away faith and the fear of God, and makes the last things worse than the first.**
+
+— ❦ —
+
+## Question 17. But how is the Decalogue or moral Law abrogated?
+
+**But how is the Decalogue or moral Law abrogated?**
+
+**Thomas and the rest of the Scholastic Theologians**, when they speak of the abrogation of the Law, contend that **only the forensic and ceremonial laws are abrogated through Christ, but not the Decalogue** [*[Luther: T. 3, pp. 40, 43, 3; p. 167, 168; T. 3, p. 70; T. 4/1, pp. 142, 149; T. 3/1, pp. 408, 40*]*]. **But do thou know that chiefly the Decalogue or moral Law, and not only the forensic and ceremonial laws, are abrogated through Christ** — this however rightly understand, so, namely: **that it may not condemn thee, and that thou be not obliged to be saved through it**.
+
+For **Paul expressly says that we have been freed by Christ from the curse of the Law**, and there chiefly he speaks of the moral Law, which accuses us, curses us, and condemns our consciences. On which account we say that **the Decalogue has no power of terrifying and condemning the conscience, if the heart believe on Christ, who has fulfilled the Law; and even if the Law accuse, the heart nevertheless embraces Christ and firmly holds him** — **Rom. 8; John 8:36**. **For Christ's sake sin is remitted; wherefore there is no condemnation to those who are in Christ Jesus** — **Rom. 8:1**. But as to obedience, **it is not taken away, but remains** [*[Luther: T. 4, p. 499*]*]. **For believers are debtors not to the flesh, that they should live according to the flesh** — **Rom. 8:12**.
+
+— ❦ —
+
+## Question 18. Does therefore the liberty of the Law, wherewith believers have been freed from the Law through Christ, not regard the liberty of the flesh?
+
+**Does therefore the liberty of the Law, wherewith believers have been freed from the Law through Christ, not regard the liberty of the flesh?**
+
+**By no means.** [*[Luther: T. 2, pp. 483, 484, 485; In Præfat. Epi. Rom.*]*]
+
+**The liberty of the Law is first that** — that **the Law cannot condemn the faithful who are in Christ Jesus** — **Rom. 8**. For in Christ they have the end and fulfilment of the Law. **Then, such a liberty which makes willing doers of the Law**, who begin to live according to the Law, without coercion, out of the grace of the Holy Spirit, who kindles, fosters, and preserves this spontaneous liberty in believers — **Gal. 5:13**: *"Ye are called into liberty, brethren; only give not the liberty as an occasion to the flesh, but through charity serve one another."* For therefore is the Holy Spirit given to believers, that he may **create a clean heart in them, and renew a firm Spirit within their bowels, and thus prepare them, that they may begin in some way to obey the Decalogue or Law of God**.
+
+— ❦ —
+
+## Question 19. Do the forensic and ceremonial laws of Moses also oblige Christian men?
+
+**Do the forensic and ceremonial laws of Moses also oblige Christian men?** [*[Luther: T. 3, p. 41; T. 3/1, p. 69, 70*]*]
+
+**By no means.** For these Laws are **plainly abrogated through Christ** — **Matt. 11:13**: *"For all the Prophets and the Law prophesied unto John."* They also **obliged only the Jewish nation, and were to last only until Christ**. Of this thing the testimony is: **the temple and the whole Jewish polity has been taken away and overthrown**. But if there is anything in these Laws agreeing with the law of nature, that remains ratified.
+
+— ❦ —
+
+## Question 20. What therefore is the distinction between civil rights or political laws, and the Law of God?
+
+**What therefore is the distinction between civil rights or political laws, and the Law of God?**
+
+**I.** **Political laws are mutable, but the Law of God or the Decalogue is immutable.** Although sins are gratuitously remitted to the faithful, yet **Christ had to pay out a sufficient *ἀντίλυτρον* for them, and to fulfil the whole Law** — otherwise they had perished for eternity.
+
+**II.** **Political laws require only external obedience; but the Law of God or the Decalogue requires perfect internal and external obedience, and absolute satisfaction for offences.** Wherefore **Christ also exhibited both for us — that is, he sustained the punishment and fulfilled the Law**.
+
+**III.** **Civil rights punish only the very transgressors; but the punishments of the divine Law concern and press also the posterity, unto the third and fourth generation** — **Exod. 20**. **God punishes the fall of Adam not only in himself, but also in all his posterity.**
+
+**IV.** **Civil rights and the political magistrate punish men only in body or in goods; but God punishes at once the body and soul of the sinner, unless he does penitence** — as also he threatened, **Deut. 27:26**: *"Cursed be he that abideth not in the words of this Law, nor performeth them by deed,"* etc. **Rom. 2:8** — *"But to those who are of contention, and acquiesce not in the truth, but believe iniquity — wrath and indignation, tribulation and anguish upon every soul of man working evil,"* etc.
+
+— ❦ —
+
+*[Locus XVIII closes. Locus XIX De Evangelio begins in Rebuild-Tranche 23. 284 top-level Q + 149 Obj rendered so far.]*
