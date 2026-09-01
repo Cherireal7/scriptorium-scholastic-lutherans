@@ -1593,7 +1593,112 @@ To the minor I respond: ***The Son of God was born from eternity of the Father.*
 
 **Cyril in the Alexandrian and Ephesian Synod**: ***"If any one in one Christ divides the substances after the union, connecting them only by that conjunction which is according to dignity, or authority or power, and not rather by natural union — let him be anathema."***
 
-**Here concerning the phrase a question is moved:** whether it can rightly be said, ***"The divine nature communicates to the human nature the Person."*** I respond: even if the communication has never been understood of the Person, yet this phrase has nothing of inconvenience. ***Essence*** is communicated in the article of the Trinity. The ***properties of natures*** are communicated in the doctrine of the Son of God Emmanuel. And ***the natures too are communicated*** (for ***united by hypostatic union***) the ancients said. For ***the human nature is assumed***, [***ἐν αὐτῇ τῇ ὑποστάσει τοῦ Λόγου***].¹⁰⁷ᵉᶜ
+**Here concerning the phrase a question is moved:** whether it can rightly be said, ***"The divine nature communicates to the human nature the Person."*** I respond: even if the communication has never been understood of the Person, yet this phrase has nothing of inconvenience. ***Essence*** is communicated in the article of the Trinity. The ***properties of natures*** are communicated in the doctrine of the Son of God Emmanuel. And ***the natures too are communicated*** (for ***united by hypostatic union***) the ancients said. For ***the human nature is assumed***, [***ἐν αὐτῇ τῇ ὑποστάσει τοῦ Λόγου***].
+
+**The human nature is assumed into the Person of the Son of God, and [the Son of God] communicates Himself to the assumed nature through hypostatic union.** But one must study propriety of speaking, and see which forms have been received by grave and true authority, which have not been received. Certainly ***personal union*** and ***personal communication*** by no one have been easily received as the same — because properly speaking, one thing is ***union***, and another that which arises from union — ***communication*** — as today in more sincere Churches and schools we speak commonly.
+
+**Wherefore even if concerning the things themselves often there is no debate**, yet let us shun new phrases, and know that diligence worthy of the pious is, for the sake of concord, to speak properly with the Church.
+
+**The received forms of speaking are these**: [***ἡ καθ' ὑπόστασιν ἕνωσις***], ***personal union***, ***the two natures came together into one***, ***the divine nature assumed***, ***the human [nature] was assumed***, ***One is the Person, two are the natures***, ***The eternal nature of the Son of God***, or ***the Son of God Himself, unites and couples to Himself into the same Person the human nature which He assumed from Mary***. ***Union of natures in Christ***, etc.
+
+For even if in the usurpation of other forms there seems to be no peril — since the thing itself is established, and the good easily approve the true sentence uttered in whatever words (especially since it is said that ***in the union itself a Person-communication happens***) — nevertheless on account of the peril we ought not without grave causes to bring forth new phrases, nor confound those things which the pious in all times have studied to distinguish, namely ***Union*** and ***Communication***. Union they referred to the natures coming together into one Person. Communication however to the properties of the natures. For the reason of the ***hypostatic union*** is stricter than that it can be commodiously and properly expressed by the word of ***society*** [***κοινωνία***].
+
+#### 2. On the Form of Speaking in the Concrete
+
+**The form of speaking in the ***concrete*** must be diligently held in the doctrine on the communication of idiomata. Let these rules be in view**:
+
+**1.** The ***communication of idiomata*** happens ***in the concrete***, not in the abstract — that is, either the subject must be a concrete name (as: ***"The Word was made flesh"*** [***σὰρξ ἐγένετο***]); or both the subject and the predicate at the same time (as: ***"God is man"***).
+
+**2.** Concrete names ***stand for the Person***, not for the natures — that is, they designate not one nature only, but the whole Person subsisting in each nature.
+
+**3.** Those things which are ***proper of the natures***, become ***common of the Person***, or ***in the concrete***, on account of the ***hypostatic union of the natures***.
+
+**Thus therefore we say (John 1)**: [***ὁ Λόγος σὰρξ ἐγένετο***], ***"The Word was made flesh"*** — that is, ***the Son God assumed the human nature integral, having all the forces and appetitions proper of nature without sin — and these two natures were not confounded, but with an indissoluble, perpetual now and wondrous covenant were so united that Christ is God and man, and remains one Person.***
+
+**Matt. 16**: ***"The Son of Man is the Son of the living God."***
+
+**John 6**: ***"If you shall see the Son of Man ascending where He was before"*** — that is, ***to the Father***, where ***the Son of God reigns with the Father and the Holy Spirit by divine power.***
+
+**John 8**: ***"Before Abraham was, I am."***
+
+**Rom. 8**: ***"God spared not His own Son, but delivered Him up for us all."***
+
+**Acts 20**: ***"He purchased the Church with His own blood."***
+
+**1 Cor. 2**: ***"They crucified the Lord of glory."***
+
+**1 Cor. 15**: ***"The second man from heaven."*** Item:
+
+- ***"God is passible."***
+- ***"The Son of God died."***
+- ***"Christ the man, or the Son of Mary, is Creator of heaven and earth."***
+- ***"God is man; Man is God."***
+- ***"The Word of God is incarnate."***
+- ***"The Word is man."***
+- ***"Man is the Word."***
+- ***"God began to be man."***
+- ***"The Word was made man."***
+
+**Here the concrete names ***do not designate only one nature***, but designate the ***Person***, in which is each nature — both divine and human.**
+
+**Thus let these also be understood**: **Jer. 23**: ***"Jehovah our Righteousness"*** — that is, ***that Person, which is God and man, is our righteousness.*** For not only the divine nature in the abstract is signified.
+
+**Matt. 6**: ***"Seek first the kingdom of God, and His righteousness"*** — here also not the divine nature alone, but the ***Person subsisting in each nature*** is signified.
+
+**1 Tim. 2**: ***"The man Christ Jesus is Mediator"*** — here not the ***human nature alone*** is understood, as if it alone were Mediatrix — but the ***whole Person in the concrete*** is understood.
+
+#### 3. In the Abstract, the Contrary Locutions are Forbidden
+
+**In the abstract it is not said**: ***"The divine nature is human."*** ***"The divinity is passible."*** And it is said improperly: ***"The divine nature assumed the man"*** — even if this be true, yet not proper. For the ancients often seem to have used ***concretes*** for ***abstracts.*** [Thus for example]: ***"He assumed the man"*** — that is, ***the human nature.*** Thus not properly in the abstract it is said: ***"The divine nature assumed the human."*** Also it is not rightly said: ***"The human nature satisfied for us,"*** or ***"is passive and dead for us."*** ***This says or does the divine nature in Christ. This says, does, suffers the human nature in Christ*** — for ***the division of works divides the Person.*** Therefore the ***concrete*** is retained: ***"Christ, God, Man, Son of God, Son of Mary is born, grows, suffers, hungers, is saddened, weeps, is crucified, dies, is buried, rises again, is Creator of heaven and earth, conserves all things."***
+
+**In the ***abstract*** indeed, outside the consideration of the union of the two natures, it is rightly said**: ***"The divine nature in Christ is omnipotent, eternal, everywhere."*** And: ***"The human nature is subject to the cross and to death."*** But now the union being made — which remains in eternity — ***locutions in the concrete***, which are understood of the ***Person subsisting in each nature***, are pious, plain, true, dextrous, and received. And there is added afterwards the explication ***according to which nature*** — whether according to the divine, or the human, or according to both natures — as we shall shortly show.
+
+#### Ambiguous and Deceitful Locutions to be Rejected
+
+**Here students must be admonished concerning certain ***ambiguous and deceitful forms of speaking***, which even when uttered ***in the concrete*** are rejected on account of danger**, as:
+
+- ***"Christ is composed of divine and human nature."***
+- ***"The Word is a creature."***
+- ***"Christ was made."***
+- ***"Christ began to be, began to be made."***
+- ***"Christ is a creature."***
+
+For the ***Arians*** speaking thus were not speaking of the ***human nature of Christ assumed***, but they contended that ***the other nature in Christ prior to the human*** was ***founded from nothing***, was not the ***image of the eternal Father begotten of His substance***, [***ὁμοούσιος***] and co-eternal with the Father.
+
+**The word ***creatura*** is indeed found somewhere, when it is said of the human nativity of Christ — but very sparingly, and without evil sentence, and without deceit** — as Jer. 31: ***"The Lord hath created a new thing upon the earth. A WOMAN SHALL ENCOMPASS A MAN."*** ***"Notably,"*** says Jerome, ***"the nativity of the Saviour and the conception of God is called a new creation, because a perfect Man was contained in a feminine womb for the customary months."*** And ***Gregory of Nazianzus***: [***ὢν γενέννηται, ὁ ἄκτιστος κτίζεται***] — ***"the existing is begotten, the uncreatable is created."*** ***Hilary***: ***"The Apostolic faith knows in what dispensation of time Christ was created, and in what eternity of times He was born."*** ***Pope Leo***: ***"A new and unheard-of convention: God who is, and who was, is made creature."***
+
+**These and similar sayings of the Fathers are understood only of ***[ἐνσωμάτωσιν]*** and the incarnation of the Son of God — insofar as He assumed the human nature, or according to the human nature, as man, was born at a certain time of Mary always Virgin.**
+
+But the Arians brought it about by their deceits that ***the word "creatura" was plainly repudiated when discourse is to be had of Christ.*** And there were added also reasons of this kind:
+
+- ***Whatever is in the Trinity is not a creature. Christ God and man is the second Person of the Trinity. Therefore He is not to be called a creature.***
+- Item, ***A creature is not adorable***, as ***Epiphanius*** rightly speaks: [***μὴ ἐπαινέτω τὸν κτιστόν***]. And ***"Every creature serves,"*** say ***Ambrose*** and ***Cyril***. But we adore Christ God and man. Therefore He is not to be called a creature.
+
+**Augustine** ***De Agone Christi*** chapter 10: ***"Let us not hear those who wish to compel that we number the Son of God among the creatures, because He suffered. It is one thing to be a creature, another to receive a creature. The Only-Begotten Son, the Virtue, Wisdom, and Word of God, through whom all things were made, received a human creature, which He deigned to raise up when fallen, and to renew when grown old — nor was He Himself changed for the worse in it through the passion, but rather changed [it] for the better through the resurrection."***
+
+**Basil** in the ***Homily on the Nativity of the Lord***: ***"It is not said, [τὸ κτισθέν] — 'that which is created' — but [τὸ γεννηθέν] — 'that which is born in her, is from the Holy Spirit.' Therefore the flesh conflated by sanctification was worthy that it be united to the Deity of the Only-Begotten."***
+
+**Athanasius** ***De Incarnatione Verbi***: ***"How is it possible that what is created should create? Or how does He who creates, become created?"***
+
+**Epiphanius** ***Contra Arrianos***: ***"What does the creature aid, or what use does it bring to our salvation and to the perfect Deification of the incarnate Word of God?"***
+
+**The same** ***In Ancorato***: [***μωρὸν γὰρ κτίσμα προσκυνεῖν***] — ***"For it is foolish to adore creatures, and to abrogate the first commandment, which promulgates: 'Hear, Israel: the Lord thy God, the Lord is one.'"***
+
+**Ambrose** ***De Fide*** book 1 chapter 7: ***"Either let them cease to worship Him whom they call a creature; or let them cease to say that He whom they seem to worship is a creature — lest under the appearance of worshippers they commit graver sacrileges."***
+
+**Cyril** ***Thesaurus*** book 12 chapter 2: ***"Christ everywhere is God — nowhere is called a creature in the Scriptures."***
+
+**Epiphanius** ***In Ancorato***: ***"Wilt thou adore the Saviour in the body, or wilt thou not adore? — 'Why should I not adore? For if I shall not adore, I shall not have life.' Therefore thou adorest a creature — namely the body? Immense is the folly of those who say such things. Let no one say to the Only-Begotten: 'Put off the body, that I may adore Thee' — but he adores together with the body the Only-Begotten, uncreated or uncreatable, with the holy temple which coming He received."***
+
+**But it is objected**: ***"Whatever is made flesh, is made a creature. The Son of God was made flesh. Therefore the Son of God was made a creature."***
+
+**I respond to the major**: The major is true of that which ***before was nothing else, but first began to be.*** Item I concede: ***the flesh is a creature***, and Christ received a creature. To the minor: ***"The Son of God was made flesh, which is a creature."*** But He on this account is not a creature, because ***He is eternal God***, and assumed at a certain time the flesh or human nature, and united it to Himself by hypostatic union. And even if this syllogism has its place in Philosophy, nevertheless in the Church of God on account of danger it ought not to be tolerated. Let there also be ***a mode of disputations***, and let us flee too great [***ἐξίτηλον***] — especially when things can be otherwise perspicuously said, namely: ***"In Christ born of the Virgin are two natures, [ὁ Λόγος], and the human nature assumed. [Ὁ Λόγος] is the Person, and [ὁμοούσιος] with the Father, not created, but begotten from the essence of the Father. But the human nature is a creature in the abstract per se considered."***
+
+**Luther** on Gal. 1: ***"Christ has divine works, not of a creature, but of the Creator, because He gives grace and peace."***
+
+**These things concerning the ***deceitful phrase*** we have said for the sake of admonition.** ***"The Word is man"*** is a received form, because it is understood ***the Word assumed the human nature.*** ***"The Word is a creature"***, or: ***"Christ is a creature"*** — even if it be added, ***"insofar as He is man"***, or ***"according to the human nature"*** — is a ***deceitful phrase***, because ***the assumption of the other nature is not understood, but the predicate signifies to have been created*** — which is [***ψευδὲς***] and blasphemous.
+
+**Objected however are by some these sayings of Paul**: **Heb. 3**: ***"God made Christ the supreme Priest."*** Therefore, say the Arians, Christ is a creature, because He was ***made***. I respond: The word ***make*** denotes not the ***nature or essence***, but the ***office*** — as when I say: ***"Theodosius made Arcadius his son Emperor."*** Here ***to make*** does not signify ***to create*** or ***to generate***, but to ***ordain and constitute in a certain dignity, or to a certain office.*** And such also is that of Acts 2: ***"This Jesus, whom you crucified — both Lord and Christ God made"*** — that is, [***ἀπέδειξεν***], ***that He should be equally Lord and Christ.*** Whence 1 Cor. 1 it is written: ***"Christ has been made to us by God wisdom, righteousness, sanctification, and redemption."*** And an illustrious example is in the saying of 2 Cor. 5: ***"Him who knew no sin, God made sin for us — that we might be made the righteousness of God in Him."*** These sayings clearly show that the word ***make*** in Scripture is often used ***officio-designatively***, not ***naturaliter*** — and cannot therefore be twisted to prove that Christ is a creature.¹⁰⁷ᵉᶜ
 
 #### On the Communication of Properties — De Communicatione Idiomatum
 
