@@ -3494,4 +3494,238 @@ That **never to any penitent sinner has he denied the gratuitous remission of si
 
 — ❦ —
 
-*[Locus XIII closes. Locus XIV De Peccato Originali begins in Rebuild-Tranche 15. 226 top-level Q + 101 Obj rendered so far.]*
+# Locus XIV. Of Original Sin
+
+### *De Peccato Originali*
+
+## Question 1. What is original sin?
+
+**What is original sin?** [*[Luther: T. 5, p. 169; T. 7, p. 43 fine; In Postilla Domestica, in festo circumcisionis*]*]
+
+**Original sin is a supreme and inmost corruption of human nature, which human reason does not understand.** [*[Luther: Gen. cap. 2, p. 34*]*]
+
+Or: **Original sin is a defect and want of original righteousness, and a horrid corruption of the whole nature in man** — through which the human mind, immersed in the densest darkness, does not rightly know God; and the will is averted from God; and the heart, with all its affections, powers, and faculties, labours under horrid *ἀταξία* and confusion and perturbation — so that we neither love God above all things, nor confide in him, nor fear him with filial reverence, but obey our concupiscence and cupidities, resist God and his Word, and so that **our prudence is enmity against God** — etc. Item, so that the conscience, as often as it thinks of God, fears God for itself and flees him.
+
+In sum: **original sin is truly sin**, and indeed **the greatest of all sins** [*[Luther: T. 5, p. 170*]*], and it is not merely a defect, or privation, or want, but **such a sin as condemns all men begotten of Adam and shuts them out from God eternally**, unless Christ Jesus, coming into this world, had saved us from it.
+
+— ❦ —
+
+## Question 2. Whence is this sin?
+
+**Whence is this sin?**
+
+**God did not so create man in the beginning that he should sin, but that he should live** [*[Luther: T. 6, p. 168; Gen. 2, p. 31; Gen. 3, p. 42; T. 4/1, pp. 658, 637*]*]; but the **Devil scattered this horrid stain upon human nature**, and through this sad stain utterly and horribly corrupted the whole nature, when our first parents themselves obeyed him and departed from God and his Word and precept — **Gen. 3**.
+
+— ❦ —
+
+## Question 3. But how is it derived and propagated into us?
+
+**But how is it derived and propagated into us?**
+
+**Through natural generation from Adam** [*[Luther: Gen. 2, p. 98 fine*; *T. 6, p. 231*]*]. — **Rom. 5:12**: *"For through one man sin entered into this world"* — of which we are all born. **Ps. 51:5** — *"For behold, I was conceived in iniquities, and in sins my mother conceived me."* **Eph. 2:3** — *"And we were by nature children of wrath, even as the rest."*
+
+— ❦ —
+
+## Question 4. Are then all men infected and corrupted with original sin?
+
+**Are then all men infected and corrupted with original sin?** [*[Luther: T. 3, p. 510; T. 4/1, p. 388*]*]
+
+**Very much so.** For we confess, and we know from Scripture, that **all men descend from one Adam**, and from him **through natural generation take and inherit at once both the sin and the guilt unto eternal damnation**, unless remission be made through Christ — **Ps. 51**.
+
+— ❦ —
+
+## Question 5. Do therefore also Christians baptised, having received remission of sins, transmit and propagate original sin to their posterity?
+
+**Do therefore also Christians baptised, having received remission of sins, transmit and propagate original sin to their posterity?**
+
+**Very much so.** For therefore David saith **Ps. 51:5**: *"Behold, I was conceived in iniquities, and in sins my mother conceived me,"* though he was conceived and born from believing parents. **John 3:6** — *"That which is born of the flesh, is flesh."* Christian baptised men do not beget offspring according to their regeneration out of water and the Spirit, but **according to the flesh, in which sin still dwells** — **Rom. 7:18** — wherefore also they transmit sin to their offspring.
+
+— ❦ —
+
+## Question 6. Does then God even now create in man original sin, as he himself creates and forms the nature of man?
+
+**Does then God even now create in man original sin, as he himself creates and forms the nature of man?**
+
+**By no means.** **He creates and forms the nature such as it is** — as witness the first article of Creation. But the corruption, which is in the nature, he does not create. Just as **the architect does not form the rottenness in the wood, but takes the wood such as it is**, and thereupon rears the building; so also **God in conception receives the seed, which is already infected and corrupted with sin**, and thence forms the man; but the corruption or infection he neither creates nor forms. Hence it cannot be said that he creates sin, since it was already in the corrupt seed from which the man was formed — **Ps. 51**.
+
+— ❦ —
+
+## Question 7. Where then, or in which parts of man, is original sin?
+
+**Where then, or in which parts of man, is original sin?**
+
+**The whole man is corrupted by original sin** [*[Luther: Ps. 14, pp. 27–28; T. 6, p. 73 fine; In Præfat. Epist. Rom.; Gen. cap. 3, pp. 40–41; Gen. cap. 8, pp. 138–141; Ps. 14, pp. 371–374*]*], so that original sin is in the body, in the soul, in the mind, in the will, and in all the powers and faculties of man. For Scripture expressly says **Rom. 3; Ps. 14** that we are corrupted, become abominable and useless, false, conceived and born in sins — **Ps. 51:5**; that we have the intellect darkened with darkness — **Eph. 4:18**; **that the natural man perceiveth not the things which are of the Spirit of God, for it is foolishness to him, nor can he understand** — **1 Cor. 2:14**. That the will of man is averted from God, evil, and hostile to God — **Rom. 8:7**. That in the heart and in all the powers and faculties of man there is rebellion, contumacy, security, disobedience, incredulity, doubt, pride, and that **from the heart as from a fount all evils proceed** — **Matt. 15; Gen. 6, 8; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened; for saying themselves to be wise, they became fools."* **Rom. 7:18** — *"in the flesh dwelleth sin, which resists the law of the mind."* Hence it is that also of the remaining members it is said **Rom. 3:13**: *"Their throat is an open sepulchre,"* etc.
+
+— ❦ —
+
+## Question 8. But how can original sin be in the soul, since it is created by God and, as it were, infused into the bodies?
+
+**But how can original sin be in the soul, since it is created by God and, as it were, infused into the bodies?**
+
+Here, if we abide (as we ought) in the words of Scripture, there is no need of this question. For Scripture expressly says of the whole man — **Ps. 51:5**: *"Behold, I was conceived in iniquities"* — where certainly it speaks of the whole man, or of body and soul at once. So also Scripture testifies that **the evil of sin is in the soul and its powers and faculties**, as the testimonies a little above are alleged. **In these pronouncements of Scripture let us acquiesce**, and let us not doubt that original sin is in the soul and in all the powers of the soul, and has horribly corrupted them — as, alas! in every thought of our heart we daily experience it.
+
+— ❦ —
+
+## Question 9. Is original sin truly sin, and indeed so great, that it condemns man?
+
+**Is original sin truly sin, and indeed so great, that it condemns man?**
+
+**Very much so.** Human reason indeed **extenuates** it, and reckons it to be a light sin. But that it is truly sin, and indeed a *condemning* sin [*[Luther: T. 3, p. 310*]*], is manifest from what follows:
+
+**1.** That **God threatens against it death and all evils** — **Ps. 90:8**: *"Thou hast set our iniquities in thy sight, our secret things in the illumination of thy countenance."*
+
+**2.** **The horrid evils which follow original sin evince how great an evil it is.** For it corrupts the sense, reason, will, heart, and all faculties — nay, the very body and soul — so that from the heart of man **evil thoughts and sins of every kind** ever proceed, and the sense and thought of man's heart is prone to evil from his youth.
+
+**3.** Because it **subjects us to the tyranny of Satan** — of necessity therefore is a horrid abomination in the sight of God.
+
+**4.** It **subjects us to sicknesses of every kind and to innumerable difficulties**. How therefore can it be anything light and slight?
+
+**5.** It carries with it **terror and trembling**, and makes man *περίλυπον καὶ ἀδημονοῦντα* — full of grief and consternation. In the conscience it begets **doubt concerning God and his grace and mercy** — which certainly are the greatest evils, and neither can nor ought to be extenuated.
+
+**6.** It makes that **man cannot enter into the kingdom of heaven, unless he be born again** — **John 3:5; Mark 16:16**: *"He that believeth not shall be damned."* And that we may comprehend all in one word: **Original sin is the cause, the fount, and the spring of all our misery, and of all the evils which press us**. Wherefore also it is truly sin, and indeed **the greatest and condemning sin**.
+
+— ❦ —
+
+## Question 10. But the Papists say original sin is the least of all sins, since it happens without the will and consent of the children who are conceived in it?
+
+**But the Papists say original sin is the least of all sins, since it happens without the will and consent of the children who are conceived in it?**
+
+**Of the magnitude of original sin one must not decide from the judgement of human reason** — which is corrupted, and judges only those to be great sins which are voluntary, as are all *actual* sins — **but from the Word of God**, which of original sin and its magnitude informs us so, as in the preceding Question we heard. For the **judgements of God against original sin are far greater than we corrupt and depraved men can comprehend or understand**.
+
+— ❦ —
+
+## Question 11. In what heads therefore does the doctrine of original sin consist?
+
+**In what heads therefore does the doctrine of original sin consist?**
+
+In the following:
+
+**1.** That we may know **original sin to be a privation and want of original righteousness** [*[Luther: Gen. 2, p. 3*]*] — **Gen. 3; Rom. 2**.
+
+**2.** That **through original sin the whole nature — flesh and blood, body and soul, and all things which are in them — are utterly infected and corrupted** [*[Luther: T. 4/1, p. 384; Gen. 3, p. 49; T. 5/1, p. 95*]*] — **Ps. 51; Eph. 2**.
+
+**3.** That it is **not some slight defect, in which the natural things have remained, and are entire; but that it has penetrated all the powers, parts, and faculties of body and soul**.
+
+**4.** That **in this life it cannot be fully expurgated** [*[Luther: Gen. 2, p. 326*]*].
+
+**5.** That it is **unknown to reason, and is to be believed and learned only from the manifestation of Scripture** [*[Luther: Gen. T. 4, pp. 109–110*]*].
+
+**6.** That it **makes us guilty of eternal death** [*[Luther: Gen. 3, p. 47; Gen. 9, p. 55; Gen. T., p. 107; T. 4/1, pp. 288, 522*]*], unless Christ had freed us from it, and **the spotless Lamb had taken it away and remits it to us**.
+
+**7.** That it is **propagated into us from parents through natural generation** — **Ps. 51**.
+
+— ❦ —
+
+## Question 12. But what evils has original sin, so to speak, flooded upon the whole human race?
+
+**But what evils has original sin, so to speak, flooded upon the whole human race?** [*[Luther: T. 5/1, p. 385; Gen. 1, p. 21*]*]
+
+**Respondeo**:
+
+**1.** That men lack the righteousness of God, which Adam had before the Fall [*[Luther: Gen. 1, p. 21; Gen. 2, p. 3; Gen. 3, p. 62; Gen. 3, pp. 20, 33, 35, 40, 46, 66, 79, 104; T. 1/1, pp. 525, 340*]*].
+
+**2.** That **the earth is cursed** — **Gen. 3**.
+
+**3.** That human life is subject to infinite and inexplicable miseries — **Ps. 40**.
+
+**4.** That **many inconveniences accede to marriage** — **Gen. 3**.
+
+**5.** That the manner of living is straitened, so that **man in the sweat of his face shall eat his bread** — **Gen. 2, 3**.
+
+**6.** That we lie under sin and the tyranny of the Devil — **Eph. 2; 2 Tim. 2**.
+
+**7.** That, on account of sin, **all are obnoxious to death and damnation** — **Gen. 3** [*[Luther: In Postilla Domestica in feriis natalitiis Christi, Concio 2, p. 37*]*].
+
+— ❦ —
+
+## Question 13. But what are the fruits which original sin brings forth in man?
+
+**But what are the fruits which original sin brings forth in man?**
+
+**All evil works, which in the Decalogue are forbidden and adverse to the Law of God** [*[Luther: T. 6, p. 585; Gen. 6, pp. 143, 147*]*] — as are *incredulity, superstition, idolatry, atheism, security, despair, hatred, not to know God and not to trust him, to lie in his name and to swear by God's name, not to pray, not to give thanks, to despise the Word of God, not to obey parents, to kill, to commit adultery, to steal*, etc. **Matt. 15:19** — *"For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false testimonies, blasphemies: these are the things which defile a man."* **Gal. 5:19** — *"Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty, luxury, idol-service, sorceries, enmities, contentions, emulations, wraths, quarrels, dissensions, sects, envies, homicides, drunkennesses, revellings, and such like — of which I foretell you, as I have foretold, that they who do such things shall not obtain the kingdom of God."*
+
+— ❦ —
+
+## Question 14. But how is original sin remitted in Baptism?
+
+**But how is original sin remitted in Baptism?**
+
+**Sin in Baptism, through and on account of the merit of Jesus Christ (which is given to us by faith), is indeed remitted**, so that it cannot damn us — **Rom. 8** — but we are not therefore altogether clean. As is intimated in the **parable of the Samaritan, Luke 10**, who took up the man wounded by robbers and carried him into the inn — for he did not so receive him that he was straightway perfectly whole, but **bound up his wounds, pouring in oil and wine**.
+
+To speak summarily: **Sin indeed is fully remitted through and on account of Christ, but not fully expurgated**. For **if the Holy Spirit did not govern the regenerate**, the wound of sin would putrefy again. Therefore it is needful **that the Holy Spirit daily purge that wound of sin**. Therefore **this our life is a hospital and infirmary** — sin indeed is remitted, but not yet fully healed; and **evil concupiscence, as we more than sufficiently experience in daily temptations, ever springs up again** — **Gal. 5:17**: *"The flesh lusteth against the Spirit."* Therefore, if thou consentest to concupiscence, **sin becomes reigning**. Here therefore the Word of God exhorts thee: *Indulge not, obey not the evil concupiscence — sin indeed is remitted to thee, but see that thou persist in grace*.
+
+In sum: **the remnants of sins which still are in the flesh are indeed remitted through faith on account of Christ** — in whom we believe, and whose righteousness is imputed to us — but not yet fully expurgated. If thou obey concupiscence, thou wilt fall into mortal sin. As for example: **David** has the remission of all his sins through faith upon the future Messiah and Saviour of the world. But when against his conscience and the Word of God he indulges in evil desires, and yields to Satan inciting him, he pollutes himself with **adultery and homicide**, and is made guilty of God's wrath. So also **sin reigned in his mortal body**, in which he would even have perished, unless he had been called back by grace.
+
+— ❦ —
+
+## Question 15. What are the chief errors to be avoided in this article?
+
+**What are the chief errors to be avoided in this article?**
+
+**Respondeo**:
+
+**First**, of the **Philosophers**, who supposed **that nature was created such as it is now**. For they did not read the doctrine of the fall of the first parents — **Gen. 3** — nor did they know anything of original sin.
+
+**Secondly**, of the **Pelagians**, who feigned that **men are born without original sin, and that sin is not propagated by carnal conception and nativity, but only by imitation** — **Rom. 5; Ps. 51; Eph. 2** most gravely refute these errors.
+
+**Thirdly**, of the ancient **Manichaeans**, who taught **that sin is a substance created by God**. But Scripture witnessing, **God is the founder of every substance** — **Col. 1**. Now if sin were a substance, it would necessarily be laid down that **God is the founder of sin, and that sin is a creature of God** — which is blasphemous to think, much more to affirm.
+
+**Fourthly**, of the **Papists**. [*[Luther: T. 6, p. 515*]*] For certain **Schoolmen** dispute:
+
+- That **original sin is only a naked privation, and not any depravation inhering in nature**.
+- Others dispute that **the tinder of sin, as a diseased quality, adheres only in the flesh**, which inclines the sensitive appetite, and through it also inclines the will to lower things.
+- Certain ones place the tinder in the sensitive appetite alone, and hold that **the higher part of reason is immune from all depravation**, save that from elsewhere it can be a little inclined to the lower things.
+- There are those who reckon **original sin to be neither a privation nor any depravation in man, but only guilt on account of Adam's fall, without any depravation inhering in us** — see **Gabriel Biel, De Peccato Originis, lib. 2, dist. 30**.
+- **Andradius, lib. 3**, writes that **the want of original righteousness has only so much of the reason of sin, as it has of the voluntary**; but that since it has very little of the voluntary, therefore **original sin is the least of all sins**.
+
+But **Sacred Scripture describes original sin far otherwise**. **Eph. 2** says that **we are by nature children of wrath** — that is, **we are conceived and born in sins, and on account of that foulness we sorely displease God**. And **Rom. 7** affirms that **sin dwells in us, lies adjacent to us, and impels us to sinning**, so that we cannot do good. Therefore **original sin is not merely a naked privation, but an evil depravation, by which we are ever incited to sin**. Also **in the regenerate the Apostle shows the remnants of original sin to be so efficacious**, that the regenerate see **another law in their members rebelling against the law of their mind, and captivating them under the law of sin**. Therefore **it is a fiction which is said of a naked privation or diseased quality only inclining the sensitive appetite** — since it is **a horrible depravation most tenaciously adhering in human nature**.
+
+Concerning the **tinder** which they feign, it is likewise a most vain fiction — since Scripture **Gen. 6** expressly says that **every imagination of the thoughts of the heart is only evil**. And lest anyone think that Moses speaks of actions only, or of acquired habits, he affirms in particular that **the imagination of the human heart is evil**. **For we are by nature children of wrath** — **Eph. 2**. Nor indeed is original sin only guilt on account of Adam's fall, without any depravation inhering in us. For not only is human nature *guilty* on account of Adam's fall, but it is also **polluted with a foul depravation**, by which it is brought to pass that **from the heart proceed evil thoughts, adulteries, thefts, injuries, wickedness, deceit, envy, blasphemy, pride, folly** — **Mark 7**. Whence also **Eph. 2** is written: *that we do the will of the flesh and of the thoughts*.
+
+**It is a horrible blasphemy to say that original sin has no more of the reason of sin than it has of the voluntary; and that since it has very little of the voluntary, therefore it is the least of all sins.** For, **first**, this extenuation of sin diminishes **the glory of Christ**. For **howsoever sin is extenuated, so much is subtracted from the glory of Christ the Mediator**. **Secondly**, if original sin has no more of the reason of sin than of the voluntary, it can be easily inferred: that although in Adam the protoplast it was voluntary, in us however it is altogether involuntary — since our consent in specific did not come to our conception. **Therefore it has no reason of sin**. In this way, with one erasure, whatever Scripture teaches of original sin would be blotted out; and on the contrary it would be rightly collected: if that only be truly and properly sin, which is committed by free will by a knowing person — therefore original sin, since it is conceived and born with iniquity, as with David, properly of itself and of its own nature is not sin, but is improperly said to be sin. In *actual* sins that rule concerning the voluntary has place — but in the doctrine of original sin, by no means. **It would follow also this**: if original sin be the least of all sins, that **Christ by his bitter and most holy Passion satisfied for the least of all sins, but not for the greater**. Which blasphemy, since it verges upon the Author of our salvation, is not to be tolerated.
+
+## Objections
+
+### Objection I. The depravation of nature is not to be too much exaggerated, lest we come by little and little near unto the Manichaeans. *Ergo* from such exaggeration of sin, which you urge, one must abstain.
+
+**Respondeo**: **Nay, it must most greatly be exaggerated**, since Scripture exaggerates it, and describes it in atrocious words as above is shown. **And since the benefit of redemption is extenuated, if it be said that original sin is the least of all sins**, and that depravation inhering in us can never be sufficiently deplored. **Rom. 7:24** — the Apostle, having in some way beheld the atrocity of sin, cries out: *"Unhappy I, a man! Who shall deliver me from the body of this death? — The grace of God, through Jesus Christ our Lord."* With what conscience therefore shall we extenuate it? **The blasphemy of the Manichaeans**, who taught sin to be a substance created, etc., we can flee — even if we with Scripture strongly exaggerate original sin.
+
+### Objection II. Sin is properly whatever is done by a knowing and willing person. But the infant in conception neither yet knows nor wills. *Ergo* original sin in the infant, who is conceived, has either little or nothing of the reason of sin, since he has not yet the use of the will.
+
+**Respondeo**: **The Major speaks of actual sins, not of original sin.**
+
+To the Minor: **Although the infant in the very conception has not yet the use of reason or will**, yet Scripture affirming, one must simply acquiesce, when it says of David and of all men: *"Behold, I was conceived in iniquities, and in sins my mother conceived me."* In which words it perspicuously teaches that **that pollution truly has the reason of sin, although the organs of the will are not yet formed**. Otherwise God speaks of sin, otherwise men. We know that one must stand by the judgement of God.
+
+### Objection III. **Alien sin damns no one.** The sin of Adam is alien. *Ergo* we are not damned by it.
+
+**Respondeo**: **The Major contains a political sentence**, which has force in the political forum. I ought not to be punished by the Magistrate for the homicide of Cain, which is alien to me.
+
+To the Minor I respond: **Adam in this part, when we treat of original sin, is to be considered as the root or fount of the whole human race**. And in this reason **the sin of Adam is not alien from us**. Then, not only is it derived into us by propagation, **but by this very reason it also becomes ours**, since **in the very conception we are polluted and depraved by the foulness of this sin** — **Ps. 51**.
+
+### Objection IV. But **Gen. 8** Scripture speaks only of a *proneness* to evil. Why therefore do you exaggerate original sin unto such a degree?
+
+**Respondeo**: **The old version indeed so has it. But in the very fountains nothing is had of proneness. But so speaks the Holy Spirit**: *"The thought of man's heart is evil from his childhood"* — he does not say *prone to evil*, but *evil from his childhood*. When therefore we exaggerate original sin, **we follow in the footsteps of the Holy Spirit**, and (as **Ps. 17** speaks) we observe the ways of the wicked.
+
+### Objection V. In **Wisdom 9** is read: *"The corruptible body burdens the soul."* *Ergo* only by the contagion of the body is the soul, created by God, infected.
+
+**Respondeo**: **The Book of Wisdom speaks of the depraved concupiscences of the flesh — chiefly indeed of the cares of human things, which are transitory** — which appears from the following words: *"And the earthly dwelling presses down the mind engaged in many cares."* **Truly the mind is stupefied by other earthly cupidities**, which render all the senses heavy and imbecile. It does not speak of original sin itself. Much less does it deny that **the whole man is conceived in sin, in body and soul**. For Scripture in our cause, **Gen. 5**, plainly teaches, that **Adam begot a son to his own image** — which words are to be understood not of the body only, but also of the soul. And that we are conceived in sins as to soul and body, **Ps. 51** testifies. And if original sin pertained only to the body and not to the soul, our Lord Jesus Christ would have suffered only for the body, not for the soul — which is most false. For he redeemed the whole man, with body and soul, from sin. Therefore he is wholly conceived and born in sins.
+
+— ❦ —
+
+**Fifthly**, [the error] of those who **in our age** have taught, that **original sin is a substance, or the corrupt nature itself, which is a substance, is original sin; and that there is no distinction between the nature of man and original sin**. And they expressly denied that **original sin is an evil accident in human nature**, but they said there is a distinction between the corrupt nature and original sin itself.
+
+**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the passions of sins, which were by the Law, were working in our members, that they should bring forth fruit unto death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17**: *"Now it is no longer I that work it, but sin that dwelleth in me. For I know that in me — that is, in my flesh — dwelleth no good."* Item **v. 21**: *"For evil lieth close to me."* Item **v. 23**: *"But I see another law in my members repugnant to the law of my mind, and captivating me in the law of sin, which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"And according to the multitude of thy mercies blot out my iniquity,"* etc. **Matt. 1:21** — *"And thou shalt call his name Jesus, for he shall save his people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all impiety and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
+
+From these and similar pronouncements of Sacred Scripture it is sufficiently manifest that **Scripture constitutes a manifest distinction between the corrupt nature of man and original sin, and expressly denies that original sin is a substance or the corrupt nature itself**. For it asserts that sin is in the members, not that the members themselves are sin. Item, that sin dwells in the flesh, but not that the flesh is sin itself. Item, that the blood of Christ cleanses us from sin. Now if the corrupt nature were original sin itself, the blood of Christ would cleanse us from the nature itself, and not the nature from sin. Item, that Christ saves sinners, not sin itself.
+
+**II.** The same also **the Articles of our Faith testify**. The article of Creation: **God even now after the Fall creates the nature of man, but he does not create sin**. Item the article of Redemption: **Christ assumed our nature or our flesh and blood into the unity of his Person; but he did not assume sin**. It is therefore necessary that **there be a distinction between the nature of man and original sin, and that original sin be an evil separable, that is, an accident**. Also **Christ redeemed the corrupt nature of man, but did not redeem sin**. Therefore the nature of man and sin cannot be one and the same. **The corrupt nature of man in Baptism through water and the Spirit is reborn; but sin is not reborn**. It is therefore necessary that **sin differ from the substance and nature of man**. The nature of man is cleansed from sin, will rise again from the dead, and shall live unto all eternity — but original sin shall be utterly abolished. How therefore can the nature of man and original sin be one and the same? **The corrupt nature of the faithful shall be saved — but sin shall not be saved**. It is therefore necessary that the nature of man and original sin be distinguished.
+
+**III.** The same is also manifest **from sufficient enumeration**. **Original sin is not the very body of man.** For **Rom. 6:12** the Apostle saith: *"Let not sin therefore reign in our mortal body, that ye should obey the concupiscences thereof"* — where it is expressly said that **sin is in our mortal body — therefore it is not the mortal body itself**. Neither also is it **the soul of man itself** — for this is a **spiritual, rational, and immortal creature**, which cannot be said of sin. It is therefore **an accident in nature, and not a substance**.
+
+**IV.** The same the **distinct properties of nature and of original sin** evince. **The nature of every man has its own subsisting essence** through itself: but original sin does not. For it is not a substance and essence subsisting through itself, but **it is in the corrupt nature of man as in another; and it is the corruption itself of human nature**.
+
+**V.** The same the **absurdities** teach, which irrefragably follow upon the sentence of the Adversaries. For if it be laid down that **original sin is the corrupt nature of man itself** — but sin is not from God — it would follow that **the Devil, from whom sin is, is the creator of the corrupt nature of man** — which is horrid to say.
+
+— ❦ —
+
+*[Locus XIV Part 1 closes. Part 2 (12 anti-Flacian Objections) follows in T16. 241 top-level Q + 106 Obj rendered so far.]*
