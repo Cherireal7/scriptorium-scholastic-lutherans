@@ -2244,6 +2244,250 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **II.** He himself is of the ***essence of the Divinity***. **Joel 2:28** — *"I will pour out my Spirit upon all flesh."* **Isa. 59:21** — *"My Spirit that is in thee."* **John 15:26** — *"But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father."* It is required, therefore, that he be true God from the essence of the Father and of the Son.
 
+**III.** To Christ also is attributed the ***cultus and honour of invocation*** — **Matt. 28** — when he bids that we baptise in his name. He must therefore be true God.
+
+**IV.** As also the ***work of creation*** is attributed to him in Scripture — **Gen. 1; Ps. 33** — from which also is gathered that he is true God, since ***creation is a work proper to God alone***.
+
+**V.** Similarly, ***regeneration and renewal*** Scripture attributes to him — **Titus 3** — which no creature can operate. The Holy Spirit therefore, with the Father and the Son, is one, true, and eternal God — ***ὁμοούσιος καὶ συναΐδιος*** to the Father and to the Son.
+
 — ❦ —
 
-*[Locus VII continues in Rebuild-Tranche 10 — remaining Q&A on the divine works of the Holy Spirit, his operation through Word and Sacraments, distinction from Word, and refutation of pneumatological errors.]*
+## Objections concerning the Holy Spirit
+
+### Objection I. At **Amos 4:13** it is said: *"Behold, God who createth Spirit."* *Ergo* the Holy Spirit is a creature.
+
+**Respondeo**: **Evil is the interpretation.** For in this place the Hebrew ***רוּחַ*** (Ruach) signifies ***wind and stirred air***, not the Holy Spirit.
+
+### Objection II. **John 7:39** — *"The Spirit was not yet."* *Ergo* the Holy Spirit is not eternal with the Father and the Son as God.
+
+**Respondeo**: **The Evangelist speaks not of the essence or Person of the Holy Spirit, but of the ***visible outpouring*** of the Holy Spirit, which was to happen on the feast of Pentecost.**
+
+### Objection III. In the ***Nicene Symbol*** nothing is defined of the Holy Spirit's ***ὁμοουσία*** with the Father and the Son. *Ergo* he is not consubstantial to them.
+
+**Respondeo**: **What was chiefly defined was that of which Arius chiefly contended — namely, of the ***consubstantiality of the Son with the Father***.** Whence, however, it does not follow that the Holy Spirit is not consubstantial to the Father and the Son.
+
+— ❦ —
+
+## Question 4. What are the ***chief works and benefices*** of the Holy Spirit?
+
+**What are the chief works of the Holy Spirit?**
+
+**I. The gathering of the Church.** [*Luther: T. 7, pp. 164, 165, 166*] For he himself, together with the Father and the Son, through the ministry of the Word and Sacraments, gathers the Church — **John 16:8**: *"The Holy Spirit shall convince the world of sin."* **Matt. 10:20** — *"You are not the ones that speak, but the Spirit of your Father that speaketh in you."*
+
+**II. Regeneration.** For he himself regenerates the whole man, and in the hearts of men excites and kindles true faith in Christ and new obedience — **John 3:5**: *"Amen, amen, I say to thee, unless one be born again of water and the Spirit, he cannot enter into the kingdom of God."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit,"* etc.
+
+**III.** He ***raises up and consoles the contrite and humbled in heart***, in every kind of temptations and miseries; ***corroborates and preserves them in true faith in Christ, in hope, in patience***, etc. Whence he is also called ***Paraclete*** — **John 16:7** [*Luther: T. 7, pp. 89, 85, 87, 88, 89, 90, 91*]: *"But I tell you the truth: it is expedient to you that I go; for if I go not, the Paraclete will not come to you. But if I go, I will send him to you."* **Eph. 3:16** — *"That he would grant you, according to the riches of his glory, to be strengthened by his Spirit in the inner man,"* etc.
+
+**IV.** He ***directs and leads the faithful in all their life and vocation*** — **Ps. 143:10**: *"Teach me to do thy will, for thou art my God. Thy good Spirit shall lead me into the right land."* **Ps. 51:12–13** — *"Create in me a clean heart, O God, and renew a right Spirit within my bowels. Cast me not away from thy face, and take not thy Holy Spirit from me."*
+
+**V.** He ***sanctifies the faithful unto eternal life*** [*Luther: T. 4, pp. 787, 788, 789*] — **Rom. 8:11**: *"And if the Spirit of him that raised up Jesus from the dead, dwell in you, he that raised up Jesus Christ from the dead, shall quicken also your mortal bodies, because of his Spirit that dwelleth in you."* **Gal. 6:8** — *"He that soweth in the Spirit, of the Spirit shall reap life everlasting."*
+
+These works and benefices of the Holy Spirit let the pious and faithful always contemplate, and by these against the temptations of the Devil let them sustain and console themselves.
+
+— ❦ —
+
+## Question 5. Through what ***means*** is the Holy Spirit given?
+
+**Through what means is the Holy Spirit given?**
+
+**Through the ministry of Word and Sacraments.** **Isa. 59:21** — *"This is my covenant with them, saith the Lord: My Spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, saith the Lord, from henceforth and for ever."* **Acts 2:38** — *"Do penance, and be baptised every one of you in the name of Jesus Christ, for the remission of your sins: and you shall receive the gift of the Holy Spirit."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit."*
+
+All men, therefore, let them join themselves to the ministry of Word and Sacraments: for through this, as through a means ordained by God himself in this order, ***the Holy Spirit is certainly given***.
+
+— ❦ —
+
+## Question 6. To whom is the ***Holy Spirit given***?
+
+**To whom is the Holy Spirit given?**
+
+**John 14:17** — Christ says: *"The Spirit of truth, whom the world cannot receive."* Why? Because it does not know Christ, nor hear his Word. On the contrary, ***those who hear Christ, and from his Word know him and invoke him, these receive the Holy Spirit*** — **Joel 2:28–32**: *"I will pour out of my Spirit upon all flesh,"* etc. — *"And every one that calleth upon the name of the Lord shall be saved."*
+
+— ❦ —
+
+## Question 7. From what ***marks*** may the faithful be ***certain*** that they too have the Holy Spirit?
+
+**By what marks are the faithful certain that they have the Holy Spirit?**
+
+**I.** If they are led by ***true and ardent desire and love of Christ, of his Word, and of the Sacraments***. For this love and desire is not the work of the flesh, but of the Spirit — **John 8:47**: *"He that is of God, heareth the words of God."*
+
+**II.** By the ***interior testimony of the heart*** — **Rom. 8:16**: *"For the Spirit himself giveth testimony to our spirit, that we are the sons of God."* For that ***filial confidence*** by which we trust in him, and without any hesitation certainly believe ourselves to be his sons — accepted of him and his heirs — is not of our corrupt nature, but of the Holy Spirit.
+
+**III.** By ***true and earnest invocation*** — **Gal. 4:6**: *"And because you are sons, God hath sent the Spirit of his Son into your hearts, crying: Abba, Father."* **Rom. 8:15** — *"For you have not received the spirit of bondage again in fear; but you have received the spirit of adoption of sons, whereby we cry: Abba, Father."* For by this reasoning, in miseries and afflictions, ***no one can invoke God without the Holy Spirit***, who operates this invocation in the faithful.
+
+**IV.** By ***hope and patience in temptations and afflictions***, in the cross and miseries, where the Holy Spirit in our hearts wrestles with ***ὀλιγοπιστία*** (little-faithness), pusillanimity, terrors, impatience, and similar affects of the flesh, and overcomes them — **Rom. 5:2–5**: *"We glory in the hope of the glory of the sons of God. And not only so, but we glory also in tribulations, knowing that tribulation worketh patience, and patience trial, and trial hope, and hope confoundeth not: because the charity of God is poured forth in our hearts, by the Holy Spirit, who is given to us."* **Rom. 8:26** — *"Likewise the Spirit also helpeth our infirmity. For we know not what we should pray for as we ought; but the Spirit himself asketh for us with unspeakable groanings."*
+
+**V.** By ***hatred and avoidance of sins***, and ***perpetual struggle against the flesh and its concupiscences*** — **Rom. 8:13–14**: *"For if you live according to the flesh, you shall die. But if by the Spirit you mortify the deeds of the flesh, you shall live. For whosoever are led by the Spirit of God, they are the sons of God."* **Gal. 5:16–17** — *"Walk in the Spirit, and you shall not fulfil the lusts of the flesh. For the flesh lusteth against the spirit, and the spirit against the flesh; for these are contrary one to another, so that you do not the things that you would. But if you are led by the Spirit, you are not under the law."* Item **v. 24** — *"And they that are Christ's have crucified their flesh, with the vices and concupiscences."* Where these are, it is certain that the Holy Spirit dwells in the heart of that man — though sometimes more, sometimes less, they shine and exert themselves.
+
+Whether the Holy Spirit is present in us ***essentially or virtually***: in the disputation ***concerning the works of Law and Grace, agitated Anno 1537***, is handled.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus VIII. Of the Creation of the Whole Universe, or of All Creatures
+
+### *De Creatione Totius Universi seu Omnium Creaturarum*
+
+— ❦ —
+
+## Question 1. By whom was this whole universe or world created?
+
+**By whom was this world created?**
+
+**By the sacrosanct Trinity.** [*Luther: T. 8, pp. 149, 150, 151; Gen. T. 1, p. 1*] **Ps. 33:6** — *"By the word of the Lord the heavens were established, and all their virtue by the Spirit of his mouth."* Created therefore is the heaven and all things that are in it, etc. So **Moses** writes: *"God said, Let there be a firmament, and God made the firmament,"* etc. Similarly the earth also, and all things that are in it, are created by the word of God. Three Persons ***distinctly*** he names: the ***Lord***, ***his Word***, and ***his Spirit*** — and yet he sets ***one and individual*** Creator in essence. [*Luther: T. 8, pp. 158, 159*] For ***the works of the Trinity ad extra are undivided***.
+
+— ❦ —
+
+## Objections
+
+### Objection I. In the ***Symbol*** the creation is ascribed to the ***Father***. *Ergo* it is not the work of the whole Trinity.
+
+**Respondeo**: **That the Son and the Holy Spirit are by no means excluded from the work of creation by the words of the Symbol** [*Luther: T. 8 De novissimis verbis Davidis, pp. 152, 153, 154*] — from this it appears, that ***synecdochically*** he speaks. For at **Gen. 1** and **Ps. 33** it is perspicuously asserted that ***creation is the work of the whole Trinity***.
+
+### Objection II. **John 5:17** it is said: *"My Father worketh until now."* *Ergo* the creation and conservation of the world is the work of the Father alone.
+
+**Respondeo**: **But there straightway is added: *"and I work."*** Therefore not ***exclusively*** are these words to be understood, as if the remaining Persons of the Divinity were to be excluded. Next, Scripture so speaks, because ***the Father is as it were the fountain of the whole Divinity***.
+
+### Objection III. **2 Kings 19:15** — *"Thou art God alone; thou hast made heaven and earth."* *Ergo* only the Father is the Creator of heaven and earth.
+
+**Respondeo**: **Hezekiah speaks of the one only true God, as he has manifested himself in his Word — who is Father, Son, and Holy Spirit.** For those three Persons are that one and only true God. He embraces therefore the ***one true and sole divine essence***, in which are three Persons — Father, Son, and Holy Spirit — and does not exclude the Son and the Holy Spirit from the work of creation.
+
+— ❦ —
+
+## Question 2. Out of what, or from what matter, are heaven and earth created?
+
+**From what matter are heaven and earth created?**
+
+**Out of nothing.** For no ***pre-existent matter*** is, out of which the world was created. But ***by the word alone*** all things are created. The Word itself, however, is ***not created***, but was with God the Creator of all in the beginning — **John 1**.
+
+— ❦ —
+
+## Question 3. In how many days did God accomplish the creation of the world?
+
+**In how many days was the world created?**
+
+**In six.** **Gen. 1**. [*Luther: T. 4 Gen., cap. 2*] On the ***first day*** were created heaven, earth, and light. On the ***second***, the firmament. On the ***third***, the earth and water with their fruits were produced. On the ***fourth***, the Sun, Moon, and the remaining Stars in the firmament were created. On the ***fifth***, the fishes of the sea and the birds of the sky. On the ***sixth***, animals, and also man himself.
+
+— ❦ —
+
+## Question 4. To what end did God create all things?
+
+**To what end did God create all things?**
+
+**That men, from these works, might know God the Creator, and might give him thanks for his benefits, worship and celebrate him.** [*Luther: T. 4, p. 14*]
+
+— ❦ —
+
+## Question 5. How is this to be understood, when it is said that God ***rested*** from all his work which he created?
+
+**How is God's rest to be understood?**
+
+**That he did not create another heaven and another earth, nor does he daily create a new world**. [*Luther: T. 4, p. 15; Gen. T.*] Not however that he ***withdrew his hand from his work***, and no longer governs the world by his providence and care. For until the present day he ***powerfully operates all things*** — **John 5:17**: *"My Father worketh until now, and I work."* Next, this is also to be understood ***of the state of the world before the fall***. For after the fall of the first parents, many things were changed on account of sin; and with man perverted, the world was also perverted.
+
+— ❦ —
+
+## Question 6. Does God govern all things in this world ***most freely***, or is he unable to act otherwise than the ***second causes*** bring?
+
+**Does God govern most freely, or is he tied to second causes?**
+
+**Since God created and disposed all things ***most freely*** by his Word, he is not bound to second causes, but in all creatures he most freely acts, has all in his hand, and can change the order instituted by him whensoever he wills.** [*Gen. T. 1, p. 8, f.b.*] **Ps. 115:3** — *"But our God is in heaven; he hath done all things whatsoever he would."* **Ps. 135:5–6** — *"For I have known that the Lord is great, and our God is above all gods. Whatsoever the Lord pleased he hath done, in heaven, in earth, in the sea, and in all the deeps."*
+
+All the miracles of the Old and New Testament testify that God is a most free agent, enclosed by no ***confines*** of creatures and second causes. Wherefore, though we fall into difficulties and straits so that ***we seem forsaken by all creatures***, yet let us ***not be terrified***, much less lose heart, cast away faith and hope, but let us ***know: our Lord God is greater than all creatures, has all things in his hand, and does whatsoever he wills***.
+
+— ❦ —
+
+## Question 7. Shall the world be ***eternal***?
+
+**Shall the world be eternal?**
+
+**It shall not be eternal.** [*Gen. T. 4, p. 159; Gen. T. 1, p. 141*] **Ps. 102:26–27** — *"In the beginning, O Lord, thou foundedst the earth: and the heavens are the works of thy hands. They shall perish, but thou remainest: and all of them shall grow old like a garment. And as a vesture thou shalt change them, and they shall be changed."* **Luke 21:33** — *"Heaven and earth shall pass away, but my words shall not pass away."*
+
+— ❦ —
+
+## Question 8. Through what shall the world pass away?
+
+**Through what shall the world pass away?**
+
+**Through fire.** [*Gen. T. 1, p. 122*] **2 Pet. 3:10** — *"But the day of the Lord shall come as a thief, in which the heavens shall pass away with great violence, and the elements shall be melted with heat; and the earth, and the works which are in it, shall be burnt up."*
+
+— ❦ —
+
+## Question 9. What times, and what state of things, shall be ***before the end of the world***?
+
+**What state before the end of the world?**
+
+**Luke 18:8** — Christ himself says: *"But yet the Son of man, when he cometh, shall he find, think you, faith on earth?"* And at **Matt. 24**, the last times he compares with the times of Noah. [*Gen. T. 1, p. 97*] Those words are ***tremendous***, since the world securely despises them, and daily rushes into the worse. But we who are faithful — let us watch and pray, that God may preserve us in faith and knowledge of his Son. **Amen.**
+
+— ❦ —
+
+## Question 10. Meanwhile, does God take ***care of the world*** and of all creatures?
+
+**Does God take care of the world?**
+
+**Most certainly.** [*Gen. T. 1, p. 14; Gen. T. 3, pp. 197, 198; Gen. T. 3, pp. 108, 154, 197; Gen. T. 4, p. 10; T. 4 lat. on Ps. 127*] For that the world should ***subsist even for a moment***, unless God took care of it, cherished it, and preserved it — this would be plainly ***impossible***. Nor did God create the world for this — that he might ***forsake*** it — but that he might ***cherish and preserve*** it. He himself is also present to all his creatures in this world, ***moves them, rules them, cherishes and preserves each in its own species and order***.
+
+— ❦ —
+
+## Question 11. In what manner does God govern this world?
+
+**How does God govern the world?**
+
+**God has ***four degrees and orders*** by which he governs this world.** [*Luther: T. 4, p. 240*]
+
+**The first** is ***immediate***, which without the work of any creature he himself per se administers by his absolute power — as when he creates all creatures, preserves them, and imparts various powers to each according to its species. Here he uses the work of no creature.
+
+**II.** When ***the creatures which he himself created and preserves*** (chiefly however men) he commends to ***his Angels***, that they extrinsically may be present to them, lead them, accompany them, guard them, etc. For the ***interior conservation of creatures*** God alone performs; but ***externally the holy Angels*** avert many evils, and hasten and promote many goods to the use and salvation of men.
+
+**III.** Is that which God through ***men in his Church*** — namely through the Apostles and ministers of the Church — administers. For though God even without the ministry of men could make known his Gospel (as inwardly he himself efficaciously operates the true knowledge of himself in the hearts of men, and as by a certain internal power preserves all creatures without the ministry of Angels), yet ***he willed not to do this***, but to accomplish this work through the ***external voice of ministers***. **1 Cor. 3:9** — *"For we are God's helpers; you are God's husbandry; you are God's building."*
+
+**IV.** Is the order of the ***political Magistrate***, under which is comprehended the ***Household***, and the ***power of parents over children and family***, and the ***authority of preceptors over disciples***.
+
+— ❦ —
+
+## Question 12. What are the chief errors that fight against the article of creation?
+
+**What errors fight against the article of creation?**
+
+**I.** In general the opinion of the Philosophers, who held that the world was from eternity. [*Luther: T. 4, p. 7*] This opinion is refuted at **Gen. 1**.
+
+**II.** The error of ***Democritus***, who feigned that the world was made ***from a wandering concourse of atoms***, etc. Refuted at **Gen. 1**; next also from reason itself. From atoms not even a house is built together — how then a world?
+
+**III.** The error of those who felt that ***many worlds successively are born and perish***, and that many are at the same time. Refuted at **Gen. 1**.
+
+**IV.** The error of the ***Stoics***, who posited ***two coeternal principles of all things — namely, mind and matter***, etc. Refuted at **Gen. 1**; **Ps. 33** [22].
+
+**V.** The error of the ***Marcionites***, who feigned that this world is a work unworthy of the good God. Refuted at **Gen. 1**.
+
+**VI.** The error of the ***Simonians***, who taught that the world was created ***by angels, not by God***. Refuted at **Gen. 1**. And ***memorable*** is the voice of **Augustine, *De Civitate Dei* lib. 5, cap. 9**: *"The Spirit therefore of life, who quickens all things, is the Creator of every body, and of every created Spirit; he himself is God — the Spirit uncreated in every way."*
+
+**VII.** The error of the ***Cerinthians*** and ***Carpocratians***, who devised that the world was created ***by inferior Angels and the Devil***.
+
+**VIII.** The ***Cerdonians***, who asserted that ***there are two Gods — one good, the other cruel or evil***. And that the ***cruel and evil*** [one] was the maker of this world. Refuted at **Gen. 1; Deut. 6; Isa. 45**: *"I am God, and there is none besides me."*
+
+**IX.** The ***Valentinians***, who added that ***Python and Silence were first — from these proceeded Seed, mind, and truth — from which broke forth Word and Life***, of which men and the Church were created. It is a futile and vain opinion of the human brain, which rests on ***no Scripture foundation***.
+
+**X.** The ***Manichaeans***, who taught that there are ***five elements*** from which all are born. Those elements they named by these names: ***smoke, darkness, fire, water, and wind***. In smoke, they said, were born ***bipedal animals*** — whence also men proceeded thence. In darkness, ***creeping things***; in fire, ***quadrupeds***; in waters, ***swimming things***; in wind, ***flying things***. But this vanity falls of itself, since it rests on ***no Scripture foundation***.
+
+**XI.** The ***Ophians***, who said that ***worlds are innumerable***. The same felt the ***Epicureans***. ***Origen*** also in ***De Principiis***, lib. 3, is of this opinion — that besides this ***visible and conspicuous*** world, there is yet another ***also created by God before this***, etc. But at **Gen. 1** it is expressly said that ***God created heaven and earth***, and there was no world before, ***either visible or invisible***. Nor then did God make many worlds. Rather, as there is ***one*** God, so also there is only ***one*** world. And if there were more, ***the Holy Spirit in Scripture would without doubt have signified this***.
+
+**XII.** The ***Epicureans***, who deny that God ***cares for created things***, etc. This error, or rather fury, is refuted at **Acts 17:28**: *"In him we live, and move, and are."* **Ps. 104:27–28** — *"All expect of thee that thou give them food."* **Ps. 147:8** — *"Who covereth the heaven with clouds, and prepareth rain for the earth,"* etc. Nor does their argument avail: ***"Often it goes well with the evil,"*** etc. *Ergo* [God does not care].
+
+**XIII.** Contrariwise the ***Stoics and Platonists***, who felt that ***the world is God***, and has ***soul and mind***. And most of the ancients called the ***Sun the mind of the world***, as **Cicero and Pliny**, following Homer.
+
+**XIV.** The error of the ***Priscillianists***, who feigned that ***first all things, before they were made to appear, always remained in the wisdom of God as made***, etc. Next they said the ***principle of Angels, principalities, powers, souls, and demons was one substance***, and that either to an ***Archangel***, or to a ***soul***, or to a ***demon***, a place was given ***according to the quality of merits*** — using this word: ***a lesser fault merited a greater place***, etc. But that ***the world was made lastly*** for this reason, that in it ***souls might be purged which had sinned before***. But this figment is also refuted by the words of Moses at **Gen. 1**, and by other perspicuous testimonies of Scripture.
+
+— ❦ —
+
+## Question 13. Whence is it clear that God takes care of the whole world and of all creatures, and preserves all things?
+
+**Whence is it clear that God takes care of all?**
+
+**I. From the order of nature, or ordered works of nature.** **Acts 17:28** — *"In him we live, and move, and are."* **Acts 14:16–17** — *"And yet he left not himself without testimony, doing good, giving rains from heaven and fruitful seasons, filling our hearts with food and gladness."* **Ps. 104:27–30** — *"All expect of thee that thou give them food in season. What thou givest to them they shall gather up: when thou openest thy hand, they shall all be filled with good. But if thou turnest away thy face, they shall be troubled: thou shalt take away their breath, and they shall fail, and shall return to their dust. Thou shalt send forth thy spirit, and they shall be created: and thou shalt renew the face of the earth."*
+
+**II. From the miracles which God has performed, both in the Old and in the New Testament.**
+
+— ❦ —
+
+*[Locus VIII continues in Rebuild-Tranche 11 — closing questions on divine providence + government of creatures + closing of the creation locus. Locus IX De Angelis and Locus X De Malis Angelis follow.]*
