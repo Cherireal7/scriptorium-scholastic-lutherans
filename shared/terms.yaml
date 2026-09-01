@@ -6428,10 +6428,224 @@ evangelicae_veritati_apostolicae_traditioni_sacris_regulis:
     remains the more Reformation-friendly. Reformation-standard: cf.
     FC SD RULE AND NORM on the IUDEX CONTROVERSIARUM.
 
+infoelices_caesares:
+  english: "The Unhappy Caesars — INFOELICES CAESARES"
+  type: polemical-section-heading
+  first_use: "flacius-catalogus-testium-1556, body — vl0272 (major section-opening)"
+  note: >
+    MAJOR NEW SECTION-HEADING in the CATALOGUS, transitioning from the
+    pre-Ottonian canonical-episcopal-election dossier (T2oo-T2rr) to
+    the INVESTITURE-CONTROVERSY NARRATIVE of the 11c-14c. Flacius's
+    own coinage (Suetonian DE VITA XII CAESARUM + medieval DE CASIBUS
+    genre-echoes), signaling the TRAGIC-FALL REGISTER for the whole
+    subsequent Papal-Imperial-conflict narrative. POLEMICAL CENTRE OF
+    BOOK II; one of the ARCHITECTURAL PIVOTS of the whole work.
+    Reformation-historiographical reception of the Investiture
+    Controversy as DOCUMENTARY PROOF of Papal USURPATIO-IMPERII.
+    Cross-reference to earlier Ottonian-Investiture material at
+    T2hh-T2mm and to Hincmar-Rheims dossier at T2oo-T2rr.
+    (Blumenthal, The Investiture Controversy Philadelphia 1988.)
+
+platina_vitae_pontificum:
+  english: "Bartolomeo Platina, VITAE PONTIFICUM (1479)"
+  type: humanist-historical-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0272 (INFOELICES CAESARES source-header)"
+  note: >
+    BARTOLOMEO PLATINA (Bartolomeo Sacchi de Platina, 1421-1481),
+    Roman humanist, Vatican prefect of the library under Sixtus IV
+    (1475-1481), author of the LIBER DE VITA CHRISTI AC OMNIUM
+    PONTIFICUM (Venice: J. de Colonia, 1479) — first humanist papal-
+    biography, treating popes from St. Peter to Paul II (†1471).
+    Flacius uses Platina as PRO-PAPAL BUT CANDID witness — Platina's
+    own imprisonment under Paul II gave him critical distance making
+    him unusually forthcoming about papal vices. Reformation
+    reception: LUTHER TR WA-TR 3:3593 cites Platina as
+    WITNESS-AGAINST-THE-PAPACY. Standard modern edition: Giacinto
+    Gaida (ed.), Historia de vitis Pontificum Romanorum (RIS III.1,
+    Città di Castello, 1913-1932).
+
+donatio_constantini:
+  english: "Donation of Constantine"
+  type: papal-forgery
+  first_use: "flacius-catalogus-testium-1556, body — vl0272 (fictitious documents contrived)"
+  note: >
+    THE DONATIO CONSTANTINI (also CONSTITUTUM CONSTANTINI, c. 750-800,
+    Frankish or Roman-curial forgery), by which Emperor Constantine I
+    ostensibly transferred temporal rule over Rome and the western
+    Empire to Pope Sylvester I (r. 314-335) in gratitude for baptism
+    and cure of leprosy. DEFINITIVELY UNMASKED as forgery by LORENZO
+    VALLA De falso credita et ementita Constantini donatione declamatio
+    (1440, first printed Basel: J. Winter, 1519) — founding text of
+    Renaissance historical-critical philology — and independently by
+    NICHOLAS OF CUSA De concordantia catholica III.2 (1433). Flacius
+    treats the Donation as PARADIGM-CASE of Papal-FICTITIA production.
+    Standard modern edition: Horst Fuhrmann (ed.), Das Constitutum
+    Constantini (MGH Fontes iuris germanici antiqui 10, Hannover, 1968).
+
+translatio_imperii_ad_franci:
+  english: "Translation of the Empire to the Franks (Charlemagne 800)"
+  type: papal-imperial-transaction
+  first_use: "flacius-catalogus-testium-1556, body — vl0272 (Charlemagne modesty)"
+  note: >
+    Flacius's own historiographical argument (against the medieval
+    ex-nihilo view) that Charlemagne's imperial coronation of
+    CHRISTMAS 800 was legitimated only by SUBSEQUENT BYZANTINE
+    CONCESSION (Constantinople recognition of Charlemagne's imperial
+    title in 812 under Michael I Rhangabé). Reformation-standard: cf.
+    Sleidan De statu religionis passim + Melanchthon Chronicon
+    Carionis. STANDARD 16C PROTESTANT ANTI-PAPAL-MONOPOLY framing of
+    the TRANSLATIO — against papal-decretalist claim (Innocent III)
+    that the Pope TRANSFERS the empire, Reformation historians insist
+    the BYZANTINE EMPEROR HIMSELF CONCEDED it. Reference: Werner
+    Ohnsorge, Das Zweikaiserproblem im früheren Mittelalter
+    (Hildesheim, 1947).
+
+hutten_carion_franck_reformationshistoriker:
+  english: "Hutten + Carion + Franck — the Reformation-era historians of Papal-Imperial conflict"
+  type: reformation-historiographical-triad
+  first_use: "flacius-catalogus-testium-1556, body — vl0274 (as collected by many)"
+  note: >
+    THREE REFORMATION-ERA HISTORIAN-WITNESSES named together as the
+    STANDARD REFORMATION-HISTORIOGRAPHICAL APPARATUS on the Papal-
+    Imperial conflict: (i) ULRICH VON HUTTEN (1488-1523) humanist-
+    knight-polemicist, VADISCUS SIVE TRIAS ROMANA 1520 + DIALOGI 1520
+    = earliest systematic Reformation-humanist indictment of Papal
+    fiscal-jurisdictional abuse; (ii) JOHANNES CARION (1499-1537)
+    Brandenburg court-astronomer + Melanchthon-collaborator, CHRONICA
+    CARIONIS 1532 = first Protestant world-chronicle, extensively
+    revised by Melanchthon + Peucer; (iii) SEBASTIAN FRANCK (1499-
+    c.1543) Reformation-era spiritualist chronicler, CHRONICA ZEITBUCH
+    UND GESCHICHTBIBEL (Strasbourg, 1531) = heterodox-Protestant
+    universal history much-used by later Reformers despite Franck's
+    own dissenting theology. Reference: Peter Fraenkel, Testimonia
+    Patrum (Geneva, 1961).
+
+henricus_iv_paradigm_caesar:
+  english: "Henry IV (1050-1106) — paradigm-Caesar of the Investiture Controversy"
+  type: imperial-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0274 (Henricus IIII heading)"
+  note: >
+    HENRY IV (1050-1106), King of the Germans from 1056 (as minor),
+    Holy Roman Emperor from 1084 — PARADIGMATIC VICTIM-EMPEROR of
+    the Investiture Controversy. His pontificate coincides with
+    Alexander II (1061-1073), GREGORY VII/HILDEBRAND (1073-1085),
+    Victor III (1086-1087), Urban II (1088-1099), Paschal II
+    (1099-1118). Reformation-standard reception: PARADIGM-CAESAR
+    of Papal-tyranny narrative. Reference: Ian S. Robinson, Henry IV
+    of Germany, 1056-1106 (Cambridge, 1999).
+
+ius_conferendi_episcopatus_investitura:
+  english: "Right of Investiture (per anulum et baculum)"
+  type: canonical-legal-right
+  first_use: "flacius-catalogus-testium-1556, body — vl0274 (Henry-Hildebrand controversy)"
+  note: >
+    RIGHT OF INVESTITURE of bishops, abbots, prelates BY LAY-AUTHORITY
+    (Emperor) with RING AND STAFF (per anulum et baculum). INVESTITURE
+    CONTROVERSY proper — systematic conflict over this right, opened
+    at the ROMAN SYNOD OF 1075 by Gregory VII's DICTATUS PAPAE §12
+    (Quod illi liceat imperatores deponere) and §22 (Quod Romana
+    ecclesia numquam erravit). Settlement: CONCORDAT OF WORMS 1122
+    between Callixtus II and Henry V. Standard reference: Blumenthal,
+    The Investiture Controversy (Philadelphia, 1988).
+
+aventinus_annales_boiorum:
+  english: "Johannes Aventinus, ANNALES BOIORUM (1554)"
+  type: reformation-humanist-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0275 (Aventinus principal narrative source)"
+  note: >
+    JOHANNES AVENTINUS (Johann Georg Turmair, 1477-1534), Bavarian
+    humanist historian, court-historiographer to Wittelsbach dukes at
+    Munich, author of ANNALES BOIORUM (MS finished 1533, first fully-
+    printed Ingolstadt 1554 — TWO YEARS BEFORE FLACIUS'S CATALOGUS).
+    PROTO-REFORMATION in outlook (Melanchthon-correspondent) though
+    never formally Lutheran. ANNALES = Flacius's PRINCIPAL NARRATIVE
+    SOURCE for the Investiture Controversy in following pages. One of
+    the PILLARS of Reformation-historiographical apparatus, cited by
+    Melanchthon, Sleidan, Chytraeus, Flacius as DOCUMENTARY WITNESS-
+    AGAINST-PAPAL-USURPATION. Standard modern edition: Sigmund
+    Riezler (ed.), Johannes Turmair's Aventinus Sämmtliche Werke
+    (6 vols, Munich, 1881-1908). Cross-reference n480/n498/n514.
+
+paulus_bernriedensis_vita_gregorii_vii:
+  english: "Paul of Bernried, VITA GREGORII VII (c. 1128)"
+  type: papal-partisan-biography
+  first_use: "flacius-catalogus-testium-1556, body — vl0275 (methodological triangulation)"
+  note: >
+    PAUL OF BERNRIED (c. 1075/80-after 1146), Regensburg canon, author
+    of VITA GREGORII VII (c. 1128, PL 148:39-104) — EARLIEST FULL
+    BIOGRAPHY of Gregory VII, written from HILDEBRAND-PARTISAN
+    perspective. Flacius's methodological point: even as HILDEBRAND-
+    PARTISAN, Paul CONCEDES Gregory's TYRANNY. Reference: I. S.
+    Robinson, The Papal Reform of the Eleventh Century: Lives of Pope
+    Leo IX and Pope Gregory VII (Manchester, 2004).
+
+gerhoh_reichersberg_liber_de_aedificio_dei:
+  english: "Gerhoh of Reichersberg (1093-1169), LIBER DE AEDIFICIO DEI + DE INVESTIGATIONE ANTICHRISTI"
+  type: papal-partisan-testimony-critical
+  first_use: "flacius-catalogus-testium-1556, body — vl0275-vl0276 (Gerhoh smoking-gun testimony)"
+  note: >
+    GERHOH OF REICHERSBERG (1093-1169), Augustinian canon and prior
+    of Reichersberg abbey, author of LIBER DE AEDIFICIO DEI, DE
+    INVESTIGATIONE ANTICHRISTI, and other works defending Gregorian
+    reform program. Flacius's SMOKING-GUN witness: Gerhoh is
+    HILDEBRAND-PARTISAN yet indicts Roman-curial DIVINE-HONOUR-
+    USURPATION with the phrase "Romani sibi divinum usurpant honorem"
+    and the Juvenal SIC-VOLO-SIC-IUBEO tag applied to Papal decretal-
+    tyranny. Reference: Peter Classen, Gerhoch von Reichersberg
+    (Wiesbaden, 1960).
+
+sic_volo_sic_iubeo_sit_pro_ratione_voluntas:
+  english: "So I wish, so I command; let will stand for reason (Juvenal SATIRES VI.223)"
+  type: classical-tag-of-tyranny
+  first_use: "flacius-catalogus-testium-1556, body — vl0276 (Gerhoh's Juvenal-application to Papal party)"
+  note: >
+    THE CLASSICAL JUVENAL SATIRES VI.223 — PARADIGMATIC TYRANT-FORMULA
+    of Latin literature, spoken by the domineering wife in Juvenal's
+    misogynistic Sixth Satire. Gerhoh's application to the ROMAN CURIA:
+    the Papal party has adopted the tyrant's SIC-VOLO-SIC-IUBEO rather
+    than the RATIONAL-CANONICAL mode of governance. Reformation-
+    standard reception: Luther An den christlichen Adel 1520 WA 6:459
+    ff. applies the same Juvenal-tag to Papal decretalism.
+
+dictatus_papae_1075:
+  english: "Dictatus Papae (Gregory VII, 1075)"
+  type: papal-decretal-foundation
+  first_use: "flacius-catalogus-testium-1556, body — vl0278 (utramque personam a Christo)"
+  note: >
+    GREGORY VII'S DICTATUS PAPAE (1075, MGH Epp. sel. 2, no. 2.55a)
+    — 27 PROPOSITIONS asserting Papal PLENITUDO POTESTATIS over both
+    spiritual and temporal spheres. Especially: §8 (Quod solus Papa
+    possit uti imperialibus insigniis), §9 (Quod solius Papae pedes
+    omnes principes deosculentur), §12 (Quod illi liceat imperatores
+    deponere), §22 (Quod Romana ecclesia numquam erravit).
+    FOUNDATIONAL DOCUMENT of Reformation critique of Papal-monarchical-
+    usurpation. Cf. Luther An den christlichen Adel 1520 on the DREI
+    MAUERN [three walls] of the Papacy — inversion of Dictatus Papae.
+    Reference: Rudolf Schieffer, Die Entstehung des päpstlichen
+    Investiturverbots (Stuttgart, 1981).
+
+matilda_canossae_tuscanie:
+  english: "Matilda of Canossa/Tuscany (1046-1115) — Papal ally in Investiture Controversy"
+  type: papal-secular-ally
+  first_use: "flacius-catalogus-testium-1556, body — vl0278 (fretus opibus Machtildae)"
+  note: >
+    MATILDA OF CANOSSA/TUSCANY (1046-1115), powerful Countess of
+    Tuscany, PRINCIPAL SECULAR ALLY of Gregory VII and later Popes
+    throughout the Investiture Controversy. Her castrum at Canossa
+    was the site of Henry IV's famous SUBMISSIO of January 1077.
+    Flacius's epithet IMPOTENS = incontinent-in-power (not sexually-
+    impotent): Matilda as WOMAN-IN-INORDINATE-POLITICAL-POWER. Her
+    DONATIO MATHILDICAE of 1077 granted much of Tuscany to the
+    Papacy — TERRITORIAL-LEGAL FOUNDATION of PATRIMONIUM PETRI.
+    Reference: Michèle K. Spike, Tuscan Countess (New York, 2004).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Hincmar-Tournai + Charlemagne Edict +
-# Flacius OLIM/NUNC commentary + Rheims-dossier preface + Mainz Pontifical
-# (vl0001-vl0270, 270 body pp + 32 paratexts ≈ 49.4% of 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Mainz Pontifical + INFOELICES CAESARES
+# section-opening (Platina, Donation of Constantine, Charlemagne, Hutten-
+# Carion-Franck) + Henricus IV vs Hildebrand-Gregorius VII opening
+# (Aventinus, Paulus Bernriedensis, Gerhoh, Juvenal, Two-Swords, Matilda,
+# Dictatus Papae) (vl0001-vl0278, 278 body pp + 32 paratexts ≈ 50.9% of
+# 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
@@ -6439,7 +6653,7 @@ evangelicae_veritati_apostolicae_traditioni_sacris_regulis:
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
 # + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
 # 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) +
-# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) = 292.
+# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) + 14 (T2ss) = 306.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
