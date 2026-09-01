@@ -2738,6 +2738,290 @@ Let us therefore give thanks to God, who gave them to us as guardians, for this 
 
 With things therefore in the Church, in the polity, in our house afflicted and perturbed, let us ***not straightway lose heart***, but ***await the right hand of God***, which is not shortened. For ***God still lives, and his holy Angels also live***; and though God seem to be forgetful of us, and the holy Angels also seem to be removed from watch, yet certainly [they are not].
 
+Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and let this trial be a proof and testing to us — and let us joyfully sing with D. Philip [Melanchthon]:
+
+*"Meanwhile the throng of Angels covers us, that follows Christ as leader; and represses the cruel arms of the raging Dragon."*
+
 — ❦ —
 
-*[Locus IX continues in Rebuild-Tranche 12 — closing questions on the Angels + full Locus X De Malis Angelis + into the anthropology loci. 158 top-level Q rendered so far.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus X. Of the Evil Angels
+
+### *De Malis Angelis*
+
+— ❦ —
+
+## Question 1. What are the ***evil Angels***?
+
+**What are the evil Angels?**
+
+**Scripture calls them ***Devils*** — that is, ***calumniators***.** [*Luther: T. 5, p. 337*] For this after the fall is their nature: that they ***calumniate all works of God*** and ***interpret sinisterly***. They are also called ***Angels***, but they are ***legates and internuncii of iniquity***. The evil Angels therefore are ***spiritual essences originally constituted by God***, but which by their own free will turned themselves away from God, and were made enemies of God and of men, and daily impel to sins of every kind and to calamities. [*Gen. T. 1, p. 32; Gen. T. 2, p. 237; Gen. T. 3, p. 84*]
+
+— ❦ —
+
+## Question 2. Do the Devils also have some ***kingdom***?
+
+**Do the Devils have a kingdom?**
+
+**Most certainly.** [*Luther: T. 5, p. 518; T. 4, part 1, p. 371*] For the Devil, as a most potent Monarch, also has his ***empire and kingdom***, under which he has most potent princes, or great troops of Devils, ***legions and armies*** of unclean spirits — as at **Luke 11** it is permitted to see.
+
+— ❦ —
+
+## Question 3. What is the ***nature and property*** of the Devils?
+
+**What is the nature and property of the Devils?**
+
+**I.** They are ***powerful spirits***, and as a ***roaring lion*** they go about, ***seeking whom they may devour*** — **1 Pet. 5:8**. [*Gen. T. 2, p. 132; T. 3, pp. 357, 358; T. 5, pp. 336, 338; T. 3, p. 313; T. 7, p. 258; T. 5, p. 437*]
+
+**II.** They are ***as it were a thousand craftsmen***, ***transforming themselves into angels of light*** — **2 Cor. 11:14**. As they exert their cunning chiefly in the ***cause of religion*** — **Eph. 4:14**.
+
+**III.** They are ***liars and homicides***, in all orders and kinds of life — in Church, in Republic, and in Household — **John 8:44**: *"He was a murderer from the beginning; because he is a liar, and the father of lies."*
+
+**IV.** They are ***spirits ἐπιχαιρέκακοι*** — envying men not only corporeal, but chiefly spiritual [goods]; laughing at the evils and miseries of men. [*Luther: T. 1, part 1, p. 341; T. 3, part 1, p. 298; T. 2, part 1, p. 141*]
+
+**V.** They are ***sorrowful spirits***, who cannot bear that man rejoices in God. [*Luther: T. 5, p. 251; T. 3, p. 313*]
+
+**VI.** They are ***spirits of darkness***, and in darkness making tumult — whence they carry out ***empusas, lamias, and hobgoblins***. Which under the Papacy has been and is most manifest. [*Luther: T. 5, p. 261*]
+
+**VII.** All their zeals, actions, and endeavours are toward ***evil***; and this one thing they do — ***that no one may be saved, and that nothing may come to pass of what is agreeable to God and salutary to men***. [*Luther: T. 5, p. 334; T. 4, part 1, p. 416*]
+
+**VIII.** They are wont to ***bewitch*** men, that they receive and embrace ***lies for truth*** — as one may see in heretics. **Gal. 3:1** — *"O senseless Galatians, who hath bewitched you not to obey the truth."* [*Luther: T. 4, p. 227; T. 6, p. 196; T. 4, part 1, p. 218*]
+
+**IX.** Chiefly they are ***enemies of the literate***. For they fear that the literate man may act as ***preacher***, and bring damage to their kingdom. [*Luther: T. 1, p. 387*]
+
+**X.** They are ***inflated and proud spirits*** — as at **Matt. 4**, where he wills to be adored by Christ, one may see. [*Luther: T. 6, p. 188; Gen. T. 1, p. 43; Gen. T. 3, p. 85*]
+
+**XI.** They can ***transfigure themselves into angels of light***; whence they often impose upon the good — **2 Cor. 11:14**. [*Luther: T. 7, p. 47*]
+
+**XII.** Their property is to ***extenuate the sin to be committed, and to exaggerate what has been committed***; to lead men first into ***security***, afterwards into ***despair***. Whence for us to watch, and to beware of sins and of the Devil, is needful. [*Luther: T. 4, part 1, p. 75; T. 4, part 1, p. 18*]
+
+— ❦ —
+
+## Question 4. What are the ***chief works of the evil Angels***?
+
+**What are the chief works of the evil Angels?**
+
+**I.** ***To lie and to kill*** — **John 8**. For they lead men away from the Word of God to lying and destruction.
+
+**II.** ***To resist God*** and his holy will, with all their knowing and being able. [*Gen. T. 3, p. 56*]
+
+**III.** To ***impede our prayers***, as much as they can.
+
+**IV.** ***To make sins out of good works***, especially in temptations and in the agony of death.
+
+**V.** To ***obsess men, corporally and spiritually***, if it be permitted them by God.
+
+**VI.** ***To agitate men with the goads of conscience and gravest temptations***, especially in these last times.
+
+**VII.** ***To tempt the faith rather than the life of the good.*** [*T. 4, part 1, p. 149*]
+
+**VIII.** They ***torment the humbled, and confirm the secure in heart***. [*Gen. T. 2, p. 174*]
+
+**IX.** They ***place under sinners the pillow of security for a time, but afterwards intend furies against them***.
+
+**X.** Their one aim is that ***they may seduce us from the way of life***.
+
+**XI.** They ***tempt and solicit us through the concupiscence of our own flesh***.
+
+— ❦ —
+
+## Question 5. What ***arms*** do Christian men have, by which they can and ought to use against these enemies?
+
+**What arms have Christians against the Devils?**
+
+**I.** They ought to ***gird their loins in truth*** — **Eph. 6:14**. And truth is a ***true life conformed to the word of truth or the doctrine of the Gospel***. ***To gird the loins*** is to ***prepare oneself***, that man may be equipped to be able to engage with the enemy the Devil. [*Luther: T. 3, part 1, pp. 362, 363*]
+
+**II.** They ought to be ***clothed with the breastplate of justice*** — which is a ***good conscience***: that is, let a Christian man so live that he may have the praise and testimony of conscience — **2 Cor. 1:12**: *"For our glory is this, the testimony of our conscience,"* etc.
+
+**III.** They ought to be ***shod on the feet in the preparation of the Gospel of peace*** — that is, that with all men, as much as is in them, they have peace, bear injuries patiently.
+
+**IV.** They ought to ***take the shield of faith***: that is, that with ***firm and unmoved faith they embrace and hold Christ***, and from him let themselves be plucked away by no temptations or evils. For this can ***extinguish all the fiery darts of the most wicked one***.
+
+**V.** Let them ***take the helmet of salvation*** — that is, ***the hope of the future life***. For this consolation is to be held by the pious, when they are ***agitated by the Devil and the world***: that ***another life remains, where their reward shall be copious***.
+
+**VI.** Let them ***hold the sword of the Spirit*** — that is, the ***Word of God***. This is the chief means by which they can ***strike down, drive off, and vanquish the Devil*** — **Matt. 4**.
+
+— ❦ —
+
+## Question 6. Can the Devil ***harm the saints without the permission of God***?
+
+**Can the Devil harm the saints without God's permission?**
+
+**By no means.** [*Luther: T. 1, part 1, p. 120*] For this is our chief consolation: that God has ***bound Satan with chains***, so that he cannot harm beyond what is permitted him by God — **Job 1, 2**. Satan therefore has no power over the servants of God, save what God himself concedes to him for the salvation of the pious.
+
+— ❦ —
+
+## Question 7. Why does God permit Satan ***to afflict the pious and faithful***?
+
+**Why does God permit Satan to afflict the pious?**
+
+**God exposes us at times to the terrors of death and the injuries of the Devil — not that we may be devoured and slain by the Devil — but that we may be ***exercised***, and as it were ***tried in the fire***; and that he may more and more make himself known to us, and offer himself to us as to sons, and be known by us.** [*Luther: T. 4, part 1, p. 299*] For in these temptations and struggles of the Spirit against the flesh and Satan, by experience we learn (which cannot happen by the mere hearing of the Word) ***what is the power of Christ***, whom we know as most accepted to the eternal Father in the beloved Son, and in us ***the confidence in God, true knowledge of God, faith, hope, giving of thanks, is augmented and corroborated***. Others, outside temptations, being secure, ***content with the beginnings of faith***, ***slothful and unfruitful*** would remain, we would obtain no experience in spiritual things, and we would more easily even ***make shipwreck of faith itself***.
+
+— ❦ —
+
+## Question 8. What dost thou think of the ***Exorcists of the Papists***?
+
+**What of the Papist Exorcists?**
+
+**These sometimes yield in men who are possessed — not for the Gospel or for Christ, but that they may establish and confirm in the hearts of men their own errors, idolomania, and Papistic abominations.** [*Luther: T. 4, part 1, p. 189*] Thus **St. Cyriac** and others were elected by the Pontificals: to whom they brought the possessed, and drove out Devils. Here easily the Devil yields, that he may establish his ***idolomania*** — as **Paul, 2 Thess. 2:9**, foretold of ***such lying signs and prodigies, through which many should be seduced***. [*Luther: T. 3, p. 483*]
+
+— ❦ —
+
+## Question 9. Shall the ***Devils themselves*** also at last be ***saved***?
+
+**Shall the Devils be saved?**
+
+**By no means.** For at **Matt. 25:41** it is expressly said that ***the fire of hell is eternal***, and that ***the evil spirits, with the impenitent, are cast into it, and in eternity tormented***.
+
+— ❦ —
+
+## Question 10. In what men do the ***Devils dwell and operate***?
+
+**In what men do the Devils dwell?**
+
+**In the sons of disobedience or diffidence — Eph. 2:2 — in impenitent and contumacious sinners — Luke 15 — and in those who sin against conscience — Gal. 5:19–21; 1 John 3:8**: *"He that committeth sin is of the devil: for the devil sinneth from the beginning."* All therefore who sin against conscience, and contumaciously persevere in sins without penitence, ***let them know that they are receptacles of unclean spirits***, and have these as ***companions and leaders unto all crimes and eternal ruin***.
+
+— ❦ —
+
+## Question 11. What are the ***consolations of the pious against these unclean spirits***?
+
+**What are the consolations of the pious against these spirits?**
+
+**I.** That ***Christ has conquered the prince of this world***, who is also already ***judged*** — **John 16:11**. [*Luther: T. 3, part 1, p. 362*]
+
+**II.** That they are ***sons of God***, who protects them against the rage and injuries of these most cruel enemies — **Ps. 91:6**.
+
+**III.** That they can ***vanquish and put to flight these lying spirits by the Word of God*** — by the example of Christ, **Matt. 4**.
+
+**IV.** That they are ***encompassed by the watches of the holy Angels*** — **Ps. 34**.
+
+**V.** That ***even the temptations and evils intended by the Devils cooperate to their salvation*** — **Rom. 8** — and they know that ***nothing can separate them from the love of God***.
+
+**VI.** They have the ***strongest bulwark, pious prayers*** — **Prov. 18:10**: *"The name of the Lord is a strong tower: the just runneth to it, and shall be exalted."*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus XI. Of Man Before the Fall
+
+### *De Homine ante Lapsum*
+
+— ❦ —
+
+## Question 1. What is ***man***?
+
+**What is man?**
+
+**Man is a creature of God, consisting of body and rational soul, formed at the first ***to the image of God***, to procreate offspring, to dominate the remaining creatures, without sin, not obnoxious to death** — **Gen. 1, 2**. [*Luther: T. 1, part 1, p. 20; T. 4, p. 6*]
+
+— ❦ —
+
+## Question 2. By whom is he created?
+
+**By whom is man created?**
+
+**By God himself.** **Gen. 1:26** — *"Let us make man to our image and likeness."* By which words God shows that with ***singular counsel and deliberation held*** he created man — which is the ***great glory of the human race***. [*Gen. T. 1, pp. 16, 35, 36*]
+
+— ❦ —
+
+## Question 3. Whence is he created, or from what matter?
+
+**Whence is man created?**
+
+**Gen. 2:7** — *"from the ***slime of the earth***"* — [Hebrew] ***מִן־הָאֲדָמָה***. ***Aphar*** properly is ***earth rarer and thinner***, not however plainly dust. From this rarer earth therefore the body of man was formed. But the ***soul*** was breathed by God himself into him. [*Luther: T. 4, p. 19*]
+
+— ❦ —
+
+## Question 4. But whence was ***woman*** formed?
+
+**Whence was woman formed?**
+
+**From the ***rib*** which the Lord God took from Adam** — **Gen. 2:22**. [*Gen. T. 2, p. 37*]
+
+— ❦ —
+
+## Question 5. What is the ***image of God***, to which man was formed?
+
+**What is the image of God?**
+
+**Paul at Eph. 4:24 explains the image of God in ***justice and true sanctity in soul and all the powers and faculties of man***.** [*Luther: T. 4, p. 11; Gen. T. 1, pp. 17, 18, 19, 98*]
+
+And this he wills to say — that man in the beginning was ***created full of wisdom, virtue, and charity, without evil concupiscence***, as also **Ecclesiastes 7:29** says: *"God created man ***right***."* This rectitude was ***natural in body and mind***; and if Adam had persisted in it, he would have begotten also such children — in whom no ***evil and inordinate concupiscence*** would have been. And this would have been said to be ***original justice*** — which from origin from Adam by natural propagation and generation would have been received.
+
+But because Adam did not stand in that rectitude, that image of God perished, and we are born ***sons of wrath by nature***. To the image of God therefore these things chiefly pertained:
+
+**1.** That man was ***without sin***.
+**2.** That he was ***full of joy and without fear of death***.
+**3.** That he was ***full of wisdom, and of the knowledge of God and of true sanctity***.
+**4.** That all the members of the body were full of the most excellent powers and faculties.
+**5.** That man had the ***most excellent knowledge of all creatures, of all animals, herbs, and fruits***.
+**6.** That he had ***dominion over all creatures***.
+**7.** Chiefly however ***eternal life*** pertained to this image of God.
+
+— ❦ —
+
+## Question 6. Was the image of God, to which man was formed, ***the very substance and essence of man***?
+
+**Was the image of God the very substance of man?**
+
+**By no means.** For Moses at **Gen. 1, 2** expressly says that the ***body was created from the slime of the earth***; but the image of God is ***spiritual*** — it cannot therefore be the ***body of man*** itself. Of the soul however he affirms that it was ***divinely inspired into man***, and that in man even after the fall (as concerns substance and essence) it remained — although it was ***horribly corrupted***. But the image of God through the fall of the first parents was ***lost and destroyed***. Wherefore also the soul, properly speaking, cannot be the image of God.
+
+And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pertained to the image of God. But these are ***not the very substance, or anything substantial, or the soul of man itself, but ornaments and insignia gifts of the soul***.
+
+— ❦ —
+
+## Objections
+
+### Objection I. The chief ***goodness*** of man is his very essence. The image of God is the chief goodness of man. *Ergo* the image of God is essence.
+
+**Respondeo**: **The Major is false.** For with the goodness of nature lost, essence or nature remained. Essence or nature is the subject in which the goodness or image of God was, but not the image of God itself.
+
+### Objection II. Original justice is ***of the essence***, ***of the nature*** of man, says **Luther, Gen. 3**. [*Gen. T. 1, pp. 47, 48*] The image of God is original justice. *Ergo* the image of God is substance.
+
+**Respondeo**: ***To be of the essence*** and ***to be the essence itself*** differ. Luther means that Adam had original justice, as also the image of God, ***in his substance***, or that it was ***connatural*** to him. He does not will that original justice was the very essence of man. Next, the Minor is false: for original justice does not contain the ***full definition of the image of God*** — it was ***part of the image of God in man***, not the ***whole image of God***.
+
+### Objection III. God is a Spirit. The image of God in men is a ***representation of God***. *Ergo* the image of God in man is a Spirit — namely the soul.
+
+**Respondeo**: **In this ***paralogism*** there are ***four terms***.** For God and the ***representation of God*** are by no means the same. Next, in the Major and Conclusion the word ***Spirit*** is by no means of the same signification. For when said of God, it signifies the ***eternal and uncreated Spirit***; when of the soul of man, it denotes a ***created spiritual essence***. Besides, if the argument were to stand, the Minor would have to be so formed: *"The image of God in men is God"* — which, so formed, would contain a blasphemy not to be borne. Finally, it is not the same, ***man to be made to the image of God***, and ***man to be created to the essence of God***, that he might be with him ***of one and the same essence***. Nothing firm therefore has this ***paralogism***.
+
+— ❦ —
+
+## Question 7. Could the image of God be lost ***without detriment and corruption of human nature***, of body and of the soul of man?
+
+**Could the image of God be lost without corruption of nature?**
+
+**By no means.** For this image of God was ***implanted in the very nature of man***, and was connatural to man; whence without great corruption and loss of human nature it could not be lost. Hence Scripture says, **Ps. 14:1–3**, that man ***was made corrupt and abominable***; that ***much is the malice of men on the earth***, and ***the whole thought of the heart intent on evil at all times***, **Gen. 6:5**; that ***the sense and thought of man's heart is prone to evil from his youth***, **Gen. 8:21**; that ***from the heart of man go forth evil thoughts, homicides, adulteries, fornications, thefts, false testimonies, blasphemies***, etc. — **Matt. 15:19**; that ***the wisdom of the flesh is enmity to God***, or ***enmities against God*** — **Rom. 8:7**. Hence also the Church sings: *"Through the fall of Adam human substance and essence has been plainly corrupted."*
+
+— ❦ —
+
+## Question 8. Why did God give to man the ***special precept of the tree of the science of good and evil***?
+
+**Why the special precept of the tree?**
+
+**This precept God gave to man as a ***sign and testimony***, that from it he might know God as his Lord, and to him as Lord prove his obedience.** [*Luther: T. 4, p. 8*] For man was ***right, without sin***, and had received in his creation the powers to be able to perform this obedience.
+
+— ❦ —
+
+## Question 9. What would Adam have done in Paradise, if he had not fallen into sin?
+
+**What would Adam have done in Paradise?**
+
+**He would have worked in Paradise and would have kept it — Gen. 2:15**. [*Luther: T. 4, p. 15; Gen. T. 1, p. 27*] He would have subjected to himself and dominated over the fishes of the sea, and the birds of heaven, and over all living things upon the earth — **Gen. 1:28**. For God willed not that man should be ***idle***, but yet he would have done all these things ***without molestation, without sweat and fatigue***; nor would the earth have brought forth ***thorns and thistles, but the most pleasant and excellent fruits at the will of man***. Also no animal would have opposed itself to man by any disobedience or contumacy, but all things would have subjected themselves to the will of man and attempered themselves. And thus labour and rule indeed would have been — but molestations and perils and evils would have been absent. Thus the woman would have brought forth children indeed, but ***without pain and troubles***; and on the seventh day, with man ***sanctifying the Sabbath with holy works***, all things would have rested.
+
+— ❦ —
+
+## Question 10. To what end, or for what purpose, was man chiefly created?
+
+**To what end was man created?**
+
+**To ***the true knowledge and worship of God***: that he might know God, worship and celebrate him.** [*Gen. T. 1, pp. 36, 23*] For ***the Sabbath — in which of God and of his works was to be preached — was not instituted for the sake of sheep and oxen, but for the sake of man***. Of all these things human reason now after the fall knows nothing; and if it hears, they are folly to it.
+
+— ❦ —
+
+*[Locus XI closes. Locus XII De Lapsu Adami begins in Rebuild-Tranche 13. 181 top-level Q + 81 Obj rendered so far.]*
