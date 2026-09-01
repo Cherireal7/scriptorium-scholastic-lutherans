@@ -1430,7 +1430,90 @@ The same say ***Augustine, Chrysostom***, and all the orthodox: ***"Therefore Me
 
 There was written also the ***Nicene Symbol*** up to these words: ***"Whose reign shall have no end."*** For here the Symbol ceased, and what follows concerning the Holy Spirit was afterwards first added in the ***Council of Constantinople*** against ***Macedonius Bishop of Constantinople***, who had named the Holy Spirit ***a creature***, as it is written.
 
-The Emperor Constantine approved and confirmed the sentence of the Bishops, with an edict added — that all be damned by that [edict] who contradicted the orthodox Fathers. Constantine himself also subscribed, and called himself ***fellow-minister of the Bishops.*** Arius, however, [***αἱρετικόν, χριστομάχον, θεομάχον, πονηρόν, ἐχθρὸν τοῦ Θεοῦ***] he named. The Arian Bishops also — ***eleven*** — from fear of the Emperor, without delay subscribed, dissembling that they embraced the Nicene Symbol. But ***six*** with Arius underwent the punishment of exile.¹⁰⁷ᵉᵇ
+The Emperor Constantine approved and confirmed the sentence of the Bishops, with an edict added — that all be damned by that [edict] who contradicted the orthodox Fathers. Constantine himself also subscribed, and called himself ***fellow-minister of the Bishops.*** Arius, however, [***αἱρετικόν, χριστομάχον, θεομάχον, πονηρόν, ἐχθρὸν τοῦ Θεοῦ***] he named. The Arian Bishops also — ***eleven*** — from fear of the Emperor, without delay subscribed, dissembling that they embraced the Nicene Symbol. But ***six*** with Arius underwent the punishment of exile.
+
+#### The Three Chief Causes Treated at Nicaea
+
+**The chief causes, of which the [Nicene] Synod showed the testimonies from the sacred Scriptures, are to be considered by us. There were ***three causes*** which pertained to the doctrine.**
+
+**The first cause was the ***repetition and damnation of the impious dogma of Samosatenus***, who elected as Bishop of Antioch (in which place the name of Christian was first heard, Acts 11), when he had been in office 4 years, recalled the heresy of Artemon — and in favour of the Arabian woman Zenobia the Queen, transformed the doctrine of the Messiah into Judaic opinions.
+
+**The second cause was the ***damnation of the Arian dogma***, which was nothing else than the contagion of Ebion, Artemon, and Samosatenus — as ***Alexander Bishop of Alexandria*** rightly wrote. For Arius had taught:
+
+**1.** ***Christ is not God, but a creature.*** And when he was convinced by the orthodox from the sacred Scripture, so that he was compelled to affirm ***Christ is God***, he conceded this by that reason by which ***Angels and all the saints are named gods and sons of God.***
+
+**2.** But when he was further compelled to the confession that ***Christ is true God from the true God***, he conceded also this, with his blasphemous interpretation concealed — that ***Christ is true God made from the true God***, since ***everything made of God is true*** — that is, ***Christ is a creature.***
+
+**3.** When this fraud was detected, he was driven by the Word of God to the confession that ***Christ was before the creation of all things***, or before the whole world — which Arius also conceded, wishing indeed nothing else to be understood than that ***Christ was founded before all other creatures***, and was [***κτίσμα***] or [***ἔργον***], [***πρωτότοκος πάσης κτίσεως, ἀρχὴ τῶν ὁδῶν Κυρίου εἰς ἔργα αὐτοῦ***].
+
+**4.** But when the orthodox Fathers showed that ***through the Son of God all things were founded***, as John evidently attests — Arius conceded he had said this also, by this sentence: ***Christ first and before all things was created, and afterwards through Christ all things were founded.***
+
+**5.** Again when the pious said that ***the Son of God is begotten, and was not made***, Arius conceded the same also — understanding ***begotten*** in that manner by which all believers born of God are named ***sons of God***, but ***not made among the other creatures***, but ***made before all other creatures.***
+
+**6.** But when the orthodox affirmed that Christ is [***ὁμοούσιος***] to the Father, [***καὶ ὁμοφυὴς***] — consubstantial, co-eternal, and of the same dignity with the Father — here the Arians ***fell silent***, and were unwilling to say either [***ὁμοούσιος***] or [***ὁμοφυὴς***] — much less [***συναΐδιος***] — just as also ***Servetus***, burned at Geneva, when he was now about to die, ***refused to invoke the Son of God as eternal God.***
+
+**And this was the second cause of which the Nicene Synod showed the testimonies.**
+
+**The third cause was the ***damnation of the error of Novatus and Meletius***, who taught that ***the lapsed returning to penance were not to be received.*** On this matter the Emperor, jestingly reprehending the arrogance of Acesius Bishop of the Novatians, said: ***"Acesius, apply a ladder, and ascend alone to heaven."*** By this ***irony*** he signified that ***he was feigning falsely that he and his own were*** [***καθαροί***].
+
+**It happened also in that Synod that ***libels*** offered against some Bishops the Emperor neither read nor allowed to be examined**, but ordered them to be preserved sealed, until the public cause should be dealt with. Then he ordered the ***fasciculus of private accusations*** to be brought forth at the exit of the Synod, and still sealed to be cast into the fire, with all the Bishops looking on, saying: ***"Even if I myself should see some Bishop delinquent, I would cover him with my own purple — nor would I suffer the crimes of priests to be borne into the public, since men's minds are alienated by such scandals from the doctrine."*** Thus therefore the most pious Emperor sanctioned [***ἀλάλητον***] of private offences, and exhorted the Bishops to guard concord in the propagation of true doctrine and in the whole of life. Thence he called the holy Fathers into the city, a banquet being prepared at which he himself was present. Afterwards he sent each into his own parish, affected with honours and magnificent gifts. This was the outcome of the Council of Nicaea, which lasted more than three years.
+
+#### Post-Nicaea — Arius's Death and Persistence of Heresy
+
+**A little afterwards Constantine — by the deceit of Constantia his sister, instructed by an Arian priest, persuaded that Arius did not think evilly — recalled him, and ordered the case to be examined again at Tyre.** But at length, when the case of Arius became gradually more plausible, and the courtiers made much of him, ***God Himself punished the blasphemous soul with a death like that of Judas.*** For when at Constantinople Arius was to be publicly received into the communion of the Church with solemn and courtly pomp, ***Alexander Bishop of Constantinople***, the orthodox one, at evening entered the church, prostrate on the ground he deprecated God through the whole night, that He should not suffer ***Arius the wolf to enter His sheepfold***, or should ***first remove him from life.***
+
+The next day, when from the court of the Emperor (some report Constantine himself, others the son Constantine) Arius by the courtiers and his faction was being magnificently led to the Church — by sudden consternation of soul and sorrow of belly he was seized, and turning from the way sought the ***necessarium***, and sitting on the ***latrine***, his intestines, liver, and spleen being poured forth, ***by defecation miserably perished*** — a foul man oppressed by a foul death. The multitude, having recognised his death, dispersed. And ***Eusebius Bishop of Nicomedia***, the Arian, departed overcome by shame and confusion — and again the ***authority of those rightly-thinking*** began to be greater.
+
+**After the death of Constantine the Great**, that same Eusebius renewing the dogma of Arius, alienated ***Constantius*** from the orthodox — Athanasius being driven into exile. And many Bishops began to propugn the blasphemy of Arius who before through fear had been silent. And the ***Synods of the Arians*** also were frequent, corrupting the Nicene Symbol — at ***Sirmium, Ariminum, Milan, Seleucia, Constantinople, and Antioch.*** In the Synod of Seleucia many received the word [***ὁμοιούσιος***], which before the Synod of Sirmium had decreed to be placed in the Symbol in place of the word [***ὁμοούσιος***], that thus by this cothurnus the Arians might be placated and acquiesce. And they write that ***Hosius Bishop of Cordoba*** was so acted upon, that he subscribed to that decree. But soon, the deceit being recognised, they were repudiated by the orthodox.
+
+**In the Synod of Antioch**, which was very turbulent, and did not wish to admit even the word [***ὁμοιούσιος***], ***Acacius the Arian Bishop*** used this argument:
+
+> ***The Father worships no one*** — or as he himself was accustomed to the word, [***οὐ σέβει τινά***].
+> ***The Son worships the Father*** — or [***σέβει τὸν Πατέρα***]. So great was the impudence and profanity of Acacius, that he thus spoke.
+> ***Therefore they are dissimilar.***
+
+**Similar to this argument is this:**
+
+> ***The one honouring is less than the one honoured.***
+> ***The Son honours the Father.***
+> ***Therefore the Son is less than the Father.***
+
+**But it must be responded**: ***Honour and obedience do not take away the equality of essence and power, but distinguish the order of Persons.*** But it is true that ***the Son honours God the Father more than any creature***, because from eternity most perfectly He knows the Father. And the Father in turn honours the Son (John 8). And here belongs the saying of Phil. 2: ***"When Christ was in the form of God"*** — that is, essence and power God [***ὁμοούσιος***] with the Father — ***"He did not seize the equality of God"*** — that is, ***He did not use His power for the defence of Himself against the limits of His mission and vocation***, but emptied Himself, taking the form or nature of a servant, ***not having defence***, in habit found as a man — that is, ***in gestures and in the properties of human nature passible and mortal*** — made obedient unto death, indeed the death of the cross: on which account God ***exalted Him,*** etc.
+
+**Here again the Arians argued**: ***God by nature cannot be exalted. Christ was exalted. Therefore He is not God by nature.***
+
+**I respond to the minor.** ***Christ was exalted according to the human nature***, made impassible and immortal. Moreover there was a different time of humiliation, a different [time] of glorification — nor does obedience take away the equality of power. But of the Council of Nicaea against Arius, and of some other things worthy of consideration, let what we have said suffice.
+
+#### Extended Treatment of Nestorius + Eutyches — The Two Extremes
+
+**As to Nestorius**, we have said above — whom Theodosius had ordered to be called from Antioch to the Bishopric, when now ***Ambrose, Martin, Jerome, Augustine, Hilary, Eusebius***, and others were dead. For this Nestorius the newcomer Theodosius had thought would be equal to them. But the most excellent Prince was deceived, as often is wont to happen. Against Nestorius, however, under ***Theodosius the younger***, the Council was convoked in the city of ***Ephesus*** in the year of Christ 435, with 200 Bishops congregated, among whom ***Cyril of Alexandria*** was eminent.
+
+**As Nestorius was damned on this account, that he separated the two natures in Christ, and as it were feigned two Persons: so ***Eutyches the Archimandrite*** (for so he was called) or Abbot in a monastery near Constantinople — equally unlearned as [Nestorius] — fell into the other extreme, and affirmed that ***the divine [nature] with the human nature had collapsed into the same composite***, and one had been made — nor were the natures to be distinguished in any manner. And as ***Nestorius, Bishop of Constantinople***, tore apart the natures, so ***Eutyches confounded the same.***
+
+**Nestorius's ratiocination was this:**
+
+> ***What is born from eternity, cannot be born from a man at a certain time.***
+> ***The Son of God was born from eternity of the Father.***
+> ***Therefore the Son of God was not born of the Virgin Mary.***
+> ***And consequently Mary cannot be called*** [***Θεοτόκος***], ***but rather*** [***χριστοτόκος***].
+
+**I respond to the major.** ***What was born from eternity, cannot be born at a certain time*** — namely, according to that eternal nativity. But He can be born at a certain time according to another nature which He assumes. Therefore Paul says (Rom. 1): ***"The Son of God was born [***κατὰ σάρκα***, according to the flesh]."*** And this particle [***κατά***], as distinctive, afterwards ***Athanasius*** and ***Cyril*** use, that they might show the distinction of the natures.
+
+To the minor I respond: ***The Son of God was born from eternity of the Father.*** And this same Son, according to the decree of God, willed also at a certain time to become man, and to the divine nature to unite the human nature by hypostatic union. Truly therefore the Son of God was born of the Virgin Mary — not according to the divine nature, but according to the human nature. And ***Mary is*** [***Θεοτόκος***], or ***Mother of Jehovah***, as Elizabeth speaks.
+
+**There is also this customary argument, which ***Eutyches*** opposed to those thinking rightly**, that thus [***ἀσυλλογίστως***] he might conclude that there is only ***one nature in Christ***:
+
+> ***No nature is without Person.***
+> ***In Christ are two natures.***
+> ***Therefore also there are two Persons.***
+
+**I respond to the major.** Let the major be valid in all others besides Christ, in whom two natures are united by ***hypostatic union***, [***ἀσυγχύτως, ἀτρέπτως, ἀδιαιρέτως, ἀχωρίστως***] — a common ordination and series of created things.
+
+**Eutyches in the year of Christ 449 damned Nestorius, and (as we said) fell into the other extreme, constituting only ***one nature*** in Christ.** Often it is wont to happen that while men wish to avoid one extreme, they strike upon the other — as many examples of our age attest. And many wishing to flee the delusion of Eutyches, become ***Nestorians and Quaternists***; and conversely, wishing to remove the opinions of Nestorius, they fall into the absurdities of Eutyches.
+
+**But diligently must the difference of the ***Nestorian and Eutychian dogma*** be considered.** ***Nestorius*** was unwilling to attribute the idiomata of the human nature to the divine nature in Christ, and therefore he denied Mary [***Θεοτόκος***], separating the divinity from the humanity in the very moment of the Incarnation. But ***Eutyches***, on the contrary, ***confounding the two natures***, said that they had coalesced into a single third nature — thus taking away both the divinity of the Word (which cannot suffer or be diminished) and the true humanity (which cannot be swallowed up).
+
+**Between these two errors — Nestorius separating and Eutyches confounding — stands the ***orthodox Chalcedonian formula*** of the Council of Chalcedon (451), decreed against Eutyches through Pope Leo's ***Tomus ad Flavianum***: ***"one and the same Christ, Son, Lord, only-begotten, in two natures inconfusedly, unchangeably, indivisibly, inseparably; the difference of the natures being nowhere taken away by the union, but rather the peculiarity of each nature being preserved, and concurring into one Person and one hypostasis — not divided or separated into two Persons, but one and the same only-begotten Son, God-Word, Lord Jesus Christ."*** This is the paradigm-***Chalcedonian settlement*** which we retain in the confession of the Church of Christ.¹⁰⁷ᵉᶜ
 
 #### On the Communication of Properties — De Communicatione Idiomatum
 
