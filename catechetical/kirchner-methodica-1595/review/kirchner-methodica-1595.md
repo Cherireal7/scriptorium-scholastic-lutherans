@@ -2488,6 +2488,256 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **II. From the miracles which God has performed, both in the Old and in the New Testament.**
 
+**III. From the ***infallible Word of God***, in which he himself perspicuously testifies that he takes care of all creatures.** **1 Tim. 4:10** — *"For therefore we labour and are reviled, because we hope in the living God, who is the Saviour of all men, especially of the faithful."* **Ps. 145:8–9** — *"The Lord is gracious and merciful: patient and plenteous in mercy. The Lord is sweet to all: and his tender mercies are over all his works."* **Ps. 147:8–9** — *"Who covereth the heaven with clouds, and prepareth rain for the earth: who maketh grass to grow on the mountains, and herbs for the service of men. Who giveth to beasts their food: and to the young ravens that call upon him."*
+
+Hither pertain the Scripture testimonies which expressly demonstrate that ***God cares for, cherishes, and preserves the political Magistrate***. **Ps. 127:1** — *"Unless the Lord keep the city, he watcheth in vain that keepeth it."* **Ps. 147:13** — *"Because he hath strengthened the bolts of thy gates, he hath blessed thy children within thee. Who hath placed peace in thy borders: and filleth thee with the fat of corn."* Similarly, those sayings of Scripture which testify that ***the household is God's care*** — **Ps. 128**: *"Blessed are all they that fear the Lord: that walk in his ways,"* etc.
+
 — ❦ —
 
-*[Locus VIII continues in Rebuild-Tranche 11 — closing questions on divine providence + government of creatures + closing of the creation locus. Locus IX De Angelis and Locus X De Malis Angelis follow.]*
+## Question 14. Is God, however, affected with ***singular and special care*** for the ***Church and the faithful***?
+
+**Does God have singular care of the Church and the faithful?**
+
+**Most certainly.** [*Luther: T. 4, p. 247*] For although God in general regards and loves all his creatures, yet he takes ***singular care*** of the Church and the faithful. **Ps. 31:7** — *"Because thou hast regarded my humility, thou hast saved my soul out of distresses."* And **v. 20**: *"O how great is the multitude of thy sweetness, O Lord, which thou hast hidden for them that fear thee! Which thou hast wrought for them that hope in thee, in the sight of the sons of men. Thou shalt hide them in the secret of thy face, from the disturbance of men. Thou shalt protect them in thy tabernacle from the contradiction of tongues."* **Ps. 34:20** — *"Many are the afflictions of the just; but out of them all will the Lord deliver them."* **Ps. 40:18** — *"But I am a beggar and poor: the Lord is careful for me. Thou art my helper and my protector,"* etc. **Ps. 103:13** — *"As a father hath compassion on his children, so hath the Lord compassion on them that fear him."* **Isa. 49:14–16** — *"And Sion said: The Lord hath forsaken me, and the Lord hath forgotten me. Can a woman forget her infant, so as not to have pity on the son of her womb? And if she should forget, yet will not I forget thee. Behold, I have graven thee in my hands."*
+
+— ❦ —
+
+## Question 15. What is the ***use*** of this doctrine, of the general providence of God toward all creatures?
+
+**What is the use of this doctrine?**
+
+**I.** That thence we may contemplate the ***admirable wisdom and power of God*** in the disposition and government of all things, and learn to give thanks to him for his singular goodness. **Ps. 139:17** — *"But to me thy friends, O God, are made exceedingly honourable: their principality is exceedingly strengthened. I will number them, and they shall be multiplied above the sand."*
+
+**II.** That we may know, especially, that ***the gathering and preservation of the Church is God's work***. For otherwise, in such furies of Satan and of his organs, it would be impossible that the Church, ministry, and public assemblies could remain and be preserved.
+
+**III.** That we may learn that the ***changes of Empires are God's work, and in his hand*** — **Dan. 2:20–21**: *"Blessed be the name of the Lord from eternity and for evermore: for wisdom and fortitude are his. And he changeth times and ages, transferreth kingdoms and establisheth them: giveth wisdom to the wise, and knowledge to them that have understanding and discipline."*
+
+**IV.** That we may know and certainly hold that ***even the hairs of our head are numbered***, and that not one of them falls to the ground without the will of the heavenly Father — **Matt. 10:29–30**.
+
+**V.** That we may also understand ***the punishments of the impious are from God***, who permits them indeed to flourish for a time, but at last destroys them — **Ps. 37:20**: *"Because the wicked shall perish, and the enemies of the Lord, presently after they shall be honoured and exalted, shall come to nothing, and vanish like smoke."*
+
+— ❦ —
+
+## Question 16. What opposes this ***most ample and most sweet doctrine*** of divine providence?
+
+**What opposes divine providence?**
+
+**I.** The doctrine of the ***Epicureans***, who opined that ***God takes no care of creatures, but that all things happen thus, fortuitously and by chance***. For it is unworthy of divine Majesty to be occupied with the care of inferior things.
+
+**II.** The doctrine of the ***Stoics***, who set that, on account of the ***order and connection of inferior causes with superior***, God ***most freely and without the work of second causes does nothing***, nor can he act otherwise than second causes bring.
+
+**III.** The doctrine of those philosophers, who ***set that God takes care only of celestial things***, and disposes only of those which are in the heavens; but they set that these inferior things are governed by the motion of the celestial spheres. That this opinion also is false — **Ps. 104; 147** and similar Scripture testimonies convince.
+
+**IV.** False is also this opinion, when human reason sets that God ***takes care only of great things in this world, but neglects the small***. For **Ps. 145** says: *"The mercies of God are over all his works."*
+
+— ❦ —
+
+## Objections
+
+### Objection I. It is not well with the good in this life, and it is ill with the evil. *Ergo* there is no providence.
+
+**Respondeo**: **The good are not perfectly good in this life; therefore it is not always well with them, but sometimes they are burdened with troubles for certain causes.** Next, however, it is well with the good — that is, with believers — even in the midst of the cross and death: for they have Christ as helper, protector, and liberator; and in the future life it shall be perfectly well with them, in which they shall be adorned with eternal glory. As to the evil, though it is well with them for a time, yet ***their foot is placed on slippery ground*** — **Ps. 37; 73**.
+
+### Objection II. If there were providence, there would not be such ***confusion*** in the world or in nature. But there is confusion, because ***monsters*** are often born. *Ergo*, etc.
+
+**Respondeo**: **The very birth of monsters testifies that there is providence.** For they are not born in vain, but always signify something — as histories teach and experience convinces. Next, confusion in nature is a ***sad punishment of sin***, and a ***sermon of the extreme judgement and punishments to come***, unless men do penance.
+
+### Objection III. Does God care about oxen? — **1 Cor. 9:9**. *Ergo* God does not care about small things.
+
+**Respondeo**: **It is the fallacy of phrase.** For the sense of the Apostle's words is: not that ***those things were written on account of oxen***, but ***on account of men***. These words therefore do not deny the providence of God as concerns animals and similar small things.
+
+### Objection IV. **Eccles. 1:18** — *"He that addeth knowledge, addeth also labour."* *Ergo* if providence is attributed to God, ***sorrow*** is also attributed to him.
+
+**Respondeo**: **Solomon speaks of ***human*** wisdom or knowledge, not of divine knowledge or providence.** *"I applied,"* he says, *"to learn wisdom. But I have found also in this thing much sorrow — because in much wisdom there is much indignation,"* etc.
+
+### Objection V. It seems ***unworthy of God*** to ascribe to him the care of small things, especially of ***sordid*** things.
+
+**Respondeo**: **By no means is it unworthy to ascribe to God the care of these things, since it pertains to his ***highest perfection***.** Next, he is not made ***sordid*** by sordid things, because he does not ***communicate*** with contagion or filth. He is ***pure and free from accidents***. Just as the sun is not defiled, though it illuminates mud, so God is not made sordid, although he has care also of unclean things.
+
+— ❦ —
+
+## Question 17. What is the ***divine determination***?
+
+**What is the divine determination?**
+
+**Respondeo**: **It is part of providence, by which God — foreseeing all things — foresees also all future events, whether good or evil, and helps the good, but permits the evil; and constitutes terms and bounds how far he will permit them.** [*Luther: T. 4, part 1, pp. 345, 346*] **Gen. 15:13–16** — *"Be it certainly persuaded to thee that thy seed shall be a stranger in a land not their own, and they shall bring them under bondage, and afflict them four hundred years. But I will judge the nation, and after this they shall come out with great substance. And thou shalt go to thy fathers in peace, and be buried in a good old age. But in the fourth generation they shall return hither: for as yet the iniquities of the Amorites are not at the full."*
+
+This illustrious sentence embraces ***six memorable points***:
+
+**First**: That the ***pilgrimages, exiles, and calamities*** of the pious are foreseen and determined by God — how long they should endure.
+
+**Second**: That the ***bounds*** are determined and constituted for the enemies of the Church — how long they should rage.
+
+**Third**: The ***liberation*** of the Church, or of the pious, is determined.
+
+**Fourth**: The ***time of death*** is determined.
+
+**Fifth**: The ***terms and bounds*** of iniquities are constituted — until they are completed; which if they come, the ***punishments follow***.
+
+**Sixth**: That God ***begins, aids, promotes patience, hope, invocation, and perseverance in the pious***, that they may be able to await the determined time of liberation.
+
+**In sum**: God governs all things in ***three modes***: through ***Economy*** — that is, according to the ordered series of causes; secondly, through ***good pleasure***, according to which he begins and perfects all good actions, and according to which he sometimes accomplishes something by his counsel ***beyond the order and against the course of second causes***, as one may see in the ***wondrous government of the pious***. Thirdly, through ***concession*** — as when he ***loosens the reins*** of Satan against Job (**Job 1**); item, when he concedes victories to the impious, permits the evil to be prosperous. And yet meanwhile in all these modes ***he sets a mode and term*** — how long they should last.
+
+— ❦ —
+
+## Objections
+
+### Objection I. If God permits Nero, Diocletian, and their like to rage, *ergo* such do not sin.
+
+**Respondeo**: **Actions differ by impulsive and final causes.** The ***impulsive causes*** of such are the malice, fury, rage of the Devil inciting the enemies of the Church. The ***final causes***: that they may satisfy their own cupidities, and that they may destroy the Church of Christ, and propagate idolomanias. Whence **Augustine, Epistle 48 ad Vincentium**: *"Since the Father delivered his Son, and Christ his own body, and Judas the Lord — why in this delivery is God just, and man guilty, unless because in one thing which they did, the cause on account of which they did it is not one?"* Therefore Nero and their like are not excused, while they indulge their affects and furies: for they do not persecute the Church that they may satisfy the will of God (who wills the Church to be exercised by the cross), nor that they may profit the Church, but that they may utterly cut it off.
+
+### Objection II. God uses the work of the impious in punishing his own. *Ergo* the impious, killing the pious, do not offend God.
+
+**Respondeo**: **The impious do not serve God from their heart, but they look to something else — namely, that they may fulfil their cupidities.** Next, they sin against the ***Decalogue***, which they ought to attend — in which such homicides are prohibited. Thirdly, they cannot ***cover their pravity with the justice of God***, for they sin ***by their own will***, nor are they ***impelled or forced by God*** to slay the pious; but they are led by their own will, to which is added Satan, who is ***efficacious in the sons of unbelief*** — **Eph. 2**.
+
+— ❦ —
+
+## Question 18. Does the divine determination, then, help ***both good and evil events at once***?
+
+**Does divine determination help both good and evil events?**
+
+**Respondeo**: **God determines otherwise those things which he wills, and otherwise those which he does not will.**
+
+As concerns ***good events*** which are expressed in the Word of God: there is no doubt that these happen by ***immutable necessity***. For the counsel of God can be averted by no creature. Such events are: ***the sending of the Son, the gathering of the Church, the resuscitation of the dead, the last judgement, and the glorification of the believing***.
+
+Secondly, there are events which are ***not simply expressed*** in the Word of God — such as ***the defence and liberation of the Church in miseries and calamities***. These depend on the ***most free will of God***. Defence and liberation is indeed promised, but the ***mode*** is not defined ***in specie*** — as in the example of Jonathan, of Daniel, of the three youths, of Peter, of Paul, etc.
+
+Thirdly, there are again ***other events***, which partly depend upon God himself, partly upon ***the will of man***. These do not have any ***fatal and immutable necessity***. For the human will is ***mutable***. **Samson, David, Peter**, etc., though regenerated through Word and Holy Spirit, are governed divinely — yet so that their ***regenerate will*** is not utterly ***idle***, but through faith remains in the obedience which it owes to God. The will of those [regenerated] can however shake off the Holy Spirit — as Samson, David, and Peter shook him off.
+
+Concerning ***evil events***, it must be known:
+
+**First**, that God ***does not determine, ordain, aid, or will the evils of guilt or sins***. For to sins he is ever ***contrary***. **Zech. 8:17** — *"These are the things which the Lord hateth."* **Eph. 5:6** — *"For because of these things cometh the anger of God upon the unbelievers."*
+
+**Secondly**, of ***permission***, let this sentence be observed. **Ps. 81:12–13** — *"But my people heard not my voice: and Israel would not hearken to me. So I let them go according to the desires of their heart: they shall walk in their own inventions,"* etc. Yet let not such ***permission*** be understood as though God ***stood afar off in some watch-tower, and beheld what men do, and permitted them by his own judgement to do those things which they will, and awaited fortuitous outcomes***: but such [permission] is when out of his ***most just anger*** he lets men ***rush into sins, and heap them up, until the measure is filled***. An example of this matter is in ***Cain*** — **Gen. 4**.
+
+**Thirdly**, as concerns ***evils of punishment***, it is agreed that they are determined divinely. **Isa. 45:7** — *"I am the God who make peace, and create evil"* — that is, ***the evil of punishment or punishments***, etc. But with the ***condition of penitence***. For in conversion, eternal punishments are ***utterly remitted***; corporal ones are either taken away, or certainly mitigated — **Jer. 18; Isa. 38; Luke 13; Jonah 1**.
+
+### Objection. Man does not act without God ***sustaining***. *Ergo* God is the ***cause of crimes***.
+
+**Respondeo**: **Sustentation and the proximate cause of crimes differ.** For it is one thing to sustain, another to ***impel to crimes***. God sustains the will of David; but to adultery and homicide he does not impel. For the will of David, since it is depraved, per se ***rushes to evils***, appetites sins, delights in crimes. God therefore is not the cause of crimes, but ***we are***.
+
+— ❦ —
+
+## Question 19. Does ***divine foresight*** bring ***necessity*** upon the things foreseen?
+
+**Does divine foresight bring necessity?**
+
+**Respondeo distinctè**:
+
+**First**: The ***decrees of God*** are twofold. Some are ***conditional***; some ***lack condition***. ***Conditional*** without doubt are ***mutable***, on account of the annexed condition — as **Jer. 18**: *"If the nation shall sin,"* etc. ***Immutable*** are those which are so expressed and revealed in the Word, that it is impossible for them to be changed. Such are: ***the promise of the incarnation of the Son of God, of the gathering of the Church, of the resurrection of the dead***, etc. These decrees are immutable on account of the ***promise or divine truth***. For ***God is truthful***. Hence it appears that divine foresight does not simply induce ***Stoic or fatal necessity***.
+
+**Secondly**: ***Prescience*** and ***divine determination*** differ. ***Prescience*** embraces only the knowledge of future things; but ***determination*** includes ***will*** — in promoting good actions, and in either ***permitting, or impeding and repressing*** the evil. Although therefore God ***foreknows*** all actions, both evil and good, yet ***only the good he wills, aids, and promotes***. The evil, though he permits, yet ***opposes***; sometimes even ***impedes or represses***; at last most gravely ***punishes***.
+
+### Objection. It is ***impossible*** that things foreseen should happen otherwise. But God foresees all things. *Ergo* it is necessary that they happen as they are foreseen.
+
+**Respondeo** to the Major: **As wisdom in God does not take away his liberty (for one property in God does not destroy another), so God's wisdom does not overturn justice (which removes from God every cause of sin), or truth (which leaves man's will free, insofar as after the fall it is still free).** Next, as ***human*** foresight brings no necessity to the things foreseen, so neither does ***divine***. The astronomer foreknows an eclipse — yet it does not happen ***because of his foresight***, but from ***another cause***. On astrological predictions — see **Gen. 1, p. 13**.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus IX. Of Angels
+
+### *De Angelis*
+
+— ❦ —
+
+## Question 1. What does the vocable ***Angel*** signify?
+
+**What does the word Angel signify?**
+
+**The vocable ***Angel*** signifies ***legate*** or ***internuncius***, and is a ***name of office***.** [*Luther: T. 3, pp. 334–338; Gen. T. 1, p. 7; Gen. T. 3, pp. 153, 154; T. 5, p. 337*] Scripture also names the Angels ***Spirits***, which vocable ***explains their nature and essence*** — **Ps. 104**.
+
+— ❦ —
+
+## Question 2. What are they?
+
+**What are the Angels?**
+
+**Respondeo**: **Administering spirits sent for ministry on account of those who shall obtain the inheritance of salvation** — **Heb. 1:14**. Or: they are ***spiritual essences created by God***, that they may be ***ministers of the Church and guardians of the pious***.
+
+— ❦ —
+
+## Question 3. Are they created ***to the image of God***?
+
+**Are the Angels created to the image of God?**
+
+**Thus: Angels and men are formed to the image of God.** [*Luther: T. 6, p. 543 f.b.*] They are not, however, ***the essential or substantial and natural image of God***, or ***of the substance and divine essence***.
+
+— ❦ —
+
+## Question 4. How manifold are the Angels?
+
+**How manifold are the Angels?**
+
+**Twofold: ***good*** and ***evil***.** [*Luther: T. 5, p. 334*] And a Christian man must ***certainly set and firmly believe*** that there are Angels — and that not only ***good***, but also ***evil*** — against the ***Sadducees and Epicureans***, who do not believe that Angels are — **Acts 23:8**.
+
+— ❦ —
+
+## Question 5. Are the Angels also ***many***?
+
+**Are the Angels many?**
+
+**They are many, and indeed far more than the Devils** [*Luther: T. 5, p. 518*], who all stand in the custody of the Lord, and execute his mandates, guard and protect the pious. **Dan. 7:10** — *"Thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him."* **Ps. 91:11** — *"For he hath given his angels charge over thee, to keep thee in all thy ways."* Let these promises console us against the rage and fury of the Devil.
+
+— ❦ —
+
+## Question 6. Are ***many Angels*** appointed to the ministry of ***individual men***?
+
+**Are many Angels appointed to individual men?**
+
+**Individual Christians have many Angels by whom they are guarded** — **Matt. 18** — as also individuals have their [Devils] around them. [*Gen. T. 3, p. 140; In Postilla, Sunday of Angels or St. Michael*]
+
+— ❦ —
+
+## Question 7. What are the ***properties of the holy Angels***?
+
+**What are the properties of the holy Angels?**
+
+**They are ***wise***, and indeed far wiser than the Devils themselves** [*Luther: T. 5, p. 336*]. For they always ***behold the face of the heavenly Father***, which the evil spirits cannot behold. Therefore the wisdom of one good Angel far surpasses the ***cunning*** of all evil spirits. They are besides ***far more potent than the Devils***, because they ***stand before him who is called and is Omnipotent*** [*Gen. T. 1, p. 132*]. Rightly therefore let us always give thanks to God, who has added to us these ***watchers and guardians***, who are ***prompt for our salvation and safety, keeping watch***.
+
+— ❦ —
+
+## Question 8. What is the ***chief munus and office*** of the holy Angels?
+
+**What is the chief office of the Angels?**
+
+**God through the ministry of the holy Angels guards the ***Church, Polity, and Household***.** [*Gen. T. 3, pp. 153, 154*] As Scripture everywhere testifies. **Ps. 34:8** — *"The Angel of the Lord shall encamp round about them that fear him, and shall deliver them."* **Dan. 10; Gen. 16, 24, 28, 32**. Although God even without the ministry of Angels could preserve and guard us [*Gen. T. 2, p. 134; T. 4 part 1, p. 423; T. 3, pp. 406, 407*] — as he could also form us men without parents, govern us without princes and kings — yet he wills not to do this, but through his holy Angels he wills to protect us; for which benefit let us give him thanks.
+
+— ❦ —
+
+## Question 9. In what manner do the holy Angels ***execute their office***?
+
+**In what manner do the Angels execute their office?**
+
+**In a mode utterly hidden and unknown to us** [*Gen. T. 2, pp. 236, 237; Gen. T. 3, p. 155*] — just as the Devils themselves accomplish all things hiddenly, men not understanding the mode of the action. Hence it is said: *"A good Angel was present to thee today"* — that is: ***Human reason could not have understood this evil and averted it; and unless a holy Angel had assisted thee, the Devil would have precipitated thee into the greatest peril and misery.***
+
+— ❦ —
+
+## Question 10. Are the Angels ***to be invoked and adored***?
+
+**Are the Angels to be invoked and adored?**
+
+**By no means.** [*Luther: T. 5, p. 336*] For this is nowhere commanded in Scripture, nor do the Angels themselves seek this honour. **Rev. 22:8–9** — *"And after I had heard and seen, I fell down to adore before the feet of the Angel who showed me these things. And he said to me: See thou do it not: for I am thy fellow-servant, and of thy brethren the Prophets, and of them that keep the words of the book of this. Adore God."*
+
+Let us therefore give thanks to God, who gave them to us as guardians, for this benefit — but let us not adore the Angels themselves.
+
+— ❦ —
+
+## Question 11. With what men do the holy Angels ***willingly converse***?
+
+**With what men do the holy Angels willingly converse?**
+
+**Respondeo**: **With those who fear the Lord** — **Ps. 34:8** [*Gen. T. 2, pp. 136, 137*]; **with penitent sinners** — **Luke 15:10**: *"So there shall be joy before the Angels of God upon one sinner doing penance."* With those who contain themselves ***within the terms of their vocation***, and diligently execute the offices of their vocation — **Ps. 91**: *"He hath given his Angels charge over thee, to keep thee in all thy ways."*
+
+### Objection. If therefore the holy Angels converse with us, and keep watch among us for us — whence come such great perturbations of all things, and such sad and tragic events?
+
+**That such great perturbations often are, and that all things threaten ruin, and so sad appears the face of things — as though there were no holy and good Angel among us, but as though all were permitted to the lusts of the Devils and to the furies of the world — the cause is: that God wills to prove our ***faith, hope, patience***, and to ***excite invocation*** in us, and to ***shake off security***. For our corrupted nature is such, that ***we cannot long rightly use good things, and bear them with even mind***. Item, that ***with greater zeal and diligence we may ask from God the watches of the holy Angels***. Item, that we may know: ***perils and evils are sent and averted by God***. **Ps. 77:11** — *"This is my infirmity: But the right hand of the most High can change all."***
+
+With things therefore in the Church, in the polity, in our house afflicted and perturbed, let us ***not straightway lose heart***, but ***await the right hand of God***, which is not shortened. For ***God still lives, and his holy Angels also live***; and though God seem to be forgetful of us, and the holy Angels also seem to be removed from watch, yet certainly [they are not].
+
+— ❦ —
+
+*[Locus IX continues in Rebuild-Tranche 12 — closing questions on the Angels + full Locus X De Malis Angelis + into the anthropology loci. 158 top-level Q rendered so far.]*
