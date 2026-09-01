@@ -217,7 +217,6 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 - §5. Effects and Punishments of Sin (Nine Effects + Decalogue Catalogue)
 - §6. The Fomes Peccati Debate against Trent Session V
 - §7. Actual Sin + Sin against the Holy Spirit
-- §8. The Fivefold Use of the Doctrine of Sin
 
 **Locus VII. De Lege Dei — On the Law of God**
 
@@ -3689,19 +3688,7 @@ To these are subjoined other divisions:
 
 **Sin against the Holy Spirit is the ***voluntary renunciation and rebellion against acknowledged truth, born from hatred of truth, and final impenitence and desperation, repudiating the grace of God shown to us in Christ.*** It is also called ***blasphemy against the Spirit, irremissible sin, and sin unto death***, for which we are not to intercede.** ***1 John 5. Matt. 12.*** But of these things now enough.¹²⁰ⁱ
 
-### §8. The Use of the Doctrine of Sin
-
-*(Implicit in the pastoral-practical thrust of the entire Locus.)* The **use of the doctrine of sin** is fivefold, following the paradigm ***Melanchthonian Loci-methodology*** which Selnecker inherits from his *praeceptor*:
-
-**1. Humiliation and self-knowledge** — that we may acknowledge our misery, corruption, and inability, and not be inflated with pride or presumption of righteousness by works.
-
-**2. Contrition and salutary fear** — that our hearts may be terrified by the wrath of God against sin, and be crushed under the hammer of the Law.
-
-**3. Faith in Christ's satisfaction** — that we may flee from the terror of sin to Christ alone, who ***bore our sins in His body upon the tree*** and by His obedience and passion has fulfilled the Law and made propitiation for us.
-
-**4. Gratitude to God** for the deliverance shown through the Mediator, and for the daily remission and preservation.
-
-**5. New obedience and sanctification** — that we may resist the reigning of sin, mortify the works of the flesh through the Spirit, and grow in the fruits of righteousness — awaiting the day when the body of sin shall be wholly destroyed, and we shall live in eternity without sin.¹²⁰ʲ
+*[Selnecker's Locus VI De Peccato ends at this point in the 1579 imprint; the treatise immediately transitions to* DE LEGE DEI *without an explicit "usus doctrinae" section — the pastoral applications being carried out throughout the discussion above rather than gathered at the end. No fivefold-usus paragraph is imposed here, in fidelity to the source. — SL editors.]*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -4656,9 +4643,7 @@ Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins,
 
 ¹²⁰ʰ **The paradigm ***peccatum-remanet-sed-non-imputatur*** framework** — the paradigm-***Reformation-Lutheran simul-iustus-et-peccator*** framework, paradigm-articulated by paradigm ***Luther Contra Latomum*** (1521, WA 8:36–128; LW 32:133–260) and paradigm ***In Galatas Comm. 1531*** (WA 40/1:295), and paradigm-***codified in FC I*** *(Kolb-Wengert 531–542)*. The paradigm-***Bonaventurian defectus + inclinatio contra legem Dei*** definition is paradigm-***Franciscan-scholastic*** appropriation (from **Bonaventura** ***In Sent.*** II.d.30). — The paradigm ***Augustinian "fomes-post-baptismum-non-est-culpa"*** citation is paradigm-***Augustine De Nuptiis et Concupiscentia*** I.25.28 (PL 44:429–430) — paradigm-***classical Augustinian-tradition*** which the paradigm-Tridentines had appropriated for their anti-Lutheran position.
 
-¹²⁰ⁱ **The paradigm ***peccatum contra Spiritum Sanctum*** framework** — the paradigm-***Matt. 12:31–32*** *sedes-doctrinae* for the paradigm-***classical Augustinian final-impenitence*** framework. Selnecker's paradigm-***voluntaria veritatis agnita renunciatio + rebellio + odio veritatis + finalis impoenitentia + desperatio + repudians gratiam*** definition is paradigm-***Melanchthonian-Loci*** framework, inherited by paradigm ***Chemnitz Loci*** and paradigm ***Gerhard Loci*** VIII. The paradigm ***1 John 5:16*** *(peccatum ad mortem)* *sedes-doctrinae* framework aligns with paradigm-***classical Augustinian tradition*** (Augustine ***De sermone Domini in monte*** I.22, PL 34:1251). Standard modern treatment: **Timothy J. Wengert,** *"Sin against the Holy Spirit,"* in *Concordia Journal* 26 (2000), pp. 200–214.
-
-¹²⁰ʲ **The paradigm ***quintuple-usus-doctrinae-de-peccato*** framework** — the paradigm-***Melanchthonian-Loci pastoral-practical*** appropriation of the hamartiology-locus. The paradigm ***humiliation → contrition → faith → gratitude → sanctification*** *ordo salutis* framework is paradigm-***Reformation-classical***, inherited by paradigm ***Chemnitz Loci de peccato*** and paradigm ***Gerhard Loci de peccato*** and paradigm ***Große Alte Tröster 1614*** [[grosse-alten-troester-1900]] — the paradigm-***confessional-Lutheran pastoral-catechetical mature-framework.***
+¹²⁰ⁱ **The paradigm ***peccatum contra Spiritum Sanctum*** framework** — the paradigm-***Matt. 12:31–32*** *sedes-doctrinae* for the paradigm-***classical Augustinian final-impenitence*** framework. Selnecker's paradigm-***voluntaria veritatis agnita renunciatio + rebellio + odio veritatis + finalis impoenitentia + desperatio + repudians gratiam*** definition is paradigm-***Melanchthonian-Loci*** framework, inherited by paradigm ***Chemnitz Loci*** and paradigm ***Gerhard Loci*** VIII. The paradigm ***1 John 5:16*** *(peccatum ad mortem)* *sedes-doctrinae* framework aligns with paradigm-***classical Augustinian tradition*** (Augustine ***De sermone Domini in monte*** I.22, PL 34:1251). Standard modern treatment: **Timothy J. Wengert,** *"Sin against the Holy Spirit,"* in *Concordia Journal* 26 (2000), pp. 200–214. — *Selnecker's Locus VI ends here in the 1579 imprint; no explicit "De usu doctrinae de peccato" §8 is given in the source, and the earlier draft's fivefold-usus paragraph has been removed as unattested editorial synthesis.*
 
 ¹²¹ **Locus VII De Lege Dei** — Selnecker's paradigm ***nomological*** Locus. Standard modern treatment: **Werner Elert,** ***Law and Gospel*** (see n. 85 above); **Scott R. Murray,** ***Law, Life, and the Living God: The Third Use of the Law in Modern American Lutheranism*** (see n. 40 above); **Michael Horton,** ***The Christian Faith: A Systematic Theology for Pilgrims on the Way*** (Grand Rapids, 2011), pp. 651–698 on paradigm-Reformed-parallel treatment of Law and Gospel.
 
