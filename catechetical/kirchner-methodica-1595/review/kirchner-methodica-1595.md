@@ -3786,4 +3786,125 @@ To the Minor: **But the flesh of the regenerate does not *per se* reluctate the 
 
 — ❦ —
 
-*[Locus XIV closes. Locus XV De Peccato Actuali begins in Rebuild-Tranche 17. 241 top-level Q + 118 Obj rendered so far.]*
+# Locus XV. Of Actual Sin
+
+### *De Peccato Actuali*
+
+## Question 1. What is actual sin?
+
+**What is actual sin?** [*[Luther: T. 1, p. 23; In Præf. Epist. Rom.; T. 5, p. 373; T. 1, p. 169 fine*]*]
+
+**Actual sins are all the fruits of original sin** — that is, **all sins, internal and external — evil inclinations, sayings and deeds — against the Decalogue or Law of God**.
+
+And hither pertain the sayings: **Gen. 6:5** — *"But God seeing that the malice of men was much on the earth, and that all the thought of the heart was bent upon evil at all time,"* etc. Item **Gen. 8:21** — *"The thought of man's heart is evil from his childhood."* **Matt. 7:17** — *"An evil tree bringeth forth evil fruits."* **Matt. 15:19** — *"For out of the heart proceed evil thoughts, murders, adulteries,"* etc. **Gal. 5:19** — *"Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty,"* etc.
+
+**The heart of man is the fount and spring of actual sins by accident** — because it is corrupted by sin. Hence it comes to pass that **in the depraved heart there are those supreme and greatest sins: idolatry, superstition, contempt of God, incredulity, disobedience, evil concupiscence, contumacy, and enmity against the Law of God**. Hence also Paul saith, **Rom. 8:7**, that **the sense of the flesh is enmity against God**.
+
+— ❦ —
+
+## Question 2. How are the actual sins divided?
+
+**How are the actual sins divided?**
+
+**Into internal and external.**
+
+- **Internal** are *evil concupiscence, desires of the flesh, incredulity, security, pride*, etc.
+- **External** are those which are committed **by external work and deed** — as *manifest blasphemy, cursings, execrations, perjuries, homicides, adulteries, fornications*, etc.
+
+— ❦ —
+
+## Question 3. What is the cause of these sins, and whence are these sins?
+
+**What is the cause of these sins, and whence are these sins?**
+
+Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 7, p. 184 fine; Gen. 9, p. 153; T. 1, p. 168 fine*]*] — **Matt. 15:19** — *"Out of the heart proceed evil thoughts."* **Gal. 5:19** — Paul calls these **the works of the flesh**. For the **corrupt flesh, or human nature, does not rest, but assiduously goes on to think and do evil, unless it be restrained by God**. For **an evil tree cannot bring forth anything but evil fruits**.
+
+**Augustine, in his Enchiridion, ch. 24**, sets down four causes of actual sins: **ignorance, concupiscence, sorrow, and will**.
+
+**Eph. 2:1–2** — the Apostle unfolds the causes of sins in these words: *"In which offences and sins ye once walked, according to the world of this age, according to the prince of the power of this air, of the spirit that now worketh in the sons of diffidence — in whom we all also once had our conversation, in the desires of our flesh, doing the will of the flesh and of the thoughts."*
+
+— ❦ —
+
+## Question 4. But how do actual sins arise and grow in us?
+
+**But how do actual sins arise and grow in us?**
+
+**James 1:14–15** — *"Every one is tempted, being drawn away and enticed by his own concupiscence. Then when concupiscence hath conceived, it beareth sin; but sin, when it is completed, begetteth death."*
+
+**First** therefore in our heart there **arises an evil inclination and thought** unto this or that concupiscence or thing. **Then the heart conceives** the appetite and desire of it, and takes delight in the forbidden thing — as in the example of Eve, **Gen. 3:6**, is to be seen. **After this accedes assent**, and the heart and will of man slip, and they seek an occasion to execute such a sin by work. Even if the heart at times, especially in the regenerate, resist and reluctate, yet the very inclination and depraved thought is sin; and it becomes so much the graver a sin, if the very work accede.
+
+— ❦ —
+
+## Question 5. Can also men not-regenerate resist evil concupiscence and depraved thoughts?
+
+**Can also men not-regenerate resist evil concupiscence and depraved thoughts?**
+
+**In some way indeed, especially in external things.** For even an unbeliever can resist the cupidity and thought of killing his neighbour, and (if he obviate the beginnings) in some way shake it out of his mind. But this moderation of the affections is exceedingly difficult, on account of the innate corruption and the **tyranny of the Devil, who is efficacious in the sons of diffidence** — **Eph. 2:2**.
+
+— ❦ —
+
+## Question 6. Can men truly Christian, and now regenerate, beware and avoid actual sins?
+
+**Can men truly Christian, and now regenerate, beware and avoid actual sins?**
+
+**Very much so.** They ought to beware and avoid these; **and according to the inward man they can and will also beware of them**. For these have now received **the first-fruits of the Holy Spirit**, and by the Spirit they mortify the deeds of the flesh, as **Rom. 8:13**; they crucify their flesh with the vices and concupiscences — **Gal. 5:24** — that they should not fulfil and do the desires of the flesh by work. As Paul also by his own example, when he complains of sin dwelling in his flesh, proves the same, **Rom. 7**. For **by faith and by the force and operation of the Holy Spirit he resisted sin, and did not obey the concupiscences of the flesh**.
+
+— ❦ —
+
+## Question 7. But what ought the Christian man to do, when he perceives in his heart the concupiscences of the flesh arising and springing up again?
+
+**But what ought the Christian man to do, when he perceives in his heart the concupiscences of the flesh arising and springing up again?**
+
+**I.** Let him **not obey these concupiscences, nor exhibit himself a servant to them for obeying, nor exhibit his members as weapons of unrighteousness, but let him seriously repugn those concupiscences** — **Rom. 6:7**.
+
+**II.** Let him **seriously implore the help and aid of the Holy Spirit**, by which he may be able to crucify and kill the concupiscences of the flesh — **Ps. 51:12–13**: *"Create in me a new heart, O God, and renew a right spirit within my bowels. Cast me not away from thy face, and take not thy holy Spirit from me. Restore unto me the joy of thy salvation, and strengthen me with a principal Spirit."*
+
+**III.** Let him **take into his hands the sacred Bible and the Psalter, and assiduously read in them, and in the fear of the Lord meditate and search the Scripture**. For in those who meditate on the Law of the Lord day and night, the Devil cannot so work sin, as in the despisers of the Word of God.
+
+**IV.** Let him **diligently and frequently approach the church, the Temple of the Lord**, hear the Word of God attentively, and often use the Sacraments with due reverence and piety. For by these means he shall be led away from evil concupiscences and thoughts.
+
+**V.** Let him **converse with pious men, and with them speak of the exercises of piety**. For pious colloquies quiet and take away evil thoughts and concupiscences. And **Christ is present in such colloquies, and through them kindles and increases piety**, as he himself has promised, **Matt. 18:20**: *"Where two or three are gathered together in my name, there am I in the midst of them."*
+
+— ❦ —
+
+## Question 8. But in which men are these sins?
+
+**But in which men are these sins?**
+
+**In all men.** **Gen. 6:5; Gen. 8:21** — *"For the sense and thought of man's heart are evil from his childhood."* This the **daily and proper experience of all men in their own person** testifies — just as Paul complains of himself, **Rom. 7:23**: *"I see (saith he) another law in my members repugnant to the law of my mind."*
+
+— ❦ —
+
+## Question 9. What is the nature and condition of actual sins?
+
+**What is the nature and condition of actual sins?**
+
+**I.** They **seem to the corrupt heart and mind of man to be good to do, and beautiful and delectable** [*[Luther: Postilla Domestica Conc. 1 de Ascensione Domini; III Trinit. var.*]*] — **Gen. 3:6**.
+
+**II.** **They are easily perpetrated, but with difficulty healed** [*[Luther: T. 3, pp. 205–206 fine*]*]. **Cain**, without labour, easily and suddenly killed Abel his brother; **David** easily and with a moment committed adultery, and defiled himself with fornication and homicide. But if the heart in the *Deus* fear come to conscience of sin, it doth *sit meditate cordibus depraved* — [rather: it does not easily obtain peace, but sadly meditates on God's judgements] [*[Luther: T. 4, p. 47; T. 5, p. 154; Gen. T. 1, pp. 77, 168*]*]. **David** — although he struggles and is converted, yet **is involved in many and great miseries and most hard temptations**.
+
+**III.** **They make man deaf and dumb** [*[Luther: Gen. T. 4, p. 104; Gen. 4:50, p. 247; Gen. T. 3, p. 186*]*] — so that he does not hear the Word of God; and though he be admonished by the ministry of the Word, yet he is unwilling **to acknowledge and confess or profess his sins** — **Ps. 32:3**: *"Because I kept silence, my bones grew old."*
+
+**IV.** **The end of one actual sin is the beginning of another** [*[Luther: Gen. 6, pp. 114, 120; Gen. T. 4, p. 53*]*], and **one sin is wont to draw a great mass of sins with it** — as **David**, having committed adultery, polluted himself also with homicide. Therefore **the beginnings must be resisted**, and sins must be seriously guarded against; nor must one **consent to evil concupiscences**, but they must be **resisted in the fear of God, in invocation of the divine name** — **Ps. 119:133**: *"Direct my steps according to thy word, and let no iniquity have dominion over me."*
+
+— ❦ —
+
+## Question 10. What are the fruits of actual sins?
+
+**What are the fruits of actual sins?**
+
+**The wrath of God** — **Rom. 1:18**; **an evil conscience** [*[Luther: T. 1, p. 20 fine, p. 163; T. 3, p. 209 fine; T. 7, p. 23; Postilla Domestica, Dom. Trinitatis*]*] — **Rom. 1:32; Wisdom 17:8, 11**: *"For whereas any one looks about at all things, and is affrighted at every noise, this arises from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expects tragic calamities. For fear thence exists, when any one is destitute of excuse and has no refuge,"* etc.
+
+**Temporal and eternal punishments** — *"For the wages of sin is death,"* **Rom. 6:23**. **Ps. 39:12** — *"For iniquity thou hast corrected man with rebukes, and hast made his soul consume away like a spider."*
+
+— ❦ —
+
+## Question 11. What is the use of this doctrine?
+
+**What is the use of this doctrine?**
+
+**That we may rightly acknowledge the corruption of our nature, kill and avoid the concupiscences of the flesh, and lest we extenuate sin with the Papists and other secure men, or ascribe to our corrupt nature more than it can perform.**
+
+— ❦ —
+
+*[Locus XV closes. Locus XVI De Peccato Regnante et Non Regnante begins in Rebuild-Tranche 18. 252 top-level Q + 118 Obj rendered so far.]*
