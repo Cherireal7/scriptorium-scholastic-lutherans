@@ -3907,4 +3907,110 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 — ❦ —
 
-*[Locus XV closes. Locus XVI De Peccato Regnante et Non Regnante begins in Rebuild-Tranche 18. 252 top-level Q + 118 Obj rendered so far.]*
+# Locus XVI. Of Ruling and Non-Ruling Sin
+
+### *De Peccato Regnante et Non Regnante*
+
+## Question 1. How further is sin divided?
+
+**How further is sin divided?**
+
+**Into sin unto death or reigning, and into sins or infirmities remaining in the faithful — which nevertheless they ought themselves to resist and seriously to repugn** — **Rom. 6, 7, 8**.
+
+— ❦ —
+
+## Question 2. What is sin unto death?
+
+**What is sin unto death?** [*[Luther: T. 4/1, p. 420; T. 5, p. 373*]*]
+
+**In general, all sins in the not-regenerate and unbelievers are called sins unto death — original sin with its fruits or actual sins.** For **he that believeth not on the Son of God shall not see life, but the wrath of God abideth upon him** — **John 3:36**.
+
+But when we speak of the *regenerate* and *converted*, **sins are called unto death or reigning, when they exhibit their members to sin and to its concupiscences for obeying them** — when they execute the will of the flesh, and by work perfect the concupiscences; no longer resist sin and its concupiscences; do not crucify the flesh with its concupiscences, but seek opportunity of perfecting them. Therefore these sins Paul at **Rom. 6:12** calls *reigning*, and at **v. 14** *dominating*. When evil concupiscences dominate, occupy the heart, and subject it to themselves, so that it delights with them and does not resist but obeys — as did **Cain, Saul, David**.
+
+Whence also **manifest works of the flesh** are said [to happen], **when the heart and mind of man understands and knows that it acts impiously and sins, and yet against the testimony of its own conscience transgresses and sins** — **Gal. 5:19**.
+
+— ❦ —
+
+## Question 3. But what are the venial sins, or infirmities remaining also in the saints and faithful?
+
+**But what are the venial sins, or infirmities remaining also in the saints and faithful?** [*[Luther: T. 3/1, p. 455*]*]
+
+**All the blemishes and infirmities in the faithful** [*[Luther: T. 4/1, pp. 386, 381*]*], which in their flesh or heart daily set themselves forth — as *incredulity, security, impatience, depraved thoughts*, etc. — **which nevertheless the faithful resist, crucify, and kill; and daily seek remission of them through and on account of Christ** — **Rom. 8:1**: *"Who walk not according to the flesh, but according to the Spirit."* Item **v. 13**: *"Who by the Spirit mortify the deeds of the flesh"* — who **seek remission of their sins** — **Ps. 32:6**: *"For this shall every holy one pray to thee in a convenient time."*
+
+And in sum: **those who, beholding their perversity and corruption, shudder in horror, and with burning vows implore the aid and governance of the Holy Spirit** — **Ps. 51:11**: *"Cast me not away from thy face, and take not thy Holy Spirit from me."*
+
+— ❦ —
+
+## Question 4. What therefore is the distinction between mortal sin, and the infirmities which are remaining also in the saints and faithful?
+
+**What therefore is the distinction between mortal sin, and the infirmities which are remaining also in the saints and faithful?** [*[Luther: T. 2/1, p. 33; T. 1, p. 46; T. 2/1, p. 399*]*]
+
+**Respondeo**: **The distinction is not in the sin itself, but in the person, who either has penitence and faith, or shakes them out and casts them away.**
+
+**Paul truly has sin** — **Rom. 7**. But this does not damn Paul, but is *venial* — not that in itself it is truly slight (for that most sad complaint at **Rom. 7** testifies otherwise), but **because he has penitence** (to whom that depravation displeases and repugns him), and **retains faith**, which in Christ seeks and apprehends remission of sins — **Ps. 32**. And he has by faith the merit of Christ, by which in penitents **all sins are covered, that they be not imputed unto damnation**.
+
+Contrariwise, when **Saul, Judas** delight in sins, seek occasions for sinning, **it is manifest that in them is no penitence**. But where no penitence is, there **the grace of God has no place**. Item, such go on and persevere in crimes, nor think to abstain from sinning — whence it appears that **they have no true faith**. For **faith does not go on in sins, does not admit crimes, but wholly abhors sins**, and with burning groans seeks remission of sins and the governance of the Holy Spirit.
+
+From which it appears that **the distinction of reigning and not-reigning sin consists chiefly in those two things — namely, penitence and faith**. Where sin reigns, there penitence and true faith are absent. Contrariwise where sin does not reign, but is crucified and mortified by the Spirit, there penitence and faith on Christ are present — they seriously grieve for their sins and seek remission, nor do they delight in crimes.
+
+— ❦ —
+
+## Question 5. Do they also retain true faith, in whom sin dominates?
+
+**Do they also retain true faith, in whom sin dominates?** [*[Luther: T. 6, p. 519*]*]
+
+**By no means.** There are indeed certain heretics of this opinion: that all who have once received the Holy Spirit and remission of sins and have been made faithful, though they sin afterwards, yet remain in faith, and sins do not hurt them. And they clamour: *"Whatever thou doest, only believe — nothing is against thee — faith blots out and covers all sins."* They affirm besides that **if any, after receiving faith and the Holy Spirit, sin, he never truly had faith and the Holy Spirit**. Of these furious men where and when some are found, therefore it is necessary to say and to teach: **That also the saints and faithful, if — besides that they have and feel original sin in their flesh and daily deplore it and repugn it — moreover fall into manifest crimes** (as David into adultery and homicide), **have not faith and the Holy Spirit at that time**.
+
+For the Holy Spirit does not permit dominion to sin, that it may be perfected by deed, but **resists and repugns it, lest what it wills, this it also do**. But if what he wills he also does — sin — then the Holy Spirit and faith are absent. Since, as John says, **1 John 3:9**: *"Every one that is born of God committeth not sin, because his seed abideth in him; and he cannot sin, because he is born of God."* And no less true is it also which the same John writes, **1 John 1:8**: *"If we shall say that we have no sin, we deceive ourselves, and the truth is not in us."*
+
+For the regenerate, although they resist sin, kill the deeds of the flesh by the Spirit, and coerce the cupidities of the flesh and depraved affections — nevertheless **out of infirmity sometimes slip, or resist the depraved affections not with so great diligence and care as they ought**. Wherefore also they confess and profess **themselves to be still sinners and imperfect in God's judgement**, even if the Holy Spirit have begun a new obedience in them.
+
+— ❦ —
+
+## Question 6. What is the sentence and doctrine of the Papists on this matter?
+
+**What is the sentence and doctrine of the Papists on this matter?**
+
+**They hold: that evil inclinations are not mortal sins, unless consent accede** — although all sins, inclinations and cupidities, or whatsoever is of this sort, **are truly sins and condemn, unless for Christ's sake they be remitted to those penitent and asking remission of them** [*[Luther: T. 5, p. 32 fine*]*].
+
+They contend moreover: that **only seven are the mortal sins — pride, uncleanness or impudicity, wrath, envy, gluttony, drunkenness, sloth** — whereas the greatest sins, and fountains of the rest of the sins, are **ignorance of God, contempt of God, ingratitude, indignation and murmuring against God, to be an enemy and adverse to the will of God, to do nothing save the will of the flesh**, etc.
+
+— ❦ —
+
+## Question 7. But what is to be thought of the works of unbelievers — are they also to be reckoned among sins?
+
+**But what is to be thought of the works of unbelievers — are they also to be reckoned among sins?**
+
+**Very much so.** Because **an evil tree cannot bring forth good fruits**. And **it is necessary that thou first make the tree good, that it may bring forth good fruits** — **Matt. 7**, item ch. 12.
+
+And **Augustine, lib. 4 Contra Julianum, cap. 2**, writes: *"If a Gentile shall have clothed the naked, freed one in danger, dressed the wounds of a wretch, unto false witness not have suffered himself to be impelled by torments — is it, since it is not of faith, sin? Altogether — insofar as it is not of faith, it is sin."*
+
+## Objections
+
+### Objection I. It seems to be a cruel sentence. *Ergo* etc.
+
+**Respondeo**: **The sentence is true, fortified by the Apostle's testimony, Rom. 14**: *"Whatsoever is not of faith, is sin."* But that the works of unbelievers do not proceed from faith, hence appears — that **they wholly are ignorant of faith on Christ the Saviour, or reject it**.
+
+### Objection II. But some Fathers thought otherwise of the works of unbelievers. *Ergo* etc.
+
+**Respondeo**: **Whatsoever they may have thought, unmoved remains the voice of the Apostle, saying: Sin is whatsoever is not of faith.** **Epiphanius** indeed asserts that some, without the Law of Moses and grace, were saved by the sole law of nature — but **he most gravely errs**. For it is written **John 3:18**: *"He that believeth not on the Son is already judged."*
+
+### Objection III. Actions per se, or in their kind, are not vicious or evil. *Ergo* they cannot be made sins.
+
+**Respondeo**: **As the substance of the heart, insofar as it is a creature of God, is good, yet on account of sin, by which it is corrupted, is called depraved — so actions which in their kind are not vicious are polluted in the impious**, because they proceed from a person **who cleaves in sin without reconciliation, which is by faith on Christ**. And **God does not judge according to the external work, but respects the heart**; nor are duties judged from acts, but from ends. Now unbelievers in their works do not respect the glory of Christ.
+
+### Objection IV. The excellent virtues in the Ethnics are gifts of God. *Ergo* they are not sins.
+
+**Respondeo**: **Insofar as they are gifts, they are from God.** But they are **defiled by unbelief**, which makes that they neither flow from faith on Christ, nor are referred to their due end.
+
+### Objection V. If the works of unbelievers are sins, then it is the same when Aristides pursues virtue, as if he had taken his neighbour off by poison.
+
+**Respondeo**: **It is certain that not all sins, even in unbelievers, are equal.** For **it shall be more tolerable for Sodom in the day of judgement than for Chorazin** — **Matt. 11**. But hence it does not follow that the moral works of unbelievers are good works, or are not sins. Those who are **not good, some can be less, others more evil**. In the day of judgement such shall be more tolerably punished, since they are naturally *quales legis sunt* — such as the Law requires — insofar as they have done: **Fabricius shall be less punished than Catiline**, etc.
+
+### Objection VI. But the **Council of Trent** pronounces *Anathema* upon those who hold that all works done before justification are sins. *Ergo* etc.
+
+**Respondeo**: **It matters nothing** — since it is manifest that Scripture affirms that **whatsoever is not of faith, is sin**. They shall one day render, on account of this anathema, to the just judge, a most grave reckoning; and unless they correct themselves, they shall be overwhelmed with sempiternal torments. But they defend this dogma for no other cause, save that they may establish **merit of congruity**, according to which grace is given — but in vain, since Scripture cries against it, and the Orthodox Fathers reject this dogma.
+
+— ❦ —
+
+*[Locus XVI Part 1 closes. Part 2 (Q8-Q10 + 7 anti-Papist Objs on regenerate concupiscence) follows in T19. 259 top-level Q + 124 Obj rendered so far.]*
