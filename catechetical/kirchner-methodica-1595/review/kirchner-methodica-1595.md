@@ -4081,4 +4081,52 @@ From these it is easy to understand who are truly the faithful and living member
 
 — ❦ —
 
-*[Locus XVI closes. Locus XVII De Peccato in Spiritum Sanctum begins in Rebuild-Tranche 20. 262 top-level Q + 131 Obj rendered so far.]*
+# Locus XVII. Of the Sin against the Holy Spirit
+
+### *De Peccato in Spiritum Sanctum*
+
+## Question 1. What is the sin against the Holy Spirit?
+
+**What is the sin against the Holy Spirit?** [*[Luther: Postilla Domestica, Concion. 4 Passionis; T. 4, p. 447 sqq.; T. 4/1, p. 330*]*]
+
+**Sinners are twofold.**
+
+For **some sin out of ignorance; others out of *αρέσα* (deliberate malice) and out of purpose or will.** And again, sinners — whether they have sinned out of ignorance or voluntarily — **either acknowledge their sins, and seek pardon and remission of them from God for Christ's sake**; **or others neither acknowledge their sins, nor seek pardon and remission of them**.
+
+Thus therefore is to be distinguished and distinctly to be answered: **Every sin has expiation and intercession of Christ unto God, provided man acknowledge it and seek pardon of it from God on account of the death and satisfaction of Christ** [*[Luther: Gen. 19, T. 2, p. 41*]*]. But the remaining sins, which spurn the offered grace, resist it, and are unwilling to be reckoned as sins, **do not have the victim and satisfaction of Christ for themselves**.
+
+**The distinction is far greatest between the sin which is acknowledged by the doer to be sin, and the sin which the sinner does not acknowledge to be sin but contumaciously defends.** Every sin which the sinner acknowledges and prays away for Christ's sake — whether *ἀπιστία* (unbelief), or *ὀλιγοπιστία* (little-faith), or any other *ἀνομία* (iniquity) — is a **remissible sin**; on account of such a sin **God does not will to reject or condemn me, but wills of grace to condone and remit it to me**, provided I acknowledge it to be sin and seek gratuitous remission for Christ's sake from him, and flee to the throne of grace, Christ.
+
+But sins which the sinner does not acknowledge to be sins, but contumaciously defends, are **irremissible sins**, because they are unwilling to be sins. **The sins against the Holy Spirit therefore are those sins in which the sinner-man perfists and remains contumaciously and defends them for righteousness, and in which he voluntarily and knowingly perseveres, and from them does not depart, nor seek pardon of them from God for Christ's sake.**
+
+Or: **He sins against the Holy Spirit** (as **Augustine** in the *Book of Exposition of the Epistle to the Romans, inchoate*, Tom. 4, says) **who, despairing, or deriding and contemning the preaching of grace (by which sins are washed away) and of peace (by which we are reconciled to God), refuses to do penitence for his sins, and decrees that he ought to persist in the impious and mortiferous, so to speak, sweetness of them; and persists unto the end**, etc.
+
+Hither pertain the sayings of Scripture:
+
+- **1 John 1:8–10** — *"If we shall say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just, that he may remit our sins and cleanse us from all iniquity. If we shall say that we have not sinned, we make him a liar, and his word is not in us."*
+- **Heb. 3:18** — *"But to whom sware he, that they should not enter into his rest, save to those who were unbelievers?"* And we see that **they could not enter in on account of unbelief**.
+- **Rom. 11:22–23** — *"See therefore the goodness and severity of God — indeed severity toward those who fell, but toward thee the goodness of God, if thou shalt continue in goodness; otherwise thou also shalt be cut off. But they also, if they shall not continue in unbelief, shall be grafted in — for God is able to graft them in again."*
+
+— ❦ —
+
+## Question 2. Can sin be expiated by any other sacrifice than by the death of Christ, and satisfaction be made for it?
+
+**Can sin be expiated by any other sacrifice than by the death of Christ, and satisfaction be made for it?** [*[Luther: Postilla Ecclesiastica in Epistola Nat. Christi*]*]
+
+**By no means.**
+
+For **sin is so great an evil, and its expiation so precious, that it cannot be done save through Christ, *θεάνθρωπος* (God-man)**. Here therefore **God-man reconciled us in the body of his flesh through death, that he might exhibit us holy and immaculate and irreprehensible before him** — **Col. 1:21–22**. *"δι' ἑαυτοῦ καθαρισμὸν ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν, ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης"* — *"having by himself made purgation of our sins, he sat down on the right hand of the Majesty"* — **Heb. 1:3**.
+
+And what should our works do in so great a matter? — since we are creatures, and indeed sinful, corrupt, and abominable creatures. **Here is required an equivalent *ἀντίλυτρον* (counter-ransom), which may satisfy the divine Majesty, which is injured and offended by sin — which we cannot exhibit.**
+
+— ❦ —
+
+## Question 3. Whence is sin known?
+
+**Whence is sin known?**
+
+**From the Law.** For **through the Law is the knowledge of sin** — **Rom. 3:20**.
+
+— ❦ —
+
+*[Locus XVII closes. Locus XVIII De Lege begins in Rebuild-Tranche 21. 265 top-level Q + 131 Obj rendered so far.]*
