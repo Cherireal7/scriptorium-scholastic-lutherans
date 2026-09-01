@@ -4416,4 +4416,140 @@ For **Paul expressly says that we have been freed by Christ from the curse of th
 
 — ❦ —
 
-*[Locus XVIII closes. Locus XIX De Evangelio begins in Rebuild-Tranche 23. 284 top-level Q + 149 Obj rendered so far.]*
+# Locus XIX. Of the Gospel
+
+### *De Evangelio*
+
+## Question 1. What is the Gospel?
+
+**What is the Gospel?** [*[Luther: In præfat. novi Test.; T. 6, p. 218; T. 3/1, p. 337; T. 2/1, p. 59 fine; T. 3/1, p. 291*]*]
+
+**Εὐαγγέλιον is a Greek voice; in Latin it is a *joyful message*.** The Gospel therefore is a **joyful message, announced into the whole compass of the earth through the Apostles, concerning Christ** — who, having engaged with death and the Devil, **carried away the victory, and by his victory freed from sin all who were captive under it, without any merit of theirs, and reconciled them to God, and restored them to their pristine dignity**.
+
+Or: **The Gospel is nothing other than the preaching and announcement of Christ, true God and true man, who by his death and resurrection overcame the sins of all men, death, and hell, and to all who believe in him announces remission of sins, life, and salvation** — **Matt. 11:5**: *"The poor have the Gospel preached to them."*
+
+— ❦ —
+
+## Question 2. By whom was it laid open?
+
+**By whom was it laid open?** [*[Luther: T. 2, p. 218; T. 3, p. 68; T. 3/1, p. 720*]*]
+
+**By God himself** — **Gen. 3:15**: *"I will put enmities between thee and the woman, and between thy seed and her seed: she herself shall crush thy head,"* etc. This saying was the first Gospel on earth, by which **Adam and Eve after the Fall were raised up into living hope**.
+
+— ❦ —
+
+## Question 3. Whence in the New Testament had the beginning of the preaching of the Gospel to be made?
+
+**Whence in the New Testament had the beginning of the preaching of the Gospel to be made?** [*[Luther: T. 7, pp. 322, 323*]*]
+
+**From Zion** — **Ps. 2; Isa. 2; Luke 24**. And this is the **Lydian stone**, according to which the judgement of every doctrine ought to be instituted — that it be attended, **whether it is that doctrine which from Zion through the Apostles has been divulged, or not**. So the doctrine of **Mahomet, the Pope, and the like heresiarchs** did not go out from Zion through the Apostles, but from elsewhere.
+
+— ❦ —
+
+## Question 4. What is the principal doctrine of the Gospel?
+
+**What is the principal doctrine of the Gospel?**
+
+**The Gospel principally teaches Who Christ is** [*[Luther: T. 2, p. 305 fine; Postilla Domestica, Dom. 18 Trinit.; T. 4/1, p. 25 fine, p. 90 fine, pp. 114, 40*]*], **that we may acknowledge him — that he is our Saviour, who takes away from us sin and death, who frees us from all evils, who reconciles us to the eternal Father, and who, apart from our works, makes us just and saved** — **John 1:29**: *"Behold the Lamb of God, behold who taketh away the sins of the world."* **John 6:40** — *"For this is the will of my Father who sent me, that every one who seeth the Son and believeth in him shall have life everlasting, and I will raise him up in the last day."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners."*
+
+— ❦ —
+
+## Question 5. What are the chief properties of the Gospel?
+
+**What are the chief properties of the Gospel?**
+
+**I.** That it is a **mystery unknown to the whole world, hidden from the age** [*[Luther: Postilla Domestica de Ascens. in Evang.; T. 3/1, p. 218*]*]. The world indeed **knew how to build, to prepare things and glory, but of the kingdom of Christ, the way of salvation, it knew nothing**. This it is necessary to lay open through the Gospel — **John 1:18**: *"No one hath ever seen God; the only-begotten Son, who is in the bosom of the Father, he hath declared it."*
+
+**II.** It **pertains equally to all men — Jews and Gentiles** [*[Luther: T. 4, p. 246; T. 4/1, p. 248; T. 1/1, p. 493, 291*]*] — **Rom. 1**: *"The Gospel is the power of God unto salvation to every believer, to the Jew first, and to the Greek."*
+
+**III.** **It is to the world a scandal** [*[Luther: T. 7, p. 397; Postilla Domestica, 3 Advent.; T. 3/1, pp. 37, 373*]*] — **Matt. 11:6**: *"Blessed is he who shall not be scandalised in me."* **For to reason it does not seem consonant, that sinful man should be saved through an alien obedience — namely, of Christ — not through his own works.**
+
+**IV.** **It offers remission of sins and eternal life to all who acknowledge their sins, gratuitously in Christ Jesus** [*[Luther: T. 8, p. 265; T. 3, p. 418 fine; T. 4/1, pp. 607 fine, 753–754*]*] — **Rom. 3:24**: *"Being justified freely by his grace, through the redemption which is in Christ Jesus."*
+
+— ❦ —
+
+## Question 6. What virtue and efficacy does it have?
+
+**What virtue and efficacy does it have?**
+
+**I.** The Gospel **supplies counsel and aid against sin, not in one but in many ways, according to the multitude of the riches of the grace and mercy of God** [*[Luther: T. 6, p. 519; T. 5, p. 288; T. 4/1, p. 18*]*].
+
+**First** by the **preaching of the Word**, in which through the whole compass of the earth remission of sins is announced — which is the proper office of the Gospel. **Then** by **Baptism**. **Third** by the **Sacrament of the Body and Blood of Christ**. **Fourth** by the **power of the keys**. **Fifth** by the **mutual colloquy and consolation of the brethren** — **Matt. 18:20**: *"Where two or three are gathered together in my name, there am I in the midst of them."*
+
+**II.** It **confers to hearts faith and the Holy Spirit, and renews and changes the old man** [*[Luther: T. 7, pp. 329, 330*]*]. **For it is the power of God unto salvation to every believer** — **Rom. 1**.
+
+**III.** It exerts **its virtue and efficacy chiefly in temptations and afflictions** [*[Luther: T. 2, pp. 346, 347; T. 3/1, p. 523; T. 4/1, pp. 160, 144, 145*]*]. The Gospel is a **living and powerful Word**, but its virtue and power is not so beheld save in temptations; and **no one understands how powerful it is, unless he himself experience its virtue**. Where there is affliction, temptation, and tribulation, there is the proper workshop of the Gospel, in which he sets and puts forth his works. Whence also **to the poor and contrite in heart it is announced** — **Matt. 11**.
+
+— ❦ —
+
+## Question 7. Do heresies and various sects usually follow the light of the Gospel when it has arisen?
+
+**Do heresies and various sects usually follow the light of the Gospel when it has arisen?** [*[Luther: T. 5, p. 419*]*]
+
+**Very much so.** For where the Gospel shines forth, straightway **heresies and various opinions arise, which strive again to extinguish it**. The cause is: because **the Devil ever wills to sow his tares upon the good seed**, and where God builds his temple, the Devil constructs his own chapel; and among the sons of God, standing before the Lord, **Satan is ever present among them**, as Scripture, **Job 1:6**, testifies. Whence also Christ so faithfully admonishes his Apostles and his whole Church, that they should **attend and beware for themselves of false dogmas** — **Matt. 7:15**: *"Beware of false Prophets, who come to you in the clothing of sheep,"* etc.
+
+— ❦ —
+
+## Question 8. Do they rightly speak, who say the Gospel is the cause and trumpet of seditions?
+
+**Do they rightly speak, who say the Gospel is the cause and trumpet of seditions?**
+
+**By no means.** [*[Luther: T. 6, p. 8 fine; T. 7, pp. 323, 324*]*]
+
+**The world indeed casts this stain upon the Gospel — that it is the cause of sedition**; and Christ himself was fastened to the cross **under this title and pretext, that he had opposed himself to Caesar**. But **it does the Gospel the greatest injury**. For this perspicuously teaches: **give to Caesar the things that are Caesar's, and to God the things that are God's** — **Matt. 22:21**.
+
+— ❦ —
+
+## Question 9. But how comes it that incommodities of every kind accompany the Gospel?
+
+**But how comes it that incommodities of every kind accompany the Gospel?**
+
+**This is from the Devil, and from the sons of the Devil, who neither will nor can bear the Gospel** — **Matt. 13:27–28**: *"Lord, hast thou not sown good seed in thy field? Whence then hath it tares?"* And to them: *"An enemy hath done this."*
+
+— ❦ —
+
+## Question 10. But what does the Gospel do, on account of which these evils could deservedly be ascribed to it?
+
+**But what does the Gospel do, on account of which these evils could deservedly be ascribed to it?**
+
+**Nothing at all** [*[Luther: T. 8, p. 265; T. 3, p. 124*]*] — save that it **leads men out from their highest darkness into wonderful light**, brings them to the true knowledge of God, and shows **how they may be truly freed from sin, death, and all evils, and may obtain righteousness, life, and eternal salvation**. It lies in wait for no one's life or goods, incommodes none; it leaves all the orders of this life and of human society in their place sound and covered — **nay rather, it fortifies them by divine authority**, and enjoins to exhibit obedience to them, to lead a quiet and tranquil life, to bear even violence and injury — **that none may have a true cause of accusing this doctrine, or of insinuating any evil**. And yet **the world neither wills nor can bear it**.
+
+— ❦ —
+
+## Question 11. What is the distinction between the Law and the Gospel?
+
+**What is the distinction between the Law and the Gospel?** [*[Luther: T. 5/1, pp. 472, 473 sqq.; T. 4/1, pp. 32, 12, 53, 51, 141*]*]
+
+**Rightly to be able to discern the Law and the Gospel is the property of the truly Christian, learned by the Holy Spirit as teacher in the school of the Cross and of temptations; but to all heretics it is impossible.** To speak summarily, **the distinction consists chiefly in these three things**:
+
+**I.** That the **Law also after the Fall is in some way still known to reason** — **Rom. 1, 2** — and that **man even after the Fall in some way understands, if he be just and holy, that he is pleasing to God** — meanwhile however he does not know how, and on account of what, he truly may please God and be accepted; and that **it is impossible to him to be saved through the works of the Law**, since he cannot exhibit perfect obedience.
+
+But **the Gospel** — which **offers and gives to penitent sinners believing in Christ, remission of sins, righteousness, life, and salvation in Christ freely** — **is plainly unknown to human reason**, and **has been brought forth by the Son of God alone from the secret bosom of the eternal Father** — **John 1:18**. **Adam and Eve** after the Fall could know or think of no grace, unless God had revealed it to them through the Gospel — **Gen. 3**. Hence also **the mystery of the Gospel is spoken of, Rom. 16:25** and elsewhere. **For this preaching of grace we naturally are wholly ignorant, and in our sins and evil conscience we would perish for eternity, unless this consolation had been laid open to us through the Son.**
+
+For **no man from principles known by nature, or by the judgement of reason, can respond to this Syllogism**:
+
+> Sinners are guilty of death and damnation.
+> I am a sinner.
+> *Ergo* I am guilty of death and eternal damnation.
+
+Unless Christ had come, and had revealed in the Gospel what is to be answered by us — namely, that although sinners *per se* are worthy not of life but of death, yet **the Son of God has paid out for sinners a sufficient *ἀντίλυτρον* by his Passion and death**, that whosoever of sinners with contrite and humbled heart, and true faith, shall receive Christ, being freed from death and damnation, shall have on account of Christ righteousness, life, and salvation eternal — since otherwise the wages of sin is death and eternal damnation.
+
+## Objection
+
+### Objection I. The power of God is known to the Ethnics — **Rom. 1**. Christ is the power of God — **1 Cor. 1**. *Ergo* Christ was known to the Ethnics; and consequently, the Gospel is not a mystery unknown to reason.
+
+**Respondeo**: **It is a fallacy of equivocation. For twofold is the power of God: of creation, and of salvation.** The power of **creation** is in some way known also to the Ethnics; but of **salvation** by no means. For **Matt. 11** Christ says: *"No one knows the Father, save the Son, and to whomsoever the Son shall will to reveal him."*
+
+**II.** [*[Luther: T. 1, pp. 507, 508; T. 7/1, p. 375*]*] **The Law is such a doctrine, which indeed has promises** — **Luke 10:28**: *"Do this, and thou shalt live."* **Matt. 19:17** — *"If thou wilt enter into life, keep the commandments."* But since **no mortal living has kept these, or is able to keep them, no man can arrogate these promises to himself**, or use them profitably; since **not the hearers, but the doers of the Law are justified in judgement** — **Rom. 2:13**. And even **the most holy men cannot in truth glory that they have exhibited perfect obedience to the Law**, but must confess and profess their impurity and manifold imperfection — **Rom. 7**.
+
+But **the Gospel offers grace, life, and salvation gratuitously even to wretched and unworthy sinners doing penitence, turning themselves to God, and believing on Christ** — **Matt. 11:28**: *"Come unto me, all ye who labour and are burdened, and I will refresh you."* This preaching **truly raises up the contrite and humbled heart, gladdens and consoles it, that it may certainly settle that it is with God in grace, has God propitious to it, and has remission of all its sins for Christ's sake**.
+
+**III.** **The doctrine of the Law does not console, but terrifies and kills** [*[Luther: T. 4, pp. 784, 785*]*], and **fills the heart of man with terrors and dreads**. For it denounces and reveals the wrath of God, the judgement and eternal damnation, which man by his sins has deserved — **Rom. 4:15**: *"The Law worketh wrath."* Without the Law and knowledge of the Law our hearts are swollen and inflated; but touched by the preaching of the Law, they feel nothing but **terrors and dreads of death**, as in Adam, Eve, David, and other sinners it is to be seen. And as Paul in himself, **Rom. 7:9–10**, confesses: *"I was living without the Law once, but when the commandment came, sin revived, but I died; and it was found unto me that the commandment which was unto life, was unto death."*
+
+But **the Gospel brings consolation, peace, and gladness of the heart, raises up the sinner, and announces to him the grace and mercy of God — that God on account of Christ wills to remit and condone to him all sins**. As this the examples and experiences of all the faithful testify. **David is glad of heart, when from Nathan he hears absolution and remission of his sins**. So **Manasseh** is consoled by God; likewise **Peter, Mary Magdalene, the Paralytic Matt. 9, the Thief on the cross**, etc. — with wide heart and filial confidence they approach God, address him, and from him as from a propitious Father, without any doubt, expect grace, mercy, and all goods. **Augustine, in his Meditations**, could not have said, that **his whole consolation and the whole confidence of his heart was in the precious blood of the Redeemer Christ Jesus**, unless he had first learned this consolation from the gratuitous preaching of the Gospel.
+
+**This distinction therefore of Law and Gospel is well to be attended, since without the true understanding of this distinction we cannot deal with God — who outside the Gospel is a consuming fire** — **Deut. 4** — whom **no sinner-man can approach according to the doctrine of the Law**, since none has performed those things which in the Law are demanded from all men — namely, **loving God with the whole heart, and one's neighbour as oneself**.
+
+— ❦ —
+
+*[Locus XIX Part 1 closes. Part 2 (Q12-Q13 + Obj blocks 2 and 3 = 7 more Objs) follows in T24. 295 top-level Q + 150 Obj rendered so far.]*
