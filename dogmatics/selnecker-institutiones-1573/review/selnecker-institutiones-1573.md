@@ -1796,7 +1796,85 @@ Elegant is also the response handed down by D. Philip [Melanchthon] our precepto
 
 **I respond to the Pauline saying**: ***The Son is subjected to the Father — not with respect to essence, but with respect to office and reign***, that the Church may acknowledge the reign to be of the divinity, and that eternal life differs from the reign of Christ in this life — not in the thing itself, but in the manner of the thing. For the Son of God shall lead His bride, or the Church, glad and triumphant to the eternal Father — and then together shall reign, no longer having the actions of ***the Deprecator*** — but ***immediately showing the divinity to us***, quickening [us], and pouring into the blessed His wondrous light, wisdom, righteousness, and joy — and God Himself shall be the end of our desires, and without end shall be seen by us, without weariness shall be loved, without fatigue shall be praised, and shall be ***all in all***.
 
-**Cyril** briefly responds thus: ***"Subjection or obedience does not take away the equality of essence and power — but shows the order of Persons."*** This brief response pleased D. Philip our preceptor. But he was accustomed to add a more proper [one]: ***"The Son"*** (he says) ***"is to be considered doubly — as regards office as the Person sent, or as regards divine essence. For as the Person sent, assuming human nature, gathering the Church and the reign by the ministry of the Gospel, and as King and head of the Church — He subjects Himself to the eternal Father, and shall deliver the reign to God the Father"*** — that is, ***shall lead the Church into the sight of the Father.*** For even if it is the same eternal reign of Christ — as it is said: ***"Of His reign there shall be no end"*** — nevertheless the ***manner differs in this life and after this life.***¹⁰⁷ⁿ
+**Cyril** briefly responds thus: ***"Subjection or obedience does not take away the equality of essence and power — but shows the order of Persons."*** This brief response pleased D. Philip our preceptor. But he was accustomed to add a more proper [one]: ***"The Son"*** (he says) ***"is to be considered doubly — as regards office as the Person sent, or as regards divine essence. For as the Person sent, assuming human nature, gathering the Church and the reign by the ministry of the Gospel, and as King and head of the Church — He subjects Himself to the eternal Father, and shall deliver the reign to God the Father"*** — that is, ***shall lead the Church into the sight of the Father.*** For even if it is the same eternal reign of Christ — as it is said: ***"Of His reign there shall be no end"*** — nevertheless the ***manner differs in this life and after this life.***
+
+The manner in this life is properly this: ***that this Person of Christ has been sent to gather the Church by the ministry of the Gospel.*** In this mission the divinity is efficacious in the ministry ***immediately through the Son***, who is Head, perfecting all in all, interceding for the Church, preserving the Church and the ministry — as it is written: ***"He sits at the right hand of the Father, giving gifts to men."*** Item: ***"Behold, I am with you all days, unto the consummation of the age."*** The other manner of the reign is in eternal life, in which there shall not be a reign through the ministry of the Gospel — but ***God immediately shall be all in all to the blessed***, and immediately shall communicate His wisdom, righteousness, and joy to them — and, they acknowledging Him, the blessed shall face to face [see Him] — as 1 Cor. 13 it is said. Since this Person, which is ***Christ***, is King of the Church, God and man — insofar as He is King, He shall be under the Father or sending divinity — because it must be acknowledged that this reign is from the divinity, and that through the Son we are re-united to God as to Head — as to the Ephesians it is said: ***"It pleased God to reduce all things into one Head."*** Thus of the office it is said, insofar as ***King*** He shall show His subjection and coupling with the Father, and shall deliver the reign — that is, ***shall lead the Church to the Head, that thus the divinity may reign immediately, not in ministry.***
+
+#### Fourth Argument of the Arians — Christ Sorrows, Weeps, Cries Out
+
+**Christ is saddened, weeps, laments, and cries out**: ***"My soul is sorrowful even unto death."*** Item: ***"My God, my God, why hast Thou forsaken me?"***
+
+**Therefore He is not true God.**
+
+**I respond.** The rule must be held: ***Some sayings speak of the reigning Christ, as: "What the Father does, this the Son also similarly does" (John 5). Other sayings speak of the humiliated and suffering Christ, as: "God, why hast Thou forsaken me?"*** (Ps. 22; Matt. 27; Mark 15). It is not said of essence, but the ***obedience of that time is described***, in which God poured out His wrath upon the Son on account of the sins of the human race. ***"Thou grievest, Lord"*** (says Ambrose), ***"not for Thy wounds, but for mine — not for Thy death, but for our infirmity. For it is written (Ps. 69): 'What I did not take away, I paid. The reproaches of them that reproached Thee fell upon me.' And Isa. 53 it is written: 'He bore our griefs; He was wounded for our sins.' And to Gal. 3: 'He was made a malediction for us.'"***
+
+**These things are sometimes offered by others thus**: ***There is a twofold habit of Christ — of submission and of glorification.*** But let us think of the atrocity of sin, of the magnitude of God's wrath against sin, of the precious [***λύτρον***] and the difficulty of assuaging the wrath of God, of abolishing sin, of vanquishing the devil and death, and of destroying the whole reign of Satan — and of the glorious victory, and of our life, faith, and consolation which now we have safe. If we do this, we shall not marvel — much less shall we be offended — at what and why the Son of God uttered those lamentable voices: ***"My soul is sorrowful even unto death; My God, why hast Thou forsaken me?"*** These are greater than the capacity of all creatures. The concurrence of all calamities is here beheld: passion, contempt, injury, blow, crucifixion, laceration of the whole body, sense of the wrath of God, interior torment, struggle with sin, with the malediction of the Law, with the reign of the devil, world, death.
+
+**For Christ was made ***for us a malediction*** — even if He lacked every stain, spot, sin, and fault** — nevertheless when He had assumed a human nature ***integral, uncorrupt, having all the forces and appetitions proper and ordered of nature*** (not indeed that vitious nature, but nevertheless ***passible and mortal***) — He could not not grieve on account of the lacerations of the body, and the innocent conscience of morals, and the adversities of nature — which naturally effect sorrows even without sin. On this cause Ambrose piously says: ***"Not only I do not think it must be excused, but I never more admire the majesty of His piety. For He would have conferred less on me, had He not received my affect. Therefore He grieved for me, who had nothing about which to grieve for Himself — and with the delight of eternal death set aside, He is affected with the tedium of my infirmity. Confidently therefore I name sadness, because I preach the cross. For He did not receive the appearance of the incarnation, but the truth. He ought therefore also to have received sorrow, that He might conquer sadness, not exclude it. For those do not have the praise of fortitude, who have borne the stupor of wounds rather than the sorrow."***
+
+**Most sad indeed are these words (Matt. 26): "He began to be affected with sorrow and grief"** — [***ἐκθαμβεῖσθαι καὶ ἀδημονεῖν***]. Mark 14: [***ἀδημονεῖν καὶ ἐκθαμβεῖσθαι***]. [***Ekthambeisthai***] is properly ***to be affrighted and stupefied before God's sight***; [***adēmonein***] is ***to be vehemently anxious in mind and consternated, to flee the sight and consortship of other men, and almost to faint away for sadness.*** Item: ***"My soul is sorrowful even unto death"*** — [***περίλυπος ἕως θανάτου***] — that is, ***"I see no distinction between my sadness and death itself."*** Luke 22: [***ἀγωνία***] — held in the most difficult struggle. John 12: [***τεταραγμένη***]. ***"My soul is troubled."*** For there were seen [***θρόμβοι***] — drops flowing from Christ's body upon His garments (Luke 22). This dissolution no other could have sustained — since it is natural that the blood in sadness returns to help and confirm [the vital organs], and the exterior members become paler. [***Thrombos***] signifies ***coagulated and concreted blood, or lumps and drops of thick blood***, ***dick geliefert Blut***.
+
+**The causes of such torments and sorrows were manifold, internal and external**, as:
+
+**1.** ***Sense of sin.***
+**2.** ***The wrath of God***, which the Son — the Father being entire and innocent — alone saw and felt to be effused upon Himself, as if He Himself had polluted Himself with all the foul sins of men.
+**3.** ***Concealment of paternal grace***: ***"Nimmer Vater, nimmer liebes Kind."***
+**4.** ***Temptation of casting away***: ***"Ich weiß nirgends aus! Es ist alles aus."***
+**5.** ***Conspiration of all spiritual and worldly enemies to Christ's murder***: ***the bite of the serpent, the tyranny of hell, the malediction of the Law, the ferocity and power of death.***
+**6.** ***Torments of body and laceration***: scourges, revilings, sarcasms, and many other innumerable evils.
+**7.** ***Thought of the world's ingratitude.*** The greatest part of men contemns this most holy [Christ]. Others persevere in sins, though they know themselves to have been washed from sins.
+
+**Then the Son of God says**: ***"Father, if it be possible, let this cup pass from me: nevertheless, not what I will, but what Thou wilt."***
+
+**Here some argue thus**:
+
+> ***He who flees the death imposed on him by God, resists the will of God, and sins.***
+> ***Christ fled death.***
+> ***Therefore He sins.***
+
+**I respond to the major.** He who flees death ***with indignation, repugning the will of God***, sins — as it is said: ***"Life fled indignant with a groan under the shades."*** To the minor: ***Christ fled death.*** I deny the minor — because Christ ***bore the terrors without indignation***, and acknowledged that the Father was to be obeyed, as it is written: ***"He did not open His mouth."*** But He committed Himself wholly to the will of God the Father, and truly felt sadness in heart and will — which is natural, and in innocent natures is without vice — yet subjects Himself to God the Father, and detracts nothing of obedience, submission, patience, or the passion of laceration and torments. He desires to suffer those things which He knows the Father to will; but He wishes those things to be finished without long delay, and to be led to port, and to be abbreviated, lest to sorrow too intense and long-drawn-out He succumb, and be consumed by grief. ***"Make,"*** He says, ***"an end of my miseries: refresh me, delay not, do not bind delay upon me, do not slowly finish me."***
+
+**Cyril** says thus: ***"That the passion of the cross was not in some way voluntary for Christ, but voluntary on account of the will of the Father, and on account of our salvation, thou wilt easily learn from His prayer: 'Father, if it be possible, let this cup pass from me.' For by the same reason by which the Word of God is God, and Himself naturally life, no one will doubt that He in no way dreaded death. But being made flesh, He permits the flesh to suffer its own things — and therefore as true man He fears death now present in the doors, and says: 'If it be possible, Father, let this cup pass from me. But since it cannot be done otherwise, be it done, not as I will, but as Thou.' Thou seest how human nature in Christ Himself suffers and dreads its own things. But by the Word conjoined to Him it is led back to congruent fortitude."***
+
+The same: ***"Thou perceivest how on account of the flesh the death of Christ was not voluntary — yet it was voluntary, because on account of it, according to the will of the Father, salvation and life were given to men."***
+
+**Luke chapter 22** adds that the sadness was so great, that even an ***Angel*** was sent to strengthen Him, [***οὐχ ὡς δεόμενον ἀσφαλείας, ἀλλὰ διὰ τὸ διδόναι τῷ ἀγγέλῳ τὴν πρέπουσαν αὐτοῦ δυνάμεως δόξαν***] — that is, ***not that He was needing the confirmation of Angels, who is greater than the Angels, but that the Angels might give to Him their proper honour of fortitude and praise***, saying: [***"Not for a servant, but for the Lord we come, ministering."***] For the Angel approaching, falling down, truly and not putatively confirming Him in soul and body, at the same time glorifying and adoring, and saying: [***"Holy, holy, holy Lord God of Sabaoth, hitherto — through the whole world Thy glory hath filled the earth."***] (Epiphanius, *In Ancorato.*)
+
+#### Another Argument — Contraries Cannot be at Once in the Same Subject
+
+> ***Two contraries are not at once in the same subject.***
+> ***To be blessed in excellent joy, and at the same time to be in great consternation of mind, are two contraries.***
+> ***Therefore they cannot be at once in one subject.***
+
+**And again**:
+
+> ***If Christ is true God, He is always blessed in excellent joy.***
+> ***But He is not blessed in excellent joy, but is now in great consternation.***
+> ***Therefore He is not true God.***
+
+**I respond to the major of the prior argument.** ***Contraries*** are not at once in one subject — namely, ***in excellent degrees.*** But even in ***remiss degrees*** contrary qualities and contrary affects can be in one subject — as ***joy, peace, fear, and sorrow*** [can be] in the pious — David, Paul, and others — as the struggle of the pious and the exercise of penance attests.
+
+**To the major and the minor of the posterior argument I respond**: There was a certain ***time of passion***, in which the ***glory of blessedness did not shine as at another time***. But it was the ***time destined for this agony***, in which Christ ***truly became a victim*** [***λύτρον***], as Irenaeus says.
+
+#### Closing Prayer of Selnecker to Christ
+
+> ***"Son of God, to Thee be thanks for the light of the Word,***
+> ***for the acknowledgement of Thee, and for the sacred motions of the Spirit.***
+> ***Sanctify Thou us; make ever in our breast to remain***
+> ***true doctrine, and true faith shining without blemish.***
+> ***Kindle and confirm, accumulate and preserve for ever,***
+> ***O Almighty God, Only-Begotten Son of the eternal Father,***
+> ***our brother truly of the same [Father's] honour,***
+> ***Almighty, who holdest, governest, and fillest all things.***
+> ***Make us one in Thee, that we may live as one,***
+> ***May we remain also one in Thee, and die as one.***
+> ***Restrain Thou Satan, restrain the furies of the world,***
+> ***Who Thy majesty, hope, and faith***
+> ***Attempt to tear out of us with pregnant pride.***
+> ***May they be confounded and perish who do such things.***
+> ***Simplicity, righteousness Thine, may govern us, O Christ.***
+> ***Thou art our tower, our wall, our port, our shelter.***
+> ***What can thieves do? Through Thee is our victory."***¹⁰⁷ᵒ
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
