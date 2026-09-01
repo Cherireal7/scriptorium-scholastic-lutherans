@@ -6639,13 +6639,192 @@ matilda_canossae_tuscanie:
     Papacy — TERRITORIAL-LEGAL FOUNDATION of PATRIMONIUM PETRI.
     Reference: Michèle K. Spike, Tuscan Countess (New York, 2004).
 
+presbyterissae_9c_11c:
+  english: "Presbyteresses — wives of secular presbyters of the 9c-11c Latin West"
+  type: canonical-status-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0279 (Aventinus donation-instrument documentation)"
+  note: >
+    PRESBYTERESSES — wives of secular presbyters of the 9c-11c Latin
+    West, FORMALLY RECOGNIZED in the DIPLOMATA (charter-instruments)
+    of the pre-Gregorian West as LEGITIMATE CONSORTS alongside their
+    husband-priests. Aventinian point: donation-instruments of 9c-11c
+    NAME AND CITE the WIVES of presbyter-donors by the HONOURABLE
+    VOCABLE of PRESBYTERAE. SMOKING-GUN evidence against the
+    Gregorian-reformer polemical claim of NEFARIUM CONCUBINATUM: that
+    priestly-marriage was the CANONICALLY-RECOGNISED NORM of the
+    pre-Gregorian Latin West. Reformation-standard: foundational to
+    AC XXIII DE CONIUGIO SACERDOTUM argument. Reference: Anne L.
+    Barstow, Married Priests and the Reforming Papacy (New York, 1982).
+
+nicolaitae_simoniaci_gregorian_labels:
+  english: "Nicolaites + Simoniacs — twin Gregorian anti-clerical labels of the Investiture Controversy"
+  type: papal-polemical-labels
+  first_use: "flacius-catalogus-testium-1556, body — vl0279 (Gregorian dual-front campaign)"
+  note: >
+    TWIN GREGORIAN ANTI-CLERICAL LABELS of the Investiture Controversy:
+    (i) NICOLAITAE — from Revelation 2:6, 15 — heresy of Nicolaitans,
+    traditionally interpreted (from Clement of Alexandria Stromata III.4
+    onward) as SEXUAL LIBERTINISM; used by Gregorian reformers as slur
+    for MARRIED CLERGY. (ii) SIMONIACS — from Acts 8:9-24 — those who
+    SELL THE GIFT OF GOD for money (Simon Magus); used for LAY-
+    INVESTITURE (as money-transaction). Gregorian DUAL-FRONT CAMPAIGN
+    against Nicolaite (married-clergy) AND Simoniac (lay-invested)
+    episcopate = CORE-IDEOLOGICAL STRUCTURE of whole Investiture
+    Controversy. Reference: Colin Morris, The Papal Monarchy (Oxford,
+    1989), 79-108.
+
+worms_synod_1076:
+  english: "Synod of Worms (24 January 1076) — imperial-party deposition of Gregory VII"
+  type: imperial-canonical-council
+  first_use: "flacius-catalogus-testium-1556, body — vl0282 (Hugo Candidus legation + Wormatiensis conciliabulum)"
+  note: >
+    IMPERIAL-PARTY ECCLESIASTICAL COUNCIL convoked by Henry IV at
+    WORMS 24 January 1076, at which German bishops (led by Sigefrid
+    of Mainz) FORMALLY DEPOSED GREGORY VII on grounds: (i) his
+    election April 1073 without imperial consent (violating Constitutio
+    Ottoniana 962); (ii) he had previously sworn off the papacy
+    (perpetuo abiuravit) and thus INVADED it. Text: MGH Constitutiones
+    I no. 61 pp. 106-108. Immediate provocation for Gregory's counter-
+    excommunication at Lent Synod six weeks later. Convocation-legate
+    = HUGO CANDIDUS (Cardinal-bishop). Reformation-standard: cited by
+    Melanchthon Tractatus §§45-47 as FUNDAMENTAL CANONICAL REBUTTAL to
+    Papal plenitudo potestatis. Reference: Wilfried Hartmann, Die
+    Synoden der karolinischen Zeit (Paderborn, 1989); I. S. Robinson,
+    The Papacy 1073-1198 (Cambridge, 1990).
+
+lent_synod_rome_1076:
+  english: "Lent Synod of Rome (14 February 1076) — first Gregorian excommunication of Henry IV"
+  type: papal-canonical-council
+  first_use: "flacius-catalogus-testium-1556, body — vl0285 (Roman conciliabulum + excommunication)"
+  note: >
+    LENT SYNOD OF ROME 14 February 1076: Gregory VII's DEFINITIVE
+    EXCOMMUNICATION, DEPOSITION, AND PROCLAMATION-OF-SUBJECTS-RELEASED-
+    FROM-OATH against Henry IV. Text: REGISTRUM GREGORII VII III.10a
+    (MGH Epp. sel. 2 pp. 270-271; Erdmann ed. Die Briefe Heinrichs IV
+    appendix). FOUNDATIONAL DOCUMENT of DEPOSITIO-IMPERATORIS doctrine
+    = Papal claim to DEPOSE EMPERORS and RELEASE SUBJECTS FROM OATHS
+    OF ALLEGIANCE. Reformation-standard: Melanchthon Tractatus §§30-38
+    BSLK 481-484 on SOLUTIO IURAMENTI as PROPRIUM ANTICHRISTI.
+    Directly triggered CANOSSA-SUBMISSIO of January 1077.
+
+descende_descende_letter_henry_iv:
+  english: "Henry IV's Descende-Descende letter to Gregory (January 1076)"
+  type: imperial-encyclical
+  first_use: "flacius-catalogus-testium-1556, body — vl0284 (Caesar twin letters)"
+  note: >
+    HENRY IV'S TWIN LETTERS of January 1076: (i) to Gregory himself =
+    famous DESCENDE DESCENDE letter (MGH Constitutiones I no. 62;
+    Erdmann ed. Die Briefe Heinrichs IV no. 12) beginning HENRICUS
+    NON USURPATIVE SED PIA DEI ORDINATIONE REX HILDEBRANDO IAM NON
+    APOSTOLICO SED FALSO MONACHO; (ii) to Roman clergy and people
+    urging DEPOSITION of Hildebrand and election of canonical
+    successor. FOUNDATIONAL DOCUMENTS of Investiture Controversy on
+    imperial side. Standard modern edition: Carl Erdmann ed. Die
+    Briefe Heinrichs IV (Leipzig, 1937 = MGH Deutsches Mittelalter 1).
+
+hagna_augusta_agnes_poitou:
+  english: "Empress Agnes of Poitou (Latin Hagna Augusta, c. 1024-1077)"
+  type: imperial-female-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0281-vl0282 (Empress-Mother co-opted by Gregory)"
+  note: >
+    EMPRESS AGNES OF POITOU (Latin HAGNA AUGUSTA, c. 1024-1077),
+    widow of Henry III, mother of Henry IV, who after retiring to
+    religious life became a GREGORIAN-PARTISAN against her own son.
+    Died at Rome December 1077, buried at church of SANTA PETRONILLA
+    at Vatican basilica = traditional burial-place of Carolingian-
+    and-Ottonian ladies at Rome + chapel-of-the-Franks since 8c.
+    Gregory's political manoeuvre: EMBRACE THE EMPRESS-MOTHER AGAINST
+    THE EMPEROR-SON, transferring maternal legitimacy from imperial
+    to papal party. Reference: Mechthild Black-Veldtrup, Kaiserin
+    Agnes 1043-1077 (Cologne, 1995).
+
+rulandus_parmensis_1076:
+  english: "Roland (Rulandus) of Parma — Henry IV's legate at the Lent Synod (1076)"
+  type: imperial-envoy-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0285 (formal denunciation of Hildebrand)"
+  note: >
+    ROLAND (RULANDUS) OF PARMA, canon of cathedral of Parma and
+    LEGATUS of Henry IV to Roman Lent Synod February 1076. Historical
+    narrative: dispatched to DELIVER THE WORMS SENTENCE in person to
+    Gregory VII assembled in synod. Scene at St Peter's — Roland's
+    formal denunciation ("HILDEBRANDUS NEQUE PASTOR NEQUE CONSUL
+    NEQUE PONTIFEX SED LUPUS LATRO ATQUE TYRANNUS"), Gregory's
+    near-lynching by pro-Gregorian mob (Parmenses nearly killed on
+    the spot) — one of the MOST-VIVID NARRATIVE-EPISODES of the
+    Investiture Controversy. Reported in both Aventinus Annales
+    Boiorum V and Paul of Bernried Vita Gregorii VII §§85-87 (PL
+    148:80-81). Reference: Robinson, Henry IV of Germany, 143-162.
+
+lupus_latro_tyrannus_triad_john_10:
+  english: "wolf, robber, and tyrant — the John-10-Ezekiel-34 false-pastor triad"
+  type: biblical-polemical-triad
+  first_use: "flacius-catalogus-testium-1556, body — vl0285 (Rulandus's denunciation of Hildebrand)"
+  note: >
+    LUPUS-LATRO-TYRANNUS TRIAD — Roland of Parma's triple-negative +
+    triple-positive denunciation: HILDEBRANDUS neither pastor, neither
+    consul, neither pontiff; BUT WOLF, ROBBER, AND TYRANT. John 10:12
+    (LUPUS RAPIT et dispergit oves) + John 10:1 (LATRO qui non intrat
+    per ostium) + Ezekiel 34 (FALSE-PASTOR strong-hand) allusion. The
+    false-pastor is NOT A SHEPHERD but HIRELING + THIEF + STRONG-HAND.
+    Reformation-standard reception: Luther Wider das Papsttum zu Rom
+    vom Teufel gestiftet (1545, WA 54:206 ff.) adopts precisely this
+    LUPUS-LATRO-TYRANNUS triad for the contemporary papacy.
+
+antichrist_identification_pre_reformation_1076:
+  english: "The Papa-Antichristus identification (pre-Reformation 1076 attestation)"
+  type: reformation-polemical-foundation
+  first_use: "flacius-catalogus-testium-1556, body — vl0286 (Aventinus antichristum esse praedicant)"
+  note: >
+    POPULAR IDENTIFICATION OF GREGORY VII WITH ANTICHRIST — attested
+    by Aventinus as CONTEMPORARY GERMAN-IMPERIAL-PARTY judgment of
+    1076. PRE-REFORMATION documentation of PAPA-ANTICHRISTUS
+    identification (fully developed by Wyclif 1379, Hus 1413, Luther
+    1520). Aventinus's testimony FOUNDATIONAL for Reformation
+    HISTORIOGRAPHICAL claim that PAPA-ANTICHRISTUS identification is
+    NOT A LUTHERAN INNOVATION but a PRE-REFORMATION GERMAN-IMPERIAL-
+    PARTY DATUM. Reformation-standard: Melanchthon Tractatus §§39-41
+    on PRE-REFORMATION-ANTECEDENT of identification.
+
+in_babylonia_in_templo_dei_sedet:
+  english: "In Babylon, in the temple of God he sits (Aventinus fourfold Antichrist-application)"
+  type: antichrist-scriptural-formula
+  first_use: "flacius-catalogus-testium-1556, body — vl0286 (Aventinus 2 Thess 2 application)"
+  note: >
+    AVENTINUS'S DIRECT APPLICATION of 2 Thessalonians 2:3-4 Antichrist-
+    formula (qui adversatur et extollitur supra omne quod dicitur Deus
+    aut quod colitur ita ut in templo Dei sedeat ostendens se tamquam
+    sit Deus) to Gregory VII. FUSION of (i) IN BABYLONIA = Revelation
+    17-18 Babylon-the-Great topos + (ii) IN TEMPLO DEI SEDET = direct
+    2 Thess quotation + (iii) QUASI DEUS SIT = same + (iv) ERRARE NON
+    POSSE GLORIATUR = papal-infallibility claim. FULLEST 16C PRE-
+    REFORMATION ANTICHRIST-IDENTIFICATION of Papacy in CATHOLIC
+    HUMANIST source. Reformation-standard: Luther Adversus Execrabilem
+    Antichristi Bullam (1520, WA 6:597-612) develops precisely this
+    same 2 Thess 2 application, WITHOUT knowing Aventinus's text at
+    the time.
+
+fabulas_commiscere_annales_corrumpere:
+  english: "fable-mixing, annals-corrupting, deeds-inverting, scripture-adulterating"
+  type: historical-critical-charter
+  first_use: "flacius-catalogus-testium-1556, body — vl0286 (Aventinus fourfold indictment)"
+  note: >
+    AVENTINUS'S FOURFOLD-INDICTMENT of Gregorian historical-textual
+    falsification: (i) FABLE-MIXING; (ii) ANNALS-CORRUPTING; (iii)
+    DEEDS-INVERTING; (iv) SCRIPTURE-ADULTERATING. CHARTER-FORMULA of
+    the whole MAGDEBURG CENTURIES historico-critical enterprise: the
+    Papacy has FALSIFIED THE HISTORICAL RECORD to establish its own
+    plenitudo-potestatis claims, and the task of Reformation
+    historiography is to RECOVER THE UN-FALSIFIED RECORD. Cross-
+    reference to n844 (T2rr programmatic historical-ecclesiological
+    method statement).
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Mainz Pontifical + INFOELICES CAESARES
-# section-opening (Platina, Donation of Constantine, Charlemagne, Hutten-
-# Carion-Franck) + Henricus IV vs Hildebrand-Gregorius VII opening
-# (Aventinus, Paulus Bernriedensis, Gerhoh, Juvenal, Two-Swords, Matilda,
-# Dictatus Papae) (vl0001-vl0278, 278 body pp + 32 paratexts ≈ 50.9% of
-# 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Hildebrand-indictment continuation
+# (Aventinus vl0279-vl0286: Nicolaite-Simoniac dual-front campaign, Matilda
+# and Norman alliance, Worms Synod 1076, Lent Synod Rome 1076 first
+# excommunication of Henry IV, Rulandus of Parma legation, Aventinian
+# anti-Papal peroration + Antichrist-application) (vl0001-vl0286, 286 body
+# pp + 32 paratexts ≈ 52.4% of 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
@@ -6653,7 +6832,7 @@ matilda_canossae_tuscanie:
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
 # + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
 # 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) +
-# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) + 14 (T2ss) = 306.
+# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) + 14 (T2ss) + 12 (T2tt) = 318.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
