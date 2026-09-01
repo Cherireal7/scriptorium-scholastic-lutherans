@@ -1812,4 +1812,122 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 — ❦ —
 
-*[Locus III closes here — 61 Questions + 40 Objections rendered, covering the whole Christology of the Methodica: the eternal divinity, the human nature, the hypostatic union, communicatio idiomatum in three genera, the ubiquity, the session, and the ascension. Locus IV De Officio Christi begins in Rebuild-Tranche 8.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Locus IV. Of the Office of Christ
+
+### *De Officio Christi*
+
+— ❦ —
+
+## Question 1. In what parts chiefly consists the office of our Lord Jesus Christ?
+
+**In what parts chiefly consists the office of our Lord Jesus Christ?**
+
+**In these four:**
+
+**I.** That he is our **Redeemer and Saviour**, who has freed us from sin and death, and gave his life or soul as victim for us — **Rom. 3:25; Isa. 53; 1 Tim. 2:5–6**: *"For there is one God, one also Mediator of God and men, the Man Christ Jesus, who gave himself a redemption for all."*
+
+**II.** That **he rendered perfect obedience to the whole Law of God for us**, and fulfilled the whole Law. **Matt. 5:17** — *"I am not come to destroy, but to fulfil."* **Rom. 8:3–4** — *"For what the Law could not do, in that it was weak through the flesh, God, sending his own Son in the likeness of sinful flesh, and of sin, hath condemned sin in the flesh, that the justification of the Law might be fulfilled in us, who walk not according to the flesh, but according to the Spirit."* **Rom. 10:4** — *"For the end of the Law is Christ, unto justice to every one that believeth."*
+
+**III.** That **both — the liberation from sin and death, and the perfect satisfaction of the Law — he gives to us through the ministry of the Word and Sacraments**, imputes to us in faith, and efficaciously applies. Whence the Gospel — **Rom. 1:16** — is called ***the Virtue of God unto salvation to every one that believeth***. And **Luke 24:46–47** Christ himself says: *"Because thus it is written, and thus it behoved Christ to suffer and to rise from the dead the third day, and that penitence and remission of sins should be preached in his name unto all nations."*
+
+**IV.** That **he is present to his Church**, and gives us his Holy Spirit — **John 14, 15, 16** — and preserves, comforts, and keeps us to the end of life in true faith, against our own flesh, the world, temptations, afflictions, the Devil, and all evils. **Phil. 1:6** — *"Because he who has begun in us the good work, will accomplish it unto the day of Jesus Christ."* **Phil. 2:13** — *"For it is God who worketh in you both to will and to accomplish, according to his good will."* **1 Pet. 5:10** — *"But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after we have suffered a little while, will himself perfect, confirm, and establish."* And finally, that **he rules over all creatures** — **Eph. 1**.
+
+— ❦ —
+
+## Question 2. But how do we — wretched men and sinners — become partakers of all these gratuitous benefits of Christ, that we may use and enjoy them?
+
+**How do we become partakers of Christ's benefits?**
+
+**If we approach him with a contrite and humbled heart, in true faith and full confidence, without hesitation, and apply to us all his satisfaction, merit, and obedience** — and if we certainly set forth that Christ suffered and did all those things for us; and consequently that all things which by his passion and death he acquired are ***ours***. **John 1:12** — *"But as many as received him, he gave them power to be made the sons of God, to them that believe in his name."* **John 3:16** — *"For God so loved the world, as to give his only-begotten Son, that whosoever believeth in him may not perish, but may have life everlasting."* **Rom. 3:24–25** — *"Being justified freely by his grace, through the redemption that is in Christ Jesus, whom God hath proposed to be a propitiation through faith in his blood."* For Christ ***gave himself for the sins of the whole world*** — not that he might terrify contrite and humbled hearts, much less that he might cast them off and condemn — but that he might ***free them from sin and death, comfort and corroborate them in all terrors and dangers, and give them justice, life, and true blessedness***.
+
+— ❦ —
+
+## Question 3. Is Christ, then, dead for all men and sinners?
+
+**Is Christ dead for all men and sinners?**
+
+**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just: and he is the propitiation for our sins; not for ours only, but also for those of the whole world."* **Gal. 3:22** — *"But the Scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe."* **Rom. 11:32** — *"For God hath concluded all in unbelief, that he may have mercy on all."* **Isa. 53:6** — *"The Lord hath laid on him the iniquity of us all."*
+
+— ❦ —
+
+## Question 4. But my sins are greater than that I should dare to approach him, and to seek or obtain from him pardon and remission of these so many and so horrible crimes?
+
+**But my sins are too great to approach Christ?**
+
+**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace did more abound."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to me all you that labour, and are burdened, and I will refresh you."* **Luke 15:7** — *"There shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance."* **Isa. 1:18** — *"If your sins be as scarlet, they shall be made white as snow; and if they be red as crimson, they shall be white as wool."* **Ps. 103:3** — *"Who forgiveth all thy iniquities."*
+
+Hither let there also be referred the **examples of all sinners who, for Christ's sake, have obtained mercy and received remission of their sins**: **Adam and Eve, David, Manasses, the Publican** — **Matt. 9:12–13**; **Magdalene** — **Luke 7:37**; the **Thief on the cross** — **Luke 23**; **Paul** — **Acts 9; 1 Tim. 1**.
+
+— ❦ —
+
+## Question 5. But perhaps these concern not me — a most wretched sinner — but others, who are holy?
+
+**Do these concern only the holy?**
+
+**Not to another than to thee — a penitent sinner — do these pertain; nor for others than for thee, if thou doest penance, are they procured.** For the **holy Angels have no need of these**; the ***devils do not seek them***; therefore ***to thee*** they have been merited by Christ — **Rom. 3, 4, 5**; ***to thee*** they have been promised — **Matt. 9, 11; John 3:16**: *"that all who believe in him may not perish, but may have life everlasting"* — **1 Tim. 1:15**: *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
+
+Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Do penance, and be baptised every one of you in the name of Jesus Christ, for the remission of your sins."* **Mark 16:16** — *"He that believeth and is baptised, shall be saved."* Unto this same in the sacred Supper, with the body and blood of Christ (delivered and shed for thee on the altar of the cross) thou hast been ***fed and given to drink***. Unto this same thou hast been ***sealed with the Spirit of adoption*** — **Rom. 8:16** — who ***gives testimony to thy spirit that thou art a son***, and who ***also for thee makes intercession with unspeakable groanings***. And ***Christ himself is for thee***, lest thou be condemned — **Rom. 8:34**: *"Who is he that shall condemn? Christ Jesus that died, yea that is risen also again; who is at the right hand of God, who also maketh intercession for us."*
+
+— ❦ —
+
+## Question 6. What are the chief errors of the Papists concerning the office of Jesus Christ?
+
+**What are the chief errors of the Papists concerning Christ's office?**
+
+**Respondeo**:
+
+**I.** They teach that ***Christ by his passion satisfied only for original sin and for actual sins preceding baptism*** — although the Apostle **1 John 2** clearly writes that Christ ***satisfied also for the sins of the regenerate or faithful***: *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just. And he is the propitiation for our sins."*
+
+**II.** They teach that ***Christ, by his ignominious and bitter passion, obtained this from the Father — that whosoever embrace his death by faith may be imbued with a true justice, which is a sanctity, virtue, or new quality inhering in man himself***. Hence they contend that ***justification is twofold — first and second — and that Christ by his death merited this, that believers might be imbued and adorned with charity and other virtues; and this is the first justification***. But the new qualities having been accepted, on account of the merit of Christ, ***the man himself, by that inhering justice, further merits a greater and fuller justice, and at last eternal life***. Whence, according to their doctrine, ***properly speaking, Christ by his passion and death procured only this — that after charity and other virtues have been infused into us on account of Christ's passion, we ourselves by our own good works may be able to merit reconciliation and eternal life***. And this was of old the doctrine of the schoolmen — that ***Christ merited for us only the first grace***, so that we ourselves, ***with the concurrence of free will***, might be able to merit salvation and eternal life.
+
+But this doctrine contends with the manifest testimonies of Scripture, which demonstrate that ***Christ by his passion, death, and whole obedience procured for us reconciliation with God, remission of all sins, salvation, justice, and eternal life***: **John 3; 1 Tim. 2; 1 John 1; Matt. 20; Isa. 53; Rom. 3, 4, 5**, etc. Nowhere does Scripture teach that ***Christ merited only the infusion of grace for us***, so that we ourselves afterwards, out of the infused and inhering justice, by good works, might merit salvation and eternal life.
+
+**III.** They teach that ***the passion of Christ is not the sole and total meritorious cause of glory and of eternal life***, because ***in adults there always concurs some operation***, etc. Gabriel's words are, ***lib. 3, dist. 19***: *"Although Christ's passion be the principal merit, on account of which grace, the opening of the kingdom, and glory are conferred — nevertheless it is never the sole and total meritorious cause: because there always concurs with Christ's merit some operation, as merit ***de congruo*** or ***de condigno*** of him who receives grace or glory, if he be an adult having use of reason, or of another for him, if he lack use of reason."* This is a horrible blasphemy against the sacrosanct merit of the Lord and Saviour Jesus Christ, and so open that it refutes itself by bare recitation. For Scripture ascribes ***our whole salvation to the passion, merit, and obedience of Christ***, and teaches that ***by the obedience and merit of the one Christ we are justified before God*** — **Rom. 5** — and that ***the fulfilment of the Law made by Christ is imputed to us believers for justification***.
+
+And to sum up: it teaches that ***by the justice of Christ the Mediator, not of our own, we are counted just before God, and received unto eternal life*** — **Rom. 3, 4, 5, 8**.
+
+**IV.** They teach that ***Christ by his death obtained this — that our good works, which we do from infused grace, are satisfactory for sins and meritorious of eternal life***. But Scripture nowhere so speaks; nowhere says that ***Christ by his death effected this — that our works should be satisfactory or meritorious***. But to the obedience, passion, wounds, and death of Christ she attributes only this — that ***by them our sins are expiated, the wrath of God appeased*** (**Isa. 53**), ***peace is acquired for us, justice, life, and eternal salvation are procured***. And to embrace all summarily: she ascribes to Christ alone, ***and indeed wholly, our justice and salvation***; ***she pronounces that we are justified by faith through the justice of Christ, not by our works***; and she makes our works ***indications or fruits of justification and salvation***, not merits or any cause, by whatever name it may be called.
+
+**V.** They teach that ***Christ by his humility, obedience, and passion merited the exaltation and glorification of his humanity***. If this opinion were true, Christ would have suffered more ***for himself*** than for men.
+
+— ❦ —
+
+### Objection I. **Phil. 2:8–9** — *"He humbled himself, becoming obedient unto death, even to the death of the cross. For which cause God also hath exalted him,"* etc. *Ergo* by his passion he merited for himself an exaltation which was consequent.
+
+**Respondeo**: **It is agreed that the causal or ratiocinative particles (*ideo, idcirco, quapropter, propterea*, etc.) do not always indicate that which precedes to be the efficient or meriting cause of the following matter.** For example, at **John 12:39–40** it is said: *"Therefore they could not believe, because Isaiah said."* Where the particle ***therefore*** does not signify a cause. For the prophetic prediction was by no means the cause of the incredulity of the Jews.
+
+So **Ps. 44 [45:7]**: *"Thou hast loved justice, and hast hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows."* There also stands the causal particle ***propterea***, which nevertheless does not denote a meriting cause. For Christ according to his humanity was anointed with the oil of gladness — that is, with the Holy Spirit — ***immediately in the very conception***, and did not first, when he grew older, ***merit*** to be anointed with the Holy Spirit through love of justice and hatred of iniquity.
+
+The same judgment is of the Apostle's words at **Phil. 2**. In which the particle ***propterea*** does not indicate that Christ's passion is the efficient or meriting cause of the subsequent exaltation. For this denotes a gratuitous ***donation*** of the name which is above every name. Which donation was not first made after the passion and resurrection — but ***in the very conception***, according to the words of the Angel, **Luke 1:31–32**: *"Behold, thou shalt conceive, and shalt bring forth a Son, and thou shalt call his name Jesus. He shall be great, and shall be called the Son of the most High,"* etc.
+
+Since this name (with the Apostle, **Phil. 2**) was given ***from grace*** to Christ according to the humanity, ***and indeed in the very conception***, it is clearer than the noonday light that ***he did not merit it through his passion***. For where there is merit, there is not grace; and where there is grace, there is not merit.
+
+**In sum**: If he had first acquired majesty and glory for himself by his passion, he could not have manifested his glory before the passion. But he did manifest — **John 1, 2**. He therefore had it before the passion, and did not first acquire it through the passion. And he is said to be exalted, and to be gifted with the name of God, ***after the passion*** — not because through the passion he acquired for himself that exaltation. But because through the resurrection he entered upon the ***full assumption and manifestation*** of his divine glory, to which in the very incarnation he had been exalted or raised.
+
+### Objection II. **Ps. 110:7** — *"He shall drink of the torrent in the way: therefore shall he lift up the head."* *Ergo* by his passion he also merited for himself.
+
+**Respondeo**: **The particle ***therefore*** does not denote a meriting cause, but the ***glorious event*** of Christ's passion.** As at **Luke 24:26** by Christ himself this is taught: *"Ought not Christ to have suffered these things, and so to enter into his glory?"* For this order had been ***foreordained by God***, that Christ, ***for the cause of our salvation***, should suffer, and by this way of his passion should ***accede to the full assumption of his divine majesty*** — so that his ***bitter passion and death*** the ***most glorious event of the resurrection*** and glorification should follow. Not that these things had a meriting cause, but that Christ ***as Man***, first humbled through the passion, afterwards through the ***glorious resurrection*** and other similar works, ought to reveal his divine majesty and glory to the whole world — which majesty or glory ***as God from eternity he had had***, but ***as Man in time*** he received through the mystery of the incarnation.
+
+### Objection III. But **Heb. 2:9** it is said: *"Jesus, on account of the passion of death, was crowned with glory and honour."* *Ergo* it is still true that by his passion he merited for himself.
+
+**Respondeo**: **Nor hence does it follow that Christ merited glory for himself.** For the exaltation of Christ, according to the assumed nature, is a ***work of grace, not of merit*** — **Phil. 2:9**: *"He hath given him a name."* Out of mere grace, in the very union and through the union, he was raised to the proper altitude or glory of the Word, ***not on account of any merit***; and every operation of that Man was ***subsequent to the union***; whence no operation of his could be the merit of the union, or of the glory which through the union he received. Thus, out of mere grace, ***he was exalted according to the assumed nature to the right hand of God***, and ***not on account of any merit***.
+
+The sense, therefore, of the words of the Epistle to the Hebrews is: ***that the passion was as it were a way and means destined by divine ordination to the perfect fruition of divine glory***. Which appears from the following words, where he writes: *"the Prince of salvation (Christ) was made perfect through passions."* As if he said: The passion was as it were a means through which Christ, according to the decree of the divine will, might come to the perfect ***assumption or manifestation*** of the divine glory which in the very incarnation he had received.
+
+**Sum of the matter**: Sacred Scripture nowhere plainly says that Christ suffered ***in order to merit something for himself***, but rather ***in order to procure for us men salvation and eternal glory***. But if by the passion he had merited for himself (which the Papists would have), it must altogether be conceded that ***he suffered more for himself than for us***. Which cannot be said without manifest blasphemy. Why also would he be called ***our Saviour*** by the prophetic and apostolic Scripture, if he had profited himself by his passion more than us? Unless therefore we wish to fall into manifest blasphemy, that opinion is to be rejected which feigns that ***Christ merited for himself***.
+
+— ❦ —
+
+## Question 7. What further do the Papists teach?
+
+**What further do the Papists teach?**
+
+**IV.** They teach that ***Christ indeed is Mediator of Redemption; but that there are many Mediators of Intercession — that is, deceased saints, living with God, who intercede for us and carry our prayers to God***. But that this opinion is blasphemous and detestable is manifest. For **Scripture makes only one Mediator between God and men, and not many, by whatsoever name they may be called** — **1 Tim. 2:5**. Next, the Apostle in the same place, where ex professo he treats of prayers and intercession, ***names no other Mediators of Intercession with God***, but simply and without any exception refers all the faithful ***to Christ alone the Mediator***. And the Epistle to the **Hebrews cap. 7** teaches: *"He is able to save for ever them that come to God by him: always living to make intercession for us."*
+
+— ❦ —
+
+*[Locus IV continues in Rebuild-Tranche 9 — Papist errors on merit continued + treatment of Christ as Prophet + King + Priest + closing of the Office locus.]*
