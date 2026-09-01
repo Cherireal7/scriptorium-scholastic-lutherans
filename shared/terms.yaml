@@ -6818,13 +6818,218 @@ fabulas_commiscere_annales_corrumpere:
     reference to n844 (T2rr programmatic historical-ecclesiological
     method statement).
 
+fasciculus_rerum_sciendarum:
+  english: "Fasciculus rerum expetendarum et fugiendarum (Cologne 1535/1553)"
+  type: catholic-humanist-anti-curial-anthology
+  first_use: "flacius-catalogus-testium-1556, body — vl0288 (Appendix on Hildebrand)"
+  note: >
+    FASCICULUS RERUM EXPETENDARUM ET FUGIENDARUM (also FASCICULUS
+    RERUM SCIENDARUM), first published Cologne 1535 (ORTWIN GRATIUS
+    ed.), reprinted 1553 — compilation of ANTI-ROMAN-PAPAL texts
+    (Council of Basel + Marsilius of Padua + Nicholas of Cusa + Otto
+    of Frisingen). CATHOLIC REFORM-HUMANIST anti-curial anthology
+    that Flacius freely draws on. 1553 Cologne reprint = Flacius's
+    actual base-text. Standard reference: Edward Brown (ed.),
+    Fasciculus rerum expetendarum et fugiendarum (London, 1690) =
+    standard modern editio-augmenta.
+
+guibertus_ravennae_clement_iii_antipope:
+  english: "Guibert of Ravenna = Antipope Clement III (r. 1080-1100)"
+  type: imperial-party-pope
+  first_use: "flacius-catalogus-testium-1556, body — vl0288-vl0289 (Brixen 1080 election)"
+  note: >
+    GUIBERT OF RAVENNA (c. 1029-1100), Archbishop of Ravenna from 1073,
+    elevated ANTI-POPE as CLEMENT III by Henry IV's party at Synod of
+    Brixen (25 June 1080) and enthroned in Rome after Henry IV's
+    capture of the Lateran in 1084. Held Roman see (against Gregorian
+    succession of Victor III, Urban II, Paschal II) until death 1100.
+    Reformation-standard: cited by Flacius + Sleidan as LEGITIMATE
+    IMPERIAL-PARTY POPE against Gregorian-usurper Hildebrand-
+    succession. Reference: Ian S. Robinson, The Papacy 1073-1198
+    (Cambridge, 1990), 96-133.
+
+brixen_synod_1080:
+  english: "Synod of Brixen (25 June 1080) — imperial-party deposition of Gregory VII"
+  type: imperial-canonical-council
+  first_use: "flacius-catalogus-testium-1556, body — vl0288-vl0292 (Brixen decree via Ursperg)"
+  note: >
+    SYNOD OF BRIXEN 25 June 1080, at which Henry IV together with 30
+    imperial-party German and Italian bishops formally DEPOSED
+    GREGORY VII and elected GUIBERT OF RAVENNA as antipope CLEMENT III.
+    Ursperg's decree text (four core-accusations): (i) self-election
+    not from God; (ii) fraud and money; (iii) destroying priestly
+    marriage; (iv) ancient disciple of Berengarian heretic; +
+    NECROMANTIC + Pythonic-spirit accusations. Convocation-city =
+    BRIXEN in modern South Tyrol (Fasciculus scribal error PYRENAEIS
+    for ALPS). Standard reference: Schieffer, Die Sitzungsberichte
+    (Munich).
+
+otto_frisingensis_chronica:
+  english: "Otto of Frisingen, CHRONICA sive Historia de duabus civitatibus (c. 1146)"
+  type: classical-medieval-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0289 (Haec Otto Frisingensis)"
+  note: >
+    OTTO OF FRISINGEN (Bishop Otto I of Freising, c. 1114-1158),
+    Cistercian and half-brother of King Conrad III of Hohenstaufen,
+    author of CHRONICA SIVE HISTORIA DE DUABUS CIVITATIBUS (c. 1146)
+    and GESTA FRIDERICI I (unfinished at his death). Chronica Book
+    VI-VII = CLASSIC 12C NARRATIVE of Investiture Controversy — from
+    Ottonian imperial-episcopal cooperation-model to Gregorian-
+    Hildebrandine RUPTURE. STANDARD-CANONICAL-MEDIEVAL-AUTHORITY on
+    Investiture Controversy for whole Reformation-historiographical
+    tradition (Melanchthon, Sleidan, Flacius, Chytraeus). Standard
+    edition: Adolf Hofmeister (ed.), MGH SS rer. Germ. 45 (Hannover,
+    1912).
+
+guibertine_cardinal_college_1098:
+  english: "The Guibertine cardinal-college signatory-list (1098)"
+  type: canonical-party-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0289-vl0291 (Roman synodal letter of 1098)"
+  note: >
+    THE GUIBERTINE CARDINAL-CLERGY SIGNATORY-LIST of Roman synodal
+    letter of 7 August 1098 in pontificate of Clement III (r. 1080-
+    1100) against the Gregorian-Urbanite successors. Includes
+    ADALBERTUS of Silva Candida-Santa Rufina, IOANNES of Ostia, HUGO
+    of Palestrina, ALBERTUS of Nepi, BENO (celebrated Guibertine
+    polemicist, CONTRA DECRETA GREGORII MGH Libelli II 366-422),
+    Cardinal-presbyters + Primicerius Scholae Cantorum + Guibertine-
+    loyalist abbots. Reference: Hüls, Kardinäle, Klerus und Kirchen
+    Roms 1049-1130 (Tübingen, 1977); Klewitz, Reformpapsttum und
+    Kardinalskolleg (Darmstadt, 1957).
+
+sigebertus_gemblacensis_chronica:
+  english: "Sigebert of Gembloux, CHRONICA + Apologia Contra eos qui calumniantur missas coniugatorum sacerdotum"
+  type: imperial-party-medieval-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0292 (Siggibertus witnesses death-bed confession)"
+  note: >
+    SIGEBERT OF GEMBLOUX (c. 1030-1112), Benedictine monk and
+    chronicler at abbey of Gembloux (modern Belgium), author of
+    CHRONICA (compiled c. 1100, PL 160:57-546) = PRO-IMPERIAL PARTY
+    universal chronicle covering 381-1111. Sigebert was one of the
+    leading imperial-party intellectuals of the Investiture
+    Controversy — his LEODICENSIUM EPISTOLA (1103) and APOLOGIA
+    CONTRA EOS QUI CALUMNIANTUR MISSAS CONIUGATORUM SACERDOTUM (1074)
+    are FOUNDATIONAL anti-Gregorian + pro-priestly-marriage documents.
+    Standard-canonical medieval imperial-party witness invoked by
+    Magdeburg Centuries + Flacius + Chytraeus + Sleidan. Standard
+    edition: MGH SS 6, pp. 268-374 (Bethmann ed. 1844).
+
+burchardus_ursbergensis_chronicon:
+  english: "Burchard of Ursperg, CHRONICON URSPERGENSE"
+  type: imperial-party-medieval-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0292-vl0293 (Ursperg decree)"
+  note: >
+    BURCHARD OF URSPERG (†1230), Premonstratensian abbot, author of
+    CHRONICON URSPERGENSE (also CHRONICON BURCHARDI ET CUONRADI
+    URSPERGENSIUM, PL 154:837-1122) = PRO-IMPERIAL universal chronicle
+    covering to 1230. Flacius's principal source for BRIXEN DECREE of
+    25 June 1080 (formal deposition of Gregory VII by Henry IV and
+    30 imperial-party bishops). Standard modern edition: MGH SS 23,
+    pp. 333-383 (Weiland ed. 1874). NOTE Noricum = Roman-provincial
+    name for region including Bavaria + Salzburg + Tyrol.
+
+hildebrand_death_bed_confession:
+  english: "Hildebrand's death-bed confession at Salerno (25 May 1085)"
+  type: papal-self-recantation-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0291-vl0292 (Guibertine + Siggibertus witnesses)"
+  note: >
+    HILDEBRAND'S DEATH-BED CONFESSION (that he had GREATLY SINNED in
+    the pastoral care committed to him) — LEGENDARY-BUT-DOCUMENTED
+    deathbed self-recantation of Gregory VII at Salerno 25 May 1085.
+    Attested in GUIBERTINE tradition (Beno, Fasciculus rerum
+    sciendarum) + Sigebert of Gembloux; REJECTED by Gregorian-
+    Bernriedensian tradition (Paul of Bernried). Reformation-standard:
+    cf. Chytraeus Chronologia on the Hildebrandine death-bed
+    confession as SMOKING-GUN self-acknowledgment of Gregorian
+    tyranny. Scholarly dispute over historicity still open (Tellenbach
+    Libertas: Kirche und Weltordnung Stuttgart 1936 accepts as
+    plausible; more recent scholarship more sceptical).
+
+barbarossa_epistola_ad_adrianum_iv_besancon:
+  english: "Frederick I Barbarossa's letter to Adrian IV (Besançon incident, October 1157)"
+  type: imperial-cardinal-critique
+  first_use: "flacius-catalogus-testium-1556, body — vl0293 (predatores non predicatores + Petri sedem beluam superbie)"
+  note: >
+    FREDERICK I BARBAROSSA (r. 1152-1190) letter to Pope ADRIAN IV
+    (Nicholas Breakspear, r. 1154-1159) responding to BESANÇON
+    INCIDENT October 1157 at which papal legates ROLAND BANDINELLI
+    (later Alexander III) + BERNARD OF SAN CLEMENTE provoked imperial
+    diet by reading phrase BENEFICIA...CONTULIT (understood as
+    benefices/fiefs rather than benefits) from Adrian's letter,
+    implying Empire itself is a papal fief. Frederick's response
+    denounced predatory-cardinal system: PREDATORES NON PREDICATORES
+    + RAPTORES NON CORROBORATORES PACIS + INSATIABLES CORRASORES AURI
+    NON REPARATORES + SUPERBIAE DETESTABILEM BELUAM USQUE AD PETRI
+    SEDEM EREPARE VIDIMUS. Reference: Wolfgang Georgi, Friedrich
+    Barbarossa und die auswärtigen Mächte (Frankfurt, 1990).
+
+lampertus_hersfeldensis_annales:
+  english: "Lampert of Hersfeld, ANNALES (1039-1077)"
+  type: imperial-saxon-narrative-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0294 (Hersfeldensis alibi clarius)"
+  note: >
+    LAMPERT OF HERSFELD (c. 1024-after 1081), Benedictine monk of
+    abbey of Hersfeld in Hesse, author of ANNALES (covering 1039-1077,
+    MGH SS 5 pp. 134-263) = ONE OF FUNDAMENTAL NARRATIVE SOURCES for
+    Saxon War and Investiture Controversy from IMPERIAL-SAXON
+    perspective. Widely diffused in pre-Reformation Latin world =
+    STANDARD-CANONICAL NARRATIVE for events of 1070s. Standard modern
+    edition: Oswald Holder-Egger (ed.), Lamperti Monachi Hersfeldensis
+    Opera (MGH SS rer. Germ. 38, Hannover, 1894).
+
+otho_constantiensis_pro_coniugio_sacerdotum:
+  english: "Otho of Constance (r. 1071-1086) — paradigmatic German-episcopal-defender of clerical marriage"
+  type: pro-priestly-marriage-episcopal-witness
+  first_use: "flacius-catalogus-testium-1556, body — vl0294 (Ottho Constantiensis episcopus)"
+  note: >
+    OTHO OF CONSTANCE (Bishop Otto I of Constance, r. 1071-1086),
+    one of PRINCIPAL GERMAN-EPISCOPAL-RESISTERS to Gregory VII's
+    anti-clerical-marriage campaign. Held see of Konstanz on Lake
+    Constance. His PERSONAL DEFENCE of clerical marriage and REFUSAL
+    TO ENFORCE Gregorian anti-Nicolaite legislation documented in
+    Gregory's own REGISTRUM III.10 PL 148:429-431 (letter reproduced
+    by Flacius via Nauclerus). PARADIGMATIC GERMAN-EPISCOPAL-
+    DEFENDER-OF-CLERICAL-MARRIAGE against Gregorian campaign, cited
+    passim in AC XXIII apparatus.
+
+nauclerus_chronica_1516:
+  english: "Johannes Nauclerus, CHRONICA (Tübingen 1516)"
+  type: humanist-universal-chronicle-source
+  first_use: "flacius-catalogus-testium-1556, body — vl0294 (Nauclerus writes)"
+  note: >
+    JOHANNES NAUCLERUS (Johann Vergenhans, c. 1425-1510), German
+    humanist, chancellor of University of Tübingen, author of CHRONICA
+    (posthumous, published Tübingen: T. Anshelm, 1516; 2nd edn Cologne
+    1544) = large universal chronicle covering from Creation to 1500.
+    ONE OF STANDARD HUMANIST REFERENCE-WORKS for medieval church
+    history in mid-16c. Reference: Anna Ohlig, Johannes Nauclerus und
+    seine Chronik (Tübingen, 1938).
+
+vade_retro_satana_qui_gladium_acceperit:
+  english: "Vade retro Satana + Qui gladium acceperit gladio pereat (Aventinus dominical peroration)"
+  type: dominical-petrine-rebuke-formula
+  first_use: "flacius-catalogus-testium-1556, body — vl0287 (Aventinus peroration)"
+  note: >
+    AVENTINUS'S DOMINICAL PERORATION: (i) MATTHEW 16:23 Vade post me
+    Satana scandalum es mihi = Christ's rebuke to PETER for opposing
+    the cross-way; (ii) MATTHEW 26:52 Omnes enim qui acceperint
+    gladium gladio peribunt = Christ's rebuke to PETER for the sword-
+    drawing in Gethsemane. Aventinus applies both dominical PETRINE-
+    REBUKES to PETER'S ROMAN-BISHOP SUCCESSORS = RHETORICAL PERORATION
+    OF GREAT FORCE: the very PETER TO WHOM the Roman-papal successor
+    claims to succeed, is PRECISELY the Peter WHOM CHRIST twice
+    rebuked for SATAN-THINKING and SWORD-DRAWING. Reformation-standard
+    reception: Luther An den christlichen Adel (1520) develops
+    precisely this Aventinian argumentative structure.
+
 # ═══════════════════════════════════════════════════════════════════════════
-# FLACIUS 1556 — TRANCHE 2 through Hildebrand-indictment continuation
-# (Aventinus vl0279-vl0286: Nicolaite-Simoniac dual-front campaign, Matilda
-# and Norman alliance, Worms Synod 1076, Lent Synod Rome 1076 first
-# excommunication of Henry IV, Rulandus of Parma legation, Aventinian
-# anti-Papal peroration + Antichrist-application) (vl0001-vl0286, 286 body
-# pp + 32 paratexts ≈ 52.4% of 1094-pp body).
+# FLACIUS 1556 — TRANCHE 2 through Aventinus anti-Hildebrand peroration +
+# Fasciculus rerum sciendarum Appendix + Otto of Frisingen Brixen 1080
+# decree + Roman synodal letter 1098 against Hildebrandine schismatics +
+# Hildebrand's death-bed confession + Barbarossa's letter to Adrian IV +
+# Gebuilerus 28000 married clergy + Otho of Constance's resistance to
+# Gregory VII (vl0001-vl0294, 294 body pp + 32 paratexts ≈ 53.8% of
+# 1094-pp body).
 # Flacius lemma total: 10 seed + 8 (T1a) + 6 (T1b) + 6 (T2 Peter) + 7 (T2
 # Sacrae) + 8 (T2c) + 3 (T2d) + 6 (T2e) + 4 (T2f) + 5 (T2g) + 4 (T2h) +
 # 5 (T2i) + 3 (T2j) + 4 (T2k) + 4 (T2l) + 6 (T2m) + 6 (T2n) + 3 (T2o) +
@@ -6832,7 +7037,8 @@ fabulas_commiscere_annales_corrumpere:
 # 5 (T2w) + 5 (T2x) + 4 (T2y) + 4 (T2z) + 4 (T2aa) + 3 (T2bb) + 10 (T2cc)
 # + 10 (T2dd) + 8 (T2ee) + 8 (T2ff) + 8 (T2gg) + 8 (T2hh) + 8 (T2ii) +
 # 8 (T2jj) + 9 (T2kk) + 8 (T2ll) + 8 (T2mm) + 9 (T2nn) + 9 (T2oo) +
-# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) + 14 (T2ss) + 12 (T2tt) = 318.
+# 11 (T2pp) + 11 (T2qq) + 11 (T2rr) + 14 (T2ss) + 12 (T2tt) + 13 (T2uu)
+# = 331.
 # ═══════════════════════════════════════════════════════════════════════════
 
 
