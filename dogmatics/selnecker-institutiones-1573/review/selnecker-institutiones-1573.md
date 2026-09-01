@@ -1513,7 +1513,87 @@ To the minor I respond: ***The Son of God was born from eternity of the Father.*
 
 **But diligently must the difference of the ***Nestorian and Eutychian dogma*** be considered.** ***Nestorius*** was unwilling to attribute the idiomata of the human nature to the divine nature in Christ, and therefore he denied Mary [***Θεοτόκος***], separating the divinity from the humanity in the very moment of the Incarnation. But ***Eutyches***, on the contrary, ***confounding the two natures***, said that they had coalesced into a single third nature — thus taking away both the divinity of the Word (which cannot suffer or be diminished) and the true humanity (which cannot be swallowed up).
 
-**Between these two errors — Nestorius separating and Eutyches confounding — stands the ***orthodox Chalcedonian formula*** of the Council of Chalcedon (451), decreed against Eutyches through Pope Leo's ***Tomus ad Flavianum***: ***"one and the same Christ, Son, Lord, only-begotten, in two natures inconfusedly, unchangeably, indivisibly, inseparably; the difference of the natures being nowhere taken away by the union, but rather the peculiarity of each nature being preserved, and concurring into one Person and one hypostasis — not divided or separated into two Persons, but one and the same only-begotten Son, God-Word, Lord Jesus Christ."*** This is the paradigm-***Chalcedonian settlement*** which we retain in the confession of the Church of Christ.¹⁰⁷ᵉᶜ
+**Between these two errors — Nestorius separating and Eutyches confounding — stands the ***orthodox Chalcedonian formula*** of the Council of Chalcedon (451), decreed against Eutyches through Pope Leo's ***Tomus ad Flavianum***: ***"one and the same Christ, Son, Lord, only-begotten, in two natures inconfusedly, unchangeably, indivisibly, inseparably; the difference of the natures being nowhere taken away by the union, but rather the peculiarity of each nature being preserved, and concurring into one Person and one hypostasis — not divided or separated into two Persons, but one and the same only-begotten Son, God-Word, Lord Jesus Christ."*** This is the paradigm-***Chalcedonian settlement*** which we retain in the confession of the Church of Christ.
+
+#### Nestorius vs Eutyches: Illustrative Examples
+
+**Nestorius perceived that as it necessarily followed that ***two Christs*** be constituted — and that Christ, the Son of Mary, should not be called ***true and eternal God***, but only [***θεοφόρος***] — ["God-bearing man"]. Rightly therefore Cyril and others damned Nestorius.** And even if ***Theodoret***, and ***John of Antioch***, and a few others — on account of his arrival not expected, from contention and vexation — at first opposed themselves to Cyril more vehemently than was fitting; and Theodoret was first held for a Nestorian, and wrote against Cyril, moved by a certain human ambition-fragment of error — yet convinced by Cyril at length, they returned to a saner mind, and praised Cyril, and even by their own suffrage judged that Nestorius was to be sent into exile — and when he in exile also perverted many, they judged that he was to be relegated to the ***Oasis in Arabia***, a region sterile and infested by pestilent winds.
+
+**Conversely ***Eutyches*** was unwilling to attribute the ***idiomata of the divine nature to the human*** in Christ — but after the hypostatic union he feigned there was only ***one nature in Christ*** — not indeed in the antecedent (that is, he did not deny that Christ is God and man), but ***in the consequent*** — that is, when he denied that ***Christ as man*** is Creator of heaven and earth, he at the same time denied that the human nature in Christ is so united to the divine nature in Christ that there is one Person, and that ***the idiomata of the natures become common of the Person.***
+
+**As therefore ***Nestorius*** denied that ***the Son of God is Son of Mary***, that He suffered, was crucified, died; so ***Eutyches*** denied that ***the Son of Mary is Son of God***, Creator of heaven and earth, [***ζωοποιός***], etc. (as for example): if one should say, ***"They struck thy son"*** — Nestorius could respond: ***"They did not strike thy son, but they struck his body."*** Here as if there were two Persons, the words sound. Conversely if one should say: ***"Thy son is wise and erudite"*** — Eutyches could respond: ***"The son is not wise, but his soul is wise and taught."*** This certainly is the phantasy and rudeness of Nestorius and Eutyches, partly tearing apart, and partly confounding both the natures in Christ and the idiomata of the natures.
+
+#### The Latrocinium of Ephesus + Council of Chalcedon
+
+**Against Eutyches was declared the ***Synod of Ephesus*** — beyond measure unhappy, infamous, tyrannical, and therefore named [***λῃστρικόν***] — that is, ***piratical***, or the concourse of robbers.** ***Flavianus Bishop of Constantinople***, rightly thinking, often admonished Eutyches, who pertinaciously defended his delusions, that he should emend his novelty of false doctrine; and when he would not do this, at length ***he cut him from the body of the Church***, lest by the pest the healthy members also be infected. But Eutyches went to ***Chrysaphius the Eunuch***, a suffragan of his sentence, and powerful in the court of Theodosius. He therefore by the aid of Eudoxia the wife of Theodosius obtains that ***Dioscorus Bishop of Alexandria***, Cyril's successor, with other Bishops called to Ephesus, examine the Eutychian dogma in the presence of Flavianus.
+
+***Dioscorus*** approved the sentence of Eutyches. ***Flavianus*** disapproved. And by Dioscorus, like an untamed ass leaping out, he is attacked with kicks, is beaten with fists, and is expelled from the assembly — and three days after from the blow to the chest he dies. Even Dioscorus with insane feet trampled the dead one — and compelled the rest of the Bishops present to subscribe to his sentence, ordering armed soldiers to be present, who might ***terrify those opposing.*** But Eutyches, the Eunuch, and Dioscorus paid the penalty, being relegated and damned. And Eutyches unhappily and miserably perished.
+
+**Discord grew more and more**, so that ***Martian the Emperor*** in the year of Christ 455 convoked a Synod in the city of ***Chalcedon***, in which ***630 Bishops*** came together, and at which Synod the Emperor himself was present, lest by seditious tumults the faculty of speaking sentences be impeded. The acts of this Synod stand with Nicephorus, which Zonaras briefly recites thus:
+
+***"Nestorius and Eutyches being damned, and the Councils of Nicaea, Constantinople, and First Ephesus approved — the divine Fathers further with anathema noted those who should establish ***two Sons***, and should assert that the divinity is passible; and those who should dare to feel and profess a ***temperament and confusion of the two natures***; or should feign ***two natures in Christ before the union, and one after the union***; and who should fabricate the ***form assumed by the Lord from us*** to be either ***celestial*** or of another nature. They established that ***Jesus Christ our Lord is perfect in divinity, and perfect in humanity, true God and true man, who consists of rational soul and body, of the same essence with the Father according to divinity, and of the same essence with us, similar in all things to us without sin: who is one and the same in two natures*** [***ἀσυγχύτως, ἀτρέπτως, ἀδιαιρέτως, ἀχωρίστως***], ***without confusion, mutation, division, and separation, is acknowledged — the idiomata or properties of each nature preserved, concurring into one Person and hypostasis."***
+
+#### Communicatio Idiomatum — Foundations, Terms, and Fathers
+
+**That now our discourse may return to whence it digressed**: this rudeness and variety of opinions impelled the orthodox teachers to subjoin to the ***sacrosanct doctrine of the hypostatic union of the two natures*** the ***doctrine of the communication of idiomata*** — by which both the ***confusion of natures*** and the ***distraction of the Person or disruption of the natures*** might be prohibited — according to the saying of Athanasius:
+
+***"There is therefore right faith: that we may believe and confess that our Lord Jesus Christ, Son of God, is God and man. God begotten before the ages from the substance of the Father, and man born in the age from the substance of the Mother; perfect God, perfect man subsisting of rational soul and human flesh: equal to the Father according to divinity, less than the Father according to humanity. Who although He be God and man, yet not two but one is Christ. But one, not by conversion of the divinity into the flesh, but by assumption of the humanity into God. One altogether, not by confusion of substance, but by unity of Person."*** [Athanasian Symbol]
+
+**And here belong the ***three dialogues of Theodoret*** — [***Ἀσύγχυτος***], [***Ἀσύγχυτος***], and [***Ἀπαθής***] — with dextrous judgement applied in certain [passages]. And there stand the pious labours of Cyril**, by which the doctrine of the ***communication of idiomata***, or (what I would prefer) the ***communion*** (for it is [***κοινωνία***]), is established and handed down from the foundations of Scripture. There stand also the works of Damascene in this genre — not to be contemned.
+
+**Today we have the excellent judgement of ***D. Luther*** on the communication of idiomata**, written in his tract on the last words of David, item on the Councils and the Church; and in the explication of the fifty-third chapter of Isaiah. The same doctrine, insofar as it pertains to [***κοινωνία***] and to the offices [of Christ], has been explicated by ***D. Philip [Melanchthon]***, especially in the refutation of the error of Servetus and the Anabaptists, and in the ***response concerning the controversies of Stancarus.***
+
+#### What is the Communication of Idiomata?
+
+**We retain the customary and true definition, to be understood without sophistry.**
+
+***The Communication of Idiomata is the predication, or the form of speech, in which the properties of one nature agreeing in Christ, are attributed to the Person in the concrete on account of the ***hypostatic union.***
+
+**As**: it is the proper of the divine nature to ***create and conserve all things.*** It is proper of the human nature ***to suffer, to die.*** But rightly by ***communication of idiomata*** we say: ***"Christ the man, the Son of Mary, created and conserves all things. Christ God, the Son of God, suffered, was crucified, and died for us."***
+
+**Terms:**
+
+- ***Idioma*** is named the ***property of a certain nature***, as it is proper of the divine nature to be ***immortal, omnipotent, infinite, everywhere***. Proper of the human nature is to be ***mortal, passible,*** [***περιγεγραμμένος***].
+- ***Communicatio idiomatum*** is when the properties agreeing with one nature are attributed to the Person in which the diverse natures are mutually united by hypostatic union.
+- ***Concretum*** is named the ***whole Person of Christ***, in which the two natures — divine and human — are as it were ***"con-cretaeˮ*** — that is, united to each other — as ***Christ God, Son of God; Christ man, Son of Mary.***
+- ***Locutions in the concrete*** — which grammarians call [***σύνθετον***] and ***form with subject*** — are said [to be those] which are received ***not separately of either nature of Christ, but of the Person in which the two natures are united*** — as: ***"The Son of God, true and eternal God, is born a man of the Virgin Mary, suffered, was crucified, and died. The Son of Mary, true man, is Creator and Conserver of heaven and earth."***
+- ***Abstractum*** — [***ἡ φύσις***] considered [***καθ' ἑαυτήν***], [***ἀπὸ πάσης οἰκειώσεως πρὸς τὴν ὑπόστασιν***], is named ***one nature in Christ per se***, or considered separately, either in the union itself, or (though this indeed cannot be done in reality) outside the personal union — as ***divinity, humanity***. For the ***cogitation of mind*** as it were ***abstracts*** one nature from the hypostasis of Christ, and considers its properties, and brings them forth — insofar as without disruption of the natures and with the Person integral it can be done.
+
+#### Selnecker's Vocabulary of the Fathers
+
+**Damascene** names this whole doctrine on the communication of idiomata [***τὸν τῆς ἀντιδόσεως λόγον***] — that is, the ***reason of alternate attribution.*** Item from Irenaeus and others he calls it [***ἀντιμετάθεσιν***], which others render ***appropriation***, others improperly ***domesticity***. There is also the well-known word [***ἀναφορά***], and [***κατ' ἀλληλουχίαν***], which today we call ***alternation***.
+
+**Cyril** places [***κοινωνίαν καὶ ἀναφοράν***]. This he calls ***the norm of retaining the unity of Person, and of attributing to the whole Person the properties agreeing with the divine nature*** — just as the rule of Theodoret shows: [***"In the concrete the communication happens, in the abstract no."***] And this [***ἀναφορά***] was opposed to the Nestorians, who said the natures in Christ are [***ἀκοινώνητοι***].
+
+***[Ἀντιμετάθεσις]*** he names, ***by which the distinction of the natures in Christ is shown*** — that is, that the ***idiomata of the divine and human nature are distinct***, and yet the properties of the human nature agreeing with it by its own origin, ***are attributed to the whole Person on account of the hypostatic union.*** And this [***ἀντιμετάθεσις***] was opposed to the Eutychians. For by no means (that we may use the words of Evagrius book 2 chapter 4) is the ***distinction of the natures taken away on account of the union***, but rather is preserved the ***propriety of each nature*** [***φυλαττομένου τοῦ ἰδιώματος ἑκατέρας φύσεως***].
+
+#### Three Limits to be Observed
+
+**That it may be plain how far the knowledge of this doctrine on the communication of idiomata extends, these three [things] as it were as ***limits*** must be considered and held**:
+
+**1.** The ***foundation of this doctrine*** — namely, the ***personal union***.
+**2.** The ***form of speaking in the concrete***.
+**3.** The ***explication of the propositions*** through the particle [***κατά***] or ***according to***, or through the ablative of manner.
+
+#### 1. On the Personal Union
+
+**Concerning the ***personal union*** it must be diligently observed that it is ***not to be confounded*** with the doctrine on the [***κοινωνίας τῶν ἰδιωμάτων***].** For that [personal union] is the ***foundation and base, fount and springhead*** of this doctrine — and unless it itself were, this doctrine too would be plainly nothing.
+
+**[Ἡ καθ' ὑπόστασιν ἕνωσις], or personal union, is named that by which the divine nature of the Son of God has been united to the human nature in the womb of Mary, and thence into eternity — so that these two natures are ***one*** [***ζῷον***], one Person, or one [***ὑπόστασις***] — the natures nevertheless preserved, and the properties of each nature — according to the explication which is handed down in the sacred letters.**
+
+**In this union one nature is ***assuming***, another is ***assumed*** — namely, the human.** ***"For the whole [Christ] assumed the whole me, and the whole is united to the whole, that He might bestow the whole salvation on the whole,"*** says Damascene. And here belong the testimonies: ***"The Word was made flesh."*** ***Isa. 9***: ***"His name shall be called Emmanuel."*** ***Gal. 4***: ***"The Son of God born of a woman."*** And the well-known verse:
+
+> ***"I am what I was, nor was I what I am, now I am called both."***
+
+> [***"τὸ γὰρ Θεὸς ἦν, τοῦτο μεμένηκε καὶ ἄνθρωπον ἀνέλαβε, μὴ γενόμενος τὸ ὅπερ ἦν."***]
+
+**And Prosper**: ***"Thus man, thus God thou art — not that thou art another and another."***
+
+**Chrysostom** homily 7 on 1 John: ***"By unity and conjunction one is God the Word and the flesh — not by confusion or destruction of the natures, but by a certain arcane and inexplicable unity. But how this happens, do not inquire: it is done as He Himself knows."***
+
+**Cyril in the Alexandrian and Ephesian Synod**: ***"If any one in one Christ divides the substances after the union, connecting them only by that conjunction which is according to dignity, or authority or power, and not rather by natural union — let him be anathema."***
+
+**Here concerning the phrase a question is moved:** whether it can rightly be said, ***"The divine nature communicates to the human nature the Person."*** I respond: even if the communication has never been understood of the Person, yet this phrase has nothing of inconvenience. ***Essence*** is communicated in the article of the Trinity. The ***properties of natures*** are communicated in the doctrine of the Son of God Emmanuel. And ***the natures too are communicated*** (for ***united by hypostatic union***) the ancients said. For ***the human nature is assumed***, [***ἐν αὐτῇ τῇ ὑποστάσει τοῦ Λόγου***].¹⁰⁷ᵉᶜ
 
 #### On the Communication of Properties — De Communicatione Idiomatum
 
