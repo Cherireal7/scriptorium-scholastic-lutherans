@@ -1303,6 +1303,135 @@ These are to be briefly explained in order, of which we shall shortly deal at gr
 
 **Fourthly**, the two natures are united ***without confusion*** — so that ***neither is the divine nature converted into the human, nor the human into the divine***, nor is a third and mixed nature made from these two — as ***Eutyches*** and the ***Monophysites*** feigned. But each nature ***retains its own properties*** in the one Person of the Son of God — the divine nature retaining ***omnipotence, immensity, eternity***; the human nature retaining ***corporeality, mortality, passibility*** — until the ***state of exaltation***, in which the human nature is glorified and receives what the divine nature communicates to it, as we shall shortly say.¹⁰⁷ᵉ
 
+#### Nestorius's End + The Ephesian Council Decree
+
+**Although judgement of doctrine and life ought not easily to be taken (since often even the pious are extinguished by a horrible kind of death, as it seems to us), nevertheless when the cause precedes concerning which something certain is established, we can also judge of the effect.** ***Cyril***, although he was vehement against Nestorius, nevertheless rightly taught that [***ἕνωσις***] (union) in Christ is other than in Elijah and other Prophets, and showed that ***the hypostatic union of the two natures in Christ, and the communication of idiomata which thence arises***, must be reverently retained. This sentence of Cyril the Church approved, and cast Nestorius out into the barbarous places below the Egyptian Thebes into the ***desert Oasis***.
+
+**Evagrius writes** that he perished by a fissure of the earth, by a death similar to Arius's death. Others add that his ***tongue was consumed by worms***, as being blasphemous. **Nicephorus's** words at book 14 chapter 36 are these: ***"Nestorius in the last regions of the Egyptian Thebes, changing place from place, finally stayed — where the earth being ruptured he was covered and oppressed, and lost this life. Thus he — his tongue previously eaten by worms, groaning and lamenting — migrated to greater and eternal punishments — held as another Arius by the last act of his life: who indeed clearly declared what rewards await those who cast blasphemies against God."***
+
+There too Nicephorus recites the ***decree of Theodosius***, which since it is worthy of consideration, must also be added here: ***"We sanction that those who emulate the impious faith of Nestorius, or follow his nefarious doctrine — if indeed they are Bishops or clerics — be ejected from the Churches; if however laymen and commoners, that they be struck with anathema."***
+
+There stands also a memorable decree: ***"If any one dividing the hypostases in Christ after the union, and saying that He was joined to the man by ***society or power***, not by ***natural union*** — let him be anathema."*** But let these things concerning Nestorius suffice.
+
+#### The Quaternists — Marcellus and Photinus's Disciples
+
+**The Quaternists are those who introduce a ***fourth [Person]*** in the Divinity**, and when Christ assumed the human nature, feign that ***a fourth Person acceded to the three Persons of the Divinity*** — and thus imagine to themselves ***two Christs*** in effect: one eternal God with the Father and the Holy Spirit, another the man, who is added above [***ὑπερτίθεται***] the perfect God, and whom [the Word] has ***assumed*** [***προσλαβόμενος***], and has ruled as a minister. In this opinion the disciples of ***Marcellus*** and ***Photinus*** wallowed. These many orthodox refuted, and say that they have fallen from the Trinity.
+
+**Epiphanius** when he speaks of the ***Dimoirites*** (of whom some taught that Christ's body was [***οὐράνιον***], others that Christ did not assume a rational soul, others that Christ's flesh was not taken from the flesh of Mary), mentions these ***Quaternists***, and splendidly says: [***"Do not add a fourth to the Trinity: for the Son of God assuming flesh is one, not another, but the same"***]. And ***Maxentius***, who wrote in the year of the Lord 468, in the capitulations against the Nestorians, says: ***"If any one does not acquiesce to confess Christ ***one of the Trinity with His own flesh***, let him be anathema."*** And ***Nazianzen*** sometimes says: [***"one of both is God"***]. And the words of ***Athanasius*** are worthy of memory, which stand book 9 ***Ad Theophilum***: ***"God the Word receiving the whole that is of man, is man. The assumed man, receiving the whole that is of God, cannot be other than God. The human nature is not mixed with the divine. The flesh advanced into the Word, THE WORD DID NOT ADVANCE INTO THE FLESH"*** — that is, as Athanasius himself explains his sentence with these words: ***"God was not changed into human flesh or substance, but in Himself He glorified the nature which He assumed. The human, mortal, and infirm flesh and nature, however, He advanced into divine glory — the Lord Himself saying of the assumed Son of Man: 'Now is the Son of Man glorified, and God is glorified in Him. God has glorified Him in Himself'"*** (John 13).
+
+**These things Athanasius, who says the same that we say today**: ***The finite body of Christ, or the human nature in Christ, is [participant] of infinite power, and has divine glory, already glorified.***
+
+#### Christ's Sinless Nature + Θεοτόκος
+
+**Now to proceed to the rest. Christ alone made man has this prerogative before the whole human race — that lacking every sin, stain, and blemish, He assumed our nature and flesh ***pure and innocent***.** ***In His mouth was no deceit found.*** He was ***conceived by the Holy Spirit*** (that is, by the efficacy, operation, and sanctification of the Spirit — not of the substance of the Holy Spirit — lest one gather thence that the Holy Spirit ought to be called the Father of Christ as man). His flesh was sanctified, as the Angel to Mary says: ***"That which is born of thee holy, shall be called the Son of God."*** And Christ Himself says: ***"Who shall accuse me of sin?"*** — namely, of nature, doctrine, life, and of all actions.
+
+**Moreover, the union of the two natures was made without any confusion of the natures.** Christ has [***δύο φύσεις***] — divine and human nature — and certain idiomata of both natures, and yet is not [***δισύνθετος***]. And this must be observed against Eutyches, who in the year of Christ 449 taught that ***the Word was made carnal***, that ***the divine nature was passible***, and that the two natures were now one. Concerning this Eutyches, against whom the Council of Chalcedon was convoked, below we shall be about to say more. Now with David we shall conclude this doctrine of the ***hypostatic union of the two natures in Christ*** with these words (1 Chron. 17): ***"Thou lookest upon me in the form of a man, who art in the highest, O Jehovah God"*** — with this most sweet paraphrase of D. Philip [Melanchthon] added:
+
+> ***"In the form which is of a man, most placid Christ,***
+> ***Thou lookest upon [us], and yet Thou art Founder Himself, God,***
+> ***And having pitied our form, Thou blottest out crimes,***
+> ***And Thou shalt give the true joys of eternal life;***
+> ***We sing gratefully these Thy gifts, and at the same time pray***
+> ***That Thou mayest teach us to shine, and rule with Thy [light]."***
+
+**We now know that Christ from ineffable and immense love toward us, from an eternal covenant, has coupled our miserable mass to Himself, and has been made our brother and our flesh** — who ***can neither despise us nor wills to.*** For natural use itself so bears, that ***every flesh loves flesh similar to itself*** (Sirach 13); and Isa. 58: ***"Thou shalt not despise thy flesh."*** We can also ***glory*** that ***our flesh sits at the right hand of God the Father Almighty in equal power and glory.*** Here is the ***little garden of the soul, here is paradise, here is our treasure.*** Here man's heart begins to live and rejoice. How great this is, we shall see, admire, and celebrate in eternal life for every eternity.
+
+#### On the Mode of the Union of the Two Natures in Christ
+
+**Rightly Chrysostom says: ***"I know that flesh was made the Word, but how it was made I know not: dost thou marvel because I am ignorant? Every creature is ignorant."***** And ***Bernard*** piously and elegantly says at Sermon 10: ***"Three works and three mixtures did that Almighty Majesty make in the assumption of our flesh — so wonderfully singular and singularly wonderful, that such things neither have been made, nor are to be made further upon the earth. For coupled to each other are God and man, mother and virgin, faith and human heart. For the Word, the soul, and the flesh came together into one Person, and these three are one, and this one is three — not in confusion of substance, but in unity of Person. And this is the first and super-excellent mixture. The second is virgin and mother. The third is faith and human heart. For as iron and clay-tile cannot be joined, so these two cannot be commingled, unless a glue is mingled — the Holy Spirit."***
+
+**That, however, the personal union may be indicated in some way, ancient tradition uses two similitudes.**
+
+**Justin, Cyril, Athanasius, and others** used the ***similitude of the coupling of soul and body in man*** — [***καθ' ὑπόστασιν, μία ὑπόστασις***]. For as soul and body are one [***ζῷον***] complete, and yet the soul is not the body, nor is the body the soul, and each nature has its own properties (the soul understands, reasons, judges, remembers; the body lies, sits, eats, sleeps — and yet of the whole man it is said: ***the man understands, the man sleeps*** — understands, I say, according to the soul, and sleeps according to the body, etc.) — so [***ὁ Λόγος***] and the assumed nature are one, and yet [***ὁ Λόγος***] is not [***ἡ φύσις***], but there is (as Athanasius and Epiphanius rightly speak) [***ἐν δύο φύσεις***], and the divinity is not passible or dead — and yet of the whole Christ we say: ***Christ suffered***, and ***Christ the man*** or ***Son of Mary is Creator of heaven and earth*** — that according to the human nature, this according to the divine nature.
+
+**Another similitude was used by ***Origen***** — who, even if he rightly denies that a similitude proper to this conjunction can be given, yet compares it to ***iron heated by fire***. As fire penetrates iron, and everywhere is mingled with it — so [***ὁ Λόγος***] assuming the human nature, ***shines whole in it***, and the human nature, as if kindled by the light, is united to [***τῷ Λόγῳ***]. This similitude in the Council of Ephesus was repeated against Nestorius, ***concerning the life-giving efficacy of the human nature in Christ***. As iron by its own nature neither shines nor burns, but when it has been heated it obtains the idiomata of shining and burning — so the flesh or the human nature per se and in the abstract considered has not the power of vivifying, but united [***τῷ Λόγῳ***] is made ***life-giving***, and obtains divine glory, and receives every majesty and power from Him who assumed it.
+
+#### On the Causes Why It was Fitting the Mediator to be God and Man
+
+**Let first the definition of the ***Mediator*** or ***Redeemer*** be held. The Mediator is the ***Person between God angered at sin, and the human race guilty of sin — satisfying the justice of God, and sustaining and vanquishing the wrath against sin, deprecating for guilty men, and applying His merits to believers.*** It was fitting therefore that in the Mediator there be ***two natures personally united*** — the ***divine*** of the Father's substance, from eternity begotten; and the ***human*** of Mary's substance, assumed.
+
+**The Mediator to be ***man*** was fitting on account of three causes:**
+
+**1.** By ***reason of the order of divine justice.*** ***Man*** sinned. Therefore let ***man*** satisfy the justice of God, and pay a price equivalent, or expiate the punishments. For the justice of God required that either ***the whole human race perish on account of sin***, or that ***from the human race someone expiate sin.*** For ***"the soul that sinned, shall die"*** (Ezek. 18). And it was necessary that this Mediator man be ***one*** and be ***innocent***, whose punishment would avail for others. For as one man was ***author of death and damnation***, so it was fitting that one man be made ***author of salvation*** — as we say of Christ: ***"One man dying restored the matter for us."*** And ***Athanasius*** in his book on the incarnation of the Word piously says: ***"Since from men against men death had gathered its strength, therefore again through the nature of man assumed by the Word of God, the dissolution of death and the resurrection of life was made — the Apostle saying: 'Since indeed through a man death, so through a man the resurrection of life. And as in Adam all die, so in Christ shall all be quickened.'"***
+
+**2.** It is fitting that the Mediator be man, by ***reason of the divine decree concerning the redemption of the human race*** — which decree was promulgated immediately after the Fall — that the ***Son should assume the mass of the human race***, and ***carry the whole human race*** as a shepherd carries the sheep hanging from his shoulders.
+
+**3.** By ***reason of the conservation of the human race.*** For as the body not sustained by the soul must necessarily be dissolved — so the whole human race would have been extinguished, unless the ***Son of God co-eternal with the eternal Father had assumed the mass of this nature.*** We are therefore preserved on account of the assumed mass, as ***members of Him*** — as Eph. 5 it is written: ***"We are members of His body, of His flesh, and of His bones."*** And Augustine says: ***"We have the prerogative of our blood in Christ. Where a portion of me reigns, there I believe myself to reign."*** And in the most sweet verses of D. Philip [Melanchthon] we piously say — which sometimes I rendered thus in Greek:
+
+> [***"οὐδέν εἰμι, δούλη μιαρωτάτη, μᾶσσα ὀλέθρου"***]
+
+> ***"Nothing I am, most vile handmaid, mass of ruin —***
+> ***human, except this one thing: that Thou also, Christ, bearest [it]."***
+
+**Item:**
+
+> ***"For why dost Thou dying bear so many wounds of Thine,***
+> ***if I be not a small portion of Thy reign?"***
+
+#### The Ten Causes Why the Mediator Must Be God
+
+**Then it is fitting that the Mediator be ***eternal and omnipotent God*** — on account of many causes, of which the chief are these:**
+
+**1. By the work and office of the Mediator was to be manifested the ***arcane will and wisdom of God concerning the redemption of the human race.*** But no one knows the Father except the Son, and he to whom the Son shall have willed to reveal [Him] (Luke 10). The Son of God therefore is ***true and one Mediator***, [***αὐτόπτης καὶ αὐτεπίσκοπος τοῦ Πατρός***], who from the bosom of the eternal Father brought forth and narrated to us the counsel and decree of God. For God is the author from God, and without God no one can acknowledge God. The Son who is in the ***bosom of the Father*** — that is, penetrates the innermost of the Father and perfectly looks into the Father — is the ***heart and wisdom of the Father***, and has narrated from the beginning the counsel concerning our salvation.
+
+**2. For an ***infinite evil*** or ***infinite offence*** (to use the word of Bonaventura) — that is, for sin — a ***price equivalent*** and of infinite efficacy no creature could pay, except God Himself.** Therefore that ***sufficient*** [***λύτρον***] might be paid for the sins of men, it was fitting that the Redeemer be both man and true God.
+
+**3. To ***sustain and vanquish the wrath of God***, which is a consuming fire, and the ***malediction of the Law***, no creature can. Therefore it is fitting that the Mediator be God.
+
+**4. To ***destroy death and the whole reign of the devil***, and to ***crush the head of the serpent***, is not of the strength or power of any creature. The Angels indeed defend us against the devils, repress and impede their attempts, and most often confound the evil spirits. But only the ***Son of God destroys the reign of the devil.***
+
+**5. To render such obedience which may be the ***merit*** on account of which to us ***the true knowledge of God, the Holy Spirit, life, and eternal joy*** are given — no creature can. Such [***ἀντάξιον***] and ***succedaneous*** price is the obedience of the Son of God alone.
+
+**6. To restore ***life, righteousness, and eternal salvation*** is not the work of any creature, and yet is the office of the Mediator.
+
+**7. To be [***καρδιογνώστης***], to see the groans of hearts, to distinguish hypocrisy from true faith, and to hear those invoking, is the office of the Mediator — and yet by no creature can it be performed.
+
+**8. To be everywhere present with the Church, to protect and defend it against enemies, and to rescue the pious out of every trouble — no creature can.
+
+**9. To ***give and inspire the Holy Spirit*** into the hearts of all believers is the office of the Mediator — because the Mediator ought to restore righteousness and life in us, which without the donation of the Holy Spirit we cannot have efficacious.
+
+**10. Immediately to accede to God, and to be the ***supreme priest***, to enter into the Holy of Holies, and to see the breast and arcane counsel of God, and to be our deprecator, is the work of the divine nature, and of no creature.
+
+**And these are the causes on account of which it is fitting that the Mediator be God.** And since all these things and each single one has performed one alone and only ***the Son of God*** — that is, He has revealed to us the arcane will of God, has paid the equivalent price, has sustained and vanquished the wrath of God, has destroyed the universal reign of the devil, has by His merit obtained for us the heavenly goods, has restored eternal life, is [***καρδιογνώστης***], and is everywhere present with His Church, and gives us the Holy Spirit, and immediately intercedes for us with the Father, etc. — ***irrefragably*** it follows that He is not only man but also ***true, eternal, omnipotent God***, who is in the bosom of the Father, the wisdom and heart of the Father.
+
+#### The Three Causes Why the Mediator Must Be at Once God and Man
+
+**Now this also must be considered — why it was fitting that the Mediator, according to this reasoning which has now been shown concerning each nature, divine and human, be at once God and man. The causes are ***three***:**
+
+**1.** The ***condition of the Mediator***.
+**2.** The ***reason of the image of God***.
+**3.** ***Human fragility.***
+
+**The ***condition of the Mediator*** is that the ***dissenting parties be joined.*** The dissenting parties were ***God and man.*** Therefore it is fitting that the Mediator of God and men be ***God and man.*** Hence ***Irenaeus*** says: ***"On account of His nearness to each, the Mediator of God and men led both back into friendship and concord, and made God to receive man, and man to be restored to God."*** And ***Theodoret*** piously says: [***"The very name of Mediator shows the divine and human nature. For as He coheres to the Father having the same essence (power), and as He is man to us — since from us He received the form of a servant — deservedly the Mediator is named, who joins in Himself the dissenting parties, namely by the union of natures, divine and human."***] Item: [***"For the Mediator gathers both extremes as it were into one, and reconciles both to each other, on account of the union of natures."***]
+
+The same say ***Augustine, Chrysostom***, and all the orthodox: ***"Therefore Mediator because God and man."*** And Chrysostom's words are often cited: ***"The Mediator could not be only man,*** [***πρὸς γὰρ τὸν Θεὸν ἔδει μεσίτην τὸν ὁμιλεῖν***] — that is, ***because it was needful to a Mediator with God to speak with God.*** In God man was, and God in the man — that ***from both*** He might be Mediator, and reconcile both."*** And Augustine's words at ***De Civitate Dei*** book 10 chapter 29 are these: ***"The grace of God could not have been more gracefully commended, than that the only Son of God Himself, remaining in Himself unchangeable, should put on the man, and give the spirit of His love to men — Himself the man being the medium."***
+
+**The ***reason of the image of God*** was this.** ***Man was founded to the image of God.*** But this image extinct and corrupted, no one could more rightly restore to the whole than the ***eternal and essential image of God the Father.*** But that this be rightly done, it was fitting that He be both God and man — that is, of the Father from eternity, and then image of God, such as man is. And on this cause He, as ***eternal Son of God***, willed to be born also ***Son of man*** from the Virgin Mary.
+
+**Human fragility requires a Mediator of whose faculty and will one may not doubt, and to whom one may dare to accede in one's anguishes.** For if the Mediator were only man, we should doubt of His faculty and power — whether He could hear and help us. If He were only God, we should doubt of His will — whether He would certainly wish to hear us wretched men. The Mediator therefore is ***omnipotent God***, and man ***our brother***, who both can and wills to hear, aid, and deliver us — ***God and man***, whom in each nature — divine and human, or ***assuming*** and ***assumed*** — as [***omnipotent***] on account of the ***hypostatic union*** and ***communication of divine idiomata*** (truly, as it were, human — of the assumed and glorified or exalted nature) — we ***worship, adore, invoke, preach, and celebrate.***
+
+#### Whence the Doctrine of the Communication of Idiomata Arose — Arius and the Council of Nicaea
+
+**It has been said hitherto that in Christ two natures — ***divine*** and ***human*** — are ***inseparably united in one Person***, without confusion of natures and properties.** This doctrine the devil has impugned in all times — chiefly through Arius, Nestorius, and Eutyches. Of Ebion, Cerinthus, Artemon, and Samosatenus we shall not now say — since ***Arius*** renewed the heresy of all these in the year of Christ 322.
+
+**He was first a Deacon of the Alexandrian Church**, and defended the heresy of Meletius denying that lapsed [Christians] were to be received into manifest crimes: therefore Arius was expelled from the Church by Bishop Peter, whom, having been consumed at Alexandria by glorious death for the name of Christ, ***Achilles*** succeeded. He received Arius, and set him over the theological school. But when Achilles was dead, Arius aspiring to the Bishopric, and taking it hard that ***Alexander*** was chosen, from desire of vengeance impugned the doctrine of Alexander concerning the ***Son of God co-eternal and consubstantial with the eternal Father***, asserting that ***the Son is not truly and by nature God***, nor is co-eternal with the Father, but had a beginning, and was founded from nothing.
+
+**And he used these formulas of speaking**: [***ἦν ὅτε οὐκ ἦν***] — ***"there was when He was not."*** And again explaining himself: [***καὶ πρὶν γενηθῆναι, οὐκ ἦν***] — ***"and before He was begotten, He was not."*** ***"Was Father when there was not yet Son."*** Item he said that He was [***ἐξ οὐκ ὄντων***], ***"from things not existing"*** — that is, ***from nothing founded, the highest creature.*** In this his sentence Arius drew many Bishops and others, and there arose public and great discord.
+
+**Constantine the Great**, who had already restored peace to Christians, wished lovingly to compose that controversy, and he himself wrote letters to Alexander the Bishop, and to Arius the presbyter, admonishing both to salutary and pious [***ὁμοφροσύνην***], showing what scandals to the Gentiles they should give if they were not concordant. But Arius persevering in his blasphemy, Constantine sent ***Hosius Bishop of Cordoba*** to each, that he might compose the case and dissension. But the fire increasing, he instituted a ***Council at Nicaea*** in Bithynia. There came also presbyters, and legates of Bishops who on account of old age and diseases could not themselves come. There were present also Monks and Deacons, among whom ***Athanasius*** — still constituted in the class of Deacons — was eminent. Laymen also learned and pious came. And the ***Emperor himself*** came to Nicaea, and to the holy Fathers, sitting in the middle on a lesser seat than theirs, made of gold material, having given thanks to God for that assembly of friends and fellow-servants of his (for so he himself had spoken), commanded them to inquire what Arius said, and to judge whether he wandered from the true sentence.
+
+**The first sentence** was given by ***Eustachius Bishop of Antioch.*** And the rest of the Bishops, when they heard the dogma of Arius read — that Christ was not God, but founded and made by God, diverse from the paternal nature (which blasphemy they write he had drawn from some books and papers of Origen not yet published and covered with silence) — with just and pious indignation ***rose from their seats***, and ***tore up the schedules of Arius***, and decreed that Arius with his sectaries was to be cast out from the assembly of the orthodox by public heralding. And of the Son of God they decreed by unanimous consent — a few excepted — that He is:
+
+- [***ὁμοούσιος***] — of the same essence
+- [***ὁμοδύναμος***] — of the same power/dignity
+- [***συναΐδιος***] — of the same eternity
+
+**with the Father.**
+
+There was written also the ***Nicene Symbol*** up to these words: ***"Whose reign shall have no end."*** For here the Symbol ceased, and what follows concerning the Holy Spirit was afterwards first added in the ***Council of Constantinople*** against ***Macedonius Bishop of Constantinople***, who had named the Holy Spirit ***a creature***, as it is written.
+
+The Emperor Constantine approved and confirmed the sentence of the Bishops, with an edict added — that all be damned by that [edict] who contradicted the orthodox Fathers. Constantine himself also subscribed, and called himself ***fellow-minister of the Bishops.*** Arius, however, [***αἱρετικόν, χριστομάχον, θεομάχον, πονηρόν, ἐχθρὸν τοῦ Θεοῦ***] he named. The Arian Bishops also — ***eleven*** — from fear of the Emperor, without delay subscribed, dissembling that they embraced the Nicene Symbol. But ***six*** with Arius underwent the punishment of exile.¹⁰⁷ᵉᵇ
+
 #### On the Communication of Properties — De Communicatione Idiomatum
 
 **Since Christ is ***one Person in two natures***, and the two natures are so ***inseparably united*** in the one Person that they cannot be torn apart, there arises the doctrine of the ***communication of properties*** (*communicatio idiomatum*) — which is ***a mode of speaking, and of the reality itself, in Christ***, by which the properties of one nature are attributed to the whole Person, or to the other nature, on account of the union of the two natures in one Person.**
