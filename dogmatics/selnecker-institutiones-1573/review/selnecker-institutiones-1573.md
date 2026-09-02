@@ -155,28 +155,28 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
 
-*Page numbers refer to the printed PDF (~363 pp).*
+*Page numbers refer to the printed PDF (~384 pp).*
 
 **Front Matter**
 
 | | |
 |:---|---:|
-| Translator's Note | 8 |
+| The Title Page as Printed (1579 imprint) | 8 |
+| Translator's Note | 10 |
 | Nikolaus Selnecker — Biographical Sketch | 17 |
-| The Title Page as Printed (1579 imprint) | 20 |
 | Dedication to the Consuls and Senators of the Republic of Leipzig | 22 |
 
 **Praemonitio de Nonnullis Controversis Articulis** — *Explanation and Admonition concerning Certain Controverted Articles*
 
 | | |
 |:---|---:|
-| §1. On Original Sin — Whether it is Substance or Accident | 24 |
-| §2. On the Term "Accident" and the Mature Post-*Formula* Formulation | 27 |
+| §1. On Original Sin — Whether it is Substance or Accident | 27 |
+| §2. On the Term "Accident" and the Mature Post-*Formula* Formulation | 28 |
 | §3. On Free Will and the Beginning of Conversion | 30 |
 | §4. On Essential Righteousness | 32 |
 | §5. On Good Works | 34 |
 | §6. On the Definition of the Gospel and On the Use of the Law | 36 |
-| §7. On the Lord's Supper and the Person of Christ | 39 |
+| §7. On the Lord's Supper and the Person of Christ | 38 |
 | §8. On the Descent of Christ to Hell | 40 |
 | §9. On Adiaphora | 41 |
 | §10. On Predestination | 41 |
@@ -190,7 +190,7 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 | | |
 |:---|---:|
 | Ch. 1. On the Authority of the Divine Word (Efficient, Material, Formal, Final Causes + Three Practical Applications) | 48 |
-| Ch. 2. On the Seven Causes Which Ought to Impel Us to the Study of the Divine Word | 52 |
+| Ch. 2. On the Seven Causes Which Ought to Impel Us to the Study of the Divine Word | 54 |
 | Ch. 3. On the Scope of the Whole Scripture | 60 |
 | Ch. 4. On the Method of Learning the Doctrine of the Church (Nine Rules of Jacob's Ladder + Four Immoveable Principles) | 61 |
 | Ch. 5. On the Method to be Observed in the Explication of the Heavenly Doctrine (Four Methods) | 66 |
@@ -203,54 +203,55 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 | Ch. 1. That There is a God — *Quod sit Deus* | 77 |
 | Ch. 2. Whence it is Certainly Established that there is a God | 77 |
 | Ch. 3. The Definition of God — *De Definitione Dei* | 83 |
-| Ch. 4. On the Distinction of the Persons — *De Distinctione Personarum* | 85 |
-| Ch. 5. On God the Father — *De Deo Patre* | 87 |
-| Ch. 6. On God the Son — *De Deo Filio* (Name Iesus + Munus triplex + Eight Arguments de Divinitate + De Unione + Communicatio Idiomatum + Two States + Eight Saving Benefits) | 89 |
-| Ch. 7. On God the Holy Spirit — *De Spiritu Sancto* | 178 |
+| Ch. 3 (cont.). Who and What Sort is God — *Quis et Qualis sit Deus* (5 Divine Names Elohim/Jehovah/Adonai/Zebaoth/Shaddai + Divine Attributes + 4 Modes of Presence + 8 Hypotheses on God's Will) | 84 |
+| Ch. 4. On the Distinction of the Persons — *De Distinctione Personarum* | 93 |
+| Ch. 5. On God the Father — *De Deo Patre* | 95 |
+| Ch. 6. On God the Son — *De Deo Filio* (Name Iesus + Munus triplex + Eight Arguments de Divinitate + De Unione + Communicatio Idiomatum + Two States + Eight Saving Benefits) | 97 |
+| Ch. 7. On God the Holy Spirit — *De Spiritu Sancto* (Eight Significations of Ruach + Vivification + Omnipresence + Filioque + Modes of Presence) | 186 |
 
 | | |
 |:---|---:|
-| **Locus III. De Creatione — On Creation** | **196** |
-| **Locus IV. De Angelis — On the Angels** (Good Angels — Six Offices + Guardian-Angel Histories; Evil Angels — Fall + Devil's Attacks + Sylvester II Legend) | **207** |
-| **Locus V. De Hominibus — On Man** (Fourfold Consideration of the Image of God + Four States of Man + Original Righteousness Debate) | **227** |
+| **Locus III. De Creatione — On Creation** | **211** |
+| **Locus IV. De Angelis — On the Angels** (Good Angels — Six Offices + Guardian-Angel Histories; Evil Angels — Fall + Devil's Attacks + Sylvester II Legend) | **224** |
+| **Locus V. De Hominibus — On Man** (Fourfold Consideration of the Image of God + Four States of Man + Original Righteousness Debate) | **242** |
 
-**Locus VI. De Peccato — On Sin** ······················ **241**
-
-| | |
-|:---|---:|
-| §1. What is Sin? | 241 |
-| §2. Is Sin a Thing Created and Ordained by God? | 241 |
-| §3. What are the Causes of Sin? (Five Objections with full responses) | 241 |
-| §4. How many kinds of sin are there? (Original + Actual) | 256 |
-| §5. Effects and Punishments of Sin (Nine Effects + Decalogue Catalogue) | 258 |
-| §6. The Fomes Peccati Debate against Trent Session V | 261 |
-| §7. Actual Sin + Sin against the Holy Spirit | 268 |
-
-**Locus VII. De Lege Dei — On the Law of God** ······················ **270**
+**Locus VI. De Peccato — On Sin** ······················ **256**
 
 | | |
 |:---|---:|
-| §1. Two Kinds of Men Considering the Law | 270 |
-| §2. Luke 18 — The Pharisee in the Temple | 270 |
-| §3. What is the Law of God? (Five-part Definition) | 271 |
-| §4. Whether Anyone Can Satisfy the Law? (Five Demonstrations) | 273 |
-| §5. In What Respect the Law is Abrogated | 275 |
-| §6. Of the Triple Use of the Law | 276 |
-| §7. Distinction between Pharisaic and Christian Righteousness | 277 |
+| §1. What is Sin? | 256 |
+| §2. Is Sin a Thing Created and Ordained by God? | 256 |
+| §3. What are the Causes of Sin? (Five Objections with full responses) | 256 |
+| §4. How many kinds of sin are there? (Original + Actual) | 271 |
+| §5. Effects and Punishments of Sin (Nine Effects + Decalogue Catalogue) | 273 |
+| §6. The Fomes Peccati Debate against Trent Session V | 276 |
+| §7. Actual Sin + Sin against the Holy Spirit | 283 |
 
-**Locus VIII. De Calamitatibus et Cruce — On Calamities and the Cross** ······················ **279**
+**Locus VII. De Lege Dei — On the Law of God** ······················ **285**
 
 | | |
 |:---|---:|
-| §1. What the term *Cross* signifies among Christians | 279 |
-| §2. What the Cross of Christians is | 281 |
-| §3. How Manifold is the Cross of the Pious (Kolasis + Peirasmos + Martyrion) | 281 |
-| §4. Whence the Cross of the Pious Arises (Fourfold Origo) | 282 |
-| §5. The Fourfold Distinction between Piorum Cross and Impiorum Calamities | 283 |
-| §6. The Six Causes Why God Subjects His Own to the Cross | 283 |
-| §7. The Chief Consolation — Four Philosophical vs Four Evangelical Heads | 285 |
+| §1. Two Kinds of Men Considering the Law | 285 |
+| §2. Luke 18 — The Pharisee in the Temple | 286 |
+| §3. What is the Law of God? (Five-part Definition) | 286 |
+| §4. Whether Anyone Can Satisfy the Law? (Five Demonstrations) | 288 |
+| §5. In What Respect the Law is Abrogated | 290 |
+| §6. Of the Triple Use of the Law | 291 |
+| §7. Distinction between Pharisaic and Christian Righteousness | 292 |
 
-**Locus IX. De Consolatione — On Consolation** ······················ **291**
+**Locus VIII. De Calamitatibus et Cruce — On Calamities and the Cross** ······················ **294**
+
+| | |
+|:---|---:|
+| §1. What the term *Cross* signifies among Christians | 294 |
+| §2. What the Cross of Christians is | 296 |
+| §3. How Manifold is the Cross of the Pious (Kolasis + Peirasmos + Martyrion) | 296 |
+| §4. Whence the Cross of the Pious Arises (Fourfold Origo) | 297 |
+| §5. The Fourfold Distinction between Piorum Cross and Impiorum Calamities | 298 |
+| §6. The Six Causes Why God Subjects His Own to the Cross | 298 |
+| §7. The Chief Consolation — Four Philosophical vs Four Evangelical Heads | 300 |
+
+**Locus IX. De Consolatione — On Consolation** ······················ **306**
 
 *(Divine-Mercy Promises + Biblical Exempla of God's Forgiveness + Gracious Promises through the Prophets + Faith-Required Passages)*
 
@@ -258,12 +259,13 @@ The translation is prepared in the *Scholastic Lutherans* team's standard workfl
 
 | | |
 |:---|---:|
-| FINIS PRIMAE PARTIS | 294 |
-| Elenchus Locorum Sacrae Scripturae (Alphabetical Scripture Index) | 294 |
-| Index Rerum et Nominum (Alphabetical Subject Index) | 296 |
-| Colophon (Jena · Jakob Roßner · 1579) | 297 |
-| **Endnotes** (~240 endnotes with Wittenberg-Reformation editorial apparatus: WA/LW · CR/MSA · BSLK/Kolb-Wengert · PL/PG/CCSL/SC · Formula of Concord cross-references) | **301** |
-| Glossary of Terms Reference | 362 |
+| FINIS PRIMAE PARTIS | 309 |
+| Elenchus Locorum Sacrae Scripturae (Alphabetical Scripture Index) | 309 |
+| **Patrum Sententiae** — Alphabetical Index of Church-Fathers Cited (33 Fathers, Ambrose → Vigilius) | **313** |
+| Index Rerum et Nominum (Alphabetical Subject Index) | 316 |
+| Colophon (Jena · Jakob Roßner · 1579) | 318 |
+| **Endnotes** (~240 endnotes with Wittenberg-Reformation editorial apparatus: WA/LW · CR/MSA · BSLK/Kolb-Wengert · PL/PG/CCSL/SC · Formula of Concord cross-references) | **322** |
+| Glossary of Terms Reference | 383 |
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
