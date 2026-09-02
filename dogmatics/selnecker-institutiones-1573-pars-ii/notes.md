@@ -48,7 +48,8 @@ The 1579 Pars II imprint proceeds directly from the title page (p 6) — via the
 - **T0** (2026-09-02): Source acquired + directory created + OCR extracted + structural survey.
 - **T1** (this commit): Translator's Note + Biographical Sketch (reused from Pars I) + Title-page-as-printed + note on absence of dedication + paginated TOC skeleton + opening of *De Evangelio* proem + opening of *Locus I De Iustificatione* (through the three uses of *iustitia*).
 - **T2**: Remainder of *De Evangelio* proem (Gospel definition + 4-fold cause-analysis + Two-Testaments distinction).
-- **T3**: *Locus I De Iustificatione* — full body (OCR 1131-6654, ~5,520 lines).
+- **T3a** (2026-09-02 ✅): *Locus I De Iustificatione* §§3-15 (OCR 1180-3287, ~2,100 lines): Bernard's Four-Sisters meditation on Ps 85 + sixfold denial + Quid sit Imputatio with Anselm's *Domine mortem obiecio* + How-just-by-imputation-when-not-*res positiva* + Whether-God-unjust-reputing-just + Whether-just-by-imputation-or-*inchoatio* + anti-Osiander *iustitia essentialis* + *Sedes doctrinae* with Romans 4 ten-arguments + Rom 9 Rachel/Leah/Jacob/Esau + Pharaoh-hardening philology + Luther's Swan-Song prophecy + 16 Galatians arguments + Faith definition + Faith causes + Synergon controversy + Melanchthon+Spalatinus verse-mnemonics.
+- **T3b**: *Locus I De Iustificatione* §§16-end (OCR 3287-6654, ~3,370 lines): Sola-Fide 4 reasons + patristic testimonies (Basil/Nazianzus/Photius/Origen/Ambrose/Athanasius/Hilary + Victor Poeta) + anti-Trent Sess VI fulmina + anti-Osiander full + De Secundo/Tertio vocabulis + Rom 5 new obedience + Cur pia opera necessaria + Consolationes + closing Christ-hymn against heretics.
 - **T4**: *Locus II De Poenitentia* + sub-loci (De Regno Christi, De Bonis Operibus, De Libero Arbitrio).
 - **T5**: *Locus III De Libertate Christiana* + De Praedestinatione appendix.
 - **T6**: *Locus IV De Ecclesia* + De Oratione appendix.
