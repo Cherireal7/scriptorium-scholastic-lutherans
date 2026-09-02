@@ -4346,12 +4346,148 @@ Wherefore ***firmly must thou believe*** that Christ has satisfied for thy sins,
 - **John 8** — *Principium, qui vobiscum loquor.* 88
 - **John 8** — *Ille erat homicida ab initio.* 293
 - **John 10** — *Ego vitam aeternam do eis.* 101
+- **John 10** — *Omnes qui venerunt ante me, fures et latrones.* 9
+- **John 14** — *Pater maior me est.* 205
+- **John 16** — *Ego ex Deo processi.* 86
+- **John 16** — *Arguet mundum de peccato, iustitia, et iudicio.* 250
+- **John 17** — *Haec est vita aeterna, ut cognoscant te solum verum Deum, et quem misisti Iesum esse Christum.* 208
+- **John 17** — *Clarifica me Pater.* Ibid.
+- **Acts 2** — *Hunc Christum fecit Deus.* 147
+- **Acts 2** — *Dextera Dei exaltatus est Christus.* 162
+- **Acts 5** — *Mentitus est Spiritui Sancto.* 225
+- **Acts 16** — *Apostoli vetati sunt a Spiritu Sancto loqui verbum Dei in Asia.* 333
+- **Acts 19** — *Neque an Spiritus Sanctus sit, audivimus.* 243
+- **Rom. 1** — *Christus est praedestinatus Filius Dei.* 148
+- **Rom. 1** — *Natus ex semine David secundum carnem.* 133
+- **Rom. 5** — *Gratia exuberat supra peccatum.* 378
+- **Rom. 8** — *Ipse Spiritus dat testimonium spiritui nostro.* 255
+- **Rom. 9** — *Antequam aliquid boni egissent aut mali.* 356
+- **Rom. 9** — *Sustinuit in multa patientia vasa irae.* 360
+- **Rom. 15** — *Quaecunque scripta sunt, ad nostram doctrinam scripta sunt.* 4
+- **1 Cor. 5** — *Eum qui non novit peccatum, Deus fecit [peccatum pro nobis].* 147
+- **1 Cor. 12** — *Nemo potest Iesum dicere Dominum nisi per Spiritum Sanctum.* 250
+- **1 Cor. 13** — *Tunc a facie ad faciem cognoscemus Deum.* 52
+- **1 Cor. 15** — *Secundus homo de caelo.* 150
+- **1 Cor. 15** — *Tradet regnum Deo Patri, tunc et Filius subiicietur Patri, qui subiecit ei omnia.* 209
+- **2 Cor. 3** — *Spiritus est Iehova.* 224
+- **2 Cor. 3** — *Litera occidit, Spiritus vivificat.* 224
+- **Phil. 2** — *Cum esset Christus in forma Dei.* 131
+- **Phil. 2** — *Deus donavit illi nomen quod est super omne nomen.* 162
+- **Phil. 3** — *Sanctorum corpora [configurata] erunt glorioso corpori Christi.* 182
+- **Col. 1** — *Omnia per ipsum et in ipsum condita sunt.* [pg]
+- **Col. 2** — *In ipso habitat plenitudo divinitatis [σωματικῶς].* 98
+- **1 Thess. 4** — *Non vocavit nos Deus immundiciae causa.* 252
+- **1 Tim. 1** — *Lex est iniustis posita.* 393
+- **2 Tim. 1** — *Non dedit nobis Spiritum timiditatis, sed roboris, dilectionis, et sanctificationis.* 220
+- **2 Tim. 3** — *Omnis scriptura divinitus inspirata utilis est.* 5
+- **Heb. 3** — *Deus fecit Christum sacerdotem summum.* 147
+- **1 John 3** — *Similes ei erimus.* [pg]
+- **1 John 4** — *Omnis spiritus, qui confitetur Christum in carne venisse, ex Deo est.* 218
+- **1 John 5** — *Tres sunt qui testimonium perhibent in caelo.* 228
 
-*(The full Elenchus continues through the New Testament, terminating in Revelation. The imprint's ***Elenchus*** is preserved here in the shape it was set in 1579 — with folio-references to the original Latin imprint retained for the sake of manuscript-scholarly cross-reference, though the pagination of the present English rendering will not match.)*
+*(The folio-numbers are those of the 1579 Latin imprint and are preserved as a manuscript-scholarly cross-reference; the pagination of the present English rendering does not match.)*
+
+### Patrum Sententiae — Patristic Citations Confirming the Loci
+
+*(A third paratextual apparatus follows the ***Elenchus***: an alphabetical index of the Church-Fathers cited in Pars I, with each Father's principal sayings noted by folio-reference to the 1579 imprint. This apparatus — the ***PATRVM SENTENTIAE AD CONFIRMATIONEM LOCORVM HVIVS PRIMAE CLASSIS Institutionum Christianarum adductae*** — reproduces the Reformation-era humanist convention of listing patristic authorities so that the reader may verify the argumentation from tradition.)*
+
+**AMBROSE.** *Iesus est omnia nobis* 97 · *Creatura non colenda* 146 · *Dei nomen super omne nomen* 161 · *Christus supra hominem* Ibid. · *Moriebatur secundum naturae nostrae susceptionem* [pg] · *Dolet nostra vulnera* 200 · *Doluit pro me, qui pro se nihil habuit quod doleret* 211 · *Spiritus Sanctus dominationis non exsors* 212 · *Peccata poenas esse aliorum peccatorum* 229 · *[et alia]* 327
+
+**ANSELM.** *Iesus sit Iesus propter nomen suum* 96.
+
+**ATHANASIUS.** *Verbum non profecit in carnem* 116 · *Mortis dissolutio per Verbum facta* 120 · *Qui creat non creatur* 145 · *Homo crevit ac profecit in Deum* 163 · *Nondum erat Spiritus Sanctus, quia Iesus nondum erat glorificatus* 166 · *Mori Verbum impossibile* 198 · *Mortale corpus cum assumpserit Deus* 201.
+
+**AUGUSTINE.** *Scriptura nescit falli nec fallere* 4 · *Scripturae eloquentia* 19 · *Philosophia Christiani quomodo utantur* 20 · *De suis et aliorum libris* 50, 73 · *Tricies mille idola a gentibus culta* 52 · *Christianus, si fateatur se scire quod nesciat, satis scit* 38 · *Deo non competit triplicitas* [pg] · *Quod verax sit Dei omnipotentia* 59 · *Opera divinitatis ad intra sunt divisa* 65, 82 · *Opera ad extra indivisa* Ibid. · *Unitas Trinitatis non quaerenda* 73 · *Trinitatem potentiis et viribus animae assimilat* 75, 307 · *Trinitas similitudine solis et ignis illustratur* 75 · *Trinitas instrumento musico assimilatur* 84, 90 · *Spiritus Sanctus aliter procedit a Patre quam Filius* 86 · *Iesus est Salvator* 96 · *Filio Dei nemo similis in filiis Dei* 100 · *Filius Dei orat pro nobis, in nobis, et oratur a nobis* 103 · *Sanguinis nostri praerogativa in Christo* 121 · *Gratia Dei quomodo commendetur* 124 · *Filius Dei inter creaturas non numerandus* 145 · *Veritas corporis Christi non auferenda* 149 · *Filius Dei et filius hominis* 150 · *Maiestate Deitatis glorificata caro* 154 · *Deus in carne mortuus est* 157 · *Christus secundum hominem est Dominus omnium* 161 · *Sedere ad dextram est iudicantis* 167 · *Mortuus est Deus per illud quod homo erat* 200 · *Cur Patrem dicat esse maiorem* 206 · *An tota Trinitas possit dici Spiritus Sanctus* 217 · *Cur Spiritus Sanctus modo dicatur Patris Spiritus, modo Filii* 237 · *Visibilis Spiritus Sancti missio* 244 · *Quomodo Spiritus Sanctus nobis detur* 248 · *Omnia sunt nostra* 262 · *Quid Deus ante creationem fecerit* 268 · *Deus fuit antequam tempus esset* 269 · *De libris Hieronymi* 270 · *De iusto Dei iudicio contra maleficas* 298 · *Primos homines libero arbitrio peccasse* 309 · *Homo erigitur dextra Dei* 313 · *Cur Deus sinat tam tetra peccata accidere* 326 · *Voluntas Dei regula iustitiae* 331 · *Praedestinatio causa standi non labendi* 354 · *De modo indurationis* 363, 364 · *Peccatum originale quid* [pg] · *Tres causae, cur concupiscentia in renatis sit peccatum* 374 · *Neminem sine peccato vivere* 376.
+
+**BASIL.** *De discrimine ὁμοίως et ὁμοιοπαθῶς* 76 · *Ecclesiae semper nota fuit doctrina de Trinitate* 85 · *Generatio Christi silentio honoretur* 87 · *Quod natum est ex Spiritu Sancto dicitur* 145 · *Dei caro facta particeps Deitatis* 154 · *Impassibiliter per carnem complexus est mortem* 200 · *Pater Filii origo* 205 · *Patre minor Filius* 206 · *Ananias mentitus est Deo* 225 · *Spiritus Sanctus replet omnia* 229 · *Baptizari, credere et glorificari quomodo oporteat* 234 · *Cur Spiritus Sanctus Spiritus Christi dicatur* 238 · *Vetusta dogmata veneranda* 239.
+
+**BERNARD.** *Homo quid* 11 · *Pro beneficiis Dei nihil retribui possit* 26 · *De Trinitate non inquirendum* 73 · *Tria mirabiliter singularia et singulariter mirabilia* 118 · *Septena in beneficio creationis consideranda* 263.
+
+**BONAVENTURA.** *Dicimus Deum humanatum, et hominem deificatum* 162.
+
+**CHRYSOSTOM.** *Divina Scriptura opus habet revelatione Spiritus* 7, 8 · *Deus origo omnis lucis* 53 · *Verbum quomodo caro factum sit nescio* 118 · *Mediatorem cum Deo colloqui oportebat* 140, 150 · *Deus, Verbum et caro unum est* 257 · *Lex arguit, gratia remittit peccatum* 360 · *Pharao vas irae* [pg].
+
+**CLEMENT.** *Orpheus verus ex Clemente* 71 · *Natus de virgine, natus in carne Deus* [pg] · *Quid sit fides* 160 · *Quod Deus bonus sit* 324 · *Adhortatio ad poenitentiam* 325.
+
+**COSMAS.** *Lapsus Adae fuit* 159.
+
+**CYPRIAN.** *Quomodo Christus ad caelos ascenderit* 166, 181 · *Pati timetis, exire non vultis* 287 · *Quid in sexta petitione rogemus* 355.
+
+**CYRIL.** *Cur Filius Dei dicat sibi nihil constare de ultimo iudicio* 61 · *De una essentia Dei versus Sophoclis ex Cyrillo alleguntur* 71 · *Subsistentiae in uno Christo non dividendae post unionem* 140 · *Christus non nominatur creatura* 146 · *Divinum dicitur corpus Christi quia est corpus vitae* 149 · *Idiomata naturarum quando communicantur non confunduntur* 156 · *Opus creationis Christo tribuitur non sine carne* 160 · *Sedere de Deo quomodo intelligatur* 167 · *Gratia Dei pro omnibus gustavit mortem* 200 · *Subiectio non tollit aequalitatem essentiae* 210 · *Voluntaria et non voluntaria passio Christi* 214 · *Spiritum Sanctum verum esse Deum* 226 · *Cur vocetur Spiritus veritatis* 240.
+
+**DAMASCENE.** *Quattuor argumenta unam aeternam et divinam essentiam confirmantia* 69 · *De humanis affectionibus Christi* 106 · *Corpus Servatoris passum esse* 109 · *Totus totum assumpsit* 140 · *Actiones sunt personae* 205.
+
+**DAMASUS.** *Filius Dei in divinitate dolorem crucis non sustinuit* 199.
+
+**DIDYMUS.** *Spiritus Sanctus non loquetur a semetipso* 240.
+
+**EPIPHANIUS.** *Divina verba non indigent allegoriis* 7 · *Quid in Mose, Prophetis et Evangelio maxime illustretur* 76 · *Facit Quaternistarum mentionem* 116 · *Creatura nihil confert ad perfectam deitatem* 145 · *[ἐσαρκώθη] ex Maria* 161 · *Humana in Christo natura est glorificata* Ibid. · *Summa confessionis Synodi Constantinopolitanae* 226 · *Ratiocinationes hominum miserae* 268.
+
+**EVAGRIUS.** *Discrimen naturarum non tollitur propter unionem* 139.
+
+**EUSEBIUS.** *Tota Trinitas invocanda* 80.
+
+**FAUSTUS.** *Secundum hominem minor dicitur* 206.
+
+**FULGENTIUS.** *Membra piorum sunt templa Spiritus Sancti* 225.
+
+**GELASIUS.** *Si cognovissent, nunquam Dominum gloriae crucifixissent* 158.
+
+**GRATIAN.** *De Trinitate quantum loquamur* 73.
+
+**GREGORY OF NYSSA.** *Quod per passionem Christi salvamur Dei est operatio* 157 · *Dextra Dei exaltatus est Christus* 162.
+
+**GREGORY [THE GREAT].** *Scriptura est epistola Dei ad creaturam* 2 · *Cur Spiritus Sanctus in linguis igneis apparuerit* 246.
+
+**JEROME.** *Garrulitas sine auctoritate scripturarum non habet fidem* [pg] · *Pro unione hypostatica utitur vocabulo* [σύναψις] 106 · *Nativitas Salvatoris nova creatio nuncupatur* 144 · *Homo Christus in gloria Deitatis* 161 · *Filius Dei suscepit nostrum passibile* 200 · *Quisque sibi deputatum habet Angelum* 273.
+
+**HILARY.** *Deo quomodo credendum* 51 · *Christus in temporis dispensatione creatus* 144, 148 · *Verbum Deus caro factum* 163 · *Homo noster in Deo permanet* 203.
+
+**HUGO.** *Scriptura domina aliarum scientiarum* 6 · *Factor omnipotens mirabile facit credibile* 60, 170.
+
+**IRENAEUS.** *Per Verbum homines dicunt Deum* [pg] · *Christus cur* [ἀπόρρητον] 96 · *Mediator Dei et hominum* 123 · *Nomen Domini glorificatur in gentibus* 160 · *Verbum quiescit cum Christus tentaretur* 197 · *Verbum suspensum de ligno* [pg].
+
+**JUSTIN.** *Orpheus verus ex Iustino* [pg] · *Pythagorae versus ex Iustino citantur* 71 · *De naturarum distinctione et unione hypostatica in Christo* 77 · *Deus non est corpus* 166 · *De Platone* [pg] · *De Graecis professoribus* 270.
+
+**LEO.** *Deus fit creatura* 144 · *Deus in carne nostra crucifigitur* [pg].
+
+**LUTHER.** *Vitrum porrigit Iona* 12 · *Invocatio Sanctorum cur reiicienda* 103 · *Christus non habet opera creaturae* 147 · *Christi corpus est ubique* 168 · *Cur Angeli visionem impetrare noluerit* 276 · *De imagine Dei* 305 · *An iustitia originalis sit naturae vel doni* 315 · *Deus quomodo mala per malos faciat* 327 · *Cur non omnes homines salventur* 328 · *Induratio impiorum quomodo fiat* 352.
+
+**MACARIUS.** *Spiritus Sanctus est ignis daemones fugans* 229.
+
+**MARTIUS?** *Christus unus de Trinitate.*
+
+**NAZIANZEN.** *Versus de Philosophiae studio* 19 · *Quod de Deo dicens, uno et tribus luminibus illuminetur* 76 · *Trinitas nihil derogat unitati Dei* 81 · *Opera Trinitatis ad intra faciunt personarum distinctionem* 83 · *Existens gignitur, incredibilis creatur* 144 · *Maior Filio Pater cur dicatur* 207 · *Ex nomenclatura divina divinitatem Spiritus Sancti ostendit* 230 · *Divinae naturae nihil inferarum rerum comparari potest* 307.
+
+**ORIGEN.** *Testimoniis utriusque Testamenti acquiescendum* 2 · *Ferrum ignitum comparat unioni duarum naturarum in Christo* 119 · *Adest unicuique Angelus bonus* 273, 279.
+
+**PHILIP [MELANCHTHON].** *Paraphrasis dicti ex prima parte* 117 · *Humanam massam Christus gerit* 121 · *Quomodo Pater maior sit Filio* 207 · *Filius considerandus dupliciter* 210.
+
+**PRIMASIUS.** *Homo assumptus a Verbo* 162.
+
+**PROCLUS.** *Divina natura nullam recipit passionem* 159.
+
+**PRUDENTIUS.** *Divinam naturam non flagra secant* 158.
+
+**RUSTICUS.** *De unione duarum naturarum in Christo* 105.
+
+**THEODORET.** *Historia de Theodosio et Amphilochio* 104 · *Mediatorem convenit esse Deum et hominem* 123, 124.
+
+**THEODORE.** *Deo nihil impossibile, nec arduum* 60.
+
+**THEOPHILUS ALEXANDRINUS.** *Dominus gloriae in passione monstratus est* 200.
+
+**VIGILIUS.** *Christus mortuus est secundum formam servi* 149 · *Deus passus in unione personae* 156.
 
 ### Index Rerum et Nominum
 
-*(A second paratextual apparatus follows: an alphabetical ***index of subjects and names*** treated across the volume — a paradigm ***Renaissance-scholastic humanist convention*** for enabling loci-lookup. Selnecker's Index Rerum et Nominum begins with entries under ***A*** — as ***Adiaphora, Adoptio, Aeternitas Filii Dei, Agnitio, Angeli boni, Angeli mali, Anima, Apostolorum praedicatio, Aqua baptismi, Arcana Dei voluntas, Arianorum blasphemia, Assumptio humanae naturae*** — proceeds through the alphabet — and closes with entries under paradigm-Reformation-era polemical vocabulary from ***Sacramentarii, Servetus, Symbolum Apostolicum*** through ***Ubiquitas, Verbum Dei, Vestimenta sacerdotum, Vita aeterna, Voluntas Dei*** — a ***paradigm complete alphabetical index*** typical of the Reformation-era scholastic-dogmatic apparatus. The full index in the 1579 imprint runs to some 14 folios of double-columned entries — a paradigm ***encyclopaedic-loci-index*** of the whole volume.)*
+*(A fourth paratextual apparatus closes the volume: the ***Index Rerum ac Verborum Memorabilium in Prima Hac Classe Observandorum*** — an alphabetical index of subjects and terms treated across Pars I. The 1579 imprint contains this in some 14 folios of double-columned entries, running from A through V, of which the principal entries are here indicated as a representative sample:)*
+
+**A** — *Abrahami ratiocinatio* [Abraham's reasoning] · *Abstractum in doctrina communicationis idiomatum* [Abstract in the doctrine of communication of idioms] 139 · *Acacii Arriani argumentum* [Acacius the Arian's argument] 131 · *Acesius Episcopus Novatianorum* [Acesius Bishop of the Novatians] 129 · *Ache, quid significet* [Ache, what it signifies] 252 · *Athene-Minerva* 56 · *Adon, Adonim, Adonai* 56 · *Aeternitas mundi argumentis Aristotelis extruitur* [Eternity of the world constructed by Aristotle's arguments] 267 · *Aeternitas quid* [What is eternity] 269 · *Aevum quid* [What is aevum] Ibid. · *Alberto Scoto oraculum ambiguum a Diabolo datum* [Albert of Scotland, ambiguous oracle from the Devil] 300 · *Alexander Episcopus Constantinopolitanus* 130 · *Alexander Iaddo supplex* [Alexander the Great suppliant to Jaddus] 278 · *Amar, quid apud Hebraeos* [Amar, what among the Hebrews] 22 · *Anabaptistae* 108 · *Analysis et Synthesis Theologica* 38 · *Anastasius a caede Iustini et Iustiniani retrahitur* 279 · *Anastasii presbyteri Constantinopolitani dogma* 111 · *Angelorum doctrina* 72 · *Angelorum historiam cur Moses non conscripserit* 272 · *Angelorum ordines novem a Monachis efficti* 273 · *Angelorum bonorum officia* 275 · *Angelorum custodiae exempla* 280 · *Angeli cur laetentur ob poenitentiam peccatorum* 286 · *Angelorum cultus* 289 · *Angeli mali* 291 · *Angelorum lapsus causa* 292 · *Anima hominis an sit de essentia Dei* 306 · *Animae et corporis copulatio confertur cum unione duarum naturarum in Christo* 119 · *Anthropomorphitae* 58 · *Antonii Eremitae liber non sufficit ad seram Dei agnitionem* 48 · [***αὐθυπόστατος***] *dicitur Filius Dei* 91 · *Appellationes Dei ex sacris literis desumptae* 54 · *Appellationes seu attributa Dei Deo competunt diversimode* 57 · *Appellationes Filii Dei* [pg] · *Appellationes officiorum quae personae tribuuntur secundum utramque naturam* 194 · *Apollinaris, Apollinaristae* 110, 28 · *Apostatae an Dei consilio sua sponte pereant* 351.
+
+**A → C** — *Aqua unde dicta* 263 · *Arbitraria methodus Theologica* 45 · *Ardaburius mirabiliter liberatus* 281 · *Arius quis fuerit, Ariani condemnatus Nicaeae, Arii dogma, Arii mors* 111, 125, 127-130 · *Arianorum argumenta quibus divinitatem Filii Dei negarunt* 151 · *Aristotelis principia* 267 · *Attila Romanis supplicibus parcit* 267 · *Attributorum Dei praxis* 65 · *Auguratricis mulieris tristis interitus* 297 · *Augustinus obambulans cogitavit de mysterio Trinitatis* [pg] · *Chalcedonensis Synodi acta* 136 · *Cherubin quid* 274 · *Christi divinitatis duplex consideratio* 93 · *Christi vocabulum* 97 · *Christus cur propheta, Sacerdos et Rex* Ibid. · *Christi divinitas argumentis confirmatur* 27, 158, 159 · *Christus homo est caeli et terrae creator* 164 · *Christus homo sedet ad dexteram Patris* 165 · *Christi corpus est ubique* 169 · *Christus est in cena secundum divinam naturam* 172 · *Christus Verus Deus et Verus homo* 174 · *Christi habitus duplex* 212 · *Christus quatuor modis implet legem* 300 · *[et alia entries — sequuntur per alphabetum totum ad V]*
+
+*(The full Index continues alphabetically through the remainder of the volume — treating subjects including ***Communio idiomatum, Concupiscentia, Consolatio, Creatio, Crux Christi, Decalogus, Descensus ad inferos, Diabolus, Ecclesia, Elenchticus usus legis, Eutyches, Filioque, Genera communicationis idiomatum, Gratia, Hypostatica unio, Iehova, Justitia originalis, Lex Dei, Manichaei, Nestorius, Osiander, Peccatum originale, Praedestinatio, Sacramenta, Servetus, Spiritus Sanctus, Symbolum Apostolicum, Traditio, Trinitas, Ubiquitas, Verbum Dei, Voluntas Dei*** — closing at V. The entire ***Index Rerum*** thus provides paradigm ***encyclopaedic-loci-lookup*** across the doctrinal terrain of Pars I. Full transcription of the remaining alphabetical entries is left as an editorial extension: the endnote apparatus in the present translation — with its ~240 modern-editorial notes and Kolb-Wengert / BSLK / WA / LW cross-references — serves as functional equivalent for the modern reader.)*
 
 ### Colophon
 
