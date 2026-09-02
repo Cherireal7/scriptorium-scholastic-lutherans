@@ -1042,11 +1042,258 @@ And in the German hymn most sweetly we sing: ***Der Glaub sicht Jesum Christum a
 
 **Answer.** ***Freely*** excludes the condition of our work and merit; it does not exclude *faith.* And when Paul says that the *promise is gratuitous,* he does not wish to say that it is not to be accepted by faith. For God wills us to *embrace the promise by faith,* and He does not bestow remission of sins upon one resisting.
 
+## §16. The Four Causes for the Exclusive *Sola Fide*
+
+**In the Church of God it is rightly and by common use said that a man is justified before God *by faith alone*** — or, as Paul is wont to speak, ***freely*** — that is, not on account of our dignity, not on account of our merits, or virtues, or deeds, but ***on account of the Son of God the Mediator that reconciliation is given.*** And this little word ***freely*** or ***alone*** excludes from justification all our virtues and works and merits, *insofar as justification is concerned.* For our good works do not enter into the *circle,* as Luther speaks — the *article* or *act* of justification — but there ***only grace, only Christ, only faith, and only remission of sins reign.***
+
+**There are four reasons why the exclusive *freely* or *sola fide* must be retained and defended:**⁸⁴
+
+**First:** *that the due honour be rendered to Christ.*
+
+**Second:** *that the conscience may have a firm and certain confidence and consolation,* as Paul manifestly says in Romans 4: *"Therefore from faith freely, that the promise may be firm."*
+
+**Third:** *that invocation may be true and ardent, not Ethnic nor full of doubtings.*
+
+**Fourth:** *that there be the evident distinction of Law and Gospel — which the little word "freely" or "alone" makes.*
+
+Concerning these causes there is copious discussion in the *Loci communes* under the word ***Grace.***
+
+**And let this also be observed:** if God justifies us by His goodness and mercy on account of the *obedience and merit of the Son* — as He justifies not otherwise — then **faith alone is the medium by which the righteousness of the Son of God can be given to us.** For all other works render obedience to God and give Him something which He wills. But ***faith alone*** *receives from God the benefits offered in the Son of God,* and by the present good — the remission of sins, peace with God, true consolation, and certain hope of future liberation and eternal gladness and life — is enjoyed. And there is no other work which is an *instrument* by which we can apprehend in the present the offered benefit of God (for *hope* awaits the future benefit) — save ***faith alone.*** Rightly, therefore, faith is as it were a ***Sacrament*** among the remaining works — which are eucharistic sacrifices, and give something to God, and render Him due obedience: *faith alone receives from God what He Himself gives through and on account of the Son.* And this work the Holy Spirit elects, that as it were by an *instrument and organ* He may apply to a man the righteousness and merit of Christ.
+
+## §17. Testimonies from the Fathers that we are justified by Faith Alone
+
+**Psalm 51:** *"Against Thee, Thee only have I sinned."* This confession of David shows to all the pious that we must lean on the mercy of God alone, which we apprehend by faith alone. For to whom alone the debt is owed, He alone remits the debt. And against whom alone one has sinned, He alone absolves from the sin.
+
+**Psalm 71:** *"I shall go into the powers of the Lord; O Lord, I shall commemorate Thy righteousness, that alone which is Thine."*
+
+**Luke 8:** ***μόνον πίστευε*** (*monon pisteue,* "only believe"). — ***μόνον πίστιν εἰσάγωμεν, καὶ πάντα δίδωσι*** — *"Let us bring only faith to God, and He will give us all things,"* says Chrysostom.⁸⁵
+
+Hither pertains the word ***freely*** which Paul uses (***δωρεάν***, Rom. 3), excluding our merits. For plainly the sense is the same: *"We are justified freely by the redemption which is in Christ,"* and *"we are justified by faith alone,"* — because *on account of the Mediator we please by faith, not on account of our own dignity or newness.*
+
+**Basil, *On Humility***: *"That is the perfect and integral glorying in God, when one is not exalted in his own righteousness, but knows that he lacks true righteousness, and that he is justified by faith alone in Christ."*⁸⁶
+
+**Gregory Nazianzen, *De taxias***: *"Confess Jesus Christ, believe that He is risen from the dead, and thou shalt be saved. For justice is* ***τὸ πιστεῦσαι μόνον*** — *only to believe."*⁸⁷
+
+**Photius, Patriarch of Sirmium, on Galatians, chapter 3**: *"All are shut up under sin: therefore they can obtain the promise from faith alone. For it suffices* ***τὸ πιστεῦσαι μόνον*** — *only to believe:* by baptism the bill of debt is abolished."⁸⁸
+
+**Origen, Book 3, chapter 3, on Romans:** *"Where is thy glorying?"* — He says that the justification of faith alone suffices, so that *the believer is justified by that only, even if no work has been performed by him.* And: *"The only glorying of the just is in the faith of the cross of Christ."*⁸⁹
+
+**Ambrose, chapter 3 on Romans:** *"Working nothing and returning no return, they are justified by faith alone by the gift of God."* And in chapter 4: *"It was decreed by God that when the Law ceased, faith alone should demand of the grace of God unto salvation."* And again: *"Paul calls those blessed of whom God has sanctioned this: that without labour and without any observance, by faith alone they are justified before God."* And in chapter 8: *"It is fitting that in the sole Name of the Lord the Creator should the creature obtain salvation, that is, through faith: because, all *neomenies,* sabbaths, circumcision, the law of foods and the offerings of cattle being removed, ***faith alone is placed unto salvation.***"* And in chapter 3: *"Only is it required that they believe, and nothing else."*⁹⁰
+
+**Athanasius on Galatians 3:** *"Paul plainly demonstrates that faith itself, or alone, has in itself the power of justifying."*
+
+**Hilary:** ***Fides sola iustificat*** — *"Faith alone justifies."*⁹¹
+
+Let these testimonies of the *sounder doctors* suffice — to which the students may add more from their own readings. Let them also remember the verses of the ancient poet **Victor** on Abraham:⁹²
+
+> ***Credidit, et nuda fidei consensio sola***
+> ***Plenam ad iustitiam et meriti reputata coronam est.***
+>
+> *(He believed, and the bare consent of faith alone*
+> *was reputed to him for a full crown of justice and merit.)*
+
+## §18. Against the Tridentine *Fulmen* — the *Anathema Sit* Rebutted
+
+**Against this doctrine of the Gospel stand the *thunderbolts of the Pontiffs,*** such as this one of the Council of Trent:⁹³
+
+> ***"If any one shall say that the impious is justified by faith alone, let him be anathema."***
+
+**But let us know that the exclusive *sola* in the doctrine of justification has not been devised by us,** but has been brought forth by the Holy Spirit with many ***equipollent*** words — such are: the words ***grace*** (Eph. 2: *"By grace ye are saved through faith, and this not of yourselves"*); ***freely*** (Rom. 3); ***χάρισμα*** *of God* (Rom. 6); ***δῶρον*** *of God* (Eph. 2); ***κεχάρισται*** — *"He has freely given"* (Gal. 3); likewise, ***one man Christ, and the righteousness of one, the obedience of one*** (Rom. 5); ***one oblation*** (Heb. 10); *without the Law, not through the Law, not from the Law* (Rom. 2; Gal. 2; 3); *without works* (Rom. 4:11); *"Not from works, but according to His mercy He saved us"* (Titus 3); *"Not according to our works, but according to His purpose and the grace which was given us in Christ"* (2 Tim. 1); *"Not to him that works, but to him that believes"* (Rom. 4); *"the imputation of righteousness not according to debt, but according to grace"*; *"remission of sins"* (Rom. 4); *"faith without works"* (Rom. 3); *"not the law of works but the law of faith"*; and Galatians 2: ***"A man is not justified from works of the Law, unless through faith"*** — that is, *save only through faith.* For the particle **ἐὰν μή** (*ean mē*) is often so used in the sense of ***ἀλλ' ἤ*** (*"but rather"*).
+
+**All these *exclusives* are briefly and summarily expressed** in our Churches and Schools by the particle ***Alone*** — when we say that ***only by the mercy of God, only by faith, only by the imputation of the righteousness of Christ alone, we are made just before God.*** For thus we exclude the condition of our merit and dignity, and take away the cause of reconciliation from our works or virtues, and transfer it to the *sole grace of God receiving us on account of the merit of Christ the Mediator,* and at the same time show the ***medium or organ of application*** — which is ***faith,*** by which alone the gratuitous promise of reconciliation on account of Christ is apprehended, received, and applied.
+
+**When, therefore, the Papists and others damn our exclusives with the thunderbolt of anathema, they reject not us or our Churches only, but the Holy Spirit thus speaking, the Apostle Paul, and the whole doctrine of the Gospel.**
+
+Concerning the exclusive ***alone*** we have discussed more copiously in the little book whose title is ***Analectus.***⁹⁴ **The sum is this:** that ***by faith alone in Christ, without all the works of the whole Law, or even without the addition and presence of works as* συνέργων *(co-workers), and without any quality and virtue and merit of ours, we are justified and saved before God.*** For no work — whether antecedent, present, or consequent — contributes or does anything, even the least, unto justice and salvation. Faith alone is distinguished with this title, which, though it be *never alone,* is nevertheless *alone the instrument of the application of the grace and righteousness of Christ.* Therefore Luther splendidly says:⁹⁵
+
+> ***"I know the other virtues to be splendid gifts of God; I know faith without these gifts does not exist; but our question is what is proper to each. Thou holdest in thy hand various seeds; I do not ask with what they are joined, but what is the proper virtue of each. Say plainly here what faith alone does, not with which virtues it is joined. Now faith alone apprehends the promise, believes God promising, extends the hand to God offering something, and receives it. This is the proper work of faith alone. Charity, hope, and patience have other materials about which they are concerned."***
+
+And again: ***"We know that faith is never alone, but brings with itself charity and many other gifts, and leads with itself a most beautiful chorus of virtues, nor is it ever alone; but the thing is not therefore to be confounded, and what is of faith alone must not be attributed to other virtues."***
+
+**Elsewhere Luther says:** ***"Faith, unless it be without any works — even the least — does not justify; indeed, it is not faith."*** This voice in the doctrine of justification — especially in the exercises of the penitent, of invocation, and in the spiritual struggle — is *without any exception found most true,* as the examples of David, Manasseh, the publican, the thief on the cross, and of all sinners show. In them, although faith is *never destitute* of good works — as acknowledgement of sin, confession, patience, humility and invocation, hope, and charity — nevertheless ***faith alone acquiesces in the sole mercy of God exhibited through and on account of the Son,*** and in this raises itself, consoles, sustains, and finds life and salvation.
+
+## §19. On the Word *Gratia* — Two Significations · General vs Special Grace · The Pelagian History
+
+**These things explained,** before we speak of the *corruptions of the adversaries* — those who feign doubt in the place of the ***πληροφορία*** (*plērophoria,* full assurance) of faith — we shall insert a brief admonition concerning the word ***Grace,*** which Scripture is wont to use *not in one way alone.*
+
+**חֵן** (*Ḥēn*), **χάρις** (*charis*), *Gratia,* ***Gnad*** — signifies in the sacred letters:
+
+**First,** *the benevolence and favour by which God vouchsafes to embrace unto Himself men in nothing meriting such, and to do them manifold good on account of the Son* — as John 1: *"Grace and truth through Jesus Christ";* Genesis 6: *"Noah found grace in the eyes of God"*; Luke 1: *"Thou hast found grace with God."* This grace elsewhere is named *reconciliation,* and the *gratuitous remission of sins on account of the Son given to believers.* And in this signification Paul uses the word *grace* when he proves that *we are justified freely by the grace of God.* For here the *favour of God, benevolence, φιλανθρωπία, εὐδοκία (eudokia, good pleasure), mercy, goodness, gratuitous acceptance, benignity, charity of God toward us,* or the *gratuitous love of God which chooses, calls, justifies, and adopts,* — are synonyms, and are equipollent to the word *Grace,* and show:
+
+**(1)** *that the cause or merit by which we are justified before God unto eternal life is not, and does not inhere in, us;*
+**(2)** *that God finds in us very many causes on account of which He could damn us;*
+**(3)** *that, though unworthy and having merited far otherwise, we are received into grace by God from mere goodness and mercy on account of the Son, and are accepted unto eternal life.*
+
+**Second,** the word *grace* is often used for the ***gift*** by which God then and there adorns the man whom He has already vouchsafed with His favour, or grace and mercy on account of the Son. And lest in the article of justification there be doubt about the true signification of *grace,* Paul plainly in Romans 5 distinguishes ***grace*** from ***gift***: so that by *the grace of God* he understands *the favour and benevolence of God toward us, or the gratuitous acceptance and reconciliation which is on account of the Son of God;* and by *the gift* the ***donation of the Holy Spirit,*** or the *singular gift and good which God from the ratio of that first benevolence confers* — namely, *newness of life, virtues, and good works, constancy, patience, chastity,* and the *other gifts,* of which Ephesians 4 says: *"To each one of us has grace been given according to the measure of the donation of Christ"* — that is, *by a geometric analogy, distributing to each what is congruent to his vocation.*⁹⁶
+
+**And although each of these two — grace and gift — is a benefit of the Son of God the Mediator,** nevertheless when Scripture says that *we are justified and saved by grace,* it understands that grace which is *distinguished from the gift* — that is, from the second signification of grace — that is, it understands *not our newness or good works, not the gifts and fruits of the Holy Spirit, nor anything inherent in us, but the mercy or gratuitous acceptance which is on account of the Son.*
+
+**Third,** the word *grace* is used for some *effect* either toward God or toward the neighbour — as when a man believing and regenerate gives *thanks* to God for the benefits received (whether for grace or for gift); likewise when one of the men *gratifies* another, serves him, does good to him, *renders grace,* as in Genesis 18: *"If I have found grace in Thy eyes"*; Acts 25: *"Festus, wishing to lay down grace to the Jews."*
+
+**Let these things be said of the significations of the word grace. Now we shall consider the usual division of grace transmitted from Augustine.**⁹⁷ *Grace is either general or special.* **General** is that with which God affects all men without exception with benefits — as that He created all men, preserves them all, rains upon evil and good, gives food to all flesh. Without this grace no one can live, or move himself, or breathe (Matt. 5; Acts 14). But this is by no means the grace which is considered in the business of justification — as the Jesuits today pervert the state of this doctrine on the justifying grace of God. **Special grace** is that which God uses only toward those whose sins He remits, and whom He adorns not only with common benefits but with the *righteousness of His Son and with spiritual gifts,* and leads to eternal life. This is that grace of which all become partakers who believe in Christ and are justified by faith.
+
+**Pelagius, around the year of Christ 400,** was convicted that he must confess *men to be called and justified and aided by the grace of God to live piously and holily.* By these insidious words he drew many into his opinion, that they might think he spoke and sensed rightly. But afterwards he cunningly interpreted himself as speaking only of *general grace,* just as today the Jesuits do the same. When, however, in the disputations of the pious he was driven to the point of saying that not only general grace was to be understood, but also *special,* he used another cunning and said that the ***vocation to the Kingdom of Christ and the gratuitous acceptance unto justice*** is indeed *from the grace of God,* but that the *other things* — namely, that men should live piously and blamelessly, fulfil the Law, and reach eternal life — are *without special grace,* and are done by the *free will and powers of the human choice alone.*⁹⁸
+
+**This unbridled audacity, that the pious doctors might express it,** — relying on the suffrages of Holy Scripture — have transmitted a ***subdivision of special grace*** in this manner: ***The special grace of God is either* First *or* Second.*** The **First** is that by which one is first called by God, illumined by faith, and made from unjust just, and accepted by God in all things. The **Second** is that which God gives, that those who have once been justified may henceforth live justly and piously. For without the *grace of God — not only general, but also special, and not only first but also second* — a man can do nothing right, nothing pious, nothing accepted, to God — according to that saying of Philippians 2: *"It is God who works in you both to will and to effect according to His good pleasure";* and John 15: *"Without Me ye can do nothing"* — that is, *unless I be acknowledged and invoked, and on My account be received remission of sins and reconciliation* (for this is the *first special grace*) *and the donation of the Holy Spirit ruling and helping you* (this is *second grace*), *nothing pleasing to God, nothing salutary can be done.*
+
+**From this Augustinian division that Scholastic distinction departs somewhat,** which says that *grace is either* ***gratum faciens*** (*grace making-pleasing*) or ***gratis data*** (*grace given-freely*). **Grace *making-pleasing*** is that which Augustine names *first special grace.* Others understand *charity itself,* though in various sense: some *the charity of God loving us;* some *our charity, and other virtues in us.* **Grace *gratis data*** — although it may conveniently be referred to the *second special grace* — was used by the Scholastic writers only of *some special gift* given divinely to a man for the utility of himself or of others — as *excellent eloquence, the power of doing signs,* and so on. Hence they usually said that even in the impious there may be ***gratia gratis data,*** although *gratia gratum faciens* be not in them. But these things are said less properly. For if we rightly observe, ***every grace can rightly be called grace gratis data,*** as Augustine defines: *grace is that which is given freely by God, and not from works.*
+
+**And this distinction is also to be retained,** where Augustine says that grace is either ***operating*** or ***co-operating.*** **Operating grace** is that by which *God prevents, instructs, and prepares the will to will the good* — namely, by that ratio and in that order which He Himself expressed in His Word. **Co-operating grace** is that by which *God helps and perfects, that we will not in vain, but perform the good works of piety, and are ruled by the Spirit of God in our actions.* In the same manner, that grace is called ***preventing, preparing, freeing, operating;*** and another is called ***subsequent,*** which is the same as *co-operating* or *aiding perseverance in the good.* For thus Augustine speaks when he says: ***"God prevents the unwilling that he may will; He follows the willing that he may not will in vain."***⁹⁹
+
+**These distinctions we ought to consider,** that we may know how, according to Scripture, Augustine and the other *sincere* doctors have of old used the word *grace,* and that we may utterly repudiate the *Scholastic depravation* concerning *the merits of men and the powers of free choice in the business of justification and salvation.*
+
+## §20. Against the Doubting of the Monks — on the Grace of God and the Remission of Sins
+
+**Often it is said that *faith* in the Church** — which faith is *most properly named justifying faith* — is the ***organ or instrument*** by which, in the doctrine of the Gospel, we seek, apprehend, receive, and apply to ourselves *the mercy of God pardoning us our sins and accepting us on account of the Son* — certainly determining that on account of the *obedience, satisfaction, and merit of the Son of God* we are in grace and have remission of sins, are justified, and shall eternally be saved. And this faith, lest any think it to be some *imagination of a man* or some *uncertain opinion, cogitation, or persuasion,* — but that he may know it to be a ***notice, an assent, and a certain and infallible confidence,*** — has a *true, certain, firm, immoveable, peculiar, principal, and proper object* — which is the *divine promise of the Gospel proper concerning the gratuitous mercy of God on account of the Son the Mediator remitting sins, adopting and accepting us who believe unto eternal life.*
+
+**And to the certainty of this faith and to the confirmation of its object pertain all the sayings** which either speak of the *mercy, love, grace, φιλανθρωπία, and gratuitous gifts of God the Father,* or of the *office and obedience of the Mediator,* or of the *benefits of the Holy Spirit sealing faith in our hearts,* or of the *faith itself* by which we accept and have the benefits of the Son of God.
+
+**And although there are also other objects of faith** — and faith *in general* is concerned with all those things which have been divinely made manifest in the Word of God (as in Hebrews 11 various objects of faith are described) — nevertheless, of *faith not considered in general* but *in species* — that is, of *justifying faith* — there is only ***one object,*** into which it looks *properly and principally,* when it wills to receive remission of sins, reconciliation, and adoption, and to render a man certain that he is in the grace of God, a son and heir of God.
+
+**Against this certitude of faith the Papists, the Monks, and the like oppose themselves principally with three reasons:**⁹⁹ᵃ
+**1.** They *deny* that there is only one object of faith, namely the *promise of gratuitous mercy on account of Christ the Mediator.*
+**2.** They *deny* that faith signifies a *certain and firm confidence.*
+**3.** They *affirm* that we must *doubt concerning remission of sins.*
+
+**To the first reason there is a simple and true response.** *We do not inquire what the external objects of faith are in general, or what the exercises of faith are in the cross and in obedience* (for in these various *external* objects of faith considered in general can be); *but we inquire what is the object, by whose respect and apprehension faith before God justifies unto eternal life.* And this **one object is the promise of the gratuitous mercy on account of Christ the Mediator, on account of whom God is placated, reconciled, and propitious to us.** This object of *justifying faith* makes that afterwards the exercise of faith is *firm and stable also about other objects,* according to 2 Corinthians 1: *"For as many as are the promises of God, they are 'yea' and 'Amen' in Christ to the glory of God through us"* — that is, *the fulfilment of the promises about whatsoever objects or things is certain when by faith in Christ we are reconciled with God,* as Abraham is certain concerning his posterity according to the promise, since he knows God to be placated and propitious to him on account of the Son.
+
+**This too must be added:** it often happens that *the general faith of some is concerned only with external objects,* though they lack *justifying faith* and do not look upon the principal true object of faith — as Hebrews 11 has it written: *"By faith they passed through the Red Sea."* Yet *in all of these the Lord was not pleased* (1 Cor. 10). So the ten lepers apprehended by faith the object of external healing, but *only one had justifying faith* — to whom Christ said: *"Thy faith has made thee safe"* (Luke 17). And often it also happens that one by true faith looks upon the *proper and principal object,* though he lack the remaining external objects — as the thief on the cross, and Job saying: *"Even if the Lord shall have killed me"* — that is, *though I have no external object or defence, no medium in this world, still I shall hope in the Lord* (Job 13). And Psalm 72: *"Although neither heaven nor earth remain to me, and my flesh and my heart fail, yet Thou art the God of my heart and my portion, God, forever."*
+
+**To the second what pertains is plainly frivolous and impudent.** For ***faith is* ὑπόστασις** (Heb. 11), which word without all controversy in that place signifies ***confidence certainly apprehending or expecting something,*** in which manner Paul also elsewhere uses that word — as Hebrews 3: *"We are made partakers of Christ, if we hold fast the beginning of the* ὑποστάσεως *(hypostaseōs) unto the end"* — that is, if we retain *faith* — as Chrysostom also explains: ***τὴν πίστιν, δι᾽ ἧς ὑπέστημεν*** (*"the faith by which we subsist"*). And 2 Corinthians 9: he names ***ὑπόστασιν τῆς καυχήσεως*** (*hypostasin tēs kauchēseōs,* "the substance of glorying"), just as 2 Corinthians 11: ***boasting-confidence.*** So Polybius, Book 6, on Horatius standing against all the forces of the enemies says: *"The enemies feared his* ***ὑπόστασιν*** *more than his* ***δύναμιν*** *— that is, his confidence and courageous spirit more than his strength and power."* **Wisdom 16:** ***ἡ ὑπόστασις σου*** — *"Thy* faith *in Thee shows Thy sweetness."* The Germans speak in the same manner: ***Sich etwas unterstehen*** — *to subsist* — that is, *not only to try, but with great confidence to undertake.* Others also interpret ***ὑπόστασις*** as ***promise,*** *the* ***ἀπόχεσις*** *(apochesis, holding-fast) of our heart and spirit drawn from the Word* — that is, *certain confidence and pollicitation* that God is propitious to us on account of the Son. Hither pertains James 1: *"He that prays, let him ask in faith, doubting nothing"* — **μηδὲν διακρινόμενος** — *doubting or wavering nothing.* And Isaiah 26 says that ***faith is a firm cogitation which decrees that God gives peace.*** For thus he says: *"Open the gates* (the ministry), *and the just people shall enter, keeping faith* — ***a supported cogitation*** *(that is, firm and immoveable, namely, that) Thou wilt keep peace, because it is hoped in Thee."* **יֵצֶר סָמוּךְ** (*Yēṣer sāmûk*) — *a firm affect, a form and immoveable cogitation,* ***ποίημα*** *of the Holy Spirit,* a new ***πλάσμα*** or *shape,* not such as was before, *rotten and perverse* (Gen. 6 and 8: *Yēṣer,* that is, *the figment of the human heart is evil at every time from its childhood*), — but *new and firm, sealed, and* ***samach*** — *that* (to add the most sweet version of D. Forster) *a cogitation which leans forth shall obtain peace, or a sustained cogitation.* For *sāmak* is *to sustain,* or *to sustain from above,* lest we perish; whence in the Scriptures we name God ***סָמָךְ*** *(Sāmāk)* — *our sustainer.* And such is ***true faith:*** *(1)* the gift of God; *(2)* certain confidence; *(3)* sustained by God; *(4)* leaning on the Word and the divine promise.¹⁰⁰
+
+And with this faith we are everywhere commanded to accede to God, praying and confiding, without ***ὀλιγοπιστία*** (*oligopistia,* little-faith) or doubting or diffidence. Let us know, therefore, that ***faith signifies not only a notice or a carnal assent, but a certain, firm, and immoveable confidence,*** which God requires of us, and wills that to Him be attributed the *praise of veracity* in the preservation of His promises — which praise they take away from God who *waver and doubt concerning the gratuitous remission of sins which is promised to us,* and who *charge God with lying* (1 John 5) and *diminish the merit of the Son of God.*
+
+**With faith, therefore,** ***πεποίθησις, παρρησία, καὶ πληροφορία*** (*pepoithēsis, parrēsia, and plērophoria* — *reliance, boldness, and full assurance*) are said, which are true, and are to be opposed to Papist waverings. But at the same time *tender and pious minds who complain about the weakness of their own faith are to be admonished* that judgement concerning true faith must not always be taken from *sense.* For *sense does not precede but follows faith,* and often it is *hidden and overwhelmed by the cross and by other calamities.* From the ***Word,*** therefore, must judgement be made about true faith. And the Word sets forth to us these four things:
+
+**First,** that ***the power of the Lord is perfected in weakness*** (2 Cor. 12). For God is powerful in the greatest weakness; He quickens in the midst of death, He illumines minds in the dense fog, He does His works in the middle of contraries.
+
+**Second,** that faith is not always a burning light and a sensibly-perceptible confidence and a courageous flame openly shining, but often is *only smoking flax* (Isa. 42; Matt. 12) — sometimes in knowledge (Rom. 14), sometimes in confidence (Mark 9). And often faith is great, as in the Centurion, in the Canaanite woman (Matt. 8; 15); sometimes it is weak, as in that one of Mark 9: **τῇ σῇ δύναμει, μικρῇ πίστει βοήθει** — *"help thou by Thy power the weak faith"* — as Christ says: *"O suffering one, help by Thy faith."*
+
+**Third,** that the *dignity of faith* is not to be *reckoned or estimated from its own firmness and perfection, but from the object which faith apprehends.* For since faith does not err in its object, but seeks and endeavours to apprehend it — however weak the confidence — amid trepidations, ***certainly it is true faith, though extremely modest and weak.***
+
+**Fourth,** that ***Scripture commands us to pray after the example of that one:*** *"I believe, Lord; help Thou my weakness."* This prayer testifies that faith is present, though its sense is either exceedingly small or none at all.
+
+## §21. On the Third Papist Dogma — the Trent Certitude-Anathema and Eight Firm Arguments in Response
+
+**Now we shall speak of the third Papist dogma,** which in the Council of Trent is set forth in these words: ***"If any one shall say that it is necessary for a man to believe with certainty that his sins are remitted for the remission of sins,*** *etc., or that no one is truly justified save he who believes himself to be justified,* ***let him be anathema.***"¹⁰¹ Against these *blasphemies against the Son of God* let us hold these ***eight firm and immoveable arguments and testimonies.***
+
+**First:** *the nature, propriety, and dignity of the promises, and the power of God.* For we ought not to look upon something in ourselves, but upon Christ Himself and upon the promises made by God concerning Christ and on account of Christ, by which God has testified *that He wills to be Father, helper, and preserver of believers.* And God is faithful, loving and preserving His promises (Rom. 4); to whom he who has no faith, ***as though he had struck God with a slap of a lie,*** accuses Him (1 John 5) — which how great a sin it is, pious minds can consider. Nor need we ascend into heaven, being curious about the *hidden counsel and decree of God,* but we have the *Word and Promise* (Rom. 10): *"the word of faith which we preach,"* in which God has made known His will to us — so that with Paul (2 Cor. 2) we can say: *"We hold the mind of Christ."* This *majesty of the promises,* therefore, *prohibits and rejects doubting, and requires faith,* according to that saying: *"Therefore from faith, that the promise may be firm"* (Rom. 4).
+
+**Second:** *the nature of faith,* which is a ***firm and certain knowledge of the divine benevolence toward us freely exhibited through Christ, supported by the truth of the divine promises, and made manifest to our minds through the Holy Spirit,*** and is ***ὑπόστασις, πληροφορία, παρρησία, ἔλεγχος,*** and ***πεποίθησις*** (Heb. 10 and 11) — according to Matt. 9: *"Have confidence, son, thy sins are remitted to thee"*; and Luke 7: *"Thy faith has saved thee."*
+
+**Third:** *the Holy Spirit kindling, confirming, and sealing faith in our minds and hearts,* and *testifying that we are sons of God, beloved in the Beloved* (Rom. 8; Eph. 1, 4; 2 Cor. 1, 5). For He is the ***arrhabōn*** — that is, the *pledge and cognizance* — ratifying and confirming the pledge or promise, that faith may be held undoubted.
+
+**Fourth:** *the example and experience of faith,* such as was in Abraham (Rom. 4): *"He who believed against hope in hope, and was not weakened in faith, nor hesitated in the promise of God, but was made strong by faith, most fully knowing that He who had promised was also mighty to perform — wherefore also God imputed this to him unto righteousness."* Similar things are everywhere read in the Psalms: *"In Thee, Lord, have I hoped; I shall not be confounded,"* etc. And hither pertains that Pauline exclamation: *"Who shall accuse?"* (Rom. 8).
+
+**Fifth:** *the diverse effects of faith* (Rom. 5): *to have peace with God; to stand in the grace of God; to glory under the hope of the glory of God; to be loved by God* (Rom. 8); *to invoke God in the name of Christ and to be heard by God* (1 John 5), etc.
+
+**Sixth:** *the doctrine of the true use of the Sacraments,* which were therefore instituted by the Son of God, that the promise of the Gospel might be confirmed and sealed to believers — as Paul names circumcision *the seal of the righteousness of faith* (Rom. 4); and 1 Peter 3: *baptism is called* ***ἐπερώτημα*** *(eperōtēma, stipulation) and the covenant of a good conscience;* and in the Supper it is said to each one: *"Receive, eat; this is the body of Christ delivered for thee,"* etc. It is fitting, therefore, that in the use of the Sacraments each one believe that his sins are remitted to him.
+
+**Seventh:** *the doctrine of the Gospel not only reprehends doubting* (Matt. 6, 14; Mark 11; Rom. 4; James 1; Luke 12; 1 John 5, in which places ***ὀλιγοπιστία, καὶ τῷ διστάζειν, διακρίνεσθαι, καὶ μετεωρίζεσθαι*** mention and accusation are made), *but also commands that we must strive against doubting and ask of God the strength of faith* (Mark 9: *"Aid my unbelief"*; Luke 17: *"Increase to us faith"*). It also commands the exploration and examination to be instituted (2 Cor. 13): *"Try and prove yourselves whether ye be in the faith."* And this examination is made:
+
+**(1)** *by the sense of pain over admitted sins;*
+**(2)** *by confidence in the promise of the remission of sins on account of Christ;*
+**(3)** *by prayer and by groaning to God, that He make us vessels of mercy and temples of the Holy Spirit, and rule us in our vocation;*
+**(4)** *by the struggle of the Spirit against the flesh, or by hatred of sin and victory;*
+**(5)** *by love of the Word of God and use of the Sacraments;*
+**(6)** *by patience in the cross, humility in life, zeal in doing good to others, modesty, temperance, chastity, truth, and other fruits of faith;*
+**(7)** *by desire of eternal life.*
+
+**Eighth:** *the distinction of Law and Gospel evidently shows that doubting must be resisted.* For since the Law leaves us in doubting on account of our unworthiness and weakness (we cannot satisfy the Law), the Gospel immediately succeeds the Law, and sets forth to us *the doctrine of the gratuitous remission of sins on account of the Son,* and commands us to be certain of the grace of God and of our salvation. This distinction of Law and Gospel would not be, if doubting were to be indulged.
+
+**These and more arguments and testimonies of Scripture show that it is blasphemy against the Son of God and a most impudent lie, if any one says that God wills that we give place to doubting and be uncertain whether we are in the grace of God on account of Christ.**
+
+## §22. Papist Objections Rebutted — Eight Answers
+
+**But the Papists object the saying of Solomon, Ecclesiastes 9:** *"Man knows not whether he is worthy of love or of hatred. Therefore no one can determine that he is accepted to God."*
+
+**I answer.** The scope and context of Solomon's discourse evidently shows that these words are to be understood *of external cases and events,* and that this only is said, — that *in the world it cannot be discerned from those events whether God loves or hates some, since to the just certain sad things happen equally with the impious, and the impious no less than the pious experience joyful successes.* Solomon therefore does not deny that a pious man must certainly determine that he has God propitious — namely, from *faith* — but denies that judgement about this matter is to be taken from external cases and events, which to the impious are often common with the pious.
+
+**Then they object that saying of Sirach 5:** *"Of the propitiated sin, be not secure. Therefore doubting is commanded, when security and confidence are prohibited."*
+
+**I answer.** Sirach in that whole chapter transmits *precepts against carnal security,* lest any one heap up sins without penitence, moved by that false persuasion *that it is lawful for him to indulge in sin because the propitiation has been made and set forth.* For thus the words sound: ***περὶ ἐξιλασμοῦ μὴ ἄφοβος γίνου προσθεῖναι ἁμαρτίαν ἐφ᾽ ἁμαρτίας*** — *"Concerning propitiation, be not without fear beyond measure, so as to add sins to sins"* — that is, *do not think that by thy sacrifice or opus operatum thou canst satisfy for sin, nor suppose that propitiation is set forth to thee that it may be lawful to sin and abuse the grace of God, nor be secure even though God for a while conceals-with the eyes at sins; but fear God, and flee sin, and defer not penitence.*
+
+**Another:**
+
+> Jonah 3: *"Let each do penitence: who knows? Perhaps the Lord will be converted and will pardon."*
+
+**I answer.** These words are not of *doubting,* but *of one hoping well, and casting himself and all his matters upon God's mercy, and committing himself to the divine will.* And the more learned know that these particles — ***מִי יוֹדֵעַ*** (*Mī yōdēa,* "who knows"), *if perchance* (2 Sam. 12; Joel 2) — are particles by which the pious use this manner, when they *hope well and desire the aid of God and liberation from corporeal evils,* and *wish that they had already emerged from those evils.*
+
+**Another:**
+
+> *"God alone is the searcher of hearts"* (Rom. 8).
+> *To affirm that one is in grace, is to search the heart.*
+> *Therefore we ought not to determine that we are certainly in grace.*
+
+**I answer to the major.** *God alone is* ***καρδιογνώστης*** — as concerns all things known and unknown to us universally. But the *minor is false.* For we do not search the heart when we say that we are in the grace of God, but we ***embrace the voice and promise of God opening to our hearts His heart and mind toward us,*** and willing us to *believe with the heart unto righteousness* (Rom. 10).
+
+**Another:**
+
+> *The pious ought to fear God and to work out their salvation with fear and trembling* (Phil. 2).
+> *Therefore we ought not to determine by certain faith that we are in grace.*
+
+**I answer.** A ***twofold fear of God*** is described in the sacred letters: **filial** and **servile.** The **filial** befits all the pious, and requires and confirms the *confidence of grace,* and always retains *faith, hope, and purity of doctrine* with great care and solicitude, and shuns lapses against conscience. Thus ***fear is rightly conjoined with faith.*** For he who acknowledges God as Father and himself as a son by Him, embraces by faith the grace offered — nor can he doubt of God's mercy toward him more than a carnal son doubts of the benevolence of his parent.
+
+**Another:**
+
+> *No one is certain of perseverance — whether he shall persevere in faith and grace unto the end. Therefore there cannot be certain confidence about our salvation.*
+
+**I answer.** Although many by their own fault, by security, diffidence, and works of the flesh cast off and lose faith and the Holy Spirit, — yet it is certain that those who *mortify the actions of the flesh by the Spirit, and by faith adhere to Christ, asking of God the gift of perseverance, and struggling against the petulance of the flesh, and confirming their faith by the Word and by the frequent use of the Sacraments,* — by no means hang in ambiguous doubting, but are ***certain concerning perseverance,*** according to the promise: *"He who has begun in you shall perfect unto the day of Jesus Christ"* (Phil. 1). For we have God the Father as ***ἀρχηγόν*** (*archēgon,* Leader); the Son as ***τελεσιεργὸν*** (*telesiergon,* Perfecter); the Holy Spirit as ***βεβαιωτὴν μόνιμον*** (*bebaiōtēn monimon,* Confirmer stable) — the confirmer stabilising and supporting in us true faith. *Who then shall separate us? I am certain that neither things present nor things to come shall separate us* (Rom. 8).
+
+**Bernard, *On the Seven Fragments, Sermon 3***: *"I consider three things in which my whole hope consists: the charity of adoption, the truth of the promise, the power of rendering. Let foolish thought murmur as much as it wills, saying: 'Who art thou, or how great is that glory, or by what merits dost thou hope to obtain it?' — I confidently answer: 'I know Whom I have believed, and I am certain that in exceeding charity He has adopted me, that He is true in promise, that He is powerful in exhibition.' This is that triple cord which is difficult to break — which, sent down to us from our fatherland into this prison, let us firmly, I beseech, hold, that He Himself may lift us up, He Himself draw us and drag us on unto the sight of the glory of the great God."*¹⁰²
+
+**Another:**
+
+> *The pious often bear various temptations by which they are so shaken that they suspect they have fallen from the grace of God — which being so, they surely cannot determine that they are certainly accepted by God.*
+
+**I answer.** The pious are not so certain of their salvation *as though they were now immune from all temptations, and could be free and secure,* but *they know that after having received grace they are called to combats before others,* and therefore ought to pray: *"Lead us not into temptation, but deliver us from evil."* For:
+
+> ***Nunquam bella bonis, nunquam certamina desunt,***
+> ***Et cum quo certet, mens pia semper habet.***
+>
+> *(Never do wars fail the good, never do combats fail;*
+> *and the pious mind always has with what to contend.)*
+
+Then they know that ***in the very temptations and combats faith becomes more illustrious,*** and *God by His power and goodness gives an outcome, that they may bear all things* (1 Cor. 10). For:
+
+> ***Semper vera fides inter certamina crescit,***
+> ***Et victrix palmae praemia vera capit.***
+> ***At non certanti non est speranda corona.***
+>
+> *(Always the true faith grows in the midst of combats,*
+> *and the victorious [faith] receives the true rewards of the palm.*
+> *But to him who does not contend, no crown is to be hoped for.)*
+
+**2 Timothy 2:** *"No one is crowned unless he shall have contended lawfully."* Then they know that ***however vehement the temptations,*** the faith of the mercy of God — however weak — is *always tenaciously fixed in the heart,* by which as by *sword and shield they are armed against the snares of the Devil and of the world,* as Paul says (2 Cor. 4): *"We have this treasure in earthen vessels, that the eminence of the virtue may be of God and not from us: while in all things we are pressed, but not made anxious; we labour, but are not destitute; we suffer persecution, but in it are not deserted; we are cast down, but do not perish."*
+
+**Another:**
+
+> *Humility of mind and open confession of infirmity and unworthiness please God.*
+> *Therefore confidence displeases Him.*
+
+**I answer.** I concede the whole *of confidence and of carnal security.* But another thing is ***faith in Christ,*** which always has *humility joined with itself,* and *plainly despairs of its own works and merits,* and has its salvation only in the wounds of Christ, and always has in heart and mouth this: *"Enter not into judgement with Thy servant; have mercy on me on account of the Son, sprinkle me with hyssop; without Thee there is nothing in me."* Likewise: *"I am conscious of nothing to myself, but in this I am not justified"* — that is, *I do not lean on my dignity or on my innocence or on my justice, but I seek another obedience and the merit of the Son of God, which I set against the judgement and wrath of God.*
+
+**These things, which are the faith and the humility of believers, both show and repress and coerce all insolence, carnal security, and vicious affections** — like also: *"He that stands, let him see lest he fall"* (1 Cor. 10); *"Do not be high-minded, but fear"* (Rom. 11), etc. For since in believers and in the saints the *flesh* still is, it is necessary that by such admonitions be repressed *the insolence, security, and petulance of the flesh.*
+
+**Another:**
+
+> *A great part of men abuse the doctrine of the certitude of faith unto security.*
+> *Therefore it must be taught otherwise concerning faith.*
+
+**I answer.** *Abuse does not take away or change the truth of doctrine.* Then, *to the secure and impenitent* is not set forth the doctrine of faith, but the *thundering and malediction of the Law;* but *only to those pale-and-afraid and acknowledging their sins and fleeing to the throne of grace* is the doctrine of faith set forth. For these must be aided by true and firm consolation according to the promise of the Gospel, lest, while they indulge fearful doubting, they be overwhelmed by despair.
+
+**Another:**
+
+> *So great is the weakness of the flesh, that perfect confidence and certitude of faith without the temptation of doubting cannot in this life be had.*
+> *Therefore useless is the doctrine of the certitude of faith.*
+
+**I answer.** *There is not required an absolute confidence,* nor is *faith estimated from its own firmness and perfection,* but it is shown that ***faith, however weak, ought — from the object which it apprehends — to seek a certain and firm consolation, and to struggle against doubting and trepidation, and to acquiesce in the promise of the Gospel,*** as was said above concerning *weak faith.*
+
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
 
-*(The Locus continues here with §16 — the four causes for the exclusive* Sola Fide *— then with §17 (the patristic testimonies for* Sola Fide *from Basil, Nazianzen, Photius, Origen, Ambrose, Athanasius, Hilary, and Victor Poeta) and the anti-Papist rebuttal section including the anti-Tridentine* fulmina, *the anti-Osiander section, the* De Secundo/Tertio vocabulis, *and the closing hymn against heretics — all deferred to T3b. See* `notes.md` *for the tranche plan and OCR line-ranges.)*
+*(The Locus continues here with §23 — the predestination-and-necessity objection with the four-grades-of-necessity analysis — and onward through §§24-end (the closing consolation section, De Secundo/Tertio vocabulis, the anti-Osiander section proper on the essential-righteousness / inhering-righteousness question, the Rom 5 new-obedience section, De Sexto (the causes of justification), and the closing Christ-hymn against heretics) — all deferred to T3c. See* `notes.md` *for the tranche plan and OCR line-ranges.)*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -1238,11 +1485,53 @@ And in the German hymn most sweetly we sing: ***Der Glaub sicht Jesum Christum a
 
 ⁸³ **Georg Spalatin (1484–1545) — the paradigm-Wittenberg court-preacher and Luther-collaborator.** The *Sola fides hominem caelesti donat honore* verses were composed by Spalatin as an epistolary poem to **Eobanus Hessus** (1488–1540), the paradigm-Wittenberg humanist-poet, and printed in **Eobanus's *Sylvae*** (Frankfurt 1539). Selnecker frequently draws on these Wittenberg-Reformation Latin verses as pedagogical mnemonics; compare his own *Elenchus Praeceptorum* (Leipzig 1580) which uses similar didactic-hexameter forms.
 
-## From Locus I *De Iustificatione* — §16 onward
+## From Locus I *De Iustificatione* — §§16-22
 
-⁸⁴–⁸⁹ *[reserved for T3b: Sola-Fide four reasons (§16), patristic testimonies section (§17), Trent *fulmina* rebuttal, anti-Osiander section, De Secundo/Tertio vocabulis (secondary and tertiary word-uses of iustificare), Rom. 4-5 exegesis of new obedience, and closing Christ-hymn against heretics.]*
+⁸⁴ **The four reasons for the exclusive *Sola Fide*.** — Selnecker's schema is paradigm-Lutheran and directly parallels **Melanchthon, *Loci Præcipui Theologici* (1559) *De Iustificatione*** (CR 21:741ff. / MSA II/1:340ff.). Cf. also **Chemnitz, *Examen Concilii Tridentini* (1565-1573), Pars I *De Iustificatione*** — the paradigm Reformation-orthodoxy anti-Trent handbook, structured as a rebuttal of Trent Session VI (1547) canon by canon; and **Apology of the Augsburg Confession Article IV** (*BSLK* 158ff. / *Kolb-Wengert* 120ff.) on the same four-reason apparatus. Note also **FC SD III. 32-45** (*BSLK* 924ff. / *Kolb-Wengert* 565ff.).
+
+⁸⁵ **Chrysostom on Luke 8:50** — the *"only believe"* / *πίστιν εἰσάγωμεν* saying appears in **John Chrysostom, *Homilia in Lucam*** — precise locus not certainly identified; the Latin transmission is via the medieval *Catena aurea* of **Thomas Aquinas** on Luke 8 (*S. Thomae Aquinatis Opera*, Parma 1863, XII:99). The paradigm sixteenth-century transmission is through **Erasmus's *Novum Instrumentum*** apparatus on Luke 8:50.
+
+⁸⁶ **Basil the Great (c. 330-379), *Homilia de Humilitate*** — PG 31:525-540; the *sola fide iustificari* saying is at PG 31:532. Reformation-era transmission via the **1532 Basel Herwagen** edition of Basil's *Opera*.
+
+⁸⁷ **Gregory Nazianzen (329-390), *Oratio* — "de taxias"** — precise locus not certainly identified; the Latin transmission is via the **Wittenberg-Reformation patristic catena** and appears in similar form at **Melanchthon, *Loci* 1559 *De Iustificatione*** (CR 21:735) with attribution to Nazianzen's *Orationes.*
+
+⁸⁸ **Photius of Sirmium** — Selnecker here appears to conflate two Photii: **Photius of Constantinople** (c. 810-891), whose *Amphilochia* and homiletic corpus are in PG 101-104, and the earlier **Photinus of Sirmium** (d. 376), the anti-Trinitarian condemned at the Councils of Sirmium 351 and Constantinople 381. The specific Galatians-3 quotation appears in **Photius of Constantinople's *Amphilochia*** (PG 101:1265ff.) rather than in any extant Photinus text; the *Sirmiensis* attribution in Selnecker's 1579 imprint is a Reformation-era bibliographic confusion.
+
+⁸⁹ **Origen (c. 185-254), *Commentarii in Epistolam ad Romanos* III.3 (PG 14:942ff.)** — the *sola fides iustificat* saying at PG 14:952. The paradigm-Reformation-orthodox transmission is through **Erasmus's 1536 edition of Origen** and later through **Merlin's 1512 Paris edition.**
+
+⁹⁰ **Ambrose (c. 340-397) — but properly *Ambrosiaster*** — *Commentarium in Epistolam ad Romanos* (PL 17:47ff., attributed pseudonymously to Ambrose in the manuscript tradition Selnecker uses). The paradigm-Reformation quotations from *"Ambrose on Romans"* are almost all from *Ambrosiaster,* whose true identity was only settled by **Erasmus's 1527 Basel edition of Augustine** (which noted the *pseudo-Ambrose* attribution). See **Souter, *A Study of Ambrosiaster*** (Cambridge 1905) and **Bammel, *Der Römerbriefkommentar des Ambrosiaster*** (in various *Reihe Judentum und Christentum,* 1963-1970). The *sola fide* citations are all authentic Ambrosiaster and are among the most important Reformation-era *sola-fide* patristic testimonies.
+
+⁹¹ **Hilary of Poitiers (c. 315-367)** — the *fides sola iustificat* attribution — precise locus not identified in Hilary's extant corpus; may be **Hilary, *De Trinitate*** or **Hilary, *Tractatus super Psalmos*** (PL 9-10). Melanchthon similarly cites *Hilary sola fide* in *Loci* 1559 (CR 21:735). The specific dictum may be a Reformation-era Hilarian *florilegium* attribution rather than a verifiable Hilarian source.
+
+⁹² **Victor Poeta** — likely **Claudius Marius Victor** (5th c. Gaul), author of the *Alethia,* a paraphrase of Genesis in three books. The specific Abraham couplet is at *Alethia* II (PL 61:963ff.). Reformation-era transmission via the **1560 Basel Fabricius edition** of Christian Latin poets.
+
+⁹³ **Council of Trent, Session VI (13 January 1547), Canon 9 *De Iustificatione***: *"Si quis dixerit, sola fide impium iustificari, ita ut intelligat, nihil aliud requiri, quo ad iustificationis gratiam consequendam cooperetur, et nulla ex parte necesse esse, eum suae voluntatis motu praeparari atque disponi: anathema sit."* — Latin text in **Denzinger-Hünermann §1559**; English in **Tanner, *Decrees of the Ecumenical Councils*** II:679. Chemnitz's *Examen* Pars I *De Iustificatione* — Section on *Solus vs Sola Fide* — is the paradigm-Lutheran rebuttal of the whole Trent VI apparatus.
+
+⁹⁴ **Selnecker, *Analectus*** (Leipzig 1568, expanded 1572) — one of Selnecker's earlier didactic-doctrinal works, referenced here by cross-reference; a companion to the *Institutio* as a compendium of dogmatic *loci-notes.* Cf. **VD16** S 5559 for the first edition.
+
+⁹⁵ **Luther, *Rationis Latomianae confutatio*** (1521; WA 8:43-128 / *LW* 32:133-260) — the ***Antilatomus,*** Luther's paradigm treatise on the *sola fide* against Jacobus Latomus of Louvain. The *ring/gem* metaphor for faith-and-Christ is a stock Reformation-era Lutheran homiletic image, appearing frequently in **Luther, *Kirchenpostille*** on the Epiphany and Purification-of-Mary pericopes (WA 10/I.1:207ff.).
+
+⁹⁶ **The *analogia geometrica* on Ephesians 4:7** — the paradigm-Melanchthonian rhetorical figure. Cf. **Melanchthon, *Loci* 1559** *De Ministerio* (CR 21:824). Selnecker's *"analogy in geometric-proportion, distributing to each what is congruent to his vocation"* echoes Melanchthon's rhetorical *loci-partitio* method.
+
+⁹⁷ **Augustine on general vs special grace** — cf. **Augustine, *De correptione et gratia* 6-15** (PL 44:921-946); **Augustine, *De praedestinatione sanctorum* 3-11** (PL 44:962-975). The **operating/co-operating** distinction is at **Augustine, *De gratia et libero arbitrio* 17** (PL 44:901).
+
+⁹⁸ **Pelagius (c. 354-420)** and the paradigm anti-Pelagian controversy — condemned at the Council of Carthage (418), Ephesus (431), Orange II (529). Selnecker's *"as today the Jesuits do the same"* is a paradigm sixteenth-century Reformation-era anti-Jesuit polemical trope, deriving from Melanchthon's *Antitheses adversus veterem Ecclesiam* (1552) and reiterated in Chemnitz's *Examen* Pars I. The Jesuit-Pelagian parallel became a standard confessional-Lutheran polemical *topos* through the 1580s-1620s (Selnecker at Leipzig, Hunnius at Wittenberg, later Gerhard at Jena).
+
+⁹⁹ **Augustine, *De gratia et libero arbitrio* 17** (PL 44:901) — *"Deus operatur quidem in nobis velle, sed cum incipimus velle, tunc etiam nostrum est velle."* Also **Augustine, *Enchiridion* 32** (PL 40:248) — *"Nolentem praevenit ut velit, volentem subsequitur ne frustra velit."* These are the paradigm-Lutheran *anti-synergist* Augustinian citations in the FC II framework.
+
+⁹⁹ᵃ **The three Papist grounds for doubt** — Selnecker's tripartite structure of the Papist objection is Chemnitz-*Examen*-standard and appears in **Chemnitz, *Examen* Pars I *De Certitudine Gratiae*** (Preus tr. 1971, I:428ff.).
+
+¹⁰⁰ **The Hebrew *yēṣer sāmûk* / *ποίημα* Isa 26:3 analysis** — draws on **Sebastian Münster, *Hebraica Biblia*** (Basel 1534-1535) on Isaiah, and on **Johann Forster (1495-1558), *Dictionarium Hebraicum novum*** (Basel 1557) — Forster's Hebrew lexicon was the standard Wittenberg-Reformation Hebraist reference-work of Selnecker's generation. Forster taught Hebrew at Wittenberg 1548-1558 and produced the Hebrew apparatus for Luther's late Old Testament lectures. See **Newman, *Jewish Influence on Christian Reform Movements*** (Columbia 1925), ch. 8, on Forster's role.
+
+¹⁰¹ **Council of Trent, Session VI, Canon 13 *De Iustificatione***: *"Si quis dixerit, omni homini ad remissionem peccatorum assequendam necessarium esse, ut credat certo et absque ulla haesitatione propriae infirmitatis et indispositionis peccata sibi esse remissa: anathema sit."* — **Denzinger-Hünermann §1563**. And Canon 14: *"Si quis dixerit, hominem a peccatis absolvi et iustificari ex eo, quod se absolvi et iustificari certo credat, aut neminem vere esse iustificatum, nisi qui credat se esse iustificatum: anathema sit"* — **§1564**. Chemnitz's *Examen* Pars I *De Certitudine* section is the paradigm-Lutheran anti-Trent rebuttal.
+
+¹⁰² **Bernard, *De Fragmentis Septem, Sermo* 3** — precise reference not confidently identified in Bernard's *Opera*; the *charitas adoptionis, veritas promissionis, potestas redditionis* triadic structure is characteristic Bernardine and appears in various forms in his **Sermones in Cantica Canticorum** (PL 183:783ff.) and **Sermones de tempore.** Selnecker's citation matches the *Sermones super quaedam Verba* group in the *S. Bernardi Opera Omnia*, Paris 1544.
+
+⁵⁹⁻¹⁰² *All body superscripts ⁵⁹-¹⁰² are body-endnote-aligned; the four-grades-of-necessity analysis (§§23-24) plus the closing sections are reserved for T3c.*
+
+
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>End of T3a. Continuation deferred to T3b (Locus I §§16-end: Sola-Fide four reasons + patristic testimonies + anti-Papist rebuttal + anti-Osiander + De Secundo/Tertio vocabulis + Christ-hymn close).</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>End of T3b. Continuation deferred to T3c (Locus I §§23-end: 4-grades-of-necessity analysis + closing consolation + De Secundo/Tertio vocabulis + anti-Osiander proper + Rom 5 new-obedience + De Sexto causes + Christ-hymn close).</w:t></w:r></w:p>
 ```
