@@ -1633,6 +1633,12 @@ Then they know that ***in the very temptations and combats faith becomes more il
 
 ¹⁵⁰ **The two-line eulogy of Music as praetaste of eternal life.** — The Wittenberg-Reformation musical-pedagogical topos: *"Music giveth thee a foretaste of eternal life"* — is a paradigm Luther-Melanchthon-Selnecker formulation, drawn from **Luther, *Encomion musices* (Preface to G. Rhau's *Symphoniae iucundae*)** (WA 50:368-374 / *LW* 53:321-324): *"Musica est donum Dei... Musica praelibatio est aeternae vitae."* Selnecker himself was a paradigm-Wittenberg *Kirchenkomponist* — cf. his *Zwei und drei-stimmige geistliche Lieder* (Nürnberg 1587) and his hymn *"Ach bleib bei uns"*. See **W. Blankenburg** in *Handbuch der deutschen evangelischen Kirchenmusik* I/1 (Göttingen 1969) on Selnecker as hymnodist and musical-theologian.
 
+## From Locus II *De Poenitentia* — §7 Errores adversariorum
+
+¹⁵¹ **Gregory Thaumaturgus (c. 213-c. 270) and the *Canonica Epistula*.** — The five-stage penitential regime Selnecker recites — *πρόκλαυσις / ἀκρόασις / ὑπόπτωσις / σύστασις / μέθεξις* — is drawn from Gregory's ***Canonica Epistula*** (PG 10:1019-1048; canon 11 sets out the fivefold framework), which shaped the early-Church canonical-penitential order. Gregory's title *θαυματουργός* (Wonder-worker) and *ἱερομάρτυς* (holy-martyr) traces to the *Vita* by Gregory of Nyssa (PG 46:893-957). Selnecker's *Catalogus Conciliorum* — to which he here alludes — is his own *Recitationes concionum de historia Ecclesiae* (Leipzig 1567-1568), one of the standard sixteenth-century Lutheran conciliar-historical handbooks. The *Confessio Principum adversus Synodi Tridentinae Restitutionem* is the paradigm-Concord-generation Lutheran anti-Trent handbook — probably the **Confessio et responsio principum ac dominorum** (Wittenberg 1560-1563) compiled by Chemnitz and other Wittenberg theologians during the Restitution-of-Trent controversy. Selnecker's own **Analectus** (Leipzig 1568/1572; VD16 S 5559) is the systematic dogmatic compendium to which he cross-references. On the Papist five-grade satisfactionist framework Selnecker refutes here, see paradigm-Lutheran refutation in **Chemnitz, *Examen Concilii Tridentini* Pars II** (Preus tr. 1978, II:611-708) on *De Poenitentia*.
+
+¹⁵² **The Papist penitential-verse tradition.** — The barbarous Leonine-hexameter verses Selnecker cites — *"Poeniteas cito peccator..."*, *"Culparum fontes sunt: fastus, livor, et ira..."*, *"Vestio, poto, cibo..."*, and the rest — belong to the medieval *versified pastoral-manual* tradition of the late thirteenth and fourteenth centuries (paradigms: **John of Garland's *Poenitentiale***, **Alan of Lille's *Liber poenitentialis***; the ***Summae confessorum*** literature). Selnecker's citation of these verses — with his ironic marginal glosses — is a paradigm second-generation Wittenberg pedagogical strategy: *ostensio through recital*, exposing the labyrinthine folk-scholasticism of pre-Reformation confession-manuals so that the students may perceive by contrast the *simplicitas Evangelii*. The paradigm-Reformation critique of the *five satisfactionist grades* (undue works, fraternities, indulgences, purgatorial fire, requiem Masses) is at **FC SD III. 5-24, 30-31** (*BSLK* 917-924 / *Kolb-Wengert* 562-565) and above all in **Luther's *95 Theses*** (WA 1:233-238) which specifically targets the indulgences-and-purgatory apparatus. Cf. also **Melanchthon, *Loci* 1559 *De Poenitentia*** (CR 21:895-908 / MSA II/2:225-242).
+
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
@@ -2355,6 +2361,305 @@ But since today in the exercises of penitence many examples are offered in which
 *(A foretaste of eternal life doth Music give unto thee, in which thou shalt be glad with perpetual song. This refresheth the soul and gathereth the sad limbs, and equippeth the nerves with new strength.)* ¹⁵⁰
 
 **Sixthly**, it must be known that *the outcome of the temptation is most good, and is directed by God unto the confirmation of the faith of the pious* — as David saith: *It is good that Thou hast humbled me, that I might learn Thy justifications.* But of these things — in the doctrine of Predestination, which many today dangerously and without knowledge of faith allege, or even humbly under great temptations afflicted — much more will have to be said.
+
+## §7. Of the Seventh Question — the Errors of the Adversaries concerning Penitence.
+
+Of certain **Novatian** errors we shall discourse below in the locus concerning good works and the distinction of sins. Now certain things must be touched concerning the errors of the **Pontificials** — and that this be done more alacritously, we ought to be exhorted by the purgation of the Evangelical doctrine made through Luther as the organ of God — who indeed took the exordium of his work from the *doctrine of penitence*, which the filth of the Monks and Sacrificers had defiled.
+
+The Pontificials define penitence thus: *"to bewail past sins, and (as they speak) not again to commit the ones to be bewailed, but rather to amend the sins committed with the intimate contrition of the heart and the effusion of tears"* — according to a saying of Paul (which nowhere is extant), which says: *"Sin is not remitted, unless plenary contrition with the satisfaction of works follow."*
+
+They teach that unto penitence there are required: *the knowledge of the sins committed and to be not-committed*; then *sorrow for the sins*; afterward *the intention of not sinning further*. They say that penitence is named as it were *poena tenentia* — because without sorrow and pain true penitence can never come to pass.
+
+They say that penitence is divided in many modes:
+- into **inward** and **outward**;
+- into **solemn**, **public**, and **private**;
+- into **free** and **coerced**;
+- into **actual** and **habitual**.
+
+These varieties they thus define: *Interior* penitence is by natural right; *exterior* is at the arbitrament of man. **Solemn** penitence is that which is imposed by the Bishop or his vicar and is done with the solemnities of the Church. **Public** is that which is done in the face of the Church but not with the solemnities of the Church — as pilgrimages according to some special mode, namely with bare feet or with uncovered head. **Private** is that which is done in secret or can be so done — as to read prayers, to give alms, to fast, to chastise the body. **Free** is that which one freely doth, and is near a sacrament. **Coerced** is that unto which one is coerced, as in a secular judgment, and which properly is not a sacrament. **Actual** is that whereby a man actually satisfieth for sins committed, and unto which not any and every man is bound, but only the sinner. **Habitual** is *the detestation and displeasure of sin either committed or to be committed*, and to which any man is bound, whether he be in the act of sin or not.
+
+The **parts** of penitence they constitute as **three**: *Contritio of the heart, Confessio of the mouth,* and *Satisfactio of the work*.
+
+**Contrition** they thus describe: *Contrition is sorrow assumed by the will with the intent of confessing and satisfying.*
+
+The **distinction between attrition and contrition** they make thus: *Attrition* is a certain displeasure at sin committed, but not perfect. *Contrition* is perfect displeasure with the will of abstaining further. They therefore feign a **twofold sorrow** for sins. One, they say, is *natural*, which is not meritorious, because it proceedeth from the dictate of right reason. Another is *voluntary and actual*, which proceedeth from the will freely assuming sorrow with the intent of confessing and satisfying.
+
+**Confession** they define thus: *Confession is the most-open declaration of sins before the priest.* This they say is **twofold**: *mental*, which is made unto God alone, and is (as they say) *of natural right*; *vocal*, which is made unto man by mouth, of positive or ordained right.
+
+**Satisfaction** they thus describe: *Satisfaction, or to satisfy, is to extinguish or extirpate the causes of sins, and not to indulge access (or approach) unto the suggestions (that is, evil instigations) of these — so that man may have the firm intent never again to commit the sins confessed, nor indeed any others.* Of this satisfaction they imagine as parts, some *primary*, others *secondary*. **Primary** they call *prayer, fasting, and almsgiving*. **Secondary** they name *pilgrimages, vigils, chastisements, and the like — to be reduced unto those primary parts*. For all things spiritual they wish to be referred unto *prayer*; all things afflicting the flesh, unto *fasting*; and all works of mercy, unto *alms*.
+
+These things I simply recite from the books of the adversaries — filled with the *manifold absurdity of words, phrases, and matters*.
+
+In the doctrine of **contrition** they defend two most grievous errors: *that contrition must be sufficient*, and *that this earneth grace or the remission of sins*.
+
+Concerning **confession** they taught that *the enumeration of all offences is necessary*, made *unto the ear of the priest* — and that this enumeration *earneth remission because of the blush and the shame*.
+
+Concerning **satisfactions** they said that *the guilt is remitted for the sake of contrition and auricular confession*, but that *the eternal penalty is changed into temporal penalties*; and that part of these is remitted by the *power of the keys*, part must be redeemed by satisfactions, of which they constituted **five grades**:
+
+1. **Undue works**, as pilgrimages, rosaries, the fasts of certain days.
+2. **Fraternities**, and co-optation into these — whereby the co-opted might be made partakers of the merits with which the Monks abounded; whence certain Emperors wished to be buried in Franciscan garb.
+3. **Indulgences**, which the Roman Pontiff distributed for a certain price — affirming these to be applications of the merits with which the dead Saints could aid others.
+4. **Purgatorial fire** for certain years.
+5. **Vigils and funeral Masses**, whereby souls were redeemed from purgatory.
+
+Here they are utterly silent concerning *faith in the Son of God the Redeemer*, whose *satisfaction is one and full for our sins, enduring eternally* — as it is written: *Christ was offered once to exhaust the sins of many*. And it is *blasphemy and sacrilege* if any man attributeth unto any creature, work, or thing, that glory of satisfaction which belongeth unto Christ alone. For the divine justice is in no way satisfied except by the merit of the Son of God. He himself is the *expiation* for our sins — and not for ours alone, but also for the sins of the whole world.
+
+But those things which are to be rightly held concerning *civil satisfaction and Ecclesiastical chastisement and discipline*; likewise against the figment of *purgatory*; and the errors concerning *sufficient contrition and its merit*, and concerning the *integral enumeration of sins in auricular confession* — of all these we have peculiarly treated in the booklet whose title is *Analectus*, in Tractate 2, numbers 25, 26, 27, and following. And since we deem there is no need of prolix repetition, thither we remit the studious — only adding this one thing concerning the *Ecclesiastical satisfaction*: that **Gregory of Pontus** (Neocaesarean Bishop, once auditor of Origen, called *θεόδωρος καὶ θαυματουργός*, another Moses and *ἱερομάρτυς*), instituted for penitents receiving this satisfaction:
+
+1. First, *πρόκλαυσις* — the weeping — outside the gates of the Oratory.
+2. Second, *ἀκρόασις* — the hearing — within the temple gate.
+3. Third, *ὑπόπτωσις* — the prostration — with the catechumens.
+4. Fourth, *σύστασις* — the standing — with the faithful.
+5. Last, *μέθεξις* — participation — unto communion.
+
+This *order* — of which we discourse at length in our *Catalogus Conciliorum* — will be more useful to consider than to recite the *superstitious figments of Canonical satisfaction*. Concerning these things, however, the studious may read the *Confession of the Princes* against the *Restitution of the Tridentine Synod* — Part 2, on penitence and on the modes of expiating sins. I here shall add, for the studious' benefit, only some verses (for the most part barbarous and rude, which yet were in great esteem) concerning the mode of confessing and doing penitence — that the pious may see with how great darkness and filth the doctrine of penitence had been overlaid, and how entangled in labyrinths, and may give thanks to God for the light of the Gospel restored through the ministry of D. Luther by the benefit of God. ¹⁵¹
+
+### The Barbarous Verses of Penitential Doctrine.
+
+> *Poenitas cito peccator, cùm sit miserator*
+> *Iudex: et sunt haec quinque tenenda tibi:*
+> *Spes veniae — cor contritum — confessio culpae —*
+> *Poena satisfaciens — et fuga nequitiae.*
+> *Ut dimittaris, reliquis peccata remitte,*
+> *His que satisfacies, quos tu laesisse fateris.*
+> *Sperne voluptates, ludos, spectacula mundi,*
+> *Desere consortem pravum, populique tumultum,*
+> *Secretas preces et opus pietatis amato.*
+
+*(Repent quickly, sinner, since merciful is the Judge; and these five things are to be held by thee: hope of pardon — a contrite heart — confession of fault — satisfying penalty — and flight from wickedness. That thou be forgiven, remit the sins of the rest; and satisfy those whom thou confessest to have injured. Spurn the pleasures, the games, the spectacles of the world; desert the corrupt companion and the tumult of the crowd; love secret prayer and the work of piety.)*
+
+**On Contrition:**
+
+> *Omnia peccata plangat contritio vera,*
+> *Scrutans aetates, sensus, loca, tempora, membra.*
+> *Deplorans acta, nolens committere flenda,*
+> *Plangens amissa cum commissis et omissis,*
+> *Offensasque Dei, et quòd fratrem damnificasti.*
+
+*(Let true contrition bewail all sins — scrutinizing ages, senses, places, times, members. Deploring things done, unwilling to commit things to be wept over. Bewailing things lost, together with things committed and things omitted — offences of God, and that thou hast damnified thy brother.)*
+
+**On Confession — that it be true, integral, clean, auricular:**
+
+> *Sit cita, firma, frequens, humilis, spontanea, nuda,*
+> *Propria, discreta, lacrymosa, morosa, fidelis.*
+
+*(Let it be quick, firm, frequent, humble, spontaneous, bare, proper, discreet, tearful, deliberate, faithful.)*
+
+Where **firm** = with hope; **bare** = manifest; **proper** = of one's own sins; **deliberate** = not hurried, but pronounced distinctly and slowly.
+
+> *Poeniteas plenè, si verè poeniteat te,*
+> *Non per legatum, nec per breve* [i.e., a letter], *sed refer ipse,*
+> *Compatienti plus sapienti dic meliori.*
+> *Presbyteris multis prodest si confitearis.*
+> *Copia Presbyteri si desit, pande sodali.*
+> *Corporis ut maculas, animae sic crimina pandas.*
+> *Carnea sunt periuria, crapula, furta, libido.*
+> *Mente latet livor, rancor, tumor, ira, cupido.*
+> *Praecipuè pestes septem memores capitales,*
+> *Non solum fontes, sed rivos inde fluentes.*
+> *Fonte suo rivus magis est quandoque nocivus,*
+> *Unde Loth incestus peior fuit ebrietate,*
+> *Atque Cain gravior caedes fraterna furore.*
+
+*(Repent fully, if truly it repenteth thee: not through a legate, nor through a note [i.e., a letter], but relate it thyself — say it to a better, more compassionate, more wise one. It profiteth if thou confess to many presbyters. If the copiousness of presbyters be lacking, disclose to a comrade. As thou disclosest the stains of the body, so also disclose the crimes of the soul. Carnal are the perjuries, gluttony, thefts, lust. In the mind lie hidden envy, rancour, swelling, wrath, cupidity. Remember chiefly the seven capital plagues — not the sources only, but the rivers flowing from them. And sometimes the river is more noxious than its own fountain — whence in Lot incest was worse than drunkenness, and in Cain fratricide graver than fury.)*
+
+**The Seven Capital Sins and their species:**
+
+> *Culparum fontes sunt: fastus, livor, et ira,*
+> *Accidia atque Venus, Sordes, Luxuria, Venter.*
+
+*(The fountains of faults are: pride, envy, and wrath, sloth, lust, filth, luxury, belly.)*
+
+Where **ἀκηδία** — vulgarly *accidia* — is *sloth and tedium, or sadness aggravating the soul of man* — that is, *torpor and languor of the soul*.
+
+**I. Species of Pride (nine):** Boasting, arrogance, vainglory, hypocrisy, impatience, contempt, mockery of others, displeasure, simulation.
+
+**II. Species of Envy:** Detraction of things or of goods; *ἐπιχαιρεκακία* (rejoicing in another's evil); evil words; imprecation; disparagement.
+
+**Species of Wrath:** Contention, quarrel, evil words, disparagement, machination, disobedience, oppression, blasphemy, captiousness in words, irritation, suspicion, beating, hatred, revenge, homicide, rendering evil for good.
+
+**III. Species of *Accidia*:** Ignorance of God, inconstancy, laziness, negligence of benefits, sleep at the time of the ministry, idleness, despair, foolish location, excessive sadness in adversity, care of the soul for temporal things.
+
+**IV. Species of Sordes (avarice):** Usury, theft, rapine, simony, lying, infidelity, fraud, machination, non-payment of debts, appetite for others' goods, force, tyranny, perjury.
+
+**V. Species of Luxury (Venus):** Incest, fornication, defloration, rapine, adultery, provocation, luxury, nocturnal pollution, consent, concupiscence, violation of sacred things.
+
+**VI. Species of Belly (gluttony):** Buffoonery, drunkenness, vomits of the drunken, prohibited games, abuse of sacred time, disordered eating, contempt of the ministry.
+
+These being enumerated and often expounded in sermons by the Monks and Scholastic Doctors — with almost no connection of words or matters — they returned unto the recitation of their verses concerning **Confession**, namely:
+
+> *Cum sic divisim mortalia dixeris uni,*
+> *Cuncta simul dices comitantia crimina fassus.*
+> *Dic circa factum committere quod voluisti.*
+> *Dic venialia, dic quae sunt à mente relapsa.*
+> *Dic quaecunque tenes, generaliter omnia pande.*
+> *Nil praetermittas: dic omnia, singula planè.*
+> *Nam reus est certè, qui cum peccata fatetur,*
+> *Singula non dicit. Nihil hic dixisse videtur.*
+> *Usque ad postremum si* puré *quis fateatur,*
+> *Inde tacere potest, quicquid redit aut comitatur.*
+
+Where *puré* means: *if once a man hath confessed all things, there is no need afterwards always to institute the enumeration of all things, but it sufficeth to indicate those things which come back to memory and which now have been done.*
+
+**Circumstances aggravating sin:**
+
+> *Aggravat: ordo, locus peccata, scientia, tempus,*
+> *Aetas, conditio, numerus, mora, copia, causa.*
+> *Est modus in culpa, status altus, lucta pusilla.*
+
+*(These aggravate the sins: rank, place, knowledge, time, age, condition, number, delay, opportunity, cause. There is a mode in fault, high status, small struggle.)* That is: a Bishop sinneth more gravely than a Presbyter — for this is *rank*. And a sin becometh graver in the temple than elsewhere — for this is *place*. A wise man sinneth more than a foolish — for this is *knowledge*. A sin becometh graver on feast days and in fasts than at other times — for this is *time*. Likewise: an old man sinneth more than a young; a spouse more than a maidservant, and so forth.
+
+**On the Sick:**
+
+> *Aeger poeniteat, culpas quoque confiteatur:*
+> *Huic non imponatur poena, sed insinuetur.*
+> *Hanc tamen implebit, si firma salus sibi detur.*
+> *Si migret, absolvat contritum Presbyter aegrum,*
+> *Hunc que preces relevent, ieiunia, dona suorum.*
+
+*(Let the sick man repent and confess his faults. Let no penalty be imposed on him, but only insinuated. Yet this he shall fulfil, if firm health be given him. If he depart, let the Presbyter absolve the contrite sick man, and let him be relieved by the prayers, fasts, and gifts of his own.)*
+
+Here the three keys — **Prayers, Fasts, Alms** — hover in the margin. Then:
+
+> *Ut sit poenae rubor tibi vilis, ut efficiaris*
+> *Doctior, vt fias, iniungitur, ut fatearis.*
+> *Iudicio teget extremo* Confessio *culpas,*
+> *Ne videat Deus, aut daemon, vel qui facit illas.*
+
+Where *Confessio in extremo iudicio tegit peccata* — *"Confession at the last judgment covereth sins."*
+
+> *Confessor dulcis, affabilis, atque benignus*
+> *Sit sapiens, iustus, sit mitis, compatiensque,*
+> *Ut crimen proprium celet peccata reorum.*
+> *Sit piger ad poenam, sit velox ad miserandum,*
+> *Et doleat, quoties facit illum culpa ferocem.*
+> *Infundatque oleum mulcens, vinum que flagellans,*
+> *Nunc virgam Patris, nunc praebeat ubera matris,*
+> *Sibilet et cantet, stimulet dum cogit oportet.*
+
+*(Let the confessor be sweet, affable, and benign; let him be wise and just; let him be mild and compassionate — that he may hide his own crime as if it were the sins of the accused. Let him be slow to penalty, quick to compassion; and let him grieve whenever fault maketh him fierce. Let him pour in soothing oil and flogging wine; now the rod of the father, now the breasts of the mother; let him hiss and sing; let him prick when it is necessary to compel.)*
+
+**Augustine:** *"I know nothing less than what I know in Confession."*
+
+> *In primis quaerat contritus quomodo credat,*
+> *Si credat sano corde, fateatur et ore.*
+> *Post haec quaerantur peccantis vulnera cautè.*
+> *Contra naturam, culpam non exprimat ullam.*
+> *Ne super enormi (simplex si conveniatur*
+> *De quo nil scivit) ad agendum sic moveatur.*
+> *Uxor adulterii rea Confessore perito*
+> *Sic luat admissa, ne sit suspecta marito.*
+> *Saepius admoneat confessor, ne recidivent.*
+> *Quando relabantur, moneat quò confiteantur.*
+> *Omnis amans (loca sola nocent) loca sola caveto,*
+> *Et vitet causas ad lapsus allicientes.*
+> *Solicitè poenam complere satisfacientem.*
+> *Os servent cautè sensus cum pectore renes.*
+> *In pravos casus horum proclivior usus.*
+> *Hoc est difficile magis et servare necesse est.*
+> *Ut que foris iudex per personas prohibetur*
+> *Flectere iudicium: medicus variare medelas:*
+> *Sic anima iudex odio caveat vel amore*
+> *Offensas poenis onerare vel alleviare.*
+> *Ecclesiae mores et Patrum scripta sequatur.*
+> *Sitque modus poenae iuxta moderamina culpae,*
+> *Et tanto levior, quanto contritio maior.*
+
+*(First let the contrite one seek how he believeth; if he believe with sound heart, let him also confess with mouth. Afterwards let the wounds of the sinner be sought cautiously. Concerning things against nature, let him not express any fault. Lest concerning some enormity — if a simple person be questioned about which he knew nothing — he be moved thereby to do it. Let the wife guilty of adultery expiate her offences with a skilled confessor, lest she be suspected by her husband. Let the confessor often admonish, lest they relapse. When they relapse, let him admonish that they confess. Let every lover (lonely places do harm) beware lonely places, and shun the causes alluring to lapses. Let him be solicitous to complete the satisfying penalty. Let mouth, ears, and eyes, and heart and reins be cautiously kept. In depraved cases the use of these is more prone. This is more difficult, and it is needful to keep. And as the judge in the outer court is forbidden by the persons to bend judgment, and the physician to vary his remedies — so let the judge of the soul beware, out of hatred or love, to weigh down offences with penalties or to lighten them. Let him follow the mores of the Church and the writings of the Fathers. And let the mode of penalty be according to the moderation of the fault — and as much the lighter, as the contrition is the greater.)*
+
+**Comparison with medical remedies:**
+
+> *Ut medici curant vario medicamine corpus,*
+> *Ut sanant febres, ut vulnera, sive tumores,*
+> *Sic animae varias aegrae poscunt medicinas.*
+> *Opponas igitur animae contraria morbis.*
+> *Invide livorem removeto, superbe tumorem.*
+> *Sobrietas que gulam, patientia comprimat iram.*
+> *Amoveat laesus rancorem, taediaque aestus.*
+> *Potus aquae redimat excessus ebrietatis.*
+> *Carnis delitias castiget virga flagellans.*
+> *Ut benè poeniteat, ablatum praedo reporter.*
+
+*(As physicians cure the body with varied medicine — how they heal fevers, wounds, and swellings — so the sick soul demandeth varied medicines. Oppose therefore unto the soul things contrary to its diseases. Let the envious remove envy; the proud, swelling. Let sobriety compress gluttony, and patience wrath. Let the wounded put away rancour, and heats of anger. Let a draught of water redeem the excesses of drunkenness. Let the whipping rod chastise the delicacies of the flesh. That he may well repent, let the robber return what he hath taken.)*
+
+**The seven corporal Works of Mercy:**
+
+> *Vestio, poto, cibo, tectum do, visito, solvo, commodo,*
+> *Compatior, converto, dono, remitto, arguo, supplico,*
+> *Consulo, do quodcunque talentum,*
+> *Flecto genu, vigilo, ieiuno, laboro, flagello,*
+> *Vestis dura, pedes nudo, terror, peregrinor,*
+> *Poeniteo, lego, ploro, precor: caro sic maceratur.*
+
+*(I clothe, give drink, feed, give shelter, visit, loose, lend, sympathize, convert, give, remit, reprove, entreat, counsel, give whatever talent I have; I bend the knee, keep vigil, fast, labour, flog; my clothing is coarse, my feet bare, I fright, I go on pilgrimage, I repent, I read, I weep, I pray — thus is the flesh subdued.)*
+
+Otherwise the seven **corporal** works of mercy they recite:
+
+> *Visito, poto, cibo, redimo, tego, colligo, tumbo.*
+> *(I visit, give drink, feed, redeem, cover, gather, entomb.)*
+
+And the seven **spiritual**:
+
+> *Corripe, suade, doce, solare, remitte, fer, ora.*
+> *(Correct, persuade, teach, console, remit, bear, pray.)*
+
+The **Monks** thus numbered the works of mercy:
+
+1. To clothe the naked.
+2. To give drink to the thirsty.
+3. To feed the hungry.
+4. To receive the poor and pilgrims into hospitality.
+5. To visit the sick.
+6. To liberate the captives.
+7. To lend.
+8. To sympathize.
+9. To convert the erring.
+10. To give alms.
+11. To pardon.
+12. To reprove and admonish fraternally.
+13. To be present with counsel.
+14. To entreat that offence be remitted.
+15. To give a gift according to one's ability, or at least to be human in words.
+16. To prepare oneself reverently and humbly for adoration.
+17. To keep vigil in good works.
+18. To fast for the love of God, not for other causes — of which is said:
+
+> *Ieiunat fictus, bonus ut populo videatur.*
+> *Ieiunat parcus, ne res sua diminuatur.*
+> *Ieiunat medicus, ne morbus ei dominetur.*
+> *Ieiunat virgo, quòd sit formosior ergo.*
+> *Ieiunat iustus, ut iustitias mereatur.*
+
+*(The hypocrite fasteth, that he may seem good unto the people. The niggardly fasteth, lest his goods diminish. The physician fasteth, that disease may not lord over him. The virgin fasteth, that she may become more comely. The just fasteth, that he may deserve righteousnesses.)*
+
+19. To labour in the works of one's vocation.
+20. To flog the body.
+21. To be clothed in vile and rough habit.
+22. To go with bare feet.
+23. To be sad of soul and contrite.
+24. To go on pilgrimage, and to obtain indulgences.
+25. To satisfy.
+26. To read the Canonical Hours.
+27. To weep.
+28. To pray for enemies and for others.
+
+**On the penalty to be imposed on the confessant:**
+
+> *His quoque confessis, quae sunt iungenda notabis,*
+> *Publica sit poena, fuerit si publica noxa.*
+> *Si lateat, licet enormis, lateat quoque poena.*
+> *Quando quis occultè peccavit, poeniteat clàm.*
+> *Singula Confessor prudentius ut meditetur,*
+> *Affectus, causa, vitium, persona notentur.*
+> *Ad Dominum festinandi sint haec tibi causa:*
+> *Ignis purificans, mors, aegritudo, ruborque,*
+> *Et poena gravitas, et consuetudo ruina.*
+
+*(These things having also been confessed, note what things are to be added: let the penalty be public, if the offence hath been public. If it lieth hidden — even though enormous — let the penalty also lie hidden. When any one hath sinned in secret, let him do penance in secret. Let the Confessor consider each thing more prudently: let affection, cause, vice, person be noted. Let these be the cause of thy hastening unto the Lord: purifying fire, death, sickness, and blush; and the gravity of penalty, and habit — the ruin.)*
+
+Such then is the doctrine of penitence which the **Monks and Sacrificers** prescribed unto those confessing and satisfying (as they spoke) — with great damage of consciences. And we have recited these things only for this cause: that the boys too, who have received the catechetical doctrine from the writings of Luther and Philip, may give thanks unto God for the light of the Gospel, and may pray Him that He confirm what He hath wrought in us, and preserve the purity of doctrine, and sanctify us in His truth — that we may not fall back into the old *κυβεία* [dice-cheating] and into labyrinths and darkness.
+
+Now — all these things being set aside — that we may return unto those things which are perspicuously, rightly, and profitably delivered in our Churches and Schools, we shall expedite the **Eighth Question** concerning Confession, Absolution, and the Cross of the Church. ¹⁵²
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
