@@ -1671,6 +1671,10 @@ Then they know that ***in the very temptations and combats faith becomes more il
 
 ¹⁶⁵ **The 3-causes framework and Clement of Alexandria on synergy.** — The paradigm Lutheran-Orthodoxy *tres causae rectae actionis* — Word of God + Holy Spirit + human will regenerate not resisting — is a paradigm-Wittenberg formulation used in the FC II resolution. The Clement of Alexandria citation is from **Clement, *Stromata* I.20** (PG 8:809f. / SC 30:120ff.) on the *συνεργός* framework. The Pauline *"θεοῦ γὰρ ἐσμὲν συνεργοί"* is at 1 Cor. 3:9 — the paradigm New Testament *sedes* for the *cooperator-Dei* framework. The **Bernard "non fidei sed perfidiae"** dictum is at **Bernard, *De diligendo Deo*** and **Sermones in Cantica** — a paradigm Bernardine formulation transmitted through the Reformation-era anti-securitas tradition.
 
+## From Locus III *De Libertate Christiana* + De Praedestinatione (Theses I-XXV)
+
+¹⁶⁶ **Christian Liberty — the Anabaptist deviation and Luther's Galatians framework.** — Selnecker's polemic against those who abused Christian liberty for *carnal licence, plundering of ecclesiastical goods, polygamy, and Decalogue-contempt* targets the **Anabaptists** (especially the Münster Rebellion of 1534-35 under Jan van Leiden) and the later **Antinomian-libertine** developments of the Radical Reformation. The paradigm-Lutheran framework of the *four grades of Christian liberty* — *Gratia + Donum per Gratiam + Liberatio a caeremonijs + Liberatio a traditionibus humanis* — traces to **Luther, *In Epistolam ad Galatas Commentarius (1535)*** (WA 40/I:640-702 / *LW* 26:428-461) on Gal. 5. Cf. also **Melanchthon, *Loci* 1559 *De Libertate Christiana*** (CR 21:990-1006 / MSA II/2:395-411). The four-grade scheme is codified in **FC SD X *De Adiaphoris*** (*BSLK* 1053-1063 / *Kolb-Wengert* 635-640), which Selnecker co-authored.
+
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
@@ -3364,5 +3368,99 @@ O eternal Father of our Lord Jesus Christ, together with Thy Son and the Holy Sp
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI SECUNDI DE POENITENTIA.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+# Locus III. De Libertate Christiana · On Christian Liberty.
+
+**Christian Liberty** is not named *licence*, or *dissolution*, or *the confirmation of security*, or *the neglect of laws and discipline* — as many secure and Epicurean have thought, that the doctrine of Christian liberty establisheth *carnal licence of living at pleasure, of plundering ecclesiastical goods, of coupling to oneself many wives, of contemning all Mosaic Laws and even the Decalogue itself*. So certain Princes and Doctors have abused the doctrine of Christian liberty — saying that Moses ought to be sent to the gallows, prohibiting the Law from being taught, polluting themselves with various commixtures, taking away the authority of the magistrate — as the Anabaptists have done. Against these foul dreams, let us know:
+
+**First**, Christian liberty is not political, civil, carnal, and secure liberty (of which rightly is said: *"O love of liberty, how thou deceivest a foolish world!"*) — but is a **spiritual manumission**, procured by the blood of the Son of God, which the Gospel offereth unto believers in Christ.
+
+**Secondly**, this Christian Liberty consisteth *in the liberation from sin and from the malediction of the Law, and in the donation of the Holy Spirit* or *vivification* — efficacious for performing those works which the spiritual life requireth. Likewise, in **liberation not only from the Mosaic rites but also from all human traditions**, as far as concerns the conscience.
+
+Rightly therefore is Christian Liberty defined thus: **Christian Liberty is a spiritual manumission, procured by the blood of Christ, which the Gospel offereth unto those believing in Christ — through which we, being freed from sin, from the damnation of the Law, and from human rites, are endowed with the Holy Spirit for pacifying our consciences and being instructed with true consolation in every cross — certain that our Liberator will shortly snatch us out of all evils.**
+
+### The Four Grades of Christian Liberty.
+
+Four grades of Christian liberty are recited — joined indeed by nature, but for teaching's sake to be distinguished, which consist in the merit and efficacy of Christ.
+
+**The First Grade is called Grace** — that is, *liberation from sin, from the wrath of God, from the malediction of the Law, from eternal condemnation*. As it is written Rom. 8: *The law of the Spirit of life through Christ Jesus hath made me free from the law of sin and death.* And Gal. 3: *Christ hath redeemed us from the curse of the Law.*
+
+**The Second Grade is Gift-through-Grace** — that is, *the efficacy of the Son of God in believers, or the donation of the Holy Spirit, vivification, consolation, inception of new obedience, defence and preservation of the Church, and mitigation of calamities*. This liberty is *liberation from the works of the flesh* (that we may not indulge in them), *and from legal fear-sorrow, from despair, and from the tyranny of the world*. For it is written 2 Cor. 3: *Where the Spirit of the Lord is, there is liberty.*
+
+**The Third Grade is from Ceremonies and forensic Mosaic Laws** — which, the Mosaic polity being now abolished and the types and figures ended, bind no one, as above in the doctrine of the Law has been said.
+
+**The Fourth Grade is liberation from human traditions in the Church**. For no creature is permitted to institute worship of God, or a new law not agreeing with the divine Law. For it is written: *In vain do they worship me by the mandates of men*. And Col. 2: *Let no man judge you in food, drink, or on the alternation of the festal days.* But the distinction of times and lessons in the Church — which for order's sake because of public assemblies must be retained — is to be made without an opinion of worship and of necessity unto salvation. For outside the case of scandal such rites can without sin be omitted, as below on Ceremonies shall be said.
+
+Whenever the discourse of Christian Liberty is instituted, always let there be held and considered the saying of Christ, John 8: *If the Son shall make you free, ye shall be truly free.* **Truly**, He saith — not in an empty title or in a shadow of liberty, but in fact: *sin abolished, the wrath of God appeased, death done away, all human calamities taken away, eternal righteousness, light, life, and glory bestowed*. For Christ embraceth the *integral liberty*, which He hath brought and begotten for His Church by His death. And with this liberty (which is of grace) is always joined the *liberty of gift*, which in this life is incepted, but in the resurrection shall be integral — when, all evils being blotted out, the Church shall enjoy the eternal and sweet familiarity of God and of our Saviour Jesus Christ. Unto that eternal and in consummation-heavenly integral liberty let us look with the mind, as often as we hear the name of Christian Liberty — and simultaneously let us think that it is *incepted in this life*.
+
+Let us also remove the *dreams of the Jews* concerning political liberty and empires. Above also in the doctrine of the Kingdom of Christ we have shown the distinction between mundane empires and the liberty which the Gospel proposeth. Of this whole doctrine we remit the Reader to the *Loci Communes of D. Philip our Preceptor* — in the first place to the *sermons of D. Luther on the fifth chapter of the Epistle to the Galatians*, where is expounded this saying: *In the liberty wherewith Christ hath made us free, stand* — that is, *be ye firm*. And of Peter: *Be ye sober and vigilant.* ¹⁶⁶
+
+Let us also execrate the figments of the *Libertines, Anabaptists, and Monks*, who say that only certain rudiments are contained in the sacred letters, and that one can choose certain kinds of holy life, and perform *works of supererogation*, and even (without the Word and mandate of God) write new Decalogues and live at will. Let us know these all — partly vain, partly plainly blasphemous — and pray the Son of God that He preserve for us the liberty procured by His blood, and by the liberty consummated at length by His coming grant us to celebrate Him with free and spontaneous Spirit, without any sin. Amen.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## DOCTRINA DE PRAEDESTINATIONE — On the Doctrine of Predestination.
+
+The universal doctrine of the providence and predestination of God — comprehended in certain themes and once set before the studious of piety — it pleaseth me now to recapitulate in this place.
+
+**I.** **The Providence of God is an action of the divine will**, whereby God not only seeth and knoweth all things past and future, but also sustaineth, governeth, and moderateth the things by Him conditioned, and the order by Him instituted — and imparteth unto His work *light, motion, and life*.
+
+**II.** Although many furiously deny that there is providence, yet against this delirium of the Epicureans God confirmeth us — both by Scripture and by illustrious testimonies of nature — and convinceth us to confess that there is providence.
+
+**III.** Manifest and most certain testimonies of providence are: *the whole theatre of the entire nature of things, the very figure of the world, the sky, the lights, the order of motions, the alternations of times, the earth's site and fecundity, all things arising from the earth, the variety and perpetuity of species, propagation, the mode of generation, man himself* ὁ μικρόκοσμος, *and the very minds of men — and in these the knowledge concerning God, the distinction of the honest and shameful, the judgment of conscience in things done rightly and otherwise, the regular events by which atrocious offences are followed by atrocious punishments*. Likewise, *the wondrous signs added to the bodies of the slain, which point out the authors of murders, the heroic motions by which empires and arts are restored, the significations of future things (as predictions of the change of kingdoms), and prodigies*, and other similar many testimonies in nature — of which some are more, others less illustrious.
+
+**IV.** These testimonies are not overturned by the *inequality of judgment* which some object — namely, that tyrants and other impious often live impune and have bloodless ends (as the elder Dionysius, Sulla, Tiberius, and others), while the good and just often live miserably and are put to death.
+
+**V.** Rightly Isocrates saith: *The rule is not overturned by few and rare examples*; and *because of a few examples one is not to hope for impunity*.
+
+**VI.** In the Church we know this very *dissimilitude* is a *testimony of the future judgment* and *of immortality* — in which the just distinction of good and evil shall remain.
+
+**VII.** We execrate therefore the madness of the Epicureans who *remove God from governance*, and ascribe the cause of good and evil events only to *matter or the will of men, or fortune or chance*.
+
+**VIII.** We do not indeed altogether exclude from all events the *matter and will of men*, but we constitute God as the *first Governor of things*, unto whom human affairs are a care, and who heareth and preserveth His own — even when *secondary causes* fail — He who also holdeth all secondary causes under Himself, and either moderateth them by His will, or by *certain permission* alloweth them to act.
+
+**IX.** Rightly and customarily are numbered **six principal causes** when we speak of human actions and of the events which befall men: (1) *God*, either immediately without secondary causes or mediately acting something; (2) *The stars*; (3) *Temperaments*; (4) *The will of man, morals, zeals, education, and discipline*; (5) *The fury and potency of devils in impelling the impious*; (6) *External violence*.
+
+**X.** Although the human mind hath certain arguments *proving that God is present as Moderator*, yet the assent is more difficult and languid than when it is convinced *that the world hath been made by God*.
+
+**XI.** By divine testimonies therefore faith must be *stirred up and confirmed* in the souls — without which human assent is very languid, as we see even in Aristotle and in others.
+
+**XII.** The sacred letters set before us **three grades or modes of providence and divine administration**.
+
+**XIII.** **The first grade** (for teaching's sake) can be named ***universal Providence***, by which God preserveth safe the whole nature by Him conditioned, and the inclination and mode of acting of nature — that is, the order of motions, the alternations of times, the fecundity of the earth, of animals, and other things useful and necessary for the sustentation and preservation of life.
+
+**XIV.** Of this first mode the sacred letters speak in many places — as Ps. 104, which is entirely a thanksgiving for the creation and preservation of things, from whose perpetuity (as Augustine speaketh) — that is, from their preservation and duration — is known in some way *the eternity of God*; and from the magnitude of the power of God, from the order and disposition of the wisdom of God, from the governance, *the goodness and justice of God*. Matt. 10: *Two sparrows are sold for a farthing, and one of them falleth not upon the ground without your Father.* Acts 17: *In Him we live and move and are* — that is, *through Him our life is given, sustained, and cherished*. Col. 1: *In Him all things consist*. 1 Tim. 6: *ὁ θεὸς τὰ πάντα ζωοποιεῖ*. Heb. 1: *φέρει τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ*. Hither pertain also many sayings in the Psalms — Ps. 24: *The earth is the Lord's and the fulness thereof* — Ps. 33: *He gathereth the waters of the sea as into a wine-skin, and layeth up the deeps in treasures* — Ps. 74: *Thine is the day and Thine is the night; Thou hast made the light and the sun, Thou hast fashioned all the bounds of the earth; summer and winter, Thou hast formed them*. Ps. 145: *The eyes of all wait upon Thee, O Lord, and Thou givest them meat in due season*.
+
+**XV.** **The second grade** can be named ***special Providence***, by which God not only *seeth and heareth all things*, and is *everywhere*, and sustaineth and preserveth the nature by Him conditioned — but *moreover so moderateth all things according to His will* that all creatures obey Him commanding and willing, and execute His mandate, and serve God — that they may be instruments *either of the goodness of God, or of His justice and judgment*, according to the *promises and comminations* set before us in the Word.
+
+**XVI.** For we must not look to the *Stoic necessity*, which errs in two ways: (a) *because it bindeth God to the secondary causes* and feigneth that He cannot act otherwise than those causes know; (b) *because it saith the will of men is simply impelled by God unto good and evil*, and thus constituteth God the *author of evils*.
+
+**XVII.** Since this false opinion is contumelious against God and hurts the morals and life of men, it ought not to have place in the Church or in any assembly of honest and good men — nor must we look to the Stoic necessity in events, but to the promises and comminations of God.
+
+**XVIII.** For God, by a certain *special providence* of His own, addicteth creatures unto His obsequy, and useth their ministry according to His good and just will — which effecteth both *goods* and *evils of punishments* (as rains, thunders, ices, hails, droughts, inundations of waters, *λιμόν καὶ λοιμόν* [famine and pestilence], war, exiles, peace, abundance or lack of things, and countless similar things) — by which He either aideth His own, or punisheth the evil, or chastiseth the pious.
+
+**XIX.** Of this obedience of creatures to the nod and will of God Sirach saith (Ch. 39): *ἐστὶ πνεύματα ἃ εἰς ἐκδίκησιν ἔκτισται, καὶ ἐν θυμῷ αὐτῶν ἐστερέωσε μάστιγας αὐτῶν* — *There are winds or spirits ordained for punishment, and by their impetus they smite; and when calamity impendeth, then they tumultuate and blast the earth with whirlwind, and execute the wrath of Him who created them. Fire, hail, hunger, death — all these have been created for vengeance; beasts, scorpions, serpents, sword — are also created for vengeance, for destroying the impious — which, as rejoicing, energetically perform His mandate, and are prompt if ever God wills to use their operations on the earth; and when the hour cometh, they cease not.*
+
+Hither be referred those sayings: Isa. 45: *I am the Lord, making peace and creating evil* — that is, *destroying the impious and punishing the contumacious*. Likewise Amos 3: *There is no evil in the city which the Lord hath not done.* Zeph. 1: *The Lord doth well and evil.*
+
+**XX.** For there are to be held in the Church for teaching's sake the appellations *malum culpae* and *malum poenae* — which Augustine also useth — and which in the sacred letters are expressed by the voice *Raah*: which sometimes signifieth *culpa* (that is, *sin itself and vitium* opposed to *justice and honest good*); sometimes *poena* (justly imposed upon the offenders — opposed to the good or useful or sweet, or to both).
+
+**XXI.** From God we by all modes remove **the evil of guilt**, who by nature is good, and neither willeth nor approveth nor aideth sin — as expressly it is written Ps. 5: *God, willing not iniquity, art Thou.* Likewise: *He who doeth sin is of the Devil.* Likewise: *All the ways of the Lord are mercy and truth.*
+
+**XXII.** But **the evil of penalty is from God** — as Lam. 3: *Who is he that saith it is done, the Lord not commanding? Do not both evils and goods proceed from the mouth of the Most High? Why doth the living man murmur? Let him murmur against his own sins. Let us search our ways, and seek Him and return unto the Lord.*
+
+**XXIII.** This distinction of words most greatly profiteth us for retaining the true sentence, founded in the express Word of God, in which God hath clemently and evidently patefacted His will (as far as it was necessary for us to know) — lest we err from the way and true target of truth, unto scrutinising the inscrutable, but that we retain the Word of God as a lamp unto our feet, and in events consider the divine promises and comminations.
+
+**XXIV.** We often fall into diseases; often we undergo other perils, horrid tempests, thunders, famine, wars, seditions, exiles, and the like evils. Thieves are strangled, homicides beheaded, robbers and ravishers are put on the wheel, and others suffer other punishments for enormous crimes. Today the savagery of the Turks must be feared — and certainly atrocious punishments remain, which shall come upon us, our bodies, goods, faculties, families, and without doubt Churches and schools.
+
+**XXV.** In these things we must look not to the *Stoic necessity*, or only to certain unknown *secondary causes*, but to the *divine promises and comminations* — such as are Prov. 3: *Poverty is in the house of the impious from the Lord, but the habitations of the just shall be blessed.* 1 Sam. 2: *Whoever shall honour me, I will glorify him; but those who contemn me shall be ignoble.* Ps. 107: *Fools are afflicted because of the way of their crimes and iniquities.* Likewise: *The impious and bloody shall not halve their days* (Ps. 45). Hos. 2: *She knew not that I gave her corn; therefore will I take away my corn again.* Prov. 10: *He who curseth his parents, his light shall be extinguished in the midst of darkness.* And Lev. 20 God threateneth *extermination from His people* upon the wicked. Hither pertain all the *ἐπιτιμητικαί* discourses of the Prophets (whereby they upbraid lapses), and *ψεκτικαί* (whereby they reproach improbity), and *ἀπειλητικαί* (whereby they threaten and inject fear), and *μεμπτικαί* (whereby they desire in us the offices of piety and vocation), and *ὀνειδιστικαί* (whereby they object our ingratitude and contempt of the divine Word), and *κατηγορικαί* (whereby they reprove sins of every kind, evil examples, and not only external lapses, wickedness, and manifest malice, but also *internal evils*).
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:color w:val="666666"/></w:rPr><w:t>[T5-Continuation: De Praedestinatione theses XXVI-end, and Loci IV-VI, reserved for audit-tranche continuation from OCR line 11340 onward.]</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
