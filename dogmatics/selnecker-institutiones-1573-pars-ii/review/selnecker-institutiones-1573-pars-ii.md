@@ -5204,3 +5204,172 @@ Yet the **Baptism of John differeth from the Baptism of Christ — not in ceremo
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+### Of the Seventh — Unto What End Baptism was Instituted.
+
+The circumcision of the Old Testament having been taken away, God willed that the *initiation of the New Testament should be Baptism* — instituted **unto the mersion** (that is, the *abolition of sin* through the blood of the Son of God), and **unto the emersion** (that is, *righteousness and innocence before God, and resurrection both from sins unto righteousness, and from death unto life*) — as a little later we shall more plainly show.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Eighth — Of the Twelve Ephesians, Acts 19.
+
+There are some who not only say that the discrimination of the Baptism of John and of Christ [is] in the effect of the external ministry, but also affirm that those who were previously baptised by John *were newly baptised by the Apostles* — from the allegation of the twelve Ephesians. But the false opinion of these is refuted by the construction of the text, which is thus:
+
+> *Paul finding certain disciples said unto them: Have ye received the Holy Spirit since ye believed?* (Namely, given to you by visible species.)
+>
+> *And they said unto him: But we have not so much as heard whether there be a Holy Spirit* (that is, whether with manifest revelation conjoined with testimonies of miracles the Holy Spirit be poured out).
+>
+> *And he said unto them: Into what therefore have ye been baptised?*
+>
+> *They responded: Into John's baptism.*
+>
+> *And Paul said: John indeed baptised with the baptism of penitence, saying to the people that they should believe on Him who was to come after him — that is, on Christ Jesus. But hearing (namely John — for here the particle δὲ answers to the prior τῷ μὲν), they were baptised into the Name of the Lord Jesus* (namely, ὁ λαὸς, χριστοῦ ὄνομα, ἀκούσαντες, as also before, ἵνα πιστεύσωσι).
+
+Hitherto therefore the discourse of Paul, in which there is no mention of *rebaptisation*. Now there is subjoined the narration: *And Paul imposing hands on them, the Holy Spirit came upon them*, etc.
+
+But those who wish that the twelve Ephesians were baptised by Paul — and refer *τὸ, ἀκούσαντες δὲ* not to *λαὸς* but to the Ephesians themselves — that they may not seem to wish to confirm *iteration of Baptism*, deny that the Ephesians had previously been baptised by John, and explicate these words (*Into what have ye been baptised?*) in this mode: *With what doctrine have ye been imbued and initiated?* or *To what doctrine have ye given your name, since ye know not whether there be a Holy Spirit?* For those are said *to be baptised in the baptism of John* who have been instituted in the same kind of doctrine, even if they have lacked the ceremony of Baptism.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Ninth — Why Christ Willed to Be Baptised.
+
+The chief causes are **four**:
+
+1. **That He might show Himself to be a *member of the Church* gathered out of Baptism** — and thus, since He had before been *circumcised* and was now baptised, He would prove Himself to be the *Messiah of the Jews and of the Gentiles*, assuming the sign of each covenant.
+2. **That He might approve, confirm, and sanctify the Baptism of John and of all ministers** — and show that *the Church of the New Testament was incepted through Baptism*, circumcision being for the future abrogated.
+3. **That He might signify Himself to be *plunged into death*, and to wash our sins by His own blood** — sanctifying the *whole mass of our nature*, and *plunging us into His death and wounds*, that as unto our Head we might be *incorporated unto His resurrection and our life*.
+4. **That, ordained and confirmed by the public testimony of the whole divinity, He might incept His ministry.** For He is ordained by the voice of the eternal Father: *This is My Son, in whom I delight; hear ye Him.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Tenth — The Fruits of Baptism.
+
+**The first fruit is the sanctification of the waters** — in which, purged from every stain, we are led as a *bride to the laver of Baptism*, unto the *bridegroom Christ*, loving us, and *not imputing to us the materiale of sin* — which remaineth even after Baptism, as above in the locus on sin we have copiously shown. Of this fruit Paul speaketh, Eph. 5: *Christ loved the Church, and gave Himself for her, that He might sanctify her* (consecrate her to God through the symbol of Baptism efficacious by the virtue of Him who is made all things unto us the faithful), *cleansing her by the laver of water in the Word — that He might present her to Himself glorious, a Church not having spot or wrinkle, or anything of the kind, but that she might be holy and unblamable* (namely, in Christ, by imputation and inception, and afterward by consummation unto all eternity).
+
+**The second fruit is the fountain of health, life, and salvation** — and our healing from the sanies (matter) contracted from the leprosy of nature, or from the lapse of our first parents — and the restitution of health lost in Adam, and recovered through the blood of Christ.
+
+**The third is *regeneration from water and Spirit*, renewal, rebirth according to God's mercy through and on account of Christ** — Titus 3, John 3.
+
+**The fourth is the resealing of heaven, reconciliation with God and peace, presence of the whole Trinity, cohabitation of God with us through the whole life** — provided we retain faith and a good conscience.
+
+**The fifth is filiation, or adoption unto sons.** *We are the loved in the Beloved, inscribed in the hand of the Lord. From this dilection of God who shall separate us?* Rom. 8.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Eleventh — The Significations of Baptism.
+
+This question must be conjoined with the preceding. For the *significations also show the fruit, utilities, and use of Baptism*. And there are **three significations**:
+
+1. **Testimony of grace** — *exhibited* and *applied*.
+2. **Symbol** — of the *history of Christ's death, burial, and resurrection*; of *grace*; of *gift*; of *conformity*.
+3. **External badge and profession of Christianity.**
+
+**Baptism is a testimony of *grace exhibited*** — because as circumcision *figured Christ*, the *promised Seed and fountain of grace to come*, so Baptism *testifieth that the same hath now come*.
+
+**Baptism is a testimony of *grace applied*** — because it is a σφραγίς and *authentic sign* that God has been placated through Christ toward him who, according to Christ's institution, is washed by the laver of Baptism.
+
+**Baptism is a symbol of the *history*** — because by *immersion into the water* it *figureth the death of Christ*; by *the stay under the water*, the *burial of Christ*; by *the extraction from the water*, the *resurrection*. This history is *of the three days of the death, burial, and resurrection of the Lord*.
+
+**Baptism is a symbol of *grace*** — because it *testifieth that by Christ's death, burial, and resurrection we are freed from death, sepulchre, and damnation, and gifted with life, resurrection, and salvation — washed from sin, inserted into Christ, regenerated, and received into the communion of the body of Christ.* For **Christ is our cleansing, covering, and Head — life, way, truth** — *that in Him we all may be one body*, according to that, 1 Cor. 12: *Through one Spirit we all have been baptised into one body — whether Jews or Greeks, whether slaves or free.*
+
+**Baptism is a symbol of *gift*** — we die to sin, wrestle with sin, and from the sepulchre of sin arise unto new life — and all this we do *by the benefit of the death, the virtue of the burial, and the efficacy of the resurrection of Christ in us*, according to that Rom. 6: *Whosoever have been baptised into Christ Jesus, have been baptised into His death. We have been buried together with Him through Baptism into death — that as Christ was raised from the dead unto the glory of the Father, so also we might walk in newness of life. For if we have been planted together with Him in the conformation of His death, doubtless we shall also be of the resurrection.*
+
+**Baptism is a symbol of *conformity***. For *we have coalesced by faith with Christ*. Conformed therefore we ought to become to *the image of the Son of God* — both in death, and in burial, and in resurrection — according to that Rom. 8: *We suffer together, that we may also reign together with Him.* Hence arose those formulas familiar to Paul: *to be crucified, buried together, to rise with Christ; to be baptised into His death, or for the dead; to crucify the body of sin, to rise unto new life, to corrupt the old man, to be mortified, to be vivified*, and the like. **Baptism therefore will admonish us of the *cross to be borne in this life with Christ, of corporal death, and of the resurrection, and at last of the glory of beatitude*.**
+
+**Baptism is a badge and note of the profession of Christianity** — less principally indeed (for the *principal causes* have been indicated in the prior significations), but yet before the world, and in the world, by reason of *profession, faith, doctrine, confession, and life, and constancy*, greatly necessary — so that the *preceding uses cannot consist without this profession*. And here pertaineth the *proper signification of the word Sacramentum* among the Latins, especially the historiographers. For **Sacramentum signifieth among them the same as *military oath*, binding the soldier to the leader unto the standard and a certain symbol**. For by Sacrament a man is made a *lawful soldier*. As therefore a soldier by the Sacrament obtaineth the *right of the army*, and just as *signs testify us to be approved, received, and inscribed, and inserted into the army* — so by Baptism we are *initiated, inscribed, incorporated, received, and enrolled among the soldiers of Christ*, fighting for the altars, for religion, for faith, for the hope of eternal life, for the glory and majesty of Christ, for the merit of Christ, for our salvation and life — against *the devil, the world, the flesh, heretics, tyrants*.
+
+Hither pertain the *eulogies of Baptism* and its *peculiar epithets*, some of which from **Nazianzen** we have recited in the *Paedagogia* on Baptism. But whatsoever we say, **the *dignity and efficacy* of Baptism is greater than can by human tongues be explicated**. One epithet let us observe, which is extant 1 Pet. 3: namely, ***ἐπερώτημα (interrogation) of a good conscience with God through the resurrection of Christ***. But ἐπερώτημα signifieth *stipulation* — that is, *mutual pact of God and of the conscience of man*.
+
+**God offereth and promiseth gratuitous salvation on account of the Son.** The conscience responds with *faith receiving the promised grace* — for by nature we are *sons of wrath*. But *out of the pact of God, faith knoweth* that God is placated on account of the Son, and that *the benefits of Christ are given to us who through Baptism are inserted into Him*, and that *God the Father adopteth us to Himself as sons through and on account of the Son*, and *willeth to rule us by His Holy Spirit, and to snatch us from eternal death and from the chains of the devil, and to give us eternal life*.
+
+**Now our mutual stipulation is that whereby we respond to God, and promise constant faith, invocation, and worship — hope directed to His promises, expectation, patience, obedience, preaching, confession, perseverance, penitence, mortification and cross, subjection, and alacrity unto eternal life.**
+
+### The Use of Baptism in All Life.
+
+From these it is now manifest what is the ***true use of Baptism in all life***, and what is the *true meditation of this most holy laver*, which through the whole life should console us.
+
+**The principal use of this mersion is, in all true conversion to God and in all life, the *testification and seal* by which is confirmed and plainly certified he who thus hath been immersed — that he is received into the grace of the Father, Son, and Holy Spirit on account of the Son, and gifted and sanctified by the Holy Spirit.**
+
+Then accede these uses: The baptised is a *member of the true Church*, and separateth himself from *blasphemers, ethnics, heretics*. He instituteth a *new life pleasing to God*. He *patiently tolerateth the cross and calamities into which he is submerged*. He hath *certain hope that he shall emerge from all calamities*.
+
+He establisheth therefore, by pious meditation:
+
+1. **First**, that Baptism is unto him a *Sacrament and sealing of true reconciliation with God*.
+2. **Second**, he is admonished that this reconciliation *hath been done not by mundane means — gold and silver, or works and merits of men — but by the precious blood, death, burial, and resurrection of Christ*.
+3. **Third**, he is admonished of the *mortification of the flesh, vivification of the Spirit, and perpetual penitence, and of the future glorification with Christ*.
+4. **Fourth**, he is admonished that the *benefit of regeneration is the gift of the whole Trinity*, in whose Name we are baptised, that we may cleave to Them by *invocation and worship through the whole life*.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Twelfth — The Papal Errors in the Doctrine on Baptism.
+
+**The Papists bid in Baptism to be applied *unction of oil or chrism*, and *ceremonies of salt, spittle, exorcism of the water, adjuration of Satan, wax candles, crosses, lustrations*, and similar things — of all and each of which it is written: *In vain do they worship Me by the mandates of men.***
+
+Likewise: *If ye are dead with Christ from the elements of this world, why do ye yet, as living in the world, decree?* Idolatrous ceremonies therefore we shun; but pious *lections, prayers, and questions* we approve and retain — that concerning *original sin, faith, regeneration, and renovation*, men may be rightly instructed.
+
+We use also *our vernacular tongue*, that the *pious and simpler* may better attain and understand the whole doctrine on the substance and use of Baptism.
+
+We distinguish moreover *superstitions from true Baptism* — whose *substantials* — namely, *the laver consisting in the Word, and the pronunciation of the words* — since they have remained in the Papacy, we affirm the Baptism [there] to be valid.
+
+**Exorcism** also, by which *we attack Satan as an enemy*, we in some places retain — not to establish that *the devil is cast out by the power of that exorcism rather than by the virtue of Baptism*, but that *we may admonish the docile — in how great miseries infants are born, how great is the mass of sin, how great the wrath of God, how great the tyranny of the devil, why Baptism is necessary and unto what end Baptism becometh and is effected*.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Thirteenth — Of the Katabaptists and Anabaptists.
+
+Of those who deny that infants are to be baptised — and of those who affirm that Baptism must be iterated.
+
+**We do not clamorously damn infants who in the Church before Baptism die, either in the womb or in birth** — even as we do not say all those to be damned who before the eighth day of Circumcision in the Jewish people departed. **Original sin indeed is such a plague** that by nature all and each are and remain *sons of wrath*, unless the *regeneration which is by water and Spirit* accede.
+
+But concerning those who **cannot have Baptism** (for we speak not of the negligence and delay of the *secure and impious*), we bear the same judgment as of the *thief converted to Christ on the cross* — and we commit them to the *judgment of God, if they are in the Church of Christ — a paternal and full-of-mercy [judgment]* — and piously bury them, *not casting them off as ἐκτρώματα* (aborted foetuses), but *acknowledging the atrocity of sin, the wrath of God, the tyranny of death*, and *by ardent prayers commending their salvation to the clement God — and giving thanks to God for the immense benefit which He hath conferred on us, not only by His Spirit inhabiting in us, but also by the external sign and testimony of His grace toward us, receiving us into the number of His elect*.
+
+**Let us consider this dignity of Baptism** — and know that, *if it can be had, no one is saved without this laver*. But **let us not damn our brethren or children snatched before, who could not obtain Baptism**. By nature they are *sons of wrath* as we; but by the *grace and goodness of God, who is also the Father of our seed, they can by the Holy Spirit be regenerated through and on account of the Son — in a mode which is unknown to us, and lieth open to God alone*. We speak not, however, of the *seed of the unbelieving, the impious, and the impenitent*, but retain the *consolation worthy of the pious and living members of the Church*, and plainly omit *curious questions and disputations*.
+
+### On Delaying Baptism.
+
+But **when Baptism can be had, we disapprove all delay, security, and impiety** — those who for any cause defer Baptism. *Not privation, but contempt of the Sacraments damneth.* And the *procrastinators of Baptism* are unworthy of the name of Christian, and consider neither *sin, nor the wrath of God, nor the merit of the Son, nor true faith, nor the tyranny of the devil* — and often cast their infants into greatest peril, and *summon and draw upon themselves public and private punishments*, and often are involved in calamities from which they cannot easily extricate themselves — nor yet will they consider the cause and origin of these.
+
+### The Baptism of Infants.
+
+As touching **infants already born** — let us know that, since all who are to be saved must be inserted into the Church, therefore *the promise of grace and eternal salvation truly pertaineth to infants*, according to that: *Suffer the little children to come unto Me, and forbid them not; for of such (namely, who come unto Me and are offered unto Me) is the Kingdom of heaven.* Likewise: *It is not the will of the Father that one of these little ones who believe in Me should perish* (Matt. 18). Therefore infants without any contradiction and without delay are to be baptised and to be inserted into the Church.
+
+The promise of grace pertaineth also to our seed, according to that: *I will be thy God, and of thy seed.* And 1 Cor. 7: *Your children now are holy* — that is, *they are comprehended in the covenant*. Therefore also they are now to be baptised. Otherwise the children were certainly impure, if they were rejected from Baptism, in which we put on Christ.
+
+In the first place let these be considered:
+
+1. **Infants are conceived and born in sins, and by nature are sons of wrath**; and — since *what is born of flesh is flesh* — without regeneration they cannot come into the Kingdom of God.
+2. **Christ died for all men**, even for infants — to whom the *grace of God is applied not by the bare Word* (because they cannot yet be taught by the vocal Word), *not also by the use of the Supper* (since they cannot prove themselves and discern the Body of the Lord) — but *by Baptism, or the laver of regeneration*.
+3. **Peter** Acts 2 manifestly saith: *Do penitence, and let each of you be baptised in the Name of Jesus Christ for the remission of your sins — and ye shall receive the gift of the Holy Spirit. For the promise is unto you and unto your sons.* For thus also of Circumcision in the Old Testament it is written, Gen. 17: *I will be thy God, and of thy seed.*
+
+**More arguments for *paedobaptism*** we have recited in the second part of our *Paedagogia*. And since the *example of the Apostles also accedeth* — who baptised *whole families*, in which certainly were infants (as *Origen* also of the Apostles testifieth) — there is no need of a heap of many arguments in a manifest matter.
+
+Faith indeed is *from hearing, and hearing through the Word of Christ* (Rom. 10) — in all adults who hear the vocal Word: but of infants the Son of God Himself as it were setteth a certain *exception*, saying: *These little ones believe in Me* (Matt. 18). And infants have *spiritual hearing* — that is, they hear what the Lord speaketh in their hearts by His Holy Spirit *kindling and confirming faith, by peculiar reason and operation unknown to us*.
+
+### Against the Sacramentarian Doctrine on Infants.
+
+One thing must also here be added in passing: the ***Sacramentarians*** teach that **infants born of believing parents in the Son of God, though they be conceived and born in sins, yet by this bring with them from natural birth this — that even before Baptism they are not sons of wrath under the reign and power of Satan, but without Baptism are truly in the Kingdom of Christ and the grace of God — because Baptism is only an *external sign* which testifieth that those infants already have remission of sins and eternal salvation.**
+
+**This is the delirium of the *Pelagians*, which Augustine refuteth in the second book *On the Merits of Sins*.** For *whatsoever is born of flesh is flesh*. And regeneration is by *water and Spirit*, and Baptism is necessary unto salvation, when it can be had. Other things it is when Baptism cannot be had, as we have often said above. Here *the dispensation of divine grace maketh not the rule*. We speak of *this rule* — namely, of *Word and use of the Sacraments*. The **dispensation** is of the *judgment of God and of the will not revealed to us* — which yet in the Church cannot be otherwise than *paternal toward believers and the pious and their seed*, according to the promise: *I will be thy God, and of thy seed.*
+
+### Against Rebaptism.
+
+Moreover, ***iteration of Baptism or rebaptisation*** is prohibited not only because *in the place of circumcision — which was made only once — we have Baptism* — but because *nativity is not iterated*. We are born spiritually in Baptism, and born again in respect of *carnal nativity*. Iteration therefore is prohibited.
+
+But **the judgment on *blasphemers against the Son of God*** — as the *Arians and Antitrinitarians* — when these have baptised anyone, is *in the hand of the Church and pious and wise men*. For these — since they do not observe *the Name of the Father, Son, and Holy Spirit*, and do not acknowledge *Christ as the eternal Son of God* — cannot have *true Baptism*. Nor yet is a *rebaptisation* made, since *nothing was done in the actual baptism of the blasphemers*, but *true Baptism is instituted*. But of these let the pious judge. And so much most briefly on Baptism.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI QVINTI · DE SACRAMENTIS + DE BAPTISMO.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
