@@ -3702,3 +3702,170 @@ But if beside these there befall temptations *concerning unworthiness*, let us k
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS APPENDICIS DE PRAEDESTINATIONE.</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+# Locus IV. De Ecclesia · On the Church.
+
+We have comprehended the doctrine of the Church integrally in the *Second Part of our Paedagogia* and in the *second tractate of the Analecta*. Therefore here we shall be briefer, and shall only add as it were *paralipomena* (things left over) to what we there more prolixly discussed, and it pleaseth us to institute an *anacephalaeosis* (recapitulation). Of these things therefore we shall treat briefly, with God's help. ¹⁷⁵
+
+### The Ten Questions.
+
+1. Of the **word Ecclesia**, and *what the Church is*.
+2. Of the **Church before the Fall**, and after the Fall of man.
+3. That there is **but one Church**.
+4. Of the **signs that show the true Church**.
+5. Of the **doctrine of the Church**.
+6. Of the **one and perpetual Head of the Church, Christ**, and of the *government of the Church, or the Kingdom of Christ*.
+7. Of the **power and authority of the Church**.
+8. Of the **primacy of the Roman Church**.
+9. Of the **ecclesiastical ministry**.
+10. Of **traditions**.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the First: What the Word Ecclesia Signifieth, and What the Church Is.
+
+That by the word ἐκκλησία is signified *an assembly of citizens*, is manifest — as also in Acts 19 it is used: ἦν ἡ ἐκκλησία συγκεχυμένη, "the assembly was confused, and most did not know for what cause they had come together." And a little after: "If ye require anything about other matters, ἐν τῇ ἐννόμῳ ἐκκλησία (in the lawful assembly) it shall be explained" — namely when the people have gathered on a fixed day.
+
+The Hebrews call it **Cahal** — "he gathered an assembly of men by convocation" — and **Kohol**, ἐκκλησίαν, the assembly and multitude of the people itself. Whence the Greek word without doubt hath its origin — from καλέω (I call) and ὄχλος (crowd). A certain assembly of men is also called **Edo** — that is, not a universal assembly (which properly is *Kohol*) but a *conciliabulum* of some men coming together to transact a certain matter, at a certain place, at a designated time. And thence appear also the words ὁδὸς, συνοδος (*synod*) — that is, a congregation of certain persons — or *synagogue*.
+
+Now common speech-usage hath made it so that the word **Ecclesia** is taken for the assembly of those who profess Christ, called by the voice of God to hear the Gospel of Christ.
+
+In this signification of the word let us consider the *immense goodness of God*, calling out — that is, gathering to Himself — the Church in the human race by the voice of the Prophets, the Apostles, and the pious doctors; and let us give Him thanks that He hath willed us to become and to be members and citizens of His Church, which He hath built up as *lofty* (Ps. 78) and as *courts* in which *one day is better than a thousand years* (Ps. 85).
+
+To this signification of the word "Ecclesia" let the studious of piety refer Ps. 85: *How delightful are Thy tabernacles, O Lord of Sabaoth! My soul longeth and fainteth for the courts of the Lord; my heart and my flesh have rejoiced in the living God. For the sparrow hath found herself an house, and the swallow a nest for herself where she may lay her young — Thine altars, O Lord of Sabaoth, my King and my God! Blessed are they that dwell in Thy house; unto the ages of the ages shall they praise Thee.*
+
+### Definition of the Church.
+
+Now let us weigh **what the Church is**. Let this therefore be the description:
+
+> **The Church is a visible collection or assembly of men — who, wheresoever they be, and whether they be many or few, called by the Word of the Gospel, embrace the Gospel, rightly use the Sacraments, and hope sanctification and salvation from the Gospel: in which assembly God, through the ministry of the Gospel, is efficacious, and regenerateth many unto eternal life — although in the same assembly many are not regenerate, yet consenting concerning the true doctrine.**
+
+The members of this definition are plain. **The Church is visible**, because it is an assembly of men handling the Word of God, teaching and learning, and confessing the truth and obeying it, and using the Sacraments, and separating true doctrine and faith from other assemblies of unbelievers, idolaters, and heretics.
+
+That the Church may in three ways especially be called **invisible**, some have disputed — namely: by reason of *paucity* and of *decrease*, of tribulations, calamities, dispersion, and other difficulties; then by reason of the *multitude of hypocrites and false Christians* from whom the elect and pious can with difficulty be discerned; afterward, by reason of *amplitude, antiquity, duration, and eternity*.
+
+But whatsoever be disputed, this is yet true: that in the visible Church the invisible is comprehended. Therefore let us adjoin ourselves unto the visible Church, that we may be members and citizens of it.
+
+### That the Church contains many unregenerate.
+
+But that in the Church are many unregenerate, the Son of God testifieth (Matt. 13) concerning the *tares* and the *drag-net*. Many lapse in doctrine, many in the abuse of the Sacraments, many in life and morals; and hypocrites there are at all times. And let the studious consider these **four things**:
+
+1. The evil shall be mixed with the good in the Church, as long as men live upon earth.
+2. The good are not defiled or damned on account of that commerce which they patiently have with hypocrites and the evil.
+3. The Church shall not be without wrinkle and blemish before the last judgment.
+4. The evil are tolerated by God for many causes.
+
+Of all these things a brief admonition, before we proceed, we shall subjoin.
+
+**That the evil are always mingled with the good until the judgment**, Christ Himself testifieth in the parables of Matt. 13. The explication of the parables the daily experience in every station and order of life exhibiteth — both in the Church (in which are many *false brethren*, many *heretics either manifest*, or ὑπέλοντες καὶ κακόηθες — that is, hiding a certain monster, feeding it, and, for occasion of vaunting it, dissembling — as today happeneth from many in the sacramental matter); and in the polity (in which nobles, counsellors, and jurisconsults are many, of two sorts — namely the *swollen* and the *timid*, in a diverse respect: swollen in domineering, timid in submitting themselves unto truth and preferring it to other earthly goods); then also in the household economy and in all life. For the roaring Lion resteth not, but observeth, attendeth, snatcheth, and cunningly usurpeth *occasions, affections, ways, inclinations, sayings, morals, and gestures of men* — as it were *means* by which he thinketh to displease God and the Word of God, and to obstruct the salvation of men.
+
+**That the good are not contaminated, much less damned, on account of that commingling of the evil**, these reasons show:
+
+1. Many are secretly evil, as Judas — whose evil works are not manifest.
+2. The pious in no matter consent with the evil unto evil, but openly by words, deeds, and signs disapprove their actions, and admonish them unto piety. 1 Tim. 5: *Communicate not with the sins of others.*
+3. The pious avoid those who openly and (having been admonished) without penitence are evil, and have no fellowship with such.
+4. The Holy Spirit preserveth the pious, lest by the examples of others they be impelled unto sinning, but that by faith and good works they shine forth — even in the midst of calamities and misfortunes, that is, *in the midst of wolves*, as the Son of God Himself saith.
+
+But let us always be mindful of these sayings, Gal. 6: *Consider thyself, lest thou also be tempted.* And: *If any man seem to himself to be something, when he is nothing, he deceiveth his own mind.* Likewise: *He who thinketh he standeth, let him see that he fall not.* Let us pray God therefore that He preserve us by His hand. For by our own acumen, our own diligence, our own virtue or works — of whatsoever sort these be — we cannot guard or retain faith, righteousness, and our salvation, or even any integrity of life; but we need the virtue and goodness of God who hath mercy on us for the Son's sake, and ruleth us by the Holy Spirit.
+
+### On "the Church without spot or wrinkle."
+
+From these things it now appeareth: **the Church in this life is not without blemish**. For although it be written that *the Church hath not spot or wrinkle* (Eph. 5), yet this must be received *concerning imputation and inception*. And it liketh us for the sake of the studious to add the words of D. **Hyperius**, of pious memory — words worthy of memory — namely these:
+
+> **Be it known**: in the Scriptures the Church is described by a twofold reason in many places.
+>
+> **1.** Certain places so depict it, that we must understand thereby *the assembly commonly mixed of good and evil*, in which *sects, errors, offences* frequently arise: 1 Cor. 11; Matt. 18. But certain places must be received *only of the good and the elect* in the Church — as when Christ saith (Matt. 16) that *the gates of hell cannot prevail against the Church*; when it is called *the pillar of truth* (1 Tim. 5). Thus the passage of the Apostle is not received of the Church in general, but only of the good and elect apart. Unto which sentence Augustine somewhat inclineth (*De doctrina Christiana* bk. 3, ch. 32), where he explicateth the *second rule of Tichonius* concerning the *true and mixed body of the Lord*, or of the mixed Church. ¹⁷⁶
+>
+> **2.** But because the matter itself speaketh — that even the pious and elect, as long as they are placed in this mortal life, not seldom fall most foully (as of Moses, Aaron, David, Peter, Paul the Scripture recounteth) — it is better to say that *the Church is pure, holy, irreprehensible, not in itself or through itself, but in Christ and through Christ, her Head*. For as in the human body, from the head (in which are the beginnings of the veins, arteries, nerves, likewise the organs and faculties of the senses) there flow forth the power and potency of acting into the remaining members — so from Christ, by nature most pure and most holy, a true purity and sanctimony floweth into all believers. And we see a woman, though born of humble condition, obtaining nevertheless some dignity, and being honoured, because of a noble husband or one bearing magistracy to whom she hath been married. In the same mode therefore the Church is in a certain manner a partaker of the purity and sanctity which is proper to Christ alone. Hither pertaineth what John saith in his Epistle ch. 1: *The blood of Jesus Christ cleanseth us from all sin* — where however he presently addeth: *If we shall say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just, to remit unto us our sins and cleanse us from all iniquity.* It is clear therefore: *if we look at men themselves, sins are present; if we look at Christ and the efficacy of His blood, all blemishes are diverse, and admirable cleanness underlieth.* In which manner also **Ambrose** (*Hexaemeron* bk. 4, ch. 8) preacheth the Church to be beautiful *as the Moon* — but to shine not with her own light, but with Christ's, and to summon splendour to herself *from the Sun of Righteousness* — that she may say: *I live, yet not I, but Christ liveth in me.* ¹⁷⁷
+>
+> **3.** But if any, wishing to go further, requireth purity and cleanness *in the believing men themselves*: we concede that some things can be looked at in them — but this must consist only *in imputation* — namely, when God deigneth *not to impute sins or whatsoever filths, and to impute righteousness, cleanness, without filths and impurity*. Of this cleanness and beauty *imputed by God to man*, Rom. 4 from Ps. 32: *Blessed are they whose iniquities are remitted, and whose sins are covered: blessed is the man to whom the Lord shall not impute sin.* And that in those to whom sins are remitted cleanness followeth, David affirmeth Ps. 51: *According to the multitude of Thy mercies, blot out my crimes; wash me thoroughly from mine iniquity, and cleanse me from my sin.* And a little after: *Thou shalt purge me with hyssop, and I shall be cleansed; wash me, and I shall be whiter than snow.* Besides this, by *faith which God imputeth for righteousness, hearts are purified* — Rom. 4; Acts 15. Therefore if any cleanness and purity be present in men, we must acknowledge that this is *by imputation*.
+>
+> **4.** But because — where it is said that sin is *not imputed* — it is understood that sin still remaineth (as the words of the Psalmographer intimate, which sound not simply that *no sins are in the pious*, but that *those which are present are covered and not imputed*): some have preferred to say that the *beauty and form of the Church here through remission of sins and perpetual ablution of blemishes and filths is incepted indeed and daily increased, but by no means perfected*. As long as the Church proficeth in true sanctity, and is newly adorned with gifts by Christ, so long some *decorum and form* accedeth to her through Christ; and she here in ablution, adornment, and cultivation is occupied.
+>
+> This reason ought less to be exploded, because it seemeth to accord more with the words of the Apostle. For the Apostle saith that *Christ loved the Church, and gave Himself for her* — this indeed, *that He might cleanse her by the use of the divine Word and of the Sacraments*. As truly it is manifest that, for wiping off daily blemishes, daily also the remedies of the Word and Sacraments are exhibited — whose use is only upon earth necessary. But **glorious and entirely lacking wrinkle and spot**, Christ will then at length exhibit her to Himself and show to all — when He Himself, coming in the clouds with much power and glory, shall through the ministry of Angels adjoin all His elect to Himself — as Matt. 24 and Mark 13 we read. In which passages the admirable and sad *deformity of the Church* until that time is depicted by diverse examples, types, similitudes, and predictions by Christ: *There shall be grievous persecutions, horrid betrayals, many offences shall arise, the charity of many shall wax cold, and ye shall see the abomination of desolation standing in the holy place; and the elect shall almost be led into error.* Therefore *deformed shall the Church be until the consummation upon earth*, howsoever much Christ labour at every time to adorn and sanctify her: but her *glory and beauty*, in all numbers absolute, shall appear when He shall come to judgment with glory.
+>
+> **5.** Lastly, some — to avoid all incommodities — establish that *the Church upon earth is without spot and wrinkle: not indeed in fact, but in hope*. In which sense Rom. 8 the Apostle defineth that *every creature is subjected in hope, and awaiteth solicitously the liberation and glory of the sons of God*; besides that *we here await adoption, and are saved by hope*. Whence some of the holy Fathers have interpreted the words of the Apostle, Eph. 5, simply concerning the *future and heavenly life*.
+>
+> **Jerome**, on Jer. 31 (narration on that chapter), saith: *See, how many places the Church hath — and how that Apostolic word,* that she be without spot and wrinkle, *is reserved unto the future and heavenly life. Thou hearest of corners, thou hearest of scabbies, thou hearest of ruins and ashes, and the region of death and darkness — and thou boastest of thine own virtue and impeccability?*
+>
+> **Augustine** (*De nuptiis et concupiscentia* ch. 34) assenteth: *Christ cleanseth His Church by the Christian laver — that He may present her to Himself, not in this world, but in the future, not having spot or wrinkle or anything of the sort. For those who now say her to be such, and yet themselves are in her (since they confess that they have sins) — if they say true, surely because they are not clean from sins, the Church hath in them a spot. But if they speak falsely who speak with a simple heart, then the Church hath in them a wrinkle. But if they say themselves not to have these things, not she — then let them confess that they are not members of her, nor pertain to her body, that even by their own confession they may be damned.*
+>
+> Thus much on the Apostle's words Eph. 5. — Moreover, by these reasons we have hitherto enumerated, we may also for the explication of those words taken from Solomon's Canticle: *Thou art wholly fair, my beloved, and there is no spot in thee* — likewise other passages which have been brought from Scriptures to the same sentence, that is, *to commend the incomparable beauty of the Church*. Although it is proper to add: in the Canticle is expressed with wondrous artifice of the Holy Spirit all the *affections of the Lover* — whereby it becometh plain that *the benevolence with which Christ pursueth His Church is plainly more vehement than the human mind can attain*.
+>
+> But it is known that *lovers*, as they are with quite ardent affects, though they see their *amasias* somewhat deformed by wounds or colour or manners, nevertheless make great account of them, and hold and esteem and embrace them as most elegant. Whence in **Plautus's** *Stichus* the proverb: *"To each his own King pleaseth as Queen, and each bride to her groom."* And **Horace** singeth: *"Foul vices deceive the blind — or these things themselves delight — as the polypus (goitre) of Balbinus pleased Agna."* ¹⁷⁸
+>
+> To the same mode Christ so loveth His Church that, though she in truth hath vices not small, He nevertheless in her *dissembleth, covereth, doth not impute*. Accedeth to these what that Bride herself in Solomon ch. 1 ingenuously confesseth: that she is *comely and yet swarthy* — without doubt swarthy through herself, comely on account of Christ (who daily rendereth her more beautiful and in every mode more cultured): swarthy in this world, comely in the future. Although to Augustine (*De doctrina Christiana* bk. 3, ch. 32) it pleaseth also to say the Church swarthy even in this world, *because of evil ones commingled*; and comely *because of the good ones ingrafted in her*.
+
+Enough therefore hath now been shown: **that a Church in which there is absolutely no spot or wrinkle can never be found upon earth — but such shall she be first at the consummation, when all the elect and true and living members of the Church shall migrate unto their Lord Christ into the heavenly fatherland Jerusalem.** It remaineth therefore that we pray the heavenly Father to impart His Spirit unto all who are numbered in the Church of His Son on account of the *common confession of faith and doctrine and the use of the Sacraments* — by whose virtue the good may be preserved from all contagion safe in sincere faith and charity, but the evil may be led unto penitence and unto serious amendment of life; and that all together may at last be led on, where — all our blemishes being wiped away — we may always give thanks unto God through Christ.
+
+### Six Causes Why God Permits the Evil to Be Mingled with His Church.
+
+Moreover, on what causes God suffereth the evil to be mingled with His Church, it is not difficult to say.
+
+**The first cause is the goodness, clemency, and longanimity of God**, of which above it hath been said in the fourth question of the *Locus on Penitence*. He tolerateth Pharaoh, Arius, Julian, blasphemers and wicked men — and is not προσωπολήπτης (a respecter of persons), but *willeth all men to be saved and to come unto the acknowledgment of the truth*.
+
+**The second cause is the example** which the pious ought to have in the penalties of the impenitent and secure. Ps. 7 and Luke 13.
+
+**The third is the hope of obtaining the mercy of God, and the space left for penitence.** For the lost sheep is often brought back to the fold (Matt. 18). And *unto seventy times seven* the fault of the neighbour must be remitted. And often even in old age and at the end of life the divine grace exsereth itself.
+
+**The fourth cause is the exercise of the pious unto spiritual progress.** Most rightly saith **Augustine**: *This Catholic Church, spread strongly and widely through the whole globe, useth all who err for its own progress, and for their correction when they shall have willed to awaken. For it useth the Gentiles as material of its work; heretics for the probation of its doctrine; schismatics for the document of its stability; Jews for the comparison of its beauty. Therefore it inviteth some, excludeth others, leaveth others, precedeth others — but to all it giveth the power of participating in grace: whether they be still to be formed, or to be reformed, or to be recollected, or to be admitted. But the carnal, as it were swine — that is, those living or feeling carnally — it tolerateth as chaff (in whose midst in the barn the wheat is safer), until they be stripped of such coverings. But because in this barn everyone is by his own will either chaff or wheat, so long is anyone's sin or error borne, until either he find an accuser, or defend a depraved opinion by pertinacious animosity. But those excluded either by penitence return, or by badly enjoyed liberty flow away into wickedness for the admonition of our diligence; or make schism for the exercise of our patience; or generate some heresy for the examination and occasion of our intelligence. These are the exits of the carnal Christians who cannot be corrected or borne.* And D. Augustine addeth: *Sometimes even good men are expelled from the Christian congregation by turbulent seditions of carnal men. Which when it happens, their patience is wondrously exercised: that they — since they neither strive after new things nor schism nor heresy — teach with what affect and how great sincerity of charity God is to be served; that they are willing to be of service even to their enemies, by whom they have been injured.* ¹⁷⁹
+
+**The fifth cause is the zeal, care, and solicitude of preserving errors and crimes and public scandals** [in check].
+
+**The sixth cause is the desire of eternal life and of the Church triumphant.** Phil. 1: *I desire to depart and be with Christ.*
+
+Enough hath been said on the definition of the Church, and enough added to it. This one thing it liketh us to add: The **Donatists** clamoured that *it is of the office of the pious, if they will not be defiled with the blemish of the impious, to migrate from their society and betake themselves to other places* — since it is written: *Have no commerce with the unfruitful works of darkness* (Eph. 5), and: *Depart, come out.* What therefore **Augustine** answereth to these (in *On the Words of the Lord according to Matthew*, Sermon 18), I subjoin:
+
+> *"Behold" — say they, the Donatists — "the Prophet saith (Isa. 52): Depart, come out from thence, and touch not the unclean. How then shall we tolerate the evil for peace's sake — from whom we are bidden to depart and to come out lest we touch the unclean?" We understand that going-forth spiritually; they, corporally. For I too cry with the Prophet: and of whatever sort of vessels we be, God useth us in our dispensation. We too cry and say unto you: Depart, come out from thence, and touch not the unclean — but by contact of the heart, not of the body. For what is it to touch the unclean, save to consent to sin? What is it to go out from thence, save to do what pertaineth to the correction of the evil, according to each one's degree and person, as much as can be done with safe peace? Hath it displeased thee that someone hath sinned? Thou hast not touched the unclean; thou hast reproved, corrected, admonished, applied — if the matter demanded — even discipline which violateth not unity: thou hast come out from thence.* Then, after many examples of divers Prophets *who bodily persisted among the impious, but with the whole soul were divided from them*, he subjoineth: *Now it is manifest how all such testimonies of the Scriptures are to be received: that when the Scripture soundeth we ought to depart from the evil, we are bidden to understand nothing else than that we depart in heart — lest we commit a greater evil in the separation of the good than we shun in the conjunction of the evil.* And presently, of the very example of the Prophet Isaiah: *Certainly the Prophet manifestly said, Depart, come out from thence, touch not the unclean. I, that I may understand what I have said, attend to what I have done. By his own deed he expoundeth to me his saying. He said, "Depart." To whom said he it? Surely to the just. From whom bade he them depart? Surely from sinners and iniquitous. I ask whether from such he himself departed. I find that he did not depart. Therefore otherwise did he understand — for surely he would himself first do what he commanded. He departed in heart, upbraided and reproved, contained himself from consent — he touched not the unclean. But by upbraiding he went forth free in God's sight, who imputeth to him neither his own sins (which he committed not), nor others' (which he approved not), nor negligence (since he was not silent), nor pride (since in unity he abode). So then, my brethren, whomsoever ye have among you who are yet burdened with love of the world — the avaricious, the perjured, adulterers, gazers on trifles, consulters of Mathematicians (astrologers), fanatics, augurs, haruspices, drunkards, luxurious — whatsoever ye know among you of evil men, disapprove as much as ye can, that ye may depart in heart; and reprove, that ye may go forth from thence; and do not consent, that ye touch not the unclean.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Second: The Church Before and After the Fall of Man.
+
+The beginning of the Church must be taken from the *creation of our first parents*. For as soon as men were created by God, an integral and perfect Church was instituted, unto which God Himself was present, and, as it were Shepherd and supreme Moderator, endowed and enriched her with His own *light, wisdom, and blessing*. For nothing was prior to God than that He should constitute an immortal Church, in which He might rightly be acknowledged and worshipped. And hither pertaineth whatsoever above hath by us been said concerning *original righteousness* and the state of man before the Fall.
+
+But **after the Fall**, God by His immense goodness reformed and restored the collapsed, deformed, and horribly destroyed Church Himself. And the Son of God was the first Ecclesiastes, bringing from the arcane counsel of divinity the promise: **The seed of the woman shall crush the head of the serpent.** By this preaching it seemed good to God to save men and to gather a Church — without human power, and only by the *ministry of the Word* — eternal and unconquered. And Rev. 13 it is written: *The Lamb hath been slain from the origin of the world* — that is: **There is one Son of God, our deprecator and mediator, redeemer of the human race and Saviour, whom the Fathers knew by the promise proclaimed; and who was present to His Church at all times — by whose confidence all doing penitence and truly believing in Him, from the beginning unto the end of the Church, received, receive, and shall receive *remission of sins, imputation of righteousness, the Holy Spirit, eternal righteousness and life*.**
+
+For here between the present Church of the faithful and those under the Law there is no other difference save that *they believed in the future exhibition of the Messiah*, but **we believe in the exhibited and consummated aspersion which is by the blood of the Son of God** — although our condition is far better, because *we behold the benefits of Christ in clear light*, and not only *hear* them in the Word, but also *receive* them wrapped in symbols in Baptism and in the Supper — that is, we believe in the *exhibited Messiah*, and need no *typical sacrifices*, but have *the things themselves, and the bodies or substance of the matter now completed and consummated*. Therefore Christ saith: *Many Kings and Prophets have desired to see what ye see, and have not seen it.* And the Patriarch Jacob saith: *I await Thy salvation, O Lord.* Yet **the same faith is on both sides, by which we and they are saved. Only there is a difference of time.**
+
+But when **Augustine** saith that *the Church was formed from the side of Christ*, he understandeth the Church gathered at a certain time — especially from the Gentiles — or the Church after Christ was exhibited in flesh. Therefore he also saith that *in the Old Testament the Church was prefigured in various modes*. But if we will receive that saying of Augustine in the same mode as that (*The Lamb slain from the beginning*), we err not.
+
+This too must be added: **the Church in this life is and is called *militant*** — against the devil, sin, the flesh, and the world, in most grievous temptations and perils. But the Church — or the collection of all the blessed — is and is called ***triumphant*** in all eternity, enjoying eternal gladness, life, and glory, according to that saying: *They who sow in tears shall reap in joyfulness. Going they go, and weeping they carry precious seed; but coming they shall come with exultation, bringing their sheaves.* (Ps. 126.)
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Third: That the Church Is But One.
+
+In the Symbol we say: *I believe the holy Catholic Church.* And Eph. 4: *One body and one Spirit; one Lord, one faith, one baptism, one God and Father of all.* We name the Church therefore **Catholic and universal**, because *it is not bound to certain and definite persons, places, times, or to the ordinary succession of bishops* — but is wheresoever *the voice of the Gospel soundeth*, and at all ages of the world is gathered out of the human race, and embraceth *the whole body of the Prophetic and Apostolic doctrine*, and hath always (though it be dispersed hither and thither and separated by intervals of place) *the same doctrine and faith*. And **variety in ceremonies, external form, and conversation doth not impede the unity of the Church** — which, as touching the *doctrine, faith, and the mode and reason of obtaining eternal salvation*, is one and the same through immense ages and all places of the earth, and abideth like itself. To it therefore let us adjoin ourselves, nor let us suffer ourselves to be plucked away from it; and in it let us nourish salutary concord, and know that *outside it there is no salvation*, and let us hold this constantly: Ps. 132: *The Lord hath chosen Sion, and desired to have her for His dwelling. This is My rest for ever; here will I dwell, because I have desired her.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Fourth: What Are the Signs That Show the True Church.
+
+**Three signs there are that show the true Church to us today:**
+
+1. **Consensus in the incorrupt doctrine of the Gospel**, as far as the *foundation* is concerned.
+2. **The legitimate use of the Sacraments.**
+3. **The obedience of the ministry due according to the Gospel.**
+
+Of these we have treated more copiously in the *Paedagogia* and *Analecta*. Some enumerate more signs, some fewer — namely only two: *consensus in purity of doctrine and legitimate use of the Sacraments*, including obedience in the first sign. But no dissension is engendered by this enumeration. But the **ordinary succession of bishops** — which the Papists number among the signs of the Church — *Scripture itself refuteth*. For the question is *where the Church is*. This is to be sought not in human documents and carnal successions, but in the words of Him who is *Truth*, and best knoweth His own body. **Augustine** (*On the Unity of the Church*, ch. 3) saith:
+
+> **I have the most manifest voice of my Shepherd, commending to me and without any ambages expressing the Church. It will be imputed to me if from His flock — which is the very Church — through the words of men I shall wish to be seduced and to wander, since especially He hath admonished me, saying: My sheep hear My voice, and follow Me. Behold His voice, clear and open and heard. He who followeth her not, how shall he dare to call himself His sheep?** ¹⁸⁰
+
+But as there are these three *external and visible* signs of the Church which we have recited — namely **pure doctrine, and in the same a consensus; then the dispensation of the Sacraments, and the legitimate use; afterward obedience corresponding to the doctrine and the Sacraments** (as Ps. 15 showeth: *O Lord, who shall dwell,* etc.) — so there are three *internal and invisible* signs of the *invisible Church*:
+
+1. The **donation of the Holy Spirit**.
+2. **True faith** and confession, or invocation.
+3. **Charity.** 1 John 4: *Let us love one another, because charity is of God.* John 13: *In this shall all men know that ye are My disciples, if ye have charity mutually among you.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
