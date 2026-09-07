@@ -3869,3 +3869,99 @@ But as there are these three *external and visible* signs of the Church which we
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## Of the Fifth: The Doctrine of the Church.
+
+**The doctrine of the Church is nothing else than that which is delivered in the Law and in the Prophetic and Apostolic Scriptures.** For we are bound *unto the Law and unto the testimony*. We have Moses and the Prophets. We are Christ's sheep, and ought to hear His voice. We have the mandate of God the Father: *Hear ye Him.* We are built up upon the foundation of the Apostles and the Prophets, the supreme corner-stone existing, Jesus Christ.
+
+Let us therefore hold these most firm, as it were *κοιναὶ ἔννοιαι* (common notions) and theological ἀποδείξεις (demonstrations): ¹⁸¹
+
+1. **The Scripture of God alone sufficeth for the dogma of salvation.**
+2. **Scripture is to be believed with the whole heart alone.**
+3. **Take up nothing unless the sacred page reveal it.**
+4. **Add nothing, and take away nothing thence, that Scripture bringeth.**
+5. **Establish nothing in divine things which Scripture removeth.**
+6. **Believe none unless he have Scripture for schoolmistress.**
+7. **Let Scripture compose and remove all controverted matters.**
+8. **Let Scripture be judge; let nothing judge her.**
+9. **All things yield to Scripture; she yieldeth to nothing.**
+10. **According to Scripture the sayings of the Fathers are to be held.**
+11. **The writings of the Fathers are subject to the judgment of the pious.**
+12. **Scripture is subject to no judgments of men.**
+13. **She lacketh error; but the Fathers oftener err.**
+14. **No books lack blemish save the sacred Bibles.**
+15. **Praise due to Scripture alone is** *αὐτὸς ἔφα* ("He himself hath said it").
+16. **The true Church of God alone is subject to the Word.**
+17. **The decrees of the Pontiffs are nothing; the dogmas of the Fathers nothing; a Council nothing** — since it often faileth and erreth — **unless Scripture make faith and confirm salvation.**
+
+These themes we have explicated in order in the *Analectum* — the sum of which is: **If even an Angel from heaven should teach another Gospel, let him be anathema.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Sixth: The Government of the Church, and the One and Perpetual Head of the Same — Christ.
+
+What above hath been said concerning the *Kingdom of Christ* must be here by the studious repeated. **The Church is not a political monarchy, and the Kingdom of Christ is not temporal and external, Caesarean or Roman.** *The princes of the Gentiles domineer,* saith Christ, *and exercise power — but ye not so.* And: *My Kingdom is not of this world.*
+
+Now **the Kingdom of Christ is the government of Christ gathering to Himself the Church through the ministry of the Gospel — at all times of the world — and freeing her from sin and eternal death, and sanctifying her, the Holy Spirit being given, that she may be His eternal inheritance; and wondrously defending and ruling her in this life, that she may truly invoke God, and acknowledge that prayers are heard, and celebrate God; and raising her from death unto life and eternal glory.**
+
+As often as we name the *Kingdom of God*, let us know that by this appellation these highest goods are comprehended: **the doctrine delivered by God concerning the true acknowledgment and invocation of God; the true consolations of souls; and the norm of a life pleasing to God — or the government of the Holy Spirit incepting in us eternal life, and the consummation of the Church in the universal resurrection.**
+
+### The Hebrew Names — Moschel, not Schulṭan.
+
+The Hebrews name Christ **Moschel** — ἡγεμόνα, the Economic Leader or Father of the family, who by the Word ruleth His Church, even as a Shepherd feedeth, governeth, defendeth the sheep, and applieth medical hands to the wounds, beareth the pregnant, and the tender lambs. So Christ is named Mic. 5: *Out of thee shall come forth unto Me One who shall be ruler in Israel.* But another thing is **Schulṭan** — that is, the political King coercing subjects by the corporal [sword] and reducing men under his power by arms and battles, like the *Soldan* among the Turks and Arabs. **Such is not Christ.** ¹⁸²
+
+### That the Church Is a Purely Spiritual Kingdom — Four Proofs.
+
+That the Church is *plainly a spiritual kingdom* is testified by:
+
+1. **The testimonies of the Prophets**, who preach the Kingdom of Christ to be *eternal and never-ending*;
+2. The same is shown by the **ratio of the ministries**;
+3. Then the **mode of administration**;
+4. Lastly, the **effects**.
+
+**The ratio of the ministries** in Christ's Kingdom is this: *Christ alone is Monarch and Head of His Church — God and man, according to each nature true King and governing and sustaining all — one Pontiff and Supreme Priest, together made Priest and Victim — undergoing the office of His Pontificate according to each of His natures, and administering His Church through Himself*, for these causes:
+
+1. That He may show unto all His admirable power.
+2. That He may show also His immense goodness toward the Church, unto whom He is always present.
+3. That all things may be more rightly transacted in the Church, and evils averted from her. For *the eye of the Lord fatteneth the field*.
+4. That the citizens of the Church and the subjects may be contained in office, and be stable in faith and hope, and strong in adversity — according to Ps. 123: *As the eyes of servants are unto the hand of their masters, and as the eyes of the handmaid are unto the hand of her mistress, so are our eyes unto the Lord our God, until He have mercy upon us.*
+
+And although Christ Himself administereth His Church, and through Himself as King and Supreme Priest can effect all things for His Church according to each of His natures: yet also **at all times He useth the ministry of men** — not indeed on His own account (as other Kings appoint ministers because they are not equal to bearing the offices themselves, then that they may transfer cares and troubles unto the ministers, and themselves may live more freely and tranquilly) — but on account of the *manifold utility and necessity of men*, who joyfully suffer themselves to be instructed by their like.
+
+### Two Kinds of Ministers — Kings and Priests.
+
+**Kings and Princes** are also *ministers of God*, when: first, they exercise mercy and judgment, and affect the good with rewards and honour, but the evil with punishments; second, when they embrace the heavenly doctrine, open the gates to Christ, kiss the Son, and submit their necks unto Him; third, when they confer their power and authority for the *tutelage and defence of the Church*, and study to amplify the glory of Christ.
+
+But **specifically the ministers of the Church** are those to whom the *preaching of doctrine and the administration of the Sacraments* is enjoined — as in the Old Testament were the *Patriarchs, Priests, Levites, Prophets*; and in the New, the *Apostles, Evangelists, Bishops, presbyters, deacons*. These rule the spiritual people of the Church by the Word of God — through which the Holy Spirit is given — and institute spiritual exercises; and *the carnal things are set aside — nay, contemned* — and temporal things are not made much of, but heavenly and eternal things are cared for.
+
+### The Mode of Administration is Spiritual.
+
+Moreover, the form or mode of administration of the Church through all things is *spiritual*. In place of laws is the **Word of God — Law and Gospel**. Yet also in the Church wars are waged — as is the *implacable war of the Spirit against the flesh*; secondly, with *Satan and evil spirits*; thirdly, with *the impious*. There is need therefore of arms — some of which are external, some internal. The former are: **the preaching of the Word of God, excommunication, prayers, tears**, and the like. The latter: **the efficacy of the Spirit, faith, hope, constancy, fortitude, patience** — of which let Paul be consulted, Eph. 6.
+
+### The Effects — Four.
+
+The effects further show that the administration of the Church is *spiritual*.
+
+**The first effect is spiritual peace with God and with pious men** — nay, with others also, so far as in us is, according to the rule of Heb. 12: *Follow peace with all men, and holiness, without which no man shall see God.* But *sanctity* is adjoined to peace. For only so far is peace with all to be cultivated as nothing is subtracted from religion and the glory of God. For peace with God and peace with heretics, blasphemers, and evil men against God cannot together consist. *For what fellowship hath Christ with Belial, and light with darkness?*
+
+**The second effect is victory.** John 16: *I have overcome the world.* And of the victory of believers John saith: *All that is born of God overcometh the world; and this is the victory that overcometh the world, our faith.* And Heb. 11: *The saints by faith have subdued kingdoms.* The same must be held of the *victory against the devil, the gates of hell, and death*. For *if God be for us, who can be against us?* Nay, it is certain that the Church is watered and increased by *the blood of ours*.
+
+**The third effect is the copiousness of spiritual things**: the Word of God, faith, charity, hope, the flesh and blood of Christ, the eximious gifts of the Spirit, knowledge of tongues, salutary counsels, and even the things necessary for sustaining this life.
+
+**The fourth effect is tranquillity of life, of mind, of conscience** — even in the midst of misfortunes, and even in death itself, as the examples of the martyrs and of all the pious testify. For the *Consoler, the Holy Spirit*, is present, and confirmeth patience, hope, and invocation — that we may cry, *Abba Father*, and desire the glory and eternal life, this life's inanity being contemned.
+
+### Christ Our Head — Six Causes.
+
+All these things severally and together show that **the Church is a spiritual kingdom, whose supreme, one, unique, and perpetual Head is Christ Jesus, Son of God and of man — Lord, God, and our omnipotent brother, our flesh and blood, our King and Priest, always present with us**. For Christ is our Head for many causes, of which these are the chief:
+
+1. **Head, on account of power, glory, honour, dignity, the supreme and divine empire**, according to each of His natures, over all creatures, Angels, and men.
+2. **Head, on account of the indissoluble and eternal conjunction of the Church with Christ** — such as is that of members with the head.
+3. **Head, on account of the most ample goods which from Him flow into the Church and her citizens.** *Without Me,* saith He, *ye can do nothing. Of His fulness we all have received.*
+4. **Head, on account of the most tight conjunction of His members** (1 Cor. 12), *the charity, commiseration, mutual work and aid.* We ought to aid one another, because we are members of one body, and have one Head, which is Christ. Woe unto us, if rashly we injure one another, and are the cause of dissensions and grief even to our Head — as recently a certain one said, *that Christ's head aches because of our dissensions*. For although unto Christ nothing morbid can pass, yet in His own mode He is affected with grief on account of the *dislocation of His members and ζυγομαχίαν* (yoke-fellow-strife).
+5. **Head, on account of the end and scope** unto which all our cogitations, studies, counsels, and actions ought to be directed. The head superemineth. The remaining members observe the head and obey it. **Christ therefore is our Head. Another head we know not. To Christ alone our Head we serve, obey, and submit ourselves, until we come unto the heavenly kingdom — where, as heirs of God and joint-heirs with Christ, we shall together with Christ sit among the heavenly, and shall enjoy sempiternal glory.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
