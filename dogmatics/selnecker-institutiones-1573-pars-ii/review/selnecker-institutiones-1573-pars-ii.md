@@ -1599,6 +1599,16 @@ Then they know that ***in the very temptations and combats faith becomes more il
 
 ¹³⁵ **The *Christe Deus nobis in mundi faecibus assis* — closing Christ-hymn.** — This is Selnecker's own composition, in the tradition of Wittenberg-humanist Latin Christian verse. The verses recapitulate the paradigm-Selneckerian pastoral concerns of the *Institutio* — the *conservation of pure doctrine* against heretics (Antinomians, Sacramentarians, Osiandrians, and Papists — the four groups against whom Selnecker had preached throughout his career), the *Emmaus-companionship* (*Vespera iam venit, nobiscum Christe maneto*, cf. Luke 24:29), the *sanguis Christi* Atonement (Non quia nos digni, sed quia mitis eras), and the *victoria Christi in coelo* (Rector, et in summo tu caro nostra thronoes — the *caro-in-throno* topos of the ascended-and-glorified human nature of Christ, paradigm-Chalcedonian). Selnecker was among the most important Lutheran hymnodists of the second generation: his German hymns include *"Ach bleib bei uns, Herr Jesu Christ"* (1572, based on Nikolaus Selnecker's Latin verse *"Vespera iam venit"* in this very hymn), *"Lass mich dein sein und bleiben,"* and settings of the *Nunc dimittis* and the *Vater unser*. Cf. **W. Blankenburg in *Handbuch der deutschen evangelischen Kirchenmusik*** I/1 (Göttingen 1969) on Selnecker as hymnodist.
 
+## From Locus II *De Poenitentia* — §§1–3 (Definition, Law-vs-Gospel, three parts)
+
+¹³⁶ **Ausonius, *Epigrammata* 12 (or 33 in the older numbering).** — The couplet *"Sum Dea, quae facti, non facti que, exigo poenas, / Nempe ut poeniteat, sic Metanoea vocor"* is from **Decimius Magnus Ausonius (c. 310-c. 395), *Epigrammata*** on the goddess *Metanoea* — a personification of the Greek *μετάνοια* as a Roman-mythological figure. The paradigm-Reformation transmission is via **Scaliger's *Ausonii Opera*** (Lyon 1575) and via **Erasmus's *Adagia*** for the *metanoia*-etymology entries. Selnecker's use here is a humanist-classical *aside* to a pastoral-theological definition — characteristic of the second-generation Wittenberg pedagogical style. Cf. **Green, *The Works of Ausonius*** (Oxford 1991) for the modern critical text.
+
+¹³⁷ **The *μετάνοια-vs-μεταμέλεια* distinction.** — Selnecker's careful differentiation between *μετάνοια* (salutary repentance leading to conversion) and *μεταμέλεια* (remorse without conversion — the "Epimethean" retrospective sorrow) is the paradigm sixteenth-century Wittenberg exegetical framework. Cf. **Melanchthon, *Loci Praecipui Theologici* (1559) *De Poenitentia*** (CR 21:892ff. / MSA II/2:225ff.); **Chemnitz, *Examen Concilii Tridentini* Pars II *De Poenitentia*** (Preus tr. 1978, II:588ff.) — the paradigm Concord-generation anti-Trent handbook on penitence. The Judas-*μεταμέλεια*-not-*μετάνοια* distinction is drawn from Matt. 27:3 *μεταμεληθεὶς ἀπέστρεψεν* — the paradigm New Testament *sedes* for the deadly-remorse-without-faith framework. The Hebrew *Shob / Teshuvah / Nicham* triad is the paradigm Wittenberg-Hebraist etymology, drawn from **Sebastian Münster's *Hebraica Biblia*** (Basel 1534-1535) and **Forster's *Dictionarium Hebraicum novum*** (Basel 1557).
+
+¹³⁸ **The Peter-vs-Judas paradigm.** — The distinction between Peter's *penitence unto salvation* (Luke 22:62 *ἐξελθὼν ἔξω ἔκλαυσε πικρῶς*) and Judas' *remorse unto damnation* (Matt. 27:3-5 *μεταμεληθεὶς... ἀπελθὼν ἀπήγξατο*) is the paradigm Wittenberg pastoral-typological *sedes* for the doctrine of penitence. Cf. **Luther, *Kirchenpostille*** on Maundy Thursday and Passiontide (WA 10/I.2:143ff.); **Melanchthon, *Loci* 1559 *De Poenitentia*** (CR 21:895ff.). Selnecker's own **hymn *"O Herre Gott, mein Sünd sind groß"*** (1572) works out the Peter-typology in vernacular verse. The *"drops of tears imprinting furrows upon Peter's cheeks"* topos is a paradigm medieval-hagiographic locus (via **Legenda aurea**) which the Wittenberg homiletic tradition retained. Cf. also **FC SD III. 22-31** (*BSLK* 923f. / *Kolb-Wengert* 564-565) which — although its principal focus is justification — echoes the Peter-Judas paradigm.
+
+¹³⁹ **Luther on *poenitentia ex Lege dimidium poenitentia*.** — The Lutheran dictum *"Die Buße aus dem Gesetz ist eine halbe Buße"* traces to **Luther, *De poenitentia*** (WA 1:319-324) — the 1518 *Sermo de poenitentia* — and to the **1519 *Sermo de sacramento poenitentiae*** (WA 2:709-723 / *LW* 35:9-22). The paradigm-Reformation systematisation is in the *Ninety-Five Theses* Theses 1-4: *"Dominus et magister noster Iesus Christus, dicendo 'poenitentiam agite' etc., omnem vitam fidelium poenitentiam esse voluit."* Cf. **Luther, *Große Katechismus* — Beichte** (*BSLK* 725ff. / *Kolb-Wengert* 476ff.) for the mature Lutheran two-part penitence framework (which the Formula of Concord Article V — *De Lege et Evangelio* — codifies). The three German proverbs Selnecker cites (*Wol gebeicht ist halb gebusset*, *Gnad geht für Recht*, *Nimmer thun ist die beste Buße*) are paradigm second-generation Wittenberg vernacular-pedagogical formulations transmitting the Lutheran doctrine of penitence to children.
+
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
@@ -2065,5 +2075,111 @@ These passages, wrested to unstable the righteousness of faith, we have thought 
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI PRIMI DE IUSTIFICATIONE HOMINIS CORAM DEO.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+# Locus II. De Poenitentia · On Penitence
+
+Most rightly is it said that the whole doctrine of Law and Gospel is idle unless *penitence* be added. It is necessary therefore that the youth be rightly instructed concerning it. That we may speak in order the things which are necessary, we shall propose these as it were *heads* unto the studious:
+
+1. **What is penitence.**
+2. **Whether penitence is to be preached out of the Law, or out of the Gospel; and what is the distinction between the penitence of Judas and the penitence of Peter.**
+3. **What are the parts of penitence.**
+4. **What causes ought to stir us daily unto penitence; and by what modes God exhorteth and forewarneth us before He punisheth.**
+5. **How the examples of the punishments are to be considered.**
+6. **What is the true reasoning of doing penitence.**
+7. **What are the errors of the adversaries concerning penitence.**
+8. **Of Absolution — likewise of the Cross of the Church and of the pious.**
+
+## §1. Of the First Question — What is Penitence.
+
+We shall omit the insufficient descriptions of penitence — such as this one very customary among the schoolmen and monks: *Penitence is to bewail past evils, and to commit no more evils to be bewailed*. Ridiculous etymologies also let us remove — such as this: *poenitentia, quasi poena tenentia* ("penitence as it were the *holding of the punishment*").
+
+The Greeks call it *μετάνοιαν*, which we — from *poenitendo* — name *poenitentia*. And as far as pertaineth to the etymon, the word *poenitentia* pertaineth chiefly to *contrition*. For it signifieth *sorrow* — in which is *reproof, accusation, and rejection of the prior deed*. In German we call it *Buße*, but less properly. For this German word signifieth many things — *chastisement and satisfaction*. Yet we use this same word customarily and rightly for *the whole conversion*. And it must be observed in the reading of Sacred Scripture that the voice of *penitence* sometimes is used *for sorrow or contrition, which is the first part of conversion* — namely when the word of faith or of the Gospel is expressly adjoined — as in Mark 1: *Because the time is fulfilled and the kingdom of God draweth nigh, do penitence, and believe the Gospel* — *μετανοεῖτε καὶ πιστεύετε ἐν τῷ Εὐαγγελίῳ*. And Acts 20: *I have testified penitence and faith in Christ*. And Acts 26: *I preached unto the Gentiles that they should do penitence and be converted unto God, doing works worthy of penitence*. But sometimes it is used *for the whole conversion, which consisteth in contrition, faith, and new obedience* — as Acts 2: *Do penitence, and let each one of you be baptised*. And Matt. 3: *Do penitence, for the kingdom of the heavens draweth nigh.*
+
+Of the word *τῆς μετανοίας* this also is to be observed: that *τὸ μετανοεῖν* signifieth properly *to grow wise after the deed, and so to grieve for the error that thou takest care to correct it* — that is (as the Latins speak) *to come to one's senses again* (*resipiscere*). And this word is always placed in a good sense, and hath always joined with itself *σωφρονισμός* — as hath been observed — save only that Ausonius by reason of the pentameter verse used the word *τῆς μετανοίας* in an evil signification, saying: ¹³⁶
+
+> *Sum Dea, quae facti, non factique, exigo poenas,*
+> *Nempe ut poeniteat, sic Metanoea vocor.*
+
+*(I am the goddess who exacteth punishments for the deed and for the not-deed — namely so that one may repent; and so am I called Metanoea.)*
+
+In Hebrew *Shob* signifieth *μετανοεῖν* — *he hath returned, he hath come to his senses again* — as Ezek. 33: *Return ye, return ye from your most evil ways*; Jer. 3: *Return ye, ye backsliding children, saith Jehovah*. The Greeks with the preposition prefixed say *ἐπιστρέφω* — *I return*. And Peter, Acts 3, when he had said *μετανοήσατε*, immediately subjoined *καὶ ἐπιστρέψατε*, that he might explain that. And considered in this manner, the word *μετανοίας* — which in Hebrew is *Teshuvah* (as the Hebrew version of Matthew also hath) — always signifieth *the whole conversion*.
+
+But another thing is *τὸ μεταμέλει* — that is, *to play Epimetheus*, and to be solicitous and anxious after the deed — this is properly to be sorry, whether the deed done be good or evil — and to be destitute of any new counsel. So Judas *μεταμεληθεὶς ἀπέστρεψε, οὐ μετανοηθείς* — was moved with regret and turned back, not with *μετάνοια* — and was swallowed up in sadness. The Hebrews say *Nicham* — *he was reminded after the deed* — although this very word does not simply in all places of Scripture signify *μεταμέλεια*, but often carrieth with itself also *Evangelical consolation*, as Isa. 51: *The Lord hath consoled Zion; He hath consoled all her desolations.* ¹³⁷
+
+### Definition of Christian Penitence.
+
+Let the definition of penitence, or of conversion, be this: **Christian and salutary penitence is the conversion of man unto God, which cometh to pass when man is terrified and grieveth with the knowledge of the wrath of God against our sins, and again is uplifted by faith receiving the remission of sins by the confidence of the Son of God, and in this faith incepteth new obedience, and is made a new creature, and liveth according to the will of God as much as can be done in this infirmity.**
+
+Unto this penitence are required these heads, which by all the pious must daily be considered:
+
+- The knowledge of God: *I am the Lord thy God*.
+- Consideration of the obedience which God demandeth in the Law.
+- The comminations wherewith God damneth disobedience, visiting the iniquity of the fathers upon the sons.
+- The office of all men — of those created for perfection.
+- The misery of the human race, sustaining the malediction of the Law and manifold punishments because of disobedience.
+- The origin and cause of all evils.
+- The examination which each one ought to institute with himself according to each precept of the Decalogue.
+- The knowledge of one's own turpitude and of just damnation.
+- Accusation of oneself: sadness and anxiety; fear and trembling; terror in the conscience.
+- Divine judgment; present calamities in every state of life; the tyranny of the Devil and of the world; infernal pains; death and eternal damnation.
+- Despair concerning the counsel and help of all creatures.
+- Apprehension of the mercy of God promised for the sake of Christ.
+- Consideration of the causes of the passion and death of Christ.
+- The hand of the Son of God snatching us out of hell.
+- Confidence of the remission of sins.
+- The promises of God, and the examples of these.
+- Confession. Sighing. Deploration of sin. Prayer. Hope of pardon. Faith. Consolation.
+- Absolution from sins.
+- Justification before God through and for the sake of Christ. Imputation of the righteousness of Christ. Acceptation unto life eternal.
+- The donation of the Holy Spirit.
+- Peace with God.
+- Thanksgiving, and preaching of the mercy of God.
+- Fruits of righteousness. Good conscience. Fidelity in invocation.
+- Constancy, and perseverance in faith and pious life.
+- Preparation for the contest and for judgment.
+- Patience in all tribulations and calamities.
+
+All these things are required for the *not-only-theoretical but practical* description of penitence — as all the pious who have the exercises of penitence testify.
+
+## §2. Of the Second Question — Whether penitence is to be preached out of the Law or the Gospel; and the distinction between Peter's and Judas' penitence.
+
+The response of some doth not displease us: namely that *μεταμέλεια* out of the Law, but *μετάνοια* salutary — which is the *coming-to-one's-senses again* or the *conversion unto God* — must be preached out of the Gospel, according to that of 2 Cor. 7: *The sadness which is according to God worketh penitence unto salvation, whereof no man may repent; but the sadness of the world worketh death.* Neither doth the sentence of some rightly understood displease — who say that the *Law* simply accuseth and damneth the sinner, whether he do penitence or do it not. There standeth the sentence of the Law without exception: *Cursed is every one that keepeth not the things which are written in the book of the Law.* Bare and *deadly* therefore is the contrition out of the Law alone — as in Cain, Saul, Ahithophel, Judas, and the like it is manifest. So it is written to the Hebrews 10: *There remaineth no more sacrifice for the sins of those who sin, but a certain fearful expectation of judgment, and the ardour of fire which is going to devour the adversaries. He that despised Moses' Law, without any mercy, died under two or three witnesses.*
+
+It is established therefore that without the declaration of the Gospel, penitence is neither true nor salutary, but plainly deadly. Wherefore the *order of the preaching and of the exercises of penitence* is to be considered. The Law setteth forth the *accusation of all sins* (which are nothing else than *ἀνομίαι* — violations of the mandates of the Law). From this accusation — which is the exordium of penitence — ariseth *sorrow*, which is named *contritio*; and out of the Law in the unbelieving worketh *servile fear* — that is, flight and roaring — as in Cain, Saul, and Judas. But that the sinner overcome not with that sorrow of the voice of the Law rush into despair and eternal punishments (as Cain, Saul, and Judas), but that the contrition be made salutary, immediately must be heard the *voice of the Gospel*, which worketh *filial fear* — that is, a true terror indeed and sorrow of the soul consternated at the feeling of the wrath of God and the fear of the punishments, but *tempered and softened by faith in the Son of God*, whom the voice of the Gospel showeth, uplifting the sinner amid these fears, and consoling the hearts.
+
+But when the sinner, terrified by the preaching of the Law and again uplifted by the voice of the Gospel, conceiveth *hope of pardon* and approacheth God — asking and receiving the remission of sins freely, by faith, for the sake of the Son the Mediator — he studieth thenceforth to obey God, and to bring forth the fruits of righteousness, and to do the works of the Holy Spirit — the catalogue and norm whereof the Law containeth and prescribeth, showing what works are to be done, namely those which God Himself hath commanded. And although great be the infirmity of our nature and there remain in the saints many relics of sin, and no man in this life can satisfy the divine Law, yet the Gospel is added, showing how good works can be done and how they please God, though imperfect and defiled. But of these things we shall speak more copiously below in the doctrine of good works.
+
+From this *order of the preaching of penitence* can be beheld what is the distinction between the penitence of Peter and that of Judas. In Peter there is not only *huge sorrow* — so that it is written that assiduous drops of tears have even imprinted furrows upon his cheeks — but also *faith and consolation* leaning upon the grace and mercy of Christ. But Judas *despaireth*, and neither believeth, nor asketh, nor receiveth remission of sins. ¹³⁸
+
+## §3. Of the Third Question — What are the parts of Penitence.
+
+When the word *penitence* is received *for the whole conversion of man*, customarily it is said that there are **three** parts of penitence, which are: **Contrition, Faith, and New Obedience** — among which Faith alone is the *middle*, whereby is apprehended the remission of sins and the certitude of salvation and of eternal life — obtained, given, and exhibited unto us because of Christ without our works.
+
+But there are required unto **Contrition**:
+- Knowledge of God;
+- Examination of the deed;
+- Terror of conscience;
+- Confession.
+
+Unto **Faith** are required:
+- Thought of mercy;
+- Petition of pardon;
+- Confidence;
+- Justification, or reconciliation.
+
+Unto **New Obedience** are required:
+- All the fruits of faith: all good works in the institution of the heart, of the mouth, and of the life, according to the Law of God.
+
+The **first part** of penitence Psalm 13 expoundeth: *Usquequo Domine — How long, O Lord*. The **second** Psalm 14 expoundeth, showing the distinction between the penitence of Judas and of Peter — or of David and of Saul — and teaching that no man can be saved without the knowledge and faith of *the Salvation of God, which is Christ*. The **third part** of penitence Psalm 15 expoundeth, showing what works please God, and which are the true and living members of the Church of God: *Domine, quis habitabit in tabernaculo tuo — Lord, who shall dwell in Thy tabernacle?* And all the parts of penitence David comprehendeth in Ps. 25, saying: *He shall teach sinners in the way; He shall direct the afflicted in judgment; He shall teach the afflicted His ways.*
+
+The German tongue expresseth the same parts of penitence by three proverbs which can be set before children:
+- *Wol gebeicht ist halb gebusset* — *"Well-confessed is half-atoned"*. For truly *penitence out of the Law is half of penitence*, as Luther saith. ¹³⁹
+- *Gnad geht für Recht* — *"Grace goeth before right."*
+- *Wer auff Gnad dienet, dem wirt mit Barmherzigkeit gelohnet* — *"He who serveth in trust of grace, unto him it is recompensed with mercy."*
+- The third part: *Nimmer thun ist die beste Busse* — *"To do so no more is the best penance."*
+
+```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
