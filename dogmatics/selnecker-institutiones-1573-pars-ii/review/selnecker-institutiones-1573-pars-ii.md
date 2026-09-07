@@ -6405,3 +6405,263 @@ Concerning that diversity by which Paul, Acts 16, willed *Timothy* to be circumc
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## On Sacrifices.
+
+Now, as touches sacrifices, let there be in the sight of the studious this **table on the six kinds of sacrifices** which are described in Leviticus 6:
+
+### Three Sacrifices *ἱλαστικά τυπικῶς* — Propitiatory-Typical (of the holies of holies).
+
+1. ***ὁλοκαυτόν or ὁλοκαύτωμα***, Hebrew **Oleh** or **Kilil**, Greek *τελετή* — the *whole-burnt-offering* (**Brandopffer**).
+2. ***θυσία περὶ ἁμαρτίας*** — the *sacrifice for sin* (**Sundopffer**), Hebrew **Chatoth**.
+3. ***θυσία περὶ πλημμελείας*** — the *sacrifice for delinquency* (**Schuldopffer**), Hebrew **Ofcham**.
+
+- **The first** was *διαλλακτικόν*, instituted for placating God.
+- **The remaining two** were *ἀπολυτρωτικά* — that is, *redeeming the penalties of certain delicts*: the former of *τῶν ἀκουσίων* (of things committed by error or ignorance); the latter of *τῶν ἑκουσίων* (of voluntary offences).
+
+**Oleh** among the Hebrews hath its name *from ascending*, because the whole-burnt-offering was elevated above the altar, and its odour ascended on high into the sight of God. It was **a type of the one and true Whole-Burnt-Offering, the Son of God — because He was to be exalted on the cross, and by the fire of charity to be offered for the sins of the whole human race**. The Greeks call it *ὁλοκαύτωμα* because *the whole was burnt* — as a sign that *the whole depraved human nature is to be burnt and abolished*.
+
+**Colil** (which also is rendered by the name of *whole-burnt*), from **Colal** (*he consummated*, Ps. 51) — Greek *τελετή* (consummation) — is not distinguished from the prior save that *from Oleh some part of the sacrifice went to the priest, but from Colil plainly none*. Whence often are conjoined *Oleh-Colil*, when the total sacrifice is signified (as 1 Sam. 7, Ps. 51, and elsewhere).
+
+**Hataph** signifieth *piaculum* — that is, a *sacrifice of expiation* by which a wrong is expiated — from ***Chato*** (*he sinned, erred, was delinquent*). Of this sacrifice there were **two kinds**:
+
+- **One of animals** whose *blood was carried into the tabernacle of testimony*, and *the fat was burnt above the altar of the whole-burnt-offering*; but *the remaining parts* — head, entrails, legs, and skins — *were burnt outside the camp* (Lev. 4). Hither alludeth Heb. 13: *The bodies of animals whose blood is carried for sin into the holies by the Pontiff are burnt outside the camp — wherefore also Jesus suffered outside the gate, that He might sanctify the people by His own blood.* For the *blood of Christ is carried into the tabernacle of testimony*, and on account of Him God is merciful to us, who are yet outside the camp, subjected to the cross and death. Hence too arose the *phrase to offer sin for sin* (Lev. 4 and 6), which also Paul used Rom. 8: *For sin He condemned sin* — that is, by His piaculum or sacrifice and victim He abolished our sin. And 2 Cor. 5: *Him who knew not sin, He made sin* — that is, *the victim and hostia destined for expiating sin*. And Isa. 53: *ἐὰν δῷ τὴν ψυχὴν αὐτοῦ περὶ ἁμαρτίας*.
+- **The other kind** was of animals whose *blood was not carried into the tabernacle*, and whose *flesh was received and eaten by the priests* (Lev. 6).
+
+**Aſam** signifieth both *guilt and penalty*. It hath its name from the *breath which comes with abomination and horror*, as the Germans say: *pfui — scham — schand* — *ἄσχημος, ἀσχέτλιος, den man anſpeiet*. But it is taken also *for a victim which is made to expiate sin*. Isa. 53: *He shall lay down His soul as Asam* — that is, *a victim for sins, even actual*.
+
+### Three Sacrifices *χαρικά* — Eucharistic or Common-Holy (not "holies of holies").
+
+1. ***δώρον θυσίας*** — **Minhah**, *oblation* — *libation, or thanksgiving for life and provisions* (**Speisopffer**).
+2. ***θυσία σωτηρίας*** — **Zebah Schelomim**, *hostia pacifica* or *of the peaceful* (**Danckopffer**).
+3. ***θυσία αἰνέσεως*** — **Thoroh**, *sacrifice of praise* (**Lobopffer**) — that is, *confession of the true God, distinct from feigned deities*.
+
+**Minha** deriveth from **Nobab** (*he led placidly*). For it signifieth *whatever donative is given willingly*. Then it is transferred to *oblation which is offered to God*. Afterwards it is used more specially of the *five kinds* (Lev. 2):
+
+1. Simila (fine flour) *with oil poured on and frankincense placed above*.
+2. Little cake or crustula *of unleavened simila* — anointed and mixed with oil, cooked in a *clibanus*.
+3. Simila unleavened *mixed with oil* and *cooked in tongs*, broken into portions with oil poured on.
+4. Simila unleavened in a *cacabus and cooked with oil*.
+5. Ears from the first-fruits of grains, *toasted at fire and pounded*, with oil and frankincense set above.
+
+For by these species God indicateth that *thanks must be given for both matter and form, and for distribution, use, and provenance*. **Oil** signifieth *mercy and liberality toward the neighbour*. **Frankincense**: *invocation*. **Salt**: *moderation and temperance*. But *use of honey and leaven* is prohibited — that is, *carnal voluptuousness and evil example* (1 Cor. 5).
+
+**Zebah Schelomim** — *sacrifice from a slaughtered flock*, as it were *retribution for some benefit received from God* — *ein Vergeltopffer* (Lev. 3).
+
+**Thoda** (Lev. 7) — from the preceding, which differs not in the *final cause*. But the matter maketh the discrimination. For the former is taken from *cattle*, this from *little cakes*.
+
+### What is Sacrifice.
+
+This catalogue being set forth, it can easily now be gathered what a **sacrifice** is — namely, **a work of ours which we render to God to affect Him with honour, but expressly mandated by God, by which we testify that this is truly God, unto whom we render this obedience**.
+
+Now some sacrifices are ***typical***; others are ***ἀντίτυπα*** (antitypal) — not shadow, but *the things shown before in types*. So Peter (1 Pet. 3) calleth **Baptism** — as *prefigured by the deluge* and *set against the type*.
+
+### The Six Ends of Typical Sacrifices.
+
+**Typical are all the sacrifices in the Mosaic Law**, whose principal ends were:
+
+1. **That they should be the sinews and bonds of public gatherings**, in which *the voice of the promise concerning Christ might sound*, and *the whole doctrine of true Religion might be propagated to posterity*.
+2. **That they should be *pictures* admonishing the pious souls of the future sacrifice of Christ** *placating God's wrath and meriting remission of sins*. Whence **Augustine** *De Civitate Dei* bk. 10, ch. 20 saith: *The manifold and various signs of the true sacrifice were the ancient sacrifices of the saints — since by many things this one thing was figured, as by many words one thing was said, that without loathing the many might commend it. Unto this supreme true sacrifice all false sacrifices have yielded.*
+3. **That for the pious they might be in place of Sacraments** — that is, *testimonies of the promise, exciting and confirming faith*.
+4. **That they might be works of confession and thanksgiving.**
+5. **Exercises of discipline.**
+6. **Subsidies for the ministers, lest their food be lacking.**
+
+### Why So Many Sacrifices? — Three Causes.
+
+- **First**, that the *Israelite people might have a certain norm of rendering external worship to God*, nor imitate the examples of neighbouring nations.
+- **Second**, that the *variety of the benefits of Christ might be signified*.
+- **Third**, that it might be shown that *not by these sacrifices are sins expiated, but that there is need of one certain and sufficient sacrifice* (Heb. 10).
+
+### Antitypal Sacrifices — Propitiatory and Eucharistic.
+
+**Antitypal** or ***δ᾿ αγγελικά καὶ ἀληθινά*** (evangelical and true) — which we actively call *antitype*, in the mode in which the Epistle to the Hebrews *χειροποίητα ἅμα* calleth *ἀντίτυπα τῶν ἀληθινῶν* — that is, having *τύπον χοντα τῆς ἀληθείας* (a type of the truth) — but *passively*, as Peter useth this word (1 Pet. 3), and calleth Baptism *ἀντίτυπον of the deluge* — that is, *signified by the type and set against the type*, since it no longer hath type but truth (and as the German version hath it: *das durch jenes bedeutet war*).
+
+**Antitypal sacrifices**, then, are **twofold**: one alone is *propitiatory*, the others are ***Eucharistic***.
+
+### The One Propitiatory Sacrifice — ἱλαστήριον.
+
+***θυσία ἱλαστική*** is **the price for sins which meriteth remission of sins for others**. And **such sacrifice is only of the Son of God** — His obedience in all His afflictions.
+
+- Matt. 20: *He shall lay down His life* ***λύτρον ἀντὶ πολλῶν*** — that is, *the price of redemption and satisfaction for many, by which the captives redeemed are dismissed* — *Losgeld, oder Rancion*.
+- John 10: *He giveth His life for us as* ***λύτρον, seu θυσίαν ἱλαστικήν***.
+- 1 John 2: *He Himself is the propitiation (ἱλασμός) for our sins.*
+- Rom. 3: *We are justified freely by His grace, through the ἀπολύτρωσις (redemption) which is in Christ Jesus — whom God set forth as ἱλαστήριον (propitiatory), through faith in His blood.*
+- 1 Tim. 2: *Christ gave Himself* ***ἀντίλυτρον*** *for all.*
+
+Of the voice ***ἱλαστήριον*** let me report a few things to the studious. **Cophar** among the Hebrews properly signifieth *to smear over with pitch or bitumen* — as above ch. 6: *Thou shalt smear the ark with bitumen within and without*. Hence the name **Caphar**, which signifieth *pitch and bitumen*. The Arabs name it *Carabem*; others *Ambar and Ambra*; and *Chamar*, which also for the Hebrews is *bitumen*. Some think it to be *black succinum*. We commonly name it *Camphor*. Hence **Caphores** or **Caphoreth** — *the golden throne of grace, that is, the propitiatory or covering* by which the ark was closed as by a lid. For it hath its name not only from *smearing* but from *covering*. But as by that lid *the Law was covered — which is the knowledge and virtue of sin* — so Christ *covereth and hideth our sins*. Therefore in Ps. 32 it is written: *Blessed is he whose sin is covered and hidden — namely, through Caphores, the Son of God*. On this cause Paul rendered this word *Caphores* as *ἱλαστήριον*. And hence it is that *Copher* among the Hebrews is the same as *Phideion* and *λύτρον* (Num. 35): *Ye shall not take the price of redemption for the life of a homicide.*
+
+And **three significations** are of the vocable **Copher**, which are to be referred to *the merit of Christ*: it signifieth *λύτρον* (as I have said); then *the gift given to placate the judge, by which the eyes of the judge are turned away from the object*; afterwards *piaculum, δείψημα*. For **Christ is our *λύτρον*, and placateth the Father by His own blood, and being made for us the malediction freeth us from malediction, and cleanseth us from all iniquity**.
+
+These things on the signification of τῷ *ἱλαστηρίῳ* in passing I have reported — that we might consider *the force of the vocable*, and might know that we have *only one ἱλαστήριον, the Son of God*, through whom by *Caphores* we ought to be *mutually cemented and glued together — καὶ ἐγκομφῶσαι* (1 Pet. 5) — *by charity and humility*, and *καὶ ἁρμόζειν* (to be fitted) to one husband (2 Cor. 11) — namely, by *faith, hope, consolation, and constancy — κολλώμενοι* (Rom. 12).
+
+Hither pertaineth the Epistle to the Hebrews — especially ch. 7, 9, 10. *Once entered into the Holies of holies, He hath found eternal redemption.* Likewise all the passages of Scripture which testify to the *Saviour, Redeemer, and Justifier as unique*.
+
+### The Eucharistic Sacrifices.
+
+But **sacrifices** *χαριτικά* are **all works mandated by God which are done in us with faith pre-shining — that we may testify that this is truly God whom we worship, and obey Him, and be grateful**. Of these 1 Pet. 2: *Ye are a holy priesthood, that ye may offer to God spiritual hosts, acceptable to God through Jesus Christ.*
+
+### What Are the True Sacrifices of Christians?
+
+1. ***Spirit contrite*** — Ps. 51. **Augustine** *De Civitate Dei* bk. 10, ch. 5: *God willeth not the sacrifice of a slaughtered flock, but the sacrifice of a slaughtered heart.*
+2. ***Sacrifice of righteousness*** — Isa. 1; Jer. 6; Mal. 3; Ps. 4, 40: *There shall be to the Lord those offering sacrifices in righteousness, and it shall please the Lord.*
+3. ***Sacrifice of praise*** — Hos. 14. **Chrysostom** Homily 23 on Heb. 13: *Through Christ we offer the sacrifice of praise to God for ever — that is, the fruit of lips confessing His name. Let our voice resound nothing of blasphemy, nothing supine, nothing petulant, nothing contumacious, nothing arrogant — but with modesty and reverence let our conversation be.*
+4. ***Hostia of beneficence and communion.*** *To love thy neighbour as thyself is more than all whole-burnt-offerings and victims.* For the Lord saith: *I will mercy, and not sacrifice* (Hos. 6).
+
+**Cyprian** *Sermon 6 on the Lord's Prayer*: *God commandeth that we be peaceful and concordant and unanimous in His house, and such as He hath made us by the second birth, so He willeth the regenerate to persevere — that we who have begun to be sons of God, may remain in God's peace, and to whom the Spirit is one, the soul also and sense may be one. Otherwise God doth not receive the sacrifice: He commandeth the dissenting one, returning from the altar, first to be reconciled to his brother, that with peaceful prayers God also may be placated. A sacrifice to God greater is our peace and fraternal concord, and, of the unity of the Father and Son and Holy Spirit, the people made one.*
+
+**Augustine** *De Civitate Dei* bk. 10, ch. 4: *We sacrifice to God the hostia of humility and praise on the altar of the heart, with the fervid fire of charity.*
+
+5. ***Rational hostia of our own bodies*** — Rom. 12. *Present your bodies a living hostia, holy, acceptable to God — your rational worship* — that is:
+
+- Be first ***παρατάτοι*** (stationed) — as manipular soldiers placed in the battle-line; and desert not your station, whether struck by fear, or by love of life, or giving occasion to others of deserting the line, in which we ought to *dedicate and join our bodies to God* (for this is *παραστῆσαι*).
+- Then, *be not slaughterers of flocks* like the Levites, but *have account of your bodies, of health, of vigour, and of the medicine which through Christ hath befallen*.
+- Afterwards, ***live*** — that is, *have the inceptions of the light of righteousness and eternal life, and be converted to God*.
+- Fourthly, ***be holy*** — that is, *truly consecrated to God, not profane, not only Ethnics or Philosophers, but truly believers and regenerate*.
+- Fifthly, *ye shall be acceptable to God on account of the Mediator*.
+- Sixthly, all these things shall follow ***λογική λατρεία*** (rational worship) — that is, *the mind shall understand the true doctrine of God's essence and will, and shall obey God by faith, and shall direct all its actions in the action and confidence of the Mediator unto the celebration of God*.
+
+These things in general on the sacrifices of the Old and the New Testament let have been said.
+
+### Why the Lord's Supper is Sometimes Called *Sacrifice* by the Fathers.
+
+But it is customarily asked *why also the Lord's Supper is named a sacrifice in the writings of the Fathers*.
+
+**The response is plain and true**: The *memory of a sacrifice once made* is by the Fathers called a *sacrifice* — and therefore the Lord's Supper is called *sacrifice*, because in it the *memory of Christ's sacrifice* is made, according to that: *This do in remembrance of Me.* But what is remembrance other than *praise and thanksgiving*? And *praise is a sacrifice*. These things are plain and true, so that there is no need of a heap of testimonies from the Fathers, which nevertheless most easily from *Augustine, Cyril, Cyprian, Chrysostom*, and others can be brought forth.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## On the Papal Mass.
+
+These things being thus expounded, I deem that also somewhat concerning the **Papal Mass** must be added.
+
+Now the vocable ***Missa*** properly signifieth *tribute and contribution* — although others have another etymon (as I shall now say). For the Hebrews call *Missa* — **Missah** — the *contribution by which gifts were brought to ministers and the poor* (Deut. 16): *Thou shalt make a solemn feast to the Lord thy God, an* ***spontaneous Missa of thy hand*** — that is, *contribution according to thy resources*. The Greeks rendered it ***λειτουργίαν*** — *public burden, an assessment*: a *contribution*, either *personal or real*, by which from the multitude or from resources *a person or thing is contributed as subsidy*.
+
+Others derive it from **Mizhab** — which word signifieth *the altar on which slaughtered flocks were sacrificed* — from **Zebah** (sacrifice). This etymology they make who wish the Mass to be a *sacrifice*.
+
+Others considering the matter — that is, the idolatry of the Mass — derive it from **Maoz** — which word signifieth *fortification*. For Dan. 12, God is called **Maussim** — *God of protections and fortifications, by which the kingdom of Antichrist is propped*.
+
+Others think it a **Latin** vocable, signifying the same as *remission*: for **Cyprian** in book 3, ep. 8, said *remissam* for *remission*: *to accede unto the accepting of the remittance of sins*. And at the end of the Mass to the people is customarily said: *Ite, Missa est* — as though he should say: *"Remission of sins hath been announced to you"* — *λαοῖς ἄφεσις ἔστω* ("let there be remission to the people, who namely have acceded to Communion"). Thus the Greeks spoke. Others: ***Ite, Missa est*** — *λαοῖς ἄφεσις, mission of the peoples* — understand [it] for *dismission*, as though he should say: *"Now each is permitted to depart."* This etymon Polydore Vergil confirms out of Apuleius' *Golden Ass*.
+
+Others of the Papists wish the *Mass* to be named from the fact that the sacrifice is sent to God (*mittatur*) — and therefore on feast days thus they sing: *"Ite vos benedicti, et electi via mi pacis, pro vobis Deo Patri hostia missa est"* (Go, blessed and elect, on the way of peace to me: for you a hostia has been sent to God the Father).
+
+These things in passing on the etymon of the vocable *Missa*.
+
+### Three Things the Papists Add to the Sacrifice in the Mass.
+
+Now three things are added by the sacrificers to the Mass:
+
+1. **That the *Missarius* is a *mediator* between God and man** for whom he offers the sacrifice or celebrateth the Mass.
+2. **That in the Mass he offers the true body and true blood of Christ to God the Father.**
+3. **That by this oblation of the body and blood of Christ he impetrates for the living and dead grace of God and remission of sins.**
+
+**The first is blasphemous against the Son of God.** For **Christ alone and one is Mediator** (1 Tim. 2): *One God, and one Mediator of God and men, the man Christ Jesus.*
+
+**The second is likewise impious.** For **Christ once offered His body and once shed His blood, and commanded it to be received and eaten** — *not to be offered or sacrificed* — especially since *by no creature, Angelic or human, can it be offered*, but He Himself offereth Himself. And **the New Testament in no place calleth the Lord's Supper a sacrifice** — which must diligently be observed and considered.
+
+But that the Fathers afterwards named it *sacrifice* — they understood [it] of *sacring and of divine worship* (for this signifieth ***ἱερουργία***) and of *the commemoration of the unique sacrifice once offered on the cross*, as **Chrysostom** in Homily 27 on Heb. 9 manifestly testifieth. And although sometimes the Fathers seem to speak *more rigidly*, yet their mind and sentence is plain — which even were it not plain, yet we ought to remain in the sentence of Sacred Scripture, which nowhere calleth the Lord's Supper a *sacrifice*.
+
+**It is certain**, as above hath been sufficiently said, that ***some sacrifices are spiritual and internal, others external or corporal***. The **spiritual** are: *prayer, confession, thanksgiving, preaching, patience, humility*, and other such worships and *fruits of faith* (Rom. 12). The **external** sacrifices are *ἱλαστικά, or τυπικά, or Eucharistic donations*. ***ἱλαστικόν*** is only of God — *λύτρον*. All **typical** things ceased with Judaism. Therefore remain unto us only the **Eucharistic** things, until the end of the world — by which the pious show their gratitude toward the spiritual and corporal benefits of God, by *contributing and giving necessaries for the preservation of Churches and Schools, by succouring the poor, the sick*, and the like — as Paul (Phil. 4) calleth the contribution sent to him *θυσίαν*; and Heb. 13 by the same name is called the *beneficence of the pious rendered to the indigent*. In German we call it ***Danck vnd geschenckopffer***. The word ***εὐχαριστικόν*** is more general, which however we use for a *gift by which we exhibit our gratitude*.
+
+**The third also is false and impious.** For God on account of no other work remitteth to men their sins, save on account of the *work of the sacrifice which the Son of God once on the cross completed* — nor is it accomplished again in the Supper, save only *by remembrance and preaching of Him*.
+
+### Seven Reasons to Reject the Papal Mass and Its Errors.
+
+Since therefore the errors of the sacrifice of the Papal Mass are *against the Word of God*, and secondly, *all idolatry must be shunned* (1 Cor. 10: *Flee idols*), and thirdly, ***ἐθελοθρησκεία*** must be damned (Isa. 29 and Matt. 15: *In vain do they worship Me by mandates of men*), and fourthly, the *use of the Sacraments unto which they were instituted must be retained*, and fifthly, *the Testament of the Son of God must not be changed* (Gal. 3), and sixthly, *every profanation of the Sacrament must be shunned*, and seventhly, since *there is only one propitiatory sacrifice, whose seals are Baptism and the Lord's Supper* — **therefore we rightly reject these errors** and all others which have been added to them — as *the taking away of the cup, the fiction of transubstantiation, of inclusion, of circumgestation, of purgatory, of invocation of the Saints*, and the like.
+
+### Theses on the Mass — 34 Numbered Heads.
+
+Now we shall subjoin certain **Theses on the Mass**, that the studious may have exercise of comparing among themselves concerning the *idol Maozim*, which truly was *the fortification of the Pontificate* (Dan. 12).
+
+**I.** In the case of the Mass, that concerning it we may judge piously and rightly, the *first institution of the Lord's Supper*, described in Matt. 26, Mark 14, Luke 22, and 1 Cor. 11, must be consulted.
+
+**II.** In that institution there are six chief members or dicta-and-facta of Christ, which the *sacrificers* have depraved, and by which safe the errors of the Papal Mass of themselves fall.
+
+**III.** The **first** is: **Christ took bread and cup, blessed and brake, and gave to His disciples.**
+
+**IV.** For by these words are shown *the matter of the Supper* (bread and wine); *the form of the Supper* (blessing or consecration); and *the use of the Supper* (breaking or distribution).
+
+**V.** As to *matter*, the Mass hath these too. As to *form*, it would have this too, unless the *sacrificer* abused the consecration against Christ's will (as a little later shall be said). As to *use*, the sacrificer erreth — *not distributing bread and wine*, but *offering to Him from whom he ought to receive*, and *withdrawing from those to whom he ought to give*, and afterwards *himself alone eating consecrated bread and wine*.
+
+**VI.** The **second** is: **Christ said, Take, eat, drink.**
+
+**VII.** By these words is plainly expressed *the use of the Supper*, and all abuses are cut off — as are:
+
+1. That the *Missarius alone eateth the consecrated bread, alone drinketh the consecrated wine*.
+2. That he *feigneth that all the spectators — nay even the dead — spiritually together eat, as often as he eateth of the bread and wine of blessing, and that he alone in the name and place of all eateth and drinketh* — whereas Christ did not eat and drink with the disciples of the consecrated bread and wine; much less in their name; nor did He wish the disciples to be *spectators, but table-companions*.
+3. That he *affirmeth in species that the food is of the sacrifice, but the fruit of the food is for him who wishes the numbered money-Mass to be made for him* — whereas *the just liveth by his own faith*, and each one *by his own manducation, not by another's vicarious manducation*, ought to apply the merit of Christ to himself.
+4. That if anything of the bread remaineth, *he shutteth it up with lattices*, and *feigneth it to be the true body of Christ or God Himself*, and finally *carrieth it about to be adored* — as the Persians carried about *sacred fire*.
+
+**VIII.** **Rightly said Origen on Lev. 5**: *Christ did not delay, nor bid the Sacrament to be kept for the morrow, but by the words of the present-tense said: Take, eat, drink.*
+
+**IX.** Therefore *only so much of bread and wine as sufficeth for the number of communicants present ought to be set forth in the Supper*, according to that: *Nothing shall remain of it until morning* (Exod. 12). Likewise: *As often as ye shall eat.*
+
+**X.** The **third** is: **Christ said, Drink ye all of this.**
+
+**XI.** By these words *use of each part* (or species, as they call it) *is instituted*. But against these words the *Missarii* delinquish in three ways:
+
+1. That at *certain times of the year, when the Supper is administered to certain persons requesting it, or to the sick*, they administer only *one part of the Sacrament* — the bread they set forth, but the cup they deny.
+2. That they *make discrimination between the Sacrament of the Mass and the Sacrament of the Laity*, or rather between themselves (whom they call *sacrificers and Clerics*) and the *Laity*.
+3. That they *feign the Sacrament of the Mass to avail ex opere operato*, and to *profit the living and the dead*; but the *Sacrament of the Laity to be only a sign of obedience toward the Pontifical mandate*.
+
+**XII.** **Gabriel Biel**, Pontifical [theologian], confesseth: *The beginning of one species is not extant in the annals of writers, nor in the books of doctors, nor in the memories of men.*
+
+**XIII.** Let us consider it piously and gravely said by **Cyprian**: *If he is excluded from the Kingdom of God who shall have taught that the least mandate of the Law was to be loosed — what shall become of him who in the greatest mandates of the Testament of the Son of God shall have depraved anything?*
+
+**XIV.** Let us also hold this most true rule: **True ecclesiastical power never usurpeth to itself the authority either of changing or of abolishing the institution and mandate of the Son of God.**
+
+**XV.** The **fourth** is: **Christ said, This is My body, which is delivered for you: This is My blood, which for you is shed.**
+
+**XVI.** Against this promise of Christ the *Missarii* sin twofold: namely, by the *fiction of transubstantiation* (as they call it), and by the *abuse of consecration*.
+
+**XVII.** ***Transubstantiation is refuted by Paul the Apostle***, who *calleth the bread of blessing the communication of the body of Christ*. And worthy of memory is the voice of **Gelasius Bishop of Rome**: *Certainly the Sacraments which we take of the body and blood of Christ are a divine thing, on account of which and through which we are made *partakers of divine nature*; and yet the *substance or nature of the bread and wine doth not cease to be*.
+
+**XVIII.** ***Abuse* maketh that the words of Christ giving in the Supper His body and blood cannot have place in the *private Mass*** — not that in other natural things abuse takes away the substance of the thing, but that *the things which Christ willed to be done are neglected and contemned*.
+
+**Argument**:
+
+- *Christ's will is that in the Supper there be preached His benefits, and the Church take the Supper, that it may be made one flesh and one blood with Christ.*
+- *In the private Mass there is no public preaching of Christ's death, nor are the bread and wine of blessing dispensed to the Church.*
+- *Therefore the private Mass is not made according to Christ's will and institution.*
+- *And by consequence, the true Sacrament of the body and blood of Christ is not in the private Mass. For where the Son of God's will is absent, there human will effecteth nothing.*
+
+**XIX.** **Bonaventure** saith: *Be it known that in the Sacrament of the Altar not only is required the intention of the consecrator, but also the intention of Him instituting that Sacrament.*
+
+**XX.** What **Augustine** saith: *Let the Word accede to the element, and the Sacrament is made* — is true, if by *Word* is understood the [Word] which *rightly and legitimately — that is, according to the will and sentence of Him instituting the Sacrament — accedeth*.
+
+**XXI.** The **fifth** is: **Christ said, This is the cup of the new Testament.**
+
+**XXII.** These words show us *the last will of the Son of God, now about to accede to His Passion and death* — whence also *the Supper itself is called by Christ the new Testament*.
+
+**XXIII.** But the *Missarii* change this Testament into a *sacrifice* — that is, they will not receive from the Son of God the goods bequeathed to believers, but wish to give and offer to the celestial Father the body and blood of Christ; and, *ex opere operato*, to apply to others also (both most generally — namely, to the universal Church — and most specially to themselves, and finally specially to certain particular men) the *merit of Christ's Passion*.
+
+**XXIV.** Thus the *Missarii violently break off the other seal of Christ's Testament*, denying one species to Christians. Then, having violated the letters, they wish to return them to their Testator. Afterwards they *refuse the goods bequeathed and ambitiously obtrude on their Giver*, and *deride and deprave the whole Testament of Christ*.
+
+**XXV.** The **sixth** is: **Christ commandeth: This do in remembrance of Me.**
+
+**XXVI.** For by these words Christ wisheth to be made *public preaching of His Passion and death* — why and unto what end He suffered, and why He instituted the Sacrament (1 Cor. 2).
+
+**XXVII.** But the *Missarii* feign that the voice ***of doing*** in this place is the same as ***to sacrifice***; then, that the voice of ***commemoration*** is understood of that *silence and private murmur* of the little sacrificer, by which he is held for a while — or of that whole action which they call ***Stillmes*** (silent Mass).
+
+**XXVIII.** At length they conclude: **the whole Mass is a *sacrifice ἱλαστικόν*** (or, as these speak, *propitiable*) — or *a gift for placating God, more precious and acceptable than all the sacrifices of the Law, and not differing from the sacrifice of the Cross, save that this sacrifice of the Cross was made by a *bloody* mode, but that is made by a *bloodless* mode*. Thus **Gabriel Biel** in the *Exposition of the Canon* speaketh.
+
+**XXIX.** These things — since they are *partly ridiculous and vain, partly blasphemous and contumelious against the sacrifice and merit of the Son of God* — are rightly and deservedly rejected and hooted out.
+
+**XXX.** But that the Fathers sometimes use the word *oblation and sacrifice* concerning the Supper — they understand nothing else than the *memory of that true sacrifice once offered by Christ to God the Father* — as when we say: *Today is the Resurrection of the Lord* — that is, *today we recall to memory the Resurrection of the Lord*.
+
+**XXXI.** That also **Tertullian and Cyprian** speak *of oblation for the dead*, it is certain that they *use the word of sacrifice and of oblation for the thanksgiving and gratulation* by which the pious gave thanks to God for the *Christian happily called out of this valley of miseries*.
+
+**XXXII.** But although the Fathers sometimes speak *less properly* — or even were not without errors which took strength by custom — yet **we must resort to the Law and to the testimony**, as eminently **Augustine** *On Pastors*, ch. 14, saith: *I inquire the voice of the shepherd: read to me from the Prophet, read to me from the Psalm, recite from the Law, recite from the Gospel, recite from the Apostle. Thence I recite the Church diffused through the whole world, and the Lord saying: "My sheep hear My voice and follow Me." Let human papers be taken away, let divine voices sound.*
+
+**XXXIII.** As touches what the *sacrificers* attach concerning the ***application*** of Christ's merit which they say is made through the sacrifice of the Mass — it is *vain and false*, since the application is made in no other way than **by the preaching of the Gospel, by the use of the Sacraments, and by each one's own faith** — according to that: *He that shall not believe shall be condemned.* Likewise: *The just shall live by his own faith.*
+
+**XXXIV.** From these things most briefly collected, it is agreed that **the private Mass is plainly *idolatrous and detestable*.**
+
+**Let us therefore pray the Son of God, that He sanctify and preserve us in His truth, and that He Himself bury and take away the errors of the Papists and others. Amen.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI QVINTI · DE SACRAMENTIS + DE BAPTISMO + DE COENA DOMINI + ADIAPHORA + CIRCUMCISIONE + SACRIFICIIS + DE MISSA.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
