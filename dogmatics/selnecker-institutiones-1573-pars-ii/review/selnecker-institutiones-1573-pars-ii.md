@@ -4526,3 +4526,232 @@ To this must also be added: there is in this petition a certain *correction*. Of
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## IV. Give us this day our daily bread.
+
+**Bread** signifieth *whatsoever pertaineth to the sustentation of this corporeal life*.
+
+**Our** we say — that we may seek bread by *just labour*, as piously it is wont to be said: *Ora et labora* (Pray and labour). Then, that we may be *content with what is given us in our vocation*. Afterwards, that we may *abstain from what belongs to another*, nor envy others even a greater portion — because God distributeth corporeal goods *dissimilarly*, nor doth He give the same to all, nor in the same mode.
+
+**Daily** we name it — that we may be admonished *of the mean*, or of ἀυτάρκεια (self-sufficiency) — that we may be *content with a modicum*, as **Solomon** asketh: *Riches and poverty give me not.* The word ἐπιούσιος signifieth *victual* — that is, *fit for our sustenance, frugal, not delicate, but bread*, that is, *sufficient food and clothing* ἐπὶ τὴν ἡμῶν οὐσίαν καὶ ζωήν. Others derive it from ὁ ἰοῦσα, which signifieth *the morrow-day or the post-tomorrow*, ὁ ἰοῦσαν ἡμέραν. Others translate *superstantial bread* — that is, *spiritual and heavenly, not corporeal*. But let us omit these etymologies.
+
+By the word **Today** we are admonished that we be not *solicitous unto the morrow* with an *Ethnic and profane care*, but let us think of the *brevity of life* — and in faith acquiesce in present goods, and rightly use them.
+
+But it seemeth good to add here a brief doctrine on **corporeal goods**, namely on these three heads:
+
+1. **For what causes** the promises of corporeal goods have been delivered by God.
+2. **Why and how** corporeal goods are to be sought.
+3. **What conditions and exceptions** ought to be added to the promises of corporeal goods.
+
+### On the First: Five Causes of the Promises of Corporeal Goods.
+
+**The first** is that we may be *taught concerning providence*, and know that corporeal goods are not offered by *chance*, nor cast up only from *physical causes*, nor procured only by *human industry* — but by a *certain counsel and work of God* they are conferred and augmented unto us from His liberal hand.
+
+**The second** is that *faith, invocation, and hope* may be exercised in both modes — by *petition and by thanksgiving* — and so the presence and goodness of God may become more visible unto us, when He aideth those invoking Him.
+
+**The third** — that they may be a *testimony that God willeth to preserve the Church in this life* (however much subjected to the cross always), and that in *adversities and persecutions* we may have firm confidence and not be broken by despair when the impious try to blot out the Church.
+
+**The fourth** — that they may be *admonitions of grace and remission of sins*. For it is necessary that in every petition there pre-shine *faith establishing that we please God and are heard on account of the Son*: otherwise prayer were altogether empty.
+
+**The fifth** — that they may be *helps of our vocations*, in which we could not serve God if we were continuously consumed by famine, diseases, and pains.
+
+### On the Second: Why and How Corporeal Goods Are to Be Sought.
+
+Corporeal goods are to be sought from God principally on **three causes**:
+
+**The first** is **the mandate**: *Ask, and it shall be given you* (Matt. 7). And Paul saith, 1 Thess. 5: *Always rejoice, incessantly pray, in all things give thanks. For this is the will of God in Christ Jesus unto us.*
+
+**The second** is **the promise**. Isa. 30: *The Lord shall give thee straitened bread and short water with the Teacher.* Deut. 30: *He is thy life and the length of thy days.* Likewise: *First seek ye the Kingdom of God, and these things shall be added unto you.* — *Invoke Me in the day of tribulation, and I will deliver thee.*
+
+**The third** is **the example**. Patriarchs, Prophets, Apostles — all the pious at all times have implored the divine help in their corporeal and spiritual needs, and have obtained aid. The same happeneth to us daily, and we experience God's help when we invoke Him. To these causes, which customarily are recited, I wish to be added also these:
+
+- **First:** the sense of our *inopia and cross* — both of the whole Church and of polities and of households. We are exceedingly weak, and before God *beggars*, and *the plots of the Devil, the improbity of the world, the malice of our flesh, we cannot without assiduous and serious prayer overcome and drive away.*
+- **Second:** the *efficacy of divine blessing*. Even if we have the riches of the whole world and are destitute of divine blessing, we effect nothing. But where God's blessing is, there *a small piece of cheese hath more virtue than all the venison of Princes*. For food nourisheth not unless divine blessing accede — from which bread receiveth strength — as it is written: *Not by bread alone doth man live, but in every word which proceedeth from the mouth of God* (Deut. 12; Matt. 4). And for this cause **Mateh-lechem, the staff of bread**, is named in Scripture — *the virtue of the food received divinely-effected* (as Lev. 26, Ps. 105, Ezek. 4). For upon that staff man is divinely propped and sustained. And when God saith: *I shall take away from you the staff of bread*, and Isa. 3: *the vigour of bread and water* — He willeth to say nothing else than this: *I shall withdraw My blessing, that ye may have* husks *and* legumes *without kernel or juice* — as today we see happen. ¹⁹⁸
+
+Now **how** corporeal goods are to be sought, it is often shown — namely with the **double condition**: *if the obtaining of what is sought neither impedeth the glory of God nor delayeth our salvation.*
+
+Of the condition which **Jacob** useth in his vow (Gen. 28): *If God shall be with me, and shall preserve me, and shall give me bread and clothing, and I shall return prosperously, then shall the Lord be to me for God*, etc. — it must be known that there is not signified *the end or reward*, but *possibility and mode*, as if to say: *If I shall live, God prolonging my life, I shall gather the Church to sacrifice and to preaching. But if it shall have seemed otherwise to God, and He shall have wished me perhaps to die in a perilous journey (whether by famine or otherwise), I am ready to obey.* Thus also **David** (2 Sam. 15) saith: *If I shall find grace in the eyes of the Lord, He will bring me back. But if He shall say: Thou pleasest not — I am at hand: let Him do what seemeth good to Him.*
+
+### On the Third: Four Conditions Added to the Promises of Corporeal Goods.
+
+**The first**: when goods are promised to the good and obedient, God is not for that reason impeded from punishing the impious and wicked. *My good words are with him that walketh rightly*, saith God (Mic. 2).
+
+**The second**: God willeth also *the holy and pious to be exercised in tribulations and cross*, that in them sin may be abolished, and *faith, invocation, hope, and penitence may grow and be polished* — as Jacob is turned in exile, Daniel, Tobias, and others are led away.
+
+**The third**: God is not to be prescribed the *mode or time* by which He should exhibit the promised goods — unless the mode be expressly delivered in God's Word.
+
+**The fourth**: We must not seize corporeal goods promised by God *by our own counsels, without divine vocation* — because it is written: *Wait upon the Lord.*
+
+**The sum of the fourth petition is this:**
+
+> *Defend, O merciful God, our Magistracy. Illumine, rule, protect our Emperor and pious Princes. Preserve honest laws, peace, and discipline. Protect well-constituted Republics. Excite pious and wise Counsellors. Guard polities and households. Give good health; fecundity of the earth; commodious weathers; necessary rains; serenity for the commodity of things being born. Bless our labours, and Thy gifts which we take from Thy largess. Make it that the fathers of families, the governors, and others, may in Thy fear faithfully and diligently do their office — studying piety, discipline, and honesty in doctrine, life, morals, and animadversion. Rule us, that we may be content with our lot, with Thy blessing, with the necessary aliments, and may convert the goods which Thou givest us unto our necessary use and unto the commodity of others who need our work and aid — and rightly use Thy gifts in true invocation, thanksgiving, preaching, humility, and patience — and at last make us partakers of the heavenly table, O eternal King of glory.*
+
+**Antithesis.** **ἀταξία (disorder) in empires: perturbation of laws:** ἀνομία καὶ ἀκρισία **(lawlessness and injustice): seditions, conspiracies, feuds, distrust, brawls, contentions, wars: diseases, languor of soul and body: sterility of the earth: harmful storms: wild beasts devastating the produce, corn, and bread: laxation of discipline in families: negligence, indulgence, sloth: Ethnic solicitude: avarice, sordid tenacity: ingratitude and profane security:** ἀσωτία **(prodigality) and profusion, drunkenness, gluttony, luxury, carnal voluptuousness, pride, contempt of the poor, and abuse of God's gifts.** All these we deprecate in the fourth petition.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## V. And forgive us our debts, as we also forgive our debtors.
+
+We are all **debtors of God**, on many accounts. God committeth unto us — to be rightly used and administered as unto servants and stewards — the *soul, reason, will, life; the body, members, health, ears, eyes, hands, feet, tongue; Word, Law, Gospel, and Sacraments; vocation in the Church, in polities, in families; conscience; temporal goods; the neighbour also — to be aided in whatever pious mode we can*. And of all these things, of which we are by no means lords but *dispensers unto the glory of God and unto our own and the neighbour's use* — according to the prescription of God, *a most severe ratio* is to be rendered, namely: *in the Word, in the sermon of the Law, likewise in conscience, in the cross also, in diseases and perils, and in the last agony, and finally in the last judgment*. But we cannot be *solvent* — yet as before we remained debtors of *office and dispensation*, so now we remain debtors of *solution or satisfaction* — obligated unto solution which we cannot however render.
+
+**Debts** therefore are called **sins** by which we offend God and merit God's wrath. And any transgression of the Law is called a **debt** which obligateth unto satisfaction, unless there be a gratuitous remission. For *the whole life of man is damnable, contemptible, and unfruitful*. And *every tree which maketh not good fruit is cut down and cast into the fire*. And every debtor who is not solvent *is incarcerated, until either he satisfy or have intercessors*.
+
+**Because of the infinite debts, therefore, we are all and each *sons of wrath* and *liable to eternal punishments*** — so that even the innocent before God is not innocent. *Unto Thee, O Lord, is justice, but unto us the confusion of face.* And we all hear the *sentence of the Law*: *Cursed is every one who hath not done all things which are written in the Law.*
+
+There is need therefore of a **confession of debts** — ingenuous, open, humble, and suppliant — in which we must flee unto the *mercy of God exhibited in the Son, through the Son, and on account of the Son*. *Have mercy on me, O God. Enter not into judgment with Thy servant. Be propitious to me, a sinner. Remember not, O Lord, the delicts of my youth and my folly. A contrite and humble heart Thou wilt not despise. Convert me, and I shall be converted; heal me, and I shall be healed. Remit sins.*
+
+**On account of the Son, therefore, God gratuitously remitteth to all believing in the Son and fleeing unto the mercy shown in the Son — all and every sin and debt** — so that each may say: *I believe the remission of sins* — as the Son of God saith: *Trust, my son; thy sins are remitted unto thee.* For *the blood of Christ cleanseth us from all iniquity*.
+
+### On the Second Part of the Petition — "As we forgive our debtors."
+
+But that our faith be not *hypocritical, dead, and idle*, there is need of a *declaration of faith*, or of *fruits toward our neighbour* — a consort with us of the same grace of God, of life, and of salvation. **Unto the neighbour therefore we ought to remit the debt** — that is, *offences and many injuries*. Now here it is not said of *contracts*, nor are the offices of vocation taken away — as of ministers of the Word, of the political magistracy, of preceptors and parents — but it is prescribed to each severally that they *remit and condone unto the neighbour hurts and offences*, and imitate *the immense mercy of God* — who, since He hath remitted to us *sixty tons of gold*, willeth that we remit to the neighbour *ten crowns* — as in the parable Matt. 18 is shown, where Christ, to Peter asking whether it be enough to remit seven times to the neighbour, responded: *Not seven times, but seventy times seven.*
+
+Hither pertaineth the *integral doctrine on sin, on the Law, on the mercy of God, on confession, on the remission of sins and the justification of man before God, and on the mutual condonation of errata* which are wont to occur.
+
+Of **original sin** and its propagation into the whole human race, and likewise of *actual sin*, it hath been said above. And always the gravity of sin must be estimated seriously — from the punishment which followed Adam's lapse; from our public and private calamities; especially from the *dignity of the price* by which we have been redeemed from the right of sin; and finally from the *comminations of eternal punishments* which God threateneth seriously against the non-converted or non-penitent.
+
+We have also spoken **On the Law** in its place, and shown why no man can satisfy it. For in the Law we see who is our *Creditor* — namely, God Himself — and what a ratio He exacteth of us, and how great is the sum of our debt, and how great our inopia and misery, malediction also, and damnation.
+
+**On the mercy of God** in the doctrine of the Gospel it is always said: *So God loved the world.* — *There hath appeared the philanthropy and benignity of God the Saviour unto all men.* — *The mercy of God from progeny into progeny unto them that fear Him.* — *I live, saith the Lord, I will not the death of the sinner.*
+
+**On confession** above, in the locus on penitence, we have said somewhat. For God willeth that we *acknowledge and confess our sins in true humility, and ask pardon in true faith*, as it is written: *I said, I will confess my transgressions unto the Lord, and Thou hast remitted the impiety of my sin — for which every saint shall pray unto Thee.*
+
+**On the remission of sins** in the doctrine of justification it hath been said. *Our Creditor God remitteth our debts* — that is, *He looseth the obligation unto eternal death and damnation*, and *condoneth the debt-due penalty*, and, sins being condoned, *receiveth man into grace out of mere mercy on account of the Son the Mediator* — as Isa. 45 it is written: *I, I am He who blot out thine iniquities before Me, and shall not remember thy sins.* And Ps. 103: *As far as East is from West, He hath made our iniquities far from us.* And Col. 2: *He hath blotted out the handwriting which was against us, which was contrary to us.*
+
+As often as we hear the voice of the **remission of sins**, let us know that we are always admonished of these greatest things:
+
+1. **Of sin**, which even all the saints carry about with them in this life.
+2. **Of faith**, or firm confidence in God's mercy — conceived from His promise through the Holy Spirit — by which each firmly establisheth that unto him, believing in this life, is *certainly given the remission of sins on account of the victim of the Son*.
+3. **Of grace and gift.** Gratuitously we are absolved from sins, and Christ's righteousness is imputed to us, and we are accepted unto eternal life on account of Christ. Being justified we are also *gifted with the Holy Spirit and regenerated*, that we may be a *new creature*, and live according to God's will, warring the good warfare, retaining faith and a good conscience.
+4. **Of the certitude and immoveable truth of the divine promise**, which is daily new and fresh, and by *continuous course remitteth guilt and eternal punishment* to all believers.
+5. **Of the precious λύτρον (ransom) of the victim of the Son of God**, by whose merit, virtue, and benefit we are received into grace.
+6. **Of the open gate of salvation** unto miserable and afflicted consciences.
+7. **Of the fount of all consolation** in all adversities and temptations, and in the agony of death.
+8. **Of the eversion of all human merits.**
+9. **Of the errors of the Monks**, which are: *doubt of remission, satisfactions, purgatory, confidence in works*. Likewise of the **Novatians**, on the *denied return of the lapsed unto grace*.
+
+These and more the word *Remission* proposeth for us to consider. But with the faith of the remission of sins is conjoined the **mutual condonation of errata**, whereby some condone to others sins and offences without *affect of private vengeance* — and so, even if by office (or in the Church, as in excommunication, or in polity) there be need of *just and serious animadversion*, yet let *commiseration not be absent*, and if it be possible, let ἐπιείκεια (equity) be applied, and let all things be undertaken more unto *correction and edification than unto destruction*. Unto this mutual condonation let these causes impel us:
+
+1. **The mandate of God.**
+2. **The example of God.**
+3. **The state of the Kingdom of heaven**, in which sins are remitted gratuitously.
+4. **The consideration of our fellow-servants and brethren.**
+5. **The exiguous debt**, respect of the sins remitted to us.
+6. **The good example** which is offered to others by benignity.
+7. **The tranquillity of conscience** and the integrity of reputation.
+8. **The augmentation of divine blessing.** For God favoureth the placid.
+9. **The corporal and eternal punishments of the irreconcilable.** They fall from God's grace, and at last fall into the hands of the tormentors, who are the Devils.
+10. **Public tranquillity.**
+11. **Vengeance to be committed unto God.**
+12. **The instability and fragility of life.**
+
+**The sum of the fifth petition is this:**
+
+> *Our sins and offences, by which we have offended and irritated Thee, God our Father, and are liable to eternal punishments — remit unto us. For we confess ourselves most wretched sinners to have infinite sins, and manifoldly to have failed and to fail, and we grieve with our whole breast that we have offended Thee, and we pray that on account of Thy Son our Lord Jesus Christ, crucified for us and resuscitated, Thou wilt have mercy on us, and remit unto us all our sins and all impurity — and justify us through and on account of Thy Son our Lord Jesus Christ, whom Thou hast willed to be for us a victim,* καὶ μεσίτην καὶ ἱκέτην, *by wonderful and inenarrable counsel, and by immense wisdom and goodness — and sanctify and regenerate us by Thy Holy Spirit, alive, chaste, and truthful — that we may truly acknowledge Thee — the omnipotent true God, the eternal Father of our Lord Jesus Christ — and Jesus Christ Thy Son our Lord, and Thy Holy Spirit alive, chaste, and truthful — and truly fear Thee, truly believe in Thee, rightly invoke Thee, truly obey Thee, give Thee thanks, serve Thee, and see Thee propitious in all eternity. Convert us, eternal God, unto righteousness and eternal life, and teach, rule, and aid us, and make us vessels of mercy, salutary organs for our souls and for Thy Church. Give increase of faith. Give that we may prefer obedience toward Thee above all the goods of the world, in prosperities and adversities. Rule us by Thy Spirit, that we may take in good part the errors of others, and interpret unto the better part — that we be not calumnious censors, or rash — but that we may first acknowledge the beam in our own eyes before we try to extract the mote out of the eye of our neighbour. Give us mild, humane, and placid affects, that willingly, by Thine example and mandate, we may remit unto others who have hurt us their offences. Cohibit and repress in us whatsoever is proud, turgid, ambitious, arrogant, iracund, and avaricious. Let not the sun set upon our wrath. And O Son of God, our Lord Jesus Christ, bend our souls unto consideration and imitation of Thy voice: "Learn of Me, because I am meek and humble of heart." Restore and preserve peace and salutary concord among the members of the Church, that we may be and remain one in Thee.*
+
+**Antithesis.** **Sins of weakness and ignorance. For the just falleth seven times a day. Rigour** καὶ ἀκριβοδίκαιον **or strict justice in inquiring into others' errata. For the highest right is the highest injury. Pride. Iracundity. Impatience. Tyranny. Cruelty. Morosity and difficulty in morals. Inhumanity. Pertinacity of wrath, envy, hatred, livor, rancor. Discord and dissensions in the Church. Iniquitous delations, calumny, lies, private vengeance,** σκυθρωπὸν καὶ ἀδιάλλακτον **or being irreconcilable**, etc. All these we deprecate in the fifth petition.
+
+Furthermore this too must be added: our remission by no means can be called *the cause of divine remission*, because that is *gratuitous*. Wherefore to the argument (*"Remit and it shall be remitted unto you; therefore our condonation meriteth remission"*) rightly is answered: *this sentence is a discourse of penitence*, of which discourse the parts are two — **precept** and **promise**. Now, the promise being heard, the mind beholdeth the *doctrine on remission promised gratuitously on account of Christ*. But it signifieth that this work is required — namely, *our condonation*, as also our other works — and that it *pleaseth*: not because there is no nevus in the soul at all, but that *the pious mind resisteth malevolence and hatred on account of the mandate of God and the concord of the Church*, and acknowledgeth that *this moderation pleaseth God on account of Christ*, even if some *scar and imbecility remain in us*.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## VI. And lead us not into temptation.
+
+**Temptation** is *a solicitation and impulsion of man, arising either from the flesh, or from the world, or from the Devil, unto something which displeaseth God and bringeth eternal ruin*.
+
+**"To lead into"** — by Hebrew phrase — is *to suffer or permit a man both to fall into temptations, and to be conquered by them, and to be impelled unto sinning*. To be tempted *through itself* is not evil. *For what things doth an untempted man know?* But that we be not *involved in evil temptations perilous to our salvation and be overwhelmed by them*, we ask.
+
+Now customarily is recited a threefold temptation: (1) **of seduction**, (2) **of presumption**, (3) **of probation**.
+
+**Temptation of seduction** against the Law of God is either *intrinsic*, arising from evil concupiscence and the flesh; or *extrinsic*, arising either from *the vanity and improbity of the world alluring man unto sinning*; or *from the Devil the tempter, who by corruptions of doctrine and wicked-life examples and occasions assaileth men insidiously, seeking whom he may devour*; or *from things surrounding us* — as before us: *death, God's judgment, and hell*; behind us: *past sins, commissions and omissions*; on the right: *power, riches, honour*; on the left: *perils, persecutions, scandals, external form of the Church*.
+
+**Temptation of presumption** is that by which man tempteth God, *abusing the longanimity, patience, and mercy of God, and the liberality and divine benefits*.
+
+**Temptation of probation** is good, and hath God as author, who — that we may be rendered *more approved unto ourselves* — tempteth us *in doctrine, in morals, and in signs of wrath*.
+
+- **In doctrine** God tempteth us when He permitteth *false doctors* to come and to propose various erroneous dogmas — as it is written, Deut. 13: *The Lord your God tempteth you, that it may be manifest whether ye love Him or not in your whole heart and in your whole soul.* For thus are made *manifest the hearts of many* — as today we see, full either of *ignorance and negligence, of security, of levity and inconstancy, of doubts,* καὶ ἀπιστίας ἢ κακοπιστίας. And this temptation is ascribed to God insofar as it is *of probation*, not insofar as it is *of seduction* — for *δοκιμασίαι* have God as author, not *τιμωρίαι* (punishments).
+- **In morals or obedience** God proveth His own, when He *imposeth certain exercise of cross* upon them — as when He commandeth Abraham to sacrifice his only-begotten son, and when He afflicteth Job manifoldly. For it is written, Deut. 5: *The Lord tempteth thee, that it may be known what is in thy heart, whether thou shouldst walk in His mandates or not.*
+- **In signs** God often tempteth us, when He *proposeth in heaven, earth, sea, horrid signs of His wrath*, by which the souls of the pious are shaken — as it is written, Exod. 20: *Fear not, for God is come that He might tempt you, and that the terror of Him might be in you, that ye should not sin.*
+
+**The sum of the sixth petition therefore is this:**
+
+> *We beseech Thee — O eternal God — to illumine and sanctify us; and so rule our minds that we may think those things which are approved by Thee and which are salutary unto us. Create in us a clean heart, and a firm and new Spirit in our inwards. Kindle in us clean affects which may respond to pious and holy cogitations; and bend the consent of the will unto piously-thought things — that we may always think, speak, and do pious, holy, and chaste things. Preserve, augment, confirm in us meditation and memory of pious matters. Grant us victory against the flesh, the world, and the Devil. Aid us: we perish. Preserve us: we are overthrown. Free us, rule, defend, govern — that we may avoid the fiery darts of the Devil, who** ἀσπόνδως **waketh war against Thee and Thy Church. Adjoin unto us Thine Angels, companions and defenders of our life against the devils. Let none snatch us — Thy sheep — from Thy hand. Let us not fall into errors and into wickedness — withdraw not Thy hand from us — but make that we be and remain Thy temples, and triumph against the flesh, the world, the Devil, and death.*
+
+**Antithesis.** **Impure cogitations. Depraved and vitiated affects. Impure will. Depraved companies, and occasions of sinning. The various techne of the Devil and of the world, and its enticements. Likewise terrors, mockeries, manifold temptations, sadness, doubt of God's grace, distrust: idolatry, superstition, profane security, wickedness and tragic ruins.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## VII. But deliver us from evil.
+
+**Deliverance** signifieth both *mitigation and final deliverance*. But **evil** is here understood *of punishment*. For evil is twofold: **of guilt** (which hitherto we have deprecated), and **of penalty** (which we here deprecate).
+
+**Evil of penalty** is the *tyranny of devils and every other calamity by which the Church and her members in this life are pressed* — either privately, in soul, body, reputation, fortunes, life — or publicly, in the common society: *through wars, scandals, heresies, seditions, hypocrisy, sophistic*.
+
+Of the discrimination between *the evil by which the Church is pressed*, and *the evil by which the impious are affected*, it hath been said in the locus on calamities and the cross. The discrimination is taken:
+
+- From the **efficient causes**. Of the pious it is written: *The Lord chasteneth those whom He loveth* — namely, by paternal love. But the impious He punisheth *by just indignation as Judge*.
+- Then from the **final causes**. The pious are *proved and corrected*. The impious are *coerced and destroyed*.
+- Afterward from the **effects**. The pious *give thanks to God in the cross*; the impious *fret and impatiently grieve and are confounded, and despair*.
+- Likewise from **time and place**. The pious for a *short time* in this world bear the cross imposed on them by God. The impious are involved in *perpetual evil*, and their fire is never extinguished.
+
+**And God freeth His Church and all the pious in a twofold way — by aiding and by fully freeing.** For He mitigateth the *present evil* and giveth *strength to bear it patiently*, and observeth a certain *vicissitude*, mingling *gladness with sadness and sadness with gladness*, and often by *internal and spiritual goods compensateth the bitterness of external evil*. But on the *last day* He shall fully free us not only from every evil, but even from *fear and peril of every evil*.
+
+**The sentence of the petition therefore is this:**
+
+> *Give us, O propitious Father, peace of the whole Church, spiritual and corporal, and private tranquillity and quiet: safety, good health. Mitigate the calamities by which we are justly pressed for sins. Correct us in judgment, and not in fury, lest we be reduced to nothing. Console and confirm all the afflicted by Thy Holy Spirit, give lightening and make placid exits. Adjoin unto us the Angels' guards, and preserve us in all our ways. Govern the course of our life amid perils unto the desired exit. When from this life we must depart, give us a placid migration — that in true acknowledgment and invocation of Thee we may placidly die, and not be long tortured; and receive our soul into Thy hands, and transfer us into eternal life and felicity.*
+
+**Vida:** ¹⁹⁹
+
+> *Give, Father, when the last hour of life shall come,*
+> *Thyself to me present, with no shades terrifying,*
+> *And in Thine embrace to pour forth my soul exulting —*
+> *This only add to me, though others may desire more.*
+
+**Antithesis.** **Wars, public and private scandals, seditions, schisms, and heresies: diseases, sorrows of soul, obtrectation, infamy, misfortune: the kingdom of Satan, of sin and of death: sudden and tragic death, despair, eternal damnation.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Doxology: Thine is the Kingdom, and the Power, and the Glory, for ever.
+
+This confirmation and κορωνίς (crown) hath **three members**, of which:
+
+- **The first** is taken from the **office of the King**, who ought to protect and cherish his subjects.
+- **The second** from the **power of God**, which is opposed to our infirmity and indigence, and rouseth God to commiseration — who alone can aid us miserable.
+- **The third** from the **final cause**, which is *the glory of God* — that is, the *confession, celebration, and preaching of the divine aid* — by which at the same time the devils and enemies of God are refuted, when God is present and aideth the Church, as it is written, Ps. 6: *The Lord hath heard the voice of my weeping — let all mine enemies be ashamed and troubled*, etc.
+
+## Amen.
+
+This is the **voice of faith**, and *the sealing of the petitions*, signifying **certitude, or certain hearing, and firm faith and hope** — opposed to all diffidence and doubt — and leaning upon the promise of Christ saying: *Amen, amen I say unto you, whatsoever ye shall have asked the Father in My Name — that is, in acknowledgment and invocation of Me — He will give you.*
+
+**Thou willest to give what we have asked, because Thou art King and our Father, we the people are Thy people and Thy sons. Thou canst give what we have asked, because Thou art omnipotent — God the Father, Son the** θεάνθρωπε, **and Holy Spirit — we are weak and wretched. Thou hast said, Thou hast promised. Thy saying is the same as its being done. Thou through Thy Word hast been made our debtor. Thou owest, because Thou hast promised. Once Thou hast said,** *Let it be*. Therefore that which Thou hast said shall be done. **We believe Thy Word, and certainly know that we are heard and saved. Therefore we say Amen with joyful and strong soul.** *Lord, we believe; but help our weakness.* We say **Amen** — believing, wishing, hoping. **Do Thou** say **Amen** by commanding — that is: *Let it be. Let it be unto us according to Thy Word. Let Thy mercy, O Lord, be upon us. Say unto us the word which Thou saidst to the Syrophenician woman: "Let it be unto thee as thou wilt." Hear us, if not according to our will, certainly unto our salvation. Great is Thy faithfulness. Thou art our portion, O Lord — sayeth our soul — therefore we hope in Thee. In Thee, O Lord, I have hoped — let me not be confounded for ever. Amen.*
+
+### A Recapitulating Amen-Prayer.
+
+**Our Father, exalted in creation, sweet in love, rich in inheritance: Who art in heaven — mirror of eternity, crown of jocundity, treasure of felicity.**
+
+**Hallowed be Thy Name** — that it may be to us *honey in the mouth, harp in the ears, ardour in the heart*.
+
+**Thy Kingdom come** — *jocund without permixture, tranquil without perturbation, secure and stable without loss*.
+
+**Thy will be done, as in heaven so also on earth** — *that what Thou hatest, we may shun; what Thou lovest, we may love; what Thou willest and commandest, we may do, Thee giving*.
+
+**Give us this day our daily bread** — *necessary unto the sustenance of life, not superfluous, not deficient*.
+
+**And forgive us our debts, whatsoever against Thee we have committed, or against the neighbour, or against ourselves — as we also forgive our debtors, who have offended us in words, or in persons, or in things.**
+
+**And lead us not into temptation** of the world, of the flesh, of the demon.
+
+**But deliver us from evil**, *present, past, and future*. **Amen.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS APPENDICIS DE ORATIONE.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
