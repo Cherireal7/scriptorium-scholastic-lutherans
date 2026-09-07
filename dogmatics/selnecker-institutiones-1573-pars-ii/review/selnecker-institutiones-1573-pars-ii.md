@@ -1639,6 +1639,14 @@ Then they know that ***in the very temptations and combats faith becomes more il
 
 ¹⁵² **The Papist penitential-verse tradition.** — The barbarous Leonine-hexameter verses Selnecker cites — *"Poeniteas cito peccator..."*, *"Culparum fontes sunt: fastus, livor, et ira..."*, *"Vestio, poto, cibo..."*, and the rest — belong to the medieval *versified pastoral-manual* tradition of the late thirteenth and fourteenth centuries (paradigms: **John of Garland's *Poenitentiale***, **Alan of Lille's *Liber poenitentialis***; the ***Summae confessorum*** literature). Selnecker's citation of these verses — with his ironic marginal glosses — is a paradigm second-generation Wittenberg pedagogical strategy: *ostensio through recital*, exposing the labyrinthine folk-scholasticism of pre-Reformation confession-manuals so that the students may perceive by contrast the *simplicitas Evangelii*. The paradigm-Reformation critique of the *five satisfactionist grades* (undue works, fraternities, indulgences, purgatorial fire, requiem Masses) is at **FC SD III. 5-24, 30-31** (*BSLK* 917-924 / *Kolb-Wengert* 562-565) and above all in **Luther's *95 Theses*** (WA 1:233-238) which specifically targets the indulgences-and-purgatory apparatus. Cf. also **Melanchthon, *Loci* 1559 *De Poenitentia*** (CR 21:895-908 / MSA II/2:225-242).
 
+## From Locus II *De Poenitentia* — §8 (Confession/Absolution/Cross) + §9 De Regno Christi opening
+
+¹⁵³ **The Lutheran doctrine of private confession.** — Selnecker's 5-utility apologia for the retention of private confession in the Lutheran Kirchenordnungen recapitulates **Luther, *Sermo de sacramento poenitentiae* (1519)** (WA 2:709-723 / *LW* 35:9-22) and above all the **Augsburg Confession Article XI** (*BSLK* 65f. / *Kolb-Wengert* 44-45): *"De confessione docent, quod absolutio privata in ecclesiis retinenda sit, quamquam in confessione non sit necessaria omnium delictorum enumeratio."* Selnecker as FC co-author transmits the AC XI framework. Cf. also **Luther, *Große Katechismus* — Beichte** (*BSLK* 725-733 / *Kolb-Wengert* 476-480) for the mature Lutheran pastoral theology of private confession.
+
+¹⁵⁴ **The office of the Keys and public/private absolution.** — Selnecker's framework — *"absolutio est annunciatio et applicatio remissionis peccatorum, quae fit nomine et autoritate Christi per vocem hominis in ministerio"* — is the paradigm-Lutheran definition, drawn from **Luther, *Vom Schlüssel*** (1530; WA 30/II:435-507) and **Melanchthon, *Tractatus de potestate et primatu Papae*** (*BSLK* 469-498 / *Kolb-Wengert* 329-344). Cf. also **Apology of the Augsburg Confession Article XII** (*BSLK* 251-284 / *Kolb-Wengert* 186-218) on penitence and the office of the Keys. The 2 Cor. 5:20 *pro Christo legatione fungimur* is the paradigm New Testament *sedes* for the ministerial-embassy framework.
+
+¹⁵⁵ **The kingdom of Christ — threefold.** — Selnecker's *regnum potentiae / regnum gratiae / regnum gloriae* framework is the paradigm Wittenberg Christological formulation, drawn from **Luther, *Von Christo* (1533)** (WA 37:52-69) and above all from **Chemnitz, *De duabus naturis in Christo*** (Jena 1570), Ch. 26-31, on the *communicatio idiomatum tertium genus* and the exalted-Christ's rule *in majesty and glory*. The threefold framework — power (from eternity), grace (in this life through Word and Sacraments), glory (in the resurrection and the age to come) — becomes the standard Lutheran-Orthodoxy formulation, canonized in **Gerhard, *Loci Theologici*** *De Officio Christi Regio* (Cotta ed. IV:298-343). The mention of *Constantine, Theodosius, and the Electors and Dukes of Saxony* as *Nurritii Ecclesiae* is a paradigm-Selneckerian *loci-communes* echo of his Leipzig court-theologian station, and reflects the paradigm-Melanchthonian *pia magistratus*-doctrine (cf. **Melanchthon, *Loci* 1559 *De magistratibus civilibus*** — CR 21:1006ff.). Selnecker's later 1584 Formula of Concord Preface addresses the Electors of Saxony directly. On the *προσωπολήπτης* — the "respecter-of-persons" — as anti-Jewish/anti-Turkish framework, cf. **Selnecker, *Der ganze Prophet Sacharja*** (Leipzig 1586) on Zech. 8 and the calling of the Gentiles.
+
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
@@ -2660,6 +2668,153 @@ The **Monks** thus numbered the works of mercy:
 Such then is the doctrine of penitence which the **Monks and Sacrificers** prescribed unto those confessing and satisfying (as they spoke) — with great damage of consciences. And we have recited these things only for this cause: that the boys too, who have received the catechetical doctrine from the writings of Luther and Philip, may give thanks unto God for the light of the Gospel, and may pray Him that He confirm what He hath wrought in us, and preserve the purity of doctrine, and sanctify us in His truth — that we may not fall back into the old *κυβεία* [dice-cheating] and into labyrinths and darkness.
 
 Now — all these things being set aside — that we may return unto those things which are perspicuously, rightly, and profitably delivered in our Churches and Schools, we shall expedite the **Eighth Question** concerning Confession, Absolution, and the Cross of the Church. ¹⁵²
+
+## §8. Of the Eighth Question — Confession, Absolution, and the Cross of the Church.
+
+### Why is the rite of *private Confession* retained in our Churches?
+
+Our Churches will not to establish the Papists' errors concerning Confession, but they say that in the Word of God there is founded a *twofold Confession*.
+
+**The prior** is *confession before God alone*, when a man confesseth his sin before God, acknowledgeth himself a sinner, and asketh pardon for the sake of Christ. For without such confession salvation cometh not. So David saith: *I said, I will confess my transgressions unto the Lord.* And: *Have mercy on me, O God, because I have sinned against Thee: enter not into judgment with Thy servant, because in Thy sight no living one shall be justified.*
+
+**The posterior confession** is *disciplinary*, when a man for the sake of counsel, doctrine, and the confirmation of his faith accedeth unto the minister of the Church — acknowledgeth himself a sinner, asketh consolation, and desireth to be instructed in the Word of God, whereby his conscience may be rendered tranquil. This confession is retained because of the greatest causes and utilities, which are customarily enumerated in this order:
+
+**First**, that in this private colloquy the rude and the ignorant, who have need of instruction in the Catechism, may be instructed.
+
+**Second**, that therein the progress of the youths and adolescents may be explored. For it belongeth to a good pastor not only to deliver publicly the doctrine of piety, but his office also requireth that (after the example of Paul) he test at home how far his auditors have progressed in piety. For in this private colloquy he shall stir the sluggish with pricks; the diligence of those who have profited much he shall praise, and shall stir them up to a similar perseverance.
+
+**Third**, in this private colloquy is demanded the *account of faith* from those concerning whose faith and religion just doubt can be had.
+
+**Fourth**, in this colloquy weak consciences are helped by doctrine, counsel, and consolation — especially when they are held perplexed by some scruple of conscience. For they rightly consult their own good if they take refuge unto their pastors, that they may be uplifted and take consolation.
+
+**Fifth**, although whoever truly believeth in Christ is absolved from sin — for since sin is a *defect from the Law and will of God, with obligation unto eternal death and damnation*, without doubt every one is absolved who believeth the gratuitous promise, according to that saying, *He who believeth on the Son hath eternal life* (whence it followeth that *true absolution is the liberation of a believing man from the obligation unto eternal death and damnation*) — yet it also profiteth all men to hear privately the Gospel, whereby by the mouth of the minister is announced the remission of sins unto believers, and the inheritance of the kingdom of the heavens. For then indeed the kingdom of the heavens is opened, when the Gospel preached is received by faith.
+
+In the booklet whose title we have prefixed as *Analectus*, we have shown that in the writings of the Fathers is found the confession which we said is made *before God*; then that which is made *before the neighbour*, which is *the asking of reconciliation and pardon*; afterward *public confession* — that is, the public testification of penitence before the Church. On these three confessions, that I may here so speak, let the studious consult the *Analectus*, Tractate 2, Chapter 35. ¹⁵³
+
+### What then is *private Absolution*?
+
+Private absolution is an illustrious testimony which truly showeth that in the Gospel there is instituted a *ministry of announcing the remission of sins unto many or unto individuals*, according to that saying: *Whosesoever sins ye shall remit, they are remitted unto them; whosesoever ye shall retain, they are retained.* Private absolution therefore applieth the Gospel unto individuals and testifieth that the promise is universal and pertaineth both unto all and unto each. But let us always remember that *faith* is to be added, which truly believeth the voice of the Gospel announcing the remission of sins for Christ's sake; and let us ever recall the mind unto the promise of the Gospel, and know that *it is not the work of man to remit sins*, but that *God is present*, who hath set forth His will in the Gospel, and hath instituted the ministry that the divine promise may be announced unto us — and hath commanded that the promise be believed. Rightly therefore is private absolution defined thus: **Private Absolution is the annunciation and application of the remission of sins, which is made in the name and by the authority of Christ through the voice of a man in the ministry.**
+
+But as a little before we have shown that confession is made in one manner *before God*, and in another manner *before the minister of the Church* — so let us know that absolution also *corresponds to confession*, and is made either through God alone (namely, when man believeth the gratuitous promise, and is absolved from sin and from obligation unto eternal death — according to the words of the Symbol: *I believe the remission of sins*), or is made *through the minister of the Church*, according to that: *Whosesoever sins ye shall remit, they are remitted unto them.* Likewise: *He that heareth you, heareth me.* And 2 Cor. 5: *God hath placed in us the word of reconciliation. For Christ therefore we discharge the embassy, God as it were exhorting through us.* And truly the greatest consolation is this unto the pious, when they are absolved from sins by the voice of the minister, whom they know to be present in the place of God — as also on the contrary the greatest sadness must be *to be justly excommunicated, and bound, and cut off from the body of the Church of Christ*. ¹⁵⁴
+
+### Is the *remission of guilt* distinct from the *remission of the penalty*?
+
+The remission of *guilt* is in no way distinct from the remission of the *eternal penalty*, as the Monks and Sacrificers feigned. For Isa. 43 (misprinted as 45) it is written: *I daily blot out thine iniquities before me, and thy sins I shall remember no more*. And Isa. 1 there is a most ample promise: *If your sins be as scarlet, they shall be made white as snow; and if they be red as vermilion, they shall come forth white as wool.* And hither may be referred the reading of Isaiah 53: *Truly He hath borne our griefs.* And Zeph. 3: *Thou shalt not be confounded over all thy zeals wherein thou hast sinned against me: the Lord hath taken away thy judgment.* For the rule of the Gospel remaineth unmoved: *the believer in the Son is not judged*, as it is written — *He that believeth on the Son hath eternal life. But he who believeth not is already judged, and the wrath of God remaineth upon him.*
+
+But as concerneth *temporal penalty in this life*: it is established that all who have the remission of guilt and of eternal penalty are yet subject unto punishments, sicknesses, and death, and unto other temptations and adversities — which by no means are *compensations or merits* for the eternal penalties (as the Monks feigned), but have utterly *other causes*, which it is needful that all men know, for the sake of doctrine and consolation.
+
+### What then are the *causes of calamities* in the Church?
+
+It hath been said concerning the causes above in the first part: which we can here enumerate in this order:
+
+1. **Original or inhering sin.**
+2. **The hatred of the Devil**, more rabidly raging against the Church than against others.
+3. **The occasion of the exercises of penitence, of faith, of invocation, of patience, of humility.**
+4. **The example of the justice of God**, punishing many actual offences in the Church, that He may recall others unto penitence.
+5. **A testimony of the coming judgment.**
+6. **A testimony of the truth and certitude of celestial doctrine.**
+7. **Conformity with Christ's affection, obedience, and patience.**
+8. **A testimony of the presence of God in the Church.**
+
+### What are the *fountains of consolation* in the cross and calamities?
+
+1. **The necessity and the mandate** commanding obedience.
+2. **The dignity of patience** — pleasing unto God the most patient.
+3. **Good conscience**, if the cause is good; or *good conscience*, if reconciliation with God hath been made through and because of Christ.
+4. **The remission of sins.**
+5. **The promise of the presence of God, and of divine help in tribulations.**
+6. **The last hope of deliverance and of eternal salvation.**
+7. **The examples of the Son of God, and of the principal lights of the Church in all ages.**
+8. **The final causes:** we are afflicted not that we may perish, but that we may be gained, and be confirmed in true faith and in the zeal of obedience pleasing unto God.
+9. **The comparison of events:** when before God we acknowledge that we are justly punished, and have deserved more atrocious punishments — and yet the punishments are mitigated for the sake of the Son the Mediator — so that the goodness of God may be celebrated, and lest the Church suffer detriment or be utterly extinguished.
+10. **The desire of the clear sight of God**, and of deliverance from all sin.
+11. **The utility of the cross**, which comprehendeth well-nigh all these things which now in order have been enumerated. For in the cross we know **what God is, what we ourselves are, what the Devil is, what the world is, and what is the hope and expectation of deliverance and of eternal life**. For we know God to be both just and merciful; and ourselves to be imbecile, impatient, and altogether to be exercised and proved, aroused and retained in office; the Devil moreover to be our extreme enemy; the world finally to be faithless and inconstant. And these things being so, the cross confirmeth, augmenteth, and strengtheneth in us the firm hope and expectation of eternal life. And these are the utilities of the cross, which is more necessary unto us than air, food, sleep, or garment — if only we wish to be called and to be Christians.
+
+Let us know also that *temporal punishments too are mitigated for the converted unto God* — as the example of the Ninevites and of King Hezekiah showeth, yea indeed of us all, if we shall wish to consider the course of our life. For the Son of God is the *shade of His Church and of all the pious*. And unto those praying, doing penitence, and desiring to lead a life pleasing unto God, *rewards are never lacking in this life* — whether these be manifest, or internal and spiritual.
+
+### Closing Prayer to the Son of God.
+
+We beseech Thee, Son of God, our Lord Jesus Christ, that by Thy Holy Spirit Thou institute and act in us always the exercises of penitence — that we may direct the heart, eyes, and tongue unto Thee always, and being freed from all carnal security may serve Thee, worship Thee, fear Thee, invoke Thee, and behold Thee propitious in all eternity. Amen.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## §9. DE REGNO CHRISTI — On the Kingdom of Christ.
+
+That the kingdom of Christ is *spiritual*, not political or mundane, pompous, or with any external and ceremonial observance — this the Gospel clearly teacheth, and interpreteth also the Prophets who sometimes speak of Christ's kingdom by figures taken from the empires of the world; although the prophets explain themselves, expressly testifying that Christ's kingdom shall be *spiritual and eternal*. And Daniel clearly saith: *The Messiah shall be slain.* And Isaiah: *He shall lay down His life for sin.* Therefore He shall not have a corporeal dominion in this life.
+
+Customarily is recited a **threefold kingdom of Christ**:
+
+**The [first is] the kingdom of eternal power**, which Christ from eternity unto eternity holdeth with the Father and the Holy Spirit — and unto which He hath also raised His human nature together with Him, that as God and man He may administer all things, rule and govern them, and have all things subjected unto Himself even as Man — save only Him who hath subjected all things unto Him as Man, that is, the Father, Himself, and the Holy Spirit.
+
+**The second is the kingdom of grace in this life** — that dominion namely by which the Son of God, God and Man, sitting at the right hand of the omnipotent Father, hath instituted the ministry of teaching the Gospel, giveth gifts unto men, gathereth for Himself by the voice of the Gospel the eternal Church, and is efficacious through the ministry of the Gospel; remitteth sins, dwelleth in the hearts of believers, worketh consolation and life, showeth us the Father, His Holy Spirit being given, defendeth and preserveth the doctrine of the Gospel and the Church against the Devil and the world, and giveth unto the converted eternal life after this life — that is, He maketh them eternally partakers and consorts of the kingdom of His glory — which He Himself, rising from the dead, ascending into heaven, and sitting in both His natures, God and Man, at the right hand of the omnipotent Father, hath obtained, and shall give unto all believers in the resurrection of the dead.
+
+With this kingdom of grace in this life is always conjoined **the cross**, whence often mention is made of the *kingdom of the cross*. For true and consummate glorification cometh not to pass in this life, but it behoveth us in this life to bear afflictions and persecution. Matt. 16: *If any man will come after me, let him deny himself, and take up his cross, and follow me.* John 16: *In this world ye shall have pressure.* Rom. 8: *We are coheirs of Christ, if indeed we suffer together, that we may also be glorified together.* 2 Tim. 3: *All that will live piously in Christ shall suffer persecution.*
+
+**The third kingdom is Glory and eternal life**, according to that saying, Matt. 25: *Come ye blessed of my Father, possess the kingdom prepared for you.* Isa. 66: *There shall be month from month, sabbath from sabbath, etc.* *God shall be all in all* (1 Cor. 15).
+
+### The five requisites of a legitimate kingdom.
+
+Let us know that unto a legitimate kingdom there pertain **five necessary things**:
+
+1. **A fit person**, legitimately called, elected, and confirmed.
+2. **Certain subjects**, citizens, cities, region.
+3. **Certain laws**, positive right, necessary constitutions — according to which one must live and act; according to which also violators of the laws are to be punished.
+4. **Counsellors, coworkers, and inspectors** of the life and actions of the subjects — patrons and defenders of the good, and avengers and punishers of the contumacious.
+5. **Duration of the kingdom.** For most kingdoms have their periods.
+
+**First**, our King (as hitherto we have shown) is *true God and true Man, Emmanuel — constituted and ordained by the Father, desired by all the pious, by Patriarchs, Prophets, and others, by Jews and Gentiles*.
+
+**Second**, His subjects are all men, Jews and Gentiles (Ps. 2), and His kingdom extendeth from sea to sea (Ps. 72). Therefore He also saith: *All power is given unto me in heaven and in earth.* For in heaven He hath this power:
+
+- **1.** To manifest unto us the essence and will of His eternal Father, according to that: *No one knoweth the Father save the Son, and to whom the Son shall wish to reveal Him.* And: *The Son who is in the bosom of the Father, He hath declared unto us.*
+- **2.** He hath the power of placating the huge wrath of the Father against sins — as *unique Mediator and Propitiator*, according to that: *The Father judgeth no one, but hath given all judgment unto the Son, that all may glorify (honour) the Son.*
+- **3.** He hath the power of receiving all the goods of His Father — eternal wisdom, righteousness, and life — and of expending and distributing them unto whom He willeth: namely, unto all who believe in Him — according to that: *The Father loveth the Son, and hath given all things into His hand.*
+
+These three things therefore Christ hath with respect to the Father — having as it were a right and power over the Father Himself, namely by manifesting Him, placating His wrath, and lavishing His goods.
+
+- **4.** He hath the power of *sending the Holy Spirit*, and of giving Him unto believers.
+- **5.** He hath the power over the Angels, who adore Him and obey Him, and are *λειτουργικὰ πνεύματα* [ministering spirits] for the good of the Church and of all the pious.
+
+This power then Christ hath in heaven. On earth, moreover, all things are subject unto Him — the pious willingly, the impious unwillingly; tyrants, devils, all and every one are under His power, as on the last day we shall see fully and perfectly.
+
+### On the calling of the Gentiles.
+
+But when here mention is made of the *Gentiles* who are to be brought unto the kingdom of Christ, and who now through the whole earth have been called by the voice of the Gospel — and when often mention is made of the calling of the Gentiles — let us know that by this very mention of the calling of the Gentiles we are admonished concerning many and great matters, but chiefly concerning these:
+
+**First**, concerning the *gratuitous and universal promise of grace*, related not only unto the Jews but unto all and each of the men having faith in the doctrine of the Gospel and believing in the Son. For this is the foundation of the whole doctrine of the Gospel. And he who hath and holdeth not this foundation, floateth in uncertain thoughts, speculations, and disputations, and is involved in inextricable labyrinths, and ensnareth himself and others with wandering questions, and hurleth himself into the deep, and into the abyss of phantasies not only melancholic but even *diabolical* — as we have known by examples.
+
+**Secondly**, the calling of the Gentiles warneth us concerning the *spiritual kingdom of Christ*, not mundane or political — such as the raving Jews expect, feigning and imagining unto themselves a mundane dominion. But the kingdom of Christ differeth from political kingdoms in manifold reasons: namely in the *majesty of the person*, in the *form of government*, in the *benefits*, in the *duration*, and in the *termini or periods or limits* — not of time only but also of places and of peoples. The kingdom of Christ is the kingdom of God. Its form is not conspicuous with mundane ornament or splendour, but consisteth in the *preaching of the Word and administration of the Sacraments*, and in *internal efficacy*, and in *true faith and consolation*. The benefits of this King are *spiritual* — the remission of sins, the donation of the Holy Spirit, and eternal life. Its duration lacketh end. For in this life beginneth the kingdom of grace, which lasteth unto the last day; and hath, immediately and *incontinenti* (as we vulgarly speak) succeeding to itself, the *eternal kingdom of glory* — when Christ shall have brought the resurrected dead unto the eternal Father, and the pious shall have been delighted in perpetual life, sight, and eternal inheritance of the treasure of all heavenly goods. No terminus is prescribed unto Christ's kingdom: *for the earth is the Lord's, and the fulness thereof*.
+
+**Thirdly**, the calling of the Gentiles admonisheth us concerning the *immense amplitude of the divine mercy*, that from a mass so polluted He calleth men unto eternal life and glory-society.
+
+**Fourthly**, the same calling admonisheth us that God is not *προσωπολήπτης* [respecter of persons], but willeth all to be saved through and for the sake of the Son; and that *the veil of the temple is now rent*, and that *every people and every man believing in the Son is accepted of God without exception, without difficulty, without delay, without distinction of Peter and of the thief, of Jews and of Gentiles*.
+
+**Fifthly**, is shown that the *Mosaic polity, and the Mosaic laws, are now abrogated* — and that we live *under grace*, which is announced unto us by the voice of the Gospel.
+
+Concerning these things then we know we are taught as often as of the calling of the Gentiles is spoken:
+
+1. That we are justified and saved only by grace.
+2. That the kingdom of Christ is spiritual.
+3. That the mercy of God is immense and infinite.
+4. That all and each ought to be most certain of our acceptation, righteousness, life, and salvation — without all doubting.
+5. That the Mosaic Law is abrogated — as respecteth justification and condemnation.
+
+### The laws, servants, benefits, and duration of Christ's kingdom.
+
+**Thirdly**, the *laws of this King* are written in the Prophetic and Apostolic books, in which the doctrine of Law and Gospel is contained — according to whose norm Christ punisheth things to be punished, approveth things to be approved, and defendeth and delivereth His people. For this royal right was first comprehended and confirmed in the *arcane counsel of the divine majesty*, and afterward promulgated unto the human race by the voice of the Son and of His legates — the Prophets and Apostles — and by many great miracles, from the beginning of the world onward, and by examples of punishments and rewards has been established. And this same kingdom in this life is, and is named, *the Ministry of the Word and of the Sacraments*, through which the Son of God is efficacious in these modes:
+
+1. First, He gathereth for Himself through that ministry the *eternal Church*, and giveth Prophets, Apostles, Pastors, and Doctors.
+2. Second, He remitteth sins, original and actual, reconciling us with the Father, and imputing unto us His righteousness.
+3. Third, He dwelleth in the hearts of believers, that we may be domiciles and temples of Him, holy citizens, and God's familiars (Eph. 2).
+4. Fourth, He effecteth and worketh in us consolation and life, and is not idle in His holy ones.
+5. Fifth, He showeth us the Father — the essence and will of God — through the preached Word, and through the efficacy of the Word in our hearts, kindling in us true faith and true consolation.
+6. Sixth, He giveth the Holy Spirit through these *means* — through the preaching of the Gospel, the use of the Sacraments, and the prayer of the pious — who leadeth us by the voice of the Law unto the knowledge of sins, and by the voice of the Gospel consoleth us, uplifteth us, preserveth us in true faith, and ripeneth and bringeth forth in us the fruits of faith.
+7. Seventh, He defendeth and preserveth the Church against all the gates of hell — the devils and other enemies.
+8. Eighth, He giveth eternal life unto the converted.
+
+**Fourth**, the *servants* of this King are either *ministers of the Word of God* — Prophets, Apostles, Evangelists, Pastors, and Doctors — or also the Angels themselves, whom Christ despatcheth unto the ministry of the believers — or *all pious Nurturers of the Church, Kings, princes, and other magistrates* — Constantine, Theodosius, the Electors and Dukes of Saxony down unto this present time, and (with God's help) also hereafter. ¹⁵⁵
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
