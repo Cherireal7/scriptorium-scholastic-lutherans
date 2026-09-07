@@ -7526,3 +7526,194 @@ Even though **immortality shall be common to the pious and impious**, yet the *e
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS VERBORVM PIORVM.</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+# BACK MATTER · Selnecker's Own Apparatus.
+
+*The following three apparatus sections — Scripture-locations Index, Fathers' Sentences Index, and Index of Things and Memorable Words — are the original back matter of Selnecker's 1579 Pars Secunda. Folio numbers are Selnecker's own (referring to his 1579 Jena edition), not to this translation's pagination.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## ELENCHVS LOCORVM SACRAE SCRIPTVRAE · Index of Passages of Sacred Scripture Explicated in the Second Class of Christian Institutions.
+
+### Old Testament — Torah & Historical Books.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Gen. 6 | *Noah was just and perfect* | 263 |
+| Gen. 6.8 | *The figment of the human heart is evil from youth* | 103, 147 |
+| Gen. 15 | *I will be thy reward exceeding great* | 252 |
+| Gen. 20 | *Thou shalt die on account of the woman whom thou hast taken* | 119 |
+| Gen. 28 | *If He shall have given me bread and water, and I shall return prosperous,* etc. | 416 |
+| Exod. 9 | *Unto this very thing I have excited thee, that I might show in thee My power,* etc. | 62 |
+| Exod. 33 | *I shall have mercy on whomsoever I have mercy* | 61, 66 |
+| Num. 25 | *Phineas stood, and it was reputed to him for justice* | 4, 5 |
+| Deut. 30 | *The mandate is not above thee* | 261 |
+
+### Old Testament — Wisdom & Poetic Books.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Job 13 | *Even if the Lord shall slay me, yet I will hope in Him* | 102, 146 |
+| Job 19 | *I know that my Redeemer liveth* | 661 |
+| Tob. 4 | *Almsgiving delivereth from every sin* | 184 |
+| Ps. 7 | *Judge me, O Lord, according to my justice* | 262 |
+| Ps. 16 | *I shall not pour their libations, nor shall I assume their names upon my lips* | 240 |
+| Ps. 29 | *The Lord sitteth to make the deluge* | 467 |
+| Ps. 31 | *In Thy hand, O Lord, are* καιροί | 123 |
+| Ps. 51 | *Thou shalt be justified in Thy sermons* | 134 |
+| Ps. 71 | *I go on in the virtue of the Lord GOD; I preach only Thy justice* | 152 |
+| Ps. 75 | *A cup in the Lord's hand full of ruddy wine mingled,* etc. | 320 |
+| Ps. 81 | *I have said: Ye are gods* | 604 |
+| Ps. 85 | *Mercy and truth have met each other; justice and peace have kissed themselves* | 32 |
+| Ps. 106 | *Phineas stood, and it was reputed to him for justice* | 45, 164 |
+| Ps. 110 | *Sit Thou at My right hand* | 402 |
+| Ps. 141 | *Incline not my heart unto an evil thing* | 64 |
+| Ps. 144 | *Lord, what is the son of man that Thou reputest him?* | 45 |
+| Prov. 16 | *God created the impious for the evil day* | 75 |
+| Prov. 17 | *Who justifieth the impious is abominable before God* | 182 |
+| Eccle. 9 | *A man knoweth not whether he is worthy of love or hate* | 107, 186 |
+| Ecclus. 35 | *The Lord shall not delay, but shall judge the just and shall do judgment* | 441 |
+| Cant. 1 | *I am black, but comely* | 354 |
+| Cant. 4 | *Thou art wholly fair, my beloved, and there is no spot in thee* | 353 |
+| Wis. 16 | *Thy hypostasis showeth how sweet Thou art* | 103, 149 |
+| Sir. 5 | *Concerning propitiated sin be not secure* | 108, 187 |
+| Sir. 15 | *God left man in the hand of his own counsel* | 284 |
+| Sir. 16 | *Every mercy shall make a place for each according to the merit of his works* | 181, 251 |
+
+### Old Testament — Prophetic Books.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Isa. 26 | *Open the gates, and there shall enter in a just nation, keeping the faith* | 103, 147 |
+| Isa. 26 | *The Lord is angry that He may do His work, while He doth what is alien* | 201 |
+| Isa. 52 | *The whole chapter is explicated in place of a proem* | 1, 2, 3, etc. |
+| Isa. 52 | *Depart, come out from thence, and touch not the unclean* | 356 |
+| Isa. 58 | *Break thy bread to the hungry* | 441 |
+| Isa. 63 | *Why, O Lord, hast Thou made us err, and hardened our heart?* | 64 |
+| Jer. 10 | *I know that a man's way is not his own* | 293 |
+| Jer. 35 | *How the works of the Rechabites are predicated* | 183, 184 |
+| Dan. 4 | *Redeem thy sins by alms* | 184 |
+| Hos. 5 | *In the Tribes of Israel I have shown faith* | 196 |
+| Jon. 3 | *Let each one do penitence — who knoweth whether by chance the Lord may convert and forgive?* | 109 |
+| Hab. 2 | *The just shall live by his faith* | 143 |
+
+### New Testament — Gospels.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Matt. 10 | *The hairs of your head are numbered* | 336 |
+| Matt. 11 | *I give Thee thanks, that Thou hast hidden these things from the wise* | 64 |
+| Matt. 11 | *Wisdom is justified of her sons* | 134 |
+| Matt. 11 | *All the Prophets and the Law until John* | 18 |
+| Matt. 12 | *From thy sermons shalt thou be justified and condemned* | 183 |
+| Matt. 16 | *He who shall have lost his soul for My sake, shall find it* | 64 |
+| Matt. 16 | *Thou art Peter, and upon this Rock I will build My Church* | 372 |
+| Matt. 19 | *If thou wilt enter into life, keep the mandates* | 184 |
+| Matt. 20 | *Many are called, few are chosen* | 337 |
+| Matt. 23 | *Upon the seat of Moses the Scribes and Pharisees sit* | 452 |
+| Matt. 28 | *All power is given unto Me in heaven and on earth* | 229 |
+| Mark 16 | *Preach the Gospel to every creature* | 8, 14 |
+| Luke 6 | *Remit, and it shall be remitted unto you* | 184 |
+| Luke 6 | *Judge not, condemn not,* etc. | 267 |
+| Luke 6 | *Lend, hoping nothing thence* | 643 |
+| Luke 7 | *Her many sins are remitted to her, for she hath loved much* | 184 |
+| Luke 8 | *Hearing they hear not* | 64 |
+| Luke 18 | *None good save God* | 258 |
+| Luke 24 | *That penitence should be preached in the Name of Christ* | 13 |
+| John 6 | *No one cometh unto Me, unless My Father draw him* | 82 |
+| John 6 | *Amen I say unto you, unless ye eat the flesh of the Son of Man,* etc. | 538 |
+| John 6 | *The Spirit it is that vivifieth; the flesh profiteth nothing* | 660 |
+| John 8 | *If the Son shall have made you free, ye shall be free indeed* | 311 |
+| John 9 | *God heareth not sinners* | 386 |
+| John 15 | *Without Me ye can do nothing* | 99, 257 |
+| John 16 | *The Holy Spirit shall argue the world concerning sin* | 14 |
+
+### New Testament — Acts.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Acts 3 | *It behoveth Christ to be received by heaven* | 377 |
+| Acts 17 | *In Him we live and move and are* | 315 |
+| Acts 19 | *The passage on the twelve Ephesians is explicated* | 471 |
+
+### New Testament — Pauline Epistles.
+
+**To the Romans**: *the whole epistle by disposition, parts, and arguments illustrated* — 56.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Rom. 1 | *The Gospel is the power of God unto salvation to every believer* | 562 |
+| Rom. 1 | *The justice of God is revealed* | 168 |
+| Rom. 2 | *God shall render to each according to his works* | 182 |
+| Rom. 3 | *There is none just, no not one* | 285 |
+| Rom. 3 | *By the works of the Law no flesh shall be justified* | 174 |
+| Rom. 3 | *Whom God set forth as propitiation through faith in His blood unto the demonstration,* etc. | 153 |
+| Rom. 4 | *To him that worketh the reward is not imputed by grace but by debt* | 142 |
+| Rom. 4 | *The Law worketh wrath* | 20 |
+| Rom. 4 | *Christ was delivered for our sins* | 50, 52 |
+| Rom. 5 | *Through the obedience of One many shall be constituted just* | 168 |
+| Rom. 6 | *Ye are not under the Law but under Grace* | 16, 26 |
+| Rom. 7 | *We have been freed from the Law* | 17 |
+| Rom. 8 | *For sin He condemned sin* | 586 |
+| Rom. 8 | *Those who are in the flesh cannot please God* | 450 |
+| Rom. 9 | *It is not of him that willeth nor of him that runneth, but of God who hath mercy* | 62, 289 |
+| Rom. 9 | *The passage on the election of Jacob and the reject of Esau is explicated* | 58, 60 |
+| Rom. 9 | *Who resisteth His will?* | 68 |
+| Rom. 10 | *Christ is the end of the Law* | 19, 171 |
+| Rom. 12 | *Present your bodies a living hostia,* etc. | 592 |
+| Rom. 13 | *It is necessary to obey not only on account of wrath, but even on account of conscience* | 632 |
+| Rom. 14 | *Whatsoever is not of faith is sin* | 19 |
+| 1 Cor. 2 | *What the animal man is* | 285 |
+| 1 Cor. 6 | *Why do ye not suffer injury?* | 64 |
+| 1 Cor. 7 | *Your children are holy* | 480 |
+| 1 Cor. 10 | *The cup is the κοινωνία of the Blood, and the Bread is [the κοινωνία] of the Body* | 512 |
+| 1 Cor. 10 | *I please all in all things* | 64 |
+| 1 Cor. 13 | *If I have all faith but have not charity, I am nothing* | 185 |
+| 1 Cor. 14 | *Let the woman be silent in the Church* | 520 |
+| 2 Cor. 1 | *Whatsoever are the promises of God, are Yea and Amen in Christ* | 102, 146 |
+| 2 Cor. 3 | *We are not sufficient of ourselves to think anything as of ourselves,* etc. | 82 |
+| 2 Cor. 3 | *He hath made us Ministers of the New Testament, not of the Letter but of the Spirit* | 445 |
+| 2 Cor. 5 | *Him who knew not sin, He made sin* | 586 |
+| 2 Cor. 10 | *The arms of our warfare are not carnal but powerful before God* | 8 |
+| 2 Cor. 13 | *Try and prove yourselves whether ye are in the faith* | 107 |
+| Gal. | *Arguments on the justification of man from Paul's Epistle to the Galatians* | 76 |
+| Gal. 2 | *By the works of the Law man is not justified, save through faith* | 94 |
+| Gal. 5 | *Whosoever ye be who are justified by the Law* | 65 |
+| Eph. 4 | *To each of us is given grace according to the measure of Christ's donation* | 97 |
+| Eph. 5 | *Christ loved the Church, and gave Himself for her* | 473 |
+| Eph. 5 | *The Church hath no spot or wrinkle* | 349 |
+| Phil. 2 | *With fear and trembling work out your salvation* | 109 |
+| Phil. 3 | *The things which were gains to me, these I have led to be losses on account of Christ* | 179 |
+| Phil. 3 | *We are circumcised who worship God in Spirit* | 583 |
+| Col. 3 | *Charity is the bond of perfection* | 185 |
+| 1 Tim. 1 | *For the just no Law is set* | 16, 26 |
+| 1 Tim. 2 | *God wisheth all men to be saved* | 119 |
+
+### New Testament — Catholic Epistles & Apocalypse.
+
+| Passage | Lemma | Folio |
+|---|---|---|
+| Heb. 3 | *We have been made partakers of Christ, if however we have retained the beginning of His hypostasis and unto the end* | 103, 150 |
+| Heb. 6 | *It is impossible that those who once have been illumined,* etc. *be renewed again unto penitence* | 244 |
+| Heb. 10 | *Unto those sinning voluntarily after the acceptance of the notice of truth, no hostia is left for sins* | ibid. |
+| Heb. 11 | *Faith is the Hypostasis of things hoped for, and the Elenchus of things not appearing* | 81, 148 |
+| Heb. 12 | *Follow peace with all and holiness* | 266 |
+| Heb. 13 | *Forget not beneficence and communication: with such hosts God is impetrated* | 251, 181 |
+| James 2 | *By works man is justified, and not by faith only* | 183 |
+| 1 Pet. 2 | *Offer spiritual hosts, acceptable to God on account of Christ* | 236 |
+| 1 Pet. 4 | *Charity covereth the multitude of sins* | 185 |
+| 2 Pet. 1 | *Excited by the Holy Spirit, the holy men of God have spoken* | 445 |
+| 2 Pet. 2 | *Noah is named a Preacher of justice* | 264 |
+| 2 Pet. 3 | *Repute the patience of our Lord for salvation* | 200 |
+| 1 John 1 | *Every Spirit that dissolveth Jesus is not of God* | 518 |
+| 1 John 2 | *By this we know that we know Him, if we observe His mandates* | 156 |
+| 1 John 3 | *Who loveth not, abideth in death* | 185 |
+| 1 John 5 | *The mandates of God are not grievous* | 261, 291 |
+| Rev. 13 | *The Lamb slain from the origin of the world* | 358 |
+| Rev. 22 | *He that is just, let him be justified still* | 136 |
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
