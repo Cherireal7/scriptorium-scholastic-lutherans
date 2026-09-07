@@ -4303,3 +4303,226 @@ Now the disposition of the Lord's Prayer is of this sort:
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## The Exordium: Our Father, who art in heaven.
+
+In this *compellation* five things are to be weighed:
+
+1. **Whom** we must invoke, and *with what mind toward us* [He is].
+2. **With what confidence** we ought to pray.
+3. **What sort** those ought to be who wish to pray efficaciously.
+4. **What are the weights of the words** in the Exordium: *Father — Our — Who art in heaven*.
+5. **That Christ, not only according to His divine nature, but also as He is man, is invoked by this compellation.**
+
+### On the First: Whom we invoke.
+
+We have said above that *God alone* — who is God the Father, God the Son, and God the Holy Spirit — is to be invoked. The same is shown here by the *appellation Father*. For this Name is of the *essence*, not only of *one Person*. For although only the first Person of the Trinity, *in respect of the only-begotten Son*, is and is named Father — yet **in respect of men, not one Person, but the whole Trinity is called Father** — and this in a fourfold reason: namely, of *creation, government, adoption, and donation*.
+
+**Of creation** it is written, Deut. 32: *Is not God thy Father, who hath possessed thee, created and made thee?* For we are creatures of God, made unto the image of God — and we know, even though we be sinners, that yet it is true what is written: *Thou hast mercy on all things, and hatest nothing that Thou hast made.*
+
+**Of government** Wis. 14 saith: *All things Thou governest with paternal providence.*
+
+**Of adoption** Rom. 8: *Ye have not received the spirit of servitude in fear, but ye have received the Spirit of adoption, by whom we cry, Abba, Father.* And Gal. 4: *When the fulness of time was come, God sent forth His Son, born of woman, made under the Law, that He might redeem those who were under the Law, that we might be adopted as sons.* By this adoption, even though we carry sin about with us, we please God on account of the Son, and He embraceth us with *paternal στοργή* (paternal affection) — as it is written, Ps. 103: *As a Father hath mercy on his sons, so hath the Lord had mercy on those that fear Him.*
+
+**Of donation** James saith: *Every best gift and every perfect gift is from above, descending from the Father of lights* — that is, from the Author and Giver of all good things.
+
+**Therefore God beareth toward us a paternal care, and willeth not to cast us away.** *Can a mother forget her son? And though she should forget, yet I will not forget thee, saith the Lord. Behold, upon My hands I have inscribed thee* (Isa. 49). And: *Thou shalt no more be called Forsaken, but thou shalt be called: My will in her, and thy land, Hephzibah* — that is, *My spouse and My daughter* (Isa. 62).
+
+### On the Second: With what confidence.
+
+**The confidence of those invoking God is now certain and firm**, because He is *Father, not enemy, nor severe judge*. He willeth to hear, and can aid those invoking Him. Therefore Ps. 145 saith: *The Lord is near unto all that invoke Him, unto all that invoke Him in truth. He will do the will of those that fear Him, and will hear their supplication, and will save them.* And Matt. 7: *If ye, being evil, know how to give good things unto your sons, how much more shall your Father who is in heaven give good things unto them that ask Him?*
+
+### On the Third: What sort ought those to be who wish efficaciously to pray.
+
+Those who wish to pray efficaciously ought to be *sons of God, heirs of God, and joint-heirs of Christ — one in Christ — without respect of persons and without discrimination of King and of stable-keeper, of rich and poor, of noble and ignoble*. For in the spiritual Kingdom of Christ these persons altogether are to be put off, though in the external society of the Church and in common life they retain their dignity and pre-eminence. And although those who through Christ are sons of God owe all things unto so clement a Father as God — as the illustrious voice of **Constantine the Great**, worthy of assiduous repetition, testifieth: **"I believe that plainly the whole soul, and whatsoever I breathe, and altogether if anything intimate is turned in the mind, is most greatly owed by us unto God"** — yet rightly are **four heads** enumerated which show what sort those ought to be who wish to pray efficaciously, and what they owe unto God the Father:
+
+1. **Honour.** For we ought to honour the Father *in mind, voice, and life*, according to that: *If I am your Father, where is My honour?*
+2. **Imitation of paternal virtues** — lest we be found *bastards* — according to that: *Be ye imitators of God.* And: *Thou shalt call Me Father, and shalt not cease to walk after Me.* This imitation consisteth in *dilection, mercy, and perfection*. Eph. 5: *Be ye imitators of God as most dear sons, and walk in dilection.* Luke 8 (Matt. 5): *Be ye merciful as your Father is merciful. Be ye perfect as your heavenly Father is perfect.* Likewise: *Be ye holy, because I am holy.*
+3. **Obedience**, which is owed to God: (1) because He is Father; (2) because His benefits toward us are infinite; (3) because the fruit of obedience is manifold in this and in the future life; (4) because the Son of God by His own example rouseth us to obedience; (5) because penalties are inflicted on the disobedient.
+4. **Patience in the cross and in calamities** — unto which these causes ought to admonish us: *the example of the Son of God; the mandate of God; the fruit of patience*.
+
+### On the Fourth: The Weights of the Words in the Exordium.
+
+**Father.** This is a Name of the divine essence. For since the essence of the three Persons of the Divinity is one and undivided, it cannot be that a Person can be invoked without or outside the rest, as it were separated or divided from the others. Therefore the invocation of God embraceth **Father, Son, and Holy Spirit**. And the appellation of *Father* admonisheth us of **faith, of promises, and of the magnitude of God's love toward us**.
+
+**Our.** This pronoun pertaineth to individuals. For individuals ought to establish that God is Father *unto them also*. The same pronoun admonisheth us of *fraternal love* and of the *common good of the Church, which is prayer*.
+
+**Who art in heaven.** This particle is an *asseveration of the omnipotence and universal presence of God*. Everywhere Thou art present, everywhere Thou beholdest and hearest. He who is about to pray, therefore, knoweth that he invoketh the *omnipotent God*, who dwelleth on high, filleth all things, contemplateth and governeth, is καρδιογνώστης, alone potent, Lord of lords and King of kings — who can give what we ask, and whose hand no one can restrain, and who is not even bound to *secondary causes*.
+
+### The Words of Ludolph of the Carthusians on the Exordium.
+
+I shall report here for the studious the words of **Ludolph of the Carthusians**, who wrote the *Life of Christ* and hath many useful things: ¹⁹¹
+
+> *Let us say:* **Father**, *in whom we believe;* **Our**, *whom we love;* **Who art in heaven**, *concerning whom we hope. For these three make prayer worthy, according to the motions of faith, charity, and hope. Indeed the Lord Himself is called Our Father in a threefold way, according to the threefold being we have received from Him — of nature, of grace, of glory. Being of nature He gave us in creation; being of grace in recreation or redemption; being of glory in the communication of the Kingdom. Therefore He is called Father of all generally by reason of creation, but of the faithful spiritually by reason of adoption. And by the name of Father is here understood the whole Trinity — namely, Father and Son and Holy Spirit. O how great a confidence and confident daring — that the creature should dare to call its Maker, the created its Creator, man God — Father! Who ever dared in the Old Law such a thing? Nobody — because what God was called to the ancients as to servants, that is,* **Lord**, *now He is called Father — to whom we serve not by fear but by love. Whence Augustine: "Nowhere is a precept found to the people of Israel that they should say Our Father — but He is intimated to them as a Lord to servants. But we, by the blood of the Lord Jesus, having been made sons of adoption, cry with confidence, Abba, Father." And again: "By which name also charity is excited. For what ought to be dearer to sons than a Father? — and the suppliant affect when men say* **Our Father**, *and a certain presumption of obtaining what we are about to ask. For what would He not now give to His sons asking, when He hath given this very thing before — that they be sons? Lastly, how great care toucheth the soul, that he who is called Our Father may not be unworthy of so great a Father!"*
+
+> *Here also are admonished the rich, or those noble by generation according to the world, that when they have been made Christians they may not be proud against the poor and ignoble — since together they say* **Our Father** — *which they cannot truly and piously say unless they know themselves to be brethren.* — Thus Augustine. And **Chrysostom**: *"How great is the love of the Lord toward us, how great His mercy and piety — who hath indulged us so great a gift of grace, that we, His servants, may licentiously dare to call the Lord and our God — Father! By which vocable He demonstrateth us not only servants but even sons of God. Because therefore we have obtained the grace of so great a gift, we ought to act and converse as sons of God — that we may prove by spiritual act that we are what we are called, lest, acting otherwise than becometh sons of God, we be held guilty of usurpation of so great a Name. He teacheth also to make a prayer general for the brethren: for He saith not* **My Father**, *but* **Our Father** — *that for the common body thou pour out prayer, and everywhere seek not so much thy own commodities as those of neighbours. And through this He extinguisheth enmities and represseth pride and repelleth envy, and introduceth wondrous charity of all goods, and altogether excludeth the inequality of human things, and showeth the mutual equality of honour of King with poor — since in the greatest and necessary-unto-eternal-glory things we are associated by communion. For unto all God hath given one and the same nobility, when He hath deigned to be called Father of all."*
+
+We are admonished here also unto **fraternal union and dilection** — as begotten by one heavenly Father through grace, and by one terrestrial [father] by nature, formed and created by the supreme heavenly Father, all also formed of the same clay — lest we be elate, as though some of us were born from more illustrious ancestors than others.
+
+By **the heavens** are understood the *saints and the just*, who are the *temple of God*, because God dwelleth in them as in His temple. For although God is in all things by the presence of divinity, yet He is in a special mode in the just *by inhabiting grace*, and most specially His excellency shineth in the blessed *by glory*. Whence **Augustine**:
+
+> *It is rightly understood that what is said — Our Father, who art in heaven — is said to be in the hearts of the just, as in His holy temple. At the same time, that he who prayeth may also will Him whom he invoketh to inhabit in him. And when this he pursueth, let him hold righteousness — by which gift God is invited to inhabit the soul.*
+
+Or, **Who art in heaven** — that is, *in the secret of Thy majesty*, which is yet concealed from us, according to that of Isaiah: *Truly Thou art a hidden God.* In which we are admonished both to imitate the saints in conversation, and to seek secret and hidden things.
+
+Or, **in heaven** — that is, *in that heavenly region of eternal beatitude* — that, having our dwelling in this life as a *pilgrimage*, and having a *Father who separateth us from Himself*, we may with the highest desire hasten toward the region in which we confess our Father dwelleth, and fix our whole intention thither as toward a *fatherland*. We are admonished also that we admit nothing of the sort which would deprive us of *the paternal inheritance*. And because it is said that He is *in the heavens*, it is not excluded that He is *everywhere and in all places*. For although He is everywhere wholly essentially, presentially, potentially — yet He saith of Him who is in the heavens, that He may intimate that *the heavenly Father wisheth to have heavenly sons*; and therefore, as **Chrysostom** saith, *let them blush to subject themselves to earthly things — they who have a Father in the heavens*. Likewise, that praying we may ask *heavenly things*, and that we may think of the inheritance of the sons of God *in the heavens*. Likewise, because in the heavens the *power and virtue of His divine operation* shineth more, He is chiefly and rather said to be *there* than elsewhere — as the soul is everywhere in the body, yet more intensely is said to be *in the heart*; or according to others, is said to be *in the head*, because there the nobler acts of its operation seem more to appear.
+
+### On the Fifth: On the Adorable Flesh of Christ.
+
+**In Christ, as confusion, so also division of natures must be shunned: and the whole Christ, God and man, must be rightly acknowledged and invoked. And by no reason is a *Quaternity* to be admitted into the Trinity — but the flesh of Christ, or the human nature in Christ, is so to be acknowledged that we may know it in Christ to have been raised above all the heavens unto the right hand of God the Father omnipotent, and made a consort of the divine empire, glory, majesty, light, power, and virtue divine; and therefore to be adored, and to be adored together, as often as we say: Our Father, who art in the heavens.** ¹⁹²
+
+For in the same *heavens of heavens* Christ liveth and reigneth according to His human nature — in which He is with the Father and the Holy Spirit *from eternity to eternity* according to His divinity — and *the same throne, the same seat, the same right hand* whereunto Christ the Son of Man sitteth, is and remaineth in all eternity, *the same*, I say, which is the throne, and the habitation of the Father, Son, and Holy Spirit — the human nature not being changed or having undergone any conversion, but *co-united unto the perfection of Deity*. For Christ hath placed the condition of our nature (which He assumed from a woman-mother) *above the heavens at the right hand of God the Father* — that is, ἐκάθισεν (He hath seated), *hath constituted, hath made to sit* (Eph. 1) — as **Augustine** piously saith. And, as **Cyril's** illustrious voice hath it: *Christ hath willed to subduct His own temple unto the glory which is with Him always as God.*
+
+**Unto the heavens**, therefore — in which is the whole eternal divinity — since the human nature in Christ hath been raised, altogether unto it *the same adoration and invocation are owed which are owed to divinity*. For we do not separate the natures, nor introduce a Quaternity, but we acknowledge and adore Christ *God and man*: not indeed in the abstract *human nature* (which according to itself is not adored), but *κατ᾿ ἄλλο* (according to another) — insofar as it *subsisteth in the divine nature*, and *hypostatically is conjoined with the Word*.
+
+By **the heavens** we understand not certain corporeal places — the air, the firmament, the celestial orbs — but *the throne and habitation of God, the heavens of heavens*, of which it is written: *The heavens of heavens shall not contain Thee* — in which God exhibiteth Himself to be seen *not through Word, enigma, or mirror, but face to face*. For we say the *majesty of God* to be in the heavens — not that it is there enclosed, but that there it chiefly emineth, and offereth its essence to be known without any intermediate or interstice (that I may thus speak).
+
+**In these heavens let us rejoice that our nature and flesh have in Christ been raised, and at the right hand of God exalted.** And let us say with **Cassian**: *To sever the Lord from His body I have not learned; and to divide my Lord from Himself I know not; to insert sacrilegious opinions between Jesus and God I will not. Away from me, whoever thinkest otherwise, whoever speakest otherwise!* ¹⁹³
+
+**Augustine** thus saith:
+
+> *If the Son is not natural God but a creature, He is not to be worshipped at all, nor to be adored as God — the Apostle saying: "They worshipped and served the creature more than the Creator." And to the Galatians: "But then, being ignorant of God, ye served those who by nature are not gods." But the heretics reply hereto and say: "What is this — that Thou, together with the divinity, adorest also His flesh, which Thou deniest not to be a creature, and servest it no less than the divinity?" I adore the Lord's flesh — nay, the perfect humanity in Christ — for this reason: because it hath been received by the Divinity and united to the Deity, that I may confess not one and another, but one and the same God and man, Son of God. Lastly, if thou separate the man from God, I never believe or serve Him: as if any should find a purple robe or royal diadem lying, would he try to adore them? But when the King is invested with them, he who contemneth adoring them together with the King incurreth peril of death: so also in Christ the Lord — if any contemneth adoring humanity not alone or naked, but united to divinity — one Son of God, true God and man — he shall suffer eternal death.*
+
+Unto Augustine the illustrious voice of **Luther** consenteth:
+
+> *We, when we adore Christ born of the Virgin — namely, the man — do not adore any pure* (as they call it) *mere man, or another than the Son of God, who apart, outside God, or beside and outside God, is a certain separated Person to be adored apart. But we adore the eternal, true, one only God, who with the Father and the Holy Spirit is one eternal God, and with the human nature assumed from the Virgin is one Person, or one Christ.*
+
+### Four Modern Heresies Refuted.
+
+Today heretics devise various things, of which these are the chief:
+
+1. **"Christ, according to His human nature, is not equal to God."**
+2. **"A creature cannot be equal to the Creator. But the flesh of Christ is a creature."**
+3. **"The properties of the natures must be retained."**
+4. **"The divine idioms are incommunicable. But to be adored is proper to the divine nature."**
+
+Concerning these matters young people must be rightly instructed. Concerning the first fiction, therefore, let the true sentence be held: **It is true that the human nature considered in itself or in the abstract hath not divine glory** — but *in Christ*, hypostatically uniting to Himself the human nature and raising it with Himself unto the right hand of God into the glory of the Father, **the same is the glory of the human nature in Christ as of the glory of God, the same honour and worship which is owed to it — none of the pious doubteth**. Therefore **Nazianzen** in his Paschal Homily saith: *The holy flesh of Christ is by unction equal to God.*
+
+**Luther** gravely saith: *Abstracts must not be separated — otherwise our faith is false. But we must believe in the concrete: "That Man is God,"* etc. *Here the properties and attributes rightly abide. Humanity createth not — namely, humanity separated and set apart, if we speak of it alone. So conversely, divinity dieth not. Therefore in this place we must be altogether silent concerning the abstract, because faith teacheth that here there is no abstraction, but concretion, conjunction, and copulation of each nature. Wherefore concerning this matter we must speak as concerning the concrete. "The Son of God preserveth all things. The Son of the Virgin preserveth heaven and earth. The Son of God dieth, suffereth. The Son of the Virgin dieth, suffereth." So Scripture speaketh, which we should diligently observe — as Isa. 53 the Servant is said to be exalted,* etc. *For the nature taken apart is a servant; but the same conjoined with the divine is called Son, and* **EQUAL TO GOD IN THE HUMAN NATURE** — *not through itself or apart, but in that concretion of which all things are said. Whatever things can be said of the divine nature, are said in the concrete also of the other, namely united into the same Person. These are the very things of Scripture, not ours.* Thus far Luther. ¹⁹⁴
+
+**But the heretics say:** *"Christ according to His human nature hath been gifted with light, immortality, and other excellent ornaments and gifts, and made a consort of the Kingdom — but not with the divine Majesty and Glory, which is an idiom of the divine nature."*
+
+**I answer.** We too have the most certain promise *of fellowship with the Father, and with His Son Jesus Christ* (1 John 1); and we have the *consortium and participation of the same Christ* (Heb. 3); and hope, faith, and expectation of *reigning with Christ* (Rom. 8) — nay, *the greatest promises, by which we are rendered consorts and partakers*, κοινωνοί, *of the divine nature* (2 Pet. 1).
+
+Yet however great be this dignity of ours, it doth not attain to the dignity of that supreme state which the *Son of Man* obtaineth at the right hand of God in the glory of the Father, raised in His flesh. For although the *man Jesus Christ* had all things *in the likeness of men*, yet *the likeness is with an immense difference* (that I may use Ambrose's words) — as it is written: *He was anointed with the oil of gladness and exultation above His fellows and partakers.* For unto no creature said the Father: *Sit Thou on My right hand.* But unto Christ incorporate, the Son of Man, *our brother*, God said: *Sit Thou on My right hand.* Let us acknowledge (as **Chrysostom** piously saith — whose words Theodoret and Vigilius also allege) *of what nature is that unto which God said: "Sit Thou on My right hand, and be a partaker of My seat" — namely, of that which had heard: "Earth thou art, and unto earth shalt thou go."* And **Athanasius** saith: *It is the Lord's body unto which is said: "Sit Thou on My right hand."* And the Lord Himself in the Gospel: *I say unto you, henceforth shall ye see the Son of Man sitting on the right hand of God.* And Paul, Eph. 1: *God hath constituted Christ Jesus at His right hand in the heavens above all principality, power, virtue, dominion, and every name that is named, not only in this world, but also in the future.* And 1 Cor. 15: *All things He hath subjected under His feet, Himself alone excepted. For God is the Head of Christ* (1 Cor. 11).
+
+**Christ therefore hath received from His Father all glory, honour, and majesty** — not only finite, *habitually inhering* in Him, or only natural, particular, and created — **but uncreated, divine, all, and infinite**. And for this cause the holy Church *adoreth* the human nature of Christ, in one Person of Christ *inseparably and inenarrably united to the divinity and glorified*, and (as some of the ancients spoke without peril or fear of Eutychianism) **deified**. And all the Angels of God *adore* Him, and unto Him boweth every knee *of things in heaven, on earth, and under the earth*.
+
+### The Ancient Chain on Coadoration of Christ's Flesh.
+
+Pious and erudite antiquity, opposing itself to **Nestorius**, would not concede that the word *co-adoration* be used of the man Christ, but willed it to be said simply *that Christ is adored according to each nature* — as in the verse:
+
+> **He who was crucified — behold, God reigneth for all things,**
+> **And all created things give prayer unto the Creator.**
+
+And there existeth the *eighth anathematism* from **Cyril**, written thus from the words of Athanasius: **"If any dareth to say that the assumed man is coadored with God the Word and coglorified, and God to be named as another with another — and doth not rather honour Emmanuel by one adoration, and considereth one glorification to Him (as the Word was made flesh) — let him be anathema."**
+
+**The second fiction** hath no place in the adoration of the person of Christ τοῦ θεανθρώπου (of the God-Man). For as Christ is one, God and man, so **one is the adoration of Christ God and man**. In the abstract indeed the human nature is a creature, unto whom the cult of adoration is not owed according to itself. **But in the concrete, no less in the Son of God incorporate, our Lord Jesus Christ, than in the Father and the Son and the Holy Spirit — God incorporeal — we believe, and we adore Him.** Here we must not look unto the *creature* but unto the *Person*, who is God and man. And certainly it were ill done with us and with our faith, if in Christ we wished to bring forth the discrimination of *created and uncreated, finite and infinite*, as often as we invoke Him. For although a creature is not equal to the Creator — namely, insofar as it is creature and is considered as creature through itself — yet **Christ, copulating hypostatically our nature or human flesh unto Himself, hath raised the same by the** εὐδοξία **of His Father and by the** ἐνέργεια **of Himself above all creatures unto the right hand of the Father into the divine glory** — that it be adored and glorified in Him by all creatures, Angels and men, not ὑπερδουλίᾳ (with super-dulia), but altogether θεοσεβείᾳ καὶ εὐσεβείᾳ (with true divine-worship and piety); **and thus one and the same Christ is worshipped and adored with one** λατρεία, because there is one Person consisting of two natures, nor doth the honour of adoration look unto this or that nature, but unto the very *hypostasis subsisting*. And so also in the Old Testament all the Patriarchs and Prophets invoked God to be manifested in the flesh, having the *certain promise concerning the seed to come*. David saith: *The King shall desire Thy beauty, for He is Thy Lord, and thou shalt adore Him.* And: *Adore Him all ye Angels.* Likewise Isa. 11: *In that day shall be the root of Jesse, who standeth for a sign unto the peoples; unto Him shall the Gentiles flee.*
+
+**The third objection** — on retaining the properties of the natures — is by no means impugned. For the *properties of the human nature* are retained — namely, that it is *truly a human nature, finite, and (physically speaking) circumscribed*. Yet the *glory and majesty of the human nature in Christ* is not therefore denied — which *divine majesty hath been given to the flesh of Christ* — which flesh, if it were not in Christ, would not have that glory, nor would be adored — but because it is *in Christ*, and is the *flesh of Christ or the Lord's body*, it is also *adored in Christ, as often as Christ is adored*.
+
+**The fourth objection** hindereth nothing. For it is true that the *idioms are not communicated* in such wise *that they be made idioms of the other nature*. Adoration is an *idiom of the divine nature*, and doth not become an idiom of the human nature. Therefore not the *flesh alone*, nor *considered per se in the abstract*, is by us adored — but is adored *the Son of God, who at a certain time assumed the human nature, and made it so proper unto Himself that now He is one Son, with the flesh united to Himself — the Word of God the Father* — nor without sacrilege and blasphemy can the *two natures be disjoined*, or placed apart by us. Therefore **Cyril**, in the book *On the Incarnation*, saith: **In adoration a division must not be made unto the man apart, and unto God apart. Nor, as though conjoined unto God, whose qualities have been substantially deigned to be divided — do we say that man is adored with Him: for that is fullest of extreme impiety. But** *one made-man and incarnate Word of God* **is to be adored.**
+
+Hither pertain also other sayings of the orthodox Fathers, which speak concerning the *exaltation of the human nature in Christ* — of which in the explication of the Symbol, when concerning Christ's ascension into the heavens and His session at the right hand of the Father we must treat, we shall hear. I shall report only the sentence of **Damascene**, bk. 3, ch. 8: **"I fear to touch the coal, because of the fire copulated with the wood: I adore both natures of Christ my God together, because of the divinity united to the flesh."** ¹⁹⁵
+
+### On Bernard's Prayer to the Crucifix — a Warning.
+
+Some today propose the question: *whether the form of prayer can be admitted, excused, and approved which is directed unto the body of Christ, or unto some member — hands, feet, side, blood*, etc.
+
+**But the true response is:** *the whole Christ is adored by us — and the human nature is not to be separated, nor apart to be invoked*. Therefore the *Papal idolatry* is not to be confirmed — nor the *invocation of the images of the Crucified* — such as is that of **Bernard** directed unto the image:
+
+> *"Hail, Salvation of the world — Hail, hail, dear Jesus. To Thy cross I would fit myself truly. Thou knowest why. And as though present I approach. Nay, I believe Thee present. O when here I discern Thee naked — behold, I prostrate myself unto Thee. The nails of the feet, the hard wounds, and so grievous impressions — I embrace with affect, trembling in Thy sight. Before the Cross prostrate, and embracing these feet, O good Jesus, despise me not, but from the holy Cross behold me. Hail, side of the Saviour, in which lieth the honey of sweetness. Hail, sweet opening, whence cometh a pure vein,"* etc.
+
+Even though often in such small prayers there are contained *pious admonitions, ardent and arduous*, yet **what ought to be principal is always omitted — namely, the adoration of the whole Christ**. And not only is made a *division of the natures* (which without sacrilege and blasphemy cannot be done), but even *idolatry* — the *adoration of an image and picture* — is manifestly confirmed. ¹⁹⁶
+
+Now — omitting useless questions — let us repeat the petitions in order.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## I. Hallowed be Thy Name.
+
+To *sanctify* signifieth *to hold as holy, and to worship with the highest veneration* — which for the Hebrews is *Kadosch, to be holy*. **Name** signifieth *notice or acknowledgment and celebration of God and invocation*.
+
+**The sum of the petition therefore is this:**
+
+> *We beseech Thee, O merciful heavenly Father, so to teach and rule us that we may acknowledge Thy works of creation, government, and redemption; and celebrate Thee on account of Thine immense power, wisdom, righteousness, and mercy — which virtues shine forth from Thy works. Give us faithful Doctors in the Church; preserve the ministry and salutary discipline; sanctify us in Thy truth — Thy Word is truth. Confirm in us faith and confidence of Thee* (ἡ γὰρ ὑπόστασίς σου τὴν σὴν γλυκύτητα, πρὸς τέκνα ἐνεφάνισεν — *"For faith in Thee showeth Thy sweetness toward the sons,"* Wis. 16); *give that we may expect all goods from Thee as from a most clement Father, and everywhere praise and celebrate Thee at all times, and Thy praise ever be in our mouth — and thus Thy Name be holily used by us in invocation, preaching, confession, oath, and other good works which in the second precept are prescribed.*
+
+In this petition an **order** must be diligently considered, which consisteth in these:
+
+1. **The work of God** — threefold, namely: *of creation, of redemption, of sanctification*.
+2. **The Name of God** — which emergeth from the work of God: namely, *acknowledgment and celebration of the works and virtues*, of the *power, wisdom, righteousness, goodness, and truth of God*.
+3. **The true notice of God**, arising from the Name of God — that is: *institution and preservation of the ministry, the true use of the Sacraments, and the salutary discipline of the Church*.
+4. **Faith or confidence**, which followeth notice, and *awaiteth all goods from God the heavenly Father*.
+5. **Celebration**, which followeth confidence.
+6. **The holy usurpation of the Name of God**, which followeth celebration.
+
+This order finisheth the first petition — namely: **God's work, Name, notice, confidence, celebration, and right usurpation**.
+
+**Antithesis.** With the first petition these fight: **the techne of devils and of men obscuring the works of God; every idolatry; superstition; blasphemy; corruptions of doctrine and heresies; tyranny; contempt of God and of the divine Word; Epicurism and carnal security; ingratitude for the light of the Word and for other benefits of God; profane usurpation of the Name of God; impurity of morals.** All these we deprecate in the first petition.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## II. Thy Kingdom come.
+
+It hath been said above concerning the *Kingdom of Christ* — which is either *of power, or of grace, or of glory*.
+
+- **The Kingdom of power** is the celestial government by which God governeth, moderateth, and disposeth all things.
+- **The Kingdom of grace** is the *collection of the Church, the gratuitous remission of sins, the imputation of righteousness, the acceptation unto eternal life, and the gratuitous donation of the Holy Spirit*. And this Kingdom is either *public or private*. The **public** is named the Catholic Church, which God gathereth and directeth by *Word, Holy Spirit, and discipline*. By the Word He showeth His will; by the Spirit He moveth hearts unto faith and obedience; by discipline He ruleth external morals. The **private** is beheld in each member separately, and is named *righteousness, peace, and joy in the Holy Spirit* (Rom. 14) — namely, *free faith and conscience believing the promises and resisting the works of the flesh*.
+- **The Kingdom of glory** is the *eternal life of all believers, reigning with Christ after the resurrection in all eternity — when God shall be all in all*.
+
+The word **come** signifieth *by continuous steps to be increased — until at length in the other life the integral consummation take place*.
+
+**The sum of the petition therefore is this:**
+
+> *Grant, O God, that many citizens of Thy Church be made daily, and that Thy Church may grow and be preserved — in which Thou art Monarch and Head, ruling and defending her by Thy sceptre. Give Thy Holy Spirit, who may illumine our minds and hearts, teach, bend, kindle, and confirm in us faith and true consolation — that we may be and remain vessels of mercy, domiciles, organs, and temples of Thy Spirit — and may not fall into errors or into wickedness. Preserve holy discipline, that Thy Word be not blasphemed, nor Thine enemies be confirmed in their malice, nor the simpler be offended — but that many by the example of the pious may be invited unto the Kingdom of Thy grace. Join our souls, that we may know we are brethren and citizens of one Kingdom — and lead us at last unto the blessed Kingdom of glory unto life and eternal gladness, in the universal resurrection — in which shall be separated grasses from chaff, fishes from serpents, lambs from kids, wheat from tares, and Thy Church (which is Thy Kingdom) from the pressure of the present world.*
+
+**Antithesis.** With the second petition these fight: **the whole kingdom of Satan the homicide and liar; the crimes and flagitia of the impious and of all who are sons of diffidence; the furies of tyrants, Turks, Papists, and persecutors; the proper petulance and contumacy of the flesh; scandals; brawls and dissensions; confusion and** ἀταξία **(disorder); carnal security** — so far as all things impede the effect of God's Word, that is, the Kingdom of grace and glory.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## III. Thy will be done, as in heaven, so also on earth.
+
+**Cyprian:** *"We ask not that God may do what He willeth, but that we may be able to do what He Himself willeth; or that our willing — which by nature's corruption is evil — may be made good through grace. For without regeneration, which is by grace, a good will in man is not."*
+
+There is therefore in this third petition: first, a **confession**; then a **doctrine**; afterward a **prayer and deprecation**.
+
+**The confession** appeareth from the words: *Thy will be done, not ours*. For we confess that our will is by nature evil — not indeed by *substance* or by *the natural faculty of willing* which God created, but *by habit from the corruption of nature* — because the will *willeth evil and without grace cannot become good*.
+
+**The doctrine now is this:** ¹⁹⁷
+
+The will of God is either:
+
+- **Antecedent** — which is either *of omnipotence*, or *of end* (*εὐδοκίας*, of good pleasure or approbation), or *of the means unto the end*
+- **Consequent** — either by *approbation* or by *permission*
+
+**The will of omnipotence** cannot be changed — because God and the divine omnipotence is *immutable*, and God willeth to govern and moderate the things created by Himself, and no power can resist Him.
+
+**The will of end** is that by which God willeth by good pleasure and paternal approbation *that all men attain the end for which they were created and redeemed* — that is, *He willeth all men to be saved*.
+
+**The will of the means-unto-end** is that by which God willeth those things to be done by men which pertain to attaining the end by way of order — as: *to be a member of the Church, to hear the Word, to come into the acknowledgment of the truth of God, to believe the promises, to be justified and renewed, to bring forth the fruits of faith, to persevere in faith and piety unto the end*. And this will of God — which is *our sanctification* (1 Thess. 4) — we ask in this third petition *to be confirmed and perfected in us*.
+
+**The consequent will** is that by which God, by reason of His justice, *punisheth* the impious and unbelievers and impenitent; or by His mercy *receiveth and preserveth* the converted and believers in the Son gratuitously, on account of the Son.
+
+Besides this antecedent and consequent will of God, is the **permission**, by which God permitteth what He willeth not, unto the will of men *evilly resisting the Word and the will of God*. And **this our own will** we deprecate in this petition — as **Augustine** eminently saith: **"Thy will be done — that what Thou hatest, we may hate; and what Thou lovest, we may love; and what Thou commandest, we may perfect."**
+
+Therefore also is added the particle: **As in heaven**. By which we are admonished by *the example of the holy Angels* to seek heavenly things, and to live holily and chastely, to serve God, to rejoice in Him, to be humble, truthful, and *conformed to the will of God*, and to aspire unto *the heavenly conversation with great desire, the filth of this terrene world being spurned*.
+
+**Mauritius the Bishop** thus saith: *"'Thy will be done in earth as in heaven' — if not according to the quantity and equality, yet according to similitude: that is, if not according to the perfection of the Angels, yet according to the imitation of the perfection. For the particle 'as' is not of quantity but of quality, and intimateth similitude, not equality — as if any should build a small house according to the form and disposition of a larger house, we would not say of the small house: 'This is as great as that greater' — but we would say: 'This is such as,'"* etc.
+
+**The sum of the prayer therefore is this:**
+
+> *Preserve, O Lord, Thy will patefacted unto us in Thy Word, Law, and Gospel; and daily replenish us with the cognition of it. Create in us a clean heart, and a right Spirit in our inwards. Rule us by Thy Spirit — that we may offer our bodies a holy sacrifice, our rational worship — that we may prove what is Thy good, well-pleasing, and perfect will. Reform Thine image in us in true righteousness and holiness. Be present unto us in every state of life and of our vocation, that in the whole body of the Church, in households, and in polities, each may faithfully do his own work, sincerely, and in fear of Thee. Rule and protect our Princes and their Counsellors, and bend their souls to piety and to salutary concord, and give unto us salutary government. Guard and rule our families, and convert us unto righteousness and eternal life. Nourish Thy Churches. Give pious Doctors in temples and schools, and restore salutary and pious concord — and resist those who move troubles without cause. Bend the souls of the hearers and disciples unto piety, discipline, and diligence. Repress Thine enemies, the Turk and the Papal techne. Free us in due time from these miseries — and refresh us with heavenly life and gladness in eternity.*
+
+**Antithesis.** **Ignorance of God's will. Corruption of doctrine. Rudity and inscience of teachers. Human traditions in the Church as necessary unto salvation. Rebellion and contumacy of our heart against God. Laxation of discipline. License. Dissimulation and conniving at the loosening of discipline. Patronage and defence — or excuse — of delinquencies and of evil causes. Deformity of our whole nature. Sins of forgetting and of omission, negligence, inscience, inertia, in the offices of our vocation.** All these we deprecate in the third petition.
+
+To this must also be added: there is in this petition a certain *correction*. Often we imprudently ask of God something which would be *hurtful to our faith, safety, and salvation* if it were given by God. Therefore by this petition we subject our own will to the will of God — who always heareth us, if not unto our will, yet unto our salvation. **"Let God's will be done"** — that is: *if the glory of God and my salvation is not hurt by what I ask, God will hear me and make me a partaker of my vow.* Thus the leper (Matt. 8) saith unto Christ: *Lord, if Thou wilt, Thou canst make me clean.* And David, expelled from the Kingdom, prayeth that he be restored *if it seem good to God*; but if not, *he saith, "I please Thee not — I am at hand: let Him do what seemeth good to Him."* And the Son of God doth the same in His agony: *Not Mine, but Thy will, Father, be done.* For corporeal goods are to be sought with a **condition** — as of **B. Martin** it is written, who lying-down before his agony said: *"Lord, if I am yet necessary unto Thy people, I refuse not the labour: Thy will be done."*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
