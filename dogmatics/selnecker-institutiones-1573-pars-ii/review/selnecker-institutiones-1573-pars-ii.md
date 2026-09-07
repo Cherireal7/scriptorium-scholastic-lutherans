@@ -5373,3 +5373,236 @@ But **the judgment on *blasphemers against the Son of God*** — as the *Arians 
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI QVINTI · DE SACRAMENTIS + DE BAPTISMO.</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+# DE COENA DOMINI · On the Lord's Supper.
+
+Eruditely and rightly are ***three kinds of signs*** in Scripture considered:
+
+- **Some** are *doctrines added for confirming truth and the certitude of faith* — as are all the *divine miracles* in the Old and New Testament: the *burning bush, the pastoral staff turned into a serpent, the pillar of cloud by day and fire by night, the drying of the Red Sea, water flowing from the rock, the flowering of the dry rod of Aaron, iron of Elisha floating in the water, the standing still and retrogression of the sun, water gushing from the jawbone of an ass, the translations of Enoch and Elijah into heaven, the three not burnt in the Babylonian furnace, Daniel in the midst of lions, the fecundity of the sterile, the healings of the infirm, the resuscitations of the dead, the finding of the half-shekel in the mouth of the fish, the resurrection and ascension of Christ, the donation of the Holy Spirit, the birth from the Virgin, the star of the Magi*, and many other similar signs — by which the heavenly doctrine has been confirmed and which differ from *diabolical signs by their impossibility and ends*, as is elsewhere shown.
+- **Some** are *signs of wrath* — either *menacing and pre-announcing punishments for sins*, as *horrid eclipses and constellations, comets, chasms, harmful tempests*, and other signs *admonishing us unto penitence*; or **punishing** — either **spiritual** (as *heresies, sects, distractions, dangerous varieties of opinions, corruptions, and profanations of the Sacraments*), or **corporal** — of five, six, and seven letters (that is, *λιμός, λοιμός, καὶ πόλεμος* — famine, plague, and war) — likewise *evil beasts*, and manifold diseases by which God chastiseth us that we may be converted.
+- **Some** are *signs of grace added to promises* — that is, *mysteries or Sacraments*: as of old **circumcision**, and in the New Testament **Baptism** and the **Lord's Supper**. For these Sacraments are as it were ***visible Gospels***, instituted by Christ unto this end: that through them He may *communicate to us His redemption*.
+
+But the true, proper, and peculiar seat of the doctrine on the Lord's Supper is in the **words of the Institution**, from which what the Supper is must be defined.
+
+## The Definition of the Supper.
+
+**Ignatius**, in the time of the Apostles, delivered this definition: ***χαρισίαν ὅτι σάρξ τοῦ σωτῆρος ἡμῶν Ἰησοῦ χριστοῦ ὑπὲρ ἡμῶν παθῶσι*** — *"The Supper of the Lord is the flesh of our Saviour Jesus Christ, which suffered for us."*
+
+We in the same mode in the *catechetical doctrine* of our Churches say:
+
+> **The Sacrament of the Supper is the true body and blood of our Lord Jesus Christ, under the bread and wine, given by Christ Himself to us Christians to be eaten and drunk.**
+
+**Paul** defineth [it as] ***κοινωνία τοῦ σώματος καὶ αἵματος*** — that is, *the dispensation, distribution, communication, and participation of the true body and blood of Christ*.
+
+We retain these descriptions — the sum of which is this:
+
+> **The Lord's Supper is a Sacrament or sacred action instituted by Christ Himself — in which, bread and wine being taken up and the Word of Christ's institution being added, is received the true body and true blood of Christ — unto this end, that the recipients, being admonished by this pledge concerning the promise proper to the Gospel, may confirm their faith and, having faith, may receive the remission of their sins.** ²⁰⁷
+
+### Substance and Matter.
+
+**The substance and matter of the Supper is: under the bread the body, under the wine the blood of Christ.** The bread is *visibly and comprehensibly present*, and is *sensibly received* — likewise the wine — as external and corporeal *elements and symbols*. But the **body and blood of Christ**, *invisibly and incomprehensibly and insensibly, yet truly, entirely, and presently*, are distributed and received. For **Christ is present truly and substantially in the action or administration of the Lord's Supper — not only according to His divine nature, but also according to His human nature** — so that with the bread and wine given to the takers, the *true, substantial, and living Body of Christ* (which hung on the altar of the cross and endured the most bitter torments for the salvation of the human race) and *His Blood shed for us* — are truly by Christ Himself through the hand of the minister *given and exhibited*, according to the words of the Institution of Christ:
+
+> **Take, eat, this is My body which is delivered for you. Take, drink, this is My blood,** etc.
+
+### What We Do Not Feign.
+
+For from these words of Christ, let us most simply understand, esteem, and perform all things in this ceremony — repudiating all *frivolous contentions and questions concerning mode and possibility*.
+
+- We do **not** feign a *symbolic or allegorical body, significative, οὐκ ὄν* (non-existing), *typical, mystical only, phantasmal, metaphorical, metonymic, catachrestic, improper, or absent body* — but the words of Christ (*This is My body*) we understand of the *true, living, substantial, and really present body*, which was assumed from the Virgin Mary, and hanging on the altar of the cross endured the most bitter torments for our salvation.
+- We do **not** feign a **transubstantiation**, or (as some speak) a **consubstantiation**, or a **commixture** of the body with the bread and of the blood with the wine, or an **annihilation, transelementation, μεταβολή, conversion or immutation of the bread into the body** and of the wine into the blood, or a **local inclusion, affixion, and circumscription of the body, dimension, impanation, creophagy, Capernaitic eating**, or similar things — of which impure men foully accuse our Churches.
+- We do **not** feign a certain *personal, or natural, or formal union* — but we know here to be a ***sacramental*** union. For the bread is worn away by the teeth, tongue, and palate; but the body of Christ — whose copulation with the bread-sacrament is *fitting* — is received integral, *without any figment of Capernaitic eating*, in a mode in this life *unsearchable and incomprehensible to us*, and *known to God alone*.
+- We do **not** finally feign any *mathematical presence, latitude, thickness, smallness, change of place, or local position — καὶ περιγραφὴν*. For not *locally* — as straw in a sack or wine in a cask — are the body and blood of Christ in the Sacrament of the Supper, but *certainly, truly, really, and substantially* Christ is present there with His body, according to the reason of His omnipotence and truth *unsearchable to us*.
+
+For **we do not ask "How?" when God is working** — saith Cyril — *but we grant Him alone the way and knowledge of His whole work*. And eminently **Chrysostom** on Matt. 26 saith:
+
+> *Let us always believe God, and not resist Him — even if what He saith seem absurd to our sense and cogitation. For by His words we cannot be deceived; but our sense can very easily be deceived. Those cannot be false; this is often and again deceived. Since therefore He said: "This is My body," etc., let us be held in no ambiguity, but let us simply believe.*
+
+### The Three Constituents of the Supper.
+
+Furthermore, three things pertain to the Lord's Supper:
+
+**I. The integral element** — bread and wine.
+
+**II. The words of institution.**
+
+**III. The whole action** — *distribution, communication, or reception of the bread and wine, and of the body and blood of Christ with the bread and wine*.
+
+### The Papal Mutilation of the Element.
+
+**The Papists do not retain the integral element, but mutilate the sacrament, and (as they call it) *the other species or part of the Supper* they sacrilegiously snatch from the laity — against the express words of the institution.**
+
+Rightly **Ambrose** saith: *It avails to the guarding of body and soul that we receive [both]. For the flesh of Christ is offered for the salvation of the body, but the blood for our soul. But if it were taken only in one species, it would signify to avail to only the one part — that is, of soul or body — not to the guardianship of each together.*
+
+Wherefore **Pope Gelasius** saith: *We have found some abstaining from the chalice — but let them either receive the integral sacrament, or let them be excluded from the integral. For great is the sacrilege.* ²⁰⁸
+
+### The Words of the Institution and Their Perpetual Power.
+
+**The words of the institution repeated do not have force on account of the recitation of the administering priest — but the force of the *first institution, sanctification, and consecration* of the Lord's Supper, once made by Christ Himself, perpetually endureth.** The words are pronounced by the mouth of the priest, and by the virtue and grace of God, through the Word (*This is My body*), the things proposed are consecrated.
+
+And as that voice which saith: *Increase and multiply and fill the earth* was once indeed spoken, but at all times feeleth its effect for generation, nature working — so also this voice was once said, but *through all tables of the Church, until the present day, and until His coming, bestoweth the firmness on the Sacrament* — to use Chrysostom's words.
+
+Wherefore no *new sanctification* is made by man, but the *prior sanctification is revealed* and *transferred unto that use which Christ ordained*, and *every sanctification is derived from the first Supper, by divine ordination, into ours*. For **the bread and wine are not the body and blood of Christ by that our recitation of the words**, still less by *canon, gestures, and other ceremonies* which are employed by the Papists — but on account of **Christ's institution and mandate**, which is (as Paul writeth, 1 Cor. 11): *That coming together in one, we may take bread and wine, recite Christ's words, eat and drink, and thus become partakers of the body which is given for us, and of His blood which is shed for the remission of our sins.*
+
+But the minister is said to **consecrate**, when by the recitation of the words of institution he *calleth back the first consecration made by Christ Himself into the memory of the Church* — whose force perpetually endureth, as also of these words: *Let the earth germinate the greening herb*. For **not by the virtue of the words which are pronounced or sung by the minister of the Gospel — as though by some enchantment — but on account of the institution whose words are recited, by its virtue, are made the presence and distribution of the body and blood of Christ**.
+
+### The Whole Action and Its Right Use.
+
+But **the whole action embraceth the integral use unto which the Supper hath been instituted**, that it may be a Sacrament. We speak not however of the *spiritual use, of faith, and of the fruits of it*, but of the *exhibition and reception of the bread and wine, or of the whole word of institution — not only of this particle: This is My body, This is My blood*.
+
+Wherefore we take **Augustine's** rule (*Let the Word accede to the element, and the Sacrament is made*) of the *whole Word of institution*, and we retain these rules:
+
+- **The Sacraments outside the legitimate use unto which they were instituted do not have the ratio of Sacrament.**
+- Likewise, **Christ with His body is not under the Sacrament except so far as the Sacrament is *ordinable unto human use*, unto eating**.
+
+Now the **use** — as hath been said — embraceth the *integral action*, from beginning to end, consisting of the *pronunciation of the words, the administration, the exhibition, and the reception of the elements, and of those things which are with the elements*.
+
+### Against Circumgestation and Idle Scholastic Questions.
+
+**We detest therefore the *change* of the Sacrament unto other uses diverse from the institution** — such as are **circumgestation**, **inclusion**; and we say these ***Scholastic questions*** to be impious:
+
+- *Whether a mouse gnawing consecrated bread eateth the body of Christ.*
+- *Whether an ass drinking the water of Baptism drinketh Baptism.*
+- *Whether the Sacraments be before, outside, and after the use.*
+- *Whether the body fall to the ground, whether the blood distil to the ground, whether it cleave in the beard*, etc.
+
+Reverently indeed must the ministers handle even the smallest particles, lest the simpler in the Church be scandalized; and those who irreverently handle so great a matter are by no means to be borne. But for that reason **the Sacrament of the Eucharist before, outside, and after the use hath not the ratio of the Sacrament** — because it is written: *This do ye in remembrance of Me*, where the *whole action* is signified. ²⁰⁹
+
+### The Material, Formal, and Instrumental Causes.
+
+From these it is now clear what is the *matter, form, and instrument* of the Lord's Supper. That these things may become plainer, I shall repeat.
+
+**The matter is twofold — external and internal, or *earthly and heavenly***, as *Irenaeus* speaketh. The **external** are the *elements or external symbols*, namely bread and wine — **which are not transubstantiated, but are and remain bread and wine**. The **internal** are the *true body and true blood of Christ, under the form of the bread and under the species and taste of the wine*, to speak with Augustine.
+
+**The material cause about which** are *men endowed with reason, life, and sense, living in the Church, or citizens and members of the true Church* — that is, *all Christians*, of whom some worthily, some unworthily eat.
+
+**The form of the Supper is the whole action instituted by Christ** — that is, *the pronunciation of the words, the exhibition, the distribution, and the reception of the body and blood of Christ with the bread and wine*.
+
+**The instrument is the minister of the Gospel** — through whose administration and hand Christ Himself extendeth (in one and the same mode as first to the disciples) His true body and blood. **Believe therefore all** (saith **Chrysostom**), *that even now that Supper is celebrated in which Christ reclined. For there is nothing between that and this. For not this by man, but that by Christ, is confected. Therefore when thou seest the priest offering thee the body, do not deem that the priest's hand — but Christ's hand — is stretched forth unto thee.*
+
+Here too the *dignity of the minister* doth not impede the firmness of the Sacrament, as we showed above. **Minister and communicant — whether they be good or evil, whether they believe or not — by their malice and unbelief detract nothing from the perfection and integrity of this Sacrament** — even as they also add nothing to the Sacrament by their goodness and faith. Yet meanwhile it is true that **the effect of the Lord's Supper, annexed unto remission of sins, doth not follow in the communicants unless they have faith in the words of the promising Christ**.
+
+The **instrument and organ** by which the communicants take, eat, and drink the body and blood of Christ are **their own mouth and heart**. For eating bread and wine, they take by the same mouth His body and blood — *incomprehensibly, invisibly, and insensibly*. For **the body of Christ is not sensibly touched by the lips, is not worn away, is not diminished, is not lacerated, is not sent into the stomach, is not concocted, is not altered, is not consumed, is not converted into human flesh and blood** — for no physical ingurgitation of Christ's blood is made, nor is any *physical or corporal mode* of that reception. **This is a Sacrament; and the mode of the presence and manducation is *divine, hyperphysical, heavenly, incomprehensible, and insensible*.** But **with the heart, spiritually unto life, the body and blood of Christ are received only by believers**, as it is written John 6, and shall be said below more copiously.
+
+### Eight Causes Why Christ Instituted the Supper.
+
+The causes on account of which Christ instituted His Supper are **eight** chief:
+
+**First**, that in the Church there be celebrated **the memory of the benefits of the Son of God unto the return or day of judgment**, according to that: *This do in memory of Me.* Likewise: *Ye ought to announce the death of the Lord until He come.*
+
+**Second**, that **faith be confirmed by a certain seal and pledge in adults**, and that the *application of the promise of grace be made*. For the Spirit is efficacious *through the Word and Sacraments in believers* — not *ex opere operato* without any good motion of the user — but *in those doing penitence*.
+
+**Third**, that we may **acknowledge the immense love of God the Father toward us — who spared not His own Son** — and give thanks to Him. For on this cause the Supper is named **Eucharist**.
+
+**Fourth**, that we may be **incorporated and inserted into Christ**, as **Hilary** piously saith: *These things received and drunk effect that we are in Christ, and Christ in us* — not only, to use **Cyril's** words, *spiritually by faith and charity, but according to the flesh corporally by natural participation*.
+
+**Fifth**, that the **communion of the Church and fellowship** be confirmed, and that we may testify *ourselves to be citizens and members of the Church*, and *by our confession to stand for the altar, body, and blood of Christ* — as eminently **Cyprian** saith: *As often as I drink the blood of Christ, so often I ought to be ready for the shedding of my own blood for Christ.*
+
+**Sixth**, that the Supper may be not only the *sinew and bond of public congregation*, but also the ***admonition of fraternal love and mutual condonation***. For *the use of bread is common*, and *we are all one body*.
+
+**Seventh**, that it may be the *public note and badge, or symbol, of those who have given their names to Christ, and who militate for Him with constant faith and good conscience*.
+
+**Eighth**, that it may be the ***certain testimony of the resurrection of our bodies***. For our bodies cannot perish, because they have the *vivific flesh of the Saviour*. Hence the **Nicene Canon** nameth the body and blood of Christ *σύμβολα τῆς ἡμετέρας ἀναστάσεως* (symbols of our resurrection) — of which matter in the second part of the *Paedagogia* in the locus on the Resurrection, in the fourth reason, we have treated more copiously. *All men indeed rise, but we — who are partakers of the body and blood of Christ — have a more living and alacritous hope, and immense certitude of hope.*
+
+### Twelve Causes Why We Ought Often to Come to the Sacred Synaxis.
+
+**The causes on account of which we ought often to accede to the sacred Synaxis are these:**
+
+1. **The mandate of the Son of God**: *This do, as often as ye do it, unto My remembrance.* And obedience is owed to the mandate.
+2. **The eternal loss of body and soul**, which certainly accompanieth and followeth *negligence, contempt, omission, and disobedience*. No objection here availeth, when the Supper of the Lord can be had according to Christ's institution.
+3. **Our misery, pilgrimage, and life's infirmity, and the certain-uncertain hour of death.** We need a *viaticum* and (that I may thus speak) *preservative* on a difficult journey.
+4. **The imbecility of faith** — which faith is confirmed by the Word and the use of this Sacrament, as by a seal.
+5. **The heavenly goods** which are distributed in the Supper — as the *body and blood of Christ*, and *in believers*, the *remission of sins, life, and salvation*.
+6. **The presence and efficacy of the Holy Spirit** kindling and confirming, through the Word and use of the Sacraments, *faith, consolation, invocation, fear of God, and good works*.
+7. **The alexipharmacon (antidote) against all temptations, and terrors of death, of conscience, of hell.**
+8. **The public confession of faith** — which confession is made by *piety of life, promotion of the ministry, perseverance and constancy, and frequent presence in the Church for hearing the Word, and for using the Lord's Supper*.
+9. **The good example given to others.**
+10. **The communication and participation of the body and blood of Christ**, whom to be joined to us in the Supper is *full of consolation* — that He may be in us and we in Him, *not spiritually only, but also according to the flesh*.
+11. **The atrocity of sin.** For it is as much a sin to use the Lord's Supper *negligently or never*, as it is a sin to be *blasphemous, incorrigible, a thief, adulterer, homicide*.
+12. **The private and public punishments** by which God punisheth *contemners of the Supper*.
+
+These summarily we willed to premise concerning the Lord's Supper. Now shall we insert a *little book issued by us twelve years ago on the same doctrine*, for the sake of the studious of truth and piety and their utility. **The studious will find a more prolix doctrine in the third part of our *Paedagogia*.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## SIMPLE AND TRUE DOCTRINE ON THE LORD'S SUPPER.
+
+In so many and so great *labyrinths of disputations* on the Lord's Supper, **three things chiefly** are apprehended in which the *variety and distraction of opinions* consisteth:
+
+- **First**, on the *intellect of the words of institution*.
+- **Second**, on the *presence of the body and blood of Christ*.
+- **Third**, on the *manducation*.
+
+### I. On the Words of the Institution.
+
+The words of the institution are: **Take, eat, drink: This is My body: This is My blood.** And these words ought to be the *foundation and principle of the whole doctrine and of all disputations on the Supper* — of which he who hath, hath truly *half the whole*, as the proverb useth to be said.
+
+**Now from the words of the institution two errors are excluded straightway:**
+
+1. ***μετουσίωσις*** — which of old they called ***μεταποίησιν***, *transformation and transelementation*; afterwards ***transubstantiation***.
+2. ***Typus or trope, or allegory, without the presence and manducation of the true body and blood of Christ***.
+
+### II. On Transubstantiation.
+
+They called **transubstantiation** the ***mutation and conversion*** of the *substance of bread into the body of Christ*, and the *conversion of the substance of wine into the substance of the blood of Christ* — even as in the wedding at Cana of Galilee the water was converted into wine. Thus therefore some established that the *consecrated bread is changed into the substance of the body*, so that *besides the accidents nothing remaineth of the substance of the bread*, etc.
+
+**This opinion is of no moment**, and today concerning it, among those who move disputations on the Lord's Supper, there is no controversy. For both parties, so to speak, have long since known that **transubstantiation can never take place** — since **D. Paul** before and after the recitation of the words of the Supper (or *μετὰ ἁγιασμὸν*) *nameth the bread and cup*, 1 Cor. 10: *"The cup of blessing which we bless — is it not the κοινωνία (communication, partition, distribution) of the blood of Christ? And the bread which we break — is it not the communication of the body of Christ?"*
+
+Paul saith not: *the cup or wine is so changed and converted into the blood of Christ that the wine no longer is wine*; or *that the bread is changed into the nature and substance of the body of Christ*. But he nameth the cup and the bread *κοινωνίαν of the blood and body of Christ* — that is, the cup is that *middle by which is communicated, distributed, and appropriated to us the blood of Christ*, and the *manducation of the bread communicateth to us the body of Christ*.
+
+And thus **Irenaeus**, alleging the words of Paul (*God calleth what is not, that it may be*), saith:
+
+> *The bread, when it is on earth and receiveth the vocation of God* (namely when Christ saith, "This is My body"), *is no longer common bread, but is Eucharist consisting of two things — namely, of a certain earthly, and of a heavenly. The earthly is the bread; the heavenly is the body of Christ. So also our bodies receiving the Eucharist are no longer corruptible, but perpetual, and have living hope of resurrection,* etc. ²¹⁰
+
+### III. On the Vocables *Symbol, Sign, Figure* which the Ancients Sometimes Used.
+
+**It is manifest that the Ecclesiastical writers used the appellations of *symbols, types, and signs* — not for denying the presence and manducation of the true body and blood of Christ, but for refuting the opinion of transubstantiation.**
+
+And thus **Theodoret** often speaketh, as *Dialogue 1*, fol. 7: *God hath honoured the visible symbols with the appellation of body and blood — not changing the nature (τὴν φύσιν ἀμεταβαλών), but adding the grace to the nature.* And *Dialogue 2*, fol. 37: *The sacramental symbols are signs, or testimonies, or symbols of the truly-existing Body and Blood of the Lord (τοῦ ὄντος).* And a little after: *Bread is bread and wine is wine before consecration; but after consecration, bread is not simply bread — but I predicate of the bread that it is the body of Christ, and of the wine that it is the blood of Christ; and I believe myself to eat or receive the body and blood of Christ.* And again: *After consecration the μυστικὰ σύμβολα (mystical symbols) lose not their nature, but abide in the prior substance, figure, and form, and can be seen and touched — as also before consecration. But they are understood such as they have been made, and are believed, and are* καὶ προσκυνεῖται (adored, or cultivated with veneration worthy) *as those things which they are believed [to be].*
+
+And in this mode **Augustine** and other Fathers used the appellations of *sign and figure* — not to remove the true presence, but to testify that they *without transubstantiation acknowledge two things in the Eucharist* — the *elements of bread and wine*, and then the *body and blood of Christ*. And when they use these appellations of *signs and figures*, it is manifest that **they speak only of one part** — namely, of the *external and visible element or sign, which is bread and wine — not of the Sacrament*. This as most true all the sober testify — nor can anything dissimilar be shown.
+
+Here too a useful and true **distinction** [is]: *certain signs are only significative* (as the fleece of Gideon, and many other types in the Old Testament); *certain signs are exhibitive*, which *have the things whose signs they are joined [to them] and exhibit them* — as the *dove was a symbol of the Holy Spirit; the bread is a symbol of the body of Christ; the wine is a sign of the blood of Christ*.
+
+And hither pertain **two sentences**, most worthy of observation and consideration:
+
+**The prior is that of Hilary**: *The body of Christ, in which on the altar we participate, is a figure, insofar as bread and wine appear to the exterior senses; but it is truth, insofar as the body and blood are believed in the truth of the heart.*
+
+**The latter is that of Augustine**: *The body of Christ is both truth and figure. It is truth indeed, insofar as by the virtue of the Holy Spirit from the substance of the bread and the wine the Body is effected. But the figure is that which is subject to the exterior senses.*
+
+Thus some have named it **ἀντίτυπον** (as *Theodoret, Macarius*, and others) — which signifieth an *exemplar of similar form*. There is an ancient epigram: *καὶ λίθος ἀντιτύπῳ κρέμαται πυρσοτόμον*. Whence it can be known that this word in the Article of the Lord's Supper was used to show *two things to be in the Eucharist — the body or substance of the bread which is subject to the external sight and touch, and the body of Christ* — that is, *visible and invisible, terrene and heavenly*. For they called ***mathematical bodies*** (which indeed are truly bodies, and yet are not subject to touch) *ἀντίτυπα* with respect to the *physical bodies which can be comprehended by external touch*. Therefore the grammarians thus narrate this word: *τί πᾶντό ὅταν, ὅτι ἐστὶ μὲν, οὐ φανεροῖ δὲ; λέγομεν, ὅτι τὸ ἀντίτυπον*. — *"What is that when a thing is, but doth not manifest itself? We say that it is the* ἀντίτυπον."
+
+But whatever be established of this and similar vocables, certainly all — as we have said — pertain only unto this: that **transubstantiation being removed, two things in the Eucharist — the element of bread and wine, and the body and blood of Christ — may be acknowledged**.
+
+### A Cautionary Note on These Appellations Today.
+
+In this sense, when the bread is named *symbol, type, sign, and figure of the body of Christ*, an *injury is done to the Ecclesiastical writers* when they are on this account accused and hooted down — since they have not denied the presence of the true body and blood of Christ, but have opposed those appellations to the *error of transubstantiation*.
+
+But this admonition must be added: **Since today most use those same appellations for denying the presence and manducation of the true body and blood of Christ — against the mind of the pious writers — it is altogether better to omit those appellations, than by their usurpation to give occasion to profane disputations.** For it is *perilous and scrupulous* to say *the bread is a sign of the body* — not that the phrase through itself is false, but on account of those who, having heard such a formula, straightway try to infer from it the *absence of the body*. ***Ψυχαῖς γὰρ βεβήλοις οὐδὲν τῶν καλῶν ἀξιόπιστον*** — *"Nothing beautiful is trustworthy to profane souls."* ²¹¹
+
+### On the *Type*, and Again on Symbols.
+
+They called **type** the *representation of an absent body*. But that **type cannot at all have place in this matter of the Lord's Supper**, the *cause is the very institution or words of the institution*, which are simply and truly *ὁριστικά* — that is, *they define and exhibit the thing*, so that it is necessary that *what is said be understood simply, and comprehended by the religious assent of faith*.
+
+Nor can any *true* cause be shown why *type* should be understood in this mode in which the Sacramentarians take it — since **the words of the institution related and pronounced by the Son of God are to be believed no less than those which affirm Christ to have been incarnated, to have suffered, been crucified, died, risen, ascended into the heavens, and to sit at the right hand of the Father**. Nor is there another reason to be rendered, save that those words were spoken by the Son of God — who, since He is Truth itself, knoweth not to lie.
+
+And this is the cause why **many of the Ecclesiastical writers rejected the formulas of symbols and types — solely for this reason: lest doubt of the presence and manducation of the true body and blood of Christ should befall**.
+
+**Damascene** book 4, ch. 14, thus saith: ***οὐκ ἔστι τύπος ὁ ἄρτος καὶ ὁ οἶνος τοῦ σώματος καὶ αἵματος τοῦ Χριστοῦ. μὴ γένοιτο. ἀλλ᾿ αὐτὸ τὸ σῶμα τοῦ κυρίου τεθεωμένον, αὐτοῦ τοῦ κυρίου εἰπόντος, τοῦτό μοι ἐστίν, οὐ τύπος τοῦ σώματος ἀλλὰ τὸ σῶμα, καὶ οὐ τύπος τοῦ αἵματος, ἀλλὰ τὸ αἷμα.*** That is: *The bread and wine are not a type of the body and blood of Christ, but the very body of the Lord deified — the Lord Himself saying: "This is Mine," not a type of the body but the body, not a type of the blood but the blood.*
+
+The same in the same place: *ἐρωτᾷς, πῶς ὁ ἄρτος γίνεται τὸ σῶμα Χριστοῦ, καὶ ὁ οἶνος αἷμα Χριστοῦ; λέγω σοι κἀγώ. πνεῦμα ἅγιον ἐπιφοιτᾷ καὶ ταῦτα ποιεῖ τὰ ὑπὲρ λόγον καὶ ἔννοιαν. ἄρτος δὲ καὶ οἶνος παραλαμβάνεται.* That is: *Thou askest how the bread is made the body of Christ and the wine the blood of Christ? I too tell thee. The Holy Spirit walketh about and effecteth these things beyond word and understanding. But bread and wine are taken up.*
+
+**Theophylact** (whom they name *the Bulgarian*), on Matthew, thus saith: *οὐ γὰρ εἶπε, τοῦτό ὅτι σύμβολον, ἀλλὰ τοῦτο μοι ἐστὶ τὸ σῶμα δεικτικῶς, ἵνα μὴ νομίσῃ τις τύπον εἶναι τὰ φαινόμενα.* That is: *He said not, "This is a symbol," but "This is My body" — demonstratively, lest anyone think what is seen to be a type.*
+
+The same on Mark 14: *"This is My body" — this, I say, which ye take. For not a figure only and a certain exemplar of the Lord's body is the bread. But how, thou sayest, doth it not seem to be flesh? This happens on account of our infirmity, lest we be repelled.* And similar passages everywhere occur in Theophylact, which to recite all would be too long. ²¹²
+
+Although Damascene and Theophylact have traces of transubstantiation crass enough, yet it is useful for the sake of history to know that the writers are not unanimous among themselves in using the vocables of *signs, types, and figures*, and therefore it is better to *abstain plainly from the use of these vocables* than by their usurpation to imitate Fathers who among themselves are not yet consenting.
+
+And always in our sight ought to be a **rule known and approved by all the pious**:
+
+> **All sayings of the Fathers are not — nor ought to be — foundations of any article of the Christian religion. But when a cause is established from the manifest Word of God, they are to be received to illustrate the matter, if they agree with it in this mode — not to bend it into this or that sentence.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
