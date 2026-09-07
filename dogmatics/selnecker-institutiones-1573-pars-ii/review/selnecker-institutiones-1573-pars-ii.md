@@ -7350,3 +7350,179 @@ Item:
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## On Death, Resurrection, and Eternal Life.
+
+That **we all on account of sin are obnoxious to death, and sons of wrath**, is agreed most certain-of-certain. Corporal death therefore is *certain*, and yet its hour is *uncertain*. Let us see now what thence we must learn, and what death is.
+
+There are ***five*** things which thence we ought to learn.
+
+### 1. Acknowledge Three Things.
+
+**First**, that we acknowledge these three things:
+
+1. **Sin — or the filth and impurity of our nature.**
+2. **The wrath of God** (Ps. 90).
+3. **The fragility and brevity of our life.** For truly we are ***ἐφήμεροι*** (creatures of a day), *flower, hay* — and we are born and we die, and the end dependeth on the beginning.
+
+### 2. Look Upon Ourselves.
+
+**Second**, that we look upon ourselves according to that trite [saying]: ***γνῶθι σεαυτόν*** (know thyself), and contemplate all things and our single members as *subject to putrefaction and to death, caducous and flowing*. For we are nothing else in this state of human affairs than *foetid seed, a sack of dung, food of worms, an exemplar of imbecility, the spoil of time, the sport of fortune, an image of inconstancy, a scale of envy and calamity — and what remains, phlegm and bile*.
+
+### 3. Moderate the Affects.
+
+**Third**, that we moderate the *affects — pride, wrath, cupidity of vengeance, avarice, impatience*.
+
+### 4. Contemn the World.
+
+**Fourth**, that we *contemn the world*, according to that of **Jerome**: *"Easily he contemneth all things, who thinketh he is going to die."*
+
+### 5. Do Penitence and Prepare.
+
+**Fifth**, that we *do penitence and prepare ourselves for the hour of death* by *contrition, faith, and new obedience with sound conscience*. **Think of the last things, and thou shalt never sin.** ***Remember thou art mortal***, as in the Verses is said:
+
+> *Live grateful to God, buried to the whole world,*
+> *Cleansed of crime, always prepared to pass over.*
+
+Likewise **Paulinus** to Licentius:
+
+> *Live, I pray — but live to God: for to live to the world*
+> *Is a work of death; the living life is to live to God.*
+
+Also known are the verses most worthy of memory:
+
+> *The life of the traveller is as a transit; all things have an end,*
+> *Whatever this unclean world honoureth, hath.*
+>
+> *Honour passeth, fortune passeth, money passeth,*
+> *In mind like God, in body man passeth.*
+>
+> *The Fathers have passed; once hence we shall all pass;*
+> *He hath a fatherland in heaven who passeth well.*
+
+### The Nature of Death.
+
+But **corporal death is nothing else than the *sleep of the pious*** (Matt. 9). We betake ourselves to sleep with hope of surely-going-to-awake. In sleep *the soul is awake, the body sleeping and resting*. In sleep *the labours of the body cease*. After sleep all things are more alacritous and cheerful, the strengths being recovered.
+
+**Such assuredly is the death of all the pious — the transit to a better life**. Whence also we call our sepulchres ***Cemeteries*** — that is, ***dormitories***. For our sepulchres are no longer ***Aschamanim*** — that is, damned, guilty, and to be blown-on by the spirit of abomination, full of ***πάσης ἀκαθαρσίας*** (all uncleanness) — nor are they any longer **Scheol** (insatiable place), but they are ***Ascher Ofcher*** — that is, *right way to beatitude* — and for us they are only ***Keber***, as the Germans call ***Gräber***, that is, *what is dug out that something may be placed therein*, as in that Prudentian [verse]: *Thou, cover the deposited body*; and 2 Pet. 1: ***ἀπόθεσις τοῦ σκηνώματος*** (deposition of the tabernacle, or of the body), sub-indicateth and explicateth the ratio of the death and sepulchre of the pious.
+
+### The Fourfold Death.
+
+Rightly is said that **death is fourfold: of nature, of sin, of grace, and eternal**.
+
+**Death of nature** is opposed to the natural life by which naturally we live in this world. This death for the pious is *salutary*, because it is a *transit to a better life*, according to that: *Blessed are the dead who die in the Lord. Precious is the death of His saints. I desire to be dissolved and to be with Christ. Now Thou dismissest Thy servant with peace. Into Thy hands I commend my spirit,* etc. ***ὁ θάνατος εὐεργέτης, καὶ γὰρ θᾶττον πέμπει ἡμᾶς πρὸς θεόν, ᾧ ζῶμεν καὶ πολιτευόμεθα*** — to use **Gregory's** words. *Who shall fear temporal death, to whom eternal life is promised? Who shall fear the labours of the flesh, who knoweth himself about to be placed in a joyful rest?*
+
+Let us therefore look upon our death, ***not as the head of Medusa, but as a placid transit and collection into Hebron*** — that is, *into the college and consortium of the blessed Angels and men, of the Patriarchs, Preceptors, kindred, and our friends*. For with Christ we shall live, and eternally with all our Fathers, Elders, Preceptors, pious friends — nay with all the Patriarchs, Prophets, holy Kings, Apostles, and Martyrs we shall celebrate God. For our proposal is to come through death unto the *end which least of all is going to end*.
+
+And here I recall the words which **D. Philip Melanchthon** the Preceptor a little before death described in a paper, in this mode:
+
+**Cause why thou shouldst less abhor from death:**
+
+| **At the right:** | **At the left:** |
+|---|---|
+| Thou shalt come into light, | Thou shalt depart from sins, |
+| Where thou shalt see God, | From tribulations, |
+| Where the Son of God, | From the hatreds of Theologians, etc. |
+| Thou shalt learn those arcane wonders. | |
+
+Likewise, *Thou shalt rightly know the causes why we are thus made,* etc.
+
+Now these ***Theologians*** he did not understand as the pious, orthodox, and sincere Doctors of the Church, but *unquiet spirits* who under the name of theological profession move unnecessary [things], and disturb the simplicity and piety of faith and concord — and with usurping rancor damn one another mutually, and inflame the souls of Princes to mutual hatreds, and thus involve both Churches and Schools, and Republics and Courts, in inextricable labyrinths.
+
+### Death as Gate to Life.
+
+Whatever be said of corporal death — even if life be to be sought from God, provided that we can serve and profit the Church and many — yet it is certain that that death itself is as it were **a gate which openeth for the pious unto celestial life and to the fruition of eternal joys**. *The souls of the just are in the hand of God, and no plague toucheth them.* Death is *the reparation of life*. Whether we live or die, we are the Lord's. *With a faithful Creator the pious deposit their souls.*
+
+**Our death is our migration**:
+
+- from labour to rest,
+- from sweat to refreshment,
+- from hope to the thing,
+- from expectation to possession and reward,
+- from faith to sight,
+- from pilgrimage to fatherland,
+- from the world to the celestial Father,
+- from agony to the prize,
+- from sin to innocence,
+- from sadness to eternal gladness,
+- from death to life.
+
+### Death for the Impious.
+
+**Not so the impious, not so.** *For Nero corporal death is a gate to Gehenna.* *The death of the impious is worst.* ***Ad generum Cereris*** *(to the son-in-law of Ceres) — into what places wilt thou now go?*
+
+### The Other Two Deaths.
+
+**Death of sin** is *penitence itself, and mortification of sin* — and is always good and salutary.
+
+**Death of grace** is *the casting away of faith, and relapse into wilful guilt against conscience* — and is always evil and damnable.
+
+**Eternal death** is *the eternal damnation of all the Devils and of those not believing in the Son of God*, according to that: *He who shall not have believed shall be damned.*
+
+### Preparation for the Happy Transit.
+
+Since now on natural death we must think, let us learn *daily to prepare ourselves for a happy transit* by *rightly believing, piously living, and anxiously desiring the wished hour of migrating from this ergastulum* — meanwhile *patiently bearing calamities*, and *labouring in the Vineyard of the Lord according to the rule of vocation* in true faith and pure conscience.
+
+Let us know **our strengths, our fates, the occasions of death, and times to be in the hands of the Lord.** Without His will not even a hair can perish for us. Always let us be most certain of the *immortality of the soul and of the resurrection of the bodies*. For where the Head is — namely, Christ — there we, as His members, wish to be. Let us therefore *piously and honestly institute sepultures* — both that we and others may be admonished of the *causes of death and of other miseries*, and that we may be *taught concerning liberation on account of the Son of God*, and that we may be *instructed concerning the resurrection, the coming judgment, and eternal life*. Likewise, that *by common prayers we may impetrate the mitigation of public and private tribulations*, and finally that we may commend our life to God, and be alacritous and glad unto the Coming of the Son of God and unto the eternal Joys.
+
+### The Resurrection of the Body.
+
+**We know our souls being loosed from the bodies to be in the hand of God, or in the bosom of Abraham** — that is, *with God, to live and to be glad in God, and to enjoy eternal peace and salvation*. But the bodies await *the coming of the Son of Man*, who certainly is going to come *visibly in the clouds unto judgment, with the holy myriads of Angels and blessed men* — and this soon, as the whole workmanship of the world *καὶ ὠδῖνες καὶ ἀποκαραδοκία* of all creatures, and the end of all prophecies testify. And He shall care by-and-by the ***κέλευσμα*** angelic and warlike, to be repeated against enemies, *by the iteration of thunders and lightnings from the East, West, South, and North, in the mode of the figure of the cross, or of transverse winnowing* — which for the Hebrews is *Inupha* (Isa. 30). And then shall rise the dead bodies of men, and those who shall survive alive shall be changed in a moment, at the voice: *Rise ye dead, and come to judgment.*
+
+The seat and the chief confirmation of the doctrine on the **Resurrection of bodies**, 1 Cor. 15 and 1 Thess. 4, is comprehended with certain arguments — of which we have treated in the *Paedagogia*. 
+
+**Augustine** saith, *"In no thing is the Christian faith so contradicted as in the resurrection of the flesh, which yet is the highest confidence of Christians."* And **Luther** feareth lest some are going to arise who deny the resurrection — especially since so great is *ἀπιστία καὶ κακοπιστία* (unbelief and evil belief) of men. **Souls therefore must be munited with the firmness of divine voice and immoveable faith** — according to which not only in general, but *individually δεικτικῶς* [pointing] each one can say: *"I believe the resurrection of this flesh"* — as of old in the Eastern Churches was the custom, as **Cyprian** testifieth, to the imitation of **Job** who saith: *I know that my Redeemer liveth, and in my flesh I shall see God my Lord.* And 1 Cor. 15: *This corruptible must put on incorruptibility.* ***ὁρᾶς τὴν ἀκρίβειαν, τὸ θνητὸν τῦτο ἔδειξε δεικτικῶς, ἵνα μὴ ἄλλης νομίσῃς σαρκὸς αὐάστασιν***, saith **Theodoret** — that is, *"Thou seest how accurately he speaketh: 'This mortal' — as it were pointing with a finger — lest thou think of a resurrection of another flesh besides this."*
+
+Even though **immortality shall be common to the pious and impious**, yet the *end of the pious shall be eternal life*, of the rest **eternal damnation** (Matt. 25). For the Son of God shall come *not in the debility of His flesh, but in His Majesty, which He hath given to His flesh — the Son of Man in His glory — Judge of the living and of the dead*, going to *separate the sheep from the kids, the pious from the impious, believers from unbelievers*, and going to save those but to damn these, according to the rule: *He that believeth in the Son hath eternal life; he that believeth not, the wrath of God abideth on him.* **Eternal life shall be given to the blessed**; but the damned shall be cast into *eternal torments of soul and body*.
+
+**Our part is even in this life to inchoate eternal life** — that is, *to acknowledge God from the patefacted Word, and to acquiesce in His mercy promised on account of the Son, the Holy Spirit kindling in our hearts new light, righteousness, and gladness, which is a *taste of eternal life*.*
+
+### Closing Prayer of Pars Secunda.
+
+> **O Jesus Christ Son of God, Emmanuel, we beseech Thee, enter not into judgment with Thy servants, nor argue us in Thy fury — but have mercy on us according to Thy great mercy, and by Thy precious Blood wash us from all sins and from all guilt; rule us also by Thy Holy Spirit, that we love one another, that others may know we are Thy Disciples, and that we may mutually succour, counsel, benefit one another, and bring aid, and thus in true faith in Thee, good conscience, mutual charity and patience, humbly may await Thy glorious Coming, and see Thee with the Father and the Holy Spirit — true and eternal God — propitious, and praise, glorify, and in Thee live and be glad in all eternity. Amen.**
+>
+> ***τῷ θεῷ Δόξα.***
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS SECVNDÆ PARTIS INSTITVTIONIS CHRISTIANÆ RELIGIONIS.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## VERBA PIORUM EX HAC VITA IN ÆTERNAM VITAM DECEDENTIUM
+
+### The Words of the Pious Departing From This Life Unto Eternal Life — described from the Oration of *M. Johann Rosa*, of pious and blessed memory, a most illustrious and pious man.
+
+> **Now I feel the end of my life — nay of my laborious pilgrimage — to be at hand, and I glad receive the imminent death.**
+>
+> It is time that at length, weary with care, fatigued with the course, I be led out of this treacherous, tenebrose, and sordid inn, and, leaving this poor tavern's roof heaped up with turf, I enter the most joyful paternal bounds — whose pinnacles I now behold appearing not so far off.
+>
+> **This is the day of my migration, of my new nativity, dedicated to my triumph.** This is the contest of the supreme assembly, in which I shall once for all be relieved of all labours, of all perils, of all cares, of all the evils of guilt and penalty. Now my *ἀπολύτρωσις* (redemption), and the port of my navigation, opens itself; now advanceth Aurora preceding the Sun of righteousness — my Sun about to lead me back from these thorns (in which through the whole night of this life, wandering variously torn I have been, by brambles) into the way of heaven.
+>
+> **Rejoice, my soul — nay, not mine, but Christ's, whose most precious Blood hath redeemed thee** — soul, be glad in God thy salvation. **Go out with Lot from Sodom, and look not back. Pass through the Red Sea, that thou mayest escape from the claws of them that infest, and enter the land flowing with milk and honey** — ***βλέπον ἀνωχθονίων δι᾿ ὀλιλήθεω παίτων***.
+>
+> **Born of heaven, redeemed by heaven, sanctified by heaven, elected by heaven thou art. Thy *πολίτευμα* is in the heavens** — there for thee long-since a most joyful seat has been prepared. Look unto it, and ***ἀσμένως*** (gladly) lay down the burden of the impure and in many modes molested flesh; leave the ass at the root of the divine mount. Now to thee the *bosom of Abraham* is opened, as to the seed of Abraham; now to thee heaven is opened, as to Christ ascending from Baptism; now to thee — as to a branch inserted to Christ through faith and purified by the Blood of Christ — Paradise is unlocked.
+>
+> Thou feelest the difficulty of ***ἀναλύσις*** (dissolution): sustain a little; it is a moment in which God shall unlock thee; endure and abide. It is more excellent once and briefly to labour, and *what unto the extreme must at last be paid as debt*, maturely to pay off, than longer in this world to be afflicted.
+>
+> **Thou shalt not die, but shalt live, and shalt narrate the works of the Lord.** But thou, body — to whose caring, sustaining, cherishing, refecting too much time had to be spent, which I would rather have placed unto better things — thou by whose weight my soul too often depressed unto the earth was less freely able to lift itself to celestial things — thou, I say, since God's sentence standeth that *earth taken from earth may return to earth* — and this hath been announced to thee so often through so many kinds of diseases and cases (whose interval was not *demolition* of thee, but ***ἀνάπαυσις*** — repose) — give thyself to rest. Enter into thy chamber; close thy door upon thyself; hide thee for a moment, until the indignation pass.
+>
+> **Thy corruption in the sarcophagus shall be thy purgation.** Thou shalt return more gloriously; *thou art sown corruptible, thou shalt rise incorruptible; thou art sown in ignominy, thou shalt rise with glory; thou art sown weak, thou shalt rise vigorous. Thou hast borne the image of the earthly, thou shalt bear the image of the celestial* — and in thy flesh shalt see the face of God; **thou shalt be satisfied when thou shalt have awakened unto His likeness**.
+>
+> Certain to thee is the resurrection proposed — even if scattered thou wert lost unto the whole nature of things, yet by thy Lord (who is bone of thy bones and flesh of thy flesh, and unto whom thou art inserted) *thou shalt never be lost*. As He calleth thee — nothing shall obstruct; nothing shall hinder that thou be given back. Who **Lazarus already dissolved and worm-eaten out of putrefaction by one word did lead out of the sepulchre living and vigorous** — [He] in awakening thee too shall show His virtue.
+>
+> Thou art now tortured and tormented — it is a moment; now now thou shalt be freed. The whole nature of things groaning-together, *καὶ παραδοκουμένη*, wisheth to see her end — why shouldst thou refuse rest? **Now let death proceed, and dissolve that which for dissolution was compacted.** It shall not be for me a plague, but ***εὐεργέτης*** (benefactor); it shall be the reward of peace, of gladness, never about to perish. Willingly shall I bear the darkness that creeps upon my corporeal eyes, that I may see the eternal light.
+>
+> **Do Thou only, O my Salvation, Son of God, who hast snatched me from Hell and hast saved from the hand of death — if ever Thou hast been present to me, now in this supreme article of my mortal life be present to me labouring.** Unto Thee my soul and palms, and with them the languid and now with difficulty drawing spirit — my heart I lift up; Thee I invoke; Thee I desire — my King and my God — who descended into this misery of the flesh that I might ascend into the Royal Palace of heaven, who Thyself on the altar of the cross gaveft up Thy soul that I in Thee expiring might revive.
+>
+> **Leave me not, O Lord my God. Depart not from me. Hasten to my help, O Lord of my salvation.** O Word of the eternal Father, make that from my breast that Word slip not or vanish away: *This is eternal life, that they acknowledge Thee the true God, and whom Thou hast sent — Jesus to be Christ* — that is, the Anointed Priest and King of all believing in Himself. And that Word which to the thief holding [his] soul between his teeth Thou saidst — in me by Thy Holy Spirit paraclete seal: *"Today thou shalt be with Me in Paradise."*
+>
+> Make that placidly from this small inn my little soul may pluck itself out, and that my last spirit into Thy most-holy *σπλαγχνιζόμενον* (compassion-toward-us) heart may be poured — [heart] which Thou hast made, and unto Thee, who art life, may be led away, unto Thee may be drawn, unto Thee here the last act of my mortal life may be closed.
+>
+> **Grant that going out of Egypt through the Red Sea through Thee and in Thee I may victor burst through.** *Into Thy hands I commend my spirit; Thou hast redeemed me, O God of truth.* **Return, my soul, into thy rest**, because the Lord hath done well to thee, because He hath snatched my soul from death, my eyes from tears, my feet from lapse. *I shall please the Lord in the region of the living.* **I have fought the good fight, I have consummated my course; what remaineth, hath been laid up for me the Crown of righteousness, which the Lord shall render me in that day.**
+>
+> Now, when it shall be pleasing, let the Whale spew out Jonah. **World, farewell** — enough of business hast thou made for me; seek another whom hereafter thou may attack. **O sweet Palace of heaven — my fatherland — hail!** Ah Lord, I await Thy Salvation. **Thy kingdom come. Deliver us from evil. Amen.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS VERBORVM PIORVM.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
