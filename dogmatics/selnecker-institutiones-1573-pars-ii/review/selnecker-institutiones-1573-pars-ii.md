@@ -3965,3 +3965,157 @@ All these things severally and together show that **the Church is a spiritual ki
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## Of the Seventh: The Power and Authority of the Church.
+
+We have spoken of the government of the Church — in which the Head is *one Christ, King and Priest* — who, when He gave to Peter the keys of the kingdom of heaven — that is, *the office and power of administering the Church of Christ according to the Word of Christ* — somewhat concerning this power or faculty given to the Church must be said.
+
+### Definition.
+
+**The Ecclesiastical power is the faculty given to the Church by the Son of God — of teaching the Gospel, administering the Sacraments, excommunicating the contumacious, and receiving and absolving the penitent.**
+
+**This power is defined by certain limits, and is simply subject to the Word of God, and ought to be directed unto the edification of the Church.**
+
+### Two Kinds: Power of Order + Power of Jurisdiction.
+
+The Ecclesiastical power is **twofold**: the **power of Order** and the **power of Jurisdiction**.
+
+- The former is the ministry of the Word itself — *doctrine, administration of the Sacraments, and pious ceremonies*.
+- The latter is *the right of knowing the true doctrine, of disapproving the false, and of retaining pious and honest discipline; and of ordering the ceremonies, and the grades of offices and labours* — that all things may be done in order and decently unto edification.
+
+### Church Discipline.
+
+Ecclesiastical **discipline** is part of the ecclesiastical power, and is rightly described as *a certain pedagogy by which those who have been received into the family or Church of Christ are coerced — that they may be inured unto justice, piety, and modesty, and according to the norm of the Gospel each may do his own office*.
+
+This discipline is either **common** (either *ordinary* or *extraordinary*) or **peculiar**.
+
+**Ordinary [discipline]** departeth not from the Word of God, but according to the rule of the divine Word correcteth *lapses, delicts, crimes, enormous scelera, homicides, adulteries, blasphemies, usuries, rapines*, and things of that kind: and applieth *doctrine, admonitions, exhortations, examples, comminations*, and at length *severity and reproof*; and — in private crimes, if no amendment be beheld — *the censure of the elders*, according to that: *Tell the Church.* By the consensus of these, excommunication is to be instituted *without acerbity of soul* — nay, not without commiseration and grief — and, if there be hope of amendment, not without ἐπιείκεια (equity) — *with great judgment indeed*, lest excommunication be pronounced too much, and lest *tender consciences be ensnared in the labyrinths of temptations*, or the docile be cast into stupor; and lest also *too great indulgence hurt*, and give examples of dissolution — as today everywhere with great detriment of the Church is wont to happen. May God grant that, works being conjoined, the ministry and the magistracy may think what is their duty, and in this matter also apply *just severity together with moderation worthy of piety*. Of these we have treated more copiously in the *Analectum*, tract 2, chapter 18 and following.
+
+**Extraordinary [discipline]** is placed in the arbitrament of the Church, and yet hath examples of the Apostles and the purer Church — as when, for some deliverance from peril or disease, thanks are given publicly; and in the time of pestilence, war, or famine the people is convened and admonished unto *penitence and temperance*, and public prayers are made.
+
+**Peculiar [discipline]** either prohibiteth public scandals — as *bacchanalia, ambarvalia, lascivious dances* — or instituteth *pious exercises: cantions, sacred lections, vigils*; or distributeth *offices* — that one be pastor, another deacon and catechist, another hold discourses, another administer the Sacraments; or *inflicteth penalties* — observing the grades, which are: *private reproof, public reproof, degradation, excommunication*, etc. In all these things there is need of *accurate judgment and no vulgar piety*, that in the fear and invocation of the Lord all things may be done unto the edification of the Church, and *τάκτως καὶ εὐσχημόνως* (orderly and decently).
+
+### Ecclesiastical Authority.
+
+With the power of the Church is conjoined **the authority of the Church**, unto which customarily two things are subjected — namely, the *interpretation of Scripture in all things analogous to the faith*; and the *Apostolic tradition, or that of the Fathers not fighting with Scripture*. Of traditions we shall speak briefly a little later.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Eighth: The Primacy of the Roman Church.
+
+That **no head is given to the Church save the Son of God, our Lord Jesus Christ**, we have shown above. For thus God the Father commandeth, saying: *Hear ye Him.* And Eph. 1: *God gave Christ head over all things unto the Church, which is His body.* The same the Son Himself affirmeth, saying: *All power is given unto Me in heaven and in earth.* And forbidding this same, that no one may assume for himself the right to be preferred above the rest in the Church — Luke 22. The same is confirmed by the *testimonies and examples of the Apostles*, and of all the pious doctors of the Church, who know themselves to be *ministers, not lords in the Church*. And hither pertain those chapters in our *Analectum*:
+
+- That Christ alone is Monarch and Head of His Church.
+- That the primacy of the Church is a **ministry, not a dominion**.
+- How much authority is to be attributed to Councils, and to the Pope, etc.
+
+### The Fathers Against Ecclesiastical Domination.
+
+The saner Fathers also have many things eminently said, by which they prove that in the Church there is *not a principate, but a servitude — not domination, but ministry*.
+
+**Cyprian** saith: *Let no one constitute himself a bishop of bishops, or by tyrannical terror drive his colleagues to the necessity of obeying. For there is one Episcopate, which is borne by Christ; after Christ, all the other bishops are equal.* The same **Chrysostom, Augustine**, and others unanimously establish. And **Gregory** saith that *he acteth against the statutes of the Gospel, against the decrees of the ancient Canons, against the custom of the universal Church, and against equity — whosoever assumeth the name of universal Bishop, or suffereth this name to be attributed to himself*. ¹⁸³
+
+### The Papal Tyranny — a Catalogue.
+
+From these things it can be seen *what is to be judged of the Papal tyranny and arrogance*. The Roman Pontiff braggeth that he holdeth *the seat of Peter the Apostle*, and *is the vicar of Christ*, and *that all power is given to him in heaven and earth, among the infernal and in purgatory*; and that *he hath the power in heaven of canonizing — that is, of enrolling in the number of the Saints whomsoever he willeth at his pleasure*; that *on earth he hath both swords, ecclesiastical power and civil dominion above Emperors and Kings*; that *among the infernal, by his indulgences, he can call forth and free souls from purgatory*; that *he hath all laws in the shrine of his breast, and all things pertain to him as to lord*; that *all things are subject to him*; that *he alone is immune from every law and obedience — King of Kings and Lord of Lords*; that *he is judged by no one, and from him no appeal can be made even to God*; that *he can do all that God doeth, even something out of nothing*; that *he is greater than every other creature, even Angelic*; that *he is the Christ of the Lord, and the foundation of faith, above the Catholic Church*; that *he cannot err, even if he erreth*.
+
+I omit the impious and immoderate amplifications of the Papal tyranny, which the Son of God abominateth and refuteth, saying: *The princes of the Gentiles domineer, and those who have power are saluted as beneficent — but ye not so.* And let the studious of piety read the response of the Princes to the *restitution of the Synod of Tridentina*, second part of the recusation, eighth cause *on account of the tyranny of the Pope*; likewise, the *integral and erudite tractate of Hyperius, on the primacy of the Roman Church*, book 3 of the *Method of Theology*. ¹⁸⁴
+
+### The Petrine Rock — Christ, not Peter.
+
+Of the saying of Christ which the Papists cite — *Thou art Peter, and upon this rock will I build My Church* — it is known that **Christ Himself is and is called the Rock**, and the *living Stone*, 1 Pet. 2 and 1 Cor. 10 — whom, namely, Peter had confessed as *Son of the living God*. And **Augustine** eminently saith:
+
+> **Christ is the Rock; Peter is the Christian people. For "Rock" is the principal name; therefore Peter [is named] from Rock — not Rock from Peter, since not from Christian is Christ, but from Christ is Christian named. "Thou art therefore," He saith, "Peter — and upon this Rock which thou hast confessed, upon this Rock which thou hast acknowledged, saying: Thou art Christ, the Son of the living God — I will build My Church" — that is, "Upon Myself, Son of the living God, I will build My Church: upon Me I will build thee, not Me upon thee,"** etc. ¹⁸⁵
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Ninth: The Ecclesiastical Ministry.
+
+**Where the Church is, there also is a ministry**, which is exercised through men — who in the Scriptures are called *servants of God, men of God, Patriarchs, Prophets, Apostles, Evangelists, Pastors, Doctors, ministers, and dispensers of the mysteries of God, legates, and* συνεργοὶ (fellow-workers) *of God* — called by God either **immediately** (as the Prophets and Apostles) or **mediately** through the Church and magistracy, in the legitimate mode, to undergo the offices of the ministry.
+
+### Why It Is Called "Ministry."
+
+It is called a **ministry** on these accounts:
+
+1. That we may be kindled unto *acknowledging and celebrating one supreme Lord*.
+2. That in undergoing the offices of the ministry we may be *diligent and faithful*, as *ministers and stewards* who at some time shall render a ratio of our administration to God our Lord.
+3. That we may be *humble and modest* in the government of the Church, and imitate Christ — who *came not to be ministered unto, but Himself to minister*.
+4. That the Church may grow and be increased by the accession and confluence of men — since the ministry is *humble and holy* — and that the ministers may be pursued by others with *benevolence and charity*.
+5. That the devil and *the gates of hell may be shamed*, and *the power of tyrants confounded* — to prostrate whom, God useth the *service and labour of ministers*, and not other arms — not splendid apparatus — not mundane arms.
+
+### Why "Ecclesiastical."
+
+The same ministry is named **Ecclesiastical**, because whatsoever pertaineth to this ministry *ought to be exercised in a public assembly convoked for the sake of the true doctrine* — as are the *institution, morals, life-course of the ministers of the Church, the election, vocation, ordination of the same* (for those who without legitimate vocation *break in* are *robbers*). Likewise the *doctrine, dispensation of the Sacraments* (unless necessity, cruelty of tyrants, or adverse health compel otherwise) — likewise the *denunciation of excommunication, reconciliation*, and the like. *In hidden I have spoken nothing,* saith the Son of God. And *every corner-action in the Church is suspect*.
+
+Then it is named **Ecclesiastical** that it may be *discerned from the political ministry*, and that it may be constant *it is a sacred and religious thing*. Then also it is called **Ecclesiastical** — that those who are over the Church may be excited unto *faith and diligence*, and the rest who are instructed unto *obedience and reverence*.
+
+### The Scope of the Ministry.
+
+In what things the Ecclesiastical ministry is versed, the question showeth — *What is the doctrine of the Church?* — of which above. For the ministers ought to be occupied in the doctrine delivered by God — namely, in the Prophetic and Apostolic books — and **Scripture ought to domineer in the Church, which is not otherwise founded, built up, amplified, perfected, restored, propped, and preserved in its integral dignity, save through the doctrine given in the writings of the Prophets and the Apostles.** *Truth is to be sought from Scripture. Errors are to be uncovered and reprehended from Scripture. Heresies are to be damned from Scripture. Sins of men are argued from Scripture. Sacraments depend upon Scripture. The keys of the Church are to be received from Scripture.* And in sum, *the whole ecclesiastical ministry, and all the dignity and safety of the Church, consists in Scripture — or in the truth and purity of the heavenly doctrine* — which, once corrupted, is a *plague, most perilous — nay, deadly blemish and stain* of the Church.
+
+Would that they should consider these things who wish to serve the Church, and better exercise themselves in the *cognition of doctrine* than many today do — who fly to the ministry rude and untrained, whence their morals and life plainly do not agree with the profession of doctrine.
+
+Moreover, **the scope unto which all the kinds of Ecclesiastical ministries tend** consisteth in two things: namely, in the *preaching and sanctification of the divine Name*; and in the *salvation of men through faith which is in Christ Jesus*. He who beholdeth these two rightly attaineth *the ratio and scope of the whole ministry*. But so much on the Church having now been briefly said, may it suffice us.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## Of the Tenth: On Traditions.
+
+Of these we shall speak briefly on three heads: **First**, on *traditions themselves*. **Second**, on the *threefold distinction of the sayings of the Fathers*. **Third**, on the *saying of Augustine: "I would not believe the Gospel unless the authority of the Catholic Church moved me."*
+
+### On the First: The Two Kinds of Traditions.
+
+**There are two kinds of traditions.**
+
+**The first kind** is contained in the books of the Prophets and the Apostles concerning all the articles of the Christian faith, and by certain and illustrious testimonies is confirmed to the Church of God unto all posterity. **This tradition is written, known, and certain — the doctrine of the Law and the Gospel and the Sacraments.** *The words which Thou hast given Me, I have delivered unto them,* saith the Son of God. And 1 Cor. 15: *I have delivered unto you what ye have received, if ye hold it, unless ye have received it in vain. I have delivered unto you that Christ died for our sins according to the Scriptures.* Likewise: *From the Lord I received what I also delivered unto you.* 2 Thess. 3: *Withdraw yourselves from every brother walking inordinately and not according to the tradition which they received from us.* Acts 16: *They delivered to them to keep the dogmas which had been decreed by the Apostles, namely as consigned in letters.* Acts 15. Of such tradition is the *Apostolic Symbol* and other things which are, as **Irenaeus** saith, *πάντα σύμφωνα τοῖς γραφαῖς* — all consonant with the sacred Scriptures.
+
+**The second kind** of traditions is of those which are not written in express syllables in the Word delivered through the Prophets and Apostles, but either from the mouth and living voice of the Apostles, or from the writings of the Fathers, or from the decrees of the Pontiffs, or from other uncertain authors, received in the Church.
+
+Now there are **two differences** of these traditions:
+
+- **Some** dissent not from the norm of the Word delivered in the books of the Prophets and Apostles, but either *perspicuously and clearly agree with some part of the doctrine*, or *are built therefrom by good consequence*, or *speak of things by their own nature indifferent* — as is *infant baptism*, the *ordination of the Lord's Day*, the *tradition of the house of Elijah on the six millennia of the world*; likewise, in *adiaphora*: in prayer to direct the face toward the East, not to eat flesh, to use a linen or common vestment — provided there be absent the opinion of *merit, remission of sins, perfection of Christian righteousness, and necessary worship*. For this opinion doth not suffer a thing indifferent by its own nature to be indifferent, but *introduceth idolatry* and is *repudiated by God* — as Christ delivereth Matt. 15: *In vain do they worship Me by the mandates of men.* And Paul, Col. 2: *See that no one deceive you through philosophy and vain deceit, according to the tradition of men, according to the ordinances of men, and not according to Christ.* And a little after: *Let no man judge you in food or drink, or in the varieties of feast days.*
+
+- **Some** unwritten traditions **fight with the express Word of God** — as: *the invocation of Mary and of the dead saints, and of pictures and statues; the oblation of the Sacrifice of the Mass for the sins of the living and the dead; manifold profanation of the Lord's Supper; prohibition of marriage and of certain foods; taking away of the other* (as they call it) *species in the Supper*. For these and similar *tacit traditions repugn* — diametrically — the doctrine delivered by God in an *express voice* in the sacred letters.
+
+Of these let the studious read the *integral tractate in the Examen of the Decrees of the Council of Trent, most eruditely written by D. Chemnitius*, where the kinds of all traditions are treated in eight chapters. Likewise, on human Papal traditions, the response of the Princes to the Council of Trent, part 2. And there exist on the Apostolic and other traditions three parts written by **Hermann Hamelmann**, useful and diligently elaborated. ¹⁸⁶
+
+### On the Second: The Threefold Distinction of the Fathers' Sayings.
+
+There is a **threefold distinction** of sayings which are cited from the Fathers:
+
+- Some are **demonstrated**.
+- Some are **probable without Scripture**.
+- Some are **enunciated against Scripture**.
+
+**Demonstrated** sayings are collected from open testimonies of Scripture and from unshaken axioms, by evident consequence — as are the *Symbols*, and other testimonies and sayings illustrating doctrine, or comprehending the sum of doctrine. Hither pertain also **the authentic Confessions of our Churches** — namely, the *Augustan* with the *Apology* and *Repetition*; the *Articles of Smalcald written with the Catechism which we call Lutheran*. For these have weight and authority from the Word of God, whence they are shown to have flowed. But we establish that the *variety of ἀνομολόγων ὁμολογιῶν* (unlike confessions) and *the frequency of changing formulas of dogmas* — by which the truth of doctrine is led into many labyrinths — must by no means be referred hither.
+
+And the more erudite remember what is delivered by *Socrates Scholasticus*: that after the sentence of Acacius (which they then called *maceis*) had been recited in writing, *Sophronius Bishop of Pompeiopolis* σωφρονεστάτως (most soberly) said: *εἰ τὸ καθ᾿ ἑκάστην ἡμέραν ἰδίαν ἐκτίθεσθαι βούλησιν, πίστεως ὑπάρχει ἔκθεσις, ἐπιλείψει ἡμᾶς ἡ τῆς ἀληθείας ἀκρίβεια* ("If it be a setting-forth of faith to publish one's own resolution every day, the accuracy of truth will fail us"). But of this in passing. ¹⁸⁷
+
+**Probable [sayings]**, which lack the Word of God, must for as long be highly esteemed on account of the reverence of the holy Fathers — until they be drawn into evil consequence by the enemies of sound doctrine, by heretics and depravers of truth. The holy Fathers often use the words *Merit, satisfaction, sacrifice*, and the like — in a sound and dexterous intellect. Now if any wish to abuse such sayings against the mind of the Fathers, against the sincerity of doctrine, we ought not to bear it: **the open Scripture must be preferred to the sentences of the Fathers.**
+
+By a like reason the **Sacramentarians** today allege the words from **Nazianzen**: *δεῖ Χριστὸν ὑπ᾽ οὐρανοῦ δεχθῆναι* ("It behoveth Christ to be received by heaven"). This — understood *of Christ's ascension unto the heavens, that He was lifted up into heaven from the sight of men* — hath no scruple; and therefore these words came not into disputation and controversy. But because now the Sacramentarians accede, and from those words which they attribute to Nazianzen (though a manifest imitation is discerned — whatever be indeed contradicted, of which matter I would not wish the pious to contend further, since the matter is to be deferred until the assembly with Nazianzen himself, and the question of his own sentence — now uncertain, as many think — was however never Sacramentarian) — wish to elicit this: **that Christ is so received by heaven and contained and comprehended by place that His body cannot elsewhere be anywhere, and therefore also in the Supper the body and blood of Christ are not truly and substantially present** — this, I say, because they wish to collect thence — they are justly and rightly accused of manifest error. And whether from Nazianzen, whether from Justin, or from elsewhere, they heap up sentences searched from every quarter — **the open Scripture of God is preferred to the phrases and sentences of men**. But of this matter, in the third part of this our *Institution*, God helping, we shall treat, when the Symbol is to be explicated. ¹⁸⁸
+
+**Enunciated [sayings] against Scripture and the analogy of faith** are determined by this rule of **Ambrose**: *We rightly damn all new things which Christ hath not taught — because Christ is the way of the faithful.* And Paul saith: *If any preach another Gospel, even if it be an Angel, let him be anathema.*
+
+### On the Third: Augustine's *Non crederem Evangelio*.
+
+**Augustine**, in the book *Against the Epistle of the Fundament*, ch. 5, saith: **"I would not believe the Gospel, unless the authority of the Catholic Church moved me."**
+
+This saying the Papists allege to feign that *the authority of the Church is greater than that of the Gospel*, and *the Pope can make new articles of faith*. But we must see on what occasion Augustine was led so to speak. The **Manichaeans** had willed that the *Epistle of their Fundament* be held in equal place with the Epistles of Peter and Paul — as today many so posit *other Fundaments* which they will to be made much of. Augustine denieth that he will do this, adding this reason: **because the Epistle of Peter and Paul have the testimony of the Church, but that ἀστήρικτον (unstable) Fundament lacketh the testimony of the true Church**. Of the testimony of the Church therefore Augustine speaketh — not of an authority above the Scriptures.
+
+The same **Gerson** (in the book *On the Spiritual Life of the Soul*, second lection) saith that *they plainly err who abuse these same words of Augustine to prove that the Pope, or a Council, or the Church, can change what hath been delivered by the Evangelists and the Apostles*. ¹⁸⁹
+
+### Closing Prayer of Locus IV.
+
+**We pray, therefore, the Son of God our Lord Jesus Christ, that He Himself may be present unto His Church, and heal and cure her manifold wounds; and, when the evening hath already come, that He may abide with us, and by His Holy Spirit gift and rule us — that we may think, speak, write, and do things grateful unto Him and salutary unto the Church; and that we may be and remain vessels of mercy and salutary organs for ourselves and for the Church. Let us ask those things which are for the peace of Jerusalem. Let us be studious of simple truth; and let us ask to be sanctified in the truth; and let our souls be united by the bond of charity and salutary concord — lest the Name of God be blasphemed — but that in the sanctification of the divine Name we may be disciples and friends of the Son of God, who is the Head of His Church; and that unanimously and joyfully we may receive Him soon coming, behold Him, and celebrate Him in all eternity. Amen — O Son of God — Amen.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI QVARTI DE ECCLESIA.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
