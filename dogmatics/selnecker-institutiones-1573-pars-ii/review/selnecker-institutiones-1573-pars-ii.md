@@ -5606,3 +5606,206 @@ And always in our sight ought to be a **rule known and approved by all the pious
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+### IV. On the Simple, Pious, and True Intellect of the Words of the Institution.
+
+Since it hath been said that by the words of the institution *transubstantiation* and *type* denying the presence and manducation of the true body and blood of Christ are excluded — now we shall consider the words themselves, which are thus described by the Evangelists:
+
+| **Matthew 26** | **Mark 14** | **Luke 22** |
+|---|---|---|
+| While they were eating, Jesus took bread, and having given thanks, brake and gave to His disciples and said: *Take, eat. This is My body.* | While they were eating, Jesus, having taken bread, having blessed, brake and gave to them, and said: *Take, eat. This is My body.* | Taking bread, having given thanks, He brake and gave to them, saying: *This is My body which is delivered for you. This do in remembrance of Me.* |
+| And having taken the cup, having given thanks, He said: *Drink ye all of this. For this is My blood of the new Testament, which is shed for many for the remission of sins.* | And taking the cup, having given thanks, He gave to them, and they drank of it all. And He said to them: *This is My blood of the new Testament, which is shed for many.* | Likewise also the cup, after He supped, saying: *This cup is the new Testament in My blood, which is shed for you.* |
+
+**This concord of the words of the institution, recited by the Evangelists, is joyful and firm against all alien interpretations.** *Matthew* in the eighth year after the Ascension of Christ, *Mark* in the tenth, *Luke* in the fifteenth, described the institution of the Lord's Supper. And there accedeth the *wondrous consonance of the Apostle Paul*, who about the year of the Lord 54 repeated the same institution in the same words.
+
+The sentence of these words is that which in the Catechism is briefly and eruditely delivered:
+
+> **The Sacrament of the Altar is the true body, the true blood of our Lord Jesus Christ, under bread and wine, given by Christ Himself to us Christians to be eaten and drunk.**
+
+**The property of the words is retained** — namely, that **the words of the institution, as the Son of God Himself pronounced them, are to be received, understood, and believed**. And here straightway let all the pious and right-feeling observe this rule (confirmed by long experience):
+
+> **If from the property of the words of the institution there is departed, there can never be gathered any certain sentence on the Article of the Supper, and never can the conscience be certain and tranquil.**
+
+Which is manifest from the *dissenting diversity of interpretations* and from the *confuted arguments of the Sacramentarians*.
+
+### V. Confirmations of *τὸ ῥητόν* in the Words of the Supper.
+
+**First**: *The property of the words is to be retained, unless some manifest absurdity be present which strike against a manifest passage of Scripture or against some article of faith* — which if it be, then finally must be resorted to figures, and a *fitting and simple interpretation* must be sought. The property of the words, or *τὸ ῥητόν*, in the words of the Supper fighteth with no article of the Christian doctrine.
+
+Therefore no other *διάνοια* (mind) is to be sought save what the words of the institution themselves bring forth.
+
+But that the Sacramentarians — denying the minor — object *the ascension of Christ into the heavens, the session of Christ at the right hand of the Father, the properties of the human body*, and certain other things with which they assert *τὸ ῥητόν* in the words of the Supper to fight — of these things a little later shall be said, and it shall be shown that the property of the words of the Supper fighteth with no article of doctrine.
+
+This rule also is to be held in this place: **Never must there be departed from the words of Scripture when the absurdity strikes only against the judgment of reason.** Likewise: *Concerning God and concerning divine things opinions are not to be feigned out of our imaginations, but we must feel concerning God as He Himself in His Word hath patefacted Himself.* Likewise: *In God there are not contradictory wills.*
+
+**Second**: *The highest κριτήριον of certitude of the true sentence in the Prophetic and Apostolic sayings is the consensus of the testimonies of Scripture.*
+
+*Three Evangelists and the Apostle Paul on the Lord's Supper wrote the same words with so great consensus, as though one had sworn into the other's words.*
+
+Therefore this **consensus of testimonies** is to be preferred to all specious cavillations which are brought against *τὸ ῥητόν*.
+
+That the Sacramentarians try to show *dissonance of the Evangelists* needeth no response. For much difference there is *whether the words be uttered variously in the same sense, or whether by the flexions of the variety of words the sentence be changed*.
+
+**Third**: *It is certain that the true body of Christ was delivered for us — and not the bread.*
+
+**Christ commandeth the disciples to receive by the mouth that which was delivered for us.**
+
+Therefore not only bread in the Supper is exhibited, but the true body of Christ.
+
+**Fourth**: *Those receiving the Supper unworthily immediately violate and handle roughly the body of Christ*, and (as **Cyprian** in the 5th Sermon *On the Lapsed* saith) *inflict force upon the body and blood of Christ*.
+
+Therefore those receiving unworthily receive not only the elements, but truly the body and blood of Christ.
+
+And of the *manducation of the unworthy* we shall speak below. Let these few and puerile arguments suffice us now — by which our sentence is certainly obtained: **not to depart from the native property of the words**. And these shall be plainer a little later from the words of the Apostle Paul.
+
+Nor is there need for a heap of many arguments, since that ancient word is most true: *"A good cause needs three words."* And since the Son of God openly and perspicuously hath taught the Church concerning His Supper, let us be mindful of His voice: *My sheep hear My voice.* And 1 John 5: *If we receive the testimony of men, the testimony of God is greater.* Likewise: *He who is not with Me disperseth.*
+
+### VI. On the Proposition: *The Bread is the Body of Christ; the Wine is the Blood of Christ.*
+
+Since it hath been said of the *property of the words*, it is customarily asked whether this form of speaking be true: **The bread is the true body of Christ; the wine is the true blood of Christ**.
+
+But **the simplest and most dexterous response is this**: *The best form of speaking is that which the Son of God Himself in the institution — and then the Apostles in the repetition of the same doctrine — used*. This rule not even the devils can deny.
+
+**Christ saith, extending the bread**: *This* — which I give unto you and which ye take — *is My body*. And **Paul** saith: *The bread which in the Supper we break is the communication of the body of Christ.*
+
+Therefore it is certain that **that mode which the Son of God used** is to be *chiefly employed, retained, and defended*. And that mode is of this sort: ***This is My body***. But **what doth He understand by *This*? Certainly not His body, but the *antecedent*, which is *ὁ ἄρτος* (the bread).**
+
+For even boys know that *τοῦτο* in this passage is taken ***τεχνικῶς*** (as they call it) and *materially* — as when I ask: *What is this?* And it is answered that it is a *lamp, jug, table, tankard, bird*. And thence the true and right formula: *This is a jug, this is a table*, etc. — namely, when *the very matter is understood*, as when *Adam* said of *Eve*: *This* (namely, *this woman*, *τῦτο τετέστι, γυνή*) *is bone of my bones*. And thus the Son of God in this passage speaketh, taking bread, breaking, and giving to the disciples, saying: ***τοῦτό ἐστι τὸ σῶμά μου***. *This* — that is, *this bread* — *is My body*. **This** which I give. But He giveth the bread. Therefore this bread is the body of Christ.
+
+**Whoever rejects this proposition**, whatever they do, **certainly reject the words of Christ in the Institution**.
+
+**But they say:** *"Christ said not: 'This bread is My body; the wine is My blood.'"*
+
+**I answer.** Those who use this objection have either not yet learned to speak (καὶ νήπιοί εἰσιν, *and they are infants*), or think they can better speak than the Son of God Himself hath spoken — who thus saith: *τοῦτό ἐστι τὸ σῶμά μου*. *This is My body — Das ist mein Leib.* But what is that *τοῦτο, Hoc, Das*? They respond: *"It is the body — for τοῦτο and σῶμα in genus agree"* — as the wretched grammarian *Carlstadt* had said. Thus therefore, according to the judgment of these grammarians, the words will have to be ordered: *τοῦτο σῶμά μου ἐστί*, *"This body is Mine, der Leib ist mein"* — and one must not say: *"This is My body, Das ist mein Leib"*, since the German tongue doth not admit to say: *"Das Leib."* But these are almost frivolous, and unworthy that they be treated.
+
+**Now it is manifest to all — not only to those who feel rightly, but also to others who can only speak — that these propositions are *equivalent, one and the same*:**
+
+1. *This is My body.* — *This bread is the body of Christ.*
+2. *This is My blood.* — *The wine is the blood of Christ.*
+
+The manifest reason is this, because *τοῦτο* signifieth *the matter or element* — namely, the bread. And no reason of dissimilitude in these propositions has by anyone been shown, nor can be shown. For what, I ask, can be the discrimination between *τοῦτο* and between *bread*? *This is My body.* But what is that *This*? Certainly the bread which He giveth, and of which He saith: *This is My body.*
+
+Here at last the *tragic voices* arise. Therefore they clamour, **transubstantiation is posited**.
+
+**We respond first**: Let these blot out the words of *Christ the Son of God*, and with Him expostulate concerning the phrase — since if He so spoke, why should we be ashamed to retain the same mode of speaking?
+
+Then, **transubstantiation is by no means conceded**, since it is known that even the vernacular custom of speaking in all tongues is this — that *a thing which is given and which is chief, even if in another container, provideth name and speech* — as when it is said: *"the cup is drunk"*, and when *"wine is said to be given" while a tankard is together given*.
+
+This response is *true and evident*. But it customarily happens that **the Sacramentarians, the first member being omitted** (namely, that the Son of God Himself so spoke), *snatch the other member*, crying that ***synecdoche*** is manifestly posited — and therefore the property of the words is not retained. Of this synecdoche therefore a brief admonition must be added.
+
+### VII. On Synecdoche.
+
+First it must be known: **another is the question concerning individual words in a proposition — whether they have their proper or figurative signification** — and **another is the question concerning the whole proposition, of what sort namely is the predication in those mysteries which are made not by a natural but by a supernatural and heavenly mode**.
+
+As when it is said: *This man Christ is God* — here there is a twofold question, one *concerning individual words*, of which it is true that both *man* and *God* without trope retain their proper signification; another *concerning the predication*. Others call this **unusual**; **Luther calleth it Synecdoche**, because *man* and *God* signify *one Person in two natures, divine and human*.
+
+But when it is said: *The bread is the body of Christ*, there are two questions: one concerning individual words, another concerning the *mode of predication*. As touching individual words, there is no trope, but the *proper signification of bread and of body* is to be retained. But as touching the *mode of predication*, others have called it an *unusual and sacramental predication*; **Luther calleth it Synecdoche** — on account of the Papists and on account of the Sacramentarians.
+
+- The **substance of the bread** is *taken away by the Papists*.
+- The **substance of the body** is *taken away by the Sacramentarians*.
+
+But since each — according to the words of the institution — must be retained, and the **Eucharist consisteth of two things — terrene and heavenly**, as Irenaeus speaketh — so that *the substance of the bread is and remaineth bread*, and *the substance of the body is truly present and exhibited* — **Luther named it Synecdoche**, because *with those things which are seen — bread and wine — are truly and substantially present and exhibited the body and blood of Christ, although invisibly*.
+
+### VIII. What Sort of Proposition and Predication *This is My Body* Is.
+
+Since it hath been said that this proposition (*This is My body*) is by Luther called ***Synecdochic***, straightway the Sacramentarians try to gather from thence that *a trope underlies, and it must be called a figurative predication*, and *the property of the words cannot be retained*.
+
+**But it hath been said in what respect Synecdoche hath place** — not by reason of individual words, whose proper and evident signification is to be retained, but by reason of the *predication* — to refute transubstantiation.
+
+In other **figurative propositions** the *predicates cast off their proper signification and put on a new and metaphorical one*, as: *Herod is a fox*, *A tyrant is a wolf*, *I am the vine, ye are the branches*, *My Father is a husbandman*, etc.
+
+**But in this proposition — *This is My body* — the predicate loseth not its native and proper signification, but altogether *is in the predicament of substance*** — because expressly it is said: *My body, which is delivered for you*. But a *tropical, figurative, or phantasmal body* has certainly not been delivered for us — unless with the *Manichees and Marcion* we wish to rave.
+
+Therefore the **bread** is the *visible subject*, and it retaineth its proper signification. The **body** is the *predicate*, signifying that *substance which for us was delivered on the cross*. The **copula** signifieth *such a union of subject and predicate — that with the visible things, bread and wine, truly and substantially are present and exhibited the body and blood of Christ*.
+
+**This ratio of predication is peculiar** — which others call *unusual*; **Luther calleth it Synecdoche** — not that it is a figurative phrase, or that a *tropical body* is understood, but to show that *with the visible things truly and substantially are present and exhibited invisibly the body and blood of Christ*.
+
+**But they say:** *"Therefore Synecdoche is not a figure or trope?"*
+
+**We respond**: Let it be indeed a figure in other matters — yet this too is known: **there is no figure of all figures which so retaineth the property of the vernacular speech in all tongues as does Synecdoche** — so that it *almost loses the name of figure*.
+
+If any more contentiously agitate this, unto them we respond by using **Cyril's** words: **God is not subject to the nature of things, nor is bound to the rules of Dialectics, or of things ordered in nature — as often as He is engaged in extraordinary actions.**
+
+But if the *Synecdoche* is too greatly aggrandized by the Sacramentarians, all the pious and right-feeling prefer *not to use the word* σύνεκδοχή, than to admit *an absent and figurative body* — as **Luther** often counselled to be done.
+
+And this too must be added: when it is said that this predication (*This is My body*) is *unusual*, it is by no means understood *of exactly the same sort as this: The Word was made flesh*. For the **presence of the body and blood of Christ, which Christ Himself attributeth to the bread and wine, must be infinitely discerned from the unusual predication of which John speaketh** — where the *personal and ὑποστατική union* is signified, as the Church of all times hath spoken, and elsewhere is piously and eruditely explicated. For **of the personal union it is not said: *God is present with that man***. But of the *sacramental union — which we call the true and substantial presence — it is fittingly so said*.
+
+### IX. On the Particles: *In, Sub, and Cum*.
+
+Let there be always in our sight the rule set down above. **Concerning the Lord's Supper we cannot better speak than the Son of God Himself hath spoken, when He instituted this Sacrament.**
+
+But that today the *customary and received formulas* — *With the bread, In the bread*, or *Under the bread the true body of Christ is present and exhibited* — this is done to avoid the opinion of transubstantiation. And the *use of these particles* is that they *declare the matter, not that they be the foundation of the cause*. **The foundations are the very words of the Son of God: *This is My body.***
+
+But lest now a *Transubstantiator* accede and feign that *the substance of the bread is annihilated, converted, and transubstantiated into the body of Christ*, we use the particles *In, Sub, Cum* with the same signification and mind that Paul saith: *The bread is the communication of the body; the wine or the cup is the communication of the blood of Christ.*
+
+Nor are these new particles, but used by *Chrysostom, Augustine, Cyril*, and others — for a *twofold cause*: namely, that the fiction of transubstantiation might be disapproved; then that the *true and substantial presence of the body and blood of the Lord in the Lord's Supper* might be believed.
+
+And the use is not of *one* but of *all three* of these particles — that at the same time this may be shown: that *concerning the mode of the presence nothing curiously is to be inquired*, but that this is to be *commended to God's omnipotence and to the truth and institution of Christ*.
+
+Therefore there is no place for any *inclusion or locality* (as it is called). It is not at all taught that *only a body-corpus is given to us, of the size of the bread*; nor is it at all taught that *Christ descendeth from the heavens into the Supper, and there is locally or in the place of the Supper, and nowhere else*. But when it is said (*in the bread*), *every opinion of the absence of the body and blood of Christ is excluded*, and the *true presence and exhibition, or κοινωνία (as Paul calleth it)*, is described — whose presence's mode since it can neither and ought to be inquired, and the *presence and exhibition are not visible or sensible*, therefore antiquity said, *Under the bread, In the bread, or With the bread*. And thus ours still speak.
+
+And this must also be observed: **great is the discrimination between the form which Christ Himself used, and between these received and customary forms**. The words of Christ *for no cause, never and nowhere, must be changed, cast away, or omitted*. But concerning *forms of equal value*, rightly Luther adviseth that if they should be *offensive to the healthy* and *disturb the consensus of the true sentence*, we ought altogether to cast them away, and to retain that form which the Son of God Himself used. Thus, if it be not otherwise said that ***In, Sub, and Cum bread the body of Christ is given to us*** than in *letters and seals a census, garden, meadow, field, and house are given us*, or as when *by a key an absent house is handed over* — here we would altogether omit those formulas, for which when there must be fought and when not, is now by God's grace agreed enough.
+
+### X. On the Adverbs: *Truly, Corporally, Substantially, Really*.
+
+**Antiquity used these adverbs**, to show that the very *substance and nature of the body and blood of Christ* — *not in sign*, not only in efficacy, but *truly* — is present, exhibited, and received.
+
+- **Hilary** useth these formulas: *Truly, Naturally, Corporally, and through the flesh.*
+- **Cyril** these: *Corporal union, natural participation, not only spiritually but also corporally, according to the flesh, substantially, in truth.*
+- **Chrysostom** saith that *through the body He immerseth Himself into us in this food, saying: Take, eat.* Likewise, *in the thing itself*.
+- **Paschasius**: *Really.*
+- **Augustine**: *Invisibly.*
+- **Lyra**: *In the Sacrament of Baptism Christ is according to virtue; in the Sacrament of the Eucharist according to substance.*
+
+**These voices therefore are not new, and unknown to antiquity, but used by approved writers** — not to describe the mode of the presence, nor to feign anything concerning *carnal and Capernaitic eating*, but only to signify that *the body of Christ in the Supper is present and exhibited to those eating not only according to virtue and efficacy, but also according to substance*, as **Lyra** rightly speaketh.
+
+These same formulas are used by ours from the same cause, and are used in the ***Confession of Augsburg*** Article 10, in the ***Apology*** (where the words of Cyril are alleged), in the ***Repetition of the Confession***, and elsewhere. ²¹³
+
+That **Paschasius** saith the body of Christ is *not carnally present in the Supper*, and **Augustine** saith that *Christ is not now present with us by corporal presence* — they speak of the *natural and carnal mode of visible and palpable presence*, as Augustine often explicateth himself. For **Christ doth not now converse with us as He did converse in the earth before His death**, and as after the resurrection until the ascension He offered Himself to be seen by the disciples — as also He shall come to judge the living and the dead.
+
+### XI. On the Vocable *κοινωνία* — 1 Cor. 10.
+
+When **Paul** saith that *the cup is the κοινωνία of the blood, and the bread is the κοινωνία of the body of Christ*, he understandeth nothing else than that *two things are in the Eucharist* — *bread and body* — and *with the bread truly and substantially is present, exhibited, and received the true body of Christ*.
+
+Therefore ***κοινωνία*** is most rightly translated **participation** — namely, *by which is communicated to us the body of Christ* — even as **Hilary** for this reason calleth the Sacrament *the communication of the flesh and blood*.
+
+**Not therefore of *fruit* and *efficacy* only is *κοινωνία* understood, but of the *substance of the body of Christ, which is exhibited with the bread to those eating*** — even as in the institution it is said: *This which ye take is My body which is delivered for you.*
+
+And that Paul altogether understandeth *participation*, he himself straightway declareth, saying: *All of the one bread μετέχομεν (we participate).* For *κοινωνέω* with the genitive is the same as *μετέχω*. And *κοινωνία is participation, distribution, communication, and manducation of the true body of Christ*.
+
+The Germans have translated this ***Die gemeinschafft***, because a more proper word cannot be found by which the force of the vocable *κοινωνίας* might be expressed. **Luther** in the *Little Book of the Visitation* thus rendered: ***Das Brod, das wir brechen, ist der außgetheilte Leib Christi.*** — *"The bread which we break is the distributed body, or the distribution of the body of Christ."* And **D. Philip** in his response to the *Wormacian and Ratisbonian Articles* thus rendered in the same mode: ***Das Brod, das wir brechen, ist ein außtheilung des Leibs Christi***. — *"The bread which we break is a distribution of the body of Christ."*
+
+The sentence of Paul is therefore this: **To those eating not only bread is exhibited, but the bread is the *participation of the body of Christ* — such as is described in the institution: *This which ye take is My body.***
+
+And so we have treated hitherto of the true sentence, which is: **In the Lord's Supper there is something, and it is exhibited, according to Christ's institution to be received and eaten — and that something is the body of Christ, and is the blood of Christ, and thus the property of the words of institution is to be retained and defended.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## XII. Various Interpretations of the Words of the Institution Brought Forth by the Sacramentarians.
+
+The sentence born from the words of Christ the *Sacramentarians* oppose — who prefer to follow the *judgment of reason* rather than to hear the *voice of Christ*, and *strenuously imitate Servetus*, of whom **Calvin** writeth: that when he was asked why he was the author of so nefarious a schism, he answered *because things which do not fall under the senses cannot come into my intellect*. But these play in the interpretation of the words in various modes — and the *variety of the interpretation testifieth that it is not taken from the text, but brought from elsewhere*.
+
+- **Carlstadt** plays on the pronoun *τοῦτο*, and referreth it *δεικτικῶς (demonstratively)* to *the person of the Son of God standing there*, as though by *παρένθεσιν* — while doing another thing and pointing to Himself with the finger — He had spoken these words.
+- **Zwingli** plays on the verb *ἐστίν*, and interpreteth it not *παρελκτικῶς*, but as **signifieth**.
+- **Oecolampadius** is occupied in the interpretation of the vocable **Body**, and understandeth it as *τυπικὸν* — a *typical or figurative body*.
+- **Calvin** speaketh of the *efficacy and vigour of the absent body unto salvation*, which he calleth *οὐκ ὄν* body — that is, *what cannot be perceived by the mouth, but by the contemplation of faith*. ²¹⁴
+
+Now if the words of the institution be considered, easily can all be recognized and judged, how perversely they understand and pervert the institution and will of Christ.
+
+- **Luke** refuteth **Carlstadt** when he saith: *τοῦτο ποτήριον, this cup.* Therefore *τοῦτο* pertaineth not to the body of Christ but to the antecedent — namely, the bread and wine.
+- **Luke** also refuteth **Zwingli**, omitting the word *Est*, when he saith: *This cup [is] the new Testament in My blood.* And **Paul**: *Not discerning the body of the Lord.*
+- **Luke** also refuteth **Oecolampadius**, saying: *The body which is delivered for you.* But not a *typical or phantasmal*, but the *true body* was delivered for us.
+- In the same mode Luke refuteth also the last opinion — of the *efficacy of the absent body unto salvation* — saying: *The body which is delivered for you.* But the *efficacy of the absent body* was not delivered for us. And Paul saith: *Those manducating unworthily eat judgment to themselves.* Therefore **not only of the efficacy unto salvation, but altogether of the substance of the true body and blood of Christ, the words are to be received and believed.**
+
+Of these things therefore let this suffice. Now on the **presence of the body and blood of Christ in the Supper** a few things must be added — of which although from what has hitherto been said the true sentence can be gathered, yet that the whole matter may be more lucidly expounded, these must be considered as it were the chief heads:
+
+1. **What the presence is.**
+2. **What is the *causa efficiens* of the presence.**
+3. **How He can be present, since the property of the natures must be retained, and since the body of Christ is in heaven.**
+4. **Why and unto what end He is present.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
