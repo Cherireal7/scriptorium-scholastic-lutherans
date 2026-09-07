@@ -6665,3 +6665,430 @@ Now we shall subjoin certain **Theses on the Mass**, that the studious may have 
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI QVINTI · DE SACRAMENTIS + DE BAPTISMO + DE COENA DOMINI + ADIAPHORA + CIRCUMCISIONE + SACRIFICIIS + DE MISSA.</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+# Doctrina de Magistratu Politico · The Doctrine of the Political Magistrate.
+
+**A most grave doctrine on the Political Magistrate, his dignity and offices**, Sacred Scripture delivereth everywhere — and showeth *what sort of pious Princes and Governors ought to bear themselves toward God and toward subjects, whom for counsellors and administrators they may lawfully use*.
+
+Now this must be considered at the outset: **every legitimate government and magistracy is ordained and instituted by the supreme Magistrate, the King of kings and the Lord of lords, God Himself**. For unless God wondrously preserved the political order, restored it, and against the fury of the Devil (who loveth confusion) guarded it — it would be impossible today that any honest Polity or government could yet stand.
+
+And that this order pleaseth God as His own work is most certain from the Prophetic and Apostolic testimonies — although sometimes the persons are not approved by God. Wherefore this doctrine must be diligently learned, and souls must be pre-armed against the furies of the Anabaptists and of others not approving *civil society and the Political Magistrate*. **Marcion, the Manichees**, and many others have spread these horrible furies — that those functioning in the office of magistracy, of Kings, Princes, soldiers, or judges, cannot be saved. Against these must be firmly learned and retained the true and pure doctrine of our Church, which teacheth: **Empires and the legitimate functions of magistrates are from God, and are together approved and aided by Him**, according to Sacred Scripture's testimonies:
+
+- Prov. 8: *Through Me Kings reign, and through Me Princes discern justice.*
+- Dan. 2: *God transferreth kingdoms and constituteth them.*
+- Ps. 82: *I said, Ye are gods* — that is, *sustaining a divine office*.
+- Paul, Rom. 13: *There is no power save from God. And those that are, are ordained by God. Therefore whosoever resisteth the power, resisteth the ordination of God.*
+
+And a futile objection or rather cavillation of some must be exploded here who cry out: *Many things are done inordinately in governments and empires; many things are negligently and sluggishly cared for by Lords; the Magistrate himself is often polluted with manifest crimes. Therefore God neither governeth nor approveth the Political Magistrate.*
+
+**I respond**: Many things — alas! — are done inordinately and confusedly not only in empires, but also in the Church and in the whole of life, and the Devil variously perturbeth the polities, by tyranny and by the infinite licence of Princes, who think whatever they wish to be lawful — as she saith: *"If it be permitted, it is permitted. Knowest thou not that thou art the Emperor, and dost give laws, not receive them?"* But **the persons must be distinguished from the office**.
+
+Who denieth that the person can be *impious, useless, and secure*? But **the office through itself is a good thing and an ordination of God**, as is manifest from the testimonies of Scripture. This only the pious consider — and they render obedience to their governors (sometimes even to evil ones), and endure the magistrate, nor are greatly offended at his person — as *Daniel the Prophet*, who in the Babylonian captivity was diligent in his office, nor was he moved by the King's person.
+
+### Governance Must Begin with God.
+
+**First**, we are taught that *no Governance can be happy and have good successes* unless God Himself guardeth the city and buildeth the house and ruleth and rightly procureth all things. For **he who wisheth to be over some Empire or Republic by his own foolish wisdom, and even without God (as furiously Ajax had said) thinketh himself able to conquer — he shall at length experience his attempts to be frustrated, and his labour and oil to have been lost, with the greatest detriment; and with the builders of the Babylonian tower shall foully strike and fall**. For God not governing, both the magistrate and the city — *the prudence of Lords is confounded, and those waxen wings (as the poets fable of Icarus) melt*.
+
+### Governance Must Be Undertaken with Prayer.
+
+**Second**, let the Magistrate consider that ***fortune, blessing, progress in office, and all benefits with which he can be adorned, must be sought and expected from God***. Wherefore let him begin his office alacritously *with ardent invocation of the divine Name*, and commend the rest to God.
+
+### The Two Chief Offices of the Magistrate.
+
+**But the offices of the Magistrate**, as David speaketh Ps. 101, are ***mercy and judgment***. Pious Princes and Governors ought to be *beneficent or merciful toward the good* (thus Luke 22 they are called ***εὐεργέται*** — beneficent and clement), and to *take away evil or impiety from the midst*.
+
+That, however, magistrates and others placed in the higher conditions of life may have the doctrine of their office, we shall speak:
+
+1. **What sort be their state and condition** in which they are engaged — namely, most grave, and exposed with many labours and cares unto extreme peril.
+2. **By what reason this office must be incepted, and how it shall be happily perfected.**
+3. **What are the offices of the Magistrate**: namely, *preservation of the fountains of Israel, constitution of a right kingdom and government, humanity and mansuetude toward subjects and inferiors, narration and defence of right and of laws, and the exemplar of an honest life*, etc.
+4. **What power the Lords have, conceded to them by God, both in time of peace and of war, and by what exactions and severity they ought to punish the contumacious.**
+5. **What delights and recreations of soul they may enjoy**, granted to them (namely) by the Word of God.
+6. **What counsellors they should admit — namely, honest, and not flatterers and whisperers — and with whom it is right for them to converse.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## 1. On the First — The Grave Condition of Magistracy.
+
+That the Political Society and the Magistrate are ordained and confirmed by God, and daily are aided and preserved by Him — no man of sound mind can deny. And **his offices are called *divine***, as appeareth from these words: *Ye are gods* — that is, *ye sustain a divine office*.
+
+For the Magistrate ought to *discern justice and injustice, and defend equity, but to take away and punish the unjust and iniquitous*. **This is the labour, this is the work**, in administering so difficult and grave a Province. Here diligence, care, watching, sweats, and especially *wisdom* are required — which considering, King Solomon prayeth God to give him a docile heart to judge His people and to discern between good and evil (1 Kings 3).
+
+They therefore err through the whole heaven who judge the offices of the magistrate so light that they can be perfected by *pleasures, sleep, banquets, huntings, play, and idleness*. **Pious governors experience daily their office to be full of labours and cares, and cannot be administered in leisure**, as Paul testifieth Rom. 12: *He who is over, let him be over in solicitude.* I shall recite some causes from which the gravity of this office can easily be judged:
+
+### Five Causes of the Gravity of Magisterial Office.
+
+**1.** The Prince and governor ought to *excel in prudence, piety, virtue, and erudition*. Wisdom 6: *Hear, ye Kings, and understand; learn, ye judges of the ends of the earth. Give ear, ye who contain multitudes and are pleased with yourselves in the troops of nations: for from the Lord hath power been given you, and virtue from the Most High, who will interrogate your works and search your cogitations. Since ye are ministers of His Kingdom.* Prov. 8: *By wisdom Kings reign, and the conditions of laws decree just things. By wisdom Princes rule, and the powerful decree justice.* Thus **Jehoshaphat** with a grave adhortation addresseth the Magistrate, 2 Chron. 19: *See what ye do — for it is not man's judgment ye exercise, but the Lord's; and whatsoever ye judge shall redound upon you. Let the fear of the Lord be with you, and with diligence do all things.*
+
+Hence the Ethnics said: *"An unlearned prince is more truly a statue than a prince."* Likewise: *"Let the unlearned not govern or rule others."* And **Cicero** saith: *"Let the prince or judge remember that he hath God for witness."*
+
+**2.** The Magistrate ought not himself to overturn his own laws and ordinations, but to yield obedience to *the Word of God, honest discipline, and his own constitutions* — lest he first give the subjects *scandals and occasion of sinning*. And these voices must be execrated: *"Whatever pleaseth, is lawful. Thus I will; thus I command."* But chiefly let him *kiss the Son of God, and observe His Word, and apply diligence in his office*. For if he doth not this, and walketh not according to the will of God, *most hard judgment shall come upon him* (Wis. 6). Wherefore let pious Princes be *bearers and executors of their own laws*, and let them look upon the example of **King Agesilaus**, who sent his sons to Sparta, and chiefly commanded them to learn these two things: **to command, and to obey command**.
+
+It was also the custom of the Egyptian Princes and judges that they should confirm by oath that they willed not to act against right, nor to respect any persons. Thus **Emperor Trajan** said to the Master of the horse, delivering to him the sword: *"With this sword use for me, if I command just things; but if unjust, use against me."*
+
+**3.** Let the pious governor go before his subjects with **good examples in vocation and life**. For therefore we call them ***illustrious***, that by good example they may shine before others. And most true is this saying:
+
+> *"Every vice of the soul hath the more conspicuous crime in itself, by how much the greater is he who sinneth."*
+
+Likewise: *"As the leaders' horns, so morals follow the camp."* If governors are pious, temperate, diligent, and faithful in their office, they for the most part receive such ministers from God. But if they live secure, intemperate, unfaithful, they retain ministers also all given over to wickedness — as it is said: *"While the Abbot playeth, the monks can also play."* Nor ought our Princes to imitate the example of Nero, that diabolical organ, who commanded his ministers to seize all the goods of citizens and rustics — but should care that not only they themselves, but the whole court lead an honest and pious life.
+
+**4.** The pious Magistrate, serving his subjects, is consumed not only *by cares and labours of government*, but even with peril of life, on account of the perfidy of men, he ought to defend the safety and commodity of his subjects. Hence **Seneca** saith:
+
+> *"Thou, whoever thou art who holdest the sceptre, though every populace in thy court equally pulse a hundred thresholds — when thou art surrounded by so many peoples, in so many peoples scarcely is there one faith."*
+
+And that this state lacketh not most grave cares and immense labours, the pious governors know. And **Hector** in Homer saith: *As a bird flying to food gathereth and pre-chews food for her featherless chicks, but meanwhile herself is ill — so I too many sleepless nights for your safety sustain.* The same **Homer** saith:
+
+> *"It becometh not the ruler to sleep the whole night through — one who ordereth the peoples, and with breast beareth cares."*
+
+And **Cyrus** in **Xenophon** saith: ***οὐδὲν διαφέρει ἄρχων ἀγαθῶν πατρὸς*** — *"The ruler differeth nothing from a good father"* — signifying that the same care and labour a good Prince must undertake as a good Father of the family.
+
+As therefore *ministers of the divine Word do not receive stipends that they may live in leisure and lead a soft life*, so also *governors of the people* — who are called *patrons and defenders of the ministry and of every honesty, and nourishers of the Church of Christ*, and by the Greek Sages are called ministers and interpreters of the great justice of God — have been raised unto these honours and dignities and receive various revenues and taxes not for this end, that thence they should enjoy all pleasures and live splendidly, but that with money paid by the many sweats of the people, they should collocate it well, and neglect none of the parts of their office.
+
+**5.** Pious Princes consider that God is present to them as **inspector of their life, actions, cogitations, and counsels**, and *direct their whole administration unto the glory of the omnipotent God* — with whom there is no respect of persons, who knoweth, proveth, seeth, and understandeth all things, and to whom in due time an account must be rendered. For every malice before God is revealed, and both in the whole life and in the hour of death and in eternal damnation *that worm gnawing conscience wakes up*.
+
+From these causes recited — what be the *gravity and difficulty* of the offices of the political Magistrate — anyone can judge. Would that this were most wisely and diligently considered, and many governors by this consideration would lay aside their crests, who assuredly before God are esteemed no more than others of inferior condition — who are nothing save *earth, mud, bones of worms* — nor do the dead differ from other cadavers, as **Ambrose** saith: *"There is no distinction among the cadavers of the dead, except perhaps because the bodies of the rich, distended by luxury, more heavily stink."*
+
+**Let the powerful therefore humble themselves under the patent Hand of God**, and from God ask and expect *wisdom, counsel, and felicity in their government* by the example of Solomon.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## 2. On the Second — How the Office Must Be Incepted.
+
+From the Word of God and from experience or testimony of all histories, it is agreed that **all Princes and governors who in their office have sought the glory of God, the felicity of their subjects, and their own salvation, ought to inaugurate their attempts with ardent prayer and invocation of the divine Name**. Thus **Solomon** sought from God *wisdom and daily bread*; **Hezekiah** sought *defence against enemies*; **Jehoshaphat** sought *deliverance*; **Asa** sought *help*. Without His help, *labour vanisheth into the winds, and with wretched vain weight sweateth the toiled work*.
+
+But after prayer and conversion to God — whose form Ps. 101 we have prescribed in our German Psalter — let the governor's **first care be to surpass all others with the spirit of humility and mansuetude**, nor being *swollen and inflated by any power let him be rendered [proud]* — mindful of that saying of the Son of God: *Learn of Me, because I am meek and humble of heart.* Likewise: *Let the greatest among you be as the least.* And Paul admonisheth all: *Know that your own Lord is in the heavens* (Eph. 6). By the example of Christ therefore let Princes be humble, and *avoid pride and the desire of surpassing others* — from which arise very many and greatest vices and huge evils in the life of men (Luke 16): *What is exalted before men is abominable before God.* And the saner Ethnics said: *"He who wisheth to reign, let him reign with languid hand"* — that is, let him be humble, and yet before God, if he acted rightly, not be terrified.
+
+### Prince Needeth Learning.
+
+Since it is not fitting that the magistrate be *rude and ignorant of the doctrine concerning God and His Son our Lord Jesus Christ and of our eternal salvation*, it easily appeareth that for him **the knowledge of tongues and of good arts is most greatly necessary** — lest, when there must be speech on grave matters, himself function in the place of a mute person. Then it profiteth him the reading of *good books and of various authors* for the informing of his life — as **King Alfonso** had said, that *he had learned from books both to rule and to wage wars*. And **Demetrius** exhorted King Ptolemy that he should diligently peruse books — for in these are contained many useful things which no other would dare to declare unto the royal majesty without timidity.
+
+It is of great moment that youth be rightly educated, and especially that *the sons of Heroes and Princes* be imbued with all pure doctrine and piety. Therefore let good governors care that their sons live *from the first years under good discipline*, and are commended to the faith of pious preceptors. For **correction and instruction beget wisdom**, as Ecclesiastes 30 speaketh. And: *"What a fresh vessel hath once been imbued with, it will keep the taste for a long time."*
+
+But these things are more lightly cared for in our time. For very many governors depend wholly on their Counsellors (whose security is often extreme), nor do they themselves learn to understand the matter. We read that before **King Alfonso** two interpreters of Right had disputed, and one of these had imprudently blurted out these words: *"There is no need that Lords be intent on studies — because there attend on them a frequency of learned men."* Alfonso responded to these words that *"he heard the voice of an ox, not of a man."* So also today:
+
+> *Contemn arts and tongues the dinner-sophists,*
+> *And they seek only exalted name in courts.*
+
+But let these things pass. For *fools love not wisdom*, as Solomon saith. And *whoever God loveth not, they contemn the ingenuous arts*, saith the wise Pindar. And *"in Centaurs there is no mind."* Likewise: *"Barbarism is inimical to good studies."* But pious governors themselves testify that the *studies of tongues and arts are very necessary for the administration of the Republic*. For most true is that which is said: *"Faithfully to have learned the ingenuous arts softens morals, nor suffers them to be savage."* Also *gait, speech, and gesture separate and indicate the learned nobles from the unlearned and brothers of ignorance*. And *Pilate said*: *"A man rightly instituted evadeth into a certain divine animal. But a man not instructed with good letters is as an unpolished mirror, and degenerateth into a most monstrous beast."* Doctrine indeed is a *golden ornament to the wise*, saith Solomon, nor doth it dishonour anyone. But the world cares little or nothing for the studies of doctrine, piety, and honesty, as in these verses is said:
+
+> *Study of doctrine, sacred piety, sweet honesty —*
+> *What can be more foolish than these three to the world?*
+>
+> *It contemneth ingenuous tongues and sweet arts,*
+> *And the courtly life teacheth the world's falls.*
+>
+> *If any seek riches and the favour of Kings,*
+> *He knows: he shall be judged more learned than all.*
+>
+> *Thou art deceived; mortal grace shall accept an end,*
+> *And the grace of the heavenly King shall not be thine.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## 3. On the Third — The Offices of the Magistrate.
+
+From these premised things it easily appeareth what are the offices of the magistrate — namely, **that they live in the fear of God, love the divine Word, and direct all their cogitations, actions, and counsels unto the glory of the most Holy Name of God**. Let therefore the magistrate send before, according to the example of Solomon, ***invocation of God***, and let him esteem no attempts to be happy and salutary without God's help and blessing, as it is said:
+
+> *Without Thee no rest, without Thee no hope is left:*
+> *"Each pious one, without Thee, O Christ, we perish," saith he.*
+
+Of this **confidence in God** it is spoken more copiously elsewhere. And many sentences of Scripture make mention of this — as Ps. 2: *Kiss the Son, ye powerful, lest the Lord be angry.* Ps. 43: *In Thee our enemies we shall winnow, and in Thy Name we shall despise those rising against us.* Ps. 126: *Unless the Lord shall have guarded the city, in vain watcheth he who guardeth it.*
+
+### The Magistrate as Defender of Pure Doctrine.
+
+Then let the magistrate be a **defender and champion of pure and sincere doctrine, and destroyer of idolatry**. That he may do this better, let him procure for himself solid cognition of the heavenly doctrine, nor depend only on the judgments of others. Very often the true doctrine is corrupted, and pious Doctors and ministers of the divine Word are falsely accused; and very many secure and unlearned men are commended and preferred to others on account of the *ignorance and rudeness of the magistrate*, who cannot discern the true from the false. **And O finally blessed Republics** (as Plato saith), **if either learned or wise men rule them!**
+
+Today also various errors and heresies break into the Church. And besides the plainly-known corruptions of the *Turks, Jews, Papists, Sacramentarians, and Anabaptists* — under a certain pretext of religion — many fraudulently deprave the articles on Christ's ascension into heaven, on His session at the right hand of the eternal Father, and on the omnipotence of Christ the man.
+
+- On the one side, those Philosophers subtly dispute that *Christ is a man, and as a man sitteth at the right hand of His Father circumscribed by a certain place of heaven, and cannot at the same time be in many places*, and *He ascended into heaven by a physical and corporal mode and motion*.
+- On the other side, pious Doctors — not garrulous and disputers, not incredulous or learned by their own reason — simply and rightly teach that *Christ, true God and man, Son of God and of the Virgin Mary, according to each nature sitteth at the right hand of His Father with equal majesty and power, without confusion of natures and without division of the Person* — and here neither presence nor motion is physical. But those disputers and Philosophers-doctors are with the greatest praise extolled by the wise of this world, and are called columns and lights of the world. But the remaining ones — who are not their applauders — are held to be the most unlearned of all.
+
+These things are said, that the pious governors may themselves learn the Word of God, and daily arm themselves by pious prayers, lest they inflict force and injuries upon Christ's Church and upon pious doctors, but with all diligence refute errors, and propose to themselves the *examples of pious Kings and Princes*: **Asa** (1 Kings 15 and 17; 2 Chron. 14), **Hezekiah** (1 Kings 18), **Josiah** (1 Kings 23), likewise **Constantine, Valentinian, Gratian, Theodosius**, and others.
+
+### The Magistrate's Care for Church and Schools.
+
+Let the magistrate above all things care that **the true doctrine sound in his regions**, according to the verse:
+
+> *The Prince's greatest virtue is to know God.*
+
+Let him **cherish the Churches and the Schools, and provide for them necessary stipends**. Let him aid good discipline, and nourish learned men. Nor let him **abuse the goods of the Church, ordained by pious and religious Antiquity for its sustentation**, nor seize them to himself — but according to the divine mandate let him defend and nourish the ministers of the divine Word and others who can profit the Church, according to the mandate of Isa. 49: *Kings shall be thy nurturers, and Queens thy nurses.*
+
+Lest, therefore, the *revenues of the Church be transferred to other uses* than to the preservation of the ministry and the studies — let governors see. For the Church hath need of *contributions or revenues* for three causes:
+
+1. **For nourishing the Ministers of the Gospel** — as Paul commandeth, *the ministers to be nourished by the Church*.
+2. **For preserving the Schools** — where expenses must be furnished for Doctors and poor Scholastics.
+3. **That other poor may be aided from the public [fund]**.
+
+And because the people contribute meagrely, it is the office of the Magistrate to constitute the revenues and pensions of the Church. And these were in the beginning the causes of Ecclesiastical donations, as appeareth from **Augustine** and the Histories. Thus God (Exod. 30) constituted the *half-shekel to be numbered by all for sacrifice*. And elsewhere He commandeth that each in his own place should aid the ministry, and most severely threateneth those who do not aid the ministers of the temple. Haggai 1: *Build My house, and ye shall please Me.* Likewise: *My house is deserted, and each hasteneth that he may build up his own house — therefore I have prohibited, that heaven should not give dew, and the earth should not be fecund.* And Mal. 3: *Bring all the tithes into My storehouse, and I will open unto you the cataracts of heaven and pour out blessing.* Prov. 3: *Honour God from thy substance and from the first-fruits of all thy fruits, and thy storehouses shall be filled with satiety and thy wine-presses shall overflow with wine.*
+
+**In these works God wisheth faith to be exercised** — which if we had, we would be more liberal in this kind of offices. Nor would there occur what **Jerome** saith: *The ceilings shine with gold, the temples gleam with marble; but of Christ's ministers there is almost no account.*
+
+Here a question arises: **to whom doth the dominion of ecclesiastical things, contributions, and revenues pertain?**
+
+**I respond**: It pertaineth *not to Pontiffs, not to Princes, not to the people, but to the Church* — that is, *neither to Bishops nor to Princes nor to the people is it lawful to transfer these revenues to other uses than to the preservation of the Ministry and the studies*.
+
+- Gen. 47: Joseph bought the goods of all the Egyptians for his King Pharaoh, *except the fields of the Priests* — which were ordained by Pharaoh himself to this end, that from them the Priests might sustain themselves and their families.
+- Exod. 30: God commanded that the money collected for the sacrifice be laid up to be guarded in the tabernacle of testimony, *that it may be for the people as a memorial before the Lord, that the Lord may become propitious to the souls of the people*.
+- Lev. 25: Among the remaining privileges of the Priests, this too is set forth: *that the goods dedicated to themselves be not sold* — for the *field of them is a perpetual possession*. And Num. 5: the same is commanded.
+
+Hence the Jurisconsults deliver the rule: **Once dedicated to God, it must not be transferred to human uses.** Most laugh at these things — especially the opulent and thieves of temples — but it will happen to them that when they lose things unjustly gained, they lose also things justly gained — as little by little is wont to happen.
+
+### The Right Constitution of the Republic — Counsel, Discipline, Eye-of-the-Lord.
+
+**The second office of the Magistrate is: that he institute and preserve a good state of the Republic** — that is, as David saith Ps. 101: **let him admit faithful and pious ministers and Counsellors in the ministry, not perverse, obtractors, liars**, etc. (of whom in the sixth place shall be spoken). For **three things chiefly are required for the happy and pious administration of polities and kingdoms**: (i) *Good counsel*; (ii) *Discipline*; (iii) *The Eye of the Lord*.
+
+**I. Good Counsel.** The Prince cannot alone see through and consider all things. Wherefore it is necessary that he use the work and counsel of other Wise men. But from God these Counsellors must be sought — for as Ecclesiasticus saith ch. 37: *Be assiduous with a holy man, whomsoever thou hast known observing the fear of God, whose soul is as thy soul, who when thou totterest in darkness shall grieve with thee. And the heart of good counsel shall stand with thee, for there is nothing to thee more than it. The soul of a holy man sometimes announceth true things — more than seven circumspect ones sitting on high to speculate.* And in all these things pray the Most High that He direct thy way in truth. For it is not enough to give and receive counsel unless God fortune it. And let the pious Governor always say with David: *I will hear what the Lord speaketh in me* — that is, *let me ask of Him good counsel, let me consult my own conscience, lest I begin or perform anything against God's will*.
+
+**II. Discipline.** Let the magistrate care that in his dominions *no honest laxity of discipline occur, but that according to the norm of the divine Word, honesty, obedience, peace, tranquillity, temperance, chastity, and truth be preserved, and justice have its progress, as far as it is extended*.
+
+Today many complain that almost no good discipline remaineth, and that maledictions, security, contempt of the divine Word, dissensions, hatreds, contumacy, false judgments, adulteries, banquetings, pride, unjust exactions, avarice, perfidy, and lies have too much prevailed. **What is the cause? I shall say**: **If governors together with the ministers of the divine Word loved good discipline, and did not themselves live in brawls and contentions and other wickednesses — honest discipline could easily be preserved.** If we were Christians in deed rather than name only, we would see those confusions of kingdoms and other miseries decrease.
+
+### The Magistrate as Father.
+
+There is required in the Magistrate that, as a *good father, he love his subjects*, as **Seneca** writeth to the sordid Nero: **The unconquerable munition of the Prince is the love of the citizens.** *What is more beautiful than to live with all wishing? Who here dare to build any peril, under whom justice, peace, security, dignity flower, under whom the opulent city abounds with the copia of all goods?* Most sweet these words are written to a Tyrant. For the people, citizens, and subjects are truly the Martial towers (as Alceus had said) unto whom after God the Magistrate can flee.
+
+If the pious Prince exhibiteth himself humane and benign toward his subjects, he rendereth them all devoted and bound to himself — that when there shall be need, they fear not to pour out life and fortune with him.
+
+The **most illustrious Prince Eberhard of Württemberg** said such was his government that *he could securely sleep in the bosom of any of his subjects, even at night under the open sky*. **Antigonus** — when admonished by certain courtiers that he should guard Athens conquered and inflict terror on the inhabitants — responded, ***the favour of citizens is greater than every munition***. And **Agesilaus** — asked why he did not gird Sparta his metropolis with walls and ditches — responded, ***his armed citizens were his towers and walls***. Let the Magistrate therefore *not despoil his subjects with immoderate exactions*, but that he may be loved, let him in turn love his own, and in him let there be *equality, avoiding προσωποληψίαν (respect of persons)*.
+
+Let him be diligent in the cognition of causes and of all the circumstances of both parties, not only of one. And **let justice be done, which is more beautiful than Phosphorus and Hesperus**, as Aristotle saith. Now we speak of *that justice which tributeth to each his own, and maketh discrimination between the good and the evil, and affecteth the good with rewards, but punisheth the evil*. And concerning this justice the *saner Ethnics* rightly felt. **Antisthenes**, asked by what things the Polity is diminished, responded: **By injustice — which discerneth not the good from the evil, and doth not severely punish the evil, but judgeth unequally.** And elsewhere justice is named the *Lady and Queen of virtues*.
+
+### The Prince's Fidelity to His Word.
+
+To this justice pertaineth a **generous, not inconstant soul in the Prince and other Governor**. For the words of Princes ought to have *the authority of an oath*. And in this matter the ancient Germans are commended, because *they were the most observant of their promises*; but now there is much *loquacity and little faith*, as certain Polish verses indicate:
+
+> *A sweet court and detestable evil — the future thou promisest,*
+> *Present thou givest nothing — Court, farewell.*
+
+Yet we see horrid punishments to accompany perjuries — as **Agesilaus** greatly rejoiceth that his enemy hath broken his oath, saying: *"He hath offended God; therefore he shall pay worthy penalties of perjury."* How horrible is the History of the *Battle of Varna*, before which the Turk himself is said to have exclaimed unto the cross: *"O Christ, if Thou be truly the Son of God, show now that the perjury of Thy people is not pleasing to Thee."* The Turk therefore came out victor, and *Ladislaus King of Hungary* was killed, and there fell with him a wondrous slaughter of the Christian army in the year of Christ 1444.
+
+But when the oath is against God and His Word, it must altogether be broken. And this same we see even the Ethnics observed. **Hippolytus son of Theseus**, asked by his stepmother lying ill that he should swear to do what she should impose, and he had sworn — and the stepmother sought the fellowship of him — responded: *"By tongue I swore, but the mind is unsworn."*
+
+### Magnanimity and Longanimity.
+
+Now **magnanimity and longanimity** are very greatly commended in Princes. Now magnanimity is known *from praestant works and deeds, from the fear of God and love of His Word, from care of subjects and hatred against wickedness and impiety, from fidelity in administering office, and from lenity and mansuetude toward one's own*. **Praestant Heroes are studious of virtue and of honest actions, hold in hatred flatterers and liars who serve themselves and their own belly, and suck the blood as flies** (as Nicesias said to Alexander); they are *temperate and chaste, and declare beneficence toward all*. And with these virtues if there accede *humanity and longanimity*, they are held as *Angels almost on earth*.
+
+When a certain man said to Cleomenes that a King ought to exhibit himself as *humane and familiar to all*, he responded: *"Rightly it hath been said, unless from this contempt follow: contempt followeth if a Prince converse with impious, malignant, and flatterers."* Thus the humanity of **Augustus** is commended by many. And **Emperor Trajan** wished and willed to be such an Emperor unto his subjects as he when a private-man-and-subject would have wished to himself an Emperor. And this virtue in Princes is insigne, but rare enough.
+
+### The Eye of the Lord.
+
+**III.** That infinite perils, both in peace and in wars — and the flatteries of *Phormiones* and calumnies (which are as it were sisters of flatteries) — may be avoided by the Lords, it is necessary that there be present the ***eye or presence of the Lord*** in most of the things to be instituted. And hither pertain the customary sentences: ***"Forehead before occiput."*** And **Perses**, asked what things chiefly fatten a horse, responded: *"The eye of the Lord."*
+
+The Egyptians represented the image of the Prince by painting the sceptre with an eye. *What the Sun is in heaven, the Prince is in the people. But as the eye of the world, the Prince is the eye of the multitude. What the soul is in man, the Prince is in the city. The soul is wise, the body obedient.* Likewise: *"The Prince's greatest praise is to be oculate before and behind."* ***εἷς ἐστι δεσπότης οἰκίας, ὁ δεσπότης*** (*"one is the master of the house — the master himself"*), saith **Menander**: which if in the Oeconomy it is true, much more in the Polity. For how, when Princes either themselves are not oculate and diligent, or have not Counsellors whom they may safely trust, and who be *imitators of Joseph and Naaman* — it is truly out of the safety of kingdoms. Since today in courts there are more *Ahithophels and Zibas than Josephs and Naamans*, therefore there is need of the ***eye of the Lord***, which availeth more than ten others — as the Proverb showeth: *"One eyed witness is worth more than ten eared ones."* And *"never happily proceed those things which are done by another's eyes,"* saith Livy.
+
+To exhibit this diligence, Princes ought to be moved by *the ratio of the office which they administer* — of which in the Psalm it is said: *I said, Ye are gods.* Now God seeth and heareth all things being present. Him ought pious Princes to imitate, if they will rightly be over their office.
+
+Let there also be in sight *the mandate of God*, commanding Princes and Magistrates to be diligent in office. Then the *dignity of the office, which is diminished and deformed if they themselves be not present and sedulous, as though the office were tenuous and light*. Afterwards *peril in many ways*, which briefly may be recounted:
+
+- The *prayer of subjects to God is turned away from the Prince* — nay, poured out against the Prince to God, when they are pressed, even without his knowing — as today it happens, where the souls of subjects who ought to pray for the *safety of the Magistrate* are long since alienated, and cry out against injustice. And such *exclamations are not vain*, as examples show: for **the voice of the people is the voice of God**, as antiquity said.
+- Princes themselves, too credulous, are most easily deceived and exhausted by their *Phormiones* (flatterers), who if the Princes were more attentive, would omit many things which now with the Princes ignorant they audaciously undertake and do.
+
+Hither be referred the **History of Pleminius**, to whom Scipio Africanus, having taken the city of the Locri, delegated the governance of the city — since his life seemed honest and grave, but his heart was full of avarice and wickedness. As soon then as Scipio departed occupied with other wars, Pleminius vomited forth the venom of his soul, seizing from the temples and from elsewhere monies and other things which seemed [worthwhile], and pressing subjects now with these, now with other burdens, under pretext of Scipio's mandate. The Locri, forced, went to Rome and delivered their calamities to the Senate — which commanded Pleminius to be brought captive to speak his cause from bonds; and if those things were true which the Locri complained, [they commanded him] to be slain in prison, his goods to be publicly confiscated, and all things taken away to be restored. And thus indeed the matter was transacted and completed with Pleminius. This too is true: that *the eye of the Lord being absent, many faithful and good men are alienated from the Lords by calumnies* — who easily believe obtrectors — so that the Lords cannot discern the faithful and good from flatterers and calumniators. And thus many who have served faithfully often are unexpectedly neglected, contemned, driven out; and other perverse men are substituted for them, who seize what those [faithful ones] had faithfully merited. Of this misery **Sirach** writeth ch. 27: *There are two things which trouble me, and a third irritateth me* — namely, *when a strenuous man is at last forced to bear poverty, and wise Counsellors are at last contemned, and one who deserts from true faith*.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## 4. On the Fourth — The Power of the Magistrate.
+
+When we speak of **the power and empire of Lords**, we speak not of *tyranny* under which individuals are constrained to live *anxiously and miserably and to be slaves* — as impiously certain cry out: *"Thus I will, thus I command"*, and (as **Creon** saith): *"The city belongeth to the Prince."*
+
+But we speak of **the ordination of God**, who willed the Magistrate to be a *tutelage and solace to the good and pious*, but a *terror and penalty to the evil*. **The power therefore of the Magistrate is not tyranny, but political order, association, good laws, peace, defence, obedience, and the reward of the good, but the penalty of the evil.**
+
+And hither pertaineth Aristotle's saying: ***ὁ ἄρχων φύλαξ τῶν νόμων*** (the ruler is the guardian of the laws). And **Theseus** nameth the Magistrate ***beneficent toward men and a great friend***. Let us also observe the *appellation of Father*. For a regal appellation is in Genesis: **Abimelech** — that is, ***My Father the King***. When **Valerius Messala** by mandate of the Roman people saluted **Augustus Caesar** *Father of the Fatherland*, Augustus was suffused with such joy at this title that he said *nothing in his whole life could be more pleasing to him, and he wished from God that he might obtain this insignia-name unto his death*. And most sweetly **Seneca** saith: *This Kings have magnificent and huge, which no day taketh away: to profit the wretched, to protect suppliants.* And **Aathon** rightly said that the Prince ought chiefly to think these three things:
+
+1. **He is a governor of men and not of beasts; and he himself is a man and not God.**
+2. **He himself is subject to his own laws — according to which norm he ought to institute his life and all his actions.** For *not affection but law ought to be the rule*, as **Cyrus** saith. And **Hamon** rightly said to his father Creon, indulging his affections too much: *"Thou willest to speak, and not to hear the speaker."*
+3. **He ought to consider that his government shall not perpetually endure.** Let him therefore know himself to be mortal — as **Philip King of Macedonia**, that daily by a noble boy these words might be recited to him, commanded: *"Philip, remember thou art a man."* And when King of the Gauls should have written on the *columns of Hercules*, ***Plus ultra***, **Charles V** most wisely subjoined: *"Today to thee, tomorrow to me — mortal all things can befall."*
+
+### The Power of Lords Consisteth in Laws, Punishments, Wars, and Exactions.
+
+**Laws** ought to agree with the *Word of God and the Law of nature*. For whatever repugneth this is not to be called a law, nor obligeth anyone to obedience — according to the rule: **God must be obeyed more than men.** Which even by natural light in some way **Plato** and **Sophocles** knew — in whom similar sentences are found — affirming that against God and equity it is not to be obeyed. Memorable is the response of **Socrates** which is in Plato:
+
+> ***ἐγὼ ὑμᾶς, ὦ ἄνδρες Ἀθηναῖοι, ἀσπάζομαι μὲν καὶ φιλῶ, πείσομαι δὲ θεῷ μᾶλλον, ἢ ὑμῶν***
+>
+> *"I embrace and love you, O men of Athens, but I shall obey God more than you."*
+
+And **Antigone** in Sophocles saith: *"We must more obey the gods with whom we shall abide longer, than men with whom we must live for a very brief time."* And the *History of Daniel* teacheth that *impious mandates must not be obeyed*. And in the **Phoenissae of Euripides** rightly is said: *Are not the commands of Princes always to be executed? — No, if the commands be impious, unjust, and evil.* And in **Iphigenia**: *We shall obey the Atridae commanding honest things; but if they shall command dishonest, we shall not obey.*
+
+Laws therefore should agree with the *divine mandate*, and flow from *this sole source*, and be conformed to *the natural light of reason*. But if the Magistrate wishes to impose new laws and statutes on the subjects, let him in these three chiefly respect:
+
+- **First**, that *the counsel be best founded in the Word of God*, as hath been said, and *serve the glory of God and turn to the utility of the Republic and the commodity of the region*. But let *avarice and private commodity be absent*, which when it walketh under the pretext of the Republic destroyeth the whole government.
+- **Second**, lest laws and statutes degenerate into a worse use — but let them be observed at the same time by the powerful and by the poor. There was of old a law in the *Twelve Tables* such that he who inflicted blows on his neighbour should pay 25 asses to the injured party. But a certain opulent worthless man named **Neratius** caused that a purse repleted with money should be carried by his servant, and struck all those hated to him, paying a fixed penalty. Wherefore on account of this contumacy and mockery the Magistrate deservedly permuted the law. So in our time on account of the too great contumacy not only with money and other things are adulterers punished, but even *capitally mulcted*.
+- **Third**, that the ***equality of laws*** be preserved, and the Magistrate avoid ***προσωποληψίαν*** (respect of persons) — tributing equal things to unequals and unequal to equals — according to the saying:
+  > *Censure gives pardon to ravens, but vexes doves.*
+  > *Hornets go free; flies fall into the nets.*
+
+### On Public Vengeance in Penalties.
+
+As touches ***public vengeance*** of the Magistrate in imposing penalties, it must be known that *not too precipitately must anger be indulged*, according to those most sweet verses:
+
+> *Let the Prince be sluggish to penalties, but swift to rewards:*
+> *Who is grieved as often as he is forced to be fierce.*
+
+It must be cautioned first, lest by *untimely negligence and lenity the authority of the law be diminished or lightened*; or lest by *too great rigour the will of the law be corrupted*, according to the saying: *"The highest right is the highest injury."* And: *"Who wringeth too much elicits blood."* And **Emperor Sigismund** said: *"Who knoweth not to dissemble knoweth not to command."*
+
+Then it must be seen *what sort of person the guilty one is, and what sort his delict*. Hence the penalty ought to be estimated — which from the *previously-transacted life* can best be sought.
+
+**Third**, two things must be cautioned about the people: first, *lest the example of lenity beget for sin a patronage*; then, *lest with damage and peril of the Republic the guilty be spared*. Let this therefore be the rule: **When the will of the law admits *ἐπιείκειαν* (equity), and the guilty can be amended without harsher penalty, and the people is not rendered worse by example, the Magistrate can use a more clement sentence, and spare the guilty with hope of emendation.**
+
+### On Wars.
+
+Hither pertaineth also mention of ***wars***. **War ought to be a legitimate and blameless defence**, that without injury the Magistrate and the subjects can live in peace, as most rightly **Cassiodorus** saith: *Then only is it useful to run to arms, when a place of justice cannot be found with the adversary.* But when war is undertaken from *wrath, impatience, desire of vengeance, cupidity of acquiring more goods, or on cause of empire and riches* (as Sallust speaketh), rarely is a successful outcome detected — as infinite examples testify.
+
+### On Tributes.
+
+As touches ***tributes***, let the pious Magistrate beware lest exactions be *immoderate*, and lest *the sweat and blood of the subjects*, if they be collocated only unto *pleasures and superfluity*, cry to heaven — mindful of the most grave commination which is in Eccl. 34: *The bread of the needy is the life of the poor; who defraudeth him, is a man of blood. He who taketh away bread in sweat is as one who slayeth his neighbour.*
+
+There is also disputed **how far the Magistrate hath right in the goods of the subjects** — namely, *not as touches occupation or possession, but as touches defence*, as showeth the History of the impious Ahab occupying by force the vineyard of Naboth. And this it is to speak equitably — although flatterers may have things otherwise, as in that History it is said of *Emperor Henry of Luxemburg*.
+
+Thus the Magistrate is assimilated to a *faithful Pastor* who ought to provide victual for his subjects, lest they be flayed by immoderate exactions — as **Tiberius** said: *"It is of a good Shepherd to shear the flock, not to skin it."* And in Daniel the Prince is a *tree under which the subjects feed*. The Magistrate indeed hath the right of exacting tributes — but the ends are three (which also Cicero *Pro Lege Manilia* recites): *that they be ornaments of peace, subsidies of war, and sinews of the Republic*. When however it often happens that on account of *greater perils to be avoided, on account of enemies of the fatherland to be repelled, and other such extraordinary and unaccustomed burdens*, the Magistrate needeth greater tributes — it is lawful to ask *extraordinary tributes*, which ought not to be *private instruments of libidinousness or luxury*, as today everywhere happeneth.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## 5. On the Fifth — Recreations and Delights.
+
+*"To servants often the sweet pleasure of the Lords is harmful"*, as is said. Yet if Lords instituted *dances, huntings, and similar pleasures without detriment to subjects*, and were not negligent in their office, God without doubt would not prohibit these recreations of the soul, as wisely and gravely **Luther** saith. **Moderate pleasure is to be conceded to Lords.** And **King Amasis of Egypt** — not ungracefully to those objecting to him a moderate pleasure and blaming the refreshment of his soul — responded: *"Rest, I pray you; for ballistas or bows always intense easily break."* So also *perpetual care and labours attenuate the strength of the body*, as it is said: *"What lacks alternate rest, is not durable."*
+
+Not undeservedly therefore good Princes, occupied with many and most grave affairs, enjoy honest pleasures and recreations of soul — unless they exceed the *mode*, and are too troublesome to subjects, as today most often happeneth.
+
+**King Antiochus** was too much given to hunting, and did not diligently execute his office. Therefore he fell into the *malevolence of his subjects*, who said that he loved beasts before men. But when at some time he wandered from the way in hunting, and had entered a rustic hut near midnight — unknown to all — he heard such judgments of the people concerning himself: *that he was a preaestant Governor endowed with various gifts and singular prudence, but that he abused these gifts to the maximum detriment of his subjects*, and by his mandate the *ministers unfaithful in delegated office* connived at many crimes. Unto these complaints of the people he was silent — but returning at morn to his ministers he became gravely angry with them, saying: *"On the previous day I first heard true counsel and used the most faithful Counsellors — who said me to be a hunter, but you to be Lords and Governors."* But he applied greater diligence in administering his office afterwards. And it would very much profit if today Princes and Magistrates would hear the complaints and lamentations of subjects, and not harden their hearts against their voices — those who *wretchedly complain of the injury of beasts which devastate and corrupt their fields and estates*, and other difficulties.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## 6. On the Sixth — Counsellors.
+
+Pious Princes, on account of the immense peril conjoined with their government, ought not only themselves to be *just, candid, and sincere*, but by David's example also *use honest ministers and Counsellors*, and *not admit flatterers and calumniators*. For to subjects the piety of the Prince little profiteth *if all things shall be lawful to flatterers, who take to themselves right upon the people under the pretext of the Lords, and excuse themselves for many injuries inflicted* — as we see in the Aesopic Apologue where the little Fox is accused before the Lion of ill-administering the affair and of inflicting many injuries on the poor subjects, hens and geese, and often killing and devouring them. The Fox purgeth herself, saying: *"These themselves are seditious against King Lion, and often cry out with lifted-up and broad neck and gullet, lest they should machinate anything evil against the King."*
+
+**Ps. 101** showeth what sort the Prince himself ought to be — *prudent, innocent, just* — and what sort the Ministers of Princes ought to be — *in ministry faithful, not malicious, obtractors*, etc. For most holy King David saith: *I will act prudently in an immaculate way; when Thou shalt come to me, I will walk in the innocence of my heart, in the midst of my house. I will not set before mine eyes any thing of injustice; the doers of prevarications I have hated, they shall not adhere unto me. A perverse heart shall depart from me; the malignant will I not know. Him who secretly detracteth against his neighbour, him will I destroy. And him that is proud-eyed and greedy-hearted, him I will not bear.*
+
+Let pious Princes therefore consider *how great a virtue it is to act prudently, and to administer all things circumspectly, to be candid, and to bear friendship and enmity on the ready forehead, to walk in the innocence of the heart in the midst of the house of God*. And since calumny and adulation are chiefly in the courts of Princes (which as their own seats they have selected for themselves), Princes and Magistrates ought to attend lest they incur this wickedness — which assuredly is not simple lying, but altogether such in which are *two who inflict injury, and one who is affected with injury* — as **Herodotus** wisely saith: *For the calumniator inflicteth injury, accusing an absent one. And believing the calumniator, before he truly know the matter, he inflicteth injury. And he who is absent suffereth injury both from the calumniator and from him who lendeth ears to the calumniator and reputeth him for evil.*
+
+Hitherto we have spoken concerning the Magistrate and his office. And we commend to the studious of piety to read *the sixth chapter of the book of Wisdom*, in which the Holy Spirit addresseth Kings, Princes, and Magistrates, and exhorteth them unto love and reverence of the Word of God, unto piety, and unto justice. And as in the reading of this chapter, so in all other places as often as of the Magistrate it is spoken, these things must always be considered:
+
+### The Six Heads for Understanding the Magistrate.
+
+1. **Origin of the Magistrate.**
+2. **Office of the Magistrate.**
+3. **Difficulty of the Magistrate's function.**
+4. **Chief sins of the Magistrate.**
+5. **Account to be rendered to God for the office of the Magistrate.**
+6. **Offices of the subjects.**
+
+Of the **origin** of the Magistrate we have said above. *The powers are ordained by God*, saith Paul. *I said, Ye are gods. Through Me Kings reign. Not man's judgment ye exercise, but the Lord's*, saith Jehoshaphat. *Power hath been committed to you by the Lord* (Wis. 6). These and similar sayings show that the Magistrate is *God's ordination*, and is preserved by God, and God is *author and defender of the Magistrate*. ***ὅσων γὰρ πόλεων μὴ θεὸς, ἀλλὰ τις ἄρχει θνητός, οὐκ ἔστι κακῶν αὐτοῖς, οὐδὲ πόνων ἀνάψυξις.***
+
+Of the **office** we have heard before. ***ἀγαθὸς ἄρχων οὐδὲν διαφέρει ἀγαθῶν πατρός***, saith Xenophon. Let therefore the first care be ***νομοθεσία κυρία*** — care of Churches and Schools, and *purity of doctrine*. The second care be *administration of the household matters, agriculture, and other things of which subjects have need*. The third care be *diligent custody and execution of the Decalogue and of positive laws, with rewards of the compliant and penalties of the contumacious, likewise care of widows and orphans, of the poor, of the sick*, and the like (Ps. 82).
+
+### The Difficulty — Seven Things.
+
+The **difficulty** of the Magistrate's function can easily be gathered from these seven things:
+
+1. **Occasions of sins** into which superiors easily fall, either of their own accord (***κόρος γὰρ ὕβριν τίκτει*** — satiety begets insolence) or deceived by others.
+2. **Difficult, conspicuous, and scandalous lapses** — to the detriment both of others and of the discrimination of one's own life.
+3. **Instability of fortune, similar to the wheel of a chariot**, as is said: *"Today a horseman, tomorrow a footman."*
+4. **Cares and solicitudes concerning the greatest matters, vigils and counsels**, while others often sleep and snore.
+5. **Conscience.**
+6. **The end of many, not so placid, but often horrible.**
+7. **Difficulty of rendering account**, as it is written: *The powerful shall powerfully be examined, and every part of their life shall be inquired into.* And: *To whom much is committed, of much shall an account be rendered.*
+
+But these difficulties ought not to *deter the Magistrate from his summit and office*. Nor ought *the ingratitude of men to obstruct the course of his vocation*. Let there accede *the fear of God, piety and invocation, labour and patience*, and all things shall be easy, and *God shall give a happy outcome with tribulation, a success, a joyful catastrophe*.
+
+### The Chief Sins — ἀνομία, ἀκρισία, κακοπραγία.
+
+The chief sins of the Magistrate are ***ἀνομία, ἀκρισία, κακοπραγία***.
+
+**Anomia** is *contempt of the Word of God, of honest laws, of right counsels, of piety, of discipline, or corruption of laws*. The Magistrate ought to be ***φύλαξ τῶν νόμων*** (guardian of laws). And *the law ought to be the rule — not one's own brain, or affects*. *By the body deprived of soul, life falleth. When the city loseth its laws, every association is dissolved.*
+
+***Ἀκρισία*** is *either only to delegate to others the office of judging and not to be present at councils, or superficially, in passing, coldly and evilly to judge without just cognition of the matter and of the circumstances*.
+
+***Κακοπραγία*** is *to care for no one, to do this and that*. On account of these sins God poureth *contempt upon the Princes*, that at length all things may be devastated, *the foundations of the earth being broken* — that is, laws, discipline, honesty, peace — as it is written: *A kingdom is transferred from nation to nation on account of injustice, injury, contumelies, and deceits.* Likewise: *Hear, ye Princes, on account of you Zion is ploughed as a field.*
+
+### The Account to Be Rendered to God.
+
+Concerning the ***account to be rendered to God***, often it is said in the Church. For an account shall be rendered of *doctrine, of faith, of life, of sayings and deeds, of office and vocation*. And by how much greater the state, the more difficult shall be the account, as it is written: ***δυνατοὶ δυνατῶς ἐτασθήσονται*** (the powerful shall be powerfully searched). Now ***ἐτάσειν*** also signifieth *to scrutinize the innermost*.
+
+### The Offices of Subjects — Eight Things.
+
+Of the **offices of subjects** Christ saith Matt. 22: *Render to Caesar what is Caesar's.* Therefore subjects owe to their Magistrate:
+
+1. **Honour.**
+2. **Filial reverence.**
+3. **Obedience.**
+4. **Communication of some portion of the produce.**
+5. **Prayer.**
+6. **ἐπιείκειαν** (Equity).
+7. **External offices commanded by the laws, in time of peace and of war.**
+8. **The pouring out of life, if there be need, for the safety of the Magistrate.**
+
+**Honour** is *to acknowledge the political order to be God's work, and the Magistrate to be minister and legate of God, and steward of the great justice of God, and guardian of the greatest goods in the human race*, as it is written: *I said, Ye are gods.* By true subjection of the heart therefore we ought to magnify the Magistrate, as **Solomon** Prov. 22 beautifully saith: *Fear the Lord, my son, and honour the King.* And Paul saith: *He is God's minister to thee for good.* And Wis. 6: *Ye are ministers of the Kingdom of God.*
+
+**Filial reverence** is exhibited by *honest opinion, true subjection of the heart, by speech, by work, and by patience*. Subjects ought to look upon the Magistrate as a Father — ***ἤπιον πατέρα, καὶ εὐεργέτην βροτοῖς καὶ μέγαν φίλον*** — that is, ***Thideal, Abimelech, and Abrech***, as in Genesis it is written. **Thideal** signifieth *him who acknowledgeth the Most High, whose minister he is for the care and salvation of men* (Gen. 14). **Abimelech** is the same as *"My Father the King"* (Gen. 20). **Abrech** signifieth *lenient, tender, and clement Father of the fatherland*. So the Egyptians named Joseph, Gen. 41.
+
+**Obedience** is often commanded in all things which *religion and the law of nature concede*. Tit. 3: *Admonish them that they be subject to principates and powers, and obey magistrates, that they be prepared unto every good work.* And Rom. 13: *It is necessary to obey not only on account of wrath, but even on account of conscience* — that is, *contumacy against the magistrate summoneth not only penalties of bodies but also polluteth conscience with mortal sin, and maketh guilty before God, and meriteth eternal penalties*. This rule is chiefly the sinew and the highest bond of obedience: which is, **to do all honest offices which the legitimate Magistrate commandeth, and to obey his edicts on account of God**. For therefore we obey — that toward God we may declare due obedience. But if against God anything be commanded, obedience is not to be given. For **obedience toward men extendeth up to the altars, and not beyond**, as it is written: *We must obey God more than men.* God is the *greater power*; the magistrate is *inferior*. God threateneth *Gehenna*; the magistrate threateneth *prison*. Impious servitude therefore is prohibited. **Doeg**, obeying Saul and slaying the innocent priests, sinned against God. The oppidan magistrate slaying innocent Naboth by the mandate of Queen Jezebel acted impiously. Of Uriah taken away by David's mandate the same is to be judged.
+
+**Concerning the communication of some part of one's resources**, legitimate and ordinary, it is written Rom. 13: *To whom tribute, tribute.* And although the Magistrate sinneth horribly, and by God at length is punished, where either *by immoderate exactions he flayeth subjects, or by force invadeth their resources*, as *Ahab snatching from citizen Naboth the vineyard is punished* — yet even harder burdens are to be tolerated by subjects as *penalty of sin*. Nor ought they on this account to excite *sedition*, unless *atrocious injury and most cruel tyranny accede* — but *to commend vengeance to God who certainly punisheth, to do penitence, and by praying not to neglect the lawful means*.
+
+**Concerning prayer for the magistrate** Paul saith: *Exhort that supplications, obsecrations, interpellations, thanksgivings be made for all men, for Kings and all placed in eminence, that we may lead a placid and quiet life in all piety and honesty.* And **Jeremiah** commandeth to pray for the magistrate even ethnic and improbate (Jer. 29): *When it is well with them, it is also well with you.* Now the prayer of subjects for the Magistrate ought to be instituted chiefly on these matters:
+
+1. That God make the souls of Princes *constant in the acknowledgment and confession of divine truth*.
+2. That the magistrate be *faithful in his office*, and bear care *for altars and hearths, for the law and the flock, for the Churches and Schools, for widows, orphans, and the poor*.
+3. That God guard and preserve immune the magistrate from *evil men — flatterers, informers, sycophants, proud thrasoes, liars, buffoons, those rejoicing in blood, avaricious, prodigal*, and all similar men who ought to be the *excrements of the earth and of the regions*.
+4. That God give *pious Counsellors, doctors, ministers* who care for and seek the *glory of God, the dignity of the Magistrate, and the salvation of the subjects*.
+5. That the *seed, stirps, and family of the magistrate* grow and enjoy the blessing of God, according to that: *To the generation of the right shall it be blessed.*
+6. That God will be present unto the magistrate in adversities, and rule him, guard him, and free him.
+
+**ἐπιείκειαν** and **lenity**, tolerantly and moderately bearing certain incommodities of superiors, the sacred writings seriously require. *Obey the Lords, not only the good and equitable, but even the harsher*, saith Peter. For no government is so happy in which many errors do not befall. ***ἁμαρτάνει καὶ σοφὸς σοφώτερος*** (even the wisest sage erreth). Even though the plebs for the most part hateth the Magistrate, and ***τὸ παρὸν ἀεὶ βαρὺ τοῖς ὑπηκόοις*** (the present is always heavy to the subjects) — those who wish to reign by word — yet from the tolerable Magistrate whose purpose is not evil, nothing is to be detracted, nor are the *calumnies of the vulgar to be approved*, because it is written Exod. 22: *Thou shalt not curse the prince of thy people.* Often not so much from the *negligence of governors* as from the *difficulties of the times* the impediments of government arise. Concerning those things also which lie hidden from us, we ought not to bear *rash judgments*. For the affairs of the wise are so composed that we must say: ***ἃ δρῶσιν οἱ κρατοῦντες, οὐχ ὁρῶ*** (what the rulers do I do not see) — provided nothing be done against faith and piety.
+
+**External offices** also are to be rendered to the magistrate, who yet ought always to have account of the poor, lest they be too much burdened, or be worn out by labours without discrimination, and be driven as *dogs, horses, mules, and beasts of burden* to *servile works*, in which they cannot even have bread — as today everywhere in Germany we see happen.
+
+**To pour out life for the magistrate**, if there be need, becometh pious subjects, as it is written 2 Sam. 18 where the people say to David: *Even if the half part of us shall fall, it is of no great moment; but thou art computed as one for ten thousand.*
+
+These therefore are the things which subjects owe to their magistrate — which since today are negligently done, let us acknowledge and deplore the sins both of the Magistrate and of the subjects. For each is true: **and on account of the sins of the earth (namely, of the subjects), and on account of the sins of the Princes** happen ***ἀνακαταστάσιαι, ἀταξίαι***, and *confusions and devastations*, ***λιμὸν, λοιμὸν, καὶ πόλεμον*** (famine, plague, and war).
+
+**Let the magistrate fear God, hear the Word of God, follow pious and honest counsels, be clement and pacific — and by this reason he shall consult many evils, and shall have the prayers and supplications of the pious for himself and his safety.** May the Son of God, our Lord Jesus Christ — guardian and Michael fighting for the law and for the flock against devils, tyrants, and heretics — grant that this be done by our Magistrate for our Germany.
+
+### Epithets of the Good and Evil Prince — from Julius Pollux to Emperor Commodus.
+
+At the end of this doctrine on the magistrate (for concerning the remaining things which seem to pertain hither — namely, *vengeance and penalties* — below in the explication of the Decalogue in the fifth precept, God giving, we shall speak), we shall subjoin the epithets of the good and evil Prince, prescribed by **Julius Pollux** to Emperor Commodus.
+
+#### Praises of the King (πεὶ βασιλέως ἐπαίνων).
+
+**Πατήρ, ἤπιος, πρᾶος, ἥμερος, προνοητικὸς, ἐπιεικής, φιλάνθρωπος, μεγαλόφρων, ἐλεύθερος, χρημάτων κρείττων, ἔξω παθῶν, ἑαυτοῦ κρατῶν, ἄρχων ἡδονῶν, λογισμῷ χρώμενος, ὀξὺς, εὐμήχανος, περιεσκεμμένος, εὔβουλος, δίκαιος, σώφρων, θεοῦ ἐπιμελητής, ἀνθρώπων κηδεμών, στάσιμος, βέβαιος, ἀνεξαπάτητος, μεγαλογνώμων, ἰσχυρογνώμων, ἐνεργός, τελεσιεργός, φροντιστής τῶν ἀρχομένων, σωτής, πρόχειρος εἰς εὐεργεσίαν, βραδὺς εἰς τιμωρίαν, ἀσφαλής, ἀπλανής, ἀκριβέστερος πρὸς τὸ δίκαιον, εὐπροσήγορος, εὐέντευκτος, μειλίχιος, ποιμαντικός, ἐπιμελητής τῶν ὑπηκόων, φιλοστρατιώτης, πολεμικός μεν, ἐφιλοπόλεμος δὲ, εἰρηνικός, εἰρηνοποιός, εἰρηνοφύλαξ, παιδευτικός, ἀρχηγός καὶ αὐχηκός, νομοθετικός, εὖ ποιεῖν πεφυκώς, θεοειδής...**
+
+That is:
+
+**The praises of a King or good Prince shall be thus**: Father, placid, meek, mild, provident, equitable, humane, magnanimous, liberal, contemner of money, greater than affects, victor of himself (*"He conquers twice, who conquers himself. To escape cupidity, is royal to conquer"*), commander of pleasures, using reason, sharp of judgment, ingenious, circumspect, valid in counsel, just, modest, curator of religion, procurator of men (*"the prince's greatest virtue is to know God"*), stable, constant, infallible, of exalted soul (***μεγαλογνώμων*** — one who is grave and grand in speech and in matters), tenacious of purpose in a just and good thing (as becometh a good prince), efficacious in acting, perfecter of works (*"a matter well deliberated and begun ought to be continued and perfected"*), bearing care of subjects, saviour, prepared to benefit, slow to penalty (*"let the Prince be sluggish to penalties, swift to rewards"*), secure (*without fear, with which Tyrants are affected*), not wandering, propense to justice, easy of access, easily saluting, easily admitting interpellants (*hearing suppliants*, as **Emperor Ferdinand** had said: *"If we shall not hear the wretched, God shall not in turn hear us"*), bland, lenient, bearing care of subjects (**Seneca**: *clemency renders more not only honester but even safer. The same: This Kings have magnificent and huge, which no day taketh away: to profit the wretched, to protect suppliants who dole. The same to Nero: The unconquerable munition of the Prince is the love of the citizens. What is more beautiful than to live with all wishing? Who dare to build any peril unto him, under whom justice, peace, security, dignity flower? — under whom the opulent city abounds with the copia of all goods?*), loving his own soldiers, strenuous warrior indeed but least cupidous of war, pacific (**Scipio's** voice: *"I would rather preserve one citizen than slay a thousand enemies"*), author of peace, guardian of peace (*"By concord small things grow, by discord greatest things fall. Peace best of things, one peace more powerful than innumerable triumphs"*), emendator of the morals of the people (*bringer-in of discipline*), truly leader and prince, giver of laws, born to merit-well (**Titus** was called on this cause: *the delight of the human race*), divine species (**Plutarch**: *A good prince is a living image of God, or an animated image of God*). Many things are which by discourse can be said; but by individual words cannot be expressed.
+
+#### Vituperations of the Tyrant (πεὶ τυράννου ψέγων).
+
+**Τυραννικός, ὠμὸς, θηριώδης, βίαιος, πλεονεκτικός, φιλοχρήματος, καὶ τὸ τοῦ Πλάτωνος, ἐραστὴς χρημάτων, ἅρπαξ, καὶ τὸ τοῦ Ὁμήρου, δημοβόρος πρόπλης, ὑπερήφανος, δυσπρόσιτος, δυσπρόσοδος, δυσπροσήγορος, δυσέντακτος, δυσόρατος, δύπυμος, ἔμπληκτος, ταραχώδης, ἡδονῶν ἥτλων, ἀκρατὴς, ἀκράτως, ἀλόγιστος, μισάνθρωπος, ἄδικος, ἄβουλος, ἄνισος, ἀνόσιος, ν. ἄκενος, εὐκόλος, εὐμετάβολος, εὐεξαπάτητος, ῥάδιος, ἀνήμερος, ἐπιθυμίαις ἐνδιδοὺς, ἀκόλαστος, ὑβριστής, πολεμοποιός, βαρὺς, ἐπαχθὴς, ἀκάθεκτος, ἀφόρητος.**
+
+**The vituperation of a Tyrant thus express**: Tyrannical, cruel, feral, violent, possessor of another's, lover of money, avaricious, rapacious, devourer of the people's things (**Plato** calleth Princes *guardians of the Republic, that they be this to the fatherland which dogs are to a flock. But if the dogs are turned into wolves, what may be hoped for the flock? Then not fathers, but enemies of their citizens must they be called. And rightly **Trajan** used to say: The chamber of Princes is like the spleen, which growing by exactions, the remaining limbs waste away. The flock therefore must be shorn, not skinned. Foul is the voice of **Vespasian**: A good lucre is the odour from any thing. Honester is that of **Aristotle**: The greatest goodness in a prince is to abstain from the moneys and possessions of subjects. And in Ecclesiasticus it is written: The bread of the needy is the life of the poor; who takes away bread in sweat, is as one who slays his neighbour. But it happens most often, as today from the expenses of the needy is served the pride of the rich; and not only by persuasion but by force the blood of the poor is elicited — which how long is going to preserve some felicity we shall experience by our evil), proud, elate, difficult of access, fierce in access, saluting little, hearing few, iracund, sad, stupid, austere, less than pleasures, incontinent, immoderate, abusing reason, inhumane, unjust, without counsel, iniquitous, impious, lacking mind, light, inconstant, easily deceivable, precipitate, unmerciful, given to cupidities, incorrigible (**Antigone**: *To a Tyrant it is lawful to say and do what he willeth, no one prohibiting*), injurious, author of wars (*"No faith, no piety, in men who follow camps"*), heavy, troublesome, unbridled, intolerable (whom subjects hate on account of tyranny — and who have in mouth that: *"Let them hate, provided they fear"*).
+
+These things from **Pollux** it hath pleased [me] to report. But since we too have fallen into such times in which *the denominations of tyrants* are everywhere exercised, we ought to acknowledge our sins and patiently to bear common calamities, mindful of the saying: *Not only to good, but also to evil lords be ye subject* (1 Pet. 2). Likewise: *Vengeance is Mine, and I will retribute in time.* Also we ought to ask of God that He rule the hearts of the Magistrate. For *the heart of the King is in the hand of the Lord; whithersoever He shall will, He shall bend it* (Prov. 21).
+
+### Ferrandus of Carthage — Seven Rules for a Christian Prince.
+
+There is extant a little book of ***Ferrandus, deacon of the Church of Carthage***, who a thousand and sixty years ago was ***σύγχρονος*** (contemporary) of **Fulgentius** the Bishop in Africa. In that little book is shown *of what sort ought to be a Christian Duke and Prince*, and these seven rules are set forth:
+
+1. **Establish nothing without God's grace and help, and refer all things to the glory of God.**
+2. **Let thy life be a mirror to subjects.**
+3. **Wish not only to preside but preside — both through thyself and through others — nor prefer private honour to public commodity.**
+4. **Love the Republic as thyself.**
+5. **Prefer divine to human [things].**
+6. **Be not too much just and wise** (Eccl. 7).
+7. **Remember that ye are Christian.** Thus both in this life and in the eternal life ye shall live happily — where to Christian leaders shall be given perpetual principate.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
