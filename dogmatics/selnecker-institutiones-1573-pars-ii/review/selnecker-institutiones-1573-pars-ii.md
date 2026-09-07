@@ -8109,3 +8109,796 @@ Even though **immortality shall be common to the pious and impious**, yet the *e
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## INDEX RERVM ET VERBORVM MEMORABILIVM IN SECVNDA CLASSE
+
+### Succinct Index of Things and Memorable Words in the Second Class.
+
+### A
+
+| Lemma | Folio |
+|---|---|
+| **Abimelech** — regal appellation | 638, 632 |
+| **Abraham** — how liberated from idolatry | 287 |
+| **Abraham** — father of faith | 248 |
+| **Abrech** — what it means | 638 |
+| **Absolution** — private, what it is | 223 |
+| **Accidia** — what it is | 215 |
+| **Accidia** — species | 216 |
+| **Actions** — six causes of human actions | 314 |
+| **Actions** — of various men produce various effects | 281 |
+| **Adiaphora** — what they are | 569 |
+| ***Advenire regnum Dei*** — what it means | 408 |
+| **Adverbs**: *Verè, Corporaliter, Substantialiter, Realiter* — their use in the Supper | 511 |
+| **Adulterers** — punished with head [i.e. capital penalty] | 625 |
+| **Confession of the sick** | 218 |
+| **Egyptian Prince's image** — how they made it | 620 |
+| **Egyptian judges' oath** | 608 |
+| **Equality** — consonant with justice | 640 |
+| **Ages of the world** — seven | 576 |
+| **Kingdom of eternal power** | 227 |
+| **Mode of acting** in man | 307 |
+| **Agesilaus** — commanded his sons to learn two things | 608 |
+| **Alien faith and prayer** — what they effect | 255, 256 |
+| ***Amen*** — what it signifies | 429 |
+| **Conjugal love** — is image of the covenant between Christ and the Church | 651 |
+| **Anabaptists' figment** | 311 |
+| **Anabaptists' error** on the ministry | 450 |
+| **Anabaptists' error** on infants' Baptism | 479 |
+| **Animal man** — what | 285 |
+| **Antigonus and Agesilaus** — their government | 618 |
+| **Antinomians' arguments** establishing that the law is to be extirpated from the Church | 13, 14 |
+| **Antiochus King** — too much given to huntings | 627 |
+| ***ἀντίτυποι*** — what they are and how used in the Supper | 496 |
+| ***ἀντίτυπον*** sacrifices — which | 589 |
+| **Aptitude** of man in spiritual things | 295 |
+| **Aptitude** — whether unto grace | 286 |
+| **Water** — why applied in Baptism | 461 |
+| ***Aſam*** in Hebrew, what it is | 586 |
+| **Christ's ascension into heaven** — how understood | 521 |
+| **Assent** of man — how it has itself | 304 |
+| **Attrition and contrition** — how they differ for the Papists | 211 |
+| **Avarice** — species | 216 |
+| **Hearers** — what they owe to Bishops | 272 |
+| **Augustine** — liberated by his mother's prayers from the Manichaean sect | 256 |
+| **Augustus** — saluted father of the fatherland by Messala | 623 |
+| **Court** — description | 619 |
+| **Ausonius' saying on μετάνοια** | 190 |
+| ***αὐτεξούσιον*** — what it is in Greek | 279 |
+| ***αὐτεξούσιον and προαίρεσις*** — how they differ | 283 |
+
+### B
+
+| Lemma | Folio |
+|---|---|
+| **Staff of bread** — what | 415 |
+| **Word of Baptism** — what it signifies | 456 |
+| ***βαπτίζειν*** — what | ibid. |
+| **Definition of Baptism** | 457 |
+| **Institution of Baptism** | ibid. |
+| **Efficacy of Baptism** | 458 |
+| **External sign of Baptism** | 461 |
+| **Words of Baptism weighed** | 461, 462 |
+| **Mode of baptising** | 464 |
+| ***Baptizare*** — what | ibid. |
+| **Author of Baptism** | 466 |
+| **Types of Baptism** | ibid. |
+| **Baptism succeeded in place of Circumcision** | 468 |
+| **Baptism of Christ and of John** discerned | 470 |
+| **Baptism** — unto what instituted | 471 |
+| **Fruits of Baptism** | 473 |
+| **Significations of Baptism** | 474 |
+| ***Basar or Bisar*** — what in Hebrew | 461 |
+| **Blessed is he who is always cautious** | 655 |
+| **Wars of the Church** | (unlisted folio) |
+| **War** — what | 625 |
+| **Divine blessing** — in the invocation of each | 272 |
+| ***Biderman/German*** — the name | 642 |
+| **Good works** — what they are | 176 |
+| — which are to be done | ibid., 234 |
+| — how they can be done | 235 |
+| — how they please | 177, 236 |
+| — how necessary | 157, 237 |
+| — whether necessary for salvation | 178 |
+| — whether pernicious for salvation | ibid. |
+| **Double goods to be sought from God** | 388 |
+| **Promises of corporeal goods** — for what causes delivered | 414 |
+| — what conditions are to be added to promises | 416 |
+| **Corporeal goods** — why to be sought | 414 |
+| **Evil mixed with good** | 348 |
+| **Good not contaminated by commerce with evil** | 348 |
+| **Doctrine of good works** — more full | 233 |
+| ***Busse*** — penitence, said by Germans | 189 |
+
+### C
+
+| Lemma | Folio |
+|---|---|
+| **Causes of calamities** | 225 |
+| **Calvin and Carlstadt's sentence** on the Words of Institution | 513, 514 |
+| **Vocable of capacity** — how it has place in the Church | 298 |
+| **Capacity in man is only passive** | 306 |
+| **Capacity for grace** — whether it can be ascribed to man | 287, 298, 299 |
+| **Head of the Church** — Christ | 364, 366 |
+| **How Christ's head is said to grieve** | 367 |
+| **Ratio of works of charity** | 265 |
+| **Carlstadt** described by Philip [Melanchthon] | 533 |
+| **Catholic** — why the Church is so called | 360 |
+| **Ceremony** — what | 560 |
+| ***Chezek Cofal*** — what in Hebrew | 67 |
+| **True sacrifices of Christians** | 591 |
+| **Christ's actual justice** — whether by it we are passively just | 171 |
+| **Christ** — to be sought among the known and the kin | 200 |
+| **Kingdom of Christ** — what and how manifold | 227, 363, 408 |
+| **Christ's power in heaven and earth** | 229 |
+| **Christ in Hebrew is called Moschel** | 363 |
+| **Christ head of the Church** | 364, 366 |
+| **To Christ according to divine or human nature adoration befitteth** | 399 |
+| **Christ** — whether equal to God in human nature | 401 |
+| **Flesh of Christ** — whether creature, and whether adorable | 404 |
+| **Christ** — why willed to be baptised | 472 |
+| **Christ** — why willed to be circumcised | 582 |
+| **Body of Christ** — how truly and substantially present in the Supper | 526 |
+| **Body of Christ** — whether ubique | 520 |
+| **Circumstances aggravating sins** | 217 |
+| **Doctrine of Circumcision** declared | 574 |
+| **Circumcision** — what, and why done on the eighth day | 575 |
+| **Circumcision** — why instituted | 577 |
+| — whether it justifieth | 579 |
+| **Circumcision of the Jews** — how done | 580 |
+| — why enjoined only on males | ibid. |
+| **Circumcision of Spirit and letter** | 582 |
+| **Vocable of co-adoration** — whence rightly used concerning Christ | 403 |
+| **Celibate** — how to prepare themselves | 652 |
+| **Vocable of "heavens"** in the Lord's Prayer — what | 397, 398 |
+| **Cemeteries** — whence named | 657 |
+| **Lord's Supper** — what it is | 484 |
+| **Matter of the Lord's Supper** | 489 |
+| — form and instrument | 489 |
+| **Lord's Supper** — why instituted | 490 |
+| **Why we should often accede to the Supper** | 492 |
+| **Institution of the Lord's Supper** | 487, 596 |
+| **Simple and true intellect of the Words of Institution** | 500 |
+| **Lord's Supper** — for what it confirmeth | 501 |
+| **Lord's Supper** — why called a sacrifice | 503, 595, 602 |
+| ***Colil*** — what in Hebrew | 585 |
+| **Office of preachers** | 272 |
+| **Various discourses of Prophets** | 310 |
+| **Mutual condoning of sins** — why to be done | 422 |
+| **Confession** for Papists — what, and how divided | 211 |
+| **Confession of the sick** | 218 |
+| **Confessor** — of what sort | ibid. |
+| **Penalty to be imposed on the confessing** | 221 |
+| **Rite of private confession** — why in our Churches retained | 221 |
+| **Twofold confession** | ibid. |
+| **Sacrament of Confirmation** and rite | 453 |
+| **Merit of congruum and condignum** — what | 251 |
+| **Merit of congruum and condignum** — nothing | 252 |
+| **Marriage** — whether interdicted to priests | 449 |
+| **Doctrine of marriage** explicated | 648 |
+| **Definition and ends of marriage** | 649 |
+| **Consolations of pious spouses** | ibid. |
+| **Conjugal love** — is image of the covenant between Christ and the Church | 650 |
+| **Conscience** — what | 276 |
+| **On conscience from Scripture** — how to discourse | 277 |
+| **Good conscience** — what it profiteth Christians | 278 |
+| **Consolation** to be opposed to calamities | 225 |
+| **Doctrine of contracts** | 639 |
+| **Species of contracts** | 645 |
+| **Parts of contrition** | 122 |
+| **Contrition** — legal and spiritual — how to be conquered | 207 |
+| **Contrition** — how defined by Papists | 211 |
+| **Discrimination of contrition and attrition** made by Papists | ibid. |
+| **Conversion of man** — how it happeneth | 86 |
+| **Conversion of man requireth assent** | 162 |
+| **Conversion of man** — whether merely passively | 292, 300 |
+| ***Copher*** among Hebrews — what | 590 |
+| **Cornelius** — whether by free will prepared himself for God's grace | 175 |
+| **Description of human body** | 656 |
+| **Utility of the cross** | 226 |
+| **Fountains of sins** | 215 |
+| **Evil of guilt** | 318 |
+| **Remission of guilt from remission of penalty** distinguished | 224 |
+| **Care licit and illicit** — discerned | 653 |
+
+### D–E
+
+| Lemma | Folio |
+|---|---|
+| **David's penitence** | 205 |
+| **We are debtors of God** — and what are debts | 417, 418 |
+| **Garments of decorum** | 2 |
+| **Degeneration of all things** | 199 |
+| **Demetrius' exhortation to Ptolemy** | 611 |
+| **Examples of despair** | 338 |
+| **Divine determination** — on what it depends | 328, 332 |
+| **God pre-admonisheth before He punisheth** | 197 |
+| **God efficacious through Word and Sacraments** | 439 |
+| **God's longanimity** | 200 |
+| **Devil to be contemned by true faith** | 208 |
+| ***Δίκαιον καὶ δικαστής*** — whence derived | 642 |
+| **Love and hatred of God** — to whom they happen | 60 |
+| **Deluge pre-announced by Noah** | 198 |
+| **Deluge, the type of Baptism** | 467 |
+| **Discipline** — for what causes necessary | 283 |
+| **Discipline necessary among the Regenerate and non-Regenerate** | 299 |
+| **Ecclesiastical discipline** — what and how manifold | 300 |
+| **Christian doctrine** — two chief parts | 11 |
+| **Grieving Christ's head** — how said | 367 |
+| **Sorrow for sins — twofold** for Papists | 211 |
+| **Domestic Table** of piety and morals | 272 |
+| **Dominion of Ecclesiastical things** — to whom it pertaineth | 616 |
+| **Donatists' error** on ministry | 450 |
+| **Donatists' error** on discerning fellowship with the evil | 356 |
+| **Gift distinguished from grace** | 97, 141 |
+| **Papists' doubt on God's grace** refuted | 106, 186 |
+| **Eberhard of Württemberg** — his government of what sort | 618 |
+| ***Ecclesia*** — what the word signifies | 346 |
+| **Definition of the Church** | 347 |
+| **Church** — whether visible or invisible | ibid. |
+| **Church** — whether without spot or wrinkle | 349 |
+| **Church** — why God permitteth evil to be mixed in | 355 |
+| **Church before and after the Fall** | 358 |
+| **Church militant and triumphant** — how they differ | 359 |
+| **That the true Church here** | ibid. |
+| **Church** — why called Catholic | 360 |
+| **Signs demonstrating the true Church** | ibid. |
+| **Doctrine of the Church** | 362 |
+| **Governance of the Church** | 363 |
+| **Church is a spiritual kingdom** | 364 |
+| **Head of the Church — Christ** | 364, 367 |
+| **Administration and effect of the Church** | 366 |
+| **Ecclesiastical power** — what and how manifold | 368 |
+| **Primacy of the Roman Church refuted** | 370 |
+| **Ecclesiastical ministry** — where and why so called | 372 |
+| — in what things it is versed | 373 |
+| — Scope of the Ecclesiastical ministry | 374 |
+| **Church** — whether its authority is greater than the Gospel | 378 |
+| **Church** — why revenues are needed | 615 |
+| **Dominion of Ecclesiastical revenues** — to whom it pertaineth | 616, 646 |
+| **God pre-admonisheth us by dire eclipses** | 198, 501 |
+| ***Edo*** — what in Hebrew | 346 |
+| **Efficacy of the merits of the man constituted in grace** | 255 |
+| **Election of Jacob and rejection of Esau** — how it stands | 60 |
+| **Mode of revealed election** and objections opposed | 115, 116 |
+| ***ἔλεγχος*** — what | 81, 150 |
+| **Enumeration of sins** | 217 |
+| ***ἐπερώτημα*** — what | 477 |
+| **Epicureans** — what cause of evils and goods they constitute | 313 |
+| **Office of Bishops** | 272 |
+| ***ἐπιστεῖ*** — what it signifieth | 413 |
+| **Errors of adversaries against the doctrine of justification** are assigned | 181 |
+| **Errors of Papists** against the doctrine of penitence | 210 |
+| **Three errors in the Church to be shunned** | 243 |
+| **Papal errors on Baptism** | 478 |
+| **Virtues and works of the Ethnics** | 236, 253 |
+| **Ethnics' invocation** — of what sort | 381 |
+| **Vocable of Gospel** — what it signifies | 1 |
+| **Definition of the Gospel** — cause | 8 |
+| **Discrimination of Gospel and Law** | 24 |
+| **Gospel's promise** | 26 |
+| **Objects of the Gospel** | 27 |
+| **Norm of the Gospel** — in what things it consists | 341 |
+| **Eucharist** — what | 484 |
+| **Eucharistic sacrifices** | 587, 591 |
+| **Exclusive "sola" equivalent particles** | 13, 152 |
+| **Exclusive particle** — why to be retained | 21, 153 |
+
+### F–H
+
+| Lemma | Folio |
+|---|---|
+| **Properties of false Doctors** | 5 |
+| **Species of pride (fastus)** | 215 |
+| **Happy administration of polities requireth three things** | 617 |
+| **Ferrandus' book on the Christian Prince** | 639 |
+| **Faith imputed unto justice** | 52 |
+| **Definition of faith** | 81, 143, 145, 147 |
+| **Faith is a work and gift of God** | 82 |
+| — cause of faith | 82, 159, 160 |
+| **Faith** — whether any part is in our power | 82 |
+| **Objects of faith** | 88, 104, 145 |
+| **Faith** — why our justice is ascribed to it | 89 |
+| **Only by faith** — why we are said to be justified | 21 |
+| **Certitude of justifying faith** | 101 |
+| **Object of faith** — whether stable or not | 200 |
+| **Faith** — whether it signifies firm and certain confidence | 103 |
+| **What true faith is** | 104 |
+| **Nature of faith** | 106 |
+| **Probation and examination of pious faith** | 107 |
+| **Faith the gift of God** | 126 |
+| **Fruits of faith** | 128 |
+| **Apprehensive and quietative faith** | 144 |
+| **Object of justifying faith** | 145 |
+| **Definition of the justice of faith** | 157 |
+| **Faith formed by charity** — whether by it we are justified | 249 |
+| **Alien faith** — what it effecteth | 256 |
+| **Faith** — whether it makes the Sacrament | 527 |
+| **Francis Spira's desperation** | 338 |
+| **Vocation of the Gentiles** — of what things it admonisheth us | 230 |
+| **Glorying of good conscience** | 278 |
+| **Vocable of grace** used in threefold sense in Scripture | 26, 27, 130 |
+| **Division of grace given by Augustine** | 28 |
+| **Special grace** — subdivision | 29 |
+| **Grace making pleasing, and given gratuitously** | ibid. |
+| **Operating and cooperating grace** | 100 |
+| **Grace and gift through grace** | 140 |
+| **Kingdom of grace and glory** | 228 |
+| **First grace** of Papists | 247 |
+| **Thanksgiving** — what | 382 |
+| ***Gräber*** in German | 658 |
+| **Gregory of Pontus** instituted satisfaction for penitents and those to be received | 213 |
+| **Governance of polities** — happy requires three things | 617 |
+| **Species of gluttony (gula)** | 216 |
+| ***Hataph*** in Hebrew — what | 586 |
+| **Hippolytus** on the oath | 619 |
+| ***Hoc est Corpus meum*** — what sort of predication | 507 |
+| **Whole-burnt-offering** — what | 585 |
+| **Man** — what | 73 |
+| **Man before and after conversion** — how far he can obey God's law | 260 |
+| **Man is neighbour to man** | 266 |
+| **Various actions of man for various respect** | 281 |
+| **Animal man** — what | 285 |
+| **Man** — what he can before conversion | 286 |
+| — what he does in the act of conversion | 287 |
+| **Luther does not admit man's definition in divine things** | 288 |
+| **Man** — whether in conversion he has himself passively | 291 |
+| **Regenerate man** — what he can after conversion | 292 |
+| **Aptitude and capacity of man in spiritual things** | 295, 304 |
+| **How man has free will** | 299 |
+| — whether he has himself merely passively in extending external discipline | ibid. |
+| **After the fall in nature he can do nothing by natural strengths, is not capable of God's grace, has himself purely passively; sinneth necessarily so long as he is without Spirit** | ibid., 304 |
+| **Man has not himself passively; the resisting is converted** | 300 |
+| **Man is drawn to conversion** | 301 |
+| **Non-regenerate man has enslaved will in spiritual things** | 302 |
+| **Man is an irrational animal in spiritual things** | 306 |
+| **Old and new man** — how they are discerned | 308 |
+| **Honour due to the Magistrate** | 632 |
+| **Spiritual hosts** — which | 236 |
+
+### I
+
+| Lemma | Folio |
+|---|---|
+| **Epistle of James** — the Fathers called it *spurious and adulterine* | 183 |
+| **Idol** — what | 64 |
+| **Various causes of fasting** | 220 |
+| **Jesuits' dogma on God's grace** | 28 |
+| ***Iezer*** — faith is called | 147 |
+| ***λαικά*** sacrifices | 585 |
+| ***λασνειος*** vocable explicated | 582 |
+| **Illustrious** — why governors are so called | 608 |
+| ***Imperium δεσποτικῶς*** and *βασιλικῶς* — how they differ | 283 |
+| **Imposition of hands** in ordination | 448, 454 |
+| **Imputation** — whence taken, and how used in sacred writings | 44, 164 |
+| **Definition of imputation** | 47, 165 |
+| **By imputation** — how we are just, since it is not a positive thing | 51, 167 |
+| **Imputation of justice** — which by nature is evil, whether it is just | 53 |
+| **By imputation and inchoation we are just** | 54, 169 |
+| **Our imputation and Christ's commutative** | 166 |
+| ***In, Sub, and Cum*** — particles in the Supper — how to be used | 510 |
+| **Inchoation, regeneration, and imposed new-life** — whether it is part of the justice by which we consist before God | 55 |
+| **Temptations of unworthiness** | 344 |
+| **Manducation of the unworthy** — and who are the unworthy | 526 |
+| ***Inducere in tentationem*** — what | 424 |
+| ***Indurandi*** word — how used | 64, 335 |
+| **Mention of "hardening" made six times in Pharaoh's History** | 66 |
+| **Hardening** — whether happeneth by God willing | 68 |
+| **Infants dead before Baptism** | 439 |
+| **Infants who die before Baptism** — whether damned | 479, 584 |
+| **Infants dead before Circumcision** — whether damned | 584 |
+| **Species of envy** | 215 |
+| **Discrimination of true and Ethnic invocation** | 380 |
+| **Two parts of invocation** | 381 |
+| **Invocation of Saints refuted** by arguments | 383 |
+| **Invocation** — why to be tributed to God alone | 384 |
+| **John's Baptism differs from Christ's Baptism** | 471 |
+| **Species of wrath** | 215 |
+| **Israelites' journey through the Red Sea** is type of Baptism | 468 |
+| **Jews' Circumcision** — how done | 580 |
+| **Rite of oath** — of placing the hand under the thigh — what it denoted | 437 |
+| **Two Jurisconsults contending before Alfonso** | 612 |
+| **Right** — what, and who is called just | 640 |
+| **Vocable of justice** takes triple sense | 31, 133 |
+| **Justice of faith described** | 31, 134 |
+| **To be justified** — what | 32 |
+| **Justification of man unto eternal life is comprehended in six things** | 43 |
+| **Justice ought to be a positive thing** | 51, 166 |
+| **Justice** — what it be that we ought to bring before God | 54 |
+| **Justice justifying** | 55 |
+| **Justification of man is done gratuitously through redemption made by Christ** | 57 |
+| **Justification of man is established by arguments taken from the Epistle to the Galatians** | 77 |
+| **Our justice** — why is ascribed to faith | 82 |
+| **To be justified by faith alone** — why we say | 27 |
+| **Fruits of justice** | 128 |
+| **Fruits of justice** — whence sought | 129 |
+| **Universal and particular ethical justice** | 135 |
+| **Justification in what predicament** | 137 |
+| **Justice of God in the Article of justification** — what | 158 |
+| **Causes of justification** | 160, 249 |
+| **Our justice** — is passive | 167 |
+| **Christ's actual justice** — whether by it we are passively just | 171 |
+| **No one is justified by works** | 257 |
+| **Justice of person and of cause** | 264 |
+| **Common office of youth** | 275 |
+| ***καλέω*** — whence derived | 346 |
+| ***Kohol*** in Hebrew — what | ibid. |
+| **Vocable of κοινωνία** — how used by Paul | 512 |
+| ***Koschoch*** in Hebrew — what | 66 |
+
+### L–M
+
+| Lemma | Folio |
+|---|---|
+| **Appellations of Law** | 43 |
+| **Law** — why it is to be assiduously taught in the Church | 12 |
+| **Causes and effects of the moral Law** | 11, 26 |
+| **Christ fulfilleth the Law in four modes** | 23 |
+| **Discrimination of Law and Gospel** | 23, 24 |
+| **Promises of the Law** | 25 |
+| **Comminations** | 26 |
+| **Objects of the Law** | ibid. |
+| **Use of the Law** | 130 |
+| **The Law obligeth either to obedience or to penalty** | 172 |
+| **By works of the Mosaic Law no one is justified** | 174 |
+| **Whether by the name of "law" and "works" in Paul only ceremonies are understood** | ibid. |
+| **How far man can obey God's Law before and after conversion** | 260 |
+| **Laws ought to agree with the Word of God and the law of nature** | 623 |
+| **How new laws are to be imposed on subjects** | 624 |
+| **Freed** — how from evil | 427 |
+| **Office of children** | 274 |
+| **Free will** — what | 279 |
+| — whether and how far man has free will | 280 |
+| **Free will is considered according to four grades of human actions** | 282 |
+| **Cause of the freedom of human will** | 283 |
+| **Word of free will** — whether it is to be retained | 295 |
+| **Free will is a mere title, and after the fall is nothing** | 298 |
+| **Free will remaining in man** | ibid. |
+| **Free will** — how man has it | 299 |
+| **Christian liberty** — what | 309 |
+| **Four grades of Christian liberty** | ibid. |
+| **Libertines' figment** | 311 |
+| **Studies of tongues** necessary for Governors | 611 |
+| **Letter and Spirit** — what | 445 |
+| **Species of livor** | 215 |
+| ***λογική λατρεία*** — what | 502 |
+| ***λογίζεσθαι*** — what | 45, 81 |
+| **God's longanimity** | 200 |
+| **Causes of God's longanimity** | 201 |
+| **Luther's prophecy about his books** | 72 |
+| **How Luther understood God's justice in Paul** | 168 |
+| **Luther does not admit man's definition in divine things** | 288 |
+| **Species of luxury** | 216 |
+| **Political Magistrate** ordained by God Himself | 603, 606 |
+| **Offices of the Magistrate** | 606, 613 |
+| **Gravity and difficulty of the Magistrate** | 607 |
+| **Power of the Magistrate** — in what things it consists | 623 |
+| **Magistrate** — how new laws must be imposed on subjects | 624 |
+| **Magistrate** — how far he has right in the goods of subjects | 626 |
+| **Magistrate** — whether recreations of soul are to be conceded | 627 |
+| **Origin of the Magistrate** | 629 |
+| **Sins of the Magistrate** | 631 |
+| **Office of Magistrate** | 273 |
+| **What subjects owe to Magistrates** | ibid. |
+| **Evil of guilt and evil of penalty** — what | 318, 429 |
+| **Evil mixed with good** | 348 |
+| **The good not contaminated by association with the evil** | ibid. |
+| **Evil in the Church** — why mixed | 355 |
+| **The evil by which the Church is pressed, and by which the impious are afflicted**, must be discerned | 427 |
+| **Manasseh's penitence** | 206 |
+| **Manducation of the Body and Blood** — how understood | 524 |
+| **Threefold manducation** | 526 |
+| **Manducation of the unworthy** | ibid. |
+| **Fruits of manducation** | 530 |
+| **Manicheans' Epistle of their Foundation** | 378 |
+| **Manicheans' errors on the political Magistrate** | 604 |
+| **Imposition of hands** in ordination | 447, 454 |
+| **Husbands' office** | 274 |
+| **Vocables of wages and merit** — how used in the Scriptures | 245 |
+| **Merit of congruum and condignum** — what | 251 |
+| **Discrimination of wage and merit** | 252 |
+| **Merit of congruum** — whether it is | ibid. |
+| **Merit of condignum is not** | 253 |
+| **Efficacy of the merits of man constituted in grace** | 255 |
+| **Word of merit** — why sometimes the Fathers use it | 182, 252 |
+| ***μετανοεῖν*** — what | 189 |
+| ***μετανοίας and μεταμέλους*** — discrimination | 190 |
+| ***Minha*** in Hebrew — what | 587 |
+| **Ministry of the Word and Sacraments** — through which the Son of God is efficacious | 232 |
+| **Ministers of God and Ministers of the Church** — who | 365 |
+| **Ecclesiastical ministry** — where and why so called | 372 |
+| — in what things it is versed, and what is its scope | 374 |
+| **Dignity and efficacy of the Ecclesiastical ministry** | 445 |
+| **Works of mercy** | 220 |
+| **Word "Mass"** — what it signifies, and its various etymology | 594 |
+| **Dogma of the sacrificers on the Mass, and its refutation** | 595, 596 |
+| **Delicts of the Missarii** | 597 |
+| **Mode of acting in man** | 307 |
+| **Imposition of hands** in ordination | 447, 454 |
+| **Figment of the monks** | 311 |
+| **Monica prays for her son Augustine** | 256 |
+| **Corporal death** — what, and what is to be said thence | 656 |
+| **Fourfold death** | 658 |
+| **From death** — why not to be shrunk | 659 |
+| **Encomion of music** | 209 |
+| **Mutuum to be contributed** | 643 |
+| **Naturally acting** — how they differ from voluntary | 122, 282 |
+| **Natural things** — whether they be integral | 298 |
+| **Property of the natures is to be retained** | 517 |
+| **Neapolitan war** — execrable fact | 435 |
+| **Necessity twofold, absolute and conditional** | 118 |
+| **Four grades of necessity** | 120 |
+| **Necessity of works** — by what arguments it is impugned | 238 |
+| **Stoic necessity errs in two ways** | 316 |
+| **Neratius mocked the law of the Twelve Tables** | 624 |
+| **Nero the diabolical organ** | 608 |
+| **Name of God** — what it signifies | 406 |
+| **Norm of the Gospel** — in what things it consists | 341 |
+| **New man** — what | 308 |
+| **New Testament** — what | 28 |
+| — why it is called new | ibid. |
+| **Glory of the New Testament** — manifold above the Old | 29 |
+| **Why Paul calleth justice "newness"** | 240 |
+
+### O–P
+
+| Lemma | Folio |
+|---|---|
+| **Obedience due to the Magistrate** | 632 |
+| **Immature deaths of praestant men** | 198 |
+| **On the eighth day** — why circumcision was done | 576 |
+| **Hatred and love of God** — to whom they happen | 60 |
+| **Oecolampadius's sentence** on the Words of Institution | 513 |
+| ***Oleh*** in Hebrew — what | 585 |
+| **Works** — do not concur with faith in justification | 155 |
+| **By works of the Mosaic Law no one is justified** | 173 |
+| **Whether by "works" and "law" in Paul only ceremonies are understood** | ibid. |
+| **Good works** — what they are | 176 |
+| — which are to be done | ibid., 235 |
+| — how they can be done | 176, 235 |
+| — how they please God | 177, 235 |
+| — why to be done, and how necessary | 177, 237 |
+| — whether necessary for salvation | 178 |
+| — whether pernicious for salvation | ibid. |
+| **Works of mercy** | 220 |
+| **Doctrine of works** — more full | 233 |
+| **Necessity of works** — by what arguments impugned | 237 |
+| **Promises added to works** — whether true | 240 |
+| — why God added promises to good works | 241 |
+| **By works no one is justified before God** | 246 |
+| **Works of the regenerate are called justice** | 248 |
+| **Merit of salvation cannot be attributed to works** | 254 |
+| **Works of supererogation** | ibid. |
+| **Why no one is justified by works** | 257 |
+| **Ratio of works of charity** | 265 |
+| **Works of the Holy Spirit** | 308 |
+| **Alien prayer** — what it effects | 255, 256 |
+| **Prayer** — what | 379 |
+| **Eyes in praying** — why they are lifted upwards | 380 |
+| **Prayer** — with what affect of soul it should be made | 387 |
+| **Excellence and order of the Lord's Prayer** | 388 |
+| — its disposition | 391 |
+| **Those wishing to pray efficaciously** — of what sort they should be | 394 |
+| **Prayer of subjects for the Magistrate** | 633 |
+| **Ordinary succession of Bishops** — whether it is a sign of the Church | 360 |
+| **Sacrament of ordination** — what it was | 444 |
+| **Rite of ordination** | 447 |
+| **To ordain priests** — whether it belongeth only to Bishops | 448 |
+| **Daily bread** — what | 413 |
+| ***Panis est Corpus Christi*** — what sort of predication | 503 |
+| **Papists defend their scandals with writings** | 573 |
+| **Office of parents** | 275 |
+| **Particularity** — that it hath no place | 127 |
+| **Father** — the whole Trinity is called with respect to men | 393 |
+| **How the Father is said to have begotten the Son to the gallows** | 75 |
+| **Threefold distinction of the sayings of the Fathers** | 376 |
+| **Disposition, parts, and arguments of Paul's Epistles to Romans and Galatians** | 56 |
+| **Enumeration of sins** | 217 |
+| **Sins aggravated by circumstance** | 217 |
+| **Discrimination of sins** | 180, 242 |
+| **Threefold sinners** | 243 |
+| **Remission of sins** — of what things it admonisheth | 420 |
+| **Mutual condoning of sins** — why to be done | 422 |
+| **Pelagius' plots against God's grace** | 28, 141 |
+| **Pelagians' arguments affirming that man can satisfy God's law** | 261 |
+| **Noah's perfection** | 264 |
+| **Penalty of perjury** | 619 |
+| **God's permission** | 412 |
+| **Peter's assiduous tears** | 194 |
+| **Pharaoh** — how hardened | 65 |
+| **Philip Melanchthon's letter** to Myconius | 531 |
+| **Certain phrases of Augustine and Luther** — to be understood with certain respect | 18 |
+| **Papal errors on faith's certitude** | 101 |
+| **Papists' doubt on God's grace** — refuted by arguments | 105, 186 |
+| **Their objections** | 108 |
+| **Papists' errors** against the doctrine of penitence | 210 |
+| **Papal errors on Baptism** | 478 |
+| **Roman Pontiff's primacy refuted** | 370 |
+| **Christ's power in heaven and earth** | 229 |
+| **Practical Syllogism** | 276 |
+| **Predestination** — temptations to be opposed | 70 |
+| **Mode of predestination and revealed election** | 114 |
+| **True doctrine of predestination** — four objects opposed | 115 |
+| **Predestination of God** — what | 324 |
+| **Rules on the doctrine of predestination to be observed** | 324 |
+| **Temptations of predestination** | 330 |
+| **Temptations of predestination** — how to conquer | 344 |
+| **God pre-admonisheth in many ways before He punisheth** | 197 |
+| **Four grades of Divine presence** | 322 |
+| **Presence of Christ's Body and Blood** — to be distinguished from personal union | 508 |
+| **Presence** — what it is, and its efficient cause | 515 |
+| **Mode of presence** | 516 |
+| **Temptation of presumption and probation** — what, and how they differ | 425 |
+| **God's foresight or foreknowledge** | 115 |
+| **God's presence** — whether it fails | 329, 332 |
+| **God's foresight** — to be received in double respect | 125 |
+| **God foresees good in one way, evil in another** | 329 |
+| **Prayer** — what | 382 |
+| **Papal errors on Baptism** | 478 |
+| **A little prayer** | 187 |
+| **Prince** ought to think [these things] | 623 |
+| **Epithets of the good and bad Prince** | 636, 637 |
+| **Rite of private confession** — why retained in our Churches | 222 |
+| **Private absolution** — what | 223 |
+| **Temptation of probation** — what and in how many modes it happens | 425 |
+| **Probation of the pious** — whether they are in faith, and how | 107 |
+| ***αἴρεσις and αὐτεξούσιον*** — how they differ | 283 |
+| ***αἱρετικὸν and προαιροπολικόν*** — how their force differs | ibid. |
+| **Majesty of God's promises** | 106 |
+| **Universal promise** to be defended | 127 |
+| **Promises added to good works** — whether true | 240 |
+| — why God added them | 241 |
+| **Testimonies of the universal promise of grace** | 341 |
+| **Promises of corporeal goods** — for what causes delivered | 414 |
+| **What conditions are to be added to the promises of corporeal goods** | 416 |
+| **Various discourses of the Prophets** | 319 |
+| **Luther's prophecy** | 72 |
+| ***προσωποληψία*** falleth not on God | 73 |
+| **Three German Proverbs** complementing the three parts of penitence | 195 |
+| **Divine providence** — what | 312 |
+| **Testimonies of divine providence** | ibid. |
+| **Three grades of divine providence** | 314 |
+
+### P–R (cont.)
+
+| Lemma | Folio |
+|---|---|
+| **Penitential Psalms** | 207 |
+| **Publican's penitence** | ibid. |
+| **Pigghius' execrable voice** | 449 |
+| **Quaternity in the Trinity is not to be admitted** | 399 |
+| **Christ to be sought among the known and the kin** | 210 |
+| **Complaint of the pious calleth us to penitence** | 127 |
+| **Rector of a school despairing ended his life by a noose** | 338 |
+| **Church** — why revenues are needed | 615 |
+| **Dominion of ecclesiastical revenues** — to whom it pertaineth | 616 |
+| **Rosa's words cited** from an oration | 663 |
+| **Sacrament** — what | 431, 476 |
+| **How Sacrament and Sacrifice differ** | 431 |
+| **Sacrament** and *res* of Sacrament | 439 |
+| **Number of Sacraments defined** | 440 |
+| **General vocable of Sacrament** to be restricted to species | 443 |
+| **Discrimination of Sacraments** | 468 |
+| **Various Sacramentarian interpretations** in the Words of Institution | 513 |
+| **Sacrament** — whether faith makes it | 527 |
+| **Sacraments of the Old and New Testament** — how they differ | 581 |
+| **Six kinds of sacrifices** | 585 |
+| **Sacrifice** — what | 431, 588 |
+| **Typical sacrifices** | 588 |
+| — why they were many | 589 |
+| **True sacrifices of Christians** | 591 |
+| **Penalty of sacrilege** | 646 |
+| **Saints** — whether to be invoked | 383 |
+| **To sanctify** — what | 406 |
+| **Satisfaction** for Papists — what | 211 |
+| **Five grades of satisfactions** | 212 |
+| **Scandal** — twofold, given and received | 573 |
+| **God's eternal knowledge** — in double respect | 330 |
+| ***Schulṭan*** in Hebrew — what | 364 |
+| **Temptation of seduction** — what | 425 |
+| **Sepulture to be instituted honestly** | 660 |
+| **Servetus's saying** | 513 |
+| **Office of servants** | 275 |
+| **Enslaved will of man in spiritual things** | 302 |
+| **Session of Christ at the right hand of the Father** — how to be received | 522 |
+| **Sigismund the Emperor's saying** | 625 |
+| **Threefold signs in Scripture** to be considered | 483 |
+| **Vocables of sign and symbol** — how old they are and if they are in the Supper | 495 |
+| **Distinction of signs** | 496 |
+| **Only by faith** — why we are said to be justified | 91, 153 |
+| — testimonies of this rightly | 22, 93 |
+| **Exclusive "sola" equivalent particles** | 24 |
+| **Solicitude licit and illicit** discerned | 653 |
+| ***Somach*** in Hebrew — what | 147 |
+| **Offices of the Holy Spirit** which He confers upon us | 129 |
+| **Works of the Holy Spirit** | 308 |
+| **Staupitz's consolation** against the temptation of despair | 71 |
+| **Stoic necessity errs in two ways** | 316 |
+| **Stoics' objections** against the doctrine of God's providence | 327 |
+| **Right of the Magistrate in the goods of subjects** | 626 |
+| **Offices of subjects** | 632 |
+| **Prayer of subjects for the Magistrate** | ibid. |
+| **What subjects owe to Magistrates** | 273 |
+| **Ordinary succession of Pontiffs** — whether it is a sign of the Church | 361 |
+| **Species of pride** | 215 |
+| **Works of supererogation** | 254 |
+| **Practical Syllogism** | 276 |
+| **How Synecdoche is posited in the Supper** | 506 |
+| ***συνεργός*** — whether man is [it] in the act of conversion | 288 |
+| **No synergy is in man** | 300 |
+| **Synergy is in regenerate man** | 302 |
+| **Vocable of συνεργία** — how used | 85, 292 |
+| **συνεργία** — whether it signifies cause | 85 |
+| ***σύνοδος*** — what | 346 |
+| **Siricius the Pope** against marriage of Priests | 456 |
+
+### T–Z
+
+| Lemma | Folio |
+|---|---|
+| **Domestic Table** of piety and morals | 272 |
+| ***τέλος*** — what in Greek | 19 |
+| **Temptation** — what and how manifold | 424 |
+| **Temptation and spiritual sadness** — how to conquer | 207 |
+| **Temptation of predestination** — to be opposed | 70, 330 |
+| — how to conquer | 337 |
+| **Temptations of unworthiness** | 344 |
+| **Discrimination of the Old and New Testament** | 27 |
+| ***Thideal*** — what | 632 |
+| ***Thoda*** in Hebrew — what | 587 |
+| **Thomas Aquinas' confession** in agony | 660 |
+| **Fear of God twofold, filial and servile** — what they effect | 193 |
+| **Two kinds of traditions** | 375 |
+| **Man is drawn to conversion** | 302 |
+| **Trajan** — reported freed by Gregory's merits | 257 |
+| **Trajan** handed the sword to the Master of Horse | 608 |
+| — what sort of Emperor he wished to be | 620 |
+| **Papists' transubstantiation** — what, and how to be refuted | 494 |
+| **Tributes** — how far the Magistrate ought to exact | 626 |
+| **Three ends of tributes** | ibid. |
+| **Tridentine Council's thunderbolt** against the doctrine of the Gospel | 24 |
+| **Tridentine Council's decree** on Papal doubt | 105 |
+| **Circumcision of the Turks** — when and how done | 577 |
+| **Type** — whether it has place in the Supper | 498 |
+| **Vituperation of the tyrant** | 638 |
+| **Turkish disaster of Varna** | 619 |
+| **Vessels prepared unto perdition** | 74 |
+| **Vessels of mercy** | 75 |
+| **Ubiquity of Christ's body** | 520 |
+| **Verses on the mode of confessing and doing penitence** | 214 |
+| **Old Testament** — what | 32 |
+| — why called "old" | ibid. |
+| **Old man** — what | 308 |
+| **Verses of the poet Victor** on Abraham | 23 |
+| **Office of widows** | 265 |
+| **Wycliffe** described by Philip | 534 |
+| **Papal unction** | 455 |
+| **Testimonies of the universal promise of grace** | 341 |
+| **Vocation of the Gentiles** — of what things it admonisheth us | 230 |
+| **Vocation of each one** | 268 |
+| **Twofold vocation** | ibid. |
+| **In the vocation of each what is required** | 269 |
+| **Event of vocation, or success** — on what it depends | 273 |
+| **Will of man is not idle** | 302 |
+| **Will of man has not itself purely passively** | 303 |
+| **Companion of the Holy Spirit** | ibid. |
+| **Will of man is unwilling in conversion** | 305 |
+| **Will of God is distinguished in certain species** | 410 |
+| **Will of God is learned in two ways** | 575 |
+| **Will** — whether it can be absolutely called cause of faith and conversion | 82 |
+| — how it is called ***συνεργός*** | 86, 280, 303 |
+| **Voluntarily acting and naturally acting** — how they differ | 122 |
+| **Will of God has a double respect** | 126 |
+| **Will of God immutable** | 68 |
+| **Usury** — whether in loan it can have place | 647 |
+| **Offices of wives** | 274 |
+| ***ὑπόστασις*** — what | 81, 103, 148 |
+| **Zwingli's sentence** on the Words of Institution | 513 |
+| ***Zebah Schelomim*** in Hebrew — what | 587 |
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>END OF SELNECKER, INSTITVTIO CHRISTIANÆ RELIGIONIS · PARS SECVNDA · 1579 JENA.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/><w:color w:val="666666"/></w:rPr><w:t>Translated for The Scholastic Lutherans translation team.</w:t></w:r></w:p>
+```
