@@ -7717,3 +7717,395 @@ Even though **immortality shall be common to the pious and impious**, yet the *e
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## PATRVM SENTENTIAE · The Sentences of the Fathers Brought Forth for the Confirmation of the Passages of the Second Class of Christian Institutions.
+
+### AMBROSE.
+
+| Lemma | Folio |
+|---|---|
+| *He explicateth the words: "On whomsoever He wisheth, He hath mercy; and whom He wisheth, He hardeneth"* | 66 |
+| *The grace of God alone requireth faith unto salvation* | 93 |
+| *Those who believe in Christ do the Law* | 177 |
+| *The capacity of nature is to receive grace* | 303 |
+| *The Church is fair as the Moon* | 350, 351 |
+| *The flesh of Christ is offered for the salvation of the body; the Blood for the soul* | 486 |
+| *The order of nature is not to be sought in Christ's Body* | 519 |
+| *The force of blessing is greater than of nature* | 358 |
+| *The bodies of the rich stink more heavily* | 610 |
+
+### ANSELM.
+
+| Lemma | Folio |
+|---|---|
+| *The death of the Lord is to be objected between man and God's judgment* | 48 |
+
+### ATHANASIUS.
+
+| Lemma | Folio |
+|---|---|
+| *When God hardeneth the hearts of men* | 65 |
+| *Faith alone hath in itself the force to justify* | 93 |
+| *How the Spirit is understood to be in someone* | 451 |
+
+### AUGUSTINE.
+
+| Lemma | Folio |
+|---|---|
+| *The dispensers of the Old Testament, the heirs of the New* | 29 |
+| *The Old Testament pertaineth to the old man, the New to the new* | 30 |
+| *How Pharaoh was hardened* | 66 |
+| *That many perish is of the merit of those perishing; that many are saved is of the Lord who saveth* | 69 |
+| *The Father draweth by teaching* | 82 |
+| *He setteth forth the divisions of grace* | 98 |
+| *Whether God's foresight be the cause of actions* | 116 |
+| *The grace of God both bestoweth and forgiveth* | 128 |
+| *Good works follow the justified* | 156 |
+| *Human justice, compared to Divine, is injustice* | 179, 287 |
+| *God crowneth gifts, not merits* | 182 |
+| *God punisheth few things in this world* | 203 |
+| *God willed to have one betrayer among the twelve* | 204 |
+| *Why God permitteth things so foul to befall in cults and opinions* | 204, 320 |
+| *Nothing know I less than what in confession I know* | 218 |
+| *Faith is like the open mouth of a vessel; infidelity, like the lid* | 291 |
+| *Free will cannot but sin* | 295 |
+| *In the voice of drawing is a great commendation of grace* | 302 |
+| *The sons of God are acted upon, that they may act, not that they may do nothing* | 303 |
+| *Through grace human will is not taken away* | 305 |
+| *Conversion happeneth not with the substance of the soul removed* | 305 |
+| *Why God commandeth some things which we cannot keep* | 306 |
+| *Human nature is capable of justification through God's grace* | 306 |
+| *God in heaven, in earth, and in each is whole* | 323 |
+| *By Baptism Christ cleanseth His Church, that He may present her to Himself without spots in the future* | 353 |
+| *The Church useth all who err for her own progress* | 355 |
+| *He censureth the error of the Donatists* | 356 |
+| *The Church formed from the side of Christ* | 359 |
+| *The sheep of the Church hear the voice of the Church* | 361 |
+| *Christ the Rock, and Peter the Christian people* | 372 |
+| *I would not believe the Gospel unless the authority of the Catholic Church moved me* | 378 |
+| *Prayer without Christ is made a sin* | 383 |
+| *What God the Father-appellation admonisheth* | 396 |
+| *Christ is to be adored as God and man* | ibid. |
+| *How the Will of God is done* | 410, 411 |
+| *Argument against the Donatists* | 452 |
+| *Signs varied, the faith remaining* | 469 |
+| *The Word with the Element maketh the Sacrament* | 488, 600 |
+| *The Body of Christ is truth and figure* | 496 |
+| *Judas the traitor receiveth the good Body of Christ* | 527 |
+| *Visible conversation doth not befit Christ* | 564 |
+| *A Sacrament is the visible form of invisible grace* | 575 |
+| *God willeth the sacrifice of a slaughtered heart* | 591 |
+
+### BASIL.
+
+| Lemma | Folio |
+|---|---|
+| *How God hardened Pharaoh* | 65 |
+| *That by faith in Christ alone one is just* | 92 |
+| *What is proper to faith* | 150 |
+| *He kept Gabriel from heresy in heaven, cast down Satan* | αὐτεξέσιον 283 |
+| *Only wish it, and God preventeth [thee]* | 291 |
+| *What it is to sit at the right hand of God* | 522 |
+| *Let the hope of retribution not adhere to a loan* | 644 |
+
+### BEDE.
+
+| Lemma | Folio |
+|---|---|
+| *By faith one attaineth virtues* | 253 |
+
+### BERNARD.
+
+| Lemma | Folio |
+|---|---|
+| *Hypotyposis of Divine Judgment concerning the tempering of justice and mercy of God* | 33 etc. |
+| *The threefold cord which with difficulty is broken* | 10, 111, 209 |
+| *Three things to be believed* | 174, 260 |
+| *It sufficeth for merit to know that merit doth not suffice* | 182 |
+| *Merits are the way, not the cause of reigning* | 246 |
+| *To have confidence in oneself is not of faith* | 293 |
+| *Take away free will, there shall be no one to be saved* | 297 |
+| *Prayer directed unto the image of Christ* | 405 |
+| *Why Christ was circumcised* | 582 |
+
+### BRENZ.
+
+| Lemma | Folio |
+|---|---|
+| *What free will has of itself* | 296 |
+| *Concerning the vocable *aptitude* one must not quarrel* | 297 |
+
+### CASSIAN.
+
+| Lemma | Folio |
+|---|---|
+| *Christ must not be distinguished from the Body* | 399 |
+
+### CHRYSOSTOM.
+
+| Lemma | Folio |
+|---|---|
+| *When God hardeneth the hearts of men* | 65 |
+| *It is necessary that scandals come* | 116 |
+| *That love without faith avails nothing* | 185 |
+| *When God rejoiceth and is saddened* | 202 |
+| *What the animal man is — he explicates* | 285 |
+| *God draweth the unwilling* | 291 |
+| *ἐγκώμιον of the Lord's Prayer* | 388 |
+| *That we can say "Our Father" is a great gift* | 396 |
+| *God is to be believed everywhere* | 486 |
+| *He compareth corporeal food with spiritual* | 529 |
+| *With the question "How?" straightway ariseth incredulity* | 540 |
+| *Not a small punishment awaiteth those communicating unworthily* | 541 |
+| *The Sacrament sealeth nothing in those who have not faith* | 579 |
+| *We offer the sacrifice of praise through Christ* | 591 |
+| *The wondrous nature of a loan* | 644 |
+
+### CLEMENT.
+
+| Lemma | Folio |
+|---|---|
+| *What σύνεργον is* | 85 |
+| *God's mercy toward us is copious* | ibid. |
+| *God's wrath is the minister of God's mercy* | 203 |
+
+### CYRIL.
+
+| Lemma | Folio |
+|---|---|
+| *Let no one constitute himself Bishop of Bishops* | 370 |
+| *We ask that our evil willing be made good* | 409 |
+| *Bread by God's omnipotence is made flesh* | 546 |
+| *A great sacrifice to God is our peace* | 592 |
+
+### CYRIL (again).
+
+| Lemma | Folio |
+|---|---|
+| *In adoration man and God are not to be divided* | 405 |
+| *God is not subject to the nature of things* | 508 |
+| *"How?" signifieth great arrogance* | 517, 537 |
+| *On the Body of Christ now resurrected* | 519 |
+| *How Christ is the vine, we the branches* | 535 |
+| *That the Body of Christ also vivifieth* | 540 |
+
+### DAMASCENE.
+
+| Lemma | Folio |
+|---|---|
+| *I adore the Divinity of Christ, united to the flesh* | 405 |
+| *Bread and wine are not a Type* | 498 |
+| *Christ is everywhere whole, but not the whole* | 523 |
+
+### EBER.
+
+| Lemma | Folio |
+|---|---|
+| *Rhythms on equality* | 640 |
+
+### EPIPHANIUS.
+
+| Lemma | Folio |
+|---|---|
+| *Christ willed to be circumcised, that He might free us from circumcision* | 582 |
+
+### FULGENTIUS.
+
+| Lemma | Folio |
+|---|---|
+| *God is not confused with man, but united* | 518 |
+
+### GELASIUS.
+
+| Lemma | Folio |
+|---|---|
+| *Those who abstain from the Chalice do not perceive the integral Sacrament* | 487, 488 |
+| *The substance of bread and wine ceaseth not* | 599 |
+
+### GERHARD.
+
+| Lemma | Folio |
+|---|---|
+| *The cognition of predestination is not to be sought outside Christ* | 342 |
+
+### GRATIAN.
+
+| Lemma | Folio |
+|---|---|
+| *He explicateth the passage of John: "The Spirit it is that vivifieth"* | 659 |
+
+### GREGORY.
+
+| Lemma | Folio |
+|---|---|
+| *Why God striketh some and leaveth others unpunished* | 203 |
+| *God abideth within, without, above, and beneath all things* | 322 |
+| *The name Universal Bishop is not to be assumed* | 370, 371 |
+| *The union of the two natures in Christ is not to be plucked apart* | 518 |
+
+### JEROME.
+
+| Lemma | Folio |
+|---|---|
+| *The nature of Divinity is clement* | 201, 202 |
+| *That alien works cannot be applied to the dead* | 257 |
+| *What perfection is to men* | 264 |
+| *The Church without spot shall be in the future* | 353 |
+
+### HILARY.
+
+| Lemma | Folio |
+|---|---|
+| *Faith alone justifieth* | 93 |
+| *The Body of Christ is figure and truth* | 496 |
+| *In divine things one must not speak with human sense* | 544 |
+
+### HYPERIUS.
+
+| Lemma | Folio |
+|---|---|
+| *That the Church is described in Scriptures in a twofold reason* | 349 |
+
+### IGNATIUS.
+
+| Lemma | Folio |
+|---|---|
+| *Definition of the Lord's Supper* | 484 |
+| *The possession of virginity is perilous* | 650 |
+
+### IRENAEUS.
+
+| Lemma | Folio |
+|---|---|
+| *Human flesh is capable of the gift of God* | 307 |
+| *Bread is the Eucharist, consisting of two things* | 494, 557 |
+| *That flesh nourished by the Body of Christ cannot perish* | 557 |
+
+### LUDOLPH THE CARTHUSIAN.
+
+| Lemma | Folio |
+|---|---|
+| *He evolveth the vocable "Father" in the Lord's Prayer* | 395 |
+
+### LUTHER.
+
+| Lemma | Folio |
+|---|---|
+| *How he wisheth his book *On the Bondage of the Will* to be understood* | 70 |
+| *That faith is not solitary* | 95 |
+| *Faith is in no one who is not assiduously working* | 157 |
+| *Delay is made, that the impious may fulfil the measure* | 203 |
+| *God turneth His eyes away even from our virtues* | 248 |
+| *The sum of the justice of man* | 265 |
+| *How far man hath free will* | 280 |
+| *How Abraham was freed from Idolatry* | 287 |
+| *How man sinneth* | 296 |
+| *Why the invocation of Saints is to be disapproved* | 384 |
+| *Christ is adored not as pure man, but as Son of God* | 401 |
+| *Of Christ we must believe in the concrete* | ibid. |
+| *In the Supper Christ is truly received according to substance* | 511 |
+| *How the Will of God is done in the impious as in heaven* | 411 |
+| *He who divideth the substances after the union in Christ, let him be anathema* | 518 |
+
+### MAXIMUS.
+
+| Lemma | Folio |
+|---|---|
+| *The life of a Christian is a Cross and a Martyrdom* | 463 |
+
+### NAZIANZEN.
+
+| Lemma | Folio |
+|---|---|
+| *The salvation of men is the joy of God* | 9 |
+| *How the Egyptian tyrant was hardened* | 65 |
+| *Justice is τὸ πιστεῦσαι μόνον* (to believe only) | 93 |
+| *Verses on meekness* | 204 |
+| *God preserveth not one unwilling* | 291 |
+| *It behoveth Christ to be received by heaven* | 377 |
+| *The efficacy of Baptism dependeth not on the Minister* | 459 |
+
+### ŒCUMENIUS.
+
+| Lemma | Folio |
+|---|---|
+| *He permitteth him who is hard to be hard* | 65, 68 |
+
+### ORIGEN.
+
+| Lemma | Folio |
+|---|---|
+| *The sole glorying of the just is in faith of the cross of Christ* | 93 |
+| *God foreknoweth the future, because [it is] future* | 328 |
+
+### PHILIP [MELANCHTHON].
+
+| Lemma | Folio |
+|---|---|
+| *A solace to the wretched, that Christ is our flesh* | 88 |
+| *He collected the sentences of the Fathers on the Lord's Supper* | 531 |
+| *A chaste God is Mind* | 652 |
+| *Causes why we should not shrink from death* | 558 |
+
+### PHOTIUS.
+
+| Lemma | Folio |
+|---|---|
+| *It sufficeth τὸ πιστεῦσαι μόνον* | 93 |
+
+### POMERANUS [BUGENHAGEN].
+
+| Lemma | Folio |
+|---|---|
+| *How much is to be tributed to free will* | 295 |
+
+### PROSPER.
+
+| Lemma | Folio |
+|---|---|
+| *Free will and faith* | 260 |
+| *Christ is our nature, but has changed its quality* | 305 |
+
+### SCHNEPF.
+
+| Lemma | Folio |
+|---|---|
+| *The works of the little son are pleasing to the good father* | 128 |
+
+### SOCRATES.
+
+| Lemma | Folio |
+|---|---|
+| *Humanity is united to divinity* | 518 |
+
+### TAULER.
+
+| Lemma | Folio |
+|---|---|
+| *That God pursueth us with the highest love* | 9 |
+| *God is avid to give* | 441 |
+
+### THEODORET.
+
+| Lemma | Folio |
+|---|---|
+| *God changeth not nature, but addeth grace to nature* | 571 |
+| *He reciteth the saying of Marcus of Arethusa* | 571 |
+| *When speech is of the Person, τὰ τῶν φύσεων ἴδια become κοινά* | 517 |
+| *He explicateth the saying 1 Cor. 15: "This corruptible must put on incorruptibility"* | 661 |
+
+### THEOPHYLACT.
+
+| Lemma | Folio |
+|---|---|
+| *Bread is not a figure of the Lord's Body* | 499 |
+
+### VULGARIUS [Theophylact].
+
+| Lemma | Folio |
+|---|---|
+| *Why the Flesh of Christ is not seen in the Supper* | 543 |
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
