@@ -4119,3 +4119,187 @@ The same **Gerson** (in the book *On the Spiritual Life of the Soul*, second lec
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:color w:val="B71C1C"/></w:rPr><w:t>FINIS LOCI QVARTI DE ECCLESIA.</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+# Appendix to Locus IV. De Oratione · On Prayer.
+
+First we shall premise brief questions; then we shall subjoin a little explication of the Lord's Prayer. These questions therefore, once written by us for boys, are as follows:
+
+### What is Prayer?
+
+**Prayer is a suppliant elevation of the soul of man unto God — either asking of Him something in the name and confidence of Christ the Mediator, or giving Him thanks for benefits conferred.**
+
+προσευχὴ ἐστὶν ἀνάβασις τοῦ νοῦ πρὸς τὸν θεόν, καὶ αἴτησις τῶν προσηκόντων παρ᾿ αὐτοῦ.
+
+Ps. 25: *Unto Thee, O Lord, have I lifted up my soul.*
+
+Ps. 123: *Unto Thee have I lifted up mine eyes, who dwellest in the heavens.*
+
+### Why do we lift the eyes up to heaven when we pray? Is God up in a peculiar and definite place?
+
+We elevate our hearts and eyes into the heavens in prayer:
+
+- **First**, that we may show ourselves to become suppliants *by a singular fervour of Spirit*, and to prostrate ourselves before the divine Majesty.
+- **Second**, that we may testify that **God, who is everywhere, inhabiteth heavenly and inaccessible light, and in a most holy court governeth all things — and is the omnipotent Lord, filling all, contemplating all, and seeing the recesses of all hearts**.
+- **Third**, that we may show that we seek *heavenly things*, and implore with reverent desire the *celestial help and protection*, and appetite the *life and eternal gladness, and fellowship with the Angels and blessed men*.
+
+### What is the difference between true invocation in the Church, and other Ethnic invocations?
+
+**The true Church knoweth the true essence of God**, and invoketh God the eternal Father, Son, and Holy Spirit — as God hath patefacted Himself. She knoweth also the promises, and acknowledgeth the Mediator, and knoweth that God willeth to be invoked and to hear those invoking Him *by the confidence of the Mediator* — as the Son of God Himself saith: *Whatsoever ye shall have asked the Father in My Name* — that is, *in acknowledgment and invocation of Me* — *He will give unto you.*
+
+But the **Ethnics and the impious know neither the essence nor the will of God**. For they deny this to be God — who is the eternal Father, Son, and Holy Spirit. Then they are ignorant of the promises and of the Mediator, nor do they believe that men are received and heard by God only *on account of the Son the Mediator*.
+
+For it is written: *He who honoureth not the Son honoureth not the Father.* Likewise: *No one cometh unto the Father save through Me.* Likewise: *He who believeth not in the Son, the wrath of God abideth upon him.* And: *This is eternal life, that they acknowledge Thee the only true God, and Him whom Thou hast sent — JESUS — to be Christ.*
+
+**Contra:** *"Everyone invoking God the Creator of heaven and earth, invoketh the true God. The Ethnics invoke God the Author of all things. Therefore they invoke the true God."*
+
+**I answer to the major.** The major is true when *the patefaction of God accedeth*: everyone invoking God the Creator of heaven and earth *as God hath patefacted Himself in the Church*, invoketh the true God. But the minor is quite false. For the Ethnics are ignorant *both of the essence and of the will of God*, and have no faith in the divine patefaction. And although sometimes they say somewhat of invocation — as *Nestor* in **Homer**, *Odyssey* III: *εὔχεθαι, πάντες δὲ θεοὺς χατέουσ᾿ ἄνθρωποι* (*"Pray! for all men have need of the gods"*) — yet they have only certain *legal sayings* on invocation, and know not *how* they ought to invoke God, and *how and why* they are heard. For this the Gospel teacheth: that first is required **faith in Christ**, without which every invocation is a *vain murmur* — which not only doth not take away sin, but even is itself made sin, because it hath no *pre-shining faith*.
+
+### What things doth invocation embrace?
+
+Two things: **prayer** (precatio) and **thanksgiving** (gratiarum actio).
+
+### What is Prayer (precatio)?
+
+**It is, in the Name of Christ, to ask something from God, and certainly to establish that our prayers are received and heard on account of Christ the Mediator — who is our supreme Priest, and beareth our groans unto the Father, and intercedeth for us — that unto us may be given spiritual and corporeal goods.**
+
+### What is Thanksgiving?
+
+**It is to acknowledge that God on account of the Son the Mediator truly loveth us, careth for us, receiveth us, and heareth us, and giveth us present and eternal benefits; and to celebrate His immense power and goodness, and to subject ourselves to Him from the soul; and by our obedience and confession to testify suppliantly and reverently gratitude toward God; and to invite others that they may seek and expect benefits from God.**
+
+1 Thess. 5: *Rejoice always; pray without ceasing; in all things give thanks.*
+
+### How ought we to prepare ourselves for true invocation?
+
+**Five heads are to be considered:**
+
+1. **Whom** we ought to invoke.
+2. **For what causes** we ought to invoke God.
+3. **How and through whom.**
+4. **With what soul and affect.**
+5. **What is to be asked from God.**
+
+### I. Who therefore is to be invoked?
+
+**God alone — omnipotent and καρδιογνώστης (Knower-of-hearts), Father, Son, and Holy Spirit — is to be invoked**, as it is written: *The Lord thy God thou shalt adore, and Him only shalt thou serve.* And John 4, concerning the patefacted God it is written: *We adore what we know.*
+
+### Are the Saints not to be invoked? — Mary, Peter, Paul, and the like.
+
+**By no means. For every invocation which is not directed to the sole God, Father, Son, and Holy Spirit, is *idolatrous*. And the immovable foundations and infallible proofs of this true sentence are four**:
+
+**I.** Every invocation of an invisible thing attributeth to it *omnipotence* — namely, that it is present everywhere, and inspecteth the motions and groans of hearts, and can discern hypocrisy from true invocation. **But God alone is omnipotent and καρδιογνώστης**, as 2 Chron. 6 saith: *Thou alone knowest the hearts of the sons of men.* Therefore God alone is to be invoked.
+
+**II.** *There is one Mediator of God and men, the man Jesus Christ* — deprecator, propitiator, intercessor, applying His merits unto us and hearing our prayers, since He is omnipotent and καρδιογνώστης. This honour due to Christ is not to be snatched away. Therefore invocation by no means belongeth to the saints — which would make them mediators between God and men.
+
+**Augustine:** *Every prayer which is not made through Christ can not only not blot out sin, but even itself is made sin.*
+
+**Luther:** *Even if no other cause existed why the invocation of the saints must be disapproved, this alone would suffice — that it depraveth and obscureth the illustrious argument by which the Prophets use to prove the divinity of Christ: "Christ is to be adored, therefore He is God." For every invocation attributeth divinity and omnipotence to the one invoked.*
+
+**III.** *No worship must be introduced into the Church without the express Word of God*, according to that: *In vain do they worship Me by the mandates of men.* **No mandate, no promise, no example in universal Scripture exists concerning the invocation of dead men.** Therefore that invocation is not to be tolerated in the Church.
+
+**IV.** *No invocation avails without faith.* The invocation of the saints is made *without faith*, because it lacketh Word and testimony. Therefore it is empty.
+
+### II. For what causes ought we to invoke God? — Ten Causes.
+
+**The first cause is the mandate of God**, as Ps. 50: *Invoke Me in the day of tribulation.*
+
+**The second is the promise of hearing.** Matt. 7: *Ask, and it shall be given unto you.* Luke 11: *How much more shall your Father give the Holy Spirit unto them that ask Him.* Likewise: *Whatsoever ye shall ask the Father in My Name, He will give you.* And: *Invoke Me in the day of tribulation, and I will hear thee.*
+
+**The third cause is extreme necessity** — namely, the sense of our *inopia and misery, and public and private cross* — in the Church, in the polity, in the household, at home, abroad, in body, in soul, in conscience; likewise *tyrannies and the plots of the Devil* — against which no *tuter refuge* is than *pious and ardent prayer*, as rightly is said: **"Prayers and tears are the arms of the Church."**
+
+**The fourth cause is the example and sight of horrid punishments** — as of the tragic falls which most often we hear and see. Since it is true that is said: *"Either we are, or we have been, or we can be what he here is"* — and that whatsoever hath befallen anyone can befall anyone — we must arm ourselves with prayer: *Lord, enter not into judgment with Thy servant.* And: *Lead us not into temptation.*
+
+**The fifth cause is defence and victory in all temptations** — against the Devil, the world, death, the flesh, and other enemies — as Solomon saith: *A most strong tower is the name of the Lord; unto it the just fleeth and shall be preserved.*
+
+**The sixth cause is that the custom of praying preserveth man in piety and fear of God**, and is the cause of many exercises of piety. The non-prayer is *obnoxious to various falls*. But the one who prayeth is not easily exposed to lapse, because he seriously meditateth piety.
+
+**The seventh cause is consolation and certitude of hearing**, and *joy of a good conscience through all life*. For he who commendeth his way to God can be secure, and hath as companions and defenders of his way and life the *Angels of God*; and whatsoever befall him, he always hath a good conscience and acquiesceth in the paternal will of God.
+
+**The eighth cause is the worship of God.** For God is delighted with the prayer of the pious — which is *a sweet odour*, and *the best and fattest sacrifice*, and *the sweetest Music in the ears of God*. Ps. 50.
+
+**The ninth cause is the true probation of faith and the Lydian stone.** For where faith is, there straightway prayer and groaning. And *prayer is a certain testimony that thou art in the assembly of the sons of God, and believest, and art ruled by the Holy Spirit*.
+
+**The tenth cause. The examples of the Saints** — Patriarchs, Prophets, Christ, Apostles, and of all the pious — whose *chief and highest study* was to invoke God rightly and seriously.
+
+### III. Through whom is God to be invoked, and how?
+
+**Because we are sinners, unto us hath been given from God the Father a Mediator and Priest — God and man — Jesus Christ**, who saith: *Whatsoever ye shall ask the Father in My Name, He will give you.*
+
+**Argument:** *"God heareth not sinners. We are sinners. Therefore we are not heard."*
+
+**I answer to the major.** God heareth not sinners — namely, those *persevering in sins against conscience without penitence*, because such are enemies of God. To the minor: **We are unworthy sinners, but we do penitence, and by faith flee unto the Mediator, and in His Name — that is, in acknowledgment and confidence of Him — praying to the Lord, on account of the Lord, we are heard** — according to the promise sealed by oath, by which God hath made Himself our debtor: *I live, saith the Lord — I will not the death of the sinner.*
+
+### IV. With what affect of soul ought we to pray?
+
+1. **Let us put off every opinion of our own glory, dignity, and merit.**
+2. **Let us truly feel and confess our own inopia** — that without God's help we are nothing and can nothing.
+3. **Let us prostrate ourselves before God in true penitence.** For without conversion, prayer is not efficacious.
+4. **Let us bring firm confidence that on account of the Son we are heard.**
+
+### Ought we also to have care for honest gestures in prayer?
+
+**Altogether.**
+
+**Contra:** *"Plato saith: 'Not composing gesture, but truly cultivating virtue, we ought to serve God.' Therefore gestures are to be neglected."*
+
+**I answer to the antecedent.** The saying of Plato on honest discipline in prayer must be understood **exclusively**: *Not only composing gesture* — as hypocrites do, as the Prophet Isaiah saith ch. 29: *This people honoureth Me with the lips.* For *in spirit and in truth ought we to adore* (John 14). But Plato and human wisdom acknowledge that *external gestures and ceremony are not the true worship of God*, but that *a good conscience must be brought*. This is something, but not enough. For there must accede the *true acknowledgment and faith of God*: truth therefore signifieth *true acknowledgment of God*, and is opposed to *hypocrisy*, and requireth *faith*.
+
+### V. What is to be sought from God?
+
+**Goods are of two kinds — spiritual (or eternal), and corporeal.**
+
+- **Spiritual goods** — as the *glory of God and our salvation* — are to be sought *without any exception*, and are to be received and retained *even when all corporeal goods have been lost*, according to Job's saying: *Even if the Lord slay me, I will hope in Him.*
+- **Corporeal goods** are to be sought *with a twofold condition*: **if the obtaining of what is sought neither impedeth the glory of God nor delayeth our salvation**.
+
+### Prescribe a form of praying.
+
+Our Lord Jesus Christ hath prescribed the best form in the prayer which after the Lord we call the **Lord's Prayer** — of which **Chrysostom** thus saith:
+
+> **The Lord, in a compendium of words delivering to His disciples a form of praying, embraceth the sum and sufficiency of all things to be asked — beatitude, and of all gifts pertaining to the present and future life. In this brief formula of prayer, in the paucity of words, but sufficient containment of all things to be asked, more spiritual and more holy than every prayer — because it hath proceeded from the mouth of the Most High — those things are asked and included which are contained in all other prayers.**
+
+### In how many ways doth the Lord's Prayer excel all others?
+
+Of old they rightly said the Lord's Prayer excelleth all other forms of prayer:
+
+1. **By the authority of the Teacher** — because it hath been uttered by the very mouth of the Saviour.
+2. **By the brevity of speech.**
+3. **By the sufficiency of the petitions necessary for the present and the future life.**
+4. **By the ratio of the most wise order.**
+
+### What therefore is the order of the Lord's Prayer?
+
+Some have collated the Decalogue and the Lord's Prayer in a fitting order worthy of consideration — in this mode, namely:
+
+| Decalogue | Lord's Prayer |
+|---|---|
+| *I am the Lord thy God*, etc. **Thou shalt not have other gods.** | **Our Father, who art in heaven.** |
+| **Thou shalt not take the Name of the Lord thy God in vain.** | **Hallowed be Thy Name.** |
+| **Remember that thou hallow the Sabbath day.** | **Thy Kingdom come.** |
+| *(Bridge)* — | **Thy will be done, as in heaven so also on earth.** *(For by this petition the Second Table is annexed to the First.)* |
+| **Honour thy father and mother**, etc. | *(The second table begins.)* |
+| **Thou shalt not kill.** **Thou shalt not commit adultery.** **Thou shalt not steal.** **Thou shalt not bear false witness.** | **Give us this day our daily bread.** |
+| — | **Forgive us our debts**, etc. |
+| **Thou shalt not covet.** | **Lead us not into temptation. But deliver us from evil.** |
+
+There is also this fitting series: **The glory of God and the salvation of men are the two supreme heads unto which all things are to be directed**. Now in what things doth the glory of God consist? I answer: in *the sanctification of the divine Name*, in *the coming of the divine Kingdom*, in *the effecting of the divine will*. And in what things the salvation of men? I answer, also in three: namely, in *the remission of sins*, in *immunity from mortal temptations of the soul*, and in *deliverance from evil*. But why is the petition of corporeal things inserted — *Give us this day our daily bread*? I answer: **because this present life with all its goods and gifts ought to be directed unto two things — namely, unto the glory of God, and unto the salvation of men — therefore that petition is placed in the middle**, having before itself three petitions that look unto the glory of God, and after itself again as many looking unto the salvation of men.
+
+This concinnity too can offend nothing: **As often as we come together in the Church for hearing the Word of God, our first petition is that the Name of God be sanctified by discourses and administration of the Sacraments** — for the Doctors and ministers, whilst they perform the ministry's work, sanctify the Name of God. And that we the hearers of the Word be not in vain and without utility, we ask secondly *that the Kingdom of God come* — that is, that the Holy Spirit through the Word and Sacraments be efficacious in us, and kindle and confirm faith and consolation. These things ought by us to be done in the Church.
+
+But when we return unto the works of our vocation and contemplate the world, we deservedly and necessarily ask *that the will of the Lord be done* — that all things in every state of life may be pleasing unto Him. When we turn unto our houses, and we care for the family and household, we ask of God to bless us and ours *by the petition of daily bread*. And because everywhere we see and experience that in the Church, in every order and vocation, and in our households, very many things are lacking in us, and we are unprofitable servants, and have many sins, and offend manifoldly — rightly groaning we add: *Forgive us our debts.* Because also so great and so many are the *plots of the Devil and of the world*, and our flesh is of such imbecility and softness — that we cannot be safe through ourselves, and *he who standeth can easily fall* — therefore we pray that our heavenly Father let us not be led into temptation. At last, when we see all things in this life are *caducous, unstable, morbid, calamitous, and perilous — full of labours and tribulations* — we ask to be freed, that we may come unto *eternal gladness and life*. These things I leave to be considered by pious minds.
+
+**Augustine** saith the three prior petitions pertain to the *eternal life*; the three posterior to the *present life*. The last, briefly as it were an *epilogue*, repeateth all things.
+
+**Others** refer the first petition to God the Father, the second to God the Son, the third to God the Holy Spirit; the fourth to the work of creation; the fifth to the work of redemption; the sixth to the work of sanctification. The seventh they say is the *conclusion and sum and repetition* of all the prior. ¹⁹⁰
+
+All these things are proposed piously and rightly, so that pious minds have *cause and occasion of admiring and preaching the most wise order of the petitions* — and of all spiritual and corporeal things necessary unto the salvation of soul and body, and for this present and caducous, and also for the future eternal, life.
+
+### The Disposition of the Lord's Prayer.
+
+Now the disposition of the Lord's Prayer is of this sort:
+
+- **The Exordium (Compellatio)** compelleth God, and discerneth Him from all other feigned deities and idols, and attributeth to God the will and faculty of hearing us and aiding us.
+- **The Narration** containeth *seven petitions*, by which goods are asked from God — as in the schools they named — *positive* and *privative*. The **positive** are all goods that are given: both spiritual (as the *sanctification of the divine Name*, or true acknowledgment of God; the *Kingdom of God*, or consolation and government of the Holy Spirit; and our obedience congruous with the will of God) and corporeal (life, health of soul and body, food, clothing, reputation, family, magistracy, peace, blessing, and success in the labours of our vocation). The **privative** are all *liberation from any evils whatsoever* — as from sin, from the tyranny of the Devil and the world (nay, of our flesh), and from calamities of the present life — and integral liberation.
+- **The Epilogue** furthermore containeth the *impulsive and final causes* on account of which we ask to be aided. *Thine is the Kingdom, Thine is the power* — this is the *impulsive cause*: *Thou art King, and Thou art powerful*. The *final cause* is this: *Thine is the glory*. To these causes is added, in place of an *epiphonema*, the confirmation full of faith: **Amen** — increasing hope, and confirming the confidence of the one praying, that he certainly hopeth to obtain what in the Name of the Mediator he asketh, and *himself to be heard on account of the Mediator*.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
