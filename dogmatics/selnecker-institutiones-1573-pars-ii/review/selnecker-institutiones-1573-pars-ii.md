@@ -6144,3 +6144,264 @@ But I make an end: for I have not instituted a disputation — but as I repose t
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## On Ceremonies, Adiaphora, Scandal, Circumcision, Sacrifices — and the Mass.
+
+**We name *ceremonies*** the rites and ordinations instituted for rightly governing the ecclesiastical polity.
+
+Now there are ceremonies:
+
+- **Some** instituted *by God Himself in the sacred writings* — as *Baptism and the Lord's Supper*.
+- **Some** instituted *in the Church by men* to whom judgment and the praise of piety belong — that is, *by the Ecclesiastical Senate* — for the sake of *decorum or order*, by *unanimous consent and approbation*, confirmed.
+- **Some** *fighting with the Word of God*, and *idolatrous* — as the *Papal Mass, magical consecrations of oil, salt, water, herbs, and other things, the baptism of bells*, and similar superstitions.
+
+But omitting the ***ἐθελοθρησκείαι*** (self-chosen worships) and *idolatrous rites*, which are *βδέλυγμα before God*, it must be known:
+
+**Of those things which by the Voice of God are instituted as ceremonies** — these are by no means *adiaphora or indifferent* which can be preserved and omitted, but *plainly necessary unto faith and salvation, when they can be had*.
+
+But **the remaining, which either by the ecclesiastical senate or by pious magistracy have been instituted** — are to be preserved for the sake of:
+
+- ***Decorum*** — that is, that men *by these aids* may be excited unto piety, and that *modesty and gravity in the treatment of piety* may shine forth.
+- ***Order*** — of which the parts are three:
+  1. That the *presidents may have a certain rule of acting*.
+  2. That *the hearers may be inured to obedience and discipline*.
+  3. That the *well-composed ecclesiastical state may be consulted for peace and tranquillity*.
+
+Now these ceremonies in species — *neither commanded nor prohibited* (though the genus is commanded) — are named ***adiaphora, καὶ ἐν μέσῳ κείμεναι*** — that is, *neither mandated nor prohibited by the open Word of God*. Of these there are delivered ***three rules***.
+
+### Three Rules on Adiaphora.
+
+**First**: If the *genus* is commanded, the work is rightly deemed *adiaphoron*. But if the *genus* is prohibited, by no means ought the work to be deemed adiaphoron. Thus the *genus of Papal Masses* — which is *to worship God by mandates of men* — is *expressly and seriously prohibited*. **It is not therefore adiaphoron to celebrate Masses.**
+
+The genus of the *certain day, place, and time* at which men come together to hear the Word is *in the sacred writings confirmed by mandate of God* — that the Word be heard. Even if therefore the *circumstances of place, time, and vestment are free and indifferent*, the *genus is not adiaphoron*.
+
+Nor ought we to abuse *Christian liberty unto the destruction of piety in us and in others*, and we ought not to offend the weak. For although we are free (as to conscience) from *external and licit observations* to be kept, if necessity does not so require: yet not for that reason ought the good ecclesiastical order to be inverted *rashly and without necessary cause, and without occasion of confession*.
+
+**Second rule**: In adiaphora *the work and the use ought to be indifferent*. It is adiaphoron in preaching and the administration of the sacraments to use or not to use a *white and linen vestment*: the use ought to be *free* — yet in such wise that it lack *scandal given*, and that it *transgress not decorum and order*.
+
+But if *superstition and case of confession* accede, the thing or ceremony is no longer *adiaphoron*. For **change of ceremonies must not be made for the sake of the adversaries of the Gospel — unless the foundation be first laid with them, that is, the consensus in purity of doctrine and in the legitimate use of the sacraments be established**.
+
+**Daniel** — although it was adiaphoron *per se and by its genus* to recite prayer with the windows of the upper-room either open or closed — yet with those open he willed to recite his prayers, lest he seem to obey the impious king's edict which impeded the true invocation of God. He preferred to be cast among lions than by any gesture to display obedience toward a royal edict *fighting with the second precept concerning invocation and confession*.
+
+Thus **Eleazar** preferred to be slain by enemies than to be seen to taste that flesh. For **the satellites of Antiochus were not enacting** that he should merely violate the law concerning the *distinction of foods*, but that he should by that very deed show that *he had defected from the whole Law and had embraced the Ethnic religion*.
+
+For most true it is: **in the case of Confession, ceremonies are no longer adiaphora**, and *nothing however small must be admitted which either obscureth the Confession or diminisheth in any way the liberty of the Church procured by the blood of Christ*. Nor must the *small beginnings* be neglected, by which afterwards little by little greater accessions are made — as the eminent voice of **Marcus of Arethusa** testifieth (which is in **Theodoret**): *"To contribute one obolus unto impiety is the same as if one should contribute all things."* ²¹⁹
+
+**Third rule**: Adiaphora must be considered either *per se, absolutely, without relation to persons*; or *by reason of the persons*.
+
+If **considered per se** (as they are *middle things*), they neither please nor displease God, are not worship of God, are not necessary things, are not commanded nor prohibited — but *are instituted for the sake of decorum and order*.
+
+But if **considered by reason of persons**, a distinction must be held. For **persons** are either *believers or unbelievers*.
+
+- **The obedience of believers pleaseth God**, because it proceedeth *from faith*, and even in adiaphora it considereth the *will and mandate of God* which pertaineth to the genus of the deed.
+- **The works of unbelievers are** ***βδελύγματα***. For *whatsoever is not of faith is sin*.
+
+In the *Paedagogia* and *Analectum* we have posited and explicated also three rules on ***human traditions in the Church, and on adiaphorous matters***. Those rules the studious ought here to repeat.
+
+- **First**: It is a sin to obey edicts against God's mandate.
+- **Second**: Laws even on adiaphora must be resisted when errors are added — as the *opinion of remission of sins, of worship of God, of perfection, of necessity*, etc.
+- **Third**: Adiaphorous rites are to be preserved in emended Churches on account of *τάξιαν* (order). They can also be omitted outside the case of scandal without sin — as the eating of flesh on Friday. Of these see the *Analectum*, tract 2, ch. 41, and the *Paedagogia* in the explication of the third precept.
+
+### On Scandal.
+
+Let the studious add hither the doctrine on ***scandal***, which is either **given** (that is, *when the efficacious cause and fault of the offence and lapse of others is placed in us*) or **received** (that is, *what men, from the rightly said and done things of others, take to themselves unto ruin*).
+
+**Of given scandal** — which is either *in depraved dogma or in depraved example* — it must be known that it *must in every mode be shunned*. For *woe to the man through whom scandal cometh* — whether by word, or work, or doctrine fighting with the Word of God. And even in adiaphora it must always be seen that *nothing against the charity of the neighbour be done*, and account is to be had of *the weak and the docile*, as Paul saith 1 Cor. 8: *If food scandalize my brother, I will by no means eat flesh unto eternity, lest I scandalize my brother.*
+
+**Received scandal** is either *human* or *diabolical*.
+
+The former in the impious and secular is threefold:
+
+- Either they are *offended* at the *infirm species of Christ, and at the abject and contemptible condition of His disciples*;
+- Or at the *absurdity of the doctrine* which Christ delivereth — as today happeneth in the Church, especially in the doctrine on the Lord's Supper;
+- Or at the *mass of tribulations which accompanieth the profession of the Gospel*.
+
+I add also that the *impious are often offended* at the rightly-said-and-done things of the pious, and at the *free use of adiaphora*. We see also that the *pious sometimes are offended at the felicity of the impious* — as the Psalms testify, especially Ps. 73: *My feet almost slipped — I envied the wicked, seeing the peace of the impious.* But the pious overcome that scandal *by faith, by prayers, by hope, by patience, by humility, and by the consideration of examples, and by expectation of the judgment and eternal life*.
+
+**Diabolical scandal** is when the impious, secure, Epicurean, wicked, and impenitent *snatch preposterously some examples of lapses to excuse and confirm their crimes* — as: *Lot was drunk, David fell into adultery, Solomon had many concubines, Peter became perjurer, Paul was persecutor, Zacchaeus was usurer, Magdalene was not chaste, Joseph imposed a hard yoke on the Egyptians, etc. Therefore it is lawful for us to do the same.* This is *diabolical calumny*, and yieldeth to the *contumely of God*, and shall be *severely punished*.
+
+And since this **diabolical scandal has place also in the writings of the Papists**, we ought the more easily to *acknowledge and shun* the errors and wickednesses of the Papists. For thus these write: **"The Pope must not be accused of adultery or homicide, and it is like sacrilege to dispute of the Pope's deed — whose crimes are excused; and the homicides of Samson, thefts of the Hebrews, and adultery of Jacob or David [are excused]. And the Pope, however much sinning, and for the most lost morals and bringing grave scandal, is nonetheless a true Pontiff; and when he kills someone with his own hands, he is not a homicide but only falls into *irregularity*; and no one ought to say to him: 'Why doest thou so?' — because he *hath will for reason in all things which he willeth*, and *is borne against right, and is above right, and can do all things beyond right — nay, is even beyond and above all things*."** These things horribly say the Papists. And so much of scandal.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## On Circumcision — Twelve Heads.
+
+It remaineth that we treat also of **Circumcision and sacrifices**. Briefly and in order these heads on circumcision we shall consider:
+
+1. **How God is wont to instruct man concerning His will.**
+2. **What circumcision is, of what sort the rite, and why on the eighth day it ought to have been done.**
+3. **Why it was instituted, especially in that part of the body.**
+4. **Whether it justified.**
+5. **Unto what people it pertained**, and why by females that rite was not to be used.
+6. Why *only for males*.
+7. **How long circumcision ought to have endured.**
+8. **What is the ratio of the Sacraments of the Old and New Testament.**
+9. **Why Christ willed to be circumcised.**
+10. **How Christ freed us from the Law.**
+11. **What is *spiritual circumcision*, without which no salvation befalleth any.**
+12. **What is to be felt of infants who either died before circumcision among the Jews, or die before Baptism.**
+
+### 1. On the First — How God Instructeth Man Concerning His Will.
+
+**God, both before the Fall and afterwards** — both in the Law and in the Gospel — hath been wont to instruct man concerning His will *in two modes*: one, *by mind*; the other, *by sense*. Unto the mind He proposed the Word or promise. Unto the senses He exhibited *signs incurring the eyes*, that these might confirm what the Word soundeth and the mind offereth.
+
+- Before the Fall He gave man Word and mandate. To this He added an external sign — namely, the *tree of life, and the tree of the knowledge of good and evil*.
+- After the Fall He gave man the promise of the *Seed*. To this He added external signs — namely, *sacrifices*.
+- After the deluge He gave the promise that *by water no more the universal human race would be blotted out*. To this promise He added a sign — *the heavenly bow*, admonishing men of the promise.
+- To Abraham He gave the promise of the *blessed Seed*. To this promise He added *circumcision*, as a *sign and testimony of grace and reconciliation*.
+- In the Gospel He gave the promise of *undoubted and no-longer-to-be-deferred mercy, grace, righteousness, and inheritance of eternal goods to all believing in the Son*. To this promise He added *two most august Sacraments — Baptism and the Lord's Supper*.
+
+By this reason too God willed to consult human infirmity, and to instruct us concerning His will, omitting nothing which could pertain to our salvation. And on this cause **Augustine** nameth a Sacrament *the visible form of invisible grace* — likewise, *a visible Word* — that is, *a symbol and authentic sealing of the promise which is contained in the Word*.
+
+### 2. On the Second — What Circumcision Is.
+
+**Carnal circumcision commanded by God to Abraham was a cutting of the foreskin of the male member, by which God confirmed His covenant with man and His promise of the blessed Seed about to bless all nations — and reciprocally man, confirmed by this testimony of divine favour, lifted himself up with living confidence.**
+
+**Luther** saith: *Circumcision is nothing else than a work of obedience and an exercise of faith imposed on certain men, as it were a symbol that they are heirs of the promise which was made to Abraham while yet in the foreskin.*
+
+The Hebrews call it **Mol** — *to cut with a certain instrument or sword or knife*, so that the remaining members abide unhurt. And **Oriel** signifieth *foreskin, whatever thing is foul or luxuriant*, and is used both of the bark of trees and of the little skin covering the glans.
+
+### The Eighth Day — Three Reasons.
+
+Concerning **the eighth day**, though it is not to be disputed, let us hold these causes:
+
+1. God hath **regard of the infancy**, lest He impose something before the infant can bear it. For *this is the mercy and Philanthropy of God*.
+2. **The eighth day observed in carnal circumcision was a Sacrament in shadow and image sent ahead, but completed in truth when Christ came.** For because *the eighth day — that is, the first after the Sabbath* — was to be that in which the Lord would rise and vivify us, and give us *spiritual circumcision*. This eighth day (that is, the first after the Sabbath and the Lord's day) went before in the image; which image ceased afterwards, the truth supervening, and spiritual circumcision being given us in Baptism.
+3. **In the resurrection — which is signified by the eighth day — we shall be perfectly circumcised, that we may be cleansed from every sin.** Christ rested in the sepulchre on the seventh day; on the eighth He entered eternal glory. Hence customarily are numbered *seven ages of the world*:
+
+| Age of the world | From — To |
+|---|---|
+| 1 | From Adam to Noah |
+| 2 | From Noah to Abraham |
+| 3 | From Abraham to Moses |
+| 4 | From Moses to David |
+| 5 | From David to Christ |
+| 6 | From Christ to the end of the world |
+| 7 | Of the sleeping [dead] |
+| 8 | Of those rising unto life |
+
+But of these let each establish what he shall have deemed right.
+
+**The Master of the Sentences** (book 4, dist. 1) thus saith: *Circumcision was done on the eighth day, by a stone knife (Josh. 5), because in the common resurrection and the eighth age to come, through the rock Christ every corruption shall be cut off from the elect; and by Christ's resurrection made on the eighth day, the soul of every one believing in Him shall be circumcised from sins.*
+
+### The Turkish Circumcision.
+
+The **Turks** today also retain circumcision — but not on the eighth day, but when the boy hath completed his seventh or eighth year, that he may be able to recite the words of confession, which are: *La Illah Illellah, Mehemmet, Iresul, Allah, Tanre Bir Pegamber Hach* — that is, *"There is no God save one; but Mehemmet is His Prophet: the Creator is one, and the Prophets equal."*
+
+And circumcision is done in the homes of the parents with great apparatus, and friends being convoked to a supper — in which an ox disembowelled, in which a sheep is enclosed, in the sheep a hen, in the hen an egg, and roasted whole, is brought out. And during supper a physician approacheth the boy, uncovereth the glans, and with tongs apprehendeth the fold-back skin — and, that he may take from the boy his fear, saith he will complete the circumcision on the morrow, and departeth; but soon simulating as though something had been omitted which was required for preparation, unexpectedly cutteth off the foreskin, and to the wound applieth a little salt and cotton. The boy then is called **Musulman** — that is, *circumcised* — or (as Suetonius saith) *circumcut*. This superstition of the Turks is joined with impious and nefarious idolatry.
+
+### 3. On the Third — Why Circumcision was Instituted.
+
+Circumcision was instituted **that it might be a *confirmation of faith* in the promise of the coming Seed, Christ**. Therefore Paul nameth it a ***seal of righteousness***. For as a seal is added to letters to confirm their sentence, so *the chief end of circumcision and of all Sacraments is the confirmation of faith*. Whence we say: **Sacraments are made to confirm faith.** And as often as Abraham thought concerning circumcision, so often he repeated in mind the promise: *Behold, by this very seal impressed on my body, God hath testified that He hath delivered to me the promise of the coming Seed, and willeth that I believe, willeth that I be received on account of Him the Lord.*
+
+Then it was instituted also **that the promise concerning the Seed might more certainly be propagated to posterity**, and *the memory of the promise might be more durable*.
+
+Afterwards **that an evident discrimination might be constituted between the posterity of Abraham and other nations**. For God willed *to signalize this people by a peculiar testimony* and render it conspicuous and celebrated — that the nations, led by admiration, might learn to acknowledge the God of the Jews, until Christ should come and institute a *new sign*, by which Jews and Gentiles alike would be sealed unto the inheritance of eternal life.
+
+Fourthly, circumcision was instituted also **that it might admonish the pious of *spiritual circumcision, or of penitence*** — which in Scripture is called ***circumcision of the heart, not made by hand in the spirit*** — as Deut. 10: *Circumcise the foreskin of your heart, and stiffen not your neck any more* — that is, as the Germans say: *Lasset euch weren, lehren, und bekehren* ("Let yourselves be ruled, taught, and converted").
+
+### Why on that Part of the Body — Five Causes.
+
+Now in **that part of the body** circumcision was instituted for these causes:
+
+1. **That the *filth of original sin*** with which we are born might be signified, and that this evil is *ingenerated in us by carnal propagation* — as David saith: *In sins my mother conceived me.*
+2. **That it might be shown how the human race is to be freed from sin and guilt** — namely, *through the promised Seed*. For the note impressed on that part admonisheth the pious of the promise which speaketh of the coming Seed.
+3. **That it might be shown that this nature *plunged into sin* is to be cut off and abolished**, to be justified by imputation, to be regenerated in sanctification by inchoation, to be restored and perfected by *eternal glorification on account of that blessed Seed*.
+4. **That the impure and small blood which was shed might be a figure of the shedding of the purest blood of Christ** — who both in circumcision began to shed His blood, and in the Passion copiously shed it for the salvation of the human race.
+5. **That it might admonish that God willeth all men to use the seed and the whole work of generation *reverently*.** For no sin is more foul in the second table than *the abuse of seed*, whereby God adorneth our bodies that the number of God's worshippers may be increased, and the plantings of Christ's Church may thrive.
+
+### 4. On the Fourth — Whether Circumcision Justified.
+
+**The rule must be held**: *Not the Sacrament, but faith embracing the promise (to which the Sacrament is added) justifieth.* **Circumcision therefore *ex opere operato* justified no one** — as the Jews yet thought, against whom the *Council of the Apostles*, Acts 15, was gathered, and Paul, Rom. 2 and 4 and to the Galatians, refuted them. And these are the chief reasons:
+
+- **First**: *Abraham was just by faith before circumcision.*
+- **Second**: *Females were not excluded from the promise of grace*, even though they were not circumcised — nor were they born of Jews, such as *Sarah, Rebecca, Rachel, Leah, Moses' wife, Ruth, the Sareptan widow*, and many others.
+- **Third**: *Gentiles were saved without circumcision* — as *Cyrus, Job, Naaman the Syrian, the Ninevites*, and the like.
+
+**Chrysostom** on Rom. 4: *Since the Sacrament is the seal of the righteousness of faith, it sealeth nothing in those who have not faith. For as a purse without money is worth nothing, even if it be sealed — so circumcision availeth nothing unless faith shineth in the heart.*
+
+The Jews, when they circumcise boys, prepare two seats in the synagogue — *one for Elijah*, whom they believe to come and to be present there while the boy is circumcised (for they say Elijah comes before Messiah, Mal. 3); *another for him who performs the act of circumcision*, whom they call **Mohel** — and before the infant is circumcised, they say these words: *Blessed art Thou, O Lord our God, King of the world, over circumcision.* Circumcision completed, they say again: *Blessed is the Lord our God, who hath sanctified the beloved from the womb, and hath placed a precept in his flesh, and hath sealed his posterity with the sign of the holy covenant. Therefore rightly the living God, our portion and our fortitude, hath commanded to snatch this beloved holy seed of our consanguinity from Hades, on account of His covenant which He hath placed in our flesh. Blessed be He who entereth the pact and covenant.*
+
+By these words they magnificently extol *their opus operatum*, of which what is to be judged has now been said.
+
+### 5. On the Fifth — To What People Circumcision Pertained.
+
+**Circumcision pertained not to all nations, but to the family and seed of Abraham** — to whom this Sacrament was given, that he might be admonished that *he is God's people*. And at all times many of the Ethnics were converted without circumcision. Therefore in the text it is written: *Thou and thy seed after thee, in their generations.* For God willed by this rite to separate the Jews from the Gentiles, that it might be shown that *the blessed Seed was to be born of the Jews, not of the Gentiles*. Whence it is said: *Salvation is of the Jews.* But *not only the Jews are saved*.
+
+### 6. On the Sixth — Only Males.
+
+**Only to males was circumcision enjoined**:
+
+1. Because *propagation of the human race arises principally from the male, not from the female*, and offspring born is *referred by the right of origin to the father, not to the mother*.
+2. Because *the natural uncleanness of all who are born from male seed is to be cut off and excided*.
+3. Because *account is had of nature*.
+4. Because *an illustrious testimony of grace is exhibited* — which showeth that *without male seed there was to be born from a woman One who would take away circumcision, and save from sin and death*.
+5. Because *women have their own peculiar circumcision, hard enough and grave* — of which it is said: *In pain shalt thou bring forth sons.*
+
+These things soberly and without superstitious curiosity are said.
+
+### 7. On the Seventh — How Long Circumcision was to Endure.
+
+**Circumcision was not instituted to abide always, but only until Christ's coming.** And of the word ***Olam*** we have said before — of which prolixly discourseth in its own places, in the second Tractate, D. **Paul Weidner the Christian Rabbi**. The sign being present, the *thing signified ceaseth* — as, the wine being drunk, the *circle* which was the sign of the wine is removed; and the feast having come, the *vigil or preparation for the feast ceaseth*.
+
+### 8. On the Eighth — The Ratio of the Sacraments of the Old and New Testament.
+
+**In every Sacrament these four concur**: *promise, mandate of God, sign incurring the eyes, and faith in the promise*. And as touching the *use and fruit*, the *ratio is the same of all the Sacraments*, both of the Old and of the New Testament — since all were given unto this, that they might *confirm faith* and *admonish us of the promise*.
+
+But the **Sacraments of the Old and New Testament differ**:
+
+1. **In that they are not of the same form and matter.**
+2. **In that those [of the Old] were given to the ancients as admonitions of future things**; but *the Sacraments of the New Testament admonish us of the goods which have now been procured for us by Christ, and are daily dispensed to us in the holy ministry*. And the *institution itself makes the discrimination*.
+
+### 9. On the Ninth — Why Christ Willed to Be Circumcised.
+
+**Christ had no need of circumcision, nor of baptism.** But these causes are customarily recited why Christ willed to be circumcised:
+
+1. **That He might show the truth of His human flesh**, and prove Himself to be true man, and not to have a *phantasmal body*, as the *Manicheans feigned*.
+2. **That He might approve circumcision as a Sacrament divinely instituted** — Rom. 15: *I say Christ was minister of circumcision for the confirmation of the promises of the Fathers.*
+3. **That He might testify that He was of the race of Abraham, to whom circumcision was given.**
+4. **That He might show that He was a member of the Jewish Church**, and take away every accusation with which otherwise the Jews might have used — namely, *that they refused to receive Christ because He had been uncircumcised*.
+5. **That for our sake He might subject Himself to the Law** — Gal. 4: *When the fulness of time came, God sent forth His Son, born of woman, made under the Law, that He might redeem those who were under the Law, that we might receive the adoption of sons.* And **Bernard** in his second Sermon on Circumcision saith: *Rightly indeed, when the boy is circumcised who is born unto us, He is called Saviour, Jesus — because now from this He hath begun to work our salvation, shedding for us His immaculate blood. For this cause He was circumcised, for which He was born, for which He suffered — none of these for Himself, but all for the elect.* See **Epiphanius** *Against the Ebionites*.
+
+### 10. On the Tenth — How Christ Freed Us From the Law.
+
+**Christ the Son of God freed us first from ceremonial laws**, and *in place of all the rites which in the Law were used, He instituted two Sacraments — Baptism and the Supper*.
+
+Then He **freed us from the judicial laws in species**.
+
+Afterwards also **from the moral Law**, as far as touches *condemnation and justification* — but not as touches *obedience*.
+
+**Epiphanius** saith that Christ willed to be circumcised, *that He might free us from circumcision, and being circumcised might dissolve circumcision, and show another greater, and testify* ***ὅτι ταύτης οὐκέτι ἐστὶ χρεία, ἀλλὰ τῆς μείζονα*** — that *there is no longer need of this, but of the greater*.
+
+### 11. On the Eleventh — Spiritual Circumcision.
+
+**Paul** Rom. 2 maketh a **twofold circumcision**: *of the letter and of the Spirit*.
+
+- **Circumcision of the letter** is *external ceremony without faith or confidence in mercy, without true invocation in acknowledgment of the Mediator, and without the Holy Spirit*.
+- **Circumcision of the Spirit** is *salutary penitence, confidence of mercy promised on account of the Mediator* — of which external ceremony admonisheth minds, and which is *the sign and covenant of the promises*.
+
+**Phil. 3**: *We are circumcised, who worship God with Spirit, and glory in Christ, and put no confidence in flesh.* That is: **Christ is our *active circumcision*, imputing sin and malediction in us. The effect of this is the other, *passive circumcision*, by which we now regenerate cut off day by day more and more the relics of sin, and *circumcise all our members — interior and exterior* — casting off errors and evil affections, wickedness and vices, and by the true knowledge of God and by the ornament of new life obey the Holy Spirit.**
+
+**Jer. 4**: *Renew unto yourselves the new-fallow, and sow not among thorns: be circumcised unto God, and take away the foreskins of your heart, lest My indignation come forth as fire, and be kindled, and there be no one to extinguish it, on account of the malice of your works.*
+
+God through the Prophets often speaketh of circumcision and the Mosaic ceremonies in such wise that He seems to disapprove and reject them plainly. Whence Lev. 26, Jer. 6 and 9, and Acts 7, the Jews are called ***uncircumcised***. This reprehension is made *on account of the errors and false persuasions concerning circumcision and other ceremonies* — namely, that their observance either meriteth remission of sins, or is righteousness before God, or is worship of God through itself, *ex opere operato without faith and Spirit* and without good motions of the heart.
+
+### 12. On the Twelfth — On Infants Dying Before Circumcision or Baptism.
+
+**By no means are they to be damned who died among the Jews before the eighth day, or in the assembly of Christians decease before Baptism.** Their souls are to be left to the *will of the heavenly and most merciful Father*. Infants have *original sin*; *actual, voluntary, and* ***ἐκ προαιρέσεως*** (from deliberate choice) sins they do not yet have — although they have *actual sins against the first table*, likewise *wrath, impatience*, and similar sins which are *works of corrupted nature*. And although infants are not partakers of the Sacrament, yet they can have the *res of the Sacrament* in an arcane manner unknown to us. And it is also manifestly written: *I will be thy God, and God of thy seed after thee.* Wherefore parents who by faith have entered the Church of God are numbered with their offspring among Christ's members, and are together called to the inheritance of salvation.
+
+**But usually the objection is put**: *Males in whose flesh the foreskin shall not be circumcised — their soul shall be exterminated from their peoples, because he hath dissolved My covenant.* Therefore infants uncircumcised are damned.
+
+**I respond in two ways.** God saith not that those are to be exterminated who die before the eighth day, but saith that those *who — when they have attained the eighth day — are not circumcised* are to be exterminated. Then, the voice ***extermination*** is to be understood *of ecclesiastical eradication or excision — apostasy*. For *Nichrath* from *Chorath* signifieth *to cut off* — whence *Cherithuth* is named *the book of divorce or ἀποστάσιον*.
+
+Whoever therefore hath neglected God's mandate is *as an apostate and contemner of the Sacrament excluded from the people and Church of God* — as customarily *contemners of the Word and the Sacraments are excommunicated*. And rightly it is said: **Not privation, but *contempt* of the Sacrament damneth.**
+
+These things on circumcision most briefly having been said, now let them suffice.
+
+Concerning that diversity by which Paul, Acts 16, willed *Timothy* to be circumcised, and Gal. 2, willed *Titus* not to be circumcised — there is no need of much disputation, since Paul himself expoundeth the reason of his counsel Gal. 2 (as it is said in its place). For he willed Timothy to be circumcised *on account of the weak not yet rightly instructed*, lest he offend them by *a sudden change of a chief rite*. But he willed Titus not to be circumcised, *to show Christian liberty*. But of these enough.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
