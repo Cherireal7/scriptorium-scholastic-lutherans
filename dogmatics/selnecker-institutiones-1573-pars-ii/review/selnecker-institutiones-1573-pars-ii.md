@@ -4992,3 +4992,215 @@ But **now the rite of Confirmation which the bishops retain is a plainly otiose 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## DE BAPTISMO · On Baptism.
+
+That we may comprehend briefly many things which are necessary and useful, we shall speak of these in order:
+
+1. What the word *Baptism* signifieth.
+2. What in the Church is called Baptism.
+3. Who is the author of Baptism — Christ or John.
+4. What was the *type* of Baptism in the Old Testament.
+5. What is the *discrimination* of the Sacraments of the Old and New Testament, and, in the New Testament, of Baptism and the Lord's Supper.
+6. What is the *discrimination* of the baptism of Christ and of John, and of other ministers of the Church.
+7. Unto what end Baptism hath been instituted.
+8. Explication of the passage Acts 19 concerning the twelve Ephesians.
+9. Why Christ willed to be baptised.
+10. What are the *fruits and utilities* of the baptism of Christ, and of ours.
+11. What are the *significations* of Baptism.
+12. Of the Papal errors in the doctrine on Baptism.
+13. Of the error of the Anabaptists, who feign that infants are not to be baptised.
+
+Of these briefly and in order, God helping, we shall discourse.
+
+### Of the First — What the Word Baptism Signifieth.
+
+The Hebrews name it **Tafa** — which the Germans call *Tauff ond tieff*, to be plunged into the depth of the waters. And by *metathesis* of letters thence is *βύθον* (depth), and *βάλω, βαπτίζω*, to immerse, to plunge into the depth; and the German *Bad*, laver. And thence is the noun **Tabaas**, a ring or circle into which a finger is inserted and immersed — which signification applied to Baptism is most graceful, since Baptism is an *ἐπερώτημα* or stipulation, such as is made between bridegroom and bride.
+
+In general, *τὸ βαπτίζειν* signifieth *to immerse for the sake of tinging*. **Plutarch**, *On Superstition*: *βάπτισον σεαυτὸν εἰς θάλασσαν* — *"Immerse thyself in the sea."* And **Nazianzen**, *Unto Holy Baptism*: *μὴ γενώμεθα χριστοκάπηλοι καὶ χριστέμποροι, μηδὲ φορτισώμεθα πλέον ἢ δυνάμεθα φέρειν, ἵνα μὴ ἀντάνδρῳ τῇ νηὶ βαπτισθῶμεν, καὶ τὸ χάρισμα ναυαγήσωμεν* — that is: *"Let us not become petty-hucksters of Christ, nor merchants; nor let us receive a greater burden than we can bear, lest with the ship we ourselves be submerged, and lose our grace by shipwreck."* And Mark 7: *ὑπὸ ἀγορᾶς, ἐὰν μὴ βαπτίσωνται, οὐκ ἐσθίουσι* — *"From the market, unless they be washed, they eat not."* Known also is the oracle of the *Sibyl*, which **Plutarch** in the *Theseus* citeth: *ἀσκὸς βαπτίζῃ, δῦναι δὲ τοι οὐ θέμις ἐστί* — *"The wine-skin is dipped, but is not submerged"* — which of the Church truly can be said.
+
+Translatively *βαπτίζεσθαι* is taken for *μεθύσκεσθαι* (to be intoxicated) — as the Latins say *madidum* for *drunk* — and the *Pharisees* by peculiar epithet from Justin are named *Barisai*, because they observe the *βαπτισμοὺς ποτηρίων*, etc. (Mark 7). ²⁰³
+
+### Of the Second — What in the Church is called Baptism.
+
+**Baptism** (or Baptismus, as Augustine somewhere speaketh — and the same is read in Cyprian — or Baptisma) is
+
+> **a Sacrament of the New Testament, divinely instituted through the ministry of John Baptist — consisting of the *ablution* of a man by water, with the pronunciation of the words according to the institution of Christ — not only to *seal* the ablution of man from sin by the blood of Christ, but also to *figure* regeneration, which is perfected by the *mortification of the flesh and the vivification of the Spirit*.**
+
+In this definition are to be considered these members:
+
+1. **Divine institution.**
+2. **External sign** — water, tinction, or immersion and emersion, and the pronunciation of words.
+3. **Promise of grace.**
+4. **Faith.**
+
+As touching **the institution**, John received a peculiar mandate from God (as in the following question we shall hear), which Christ afterward confirmed by His own voice — sending His disciples to teach and to baptise. All these things indicate both the **majesty of the Institutor Christ**, and the *power and efficacy of Baptism*, and propose to us the universal mandate — and finally what sort of *inauguration* Baptism is, they evidently declare.
+
+### The Majesty of the Institutor of Baptism.
+
+The **majesty of the Institutor**, which ought to excite us unto reverence of Baptism, appeareth from these things:
+
+1. From heaven He Himself commanded by His Word that men should be baptised.
+2. **By His own example**, the whole divine Trinity being present, Christ confirmed Baptism and received Baptism.
+3. He showed **Baptism to be a figure of His death, burial, and resurrection**.
+4. He taught **it denoteth the communion of His Church as of His body, and the cross also, and deliverance**.
+5. **Christ resuscitated enjoined on His disciples the office of baptising.**
+6. Christ Himself **preserveth Baptism in the Church, and will preserve it unto the last day**.
+
+Of the dignity of Baptism also, in the following questions, more shall be said.
+
+### The Power and Efficacy of Baptism.
+
+**The power and efficacy of Baptism** is this: that **there is offered unto the one baptised reconciliation — not *ex opere operato*, but from the mercy of God through faith on account of the Son the Mediator**. For this action *truly exhibiteth* what it *figureth*, and is not empty or only an external symbol, but *hath within itself the virtue and efficacy of the Holy Spirit* — Christ purging us and washing us through the *laver in the Word of life* (Eph. 5).
+
+This too must be added against the Donatists: **the power and efficacy of Baptism dependeth not on the minister baptising**, nor can any discrimination of the external Baptism be constituted by the diversity of those baptising — since the ministers only apply the *external ceremony* out of Christ's mandate, but Christ Himself according to His promises is present unto those who are baptised, and *efficaciously washeth the stains of the soul from guilt before God*.
+
+**Nazianzen** eminently saith:
+
+> *Nothing before God is so great that a poor man cannot also proffer it — lest in this part the poor be found to be of a worse condition, when they have not, that they should contend with the rich. In the rest, between wealth and poverty there is difference; but here, whoever is more prompt, he is also richer* — ὁ προθυμότερος, πλουσιώτερος.
+>
+> *Even if in body thou art like the Ethiopian, in soul thou shalt be made white: procure salvation, than which nothing is more sublime or honourable to those who have a mind. Do not say: "Let a bishop baptise me, or a metropolitan, or the one of Jerusalem." For grace is not of place but of Spirit. Do not say: "Let him be nobly born." For it is grave for the baptiser to be contumeliously objected the nobility of another. Do not say: "Let him be aged, or even celibate, temperate, and of angelic conversation." Grave in truth it were, if at the time of purgation I were polluted with filths. And do not seek the dignity of the preacher or baptiser. Another is the judge of this matter, and the censor of hidden things — since man judgeth according to the face, but God according to the heart. Unto thee let each one seem worthy of faith unto purgation, provided he be of the approved, and not of the manifestly damned,* etc.
+
+The whole passage let one see in his oration ***εἰς τὸ ἅγιον βάπτισμα***, fol. 245 in the Hervagian copy; also in the second part of our *Paedagogia* in the locus on the Church against the *Donatists and Anabaptists*. ²⁰⁴
+
+### The Universal Mandate.
+
+Furthermore the **universal mandate** — *Go into the whole universe* — evidently proveth that **God willeth all men to be saved**, and that the *fault of the perdition of men is not in God, but in the man himself*, according to that: *Thy perdition is from thyself, O Israel; but thy salvation is from Me.* Likewise: *By the envy of the devil death came into the world, and they who are of his part shall follow him.* Therefore that external Baptism is often *inefficacious unto life* (and efficacious unto death) is not of Christ's fault, but of men. From the universal mandate also it is agreed that ***infants without sacrilege cannot be excluded from Baptism***, as below we shall say.
+
+### The Inauguration and Threefold Testimony.
+
+**The inauguration which is made in Baptism**, the Father, the Son, and the Holy Spirit being present, testifieth that **we are received into the grace of God the Father**, and that unto us the *benefits of the Son are given and applied*, and that the *Holy Spirit is promised and infused into us, ruling and sanctifying us, that we may be vessels of mercy, and temples and domiciles of God*, and in true penitence, faith, and invocation may worship God — as sons the Father, as heirs of God and joint-heirs of the Son of God — having abnegated all injustice and iniquity.
+
+### The External Sign.
+
+I have said a few things on the institution. Now of the **external sign** also somewhat must be added. The external sign consisteth of three things: **water, tinction, and the pronunciation of the words**.
+
+**Water** is applied on account of the *analogy*. For as water was the *principle of the remaining created things* (as rightly is said, *ὠκεανὸς γένεσις πάντεσσι τέτυκται* — "ocean is made the genesis of all") — and as the *Spirit of the Lord vivified the waters by His vivific motion*, and finally *in waters and through waters the greatest miracles were wrought* (as in the flood, the Red Sea, the passage of the Jordan, the washing of Naaman the Syrian in the Jordan, the pool of Bethesda, etc.) — and as by water the *filths of the body* are washed away: so *spiritually water is the principle of regeneration*, and the Holy Spirit is efficacious in those baptised, and exerteth His virtue and operation in regeneration and vivification, and reconcileth man unto God, and *washeth from sins by the blood of Christ*. Not indeed is so great power in the water-element, but since the *benefit of salvation is a gratuitous gift of God*, God useth the *ministry of Word and Sacraments*, through which external ministry, as through a body, the *Holy Spirit as the soul of the Word* is efficacious — not *ex opere operato* (as though Baptism conferred grace from its external usurpation), but *ministerially*, that is, God alone confereth grace *through the dispensation of His Word and Sacraments, when they are received by faith*.
+
+**Immersion** signifieth that the *whole man is to be washed from the filths of sin, and inserted into Christ*. **Emersion** showeth that *the man is placed from death into a new life*, and now hath his *πολίτευμα in the heavens*, and warreth a good warfare, retaining a pure faith and an immaculate conscience. Of the *significations* of Baptism, we shall speak a little later.
+
+### The Pronunciation of the Words.
+
+The pronunciation of the words — ***I baptise thee in the Name of the Father, and of the Son, and of the Holy Spirit*** — admonisheth us of many great things:
+
+1. **Of God** — who He is; and that there is *one only divine essence* (because it is said *in the Name*, not *in the Names*), and *three Persons ὁμοούσιοι, συναΐδιοι, and ὁμότιμοι* (consubstantial, co-eternal, and co-honoured).
+2. **Of the discrimination of the Old and New Testament**. In the Law and the Prophets only was adumbrated the true acknowledgment of God through Christ, τὸν θεάνθρωπον — which fully and clearly emerged under Christ's reign.
+3. **Of sin, in which our nature is submerged**, as it is written, Ps. 69: *I am fixed in the mire of the depth, where there is no bottom: I have come into the height of the sea, and the tempest hath submerged me.*
+4. **Of the ablution of man from sin by the blood of Christ**, according to that: *Thou shalt purge me with hyssop, and I shall be cleansed.* And: *If your sins be as scarlet (that is, wounded and bloody), like snow they shall be whitened.* Likewise: *The blood of Jesus Christ cleanseth us from all iniquity.*
+5. **Of the severity of divine justice, and the magnitude of God's wrath against sin.**
+6. **Of the atrocity of sin, and its** βδέλυγμα **(abomination) before God.**
+7. **Of the mercy of God, and the love of the Son of God toward the human race**, as it is written: *So God loved the world,* etc.
+8. **Of the whole justification of man, of the remission of sins, and of adoption.**
+9. **Of the regeneration of man, and of the inception of new obedience**, which is perfected by *mortification of the flesh and vivification of the Spirit*.
+10. **Of the mutual pact and stipulation between God and man**, a bond being given (1 Pet. 3). For putting on Christ, we bind our faith in Baptism to wish to do those things which become sons and heirs, lest we be disinherited.
+11. **Of constant, firm, and true confidence and certitude of our salvation, and of victory against the Devil and the world**, and consolation in all tribulations, and hope of perfect deliverance and eternal life.
+12. **Of the cross and death** — because we ought to be *made like unto the image of the Son of God* (Rom. 8). For we are *immersed into the cross, and buried together with Christ* — as **Maximus's** eminent sentence hath it: *"The whole life of a Christian man, if it be according to the Gospel, is a cross and a martyrdom."*
+13. **Of the external symbol of faith, and of the discrimination between the assembly of the called, and other peoples who are not citizens of the Church**; likewise, of thanksgiving to God for so great a benefit — that He hath willed us to be members of His Church.
+14. **Of the vocation of the Gentiles unto the Kingdom of Christ, and of the spiritual Kingdom of Christ.**
+15. **Of the resurrection** — since we are again drawn out of the water. *τὸ γὰρ βάπτισμα δύναμίς ἐστι πρὸς τὴν ἀνάστασιν* (Baptism is a power unto the resurrection), saith **Basil**. For as death is figured by immersion and burial by the small stay in the water, so resurrection is represented by the extraction from the water, which afterward always endureth.
+16. **Of the dignity and efficacy of the whole ministry, of the Word, and of the Sacraments**; likewise, of the reverence to be shown to the ministry.
+17. **Of assiduous preparation for the migration.**
+18. **Of consummation and eternal life**, where there shall be no need of ablution. For **Baptism is the liberation of captivity, the remission of sins, the death of sin, the regeneration of the soul, the candid vestment, the holy and indelible seal, the chariot to heaven, the delight of Paradise, the reconciliation of the heavenly kingdom, and the charism of the adoption of the sons of God**.
+
+These summarily let be said on the words of Baptism, which are to be diligently considered — because they contain the sum of the Gospel, and are the *blessing by which we are consecrated to God*, and the *Name of the Lord is invoked over us*; and they discern the Church from all nations — because no other nation invoketh God as He hath patefacted Himself, namely the *eternal Father, placated on account of the Son, and sanctifying us by His Holy Spirit*. He hath not done thus to any nation.
+
+The sum of the words is this:
+
+> **I, minister of God, by the Word and mandate of Christ, and by His efficacy, invoke over thee the Name of the true and eternal God — the Father, Son, and Holy Spirit; and by this laver of regeneration I consecrate thee unto the true God, declare thee to be inserted and made a member of the Church, and testify that God — who is the Father of our Lord Jesus Christ — washeth thee from sins in the blood of Christ, and receiveth thee on account of the Son, and by His Holy Spirit copulateth thee unto Himself, and sanctifieth thee, and maketh an eternal covenant with thee — in which there is a *mutual obligation*: God promiseth that He will receive, hear, and defend thee; and thou in turn art bound to acknowledge, invoke, and worship this true God with true obedience, according to the Word delivered by Him.**
+
+Hither pertaineth the canticle of Isaiah 12: *In that day thou shalt say: I give thanks unto Thee, O Lord, because Thou wast angry with me, and Thy wrath being placated Thou consolest me. Behold, God is my salvation; I will trust and not fear. For my fortitude and my song and my salvation is the Lord God. Ye shall draw waters with joy from the fountains of salvation (with a large and gratuitous amplitude of grace)*, etc. And Isa. 55: *Ho, ye thirsty, come all ye unto the waters — even ye who have no money.* Isa. 44: *I will pour out waters upon the thirsty, and streams upon the dry ground. I will pour out My Spirit upon thy seed, and My blessing upon thy stock, and they shall germinate amid the grasses as willows by the running waters. This shall say: I am the Lord's; and he shall call himself by the name of Jacob; and this shall inscribe with his hand: To the Lord; and shall be called by the name of Israel.*
+
+Enough on the pronunciation of the words.
+
+### The Promise of Grace and the Requirement of Faith.
+
+**The promise annexed to Baptism is that of gratuitous salvation**, according to that: *He that believeth and shall have been baptised shall be saved.* There is required therefore such a faith as is the promise — namely, faith which is *firm confidence*, whereby man establisheth that God is so affected toward us as He is described in His gratuitous promise.
+
+### On the Mode and Rite of Baptising.
+
+Here I shall add a question **on the mode and rite of baptising**. Some *immerse whole infants* into the water; some *strip the infant* and sprinkle the naked head and back with water; some only *bare the head* and baptise. **This diversity hath nothing perilous.** For Christ commanded nothing concerning the mode — whether the whole body, or only some part, should be washed. And since the *power of purification* proceedeth not from the water (which is only an *external symbol*), it will be enough that the *spiritual signification of Baptism* be observed. There accedeth also the *blood of the covenant* by which the whole people was said to be sprinkled, when it was sprinkled on all — even though not the whole body of each was sprinkled. The word *baptise* also (Mark 7 and Luke 11) signifieth *to wash the hands and face — not to immerse the whole man in water* — which nevertheless in the rite of Baptism is not to be disapproved, where the custom, void of superstition, hath prevailed, which without grave causes is not easily to be changed.
+
+Let the studious also know the *phrases* which the sacred letters use:
+
+**I.** *To be baptised unto someone*, as unto Moses (1 Cor. 10) — that is, *to be baptised by the auspices and leading of Moses, Moses leading the way*.
+
+**II.** *To be baptised in the baptism of someone*, as of John (Acts 19) — that is, *to profess and embrace the doctrine which John announced and sealed by the symbol of Baptism*.
+
+**III.** *To be baptised into the name of someone*, as of the Father, Son, and Holy Spirit (Matt. 28) — that is, *to be dedicated and consecrated to God through Baptism*. Whence 1 Cor. 1 Paul denieth that he had baptised any into his own name.
+
+**IV.** *To be baptised into the death of Christ* (Rom. 6), or *for the dead* (1 Cor. 15) — that is, *through Christ's death to mortify and abolish sin, which is done by faith in Christ, that death may be extinguished, and there may be a certain resurrection from the dead*.
+
+**V.** *To be baptised into one body* (1 Cor. 12) — that we may all coalesce in Christ the Head. Likewise, *to be baptised for the remission of sins*.
+
+**VI.** *To be baptised with water* — that is, *to use the external ceremony of Baptism*; and *to be baptised with Spirit* — that is, *to receive the gifts of the Holy Spirit* — which in the primitive Apostolic Church happened by *visible sign* either before Baptism (as appeareth from the history of Cornelius, Acts 10) or after Baptism.
+
+### The Rebirth's Virtual and Actual Modes.
+
+This too must be added: **regeneration is a *spiritual thing*, and taketh place otherwise either *virtually*, without the external symbol or before the external symbol; or otherwise *virtually and actually together*, when the use of the external symbol accedeth.**
+
+For **Augustine** rightly saith: *Then it is invisibly fulfilled, when the mystery of Baptism — not the contempt of religion, but the article of necessity — excludeth.* And **Bernard**: *Will is imputed for deed, where necessity excludeth deed.* And of *sacraments and the res of sacraments* which some have — even if they lack the external symbols — it hath been said above in the general doctrine of Sacraments.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Third — Who is the Author of Baptism.
+
+**Baptism was instituted by divine authority through the ministry of John Baptist.** So it is written, Luke 3: *The word of the Lord was made unto John, son of Zacharias.* Not therefore by any private counsel of his own did John begin to baptise, but *ordered by the divine voice*, as he himself saith: *He who sent me to baptise with water.* By divine mandate therefore he came to the Jordan, preaching *the Baptism of penitence unto the remission of sins*, and *preparing the ways of the coming Lord* — who afterward Himself confirmed Baptism, enjoined it on His disciples, and instituted it in the Church, perfecting the people, that they might not only be *προπαρεσκευασμένος* (prepared beforehand), but also *κατηρτισμένος* (perfected).
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Fourth — Types of Baptism.
+
+**Many were the *types* of this most sacred laver**: as *the deluge, circumcision, the passage through the Red Sea, the passage of the Jordan, the washing of Naaman the Syrian in the Jordan and his deliverance from leprosy, likewise the division of the waters in the Jordan made by Elijah, likewise the pool of Bethesda* (John 9).
+
+**Of the deluge** Peter preacheth (1 Pet. 3):
+
+- **First**, as few were saved through water in the deluge (namely, eight men), so few are saved through Baptism — with respect to the *non-saved*, whose number is exceedingly great.
+- **Second**, as the water of the deluge and the blood of suffocated men concurred through water, that sin might be destroyed — so in Baptism water through the blood of the Son of God blotteth out sin and washeth men — in whose type it is declared that from the side of Christ hanging on the cross and dead *flowed forth water and blood*. For water through itself alone effecteth nothing unless the blood of the Son of God be present. As therefore in the deluge water blotted out blood (in which is life), so in Baptism water — by which we now live — through the blood of Christ (in whom is true life) preserveth the blood and life of men.
+- **Third**, as that universal deluge was a *testimony of wrath against sin*, so Baptism is a *universal testimony of grace wiping away sins in all believers*. And of Baptism in this sentence speaketh Ps. 29: *The Lord sitteth to make the deluge, and shall sit — the King — for ever, and shall give to His people virtue, blessing, and peace* — that is, by the deluge of Baptism our sins are washed away through Christ and His blood, and the *old man and the body of sin is extinguished, and the new man regenerated and renewed unto eternal life*.
+- **Fourth**, as in the deluge only those were saved who *abode swimming in the ark*, so of those baptised only those are saved who *in the true Church — namely, in the confession of true doctrine and the right use of the Sacraments — constantly persevere*. For *outside the assembly of the called there is no election, no salvation*.
+- **Fifth**, as the ark was preserved *by the hand of God alone amid the storms*, so the baptised are sustained in the Church amid tempestuous waves by the hand of God alone, and have their *halcyon days*.
+- **Sixth**, as the ark lifted Noah and the rest from the earth, so Baptism lifteth us from earthly things to the higher — that our *πολίτευμα may be in the heavens* — and the ladder of Jacob leading us to the hand of God the Father which we can apprehend, so that our conscience may have peace with God — as afterward on the utilities of Baptism we shall hear.
+
+**Of circumcision** we shall speak below, God helping. Now let it suffice us to know that **in the place of circumcision hath succeeded Baptism** — which truly *taketh away the preputium of our nature* — that is, *represseth the concupiscence of the flesh, restraineth depraved affects, taketh away also the formale of sin, admonisheth and exciteth man unto penitence and new obedience*.
+
+In 1 Cor. 10 another type is proposed — namely, the *journey of the Israelites through the Red Sea unto the land of promise*. For we are led out through Baptism *from the house of the servitude of sin, and the spiritual Egypt*. The *pillar of the cloud is the water of Baptism*. The *fire is the Holy Spirit*. The *promised land is the celestial possession and eternal life*, into which the *true Joshua, Jesus the Son of God, and not Moses, introduceth us*. The remaining types the studious may themselves consider from the context of the Histories, even without our notation. Now let it suffice that we have touched the chief.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Fifth — The Discrimination of the Sacraments.
+
+1. **The Sacraments of the Old Testament pre-announced the future thing, which the Sacraments of the New declare to have been exhibited.**
+2. As the *Sacrament of initiation* of old was **circumcision**, so for us the *initial Sacrament is Baptism*; and as the *Sacrament of confirmation* was the **paschal lamb**, so for us the *Lord's Supper is the Sacrament of confirmation*.
+3. The *Sacraments are fewer in number, more august in signification, and more preeminent in virtue, than were the Sacraments of the Old Testament.*
+
+**Augustine**, *Tract 45 on John*: *See — the faith remaining, the signs varied. There Christ [was] the rock; for us Christ, who is placed on God's altar. And they for a great Sacrament of the same Christ drank water flowing from the rock; what we drink, the faithful know. If thou consider the visible species, another it is; if the intelligible signification, they drank the same spiritual draught.*
+
+4. **In the final cause and in the *res* which is signified, there is no discrimination.** *One is the faith, one the Spirit, one the fruit of all divinely instituted Sacraments.* But the *matter* maketh great difference. For in the Old Testament there were *types*; in the New Testament the *truth is exhibited*: in the former is shown the *future*, in the latter the *done*.
+
+5. **In the Old Testament** was the *blood of bulls and the slaughter of flocks*. In the New — *of what sort is the blood? Is it none? Far be it!* For otherwise the sacrifices and Sacraments of the Old Testament were nobler and more preeminent than the Sacraments of the New Testament — since those had *true blood*, but ours lacked even *natural blood*, and would be *husks without kernel*, and *types more than the true thing*. **The blood therefore we have of the *immaculate Lamb, who is Jesus Christ the Son of God*.**
+
+6. **The discrimination between the Sacraments of the New Testament** must also be considered according to the words of Christ's institution. For in Baptism through water we are truly *washed from sins*, being cleansed by the *blood of Christ* — not that the water is the blood of Christ, but that *spiritually the whole action is performed in the Name of the Father, and of the Son, and of the Holy Spirit*.
+
+**But in the Lord's Supper is a *matter which is distributed and received by the corporeal mouth — the very true and substantial Body, and the very Blood of Christ*** — Christ saying: *Take, eat, this is My body.* Likewise: *This is My blood.* And although the *presence and manducation* can be said *spiritual* (because *invisible, insensible, and incomprehensible*) — yet the **true body**, not a *typus*, but a body, as a human body — *substantially without any trope or figure is present, distributed, and received*, according to the *omnipotence and truth of Christ*, who knoweth the mode and reason how this can and ought to be done. ²⁰⁵
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### Of the Sixth — The Discrimination of the Baptism of Christ and of John.
+
+**The whole ministry of John, both the doctrine and the baptism, were the work of God Himself and the *inception of the New Testament* — not a bare and idle spectacle**. Those therefore baptised by John received the *remission of sins by faith*, and God the Author of Baptism was truly efficacious in them, and gave them *regeneration by water and Spirit, remission of sins, righteousness, and eternal life*. For manifestly Christ, Luke 20, saith: *The baptism of John was from heaven.* And Mark and Luke say that *John preached the Baptism of penitence unto the remission of sins.*
+
+Yet the **Baptism of John differeth from the Baptism of Christ — not in ceremony, or external ministry, nor in effect** (as the Scholastics feigned, following their Lombard), **but differeth in *persons***. John baptised with water — that is, is a *minister of the external ceremony*. But Christ is the *Author of Baptism*, and is efficacious through the ministry, *baptising with Spirit and fire* — that is, *He giveth the Holy Spirit, who kindleth the light of the true acknowledgment of God, ardent dilection and faith*.
+
+**John, who preached of the Christ about to suffer**, and the Apostles and all ministers who preached of the Christ having suffered and been raised, *have the same ministry and the same effects in believers*. Yet the ministers themselves cannot give the Holy Spirit, but know this to be the *work of Christ* — on account of whose mandate and promise Baptism availeth and hath *virtue to touch the body and wash the heart* — not through itself, but *by the Word making it* — not because it is said, but because it is believed — that I may speak with **Augustine**: *Christ hath retained to Himself the power of the baptiser, and hath delivered the ministry to His legate.* ²⁰⁶
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
