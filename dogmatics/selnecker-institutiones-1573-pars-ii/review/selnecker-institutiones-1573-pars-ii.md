@@ -7092,3 +7092,261 @@ There is extant a little book of ***Ferrandus, deacon of the Church of Carthage*
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+## On Contracts.
+
+The whole doctrine on **Contracts** pertaineth to the **seventh precept**, *Thou shalt not steal* — by which precept God prescribeth *equality in the commutation of things instituted by arithmetic proportion*, as Paul also 1 Thess. 4 saith: *That no one transgress or take away more in business* — that is, *not to depart in contracts from legitimate equality*, which being taken away, the *communication of things cannot endure*. For where equality is not preserved (as in *usuries* and other expilations exceeding the mode), one party is altogether exhausted.
+
+And this is **Commutative Justice**, which God commandeth to be preserved, and violated He certainly punisheth — because He Himself is *equal and just, is not a Tyrant, is not προσωπολήπτης, but the same to all who invoke Him*. Equality therefore must be preserved, not only for our own tranquillity, but also on account of God.
+
+Most rightly **Aristotle** saith: ***ὁ δίκαιος ἐστιν ὁ νόμιμος καὶ ὁ ἴσος. τὸ μὲν δίκαιον ἄρα, τὸ νόμιμον, καὶ τὸ ἴσον, τὸ δ᾿ ἄδικον, τὸ παράνομον καὶ τὸ ἄνισον.*** *"He is just who obeyeth the laws, and is equal. And right is that which is sanctioned by laws, that is legitimate, and what is equal. And on the contrary, injury is both that which is committed against the law, and that which is iniquitous."*
+
+And **Orpheus** in his hymns tributeth *equality* to justice: *ἐξ ἰσότητος ἀεὶ θνητοῖς, χαίρουσα δικαίοις.* And: *Αἰεὶ γὰρ τὸ πλέον συγέει, ἰσότητι δὲ χαίρεις.*
+
+And worthy of memory concerning **equality** is the sentence which **D. Eber** was wont to use:
+
+| Latin | German |
+|---|---|
+| Laborum partitio | *Getheilte last* |
+| Quietis communio | *Gemeiner raft* |
+| Mercedis aequalitas | *Gleicher genies* |
+| Opus prouehit, | *Fürdert das werck* |
+| Vires reficit | *Erhelt bei sterck* |
+| Minuit molestias. | *Mindert verdries.* |
+
+And of the same sentence there are extant verses eruditely written:
+
+> *As with equal effort a most-heavy pile*
+> *Fixeth a shaft in the rapid stream:*
+> *So labour, divided among trusted friends*
+> *Buildeth the work which the ardour of one cannot.*
+> *Divided things absolve immortal cares by work,*
+> *Common rest refreshes the languid limbs.*
+> *And easy works render the glad hope of labour,*
+> *Expecting rewards on equal scale.*
+
+### Three Rules on Contracts.
+
+Now concerning **contracts** somewhat must be added — which the Greeks call ***συναλλάγματα*** from *συναλλάττειν*, on account of *commutation and permutation, or reciprocal suffering*, which is *τὸ αὐτιπεπονθὸς*. Since the integral doctrine on contracts pertaineth to the schools of Jurisprudence, we shall consider only these **three**:
+
+1. **Rules on contracts.**
+2. **Species of contracts.**
+3. **Violation of equality.**
+
+**On the First** — Lest contracts be violated, but that they may be legitimate and made with safe faith and conscience — these rules ought to be held by each one who bears the name of Christian man.
+
+**First rule**: **Natural right altogether is divine right**, according to whose norm each ought to render to his neighbour *that which he wisheth for himself to be done by another*, as it is written Matt. 7: *Whatsoever ye wish that men do unto you, do ye also unto them.* And this saying — *"What thou wilt not have done unto thee, do not to another"* — **Alexander Severus** so magnified that he commanded it *to be proclaimed by heralds and inscribed in public and celebrated places*. **Nazianzen** eminently rendered the same saying thus:
+
+> *διαπρὸς ἄλλως μὴ παθεῖν ὅλως θέλεις,*
+> *τοιαῦτα καὶ σὺ μὴ δὲ δρᾶν ἄλλῳ θέλε.*
+>
+> *"What from another thou willst not to bear or suffer,*
+> *That in turn to another see that thou do not."*
+>
+> Likewise:
+>
+> *τὰ χρηστότης δόγμα, συντομώτερον.*
+> *τοιαῦτ᾿ ἐπὶ τοῖς φίλοις, νὴ τοῖς πέλας,*
+> *οἷος σεαυτῷ τόσδε τυγχάνειν θέλεις.*
+
+**Second rule**: In moral matters ***moral certitude*** suffices — that is, *not the most exact ratio must be sought, but the middle ἐν πλάτει must be held*, as is said: *Nothing to excess.* Likewise: *There is a mode in things. Virtue consisteth in the mean.* And is celebrated that of **Isocrates**: *"Because to attain the middle is often difficult, better is it to sin in defect than in excess."* For even though *τὸ ἴσον μέσον τι ὑπερβολῆς καὶ ἐλλείψεως* rightly is said, *καὶ πᾶς ἐπιστήμων τῶν ὑπερβολῶν, καὶ τινὲς ἐλλείψεων φύγει* — whence Proverbs: ***In medio virtus. Medio tutissimus ibis. Medium tenuere beati. Extrema sunt vitiosa.*** ***διὰ τοῦτο καὶ ὀνομάζεται δίκαιον, ὅτι δίχα ἐστίν*** — that is, *divided into two equal [parts]* — as it were *δίχαιον*. And *δικαστής* (judge), as it were *διχαστής*, who *cuts the thing into two equal parts* — as the Germans call ***Biderman***, *the equal and good man*, as it were *Beiderman* — who followeth neither defect nor excess, but *watcheth the mean*, and equally is distant from either extreme.
+
+Yet if the mean cannot be obtained (as it often cannot), *more or less* must be done rather than *too much*. And this the Jurisconsults call *ἐν πλάτει* — as when anathema is denounced against those who shall not have paid by the first day of August, they are freed from the thunderbolt if within the fourteenth day they shall have freed their faith. For *a little even beyond the prescribed is to be conceded in those things which are of humanity*, by *example and imitation of God Himself* — who *doth not enter into judgment with us by strict right, but remitteth debts, and is long-suffering and patient, and even our small and infirm little obedience approveth and predicateth, and covereth blemishes, negligence, forgetfulness, imbecility*.
+
+And hither pertain the sayings: *"Better is it to give than to receive. Better to be deceived than to deceive. He knows not to command, who knows not to dissemble. Not to the line, not to the semi-atom. Too much stretched is broken,"* etc.
+
+**Third rule**: **In every contract charity, arising from faith, ought to pre-shine**, and *nothing must be done in contracts which fighteth with the charity of the Law*, as Rom. 13 it is written: *Owe to no one anything, save that ye love one another.* And 1 Thess. 4: *That no one deceive and defraud his brother in business, since the Lord is avenger of all these things.*
+
+**Fourth rule**: In contracts and commutations of things ***Arithmetic proportion*** must be preserved — which being violated, it engendereth ***παρανομίαν καὶ ἀνισότητα*** (illegality and inequality) *pernicious to conscience and to human tranquillity*. And wisely is said: *"It is fitting to act well among the good"* — that is, *to each his own must be tributed*. And: *"A good and justice-loving man asks not more than what is just."*
+
+**Fifth rule**: Luke 6: **Lend, hoping nothing thence** (*mutuum date, nihil inde sperantes*). This precept of Christ in matters of lending must be diligently preserved. Now the sentence is this: *Even though from those to whom loan is given a similar office cannot be hoped for, and those whom we aid cannot repay the turn — yet the indigent are to be aided by our aid, and the sole affect of aiding the neighbour ought to impel us, even if we deem we cannot receive a loan* — that is, *a similar office* — *in return; nay, even if we fear lest that perish which we credit to an indigent brother, since we have God as vadis and sponsor, who is going to render with interest whatsoever in God's name we credit to an indigent brother.*
+
+This is the true sentence of Christ's words: ***δανείζετε, μηδὲν ἀπελίζοντες*** — *"Lend, even if from him to whom ye lend ye cannot hope for a similar loan"* — or also: *"Lend and by no means despair of compensation, since your reward shall be much, and ye shall be sons of the Most High."* Whence **Basil** saith: *What is that loan to which the hope of retribution doth not adhere? Consider the force of the word, and thou shalt admire the piety of the author. When thou art about to give to the poor with the intuition of divine charity, this same is both a loan and a gift. A gift indeed on account of unhoped-for retribution — but a loan on account of the munificence of the Lord, who in his stead restoreth, as followeth: Your reward shall be much. Wilt thou not have the Omnipotent obligated to thee for restitution? Or wouldst thou take one of the opulent citizens if he pledge himself as surety — but wilt thou repudiate God pledging Himself as surety for the poor?* And **Chrysostom**: *Attend the wondrous nature of this loan: another receiveth, and another obligeth himself for debts, rendering a hundredfold in the present, and in the future eternal life.* Likewise **Gregory of Nyssa**: *Man ought to avoid the noxious solicitude, nor ravish from the poor an augmentation of riches, of brass and gold, exacting the fruit of sterile metals.* The same the Germans say: **"To give alms doth not reduce to poverty."**
+
+These things somewhat more copiously I expound, that the genuine sentence of Christ's precept may be sought — who in this place by no means prohibiteth *to exact and to seek anything by a just and legitimate mode* — whether by the contract of emption, or by reason of that which is interest — but prohibiteth *diffidence, tenacity, Ethnic solicitude, and avarice*. But that *usurious pactions are otherwise prohibited and punished*, is certain — as it is written Lev. 25: *Thou shalt not give thy money for usury.* And Deut. 23: *Thou shalt not lend at interest to thy brother.*
+
+Great is today the complaint of many concerning the *ingratitude and perfidy of those to whom loan is given*. And the Germans say:
+
+> *Leih ich nit, so ists ein zom;*
+> *Leih ich, so ists gelt verlom;*
+> *Doch ist besser der erste zom,*
+> *Denn gelt und freund zugleich verlon:*
+>
+> *"If thou wilt lend, thou wilt not have; if thou wilt have, not so quickly;*
+> *If so quickly, not so good; if so good, thou wilt lose a friend."*
+
+Just is this complaint — but it doth not suffice for the *excuse of tenacity*. For even if the *loan* cannot be recovered, yet the poor must be succoured *with hope and confidence of divine compensation*. And *money must not be esteemed more than a friend*. And it is better to lose money than to lose a friend. Yet it must be seen lest under the name of friend *prodigal and gluttons* sell themselves — to whom money is rather to be denied than given. This rule too must be held: **"Let outer things flow forth, but I shall be lord of them."** And so much let be said concerning the rules to be observed in every contract, with which every contract fighting is *illicit and prohibited by the divine voice*.
+
+### The Species of Contracts.
+
+**Second — On the species of contracts.** The species of contracts are four. For contracts are made either **by the thing itself**, or **by words**, or **by letters**, or **by consent**.
+
+- **By the thing**: as *loan, commodate, deposit, pledge*.
+- **By words and letters**: as *stipulation, fidejussion*.
+- **By consent**: as *emption, vendition, location, conduction, contract of emphyteusis, society, mandate*.
+
+On these things let the books of the Jurisconsults be consulted, and let the studious apply the fifth book of **Aristotle's** *Ethics*.
+
+### The Violation of Equality.
+
+**Third — On the violation of the equality to be preserved in contracts** — [there is a] manifold [violation], of which in the explication of the seventh precept we shall speak. Many are the unjust contracts. *Public and private thefts* are manifold in every life — so that not undeservedly the world is named ***a stable of thieves***. ***πλεονεξίαι*** and frauds in contracts are more numerous than can be counted; likewise *unjust gains* — which *ill-gotten, are ill-dispersed, and reach not the third heir*; *unjust wages and stipends* which are devoured by the *slothful and idle* — as in *courts and republics* often the slothful and idle glory in *rapacity of Ecclesiastical goods*. And so great is the *avarice of men* that many hold that account of *equality* is rather to hold none than that anything should be lacking to themselves or should recede from themselves. Accede *immoderate expilations*, likewise *usury painted and excused with various techniques*. Of all these severally is said: *Woe to thee who plunder, for thou shalt be plundered.*
+
+### On the Use of Ecclesiastical Goods.
+
+**On the use of Ecclesiastical goods** we have said somewhat above in the locus on the magistrate; more prolixly however in the first part of the *Paedagogia*, on the kinds of thefts. **The gold of Toulouse** in the end is poison to the soul, and authority commands **Sambicus** to suffer worse things. Let each therefore be mindful of the saying: *What thou hast not deposited, take not.* Likewise: ***Sacred theft, sacred penalty.*** ***Naked to the infernal barks foolishly thou art borne.*** ***A coal taken from the altar burneth the body, goods, and soul.***
+
+But if *nobles, politicians, and others* refuse to consider the wrath of God against ravishers and possessors of Ecclesiastical goods (goods once dedicated to God), *let them indeed proceed and indulge their pleasures* — until they experience in themselves the *wrath of God*, who shall sustain and preserve His Church, and shall nourish her doctors and ministers, while they themselves perish and give the penalties in this and in the future life. Experience assuredly testifieth that a *miserable fate impendeth* on him — and on his seed — who shall have laid hands on *sacred things, on the goods dedicated to God*. **"If thou hast some enemy or plotter against thy kingdom"** (saith **Heliodorus** to Seleucus), **"send him to occupy Ecclesiastical goods — whom, if he shall have escaped alive, thou shalt receive scourged."** Let Princes restore those goods to pious uses, and confer them to *the edification, sustentation, and preservation of Churches and Schools* — unless they wish sometime to be *deprived of every blessing*. **Sin certainly is not dismissed unless the offered be restored.** And no excuse availeth where the *accusation of God is manifest*, and all human counsels are chastised which prefer themselves to celestial [things].
+
+### On Usury.
+
+Moreover concerning **usury** it is asked whether in loans that has place? The response is easy: *loan is an office and liberal contract*, and is depraved by usuries — that is, *by gain exacted above the principal* — and therefore usuries are prohibited by divine law, as Lev. 25: *Thou shalt not receive from thy brother usuries, nor more than thou hast given.* And Ps. 15: *Well to him who giveth not his money for usury.*
+
+The law of nature is also such that *what by nature does not fructify, from it fruit cannot be taken* — as the coin doth not by nature fructify, but was made for the sake of commutation. Therefore no one can use it as merchandise. **Usurious [dealing]** is damned, which hath *avarice for foundation and burdeneth and exhausteth the neighbour* against the *precept of love*.
+
+Not indeed *per se* is it sin to give money for loan according to *paction interposed* — either of emption, or of that which is interest, or even of a certain revenue, or of alms for Churches, Schools, hospitals, *sustentation of widows and orphans* — especially the *determination of the ordinary and legitimate magistrate*, dispensing in these difficulties of time, and *ordaining as-it-were statutory revenues*, as today the *mode of usuries* is prefixed, nor may more than *four or at the most five per hundred aureos* be paid. But the *ratio of sin from the adjunct is considered and increaseth* — namely from the fact that *the soul of the usurer is avaricious and idolater*, and that *not public commodity but private lucre is sought*, and that *not the ratio of necessity in this injury of time* (as from those who cannot fix certain seats — ministers of the Church, pious exiles, and such) — but *cupidity of having* preponderateth, and *the neighbour is burdened against the precept of love*. But where *avarice is absent, and account of public commodity is had, and necessity urgeth, and injury is not done to the neighbour* — there also the *usurious contract ought not to be disapproved*: which if by its nature it were sin, God would not have permitted it to His people, that they should receive usuries from foreigners (Deut. 23).
+
+Now concerning the forms of contracts let the studious read **D. Philip's** *disputation on contracts* in the *Epitome of Moral Philosophy*. Now we shall add a brief admonition on Marriage.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## On Marriage.
+
+On **Marriage** we have discoursed in the *Paedagogia*, explicating the sixth precept. But often in the Church it must be spoken concerning marriage on four causes:
+
+1. That all and each may be *piously and rightly instituted concerning this kind of life*.
+2. That the pious spouses may have *certitude and consolation concerning their state* — namely, that this pleaseth God as its author and preserver.
+3. That the celibate and the younger may with *pious souls and eyes reverently look upon this order of life*, and prepare themselves for it with *true chastity and prayer*.
+4. That the *Devil be refuted* who extenuateth the dignity of this state, and *preferreth feigned, impudent celibacy of monks and Canonics most impure to the Ordination of God*.
+
+Now all and each of us ought to learn these four things:
+
+**First**, that ***God Himself hath instituted the order of conjugal life***. God the Father leadeth the spouses to the altar. The Son is *supreme priest* and blesseth them. The Holy Spirit copulateth them with *ardent and chaste love*. Therefore it is written: **Elohim** — that is, the *whole Trinity* — blesseth Adam and Eve. For not with a *bestial mind* ought we to look upon this state of life, but with a *pious and chaste mind* to feel and speak reverently concerning this whole kind of life, whose whole divinity is guardian.
+
+**Second**, that ***this state is the first of all in the human race — the fountain and foundation of all others in the Church and polities***. From this state are born *worshippers of God*, and whosoever ought to profit the human race.
+
+**Third**, that ***this state is preserved by God immediately***, that it may be and abide integral. So great is the malice and ἀταξία of men that unless God Himself by His Spirit and Word should bend hearts, and afterwards also mediately by the Magistrate coerce the impure and contumacious, this most holy way of life could not stand. God also *wondrously blesseth this order in many modes*.
+
+**Fourth**, that ***this ratio of life is an Academy*** in which by very many exercises in that very use are learned the things which concerning *the love of God toward us wretched, as toward His sons*, likewise concerning *patience, invocation, and other virtues* are delivered. Hence too so many are the similitudes in Sacred Writings taken from *nuptials, from marriage, from the love of parents toward children, from those in travail, from conjugal love, from στοργή* — as the Book of Canticles and many most sweet sayings everywhere show. *As a father hath mercy on his sons. Can a mother forget her infant? He proceeded as a bridegroom from his thalamus. Be a father to orphans, and God shall love thee more than thy mother. The Church Hephzibah, my beloved.* And Ps. 45 is an Epithalamion of the Bridegroom Christ and the Bride Church, etc.
+
+Rightly and eminently is it said in the **Stigelian** verse:
+
+> *Marriage is the Divine Academy of human life.*
+
+### Six Ends and Modes of Marriage — the Image of Christ and the Church.
+
+Then pious spouses receive certitude and consolation in their kind of life from thence:
+
+**First**, because they know that this kind of life is by God *simply divinely constituted and confirmed with divine solemnity and sacrosanct inauguration* — which certitude and consolation no one from among Monks, Canonics, or Sacrificers can have. Rightly therefore pious spouses can define marriage in this mode:
+
+> **Marriage is the *legitimate and indissoluble copulation of one male and one female, divinely instituted*, that we may acknowledge God to be a *chaste mind*, and may serve Him in chastity, and that in this mode, the human race being propagated, the eternal Church of God may be gathered.**
+
+And pious spouses and others ought to have in sight the **ends** for which — or unto which — marriage was instituted:
+
+1. **That we may acknowledge God to be a *chaste mind*** — since the image ought to refer to the archetype.
+2. **That the human race by a certain law be propagated and preserved.**
+3. **That from the human race by this law propagated may be gathered the eternal Church of God** — as most sweet is that voice of **Plato** in the 6th [book] *De Legibus*: ***χρὴ τῆς ἀεὶ λυμᾶς φύσεως αὐτέχεσθαι τῷ παίδας παίδων καταλείποντι ἀεὶ τῷ θεῷ ὑπηρέτας αὐθ᾿ αὑτοῦ παραδιδόναι*** — *"It is right of the ever-eternal nature to hold that one leaving children of children always renders ministers of God for himself."* These three principal ends are — since they endured before the Fall.
+
+4. **That it be a remedy against vagrant lusts**, as Paul prescribeth 1 Cor. 7: *For avoiding whoredom let each have his own wife.* Likewise: *Better to marry than to burn.* And **Ignatius** piously saith: *Impose on no one ζυγόν or burden of virginity, for its possession is very perilous, and can with difficulty be kept — especially by the younger* — *that they become spouses before they be corrupted by the custom of whores.*
+
+5. **That man may have a certain associate of studies and labours**, as God Himself saith: *It is not good that man be alone; let us make for him a coadjutrix.*
+
+6. **The sixth and last end is that this conjugal covenant be an image of the covenant between Christ and the Church** — which happens in five modes:
+
+**I.** As is mutual love between husband and wife, in which love both ought to acquiesce and not appetite others: so between Christ and the Church there is perpetual love, by which Christ embraceth His bride the Church, and in turn the Church Christ (Eph. 5).
+
+**II.** As a spouse doth not desert her socius in any kinds of diseases, nor dissolveth the marriage by cruelty or adultery: so the Church adhereth only to Christ and His Word, generateth not *schisms or factions which dissent from Christ's Word*; and in turn Christ embraceth this Church which hath the pure Word, and loveth not heretics dissenting from the true doctrine.
+
+**III.** As in marriage is *society of goods and of tribulations*, and one helps to bear the burdens of the other, mitigates the tribulations of one's socius, consoles, and (as much as can) raiseth him up and giveth back soul in calamities: so Christ largely bestoweth His gifts on the Church, and in turn draweth on Himself the tribulations of the Church, as He saith: *I shall bear you up unto your old age.*
+
+**IV.** As a spouse defendeth her own socius, and doth not easily suffer injuries to be inflicted on him, wardeth off perils from him, and resisteth those who either speak evil of him or plot snares for him: so Christ wondrously defendeth His Church against the *Devil, Tyrants* — lest the gates of hell prevail against her.
+
+**V.** *Generation in Matrimony* is an image of that divine and spiritual generation by which Christ procreateth *sons of God through the Word and Holy Spirit*.
+
+### The Adornments of Marriage.
+
+All these things severally and together ought to be a great consolation to pious spouses — both because they know that *God Himself is the author of this kind of human life*, and because they acknowledge that in a pious and honest marriage the image between Christ and the Church is expressed and represented (as also **conjugal** *ἐπιείκεια* proposeth an illustrious image of the love and lenity, patience and commiseration of Christ toward His Hephzibah or Church); and because the Son of God Himself, born of the Virgin Mary betrothed to a husband, honoureth and adorneth conjugal life *by His first miracle at Cana of Galilee*, and confirmeth marriage by His own voice, saying: *They shall be two in one flesh* (Matt. 19).
+
+### The Preparation of the Younger and Celibate.
+
+Then how the younger and celibate ought to prepare themselves for this state, Paul showeth 1 Thess. 4: *This is the will of God — your chastity or sanctification — that ye abstain from whoredom, and that each of you may know how to possess his own vessel or body with sanctification and honour* — that is, *to preserve for one spouse chaste and holy*. For *whore-mongers and adulterers God will punish*, as the examples of all times and Histories, of the deluge, of Sodom, of the Tribe of Benjamin, of Solomon, of Sparta, and of kingdoms, of Republics, and privately of other men testify — which examples are so frequent that we can almost say: *"Such examples no house lacketh."*
+
+Let us therefore detest the *abuse of human seed* and *commixture contaminating bodies* and *attracting punishments upon themselves and upon future seed*. Reverence for seed also is greater on this account, because *the seed of the woman, the Son of Mary, is our brother, of whom we are members*. Since therefore God instituted marriage, and sanctified this order of life, that it may be *a holy and honest remedy against the turpitude of whoredom*, let pious adolescents prepare themselves for conjugal chastity by *purity of life and by invocation*, nor let them gratify diabolical filths and impure things, gathering the human seed *into the ignominy of the seed of women*, and machinating various things unto the destruction of the human race. Let us think also of the most sweet verses of **D. Philip**:
+
+> ***Πνεῦμα ἐὼν νεὸς ἀΐδιος καθαρόν τε καὶ ἁγνὸν,***
+> ***Τῶν ἁγνῶν δέχεται ἱερὰ μᾶνα φρενῶν.***
+>
+> *A chaste God is Mind; with a chaste mind He wills to be invoked,*
+> *And commandeth chaste prayers to have weight.*
+
+Finally therefore we now justly execrate not only *whoredoms, adulteries, and abuse of seed*, but even *impudent celibacy and the prohibition of marriage* — such prohibition as is of *sacrificers and Canonics, celibates, of impure bellies*. Let us consider *God's mandate*, and the examples of the *Patriarchs and Prophets, Apostles, Luke, Peter, Bishops, and of all the pious*; and let us pray God to defend and preserve this kind of life — which no one save Satan and his organs is wont to blame and to prohibit in the light of the celestial doctrine so clear and open. For celibates who were in the shadows of doctrine before this time deserve in their own mode some excuse. But of these enough now.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+## On Solicitude — Licit and Illicit Care.
+
+Care not only in marriage, but in every state of life is threefold: **Profane or Ethnic**; **necessary or holy**; and **mixed of these**.
+
+### Profane Care.
+
+**Profane care** is prohibited and manifestly damned, Matt. 6. And rightly is it wont to be said:
+
+> *Ambitious honour, wealth, and foul pleasure —*
+> *These three the world hath as its triune deity.*
+> *But these three are damned by the mouth of the triune Deity.*
+> *By God's mouth the whole profane care falleth.*
+> *All things are going to have some end with time.*
+> *Only faith in Christ standeth and thriveth.*
+
+Let *concupiscence of the flesh* (that is, *confusion of lusts*), *concupiscence of the eyes* (that is, *avarice and the wicked love of having*), and *pride of life* (1 John 2) — be far from us. Nor ought we to accommodate ourselves to the form of the world (Rom. 12). And ill to him who so in the world engageth that with it he sedimenteth or maketh himself an angle in configuration — that is, in confusion of opinions, cults, and morals.
+
+### Necessary Care.
+
+**Necessary care is of office and vocation.** We ought to be over [things] in solicitude (Rom. 12), and we ought to have care of domestics (1 Tim. 5). Kings, Princes, Counsellors, Magistrates, Doctors, Preceptors, Fathers and Mothers of families are *divinely obligated to this care*. Where faith is, where invocation, where piety, where zeal of God's glory — there also is this *pious and holy care*, which often shaketh off sleep and other delights in which the *profane and secure mind* otherwise is delighted. Hither pertaineth Ps. 37. And the sentence: *Pray and labour. For the law and for the flock.* ***οἰσέον καὶ ἐλπιστέον.*** And:
+
+> *Do those things which are thine, which the true function requireth,*
+> *Commend to God alone all the rest.*
+
+Item:
+
+> *Be patient — if thou wishest to be wise, and holy to be held,*
+> *Sow tears; the harvest hath joys.*
+
+Item:
+
+> *God giveth every good — but not by the horns a Bull.*
+
+And:
+
+> *οὐ χρὴ παννύχιον ἕυδειν βουλήφορον ἀνδρα.*
+
+To this necessary care pertain those things which above concerning *the works of vocation, in the locus on good works*, we have briefly said.
+
+### Mixed Care.
+
+**Mixed care** is *partly pious, by reason of vocation and office; partly profane, by reason of the affections of avarice, of ambition, of hatred, of envy, of doubt, of diffidence, of impatience*. The affections must be repressed by thought of the divine mandate, as: *Possess ye your souls in patience. Humble yourselves under the powerful Hand of God, that He may exalt you in the time of exaltation, casting all your solicitude upon Him, since He hath care of you.* And Ps. 54: *Roll upon the Lord thy care, and He shall nourish thee, and shall not eternally give fluctuation to the just.* Likewise: *Not unto us, Lord, not unto us — but unto Thy Name give the glory.*
+
+Often today doctors in Churches and Schools legitimately function in their office, but yet corrupt that very thing which is of vocation *by private affects*. There concur *ambition, pride, arrogance, contempt of others, hatred, envy, cupidity of vengeance, πολυπραγμοσύνη, ἐπιχαιρεκακία, pertinacity*. If these were removed, there would be a place of concord, and all things would be done rightly and **εὐσχημόνως**; even if unto other [things] which are less enormous, it were easily and deservedly to be connived, on account of *public good*.
+
+**Let us pray the Son of God, that He teach and lead our breasts by His Holy Spirit unto pious care of our vocation, and give us the strengths of soul and body to sustain the labours.** Rightly is said: *They give not soul, because they have not soul.* And: *No sad one is crowned, no mournful one triumphs.* And even if that is true — *Blessed is he who is always cautious* — namely by reason of *conscience humbling itself before God, and by reason of future events which we yet commit to God* — yet in vocation those things must be done alacritously of which at length an account must be rendered; and let *the gifts in us be excited by study, by invocation, by alacrity of soul, and by continuation*.
+
+**We must walk, must proceed, must grow.** But the progress of the faithful cometh not without temptation, nor doth anyone become known to himself without the examination of provings; nor shall anyone be crowned unless he conquer, nor shall he conquer unless he strive. But who striveth save one having an enemy and resisting temptation? saith **Augustine**.
+
+Many things daily occur which try to impede the office of vocation — especially the Evangelical, or that which is *proper to the ministry* — as poverty, frequency of contentions, exiles, melancholy also, and difficulty of labours, ingratitude of the world, infidelity of hearers, perversity of judgments, calumnies, obtractations, and many similar things. Examples too incur into eyes that arrogant and proud are preferred to pious and orthodox — security and rage growing in most; and whoso in some at-least (though small and often feigned) authority precedeth the superior — as it were speaks from a higher place — thinketh that he ought to seem wiser, and would for the most part have his authority avail for reason. From which evil endless evils often arise, as today we experience daily.
+
+**But these must be committed to God, and what the ratio of vocation demandeth must be done, and the consideration of the account one day to be rendered to God.**
+
+> *Be subject to God, discharging the imposed function,*
+> *And hope in miseries and ask thence for help.*
+
+Item:
+
+> *Let the best be hoped, the worst feared — but whatever lot*
+> *Shall have brought, let each with strong breast bear it.*
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
