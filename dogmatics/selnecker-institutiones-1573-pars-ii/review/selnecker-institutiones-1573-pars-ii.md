@@ -1659,6 +1659,8 @@ Then they know that ***in the very temptations and combats faith becomes more il
 
 ¹⁶⁰ **The Gregory-and-Trajan legend, and the anti-purgatorial polemic.** — The medieval *Gregory-freeing-Trajan* legend — that Pope Gregory the Great by his prayers and merits liberated the emperor Trajan from hell — is a paradigm **hagiographic-purgatorial fable** transmitted through **Paul the Deacon's *Vita Gregorii*** (PL 75:41-59) and reproduced widely in the medieval hagiographic tradition (e.g. **Legenda Aurea** on Gregory). The paradigm-Lutheran anti-purgatorial critique is above all at **Luther's 95 Theses** (WA 1:233-238) and at **Chemnitz, *Examen Concilii Tridentini* Pars II *De Purgatorio*** (Preus tr. 1978, II:451-570). Selnecker's dismissal of *"Trajan-Gregory"* as a foundational-fable of purgatorial superstition is the paradigm-Reformation *ostensio-per-ridiculum* rhetoric.
 
+¹⁶¹ **Selnecker's 5 Pelagian arguments rebutted + Noah/Hezekiah "perfect" exegesis.** — Selnecker's rebuttal of the 5 classical Pelagian syllogisms (Rom. 2 lex-naturalis + Deut. 30 mandatum-non-supra + Matt. 19 serva-mandata + Ps. 7 iudica-me-secundum-iustitiam + Gen. 6 Noe-iustus-perfectus) recapitulates **Melanchthon, *Loci* 1559 *De Peccato Originali*** (CR 21:697ff.) and **Apology of the Augsburg Confession IV.6-27** (*BSLK* 159-165 / *Kolb-Wengert* 120-124). The two-fold *iustitia personalis* vs *iustitia causae/officii* distinction is the paradigm Melanchthonian framework for reconciling David's Ps. 7 imprecation with sola-gratia. The *Thom* Hebrew "perfect" exegesis draws on **Forster's *Dictionarium Hebraicum*** (see note ¹⁰⁰), and on **Luther's *In Genesin*** on Gen. 6:9 (WA 42:305ff. / *LW* 2:56ff.) — the *simplex-in-doctrina-integer-in-conscientia* framework. The Prosper triad and Luther's *velle-esse-iustum-summa-est-iustitia* are Reformation-era commonplaces transmitting the *simul iustus et peccator* framework.
+
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
@@ -3008,6 +3010,137 @@ Since another's works profit not the living, *much less can they be accommodated
 > *Quicquid habet, quicquid possidet, omne Deo.*
 
 *(Whatever good the sky, the earth, the sea, and the air possess, cometh from the Lord, not elsewhere. Grateful therefore is the mind which confesseth to owe whatever it hath, whatever it possesseth, all unto God.)*
+
+**The second reason** is placed in the *order*. Man can perform no work pleasing to God unless he first be reconciled to God by faith in Christ. For the work pleaseth not sooner than the person pleaseth; and the fruits are not called good before the tree be good (Matt. 7). Works therefore, since they follow faith and are its fruits or effects, cannot be the *cause* of justification.
+
+**The third reason** is the *condition of our works*. For all good works — even of the regenerate — are on the part of man imperfect, and never fully answer the divine Law, but are hindered by manifold confusion of affections, and never *outweigh sins* — as the wrestling of the pious testifies, who daily say with Paul (Rom. 7): *The Law is spiritual, but I am carnal.* And Isa. 64: *All our righteousnesses are as an unclean cloth before God.* And Dan. 9: *Unto Thee, O Lord, is righteousness; unto us confusion of face.* Wherefore Christ teacheth us to say: *When we shall have done all that is commanded us, still we are unprofitable servants.* Likewise: *Enter not into judgment with Thy servant.* And Paul calleth his works *σκύβαλα* (Phil. 3), and evidently pronounceth that *we are not in this life perfect but have only the firstfruits of the Spirit* (Rom. 8) — in which, since even the theoretic is only *ἐκ μέρους* or *γνῶσις μερικὴ ἐν αἰνίγματι* (with respect to the future light and perfect cognition in eternal life), much more the *praxis* consisting in the exercise of good works is only *initiation* — or (as Paul speaketh) *ἀπαρχὴ ἐκ μέρους* (1 Cor. 13).
+
+**The fourth reason** is instituted from the *collation of the benefits of God and of our works*. For the benefits of God, which daily — partly spiritual, partly corporeal — are freely conferred upon us, are more and greater than that we could merit the least part of them. What proportion can ever be established between our works and the benefits of God? — as Jacob the patriarch saith: *I am less, Lord, than all Thy mercies* (Gen. 32). And David (Ps. 116): *What shall I render unto the Lord for all His benefits toward me?* And it is certain that we are so bound by the innumerable benefits which we have first received from God — in creation, in the preservation of life, in vocation, redemption, and renovation — that we can require nothing back from God for our few, imperfect, and manifoldly contaminated works. Therefore Christ teacheth us, that after having performed all that has been commanded us, we acknowledge and confess that we are *unprofitable servants* or insufficient, because none of us feareth or loveth or believeth God, or satisfieth the Law, as much as we ought.
+
+**The fifth reason** is gathered from *acceptation*. For that God accepteth our good works, He doth this not because of the works themselves or because of the dignity of us, but out of His own *spontaneous goodness*, whereby He also freely remunerateth all things — as 1 Pet. 2: *Our hosts are accepted of God through Jesus Christ.* For God is not by debt obligated unto us to render rewards for due works, since we are the servants of God (1 Cor. 6): *Ye are not your own — for ye have been bought at a price.*
+
+**The sixth reason** is taken from *duration*. For righteousness, salvation, and eternal life shall be given to the believing man, and shall endure unto all eternity. But our works in this life are in many modes corrupted and cease to be. Wherefore it followeth that *by our transitory, imperfect, and evanescent works we cannot merit those things which are eternal*. For no one can give what he himself hath not. And only God, who is eternal, can give eternal life — which the sole Son of God meriteth for us. And since this temporal life which we now enjoy we have not obtained or merited by our own works (seeing that without our works and merits — nay, when we knew not, and when we were nothing — it was given us) — much less shall we be able to merit *eternal* life by our own works. Therefore is it written Eph. 2: *By grace ye are saved, not of works.* Titus 3: *Not by works of righteousness which we have done, but according to His mercy He saved us.* 2 Tim. 1: *Not according to our works, but according to His own purpose and grace, which was given us in Christ Jesus.* And Bernard illustriously saith: *"It is needful first of all to believe that thou canst have no remission of sins except through the indulgence of God; then that thou canst have no good work unless He hath given it; last, that thou canst merit eternal life by no works unless it also be given freely."* — But of this whole discourse of Bernard above in the locus of Justification of Man we have heard.
+
+### Q8 — Whether and how far a man before and after conversion can obey the Law of God.
+
+The response is plain. Since the Law of God requireth *integral, perfect, and perpetual obedience or conformity of human nature with the will of God*, and the human nature is horribly corrupted by original sin, it is established that *no man in this sad corruption of nature can integrally obey the divine Law* — as above in the locus of the Law of God has been said more copiously.
+
+But *how far* a man can obey the Law, the response is also plain:
+
+1. **First**, as concerneth *the faculty remaining in all men — namely, of ruling the locomotive [powers] and of moderating in some way the impetuses of the affections and of effecting external honest and just works* — a man can in some way perform *discipline*, or the *external works* which the Law demandeth, though many and great impediments intervene, as in the doctrine of *free will* we shall hear.
+
+2. **Secondly**, as concerneth *integral obedience and true conversion*, a man of himself *can neither think, nor incept, much less prosecute and perfect anything*.
+
+3. **Thirdly**, with the Holy Spirit dwelling in the regenerate and ruling and helping them, *obedience can be incepted*, pleasing to God for the sake of the Son — even though many things repugnant to the Law of God remain in the regenerate.
+
+### Q9 — On the principal arguments of the Pelagians affirming that a man can satisfy the Law of God.
+
+Above in the seventh question we have said certain things also pertaining to this question. And we remit the studious to the *Apology of the Augsburg Confession*, and to the *Loci* of Philip, where the arguments of the adversaries concerning the Law and Works are dilucidly and gravely refuted. Now let these be observed:
+
+**I.** *"All natural things are possible to the nature whose they are. The Law is natural to man (Rom. 2). Therefore the Law is possible to man."* — **Answer:** The whole is true of *integral, not corrupted nature*. But how far the Law be natural to man — namely in some part, not integrally, not perfectly — has been said above in the distinction of Law and Gospel.
+
+**II.** *Deut. 30: "The mandate is not above thee." 1 John 5: "The mandates of God are not grievous."* — **Answer:** Moses speaketh of the *knowledge of the Law*: the mandate is not hidden from thee but soundeth in thine ears — yea, in thy mind and conscience. But John speaketh of the *regenerate*, who are led by the Spirit of God and liberated from the execration of the Law.
+
+**III.** *"If thou wilt enter into life, keep the mandates."* — Namely, according to the *interpretation of the Gospel*, which showeth Christ and by the Spirit of Christ giveth the believers to will and to perform, that some things may be pleasing to God. Such also is that: *If any man will keep my word*. For this is the discourse of the Gospel, not of the Law; and is a most sweet consolation for believers.
+
+**IV.** *Ps. 7: "Judge me, O Lord, according to my righteousness." Ps. 17: "According to the purity of my hands." Here David allegeth his own righteousness in the judgment of God. Therefore we can also stand by our own works before God.* — **Answer:** *Righteousness* is twofold: *one personal and private*, another *the righteousness of the cause, or of public office, or of good conscience*. **Personal righteousness** is that whereby a man is just before God — *not by his own virtues* (as David saith Ps. 143: *Enter not into judgment with Thy servant, for in Thy sight no living one shall be justified*) — but *out of the sole mercy and goodness of God imputing unto the believing man righteousness through and for the sake of the Son*. Of this righteousness David is *not* speaking, but of the *righteousness of good conscience in a just cause and in the office of vocation, or public ministry*; and he signifieth that in the matter of which he is accused he is guiltless of every fault, and by neither word nor deed hath violated Saul or others.
+
+*"Hear my righteousness"* — namely, not the personal or private, but *the public [righteousness] of the public ministry*. *"My cause is just, because it is Thine. This is Thy business, not mine."* On the contrary, the cause of the enemies is not just, because they fall away from Thee and from Thy Word. They plead their own causes, not Thine — and desire the external appearance, applause, and worldly felicity — and hear and pronounce hypocrites and heretics as though they were just. But Thou, who alone canst judge the just, hear my righteousness and my prayer, which from the soul and from the humility of a true heart, in faith, I offer. These men with deceitful and lying lips invoke Thee — that is, they use their own righteousness and the merits of works, and seek not Thy glory, nor come unto Thee in faith in Thy Son.
+
+Since the righteousness or just cause of the pious is for the most part damned before the human judgment, therefore there is need of an *appellation and provocation* from the face of the human judge unto God Himself, the supreme Judge, approver and defender of truth and innocence. Therefore David saith: *"Let my cause be judged by Thee Thyself"* — for the eyes of men see only depravity, and desire the appearance of wisdom and power, and are demented by the external mask. But Thou seest equity, and art not *προσωπολήπτης*, but a *just judge*: Thou art not moved by private affections of wrath or hatred; Thou hast not standing at Thy back ignorance; Thou judgest not from suspicions; Thou art not deceived by fraud and treachery; Thou believest not the delator; Thou admittest not calumnies (which things all unjust judges do); but Thou diligently ponderest the cause and considerest all circumstances; Thou art *καρδιογνώστης*, *searcher of hearts and reins*.
+
+**V.** *Gen. 6: "Noah was just and perfect." Isa. 38: Hezekiah saith, "Remember, Lord, that I have walked before Thee with a perfect heart."* — **Answer:** In each place it is spoken of *faith and good conscience*, in which the life pleasing to God consisteth — even though yet many stains cleave to the saints, which Hezekiah also deploreth, saying: *"I said in the cutting off of my days, I shall go to the gates of the tomb; I shall not see the Lord."* Likewise: *"Thou hast cast behind Thy back all my sins."* Of Noah it is written: *"He found grace before the Lord."* Then followeth: *"He was a just man and perfect."*
+
+- **A just man** — namely, *by the faith of the promised seed accepted unto eternal life*. For so the Epistle to the Hebrews Ch. 11 interpreteth it: *He was made heir of the righteousness of faith*. And 2 Pet. 2 Noah is named the *herald of righteousness* — that is, of the *true doctrine of God, of sin, and of the righteousness of faith* and its propagator.
+- **And perfect** — namely, *by faith and the fruits of faith*, blameless and excelling in piety, virtue, and wisdom all men of his age; *not contaminated with the worship of idols or with external crimes against the Law of God*. For *Thom* [the Hebrew word for *perfect*] signifieth not one having the highest degrees of all the virtues, being *ἀναμάρτητος καὶ τετράγωνος ἄναψόγος*, but properly one who *in doctrine and faith is upright and simple before God, and irreprehensible before the world, and hath a good conscience*. The Greeks rendered *ἀνέγκλητον καὶ ἄμωμον*, *inculpable both in doctrine and in life*. Paul sometimes rendered *simple*: *I will you to be simple concerning evil, wise concerning good* (Rom. 16). And Phil. 2: *Be ye simple sons of God, without reprehension, in the midst of a crooked and perverse generation, among whom ye shine as luminaries in the world.* Solomon saith that righteousness is the fountain of this perfection (Prov. 13): *Righteousness maintaineth the integrity of life.* For there cannot be integrity or simplicity of life without true faith. And, *Whatsoever is not of faith is sin*. Rightly also it is said that *perfection is to be understood of imputation and of inception*. For so all the saints are *perfect* — namely in Christ imputing unto us His righteousness and giving us His Holy Spirit. And hither pertain the celebrated sentences of Jerome: *"This alone is unto men perfection, if they shall know themselves to be imperfect."* And: *"This is the true wisdom of man — to know that he is imperfect."* And of Prosper:
+
+> *Verus amor Christi, vera est custodia Legis.*
+> *Vera fides Christi, vera est impletio Legis.*
+> *Vera fides Christi, tota est perfectio vitae.*
+
+*(True love of Christ is true observance of the Law. True faith of Christ is true fulfilment of the Law. True faith of Christ is the whole perfection of life.)*
+
+And of Luther: *"To will to be just, is the highest righteousness."* But of these things now enough. ¹⁶¹
+
+### Q10 — On the reasoning of the works of charity.
+
+The **works of charity** are comprehended in the *second table of the Decalogue*, of which in the explication of the Decalogue we shall treat. Many causes ought to impel us to render them unto the neighbour — chief of all *the example of the Son of God Himself, who is merciful to all, and* σπλαγχνίζεται *[hath compassion]*. Let these causes be in the sight of the studious:
+
+**I. Efficient cause:**
+- *The mandate of God*, which all creatures ought to obey — Luke 6: *Be ye merciful*.
+- *Faith*, which is dead and idle and an empty name unless it be efficacious through charity.
+- *The Holy Spirit*.
+
+**II. Object** — *the neighbour*, needing our counsel and help, who is our neighbour *both universally and peculiarly*, by reason of:
+- Creation.
+- Similitude.
+- Common society and life.
+- The mystical body — for *our Head is Christ*.
+- Regeneration.
+- Common calling unto the unity of the Spirit *in the bond of peace* (Eph. 4).
+- Future glory.
+
+**III. End — a fourfold end:**
+- The glory of God.
+- The alleviation of the indigent.
+- Example and edification of others.
+- Reward: *Whosoever shall have given unto one of these my least disciples in my name — even a cup of cold water — he shall not lose his reward.*
+
+Honest is the saying: *"Man is neighbour to man."* For God hath created us, and all are conditioned unto the similitude of God, and we have all the same human nature, and live together in a common society. And by this reasoning of society, the neighbour is *common to us with all men in the world — Gentiles and Jews*. But *in the Church* the man is by a far tighter bond neighbour to man. For all who believe in Christ have put on Christ, and are His members, and He Himself is our Head; and we live from the same Spirit of Christ. We are also sons of God, having God as common Father; we are germane brothers, and more than uterine — called by the Word of God unto the *unity of the Spirit*, in the certain hope and infallible expectation of future and eternal immortality, glory and life, salvation and joy, of the society and conversation *in which for all eternity we shall unanimously celebrate God*.
+
+Hither pertain notable sayings, which also show the *mode of aiding the neighbour and the distinction of the works owed to the neighbour*:
+
+**Isa. 58** *(the true fast, which God chooses):* (1) Loose those whom thou hast unjustly bound; dismiss those whom thou oppressest. (2) Restore unto liberty those whom thou deceivest; break down various burdens. (3) Break thy bread unto the hungry, and lead the poor exiles into thy house. (4) *If thou shalt see the naked, thou shalt cover him, and thou shalt not despise thine own flesh.* Then shall thy light break forth like the dawn, and thy health shall grow speedily, and thy righteousness shall go before thee, and the glory of the Lord shall gather thee. Then thou shalt invoke, and the Lord shall hear; thou shalt cry, and He shall say: *Behold, I am here*. These promises of spiritual and corporeal rewards — than which nothing sweeter can be conceived — must diligently be considered and constantly inculcated in all — especially in Princes, Counsellors, nobles, merchants, and the opulent, who are wont to be *most sordid and most niggardly*, and in rendering beneficence to the ministry and to the poor overly fasting, and prefer to trust in their own coffer than in Christ.
+
+**Job 6:** *"Judgment without mercy shall be his who hath not shown mercy."* **Prov. 14:** *"He lendeth unto the Lord who hath mercy on the poor."* **Prov. 21:** *"He that stoppeth his ears at the cry of the poor, he shall himself in turn cry and shall not be heard."* **Prov. 5:** *"Let thy fountains be dispersed abroad, and rivers flow into the streets; but be thou lord of them, and the alien not with thee."* **Sirach 4:** *"Thou shalt bear thyself toward orphans as a father, and toward their mother as a father of the family; and thou shalt be a tender son of the Most High in his turn, and He shall embrace thee more sweetly than thy mother."* **Hos. 6, Matt. 9:** *"I will mercy and not sacrifice."* **Luke 6:** *"Be ye merciful, as your Father is merciful."* Behold the mandate and the example.
+
+**Judge not** — namely, in the heart perversely concerning the neighbour.
+**Condemn not** — in the mouth, by calumnies.
+**Remit** — in counsel and in the very work.
+**Give** — with a joyful and humble mind.
+
+Added is the reward: *Ye shall not be judged; ye shall not be condemned; it shall be remitted unto you; it shall be given unto you.*
+
+Let us also know that goods and wealth are given us for this end: that we may aid, promote, and nurture *religion and the glory of God, Churches and schools, teachers and disciples*; likewise that we may aid and adorn the Commonwealths; likewise that we may with a good conscience — God blessing our labours — serve ourselves and our own; likewise that we may take care of the poor, foster hospitals, sustain exiles. Of this beneficence — against prodigality and against avarice — we have said more copiously in the *Paedagogia*, expounding the seventh precept. Now therefore we shall be briefer, and hasten unto the eleventh question.
+
+### Q11 — On the calling of each one.
+
+The **true fruits of faith, righteousness, and of the Holy Spirit** — which are truly good works pleasing to God for the sake of Christ — chiefly are eminent in these:
+
+- In the *invocation of the divine name*.
+- In *the confession of true doctrine, and constancy*.
+- In *patience in all calamities* — or in *hope*.
+- In *beneficence*.
+- In *chastity and temperance*.
+- In *fidelity in the works of vocation*.
+
+And piously a **twofold vocation** is recited — *common* and *personal*.
+
+The **common vocation** is that by which all and each of us who are members and citizens of the Church of Christ have been called and separated by the Gospel out of the world, that we may be and be named *Christians* — that is, *spiritual Kings and priests, clothed with righteousness, glad in sanctity, and with perpetual praise celebrating God*, and offering unto Him pleasing hosts, of which above in the third question has been spoken. Unto this common vocation is required:
+
+1. *True doctrine* — the knowledge and confession of Law and Gospel.
+2. *The legitimate use of Baptism and of the Supper of the Lord.*
+3. *Piety, and honesty of life and morals.*
+4. *Constancy in the acknowledged truth and in piety* — that is, *the whole obedience which God demandeth of us*, or all the *sacrifices εὐχαριστικά* and *the whole Christian militia*, of which Paul saith: *I shall war a good warfare, having faith and good conscience.*
+
+The **personal vocation** is *the legitimate function of some office proper to a certain person* — as vocation unto governing, teaching, learning, working. For rightly even the Gentiles said: *Not from the physician alone doth the Commonwealth stand, but from the physician and the farmer.* Therefore God hath instituted *certain orders and states* in the human race — the *Ecclesiastical, Political, and Economic* — as it is customarily said: *Thou pray suppliantly; thou protect; and thou labour.* And the Germans use a beautiful paronomasia: *Lehrestand / Wehrstand / Nährstand* [Teaching-order / Defending-order / Nourishing-order]. Of this personal vocation Paul saith 1 Cor. 7: *Let each remain in the calling wherein he was called.* Eph. 4: *Walk worthy of the calling wherewith ye were called, with all humility and meekness.* Rom. 13: *Let us walk honestly, as in the day.*
+
+Many things are required unto the calling of each one rightly to be discharged:
+
+1. **First**, the *mandate of God*, or an expressed Word by which the office is enjoined *at least in general* — pertaining to the preservation of the Churches and schools, or of political governance, or of the economy, or of common pious and honest society. For a pious mind must not undertake anything *without the mandate of God*.
+
+2. **Secondly**, the vocation must be *legitimate and ordained* — not seized by force, not snatched by fraud, extorted, or slyly suborned or falsified. For those who intrude and thrust themselves in, and use various arts, and remove others that they themselves may succeed, never enjoy divine blessing.
+
+3. **Thirdly**, let *faith and charity* be the rule of the actions in the vocation. For without faith nothing can please God.
+
+4. **Fourthly**, let there be added *pious and holy care and solicitude*, without which no one can be reckoned among the sons of God — as it is written 1 Tim. 5: *If any man have not care of his own, and especially of them of his household, he hath denied the faith and is worse than an unbeliever.* Let there be in view the examples of Abraham, Isaac, Jacob, Joseph, Daniel, Paul (who testifieth his solicitude for the Church at 2 Cor. 11, Col. 2, and 1 Thess. 2).
+
+5. **Fifthly**, let there be added in all things the *invocation and imploration of divine help*. For *Except the Lord keep the city, he watcheth in vain who keepeth it*. Likewise: *Help us, we perish.* And: *Without me ye can do nothing.* No effort in vocation, without divine blessing, is successful. *ἐάν πόνον, ἐάν πόλεμον, ἀνατεῖ* — *Whether labour or war, without God's aid nought availeth.* Well known are the little verses:
+
+> *θεοῦ διδόντος, οὐδὲν ἰσχύει φθόνος,*
+> *ἀλλ᾿ οὐ διδόντος, οὐδὲν ἰσχύει πόνος.*
+
+*(God giving, envy availeth nothing; God not giving, labour availeth nothing.)*
 
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
