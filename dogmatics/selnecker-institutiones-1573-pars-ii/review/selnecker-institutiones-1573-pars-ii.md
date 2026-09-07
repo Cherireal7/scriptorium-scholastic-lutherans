@@ -5809,3 +5809,200 @@ Of these things therefore let this suffice. Now on the **presence of the body an
 ```{=openxml}
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
 ```
+
+### I. What the Presence Is.
+
+**The true and simple sentence is: Christ is truly and substantially present in His Supper — not only according to His divine nature (whereby He is everywhere and filleth all in all), but according to His human nature — according to His words of institution: *This is My body, this is My blood*.**
+
+Nor is this said either concerning *ubiquity* or concerning *locality*. For not on these things ought disputation to be moved by the pious. But the speech is of the *institution of Christ*. Christ, since He hath said that His body and blood are present, effecteth that His body and blood are truly present. And no other cause is to be sought, save that *Christ hath said, and He is truthful and preserveth His institution* — unto whom he who doth not believe, already maketh Christ a liar.
+
+### II. What is the *Causa Efficiens* of the Presence.
+
+**The words of the institution — by which Christ said: *This is My body, this is My blood* — effect that the body and blood of Christ are truly and substantially present. The truth of Christ effecteth the true presence of the body and blood of Christ in the Supper.**
+
+But that the Sacramentarians *ascribe the cause of the presence to the faith of the eaters* — they plainly fight with the words of the institution and with the words of Paul, who saith: *Those manducating unworthily eat judgment to themselves*. But it is manifest that the unworthy lack faith. And Christ said not: *If ye shall have believed, My body shall be present*, but *unto all the Apostles* He said: *Take, eat, this is My body.*
+
+**Therefore this institution and the truth of Christ is the causa efficiens of the true presence of the body and blood of Christ**, nor can the truth of Christ be diminished or shaken by the faith or unbelief of any creature. And the *whole mystery of the presence* is founded not in the faith or unbelief of men, but in the *Word, ordination, or institution of Christ*. These things are plain, and among pious and simple souls who seek the glory of God need no prolix disputation.
+
+### III. How the Body of Christ is Truly and Substantially Present in the Supper.
+
+First this admonition must be premised: **It is by no means for us to try to scrutinize the mode of the presence, which is unknown to every human reason.** Nor can, nor ought, anyone to know more than that **the Son of God, who instituted this Supper, in the administration of the Supper, the bread and wine being exhibited, exhibiteth His body and blood to those eating — and is efficacious *in believers unto salvation, in the impious unto punishments and damnation*, if they are not converted**. This we ought to know, and to *commit the mode to the omnipotence and truth of the Son of God our Lord Jesus Christ*.
+
+But if we do not sufficiently attain by human reason and speculation what lieth hidden from us, we should not on that account accuse the Word of God of either *obscurity or lying*, nor try to bend it unto human ratiocinations. We are unworthy that the Word of God be given to us — much less worthy that at our own choice we should distort the sentences of the divine Word unto our phantasies.
+
+Thus therefore is rejected every disputation *on the mode of the presence* — as of *conversion, transubstantiation, mathematical presence, smallness or greatness, locality and inclusion*. And **worthy of memory is the saying of Cyril**: *When God is working, let us not ask how — but let us grant Him alone the way and knowledge of His work.* Likewise: *With this word, "How?", great arrogance is signified.*
+
+### The Retention of the Properties of the Natures.
+
+This admonition being premised, what must be answered to the objection *on the retention of the properties of the natures* can more easily be seen. That objection is of this sort:
+
+> *The property of a body must not be taken away from human nature. The property of a body is to be finite and to be in a certain place. Therefore the sentence on the distribution and manducation of the true natural body of Christ in the Supper cannot be true.*
+
+**The true response is**: The property of the natures is retained *only in the abstract*, as they name in the Schools. **In the concrete, however, when the speech is of the Person, Christ is by no means torn asunder, but is understood as one Person, insofar as Christ is God and man.**
+
+Since therefore in Christ it is proper to the divine nature *to be omnipotent, and everywhere*, and since this human nature united to Him constituteth *one Person*, it certainly followeth that **when the speech is of the Person, the *τὰ τῶν φύσεων ἴδια* become *κοινά*** — as **Theodoret** rightly saith: *οὐ γὰρ χωρίζομεν τοῦ θεοῦ σάρκα τοῦ λόγου, οὔτε σύγχυσιν ποιοῦμεν τὴν ἕνωσιν* — *"Neither do we separate the flesh from the Word of God, nor do we make the union confusion."*
+
+Hither pertaineth the whole doctrine on the **communication of the idioms**, which is elsewhere delivered — provided in it this be altogether shunned, lest only a *verbal κοινωνία τῶν ἰδιωμάτων* — and not a *real* — be established.
+
+Also most worthy of observation is the sentence, 1 John 4:
+
+> ***Πᾶν πνεῦμα ὃ λύσι Ἰησοῦν, ὑπὸ τοῦ θεοῦ οὐκ ἔστιν*** — *"Every spirit that dissolveth Christ is not of God."*
+
+This sentence — as **Socrates** in the *Tripartite History*, book 14, ch. 4 testifieth — was taken from ancient copies by those who wished to *separate the divinity from the humanity of Christ*, or conversely. Now **humanity is united to divinity**, saith Socrates, *and these are no longer two, but one — οὐκ ἔτι εἰσὶ δύο, ἀλλὰ ἕν* — as also on this account Mary is called *θεοτόκος* (God-bearer). According to this rule of John spoke afterwards the approved and sincere Ecclesiastical writers.
+
+**John Maxentius** from **Cyril** thus saith: *If any in the one Christ divide the substances after the union, connecting them only by a fellowship according to dignity or authority or power, and not rather by an assembly unto natural unity — let him be anathema.*
+
+And **Gregory** to Didonius: *If any say that in Christ the union of the two natures is not made naturally, let him be void of the better union.*
+
+**Fulgentius** to King Trasimundus, *On the Sacrament of the Dominical Passion*, book 3: *God is not confused with man, but united. Thus in one Person He has shown the indices of each remaining nature — that as true God, full of divine virtues, He might shine in the assumed man, and the truth of human infirmity might show forth in God a true and plain man.* The same: *The man Christ received so great power that when He wished He might lay down His soul and when He wished resume it again — so great power as Christ's divinity could have, to whom this is always the will as the power.*
+
+### Examples Showing the Objection Falls.
+
+These things being recited, now let us consider examples by which the objection can by an *instantia* be dissolved. It is certain that *nature abhorreth as much from the penetration of dimensions as from the multitude of places of one body at the same time*. But the History of the Gospel narrateth that **Christ so rose from the tomb that neither the stone nor the seal was moved from its place, and that afterwards He entered unto the disciples with the doors shut**. Therefore the property of the body is not there preserved. For **Christ effecteth whatsoever He willeth by His Word, even against every order of nature** — He who commanded Peter to walk upon the sea as upon dry ground by His Word alone, and accomplished it.
+
+And thus **Cyril** on the body of Christ now resuscitated saith: *Let no one ask how, the doors being shut, the Lord's body penetrated — since he understandeth that this hath been written by the Evangelist not of a bare man, but of the omnipotent Son of God. For since He is true God, He is not subject to the nature of things — as in the rest of the miracles also has appeared. For all things which He hath done exceed every mind and reason. By what reason wilt thou say that He walked upon the seas as upon dry ground, since the nature of waters is not naturally subjected to our bodies? But if this operation of Christ thou canst not perceive, why dost thou not rather accuse the imbecility of the human intellect? Why keepest thou not silent the measure given thee by the Creator?*
+
+Likewise **Ambrose** eminently said, book 9 *On those who are initiated into the mystery*: *Why here dost thou ask the order of nature in the body of Christ, when beyond nature is His birth from the Virgin?*
+
+**Therefore the simple and true sentence is:** *God acting extraordinarily, is not bound to the rules of nature — dialectic, physical, or mathematical* — as all the *articles of the faith* testify. Now it is agreed that **the Sacrament of the Supper is not a *physical action*, but a *heavenly and divine* one — and it avails not on account of physical causes, but on account of the ordination and institution of Christ**. And let there be in this place, *ἔναυλος ἐν ὠσίν* (as Basil saith), the rule of Paul: *Let the woman be silent in the Church* — that is, *let Philosophy not transfer its principles to the impugning of the articles of the faith*.
+
+For the **Son of God is truthful**, and can bestow what He hath promised — *the properties of each nature being integral and inviolate*. Nor do we bind Christ to any place or thing — but we say Him to be present only in that action unto which He hath bound Himself by His Word.
+
+### Against the Extra-Calvinisticum.
+
+But the Sacramentarians cry: *"Therefore is it established that the body of Christ is everywhere, is omnipotent, and can do the same as God Himself?"*
+
+**We answer**: Simply of the human nature *in the abstract* it is not said that *the body is everywhere*; but *in the concrete of the person of Christ* it is truly said: **Christ is everywhere, and can effect that His body be wheresoever He willeth — because He Himself is omnipotent, and is truthful, and preserveth His institution by which He saith: *This is My body*.** Nor is the disputation of *ubiquity*, but of *the ordination and truth of Christ*.
+
+Although however the rule is true — *A body has itself as body* — yet this too is true: **Wheresoever Christ is, there is He Himself true God and man. And nowhere can Christ be conceived or posited, where He is not the whole Christ, God and man.** And thus of the natural mode of the body, as touching the Person of Christ, we ought to establish nothing; and if in one we must err, we prefer to err *in attributing too much* — who nevertheless can never attribute too much to Christ God and man — than *in detracting too little*.
+
+In the ***Colloquy of Marburg*** in the year of Christ 1529, the same argument **Oecolampadius** objected to Luther: *"The body of Christ is in a place, as Fulgentius book 2 on the immensity of God speaketh. Therefore it is in a certain place — in heaven, not in the Supper."*
+
+**Luther responded**: Fulgentius speaketh not of the Supper, but so said this against the *Manicheans* and other heretics denying Christ's humanity — that he might prove Christ to have had a true body, since He was in a place (which is proper to a body). And Fulgentius himself explicateth himself, when he saith that *the body and blood of the Lord is offered* — where the voice *to offer* is not taken figuratively for *to receive by memory* (as when it is said, *today is the ascension of the Lord* — that is, *the memory of the ascension*) — but signifieth *to eat and drink*, etc. And even if Fulgentius and others so felt (which is not), yet the rule must be observed: **All the writings of the Fathers must be referred to Scripture — and whatsoever agreeth not with it in interpretation, must — if this can commodiously be done — be softened; or, if it cannot, must be altogether rejected.** ²¹⁵
+
+From these it can also now be explicated **what it is that Christ is *δείγραπτος σώματι*** (as *Nazianzen, Theodoret*, and others speak) — namely, nothing else than that *Christ hath a true human body, because He hath that which is πρόσφορον καὶ ἴδιον τῆς φύσεως τῆς ἀνθρωπείας* (proper and peculiar to the nature of humanity), as Theodoret saith.
+
+### Christ's Ascension and Session at the Right Hand.
+
+I come now to **another objection**, which is: *Christ ascended into the heavens, and sitteth at the right hand of the Father — therefore in the Supper He is not present*, as **Calvin** writeth, whose words are these:
+
+> *"When we say that Christ is to be sought in heaven, this locution soundeth and expresseth the distance of places. Even though philosophically speaking, above the heavens there is no place, yet because the body of Christ (as bringeth the nature and mode of a human body) is finite and contained by heaven and place — it is necessary that it be distant from us by as great an interval of places as heaven is distant from earth."*
+
+**The response is plain and true.** The text in the *Symbol*, and elsewhere on Christ's ascension into heaven, speaketh of the *visible ascension into heaven after His Passion and Resurrection* — in which visible form we shall see Him again coming and judging the living and the dead. But **He sitteth at the right hand of the Father *not locally, not physically, not circumscriptively — but gloriously, with equal majesty and power and government***.
+
+And Christ Himself, when He saith: *I ascend unto My Father*, expoundeth what He understandeth, saying: *All power is given unto Me in heaven and on earth.* Likewise: *I am with you unto the consummation of the world.* And the same narration of this saying is repeated by Paul, Eph. 1 — with which Ps. 110 is plainly *ὁμόψηφος* (of one vote). And this hath always been in the Church the customary and true narration. And **Basil**, in his work *On the Holy Spirit*, ch. 6, p. 251, in express words saith:
+
+> ***τὸ γὰρ δεξιὸν οὐ τὴν κάτω χώραν δηλοῖ, ὡς ὁ τούτων λόγος, ἀλλὰ τὴν πρὸς τὸ ἴσον σχέσιν*** — *"For 'the right' doth not indicate the lower region, as their reasoning goes, but the relation of equality."*
+
+That is: **To sit at the right hand of God is not to be turned in a certain place, but to reign with equal power with God**. When therefore it is said that *Christ sitteth at the right hand of the Father*, it is understood that *this Person which assumed human nature is present in the arcane counsel of the eternal Father, and is efficacious with the Father, is King gathering the Church, defendeth and preserveth her*. And although the divine power effecteth these things, yet He effecteth them also in the human nature, in which dwelleth *the whole fulness of divinity σωματικῶς* — and altogether they are actions of the Person.
+
+But if the session of Christ at the right hand of God were to be understood of a *local, physical, and circumscriptive session or location*, then even the *Right Hand of God would be fixed in a certain place*. **How nefarious this is, let pious minds consider.**
+
+But here again some clamour that our sentence is indeed true concerning the divine nature, but they do not concede it concerning the human nature.
+
+**The simple and plain response is: The divine nature neither descended nor ascended visibly, but from all eternity sitteth at the right hand of the eternal Father. And as the human nature suffered, died, and was buried, so, when it was raised, it ascended to heaven, and sitteth at the right hand of the eternal Father.**
+
+This whole glory and dignity, far exceeding the *ὑπεροχή* (excellency) of all the Angels, is named Ps. 110 *exaltation* — which signifieth not only *immortality and impassibility*, but *equal power, glory, and majesty*. And **this doctrine containeth not vain and philosophical speculations of place, but salutary and most sweet consolations of Christ's Kingdom**.
+
+**Paul** also teacheth us that Christ ascended *above all the heavens* — that is, *He is fixed in no certain place*, but is *truly glorified, and reigneth with God with equal power and dignity*.
+
+### On the Damascene Passage.
+
+But that they dispute in this place concerning the saying of **Damascene** which the Lombard citeth (book 3, dist. 22): *"Christ is everywhere whole, but not the whole"* — let those who wish dispute and quarrel, and those who will not acquiesce in the simple and genuine sentence.
+
+**Christ is everywhere whole** — that is, *God and man*. For *whole* speaketh of the Person or of the concrete — of which also **Nazianzen** saith: *πᾶν τὸ σῶμα θεω, εἰμὴ μετὰ τὸ προσλαβόν;* — *"Where He is who assumed the body, there also is the body."*
+
+But *the whole* speaketh of the abstract — namely, of the human nature. For if Christ were a bare man, and were not God, He could not be *wheresoever and whensoever He willed*. But since He now is whole God and man, He is and can be *wheresoever He willeth*.
+
+These things to the objections briefly we have willed to respond.
+
+### IV. Unto What End Christ is Present in the Supper.
+
+Unto what end Christ is present in the Supper, the words of institution show: *Take, eat, drink, unto My remembrance — namely, this body which ye take is delivered for you, and this blood which ye drink is shed for you unto the remission of sins.*
+
+**Here two things concur**: the *true substance of the body and blood of Christ, which is distributed and received*; and the *fruit or efficacy, which is comprehended in these words: delivered for you, shed for you*, etc.
+
+Hitherto we have spoken concerning the presence. Now on **the last matter — namely, the manducation** — must be spoken. Which most fittingly can be done in this order:
+
+1. **How the manducation is to be understood.**
+2. **How manifold the manducation is.**
+3. **On the manducation of the unworthy.**
+4. **The fruits of the manducation.**
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
+
+### I. How the Manducation is to be Understood.
+
+**This controversy today is greatest concerning that *which is present in the Supper, which is exhibited to the eaters, which by the mouth is received and taken up* — what precisely this is.** But it hath been said above that the *bread retaineth the nature and substance of the bread* — and this against the *Papal μετουσίωσις* must be held. Then it hath been said that not only bread but ***with the bread the Body of Christ is eaten in the Supper*** — and this against the Sacramentarians (that is, against those denying the presence and manducation of the true Body of Christ) must be held.
+
+But the disputers ask: **How is the manducation to be understood?** For they think there is taught some *Capernaitic butchery of Christ's flesh, and an ingurgitation of His blood*. And the cause is because reason knoweth no other manducation than that *crass and natural* — as a dog eateth flesh.
+
+**But this is the sentence on the manducation**: **The flesh of Christ in the Supper is distributed, received, and eaten *invisibly and insensibly under the visible and sensible element of the bread*; nor is it lacerated, nor worn by the teeth, nor consumed, is not digested, is not cooked, is not converted into flesh and blood, suffereth nothing** — because it is written: *Death shall no longer dominate Him*. **This manducation is named *sacramental*, and is founded in Christ's words**: *Eat, this is My body; drink, this is My blood.*
+
+Nor yet from this *sacramental manducation* — which is made *by a mode not physical or natural, but supernatural and heavenly* — can the *natural and physical manducation of the bread and wine* be torn away. Therefore now on the **threefold manducation** a brief admonition must be added.
+
+### II. How Manifold the Manducation Is.
+
+Since Christ *taketh, breaketh, and extendeth bread to the disciples*, and Paul saith: *As often as ye shall eat this bread*, etc. — it is manifest that ***natural and physical manducation*** must be posited — not of the body or blood of Christ, but of the elements of bread and wine. For these elements are *not transubstantiated into the body and blood of Christ*, but retain their nature, are digested, cooked, and consumed.
+
+But since not only bread is eaten in the Supper, and Christ saith of the bread: *Take, eat, this is My body* — therefore a ***supernatural and heavenly manducation*** must be posited, which is *invisible and insensible, and yet a manducation of the true and substantial body of Christ, according to the words of the institution*.
+
+And because the *promise is added to the words of institution*, by which the application of Christ's benefits is made by faith unto life and eternal salvation — therefore ***spiritual manducation*** also necessarily has place. And so ***three manducations*** may piously and truly be posited:
+
+1. ***Natural or physical manducation*** — which pertaineth to the *visible and sensible elements, the bread and wine*.
+2. ***Sacramental manducation*** — which is to be referred to the *true body and blood of Christ*, which *with the bread is exhibited and received*, and which *with the wine is given and drunk*.
+3. ***Spiritual manducation*** — which is to be understood only *of the fruit and efficacy of the salutary reception*.
+
+### III. On the Manducation of the Unworthy.
+
+This question lacketh not grave causes. **First**, it admonisheth that *the highest mystery of the presence and manducation of Christ resteth not on the dignity or merit of the giver or the receiver, but on the sole institution of the Son of God*. **Then**, it kindleth *serious exercises of penitence and faith in the reception*. For not idle are these words of Paul: *Those manducating unworthily manducate to themselves judgment, and are guilty of the body and blood of Christ.*
+
+But those are named **unworthy** — ἀνάξιοι — *not Turks, not Jews, not others who are alien to the Christian doctrine*, nor is it said of a *mouse gnawing bread* — but the **unworthy** are understood as those who are *in the external congregation of Christians, or in the assembly of the called* — in which many are not regenerate, hypocrites and impious and secure men, who yet in external confession of faith consent.
+
+Of these therefore is the question: **What do they receive and eat, when in the Church of Christ according to the institution of Christ they accede unto the sacred σύναξις?**
+
+**The Sacramentarians say**: The unworthy manducating perceive only *external symbols, bread and wine* — since they lack the *spiritual manducation*.
+
+**But from the words of Paul it is manifest that even those manducating unworthily receive with the bread the true body of Christ, and drink with the wine the true blood of Christ.** And thus **the unworthy manducating are deprived neither of the natural manducation of the elements, nor of the sacramental manducation of the true body and blood of Christ**. And this from these reasons is perspicuous:
+
+**First**: *Faith doth not make the Sacrament*, nor doth it constitute either the presence or the manducation of the true body and blood of Christ. But the *institution of Christ maketh the Sacrament in use*. And the *truth of the institution* is not changed by the *unworthiness and malice of the eaters*. Since Christ saith: *Eat, this is My body; drink, this is My blood* — therefore *the body is truly present, and is truly eaten*, etc.
+
+But **faith maketh the discrimination among the eaters**. Those who worthily take — that is, who *believe in the Son of God and are converted to God* — they *not only by the mouth and corporally, but also by the heart and spiritually, receive the true body and drink the true blood of Christ*. But those who *lack faith and are not converted to God, but are either hypocrites or impious and secure* — they *only by the mouth or corporally, and not by the heart or spiritually, receive the body of Christ and drink the blood of Christ*, and therefore are ***guilty of the body and blood of Christ***, and *to themselves eat and drink judgment*.
+
+**Second**: Christ said not only to Peter, but also to *Judas the traitor*: *This* (which I give and which thou takest) *is My body*. Therefore Judas and other unworthy ones *equally receive the body and blood of Christ, as do the worthy and pious*.
+
+Rightly **Augustine** saith: *Judas the traitor receiveth the good body, and Simon the magus the good baptism of Christ — but because they did not use the good well, they were destroyed evilly by using evilly. Good is baptism; good is the blood and body of Christ; good is the Law — if any use it lawfully. For to some it is the odour of death unto death, to some the odour of life unto life.* The same: *As Judas, unto whom the Lord handed the morsel, not by receiving evil gave place to the devil, but received evilly the divine Sacrament — so whosoever unworthily taketh the Dominical Sacrament, doth not effect that because he is himself evil, evil becometh — or that because he received not salvation, he received nothing. For the body and blood of the Lord was no less even to those to whom the Apostle spoke: "He that eateth unworthily eateth judgment to himself."* The same: *The Lord Himself tolerateth Judas — His devil, the thief and vendor — permits him to receive amid the innocent disciples, who as the faithful knew our price.* ²¹⁶
+
+**Third**: In *Luke* these are the words of the institution: *This is My body, which is delivered for you.* But **the body of Christ was delivered not only for believers, but for the whole human race — pious and impious, regenerate and non-regenerate, those to be saved and those to be damned**. Therefore the *body of Christ is received in the Supper as much by the unworthy as by the worthy*. But that the *efficacy is not the same* — the fault is in the *nature and perversity of men* — even as the whole preaching of the Gospel is to some the *odour of life unto life*, to some the *odour of death unto death* — and yet it is the same Gospel in which the will of God saving all men is revealed, and the *fault of damnation is in the malice of men*. So those who sin against the second precept abuse the Name of God as truly as those who rightly use the same Name in invocation and thanksgiving.
+
+But some object: *"The body of Christ has been given also for Turks and Jews and others alien to the Christian doctrine. Therefore of these also it must be said that they receive the true body of Christ."*
+
+**We respond**: The Sacrament of the Supper hath been instituted by Christ *for His Church, or for men who are in the assembly of the called* — in which yet many are non-believers, hypocrites and secure, Judas and impious Corinthians. Of this assembly of the called it is spoken when concerning this Sacrament of the Supper it is discussed.
+
+The preaching of the Gospel indeed announceth to all men *the grace of God impetrated through the body of Christ delivered for the human race, and the blood of Christ shed for the same*. But afterwards by the *impiety and vice of men* it comes to pass that *not all are in the assembly of the called*. God therefore *chooseth a certain Church through the voice of the Gospel* according to His propitious will. In this Church those who now live — to these pertaineth the institution of the Lord's Supper. And those who in this assembly of the called unworthily (and therefore *to themselves unto judgment*) manducate the body of Christ and drink the blood of Christ, *by their own fault, by their unbelief, hypocrisy, and impiety, fall into judgment* — as **Chrysostom** piously writeth, saying: *As corporal food, when it findeth a stomach occupied with divers humors, hurteth more, harmeth more, giveth no aid — so is the spiritual food: if it findeth someone polluted with malignity, it destroyeth him more — not by its own fault, but by the recipient's vice.* And **Remigius** on this saying: *"Woe to him through whom the Son of Man shall be delivered!"* — *"Woe,"* saith he, *"to those delivering Christ to be crucified. But woe with malignant conscience to those receiving Him — even if they deliver Him not unto the Jews to be crucified, yet they deliver Him unto the members of the enemy to be assumed."* And **Cyprian** saith: *They inflict force upon the body and blood of Christ.*
+
+**Fourth**: Paul saith: *Those who unworthily manducate and drink the bread and cup of the Lord are guilty of the body and blood of Christ.*
+
+If the unworthy did not receive the true body and blood, how could they be *guilty of the body and blood*? How would they *take judgment to themselves*?
+
+And they say: *"Paul saith not, 'Who unworthily manducateth the body of the Lord', but nameth bread and cup."* **We respond**: But what or what sort of bread and cup doth he name? Not that of which Christ said: *This is My body, this is My blood*?
+
+These reasons are perspicuous, and cut short many alien disputations.
+
+### IV. The Fruits of the Manducation.
+
+Of the **fruit and efficacy** it is said when we must treat of the *application of the benefits of Christ through faith*. And hither pertaineth ***spiritual manducation***, which even outside the use of the Supper is customarily wrought and ought to be wrought *by faith alone through the Word*, as John 6 showeth.
+
+**Antiquity ascribed as *peculiar* to spiritual manducation in the Supper this testimony**: that *Christ dwelleth in us not only spiritually (as through Word and Holy Spirit), but also corporally, or by natural participation* (as **Cyril** saith) — *and abideth willing*, and that we can and ought to conceive a *living hope of the resurrection of our bodies, and of salvation and life and eternal glory*.
+
+**Hitherto at last we have most briefly comprehended the doctrine on the Supper, and touched the chief questions which today are moved.** All these things could — nay ought to be — more amply declared than in this narrow scope of time, addeth also of powers, of ingenuity, and of body's tenuity, could be done. Yet we willed briefly to embrace the sum; and from all that we have said, God being witness, we find that *the disputations and questions can be extended into infinity, so that no man can extricate himself from them, unless he again resort to the words of the Institution, and to their explication which Paul delivered*. **This way is most simple and most safe, and most pleasing to Christ, and salutary to our consciences.**
+
+And that this sentence may be confirmed in the minds of the pious teachers, **let us ardently pray that the Son of God Himself by His Holy Spirit** — that is, that we may not indulge in disputations *alien from the Word of the Son of God*, but as *infants and sucklings* may hang upon His mouth and Word — and always let us think how great, with what affection unto God the Father for us all as He was about to accede unto His slaughter, He poured out prayers, saying: *Father, sanctify them in truth; Thy Word is truth.*
+
+Thus far concerning the venerable Sacrament of the Lord's Supper let it have been said.
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+```
