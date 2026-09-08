@@ -7570,4 +7570,86 @@ So **bread properly and *per se* is not the body of Christ, but on account of th
 
 — ❦ —
 
-*[Locus XXVII Part 2 closes (Q8–Q10 + embedded Obj + OBIECTIONES I–IV on predication mode). Part 3 (Q11 in/cum/sub pane particles + OBIECTIONES I–V on particles + Q12 corporaliter + Q13 status controversiae) follows in T56. 487 top-level Q + 243 Obj rendered so far.]*
+## Question 11. What is to be judged concerning the particles *in*, *cum*, *sub pane*?
+
+**What is to be judged concerning the particles *in*, *cum*, *sub pane*?**
+
+**These are not excogitated by us, but by the holy Fathers so used** [*[T. 3, p. 439*]*] — as with **Augustine, Cyril, Chrysostom** one may see. Among others, **Augustine saith**: *"Receive this in the bread which hung on the cross."* But **these particles we retain — not that by them we understand a local inclusion of the body of Christ in the bread (this be far from us), but**:
+
+**1.** That **we may explain our confession against the Papist figment of transubstantiation**.
+
+**2.** That we may **utter our confession with these particles concerning the true presence of the body and blood of Christ in the Supper**.
+
+**3.** That **with these very things we may urge the Adversaries — who are wont to conceal their fraud with ambiguous phrases — that they may clearly and perspicuously utter their own confession**: **as also once the Orthodox Church, by the word *ὁμοούσιος*, brought forth into light and marked the Arians hiding under fox-pelts and ambiguity**.
+
+**4.** On this account also we retain them — because we see also Scripture itself resolving and explaining this phrase — *"Christ is God" — Rom. 9:5 — by another: "God was in Christ" — 2 Cor. 5:19* — and yet not on that account taking away the former. Wherefore therefore should not we also, with the orthodox Church, use these particles — without overturning the phrase *"bread is the body of Christ"*? **And if otherwise the Adversaries received the true sentence of this article, there would be easy agreement concerning the particles.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But if ye retain these particles, ye yourselves depart from the writing of the words of institution — for far other is the enunciation *"bread is the body of Christ,"* and *"in the bread is the body of Christ"*?** [*[T. 3, p. 439*]*]
+
+**As the Apostle, 2 Cor. 5:19, when he saith: *"God was in Christ,"* departeth not from the other enunciation *"Christ is God,"* but explaineth it** — so also we, on account of the aforesaid enunciation, recede not from the writing and native sentence of the words of the Supper — but use it only for declaration, on account of the causes a little before expounded. And **the words of Christ, *"this is my body,"* we prefer far above the other locution *"in the bread is the body."*** For **the words of Christ are altogether to be retained. But the phrase of the Fathers (if in other things concerning the reality itself they agreed with us) we could abstain from.**
+
+— ❦ —
+
+### Objection II. **If the proper and native sentence of the words of CHRIST ought to remain, then can there be no place for the aforesaid particles?**
+
+**Vain is the objection and frivolous.** For as **Paul, by the phrase *"God was in Christ,"* did not make figurative or evacuate the other *"Christ is true God"*** — so also we, by the use of the words *in*, *cum*, *sub*, do not make the words of Christ figurative: **only for declaration and for no other end do we, with the Fathers, use them**.
+
+— ❦ —
+
+### Objection III. **But if the body of Christ is given in the bread, and the bread is present locally, it is necessary that the body of Christ itself also be locally concluded and included in the bread?**
+
+**The bread of blessing indeed is present locally.** But **that on that account the body of Christ also is locally in the bread — as the contained in the container — followeth not**. For **in another mode is the bread present, in another also the body of Christ**. For **this is not locally included in the bread — but by a supernatural, celestial, and incomprehensible mode to human reason it is present**.
+
+*"To be in the bread," or "to be given and received with the bread"* — for these formulae are for us equipollent — **doth not will this, that the body be locally included in the bread, but that it be truly present, and with the bread — as through a medium instituted by Christ himself — be given and received**.
+
+**Certainly of God it is said, Ex. 20:24**: *"In every place, in which the memory of my name shall be, I will come to thee,"* etc. **Doth it therefore follow, that God is there locally?** So also **the body of Christ in or under the bread is truly present, but not locally, nor by way of inclusion**.
+
+— ❦ —
+
+### Objection IV. **But when it is said that the body of Christ is in the bread, even the exercised Christians can scarcely shake off the cogitation of a local presence?**
+
+**We answer with Martin Bucer**: **on account of our foolishness or infirmity, the truth of this doctrine is not to be changed. Ours it is in this business to lead every intellect into captivity in the obedience of Christ — 2 Cor. 10:5–6 — and not to resist the truth according to reason.**
+
+— ❦ —
+
+### Objection V. **But ye sing: *"In pane latens parvulo — Verborgen im Brodt so klein"* [Hidden in the little bread]. *Ergo* by those words ye presuppose a local inclusion, it is necessary?**
+
+**It is true that we so sing** — **but that we by those words of song establish a local inclusion of the body of Christ in the bread — it is not true**. For **the aforesaid words we understand only of the true presence and participation of the body of Christ with the sacred Symbol of bread — and we extend not further**. For **we know and say the bread to be a medium and instrument, through which Christ hath promised to exhibit his body delivered for us in the sacred Supper — which is administered here in the earth and not in heaven**. And **it hath never come into our mind, to interpret those words of local inclusion (as yet the Adversaries falsely always object to us)**.
+
+**The same concerning the other phrase — *"His blood in the wine to be drunk — Su trincken sein Blut im Wein"* — we answer**: **that it signifieth to us nothing else than that the blood of Christ is truly present, and with the wine of blessing — as through a medium instituted by Christ himself unto this — is truly given and received**. And **no local inclusion of the blood of Christ in the wine do we here feign**.
+
+— ❦ —
+
+## Question 12. But what do ye understand by the word *corporaliter*?
+
+**But what do ye understand by the word *corporaliter*?**
+
+**Nothing else — than that the body of Christ is truly and substantially present, and truly is given and received** — **yet not in a natural, corporal, comprehensible, local, and Capernaitic mode, but in a celestial, supernatural mode**. And so this word is used by **Hilary, book 8, De Trinitate**. **Paschasius useth the word *realiter*.**
+
+The Adversaries indeed contend that **by these words we posit a local inclusion — but they do us injury**. For **it followeth not: the body of Christ is corporally truly present, *ergo* it is locally present**. For **Christ, besides the local, hath many modes by which he can be somewhere with his body, and can truly communicate his body**.
+
+— ❦ —
+
+## Question 13. Of what heads chiefly is the controversy between us and the Adversaries in the article of the sacred Supper of the Lord?
+
+**Of what heads chiefly is the controversy between us and the Adversaries in the article of the sacred Supper of the Lord?** [*[T. 4/1, pp. 158, 179 and following*]*]
+
+**I.** **There is no controversy, whether the bread is essentially transmuted into the body of Christ, as the Papists feign**: for **this transubstantiation we expressly reject**.
+
+**II.** **Nor of the local inclusion of the body of Christ in the bread, and of the blood of Christ in the wine.** For **this also we reprobate and damn.**
+
+**III.** **Nor of a Capernaitic manducation of the flesh of Christ — who established that flesh, as also other flesh, is to be lacerated by the teeth.** For **this — which the Adversaries frivolously feign against us — we damn.**
+
+**IV.** **Nor of the spiritual manducation, which is made through faith, is there controversy for us.** For **this on both sides we teach and profess.**
+
+**V.** **Nor of the adoration of the blessed bread, of the inclusion or circumgestation of the same.** For **this together with them we reprobate and damn.**
+
+But **the controversy between us is this** [*[T. 3, p. 34; T. 6, p. 19; T. 8, p. 178*]*] — **whether the true, substantial body of Christ, and the true and substantial blood of Christ, with the sacred Symbols of bread and wine, in the action of the Supper on this earth, are truly and presently exhibited, and are received by all communicating**. For **of the presence of bread and wine there is no controversy among us — for on both sides with one mouth we confess, that in the sacred Supper bread and wine are exhibited**. But **the body and blood of Christ the Adversaries contend not to be exhibited with bread and wine — since they say them to be so far distant from these as the supreme heaven from the lowest earth**. But **we, according to the words of institution, say that the body and blood of Christ are truly and substantially given with the sacred Symbols to all communicating, and are received by all**.
+
+— ❦ —
+
+*[Locus XXVII Part 3 closes (Q11–Q13 + OBIECTIONES I–V on particles in/cum/sub). Part 4 (Q14 foundation of true praesentia + Q15 Adversaries' varied interpretations exposed + Q16 orthodox Patres' testimony with 8 sub-points + Q17 Sacramental union defined) follows in T57. 490 top-level Q + 248 Obj rendered so far.]*
