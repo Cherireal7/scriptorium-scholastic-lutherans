@@ -5815,3 +5815,127 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 — ❦ —
 
 *[Locus XXII De Praedestinatione is TRULY COMPLETE — 18 top-level Q (incl. 2 embedded Qs 11–12 in the objection cluster) + 3 formal Papist/curious Objs + 1 embedded Objectio in Q18. Total Locus XXII: 18 Q + 4 Obj units. 373 top-level Q + 196 Obj rendered so far. Locus XXIII De Bonis Operibus follows in T38.]*
+
+— ❦ —
+
+# Locus XXIII. Of Good Works
+
+### *De Bonis Operibus*
+
+## Question 1. What are good works?
+
+**What are good works?** [*[Luther: T. 5, p. 370 f. b, p. 448; Gen. T. 2, p. 197; Gen. T. 2, p. 116*]*]
+
+**Good works are called those works which God hath commanded, and which are done by the regenerate — the Holy Spirit being the Author — in faith and knowledge of Jesus Christ, unto the glory of God and the utility of the neighbour** — **Exod. 20; Rom. 14:17**: *"For the kingdom of God is not meat and drink, but righteousness and peace, joy in the Holy Spirit; for he that in this serveth Christ, pleaseth God, and is approved of men."* **Heb. 11:4**: *"By faith Abel offered a more copious sacrifice than Cain to God."* **Matt. 5:16**: *"So let your light shine before men, that they may see your good works, and glorify your Father who is in the heavens."*
+
+**The works of the faithful, or of Christians, which they do according to the prescription and mandate of God, are called *good* — Eph. 2:10** *"created in good works"*; **2 Tim. 3:17** *"instructed for every good work"* — **not that they are perfectly and absolutely good, and could stand in the judgement of God and consist in it, but because they are done by the regenerate and faithful, and out of the treasure of a good heart directed by the Holy Spirit, and proceed unto good work as created**.
+
+— ❦ —
+
+## Question 2. How are good works divided?
+
+**How are good works divided?** [*[Luther: Gen. T. 1, p. 195; T. 4/1, p. 660*]*]
+
+**By some into works of the first and second table of the Decalogue.** **By others into interior and exterior works.** For **God requireth not only external works, but also — and indeed chiefly — internal goodness and perfection of heart, that we may love God from the whole heart, fear him, and confide in him**.
+
+— ❦ —
+
+## Question 3. But who worketh good works in the faithful?
+
+**But who worketh good works in the faithful?**
+
+**The Holy Spirit himself is the true efficient cause, and creator of all good works in the faithful**. Whence also **Gal. 5:22** — **good works are called the fruits of the Spirit**. For **unless we be created and renewed of new by the Holy Spirit, unto good works we can do nothing good**. For **an evil tree bringeth forth none but evil fruits, and since our nature is corrupt, it is necessary that we be renewed by the Holy Spirit through the Word and Sacraments, before we work well** — **John 3:6**: *"That which is born of the flesh, is flesh; and that which is born of the Spirit, is Spirit."*
+
+When therefore **we are regenerate through the Holy Spirit, and endowed and renewed with true faith, then faith in us is efficacious through charity** — **Gal. 5:6**.
+
+Besides, **when the man is now regenerate, and his heart and will is converted to God, he is not only delighted with the Law of God according to the interior man — Rom. 7:22 — but he also cooperateth in good, and doeth well, although all these things are conjoined with the greatest infirmity**. Whence **1 John 3:3** it is said: *"Everyone who hath this hope in him, sanctifieth himself, even as he is holy."* And **1 John 5:18**: *"We know, that everyone who is born of God sinneth not, but the begetting of God preserveth him, and the malignant one toucheth him not."*
+
+— ❦ —
+
+## Question 4. By whom then can good works be exhibited?
+
+**By whom then can good works be exhibited?** [*[Luther: T. 7, p. 135; Gen. Lib. 2, pp. 96, 97; Potestas Ecclesiastica, part 1, p. 119 f. b; Gen. T. 1, p. 140 f. b*]*]
+
+**By those who are regenerate by the Holy Spirit, have faith in Christ, and in whom the Spirit of God dwelleth and worketh** — **Rom. 8; Ezek. 36:27**: *"I will place my Spirit in the midst of you, and will make you to walk in my commandments, and my judgements ye shall keep, ye shall do them."* **1 John 3:18; Matt. 7:17**: *"Every good tree beareth good fruit."*
+
+And **hence also by contrast it is clear, that men not regenerate, who have not faith in Christ, nor are temples of the Holy Spirit, cannot do truly good works**. Whence **the virtues of the Ethnics and the works of the Pharisees neither are, nor can be called, good works**.
+
+**The reasons are**:
+
+**1.** Because **their works are of the flesh or of reason, not of the Spirit**.
+
+**2.** They are done **in unbelief**.
+
+**3.** They are not done **in Christ, unto the glory of God the Father, but look to the glory and utility of the flesh**.
+
+— ❦ —
+
+## Question 5. Are those only therefore good works, which God hath commanded?
+
+**Are those only therefore good works, which God hath commanded?** [*[Luther: T. 4, pp. 407, 408; Gen. T. 2, p. 214*]*]
+
+**Very much so.** For **the Decalogue prescribeth for us, how our whole life is to be conformed to the will of God** — **Ezek. 20:19**: *"I am the Lord your God, walk ye in my precepts."* **1 John 5:2**: *"For this is the charity of God, that we keep his commandments."*
+
+**Christ himself also, Matt. [15], reprobateth the traditions and mandates of men.**
+
+— ❦ —
+
+## Question 6. But how are good works to be done, that they please God?
+
+**But how are good works to be done, that they please God?** [*[Luther: Gen. T. 1, pp. 74, 75; Gen. T. 2, p. 160; pp. 143, 144, 145, 146*]*]
+
+**In true faith and knowledge of Christ Jesus** — **Rom. 14:18**: *"For he that in this serveth Christ, pleaseth God."* **1 Pet. 2[:5]**: *"Offer spiritual sacrifices, acceptable to God through Jesus Christ."* Hence **Heb. 11:6** it is said: *"Without faith it is impossible to please God."* And **Gen. 4:5**: *"And the Lord had respect to Abel and to his gifts."*
+
+From which it is clear, that it is necessary that **the person first through faith in Christ be accepted of God, before his works please God — and that the person be justified before God not by and on account of works, but rather that the works, on account of the person accepted and faithful and justified, please God, and be truly good and accepted of God**.
+
+**Our works therefore are accepted and pleasing to God on account of Christ, on account of whose obedience and satisfaction we together with our works are accepted to him** [*[Luther: T. 7, p. 38; In the Articles of Schmalcald, part 3, art. 13*]*]. **Works therefore are to be judged not from their external species, but from the heart of the man working them**: if he **be in Christ, is the work from faith according to the word of God — it pleaseth God**; if not, **it displeaseth**.
+
+— ❦ —
+
+## Question 7. Unto what end ought our works to be done?
+
+**Unto what end ought our works to be done?** [*[Luther: T. 7, p. 62 f. b; T. 4, pp. 101, 102; T. 4/1, p. 11*]*]
+
+**Respondeo**: **This Christ himself expoundeth, Matt. 5:[16]**: *"Let your light shine before men, that they may see your good works, and glorify your Father who is in the heavens."* He saith not: *"that by them ye may merit the grace of God and eternal life,"* — **as the Papists teach**.
+
+— ❦ —
+
+## Question 8. Is it rightly said, that good works are necessary?
+
+**Is it rightly said, that good works are necessary?** [*[Luther: In the preface to the New Testament and to the Epistle to the Romans; In the Postill on the Sunday of Trinity*]*]
+
+**Very much so.** For **Sacred Scripture itself useth the word "necessity" — Rom. 3:5; 1 Cor. 9:16; Acts 5:29**. **By the word "necessity" is to be understood the necessity of order, of the mandate and will of Christ, and of our debt — not however the necessity of coercion**. For **it doth not show a violent coercion, but the order of the immutable will of God, of whom we are debtors, since the very commandments of God show that the creature oweth obedience to his Creator** — **Rom. [8:12]**: *"We are debtors, not to the flesh."*
+
+**For the obedience of the faithful is spontaneous** — **Ps. 110:3**: *"Thy people shall be voluntary in the day of thy victory."* **2 Cor. 9:7**: *"God loveth a cheerful giver."* But **this promptitude and spontaneous will is not from the flesh but from the Spirit and the interior man, who is delighted with the Law of God — Rom. 7:22**.
+
+— ❦ —
+
+## Question 9. Are good works therefore so in the free choice and will of the faithful, that they can do or omit them at pleasure?
+
+**Are good works therefore so in the free choice and will of the faithful, that they can do or omit them at pleasure?** [*[Luther: T. 4/1, pp. 161, 162, 193; T. 4/1, p. 43*]*]
+
+**By no means.** He who so thinketh or teacheth, nourisheth and defendeth a false sentence. For **to Christians it is commanded that they work well, and this new obedience the order and immutable will of God requireth of them — which obedience they ought to exhibit from a spontaneous and good heart**.
+
+— ❦ —
+
+## Question 10. What causes ought to move the faithful, that he may walk wholly in newness of life?
+
+**What causes ought to move the faithful, that he may walk wholly in newness of life?** [*[Luther: T. 1, p. 23 f. b*]*]
+
+**I.** **The severe mandate of God prescribed in the Decalogue** — for **this is the immoveable will of God, that the creature should exhibit filial obedience to his Creator, and the son to his heavenly Father**.
+
+**II.** **The very nature and property of faith.** For **faith worketh through charity — Gal. 5:6**. If therefore **thou hast true faith in Christ, it will show itself in the fruits of charity, of hope, of patience, of invocation, in the love and support of the neighbour**.
+
+**III.** **The calling itself and its end. For unto sanctification, that in newness of life we may walk, are we called** — **1 Thess. 4:7**: *"For God hath not called us into uncleanness, but into sanctification."* **1 Pet. 2:12**: *"Having your conversation among the Gentiles good, that in that in which they detract concerning you as of evildoers, from your good works considering you, they may glorify God in the day of visitation."* **1 John 3:10**: *"In this are manifest the sons of God and the sons of the Devil; everyone who is not just, is not of God, and he that loveth not his brother."*
+
+**IV.** That **by our honest conversation we may adorn the doctrine of the Gospel** — **Phil. 1:27**: *"Only converse ye worthily of the Gospel of Christ."* **Tit. 2:10**: *"In all things showing good faith, that they may adorn the doctrine of God our Saviour in all things."*
+
+**V.** That **we may be found imitators of Christ** — **Phil. 2:5**: *"Have this mind in you, which is also in Christ Jesus."* **1 Cor. 11:1**: *"Be ye imitators of me, even as I also of Christ."* **1 Pet. 1:14**: *"As sons of obedience, not configured to the former desires of your ignorance, but according to him who hath called you, be ye also holy in all your conversation — because it is written, ye shall be holy, because I am holy."*
+
+**VI.** **To avoid and decline scandals** — **1 Cor. 10:32**: *"All things do ye unto the glory of God, without offence be ye to the Jews and to the Gentiles and to the Church of God."* **Phil. 2:14**: *"Do ye all things without murmurings and hesitations, that ye may be without complaint, and simple sons of God, without reprehension in the midst of a depraved and perverse nation, among whom ye shine, as luminaries in the world."*
+
+**More causes are elsewhere recited and explained.**
+
+— ❦ —
+
+*[Locus XXIII Part 1 closes (Q1–Q10). Part 2 (Q11–Q13 on imperfection + necessity + OBIECTIONES I–VI on necessity ad salutem, and further Qs on conservation and perfection) follows in T39. 383 top-level Q + 196 Obj rendered so far.]*
