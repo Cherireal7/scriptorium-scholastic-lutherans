@@ -11932,4 +11932,118 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXV De Calamitatibus et Cruce Part 1 — Q1–Q9 rendered in T93 covering: necessity of locus, Church subject to cross, definition of cross+calamities, four distinctions (penalties of delicts + not equal + not satisfaction + can be called penae; exercises of faithful; singular for confession — Martyrs; Passion of Christ properly), discrimen between passion of Christ and Saints (I person, II sinlessness, III no murmuring, IV perfect Law satisfaction, V full expiation, VI meritorious+imputed), internal/external afflictions, sin as efficient cause, refutation of Ethnic causes (eternal matter, stars, fortune, fate) + Satan as impeller, syllogism "to good it ought to be well" + I-VI consolations under afflictions. Part 2 (Q10 onwards on causes God permits calamities + means of enduring) follows in T94. 763 top-level Q + 419 Obj rendered so far.]*
+## Question 10. The causes therefore why God the faithful in this life often to be exercised by calamities doth permit, are: [*[T. 7, p. 318; Gen. T. 4, p. 140]*]
+
+**The causes therefore why God the faithful in this life often to be exercised by calamities doth permit, are:**
+
+**Respondeo**:
+
+**I. That before other men they may know and deplore the horrid corruption of human nature — which the sons of this age do not, for these care not for nor fear either sin or God. Ps. 90:[7]**: *"Because we have failed in thy wrath, and in thy fury we have been troubled; thou hast set our iniquities in thy sight,"* &c. **Lam. 1:5**: *"The Lord hath spoken over her on account of the multitude of her iniquities."* **Item, v. 14**: *"The yoke of my iniquities hath watched: in his hand they have been wound about and imposed upon my neck."*
+
+**II. Because even in Saints many infirmities remain — security, impatience, negligence of prayers, desire of vindication, evil concupiscences, &c. — which have need that from God they be visited, corrected, and repressed. Ps. 89:33 [*[T. 2, p. 343]*]**: *"I will visit with the rod their iniquities, and with strokes their sins: but my mercy I will not disperse from him."*
+
+— ❦ —
+
+## Question 11. But what are the organs, which God for our corruption doth use? [*[T. 6, p. 240; T. 7, p. 45, 91; T. 2, p. 313; T. 8, p. 316; T. 5, p. 428; Gen. T. 1, p. 74, 42; T. 4/1, p. 146–147, 310, 416; T. 7, p. 76, 178]*]
+
+**But what are the organs, which God for our corruption doth use?**
+
+**Respondeo**: **The Devil and the world set in the wicked one, whom God permitteth to afflict the pious: yet a term he hath constituted to them, which they cannot pass — as the history of Job perspicuously testifieth. Job also, although he knew Satan for his adversary, yet saith**: *"The Lord gave, the Lord took away"* — **he saith not: "Satan took away."**
+
+**But Satan and the world set on his side to the persecution of the pious nothing else impelleth, than hatred and enmity against Christ, his Word, and his faithful disciples and confessors — whom they cannot bear, but will them to be taken out of the way.**
+
+— ❦ —
+
+## Question 12. But to what end doth God his own with cross and calamities exercise? [*[T. 2, p. 347, 15, 49–50, 214, 314, 514, 79, 124; Gen. T. 4, p. 100–101, 30, 126; G.t. 2, p. 25–26; G.t. 3, p. 28]*]
+
+**But to what end doth God his own with cross and calamities exercise?**
+
+**Respondeo**:
+
+**I. That in cross and calamities they may learn the praxis of Theology, and that what from the Word of God they have learned, they may use and enjoy. Hence Ps. 119:71 it is said**: *"Good it is for me, that thou hast humbled me, that I may learn thy justifications."* **Jer. 31:18**: *"Thou hast chastised me, and I am instructed."* **The Word of God many things concerning faith, hope, patience, invocation, &c., handeth down: but what these things be, nowhere better than in the school of the cross is learned: as the history of David and of all the faithful showeth.**
+
+**II. That faith, hope, patience, invocation, &c. in these exercises may grow, be augmented, and daily more and more be corroborated. [*[Gen. T. 2, p. 9, 300; Gen. T. 4, p. 14–15]*] Jehoshaphat, 2 Chron. 20, would not so seriously and ardently have prayed, had he been without cross. So David, Daniel, and other saints, never would have composed such glorious prayers, unless by tentations and various miseries they had been compelled. Whence Peter, 1 Pet. 1:6, saith**: *"in which ye shall exult, a little now, if need be, saddened in various tentations, that the probation of your faith, much more precious than gold [which is proved by fire], may be found."*
+
+**III. That the corruption and magnitude of sin in human nature they may attend more and deplore, than the secure sons of this age, who neither for sin nor for the wrath of God do care. Ps. 78:34**: *"When he slew them, they sought him, and turned again, and at daybreak came unto him: and they remembered, that God was their helper, and God most high their redeemer: and they loved him in their mouth, and with their tongue they lied to him: but their heart was not right with him, nor were they held faithful in his Testament."* **Mic. 7:9**: *"I will bear the wrath of the Lord, because I have sinned against him."* **Ps. 38:18–19**: *"For I am prepared for scourges, and my sorrow is in my sight always: for my iniquity I will announce, and I will think on for my sin."*
+
+**IV. That the various passions of this time may be immovable testimony of immortality and of eternal glory, which in the pious shall be revealed. Rom. 8:18**: *"For I reckon, that the passions of this time are not condign to the future glory, which shall be revealed in us."* **2 Tim. 2:11**: *"A faithful saying: For if we have died together, we shall also live together."* **The passions of the Prophets, of the Apostles, of the Martyrs are infallible testimony of their future life. On the contrary also of the future condemnation of the persecutors, who did no poenitentia.**
+
+**V. That the very afflictions of the pious may testify, that they seek not this life and its pleasures, but only the glory of God and eternal salvation, and that they hold the Gospel not on account of riches, honours, and pleasures. But because they know that to be the immovable truth of God — which before they would lose, they would rather undergo a thousand deaths. As the histories of the Prophets, of the Apostles, and of all holy Martyrs abundantly do teach.**
+
+— ❦ —
+
+## Question 13. But what doth cross and affliction beget?
+
+**But what doth cross and affliction beget?**
+
+**Respondeo**: **Mostly sadness of heart in the present it worketh, but in the future eternal gladness. Ps. 42**: *"Why art thou sad, my soul, why dost thou trouble me?"* **Heb. 12:11**: *"All discipline in the present seemeth indeed not to be of joy, but of sorrow: but afterwards it will render the most peaceable fruit of righteousness to them that are exercised through it."* **It also revealeth the thoughts of the hearts, Luke 2:35**: *"And thine own soul a sword shall pierce through, that from many hearts thoughts may be revealed."*
+
+— ❦ —
+
+## Question 14. But why doth God in this life punish sins, when by judgment and by eternal penalties in that one he is to animadvert?
+
+**But why doth God in this life punish sins, when by judgment and by eternal penalties in that one he is to animadvert?**
+
+**Respondeo**:
+
+**I. That conspicuous may be his wrath against sin, Exod. 20:5**: *"I am the Lord thy God, the strong zealot,"* &c.
+
+**II. That the empires of this world and public peace and tranquility may be preserved. For unless the evil were punished, no empire would be lasting, no peace and tranquility among men would remain.**
+
+**III. To others for example: So the adultery and homicide of David, 2 Sam. 12, is punished, that others by these penalties from like delicts may be deterred. Absalom, 2 Sam. 18, clingeth to an oak between heaven and earth, and by three lances is transfixed — to all contumacious and rebellious sons for example and terror.**
+
+**IV. That he may show, that another judgment remaineth: for these short and momentary penalties of the wicked are types of the eternal penalties, to which the impii — unless they shall have done poenitentia — in the extreme judgment shall be subjected.**
+
+**V. God by these examples of penalties willeth to invite us all to poenitentia, and from security to dehort us: for easily prone into lapses do we sin, unless cautiously and in the fear of the Lord we walk.**
+
+— ❦ —
+
+## Question 15. What virtues under the cross are necessary?
+
+**What virtues under the cross are necessary?**
+
+**Respondeo**:
+
+**I. True faith in Christ, that even in the calamities themselves we may be most certain, that we for Christ's sake are in the grace of God, and that he, although us he chastise, yet with us is not angry. For "whom the Lord loveth, he correcteth, and as a father complaceth himself in a son," Prov. 3:12. [*[T. 4/1, p. 640]*]**
+
+**II. Patience, Rom. 5:4**: *"knowing, that tribulation worketh patience, and patience probation, and probation hope, and hope confoundeth not."* [*[In Postil, dom. Dom. Cantate; T. 4/1, p. 478]*] **"Expect the Lord, act manfully, and let thy heart be strengthened, and endure the Lord," Ps. [27:14, 130:5]**: *"My soul hath endured in his Word, my soul hath hoped in the Lord,"* &c. **Tob. 2:12**: *"But this tentation therefore the Lord permitted to come upon him, that to posterity might be given the example of his patience."*
+
+**III. Invocation: this chiefly is needful, that in faith we may be strengthened, act manfully, expect the Lord. Isa. 26:16 [*[Gen. t. 2, p. 188]*]**: *"Lord, in anguish they have sought thee, in the tribulation of murmur thy doctrine is to them."*
+
+**IV. Perseverance even unto the end. Ps. 120:6**: *"My soul hath hoped in the Lord, from the morning watch even until night."* **Matt. 24:13**: *"He that shall have persevered unto the end, this one shall be saved."*
+
+— ❦ —
+
+## Question 16. But what in the genus are the consolations of the pious in every pressure?
+
+**But what in the genus are the consolations of the pious in every pressure?**
+
+**Respondeo**:
+
+**I. That they know these all things to happen unto them according to the good will of God, and not by chance or by hazard. Matt. 10:30**: *"But the very hairs of your head are all numbered."* **Ps. 68:20**: *"Blessed be the Lord daily; God will lay a burden upon us — God of our salvations: Our God, the God of them that make safe: And of the Lord, the Lord, are the goings forth of death."*
+
+**II. That good it is with silence to await the salvation of God**: *"Good it is to a man, when he shall have borne the yoke from his youth. He shall sit solitary and shall be silent, because he hath lifted himself above [himself],"* &c. **Lam. 3:26–28.**
+
+**III. That with good conscience they suffer, 2 Cor. 1:12 [*[Gen. t. 4, p. 25–26]*]**: *"For our glorying is this, the testimony of our conscience."*
+
+**IV. That they know themselves to be in the grace of God, and to be sons of God in Christ, although by various calamities they be pressed. Rom. 5 [*[T. 4, p. 214–215; Gen. t. 3, p. 129–130]*]**: *"Justified out of faith, we have peace unto God through our Lord Jesus Christ, through whom also we have access by faith into that grace, in which we stand, and glory in the hope of the glory of the sons of God."*
+
+**V. That they are certain, that they have God in tribulations present, consoler and helper. Ps. 21 [*[G.t. 1, p. 15]*]**: *"I am with him in tribulation."* **John 14**: *"I will not leave you orphans."* **Matt. 28**: *"Behold, I am with you all days, even unto the consummation of the age."* **Isa. 41:14**: *"Fear not, worm Jacob, ye who are dead of Israel, I have helped thee, saith the Lord, and thy Redeemer, the Holy One of Israel."* **Item v. 10**: *"Fear not, because I am with thee, decline not, because I am thy God."*
+
+**VI. That they are certain of eternal redemption from every evil and of future glory in Christ Jesus. Rom. 8:38–39 [*[G.t. 2, p. 62]*]**: *"For I am certain, that neither death, nor life, nor angels, nor principalities, nor virtues, nor things present, nor things future, nor fortitude, nor altitude, nor depth, nor other creature can separate us from the charity of God, which is in Christ Jesus our Lord."*
+
+**VII. That they have the examples of all the faithful, who before them have been — and are certain, that no one ever was confounded or forsaken, who hath hoped in the Lord, Ps. 25, Sirac. 2:11–12; nor that they shall be confounded or forsaken. Ps. 34:7**: *"This poor man hath cried, and the Lord hath heard him."* **Jud. 8:21**: *"Lift up their hearts, that they be mindful, that tempted were our fathers, that they might be proved, whether truly they did worship their God. They ought to be mindful, how our father Abraham was tempted, and through many tribulations proved, was made the friend of God: So Isaac, so Jacob, Moses, and all, who pleased God, through many tribulations passed faithful."*
+
+**VIII. That from the end of the calamities they know all things to co-operate for them for good, and cross in many ways to profit. Hither pertain those very clear sayings: Tob. 3:13**: *"Blessed is thy name, O God of our fathers, who, when thou shalt have been angry, mercy wilt do, and in time of tribulation forgivest sins to them that invoke thee,"* &c. **And again, v. 21**: *"But this for certain hath every one, who worshippeth thee, that his life, if in probation it shall have been, shall be crowned: but if in tribulation it shall have been, he shall be freed: and if in correction it shall have been, unto thy mercy to come it shall be permitted him. For thou art not delighted in our perditions, because after storm thou makest calm, and after weeping and mourning exultation thou pourest in. Let thy name, O God of Israel, be blessed for ever."*
+
+**IX. They remember, that better it is with all the saints to suffer and to weep, than with the world to rejoice — because the sadness of the pious into joy shall be turned. John 16:20.**
+
+**X. That faithful is the Lord, who suffereth not his own to be tempted above what they can, but maketh also with the tentation issue, that they may sustain, 1 Cor. 10:13. Lam. 3:31–32,** &c. — *"Because he will not repel for ever the Lord. Because if he hath cast off, he will also have mercy according to the multitude of his mercies. For he hath not humbled from his heart, and cast off the sons of men."* **Item, v. 20–22**: *"Remembering he shall remember, and shall bend himself over me my soul: This recollecting in my heart, therefore I will hope. The mercy of the Lord, because we are not consumed, because his miserations have not failed. New in the morning and at dawn, much is thy faith. My portion the Lord, my soul hath said: Therefore I will expect him. Good is the Lord to them that hope in him, to the soul that seeketh him."*
+
+— ❦ —
+
+**Special consolations**: In persecution [*[T. 2, p. 257; T. 5, p. 6, 7, 8, 9]*]. In sicknesses [*[T. 6, p. 205, 272–273, 496]*]. In the agony of death [*[T. 7, p. 61, 371]*]. In sadness of Spirit [*[T. 7, p. 104–105]*]. In tentations of faith and hope [*[T. 8, p. 376]*].
+
+— ❦ —
+
+*[Locus XXXV De Calamitatibus et Cruce COMPLETE — rendered in 2 tranches (T93–T94). Part 2 (T94) covered Q10–Q16: causes God permits calamities (2 causes — deplore corruption of nature, correct remaining infirmities), organs of correction (Devil + world), 5 ends of exercising by cross (learn praxis Theologiae, grow in virtues, attend corruption, testimony of future glory, testify pursuit of God's glory not this life), fruit of cross (sadness now/eternal joy later), 5 reasons God punishes in this life (wrath conspicuous, preserve empires, example, type of eternal judgment, invitation to poenitentia), 4 virtues under cross (faith, patience, invocation, perseverance), 10 general consolations of pious in pressure. Total Locus XXXV: 16 Q + syllogism-Respondeo embedded in Q9. 770 top-level Q + 419 Obj rendered so far. Locus XXXVI De Magistratu Politico follows in T95 at OCR line 42359.]*
