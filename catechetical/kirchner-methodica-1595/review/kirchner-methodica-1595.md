@@ -6626,4 +6626,92 @@ The leper, **Matt. 8:2**, cleansing from leprosy; the Canaanite woman, **Matt. 1
 
 — ❦ —
 
-*[Locus XXIV Part 2 closes (Q11–Q17 + embedded Ioh 9:31 Obj). Part 3 (Q18 whether Sanctorum invocatio is pia et Christiana + OBIECTIONES I–IX against invoking the deceased Saints) follows in T46. 428 top-level Q + 210 Obj rendered so far.]*
+## Question 18. Is the invocation of Saints pious and Christian?
+
+**Is the invocation of Saints pious and Christian?**
+
+**By no means.** For **we have an express mandate of God**: *"Invoke me — Ps. 50:15."* **Matt. 4:7, 10**: **Deut. 6:13**: *"The Lord thy God shalt thou adore, and him alone shalt thou serve."*
+
+**All invocations therefore which are made to things which are not seen, nor are God, are impious.** **The saints themselves also are not everywhere and omnipotent** — therefore **to them this honour befitteth in no wise**. **Invocation certainly attributeth omnipotence to that which is invoked**.
+
+**In Scripture also no mandate or example of the invocation of Saints exists.** Since therefore **in such invocation of the dead no faith can be, leaning upon the word and promise of GOD, no invocation is**.
+
+**By the invocation besides of Saints, the doctrine concerning the invocation of our sole Mediator Christ is obscured.** **Execrable therefore is the invocation of the dead, obscuring the doctrine concerning the invocation of our Lord Jesus Christ, and above all calling his very divinity into doubt** [*[T. 7, p. 78 f. b*]*].
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But the Saints pray for us and intercede? Therefore they are to be invoked.**
+
+**Although they may pray for us, yet we have no word or mandate in the sacred letters, that on this account we should invoke them** [*[T. 1, pp. 145, 146*]*]. Then **we ought not to invoke the saints, since they are not searchers of hearts** — since **that invocation of absent creatures differeth nothing from the invocation of statues**.
+
+**Of Christ we are certain that he intercedeth for us — Rom. 8:34; Heb. 7:25**. **And we have a certain mandate to invoke him — and invoking him, we know that we are heard.** But **of the Saints on the contrary we read written, Isa. 63:16**: *"Abraham hath not known us, and Israel hath been ignorant of us"* [*[T. 3, p. 433*]*].
+
+— ❦ —
+
+### Objection II. **The Saints are in the grace of God, and their intercession availeth much with God. Therefore they are to be invoked, that they may intercede for us?**
+
+**It followeth not.** For **although they be in the grace of God, yet on that account Scripture saith not, that they are to be invoked as intercessors**. Since therefore **we have no word concerning the invocation of Saints, we ought not to invoke them**.
+
+— ❦ —
+
+### Objection III. **Gen. 49 it is said: *"Let thy name be invoked upon them."* *Ergo* the invocation of Saints is prescribed.**
+
+**Respondeo**: **It is a fallacy of the figure of speech.** For **Jacob speaketh not of invocation to be directed to them, but he willeth that his own grandsons be named by the name of the fathers, so that this naming might attest that they are heirs of the promise made to the fathers**.
+
+— ❦ —
+
+### Objection IV. **Christ is not divided. The Saints are inserted into Christ. *Ergo* they are to be invoked as members in the head Christ.**
+
+**Respondeo**: **It is a fallacy of the consequent.** It followeth not: **Christ, as head of the Church, is to be invoked. *Ergo* the honour of invocation is owed also to his members**. Even if therefore **Christ be not divided, yet the honour of invocation is owed only to Christ**.
+
+**The Saints indeed pertain to Christ, who dwelleth in them by grace, and they are his members** — but **yet they are not so coupled with him, as the assumed human nature, to which the honour of invocation is owed on account of the most close union with the Word**.
+
+— ❦ —
+
+### Objection V. **The Saints in heaven hear the prayers of men. *Ergo* they ought to be invoked. Angels certainly hear the prayers of men, and bring them to God. *Ergo* also the saints, who are like unto the Angels.**
+
+**Respondeo**: **The antecedent is false, by the testimony of Scripture, which saith Abraham to know not what we do — Isa. [63:16]**. **Concerning the Angels I answer**: Although they bring the prayers of the pious to God, **yet they are not to be invoked** — nay, **they are prohibited to be adored — Apoc. 22**. Besides, **they were present to those whose prayers they carried to God — as with Tobias**. But **the deceased Saints are far absent from us**. And although **the Saints be similar to the Angels in some gifts, yet certain it is, that they are not present to our actions and colloquies**.
+
+**The Papists bring the similitude of a mirror**, and contend that **the Saints in heaven look at that mirror or face of the divine Majesty, and thence recognize our prayers — just as they who look at a mirror hanging in an upper room, recognize the things done in the upper room**. But **similitude proveth nothing, since it is not fortified by the perspicuous word of God**. Every opinion also of men in divine matters apart from the word of God is idolatry. Such is the opinion of the deceased Saints to be invoked. It is therefore **mere idolatry**.
+
+— ❦ —
+
+### Objection VI. **To the Saints only that invocation is to be attributed, which is the imploration of intercession — for they are singular friends of God and our Patrons. *Ergo* they are to be invoked.**
+
+**Respondeo**: **The honour of Mediator and of intercession belongeth to Christ alone.** **One is the Mediator — 1 Tim. 2. Heb. 7 — always living to interpel for us.** And **the sacred Scripture plainly knoweth not the difference between the one Mediator of redemption and many Mediators through intercession**. **Not therefore is to be admitted whatsoever finally the Papists chatter**.
+
+And although they urge **the words of Moses, Deut. 5**: *"I stood between and was in the middle between God and you"* — **yet it is certain that those words treat not of the deceased Saints — but of Moses, who was in the living, and announced the words of God to the people, as Moses himself in the said place explaineth**.
+
+**Vast however is the difference between living and dead saints.** **The living can and ought — from the mandate of God — to announce something to the living, and to intercede for the living with GOD** [*[Gen. 10, T. 2, pp. 159, 160*]*], **as with the Papists the invocation of Saints holdeth — namely, of the suffragation of the merits**. And although **Paul doubted not that Peter, while alive, prayed for him — yet he said not: "Holy Peter, pray for me," nor ever invoked God, that on account of Peter's merit he might be propitious to him**.
+
+— ❦ —
+
+### Objection VII. **Tradition teacheth that the Saints are to be invoked. *Ergo*, etc.**
+
+**Respondeo**: **Human tradition destitute of the manifest word of God availeth nothing.** Since therefore **they are forced to confess that Scripture nowhere teacheth the invocation of Saints, in vain do they recur to the place from traditions**.
+
+— ❦ —
+
+### Objection VIII. **But the holy Fathers taught the invocation of Saints. *Ergo*, etc.**
+
+**Respondeo**: **Epiphanius calleth the invocation of Mary an ancient error.** **Antiquity therefore apart from the word of God is not to be heard**. **This indeed cannot be denied — that in ancient times, among some, privately certain seminaries of this superstition sprouted; which yet always were reprehended in more serious disputations**.
+
+**Julian, in Cyril bk. 9 lib. 10, chargeth the Christians with the cult and adoration of the dead. But Cyril responds concerning the memory and honour of the martyrs; concerning adoration he denies; concerning the invocation of intercession and the suffragation of merits, he hath no word.**
+
+**The same response is also extant in Eusebius, book 4, cap. 15.**
+
+And there is extant a memorable sentence in **Epiphanius**: *"Let there be in honour of Mary. Let the Father and the Son and the Holy Spirit be adored. Let no one adore Mary — I say not woman, nay not even man — to GOD this mystery is owed, nor do the Angels suffer such glorification."*
+
+— ❦ —
+
+### Objection IX. **In the Mass of Chrysostom there is a mention of the invocation of Saints. *Ergo*, etc.**
+
+**Respondeo**: **But in the word of God there is no mention of the invocation of Saints.** **The Mass of Chrysostom is not the word of God, nor hath it equal authority with the word of God.**
+
+Then it is known also to the Papists, that **the exemplars of this Mass wondrously vary** — **Pelargus attesting, who writeth that his exemplar varieth from that which Erasmus published, and that he had besides seen at Rome another exemplar, which agreeth with neither of those two**. **What therefore is the authority of this Mass, from the aforesaid is clear.**
+
+— ❦ —
+
+*[Locus XXIV Part 3 closes (Q18 + OBIECTIONES I–IX on Sanctorum invocation). Part 4 (Q19 Canisius' error refuted + 2 Objs on Christ's continuing intercession + Q20 relics + 3 Objs on relics + Q21 saints' honour + Q22 consecrations + 2 Objs on consecrations + Q23 impenitent-sinner prayers) follows in T47. 429 top-level Q + 219 Obj rendered so far.]*
