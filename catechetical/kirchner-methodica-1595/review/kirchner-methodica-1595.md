@@ -6936,4 +6936,88 @@ Whence it is clear, that **they fall into the error of the Donatists, who conten
 
 — ❦ —
 
-*[Locus XXV Part 1 closes (Q1–Q12). Part 2 (OBIECTIONES I–IV on Augustine's signa-nomen-rerum-signatarum + signa dicuntur + significare est proprium + 1 Cor 10:3 eandem escam spiritualem + Q13–Q17 nuda signa, Enthusiasts, seven Papist sacraments, ex opere operato, Baptism/Supper discrimen) follows in T49. 446 top-level Q + 226 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **But Augustine saith to Boniface, Epistle 22: *"Signs receive the names of the things signified."***
+
+**But he speaketh not in general of all Sacraments** — that in all Sacraments only the name of the thing signified is attributed to the sign — but he saith that this happeneth **often**. Then although he saith **that the Sacraments have a certain similitude of the things of which they are Sacraments, yet he saith not that in all Sacraments there is nothing but the similitude of the things of which they are Sacraments**. And though **so he had written** (which yet he did not), **yet from his authority — as of a man — in this business of faith, without the certain word of God nothing could be decreed**.
+
+**In the sacred Supper that there is a certain similitude of bread and the body of Christ, and of wine and the blood of Christ, is beyond controversy.** For as **bread and wine nourish and comfort the body unto this present life — so the body and blood of Christ nourish and corroborate the soul and body unto life eternal**. But **hence it followeth not, that in the Supper there is nothing besides figures, tropes, and similitudes and analogies, and that the true body and blood of Christ is not distributed in it**.
+
+— ❦ —
+
+### Objection II. **But Sacraments are called signs?**
+
+**True this indeed is — they are called signs.** But **the question is, whether they are only significative signs of absent things** (which the adversaries would have), **or exhibitive — with which and through which the things promised are truly exhibited and distributed**.
+
+**Bread and wine in the Supper of the Lord we deny not to be called signs** — but **we will to add, those signs are not of the far-absent body and blood of Christ, but such signs, with which the body and blood of Christ are truly and presently distributed, according to the words of the institution of Christ**.
+
+— ❦ —
+
+### Objection III. **But it is proper to Sacraments to signify something?**
+
+**This we willingly concede — but on this condition, that mere significations and figures be not feigned** (as in the Sacraments of the Old Testament) — but **that together with the analogy or signification, also the entire Supper of the Lord be left to us according to the words of institution, and be not mutilated**.
+
+**We know indeed there is in the Supper of the Lord an analogy** — just as **from many grains one bread is made, and from many grapes one wine, so also we are one body — 1 Cor. 10:17**. But **this is not yet enough — the very and precious good of the present body and blood of Christ, which Christ with diserte words hath promised to be distributed with the sacred symbols of bread and wine, must be left in the sacred Supper**.
+
+— ❦ —
+
+### Objection IV. **But 1 Cor. 10:3 it is said: *"All ate the same spiritual food."* *Ergo* we have Christ in the sacred Supper no otherwise than as the Fathers had him in the Old Testament?**
+
+**Respondeo**: **He saith not that they ate the same food with us — who live under the New Testament — but among themselves**. **These words therefore exclude in no wise the true presence of the body and blood of Christ in the Supper** — since they speak not of the Supper of the Lord, but of the Manna and the water of the Old Testament — as also **Oecolampadius himself acknowledged this**.
+
+— ❦ —
+
+## Question 13. Are then the Sacraments so bare signs, as the shepherd marketh his own sheep, that he may know them?
+
+**Are then the Sacraments so bare signs, as the shepherd marketh his own sheep, that he may know them?**
+
+**This indeed some at the beginning of the controversy on the Supper affirmed.** But **the Adversaries themselves now reprobate this assertion — or at least wish to seem to reprobate it**.
+
+— ❦ —
+
+## Question 14. Is the opinion of the Enthusiasts true, who contend that there is no need of Sacraments, since the Holy Spirit worketh all things?
+
+**Is the opinion of the Enthusiasts true, who contend that there is no need of Sacraments, since the Holy Spirit worketh all things?**
+
+**By no means.** For if the opinion of these were true, in vain would Sacraments have been instituted by Christ and prescribed to us to be used.
+
+— ❦ —
+
+## Question 15. Do the Papists rightly number and constitute seven Sacraments — namely Baptism, confirmation, penitence, matrimony, the Supper of the Lord, ordination, and extreme unction?
+
+**Do the Papists rightly number and constitute seven Sacraments — namely Baptism, confirmation, penitence, matrimony, the Supper of the Lord, ordination, and extreme unction?**
+
+**By no means.** For **properly speaking there are only two Sacraments** [*[T. 3, p. …; T. II, p. 10*]*]: **Baptism and the Supper of the Lord**. For **these alone have the institution of God, the mandate, the promise of grace, and certain Elements defined by Christ himself**.
+
+**Confirmation** hath neither mandate nor Element instituted by Christ.
+
+**Penitence** hath indeed a mandate — but that it hath a certain Element defined by Christ, and is meritorious of salvation, as the Papists feign, cannot be demonstrated.
+
+**Matrimony** is indeed an ordination of God, but hath not the promise of grace or the remission of sins; nor hath it any Element instituted by Christ.
+
+**The Ordination of Priests** also hath no Element, and no special promise of grace and remission of sins.
+
+**So of extreme unction it is certain, that no mandate of God exists concerning oil and its idolatrous consecration, nor any special promise of grace and remission of sins.**
+
+— ❦ —
+
+## Question 16. Do the Papists rightly teach: that the Sacraments confer grace *ex opere operato*, even without faith?
+
+**Do the Papists rightly teach: that the Sacraments confer grace *ex opere operato*, even without faith?**
+
+**By no means.** For **they have been instituted for the confirming of faith** — and **they are not salutary (as concerneth their spiritual use), if he who useth them lacketh faith, and only from the "work worked" promiseth himself grace and remission of sins**. For **these words — *"which for you is delivered"* — require faith of the heart**.
+
+— ❦ —
+
+## Question 17. What is the discrimen between Baptism and the Supper of the Lord?
+
+**What is the discrimen between Baptism and the Supper of the Lord?**
+
+**They differ chiefly by their external Elements.** **The Element of Baptism is water. The matter of the Supper of the Lord is bread and wine.**
+
+**In the Supper of the Lord Christ hath also specially promised the communication of his body delivered for us, and of his blood poured out for us, with the sacred symbols — which is not done in Baptism.** For **in the words of the institution of Baptism, of the body and blood nothing is promised**.
+
+— ❦ —
+
+*[Locus XXV De Sacramentis in Genere is TRULY COMPLETE — 17 top-level Q + 4 formal Objs on sacramentaliter. Total Locus XXV: 17 Q + 4 Obj units. 451 top-level Q + 230 Obj rendered so far. Locus XXVI De Baptismo follows in T50.]*
