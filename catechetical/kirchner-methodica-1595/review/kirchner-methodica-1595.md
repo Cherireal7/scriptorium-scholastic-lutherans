@@ -6120,4 +6120,96 @@ So **Paul and the rest of the faithful of the Old and New Testament had indeed t
 
 — ❦ —
 
-*[Locus XXIII Part 3 closes (embedded 'estote perfecti' Obj + Q14–Q20 on peccata reliqua + continuous pugna + bona opera noxia formula + electitia opera + supererogatio refutation + praemia + ex debito vs ex gratia). Part 4 (Q21 how to accept mercede passages + Q22–Q24 sanctorum merita + OBIECTIONES I–VI on merit + Q25 Jacob 2:24 + Q26 Pontifician charge) follows in T41. 393 top-level Q + 203 Obj rendered so far.]*
+## Question 21. How therefore are the sayings of Scripture to be accepted and explained, which speak of the reward and rewards of good works?
+
+**How therefore are the sayings of Scripture to be accepted and explained, which speak of the reward and rewards of good works?** [*[Luther: T. 5, pp. 457 and following*]*]
+
+**Of the gratuitous remuneration, which God exhibiteth — not that he oweth it to them** (for as **Matt. 20:1** hath it, **he oweth to no one anything, and it is lawful for him to do what he will**), **nor that these works of ours are worthy of it: but that he embraceth us with paternal love, and out of grace and paternal piety recompenseth the works of us his sons — even though imperfect — on account of Christ, in whom he adopted us and made us accepted to himself**.
+
+Just as **parents also to their sons — that in them they may kindle piety and honesty — promise and give rewards, not because the sons merit these things, but because they themselves attend upon their sons with paternal love**. For **if works were to be regarded, the servants (as those who labour more) would merit more than the free**.
+
+In these things therefore **let the faithful always attend to these two things**: (1) That **GOD requireth filial obedience from a spontaneous heart, and excludeth all our glorying — for all our things are unclean and imperfect — Isa. 64; Rom. 7**. (2) And **that all our good works are nothing else than the proper gifts of God himself, which he worketh in us — Eph. 2:10. Not therefore can they be meritorious**.
+
+**In sum**: that a work be meritorious, these three must be in it: **1. That it be done from a heart truly good. 2. That it be perfect, and cannot in the judgement of God be inculpated. 3. That it be worthy of that which it ought to merit**.
+
+But **these three are found in the works of Christ alone**, which are truly meritorious. For **they were done from a truly good heart, they were perfect and without reprehension, and they were worthy of that which they merited — since he was not only good, holy, but even perfect God**. But **our hearts are unclean and remain so in this life, our works are imperfect, and in no wise worthy of eternal life**. **Not therefore can it be said of them, that they merit eternal life as debt**.
+
+— ❦ —
+
+## Question 22. Are the merits of the saints then plainly none?
+
+**Are the merits of the saints then plainly none?** [*[Luther: T. 4/1, p. 377 f. b*]*]
+
+**None, if we speak properly.** But **whatsoever they receive, all of it out of mere grace on account of Christ — through whom they are holy and please God — they receive**.
+
+— ❦ —
+
+## Question 23. By what foundations is this demonstrated?
+
+**By what foundations is this demonstrated?**
+
+**I.** Because **eternal life is the gift of God — Rom. 6[:23]** — **not the merit of our works**.
+
+**II.** Because **it is blasphemous against the most holy merit of Christ, to say that our works merit eternal life**. For **not is there in any other salvation — Acts 4:12**.
+
+**III.** Because **merit is plainly excluded from the article of justification** — **Rom. 4**: *"not as debt,"* saith the Apostle.
+
+**IV.** **Those who are not of their own right, can merit nothing to themselves.** But **the faithful are not their own, but Christ's servants**. **Nothing therefore can they merit to themselves, or exact as debt**.
+
+**V.** Because **they are unprofitable servants — Luke 17:10** — **nothing therefore of debt do they merit**.
+
+— ❦ —
+
+## Question 24. But the word "merit" thou wilt often find used in the writings of the Fathers and elsewhere?
+
+**But the word "merit" thou wilt often find used in the writings of the Fathers and elsewhere?**
+
+**True this indeed is.** But **on account of the abuse and the sinister interpretation, whereby from this word occasion for teaching and handing down the merits of works hath been taken, it were to be wished, that they had rather abstained from this voice**. Although, **also the Papists from Heb. 13:16 allege the word "merit" — where in the old version it is read, "By such victims God is merited"** — yet **it standeth that in the Greek that is not had; for in Greek the very words so sound: "with such hosts is God delighted"** — [*ἀρεσκετάι*].
+
+Whence **Augustine, Epistle 105, writeth**: *"What good of merit can sinners have? but even the very remission of sins is without merit — which faith obtaineth."*
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **"Whatsoever covereth the multitude of offences, meriteth grace. Charity doeth this — Prov. 10. *Ergo* it meriteth grace."**
+
+**Respondeo**: **Solomon speaketh not of the remission of sins before God, but of the fraternal remission of offences** — that is, of **patience or meekness, which covereth and dissembleth injuries on account of common tranquillity and peace**. **Far other is the question, however, concerning reconciliation and the remission of sins to be obtained with God**.
+
+— ❦ —
+
+### Objection II. **Evil works merit punishments. *Ergo* good works merit eternal life.**
+
+**Respondeo**: **Contraries are not equally integral.** **Evil works truly merit punishments.** But **good works of the regenerate — since they are yet imperfect and unclean — in no wise merit eternal life**. **For only the Passion and obedience of Christ is the merit of eternal life.**
+
+— ❦ —
+
+### Objection III. **It is written Luke 6: *"Remit, and it shall be remitted to you."* *Ergo* our remission meriteth the divine remission.**
+
+**Respondeo**: **The fallacy is of "not-cause-as-cause."** For **our remission is not the meritorious cause of reconciliation with God, but a fruit or effect**. For **it followeth in the converted after the reconciliation made with God, and is not the cause of the reconciliation with God**. **David, regenerate through the Holy Spirit, remitteth and pardoneth Saul — but doth not merit by his pardoning the remission of sins**. And **Christ speaketh with the reconciled, and to them prescribeth, that since they are reconciled to GOD, they should imitate the mercy of the eternal Father, and be placable toward the neighbour**.
+
+— ❦ —
+
+### Objection IV. **Righteousness delivereth from death — Prov. 10. *Ergo* works merit eternal life.**
+
+**Respondeo**: **Solomon in these words treateth not, how and by what we are justified before God, and obtain eternal life — but he preacheth of the government of morals and of external discipline**. **If justly, modestly, and peaceably thou hast lived, thou shalt not fall into tragical calamities, but shalt lead a broad and tranquil life**. **If Absalom had been quiet, he had been delivered from death, whom by his rebellion Joab slew — 2 Sam. 18**. **If Sheba the son of Bichri had abstained from sedition, he had not been decapitated — 2 Sam. 20**.
+
+— ❦ —
+
+### Objection V. **2 Cor. 5 it is written: *"That each may report those things which are done through the body, according to that which he hath done, whether good or evil."* *Ergo* eternal life is granted on account of works.** [*[Luther: T. 4/1, pp. 362, 363*]*]
+
+**Respondeo**: **Paul's saying properly treateth of the compensation of good works in the extreme judgement.** **Most true it is, that those working well in the confidence of the Mediator Jesus Christ shall receive rewards also in the other life**. But **hence it is not rightly gathered: *ergo* eternal life is given on account of works**.
+
+For attention must be paid to the **order which Scripture showeth**. **First, believers are reconciled to God freely, and adopted into sons and heirs of eternal life, through and on account of Jesus Christ — in whom and on whose account the eternal Father receiveth them**. Then **to those so reconciled, and from faith of Jesus Christ working well, and with filial confidence serving God, out of grace are promised rewards also in the other life** — **not that by good works they merit eternal life — for that they before received of grace on account of Christ Jesus through faith — but that it pleaseth God to compensate with excellent rewards the works of his sons, and to crown his own gifts in them out of grace**.
+
+— ❦ —
+
+### Objection VI. **John 5, Christ saith: *"Those who have done good things shall rise unto the resurrection of life."* *Ergo* eternal life is the reward of good works.**
+
+**Respondeo**: **Christ's saying is to be dexterously understood, and compared with other sayings of Scripture.** *"They shall go unto the resurrection of life, who have done good things"* — **but not on account of the good actions or good works which they have done — but on account of Christ the Mediator, in whom they have believed**. For **through Christ believers obtain this — that they be partakers of eternal life, and not through their own works**.
+
+Nay rather, **it is necessary that they be good trees, before they do anything of good** — that is, **that they be beforehand justified freely through Christ and his redemption, before they can do good works**. Wherefore **from the doctrine of the Gospel it is to be recognized, who these are that can do good things — namely, believers, to whom through faith in Christ eternal life is freely given**. But **these have no need through their works to merit eternal life, which before they have received of grace through faith on account of Christ**. **The good-working are therefore raised to life — but not on account of their works which from faith they have done, but on account of Christ the Mediator in whom they have believed**. And **the works of the believers, who shall be raised, shall be signs of their faith — or indices of the certain gratuitous salvation which through and on account of Christ hath been given to them — not merits of eternal life and joy**.
+
+— ❦ —
+
+*[Locus XXIII Part 4 closes (Q21–Q24 + OBIECTIONES I–VI on merit). Part 5 (Q25 Jacob 2:24 + Q26 Pontifician charge that we prohibit good works + DE DILECTIONE PROXIMI + start of DE ELEEMOSYNIS) follows in T42. 397 top-level Q + 209 Obj rendered so far.]*
