@@ -5426,4 +5426,94 @@ Here therefore in this article the question is not, whether works are exclusivel
 
 — ❦ —
 
-*[Locus XXI Part 2 closes (Q13–Q19 + 2 embedded Objs). Part 3 (Q20–Q27 — perseverance, fruits, hypocritical faith, ruin from corruptela fidei, Papist dubitatio de gratia) follows in T33. 350 top-level Q + 181 Obj rendered so far.]*
+## Question 20. Who conserveth faith in the hearts of the regenerate?
+
+**Who conserveth faith in the hearts of the regenerate?** [*[Luther: T. 2, p. 298*]*]
+
+**The Holy Spirit.** For **human powers cannot do this — as experience itself in temptations evinceth**. **1 Peter 1:5**: *"Who by the power of God are guarded through faith unto salvation."* Wherefore **the conservation of salvation is in no wise to be attributed to good works, as some have done**.
+
+— ❦ —
+
+## Question 21. Are all men therefore justified by one and the same way?
+
+**Are all men therefore justified by one and the same way?** [*[Luther: T. 4, p. 25 f. b*]*]
+
+**Very much so.** For **Adam had the same faith in Christ, which we also have** — **Acts 15:11**: *"Through the grace of the Lord Jesus Christ we believe to be saved, in like manner as they."* This much only is the difference, that **he was justified through faith in the Messiah to come, we through faith in the Messiah who now is come**.
+
+— ❦ —
+
+## Question 22. Can also someone be saved by an alien faith?
+
+**Can also someone be saved by an alien faith?** [*[Luther: T. 5, p. 180*]*]
+
+**By no means.** For **each one's matter is transacted in his own faith, and to each one heed must be given, that he himself rightly believe**. For **the just from his faith shall live** — **Rom. 1:17**.
+
+— ❦ —
+
+## Question 23. What fruits doth true faith produce?
+
+**What fruits doth true faith produce?** [*[Luther: T. 7, p. 211 f. b*]*]
+
+**I.** **That we may be sons of God** — **John 1:12**: *"He hath given them power to be made sons of GOD, to those who believe in his name."*
+
+**II.** **It bringeth joy and peace, and firm consolation in every kind of temptations of sin, of death, of the Devil, and of the world.** [*[Luther: T. 7, p. 312; T. 3/1, p. 427*]*] For **he who firmly believeth in Christ, dreadeth not sin and death** — **Rom. 5:1**: *"Being justified therefore from faith, we have peace with God."*
+
+**III.** **The faithful are made a new creature through the Holy Spirit** — for **the Holy Spirit maketh us a new creature, and createth in us a new heart and new motions**: [*[Luther: T. 7, p. 136 f. b*]*] namely, **the true knowledge of God, and the true confidence in his grace**, etc.
+
+**IV.** **True faith bringeth forth good works.** For **where faith is true, there doth it exert itself** — according to the saying of Christ **John 15**: *"He that abideth in me, and I in him, this one beareth much fruit,"* etc. [*[Luther: T. 7, p. 1.6 f. t.; Gen. T. 4, p. 38*]*] It **loveth its neighbour, showeth to him every humanity and benevolence, and beareth his infirmities with patience and lenity**.
+
+**V.** **Faith cohereth and crucifieth the flesh and its concupiscences.** [*[Luther: T. 2, p. 304*]*] For **the man, even justified and regenerate, is not plainly clean from depraved concupiscences: faith indeed beginneth to crucify the flesh, but that yet resisteth. It struggleth with various lusts, which it striveth to bring into act — there is need that the Holy Spirit daily bridle and repress them, and contain the flesh in its office, lest it shake off faith**.
+
+**These men therefore impose upon themselves, who say that they have faith, and persuade themselves that in this office they have discharged, and meanwhile live according to the will and desires of the flesh**. But **where faith is true, there doth it coherce the flesh, that it not perfect its lusts**. Therefore **Peter, 1 Pet. 5:8, prescribeth for us, that we be sober and vigilant** — for **this one thing is of the chief works of faith**.
+
+— ❦ —
+
+## Question 24. Doth it profit anything to glory much of faith, if no fruits be present, nor follow?
+
+**Doth it profit anything to glory much of faith, if no fruits be present, nor follow?** [*[Luther: T. 7, p. 153; T. II, p. 502 f. b*]*]
+
+**By no means.** For **Christ himself teacheth us, that it sufficeth not to glory of faith, but attention must be given to fruits — John 15:5** — for **unless these be present, Christ also is not present, but the man imposeth upon himself by a vain persuasion**.
+
+But **thou wilt say — faith alone justifieth without works?** **This indeed is true — but where is that faith? where doth it abide and exert itself? Behoveth it not to be — not dead, but living, and a good and fruitful tree, exerting itself by its own fruits — Phil. 1:29–30?**
+
+— ❦ —
+
+## Question 25. What is the difference between true and hypocritical faith — and what is the true mark of faith?
+
+**What is the difference between true and hypocritical faith — and what is the true mark of faith?** [*[Luther: T. 7, p. 102 f. b*]*]
+
+**This is the difference between true and feigned faith — that true faith exerteth itself by holiness and innocence of life, but feigned faith beareth indeed a name and glorying in words and tongue, but in reality and in truth exhibiteth nothing**.
+
+— ❦ —
+
+## Question 26. What ruin and pernicion doth the corruption of faith drag along with it, if the doctrine concerning faith in Christ be not sincerely custodied?
+
+**What ruin and pernicion doth the corruption of faith drag along with it, if the doctrine concerning faith in Christ be not sincerely custodied?** [*[Luther: T. 5, p. 368*]*]
+
+**Unless this article concerning Christ flourish — that through him alone we are justified and saved, and unless we count with Paul all other things detriment — with no more attention nor admonition anything is effected**. There **is no manner and end of heresies and errors and corruptions**; **there each man chooseth and erecteth for himself something singular, in which he promiseth to himself righteousness — as hitherto in the Papacy abundantly we have seen — where no Monk and no Nun could dream of anything, but that he publicly proclaimed it for righteousness and worship of God, and vended it to others**.
+
+But **if this article be sincerely taught and faithfully urged, easily by the aid of the Holy Spirit heresies and errors are avoided**.
+
+— ❦ —
+
+## Question 27. What must be judged concerning that Papist dogma, wherein they hand down that concerning grace one must doubt?
+
+**What must be judged concerning that Papist dogma, wherein they hand down that concerning grace one must doubt?**
+
+**This Papist dogma is plainly to be reprobated and condemned.**
+
+**1.** For **it oppugneth the article of our faith: I believe the remission of sins**. But **to believe is not to doubt concerning the remission of sins, but in trust to be persuaded, and most fully to know, that God on account of Christ remitteth to us all sins**.
+
+**2.** Moreover on this very account **the promise of the Gospel is made and founded in the grace and merit of Christ, and not in our works or merits — that we may not doubt of the remission of sins: but of it be certain** — **Rom. 4:16**: *"Therefore is it of faith, that according to grace the promise may be firm."*
+
+**3.** Also the **names and epithets which are ascribed to faith in Scripture testify, that faith in Christ concerning the grace of God, concerning the gratuitous remission of sins, ought not to doubt, but to be certain, and to believe it certainly and without hesitation** — as **Rom. 4:21** — *"most full knowledge without hesitation and diffidence."* **Heb. 11**, "*ὑπόστασις*" it is said.
+
+**4.** Also **the Sacraments themselves are unto this end by God instituted, that they may render our hearts certain of the grace of God, and may seal that grace to us, and take away all doubt**.
+
+**5.** Also **the Holy Spirit himself is on this account poured out into the hearts of the faithful, that he may console, comfort and sustain them in certain faith and firm confidence concerning the grace of God and the remission of sins** — **Rom. 8:15**: *"For ye have not received the spirit of servitude again in fear, but ye have received the spirit of adoption of sons, in whom we cry, Abba, Father."* **Gal. 4:6**: *"Because ye are sons, God hath sent the Spirit of his Son into your hearts, crying, Abba, Father."* **Eph. 1:13**: *"In whom also ye that believe are sealed with the Holy Spirit of promise, who is the pledge of our inheritance,"* etc.
+
+**Diffidence indeed by Scripture is manifestly reprobated and damned in this article** — **1 John 5:10**: *"He that believeth not the Son, maketh God a liar, who believeth not the testimony which God testified concerning his Son."*
+
+— ❦ —
+
+*[Locus XXI Part 3 closes (Q20–Q27). Part 4 (OBIECTIONES: Objs I–XI on certitude vs doubt of grace) follows in T34. 358 top-level Q + 181 Obj rendered so far.]*
