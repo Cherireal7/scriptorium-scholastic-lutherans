@@ -7964,4 +7964,146 @@ As concerneth the analogy, **we willingly concede that there is a certain analog
 
 — ❦ —
 
-*[Locus XXVII Part 7 closes (Q31 five effects + Q32 four-fold legitimate use + Q33 discrimen from Baptism + OBIECTIO on analogia sacramentorum). Part 8 (Q34 double manducation Sacramental+spiritual + Q35 refutation of Adversaries' double-Sacramental split + Q36 Patres teach ore percipi with extensive citations + OBIECTIONES) follows in T61. 510 top-level Q + 255 Obj rendered so far.]*
+## Question 34. How manifold is the manducation of the body of Christ?
+
+**How manifold is the manducation of the body of Christ?** [*[T. 3, pp. 503, 506 and following*]*]
+
+**Twofold**: for **one is Sacramental, the other Spiritual**.
+
+**The Sacramental manducation is to manducate the body of Christ orally with the sacred bread, and to drink the blood of Christ orally with the sacred wine — as a seal and pledge that we have been redeemed by the true body and blood of Christ, and ought to be his peculiar people**. For unto this end is the manducation itself, and thus it is done according to the words of institution — although not all who manducate use the sacred Supper for this end. For **not all have true faith, but some of them are unworthy, and receive the Supper unto judgement** — which yet detracts nothing from the Sacramental manducation *per se*: **the incredulity of the unfaithful doth not change the institution of Christ and the Sacrament**.
+
+That **Christ hath instituted this Sacramental manducation of his own true body and blood with the sacred Symbols**, hence is clear:
+
+**I.** That **these words — *"eat, drink"* — are here not used figuratively, but are to be received as they sound — namely of oral manducation**. **The disciples of Christ also understood them not otherwise than as they sound — who took the Supper of the Lord with the mouth**.
+
+**II.** Because **Christ nowhere reduced this manducation and drinking in the Supper to a discrimen of the external and internal man** (which the Adversaries urge). **Nor by so much as a single word did he indicate, that the external man — that is, the body or the mouth of the body — should receive only the sacred Symbols, bread and wine; but the internal man — that is, according to their figment, the soul alone — should receive the body of Christ**.
+
+**III.** Because **Christ in his own words — *"Take, eat, this is my body: drink, this is my blood"* — doth not discern between the holy traitor Judas, an unworthy guest, and the rest of the disciples**. **Nor doth he say: *"Thou Judas, only the external Symbols of my body and blood thou shalt receive, but the rest shall have the whole Sacrament"*** — which without doubt he would have done, if he had willed this, that the unworthy should receive only the bare sacred symbols.
+
+**IV.** Because **Christ saith not: *"Take, eat, this is the sign of my absent body — or eat this sacred bread which hath received the name of my body"* — but *"eat, this is my body, which is delivered up for you."* Item, that he saith not: *"drink the wine which is the sign of my absent blood, or which hath received the name of my absent blood — but simply, "drink, this is my blood of the New Testament, which is poured out for you."***
+
+Since therefore **Christ in the Sacramental manducation biddeth us not to eat and drink in the sacred Supper simple bread and wine, as symbols of his absent body and blood, but his body delivered up for us and his blood poured out for us — and Paul, 1 Cor. 10, also confirmeth this Sacramental communication of the body and blood of Christ with the bread and wine of blessing — no doubt at all is it, that this Sacramental manducation was instituted by Christ himself, and is certain — whatsoever also human reason contriveth and bringeth against it**.
+
+**The Spiritual manducation, however, is: if with the whole heart thou believest that through the delivery of the body and effusion of the blood of Christ thou dost certainly have remission of sins, life and salvation — and that thou art by this manducation of the body and blood of Christ more and more united to Christ, and dost coalesce with him into one body**. **This spiritual manducation Christ instituted together with the Sacramental** — but since **not all who approach the sacred Supper are faithful, therefore also not all spiritually participate in it, but the incredulous and unworthy receive it only Sacramentally unto their judgement**.
+
+**Of the spiritual manducation the following sayings speak**: *"Which is delivered up for you"* — item *"which is poured out for you"* — item *"this do in commemoration of me."*
+
+— ❦ —
+
+## Question 35. Do the Adversaries rightly teach a double Sacramental manducation — one by which only the sacred Symbols are received (as by the unfaithful), the other by which the faithful receive both the sacred Symbols and the things signified by them?
+
+**Do the Adversaries rightly teach a double Sacramental manducation — one by which only the sacred Symbols are received (as by the unfaithful), the other by which the faithful receive both the sacred Symbols and the things signified by them?**
+
+**By no means.** For **that manducation which they interpret only of the sacred Symbols was not instituted by Christ**. **The words of institution speak not only of bare signs or Symbols, but at the same time also of the body and blood of Christ**. **Nor did the Lord say**: *"If the unfaithful approach, he receiveth only bare Symbols of bread and wine. If however a faithful approach, he receiveth the entire Sacrament."* **Nor did Paul hand down this discrimen** — no such manducation therefore is, in which only bare Symbols are given.
+
+And on this account this doctrine is nothing — because **it attributeth this to faith, that it maketh the Sacrament complete; but affirmeth in the absence of faith only bare Symbols to be present**.
+
+**In sum**, **by this doctrine the Sacramental manducation of the body and blood of Christ is taken away**: for **they concede no manducation of the body of Christ besides the spiritual, which is done by faith**. But **so to manducate is nothing other than to believe that Christ's body was delivered for us — which can also be done outside the use of the Supper, and always ought to be done**.
+
+— ❦ —
+
+## Question 36. Is not this also the doctrine of the Fathers — that the body and blood of Christ are received with the mouth in the sacred Supper?
+
+**Is not this also the doctrine of the Fathers — that the body and blood of Christ are received with the mouth in the sacred Supper?**
+
+**Very much so.** They so taught, and this doctrine they drew from the words of Christ — *"take, eat, drink of this all of you"* — which irrefragably speak of the mouth. Their testimonies among others are these:
+
+**Augustine, Ep. 118**: *"It hath pleased the Holy Spirit, that in honour of so great a Sacrament, into the mouth of the Christian the body of the Lord should enter first, before other foods."*
+
+**And Serm. *De tempore* 215**: *"See, most dear brothers, whether it be just that from the mouth of Christians — where the body of Christ entereth — a luxurious canticle, or anything of the sort, as it were the poison of the Devil, come forth."*
+
+**Item, Contra Adversarium legis, bk. 2, cap. 9**: *"Our Mediator God, Jesus Christ, giving his flesh to be manducated and his blood to be drunk, we receive with a faithful heart and with the mouth."*
+
+**Leo, Sermon 6 *De ieiunio***: *"So the sacred table ye ought to communicate, that ye doubt in no wise concerning the truth of the body and blood of the Lord: for that is received with the mouth, which is believed with the heart."*
+
+**Gregory, Homily on Pascha 22**: *"What the blood of the Lamb be, ye have now learned not by hearing but by drinking: which blood is placed on each doorpost, when it is drawn not only with the mouth of the body, but even with the mouth of the heart."*
+
+**Tertullian, *De resurrectione carnis***: *"The flesh is fed with the body and blood of Christ, that the soul also may be fattened from God."*
+
+**Irenaeus, book 5, p. 296**: *"When the mixed cup and the broken bread receive the word of God, they are made the Eucharist of the blood and body of Christ — of which the substance of our flesh is increased and standeth. How therefore do they deny the flesh capable of the donation of God, which is eternal life — which is nourished by the blood and body of Christ?"*
+
+**Cyprian in the sermon *De lapsis***: *"He threateneth in the meantime with grievous stripes the wounded, and that he receive not the body of the Lord straightway in polluted hands, or drink the Lord's blood with polluted mouth, he is angry with the priests as sacrilegious."*
+
+**Chrysostom, hom. 29 in 2 Cor., on the *osculum sanctum***: *"Through these doors and gates Christ hath entered and doth enter, when we communicate: ye know, who are partakers of the mysteries, what is said: for our mouth hath obtained no common honour, receiving the body of the Lord. Let them hear who speak filthy things and reproaches, and let them tremble that they pollute such a mouth."*
+
+**The same, Hom. 27 in 1 Cor. against drunkenness**: *"This thou doest, when at the Table of the Lord thou hast reclined — on that very day, on which thou wast deemed worthy to touch his flesh with thy tongue. That these things be not done, purify thy right hand, thy tongue, thy lips, which have been made a vestibule, through which Christ maketh entry to us."*
+
+**Theodoret, bk. 5, cap. 18**, recites the words of **Ambrose to Emperor Theodosius**: *"With what temerity wilt thou receive with thy mouth the cup of the precious blood, when by the fury of thy words unjustly hath the blood been poured out?"*
+
+**Bede from Augustine on John 1**: *"The body and blood of Christ is received with the mouth of the faithful unto salvation."*
+
+**Oecumenius, 1 Cor. 11**: *"The most holy body of Christ the unworthy receive with impure hands, and move it to their execrable mouth."*
+
+**Chrysostom, Hom. 2 ad Ephesios**: *"How shall he appear before the tribunal of Christ, who with unclean lips and hands dared to touch his body?"*
+
+**No doubt therefore is it, that the body of Christ is received with the mouth** — although the mouth neither understandeth nor perceiveth what it eateth: **but the faith of the heart from the word of God knoweth and understandeth what the mouth eateth and drinketh**.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But (they say) the body of Christ can be apprehended and eaten only spiritually with the mouth of faith. *Ergo* it is not received with the mouth of the body?**
+
+**Unto eternal life and salvation, only by faith it can be perceived**; but **hence it followeth not, that Sacramentally it cannot be received with the mouth of the body**. For **whatsoever Christ instituted and ordained, this of necessity is done**. **Christ instituted the Sacramental manducation in the words of institution: *"Take,"* saith he, *"eat, this is my body, which is delivered up for you"* — item *"drink of this all of you,"* etc.** That therefore this be truly done, of necessity it is that **those words — *"take, eat, this is my body: drink, this is my blood"* — cannot so easily, as the Adversaries persuade themselves, be expunged**. **Nor can they be expounded of bare Symbols**, as above hath been shown: **Christ instituted not bare Symbols; the bread also and wine are only one part of the Sacrament, but not the entire Sacrament**. **And Christ nowhere handed down that the incredulous and unworthy receive only bare Symbols, and so only half the Sacrament**.
+
+**As therefore spiritual resurrection doth not take away the resurrection of the body — so also spiritual manducation of the body of Christ doth not take away the Sacramental, but the one admits the other.**
+
+— ❦ —
+
+### Objection II. **But the body of Christ hath its own longitude and latitude. *Ergo* with the mouth it cannot be taken?**
+
+**Respondeo**: **We teach not this gross, natural, comprehensible, oral manducation of the body of Christ — which the Capernaites dreamed** — **but** — **as concerneth the mode — we say the body of Christ is present in a supernatural and incomprehensible mode, but yet truly, and is taken**. **Nothing therefore this objection maketh against us.**
+
+— ❦ —
+
+### Objection III. **Everything that entereth into the mouth, goeth into the stomach — Matt. 15:17. But according to your sentence the body of Christ entereth into the mouth. *Ergo* etc.**
+
+**Respondeo**: **The words of Christ, Matt. 15, speak not of the Supper and manducation of his body, but of other common foods.** **Nothing therefore this argument maketh for the matter.** **We do not establish nor teach that the body of Christ so in a natural mode — as other natural foods — entereth the mouth, but is participated in a supernatural mode.** And **a great sin it is, to refer the saying alleged from Matt. 15 to the Sacramental manducation of the body of Christ, and so impudently to speak of it**.
+
+— ❦ —
+
+## Question 37. Doth the mouth understand what it Sacramentally perceiveth?
+
+**Doth the mouth understand what it Sacramentally perceiveth?**
+
+**By no means.** The mouth itself understandeth not nor perceiveth what it eateth. But **faith in the heart, from the words of institution, understandeth what the mouth Sacramentally eateth and drinketh**. Just as **in sacred Baptism the external body perceiveth this, and is washed by the sacred water of Baptism — and yet perceiveth not nor understandeth what GOD worketh in it — but the faith of the heart, looking upon the words of institution of Baptism, understandeth this**. **The same also is the sacred regeneration.** And **it is nonetheless profitable to the body and soul of the faithful, that they may be delivered from every evil and misery, and be made capable of eternal glory**. For **the body must be saved as much as the soul — so much therefore hath it need of medicine, as the soul**. **The body also understandeth not, when to a man sins are remitted by God — but the heart or mind understandeth this**. **Doth then on that account not the whole man — body and soul together — become partaker of that free remission and enjoy it?**
+
+— ❦ —
+
+## Question 38. What therefore is the discrimen between Sacramental and Spiritual manducation?
+
+**What therefore is the discrimen between Sacramental and Spiritual manducation?**
+
+**I.** That **the Sacramental manducation can be done only in this sole Sacrament. The Spiritual, however, even outside the sacred Supper — John 6**.
+
+**II.** **The Sacramental manducation pertaineth to the very substance of this Sacrament. The Spiritual however looketh to its fruit and efficacy**: for so **the Sacramental profiteth, if faith come**.
+
+**III.** **The Sacramental communication of the entire Sacrament is common also to the unfaithful and the unworthy — 1 Cor. 11. The Spiritual, however, is only of the faithful.**
+
+— ❦ —
+
+## Question 39. But what is the discrimen between the sixth chapter of John, and the words of institution?
+
+**But what is the discrimen between the sixth chapter of John, and the words of institution?**
+
+**The discrimen consisteth in these heads**:
+
+**I.** **The sermon of Christ was held by Christ long before the Supper was instituted.** But **the words of institution of the Supper first were pronounced by Christ in that night in which he was delivered up — Matt. 26**. **Not therefore John 6 discourseth of the Supper, which was only instituted the year after.**
+
+**II.** **John 6 plainly nothing is said of the participation of the Elements, bread and wine — which yet the words of institution require**. For that treats **only of the spiritual manducation of the body of Christ, which is done by faith**.
+
+**III.** **The sermon of John 6 hath figurative words**: for **to eat and to drink there are the same as to believe**. In the words of the Supper, however, **to eat and to drink signify not the same as to believe, but truly to eat and drink with the mouth**.
+
+And by a similar reason also **the manducation of which John 6 treateth differeth from the Sacramental manducation of the Supper**. For:
+
+**1.** **Spiritually to manducate the body of Christ is always necessary to Christians throughout the whole life** — **but there is no need that we perceive the sacred Supper at each hour and moment**.
+
+**2.** As concerneth **the Spiritual manducation of the body of Christ, it is necessary to all Christians without discrimen — if they will be saved**. **The Sacramental however not so**: for **infants deservedly abstain, since they cannot prove themselves — 1 Cor. 11:28**.
+
+**3.** **The Spiritual manducation is always and to all who use it useful and salutary. The Sacramental not so**: for **those who manducate unworthily, these eat judgement to themselves**.
+
+**These things therefore, which are *per se* distinct, are in no wise to be confounded.** And hence also **Calvin himself, John 6, writeth**: *"From these words — 'he that eateth my flesh, and drinketh my blood, hath eternal life' — it openly appeareth, that ill this whole place is expounded of the Supper. For if it were true, that whosoever gather themselves to the sacred Table of the Lord, become partakers of his flesh and blood, all should equally take life. But we know that many receive it unto destruction: and certainly it would have been inept and untimely to discourse then of the Supper, which he had not yet instituted."*
+
+— ❦ —
+
+*[Locus XXVII Part 8 closes (Q34–Q39 + OBIECTIONES I–III on ore manducation). Part 9 (second OBIECTIONES cluster on Sacramental vs Spiritual manducation split + Q on indigni receive body) follows in T62. 516 top-level Q + 258 Obj rendered so far.]*
