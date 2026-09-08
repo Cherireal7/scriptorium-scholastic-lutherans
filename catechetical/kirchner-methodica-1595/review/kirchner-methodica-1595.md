@@ -7320,4 +7320,74 @@ To this: **if infants were baptized in an alien faith, when would we be certain 
 
 — ❦ —
 
-*[Locus XXVI Part 3 closes (OBIECTIONES I–II + Q18–Q23 + embedded Matt 9:2 Obj). Part 4 (Q24 five capital heads where Papist doctrine of Baptism recedes from truth + embedded Obj on peccatum-remissum-non-remanet + Q25 legitimate use of Baptism + Q26 discrimen of Johannine/Christ/Apostolic Baptism) follows in T53. 474 top-level Q + 233 Obj rendered so far.]*
+## Question 24. In what other heads doth the doctrine of the Papists concerning Baptism recede from the truth?
+
+**In what other heads doth the doctrine of the Papists concerning Baptism recede from the truth?** [*[T. 6, p. 519; T. 7, p. 404*]*]
+
+**I.** That **they have baptized bells and commanded them to be baptized**, when Christ, **Matt. 28**, commanded to baptize nations or men.
+
+**II.** That **they taught monastic orders to be a second Baptism** — **which is a horrible blasphemy against Baptism, and can be taught by no testimony of the sacred letters**.
+
+**III.** That **they feigned the water of Baptism to be consecrated each year about the feasts of Easter and Pentecost, and that from thence a peculiar power of infusing grace is added to that water** [*[Gen. 3, p. 166 f. b*]*] — which from the sacred letters cannot be proved.
+
+**IV.** That **they feigned the consecrated water of Baptism to profit against diseases and against incantations** — **a mere human figment, without any word of God**.
+
+**V.** That **they taught that in Baptism original sin is plainly taken away, so that its reliques in man are only *fomes*, not however sin** — **which is a mere figment**.
+
+**First**, Scripture itself confesseth, that **in the baptized sins remain** — **Rom. 6:12**: *"Let not sin therefore reign in your mortal body."* **Rom. 7:17**: *"That sin dwelleth in me."* Item **v. 21**: *"For evil lieth by me."* **1 John 1:8**: *"If we shall have said, that we have no sin, we deceive ourselves, and the truth is not in us."*
+
+**II.** In the Lord's Prayer all the baptized saints daily ask remission of sins — **therefore they have remaining sin, of necessity**.
+
+**III.** **Paul, Rom. 7:24, asketh to be delivered from the body of this death, in which yet sin dwelleth.**
+
+**IV.** He also confesseth **himself not to be perfect, and to perfect the good which he wills he doth not find, because good dwelleth not in his flesh — Rom. 7:18**.
+
+**V.** No one of the saints can truly say, that he hath fully satisfied the law of God, concerning the love of God and of neighbour. **Whatsoever therefore is lacking in them, that is sin.** **Erroneous therefore it is, to teach that Baptism plainly taketh away original sin.**
+
+### Objection.
+
+**That which is remitted in Baptism, that remaineth not. Sin in Baptism is remitted. *Ergo* it remaineth not.**
+
+**There is a discrimen between the remission of sin and its total extirpation from nature.** **In Baptism sin indeed is plainly remitted to the baptized, so that in him it is not imputed unto condemnation** — **but not straightway is it plainly washed out of nature and taken away**. **The mortification and extirpation is begun in the baptized faithful through the Holy Spirit, and the Holy Spirit is assiduously in them, to crucify and mortify the residual sin with the evil concupiscences**. But **this extirpation is not in this life, but in the resurrection of the flesh, when the nature will be plainly renewed, perfected**.
+
+Whence **Paul, Rom. 8:12, admonisheth**: *"Therefore, brothers, we are debtors, not to the flesh, that we should live according to the flesh. For if ye shall have lived according to the flesh, ye shall die. But if by the Spirit ye shall have mortified the deeds of the flesh, ye shall live."* Since therefore it is manifest, that **the extirpation of sin in Baptism is not perfected, but begun, it is also clear to anyone that the objection of the Papists is of no moment, and destitute of every foundation**.
+
+**VI.** That **from Jerome they teach, that after Baptism to those lapsed Baptism profits no more, but they must have recourse to the Sacrament of penitence, as to a second table, in a shipwreck**. For **the saying of Jerome is not the word of God itself, nor doth it agree with the word of God**.
+
+**The little ship of Baptism, since it is the institution and ordination of God, by reason of itself always remaineth for us — nor is it broken, provided we believe. Faithful is the sermon and promise of God — if we believe not, he remaineth faithful — he cannot deny himself — 2 Tim. 2:11, 13**.
+
+When therefore **a faithful man, from the infirmity of the flesh and the seduction of the Devil, after having received Baptism, sinneth — which, alas, we all do — there is no need that he look to this or that table, or seek refuge in it: but let him return to the very little ship of Baptism, and apprehend the covenant of grace which God in Baptism through Christ's death and blood entered with him — and so navigate unto eternal life**.
+
+**A mere figment besides is it, that penitence should be a Sacrament, and indeed such a Sacrament by which anyone may merit remission of sins.** For although **Scripture commandeth penitence and conversion to God, yet nowhere doth it say that our penitence is meritorious — but sinners doing penitence it dispatcheth unto the sole merit of Christ, by which he acquired remission of sins for all penitent sinners** — **Rom. 3:24–25**.
+
+— ❦ —
+
+## Question 25. How ought and can the faithful man use and enjoy sacred Baptism in daily exercises?
+
+**How ought and can the faithful man use and enjoy sacred Baptism in daily exercises?**
+
+**The legitimate and salutary use of Baptism consisteth in these**:
+
+**I.** That **the faithful invoke this only true God**, in whose name he hath been baptized — **Matt. 28:19–20** [*[T. 7, pp. 296, 297, 298; T. 1/1, p. 110*]*]. For **for this end he is baptized in the name of God, that in all necessities he may invoke him, and take refuge in him — chiefly, however, that he may ask from him that faith and knowledge of Jesus Christ, in which he hath been baptized, be increased for him, and mortification of the flesh be daily wrought — Rom. 6:13**.
+
+**II.** That **he know his whole perpetual life ought to be penitence** — that is, **serious acknowledgment of sins, and exercise of faith in Christ, with unceasing prayers and groans, that God impute not sins, but clemently on account of Christ pardon them**. For **his Baptism admonisheth us of this — that we acknowledge the remaining sins in us, and in the faith of Christ assiduously ask remission of them**.
+
+**III.** That **he walk in newness of life** — as **dead to sin, but living to God and to righteousness — Rom. 6:4, 11**. **Those who therefore against conscience remain securely and continue in their sins, use not their Baptism rightly, but abuse it — as also those who are not diligent in living a life truly holy. Let every one therefore prove himself.**
+
+— ❦ —
+
+## Question 26. But what is the discrimen between the Baptism of John, of Christ, and of the Apostles?
+
+**But what is the discrimen between the Baptism of John, of Christ, and of the Apostles?**
+
+**The discrimen consisteth in these** [*[Gen. T. 2, p. 76*]*]:
+
+**I.** **John baptized into Christ, who was about to come after him to the ministry — Acts 19:4. The Apostles into Christ, who had now come.**
+
+**II.** **John and the Apostles are only ministers. But Christ himself is the Lord who instituted Baptism.**
+
+**III.** **John and the Apostles could not impart efficacy to Baptism** [*[T. 7, p. 400; T. 2/1, pp. 271, 272*]*] — but **Christ, as himself omnipotent God and Saviour, was efficacious through their Baptism, and worked and distributed remission of sins, regeneration, and renovation through it**. **Erroneous therefore it is to say, that through the Baptism of John sin was not remitted. For Luke [3:3] it is expressly said, that John preached the Baptism of penitence unto the remission of sins.**
+
+— ❦ —
+
+*[Locus XXVI De Baptismo is TRULY COMPLETE — 26 top-level Q + 4 embedded/formal Objs (crediderit Obj + Gen 17 Obj + 1 Cor 7 Obj + Matt 9:2 paralytic Obj + peccatum-remissum-non-remanet Obj = 5 Obj units). Total Locus XXVI: 26 Q + 5 Obj units. 477 top-level Q + 238 Obj rendered so far. Locus XXVII De Sacra Domini Coena follows in T54.]*
