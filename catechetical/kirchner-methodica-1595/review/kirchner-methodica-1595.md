@@ -7480,4 +7480,94 @@ To this, **from the Sacraments of the Old Testament what the sacred Supper of th
 
 — ❦ —
 
-*[Locus XXVII Part 1 closes (Q1–Q7). Locus XXVII is the massive Christological anti-Reformed locus, ~6500 OCR lines total, will require 10-15 tranches to complete. Part 2 (Q8 verba institutionis retinenda + Q9 hoc-est-corpus-meum exposition + embedded Obj on figurative-name attribution + Q10 praedicatio verbis institutionis) follows in T55. 484 top-level Q + 238 Obj rendered so far.]*
+## Question 8. Is [the rule] rigidly to be retained, and the words of institution to be interpreted as they lie?
+
+**Is [the rule] rigidly to be retained, and the words of institution to be interpreted as they lie?** [*[T. 3, pp. 488, 489, 500; T. 2/1, p. 473; Gen. T. 1, pp. 45, 46*]*]
+
+**Very much so.** For **in the words of the sacred Supper an article of faith is set before us**. And **the Apostle, 1 Cor. 11:23, prescribeth these words to us as a Canon, out of which what is to be established concerning the sacred Supper is to be taken**, with these words: *"For I received from the Lord, that which I have handed down to you."*
+
+**The Evangelists also, although they repeat the words of the Supper, yet none of them by a single word admonisheth, that they are to be accepted otherwise than as they lie**. Nor **is it verisimilar that Christ in the institution of his own Sacrament should have spoken in parables**. Besides, this also is certain, that **the articles of faith do not overturn the property of the words of the Supper**, as in its own place shall more copiously be demonstrated. **Equitable therefore it is that we retain the whole and genuine sentence which the very property of the words begetteth, and in no wise recede from it.**
+
+— ❦ —
+
+## Question 9. Briefly therefore expound to me those words: *"This is my body, this is my blood"*?
+
+**Briefly therefore expound to me those words: *"This is my body, this is my blood"*?** [*[T. 3, pp. 488, 500*]*]
+
+**The demonstrative pronoun designateth the bread and the wine according to their natural essence, not according to species only, as the Papists feel.** **The verb "est" ["is"] denoteth true or real being — and therefore cannot be expounded by the verb "signifieth"** — since **it is confessedly true that Christ speaketh of his proper body, and not of a typic or figured body**. **By no foundation** — **although they write ad infinitum — can it be taught that *"est"* in this place is the same as *"signifieth"*: for Christ's body is his body, but not it *signifieth* his body**. And if that signification were conceded, **it would follow necessarily that not the true body of Christ was delivered up for us — since he speaketh of that body which was delivered up for us**.
+
+**The word *"Body"* here noteth the true and essential body of Jesus Christ, and cannot be expounded otherwise**. For there are added the words: *"delivered up for you"* — **and it is not a type, shadow, or figure, but the true body of Christ that was delivered up for us**.
+
+**The pronoun *"Meum"* [My] also admitteth no figure.** Similarly the words: *"My blood."* For **Christ hath no other blood than that which he poured out for the sins of the world — and this with the cup of blessing he communicateth to us; this also in the sacred Supper we receive**.
+
+Also **the words *"the New Testament"* exclude all figure**. For **the blood of the New Testament is the precious blood of Christ — and no other, no other blood poured out for us, than that very blood of Jesus Christ**.
+
+Just as **Beza himself, in the Epistle to Alamannus, attesteth with these words**: *"Those words: 'which is delivered up for you' and 'which is poured out for you' necessarily compel thee to this — that thou be forced to understand this of the very substance of the body and of the blood."*
+
+**To this**: If **the word *"Body"* here noted the same as *"figure of the body,"* the same also in the other sayings concerning the sacred Supper — as 1 Cor. 10:18 — would signify [the same]**. And **Paul's words would thus be framed**: *"Bread is a participation of the figure of the body of Christ"* — which is plainly false.
+
+**In sum**: **the words *"delivered up for you"* admit no Metonymy of sign and thing signified, whereby the bread should receive the name of the far-absent body of Christ**.
+
+For **first, in the institution, two things are not only understood but even expressly named** — that these are distributed and received — namely **bread and the body of Christ; wine and the blood of Christ** — which in the Metonymy of sign and thing signified (as is known in the schools) is not wont to be done.
+
+**For the Metonymy of sign and thing signified is defined thus: when to the sign is attributed the name of the thing signified** — as when *"the head of two dogs"* [white hair] and *"the senile wrinkle"* — where hoariness and senile wrinkle are taken for signs of old age.
+
+**Secondly**, because **the aforesaid words of institution perspicuously attest, that that body is given and received which for us was delivered up — which excludeth Metonymy entirely**. For **not a figure or sign of the body of Christ, but the very body of Christ itself, was delivered up for us**.
+
+**Thirdly**: Because **if this figure be admitted in the words of the Supper, beside the bare symbols of bread and wine in the sacred Supper nothing is given or received of necessity**. For **the nature of this figure is that it embrace not simultaneously the thing signified itself, but only its bare signification** — as the Adversaries themselves ought to confess, if they retain in the words *"this is my body"* the aforesaid Metonymy — that only the name of the far-absent body of Christ is attributed to the bread as to a sign of the thing signified.
+
+### Objection.
+
+**But (they say) Christ attributed to the bread — as to a sacred Symbol — only the name of his body.**
+
+**This must be demonstrated.** For **he himself did not call it the symbol of his body — nor doth he say: *"this is the symbol of my body, which is delivered up for you"***. Nor **do the words beget or concede this sentence**. **The bread doth not signify the body of Christ** — **which is manifest hence, that Christ himself by an exegetic particle declareth, that he speaketh not of the distribution of the sign of his body, but of the distribution of his true body delivered up for us**. Therefore **here no place is left for the Metonymy of sign and thing signified**.
+
+— ❦ —
+
+## Question 10. But what sort of predication is in the words of institution: *"This is my body"*?
+
+**But what sort of predication is in the words of institution: *"This is my body"*?**
+
+**Respondeo**: [*[T. 3, p. 485 and following; T. 2/1, p. 264*]*]: **It is not figurative or Metonymic, as the Adversaries would** (as in the preceding sufficiently clearly hath been shown) — **but Sacramental or inusitate**. **For the Sacramental bread is not properly and *per se* — that is, by property of essence or of substance — called the body of Christ, but on account of the Sacramental union**.
+
+**Just as personally God is predicated of Man, and Man of God, in the person of Christ.** For **the Man is not properly and *per se*, by reason of humanity, God — but because the human nature is personally united with the Son of God**. Therefore **the man is truly and really God — yet not through transubstantiation, but through the personal union**.
+
+So **bread properly and *per se* is not the body of Christ, but on account of the Sacramental union with the body of Christ, which in the ministration of the Supper is truly and really present and distributed, according to the institution of Christ**. Hence **the holy Fathers — as Augustine, Chrysostom, Gelasius, Theodoret — collated that predication with the predications concerning Christ: "GOD is made Man" — on account of the Sacramental union**. For **as in Christ the two natures divine and human are personally united**, so **in the Supper the Sacramental union of bread and body of Christ is made** — with this addition always: **that that union in Christ is personal and indissoluble; but that in the Supper is only in the true use thereof, and is not personal, but Sacramental**.
+
+**In sum, the Fathers willed this — that in the sacred Supper not bare symbols are distributed, but two things — bread and the body of Christ, wine and the blood of Christ** — which we also urge, and dispute not about names, whether Sacramental, or inusitate, or Synecdochical anyone call this predication — provided he leave to us in the Supper both things: **bread and the true body of Christ, wine and the true blood of Christ** — as also the words of Christ will.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **The mode of predication must be either usual, or figurative, or inusitate. But by the usual mode of predication, disparate things or species properly cannot in any way be said of one another. But the inusitate mode pertaineth only to the mystery of the Incarnation — of which, on account of the hypostasis and subsistence of the two natures in the person of the Son of God, there is no similar example in the whole universe of things. *Ergo* the mode of predication [in the Supper] is figurative.**
+
+**Respondeo**: **I deny the Minor.** For **it is falsely said, that the inusitate mode of predication pertaineth only to the mystery of the Incarnation**. **Nay, as inusitate is the Sacramental mode of predication in the mystery of the sacred Supper** (since **the mode of Sacramental union is incomprehensible**) **as the personal in the mystery of the Incarnation**. And **it was as unknown to Aristotle, Porphyry, and others, as the predications concerning the Son of God incarnate**.
+
+— ❦ —
+
+### Objection II. **Every proposition or locution, in which there is contradiction in the subject and predicate — as *"a man is a bird"* — in its own proper sense is impossible. But in this proposition: *"bread"* (understanding of the true and natural bread) *"is the body of Christ,"* there is contradiction in the subject and predicate — because the subject *"bread,"* by its own proper definition, contradicteth or impugneth being that which is the predicate, and vice versa. *Ergo* such a proposition in its own proper and literal sense is impossible.**
+
+**Respondeo**: **I deny the Minor.** **Disparate things are in no wise contradictory, but diverse — which can be conjoined and united, that they be made one, by reason of which unity they can be predicated of one another** — which apart from union could never come to pass. **We have an example in the hypostatic union of the two natures in Christ, item in the dove and the Holy Spirit**, etc. — **where things are disparate — God and man, dove and Holy Spirit — but not contradictory** — which yet each by its own proper mode of union can be predicated of one another and are predicated.
+
+**The argument therefore proceedeth from divided to conjoined.** **Outside union, disparate species cannot be predicated of one another; but when they are united, they can be predicated of one another.** The Major therefore is a true proposition, which speaketh of predication simply, and in its proper sense — that is, **when disparate things are considered in themselves and separated from one another**. In the Minor, however, the predication is not simple or in its proper sense, but **in a Sacramental sense**. And there is **the greatest discrimen between the proper signification of the words of the subject and the predicate in the said proposition — *"Bread is the body of Christ"* — and between proper predication which agreeth with the usual rules of Dialectic**. Although the words *"bread"* and *"body"* are taken in their proper signification, yet the predication is not according to the property of the subject and predicate, but **according to Sacramental union, by reason of the mystery** — according to which the one is made of the other, and one Sacramentally united to another — on account of which union one is predicated of the other in an inusitate mode.
+
+— ❦ —
+
+### Objection III. **But (say the Adversaries) these words are to be expounded according to the analogy of these predications: *"Circumcision is the covenant, the Lamb is the Passover"*?**
+
+**This cannot be done.** For — as a little before also has been said — **in these predications there is no mention of the participation of the body and blood of Christ**, as which were not yet.
+
+**Then**: Because **on this account Christ instituted this Sacrament with clear and perspicuous words, that from them, and not from elsewhere, might be taken what is the participation in the sacred Supper** — for to what end were those words otherwise needful?
+
+**Thirdly**: Because **in the New Testament there are no shadows and figures, but the body itself and the truth itself — Col. 2:17**. And **Christ speaketh not of a type or figure of his body, but of his very body**.
+
+— ❦ —
+
+### Objection IV. **Sacramental locutions are usual in Scripture. *Ergo* those words: *"This is my body,"* cannot be referred among inusitate locutions?**
+
+**"Inusitate" is not said in this place — of that of which only once mention is made in Scripture — but of that which enunciates such a thing as is singularly instituted and ordained by God**: as when **Christ in this singular institution of the Supper taketh bread, and saith**: *"Take, eat, this is my body, which is delivered up for you"* — for **this is peculiarly sanctified, and in this Sacrament instituted, that in this Sacrament with the bread and wine of blessing the body and blood of Christ be given and received**. And although **Sacramental locutions are very frequent in Scripture, yet they are to be explained thus and not otherwise, than as the words of each institution sound and concede**: for **otherwise all Sacraments would be one, and there would be no discrimen among them**.
+
+— ❦ —
+
+*[Locus XXVII Part 2 closes (Q8–Q10 + embedded Obj + OBIECTIONES I–IV on predication mode). Part 3 (Q11 in/cum/sub pane particles + OBIECTIONES I–V on particles + Q12 corporaliter + Q13 status controversiae) follows in T56. 487 top-level Q + 243 Obj rendered so far.]*
