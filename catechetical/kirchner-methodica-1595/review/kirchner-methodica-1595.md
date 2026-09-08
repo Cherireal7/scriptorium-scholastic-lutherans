@@ -11789,4 +11789,147 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXIV De Miraculis COMPLETE — rendered in 1 tranche (T92). Q1–Q18 + OBIECTIO on God-not-indulging-miracles-to-false-doctors + OBIECTIONES I–II on Christ/Apostles doing miracles + Mark 16:17. 754 top-level Q + 418 Obj rendered so far. Locus XXXV De Calamitatibus follows in T93 at OCR line 41416.]*
+# Locus XXXV. Of Calamities and the Cross
+### *De Calamitatibus et Cruce* [*[T. 5, p. 311 & seq., 264–265; T. 4, p. 88–89]*]
+
+## Question 1. Why is the doctrine and cognition of this locus necessary?
+
+**Why is the doctrine and cognition of this locus necessary?**
+
+**Respondeo**:
+
+**I. Because to human reason not illuminated by the Word of God it is inexplicable.**
+
+**II. That in the Word of God we may together enquire the true and solid consolations to be opposed to these.**
+
+**III. That we may have cause of giving thanks to God for this salutary doctrine. And that by the meditation of these we may be moved to give thanks to our Saviour Christ, who by his most holy passion and death hath sanctified all our calamities, that to us they hurt not, but co-operate for good.**
+
+**IV. That we ourselves also may console those who are in every pressure, 2 Cor. 1:4.**
+
+— ❦ —
+
+## Question 2. Is not the Church in these lands subject to the cross? [*[T. 7, p. 318; T. 4/1, p. 450]*]
+
+**Is not the Church in these lands subject to the cross?**
+
+**Respondeo**: **Very much: as the whole sacred Scripture of the Old and New Testament aboundantly testifieth. Ps. 38:18**: *"For I am prepared for scourges, and my sorrow is in my sight always."* **2 Tim. 3:12**: *"And all who will live piously in Christ Jesus shall suffer persecution."*
+
+**The same also the examples of all Saints, of Patriarchs, of Prophets, of Apostles, of Martyrs, and of all the pious from the exordium of the world do teach. Yea, the Son of God himself, the head of the Church, was subject to the passion of the cross — not on account of his own, but on account of the sins of the whole world. Isa. 53:[5]**: *"He was wounded on account of our iniquities, was bruised on account of our crimes: the chastisement of our peace was upon him, by his stripes we were healed."*
+
+— ❦ —
+
+## Question 3. What then is the cross, and what are the calamities of the pious?
+
+**What then is the cross, and what are the calamities of the pious?**
+
+**Respondeo**: **They are afflictions and burdens of every kind, spiritual and corporal, within and without, which God upon his own — on account of certain causes, for their salvation — doth impose. Ps. 68:20**: *"He layeth a burden upon us, because he is the God of our salvation."*
+
+— ❦ —
+
+## Question 4. But what are the discrimina of calamities?
+
+**But what are the discrimina of calamities?**
+
+**Respondeo**:
+
+**I. Some are penalties of certain delicts, of which, Ps. 39:12, it is said**: *"With rebukes on account of iniquity thou hast corrected man, and hast made his soul to waste as a spider."* **And hither pertain the examples of penalties in all sacred and profane histories, in which it is related how God punished men on account of sins.**
+
+**Are these penalties equal to the delicts? By no means: for the wages of sin is death, Rom. 6:22. And though grievously against men he do animadvert, yet no one can complain that injury from God is done to him, and that he is more harshly chastised than for the delicts. And if with God we should will to contend, we could not respond to him one for a thousand, Job 9:3. Let the chastisements of God therefore invite us to poenitentia, that we humble ourselves under his mighty hand, 1 Pet. 5. Not of the gravity of the penalty, but of the magnitude and multitude of our sins, by which we have attracted those penalties upon us, let us complain. Jud. 8:27**: *"Believing these very supplicia to be less than our sins: let us believe the scourges of the Lord, wherewith as servants we are corrected, to have come for our emendation, and not for our perdition."* **Jer. 10:15**: *"Why criest thou for thy contrition, incurable is thy sorrow, on account of the multitude of thy iniquity, and on account of thy hard sins have I done these things to thee."* **Lam. 2:39**: *"Wherefore hath the living man murmured, the man for his sins? Let us search our ways, and enquire, and return to the Lord."*
+
+**II. Other calamities are of the truly faithful, by which God their faith, patience, invocation, patience,** &c. **doth prove and exercise. As in the examples of Abraham, Isaac, Jacob, Joseph, Job, Daniel,** &c. **is to be seen: for not on account of grave delicts these God doth afflict, but that their faith, patience, and constancy he might prove, exercise, and set forth for others to imitate.**
+
+**Are these calamities of the Saints satisfaction for their sins? By no means: for Christ alone hath borne the sins of us all, and for them hath satisfied, Isa. 53. But as hath been said, they are exercises of faith and piety.**
+
+**Do Christians therefore and the faithful not suffer on account of scelera? Nay: for 1 Pet. 4:15 the Apostle saith**: *"Let no one of you suffer as a homicide, a thief, or an evil-speaker, or a coveter of other men's goods: but if as a Christian, let him not blush, but let him glorify God in that name."*
+
+**Can the calamities of the pious be called penalties? They can also be called penalties, on this account: that even the pious in their flesh have remaining sin, which is in need of crucifixion and mortification, and that by such penalties and chastisements they be admonished of daily poenitentia: and because God even preceding sins in them by a temporal penalty, for their salvation and for example to the rest, doth punish. Nor yet doth it hence follow, that these penalties or temporal corrections be satisfactions for sins: for one thing it is on account of sin remaining or adhering in the flesh to be reproved: or on account of preceding sins after conversion to be chastised by temporal penalty: and another thing, by these penalties or corrections to satisfy for sins, to appease the wrath of God — which, beyond the Son of God, no one is able to do.**
+
+**III. Singular calamities are those which are said [to occur], when — on account of the confession of Christ and of true doctrine — God, of his good will, doth permit truly pious men to be afflicted and killed, Apoc. 6:9**: *"I saw under the altar the souls of them that were slain on account of the Word of God, and on account of the testimony which they had."* **Hither pertain the examples of all pious and Sanctorum Martyrum of the Old and New Testament, as of the three boys in the furnace of burning fire, of the seven Maccabees, of John the Baptist, of the holy Apostles, of Ignatius, of Polycarp, of Babylas, and of like Martyrs of Jesus Christ.**
+
+**IV. The Passion of our Lord and Saviour Jesus Christ, to whom alone this most ample name properly belongeth: for he is the propitiation for our sins, and for the sins of the whole world. Isa. 53:5**: *"He was wounded on account of our iniquities."*
+
+— ❦ —
+
+## Question 5. But what is the discrimen between the passion of Christ and of the Saints? [*[Post. dom. Conc. 1. de Passione]*]
+
+**But what is the discrimen between the passion of Christ and of the Saints?**
+
+**Respondeo**: **The greatest is the discrimen:**
+
+**I. By reason of person: for Christ is true God and true man. The Saints, however, although they be the temple and habitation of God, yet neither are God, nor omnipotent, and divinity with them personally is not united; whence in the faithful that suffer, God is said to suffer by revelation only, because through faith in their hearts he dwelleth: on the contrary therefore so precious is the passion of Christ, because when he suffered, that person suffered, who is at once God and man.**
+
+**II. Christ is absolutely without sin; the Saints, however, although through the Holy Spirit renovation in them be begun, still have adhering sin, therefore suffer as sinners.**
+
+**III. Christ in his passion against God from impatience or unbelief did not murmur. The Saints, however, although also through the Holy Spirit they glory in tribulations, Rom. 5, yet this is not done without great infirmity, impatience, and doubtings — wherefore, lest God impute these to them, they pray, Ps. 32:9**: *"For this shall every saint pray unto thee in the opportune time."*
+
+**IV. Christ perfectly hath satisfied the Law, and all things that it from men doth require, hath performed, Rom. 8, 10. But the obedience of the Saints in this life is begun indeed, but is not perfected, Rom. 7:18**: *"To perfect the good I find not."* **No one therefore of the Saints can glory, on the Cross and in calamities to love God above all things, and all things on his account willingly to bear: for experience testifieth the contrary — namely, that the flesh is weak.**
+
+**V. Christ by his passion hath fully for the sins of the whole world satisfied and them expiated. The Saints, however, by their passion neither for their own, nor for the sins of others, satisfy or them expiate. For sins to expiate no one can, unless at once he be God.**
+
+**VI. Christ's passion is not only meritorious, but also to all penitent sinners through faith unto justice is imputed. The Saints' passions, however, neither are meritorious, nor to others for the remission of sins, for justice, and for salvation can be imputed: but are only examples of patience and of hope, which others on the cross may contemplate.**
+
+— ❦ —
+
+## Question 6. How manifold are the afflictions or calamities of the faithful?
+
+**How manifold are the afflictions or calamities of the faithful?**
+
+**Respondeo**: **Twofold: Internal, of the heart or of the soul and conscience: and External, of the body, of goods, of spouses, of children,** &c. **Hence Paul, 2 Cor. 7:5**: *"Without fights, within fears."* **And the whole sacred Scripture testifieth: that the Saints sometimes interior straits of the heart do experience — as Ps. 6, 18, 22, 42: sometimes in body and in fortunes are afflicted.**
+
+— ❦ —
+
+## Question 7. But what in the genus is the cause of all calamities?
+
+**But what in the genus is the cause of all calamities?**
+
+**Respondeo**: **The efficient cause of all calamities is sin, in which all we are conceived, born, and live: namely, sin original and actual. Ps. 90:8**: *"Thou hast set our iniquities in thy sight, our ignorances in the illumination of thy face."* **Jer. 2:16, [19]**: *"Thy malice shall argue thee, and thy aversion shall rebuke thee. Know and see, that it is an evil and a bitter thing to have forsaken the Lord thy God, and that there is no fear of me with thee, saith the Lord God of hosts."* **More testimonies of this thou shalt find, Ps. 6, 39, 107; 2 Sam. 12; in the Threni of Jeremiah, ch. 1, 2, 3, 4.**
+
+— ❦ —
+
+## Question 8. Have not the Ethnics therefore rightly taught, that death and other calamities are from the motion of eternal matter venting to other forms, and that death is natural to man, as of an apple and of another certain animal it is a corruption?
+
+**Have not the Ethnics therefore rightly taught, that death and other calamities are from the motion of eternal matter venting to other forms, and that death is natural to man, as of an apple and of another certain animal it is a corruption?**
+
+**Respondeo**: **By no means. For not such a man did God create, but through sin man himself into these miseries did precipitate himself, Rom. 5:[12]**: *"Through one man sin into this world entered, and through sin death, and thus unto all men death did pass."*
+
+**Others to the influences of the stars have ascribed these: but from the sin of the first parents all calamities are caused, Gen. 3.**
+
+**Others fortune and chance have called the cause of calamities, because many hazards happen to man: but Christ, Matt. [10:30], saith**: *"But of you the hairs of your head are all numbered, and one of them shall not fall upon the earth without your Father,"* &c.
+
+**Others fate have introduced, and all things by fatal necessity so to be done have affirmed: but these all have erred: for Scripture testifieth, that Adam and Eve by most free will did sin, Gen. 3. To sin also by necessity we are not impelled, but into sin by our own concupiscence are drawn and enticed. Matt. [15:19]**: *"Out of the heart proceed evil thoughts."* **The Philosophers asked why to the evil it is evil, rightly indeed responded, on account of their own malice: yet the corruption of nature they knew not.**
+
+**So much more therefore let us give thanks to God, that these things to us in his Word he hath manifested.**
+
+**To these things also — that sin and the most free will of man are the causes of all human calamities — is added, that Satan doth inflame us miserable men, and impelleth to sins, John 8:44**: *"Ye are of your father the Devil, and the desires of your father ye will do; he was a homicide from the beginning."*
+
+— ❦ —
+
+## Question 9. But wherefore doth God the faithful, whom in Christ he hath adopted to himself, permit to be pressed and exercised by various calamities?
+
+**But wherefore doth God the faithful, whom in Christ he hath adopted to himself, permit to be pressed and exercised by various calamities?**
+
+**Respondeo**: **To this question without the Word of God one cannot rightly respond, and human reason from the following Syllogism cannot extricate itself:**
+
+**[*[T. 4/1, p. 479]*] To the good it ought to be well. The faithful are good. Ergo to them it ought to be well: and yet the contrary is done.**
+
+**Respondeo**: **The Major is to be distinguished: To the good or just it ought to be well — that is, to them who are perfectly good and just: but such no ones are in this world. For there is none, who the Law of God perfecteth. Rom. 7**: *"To perfect the good I find not."*
+
+**To the Minor, however: although the faithful be good and just through faith in Christ, and although through the Holy Spirit new obedience in them be begun, yet begun only it is, and in the regenerate remain many infirmities, Rom. 7. It is no wonder therefore, that they are exercised by cross and calamities. But in the future or eternal life they shall be perfectly good and just: on that account also without all cross and misery.**
+
+**Meanwhile however to them, even under the most grievous afflictions and tentations, it is well.**
+
+**I. Because also under these they have and retain God in Christ propitious, Rom. 5, they stand in the grace of God, and glory in the hope of the sons of God.**
+
+**II. In their cross they have access unto God, Rom. 5, to whom their necessity they can expose.**
+
+**III. They have God himself with them in tribulations, Ps. 91**: *"I am with him in tribulation."*
+
+**IV. The consolation of the Holy Spirit, who them in all afflictions consoleth, and for them with unspeakable groanings maketh intercession, Rom. 8:26, in their hearts they have.**
+
+**V. The Lord to them their calamities doth diminish, or plainly them from them doth snatch out, Ps. 34:20**: *"Many are the tribulations of the just, and from all these the Lord will free them."*
+
+**VI. Finally from all evils he them freeth, and to them life and eternal salvation giveth, Luke 16, Lazarus from all miseries he snatcheth out, and into the kingdom of heavens receiveth. To sum, to the faithful in calamities and even in death itself it is well; all things to them do co-operate for good, and nothing can them separate from the charity of God, which is in Christ Jesus. Rom. 8:28**: *"But we know, that to them that love God all things co-operate for good, to them who according to purpose are called saints."*
+
+— ❦ —
+
+*[Locus XXXV De Calamitatibus et Cruce Part 1 — Q1–Q9 rendered in T93 covering: necessity of locus, Church subject to cross, definition of cross+calamities, four distinctions (penalties of delicts + not equal + not satisfaction + can be called penae; exercises of faithful; singular for confession — Martyrs; Passion of Christ properly), discrimen between passion of Christ and Saints (I person, II sinlessness, III no murmuring, IV perfect Law satisfaction, V full expiation, VI meritorious+imputed), internal/external afflictions, sin as efficient cause, refutation of Ethnic causes (eternal matter, stars, fortune, fate) + Satan as impeller, syllogism "to good it ought to be well" + I-VI consolations under afflictions. Part 2 (Q10 onwards on causes God permits calamities + means of enduring) follows in T94. 763 top-level Q + 419 Obj rendered so far.]*
