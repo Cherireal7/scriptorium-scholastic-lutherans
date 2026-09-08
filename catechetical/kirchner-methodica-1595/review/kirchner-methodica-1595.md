@@ -12687,4 +12687,227 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXVIII De Antichristo COMPLETE — rendered in 2 tranches (T97–T98). Part 2 (T98) covered Q9 with 21-point enumeration of Papal blasphemies (Trent Sess 4, Saint-invocation as Pantheon-substitute with 14 helpers + patrons of trades, sitting-in-temple as earthly-god, monastic vows as new-Baptism, sale of supererogatory works, monastic-death-shrouds, corruption of poenitentia+justification, indulgence-diplomas, Purgatory, chrism/palm/oil/fire consecrations, cup denied to laity, Mass-sacrifice for dead, Corpus Christi festival, Priestly celibacy + food-prohibition = doctrina daemoniorum, Ebionite/Montanist/Encratite/Pelagian/Donatist parallels, commanding Angels, Si Papa impunity, contempt of Magistrate + kissing-feet); Q10 late manifestation per God's set time; Q11 manifested by Spirit of mouth (Word); Q12 endures until Advent; Q13 exeuntes 6-fold from Apoc 18:4 (abominate doctrine, embrace Christ's Word, abstain worship, refuse character, refuse consent, refuse aid). Total Locus XXXVIII: 13 Q + 3 Obj. 812 top-level Q + 427 Obj rendered so far. Locus XXXIX De Morte follows in T99 at OCR line 44194.]*
+# Locus XXXIX. Of Death
+### *De Morte*
+
+## Question 1. What is death?
+
+**What is death?**
+
+**Respondeo**: **DEATH is a divine penalty on account of sin adjudicated to man, whereby man not only with every kind of diseases and infirmities is excruciated, but at length also body and soul are horribly pulled apart; the body becometh food of worms, putrefieth, and returneth to earth: and this to this end, that God his most just zeal of wrath against sin may make conspicuous, and that man after this corporal death may be cast down into eternal torments, unless in this life through faith in Christ to God he shall have been reconciled.**
+
+— ❦ —
+
+## Question 2. How manifold is death?
+
+**How manifold is death?**
+
+**Respondeo**:
+
+**I. One death is called natural, which from natural causes according to the Philosophers is caused: Another is violent, which from without violently upon man is inflicted.**
+
+**II. One death is called mature, in which a man satiated with life doth die: Another immature, in which in the flower of age a man doth perish.**
+
+**Thus one is the death of the pious, by which Christians in Christ through faith do fall asleep, do rest from evils, and out of mortality into eternal life do pass. [*[Gen. T. 2, p. 194 f.b.; Gen. T. 4, p. 253]*] Another is the death of sinners, or of the impii, by which their life with lamentation fleeth indignant under the shadows [*[T. 5, p. 500]*]; who from this life with terror and trembling and murmur depart, and are cast down into fire and eternal torments, Luke 16.**
+
+— ❦ —
+
+## Question 3. What then is the cause of death? [*[T. 4/1, p. 512–513; T. 3, p. 232]*]
+
+**What then is the cause of death?**
+
+**Respondeo**: **This Philosophy and human reason plainly ignore. Galen saith, that death is the extinction of the innate heat: but this doth not yet express the true cause. Sacred Scripture saith, that the first and principal cause of death and of all human diseases and infirmities is the fall of the first parents, Gen. 3, and sin, in which man is conceived and born, Rom. 5–6**: *"The wages of sin is death."* **Ps. 90:8. Wisd. 2:23**: *"Because God created man inextinguishable, and to the image of his likeness he made him: But by the envy of the Devil death entered into the compass of the earths."*
+
+**Actual sins also often accelerate death. Ps. 39:12**: *"In rebukes on account of iniquity thou hast corrected man, and hast made his soul to waste as a spider,"* &c. **1 Chron. 10:13, it is said**: *"Saul therefore died on account of his iniquities."*
+
+— ❦ —
+
+## Question 4. What are the instruments of death?
+
+**What are the instruments of death?**
+
+**Respondeo**: **Sirach 38:19**: *"From sadness death hasteneth."* **Sirach 37:34**: *"on account of gluttony many have perished."*
+
+**So also instruments of death are all kinds of diseases, by which our bodies are extenuated and fail.**
+
+**So plague also is Minister of Death, Ps. 91, 2 Sam. 24. As also famine and sword and war, Deut. 28.**
+
+**Sirach 40:9**: *"Besides these death, blood, contention and sword, oppressions, famine and contrition, and scourges: for the wicked created are all these things."*
+
+**Devils also serve death, when many into miseries and dangers of life and of death they precipitate.**
+
+— ❦ —
+
+## Question 5. But what in man dieth?
+
+**But what in man dieth?**
+
+**Respondeo**: **The body. For the soul cannot be killed, Matt. 10:28. Gen. 3:19**: *"because dust thou art, and to dust thou shalt return."* **Ps. 90:3**: *"Thou makest man to return unto crushing, and thou sayest: Return, ye sons of men."*
+
+— ❦ —
+
+## Question 6. What then is the nature or account of death?
+
+**What then is the nature or account of death?**
+
+**Respondeo**: **In one word to answer: Death is a dissolution, or the miserable and horrid violent separation of the soul from the body. And the very pains of death do testify, that the death of man is not natural, or that man is not created for death — but that death is a penalty of sin. In death the soul is torn from the body, and if the man was faithful, by Angels into the bosom of Abraham, or rather of Christ, he is borne, Luke 16; or into Paradise, Luke 23. Wisd. 3**: *"The souls of the just are in the hand of God,"* &c. **The body is committed to the earth, putrefieth, and becometh food of worms: And experience testifieth, that the bodies of no living creatures so horridly do corrupt as those of men — from these indeed serpents are born,** &c.
+
+— ❦ —
+
+## Question 7. Must all men die? [*[T. 4/1, p. 519; T. 4, p. 31; T. 5, p. 418]*]
+
+**Must all men die?**
+
+**Respondeo**: **Very much. Ps. [90]:3; Heb. 9:27**: *"as it is appointed to men once to die."* **Gen. 3**: *"to earth thou shalt return."* **1 Cor. 15:22**: *"as in Adam all die"* — **and daily experience testifieth this. Yet one dieth more quickly than another, and to all men the hour of death is plainly uncertain: whence also to a shadow men are compared. Ps. 39:7**: *"Nevertheless in an image passeth man; but even in vain is he disturbed."*
+
+— ❦ —
+
+## Question 8. What are the ends or final causes of death?
+
+**What are the ends or final causes of death?**
+
+**Respondeo**:
+
+**I. God in death showeth his wrath against sin, by which man is corrupted. Ps. 90:7**: *"because we have failed in thy wrath."*
+
+**II. By the death of one, another God inviteth to poenitentia, that he may think: today to thee, tomorrow to me. For always the dying man addresseth, as it were, the one standing**: *"today to me, tomorrow to thee."*
+
+**III. By meditation of death men are impelled, that they seek a physician, who from death can preserve, out of death free, and life restore, Matt. 11:28–29.**
+
+**IV. By meditation of death, that in the faithful may be kindled an ardent desire and love of eternal life, Rom. 7:24, Phil. 1:23.**
+
+— ❦ —
+
+## Question 9. Do the Philosophers rightly establish, that death is natural to man, since whatsoever is generated is also corrupted?
+
+**Do the Philosophers rightly establish, that death is natural to man, since whatsoever is generated is also corrupted?**
+
+**Respondeo**: **By no means. For death is not from God, or from nature, but from sin, Gen. 3, Rom. 6.**
+
+— ❦ —
+
+## Question 10. Do the Pelagians rightly teach, that death is connatural to man, and that man, even if he had not sinned, yet would have died?
+
+**Do the Pelagians rightly teach, that death is connatural to man, and that man, even if he had not sinned, yet would have died?**
+
+**Respondeo**: **By no means. For the Word of God testifieth the contrary, Gen. 2:17**: *"In whatsoever day thou shalt eat of it, by death thou shalt die."* **And Rom. 5:12**: *"Through sin death, and thus unto all men death passed, in whom all sinned."* **Rom. 6:23**: *"The wages of sin is death."* **Hence therefore it is clear that the opinion of the Pelagians is false and erroneous.**
+
+— ❦ —
+
+## Question 11. Do those rightly teach, who establish, that in death body and soul together do perish?
+
+**Do those rightly teach, who establish, that in death body and soul together do perish?**
+
+**Respondeo**: **By no means. Matt. 10:28 expressly it is said**: *"The soul they cannot kill."*
+
+— ❦ —
+
+## Question 12. But how is the mind of man to be prepared for death? [*[T. 1, p. 335 & seq.; T. 3/1, p. 367 & seq.]*]
+
+**But how is the mind of man to be prepared for death?**
+
+**Respondeo**:
+
+**I. Let him remember always that he is mortal and can perish, Sirach 10:12**: *"So the King today is, and tomorrow will die."*
+
+**II. That to this meditation of death he may be the more prepared, let him set before his eyes the hour of death every moment imminent and to be expected, and the judgment of the Lord — eternal damnation, or death, to the impii, but eternal life to the faithful decreed. If seriously to these he shall have attended, for the hour of death he shall maturely prepare himself.**
+
+**III. And that he may die well, maturely let him know and embrace by true faith Christ the prince of life and Lord of death, that in him and through him well and blessedly he may live and die, Phil. 1:21**: *"For to me to live is Christ, and to die is gain."*
+
+**IV. Let him not defer poenitentia to the last hour of death, but maturely to God let him return and be converted, lest he perish in the way, Ps. 2:12.**
+
+**V. From sins and evils, by which men themselves into death do precipitate, let him abstain.**
+
+**VI. Profitable also it is in true faith to participate the sacred Lord's Supper, and assiduously through and on account of Christ a happy exit of life from God to seek, Ps. 90:12.**
+
+— ❦ —
+
+## Question 13. But what things to each one giving up the soul, and in the last term of life, or in the article of death, chiefly are to be attended?
+
+**But what things to each one giving up the soul, and in the last term of life, or in the article of death, chiefly are to be attended?**
+
+**Respondeo**: **Three:**
+
+**I. Not the abruption of life, but liberation from death — that through Jesus Christ he is freed from death. Ps. 68:21**: *"Our God, the God of them that make safe, and of the Lord, the Lord, are the goings-forth of death."* **John 11:25**: *"I am the resurrection and the life; who believeth in me, though he shall have died, shall live, and every one who liveth and believeth in me shall not die for ever."*
+
+**II. The sweetest promise of the Gospel concerning the gratuitous remission of sins and the donation of eternal life on account of Christ. John 3:16**: *"So God loved the world, that his only-begotten Son he gave."*
+
+**III. The goods of the future life in Christ reposited to himself and to be received — namely gladness, life, rest and salvation eternal, and true beatitude: Communication with God himself, with his holy Angels, and with the blessed men. 2 Tim. 4:8**: *"In the rest reposited to me is the crown of righteousness, which the Lord shall render to me in that day, a just judge: not only however to me, but also to those who love his Advent."* **Cyprian de mortalitate**: *"To me to live is Christ, and to die is gain. Gain greatest — now not to be held by the snares of the age, now to be made obnoxious to no sins and vices of the flesh, exempt from the pressures which anguish, and freed from the poisoned jaws of the devil, to the gladness of eternal salvation, Christ calling, to set forth."*
+
+— ❦ —
+
+## Question 14. Is death a substance or an accident?
+
+**Is death a substance or an accident?**
+
+**Respondeo**: **By no means [a substance]. But horrid it is a destruction and corruption of human nature, which on account of sin and through sin into man hath passed.**
+
+— ❦ —
+
+## Question 15. Is it true, that the dead are reduced into nothing and are nothing?
+
+**Is it true, that the dead are reduced into nothing and are nothing?**
+
+**Respondeo**: **God forbid. For the soul of man doth not die, but liveth, even when from the body it hath departed, Matt. 10:28, Ps. 3:6 [i.e. — cf. Ps. — reference garbled in text], Wisd. 3:1, Acts 7:59. But as to the body, that in the earth putrefieth, and to dust returneth — yet so, that in its own time from the earth it may be raised up, again to the soul be united, and for ever live, 1 Cor. 15, John 5, 6.**
+
+**Not therefore are the dead nothing, as in the Tusculans of Cicero it is disputed.**
+
+— ❦ —
+
+## Question 16. But why do also the faithful die?
+
+**But why do also the faithful die?**
+
+**Respondeo**:
+
+**I. On account of remaining sin in the flesh, Rom. 7, 8. Their death, however, is a transit into life, Job 5; nor come they into judgment.**
+
+**II. That this corruptible put on incorruption, and this mortal put on immortality, 1 Cor. 15:53.**
+
+**III. That they be rendered conformable to the image of the Son of God, Rom. 8.**
+
+**IV. That to all be made known the discrimen between this and the future life, where plague and death are not, Hos. 13, Isa. 25.**
+
+— ❦ —
+
+## Question 17. But why do the pious also often fear death, and shudder at its mention?
+
+**But why do the pious also often fear death, and shudder at its mention?**
+
+**Respondeo**: **This doth sin, which dwelleth in the flesh, Rom. 7. From it is the fear of death also in the regenerate, because in this life they are imperfect. They ought however to strive, that this fear through faith they expel. Hither pertaineth the distinguished saying of Cyprian de mortalitate**: *"Let him fear to die, who is not comforted by the cross and passion of Christ: let him fear to die, who from this death unto the second death shall pass."* **And ibidem**: *"If in Christ we believe, let us have faith to his words and promises, and we shall not die for ever; unto Christ, with whom to conquer and to reign for ever we are, with broad security let us come. That meanwhile we die — unto immortality by death we cross over, nor can eternal life succeed, unless it shall have befallen to depart hence: not an exit, but a transit, and the temporal journey being run through, crossed over unto the eternal, who hasteneth not to better things? Who would not desire to be changed and reformed to the appearance of Christ, and to the dignity of heavenly grace to come more quickly?"*
+
+— ❦ —
+
+## Question 18. Is it pious to mourn the dead? [*[G.t. 2, p. 218–219; T. 5, p. 513 f.b.; T. 5, p. 497]*]
+
+**Is it pious to mourn the dead?**
+
+**Respondeo**: **Scripture doth not forbid mourning, but wisheth some measure of mourning to be. 1 Thess. 4:13. For we, who are Christians, have a most certain and infallible hope of the resurrection and of eternal life. The Gentiles at the death of theirs were excessively saddened, because the hope of the resurrection they were ignorant of. Whence most elegantly Chrysostom in Matthew saith**: *"I therefore judge, that we ought rather to rejoice, since by the corruption of the body, death itself is corrupted, mortality destroyed, not the substance of the body. For as, when brass is melted down, that from it a statue may be founded, no loss of the brass we then say to be, when to a better use it is transferred: similarly of thy body also of thine it shall be."*
+
+— ❦ —
+
+## Question 19. Is it conceded or lawful for a man to kill himself?
+
+**Is it conceded or lawful for a man to kill himself?**
+
+**Respondeo**: **By no means. For the Lord hath commanded**: *"Thou shalt not kill"* — **that is, not only others, but not even thyself shalt thou kill. No one is Lord of his own members, but God ruleth over them: God also hath prescribed to each his own term and day, which is to be expected. Job indeed of his sorrows complaineth, and desireth to die, yet himself he doth not kill,** &c.
+
+— ❦ —
+
+## Question 20. What are the chief consolations of the faithful against death? [*[T. 4/1, p. 305; G.t. 2, p. 217; G.t. 4, p. 26 f.b., p. 191, 195; T. 4/1, p. 312–313, 246 f. 239, 240, 270, 271]*]
+
+**What are the chief consolations of the faithful against death?**
+
+**Respondeo**:
+
+**First and chief: That Jesus Christ by his death did absorb death, and by his most gladsome resurrection eternal life did bring forth. 1 Cor. 15.**
+
+**II. That this his victory, and all its goods, to all the faithful he freely giveth, John [11:25]**: *"I am the resurrection and the life; who believeth in me, though he shall have died, shall live."*
+
+**III. That with them he is in tribulation, and in the sorrows of death, bestoweth a happy exit of life, freeth them from this vale of miseries, giveth them holy desire, that they may desire to be dissolved, and to be with Christ, Phil. 1:23.**
+
+**IV. That certainly them he shall raise up, and body and soul with eternal life and glory shall adorn and clarify. John 5, 6, Job 19:25–27**: *"For I know that my Redeemer liveth, and in the last day from the earth I shall arise: And again I shall be surrounded with my skin, and in my flesh I shall see God, whom I shall see, I my own self, and my eyes shall behold, and not another. Reposited is this my hope in my bosom."* **Faith therefore it is that conquereth death and triumpheth eternally. Luther, Gen. T. 2, p. 194–196.**
+
+— ❦ —
+
+*[Locus XXXIX De Morte COMPLETE — rendered in 1 tranche (T99). Q1–Q20 (no formal Obj) covering: definition, natural/violent + mature/immature + pious/impious distinctions, sin as principal cause, instruments (disease/plague/famine/sword/Devils), body-not-soul dies, dissolution as unnatural, universality (Ps 39:7 shadow), 4 final causes, refutation of Philosophers, refutation of Pelagians, refutation of animae-mortalitas, 6-fold preparation of soul, 3-fold attention at articulo mortis (liberation, Gospel promise, future goods with Cyprian de mortalitate), death as corruption not substance, refutation of Cicero's Tusculans, 4 reasons faithful die, why pious fear death with Cyprian's soliloquy, moderation in mourning per 1 Thess 4 + Chrysostom brass-statue analogy, suicide forbidden, 4 consolations (Christ absorbed death, victory imputed, present in tribulation, resurrection with Job 19). 832 top-level Q + 427 Obj rendered so far. Locus XL De Sepultura follows in T100 at OCR line 44718.]*
