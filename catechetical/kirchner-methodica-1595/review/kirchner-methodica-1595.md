@@ -5696,4 +5696,90 @@ Wherefore **let all the pious abstain from blasphemies of this kind**, and **if 
 
 — ❦ —
 
-*[Locus XXII Part 1 closes (Q1–Q10). Part 2 (Objs I–III on reprobates unable to be saved / God could convert all / God appears unjust, with embedded Qs 11–12 + Q13–Q17 on end, fruits, foundation, foreknowledge, security-objection) follows in T36. 368 top-level Q + 192 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **But (they say) the reprobates cannot be saved, whatever they do?**
+
+**Since we have no certain testimonies of Scripture as to who are those finally reprobated and condemned by God — since even the thief on the cross was converted — let us not invade the judgement of God, and concerning arcana not manifested to us let us in no wise pronounce.**
+
+— ❦ —
+
+### Objection II. **But he could convert all?**
+
+**Of this there is no doubt, that according to his omnipotence he could convert all** — but that he doth not this, **we cannot by right expostulate with him, and he is not held to render to us the account of this his deed**. **Paul, Rom. 9:22, saith**: *"that he show wrath, and make known his power, sustaining with much patience the vessels of wrath apt for destruction,"* etc. **In those therefore whom he leaveth in their sins and unbelief, he showeth his righteousness and wrath against sin**. **Certainly to none of us doth he owe anything, but whatever he bestoweth upon us and giveth, out of mere grace on account of Christ he bestoweth upon us — to him therefore let us ascribe our salvation and all things as received**.
+
+— ❦ —
+
+## Question 11. Since however faith in Christ is a singular gift of God, wherefore doth he not give it to all men?
+
+**Since however faith in Christ is a singular gift of God, wherefore doth he not give it to all men?**
+
+**Let us defer the decision of this question unto life eternal**, and **in the meanwhile let us acquiesce in this — that God willeth us not to scrutinize his Majesty, nor to inquire into his occult judgements** — **Rom. 11:33**: *"O the height of the riches of the wisdom and knowledge of God — how incomprehensible are his judgements, and unsearchable his ways!"*
+
+— ❦ —
+
+### Objection III. **But yet God appeareth unjust, that not equally to all men — to Jews, Turks, and impenitent sinners — he giveth the true knowledge of himself and faith in Christ.**
+
+**Respondeo**: **How can he be unjust, when he oweth nothing to any one — Matt. 28[:15?]** — **and when he could by his own right have left all in sin and condemnation? Whence also Paul, Rom. 9:20, saith**: *"O man, who art thou, that repliest to God?"*
+
+Also **in this God seemeth to act unjustly, that in this life he suffereth the evil to abound and flourish, but the good to lack and be pressed — so that to the good it is ill, and to the evil well** — and **human reason cannot explain this**. But **the Gospel showeth the causes, why GOD imposeth the cross upon his own, and reserveth their blessedness for the other life**. So if to you here **God seemeth unjust in this, that he giveth not his Word and faith in Christ equally to all — and human reason in this life cannot explain it — when we shall have come into the other life, then shall we see and understand, that God is not on that account unjust, even if he bestow not the Word and faith on all men**. **The light of glory then shall beautifully and most easily solve and explain this question, which in the light of grace we cannot perfectly understand and perceive**.
+
+Rather **the punishments and judgement of God against sin, than the grace of God in himself, must be made manifest and acknowledged**. **The nature of all men is corrupted by sin; wherefore God oweth us nothing besides condemnation. Sometimes also, although he offereth his Word and grace, yet we repel it and make and judge ourselves unworthy of eternal life — as Acts 13:46 we read written of the Jews**. Wherefore on this very account **God can in no wise be accused of any injustice**.
+
+— ❦ —
+
+## Question 12. But I could most certainly and most openly wish to know and have expounded to me the cause and reason of this matter?
+
+**But I could most certainly and most openly wish to know and have expounded to me the cause and reason of this matter?**
+
+**Here I answer thee with Augustine, De verbis Apostoli, Sermon 20**: *"Let no man seek from me the reason of occult things. He saith: unsearchable are his judgements, and thou hast come to search out; he saith: unsearchable are his ways, and thou hast come to investigate. If unsearchable things thou hast come to search out, and unsearchable things to investigate — believe, thou hast already perished. Such is it to wish to search out the unsearchable, and to investigate the uninvestigable — as to wish to see the invisible and speak the ineffable. Let the house therefore be edified — when it shall have come to its dedication, then shalt thou find of these occult things the most open reason,"* etc.
+
+And to conclude by responding — **in this life we can say no more, than that which Rom. 9:22–23 we read**: *"What if God, willing to show wrath, and to make known his power, sustained in much patience the vessels of wrath apted unto destruction: that he might show the riches of his glory upon the vessels of mercy, which he prepared unto glory,"* etc.
+
+— ❦ —
+
+## Question 13. But what is the end of this predestination according to grace?
+
+**But what is the end of this predestination according to grace?**
+
+**The glory of God** — **Eph. 1:5–6**: *"Who predestined us unto the praise of the glory of his grace and the salvation of our souls."*
+
+— ❦ —
+
+## Question 14. But what are the fruits of gratuitous predestination?
+
+**But what are the fruits of gratuitous predestination?**
+
+**These also Paul most openly expoundeth**, when he saith **Eph. 1:4**: *"He hath elected us in him, that we should be holy and immaculate in his sight in charity."* And **Eph. 2:10**: *"For we are his workmanship, created in Christ Jesus in good works, which God prepared, that we should walk in them."* And when **Rom. 8:29** he saith: *"Whom he foreknew, he also predestined to be conformed to the image of his Son"* — that is, **to bear the yoke and cross of Christ, and through many tribulations to enter into the kingdom of the heavens**.
+
+And at length, when **Rom. [8:38–39]** he writeth: *"That nothing can separate the elect of God from the charity of God — for I am certain,"* saith he, *"that neither death, nor life, nor Angels, nor principalities, nor virtues, nor things present, nor things to come, nor fortitude, nor height, nor depth, nor any other creature can separate us from the charity of God, which is in Christ Jesus our Lord."*
+
+— ❦ —
+
+## Question 15. Is it therefore false and erroneous to teach that predestination looketh to our works, and is founded in our will and in the free election of the free choice?
+
+**Is it therefore false and erroneous to teach that predestination looketh to our works, and is founded in our will and in the free election of the free choice?**
+
+**Very much so.** For **it is founded only in the mercy of God and the merit of Christ** — **Rom. 9:16**: *"So then it is not of him that willeth, nor of him that runneth, but of God that hath mercy."* **Eph. [1:5]**: *"Who predestined us unto the adoption of sons through Jesus Christ into himself, according to the purpose of his will."*
+
+— ❦ —
+
+## Question 16. Doth then the foreknowledge of God compel or impel men to sin?
+
+**Doth then the foreknowledge of God compel or impel men to sin?**
+
+**By no means.** Since **God is not himself willing iniquity, nor shall the malignant dwell beside him** — **Ps. 5:5**. And **we men voluntarily and freely sin — and every cogitation of the human heart is bent upon evil in all time** — **Gen. 6:5**. **The sense and cogitation of the human heart is prone to evil from its adolescence** — **Gen. 8:21**. And **from the heart of man come forth evil cogitations, homicides, etc.** — **Matt. 15:19**.
+
+— ❦ —
+
+## Question 17. But this article concerning predestination seemeth to take away the doctrine of good works, and to introduce and establish a security of sinning?
+
+**But this article concerning predestination seemeth to take away the doctrine of good works, and to introduce and establish a security of sinning?** [*[Luther: T. 7, p. 439; Gen. T. 3, p. 36; Gen. T. 4, p. 6…*]*]
+
+**By no means.** For **how should this article take away the doctrine of good works, and beget security in men — when Eph. 1:4 it is expressly said, "he hath elected us in him, that we should be holy and immaculate in his sight in charity," and Eph. 2:10 "For we are his workmanship, created in Christ Jesus in good works, which God prepared, that we should walk in them"?**
+
+But whereas **impious and profane men abuse this article — as also others — to the pretext of their lust**, this is not to be ascribed to the doctrine itself, but **to the malice of the human heart, which is wont to pervert every order of God, and to abuse every good of God**. For **from the devil, and not from God, are cogitations of this kind**: *"If thou art elected, whatever thou doest can hurt thee nothing, or incommode thy salvation."* For **nowhere doth Scripture show thee this end of predestination, nor suggest these cogitations to thee: but showeth, that this election itself and gratuitous predestination admonisheth thee, that in good works thou walk, and before God be holy and immaculate** — **Eph. 1:4; Eph. 2:10**.
+
+— ❦ —
+
+*[Locus XXII Part 2 closes (Objs I–III + Qs 11–12 + Q13–Q17). Part 3 (Q18 — the long pastoral 8-point consolation for consciences under praedestinatio-temptation, with embedded Objectio) follows in T37. 373 top-level Q + 195 Obj rendered so far.]*
