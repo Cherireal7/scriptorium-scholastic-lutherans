@@ -9522,4 +9522,112 @@ Then to the Major I respond: **that our Churches are not only in some cities and
 
 — ❦ —
 
-*[Locus XXVIII Part 6 closes (Q35 membrorum perfectio + OBIECTIONES I–III on scandala/haereses/dissensions + Q36 parvitas + OBIECTIO paucitas). Part 7 (Q on causae orbitatis + Q on paucitas nota + Q on potestas Ecclesiae + OBIECTIONES I–V on authority/interpretation/judgement/Bishops-only/Lyrinensis + Q on controversia interpretationis + Q on bona Ecclesiae + Q on interior notae + Q on why God gathers + Q on Papa caput refuted 9-fold + Q on separation + Q on Roman Ecclesia not vera + closing OBIECTIONES) follows in T78. 557 top-level Q + 358 Obj rendered so far.]*
+## Question 37. What are the causes of the orbition or paucity of the Church?
+
+**What are the causes of the orbition or paucity of the Church?**
+
+**Chief are these**:
+
+**The seduction of many, which is done through the Roman Pontiff and his adherents** — which seduction so efficaciously worketh, that **the very elect, if it could be, it would prevail to deceive**.
+
+**The pride, luxury, and opulence of the priests. For religion begat riches, and the daughter devoured her mother.** Whence **Jerome to Rusticus**: *"The Church, from the time she grew in possessions, decreased in virtues."*
+
+**The drowsiness of the workers in the Lord's vineyard. Titles of priesthoods and prebends almost all seek — but they flee the labour of teaching.**
+
+**And the sleep of those learning the word of the Lord is also a cause of orbition.** For **very few are found to whom piety is a care, and who seriously desire to know the way of salvation**.
+
+**The severity of enemies.** For **this also compels the Church into narrows**. **The Papist Church terrorizeth with exiles, prisons, sword, fire, and compels belief to itself, which she once by exiles and prisons was compelled to believe. Vexed, oppressed, and mulcted are those who ever have opposed themselves to the prestiges of the Roman Church, and impugned the corruptions of celestial doctrine — and to this day are agitated, vexed, and killed.**
+
+**Ecclesiastical discords also alienate many from the knowledge of the Evangelical truth.**
+
+Finally, **the splendour of the Papist Church in riches, in magnificent ceremonies, and pomps, fascinateth the eyes of many, that they remain in the Papacy**. Just as on the contrary **the simplicity of our Church in the form of religion, in the manner of worship, hindereth many — who admire only external pomps and splendour striking upon the eyes — that they may not join themselves to the true Church of Christ**.
+
+— ❦ —
+
+## Question 38. Is paucity or a small number always a certain mark of the true Church?
+
+**Is paucity or a small number always a certain mark of the true Church?**
+
+**By no means.** But this must be attended: **whether that small flock hath the pure and incorrupt word of God on its own parts, and leaneth upon it**. **For where the pure and incorrupt word of God is not, there it maketh no difference whether few or many are they who hear it and follow it.**
+
+— ❦ —
+
+## Question 39. But what is the power of the Church?
+
+**But what is the power of the Church?**
+
+**The Ecclesiastical power is not of this world, as the Roman Pontiff feigneth, but spiritual, and chiefly consisteth in these**:
+
+**I.** That **she useth the keys of the kingdom of the heavens in the name of Christ, and according to the words and institution of Christ remitteth and retaineth sins** — **Matt. 16:19; Matt. 18:18; John 20:23**.
+
+**II.** That **she judgeth of every doctrine** — **John 10:5**: *"They shall not follow an alien."* **Matt. 7:15**: *"Attend from false Prophets."* **1 John 4:1**: *"Prove the spirits, if they be from God."* **1 Thess. 5:21**: *"Prove ye all things,"* etc. But **this judgement must be instituted according to the word of God, which alone is the judge of every doctrine of faith** — **1 Tim. 6:3**: *"If any one teach otherwise, and consent not to the sound speeches of our Lord Jesus Christ, and to that doctrine which is according to piety, he is proud, knowing nothing."* **Rom. 16:17**: *"Observe those who make dissensions and offences beside the doctrine which ye have learned."* **John 17:17**: *"Thy word is truth."*
+
+**III.** **She hath the power of choosing and constituting the Ministers of the Church, and of removing and avoiding the unfaithful and false Doctors.** **Acts, Matthias is presented by the whole Church. Acts 6, seven Deacons are named by the whole Church. Acts 12 [13], the Church of Antioch separates Paul and Barnabas unto the ministry of teaching.** When **Paul of Samosata undertook to teach against the analogy of faith concerning Christ and his eternal divinity, he is removed by the Church**.
+
+**IV.** **She hath the power of instituting external ceremonies, which make for edification and good order of teaching** — **1 Cor. 14; Rom. 14** — yet so, that **consciences be not judged and burdened by them** — **Col. 2:8, 16; Gal. 4:9, 10**.
+
+**V.** Hither pertaineth **the gift of Prophecy and interpretation of Scripture** — **1 Cor. 14:29**: *"Let the Prophets two or three speak, and let the rest judge"* — namely, whether the prophecy be analogous to the faith — **Rom. 12:6**.
+
+But **she hath not the power of *condere novos articulos fidei* against the word of God — Gal. 1:8**: *"If we, or an Angel from heaven, evangelize to you beside what we have evangelized to you, let him be anathema."*
+
+**It is also a horrible blasphemy**, that **the Papists contend the Church hath power of changing certain things expressly written in the sacred letters, and of instituting others which are not written in the word of God**. **An abominable lie also is it, that the Church's authority is greater than that of Scripture, and that Scripture hath its authority from the Church** — when yet **the Church is spiritually begotten from the word of God, and is a true Church only in so far as she heareth and followeth the voice of Christ — John 10**.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **The Church is to be heard, because it is written**: *"Tell the Church, Matt. 18."* ***Ergo* with the Church is the supreme authority in matters of faith, and her voice without exception must in all things be followed.**
+
+**Respondeo**: **The Church is to be heard, as long as she heareth and followeth the voice of Christ her Archshepherd. If from him she recedeth, she is in no wise to be heard.** For **she is bound to the voice of Christ — John 10**: *"My sheep hear my voice."* **And with condition is she Church — namely, in so far as she retaineth and propagateth the word of Christ.** Nor do those words of Christ (*"Tell the Church"*) attribute to her such authority, that it is lawful for her even beyond the voice of Christ the Archshepherd either to condere new articles of faith, or to compel men unto obedience in such things.
+
+For Christ speaketh of the process to be observed in excommunication — nor doth he say that the Church must be obeyed in all things without exception, even if against the voice of Christ the Archshepherd the Church establish anything. **The Church therefore is to be heard — not when she urgeth her own things and figments of the heart, but when she soundeth the voice of Christ**: *"If any man speaketh,"* saith **Peter, 1 Pet. 4[:11]**, *"let him speak the sermons of God."* And **Paul Gal. 1**: *"If an Angel from heaven,"* etc.
+
+**Let it therefore remain certain, that an argument from the authority of the Church simply drawn availeth not.** For **it availeth not: the Church said, as though a Lady — but: the Lord said**.
+
+— ❦ —
+
+### Objection II. **The Church hath power of interpreting the Scriptures. *Ergo* to the Church's interpretation must we stand, whatever finally it be.**
+
+**Respondeo**: **We concede that the Church of Christ hath power of interpreting Scripture — but with this added restriction, that the interpretation be taken from the Scriptures, and congrue with the analogy of faith**. **She hath not free or absolute power at her own choice of interpreting Scripture, but such [as is] fitting to Scripture, and consenteth with the Scriptures in all things**.
+
+Whence **Augustine, De doctrina Christiana, books 2 and 3, admonisheth, that obscure passages be compared with clear ones, and few things be understood from many** — but he saith not that it is in the Church's power to bring forth any interpretation to which simply, without examination, credit must be given. **Christ himself proveth his own [teachings] from the Scriptures of the Old Testament. The same do the Apostles, proving and interpreting Scripture through Scripture.**
+
+**We receive therefore the interpretations of the Fathers and Councils — but with this condition, so long as they congrue with the divinely inspired Scriptures. But where they recede from the Scriptures, with their peace we spurn them.**
+
+— ❦ —
+
+### Objection III. **Judgement of controversies of religion pertaineth to the Church. *Ergo* the Church hath power above the Scriptures.**
+
+**Respondeo**: **We concede that the judgement of controversies of religion pertaineth to the Church** — but **to the Church of Christ, not to the Synagogue of the Roman Pontiff**. Then although **it is for the Church to pronounce concerning arisen controversies, the sentence yet availeth not, unless it be fortified by perspicuous testimonies of Scripture**. For **Scripture in matters of faith obtaineth the office of supreme judge**. Whence **Augustine, contra Cresconium, book 2, cap. 31**: *"To the Ecclesiastical canon pertain the certain books of the Prophets and Apostles, whom we in no wise dare to judge, and according to whom concerning the other writings — whether of the faithful or of the unfaithful — we may freely judge."*
+
+— ❦ —
+
+### Objection IV. **It is of the Bishops to judge concerning religion, not of the Laity. *Ergo* only to the Bishops are the controversies of religion to be permitted, that they may judge of the variety.**
+
+**Respondeo**: **The Antecedent is most false.** **Christ Matt. 7, when he commands to beware of Pseudoprophets, speaketh not to the Apostles alone, but even to the crowds. 1 Cor. 14, the Apostle writeth**: *"If to the sitter it be revealed, let the former be silent."* Item, *"let the rest judge."* But **those "others" were hearers, whom the Papists call Laics**. **1 John 4 it is said**: *"Prove the spirits, if they be from God."* **This John wrote not to a Bishop, but to Laics**. **Acts 15, in the first Council, not the Apostles only, but even Laics were.** *"It pleased,"* saith Luke, *"the Apostles and the Elders with the whole Church."*
+
+Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standeth — that some simple one not authorized be so excellently learned in the sacred letters, that more must be believed to him in a doctrinal cause or assertion, than to the Pope's declaration."* **For it standeth that more must be believed to the Gospel than to the Pope. If therefore such a learned one teach that some truth is contained in the Gospel, of which the Pope is ignorant or spontaneously erreth: it is clear whose judgement is to be preferred.**
+
+— ❦ —
+
+### Objection V. **But Lyrinensis writeth that faith must be munited against heretics in two ways — namely by the authority of the divine law, then by the tradition of the Catholic Church — because Scripture, on account of her altitude, is not received by all in one and the same sense. *Ergo* the Church's authority is greater than that of Scripture.**
+
+**Respondeo**: **Lyrinensis himself confesseth that the canon of Scripture is perfect**. Now if it is perfect (as truly it is perfect) — **whereto is need of the Church's tradition?** **If Scripture availeth not, unless the Church's authority accedes, certainly Scripture is charged with imperfection**. But **let Lyrinensis be, who prefers the Church's authority to Scripture — nay rather let us hear Augustine writing, Ps. 57**: *"Let us take away our papers out of the middle — let the codex of God proceed into the midst, hear Christ speaking,"* etc. And **De unitate Ecclesiae, cap. 3**: *"But as I began to say, let us not hear: this I say, this thou sayest — but let us hear: this saith the Lord. Certainly there are books of the Lord, to the authority of which we both consent, both believe, both serve. There let us seek the Church, there let us discuss our cause."* And in the same place: *"Let there therefore be taken away from the middle those things which against ourselves we alternately recite, not from the divine canonical books, but from elsewhere. Perchance shall some one ask, why then dost thou wish these to be taken from the middle? Because I will not by human documents, but by divine oracles, demonstrate the holy Church."* And again: *"In the sacred Canonical Scriptures let us inquire for the Church."*
+
+— ❦ —
+
+## Question 40. What is the controversy between us and the Papists concerning the gift of interpretation?
+
+**What is the controversy between us and the Papists concerning the gift of interpretation?**
+
+**The hinge of the controversy turneth on this**:
+
+**I.** That **the Papists contend the gift of interpretation is bound to Bishops and the Pontiff — whose it is to interpret Scripture**: when yet **Paul, 1 Cor. 12:11, expressly saith**: *"All these worketh one and the same Spirit, dividing severally as he wills."*
+
+**II.** That **they contend the interpretation of the Pontiff and Bishops is authentic, and that no inquiry may be made into it — but that simply, without any judgement, it must be approved**: when yet **1 John 4:1 it is said**: *"Prove ye the spirits."*
+
+**III.** That **they contend the interpretations of the Fathers must be received without any discrimen, whether they consent with the word of God or not** — when yet **the Fathers themselves appeal to Scripture, and will not that faith be had to them beyond what Scripture agreeth to**.
+
+— ❦ —
+
+*[Locus XXVIII Part 7 closes (Q37 causae orbitatis + Q38 paucitas nota + Q39 potestas Ecclesiae 5-fold + OBIECTIONES I–V on authority/interpretation/judgement/Bishops-only/Lyrinensis + Q40 controversia interpretationis 3-point). Part 8 (Q on bona Ecclesiae + Q on interior notae + Q on why God gathers + Q on Papa caput refuted 9-fold + Q on separation + Q on Roman Ecclesia not vera + closing OBIECTIONES) — closes Locus XXVIII — follows in T79. 561 top-level Q + 363 Obj rendered so far.]*
