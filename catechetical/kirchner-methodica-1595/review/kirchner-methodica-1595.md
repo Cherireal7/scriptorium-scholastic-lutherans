@@ -8366,4 +8366,80 @@ And let the explanation of **Theophylact be noted upon each place**: on **verse 
 
 — ❦ —
 
-*[Locus XXVII Part 12 closes (RESPONSIO ARG I: A proprietate corporis humani with 7 sub-parts on Christ's body-nature). Part 13 (ARG II–VII: ex ascensione + ex sessione + ex reditu + panem-signum + poculum-novum + 1 Cor 10:16 + spiritualis-coniunctio) follows in T66. 518 top-level Q + 284 Obj rendered so far.]*
+## Argument II. From the Ascension of Christ into Heaven. [*[T. 3, p. 347 and following*]*]
+
+### Objection II.1. **Christ ascended with his body into heaven. *Ergo* it cannot truly be given in the Supper.**
+
+**Respondeo**: **The visible ascension of Christ into heaven, and his invisible presence in the Supper administered on this earth, in no wise oppugn or overturn one another.** For **Scripture expressly teacheth both — that Christ visibly with his body ascended into heaven, and that the same body he distributeth with the bread of blessing in the Supper**. Each therefore certainly is true: **and as certainly Christ's body is truly present in the Supper, as certainly he ascended into heaven** — for **the word of God knoweth not to fail or lie**. This presence however is not done in a visible mode, but in an invisible, celestial, supernatural [mode] — and so each article stands safe.
+
+If the Adversaries would evince, that the ascension of Christ into heaven and the present exhibition of Christ's body in the sacred Supper cannot simultaneously be true — **they must show that these articles contradict one another and the word of God — which in eternity they shall not demonstrate**. **Scripture also saith not only that Christ ascended with his body into heaven, but that he penetrated the heavens — Heb. 4:14 — that he is made loftier than the heavens — Heb. 7:26 — that he ascended far above all the heavens, that he might fill all things — Eph. 4:10**. Such therefore now is the condition of the exalted body of Christ, **that the ascension into heaven not only taketh not away his invisible presence in the Supper, but even confirmeth it**.
+
+The Adversaries indeed contend that **the certain place of heaven — into which Christ ascended with his body — doth not admit that with that very body he also elsewhere in many places outside it he be** — but by no testimony of Scripture can they prove this.
+
+### Objection II.2. **But (they say) Acts 3:21 it is said: *"Christ must be received by heaven."* *Ergo* etc.**
+
+**Respondeo**: **But they do violence to the words of Peter**. **In the alleged place he treats not of a local inclusion or circumscription of the body of Christ in heaven, but of the ascension and governance, unto which — according to the assumed human nature, through the ascension into heaven and the session at the right hand of God — Christ was raised**. **Nor doth the Apostle say** (as also Oecumenius observed) **that heaven received Christ, but that Christ received or occupied heaven**. And if wholly the words of Peter simply were to be understood of local inclusion, circumscription, and comprehension, it would follow hence also that Christ's very divinity is contained and comprehended by heaven — for he saith Christ must receive heaven.
+
+To this **Beza himself in his greater annotations on the New Testament confesseth, that he passively interpreted this text, that in the Church there should stand perspicuous testimony against those** — with which words he calumniously gnaws at our doctrine, and endeavours to deform our confession — **who feign that Christ, that we may be united to him, is not otherwise than Jupiter Elicius to be drawn out of heaven**. Whether this becometh Beza, and whether on that account his interpretation is canonical, judgement resteth with the Church of Christ.
+
+Besides, this also is known — **that ἐκκλησία among the Greeks — Plutarch and others — is used of the occupation of a land or a town: where the local inclusion is in no wise signified, but dominion and power**. **Not therefore is this saying to be so distorted, as though the body of Christ be contained and preserved in heaven, so that in the sacred Supper he cannot with his body be present.** For **the words of institution attest the contrary**.
+
+— ❦ —
+
+## Argument III. From the Session at the right hand of GOD.
+
+### Objection III. **The body of Christ sitteth at the right hand of God. *Ergo* in the Supper it is not, nor can be, present on this earth?**
+
+**Respondeo**:
+
+**I.** **It must be demonstrated by the Adversaries, that to sit at the right hand of God is the same as to sit in some certain place** — which they shall not do in eternity. For **the right hand of God is nothing else than the virtue and power of God — Luke 22:69**: *"Hereafter shall the Son of Man be seated at the right hand of the power of GOD."* **But the power or virtue of God is no certain place of heaven, in which Christ with his body circumscribed sitteth.** **This is invincible truth.**
+
+**II.** Then it is incumbent on them to demonstrate, that **Christ on account of that session at the right hand of God, cannot in any way with his body be present on this earth — although he promised this — and exhibit it** — which itself in eternity they cannot do. Since therefore **it is confessed that Christ, according to his assumed human nature, is exalted to the right hand of the power of God — which is the very virtue and omnipotence of God itself (and not a certain and circumscribed place) — from the session at the right hand of God the true presence of his body in the Supper is not overturned, but rather more confirmed** — especially since **we have an express word about it in Christ's institution**. And this is so evident, that **Calvin himself, Eph. 1, writeth**: *"This place openly showeth, if any other, what the right hand of God signifieth — not some place indeed, but the power which the Father bestowed on Christ. Wherefore they do perversely who from the session at the right hand of God attempt to prove that Christ is only in heaven,"* etc.
+
+**And Chrysostom, on the session at the right hand of God, writeth *Hom. ad Antiochenos***: *"As often as we taste blood in the Supper, let us cogitate that we taste him who sitteth in the heavens and is adored by the Angels."* And **Hom. 5 ad Ephesios**: *"Remember, that this is the body and blood of him who resideth above the heavens."* And **Hom. 24 ad Corinth**: *"His very body he raised to the supreme throne — which yet he even exhibits to us, that we may manducate it."*
+
+— ❦ —
+
+## Argument IV. From his Return to the last judgement.
+
+### Objection IV. **He shall return from the heavens to the judgement of the living and the dead. *Ergo* his body is not present in the Supper, and is not distributed with the bread?**
+
+**Respondeo**: **The visible return of him to judgement in no wise destroyeth his invisible presence in the Supper.** For **these are most diverse things — to return visibly to judgement, and in the Supper, according to the words of institution, in an invisible, celestial and supernatural mode, to give his body with the bread of blessing**.
+
+Hence **the return of Christ to judgement — 2 Thess. 1:7 — is called revelation of Christ from heaven — 1 Tim. 6:15 — showing of Christ — 2 Tim. 4:8 — appearance**. **Which vocables are not read used concerning the presence of the body of Christ in the Supper.**
+
+— ❦ —
+
+## Argument V. **Christ himself called the bread of the sacred Supper a memorial-sign of his body, saying**: *"This do in remembrance of me."* ***Ergo* rightly it is said, that in the words of Christ there is a Metonymy and a sign — that is, that the bread receiveth the name of the thing signified — that is, of the body of Christ.**
+
+**Respondeo**:
+
+**I.** **It is a dream and figment of the Adversaries** — that Christ by the word *memoria* or *recordatio* expounded his prior words (*this is my body*). The reason is manifest. Because **Christ by these words — *"this do in my recordation"* — treateth not of the substance of the Supper, which standeth of two things, bread and the body of Christ, wine and the blood of Christ (which by the prior words of institution he described), but of the salutary use of the Supper**. And in the former part, **the body cannot be the same as the sign of the body — because there is added *"which is delivered up for you"*: but not the sign of the body or a memorial-sign of the body of Christ, but the very body itself of Christ was delivered up for us**.
+
+**II.** Although the Fathers sometimes called the Supper *the memory of the death of Christ*, yet hence in no wise followeth that **the end and substance of the sacred Supper are one and the same** — since **Christ these two hath distinguished with words of institution, and both hath expressed, and willed to be accurately described to us**.
+
+**III.** **Memory is said not always of an absent thing, but often even of a present thing.** The faithful daily pray: **remember me, God** — but is God on that account absent from them? And **Ex. 20:24 it is said**: *"In every place in which I shall have made the memory of my name, I shall come unto thee, and shall bless thee."* **Is he on that account not present in that place where his memory is?** And **Oecolampadius himself acknowledged and professed the nullity of this argument** — that **it is nothing, since the memory is not only of the absent, but even of the present**.
+
+— ❦ —
+
+## Argument VI. **The cup is named the New Testament, or the covenant in the blood of Christ — which can be received otherwise than figuratively, since it is the sign or Sacrament of the New Testament, or because the sign receiveth the name of the thing signified. *Ergo* etc.**
+
+**Respondeo**: **Although Luke recounteth the words of institution a little otherwise than Matthew and Mark, yet he doth not change or take away the sentence**. For **the same is, and the same must be, the sentence of Luke's words as of Matthew and Mark — namely**: *"This is my blood which for many is poured out unto the remission of sins"* — **which words admit no Metonymy of sign and thing signified: for not the sign of the blood of Christ, but the true and proper blood of Christ, was poured out for us**.
+
+Although also **he nameth the cup *the New Testament*, yet by the same very thing also *from the blood of the New Testament*, he doth not make of the blood a sign**. The reason is manifest: **because the New Testament was truly acquired and sealed not by the sign of the blood, but by the very blood of Christ itself**. Just as **the very words of Luke — *"in my blood"* — exclude figure by the judgement of all sound men**. For **the proper blood is not the sign of the blood, but the blood itself**.
+
+**The cup therefore he calleth the New Testament — not that in it the sign of the absent blood of Christ is given: but because that which in the Supper with the produce of the vine is exhibited and perceived, is the very true blood of Christ, which is the blood of the New Testament, poured out for the sins of the world, by which the New Testament was sealed and confirmed.**
+
+— ❦ —
+
+## Argument VII. **1 Cor. 10:16 Paul saith**: *"The bread which we break, is it not the participation or communication of the body of the Lord?"* — that is, sign or Sacrament, that we are inserted into Christ, and united more and more. ***Ergo* etc.**
+
+**Respondeo**: **Paul saith not that the bread as an external sign or Symbol causes those who manducate it to be inserted and united with Christ, but that it is a communication or participation of the body of Christ** — just as neither doth he say, that the bread is an external sign or symbol whereby those who eat of it remain in the communion of the body of Christ, that is, of the Church — as some interpret those words. For **here he treateth of that very body of which the words of institution speak**.
+
+**Great also is the discrimen between these phrases**: **The communion of the body of Christ** — and — **the communion of the efficacy of the body of Christ**; **The participation of the body of Christ** — and — **the participation of the communion or union with the body of Christ** — all sound men easily understand.
+
+**In sum, the Apostle treateth not of the spiritual communion, but of the Sacramental participation of the body of Christ**: **otherwise he would upbraid the unworthy in vain — since they in no wise are made partakers of the spiritual communion**. If therefore **they wish to place a trope or figure in the word *body*, so must the words of Paul be framed**: *"The bread of blessing is the participation of the sign or figure of the body of Christ."* If they refer the trope to κοινωνία *communion or participation*, they must concede that the word *body* is properly put. If however properly used, 1 Cor. 10, they concede — willy nilly they must concede also that in the words of institution it is used in its proper signification.
+
+— ❦ —
+
+*[Locus XXVII Part 13 closes (RESPONSIO ARG II–VII: ascensione, sessione, reditu, panem-signum, poculum-novum, 1 Cor 10:16). Part 14 (ARG VIII–XIV: spiritualis-coniunctio, corporalem-situm, 2 Cor 5:16, Gal 4:9 elementa, duplex-corpus, divellere-verba, absurda-sequuntur) follows in T67. 518 top-level Q + 290 Obj rendered so far.]*
