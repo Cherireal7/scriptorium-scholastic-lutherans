@@ -8594,4 +8594,72 @@ As for the fact that **the Papists enclose the host or the consecrated bread in 
 
 — ❦ —
 
-*[Locus XXVII Part 15 closes (RESPONSIO ARG XV–XXII on pronomen, quod-quatenus, pro-significat, Capernaitica, Augustine Ps 98, patres-signum, relinquo-mundum, panis-adorandus). Part 16 (Q on consecration of bread + wine + Q on transubstantiation + Q on Missa propitiatoria + Q on Cena pro mortuis) follows in T69. 518 top-level Q + 305 Obj rendered so far.]*
+## Question 42. What is your sentence concerning the consecration or benediction of the bread and wine — as Paul calleth it, 1 Cor. 10:16?
+
+**What is your sentence concerning the consecration or benediction of the bread and wine — as Paul calleth it, 1 Cor. 10:16?**
+
+**Our confession and doctrine concerning this part standeth firm** [*[T. 6, p. 99*]*] — that **by no dictum or deed of any man, but by the sole words and institution of Christ, it is effected that his body be present in the Supper, be exhibited and perceived**. For **the words of Christ were not only efficacious in the first action of the Supper, but even now they thrive — wherever according to the institution of Christ the Supper is legitimately administered, they efficaciously perform what they promise**.
+
+Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned that table: he himself also consecrateth it: the priestly mouth pronounceth the words, and by the power and grace of God they work."* The same also teacheth **Irenaeus, book 4, cap. 34, and book 5, Ps. 29:5**. **The idolatric consecration of the Papists we diserte damn.**
+
+— ❦ —
+
+## Question 43. What is to be established concerning that Papist transubstantiation? [*[T. 6, p. 519*]*]
+
+**What is to be established concerning that Papist transubstantiation?**
+
+**This is deservedly reprobated and damned.**
+
+**1.** Because **Christ taught it not in the words of institution**.
+
+**2.** Because **Paul, even after the benediction, calleth the bread bread**.
+
+**3.** Because **it was first sanctioned around A.D. 1215 in the Lateran Council by Innocent III** [*[T. 2/1, p. 264*]*].
+
+**4.** Because **Scotus, Cameracensis, and other Scholastics expressly confess, that transubstantiation can neither from the sayings of Scripture, nor from the Symbols of faith, nor from the writings of the orthodox Fathers, be taught**.
+
+**5.** Because **the Greek Church, 100 years before, at the time of the Council of Florence, willed not to receive and approve it**.
+
+**6.** Because **the species or shadow of the bread — which they feign to be enclosed in a pyx, carried around, comprehended, perceived, and ground by the teeth — cannot be**.
+
+— ❦ —
+
+## Question 44. By what foundations is the doctrine of the Papists concerning the propitiatory Mass, or oblation of the Supper of the Lord for the living and the dead, evinced to be false?
+
+**By what foundations is the doctrine of the Papists concerning the propitiatory Mass, or oblation of the Supper of the Lord for the living and the dead, evinced to be false?** [*[T. 3, p. 5; T. 3, p. 380; T. 5, p. 296; In the Articles of Schmalcald, Part 2, art. 2; T. 2/1, pp. 451 and following, unto 460*]*]
+
+**I.** Because **the words of institution have no letter or apex, by which it might be taught, that the Supper of the Lord ought to be offered for the living and the dead**.
+
+**II.** Because **the Apostles and the Apostolic Church plainly know not this Mass or oblation of the Supper: nor did they ever teach the Supper to be an oblation** — as this from their writings is clear, and the contrary from the same in no wise can be proved.
+
+**III.** Because **Christ himself in his own sacred Supper did not offer his body and blood to the Father, but with bread and wine gave to his disciples to eat and drink**.
+
+**IV.** Because **Christ in the Supper commandeth to eat and drink, but not to offer for the living and the dead**.
+
+**V.** Because **there is one host for sins, by which we are sanctified — namely the oblation of the body of Jesus Christ made once for all on the Cross — Heb. 10**.
+
+**VI.** Because **to offer Christ pertaineth to no man or angel** — for **he himself saith John 17:19**: *"For them I sanctify myself"* — that is, offer myself; and **John 10:18**: *"I have power to lay down my soul"* — that is, to offer for the sins of the world.
+
+**VII.** Because **Rom. 3:25 it is expressly said**: *"That God set forth Christ as a propitiation through faith in his blood."* **A figment therefore is whatsoever concerning the propitiatory Mass the Papists hand down.**
+
+**VIII.** Because **the Papists in their Mass re-crucify Christ, and thereby redeem not the salvation of men, but goods to themselves** [*[…p. 88; p. 285*]*].
+
+— ❦ —
+
+## Question 45. Can and ought the sacred Supper in no way be offered for the dead?
+
+**Can and ought the sacred Supper in no way be offered for the dead?** [*[T. 6, pp. 97, 118*]*]
+
+**Plainly in no way.**
+
+**I.** **For it is instituted for the living, not for the dead.** For **Christ saith not: *"Offer my body for the dead,"* but *"take, eat, this is my body; drink, this is my blood."*** Which the dead cannot do.
+
+**II.** Because **Christ commanded the communicants his recordation or memory — but the dead cannot announce the death of the Lord**.
+
+**III.** Because **neither did the Apostles and the Apostolic Church believe or teach that the Supper of the Lord is to be offered for the dead**.
+
+**IV.** Because **Purgatory — from which souls are feigned to be redeemed by the oblation of the Mass — is a mere figment, which by no dictum of Scripture can be proved, but is borrowed from Plato and Virgil the Ethnics**.
+
+— ❦ —
+
+*[Locus XXVII Part 16 closes (Q42 consecratio + Q43 transubstantiation 6-fold refutation + Q44 Missa propitiatoria 8-fold refutation + Q45 Cena pro mortuis 4-fold refutation). Part 17 (RESPONSIO ad PONTIFICIORVM ARGVMENTA on Missa — ARG I–X: altare, Antichristi sacrificium, Sacerdotium, visibile-sacrificium, hoc facite in commemorationem, Melchisedec, hoc facere = sacrificare, Pontifex offert dona, Malachiae oblatio munda, semper in Ecclesia fuisse) follows in T70. 522 top-level Q + 314 Obj rendered so far.]*
