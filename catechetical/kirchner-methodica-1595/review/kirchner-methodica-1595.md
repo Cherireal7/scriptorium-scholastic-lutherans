@@ -10294,4 +10294,208 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-*[Locus XXX De Potestate Clavium Part 1 closes (Q1–Q19 on clavis solutionis: definition/institution/administrators/subjects/properties + no reserved cases + not bound to Lent + not depending on contrition + contra Novatianos + OBIECTIO Deus solus + impenitents null + Papist reserved cases genesis + not iudicial act + no priest intentio + public absolutio + whole assembly). Part 2 (clavis ligans + Papist misinterpretation on deposition + publica excommunicatio + process/form/ceremonies + reconciliation in primitiva Ecclesia) follows in T84. 628 top-level Q + 386 Obj rendered so far.]*
+## Question 20. What is the binding key?
+
+**What is the binding key?**
+
+**The binding key is a spiritual power instituted by Christ, whereby the sins of the contumacious and impenitent are retained, and they are adjudged unto the just penalties of the wrath of God and unto eternal condemnation — until they do penitence, and are seriously converted unto God.**
+
+— ❦ —
+
+## Question 21. Is this also one?
+
+**Is this also one?**
+
+**In the highest degree: for one is the binding key and power given and instituted by Christ.**
+
+— ❦ —
+
+## Question 22. Who instituted it?
+
+**Who instituted it?**
+
+**Jesus Christ, Matt. 18, John 20. It is not therefore, as a human figment, to be condemned — since it is clear that it hath been delivered by Christ himself to the Church, not that she should hide it, but that she should draw it forth against the impenitent and use it in earnest.**
+
+— ❦ —
+
+## Question 23. Who ought to use it?
+
+**Who ought to use it?**
+
+**The Ministers who are legitimately called by the Church, and to whom the Ministry is entrusted.**
+
+— ❦ —
+
+## Question 24. On whom ought they to use it?
+
+**On whom ought they to use it?**
+
+**On the contumacious, who do no penitence, but beyond all faithful and manifold admonitions and rebukes proceed in sins: Christ absolved not the contumacious Pharisees, but rather bound them — as also the Apostles. For the Gospel consoleth only the penitent, not the contumacious and impenitent sinners.**
+
+— ❦ —
+
+## Question 25. What are its properties?
+
+**What are its properties?**
+
+**I. That it concerneth only sins by which God is offended, and not external and civil causes**: for **of the retention of sins, not of the deposition of Emperors and kings, doth Christ speak — as, on the contrary, the Pontiff abuseth it**.
+
+**II. It is administered by words alone, and not by corporal force. As the Pontiff on the contrary hath deposed Emperors and Kings by external force.**
+
+**III. God himself through this is efficacious, and bindeth the impenitent, and retaineth, and remitteth not to them their sins — until they be converted and humbled in the sight of him,** etc.
+
+— ❦ —
+
+## Question 26. Wherefore is it instituted?
+
+**Wherefore is it instituted?**
+
+**For the terror of all the impious, contumacious, and impenitent sinners: For GOD sporteth not, when such a sinner in heaven he bindeth.**
+
+**Let every one therefore stand in awe of the wrath of God — maturely do penitence — lest he perish in the way. Psal. 2.**
+
+— ❦ —
+
+## Question 27. Do they rightly, who leave to Ministers only the key of absolution, but the other of binding they deny to them, etc., and contend that all without distinction are to be absolved?
+
+**Do they rightly, who leave to Ministers only the key of absolution, but the other of binding they deny to them, etc., and contend that all without distinction are to be absolved?**
+
+**By no means: But they grievously sin: for Christ delivered the key both of binding and of absolution — and both that, and this, he willeth to be used, nor is it lawful for any creature to abrogate this.**
+
+— ❦ —
+
+## Question 28. What if the Ministers themselves of their own accord cast it away, that they may not incur the hatred of men?
+
+**What if the Ministers themselves of their own accord cast it away, that they may not incur the hatred of men?**
+
+**They shall render account of this to God with great loss — that on account of the belly and softness they have cast away the institution of Christ.**
+
+— ❦ —
+
+## Question 29. What if the Minister out of private affection to any one deny absolution, and bind him who is to be absolved?
+
+**What if the Minister out of private affection to any one deny absolution, and bind him who is to be absolved?**
+
+**He grievously sinneth: for not private affections, but the institution of Christ ought here to prevail — and he who here intermixeth private affections, foully abuseth his own Ministry and the power of the keys.**
+
+— ❦ —
+
+## Question 30. Is the interpretation of the Roman Pontiff sound and orthodox, wherewith he saith: that "whatsoever" is to be understood not only of sin, but also of the deposition of Emperors and kings?
+
+**Is the interpretation of the Roman Pontiff sound and orthodox, wherewith he saith: that "whatsoever" is to be understood not only of sin, but also of the deposition of Emperors and kings?**
+
+**By no means: for Christ speaketh of sins, and not of the deposition of Emperors or kings from their own dominion — as this is manifest to any one, and needeth no proof.**
+
+— ❦ —
+
+## Question 31. What is public excommunication?
+
+**What is public excommunication?** [*[T. 1/1, p. 264, 165; T. 4/1, p. 861, 802*]*]
+
+**It is the segregation of a public sinner who, oft and much admonished, yet contumaciously in sins persevereth — whereby before the whole Church it is signified, that he is not a member of Christ, and to the communication of the Sacraments is not to be admitted.**
+
+— ❦ —
+
+## Question 32. Who instituted it?
+
+**Who instituted it?**
+
+**Jesus Christ, Matt. 18, John 20.**
+
+— ❦ —
+
+## Question 33. Who ought to execute this excommunication?
+
+**Who ought to execute this excommunication?**
+
+**After the person hath been named to the whole Church or to the elders, or to the Ecclesiastical Consistory — all admonitions in order made, but in vain — then the Consistory itself can excommunicate the same, or deliver him to the pastors to be excommunicated.** So **Paul with the consent of the Corinthian Church excommunicateth the incestuous man, 1 Cor. 5:3–5**. And **the same Christ teacheth, Matt. 18, prescribing distinct degrees of admonitions which are to be observed, before it be told to the Church, and that he be held as a Gentile and publican**.
+
+— ❦ —
+
+## Question 34. On whom is this excommunication to be used?
+
+**On whom is this excommunication to be used?**
+
+**On those who publicly sin, and give no place to any preceding admonitions — whether they be heretics and false doctors, or whether they live inordinately and scandalize the whole Church. 1 Cor. 5:11**: *"Now I have written to you, not to mingle yourselves, if he who is named a brother among you is a fornicator, or a covetous person, or an idol-server, or an evil-speaker, or a drunkard, or a rapacious man — with such not even to take food."*
+
+— ❦ —
+
+## Question 35. Is this binding or excommunication also efficacious?
+
+**Is this binding or excommunication also efficacious?**
+
+**This sufficiently testifieth 2 Cor. 2, when Paul and the Corinthians had excommunicated the incestuous man — he was in the highest degree grieved in Spirit, whence Paul mandateth that he be forgiven, and raised up by consolations, lest perchance by more abundant sadness he be swallowed up.**
+
+— ❦ —
+
+## Question 36. Wherefore is this excommunication to be used?
+
+**Wherefore is this excommunication to be used?**
+
+**That such contumacious sinners may be shamed, and come to themselves out of the snares of the Devil, 2 Tim. 2:25–26: that the rest may have fear. 1 Tim. 5:20.**
+
+— ❦ —
+
+## Question 37. Of the Process.
+
+**Of the Process.**
+
+**This process is to be observed: that he who is such, first be privately admonished by the Ministry, and that not once only.**
+
+**Then if the private admonitions have found no place, that he be referred and led to the elders or the Ecclesiastical Consistory.**
+
+**But if he who is such heareth neither the Elders, nor the Senate, or the Ecclesiastical Consistory — then to the whole Church he is to be indicated.**
+
+**This ought to be done either through the Consistory itself, or through the Pastors to whom it is enjoined by the Consistory.**
+
+— ❦ —
+
+## Question 38. What form of excommunication ought to be used?
+
+**What form of excommunication ought to be used?**
+
+**No certain form is prescribed: yet it can conveniently be gathered from the words of Paul, 1 Cor. 5. Briefly: Excommunication ought to be done in the name and with the power of the Lord Jesus Christ.**
+
+**Then the sinner ought to be publicly named before the Church.**
+
+**Thirdly, such a one ought to be delivered to Satan unto the destruction of the flesh, that the Spirit may be saved in the day of the Lord Jesus.**
+
+**Fourthly, this excommunication ought to endure, until he who is such do serious penitence: as soon as he shall have done penitence, he ought to be received into grace and reconciled to the Church.**
+
+— ❦ —
+
+## Question 39. What ceremonies may be employed?
+
+**What ceremonies may be employed?**
+
+**I. In certain Churches the person to be excommunicated is stationed in a conspicuous place, that by all he may be discerned.**
+
+**II. The excommunication is denounced through the Minister to whom this is enjoined.**
+
+**III. When called forth, the guardian of the temple leadeth the excommunicate from the temple.**
+
+**IV. The Prefects in the prefectures publicly proclaim him — that he be admitted to no banquets and no honourable assemblies.**
+
+**V. And those who with him take food or drink, or receive him into hospitality, are punished.**
+
+**VI. Meanwhile nevertheless it is permitted to him to approach the temple, to hear sermons — yet in such wise, that alone in a certain place he stand and that he go forth from the temple under the administration of the Supper of the Lord.** Yet **nothing to these is prescribed by any**.
+
+— ❦ —
+
+## Question 40. How in the primitive Church were the excommunicate reconciled and restored to the Church?
+
+**How in the primitive Church were the excommunicate reconciled and restored to the Church?**
+
+**First they were examined by the Bishops in the presence of the brethren — those who were such — as is in Cyprian, lib. 3, epist. 11. In this examination they were diligently explored, and afterward publicly confessed and deprecated their sin.**
+
+**Then after confession they were publicly absolved — as Tertullian writeth in the book *De poenitentia* — and hands were laid upon them.**
+
+**Thirdly: Hence they were admitted to the *synaxis* [the sacred assembly], and participated of the Supper of the Lord.**
+
+**Fourthly: To these things acceded the joy of the whole Church, and giving of thanks to God, for such a sinner converted.**
+
+**This custom most Churches, in which this reception of the excommunicate is in use, do today imitate.**
+
+— ❦ —
+
+*[Locus XXX De Potestate Clavium TRULY COMPLETE — rendered in 2 tranches (T83–T84). 40 top-level Q + 1 Obj total. 649 top-level Q + 386 Obj rendered so far. Locus XXXI follows in T85 at OCR line 38069.]*
