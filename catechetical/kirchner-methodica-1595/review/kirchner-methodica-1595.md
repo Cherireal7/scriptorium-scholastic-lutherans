@@ -8881,3 +8881,149 @@ And **the blasphemies indeed of the Papists are sufficiently palpable and easily
 — ❦ —
 
 *[Locus XXVII De Sacra Domini Coena is TRULY COMPLETE — the largest locus in Methodica, spanning ~6067 OCR lines and rendered in 18 tranches (T54–T71). Total Locus XXVII: 48 top-level Q + numerous OBIECTIONES clusters (indignorum manducation × 14 + ore manducation × 3 + Spiritual-only × 5 + particles × 5 + predication × 4 + Sacramental union × 2 + RESPONSIO ARG I–XXII on body-nature/place/mode + Missa Papist ARG I–X + cup-interdict ARG I–V + inclusio × 3 + final 9-point Sacramentarian defects) ≈ 60+ Obj units. 522 top-level Q + 337 Obj rendered so far. Locus XXVIII De Ecclesia Catholica vel Christiana follows in T72.]*
+
+— ❦ —
+
+# Locus XXVIII. Of the Catholic or Christian Church
+
+### *De Ecclesia Catholica vel Christiana*
+
+## Question 1. Hath God on this earth a Church or a people, of whom he taketh singular care?
+
+**Hath God on this earth a Church or a people, of whom he taketh singular care?**
+
+**Very much so.** For **on this account he manifested himself to the first parents, to the Patriarchs, to the Prophets, and by his Son — that he might gather to himself a certain people upon the earth, by whom he might rightly be known, worshipped, and celebrated**. **The same the mission of the Son of God into this world attesteth: item the mission of the Apostles into the whole world to preach the Gospel to every creature — Mark 16 — that by this preaching, from Jews and Gentiles, they might gather a Church to the Lord. Item, the conservation of the Ministry unto the present day, Matt. 28, evinceth [it].**
+
+— ❦ —
+
+## Question 2. What signifieth the word "Ecclesia"?
+
+**What signifieth the word "Ecclesia"?** [*[T. 4, p. 412*]*]
+
+**Properly it signifieth an assembly convoked, or a body convoked** — **Acts 19:38**: *"When he had said these things, he dismissed the assembly."* **The vulgar taketh it of the temple or building — but it signifieth the congress or communion of the Saints, of the faithful Christians.**
+
+— ❦ —
+
+## Question 3. Why is the Church called *holy*?
+
+**Why is the Church called *holy*?**
+
+**On account of the holiness of Christ, which is imputed to her through faith, and on account of the Word and Sacraments through which she is sanctified, and on account of the daily sanctification or extirpation of sin, which in the faithful through the Holy Spirit is begun in this life, and shall be perfected in the future life** [*[T. 7, p. 264*]*].
+
+— ❦ —
+
+## Question 4. How manifold therefore is the sanctity of the Church?
+
+**How manifold therefore is the sanctity of the Church?**
+
+**Twofold**: **The imputed** — on account of Christ, through faith — **1 Cor. 1; Eph. 5**. And the **inchoate** — for **the Holy Spirit sanctifieth the faithful, createth in them a new and holy heart, giveth them sanctity and righteousness in which they walk**. But **this sanctity is not, as the former, perfect, but only inchoate — nor consisteth it in human ceremonies, mandates and constitutions, as the Pope with his contends**.
+
+— ❦ —
+
+## Question 5. Why is she called *communion of the Saints*?
+
+**Why is she called *communion of the Saints*?**
+
+**On this account — because in the visible Church, which is gathered by the Word and Sacraments, are many true and living members**, which **all, on account of Christ, are members of one Church, have one Spirit, one hope, and by the bond of the Spirit are compacted and connected in the Word into one body** — **Eph. 4:3–4**: *"Solicitous to preserve the unity of the Spirit in the bond of peace. One body and one Spirit — as ye are called in one hope of your calling."*
+
+— ❦ —
+
+## Question 6. Why is she called *Catholic*?
+
+**Why is she called *Catholic*?** [*[T. 7, p. 171*]*]
+
+**Catholic is the same as *universal Church*.** **So the Church is called, because through the whole world she is dispersed here and there, and is not bound to any certain place, region, or person**. **In every place of the whole world in which there are men sincerely believing in Christ, they are members of this Church of him** — **Acts 10:34**: *"In truth I have found, because God is not an accepter of persons, but in every nation, he that feareth him, and worketh righteousness, is accepted to him."* **Rom. 10:12**: *"For there is no distinction of Jew and Greek: for the same Lord is Lord of all, rich unto all that invoke him."*
+
+— ❦ —
+
+## Question 7. Not therefore is the Catholic and the Roman Church the same?
+
+**Not therefore is the Catholic and the Roman Church the same?**
+
+**By no means.** For **the Catholic Church is all truly the faithful, here and there dispersed through the whole compass of the earth**. But **the Roman Church is the Pope and the men living at Rome, and those acknowledging the jurisdiction of the Pope, and embracing his confession**. **The Apostolic Symbol maketh no mention of the Roman Church** — much less doth it say **that the Catholic and the Roman Church are one and the same, as the Papists contend**.
+
+— ❦ —
+
+## Question 8. What is the Church?
+
+**What is the Church?** [*[T. 3, p. 91*]*]
+
+**The visible Church, generally speaking, is a company of men called through the word of Christ and the Sacraments, in which company Christ by his Holy Spirit is efficacious, and always regenerateth and sanctifieth some unto eternal life** — in which company however, as concerneth external convocation or congregation, there are also many hypocrites.
+
+— ❦ —
+
+## Question 9. Are there several Churches of God on this earth, or one?
+
+**Are there several Churches of God on this earth, or one?**
+
+**By no means [several].** **One holy, Christian, Catholic Church there hath been from the beginning of the world** — as **one God, one faith, one Mediator, and one head of the same, Eph. 4:5 — one body, one Spirit**.
+
+— ❦ —
+
+## Question 10. Why then is it said that there are particular Churches, and that there is a universal Church?
+
+**Why then is it said that there are particular Churches, and that there is a universal Church?**
+
+**Particular Churches are called the Church of some certain place** — as of Jerusalem, of Antioch, of Ephesus, etc. — which yet are members of the whole body, or of the universal Church. But **the universal Church is called all the truly faithful of the whole world — in whatever place, and in whatever time they have been, were, or live**. **No other discrimen therefore is there between particular and universal Church, than that which is of the whole body and its members. For all the faithful pertain to this Catholic or universal Church.**
+
+— ❦ —
+
+## Question 11. But why is the Church called partly visible, partly invisible?
+
+**But why is the Church called partly visible, partly invisible?** [*[T. 7, pp. 125, 126, 127, 128; …p. 5 f. b*]*]
+
+**By the visible Church is understood the whole company of the Church, in which are good and evil, faithful and unfaithful, wheat and tares — Matt. 13 — clad in the wedding-garment, and those lacking it — Matt. 22:11, 14. Isa. 61:9**: *"And their seed shall be known in the nations,"* etc. For **in general that company, which acknowledgeth the word of God and the Sacraments, can be discerned with the eyes** — although **not all in that company are faithful and holy, but even many in it lie hid as unfaithful. And it is called *visible* on account of the men who are members of the Church, who can be seen; and on account of the exercises of piety, which are seen by all in the Church; and finally, because it hath insigne marks, by which it can be discerned from the unfaithful — namely, the word of God and the right use of the Sacraments**. **For wherever the word of God soundeth, there is a Church.**
+
+When however the Church is said to be **invisible**, **only the faithful and elect are understood — in whom the Holy Spirit, as in his temple, dwelleth. These are not discerned with the eyes of the flesh, but are known to God alone, who knoweth who are his own — 2 Tim. 2:19**.
+
+And on this account we say: **I believe the Church** — that is, we attest that we doubt not that, in that company in which the word of God is preached and the Sacraments are legitimately administered according to the institution of Christ, God hath his holy members — whose hearts and minds are truly illuminated by the Holy Spirit, who are sanctified, and are led to Christ Jesus through faith, and are truly ingrafted into him.
+
+**In sum, the Church is called invisible for these reasons**:
+
+**1.** Because **the Lord alone knoweth who are his own**.
+
+**2.** Because **the whole Church, which from the beginning of the world in all ages and places hath been, no most sharp-eyed Argus hath ever seen**.
+
+**3.** Because **the external and visible Church is often changed** — now it grows, a little after decays; now it flourishes, a little after languishes; now lies hid, now appeareth — as the moon now waxes, now wanes.
+
+**4.** Because **the Symbol saith we believe the Catholic Church**. But **faith is of things that are not seen**.
+
+**5.** On account of **the cross and afflictions**. For **the faithful under the cross are wondrously led by God, that before the world they seem not to be those whom they truly are — as Lazarus, Luke 16**.
+
+**6.** Because **on account of the multiple adhering infirmity, even the very saints can with difficulty establish that they are fellow-citizens of the saints and domestic of God**. And because **the wisdom of no man can sufficiently discern hypocrites from the truly faithful — since in external actions we simulate the highest sanctity and righteousness**.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But the Church is a city set on a mountain. *Ergo* it is not invisible.**
+
+**Respondeo**: **When in general the Church is treated of, it is certain that that company, in which the word of God is preached, is visible and conspicuous. In the meanwhile however this also is certain — that the truly faithful in this company the Lord alone knoweth — 2 Tim. 2:19**.
+
+— ❦ —
+
+### Objection II. **But Matt. 18:17 it is had**: *"Tell the Church."* ***Ergo* it is necessary that it be visible.**
+
+And this saying in general concerning the Church speaketh — which is a company called by the word and the Sacraments — and treateth not in specie of the sole truly faithful. For these, as concerneth the faith which in their heart lieth hidden, cannot be known by men.
+
+— ❦ —
+
+### Objection III. **Certain Epistles are written to diverse Churches. Item, the Churches propagated by the Apostles were visible. *Ergo* no Church is invisible.**
+
+**Respondeo**: **From the particular to the universal the argument availeth not.** It followeth not: some Churches were visible. *Ergo* the universal Church similarly is conspicuous or visible. **First**, those Churches to which the Apostles wrote were particular. **We teach the Catholic Church to be inconspicuous.** Besides, those Churches were mixed. **We speak of the Church of the elect.** To this — where now are those Churches to which the Apostles wrote?
+
+— ❦ —
+
+### Objection IV. **If the Church is invisible, by no argument can it stand that any Church hath perished. *Ergo* etc.**
+
+**Respondeo**: **The invisible Church, which is the multitude of the elect, can never perish**: that this hath perished by no argument shall be proved. **But we say that visible Churches perish thus, when the public ministry of the word — which is the soul of the visible Church — is removed or corrupted**. **Yet Christ can nonetheless preserve his elect there where the public ministry of the word is either removed or corrupted — as in the time of Elias**. For **wherever two or three are gathered in the name of Christ — whether in public or in private places — there is the Church**.
+
+— ❦ —
+
+### Objection V. **One is the Catholic Church. *Ergo* the Church is not distinguished into visible and invisible.**
+
+**Respondeo**: **That distinction of the Church into visible and invisible taketh away the truth of the Church no more than if it be distinguished into triumphant and militant, into particular and universal**. For **the invisible Church pertaineth to that which we call visible, and wherever this is, we believe that to be also**. **The Church is called visible on account of the external conversation, which falls under the sense of the eyes. It is however invisible and is called so, on account of the elect, or truly Saints, whose faith cannot be discerned with the eyes**. **In the visible Church, many are called — who yet do not all do penitence and truly believe: but the invisible Church admits none but Saints, or living members of Jesus Christ**. **The Catholic Church therefore, which we believe, is the company of all elect, whoever from the beginning of the world have been, and unto the end shall be — and on that account is called *holy* and *communion of the Saints*. To this communion of Saints no impious, no hypocrites, pertain**.
+
+— ❦ —
+
+*[Locus XXVIII Part 1 closes (Q1–Q11 + OBIECTIONES I–V on visibility). Part 2 (Q12 vera vs falsa Ecclesia + Q13 who gathers + Q14 means + Q15 impulse + Q16 ex quibus + Q17 Iudaei + Q18 Turcae + Q19 Philosophi + Q20 Pope not vera + Q21 notae verae Ecclesiae) follows in T73. 533 top-level Q + 342 Obj rendered so far.]*
