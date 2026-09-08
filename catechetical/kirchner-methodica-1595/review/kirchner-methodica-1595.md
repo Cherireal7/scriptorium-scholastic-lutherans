@@ -10498,4 +10498,150 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-*[Locus XXX De Potestate Clavium TRULY COMPLETE — rendered in 2 tranches (T83–T84). 40 top-level Q + 1 Obj total. 649 top-level Q + 386 Obj rendered so far. Locus XXXI follows in T85 at OCR line 38069.]*
+# Locus XXXI. Of Penitence
+
+### *De Poenitentia*
+
+## Question 1. How is the word *poenitentia* used in the sacred letters?
+
+**How is the word *poenitentia* used in the sacred letters?**
+
+**Twofold: First, for the whole conversion of man unto God, which consisteth of contrition and faith. Jer. 18:8**: *"If that nation shall have done penitence,"* etc. And **cap. 31, v. 19**: *"For after that thou didst turn me, I did penitence,"* etc.
+
+**Then: for the other part of penitence — namely contrition, Mark 1:15**: *"Do penitence and believe the Gospel."* **Luke 24:47**: *"And in his name shall be preached penitence and remission of sins."*
+
+— ❦ —
+
+## Question 2. What is penitence or to do penitence?
+
+**What is penitence or to do penitence?** [*[T. 7, p. 398*]*]
+
+**To do penitence is seriously to acknowledge sins, to stand in awe of the wrath of God against sins, from the heart to be contrite and to grieve on account of sins**: and on the contrary, **to embrace with firm faith the mercy of God in Christ promised, to console oneself with it, and concerning the propitious will of God toward sinners and the gratuitous remission of sins on account of Christ to doubt nothing**. Which faith afterward the fruits worthy of penitence follow, and ought to follow, Luther, Genesis 50, Tom. 4, fol. 250.
+
+— ❦ —
+
+## Question 3. How many are the parts of true penitence?
+
+**How many are the parts of true penitence?**
+
+**Two: Contrition or the acknowledgment of sin, and faith in Christ, embracing the gratuitous remission of sins.** So **Christ himself divideth penitence, Mark 1**: *"Do penitence and believe the Gospel,"* just as **Luke 24**. And thus also **the Augustan Confession, article 11**, enumerateth the parts of penitence, T. 4, Latin, p. 44, 777, 768.
+
+— ❦ —
+
+## Question 4. What is to be judged of that division, whereby three parts of penitence are constituted — contrition, faith, and new obedience?
+
+**What is to be judged of that division, whereby three parts of penitence are constituted — contrition, faith, and new obedience?**
+
+**If any without evil guile so speak, that division can be tolerated.**
+
+**But properly speaking, it is certain that there are only two parts of penitence, as hath now been demonstrated.** For **new obedience is properly the fruit and consequent, not the part of penitence** — as **by John the Baptist, Matt. 3, it is called the fruit of penitence**. Nor **is the fruit part of the branch — for the tree and the fruit are not the same**. Besides that **this partition, if it be urged, introduceth manifest absurdities and falsehoods — namely, that good works are necessary unto salvation**. For thus indeed some argue:
+
+***All* penitence is necessary unto salvation.**
+
+**New obedience is a part of penitence.**
+
+***Ergo* it is necessary unto salvation.**
+
+**The Minor is false: for new obedience, properly speaking, is not part, but fruit of penitence** — as **John expressly testifieth, Matt. 3:8**: *"Bring forth therefore fruit worthy of penitence."* **Safest therefore is it not to use the said division.**
+
+— ❦ —
+
+## Question 5. Since therefore contrition be a part of penitence, what is contrition?
+
+**Since therefore contrition be a part of penitence, what is contrition?**
+
+**The serious acknowledgment of sins, and the serious terror arising from the acknowledgment of sin and of the divine wrath against sin — whereby the heart of man grieveth that God hath been offended by his sins, and detesteth sin, abhorreth also from sin. Ps. 51.**
+
+— ❦ —
+
+## Question 6. Wherefore doth God require such contrition?
+
+**Wherefore doth God require such contrition?**
+
+**Not, as the Papists trifle, that by this we should merit the remission of sin: but that acknowledging our unworthiness, in the sight of him we may be humbled, and confide not in our merits.**
+
+**Then, that we may learn to esteem more highly the benefits of Christ, on account of which into grace we are received.**
+
+**Thirdly, that in future we may with greater diligence beware of sins — which such and so great griefs of conscience bring forth, that unless divine consolation approach, we should be swallowed up in them: finally, that by this very thing hypocritical and true penitence be discerned — for where there is not true contrition or acknowledgment of sin, there also is not true penitence.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **Of an unknown thing there can be no grief. Many sins are unknown to us. *Ergo* concerning them we cannot grieve.**
+
+**Respondeo** to the Major: **Of unknown things in species there is no grief — yet in general there ought to be.**
+
+To the Minor: **Although many sins be unknown to us — yet in general we ought seriously to deplore the whole depravation of our nature and our malice, and to ask of the Lord, that he cleanse us from occult things.**
+
+— ❦ —
+
+### Objection II. **Contraries are not in the same subject. In the converted are faith and love of God. *Ergo* there is not in them grief or fear.**
+
+**Respondeo** to the Major: **Contraries are not in the same subject in excelling degrees — but in remiss they are together.**
+
+To the Minor: **In the converted is faith and love of God — but conjoined with grief or fear — not servile, but filial.**
+
+— ❦ —
+
+## Question 7. Who beginneth this contrition in us?
+
+**Who beginneth this contrition in us?**
+
+**Not the choice and will of our corrupt flesh, but God himself — as at Job 9:17 and Isa. 38:13 we read**: *"As a Lion, so hath he broken all my bones."*
+
+— ❦ —
+
+## Question 8. By what means or instruments doth he use unto this?
+
+**By what means or instruments doth he use unto this?**
+
+**The preaching of the Law, temporal penalties, interior temptations of the heart,** etc.
+
+— ❦ —
+
+## Question 9. Where is that contrition felt?
+
+**Where is that contrition felt?**
+
+**In the heart or soul and Spirit, Ps. 51:19**: *"A contrite and humbled heart, O God, thou wilt not despise."* **Ps. 6:4**: *"And my soul is troubled exceedingly."* **For where he grieveth, that part the Lord toucheth, Joel 2:12–13.** [*[Tom. 4, p. 774*]*]
+
+— ❦ —
+
+## Question 10. What properties hath contrition?
+
+**What properties hath contrition?**
+
+**Ps. 38 enumerateth these properties**:
+
+**I.** *"My cicatrices [wounds] have putrefied and are corrupted; there is no health in my flesh from the face of thy wrath, there is no peace in my bones from the face of my sins, for my iniquities have gone over my head, and as a heavy burden are grievous upon me"* — that is, **grief and sadness in true contrition is such and so great, that a man knoweth not whither to turn**.
+
+**II.** *"Bowed down am I, all the day I walked contristated"* — for **sad walking is a certain sign of interior sadness**.
+
+**III.** *"For my loins are filled with illusions, and there is no soundness in my flesh; my interiors are filled with horrid and abominable ardour"* — that is, **the interior strength faileth and is burned up**.
+
+**IV. Weakness and infirmity of the whole body**: *"There is no soundness,"* he saith, *"in my flesh."*
+
+**V.** *"My heart is troubled"* — **perturbation of the heart, no peace of heart, the heart cannot rest — but is ever affrighted and shuddereth**.
+
+**VI.** *"The light of mine eyes is not with me"* — for **the eyes to heaven, he who is such, he dareth not to lift, but casteth down to earth, as the Publican, Luke 18**.
+
+— ❦ —
+
+## Question 11. Wherefore doth God so break the heart?
+
+**Wherefore doth God so break the heart?**
+
+**That before the sight of him he may be humbled, sins seriously acknowledge, and their pardon seek. Ps. 32**: *"For day and night thy hand was heavy upon me — my delict have I made known to thee,"* etc. **Isa. 38**: *"Behold, in peace my bitterness most bitter; but thou hast rescued my soul, that it perish not,"* etc.
+
+— ❦ —
+
+## Question 12. Can the heart of man present an absolute and perfect contrition, whereby with GOD he might merit the remission of sins?
+
+**Can the heart of man present an absolute and perfect contrition, whereby with GOD he might merit the remission of sins?**
+
+**By no means: For so great terrors the human heart could not bear: also our Lord Jesus Christ alone sustained the most absolute terrors and griefs of sins, and by his contrition, terrors, awes, and griefs and sadness expiated our sins — and hath merited from God for us, that in our terrors we be not left. For which immense benefit we owe due thanks to him. Isa. 53:6**: *"And the Lord placed on him the iniquity of us all."* **Ps. 22**: *"My heart is become like melting wax in the midst of my bowels,"* etc.
+
+— ❦ —
+
+*[Locus XXXI De Poenitentia Part 1 closes (Q1–Q12 + OBIECTIONES I–II on contritio): vocabulum poenitentiae 2-fold, quid est poenitere, 2 partes (contritio + fides per Augustana art 11), 3-part division tolerable but new obedience is fructus not pars, contritio definition, why God requires, OBIECTIONES ignoto dolor + contraria, who begins, means, where felt, Ps 38 six proprietates, why God contereth, can heart present absolute contritio [no — Christ alone bore that]. Part 2 (fides + duplex poenitentia + iterata poenitentia + OBIECTIONES on Malachias/Heb 6/Esau + fructus + what should move) follows in T86. 661 top-level Q + 388 Obj rendered so far.]*
