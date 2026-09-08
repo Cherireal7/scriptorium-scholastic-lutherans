@@ -4840,4 +4840,84 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 — ❦ —
 
-*[Locus XX Part 2 closes. Part 3 (Q21–Q28) follows in T27. 317 top-level Q + 159 Obj rendered so far.]*
+## Question 21. Are the faithful of the Old Testament also justified and saved in this same manner?
+
+**Are the faithful of the Old Testament also justified and saved in this same manner?**
+
+**Very much so.** [*[Luther: In the preface upon the New Testament and Epistle to the Romans*]*] For thus saith Peter, **Acts 15:11**: *"But through the grace of the Lord Jesus Christ we believe to be saved, in like manner as they."* Item also **1 Cor. 10:3–4**. To this Jesus **all the Prophets bear testimony, that through his name all who believe in him receive remission of sins** — **Acts 10:43**. The Papists therefore do us a very great injury in this, that they cast up against us that **we have a new doctrine and a new faith**, since **all the Prophets so taught, and all the faithful even of the Old Testament were saved through this same faith**.
+
+— ❦ —
+
+## Question 22. But what are the fruits of the righteousness of faith?
+
+**But what are the fruits of the righteousness of faith?**
+
+These Paul recites, **Gal. 5:22–23**: *"But the fruit of the Spirit is charity, joy, peace, patience, benignity, goodness, longanimity, meekness, faith, modesty, continency, chastity."*
+
+For **all these follow of themselves, where faith is true and living**, on account of **the ineffable and immense good which God hath exhibited unto us, when he delivered up his Son for us before we could ask this of him** — nay rather, **while we were yet enemies of him**. So therefore we believe: **that faith without works justifieth, and yet that it is not, nor doth remain, without good works**. For **faith and good works are inseparably connected — and yet faith alone, apart from works, justifieth. But good works are the fruits of justifying faith**.
+
+— ❦ —
+
+## Question 23. Have those men also the righteousness of God, or that which prevaileth before God, who work no fruits worthy of penitence?
+
+**Have those men also the righteousness of God, or that which prevaileth before God, who work no fruits worthy of penitence?**
+
+**By no means.** For **where the works of charity exert not themselves, there faith is not true and living, there the Gospel is not truly received, and there is no true knowledge of Christ**. For **where true and living faith is, there is it efficacious through charity, and scattereth its rays as it were by works**.
+
+— ❦ —
+
+## Question 24. But what is the difference between the imputed righteousness, and the inchoate new obedience of Christians, or good works?
+
+**But what is the difference between the imputed righteousness, and the inchoate new obedience of Christians, or good works?**
+
+**I.** **Christ's, or the imputed, righteousness is absolute and perfect**, in which the contrite heart in the judgement of GOD can safely confide and acquiesce. But **the inchoate obedience of Christians is imperfect, only in part**, in which **no conscience can confide before God** — **Rom. 4:1–4, 7–8; Ps. 14:3; Ps. 143:2** — since **Christians themselves are yet unclean and imperfect**.
+
+**II.** **Christ's righteousness is in all things clean and holy, and was acquired for this end, that it should be communicated and given to others**. But **the inchoate righteousness of Christians is not plainly clean, but polluted with many infirmities, nor can it be imputed to any of men for the obtaining of salvation before God**.
+
+**III.** **Christ's righteousness was wrought and acquired by himself for us men and for our salvation**. But **the inchoate righteousness of Christians is kindled in their hearts by the Holy Spirit, and can merit and acquire righteousness and salvation with God neither to themselves nor to others**. Rather **it ought to be exhibited by them, to the showing of faith and piety** — **Matt. 5:16**: *"Let your light shine before men, that they may see your good works, and glorify your Father, who is in the heavens."*
+
+**IV.** **Christ's imputed and by-faith-apprehended righteousness effecteth in the heart peace, joy, and access to God with confidence** — **Rom. 5:1–2**. But **these things the inchoate righteousness of Christians cannot do, since it is still polluted with sins** — **Rom. 7**.
+
+— ❦ —
+
+## Question 25. But how are the faithful just before God, when in them sin still remaineth, so long as they live?
+
+**But how are the faithful just before God, when in them sin still remaineth, so long as they live?**
+
+[*[Luther: T. 4/1, p. 393*]*] **Just and clean they are in true faith through Christ, whose clean blood cleanseth them from all sins**. But as concerns the flesh and the reliques of sin in the flesh, **those are not imputed to them who are by faith in Christ Jesus, and walk not according to the flesh but according to the Spirit** — **Rom. 8:1**.
+
+— ❦ —
+
+## Question 26. But what sins remain as reliques in the saints?
+
+**But what sins remain as reliques in the saints?**
+
+**All sins are remitted to the faithful on account of Christ, and are not imputed to them**; and yet **there remain in the flesh sins and manifold infirmities — as doubts, diffidence, pride, impatience, depraved concupiscences and lusts, which lust against faith and the Holy Spirit** — **Rom. 7** — with which **the faithful daily wrestle, and resist and repugn**. These sins, however, **are not imputed to them unto condemnation, since they daily seek remission of them on account of Christ by true faith**, and with the **spirit of the mind** repugn these sins cleaving to the flesh — **Rom. 7, 8**.
+
+Hence therefore **the righteousness of the faithful and the regenerate consisteth not in their own proper righteousness and holiness, which is unclean and only inchoate, but in the sole righteousness of Christ imputed to them — in the predicament of relation, not in the predicament of substance or of quality** (*"for teaching's sake," saith Luther, "I use these words"*). And **very great is the difference between the remission of sins, which is done by faith, and the purgation of the sin remaining in the flesh, which purgation in this life indeed is begun, but in this life is not consummated**.
+
+— ❦ —
+
+## Question 27. Are the regenerate and the faithful therefore bound in earnest to repugn those sins remaining in the flesh, lest they reign in their members?
+
+**Are the regenerate and the faithful therefore bound in earnest to repugn those sins remaining in the flesh, lest they reign in their members?**
+
+**Very much so.** For **unless they do this, it may very easily come to pass, that sins and depraved lusts drive their roots in them and dominate** — as it fell out to **David and to many highest men**. Against the security therefore and the lusts of the flesh **it is necessary that the regenerate man daily fight by prayers and accurate vigilance, lest sin receive dominion in him**.
+
+So **David**, **Ps. 51**, when he was regenerate and had remission of his sins, yet **sought purgation from sin, lest sin should dominate in him anew**. For although sins were remitted to him out of grace, yet were they not plainly extirpated and purged out of his flesh and heart, but **daily sprouted forth afresh**. Wherefore **it behoved David by faith to resist and repugn them. The same must also be done by us**.
+
+— ❦ —
+
+## Question 28. Why doth God justify the sinner freely, out of mere grace and mercy?
+
+**Why doth God justify the sinner freely, out of mere grace and mercy?**
+
+**I.** That his **inexhaust grace and mercy may be manifested and demonstrated to all men** — **Eph. 2:4**: *"God, who is rich in mercy, on account of his exceeding charity wherewith he loved us, and when we were dead in sins, quickened us together in Christ."* Which yet **most difficultly, especially in temptations, do we suffer to be persuaded to us, that we may believe**.
+
+**II.** That **all glorying may be excluded, so that he that will glory, may glory in Christ alone and his satisfaction** — **1 Cor. 1:31; Eph. 2:7–8**. For since **God through his Son alone hath exhibited all things which pertain to our righteousness and salvation, to himself also alone — and that with merit — will he have the glory and praise of this work also to be attributed**. And **it is a horrible blasphemy and a nefarious sacrilege, through confidence in one's own works (as the Papists do), to spoil Christ of this glory**.
+
+**III.** He doth this **not so much for his own sake, as for ours** — because **if with us he willed to act by right, and not out of grace, no one of men could sustain this, stand before him, or be justified** — **Rom. 3, 4; Ps. 130, 143**. Since **none of us hath — I dare not say hath perfect — that most holy obedience which by the Law is required**. **Good God, of how great a work, of how great a labour is it that, although out of mere grace and mercy God justify us freely, that the promise may be firm, we may embrace this offered grace with firm faith, and confidently acquiesce in it** — **what then dost thou think would come to pass, if he ought to act with us by right, and if the promise of salvation had annexed conditions**: *"If thou shalt have done this, and fully kept it, thou shalt be saved; if not, thou must under the curse die and perish in eternal condemnation"*?
+
+— ❦ —
+
+*[Locus XX Part 3 closes. Part 4 (Q29–Q34 — the anti-Papist *discrimen*: prima/secunda iustificatio, status controversiae, ten fundamenta) follows in T28. Then OBIECTIONES PONTIFICIORVM. 325 top-level Q + 159 Obj rendered so far.]*
