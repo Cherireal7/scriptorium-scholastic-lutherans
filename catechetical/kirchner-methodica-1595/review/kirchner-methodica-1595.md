@@ -8106,4 +8106,76 @@ And by a similar reason also **the manducation of which John 6 treateth differet
 
 — ❦ —
 
-*[Locus XXVII Part 8 closes (Q34–Q39 + OBIECTIONES I–III on ore manducation). Part 9 (second OBIECTIONES cluster on Sacramental vs Spiritual manducation split + Q on indigni receive body) follows in T62. 516 top-level Q + 258 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **But the spiritual manducation alone sufficeth. *Ergo* the oral is not needful?**
+
+**If thus it were rightly concluded, in the same mode it could be concluded, that in the Supper of the Lord there is plainly no need of external Elements**. For **we could manducate the body of Christ spiritually by faith even without them: but such a collection availeth not: for the institution of Christ is not by us to be reformed: rather, that must be done which he himself commanded**.
+
+— ❦ —
+
+### Objection II. **The body of Christ far better by faith than with the mouth can be perceived. *Ergo* etc.**
+
+**Not so is it allowed to gather in things instituted by Christ: rather one must obey, and the institution and ordination of Christ must be kept**. But **Christ instituted also the Sacramental manducation. *Ergo* also this must be retained and kept**. But that **the Sacramental manducation be salutary, he wills it to be done by faith: for without faith it profiteth not — since the unfaithful and unworthy eat and drink judgement to themselves**.
+
+— ❦ —
+
+### Objection III. **The promise of the Gospel cannot be perceived with the mouth, but must be apprehended by faith. In the Supper there is the promise of the Gospel. *Ergo* the mouth cannot perceive it, but it must be apprehended by faith.**
+
+**This whole argument we concede concerning the spiritual manducation**. **In the sacred Supper however there is not only the promise of the Gospel concerning the remission of sins, but at the same time in it there is the promise, that Christ willeth to exhibit with the bread his body delivered up for us, and with the wine his blood poured out for us — which promise is as much to be attended by the faithful as the promise of grace**. Since **the body and blood of Christ communicated in the sacred Supper ought to be the seal, whereby unto us in it the free remission of sins is certainly given**.
+
+If therefore **the Adversaries would obtain anything, they must first demonstrate that Christ could not or ought not have instituted a Sacramental manducation of his body and blood**. **But by what foundation shall they demonstrate this? Since therefore we have a certain and express word of God concerning a double manducation of the body and blood of Christ in the institution of this Sacrament, from that we cannot be dislodged.**
+
+— ❦ —
+
+### Objection IV. **Do ye therefore teach that faith is not required unto the Sacramental manducation?**
+
+**This is our sentence and confession — that the incredulity of the manducant detracts nothing from the substance of the Supper**: just as **also faith doth not effect that the substance of the Supper be entire — but the integrity of the Supper dependeth and is perfected only upon the institution of Christ**. But **that the Sacramental manducation be salutary to us, unto this we teach that faith is altogether necessary — and this without faith is not only not salutary, but also cedeth unto judgement to the manducant. The unworthy eat and drink judgement to themselves — 1 Cor. 11:29**.
+
+— ❦ —
+
+### Objection V. **Do ye therefore oppose the Sacramental and Spiritual manducation, and contend that the one is not sealed by the other?**
+
+**Far be this from us.** For **expressly and perspicuously, with one mouth and heart, we teach — the Sacramental serveth the Spiritual — that in the faithful, who worthily use the sacred Supper, it confirmeth and increaseth [the spiritual], and is a seal and pledge by which the spiritual is sealed. And on the contrary the Spiritual serveth the Sacramental — that it be useful and salutary. And so no opposition of both, but a friendly and mutual correspondence and conjunction of both, is by us asserted and taught.**
+
+— ❦ —
+
+## Question 40. Do the unworthy also receive the body and blood of Christ in the Supper with the sacred Symbols of bread and wine?
+
+**Do the unworthy also receive the body and blood of Christ in the Supper with the sacred Symbols of bread and wine?** [*[T. 4, p. 426*]*]
+
+**Very much so.** And this hence standeth:
+
+**I.** Because **Christ instituted not the manducation only of the sacred Symbols of bread and wine** — just as also **the Elements are only the other part of the Sacrament, and not the entire Sacrament**.
+
+**II.** Because **by no word he distinguished or said**: *"He who worthily approacheth shall receive — as concerneth its substance — the entire Sacrament; but he who truly and unworthily shall have approached, shall receive only the bare Symbols, and so half the Sacrament."*
+
+**III.** Because **Christ himself in the first Supper gave to Judas the traitor, according to the words of institution, the entire Sacrament, and not only bare Symbols; nor did he say**: *"Thou Judas takest only the sacred Symbols, who unworthily manducatest and drinkest."*
+
+**IV.** **The Apostle Paul also with perspicuous words taught the manducation of the unworthy — 1 Cor. 11:27, saying**: *"Whosoever shall have manducated this bread, or drunk the cup of the Lord unworthily, shall be guilty of the body and blood of the Lord."* And **that on this account, because he unworthily eateth this bread, of which Christ himself said, *"take, eat, this is my body, which is delivered up for you."***
+
+**Why also would the Apostle say that the unworthy are made guilty of the body and blood of the Lord, if they received not that truly with bread and wine?** **As also the Apostle saith not that this cometh to pass because they do not judge the bread — but because they do not judge the body of the Lord**. For **not to judge the bread in this place is not to discern the body of the Lord from other foods**. And so **Augustine also, tract 62 in John, explaineth the words of Paul**: *"Remember thus it is written: 'Whosoever shall have manducated the bread, or drunk the cup of the Lord unworthily, shall be guilty of the body and blood of the Lord.' And of these was the sermon, when the Apostle said: they who took the body of the Lord — like any other food — indistinctly and negligently. Here therefore is reproved he who doth not judge — that is, doth not discern from other foods the body of the Lord. How then is he not damned, who to his own table cometh as an enemy, feigning himself a friend?"*
+
+— ❦ —
+
+## Question 41. Is not this also the sentence of the orthodox Church of the Fathers, concerning the manducation of the unworthy?
+
+**Is not this also the sentence of the orthodox Church of the Fathers, concerning the manducation of the unworthy?**
+
+**Very much so.** As among others the following sayings of them attest.
+
+**Augustine, book 5 against the Donatists, cap. 8**: *"As Judas — to whom the Lord handed the morsel — not by receiving evil, but by receiving evilly, gave a place to the Devil in himself: so he who unworthily receiveth the Dominical Sacrament, effecteth not that — because he himself is evil, evil should be — or because he receiveth not unto salvation, he receiveth nothing. For the body of the Lord and the blood of the Lord was no less for those to whom the Apostle said: 'He who manducateth unworthily eateth and drinketh judgement to himself.'"*
+
+**Against Fulgentius the Donatist, Tom. 7, p. 645**: *"As he who manducateth and drinketh the blood of the Lord unworthily eateth and drinketh judgement to himself: so also he who receiveth unworthily Baptism, receiveth judgement, not salvation. For as Judas the traitor perceived the good body — and Simon Magus the good Baptism of Christ — but because a good he did not receive well, evil men by using ill were destroyed."*
+
+**Cyprian, sermon *De lapsis***: *"That the body of the Lord be not straightway received in polluted hands, or the Lord's blood be drunk with polluted mouth, he is angry with the priests as sacrilegious."*
+
+**Chrysostom, Hom. 61 ad Antiochenos**: *"Those who receive the body of the Lord with impure mind, undergo the same vengeance with those who tore him with nails."*
+
+**Theodoret, 1 Cor. 11**: *"Not only to the eleven Apostles, but also to Judas the traitor he imparted his precious body and blood."*
+
+**Theophylact, 1 Cor. 11**: *"He who unworthily hath taken the body and blood of Christ, shall be obnoxious to no less crime than he who would pour out the very blood of the Lord."*
+
+— ❦ —
+
+*[Locus XXVII Part 9 closes (OBIECTIONES I–V on Spiritual-only manducation + Q40 indigni receive body/blood + Q41 Patres testimony on indignorum manducation). Part 10 (OBIECTIONES I–VII on indignorum manducation — proper Reformed objections against the doctrine) follows in T63. 518 top-level Q + 263 Obj rendered so far.]*
