@@ -1070,6 +1070,266 @@ The state of man is **fourfold:**
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+## Part V — *De Providentia Dei:* On the Providence of God
+
+> ***Providentia Dei est actio mentis divinae, quae et cernit omnia, ubique praesens, cunctos eventus prospicit et gubernat et administrat naturam universam a se conditam, sustentat, moderatur, et conservat eam ad nominis sui gloriam, praecipue curat genus humanum, custodit civilem societatem, et punit atrocia scelera atrocibus poenis, et ornat iustos praemiis.***
+
+**The providence of God is the action of the divine mind, which discerns all things — everywhere present — foresees and governs and administers all events, and sustains, moderates, and conserves the whole nature constituted by itself, unto the glory of its own name; and chiefly cares for the human race, guards civil society, and punishes atrocious crimes with atrocious punishments, and adorns the just with rewards.**
+
+### The Three Grades or Modes of Providence
+
+**The first** is **universal,** by which God governs the whole nature created by Himself, sustains it, and preserves it — according to that of Col. 1: ***"All things stand together through Him;"*** Matt. 10: ***"No sparrow falls to the ground without the heavenly Father,"*** and so on.
+
+**The second** is the **special** providence, by which God so moderates all things that the creatures which He wills obey Him and serve Him, either *for the execution of justice and the punishment of evil men,* or *for the demonstration of goodness and mercy toward the pious* — according to that: Isa. 45: ***"I am the Lord, making peace and creating evil"*** (that is, the *evil of penalty*); Zeph. 1: ***"The Lord does both good and evil;"*** Amos 3: ***"There is not an evil in a city which the Lord has not done;"*** Lam. 3: ***"Who is he who says that these things [the evils of punishment] are done without the Lord commanding, and out of the mouth of the Most High shall not come forth both good and evil?"*** Sir. 39: ***"The winds are often destined for penalty; and when calamity is impending, they are tumultuous, and execute the wrath of Him who created them."*** So fire, hail, famine, death, and so on.
+
+Wherefore, just as we *remove the evil of guilt or sin from God in every way* — according to that of Ps. 5: ***"Thou art not a God willing iniquity"*** — so we *attach the evil of penalty* (diseases, famine, wars, poverty, death, and the like) *not to a Stoic or fatal necessity, but to God's judgement,* according to the threatenings of God punishing the sins of men — either immediately without secondary causes, or often through certain media, which have their own secondary causes in the stars, in the temperaments, in the studies and morals of men; and in the fury of devils, and in external violence.
+
+But this governance is so administered in this life that many things are *deferred to be judged and reserved to the last judgement* — according to that of Eccl. 12: ***"All things which are done, the Lord shall bring into judgement, whether it be good or evil."*** Ps. 75: ***"The impious shall drink the dregs."*** And Augustine's sentence on John, treatise 97, is excellent: *"God permits so foul things to happen in opinions, cults, and morals, that His terrible judgements may be everywhere; and by comparison with impure iniquity the purest discipline may sweeten; and He gives honour to Himself, but fear and shame to us, who either did not fall in this evil with him ruling, or by Him lifting rose from it."*
+
+**The third grade** is the ***peculiar providence of God,*** proper to the *elect,* or to *those who believe in the Son of God* — by which God *lives and reigns in His own Church,* and *teaches, consoles, confirms, defends, raises up, preserves, and justifies* the citizens of His own Church *through and on account of the Son;* and *regenerates* them by the Holy Spirit, and *makes them vessels of mercy, His own temples,* and *salutary organs for Himself and for others.* According to that of Rom. 8: ***"There is now no condemnation to those who are in Christ Jesus;"*** Matt. 10: ***"Your hairs are all numbered;"*** Deut. 30: ***"He is thy life, and the length of thy days."***⁸⁹
+
+***
+
+### Digression — The Four Modes of God's Presence
+
+Hither are to be referred *four modes of God's presence,* which show *how God is present to all things constituted by Himself, and sustains all things.*
+
+#### The First Mode or Grade of God's Presence
+
+**The first grade** is the *universal* or *general* action of God, by which God ***repletive*** is *everywhere,* and preserves *most freely* all His creatures — even those made evil and turned away from God — as long as He wills to preserve them.
+
+> Ps. 139: ***"Thou art in heaven; Thou art in hell; Thou art in the sea."*** Isa. 66: ***"Heaven is my seat, and the earth the footstool of my feet."*** Jer. 23: ***"Do I not fill heaven and earth, says the Lord?"***
+
+#### The Second Grade of God's Presence
+
+**The second grade** is that by which God, in His Church in this life, according to His own promise and the evidence of the divine word, ***is present in His own ministry, and in His sacraments,*** in that reason which He Himself has defined; and *through these means* He is *efficacious in the hearts of believers,* and *effects in them motions pleasing to Himself* — the Holy Spirit having been given, who *moves through the word and the use of the sacraments the minds and hearts of men,* and *constitutes for Himself in them temples,* according to that (John 14): ***"We shall come to him, and shall make our mansion with him."***
+
+But God is present to His creatures — and even to the regenerate in this life — *separably and invisibly.* For often He destroys natures that do not please Him, as in the Deluge; and often He *departs from those who rush into errors and crimes,* as from Saul, Judas, and even David, until they are *converted again.*
+
+In this second grade of God's presence, there is inquired: **1.** *concerning Predestination;* **2.** *concerning Christ's presence in His ministry, and in the use of the sacraments — of Baptism and of the Lord's Supper —* whether there is *the same reason* or *the same presence.*
+
+### On Predestination
+
+> ***Predestination is the action of the divine will, from eternity electing those to be saved by grace in Christ the Mediator Son, and calling and ordaining them by the voice of the Gospel, according to His own good-pleasure, into the adoption of His own sons through Christ, in whom the elect believe, and gifting them with His Holy Spirit — who retains them, lest they fall into errors and crimes, but that they may be and remain temples of God, and may have true doctrine and the legitimate use of the sacraments, faith and a good conscience, and in the fear and invocation of God expect and receive the promised and eternal salvation.***
+
+For **Predestination or Election is not understood of those to be damned** — who perish by their own guilt — **but of those who believe and are saved through faith for the sake of Christ.**
+
+Nothing is to be judged or established concerning Predestination *from our own reasoning,* but *according to the rules sought from the sacred letters,* of which there are **seven:**
+
+**1.** *Outside the word of God,* or *without the patefaction of God,* we neither ought nor can decide anything concerning God's will. Isa. 8; likewise, *"Hear ye Him."*
+
+**2.** *The promise of grace is universal.* Matt. 11: *"Come, all ye;"* John 3: *"That every one;"* Rom. 11: *"That He may have mercy on all."*
+
+**3.** *With God there is no* ***προσωποληψία*** (partiality). Rom. 2; Eph. 6; Col. 3; Acts 10; Isa. 56.
+
+**4.** *In God there are no contradictory wills.* Ps. 33: *"Whatever He promises, He performs."* Rom. 4; 2 Cor. 1: *"All the promises of God are* ***Yea and Amen."*** Mal. 3: *"I the Lord, and I change not."* Hos. 11: *"For I am God, and not man."*
+
+**5.** *Grace exuberates above sin.* Rom. 5.
+
+**6.** *As in Adam all fell, so in Christ all who believe in Him rise.* 1 Cor. 15.
+
+**7.** ***God has predestined no one to damnation,*** because it is written, Ezek. 33: *"As I live, I will not the death of a sinner;"* and Hos. 13: ***"Thy perdition is from thyself, O Israel; but thy salvation is from Me."***⁹⁰
+
+### On Christ's Presence in His Ministry
+
+What further pertains to *the presence of Christ in His own ministry* — let us know that concerning it we ought to *sense and speak* not from *general rules and philosophical foundations,* but *according to the word of God.*
+
+**First,** Christ, together with the Father and the Holy Spirit, ***is present to His own ministry,*** as He says (John 14): *"We shall come, and shall make our mansion."*
+
+**Then,** He Himself, ***as Head of the Church*** (1 Cor. 11; Eph. 1, 4, 5; Col. 1, 2), as her *Saviour whom by His own blood He has redeemed,* is present to her, *God and man,* by *His grace, goodness, efficacy, and virtue; by His command, government, hearing, and help;* nor does He *desert her,* according to the promise, Matt. 18: ***"Where two or three are gathered in my name, there am I in the midst of them"*** — namely, the *presence of majesty, of efficacy, of hearing, and of help,* which the very *God and man* effects. Likewise, ***"I shall be with you unto the consummation of the age"*** (Matt. 28). And John 14: ***"I shall not leave you orphans"*** — that is, I shall be your ***ὀρφανιστής*** (guardian of orphans), your *tutor, patron, defender, protector,* — ***κοινοποίησιν*** by reason of my own office, which I administer *according to each of my natures.*
+
+**Afterwards,** He is present *by a certain peculiar reason in His own Supper,* according to the words of His institution. For a *rule* is to be held:
+
+> **Concerning the Sacraments — their substance, difference, and use — it is not to be judged from general rules, or only from a thesis (as though there were one and the same reason of all), but from the proper institution of each one, and from Christ's own express words.**
+
+Christ *is present* in His own ministry, and *in Baptism,* as He promised. But *in the Supper* He said that He wills to be present not only *by His divinity, and efficacy, and by the reason of His office* — *God and man never absent from His own ministry* — but *by a peculiar mode, unknown to all men,* He has testified and promised that He will be present *in that action of the Supper which is celebrated on earth according to His institution,* so that *what is present in the Supper, and what is exhibited, and what is taken by those eating the bread and drinking from the cup, the Son of God Himself pronounces and defines to be — His Body and Blood:* ***"This is my Body; this is my Blood"*** — which words even yet, against a thousand arguments of reason and philosophy, *stand and shall stand unconquered, immovable, and undaunted,* Christ being the *leader and vindicator.* For Christ is *Almighty and truthful,* and *preserves His own Testament.*
+
+On account of this *corporeal presence of Christ in the Supper* it is said: ***"The bread is the body of Christ"*** — not that the bread is *mutated or turned into the body,* but that the *body is truly present,* ***σωματικῇ παρουσίᾳ*** (by a corporeal presence), as Christ said.⁹¹
+
+### Response to the Usual Argument
+
+Let the solution of the usual argument be held:
+
+> **In God there are no contradictory wills.**
+> **For a body** ***περιγραπτόν*** (circumscribed) *by itself* **to be established also as** ***ἀπερίγραπτον*** (uncircumscribed) — that is, in a certain mode ***ἀπεριγράπτῳ,*** and not locally somewhere, or to be simultaneously in different places, as in the Supper, which is administered at one and the same time in many places — is a **manifest implication of contradiction.**
+> **Therefore it is false to say that Christ's body is** ***περιγραπτόν*** *(as it is in heaven), and simultaneously to be in an* ***ἀπερίγραπτος*** *mode in the action of the Supper.*
+
+**I answer to the major.** The major is true *of those things which are said in the same respect.* But this is also to be known: *contradiction is not implied when God does something which does not cohere with the rules and properties and circumstances of nature, and with the natural course.* For although the things which the *physical rules* affirm are true (since nature is constituted by God), nevertheless *God is not bound to secondary causes,* or to *the nature constituted by Himself,* but is a *most-free agent,* and is the *first cause, to whom yield and obey all secondary and physical causes.* And yet these things *are and remain physical,* even when God uses them or in them *acts against common and natural reason.* And unless this be held, many *contradictions* will be fabricated by *secure and fanatical men,* and attributed to God — as:
+
+- *"All things are made ex nihilo,"* per Scripture — *"Ex nihilo nihil fit,"* per physics.
+- *"The sun is bidden to stand,"* per Scripture — *"The sun is always moved,"* per physics.
+- *"The barren is made fecund,"* per Scripture — *"The barren does not bear,"* per physics.
+
+And so in other matters — as: Christ is born a man *without seed of a male;* the Virgin becomes a Mother with virginity inviolate; a heavy body walks on the waters; a heavy body is carried up into the heavens; He enters through closed doors; He is made ***ἄφαντος*** (invisibly withdrawn); the putrefied bodies of men shall all rise, and so on — all of which are true *per Scripture,* but false *per physics.* Wherefore *contradiction is not to be sought* in those things which in the word of God seem to fight with the natural rules, but *is to be sought (and yet never to be found) only in those things which are set forth from the word of God as though they were fighting with God's promises which are also contained in the word.* Here, if a contradiction can be shown — namely, whereby the *word of God should be feigned to fight with itself and contradict itself* — certainly a response will have to be given. But *it can never be shown.* Wherefore *in God there are no contradictory wills,* nor can God be argued of mendacity, but is truthful.
+
+**To the minor** it must be answered: *I deny the minor.* For an implication of contradiction is by no means made when it is said that Christ's body is **in heaven** according to the natural properties of a true body — circumscriptively and visibly — **and by the power of God expressed by manifest word is also elsewhere,** or *in diverse places, wheresoever He wills to be present, simultaneously and at once, in a celestial, miraculous, spiritual mode unknown to us.*⁹²
+
+And since Scripture teaches both concerning Christ's body — both *that it is in heaven,* and *that it is also present in the action of the Lord's Supper* — and neither in the same manner is each done, therefore *there is no contradiction;* but *to Him who said both,* it is *not only possible but easy* to effect both, and *in that mode which He knows,* without any implication of contradiction. Wherefore, when Scripture predicates something of Christ's body which is *according to the natural properties of the human body,* we receive, admit, and believe it. But when, on account of the *hypostatic union of the human nature with the divinity and the Λόγος* — from which that humanity in Christ ***accepit infinita ὑπερφυσικά super omne nomen*** (Phil. 2) — Scripture predicates something of the human nature, or of Christ's body, which is *beyond, above, or even against the physical properties and conditions of the body,* or *against the common law and order of nature,* — that we by no means, on account of physical principles and axioms, *cast away or deny,* but for the sake of Christ's word affirming it, by the *obedience of simple faith* we receive and believe, and *to Christ we render the praise of Omnipotence and truth,* and rather *accuse the imbecility of the human faculty* than *deny those operations of Christ,* as ***Cyril*** speaks.
+
+### On the Presence to the Unworthy
+
+Here again the profane minds object *that the presence of Christ's body and blood in the Supper can be conceded as respects the believing, but not as respects the unworthy* — that is, that Christ's body and blood is present and exhibited and received *only by faith.*
+
+**I answer.** The words of the institution speak first *of the substance of the Body and Blood of Christ in the Supper;* thereafter also *of the faith and the spiritual fruit,* namely: ***"Do this in remembrance of me."*** And Paul, when he had first defined the *substance* of the Supper — that ***the bread is the communication of the body, and the cup is the communication of the blood*** of Christ, according to the words of the institution, ***"This is my body, this is my blood"*** — thereafter subjoins: ***"Let each man test himself."*** But of the unworthy, he says that they *become guilty of the body and blood of Christ.*
+
+Wherefore, just as the *word of the Gospel* is to some *a savour of life unto life,* to others *a savour of death unto death* (2 Cor. 2), and yet is *the same Gospel revealed by God* that men might be saved through it — and thus the guilt of damnation is *in the malice of men* — so also the *same Sacrament* is given both to the *worthy,* that is, to the *believing,* and to the *unworthy* in the Church, that is, to the *hypocrites and the impenitent.* And (as we openly say in the *Augsburg Confession*), ***with the bread and wine there are truly exhibited the body and blood of Christ, to those eating in the Supper of the Lord.***
+
+But *not only the worthy eat, but also the hypocrites and the impenitent.* As, therefore, to the former the Sacrament is *unto life,* so to these it is *unto judgement,* as Paul manifestly says: ***"They eat and drink judgement to themselves."*** *One is the Sacrament to the worthy and to the unworthy, but different is the outcome.* Let these words be in view.
+
+### The Manducatio Impiorum — the Patristic Catena
+
+> ***Augustine,*** *contra Fulgentium Donatistam:* *"Judas the traitor received the good body; but because he did not use the good well, being evil, by using it evilly he was destroyed."*
+
+> ***The same,*** on John ch. 12, tract. 50 (Tom. 9): *"Of the one bread Peter and Judas received; and yet what part has the faithful with the unbeliever? Peter received unto life; Judas unto death."*
+
+> ***The same,*** Ep. 162 ad Glorium (Tom. 2): *"The Lord tolerated Judas the devil, the thief, His seller; He allowed him to receive among the innocent disciples what the faithful know is our price."*
+
+> ***The same,*** on Ps. 10 (Tom. 8): *"What has Christ done to you, who bore His betrayer with such patience, that He should deliver to him the first Eucharist consecrated by His own hands and commended by His own mouth, as to the other Apostles?"*
+
+> ***The same,*** on the Epistle of John, tract. 7 (Tom. 9): *"He who receives the Sacrament of the Body and Blood of the Lord can be evil. For of such it was said: 'He who eats and drinks unworthily eats and drinks judgement to himself.'"*
+
+> ***The same,*** *contra Donatistas post Collationem,* ch. 20 (Tom. 7): *"The good and the evil simultaneously eat the Body and Blood of the Lord, but with a great distinction — these unto mercy, those unto judgement."*
+
+> ***Chrysostom,*** on 1 Cor. 11: *"The traitor reclined with Christ and the other Apostles. Christ did not drive the traitor from the Supper; nay, He offered him foods, and made him a partaker of the divine gifts."*
+
+> ***The same,*** Sermon 3 on ch. 1 of Ephesians (Tom. 4): *"I see many, rashly, in whatever manner and from custom rather than legitimately, or with consideration and mind, partaking of the body of Christ."* And a little after: *"How shall you appear before Christ's tribunal, who with unclean hands and lips dare to touch His very Body? You would not with a foul mouth wish to kiss a king; do you kiss the King of heaven, with a foul-smelling soul? This thing is a contumely."*
+
+> ***Jerome,*** *In agone mortis:* *"They who eat you malignly again crucify you unto their own penalty and guilt — not that that eating judges you, because you are altogether impassible and immortal."*
+
+> ***Basil,*** bk. 2 *De Baptismo,* q. 3: *"It is not without peril to eat the Body of the Lord and drink His blood, without purging oneself from every contamination of flesh and spirit."*
+
+> ***Cyprian,*** Sermon 5 *de Lapsis:* *"The unworthy invade the Body of the Lord."* And: *"They do violence to His body and blood, and they offend against the Lord with their hands and mouth."*
+
+> ***Athanasius,*** *Apologia secunda contra Arianos* (Tom. 2): *"The impious does contumely to the blood of Christ."*
+
+> ***Theodoret,*** on 1 Cor. 11: *"Not only to the eleven Apostles, but also to Judas the traitor, He imparted the precious Body and Blood."*
+
+> ***Bernard,*** Sermon 28 *de modo bene vivendi:* *"He who with Judas the traitor receives the Body of the Lord, is condemned with Judas. He who with Peter and the other faithful devoutly and faithfully receives it, without doubt with Peter and the other Apostles in the Body of Christ is sanctified."*
+
+> ***The same,*** *In Cena Domini* (Tom. 1): *"They who live according to the flesh, with Judas the traitor receive a venom; being most gravely to be damned, both for their manifold guilt and for the contempt of the Sacrament, which in reality they receive — but by essence, not by salutary efficacy."*
+
+> ***Anselm,*** on 1 Cor. 11: *"He eats judgement to himself — not because the thing which he receives is evil, but because being evil, he receives evilly, unto judgement, the good which he receives. For as Judas, to whom the Lord gave the morsel, not by receiving evil but by receiving evilly gave place in himself to the devil, so whoever unworthily receives the Sacrament of the Lord does not effect that, because he himself is evil, the sacrament is evil, or that because he does not receive it unto salvation, he receives nothing. For the Body and Blood of Christ is nonetheless present; but he receives it not unto life, but unto judgement, because he does not distinguish the Body of the Lord — that is, does not discern how much this body, which appears to be bread, is more worthy than all creatures."*⁹³
+
+These few sayings we have collected, that we may confirm ourselves and others *in the true sentence,* and that we may plainly repudiate the *fanatical opinions* of others who deny the corporeal presence of Christ in the Supper — who have nothing except human and physical *deliria,* concerning which also in its own place there will be need to speak. Now we shall return to the *grades of God's presence.*
+
+#### The Third Grade of God's Presence
+
+**The third grade** of God's presence is that by which God is present and dwells *even in a visible and inseparable mode* in the good Angels, and in all the blessed in heaven, as in His *temples and hospices;* filling them with His own light, righteousness, and eternal life; giving Himself to be seen *visibly and immediately,* and *never departing from them* — even if only by that society He is present to them which is ***"all in all"*** (1 Cor. 15).
+
+> ***Augustine,*** on Ps. 30, Sermon 3: *"Let all that is besides God be worthless, who protects us in the place of this life — let Himself, after life, be our place."*
+
+> ***Augustine,*** *De cognitione verae vitae,* ch. 45: *"For God will be in us, and we shall be in God, and we shall have spiritual bodies — that is, in swiftness, perspicacity, and lightness, equal to spirits, and penetrating every solid, and more subtle than every element — and subsisting in God the highest Spirit unlocally, unless we wish to take for a place that which is personally and substantially circumscribed. We shall live in eternity, not in time. Time will cease, and we shall come to non-time — that is, we shall live eternally in God, who will be our place, all in all."*⁹⁴
+
+#### The Fourth Grade of God's Presence
+
+**The fourth grade** is *proper to the Son of God assuming the human nature inseparably and by the hypostatic union,* so that the *whole plenitude of the divinity dwells* ***σωματικῶς*** *in Christ the Son of man* (Col. 2), *personally, and as in His own body;* and Christ the Son of God and of man is *one Person,* without *confusion of the natures* and *without divulsion of the same,* and *is a Person always and everywhere.* For ***ὁ Λόγος*** *never deposits the human nature which He once assumed.* And Christ *wherever He is, is God and man* — everywhere, the property of each nature being retained, according to Scripture's testimony. Of this fourth grade there will be said *in the second Article of the Symbol.*⁹⁵
+
+***
+
+## De Contingentia — On Contingency
+
+> ***Contingency is the event of a thing which had causes which by their own nature could have acted otherwise. Contingent is what can happen in either direction.*** For it is opposed, in those things which are subject to human reason, to what is *neither impossible nor necessary.* For ***necessary*** is *what cannot be otherwise.*
+
+Here both *the grades of necessity* and *the fountains of contingency* are to be considered.
+
+### The Four Grades of Necessity
+
+**The first is Absolute, Simple Necessity,** and — as the scholastics have called it — ***necessitas consequentis,*** *the necessity of the consequent* — which is of propositions whose opposites and contradictories are *simply impossible and false* — as are propositions concerning God's essence and attributes: *"God is eternal, just, omnipotent, merciful; He does not will, nor approve, nor help sin,"* and so on.
+
+**The second grade is the Necessity of Definitions and Demonstrations,** or of *theoretical and practical principles,* and of *conclusions rightly built from them,* whose opposites carry an *implication of contradiction.* Hither pertain the propositions concerning *Angels* and *men constituted unto the Image of God,* and *the natural notices and the laws of nature.* As of theoretical propositions: ***"The whole is greater than any of its parts;" "What is greater than the greater is greater than the lesser."*** Of practical propositions: ***"No one is to be unjustly harmed;" "One must live honestly;" "To each his own is to be rendered;" "Do not do to another what you do not wish done to yourself."*** For if this order is not preserved in theoretical and practical matters, the notice and laws of nature *cannot have place,* and *truth is not truth.* If the whole is not greater than any of its parts, it is not *a whole.* If virtue is not something *congruent with the rule of the divine mind,* it is not *virtue.*
+
+**The third grade is the Necessity of Naturally-Acting Things,** which is called ***physical necessity,*** and whose mode of acting is *ordered, the same, and one,* unless God changes it — as: ***"Fire necessarily burns"*** by physical necessity; ***"A finite body cannot be simultaneously and at once in different places,"*** in a physical mode; ***"The sun necessarily is moved,"*** by physical necessity, since nature is so ordered — which however *God often changes,* not being *bound to physical necessity or to secondary causes,* as in the most sweet verses of Dr. Philip [Melanchthon] is said:
+
+> ***Non Deus est numen parcarum carcere clausum,***
+> ***Quale putabatur Stoicus esse Deus:***
+> ***Ipse potest Solis currus inhibere volantes,***
+> ***Ipse velut scopulos flumina stare iubet.***
+
+> *God is not a numen closed in the prison of the Parcae,*
+> *such as the Stoic God was thought to be:*
+> *He can stop the flying chariots of the Sun,*
+> *He bids the rivers to stand as rocks.*⁹⁶
+
+And hither pertain like sayings — Ps. 115: ***"Our God is in heaven; all things whatsoever He willed, He has done."*** *"God can move the fates and take away the fates: yet pious prayers avail more than fates."* For to God and to God's will *all things are subject,* and *nothing does not obey* His command — as *fire did not burn* those cast into the furnace (Dan. 3); *the sun stood still* (Josh. 10). And *physical necessity will be changed in many ways at the last judgement,* when the spiritual things will *rule and surpass the physical bulk and the physical mode* in human and natural bodies. And *many physical things have been constituted by God only for this life* which we now live, and are preserved, but which afterwards in the judgement *shall wholly cease to exist.*
+
+**The fourth grade is the Necessity of Consequence and Immutability** of those things which in their origin and cause were mutable and contingent, but *after the deed cannot be changed* — either because they were so decreed by God, or because they follow from causes which are *no longer to be changed* (though they could have been changed), or because when they happen, contradictories *cannot simultaneously be true.*
+
+As Wisd. 19: ***εἷλκεν αὐτοὺς ἡ ἀξία ἐπὶ τοῦτο πέρας ἀνάγκη*** — *"A worthy necessity drew them to this end;"* that is, *the Egyptians in the Red Sea necessarily perished,* namely by *necessity of consequence,* since their sins did not cease, therefore necessarily they had to be atrociously punished. Matt. 18: ***"It is necessary that scandals come,"*** by necessity of consequence, since the causes of scandals are not changed — namely, the *lightness of men* and the *devil's* ***ἐπιχαιρεκακία*** (delight in evil) — which nevertheless in truth could have been changed. Such also is that of 1 Cor. 11: ***"There must needs be heresies,"*** namely by necessity of consequence, not by an absolute or Stoic necessity. *"Ajax must needs be extinguished, since his heart was wounded;" "Pompey fled from the battle-line; it is therefore impossible that he did not flee."*⁹⁷
+
+### Question: To Which Grade of Necessity Do the Gospel Propositions Belong?
+
+Since in the Church it is certain, from God's patefaction made by certain testimonies which stand in the Prophetic and Apostolic books, that many things are proposed *which cannot be comprehended by the natural light,* but which dissent from the judgement of reason, and yet without any doubting are to be *assented to no less* than if they could plainly be understood by human reason — indeed, on account of the *authority of God,* to be assented to *with greater reverence and subjection, faith and certitude,* than to any other things or opinions — it is wont to be asked: *To which grade of necessity are those things to be referred which stand only on the patefacted will of God,* as: *"He who believes in the Son of God is saved; he who does not believe is damned; the Mission of the Son into the flesh; the Remission of sins for the Son's sake; the Resuscitation of the dead"?*
+
+**The response, plain and true, is this:** *the Gospel locutions and propositions,* by reason of their own *original cause,* are *properly referred to the fourth grade of necessity.* For man *ought not to have fallen* into sin and death; and if he had not so fallen, *there would have been no need of the Mission of the Son of God into the flesh, nor of the Resurrection.* But now, since all these things have been done, and it stands from God's immutable decree that, *after the Son has been made man,* those who believe in Him are saved, those who do not believe are damned, and all shall rise for the judgement — rightly the Gospel propositions are referred *by the theologians to the second grade of necessity,* for two causes: **(1)** that the *will of God be shown immovable* in all things which the doctrine of the Gospel proposes; **(2)** that *our faith be certain, and our assent firm.* For it is as true — ***"He who believes in the Son is saved;" "There shall be a resurrection of the dead"*** — as it is true that ***"Twice four are eight."*** For this is a ***Gospel definition and demonstration and promise,*** not legal, not natural, not ***γραμμική*** (linear-Geometric), but *drawn from the bosom of the Father through the Son,* and ***γραφικῇ*** *(by writing),* as certain as are all natural and legal notices — indeed *as certain as absolute necessity.*
+
+And from this *necessity of Gospel definition and demonstration,* the necessary *conclusion* is built up:
+
+> ***"He who believes in the Son has eternal life. I believe. Therefore [I have eternal life]."***
+> ***"He who promises owes. Thou, God, hast promised me life and salvation for the sake of Thy Son. Therefore Thou owest to me"*** — not by *absolute necessity,* but by the *definition and demonstration of the Gospel,* or of the *promise* by which God *has made Himself our debtor.*
+
+**And this violence is grateful to God,** says ***Tertullian,*** *"and thus the violent seize the kingdom of the heavens,"* *by true faith in the Son,* ***κατὰ ξυνοίας οὐ κοινὰς, ἀλλὰ θείας*** (*by knowledges not common but divine*).⁹⁸
+
+### The Three Fountains of Contingency
+
+But the *fountains of contingency* are three:
+
+**The first** is the ***liberty of will in God,*** who by *most-free will* willed to create nature, when He could also have *not created it,* or *created it otherwise;* and *He can destroy it when He wills.*
+
+**The second** is the ***liberty of will in the rational creatures,*** which has place in those things which are subject to reason — unless it is impeded either by the impulsions of devils or by human infirmity.
+
+**The third** is the ***mutability of elementary matter.*** As: contagious plague does not infect all, because temperaments differ. It is contingent for it to rain at Leipzig and not to rain at Nuremberg, because the clouds are variously driven without certain and stable law. It is contingent for air and animals to be infected by contagion in Attica but not to be infected in Thessaly — as Hippocrates is reported to have driven the pestilence from Thessaly by *burning forests* when the winds were blowing toward the infected regions, and *repelling the contagion by the purified air.* For matter is *by light momentum* driven now one way, now another.
+
+### The Six Chief Causes in Human Actions and Events
+
+In *human actions and events* also, **six chief causes** are always to be considered:
+
+**1.** ***God, the prime governor of things,*** either *immediately without secondary causes* or *mediately* doing something.
+
+**2.** ***The Stars.***
+
+**3.** ***The Temperaments.***
+
+**4.** ***The will of man,*** *morals, education, studies, discipline.*
+
+**5.** ***The fury of the devils.***
+
+**6.** ***External violence,*** or the wandering motion of elementary matter variously rushing.
+
+And in all these things is to be held by pious minds the saying of Ps. 31: ***"In Thy hand, Lord, are the lots, the fates, the times, the occasions, the circumstances, the events, the accidents, my life and my death."*** And Matt. 10: ***"All the hairs of your head are numbered."*** For without God's *will or permission,* the other causes can effect nothing. And against every fear of peril, is to be held the consolation which ***Chrysostom*** rehearses in these words:
+
+> *"Just as none of us descends into the forum without shoes or the adornment of body or garments, so let us never go out without the word of God; but as we are about to cross the vestibules of the doors, let us speak this word: 'I renounce thee, Satan, and I join myself to Thee, Christ.' Without this voice let us never go out. This shall be to us a staff, an armament, and an inexpugnable tower against the devil and against evil men."*⁹⁹
+
+***
+
+### The Two Principal Considerations
+
+Let us know that in this whole doctrine we ought principally to look to two things:
+
+- **The former** is the ***will of God.***
+- **The latter** is the ***will of the rational creatures*** — both the good, as of the Angels confirmed in truth, and of the pious men; and the evil, as of the devils and of evil men.
+
+### The Six Considerations on the Will of God
+
+In the doctrine concerning the will of God, these things are chiefly to be considered:
+
+**1.** That God is the *prime governor, director, and mover of all things.*
+
+**2.** That there is a *discrimen between those things which depend on God's will simply,* and *those things which depend on human or diabolical will.*
+
+**3.** That God *neither wills, nor helps, nor approves sin.*
+
+**4.** That God *wills nothing but what is good.*
+
+**5.** That the *will of God is patefacted in the Law and in the Gospel,* as far as concerns *the life and salvation of men.*
+
+**6.** That God is *not bound to secondary causes.*
+
+*(In the doctrine on the will of the rational creatures, other considerations follow — treated in the next tranche, together with the Fall, free will, sin, the Law, and the Law-Gospel discrimen that bridges to Article II.)*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Endnotes
 
 ***Finis***
@@ -1730,3 +1990,25 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **⁸⁷** *Theodoret — οἱ ὑμνοῦντες καὶ διακονοῦντες.* The Greek phrase Selnecker attributes to **Theodoret of Cyrus** — *"those who hymn and minister"* — as a definition of the angelic office, is drawn from **Theodoret's** *Quaestiones in Genesim* (PG 80:104–108) on the interpretation of the seraphim of Isa. 6 and the ministering angels of Heb. 1:14. It is Selnecker's characteristic Greek-Father tag for the *twofold office of angels:* the *doxological* (hymning) and the *diaconal* (ministering to the Church and the pious).
 
 **⁸⁸** *The Image of God — natural, essential, eternal vs gratuitous.* Selnecker's distinction between the ***ἐικῶν ἀΐδιος πατρός*** (*eternal Image of the Father,* proper only to the Son) and the ***gratuitous Image*** given to angels and men is the standard sixteenth-century Lutheran doctrine of the *Imago Dei,* worked out by Melanchthon in the 1543 *Loci* and codified in *Formula of Concord* Article I (Original Sin) and Article II (Free Will). The move — that the *natural Image* is Christological (John 14:9, Col. 1:15) and the *gratuitous Image* is the whole *iustitia originalis* now lost in the Fall and to be restored by regeneration — is the Wittenberg alternative to the medieval-scholastic distinction between the *natural imago* (indestructible in fallen man) and the *supernatural similitudo* (lost in the Fall but restored by grace).
+
+**⁸⁹** *The third grade of Providence — the peculiar providence of the elect.* Selnecker's tripartite division of Providence (universal / special / peculiar-to-the-elect) is standard Wittenberg doctrine, drawn from Melanchthon's *Loci* (1543 edition, *De causa peccati et de contingentia*) and reappearing throughout the Lutheran-orthodox systems (Chemnitz's *Loci* on Providence; Gerhard *LT* IV; Quenstedt *Systema* I). The Rom. 8:1 anchor for the third grade — *nulla nunc condemnatio* — reads Providence Christologically: God's *peculiar* providence for the elect is not a separate decree from *justification through Christ,* but is the *executive shape* which the *decretum electionis in Christo* takes in the historical life of the believer.
+
+**⁹⁰** *The Seven Rules on Predestination.* Selnecker's rules are drawn substantially from his own contribution to *Formula of Concord* Article XI, on which he was principal draftsman — the pre-history of which is his 1568 *De Praedestinatione* (Jena) and his 1573 *Institutio* Pars I locus *De Praedestinatione* (recently translated in the companion volume). The seven-rule structure — (1) *sola Scriptura* on God's hidden will; (2) universality of the grace-promise; (3) no *προσωποληψία;* (4) no contradictory wills in God; (5) grace exuberates above sin; (6) as in Adam all fell, so in Christ all who believe rise; (7) *no one predestined to damnation* — is the exact seven-fold structure that appears in FC SD XI. The *sedes* for rule 7 (Ezek. 33:11 and Hos. 13:9) became the Lutheran-orthodox proof-text against both the Reformed *decretum absolutum* on one side and the Semi-Pelagian *praevisa merita* framework on the other.
+
+**⁹¹** *σωματικῇ παρουσίᾳ — the corporeal presence.* The Greek phrase — literally *by corporeal being-present* — is Selnecker's technical rendering for the Lutheran *praesentia corporalis substantialis* against both the Reformed *praesentia virtualis* (presence-by-power) and the Zwinglian *praesentia significativa* (presence-by-signification). The phrase appears in Chemnitz's *De duabus naturis* and would become the *terminus technicus* of *Formula of Concord* Article VII: *"vere et substantialiter praesens."*
+
+**⁹²** *The Real-Presence response — the celestial-miraculous-spiritual mode.* Selnecker's response — that Christ's body is in heaven *circumscriptively and visibly* per naturam corporis, and *simultaneously* in the Supper *ἀπεριγράπτῳ modo* — anticipates the *Formula of Concord* Article VII vocabulary of the *illocal, incomprehensible, celestial* mode of the Supper-presence. His polemical list of Scripture-versus-physics contradictions (creation ex nihilo; sun stopped; virgin birth; body walking on water; body carried into heaven; entry through closed doors; ἄφαντος; resurrection of putrefied bodies) is drawn from Chemnitz's *De duabus naturis* and appears substantially unchanged in FC SD VII 93–100.
+
+**⁹³** *The Manducatio Impiorum patristic catena.* Selnecker's catena is the classical Lutheran witness-list for the *manducation of the unworthy* against the Reformed *fide-manducation-only* position, running from **Augustine** (five citations: *contra Fulgentium* 32; *In Iohannem tract.* 50 on ch. 12; *Ep.* 162 *ad Glorium;* *Enarratio in Ps. 10;* *Ep. Joh. tract.* 7) through **Chrysostom** (*Hom. in 1 Cor.* 27; *Hom. in Eph.* 3), **Jerome** (*In agone mortis,* an ascetic-pastoral text of the Hieronymian corpus), **Basil** (*De Baptismo* II.3), **Cyprian** (*De lapsis,* Sermon 5 in the sixteenth-century enumeration), **Athanasius** (*Apologia contra Arianos* II), **Theodoret** (*In 1 Cor.* 11), **Bernard** (*Sermo* 28 *de modo bene vivendi* — a Cistercian ascetic text; and *In Cena Domini* — a Passiontide sermon), and **Anselm** (*In 1 Cor.* 11 — the Lombardian tradition-commentary attributed to Anselm in the pre-critical editions). The whole catena is drawn substantially from Chemnitz's *Loci Theologici* on the Lord's Supper and had earlier appeared in Wittenberg-orthodox form in Selnecker's own *Institutio* Pars II *De Coena Domini* (companion volume).
+
+**⁹⁴** *The third grade of God's presence — visible in the blessed.* The two Augustine citations — *Enarratio in Ps. 30* Sermon 3 (PL 36:245) and the pseudo-Augustinian *De cognitione verae vitae* ch. 45 (PL 40:1039) — establish the doctrine that in the beatific vision God is *place* for the blessed. The *De cognitione verae vitae* is a late twelfth-century treatise (probably by Hugh of Fouilloy) traditionally ascribed to Augustine in the sixteenth-century editions of the Fathers, and its four qualities of the resurrection-body (swiftness, perspicacity, lightness, penetrating-solid-things) had passed into medieval Sacramental theology through the Sentences of Peter Lombard.
+
+**⁹⁵** *The fourth grade of God's presence — proper to the Son of God.* Selnecker here plants the seed for the whole *De Communicatione Idiomatum* section that will occupy Article II (T5 in this translation). The two theses — that *ὁ Λόγος never deposits the human nature which He once assumed,* and that *Christ wherever He is, is God and man* — are the two pillars of the mature Chalcedonian-Lutheran Christology that stands directly behind FC SD VIII 78ff.
+
+**⁹⁶** *Melanchthon's verses on the Stoic-God vs the free God.* The two elegiac distichs — *"Non Deus est numen parcarum carcere clausum / Qualeputabatur Stoicus esse Deus: / Ipse potest Solis currus inhibere volantes, / Ipse velut scopulos flumina stare iubet"* — are Melanchthon's own, drawn from his poetic *Adnotationes* and often quoted in the Wittenberg-tradition on Providence. Selnecker reproduces them as a *loci communes* set-piece.
+
+**⁹⁷** *The four grades of necessity — the Wisdom, Matthew, Corinthians, Ajax, Pompey catena.* The classification of necessity into four grades (absolute-simple-consequentis / definitions-and-demonstrations / natural-physical / consequentiae-and-immutabilitatis) is a standard Melanchthonian move, drawn from *Erotemata dialectices* (1547) and *Loci* on Providence, and codified in Wittenberg-Lutheran orthodoxy. The Wisdom 19:4 Greek verbatim (*εἷλκεν αὐτοὺς ἡ ἀξία ἐπὶ τοῦτο πέρας ἀνάγκη*) is the *sedes* for the fourth-grade doctrine of *necessitas consequentiae* — necessity that arises not from the intrinsic nature of the propositions but from the fact that certain contingent causes have in fact already operated. The Ajax and Pompey examples are stock rhetorical illustrations from the humanist logic-textbooks.
+
+**⁹⁸** *Tertullian — the violent seize the kingdom of the heavens.* Tertullian's saying — that the *violent* faith of the believer, who *seizes God as debtor by God's own promise,* is what the Lord meant in Matt. 11:12 (*regnum caelorum vim patitur, et violenti rapiunt illud*) — is drawn from *De Paenitentia* 6 (CCL 1:329) and *De Patientia* 12 (CCL 1:311). The Greek epigram Selnecker adds — *κατὰ ξυνοίας οὐ κοινὰς, ἀλλὰ θείας* ("by knowledges not common but divine") — is his own paraphrastic gloss on the passage, capturing the point that the *violence* of Gospel-faith is not natural forcefulness but the *divine* knowledge of God's promise turning back upon God as *God's own debt* to the believer.
+
+**⁹⁹** *Chrysostom on renouncing Satan when going out.* The reference is to **Chrysostom,** *Homilia XI in Epistolam ad Ephesios* (PG 62:82ff.), on Eph. 4:22–24, one of the pastoral-liturgical Homilies where Chrysostom presses the *renunciation of Satan* from the baptismal liturgy into the daily discipline of the pious layperson. Selnecker's marginal note *Hom. de ornatu mulierum in foro* is a variant title for the same Homily as it circulated in the Latin patristic collections of the mid-sixteenth century.
