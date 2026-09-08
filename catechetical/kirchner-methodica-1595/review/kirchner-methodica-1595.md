@@ -11202,4 +11202,199 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXI De Poenitentia TRULY COMPLETE — rendered in 5 tranches (T85–T89). Q1–Q47 + OBIECTIONES I–III on contritio (embedded early) + OBIECTIO on 2 Cor 7 + OBIECTIONES I-III on Mal 3/Heb 6/Esau + OBIECTIONES I-II on confessio + OBIECTIONES I-IX on satisfactio + OBIECTIONES I-VI on abrogation of auricular confessio + OBIECTIONES I-III on retention. Total Locus XXXI: 47 top-level Q + ~26 Obj units. 706 top-level Q + 411 Obj rendered so far. Locus XXXII De Libertate Christiana follows in T90 at OCR line 40006.]*
+# Locus XXXII. Of Christian Liberty
+### *De Libertate Christiana*
+
+## Question 1. What by the word "liberty" in this article is understood? [*[Gal. 5]*] [*[T. 1, p. 147, &c.]*]
+
+**What by the word "liberty" in this article is understood?**
+
+**Respondeo**: **Spiritual liberty, or liberation from sin and from eternal damnation, John 8[:36]**: *"If the Son shall make you free, ye shall be free indeed."*
+
+— ❦ —
+
+## Question 2. What is Christian liberty? [*[T. 3, p. 435, in the postil upon the text of Ev. Ioh. 8]*]
+
+**What is Christian liberty?**
+
+**Respondeo**: **It is spiritual liberty, or liberation from sin, from the power of the Devil, from the accusation of the Law, from the wrath of God, from death: item, from Mosaic ceremonies and human traditions — which liberty Jesus Christ hath acquired, and to all the faithful freely through faith in himself doth give.**
+
+— ❦ —
+
+## Question 3. How is Christian liberty divided?
+
+**How is Christian liberty divided?**
+
+**Respondeo**: **Into four grades:**
+
+**I. The first is liberty from sin, that it condemn not those who through faith in Christ are — John 8, Gal. 3 and 5, Col. 2[:14]**: *"blotting out the handwriting which was against us,"* etc.
+
+**II. The second is that whereby the dominion of sin, through the Holy Spirit, in our mortal body is taken away. For to those that believe is given the Holy Spirit: who in themselves doth strip sin of dominion, doth crucify it, and in the faithful doth begin a new life. Whence Rom. 8[:13]** we are bidden: *"To mortify by the Spirit the deeds of the flesh."* **And Rom. 6[:22]**: *"But now being freed from sin, and made servants of God,"* etc. **1 Pet. 2[:16–17]**: *"as free, and not having the veil of malice for liberty, but as servants of God: honour all men, love the brotherhood."* **Which grade, although in this life imperfect it be and remain, yet in the faithful is begun, and altogether is to be begun.**
+
+**III. The third grade is liberty from forensic laws and from the ecclesiastical ceremonies of Moses: for these to the Israelitish people alone, and indeed for a certain time, are given — that they should last until the Advent — Matt. 11[:13]**: *"For all the Prophets and the Law until John did prophesy."*
+
+**The Mosaic polity was instituted, that there might be a certain place, a certain people, out of which the Messiah should be born — the which being born, it should cease.**
+
+**Ecclesiastical ceremonies are given, that they might be types of future things, Heb. 10 — when therefore Christ hath now appeared, and hath fulfilled all things, they too are ceased. And on this account the polity also and the temple of the Jews are destroyed, that we might know these Laws not to bind the people of the New Testament: and that free and lawful it is for Christians to use the honest laws of any place's Magistrate, not repugnant to the law of nature and to the Word of God.**
+
+**IV. The fourth grade is liberty from human traditions, that the consciences of the faithful be not burdened or bound by them, as by things necessary to salvation. But concerning human traditions, more hereafter.**
+
+— ❦ —
+
+## Question 4. Who is the true Author of this liberty?
+
+**Who is the true Author of this liberty?**
+
+**Respondeo**: **God himself: for no creature could have devised or acquired this — since to no creature is it known, by what means sin were to be abrogated, the wrath of God appeased, and men to God reconciled.**
+
+— ❦ —
+
+## Question 5. What compelled and moved him to this?
+
+**What compelled and moved him to this?**
+
+**Respondeo**:
+
+**I. His infinite and inexhausted mercy, whereby he willed not that we all under the yoke and slavery of sin perish, John 3.**
+
+**II. Our extreme misery and calamity, because in no wise could we redeem ourselves from the kingdom of sin, under which sold we were, Rom. 7:14.**
+
+— ❦ —
+
+## Question 6. But who merited this liberty? [*[T. 3, p. 433]*]
+
+**But who merited this liberty?**
+
+**Respondeo**: **Jesus Christ by his satisfaction for sin, and by fulfilment of the whole Law. John 8:36**: *"If the Son shall make you free, ye shall be truly free."*
+
+— ❦ —
+
+## Question 7. But to whom doth this liberty pertain?
+
+**But to whom doth this liberty pertain?**
+
+**Respondeo**: **To the faithful alone, who through faith are in Christ Jesus, Rom. 8[:1]** — *"for to them there is no condemnation."* **And although by the death of Christ the whole race of men be redeemed and freed, yet the believing alone are made partakers of this liberation, John 1:12**: *"he gave power to be made the sons of God, to them that believe in his Name."*
+
+— ❦ —
+
+## Question 8. What are the properties of this liberty?
+
+**What are the properties of this liberty?**
+
+**Respondeo**:
+
+**I. That it is spiritual, not carnal — of conscience, not of the flesh, Gal. 5[:13].**
+
+**II. That it embraceth the donation of righteousness availing before God, the gift and government of the Holy Spirit, consolation, and help in all miseries.**
+
+**III. That on the contrary it embraceth liberty or liberation from sin, from the wrath of God, from the malediction of the Law, from the tyranny of the Devil, and from eternal death and damnation.**
+
+**IV. That in the other life at last — as to renovation of heart, or the interior man — it shall be perfected. For then our nature shall be fully freed from sin, perfectly shall serve righteousness, 1 Cor. 15, 2 Pet. 3:13**: *"But we look for new heavens and a new earth according to his promises, in which righteousness dwelleth."*
+
+— ❦ —
+
+## Question 9. What is the end of this liberty?
+
+**What is the end of this liberty?**
+
+**Respondeo**: **The end of it is eternal life. For therefore are believers freed, that through Christ freely they may be made heirs of eternal life, John 3:16**: *"that whosoever believeth in him should not perish, but have life eternal."*
+
+— ❦ —
+
+## Question 10. But what fruits doth it bring forth?
+
+**But what fruits doth it bring forth?**
+
+**Respondeo**: **Into whatever heart this liberty descendeth, in it is liberty of conscience, peace with God, in it dwelleth the Holy Spirit, Rom. 8; and that man no longer serveth sin, but righteousness. For Christian liberty freeth not the faithful from the obedience of the Decalogue that is to be rendered: but when from Christ freely this liberty the faithful have received, and of the Holy Spirit are made partakers, they ought with greater promptitude by an honest conversation to prove their gratitude to God, to resist sin remaining in the flesh, and in righteousness and true sanctity to serve God, Rom. 6:22**: *"being freed from sin, and made servants of God,"* etc.
+
+— ❦ —
+
+## Question 11. Do the Papists rightly teach, that for the regenerate obedience of the Law is necessary to salvation?
+
+**Do the Papists rightly teach, that for the regenerate obedience of the Law is necessary to salvation?**
+
+**Respondeo**: **By no means: for this to the doctrine of Christian liberty is diametrically repugnant. For Christ hath fulfilled the Law for us, and this his fulfilment doth to us through faith impute, Rom. 10:4**: *"for Christ is the end of the Law unto righteousness to every one that believeth,"* **because through the Law and its works, on account of the corruption of our flesh, before God to be justified or saved we could not.**
+
+— ❦ —
+
+## Question 12. Do they rightly hand down: that the observance of human traditions is necessary to salvation: and that it lieth with the Pontiff and Bishops to hand them down and prescribe them? [*[T. 6, p. 527; T. 3, p. 26; T. 7, p. 223; T. 5, p. 121]*]
+
+**Do they rightly hand down: that the observance of human traditions is necessary to salvation: and that it lieth with the Pontiff and Bishops to hand them down and prescribe them?**
+
+**Respondeo**: **By no means. For from this also through Christ we are freed. And since the Divine law itself be not so necessary to salvation, that through it or its works to obtain salvation it be necessary [*[T. 3, p. 53–54]*] — much less human traditions, by whomsoever at last handed down, can this perform. And Christ himself expressly damneth the doctrines and precepts of men, Matt. 15:9**: *"In vain do they worship me, teaching doctrines and mandates of men."*
+
+— ❦ —
+
+## Question 13. **Bishops obedience is owed. Bishops these traditions prescribe. Ergo to them obedience is owed?**
+
+**Respondeo**: **To Bishops obedience is owed in those things, which from the Word of God, according to the Word of God, they hand down: but those human traditions — since without the Word of God, yea against the express Word of God, upon consciences as a grievous burden and an unbearable yoke they be imposed, and are feigned necessary to salvation — no obedience in them to Bishops is owed.**
+
+— ❦ —
+
+## Question 14. But how in this Christian liberty, in things adiaphorous and in ecclesiastical ceremonies, is it rightly to be used? [*[T. 2, p. 444, &c.; T. 4, p. 277, 523 & seq.; T. 4, p. 190; T. 7, p. 261, 441; T. 5, p. 166; T. 3, p. 277; T. 6, p. 32; T. 4/1, p. 146–148; T. 2, p. 69, 182; T. 5, p. 123]*]
+
+**But how in this Christian liberty, in things adiaphorous and in ecclesiastical ceremonies, is it rightly to be used?**
+
+**Respondeo**:
+
+**I. That one Church easily judge not or condemn another on account of these. For grievously sinned Pope Victor in condemning the Churches of Asia, on this account, that they celebrated Pascha at the same time with the Jews. Socrates, book 5, chapter 22.**
+
+**II. That the consciences of the weak be spared, Rom. 14:1**: *"Him that is weak in the faith receive, not to the disputations of thoughts,"* etc. **1 Cor. 8:12–13**: *"But so sinning against the brethren, and striking their weak conscience, ye sin against Christ. Wherefore if meat scandalize my brother, I will not eat flesh for ever, that I scandalize not my brother."*
+
+**III. But as to the pertinacious, who suffer not to be informed, they in their obstinacy are not to be confirmed, lest Christian liberty suffer violence, but on the contrary against such we should use our liberty, unto which we are called. Concerning whom Paul, Gal. 2:4–5, saith**: *"But because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Jesus, that they might bring us into bondage: to whom neither for an hour did we yield subjection, that the truth of the Gospel might continue with us."* **So also against the Papists the same is to be observed.**
+
+— ❦ —
+
+## Question 15. Is it not therefore, in time of persecution, lawful to yield in these to the enemies of the truth: and, for the tranquility and peace of the Church to be retained, such external ceremonies and rites to admit? [*[T. 2, p. 444 & seq.]*]
+
+**Is it not therefore, in time of persecution, lawful to yield in these to the enemies of the truth: and, for the tranquility and peace of the Church to be retained, such external ceremonies and rites to admit?**
+
+**Respondeo**: **By no means: for in time of persecution, in the case of confession, when adversaries either by force or by cunning attempt to oppress the truth, and their false doctrine little by little into our Churches to introduce privily, even in things adiaphorous with a good conscience to gratify them we neither can nor ought. 2 Cor. 6:14**: *"Bear not the yoke with unbelievers."* **Gal. 5:1**: *"Stand in the liberty wherewith Christ hath made us free."* **So the soldiers of Julian, when he by a certain hidden snare attempted to make Christians partakers of ethnic impiety — for when he was distributing gold, as is the ancient custom in military orders, he himself sat on the royal throne: but beyond custom he had set out an altar with coals, and hard by on a little table incense; and as each one approached to receive the gold, he ordered him first to put a little incense into the pan, then to take the gold from his hand. And so, not a grain of incense into the pan would they put, standing in Christian liberty: but they who did it, were held for apostates. Theodoret, book 3, chapter 16. Wherefore even now attention is to be given by Christians, that they consent not in conformity of Papist ceremonies, unless first the Papists shall have abjured their blasphemies, and shall have received the truth of the Gospel,** etc.
+
+— ❦ —
+
+## Question 16. But of the Jews and the like, who upon us the Mosaic Laws of the observation of the Sabbath, &c. would impose, what is to be resolved?
+
+**But of the Jews and the like, who upon us the Mosaic Laws of the observation of the Sabbath, &c. would impose, what is to be resolved?**
+
+**Respondeo**: **These in the Church of Christ are not to be heard: for as above hath been said, by the Advent of Christ the ceremonial and forensic Laws of Moses are abrogated: wherefore to communicate with them, and to receive them anew, we ought not. Gal. 5:2**: *"For if ye be circumcised, Christ shall profit you nothing."*
+
+— ❦ —
+
+## Question 17. Do those act rightly, who under pretext of Christian liberty deny to the Magistrate the obedience owed?
+
+**Do those act rightly, who under pretext of Christian liberty deny to the Magistrate the obedience owed?**
+
+**Respondeo**: **By no means: for Paul, Gal. 5:13, saith**: *"only, use not liberty for an occasion to the flesh,"* etc. **The spiritual liberty of Christians taketh not away the corporal obedience owed to the magistrate in external things.**
+
+— ❦ —
+
+## Question 18. **But the property of liberty is, to owe nothing to any man. Christians are free. Ergo they owe nothing to any man.**
+
+**Respondeo**: **The Major is true, of liberty in God himself, and of liberation from sin made through Christ, if so it be taken: and thus far the Minor is rightly assumed and the argument well concludeth. But if the Major and the whole argument concerning the obedience which Christians owe to the magistrate thou take, it is false, it concludeth nothing: for the malediction, not the obedience, of the Law is taken away. Whence Christ himself, Matt. 22, saith**: *"Render unto Caesar the things which are Caesar's."*
+
+— ❦ —
+
+## Question 19. Do the Libertines rightly teach, that to Christians all things are free and lawful — even sins themselves? [*[T. 2, p. 325–326, p. 306]*]
+
+**Do the Libertines rightly teach, that to Christians all things are free and lawful — even sins themselves?**
+
+**Respondeo**: **By no means: for therefore hath Christian liberty the donation of the Holy Spirit, that sins and evils we may shun, and that we suffer not sin to reign in our mortal body, Rom. 6:12**: *"Let not sin therefore reign in your mortal body, that ye obey the concupiscences thereof."*
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But Paul, 1 Cor. 6:12, saith: "All things are lawful to me"?**
+
+**Respondeo**: **Paul there of Adiaphora and of the eating of things sacrificed to idols speaketh, and teacheth, that free it is either to eat of them or not, without however superstition and scandal of the weak, who in doctrine be not yet sufficiently informed. Nor therefore hence is it concluded: Ergo to Christians whatever pleaseth is lawful: for this Paul teacheth not, but forbiddeth — chiefly, 1 Cor. 5, 6; Gal. 1[:19–21]**: *"But manifest are the works of the flesh, which are, fornication, uncleanness, unchastity, luxury,"* etc. **and things like these, of which I foretell you, as I have foretold, that they who do such things obtain not the kingdom of God.**
+
+— ❦ —
+
+### Objection II. **1 Cor. 9:5 it is said: "Have we not power to lead about a woman a sister?" Ergo Paul approveth uncleanness.**
+
+**Respondeo**: **This is a Diabolical perversion of Paul's words: for there of holy matrimony — which as much to Paul and Barnabas as to the rest was free — he speaketh. But these blasphemous slanderers to unchastity twist the words, and to argue from thence that it is lawful they attempt: whereas notwithstanding Paul expressly writeth, 1 Cor. 6:9**: *"Be not deceived, neither fornicators, nor adulterers, nor effeminate shall inherit the kingdom of God."*
+
+— ❦ —
+
+*[Locus XXXII De Libertate Christiana COMPLETE — rendered in 1 tranche (T90). Q1–Q19 + OBIECTIONES I–II on Pauline texts (1 Cor. 6:12 adiaphora; 1 Cor. 9:5 sister-wife). 725 top-level Q + 413 Obj rendered so far. Locus XXXIII De Scandalo follows in T91 at OCR line 40522.]*
