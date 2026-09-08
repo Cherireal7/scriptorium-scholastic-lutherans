@@ -9775,3 +9775,127 @@ They ask however of us, that we teach them **at what time therefore that defecti
 — ❦ —
 
 *[Locus XXVIII De Ecclesia Catholica vel Christiana is TRULY COMPLETE — rendered in 8 tranches (T72–T79). Total Locus XXVIII: 47 top-level Q + numerous OBIECTIONES clusters (visibility × 5 + notae × 3 + Papist claim + Catholica × 4 [incl. Roman primacy] + antiquity × 4 + scandala × 3 + paucitas + authority × 5 + closing × 2 + Church-can-err × 3) ≈ 30 Obj units. 568 top-level Q + 372 Obj rendered so far. Locus XXIX De Ministerio follows in T80.]*
+
+— ❦ —
+
+# Locus XXIX. Of the Ministry
+
+### *De Ministerio*
+
+## Question 1. Is there any Ministry of the Word in the New Testament?
+
+**Is there any Ministry of the Word in the New Testament?** [*[Gen. T. 1, p. 128; T. 2, pp. 383, 388; T. 5, p. 174*]*]
+
+**Very much so.** For **2 Cor. 5:18 Paul saith**: *"God hath given us the Ministry of reconciliation."*
+
+### Objection.
+
+**But Jer. 31:34 it is said**: *"No more shall a man teach his neighbour, for all shall know me."*
+
+**True this is, that we are taught by the Holy Spirit** — but yet **not without the medium and instrument of the Ministry**: for **through this the Holy Spirit is given — Acts 2:38; Acts 10:44**. **Not therefore this the Prophet willeth — that in the New Testament there shall be no Ministry of the Word** (else Christ would not have instituted [one]) — but **first he noteth: that in the New Testament, on account of the wondrous light kindled by Christ, greater and more illustrious shall be the knowledge of the divine mysteries than was in the Old under Mosaic shadows and types — so indeed that any of Christians may plainly, openly, and without covering see and understand them**.
+
+Then at the same time he looketh to **the absolute perfection of the kingdom of Christ in the future life, where plainly the Ministry of the Word shall cease, and all the saints shall see God face to face, and without such media shall deal with him — 1 Cor. 15:28**: *"That God may be all in all."*
+
+— ❦ —
+
+## Question 2. What is the Ministry of the Gospel?
+
+**What is the Ministry of the Gospel?** [*[T. 4/1, p. 498*]*]
+
+**It is a power instituted and given by Christ himself of preaching penitence and remission of sins, of administering the Sacraments according to the institution of Christ, of governing the Church according to the norm and prescript of the word: through which the Holy Spirit is efficacious, and illuminateth men and sanctifieth them unto eternal life.**
+
+— ❦ —
+
+## Question 3. How manifold is the Ministry?
+
+**How manifold is the Ministry?**
+
+**Only one and simple**, as concerneth the heads of instruction. For although **the calling of the Apostles was more sublime than that of other Ministers, yet they deliver the same doctrine, administer the same Sacraments, and follow the one and same norm of the word of God**.
+
+— ❦ —
+
+## Question 4. Who instituted the Ministry?
+
+**Who instituted the Ministry?**
+
+**Christ himself** — **Matt. 28:19**: *"Go therefore, teach ye all nations, baptizing them"* — and **Mark 16:15**: *"Preach the Gospel to every creature."*
+
+— ❦ —
+
+## Question 5. By what organs doth he use unto the Ministry?
+
+**By what organs doth he use unto the Ministry?**
+
+**In the New Testament, in the beginning Christ himself taught; then he sent the Apostles — Matt. 28; Luke 24. The Apostles [sent] their own disciples.**
+
+— ❦ —
+
+## Question 6. Is the power of the Ministry in the choice of the Ministers, so that it is lawful for them to use it at their pleasure?
+
+**Is the power of the Ministry in the choice of the Ministers, so that it is lawful for them to use it at their pleasure?** [*[T. 4/1, p. 317, 318; Gen. T. 4, p. 190*]*]
+
+**By no means.** For **they have a certain and prescribed norm and mandate — Matt. 28:20**: *"Teaching them to observe all things, whatsoever I have commanded you."* **Gal. 1:8–9**: *"Though we, or an Angel from heaven, evangelize to you beside what we have evangelized to you, let him be anathema,"* etc. **The same is the reason of the Sacraments. For these also are to be administered by them according to the prescribed instruction of Christ — not to be tempered to their choice**, which the Roman Pontiff hath done.
+
+— ❦ —
+
+## Question 7. What are the chief parts of the Ministry?
+
+**What are the chief parts of the Ministry?**
+
+**I.** **The preaching of penitence and remission of sins** — **Luke 24:47**.
+
+**II.** **The administration of the Sacraments.**
+
+**III.** **The power of the keys, or of remitting and retaining sins.**
+
+**IV.** **Discipline or Ecclesiastical governance conformed to the prescript of the word.**
+
+— ❦ —
+
+## Question 8. What sort ought the ministers to be? [*[T. 8, p. 342 f. b; T. 7, p. 97 f. b; T. 2, p. 108; T. 6, p. 188; Gen. T. 2, p. 123; T. 5, p. 513, p. 429; Gen. T. 4, p. 87; T. 8, p. 345; T. 5, pp. 366, 367, 151; T. 7, p. 372; Gen. T. 1, p. 109; T. 8, p. 295*]*]
+
+**What sort ought the ministers to be?**
+
+**I.** **Let them be legitimately called, and not run being uncalled — Jer. 23:21**: *"I sent not the Prophets, and they were running."*
+
+**II.** **Let them not be a reed shaken by the wind — Matt. 11:7.**
+
+**III.** **Let them be prudent as serpents, and simple as doves — Matt. 10:16.**
+
+**IV.** **Let them be diligent workers not needing to be ashamed, rightly handling the word of truth — 2 Tim. 2:15.**
+
+**V.** **Let them be irreprehensible — Titus 1:6, 9.**
+
+**VI.** **Let them not weary of always repeating the same things in sound doctrine — Phil. [3:1].**
+
+**VII.** **In arguing let them not be silent** — **Isa. 58:1**: *"Cry out, cease not, as a trumpet exalt thy voice, and announce to my people their wickednesses, and to the house of Jacob their sins."*
+
+**VIII.** Finally, **let them be such as Paul wills them to be — 1 Tim. 3; Titus. It behoveth,** saith he, **a Bishop to be irreprehensible.**
+
+— ❦ —
+
+## Question 9. Unto what end is the Ministry instituted?
+
+**Unto what end is the Ministry instituted?** [*[Gen. T. 1, p. 127*]*]
+
+**That Christ may gather to himself from the human race a Church, to whom he may communicate himself and all his celestial goods, and whom he may save** — **1 Cor. 1:21**: *"It pleased God through the foolishness of preaching to save the believing."*
+
+— ❦ —
+
+## Question 10. What is its power and efficacy?
+
+**What is its power and efficacy?** [*[T. 7, p. 68; T. 5, p. 175; Gen. T. 2, p. 182; Gen. T. 2, p. 5; Gen. T. 4, p. 61; Gen. T. 1, p. 135*]*]
+
+**Respondeo**: **It worketh true knowledge of God, penitence, faith in Christ, new obedience, true invocation of God, etc.** For **all these things God through the Ministry in the Church effecteth**. Whence **Rom. 1:16 it is said**: *"The Gospel is the power of God unto salvation to every believer."* And **2 Cor. 3**: **it is called the Ministry of the Spirit, because the Holy Spirit is efficacious through it** — as the book of the Acts of the Apostles luculently attesteth, describing the history of those who through the Ministry of the word were converted to God.
+
+— ❦ —
+
+## Question 11. What fighteth with the Ministry?
+
+**What fighteth with the Ministry?**
+
+**False Doctors and false doctrine — through which the Devil draweth the hearts of men away from the true Ministry.** Which from the fall of the first parents even to our times he hath done and doth incessantly, through the false Prophets, Apostles, and Doctors of iniquity.
+
+— ❦ —
+
+*[Locus XXIX Part 1 closes (Q1–Q11 + embedded Jer 31:34 Obj). Part 2 (Q12 licet docere sine vocatione + Q13 sine examine + Q14 quis vocandi ius + Q15 Papist ordination claim refuted + OBIECTIONES I–V on Papist ordination + Q on Sacerdotes vs Episcopi identity) follows in T81. 579 top-level Q + 373 Obj rendered so far.]*
