@@ -6714,4 +6714,90 @@ Then it is known also to the Papists, that **the exemplars of this Mass wondrous
 
 — ❦ —
 
-*[Locus XXIV Part 3 closes (Q18 + OBIECTIONES I–IX on Sanctorum invocation). Part 4 (Q19 Canisius' error refuted + 2 Objs on Christ's continuing intercession + Q20 relics + 3 Objs on relics + Q21 saints' honour + Q22 consecrations + 2 Objs on consecrations + Q23 impenitent-sinner prayers) follows in T47. 429 top-level Q + 219 Obj rendered so far.]*
+## Question 19. Doth Canisius rightly write, who wrote that Christ now interpelleth not for us?
+
+**Doth Canisius rightly write, who wrote that Christ now interpelleth not for us?**
+
+**Respondeo**: **By no means.** For in **Heb. 7** it is diserte written: *"Always living, that he may interpel for us."* And **Rom. 8**: *"Who is at the right hand of God, who also interpelleth for us."*
+
+# OBIECTIONES
+
+### Objection I. **The actions of Christ that agree with the time of humiliation, are not to be attributed to the time of glorification. But intercession and Passion agreed with the state or time of humiliation. *Ergo* Christ now is not intercessor, nor to be invoked, that for us he intercede.**
+
+The Minor is proved: **Because Christ, as once he died, so prayed for men, then in the flesh of exinanition; but in the state of glorification, he governeth.**
+
+**Respondeo**: **The Minor is false.** For **intercession is not such a work, that only in the time of exinanition he ought to exercise it, but it pertaineth to the perpetual Priesthood of Christ**. It is now certain, that **Christ retaineth the sacerdotal office, until the consummation of the Church**. Nay rather, **Ps. 110 it is said: *"Thou art a Priest for ever."***
+
+— ❦ —
+
+### Objection II. **Christ himself, John 16, saith: *"I say not that I will ask the Father for you."* *Ergo* he now prayeth not for us.**
+
+**Respondeo**: **The saying of Christ is to be understood inclusively, not exclusively.** For **Christ saith not, that he simply will not ask for them, but he denieth that he alone will ask**. Not therefore is his intercession excluded — but he requireth this, **that our invocation also come to it, or that we join our prayers with the intercession of Christ the Saviour — and doubt not, but that our prayers are accepted to God**.
+
+— ❦ —
+
+## Question 20. Is the opinion of the Papists to be approved, who teach that the relics of Saints are to be invoked?
+
+**Is the opinion of the Papists to be approved, who teach that the relics of Saints are to be invoked?**
+
+**By no means.** For **it lacketh express word of God.** And **in very truth it is idolatrous to worship dead bones and the like exuviae of Saints**. **In very deed also the invocations made to Mary of Ratisbon or of Loreto differ nothing from the Ethnic invocations, which once were made to Diana of Ephesus, or to other statues. And these cults have arisen from the examples of the Ethnics.**
+
+# OBIECTIONES
+
+### Objection I. **Miracles attest of truth. To the relics of the Saints miracles have been done. *Ergo* they attest that the cult of relics pleaseth God.**
+
+**Respondeo**: **To the Major, by distinction — miracles done by God and congruent with divine truth attest of truth. But miracles done about the relics of Saints attest not of divine truth, but confirm idolomania — whether among Papists or among Ethnics — and in truth are the prestiges of Devils**. Since therefore **no miracle is to be received against this rule — *"The Lord thy God shalt thou adore, and him only shalt thou serve"* — miracles are to be contemned which are done about the relics of Saints**. For **if we believe those miracles, and worship relics on account of miracles, we commit the sin of idolatry, serving creatures, and not God alone**.
+
+— ❦ —
+
+### Objection II. **Miracles wrought are immoveable testimonies of doctrine. The bodies of Saints have wrought miracles — as the corpse of Elisha raised a dead man. *Ergo* the bodies of Saints are to be invoked.**
+
+**Respondeo**: **There is more in the conclusion than in the premises.** For **God wrought this miracle at the tomb of Elisha, not that the corpse of Elisha should be invoked, and new cults instituted there — but that there might stand as testimony, that this Prophet was divinely sent from God, and that his doctrine was from God**. **Nor doth Scripture say that the corpse of Elisha was afterwards invoked, or that prayers were made there, that Elisha by his own merits might help those praying with God.**
+
+— ❦ —
+
+### Objection III. **The honour which is exhibited to the images of Saints, is referred to the Saints themselves, whom the images represent. *Ergo* it is not an idolatrous cult.**
+
+**Respondeo**: **The antecedent containeth manifest impiety.** Because **God most severely prohibited, that we should bind him or his efficacy to that place, to which he by his word hath not bound himself**. **The simpler men in the Papacy attribute to the images themselves a certain divinity.** But those who **are a little more perspicacious ascribe to them a relation to God, holding that God — or the Saint — is more propitious and present at that image of his, than elsewhere** — **which opinion in reality is idolatrous, and by the whole heaven, so to speak, wandereth from the truth of God**.
+
+— ❦ —
+
+## Question 21. Are the Saints therefore to be affected with plainly no honour?
+
+**Are the Saints therefore to be affected with plainly no honour?**
+
+**They are indeed to be honoured — but so, that we give thanks to God for the benefits exhibited to the Church through them and by their ministry, and that we imitate their piety, confession, faith, hope, invocation, patience under the cross, and perseverance: but we ought not to invoke them.**
+
+— ❦ —
+
+## Question 22. But what is to be judged concerning the consecrations of oil, of salt, of water, of herbs, and of similar things?
+
+**But what is to be judged concerning the consecrations of oil, of salt, of water, of herbs, and of similar things?**
+
+**Respondeo**: **In the Church of Christ such consecrations are not to be borne, because they are destitute of express mandate of God.**
+
+# OBIECTIONES
+
+### Objection I. **It is pious to say a prayer at table over food. *Ergo* also consecrations in the temples are pious.**
+
+**Respondeo**: **The prayers at table and the Papist consecrations differ very much.** **The prayer at table asketh that the food may profit.** **The Papist consecration transferreth them to a spiritual use against the ordination of God — namely, to the deletion of sins, expulsions of Devils, infusion of grace — and attributeth to these consecrated things such efficacy, as the word of God ascribeth to the Sacraments divinely instituted.** **Deservedly therefore such consecrations are rejected.**
+
+— ❦ —
+
+### Objection II. **That which is sanctified receiveth spiritual power. Food is sanctified through the word and prayer — 1 Tim. 4. *Ergo* to creatures through consecration is imprinted a certain spiritual power.**
+
+**Respondeo**: **There is equivocation in the word "sanctify"** — for it hath several significations. **In general it signifieth that which agreeth with the will and ordination divine.** So the Major proposition is true only of that thing, **to which the promise of the Holy Spirit hath been made**. For **God willeth to be bound to no other creature so, as to the Sacraments — through which certainly and according to his own institution he willeth to be efficacious**.
+
+As to the Minor: **the word "sanctify" in Paul is to be understood of the Physical and Political use of corporal things pleasing to God — and not of the spiritual efficacy of those things, which without the word of God have been consecrated by the Pontiff and Bishops of the Roman Church**. **To speak briefly**: **the Papist consecration is altogether alien from that sanctification of which the Apostle preacheth**. For **it consecrateth creatures, that they may have spiritual efficacy, apart from any word of God. Therefore as impious it is to be rejected.**
+
+— ❦ —
+
+## Question 23. Can sinners, who securely without penitence and faith remain in sins, pray?
+
+**Can sinners, who securely without penitence and faith remain in sins, pray?**
+
+**By no means.** For of these God himself pronounceth, **Isa. 1:15**: *"When ye shall have extended your hands, I will avert my eyes from you; and when ye shall have multiplied prayer, I will not hear: for your hands are full of blood."* [*[Gen. 37, T. 4, p. 240*]*] **Prov. 1:28–31**: *"Then shall they invoke me, and I will not hear; in the morning they shall arise, and shall not find me — because they had hated discipline, and had not received the fear of the Lord; nor acquiesced in my counsel, and had detracted from all my correction. They shall eat therefore the fruits of their way, and shall be sated with their own counsels."*
+
+— ❦ —
+
+*[Locus XXIV De Invocatione Dei is TRULY COMPLETE — 23 top-level Q (Q1–Q23) + 1 embedded Ioh 9:31 Obj (in Q14) + 9 formal Objs on Sanctorum invocation + 2 Objs on Christ's continuing intercession + 3 Objs on relics + 2 Objs on consecrations. Total Locus XXIV: 23 Q + 17 Obj units. 434 top-level Q + 226 Obj rendered so far. Locus XXV De Sacramentis in Genere follows in T48.]*
