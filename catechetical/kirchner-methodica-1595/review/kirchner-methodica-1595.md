@@ -8442,4 +8442,84 @@ Although also **he nameth the cup *the New Testament*, yet by the same very thin
 
 — ❦ —
 
-*[Locus XXVII Part 13 closes (RESPONSIO ARG II–VII: ascensione, sessione, reditu, panem-signum, poculum-novum, 1 Cor 10:16). Part 14 (ARG VIII–XIV: spiritualis-coniunctio, corporalem-situm, 2 Cor 5:16, Gal 4:9 elementa, duplex-corpus, divellere-verba, absurda-sequuntur) follows in T67. 518 top-level Q + 290 Obj rendered so far.]*
+## Argument VIII. **In the sacred Supper (they say) there is a spiritual conjunction of the sign to the thing signified. *Ergo* there is no need that the body of Christ be present and exhibited in or with the bread.**
+
+**Respondeo**: **What sort the conjunction in the Supper of bread and body of Christ be, must not be sought from human reason, but from the words of institution**. But **these speak not of a conjunction of the bread with the far-absent body of Christ, but of the present body of Christ delivered up for us**. **The spiritual participation of the body of Christ and of all his benefits to be given in the Sacrament, and to be received by the faithful, we willingly concede: but this doth not take away the Sacramental participation, as the Adversaries contend**.
+
+— ❦ —
+
+## Argument IX. **Whosoever teacheth that the body of Christ is truly exhibited in the Supper with the sacred bread, he necessarily establisheth and teacheth a corporeal situation and natural contact of the body of Christ. But this (they say) ye do. *Ergo* etc.**
+
+**Respondeo** to the Minor: **It is manifest that unto the Sacramental presence neither the local nor the natural or corporeal contact of the body of Christ and of our bodies is required — but a supernatural presence, which to us in this life is ineffable, and is done by the divine power of Christ, who instituted and promised this presence — by which he insereth [it] to our body and soul unto eternal life: to the body unto immortality and glorification; to the soul unto the application and sealing of all goods and benefits, which he by his body and blood hath acquired**.
+
+**In no wise therefore hence followeth that he who teacheth the body of Christ in the sacred Supper to be exhibited with the bread of blessing, at the same time teacheth a natural contact of the body of Christ and of ours**. For **in this action the exhibition of the body of Christ is not natural, but supernatural**. The **presence of the body of Christ in the Supper is not local — therefore neither doth it require a corporeal situation of it**. Just as also **we establish or teach no natural contact of the body of Christ and of ours**.
+
+— ❦ —
+
+## Argument X. **2 Cor. 5:16, Paul saith**: *"But now henceforth we know not Christ according to the flesh."* ***Ergo* his body in the Supper is not exhibited with the sacred bread.**
+
+**Respondeo**: [*[T. 3, p. 452*]*] **The Apostle by the aforesaid words noteth not the sacred Supper, but carnal cogitations of the kingdom of Christ**, by which **the disciples sought nothing from Christ save carnal things, and expected the same from him** — as **Luke 24:21**: *"We were hoping, that he would redeem Israel"* — where they looked only unto an external redemption and restitution of liberty; and by which **others think and hope only carnal and corporeal things and those which are of this life; and by which Christ is not esteemed as any other than he who was seen in the state of exinanition**.
+
+**Christ therefore now — saith the Apostle — we know not according to the flesh** — that is, **according to the infirmities which in the state of exinanition on our account he assumed** — for **now he hath been exalted, and hath laid down all those infirmities, and hath been raised to the right hand of the power of God, Eph. 1:21 — and even as man received all power in heaven and earth, Matt. 28** (*"For the flesh of the Most High hath been exalted,"* saith **Athanasius and Nyssen**). **Christ also we now know no longer according to the flesh — that we should seek corporeal and carnal goods of this life from him, or expect them from him: but spiritual, celestial, and true goods we expect from him, and crucify the corrupt concupiscences of our flesh**. **Nothing therefore this saying pertaineth to the sacred Supper, much less taketh away or destroyeth its presence.**
+
+— ❦ —
+
+## Argument XI. **Paul Gal. 4:9 saith**: *"Turn not again to the weak and beggarly Elements of this world."* **In the sacred Supper are Elements — namely bread and wine. *Ergo* the body of Christ is not to be sought in them.**
+
+**Respondeo**: **Paul there in no wise speaketh of the sacred Supper, in which Christ with the Elements bread and wine promised the true exhibition of his body and blood, and prescribed to us its fruition**: **but in the aforesaid words he treateth of Mosaic ceremonies, which the Pseudo-apostles urged as necessary to salvation**. **Ill therefore are these words distorted by the Adversaries to the Supper of the Lord.**
+
+— ❦ —
+
+## Argument XII. **The body of Christ is twofold — his true and natural body, in which also he was crucified; and the Sacramental, of which the words of the Supper speak — where of the bread it is predicated that it is the body of Christ, because it is his Symbol, or because it receiveth his name.**
+
+**Respondeo**: **Diallacticon and Beza Ep. 68 indeed say that the body of Christ is twofold, and so explain it as hath been said** — but **this distinction the words of institution do not admit, but plainly take away, through the annexed exegetical declaration *"which is delivered up for you"*** — as also **Beza himself confesseth, Epistle 5 ad Alamannum**: *"Those words — 'which is delivered up for you' and 'which is poured out for you' — necessarily compel thee to this — that thou be forced to understand this of the very substance of the body and of the blood."*
+
+— ❦ —
+
+## Argument XIII. **They object that we tear apart the words of Christ and the whole context of the words of the Supper, and always allege only the words *"this is my body,"* omitting *"he took bread, and said, this is my body"* — where, on the contrary, if the whole words be alleged and, as delivered by Christ, be conjoined, it is perspicuous that to the bread is attributed the name of the body of Christ, and that it is a sign, that the benefits of Christ are there spiritually applied and communicated to us.**
+
+**Respondeo**: **In no wise do we tear apart the words of Christ, but conjoined we acknowledge, retain, and use them**. For **we expressly confess, that Christ took bread, gave thanks, brake it, and said**: *"Take, eat, this is my body,"* etc. But **that hence it followeth, that the bread there receiveth the name of the body of Christ, and Christ predicateth of the bread, because it is his body — not because his body is truly and Sacramentally, in a supernatural and celestial mode, united with the bread of blessing, exhibited and received: but because to the bread as to a sacred Symbol only the name of his body is attributed — this we utterly deny**.
+
+For **that this is not the mind of the words of Christ, the very words of Christ show**. He saith first, *"my body,"* — then, *"which is delivered up for you"* — which words cannot be Metonymically expounded of a sign of the far-absent body of Christ, since **not a figure or sign of the body of Christ, but the very body of Christ was delivered up for us**. Whence **Theodoret rightly saith**: *"Christ said not: 'This is my divinity, or my Spirit — but this is my body.'"*
+
+— ❦ —
+
+## Argument XIV. **But (they say) many absurds follow, if the writing of the words of institution be retained and urged. Those absurds therefore, that they may be avoided, it is better to receive those [words] figuratively — that is, of a sign, to which the name of the thing signified, of the far-absent body of Christ, is attributed.**
+
+**Respondeo**: **Absurds are of two kinds: some of reason, others of faith**. **Absurds of reason** — such as those which they gather from our sentence concerning the sacred Supper — **must in no wise move us**, that on that account, because **reason contriveth and gathereth many absurds thence, we should receive and expound figuratively, and depart from the native sentence which the property of the words themselves begetteth**. For **this posited and conceded, no article of our faith would remain safe to us, since reason can gather various absurds from each**.
+
+Although therefore **human reason is greatly offended if it be said that with the sacred bread and wine the body and blood of Christ are truly exhibited** — since how this can be done, and consent with the truth of the human body, it cannot understand — **yet here one must believe, and reason must be captivated into the obedience of faith, since Christ Jesus according to his own words full of omnipotence and truth hath in his own Sacrament so instituted and promised**. **Not therefore is much disputing or arguing needful, but the words of Christ must be believed.**
+
+— ❦ —
+
+## Summary. What the Adversaries must chiefly demonstrate.
+
+**In sum**: **That the Adversaries may evince their sentence, these four things they must first demonstrate**:
+
+**I.** From the very words of institution they must teach, **that our interpretation, which is taken from the perspicuous and infallible words of Christ, is false** — which in eternity they shall not do. **For those words remaining — *"which is delivered up for you,"* *"which is poured out for you"* — our interpretation remaineth. And these remain in eternity immoveable: for although heaven and earth pass away, yet the words of Christ pass not away — Luke 21:33**.
+
+**II.** It is necessary that **they confirm their figures, types, signs, symbols, antitypes, etc., of the far-absent body of Christ from the words of institution**. **Which also is impossible for them.** For **the words *"which is delivered up for you," "which is poured out for you,"* admit no figure or sign of the far-absent body and blood of Christ in the Supper**.
+
+**III.** It is incumbent on them **perspicuously to show, what words are to be received properly and what figuratively**. **But concerning this even among themselves hitherto no agreement hath been reached**: for one thus, another otherwise expoundeth the words of Christ, as above we have shown.
+
+**IV.** It must be demonstrated by them, that **Christ in no way can exhibit his body in the Supper with the sacred bread, and besides the local mode there is no other mode of being or of presence anywhere**. **Which also they shall never demonstrate.** For **Christ is God, to whom no word is impossible — and he hath more modes by which he can be somewhere with his body, than only the local one**.
+
+## Six ways in which the Adversaries evacuate and enervate the words of Christ's Testament.
+
+**Here it also comes to be diligently noted, in how many ways the Adversaries evacuate and enervate the words of Christ's Testament**:
+
+**1.** They **plainly remove that testamentary seal or pledge — that is, the body and blood of Christ** — **against the words of institution**.
+
+**2.** By their **manifold and self-contradicting exposition, the words of institution they plainly render uncertain**.
+
+**3.** They **expressly say and write that there is no other communion of the body and blood of Christ in the sacred Supper than that which was in the time of the Fathers before the Incarnation of Christ, and which is common to all the faithful outside the use of the Supper**.
+
+**4.** They **deny — against the testimony of Paul and of orthodox antiquity — the manducation of the unworthy**.
+
+**5.** They **entirely take away the participation of the body and blood of Christ with the sacred Symbols of bread and wine**. For if their Metonymy of sign and thing signified be true — whereby signs receive only the names of the things signified — **in the Supper besides bare symbols nothing remaineth**, whatever also they say.
+
+**6.** They **impudently and audaciously trifle, that this controversy is not of great moment, and is not concerning an article of faith**. **From all these things, whoever will not spontaneously be seduced, can gather what the foundation of the Adversaries' opinion is.**
+
+— ❦ —
+
+*[Locus XXVII Part 14 closes (RESPONSIO ARG VIII–XIV + transitional 4-demonstranda + 6 defects in Adversary position). Part 15 (RESPONSIO ARG XV–XXII: pronomen, quod-quatenus, pro-significat, Capernaitica, Augustine Ps 98, patres-signum, relinquo-mundum, panis-adorandus) follows in T68. 518 top-level Q + 297 Obj rendered so far.]*
