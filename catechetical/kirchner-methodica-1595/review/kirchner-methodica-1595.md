@@ -9226,4 +9226,80 @@ From all which it is clear, that **although the Pontiff and the Roman Church hav
 
 — ❦ —
 
-*[Locus XXVIII Part 3 closes (OBIECTIONES I–III on notae + Q22–Q26 + embedded Obj on Papist claim + long Papist Scripture-corruption catalogue). Part 4 (Q on nulla-in-Papatu Ecclesia + Q on Ecclesia obscuratur + OBIECTIONES I–II + Q on Papist Catholica definition + OBIECTIONES I–III) follows in T75. 548 top-level Q + 346 Obj rendered so far.]*
+## Question 27. Hath there hitherto in the Papacy been no Church?
+
+**Hath there hitherto in the Papacy been no Church?**
+
+**The Papacy itself, as it is exercised by the Pontiff and his consorts, never was the true Church of God — nor is it even now: but yet in the Papacy there was and remained a Church.** For **Antichrist sat in the temple of God — 2 Thess. 2:4. But the temple of God is the Church, in which by the permission of God he dominated: but the Lord reserved to himself always his seven thousand — as Scripture speaketh — who did not bend their knees before him**: as **baptized ones, infant sons who truly saw the light of the knowledge of God and contradicted the Papacy**.
+
+**No doubt also that many in the agony renounced the Papist doctrine concerning the merits of their own works, apprehended by firm faith the sole merit of Christ, and so slept in the Lord and were saved**. Just as **Annas, Caiaphas, and the Sadducees were not the people of God and the true Church, although they sat in the seat of Moses — since they taught falsely: but the people of God and the true Church then were Zacharias, Elizabeth, Simeon, Hanna, Mary, Joseph, the shepherds, and those like these**.
+
+**So too the Pope and Pharisees were not the Church, but under them was the Church: so the Pontiff of Rome and his bishops — since they teach falsely and shamefully pervert the Sacraments — are not today the Church, but under the Papacy there was and is the Church**.
+
+Just as **in the Old Testament there always were some truly faithful even under impious priests and kings — as the books of Kings and the writings of the Prophets luculently attest**. **Apoc. 12 it is said, that woman — that is, the Church — having recently borne with the boy in the wilderness lay hid, and stayed in that holy city — that is, the Church — meanwhile, not for a small moment, but for months forty-two, or a thousand two hundred sixty days**.
+
+**Meanwhile therefore, while that great Michael appeared, killing that Dragon little by little with the sword of the word, or with the Spirit of his mouth — the Catholic Church, in the wilderness of Roman Babylon, with the son of perdition usurping the seat by ministers, and the harlot sitting upon seven mountains, lay hid**. And although she lay hid as it were in the wilderness, yet **there always were extant some witnesses of truth, who cried out against Antichrist or the Pope**.
+
+— ❦ —
+
+## Question 28. Is the Church therefore sometimes obscured, and, as it were, covered, lieth hid?
+
+**Is the Church therefore sometimes obscured, and, as it were, covered, lieth hid?** [*[In postill., feria 3 Paschatis; Gen. T. 3, p. 170*]*]
+
+**This the Papists deny — but the very thing attesteth what is most true.** **Augustine, Epistle 83, compareth the Church to the moon. As therefore the moon is not always full of light, so also the Church is sometimes in great obscurity — not that she is none, but that she is not so conspicuous and glorious**. The same **Augustine in the aforesaid Epistle writeth: The Church would not appear to the impious persecuting and beyond measure raging. In the time of Elias — 1 Kings 19 — the Church was so obscured, that Elias complained that he alone was left. So at the coming of Christ, very few were those who awaited his coming seriously and expected the newborn one. So in the Arian times she was sufficiently obscured. And so afterwards under the Papist shadows, which lasted long enough**.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **Christ never suffereth his Church to perish. *Ergo* she cannot be obscure or lie hid.**
+
+**Respondeo**: **Christ indeed will never suffer his Church to perish — but one thing is to perish, another to lie hid for a time, and not to be openly known to all**. **The Church can lie hid — she cannot be extinguished. Christ promised that there will always be some Church — but that she will be always glorious and conspicuous in this age he did not promise**.
+
+**Zeph. 2 it is said**: *"I will leave in the midst of thee a poor and needy people — and they shall hope in the name of the Lord."* And **Luke 12**, Christ saith: *"Fear not, little flock."* And **Luke 18[:8]**: *"But when the Son of Man cometh, thinkest thou he shall find faith?"*
+
+— ❦ —
+
+### Objection II. **The Church cannot degenerate, since she hath such glorious promises of the governance and presence of the Holy Spirit. *Ergo* neither can she be obscured.**
+
+**Respondeo**: **That she can degenerate, Hosea 2 attesteth**: *"Judge your mother, judge, for she is not my wife, and I am not her husband."* **As therefore the Synagogue degenerated, so the Church even of the New Testament can degenerate, and hath degenerated**. The same teacheth **Christ Matt. 24 when he saith, that in the last times such shall be the seductions, that if it be possible, even the elect shall be led into error**. This sentence confirmeth **the Apostle Paul, 2 Thess. 2, where he predicteth a future defection in the Church**. **Now if she can degenerate and defect, it is manifest that she can also be obscured. As indeed she was under the domination of Antichrist obscured, and did not so gloriously flourish that she could be seen by all**.
+
+— ❦ —
+
+## Question 29. How do the Papists interpret the word *Catholic*?
+
+**How do the Papists interpret the word *Catholic*?**
+
+**Respondeo**: **Of the Roman Church — whose doctrine through the whole compass of the earth is propagated and approved**.
+
+*"This"* (they say, from Vincentius Lyrinensis) *"is truly and properly Catholic — that which everywhere, that which always, that which by all hath been believed."*
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But the faith of the Roman Church everywhere, always, and by all hath been believed. *Ergo* etc.** [*[T. 7, p. 411 and following*]*]
+
+**Respondeo**: **The Minor is most false**, for **in eternity they shall not prove that the mutilation of the Sacrament, the sacrifice of the Mass for the living and the dead, the doctrine of Purgatory, the invocation of the dead, the cult of images, the Pope being the universal Bishop and head of the Church, the prohibition of the marriage of priests — hath everywhere always and by all Churches through the compass of the earth dispersed been believed**.
+
+— ❦ —
+
+### Objection II. **They contend that the Church is called Catholic by reason of the promulgation of doctrine — because her preaching hath been made through the whole compass of the world. But such is the doctrine of the Roman Church. *Ergo* the Roman Church is Catholic.**
+
+**Respondeo** to the Minor: **If thou takest that doctrine which the Apostles by the mandate of Christ propagated through the compass of the earth, and of which the epitome is comprehended in the epistle to the Romans — I concede that it is Catholic**. But if **thou understandest the preaching or doctrine of the Roman Church as it now is, I deny the Minor**. For **the Apostles never preached, never acknowledged that doctrine which the Roman Church today soundeth. Let the Papists show us where the Apostles preached the mutilation of the Supper, the sacrifice of the Mass, the circumgestation and adoration of the consecrated bread, the invocation of the dead, the veneration of statues. Let them teach where they taught that the Pope is the ministerial head of the whole Church**.
+
+Since therefore **it is manifest that the Apostles never taught the doctrine of the Roman Church as it now is, it cannot be held for the Catholic Church**. For **that is Catholic which is true, which the Apostles everywhere preached, and which even today is extant in their Scriptures — and not that which many centuries after the Apostles at length in the Roman Church began to be delivered and preached**.
+
+— ❦ —
+
+### Objection III. **They will *Catholic* to be called that which pertaineth to all nations and all places. But such is the Roman Church. *Ergo* the epithet *Catholic* properly pertaineth to this Church.**
+
+**Respondeo**: **The Minor is manifestly false.** For **there is a great discrimen between the Catholic and the Roman Church**. **The Catholic Church is the Church dispersed through the compass of the earth. But the Roman Church is particular. It is therefore the same to call the Roman Church Catholic, as if thou shouldst say that the part is the whole**.
+
+And although **many nations today embrace the faith of the Roman Church, yet neither hence would it follow that she is Catholic**. **It standeth certain, that the Eastern or Greek Church never acknowledged the Roman Church as universal. Why also is the Roman Church more Catholic than the Jerusalemite, Antiochene, Alexandrine, Constantinopolitan — finally than any other?**
+
+**They contend indeed that all things which once the Prophets predicted concerning the Church of Christ pertain to the Roman Church — but falsely. For the prophetic predictions pertain to the universal Church, which is dispersed through the compass of the earth, and embraceth all the saints from the beginning to the end of the world — and not to a particular or Roman Church.**
+
+— ❦ —
+
+*[Locus XXVIII Part 4 closes (Q27 nulla-in-Papatu + Q28 obscuratur + OBIECTIONES I–II + Q29 Papist Catholica + OBIECTIONES I–III). Part 5 (OBIECTIO IV Roman primatum + Q on canonical succession + OBIECTIO Tertullian on succession + Q on canonical ordination + Q on union with Pope + Q on tradition-unity + Q on documenta apud nos + OBIECTIONES I–III) follows in T76. 552 top-level Q + 351 Obj rendered so far.]*
