@@ -5597,3 +5597,103 @@ Then **the saying of Joel speaketh not of the promise of grace and of the remiss
 — ❦ —
 
 *[Locus XXI De Fide in Christum is TRULY COMPLETE — 27 top-level Q + 2 embedded Objs (in Q15) + 11 formal Papist Objs. Total Locus XXI: 27 Q + 13 Obj units. 358 top-level Q + 192 Obj rendered so far. Locus XXII De Praedestinatione follows in T35.]*
+
+— ❦ —
+
+# Locus XXII. Of Predestination
+
+### *De Praedestinatione*
+
+## Question 1. Since also true Christians often experience most grievous temptations concerning predestination, expound to me briefly what it is.
+
+**Since also true Christians often experience most grievous temptations concerning predestination, expound to me briefly what it is.**
+
+**PREDESTINATION is the ordination of God, whereby God out of mere mercy, on account of and through his only-begotten Son, chooseth for himself a Church or a people, to whom he freely giveth eternal life.** The members of this Church and people are all who **believe in Christ, and in this faith persevere unto the end of life**.
+
+**Rom. 9:15**: *"I will have mercy on whom I have mercy, and I will exhibit mercy to whom I shall have mercy."* **Eph. 1:4**: *"As he elected us in Christ, before the constitution of the world, that we should be holy and immaculate in his sight in charity."*
+
+— ❦ —
+
+## Question 2. Is predestination various and manifold?
+
+**Is predestination various and manifold?**
+
+**By no means.** But **one and simple — even as justification and sanctification is one**.
+
+— ❦ —
+
+## Question 3. Whence then is it?
+
+**Whence then is it?**
+
+**From the eternal counsel and decree of God** — **Eph. [1:5]**: *"Who predestined us to the adoption of sons through Jesus Christ into himself, according to the purpose of his will."*
+
+— ❦ —
+
+## Question 4. But what impelleth him to this predestination?
+
+**But what impelleth him to this predestination?**
+
+**His own ineffable mercy** — **Rom. 9:15; Eph. 1:4** — **and that he willeth not the human race, created not in vain, to perish in eternal death** — **Ezek. 18:23**: *"Is it a matter of my will, saith the Lord, that the impious should die, and not that he should be converted from his ways and live?"*
+
+— ❦ —
+
+## Question 5. But who hath merited this predestination of grace?
+
+**But who hath merited this predestination of grace?**
+
+**No one, save Christ Jesus alone**, who by his most precious death and most holy obedience redeemed us men from sins and death, and acquired us to himself as an inheritance and a peculiar people — **Eph. 1:4–6**: *"in which he hath graced or made us accepted in his beloved Son, in whom we have redemption through his blood."*
+
+**Erroneous therefore and false is it to seek the cause of predestination in our merits, or to place it there, as the Papists do.**
+
+— ❦ —
+
+## Question 6. But what order and process doth God observe in election or predestination?
+
+**But what order and process doth God observe in election or predestination?**
+
+**This order is most beautifully described for us by the Apostle Paul, Rom. 8:30**: *"But whom he predestined, these also he called; and whom he called, these he justified; and whom he justified, them also he glorified."*
+
+**The elect of God therefore are to be sought nowhere else, than in the Church, where the word of God is purely taught, and the Sacraments are legitimately administered according to the institution of Christ — where the calling, which is done through the ministry, thriveth**.
+
+— ❦ —
+
+## Question 7. Is predestination then to be considered simply in and out of the purpose of God, or in the arcane decree of God, and out of that to be estimated?
+
+**Is predestination then to be considered simply in and out of the purpose of God, or in the arcane decree of God, and out of that to be estimated?** [*[Luther: In the preface to the Epistle to the Romans, T. 6, pp. 181, 182; Gen. T. 3, pp. 35, 36, 37, 38*]*]
+
+**Whosoever piously and with fruit will think concerning predestination, and rightly establish anything, him it behoveth to make a beginning from penitence, and first to acknowledge his sins, then to believe in Christ, through faith on him to receive remission of sins**. **Thirdly**, by the power of the Holy Spirit **the work of God to be done, by the Holy Spirit to be created, that in good works he may walk — Eph. 2:10**. **Fourthly**, through the cross and various temptations **to be exercised in faith — and so at length with fruit will he be able to think concerning predestination**.
+
+But **he who from the arcane decree of God — penitence and the exercises of faith laid aside — will make a beginning, will assuredly not without peril and loss occupy himself in this consideration, but casteth himself either into security, or into desperation**. This **order of meditation Paul also showeth us in the Epistle to the Romans**: when to the Romans he preacheth **first penitence, then faith in Christ**; afterwards he showeth **how the Holy Spirit reneweth hearts, and beginneth the wrestling of the Spirit against the flesh in the faithful, wherefore through various temptations and adversities he proveth them, and at length in cap. 9 leadeth them to predestination**.
+
+And if anyone **according to the judgement of reason and the doctrine of the Law will set himself to think concerning predestination, he will effect nothing** — since **this article far exceedeth the grasp of reason; but the Law manifesteth sin and the wrath of God against sin, not however grace** — **Rom. 3, 8**. **In the Law therefore predestination neither ought nor can be sought or found**.
+
+— ❦ —
+
+## Question 8. But whence cometh it, that few are elected — as Christ himself teacheth, Matt. [22:14]?
+
+**But whence cometh it, that few are elected — as Christ himself teacheth, Matt. [22:14]?**
+
+**We here according to the word made manifest respond, that this saith Rom. 11:20**: *"On account of unbelief they were broken off"* — where expressly it is said that **unbelief is the cause**. Nor is it, that we may subtly dispute, **that God effectively blindeth: it is enough of induration, when he withdraweth his Spirit, and leaveth the impious to Satan** — [*[T. 3, Latin, p. 299*]*].
+
+— ❦ —
+
+## Question 9. Is God then the cause, that some are condemned?
+
+**Is God then the cause, that some are condemned?**
+
+**By no means.** For **he himself swearing saith that he willeth not the death of the sinner, but that he be converted and live** — **Ezek. 18:23; Ezek. 33:11**. **Not therefore is it to be said, that the reprobation and condemnation of the impious is of the will of God, but rather let us confess, that sin is the cause of death and condemnation** — **Rom. 6:23**: *"For the wages of sin is death."*
+
+— ❦ —
+
+## Question 10. Is it rightly said by some: that God — without respect of sin, by an eternal decree and purpose — hath ordained and predestined certain men to condemnation, who cannot be converted and saved?
+
+**Is it rightly said by some: that God — without respect of sin, by an eternal decree and purpose — hath ordained and predestined certain men to condemnation, who cannot be converted and saved?**
+
+**By no means.** For **nowhere doth Scripture so speak; but on the contrary expressly saith, 1 Tim. 2:4** — *"Our Saviour God willeth all men to be saved, and to come to the knowledge of the truth."* **Hos. 13:9** — *"Thy perdition is of thyself, Israel; only in me is thy help."*
+
+Wherefore **let all the pious abstain from blasphemies of this kind**, and **if from others they shall hear them uttered, let them shut ears and hearts against blasphemies of this kind**.
+
+— ❦ —
+
+*[Locus XXII Part 1 closes (Q1–Q10). Part 2 (Objs I–III on reprobates unable to be saved / God could convert all / God appears unjust, with embedded Qs 11–12 + Q13–Q17 on end, fruits, foundation, foreknowledge, security-objection) follows in T36. 368 top-level Q + 192 Obj rendered so far.]*
