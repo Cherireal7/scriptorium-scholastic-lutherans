@@ -12046,4 +12046,159 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXV De Calamitatibus et Cruce COMPLETE — rendered in 2 tranches (T93–T94). Part 2 (T94) covered Q10–Q16: causes God permits calamities (2 causes — deplore corruption of nature, correct remaining infirmities), organs of correction (Devil + world), 5 ends of exercising by cross (learn praxis Theologiae, grow in virtues, attend corruption, testimony of future glory, testify pursuit of God's glory not this life), fruit of cross (sadness now/eternal joy later), 5 reasons God punishes in this life (wrath conspicuous, preserve empires, example, type of eternal judgment, invitation to poenitentia), 4 virtues under cross (faith, patience, invocation, perseverance), 10 general consolations of pious in pressure. Total Locus XXXV: 16 Q + syllogism-Respondeo embedded in Q9. 770 top-level Q + 419 Obj rendered so far. Locus XXXVI De Magistratu Politico follows in T95 at OCR line 42359.]*
+# Locus XXXVI. Of the Political Magistrate
+### *De Magistratu Politico* [*[G.t. 2, p. 39–40; Gen. t. 1, p. 1600; T. 3, p. 355; T. 5, p. 149; T. 1, p. 2]*]
+
+## Question 1. What is a Magistrate?
+
+**What is a Magistrate?**
+
+**Respondeo**: **It is an order instituted by God himself, that one or several persons over the rest, according to just and equal Laws, preside, and them govern, that discipline and public peace may be preserved, the good be defended, and the evil be punished.**
+
+— ❦ —
+
+## Question 2. Is not therefore the Magistrate truly an order divinely instituted? [*[T. 4/1, p. 452–453]*]
+
+**Is not therefore the Magistrate truly an order divinely instituted?**
+
+**Respondeo**: **Very much: for Paul, Rom. 13:[1], saith**: *"There is no power but from God, and those which are, are ordained by God."* **The same also testify the sacred Scripture sayings, by which the office of the Magistrate is described, Rom. 13:3–4. Item, the examples of all pious kings and Magistrates, of whom in the sacred [writings] mention is made. Penalties also of those who resist the Magistrate: as also the sayings which prayers for the Magistrate to be made command. 1 Tim. 2:2**: *"for kings and for all who in sublimity are,"* &c. **Jer. 29:7**: *"Seek the peace of the city, unto which I have caused you to be transferred, and pray for it unto the Lord, because in its peace shall be your peace."* **Which God would not command, if this order to himself were displeasing. The same also teach the examples of David, of Solomon, of Jehoshaphat, of Hezekiah, &c., whose prayers God heard, and to them help brought: as also the wondrous preservation of this order against the effort of the seditious.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But in empires there are great and many difficulties. Ergo this order is not from God?**
+
+**Respondeo**: [*[T. 4, p. 328; T. 4/1, p. 7, 7]*] **In this order from the order itself the persons are to be discerned. The Order itself is and remaineth the work of God, although the persons in it constituted often be impious and evil: for as punishment God granteth an evil regimen. Prov. 28:1–2 [*[T. 7, p. 376–377]*]**: *"On account of the sins of the earth many are its princes, and on account of a man's wisdom, and the knowledge of these things which are said, the life of the leader shall be longer."*
+
+— ❦ —
+
+### Objection II. **But unjust it is to shed blood. How then shall the Magistrate be from God?**
+
+**Respondeo**: **Unjust and iniquitous it is to shed blood by the private lust of vindication: but to the Magistrate this from God is enjoined. Gen. 9:6**: *"Whosoever shall have poured out human blood, his blood shall be poured out in Adam through man"* — **that is, through the legitimate Magistrate. Rom. 13:4**: *"not without cause beareth he the sword,"* &c.
+
+— ❦ —
+
+## Question 3. But how manifold in general are they who preside?
+
+**But how manifold in general are they who preside?**
+
+**Respondeo**: **Chiefly of three kinds are they: For some in the regimen are given to belly, gain, pleasures — wherefore this order be instituted, they attend not: others honours and external peace intend: others finally, understanding what their office be, that end, on account of which this order by God is instituted, do follow — such as were David, Solomon, Hezekiah, Constantine the Great, and other pious men many.**
+
+— ❦ —
+
+## Question 4. In what therefore chiefly consisteth the office of the Magistrate? [*[Gen. t. 4, p. 68–69; T. 6, p. 52–53; T. 5, p. 152–153, 155; T. 4/1, p. 351; Gen. t. 3, p. 47–48; G.t. 4, p. 83–84; T. 4/1, p. 456 & seq.; Gen. t. 4, p. 79–81; T. 4/1, p. 75]*]
+
+**In what therefore chiefly consisteth the office of the Magistrate?**
+
+**Respondeo**:
+
+**I. That he be nurse and defender of the Church and of the Schools: the preaching of the Word, the legitimate administration of the Sacraments, and the whole Ecclesiastical ministry let him help and protect, and whatever adverse thereto is, let him demolish — which David and other pious kings and princes did. As Ambrose writeth of Theodosius, that dying he was more solicitous for the Church and for sound doctrine than for himself. Hence Ps. [2]:10**: *"And now kings understand, be ye instructed, who judge the earth."* **Isa. 49:23**: *"And kings shall be thy nurses, and queens thy nurses."*
+
+**II. That they themselves the government into their hands take, faithfully administer the republic, and with highest zeal intent thereon be, whereby justice and honest discipline be fostered, defended, and remunerated: on the contrary evil from the midst be taken away and punished. As Ps. 78:72 of David testifieth**: *"And he fed them in the innocence of his heart, and in the intellects of his hands he led them."* **Isa. 1:17**: *"Seek judgment, come to the aid of the oppressed, judge for the orphan, defend the widow."* **And hither pertaineth the whole 31st chapter of Job, which those constituted in regimen should daily inspect, read, and re-read, that from it of their office they be admonished.**
+
+**III. That the guilty, who against the Decalogue and honest political Laws do sin, gravely he animadvert on, Rom. 13:3. For unless the Magistrate on sins and crimes shall animadvert, God himself lords and servants, the Magistrate with subjects, will visit and punish: for he himself is the supreme moderator, and judge over all kings and judges, who with vigilant staves them all doth observe.**
+
+**IV. That he protect the good, Rom. 13, for he beareth the sword not for terror, but for defense and honour of the good. The Magistrate therefore let him not leave unpunished Cain, Absalom, and the like, nor let him strike and press Abel, Elijah, Jeremiah, and the pious; let him not give pardon to ravens and vex doves; let him not be a spider's web catching flies but caught by the mosquitoes' folds.**
+
+**V. Let him give heed, that under his praesidium subjects may honestly prepare their living. For this reason in Daniel 4 he is compared to a most beautiful tree, under whose shadow subjects can seek and acquire their food.**
+
+— ❦ —
+
+## Question 5. Is the Magistrate excusable before God, if this his office being postponed, he pursue other things? [*[T. 6, p. 238]*]
+
+**Is the Magistrate excusable before God, if this his office being postponed, he pursue other things?**
+
+**Respondeo**: **By no means. For thus we read, Jer. 22:13**: *"Woe to him who buildeth his house in injustice, and his upper rooms not in judgment, his friend he shall oppress in vain, and his reward he shall not render him,"* &c. **v. 14–18. Ps. 82:2**: *"How long will ye judge iniquity, and accept the persons of sinners? Judge for the needy and the orphan, the humble and the poor justify: Snatch away the poor, and free the needy from the hand of the sinner: They have not known, nor have they understood, in darknesses they walk, all the foundations of the earth shall be moved."*
+
+— ❦ —
+
+## Question 6. Hath the Magistrate power of sanctioning anything against God, his Word, and honest Laws? [*[Gen. t. 3, p. 183; T. 5, p. 150; T. 7, p. 188, 427–428]*]
+
+**Hath the Magistrate power of sanctioning anything against God, his Word, and honest Laws?**
+
+**Respondeo**: **God forbid: for therefore is he Minister of God, that to himself he obey, and his mandates execute — not that against his mandates and good morals anything he attempt. Matt. 22:21**: *"Render what are Caesar's to Caesar, and what are God's to God."* **Manasseh, King of Judah, had not power of abrogating the true and of instituting false worships of God. Herod and the princes of Jerusalem have not power of persecuting Christ and his Gospel. To Nero the Emperor and others, what pleaseth is not lawful; when what to their lust they administer laws and the whole government, unpunished they bear not. It is not lawful to Ahab Naboth's vineyard to snatch away, and from it a garden of vegetables to make. [*[T. 6, p. 12]*] It is not lawful to David with Bathsheba to commit adultery, and Uriah to kill. It is not lawful to Valentinian the Emperor two wives to lead, and by public rescript bigamy to all subjects of the empire to concede.**
+
+— ❦ —
+
+## Question 7. But what is the office of subjects towards the Magistrate? [*[T. 7, p. 6–7]*]
+
+**But what is the office of subjects towards the Magistrate?**
+
+**Respondeo**:
+
+**I. Let them know the power to which they are subject, or their Magistrate, to be an ordinance of God, and to God for this let them give thanks.**
+
+**II. Seriously and from the heart for their Magistrate let them beseech God. 1 Tim. 2:2**: *"for kings, and all who in sublimity are, that a quiet and tranquil life we may lead in all piety and chastity."* **Jer. 29:7**: *"Pray for it to the Lord,"* &c.
+
+**III. In the things of this life to the Magistrate of necessity let the subjects be subject, not only on account of wrath, but also on account of conscience, Rom. 13:5.**
+
+**IV. Debts to the Magistrate let them render, Rom. 13:6 [*[T. 4/1, p. 475]*]**: *"For therefore also ye pay tributes, for they are ministers of God, in this very thing serving: Render therefore to all their debts; to whom tribute, tribute; to whom customs, customs; to whom fear, fear; to whom honour, honour,"* &c.
+
+— ❦ —
+
+## Question 8. Shall they therefore also owe obedience in those things, which the Magistrate against God sanctioneth? [*[T. 6, p. 157; T. 8, p. 106; T. 4/1, p. 622; G.t. p. 135]*]
+
+**Shall they therefore also owe obedience in those things, which the Magistrate against God sanctioneth?**
+
+**Respondeo**: **By no means. For Acts 5:29 we read**: *"God one ought to obey more than men."* **Rightly did the Apostles, not omitting the preaching of the Gospel and of Christ interdicted to them. Rightly did the three boys, associates of Daniel, refusing at the mandate of the king to adore the statue of Nebuchadnezzar. Rightly also do subjects deserting houses and lands, rather than that the false and idolatrous doctrine of the Papists, at the arbitrary and mandate of the Magistrate, they should receive.**
+
+— ❦ —
+
+# OBIECTIO
+
+### Objection. **The Magistrate is to be obeyed. The Magistrate commandeth the Papacy to be received. Ergo he is to be obeyed.**
+
+**Respondeo**: **To the Magistrate are to be rendered the things which are his — Matt. 22:21**: *"Render the things which are Caesar's to Caesar"* — **but not the things which are God's. But the confession of true doctrine and religion against the impious Papacy is of God, and not of human power: Ergo this confession at the arbitrary and mandate of human power is not to be deferred and cast off.**
+
+— ❦ —
+
+## Question 9. But what, if the Magistrate insist, and by force urge?
+
+**But what, if the Magistrate insist, and by force urge?**
+
+**Respondeo**: **Then let the faithful confessor of Christ, who understandeth the cause, with humblest subjection this force deprecate; if by prayers he shall have effected nothing, let him commit the cause to God, let him suffer whatever to him shall be to be suffered, nor let him by force resist the Magistrate; if he shall have left anything for Christ and for the Gospel, he shall receive a hundredfold, Mark 10:29. Tom. 7, p. 350.**
+
+— ❦ —
+
+## Question 10. Do the Anabaptists rightly hand down, that a Christian cannot with good conscience hold the Magistracy? [*[T. 2, p. 176 & seq.]*]
+
+**Do the Anabaptists rightly hand down, that a Christian cannot with good conscience hold the Magistracy?**
+
+**Respondeo**: **By no means. For Christ himself the political Magistrate doth approve, saying, Matt. 22**: *"Render the things which are Caesar's to Caesar."* **He himself also was subject to the Magistrate, and paid the didrachma, Matt. 17:27. Paul commandeth prayers for the Magistrate to be made — how therefore would it not be a good order and pleasing to God? Nor did Christ command the Centurion, Matt. 8, or the Regulus, John 4, to abandon their order, but each in his own place to remain he approved: which by no means would he have done, if a Christian man with good conscience could not hold the Magistracy.**
+
+— ❦ —
+
+## Question 11. Can a Christian man with good conscience contract, with another buy and sell?
+
+**Can a Christian man with good conscience contract, with another buy and sell?**
+
+**Respondeo**: **Very much: only that he go not beyond, nor circumvent in business his brother, 1 Thess. 4:6. Which nowise would the Apostle have forbidden, if to Christians contracts to exercise were not lawful.**
+
+— ❦ —
+
+## Question 12. But what in these is the rule to a Christian to be held?
+
+**But what in these is the rule to a Christian to be held?**
+
+**Respondeo**: **What he willeth that men do to himself, the same let him do to them; and what measure from others he expecteth, the same let him himself measure. Lev. 19:35**: *"Do not any unjust thing in judgment, in a rule, in weight, in measure. Just scales, and equal weights, a just modius, and an equal sextarius, I am the Lord."*
+
+— ❦ —
+
+## Question 13. Can a Christian man with good conscience use civil law? [*[T. 7, p. 8]*]
+
+**Can a Christian man with good conscience use civil law?**
+
+**Respondeo**: **Very much: for 1 Pet. 2:13 we read**: *"Be ye subject to every human creature on account of God, whether to a king, as excelling, whether to leaders, as sent by him."* **Christ also nowhere commandeth honest civil Laws to be abrogated, but himself to them subjecteth paying the didrachma, Matt. 17.**
+
+— ❦ —
+
+## Question 14. But what is the sense of the words of Christ, Matt. 5:39, "But I say unto you, resist not evil"? [*[T. 5, p. 386 & seq.; T. 4/1, p. 295; G.t. 2, p. 184–185]*]
+
+**But what is the sense of the words of Christ, Matt. 5:39, "But I say unto you, resist not evil"?**
+
+**Respondeo**: **The Pharisees handed down, that vindication was lawful and conceded to any one, even to a private one: this Christ denieth, and teacheth that a Christian, as a Christian, vindication to exercise neither can nor ought, but rather force and injury to bear**: *"You,"* **he saith,** *"I say"* **(not to the Magistrate, who beareth the sword)** *"you I say, resist not evil."* **It is not to those of you who are private, or to whom the parts of Ministry shall be committed — without the Magistrate being interpelled, or the Magistrate ceasing — to seek and exact vindication; it is not to you with hatreds, quarrels, contumelies, desire of harming, to burn or contend: But this doth not forbid himself to indicate an injury inflicted to the Magistrate, legitimately from the Magistrate to seek the patronage of justice, and the outcome to GOD and to the process of law to commit. Provided therefore the heart from unjust affections and desire of harming be pure, and in the forum according to the laws to act with good conscience shall it be lawful.**
+
+— ❦ —
+
+*[Locus XXXVI De Magistratu Politico COMPLETE — rendered in 1 tranche (T95). Q1–Q14 + OBIECTIONES I–II on empire difficulties + shedding blood + OBIECTIO on Papacy-obedience. 784 top-level Q + 422 Obj rendered so far. Locus XXXVII De Coniugio follows in T96 at OCR line 42833.]*
