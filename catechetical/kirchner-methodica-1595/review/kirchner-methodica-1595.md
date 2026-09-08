@@ -5175,3 +5175,151 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 — ❦ —
 
 *[Locus XX De Iustificatione is TRULY COMPLETE — 34 top-level Q + 20 Objs + 1 inserted Q on essential righteousness + 4 sub-Objs on Osiandrism. Total Locus XX: 35 Q + 24 Obj units. 331 top-level Q + 179 Obj rendered so far. Locus XXI De Fide in Christum follows in T31.]*
+
+— ❦ —
+
+# Locus XXI. Of Faith in Christ
+
+### *De Fide in Christum*
+
+## Question 1. What is faith?
+
+**What is faith?** [*[Luther: T. 2, p. 122; T. 4/1, p. 43, 176, 177; Q. 76, 77; T. 8, pp. 286, 287; T. 4/1, pp. 114, 792; Potestas Ecclesiastica, part 1, p. 120 f. b*]*]
+
+**Faith is not only knowledge of the history concerning Christ, but is a certain and firm confidence of the heart in the mercy of GOD, that he for Christ's obedience and merit remitteth to us all sins freely, and out of mere grace justifieth and saveth us** — **Eph. 3:12**: *"In whom (Christ) we have confidence and access in trust through the faith of him."*
+
+**A Judaic and Papist faith is to merit grace by works or by the Law, to satisfy for sins, and thereby to be saved.**
+
+— ❦ —
+
+## Question 2. By what foundations is it demonstrated, that faith is not a bare knowledge of the history of Christ (as the Papists trifle), but a firm confidence of the heart?
+
+**By what foundations is it demonstrated, that faith is not a bare knowledge of the history of Christ (as the Papists trifle), but a firm confidence of the heart?**
+
+**I.** **From faith is life** — **Rom. 1:17**: *"But the just from faith shall live."* But **from a bare knowledge of the history is not life**. Therefore it is necessary that **faith in the article of justification denote and comprehend something more than a bare knowledge of the history**.
+
+**II.** **Through faith we have access to God in trust** — **Eph. 3:12**. But **this a bare knowledge of the history of Christ cannot exhibit**. There is therefore no doubt, that **faith in this article signifieth confidence in trust, out of which the regenerate man with a cheerful countenance can approach and call upon God in all necessities**.
+
+**III.** **Through faith we have peace of heart and conscience toward God** — **Rom. 5:1–2**: *"Being justified therefore from faith, we have peace toward God through our Lord Jesus Christ,"* etc. From which also it is clear, **that faith in this article denoteth not a bare knowledge, but such a confidence in God on account of Christ and in Christ, which bringeth peace to perturbed consciences, that they may be certain, GOD hath himself propitious**.
+
+**IV.** **By faith are hearts purified** — **Acts 15:9**. But **this a bare knowledge of the history of Christ cannot exhibit** — otherwise **even the hearts of the Pharisees, Sadducees, and Pilate would have been purified and reconciled to God**. **To believe therefore in this way is not to have a bare knowledge of the history of Christ: but to have a certain confidence, and in trust to be certain of the gratuitous purification and remission of all one's sins on account of Christ**.
+
+**V.** **Heb. 11:1**: *ἔστι δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων* — *"Now faith is the substance of things to be hoped for, the argument of things not appearing."* **Not therefore a bare knowledge, but a certain and firm confidence, opposed to doubt and diffidence, doth faith denote in this article**.
+
+**VI.** **Rom. 4:20–21**, concerning the faith of Abraham it is said: *"In the promise of God he doubted not in diffidence, but was strengthened by faith, giving glory to God, most fully knowing, that whatsoever he hath promised, he is able also to perform."* Whence it is clear, that **faith in this article denoteth not a bare knowledge of the history, but a most full knowledge without hesitation and diffidence — in the promise of God concerning the gratuitous remission of sins on account of Christ most firmly acquiescing, and certainly establishing that God on account of Christ is to him propitious, and remitteth all his sins freely**.
+
+— ❦ —
+
+## Question 3. How manifold is faith?
+
+**How manifold is faith?** [*[Luther: T. 5, pp. 318, 319; Gen. T. 2, p. 147; Tabula I, pp. 121, 122, 123*]*]
+
+**I.** **One faith is firm, another infirm — one small, another great.** Yet in the meanwhile **Peter and Paul have not more in Christ than Mary Magdalene, than I and thou**: and there is this much only between us, that **with greater certitude and [firmer grasp] they embrace this treasure than we, who in faith are infirm**. Yet in the meanwhile **it also behoveth me to believe and be certain, that I have the same treasure in Christ with all Saints**.
+
+**II.** **One faith is feigned, another unfeigned.** [*[Luther: T. 6, p. 416 f. b*]*] **The unfeigned is founded in Christ. The feigned confoundeth and joineth God's mercy with its own works of merit**.
+
+**III.** **One faith is of the world, another of the faithful.** [*[Luther: T. 5, p. 348*]*] **The faith of the world — of the Pharisees, of the Turks, and of the Papists — is to establish God's grace from present fortune and earthly felicity, and to confide in one's own proper works**. But **the faith of the faithful looketh only to the word and promise in Christ, and from it establisheth and concludeth concerning the grace and mercy of God**.
+
+**IV.** **The acquired and unformed faith is a vain and false opinion and persuasion, which doth not lust with the Spirit against the flesh, nor wrestle with the temptations of sin and death.** [*[Luther: T. 7, p. 179*]*]
+
+**The faith formed by charity — to which charity supplieth form and strength — the Papists teach, but falsely**. For **that faith alone which apprehendeth the merit of Christ saveth**. But **it is one thing for faith to justify, another for faith to work through charity** — **Gal. 5:6**.
+
+— ❦ —
+
+## Question 4. But who worketh faith in hearts?
+
+**But who worketh faith in hearts?** [*[Luther: T. 2, pp. 298, 299; T. 5, p. …; T. 4/1, p. 24; T. 3/1, p. 79 f.b., p. 429*]*]
+
+**The efficient cause of faith in Christ is the Holy Spirit himself, who out of mere grace kindleth this confidence in the heart.** For **it is the work of the Holy Spirit alone, to vivify dead hearts, and to kindle faith in them**. Whence **Phil. 1:29** it is said: *"It is granted to you for Christ, not only that ye should believe in him,"* etc. **Col. 2:12**: *"in whom also ye have risen through the faith of the operation of God."* **Plainly therefore they teach falsely, who hand down that faith is acquired from free will and human powers**.
+
+— ❦ —
+
+## Question 5. But by what means is faith given?
+
+**But by what means is faith given?** [*[Luther: T. 5, p. 15*]*]
+
+**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"from the hearing of faith."* **Rom. 10:17**: *"Therefore faith cometh from hearing."* **Acts 2:38**: *"Do penitence, and let each of you be baptized in the name of Jesus Christ unto the remission of your sins, and ye shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the laver of regeneration and renovation of the Holy Spirit."*
+
+— ❦ —
+
+## Question 6. But where is faith kindled in man?
+
+**But where is faith kindled in man?**
+
+**In the heart.** **Rom. 10:10**: *"with the heart it is believed unto righteousness."* **Acts 15:9**: *"faith purifying their hearts."*
+
+— ❦ —
+
+## Question 7. In what is true faith founded?
+
+**In what is true faith founded?** [*[Luther: T. 4/1, p. 21*]*]
+
+**True faith is founded and rooted in Christ alone, and in his most precious merit and most holy obedience.** For when **faith dealeth with God concerning remission of sins, and desireth to know what is the mind and what is the disposition of God toward it**, **it can look upon nothing, nor lean and sustain itself upon anything else, than the death and blood of Christ, or the gratuitous promise of God in the Gospel offered on account of Christ**. For upon **the preaching of the Law and its own works it cannot lean, since the Law denounceth nothing but the wrath of God, and our works are plainly unclean and imperfect** — for **far, nay most far off it is, that we should have loved God from the whole heart, and our neighbour as ourselves**.
+
+Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth a propitiation through faith in his blood."* **Acts 10:42–43**: *"To him bear all the Prophets testimony."*
+
+— ❦ —
+
+## Question 8. But how doth faith apprehend Christ?
+
+**But how doth faith apprehend Christ?**
+
+**By firm confidence.** For **faith is a certain and firm confidence, which apprehendeth Christ with all his benefits, and in them confideth and acquiesceth**. **Rom. 4:20**: *"In the promise of God he hesitated not,"* etc. **Eph. 3:12**: *"in whom we have confidence and access, in trust through the faith of him."*
+
+— ❦ —
+
+## Question 9. Ought faith therefore in the regenerate to be so certain and firm a confidence, that it feel plainly no doubt?
+
+**Ought faith therefore in the regenerate to be so certain and firm a confidence, that it feel plainly no doubt?**
+
+**So certain a confidence in this life cannot befall the regenerate.** For **in the heart oftentimes — especially in graver and long-lasting temptations concerning sin and the wrath of God — doubts arise**. But it is on this account so described, that **we may know what and of what sort it ought to be, and unto what we must contend; and that we may daily fight against diffidence, and may hold in higher account and rather hearken to the gratuitous promise in Christ, to Christ's obedience and most holy merit, than to what corrupted reason and our own heart object against us**.
+
+*"Ein Wort las dir gewisser sein, / Und ob dein Herz sprech lauter nein, / So la doch der nicht grauen"* — that is, **in the word of promise, which is certain and Truth itself, being founded and rooted by faith, suffer not thyself to be moved from the hope of the Gospel — but rather, even when thy heart utterly denieth and contradicteth, cleave to the word of the Gospel**.
+
+Moreover, that **thou mayst know that the remaining doubts in the heart are not from faith, but from the flesh, in which on account of sin dwelleth no good**. **The faithful therefore deplore their infirmity, and again raise themselves up and console themselves with the grace of God — knowing, that he willeth not to impute the weak in faith unto condemnation, but freely on account of Christ to pardon them, and daily to increase faith in them**.
+
+— ❦ —
+
+## Question 10. Are faith and promise therefore correlatives?
+
+**Are faith and promise therefore correlatives?** [*[Luther: T. 8, p. 139 f. b*]*]
+
+**Very much so.** **Faith and promise are correlatives, and mutually look upon each other**. For **where there is no promise, there also no faith can be**; and **where there is no faith, there the promise profiteth us not**. But **faith is not always of the same strength, but is sometimes disturbed by temptations and is infirm**. **The promise, however, as the word of God immoveable, is always firm and ratified**.
+
+Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concerning the Christ of the God of Jacob"* — because he **hath the firm and immoveable promise concerning Christ, and embraceth it with true forming faith**.
+
+— ❦ —
+
+## Question 11. What is faith in bodily things?
+
+**What is faith in bodily things?** [*[In potestate Ecclesiastica, Sunday after Epiphany, p. 210*]*]
+
+**Faith doubteth not of the propitious will of God toward itself and its own person, and yet in the meanwhile prescribeth not to God the manner of aid and deliverance in bodily things** — **Matt. 8:2**: *"Lord, if thou wilt, thou canst make me clean."* **Rom. 8:26**: *"For what we should pray as we ought, we know not."* And so **faith asketh, that if it be for our salvation, God bring aid; if not, that his holy will be done**.
+
+— ❦ —
+
+## Question 12. What are the chief properties of faith?
+
+**What are the chief properties of faith?** [*[Luther: Gen. T. 2, p. 57*]*]
+
+**Scripture ascribeth chiefly these properties to faith:**
+
+**I.** That **it is a confidence founded on the gratuitous promise of the Gospel — which alone it regardeth, as that in which God offereth freely his grace, remission of sins, and eternal life**. **Matt. 11:28**: *"Come unto me all ye that labour and are laden, and I will refresh you."* For **unless these and the like gratuitous promises had been made and set forth by God himself, we could promise ourselves nothing certain concerning gratuitous remission of sins and reconciliation with God**. Since **no man knoweth the mind of the Lord apart from his own word**.
+
+**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8**: *"that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Christ — the righteousness which is from God in faith."* **Eph. [3:12]**: *"In Christ we have confidence,"* etc. **Rom. 4:5**: *"To him who worketh not, but believeth in him who justifieth the impious, his faith is reckoned unto righteousness."* **Rom. 3:26**: *"That he himself be just, and the justifier of him who is from the faith of Jesus Christ. Where then is thy glory? It is excluded. By what Law? Of works? Nay, but by the Law of faith."*
+
+**Faith therefore establisheth, that God is propitious not only to others but even to thee thyself; that he remitteth to thee freely thy sins on account of Christ, without any merit and works of thine; that he giveth to thee freely the kingdom of the heavens, the Holy Spirit, and eternal life**. For **the just from his faith shall live** — **Rom. 1:17**.
+
+**III.** That **in all things — whether bodily or spiritual, whether temporal or eternal goods — it looketh upon the mercy of God alone and the merit of Christ**. For **from the word of God it knoweth, that God neither heareth prayers, nor delivereth out of evils, save through and on account of Christ the Mediator**. Hence **Matt. 21:22** it is said: *"All things whatsoever ye shall ask in prayer, believing, ye shall receive."* Item **John 16:23**: *"Amen, amen I say to you, if ye shall ask anything of the Father in my name, he shall give it to you."* **Matt. 9:2**: *"Be of good cheer, son, thy sins are remitted to thee."* **Luke 8:50**: *"Be not afraid, only believe, and she shall be saved."*
+
+For **it is impossible that a man with trust and cheerful countenance ask anything from God, unless he be first certain that he is reconciled to God on account of Christ, and hath remission of all his sins**.
+
+**IV.** That **it embraceth the promise of grace, and confideth in it, even before it seeth and experienceth the aid and the thing promised**. [*[Luther: In the Postill of the Sunday of Epiphany, T. 7, p. 316*]*] **John 4:50**: *"The man believed the word which Jesus spake to him."* **Rom. 4:18**: *"Abraham believed against hope in hope."* For **although it doth not straightway feel the aid and peace in conscience, but still wrestleth against the temptations of sin, of the wrath of God, etc., yet faith certainly establisheth, that the promise of grace is firm and immoveable, and that upon this wrestling at length peace of conscience and tranquillity of heart follow and increase** — **Rom. 5:2**.
+
+**Also that it suffer not sin to receive dominion, but by the Spirit mortify the deeds of the flesh** — **Rom. 8:12–13**.
+
+**These properties which we have shown manifestly refute the clamours of the Papists, as though we taught a dead faith**. Just so **also they argue against the opinion of the hypocrites, who presume faith to be an imagination of the heart, and that it is enough if a man say he believeth — even though he plainly know not what true faith is, and what its properties are, and persevere in sins against conscience**.
+
+— ❦ —
+
+*[Locus XXI Part 1 closes (Q1–Q12). Part 2 (Q13–Q19 + 2 embedded Objs — sola fide + particula exclusiva) follows in T32. 343 top-level Q + 179 Obj rendered so far.]*
