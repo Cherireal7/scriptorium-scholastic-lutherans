@@ -11102,4 +11102,104 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXI De Poenitentia Part 4 closes (Q39–Q44 + OBIECTIONES I–IX on Papist satisfactio): Papist doctrine 2-fold [Priest imposes pro qualitate delicti + is meritoria], ancient satisfactio canonica in early Church = public discipline for lapsed/atrocious per Tertullian De poenitentia + Eusebius 3.28/6.25 + Sozomen "exomologesis" (Latin "satisfactiones"), Monks ignored true meaning of word, 5 causes old Church instituted [explore mens seri vs simulated + satisfy scandalized Church + terror-example + occasion for firm emendatio + public testimony no license], 5 Papist grades [opera supererogationis pilgrim/Rosary/fasts + Ordinis redemptio + meritum sanctorum defunctorum via indulgentiae + Purgatory + vigiliae/Missae for redeeming souls] all figmenta hominum, Papist sententia on imposition (culpa remitted in contritione but obligatio ad poenas temporales remains → Sacerdos censens et imposing = Trent's iuridicial process), 6-point refutation from Scripture [remissio culpae not distincta from remissio poenarum aeternarum per John 3:15 + Rom 5:9 + John 5:24; even distinct per Ps 89:33 virga, poenae temporales not subject to potestas clavium sicut experientia; poenae God sometimes remits/mitigates/imposes but not to satisfy sed longe aliae causae; longe max discrimen Papisticam satisfactionem vs crucifixio carnis Gal 5 + Paul Rom 7 non pro peccato satisfacit sola Christi satisfactio; unica satisfactio est mors Christi, all contriti/laborantes remittendi, Papatus blasphemy remitting to own satisfactions; boni opera as fructus dignos Matt 3 non ad satisfaciendum], OBIECTIONES I-IX [I. per satisfactionem resurgendum — 1 John 2 ad solum Christum ablegamur; II. David 2 Sam 12 poena — imposed by God not Nathan, for diligentia non satisfactio; III. 1 Cor 11:31 diiudicaremus — seipsum arguere non satisfactiones; IV. John facite fructus — truly good works testifying conversion; V. Moyses singula sacrificia — typi Christi unicum; VI. restitutio est satisfactio — canonica non necessaria vs civilis restitutio Deo praecepta Zacchaeus; VII. Ecclesia follows exempla iudicij divini imposing Adam poenas — rightly in praeceptis, not in non-praeceptis, Sacerdotes need peculiar mandate; VIII. afflictiones conformes corpori Christi — divinitus impositae yes, canonicae figmentum cerebri; IX. Christ's works don't obscure meritum — Minor false, canonicae nec praeceptae nec Christo efficiuntur, obscurant meritum]. Part 5 (why auricular confessio abrogated + OBIECTIONES I-VI on our abrogation + why retain private confessio in our Churches + OBIECTIONES I-III) follows in T89. 693 top-level Q + 402 Obj rendered so far.]*
+## Question 45. Wherefore is that Papist auricular confession in our Churches abrogated?
+
+**Wherefore is that Papist auricular confession in our Churches abrogated?**
+
+**On account of the following causes**:
+
+**I. That the Pope imposeth it upon consciences as necessary, and maketh it a snare of consciences, wherewith consciences are entangled and constrained — since nevertheless neither Christ nor the Apostles delivered or prescribed it in that manner in which by the Papists it is urged.**
+
+**II. Because this Papist confession transformeth the Gospel into Law**: for **they contend that sin cannot certainly be remitted, unless it be rightly and with its circumstances explained. Which condition is impossible. Ps. 19.**
+
+**III. Because they make this confession meritorious — for the remission of guilt, for the mitigation of penalty, for the opening of paradise, for the consolation of salvation. As this is clear from the writings of the Scholastics.**
+
+**IV. Because it leadeth consciences into the abyss of doubtation: for impossible it is to know, whether all things thou hast confessed, and all circumstances thou hast rightly expounded.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But (they say) the universal Church hath always understood such a confession, as they describe it, to have been instituted by Christ, and to have always been employed in the Church?**
+
+**Respondeo**: **The contrary is true: For neither Christ nor the Apostles instituted it. In the whole Scripture no mandate, no testimony, no example of such an integral and specific enumeration or confession is extant. And from Gratian also the time about which this auricular confession began is established: as above hath been shown.**
+
+— ❦ —
+
+### Objection II. **But Adam confessed.**
+
+**Respondeo**: **But this was not auricular and specific, such as by the Papists is delivered — but was a common and general confession of sin, which was troublesome enough to him, as Gen. 3 may be seen. For he attempted to excuse and justify himself, nor did he enumerate the circumstances.**
+
+— ❦ —
+
+### Objection III. **But Matt. 3 it is written**: *"They came, and confessed their sins,"* etc.
+
+**Respondeo**: **These words also speak not of special and auricular Papist confession of sins to a Priest, but of a general confession and profession of sins, which they instituted who from John sought Baptism — and then that Papist confession was plainly unknown.**
+
+— ❦ —
+
+### Objection IV. **Acts 19:18 it is said**: *"Many indeed of the believing came, and confessing, and announcing their acts,"* etc. ***Ergo,*** etc.
+
+**Respondeo**: **Luke there treateth not of Papist confession, which then was not in the nature of things, but of the general confession of believers, who confessed that they had done evil, following curious things and studying magic. Nor doth he say, that they enumerated all their sins specifically and according to all circumstances — but that in general they confessed and publicly professed, that they had done evil. Just as also Augustine wrote books of Confessions.**
+
+— ❦ —
+
+### Objection V. **Luke 19:8 Zacchaeus confesseth, that he had defrauded many. *Ergo,*** etc.
+
+**Respondeo**: **But Christ demanded not from him a specific enumeration of all delicts according to all circumstances — which the Pope doth. But content with a general confession, he absolveth him, saying**: *"Because today salvation is made to this house, because he also is a son of Abraham,"* etc.
+
+— ❦ —
+
+### Objection VI. **But both Scripture and the orthodox Fathers everywhere have mentioned confession. *Ergo* it is necessary?**
+
+**Respondeo**: **The sacred Scripture teacheth, first, a certain confession which is made to God alone, whereby, acknowledging our sins, before God we pour out our heart — confessing and deploring with true grief of heart, how manifoldly we have offended God, and confessing ourselves guilty of wrath and eternal damnation, we seek his mercy. Ps. 32:5**: *"I said, I will confess against me my injustice to the Lord,"* etc. **1 John 1[:9]**: *"If we shall confess our sins, he is faithful and just to remit to us our sins."* **But of this confession there is no controversy — nor hath it anything in common with the Papist confession.**
+
+**Then it teacheth fraternal confession, which is made to the neighbour, when he who hath offended the neighbour, led by penitence, confesseth that he hath sinned, and asketh to be forgiven. Luke 17:4**: *"If seven times in a day he shall sin against thee, and seven times in a day shall be converted to thee, saying, "It repenteth me," pardon him,"* etc. **And hither also pertaineth the saying of James 5:16**: *"Confess your sins one to another."* **Neither doth this confession communicate with that Papist one.**
+
+**Thirdly, Scripture teacheth confession of sins before Ministers of the word and of the Sacraments — wherein the sinner enumerateth not indeed in species all and singular sins according to all circumstances, as the Papists will — but either in general professeth, that he acknowledgeth sins and the wrath of God against sins, or confesseth certain graver delicts weighing on his conscience, and asketh remission and absolution to be imparted to him. 2 Sam. 12:13**: *"And David said to Nathan, I have sinned against the Lord."* **So Luke 7:37, the woman that was a sinner, with tears her sins confesseth — but not in species she enumerateth all. This confession is pious and Christian, nor is it disapproved by us — nothing however for the Papist confession maketh,** etc.
+
+**As to the sayings of the Fathers, on distinct matters they themselves speak distinctly, as from their writings appeareth**: for **sometimes they speak of public confession before the Church and in public crimes, which were to be smitten with excommunication. As Irenaeus, lib. 5 [1], cap. 9, of certain women (who, seduced and corrupted by Marcus the heretic, when they were converted, in manifest wise made *exomologesis*, bewailing and lamenting their corruption) maketh mention: And Tertullian, De poenitentia. Eusebius, lib. 6, cap. 25, also maketh mention of this, when he describeth the fall of the Bishop of Philippi Caesaris. Item, lib. 5, cap. 28, he introduceth Natalis, his own who had lapsed into heresy, weeping**.
+
+**In the Constantinopolitan Church, in the time of Nectarius, the confession which was wont to be made to a Presbyter to those confessing, was abrogated on account of the transgression of that Priest, as Sozomen writeth, lib. 7, cap. 16.**
+
+**Besides, among the Fathers are read certain sayings, which exhort, that even lesser delicts (for the earlier sayings speak of graver ones, and of crimes meriting excommunication) we should confess to the Priest: but here it must be noted, that the Fathers teach not, auricular confession to be of divine right, or by God himself, especially in that mode by which the Papists define it, to be instituted — but taught it to be useful for the perception of consolation. And although they urged it most greatly, yet the sayings of the Fathers without express Scripture testimony can establish no article of faith: which Scripture authority the auricular Papist confession plainly lacketh. And Gratian himself gathered diverse sayings of the Fathers upon this matter.**
+
+— ❦ —
+
+## Question 46. Wherefore in our Churches do we retain confession?
+
+**Wherefore in our Churches do we retain confession?**
+
+**As to private confession, we retain it, not as a necessary butcher's shop of consciences, or that with the Papists we require of all sins with their circumstances the special enumeration: But on account of other pious causes. Namely, that they who are to approach the sacred Synaxis, may indicate themselves, and seek absolution — and that the Ministers may have occasion of examining the hearers, whether they know, to prove themselves unto the salutary perception of the Supper of the Lord — whether they rightly understand the chief heads of piety, chiefly of sin, of faith in Christ, and of the fruits of penitence: Item, that consciences burdened and tempted may through the Ministry also privately be instructed by salutary consolation.**
+
+— ❦ —
+
+## Question 47. But since in sacred Scripture it be not instituted, it were plainly to be omitted and abrogated?
+
+**But since in sacred Scripture it be not instituted, it were plainly to be omitted and abrogated?**
+
+**Respondeo**: **Freely we retain it, nor do we impose it on consciences as necessary — nor do we urge anyone, that all his sins with all circumstances he enumerate — much less do we say it is meritorious. But on account of the aforesaid causes we retain it. And because in general Scripture maketh mention of confession made to Ministers, as hath been said — although from no one it demand the specific enumeration, which we also do not require.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But many abuses and infinite evils have been introduced by the Papists into the Church through auricular and private absolution? Therefore it were to be abrogated.**
+
+**Respondeo**: **The abuses we remove, we reprove, and admonish all concerning them: but what in it is good, and maketh for the edification of consciences and for the preservation of Ecclesiastical discipline, we retain.**
+
+— ❦ —
+
+### Objection II. **But since no one can remit sins, except God alone, it is not necessary on account of absolution to retain private confession?**
+
+**Respondeo**: **It is true, that God alone remitteth sins — but this he doth through ordained means, namely through the Ministers of the Church. Just as Christ himself, John 19[:20]:23**: *"Whose sins ye shall have remitted, they are remitted to them."*
+
+— ❦ —
+
+### Objection III. **But this by public preaching of the Gospel can be done. *Ergo* confession is not needed.**
+
+**Respondeo**: **As it followeth not, "The faithful man through the public preaching of the Gospel can be made partaker of all the benefits of Christ: *Ergo* he needeth not participation of the Supper of the Lord": So it followeth not: "The faithful man from the public preaching of the Gospel can accept consolation: *Ergo* of the special consolation of private absolution he hath no need." For Christ willeth to be efficacious through each — as this and the proper experience of all the faithful testifieth: and often to Christians even exercised, such cases are offered, in which they have need of the salutary counsel and consolation of their pastors, which in private confession from them they can seek and receive.**
+
+— ❦ —
+
+*[Locus XXXI De Poenitentia TRULY COMPLETE — rendered in 5 tranches (T85–T89). Q1–Q47 + OBIECTIONES I–III on contritio (embedded early) + OBIECTIO on 2 Cor 7 + OBIECTIONES I-III on Mal 3/Heb 6/Esau + OBIECTIONES I-II on confessio + OBIECTIONES I-IX on satisfactio + OBIECTIONES I-VI on abrogation of auricular confessio + OBIECTIONES I-III on retention. Total Locus XXXI: 47 top-level Q + ~26 Obj units. 706 top-level Q + 411 Obj rendered so far. Locus XXXII De Libertate Christiana follows in T90 at OCR line 40006.]*
