@@ -5076,4 +5076,102 @@ More therefore doth this sentence teach us, **what we lack, rather than what we 
 
 — ❦ —
 
-*[OBIECTIONES PONTIFICIORVM Part 1 closes (Objs I–IX). Part 2 (Objs X–XVI + inserted Q on essential Righteousness of God + 4 sub-Objs) follows in T30. 331 top-level Q + 168 Obj rendered so far.]*
+### Objection X. **The greatest virtue justifieth. But charity is the greatest virtue** — *"the greater of these is charity,"* **1 Cor. 13**. *Ergo* charity justifieth.
+
+**Respondeo** to the Major: **that from the sacred letters cannot be proved**. Then to the Minor: **The Apostle compareth faith, hope, and charity according to *duration* — there it is true, that charity is greater on account of duration, because it shall not cease in the other life**. But **hence it followeth not, that before God it justifieth — since in the regenerate it is imperfect**.
+
+— ❦ —
+
+### Objection XI. **By faith we are just. Faith is a work. *Ergo* by works we are just.**
+
+**Respondeo**: **There are four terms.** [*[Luther: T. 4/1, p. 43; Gen. 15, T. 2, p. 57*]*] For **the Minor subaudeth otherwise, than the words of the Major have**. The **Major soundeth of the instrumental cause, by which we apprehend righteousness**. But **the Minor considereth the word *faith* under another respect — namely, in so far as it is a work**. It is however **a work of God in us, not our own** — for **it is given to us by God, that we should believe in Christ, and through faith on him obtain a righteousness prevailing before God**.
+
+**Summa rei**: **we are not justified by faith in so far as it is a work: but in so far as our faith apprehendeth the satisfaction of Christ the Mediator**.
+
+— ❦ —
+
+### Objection XII. **It is impossible that by mere knowledge we should be just. But faith is knowledge. *Ergo*, etc.**
+
+**Respondeo**: **The Minor is false.** For **it containeth a false definition of faith**. For **faith signifieth not only knowledge of the history, but confidence of the heart in the promised grace, acquiescing on account of Christ, and establishing that we are reconciled to God, and please him through and on account of Christ the Mediator**.
+
+— ❦ —
+
+### Objection XIII. **The instrumental cause justifieth not. Faith is the instrumental cause. *Ergo* it justifieth not.**
+
+**Respondeo**: **To faith is not ascribed righteousness as to a work *per se*: but on this account, that it embraceth the obedience and satisfaction of Christ the Mediator, and establisheth that on account of this we are accepted to God, and heirs of eternal life**.
+
+— ❦ —
+
+### Objection XIV. **In the conversion or reconciliation of man, there is not only faith, but also the other virtues — hope, charity, etc. *Ergo* justification is not the sole remission of sins, but the other virtues also pertain to justification.**
+
+**Respondeo**: **We concede, that a man, when he is reconciled to GOD through faith on Christ, is at the same time by the Holy Spirit sanctified, or renewed**; but **hence it followeth not: *Ergo* those things which are done together, have the same property and the same office**. In the justified, **faith and works are connected — but yet faith alone apprehendeth the remission of sins offered in Christ**. **The other virtues which are given together have other objects and other offices**. **Charity apprehendeth not grace, but loveth God, on this account, that he hath out of grace on account of Christ received us; and so also the other virtues**. **Distinction therefore is needful in this argument, that to faith be attributed what is proper to faith, and to charity and the other fruits of faith be ascribed what is proper to themselves**.
+
+— ❦ —
+
+### Objection XV. **By righteousness we are just. But righteousness is a habit of the mind conformed to the divine Law. *Ergo* by such a habit we are just.**
+
+**Respondeo**: **There are four terms.** For **the word *righteousness* is taken otherwise in the Major, and otherwise in the Minor**. In the **Major** it is taken **of the righteousness of Christ apprehended by justifying faith before God**. But in the **Minor** it is taken **of the infused qualities, which in us are imperfect, and which Scripture denieth to be imputed unto righteousness before God** — **Rom. 4:11**.
+
+— ❦ —
+
+### Objection XVI. **He is just, who hath righteousness. *Ergo* by our inherent righteousness, which we have in us, we are just — and not by an alien, namely Christ's, righteousness imputed through faith.**
+
+**Respondeo**: **The Antecedent speaketh in the Aristotelian manner of *inherent* righteousness; the Conclusion, however, of righteousness before God**. There is manifest therefore **a plain confusion of things which are to be discerned**.
+
+**Aristotle understood not the doctrine of the Church concerning the gratuitous justification of the sinner-man before GOD.** He was ignorant that **the inherent, or also the infused, righteousness — or the qualities begun by the Holy Spirit — are imperfect, and are not held for righteousness in the sight of GOD**. Nor did he know **the Holy Spirit's doctrine concerning the gratuitous imputation of Christ's obedience through faith**. In vain therefore **do the adversaries from the corrupted [scholastic Aristotelian frames] attempt to demonstrate justification before GOD**. *"We believe fishermen,"* saith **Ambrose**, *"not Dialecticians."* Therefore neither Aristotle, at least in this part.
+
+But whereas they deny that **this external attribution hath been heard from the age — namely, that from qualities which are mere [inherent], extrinsically a thing should obtain a name, so that we should be reckoned just before GOD, not from inherent qualities, but by an alien righteousness — Christ's, namely — which is applied through faith** — they torture themselves without cause. For **they ought to have known that righteousness is twofold: one of the Law, another of faith; and that judgements of men are one thing, of GOD another; and that it is foolish to argue from human things to divine**.
+
+With **Aristotle** indeed those are reckoned just who **have Legal righteousness — that is, virtues conformed to the laws**. But not with GOD. For **GOD from the Law reckoneth no one just by his own or inherent righteousness — even if he have some — unless he exhibit a righteousness perfect and absolute in all its numbers**. But **such a righteousness no one of men can produce in the sight of GOD**. Wherefore when God perceived that **we could not obtain the praise of righteousness before him from the righteousness of the Law**, **it pleased him to impute an alien righteousness — Christ's, namely — to believers unto righteousness** [*[Luther: T. 7, pp. 186, 187*]*].
+
+And although this **hath never been heard from the age in the school of Aristotle — that the sinner-man before God, not from inherent qualities but by an alien righteousness (Christ's namely, which by faith is applied to him) is called and reckoned just** — yet **in the School of the Apostles nothing is more sung, nothing more known**. Is this voice of the Apostolic Church, which standeth in Romans, unknown? *"By the obedience of one, many shall be constituted just."* Doth this attribution of the Holy Spirit shown by the Apostle seem to you adversaries so far external, alien, and remote from truth, that in this very controversy Aristotle rather than the Apostle is to be believed?
+
+**The Publican of Luke [18]** is proclaimed **just**, not on account of his **internal or inherent righteousness (which he lacked)**, but on account of the **imputed righteousness of Christ the Mediator, through which sins were forgiven him, and on account of which he was reckoned just before God**. So **Abraham, Gen. 15; Rom. 4**, by the **alien righteousness of Christ apprehended through faith, is reckoned just — not from inherent new qualities, nor that he might glory in himself or his own works, but rather in Christ the Mediator and his most holy obedience**.
+
+But they urge: **No one is called just save by *ratio* of righteousness. *Ergo*.**
+
+**Respondeo**: **When the merit of Christ is imputed to us through faith unto righteousness, certainly by this *ratio* rightly we are reckoned just before God**. **No sound man will require a better righteousness, than that which is Christ's, and which is imputed to us through faith unto righteousness on account of Christ**. Why, I pray, on account of Christ's righteousness — given freely through faith — should we not rightly be pronounced just? Is Christ's righteousness therefore too imperfect, to be imputed to believers unto righteousness?
+
+For although **Christ's obedience is not so in us, as infused qualities are in us: yet given and by faith received, it truly passeth into our possession, and truly is ours** — so that **on account of it no less truly we can be reckoned just before God, than if it were in us by that mode by which infused virtues are in us**. For **Christ hath been made unto us righteousness, that whoso will glory, may glory in this alone** — **1 Cor. [1:31]**.
+
+— ❦ —
+
+## Is a man justified before God by the essential righteousness of God himself?
+
+**Is a man justified before God by the essential righteousness of God himself?**
+
+**Respondeo — by no means.** [*[Luther: T. 1, p. 42 f. b*]*] For **the essential righteousness is Wisdom, and the immoveable norm of righteousness in the divine mind — discerning right and not-right, acquiescing in the just, and horribly wroth and punishing the unjust and those polluted with sin**. But **all we are polluted with sin**. Therefore **through it we cannot be justified**.
+
+Moreover **the Apostle defineth our righteousness — by which we are just before God — as remission of sins and imputation of the righteousness of Christ, which by faith alone is apprehended** — **Rom. 3, 4**. But **the essential righteousness is not the gratuitous remission of sins, nor the imputation of Christ's obedience**.
+
+To speak summarily: **we are just either by the imputation of Christ's obedience through faith, or by the essential righteousness of God, or by the righteousness of works**. But **we are not just by the essential righteousness of God, nor by works — otherwise Christ had died in vain, Gal. 2**. *Ergo* **we are just by the imputation of Christ's obedience through faith** — **Rom. 4**.
+
+Also **the cause naturally precedeth the effect**. But **the inhabitation of God in us doth not precede but followeth justification**. *Ergo* **the inhabitation of God is not our righteousness**.
+
+## Objections
+
+### Objection I. **Jehovah signifieth the divine essence. Jehovah is our righteousness** — **Jer. 23**. *Ergo* **the divine essence is our righteousness**.
+
+**Respondeo**: **It is a fallacy of composition and division.** **The whole saying of Jeremiah is to be looked at, which soundeth thus**: *"I will raise up unto David a just branch, and this is the name whereby they shall call him: Jehovah our righteousness."* The sense therefore is: **that the Messiah, who is God and Man, shall be our righteousness — or shall justify us, according to the decree of the divine majesty — namely, by suffering and by fulfilling the Law most perfectly, and by imputing to us through faith this righteousness which he acquired freely**. Therefore **by this imputed righteousness we shall be just before God through faith**.
+
+— ❦ —
+
+### Objection II. **The righteousness of man after the fall is the same as it was before the fall. The divine nature dwelling in Adam was his righteousness. *Ergo*, etc.**
+
+**Respondeo**: **The Major is false.** For **Adam's righteousness was the integrity and rectitude of nature in which he was created — which righteousness was conformity with the divine Law**. But **our righteousness is the merit and obedience of Christ, which is freely given to us and by faith imputed unto righteousness before God** — **Rom. 4**.
+
+— ❦ —
+
+### Objection III. **Righteousness is not a creature. But the human nature of Christ is a creature. *Ergo* the human nature of Christ cannot be our righteousness — but only the divine nature is our righteousness.**
+
+**Respondeo**: **We say not that the human nature of Christ is our righteousness.** But **we teach according to the Scriptures, that the Son of God was incarnate, that by his Passion and obedience he might satisfy for us, and might acquire a righteousness prevailing before God**. By **this acquired righteousness of the Mediator — which is not called the righteousness or merit of a creature, but the righteousness and merit of the incarnate Son of God — we are just before God, and on account of him are accepted through faith unto eternal life** — **John 3**.
+
+— ❦ —
+
+### Objection IV. **Relation is an empty cogitation. But our righteousness is not an empty cogitation. *Ergo* it is not a relation, but a substance — and by consequence, the essential righteousness of God is our righteousness.**
+
+**Respondeo**: **Relation is twofold — of Reason, and Real.** The **Real relation by which we are justified is not a bare cogitation, because it hath a foundation — namely, the merit and obedience of Jesus Christ**. For **those are imputed to us unto righteousness, and on account of them we are pronounced just before God, and are absolved from sins**. **Not therefore doth GOD justify us by a bare cogitation without righteousness, but when he justifieth us, he looketh to that immoveable foundation of the merit and obedience of Christ which he giveth to us through faith, that we in it may glory even as if it were our own proper**.
+
+— ❦ —
+
+*[Locus XX De Iustificatione is TRULY COMPLETE — 34 top-level Q + 20 Objs + 1 inserted Q on essential righteousness + 4 sub-Objs on Osiandrism. Total Locus XX: 35 Q + 24 Obj units. 331 top-level Q + 179 Obj rendered so far. Locus XXI De Fide in Christum follows in T31.]*
