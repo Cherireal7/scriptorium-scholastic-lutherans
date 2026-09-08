@@ -7652,4 +7652,108 @@ But **the controversy between us is this** [*[T. 3, p. 34; T. 6, p. 19; T. 8, p.
 
 — ❦ —
 
-*[Locus XXVII Part 3 closes (Q11–Q13 + OBIECTIONES I–V on particles in/cum/sub). Part 4 (Q14 foundation of true praesentia + Q15 Adversaries' varied interpretations exposed + Q16 orthodox Patres' testimony with 8 sub-points + Q17 Sacramental union defined) follows in T57. 490 top-level Q + 248 Obj rendered so far.]*
+## Question 14. Whence therefore is the true and substantial presence and participation of the body and blood of Christ in the sacred Supper proved?
+
+**Whence therefore is the true and substantial presence and participation of the body and blood of Christ in the sacred Supper proved?** [*[T. 3, pp. 341, 489 and following*]*]
+
+**The foundation of demonstration and proof of this we take not from the general presence of the whole Christ with all creatures, or from elsewhere: but from the words of institution of the Lord's Supper, which offer us a solid and immoveable foundation, that with bread and wine he willeth to distribute his body and blood**. Nor **do we concede the words of institution to be the matter of dispute — for they, by the grace of God, are sufficiently clear and perspicuous to us, and explain themselves**.
+
+**The word *"Meum"* [My] expressly speaketh of Christ's body.** **The word *"Corpus"* [Body] cannot and ought not otherwise than of Christ's body be expounded**, lest **the exegetic particle *"which is delivered up for you"* be convicted of lie**. Just as **in the cup neither can be put the relative *"which"* pro *"quatenus"* — but relatively**. For it **showeth Christ's body, which truly was delivered up for us into death**.
+
+**Similarly the words concerning the cup dispatch us to no figure or symbol of the far-absent blood of Christ**. For **Christ himself saith, Matt. 26:28; Mark 14:24**: *"For this is my blood of the New Testament, which shall be poured out for many unto the remission of sins."* **Which words speak of Christ's proper blood, and of his own blood, which was poured out for us**.
+
+**This blood however was the true and substantial blood of Jesus Christ.** We cannot therefore **concede, that for the words *"My blood"* a symbol or sign of the far-absent blood be substituted**. **Since the blood of the New Testament is not a sign or figure or type of the blood of Christ, but the very true and proper blood of Christ**.
+
+This foundation of ours **Paul also confirmeth — 1 Cor. 11, repeating the words of institution — and 1 Cor. 10:16, saying**: *"The cup of blessing, which we bless, is it not the communication of the blood of CHRIST?"* **He saith not: "the wine is a sign or symbol." Nor doth he say: "the wine is a symbol of the communicated blood of Christ," or "a sign of the communicated virtue and efficacy of the blood of Christ"** — **but whose blood? Certainly of that which was poured out for us, and of no other**.
+
+In the same mode also he speaketh of the communication of the body of Christ: *"The bread, which we break, is it not the participation of the body of the Lord?"* **He saith not: "The bread is a sign of the body of Christ," or "The bread is a symbol of the communicated body of Christ," or "the bread is a symbol of the communicated virtue and efficacy of the body of Christ"** — but simply, **"it is a participation of the body of Christ" — namely of that which was delivered up for us**. And **this is so manifest, that even Beza himself, in Epistle 4, writeth and openly confesseth**: *"The Apostle did not write: 'the bread, which we break, is a participation of the virtue and efficacy of Christ,' but 'it is a participation of the body of Christ.'"*
+
+— ❦ —
+
+## Question 15. What is to be judged of that varied and multiform explication of the words of the Supper brought forth by the Adversaries?
+
+**What is to be judged of that varied and multiform explication of the words of the Supper brought forth by the Adversaries?** [*[T. 3, pp. 490, 494 and following*]*]
+
+**That very thing bringeth it forth — that the Adversaries are punished by God with the spirit of dizziness, so that what they say or write they themselves understand not**: for **the good and holy Spirit of God is not at variance with itself**. **Karlstadt referred the particle *tote* to the body of Christ sitting at the table**. **Zwingli undertook the particle *Est* to be examined by himself, and from his own dream interpreted it by *Significat***. **Oecolampadius expounded the word *Corpus* by *sign of the body***. **Schwenckfeld contendeth those words *"Hoc est corpus meum"* to be put aside, because they impede spiritual understanding**. **Some of his consortium so order the words**: *"Take, eat, which is delivered up for you: this is my body"*; **others**: *"Take, eat, this is my body,"* etc., *"in recordation or commemoration"* — **and so they interpret**: **the bread is [or] admonitory sign of my body**.
+
+**Campanus saith**: *"This is my body — that is, a bready body, namely: the bread indeed is a body, made by God and Christ — but not the very natural and substantial body of Christ."* And **others otherwise inverted the text — as in the writings of Luther one may see**. **Diallacticon and Beza, Ep. 68, contend: the word *"Corpus"* to be used in a double sense — for the true body of Christ, and for the spiritual and Sacramental body: In the sacred Supper to be used not of the true, but of the Sacramental body of Christ**.
+
+And there are many other such inconvenient and self-dissenting interpretations — which all evince, that **the Adversaries in this controversy have no certain foundation of their own sentence**. For **the same Beza, Ep. 5 ad Alamannum, writeth**: *"The word *Corpus* cannot be received of anything other than of the true body of Christ, which was delivered up for us."* Yet **in Ep. 68 he writeth the contrary — that in the Supper this word doth not note the true body of Christ, but the Sacramental — that is, a symbol of the body of Christ, which is farther distant from the sacred Symbols than the extreme heaven from the lowest earth**, as elsewhere he speaks.
+
+### Objection.
+
+**But although those interpretations are varied, they all yet consent in this — that the *Corpus* is the symbol of the body, and the bread the sign of the body of Christ?**
+
+**That they consent in this — nothing maketh for the matter**. For **necessary it is either that, those varied interpretations being omitted, in some one certain they acquiesce — or that they openly confess that they have no foundation of their own sentence in the words of institution**. For **those varied and self-contradicting interpretations take away every certitude of the words of institution**.
+
+— ❦ —
+
+## Question 16. In the same mode as ye, hath the orthodox Church of the Fathers also interpreted the words of institution?
+
+**In the same mode as ye, hath the orthodox Church of the Fathers also interpreted the words of institution?** [*[T. 3, p. 367 and following*]*]
+
+**Very much so.**
+
+**First**: The chief of the Fathers — as **Irenaeus, bk. 4, cap. 34; Augustine, in the sentences of Prosper, etc.** — confess that **in the Supper of the Lord there are two things: earthly Elements, bread and wine; and the true body and blood of Christ**. Which the same we also teach and profess.
+
+**Secondly**: Similarly also they confess, **the body of Christ to be present not only in heaven, but also in the Supper truly**.
+
+**Augustine ad Neophytos**: *"Receive this in the bread which hung on the cross: receive this in the cup which was poured out from Christ's side."*
+
+**Chrysostom, 1 Cor. 11**: *"That which is in the cup, is that which flowed from Christ, and of that we participate."*
+
+**And Ignatius in the Epistle to the Smyrnaeans** (as Theodoret allegeth) saith: *"Those are heretics who deny the Eucharist to be the flesh of our Saviour Jesus Christ delivered for us."*
+
+**Thirdly**, they teach also that **the body and blood of Christ are present in an invisible mode in the Supper of Christ and distributed**.
+
+**Augustine in the sentences of Prosper**: *"The Eucharist standeth of the visible species of the Elements, and of the invisible flesh and blood of our Lord Jesus Christ."* The same is with **Cyprian in the sermon *De coena*, and Bernard on the Supper of the Lord** — teach: and this same is also our doctrine and confession.
+
+**Fourthly**: With diserte words they wrote: **Christ is present in the Supper not only by his virtue and efficacious operation, but even the body and blood of him himself are given and received in the Supper**.
+
+**Cyril, book 11 in John, cap. 26**: *"It must be considered — not by relation only, which is understood through charity, is Christ in us: but even by natural participation."* Ibid.: *"Doth he not also corporally by the communication of the flesh of Christ make Christ dwell in us?"*
+
+**Hilary, *De Trinitate*, bk. 8**: *"The nature of his flesh he mingled unto the nature of eternity, under the Sacrament of the flesh to be communicated to us: and we truly under the mystery take the flesh of his body."*
+
+**Chrysostom on Matt. 26, hom. 83**: *"With his own body he feedeth us, and joineth and glueth himself to us."*
+
+**Fifthly**: The holy Fathers **through the corporeal participation of the flesh of Christ in the sacred Supper** — as from **Irenaeus, bk. 4, cap. 34, and others one may see — luculently refuted the heresy of the Marcionites, who denied that our flesh and blood can possess eternal life**. **How therefore should they not have believed the body and blood of Christ to be truly present, given and received in the Supper?**
+
+The same **Cyril in John, bk. 4, cap. 26; bk. 4, cap. 14, 17**, and **Augustine, Confessions, bk. 7, cap. 10** affirm. And **especially Tertullian, in the book De resurrectione carnis, and Chrysostom, 1 Cor. hom. 24**.
+
+**Sixthly**: Together with Luther and us, they also taught **the manducation of the unworthy**.
+
+**Augustine against the Donatists, book 5, cap. 8**: *"By unworthily receiving the Dominical Sacrament, he doth not effect that — because he himself is evil, or because he received not unto salvation — he received nothing: for the body and blood of the Lord was no less for those to whom the Apostle said, 'He that eateth unworthily.'"*
+
+**Item against Fulgentius the Donatist, T. 7, p. 648. Ep. 162. Cyprian in the sermon *De lapsis*. Chrysostom hom. 61 ad Antiochenus. Theodoret, 1 Cor. 11. Theophylact, 1 Cor.**
+
+**Seventhly**: With Luther and us they urged the words of institution: *"This is my body,"* and faithfully admonished that no one suffer himself to be led away from them.
+
+**Cyprian in the sermon *De coena Domini***: *"Among the guests of the Lord's Supper an animal man is not received: whatsoever flesh and blood dictateth is excluded from this feast, taketh nothing, profiteth nothing — whatsoever human subtlety maketh. Everything which seemeth deviating from its own reasons the wise of this age refer to dementia, and reckon alien from the truth: but truth from erring men cannot be comprehended."*
+
+**Chrysostom, hom. 83 in Matth.**: *"Let us believe therefore God, nor contradict him — even if to our sense and cogitation what he saith seem absurd: let his word surpass both our sense and reason. This let us do in all things, and chiefly in mysteries — not looking to those things only which are set before our eyes, but holding also his words. For his words cannot deceive us — but our sense is most easily deceived. Since therefore he said, 'This is my body,' let us be held by no ambiguity, but believe, and with the eyes of intellect perceive it."*
+
+**And Ambrose, De initiandis**: *"In this dispute — what and how the bread of the Supper is the body of Christ — the order of nature is not to be sought — since that body was conceived not according to the order of nature, but of the Holy Spirit, and was born of the Virgin."*
+
+**Epiphanius in Ancoratus**: *"He arose in the Supper and took bread and wine, and giving thanks, said: 'This is this' — that is, that which I say. And we see neither equality nor similitude either to humanity, or to the invisible Deity, or to the members corporeal. Since however he himself so said, let no one not believe this word: for whoever believeth not that he himself is truthful, so as he said ('This is my body'), falleth away from grace and salvation."*
+
+**And Leo, sermon *De ieiunio***: *"So the Sacrament ye ought to communicate, that ye doubt in no wise concerning the truth of the body and blood of the Lord: for that is with the mouth received, which is believed with faith — and in vain by those is 'Amen' answered, by whom against that which is said dispute is."*
+
+**Eighthly**: With perspicuous and diserte words they handed down that **the manducation of the body of Christ is twofold** — as from many of Augustine's sayings, in which he treats of the manducation of the unworthy, is clear: as **Ep. 162**: *"The Lord himself tolerateth Judas — devil, thief, and seller of himself — and permitteth him to receive among the innocent disciples what the faithful know to be our price."*
+
+**And Theodoret in the Epistle to the Corinthians, cap. 11**: *"Not only to the eleven Apostles, but even to the boorish traitor did he impart his precious body and blood."*
+
+**From which sayings it is perspicuous that the body of Christ is eaten in a double mode**: **one Sacramentally only** — as Judas ate it; **the other Sacramentally and spiritually together** — as the eleven faithful Apostles received it.
+
+**From all these therefore it standeth, that inequitable is the accusation of the Adversaries, whereby they contend that this doctrine of ours before Luther was to the whole Orthodox antiquity unknown and unheard — and that the Fathers acknowledge and teach only the spiritual, and not simultaneously also the Sacramental manducation of the body of Christ**. **Frivolous this is, and impudent audacity**: for **it is certain that Luther standeth upon the words of Christ and Paul — as also the whole Orthodox antiquity did — as a little before hath been demonstrated. Not therefore a new doctrine, but one instituted by the words of Christ, and from the words of Christ by orthodox antiquity approved and confirmed, do we embrace and teach concerning the Supper of the Lord**.
+
+— ❦ —
+
+## Question 17. What is the Sacramental union?
+
+**What is the Sacramental union?**
+
+**By Sacramental union we understand — not, as the Adversaries do, such a union as is between sign and thing signified, but a true and to human reason incomprehensible union of the blessed bread and body of Christ, as is instituted in the words of the Supper**: namely, **when the bread and wine of blessing are given and received, with those sacred Symbols of bread and wine, the true and substantial body, the true and substantial blood of Jesus Christ is truly at the same time in the presence of ὀρωτικῶν, given and received**. For **this the very words of institution irrefragably will and teach**.
+
+— ❦ —
+
+*[Locus XXVII Part 4 closes (Q14–Q17 + embedded Obj on Adversaries' consenting only in symbolum + 8-point Patres testimony). Part 5 (OBIECTIONES I–II on unio + Q18 fides ascendens in coelum + embedded Obj on corpus adesse propter Elementa + Q19 four desiderata in Adversaries' doctrine + Q20 four-point discrimen inter partes) follows in T58. 494 top-level Q + 249 Obj rendered so far.]*
