@@ -5008,4 +5008,72 @@ But **here the hinge turneth, and this is the status of the controversy**: namel
 
 — ❦ —
 
-*[Locus XX Part 4 closes. **OBIECTIONES PONTIFICIORVM** follow in T29 (Objs I–XI or so — the direct Roman Catholic polemic on works-righteousness). 331 top-level Q + 159 Obj rendered so far.]*
+# OBIECTIONES PONTIFICIORVM
+
+*[Concerning the solution of the arguments of the adversaries in general, Luther T. 4/1, p. 84, most beautifully explained, p. 89.]*
+
+### Objection I. **Gen. 15**, it is said: *"I am thy reward."* *Ergo* by works we are justified before GOD.
+
+**Respondeo**: **God speaketh not of the merit of eternal life, nor of the justification of Abraham before God, but of the rewards of good works, which befall and are given to believers out of grace on account of Christ**. And **Scripture Rom. 4 diserte denieth that Abraham was justified from works**.
+
+— ❦ —
+
+### Objection II. *"The Lord will retribute to me according to my righteousness,"* — **Ps. 18**. *Ergo* good works justify.
+
+**Respondeo**: **The Psalm speaketh of the righteousness of the cause or of the actions, not of the righteousness of the person, whereby the person is just before God**. And **David calleth *righteousness* the purity of his hands** — that is, he complaineth that he is accused by enemies without any merit of his own, only on this account, that **he propagateth heavenly doctrine**, etc. **Not therefore are these words to be drawn into the article of justification**.
+
+— ❦ —
+
+### Objection III. **Dan. 4**, it is said: *"Redeem thy sins by alms."* *Ergo* alms justify.
+
+**Respondeo**: As concerns the words of Daniel: **Let not moral, but Theological Grammar be consulted**. That will show, that **this *redeem* is not moral but faithful — that is, in faith to redeem faithfully**. For **a work in the sacred letters presupposeth faith**. The sense therefore is: that **the King ought to do penitence, believe in Christ, and thus should come remission of sins**. Afterwards also, **by his beneficence to declare his faith in Christ, then it shall come to pass that God mitigate the punishments, which otherwise he was about to send in upon him, if he had persevered in impenitence**.
+
+The text also **hath not the word *alms*, but *righteousness***. Besides, in the Chaldee it is *Pruq*, which signifieth **to break off, to draw off** — metaphorically taken for **to lessen**. The sense therefore is: **by rapines thou hast drawn off very many things from the poor, thou hast spoiled the needy and wretched, thy subjects, by thine exactions; now therefore give heed, that by liberality and royal munificence thou restore what before thou hast taken away**, etc.
+
+— ❦ —
+
+### Objection IV. *"Your reward is copious in the heavens"* — **Matt. 5**. *Ergo* works merit righteousness and glory.
+
+**Respondeo**: **Christ promiseth rewards to those who work well, even in the other life**. But **hence it followeth not: *Ergo* good works merit righteousness and glory of the other life**. For **he addresseth those already justified through faith, and not those to be justified**. And **the justified he exhorteth to the study of good works, and to exhibiting patience under the cross — since God shall gloriously recompense all the works of the pious and all the passions of the Saints**.
+
+— ❦ —
+
+### Objection V. *"If thou wilt enter into life, keep the commandments."* *Ergo* through the observation of the commandments, we obtain eternal life.
+
+**Respondeo**: **A conditional posits nothing.** If **perfectly thou wert observing the commandments of God, through their observation thou wouldest obtain life**. But **because thou dost not, nor canst thou perfectly observe them, the Legal sentence remaineth** — and **it is necessary, if into life thou wouldest enter, that this thou do through faith on the merit of Jesus Christ**. For **this merit of Christ is imputed to believers unto righteousness before God, and on account of this merit apprehended by faith, they obtain eternal life**.
+
+— ❦ —
+
+### Objection VI. **Luke 1**: *"They were both just before GOD, walking in earnest in all the commandments and justifications of the Lord without complaint."* *Ergo* good works merit righteousness and life. [*[Luther: In the Postill, Feria 3 of Pasch*]*]
+
+**Respondeo**: **There is more in the consequent than in the antecedent.** And **the phrase of Scripture must be dexterously explained**. **They were just — imputatively, namely, through faith in the promised Messiah, through whom and in whom they awaited righteousness and eternal salvation**. But as to that which is said, that they walked without complaint — **the sense is not, as though they had perfectly fulfilled the Law of God, but that they so lived before men, that men could not by right complain of them, abstaining not only from evil, but from every species of evil**. **In sum: they were, as concerneth exterior life, irreprehensible**. But **hence in no way can it be gathered, that by their good works they merited eternal life**. For **eternal life is the gift of God** — **Rom. 6[:23]**.
+
+— ❦ —
+
+### Objection VII. *"To her are remitted many sins, because she loved much"* — **Luke 7**. *Ergo* faith and works together justify.
+
+**Respondeo**: **The particle *because* signifieth two things.**
+
+**First**, it indicateth the **efficient cause** — the same as **on account of** — as when we say, *God remitteth sins, because he is merciful*.
+
+**Secondly**, it signifieth the **proof or reason of the preceding assertion** — as **1 John [3:16]**: *"In this we have known the charity of God towards us, because he laid down his soul for us."*
+
+So **in this place it is not a causal, but a rational conjunction, subjoining the proof of the preceding asseveration, taken from a sign or effect**. And **so also Lyra interpreteth**. **The *because* here signifieth not causally, but consecutively**.
+
+— ❦ —
+
+### Objection VIII. *"He shall render to each one according to his works"* — **Rom. 2**. *Ergo* works merit eternal life.
+
+**Respondeo**: **It is a sentence of the Law, which showeth that God shall recompense works in his judgement**. But **hence it followeth not: *Ergo* works merit eternal life**. For **the Law promiseth eternal life to no one, unless it have the whole and perfect fulfilment of itself**. But **that in this life no one hath, nor can have**. **From the Law therefore no one can promise himself anything.**
+
+More therefore doth this sentence teach us, **what we lack, rather than what we have**. And since **we have not, nor can we exhibit, perfect obedience of the Law, tacitly it dispatcheth us to seek a Mediator or helper**. But **this helper is Christ Jesus, who giveth to us his own obedience through faith, that on account of it we may be pronounced just**.
+
+— ❦ —
+
+### Objection IX. *"The doers of the Law shall be justified."* *Ergo*, etc.
+
+**Respondeo**: **I concede, if thou wilt give a doer of the Law — but thou wilt not give one**. **Rom. 3**: *"For all lack the glory of God, and there is no distinction."* Therefore **through the Law no one is justified**. But **that we may obtain righteousness with God, and be absolved from the curse of the Law, it is necessary that we believe in Christ the Saviour, and seek and have our righteousness not in the Law, but in Christ through faith** — **Phil. 3**.
+
+— ❦ —
+
+*[OBIECTIONES PONTIFICIORVM Part 1 closes (Objs I–IX). Part 2 (Objs X–XVI + inserted Q on essential Righteousness of God + 4 sub-Objs) follows in T30. 331 top-level Q + 168 Obj rendered so far.]*
