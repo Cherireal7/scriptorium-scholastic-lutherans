@@ -5782,4 +5782,36 @@ But whereas **impious and profane men abuse this article — as also others — 
 
 — ❦ —
 
-*[Locus XXII Part 2 closes (Objs I–III + Qs 11–12 + Q13–Q17). Part 3 (Q18 — the long pastoral 8-point consolation for consciences under praedestinatio-temptation, with embedded Objectio) follows in T37. 373 top-level Q + 195 Obj rendered so far.]*
+## Question 18. But how can and ought the pious and faithful conscience — labouring under most grievous temptations concerning predestination — to raise itself up and console itself?
+
+**But how can and ought the pious and faithful conscience — labouring under most grievous temptations concerning predestination — to raise itself up and console itself?** [*[Luther: T. 3, p. 263 f. b; T. 5, pp. 486, 487; T. 2/1, pp. 56, 57*]*]
+
+**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth shall pass away, but his own words shall not pass away"* — **Luke 21:33**. *"The bruised reed he shall not break, and the smoking flax he shall not extinguish"* — **Isa. 42:3**. *"A contrite and humbled heart he shall not despise"* — **Ps. 51:19**.
+
+Since therefore **thou hast such a contrite and humbled heart, be certain that he himself will be present with thee in this most grievous temptation, will console thee, and out of it will deliver thee**.
+
+**Secondly**, let him **place before his eyes and recall to memory, that Christ Jesus himself calleth to himself hearts labouring and burdened in this way, and to them promiseth and offereth refreshment** — **Matt. 11:28**: *"Come unto me all ye, that labour and are laden, and I will refresh you."* Since therefore **in the aforesaid temptation thou dost feel thy heart burdened, and dost labour under so great a burden, thou shalt not doubt that Christ shall deliver thee from this burden, and under it shall refresh and console thee**.
+
+**Thirdly**, why dost thou crucify and macerate thyself with this temptation concerning the arcane decree of God — when the eternal Father **hath opened his true and most constant purpose and counsel concerning thy salvation in Christ Jesus his beloved Son — out of whom thou canst and oughtest to be certain of thine election**, as we read **John 3:16**: *"For so God loved the world, that he gave his only-begotten Son, that everyone who believeth in him should not perish, but have eternal life."* **John 6[:40]**: *"This is the will of my Father who sent me — that everyone who seeth the Son, and believeth in him, may have eternal life."* **Rom. 10:12**: *"For the same Lord is Lord of all, rich unto all who invoke him; for whoever shall have invoked the name of the Lord, shall be saved."*
+
+Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17:5]**. But what here doth he testify concerning thy salvation? this indeed: **that if in him thou believest, thou hast eternal life, and shalt not come into judgement, but hast passed from death into life** — **John 5:24**.
+
+**Fourthly**: and what need of words? Let the conscience afflicted and perturbed in this manner **only look upon the reddened wounds of Christ the only Saviour, out of which the certitude of their gratuitous election is clearer than the meridian light**. For since **he hath been wounded and slain on thy account, and hath poured out his blood for thee — why art thou not elected unto eternal life?** For why **shouldest thou be condemned and eternally perish, when he himself certainly hath suffered these things, not that thou perish or be condemned, but rather that thou be saved?** — **Isa. 53:5**: *"By his stripe we are healed, the discipline of our peace was upon him."* **1 John 1:7**: *"The blood of Jesus Christ his Son cleanseth us from all sin."* **If he cleanseth thee from all sin, thou must be elected**; for **he who is cleansed from all sin, is more certainly than certain heir of the kingdom of the heavens and of eternal life**. Therefore **thou shalt not number thyself among the condemned, when with a great price — namely, the blood of Jesus Christ the Son of God — thou hast been bought and cleansed from all sin** — **1 Cor. 6:20**.
+
+**Fifthly**: **Expressly in Scripture universal promises are contained, which certainly and without doubt concern thee, exclude thee not, but include thee** — as when it is said, **that God hath mercy of all — Rom. [11:32]; Gal. [3:22]** — that he **is rich unto all — Rom. 10:12** — that he willeth **all who believe in the Son to be saved**. Since therefore **thou dost believe in Jesus Christ the Son, and dost rejoice in his most holy obedience, Passion, death, and resurrection — why shouldest thou except and exclude thyself from the universal promises?**
+
+**Sixthly**, nay rather, **also in the name and blood of Jesus Christ thou hast been baptized unto the remission of sins, and unto the adoption and inheritance of eternal life** — **Acts 2:38; Mark 16:16**. **No cause therefore hast thou of doubting concerning thy salvation and election**. For *"he that shall have believed and shall have been baptized, shall be saved."*
+
+**Seventhly**: Moreover **the Holy Spirit dwelling in thy heart beareth testimony to thy spirit, that thou art a son of God and a co-heir of Christ** — **Rom. 8:16–17**. **How therefore art thou not elected and predestined unto eternal life?** Whence also **2 Cor. 1:20 [1:21–22]** Paul saith: *"He that confirmeth us with you in Christ, and who hath anointed us, is God, who also hath sealed us, and given the pledge of the Spirit in our hearts."*
+
+**Eighthly**: To this also **thine election is confirmed by the most precious pledge of the Body and Blood of Jesus Christ, to thee communicated with bread and wine in the sacred Supper**. For since **Christ in the sacred Supper feedeth thee with his most precious body and blood, and nourisheth thee — how should he do this with any other mind, than that he might save thee, and beatify thee with eternal life?**
+
+### Objection.
+
+**But I am not certain, whether I am in the number of the Elect?**
+
+**This phantasy and imagination Satan suggesteth to thee, that he may perturb thee.** But **hear thou him not — but rather look upon the aforesaid foundations, out of which thou art certain and convinced that in Christ Jesus and through his death and blood thou art elected, and predestined unto eternal life**. Upon these do thou insist; and from these **suffer thyself not to be plucked away and driven off**. **The temptation shall by the presence, aid, and grace of God be mitigated and taken away — that at length again thou mayest be refreshed and made cheerful**.
+
+— ❦ —
+
+*[Locus XXII De Praedestinatione is TRULY COMPLETE — 18 top-level Q (incl. 2 embedded Qs 11–12 in the objection cluster) + 3 formal Papist/curious Objs + 1 embedded Objectio in Q18. Total Locus XXII: 18 Q + 4 Obj units. 373 top-level Q + 196 Obj rendered so far. Locus XXIII De Bonis Operibus follows in T38.]*
