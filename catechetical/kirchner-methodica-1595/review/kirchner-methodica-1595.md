@@ -7124,4 +7124,90 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 — ❦ —
 
-*[Locus XXVI Part 1 closes (Q1–Q9). Part 2 (Q10–Q17 + embedded 'crediderit et baptizatus' Obj + Q on sanctitas of children before Baptism) follows in T51. 460 top-level Q + 230 Obj rendered so far.]*
+## Question 10. Is Baptism necessary to salvation?
+
+**Is Baptism necessary to salvation?**
+
+**Very much so.** As Christ himself attesteth, **John 3:5**: *"Amen, amen I say to thee, unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God."*
+
+— ❦ —
+
+## Question 11. Are all therefore who are not baptized certainly condemned?
+
+**Are all therefore who are not baptized certainly condemned?**
+
+**By no means.** For **the thief on the cross was saved, although he was not baptized. And in the primitive Church many went to martyrdom for Christ, being not yet baptized — whom shall any therefore on that account condemn?**
+
+**Also in our time many under the Turkish tyranny are captives, and are destitute of the ministry and the Sacraments — who themselves also, if they persevere in the faith of Jesus Christ unto the end, are saved, although they lack the Sacraments.**
+
+**The Orthodox Church also establisheth, that the children of the pious, who before they are baptized fulfil their life, are not condemned — since by the faithful prayers of the parents they are offered and commended to God on account of Christ.**
+
+**Only those therefore who contumaciously spurn Baptism, or securely neglect it, are damned on account of the contempt of Baptism.**
+
+— ❦ —
+
+## Question 12. Since therefore also without Baptism we can be saved, wherefore is there need of Baptism?
+
+**Since therefore also without Baptism we can be saved, wherefore is there need of Baptism?**
+
+**Here accurately must be distinguished — as also before hath been said**: **Far other is the case of those who either are prevented by death, or hindered by necessity — that they cannot, however greatly they desire, be baptized — and who so against their will are deprived of Baptism**. **But other of those who can have Baptism, and yet spurn it**: **These are damned by their own merit — because they contemn the Baptism which they could have**.
+
+**Not therefore is it rightly gathered, that Baptism is not necessary, since even without Baptism we can be saved through faith**. **Baptism, on account of the institution and mandate of Christ, is necessary, and is in no wise to be neglected on any pretext, that we can also outside Baptism through faith be saved: since this is not of the contemners, who contumaciously spurn Baptism, but only of those who, though most greatly they will, yet against their will are deprived of it**.
+
+— ❦ —
+
+## Question 13. What doth Baptism work?
+
+**What doth Baptism work?** [*[T. 7, pp. 404, 405; T. 3, p. 543 f. b; T. 3/1, p. 80*]*]
+
+**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved."* **Acts 2:38**: *"Let each of you be baptized in the name of Jesus Christ unto the remission of your sins."* **Eph. 5:26**: *"Cleansing it by the laver of water in the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
+
+— ❦ —
+
+## Question 14. Do they therefore teach rightly, who say: Baptism is only a sign of remission of sins, and not an instrument and means through which the baptized are washed from their sins?
+
+**Do they therefore teach rightly, who say: Baptism is only a sign of remission of sins, and not an instrument and means through which the baptized are washed from their sins?**
+
+**They teach not rightly.** The reason is this: **that Acts 22:16 it is expressly said**: *"Arise, be baptized, and wash away thy sins, invoking his name"* — as also a little before hath been demonstrated. **Baptism as an instrument instituted by God worketh remission of sins** — as instrument I say, not as efficient cause, but as instrumental cause.
+
+— ❦ —
+
+## Question 15. Is faith required unto the substance of Baptism, so that unless faith come, the baptism is not Baptism?
+
+**Is faith required unto the substance of Baptism, so that unless faith come, the baptism is not Baptism?** [*[T. 6, p. 293 f. b*]*]
+
+**No** — **unto the substance of Baptism faith is not required**. **Baptism, as concerneth its substance and integrity, consisteth and is perfected not in the faith of any man, but in the institution of Christ** — and **Baptism is true, even if our faith come not**.
+
+**But it is required unto the true and salutary use of it**: for **faith doth not make that there be Baptism, and on that account is necessary — but if of its operation and fruit thou willest to be a partaker, thou must believe that Christ dealeth with thee in it, and saveth thee through it** [*[Gen. T. 4, pp. 191, 196 f. b*]*].
+
+### Objection.
+
+**But Christ himself saith: *"He that shall have believed and shall have been baptized."***
+
+**Here he speaketh of the true and salutary use of Baptism — but not of its substance.** And **the same also is the intention and mind of the words of Augustine: "not because it is said, but because it is believed."** For **he willeth not that Baptism without faith should not be Baptism, but that it should not profit thee**.
+
+— ❦ —
+
+## Question 16. But what doth Baptism, or the immersion in water, signify?
+
+**But what doth Baptism, or the immersion in water, signify?** [*[T. 1/1, p. 19*]*]
+
+**It signifieth** (as our Catechism truly and well answereth) **that the old Adam ought subsequently through mortification and penitence in us to be submerged and extinguished — with all sins and evil concupiscences — and again daily to emerge and rise up a new man, who in sanctity and righteousness before God may live for ever** — as **Rom. 6:4 it is said**: *"For we are buried together with him through Baptism into death, that as Christ rose from the dead through the glory of the Father, so also we should walk in newness of life."*
+
+— ❦ —
+
+## Question 17. Is it true that children born of faithful parents are holy even before they are baptized?
+
+**Is it true that children born of faithful parents are holy even before they are baptized?**
+
+**By no means.** For **no one who is not yet in the kingdom of grace can be holy before God**. But **the children of the faithful before regeneration are not in the kingdom of grace, since they are by nature sons of wrath — Eph. 2:3**.
+
+**Secondly**: **Whatsoever is born of flesh alone, is flesh, and not holy before God — John 3:6**. But **the children of the faithful before regeneration are born only of flesh — John 3:6**. **Therefore they are not holy before God.**
+
+**Thirdly**: **No one is holy before God, who hath not remission of sins**. **The children of the faithful before Baptism have not remission of sins** — for **in Baptism they are first baptized unto the remission of sins — Acts 2:38**. **Therefore before they are baptized, they are not holy before God.**
+
+**Fourthly**: **Whatsoever in Baptism is first cleansed from sins, that before was not clean and holy before God**. **The children of the faithful are first cleansed from their sins by the laver of water in the word — Eph. 5:27**. **Therefore before they are baptized, they are not holy before God.**
+
+— ❦ —
+
+*[Locus XXVI Part 2 closes (Q10–Q17 + embedded 'crediderit et baptizatus' Obj). Part 3 (OBIECTIONES I–II on Gen 17 + 1 Cor 7 sanctitas + Q18–Q23 loci-alligation + iteration + character indelebilis + intention + fide-Ecclesiae + embedded Matt 9:2 paralytic Obj) follows in T52. 468 top-level Q + 231 Obj rendered so far.]*
