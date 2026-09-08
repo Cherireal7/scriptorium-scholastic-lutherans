@@ -5322,4 +5322,108 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 — ❦ —
 
-*[Locus XXI Part 1 closes (Q1–Q12). Part 2 (Q13–Q19 + 2 embedded Objs — sola fide + particula exclusiva) follows in T32. 343 top-level Q + 179 Obj rendered so far.]*
+## Question 13. Are we then justified before God by faith alone in Christ?
+
+**Are we then justified before God by faith alone in Christ?** [*[Luther: T. 5, pp. 144, 147, 228; In Postill., Dom. f.b. 1.44.1, pp. 43, 46, 103, 119; T. 2/1, p. 505 f. b*]*]
+
+**Very much so.** And we indeed teach **that good works ought to be done, and the neighbour ought to be loved rightly and in truth** — but **distinctly, when concerning good works outside the article of justification before God is treated**. Here however **the question is, how we are justified, and how we obtain eternal life**. To this therefore **we answer with the Apostle: by faith alone in Christ we are pronounced just, not by the works of the Law nor by charity**. **Not that we reprobate or reject good works, but that they must in no wise be drawn into the article of justification**.
+
+**Rom. 3:28**: *"We decree a man to be justified by faith without the works of the Law."* **Gal. 2:21**: *"For if righteousness be through the Law, then Christ died in vain."* **Eph. 2:8–9**: *"For by grace ye are saved through faith. And this not of yourselves, for it is the gift of God — not of works, lest any man should glory."*
+
+— ❦ —
+
+## Question 14. Why doth faith alone justify?
+
+**Why doth faith alone justify?**
+
+**Because it alone apprehendeth Christ.** It justifieth therefore **not because it is a work, but because it apprehendeth the mercy offered in Christ** — **Rom. 4:5**: *"To him that believeth in him, who justifieth the impious, his faith is reckoned unto righteousness."*
+
+— ❦ —
+
+## Question 15. Is it altogether necessary that this doctrine of exclusives — that we are justified by faith alone — be retained and defended?
+
+**Is it altogether necessary that this doctrine of exclusives — that we are justified by faith alone — be retained and defended?**
+
+**Altogether necessary — and on these accounts:**
+
+**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He saith not, in seeds, as of many, but as of one — and to thy seed, which is Christ."* **1 Cor. 1:30**: *"Christ is made unto us wisdom from God, and righteousness, and sanctification, and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
+
+**II.** That **contrite and perturbed hearts may have a certain and firm consolation, and may be able to sustain and overcome the temptations of sin and the wrath of God** — **Ps. 130:4**: *"For with thee is propitiation."* **Propitiation therefore thou wilt find not in Moses, not in the Law, not in thy works, but in Christ alone, and in his most holy merit**. For **in him alone and in no other, thy contrite heart and labouring conscience can safely confide** — and **it is impossible that in the terrors of conscience thou find firm consolation, unless thou confide and acquiesce in the sole obedience and satisfaction of Christ**.
+
+**III.** That **the discrimen of Law and Gospel may remain, and that against presumption and desperation we may have certain counsel**. For if **in the works of the Law righteousness be sought, the discrimen of Law and Gospel is taken away, and either presumption or desperation followeth**. **Presumption the Law worketh in those who have not yet attained its mind, and have not yet experienced its power. Desperation, however, in those who by the doctrine of the Law have been terrified, and led into the knowledge of their sins and of the wrath of God**. Necessary therefore it is, that **the labouring, contrite, humbled heart apprehend Christ alone and his merit — for from this alone certain and firm consolation is born**.
+
+And this indeed **under the reign of the Papacy is enough — and hath been enough — to see, where men either presumed to be saved through their own works, or fell into desperation, whereas a deep silence was kept of the benefits of Christ**. For **the Law can console or vivify no one, since no one fully doeth it, and exhibiteth perfect obedience to it** — **Rom. 3:20; Rom. 8:3**.
+
+### Objection.
+
+**Someone therefore may object: The Law then is not to be kept, nor good works to be done?**
+
+**Nay rather they are to be done — but when thou shalt have done all things, thou oughtest to acknowledge, that thou art an unprofitable servant, since in no wise hast thou satisfied it**. In the meanwhile hold this firm consolation, **that thou art justified and saved on account of the sole merit and satisfaction of Christ**.
+
+**IV.** **The exclusives are to be retained, that the immoveable truth of blessed Paul and of the whole sacred Scripture may remain — that faith alone justifieth and saveth**. For **Christ alone satisfied the Law, and this satisfaction faith alone — and nothing else in man — apprehendeth**, etc. When therefore **of justification before God is treated**, **lay aside all thy works, and attend, and unto this alone contend, that Christ and his most perfect obedience thou apprehend and hold** — for in him alone **against sin, the Devil, death, and all temptations thou canst stand and overcome**. For **Christ alone hath borne sin, hath destroyed the works of the Devil, hath acquired for thee life and salvation with God**.
+
+### Objection.
+
+**But (say the adversaries) the particle "Alone" is not contained in Scripture.**
+
+**Very much so is it contained in it.** **Mark 5:36**: *"Fear not, only believe."* **Gal. 2:16**: *"Knowing however that a man is not justified from the works of the Law, unless through the faith of Jesus Christ."* **Luke 8:50**: *"Fear not, only believe."*
+
+— ❦ —
+
+## Question 16. Doth the particle "alone" therefore so exclude good works that they cannot and ought not be in the justified? or that faith for some time in the justification of the man before God is or can be alone, without good works? or that to the regenerate it is lawful to do no good works, or that they ought to do none? Or that the new obedience of the regenerate is by this taken away?
+
+**Doth the particle "alone" therefore so exclude good works that they cannot and ought not be in the justified? or that faith for some time in the justification of the man before God is or can be alone, without good works? or that to the regenerate it is lawful to do no good works, or that they ought to do none? Or that the new obedience of the regenerate is by this taken away?** [*[Luther: T. 1/1, pp. 439, 440, 441*]*]
+
+**By no means.** For **we ourselves know by the grace of God that hope, charity, and the other virtues are most excellent gifts of God, and are stirred up and kindled in our hearts by the Holy Spirit himself**. We know **also this — that faith is not without these gifts as fruits**. But **now the question is, what is the property of each**.
+
+**In the faithful Abraham there are many most excellent virtues**; here however **the question is, what faith alone doth — not to what virtues it is joined and adorned in Abraham**. But **this is certain — that faith alone apprehendeth the promise of Abraham**. For **this is proper to faith. Charity, hope, patience — these have other matters, about which they are occupied; they have other bounds, within which they consist**. For **the promise they apprehend not, but they perform God's commandment; and to what God prescribeth, not to what he promiseth, they attend**. **Faith alone attendeth to the promise, and apprehendeth it**.
+
+This discrimen therefore is to be held: **that faith alone, which apprehendeth the promise, justifieth; but charity is occupied in performing the precepts of God**. In sum, **faith with itself bringeth the whole chorus of most beautiful virtues — and is never alone, and yet these things are not to be confounded, nor are those things which properly belong to faith alone to be ascribed to the other virtues**. **Faith, as it were the mother, out of which all the other virtues are born — and unless she first be present, in vain concerning the other virtues is inquiry made; and unless faith apprehend the promise concerning Christ, neither faith nor the other virtues are present — even if the hypocrite sometime feign such virtues**.
+
+Hence also **the promises of grace and the Law must be discerned. The promise of grace requireth faith, the Law requireth works. The promise of grace is firm and certain, because God performeth it; but the promise of the Law is uncertain, and that which it ought to perform, it performeth not — because we, who ought to do it, are men — that is, sinners**. **Our righteousness therefore is not from the Law or works, because we cannot perfectly fulfil the Law nor satisfy it: but from the promise of grace in Christ, which is firm and immoveable**; wherefore also, when faith embraceth it, that cometh to pass which the promise in Christ pledgeth.
+
+Hence irrefragably followeth, that since **faith alone apprehendeth the promise, therefore faith alone as instrument and means whereby we apprehend the merit of Christ justifieth**. **The Law and works justify not, and yet the Law is to be taught, and works likewise to be taught and done — that we may acknowledge our misery, and with greater desire may thirst after and apprehend the grace offered in Christ**.
+
+**This Theology is not born with us, nor excogitated by us, but by the Apostle Paul, out of the foundations of Scripture and confirmed by the examples of the Patriarchs, hath been handed down to us** — **Rom. 4**, etc., "because it was reckoned to Abraham as faith unto righteousness."
+
+**We in no wise deny that good works ought to be done**, but **in this the status of the controversy standeth: that the adversaries confound faith, which alone justifieth, and the works of those justified through faith**. *"Well indeed do faith and works meet"* (saith **Luther, Gen. 22**), **and are inseparably connected — but faith alone is that which apprehendeth the blessing; therefore we preach faith alone as justifying, because it alone is blessed. But works have not this glory that they should bless, but are the fruits of the blessed person**.
+
+From all these things therefore it is clear:
+
+**1.** The exclusive particle *"by faith alone"* **excludeth not good works from being in the regenerate and justified, or from following justification** — for **faith without charity, hope, and the other virtues is not**.
+
+**2.** And this also is clear: **the exclusives will not this, that faith, when it dealeth with God concerning justification on account of Christ, or when it justifieth, for a time be without good works, and have no works joined to it**. For **the true faith of the regenerate hath many virtues connected with itself**, as a little before hath been said.
+
+**3.** Nor will they this by the exclusive or by the proposition *"we are justified by faith alone,"* — **that the regenerate are not bound to do good works, or that the new obedience of the regenerate is by this taken away, as unnecessary**. For **the Law is to be taught, and good works to be taught and done**.
+
+— ❦ —
+
+## Question 17. What then will the exclusive particles, and what do they chiefly urge?
+
+**What then will the exclusive particles, and what do they chiefly urge?**
+
+**This, namely — that we may know, that in this the whole weight of our salvation is placed, that faith and works in the article of justification be not confounded with peril and loss of salvation**.
+
+Here therefore in this article the question is not, whether works are exclusively excluded, that they be not present — or whether faith, when it justifieth, hath no works joined to it — or whether good works are excluded from faith or prohibited, or ought not to follow it — but **in this the status of the controversy consisteth: what is the proper work and office of justifying faith alone**. For here it is certain, that **faith alone apprehendeth the promise of grace**. For **this is proper to faith alone: charity, hope, patience are occupied about other matters — for they apprehend not the promise, but perform the commandments of God**, as a little before hath been said.
+
+**In no wise, when we teach we are justified by faith alone, do we deny that good works are to be done** — for **we know that faith and works well cohere, and are inseparably connected**. But **this is what we reprobate: that the adversaries confound justifying faith and the works of those justified, and refer works unto justification before God**. This deservedly we reprobate, because **by this the honour due to Christ is taken away, and consolation withdrawn from consciences, and Law and Gospel are confounded** — whereas **Scripture expressly teacheth, that because faith alone apprehendeth the promise, therefore it alone justifieth and saveth, through and on account of Christ, whose merit and satisfaction it apprehendeth**.
+
+— ❦ —
+
+## Question 18. Can faith therefore for some time coexist with the purpose of doing evil?
+
+**Can faith therefore for some time coexist with the purpose of doing evil?** [*[Luther: T. 6, p. 53 and following*]*]
+
+**By no means.** For **this is not our sentence nor of Scripture — as though justification and renovation were so distinct, that true faith sometime for a while could be and subsist with the purpose of doing evil**. Rather **here only this order is expounded, by which one thing followeth another, and by which one precedeth, another followeth**. **Faith as the cause precedeth; works as the fruits follow**.
+
+— ❦ —
+
+## Question 19. Is it therefore rightly taught by the Papists, that faith justifieth in so far as it hath works joined to it?
+
+**Is it therefore rightly taught by the Papists, that faith justifieth in so far as it hath works joined to it?**
+
+**Respondeo — by no means.** For **the Apostle, Rom. 3, 4, excludeth works from justification, and ascribeth justification only to faith**: *"We decree a man to be justified by faith without the works of the Law."* And **David proclaimeth that man blessed, to whom God imputeth righteousness apart from works**.
+
+— ❦ —
+
+*[Locus XXI Part 2 closes (Q13–Q19 + 2 embedded Objs). Part 3 (Q20–Q27 — perseverance, fruits, hypocritical faith, ruin from corruptela fidei, Papist dubitatio de gratia) follows in T33. 350 top-level Q + 181 Obj rendered so far.]*
