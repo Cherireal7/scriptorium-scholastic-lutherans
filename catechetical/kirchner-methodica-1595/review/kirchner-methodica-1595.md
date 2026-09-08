@@ -5938,4 +5938,104 @@ From which it is clear, that it is necessary that **the person first through fai
 
 — ❦ —
 
-*[Locus XXIII Part 1 closes (Q1–Q10). Part 2 (Q11–Q13 on imperfection + necessity + OBIECTIONES I–VI on necessity ad salutem, and further Qs on conservation and perfection) follows in T39. 383 top-level Q + 196 Obj rendered so far.]*
+## Question 11. Are the works of the faithful perfect in the judgement of GOD, and do they expiate sins, and justify?
+
+**Are the works of the faithful perfect in the judgement of GOD, and do they expiate sins, and justify?** [*[Luther: T. 6, p. 740 f. b; T. 7, p. 63; p. 253; T. 3/1, p. 288*]*]
+
+**By no means.**
+
+**First**, on account of **sin dwelling in the flesh**, they are and remain **unclean** — **Rom. 7**.
+
+**Secondly**, also **in themselves and *per se* they are not perfect**. For **the saints in this life, on account of the inherent sin, cannot obtain perfection** — **Rom. 7:18**: *"To will is present with me, but to perfect the good I find not."*
+
+**Thirdly**, **all the saints, so long as they live this life, daily have need to pray: Forgive us our debts** — which is a most certain [proof] of their imperfection.
+
+**Fourthly**, **expressly the Scripture testifieth the same, Job 9:2–3**: *"Truly I know that so it is, and that a man will not be justified compared with God: if he willeth to contend with him, he cannot answer him one for a thousand."* **Ps. 143:2**: *"Enter not into judgement with thy servant, for in thy sight shall no living man be justified."*
+
+By these therefore so many immoveable sayings of Scripture, **no man before GOD can glory of his perfection**; and **much less can he attribute this to himself, that his good works expiate sin in the sight and judgement of GOD**. For **this honour is owed to the Lamb of God alone — John [1:29]** — and **what is unclean in the sight of GOD, can cleanse nothing**. Whence the Apostle **Phil. 3:7–9**: *"What things were gain to me, these I have counted for Christ as detriments. But truly I esteem all things to be detriment for the eminent knowledge of Christ Jesus my Lord, on whose account I have made all things detriment, and I esteem them as dung, that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Jesus Christ."*
+
+— ❦ —
+
+## Question 12. But although they justify not, will they be as necessary to salvation?
+
+**But although they justify not, will they be as necessary to salvation?** [*[Luther: T. 3, p. 469; p. 297, th. 38; p. 239; Gen. T. 2, p. 20 and following; T. 4/1, pp. 47, 48, 49*]*]
+
+**Sacred Scripture excludeth our works, not only from justification but also from salvation — as not necessary to obtaining it** — **Rom. 4:6[?]**: *"As also David saith the blessedness of the man, to whom God attributeth righteousness without works: Blessed are they, whose iniquities are remitted, and whose sins are covered. Blessed is the man to whom the Lord hath not imputed sin."* **Eph. 2:8–9**: *"By grace ye are saved through faith (and this not of yourselves; for it is the gift of God), not of works, lest any man should glory."*
+
+**This doctrine must be held incorrupt in the Church** — and necessary it is, for these reasons:
+
+**1.** **Lest Christ be spoiled of his due honour.** For **he alone it is, on account of whose merit and satisfaction we are justified and saved** — **Acts 4:12**: *"There is not in any other salvation."*
+
+**2.** That **the promise may be firm to the faithful, and the consolation of the conscience unmoved** — which **is wholly weakened and torn, if it be built that good works are necessary to salvation**.
+
+**3.** That **in temptations, when hearts are especially tempted concerning sin, they may be able to pray to God**.
+
+**4.** That **the erroneous doctrine of the Papists concerning the necessity of the merit of works may be avoided** — since **this form of speaking hath respect to and includeth cause and merit**.
+
+— ❦ —
+
+# OBIECTIONES
+
+*[Concerning confession, see Luther T. 4, p. 513; T. 2, p. 339; T. 4/1, p. 402.]*
+
+### Objection I. **Rom. 10: *"With the mouth confession is made unto salvation."* *Ergo* good works are necessary to salvation.**
+
+**Respondeo**: **First, that confession *cometh to pass* unto salvation and *is necessary* unto salvation differ from one another.** *"Necessary"* includeth some **cause, without which salvation could not come to pass**. But **for confession to be made unto salvation signifieth nothing else, than to testify concerning salvation as an effect, or to bear testimony that through faith in Christ we have obtained salvation**.
+
+For **in the Hebrew phrase the Accusative with the preposition *"ad"* is put for the Genitive**. Then it is to be observed, that **the Apostle addeth not the word "necessary," but simply speaketh: *with the mouth confession is made of salvation* — that is, of that salvation which we have through faith in Christ Jesus, which we in no wise merit by our works**.
+
+— ❦ —
+
+### Objection II. **Phil. 2 it is said: *"With trembling work out your salvation."* *Ergo* good works are necessary to salvation.**
+
+**Respondeo**: **To work out salvation in this place signifieth not: to do good works necessary to salvation — but cautiously and circumspectly, or in the fear of the Lord to walk; to militate a good warfare; to attend, lest we should have received grace in vain, and lest from carnal security we should shake off the goods which have freely befallen us through faith in Christ**.
+
+For **the Apostle was writing to the Philippians, who through faith in Christ Jesus were already saved, and adopted into sons**. **Not therefore had they need through their own workings to merit salvation, which long since in Christ through faith they had received**. But **this only he willed — that they should walk cautiously, avoid carnal security, lest by living more securely they should lose the goods received**.
+
+**Nor doth he mention the necessity of good works to salvation.** For **there is a vast discrimen between these propositions: "To work out salvation in trembling," and "Good works are necessary to salvation" — which ascribeth to works some merit or cause of salvation**. **Not therefore let there be fabricated to the words of the Apostle, that which they have not.**
+
+— ❦ —
+
+### Objection III. **Heb. 5 it is said: *"To those who obey him, he is made the Author of salvation."* *Ergo* good works are necessary to salvation.**
+
+**Respondeo**: **It is a fallacy of "not-cause-as-cause."** For **these words of the Epistle to the Hebrews speak not of good works, but of Christ the Highest Priest, who is made for us the Author of salvation, provided we believe in him, and with firm confidence of heart embrace his merits and intercession**. Undeservedly therefore **they are produced to palliate the proposition concerning the necessity of works to salvation, since they contain nothing of the kind**.
+
+— ❦ —
+
+### Objection IV. **1 Tim. 1 it is said: *"Militate a good warfare."* *Ergo* the warfare of a good conscience is necessary to salvation.**
+
+**Respondeo**: **There is more in the consequent than in the antecedent.** For **Paul saith not that good works are necessary to salvation**. Then, although the regenerate are held to militate a good warfare, yet **that warfare hath other causes** — namely, **that the regenerate may show themselves through faith to be regenerate**. For **the warfare of a good conscience is a mark of salvation, or testifieth that we, believing, are saved through Christ**.
+
+Then, **that they are debtors, not to serve the flesh, but by the Spirit to mortify the deeds of the flesh**. And **because they are sons of light, they are held to do the works of light, that from the works it may be gathered, that they have ceased to be sons of darkness**.
+
+So neither those words which follow — *"having faith and a good conscience"* — do confirm the proposition concerning the necessity of works to salvation. For **they contain nothing of the necessity of works to salvation, but will this: that it must be seen to, that we not by carnal security shake off faith and a good conscience, and make shipwreck concerning the faith**.
+
+— ❦ —
+
+### Objection V. **2 Cor. 7 it is said, *"contrition, which is according to God, worketh penitence unto salvation."* *Ergo* good works are necessary to salvation.**
+
+**Respondeo**: **It is a fallacy of equivocation.** For **true contrition is not ours, but the work of God in us** — **Jer. 31[:18]**: *"Convert me, Lord, and I shall be converted."* In no wise therefore **from the words of the Apostle followeth: our good works are necessary to salvation**.
+
+Besides, **there is a vast discrimen between these propositions**: *"Contrition, which is according to GOD, worketh penitence unto salvation"* — and *"Good works are necessary to salvation."* The **former speaketh of the work of God, which worketh in us; the latter treateth of our works**, which are **the fruits of justification, and which by the instigation of the Holy Spirit we do, that GOD through us may be glorified**.
+
+— ❦ —
+
+### Objection VI. **Good works are the cause "sine qua non" of salvation. *Ergo* they are necessary to salvation.**
+
+**Respondeo**: **The cause "sine qua non" precedeth** — as in the curation of a wound, the removal of pus precedeth healing. But **our good works precede not salvation, but follow it as effects**. **Not therefore can they be called causes of salvation, "sine qua non."**
+
+Then it is the nature of the cause "sine qua non," that without it the effect cannot be and follow. But **salvation is conferred and given to us without works — Eph. 2**: *"By grace ye are saved without works."* **Works therefore do not merit to be called causes of salvation "sine qua non."**
+
+— ❦ —
+
+## Question 13. Do good works retain and conserve faith and salvation in us?
+
+**Do good works retain and conserve faith and salvation in us?** [*[Luther: T. 4/1, p. 398 f. b*]*]
+
+**By no means.** For **by the sole power of God through faith we are guarded unto salvation** — as **1 Pet. 1:5**: *"Who by the power of God are guarded through faith unto salvation."* **False therefore is the dogma, that our good works custody or conserve salvation — or that faith itself, either in whole or in part, is conserved through good works**.
+
+**Through evil works, however, or through sins against conscience, faith can be lost** — **Rom. 8:13**: *"If ye shall live according to the flesh, ye shall die."*
+
+— ❦ —
+
+*[Locus XXIII Part 2 closes (Q11–Q13 + OBIECTIONES I–VI on necessitas ad salutem). Part 3 (embedded 'estote perfecti' Obj + Q14–Q20 on peccata reliqua + pugna + bona opera noxia + electitia + supererogatio + praemia + ex debito vs ex gratia) follows in T40. 386 top-level Q + 202 Obj rendered so far.]*
