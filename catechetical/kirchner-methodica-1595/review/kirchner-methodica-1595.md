@@ -9026,4 +9026,100 @@ And this saying in general concerning the Church speaketh — which is a company
 
 — ❦ —
 
-*[Locus XXVIII Part 1 closes (Q1–Q11 + OBIECTIONES I–V on visibility). Part 2 (Q12 vera vs falsa Ecclesia + Q13 who gathers + Q14 means + Q15 impulse + Q16 ex quibus + Q17 Iudaei + Q18 Turcae + Q19 Philosophi + Q20 Pope not vera + Q21 notae verae Ecclesiae) follows in T73. 533 top-level Q + 342 Obj rendered so far.]*
+## Question 12. Why is it said that the Church is twofold — one the true Church of God, the other false?
+
+**Why is it said that the Church is twofold — one the true Church of God, the other false?** [*[T. 7, p. 40; Gen. T. 3, p. 8*]*]
+
+**The true Church is one, from the beginning of the world unto now.** But since **Satan always also opposes his own to the temple of God — which is called a chapel** — by this very thing **the false or Satanic Church, or company, is distinguished from the true Church of God**. Whence also **Paul, Rom. 9:8, saith the Israelites are twofold — sons of the flesh and sons of the promise or of the Spirit**.
+
+**One Church therefore on earth doth not prevent that there also be a false or adversary Church** — as also it maketh not, that **those who from the true Church, from the Word and Sacraments, depart or corrupt them, on that account are and remain the true Church of God**.
+
+— ❦ —
+
+## Question 13. But who gathereth the Church of God?
+
+**But who gathereth the Church of God?** [*[T. 6, p. 320*]*]
+
+**God himself.** **The Church is the chief work of God, on account of which all things are created.** **Matt. 22 it is said**: *"The king himself sending his servants to call the invited."* And **2 Cor. [5:18]**: *"But all things are from God, who hath reconciled us to himself through Christ, and hath given us the ministry of reconciliation."*
+
+**In Paradise, after the fall, the Son of God himself recalled the first parents to the kingdom of God — Gen. 3.** Afterwards, for the gathering of his Church, he used the ministry of the Patriarchs and the Prophets. **In the New Testament, first Christ himself preached; at length he sent the Apostles, that from the human race they might gather to himself the Church** — **Matt. 28; Mark 16; Luke 24; John 17**. **And even now he sendeth pastors and ministers, who may convoke and edify his Church** — **Eph. 4:11–13**.
+
+— ❦ —
+
+## Question 14. But by what means doth he use unto this?
+
+**But by what means doth he use unto this?**
+
+**By the Word and Sacraments.** Hence **1 Pet. 1:23** [*[Gen. Lib. 3, p. 90*]*]: *"Born again not from corruptible seed, but from incorruptible, through the word of God living and remaining for ever."* And **1 Cor. 4:15**: *"For in Christ Jesus, through the Gospel, I have begotten you."* **The same we read concerning the Sacraments, Matt. 28; Mark 16; Acts 2; Tit. 3**. He could indeed do this without means also — but so it hath pleased him — **1 Cor. 1:21**.
+
+— ❦ —
+
+## Question 15. But what impelleth him to this?
+
+**But what impelleth him to this?**
+
+**I.** **His ineffable and inexhausted mercy** — according to which he willed not the whole human race to perish — **Ezek. 18:32**: *"I will not the death of the sinner, saith the Lord God, but return ye and live."* For **unless God out of mere mercy had regarded man, and by the preaching of the Word and the Sacraments recalled him to penitence and life, he would have perished eternally**. For **the wages of sin is death with all men — Rom. 6:23**.
+
+**Then, the intercession and precious merit of Jesus Christ** — **Ps. 2:8**: *"Ask of me, and I will give thee the nations for thine inheritance, and thy possession the ends of the earth."* **Rom. 3:25**: *"Whom God set forth as a propitiation through faith in his blood,"* etc. **For outside Christ no man can be saved or made accepted to God.**
+
+— ❦ —
+
+## Question 16. From whom is the Church gathered?
+
+**From whom is the Church gathered?**
+
+**From Jews and Gentiles, or from every people that is under the heavens** — **Acts 2:5; Matt. 28**: *"Teach ye all nations."*
+
+— ❦ —
+
+## Question 17. Are the Jews still now the people of God?
+
+**Are the Jews still now the people of God?**
+
+**They are not**, unless **they do penitence, and believe in the name of Jesus Christ, Acts 3; Luke 24:47** — *"He that shall not have believed shall be condemned"* — **Mark 16:16**.
+
+— ❦ —
+
+## Question 18. What? Are the Turks then the people of God?
+
+**What? Are the Turks then the people of God?**
+
+**Neither do these pertain to the people of God, although in fortune, triumphs, power, and riches they abound.** For **they gather not with Christ, they believe not in the Gospel of Christ, but they themselves blaspheme and persecute Christ. Not therefore are they sheep of Christ — they hear not his voice, but that of Mahomet — John 10**.
+
+— ❦ —
+
+## Question 19. Are then the Philosophers, who lived an honest and inculpable life before the world, sons of God and members of his Church?
+
+**Are then the Philosophers, who lived an honest and inculpable life before the world, sons of God and members of his Church?**
+
+**In no wise were they members of the Church**, whatsoever also the Papists and others say. For **expressly it is said, John 3:18**: *"He who believeth not is already judged, because he believed not in the name of the only-begotten Son of God."* And again **v. 36**: *"He who is incredulous to the Son, shall not see life, but the wrath of God abideth upon him."*
+
+And if **the Gentiles could have been saved without knowledge of Christ, what need had there been for the Son of God to become man, and for the Gospel to be preached in his name to every creature, and for the Sacraments to be instituted by him?**
+
+— ❦ —
+
+## Question 20. Is the Roman Pontiff then with his priests and consorts the true Church of God?
+
+**Is the Roman Pontiff then with his priests and consorts the true Church of God?**
+
+**By no means.** [*[T. 4/1, p. 351*]*] For **he fostereth Ethnic errors and abominations concerning the invocation of deceased men; propugneth the idolatric Mass, the inclusion, circumgestation, and adoration of the consecrated bread; prohibiteth marriage — which prohibition Paul, 1 Tim. 4:1–2, calleth the Doctrine of Demons; teacheth to doubt of the grace of God; contendeth that contrition, confession, and satisfaction merit remission of sins; selleth indulgences; defendeth the fable of Purgatory; equateth traditions to the word of God; slayeth the faithful, and by fire and sword persecuteth the Gospel of Christ and the legitimate use of the Sacraments, etc.**
+
+**True therefore Church of God he cannot be, unless he do penitence, convert himself to God, and recede from these abominations.**
+
+— ❦ —
+
+## Question 21. What therefore are the true and infallible signs, by which the people of God, and the Church on this earth, can and ought to be known?
+
+**What therefore are the true and infallible signs, by which the people of God, and the Church on this earth, can and ought to be known?** [*[T. 7, pp. 266 to 276; Gen. 3, p. 90; …p. 4, 14, 593*]*]
+
+**Various signs of this kind can be enumerated — but the chief of these are these three**:
+
+**I.** **The sincere preaching of the pure word of God** — **John 10**: *"My sheep hear my voice."*
+
+**II.** **The legitimate use of the Sacraments, as by God himself they have been instituted** — **Matt. 28; Mark 16; Acts 2; Eph. 5**.
+
+**III.** **Reverence and obedience toward the Ministry in all things which God in his Word hath prescribed** — **Matt. 8:20**: *"Teaching them to observe all things whatsoever I have commanded you."* **Luke 10:16**: *"He that heareth you, heareth me."* **Heb. 13:17**: *"Obey your prelates, and be subject to them,"* etc.
+
+— ❦ —
+
+*[Locus XXVIII Part 2 closes (Q12–Q21). Part 3 (OBIECTIONES I–III on notae + Q on charitas as additional mark + Q on those unable to have verbum + Q on utrum verbum Dei habere sufficit + Q on omnes with Sacramenta + OBIECTIO on Papist claim + long Papist Scripture-corruption examples) follows in T74. 543 top-level Q + 342 Obj rendered so far.]*
