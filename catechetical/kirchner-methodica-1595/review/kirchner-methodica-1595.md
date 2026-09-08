@@ -7756,4 +7756,62 @@ The same **Cyril in John, bk. 4, cap. 26; bk. 4, cap. 14, 17**, and **Augustine,
 
 — ❦ —
 
-*[Locus XXVII Part 4 closes (Q14–Q17 + embedded Obj on Adversaries' consenting only in symbolum + 8-point Patres testimony). Part 5 (OBIECTIONES I–II on unio + Q18 fides ascendens in coelum + embedded Obj on corpus adesse propter Elementa + Q19 four desiderata in Adversaries' doctrine + Q20 four-point discrimen inter partes) follows in T58. 494 top-level Q + 249 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **Do ye therefore teach a local and comprehensible union — so that the body of CHRIST is locally included in the bread?**
+
+**By no means.** But **a supernatural union, known to Christ alone, and enduring only during the use of the Supper — and not extending itself beyond it** — which is done **without any local inclusion, in a celestial and incomprehensible mode**. **How he distributeth his body with the sacred bread — this Christ hath not enunciated nor manifested**. **The Elements indeed are consumed, but the body and blood of Christ in no wise.** **Christ remaineth Saviour to believers, but judgeth the unbelieving and unworthy.** **Outside the use, there is no union of the bread and body of Christ.**
+
+— ❦ —
+
+### Objection II. **But if ye so understand the Sacramental union, it must be that the virtue and efficacy of the body and blood of Christ with the sacred Symbols of bread and wine is given and communicated to the faithful and worthy?**
+
+**The words of institution speak not of the union or communication of the virtue of the body and blood of Christ, but of the union, communication, and participation of the very body and blood of Christ**. For **Christ saith not**: *"This is the virtue and efficacy of my body,"* **but** *"this is my body, which is delivered up for you"* — **he saith not**: *"this is the virtue of my blood,"* **but** *"this is my blood of the New Testament, which is poured out for you unto the remission of sins."* **Deservedly therefore we insist on the words of Christ, and urge them.**
+
+— ❦ —
+
+## Question 18. Doth not therefore faith, or the faithful soul, when it receiveth the sacred Symbols, raise itself up, and ascend into heaven, and there perceive the body, virtue, and efficacy of the body and blood of Christ?
+
+**Doth not therefore faith, or the faithful soul, when it receiveth the sacred Symbols, raise itself up, and ascend into heaven, and there perceive the body, virtue, and efficacy of the body and blood of Christ?**
+
+**The Adversaries indeed say this — but without any foundation of Scripture and of the words of Christ**. For **Christ saith not**: **that our cogitations are to be elevated into heaven, and there the body of Christ is to be apprehended by faith, and the spiritual virtue and efficacy of his body and blood is to be perceived — and to the signs he attributeth only the name of the things signified**. **But through the sacred Symbols in the Supper — which is administered here on this earth, and not upward in the heavens — he distributeth and communicateth to us his body and blood, delivered up and poured out for us**.
+
+**Nor doth he command us to ascend with faith and mind into the supreme heaven, when we would participate his body and blood — but to use the sacred Supper**. **Nor can the Adversaries demonstrate that Christ in any word commanded, that in the use of the Supper we ascend by faith into heaven, and there enjoy the body and blood of the Lord.**
+
+### Objection.
+
+**Hence however it would follow, that the body and blood of Christ are present on account of the earthly Elements, bread and wine?**
+
+**Respondeo**: **By no means followeth this.** **On account of men the body and blood of the Lord are present.** And **far other it is, to be present on account of Elements, and — with or through the Elements, according to the words of institution — to be present and truly given and received**. **For it hath pleased Christ so, through these media and instruments, to distribute his body and blood** — as **the words of institution sound**.
+
+— ❦ —
+
+## Question 19. What do ye desiderate in the doctrine of the Adversaries concerning the Sacramental union?
+
+**What do ye desiderate in the doctrine of the Adversaries concerning the Sacramental union?**
+
+**I.** That **out of their doctrine — although in words they much deny this — the bread and wine of the Lord's Supper are constituted bare signs of the body and blood of Christ**; whence they also say, **the bread receiveth the name of the far-absent body of Christ**.
+
+**II.** That **although much they say concerning the virtue and efficacy of the body of Christ, yet this is not enough**. The reason is: **because the words of institution speak not of virtue and efficacy, but of the very body and blood of Christ**.
+
+**III.** That **their doctrine leadeth men from the sacred Supper into the supreme heaven, of which the words of institution have nothing**.
+
+**IV.** That **they contend: only faith perceiveth and useth and enjoyeth the body of Christ, which is far absent from us; but our mouth receiveth nothing besides the sacred Symbols** — **when yet Christ saith**: *"Take, eat, this is my body: drink, this is my blood."* **Which words certainly speak of the mouth and of oral participation**.
+
+— ❦ —
+
+## Question 20. What therefore is the discrimen between the sentence of both parties in the doctrine of the Sacramental union?
+
+**What therefore is the discrimen between the sentence of both parties in the doctrine of the Sacramental union?**
+
+**I.** That **we, according to the words of institution, teach the body and blood of Christ to be truly given and exhibited with bread and wine**; but **they contend the substance of the body and blood of Christ not to be given with the sacred Symbols, nor even to be present on earth — but to be in the supreme heaven**.
+
+**II.** **We teach both — both the virtue or efficacy of the body and blood of Christ, and the very body and blood of Christ also to be exhibited with bread and wine**; but **they concede only the former**.
+
+**III.** **They teach that in the Supper faith is required which looketh upon Christ sitting in heaven, and so ascending into heaven, there enjoyeth his body and blood**. **We teach that in the words of institution it is not required that faith ascend into heaven — but that our faith ought to lean upon the words of institution of the Supper, which is administered here in the earth, and according to the words of Christ to perceive his body and blood in the Supper**.
+
+**IV.** **We, according to the words of Christ, teach a double manducation of the body of Christ, spiritual and Sacramental**; **they, on the contrary, concede only the other manducation of the body, namely the spiritual** — **but they say the Sacramental to be only of the sacred Symbols — which is plainly false**. For **the Sacrament standeth of two things — namely of the sacred Symbols and of the body and blood of Christ**; and **the sacred Symbols are only half of the Sacrament, not the entire Sacrament**.
+
+— ❦ —
+
+*[Locus XXVII Part 5 closes (OBIECTIONES I–II on unio + Q18 fides-ascendens-in-coelum + embedded Obj + Q19 four desiderata + Q20 four-point discrimen partium). Part 6 (Q21 on manducation of the unworthy + spiritual vs Sacramental manducation + related OBIECTIONES) follows in T59. 497 top-level Q + 252 Obj rendered so far.]*
