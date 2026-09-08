@@ -5516,4 +5516,84 @@ But **if this article be sincerely taught and faithfully urged, easily by the ai
 
 — ❦ —
 
-*[Locus XXI Part 3 closes (Q20–Q27). Part 4 (OBIECTIONES: Objs I–XI on certitude vs doubt of grace) follows in T34. 358 top-level Q + 181 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **In uncertain things firm confidence cannot be placed. But whether I and thou be in grace, is uncertain. *Ergo* in this we cannot acquiesce with trust, and place firm confidence.**
+
+**The Minor is most false.** The reason is this. Because **the propitiation made through Christ — Rom. 3 — concerneth all men**; wherefore **without blasphemy thou canst not exempt thyself from it**. **God delivered up his Son as much for me and for thee, as for others**. Why therefore should we deprive ourselves of this benefit?
+
+Also the saying **Matt. 11**: *"Come unto me all ye that labour and are laden, and I will refresh you,"* — **includeth thee also, provided thou acknowledge thy labour and misery, and come to Christ**. The ministry also of the word calleth thee also: **2 Cor. 5:19–20** — *"Because God indeed was in Christ, reconciling the world to himself, not imputing to them their offences, and hath placed in us the word of reconciliation: for Christ therefore we discharge an embassy, as though God did exhort through us; we beseech for Christ, be ye reconciled to God."* Here **thou hearest God to exhort thee, and Christ to beseech thee, that thou be reconciled to God — how then canst thou be uncertain of grace, and why shouldest thou doubt concerning the grace of God and the remission of thy sins?**
+
+To this: **in Baptism, when thou wert baptized in the name of the Father, the Son, and the Holy Spirit, thy name was inscribed by the blood of Christ in the book of life**. **In the Supper also of the Lord thou art fed with the body and blood of Christ — that thou mayest be certain of thy redemption and propitiation made by the body and blood of Christ, mayest be singly absolved from thy sins, and mayest be certain of the grace of God toward thee**. Wherefore **suffer thou not in any wise this consolation to be disturbed for thee and rendered uncertain**.
+
+— ❦ —
+
+### Objection II. **Where the infirmity of faith is, there is not certitude. But in believers there is a sad infirmity. *Ergo* there is not certitude.**
+
+**Respondeo**: **The Major is false.** For **although believers sometimes feel a great infirmity of faith, yet since they lean not upon their own worth, but upon the merit of Jesus Christ and the promise of grace, which cannot fail, therefore they are certain of their salvation, and know that faith is the victory which overcometh the world** — **1 John [5:4]**.
+
+— ❦ —
+
+### Objection III. **Even heretics can persuade themselves that they are in grace, when yet they are not. *Ergo* faith cannot be certain of the grace of God.**
+
+**Respondeo**: **We speak not of a false persuasion of faith, when to it we attribute certitude, but of true faith in Christ, and of the truly believing** — to whom **from the promise of grace it is certainly persuaded, that they are in grace on account of Christ, and that they have God propitious through the intercession of Christ the Mediator** — **Rom. 8**.
+
+— ❦ —
+
+### Objection IV. **From a rash presumption of predestination one ought to abstain. *Ergo* no one can establish, that he is in the number of the predestinate.**
+
+**Respondeo**: **We concede that from predestination one ought not to presume rashly.** But **hence it followeth not: election is altogether uncertain**. For **it hath been revealed through the doctrine of the Gospel, that the elect are those who do penitence, and believe in Christ the Mediator**. **The believing have eternal life — John [3:36]**. *Ergo* **they are elect**. And **Rom. 8** the Apostle saith: *"Whom he elected, these he called; whom he called, he justified."* Therefore **those whom God calleth and justifieth, ought certainly to establish that they are elect**.
+
+Nor **is the doctrine concerning election made manifest, that it might render our salvation dubious, but that it might be the foundation of certitude** — **Eph. 1**: *"He elected us in Christ."* But **in Christ we are not uncertain of our salvation, but most certain — for it is a faithful saying and worthy of all acceptation, that Christ Jesus came into this world to save sinners**.
+
+— ❦ —
+
+### Objection V. **Only they that persevere are blessed. But it is uncertain, whether thou shalt persevere. *Ergo* etc.**
+
+**Respondeo**: **It standeth firm that many persevere not**; but this **is not on that account, as though God would not conserve the believing, but because many from the security of the flesh slip, and return not into the way**. That therefore **thou mayest be certain of perseverance, thou shalt not indulge the works of the flesh**, but **thou shalt abide in the faith of Jesus Christ, thou shalt pray God that the good work which he hath begun in thee he would perfect. We know that we have eternal life; we know that when he shall appear, we shall be like him**.
+
+**The saying therefore of Christ concerning perseverance establisheth not doubt, but only admonisheth, that thou be not secure, nor negligent, but persevere in the faith of Jesus Christ, and know whom thou hast believed, and that Christ is able and willing to give what he hath promised — namely, eternal life and gladness**.
+
+— ❦ —
+
+### Objection VI. *"He that standeth, let him see that he fall not"* — **1 Cor. 10**. *Ergo* no one is certain of his salvation.
+
+**Respondeo**: **The Apostle admonisheth, lest through the persuasion of certitude we slip into carnal security, whereby faith is suffocated** — **Luke 8**. But **rather let us see, that we receive not the grace of God in vain**. Not therefore **are his words (which are opposed to carnal security) to be drawn to the confirming of diffidence concerning the grace of God and eternal salvation**.
+
+— ❦ —
+
+### Objection VII. *"I am conscious to myself of nothing, but in this I am not justified."* *Ergo* Paul himself doubted.
+
+**Respondeo**: **Paul diserte denieth that he is justified from the inchoate newness, since it is imperfect** — but **concerning his salvation he doubteth not, of which he is certain, not from his own works, but from faith in Christ Jesus**. **Rom. 5**: *"Being justified by faith, we have peace."* And **Rom. 8**: *"I am certain."*
+
+— ❦ —
+
+### Objection VIII. *"A man knoweth not whether he be worthy of hatred or of love"* — **Eccles. 9[:1]**. *Ergo* of his salvation no one can be certain.
+
+**Respondeo**: **Solomon himself interpreteth himself, saying in the same place: Love and hatred a man knoweth not — but because all things equally befall the just and the unjust**. That is, **from external events in this life one ought not and cannot establish, whether we please God — for this judgement leadeth out the rich glutton, Luke 16**. But **in no wise doth it follow: From external events it cannot be established. *Ergo* faith also from the word of God ought to be uncertain**. For on this account **the doctrine of the Gospel is revealed, that from it we may learn certainly to establish, that we are in grace, provided we believe in Christ Jesus. For the Gospel is the power of God unto salvation to every believer**.
+
+— ❦ —
+
+### Objection IX. **Sirach in cap. 5 saith: *"Concerning the propitiated be not without fear."* *Ergo* it must be doubted, whether thou be in grace.** [*[Luther: Gen. T. 4, pp. 237, 238, 249, 250*]*]
+
+**Respondeo**: **In the Greek text of Sirach there is not the past participle "propitiato," but [περὶ ἐξιλασμοῦ] concerning propitiation**. And **Sirach in the cited place sufficiently perspicuously showeth, that he preacheth against carnal security, which heapeth up sins upon hope of pardon, and not against the certitude of faith which relieth upon the word of the Gospel, and by the Spirit mortifieth the deeds of the flesh**.
+
+— ❦ —
+
+### Objection X. **It smacketh of pride, to establish oneself to be in grace. *Ergo* it must rather be hesitated.**
+
+**Respondeo**: **If from thine own persuasion thou wert presuming that thou art in grace: the sin of pride would deservedly be objected against thee**. But **not from thine own persuasion, but from the word of the Gospel on account of the merit of Christ, thou establishest that thou art in grace — with right therefore of thy salvation thou oughtest to be certain**.
+
+Whence **Augustine, Ps. 88**: *"This God hath said, this hath he promised — if this be little, he hath sworn — because therefore not according to our merits, but according to his mercy the promise is firm, no man ought with trepidation to proclaim, concerning that of which he cannot doubt."*
+
+— ❦ —
+
+### Objection XI. **Joel 2 it is said: *"Who knoweth whether he will be converted,"* etc. *Ergo* salvation is uncertain.**
+
+**Respondeo**: **Nay rather, we know that he willeth to receive us into grace, and that from the gratuitous promise of the Gospel, which to all doing penitence and believing offereth grace and remission of sins through and on account of Christ**. And the Apostle, **2 Tim. [1:12]**, writeth: *"I know whom I have believed, and I am persuaded that he is able to keep my deposit unto that day."*
+
+Then **the saying of Joel speaketh not of the promise of grace and of the remission of sins, which is freely offered through faith to believers — but of the changing or mitigation of impending punishments**, which **God to those doing penitence sometimes altogether remitteth, sometimes however suffereth to come, that the faithful may be proved and be found like to silver examined**. Nor yet **is it hence to be established, that God is wroth with them, since he afflicteth believers, not to destroy, but to preserve**.
+
+— ❦ —
+
+*[Locus XXI De Fide in Christum is TRULY COMPLETE — 27 top-level Q + 2 embedded Objs (in Q15) + 11 formal Papist Objs. Total Locus XXI: 27 Q + 13 Obj units. 358 top-level Q + 192 Obj rendered so far. Locus XXII De Praedestinatione follows in T35.]*
