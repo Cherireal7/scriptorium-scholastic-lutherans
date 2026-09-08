@@ -9122,4 +9122,108 @@ And if **the Gentiles could have been saved without knowledge of Christ, what ne
 
 — ❦ —
 
-*[Locus XXVIII Part 2 closes (Q12–Q21). Part 3 (OBIECTIONES I–III on notae + Q on charitas as additional mark + Q on those unable to have verbum + Q on utrum verbum Dei habere sufficit + Q on omnes with Sacramenta + OBIECTIO on Papist claim + long Papist Scripture-corruption examples) follows in T74. 543 top-level Q + 342 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **The word of God is spoken in the Church. *Ergo* the word of God is not a mark of the Church.**
+
+**Respondeo**: **In no wise doth it follow — because the word of God is nowhere save in the Church, and the Sacraments purely administered are nowhere save there — *ergo* in these signs the Church is not to be sought**. **Nay, the contrary followeth**: because **nowhere save in the Church is the legitimate preaching of the word found, on that account by this very indication the true Church is demonstrated**.
+
+Whence **Augustine**: *"In the Scriptures we learn Christ and the Church."* **De unitate Ecclesiae, cap. 16**: *"The Church in the Sacred canonical Scriptures we ought to acknowledge — and not to inquire it in various rumours and opinions and fallible sayings and visions of men."*
+
+**The same, De civitate Dei, book 3, cap. 12**: *"But the city of God we say [is that] of which Scripture is the witness."*
+
+**The same Epistle 166**: *"In the Scriptures we have learned Christ, in the Scriptures we have learned the Church. These Scriptures let us retain in common."*
+
+And **Chrysostom, Homily on Matthew 49**: *"When ye shall have seen the impious heresy, which is the army of Antichrist, standing in the holy places of the Church, then let those who are in Judea flee to the mountains — that is, those who are in Christianity, let them betake themselves to the Scriptures. Because from the time this heresy took possession of these Churches, there can be no proof of true Christianity, nor any refuge for Christians wishing to know the truth of faith, save divine Scripture."*
+
+— ❦ —
+
+### Objection II. **The Church cannot be found in the Scriptures, since she is prior to the Scriptures. *Ergo* etc.**
+
+**Respondeo**: **When we speak of the Sacred Scripture, we understand not of the marks of the letters by which it is written, but of the very thing and sentence comprehended in these marks of letters — which was before the word of God was committed to letters**. **By the word of God straightway in Paradise the first parents after the fall were called to the society of God, or of the Church, before the word was inscribed**. Whence it is clear that **the Church is not the mother that begetteth the Scripture or the word of God, but on the contrary rather the Church is the daughter, who from the Scripture or word of God, as from incorruptible seed, is born**.
+
+— ❦ —
+
+### Objection III. **The word of God and the Sacraments cannot be marks of the Church, because all the sects use them. *Ergo* etc.**
+
+**Respondeo**: **When we make the word of God and the Sacraments marks of the Church, we understand these of the sincere word of God and the legitimate use of the Sacraments**. **They are not sects, whoever have the sincere word of God and the legitimate use of the Sacraments, but the sheep of Christ, John 10 and 15**: *"If ye shall abide in my word, ye shall truly be my disciples."*
+
+Also **the Sacraments can be outside the Church among heretics — *ergo* the use of the Sacraments is not a mark of the Church?**
+
+**Respondeo**: **Not the Sacraments alone do we constitute a sign of the Church, but we conjoin these two — namely the sincere and incorrupt word of God, and the legitimate use of the Sacraments**. **Wherever therefore these signs are extant, there is the true Church** — according to the words of Christ, **Matt. 28**: *"Teaching them to observe all things, whatsoever I have commanded you, and baptizing them in the name of the Father,"* etc. Item, *"Do this in my commemoration."*
+
+— ❦ —
+
+## Question 22. Are the hearers therefore bound in all things simply, without discrimen, to obey their pastors and doctors?
+
+**Are the hearers therefore bound in all things simply, without discrimen, to obey their pastors and doctors?**
+
+**No — but according to the declaration of Christ, Matt. 28:20**: **If they teach what Christ himself hath commanded — or if they teach the Gospel of Christ and no other thing**. Whence **Augustine against the Epistle of Petilian**: *"Neither must the Catholic Bishops be consented with, if perchance they err, or feel anything contrary to the canonical Scriptures of God."*
+
+— ❦ —
+
+## Question 23. Are other and more signs enumerated, from which the people of God or the Church is known?
+
+**Are other and more signs enumerated, from which the people of God or the Church is known?**
+
+**Very much so** — as **charity, John 13:35; the keys of the kingdom of heaven, Matt. 18:18; prayers, thanksgiving, public celebration and confession of the name of Christ, Matt. 10; the cross and persecution, and many others of this kind**.
+
+— ❦ —
+
+## Question 24. But what is to be established concerning those who, though they most greatly will, cannot have the word of God and the use of the Sacraments?
+
+**But what is to be established concerning those who, though they most greatly will, cannot have the word of God and the use of the Sacraments?**
+
+**Respondeo**: **David the exile could not have the public ministry, as he asks in Ps. 42: but this did not obstruct him, since it happened not from contempt and contumacy, but from necessity**. So **Christians under the Turks and other Tyrants, being captives, are not condemned because they hear not the public ministry, and use not the Sacraments — because although most greatly they will, yet they cannot have those things, nor use and enjoy them**.
+
+— ❦ —
+
+## Question 25. Doth it make a Church, to have the word of God?
+
+**Doth it make a Church, to have the word of God?**
+
+**It sufficeth not to have the word of God, but it is required that it be sincerely retained, and explained according to the analogy of faith — Rom. 12:6**. Otherwise **the Jews had the Old Testament; the Papists had the whole sacred Bible; the Arians, Nestorians, Eutychians likewise had them: but they perverted Scripture, and interpreted it against Scripture and the analogy of faith**.
+
+— ❦ —
+
+## Question 26. Are all therefore true Churches of God, who have the Sacraments instituted by Christ?
+
+**Are all therefore true Churches of God, who have the Sacraments instituted by Christ?**
+
+**By no means.** **The Papists themselves also confess, that a false Church can have true Sacraments. As also certain heretics had them.**
+
+### Objection.
+
+**Who have the word of God and the Sacraments, are also the Church of God. The Roman Church hath the word of God and the Sacraments. *Ergo* it is also the Church of God, etc.**
+
+**Respondeo**: **The Major is not simply or absolutely true. For it is one thing to have the word of God and the Sacraments pure and incorrupt, another simply to have them. The Roman Church hath indeed the sacred Bible and the Sacraments — but shamefully she corrupts and polluteth them**. Just as **the Jews even today have the Old Testament, but with the false interpretation of the Rabbis and the erroneous Gloss: so also the Roman Church**. *Ergo* it is not enough to have the word of God and the Sacraments, unless we have them pure, as by God himself they have been manifested and instituted.
+
+**For example, we shall see certain of the sayings of Scripture, from which more clearly than the meridian light shall appear, how shamefully the Roman Pontiff with his corrupteth the sacred Scripture, of which yet he boasteth**.
+
+**Gen. 1:16**: *"God made two great luminaries, the greater luminary to preside over the day, and the lesser luminary to preside over the night."* This saying the Pope interpreteth of himself and Caesar — and he saith he is the greater luminary, the Emperor the lesser. **Here anyone with hands may feel the horrible abuse of Scripture.**
+
+**Gen. 3:15** it is said: *"He shall crush thy head"* — that is, **Christ from the seed of the woman shall crush the head of the Serpent** — for which the Pontiff substituteth: *"She, that is Mary, shall crush the head of the Serpent"* — which in the Latin Bibles printed by the Papists one may see.
+
+**Gen. 48:16** it is said: *"Let my name be invoked upon them, and the name of my Fathers,"* etc. Here **against the Hebrew fonts, and against the mind of the Patriarch Jacob, they urge the Latin text — and thence attempt to evince, that the deceased saints are to be invoked** — when yet **the whole Church of the faithful of the Old Testament is ignorant of the invocation of Saints, and it never came into Jacob's mind, not even in a dream, to institute and hand down by those words the invocation of the dead**.
+
+**Job 5:1** it is said: *"Turn thee to any of the Saints"* — and here similarly **they attempt to establish the invocation of the deceased Saints** — when yet **Eliphaz commandeth Job to show any Saint who innocent and without cause hath been afflicted by God** (as Job out of impatience contended) — **and in no wise treateth of the invocation of the deceased Saints**.
+
+**What indeed can be said or thought more horrible and abominable, than that they have accommodated the whole Psalter to the Virgin Mary? And though David teacheth only God to be invoked, they invert his words, and in the place of God substitute Mary, invoke her, and all things which are to be sought from God alone, they ask from her** — as **Ps. 51**: *"Have mercy on me, O Lady, who art called mother of mercy: and according to the bowels of thy mercies cleanse me from all mine iniquities."*
+
+**Did not Pope Alexander [III] beautifully and pertinently allege v. 13 of Ps. 91, when at Venice, insulting under foot Frederick Barbarossa the illustrious Hero, boldly and confidently said**: *"Upon the asp and basilisk shalt thou walk, and shalt trample down the lion and the dragon"*?
+
+**The words of Christ's institution: *"Drink of this all of you"* — so they interpret: namely all the priests only, but not the Laity. **Is this not a horrible depravation of Christ's words?**
+
+**Item**: *"Do this in my commemoration"* — must be for them the same as: *"Offer the body of Christ for the living and the dead"* — which contradicteth Christ's institution *ex diametro*.
+
+**The saying of the disciples, Luke 22:38**: *"Behold, here are two swords"* — the Roman Pontiff so interpreteth, that **he himself is Lord of the Church and of the whole compass of the earth, that the Roman Emperor is under his power, and in his choice it is to depose the Emperor, and substitute another in his place**.
+
+How shamefully and wickedly he also depraveth and interpreteth the saying of Christ, **Matt. 16:18**, *"Thou art Peter,"* etc.; and what from a false understanding and interpretation of it he arrogateth to himself; and how great power and authority he taketh to himself from it in ecclesiastical and political matters — is known to the whole compass of the earth. And **similar corruptions of sacred Scripture very many could be recited if there were need**.
+
+**The Jesuits also in our age in their Censures at Cologne have divulged to the whole Christian world**: **that sacred Scripture is imperfect, mutilated, and maimed, and containeth not all things necessary to salvation** — **there is therefore need of human traditions by which the defect of Scripture is completed**. Item, **that sacred Scripture in her doctrines and precepts is like a nose of wax, and hath no certain sense, but into every side can be inclined and expounded**.
+
+From all which it is clear, that **although the Pontiff and the Roman Church have sacred Scripture, yet they shamefully and blasphemously pervert it and abuse it — so that they may as well not have it, and in vain they glory of it** [*[See Luther T. 7, Wider Hans Worst, p. 114 and following*]*].
+
+— ❦ —
+
+*[Locus XXVIII Part 3 closes (OBIECTIONES I–III on notae + Q22–Q26 + embedded Obj on Papist claim + long Papist Scripture-corruption catalogue). Part 4 (Q on nulla-in-Papatu Ecclesia + Q on Ecclesia obscuratur + OBIECTIONES I–II + Q on Papist Catholica definition + OBIECTIONES I–III) follows in T75. 548 top-level Q + 346 Obj rendered so far.]*
