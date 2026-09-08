@@ -12201,4 +12201,223 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXVI De Magistratu Politico COMPLETE — rendered in 1 tranche (T95). Q1–Q14 + OBIECTIONES I–II on empire difficulties + shedding blood + OBIECTIO on Papacy-obedience. 784 top-level Q + 422 Obj rendered so far. Locus XXXVII De Coniugio follows in T96 at OCR line 42833.]*
+# Locus XXXVII. Of Matrimony
+### *De Coniugio* [*[Gen. t. 2, p. 227; G.t. p. 39; G.t. p. 102]*]
+
+## Question 1. What is matrimony?
+
+**What is matrimony?**
+
+**Respondeo**: **It is an order divinely instituted, in which one man and one woman in indissoluble conjugal covenant, for avoiding uncleanness, for procreating offspring, and for serving God chastely, joined do live. Gen. 1, 2; Exod. 20; 1 Cor. 7; Eph. 5.**
+
+— ❦ —
+
+## Question 2. By whom is it instituted? [*[T. 4, p. 19–20; G.t. 1, p. 38]*]
+
+**By whom is it instituted?**
+
+**Respondeo**: **By God himself, Gen. 2:18**: *"The Lord God also said, it is not good that man be alone, let us make him a help like unto himself."*
+
+— ❦ —
+
+## Question 3. Is it lawful for a husband to lead many wives? [*[Gen. t. 3, p. 111]*]
+
+**Is it lawful for a husband to lead many wives?**
+
+**Respondeo**: **By no means. For God himself saith, Gen. 2:24**: *"And they shall be two in one flesh."* **Item**: *"And he shall cleave to his wife"* — **he saith not, "to his wives." This custom also the Church of God always hath preserved, and the Decalogue commandeth father and mother, not fathers and mothers, to be honoured. And Christ himself, Matt. 19, this doctrine repeated and inculcated, as also the Apostles. The contrary therefore is not to be permitted.**
+
+— ❦ —
+
+## Question 4. What things are required for legitimate matrimony?
+
+**What things are required for legitimate matrimony?**
+
+**Respondeo**:
+
+**I. The consent of both parties — which let it be conceded, honest, just, free, perfect, and pure. For not against the mandate and institution of God in the forbidden degrees to enter matrimony is it lawful.**
+
+**II. Let it be honest, nor let it be repugnant to public honesty.**
+
+**III. Let not the betrothals be clandestine, made without the consent of parents or of tutors.**
+
+**IV. Let not the consent be forced, but free and spontaneous.**
+
+**V. Let it be legitimate and perfect, lest the persons be circumvented by evil deceit.**
+
+**VI. Let neither party deceive the other with lies and deceit and fraud or ambushes.**
+
+— ❦ —
+
+## Question 5. Why did God institute matrimony?
+
+**Why did God institute matrimony?**
+
+**Respondeo**:
+
+**I. That hence we may understand, that God is a chaste and pure essence, and that he willeth to be worshipped chastely. 1 Thess. 4:3**: *"For this is the will of God, your sanctification."*
+
+**II. That to man in this life it may be a help, Gen. 2:18: The wife is a help to the husband. 1. In the procreation of offspring. 2. In its education. 3. In collecting familial goods, and in preserving them collected. 4. With sincere and ardent love in prosperity and adversity cherishing and refreshing him. 5. While she permitteth herself by no matter — save only by death — from him to be torn away.**
+
+**III. Matrimony was instituted after the fall, for avoiding fornication and uncleanness, 1 Cor. 7:1–2. [*[T. 2, p. 273–274]*]**
+
+**IV. That matrimony may be a type of the love and communion between Christ and his holy Church, Eph. 5:32.**
+
+— ❦ —
+
+## Question 6. Is it a sin, to love and to desire an honest virgin? [*[T. 5, p. 380]*]
+
+**Is it a sin, to love and to desire an honest virgin?**
+
+**Respondeo**: **The Papists have said that it was a sin, but Scripture the contrary testifieth. For since matrimony be a holy and divine order, how to desire it shall be a sin? And God himself in the creation of man these natural affections toward spouses did put in; and although at once concupiscence and evil desire concur, yet God to the faithful, for Christ's sake, willeth them not to impute, but to cover. Ps. 32.**
+
+— ❦ —
+
+## Question 7. But how is matrimony rightly to be auspicated? [*[T. 4/1, p. 467–468]*]
+
+**But how is matrimony rightly to be auspicated?**
+
+**Respondeo**: **For a happy auspice of matrimony are required:**
+
+**I. Fear of God and faith, certainly determining, that from God a spouse is good, Ps. 128.**
+
+**II. Ardent invocation, from God seriously exacting blessing. Gen. 24:12, the servant of Abraham, being about to lead a spouse to Isaac, ardently prayeth. For without the blessing of God nothing is happy,** &c.
+
+**III. That the persons contracting matrimony, from tender age, have lived chastely, and from every uncleanness abstained: for examples let them have Isaac, Jacob, Joseph, Tobias.**
+
+**IV. Consent of parents or of tutors**: *"Honour father,"* &c.
+
+**V. Election of a pious, good, prudent, chaste, and modest person.**
+
+— ❦ —
+
+## Question 8. But how shall spouses live piously in matrimony? [*[T. 6, p. 160; T. 5, p. 342; T. 2, p. 152 & seq., 330; Gen. t. 3, p. 34–35]*]
+
+**But how shall spouses live piously in matrimony?**
+
+**Respondeo**: **That piously they may live, always these heads let them consider:**
+
+**I. That from God himself they are joined and coupled, no otherwise than Adam and Eve in Paradise.**
+
+**II. Let them remember, that by God himself is inscribed to their conjugal bed the saying Heb. 13:4**: *"Honourable is matrimony in all, and the bed undefiled: for fornicators and adulterers God will judge."*
+
+**III. The husband, beholding his wife, let him always remember the saying Eph. 5:25**: *"Husbands, love your wives,"* **and v. 28**: *"So husbands ought to love their wives, as their own bodies,"* &c. **For these being set aside from the soul, easily can it happen, that conjugal love grow cold, and irreconcilable hatred between them be excited.**
+
+**IV. Let them remember, that many infirmities each to the other in turn they owe to pardon — as also Christ to the Church, Eph. 5:25–26.**
+
+**V. That by no prosperities or adversities they can or ought to be torn asunder. Eph. 5:29 [*[T. 5, p. 242, 254–255, 381–382 & seq.]*]**: *"No one ever hath had his own flesh in hatred, but nourisheth and cherisheth it, as also Christ the Church."*
+
+**VI. That the whole matter into one word I may contract: that a holy and happy matrimony it may be, needful it is that both spouses days and nights God ardently invoke, that himself a happy matrimony would give, hearts in indissoluble love join, and by the Holy Spirit rule to well and blessedly living.**
+
+**VII. Let the wife be subject to the husband, Eph. 5:22**: *"Wives, be subject to your husbands, as to the Lord, because the husband is the head of the wife, as Christ is the head of the Church."*
+
+**VIII. Let the husband virilely love his wife, as his rib and his help; let him cohabit with her according to knowledge; let him cherish, nourish, and defend her, 1 Pet. 3:7, Eph. 5:28–29.**
+
+— ❦ —
+
+## Question 9. Doth matrimony and its works please God? [*[T. 6, p. 353; Gen. t. 2, p. 112–113]*]
+
+**Doth matrimony and its works please God?**
+
+**Respondeo**: **The Papists have said matrimony to be carnal, and to displease God: but spouses let them know this opinion to be false and erroneous. For that matrimony and its works do please God, is established:**
+
+**I. By his divine institution and approbation.**
+
+**II. Because Christ himself by his presence and by his miraculous gift did honour and sanctify it. [*[Gen. t. 3, p. 126]*]**
+
+**III. Because by the Holy Spirit passim in sacred Scripture it is commended. Gen. 3, 4, 10, 24, 66, in the Old and New Testament.**
+
+**IV. Because the Holy Spirit passim in Scripture doth make honourable mention of the education of offspring, of economy, of agriculture, and of other conjugal works. Ps. 128:2 expressly is said**: *"The labours of thy hands thou shalt eat, blessed art thou, and well shall it be to thee."*
+
+— ❦ —
+
+## Question 10. But whence is it, that matrimony is a school of the cross?
+
+**But whence is it, that matrimony is a school of the cross?**
+
+**Respondeo**: **From the fall of the first parents, Adam and Eve, Gen. 3. And this even now cannot be changed: for where sin is, there also is chastisement and cross needful, whereby sin little by little is mortified. In matrimony remaining is sin: Ergo also chastisement and affliction in it is needful. And God to spouses maintenance and blessing hath promised indeed, Gen. 3, Ps. 128 — but with the exception of the cross**: *"In sweat of thy brow shalt thou eat thy bread,"* &c. **item**: *"in sorrow shalt thou bring forth sons,"* &c. **And since God, on account of Christ, hath plainly taken away from us eternal penalties, this light and momentary correction with even mind let us bear.**
+
+— ❦ —
+
+## Question 11. How shall pious spouses commodiously bear their cross?
+
+**How shall pious spouses commodiously bear their cross?**
+
+**Respondeo**:
+
+**I. Calamity coming upon them, let them know it to be not from matrimony, but from sin, Gen. [3], and this miserable [thing] from the ordination of God to be distinguished, and not to be ascribed to it.**
+
+**II. Let them acknowledge the good will of God, and whatsoever from himself upon them shall have been imposed, patiently let them bear: because in opportune time the right hand of the Most High these things will change, and when his hour shall have come, water into wine he can and will convert, John 2.**
+
+**III. Let them flee to pious prayers, and from God the mitigation of calamities and patience let them seek.**
+
+**IV. Let them behold the examples of all pious spouses of the Old and New Testament — of Abraham, of Isaac, of Jacob, &c. — which all testify, both that they were not without calamities, how they bore them, and that in them they experienced God present, helper, and liberator. Let them establish therefore also themselves to be secure in God,** &c.
+
+— ❦ —
+
+## Question 12. But what are the chief consolations, to which in every misery pious spouses ought to attend?
+
+**But what are the chief consolations, to which in every misery pious spouses ought to attend?**
+
+**Respondeo**: **Chiefly let them remember, that in a kind of life by God himself instituted and approved they live, and that by himself they are coupled: Since therefore his mercies be over all his works, Ps. 145:9, let them know that God even in themselves his work will not desert, but will preserve — whatever also external fortune may seem. For the virtue of God in infirmity is perfected, 2 Cor. 12:9. And all things can change the right hand of the Most High, Ps. 77, and copious with him is redemption, Ps. 130:7.**
+
+**II. Let them certainly establish: that God is no less present to them, than he was present to all the Patriarchs and holy spouses from the beginning, and from every necessity saved them. For therefore their examples are prescribed for us, that from thence we may say and know, that no one hath hoped in the Lord and been confounded,** &c. **Ecclus. 2:11–13.**
+
+**III. Let them attend to the goods, which are more in matrimony than the evils. For although matrimony never lacketh miseries, yet it is a work of God, upon whom he will have mercy, and which he is about to preserve. 2. Certain to them is and remains the promise of eternal salvation, whatever also external fortune may be. 3. Their tribulation into joy, and water into wine will be converted, when the hour of Christ shall have come, John 2. 4. Remaining also is the blessing of matrimony, and the work of generation, which is a great miracle and gift of God, and to Church, to Republic, and to Economy a foundation, Ps. 128. 5. So also life necessary, although with heat and sweat, is to them promised, certain, Ps. 128. 6. Left also to them is invocation of the Divine name, and the strongest tower is the Name of the Lord, to it runneth the just and shall be saved, Prov. 18:10. 7. Sound to them remaineth the conscience, in which in matrimony chastely to live, and every uncleanness to avoid they can.**
+
+**IV. Let them know that God tempteth them only for a time. Tob. 3:13**: *"Blessed is thy name, God of our Fathers, who when thou shalt have been angry, mercy dost do, and in time of tribulation forgivest sins to those who invoke thee."*
+
+— ❦ —
+
+## Question 13. Why is matrimony greatly to be esteemed? [*[T. 2, p. 155–156]*]
+
+**Why is matrimony greatly to be esteemed?**
+
+**Respondeo**:
+
+**I. Because by God himself instituted, it hath been marvelously preserved unto our times.**
+
+**II. Because without it we cannot be. For from it are born all men of all orders, and from it God taketh the young plants for his Church.**
+
+**III. Because it hath the express promise of God, Ps. 128:2**: *"The labours of thy hands thou shalt eat, blessed art thou, and well shall it be to thee,"* &c.
+
+**IV. Because God this order singularly hath honoured and sanctified. For in it holy Patriarchs, Priests, Prophets lived; and God's precepts ("thou shalt not commit adultery"; "honour thy father and thy mother") — whereby it may be intact and whole — singular hath. Christ himself also unto nuptials came, and by his first miracle them illustrious made, John 2.**
+
+**V. Because matrimony is the workshop of most illustrious virtues — fear of God, faith, hope, patience, love, invocation, chastity, meekness, humanity, &c. — which in it often by spouses daily can and ought to be exercised.**
+
+**VI. Because God his singular blessing to matrimony hath promised, Ps. 127, 128.**
+
+— ❦ —
+
+## Question 14. Did the Roman Pontiff act rightly, declaring matrimony as a carnal, and impure kind of life? [*[T. 4/1, p. 470 & seq.]*]
+
+**Did the Roman Pontiff act rightly, declaring matrimony as a carnal, and impure kind of life?**
+
+**Respondeo**: **By no means. What kind of life matrimony be, hitherto from the Word of God hath been demonstrated. Since however the Roman Pontiff be Antichrist, he must have been the enemy of this order, that might be fulfilled the prophecy of Daniel and of Paul concerning him. Dan. 11:37**: *"And the God of his fathers he shall not repute, and shall care neither for the love of women nor for any God,"* &c. **1 Tim. 4:1**: *"in the last times some shall depart from the faith, attending to doctrines of demons prohibiting to marry."*
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But Rom. 8:8 it is said: "They who are in the flesh, cannot please God." Spouses are in the flesh. Ergo they cannot please.**
+
+**Respondeo**: **Paul there speaketh not of spouses only, but in general of all justified for Christ's sake, and by the Holy Spirit renewed — whom he willeth to serve God in justice and holiness, and to the concupiscences of the flesh not to obey but to resist. To be in the flesh therefore, to Paul is not to live in matrimony, but to lead a carnal life, to obey the concupiscences of the flesh. Let the Pontiff and his followers be ashamed of the twisting and depravation of this passage.**
+
+— ❦ —
+
+### Objection II. **But (they except) we chiefly look to Priests, who from matrimony ought to abstain, that God they may please?**
+
+**Respondeo**: **Wheresoever they may look, certain it is, that Paul, Rom. 8, neither in general concerning matrimony, nor in specie concerning the matrimony of Priests, doth speak: And the Holy Spirit to Priests matrimony not only leaveth free, but expressly saith. 1 Tim. 3:2**: *"It behoveth a Bishop to be the husband of one wife."* **And by antithesis he placeth, that a mandate prohibiting to marry is a doctrine of demons. 1 Tim. 4:3–4.**
+
+— ❦ —
+
+## Question 15. Can Priests or Ministers of the Church, with good conscience, contract matrimony, and in matrimony live?
+
+**Can Priests or Ministers of the Church, with good conscience, contract matrimony, and in matrimony live?**
+
+**Respondeo**: **This the Roman Pontiff denieth: But Scripture on the contrary affirmeth. What is honourable in all, this to no order is prohibited: Matrimony in all is honourable, Heb. 13:4. Ergo to Priests it is not prohibited. And Paul, 1 Tim. 3, saith**: *"It behoveth a Bishop to be the husband of one wife"* — **wherefore therefore could not Priests with good conscience in matrimony live? So 1 Cor. 7:2**: *"But on account of fornication let each one his own wife have."* **Which since it be a general precept, no exception of Priests it admitteth. Christ also, Matt. 19, to all who have not the singular gift of chastity, matrimony commendeth, nor Priests excepteth.**
+
+**The Council of Nicaea also, at the admonition of Paphnutius, to Priests matrimony free did leave. Finally it cannot be denied, that the Priests of the Old Testament and of the primitive Church of the New Testament did live in matrimony. Wherefore therefore now could they not in matrimony with good conscience live?**
+
+— ❦ —
+
+*[Locus XXXVII De Coniugio COMPLETE — rendered in 1 tranche (T96). Q1–Q15 + OBIECTIONES I–II on Rom 8:8 flesh + Priests-abstain. 799 top-level Q + 424 Obj rendered so far. Locus XXXVIII De Antichristo (planned 2 tranches) follows in T97 at OCR line 43370.]*
