@@ -7210,4 +7210,114 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 — ❦ —
 
-*[Locus XXVI Part 2 closes (Q10–Q17 + embedded 'crediderit et baptizatus' Obj). Part 3 (OBIECTIONES I–II on Gen 17 + 1 Cor 7 sanctitas + Q18–Q23 loci-alligation + iteration + character indelebilis + intention + fide-Ecclesiae + embedded Matt 9:2 paralytic Obj) follows in T52. 468 top-level Q + 231 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **But Gen. 17:7 it is said: *"I am thy God and the God of thy seed after thee."* *Ergo* it is necessary that the children of the faithful sinners be also holy before God before Baptism.**
+
+**It followeth not.** The reason is manifest: because **the adversaries tear apart the promise of grace and circumcision — which yet God conjoined**. **Not therefore is the bare promise of grace, without faith and without circumcision, rightly attributed to the children of the faithful** — because, as hath been said, **what God hath joined, no creature ought to separate**.
+
+**The same reason is of Baptism and the promise of grace.** Since therefore **the adversaries themselves confess, that children even born of faithful parents do not have faith — in vain they contend that those before Baptism are holy and heirs of the promise**. Since **Heb. 4:2 it is expressly said**: *"The word heard profited them not, not admixed by faith with the things they had heard."*
+
+— ❦ —
+
+### Objection II. **But Paul, 1 Cor. 7:14, saith: *"Now your sons are holy."***
+
+**The adversaries invert the words of Paul.** For **Paul speaketh of sons who are born of one faithful parent — the adversaries expound those words of sons born of both faithful parents**.
+
+**Then Paul willeth to demonstrate, that sons on that account are not unclean, and the faithful is not rendered unclean, though not each parent be faithful** — **the adversaries, from these words, will to convince, that children even before and outside Baptism are holy, because they are born of faithful parents**.
+
+**Thirdly**, the Apostle showeth, that **the sons are holy for the parents** — **the adversaries hence will to evince, that the sons are holy for themselves, because they are born of faithful parents**; and so **the Apostle referreth the sanctity to the parents, but the adversaries refer it to the children — which certainly is not the same**.
+
+**Fourthly**, the Apostle speaketh only of external cleanness and sanctity, and not of that which prevaileth before God. For **if the adversaries would interpret this place of the interior sanctity which prevaileth before God, they must confess also that the unfaithful spouse is by cohabitation of the faithful sanctified and saved before GOD — which is manifestly absurd and false**. For **expressly, John 3:36, it is had**: *"He who believeth in the Son, hath eternal life; but he who is incredulous to the Son, shall not see life, but the wrath of God abideth upon him."* And **Mark 16:16**: *"But he that shall have not believed, shall be condemned."*
+
+— ❦ —
+
+## Question 18. Is Baptism bound to a certain place, so that it is not efficacious unless it be done in a consecrated temple?
+
+**Is Baptism bound to a certain place, so that it is not efficacious unless it be done in a consecrated temple?**
+
+**By no means.** For **Christ hath bound Baptism to no certain place — nor therefore let us do this**. **He himself was baptized in the Jordan — Matt. 3:12. Acts 2:41: about three thousand outside the temple were baptized. So also the Samaritans, Acts 8:16; and the Ethiopian Eunuch, Acts 8:38.** Whence it is perspicuous, that **Baptism is true and efficacious, even if outside the temple it be done**.
+
+— ❦ —
+
+## Question 19. Is a certain day or year defined, on which we should be baptized? [*[…p. 278*]*]
+
+**Is a certain day or year defined, on which we should be baptized?**
+
+**By no means.** The **Anabaptists indeed of our time — but without Scripture and mandate of Christ — contend and urge this**. **The Apostles themselves also baptized infants — Acts 16:15; 1 Cor. 1:16 — nor did they await their thirtieth year**. And **the Catholic Church even to our time hath baptized infants — not therefore should the Anabaptists persuade us of another opinion**.
+
+Although in the primitive Church many deferred their Baptism long, yet **these examples without the word and mandate of God do not make or prescribe a rule**. **The example of Christ also, who was first baptized in his thirtieth year, is plainly extraordinary — nor is it to be alleged as a rule or imitated**.
+
+To this, **their argument is nothing which they take from the use of reason (which infants lack)**. For **our Baptism is not founded in the use of our reason**. And **God can kindle faith through Baptism in the hearts of infants as well as of the elderly who use reason** [*[T. 4/1, p. 650*]*]. **Besides, reason hindereth faith more than aideth: for the animal man doth not perceive those things which are of the Spirit of God — for they are foolishness to him, and he cannot understand — 1 Cor. 2:14.**
+
+— ❦ —
+
+## Question 20. Is baptism rightly iterated?
+
+**Is baptism rightly iterated?**
+
+**By no means.** The Papists indeed allege two causes why Baptism ought not to be iterated — of which the former is, **that Baptism imprinteth on the soul an indelible character**; the latter, **that lapsed after Baptism are led back and restored through the Sacrament of penitence**. **But the word of God showeth other causes of this matter.**
+
+**I.** Because **the covenant of God, which he entereth with us in Baptism by reason of himself, is irrevocable**. **Our incredulity doth not evacuate the faith and promise of God — Rom. 3:3**. **Baptism therefore, without blasphemy, cannot be iterated.**
+
+**II.** **Concerning Baptism it is not written "as often as ye shall do" — as concerning the Supper**. *Ergo* **Baptism is not to be iterated**.
+
+**III.** **Scripture also with manifest examples attesteth that lapsed after Baptism and again converted to God were not baptized again, but did penitence, and through faith in Christ returned to the covenant of grace** — as of Peter, of the Corinthians, of the Galatians, and the like.
+
+**IV.** **As the circumcision of the Old Testament was not iterated, so also Baptism — which succeeded it — is in no wise to be repeated.**
+
+**V.** **Augustine, tract 11, 12 on John, rightly saith**: *"As one is carnal generation, so also one only is spiritual regeneration."* And **concerning true and false penitence**: *"As Christ was once only crucified, so also Baptism is not to be iterated."*
+
+— ❦ —
+
+## Question 21. What is to be established concerning the sentence of the Papists, whereby they assert that Baptism imprinteth an indelible character on the soul?
+
+**What is to be established concerning the sentence of the Papists, whereby they assert that Baptism imprinteth an indelible character on the soul?**
+
+**This doctrine is a mere human figment, and destitute of every testimony and foundation of Scripture.** **For nothing in the sacred letters is said, by which they can demonstrate this their opinion** — as also **the Scholastics themselves confess**.
+
+**Secondly**, it is certain that **the Orthodox Church plainly was ignorant of this figment**, as from its writings this at least cannot be proved.
+
+**Thirdly**, but as to the decree of Pope Innocent III, by which they pretend this to have been sanctioned, it is of nothing. For **it is not of the Pontiff, outside and beside the word of God, to condere new articles of faith**.
+
+**IV.** **Scripture indeed attesteth that Baptism worketh regeneration, remission of sins, and renovation of the Holy Spirit — but of the indelible character of the soul it hath nothing**. **This therefore is not to be attributed to Baptism, which Scripture itself doth not attribute to it.**
+
+— ❦ —
+
+## Question 22. Is that sentence of the Papists right, whereby they say Baptism is not efficacious, if the minister baptizing detract his intention of baptizing? [*[T. 6, p. 295*]*]
+
+**Is that sentence of the Papists right, whereby they say Baptism is not efficacious, if the minister baptizing detract his intention of baptizing?**
+
+**By no means.** For:
+
+**I.** **Scripture doth not acknowledge this opinion.**
+
+**II.** **In the manifest sayings of Scripture concerning Baptism, no mention is made of the intention of ministers.**
+
+**III.** **Neither the Apostles, nor the primitive Fathers of the Orthodox Church, made mention of this doctrine.**
+
+**IV.** **The Scholastics, who are the authors of this opinion, have not the right of condere new articles of faith.**
+
+**V.** And on this account this opinion is not to be borne, because **it maketh Baptism to us uncertain**. For **if the efficacy of Baptism dependeth on the intention of the baptizing minister, no one baptized will be able to be certain whether he hath been rightly baptized**.
+
+**VI.** Because **the certitude of Baptism is to be taken not from the intention of the minister, but from the infallible words of institution**. Since therefore **in those there is nothing of the intention of the baptizer, deservedly this opinion is repudiated and damned**.
+
+— ❦ —
+
+## Question 23. Is it rightly taught, that infants are to be baptized in the faith of the Roman Church?
+
+**Is it rightly taught, that infants are to be baptized in the faith of the Roman Church?**
+
+**By no means.** For **the just liveth from his own faith — Rom. 1:8, 17; Hab. 2:4**. **The promises of grace also profit only those who apprehend them by faith — Heb. 4:2**. Wherefore **infants also in Baptism are regenerated and illuminated by the Holy Spirit, that they themselves may believe** — whence **Christ himself attributeth faith to infants or little ones, Matt. 18:6**.
+
+### Objection.
+
+**But Matt. 9:2 it is said, that the Lord saw or looked upon the faith of those offering the Paralytic.**
+
+**This is not the sense of the words of the Evangelist — that the Paralytic on account of the faith of those offering received remission of sins** — **but that those offering by their faith obtained with Christ, that he should endow the Paralytic with his own faith, or kindle true faith in him**: as **the words of Christ sufficiently luculently teach, when he saith**: *"Be of good cheer, son, thy sins are remitted to thee."*
+
+To this: **if infants were baptized in an alien faith, when would we be certain of their baptism, and whence would it stand to them, that those in whose faith they had been baptized had rightly and truly believed?**
+
+— ❦ —
+
+*[Locus XXVI Part 3 closes (OBIECTIONES I–II + Q18–Q23 + embedded Matt 9:2 Obj). Part 4 (Q24 five capital heads where Papist doctrine of Baptism recedes from truth + embedded Obj on peccatum-remissum-non-remanet + Q25 legitimate use of Baptism + Q26 discrimen of Johannine/Christ/Apostolic Baptism) follows in T53. 474 top-level Q + 233 Obj rendered so far.]*
