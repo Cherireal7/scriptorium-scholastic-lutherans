@@ -6538,4 +6538,92 @@ So **Matt. 21:22**: *"Amen, amen I say to you, if ye shall have faith and shall 
 
 — ❦ —
 
-*[Locus XXIV Part 1 closes (Q1–Q10). Part 2 (Q11 ordo + Q12 need for prayer + Q13 delay of hearing + Q14 God defers + embedded Ioh 9:31 Obj + Q15–Q18 orationis forma + vis precum + studium + Papist Sanctorum invocation) follows in T45. 421 top-level Q + 209 Obj rendered so far.]*
+## Question 11. What order is to be observed in invocation?
+
+**What order is to be observed in invocation?**
+
+**First**, those things which concern thy salvation — that **thou seek faith in Christ and the increment of faith**. **Then also those temporal things which are of this life** — as victual, and clothing, etc. — thou shalt seek.
+
+**In spiritual things** — as remission of sins, grace of God, governance of the Holy Spirit, etc., to be sought — **certainly conclude, that God is about to give these things to thee**. For **in Christ Jesus, his beloved Son, he hath promised these things to all the faithful without any condition** — **Matt. 11:28**: *"Come unto me all ye,"* etc. **Rom. 10:12**: *"For the same Lord of all, rich in all who invoke him — for every one, whoever shall have invoked the name of the Lord, shall be saved."*
+
+**But in things concerning this life** — as of health, riches, longevity to be sought — **thou shalt subject thyself to the divine will, and so ask**: *"Thou, Lord, knowest what is of use and of salvation for me; be thy most holy will done. If it be of my salvation, give it to me; if not, Lord, bestow upon me patience and perseverance, that in thy most holy will I may acquiesce"* — as the leper, **Matt. 8:3**. So **David, 2 Sam. 15:25 [-26]**, prayeth: *"If I shall have found grace in the eyes of the Lord, he will reduce me,"* etc.; *"but if he shall have said to me, I please thee not — I am at hand, let him do that which is good before him"* [*[T. 4, p. 296 f. b*]*].
+
+— ❦ —
+
+## Question 12. What need is there of invocation, when God knoweth all things?
+
+**What need is there of invocation, when God knoweth all things?**
+
+**Although he knoweth of what things we are in need — Matt. 6:22 [6:32] — yet we ought to invoke him and to him to expound our indigency, for he himself hath prescribed this**: **and in the Lord's Prayer he hath prescribed how and what we ought to ask**.
+
+Hence **Augustine, Epistle 121 ad Probam viduam**: *"Words are necessary to us, by which we may be admonished, and may consider what we ask — not by which we may believe the Lord is to be taught or bent."*
+
+— ❦ —
+
+## Question 13. Though I ask much and often, yet I receive nothing from God — why then shall I ask and invoke?
+
+**Though I ask much and often, yet I receive nothing from God — why then shall I ask and invoke?**
+
+**This objection announced in general and universally is false.** For **Ps. 34:7 [34:6] saith**: *"This poor man cried, and the Lord heard him,"* etc. **The examples of all the faithful testify the contrary**: for **the just cried, and the Lord heard them — Ps. 34:8 [34:7]. All those who sustain thee shall not be confounded — Ps. 25:3**. And this also is certain, as **a little before hath been shown, that spiritual goods — remission of sins, reconciliation with God, eternal life — are denied to no penitent sinner and to no one invoking in faith**.
+
+Therefore, although **corporal goods are not always given, yet hence it doth not follow that God giveth us plainly nothing**. For **to him to whom he giveth remission of sins and eternal life, certainly he hath given much**. Nor **is it always for our good to be heard in corporal things**. For **what we should pray as it is fitting we know not — Rom. 8:26**. And **God better knoweth what of these things is to be given to us, or not to us**. **Often we ask health, riches, honours, which if God should give us, they would be for a loss to us, and shamefully unto our pernicion we should abuse them**.
+
+**From the word of God it is also certain**, that **the cross and afflictions are salutary to us, and to those who love God all things work together unto good — Rom. 8:28**. Let us therefore **acknowledge the good will of the Lord, although in corporal things he heareth us not always**.
+
+Hence gloriously **Augustine**: *"To him faithfully supplicating GOD for the necessities of this life, mercifully both he is heard, and mercifully he is not heard. For what is useful to the sick, better knoweth the physician than the ill man."*
+
+— ❦ —
+
+## Question 14. What is to be done, when God greatly defers his hearing?
+
+**What is to be done, when God greatly defers his hearing?**
+
+Here **Ps. 27:14 answereth**: *"Await the Lord, act manfully, and let thy heart be strengthened, and sustain the Lord."* And **Ps. 130:5–7**: *"I have sustained thee, Lord; my soul hath sustained in his word, my soul hath hoped in the Lord — from the morning watch even to the night, let Israel hope in the Lord."* And **Hab. 2:3**: *"If it delay, expect it, because coming it shall come, and shall not tarry."* **Lam. 3:26–27**: *"It is good to prestolate with silence the salvation of God; it is good to a man, when he shall have borne the yoke from his adolescence: he shall sit solitary, and shall be silent."* [*[Gen. 25, T. 3, p. 7*]*]
+
+For on this account God oftentimes **deferreth the hearing of our prayers, that in his own time — far beyond what we asked or expected — he may bestow it upon us**. **Eph. 3:20**: *"To him, who is powerful to do all things superabundantly beyond what we ask or understand, according to the power which worketh in us, be glory in the Church"* [*[…p. 490 f. b*]*].
+
+**Nor thus is the hearing of prayers to be defined to the faithful — as though God were always held to grant precisely what they ask — but so, that those things which shall be to the salvation of body and soul, he giveth**. For **he who ought to give, better knoweth what is useful for us than we ourselves**.
+
+**So God delayeth the hearing of prayers also on this account, that invocation may be intended and grow** [*[Gen. 30, T. 3, p. 121*]*], **and that we may have greater occasion to exercise ourselves in the word of God and faith**. For **if he heard us always straightway, we should easily grow lazy, and would not thus in these spiritual exercises profit**.
+
+**In sum**: let the faithful man hold, and make familiar to himself by use, this rule [*[Gen. 49, T. 4, p. 99, at the beginning of the chapter*]*] — **God promiseth, and yet delayeth aid, and so tempteth us, that our faith may have occasion of exercising itself, and that we may learn to confide in the Lord not only in prosperous but even in adverse things**. **At length indeed he aideth — but first he proveth our faith, hope, and patience**. And **the faithful men experience vicissitudes of afflictions and joys, as there are vicissitudes of days and nights — Ps. 30:6 [30:5]**: *"Toward the evening weeping shall stay, and toward the morning joy."*
+
+**If they always experienced success, they would slip into security.** **If they were always afflicted too much, they would be broken in spirit, and at length driven to desperation.** By turns therefore **God afflicteth, that he may ward off security; and cheereth, that he may drive away desperation**. **In these vicissitudes therefore standeth the mode of divine governance, by which he wondrously leadeth his sons** [*[Ps. 123, T. 4/1, p. 435*]*].
+
+**Concerning the time and manner of hearing and deliverance we read, Judith 8:11–13** [*[Gen. 24, T. 2, p. 239*]*]: *"And who are ye, who tempt the Lord? He is not a man, who provoketh mercy, but rather one who exciteth wrath and inflameth fury. Ye have set the time of the Lord's mercy, and to your judgement have ye constituted for him a day."* **Not therefore let us prescribe to the Lord the time or manner of aid and deliverance**: for **he himself best knoweth his hour, in which he willeth to help us — John 2:4. He is a helper in opportunities — Ps. 9:10**. Since therefore **we know neither the time nor the manner, nor what we ought to do, this alone we have and let us always have residual, that we direct our eyes to the Lord — 2 Chron. 20:12**. **And in silence and hope shall be our strength.**
+
+### Objection.
+
+**But John 9:31 it is said**: *"We know that God heareth not sinners."* **But I am a sinner. Why then do I invoke God?** [*[Gen. 37, T. 4, p. 24 f. b*]*]
+
+**Sinners are twofold**: **some doing penitence, others without penitence in their sins perseveringly cast**. **Without doubt God heareth not the latter** [*[T. 11, p. 204, 12, 411, 12, 413; T. 4/1, pp. 375, 376, 377*]*]. But **long other business hath he with penitent sinners, who with contrite heart appear in the sight of God, and with the Publican — Luke 18:13 — ask God to be propitious to them: for these he heareth willingly and mercifully**. Although also **many are the infirmities of the faithful, yet since they acknowledge them and ask pardon for them on account of Christ, they are not imputed to them — Rom. 8; Ps. 32, 51**.
+
+— ❦ —
+
+## Question 15. But with what words, or in what form of prayer, is God to be invoked in prayer?
+
+**But with what words, or in what form of prayer, is God to be invoked in prayer?**
+
+**The best form of prayer is that which the Lord himself hath prescribed for us in the Lord's Prayer** [*[T. 5, p. 401*]*] — for **it embraceth all those things which are necessary both to this and to the future life**. The faithful man however can use **other prayers, and especially the Psalms of David**. For in these **many notable prayers are, out of which one may see how the saints in the Old Testament in their highest temptations and afflictions spoke with God, expounded to him their necessities, and with serious and many groans constantly asked and expected hearing**.
+
+— ❦ —
+
+## Question 16. What is the power or efficacy of invocation or of pious prayers?
+
+**What is the power or efficacy of invocation or of pious prayers?**
+
+**By invocation or prayers we obtain from God all kinds of spiritual and corporal goods** [*[Gen. 24, T. 2, pp. 240, 241, 244; G. 44, T. 4, pp. 137, 138; T. 5, pp. 435 f. b; T. 4/1, p. 414 f. b; T. 7, p. 75, 142, 204*]*] — **Matt. 7:7**: *"Ask, and it shall be given to you."* **John 14:13**: *"Whatsoever ye shall have asked in my name, this will I do."*
+
+The leper, **Matt. 8:2**, cleansing from leprosy; the Canaanite woman, **Matt. 15:28**, deliverance of her daughter from the demon; the Ruler, **John 4:50**, obtaineth life for his son by prayers.
+
+— ❦ —
+
+## Question 17. What should kindle and excite in the faithful the exercise and study of invocation?
+
+**What should kindle and excite in the faithful the exercise and study of invocation?**
+
+**The mandate of God — Matt. 7:7**: *"Ask,"* etc. **Ps. 50:15** [*[T. 3, pp. 437, 438; T. 4, pp. 435, 436*]*]. **The most ample promises concerning the hearing of prayers — John 16:23; Ps. 145:19**: *"He shall do the will of those fearing him."* And **our proper necessity — for at each moment we are in need of the aid and protection of God**. Necessary therefore it is, that **at each moment we cry to him, and pour out our hearts before him** [*[Ps. 126:4, p. 449*]*].
+
+— ❦ —
+
+*[Locus XXIV Part 2 closes (Q11–Q17 + embedded Ioh 9:31 Obj). Part 3 (Q18 whether Sanctorum invocatio is pia et Christiana + OBIECTIONES I–IX against invoking the deceased Saints) follows in T46. 428 top-level Q + 210 Obj rendered so far.]*
