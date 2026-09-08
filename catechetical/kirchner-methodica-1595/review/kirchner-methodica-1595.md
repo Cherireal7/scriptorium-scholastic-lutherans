@@ -9998,4 +9998,128 @@ Whence **Jerome, Titus 1**: *"Presbyter is the same as Bishop"* — item, *"let 
 
 — ❦ —
 
-*[Locus XXIX Part 2 closes (Q12–Q15 + OBIECTIONES I–V on Papist ordination). Part 3 (Q16 causae not petering from Pontificiis + Q17 ordinatio non Sacramentum + Q18 our ordinatio + Q on deponere Ministrum + Q on stipendium + Q on potestas Ministerij + Q on Bishops decernendi + closing Papist doctrine on Bishop-authority) — closes Locus XXIX — follows in T82. 583 top-level Q + 378 Obj rendered so far.]*
+## Question 16. For what causes is it not to be conceded, that at this time ordination be sought from Papist Bishops?
+
+**For what causes is it not to be conceded, that at this time ordination be sought from Papist Bishops?**
+
+**I.** Because **the Pope with his Bishops is neither the true Church of God, nor sincere Doctors and Pastors of the same**: for **they teach not the pure word of God, they administer not the Sacraments according to the institution of Christ, but are kings and lords of this world, they persecute the Gospel, and the faithful by force and fraud they slay**.
+
+**II.** Because **they bind those to be ordained by an oath to manifest impiety** — that **for the defence of Papist idolatry, for the Mass-sacrificing, for their chastity (or *coelibatum*), etc.** — which **Paul, 1 Tim. 4:1, 3, calleth *doctrine of demons***. On account of these and similar causes, **ordination with a good conscience cannot be sought from the Pope and his Bishops**.
+
+— ❦ —
+
+## Question 17. Is the ordination of Priests or Ministers of the word a Sacrament?
+
+**Is the ordination of Priests or Ministers of the word a Sacrament?**
+
+**It is no Sacrament, as the Papists feign: for it hath no element, neither any promise of the remission of sins.**
+
+— ❦ —
+
+## Question 18. What then dost thou hold concerning the ordination of Ministers?
+
+**What then dost thou hold concerning the ordination of Ministers?**
+
+**It is certain that Christ instituted no peculiar rites or ceremonies to be observed in the ordination of Priests**: **He himself likewise consecrated and ordained his own Apostles by no certain ceremonies, as at Matt. 4:19 may be seen, where he simply saith**: *"Follow me."* **Acts 1, in the election of Matthias, they pray and cast lots**: **but no mandate was added, that Ministers should always be chosen by lot and confirmed**. **Acts 6, those seven Deacons by prayers and the imposition of hands are approved** — but by the progress of time in the Papacy many ceremonies were added to ordination, which in Scripture have no foundation. **Safest therefore is it, to acquiesce in the Apostolic simplicity — which also in the ordination of our Ministers we retain and imitate: those first diligently examined, legitimately called and elected — by prayers and imposition of hands ordaining and confirming them to the Ministry**.
+
+And thus ordination is described **1 Tim. 4:14**: *"Neglect not the grace which is in thee, which is given thee by prophecy, with the imposition of the hands of the presbytery."* And **2 Tim. 1:6**: *"For which cause I admonish thee, that thou stir up the grace of God, which is in thee by the imposition of my hands."*
+
+— ❦ —
+
+## Question 19. Is it lawful to depose a Minister of the Church, legitimately called, whensoever and for whatsoever cause?
+
+**Is it lawful to depose a Minister of the Church, legitimately called, whensoever and for whatsoever cause?** [*[T. 8, p. 107, 108; T. 6, p. 352; T. 5, p. 2, 345, 328*]*]
+
+**By no means: but on account of false doctrine, and a scandalous life.** For **the Minister or presbyter, who by teaching rightly and living holily well presideth, is worthy to be held of double honour, 1 Tim. 5:17. How therefore without just causes should he be deposed?**
+
+— ❦ —
+
+## Question 20. Do they rightly, who depose Ministers, on the ground that they sharply argue, or with suspect doctors and corrupters of the faith refuse to bear the yoke?
+
+**Do they rightly, who depose Ministers, on the ground that they sharply argue, or with suspect doctors and corrupters of the faith refuse to bear the yoke?**
+
+**As rightly as Jeroboam and others did, taking away the Prophets of the Lord; the Pharisees persecuting Christ and the Apostles; Herod cutting off John the Baptist** — **so rightly do also they in our age who remove and depose Ministers of unblameable doctrine and life, on the ground that they cry out, denounce sins, and bark against the wolves**.
+
+— ❦ —
+
+## Question 21. Can a Minister of the word with good conscience accept a stipend?
+
+**Can a Minister of the word with good conscience accept a stipend?** [*[Gen. c. 3; Gen. T. 2, p. 133; Gen. T. 2, p. 183; G. T. 4, p. 45*]*]
+
+**In the highest degree**: for **Christ himself, Matt. 10:10, saith**: *"The workman is worthy of his food,"* **and Paul, 1 Cor. 9:14**: *"So also the Lord hath ordained, that they who announce the Gospel should live of the Gospel."*
+
+— ❦ —
+
+### Objection. **But Matt. 10:8 it is said**: *"Freely ye have received, freely give,"* etc.
+
+**Respondeo**: **Ministers not for the cause of foul lucre, but on account of the glory of God and the salvation of men, ought to teach**. So therefore **Christ saith, freely give — teach not for the cause of lucre**. But **this doth not prohibit them to receive a necessary and just stipend — since he immediately subjoineth, "The workman is worthy of his food."** [*[T. 4/1, p. 372; p. 285; T. 4/1, p. 326, 548*]*]
+
+— ❦ —
+
+## Question 22. In what then consisteth the power of the Ministry?
+
+**In what then consisteth the power of the Ministry?** [*[Gen. T. 2, p. 220; S. T. 4, p. 190*]*]
+
+**The Ministry hath not any external power of dominating, of constituting and deposing Emperors and Kings, of dispensing on the contrary against the Gospels and Epistles of Paul** — **which the Roman Pontiff hath taken to himself against the authority of Scripture as a mandate, just as also against the same he hath constituted himself Ministerial head of the Church**. For **Luke 22:25–27, Christ expressly saith**: *"The kings of the Gentiles domineer over them, and they who have power over them are called beneficent: But ye not so — but he who is greater among you, let him be as the younger, and he who is a leader, as a minister."*
+
+So that **the Roman Pontiff hath usurped to himself the power of loosing and binding whatsoever also in the things of this age at his pleasure, and of commanding the Angels in heaven over souls, hath he done against Scripture**. **Neither of these belongeth to the power of the Ministry**.
+
+For **this hath no other power than — a legitimate calling preceding — of preaching the word of God, and of administering the Sacraments according to the institution of Christ, and not otherwise: of loosing the contrite and humbled in Spirit, of binding the sins of the impenitent and contumacious, according to the mandate of Christ**: item, **with the consent of the Church, of instituting free ceremonies not contrary to the word of God for the edification of the Church, without the snare of consciences** — **and the same again, if into abuse they be drawn or make not further for edification, of abrogating** — attending, **that all things in the Church be done in order and comeliness**.
+
+And **all these things beyond the analogy and prescript of the word of God are not to be extended**. **Prov. 30:5**: *"Every word of God is a fiery shield to those hoping in him: add thou not anything to his words — lest thou be reproved and be found a liar."*
+
+— ❦ —
+
+## Question 23. Have then the Bishops not, above the rest of the Doctors and Ministers of the Church, in the cause of the faith the power of sanctioning, decreeing, and of instituting certain ceremonies for worshipping God and meriting the remission of sins?
+
+**Have then the Bishops not, above the rest of the Doctors and Ministers of the Church, in the cause of the faith the power of sanctioning, decreeing, and of instituting certain ceremonies for worshipping God and meriting the remission of sins?**
+
+**The Pope with his contendeth this indeed, but beyond and against the word of God, wherefore to them we give no credit.** **In the Church no such primacy of power or jurisdiction is, whereby to the Pope and the Bishops be conceded free power of decreeing and delivering whatsoever, but upon the rest simple necessity of obeying should be imposed.**
+
+**Much less indeed doth Scripture concede to them, that they should institute certain ceremonies for meriting the grace of God — which nevertheless against the word of God they have done and do.**
+
+— ❦ —
+
+## Question 24. They say nevertheless: That such is the authority and power of Bishops, that it be lawful for them, concerning food, feast days, orders of Ministers, fasts, processions, and the like, to deliver, to decree — for satisfaction for sins, and for meriting the grace of God, to enjoin upon consciences?
+
+**They say nevertheless: That such is the authority and power of Bishops, that it be lawful for them, concerning food, feast days, orders of Ministers, fasts, processions, and the like, to deliver, to decree — for satisfaction for sins, and for meriting the grace of God, to enjoin upon consciences?**
+
+**They say this indeed, but from the word of God they cannot demonstrate that they have such power: they have taken this to themselves out of their own temerity, against the institution of the Ministry, and the mandate of Christ, prescribing, Matt. 28:20**: *"Teaching them to observe all things, whatsoever I have commanded you."*
+
+— ❦ —
+
+## Question 25. But have they the right of the sword?
+
+**But have they the right of the sword?**
+
+**They have it indeed — but not as Bishops by divine right, but by human right given to them: Nor doth this belong to the Ministry, nor pertain to the Ministry of the word, nor ought they to have it — according to that of Christ, Luke 22**: *"But ye not so."*
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But John 16:12–13 we read written**: *"Yet many things I have to say to you, but ye cannot bear them now: but when he shall come, that Spirit of truth, he shall teach you all truth."* ***Ergo* the Bishops have the aforesaid power.**
+
+**Respondeo**: **The text speaketh of things merely spiritual, but they by their own gloss wrest it to the Pope and Bishops**: **Christ saith**: *"Yet many things I have to say to you"* — they interpret: **The Pope and Bishops have power of instituting and delivering many mandates which Christ hath not commanded**. **Many things Christ saith he had to speak — which he was to say to the disciples concerning the cross and the calamities impending upon them**: **this the Papists interpret concerning ceremonies and human traditions, of which nevertheless Christ speaketh not — of which not even by a word is mention made**.
+
+— ❦ —
+
+### Objection II. **But they insist: Not the Pope and the Bishops, but the Holy Spirit through the Pope and Bishops delivereth these things.**
+
+**Respondeo**: **Christ himself sufficiently declareth his own words, presently subjoining**: *"For he shall not speak of himself, but whatsoever he shall hear, he shall speak,"* etc. Item: *"Of mine shall he receive and shall announce to you."* **He saith not: The Holy Spirit through the Pope shall bear new Laws which I have not delivered to you — but "whatsoever he shall hear, he shall speak. Item, of mine he shall receive,"** etc. **But Christ neither of the Pope, nor of the traditions of Bishops did in the Gospel teach anything: neither are those of Christ or of the Holy Spirit, but the traditions of the Spirits themselves. No weight therefore is in what they say, since they so manifestly pervert the words of Christ, and wrest them to an alien sense.**
+
+— ❦ —
+
+## Question 26. But what is the difference between the Ministry of the word, and the political power?
+
+**But what is the difference between the Ministry of the word, and the political power?** [*[T. 5, p. 179; T. 6, p. 353; G. T. 4, p. 213*]*]
+
+**I. The political Magistrate hath by his laws girded the external sword, and his subjects by corporal force he coerceth: But the Ministry ruleth by the word of the Law and Gospel — to the penitent it remitteth, to the impenitent it retaineth sins, nor draweth it the sword.**
+
+**II. The political Magistrate only external delicts punisheth, and is guardian of the external discipline of both tables of the Decalogue: the Ministry rebuketh also the interior sins of the heart, such as are, unbelief, security, evil concupiscence, etc. — John 16:8**: *"The Holy Spirit shall reprove the world of sin, because they believe not in me."*
+
+**III. The political Magistrate hath the power of establishing and executing new Laws in the things of this age, Rom. 13. But the Ecclesiastical Ministry hath no power of establishing new Laws and imposing them on consciences: but in the prescript of the word of God it acquiesceth.**
+
+— ❦ —
+
+*[Locus XXIX De Ministerio TRULY COMPLETE — rendered in 3 tranches (T80–T82). Q1–Q26 + OBIECTIONES I–V on Papist ordination + OBIECTIONES I–II on Episcopal power. Total Locus XXIX: 26 top-level Q + 7 Obj. 609 top-level Q + 385 Obj rendered so far. Locus XXX De Potestate Clavium follows in T83 at OCR line 37368.]*
