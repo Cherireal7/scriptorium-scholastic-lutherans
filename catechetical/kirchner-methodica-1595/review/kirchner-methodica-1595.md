@@ -10846,4 +10846,112 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-*[Locus XXXI De Poenitentia Part 2 closes (Q13–Q31 + OBIECTIONES I–III on Mal 3 / Heb 6 / Esau): fides definition, why must accompany, duplex poenitentia + 3 discrimen, whence poenitentia [from God], Scripture "agite poenitentiam" — precept-to-power no consequence, don't remain but hear sermons, media (Lex + Evangelium), in what worketh God [in corde against Enthusiasts], not deferred to death article, no place in future life, iterated poenitentia salutary contra Novatianos, OBIECTIONES Mal 3 immutabilis + Heb 6/10 impossible-renewal secundum quid + Esau Heb 12 poena non peccati, fructus 3-fold (nova obedientia + templum Dei Isa 57 + mitigation of poenae), how understand mitigation, 6 causes to move (mandate + comminations + our misery + no place after + God's gratia + examples), perpetua vita fidelium poenitentia, always open access, deferring to death, over which sins. Part 3 (Papist definition + 3-parts + not Sacrament + genesis of Papist doctrine + Papist contritio 5-fold + confessio 6-fold + OBIECTIONES I-II on confession + satisfactio + OBIECTIONES I-VII) follows in T87. 680 top-level Q + 391 Obj rendered so far.]*
+## Question 32. Is the Papist definition of penitence true: "Penitence is a virtue, bewailing past sins, and not committing again those to be bewailed"?
+
+**Is the Papist definition of penitence true: "Penitence is a virtue, bewailing past sins, and not committing again those to be bewailed"?**
+
+**It is not true: For penitence is not a virtue of ours, but a work of God in us: Then it omitteth faith in CHRIST, without which no penitent can console or raise himself up, but hurled into the deepest desperation, perisheth. Besides, it ascribeth the amendment of life to our own powers — which is the work of the Holy Spirit. Rom. 8:13**: *"If by the Spirit ye have mortified the deeds of the flesh, ye shall live."* **Gal. 5:22**: *"The fruit of the Spirit is charity, joy, peace,"* etc.
+
+— ❦ —
+
+## Question 33. Do they teach rightly, that there be three parts of penitence — contrition, confession, and satisfaction?
+
+**Do they teach rightly, that there be three parts of penitence — contrition, confession, and satisfaction?** [*[In Postilla, feria tertia paschatos, p. 27, etc.; Inst. Sch. Part 3, art. 3; T. 4, p. 660, etc.*]*]
+
+**By no means: For the word of God is ignorant of this partition of penitence, and demonstrateth only these two parts of the same — contrition and faith. Mark 1:15**: *"Do penitence and believe the Gospel."* **Luke 24:47**: *"And there shall be preached in his name penitence and remission of sins."* **Thus distinctly of the fruits of penitence doth he speak, Matt. 3**: *"Bring forth the fruit worthy of penitence."*
+
+**Contrition indeed is part of penitence, but that it can be sufficient, and merit the remission of sins, in Scripture is not taught.**
+
+**Confession is not part of penitence, but rather a fruit and consequent of true contrition: for where in the heart there is true acknowledgment of sin, there voluntarily the confession of the mouth followeth. Ps. 32:4**: *"For day and night thy hand was heavy upon me — I am converted in my calamity, my delict have I made known to thee, my injustice I have not hidden. I said, I will confess against me my iniquity to the Lord, and thou hast remitted the impiety of my sin,"* etc.
+
+**Satisfaction is a figment full of blasphemies — which strippeth Christ of his due honour, and despoileth consciences of the true consolation which they ought to draw out of Christ and his satisfaction.**
+
+— ❦ —
+
+## Question 34. Is penitence a Sacrament?
+
+**Is penitence a Sacrament?**
+
+**It is no Sacrament: the reason is clear: because it hath no Element instituted by Christ.**
+
+— ❦ —
+
+## Question 35. Whence is the Papist doctrine of penitence?
+
+**Whence is the Papist doctrine of penitence?**
+
+**Without doubt it drew its origin from the examples of those who, on account of public and notorious delicts in the primitive Church, were driven to public penitence — in whom the ancient Church set examples of severer discipline.**
+
+**In the time of Gratian, about the year of Christ 1150, it was first begun to be disputed concerning the necessity of confession and satisfaction — but nothing then was concluded.**
+
+**The Master of the Sentences first referred penitence among the Sacraments; afterwards the Scholastics disputed of the matter and form of this Sacrament.**
+
+**In the time of Gabriel, who lived about 100 years ago, it was uncertain what were the matter of this Sacrament, or what its Element.**
+
+— ❦ —
+
+## Question 36. What is the doctrine of the Papists on contrition?
+
+**What is the doctrine of the Papists on contrition?**
+
+**I. They contend: That contrition is not the terrors put into the conscience by God by the voice of the Law, but a voluntarily assumed grief.**
+
+**II. That this motion prepareth unto the remission of sins, and unto grace and reconciliation with God.**
+
+**III. That by the force of contrition, according to Thomas Aquinas, guilt is remitted, penalty is taken away, glory is acquired.**
+
+**IV. That contrition then obtaineth pardon of delicts and reconciliation with God, if it be with perfect charity — that is, if from the heart and love of virtue it be done. This the Scholastics call *sufficient contrition*.**
+
+**V. That imperfect contrition, which is called *attrition*, is not sufficient, yet prepareth to obtain the grace of God. But attrition or imperfect contrition they call, when a man doeth what is in himself, and although he cannot with his whole heart hate sin, yet he wisheth he could grieve over sin and hate sin. But of these things they can prove no one from the word of God.**
+
+— ❦ —
+
+### Objection. **1 Cor. 7 it is said, that** *"the grief which is according to God worketh penitence unto salvation, no way to be repented of."* ***Ergo* our contrition is meritorious.**
+
+**Respondeo**: **There is more in the consequent than in the antecedent. The words of the Apostle will not this, that our contrition merit salvation and eternal life — as the Papists contend — but they indicate that the grief or contrition excited in the heart by God is salutary and impelleth men, that they seek reconciliation with God through Christ the Mediator. Of Jesus Christ alone is contrition meritorious — ours meriteth nothing, but is thus rendered salutary, when the contrite heart looketh to the griefs and passion of Jesus Christ, and judgeth it to happen unto itself the remission of sins freely on account of Christ, whom God set forth as a propitiatory in his blood through faith. David, Magdalene, the Publican by their contrition merit not grace, but are impelled by the sadness divinely excited in their hearts, that they seek Christ the Helper.**
+
+— ❦ —
+
+## Question 37. What is their doctrine on confession?
+
+**What is their doctrine on confession?**
+
+**I. That it behoveth all mortal sins in confession to be recensed by penitents, and those circumstances in confession to be explained which change the species of the sin. Which unless it be done, absolution is not ratified and efficacious — since nevertheless Ps. 19:13 it is said**: *"Delicts who understandeth? From my occult things cleanse me,"* etc.
+
+**II. They prescribe a certain time to confession — namely, that of Lent — but without the mandate of Christ.**
+
+— ❦ —
+
+## Question 38. When did this doctrine on auricular confession begin to be established under the Papacy?
+
+**When did this doctrine on auricular confession begin to be established under the Papacy?**
+
+**In the Lateran Council in the year of Christ 1200. Before that no precept concerning it existed. In the time even of Gratian, 10 years before, no decree was found that this auricular confession was necessary, distinct. 1, De poenitentia: and many then were found, who established that it was not necessary. Lombardus urged its necessity.**
+
+**The Scholastic Doctors, following him, added to it many graver and darker conditions.**
+
+**III. There acceded, that out of confession and absolution they make a iudicial process, contending that it is to be judged by the Priest concerning the gravity of the crimes, and the penalty which it behoveth to be imposed for those things on penitents. But this Scripture is ignorant of.**
+
+**IV. They teach: That only mortal sins are necessarily to be recensed, since the rest, in which we more frequently lapse, need not absolution, and can be washed away and expiated by beating of the breast and sprinkling with lustral water. This error is thence, that they understand not the force of original sin and of interior human corruption, and the pollution and misery hence consequent.**
+
+**V. They deliver, that although one confess all sins, yet if he confess not to a Priest — since to the Pope and Bishops the power of absolution is delivered — the confession profiteth him nothing. Which they can teach by no saying of the sacred letters: and Ambrose rightly saith**: *"The word of God dismisseth sins: the Priest is a Minister, exhibiting indeed his own office, but exercising the rights of no power."*
+
+**VI. They teach, that certain cases are reserved, in which to the Pope alone and Bishops it is lawful to dispense — in which another Priest, even though the penitent confess sins to him, yet cannot remit — unless in the agony of death, etc. But Christ instituted or mandated these things by no word.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But there cannot be judgment without preceding cognition. *Ergo* is it not necessary that all sins with their circumstances in confession be enumerated?**
+
+**Respondeo**: **Great is the difference between the political Magistrate and the Ministry: The Magistrate first cognizeth the cause; the Ministry announceth the remission of sins to all doing penitence and believing in Christ: it distinguisheth not among sins by censoring, nor imposeth satisfaction.**
+
+— ❦ —
+
+### Objection II. **But in general confession the penitents can impose on the Priest?**
+
+**Respondeo**: **This equally also in the special confession of individual delicts they can do: They are to be admonished therefore, to think what and with whom they deal, when they seek absolution — namely, not with a man, but with God himself.**
+
+— ❦ —
+
+*[Locus XXXI De Poenitentia Part 3 closes (Q32–Q38 + OBIECTIONES I–II on confession): Papist definition of poenitentia as virtus refuted [not our virtue but God's work, omits fides, ascribes emendationem to our powers vs Spiritus], 3-part scheme refutation (contritio + fides only per Mark 1/Luke 24, confessio is fructus not pars per Ps 32:4, satisfactio blasphemiarum plenum), poenitentia not Sacrament (no element), genesis (early Church severer disciplina exempla → Gratian ~1150 → Master of Sentences → Gabriel with uncertainty about Element), Papist contritio 5-fold (voluntarily assumed grief not Law-terrors + preparation to remission + Thomas: force of contritio remits culpa and gives gloriam + sufficient with perfect charity vs attritio + attritio not sufficient but preparing), OBIECTIO 2 Cor 7 dolor secundum Deum — plus in consequente, David/Magdalene/Publican impelluntur non merentur, Christ alone contritio meritoria, Papist confessio 6-fold (all mortal + circumstances species-changing per Ps 19:13 delicts unknown + certain time = Lent sine mandato Christi + Lateran 1200 established + Gratian 10 years before no decree + iudicial process Scripture ignorat + only mortal sins recensed vs original sin misunderstood + only to Priest per Ambrose "Verbum Dei dimittit peccata, Sacerdos Minister" + reserved cases only Pope/Bishops per no Christ word), OBIECTIONES I-II on confessio (I. no judgment without cognition — Magistrate vs Ministerium, latter announces to all penitents no distinguishing/imposing; II. general confession penitents impose on Priest — same possible in special, dealing with God not man). Part 4 (Papist satisfactio + ancient satisfactio canonica + 5 causes + 5 grades + refutation + OBIECTIONES I-VII on satisfactio) follows in T88. 687 top-level Q + 393 Obj rendered so far.]*
