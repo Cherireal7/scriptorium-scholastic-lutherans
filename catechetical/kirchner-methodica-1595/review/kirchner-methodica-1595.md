@@ -8178,4 +8178,60 @@ If therefore **the Adversaries would obtain anything, they must first demonstrat
 
 — ❦ —
 
-*[Locus XXVII Part 9 closes (OBIECTIONES I–V on Spiritual-only manducation + Q40 indigni receive body/blood + Q41 Patres testimony on indignorum manducation). Part 10 (OBIECTIONES I–VII on indignorum manducation — proper Reformed objections against the doctrine) follows in T63. 518 top-level Q + 263 Obj rendered so far.]*
+# OBIECTIONES
+
+### Objection I. **Where the promise is, there is faith. The unworthy or the evil have no faith. *Ergo* neither have they any promise, that they should receive the body of CHRIST.**
+
+**Respondeo**: **The Major is not true.** For **it followeth not straightway, that faith is present where the promise is**. Hence **Augustine against the Donatists, book 3, cap. 14, saith**: *"It matters not, when it is treated of the integrity and sanctity of the Sacrament, what he believeth or with what faith he is imbued, who receiveth the Sacrament. It matters indeed very much to the way of salvation: but to the question of the Sacrament it matters not. For it can be that a man have the whole Sacrament and a perverse faith."* Although therefore anyone either believeth not, or believeth not rightly, yet on that account the substance of the Sacrament departeth not, so that on that account he receiveth not — as concerneth its substance — the entire Sacrament.
+
+— ❦ —
+
+### Objection II. **Only they manducate the body of Christ, for whom Christ himself is delivered up or crucified. But for the unfaithful he is not crucified. *Ergo* etc.**
+
+**The Minor is simply false — that Christ was not crucified for the impious.** For **he himself is the Lamb of God, who taketh away the sins of the whole world**. And **1 Tim. 2:6 it is said**: *"Who gave himself as redemption for all."* **2 Cor. 5:14**: *"One died for all."* **Isa. 53:6**: *"And the Lord placed on him the iniquity of us all."* **1 John 2:1**: *"He is the propitiation for our sins, and not for our only, but even for [those] of the whole world."*
+
+But that **not all men by faith apprehend the death of Christ, and become partakers of the Passion of Christ, hence it followeth not — that only for the faithful he suffered and was crucified — but this cometh to pass on account of their own incredulity**. **No consequence therefore is of this argument** — and **the whole argument concludeth against the Adversaries by inversion**.
+
+— ❦ —
+
+### Objection III. **The unworthy have no faith. *Ergo* they do not receive the body of Christ.**
+
+**Respondeo**: **This objection discerneth not between the substance of the Supper and its salutary use.** **Since the unworthy have no faith, they receive the body of Christ indeed — not unto salvation, but** — because **on that account also as concerneth the substance or integrity of the Sacrament they receive it not is a mere dream and human figment, plainly contrary to the words of Christ in the institution**, which **speak of the substance of the Supper without discrimen of the persons communicating**. This argument therefore concludeth concerning the use unto salvation, but not concerning the substance and integrity of the Sacrament — since this on account of incredulity is not changed.
+
+— ❦ —
+
+### Objection IV. **The vivifying Spirit of Christ cannot be plucked away and separated from his flesh. But the unworthy receive not the Spirit of Christ. *Ergo* they receive not also his body.**
+
+**Respondeo**: **No separation of the Spirit and the flesh of Christ is here needful**, since **Christ, according to his flesh, hath power not only of vivifying, but also of doing judgement — John 5:27**. **What kind therefore are they who receive his body — such doth he also exhibit himself to them**. **If they are faithful, his flesh increaseth their faith, and comforteth them in faith, and preserveth them; if they are incredulous, it judgeth them**. **And so the flesh of Christ hath a distinct operation according to the condition of the persons who approach the sacred Table of the Lord.**
+
+— ❦ —
+
+### Objection V. **The body of Christ must be conceded to be perceived either with the senses and reason, or by faith. But that it pertaineth not to the sense and reason to reach the body of Christ, is evident. *Ergo* by faith it is perceived, of necessity: which since the unworthy have not, it is certain that they also perceive not the body of the Lord.**
+
+**Respondeo**: **This whole argument playeth on the ambiguity of *perception* or *communication*.** For the participation or communication of the body of Christ is twofold: **the one spiritual, the other Sacramental**. As concerneth the spiritual communication, it is true — that there is no other means by which the body of Christ can be perceived than faith. But as concerneth the Sacramental, other is its reason. For of it **Christ saith not**: *"Whoever without faith approacheth this sacred table, eateth only bread, but perceiveth not my body"* — but when he speaketh of the substance of the Supper, simply, without any distinction or condition, he saith: *"Take, eat, this is my body, which is delivered up for you."*
+
+If therefore **the Adversaries use this argument concerning the Sacramental communication, they commit a double fallacy — from insufficient enumeration of parts, and from a saying-according-to-something to a saying-simply**. Because **Christ, by the words of institution, in the use of the Supper united his body to the bread by a Sacramental union — truly also with the bread it is perceived by the mouth**, although the mouth itself perceiveth this not, nor understandeth it, nor believeth. **Ill therefore they do, that they neglect the words of Christ, and setting aside the Sacramental communication instituted by Christ himself, urge only the spiritual.**
+
+— ❦ —
+
+### Objection VI. **Christ is the very life and resurrection — John 11:25. If therefore the incredulous receive the body of Christ as much as the faithful, they would equally, as the faithful themselves, receive life: but this happeneth not. *Ergo* only bare sacred Symbols — and not the very body and blood of Christ — do they receive.**
+
+**Respondeo**: **Christ is not only life, but also judge; he hath not only power of vivifying, but also of doing judgement — John 5:27**. **Nothing therefore this argument concludeth.** Although the unworthy receive the body of Christ not unto life and salvation, yet they take it unto judgement. And **here the Adversaries wholly stick fast, and here err — because they will not distinguish between the substance of the Supper and its salutary use — which yet Augustine, and with him the whole orthodox Church, did**.
+
+— ❦ —
+
+### Objection VII. **The body of Christ (they say) cannot be the matter of condemnation in the impious. *Ergo* also the unworthy receive it not.**
+
+**Respondeo**: **The body of Christ is not *per se* — but on account of the incredulity of the [unworthy]** — the matter of death and condemnation to the unworthy. Hither pertaineth what **Augustine, book Contra Cresconium, cap. 35, writeth**: *"Doth not the Apostle teach, that even the body of Christ is made pernicious to those who use it ill? For he saith: 'Whosoever unworthily eateth, eateth judgement to himself.'"*
+
+**Against the letters of Petilian, book 2, cap. 40**: *"From one holy thing indeed, Judas took to himself judgement, Peter salvation."*
+
+**De adulterinis coniugiis, book 1, cap. 27**: *"He gave to his traitor that which was for his ruin — without any fault of the giver — since the unworthy accepted the worthy things."*
+
+**Chrysostom, 1 Cor. 11, homily 28**: *"What sayest thou? Say, I pray, of so great goods the cause — and the table that exhibiteth life, shall it become judgement? By no means on account of its nature, but on account of the will of him who approacheth."*
+
+From all these it is clear: **the body of Christ *per se* is pernicious to no one — but becometh pernicious to those who without faith unworthily take it**.
+
+— ❦ —
+
+*[Locus XXVII Part 10 closes (OBIECTIONES I–VII on indignorum manducation). Part 11 (OBIECTIONES VIII–XIV: Spiritual gifts not to indigni + res-sacramenti Augustinian argument + Judas as panem-Domini vs panem-Dominum + Paul says 'panem' not 'corpus' + Adversaries' sun-radius similitude + exhibition/reception distinction + extra usum nothing has Sacrament-power) follows in T64. 518 top-level Q + 270 Obj rendered so far.]*
