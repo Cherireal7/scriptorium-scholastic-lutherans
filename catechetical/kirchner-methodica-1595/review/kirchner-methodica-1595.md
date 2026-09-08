@@ -7814,4 +7814,102 @@ The same **Cyril in John, bk. 4, cap. 26; bk. 4, cap. 14, 17**, and **Augustine,
 
 — ❦ —
 
-*[Locus XXVII Part 5 closes (OBIECTIONES I–II on unio + Q18 fides-ascendens-in-coelum + embedded Obj + Q19 four desiderata + Q20 four-point discrimen partium). Part 6 (Q21 on manducation of the unworthy + spiritual vs Sacramental manducation + related OBIECTIONES) follows in T59. 497 top-level Q + 252 Obj rendered so far.]*
+### Objection.
+
+**If the body of Christ, Sacramentally united to the bread, is taken with the mouth of the body — must it also be confessed that with the teeth it is truly and properly ground?**
+
+**The body of Christ now is immortal and incorruptible — Rom. 6:9.** Although therefore, according to the words of Christ *"eat, this is my body,"* it be taken Sacramentally with the mouth, yet it followeth not thence, that it is properly, as bread, ground by the teeth and altered in the stomach — since **it is no longer obnoxious to corruption**. Rather **this rather thence followeth — that our mortal body is altered unto immortality and incorruptibility**. Whence also **Irenaeus saith, that our flesh is capable of eternal life, because it is nourished by the blood and body of Christ, book 5, p. 296**.
+
+— ❦ —
+
+## Question 21. Briefly expound to me what your sentence is concerning the mode of presence of the body of Christ in the Supper?
+
+**Briefly expound to me what your sentence is concerning the mode of presence of the body of Christ in the Supper?**
+
+**We simply establish that the mode of presence is celestial, supernatural, and incomprehensible — and in this life neither can nor ought to be explained**. Our Adversaries, since they think it absurd that the body of Christ be truly given and received with the bread, feign a presence of virtue and efficacy. Others, as Beza, use the similitude of bread, out of which juice is expressed, but the bread itself remaineth with the baker. But we cannot and ought not to stipulate with them; rather **simply we acquiesce in the words of Christ, which speak of true communication and participation of the very body of Christ, not of the communication of virtue and efficacy of the body — as Beza himself in the volume of Epistles, Ep. 4, 5, confesseth**.
+
+### Objection.
+
+**But when ye say the body of Christ is corporally and substantially present, ye yourselves enunciate the mode of presence: *ergo* that mode is not incomprehensible and ineffable?**
+
+**The word *corporally* and other of that kind, we understand not of the mode of presence — which we commit to Christ — but of the true presence of the substance of his body**. Although **the mode by which that body is present we cannot understand or explain**: **we feign not that the body of Christ is present locally, as water in a sack, as a knife in its sheath, or as a sword in its hilt — but we note only the true presence of that body itself by these words, and seek nothing else by them**. Much less do we concede, **the status of the controversy to be about the mode of presence — for concerning the mode we contend not, but that we commend to Christ, since he hath not manifested it to us**. **The presence of the body and blood of Christ we teach and believe; the mode of presence we cannot express. If this be not done in a natural mode, then in a celestial, supernatural, incomprehensible mode, and in this life to us ineffable, of necessity it is done.**
+
+— ❦ —
+
+## Question 22. How is the sacred Supper instituted?
+
+**How is the sacred Supper instituted?**
+
+**The form is clear from the words of institution**: for **so and not otherwise is it to be administered, than as Christ himself instituted it**: *"Take bread, eat, this is my body"* — which the disciples did: **so similarly also the cup he gave to them, and said: *"Drink of this all of you, this is my blood of the New Testament."* And the disciples all drank of it.**
+
+In sum, the particle **"Do this"** pertaineth to the whole action of the sacred Supper, and teacheth that so it must be administered, as by Christ himself it was instituted, and not otherwise. **A great sacrilege therefore it is, that the Papists against the mandate and institution of Christ deprive the Laics of the use of the cup.**
+
+— ❦ —
+
+## Question 23. When did he institute it?
+
+**When did he institute it?**
+
+**In the night in which he was delivered up** — **Matt. 26**.
+
+— ❦ —
+
+## Question 24. Where did he institute it?
+
+**Where did he institute it?**
+
+**In the guesthouse, where he ate the passover with his disciples** — **Luke 22**.
+
+— ❦ —
+
+## Question 25. What kind of bread did he use?
+
+**What kind of bread did he use?**
+
+**Unleavened or unfermented** — as sufficiently is clear from the Evangelists. **But concerning the wine as to species nothing certain is prescribed** — and it sufficeth, that we be certain that that wine was true — **Matt. 26**.
+
+— ❦ —
+
+## Question 26. Must we recline in the Supper of the Lord, as the Lord reclined with his disciples?
+
+**Must we recline in the Supper of the Lord, as the Lord reclined with his disciples?**
+
+**Concerning this Christ hath given us no mandate: neither therefore let us make in it a mandate, nor impose it on consciences.**
+
+— ❦ —
+
+## Question 27. What is to be established concerning the breaking of the bread?
+
+**What is to be established concerning the breaking of the bread?**
+
+**The Adversaries indeed contend greatly, that the bread must as it were with a noise be broken**: but **since Christ hath given no mandate about it, one must look more to the distribution itself**. For **to break in Scripture — Isa. 58:7 and elsewhere — is the same as to distribute**. And **from this external circumstance nothing accedeth to or departeth from the thing itself**.
+
+— ❦ —
+
+## Question 28. Ought the cup to be delivered into the hands of the communicants?
+
+**Ought the cup to be delivered into the hands of the communicants?**
+
+**Each thing they vehemently urge** — that **both the bread and the cup should be delivered into the hands of the communicants**. But **it is not necessary to dispute much of these circumstances, since Christ hath left no special mandate concerning them**. And **it is inequitable in this to burden the consciences of the faithful — provided otherwise according to the institution of Christ the Supper be administered**.
+
+— ❦ —
+
+## Question 29. For whom is this Supper instituted?
+
+**For whom is this Supper instituted?**
+
+**Respondeo**: **For the Church, and indeed for the living, not however for the dead.** For on this account he saith *"eat, drink"* — neither of which the dead can do. Which is to be noted against the Papists, who offer the Supper also for the dead.
+
+**Nor also is it instituted only for priests, but for the whole Church** — as from the repetition of the institution in Paul one may see, **1 Cor. 11**, where Paul expressly saith, v. 23: *"I have delivered to you"* (to the whole Church) *"which I received from the Lord"* — but these were not all priests or ministers of the Church, but the greatest part of them were laics — which also itself the Papist doth against, who despoiled the Laics of the use of the cup.
+
+— ❦ —
+
+## Question 30. But what is the end unto which it is instituted?
+
+**But what is the end unto which it is instituted?**
+
+**This is expressed in the words of Christ, when he saith**: *"This do in my commemoration."* And **1 Cor. 11:26**: *"Ye shall announce the death of the Lord until he come."* That is: **use this sacred Supper of the Lord unto the confirmation and increment of your faith: give thanks with a faithful heart to Christ your Saviour for the death which he underwent for us**.
+
+— ❦ —
+
+*[Locus XXVII Part 6 closes (OBIECTIO on dentibus + Q21–Q30 on the mode of presence + institution details + finis). Part 7 (Q31 what the Supper effects — 5 sub-points + Q32 legitimate use — 4 sub-points + Q33 whether communication in Supper is same as in Baptism + OBIECTIO on analogia sacramentorum) follows in T60. 507 top-level Q + 254 Obj rendered so far.]*
