@@ -675,6 +675,397 @@ Formerly the scholastics offered a similitude of *three putting on one out of th
 
 Hence the usual saying: **The Son acts through Himself, but not from Himself** — that is, the Son *is sent* to accomplish the work of redemption and salvation.
 
+***
+
+### The *Descriptio Dei Quinque Membris* — the Fivefold Description of God
+
+From these things, therefore, of which hitherto it has been said, there is *built up in the Church a description of God,* comprehended in **five members** — of which the *first* shows *what God is absolutely;* the *second, what God is relatively;* the *third, what are the general effects of the Trinity;* the *fourth, what are the spiritual effects;* the *fifth, what is the end of the divine patefaction.* The definition is this:
+
+**1.** ***God is one divine Essence, spiritual*** (John 4: ***πνεῦμα ὁ θεός*** — without any corporeal mass), ***intelligent, eternal, other than all creatures, true, good, just, chaste, merciful, beneficent, most-free, of immense wisdom, omnipotent, omniscient, omnipresent, all-seeing, all-hearing, all-judging.***
+
+**2.** ***The eternal Father, who begat the Son His image from eternity; and the Son, the co-eternal, co-essential Image of the Father, born by "speaking," or by cogitation; and the Holy Spirit, proceeding from the Father and the Son*** — as the divinity has patefacted itself by *certain word, testimonies, and miracles.*
+
+**3.** ***That the eternal Father, with the Son and the Holy Spirit, has constituted, and preserves, heaven and earth and all creatures.***
+
+**4.** ***And gathers to Himself the Church, through and on account of the Son, in the human race made unto His own Image.***
+
+**5.** ***That He may be acknowledged and celebrated by her, and eternally worshipped*** — all *other cults being damned* which feign other gods.
+
+*(We have stammered thus far concerning God according to the patefaction. Empty questions we omit. For — to use Dr. Luther's words — it is an indisputable truth that God is one and triune, and that this unity is more one than the unity of any creature — even, mathematically speaking, it is a unity — and yet it is the divinity of three distinct Persons.)*⁷⁵
+
+### Luther on the Trinity — the *Thirty-Eight Rules*
+
+Let these words then be in view:
+
+**1.** The Holy Scripture teaches God to be most-simply One, and three (as they call them) *truly-distinct Persons.*
+
+**2.** Of these Persons *each is the whole God,* outside of whom there is no other God.
+
+**3.** Yet it cannot be said that *any Person alone is God.*
+
+**4.** For this were the same as to say *there is no God* — since, any Person being excluded, the *whole God* would be excluded, and any Person would be excluded.
+
+**5.** Here reason — corrupted by original sin — is to be *deprived,* nay *extinguished* along with its light and wisdom, in obedience to God.
+
+**6.** It is one thing to say: *"One Person is the whole God;"* another, *"One Person alone is the one God."*
+
+**7.** *How the Person is distinguished from the divinity,* it is not for reason to inquire, nor for angels to comprehend.
+
+**8.** Indeed, it is *perilous and to be avoided* to think that there is *any* distinction here, since each Person is the *very-same-most* and *whole* God.
+
+**9.** Frustrated is the cogitation, and worth nothing, of *Scotus* and the like, who have feigned a *formal or other distinction* here.
+
+**10.** They know not what they say or affirm when they wish to help reason with such *pharmacies of wisdom.*
+
+**11.** For however subtly those things seem to be said, reason still does not grasp that a *formal distinction is anything other than a real or essential distinction.*
+
+**12.** Because reason does not grasp *one indistinct thing being three distinct things.*
+
+**13.** Therefore *mathematics* and every cogitation *of the whole creature* must be excluded in the *believing of the divinity.*
+
+**14.** Although it seems no less impossible that among these three things *of one simple essence* one, *without the other,* has been made man.
+
+**15.** But it is truly *more impossible* that *one indistinct thing be three most-distinct things.*
+
+**16.** To believe therefore that the Son of God has been made man is *less* than to believe that He is consubstantial to the Father and the Holy Spirit.
+
+**17.** That dialectic argues that these things do not square with its rules, we must say: ***"Let the woman be silent in the Church."***
+
+**18.** No wonder if Arius, the Jew, Mahomet, and the whole world deny that Christ is God.
+
+**19.** For a *blind man* judges of colour, and they esteem the *Creator subsisting through Himself* to be similar to a creature which consists of *nothing.*
+
+**20.** Some ask whether it must be said: *"The Father always begat, or always begets, the Son"* — or, *"the Son always was born, or is always being born."*
+
+**21.** They who hold to the *first* mode of speaking argue that the Son of God ought to be said ***semper natus*** — *always-born* — since past-perfect tense signifies *perfection,* the present *imperfection.*
+
+**22.** *Hilary* and others dare to say: **"The Son is always being born of the Father, and the Living from the Living lives, and from the Unborn is born."**
+
+**23.** But I think that this is more a *grammatical and philosophical* than a *theological* controversy, by which flesh and reason are moved.
+
+**24.** Since it is certain that in the divinity — which is *itself eternity* — there is no place for *Grammar or Philosophy,* where *the same is past, present, and future.*
+
+**25.** Whence the past-perfect *"Born,"* of the Son, does the same thing as the present *"Is-Born,"* and the future *"Will-be-Born."*
+
+**26.** Because *the same Son is from eternity, in eternity, born, being-born, about-to-be-born* — that is, ***eternal from God, God.***
+
+**27.** As it is rightly said of God to us: *"God has remained, remains, will remain,"* when nothing else is signified than that God is *always,* or *eternal.*
+
+**28.** *His "was-being"* is *always to be;* *His "will-be"* is *always to have been;* *His "present"* is *always to have been and to be about to be* — that is, ***eternal.***
+
+**29.** This is that Name ***Iehovah,*** which the Jews call the *sacred Tetragrammaton and Ineffable,* even if what they say, they do not understand.
+
+**30.** *Aristotle* also sensed that *the eternal or infinite,* as such, is *unknown and incomprehensible.*
+
+**31.** Indeed, he affirms that the infinite or eternal, as such, *cannot exist,* and according to reason he was seen to speak rightly.
+
+**32.** But he did not see the consequence — or rather did not wish to see it — namely, that from this it follows *for reason* that *God does not exist and cannot exist.*
+
+**33.** Therefore so coldly does he dispute concerning religion everywhere, and *deep down he is a perfect Epicurean.*
+
+**34.** He concedes, however, the *infinite in power and being,* and that it can be known — although here again the *eternity of the world* has confused him.
+
+**35.** *St. Paul,* Rom. 1, rightly says: ***That which is known of God has been made manifest to the nations*** — that is, His *eternal power and divinity.*
+
+**36.** But this notice is *obscure* and *in part* — although the notice of the faithful, too, in its own way, is *in part* — just as a *line* touches the *whole sphere* but *in a point,* and does not comprehend the whole.
+
+**37.** He who wishes not to *err* in scrutinising, nor to be *oppressed by the glory of the majesty,* *let him by faith touch and apprehend the Son of God manifest in the flesh.*
+
+**38.** For here the *splendour of the eternal glory* touches the object, and it is a *reflected ray illuminating every man coming into this world.*⁷⁶
+
+***
+
+## Part III — *De Prima Trinitatis Persona:* What We Ought to Believe of the First Person
+
+**First,** let us know that God the Father of our Lord Jesus Christ is, and is named, ***the first Person in the Trinity*** — *not* diverse in the account of eternity, essence, dignity, or glory; nor that the Father is *prior* to the Son, or the Son is *unequal in essence and eternity* to the Father — but only in this respect: that by this *natural order and conducting* which our mind best apprehends, we may better consider the *distinction of the Persons.* Especially since the Father has Himself as *cause and origin,* because the Father is the *eternal Father of the eternal Son.*
+
+For there never was a Father when the Son and the Holy Spirit were not simultaneously with Him: but as the Father *has always been Father* (so that the name *Father* is not something later attained), so also *the Son has always been Son* with His own Father, always existing; in the same manner *also the Holy Spirit has always been Spirit of God, God,* from the Father and the Son *inseparable.* But to these three Persons *one common* — the same, and befitting — *essence, eternity, power, and will* belongs.
+
+**Second,** the Father is, and is named, ***the eternal God, the fountain of all good — ἀγαθὸς — Gott / gut.*** And, as said above, this appellation *God* pertains to Father, Son, and Holy Spirit. Therefore the rule is to be held: ***Whatever is said absolutely of one Person in the Trinity*** — that is, *of God,* or *of one essence,* and *of the common essential and external attributes* — ***the same is also to be said of the other two:*** as, *"The Father is God, Lord, Almighty, good, merciful,"* and so on. *Such also is the Son; and such the Holy Spirit.*
+
+**Third,** the *first Person* is, and is named, ***Father,*** with respect to the *only-begotten Son.* For it is the *Person begetting* the Son *by the communicated essence.* But also the *whole Trinity* is and is named ***Father,*** with respect to *men,* by reason: **(1)** of *Creation,* since we are made unto the Image of God; **(2)** of *Government;* **(3)** of *our Adoption into sons;* **(4)** of the *Donation of all good things;* **(5)** of *Preservation.* Hence we say: ***Our Father, who art in heaven.*** And this appellation *Father* admonishes us: **1.** of *faith and of the promises;* **2.** of the *magnitude of God's love toward us* — for as a father has compassion on his sons, so the Lord has compassion on those who fear Him (Ps. 103); **3.** of our *filial reverence,* which we owe to God as to a Father, in these four things:
+
+- **First, in honour** — which we ought to exhibit by *heart* (that is, by true acknowledgement, invocation, thanksgiving), by *mouth* (that is, by confession, and by the holy use of the divine Name), and by *external gestures,* or *by religious zeal of ministry* — according to that, Mal. 1: ***"If I am your Father, where is my honour?"***
+- **Second, in imitation,** which consists in *dilection, mercy,* and *perfection.* Of dilection Eph. 5: ***"Be imitators of God as most-dear sons, and walk in love."*** Of mercy toward others, Luke 6: ***"Be merciful, as your Father is merciful."*** Of perfection, Matt. 5: ***"Be perfect, as your heavenly Father is perfect"*** — that is, be perfect *in Christ, by imputation and by beginning.*
+- **Third, in obedience to be rendered** — both because He is *Father,* and because the *only-begotten Son* by His own example teaches us to obey; because no one worships the Father more than the Son; and because the benefits which we receive from this Father are *infinite;* and finally because He punishes the *disobedient and contumacious,* and *promises rewards to the obedient.*
+- **Fourth, in patience to be rendered** in afflictions and the Cross, and in the *expectation of paternal deliverance.*
+
+**Fourth,** in the Symbol the word ***Omnipotens*** is added, that the Father is *Almighty, fountain and origin of omnipotence,* which He *as it were transfuses from eternity into the Son and the Holy Spirit.* And this appellation admonishes us of these greatest matters:
+
+**1.** That He *can do all things which He wills* — that is, which He has constituted, ordained, promised.
+
+**2.** That *no secondary causes,* physical or rational, and *no power,* can *obstruct* the will, power, and action of God.
+
+**3.** That He *preserves the Church* even *destitute of human means.*
+
+**4.** That He *will destroy the enemies.*
+
+**5.** That our *hope of deliverance is certain,* because God is *omnipotent and truthful.*
+
+**6.** That the *divine omnipotence declared by expressed word* is the *foundation of all the articles of faith,* and the ***infallible rule of the πληροφορία of our faith.*** For with God nothing is impossible, indeed nothing even *arduous.* God's *"cannot"* is *"will not."*
+
+> ***Augustine:*** *"They who are wise according to God hold the greatest argument of all things which seem incredible to men and are contained in the Sacred Scriptures — whose truth is asserted in many ways — namely, the truthful omnipotence of God, whom they hold with certainty in no manner able to lie, and able to make that which seems impossible to the unbeliever."*
+
+> ***Hugh [of St Victor]:*** *"When you wonder at something and perhaps your cogitation shall say to you, 'How can this be?' — think on the Maker, and it shall cease to be a wonder — or at least it will not be incredible. And if the Almighty Maker is thought on, whatever it be will not be impossible."*⁷⁷
+
+***
+
+### Objections of the Secure Against the Omnipotence of God
+
+#### Objection I
+
+> **God cannot lie (Heb. 6), and cannot deny Himself (2 Tim. 2). Therefore He cannot do all things.**
+
+**I answer.** ***Not to be able to lie, and not to sin,*** is *the testimony of an infinite and perfect power,* not of infirmity — just as if it be said of an *honest man* that he *cannot* or *will not* perpetrate some crime, this very fact proves the man to be honest. For if he perpetrated the crime, he would neither be nor be able to be called *honest.*
+
+#### Objection II
+
+> **God cannot make a done deed undone, nor make twice four not eight, nor two mountains without a valley (as Pliny speaks). Therefore He is not Omnipotent.**
+
+**I answer to the antecedent.** *God's omnipotence must be weighed not from mendacity, but from truth.* God is *truthful,* nay is *the very truth.* Wherefore, unless He wills by a certain peculiar providence, which is expressed by word, He does not make deeds undone, nor twice-four-not-eight, because He completes those things which *cohere with divine truth* and do not *overthrow the truth,* but establish it.
+
+Next, *to say that God cannot do something* is either *true-believers' and pious speaking,* or *blasphemers' and empactae* (bound-to-error), or *heretics' and apostates'.*
+
+**True believers** say *God cannot lie,* because they are *certain of God's omnipotence, truth, promise, and mercy.* Likewise, when they say *God cannot do something repugnant to God's power, truth, and majesty,* they always understand *His will* — as: *"God cannot make a done deed undone"* means *God does not will to make a done deed undone,* because He is truthful. And yet, when He wills and when He said, *even without diminution of the truth,* He can make a done deed undone, and *conversely* — although no human reason or philosophy grasps this. And certainly *in the acceptation and justification of a man* He makes the deed undone: not that sin was not committed by us, but that as though *not ever committed* it is *deleted and obliterated* through and on account of the Son.
+
+**Blasphemers and mockers** play with sarcasms and mock the Creator with such utterances as *"God cannot do this or that."* Wherefore we leave them. And we enumerate with them also the ethnics — Pliny, Galen, and the like.
+
+**Heretics** are not much better than these. For as **Galen** says: *"Moses thought all things possible to God — even if He should will to make a horse or an ox out of ashes; but we do not so sense. For if God similarly should will to produce hairs out of soft skin, He could not do it,"* and so on. So they themselves too say, when something does not cohere with human reason and philosophy, and seems to fight with the physical rules or axioms — that indeed there is *need of a fitting διάνοια, not fighting with reason, as in the Supper.*⁷⁸
+
+#### Objection III
+
+> **A physical and human body cannot be at once, at the same time, in different places. The body of Christ is a true and natural human body. Therefore it cannot be at the same time, at once, in different places — as in the administration of the Supper, which is performed on earth. And consequently, the body and blood of Christ are not exhibited to us in the Supper, but only signs of those things.**
+
+**I answer first to the whole argument.** *From physical rules* one *neither can nor should* judge concerning the divine mysteries, which are subject to *no physical rules,* but there is need of the *word,* to which God wills us to be bound.
+
+Then to the major. In those things which are *merely physical,* the *physical truth remains* — insofar as they themselves retain the physical nature and property, that is, *so long as God Himself does not alter them.* And to that extent the major is true, as a physical axiom, of those things, that is, which are *subject to physical conditions* and to the *command of the inferior nature.*
+
+To the minor. The minor is true for all eternity. For Christ has a *human and true body,* and, physically speaking, *as a body,* by its nature ***περίγραπτον*** (circumscribed) and in some certain place, as all human bodies are, by *corporeal location* somewhere, according to the mode of a true body — just as *circumscribed and in visible form* Christ the man lived on earth, and by that reason of circumscribed and visible body was withdrawn from us — who dwell on earth — into heaven, so that in that mode and presence He no longer converses with us on earth till the judgement, but in heaven He appears to the angels and to the blessed *in that mode or in that circumscribed form,* and *is not at once and simultaneously in different places,* nor in the Supper. And on this there is no question or controversy.
+
+But now the question is *whether Christ's body cannot and should not be considered otherwise than as it is a physical body,* ***περίγραπτον ἢ τοπικαλῶς*** somewhere; or whether it *exceeds, transcends, and surpasses* every physical reason, and stands *far otherwise* than the reason, dignity, and capacity *of all — not only human bodies but even all spiritual creatures.*
+
+If the *first* member is asserted — and Christ's body is proposed as *to be considered only according to physical dimensions and a certain locality* — many ***παράδοξα*** and *blasphemies* will arise. For then will be denied *the Conception, the Birth, the personal union, or the assumption of the human nature into the Person of the Λόγος; the Resurrection through the sealed sepulchre; the entry through closed doors; the ascension into the heavens; the exaltation of the human nature to the right of God Himself.* For all these things — and many more — *surpass every physical reason and transcend all the rules of nature and all the conditions of other human bodies.*
+
+If the *latter* member, according to the Scriptures, is asserted — namely, that the reason of Christ's body is *far otherwise* than that of other human bodies, since it is *united to the divinity,* and, as ***Ambrose*** (in *De fide resurrectionis*) excellently says, *has entered into the consortium of the Holy Trinity — not as a part of the Trinity, and not as equal or* ***ὁμοούσιον*** *to the Trinity, but by reason of the ineffable union, being evected to the right of God in the Logos Himself* — then the resolution of the question is easy for pious minds, namely, comprehended and indicated in these four heads, as it were:
+
+**1.** *Christ's body by its own nature is subsumed indeed even under the physical rules,* which are: *Every body is finite and in a certain place;* because it is a *true body:* but by reason of the *personal union with the Logos,* and of its *glorification and exaltation to the right of God,* it *transcends all physicals,* and has all things *under itself and present to itself,* and *dominates all,* and *pre-eminently rises above all things,* and *has all places subject to itself,* because it *has been evected outside and above all the heavens,* outside and above which *there is no physical place.*⁷⁹
+
+**2.** And though Christ, in a *visible form and sensible mode of presence,* does not now converse with His Church on earth by His body *locally* — yet He *knows and has* another than the local, visible, sensible mode, by which He can *effect* everything He said and promised, and can *by His body be present* to His Church, as He said and promised: to be present by His body *not only in heaven but also in His Supper, which is celebrated on earth.*
+
+Consider the *negative impiety* — as if someone should say: *"Christ in visible form and sensible mode of presence does not by His body locally dwell with us on earth; therefore in no way can He effect by His universal wisdom and power that on earth to His Church according to His human nature He be present, in another than local, visible, and sensible mode, though in the words of His Testament, and before the Ascension to the Apostles, and after the Ascension to Paul in the third heaven, He handed down and confirmed: that in the action of His Supper — which is celebrated on earth in the assembly of the Church — He is to be present, not only by His divinity but also by His body and blood, to His Church."*
+
+**3.** Christ can be *wherever and whenever* He wills to be, by His body and blood, *and by whatever modes He wills — even above and against the nature and properties of other physical bodies* — because *God is Omnipotent,* and *with His body, in it, and through it, He does whatever He wills, without destruction of the body or of His human nature.*
+
+**4.** Christ truly by His own true body is there where He has willed and manifest by *most-certain word* — indeed by *Testament* — has promised to be, because *He is truthful,* even if this seems to human reason, and to the process and property of natural things, and to physical rules, *absurd, contrary, and impossible.*
+
+**To deny these things is to deny:** (1) Christ's *omnipotence;* (2) Christ's *truth;* (3) to argue Him of *falsity;* (4) to prefer *human reason to the word, wisdom, and power of Christ;* and *to subject Him to physical rules and second causes;* (5) *and to be by no means Christian,* whose peculiar mark it is *to captivate every intellect in the obedience of Christ* (2 Cor. 10).⁸⁰
+
+#### Objection IV
+
+> **Christ by His body ascended into heaven, and a cloud received Him — many men beholding — and from thence He will return unto judgement. Therefore He neither can nor wills to be present by His body on earth, when the Supper is administered; nor does He descend again to the earth before the day of judgement.**
+
+**I answer.** In the antecedent is a ***fallacy of composition and division.*** For these are to be conjoined: ***"He ascended into the heavens; He sits at the right hand of God the Father Almighty; from thence He will come to judge the living and the dead."*** The word ***"from thence"*** refers *not* so much to the *heavens* to which He ascended and above which He ascended, as to the ***right of the virtue and majesty of God.*** For it is referred *principally to the nearer, not to the more remote* — though we expect Christ to return from the heavens with glory to us.
+
+That which is written in Acts 1: *"A cloud received Him from their eyes"* — refers to *the history of the Ascension* which was past, and was done *visibly,* many men seeing Christ being elevated and received by a cloud. But this *little cloud* neither takes Christ away from us, nor ought it to obstruct us so that we do not perceive the truth. For the Scripture not only says that a cloud received Him, but declares the Ascension by these forms of speaking: ***He ascended to the Father*** (John 20); ***He entered into the glory of the Father; He ascended above all the heavens; He penetrated the heavens; He was made higher than the heavens*** (Eph. 4; Heb. 7); and, what is consequent, ***He sits at the right of God the Almighty.*** Here *no local inclusion* is described, but *the divine excellence, majesty, and power* — as Ps. 8: *"His glory is above the heavens."* Job 11: *"The Almighty is higher than heaven."*
+
+And **Chrysostom** on ch. 1 to the Hebrews rightly says: *"The word 'in the highest' does not include God locally, but signifies Christ to be pre-eminent above all things — as one who has come even to the very throne of the paternal glory."* And **Bucer** excellently: ***"Since the heavens to which Christ ascended are above all the heavens, I certainly dare not to define them except by the words of Scripture, not by the predicaments of our reason. But Scripture defines them only by beatitude, majesty, sublimity, divine virtue — not by intervals of places."***⁸¹
+
+Wherefore the article on the *Ascension of Christ* by no means overthrows the proper sentence of the words of the Supper on the *substantial presence and manducation of the body and blood of Christ in the Supper,* but *confirms* the ***εὔρος of the words of the Supper*** — because Christ ascending into heaven, having left the world (that is, having laid down His *exinanition*), was *exalted to the glory and power of the Father,* and from the reason of living of this age passed into the *glorious and celestial reason of living, which eye has not seen, nor ear heard, and into the heart of man it has not ascended.* Christ therefore, when and how and where He wills, can exhibit His body to us on earth as He promised — nor is there need either of a *ubiquity fiction* or of an *imagination of a corporeal and local descent* — because *not by some reason of presence of this age* (for in this mode Christ *left the world,* and is *no longer in the world*), but by *another mode unknown to us* He is *present there* where He said and promised that by His body and blood He wills to be present. This *praise of truth and Omnipotence* we willingly attribute to Christ, and *reverently we commit the mode to Him.*
+
+#### Objection V
+
+> **What has been consumed by worms, or has vanished into thin air, has been burned, killed, and altogether dissipated — that cannot coalesce into an integral body such as it was before. Human bodies putrefy, are consumed by worms, and are dissipated. Therefore there is no hope of the resurrection of bodies, but the resurrection is impossible.**
+
+*(From Justin's* Ethnic Questions*:)* ***"If it happens that a man dies in the sea and is then eaten by fish, and again by other men in the fish eaten — how will he receive back the flesh consumed by other men? For either he must rise here without the flesh which the other men consumed by eating the fish, or those bidden to render back the parts of his flesh must deposit them and become maimed, that they may fill up what is lacking to those whom they unjustly consumed."***
+
+**I answer.** These are the utterances of the *empactae,* of men of *stony heart,* as Justin says. Physically speaking, indeed, these things which they report are true. For *physics* does not understand what *Omnipotence* is. But we ought to oppose to such objections the *words of the Angel:* ***"With God no word is impossible"*** — that is: *When it is established that God wills something, and this will is patefacted by certain word, it is not to be inquired whether and how the promised thing can come to pass, but we ought simply to assent to God's word, and to attribute to Him the praise of truth and Omnipotence. God can do nothing that He wills to do* — nothing, that is, but what He Himself wills not to do.
+
+**Justin** eruditely answers: *"That a man is eaten by fish, and a fish by men, does not resolve a man into a fish, nor a fish into a man — but the resolution of both is into the elements from which they were first composed, even though the mode of resolution is mutual consumption. But of every resolution, in whatever mode it is done, the end is that what is resolved passes into elements,"* and so on.
+
+**The same:** ***οὐχ ἑτέρου τινὸς δέονται οἱ ἀνιστάμενοι ἐκ τῶν νεκρῶν, πλὴν ἢ προστάγματος*** — *"They who rise from the dead need nothing other than God's command: 'Arise ye dead, and come to judgement.'"*
+
+> ***πιστεύομεν τῇ φύσει τὰ φυσικά, τῇ τέχνῃ τὰ τεχνητά, καὶ τῷ Θεῷ τὰ θεῖα, τῇ θείᾳ δὲ αὐθεντίᾳ οὐδέν ἐστιν ἀποθές· εἰ ἡ θάλασσα καὶ ἡ γῆ τῷ θείῳ προστάγματι πάλαι δέδωκεν, ἃ οὐκ ἔλαβε, πῶς οὐν οὐ μᾶλλον δώσει ἃ ἔλαβε προστάξαντες;***
+
+*That is:* ***We believe to nature the things natural; to art the things artificial; and to God the things divine. But to divine authority nothing is disobedient. If the sea and the earth by divine command have long ago given what they did not receive, how much more shall they now give up, when He commands, what they have received?***⁸²
+
+*(Other objections we now omit.)*
+
+***
+
+### The Five Modes in Which God Has Patefacted His Omnipotence
+
+But God has *patefacted His omnipotence* in many modes — chiefly these:
+
+**1.** In the *Creation of things ex nihilo,* and the *conservation of creatures.*
+
+**2.** In *miracles* set forth *against the nature of things* — the drying of the sea, the standing and reversing of the sun, the resuscitation of the dead, the fecundity of the barren, the birth from a virgin, and so on.
+
+**3.** In the *Mission of the Son into the flesh,* the making of Him man *outside the series of things.*
+
+**4.** In the *governance of the Church, exceeding and surpassing the capacity of all creatures.*
+
+**5.** In the *last resurrection of all singular men, and the appearing unto judgement.*
+
+***
+
+### Luther to Dr. Pontanus — the Two Miracles at the Window
+
+**Luther,** to Dr. Pontanus:
+
+> *"Just now I have seen two miracles, looking out from the window. **One,** when I beheld the stars in the sky, and that whole beautiful vault of God, where in no part I noticed stakes or columns which sustained that vault — and yet the sky did not fall, but still the vault of God stands firm without columns. **The other** miracle is that I saw many, great, and dense clouds hanging over our head as the greatest sea, and yet no foundation on which they might lean, nor vessel in which they might be contained, appeared; nor did they fall down on us, but they greeted us with rounded aspect and flew away. And when they had passed, there shone forth the foundation and the roof of them, which held them lest they fall — namely, the Rainbow. Behold, a thin, exiguous, and infirm foundation and roof — which vanishes in the clouds themselves, and is more similar to a shadow and to a ray on painted glass than to a foundation,"*⁸³ and so on.
+
+*(Enough now to have admonished of God's Omnipotence.)*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Part IV — *De Creatione Rerum:* On the Creation of Things
+
+The mention of the *Creation of heaven and earth, and of all creatures visible and invisible,* is added — that a *manifest example may be proposed to all* of the *Omnipotence of God creating all things ex nihilo and conserving His creatures.*
+
+There are *five circumstances* to be considered concerning Creation, which are expressed by these attributes of God: ***Sapiens, Omnipotens, Liberrimus, Iustus, Bonus*** — *Wise, Almighty, Most-Free, Just, Good.*
+
+### The First Circumstance — the Efficient Cause is the Whole Trinity
+
+The **efficient cause,** or *architect of the world and of all creatures,* is the *whole Trinity — Father, Son, and Holy Spirit* — as Ps. 33 is written: ***"By the word of the Lord the heavens are created, and by the Spirit of His mouth all their host."***
+
+But that in the Symbol *Creation is attributed to the Father,* although the work is *common to the divinity,* is for **three causes:**
+
+**The first** is that, as *the Father is the fountain of the divinity,* so by *His will* all things existed — which His will He expressed and completed *through the Word, the Son* — and He *fosters and preserves* the creatures *through the Holy Spirit.* For thus also **Basil** speaks: the Father is the ***προκαταρκτικὴν αἰτίαν τῶν γενομένων*** (the *initiative cause of the things that come to be*), the Son the ***δημιουργικήν*** (the *demiurgic*), and the Holy Spirit the ***τελειωτικὴν αἰτίαν*** (the *perfective cause*).
+
+**The second** cause is that *each Person has revealed Himself chiefly in some one work:* the Father in *Creation,* the Son in *Redemption,* the Holy Spirit in *Sanctification.*
+
+**The third** cause is that *the first work ad extra* — that is, *Creation* — is meritedly ascribed to the *first Person of the divinity,* as a *sign and note* which shows the Father.⁸⁴
+
+### The Second Circumstance — the Matter from Which is *Nothing*
+
+The **matter from which** all creatures are made and are named is ***Nothing*** — against the physical principle *"Out of nothing comes nothing."* For all things came into being *by God's will and word alone,* as is written: ***"He Himself spoke, and it was made; He Himself commanded, and it stood"*** (Ps. 33). Likewise, Rom. 4: ***"God calls those things which are not, that they may be."***
+
+### The Third Circumstance — God Willed Most-Freely
+
+**God, willing most-freely,** created the world *when He willed* — being Himself *before the world from eternity,* nor needing the world or secondary causes; but being a *most-free agent,* and ***αὐτάρκης ἐν ἑαυτῷ*** — *sufficient in Himself* — not bound to any necessity or secondary causes or physical rules. Ps. 135: ***"All things whatsoever He willed, He did in heaven and on earth."*** Eph. 3: ***"God is able to do above all things super-abundantly than we ask or by mind understand."***
+
+### The Fourth Circumstance — True Providence
+
+There is *true Providence,* and God has *not departed from His own work,* but *is present to His creature essentially, presently, and powerfully;* He *sustains, fosters, preserves* the nature constituted by Himself. Heb. 1: ***"Bearing all things by the word of His own power."*** Acts 17: ***"In Him we live, and are moved, and are."***
+
+### The Fifth Circumstance — the End of Creation
+
+God has constituted the world and all creatures to *this end:* that He may *patefact Himself,* show *testimonies of Himself,* *communicate His goodness to others,* and *gather to Himself a Church from the human race,* by which He may be *acknowledged and celebrated in all eternity.*
+
+***
+
+### The Definition of Creation
+
+From these things a definition of Creation can be built up:
+
+> ***Creation is an external action of God, by which God, willing, has fabricated all other things which are outside the divine essence, invisible and visible, ex nihilo, good and useful, by His own counsel, that He might constitute for Himself an eternal Church, by which He may be acknowledged and celebrated in the whole of eternity.***
+
+**Examination of the Definition:**
+
+***"Action of God"*** — namely, of the *Father, of the Son, and of the Holy Spirit* — for the works ad extra are undivided. And let the solution of the argument be held:
+
+> **He who invokes God the Creator of heaven and earth invokes the true God.**
+> **Turks and heathens invoke God the Creator of heaven and earth.**
+> **Therefore they invoke and worship the true God.**
+
+**I answer to the major.** The major is true *according to the divine patefaction,* as God has *patefacted Himself in His word* by the *Son sent.* **The minor I deny.** For *there is no other Creator except the Father, the Son, and the Holy Spirit,* as the divinity has patefacted itself. Since the Turks and the heathens *deny* this God, by no means do they invoke the true God, but *feign for themselves an idol* which is not God — according to that (John 4): *"You worship what you know not;"* and 1 Cor. 8: *"An idol in the world is nothing;"* Ps. 96: *"Vain are the gods of the nations — Elilim, as it were Elelim, not gods."*⁸⁵
+
+***
+
+### The Age of the World
+
+***"When God"*** — namely, ***5,536 years ago,*** counting back from this our current year ***1574.*** Before that, *eternity was, is, and will be.* Then began *time,* in which we live until the judgement. **Eusebius** and others count from the world's constitution to Christ the man born ***5,199 years,*** when there are not more than ***3,963*** according to the *true and accurate Chronology.* If those men were now living, they would count this year of ours ***6,772.***
+
+The diversity arises hence: the ancients held the *senary number* in reverence — since God on the *sixth day* rested from Creation, and in the *sixth age* the promised Messiah had to be expected, and on the *sixth day* His passion, crucifixion, and death took place, and the *sixth millennium of the world* was the last predicted — and they made much of it. Therefore also they *admired the parts of the same number,* which are *one, two, three,* as though they contained the *mystery of the Trinity* — the unity for the Father, the duo for the Son *in two natures,* the tria for the Holy Spirit *proceeding from the Father and the Son* and the *third Person of the divinity.* Hence it is said to have come about that the ancients — that they might admonish posterity of so great things and mysteries (of the one divine essence, of the three Persons, of Creation, of Redemption, of the last judgement) — always *added to the numbers of the years of the world the parts of the senary, and finally the senary itself,* and this *plainly μυστικῶς,* as ***1.2.3.6.*** When posterity — especially the Egyptians — did not understand these *symbola,* they judged that these were numbers *to be added* to the years of the world. Hence therefore they have numbered *one thousand, two hundred, and thirty-six years more* than the truth itself requires or admits. If we take these away, the numeration of the years of the world will be *plain and perfect,* and Eusebius and others will agree with us — thus:
+
+> **5199** [Eusebius: from Creation to Christ]
+> **–1236** [1.2.3.6 — the mystical marker]
+> **3963** [True numeration from Creation to Christ]
+
+And:
+
+> **6772** [Eusebius's method for A.D. 1574]
+> **–1236**
+> **5536** [Actual years since Creation, this year 1574]⁸⁶
+
+### *Ex Nihilo Fabricauit* — Basil's Three Modes of Creation
+
+***"Fabricated ex nihilo"*** — *not from pre-existing matter.* **Basil:** *Three modes of Creation are found in Scripture:*
+
+**The first** is *the fabrication of things ex nihilo.*
+
+**The second** is *mutation, or* ***ἀλλοίωσις ἀπὸ τοῦ χείρονος εἰς τὸ κρεῖττον*** *— from a worse to a better state,* as: ***"Create in me a clean heart, O God."***
+
+**The third** is the *resuscitation of the dead;* Ps. 104: ***"Thou shalt send forth Thy Spirit, and they shall be created; and Thou shalt renew the face of the earth."***
+
+### *Bonas et Utiles* — Good and Useful
+
+***"Good and useful"*** — Gen. 1: ***"God saw all things which He had made, and they were very good."*** God alone indeed is *good* (Luke 18) — by *nature, cause, and origin,* not having the account of His goodness *from another;* but the *creatures* are good: **(1)** because *by a good God they are constituted good;* **(2)** and *ordered to good uses;* **(3)** and *singly in their own order they serve God, and please God.*
+
+### The Four Grades of Created Things on Earth
+
+The *order and grade* of created things on earth is **fourfold:**
+
+**The lowest** is of those which *only exist,* that they may serve the rest that follow — as are the *elements, stones, metals.*
+
+**The second** is of those which *not only exist, but also have vegetative life* — as are *plants, herbs, shrubs* — and they serve the rest that follow.
+
+**The third** is of those which *exist, live, and feel,* that they may serve the fourth grade — as are *animals, birds, fish.*
+
+**The fourth** is of those which *exist, live, feel, and understand* — as are *men,* having God above them, whom they ought to serve — and if they do not serve Him, they act *against the order of their own nature,* just as if the elements did not serve plants, animals, and men. Therefore it is said: ***All things were made for the sake of men, but men were made for the sake of God — whom they ought to acknowledge and worship, as also the angels do, οἱ ὑμνοῦντες καὶ διακονοῦντες*** (*those who hymn and minister*), to use Theodoret's words.⁸⁷
+
+### The Two Kinds of Rational Creatures — Incorporeal and Corporeal
+
+But the *rational creatures* are **twofold:**
+
+- **Incorporeal** — as the *Angels,* and the *souls of men.*
+- **Corporeal** — as *man in his body.*
+
+***
+
+### On the Good Angel
+
+> ***A good Angel is a created substance, spiritual, made unto the Image of God by God Himself, intelligent, truthful, just, immortal, confirmed by God to persevere in the righteousness given, and ordained for the celebration of the glory of God and the ministry of the Church and of all the pious.***
+
+### On the Evil Angel
+
+> ***An evil Angel is a created substance, spiritual, made unto the Image of God by God Himself, which by his own will and pride he again lost — turned away from God, contemning the Son of God, denying the truth acknowledged, defecting from God and from the fellowship of the good Angels, choosing homicide and lying, therefore cast forth by God into eternal punishments; raging in hatred of God, and impelling others to crimes, blasphemies, killings, lusts, and lies — not that it may be better for himself, but that he may afflict God and the Son of God with contumely, and destroy man, and rejoice while he speaks ill and does ill to others.*** *(John 8.)*
+
+### On Man
+
+> ***Man is a substance created by God unto the Image of God, consisting of a rational soul and a body, set over the inferior creatures, that he may acknowledge God and perpetually celebrate Him.***
+
+### On the Soul of Man
+
+> ***The soul of man is a spiritual substance, first made by God unto the Image of God, intelligent and just, the chief part of man — namely the mind and the will — immortal even if it departs from the body, corrupted, however, by the vice of the origin; and while it dwells in the body, either turning itself to God by the grace of God, or defecting altogether from God by its own will.***
+
+### On the Image of God
+
+> ***The Image of God is the integral congruence and similitude of all the faculties with the Archetype — that is, with God: in the mind, a true and illustrious notice of God; in the will, true obedience, ardent dilection, and delight in God; in the heart, conformity of all affections with the Law of God engrafted in the mind — as are justice, holiness, truth (Eph. 4); and Dominion over all the things of the inferior orders.***
+
+And the *Image of God* is **twofold:**
+
+- **One is *natural,* essential, and eternal** — as *only the Son of God* is: ***ἐικῶν ἀΐδιος πατρός*** — the eternal Image of the Father — in which Image *the glory of the paternal virtue shines forth through the effecting of the divine works,* as the Son Himself says (John 14): ***"He who sees me, sees the Father also."***
+- **The other is the *Gratuitous Image,* in the Angels and men.**⁸⁸
+
+### On Original Righteousness
+
+> ***Original Righteousness is the integrity of the whole human nature, in which shone the Image of God incorrupt — the obedience and εὐταξία of all the faculties of the mind, will, heart, affections, body, members, and actions toward God and toward the neighbour — and the acceptation and approbation of the human race with God.***
+
+### The Fourfold State of Man
+
+The state of man is **fourfold:**
+
+**The first,** which was *before the Fall* — the *state of innocence and integrity of the whole Image of God in man.*
+
+**The second,** *after the Fall* — the *state of miseries by culpa and by poena.*
+
+**The third,** *of grace* — proper to the *believing and regenerated* in the Church of Christ.
+
+**The fourth,** *of consummation and glory* — in eternal beatitude for the pious; but for the impious, of ***ignominy and eternal damnation in Gehenna.***
+
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
@@ -1311,3 +1702,31 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **⁷³** *The ἄλλο–ἄλλος distinction extended.* Selnecker's most elegant Chalcedonian formulation: in the eternal indivisible Trinity, *between the Persons* there is *ἄλλος καὶ ἄλλος* (two Persons) but not *ἄλλο καὶ ἄλλο* (not two things, since the divine essence is one). But *within the Person of the Son,* there is *ἄλλο καὶ ἄλλο* (two natures) but not *ἄλλος καὶ ἄλλος* (not two Persons). The Son is thus *the same one* (single Person) but *this and that* (two natures) — the one eternal ὁμοούσιος καὶ συναΐδιος with the Father, the other assumed ὁμοούσιος with us apart from sin. This is the mature Chalcedonian settlement, and it is the epigrammatic peak of Selnecker's whole doctrine of Person in this Article.
 
 **⁷⁴** *ἐκπορεύεσθαι — the etymology of Procession.* Selnecker traces the Greek *ἐκπορεύεσθαι* to *πόρος* ("passage, movement"), by way of the LXX and Johannine vocabulary for the Spirit's procession (John 15:26). The distinction between the *broader* ἐλθεῖν (which can be used of both the Son's mission and the Spirit's procession) and the *narrower* ἐκπορεύεσθαι (proper only to the Spirit) is the linguistic ground for the *Filioque* controversy: Latin *procedere* covered both meanings, whereas Greek preserved the narrower sense that Photius later used to distinguish the Spirit's *procession from the Father alone* from any Latin doctrine of double procession. Selnecker, working within the Western tradition that receives the *Filioque,* uses the vocabulary to explicate the distinctions of the Persons within the immanent Trinity. See the Nicene-Constantinopolitan Creed's own *Filioque* interpolation as printed in the *Three Creeds* section above.
+
+**⁷⁵** *The Descriptio Dei Quinque Membris.* The five-fold definition of God — essence absolutely / relatively (the three Persons) / general effects of the Trinity (Creation and preservation) / spiritual effects (the gathering of the Church) / end of the divine patefaction (worship and celebration) — is Selnecker's own didactic summation, not a patristic *ordo,* but built from the standard Melanchthonian Loci-format that unfolds *quid sit,* *quid nominetur,* *quae sit efficientia,* *qui effectus,* *quis finis.* The parenthetical *"we have stammered thus far"* — an echo of the classical *balbutire de Deo* topos rooted in Augustine (*De Trinitate* V.9.10) and Aquinas (*ST* I q.13 a.1) — is Selnecker's own confession that even the fullest theological definition remains creaturely stammering before the incomprehensibility of the divine essence.
+
+**⁷⁶** *The Thirty-Eight Rules of Luther on the Trinity.* Selnecker rehearses in numbered form a substantial extract from **Luther's** ***Von den letzten Worten Davids*** (1543, WA 54:16–100), the mature Lutheran polemical-Trinitarian treatise on 2 Sam. 23:1–7. The numbering-into-38-rules format is Selnecker's own didactic reworking, drawing on the argumentative structure of the treatise. The characteristic Luther moves — reason must be *deprived* and *extinguished,* Scotus's *distinctio formalis* is a *nihilo,* the Grammar/Philosophy of tenses does not apply to eternity, Aristotle deep down is *"a perfect Epicurean,"* the closing appeal to *touch Christ manifest in the flesh* — are all Luther's own idiom preserved verbatim through Selnecker's Latin rendering.
+
+**⁷⁷** *Augustine and Hugh of Saint Victor on omnipotence.* The **Augustine** citation is from *De civitate Dei* XXI.7 (PL 41:718), one of the classic loci for the Lutheran-orthodox handling of omnipotence: God's Omnipotence is proved not by asking whether He can do the arbitrary or the self-contradictory, but by beholding that He does what to unbelief seems impossible (the Resurrection above all). The **Hugh of Saint Victor** citation is from *De sacramentis christianae fidei* I.5 (PL 176:246ff.), the great mid-twelfth-century summa that lies at the head of the medieval-Latin Sacramental tradition. Selnecker's use of Hugh is typical of Lutheran-orthodox appropriation of medieval Sacramental theology as *pre-scholastic patristic recapitulation.*
+
+**⁷⁸** *Galen against Moses.* The reference is to **Galen** of Pergamum (c. 129–200 A.D.), *De usu partium* XI.14 — the celebrated passage where Galen contrasts *Moses' God,* who can make a horse or ox out of ashes at will, with the more restrained *Nature of the Peripatetics,* which is bound by physical law. Galen's own preference (*"we do not so sense"*) placed him firmly on the Peripatetic side against biblical omnipotence. Selnecker's move — coupling Galen with the Kryptocalvinists as those who bind God's omnipotence to *διάνοια concinna, non pugnante cum ratione* — is a polemical identification that had been drawn out earlier by Luther in *Grosses Bekenntnis* and by Chemnitz in *De duabus naturis.*
+
+**⁷⁹** *The four-heads response to the Real-Presence objection.* Selnecker's four-part reply — Christ's body is *sui natura* physical and finite, but by *personal union* and *exaltation ad dexteram Dei* transcends the physical rules; it is present to the Church in a mode *other than* local-visible-sensible; it can be present wheresoever and howsoever Christ wills; and to deny these is to deny Christ's *omnipotence* and *truth* — is the standard Lutheran-orthodox construal that stands directly behind *Formula of Concord* Article VII on the Lord's Supper. The **Ambrose,** *De fide resurrectionis* citation (PL 16:1338ff.) is Selnecker's proof that the *ingressus in sanctae Trinitatis consortium* was not a Lutheran invention but a fourth-century Latin patristic idiom for the exaltation of Christ's human nature.
+
+**⁸⁰** *Every intellect captive in the obedience of Christ — 2 Cor. 10.* 2 Cor. 10:5: *"Bringing every thought into captivity to the obedience of Christ"* — one of the standard *sedes doctrinae* for the Lutheran-orthodox doctrine of Scriptural authority over reason in matters of the divine mysteries. The passage is cited in FC SD VII (Lord's Supper) and VIII (Person of Christ), and appears throughout Chemnitz's *De duabus naturis* as the ground for rejecting the *finitum non capax infiniti* axiom.
+
+**⁸¹** *Chrysostom on "in the highest;" Bucer on the "heavens above the heavens."* **Chrysostom,** *Homilia in Hebraeos* 1 (PG 63:19), the exegetical seat for the non-local reading of *"ad dexteram Dei"* as *divine excellence and pre-eminence,* not physical enclosure. **Martin Bucer** (1491–1551) — Selnecker's citation is from the *Enarrationes in Evangelia* (Strasbourg 1530, revised 1536), Bucer's own great commentary-work on the Ascension and the Right Hand, where Bucer holds *"the heavens above all the heavens"* to be undefinable except by *beatitude, majesty, sublimity, divine virtue.* Selnecker's use of Bucer here — a *Reformed-adjacent* voice appropriated for a Lutheran Christological point — is notable: it illustrates the fluid mid-century intra-Protestant citation-culture before the *Formula of Concord* hardened the doctrinal boundaries.
+
+**⁸²** *Justin's Greek on the Resurrection.* The reference is to the pseudo-Justin ***De Resurrectione*** (an early third-century text traditionally ascribed to Justin Martyr and printed among his works in the sixteenth-century editions), chs. 5–6 (PG 6:1583–1590). The Greek epigram Selnecker quotes verbatim — ***πιστεύομεν τῇ φύσει τὰ φυσικά, τῇ τέχνῃ τὰ τεχνητά, καὶ τῷ Θεῷ τὰ θεῖα*** — is one of the most-quoted patristic locutions on the propriety of theological reasoning: we do not require of *nature* the works of *God,* nor of *art* the works of *nature.* Modern critical scholarship denies the Justinian attribution; but for the Reformation-era compilers the work stood among Justin's authentic apologies and is here quoted as such.
+
+**⁸³** *Luther to Dr. Pontanus — the two miracles at the window.* The reference is to **Luther's** letter of 1543 to **Gregor Brück** (whose Latinised name *Pontanus* Luther and his circle used), WA Br 10:492ff. The two-miracles passage — the starry vault of heaven without pillars, and the clouds without foundation but held up by the Rainbow (Iris) — is a much-quoted piece of Luther's late-life reverent contemplation of God's Omnipotence in the ordinary appearances of nature. Selnecker's use of it here to close the Omnipotence-section is characteristic of the affectionate-pastoral tone that runs throughout the *Symbolorum Exegesis* alongside the polemical.
+
+**⁸⁴** *Basil's προκαταρκτική / δημιουργική / τελειωτικὴ αἰτία.* The three-fold Trinitarian causality — *initiative cause* (Father), *demiurgic cause* (Son), *perfecting cause* (Spirit) — is drawn from **Basil the Great,** *De Spiritu Sancto* 16.38 (PG 32:135–137), the mid-fourth-century Pneumatological summa that codifies the Cappadocian doctrine of the Trinity. Selnecker's rendering follows the standard sixteenth-century Latin Basil (Sirleto and Cornarius editions).
+
+**⁸⁵** *Ps. 96 — Elilim quasi Elelim.* Selnecker's paranomastic gloss on the Hebrew of Ps. 96:5 (Vulg. 95:5): ***"omnes dii gentium sunt Elilim"*** — reading *elilim* (אֱלִילִים, "nothingnesses, idols") as though from the root *elel* / *alal,* meaning *nothing, worthless,* to yield a wordplay: *Elilim as it were Elelim, not Dii* — *"the gods of the nations are Nothingnesses, as-it-were Nothings — not gods."* The move is standard sixteenth-century Christian-Hebraist paranomasia on the Hebrew polemical vocabulary for idols.
+
+**⁸⁶** *The 5,536-year chronology and the "mystical 1.2.3.6" thesis.* Selnecker's chronology — 3,963 years from Creation to Christ, therefore 5,536 years from Creation to A.D. 1574 — is drawn from the Wittenberg *Chronicon Carionis* as expanded by Melanchthon and by Peucer (1560 revision). The polemical thesis — that Eusebius' figure of 5,199 arises from ancient Christian scribes adding the *symbolic markers* 1.2.3.6 to years for mystical reasons (unity = Father, duo = Son in two natures, tria = Spirit, senary = the six ages of the world and the sixth-day Passion), and that the Egyptians and later posterity misconstrued these markers as literal years — is Selnecker's own reconstruction. Modern chronology (whether traditional-Ussher's 4004 B.C. or critical-scientific) has no room for either figure, but the Melanchthonian chronology stood as authoritative Lutheran doctrine into the seventeenth century and appears throughout Gerhard's *Loci* on Creation. See related [[note-75]] for the didactic-Melanchthonian frame of Selnecker's Creation doctrine.
+
+**⁸⁷** *Theodoret — οἱ ὑμνοῦντες καὶ διακονοῦντες.* The Greek phrase Selnecker attributes to **Theodoret of Cyrus** — *"those who hymn and minister"* — as a definition of the angelic office, is drawn from **Theodoret's** *Quaestiones in Genesim* (PG 80:104–108) on the interpretation of the seraphim of Isa. 6 and the ministering angels of Heb. 1:14. It is Selnecker's characteristic Greek-Father tag for the *twofold office of angels:* the *doxological* (hymning) and the *diaconal* (ministering to the Church and the pious).
+
+**⁸⁸** *The Image of God — natural, essential, eternal vs gratuitous.* Selnecker's distinction between the ***ἐικῶν ἀΐδιος πατρός*** (*eternal Image of the Father,* proper only to the Son) and the ***gratuitous Image*** given to angels and men is the standard sixteenth-century Lutheran doctrine of the *Imago Dei,* worked out by Melanchthon in the 1543 *Loci* and codified in *Formula of Concord* Article I (Original Sin) and Article II (Free Will). The move — that the *natural Image* is Christological (John 14:9, Col. 1:15) and the *gratuitous Image* is the whole *iustitia originalis* now lost in the Fall and to be restored by regeneration — is the Wittenberg alternative to the medieval-scholastic distinction between the *natural imago* (indestructible in fallen man) and the *supernatural similitudo* (lost in the Fall but restored by grace).
