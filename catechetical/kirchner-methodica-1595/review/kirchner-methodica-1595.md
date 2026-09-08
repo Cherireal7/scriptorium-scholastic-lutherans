@@ -9442,4 +9442,84 @@ To those objecting therefore that saying of Tertullian: *"Who are ye? When and w
 
 — ❦ —
 
-*[Locus XXVIII Part 5 closes (OBIECTIO IV primatum + Q30 succession + OBIECTIO on Tertullian + Q31 canonical ordination + Q32 union with Pope + Q33 tradition-unity + Q34 documenta apud nos + OBIECTIONES I–IV on antiquity). Part 6 (Q on membrorum perfectio + OBIECTIONES on scandala/haereses/dissentiones + Q on parvitas + OBIECTIO paucitas + Q on causae orbitatis + Q on potestas Ecclesiae + OBIECTIONES on interpretation) follows in T77. 556 top-level Q + 355 Obj rendered so far.]*
+## Question 35. Are the members of the true Church in this life perfectly holy and clean?
+
+**Are the members of the true Church in this life perfectly holy and clean?**
+
+**As concerneth the exterior man, in this life they are not perfectly holy** — for **sins remain and adhere to them — Rom. 7 — which yet they resist, and crucify the flesh with its concupiscences, and so daily grow according to the interior man, until in the future life they be plainly perfected**.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **Where scandals and defects are, there cannot be the true Church of God. Among you scandals and defects are. *Ergo* etc.**
+
+**Respondeo**: **The Major is false.** [*[T. 3, l., p. 332; T. 8, p. 417*]*] For **Christ himself, Matt. 13 and elsewhere, so describeth the Church, that in her are scandals and many infirmities — as also he himself had Judas among the twelve Apostles**. As therefore **it is a good sign, when the body throweth off the crude and abundant humours to the outer members, so it is a good sign of the true Church, if she cast off her defects and blemishes, and remove scandals**.
+
+— ❦ —
+
+### Objection II. **But (they say) many heretics have arisen from you. *Ergo* ye cannot be the true Church of God.**
+
+**Respondeo**: **If this collection availed, the Apostolic and primitive Church would plainly be to be damned. For while the Apostles were yet alive, heretics arose — Simonians, Nicolaites, Corinthians, Ebionites, and the like. Paul, Acts 20:30, saith**: *"From you yourselves shall arise men speaking perverse things."* **Was then on that account the Ephesian Church not the Church of God?** Rightly, therefore, **1 John 2:19 it is said**: *"From us they went forth, but they were not of us."*
+
+— ❦ —
+
+### Objection III. **Where many dissensions in matters of faith are, there is not the true Church. Among you are many dissensions in matters of faith. *Ergo* among you is not the true Church.**
+
+**Respondeo**: **First, to the Major: dissensions in matters of faith are not straightway a sign of the false Church**. **In Christ's time there were dissensions in religion, yet neither hence truly is it gathered, that Christ's assembly was not the true Church**. **In the people of Israel were various sects, yet the people of Israel did not utterly cease to be the Church. The Lord knoweth who are his own. In the one Church of the Corinthians, how many sects there were — and yet the Church of Christ remained**.
+
+**True it is, straightway from the beginning of the reborn Gospel, Zwingli and others separated themselves from us — yet the truth of doctrine through that Zwinglian secession was not taken away**. **"From us they went forth, but they were not of us"** — **1 John 2:19**.
+
+Besides, **not so many sects are among us as by their malice the Adversaries feign. And if there were, they ceased after the controversies were determined in the Book of Christian Concord**.
+
+Then, the Papists ought to have remembered that **there are more sects among them than among us**. **Jerome against the Luciferians writeth**: *"One must remain in that Church which was founded by the Apostles, and hitherto endureth: If anywhere thou shalt hear those who are called of Christ, not named from the Lord Jesus Christ, but from another — as Marcionites, Valentinians, etc. — know that it is not the Church of Christ, but the Synagogue of Antichrist."*
+
+**Now if that Synagogue is of Antichrist where those who are called of Christ are named from another — what at last shall we establish concerning the Papist Church, where there are so many sects of Augustinians, Benedictines, Franciscans?**
+
+And if truly **they are wont to pretend, that among those sects there is agreement in all things, and that they tend to one end — yet on that account they are not justified. Among robbers also is consent, and they have the same end proposed to themselves — namely, to kill men**. So the Papist sects agree with one another in some way, tending to one end — namely, that **they may lead men away from Christ to the Pope, to the deceased saints, to human traditions, and slay their souls**. For **thieves and robbers only come to snatch away and slay**.
+
+**That indeed there are the greatest dissensions among the Papists on the greatest matters, can be demonstrated by many reasons.**
+
+**First**, **according to the number of cities are their gods. Nay, every Papist has his own peculiar patron whom he cultivates.**
+
+**Secondly**, in **their Decretum — which yet they call the Concordantia of discordant Canons — extant are contrary Canons**; for instance, **dist. 28 conceded to a presbyter a legitimate wife, dist. 31 saith the Priest ought to live outside marriage; and many other similar**.
+
+**Thirdly**, **almost every Bishop in his Bishopric has his own Breviaries, Missals, ceremonies, agenda, nay even his own saints**.
+
+**Fourthly**, **so many are the orders of Monks and Nuns among them, that each hath his own patrons, own vestures, rules — in which they place their religion, so that if they wore vestments of another order, they would establish that they had fallen from the grace of God**.
+
+**Fifthly**, **it were of infinite labour to recite the dissents of the Scholastic Theologians**. **They dissent from the Master of the Sentences, to whom they impute many errors, and among themselves in the doctrine of original sin, of human powers, of both species, and many similar matters of greatest moment**. Whence **Erasmus against Latomus writeth**: *"The Scholastic Doctors did not all feel the same, nor were all free from error. For those who follow Thomas, and dissent from Scotus and Gerson, hold them almost as heretics."*
+
+**Sixthly**, **their Councils also dissent among themselves — which by many examples could be taught, if need were**. From the writings of **Ambrosius Catharinus** it is clear that **in the Tridentine Council they could not among the Fathers utterly agree, how anyone could be partaker of the grace of God, and whether he ought to doubt whether he is in grace — on that account only one article was posited against the vain confidence of the heretics**, etc.
+
+**Finally**, they dissent not only among themselves (as from the contrary writings of Andrea Catharini, Caietan, Dominic de Soto, Ruard Tapper is clear), but also from the Eastern Churches — by which also they are condemned. **Not therefore is it, that they should so gratify themselves upon our dissensions**.
+
+— ❦ —
+
+## Question 36. Is not the Church of God on this earth for the most part a small and slender flock and company?
+
+**Is not the Church of God on this earth for the most part a small and slender flock and company?**
+
+**Very much so** — in respect of that great company which always contradicteth the Church and sound doctrine. Whence **Christ himself saith, Luke 12:32**: *"Fear not, little flock."* This on that account is to be noted, that we depart not from the truth on account of the paucity of the believing. **Liberius in Theodoret, book 2, cap. 16, saith**: *"By my solitude the word of faith is not diminished."*
+
+### Objection.
+
+**The true and Catholic Church is a most ample company, everywhere dispersed through the compass of the earth. But your Churches have place only in some cities and villages of Germany. *Ergo* etc.**
+
+**Respondeo**: **First, in general: an argument drawn from multitude or paucity is exceedingly weak**. **The vulgar count their suffrages, not weigh them: the vulgar contend by multitude, not by reasons**. **Constantius by this argument oppugned Liberius, saying**: *"What part of the world art thou, who alone dost make cause with Athanasius, and dissolvest the peace of the whole world and of the compass of the earth?"* But **Liberius rightly responded, defending his solitude against the multitude of the Arians**: *"By my solitude the word of faith is not diminished. He was alone — not a town, not a house imbued with his doctrine — yet he brought forth the word of faith."*
+
+So **Nazianzen against the Arians saith**: *"Where at last are those who reproached us with poverty, and boasted of riches, who defined the Church by multitude, and contemned a little pusillanimous [flock]?"* **Not therefore from multitude or paucity is judgement to be made concerning the Church, but from the word of God.**
+
+Then to the Major I respond: **that our Churches are not only in some cities and villages of Germany dispersed, but through all Germany, Denmark, Sweden, Prussia, Belgium, France, and similar provinces and kingdoms which have received the Gospel of our Lord Jesus Christ. Nay, that through the compass of the earth are dispersed Christians who feel with us — although this greatly grieves the Papists**.
+
+**Italy hath, Spain hath such who embrace the doctrine of our Churches.** And although **our forces were reduced to narrow bounds, yet thence it would not follow that our Churches pertain not to the Catholic Church dispersed through the compass**. For **wherever two or three are gathered in my name**, saith Christ, **there am I in the midst of them**. **Where truly Christ is, and truly according to his word is invoked, there also is a Church — although she be small in number**.
+
+**Augustine, Ps. 129, asserteth that in one only Abel, in one only Enoch, in one only Noah, in one only Abraham there was a Church.**
+
+**It is manifest and good, that as the word of God shineth not always equally, so also the Church doth not always flourish equally in number and multitude. Elias saw no Church in the kingdom of Israel — he thought himself alone to have been left. Isaiah, cap. 1, saith**: *"Unless the Lord had left us seed, we had been as Sodom."* So **Amos, Isaiah's contemporary, saith**: *"As the shepherd rescueth from the mouth of the lion two legs, or the tip of the ear, so shall the sons of Israel be rescued."*
+
+**In the time of the coming of Christ in Palestine, exceedingly small was the company of the truly pious. And Christ himself predicted the paucity of believers before the last judgement — Luke 17; Matt. 24**. Hence therefore it is clear, that **though our Church cannot number many villages, many cities, and many kingdoms in which they have seat: yet if she can name and show two or three, if only one pious [man] who is addicted to the word of Christ, she shall already have exhibited and demonstrated the true Church of Christ, such as the Prophets, Christ, the Apostles, and the Fathers openly described**.
+
+— ❦ —
+
+*[Locus XXVIII Part 6 closes (Q35 membrorum perfectio + OBIECTIONES I–III on scandala/haereses/dissensions + Q36 parvitas + OBIECTIO paucitas). Part 7 (Q on causae orbitatis + Q on paucitas nota + Q on potestas Ecclesiae + OBIECTIONES I–V on authority/interpretation/judgement/Bishops-only/Lyrinensis + Q on controversia interpretationis + Q on bona Ecclesiae + Q on interior notae + Q on why God gathers + Q on Papa caput refuted 9-fold + Q on separation + Q on Roman Ecclesia not vera + closing OBIECTIONES) follows in T78. 557 top-level Q + 358 Obj rendered so far.]*
