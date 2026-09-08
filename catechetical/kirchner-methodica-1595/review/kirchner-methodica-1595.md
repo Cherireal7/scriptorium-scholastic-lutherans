@@ -7912,4 +7912,56 @@ In sum, the particle **"Do this"** pertaineth to the whole action of the sacred 
 
 — ❦ —
 
-*[Locus XXVII Part 6 closes (OBIECTIO on dentibus + Q21–Q30 on the mode of presence + institution details + finis). Part 7 (Q31 what the Supper effects — 5 sub-points + Q32 legitimate use — 4 sub-points + Q33 whether communication in Supper is same as in Baptism + OBIECTIO on analogia sacramentorum) follows in T60. 507 top-level Q + 254 Obj rendered so far.]*
+## Question 31. What doth the sacred Supper of the Lord effect or operate?
+
+**What doth the sacred Supper of the Lord effect or operate?** [*[T. 4, p. 427; T. 3, pp. 591, 367 and following; T. 2/1, pp. 329, 330*]*]
+
+**I.** **It is a communication of the New Testament.** For **Christ, together with his body and blood, by which he confirmed the New Testament, at the same time communicateth and distributeth remission of sins, and all things which through the delivery of his body and effusion of his blood he acquired**. On account of which cause also he used the word *"New Testament."* And **the body and blood of Christ, with bread and wine exhibited and received, are as it were a pledge and seal — sealed by which, we are certain, that remission of sins is truly given to us**.
+
+**II.** **The faithful, who worthily use this sacred Supper, are inserted by it into his body, and united with him — that with him we may be one flesh and one spirit — that Christ may be in them and they in Christ, and remain** — that **in them he may be efficacious, vivify them, console them, refresh them, comfort and sustain them in all temptations and perils of body and soul**. Just as **Hilary elegantly explaineth this, book 8 *De Trinitate*, p. 136**.
+
+**III.** **Through this he represseth the temptation concerning the sin remaining in the bodies of the saints — Rom. 7**. For **on this account he exhibiteth to thee his most holy body to be manducated, that thou be certain that on his account all thy infirmities and remaining sins in thee are freely pardoned to thee and are not imputed — and that nothing can separate thee from the charity of God which is in Christ Jesus**.
+
+**IV.** **With his sacred and holy body and blood he feedeth and giveth drink to thee, that thy sinful and corrupt flesh may be prepared and sealed for the participation of the resurrection and immortality**. Whence **Justin and Irenaeus take a certain argument of the resurrection of our flesh from the sacred Supper**.
+
+**V.** **That it may be a bond of fraternal charity.** For **Christ, who communicateth his body and blood to us in the sacred Supper, at the same time also kindleth in our hearts true love of God and of the neighbour — that we may mutually love, as also he loved us**. And **the analogy of the many grains, from which the bread [is made], and of the many grapes, from which the wine is composed, admonisheth us of the same**.
+
+— ❦ —
+
+## Question 32. In what doth the legitimate use of this Supper consist?
+
+**In what doth the legitimate use of this Supper consist?** [*[T. 4, p. 427; T. 2/1, pp. 326, 330*]*]
+
+**I.** That **we prove ourselves — 1 Cor. 11:28** — that is, **do penitence, and in the true fear of God and knowledge of our sins approach it, and from the whole heart confess our unworthiness**.
+
+**II.** That **on account of Christ we ask remission of sins, and place all our hope and confidence in the most holy merit and obedience of Christ, in no wise hesitating that through him we are reconciled to the heavenly Father**.
+
+**III.** That **we rightly discern the body of the Lord from other foods — 1 Cor. 11 — and firmly believe, that in the Supper it is not the sign of the far-absent body and blood of Christ, but the very true body and blood of Christ delivered up and poured out for us is given to us**.
+
+**IV.** That **we have a good purpose — God helping us — of amending our life, of receding from sins, of walking according to the commandments and the word of God, and of crucifying the flesh with its concupiscences and desires — Gal. 5:24**.
+
+— ❦ —
+
+## Question 33. Is the communication and participation of the body and blood of Christ in the sacred Supper one and the same as in Baptism?
+
+**Is the communication and participation of the body and blood of Christ in the sacred Supper one and the same as in Baptism?**
+
+**The Adversaries indeed contend this — but in truth of the matter it standeth not so**:
+
+**I.** For **the communication and participation of the body and blood of Christ is properly the seal of this new Testament, and not of Baptism**.
+
+**II.** **Those words, *"eat, this is my body — drink, this is my blood,"* cannot properly be received of Baptism**: for **they are proper only to the sacred Supper and not to Baptism**.
+
+**III.** **If it were one and the same communication and participation in each Sacrament, those words *"eat, drink"* would be to be received figuratively**: **nor would there be need of the Elements bread and wine instituted by Christ**. Just as therefore **the words of Baptism cannot properly be accommodated to the Supper: so on the contrary the formal words of the Supper cannot properly be accommodated to the words of Baptism**. For **they are not the same, but distinct and diverse, and speak of diverse things**.
+
+### Objection.
+
+**But (say the Adversaries) it behoveth there be some analogy and similitude of the Sacraments. As therefore in Baptism the substantial blood of Christ is not in the water of Baptism, so also it is not to be thought that in the Supper it is communicated with wine?**
+
+**The argument is from the particular.** **Of the Supper we have express and perspicuous word of Christ, in which he promiseth the communication of his most precious blood, poured out for us, with the wine.** **But of the water of Baptism Christ doth not expressly say his substantial blood to be in it, or to be distributed with it, as in the sacred Supper**.
+
+As concerneth the analogy, **we willingly concede that there is a certain analogy of Baptism and the Supper of the Lord in other things**. But **as concerneth the material cause or the very substance, in no wise do we concede**. For **what in the Supper — as concerneth its substance — is communicated, is to be taken not from Baptism, but from the words by which it was instituted**.
+
+— ❦ —
+
+*[Locus XXVII Part 7 closes (Q31 five effects + Q32 four-fold legitimate use + Q33 discrimen from Baptism + OBIECTIO on analogia sacramentorum). Part 8 (Q34 double manducation Sacramental+spiritual + Q35 refutation of Adversaries' double-Sacramental split + Q36 Patres teach ore percipi with extensive citations + OBIECTIONES) follows in T61. 510 top-level Q + 255 Obj rendered so far.]*
