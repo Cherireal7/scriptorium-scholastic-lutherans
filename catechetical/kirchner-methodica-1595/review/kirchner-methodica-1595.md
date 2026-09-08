@@ -11556,4 +11556,237 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXIII De Scandalo COMPLETE — rendered in 1 tranche (T91). Q1–Q11 + OBIECTIO on Lutheran doctrine giving scandal + OBIECTIO on 60-year-old novelty. 736 top-level Q + 415 Obj rendered so far. Locus XXXIV De Miraculis follows in T92 at OCR line 40957.]*
+# Locus XXXIV. Of Miracles
+### *De Miraculis*
+
+## Question 1. What are Miracles?
+
+**What are Miracles?**
+
+**Respondeo**: **They are singular works of God, which above the course of nature, in testimony of the true doctrine revealed by himself, he worketh.**
+
+— ❦ —
+
+## Question 2. How manifold are Miracles?
+
+**How manifold are Miracles?**
+
+**Respondeo**: **Twofold: Divine, put forth by God; Diabolical, put forth by the Devil.**
+
+— ❦ —
+
+## Question 3. What is the efficient cause of divine miracles?
+
+**What is the efficient cause of divine miracles?**
+
+**Respondeo**: **God himself, Ps. 72:18**: *"Blessed be the Lord God of Israel, who alone doth wondrous things."* **Ps. 136:4**: *"Who alone doth great wonders."* **John 10:25**: *"The works which I do in my Father's name."*
+
+— ❦ —
+
+## Question 4. Doth God also work miracles mediately through men?
+
+**Doth God also work miracles mediately through men?**
+
+**Respondeo**: **Very much: for so through Moses and the Prophets in the Old Testament, and through the Apostles in the New Testament, many illustrious miracles he put forth.**
+
+— ❦ —
+
+## Question 5. What moveth him to put forth miracles?
+
+**What moveth him to put forth miracles?**
+
+**Respondeo**:
+
+**I. His great goodness and mercy, Ps. 136:4**: *"Who alone doth great wonders, because his mercy endureth for ever."*
+
+**II. That by these very things his own great power he may make manifest, and testify that he acteth most freely, and is not tied to second causes. Ps. 115:3**: *"Our God is in heaven, all things whatsoever he willed, he hath done."* **Ps. 135:6**: *"All things whatsoever the Lord willed, he hath done, in heaven and in earth, and in the sea, and in all Abysses."* **Exod. 9:16**: *"And for this purpose I have set thee up, that I may show in thee my power."* **Exod. 16, when the people murmureth, God raineth Manna. Exod. 17, he striketh the Rock, and water goeth forth.**
+
+— ❦ —
+
+## Question 6. What are the properties of divine miracles?
+
+**What are the properties of divine miracles?**
+
+**Respondeo**:
+
+**I. That they are true signs, and not impostures — as Satan often doth mock, and imposeth on men.**
+
+**II. That with the Word of God they consent, and confirm it.**
+
+**III. That to Devils they are inimitable.**
+
+**IV. That they far exceed the course of nature, and are done otherwise than second causes bear.**
+
+**V. That by faith alone they are comprehended and rightly understood.**
+
+**VI. That through them the Name and the Word of God are amplified and illustrated.**
+
+— ❦ —
+
+## Question 7. Why hath God from the primordium of the world done illustrious miracles?
+
+**Why hath God from the primordium of the world done illustrious miracles?**
+
+**Respondeo**:
+
+**I. That thence it might appear, that he alone is the true God in heaven and in earth, in whose hand are all things, Exod. 7, 8, 9; 1 Sam. 17:46**: *"That all the earth may know, that there is a God in Israel."*
+
+**II. That to his Word and manifestations there might be greater authority and faith.**
+
+**III. That they might bear testimony, that Jesus is Christ, true God, and Saviour of the world, Isa. 35:4–5, Matt. 11:4**: *"Go and tell John the things which ye have heard and seen: the blind see, the lame walk, the lepers are cleansed."*
+
+**IV. That they might testify, that God through and on account of Christ, from all dangers is able and willing to save us. Matt. [11:28]**: *"Come unto me all,"* &c. **Ps. 68:21**: *"Our God is the God of them that make safe."*
+
+— ❦ —
+
+## Question 8. For what do divine miracles conduce unto us?
+
+**For what do divine miracles conduce unto us?**
+
+**Respondeo**: **A manifold use they afford us. First, the articles of our faith they confirm, and cause us to be more certain that they are from God. As also they testify that Christ came in the flesh, and consummated the work of redemption.**
+
+**II. They exhort us, that we despair not in dangers. Since we have the Lord God as our Protector, who is Lord of all creatures, and holdeth them all in his hand — who is a most free Agent, who is not bound to second causes, but besides and against what second causes bear, all things whatsoever he willeth, is able to do in heaven and in earth.**
+
+**III. They exhort us to serious invocation: for since we have such a Lord, who beyond the order of nature also is able and willing to save, with greater confidence let us cry unto him, nothing doubting, since all things be in his hand, that all things which he willeth, he inclineth; that himself in no calamity will forsake us, but with mighty hand and stretched-out arm will snatch us out. Ps. 77:11**: *"And I said, this is my grief, but this the change of the right hand of the Most High."*
+
+— ❦ —
+
+## Question 9. Is there not some similitude and agreement of the miracles of Christ, of the Prophets, and of the Apostles?
+
+**Is there not some similitude and agreement of the miracles of Christ, of the Prophets, and of the Apostles?**
+
+**Respondeo**: **Very much. For they agree in this:**
+
+**I. That both are true miracles, and not vain impostures.**
+
+**II. That both bear testimony of the truth to the Word of GOD revealed in the Old and New Testament.**
+
+**III. They testify, that the persons by whom they be put forth were organs and Ministers of God, they confirm their vocation and office.**
+
+**IV. Both make for the confirmation of our faith, whereby we are built up upon the foundation of the Apostles and Prophets, Jesus Christ himself being the corner-stone, Eph. 2:20.**
+
+— ❦ —
+
+## Question 10. But in what do they differ?
+
+**But in what do they differ?**
+
+**Respondeo**:
+
+**I. The Prophets and the Apostles, who did miracles, neither in their own name, nor by their own virtue, nor whensoever they willed, but in the name of God and Christ alone, and by his virtue, and when by God commanded and impelled, wrought them. So Moses his miracles at God's command did, as also the Apostles, Matt. 10. But Christ — perfect God and perfect man in one indissoluble person — his miracles from his own and divine virtue wrought, whensoever he willed, since he is Lord of all.**
+
+**II. The Prophets rarely: but Christ and the Apostles many miracles wrought, as from the Evangelical history and the book of Acts appeareth.**
+
+**III. The miracles of the Prophets to the prophecies concerning things future, and chiefly concerning the Messiah to come, gave authority and faith: those of Christ, that he was himself the Messiah, and no other to be expected, Matt. 11:3–4: those of the Apostles, that Christ crucified and raised was the Messiah, testified.**
+
+— ❦ —
+
+## Question 11. Are there then no miracles today in the Church of God? [*[T. 6, p. 299]*]
+
+**Are there then no miracles today in the Church of God?**
+
+**Respondeo**: **Spiritual miracles even now by the Ministry of the Word and of the Sacraments are done. For by the Ministry of the Word and Sacraments even now Devils are cast out; the eyes of the blind by the illumination of the Holy Spirit are opened, that they see and shun the truth of the Gospel, the Papist impostures, and those of other heresies. The dead in delicts, by the preaching of poenitentia and of the remission of sins, are raised. The lepers, by the Holy Spirit, in conversion, through faith are purified, Acts 15:9. Many endued with the Holy Spirit speak with new tongues and confess Christ and the truth. The lame walk, when the Holy Spirit strengtheneth hearts in the confession of the wavering, that according to the Gospel of Christ they walk rightly.**
+
+**Nor is the least of miracles this: that in these last times, from the singular mercy of God, the Roman Antichrist hath been laid open, doctrine hath been purged, and the Church, embracing the purged doctrine, against the rage and furies of Satan and his instruments, is preserved intact.**
+
+— ❦ —
+
+## Question 12. Do false doctors and slaves of the Devil also work miracles? [*[T. 7, p. 72, 195–196; T. 5, p. 452–453]*]
+
+**Do false doctors and slaves of the Devil also work miracles?**
+
+**Respondeo**: **Very much: for Matt. 7:22 the Lord saith**: *"Many shall say to me in that day: Lord, Lord, in thy name have we cast out demons, and done many virtues."* **And Matt. 24:24**: *"For false Christs and false prophets shall arise, and shall give great signs and prodigies."* **And of the Antichrist expressly it is said, 2 Thess. 2:9**: *"Whose coming is according to the working of Satan, in all power and signs and lying prodigies."* **So Satan in the Papacy through his own organs many signs and miracles hath wrought — which the legends of them themselves testify. So the spirit of darkness by phantasms and specters induced Pope Gregory into error, that he institute the sacrifice of the Mass for the freeing of souls from purgatory.**
+
+— ❦ —
+
+# OBIECTIO
+
+### Objection. **But I thought that God to false Doctors would not indulge the operation of miracles?**
+
+**Respondeo**: **He doth indulge it and permit it, partly to try and prove his own, Deut. 13:3**: *"Because the Lord your God tempteth you, that it may appear whether ye love him or not, with your whole heart and with your whole soul";* **partly to punish the ungrateful, 2 Thess. 2:10–11**: *"Because they received not the charity of the truth, that they might be saved, therefore God shall send unto them the operation of error, that they believe a lie, that all may be judged who have not believed, but consented to iniquity."*
+
+— ❦ —
+
+## Question 13. But why doth God permit even to the evil, true things to be said, and true miracles to be done — as Bileam, Num. 24, prophesieth of Christ, and Caiaphas, John 11:49–50, foretelleth that Christ was to die for the people? [*[T. 5, p. 454–455]*]
+
+**But why doth God permit even to the evil, true things to be said, and true miracles to be done?**
+
+**Respondeo**: **How this is to be understood, John himself expoundeth, subjoining verse 51**: *"This he said not of himself. But being High Priest of that year."* **For God doth permit, and hath power to bring it about, that he who is in office — although he be evil, and himself perish — yet may speak true things, and miracles at times may do.**
+
+— ❦ —
+
+## Question 14. But even those who are not in office do miracles, as Luke 6:49 we read?
+
+**But even those who are not in office do miracles, as Luke 6:49 we read?**
+
+**Respondeo**: **God is a most free Agent, who wheresoever, and whensoever, and howsoever he willeth, doth act: he can therefore, when he willeth, according to the good pleasure of his will, even through private persons work miracles — who yet as pious and temples of the Holy Spirit to be, it is verisimile.**
+
+— ❦ —
+
+## Question 15. But how do true and false miracles differ? [*[T. 5, p. 455; T. 6, p. 459; Gen. T. 2, p. 201–202]*]
+
+**But how do true and false miracles differ?**
+
+**Respondeo**:
+
+**I. By efficient cause: True from GOD and by the virtue of GOD; False by the efficacious operation of Satan are done.**
+
+**II. By formal cause: The miracles of the Church of GOD are true and certain, and in every case beyond nature's order and course are done: The false — with impostures are done. So the Priests of Idols spake from the Idols, and the sacrifices secretly bore away or devoured. So — as the history of Bel of Babylon testifieth. And Rufinus, book 2, chapter 25, of the Tyrant Priest of Saturn. And Josephus, book 18 of the Antiquities, chapter 7, of Paulina, upon whom the Priests of Isis shamefully imposed, doth relate.**
+
+**III. By final cause: True miracles are for the confirmation of the true doctrine revealed by God, and for the glory of God; the False, for stabilizing false doctrine, superstitions, idolatries, and error.**
+
+**IV. The miracles of God and of Christ neither Devil nor men can do: But the False for Satan and for men to feign and to do is easy. So Hildebrand the Monk, before he was elected Pope, doth miracles — but from the Devil. Boniface VIII, by a feigned voice of an Angel, deceiveth his predecessor Celestine. These and like lies Satan, father of lies, easily can do; the works of God and of Christ he cannot.**
+
+— ❦ —
+
+## Question 16. But why now are no manifest miracles done in the Church? [*[T. 3, p. 195; T. 7, p. 358–359]*]
+
+**But why now are no manifest miracles done in the Church?**
+
+**Respondeo**:
+
+**I. Because the doctrine of Christ and of the Gospel is now sufficiently confirmed. Augustine, De civitate Dei, book 22, chapter 8**: *"Miracles were necessary before the world believed, unto this — that the world might believe. Whosoever now for prodigies enquireth that he may believe, is himself a great prodigy, who — the world believing — doth not believe."*
+
+**II. Because ours sound forth no new doctrine, but that handed down by Christ and the Apostles, and by signs and prodigies sufficiently confirmed.**
+
+**III. And although ours should work miracles, yet the Adversaries would not believe them — as the Pharisees to Christ and the Apostles, working great signs and prodigies, believed not.**
+
+— ❦ —
+
+## Question 17. Are there then now no miracles done?
+
+**Are there then now no miracles done?**
+
+**Respondeo**:
+
+**I. Because God willeth, that we attend more to the Word than to signs.**
+
+**II. Because he willeth, that we believe the signs of the Prophets, of Christ, and of the Apostles, and not seek new ones.**
+
+**III. Because he willeth us to believe, and not to see. John 20:29**: *"Blessed are they who have not seen and have believed."*
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But so neither Christ nor his Apostles would have wrought miracles, since they also brought forth no new doctrine?**
+
+**Respondeo**: **Of Christ singularly it was foretold, Isa. 35, that he would put forth miracles. So Matt. 11 the Lord doth remit the disciples of John. And to the Apostles who were to announce the Gospel among the Gentiles, the same Lord had given mandate of confirming it by signs and prodigies.**
+
+— ❦ —
+
+### Objection II. **But Mark 16:17 it is said: "But signs shall follow them that shall have believed." Ergo,** &c.
+
+**Respondeo**: **Christ there speaketh of the Ministry of the Apostles, and of the signs which for the confirmation of their divine vocation and doctrine they had to do — and not of these last times, in which we live.**
+
+— ❦ —
+
+## Question 18. Is not God the author of the signs which enchanters do in the name of Christ?
+
+**Is not God the author of the signs which enchanters do in the name of Christ?**
+
+**Respondeo**: **By no means: for these works and signs are from the Devil, and such take in vain the name of God and of Christ: and God permitteth these signs to be done by them for the temptation of his own, and for the punishment of the ungrateful.**
+
+— ❦ —
+
+*[Locus XXXIV De Miraculis COMPLETE — rendered in 1 tranche (T92). Q1–Q18 + OBIECTIO on God-not-indulging-miracles-to-false-doctors + OBIECTIONES I–II on Christ/Apostles doing miracles + Mark 16:17. 754 top-level Q + 418 Obj rendered so far. Locus XXXV De Calamitatibus follows in T93 at OCR line 41416.]*
