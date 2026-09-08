@@ -6302,4 +6302,126 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 — ❦ —
 
-*[Locus XXIII Part 5 closes (Q25–Q26 + DE DILECTIONE PROXIMI Q1–Q4 + DE ELEEMOSYNIS Q1–Q4). Part 6 (DE ELEEMOSYNIS Q5–Q10 + Dan 4 exegesis + Christ's meruit-ut anti-Papist + DE IEIUNIO section) follows in T43. 405 top-level Q + 209 Obj rendered so far.]*
+## Question 5. Doth alms merit the remission of sins?
+
+**Doth alms merit the remission of sins?**
+
+**By no means.** For **this Christ alone hath merited for us, who delivered himself for our sins into death** — **Gal. 1:4**.
+
+— ❦ —
+
+## Question 6. But Ecclesiasticus, cap. 3:33, saith: *"Alms resisteth sins"*?
+
+**But Ecclesiasticus, cap. 3:33, saith: *"Alms resisteth sins"*?**
+
+**The book of Sirach is not in the Canon, but is among the writings called Apocrypha** — **no foundation therefore from it can be taken for this matter, especially since the whole Scripture with one voice affirmeth, that only Christ's Passion and obedience, but no work of any man, expiateth sins in the sight of God**.
+
+**This saying therefore is to be received of the expiation of sin before men, not before God**. For **among men liberality conciliateth friendship and placateth offences**. And the immoveable foundation must remain, that **the blood of Christ alone cleanseth us from all our sins** — **1 John 1:7**.
+
+— ❦ —
+
+## Question 7. But we read Dan. 4:14: *"Let my counsel please thee, and redeem thy sins by alms, and thine iniquities by the mercies of the poor."* Can men therefore by their alms satisfy for temporal punishments?
+
+**But we read Dan. 4:14**: *"Let my counsel please thee, and redeem thy sins by alms, and thine iniquities by the mercies of the poor."* **Can men therefore by their alms satisfy for temporal punishments?**
+
+**By no means doth this follow.**
+
+**First**: **Daniel saith not, "Alms satisfy for temporal punishments," but "redeem from temporal punishments" — for this in the words of Daniel thou wilt not find**. Not therefore doth the collection of the Papists hold, since it leaneth on no words of the Prophet.
+
+**Secondly**: **Neither by any word doth he say, that alms or other works in the sight or judgement of God satisfy for sins or for the punishments of sins — which the Adversaries thence attempt to gather** (for of this **no word, no letter is in Daniel**) — but **the Adversaries feign this in the words of the Prophet, for the defence of their own error**.
+
+**Thirdly**: And on this very account **the interpretation of the Papists cannot subsist**, because **it expressly contradicteth the chief testimonies of Scripture concerning the expiation and satisfaction of Christ**. For **1 Pet. [1:18–19]** it is said: *"Knowing that not with corruptible things — with gold or silver — ye have been redeemed from your vain conversation of paternal tradition, but with the precious blood as of the immaculate Lamb of Christ."* But **alms are among these corruptible things**. Alms **are in no wise the precious blood of Christ, to whom alone redemption is and ought to be attributed** — **Eph. 1:7**: *"In whom we have redemption through his blood."* But **alms are not the blood of Christ**. **Ps. 130:8**: *"He himself shall redeem Israel from all his iniquities"* — he saith not: *"Alms redeem from iniquities or from their punishments."*
+
+**Fourthly**: And hence it is clear, that **the Prophet doth not speak with the king concerning a Papist satisfaction for temporal punishments**. For as **the Papists themselves confess and speak**: **only the regenerate and faithful can satisfy by alms for temporal punishments**. But **it is beyond controversy, that King Nabuchodonozor, when Daniel was speaking these things to him, was not yet regenerate and converted to true faith, but was to be converted and justified**: for **he was then an inflated and impious Tyrant, who of conversion to God knew nothing certain**, as **cap. 4 of Daniel abundantly attesteth**. Wherefore **plainly incongruous it is, that the Papists distort these words of Daniel unto satisfaction for temporal punishments**.
+
+**Fifthly**: **Nor doth this subsist, that "sins and iniquities" here signify no more than temporal punishments of sins**. For **by no testimony of Scripture can they teach, that the name of "sin" or "iniquity" is anywhere in Scripture the same as the temporal punishment of sin, the guilt then already remitted**. And to this **it cannot be that sins and iniquities are without guilt before God — for where there is sin, there is also guilt**.
+
+— ❦ —
+
+## Question 8. What therefore is the true sense of the saying of Daniel, if that Papist one be false?
+
+**What therefore is the true sense of the saying of Daniel, if that Papist one be false?**
+
+**This is the true and genuine sense of Daniel**: **He willeth that Nabuchodonozor do penitence, be converted to God with the whole heart, and by the true fruits of penitence — as by alms and by all other works — testify to men that he hath truly done penitence and is converted to God**. **For if he shall have done this, by the very deed it shall come to pass that he shall reconcile to himself the men whom before he hath afflicted and spoiled, and expiate himself with them, and from the very work it shall be perceived, that he hath done penitence and is converted to God**.
+
+But as concerns **the expiation and satisfaction of sin and of the punishments owed to sins, Daniel knew that no one can satisfy for them, save only Christ Jesus** — as also **cap. 9:24 he expressly attesteth**, when he saith: *"That prevarication be consumed, and that sin receive an end, and iniquity be blotted out, and eternal righteousness be brought in."* And **Isa. 53:5**: *"The discipline of our peace is upon him."* **Ill therefore do the Papists, that so celerately pervert and sinisterly interpret this saying of Daniel.**
+
+— ❦ —
+
+## Question 9. Are there other rewards of alms?
+
+**Are there other rewards of alms?**
+
+**Very much so.** For **Isa. 58:7–8** it is said: *"Break thy bread to the hungry, and then shall thy light break forth as the morning, and thy health shall arise more speedily."* **Luke 6:38**: *"Give, and it shall be given unto you."* **In the other life also shall be copious the reward of alms — Matt. 25**.
+
+— ❦ —
+
+## Question 10. But the Papists boast, that Christ by his obedience merited that our alms and our other good works should expiate sins and merit eternal life — and this he bestoweth and communicateth to our works?
+
+**But the Papists boast, that Christ by his obedience merited that our alms and our other good works should expiate sins and merit eternal life — and this he bestoweth and communicateth to our works?**
+
+**This indeed they say — but they can teach it by no testimony of Scripture.** Besides, **to expiate and cleanse sins is such a work, as can be attributed to no creature or human work — but is proper to Christ alone, who is the Lamb of God, taking away the sins of the world**. And **whosoever ascribeth this glory to his own works, he raiseth them to the throne of the divine majesty**.
+
+**Nor doth this doctrine at all agree with the end of Christ's Passion**: for **Christ suffered, that he might satisfy for our sins and merit the remission of sins** — **not, however, that by his Passion he might acquire for our works, that they should be meritorious, and satisfy for sins**. **Isa. 53:5**: *"He was wounded for our iniquities"* — he saith not, "he was wounded for our good works, that to them he might acquire the virtue of expiating sins and of meriting eternal life."
+
+And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save sinners"* — he saith not: *"He came into this world to merit, that our works satisfy for sins, and merit blessedness."*
+
+— ❦ —
+
+# OF FASTING
+
+### *De Ieiunio*
+
+## Question 1. Is the faithful or Christian man bound to fast — that is, to live soberly and temperately?
+
+**Is the faithful or Christian man bound to fast — that is, to live soberly and temperately?** [*[Luther: T. 6, p. 486 and following*]*]
+
+**Very much so.** For **1 Pet. 5:8** we read, *"Be ye sober and watch."* **Eph. 5:18**: *"Be not ye drunken with wine, in which is luxury."* **Rom. 13:13**: *"Not in commissations and drunkennesses."* **Luke 21:34**: *"Attend to yourselves, lest perchance your hearts be weighed down with surfeit and drunkenness."*
+
+**Unto this fasting or temperance the faithful man is so obliged, that he is bound always so to live — and unless he shall have lived intemperately, grievously he sinneth**.
+
+— ❦ —
+
+## Question 2. Doth fasting or temperance of this kind merit remission of sins?
+
+**Doth fasting or temperance of this kind merit remission of sins?**
+
+**By no means.** For **this Christ alone hath merited for us** — but it maketh, that **for prayers and for expediting the offices of vocation we may be prepared and fit**.
+
+— ❦ —
+
+## Question 3. Did Christ institute and by a certain mandate ordain the fast of Lent?
+
+**Did Christ institute and by a certain mandate ordain the fast of Lent?** [*[Luther: T. 6, p. 47; p. 277*]*]
+
+**By no means.** For of this **no word or mandate exists in the sacred letters**. He indeed **fasted forty days and forty nights in the desert — Matt. 4:2** — but he did not command that we imitate this; as also **we cannot imitate it in that manner**. **The Apostles also instituted this not, nor can this be taught from their Epistles or writings**.
+
+**The same is the reason of the other days of Papist fasting.** For **neither Christ nor the Apostles prescribed those days of fasting in the New Testament**. And **always also in the Church of God there hath been disputation concerning the days on which one ought to fast** — as is to be seen in **Eusebius, book 5, cap. 26**. Whence **Augustine, Epistle 86, saith**: *"On which days it be not fitting to fast, and on which fitting, from the precept of the Lord or of the Apostles I find not defined."*
+
+— ❦ —
+
+## Question 4. The Papist fast therefore doth not merit the remission of sins?
+
+**The Papist fast therefore doth not merit the remission of sins?**
+
+**They indeed affirm this — but it is a blasphemy to be abominated against the merit of Christ.** **Scripture also nowhere saith, that it meriteth the remission of sins**. **It can be some exercise, for repressing the concupiscences of the flesh — but to merit the remission of sins it cannot**. **And what kind of thing that Papist fasting be, is known to the whole world.**
+
+— ❦ —
+
+## Question 5. Can certain days of fasting sometimes be prescribed?
+
+**Can certain days of fasting sometimes be prescribed?**
+
+**They can.** For example, **in the time of famine, of war, of pestilence**, etc. — and this on this account, that **men may be more apt unto prayers, not that by their fasting they may merit the remission of sins**.
+
+— ❦ —
+
+## Question 6. Do ye then abolish and prohibit fasting?
+
+**Do ye then abolish and prohibit fasting?**
+
+**By no means.** But as concerns the Christian life, **we teach that the faithful man ought always to fast — that is, that his whole life ought to be sober and temperate**. But as concerns the **hypocritical fasting of the Papists**, that we deservedly reprobate: because **they feign it as necessary to salvation, and meritorious for obtaining the remission of sins** — **neither of which is founded in Scripture, but much more with the Pharisaic fastings of Matt. 6 is expressly damned**.
+
+— ❦ —
+
+*[Locus XXIII De Bonis Operibus is TRULY COMPLETE — 26 top-level Q on bona opera (Q1–Q26) + 6 OBIECTIONES on necessitas-ad-salutem + embedded 'estote perfecti' Obj + 6 OBIECTIONES on meritum + DE DILECTIONE PROXIMI (4 Q) + DE ELEEMOSYNIS (10 Q) + DE IEIUNIO (6 Q). Total Locus XXIII: 46 Q + 13 Obj units. 411 top-level Q + 209 Obj rendered so far. Locus XXIV De Invocatione Dei follows in T44.]*
