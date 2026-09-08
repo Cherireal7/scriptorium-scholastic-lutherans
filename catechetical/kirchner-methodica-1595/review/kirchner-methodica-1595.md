@@ -8294,4 +8294,76 @@ On the contrary he understandeth the spiritual manducation by *the bread the Lor
 
 — ❦ —
 
-*[Locus XXVII Part 11 closes (OBIECTIONES VIII–XIV on indignorum manducation). Part 12 (**RESPONSIO AD PR ĂECIPVA ARGVMENTA ADVERSARIORVM** on Christ's body-nature — 7 arguments on human body properties + local circumscription + visibility of Christ's body + not-a-spirit objection) follows in T65. 518 top-level Q + 277 Obj rendered so far.]*
+# RESPONSIO AD PR ĂECIPVA ARGVMENTA ADVERSARIORVM
+
+*[Response to the chief arguments of the Adversaries, by which they endeavour to prove that the true body and blood of Christ, with the sacred Symbols of bread and wine in the Supper, are plainly not given or exhibited.]*
+
+## Argument I. From the property of the human body.
+
+### Objection I.1. **It is impossible that Christ should retain a true and natural body with its essential properties, and yet exhibit and distribute that same body with the bread of blessing. For he took a true human body consubstantial with ours, and in all things like — the property of which is, that it be not save in one place. *Ergo* etc.**
+
+**We easily concede that Christ is made like to the brothers in all things according to the flesh, sin excepted**. But **that on that account with his body he cannot effect and exhibit more than we with ours, is a figment of the Adversaries**. **The body of Christ is united personally, indissolubly, and non-distantly with divinity**. **By the body of the flesh of Christ the human race is reconciled to God — Col. 1:22**. **Through the blood of Christ we have redemption and remission of sins — Eph. 1:7**. **The blood of Christ cleanseth us from every sin — 1 John 1:7**. **The flesh of Christ is vivifying — John 6**; **adorable — John 9:28; Phil. 2:10**. **According to the flesh or the assumed human nature he hath received all power in heaven and on earth**, is placed at the right hand of the power of God, which filleth all things and can do all things.
+
+**These prerogatives the body of Christ hath above the bodies of all other men.** Wherefore therefore with his body doth he not truly perfect and do all things whatsoever he will? Since therefore **in the words of institution he hath promised the exhibition of his body with the bread of blessing, there is no doubt but that he can also exhibit this — although otherwise a true and natural body cannot but be in one place only**. And **to ratiocinate from the bodies of other men to the body assumed into the unity of the person of the Son of God, and thence to wish to conclude that Christ cannot exhibit more with his body, doth not avail**. Since therefore **it is not impossible to him to make a single word, and he himself promised the exhibition of his body in the Supper with the sacred Symbols, let no one say this impossible — unless he will convict Christ of lying in his own word**.
+
+— ❦ —
+
+### Objection I.2. **But this is against the nature of the body — and therefore impossible?**
+
+**Yet not is it above or against the power and will of God.** And although it seem to be above and against the nature of the true body, yet **Christ the Lord is Lord of nature: and what naturally seemeth contrary and impossible to nature — this he easily can do and exhibit in a supernatural mode**, since he is himself omnipotent God, and even as man hath received all power in heaven and on earth.
+
+Besides, **in sacred Scripture by no word is it said, that God cannot or will not effect that the body of Christ be simultaneously in many places in which the Supper is administered**.
+
+Hence **Augustine, *De Genesi ad literam*, book 6, cap. 17, saith**: *"Neither when those things are done are they against nature — save to us, to whom the course of nature was known otherwise — not however to God, to whom this is nature, that he hath made."* See **Jerome ad Pammachium**, item in Epitaph of Paula, and **Augustine, *De agone Christiano*, cap. 24**.
+
+— ❦ —
+
+### Objection I.3. **But the body of Christ is in a certain place of heaven, and cannot be outside it?**
+
+**Respondeo**: **A physical place is not an essential property of the body, but an accident of it.** For **to be in place and time, to be heavy, are conditions of a physical body, and of this life**. But **to these conditions of nature and this mortal life, the body of Christ — now not only glorified and spiritual, but exalted to the right hand of God (which is not a certain place) — is plainly not subject**. **The said objection therefore concerning the body of Christ concludeth nothing** — rather, the contrary is true: **Christ's body is exalted above every place, and above every name that can be named**.
+
+Then: **Christ with his body ascended above all the heavens** (where there is no such physical place) **that he might fill all things — Eph. 4:10**. **How therefore should the body of him not be, or not be able to be, without such a physical place?**
+
+**Thirdly**, **heaven itself is no such circumscribed place, but is the kingdom, dwelling, throne, and house of God — Isa. 66:1; John 14:2 — which we in this life cannot describe or express**. And when **Scripture nameth the seat, throne, or house of God, in no way doth it understand a circumscribed place in which he himself is contained**. For **Isa. 66:1, the Lord himself with perspicuous words decideth that he is circumscribed by no certain place, but filleth all things — saying**: *"The heaven is my seat, but the earth is the footstool of my feet: what is this the house which ye shall build to me? and what is this the place of my rest?"* **By what foundation therefore do the Adversaries say, that the body of Christ is contained and enclosed in heaven — where is the seat, throne, and habitation of God — as in a certain and circumscribed place?**
+
+**Fourthly**: **The body of Christ is now considered as it sitteth at the right hand of the majesty and power of God — which certainly is no certain and circumscribed place, but the very omnipotence of God itself**. Item as **conjoined with divinity into one person**. Hence **Nazianzen writeth to Clidonius**: *"Where is the body, if not with him who assumed it?"*
+
+**Fifthly**: If **magnitude and quantity** (for we deny not that the body of Christ, by reason of its nature, is finite and quantitative) **did not exclude the body of Christ from the disciples — but with the doors closed he came to them — John 20:19, 26 — how should place exclude him from the Supper, that he should not with his body illocally be present, and exhibit it in all places where his Supper is administered?** And besides, **one must not argue from a physical body to a glorious body — and chiefly to Christ's, which sitteth at the right hand of God**.
+
+**Excellently said Augustine, Ps. 30**: *"Let all things fall silent whatsoever is besides God — who guardeth us in the place of this life; he himself after this life shall be our place."*
+
+— ❦ —
+
+### Objection I.4. **Is then the body of Christ naturally, or in a natural mode, simultaneously in many or in all the places where the Supper is administered?**
+
+**By no means** — but in a **supernatural, celestial, incomprehensible mode** [*[T. 8, p. 177*]*]. What therefore is not done in the body of Christ in a natural mode, that is done by reason of the personal union and the session at the right hand of God — especially since the Lord in the words of institution expressly promised this.
+
+— ❦ —
+
+### Objection I.5. **But by this reason the body of Christ will no more be circumscribed, but must be established as infinite?**
+
+**In heaven certainly, by reason of glorified bodies, it is circumscribed — Phil. 3:20**. **In the Supper however it is present in an incomprehensible, illocal mode, and inexplicable to us in this life**. And **these are not contradictory propositions, since they are not said to be done in the same mode**. And **from all these things his wisdom, truth, and omnipotence shine forth**: **Wisdom in this — that he knoweth the mode by which he is present with his body illocally. Truth — that what he hath promised he keepeth. Omnipotence — that he doeth what he hath said**.
+
+— ❦ —
+
+### Objection I.6. **But the body of Christ is visible — Luke 24. *Ergo* in the Supper it cannot invisibly be present and exhibited.**
+
+**Respondeo**: **Truly Christ took a visible body** — but **that he cannot invisibly be present with that his body, hence followeth not**. He himself promised the true exhibition of his body delivered up for us in his Supper. Since therefore it is not done visibly, and yet truly it is done, because he himself promised this and knoweth not how to lie — **invisibly with the bread of blessing he must exhibit his body to us, of necessity**.
+
+**In no wise it escapeth us also, that the Adversaries heap up many sayings of the Fathers, by which they prove Christ assumed a visible body — which the same both we say and profess**. But **the Fathers hence do not conclude: *ergo* the body of Christ is not exhibited invisibly in the Supper**. Thus, that the Adversaries may weave to the sayings of the Fathers this consequence (which they themselves acknowledge not), we concede not.
+
+**By no testimony of Scripture also can they teach that on this account the truth of the body is destroyed, if in the Supper he be present with his body invisibly**. **John 8; Luke 24 — Theophylact writeth that he was made invisible, and yet nonetheless retained the essential properties of his body**. Wherefore therefore in his invisible presence in the Supper should he lose them?
+
+To this: **Augustine in the sentences of Prosper, and Bernard *De coena Domini*, expressly say that the body of Christ is exhibited invisibly in the Supper with the bread of blessing**.
+
+— ❦ —
+
+### Objection I.7. **But (say the Adversaries) the body of Christ is not a Spirit. Therefore wherever it is, it must be visibly and comprehensibly, or it is not a true body — of necessity?**
+
+**John 8:19 and Luke 24:31 — in his own body he was made invisible, and yet he was not converted into Spirit, or lost his body, or destroyed its nature: but with body preserved and its properties he becometh invisible**. **How therefore should his invisible presence in the Supper destroy the body and its essential properties?**
+
+And let the explanation of **Theophylact be noted upon each place**: on **verse 59 John 8, Theophylact saith**: *[Greek: he passed through the midst as being God]*. And **on verse 31 Luke 24**, Theophylact so saith: *[Greek: he became invisible, not that he was seen no more, but that he was rendered incapable of being held]*.
+
+— ❦ —
+
+*[Locus XXVII Part 12 closes (RESPONSIO ARG I: A proprietate corporis humani with 7 sub-parts on Christ's body-nature). Part 13 (ARG II–VII: ex ascensione + ex sessione + ex reditu + panem-signum + poculum-novum + 1 Cor 10:16 + spiritualis-coniunctio) follows in T66. 518 top-level Q + 284 Obj rendered so far.]*
