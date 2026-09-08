@@ -6038,4 +6038,86 @@ Then it is the nature of the cause "sine qua non," that without it the effect ca
 
 — ❦ —
 
-*[Locus XXIII Part 2 closes (Q11–Q13 + OBIECTIONES I–VI on necessitas ad salutem). Part 3 (embedded 'estote perfecti' Obj + Q14–Q20 on peccata reliqua + pugna + bona opera noxia + electitia + supererogatio + praemia + ex debito vs ex gratia) follows in T40. 386 top-level Q + 202 Obj rendered so far.]*
+### Objection. **Christ saith Matt. 5:48**: *"Be ye perfect."* *Ergo* we can be perfect.
+
+**Respondeo**: **Christ indeed saith this, but by this very thing — not that we are perfect or can be — he affirmeth, but showeth our imperfection to us, and admonisheth us that we should acknowledge it, and seek in himself the perfect fulfilment of the Law through faith, that so we may obtain righteousness and salvation** — **Rom. 10**. And so **he showeth, not whither we have come, but whither we ought to go and contend** [*[T. 1, p. 172; pp. 172, 173*]*].
+
+Whence **Bernard on the words of Isaiah**: *"Our righteousness — if any there be — is humble, upright perhaps, but not pure: unless perchance we believe ourselves better than our fathers, who not less truly than humbly said, 'all our righteousness is as a menstruous cloth'"* — **Isa. 64:6**.
+
+— ❦ —
+
+## Question 14. Since therefore the saints in this life are imperfect, what sins are remaining in them?
+
+**Since therefore the saints in this life are imperfect, what sins are remaining in them?**
+
+**Many infirmities** — as **doubts, impatience, negligence, uncleanness of heart, depraved cogitations and inclinations to evil**. **The love of God and of the neighbour in them groweth cold and languisheth**, and **the whole new obedience is conjoined with much infirmity, on account of the sin dwelling in the flesh, which repugneth to the Law of the mind** — **Rom. 7:23**. Our prayers **are not, as they ought, ardent — nor, as we ought, do we resist depraved concupiscences** — and many things similar, and to us inexplicable and unknown, are our infirmities. These **Paul, Rom. 6:12, 14, calleth sins — but not-reigning**. For **the faithful acknowledge these sins, and resist them by the power of the Holy Spirit, and seek the pardon of them on account of Christ**. Whence also **on account of these infirmities they are not condemned** — **Rom. 8:1**: *"There is therefore now no condemnation to those who are in Christ Jesus, who walk not according to the flesh."*
+
+— ❦ —
+
+## Question 15. Must the faithful therefore always fight against sin remaining in the flesh, and attend that they grow and profit in good works?
+
+**Must the faithful therefore always fight against sin remaining in the flesh, and attend that they grow and profit in good works?**
+
+**Very much so.** For so it is said, **2 Pet. 3:18**: *"Grow in grace and in knowledge of our Lord and Saviour Jesus Christ."* For **we have our treasure in faith and not in species — always therefore we must wrestle and labour, that not sin, but faith and its fruits, may grow in us**. As **Paul, Rom. 6:6, saith**: *"Knowing this — that our old man is crucified together, that the body of sin be destroyed, that no longer we may serve sin."* The interior new man in us **is not perfected in one hour, but is corroborated from day to day**.
+
+— ❦ —
+
+## Question 16. But what is to be established concerning that form of speaking: "Good works are noxious and pernicious to salvation"?
+
+**But what is to be established concerning that form of speaking: "Good works are noxious and pernicious to salvation"?**
+
+**If any one intrudeth good works into the article of justification, and teacheth that hope and confidence of salvation is to be had in them, and that the grace of God is to be merited by them, rightly is it said, that works are noxious and detrimental to him** — not indeed on account of the works, but **on account of the vain and impious confidence, whereby the honour due to Christ is subtracted**.
+
+But **hence it followeth not, that in general or universally good works are noxious and detrimental to the faithful**. For in the faithful they are **the fruits of justification and the marks of salvation** — **Phil. 1:28**. **Not undeservedly therefore is the aforesaid form of speaking rejected.**
+
+— ❦ —
+
+## Question 17. But what is to be judged concerning elective works and those excogitated by men?
+
+**But what is to be judged concerning elective works and those excogitated by men?** [*[Gen. T. 2, p. 177; Gen. T. 4, pp. 132, 133; Gen. T. 3, pp. 93, 94, 201, 98*]*]
+
+**This is certain — that no such works are to be excogitated or prescribed to others.** For **God himself hath prohibited this — Deut. 12:28**: *"Observe and hearken to all things which I command thee."* **V. 32**: *"What I command thee, only this do to the Lord, neither add anything nor diminish."*
+
+**How much God was inflamed against the people of Israel**, because **they built high places, and offered on them, one may abundantly see, among others, 3 Kings 14; Ezek. 16**. To this **Christ himself reprobateth and damneth the mandates of men — Matt. 15:9**. **Col. 2:18**: *"Let no man seduce you, willing in the humility and religion of Angels — those things which he hath not seen — to walk."*
+
+From these it is easily gathered, **what is to be judged concerning the elective works and cults of the Papists**.
+
+— ❦ —
+
+## Question 18. Is it true, that the Papists teach — that the faithful in the New Testament can not only fulfil the Law, but even do works of supererogation? [*[…pp. 172, 178*]*]
+
+**Is it true, that the Papists teach — that the faithful in the New Testament can not only fulfil the Law, but even do works of supererogation?**
+
+**A mere figment this is.** For as **Rom. 8:3** hath it, **this is impossible for the Law**. And **Luke 17:10 Christ himself saith**: *"Ye, when ye shall have done all things which were commanded you, say: We are unprofitable servants; we have done what we ought to do."* **Where here therefore are works of supererogation?**
+
+**Deut. 6:5 God commandeth**: *"Thou shalt love the Lord thy God with thy whole heart."* **Where then doth anything remain in us not-owed, that we can add or supererogate?**
+
+**The Lord's Prayer teacheth all the saints to confess that they are debtors — how then shall they exhibit works of supererogation?**
+
+**All the saints besides acknowledge and confess their imperfection** — **Rom. 7:18; 1 John 1:8**: *"If we shall have said, that we have no sin, we deceive ourselves, and the truth is not in us."* **Where then are works of supererogation?**
+
+And to say it in one word: **detestable is the pride and execrable the blasphemy, when a man taketh this to himself — that he obeyeth or overpayeth God more than he oweth**. For **this contumeliously afflicteth the Passion and satisfaction of Christ made for us**. Wherefore **this figment is deservedly exploded**.
+
+— ❦ —
+
+## Question 19. Have the works of the faithful their own rewards and recompense?
+
+**Have the works of the faithful their own rewards and recompense?**
+
+**Very much so.** For so **Christ himself saith, Matt. 5:12**: *"Rejoice and exult, because your reward is copious in the heavens."* **1 Tim. 4:8**: *"Piety is useful to all things, having the promise of the life which now is, and of that to come — a faithful saying, and worthy of all acceptation."* **Rom. 8:18**: *"The sufferings of this time are not worthy of the future glory, which shall be revealed in us."*
+
+— ❦ —
+
+## Question 20. Are these rewards given of debt, or of grace?
+
+**Are these rewards given of debt, or of grace?**
+
+**The Papists establish those to be given of debt.** But **Scripture nowhere affirmeth this**. For **how should the good works of the saints merit for them eternal life, since Christ alone hath merited it for them, and freely giveth it?**
+
+And **Christ indeed speaketh of the reward and rewards of good works, but he addeth not that they are given of debt, and that works are meritorious, and that God is held to give us eternal life for them**.
+
+So **Paul and the rest of the faithful of the Old and New Testament had indeed the promise of the reward and rewards of good works, and sufficiently understood it — but nowhere affirmed that by their works eternal life is merited**. Rather they said this: **that if the Lord shall have observed iniquity, they cannot sustain** — **Ps. 130:3** — and **that they cannot in the judgement of God answer God to one out of a thousand — Job 9:2–3**. Paul **Rom. 7:25** saith: *"The grace of God through Jesus Christ our Lord."* **Phil. 3:8**: he esteemeth his works **as dung in the judgement of God**, and willeth **to be found having not his own righteousness which is from the Law, but that which is from faith of Christ**.
+
+— ❦ —
+
+*[Locus XXIII Part 3 closes (embedded 'estote perfecti' Obj + Q14–Q20 on peccata reliqua + continuous pugna + bona opera noxia formula + electitia opera + supererogatio refutation + praemia + ex debito vs ex gratia). Part 4 (Q21 how to accept mercede passages + Q22–Q24 sanctorum merita + OBIECTIONES I–VI on merit + Q25 Jacob 2:24 + Q26 Pontifician charge) follows in T41. 393 top-level Q + 203 Obj rendered so far.]*
