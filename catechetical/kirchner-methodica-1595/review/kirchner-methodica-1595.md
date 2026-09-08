@@ -8768,4 +8768,116 @@ So by **Irenaeus, Justin, and other Fathers, the sacred Supper is called *Euchar
 
 — ❦ —
 
-*[Locus XXVII Part 17 closes (RESPONSIO on Papist Missa ARG I–X). Part 18 (Q on cup interdiction with 6 sub-points + RESPONSIO on cup arguments I–V + Q on inclusio/adoratio panis consecrati with 3 sub-points + final Q on 9-fold Sacramentarian defects — closes Locus XXVII) follows in T71. 522 top-level Q + 324 Obj rendered so far.]*
+## Question 46. Did the Popes rightly, in interdicting the use of the cup to the Laity?
+
+**Did the Popes rightly, in interdicting the use of the cup to the Laity?** [*[T. 3, pp. 385, 386, 387; T. 2/1, pp. 261, 262, 549*]*]
+
+**By no means.** But **a horrible sacrilege they committed in this**.
+
+**I.** For **Christ expressly saith**: *"Drink of it all of you."*
+
+**II.** They had **no power or mandate for changing the use of the cup**.
+
+**III.** **The blood of Christ also was poured out no less for the Laity than for the Priests. Why then should they be deprived of the use of it in the sacred Supper, which Christ instituted for all the faithful?**
+
+**IV.** It standeth that **in the time of the Apostles even the Laics drank the blood of Christ — 1 Cor. 11: for the Corinthians were not merely priests**.
+
+**V.** **Gelasius concerning those who abstained from the cup of the sacred blood, so decreeth** (De consecratione dist. 2, cap. *Comperimus*): *"Either let them receive the entire Sacraments, or from the entire let them be barred — because the division of one and the same mystery cannot come to pass without a great sacrilege."* **From the ancient canons therefore and the words of Gelasius it is clear, that those must be censured who abstain from the cup — and that it is a sacrilege to divide one and the same Sacrament**.
+
+**VI.** **The Council of Constance, around A.D. 1415**, [*[T. 6, p. 319 and following*]*] **first interdicted to the Laity the use of the cup — although Christ instituted it for all the faithful**.
+
+— ❦ —
+
+# RESPONSIO AD PRAECIPVA ALIQUOT ARGVMENTA A PONTIFICIIS PRO INTERDICTO CALICIS ALLATA
+
+*[Response to certain chief arguments alleged by the Papists for the interdict of the cup.]*
+
+### Argument I. **The Gospel leaves the use of the cup free to the Church. *Ergo* the interdict of it cannot be reprehended.**
+
+**Respondeo**: **The Antecedent cannot be proved from the books of the New Testament**: for **liberty of this kind is intimated by no word in them**: but **the contrary is attested by the Evangelists and Paul — that the Lord commanded the use of the entire Sacrament**. **Express is his mandate: *"Drink of it all of you"* — to which the Apostolic Church reverently and faithfully obeyed**. **A mere figment therefore is whatsoever concerning such liberty is brought forward by the Papists.**
+
+— ❦ —
+
+### Argument II. **But Luke 24 there is mention only of the breaking of bread. *Ergo* the use of the cup can at pleasure be omitted.**
+
+**Respondeo**: **The breaking of bread, Luke 24, concerneth not that sacred Supper in which Christ instituted and commanded his body to be manducated with the bread, and his blood to be drunk with the wine — but the ordinary supper of Christ with the two disciples**, as the text itself sufficiently sheweth. **For with the two disciples he reclined, brake bread according to his customary usage, and distributed it to the disciples — from which they knew him**. But **that he administered the sacred Supper (in which, according to the words of institution, with bread his body is exhibited), and gave only his body to the disciples, and not also the cup at the same time — is a figment of the Adversaries, which they can teach by no foundation of truth**.
+
+— ❦ —
+
+### Argument III. **The whole Christ is under each species. *Ergo* it sufficeth that to the Laity the other species be given, since under it they participate the whole Christ — that is, his body and blood. For the body of him is not without blood.**
+
+**Respondeo**: **If it were in human choice, freely to dispute and conclude concerning the institution and ordination of Christ, many more things than these could here be objected and concluded**. But **since it is of no creature — but only of God — to institute Sacraments, and Christ true God and true man so and not otherwise instituted his sacred Supper — that as he himself instituted and dispensed it, thereafter by the Apostles and the ministers of the Church, until his last coming, it should be dispensed — and moreover commanded, that all should drink of the cup: it is not lawful for anyone to change his institution, to give the other species and deny the other**: **but the institution and mandate of Christ must be adhered to**.
+
+**Nor was this argument unknown to the Lord — that the body is not without blood, and therefore there is no need to give his blood too separately** — if he had willed to use it thus: **but so it pleased him, that with bread he should exhibit his body, and with wine his blood, according to the words of institution**. **In this institution and mandate of Christ therefore let all creatures acquiesce, and let them change nothing in his institution.**
+
+— ❦ —
+
+### Argument IV. **But (they say) the Church hath power of dispensing in the Sacraments. Since therefore it hath seemed to the Church that the cup is not to be offered to the Laity, the pleasures of the Church must be acquiesced in.**
+
+**Respondeo**: **The Church has no power of changing the institution of the Lord and its Redeemer** — nor can the Adversaries teach this power from the writings of the New Testament. Although they pretend that **the ministers of the Church are dispensers or *oeconomi* of the mysteries of God — 1 Cor. 4:1** — hence nevertheless it in no wise followeth, **that they have power of changing the institution of their Lord. *Oeconomi* indeed of him and dispensers, but not lords of him, are they: and they are held to observe the institution of Christ according to his own words. If they do not this, they shall render an account to their Lord on the day of judgement.**
+
+— ❦ —
+
+### Argument V. **But (they insist) Paul himself saith, 1 Cor. 11:34**: *"The rest, when I come, I shall dispose."* ***Ergo* he reserved to himself the power of changing something in the institution of the Supper.**
+
+**Respondeo**: **Paul in the aforesaid words speaketh not of the institution of the sacred Supper — that in it he reserved to himself the power of changing anything** (for of it a little before v. 23 he had said: *"I received from the Lord that which I have handed down to you"* — and in it it was not becoming for him to change anything) — **but of other ceremonies, which could make for the edification of the Corinthian Church**. **Ill therefore are the words of Paul distorted to the pertaining subversion of the institution of Christ and the sacrilege of the interdict of the cup.**
+
+What also they contend, that **the Apostles changed the form of Baptism, *ergo* it hath been conceded to the Church even in the Supper to change something** — this they cannot prove. For although **in the book of the Acts of the Apostles it is had, that they baptized in the name — that is, at the mandate — of Christ**, yet in it it is not said, **that they changed the form and institution of Baptism, as it is had Matt. 28, and administered it otherwise than according to those words**.
+
+And what need is there of words? **If the Testament of a man, confirmed by the death of the testator, is not to be changed — by what right shall they change the Testament of Christ, and interdict the use of the cup to the Laity?**
+
+That in the Council of Constance, around A.D. 1415, was decreed — this notwithstanding, that is, notwithstanding the institution of Christ, **the cup is not to be offered to the Laity — is of no moment**. Because **neither the Council, nor an Angel or any man, hath power of changing and abrogating the institution of Christ**.
+
+**John 10 — Christ saith**: *"My sheep hear my voice"* — not: *"my sheep change my voice."* From which it is clear, **that the Bishops in the Council of Constance were not sheep, but adversaries of Christ, since they did not hear the institution of Christ, but presumed to change it**. **The same answer let it be to the Council of Trent, which confirmed this change of the institution of Christ — by no right of its own, but by great sacrilege**.
+
+Hither pertain the words of **Gelasius concerning those, who by some superstition abstained from the cup**, *De consecratione* distinct. 2, *Comperimus*: *"We have discovered, that some, having received only a portion of the sacred body, abstain from the cup of the sacred blood: who because — I know not by what superstition — are said to be bound; either let them receive the entire Sacraments, or let them be barred from the entire: because the division of one and the same mystery cannot come to pass without a great sacrilege."*
+
+— ❦ —
+
+## Question 47. Are the inclusion, circumgestation, and adoration of the consecrated bread to be approved?
+
+**Are the inclusion, circumgestation, and adoration of the consecrated bread to be approved?**
+
+**By no means.** [*[Gen. 2, p. 3*]*]
+
+**I.** For **Christ instituted this not, nor commanded it — but said**: *"Manducate, drink"* — not: *"Enclose, carry around in procession, and adore."*
+
+**II.** **The Apostles neither enclosed the bread of blessing in a pyx, nor carried it around, nor adored it, or set it forth to be adored.**
+
+**III.** **A Papist figment, full of idolatry, is that inclusion, circumportation, and adoration of the consecrated bread — introduced partly at the Lateran Council, partly by the constitutions of subsequent Popes**.
+
+**Urban IV instituted the feast of the body of Christ by the instigation of a certain woman, to whom this was said to have been revealed.**
+
+— ❦ —
+
+## Question 48. How can the faithful man rightly avoid each error — of the Papists and of the Sacramentaries?
+
+**How can the faithful man rightly avoid each error — of the Papists and of the Sacramentaries?**
+
+**If he stand upon the very words of institution of Christ**. **For these teach neither any transubstantiation of the bread into the body of Christ, nor any oblation of the Mass for the living and the dead, nor do they approve the sacrilege of the interdict of the cup**.
+
+**Nor do they teach that in the Supper only signs of the far-absent body and blood of Christ are exhibited — but perspicuously attest that the very body of Christ delivered up for us, and the very blood of Christ poured out for us, with bread and wine in the Supper are given and exhibited to us**.
+
+And **the blasphemies indeed of the Papists are sufficiently palpable and easily to be understood and avoided; but the opinion of the Calvinians — which consenteth with human reason and smileth upon it — is not so easily avoided**. Let those attend to whom truth is in the heart. [*[T. 6, p. 105 and following*]*]
+
+**I.** That when **Christ saith, this is his body, they contend that this is not the very body of him, but a sign of his body**.
+
+**II.** That **from the distribution of the body of Christ they make a participation of the communion of the body of Christ — 1 Cor. 10 — and so plainly pervert the words of Paul**.
+
+**III.** That **against the testimony of Paul and of the orthodox Fathers, they deny the manducation of the unworthy**.
+
+**IV.** That **they detract from Christ the glory of truth, contending that he did not institute the presence and participation of his body, but the signs of it — when yet his own words properly speak of the participation and exhibition of his body**.
+
+**V.** That **they derogate the praise of omnipotence. For they contend he was not able to institute this — that his body should be distributed with the bread — since it is impossible that his body be simultaneously in many places than one**.
+
+**VI.** That **Zwingli himself in his book, whose title is *Subsidium Eucharistiae*, confesseth that he learned his interpretation in a dream**.
+
+**VII.** That **the Adversaries have so diverse and discrepant interpretations of the words of the Supper, which cannot simultaneously be from the good Spirit of God** [*[T. 8, p. 176 and following*]*].
+
+**VIII.** That **their sentence chiefly leaneth on philosophical ratiocinations** — as: **it is impossible that the body of Christ, which ascended into heaven, be exhibited with bread in the Supper; it is impossible that the body of Christ be anywhere if it be not there locally, comprehensibly, visibly; it is impossible that Christ exhibit his body in the Supper without abolition of it**.
+
+**IX.** That **the doctrine of monitory signs of the far-absent body of Christ bestoweth no solid consolation — and that consciences in temptations cannot give any account, why from the perspicuous words of institution they departed and expounded them of the signs of the far-absent body and blood of Christ**. Which also **Berengarius, by the testimony of his own history, taught by his own example — saying in the agony**: *"This day shall the Lord Jesus appear to me — either unto salvation, as I hope, on account of my penitence — or unto judgement, on account of those whom by my doctrine I have seduced, and whom I could not recall."*
+
+— ❦ —
+
+*[Locus XXVII De Sacra Domini Coena is TRULY COMPLETE — the largest locus in Methodica, spanning ~6067 OCR lines and rendered in 18 tranches (T54–T71). Total Locus XXVII: 48 top-level Q + numerous OBIECTIONES clusters (indignorum manducation × 14 + ore manducation × 3 + Spiritual-only × 5 + particles × 5 + predication × 4 + Sacramental union × 2 + RESPONSIO ARG I–XXII on body-nature/place/mode + Missa Papist ARG I–X + cup-interdict ARG I–V + inclusio × 3 + final 9-point Sacramentarian defects) ≈ 60+ Obj units. 522 top-level Q + 337 Obj rendered so far. Locus XXVIII De Ecclesia Catholica vel Christiana follows in T72.]*
