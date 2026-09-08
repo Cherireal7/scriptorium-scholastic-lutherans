@@ -4734,4 +4734,110 @@ For since **we could not satisfy for our sins and exhibit the righteousness of t
 
 — ❦ —
 
-*[Locus XX Part 1 closes. Part 2 (Q10-Q20) follows in T26. 306 top-level Q + 159 Obj rendered so far.]*
+## Question 10. Christ Jesus alone therefore the Son of God has merited this righteousness for us?
+
+**Christ Jesus alone therefore the Son of God has merited this righteousness for us?**
+
+**He alone has merited and acquired it for us** [*[Luther: T. 7, p. 401 f. b*]*] — as he himself saith **Isa. 43:24–25**: *"Verily thou hast made me to serve in thy sins, thou hast afforded me labour in thine iniquities. I am, I am he, who blot out thine iniquities on account of me,"* etc. **Isa. 53:4** — *"Truly he himself hath borne our sicknesses, he himself hath carried our sorrows."* **John 1:29** — *"Behold the Lamb of God, behold, who taketh away the sin of the world."* **Rom. 3:24** — *"through the redemption which is in Christ Jesus, whom God set forth as a propitiation through faith in his blood."*
+
+— ❦ —
+
+## Question 11. Why did it behove this to be done thus?
+
+**Why did it behove this to be done thus?**
+
+It behoved this to be done thus:
+
+**I.** For **a mere and naked creature could expiate no sins, nor satisfy for them, nor acquire for men a righteousness prevailing before God** — **Ps. 49:8–9**: *"A brother by redeeming cannot redeem any man, nor give unto God a ransom for him: for precious is the redemption of their soul, that anyone should live for ever."*
+
+**II.** Also **a mere and naked creature could not distribute and apply to sinners the satisfaction exhibited and the righteousness acquired, nor guard and preserve them therein against the temptations of sin and the tyranny of the Devil**. It behoved therefore that **the Mediator, who ought to acquire, distribute, and preserve these things, should be God and Man in one indissoluble person**.
+
+**III.** To this end also — that we might be **certain, and might in no wise doubt**, that the **satisfaction made by Christ, and the fulfilment of the Law once for all exhibited by him, is sufficient, and abundantly efficacious to deliver us from all sins, to defend us in the judgement of God, and to obtain for us life and salvation**.
+
+— ❦ —
+
+## Question 12. By what means therefore did he acquire this righteousness for us?
+
+**By what means therefore did he acquire this righteousness for us?**
+
+**Both by his Passion and death, and by his most holy and most perfect obedience, which for us he exhibited by fulfilling the whole Law** — **Isa. 53:5**: *"But he was wounded for our iniquities,"* etc. **Rom. 5:19**. Item **Rom. 8:3–4**.
+
+— ❦ —
+
+## Question 13. Could we not therefore by our works satisfy for sin and fulfil the Law, and so be justified before God?
+
+**Could we not therefore by our works satisfy for sin and fulfil the Law, and so be justified before God plainly?**
+
+**Plainly not.** The causes are: [*[Luther: T. 7, p. 22 and following*]*]
+
+**I.** That **our nature by sin is so far corrupted, that this payment and satisfaction it alone cannot attain**. For **we are not solvent** — **Matt. 18**.
+
+**II.** That **all our works, howsoever holy and good they be, are yet before God unclean and dung** — **Phil. 3:8**. But **uncleanness is not washed away by uncleanness, nor dung by dung**. That therefore **the uncleanness of sin and our corrupt nature might be purged, and that we might obtain remission of sins and a righteousness prevailing before God, it behoved us to be washed by the precious blood of the immaculate Lamb Christ** — **1 John 1:7; Rom. 3:25**.
+
+**III.** Also **we could not fulfil the Law by our works, seeing it was made weak through the corrupt flesh** — **Rom. 8:3**. But **vain is every action instituted with God concerning righteousness, apart from a perfect fulfilment of the Law**. That therefore **salvation might come to us, need there was of Christ's most perfect and most holy obedience and fulfilment of the Law**.
+
+**IV.** That whereby **remission of sins and a righteousness prevailing before God might be acquired**, it behoved to be **so precious, as with GOD to merit these things**. It behoved also that it should be **plainly clean and unpolluted and uncontaminated**, and **exhibited by such a person, whose authority with God is so great, that in his payment and satisfaction he might acquiesce**. But **our works with God could not be so precious**, neither **are they clean and irreprehensible in the judgement of God**; besides which **we wretched men corrupted by sin cannot with GOD be of such authority, that he should be willing to be content with our impure and imperfect obedience and sordid works, and to acquiesce in them**. That therefore **we might be reconciled to God, need there was of Christ's obedience and satisfaction, which is sufficiently precious, clean, and irreprehensible, and with God is of such value and authority, that on account of this satisfaction of his Son he freely receives us into grace**. Whence Paul, **Rom. 8:32**, saith: *"Who also spared not his own Son, but delivered him up for us all"* — as if he should say: **Since with so great a treasure of price — his own Son, namely, whom he delivered up for us — he hath redeemed us, most easily is it inferred hence, that we could not satisfy for our sins, nor obtain righteousness by our own works**.
+
+— ❦ —
+
+## Question 14. How therefore is the sinner-man, doing penitence, justified before God?
+
+**How therefore is the sinner-man, doing penitence, justified before God?**
+
+When **with a heart contrite and humbled in true knowledge of sins and of God's severe judgement against sin**, he **raiseth himself up upon the satisfaction and most holy obedience of Christ**, and **with true faith and full confidence of heart apprehendeth the death and the whole merit of Christ**: for **so God certainly remitteth to him all his sins on account of Christ, who offered himself for him, and imputeth and giveth to him the whole obedience of Christ**, so that **with certain and infallible confidence a man may establish this — that Christ's satisfaction is his satisfaction, and Christ's obedience and fulfilment of the Law is his own righteousness, on account of which he is absolved from sins, reconciled to God, justified, and adopted into a citizen and heir of eternal life** — **Rom. 3:28**: *"We reckon,"* etc. **Rom. 4:5** — *"To him that worketh not,"* etc.
+
+— ❦ —
+
+## Question 15. Christ's satisfaction therefore and fulfilment of the Law is certainly ours?
+
+**Christ's satisfaction therefore and fulfilment of the Law is certainly our satisfaction?**
+
+**Most certainly ours.** For **he was delivered up for our sins, and rose again for our justification** — **Rom. 4:25**. **Isa. 53:5** — *"By his stripe we are healed."* **1 Cor. 1:30** — *"Christ Jesus is made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, he that glorieth, let him glory in the Lord."*
+
+— ❦ —
+
+## Question 16. But by what means is this righteousness distributed and applied?
+
+**But by what means is this righteousness distributed and applied?**
+
+**God on his part useth the Gospel and the Sacraments, which are the means through which he rendereth us partakers of the merit of his Son, giveth it to us, and delivereth it over** — **1 Cor. 1:21**: *"It pleased God through the foolishness of preaching to save them that believe."* **Mark 16[:16]** — *"He that shall have believed and shall have been baptized, shall be saved."*
+
+But as concerns us: **we apprehend, receive, apply to ourselves, and retain this righteousness given out of grace by faith — that is, by true confidence of heart, which certainly acquiesceth in this, and wrestleth against diffidence and doubt** — **John 3:36**: *"He that believeth in the Son, hath eternal life."*
+
+— ❦ —
+
+## Question 17. What moveth and impelleth God, that he should give this righteousness to us?
+
+**What moveth and impelleth God, that he should give this righteousness to us?**
+
+**I.** **His own ineffable mercy and goodness, by which he willeth us to be saved from sins and death** — **John 3:16**: *"For so God loved the world, that he gave his only-begotten Son,"* etc.
+
+**II.** Then **the satisfaction and precious merit of Jesus Christ** — **Rom. 3:24**: *"through the redemption which is in Christ Jesus."* Since Christ Jesus his beloved Son hath acquired it for us.
+
+— ❦ —
+
+## Question 18. But to whom will God give this highest grace and mercy?
+
+**But to whom will God give this highest grace and mercy?**
+
+**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come unto me all ye, that labour and are laden, and I will refresh you."* **Ezek. 33:11** — *"As I live, saith the Lord God, I will not the death of the impious, but that the impious be converted from his way and live."* **Ps. 22:26** — *"The poor shall eat, and shall be satisfied."* **Isa. 55[:1]** — *"All ye that thirst, come to the waters, and ye that have no silver, hasten, buy and eat; come, buy without silver and without any exchange wine and milk."*
+
+— ❦ —
+
+## Question 19. What order and process doth God observe in the justification of the sinner-man?
+
+**What order and process doth God observe in the justification of the sinner-man?**
+
+**This is shown to us Matt. 18, in the parable of the Servant owing to his Lord ten thousand talents** — whom the Lord **first leadeth into the knowledge of the insoluble debt and of sin, and contriteth and humbleth in the heart; afterwards he hath mercy of him, through the Gospel raiseth him up and consoleth him, at length dismisseth him, and remitteth to him the debt**.
+
+— ❦ —
+
+## Question 20. Are all sinners therefore, doing penitence, in like manner and by the same mode justified by God?
+
+**Are all sinners therefore, doing penitence, in like manner and by the same mode justified by God?**
+
+**Very much so.** For **here is no distinction [of persons]: all we have sinned, and lack the glory of GOD** — **Rom. 3:23**. Therefore also **in this we are equal, that we are justified freely by his grace, through the redemption which is in Christ Jesus, whom God set forth as a propitiation through faith in his blood** — **Rom. 3:24–25**.
+
+— ❦ —
+
+*[Locus XX Part 2 closes. Part 3 (Q21–Q28) follows in T27. 317 top-level Q + 159 Obj rendered so far.]*
