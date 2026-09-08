@@ -6212,4 +6212,94 @@ Nay rather, **it is necessary that they be good trees, before they do anything o
 
 — ❦ —
 
-*[Locus XXIII Part 4 closes (Q21–Q24 + OBIECTIONES I–VI on merit). Part 5 (Q25 Jacob 2:24 + Q26 Pontifician charge that we prohibit good works + DE DILECTIONE PROXIMI + start of DE ELEEMOSYNIS) follows in T42. 397 top-level Q + 209 Obj rendered so far.]*
+## Question 25. How therefore is the saying, Jas. 2:24, to be understood? *"Ye see, that from works a man is justified, and not from faith only"?*
+
+**How therefore is the saying, Jas. 2:24, to be understood? *"Ye see, that from works a man is justified, and not from faith only"?***
+
+For the declaration of this saying, first it is necessary to observe **the status and intention of James — who treateth not concerning the righteousness of faith and wherein it consisteth, but concerning those who feigned that the exercise of good works was not necessary to the faithful**. **To these James contradicteth, and showeth that the faithful ought by good works to demonstrate that they are justified through faith**. And **to be justified with James is not — as with Paul — to be absolved from sins and justified on account of Christ: but to declare, to evince, and by the thing itself and by the fruits of faith to demonstrate that we are truly justified through faith in Christ, and are not trees without fruits**.
+
+And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he saith, *"the sentences of the two Apostles, Paul and James, are not contrary to themselves — when the one saith 'a man is justified by faith without works,' and the other saith 'faith is empty without works' — because the one saith of works which precede faith, the other of those which follow faith. Just as also Paul himself in many places showeth."*
+
+— ❦ —
+
+## Question 26. Is it true, that the Papists say our men prohibit good works? [*[Luther: T. 7, p. 58 f. b*]*]
+
+**Is it true, that the Papists say our men prohibit good works?**
+
+**They do us injury.** For **we expressly teach that good works are necessary — that he is not a truly faithful Christian who worketh not works, and in them walketh not**. Nay rather **we confess, that from the very works it is manifest, whether we be sons of GOD, or not** — **1 John 3:10**: *"In this are manifest the sons of God and the sons of the Devil: every one that doeth not righteousness, is not of God, and he that loveth not his brother."* **How therefore should we prohibit good works, as the Papists inequitably accuse us?**
+
+— ❦ —
+
+# OF LOVE OF THE NEIGHBOUR
+
+### *De Dilectione Proximi*
+
+## Question 1. Is the Christian and faithful man bound to love his neighbour?
+
+**Is the Christian and faithful man bound to love his neighbour?** [*[Luther: T. 6, pp. 42, 46*]*]
+
+**Very much so.** For **in this are they recognized to be disciples of Christ, if they have love toward one another** — **John 13:35**.
+
+— ❦ —
+
+## Question 2. But what and of what sort ought this love to be?
+
+**But what and of what sort ought this love to be?**
+
+**This John showeth, 1 John 3:18**: *"My little sons, let us not love in word nor in tongue, but in work and in truth."*
+
+— ❦ —
+
+## Question 3. What besides are its properties?
+
+**What besides are its properties?**
+
+**These are explained, 1 Cor. 13:4–7**: *"Charity is patient, is benign; charity envieth not, doth not iniquity, is not puffed up, is not ambitious, seeketh not the things which are her own, is not irritated, thinketh not evil, rejoiceth not on iniquity, but rejoiceth with truth, suffereth all things, believeth all things, hopeth all things, sustaineth all things; charity never falleth away."*
+
+— ❦ —
+
+## Question 4. Is it right for the Christian to desist in the works of charity on account of the ingratitude of the world? [*[Luther: T. 6, p. 50*]*]
+
+**Is it right for the Christian to desist in the works of charity on account of the ingratitude of the world?**
+
+**By no means.** For so **Paul, Gal. 6:9, saith**: *"But let us not fail in doing good; for in due time we shall reap, not failing."* Therefore, **although the faithful reporteth small or no thanks from the world and impious men, yet from charity and its works let him in no wise desist, nor be wearied**.
+
+— ❦ —
+
+# OF ALMS
+
+### *De Eleemosynis*
+
+## Question 1. Doth the Christian and faithful man give alms?
+
+**Doth the Christian and faithful man give alms?** [*[Luther: T. 5, p. 396 and following*]*]
+
+**Very much so.** For **this is of Christian charity, and by this is charity known** — **Isa. 58:7**: *"Break thy bread to the hungry."* And **Christ in the last day shall confess and preach**, if we shall have fed the hungry, given drink to the thirsty, covered the naked — **Matt. 25:35**.
+
+— ❦ —
+
+## Question 2. Why then doth the Lord chide the alms of the Pharisees — Matt. 6:2?
+
+**Why then doth the Lord chide the alms of the Pharisees — Matt. 6:2?**
+
+**Not on account of the work itself, but on account of the false opinion and persuasion attached to the work — because they sought their own glory in it, not God's, nor the utility of the neighbour**. He saith therefore, **attend**.
+
+— ❦ —
+
+## Question 3. But what is it to give alms, that the left hand know not?
+
+**But what is it to give alms, that the left hand know not?**
+
+**With a simple heart, and without any hope, only on account of God to help the neighbour — to regard neither the person nor the thanks — but, as hath been said, only to look to God, his glory and mandate.**
+
+— ❦ —
+
+## Question 4. What is it to give alms in the hidden?
+
+**What is it to give alms in the hidden?**
+
+**When thou seekest not glory or thine own advantage, but only regardest God and his mandate — whether thou reportest thanks or none.**
+
+— ❦ —
+
+*[Locus XXIII Part 5 closes (Q25–Q26 + DE DILECTIONE PROXIMI Q1–Q4 + DE ELEEMOSYNIS Q1–Q4). Part 6 (DE ELEEMOSYNIS Q5–Q10 + Dan 4 exegesis + Christ's meruit-ut anti-Papist + DE IEIUNIO section) follows in T43. 405 top-level Q + 209 Obj rendered so far.]*
