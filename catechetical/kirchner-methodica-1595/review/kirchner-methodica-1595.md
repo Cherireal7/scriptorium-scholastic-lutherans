@@ -10122,4 +10122,176 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-*[Locus XXIX De Ministerio TRULY COMPLETE — rendered in 3 tranches (T80–T82). Q1–Q26 + OBIECTIONES I–V on Papist ordination + OBIECTIONES I–II on Episcopal power. Total Locus XXIX: 26 top-level Q + 7 Obj. 609 top-level Q + 385 Obj rendered so far. Locus XXX De Potestate Clavium follows in T83 at OCR line 37368.]*
+# Locus XXX. Of the Power of the Keys
+
+### *De Potestate Clavium*
+
+## Question 1. Hath the Church any such power?
+
+**Hath the Church any such power?** [*[See T. 5. Tractatus de clavibus; T. 5, p. 232; T. 4/1, p. 358*]*]
+
+**In the highest degree**: For **Matt. 18:18 the Lord saith**: *"Amen I say to you, whatsoever ye shall bind upon earth, shall be bound also in heaven, and whatsoever ye shall loose upon earth, shall be loosed also in heaven."* **John 20:22–23**: *"Receive ye the Holy Spirit, whose sins ye shall have remitted, they are remitted to them; and whose ye shall have retained, they are retained."*
+
+— ❦ —
+
+## Question 2. How many are the keys of the Church?
+
+**How many are the keys of the Church?**
+
+**Twofold: the key of loosing, and the key of binding — Matt. 18, John 20.**
+
+— ❦ —
+
+## Question 3. What is the key of loosing?
+
+**What is the key of loosing?**
+
+**The key of loosing is a spiritual power instituted and given by Christ himself, by which to all penitent sinners the gratuitous remission of sins on account of Christ is announced.**
+
+— ❦ —
+
+## Question 4. Is then this key or power also various and manifold?
+
+**Is then this key or power also various and manifold?**
+
+**It is one and simple**: for **there is no other but one and simple key or power of remitting sins given by Christ** [*[T. 3, p. 232*]*], **though various and many Ministers of the Church use the same: for whether Peter, or Titus, loose — it is one and the same: the authority of the person doth not vary this power**.
+
+**Absolution indeed itself can be distributed into private and public.** [*[T. 7, p. 369, 370*]*] **Private is that which is announced to individuals separately by the pastors, seeking consolation. Public, that which to those who publicly have offended and to the whole Church have been a scandal, when they are reconciled with the Church, is publicly announced in the hearing of all.**
+
+— ❦ —
+
+## Question 5. From whom is this key delivered?
+
+**From whom is this key delivered?**
+
+**From Christ himself — as at Matt. 16, 18, and John 20, we read.**
+
+— ❦ —
+
+## Question 6. Who are the administrators of this key?
+
+**Who are the administrators of this key?**
+
+**The Ministers of the word — to whom Christ and the Church have delivered the same.**
+
+— ❦ —
+
+## Question 7. Whom must they loose?
+
+**Whom must they loose?**
+
+**Penitent sinners, who are contrite and humbled in spirit, and expect consolation. Matt. 11:28**: *"Come to me all who labour and are burdened,"* etc. For **the rest, who persevere in sins, are not to be loosed**. And **Ministers, absolving the impenitent, foully abuse this key and this power** — and **this absolution to the impenitent goeth not to salvation, but to condemnation**.
+
+— ❦ —
+
+## Question 8. What sort of key is this, or what are its properties?
+
+**What sort of key is this, or what are its properties?**
+
+**I. The power is spiritual and not corporal — which concerneth not kingdoms and dominions of this age, nor the constituting and deposing of kings, but only the remission of sins.**
+
+**II. This power is administered by the Gospel alone, and in no other manner.**
+
+**III. It is founded in the name and merit of Jesus Christ — on account of whom alone sins are remitted.**
+
+**IV. God himself in this manner through the Ministry is efficacious and remitteth sins. 2 Cor. 5:18–20.**
+
+— ❦ —
+
+## Question 9. From what sins are sinners to be absolved?
+
+**From what sins are sinners to be absolved?**
+
+**From all: for Christ in the institution of absolution maketh no mention of any reserved cases, whose sins the Pope alone and his Bishops could remit: for as he calleth all unto penitence, so also to all he offereth the gratuitous remission of all sins. Luke 24:47**: *"There must be preached in his name penitence and remission of sins unto all nations."*
+
+— ❦ —
+
+## Question 10. Is it licit for Ministers to remit sins at pleasure, to whomsoever they will?
+
+**Is it licit for Ministers to remit sins at pleasure, to whomsoever they will?**
+
+**By no means: But without distinction they are held to absolve all who do penitence, are converted unto God, and seek grace and consolation earnestly. For not to their own choice did he commit this power, but according to his prescript and mandate he willeth it to be administered.**
+
+— ❦ —
+
+## Question 11. Is absolution bound to a certain time of the year?
+
+**Is absolution bound to a certain time of the year?**
+
+**The Papists indeed have contended this, and to this the time of Lent they have most greatly deputed — but without Scripture,** etc.
+
+— ❦ —
+
+## Question 12. Doth absolution depend on man's contrition, confession, and satisfaction, as the Papists deliver?
+
+**Doth absolution depend on man's contrition, confession, and satisfaction, as the Papists deliver?**
+
+**By no means. He who seeketh absolution ought indeed to grieve for his sins, seek consolation earnestly, and have the mind of amending his life. But the efficacy of absolution dependeth not on these things, but on the name and merit of Christ.** For **he offereth the gratuitous remission of sins, not on account of our contrition, confession, or our works, but on account of the merit and obedience of Christ alone**, and **the labouring and burdened are to be remitted not to their own contrition or good purpose, but to the blood and death of Christ alone**: **for otherwise this key and this power would be rendered doubtful, as in the Papacy hath been done**. For **when men were remitted to their own contrition, the remission of sins could not with certainty be weighed to them — for no one could be certain whether he had sufficiently grieved, enumerated, or done**.
+
+— ❦ —
+
+## Question 13. But wherefore is the key or power of absolution given and instituted?
+
+**But wherefore is the key or power of absolution given and instituted?**
+
+**On account of the penitent, the labouring, and the burdened — that they may by this be raised up. For this is a great consolation, that we know: God by the voice of the Gospel dealeth with us, is efficaciously working, and remitteth sins to us. By the institution also of absolution Christ willed to prevent and refute the error of the Novatians** (contending **that no mortal sin after Baptism can in these lands be remitted**). **For Christ delivered the key of absolution not to the Gentiles as yet unbaptized, but to his own disciples and to Christians already baptized — who even after receiving Baptism sin**.
+
+— ❦ —
+
+### Objection. **Yet God alone remitteth sin — how then can Ministers remit sins?**
+
+**Respondeo**: **God alone remitteth sins as the principal efficient cause: But he employeth the Ministers as organs and instrumental causes. For thus it hath well pleased him through such means to deal with us, and to impart to us his grace and heavenly gifts. Matt. 9:8**: *"Who hath given such power to men."*
+
+— ❦ —
+
+## Question 14. What if Ministers absolve the impenitent?
+
+**What if Ministers absolve the impenitent?**
+
+**This absolution is null**: for **Christ came not to call sinners to sinning, but to penitence. Matt. 9:12–13**: *"They that are whole and strong need not a physician, but they that are ill."*
+
+— ❦ —
+
+## Question 15. Whence hath the Roman Pontiff reserved certain cases to himself?
+
+**Whence hath the Roman Pontiff reserved certain cases to himself?**
+
+**In the ancient Church it was customary to indicate publicly those sinning to the scandal of the whole Church and to be excommunicated to the Bishops — that by their counsel a certain manner of public penitence might be prescribed to them: thence by succession it came to pass, that certain intricate cases were reserved and referred to the Bishops, and at length also to the Roman Pontiff himself.**
+
+**But sacred Scripture is ignorant of these reserved cases; Christ delivered nothing of them, John 20. And the Council of Trent itself confesseth that in the article of death any Priest whatsoever in such reserved cases can absolve.**
+
+— ❦ —
+
+## Question 16. Is absolution a iudicial act, in which the Priest recogniseth sins and imposeth on the confessant satisfaction according to the quality of the delict?
+
+**Is absolution a iudicial act, in which the Priest recogniseth sins and imposeth on the confessant satisfaction according to the quality of the delict?**
+
+**The Papists indeed will this — but this is their own figment: for Christ saith not: "whose sins ye shall have known, and imposed satisfaction for according to the quality and magnitude of the delict, they shall be remitted" — but "whose sins ye shall have remitted,"** etc. **A foul depravation therefore and abuse of absolution is this — which the Papists out of their own brain, beyond and against the words and institution of Christ, feign and obtrude upon the Church.**
+
+— ❦ —
+
+## Question 17. Is there required, unto the integrity and efficacy of absolution, the intention of the Priest or Minister?
+
+**Is there required, unto the integrity and efficacy of absolution, the intention of the Priest or Minister?**
+
+**This is a figment of the Papists — but the mind of the faithful careth not for this, but when from the Minister he heareth absolution, he looketh unto the promise of Christ, whatsoever the intention of the Minister may be: for Christ in the institution of absolution made no mention of the intention of the Minister: nor could anyone be certain of the absolution of sins, if the force and efficacy of absolution depended on the intention of the Priest.**
+
+— ❦ —
+
+## Question 18. What is to be judged of that public absolution which is for the most part, the sermon ended, announced to all?
+
+**What is to be judged of that public absolution which is for the most part, the sermon ended, announced to all?**
+
+**The same as of the public preaching of the Gospel: for the Gospel offereth not only to individuals apart the grace of God and remission of sins, but equally to all who do penitence and believe in the name of Jesus Christ. Luke 24.**
+
+— ❦ —
+
+## Question 19. But how can the whole assembly, in which many are rather to be bound than to be loosed, be absolved?
+
+**But how can the whole assembly, in which many are rather to be bound than to be loosed, be absolved?**
+
+**That common and public absolution concerneth all penitent sinners who are in that assembly, Matt. 11. The rest, who acknowledge not their sins, seek not consolation earnestly, this absolution toucheth not — and thus the impenitent are bound, not absolved.**
+
+— ❦ —
+
+*[Locus XXX De Potestate Clavium Part 1 closes (Q1–Q19 on clavis solutionis: definition/institution/administrators/subjects/properties + no reserved cases + not bound to Lent + not depending on contrition + contra Novatianos + OBIECTIO Deus solus + impenitents null + Papist reserved cases genesis + not iudicial act + no priest intentio + public absolutio + whole assembly). Part 2 (clavis ligans + Papist misinterpretation on deposition + publica excommunicatio + process/form/ceremonies + reconciliation in primitiva Ecclesia) follows in T84. 628 top-level Q + 386 Obj rendered so far.]*
