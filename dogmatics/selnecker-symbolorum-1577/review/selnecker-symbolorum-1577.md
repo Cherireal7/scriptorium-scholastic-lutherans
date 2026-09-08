@@ -2542,9 +2542,240 @@ This similitude is doubtless drawn from the *bush ignited* — which wholly burn
 
 And this similitude is *very frequent in the ecclesiastical writers.*
 
-**Origen** bk. 2 ***περὶ ἀρχῶν*** says: *"A mass of iron always placed in the fire, in all its pores and veins receives fire, and is wholly made fire, so that neither does the fire cease from it, nor is it itself separated from the fire. Hence we say that the whole mass of iron has been made fire, because nothing else in it except fire is discerned. And if any one wishes to touch and handle the mass of iron, he will feel not the strength of iron, but of fire. So in the nature of Christ..."*¹⁴¹
+**Origen** bk. 2 ***περὶ ἀρχῶν*** says: *"A mass of iron always placed in the fire, in all its pores and veins receives fire, and is wholly made fire, so that neither does the fire cease from it, nor is it itself separated from the fire. Hence we say that the whole mass of iron has been made fire, because nothing else in it except fire is discerned. And if any one wishes to touch and handle the mass of iron, he will feel not the strength of iron, but of fire. So in the nature of Christ the human — the divine fire substantially shines, and the whole plenitude of the divinity dwells in it. And this truly is* ***περιχώρησις.***"¹⁴¹
 
-*(The second similitude continues; the third similitude and the closing exposition are treated in the next tranche.)*
+**The same Basil,** *De nativitate Christi,* says: ***"How is the deity in the flesh? As fire in iron —*** ***οὐ μεταβατικῶς*** — not by passing over or by alteration and conversion, but ***μεταδοτικῶς,*** distributively or communicatively. For the fire does not run out to the iron, but remaining in its own terminus or place it distributes to it its own faculty. But how is God the Logos not filled with corporeal debility? We say: as neither does the fire take up the properties of iron. Iron is black and cold, but ignited it puts on the form of fire, and itself is illustrated and glows — not blackening the fire; and itself is inflamed, not blackening the flame. **So indeed the human flesh of the Lord too was made partaker of the deity — it did not deliver its own imbecility to the deity.**"
+
+**Cyril,** *De Incarnatione Unigeniti* ch. 8, and bk. 1 *In Iohannem* ch. 15, and bk. 4 ch. 15, *repeats the same similitude* — luminously and copiously.
+
+**Damascene** employs the same, bk. 3, ch. 17: *"Ignited iron burns, not because by physical account it possesses a burning energy, but because by the union to fire it has acquired that. So the flesh of the Lord — not according to its own* ***ἐνέργειαν,*** *but on account of the Logos united to it — is enriched with divine operations."*
+
+Just as above, concerning the *first similitude,* it was said that it fits ***κατά τι*** (*in a certain respect*), so it must be repeated of *this second* similitude. **Heat in iron is an accident,** and inheres *separably,* and is *assumed by the iron.* But *two substantial natures* in the one ***ὑπόστασις*** *of Christ* are *inseparably* united, and the *human nature, once assumed by the Logos, is in eternity not deposited.* Iron *assumes* heat. **The human nature does not assume; it is assumed.**
+
+### The Third Similitude — Sun and Light
+
+**Justin:** *"Before I confessed that I could not by mind comprehend the manifest knowledge of this truth, and I do not now regret this modesty, content with the little measure given us. But let us compare the union with an ample Image, becoming a magnificent origin from so great a Father.* 
+
+*Let the Logos be as that first light constituted on the first day. And cogitate the human nature to which the Logos is united to be as the solar light — nor cogitate the sun to be another light than she which was constituted before, but the sun is like a body in which that prior light — which was diffused before on every side — has been coupled together. This light now, in this body, makes for us the spaces of days and nights and of the seasons of the year. For if it were not tied to the body, but was wholly diffused in the whole air, it would not distinguish for us the times, nor would it have such regular motions.*
+
+*As the light is so related to the solar body that the prior light and the sun are no longer divulsed, but the sun is called the one only light — so cogitate: after the Logos is united to the body, they are no longer divulsed; but as the sun is one, and yet the natures are two (one of the light, another of the solar body), so is Christ one, but the natures two — the one divine, the other ours; and the efficacy of the light is His own, which is discerned from the solar body not by act but by reason and cogitation. So also the properties of each nature remain to be discerned, although the natures cannot be divulsed."*
+
+Not simply (***οὐχ ἁπλῶς***) does this similitude fit; and against it many things can be opposed. Nevertheless, of many things it admonishes us. For as the *sun was constituted after the first light,* so the *human nature was created in Christ, since the Logos was before from eternity.* Then, as the *light is in the solar body,* so the *Logos is in His own assumed body by personal union,* so that *no other thing is united to the Logos by hypostatic union.*
+
+**Oecumenius** rehearses this similitude also on Col. 2:
+
+> ***"ὥσπερ τὸ πρωτόγονον φῶς ἐν ἀρχῇ, ἀσώματον καὶ ἄϋλον ὑπάρχον, ἐνεκράθη τῷ ἡλιακῷ σώματι, καὶ γέγονε τρόπον τινὰ ἐνσωμάτωτον, ὑλικὸν καὶ ἐν αὐτῷ ὑπάρχον, οὐ περιέργεται οὔτε κωλύεται καταφωτίζοντα πάντα· οὕτως ὁ ἐν ἀρχῇ ἄσαρκος θεὸς Λόγος, σαρκωθείς, οὐ κωλύεται καὶ σαρκὶ ἡνῶσθαι καθ᾿ ὑπόστασιν, καὶ μὴ συγκεκλεῖσθαι ἐν αὐτῇ, ἀλλὰ τὰ πάντα πληροῖ"*** — namely (as **Justin** rightly says) ***κατὰ οὐσίαν πανταχοῦ, οὐ κατ᾿ ἐξαίρετον,*** just as He is in His own temple properly ***καθ᾿ ὑπόστασιν.***¹⁴²
+
+Let these things suffice concerning the similitudes — of which is true what is said: ***ἐλλαττοῦται πᾶσα ἐικών, καὶ ἅπαν παράδειγμα, τῆς ἀληθείας*** — that is, ***every Image and every example is less and inferior to the truth.*** ***τὰ θεῖα οὐ διασημαίνεται διὰ τῶν αἰσθητῶν*** — as the Greeks rightly spoke. Let it therefore suffice that we have set forth the *right confession;* and, thanks having been given to God, let us henceforth live quietly through *silence and right faith.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## ANTITHESIS — The Heresies Against the Divinity of the Son and the Hypostatic Union
+
+**Against the truth of the doctrine of the divinity of the Son, and of the hypostatic union of the natures, Satan has opposed himself in all times.** We shall rehearse a *few and chief heresies,* that the truth may more shine forth, and be dearer and more precious.
+
+### *Simon Magus*
+
+**This one,** while the Apostles were still living, from ethnic, Judaic (for he was a *Samaritan*) and Christian religion flowed together blasphemies and deliria — *as it were the Father of all heresies* — teaching that *there is only one Person in the divinity,* who on Mount Sinai delivered the Law, and appeared to the Jews under the name of Son, and *did not truly, but putatively suffer,* and *under the species of ignited tongues stirred up the Apostles by a new afflatus on the day of Pentecost.*
+
+He is named **Magus** because *by magical prestiges he demented men.* And from him ***Simony*** takes its name — that is, ***gain,*** which is sought in those things which are the office and gifts of the Holy Spirit and the Church. For he willed to give money to Peter and John the Apostles, that he might receive the power and right of *conferring the Holy Spirit* (Acts 8). He named himself ***δύναμιν τοῦ Θεοῦ τὴν μεγάλην*** — the *Great Power of God* — and he saw a statue set up to himself at Rome with this inscription: ***"To Simon the Holy God."*** A harlot whom he led about with himself, named ***Selene,*** he said was the *Holy Spirit* and the *first Mother of all creatures.* At Rome, in the middle of the city, he is written to have finally fallen and perished. See ***Irenaeus*** bk. 1, ch. 10; ***Eusebius*** bk. 2, ch. 23; ***Epiphanius*** Tom. 2, bk. 1.
+
+### *Menander*
+
+**This one** was a disciple of Simon Magus, and his fellow-countryman, teaching that *he himself was the Saviour, and sent from the invisibles for the salvation of men.* He also exercised magic; and whoever learned it from him, he promised him *victory and power even against the Angels,* and *immortality in this life without the discommodity of old age.*
+
+### *Cerinthus*
+
+**He denied that Jesus was born of a Virgin,** but said that Joseph and Mary had a Son who excelled in wisdom and justice; but Christ was *another,* who descended into Jesus *in the species of a dove from above,* and *revealed the unknown Father,* and *perfected the virtues,* and *again flew away from Jesus at the time of the passion.* For *Jesus alone suffered, and rose again.* See ***Irenaeus*** bk. 1, ch. 25.
+
+The Apostle **John,** having by chance encountered *Cerinthus* in the baths, said to his disciples: *"Let us go out, lest we be crushed."* And when John and the disciples had gone out, the building collapsed, and crushed Cerinthus and his associates. Hence the little verses:
+
+> ***Impia Cerinthus sancto convicia Christo***
+> ***Dum facit, et stulta garrulitate furit,***
+> ***Concidit, et rapido blasphemum contulit ictu,***
+> ***Collapsa, subitò facta ruina, domus.***
+
+**"While impious Cerinthus made insults against holy Christ, and raged with foolish garrulity, — the house collapsed, and by a rapid stroke crushed the blasphemer, a sudden ruin having been made."**
+
+The *Ecclesiastical History* (bk. 3, ch. 28) reports that Cerinthus also taught that Christ's kingdom after the Resurrection would be *earthly at Jerusalem,* and would last a thousand years. Whence long afterwards arose the ***Chiliasts.*** **Epiphanius** names Cerinthus ***ἀνόητον καὶ ἀνοήτων διδάσκαλον*** (*"a witless one and a teacher of the witless"*).
+
+### *Ebion*
+
+**He taught that Christ was only a man,** born of Joseph and Mary; or, if He was conceived of the Holy Spirit and born of a Virgin, *nevertheless He was not always God and the Logos and the Wisdom of God.*
+
+***Ebion*** is *the same as* ***πτωχός,*** *poor,* say **Epiphanius** and **Eusebius.** ה , ן ו י ב א = ***πένης.*** *For truly he was poor in the acknowledgement of the glory of Christ.*
+
+### *Basilides, Carpocrates, Saturninus*
+
+These, in the year of Christ 137, augmented the doctrine of Menander *with marvellous stratagems and subtle sophistries* — among whom **Basilides** obtained the first parts. **Irenaeus** bk. 1, chs. 22, 23, 24. They taught that *Christ was a phantom (φάντασμα),* that is, that He *appeared putatively,* was *not a true man, nor assumed flesh;* but *as the First-born of the Father, Nous, He was sent to lead the Jews into liberty,* and *was not crucified — but in His place Simon of Cyrene was mutated into the form of Christ.* Basilides feigned *365 heavens,* per the diction ***ἀβρασάξ,*** which he set in the place of the beginning and of God. See **Epiphanius** Tom. 2, bk. 1.
+
+### *Valentinus*
+
+Out of the earlier heresies **Valentinus** gathered, about the year of Christ 141, *portentous dogmas,* and *feigned various generations of Gods, or Aeons.* He said that Christ *took nothing from the flesh and blood of Mary,* but passed through her *as through a pipe and channel,* His body having been *brought down with Him from above.*
+
+### *Cerdo*
+
+Valentinus's contemporary (***σύγχρονος***) **Cerdo** taught that there are *two Gods* — a *good one,* and an *evil one, the Creator of the world and the giver of the Law and the Prophecies;* and *that He who was preached by Moses and the Prophets as God is not the Father of the Lord Jesus Christ, but another, unknown and good;* and that *Christ appeared only putatively.*
+
+### *Marcion*
+
+**He succeeded Cerdo,** and on account of a rape excommunicated by his father, the bishop, fled to Rome, and embraced Cerdo's blasphemies and scattered them. To this one, asking of Polycarp, ***"Do you acknowledge me, Polycarp?"*** Polycarp answered: ***"I acknowledge you as the first-born of the devil."***
+
+The follower of Marcion's deliria was ***Marcus,*** the author of the ***Colorbasian*** heresy, a magician — who by magical prestiges deceived miserable little women drawn into lust — just as the *Anabaptists of Münster, the Rothmann, the Leyden, the Knipperdolling,* and the like did.
+
+### *Apelles*
+
+**Also embracing the heresy of Marcion,** he said *Christ was the Son of the good God,* and *had a body — not putatively, but in truth — that is, true human flesh, but not from the Virgin Mary or from male seed, but from the four elements of the world;* which flesh, he said, *He rendered back to the world at His death,* and *rose again without that flesh,* and *returned to the heavens.*
+
+### *Marcellina*
+
+**She embraced the doctrine of Carpocrates,** and at Rome seduced many, a female teacher of the Gnostic heresy. *Christ,* she said, *was equal to the other men, but had a purer soul.* She *worshipped Jesus, Paul, Homer, and Pythagoras* as *more excellent than the rest of men.*
+
+### *Montanus* (A.D. 174)
+
+**Montanus the Phrygian** feigned that *Christ was putatively a man,* and that *he himself was the Paraclete promised by Christ.* With him were **Priscilla and Maximilla** as *prophetesses.* His followers are called ***Cataphrygians.***
+
+### *Tatian the Encratite* (A.D. 175)
+
+The disciple of Justin the Philosopher and Martyr — *after the death of his preceptor, he followed the Valentinian heresy.* He had a disciple, **Severus** — whence the ***Severian heretics,*** who *rejected the Old Testament altogether.*
+
+### *Artemon* (A.D. 200); *Theodotus*
+
+**Artemon** taught that *Christ was a pure man* — which at that time also **Theodotus the Currier** scattered, and on that account was excommunicated by Pope Victor. And from this **Paul of Samosata** drew his venom, the renovator of the blasphemies of Artemon.
+
+### *Noëtus*
+
+***Νοητός*** (or rather ***ἀνόητος***) taught that there is *only one Person of the divinity,* and dared even to teach that ***the Father suffered.*** Whence they are called ***Noëtians and Patripassians.*** Noëtus's words were these:
+
+> ***ἕνα θεὸν δοξάζω, ἕνα ἐπίσταμαι, καὶ οὐκ ἄλλον πλὴν αὐτοῦ, γεννηθέντα, πεπονθότα, ἀποθανόντα*** — *"I glorify one God, I acknowledge one, and no other besides Him, born, suffered, died."*
+
+Against this one, in the Asian churches was set forth this confession:
+
+> ***ἕνα θεὸν δοξάζομεν, ὡς οἴδαμεν δικαίως δοξάζειν, καὶ ἕνα Χριστὸν ἔχομεν, τὸν υἱὸν τοῦ θεοῦ, παθόντα καθὼς ἔπαθεν, ἀποθανόντα καθὼς ἀπέθανεν, ἀναστάντα, ἀνελθόντα εἰς τὸν οὐρανὸν, ὄντα ἐν δεξιᾷ τοῦ πατρὸς, ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς· ταῦτα λέγομεν μεμαθηκότες ἀπὸ τῶν θείων γραφῶν, ὃ καὶ ἐπιστάμεθα*** —
+
+*"We glorify one God, as we know it is right to glorify; and we have one Christ, the Son of God, having suffered as He suffered, having died as He died, having risen, having ascended into heaven, being at the right of the Father, coming to judge the living and the dead. These things we say, having learned from the divine writings, and which we know."*
+
+See **Epiphanius** bk. 2, Tom. 1.
+
+### *Sabellius* (A.D. 257)
+
+**He denied that Christ is the Son of God and First-born,** and taught that *there is one Person of the Father, of the Son, and of the Holy Spirit,* and that *the Trinity is only in* ***ὀνόμασιν*** *(names), not in things or* ***ὑποστάσεσι*** *(distinct hypostases);* and *thus there are three nomenclatures in one hypostasis and substance* — just as the Jews and the like *feign that the three divine persons are not* ם י נ פ *(faces), but* ת ו מ ש *(names)* — that is, *bare appellations* — although *God has patefacted Himself far otherwise,* as *Christ's baptism most evidently shows.*
+
+Against these whom we have rehearsed, most-faithfully fought both the Apostles themselves and their disciples and posterity. Peter withstood Simon Magus; John withstood Cerinthus, Ebion, and the rest; Ignatius likewise; also Polycarp, Justin, Irenaeus, Origen, Clement, Tertullian, and so on.
+
+### *The Origenists*
+
+**They taught that Christ's body, after the Resurrection, became altogether spiritual, invisible, and** ***ἀπερίγραπτον*** (uncircumscribed) **or infinite** — *and that our bodies also would be such.* **Jerome** refutes this and several other errors (Tom. 2, *ad Avitum* and *ad Pammachium*), showing that *Origen thought badly of the resurrection of the body,* since he *denied the resurrection of the flesh,* and *sensed that Christ also, more as a phantasm and putatively, and as an ἡδονόν,* conversed with the disciples after the Resurrection *than that He had true flesh in truth.*
+
+### *Paul of Samosata* (A.D. 261)
+
+**The ambitious bishop of Antioch** *feigned that* ***λόγος*** *in John does not signify a Person distinct from the Father, but only the deliberation of the eternal Father, and the counsel about the creation of the world and about the sending of Christ.* He renovated the blasphemies of Theodotus and Artemon.
+
+Against him the Synod of Antioch was gathered, at which **Gregory of Pontus, Bishop of Neocaesarea** — called ***ὁ Θεόδωρος, θαυματουργός, δεύτερος Μωυσῆς,*** and ***ἱερομάρτυς*** — was present, whose confession against Samosatenus is this:
+
+> *"One God, the Father of the living Word, of subsisting Wisdom, and of His entire Integral Image, the Whole Begetter, the Father of the Only-begotten Son. One Lord, alone from the alone, the Image of the Father, the efficacious Word, the Eternal Son of the Eternal: One Holy Spirit, having substance from God, who through the Son appeared, sanctifying, and through whom God over all and in all is known."*
+
+### *Nepos* (A.D. 264)
+
+**An Egyptian bishop,** who taught that *Christ would reign a thousand years on earth with the pious,* because it is written (Apoc. 20): *"The blessed shall reign a thousand years."* Nepos, however, renovated the heresy of Cerinthus rather than being the first to feign it. Whence they are called ***Nepotians*** and ***Chiliasts,*** to which number also *Polycarp, Papias, Lactantius, and certain others* are referred — extending Christ's earthly kingdom to a thousand years, perhaps *more by a mystery than by truth.* Such wander today everywhere, who feign that *Christ's kingdom has passed away,* and *imagine for themselves a new one,* as though *mentally captive.*
+
+### *Manes the Persian* (A.D. 280)
+
+**Manes** — by name and thing furious — drawing his fanatic opinions from the books of Scythianus and Terebinthus, barbarous and fanatic men, left to him by a Persian widow (whose Manes was both slave and heir) — feigned *two Gods,* the *good* — ***φῶς*** — and the *evil* — ***σκότος,*** the *Creator of the impious and of marriage.* He contended that *the Son did not truly assume the human nature, but only pretended it and putatively,* ***ἡ δόκησιν καὶ φαντασίαν.*** From this Manes are the ***Manichaeans,*** whose sect *for two hundred years widely wandered and propagated in Arabia, Egypt, and Africa* — in which *Augustine* also was engaged for nine years before he was converted. Manes was finally by order of the King of Persia (whose sick son he had killed with the medicines of pharmacies) *excoriated.*
+
+### *Arius* (A.D. 328)
+
+**Of Arius we have spoken above,** when we commemorated certain things concerning the causes of the Nicene Council. Arius renovated the errors of Samosatenus, and *denied the eternal divinity of the Son.* We shall briefly rehearse the chief arguments which he used.¹⁴³
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Twelve Arian Arguments and Their Rebuttals
+
+### First Arian Argument
+
+> **God neither suffers nor dies. Christ suffered and died. Therefore He is not by nature God.**
+
+**To the major,** antiquity most rightly answered: *God does not suffer* — as concerns the divine nature, which is *impassible and immortal.* **To the minor:** *Christ suffered* — namely, *in the flesh* (as Peter, 1 Pet. 3, speaks), ***ἡσυχάζοντος τοῦ Λόγου*** (*"the Word resting,"* as **Irenaeus** speaks), *that God the Logos might be able to be crucified and to die in that nature which was able to suffer and to die.*
+
+**Augustine** *in agone Christiano* ch. 10: *"Let us not hear those who on this account wish to compel us to number the Son of God among the creatures, because He suffered. It is one thing to be a creature, and another to take up a creature. The only-begotten Son, the virtue, wisdom, and Word of God, through whom all things were made, took up a human creature — which He deigned to raise up when fallen, and to renew when grown old; nor in her by the passion was He Himself changed for the worse, but rather changed her for the better by the resurrection."*
+
+**Basil:** *"Him whom the universes do not contain, impassibly by the flesh He embraced death, that by His own passion He might give to us impassibility."*
+
+**Athanasius** bk. 9 *ad Theophilum:* *"We do not fear that God according to the man was born, and the same according to the man God suffered, God died — but we glory to say God was born, suffered, and so on, according to the man."*
+
+**Proclus of Constantinople** *ad Occidentales:* *"We confess that one of the increate and ineffable Trinity, God the Word, was made man in the flesh which for us from us He assumed — suffering not by the deity. One of the Trinity was crucified — in the flesh."*
+
+**This whole response** afterwards *bore the doctrine of the Communicatio Idiomatum.* ***God was born, suffered, died*** — namely ***in concreto.*** But of this doctrine we shall speak a little below in the controversies of Nestorius and Eutyches.¹⁴⁴
+
+### Second Arian Argument
+
+> **The Father is greater than I. Therefore the Son is not by nature God.**
+
+**The Athanasian Symbol answers:** *"Equal to the Father according to the divinity, less than the Father according to the humanity."*
+
+**This response is given** according to ***ἰδιοποιίας,*** which today is called the *doctrine of the Communication of the Idioms.* It is also wont to be answered according to ***κοινοποίησιν*** — that is, from the doctrine of *the office of the Person of Christ.* ***"The Father is greater than I"*** — not by reason of essence, but by reason of my office: because the Father sends me; I am sent to the ministry of humiliation. Christ therefore is considered in this saying not as *giver of goods together with the Father and Holy Spirit,* but as *the Person sent* — and (as from Augustine we showed above on the Pauline saying to the Philippians) *simultaneously exinanited in the form of a servant.* And this response about the *Person sent* **Athanasius** himself rehearses in bk. 3 *ad Theophilum.* **Basil,** however, takes the same saying *of the Father as cause of the Son, and as generating Person* (bk. 4 *contra Eunomium*). And we have treated of this matter more prolixly in bk. 1 of the *Institution of the Christian Religion,* to which we send the studious.
+
+### Third Arian Argument
+
+> **The honourer is less than the honoured. The Son honours the Father. Therefore He is less than the Father.**
+
+**We deny the major,** because *honour is a name of order,* and *does not take away equality of essence.* The essence is the same; the Persons differ by *relations, properties, and office.* **To the minor:** The Son honours the Father *both because He is Father,* and *because He is sent by the Father,* to whom He subjects *Himself and His Church, or His whole Kingdom.* But the Father also in turn *honours the Son:* John 8: *"The Father seeks my glory, and glorifies me."*
+
+### Fourth Arian Argument
+
+> **A created nature is not eternal. The Son is created (Prov. 8: "God created me"). Therefore He is not from eternity, but is** ***πλάσμα ἐκ μὴ ὄντων.***
+
+**Answer to the minor.** In the Hebrew (Prov. 8) is ***Kanah*** (הנק), which word does *not signify* ***"He created me,"*** but ***"He possessed me,"*** and ***"He begot me."*** *For* ***Kanah*** *the Greek voice* ***γεννάω*** *and the Latin* ***gigno*** *or* ***genero*** *seem to have their origin.* Others answer according to the *doctrine of the Communication of Idioms:* *"the Son is created according to the human nature,* which in Christ is a creature," and (as **Athanasius** *ad Theophilum* bk. 11 most piously says) ***"simultaneously is something greater and more glorious than every creature, on account of the union."***
+
+But this phrasis — *"Christ is created,* or *is a creature"* — was *rejected by the orthodox churches on account of the Arians.* For the Arians speaking thus willed that Christ was *not the eternal God, consubstantial (ὁμοούσιος) with the Father.* Wherefore, *even if the explication is added — "according to which nature" — nevertheless* ***ambushes must be avoided,*** which minds given to depraved opinions always construct by *speaking ambiguously and not openly,* as today too *we have experienced in the doctrine of the Supper.*
+
+And it is worth here in passing to write down concerning ***Arius the fraudulent,*** *playing with ambiguities and deceiving the magistrate,* a history worthy of memory. **In feigned repentance after his damnation,** Arius took two books — one which contained his blasphemous opinion (which he had written with his own hand and secretly bore with him), the other written by another hand *on the sentence of the Nicene Council* — and thus approached the Emperor Constantine, and delivered to him this *other* book written by another hand *on the sentence of the Nicene synod,* swearing that *he thought so and not otherwise concerning religion, just as he had written with his own hand.* By this fraud he so deceived the Emperor that Constantine ordered Arius, without delay, to be received into the Church by Alexander, the highest Bishop — who by *his prayers poured out to God, brought Arius to destruction:* on the next day, as Arius was processing with court retinue and pomp to the Church, his belly seizing as he went, *he was casting forth his intestines, and by the stroke of an angel was made lifeless.*
+
+**And not much less today are the artifices, and marvellous frauds, and the** ***Phormion-manners and gestures*** **of those who,** *disputing craftily about material heavens, about Christ's body enclosed in the heavens, about the Supper of the Lord, and about the presence of an absent body and the absence of a present body, and by similar tricks — deceive themselves and others.*
+
+### Fifth Arian Argument
+
+> **To do is to create. The Father made Christ (Heb. 3). Therefore the Logos is a creature.**
+
+**To the major.** *"To do" does not always signify "to create,"* but *"to constitute and ordain"* — as *Theodosius made Arcadius king,* that is, *constituted, elected, ordained, created, and confirmed as king.* *"He who knew no sin, He made sin"* (1 Cor. 5) — here it is said not of the essence but of the office: God ordained Christ to be a victim for sin. And Heb. 3: *God made Christ high priest,* that is, *ordained.* For he speaks not of essence but of office. Likewise Acts 2: *"This Jesus whom you crucified, God made Lord and Christ,"* that is, *constituted and ordained,* ***κατέταξε καὶ κατέστησε, οὐκ οὐσίωσε.*** For he speaks of Christ the Man and of the exaltation of the human nature in Him, and simultaneously of the office of the whole Christ. As all sayings that speak of the *office of Christ according to each nature* *simultaneously illustrate — indeed presuppose — the exaltation of the human nature in Christ.*
+
+### Sixth Arian Argument
+
+> **Subjection shows inequality. The Son subjects Himself to the Father (1 Cor. 15). Therefore He is inferior to the Father.**
+
+**Cyril responds to the major:** *"Subjection and obedience does not take away equality of essence or of power."* **To the minor,** we answer: *Paul speaks of office, not of essence.* Christ's *kingdom* is eternal, but the *mode differs in this life and after this life.* In this life the Church is gathered *through the ministry of the Gospel.* In eternal life there will be *no need of ministry,* but *God will immediately be all in all;* and then the *Son will hand over the kingdom to the Father* — that is, will lead the resuscitated Church into the sight of the Father — *that the divinity may reign immediately,* not through ministry: *and the Son shall subject Himself to the Father who subjected all to Him* — namely, *not by reason of essence but by reason of office,* because this *Person, sent to be King and Head of the Church,* will *be under the sending divinity,* which at length *will be Head immediately, and will be all in all, without any medium of ministry,* whose Head now is *the Person sent, or the Son.* ***ὑποταγήσεται*** — *He shall be subjected* — that is (as the Greeks best interpret): ***τότε δείκνυται ἀληθῶς καὶ θεοπρεπῶς ὑποτεταγμένος, ὅτι ἐπλήρωσε γὰρ πατρικὸν βούλημα, παραδιδοὺς τὴν βασιλείαν, πάσης στάσεως καὶ τυραννίδος ἠλευθερωμένην*** — *"Then He shall truly be subject, or show Himself subject, because now He has fulfilled the paternal will, leading the Kingdom or the Church liberated from every evil."*
+
+### Seventh Arian Argument
+
+> **Christ cries out on the cross: "My God, why hast Thou forsaken me?" Therefore He is not by nature God.**
+
+**Answer according to the rule:** other sayings speak of *Christ reigning* — as *"What the Father does, the Son also does"* — others of the *humbled and suffering Christ.* And *one is the status of submission, another the status of glorification.* And *"the Word resting,"* Christ suffered and died. But these things do not hinder the equality of essence and power; but *show the obedience of that time,* and the *atrocity of our sins,* the *severity of divine justice,* and the *magnitude of God's wrath against the sins of the human race* — and are elsewhere more copiously shown. **Epiphanius** says: *"Christ cries out from the nature of the humanity, not from the nature of the divinity."*
+
+### Eighth Arian Argument
+
+> **God cannot be exalted. Christ is exalted. Therefore He is not by nature God.**
+
+**We responded above in the explication of the Pauline saying to the Philippians.** And here we consider **Athanasius's** saying (bk. 8 *ad Theophilum*): *"God is not changed, but glorified in Himself the nature which He assumed. But the human, mortal, and infirm flesh and nature He advanced to divine glory — the Lord Himself saying of the assumed Son of Man: 'Now is the Son of Man glorified, and God is glorified in Him: God has glorified Him in Himself.'"*
+
+### Ninth Arian Argument — the Omniscience, Omnipotence, Omnipresence Cluster
+
+> **Omniscience, Omnipotence, Omnipresence or Ubiquity are properties fitting God alone. In Christ there is not omniscience (Mark 13: "Of that day and hour also the Son does not know"); nor omnipotence (Matt. 20: "It is not mine to give to you to sit at my right hand and at my left"); nor omnipresence (John 16: "I leave the world; I am no longer in the world"). Therefore in Christ there is not the divine nature.**
+
+**Answer:** those sayings are to be received *of office,* not of the divine essence.
+
+**Of that day the Son does not know** — namely, *insofar as He is sent to this office of teaching the Gospel in this life* — in which office it is required that the *future judgement be asseverated,* but *it is not required that the day and hour be predicted.*
+
+**"It is not mine to give,"** and so on — namely, *in this my office, since I am sent to obedience in teaching and suffering.* Elsewhere He says: *"All things which are the Father's, are also the Son's; what the Father does, the Son also does."*
+
+**"I leave the world"** — namely, *now that the office of my humiliation is expedited.* From the *reason of living of this age* — labourious and exposed to the senses — *I depart to the Father into the glorious and celestial reason of living.* *"I go to the Father,"* because *I have completed the work and office of redemption* — the *exinanition removed, the infirmities laid down, and all miseries removed* — *exalted with my flesh to the highest excellence, glory, and power of the Father.*
+
+**"You do not always have me with you"** — namely, in the *physical mode of corporeal presence locally,* as before the Resurrection I was with you in all convivium and familiarity. *"I shall, however, be with you unto the consummation of the age,"* not only by the *universal presence of my divinity, and by inhabitation and spiritual efficacy in you,* but also *by my flesh and blood, or by the substance of my body, according to the truth of my promise and Testament in the Supper* — not, indeed, in *any gross mode of attingentia of this age,* but *in a supernatural and celestial mode,* since I *have passed out of the world to the Father into a supernatural and celestial mode of living, which eye has not seen, nor ear heard, nor has it entered the heart of man* — that is, *by your reason, or by localities and physical rules, geometric dimensions, dialectical argumentations, and like infirm curiosities, it cannot be comprehended in your labourious world,* whose infirmities I have laid down and left. I am *with the Father,* and *have all things under my feet,* and *the whole world to me as God and man — my divine and human natures — is subject.* And whatever I say and promise, *I do* — even if in your world you do not yet understand *how it can be done, you who have not yet with your eyes seen my life and majesty of power.*¹⁴⁵
+
+*(Further Arian arguments continue; the transition to the Communicatio Idiomatum proper begins after the Arian catalogue is complete.)*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -3315,4 +3546,12 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 
 **¹⁴⁰** *Where the first similitude does NOT fit — the five non-congruence points, and the closing on the human-body-not-expanded-to-infinity.* Selnecker's five-fold non-congruence — (1) both soul and body are creatures created in time, but divine nature is not; (2) soul-body constitute human nature as parts, but divine and human in Christ are complete and integral; (3) soul cannot act without body while in body, but Son of God needed no human nature to act before Incarnation; (4) soul-body communication is physical/natural, but the union in Christ is far more august than any physical communication; (5) soul-body finite conjunction vs infinite divine + finite human "with plenitude of divinity dwelling personally" — and the critical closing move that ***the human nature is NOT expanded and diffused into infinity as though repletively everywhere by essence*** (since then *it would no longer be human nature*), but *in that mode hidden to all creatures in this life* — is the classical Lutheran-orthodox distinction that guards the *finitum est capax infiniti* against *both* the Reformed *finitum non capax infiniti* on the one side, *and* the Schwenckfeldian *humanity-become-divine-essentially* on the other. This section is directly foundational for T6 (Ubiquity).
 
-**¹⁴¹** *The second similitude — fire and iron, from Origen.* The fire-and-iron similitude for the personal union — where iron in fire *is wholly made fire* (no part exempt from fire), and *fire in turn does not take up properties of iron* — is drawn from **Origen** ***περὶ ἀρχῶν*** (*De Principiis*) II.6.6 (PG 11:212). The *ignited bush* (Ex. 3) and the *son of man in the furnace of glowing brass* (Apoc. 1:15) are the two *sedes Scripturae* that stand behind the similitude, both preserved through the Chalcedonian tradition. The similitude preserves the Chalcedonian *unmixed-and-unchanged* rule (fire remains fire, iron remains iron; both retain their properties) while also permitting the mature *genus maiestaticum* reading (iron is *wholly made fire* — every part participates in fire's virtue and heat). Selnecker's ecclesiastical-writers catalogue of this similitude (continuing beyond Origen through T4d) will develop into the polemical use against both the Reformed *nuda-signa* and the Schwenckfeldian *deificatio-carnis.*
+**¹⁴¹** *The second similitude — fire and iron, from Origen.* The fire-and-iron similitude for the personal union — where iron in fire *is wholly made fire* (no part exempt from fire), and *fire in turn does not take up properties of iron* — is drawn from **Origen** ***περὶ ἀρχῶν*** (*De Principiis*) II.6.6 (PG 11:212). The *ignited bush* (Ex. 3) and the *son of man in the furnace of glowing brass* (Apoc. 1:15) are the two *sedes Scripturae* that stand behind the similitude, both preserved through the Chalcedonian tradition. The similitude preserves the Chalcedonian *unmixed-and-unchanged* rule (fire remains fire, iron remains iron; both retain their properties) while also permitting the mature *genus maiestaticum* reading (iron is *wholly made fire* — every part participates in fire's virtue and heat). Selnecker's ecclesiastical-writers catalogue of this similitude (Basil's *De nativitate Christi* verbatim with the ***οὐ μεταβατικῶς / μεταδοτικῶς*** distinction; Cyril's three loci; Damascene *De fide orthodoxa* III.17) develops into the polemical use against both the Reformed *nuda-signa* and the Schwenckfeldian *deificatio-carnis.* The *tantum kata ti* caveat — that heat in iron is an *accident* inhering separably (iron can be assumed by fire and can lose the heat), whereas the two natures in Christ are *substantially* united and the human nature *once assumed by the Logos is in eternity not deposited* — is the standard Chalcedonian-Lutheran refinement.
+
+**¹⁴²** *The third similitude — the Sun and its light (Justin, Oecumenius on Col. 2).* The Sun-and-light similitude — where the Sun is *one body* but *two natures* (the corporeal solar body + the light) are joined so that *the light is not divulsed from the sun,* and both retain their distinguishable properties — is drawn from **Justin,** *De recta in Deum fide* (or the pseudo-Justinian corpus circulating in the sixteenth-century editions). **Oecumenius** on Col. 2 (PG 118:1281ff.) preserves the Greek epigram Selnecker quotes verbatim: ***ὥσπερ τὸ πρωτόγονον φῶς ἐν ἀρχῇ*** — the *first-born light* of Gen. 1:3 (before the constitution of the sun on the fourth day) united with the solar body on the fourth day. The similitude's fitness lies in that (a) the light was before the sun, as the Logos was before the assumed nature; (b) the light is united to the body by *personal (not physical) union;* (c) each retains distinguishable properties. The whole *aphorism-catalogue closure* — ***"ἐλλαττοῦται πᾶσα ἐικών, καὶ ἅπαν παράδειγμα, τῆς ἀληθείας;"*** ***"τὰ θεῖα οὐ διασημαίνεται διὰ τῶν αἰσθητῶν"*** — is a stock Chalcedonian humility topos preserved in Chemnitz *De duabus naturis* ch. XX.
+
+**¹⁴³** *The Antithesis — the twenty-heresy catalogue against the divinity of the Son.* Selnecker's heretical catalogue is drawn substantially from **Epiphanius's *Panarion*** and **Irenaeus's *Adversus Haereses,*** with additions from **Eusebius's *Historia Ecclesiastica*** and the sixteenth-century Latin patristic anthologies (Sabellicus, Sleidan, Naucler). The catalogue is standard for the Reformation-era Christological anti-heretic literature (Chemnitz's *De duabus naturis* ch. XV; Melanchthon's *Loci* on the Person of Christ). Notable historical details preserved: the *Simon Magus / Simony* etymology (Acts 8); the *Cerinthus / John in the baths* story (from Irenaeus AH III.3.4); the Latin verses commemorating the collapse of the baths; the *Bishop Polycarp / Marcion* exchange ("firstborn of the devil"); the identification of Marcus's Colorbasian followers with the *Anabaptists of Münster* (Rothmann, John of Leyden, Knipperdolling — 1534–1535) — a characteristically Wittenberg polemical linkage; the *Manes* biographical note (Persian widow's slave and heir, excoriated by the King of Persia); the *Sabellius* Trinitarian gloss with the Hebrew ם י נ פ ("faces") vs ת ו מ ש ("names") distinction as Judaizing diagnosis. The *Gregory Thaumaturgus of Neocaesarea* Trinitarian confession preserved against Paul of Samosata is the classical pro-Nicene *rule of faith* that stood behind the Nicene formulation itself.
+
+**¹⁴⁴** *The First Arian Argument on Christ's Passion + the four-Father rebuttal.* Selnecker's four-Father rebuttal on the *impassibility of the divine nature in Christ's Passion* — **Augustine** *De agone Christiano* ch. 10 (PL 40:296); **Basil** *De nativitate Christi* (PG 31:1466ff.); **Athanasius** *ad Theophilum* bk. 9 (a work in the pseudo-Athanasian corpus, PG 28:1207); and **Proclus of Constantinople** *ad Occidentales* on ***"One of the increate Trinity was crucified in the flesh"*** (the ***τις τῆς ἁγίας τριάδος τῇ σαρκὶ*** formula that would later become the *Theopaschite* controversy) — establishes the classical response ***in concreto:*** God was born, suffered, died — namely, *in the person of Christ,* according to the human nature. Selnecker's transition — that *this whole response afterwards bore the doctrine of the Communicatio Idiomatum* — is the direct sign-post to T5.
+
+**¹⁴⁵** *The remaining Arian arguments — subjection, forsaken cry, exaltation, ubiquity cluster.* Selnecker's answer-scheme for these last four Arian arguments — that (1) *subjection is of office not essence,* with the ***ὑποταγήσεται*** *"then shall be shown to be subject"* Greek gloss on 1 Cor. 15:28; (2) the *forsaken cry* comes *"from the nature of the humanity, not from the nature of the divinity"* (Epiphanius); (3) *exaltation is not of the eternal divinity but of the assumed nature glorified in the Logos* (Athanasius *ad Theophilum* 8); and (4) the *omniscience-omnipotence-omnipresence cluster* on Mark 13, Matt. 20, John 16 must be understood *of the office of humiliation* — is the classical Wittenberg-orthodox reading. The **John 16** response is the direct anchor for T6 on the Ubiquity: Christ's *"I leave the world"* is a *departure from the physical mode of corporeal presence,* not from the *supernatural and celestial mode of presence by which He fulfills His Testament in the Supper.* The whole cluster stands as the transition into the Communicatio Idiomatum proper in T5.
