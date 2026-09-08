@@ -378,6 +378,307 @@ A **subdivision** was added by antiquity, that the *second* article of the Apost
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+# Article I — *Credo in Deum Patrem Omnipotentem*
+
+> **Credo in (unum) Deum, Patrem Omnipotentem, Creatorem (factorem) caeli et terrae (visibilium omnium et invisibilium).**
+
+**I believe in (one) God, the Father Almighty, Creator (maker) of heaven and earth (of all things visible and invisible).**
+
+## The Order of Treatment
+
+Here we must speak in order concerning these five heads:
+
+**I.** *Quid sit Credere,* or *what Faith is;* and *of how many kinds is the acknowledgement of God.* Likewise, *what it is to believe God, to believe in God, and to believe God* — and *for what causes each one ought to say:* ***I believe in God.***
+
+**II.** *Of the one Essence of God, and of the three Persons,* and of their *properties* and *distinctions.* Likewise, *what God is, what Essence is, what Person is.*
+
+**III.** *What we ought to believe concerning the first Person of the Trinity,* according to the words of the Symbol.
+
+**IV.** *Of the Creation of things* — what it is, and whose *Person's* work it is; likewise, *of the grades of created things,* *of the Angels, of Man, of the Image of God, of the fourfold state of man.*
+
+**V.** *Of the Providence of God, of contingency, of the Fall, of free will, of sin, and of the Law.*
+
+***
+
+## Part I — *Quid Sit Credere:* What It Is to Believe
+
+### The Two Senses of the Word *Credere*
+
+**To believe,** in the first sense, signifies, in divine matters, *a general knowledge of the history and profession of the articles of heavenly doctrine, but without a firm confidence acquiescing in God.* This is called by the ancients **historical Faith,** of which James speaks in ch. 2: ***The demons also believe, and tremble.*** And in the Church a part of men has a general and historical faith in the doctrine, in the sacraments, in the piety to be instituted, and in the judgement.
+
+**To believe,** in the second sense, signifies *a special assent and firm confidence, acquiescing in the promise of God, and by faith applying to itself the merit and benefits of the Son of God.* This is called ***true, living, and justifying Faith,*** which the living members of the Church have — according to that: *"The just shall live by his own faith"* (Hab. 2). For as Faith is twofold — one which James condemns as vanity and folly, since it is only historical notice; the other which is true and living — so also in the Church there are two kinds of members, dead and living. The **dead** are those who indeed hear, know, and profess the dogmas of the Church, but without faith and without penitence — that is, they are only *hypocrites intermixed among the good,* even if they hear the word and use the sacraments. Such Paul, in the use of the Lord's Supper, names *unworthy,* that is, not undertaking penitence.²⁸ But the **living** members of the Church are all who *truly believe,* who have a faith which is not dead but justifying, and at the same time efficacious through its own fruits — that is, undertaking penitence.
+
+### The Definition of True Faith
+
+Hence the definition of true faith is customarily thus handed down:
+
+> **Christian Faith is the notice of the whole doctrine handed down by God, and the assent by which we embrace the whole doctrine — and in this the promise of the gratuitous reconciliation, or of the imputation of righteousness given for the sake of Christ — and the confidence acquiescing in Christ the Mediator according to the promise, and determining with certainty that sins are remitted to us, that we are pleasing to God, that we are received and heard, for the sake of Christ alone, gratuitously, not for the sake of our own or others' worthiness.**
+
+### The Ancient Distinction: Faith as *Apprehensiva* and *Quietativa*
+
+The ancients said: Faith is *apprehensiva* and *quietativa.* For in the *cogitative faculty* there is *apprehension,* that is, notice and assent. And in the *heart and will* there is a movement or *confidence* acquiescing in the object apprehended.
+
+### The Isaiah 26 and Hebrews 11 Definitions
+
+**Isaiah 26** defines faith in this way: ***Iezer samuch thizor schalom, schalom ki becha batuach*** — that is, *"Faith is a formation (an impression, a cogitation, an apprehension of the object) sustained (firm, stable, sustained, leaning — that is, given and confirmed by God and leaning on the word, and lacking doubt), keeping peace, peace I say, because in Thee is one's hope."*⁵⁶
+
+**Hebrews 11** carries this definition: *"Faith is the ὑπόστασις of things hoped for, and the ἔλεγχος of things not appearing."* The ***ὑπόστασις*** is *expectation* — that is, a firm and constant *expecting confidence* — by which what is believed is determined to *stand,* as it were *substantially* (*ὑποστατικῶς*) and *in effect present, complete.*⁵⁷ The ***ἔλεγχος*** is *conviction* and *immovable proof* — that is, the highest certitude and conclusion confirmed by the word, promise, examples, testimonies, and internal motions. The ***τὰ ἐλπιζόμενα*** ("things hoped for") are things future — the help of God in adverse matters, deliverance which is certainly hoped for even if the adversity endures for some time; the resurrection of bodies; the day of judgement; eternal life. The ***τὰ οὐ βλεπόμενα*** ("things not seen") are all things either long ago done or now present but not subjected to the eyes — as, the doctrine concerning God, Creation, the Fall, the benefits of Christ, the justification of man, and so on.
+
+*(A marginal cross-reference: Wisd. 16 uses the same participial idiom* — ***στάσις σε τῶν σῶν γλυκύτητα πρὸς τέκνα ἐνεφάνισεν*** — *of the divine sweetness "standing forth" toward His children.)*
+
+### The Two Kinds of Acknowledgement of God — Universal and Peculiar
+
+As of *twofold Faith* and of *twofold members of the Church* it has been said, so also of the ***acknowledgement of God*** it must be said that one is *universal,* and the other *peculiar.*
+
+**The universal acknowledgement of God** is that which is common in the whole race of men, both outside and within the Church — as, that God is, and *what kind of being* God is, namely an *eternal mind, the cause of the good in nature;* and that there is *providence.* Of this universal acknowledgement Paul speaks in Rom. 1 and 2.
+
+**The peculiar acknowledgement of God** is proper to the Church, in which the *whole doctrine* is handed down concerning *the essence of God, the three Persons, the Creation, the Fall, sin, the Law, the Gospel, justification, good works, the sacraments, the Cross, the Resurrection, and eternal life.* And this peculiar acknowledgement of God is arisen out of the ***patefaction*** of God Himself — who, by the express word of the Law and of the Gospel, and by the *testimonies* added, either for the confirmation of the word (as miracles are) or for the confirmation of confidence (as sacrifices were, and as the sacraments are), has revealed to us His essence and will.
+
+And this acknowledgement also is either *historical only,* literal, and *carnal* — the same with the *historical faith* — in those not regenerated, but hypocrites, secure, mere philosophers, and not undertaking penitence: or is *spiritual* and *internal, efficacious for life and salvation,* or ***salutary,*** proper to those truly believing and to the sons of God, converted and regenerated — of which is said in John 17: ***This is life eternal, that they know Thee, the only true God, and Him whom Thou hast sent, Jesus to be the Christ.***
+
+### The Two Confessions — βουλητική and προαιρετική
+
+In the schools they sometimes name *confessio* ***βουλητική*** and *confessio* ***προαιρετική.*** That is called ***βουλητική*** in which the words indeed of the Church are recited, but the mind is *turned away from God* — as the devils and the secure can also employ and recite certain forms concerning the articles of faith, not to the end that they may render glory to God, or that they themselves may be converted, but *by custom,* or *to deceive others.* But the ***προαιρετική*** acknowledgement, faith, and confession is that in which *the mind of the confessor is turned toward God,* and looks to a *congruent end,* and renders to God and to the Son of God the *due honour* from the soul and from the heart in true confidence and humility. Of this confession Paul speaks in 1 Cor. 12: ***No one can say "the Lord Jesus" except by the Holy Spirit*** — namely, not by a *βουλητική* but by a ***προαιρετική*** confession, and by perseverance in the whole doctrine.⁵⁸
+
+### *Credere Deum, Credere Deo, Credere in Deum*
+
+**To believe God** (*credere Deum*) is *to attribute essence to God,* that He is God.
+
+**To believe God** (*credere Deo,* dative) is *to attribute truth to God, to assent to His word.*
+
+**To believe in God** (*credere in Deum,* accusative) is *by a firm confidence to acquiesce in God, and in the divine promises, and to subject oneself wholly and humbly to the word of God* — as Gen. 15: ***Abraham believed in the Lord, and it was reputed to him for righteousness.***
+
+Some — and indeed rightly — speak thus: **Credere Deum** is *notice;* **Credere Deo** is *assent;* **Credere in Deum** is *firm confidence.* And all these one word of Faith embraces.
+
+### The Five Causes Why Each Ought to Say "I Believe in God"
+
+The causes for which each ought to say ***I believe in God*** are chiefly these five:
+
+**1.** That you may *discern your faith* from the *intuitive notice* which contemplates things subjected to the eyes.
+
+**2.** That you may *show that you detest* the Academic doubting and suspension lacking a certain assent concerning God and the divine matters.
+
+**3.** That you may *testify* that you have not only historical faith, but a truly Christian one, and ***πληροφορίαν*** (full assurance) — and that you *confide* in God, in mind, will, and heart — in notice, assent, and confidence.⁵⁹
+
+**4.** That you may *show* that you are certain of the *application* of the benefits of God, that they are applied to *you the believer* — and that by your own faith (which is *special*) you apprehend the promises of God, and do not have only a general faith.
+
+**5.** That you may *confess* that you *reject all idols,* which are nothing (1 Cor. 8), and that you simply *place all your confidence in God patefacted to you in the word,* propounded to you to be believed, and *acquiesce in Him without contradiction,* and *are willing to persevere constantly,* whatever reason or the judgement of others *not consenting to the word of God* may bring forth to the contrary.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Part II — *De Una Dei Essentia et de Tribus Personis:* Of the One Essence of God and the Three Persons
+
+### The One Eternal Essence
+
+That there is *one eternal, divine, omnipotent essence,* or that *God is one,* and that there are not *many essences* or *many Gods,* is testified by the *patefaction* and *word* of God Himself. For thus He says in Deut. 6: ***Hear, O Israel: Iehovah our God, Iehovah is one.*** And 1 Cor. 8: ***We know that there is not any God but one.*** And Deut. 32: ***See that I am alone, and there is no other beside me.***
+
+### The Word *Essentia* — Hebrew *Iesch,* Greek *Οὐσία*
+
+*Essence* is named, in the Hebrew, ***Iesch;*** in the Greek, ***οὐσία*** — that is, *existing* — namely, that which *of itself truly is,* not as an accident inhering in another, even if it be communicated, or *common to many* rather than to a single individual. For thus the *vocable* **God** is employed in the Church of the *one, eternal, and omnipotent essence common to the three Persons.*
+
+Sacredly, and *par excellence,* they express this *one essence of God* by the voice ***Iehovah,*** יהוה, which is deduced from ***HYH*** or ***HYY*** — *He was, He is, He will be.* For the *ineffable and perpetual essence of God in three Persons* is understood in that word.⁶⁰
+
+### The Name *Deus* in the Symbol
+
+In the Symbol, when we say ***I believe in God,*** then ***God*** is the name of the essence — it is *not* the name of the Father alone, but is common to the three Persons. Wherefore also in the Church it is thus ordained that concerning the divine *essence* these words be first recited, or even sung: ***I believe in one God;*** thereafter be subjoined, by distinction and enumeration, the *explication of the Persons* — that it may be established *who is that one God in whom we believe:* namely, ***Father, Son, and Holy Spirit.***
+
+### That God Is One in Essence, Three in Persons
+
+For just as *God Himself has shown and patefacted that He is one eternal God,* so has He *testified that He is God in three Persons, and that He wills to be so acknowledged, invoked, and celebrated.*
+
+Thus He says in Gen. 1: ***Creavit Dij Elohim caelum et terram*** — where the *singular verb* signifies *one essence,* and the *plural noun* signifies *many Persons.*⁶¹ And often are joined the *name of the essence* and the *name of the Persons* — as ***Iehovah Elohim,*** Gen. 3; and: ***"Iehovah rained sulphur and fire from Iehovah,"*** Gen. 19.
+
+**Gen. 18:** Iehovah appears to Abraham *in the species of three men* — where it is sometimes said, *"They said to him,"* sometimes, *"Iehovah said to Abraham;"* and conversely Abraham addresses them sometimes in the plural: *"Wash yourselves, and rest,"* sometimes in the singular: *"I beseech thee, Lord, let me speak to the Lord: pass not by,"* and so on.
+
+Hither pertain those words of **Exod. 3:** ***I am the God of thy father*** (this is the *one essence*): ***the God of Abraham, the God of Isaac, the God of Jacob*** (this is the *Trinity*).
+
+And **Josh. 2:** ***The Lord your God, He is God in heaven above and on the earth beneath.*** And ch. 24: ***You cannot serve Iehovah, for holy Gods (*Elohim kidoschim*) is He, a strong avenger.***
+
+**Num. 6:** ***May Iehovah bless thee; may Iehovah show thee His face; may Iehovah turn His countenance to thee.***
+
+**Ps. 33:** ***By the word of the Lord the heavens were made, and by the spirit of His mouth all their strength.***
+
+**Ps. 67:** ***May God bless us, our God; may God bless us, and let all the ends of the earth fear Him.***
+
+**Ps. 110:** ***The Lord said to my Lord.*** Here many Persons are named.
+
+**Dan. 9:** ***Hear us, our God, for the sake of the Lord.*** **Isa. 6:** ***Holy, holy, holy.***
+
+### Old Testament Testimonies to Each of the Three Persons
+
+These and like testimonies are to be considered. And that we may know that the *names of the Persons are expressly set down in the Old Testament,* these are to be added:
+
+**Of God the Father, of the Son** — Ps. 2: ***The Lord said to me, Thou art my Son; this day I have begotten Thee.***
+
+**Of the Son also** — Dan. 3: ***The form of the fourth is like the Son of God.*** And Ps. 72: ***Before the Sun His name was made-a-son, Iynnon*** — for *Nin* signifies a *little son.*⁶² Prov. 30: ***What is the name of the Son of God?***
+
+**Of the Holy Spirit** — Gen. 1: ***The Spirit of God moved upon the waters.*** Gen. 6: ***My Spirit shall not judge in man any longer.*** Ps. 51: ***Take not Thy Holy Spirit from me.*** Ps. 139: ***Whither shall I go from Thy Spirit?***
+
+### The Clearer New Testament Revelation
+
+In the New Testament all these things have been made *plainer* through the Son of God Himself, the *Chancellor and Interpreter of the essence and will of God:* as in the **Baptism of Christ** (Matt. 3), where the three Persons of the Divinity reveal themselves — Father, Son, and Holy Spirit. Likewise in the **institution of our Baptism,** where in *the name of the Father, and of the Son, and of the Holy Spirit* Christ wills all Christians to be baptised. Whence excellently Basil, in the Epistle inscribed *ἀντίγραφον πίστεως,* fol. 330:
+
+> ***δεῖ ἡμᾶς βαπτίζεσθαι μὲν, ὡς παρελάβομεν· πιστεύειν δὲ, ὡς βαπτιζόμεθα· δοξάζειν δὲ, ὡς πεπιστεύκαμεν, Πατέρα καὶ Υἱὸν καὶ ἅγιον Πνεῦμα.***
+
+*That is:* **It behoves us to be baptised as we have received from Christ; and to believe as we are baptised; and to glorify as we have believed — the Father, and the Son, and the Holy Spirit.**⁶³
+
+**1 John 5:** ***There are three that bear witness in heaven — the Father, the Son (or the Logos), and the Holy Spirit — and these three are one.***⁶⁴
+
+**1 John 4:** ***The Father sent the Son, and gave us of His Spirit.***
+
+### What Is a Person?
+
+Now let us see *what a Person is.*
+
+The Hebrews name a Person ***panim*** (פנים), from ***panah,*** *"he beheld."* And it is worthy of observation that the word ***panim,*** signifying *person,* is only in the *plural number,* and yet by its signification denotes both *a person* and *persons.* For as each Person subsists through itself, so also it has a *respect toward another.*
+
+The Greeks call a Person ***ὑπόστασιν, ὑφιστάμενον,*** or ***πρόσωπον.*** The scholastics have named it a ***suppositum.*** And a **Person** is:
+
+> ***A substance, individual, intelligent or rational, incommunicable, subsisting through itself, and not sustained in another.***
+
+**ὑφιστάμενον** is a word most well-known to antiquity. **ὑπόστασις** began to be employed after the Nicene Council. **πρόσωπον** is a *recent* word of the Westerners, in imitation of the Latins, who name it *persona* — in the predicament of *substance:* namely, *substance* (that it may be discerned from *accident,* as when *person* is a relative noun and signifies an *office* — as *the magistrate bears the person of God;* or a *representation* — as *Roscius sustains the person of Agamemnon*); *living* (not a vanishing thing); *individual* (in difference from *Essence,* which is common to the three Persons); *intelligent* (in difference from all brute things); *incommunicable;* and *not sustained in another.*⁶⁵
+
+### On the Incommunicability of Persons
+
+Mention is made of *incommunicability* for these causes:
+
+**1.** For *distinction from the essence,* which is *communicable* ***ἀμερίστως καὶ ἀδιασπάστως*** — *undivided and unpulled-apart.*
+
+**2.** For *difference from the natures in Christ,* which are also not ***ἀκοινώνητοι*** (without any communication), as ***Samosatenus*** willed — that is, willing that the two natures in Christ, and their ***ἰδιότητας,*** be simply incommunicable, as Suidas reports of the Samosatenians. On the contrary, they are so *conjoined by personal union* that each nature acts ***μετὰ κοινωνίας*** — *"with communion,"* as **Damascene** speaks (bk. 3, ch. 19). Which *communication* is rightly received, so that no *Eutychian* and *Schwenckfeldian* *confusion or equation* be made. We shall discuss it below in the *second Article, on the Communication properly so-called.* Now let this be observed: many of the *purer* doctors in the Church have spoken thus, namely:
+
+**The Communication** is *either* ***ἰδιοποιία,*** as ***Athanasius*** speaks in his Epistle to Epictetus, when *those things which are proper to the flesh are attributed to the Logos in concreto;* and, as ***Cyril*** in Epistle 29 speaks, when *that which is befitting to one nature is attributed to the Person in concreto according to either nature.* This communication we today usually and properly name ***κοινωνίαν ἰδιωμάτων*** — the *communication of the idioms* — in which ***τὰ τῶν φύσεων ἴδια become κοινὰ τοῦ προσώπου,*** according to the useful rule of **Theodoret** and **Vigilius.** Theodoret also names this ***κοινωνία*** also ***κοινότητα ἢ ἐναλλαγήν ὀνομάτων*** — "the community, or exchange, of names." **Nazianzen** names it ***ἐπίζευξιν ὀνομάτων*** — the *copulation of names.* **Damascene** (bk. 3, ch. 4) names it ***ἀλλοίωσιν ἢ ἀντίδοσιν*** — that is, *alternation, mutual attribution* — when the *property befitting one nature is attributed to the Person in concreto according to either nature:* as **"Christ the man created heaven and earth;" "the Son of God, God, has suffered and died."**⁶⁶
+
+**Or** the Communication is ***κοινοποιία,*** as ***Cyril*** speaks in his *De incarnatione Vnigeniti,* ch. 7. Which is today rightly distinguished from the *communication of the idioms* properly so-called. This one is when *that which is attributed to the Person befits not only one nature but each nature in Christ, divine and human.* Damascene names it ***περίφρασιν*** (bk. 3, ch. 19), when the operations of the two natures are comprehended in a single locution, and thus each nature *acts with the communion of the other.* We today name it by the *names of the offices,* as *Christ is Mediator, Redeemer, Justifier, Saviour, Vivifier, Resuscitator, Judge, Shepherd, Head of the Church, Propitiator, Pontiff, King, Priest* — namely, not according to the divine nature alone, nor according to the human nature alone, but *according to each nature.* For the ***Logos,*** as ***Cyril*** on the *κοινοποιία* speaks, *makes the operations of His own divine majesty common to His flesh,* so that it can *quicken the dead and heal the sick.* Damascene says, ***κατὰ ἀμφὼ τὰς φύσεις*** — "according to both the natures." Likewise: *the Person of Christ, that is, each nature in Christ,* ***ἐνεργεῖ μετὰ τῆς θατέρας κοινωνίας*** — *acts with the communion of the other.*
+
+**Dionysius** names this action ***θεανδρικήν*** (theandric) — which is rightly explicated by the scholastics: **1.** because there is *one Person* having its actions not only *in one* but *in each* nature. **2.** because the *divine action* uses the *human nature as an organ and instrument,* and the *human action participates of the divine virtue,* that it may be *truly efficacious and salutary.* **3.** because those two actions are *united into one effect,* which Damascene calls ***ἀποτέλεσμα*** — as is *redemption, justification, vivification, the fulfilment of the promises.*⁶⁷
+
+**To this** ***κοινοποιία*** *some add* that which **Damascene** (bk. 3, ch. 17) calls ***ὑπερύψωσιν τῆς σαρκός*** — *the super-exaltation of the flesh* — and ***πλοῦτον γενόμενον σαρκὶ ἐξ ἑνώσεως*** — *the richness accruing to the flesh from the union.* And in ch. 7 he says: the *divine nature* ***μεταδίδωσι*** — *shares* with the flesh its *own glory,* while itself remaining ***ἀμέτοχος*** — *unshared* — in *those things which are of the human nature.*
+
+**This exaltation** no one denies, save the *devil,* as **Athanasius** says on the Passion in the olive-grove: *"The devil did not believe that Christ's flesh was strengthened by the virtue of the Word."* **Luther** also names this ***ὑπεροχήν*** and *exaltation of the human nature in Christ,* the ***communication of the idioms*** in the saying: **"All power is given to me in heaven and on earth."** And on ch. Isa. 51 he calls it the ***real exaltation.*** Whence today the phrase has arisen ***communicatio realis*** — which the *sincerer* men did not understand of the ***ἰδιοποίαν*** of which we spoke before, nor of the ***κοινοποιίαν*** alone (which occurs in the external idioms, as we shall say below in the *distinction of the Persons*), but of the ***glorification of the human nature in Christ,*** or of the ***communication and participation of the divine power,*** as **Basil** speaks — to which are to be understood all the sayings which speak of the *majesty, glory, and power* which is read to have been given to Christ in time. As **Cyril** rightly says: *"To have received glory, power, and kingdom over all things, is to be referred to the conditions of the humanity."*
+
+**Justin** names this ***ἀποθέωσιν*** and ***μετάληψιν*** — *participation of the divine dignity.* **Eusebius:** ***συναποθέωσιν, μεταδίδωσιν, χορηγίαν, ἀξίωσιν, καὶ κοινωνίαν.*** **Athanasius:** ***προσθήκην, θεοποίησιν, θεολόγησιν, πλήρωσιν ὑπὲρ φύσιν, παραφύσιν.*** **Eustathius:** ***ἐπίκτητον δόξαν*** ("acquired glory"). **Damascene:** ***κοινωνίαν τῶν αὐχημάτων θείων*** ("communion of the divine attributes"). The *Scholastics* call it the ***Grace of Union and of Head.***⁶⁸
+
+From these things it stands that the natures in Christ are not, nor are said to be, ***ἀκοινώνητοι,*** as **Samosatenus** willed — conceding indeed two natures, but ***διηρημένως ἐχούσας, καὶ παντάπασι ἀκοινωνήτους πρὸς ἑαυτάς*** — *separately subsisting, and simply incommunicable to one another.* For the *communication* properly so-called occurs, first, *in the Person,* or *in concreto,* when the properties of one nature are attributed to the other nature *in concreto* (which occurs *according to either nature,* whose those idioms are ***συστατικά***); afterwards, *each nature acts with the communion of the other* in those things which are of *office,* and pertain to each nature — yet so, that the *divine nature* is the *primary virtue,* without which the human nature *by itself can effect nothing;* and *of which virtue the human nature is so participant* that *through it, with it, and in it* (as **Athanasius** often and most rightly speaks) *the divine nature acts, and executes all things pertaining to the work of redemption.* Thereafter the *human nature also receives* the power given and communicated to itself, in heaven and on earth, being in Christ *evected above all the heavens to the right and glory of the virtue and majesty of God.*
+
+### The Person of Christ Is Incommunicable
+
+But the ***Person of Christ*** is incommunicable. For the *Son of God,* subsisting in the divine nature from eternity, was, is, and will be *a most perfect Person.* But He *assumed the human nature* — not that He communicated a *Person* to it outside Himself (for thus two Persons would be constituted); nor that He so assumed it that the human nature — although it be ***λογική, θελητική, καὶ ἐνεργητική*** (*rational, willing, and operative*) — has *in Christ Himself* a full and perfect account of Person. But He assumed it thus, that by *personal union* the whole Christ after the incarnation *stands* not of the divine nature alone but also of the human — and *of the divine and human nature* is *one* ***ὑφιστάμενον,*** or one *individual and incommunicable substance of Christ,* so that the *whole Christ subsists by personal union of two natures, from each and in each nature.* And although in Christ there is ***ἄλλο καὶ ἄλλο*** (*this thing and that*), yet there is not ***ἄλλος καὶ ἄλλος*** (*this one and that one*), but *one Christ, Theanthropos, God and man, Emmanuel* is one ***ὑφιστάμενον.***⁶⁹
+
+Thirdly, in the definition of Person *the particle "Incommunicable"* is also added for the *discrimen between the whole man and a part of the man* — as, the rational soul, which departing from the body, though it be an *intelligent and individual substance,* and the *chief part of the man,* nevertheless does not have the account of a *whole Person,* since it is *communicable* — namely, since it was united to the body before this death, and in the resurrection of the dead it must again be *joined* with the body. The *whole man,* that is, is a *Person,* is incommunicable, because it is *one* ***ὑφιστάμενον*** subsisting through itself. But the *soul and the body,* as two natures, are *communicable* — that is, they are in a certain way united, that they may constitute that *individual and incommunicable substance* of the man which is the *hypostasis* or *person.*
+
+Also these particles are added — *"Not sustained in another"* — for *difference from the human nature in Christ,* which is *not a Person,* but is *assumed into the Person of the Son of God,* and by Him *is borne, preserved, sustained, quickened, glorified, and evected into the highest sublimity and majesty at the right hand of God,* and *has all its divine and ὑπὲρ φύσιν highest gifts and ornaments from the Logos,* to whom *hypostatically it is united.*
+
+***
+
+### Digression on the Three Persons of the Divinity
+
+We have explained most briefly the *definition of Person.* Since the Persons of the divinity are three — the Father, the Son, and the Holy Spirit — and *neither more nor fewer,* because the divinity has so patefacted itself, therefore now it is to be shown *how these Persons are distinguished,* and *which properties are common,* and which are *personal* — that is, proper to the single Persons, so to speak.
+
+They are distinguished in this manner:
+
+**The eternal Father** is the *first Person of the Divinity,* *not born,* *not begotten,* *not proceeding,* but *from eternity begetting the Son His own image.*
+
+**The Son** is the *second Person of the Divinity, begotten of the eternal Father, substantial and integral image of the Father, and sent to patefact the Gospel, and to assume the human nature, and to redeem and save the human race.*
+
+**The Holy Spirit** is the *third Person of the Divinity, proceeding from the Father and the Son, substantial love and delight between the Father and the Son, sent into the hearts of men to kindle and confirm faith and consolation acquiescing in God, and to dwell in them as in His own temples.*
+
+Not only do the *appellations* or *names* differ, but the three Persons *really* and by *distinct properties* are discerned in *one and the same divine essence.*
+
+***
+
+### On the Common Properties of the Persons
+
+The *properties* are twofold: **common** — that is, of the three Persons; and **proper** — belonging to the single Persons, by which also the Persons are discerned.
+
+The **common** properties are either *essential* or *external.*
+
+**Essential** are the *attributes* common to the three, which in God Himself *are not accidents,* but are the very *essence* of God — as *goodness, justice, majesty, power, and divine glory.* God is not *great* by quantity, *wise* by quality, *powerful* by an accidental power inhering in the divine essence itself; but the *very essence of God is wisdom, power, justice,* and so on. And although God is *most-simple essence,* yet these *appellations and various denominations* — which flow from one and the same fountain — *show* the *magnitude and variety of the benefits of God toward us,* and *propose them to us.*
+
+### On the Question Whether the Divine Essence Itself Is Communicated to Christ's Flesh
+
+Today it is wont to be asked by the disputing *scholastics:* when the Church says that to the *flesh of Christ,* or to the *human nature in Christ,* has been *given all power in heaven and on earth,* or *the divine glory and majesty* — both on account of the *union,* and because it has been *evected above all the heavens to the right of God* — is it *the divine essence itself* which is *communicated* to the flesh of Christ? which either must needs come to pass, since the *glory, power, and majesty of God is the very essence of God* — or is *false and impious,* and the *Eutychian delirium,* the *confusion and permixture of the natures.*
+
+The argument therefore of the scholastics is this:
+
+> **Essential properties are not communicated.**
+> **Divine power, majesty, and glory are the essential property of the divine nature — indeed, are the very divine essence.**
+> **Therefore they are not communicated to the human nature in Christ.**
+
+**I answer.**
+
+I concede the whole *concerning a physical communication and permixture,* which is a *confusion of the natures,* and a *transfusion into one, as it were, chaos.* For although the essence is *communicable* in the way of which we spoke above — namely, that *essence is and is called common to many individuals or Persons in the Trinity* — nevertheless this is not so to be taken as though the *divine essence is communicated to the human nature in Christ,* which is certainly *created,* and *remains for all eternity integral human nature,* and does not become a certain *divine, or uncreated, and-from-eternity-existing and infinite essence* — otherwise there would be only *one nature in Christ.* And as concerns the *essential properties of the divine nature,* which are also the *very divine essence,* by no means are they *communicated to the human nature in Christ* so as to *be, or become, or be called idioms or properties of the human nature.* And of this matter it is rightly said, ***No essential idiom is communicated*** — namely, so as to *be or become an idiom of another nature.* For this communication of essential properties would *take away the distinction of natures,* and *would confuse the natures themselves* — indeed would constitute only *one nature.*
+
+But when it is said that the *human nature in Christ,* or *Christ the man in His own human nature,* has *all power in heaven and on earth, and the divine majesty and glory,* then in no way do Holy Scripture and the Church understand a *physical communication of the natures or of the essential properties;* and they do not wish to say this: that the *divine majesty, power, and glory* are the *idiom of the human nature,* or that the *human nature either of itself, or through itself, or even in itself habitually and formally* (as the scholastics speak) *has divine power* — but this is the sentence which **Athanasius** expresses in these words *(De Dialectis)*:
+
+> ***"If someone by cogitation concedes that the sun by a lantern and in a lantern emits its own light, there will not be two lights — but the lantern shines, the sun in it and through it shining, and the very lantern being dominated, and vindicating that light to itself as its own. So the Logos of God, in the human nature and through it, exerts and works His own force; and He makes His own human nature above its own nature perfect, ὑπὲρ τὴν φύσιν ἀποτελεῖ, according to His good-pleasure* (*εὐδοκίᾳ*)*; nor yet does He prevent, however, that the human nature remain what it is."***⁷⁰
+
+**Antiquity** used the similitude of the *rational soul in the human body,* as we read in the ***Symbolum Athanasianum:*** ***One Christ, God and man; not by confusion of essence, but by unity of Person. For as the rational soul and flesh is one man, so God and man are one Christ.*** And this similitude fits ***μὴ πάντα,*** but ***κατά τι*** — *not in all things,* but *in a certain respect* — as **Justin** says, and as we shall show below in the *doctrine on the Person of the Son of God.*
+
+Man consists of two dissimilar natures: the *spiritual,* which is the *rational and immortal soul;* and the *corporeal,* or *elementary.* These two natures in man are so *conjoined* that each retains its own peculiar essence and its own properties, and they are *never permixed or confused.* The body *never becomes* the soul; the soul *never becomes* the body. And the properties *remain* as long as the *substance and nature of the man is and remains extant.* And yet in each man the *conjunction of soul and body* is of this kind: that the *soul, with its own body, in its own body, and through its own body,* *acts and completes the actions of its own properties* — just as the body *can do nothing without the soul,* so the soul *effects nothing without the organ and ministry of the body* in this life: *by bodily eyes it sees, by ears it hears, by tongue it speaks, and by external senses it apprehends those things concerning which it judges; and it uses the brain for the virtue of the intellect, and uses the members for effecting those things which it determines to be effected.* And this is the ***communion without confusion*** of the natures and of the properties. And the *whole man* is said *to understand, to learn, to meditate, to do, to speak* — according to *that nature whose is that which is done.*
+
+In some similar respect, in the ***personal union of the two natures in Christ,*** distinct natures and properties are and remain, without any *confusion, permixture, or equation.* And yet the *divinity* — that is, the *assuming nature,* or the *Logos* — with its assumed *human nature,* in it, and through it, *acts and completes* the works proper to its eternal and divine omnipotence, goodness, wisdom, majesty, and glory; nor does it exert the *works of its own power and glory, mercy and goodness,* apart from the *ministry of the human nature assumed into its one Person.* Therefore it is written, **Col. 2:** ***In Christ dwells the whole plenitude of the divinity corporeally.*** And: ***In Him are all the treasures of wisdom and knowledge hidden.***
+
+**Theodoret,** in the chapter *De Antichristo,* thus explicates Paul's saying: *"The Logos made man, ***οὐ μερικῶν*** — did not confer a particular grace on the assumed nature; but it pleased the whole plenitude of the divinity to dwell in Him."* And **Epiphanius** in the *Ancoratus:* ***"Christ is the*** *τὸ δόχεῖον, that is, the receptacle of the wisdom and divinity."* And **Augustine,** Ep. 57:
+
+> *"Concerning our Head Christ the Apostle says: 'In Him dwells the whole plenitude of the divinity corporeally' — not because His body is God, but corporeally, that is, not shadowily, as in temples made with hands; or certainly corporeally is said because also in the body of Christ, as in a temple, God dwells — but not as in other members, as in the Prophets and Apostles, but as in the Head of the members, in whom is the whole plenitude of the divinity, because by a certain singular reception of that man one Person has been made with the Word. And this is the singular grace which it is right to preach, but concerning which it is not right to wish to judge."*⁷¹
+
+Of these things, however, more copiously in the doctrine on the Son of God below. Only this being added: the *whole Christ,* or *the whole Person of Christ, according to each nature — divine and human — is the second Person in the Trinity,* and *according to neither nature is He outside the Trinity.* And this being observed, many *deliria* of the **Nestorians** (who divide Christ), and of the **Quaternitarians** (who feign a *fourth something* — namely the assumed human nature — outside the Trinity in the Person of Christ — as **Marcellus** and **Photinus** and their sort), or of the ***Utopists*** (who *bind and enclose* Christ's human nature *in a physical local place*), and of like fanatical portents can be condemned and rejected.⁷²
+
+And rightly **Augustine** (*De bono perseverantiae*) says: ***"Who took up, and what He took up, is one Person in the Trinity."*** The same: ***"It is not right to separate the Son of Man from the Son of God."*** And in the *Meditations,* ch. 15: ***"To the mystery of the Trinity a fourth Person is not added: for the substance of the Word of God and of the man was united, not confused, that into God — namely what had been taken up from us — should reach; and that which He had never been should remain. O admirable mystery! O ineffable commerce! O ever-wondrous, ever-to-be-wondered-at, and ever-to-be-loved benignity of divine propitiation!"***
+
+**Maxentius:** ***"If anyone does not acquiesce to confess Christ, with His own flesh, as one of the Trinity, let him be anathema."***
+
+Here there is no other discrimen except that in the eternal and indivisible Trinity there is ***ἄλλος καὶ ἄλλος*** (*this One and that One,* the Persons) but *not* ***ἄλλο καὶ ἄλλο*** (*this thing and that thing,* natures); but in the Person of the Son — who is from the Father and the Holy Spirit — there is ***ἄλλο καὶ ἄλλο*** (two natures), but *not* ***ἄλλος καὶ ἄλλος*** (two persons). Because *that One,* other than the Father and the Holy Spirit, is not *another in His own divine nature* and *another in His own human nature,* but is *one and the same Son of God and of man,* God and man. But there is *this and that,* that is, He has *two natures* — one eternal, which is ***ὁμοούσιος καὶ συναΐδιος*** with the Father; the other *assumed, human,* which is ***ὁμοούσιος*** with us, apart from sin, and moreover *evected to the right of God above all creatures, made Lord and Head of all things.*⁷³
+
+***
+
+### Return to the Common Properties: External Properties
+
+Now to the *common properties* we must return, and — since concerning the *essential* it has been said — it must be seen *what the external* are.
+
+**External properties** are those which are *taken from the works ad extra,* as **Augustine** speaks — which pertain neither to the *eternal essence* nor to the *distinction of the Persons,* but to the *creatures* set forth by God Himself, by the Father, the Son, and the Holy Spirit — as is **Creation, Redemption, Preservation, Sanctification.** For these works are common to the three Persons, with the *order and idiom* of the Persons preserved, however, as will be said below.
+
+***
+
+### The Personal Properties — Internal and External
+
+The properties befitting the single Persons, by which the Persons are properly discerned among themselves — that is, the ***personal properties*** — are of two kinds:
+
+**Internal:**
+- ***Gignere*** (*to beget*) — proper to the Father *(Ialad)*
+- ***Nasci*** (*to be born*) — proper to the Son *(Nolad)*
+- ***Procedere*** (*to proceed*) — proper to the Holy Spirit *(Niphak)*
+
+**External** — taken from the *benefits toward the Church:*
+- ***Mittere*** (*to send*) — of the Father
+- ***Mitti*** (*to be sent*) — of the Son and of the Holy Spirit
+
+Between ***gignere*** and ***creare*** there is this discrimen: **To beget** is *to beget another of one's own essence.* **To create** is *to fabricate another out of nothing.* As **Cyril** says: **"The Creator produces ab extra; the Begetter, from Himself."** *(Bara* is the Hebrew for *to create.)*
+
+Between ***nasci*** and ***procedere*** there is this discrimen: **To be born** is *from the intelligent faculty* — since what is begotten is the *image* of the Begetter, and *the Son is born by cogitation.* **To proceed** is *from the willing faculty:* ***τὸ ἐκπορεύεσθαι.*** For ***πόρος*** is a *movement,* since the Holy Spirit is the *mover and driver.* And it is one thing ***ἐλθεῖν*** — *to go out* — which is a more common word, and is said also of the Son *going out from the Father,* that is, *born and sent to patefact and complete the work of redemption*; and another thing ***ἐκπορεύεσθαι*** — *to proceed.* *(Iaza* is the Hebrew.)⁷⁴
+
+### Augustine's Rule
+
+**Augustine:** ***"The works ad extra are undivided."*** ***"The works ad intra"*** — that is, the *internal and eternal actions of the divinity by which the Persons are discerned — are divided.***
+
+The *property of each Person,* however, is preserved even *in the works ad extra.* Whence the response to the argument is easy:
+
+> **The works of the Trinity ad extra are undivided.**
+> **The salvation of man is a work ad extra.**
+> **Therefore the salvation of man is not the work of the Son alone, but common to the three Persons — and is not otherwise completed through the Son than through the Father and the Holy Spirit.**
+
+**I answer.** The major is true, *with the property of each Person preserved.* The *whole divinity* indeed operates the *incarnation of the Son and the salvation of man* — since the Father sends the Son, and the Holy Spirit supervenes and overshadows Mary. But the *Son alone is incarnated,* not the Trinity, but *one out of the Trinity;* not the Father, nor the Holy Spirit, but *the Son alone,* who alone *was made man* and *assumed the human nature* — not into the *unity of the divine essence,* which is of the three Persons, but *into the singularity of His own Person* — that is, into what is *proper to the Son,* not into what is *common to the Trinity.*
+
+Formerly the scholastics offered a similitude of *three putting on one out of themselves,* concerning which it can be said that *all together make one work,* and *whatever one does, the other does,* and yet *only one is clothed.* Thus (says **Augustine**) *of the single works in the Trinity the Trinity is the agent — the two co-operating with the one operating — with a fitting concord of acting in the three, and no defect of efficacy in acting in the one.*
+
+Hence the usual saying: **The Son acts through Himself, but not from Himself** — that is, the Son *is sent* to accomplish the work of redemption and salvation.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Endnotes
 
 ***Finis***
@@ -972,3 +1273,41 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **⁵⁴** *Creation, Patefaction, Redemption, Sanctification, Gathering, Preservation, Salvation of the Church.* Selnecker's seven-fold enumeration of the chief works and benefits of God is a distillation of the three-Article structure of the Creed, with the works of Article II (Redemption) and Article III (Sanctification through the Church) each unfolded into small ordered series. ***Patefactio*** — literally *"unveiling"* or *"opening-up"* — is Selnecker's Latin equivalent for what an English theological reader would call ***revelation*** (or in German *Offenbarung*).
 
 **⁵⁵** *Bernard's saying.* The reference is to **Bernard of Clairvaux,** *Sermones super Cantica Canticorum* 67.10 (PL 183:1108B): *"Sed adde et hoc, ut credas quod per ipsum tibi peccata donentur"* — *"But add this also, that you may believe that through Him sins are given to *thee.*"* Immediately following in Bernard's sermon comes the appropriation of Mark 2:5 / Luke 5:20 that Selnecker here rehearses. The Bernardine passage is one of Luther's own most-quoted texts, standing as the medieval-Cistercian witness to the specifically *personal* application of the objective *satisfactio* of Christ to the believer's own soul. Luther cites it at *Freedom of a Christian* (1520, WA 7:24), and Selnecker's usage here follows Luther's exactly.
+
+**⁵⁶** *Isaiah 26.* The Hebrew phrase Selnecker transliterates — *Iezer samuch thizor schalom, schalom ki becha batuach* — is Isa. 26:3: יֵצֶר סָמוּךְ תִּצֹּר שָׁלוֹם שָׁלוֹם כִּי בְךָ בָּטוּחַ — *"a formation (yetzer) that is sustained (samukh) — Thou dost keep in peace, peace — because in Thee is his trust (batuach)."* Selnecker uses this verse as a *Scriptural definition of faith,* reading the *yetzer samukh* as the *apprehensio object stabilised by God's own upholding,* and the *batuach* as the *fiducia* that acquiesces in the divine word without doubt. The reading was standard in the Wittenberg Old-Testament tradition (Luther on Isaiah, WA 25:167, gives the same construction).
+
+**⁵⁷** *Hebrews 11.* Heb. 11:1: *ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων* — *"Faith is the ὑπόστασις (substance/expectation/subsistence) of things hoped for, the ἔλεγχος (conviction/proof) of things not seen."* Selnecker's reading — that *hypostasis* here is the *firm and constant expecting confidence* that treats the hoped-for as *substantially present in effect,* and that *elenchos* is the *conviction and immovable proof by the word, promise, examples, and internal motions of the Spirit* — is the standard Lutheran-orthodox construal, later codified in Gerhard's *Loci Theologici* vol. XIX (De Fide) and Quenstedt's *Systema* IV.
+
+**⁵⁸** *Confessio βουλητική vs προαιρετική.* The two Greek adjectives distinguish *voluntary-in-the-lower-sense* (merely willed, as by rote or hypocrisy) from *voluntary-in-the-higher-sense* (deliberately chosen, from a heart genuinely turned to God). The distinction is drawn from the Aristotelian ethical vocabulary (*Nicomachean Ethics* III.2) where *proairesis* is the *deliberate rational choice,* as against *boulēsis,* which can be mere desire or unreflective will. Selnecker turns the classical vocabulary to sacramental use: the merely-*boulētikē* confession is that of devils and hypocrites reciting the Creed by rote; the *proairetikē* is the confession of the regenerate, freely and deliberately turned to God.
+
+**⁵⁹** *πληροφορία.* "Full assurance," "full-carrying" — Rom. 4:21, Col. 2:2, Heb. 6:11, 10:22, 1 Thess. 1:5. The term entered Reformation-era faith-vocabulary through Melanchthon's *Loci* (1543 edition) and became a technical term in Lutheran-orthodox faith-doctrine for the *fully-persuaded fiducia* that distinguishes justifying faith from mere assent.
+
+**⁶⁰** *Iehovah — the Tetragrammaton.* Selnecker's etymology — that *YHWH* (יהוה) is deduced from the root *HYH* (הָיָה) or the older *HWH* (הָוָה), *"to be" — was, is, will be* — is the standard sixteenth-century Christian-Hebraist reading (Reuchlin, *De verbo mirifico;* Münster, *Biblia Hebraica;* Pagninus, *Thesaurus linguae sanctae*). The point Selnecker makes — that the Sacred Name refers to the *ineffable and perpetual essence of God in three Persons* — is the standard pre-critical Christian-Trinitarian reading of the Tetragrammaton, later adopted into most Reformation-era Hebrew grammars.
+
+**⁶¹** *Elohim plural with singular verb.* Selnecker's reading of Gen. 1:1 — *bara Elohim (barah singular verb + Elohim plural noun) → one essence, three persons* — is a standard sixteenth-century Christian-Hebraist Trinitarian proof, though modern Hebrew grammar reads *Elohim* here as an *intensive plural* rather than a numerical one. The construction reappears throughout the pre-critical Reformation-era literature (Luther on Genesis, WA 42:9; Melanchthon *Loci* on Trinity).
+
+**⁶²** *Ps. 72 — Iynnon / Nin.* Selnecker refers to Ps. 72:17 (Vulg. Ps. 71:17): *ante solem permanebit nomen eius* — but the reading Selnecker gives, *filiatum est nomen eius Iynnon,* draws on an alternative Hebraist reading of the difficult word יִנּוֹן (*yinnon,* traditionally rendered *"shall continue"*), which some Christian Hebraists (following the medieval Kimchi tradition) took as derived from *nin* (נִין, "son / descendant") and thus as a hidden proper name of the Messiah — *"before the sun His name was made-son, Yinnon."* Modern Hebraists read *yinnon* as a rare verbal form of *nun* meaning "propagate, sprout." Prov. 30:4 (*"What is His name, and what is His Son's name, if thou canst tell?"*) is Selnecker's supporting reference. See related [[note-60]] on the Trinitarian reading of the OT.
+
+**⁶³** *Basil, ἀντίγραφον πίστεως.* The reference is to Basil, *Epistula* 125 (in modern numbering; earlier editions counted it differently), addressed to *Eustathius Sebastenus* and titled ἀντίγραφον τῆς πίστεως — "a transcript of the faith." The Greek passage Selnecker quotes verbatim — *δεῖ ἡμᾶς βαπτίζεσθαι μὲν, ὡς παρελάβομεν· πιστεύειν δὲ, ὡς βαπτιζόμεθα· δοξάζειν δὲ, ὡς πεπιστεύκαμεν* — is the celebrated "law of baptism, faith, and doxology" that grounds the whole *lex orandi–lex credendi* argument for the co-equality of the Persons: baptism as received from Christ (Matt. 28:19) proves the co-adorability of the three Names.
+
+**⁶⁴** *1 John 5:7 — the Comma Johanneum.* The passage Selnecker cites — *tres sunt qui testimonium perhibent in caelo, Pater, Filius (sive Logos), et Spiritus Sanctus, et hi tres unum sunt* — is the celebrated *Comma Johanneum,* absent from the earliest Greek MSS but present in the Latin Vulgate from the fifth century, and universally received in the sixteenth-century Western tradition as canonical Scripture. Erasmus omitted it from his first two Greek editions (1516, 1519) and, under polemical pressure, reinstated it in 1522. All Reformation-era German and Latin Bibles print it; textual criticism reopened the question only in the eighteenth and nineteenth centuries. Selnecker's parenthetical *(sive Logos)* preserves the Johannine variant reading that names the Second Person as *Logos* rather than as *Filius* in this verse.
+
+**⁶⁵** *The Definition of Person.* Selnecker's five-fold definition — *substantia, individua, intelligens, incommunicabilis, per se subsistens, non sustentata in alio* — is the standard Boethian formula (*"persona est naturae rationalis individua substantia,"* *Contra Eutychen et Nestorium* 3), enriched with the *incommunicabilis* and *non sustentata in alio* clauses to guard against both the Sabellian collapse of Persons into the essence and the Nestorian doubling of Christ into two Persons. The Greek equivalents — *hypostasis* (post-Nicene), *hyphistamenon* (pre-Nicene), *prosōpon* (Western/late) — reflect the historical layering of the vocabulary that Selnecker traces in the paragraph.
+
+**⁶⁶** *Communicatio Idiomatum — Athanasius, Cyril, Theodoret, Vigilius, Nazianzen, Damascene.* The rich Greek-Father catena Selnecker assembles here is drawn largely from **Chemnitz's *De duabus naturis in Christo*** (Jena 1570, revised 1578) — the great Lutheran-orthodox monograph on the two natures that lies just behind *Formula of Concord* Article VIII. **Athanasius,** *Epistula ad Epictetum* (PG 26:1049–1069) — the classic anti-Apollinarian text where the *ἰδιοποία* language enters the Christological vocabulary. **Cyril,** *Epistula 29* (in older numbering; the Second Letter to Nestorius, part of Ephesus 431 acta) uses the *in concreto* construction that Selnecker attributes to him. **Theodoret** on the *κοινωνία* and *ἐναλλαγή ὀνομάτων* — the "exchange of names" — is a Christological *pons asinorum* between Nestorian-leaning Antiochene and Alexandrian schools. **Vigilius of Tapsus,** *Contra Eutychen* (an early sixth-century North African text, PL 62:95ff.). **Nazianzen,** ***ἐπίζευξις ὀνομάτων*** — from Orations 29 and 30 (*Theologica* III–IV). **Damascene,** *De fide orthodoxa* III.4 and III.19 — the great mid-eighth-century Byzantine summa that codifies the received Chalcedonian Christology and is Selnecker's most-quoted authority in this whole passage.
+
+**⁶⁷** *Dionysius — θεανδρική action; Damascene's ἀποτέλεσμα.* **Pseudo-Dionysius the Areopagite,** *Epistula ad Gaium* 4 (PG 3:1072) — the celebrated locus for the *θεανδρική ἐνέργεια* ("theandric operation") of Christ, which the sixth-century Christological controversies fought out at great length (was there one "theandric" energy, or two?). Chalcedonian orthodoxy (*Third Council of Constantinople* 680–681) settled on *two energies* corresponding to the two natures, but held these to be *concurrent* in every action, producing a *single common ἀποτέλεσμα (result-outcome).* The three-fold scholastic explication Selnecker offers — one Person, divine action using human nature as organ/instrument, single united result — is the standard Chalcedonian settlement as it comes into the Latin Scholastic tradition through John of Damascus.
+
+**⁶⁸** *ὑπερύψωσις τῆς σαρκός — the super-exaltation of the flesh.* The great cluster of Greek terms Selnecker gathers here — Damascene's ***ὑπερύψωσιν, πλοῦτον γενόμενον σαρκὶ ἐξ ἑνώσεως, μεταδίδωσι, ἀμέτοχος;*** Justin's ***ἀποθέωσις*** and ***μετάληψις;*** Eusebius' ***συναποθέωσις, μεταδίδωσις, χορηγία, ἀξίωσις, κοινωνία;*** Athanasius' ***προσθήκη, θεοποίησις, θεολόγησις, πλήρωσις ὑπὲρ φύσιν, παραφύσις;*** Eustathius' ***ἐπίκτητος δόξα;*** Damascene's ***κοινωνία τῶν αὐχημάτων θείων;*** and the scholastic ***gratia unionis et capitis*** — is again drawn from Chemnitz's *De duabus naturis in Christo,* which had assembled the same catena two decades earlier. Selnecker's own contribution is to correlate this Greek-Father catena with **Luther's** own vocabulary — *ὑπεροχή* and *reale exaltatio,* which appear in Luther's Sacramentarian writings (*Grosses Bekenntnis vom Abendmahl,* 1528, WA 26:326ff.) — and thereby to demonstrate that the mature Lutheran Christology stands in continuous doctrinal succession from the Greek Fathers, not (as the Kryptocalvinists alleged) as a Lutheran innovation. This is the central polemical claim of the whole tract.
+
+**⁶⁹** *Personal union of Christ — ἄλλο καὶ ἄλλο vs ἄλλος καὶ ἄλλος.* Selnecker deploys the standard Chalcedonian distinction: in Christ there is *ἄλλο καὶ ἄλλο* — *"a this and a that,"* neuter, referring to *natures* — but not *ἄλλος καὶ ἄλλος* — *"this one and that one,"* masculine, referring to *persons.* The distinction is Nazianzen's (*Epistula* 101 ad Cledonium, PG 37:180; also *Oratio* 37) and forms the vocabulary of the Chalcedonian *hypostatic union* against Nestorian doubling and Eutychian confusion.
+
+**⁷⁰** *Athanasius, De Dialectis — the lantern and sun analogy.* Selnecker's reference is to a passage from the pseudo-Athanasian *Dialogi de Trinitate* (PG 28:1115ff.), a fifth-century Christological work traditionally ascribed to Athanasius and printed under his name in the Reformation-era editions of the Fathers (the modern critical consensus dates it to c. 431). The lantern-and-sun analogy — Selnecker's paraphrase captures its structure faithfully — became a stock Chalcedonian illustration for the way the divine Logos operates in and through the assumed human nature without either mingling with it or ceasing to be distinct.
+
+**⁷¹** *Augustine, Ep. 57 on Christ the Head.* The reference is to Augustine's *Epistula 187* (in modern numbering; *Ep. 57 in Selnecker's older enumeration*), *ad Dardanum, de praesentia Dei* (PL 33:832–848), a substantial doctrinal letter on the divine omnipresence and on the mode in which the *whole plenitude of the divinity* dwells in the Head Christ. The passage Selnecker quotes is *Ep. 187.13* (paragraph 40 in modern numbering).
+
+**⁷²** *Nestorians, Quaternitarians, Marcellus, Photinus, Utopistae.* **Nestorians** — followers of Nestorius (d. c. 451), Patriarch of Constantinople, condemned at Ephesus 431 for the "two-Person" Christology (Word-and-man rather than Word-made-flesh) implied by his refusal of *Theotokos.* **Quaternitarians** — a doctrinal category (not a named sect) for those who so distinguish the assumed human nature from the divine Persons that they effectively add a *fourth something* to the Trinity; the term is Chemnitz's diagnostic label. **Marcellus of Ancyra** (d. c. 374), condemned at various post-Nicene synods for a modalist tendency that dissolved the Second Person into the Father. **Photinus** (d. 376), Marcellus's pupil, taught a merely adoptionist Christology and was repeatedly condemned. ***Utopistae*** — Selnecker's own polemical coinage for the *Kryptocalvinists* who confine Christ's human nature to a physical *place* (τόπος) at the right hand of God, that is, who read the *sessio ad dexteram* as a local heavenly enclosure of the human nature. The doctrine of *finitum non capax infiniti* is the *extra Calvinisticum* whose refutation is the main polemical burden of the whole *Symbolorum Exegesis.*
+
+**⁷³** *The ἄλλο–ἄλλος distinction extended.* Selnecker's most elegant Chalcedonian formulation: in the eternal indivisible Trinity, *between the Persons* there is *ἄλλος καὶ ἄλλος* (two Persons) but not *ἄλλο καὶ ἄλλο* (not two things, since the divine essence is one). But *within the Person of the Son,* there is *ἄλλο καὶ ἄλλο* (two natures) but not *ἄλλος καὶ ἄλλος* (not two Persons). The Son is thus *the same one* (single Person) but *this and that* (two natures) — the one eternal ὁμοούσιος καὶ συναΐδιος with the Father, the other assumed ὁμοούσιος with us apart from sin. This is the mature Chalcedonian settlement, and it is the epigrammatic peak of Selnecker's whole doctrine of Person in this Article.
+
+**⁷⁴** *ἐκπορεύεσθαι — the etymology of Procession.* Selnecker traces the Greek *ἐκπορεύεσθαι* to *πόρος* ("passage, movement"), by way of the LXX and Johannine vocabulary for the Spirit's procession (John 15:26). The distinction between the *broader* ἐλθεῖν (which can be used of both the Son's mission and the Spirit's procession) and the *narrower* ἐκπορεύεσθαι (proper only to the Spirit) is the linguistic ground for the *Filioque* controversy: Latin *procedere* covered both meanings, whereas Greek preserved the narrower sense that Photius later used to distinguish the Spirit's *procession from the Father alone* from any Latin doctrine of double procession. Selnecker, working within the Western tradition that receives the *Filioque,* uses the vocabulary to explicate the distinctions of the Persons within the immanent Trinity. See the Nicene-Constantinopolitan Creed's own *Filioque* interpolation as printed in the *Three Creeds* section above.
