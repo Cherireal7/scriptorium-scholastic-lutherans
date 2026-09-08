@@ -12587,4 +12587,104 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXVIII De Antichristo Part 1 — Q1–Q8 + OBIECTIONES I–III on order/visible-head/unity rendered in T97 covering: definition of Antichrist as syncretism, origin at Phocas AD 607, three-fold proof from Devil (not by Magistrate/Councils/Pope's own admission + Christ silent + Gregory rejected title + Si Papa self-witness), 5 causes of Papal growth (Eastern schisms, Bishop dissension, Emperor indulgence, Rome's authority + Barbarian upheaval + Constantinian transfer + Leo/Pelagius, Matt 16:18 abuse with 9-point refutation), Satan's motive, 3 OBIECTIONES, 6-fold constitution of Papacy, 10 chief properties, end = damnation. Part 2 (Q9–Q13: Pope as head with 21-point enumeration of blasphemies + how manifested + how long endures + what Christians must do) follows in T98. 807 top-level Q + 427 Obj rendered so far.]*
+## Question 9. Is the Roman Pope head of the kingdom of Antichrist? [*[T. 6, p. 93–94; T. 8, p. 37–38; T. 4/1, p. 169]*]
+
+**Is the Roman Pope head of the kingdom of Antichrist?**
+
+**Respondeo**: **This he himself confesseth: For all the aforesaid properties in super-eminent degree he hath.**
+
+**II. Even if he would deny it, from them he can be convinced. For [*[Gen. t. 4, p. 235; T. 2, p. 371 & seq.]*]:**
+
+**I. Expressly against Christ he teacheth, Luke 22, that he also hath power of deposing and confirming Emperors and kings of this world.**
+
+**II. Nay, almost all articles of doctrine handed down by Christ and by the Apostles he corrupteth, and the contrary to them he teacheth: whence also deservedly Antichrist is he called: as, for example, his human traditions to sacred Scripture he equateth in the Council of Trent, session 4.**
+
+**III. Permitteth that to no one it be lawful sacred Scripture, no differently than a wax candle, to compare — as to interpret and turn it, whithersoever thou wilt, is lawful. [*[T. 3, p. 512]*]**
+
+**IV. In place of God and of Christ he teacheth to invoke the Saints, as of old the Gentiles their idols invoked. For in place of Mars he commandeth George to be invoked as lord of war: For Neptune, Nicholas and Christopher as lords of the sea: For Lucina, Margaret as lady of parturients: for Minerva, Gregory and Catherine as Patrons of the arts and of wisdom.**
+
+**So 14 helpers he establisheth: St. Valentine in the epileptic sickness: Otilia in ophthalmia, Apollonia in odontalgia, Sebastian and Roch in plague, Urban over wine, St. Gall over cocks and hens, St. Wendelin over sheep, Eulogius over horses, Pelagius over oxen he set. To Theologians Augustine, to Jurists Ivo: to Shoemakers Crispin: to Hunters Eustace, to Smiths Joseph he giveth as patron; to prostitutes Afra and Magdalene he ordaineth.**
+
+**V. Himself he constituteth Vicar of Christ in these lands, and visible head of the Church, against manifest Scripture.**
+
+**VI. He sitteth in the temple of God, as God, and himself an earthly God, who all things can do, which God doth, to be saluted, and to be proclaimed, doth suffer, that he be, and above all things, and can all things: that he hath supreme power, so that God approveth all things which he himself doth, or shall prescribe: that to him all power is given in heaven and in earth, so that in heaven, earth, and hell he can command: that he can against the Epistles of Paul dispense, and be greater than Paul. That God all things hath subjected under his feet, and thereupon that also all things he can. And things which are like these — blasphemous and horrid to hear — which to him the flattering Pontificials attribute, and he approveth. [*[In praefat. sup. Dan.; G. t. 2, p. 87; T. 8, p. 246]*]**
+
+**VII. He teacheth and permitteth to be taught: that the life of the Monks and of the Nuns, or their vows, is a new Baptism, and by these vows not less than in Baptism, sins are remitted. [*[T. 6, p. 121–22 & seq.; T. 4, p. 136–137]*]**
+
+**VIII. He teacheth that the spiritual, or the convents of the Monks, the works of supererogation, for certain money can sell, and them profit others unto salvation. [*[T. 6, p. 481–482]*]**
+
+**IX. He teacheth that those who are with the Magistrate, and in matrimony live, are in a carnal kind of life, and persuadeth them, that their kind of life being forsaken, the Monasteries they enter, and there for their sins satisfy — or certainly the Monachal garment redeem, in which the dead being clothed be buried, that of the merits of the Monks they may participate, and their souls sooner from Purgatory be freed.**
+
+**X. How horribly also the doctrine of poenitentia he corrupteth, above in the Locus de poenitentia is shown. [*[T. 3, p. 229]*] For certain it is, that the Papist poenitentia is a horrid butchery of afflicted consciences.**
+
+**XI. How also the doctrine of the gratuitous justification of man the sinner before God he corrupteth, above in the Locus of justification in some measure hath been demonstrated. [*[T. 1, p. 414]*]**
+
+**XII. So abominable lies he teacheth: concerning indulgences, and diplomas of indulgences, which as bread he selleth. He teacheth and confirmeth pilgrimages to the saints, of which Christ and the Apostles handed down no word: So aqua lustralis he establisheth, of which he teacheth that daily sins are washed away from those aspersed by it — which to the blood of Christ alone is owed.**
+
+**XIII. He teacheth Purgatory to be, and that souls from it are freed by the sacrifice of the Mass — which is a detestable lie and figment.**
+
+**XIV. He teacheth the consecration of oil and of chrism, of palms, of fire, of flesh, of candles, of the Agnus Dei, &c., and teacheth by these sins to be expiated, and the grace of God to be obtained.**
+
+**XV. To the laity, with horrid sacrilege, against the institution of Christ, the use of the cup he denieth.**
+
+**XVI. Out of the sacred Supper of the Lord a profane and idolatrous sacrifice for the living and the dead he maketh: whereas Christ his Supper for the living alone did institute, saying**: *"Eat, drink,"* **which the dead cannot do.**
+
+**XVII. He teacheth the host consecrated to be enclosed in a Sacramental capsule, to be borne about, adored, and unto that use a peculiar feast of the Body of Christ he instituted, of which Christ and his Apostles nothing taught — yea, which to the institution of Christ diametrically repugneth. [*[T. 4/1, p. 471]*]**
+
+**XVIII. To Priests he interdicteth matrimony: he prohibiteth certain foods, which Paul expressly nameth a doctrine of demons, 1 Tim. 4. And things like these, many indeed, from his own and from the Pontificials' writings could be recounted.**
+
+**In sum: With the Ebionite heretics he denieth that faith alone in Christ saveth. With Montanus the heretic, hypocritical fasts and other things he hath instituted, which Scripture prescribed not. With the Encratites, Tatians, with the Devils themselves, he prohibiteth to marry, and to use foods created by God. With the Pelagians, to the powers of free-will he ascribeth more than sacred Scripture to them concedeth. With the Donatists he saith, that himself and his alone are the true Church,** &c.
+
+**XIX. He presumeth to command the Angels in heaven, that souls from Purgatory to heaven they convey — whereas yet, besides God alone, no one can to the Angels anything command.**
+
+**XX. In the Canon law, dist. 40, cap. Si Papa, impudently he writeth: If the Pope many thousands of souls with himself to the lower regions should lead down, no one to him ought to say: What dost thou? [*[T. 8, p. 216]*]**
+
+**XXI. The same, and the contempt of the political Magistrate, he teacheth: to whom his sordid and cursed feet to be kissed he offereth. 2 Pet. 2:10, we read, that iniquitous men shall be in the future, sowers of discord, who dominion shall contemn, and dignities are not afraid to blaspheme: This in the Pope and in his kingdom we see especially fulfilled.**
+
+— ❦ —
+
+## Question 10. But how hath it come to pass, that so late hath Antichrist been manifested?
+
+**But how hath it come to pass, that so late hath Antichrist been manifested?**
+
+**Respondeo**: **By many indeed early was he acknowledged, and himself contradicted: but yet not was the time, that publicly he should be manifested: for he had to be revealed at his own time — at the time by God himself constituted, 2 Thess. 2:6.**
+
+— ❦ —
+
+## Question 11. But how hath he been manifested? [*[T. 6, p. 483]*]
+
+**But how hath he been manifested?**
+
+**Respondeo**: **By the Spirit of the mouth of the Lord, 2 Thess. 2:8 — that is, by the Word of God, whose true notice and understanding God in these last times of his mercy to us hath given, and marvellously, against every force and fraud of the Pontiff, doth preserve and propagate.**
+
+— ❦ —
+
+## Question 12. How long shall this kingdom of Antichrist endure? [*[In praefat. sup. Dan.]*]
+
+**How long shall this kingdom of Antichrist endure?**
+
+**Respondeo**: **Even unto the Advent of Christ, or the extreme judgment. 2 Thess. 2:8**: *"and shall destroy him with the brightness of his coming."*
+
+— ❦ —
+
+## Question 13. Since therefore we have established that the Roman Pontiff is Antichrist, and the Papacy the kingdom of Antichrist, what is to be done by Christian men? [*[T. 1, p. 63; T. 8, p. 129; T. 8, p. 37–38; G.t. 2, p. 13; T. 4/1, p. 597, 503; G.t. 2, p. 24]*]
+
+**Since therefore we have established that the Roman Pontiff is Antichrist, and the Papacy the kingdom of Antichrist, what is to be done by Christian men?**
+
+**Respondeo**: **They ought to go out from him, that they be not partakers of his works, and of his plagues receive not, Apoc. 18:4. And thus rightly from him shall they go out:**
+
+**I. If his doctrine, in those heads in which contrary to Christ and to the Word of God he teacheth, as a doctrine of demons, they abominate and beware.**
+
+**II. If the doctrine and Word of Christ they embrace: the voice of Christ their Pastor, and not that of the Roman Pontiff, they hear and follow.**
+
+**III. If from all fictitious and idolatrous worships of himself, sacrifices, Masses, &c., they abstain.**
+
+**IV. If his character — the tonsure, the shaving, the chrism, &c. — from him they receive not: for Apoc. 14:9–11 it is said**: *"If any shall have adored the beast and his image, and shall have received his character on his forehead or on his hand: also he shall drink of the wine of the wrath of God, which is mixed pure in the cup of his wrath, and shall be tormented with fire and sulphur in the sight of the holy Angels and before the sight of the Lamb: nor have they rest day and night, who have adored the beast and his image, and if any shall have received the character of his name."*
+
+**V. If in doctrine and in ceremonies with him no consent or conformity they receive, unless first the whole Papacy he abnegate, and the sincere truth of the Gospel embrace and confess.**
+
+**VI. If by no matter, counsel, or work the Papacy and the kingdom of Antichrist they help; by offices, faith, oaths to him they bind not themselves, or in any way the collapsing Pontificate prop up, or the truth of the Gospel oppress.**
+
+— ❦ —
+
+*[Locus XXXVIII De Antichristo COMPLETE — rendered in 2 tranches (T97–T98). Part 2 (T98) covered Q9 with 21-point enumeration of Papal blasphemies (Trent Sess 4, Saint-invocation as Pantheon-substitute with 14 helpers + patrons of trades, sitting-in-temple as earthly-god, monastic vows as new-Baptism, sale of supererogatory works, monastic-death-shrouds, corruption of poenitentia+justification, indulgence-diplomas, Purgatory, chrism/palm/oil/fire consecrations, cup denied to laity, Mass-sacrifice for dead, Corpus Christi festival, Priestly celibacy + food-prohibition = doctrina daemoniorum, Ebionite/Montanist/Encratite/Pelagian/Donatist parallels, commanding Angels, Si Papa impunity, contempt of Magistrate + kissing-feet); Q10 late manifestation per God's set time; Q11 manifested by Spirit of mouth (Word); Q12 endures until Advent; Q13 exeuntes 6-fold from Apoc 18:4 (abominate doctrine, embrace Christ's Word, abstain worship, refuse character, refuse consent, refuse aid). Total Locus XXXVIII: 13 Q + 3 Obj. 812 top-level Q + 427 Obj rendered so far. Locus XXXIX De Morte follows in T99 at OCR line 44194.]*
