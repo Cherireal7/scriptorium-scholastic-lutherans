@@ -9898,4 +9898,104 @@ Then at the same time he looketh to **the absolute perfection of the kingdom of 
 
 — ❦ —
 
-*[Locus XXIX Part 1 closes (Q1–Q11 + embedded Jer 31:34 Obj). Part 2 (Q12 licet docere sine vocatione + Q13 sine examine + Q14 quis vocandi ius + Q15 Papist ordination claim refuted + OBIECTIONES I–V on Papist ordination + Q on Sacerdotes vs Episcopi identity) follows in T81. 579 top-level Q + 373 Obj rendered so far.]*
+## Question 12. Is it lawful in the Church to teach without a legitimate calling?
+
+**Is it lawful in the Church to teach without a legitimate calling?** [*[T. 4/1, p. 7, 8; p. 367; T. 5, p. 346*]*]
+
+**He who willeth to teach in the Church of God, him it behoveth to be legitimately called** — either **immediately by God himself, as the Apostles; or mediately, as the disciples of the Apostles, and those who succeeded them in the Ministry**. Hence **the Apostle Gal. 1:7 upbraideth those who disturbed the Galatian Church without a calling**. And **Jer. 23:21 the Lord saith**: *"I sent not the Prophets, and they were running."*
+
+— ❦ —
+
+## Question 13. May anyone be admitted to the Ministry without accurate examination?
+
+**May anyone be admitted to the Ministry without accurate examination?**
+
+**By no means.** For **Paul, 1 Tim. 5:22, saith**: *"Impose thou hands hastily on no one, nor communicate with alien sins."* And **2 Tim. 2:2**: *"The things which thou hast heard from me through many witnesses, these commend to faithful men, who shall be fit to teach others also."*
+
+**See, if it please, the Council of Carthage, held in the year 400 after the birth of Christ, in which the examination of those to be ordained is most fully and perspicuously described.**
+
+— ❦ —
+
+## Question 14. Who therefore hath the right of calling Ministers?
+
+**Who therefore hath the right of calling Ministers?**
+
+**This sufficiently perspicuously the book of the Acts of the Apostles teacheth.** For **Acts 1:22, 24, Matthias with the consent of the whole Church is chosen into an Apostle. Acts 13:2, 3, Paul and Barnabas with the consent of the whole Church of Antioch are sent forth.**
+
+**This custom the true Church always observed** — as from **Cyprian, book 1 of Epistles, standeth. Ambrose at Milan is demanded as Bishop with one voice of the whole people. Athanasius named Peter as his successor. Augustine [named] Eradius, but with the consent of the whole Church.**
+
+**So Eustachius of Antioch is called and constituted Bishop by the whole Church** — as **Theodoret hath in Ecclesiastical history**. As also **book 5, cap. 9, the same saith**: *"According to these know that among us the Churches are administered, and Priests of the most celebrated Churches have been received: whence to the Constantinopolitan Church we have set forth the most reverend and most loving of God, Nectarius the Bishop, in our general Council, and in the presence of the most loving of God Emperor Theodosius, with the approbation of all the Clerics, and of the whole city. To the Church of Antioch he had canonically prefected, with the assent of the provincials and of the Eastern diocese, the most reverend and most loving of God, Florianus the Bishop, the whole Church assenting and, as with one mouth, celebrating him."*
+
+**At length the right of patronage was granted to those who founded and endowed temples** — which also in most reformed Churches is left safe to them. **In certain places the superior magistrate has the right of patronage, who nameth qualified persons to the Church, and yieldeth to her the freest election; and it is free for the Church to judge what she desires in the persons, and if she has just causes, no one is thrust upon her against her will: the Ecclesiastical consistories administer the examinations.**
+
+**The Pope however — with the political Magistrate and the Church excluded — hath vindicated to himself alone the authority of calling and setting forth Ministers by violence: but this against the authority of Scripture and the custom of the Church, as an Antichrist he hath done: deservedly therefore this yoke we have shaken off, and we follow the authority and custom of the Apostolic Church**.
+
+— ❦ —
+
+## Question 15. Do the Papists rightly teach — that those who now are Evangelical pastors can neither administer the Ministry nor administer the Sacraments, since they have not been consecrated and ordained by Papist Bishops, who are in ordinary succession?
+
+**Do the Papists rightly teach — that those who now are Evangelical pastors can neither administer the Ministry nor administer the Sacraments, since they have not been consecrated and ordained by Papist Bishops, who are in ordinary succession?** [*[T. 6, pp. 95, 98, 104, 105; T. 2/1, pp. 447, 448, 546*]*]
+
+**By no means.** For **first, no such ordinary succession of Bishops was instituted by Christ in the New Testament — much less was it commanded that ordination must be sought from them themselves**.
+
+Then, **it is certain, that the right of calling and confirmation belongs not only to Bishops, but to the whole Church** — as hitherto from the Acts of the Apostles and Ecclesiastical history hath been demonstrated.
+
+**Thirdly, sacred Scripture by no word or letter saith that those who have not received Papist unction, consecration, or tonsure cannot administer the Ministry of teaching and the Sacraments**. For **this Papist unction, consecration, and tonsure is plainly unknown to it**.
+
+**Fourthly, it is per se clear**: **the efficacy of the Ministry is not bound to this Papist consecration and tonsure, but dependeth on the ordination of God, who himself through these media is efficacious** — nor did he by any word hand down that the efficacy of the Ministry is bound to certain persons consecrated and ordained by Bishops of the Roman See. **1 Cor. 1:14 it is said**: *"That Paul himself baptized Crispus and Gaius"* — but that on that account they were baptized with a more sublime Baptism than if they were baptized by another, is said by no word. **Nor is it to be thought, that the body of Christ in the sacred Supper is present or communicated on account of the consecration and unction with which the priest is anointed** — since **on account of the sole institution and promise of Christ it is present**. **No place therefore here remaineth for Papist unction and consecration.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But (they say) your ministers' ordination is null, since it is not made by consecrated Bishops. For this is by the right of custom.**
+
+**Respondeo**: **That they may obtain anything in this part, they must first produce a Scripture in which it is mandated: that the ordination of Sacred [ones] or of Ministers must be sought from themselves — although illegitimate, or rather according to Paul's description plainly not Bishops — and that he who is not ordained by them cannot be a true pastor in the Church** — which they shall do at the Greek Calends.
+
+Then, though they for a long time obtained that ordination and all other things must be sought from the Pontiff and his Bishops: hence yet it doth not follow that they have rightly and legitimately done this. The reason is clear: **for this power outside — nay against — the word of God, the examples of the Apostles and the primitive Church, they took to themselves**. To this, when **Matthias, Acts 1; the seven Deacons, Acts 6; Paul and Barnabas, Acts 13, were to be called and ordained, this was not sought from and administered by Annas and Caiaphas, who were in ordinary succession, but by the Church of God**. So in our time also, **ordination is to be sought from those who have the Ministry pure, and who hear the voice of Christ — not from the enemies and blasphemers of Christ, the Pope and his Bishops, who are Bishops as much as Annas and Caiaphas and the Jerusalemite Pontiffs then were**.
+
+— ❦ —
+
+### Objection II. **But (they insist) ye lost the right of vocation and ordination through apostasy from the Roman Church?**
+
+**Respondeo**: **This they must demonstrate by the word of God.** That we defected from the Pope, and went out from Rome and his Church, we did according to the mandate of God (**1 Cor. 10:14**) — who biddeth us flee from the culture of idols — as above in the place of the Church hath been demonstrated. And since it hath been shown before that, if any authority of succession is, regard must be paid to succession of purer doctrine (which is not among the Papists), why therefore should we seek ordination from those with whom the succession of doctrine is not sincerely found? And what need of words? **This right of vocation they themselves never had, nor can they teach from the New Testament that it is owed to them. How therefore could we have lost it from them, as from the Church of Antichrist, and as going out from the true Babylon?**
+
+**This right of vocation and ordination is of the true Church alone, who hath the pure word of God and the Sacraments as instituted by Christ.** **This we, by God's grace, have pure. *Ergo* our Churches have this right of vocation — and not the Papist**. Since therefore **our men administer the vocation and ordination according to the examples and sayings in the book of the Acts of the Apostles, and the epistles to Timothy and Titus, and insist upon the footprints of Apostolic doctrine and Church — no doubt is it that our ordination is legitimate and divine, and is approved by God**.
+
+— ❦ —
+
+### Objection III. **But (they say) ye yourselves must concede — that the vocation of your Ministers is extraordinary. But since no such vocations from the ascension of Christ have been, or shall be, for the reformation of the Church, therefore your vocation cannot be legitimate or divine.**
+
+**Respondeo**: **This very thing they must first demonstrate.** For **from the word of God they must show, that no such extraordinary vocations for the reformation of the Church can be** — which they shall never demonstrate.
+
+**We however can teach extraordinary vocations from the Scripture of all the Prophets** (whom **God opposed to the ordinary succession of priests receding from sound doctrine**) — **by their example sufficiently**. Besides, we refer ourselves to the **prophecy of Paul, 2 Thess. 2, who predicteth a defection from the Church shall come, and that iniquitous one shall be revealed, whom the Lord Jesus with the Spirit of his mouth shall slay** — which by God's benefit through the revelation of Antichrist the Pope and the Papist Kingdom, which is against Christ, hath been done and is daily done.
+
+**To the Apocalypse item of John, cap. 11, 12, 14, where expressly it is said, that the Lord in the tribulation of the Church shall give witnesses of truth, who against the devastators of the Church shall prophesy — that is, preach — exhorting the whole world**: *"Fear the Lord, and give him honour."*
+
+— ❦ —
+
+### Objection IV. ***Ergo* (they say) let your Ministers confirm their vocation by miracles, of necessity. But no miracles of the sort have they wrought. *Ergo* we are not held to approve their vocation, etc.**
+
+**Respondeo**: **From the word of God it cannot be demonstrated, that all extraordinary vocations were confirmed or must be confirmed by miracles.** **Habakkuk, Nahum, and other Prophets were extraordinarily called, yet the vocation of them is not read confirmed by miracles**. So the **New Testament expressly saith John 10:41**: *"John indeed did no sign."* Was therefore on that account the vocation of him false, and the doctrine false? Be it far.
+
+So **Christ, Matt. 7, speaking of the marks by which the Prophets are to be known, saith not, from their miracles, but from their fruits ye shall know them**: **to the doctrine therefore, whether it consent with Scripture or not, must attention be paid**. So **Moses, Deut. 13:1–3**: *"Even if the Prophet shall have predicted a sign and portent, and what he hath spoken shall have come to pass,"* etc. — *"Thou shalt not hear the words of that Prophet, but when thou shalt hear the voice of the Lord thy God,"* etc. **Not therefore from miracles, but from doctrine, must the Prophets and ministers of the word be proved.**
+
+**Augustine, De unitate Ecclesiae, cap. 16, when the Donatists from miracles attempted to establish their sentence concerning the Church, refuteth them, saying**: *"All things removed, let them demonstrate their Church, not in the Councils of their Bishops, not in the letters of any disputers, not in signs and fallible prodigies (for even against these by the word of the Lord we are prepared and rendered cautious): but in the prescript of the law, in the predictions of the Prophets, in the songs of the Psalms, in the voices of the Shepherd himself, in the predications and labours of the Evangelists — that is, in all the Canonical authorities of the holy books."*
+
+**Although therefore the Ministers of our Churches have edited no miracles by which they might confirm their vocation: yet their vocation is certain — on account of the purity of doctrine, and because according to the rule of the Holy Spirit prescribed in the epistles to Timothy and Titus, they are called and ordained**. Nor yet **is a miracle to be contemned — that God by the Spirit of his mouth, by the mouth and pen of Luther and others, hath overthrown the Papacy, purified doctrine, reformed the prostrate Church, against the supreme princes in the Empire opposing themselves — who by force and fraud attempted to hinder this reformation, but in vain**.
+
+— ❦ —
+
+### Objection V. **But (they insist) although your first Ministers were Priests, yet they were not Bishops. *Ergo* they could not ordain others to the Ministry.**
+
+**Respondeo**: **The response is easy**: **From the word of God it is clear, that Bishops and priests (as far as they are Doctors of the Church) are truly the same, and properly according to Scripture no distinction is between Sacred [one], Presbyter, and Bishop**. For **Titus 1:5, Paul saith**: *"For this cause I left thee in Crete, that thou correct those things which are lacking, and constitute presbyters through the cities, as I disposed to thee: If any be without crime,"* etc. *"For it behoveth a Bishop to be without crime,"* etc. So he **addresseth the Ephesian Presbyters, Acts 20:17, v. 28**: *"Attend to yourselves and to the whole flock, in which the Holy Spirit hath placed you as Bishops to rule and to shepherd the Church of God,"* etc.
+
+**Peter himself, 1 Pet. 5:1, writeth of himself not as a Bishop, but as a co-elder and witness of Christ. Phil. 1[:1], Paul salutes all the saints who are at Philippi with the Bishops and Deacons. So Eph. 4, Paul, when he treateth of Ministry, enumerateth also Pastors and Doctors — but doth not set forth or place before them Bishops; nay, of Bishops he doth not even make mention** — so that necessarily Bishops must be numbered among the Doctors, whose name most closely expresseth the office of Presbyters.
+
+Since therefore **according to Scripture Presbyters, Priests, and Bishops are the same, and no distinction is between them, save what human authority has so established**: **Luther and other Doctors and Ministers — the consent of the Church acceding — could ordain others to the Ministry equally as if they were called Bishops** — chiefly since **they confirmed their ordinations by the doctrine and examples of the Apostles**.
+
+Whence **Jerome, Titus 1**: *"Presbyter is the same as Bishop"* — item, *"let Bishops know that they are greater than Presbyters more by custom than by the truth of the Lord's disposition."* Item **ad Evagrium**: *"That afterwards one was chosen who was set before the rest, was made as a remedy of schisms."*
+
+— ❦ —
+
+*[Locus XXIX Part 2 closes (Q12–Q15 + OBIECTIONES I–V on Papist ordination). Part 3 (Q16 causae not petering from Pontificiis + Q17 ordinatio non Sacramentum + Q18 our ordinatio + Q on deponere Ministrum + Q on stipendium + Q on potestas Ministerij + Q on Bishops decernendi + closing Papist doctrine on Bishop-authority) — closes Locus XXIX — follows in T82. 583 top-level Q + 378 Obj rendered so far.]*
