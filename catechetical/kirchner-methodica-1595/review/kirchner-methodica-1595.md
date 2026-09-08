@@ -7391,3 +7391,93 @@ When therefore **a faithful man, from the infirmity of the flesh and the seducti
 — ❦ —
 
 *[Locus XXVI De Baptismo is TRULY COMPLETE — 26 top-level Q + 4 embedded/formal Objs (crediderit Obj + Gen 17 Obj + 1 Cor 7 Obj + Matt 9:2 paralytic Obj + peccatum-remissum-non-remanet Obj = 5 Obj units). Total Locus XXVI: 26 Q + 5 Obj units. 477 top-level Q + 238 Obj rendered so far. Locus XXVII De Sacra Domini Coena follows in T54.]*
+
+— ❦ —
+
+# Locus XXVII. Of the Sacred Supper of the Lord
+
+### *De Sacra Domini Coena*
+
+## Question 1. What are the names or appellations of this Sacrament?
+
+**What are the names or appellations of this Sacrament?** [*[Luther: T. 4, p. 428; T. 3, pp. 50, 51, 62*]*]
+
+**First** — **The Supper of the Lord, or the Lord's Supper** — **1 Cor. 11:20 it is said**: *"Because the Lord Jesus in that night in which he was delivered up, instituted this Sacrament."*
+
+**Then**: **The Table of the Lord it is called — 1 Cor. 10:21** — because **in that table not common food and drink, but the very body and blood of the Lord himself with the sacred symbols of bread and wine, is set forth for us and communicated**.
+
+**Thirdly**: **[Eucharistia]** — because the Lord, **instituting this Sacrament, gave thanks** [*[T. 5, p. 196*]*].
+
+**Fourthly**: **[Synaxis]** — because **many ought to convene and together use this Sacrament** [*[T. 6, p. 88*]*].
+
+— ❦ —
+
+## Question 2. What therefore is the sacred Supper of the Lord?
+
+**What therefore is the sacred Supper of the Lord?** [*[T. 6, p. 282; T. 2/1, p. 265*]*]
+
+**It is an action instituted and ordained by Christ, in which with bread and wine there is truly, essentially and presently dispensed and communicated the true body and true blood of Jesus Christ, unto the most certain confirmation and sealing to us — that through the body and blood of Christ remission of sins is truly acquired and truly communicated to us, and we together with his body are certainly heirs of eternal life about to be** [*[T. 4, p. 426*]*].
+
+Or: **The Supper of the Lord is the true body and true blood of our Lord Jesus Christ, under bread and wine to be eaten and drunk by us Christians, by Christ himself instituted**.
+
+— ❦ —
+
+## Question 3. Who instituted it?
+
+**Who instituted it?** [*[T. 4, p. 426; T. 2/1, p. 264*]*]
+
+**Our truthful and omnipotent Lord Jesus Christ — true God and true man in one indissoluble person, who is able to do all things whatsoever he willeth in heaven and on earth** — **Matt. 26; Mark 14; Luke 22; 1 Cor. 11**.
+
+— ❦ —
+
+## Question 4. What is distributed in it?
+
+**What is distributed in it?**
+
+**The sacred Supper of the Lord, as Irenaeus book 4, cap. 34, rightly saith, consisteth of two things, of earthly and heavenly.** **The earthly is bread and wine, the visible Elements.** **The heavenly is the true and substantial body, the true and substantial blood of Jesus Christ.** For **the words of the institution clearly name and express: First the external Elements bread and wine. Then also the body and blood of Jesus Christ** [*[T. 3, p. 341*]*].
+
+**The Papists take away the Elements from the sacred Supper — they feign a transubstantiation of bread and wine into the body and blood of Christ**. When yet **Paul even after benediction nameth them bread and wine — 1 Cor. 10:17; 1 Cor. 11:27–28**.
+
+**The Calvinists however in the Supper indeed leave the external Elements — but from them they take away the true body and true blood of Christ, saying: The body and blood of Christ are further from the bread and wine, over which we bless, than the most remote heaven from the lowest earth**. When yet **Christ hath promised truly and presently to communicate and distribute them to us with the bread and wine**.
+
+— ❦ —
+
+## Question 5. But whence doth it stand that the Zwinglians make of bread and wine only bare signs and symbols of the absent body and blood of Christ?
+
+**But whence doth it stand that the Zwinglians make of bread and wine only bare signs and symbols of the absent body and blood of Christ?**
+
+**I.** **From the writings of Zwingli it standeth, that he made of them only bare symbols** — which sentence Calvin afterwards willed to moderate, as he himself in his own books confesseth — as of the Supper, p. …, in the volume of Theological tractates.
+
+**II.** Because **they contend, that to blessed bread and wine, by a Metonymy of the sign and the thing signified, is attributed the name of the far-absent body and blood of Christ**. For if this be true — that the body and blood of Christ be absent, but the bread receive the name of the far-absent body and blood of Christ — it cannot be but that they be and remain bare signs or Symbols.
+
+**III.** That **Christ in the Supper is no otherwise present than once to the holy Fathers, when his humanity was not yet in the nature of things** — **Beza against Pappus, p. 122**, item **Christ according to the assumed nature is no more present to us, than the King of Spain is present to India** — **Beza against Pappus, p. 34**. **The same in the second Homily of Nathanael**: *"Truly nothing else is exhibited in the Sacraments than in the simple word."*
+
+**IV.** That **they expressly write, the body and blood of Christ are as far absent from the sacred Symbols of bread and wine, as the supreme heaven is distant from the lowest earth** — **Beza in Summa de re Sacramentaria**.
+
+**V.** That **Calvin in his second defence against Westphal writeth**: *"The body of Christ according to substance is not distributed in the Supper."*
+
+**VI.** That **they constantly urge those words, "this is my body," to be taken figuratively — that the sacred Symbols are monitory or memorial signs of the absent body of Christ**.
+
+— ❦ —
+
+## Question 6. But whence is the genuine sense and interpretation of the words of the sacred Supper to be taken?
+
+**But whence is the genuine sense and interpretation of the words of the sacred Supper to be taken?**
+
+**From the clearest words of institution by which this Sacrament was instituted by Christ.** For on this account **Christ pronounced these words, and willed them to be written down by the Evangelists and the Apostle Paul, 1 Cor. 11 — that thence the Church might have a certain sentence concerning the sacred Supper**.
+
+And on this account also **Paul himself, 1 Cor. 11:23, expressly saith**: *"For I have received from the Lord that which I have handed down to you."* And **great is the folly, to seek where the rule of faith is founded**. **What of each Sacrament is to be estimated is to be taken from the words by which it was instituted.** For if from other things what each is to be understood be taken, what need was there that each be by Christ instituted with its own proper words?
+
+— ❦ —
+
+## Question 7. But the adversaries contend, that the genuine sentence of this Sacrament is to be taken from the analogy of circumcision and of the other Sacraments of the Old Testament?
+
+**But the adversaries contend, that the genuine sentence of this Sacrament is to be taken from the analogy of circumcision and of the other Sacraments of the Old Testament?**
+
+**That they indeed say this is plain — but that they affirm this without any foundation of sacred Scripture, we also know** [*[T. 3, p. 477*]*]. For **on this very account Christ pronounced the words of institution, and willed them to be prescribed to us, that from them the genuine sentence of this Sacrament may be drawn out**.
+
+To this, **from the Sacraments of the Old Testament what the sacred Supper of the Lord is, and what is distributed in it, cannot be established** — since **in them no word is of the distribution and communication of the body and blood of Christ; and the human nature of Christ also in the Old Testament was not yet — how then from the Sacrament of the Old Testament, what is that which is distributed in the New, would be taken?**
+
+— ❦ —
+
+*[Locus XXVII Part 1 closes (Q1–Q7). Locus XXVII is the massive Christological anti-Reformed locus, ~6500 OCR lines total, will require 10-15 tranches to complete. Part 2 (Q8 verba institutionis retinenda + Q9 hoc-est-corpus-meum exposition + embedded Obj on figurative-name attribution + Q10 praedicatio verbis institutionis) follows in T55. 484 top-level Q + 238 Obj rendered so far.]*
