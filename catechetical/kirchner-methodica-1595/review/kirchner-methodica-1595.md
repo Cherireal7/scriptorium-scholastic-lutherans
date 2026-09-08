@@ -4920,4 +4920,92 @@ So **David**, **Ps. 51**, when he was regenerate and had remission of his sins, 
 
 — ❦ —
 
-*[Locus XX Part 3 closes. Part 4 (Q29–Q34 — the anti-Papist *discrimen*: prima/secunda iustificatio, status controversiae, ten fundamenta) follows in T28. Then OBIECTIONES PONTIFICIORVM. 325 top-level Q + 159 Obj rendered so far.]*
+## Question 29. What is the difference between the doctrine of the Papists and that of our Church, concerning the justification of the sinner-man before God?
+
+**What is the difference between the doctrine of the Papists and that of our Church, concerning the justification of the sinner-man before God?**
+
+**The difference chiefly consisteth in these five heads:** [*[Luther: T. 7, p. 445; T. 4/1, pp. 43, 44*]*]
+
+**I.** That **they teach Christ to have merited for us the first grace or first justification** — namely, that **charity, or inherent righteousness, should be infused**, by which received afterwards, **through our works we may merit eternal life**. But **we deny this**, as hath been said a little before.
+
+**II.** That **they teach a man by his works can merit righteousness and eternal life** — which also **we wholly deny**; since **Christ alone hath merited for us righteousness and eternal life**, and our works **are not causes, but are merely *eucharistiae* [thankofferings], which we ought for gratitude's sake to exhibit for the benefits received from God and Christ, that men may see our good works and glorify our Father who is in the heavens** — **Matt. 5:16**.
+
+**III.** That **they teach not faith alone to be the means and instrument whereby we apprehend righteousness, but that other good works also are required**. But **we, with Scripture, Rom. 3, ascribe this to faith alone — as to that which alone apprehendeth, and alone is able to apprehend, Christ and all his benefits**.
+
+**IV.** That **they teach the regenerate in this life can satisfy the Law of God, and so merit eternal life — nay rather, that they can lay out above what the Law of God requireth of them**. But **to assert this we call blasphemous** — since **Paul, Rom. 7:18, expressly saith**: *"For to will is present with me, but to perfect the good I find not."* But **if Paul found it not, we much less find it to perfect**.
+
+**V.** That **they teach a man in this life cannot be certain of his salvation, and certainly establish that he is in grace**. Whom we contradict from the word of God. For **Christ himself teacheth John 3:36**: *"He that believeth in the Son, hath eternal life."* And **the Gospel teacheth us to pray and fight against doubts**, and with the Apostles biddeth us pray: *"Lord, increase thou our faith"* — **Luke 17:5**.
+
+— ❦ —
+
+## Question 30. And is that a true distinction, which the Jesuits make between the first and the second justification?
+
+**And is that a true distinction, which the Jesuits make between the first and the second justification?**
+
+**By no means.** They indeed teach the **first justification** to be, **when to a man not regenerate faith, hope, and charity are first infused** — and **this first infusion no preceding works can merit**. But the **second, or other, justification** to be, **when the infused charity exerteth itself, and produceth good works**. And **this other righteousness they say can be acquired by good works, and this to be more excellent than the former**; and that **certainly the works of the regenerate merit eternal life**.
+
+But **this distinction expressly contradicteth the Scriptures.** For **Scripture affirmeth even the just to live by his faith** — **Rom. 1**. And that **Abraham, although he had many good works, yet was not from works justified before God** — **Rom. 4:9** — but that **his faith was imputed to him unto righteousness**. And **Paul, Phil. 3:7–9, expressly saith**: *"But what things were gain to me, these I have counted, for Christ, to be losses. But truly I esteem all things to be a detriment, for the eminent knowledge of Jesus Christ my Lord, on whose account I have made all things a detriment, and I esteem them as dung, that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is through the faith of Christ, which is from God — a righteousness in faith."*
+
+From which also it standeth firm, that **Paul was not at length justified through his subsequent good works, and did not merit anything, nor willed to arrogate this to himself, but rather esteemed all these things as detriment, that he might have his righteousness in Christ alone**. Besides, it is also **blasphemous against the precious merit of Christ, to tell of a posterior justification which is of our works, more excellent than the imputed righteousness, and than the merit and most perfect obedience of Christ, which is imputed to us through faith**.
+
+— ❦ —
+
+## Question 31. Is that Papist doctrine therefore also false, when they teach that a man is justified partly by the merit of Christ, partly by his own good works?
+
+**Is that Papist doctrine therefore also false, when they teach that a man is justified partly by the merit of Christ, partly by his own good works?**
+
+**Very much so.** For **Scripture teacheth the contrary — Rom. 3:24**: *"Justified freely."* Item **v. 28**: *"We reckon a man to be justified by faith without the works of the Law."* And **this very doctrine also is a blasphemy against the merit of Christ, to which alone this honour is owed** — **Gal. 2:21**: *"For if righteousness is through the Law, then Christ died in vain."* **The examples also of Abraham and of all the faithful condemn this Papist dogma**, as is to be seen **Rom. 4; Acts 10, 15**.
+
+Besides this, **it is impossible that a wounded and contrite heart should acquiesce before GOD in its own unclean and imperfect righteousness, and at the same time place its confidence in Christ's and in its own works' righteousness** — as **experience itself in the true and earnest exercises of penitence, faith, and prayer, in the highest and spiritual temptations, when a man must wrestle with sin, the wrath of God, the tyranny of the Devil, and the curse of the Law, sufficiently and abundantly attesteth**. Finally, **this very doctrine plainly maketh the promise of grace uncertain, since our inchoate obedience and righteousness is not such as we could confide in before God**. Wherefore also **David prayeth**: *"Lord, enter not into judgement with thy servant; for in thy sight shall no living man be justified"* — **Ps. 143:2**.
+
+— ❦ —
+
+## Question 32. But why doth Scripture take away from the inchoate new obedience in man the praise of righteousness before God?
+
+**But why doth Scripture take away from the inchoate new obedience in man the praise of righteousness before God?**
+
+**I.** Because **this new obedience in this life is and remaineth imperfect** — **Rom. 7**.
+
+**II.** Because **the honour of our righteousness before God is owed and appertaineth to Christ alone and his most holy and most perfect obedience** — **1 Cor. [1:30]; Eph. 2**.
+
+— ❦ —
+
+## Question 33. What then is the status of the controversy between us and the Papists in the article of justification?
+
+**What then is the status of the controversy between us and the Papists in the article of justification?** [*[Luther: In the Postill of the third Sunday of Advent*]*]
+
+**The status of the controversy is not this**: whether **a man ought to do penitence** — whether **in the regenerate there ought to be a new obedience, and charity ought to follow** — whether **it is lawful for the regenerate after justification freely to do whatever pleaseth them, or whether it is free for the regenerate to do good works or not to do them**. For **by these things the Papists undeservedly attempt to deform our doctrine**.
+
+But **here the hinge turneth, and this is the status of the controversy**: namely, **what that is on account of which the sinner-man is justified and saved before God, and on account of which he receiveth remission of sins and eternal life**: whether **this cometh to pass on account of Christ's satisfaction, merit, and obedience — or on account of our own virtues, which either we ourselves, or the Holy Spirit in us, have perfected**. [*[Luther: T. 7, p. 445*]*]
+
+**In sum: this is the controversy — Whether Christ's obedience and satisfaction is our righteousness before GOD, or rather our good works, either in part or in whole, are our righteousness before GOD**.
+
+**Here we plainly affirm**, that **the sole obedience, merit, and satisfaction of Christ, and not our works, is our righteousness before God** [*[In the Articles of Schmalcald, Part 2, art. 1; T. 3, p. 322*]*] — and that **our good works, as being unclean and imperfect, pertain not to the article of justification**. In the meanwhile, however, **we deny not that penitence must be done, good works must be done, and that we must live in righteousness and holiness pleasing to God**. For **where there is a true and living faith in Christ, those things follow of themselves**, and **the man regenerate and truly faithful doth not much seek or dispute, whether good works are to be done, and whether the sin remaining in the flesh is to be resisted; but assiduously by the very act performeth good works, and crucifieth both the flesh and its depraved lusts**.
+
+— ❦ —
+
+## Question 34. By what foundations can this be demonstrated?
+
+**By what foundations can this be demonstrated?**
+
+**I.** From the **perspicuous testimonies of Scripture, which diserte say that we are justified by faith apart from works** — **Rom. 3, 4; Eph. 2:8**.
+
+**II.** From the **office of the redemption and salvation of Jesus Christ, who alone was made our Mediator unto this, that by his obedience he should justify us** — **Rom. 3:24–25; Isa. 53:5**.
+
+**III.** From the **office of the Law, whose it is not to justify, but to manifest sins** — **Rom. 3:20; Gal. 3:10**. For since **no man keepeth or hath kept the Law, in vain is righteousness hoped for or sought from the works of the Law outside of Christ**.
+
+**IV.** From the **corruption of our nature**: it is **impossible for us either to satisfy for one single sin, much less to fulfil the whole Law**. Therefore **our righteousness is founded in the sole obedience of Christ** — **Rom. 5[:10]**: *"For if, when we were enemies, we were reconciled to God through the death of his Son, much more, being reconciled, shall we be saved in his life,"* etc. Item **v. 19, 20, 21. Rom. 10:5–7**.
+
+**V.** From **the propriety of the promise of grace — that it may be certain** — **Rom. 4:16**. But it will not be firm, if **outside and beside Christ alone, righteousness be also sought in our works**.
+
+**VI.** There is no doubt but **this doctrine alone teacheth the true righteousness, which worketh consolation and peace in contrite and humbled hearts**. But **this doeth the doctrine of the Gospel alone, and not the doctrine of the Law**. Therefore **the Gospel alone, and not the doctrine of the Law, teacheth true righteousness**.
+
+**VII.** Without doubt **that doctrine is false, which spoileth Christ of his due honour, and leaveth perturbed consciences in doubts**. But **this doeth the doctrine of the Papists in this article**. Therefore **also without doubt it is false**.
+
+**VIII.** **All the Prophets bear testimony to our doctrine of justification** — **Acts 10:43**: *"To him all the Prophets bear witness, that all who believe in him receive remission of sins through his name."* Therefore **it must in no wise be doubted that it is solid and certain**.
+
+**IX.** **The calling of the Gentiles into the kingdom of Christ also confirmeth our doctrine.** For **these, without any works, and without any merit from God, only on account of Christ through faith, were received into grace, justified, and saved** — **Acts 10, 13, 15**.
+
+— ❦ —
+
+*[Locus XX Part 4 closes. **OBIECTIONES PONTIFICIORVM** follow in T29 (Objs I–XI or so — the direct Roman Catholic polemic on works-righteousness). 331 top-level Q + 159 Obj rendered so far.]*
