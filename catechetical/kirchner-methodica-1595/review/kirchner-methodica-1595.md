@@ -9302,4 +9302,144 @@ And although **many nations today embrace the faith of the Roman Church, yet nei
 
 — ❦ —
 
-*[Locus XXVIII Part 4 closes (Q27 nulla-in-Papatu + Q28 obscuratur + OBIECTIONES I–II + Q29 Papist Catholica + OBIECTIONES I–III). Part 5 (OBIECTIO IV Roman primatum + Q on canonical succession + OBIECTIO Tertullian on succession + Q on canonical ordination + Q on union with Pope + Q on tradition-unity + Q on documenta apud nos + OBIECTIONES I–III) follows in T76. 552 top-level Q + 351 Obj rendered so far.]*
+### Objection IV. **The Roman Church always had primacy over the other Churches. *Ergo* etc.**
+
+**Respondeo**: **From the 6th Canon of the Nicene Council it is clear, what kind of primacy the Roman Church had — namely of order, not of power**. Nor yet **over all the Churches of Christ, but only over those which were subject to the Roman Bishop**. For thus the Canon holdeth: *"At Alexandria and in the city of Rome the ancient custom is to be observed — that either that of Egypt, or this of the suburban Churches, hath solicitude."* **Nothing there is had concerning primacy over the universal Church of Christ.**
+
+**Many indeed are the causes of the celebrity of the Roman Church** — for example, that **the Roman Emperors had their seat there; that innumerable martyrs were there crowned; and that many afflicted confessors sometimes fled thither as to an asylum**. But **from these it followeth not, that she is head of all the Churches of the whole compass — and that all Churches should venerate her as supreme, and kiss all things which she handeth down as if proceeding from God**. **Nowhere in the New Testament is she constituted the perpetual norm of truth.**
+
+— ❦ —
+
+## Question 30. What is to be judged concerning what the Papists say — that the ordinary succession of Priests in the Roman Church is a mark of the true Church?
+
+**What is to be judged concerning what the Papists say — that the ordinary succession of Priests in the Roman Church is a mark of the true Church?** [*[T. 3, p. 341 f. b*]*]
+
+**Respondeo**: **First, from Scripture of the New Testament they cannot teach, that the succession of priests is a mark of the Church of Christ** — for **it hath not even a syllable about this matter**.
+
+**Then, succession is twofold — of place or persons, and of doctrine or faith**. **Succession of place or persons — even if it were proved from the Apostle Peter never to have been interrupted — yet would not be a sign of the Catholic Church of Christ, but of the Papist Roman Church**. **In no wise to be compared to the succession of the Pontiffs of the Old Testament, which was divinely instituted**.
+
+Nor is **the Church similar to other kingdoms of this world, which are bound to certain families and ordinary succession, in which the King is the supreme head, having power of enacting and interpreting laws**. **For the head of the Church is Christ, and Bishops or Pastors are not lords of the Church, having power of establishing things according to their own choice — but they are ministers or dispensers of the mysteries of God, and are bound to Scripture, which unless they follow, they are not to be heard**.
+
+**The succession of doctrine or of faith is that which is chiefly required.** Whence **Irenaeus, book 4, cap. 44**: *"Those who are held from many to be Presbyters, who serve their own lusts, and set not the fear of God in their hearts, but rebel with contumelies — from all such it behoveth to abstain, and to adhere to those who hold the doctrine of the Apostles, as we have said before, and with the Presbyterial order exhibit sound speech and inoffensive conversation for the information and correction of others."*
+
+From which it is clear, that **the succession not of persons, but of doctrine, is to be regarded — which the Papists have long since abandoned in the Roman Church**. And gloriously **Tertullian teacheth: *"Not from persons is the faith, but from the faith are persons to be proved."***
+
+— ❦ —
+
+### Objection.
+
+**But Tertullian and other ancient writers appeal to succession against heretics. *Ergo* succession is a mark of the Church.**
+
+**Respondeo**: **Although they appeal, yet they do it with this condition — namely, that always to the Apostles and their doctrine one must recur**. **And why this — save that they teach the succession of doctrine, rather than of persons, is to be attended to?** But **the Papists, besides the mention of Apostolic doctrine, oppose to us the succession of Bishops**.
+
+Then it standeth that **the Fathers made mention of no succession, save against Schismatics — in [Churches] as yet having legitimate succession — or against those who either mutilated Scripture, or brought forth new Scriptures — as at the beginning were Simon Magus, Valentinus, Basilides, Marcion, Montanus, and the like**.
+
+So therefore the Fathers against these gathered: **If our doctrine be true, either the Church hath not been hitherto, or it is old — which doctrine ye urge**. But **that either is false, is clear from this — that both the Apostles gathered the Church, and ye teach your things, not as taken from Apostolic writings, but as recently revealed by the Holy Spirit**.
+
+Hence **Tertullian, De praescriptionibus, saith**: *"Though they contrive something of succession, yet the very doctrine of them, compared with the Apostolic, pronounceth from its diversity that it is of no Apostle or Apostolic Author."*
+
+**And again**: *"To this form therefore they shall be challenged by those Churches, which — though they can produce no Apostle or Apostolic as their author, since they are much later, and are daily instituted — yet conspiring in the same faith, are held no less Apostolic on account of the consanguinity of doctrine."*
+
+**And again**: *"To us nothing is lawful to indulge from our own choice, nor to choose what any one hath introduced from his own choice. The Apostles of the Lord we have as authors, who not themselves chose anything from their choice, which they might introduce — but the discipline received from Christ they faithfully assigned to the nations."*
+
+**And again**: *"It standeth therefore that all doctrine which conspireth with those Apostolic Churches, mothers and originals of the faith, is to be reckoned to truth — and without doubt holding what the Church from the Apostles, the Apostles from Christ, Christ from God received. All remaining doctrine however is to be prejudged of lie, which knoweth against the truth of the Churches, and of the Apostles, and of Christ, and of God."*
+
+**And in the same place a little after**: *"We communicate with the Apostolic Churches, because no doctrine [is] diverse — this is the testimony of truth,"* etc.
+
+To this, since **no ever Apostolic ministerial head hath been in the Church, neither can Apostolic succession be**. **Christ certainly instituted no such head. The Papists therefore without foundation glory of the succession of such head. Nor in Cardinals, primates, or Archbishops can Apostolic succession be — for the Apostles were utterly ignorant of Cardinals, similarly of primates they knew nothing. The Episcopal grade, such as the Papists feign, was unknown to the Apostles — for the Apostles distinguished not between Bishop and Presbyter**.
+
+Whence **Jerome in the epistle to Titus writeth, that Bishops are greater than presbyters by custom rather than by the truth of the Lord's disposition**. **Lombardus also attesteth, Sentent. 4, dist. 24, that this whole Hierarchical order above presbyters was excogitated by men to the exemplar of the Roman Empire**.
+
+— ❦ —
+
+## Question 31. Must it be approved, that the Papists teach — that the canonical ordination is a perpetual and necessary mark of the Church?
+
+**Must it be approved, that the Papists teach — that the canonical ordination is a perpetual and necessary mark of the Church?**
+
+**Respondeo**: **By no means.** For **Christ nowhere bound the Church to this canonical ordination**. **Let them produce even one perspicuous Scripture testimony on this matter, if they have any.**
+
+Then, as concerneth **the disposition of Canon Law, it standeth that this disposition was utterly unknown to Christ and the Apostles, nor even from Canon Law can it be proved that one and the same order was always prescribed or observed in Christian Churches**, for circumstances would not admit or concede this.
+
+To this, **the order prescribed by the Canons hath long since by the Papists been neglected**. For **examination of doctrine, of morals, and observation of ecclesiastical grades — which are not lightly to be violated — and legitimate calling from the free consent of the whole Church, are divinely required**. So that **from their universal clergy, not even one can they produce, in whose promotion this order hath been observed. For the right of election the Pontiff has seized to himself — from Kings and princes he hath taken it. Suffrages are bought for a price**. Now that **old Canon, iterated in the ancient Synods, congruent with the word of God, expressly teacheth to hold the ordination utterly invalid, in which price intervenes**.
+
+If therefore this be considered, it is clear, that **for a long time among the Papists no true mark of ordination hath remained**.
+
+**To embrace much in a few words**: even if the Bishops and Presbyters of the Papists were all rightly elected and called, yet on that account it would not follow that their company were the Catholic Church — since abusing their calling, they corrupt the doctrine of Christ, and act this — that the sheep to be led to Christ they enslave to Satan**.
+
+— ❦ —
+
+## Question 32. But perhaps of the true Church the infallible mark is the union of the same with the Roman Pontiff?
+
+**But perhaps of the true Church the infallible mark is the union of the same with the Roman Pontiff?**
+
+**Respondeo**: **This very thing the Papists will — but shamefully they hallucinate**. For **not simply union and concord, but union and concord in the doctrine of Christ, of the Prophets, and of the Apostles, is a mark of the true Church**. **Not upon any union and concord whatsoever, but upon the foundation of the Prophets and Apostles — Jesus Christ himself being the supreme cornerstone — the Church is built up, Eph. 2**.
+
+**Which unity the Roman Pontiff hath wickedly disrupted, and hath led men from the word of God to his own fictitious dogmas and statutes**. **The Holy Spirit commendeth to us unity — but that this is nowhere bound to one head, the Roman Pontiff, is most certain. Of a universal head of the Church, the Roman Pontiff, the whole New Testament is silent**. **The unity of faith, Eph. 4, is commended to us — but unity with the Roman Pontiff as ministerial head of the Church is nowhere required**.
+
+**The true unity of the Church is in Christ, and in his Word and faith, and in the legitimate use of the Sacraments instituted by him. This unity however is not with the Papists.**
+
+**Christ and the Apostles taught us to be justified by faith. The Papists, by their own works, by monastic vows, by pilgrimages, etc.** So they observe not unity with the doctrine of the Sacraments. Ceremonies moreover innumerable they have feigned, of which Christ and the Apostles were plainly ignorant. **Unity therefore is nothing, unless under it there is the truth of Christ.** **There was a unity and consent of nations and peoples against Christ. There was unity of the Pharisees, of Herod, and of Pilate — but unity with Christ and his word there was not. So there is a unity of the Papists, but the unity of Christ it is not — since they pervert and corrupt the word of Christ.**
+
+**Many say, we are many.** But **wherefore should we rejoice in multitudes, since the multitude of the erring cannot beget patronage of error**. **Unity is threefold — with God, with self, with others. To God without Christ they are not conjoined, save by true faith in Christ — of which the Papists are destitute**. **The Papists dissent among themselves, when they invalidate their predecessors as successors; when by mutual lacerations they pave the way to the Papacy; when scholastic Doctors sharply gladiate among themselves — and try to draw us to unity with the See of Rome.**
+
+— ❦ —
+
+## Question 33. But is not unity or conformity in traditions, as the Papists will, a sign of the Church?
+
+**But is not unity or conformity in traditions, as the Papists will, a sign of the Church?**
+
+**By no means.** For **Christ and the Apostles nowhere handed down this sign**. Nay rather **Christ, Matt. 15, saith they worship him in vain by the mandates of men**. And **Col. 2 it is said**: *"Let no man judge you in food or in drink, or in respect of a day."* Whence also **Socrates, Ecclesiastical History, book 5, cap. 22, writeth**: *"The scope of the Apostles was not to establish concerning certain days, but to introduce right life and piety."*
+
+— ❦ —
+
+## Question 34. By what documents wilt thou prove with us to be the true Church of Christ?
+
+**By what documents wilt thou prove with us to be the true Church of Christ?** [*[T. 6, p. 103; T. 7, pp. 410, 411*]*]
+
+**Respondeo**: **By many and firm documents we demonstrate this.**
+
+**The essential and perpetual mark of the Church of Christ is the purity of the word of God.** **But that by God's benefit we have**. So **a mark of the true Church is the purity of the Sacraments instituted by Christ.** **But that also by God's grace we have.**
+
+**If thou ask of the succession of Apostolic doctrine, that also is found in our Churches. For we conspire (to use the words of Tertullian) in the same faith with the Apostolic doctrine.**
+
+**If concerning ordination the question be raised, that also with us is such, as the Apostle prescribed in the Epistle to Timothy and Titus.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **Catholic is what everywhere, what always, what by all is believed. The doctrine of your Churches is not such. *Ergo* it is not Catholic.** [*[See Luther T. 7, pp. 410, 411 and following*]*]
+
+**Respondeo**: **The Major must be limited and restricted thus — namely that Catholic is that which by all the Prophets, Christ, and the Apostles hath been handed down, and which by all Christians or faithful hath been believed**. Without this limitation the Major cannot be received.
+
+Now if in the Minor according to this limitation the subsumption be made, it shall be perceived that the Papists do great injury to our doctrine. **For our doctrine concerning Christ and his office, concerning the gratuitous justification of man before God, concerning the true invocation of God, hath from the beginning of the world existed in the Church. For all the Patriarchs, Prophets, and Apostles delivered it, and all the faithful believed it. It is therefore truly Catholic.**
+
+— ❦ —
+
+### Objection II. **Catholic is what everywhere, what always hath been. But your Churches have neither been everywhere nor always. *Ergo* etc.**
+
+**They prove the Minor**: **Because scarcely sixty years ago they began with Luther.**
+
+**Respondeo** to the Minor: **Our Church took its beginning from Christ Jesus, similarly from the Apostles and Apostolic men — of whom we are heirs and successors — since (as Tertullian saith) we conspire in the same faith with the Apostles and Apostolic Churches**. **From Zion or Jerusalem the Law goeth forth, not from Rome. This therefore is the origin of our Churches, this antiquity, deduced by the word by right, and by the line of truth derived unto us: to which if any Church shall have announced the contrary, or shall have been built upon any more recent foundation, in no wise is it to be heard.**
+
+Whence **Augustine, De unitate Ecclesiae, cap. 15**: *"I will not by human documents, but by divine oracles, demonstrate the holy Church."* **We communicate (saith Tertullian De praescriptione) with the Apostolic Churches, because no doctrine [is] adverse: this doth. Therefore let us appeal to the writings of the Prophets and Apostles as to the Lydian stone, and this chair of doctrine, wherever placed — whether in the East or the West, whether at Rome or at Wittenberg — we admit and venerate.**
+
+Since therefore **we have and retain the same doctrine as the Prophets and Apostles, there is nothing whereby they may charge our doctrine with novelty, or demand of us that we show the origin of our Churches**.
+
+To those objecting therefore that saying of Tertullian: *"Who are ye? When and whence did ye come? What do ye in my affairs, if not mine?"* — we respond: **Tertullian's words were opposed to Marcion, Valentinus, and the like, who partly perverted the Scriptures, partly brought forth new Scriptures**. Which the Adversaries cannot object to us. Then we respond: **We too are Apostolic — our Churches planted by their doctrine, come from Christ and the Apostles, since we sound and profess the same doctrine as they** — as the same Tertullian speaketh: **in consanguinity of doctrine with the Apostles we conspire**. **Ours therefore is the possession, we have firm origins from those authors whose the matter is, we are the heirs of the doctrine of the Apostles. But extraneous and enemies of the Apostles are all who teach a doctrine diverse from the Apostles, and out of their own choice have either brought forth or received things against the Apostles**. To these therefore is to be reckoned the adulteration of Scriptures and of expositions, where diversity of doctrine is found. But that is found among the Papists, not among us. *Ergo*, etc.
+
+— ❦ —
+
+### Objection III. **But no house, much less town or villa, can ye show, imbued with your doctrine before these times. *Ergo* etc.**
+
+**Respondeo**: **Whatever Church holdeth the Apostolic doctrine, that Church can truly profess by its doctrine, that once all cities, villas, and houses — wherever pious — were imbued [with the same]**. **Our Churches by God's grace hold Apostolic doctrine — they easily therefore can show cities and villas and houses imbued with their doctrine**. **For in Apostolic times all Churches, all cities, all towns, all families cultivated that same faith, which we today teach and profess**.
+
+— ❦ —
+
+### Objection IV. **If ye subscribe to Churches which flourished in past ages, ye must necessarily subscribe to the Roman Church. Or if ye subscribe not to the Roman Church, ye subscribe to no Church which flourished in past ages.**
+
+**Respondeo**: **As if truly there had been no Church in past ages save the Roman.** [*[T. 4/1, p. 781*]*] **By God's grace we subscribe to all Churches which flourished in past ages, and now flourish, which have subscribed and subscribe to the Apostolic doctrine. Nay, we subscribe also to the Roman Church, such as she is delineated by the Apostle in the Epistle to the Romans.**
+
+— ❦ —
+
+*[Locus XXVIII Part 5 closes (OBIECTIO IV primatum + Q30 succession + OBIECTIO on Tertullian + Q31 canonical ordination + Q32 union with Pope + Q33 tradition-unity + Q34 documenta apud nos + OBIECTIONES I–IV on antiquity). Part 6 (Q on membrorum perfectio + OBIECTIONES on scandala/haereses/dissentiones + Q on parvitas + OBIECTIO paucitas + Q on causae orbitatis + Q on potestas Ecclesiae + OBIECTIONES on interpretation) follows in T77. 556 top-level Q + 355 Obj rendered so far.]*
