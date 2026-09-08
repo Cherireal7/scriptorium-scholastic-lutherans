@@ -9630,4 +9630,148 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 — ❦ —
 
-*[Locus XXVIII Part 7 closes (Q37 causae orbitatis + Q38 paucitas nota + Q39 potestas Ecclesiae 5-fold + OBIECTIONES I–V on authority/interpretation/judgement/Bishops-only/Lyrinensis + Q40 controversia interpretationis 3-point). Part 8 (Q on bona Ecclesiae + Q on interior notae + Q on why God gathers + Q on Papa caput refuted 9-fold + Q on separation + Q on Roman Ecclesia not vera + closing OBIECTIONES) — closes Locus XXVIII — follows in T79. 561 top-level Q + 363 Obj rendered so far.]*
+## Question 41. But what are the goods of the Church?
+
+**But what are the goods of the Church?** [*[T. 3, p. 512; T. 3, l., pp. 564 and following*]*]
+
+**Her goods are spiritual, as**:
+
+**I.** **The true knowledge of God.**
+
+**II.** **The certain promise of remission of sins.**
+
+**III.** **The hearing of prayers** — **John 16**.
+
+**IV.** **The gift of the Holy Spirit** — **Zech. 12; Joel 3; Rom. 8; Gal. 3, 4**.
+
+**V.** **The promise of the perpetual conservation of the Church unto the end of the world** — **Matt. 16; Isa. 41, 46, 49, 54; John 4; Ps. 44, 46**.
+
+**VI.** **The promise of glorious protection and deliverance in all perils and temptations** — **John 10**: *"No one shall snatch my sheep out of my hand."* **Ps. 91; Hos. 13; Isa. 25, 26**.
+
+**VII.** **The word of God, the keys, Baptism, the sacred Supper, the assiduous intercession of Christ, Rom. 8. Certain hope of the resurrection of the flesh and of eternal life — John 3, 5, 6, 10, 11; 1 Cor. 15**.
+
+**These goods separate the Church of Christ from all other companies, and confirm that outside the true Church of God there is no salvation.**
+
+— ❦ —
+
+## Question 42. But what interior marks have the truly faithful, by which they are known?
+
+**But what interior marks have the truly faithful, by which they are known?**
+
+**I.** **The inhabitation of the Holy Spirit, who beareth witness to their spirit, that they are sons of God — Rom. 8.**
+
+**II.** **Faith in Christ, by which they are certain that they are in the grace of God — Rom. 5**: *"Being justified from faith, we have peace and access to God through our Lord Jesus Christ,"* etc.
+
+**III.** **Sincere love of God and of the neighbour — 1 John 2, 4; John 13.**
+
+**IV.** **Serious hatred of sin, mortification of the flesh and its desires — Gal. 5:24**: *"Those who are of Christ, have crucified their flesh with the vices and concupiscences of it."*
+
+— ❦ —
+
+## Question 43. But why doth God gather to himself a Church out of the human race?
+
+**But why doth God gather to himself a Church out of the human race?**
+
+**That he may have those by whom he is rightly acknowledged and invoked — John 4:23**: *"The true adorers shall adore the Father in Spirit and in truth."* And **that in the other life he may have those whom he may glorify, and with eternal joy make blessed** — **John 3:15**: *"That every one who believeth in him, may not perish, but have eternal life."* **John 10:28**: *"I give them eternal life."* And **that he may manifest to the world his incomprehensible wisdom, choosing the ignoble and contemptible of this world**.
+
+— ❦ —
+
+## Question 44. Doth the Pope therefore ill, constituting and preaching himself as the ministerial or visible head of the Church?
+
+**Doth the Pope therefore ill, constituting and preaching himself as the ministerial or visible head of the Church?**
+
+**Very much so.**
+
+**I.** Because **the Church according to the sacred Scripture hath no head besides Christ** — **Eph. 5:23**: *"Christ is head of the Church."* And **[Scripture] knoweth not a ministerial or visible head — whatsoever therefore is said of this, is a Papist figment**.
+
+**II.** **The Pope cannot exhibit those things which are of the head of the Church**: for he cannot **be present to the Church wherever among the nations she is gathered, hear her prayers, defend her, and snatch her from sin, death, and all evils**.
+
+**III.** **Scripture indeed calleth the Apostles members of the body of Christ. But the title of ministerial head it nowhere attributeth to them.** With what face therefore doth the Pope take this title to himself?
+
+**IV.** **Peter nowhere and never ascribed to himself the title of ministerial head of the Church on this earth.**
+
+**V.** **In the Acts of the Apostles concerning the primacy of Peter or of the Roman Pontiff not even a syllable is had.**
+
+**VI.** **The first Council also, Acts 15, constituted not Peter the ministerial head of the Church — much less his successors.**
+
+**VII.** **From the whole New Testament it cannot be demonstrated: that Peter was Bishop at Rome; and the ministerial head of the universal Church on this earth.**
+
+**VIII.** **The most ancient Doctors of the Church also in their writings say and write nothing of it — that Peter with his successors is the Pope and ministerial head of the universal Church on this earth.**
+
+**IX.** **Gregory the Great himself wrote**: *"I confidently say, that whoever calleth himself, or desireth to be called, the universal Priest, by his elation preveneth Antichrist, since by pride he preferreth himself to the rest."*
+
+— ❦ —
+
+## Question 45. Can there be separation from the Church without peril?
+
+**Can there be separation from the Church without peril?**
+
+**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Save yourselves from this depraved generation."* **1 Cor. 10:14**: *"Flee from the cult of idols."* **2 Cor. 6:17**: *"Go ye out from the midst of them, and separate."* **Apoc. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
+
+— ❦ —
+
+## Question 46. Have we rightly then done, separating ourselves from the Papist Church?
+
+**Have we rightly then done, separating ourselves from the Papist Church?**
+
+**Very much so.** The causes hitherto have been expounded: **that the Pontiff, Cardinals, Bishops, and Prelates of him are not servants of God, but Antichrist and his Ministers**. For **they overturn and pervert the doctrine of Christ. They hand down and propugne false doctrine and idolatry — as the invocation of Saints, and similar horrible blasphemies. The Sacraments instituted by Christ they corrupt; out of the sacred Supper they feign an idolatric sacrifice for the living and the dead. And they abuse the keys of the Church for the deposition of Emperors and the kingdoms of this world; they take Ecclesiastical and political power to themselves; they constitute the Pope as head of the Church against Christ; they interdict marriage to priests — which is the doctrine of demons; item, they thrust upon the Church the fable of indulgences and Purgatory; and they are wholly bent on this — that those who acknowledge only Christ as their Mediator and Saviour, and invoke him, they may extirpate and root out from the foundations**.
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But (they say) if the Roman Church is not the true Church of God, where then hitherto hath the Church been?**
+
+**Respondeo**: **Christ by no word bound his Church to the See or Pontiff of Rome.** But **even in the Papist Antichrist he reserved to himself a holy dedicated name — with the Pontiff defecting from the word of Christ and reigning in the Church by his own traditions — as in the time of Elias, 3 Kings 19, and under Annas, Caiaphas, and the Pontiffs in the time of the Prophets and of Christ**.
+
+— ❦ —
+
+### Objection II. **Even if ye did not acknowledge the Pontiff, yet from the communion of the Church ye ought not to have receded?**
+
+**Respondeo**: **From the communion of the true Catholic Church, which is built upon the foundation of the Prophets and Apostles, Eph. 2:20, we have not separated ourselves, nor unto eternity shall we separate ourselves.** Just as **CHRIST himself with his disciples from Annas, Caiaphas, and their consortium separated indeed; but from the communion of the Church of God on that account he separated not, but in her remained: so also we, although from the Pontiff and the Antichristian kingdom of him we recede, yet from the orthodox and true Catholic Church we depart not, but in her remain**.
+
+— ❦ —
+
+## Question 47. Can the Church err?
+
+**Can the Church err?**
+
+**She altogether can.** **The Church before the Flood erred and departed from the ways of the Lord — so that at length by the Flood almost the whole human race was destroyed, eight souls being snatched out**. **In the Israelitic Church especially in the times of the Prophets there were so many errors, that God from time to time raised up Prophets who cried out against the errors of the priests and the people, and recalled the erring Church into the way**. **In the time of the coming of Christ the Church was miserably infected and fascinated by the erring opinions of the Pharisees and Sadducees. The disciples of Christ also had their own blemishes in the highest articles of faith, and on that account often by Christ were gravely reprehended.**
+
+**The primitive or Apostolic Church straightway through the Pseudo-apostles was seduced and fascinated — Acts 15; Gal. 1, 2. In the former Epistle to the Corinthians it is scarcely obscurely indicated, how foul errors perturbed the Corinthian Church. After the times of the Apostles, very many errors invaded the Church of CHRIST.** It cannot be said how many hosts Arianism alone seduced from the sound truth. **How many and how great errors invaded the Church under the reign of the Roman Antichrist, no human eloquence can sufficiently expound.**
+
+**Yet always the Lord reserveth to himself a holy seed** — the errors invalescing and rioting. **So he preserved Noah, Lot with his own; so he preserved to himself seven thousand in the time of Elias the Prophet — 3 Kings 19. So in Isaiah's times he preserved to himself a holy seed — Isa. 1. So under Jeremiah there were holy remnants. In the times of the Pharisees and Sadducees were Zacharias, Elizabeth, Hanna, Simeon, and the like. When Christ was teaching, a holy seed existed, though it was reprobated by the priests and the people. Under the Apostles although the Pseudo-apostles gave the Church very much damage, yet through the preaching of the Gospel excellent companies from time to time were gathered to Christ. In the Arian times, although on every side all things were full of Arians blaspheming the divinity of Christ, yet the number was not mediocre of those who contradicted these blasphemous men. So under the reign of Antichrist there always have been some who cried against him, and washed their robes in the blood of the Lamb**.
+
+**For the article of faith, "I believe the Church," cannot be blotted out, and the gates of hell — whatsoever they finally attempt — could not prevail against the Church. Always remain those who retain the foundation — 1 Cor. [3]:11 — although they do not always superstruct gold. Nor is the same light always in the Church, but the brightness of truth shineth sometimes more, sometimes less.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But 1 Tim. 3:15 the Church is said to be the *"column and firmament of truth."* *Ergo* she cannot err.** [*[T. 4/1, p. 23*]*]
+
+**Respondeo**: **True is this saying of the true Church of God, who retaineth the foundation, and doth not contumaciously propugne false opinions against the articles of faith.** For **truth is both the column of the Church and the firmament — upon which she must lean, and upon which she must be founded**. Whence **Irenaeus, book 3, cap. 1, saith**: *"The Gospel handed down in the Scriptures is the foundation and column of our faith."* **But nothing pertaineth this saying to the Pontiff, Cardinals, Bishops, and his Prelates. For they reprobate the cornerstone — Ps. 118; blaspheme the merit of Christ; equate their own traditions to the word of God; pervert the Sacraments instituted by Christ; from the Supper of the Lord make an idolatric sacrifice for the living and the dead; propugne the fable of Purgatory; teach the invocation of Saints; and kill those contradicting**.
+
+— ❦ —
+
+### Objection II. **It is written, Luke 22[:32]: *"I have prayed for thee, that thy faith fail not."* *Ergo* the Roman Church, which is the See of Peter, cannot err. For this prerogative was given to her — that she cannot err, or that her faith cannot fail?** [*[Gen. T. 1, pp. 132, 133*]*]
+
+**Respondeo**: **First in general.** If **the See of Rome on that account cannot err, because Peter sat in her — the same must be attributed to the Antiochene See, in which he sat before Rome. Nay, it is uncertain whether he ever came to Rome**. And **if anything must be attributed to sees, to the Jerusalemite See rather — which was called the See of God — this prerogative must be ascribed**. **But in the word of God concerning such a prerogative nothing exists.**
+
+Then let them first constitute among themselves — **whether they will this prerogative given to the Pontiff, or to the Roman Church from the See of Peter**. **If to the Pope given they shall say**: **Marcellinus sacrificed to the idols of the Gentiles; Honorius was a Monothelete; that Liberius was made an Arian, Jerome attesteth; John 22 denied the immortality of souls; Gregory VII and several of his antecedents were Magi and disciples of Satan**. But if **they will the privilege granted to the Roman Church, let them demonstrate that she never erred from the truth**.
+
+But **what need is there of words? It standeth that the saying of Christ pertaineth to Peter, and not to the Roman Pontiff**. **To Peter, not to the Roman Pontiff, was it said**: *"I have prayed for thee, that thy faith fail not."*
+
+— ❦ —
+
+### Objection III. **They insist: it cannot be taught that the Roman Church hath fallen from the faith. *Ergo* etc.**
+
+**Respondeo**: **Francisco Petrarca many years ago called the Roman Church the school of errors and the temple of heresy — and this not without cause. For long since she departed from the true faith. She hath changed the Testament of Christ; out of the Supper made a Mass for the living and the dead; snatched the use of the cup from the Laity against Christ's mandate; commanded bells to be baptized, when Christ willed only men to be baptized. The article of original sin and of free choice she hath depraved; the doctrine of the law of God she hath vitiated, teaching it possible; the highest head of our religion — concerning the office of Christ the Mediator and the justification of man before God — she hath wickedly corrupted, attributing to works what is owed to Christ alone; the doctrine of the true invocation of God she hath horribly adulterated, asserting that deceased saints are to be invoked**.
+
+Nay, to say summarily: **if the doctrine of the Roman Church on the chief heads of Christian religion be compared with the doctrine of Christ and the Apostles, it is clear that by the whole heaven she disagreeth from it**. And on this account the Papists, **when they are urged to demonstrate that their doctrine agreeth with the sermons of Christ and the Apostles, receive not themselves to the very sermons of Christ and the writings of the Apostles, but from the Scholastic doctors — who lived 400 years ago — item from Bede and Gregory the Great, who lived almost 800 years ago, and so on from the monuments of the Fathers, and especially from Dionysius the Areopagite, Ignatius's Epistles, Tertullian, Irenaeus, and the like writings, they attempt to evince that they retain the same faith which the Church received from the Apostles**. For **they know exceedingly well, that from the sermons of Christ and the writings of the Apostles their own faith they cannot demonstrate**. And although they will, yet they cannot deny that **with the Ebionites they teach faith alone in Christ doth not suffice for salvation; with the Montanists they glory of the Holy Spirit by whom their Councils are ruled, and with him as Master they indict fasts; with the Encratites and Tatianists they prohibit marriages and foods; with the Pelagians they commend the powers of choice**. **By which they are openly convinced that they have long receded from the doctrine of Christ and the Apostles.**
+
+They ask however of us, that we teach them **at what time therefore that defection began? But the response is ready — that that defection was not made in one moment, but that errors crept in little by little**. This can be demonstrated by many most evident examples. **The Canon of the Mass was not composed at once, but was scarcely for a space of 500 years cobbled together by the Pontiffs and their successors** — which ecclesiastical history perspicuously attesteth, and the very writers of the Papists are forced to confess. **Augustine hath something concerning purgatory. Yet [it is] uncertain, and [he] is not consistent with himself. Gregory the Great — taught by ghosts that Purgatory exists — confirmed it**. **The invocation of Saints was little by little introduced. Origen around A.D. 240 first moved a disputation of the prayers of blessed spirits, yet invocation did not straightway follow.** Finally around A.D. 370, through **Basil and Nazianzen — on occasion of panegyrical orations of saints — the invocation was borne into the public assemblies of the Church**. Afterwards **Gregory the Great commanded the Litany invocatrix of the Saints publicly to be chanted**. **Bonifacius III bought the title of universal Bishop for great price from Phocas the parricide.** **Once there were no images in the Church** — as from **Epiphanius** it standeth. **They were received afterwards into the Churches, yet affected with no honours. Received and placed, certain pious Bishops broke them. At the extreme, in the second Nicene Council it was decreed that images are not only not to be cast down, but also to be piously adored. The first authors of the half-Sacrament, under Leo the Bishop, were the Manichaeans. So also in the rest, little by little defection was made.**
+
+— ❦ —
+
+*[Locus XXVIII De Ecclesia Catholica vel Christiana is TRULY COMPLETE — rendered in 8 tranches (T72–T79). Total Locus XXVIII: 47 top-level Q + numerous OBIECTIONES clusters (visibility × 5 + notae × 3 + Papist claim + Catholica × 4 [incl. Roman primacy] + antiquity × 4 + scandala × 3 + paucitas + authority × 5 + closing × 2 + Church-can-err × 3) ≈ 30 Obj units. 568 top-level Q + 372 Obj rendered so far. Locus XXIX De Ministerio follows in T80.]*
