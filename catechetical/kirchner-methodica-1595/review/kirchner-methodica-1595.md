@@ -6801,3 +6801,139 @@ As to the Minor: **the word "sanctify" in Paul is to be understood of the Physic
 — ❦ —
 
 *[Locus XXIV De Invocatione Dei is TRULY COMPLETE — 23 top-level Q (Q1–Q23) + 1 embedded Ioh 9:31 Obj (in Q14) + 9 formal Objs on Sanctorum invocation + 2 Objs on Christ's continuing intercession + 3 Objs on relics + 2 Objs on consecrations. Total Locus XXIV: 23 Q + 17 Obj units. 434 top-level Q + 226 Obj rendered so far. Locus XXV De Sacramentis in Genere follows in T48.]*
+
+— ❦ —
+
+# Locus XXV. Of the Sacraments in General
+
+### *De Sacramentis in Genere*
+
+## Question 1. Doth this word "Sacrament" exist in the sacred letters, used of Baptism and of the Supper of the Lord?
+
+**Doth this word "Sacrament" exist in the sacred letters, used of Baptism and of the Supper of the Lord?** [*[Luther: T. 5, p. 62*]*]
+
+**No.** Of Baptism and of the Supper of the Lord we nowhere in Scripture read it; **elsewhere indeed in the old translation it is put for "mystery," as Eph. 5:32**.
+
+— ❦ —
+
+## Question 2. Whence therefore is it, that also of these it is used and preached?
+
+**Whence therefore is it, that also of these it is used and preached?**
+
+**The Fathers in the Latin Church first used this word in the doctrine of Baptism and the Supper of the Lord — and from these the German Church also hath this word**. But **the word is used for an obligation to certain ceremonies, and for the military oath, by which the soldiers bind themselves to their captain: which perhaps also gave the Fathers occasion, that they might accommodate it also to Baptism and to the Supper**.
+
+— ❦ —
+
+## Question 3. Can this word therefore be retained and used in the Church?
+
+**Can this word therefore be retained and used in the Church?**
+
+**Very much so** — provided that **no one abuse it against the words of the institution of Baptism and of the Supper, as, alas, many do**.
+
+— ❦ —
+
+## Question 4. What therefore is a Sacrament in the Church of God?
+
+**What therefore is a Sacrament in the Church of God?**
+
+**A certain ordination of God, having an express word of God and a certain Element or matter — that it may be an external seal of faith in Christ Jesus** [*[Gen. 17, T. 2, p. 82*]*].
+
+— ❦ —
+
+## Question 5. What therefore are the requisites of a Sacrament?
+
+**What therefore are the requisites of a Sacrament?** [*[Luther: T. 6, p. 278*]*]
+
+**The ordination and mandate of God, the promise of grace, and an Element named by God.** For **also incantators use elements, and pronounce over them the word of God — but without word, mandate, institution, and divine promise: wherefore they are not Sacraments, but blasphemies of them, incantations**.
+
+— ❦ —
+
+## Question 6. How many therefore are such Sacraments in the New Testament?
+
+**How many therefore are such Sacraments in the New Testament?** [*[T. 2/1, pp. 285, 286*]*]
+
+**Only two: Baptism and the Supper of the Lord.** For **these two have a certain Element, and one defined by God himself — and are expressly founded in the word of God**.
+
+— ❦ —
+
+## Question 7. Who instituted them?
+
+**Who instituted them?**
+
+**The Son of God himself, Jesus Christ, our sole Mediator and Saviour** — **Matt. 26; John 13; Matt. 28; Mark 14; Luke 22; 1 Cor. 11**. For **of him alone, and of no creature, it is to institute Sacraments**.
+
+— ❦ —
+
+## Question 8. But what are their Elements or matters?
+
+**But what are their Elements or matters?**
+
+**The Element of Baptism is water conjoined with the word of God.** **The matter of the Supper of the Lord is bread and the body of Christ; wine and the blood of Christ** — as clearly the words of institution attest. And **it is not in the power of any creature to change or amend this institution of Christ** — nor **so ought anyone to separate water from Baptism, nor from the Supper of the Lord to detract or change anything**.
+
+— ❦ —
+
+## Question 9. But why are they instituted?
+
+**But why are they instituted?**
+
+**In general, they are instituted that they may be instruments and means, through which Christ's benefits are distributed and applied to us** — **John 3:5; Tit. 3:5; Matt. 26:26, 28** [*[Gen. T. 2, p. 82; T. II, p. 29 f. b*]*].
+
+**Then, that they may be means through which we ourselves are inserted into Christ and united with him.** Hence of Baptism, **Gal. 3:27**, it is said: *"Ye have put on Christ."* And of the Supper of the Lord, **Hilary saith**: *"By these it cometh to pass that we are in Christ, and Christ is in us."*
+
+**Thirdly, they ought also to be testimonies of the faith which by their use we profess.**
+
+**Fourthly, they ought to admonish us of the mortification of the flesh and of newness of life** — as **Rom. 6, and in the Catechism concerning Baptism it is said**. **The Supper of the Lord ought to admonish us of fraternal conjunction and charity — 1 Cor. 10:17.**
+
+**Fifthly, unto gratitude toward GOD and his divine benefits they ought to excite us.**
+
+**Sixthly, that they may be testimonies of the resurrection of our flesh.** For since **in the Supper of the Lord our bodies are fed with the body of Christ, there is no doubt but that they too are to rise again**, as **Irenaeus most excellently treated of this, book 4, cap. 34; item book 5** [*[p. 296*]*].
+
+— ❦ —
+
+## Question 10. But what difference is there between the Sacraments of the Old and of the New Testament?
+
+**But what difference is there between the Sacraments of the Old and of the New Testament?**
+
+**The adversaries so discern the Sacraments of the Old and of the New Testament**:
+
+**1.** That the **Sacraments of the New Testament promise a Christ sent, but the Sacraments of the Old, one to be sent**.
+
+**2.** In certain **circumstances and singular similitudes of things and signs**, which are as it were **peculiar to the Sacraments of each Testament**. But in reality and in use and efficacy they say those to be the same, and plainly to agree.
+
+**But we say these things do not yet sufficiently explain that difference.** For **regard must be paid not only to the aforesaid — but that we may plainly perceive the true discrimen of the Sacraments of the Old and New Testament, we must accurately attend, by what words Scripture itself explaineth this**: as **Heb. 10:1**: *"Having a shadow of good things to come, not the very image of things."* Whence it is clear that **the Sacraments of the Old Testament were only a shadow and type of the Messiah to come, but the Sacraments of the New Testament have the very image of goods**.
+
+**The blood of the Old Testament, Exod. 24:8, was indeed also true blood — but only of brute animals; and it was a type of the propitiatory blood of the Son of God, Jesus Christ**. But **the blood of the New Testament is that very blood of Jesus Christ poured out for us unto the remission of sins. And this very blood in the Supper of the Lord, according to the words of institution, is communicated to us.**
+
+Then also this must be attended, that **the chief discrimen is to be taken from the words by which each Sacrament is instituted, not from the words of the institution of another Sacrament**. **From the words by which circumcision and the paschal lamb were instituted, it cannot be concluded and decreed, what are the substantials of Baptism** — much less **what are the substantials of the Supper of the Lord, which in it according to its essence are distributed**. For **in those no word is had of the body and blood of Christ, whose communication is singularly promised and instituted in the Supper**.
+
+**The discrimen therefore between the Supper of the Lord and the Sacraments of the Old Testament chiefly is constituted by the words of institution**, in which **Christ promiseth his body and blood to be communicated to us with the bread and wine or cup, over which we bless — a singular promise found in the words of no other Sacrament**. Just as also **the blood of Christ could not in this way be substantially distributed in the Old Sacrament, because the Son of God had not yet assumed the human nature**.
+
+— ❦ —
+
+## Question 11. Is it true, that the Sacraments have been promised and instituted only to the faithful?
+
+**Is it true, that the Sacraments have been promised and instituted only to the faithful?**
+
+**If thou speakest of the fruit and efficacy and legitimate use of the Sacraments, it is true, that only the faithful perceive the efficacy and fruit of the Sacraments, but not the unfaithful.** But **that hence it followeth — since the Sacrament of the Supper of the Lord standeth of two things, bread and the body of Christ, wine and the blood of Christ — the unfaithful receive only one, namely the bread and blessed wine, but not simultaneously also with these the body and blood of Christ — is not true**.
+
+**Incredulity and unworthiness of the receiver detract nothing from the substance of the Sacrament** — because **the Sacraments, as concerneth their substance, are founded not upon the faith or incredulity of any man, but upon the words of institution and the truth of Christ**. For **the Lord said not, worthy or faithful receive the entire Sacrament, but the unworthy and unfaithful only the sacred symbols — but without such discrimen he instituted and promised the entire Sacrament of the communication of his body and blood**. Whence also **Paul, 1 Cor. 11, handeth down the doctrine of the manducation of the unworthy, and warneth that no such tearing-apart of the Sacrament, as concerneth its substance, be feigned**.
+
+**The true and spiritual use, however, is nevertheless proper to the faithful — who use the Sacrament unto their sanctification — and in no wise is it communicated with the unfaithful.** And hither are referred those glorious words of **Augustine, book 3 against the Donatists, cap. 14**: *"It matters not, when it is treated of the integrity and sanctity of the Sacrament, what he believeth, or with what faith he is imbued, who receiveth the Sacrament. It matters indeed very much to the way of salvation: but to the question of the Sacrament it matters not. For it can be, that a man may have the whole Sacrament, and a perverse faith."*
+
+Whence it is clear, that **they fall into the error of the Donatists, who contend that the unfaithful and the unworthy receive only the sacred Symbols and nothing besides** — for **the symbols are not the whole Sacrament, but are only the other part of the Sacrament — which cannot be denied**.
+
+— ❦ —
+
+## Question 12. How therefore is this rule to be understood: "Sacraments are to be sacramentally explained"?
+
+**How therefore is this rule to be understood: "Sacraments are to be sacramentally explained"?**
+
+**According to the words of the institution of each Sacrament.** For on this account **God instituted each Sacrament in a singular way and reason — that from those words of institution, and not from elsewhere, of it should be made judgement**. **Baptism we expound sacramentally — that is, according to the words by which it hath been instituted. Then of the Supper is the judgement.**
+
+**Our adversaries so take and interpret this rule — that Sacraments are to be tropically explained, so that celestial and spiritual things receive the names of the signs, and on the contrary the signs the names of the things signified.** But **this explanation of this rule is false**. The reason is: because **this explanation can be proved by no testimony of sacred Scripture**. And **because, this explanation being conceded, it is necessary that the words of the institution of Baptism and of the Supper of the Lord be plainly overthrown and taken away**.
+
+**Scripture nowhere saith, that the name of the blood of Christ or of the Holy Spirit is attributed to the water of Baptism, or that the water of Baptism receiveth the name of the blood of Christ**. So also **nowhere doth it say, that the sacred Symbols of bread and wine receive the name of the far-absent body and blood of Christ — or that bread and wine are called the body and blood of Christ by a metonymy of sign and thing signified**.
+
+— ❦ —
+
+*[Locus XXV Part 1 closes (Q1–Q12). Part 2 (OBIECTIONES I–IV on Augustine's signa-nomen-rerum-signatarum + signa dicuntur + significare est proprium + 1 Cor 10:3 eandem escam spiritualem + Q13–Q17 nuda signa, Enthusiasts, seven Papist sacraments, ex opere operato, Baptism/Supper discrimen) follows in T49. 446 top-level Q + 226 Obj rendered so far.]*
