@@ -2070,6 +2070,267 @@ For rightly ***Chrysostom*** sometimes says: ***"Christ's words are infallible; 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+## The Nicene-Clause Exegesis, and the Personal Union
+
+> **Credo in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula.**
+
+**I believe in one Lord Jesus Christ, the only-begotten Son of God, and born of the Father before all ages.**
+
+### Four Arguments That the Son of God Is a Distinct Person from the Father and the Holy Spirit
+
+That the Son of God is a *distinct Person from the Father and from the Holy Spirit,* four *immovable arguments* testify:
+
+**1.** The *patefaction of the three Persons,* chiefly *in the baptism of Christ* (Matt. 3).
+
+**2.** The *appellations* — Father, Son, Begotten, Only-Begotten.
+
+**3.** The *assumption of the human nature out of the Virgin Mary,* which nature *only the Son assumed,* not the Father, not the Holy Spirit.
+
+**4.** The *testimonies of the whole sacred Scripture,* chiefly of the New Testament, and the *confession of the whole Church in all times,* and the *certitude of faith in the minds and hearts of the pious.*
+
+### The Chief Appellations of the Son in Scripture
+
+**The first: *Filius* (Son).** Ps. 2 and 72: *"Before the sun His name was made-Son"* (see [[note-62]] on *Iynnon*). Prov. 30: *"What is the name of the Son of God?"* Dan. 3; Matt. 3.
+
+**The second: *Unigenitus* (Only-Begotten).** *"For in the deity He has no brother,"* says ***Athanasius,*** *"but He alone from the essence of the Father, equal to the Father, and coeternal, ἀγαπημένος ὁ μονογενής"* (bk. 3 *ad Theophilum contra Arianos*).
+
+Cognate to this appellation is ***πρωτότοκος*** — *First-born* — *"not after whom others are, but before whom none is begotten,"* as **Jerome** *contra Helvidium* rightly says. **Athanasius** refers the appellation of *first-born* to the *nature of the man,* according to that (Rom. 8): *"He is the first-born among many brethren"* — that is, *among all men He has the first parts, both in affliction* (because *He was made a worm and the least of men*), *and in glorification* (because *He accepted the name above every name,* elevated into the highest sublimity, Phil. 2), which majesty is not given to other men. But when it is said *"First-born of the Father,"* or *"First-born before the constitution of the world,"* or *"First-born before every creature"* — it is *the same as Only-begotten.* Col. 1: *"First-born of every creature,"* that is, *Lord of all creatures.*
+
+**The third appellation is *Λόγος (Logos, the Word),*** so called with *twofold respect:* toward the *Father,* and toward *us.*
+
+*Toward the Father,* because He is *born by the cogitation of the Father,* and therefore is ***Λόγος ὁ οὐσιώδης*** (*the substantial Word*) and *eternal.* This *divine and eternal generation,* we who live in time cannot attain.
+
+*Toward us,* however, He is ***Λόγος ὁ ἀγγελικός*** (*the announcing Word*), because *He brings forth the Gospel from the bosom of the Father and preserves the ministry, and in it is efficacious.*
+
+**The fourth: *Εἰκών* (Image), substantial** — so called by *threefold respect:*
+- **Respect of arcane generation** from the Father, and *collation with the Father.*
+- **Respect of patefaction toward us.** For *such is the Father as the Son announces Him;* whence He Himself says (John 14): ***"He who sees me, sees the Father."*** For He is ***εἰκὼν τοῦ Θεοῦ τοῦ ἀοράτου*** — *the Image of the invisible God.*
+- **Respect of the restitution of us.** For this *Image of God is sent to us,* that we through Him may again *become the image of God* — that is, that in us may *shine the acknowledgement of God kindled through the Son,* by which we again are made *conform to God* (2 Cor. 3). *Athanasius* says: ***"It was fitting that the Son should assume the human nature, that through the essential Image of God man might be restored, being created that he should be a created image of God — because through the Word by which the divinity is patefacted, the Image is restored."***
+
+**The fifth: *ἀπαύγασμα*** (*Splendour*), Heb. 1, which in the Nicene Symbol is rendered ***"Light of light."*** And it pleases some that the same appellation is that of Ezek. 1:8: ***Chasmal*** (חַשְׁמַל). It is the *splendour of the glory and majesty of the Father.* **Oecumenius,** alleging Cyril, says: ***ἀπαύγασμα, τὸ ὁμοούσιον καὶ συναΐδιον δηλοῖ, οἷον φῶς ἐκ φωτός*** — *"Splendour signifies the consubstantial and coeternal, as light from light."*
+
+**The sixth appellation, which is placed in the Symbols: *Iesus Christus.*** ***"This name is assumed from the dispensation of mercy, from the assumed humanity,"*** says **Augustine** (Ep. 175). For *Christ* is from ***Chrisma,*** that is, from *unction,* per that of Ps. 45: *"Thy God, O God, has anointed Thee with the oil of exultation"* — ***ὦ Θεὲ, ἔχρισέ σε ὁ Θεός σου· τὸ σε, διὰ τὴν σάρκα. χρίεται γὰρ ἡ ἀνθρωπότης ὑπὸ τοῦ ἁγίου πνεύματος,*** says **Oecumenius.** For, as **Augustine** *contra sermonem Arianorum* ch. 8 says: ***"He who was in the form of God was not yet Christ; that He began to be, when He emptied Himself. But if we ask 'Who is He, who, when He was in the form of God, judged not equality with God to be rapine?' the Apostolic voice answers us: Christ Jesus. Therefore even that divinity accepted the voice of this humanity."*** (And though in the margin the word ***σκληρόν*** is subscribed — that it is spoken somewhat harshly, "He was not yet Christ" — for Christ *was* before He was in the flesh, as ***Victorinus Apher*** says — nevertheless Augustine's sentence is no other than what I shall now rehearse in **Theodoret's** words, Dial. 6:
+
+> ***"Jesus Christ we call neither God only nor man only, but both. For God the Logos, made man, was named Jesus Christ. Before the Incarnation indeed He was named God, and Son of God, and Only-begotten, and Lord, and God Logos, and Creator — by which names the divine nature was expressed. But after the Incarnation He was called Jesus Christ, God Logos incarnate, or made man. Therefore now Jesus Christ is the name of the Person, after the union of the two natures having been made."***
+
+Whence also before the Incarnation of the Son of God, in the Old Testament the Patriarchs and Prophets used the appellation of *Messiah,* that is, of *Christ,* and of ***Saviour, σωτήρ.*** Nor do we in the Church otherwise receive the vocables of *Jesus Christ,* except *of the Person which is God-Man,* one Christ, the same God and the same man. And in this mode taken, the words of ***Vigilius*** are true, who (bk. 4, ch. 2) says: ***"Jesus Christ is not of the Word, but of the flesh the proper name;"*** just as *God* is *of the Word, not of the flesh,* the proper vocable.
+
+**Hilary** *De Trinitate* bk. 9 says: ***"Adapting to the times, those things which are said of Christ — that one thing is 'before man, God;' another 'man and God;' another 'after man and God, whole man, whole God' — do not confuse in the times and in the kinds the sacrament of the dispensation."***
+
+### The Chart of the Christological Appellations Across Three Stages
+
+|Stage|Appellations|
+|---|---|
+|**Before the Incarnation (ante ἐνανθρώπησιν)**|Deus, Logos, Imago, Filius Dei, Dominus, Unigenitus, Chasmal|
+|**In the Incarnation and Humiliation**|The same Christ: Jesus Christ, God and Man, Son of Mary, Son of God, Son of Man, Emmanuel, Theanthropos, Theander, God Incarnate|
+|**In the Glorification** — from the Resurrection and Ascension|The same Christ: Whole God, Whole Man, the truth of human and divine nature remaining; the same God, the same man, in the glory of the Father, at the right hand of God|
+
+**These appellations, therefore, show:**
+
+**1.** The *eternal divinity of the Son,* who *before He was anointed, is the Logos of the Father.*
+
+**2.** The *very unction and ordination for the work of the salvation and redemption of the human race.*
+
+**3.** The *assumption of the human nature,* and the *hypostatic union* of the two natures *in one Person.*
+
+**4.** The *eminence and glory of the human nature.*
+
+***"τὸ Χριστός, τὸ Υἱὸς τοῦ Θεοῦ, καὶ μετὰ σαρκὸς καλεῖται"*** (**Oecumenius** on Phil. 2). And the *royal and sacerdotal office* is *of the whole Person,* not the human nature excluded — especially since *unction properly regards the human nature.* For *kings and priests* were anointed *in a type of the eternal King and Priest,* who is Jesus Christ. And in these appellations concur ***ἰδιοποιία*** (*idiopoiía*), ***κοινοποίησις,*** and ***ὑπερύψωμα, καὶ ὄνομα ὑπὲρ πᾶν ὄνομα*** — that is, *the property of the natures; the communion of the offices; and the highest sublimity, or the name above every name,* which is given to Christ, *not according to the divinity* (according to which He *always had and has* the name above every name), *but according to the human nature* ***μετὰ τὴν ἐνανθρώπησιν,*** as also it is said: *"All power is given to me in heaven and on earth."* ***εἰς τὴν ἐνανθρώπησιν, καὶ οὐκ εἰς τὴν θεότητα ταῦτα δὲ νοοῦμεν,*** says **Basil,** as **Oecumenius** on Phil. 2 rehearses. For *that Jesus who suffered under Pontius Pilate is Lord of all, King and God and Judge, having received from Him who is God of all the power,* as ***Irenaeus*** says.¹²⁶
+
+***
+
+### The Eight Infallible Testimonies of the Eternal Divinity of the Son of God
+
+**1. The very voice of God, or the testimonies of the sacred Scripture.**
+- John 1: ***ὁ Λόγος erat Deus.***
+- Jer. 23:33: ***Iehova iustitia nostra.***
+- Ps. 68: ***Iehova nomen illi.***
+- Num. 14: *"Iehova said: They tempted me now ten times."*
+- 1 Cor. 10: *"They tempted Christ, and perished by the serpents."* **Christ therefore is that Iehova, the eternal and Almighty God.**
+- Rom. 9: *"Christ is over all, God blessed forever."*
+
+**Proclus, Bishop of Constantinople** (A.D. 438), says: *"Christ, that He may show that according to the truth God has been made man, says 'Of the Jews according to the flesh' — so that He may insinuate that He does not exist from that time when He is incarnate. 'Who is,' that He may declare Himself to be without beginning. 'Over all,' that He may pronounce all creatures His Lord. 'God' — that being deceived by the sufferings and appearance, we may not deny His incorruptible nature. 'Blessed,' that we may worship as Almighty, and not attack as a fellow-servant with calumnies. 'Forever,' that He may demonstrate that, having created all things by His word, He is to be celebrated with divine cult and honour eternally."*
+
+**2. The Father is from eternity Father; therefore the Son is from eternity Son.** This is the *nature of correlatives.* ***ἀπαύγασμα ἀπαυγάσματος αἰωνίου*** — *splendour of eternal splendour.* For it is impossible *to separate the one from the other* — that is, the Son from the Father, or the Father from the Son — *on account of the identity of the Deity.* Whence He Himself says: *"I and the Father are one. I am in the Father and the Father in me. He who sees me sees the Father also."* And nothing is *so stolid* as to say the Father *without generation,* and the Son *without a Father.* Whoever says *Father,* says not *Father simply,* but *Father of someone.* Whence **Athanasius** *contra Arianos* says: *"No one is a Father to himself; and who is a Son to himself? Father without Son can in no way be said. The Father always existing, it is necessary that the Son always exist."*
+
+**Prudentius,** *in Apotheosi:*
+
+> ***Nónne Patrem violas, dum Gnatum scire recusas?***
+> ***Quandoquidem non est Genitor, nisi Filius extet.***
+> ***Nec vocitare Patrem potis es, quem Germine fraudas.***
+
+**"Dost thou not do violence to the Father, while thou dost refuse to know the Son? — since He is not the Begetter unless the Son exists — nor canst thou call Him Father whom thou defraudest of His Offspring."**
+
+**3. Whatever is outside the Person of the Father, and has in itself the divine nature *σωματικῶς,* is a divine Person.** Such is the Son (Col. 2; John 1). Therefore *He is a peculiar divine Person,* ***μὴ ἐν ἑτέρῳ οὖσα,*** but *discreet from the Father,* as the Father Himself says: *"This is my beloved Son."*
+
+**4.** Scripture *discriminates the Sons of adoption from Christ the Son,* who is the *only-begotten and eternal Son of God by nature.* Heb. 13: *"Jesus Christ, yesterday and today, is the same, and for ages."* Rom. 8: *"You have received the spirit of the adoption of the sons of God."* Gal. 4; Eph. 1: *"He chose us into the adoption of the sons of God through Jesus Christ."* **Augustine** *De civitate Dei* 21.15: *"The Son of God, only by nature, on account of us in mercy was made the Son of man — that we, by nature the sons of men, might through Him by grace become the sons of God."*
+
+**5.** **The works of Christ** — as the work of *Creation,* which is *of God alone.* All things are constituted through the Son (John 1; Col. 1). Likewise, *to give the Holy Spirit* is of God alone. John 10: *"If you do not believe me, believe the works, that you may know and believe the Father is in me, and I in Him."* And hither pertain the causes above rehearsed, on account of which a *Mediator God* was necessary for us.
+
+**6.** *What the Father does, the Son also does* (John 8, 10): *creating, ruling, quickening, giving eternal life.* Therefore the Son is God, ***ὁμοούσιος*** with the Father. For *all things which the Father has are the Son's, except the cause;* and *all things which are the Son's are also the Holy Spirit's, except sonship — both eternal and that made in time in the human nativity* — as **Gregory the Theologian** to the Bishops of Egypt excellently writes.
+
+**7.** *The cult owed to Christ by Angels and men* testifies that Christ is not ***ψιλὸς ἄνθρωπος*** (*mere man*), or a mere creature, but *true and eternal God.* Christ is adored, God and man, by all the Angels (Heb. 1; Ps. 97). *"In the name of Jesus every knee shall bow"* (Phil. 2). *"We invoke the name of our Lord Jesus Christ"* (1 Cor. 1). *"He is the Lord thy God, and they shall adore Him"* (Ps. 45). *"He who does not honour the Son does not honour the Father"* (John 5). **Amphilochius** *ad Theodosium:* *"He who does not kiss the Son irritates the Father."* **Augustine:** ***"The Son prays for us as Priest; He prays in us as Head; He is prayed to by us as God."*** We pray *to Him, through Him, in Him, and with Him.*
+
+**8.** **The confession of the whole Church in all times, and the consolation of all the pious, and the certitude of confidence,** *can be none, except in faith in the Son of God, our God and Brother, Lord, Mediator, Saviour, Creator, Governor, Redeemer, Defender, sitting at the right of the Father, First-born or Lord of all creatures.*¹²⁷
+
+***
+
+### The Next Nicene Clause
+
+**In the Symbol follows:**
+
+> ***"Qui propter nos homines et propter nostram salutem descendit de caelis, et incarnatus est de Spiritu Sancto,"*** and so on.
+
+### The Seven-Part History of Christ's Humanity in Threefold Discrimen
+
+**The history of Christ's humanity has seven parts** in a *threefold discrimen,* of which **five are past:**
+
+1. *Conception and Nativity.*
+2. *Passion unto the burial.*
+3. *Descensus ad inferos.*
+4. *Resurrection.*
+5. *Ascension into the heavens.*
+
+**One is present:** *sitting in the heavens at the right of God.*
+
+**One is future:** *the advent for the universal judgement.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *Quid Sit Vnio Hypostatica* — What the Hypostatic Union Is
+
+### The Definition
+
+> ***Vnio hypostatica est actio Dei, in qua hypostasis τοῦ Λόγου, sive secunda persona divinitatis (id est, Filius Dei aeternus), in plenitudine temporis (Gal. 4 — when all times had been passed through, according to the promise) assumsit humanam naturam ex sempervirgine Maria, Spiritus Sancti operatione, sine peccato factus et natus homo, et illam humanam naturam integram et perfectam (anima rationali et corpore humano constantem) hac assumptione inseparabiliter et perpetuo propriam sibi fecit, et salva naturarum differentia, et salvis illarum essentialibus proprietatibus, unum ex copulatione duarum naturarum, divina et humana, ὑφιστάμενον constituit — ita ut unus Christus sit incarnatus Deus et homo, qui iam non solum divina natura constet (sicut ab aeterno ante incarnationem), sed divina et humana natura constituant unum Christum incarnatum.***
+
+**The hypostatic union is the action of God, in which the *hypostasis* of the Logos — that is, the second Person of the divinity, or the eternal Son of God — in the fullness of time (Gal. 4: when all the intervals had been passed through according to the promise) *assumed the human nature* out of the ever-virgin Mary, *by the operation of the Holy Spirit,* *without sin* being made and born a man; and this integral and perfect human nature (consisting of a rational soul and a human body) by this assumption *made His own inseparably and perpetually;* and — the *difference of the natures* being preserved, and their *essential properties* being preserved — from the copulation of the two natures, divine and human, *constituted one* ***ὑφιστάμενον*** — so that ***one Christ is God Incarnate and man,*** who now stands *not only of the divine nature* (as from eternity before the Incarnation), but *the divine and human natures constitute one Christ Incarnate.***
+
+In whom the two natures are not conjoined merely by *attingentia* — as a nail to a wheel, and a planet fixed in its own orb, or as a small stone by ***παράστασιν*** adheres to a rock — but so that ***the whole Christ is God and Man,*** and the *Logos assuming the human nature shines in it wholly,* and the *human nature, as if kindled to light, is united to the Word.*
+
+### Hugh and Augustine on the Union
+
+**Hugh [of St Victor]:** *"From the moment God assumed man, He assumed the whole — flesh, that is, and soul — that is, the nature of a man; not the person of a man, but a man into person. For that flesh and soul, before they were united to the Word in the Person, were not united to each other in the Person. One union was made to the one — of the Word, the flesh, and the soul — not first Word-flesh, nor first Word-soul, nor first soul-flesh, but simultaneously Word-soul-flesh. Nor did the Person begin to be Word when He began to be man, but so assumed the man that the man began to be in the Person — nor in another Person than that which was, that Person which received him. Thus the Word-Person took up a man, not a person but a nature, that *the One who took up and what He took up were one Person in the Trinity.*"*
+
+And these same words are also Augustine's, Tom. 7, *De bono perseverantiae.*¹²⁸
+
+### The Sayings Concerning This Union — John 1
+
+The sayings concerning this union: **John 1: *"Verbum caro factum est"*** (*"The Word was made Flesh"*).
+
+**Verbum** — ***ὁ Λόγος ὁ οὐσιώδης, οὐ ῥητός,*** as **Ignatius,** Bishop of Antioch, the disciple of John the Apostle, ordained by Peter as bishop, who *also saw Christ after the Resurrection,* and in old age was exposed to beasts — says. Therefore ***Verbum*** signifies *the Person.*
+
+**Caro** — that is, *man,* consisting of *soul and body,* and *taking up the human infirmities without sin.* ***Enosch,*** per that of Ps. 8: *"What is man, νοσερός, that wretched one who bears so many infirmities?"*
+
+***ἐγένετο*** (*He was made*) — *not by the conversion of nature into nature,* but *by the assumption of the humanity into the Person of the Logos.*
+
+### The Patristic Explanations of "Verbum caro factum est"
+
+**Athanasius** *ad Epictetum:* *"As in the Gospel it is said, 'And the Word was made flesh,' — not that the Word was turned into flesh, but that for us He assumed flesh — so also by Paul it is written: 'Christ was made a curse for us,' not that He Himself was made a curse or execration, but that on our behalf He undertook the malediction."*
+
+**Gregory the Theologian,** *ad Cledonium:* *"'The Word was made flesh' — not that the Lord was transmuted into flesh, but that made man He took up our sins and bore our languors."*
+
+**Chrysostom:** *"Lest by that which is said, 'the Word was made flesh,' you should improperly suspect the mutation of that incorruptible Nature, therefore it is added: *'And He dwelt among us.'* For what dwells is not the same as the dwelling, but different — different, I say, according to nature. But by union and coupling, one is God the Word made flesh — no confusion being made, no destruction of the natures,"* and so on.¹²⁹
+
+### Colossians 2:9 — *Somatikos*
+
+**Col. 2:** *"In Him dwells the whole plenitude of the divinity corporeally"* — ***σωματικῶς,*** that is, ***personaliter.***
+
+For ***σῶμα*** anciently is said to have been the *same as what today we name* ***πρόσωπον ἢ ὑφιστάμενον;*** thus *"tria σώματα"* — that is, *"three persons."* And ***Tertullian*** *contra Praxeam* calls the *body substance,* plainly improperly (as **Augustine** shows), naming *God as body,* and *the Logos as body,* and the *Spirit as body* — that is, *substance.*
+
+But Paul says *"the whole plenitude of the divinity"* — not that the three Persons assumed the human nature (since *only the Son took up flesh,* even if the Father and the Holy Spirit were not absent in majesty, which also filled the flesh of the Son, since they fill heaven and earth and creatures inferior to the flesh of Christ). But he calls it *"plenitude of the divinity,"* to *discern the Son from other blessed,* in whom are *particular gifts* (as in Moses, Elijah, John). But in Christ is the *substance which is the second Person of the divinity, Almighty, efficacious in others,* as John says: *"Of His plenitude we all have received."*
+
+**But He dwells indeed** *σωματικῶς* **in the assumed nature, as in a temple and His own dwelling.** For there is a *discrimen between the dweller and the dwelt-in or the dwelling.* ***ἔμεινεν ὃ ἦν, καὶ γέγονεν ὃ οὐκ ἦν*** — *"What He was remained, and what He was not He assumed, or was made,"* as **Justin** says. And the Logos is *everywhere* ***κατ᾿ οὐσίαν*** — *by essence* — *in the Father, and in all things,* but *not in the same mode.* But *in His own temple He is and dwells wholly* ***κατ᾿ ἀδιαίρετον,*** by an *eminent, peculiar, and exempt mode,* or one *distinct from the other modes of God's presence.*
+
+> ***ἐσαρκώθη ἅπας, καὶ μετὰ Πατρός ἐστιν ἅπας, καὶ πανταχοῦ ἐστιν ἅπας, μὴ περικλειόμενος ἐν σαρκὶ, ἀλλὰ σώματι περιγραπτὸς ὢν, θεότητι δὲ ἀπερίγραπτος*** — as antiquity spoke.¹³⁰
+
+**Athanasius** *De humanitate verbi:* ***"The Logos is not encompassed in the body; nor when present in the body is He absent elsewhere; nor when He moves it are other things deprived of His virtue, action, and providence. But — what is highest matter of admiration — all these things He Himself, since He is Logos, comprehends, and by no one is comprehended. And the Word is not tied in the body; but rather the body He contains in Himself — so that both wholly is He there and in all things exists, and outside the essences of things dwells, and rests in the Father alone."***
+
+**Gregory of Nyssen,** brother of Basil the Great, in the *Catechesis:* *"And no one has said that by the circumscription of the flesh, as by some vessel or receptacle, the infinite nature or the whole plenitude of the divinity is enclosed and contained."*
+
+**Augustine** *De incarnatione verbi* bk. 1, ch. 18: *"It is not to be thought that all the clarity and majesty of the Logos is enclosed within the cloister of a most-brief body, so that all the Word of God, and His wisdom, and substantial truth, or life, either has been divulsed from the Father, or has been coerced and circumscribed within the shortness of that body, and is therefore thought nowhere else to have operated"* — which words of Augustine (which are to be read with great judgement and pious zeal, if indeed they are Augustine's; for the erudite doubt of the author, and judge that a certain studious writer *exercising his stylus* wrote these things rather than that they proceeded from Augustine, both from the *harshness of the discourse* and from certain *admixtures* not at all Augustinian-tasting, and from the *repeated allegation of Augustine's commentary on Genesis* — so that the author seems to have *affected to be seen as Augustine* — as **Erasmus** with grave causes judges) — willingly, and therefore, I allege, since today they are *cunningly cited* by those who *strive to take away from the human nature in Christ every divine majesty.*
+
+**Why should Augustine say so?** There are two causes (let us set these words to be Augustine's):
+
+**The prior cause** is what he himself in these very words rehearses: *"So great ought the confession of piety to be, that neither may anything of the deity in Christ be believed to have been wanting, nor may any division at all from the paternal substance (which is everywhere) be thought made."* Therefore *the Logos did not cease to be in the Father, nor departed from the Father, when He was made man,* but *by one and the same mode from eternity always in the Father, with the Father, and near the Father is ὁμοούσιος to the Father,* even if He had *never assumed the human nature* — in which His divinity and majesty (or essence) is *not enclosed* as though *therefore divided from the Father,* lying *hidden enclosed in the narrows of the human body,* circumscribed by certain dimensions.
+
+**The posterior cause** is that which is indicated *in the modes of God's presence.* Otherwise the *whole divinity is present to all created things everywhere;* otherwise *in the Angels and the blessed;* otherwise *in believers in this life;* and *far otherwise* the divinity — indeed *the whole plenitude of the divinity of the Logos is and dwells in Christ the Man,* or *in the assumed human nature,* as above concerning the *grades of God's presence* was said — namely, by *personal union,* or (as Paul says) ***σωματικῶς.*** *"Let no one think"* (says **Augustine** bk. 2 *De Incarnatione Filii* — let us set this too to be Augustine's) *"that we affirm that some part of the deity is in the Son, Christ, the remaining part elsewhere, or everywhere — a thing which they can sense who are ignorant of the nature of incorporeal and invisible substance. For it is impossible of the incorporeal that some division be made, which is in all things and fills all things."*
+
+**But in the assumed nature dwells the plenitude of the divinity, or the full divinity and the Logos** — that the assumed human nature (as **Irenaeus** bk. 3, ch. 18) *may receive and comprehend the whole Logos;* and (as **Justin** speaks) *the assumed temple may take the splendour of the whole light of the Sun of justice.* God indeed *wherever He is, is wholly in Himself.* But those in whom He dwells, since they do not take Him wholly — but of our Head the Apostle says: *"In Him dwells the whole plenitude of the divinity"* — not indeed ***κατ᾿ οὐσίαν*** (in which sense the above-cited sayings of Athanasius, Nyssen, and Augustine are to be understood), but ***σωματικῶς*** — that is, ***καθ᾿ ὑπόστασιν, personaliter.***¹³¹
+
+### The Fifteen Negative Modes — What the Union Is NOT
+
+There are *negative modes,* so far as it can be, to be considered, by which the *union of the divine and the human nature is denied,* so that to the *true mode of union* — in a certain way, as far as in this our infirmity according to Scripture is possible — we may arrive.
+
+**First:** the union is *not made* ***κατ᾿ οὐσίαν,*** according to the divine *essence* — as the Son is in the Father, per that: *"I and the Father are one,"* that is, one essence. And John 14: *"I in the Father, and the Father in me."* **Cyril** indeed *contra Nestorium* named it ***ἕνωσιν κατὰ οὐσίαν, or οὐσιωδῶς;*** but after the Chalcedonian synod, on account of the Eutychians, this form was disapproved and omitted.
+
+**Second:** it is not made ***ἕνωσις κατὰ πανταχηαρσίαν,*** according to universal presence, as God is in all things, or everywhere. For *God is in Christ far otherwise* than He is *everywhere.*
+
+**Third:** it is not made a union only ***ἡ μετοχὴν ἢ κοινωνίαν καὶ ἐνέργειάν τινα,*** as God is *in Angels and the blessed by society and efficacy,* as by some heat derived from the divine fire, which in Christ is *wholly.*
+
+**Fourth:** it is not made a union ***ἡ χάριν καὶ δῶρον πνεύματος,*** according to the *grace and gift of the Spirit,* as God is *in the saints in this life by the word and Spirit,* and indeed *separably.*
+
+**Fifth:** it is not made a union ***κατ᾿ εἰκόνα ἢ κατ᾿ εἶδος, ἢ σύμβολον,*** according to some *external species* — as God is in the *apparitions and visions of the Old Testament,* in the *burning bush,* likewise at the *Ark of the Covenant;* or as the Holy Spirit appeared *in the species of a dove* — not *incolumbated,* as the Son of God, the Logos, was *incarnated.*
+
+**Sixth:** it is not made a union ***τὸ μυστήριον συνδεθικόν,*** according to a *sacrament which is made from a pact* — as God is present at the *external symbols of the sacraments in use,* that is, in the *instituted action.* For thus Philip [Melanchthon] explains the *use,* namely as the *instituted action,* outside which such sacraments are not; but with the action completed, or with the instituted use completed, they either *pass away* or *are separated from that sacramental union.*
+
+**Seventh:** it is not made a union ***κατὰ σχέσιν,*** *according to habit,* ***ἡ συνάφειαν,*** *conjunction only* — as *two are of one order,* who are of the same dignity; or as *God is present to habitual gifts* which *formally inhere in others* on whom those gifts are conferred. **For this transfusion or effusion of the essential idiomata of the divine nature into the assumed humanity — or this physical and essential communication, or the identity and unity of the dignity, majesty, and authority of the Word and the flesh in Christ, or the equalisation of the natures and properties, and the equality of power gifted to Christ the Man separately from God and formally and subjectively according to Himself inhering — Nestorius feigned** (as Cyril shows). And *in our age* ***Schwenckfeld*** *renewed the same error, with the similitude added of heat effused from fire into water and inhering in the warmed water.*¹³²
+
+**Eighth:** it is not made a union ***κατὰ σάρκα,*** carnal, as spouses are one flesh.
+
+**Ninth:** it is not made a union ***ἡ μέραρ,*** according to part — as a part is in a whole, or as *Venice* is adjacent to a certain small particle of the great Ocean — but the *whole plenitude of the divinity dwells in Christ.*
+
+**Tenth:** it is not made a union ***προσθήκην ἢ παράστασιν καὶ παράθεσιν,*** by *apposition and attingentia* — such an *assistentia* as **Nestorius** feigned — as *feet are annexed to the remaining human body,* or as *two boards are compacted,* or as a *nail adheres to a certain part of the wheel,* or as the *body of the planet is affixed to a certain space of its own orbit.*
+
+**Eleventh:** it is not made a union ***κατὰ κρᾶσιν, ἢ σύγκρασιν,*** *by temperament and mixture,* as *many humours are mixed together.* The ancients indeed sometimes used the voice of *permixing,* and named it ***κρᾶσις καὶ μίξις,*** as we read in **Damascene** bk. 4, ch. 19. And **Cassian** *De Incarnatione* bk. 1 *ad Leonem* says: *"He was incarnate, and mixed in truth, without diminution and corruption of Himself. God, by the infusion of His power mercifully, was mixed with the human nature, and not the human nature mixed with the divine"* — which words **Theodoret** also cites in Dialogue 2 from **Hilary:** ***"Christ God is contained, non contained; penetrating, not penetrated; filling, not fillable; everywhere at once whole and passing through the whole, by the infusion of His power as merciful, was mixed with the human nature; but the human nature was not mixed with the divine."*** And **Gregory the Theologian** exclaims: ***"O new mixture, O admirable temperament!"*** **Augustine** calls it a *commerce.* And **Prudentius** *contra Patripassianos* used the verb *"to temper and to admix,"* saying of the Father:
+
+> ***Qui se formam hominis non induit, et Deitatis***
+> ***Immensum assumto non temperat ore, modóve:***
+> ***Vis intacta Patris non admiscenda caducis.***
+
+By these voices of *mixing, tempering, and communicating,* the ancients — Tertullian, Epiphanius, and others — willed to express *the true and personal union of the Word and the flesh.* But *on account of Eutyches's error,* these vocables afterwards were corrected and omitted, lest a *confusion of the natures* be thought of. Whence **Cyril** says: *"We do not define a mixture, confusion, or temperament of His substance made to the flesh, but we say — to flesh having a rational soul was united the Word, but beyond mind and ineffably, as He alone knew."* And **Rusticus the Deacon,** *De fide Chalcedonensis Concilii,* in the dialogue of orthodox and heretic, says: *"The name of commixtion also some of the saints have set down. But since thou dost reverently say this, lest by chance some refusion is thought to have happened, in the manner of those which are mixed liquid to each other, I liberate thee from such fears. For the saints, as we too, never abused the word — striving to signify the highest unition made of those which came together to each other."*
+
+**Twelfth:** it is not made a union ***ἡ φυρμὸν ἢ φύρσιν ἢ ἀνάχυσιν ἢ μετάστασιν, καὶ σύγχυσιν,*** by *the mixture, refusion, transit, and confusion* of the moist and dry; or by *coacervation,* ***ἡ κατ᾿ ἐπισώρευσιν;*** or by *conversion,* ***μεταβολήν, τρόπην, ἀνάλυσιν, καὶ μετάλλαξιν,*** which is *the destruction of the other nature;* or by *corruption,* ***διαφθοράν, καὶ ἀναίρεσιν,*** *abolition.*
+
+**Thirteenth:** it is not made a union ***κατὰ περιγραφὴν τοπικήν,*** according to *local circumscription and dimension* — as *two other things are conjoined in a certain place* so that they *nowhere else can be.*
+
+**Fourteenth:** it is not made a union ***ἡ φύσιν,*** *by nature,* or according to the *regular order of nature,* or according to the *rules and physical circumstances* — although the assumed human nature *is and remains true human nature in Christ,* endowed with its own *natural properties.* **Cyril** indeed against Nestorius said ***ἑνότητα καὶ φύσιν φυσικὴν ἕνωσιν;*** but on account of the Eutychians *abusing this form,* after the Chalcedonian synod it was omitted.
+
+**Fifteenth:** it is not made a union ***ἡ δόκησιν,*** *putatively,* as **Menander, Saturninus, Basilides, Carpocrates, Marcion, Apelles, Manes, the Manichaeans,** and the like *feigned.* For *truly the Logos assumed the human nature — the human body, the rational soul.*¹³³
+
+### Augustine's Rule; Justin's Admonition
+
+Rightly ***Augustine*** says: *"Of God it can be more easily cogitated and said what He is not, than what He is."* The same indeed happens in this explication — in which of that union it can more easily be shown *how it was not made* than *how it was made.* The chief modes having been rehearsed by which the union was *not* made — and to which others could add several others, and even conjoin some and rehearse as one — now *how the union was made* would need to be shown — if it were not rather to be *received in silence and with firm faith,* this doctrine of the *hypostatic union of the two natures in Christ,* than that we can *understand by mind* and *say by tongue.*
+
+**Justin** (excellently and piously): *"There is no reason why anyone should inquire of me the mode of this unition. For I shall not be ashamed to confess ignorance; rather I shall glory that I believe the arcane and ineffable things — the* ***ἄρρητα*** *— to which I have been initiated, which neither reason nor mind is able to perceive. Wherefore beware, lest anything manifest of these things thou wish to learn either from me or from another. But if it pleases to know these things which we have perceived, I shall not conceal them from the sons of the Church — with this warning only, that those treating this exposition have need of *supernal favour and help,* that they may in some way be made partakers of their own vow."*
+
+### The Positive Mode — *σωματικῶς*
+
+**Paul** expresses the mode of the union by the voice ***σωματικῶς.*** *"In Christ,"* he says, *"dwells"* (מן — as the Syriac renders, that is, *firmly and immovably has stood erect and confirmed*) *"the whole plenitude"* (מְלוֹא — which word *excludes nothing,* as in that: *"Of His plenitude we all have received,"* and elsewhere its use is: *"The earth is the Lord's, and the plenitude thereof"* — that is, whatever is in the earth) *"of the deity — corporeally."*
+
+**This word,** ***σωματικῶς,*** antiquity first *explicated by the voice* ***οὐσιωδῶς*** — *essentially,* or ***κατ᾿ οὐσίαν*** — as **Cyril** did, and as from **Oecumenius** stands — plainly willing to show the *most-close union of the Word and the flesh.* But on account of the Eutychians abusing the vocable *essence* to the *confusion or conversion of the natures,* this *essence-appellation* was omitted; and *after the Chalcedonian synod* was retained the diction ***ὑποστατικῶς ἢ καθ᾿ ὑπόστασιν, personaliter*** — whose use today is in the Church of Christ.
+
+The ancients also used this explication: ***σωματικῶς*** — that is, ***σεσαρκωμένως, εἴτε ξυσαρκῶς,*** *as if in-incarnate-assumed-flesh, that the dweller does not depart, but is incarnate, having one ὑπόστασιν with His own flesh, even if there are two natures.*
+
+**Augustine,** Ep. 57, explains *"corporeally,"* saying: *"Not therefore corporeally because God is corporeal, but either He used a transferred word — as though in a temple made-by-hands He had dwelt not corporeally but shadow-fully, that is, by pre-figuring signs* (for all those observations He calls *shadows of future things,* even by the transferred vocable itself: *"The highest God does not dwell in temples made-by-hands,"* Acts 21); *or certainly it is said corporeally, because also in Christ's body, which He assumed from the Virgin, as in a temple God dwells.* Hence it is that to the Jews seeking a sign, when He had said, *"Destroy this temple, and in three days I shall raise it up"* — the Evangelist consequently expounding what this was, says: *"But He said this of the temple of His body."*"* Thus far Augustine.
+
+The Syriac also renders ***σωματικῶς*** as ת י א נ מ ש ו ג — *corporeally,* as in *His own body, full of light and virtue, and of divine operations,* or *of a celestial shower of all gifts.*
+
+### The Ecclesiastical Writers' Other Vocables
+
+The ecclesiastical writers used also other vocables:
+
+- **Ignatius** calls it ***ἐνανθρώπησιν, ἐνσωμάτωσιν,*** and ***οἰκονομίαν,*** *by which in the Church, through the Logos made flesh, all things are dispensed and administered.*
+- **Irenaeus:** ***σάρκωσιν, ἐνσάρκωσιν, χώρησιν.***
+- **Athanasius:** ***κοινωνίαν*** — but *not gratuitous,* such as is in Angels and the blessed, but ***ὑποστατικήν.***
+- Just as **Justin:** ***συνάφειαν καὶ σύζευξιν*** — that is, *conjunction and connection,* namely *hypostatic.*
+- **Damascene** (from Irenaeus): ***περιχώρησιν*** — *immigration and penetration,* by which *one totally permeates and embraces another,* as *soul-body* — and which is ***ἀσύγχυτος καὶ ἀμετάβλητος*** (*without confusion and change*), and simultaneously ***ὑπὲρ τὴν σύνθεσιν καὶ ὑπὲρ τὴν διάλυσιν*** (*beyond composition and beyond dissolution*).¹³⁴
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Endnotes
 
 ***Finis***
@@ -2804,3 +3065,21 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **¹²⁴** *Beza on communicatio idiomatum vs ἰδιοποιΐα.* The **Beza** reference is to Theodore Beza's *Tractationes Theologicae* I (Geneva 1570) on the mode of Christological predication — where Beza distinguishes what is said of Christ *"simply and truly with respect to the flesh, not of the deity"* from what is said *"by the communicatio idiomatum properly so-called."* Selnecker's citation of Beza here — a *Reformed* voice enrolled *positively* to distinguish the two kinds of Christological predication — is a rare rhetorical move which shows that even the Reformed party recognises the distinction Selnecker is making; but Selnecker's own conclusion pushes further than Beza's, into the *genus maiestaticum* proper. This is the exact hinge of the mid-1570s Kryptocalvinist controversy that the whole *Symbolorum Exegesis* is aimed at.
 
 **¹²⁵** *Chrysostom — Christ's words are infallible.* The reference is a stock **Chrysostom** epigram which recurs in the *Homiliae in Matthaeum* (Hom. 82, PG 58:743; and elsewhere) — the pastoral-catechetical Wittenberg-favourite that stands at the head of the Real-Presence exegesis of the words of institution. Selnecker's use of it here as the closing epigram of the Article II prolegomena signals the pivot into the Nicene-clause exegesis of the next tranche: the words which are infallible are the *words which the Church confesses in her Symbol,* not the reasoning by which the philosophers or the Kryptocalvinists would qualify them.
+
+**¹²⁶** *The Six Appellations of the Son — the Chart of Three Stages, and the Fourfold Function.* Selnecker's six-fold enumeration (Filius / Unigenitus / Primogenitus / Λόγος / Εἰκών / ἀπαύγασμα / Iesus Christus) is drawn substantially from **Chemnitz's *De duabus naturis in Christo*** ch. II (1570 edition), which had systematised the Wittenberg-Christological appellation-catalogue. The **Hilary of Poitiers,** *De Trinitate* IX.6-8 (PL 10:284ff.) *tempori coaptata* rule — that Christological predications must be *time-adapted* to distinguish the *ante-hominem* / *hominem-et-Deum* / *post-hominem-et-Deum* stages — became the classical Chalcedonian-Lutheran hermeneutical instrument for reading Scripture Christologically. The three-stage chart (ante ἐνανθρώπησιν / in Incarnation-and-Humiliation / in Glorification) is Selnecker's own didactic summation. The concurrence of ***ἰδιοποιία / κοινοποίησις / ὑπερύψωμα καὶ ὄνομα ὑπὲρ πᾶν ὄνομα*** in the *Iesus Christus* appellation anticipates T5's Communicatio Idiomatum proper — the three concurring modes in the single name of the incarnate Person.
+
+**¹²⁷** *The Eight Infallible Testimonies of the Eternal Divinity of the Son.* Selnecker's eight-fold catalogue — Scripture (John 1 + Jer 23 + Ps 68 + Num 14 vs 1 Cor 10 + Rom 9); Father-Son correlativity from eternity (Athanasius contra Arianos + Prudentius Apotheosis); divine nature σωματικῶς = divine Person (Col 2 + John 1); adoption vs natural sonship discrimen (Augustine De civ Dei 21.15); works of creation and Spirit-giving (John 10 + 1); Nazianzen's rule on all Father's = Son's except cause; cult (Amphilochius ad Theodosium + Augustine "orat pro nobis ut sacerdos"); whole Church's confession + all pious consolation — is the standard Wittenberg-orthodox demonstration-catalogue for the eternal deity of the Son. The **Proclus of Constantinople** (438) exegesis of Rom. 9:5 that Selnecker cites — with its seven-fold parsing of each clause of the verse — is preserved in Proclus's *Tomus ad Armenios* (PG 65:855ff.) and became a classical pro-Nicene rhetorical exercise reprinted throughout the sixteenth-century patristic anthologies.
+
+**¹²⁸** *Hugh of St Victor / Augustine on the personal union.* The **Hugh** citation is from *De sacramentis christianae fidei* II.1.9-10 (PL 176:390-395), the classical medieval treatment of the assumption of the *nature* of a man, not the *person* of a man. The doubled attribution (*"these same words are also Augustine's, De bono perseverantiae"*) reflects the medieval scholastic doubling — Peter Lombard in *Sentences* III.5.2 cites the exact same formulation from Augustine's *De bono perseverantiae* 15.38 (PL 45:1017ff.), which was Hugh's own source. Selnecker's move here is to display the *unbroken continuity* from Augustine through Hugh into the Wittenberg-Lutheran Christology: the personal union assumes *a man into person,* not *a person.*
+
+**¹²⁹** *John 1:14 and the patristic explications.* The three patristic explanations Selnecker gathers on John 1:14 — that ***ἐγένετο*** does *not* mean *conversion* of divine nature into flesh — are the classical Chalcedonian *ἀσύγχυτος* (unconfused) exposition: **Athanasius,** *Epistula ad Epictetum* (PG 26:1049ff.) with the parallel from 2 Cor. 5:21 "made a curse for us"; **Gregory Nazianzen,** *Epistula* 101 *ad Cledonium* (PG 37:180); and **Chrysostom,** *In Iohannem Homilia* 11 (PG 59:79). The whole tribunal is drawn substantially from Chemnitz's *De duabus naturis* ch. VI. The **Ignatius of Antioch** biographical note (John's disciple, ordained by Peter, saw Christ after Resurrection, aged given to beasts) — with the Greek epigram ***ὁ Λόγος ὁ οὐσιώδης, οὐ ῥητός*** — is drawn from the standard patristic *Vita Ignatii* preserved in the sixteenth-century Ignatian editions (Faber Stapulensis, 1498; Bishop Ussher's 1644 critical edition still lay in the future).
+
+**¹³⁰** *"ἐμεινεν ὃ ἦν καὶ γέγονεν ὃ οὐκ ἦν" — Justin.* Selnecker's Greek epigram — *"What He was remained, and what He was not He became"* — is a stock patristic Christological formula found under Justin's name in the *De Recta in Deum Fide* (a fifth-century pseudo-Justinian text printed among Justin's works in the Reformation-era editions) and elsewhere in the Greek Fathers. The whole point Selnecker builds on it — that the Logos is *κατ᾿ οὐσίαν* everywhere (in the Father and in all things), but *in His own temple wholly κατ᾿ ἀδιαίρετον by an eminent, peculiar, exempt mode* — is the Chalcedonian-Lutheran distinction between *God's universal presence* and the *hypostatic mode of God's presence in the assumed human nature.* This anticipates T6 (Ubiquity) at the vocabulary level.
+
+**¹³¹** *Athanasius / Nyssen / (pseudo-)Augustine on the plenitude and the divisibility question.* The trio of patristic voices Selnecker enrolls here — **Athanasius** *De humanitate verbi* (variously identified with the *De Incarnatione Verbi* passage at ch. 17, PG 25:125-128); **Gregory of Nyssen** *Catechesis magna* (PG 45:65-68); and the pseudo-Augustinian *De incarnatione verbi* I.18 (PL 40:1187ff.) — is drawn from Chemnitz's *De duabus naturis* ch. IX. Selnecker's careful treatment of the pseudo-Augustinian attribution — with **Erasmus's** *censura* preserving the doubt but leaving the substance to be quoted anyway ("*if these words are Augustine's*") — is a fine example of humanist-Wittenberg critical technique: preserve the doctrinal content without over-claiming the attribution. The distinction *κατ᾿ οὐσίαν* / *σωματικῶς* that Selnecker draws from this cluster is directly foundational for FC SD VIII: the divine essence is not *divisible* (against Nestorian *quaternity*), but the *hypostatic-personal* mode of dwelling in the assumed nature is *sui generis* — differing from the *modes of God's ubiquity, the modes in Angels/blessed, and the modes in believers.*
+
+**¹³²** *Nestorius's error revived by Schwenckfeld.* **Caspar Schwenckfeld** (1489–1561), the Silesian mystic and Radical Reformer whose Christology denied the *created* character of Christ's glorified human nature — teaching that the *humanity of the risen Christ has been elevated into a substantial divinisation* — is here diagnostically identified as *renewing Nestorius's error* under a different label. Selnecker's *heat-and-water similitude* — that Schwenckfeld added a similitude of *heat effused from fire into water* inhering *in the water* — is a specific reference to Schwenckfeld's *Bekenntnis vom Herrlichen Wesen der Rechten Menschheit Christi* (1547–1553). Chemnitz's *De duabus naturis* had earlier singled out Schwenckfeld as the *mirror-image* of the Kryptocalvinists: they take away too little from the human nature, Schwenckfeld gives too much to it — but both alike depart from the Chalcedonian *unconfused-and-undivided* rule.
+
+**¹³³** *The Fifteen Negative Modes of Union.* Selnecker's fifteen-fold catalogue of what the personal union is *not* is drawn directly from **Chemnitz's *De duabus naturis*** ch. VIII, which had systematised the whole patristic-scholastic tradition of negative Christological definition. The heretical roster at mode 15 (**Menander, Saturninus, Basilides, Carpocrates, Marcion, Apelles, Manes, Manichaeans**) is Chemnitz's standard *sixteenth-century patristic-heresy catalogue* drawn substantially from **Epiphanius's *Panarion*** and from **Irenaeus's *Adversus Haereses*** book I. The mid-catalogue references to **Damascene** (*De fide orthodoxa* IV.19), **Cassian** (*De Incarnatione* I *ad Leonem,* PL 50:9ff.), **Hilary** (*De Trinitate* IX.6), **Cyril,** and **Rusticus the Deacon** (*Contra Acephalos disputatio,* PL 67:1167ff.) are all patristic loci where the earlier vocabulary of *mixture, temperament, and permixture* had been used and were later either qualified or omitted after the Eutychian abuse. The catalogue as a whole exemplifies the Wittenberg-orthodox technique of *lex negativa Christologica:* the true mode of the union is best defined by what it excludes.
+
+**¹³⁴** *The positive-mode σωματικῶς and the ancient vocables — Ignatius, Irenaeus, Athanasius, Justin, Damascene.* Selnecker's positive-mode exposition — that Paul's σωματικῶς at Col. 2:9 was first explicated by antiquity through οὐσιωδῶς (Cyril) but after the Chalcedonian reception was retained as ὑποστατικῶς ἢ καθ᾿ ὑπόστασιν (personaliter) — traces the actual sixteenth-century patristic-critical history of the Chalcedonian vocabulary. The Ignatian ἐνανθρώπησιν / ἐνσωμάτωσιν / οἰκονομίαν vocables come from the pseudo-Ignatian *Epistulae* in the mid-sixteenth-century recension (Vairlenius 1546; Whitaker 1607); Irenaeus's σάρκωσιν / ἐνσάρκωσιν from *Adversus Haereses* III.19; Athanasius's ὑποστατικὴν κοινωνίαν from *Contra Apollinarium* II.13 (PG 26:1156); Justin's συνάφειαν καὶ σύζευξιν from the *Dialogue with Trypho* 100 and elsewhere; and Damascene's περιχώρησιν *ex Irenaeo* from *De fide orthodoxa* III.4 — the great locus for the mature Chalcedonian doctrine of the *mutual interpenetration* of the two natures *without confusion and without change,* and simultaneously *beyond composition and beyond dissolution.* The whole vocable-catalogue is the direct patristic pre-history of the *genus maiestaticum* doctrine that will occupy T5 in extenso.
