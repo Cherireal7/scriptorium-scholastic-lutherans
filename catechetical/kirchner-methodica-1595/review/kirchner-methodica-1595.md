@@ -10644,4 +10644,206 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-*[Locus XXXI De Poenitentia Part 1 closes (Q1–Q12 + OBIECTIONES I–II on contritio): vocabulum poenitentiae 2-fold, quid est poenitere, 2 partes (contritio + fides per Augustana art 11), 3-part division tolerable but new obedience is fructus not pars, contritio definition, why God requires, OBIECTIONES ignoto dolor + contraria, who begins, means, where felt, Ps 38 six proprietates, why God contereth, can heart present absolute contritio [no — Christ alone bore that]. Part 2 (fides + duplex poenitentia + iterata poenitentia + OBIECTIONES on Malachias/Heb 6/Esau + fructus + what should move) follows in T86. 661 top-level Q + 388 Obj rendered so far.]*
+## Question 13. What is faith?
+
+**What is faith?**
+
+**A true and undoubted confidence of the heart, judging with certainty that God is propitious to thee, will not impute sins to thee unto condemnation, but on account of Christ freely will pardon — although by thy own merit he might damn thee unto death. For the wages of sin is death, Rom. 6.**
+
+— ❦ —
+
+## Question 14. Wherefore is it necessary that faith of this kind accede to penitence?
+
+**Wherefore is it necessary that faith of this kind accede to penitence?**
+
+**Because unless this consolation accede — that God on account of Christ from mere mercy freely will pardon sins — no creature can sustain and bear the terrors and griefs from the sense of the divine wrath against sin: unless faith in Christ acceded, contrition would quickly swallow up a man. Whence Ps. 69 saith**: *"Save me, O God, for the waters are entered up to my soul,"* etc. **Ps. 88:16–17**: *"Humbled I am and troubled, upon me thy wrath hath crossed and thy terrors have troubled me,"* etc.
+
+**The rest which here of faith could be said, are treated above in the Locus of Faith.**
+
+— ❦ —
+
+## Question 15. How many kinds of penitence are there?
+
+**How many kinds of penitence are there?**
+
+**Twofold: One true and salutary, the other hypocritical and false — Ahab, 3 Kings [1 Kings] 21:27, simulateth penitence, yet doth not true penitence.**
+
+— ❦ —
+
+## Question 16. What is the difference of true and hypocritical penitence?
+
+**What is the difference of true and hypocritical penitence?**
+
+**I. True penitence seriously from the acknowledgment of sin standeth in awe of the wrath of God: But where the heart doth not sense the wrath of God, but secure resteth, there is no true penitence.**
+
+**II. In true penitence the heart raiseth itself up by the promise of the Gospel concerning Christ, sustaineth and consoleth itself by the grace of God in Christ offered: But where the heart looketh not to the gratuitous mercy of God, embraceth not the promise of the Gospel, and by that consoleth itself not, there is no true faith — but either security or desperation.**
+
+**III. True penitence the worthy fruits of penitence do follow: which if they follow not, the penitence is not true, but hypocritical.**
+
+— ❦ —
+
+## Question 17. Whence is true penitence?
+
+**Whence is true penitence?**
+
+**From God himself**: for **he breaketh hearts, woundeth and healeth, consoleth hearts — Job 6:9–10, Acts 16:14: he himself opened the heart to attend to those things which were said. He alone converteth, Jer. 31:16, Ps. 68:22**: *"I will convert from Bashan."*
+
+**The same also teach the examples of Adam and Eve, of David, Manasseh, Peter, Paul, of the thief on the cross,** etc. **For true penitence is not the work of man or of human choice or will, but of God.**
+
+— ❦ —
+
+## Question 18. If therefore it is not in my powers to do penitence, wherefore doth Scripture say: "Do penitence"?
+
+**If therefore it is not in my powers to do penitence, wherefore doth Scripture say: "Do penitence"?**
+
+**From precept to being-able the consequence proceedeth not.** For **Scripture speaketh not thus, that by thy own powers thou canst do true penitence — but leadeth thee unto the acknowledgment of thy misery and infirmity, that from the Lord, and not from thyself, thou mayest acknowledge to be the true conversion of thee, and to the Lord, and not to thy own powers, may ascribe the glory of conversion — saying, "Convert me and I shall be converted, for thou art the Lord my God, Jer. 31:18."**
+
+— ❦ —
+
+## Question 19. Shall I remain then in delicts, since I cannot from my own powers do penitence?
+
+**Shall I remain then in delicts, since I cannot from my own powers do penitence?**
+
+**This thou oughtest not to do: but to approach the temple, to hear sermons: for there God willeth to touch and open thy heart, that thou mayest acknowledge sins, there he willeth to convert thee to himself. Just as Acts 16:14, he opened the heart of Lydia, to attend to those things which were spoken by Paul.**
+
+— ❦ —
+
+## Question 20. By what means doth God lead us unto penitence?
+
+**By what means doth God lead us unto penitence?** [*[T. 7, p. 290*]*]
+
+**By the Law and by the Gospel — through the Law he worketh contrition or the acknowledgment of sin. Rom. 3:20**: *"Through the Law is the knowledge of sin."*
+
+**Through the Gospel truly faith in Christ. Gal. 3:2**: *"From the hearing of faith ye have received the Spirit,"* etc.
+
+— ❦ —
+
+## Question 21. In what doth God work penitence and conversion?
+
+**In what doth God work penitence and conversion?**
+
+**Respondeo**: **In the heart of man, Ezek. 36:26**: *"I will give to you a new heart, and a new Spirit will I place in the midst of you, and I will take away the stony heart from your flesh, and I will give to you a heart of flesh."*
+
+**The Publican, Luke 18, when God had inwardly touched his heart, striketh his breast, saying**: *"God be propitious to me, a wretched sinner."* **Ps. 51**: *"A contrite and humbled heart thou wilt not despise, O God."* **By means nevertheless God worketh in human hearts, not without means — as the Enthusiasts feign.**
+
+— ❦ —
+
+## Question 22. Is penitence therefore to be deferred to the article of death?
+
+**Is penitence therefore to be deferred to the article of death?** [*[T. 7, p. 620*]*]
+
+**By no means: For today if ye shall have heard his voice, harden not your hearts, Ps. 95:8; Heb. 3:7.**
+
+— ❦ —
+
+## Question 23. Is there a place of penitence left in the future age, or in the other life?
+
+**Is there a place of penitence left in the future age, or in the other life?**
+
+**By no means: as this example of the rich man, Luke 16, teacheth: And truly saith Cyprian**: *"When one shall have departed from hence, no place of penitence is. Here life is either lost or retained,"* etc.
+
+— ❦ —
+
+## Question 24. Is it so, that when after conversion I am again fallen into sin, a place of penitence anew is left, and is iterated penitence salutary?
+
+**Is it so, that when after conversion I am again fallen into sin, a place of penitence anew is left, and is iterated penitence salutary?**
+
+**In the highest degree: only that it be true penitence: For therefore Christ, Matt. 18:22, saith**: *"I say not to thee unto seven times,"* etc. **Gal. 6:1**: *"If a man shall be overtaken in any delict, do ye of such a kind instruct him in the spirit of lenity, considering thyself lest thou also be tempted."* **Ezek. 18, 33:11**: *"I live, saith the Lord God: I will not the death of the impious, but that the impious be converted from his way and live."* **1 John 2:1**: *"My little sons, these things I write to you, that ye sin not: But if any also shall have sinned, an advocate we have with the Father, Jesus Christ the just, and he is a propitiation for our sins, not for our own only, but also for those of the whole world."*
+
+**Erroneous therefore is the sentence of the Novatians, who denied penitence to those fallen after Baptism.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **Malach. 3 it is said**: *"I am God and change not."* ***Ergo* he is not moved by our penitence.**
+
+**Respondeo**: **The saying of Malachi speaketh of the truth of the divine promises which are firm in Christ**: since therefore **he hath promised, that he would receive those doing penitence, and their sins on account of Christ pardon — most certain it is that by our penitence he is moved**. And **how would he not be moved, since he hath sworn saying**: *"I live, I will not the death of the sinner, but that he be converted and live."*
+
+— ❦ —
+
+### Objection II. **Heb. 6**: *"Impossible it is those who were once illuminated, and again have fallen, to be renewed by penitence."* **And cap. 10**: *"To those sinning voluntarily, is not left for sins any sacrifice."* ***Ergo* to those lapsed after Baptism sins are not pardoned.**
+
+**Respondeo**: **It is a fallacy from a saying secundum quid: These sayings are to be taken not of all without distinction, but of blasphemers and those persevering in sins unto the end without penitence.** For **such blasphemers, who trample on the blood of Christ, and afflict the Spirit of grace with contumely, are not curable — but admonished and convicted, they become more rabid, and in that thing imitate their father the Devil**. For **as the Devil by hatred of God accumulates blasphemies: So the blasphemous men cease not to pollute themselves with crimes, until they fall into the hands of the living and punishing God**.
+
+— ❦ —
+
+### Objection III. **Heb. 12: Esau found no place of penitence. *Ergo* the penitent are not received into grace.**
+
+**Respondeo**: **Distinction must be made between true and hypocritical penitence. Esau had penitence of penalty — that is, he himself grieved that he had lost the primogeniture, etc. — but he had not penitence of sin — that is, he grieved not that he had offended God: he said not, "I feel that I have sinned, I will willingly be without the primogeniture, only let God forgive me this sin" — this would have been true penitence, wherewith he had been solicitous of placating God on account of the sin committed. For true penitence (as D. Luther speaketh) looketh at the wrath of God on account of sins, when he desireth him to be placated. Of these things nothing is heard from Esau, he hath penitence of penalty, not of sin. Therefore he findeth not penitence of penalty, because he seeketh not penitence of sin — but is pertinacious in sin.** [*[Gen. 27, T. 3, p. 66, 159*]*]
+
+— ❦ —
+
+## Question 25. Who then are the fruits of true penitence?
+
+**Who then are the fruits of true penitence?**
+
+**First: good works or new obedience — which comprehendeth the firstfruits of a new life toward God and neighbour: Item, the firstfruits of the crucifixion of the flesh with concupiscence and its desires, Rom. 6, 7, 8, Gal. Hither pertaineth what John saith**: *"Bring forth fruit worthy of penitence, Matt. 3."*
+
+**Then, from penitence this commodity also accedeth, that the regenerate and converted are rendered a temple and habitation of God, Isa. 57:15**: *"For thus saith the High One, dwelling in the sanctuary, and with the contrite and humble in Spirit — that he may quicken the Spirit of the humble, and quicken the heart of the contrite."* **Ps. 34:19**: *"Nigh is the Lord to those who are troubled in heart, and the humble in Spirit he shall save."*
+
+**Thirdly: It obtaineth also the mitigation of corporal penalties, Jer. 8**: *"If that nation shall have done penitence from its evil, I also shall do penitence upon the evil which I have thought that I would do to it."* **1 Cor. 11:31**: *"For if we ourselves judged ourselves, we should not indeed be judged."*
+
+— ❦ —
+
+## Question 26. But how dost thou understand what thou hast said — that penitence obtaineth mitigation of corporal penalties?
+
+**But how dost thou understand what thou hast said — that penitence obtaineth mitigation of corporal penalties?**
+
+**Thus: That God from grace to the faithful converted either mitigateth penalties, or by his propitious will even wholly taketh them away from them: not that penitence is a work through itself satisfying for sins, or meriting their remission: but that God with the converted through Christ is reconciled.**
+
+**And although sometimes after conversion with paternal chastisement he correcteth them, yet this he doth not, that by that chastisement satisfaction be made to himself for sins — but that their faith and invocation be proved and exercised, and together with the temptation and chastisement he giveth to them strength, that they may bear this chastisement.**
+
+— ❦ —
+
+## Question 27. What ought to move and impel a man to do penitence?
+
+**What ought to move and impel a man to do penitence?**
+
+**I. The mandate of God, Mark 1**: *"Do penitence"* — at which voice deservedly the hearts of all men ought to tremble and stand in awe.
+
+**II. The horrid comminations divine, and the tragic penalties of contumacious sinners. Luke 13:3**: *"Unless ye shall have done penitence, ye shall all likewise perish."* Hither pertain the examples of the Deluge, of Sodom, of Jerusalem.
+
+**III. Our extreme misery and utmost perils, in which we stick. For at every moment the impression of divine penalties threateneth us — and not for a moment even of our life are we certain.**
+
+**IV. Because after this life no place of penitence is left, Luke 16. The rich man cannot obtain even a droplet of water, wherewith to refresh his tongue.**
+
+**V. That God from grace offereth to us his grace beyond. Ezek. 33**: *"I live,"* etc. **Matt. 11**: *"Come to me all,"* etc.
+
+**VI. The examples of those who did penitence and were converted: the publicans, Matt. 9; Magdalene, Luke 7; Zacchaeus, Luke 19; the thief, Luke 22; Peter, Paul, and others.**
+
+— ❦ —
+
+## Question 28. Is the life of the faithful a perpetual and continual penitence?
+
+**Is the life of the faithful a perpetual and continual penitence?**
+
+**In the highest degree: Therefore John saith**: *"Bring forth fruit worthy of penitence"* — which unto the utmost of life it behoveth to extend. **In the flesh sins remain, which at every moment are to be acknowledged: concupiscence and evil desires shoot forth anew, which it behoveth to deplore and crucify. Rom. 2, 8, Gal. 5. And with God daily by prayers it must be insisted, that he impute them not to us. Ps. 32:6**: *"For this shall pray to thee every holy one in a fitting time."*
+
+— ❦ —
+
+## Question 29. Always, whensoever we do penitence, is access open to us into the grace of God?
+
+**Always, whensoever we do penitence, is access open to us into the grace of God?**
+
+**In the highest degree: only that with our whole heart we may return and be converted to the Lord: Ezek. 33:12**: *"The impiety of the impious shall not hurt him, on whatsoever day he shall be converted from his impiety."*
+
+— ❦ —
+
+## Question 30. What is to be judged of those who defer their penitence unto the utmost article of death?
+
+**What is to be judged of those who defer their penitence unto the utmost article of death?**
+
+**True penitence is never late, Luke 23:42–43. The thief in the agony of death is received by Christ into grace. But therefore in sins one must not remain, nor is penitence to be deferred, but the end maturely is to be looked to — lest thou be prevented by death before thou canst think of penitence: for although concerning no one, while he yet breatheth, is one to despair — yet on that account by this hope one must not sin, for such a persuasion can deceive: God indeed to all doing penitence and believing in Christ promiseth the remission of sins — yet to none hath he promised many years of life and license of sinning.** [*[T. 7, p. 155, 62*]*]
+
+— ❦ —
+
+## Question 31. Over what sins is penitence to be done?
+
+**Over what sins is penitence to be done?**
+
+**Over all: for all sins, whether small or great, are to be acknowledged, and pardon and remission of all is to be sought from God on account of Christ — no sin is to be excused, however light it may seem.**
+
+— ❦ —
+
+*[Locus XXXI De Poenitentia Part 2 closes (Q13–Q31 + OBIECTIONES I–III on Mal 3 / Heb 6 / Esau): fides definition, why must accompany, duplex poenitentia + 3 discrimen, whence poenitentia [from God], Scripture "agite poenitentiam" — precept-to-power no consequence, don't remain but hear sermons, media (Lex + Evangelium), in what worketh God [in corde against Enthusiasts], not deferred to death article, no place in future life, iterated poenitentia salutary contra Novatianos, OBIECTIONES Mal 3 immutabilis + Heb 6/10 impossible-renewal secundum quid + Esau Heb 12 poena non peccati, fructus 3-fold (nova obedientia + templum Dei Isa 57 + mitigation of poenae), how understand mitigation, 6 causes to move (mandate + comminations + our misery + no place after + God's gratia + examples), perpetua vita fidelium poenitentia, always open access, deferring to death, over which sins. Part 3 (Papist definition + 3-parts + not Sacrament + genesis of Papist doctrine + Papist contritio 5-fold + confessio 6-fold + OBIECTIONES I-II on confession + satisfactio + OBIECTIONES I-VII) follows in T87. 680 top-level Q + 391 Obj rendered so far.]*
