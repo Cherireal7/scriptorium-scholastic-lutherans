@@ -1324,7 +1324,604 @@ In the doctrine concerning the will of God, these things are chiefly to be consi
 
 **6.** That God is *not bound to secondary causes.*
 
-*(In the doctrine on the will of the rational creatures, other considerations follow — treated in the next tranche, together with the Fall, free will, sin, the Law, and the Law-Gospel discrimen that bridges to Article II.)*
+***
+
+### The Four Considerations on the Will of Rational Creatures
+
+In the doctrine on the will of the rational creatures, these things are considered:
+
+**1.** What sort of will was in the rational creatures *before the Fall,* and what sort even now yet remains integral in the *good Angels.*
+
+**2.** On the *causes of sin,* and what sort of will is *after the Fall* — first in the devils, then in men.
+
+**3.** What are the *grades of the doctrine of Free Will.*
+
+**4.** In what ways *freely and voluntarily acting things* differ from *naturally acting things.*
+
+Of these matters the studious must be admonished, that they may be able to judge and avoid the entangled questions and disputations of the *Stoics* and others, and the *absurdities.*
+
+### On God as Prime Mover, and the Discrimen of Wills
+
+**1.** Concerning God, therefore, the *prime mover and governor of all things,* it stands that He is *Creator and Preserver* of all — who constituted all creatures, and gave to the Angels and to men reason, mind, and will *congruent with His own will* — as was said in the doctrine on Creation and Providence.
+
+**2.** It is to be known that there is a *huge discrimen* between those things which *depend on God's will properly,* and those which *depend elsewhere.* God wills, determines, and effects the *resurrection of the dead,* by an *immutable necessity,* because He so decreed. But He does not will the evils, even though He foresees them and constitutes limits how far He is willing to bear that the evil may proceed. And from this discrimen is taken the solution of the argument:
+
+> **God's determination is immutably necessary.** — **All things happen with God determining.** — **Therefore all things happen with immutable necessity.**
+
+**The major is true by necessity of consequence,** and (as before said) *of all those things which God Himself has ordained and decreed by His own will.* But **the minor must be declared and discriminated** thus: *All things happen with God determining, but in diverse modes.* For those things which God determines *by His most-free will* must happen because of the divine truth and promise which is *infallible.* But those things which He determines *in the evils* — as when He wills to punish the sins of men, and foresees the penalties, ordains and predicts them — must happen; but with the *condition and exception of penitence and conversion to God,* they are determined — as the examples of the Ninevites and others show. But when they happen, they happen by *necessity of consequence,* because the sins are not changed.
+
+### The Positive-Privative Distinction of God's Determination
+
+Others speak more briefly: **Determination is either Positive or Privative.**
+
+- **Positive** — of good things and actions, which depend on God's will. This *necessarily* happens, because God's will and promise is certain.
+- **Privative** — repression of evils, with limits constituted. This does *not* necessarily happen, but is changed when penitence is undertaken. But when men persevere in sins, this too happens necessarily, by reason of God's justice, and by necessity of consequence.
+
+Usually also some speak thus: *God foresees good things with knowledge, good-pleasure, and disposition* — ***ἐπιστήμῃ, ἐυδοκίᾳ, καὶ τάξει;*** but evils, *not with good-pleasure, but only with knowledge,* by which He determines the limits how far these evils He is willing to bear.
+
+And it is rightly said: **The divine prevision brings absolutely no necessity to our will acting badly,** even though it brings *necessity to the event, by necessity of consequence,* since the cause is not changed. The same is said: *God does not will the evil of guilt; but when guilt does not cease, He wills the evil of penalty.*¹⁰⁰
+
+### Objection on Prevision — Answered by the Ninevites Example
+
+**It is objected:** *Everything which God foresees necessarily happens — because if it did not happen, then either God did not foresee it, or God's prevision would be deceived.*
+
+**It must be answered.** The mode of questions and subtleties ought to be *sober,* especially in those things which exceed human faculty, per that: *"Do not be over-wise;"* and, *"The scrutator of majesty is oppressed by the glory."* But that we may say what is true, it must be maintained that *God's prevision is not to be considered from the judgement of human reason or from philosophical ratiocinations, but from the word of God, and from the divine promises and threats.* God's prevision *never fails,* and to say that it is deceived is *blasphemy.* For necessarily God's whole prevision would come to pass *in the execution of penalties,* unless God Himself, out of His immense mercy, on account of the Son, had regard for the human race and received it into grace. But in the *perpetration of guilt,* God's prevision leaves the *liberty once given to the rational creatures,* and does not import a necessity of acting badly — just as an *eclipse of the sun or moon* does not happen *because it was foreseen by the mathematician.* And the example of the *Ninevites* illustrates this question and cuts off every curiosity. And all the pious know that God knows, sees, and hears all things — has foreseen all from eternity — and that we, on account of the sins we commit out of nature's perversity and infirmity, are worthy of eternal penalties, unless God Himself, on account of the Son, had *converted the execution of justice into the execution of mercy,* by a marvellous *temperament,* and with the *execution both of justice on the sons of wrath and the impenitent,* and *of grace on those believing in the Son.*
+
+### That God Neither Wills Nor Approves Nor Helps Sin
+
+**3.** That God *neither wills, nor approves, nor helps sin,* no one of sane mind — not even among the ethnics — is who does not affirm. And Plato's sentence in *Republic* II is worthy of praise:
+
+> ***κακῶν δὲ αἴτιον φάναι θεὸν τινὶ γίγνεσθαι, ἀγαθὸν ὄντα, διαμαχητέον παντὶ τρόπῳ, μήτε τινὰ ταῦτα λέγοντα ἐν τῇ αὐτοῦ πόλει, εἰ μέλλει εὐνομήσεσθαι, μήτε τινὰ ἀκούειν, μήτε νεώτερον, μήτε πρεσβύτερον· μήτε ἐν μέτρῳ, μήτ᾿ ἄνευ μέτρα μυθολογοῦντος, ὡς οὔθ᾿ ὅσια ἂν λεγόμενα ἢ λέγοιτο, οὔτε ξυμφορὰ ἡμῖν, οὔτε ξύμφωνα αὐτὰ αὐτοῖς.***
+
+*That is:* **"With every mode we must fight, that no one say God, who is good, is the cause of evils. Nor is it to be permitted that anyone say this either in his own commonwealth which is to be well-governed, or at any rate hear it, whether young or old, either in verse or without verse figuratively narrating anything. For it is not pious to speak thus, nor useful to us, nor is the saying itself consistent with itself."**
+
+And **Justin Martyr** cites a verse of Euripides from the *Bellerophon* tragedy: ***εἰ θεοί τι δρῶσι φαῦλον, οὐκ ἐισί θεοί*** — **"If gods do anything base, they are not gods"** — congruent with the Psalmist's saying, *"Thou art not a God willing iniquity."* The same verse is cited also by Plutarch — like to which is that of Homer: ***σχέτλια ἔργα θεοὶ μάκαρες φιλέουσι*** — **"do the blessed gods love bloody works?"** And hither pertain like sayings, as John 8: ***"When the devil speaks a lie, he speaks of his own, because he is a liar, and the father of lies."***
+
+Certainly *every sin is either an aversion from God,* as original sin, or *an action against God's will and Law,* as actual sin. Let there be far, therefore, from God impiety, and from the Almighty iniquity (Job 34). ***"For all the ways of the Lord are mercy and truth"*** (Ps. 25).¹⁰¹
+
+**Some cavil, saying:** *God even willing sin, does not sin, because for God no Law is set.* — This is an *execrable blasphemy,* which paints God as a *tyrant,* willing good and evil *without rule* — since God is nothing other than what He Himself shows Himself in His own Law. And to feign in God *contradictory or contrary wills* is an *execrable fury.*
+
+### Nine Arguments That God Is Not the Cause of Sin
+
+That God is not the cause of sin — that is, that sin is not a thing constituted by God, and that God neither wills, nor approves, nor helps sin, nor impels wills to sin, but *horribly is angry with sin* — these *evident arguments* testify:
+
+**1.** The doctrine of the *Law,* in which sin is prohibited, and *threats added against transgressors.*
+
+**2.** The *most-sad penalties* which followed the Fall — as the *ejection from paradise, the curse of Cain and Ham, the Deluge, the destruction of Sodom and Gomorrah, David's exile,* and so on.
+
+**3.** The magnitude of God's wrath, which could not be placated *unless the Son should become the victim.*
+
+**4.** The *immovable rule and gravity of divine truth.* For in God there are no contradictory wills.
+
+**5.** The *natural notices* in rational creatures, which testify that God is an *eternal mind, the cause of good in nature, and punishes the evil.*
+
+**6.** The judgement of the conscience of even the worst man, who at last, taught by his own evil, affirms that *by the devil's malice, and by man's will against God,* every crime is perpetrated — as we see in those who either are afflicted with punishments, or despair, or rush into other tragic evils.
+
+**7.** The *examples* which daily occur in the human race, publicly and privately, by which God shows His wrath against sin.
+
+**8.** The *sermons from the word of God,* the exhortations and threats which invite us to penitence. Likewise, *signs and prodigies.*
+
+**9.** The *last judgement,* and the damnation of the impious, and the eternal torments of all the devils.
+
+And although we cannot always answer every cavil — and always the *affirmation of truth* is more to be sought and cared for than the confutation of lies — nevertheless we ought to be instructed to dissolve some chief objections, that we may *detect and confound the devil's malice,* who strives to transfer the cause of sin upon God and to *purge himself of the crime and origin of every evil.*¹⁰²
+
+### First Objection — Sustaining the Sinning Nature
+
+> **He who sustains the sinning nature, and does not impede it from sin — since He could most easily and without any effort avert the evil (especially foreseeing it), and does not even destroy the sinning nature — appears to be delighted with sin. God sustains the impious, does not at once snatch them to penalty, and foreseeing the evils, does not avert them — though He could avert them. Therefore God appears to be delighted with sin.**
+
+**I answer to the major.** The *constituted nature* must be discerned from the *impiety.* God *sustains the subject which He constituted,* and *is angry with sin,* which is a deformity and destruction of the subject He constituted. And He *does not impede by violent coercion* the actions of the man whom He gifted with *liberty and with discrimen and election of good and evil.* This liberty He does not violently snatch from man; rather — that man may retain this liberty and discern good and evil and pursue only what is good and avoid evil — He *tolerates man,* just as the *farmer* tolerates for a while in his garden trees not bearing good fruits, which he hopes may be softened by cultivation. Thus God concedes to the impious *space for undertaking penitence,* nor immediately hastens to penalty, even if He sees their final malice — that the *longanimity of God* may be manifestly beheld — whose causes ought always to be readily present to us.
+
+### Eight Causes of God's Longanimity
+
+**The first cause of God's longanimity** is the *ineffable temperament of Justice and Mercy,* that each may be made more illustrious, and that God may not be able to be accused of any cruelty. God punishes those fallen in this life *not to destroy but to preserve,* and *governs us with great indulgence* (Wisd. 12).
+
+**The second cause** is that there be *space granted for undertaking penitence,* by the most-clement indulgence of the most-merciful Father, who *does not will the death of the sinner, but that he be converted and live.*
+
+**The third:** that we may acknowledge our *proclivity to perpetrating evils,* and pray God that by *His own hand* He rule, lead, and sustain us, lest we rush into errors and crimes.
+
+**The fourth:** that the pious, seeing the successes of the impious, may be *exercised in the fear of God, in invocation, faith, patience, and hope.*
+
+**The fifth:** that *we too may imitate the example of God's longanimity and* ***ἐπιεικείας,*** and *tolerate one another with all humility* (Eph. 4).
+
+**The sixth:** that the *deferring of penalty* may be a *testimony of the future judgement.* For in this life many things are punished — to show that God cares for human affairs, and that there is providence — many things also are reserved, to show that there remains a judgement.
+
+**The seventh:** that the impenitent may *fill up their own measure and drink the dregs,* and be more gravely punished, and be *inexcusable.*
+
+**The eighth:** that we may seek the *principal fountain of God's longanimity* — namely, ***the Son of God, on account of whom God spares the whole human race.***
+
+These causes considered, easily do they confute all objections, and *retain pious minds in the fear of God,* and *stir us up to preach the wisdom, justice, and mercy of God.*¹⁰³
+
+### Second Objection — Punishing Sins with Sins
+
+> **God often punishes sins with sins, with tyranny, wars, and other modes, per the saying: "By the things by which anyone sins, by the same is he punished." Therefore God wills sin.**
+
+**I answer to the antecedent.** God *wills the penalty by the right of retaliation,* but does *not will the sin.* And to *will penalties* is a work of God's justice, by which the *guilty nature is animadverted upon.* Insofar therefore as penalty is inflicted, in so far *satisfaction is made to God's just will.* But insofar as *in the execution of the penalty* a sin is committed by those who execute it, the *guilt is not God's but the men's,* who by *God's permission* transgress and *abuse their own power* — and therefore they themselves are at length punished, and as a *rod dried out and useless after the chastisement to which they had been applied, are cast into the fire* — as of the Turks and other enemies and tyrants stands. Perilously, therefore, and *improperly,* is it said that *God punishes sins with sins.* He punishes sins. But in the execution of penalties, when men and tyrants and others sin, the *guilt is not God's but the tyrants'.* Let this be the mode of these disputations.
+
+### Third Objection — God Hardens (Pharaoh)
+
+> **He who hardens others, and leads into temptation, is the cause of sin. God hardens (as it is written: "He hardened Pharaoh's heart") and leads men into temptation (as therefore we should pray: "Lead us not into temptation"). Therefore God is the cause of sin.**
+
+**I answer.** A most-true and most-safe rule is to be held: **In the Hebrew language, verbs signifying actions are most often set down *potentially,* and signify *permission,* which presupposes *longanimity* and a *space granted for penitence.***¹⁰⁴ As: *God hardens* — that is, *permits to be hardened* those who *will not undertake penitence,* and *permits them to be borne by their own impetus,* per that of Ps. 81: *"My people did not hear my voice, and Israel would not have me, and I dismissed them according to the desires of their heart, that they might proceed by their own counsels."* And this is the sentence expressed in the little verses which I shall subscribe:
+
+> ***Indurat, mollire Deus quos ante volebat,***
+> ***Flectere quae voluit, corda rigere facit.***
+> ***Cecutire sinit, lucem quibus obtulit ante,***
+> ***Et quos nolentes iussit adesse, fugat.***
+> ***Non Deus efficiens, sed permissiva malorum est***
+> ***Causa: mali si qua est causa ferenda Deo.***
+
+**"He hardens whom before He willed to soften; whom He willed to bend, He makes their hearts to grow rigid. He permits those to grow blind to whom before He offered the light; and those whom He commanded to be present, He puts to flight. God is not the efficient cause of evils, but the permissive — if there is any cause to be assigned to God."**
+
+From these things, therefore, again we repeat a *true conclusion, to be held by every mode:* **God neither wills, nor helps, nor approves sin.**
+
+### That God Wills Nothing but What Is Good
+
+**4.** It follows therefore: **God wills nothing but what is good.**
+
+But *good* is to be considered by reason both of God's *justice* and of God's *mercy.*
+
+**God's justice** wills the just things to be done, and both angels and men to be *just* — that is, *conformable to the divine will and Law* — and *hates injustice,* and *wills the penalties* which He imposes on the contumacious and the unjust, as it is written (Ps. 11): ***"The Lord tries the just, and the impious; His soul hates him who loves iniquity; upon the impious He shall rain lightnings, fire, and sulphur, and the spirit of storms is the part of their cup."***
+
+**God's mercy** wills the fallen to be acknowledged, and those who have transgressed *to flee to the Mediator Son of God,* in whom the ***consummation of the Law actively and passively,*** and the *plenitude of justice,* and the *fountain and abundance of mercy,* is found and apprehended — per John 1: ***"Of His plenitude we all have received;"*** 1 Cor. 1: ***"He was made for us from God — wisdom, justice, sanctification, and redemption."***
+
+### Fourth Objection — "God Does Evil"
+
+> **He who does evil is the cause of sin. God does evil, as it is written (Amos 5): "There is no evil in a city which the Lord has not done." And Prov. 16: "The Lord does all things for Himself, even the impious for the day of evil." Likewise Eph. 1: "He does all things according to the counsel of His own will" — if all things, then even sin. And 1 Cor. 12: "God works all things in all." Therefore God is the cause of sin.**
+
+**I answer to the major** *(fallacia aequivocationis):* **He who does evil** — namely, *the evil of guilt,* that is, *sin,* which is an aversion from God and an action against God — is the cause of sin. This evil God *neither wills nor effects,* but the devil and man do.
+
+**To the minor:** *God does evil* — namely, not *of guilt* but *of penalty,* which is the very *penalty by right imposed on the transgressors, by reason of divine justice.* And of this *evil of penalty* speaks the Prophet Amos, showing that by the *concourse of many calamities* — by war, famine, plague, sects, and other afflictions — we are punished by God. Therefore in Isa. 45, in the same manner, is it written: ***"I the Lord, and there is no other; forming light and creating darkness, making peace and creating evil"*** (namely, of penalty, or the noxious thing). And thus also God makes the *impious persevering in sins without penitence* — that is, *ordains him to the day of evil,* that is, to *penalty* — and *does it for Himself,* that is, *in testimony of His own justice and judgement.*
+
+But *Paul's saying* [Eph. 1] properly speaks of the *good and salutary actions in the Church,* to whom the Son of God is always present, and *guards and defends her.* Wherefore the universal ***"omnia"*** *does not comprehend sin,* but is a *note of consolation,* which testifies that God wills *from Himself* we should ask and expect help *in all evils.*
+
+### On God's Alien Work of Wrath — Ethnics Also Sensed This
+
+It is also to be added that God does *not immediately exert the severity of His justice against men's sins* — while His *fluents of mercy,* indeed the largest *rain-showers,* He daily pours out on all. He is not angry ***ἐκ προαιρέσεως*** — not from a settled purpose — unless too much offended and irritated; indeed, He calls His own wrath *an alien work* (Isa. 28), as though His *proper work* is only to be *clement and to have mercy.*
+
+Then even when angry, He *defers penalties* and is *longanimous* and gives *space to repent.* Afterwards He either *plainly takes away all penalties, or mitigates temporal ones,* if any are to be suffered in this life, and *corporeal penalties, on account of the Son.* At length, if penalties must altogether be taken up against the plainly impenitent and contumacious, God Himself, as by a *protestation* and *paternal commiseration,* testifies that He has done all things which are required for man's conversion and life, and that He willed not the death or the ruin of anyone, but that man *by his own guilt drew upon himself the penalties* which God's justice could not remit. And hither pertain the sayings: **Isa. 48:** *"Would that thou hadst attended to my commandments, then thou wouldst not have been cut off;"* **Matt. 23:** *"How often would I have gathered you, and you would not;"* **Luke 19:** *"Thou hast not known the time of thy visitation;"* **Matt. 11:** *"We have piped to you and you have not danced, we have lamented and you have not mourned;"* likewise **Isa. 65 / Rom. 10:** *"All the day have I stretched out my hands to a contumacious people;"* **Hos. 13:** ***"Thy perdition is from thyself, O Israel."***
+
+Even the ethnics, taught by universal experience, often acknowledged this *longanimity of God* and *perversity of men.* Whence are the sentences:
+
+> ***Si quotiens peccant homines sua fulmina mittat Iuppiter, exiguo tempore inermis erit.***
+> *"If Jupiter should send his thunderbolts as often as men sin, in a short time he would be unarmed."*
+
+And in **Homer:**
+
+> ***ὦ πόποι, οἷον δή νυ θεοὺς βροτοὶ αἰτιόωνται,***
+> ***ἐξ ἡμέων γάρ φασι κάκ᾿ ἔμμεναι· οἱ δὲ καὶ αὐτοὶ***
+> ***σφῇσιν ἀτασθαλίῃσιν ὑπὲρ μόρον ἄλγε᾿ ἔχουσιν.***
+
+> **"O gods! how with such savage tongues mortals accuse the divinities! They think the fountain and source of evils depend from the supernals — while they themselves by their own crimes, and by their own foolishness, perish and fall, and beyond fate heap up sorrows in their own hearts."**¹⁰⁵
+
+### The Norms of Justice and Mercy in Law and Gospel
+
+**5.** That it may be known *what is the norm of God's justice and mercy* — nothing willing and doing other than what is good — and *what is the temperament of each,* God has *proposed the doctrine of the Law and of the Gospel,* in which He has patefacted by most-free will the *norm of His justice and mercy,* in this manner:
+
+**According to the Law, He can judge all men, and without discrimen justly reject and damn all on account of sin.**
+
+**But since, on account of the Son the intercessor, He has by most-free will had mercy on the human race, He wills that those who are unwilling to be judged and justly damned according to the Law, should *flee to the Son and believe in Him,* and thus be saved *gratis, out of the mere mercy of God, on account of the Son.***
+
+Those who *reject and contemn* this mercy incur a *double penalty,* and are judged: first, *as sons of wrath by nature,* and by God's just judgement are *damned according to the Law;* then they are to be judged *as contemners of God's mercy offered to them in the Son,* in whom they did not believe.
+
+### Conclusion — God Is Most-Free Agent
+
+**6.** Now the conclusion of all these things — of which briefly it has been said — is this: **God is a most-free agent, and is not bound to secondary causes,** as the Stoics feigned, and today those feign who *prefer the physical properties of the human body to the truth of the word of the Omnipotent God.* ***"All things whatsoever He willed, He has done in heaven and on earth"*** (Ps. 115). For where the word of God is, there nature yields, and subjects itself to the word and will of God. ***Nature is under the word; the word is not under nature.***
+
+And hither pertain the sayings:
+
+**Eph. 3:** *"He is Himself able above all things, and to do all things excellently, more than we understand."*
+
+**Deut. 8:** *"Not in bread alone lives man, but in every word which proceeds from the mouth of God."* Certainly in this life bread — that is, *nutrition* — is a *secondary cause* of the conservation of human life, and a *property of the human body.* And yet *even without bread God can preserve the life of man when He wills* — as of Moses, Elijah, and others. And by Paul's testimony (1 Cor. 6), although in this life the belly needs food, yet God *will destroy and abolish both belly and food* — that is, the whole *vegetative nature, nutrition, augmentation, and generation* — in eternal life.
+
+**Rom. 4:** *"Abraham believed against hope in hope"* — *er hat gegleubt auff hoffnung da nichts zu hoffen war* — that is, *against secondary and physical causes he believed the word and the promise.*
+
+**2 Cor. 6:** *"Dying, and yet living; grieving, and always rejoicing; poor, and enriching many; having nothing, and possessing all things."*
+
+**Job 13:** *"Even if He should kill me, I shall hope in Him"* — that is, *even if all secondary causes desert me, and corporeal life be extinguished, and father and mother forsake me* (Ps. 27), *and if I walk in the midst of the shadow of death* (Ps. 23), *and heaven and earth are against me, and my flesh and my heart fail* (Ps. 73), *yet I know that life is rendered back to me, and I am preserved beyond and above secondary causes.*
+
+### Two Final Arguments — Second Causes and Christ's Body
+
+Now I shall bring forward *two arguments,* of which *the former* is usually thus proposed:
+
+> **The second cause does not act without the first.**
+> **The second cause acts necessarily — as fire *brought close to iron* cannot but heat.**
+> **Therefore also the first cause acts necessarily.**
+
+**I answer to the major:** *The second does not act without the first* — namely, *sustaining and preserving.* **The minor is true of naturally-acting things,** if they are not changed by God, who is a *most-free agent,* and at times *helps nature's order,* at times *moderates it,* at times even *changes it* — as when the three men in the Babylonian furnace are not harmed by the fire. But the minor is *not true of voluntarily-acting things:* as the artisan does not necessarily bring iron close to fire, but can either bring it or not bring it, as he wills. And *always the prior and more potent cause* can act in another mode than the *posterior and weaker* cause.¹⁰⁶
+
+**The latter argument is this:**
+
+> **No natural body can be simultaneously and at once in different places, because this is against the properties of bodies, or against the secondary causes in the nature of things.**
+> **Christ's body is natural, and is in heaven.**
+> **Therefore it cannot be on earth when Christ's Supper is administered.**
+
+**I answer.** The whole argument is *physically true* according to the order of nature or of secondary causes; but **God is not bound to secondary causes.** And God *always wills that His own word be believed more than the order of nature,* which shall *cease* in eternal life. Certainly *time shall cease* — indeed, *a thousand years are before God as one day.* Time being taken away, *where shall the place be?* Heaven and earth shall perish. And we shall always be with Christ *without intervals of miles.* Or what sort of *place* was there *before the creation, in eternity,* to which we too shall come? We shall have no *time.* Therefore in the whole of eternity we shall live. *What eye has not seen, what ear has not heard, God has reserved these things for us believing in the Son.*
+
+**Nothing therefore concerning physical and secondary circumstances** *can* or *ought* we to dispute, when we speak of the *eternal life and state of the blessed,* in which *God will be our place, all in all;* and our bodies truly will be and remain bodies, even with those physical circumstances taken away which now are in this life — without which our bodies cannot yet subsist in this life. But what sort of place shall be defined besides in the other life, we shall see when we come thither. Meanwhile *we acquiesce in the word of God,* and say: ***"Take away the word, and Thou hast taken away all things."***
+
+**How Christ's body is in heaven** is shown elsewhere: the sacred letters *call it the right hand of God,* where and toward which Christ *sits by His own body.* **This heaven is not a material heaven, nor a physical one** (which even the philosophers themselves *deny to be in a place*); for this heaven at length will perish, as all celestial bodies — sun, moon, stars, and the whole elementary region — but is the ***spiritual heaven, or the kingdom of the heavens, and the throne of God,*** as will be shown in its own place.¹⁰⁷
+
+These things concerning God's will against the Stoics and the like are to be diligently considered. It remains that briefly we say of the will of the rational creatures.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *De Voluntate Creaturarum Rationalium:* On the Will of the Rational Creatures
+
+### I. What the Will of the Rational Creatures Was Before the Fall
+
+When of the *Image of God* — unto which Angels and men were constituted — and of *Original Righteousness,* or of the *state of man before the Fall,* it is said, at the same time it is shown *what sort of will was in all rational creatures,* and what sort *still is in the good Angels,* and what sort *is informed in believers through Christ,* and *is inchoated by the Holy Spirit,* and what sort in *eternal life* in all the blessed shall be: namely, *integral and perfect congruence with the will and Law of God,* and *respect toward God in all faculties for the glory and celebration of the divine name,* *true obedience, dilection of God, and joy in God,* as above concerning the Image of God was shown.
+
+### II. After the Fall — The Devil's Threefold Mendacity and Homicide
+
+After the Fall, however, *a horrible deformation and corruption arose.* For the *devils* turned themselves away from God *by their own will,* impelled by *pride and ambition,* by which afterwards they drew miserable men into ruin. Whence the Son of God says in John 8: ***"The devil was a homicide from the beginning, and did not stand in the truth, therefore truth is not in him; when he speaks a lie, he speaks of his own, because he is a liar and the father of the same."***
+
+**A liar** for three causes:
+
+**1.** Because *by immense hatred of God he depraves and calumniates God's word,* and *sows impious opinions concerning God* — just as at once, at the beginning, he *extenuated the authority of God's word before Eve* and *took away Eve's reverence toward God's word.*
+
+**2.** Because *he impels light and ambitious minds* to raise *false dogmas and heresies* in the Church, and to impugn the truth of the word.
+
+**3.** Because *he is the author of every fraud* — both in the Church, or of false opinions; and in political matters, arts, and economic dealings, and in the whole common life. For a *lie* is *any error, and any deception aimed at hurting.*
+
+Then he is a **homicide from the beginning** — that is, he *burns with immense hatred of God,* first of all of the *Son;* and, first *in contempt of the Son,* who is the *eternal Image of the Father,* he *killed men constituted unto the Image of God,* and cast the first parents and the whole posterity *into death and into most-sad calamities.* He *contrives ruins of bodies, diseases, sterility, wars, seditions, crimes, homicides, heresies, blasphemies,* and immense flagitious deeds of every kind, and *tragic evils.*
+
+### On Human Will After the Fall — Original Sin Described
+
+What sort and how great the human will is after the Fall is shown by the *description of Original Sin,* which is *not only obligation to death and to other penalties on account of Adam's Fall,* but also *in the very nature of men a corruption, defect, and inclination warring with the Law of God, born together with us* — a defection of the mind and aversion of will from God, contempt of God, departure from the word of God, and conversion to those things which are illicit and prohibited by God. According to the Scriptural testimonies and the experience of all the pious:
+
+**Gen. 6 and 8:** *"The sense and cogitation of the human heart is evil from tender years"* — or, *inclined to evil* — that is, ***יֵצֶר,*** the ***πλάσμα*** and *fabric,* that is, the *mass of the heart, is corrupted and turned away from God.*
+
+**Rom. 8:** *"The sense of the flesh is enmity,"* and so on.
+
+**Rom. 7:** *"Good does not dwell in my flesh."*
+
+**Ps. 14 / Rom. 3:** *"There is not a just one, not even one; there is not one who understands"* — here the *judgement of reason* is accused, as in 1 Cor. 2: *"The animal man does not perceive the things which are of the Spirit of God"* — *"there is not one who seeks God"* — here the *aversion of will from God* is shown — *"all have declined and are made unprofitable."*
+
+**Here three things let us consider:** **1.** on the *cause of sin;* **2.** on the *discrimen between the fall of the devils and the fall of men;* **3.** on Paul's saying (Rom. 7), *"To will is present with me, but to do good I do not find"* — from which some collect that *the will in man is not turned away from God.*
+
+### On the Cause of Sin — Philosophers vs Church Doctrine
+
+**Concerning the cause of sin,** *only the Church's doctrine hands down something certain.* For although the philosophers *cast their eyes on human evils* and *study to inquire the causes of these,* nevertheless they bring forward only *proximate and less-principal causes* — as: **1.** *Errors of mind in judging,* per: ***δόξα βιάζεται τὴν ἀλήθειαν*** (*"Opinion does violence to the truth"*). And Pindar's *"In men's minds innumerable errors hang;"* **2.** *Depraved appetites repugnant to the mind's judgement,* per: ***πρώτιστη δὲ κακῶν πάντων ἐπιθυμία γλυκύ*** — and Pindar's *"The perturbations of the affections impose even on the wise, and reduce the prudent to folly, or madness."* **3.** *The causes of human death, diseases, and the rest of the* ***αὐτομάτων*** *they place in the position of the stars and the mutability of matter.*
+
+**But the root of all evils and the principal cause they ignore, which only the Church's doctrine proposes** — showing that the **causes of sin are *two,* namely, the will of the devil, and the will of man,** which *freely,* by their own will, ***ὑπὲρ μόρον*** (*beyond fate*), that is, *without any necessity and without coercion,* turned themselves away from God — God neither willing nor approving that aversion made *against God's mandate* — and *brought into the world calamities of every kind,* as it is written:
+
+- **1 John 3:** ***"From the beginning the devil sins"*** — that is, the *first author of sin is the devil, a liar and homicide from the beginning.*
+- **Rom. 5:** *"Through one man sin entered the world, and through sin death."*
+- **Wisd. 2:** *"By the envy of the devil death entered the world."*
+- **Wisd. 1:** *"God did not make death, nor is He delighted with the perdition of the living"* — that is, *God is neither the author of sin nor of ruin.* For the counsel of God in creation was directed *to the life of men.*
+
+Wherefore, considering death *a priori,* death is not created. But *a posteriori* — when we speak of the event and of the *evil of penalty* — death is said to be created *for vengeance* (Sir. 40).
+
+### The Rule
+
+> ***When men do not simply acquiesce in the word handed down by God, but consult plausible things alien from the word — then they hear the devil's lies, and defect from God, and are apostates and perjurers.***
+
+### The Standard Arguments
+
+Let the explication of the usual arguments be held here:
+
+> **Second causes cannot act without the first.**
+> **The second cause — as the will of man — is properly the cause of sin.**
+> **Therefore the first also — that is, God — is the cause of sin.**
+
+**To the major we above responded** — namely, *of the sustaining and preserving first cause* [regarding] the *later causes,* and the mode of acting in naturally-acting things in *one and the same mode,* as of *fire, for burning and warming.* But in *voluntarily-acting* things, *not in one and the same mode,* as we shall say afterward — but so that the will *uses and has its own certain and proper action by the liberty and faculty engrafted in the nature of men,* per that of Sir. 15: ***"God has left man in the hand of his own counsel; He has set before you water and fire — to which you will, stretch out your hand; before man is life and death, good and evil. He has mandated no one to act impiously."***
+
+**Another:**
+
+> **As the person is, such are the actions. As the tree, such the fruits.**
+> **Man was just in paradise, and his will was just.**
+> **Therefore he could not have been the cause of evil, and could not have sinned.**
+
+**I answer to the major:** *As the person is* — namely, *remaining such in acting.* **To the minor:** *Man was just.* When I say ***was,*** I show that *he did not remain such,* but *changed the good will* and *ceased to be just,* and *turned himself away from God,* and *obeyed the devil impelling to sin.* But the similitude of the tree does not entirely fit, since the tree *does not act freely or voluntarily.*
+
+### The Discrimen Between the Devil's Fall and Man's Fall
+
+Let us know that of the *devil's crime,* it was *blasphemy, pride, and extreme contempt of God.* For since he knew God more closely, *by his own counsel and choice, without another's impulse,* he *contemned God and the Son of God.* Therefore the *devil's sin is immedicabile* — *unable to be healed.* Without another's impulse he sinned. He therefore ought *not to be helped by another's aid* to rise. *By himself* he ought to rise up so as to serve — [but he cannot].
+
+**But man fell impelled from elsewhere.** And because he *had an inciter to evil,* God *gave him a repairer to good.* And *he who fell through another rises again through another.*¹⁰⁸
+
+### On Paul's Rom. 7 — "Velle adiacet mihi"
+
+Of Paul's saying (Rom. 7), *"To will is present with me,"* it stands that Paul speaks of the *renewed* or *regenerate* will. For he describes the *struggle of the flesh,* which certainly is *nothing* unless the man be *reborn.*
+
+Now let us add briefly of Free Will.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *De Libero Arbitrio:* On Free Will — The Grades of the Doctrine
+
+### The Definition
+
+**Free Will** — which the Greeks by a splendid vocable call ***αὐτεξούσιον*** — embraces *two coupled powers:* the ***mind*** (or the *judgement of reason* or *intellect*), which they express by the voice of *arbitrium,* and the ***will*** (or, as Scripture speaks, the ***heart,*** or *true appetitions,* which they understand by the name of *libertas*).
+
+**Free Will** in man is named the *judgement of reason,* which the *faculty of the will* follows — which *of its own accord and without any coercion chooses and expects those things which reason judges, and effects them.*
+
+This Free Will was **integral before the Fall,** and *part of Original Righteousness.*
+
+**After the corruption of nature in the Fall, also Free Will lies prostrated and corrupted.**
+
+### The Four Grades of Free Will
+
+**The first grade** is of *actions of nature common with the brutes,* pertaining to preserving the species and nature in this life — as *to generate, eat, drink, stand, sleep, wake, build.* In these things man has *free will either to act or not to act,* unless impeded by some *injury of nature* — as by too many cares, and diseases, and defect of things necessary for the completing of nature's actions. *"Sickness takes sleep from me,"* Cicero says to Atticus.
+
+**The second grade** is of *political actions of reason,* economic, public and private — as *to bear a magistracy, to do the external works of the Law, to contract, to live honestly.* In these Free Will is *more languid* than in the first grade. For the *judgement is not so integral,* and the *will is not so alacritous* as in the first. And *two impediments obstruct* the rectitude of the judgement and of the will: **the tyranny of the devil,** and **one's own infirmity.** Hence: *"I see the better and approve; the worse I follow."* There is need therefore of the *fear of God, of invocation, and of divine help,* that in human life there may be some governance and external discipline, both ***δεσποτική*** (by which the will as a servant of reason commands as mistress in the place of a motion-force) and ***προαιρετικῇ*** (by which of his own accord one does in his own order what he owes, for the utility and tranquillity of human society).
+
+Here let the explication of Jer. 10 be held: ***"I know, O Lord, that the way of man is not his own, nor is it of a man to direct his own steps."*** Let the argument be:
+
+> **He who does not direct his own way and his own steps does not have liberty in his own actions, whether good or evil.**
+> **The will of man does not direct his own way and his own steps.**
+> **Therefore man is not the cause of his own actions.**
+
+**I answer to the minor, or to the saying of the Prophet.** The Prophet's saying is *a confession of ours* of *human infirmity,* and *a complaint of imbecility.* He calls *way* the *vocation,* in which *not all perils are foreseen,* nor is the *event and success in our power.* Whence Cicero exclaims: *"O me never wise!"* There is need therefore of *God's help.* ***"The heart of man disposes his way, but of the Lord it is to direct his steps"*** (Prov. 16). Wherefore let us hold David's counsel, Ps. 37: *"Commend to God thy way, and He shall do."* Let us not tempt God by presumption, as *Ajax,* who said that he would do great things *without God.* Let us not be lazy, but *remain in our vocation, and do the office, and permit the event to God.*
+
+**The third grade** is of *ecclesiastical actions* pertaining to the preservation of the ministry — as *to teach and hear the word, to administer and receive the sacraments, to use ceremonies, and like external works in the Churches and Schools which fall under the exterior senses.* In these man has some liberty when *not impeded by the tyranny of the devil and by his own infirmity.* But this zeal is *carnal,* the *will and purpose of the flesh* — just as *Peter* from carnal affect promised he would die for Christ, and *Nicodemus* (John 3) *carnally* discusses Christ and the kingdom of Christ. And the *hypocrites and the impenitent* often do these external works.
+
+**The fourth grade** is of *spiritual motions and actions and divine works* — as *to fulfil God's Law, to acknowledge, fear, and love God, to obey God, to be converted to God, to believe, to undertake penitence, to persevere in faith.* In these things ***man left to himself can plainly do nothing, and has no liberty of will.***
+
+- **1 Cor. 2:** *"The animal man"* — that is, *living in a natural life, by natural sense and reason, not yet reborn* (for *the animal is discerned from the spiritual*) — *"does not perceive those things which are of the Spirit."*
+- **2 Cor. 3:** *"We are not sufficient of ourselves to think anything as of ourselves."* Here Paul speaks of the *salutary exposition of the doctrine and government of the Church and of the ministry.*
+- **Phil. 2:** *"God works in you both to will and to effect"* — ***ἐνεργεῖ*** — that is, *is efficacious in you,* not to *subjugate or coerce the unwilling,* but *to make the subjection-desirous.*
+- **John 6:** *"No one can come to me, unless the Father shall have drawn him;"* — *"everyone hearing from the Father and learning comes to me."*
+
+### On the Mode of God's Drawing
+
+But *how God draws, and by what means,* the doctrine of the Gospel shows. For neither *enthusiasms are to be feigned,* nor *coercion contrived,* nor *particularity fighting with the Gospel excogitated,* but *from the Word one must begin* — which does not feign a *new substantial creation of mind and will,* the *old substance of mind and will being abolished,* but *proposes regeneration,* which is the *mutation made by the Holy Spirit through the word — of the mind and will in man which by its own nature is averse from God — now by God's grace and the Spirit's efficacy converted to God.*
+
+### The Three Concurring Causes in Conversion
+
+As concerns *man's conversion,* there is *one and the same mode* of conversion, in which *three causes concur:*
+
+**1.** ***The Word*** *heard, cogitated, read* — which is the ***αἴτιον ὀργανικόν, δι᾿ οὗ*** (*instrumental cause, through which*).
+
+**2.** ***The Holy Spirit*** moving the hearts *through the word and the sacraments,* as the *efficient cause,* that the will may will.
+
+**3.** ***The will of man*** not repugnant to the divine voice, but among trepidation somehow assenting, *drawn and helped, moved and led by the Holy Spirit.* And the will is the ***αἴτιον ἀποδεχόμενον*** — the *receiving cause.* For in conversion the will *is not idle,* but the *reborn do something* — not from the strength or faculty of *the corrupted free will,* which (as **Augustine's** words) *by itself and by its own strengths cannot but sin* — but the will *moved and excited by the Holy Spirit through the word* has its own efficacy, *assents, struggles, and resists the flesh,* even if languid. For the will does not hold itself *repugnantly and hostilely against God in its own conversion,* although *before conversion it is and is called plainly averted from God,* since otherwise conversion would not be needed. And the will *is converted as will,* moved by the Holy Spirit.
+
+> ***Augustine:*** *"The whole indeed is of God; and yet not as though sleeping, not as though we did not strive, not as though we did not will. Without your will there is no righteousness in you. He made you unknowing; He justifies you willing. He who made you without you does not justify you without you. Believers receive; contemners do not receive."*
+
+> ***Chrysostom:*** *"God draws — but the willing."*
+
+Rightly indeed is it said: **The will holds itself purely passively** — as **Luther** against the *Pelagians, Eck, Erasmus,* and the like, in the manner of the ancient scholastics has spoken, and used the *similitude of a trunk.* But this Luther and other sincere doctors took of the will *not yet reborn,* which namely is *captive and servant to sin* — not as to the essence simply (which is constituted by God), but as to the *actions and faculty of acting in divine matters,* or in the *fourth grade,* of which we spoke, and in those things which are *above us* and require *the faculty of rightly willing.* For the *faculty of willing* the will of man *never lost;* but *the faculty of willing well and rightly* it did lose.
+
+That indeed sometimes Free Will is called the *faculty of applying itself to grace* — it must be known that this description of Free Will was *cast out* by Luther, Pomeranus, and others, because the scholastics were using it of the *natural will* — even of the not-reborn man — *whose force and application to eternal salvation can be plainly nothing without the grace of God.* But by Philip [Melanchthon] the same description was employed and explicated *recitatively,* as it can be understood of the *reborn man,* or of *Free Will liberated,* against the Enthusiasts. Rightly and gravely **Luther** says:
+
+> ***"Free Will without the grace of God is by no means free, but immutably captive and servant of evil, since it cannot turn itself alone to the good. This standing, I grant you: that you make the strength of Free Will not merely moderate, but Angelic — indeed, if you can, plainly divine. If you add, however, that fatal appendix that without God's grace it is inefficacious, at once you take away from it all strength. For what is 'inefficacious strength' but plainly no strength?"***¹⁰⁹
+
+These things concerning the grades of Free Will was necessary to have admonished, that we may *cut off many curious and useless questions,* and *pray the Son of God* that He may be present to us, teach us, lead us, rule us, protect us. ***"Without me you can do nothing,"*** He Himself says (John 15). And most true and best are the little verses:
+
+> ***οὔτε θεὸν γνῶναι δύναται βροτὸς οὔτε διδάσκειν,***
+> ***ὅστις ὁδηγητὴν μὴ θεὸν αὐτὸν ἔχει.***
+> ***Χριστὲ σὺ οὖν με δίδασκε πατρὸς Λόγε ἀϊδίοιο·***
+> ***οὕτω γὰρ δύναμαι σοὶ χαρίεντα λέγειν.***
+
+> **"Neither can a mortal know God, nor teach, / who does not have God Himself as guide. / Christ, do Thou then teach me, Word of the eternal Father — / for so I am able to speak to Thee things pleasing."**¹¹⁰
+
+### The Discrimen Voluntarie vs Naturaliter Agentia
+
+**IV.** Now most briefly let us add the *discrimen between voluntarily-acting and naturally-acting things:*
+
+**1.** *Naturals* arise from *matter and form, or from nature and temperament and qualities* — as *heating is from fire.* But *voluntaries arise from the cogitative and free faculty.* Therefore naturally-acting things differ from voluntarily-acting things *as to actions, as to subject.*
+
+**2.** *As to mode of acting.* Naturals act on an *object brought close,* as fire burns suitable matter brought close; the sun *liquefies wax and hardens mud.* But voluntaries can *either act or not act.*
+
+**3.** *As to constancy and variety of action.* Naturals act in *one and the same mode*; fire *always warms;* the sun *always dries.* But voluntaries do not act *in one mode:* as *Alexander is now clement, now cruel; Saul now lives rightly, soon degenerates and becomes a tyrant.* Only this let it be said of these.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *De Peccato:* On Sin
+
+### The Definition
+
+**John** defines sin (***ἀνομίαν*** — 1 John 3) as *transgression of Law:* that is, **sin is whatever is against the Law.** Others also render ***ἀνομίαν*** as *"without Law,"* that it may be shown that *also that is sin which is feigned without the word of God* — as the monks excogitated certain cults and works which they called *"of supererogation."*
+
+But John's sentence is that which is expressed by the usual definition in this manner:
+
+> ***Sin is corruption, or defect, or privation of conformity with the Law; or inclination or action warring with God's Law, offending God, deserving God's wrath and eternal penalties, unless remission is made on account of the Son the Mediator.***
+
+### The Division
+
+The division of sin is this: **one sin is Original, another Actual.**
+
+**Original,** or **hereditary** — ***ἁμαρτία ἀρχαία,*** *ancient sin* — is *in all men born of male seed:* the *corruption of human nature* propagated from the first parents — *in the mind, loss of light,* or defect of *acknowledgement of God* and of *firm assent about providence, promises, and threats;* *in the will, aversion from God destitute of true fear and dilection of God;* *in the heart, concupiscentia, contumacia, and impetus against the divine order.* Together with **reatus** by which those born, on account of this *whole nature's corruption and leprosy,* are guilty of God's wrath and eternal death, unless remission be made on account of the Mediator. For God will destroy the guilty nature, unless the Son heal it and cleanse it.
+
+### That Sin Is Not the Substance of Man
+
+**But sin is not the very substance of man,** *nature, soul, mind, will* — which substance is *constituted by God, and preserved by God, and which human nature the Son of God assumed* — but it is *the corruption of the whole nature,* and *the conversion of that which was good, sound, and whole, into evil, morbid, and depraved.* For sin is an ***aduenticia qualitas*** (*adventitious quality*) arisen from the devil and from man, by which the human nature is *deformed and made guilty of wrath and eternal death.*
+
+**The Scripture names it "the flesh" and "the old man,"** *metonymically.* The *substance-name* is employed *for the adjunct,* and the *cause for the effect.* *"Flesh"* for the *viciousness and rebellion of the flesh.* *"The old man"* for *injustice and sin* — which is *all that is in a man either inside or outside, from head to heel,* insofar as *the man is not regenerated by the grace of God.*
+
+**But sin is not only some impediment or corruption of accidents,** with the very *substance or nature of the man remaining and existing integral* — as when a *magnet is smeared with the juice of garlic,* or when *someone is bound with chains lest he go.* But it has *infected the whole nature of man, corrupted it, and changed it for the worse,* as Paul says (Rom. 8), *"The sense of the flesh is enmity against God."* And David (Ps. 51), *"In sins my mother conceived me."* Hence it is customarily called ***essential sin.***
+
+**The *formal* of this sin** — that is, the ***reatus*** — is *taken away in Baptism,* and *the material remains,* that is, ***concupiscentia,*** which is not only *penalty* but is also *itself sin,* since it *warries with God's Law* — as all the pious know — which nevertheless *to those who are in Christ is not imputed,* although the *thing itself by nature is worthy of death* when *not condoned.* The Holy Spirit given through baptism *begins to mortify that material* — that is, *concupiscentia* — and *creates new motions in man.*
+
+Hence **Augustine** *contra Julianum* says:
+
+> *"This law which is in the members, remitted by spiritual regeneration and remains in the mortal flesh. It is remitted, because the reatus is loosed by the Sacrament by which the faithful are reborn. It remains, however, because it works desires, against which the faithful contend."*
+
+And elsewhere Augustine says: *"Sin in baptism is remitted not that it does not exist, but that it be not imputed."* As in the puerile little verses it is rightly said:
+
+> ***Peccatum tollit baptismus sanguine Christi,***
+> ***Non ut non assit, verum ne praesit, et obsit.***
+
+**"Baptism removes sin by Christ's blood — not that it be not present, but that it not prevail and harm."**
+
+### Actual Sin
+
+**Actual sin** is *every action, either interior* — as in the mind, *doubt about God,* and in the will and heart, *the incendia of evil affections* — *or exterior,* as external depraved actions warring with God's Law and deserving God's wrath.
+
+### The Second Division — Mortal and Venial
+
+Then another and necessary division of sin. One sin is ***φονικόν*** — *mortal and regnant;* another is *venial, remissible, and non-regnant.* All sins by their own nature are *lethal* and ***φονικά,*** but *through Christ they become venial to believers,* as we shall now say. And although there are *grades of sins,* nevertheless *in this all sins are equal,* since all sins by their own nature are *mortal.*
+
+- **In the non-reborn,** all sins are *mortal and regnant,* on account of which man is *guilty of God's wrath and of eternal penalties.*
+- **In the reborn,** insofar as they are and remain such, all sins are ***venial and servant,*** that is, ***non-regnant,*** per Rom. 8: *"There is now no condemnation to those who are in Christ Jesus, who walk not according to the flesh."* The saints *grieve* on account of the filths and evil of the origin, and the doubtings, and the incendia of the evil affections, and *fight against them,* lest they *rush against conscience;* and they *believe* on account of the Son *these filths are covered and grace exuberates above sin, and they please God.*
+
+But **when the reborn rush into errors and crimes against conscience,** then they *pour out grace, expel the Holy Spirit, cast off faith,* and *sin mortally,* and unless converted are guilty of *eternal penalties* — as *David, Peter,* and other saints *shake out the Holy Spirit* when they slip against conscience, and, unless they were converted to God, they would perish, as all others who are not reborn.
+
+**Christ and John make mention of *one sin* which is plainly** ***irremissibile*** (Matt. 12; 1 John 5), and is called ***the sin against the Holy Spirit,*** or ***sin unto death.*** But this sin is a ***final repugnance,*** by which man *knowingly and willingly opposes himself to the Holy Spirit, and perseveres in that final contumacy unto death,* as is *final despair, the abnegation of the acknowledged truth, and hatred of God, without penitence and conversion to God,* just as the *devil, knowing and willing, opposes himself to the Son of God, and perseveres in this his hatred.* Such are all who *finally,* or *unto the end,* persecute or deny the acknowledged truth of the Gospel, and *despair of God's grace and the merit of the Son.*¹¹¹
+
+### The Four Standard Arguments on Original Sin
+
+From these divisions of sin the true explication of the arguments is to be taken, which are:
+
+> **Where no damnation, there no sin.**
+> **In saints no damnation.**
+> **Therefore in saints no sin.**
+
+**I answer.** *I concede the whole of regnant sin.* But to the minor thus must be answered: **In saints there is no damnation** — not because they lack sin, but because *sin is not imputed to them* — that is, they are *just before God on account of the Son by imputation,* and the *Holy Spirit mortifies sin in them* by the *inchoation of the new obedience,* but *the newness is not yet consummated.* In the saints, therefore, sin is ***remissum,*** that is, *non-regnant, which is covered on account of the Son.*
+
+> **Another. Remitted sin does not remain. Original sin is remitted in baptism. Therefore it does not remain.**
+
+**I answer.** True *of the formal* — that is, *of the reatus* — as above said. But the *fundamental,* or *material* — that is, *the disease inhering in the nature* — *remains,* which is *not only a fomes or penalty of sin,* nor *something inclining to sinning,* but *truly is something warring with the Law of God,* which by its own nature also is *lethal and* ***φονικόν,*** and *would damn all,* unless it were *covered and remitted on account of the Mediator.* In the saints in whom sin remains, it is *guilty indeed by its own nature but not guilty in act, but in potency,* because *it is remitted on account of the Son.*
+
+> **Another. A finite act does not befit, or does not owe, an infinite penalty. Sin is a finite act. Therefore it is not rightly punished with an infinite and eternal penalty.**
+
+**I answer. I deny the minor.** For every sin is an *infinite evil* by *respect and reason of the object,* which is the *infinite majesty of God* — which *violating,* one cannot but be *bound to an infinite penalty.*
+
+> **Another. Form gives the being of the thing. The formal of sin is taken away in baptism. Therefore sin is wholly taken away.**
+
+**I answer.** The major speaks of *substantial form* — as when the soul is taken away, the life of the body ceases. But in the minor *the formal of sin* is the ***reatus,*** which is *taken away, the material remaining.* But sin *is not a substantial form giving being to man,* but is an ***adventicia qualitas,*** as above said. It is also rightly answered *that sin is wholly taken away as respects remission.* But *regeneration is not yet consummated,* but *struggles with sin until it be consummated.* For *we have the firstfruits of the Spirit,* which aids our infirmity (Rom. 8).¹¹²
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## *De Lege Dei:* On the Law of God
+
+### The Definition
+
+> ***The Divine Law, or the Decalogue rightly understood, or the moral Law, is the eternal and immovable wisdom in God, the rule of righteousness — discerning right and not-right; willing, approving, choosing, and helping right; and with horrible wrath aversing, abominating, and destroying the contrary — whose notice in creation was infused in rational creatures, and transfused into them made unto the Image of God (who is the archetype), and promulgated — that it may show the eternal sentence and will of God — and afterwards often repeated and declared by the divine voice, that we may know what God is and what sort — and that He is Judge, obliging all rational creatures, and requiring that all be conform to the divine will and have integral, pure, perfect, perpetual, and in no way impeded obedience per the whole Law — and accusing and destroying all not conforming in everything, unless remission is made on account of Christ; and promising rewards to the obedient.***
+
+### Five Reasons No One Can Fulfil the Law After the Fall
+
+**In this life after the Fall no one can fulfil God's Law,** as these *sad arguments* show:
+
+**1.** The *depraval of human nature by sin.*
+**2.** The *universal experience* and the *death of all.*
+**3.** The *testimonies of the whole Scripture.*
+**4.** The *victim and death of the Son of God.*
+**5.** The *judgement of God,* which never can be *unjust.*
+
+### The Three Uses of the Law
+
+The **use of the Law is triple,** since the Law was not given in vain.
+
+#### The First Use — Universal, External, Political
+
+**The first is universal, external, and political.** For *discipline is necessary,* and is *possible for all men,* if it is not impeded by *the tyranny of the devil and by the infirmity of men,* as above concerning the *second grade of human liberty* was said. And the causes of the necessity of discipline are five:
+
+**1.** *God's mandate.*
+**2.** *Public and private penalties, temporal and eternal.*
+**3.** *Public and private peace and tranquillity.*
+**4.** *Good example* which is set for others.
+**5.** ***Paedagogia*** *and manuductio to Christ* — not by the virtue of external discipline, but by the reason of *consecutio* — that is, because the *acknowledgement of Christ and faith in Christ is not in those who persevere in crimes against conscience;* and *no one can be taught* where there is *no discipline.*
+
+#### The Second Use — Spiritual and Internal
+
+**The second use of the Law is spiritual and internal.** Rom. 3: *"Through the Law is the acknowledgement of sin."* Rom. 4: *"The Law works wrath."*
+
+#### The Third Use — Proper to the Gospel in the Reborn
+
+**The third is the proper use in the reborn,** teaching what *cults please God* — or, that I may summarily refer the whole *doctrine on good works* to this *third use,* showing:
+
+**1.** *What works are to be done* — namely, *those mandated by God,* per that (Ezek. 20): *"Walk in my precepts."*
+
+**2.** *How they can be done* — namely, *by faith in Christ* and *by the vivification, or presence and efficacy, of the Holy Spirit.*
+
+**3.** *How they please God* — namely, *on account of Christ.* For the *person pleasing, the works are pleasing* (1 Pet. 2).
+
+**4.** *Why they are to be done* — namely, on account of *four causes,* which are: **the glory of God; the necessity of the mandate owed, of not losing the faith, of avoiding penalties, and of vivification, or of the beginning of a new life in true conversion; the dignity of the believing and reborn man; and the reward promised out of grace.*⁠**
+
+### On the Proposition "Bona Opera Sunt Necessaria ad Salutem"
+
+Here by the occasion given, it is asked concerning the proposition: ***"Good works are necessary to salvation"*** — to which others have opposed the contrary: ***"Good works are pernicious to salvation."***
+
+We wish to avoid unnecessary struggles, and *we ought to study to heal the wounds of the Church,* and not reject the *docile.* We know that the *former proposition* was used by many *sincere doctors* without the struggle and *without depraved sense.* But because the adversaries used it otherwise, and the ambiguous phrase birthed dissensions, rightly we follow the counsel of **Dr. Philip** [Melanchthon], who in the *Formula of Concord* on the controverted articles thus says:
+
+> ***"We retain this proposition and this form of speaking: 'Good works are necessary,' and rightly we declare: not that they are merits of the remission of guilt or of eternal penalty; nor that they are merits of eternal life; but because by the divine order man owes obedience. But we do not use this form of words: 'Good works are necessary to salvation, or to eternal life' — lest the merit of reconciliation or of eternal life be understood, and lest the Evangelical consolation be obscured, which to those undertaking penitence preaches the gratuitous donation of eternal life on account of the Mediator. Therefore, that ambiguity may be avoided, we wish also that from us this addition — 'necessary to salvation' — be omitted. In turn also we wish that by others the false hyperboles be omitted, such as: 'Good works are not only not necessary to salvation but even obstruct salvation, since they are accompanied by pride and vain confidence.' These evils accrue *per accidens.* It is known that from what accrues *per accidens* the consequence is not firm,"*** and so on.¹¹³
+
+### Three Objections and Their Answers
+
+**Against the first use** the argument is brought — of which the explication is to be held:
+
+> **God requires no sin. Civil justice in the not-reborn is sin (for *whatever is not from faith is sin*). Therefore God does not require justice and external discipline.**
+
+**I answer to the minor.** *Fallacia accidentis.* Civil justice in the not-reborn is sin **not per se, but by reason of the person,** who — since he does not believe, or is not inserted into the Church — *displeases God.* But the *person displeasing, the work displeases.*
+
+**Against the second use:**
+
+> **Whatever augments sin is not to be taught. The Law augments sin, because it works wrath (Rom. 4). Therefore it is not to be taught.**
+
+**I answer to the minor.** The Law augments sin *not per se,* but by reason of the *evil will of men* or of *depraved nature,* which, being accused, *does not subject itself to God's judgement,* but *rages, murmurs, despairs.*
+
+**Against the third use:**
+
+> **For the just no Law is set (1 Tim. 1). Believers are just. Therefore the Law does not pertain to believers.**
+
+**I answer to the major.** *First:* **For the just no Law is set** — namely, *insofar as he is just.* But in the saints many *infirmities and sins* remain. *Second:* For the just no Law is set *as to condemnation and justification* (in this extent the Law is *abrogated*), but *not as to obedience.* ***νόμος οὐ κεῖται*** — *"the Law is not laid down"* — that is, *it does not press the just; it does not accuse, does not damn.* *Third:* For the just no Law is set *as to coercion,* since the just is *reborn,* and is *led by the Holy Spirit,* and *renders spontaneous obedience* — which nevertheless is *itself also necessary.*¹¹⁴
+
+### The Five Modes of Christ Fulfilling the Law
+
+On the *arguments and errors of the Antinomians* we must speak elsewhere. Briefly we have shown *in what extent the Law is abrogated* — namely, *as to condemnation and justification, but not as to obedience.* For the Son of God says (Matt. 5): ***"I did not come to loose the Law, but to fulfil it"*** — namely, *in five modes:*
+
+**1.** **Actively** — by *my own obedience.*
+**2.** **Passively** — *deriving the penalty upon myself.*
+**3.** **Imputatively** — *imputing and gifting my obedience and the merit of my passion, or the satisfaction, to believers.*
+**4.** **Inchoatively** — *giving them the Holy Spirit, and restoring in them a life conform to the Law.*
+**5.** **Consummatively** — *in eternal life.*
+
+### Ceremonial and Judicial Laws Abrogated as to Species
+
+Concerning the *ceremonial and judicial laws of Moses,* it stands that they are *abrogated even as concerns obedience,* insofar as the *species is considered.* For the *genus remains in this life.* For it is necessary that there be *ceremonies,* that all things be done in the Church ***ἐντάκτως καὶ ευσχημόνως*** (1 Cor. 14); and it is necessary that there be *judgements.*
+
+**And in the Decalogue also it is to be seen what is properly moral, what ceremonial.** In the first precept the *adoration of graven images* is prohibited — this is *moral and perpetual.* But the *fabrication of graven images* — insofar as they are *commonefactiones of certain histories* — is *something ceremonial, and free to Christians.* Therefore the prohibition of the making of graven images is *ceremonial and abrogated.* In the third precept, the *Sabbath is abrogated as concerns the species,* that is, as concerns the *seventh day;* but it is *not abrogated as concerns the genus,* or the *moral and natural,* because the Law pertains to all men and ages, *bidding the ministry to be preserved* and *giving a certain day for the public ministry.*
+
+**There are two causes** for which the *ceremonial and judicial laws,* as concerns the *species and positive right,* are abrogated:
+
+**The prior cause** is the *constitution of the Israelite polity,* which endured only for a certain time — namely, *1582 years* from the Exit from Egypt to the final destruction of Jerusalem — that there might be *a certain seat of the Church, and a certain place on earth where Christ should be born and be heard.*
+
+**The posterior cause** is the ***Christian liberty,*** or the ***manumission*** offered to those *believing in the Son* — of which liberty the *grades are four:*
+
+**1.** *Liberation from the Mosaic rites.*
+**2.** *Liberation from human traditions.*
+**3.** *Liberation from sin and from the malediction of the Law.*
+**4.** *Liberation from the works of the old man* — that is, the *donation of the Holy Spirit* and the *vivification* for exhibiting the works of the *spiritual life.*¹¹⁵
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Closing of Article I — The Six-Fold Discrimen Legis et Evangelii — Bridge to Article II
+
+**HITHERTO** has been said of the *first part of the Symbol.* For the explication of the Decalogue we shall hand down elsewhere. Now we come to the *doctrine on the Son the Mediator, and on the redemption of the human race,* and to the *remaining articles which follow in the Symbol.*
+
+Since this doctrine is *proper to the Gospel,* set far *above and outside the view of reason,* immediately here the ***discrimen Legis et Evangelii*** must be held — the *definition of the Gospel* being first handed down.
+
+### The Definition of the Gospel
+
+> ***The Gospel is the preaching of salutary penitence and the promise which reason does not naturally hold, but which from the arcane counsel of the divinity has been proclaimed through the Son — in which God on account of His Son our Lord Jesus Christ the Mediator GRATIS promises the remission of sins, and the donation of the Holy Spirit, and new righteousness and eternal life to all undertaking penitence and by faith embracing the promise.***
+
+### The Six Discrimina of Law and Gospel
+
+**The first discrimen** is taken *from the form of knowledge.* The divine knowledge of the Law, and the works, are *naturally known* — not indeed integrally or all, but whatever after the Fall remained in human minds, as elsewhere more copiously is shown. But **the Gospel is not naturally known,** and there is *no word of the word* in the philosophical writings — that is, *concerning the Son the Mediator, our Lord Jesus Christ.*
+
+**The second** is taken *from the matter.* The **Law** is a *doctrine prescribing and accusing and damning.* The **Gospel** is a *doctrine principally promising remission of sins,* or the *imputation of Christ's righteousness and perfection, and the donation of the Holy Spirit,* or the *inchoation of the new obedience pleasing to God, and of eternal life.*
+
+**The third** is taken *from the form of promises,* which *in the Law are conditional,* but *in the Gospel are gratuitous, without condition of our merits.*
+
+**The fourth** is *from the form of threats,* which *in the Law lack all condition and exception,* but *in the Gospel have the condition of conversion to Christ.*
+
+**The fifth is from the effects.** The Law *effects grief;* the Gospel *consoles, raises up, and heals the pavid consciences fleeing by faith to the Son of God.*
+
+**The sixth is taken from the objects.** The **Law** is to be preached to *the secure, proud, wicked, and impenitent, and hypocrites;* but the **Gospel** is to be proposed to *those undertaking penitence,* per that: ***"Come to me all who labour and are burdened, I shall refresh you."***
+
+***Finis Primi Articuli Symboli.***
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -2012,3 +2609,35 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **⁹⁸** *Tertullian — the violent seize the kingdom of the heavens.* Tertullian's saying — that the *violent* faith of the believer, who *seizes God as debtor by God's own promise,* is what the Lord meant in Matt. 11:12 (*regnum caelorum vim patitur, et violenti rapiunt illud*) — is drawn from *De Paenitentia* 6 (CCL 1:329) and *De Patientia* 12 (CCL 1:311). The Greek epigram Selnecker adds — *κατὰ ξυνοίας οὐ κοινὰς, ἀλλὰ θείας* ("by knowledges not common but divine") — is his own paraphrastic gloss on the passage, capturing the point that the *violence* of Gospel-faith is not natural forcefulness but the *divine* knowledge of God's promise turning back upon God as *God's own debt* to the believer.
 
 **⁹⁹** *Chrysostom on renouncing Satan when going out.* The reference is to **Chrysostom,** *Homilia XI in Epistolam ad Ephesios* (PG 62:82ff.), on Eph. 4:22–24, one of the pastoral-liturgical Homilies where Chrysostom presses the *renunciation of Satan* from the baptismal liturgy into the daily discipline of the pious layperson. Selnecker's marginal note *Hom. de ornatu mulierum in foro* is a variant title for the same Homily as it circulated in the Latin patristic collections of the mid-sixteenth century.
+
+**¹⁰⁰** *The Positive-Privative and Scientia-Eudokia distinctions.* Selnecker's paired distinctions — *positiva/privativa* determination and ***ἐπιστήμη / εὐδοκία / τάξις*** — are drawn from Melanchthon's *Loci* (1543 edition, *De causa peccati*) and codify the standard Wittenberg-orthodox answer to the necessity-of-events objection. The reading of God's willing evil *only-with-knowledge* (not with *good-pleasure* or *disposition*) is the exact vocabulary FC SD XI 78–82 uses on Predestination, and it stands directly behind the *Formula's* rejection of both the Reformed *positive-decree-of-reprobation* and the Semi-Pelagian *conditional-election* frames.
+
+**¹⁰¹** *Plato Republic II, Euripides Bellerophon, Homer Odyssey.* Selnecker's three-fold Greek epigram-catena on divine goodness against divine causation of evil: **Plato,** *Republic* II 379c (the *Theologia* passage that first raises the *οὐκ αἴτιος* principle against the Homeric-Hesiodic gods). **Euripides,** *Bellerophon* fr. 292 Nauck² (cited by Justin Martyr, *Apologia I* 21, and by Plutarch, *De audiendis poetis* 20e), one of the most-quoted lines of fifth-century tragic theology against divine mischief. **Homer,** *Iliad* III.365 and elsewhere, on the gods' *σχέτλια ἔργα.* Selnecker's Wittenberg-trained hand marshals these ethnic witnesses in the *praeparatio evangelica* mode Melanchthon had made standard for the Lutheran-humanist commonplace-book.
+
+**¹⁰²** *The Nine Arguments God Is Not the Cause of Sin.* Selnecker's nine-fold structure — Law-doctrine / post-lapsarian penalties / magnitude of wrath requiring the Filii victima / immovable divine truth / natural notices / conscience of the worst / daily examples / preaching + signs / last judgement — is a substantially Melanchthonian catalogue drawn from the *Loci* (1543) on *De causa peccati* and refined by Selnecker's own contribution to FC SD I (*De Peccato Originali*). The whole nine-fold structure stands behind the FC I rejection of both the Flacian identification of Original Sin with the human substance and any doctrine that would make God the cause of the deformity in the fallen nature.
+
+**¹⁰³** *The Eight Causes of God's Longanimity.* Selnecker's eight-fold enumeration — Justice-Mercy temperament / space for penitence / acknowledgement of proclivity / exercise of the pious / imitation of God's ἐπιείκεια / testimony of future judgement / filling-up-the-measure / seeking the fount in the Son — is a pastoral-consolatory expansion of the standard Wisdom-of-Solomon 12 topos, worked out in Melanchthon's *Loci* and preserved through the whole Lutheran-orthodox tradition. The move at cause 8 — that the *deepest* answer to "why God's longanimity" is Christological (God spares on account of the Son) — is Selnecker's own characteristic Kirchen-Vater tone.
+
+**¹⁰⁴** *The Hebrew rule on potentiality/permission.* Selnecker's rule — that in the Hebrew language *verbs signifying actions* are *most often* set down *potentially,* signifying *permission* not *causation,* especially in judgement-of-hardening passages like Ex. 4:21, Ex. 7:3, Isa. 6:9-10, Rom. 9:18 — is drawn from the sixteenth-century Christian-Hebraist tradition (Reuchlin, *Rudimenta linguae hebraicae;* Melanchthon on Romans) and became the standard Wittenberg-Lutheran-orthodox answer to the Reformed *decretum absolutum* on reprobation. The little-verses Selnecker rehearses — *"Indurat, mollire Deus quos ante volebat"* — are his own or of the Wittenberg-humanist circle.
+
+**¹⁰⁵** *God's alien work of wrath — Isa. 28 + the ethnic sensus communis + Homer Odyssey I.32-34.* The Isa. 28:21 anchor — ***opus alienum*** — is Luther's own most-frequent *sedes* for the doctrine that God's *proper work* is mercy and God's *alien work* is wrath. Selnecker joins to this the *sensus communis* of the ancient ethnic witnesses on divine longanimity: the anonymous elegiac distich on Jupiter's thunderbolts, and Homer *Odyssey* I.32-34 verbatim in Greek — Zeus's own opening speech in the Odyssey where he refuses divine responsibility for human sufferings brought on by human folly. The move — that even the ethnic poets *sensed* what Isa. 28 taught — is the standard Melanchthonian *praeparatio* frame.
+
+**¹⁰⁶** *The second-cause / voluntary-agent argument.* Selnecker's response — that the necessity of second causes holds only for *naturally-acting* things unless God changes them (three men in the furnace, Dan. 3), but does not hold for *voluntarily-acting* things (the artisan not compelled to bring iron to fire) — is the standard Wittenberg-Melanchthonian answer to the Stoic-Peripatetic necessitas objection. The move stands behind FC II on Free Will and FC XI on Predestination in a linked way: the *voluntarily-acting* nature of both God (as first cause) and the rational creature (as second) blocks any determinist inference from divine foreknowledge to necessary events.
+
+**¹⁰⁷** *"Take away the word, take away all" — and Christ's body in the spiritual heaven.* Selnecker's move here — that the *place* to which Christ ascended is not a *material or physical heaven* (which the philosophers themselves deny to be in *a place*), but a *spiritual heaven, or the kingdom of the heavens, or the throne of God* — anticipates the whole *An Christus sit omnipraesens* doctrine of T6. The *sedes* for the non-locality of the *dextera Dei* was worked out in Luther's *Grosses Bekenntnis* (1528) against Zwingli and reprised in Chemnitz's *De duabus naturis* against the mid-century Kryptocalvinists. The pastoral summary — *"Tolle verbum, et sustulisti omnia"* — is a Luther-turn from *Bondage of the Will* (1525, WA 18:606) that had become a Selnecker-signature.
+
+**¹⁰⁸** *The immedicabile character of the devil's sin.* The doctrine that the devil's fall is *irremediable* because *no external impeller* misled him — while man's fall is *remediable* because man was *impelled from without* by the devil, and therefore *another* (Christ) may repair him — is a patristic commonplace (Anselm, *Cur Deus Homo* II.11; Bonaventure, *In II Sent.* d. 6) preserved in Melanchthon's *Loci* on Free Will and used by Selnecker as the standard Wittenberg-Lutheran-orthodox answer to the *"why not save the devil?"* question. The formulation *"He who fell through another, rises again through another"* is a Selnecker-signature turn.
+
+**¹⁰⁹** *Luther on "inefficacious strength is no strength."* The Luther citation — *"For what is 'inefficacious strength' but plainly no strength?"* — is from Luther's ***De servo arbitrio*** (1525, WA 18:635–636), one of the fiercest polemical moments in the whole Erasmus-Luther exchange on Free Will. Selnecker's whole handling of the *"faculty of applying oneself to grace"* formulation — rejected by Luther and Bugenhagen as impossible in the not-reborn, employed by Melanchthon *recitative* of the reborn against the Enthusiasts — is the standard Wittenberg-orthodox distinction that stands behind FC SD II (De Libero Arbitrio).
+
+**¹¹⁰** *The Greek Distich Prayer to Christ.* Selnecker's four Greek lines — a hexameter prayer to Christ as *Word of the eternal Father* to teach the human speaker who cannot know God without divine guidance — appear to be his own composition, in the tradition of Nazianzen's *Poemata dogmatica* and the Byzantine liturgical epigram-tradition. They preserve the whole *doctrina de conversione* in prayer-form: no one can know or teach God without God as guide.
+
+**¹¹¹** *The Sin against the Holy Spirit / sin unto death.* Selnecker's doctrine — that the sin *unto death* (1 John 5:16) is not any *particular* sin but the *final repugnance* of the whole life against the Holy Spirit, unto death, without penitence — is the standard Wittenberg-Lutheran-orthodox reading, codified in the *Loci* (Melanchthon 1543) and echoed throughout Chemnitz, Selnecker's own *Institutio* Pars II *De Poenitentia,* and FC SD II. The distinction between the *fall against conscience* of a David or Peter (recoverable by penitence) and the *final repugnance* of the *contumax unto death* (unrecoverable) is pastoral-critical and preserves the whole *ordo salutis* against both Novatian despair and Papal presumption.
+
+**¹¹²** *The Four Standard Arguments on Original Sin.* Selnecker's four-fold response — remissum-not-lacking / formal-vs-material distinction / infinite penalty by reason of infinite object / substantial-form vs adventicia qualitas — is the classical Wittenberg-orthodox catechism-answer on Original Sin, drawn from the *Loci Melanchthon* and codified in FC SD I. The critical move — that the *material* of Original Sin (concupiscentia) is *itself sin,* not merely *fomes peccati* or *penalty* — is Luther's own emphasis against the medieval-scholastic distinction, and became FC I's central polemical achievement against both Roman-scholastic *concupiscentia-not-sin* and Flacian *concupiscentia-is-the-substance.*
+
+**¹¹³** *The Formula-of-Concord Quotation on "Bona Opera Necessaria."* Selnecker quotes verbatim from **Formula of Concord SD IV.14–17** on the "Good Works are necessary to salvation" controversy that had raged between Melanchthon-Major-Amsdorf 1550–1560. The quoted passage is Melanchthon's own contribution to the *Torgau Book* (1576) drafting of FC IV, preserved verbatim in the *Bergic Book* (1577). Selnecker's own role in the Torgau drafting places him in direct proximity to the composition; his 1577 reissue of the *Symbolorum Exegesis* — with this FC IV passage inserted — is thus a *contemporaneous public confessional witness* to the FC IV settlement, published in the very year of its subscription.
+
+**¹¹⁴** *νόμος οὐ κεῖται — 1 Tim. 1:9.* Paul's *"the Law is not laid down [for the just]"* is the classic *sedes* for the third-use debate. Selnecker's three-fold reading — the Law is *not laid down* (a) *insofar as the just man is just;* (b) *as to condemnation and justification* (in this extent abrogated); (c) *as to coercion* (since the just is Spirit-led and renders spontaneous obedience, which nevertheless is also necessary) — is the classical FC VI position on the *tertius usus legis* against the Antinomians. The Greek verbatim preservation is Selnecker's characteristic pedagogical move.
+
+**¹¹⁵** *The Four Grades of Christian Liberty.* Selnecker's four-fold enumeration — liberation from Mosaic rites / from human traditions / from sin and Law-malediction / from works of the old man (donation of Spirit and vivification) — is the standard Wittenberg-orthodox systematization of *libertas Christiana,* built from Luther's *De libertate Christiana* (1520, WA 7:20) and Melanchthon's *Loci.* The four-fold structure closes Article I by anticipating Article II: liberation from Law-malediction and from works-of-the-old-man is *not* something the *first Article* accomplishes but requires the *second Article,* namely the person and work of the Filius Mediator.
