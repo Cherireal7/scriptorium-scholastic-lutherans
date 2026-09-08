@@ -11397,4 +11397,163 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXII De Libertate Christiana COMPLETE — rendered in 1 tranche (T90). Q1–Q19 + OBIECTIONES I–II on Pauline texts (1 Cor. 6:12 adiaphora; 1 Cor. 9:5 sister-wife). 725 top-level Q + 413 Obj rendered so far. Locus XXXIII De Scandalo follows in T91 at OCR line 40522.]*
+# Locus XXXIII. Of Scandal
+### *De Scandalo*
+
+## Question 1. What is scandal?
+
+**What is scandal?**
+
+**Respondeo**: **It is an evil doctrine, saying, or deed, by which others are offended, at which they strike, so that they slip.**
+
+— ❦ —
+
+## Question 2. How manifold is it?
+
+**How manifold is it?**
+
+**Respondeo**: **Twofold: given and received.**
+
+— ❦ —
+
+## Question 3. What is scandal given?
+
+**What is scandal given?**
+
+**Respondeo**: **It is a false doctrine, an evil saying or deed, whereby to others occasion is offered of embracing false doctrine, of thinking, speaking, or doing evils. Whence Christ, Matt. 18:7**: *"Woe to the world because of scandals."* **So David by his adultery and homicide offended others, 2 Sam. 11. So Peter and the rest, Gal. 2:13–14, are a scandal to others, and on that account are reprehensible. So the incestuous, having his father's wife under pretext of Christian liberty, giveth scandal, 1 Cor. 5. The Pope and Bishops, by their false doctrine and idolatry leading many into error, give scandal. A Minister of the Church offereth scandal, teaching falsely, or living evilly. A Magistrate negligent in his office, not punishing delicts, and evilly administering the Republic, giveth scandal to subjects. A father of the family, who is negligent in the hearkening of sermons and in the use of the Sacraments, scandalizeth his domestics,** etc.
+
+— ❦ —
+
+## Question 4. What is scandal received?
+
+**What is scandal received?**
+
+**Respondeo**: **When the wise of this world or hypocrites are offended by pure doctrine and things rightly done, and on account of these hate and persecute the right-minded,** etc. **As when John rightly teacheth, well liveth, and sharply reproveth, the Pharisees and Herod are offended. When Christ preacheth the Gospel and worketh miracles, the Jews with the Pharisees are offended, Matt. 11:6**: *"And blessed is he, whosoever shall not be scandalized in me."* **So when the Apostles at Jerusalem and among the Gentiles began their sermons, this note was branded on the Gospel: that it was a trumpet of sedition, taking away the true worships of God, and public peace and tranquility, 1 Cor. 1. So the whole Papacy now is offended by the sincere preaching of the Gospel and by the legitimate use of the Sacraments, which in our Churches flourish, but without any fault of the Gospel, which the world neither will nor can bear. So many today by the right doctrine of the Lord's Supper are offended, but by their own fault.**
+
+— ❦ —
+
+## Question 5. Who is the Author of scandal given? [*[T. 4, p. 736]*]
+
+**Who is the Author of scandal given?**
+
+**Respondeo**:
+
+**I. Satan himself, who is Author of all evil, among the Angels and men, John 8:44**: *"He was a homicide from the beginning, and in the truth stood not, because there is no truth in him: when he speaketh a lie, he speaketh of his own, because he is a liar and the father thereof."*
+
+**II. The evil concupiscence of men and the corrupt nature of men, which delighteth itself in sins, and catcheth occasion of sinning, Gen. 6, 8. There is no doubt but the Devil moved every stone to induce David to adultery: so it is not doubtful that false Doctors are impelled by the Devil, that they bring forth a false doctrine, whereby others are offended and seduced: as we read, 1 Kings 22:22**: *"I will go forth, and shall be a lying spirit in the mouth of all his prophets."* **2 Thess. 2:9**: *"Whose"* [that is, of the Roman Pope's] *"coming is according to the working of Satan."*
+
+— ❦ —
+
+## Question 6. But what moveth men to scandalize?
+
+**But what moveth men to scandalize?**
+
+**Respondeo**: **Evil concupiscence, Gen. 6, 8:21. For the sense and the thought of the human heart are intent upon evil from their youth up. Matt. 15:19**: *"For out of the heart proceed evil thoughts."*
+
+— ❦ —
+
+## Question 7. What do they obtain by scandalizing?
+
+**What do they obtain by scandalizing?**
+
+**Respondeo**: **The wrath of God and most grievous penalties, Matt. 18:7**: *"Woe unto that man by whom the scandal cometh."*
+
+— ❦ —
+
+## Question 8. But why ought all Christians prudently to take heed, lest to others they be a scandal? [*[Post. Eccl. 1. Dom. 8. after Trin.; T. 2, p. 6; T. 4/1, p. 370, 571–572]*]
+
+**But why ought all Christians prudently to take heed, lest to others they be a scandal?**
+
+**Respondeo**:
+
+**I. On account of the mandate of God severely commanding, that we give not others occasion, offence, and scandals — Matt. 18:9–10, Job 5:14, 2 Cor. 6**: *"See ye despise not one of these little ones."*
+
+**II. On account of the wrath of God and the penalties which are drawn by scandal, Matt. 18:7.**
+
+**III. On account of the examples of those who have given scandals, and have grievously by God been punished — as of David, of the incestuous 1 Cor. 5, and of others.**
+
+**IV. On account of the tragic penalties of all heretics and false doctors, upon whom God grievously animadverteth on account of the scandal given by them.**
+
+**V. From love of virtue and of innocence.**
+
+**VI. Because scandal given certainly testifieth, that the giver of it is of the Devil, 1 John 3:8**: *"He who doth sin, is of the Devil."*
+
+— ❦ —
+
+## Question 9. But whence is scandal received?
+
+**But whence is scandal received?**
+
+**Respondeo**:
+
+**I. From the Devil, who inciteth hearts, and inflameth them against truth and righteousness.**
+
+**II. From ignorance of Scripture and of divine things. 1 Cor. 2:14**: *"The animal man perceiveth not those things which are of the Spirit of God, for it is folly to him, and he cannot understand."*
+
+**III. From untimely zeal, which is not according to knowledge, Rom. 9; and from love of doctrine inveterate by long custom, though false.**
+
+**IV. From the authority of them that hand down and approve false doctrine and vain worships of God, and attack the truth — of which the example in the Papists we see, who more attend the authority of the Pope and his followers, than the doctrine.**
+
+**V. From petulance, curiosity, ambition — whereby to bring forth new things, and to gain a name, human perversity is wont; or from envy — of which Arius furnisheth us the example.**
+
+**VI. From the belly and the Epicurean life, Phil. 3:19**: *"Whose God is the belly."* **Many at the doctrine of the Gospel are offended, because they fear, if it they should embrace, their fat prebends will be snatched from them. These and like causes in the Pharisees, in the Papists, in false Doctors, and in them like these, are conspicuous.**
+
+— ❦ —
+
+# OBIECTIO
+
+### Objection. **A doctrine giving scandal in the Church is to be shunned. The Lutheran is such. Ergo it is to be shunned.** [*[T. 6, p. 540–541; T. 4/1, p. 136]*]
+
+**Respondemus**: **We answer to the Major by distinction: a doctrine which per se and of itself giveth scandal, or is scandalous and false, deservedly is to be shunned.**
+
+**To the Minor: Our doctrine giveth no scandal, much less per se and of itself giveth scandal, is not indeed false and impious: for it is of the Prophets, of Christ, and of the Apostles, from whom we have received it — wherefore worthily we guard this precious deposit. But the Papists are offended at it, without any fault of it. As also the Pharisees at Christ's, the Greeks at Paul's doctrine of Christ crucified were offended, 1 Cor. 1, 2. Therefore the doctrine of our Churches is not the cause of that scandal, but is falsely ascribed as the cause.**
+
+— ❦ —
+
+## Question 10. What things chiefly in our Churches offend the Papists?
+
+**What things chiefly in our Churches offend the Papists?**
+
+**Respondeo**:
+
+**I. The sincere doctrine of the principal heads of piety, which to their evil custom of inveterate doctrine is contrary.**
+
+**II. That their false doctrine and fictitious worships we reprove, argue, condemn, and admonish the whole Church, that these errors and impostures it attend and beware.**
+
+**III. That from them we demand, not only that from the false doctrine and the Idolatrous worships, which are mere human figments, they depart: but also that the truth of the Gospel they embrace, with us confess, and before the universal Church profess, that they have shamefully hitherto led the Church of God into error and scandalized her.**
+
+**IV. That we compared with them are men contemptible. [*[Post. dom. 1. adventus; T. 3]*]**
+
+**V. That they observe: if the sincere doctrine of the Gospel they embrace, and administer the Sacraments according to the institution of Christ, in letters they must do more than physicians who drink wine with vinegar and salt; they cannot live in leisure and pleasure — but must be vigilant in letters, must labour, must incur the hate of the world, must sustain poverty and persecution. This to those lords, whose God is the belly, doth not please.**
+
+— ❦ —
+
+## Question 11. But what ought to move them, that they take not so scandal? [*[T. 4/1, p. 315]*]
+
+**But what ought to move them, that they take not so scandal?**
+
+**Respondeo**:
+
+**I. Christ himself, and his immovable truth, which all men are bound to hear and follow, Matt. 3**: *"Hear ye him."* **For not reason and custom, but Christ is to be heard, who saith**: *"I am the truth, and I am not custom; nor is custom truth."* **The Pharisees also themselves long time to false doctrines were accustomed, and yet they were to abandon accustomed errors and to embrace the truth, if saved they willed to be. The same is to be done by the Papists also: for it remaineth immovable, John 17:17**: *"Thy word is truth."*
+
+**II. That with such earnestness and alacrity their doctrine and traditions from Scripture we argue, this very thing ought to move them, that with the nobler Thessalonians, Acts 17:11, they would with all avidity daily search the Scriptures, if these things were so. For all doctrines are to be tried unto the rule of the Divine Word, and in the Word of God alone one must acquiesce. Whence Constantine the Great in the Council of Nicaea rightly said**: *"The books are Apostolic, the oracles of ancients and of Prophets, which manifestly instruct us what is to be thought concerning divine things. Let us therefore accept from divinely inspired discourses the solution of questions."* **And Basil, Epistle 80**: *"Let Scripture divinely inspired be set by us as arbiter; and among whomsoever shall be found dogmas concordant with the divine discourses, to these altogether also the suffrage of truth accede."*
+
+**III. Let them not blush to cast off errors and retract them: for the same both the believers of Corinth did, Acts 19:17; the same also did all, who upon hearing the sermons of the Apostles abandoned Ethnic errors, and the truth of the Gospel embraced: whose example many Churches have followed, and follow, so many as give place to the truth.**
+
+**IV. Nor is there reason wherefore they should be offended at the vileness of our persons: for not who, but what one saith, is to be attended; what kind of person he be, is of no moment, so long as he speak the truth of the Divine Word. For it is the Word of God, and remaineth the Word of God, by whomsoever also it be announced. Nor is it doubtful — as their own Panormitanus saith — that even to one simple lay-Christian bringing the Word of God more is to be believed, than to a whole council without the Word of God. And Tertullian, De Praescriptione**: *"Faith is not to be proved from persons, but persons from faith."*
+
+**V. The salvation of the soul and the glory of God they ought more to value than the belly: for it is shameful to say, that being convicted in one's own conscience from the Word of God, one yet for the belly, for leisure, for pleasures, for riches, for honours, &c., giveth not place to the truth.**
+
+— ❦ —
+
+# OBIECTIO
+
+### Objection. **But they say they are offended at this, that our doctrine is new and scarce sixty years old?**
+
+**Respondeo**: **Of no weight is this urging. Long since they could have inquired, learned, and experienced, that we have not a new doctrine, but that handed down by the Prophets, by Christ, and by the Apostles, and in their writings, as a precious deposit, left to the Church. Since these things are so, and since we sacred Scripture, and the Symbols — the Apostolic, the Nicene, the Athanasian, the Ephesine, the Chalcedonian, &c. — uncorrupt do retain, with whole heart embrace, urge, teach, and confess: and with all the Prophets and Apostles testify: that remission of sins all do receive, doing true poenitentia, and in the name of the Lord Jesus Christ believing, Acts 10:43. Since also the Sacraments according to the institution of Christ we administer: they could and ought to learn hence, that our doctrine is not new, nor first before 60 years began: but that when the Pope and Bishops, neglecting these, in place of Prophetic and Apostolic Scripture, substituted traditions and doctrines and mandates of men, and obtruded them upon the Church, the light of the Divine Word from the infallible goodness of God again was kindled, and as Apoc. 14 it is said, to the whole world was preached**: *"Fear God, and give him honour."*
+
+**But if besides this it be their pleasure to sit in darkness, not to embrace the truth but to persecute — let them do this at their own peril, let not our soul come into their counsel. We rely upon this immovable foundation, because we know that our Churches have the same faith with the Apostles, and on account of the consanguinity of the Apostolic doctrine are truly Apostolic — as Tertullian saith in De Praescriptione.**
+
+— ❦ —
+
+*[Locus XXXIII De Scandalo COMPLETE — rendered in 1 tranche (T91). Q1–Q11 + OBIECTIO on Lutheran doctrine giving scandal + OBIECTIO on 60-year-old novelty. 736 top-level Q + 415 Obj rendered so far. Locus XXXIV De Miraculis follows in T92 at OCR line 40957.]*
