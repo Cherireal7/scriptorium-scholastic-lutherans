@@ -10954,4 +10954,152 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-*[Locus XXXI De Poenitentia Part 3 closes (Q32–Q38 + OBIECTIONES I–II on confession): Papist definition of poenitentia as virtus refuted [not our virtue but God's work, omits fides, ascribes emendationem to our powers vs Spiritus], 3-part scheme refutation (contritio + fides only per Mark 1/Luke 24, confessio is fructus not pars per Ps 32:4, satisfactio blasphemiarum plenum), poenitentia not Sacrament (no element), genesis (early Church severer disciplina exempla → Gratian ~1150 → Master of Sentences → Gabriel with uncertainty about Element), Papist contritio 5-fold (voluntarily assumed grief not Law-terrors + preparation to remission + Thomas: force of contritio remits culpa and gives gloriam + sufficient with perfect charity vs attritio + attritio not sufficient but preparing), OBIECTIO 2 Cor 7 dolor secundum Deum — plus in consequente, David/Magdalene/Publican impelluntur non merentur, Christ alone contritio meritoria, Papist confessio 6-fold (all mortal + circumstances species-changing per Ps 19:13 delicts unknown + certain time = Lent sine mandato Christi + Lateran 1200 established + Gratian 10 years before no decree + iudicial process Scripture ignorat + only mortal sins recensed vs original sin misunderstood + only to Priest per Ambrose "Verbum Dei dimittit peccata, Sacerdos Minister" + reserved cases only Pope/Bishops per no Christ word), OBIECTIONES I-II on confessio (I. no judgment without cognition — Magistrate vs Ministerium, latter announces to all penitents no distinguishing/imposing; II. general confession penitents impose on Priest — same possible in special, dealing with God not man). Part 4 (Papist satisfactio + ancient satisfactio canonica + 5 causes + 5 grades + refutation + OBIECTIONES I-VII on satisfactio) follows in T88. 687 top-level Q + 393 Obj rendered so far.]*
+## Question 39. What is their doctrine on satisfaction?
+
+**What is their doctrine on satisfaction?**
+
+**I. That the Priest can, and ought, enjoin satisfaction on the penitent according to the quality of the delict.**
+
+**II. That this satisfaction is meritorious.**
+
+— ❦ —
+
+## Question 40. What was in the ancient Church, satisfactio canonica or discipline?
+
+**What was in the ancient Church, satisfactio canonica or discipline?**
+
+**Those who either had denied the faith in persecution, or had fallen into manifest and atrocious crimes, the ancient Church did not lightly receive to the first signification of penitence, but first with certain Ecclesiastical penalties castigated, explored. They stood in a certain place, separated from the communion or assembly of the faithful with certain external signs of guilt: in food, drink, clothing, gestures, groaning, laments, and supplications confessing their guilt, and publicly seeking absolution.** Just as **those rites of public penitence are described in Tertullian, *De poenitentia*: in Eusebius, lib. 3, cap. 28; lib. 6, cap. 25. These public castigations of the penitent Sozomen calleth *exomologesis*: the Latins in a certain manner of their own called them *satisfactiones*.**
+
+**Hence afterward the Monks, ignorant of the true use of the word *satisfaction*, took occasion out of the ceremonies customary in the ancient Church, to dispute of satisfactions.**
+
+— ❦ —
+
+## Question 41. Wherefore did the ancients institute these Ecclesiastical castigations or satisfactions?
+
+**Wherefore did the ancients institute these Ecclesiastical castigations or satisfactions?**
+
+**This Ecclesiastical history testifieth — namely, not that penitents by these should satisfy for sins**:
+
+**I. But first, that the mind of penitents might be explored — whether seriously they did penitence, or truly only feigned it.**
+
+**II. That the offended and scandalized Church might be satisfied.**
+
+**III. That to others these might be for a terror by example.**
+
+**IV. That to the lapsed themselves this discipline might be an occasion unto true consideration of sin, and unto a firm and constant purpose of amendment.**
+
+**V. That this penalty might yield public testimony, that the Church and the Gospel do not teach license or impunity of sinning.**
+
+**From these things appeareth, how great is the difference between the satisfaction of the ancient Church and of the Papists. Wherefore there is nothing which unto the word *satisfaction*, customary in the writings of the ancients, they should appeal — since far otherwise in the writings of the Fathers than by the Papists, is it employed.**
+
+— ❦ —
+
+## Question 42. What grades of satisfaction have the Papists feigned?
+
+**What grades of satisfaction have the Papists feigned?** [*[T. 5, p. 19 et seq.*]*]
+
+**Five**:
+
+**I. It comprehended works of supererogation not mandated by God — as pilgrimages to holy places, prayer of the Rosary, fasts,** etc.
+
+**II. Redemption of Orders or assumption of a fraternity.**
+
+**III. The merit of the saints deceased**: for **the Pope affirmed, that he had plenary power through indulgences of dispensing the merit of the Saints.**
+
+**IV. Purgatory**: **when it was uncertain, whether one had sufficiently satisfied, they remitted men to purgatory.**
+
+**V. It embraced vigils and Masses for the souls, to be redeemed out of purgatory.**
+
+**All these grades, if to the light of the divine word they be compared, are found to be figments of men, blasphemies, and lies.**
+
+— ❦ —
+
+## Question 43. What is their sentence concerning the imposition of satisfactions?
+
+**What is their sentence concerning the imposition of satisfactions?**
+
+**Since after the remission of guilt (which according to their sentence is obtained in contrition) there remaineth an obligation to temporal penalties, which nevertheless on account of the severe justice of God is impossible for a man to avert, nor even sufficiently known to him — and yet it behoveth to satisfy for that obligation of temporal penalty: they say that power hath been given to the Priest of judging and estimating this penalty, and that part of the penalty by the power of the keys is remitted, but for the remaining part satisfaction is to be made. That therefore all justice may be fulfilled, the Priest, according to the quality of the delict which the penitent hath confessed, imposeth satisfaction — which if the penitent perform, he satisfieth God, and obtaineth grace and salvation. And this is the iuridicial process, of which the Council of Trent speaketh.**
+
+— ❦ —
+
+## Question 44. Is this doctrine of theirs founded in Scripture?
+
+**Is this doctrine of theirs founded in Scripture?**
+
+**By no means**:
+
+**I. For first it is certain that the remission of guilt from the remission of eternal penalties is not to be distinguished. As these sayings testify**: *"That everyone who believeth in him should not perish, but have eternal life,"* **John 3:15**. **Rom. 5:9**: *"Much more therefore now, justified in his blood, shall we be saved from wrath through him."* **Not therefore is it to be feigned or thought, that guilt being remitted, there remaineth eternal penalty to be paid. For sin being remitted on account of Christ, there is nothing which the faithful should fear — either the wrath of God, or eternal penalty**: for **the faithful certainly hath eternal life. John 5:24**: *"He who believeth in the Son, hath eternal life."*
+
+**II. Although the remission of eternal guilt is to be distinguished from the remission of temporal penalty — as clearly, Ps. 89:33**: *"I will visit in the rod their iniquities,"* etc. **This nevertheless to be true, from the sacred letters cannot be taught — that temporal penalties are subject to the power of the keys and Ministry, and that it lieth with the Priest on that account to impose penalties or satisfactions on penitents. For experience itself testifieth, that it is in the power of no man to send death, diseases, war, plague, famine — as also it is in the power of no man to mitigate or avert those penalties.** As **the examples of the first parents, of David, and of other penitents and converted teach. But these are in the hand of God alone. How therefore should the Priest attempt these things without the word and mandate of God?**
+
+**Pure figment also is it, that penalties imposed by the Priest satisfy for sins, and merit the grace and mercy of God. For nothing of this doth the word of God itself deliver.**
+
+**III. As to temporal penalties, it is established that God remitteth them sometimes plainly to the converted, sometimes mitigateth — and although he imposeth them, yet he imposeth them not on that account, that by them they should satisfy for sins, but hath far other causes, which in the Locus of the cross and calamities of the pious are expounded.**
+
+**IV. Far greatest is the difference between the Papist satisfaction, and the crucifixion of the flesh in the regenerate, which is daily and ought to be**: for **the regenerate by this do not satisfy for sins, but strive against the concupiscences of the corrupt flesh. Gal. 5. Paul, Rom. 7, striveth against the sin dwelling in his flesh, but doth not satisfy for it: For satisfaction for sin only Christ hath made.**
+
+**V. Besides, it is clear that one is the satisfaction for all sins — namely, the death and passion of Jesus Christ — unto which all the contrite, labouring, and burdened are to be remitted. And of the chief blasphemies of the Papacy one is, that they remit men unto their own satisfactions: since Christ alone hath satisfied and paid for the sins of all men and of the whole world, and no man can satisfy or pay for even the smallest sin.**
+
+**VI. Although also the faithful are to be exhorted unto good works — yet they perform good works not to that end, that by them they should satisfy for sins, but that they should bring forth fruits worthy of penitence, Matt. 3 — which they do, that men may see their good works, and after their example amend their life, and that God may be glorified. Matt. 5.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But (they say) by satisfaction one must rise again from sin committed.**
+
+**Respondeo**: **This also is a figment of theirs: 1 John 2 we read**: *"Little ones, if any sin, an advocate we have with the Father, Jesus Christ the just, and he is a propitiation for our sins,"* etc. **There nothing is said of our satisfaction, if, after receiving Baptism, or after we have obtained the grace of God, we shall have fallen into sin: But even then unto Christ alone are we sent.**
+
+— ❦ —
+
+### Objection II. **But upon David, 2 Samuel 12, received into grace, a penalty is imposed?**
+
+**Respondeo**: **This is imposed upon him by God, and not by Nathan the Prophet: nor doth he impose it upon him, that he should satisfy for his sins, but that with greater diligence and prudence he might avoid sin in future: Item, that he might have occasion, of persisting in the fear and invocation of God, and might escape security.**
+
+— ❦ —
+
+### Objection III. **But 1 Cor. 11:31 it is said**: *"If we should judge ourselves, we should not be judged."* ***Ergo,*** etc.
+
+**Respondeo**: **This signifieth not to impose upon oneself satisfactions for sins, or to perform those imposed by the Priest — but to accuse and reprove oneself of guilt,** etc., **which is done by the true penitent. For they themselves are angry with themselves, they displease themselves, and pardon of sins from God on account of Christ they seek, with a serious purpose of amending life.**
+
+— ❦ —
+
+### Objection IV. **But John saith**: *"Do fruits of penitence."* ***Ergo,*** etc.
+
+**Respondeo**: **He speaketh not however of Papist satisfactions, but of works truly good, which God himself hath prescribed — which ought to testify us to be truly converted to God through faith in Christ.**
+
+— ❦ —
+
+### Objection V. **But Moses for individual sins prescribed peculiar sacrifices.**
+
+**Respondeo**: **Great is the difference between the types of the Old Testament, which prefigured the one CHRIST'S sacrifice, and between the Papist satisfactions. Wherefore those sacrifices are here nothing to the point.**
+
+— ❦ —
+
+### Objection VI. **If satisfaction is not necessary, neither is restitution necessary — because restitution is satisfaction. But restitution is necessary. *Ergo* also satisfaction.**
+
+**Respondeo**: **The Major is to be distinguished. Canonical satisfaction, which they without the word of God urge, we say is not necessary. But civil restitution is another thing — which is a moral work prescribed by God. Zacchaeus ought to restore what was taken away, especially since he hath, whence he can, restore what he took away. But Canonical satisfaction is an undue work, wherewith they feign the temporal penalties and those of purgatory are expiated.**
+
+— ❦ —
+
+### Objection VII. **The Church, following the examples of the divine judgment, rightly doth. The Church, imposing on the lapsed satisfactions, followeth the judgment of God — because God imposed on the converted Adam penalties. *Ergo* the Church rightly doth, imposing satisfactions.**
+
+**Respondeo**: **The Major is to be distinguished: The Church rightly doth in following the examples of divine judgment in those things which are prescribed — but not in those which are not prescribed.**
+
+To the Minor: **The Papist Church followeth indeed the example of God, but without the word or mandate of God. God for his own right can impose on the converted temporal penalties. But the priests cannot do this, unless a peculiar mandate of God accede. For nowhere hath God mandated to priests, that on the converted they should impose temporal penalties.**
+
+— ❦ —
+
+### Objection VIII. **Afflictions render the pious conformable to the body of Christ. Satisfactions are afflictions. *Ergo* satisfactions render the pious conformable to the body of Christ.**
+
+**Respondeo** to the Major by distinction: **Afflictions divinely imposed render us conformable to the body of Christ. But canonical satisfactions in no way. For they are a figment of the human brain.**
+
+— ❦ —
+
+### Objection IX. **Works which Christ in us worketh, do not obscure his merit. Satisfactions are such works which Christ in us effecteth. *Ergo* they do not obscure the merit of Christ.**
+
+**Respondeo**: **The Minor is false. For Canonical satisfactions are neither works prescribed by God, nor by Christ in us effected — for they are done by human imposition and election, without the word and mandate of God: nor doth Christ work those works in us, since he hath prescribed nothing of them. And indeed they obscure the merit of Christ, whereby guilt and penalty is expiated, when they are feigned to be satisfactions for temporal penalties and those of purgatory.**
+
+— ❦ —
+
+*[Locus XXXI De Poenitentia Part 4 closes (Q39–Q44 + OBIECTIONES I–IX on Papist satisfactio): Papist doctrine 2-fold [Priest imposes pro qualitate delicti + is meritoria], ancient satisfactio canonica in early Church = public discipline for lapsed/atrocious per Tertullian De poenitentia + Eusebius 3.28/6.25 + Sozomen "exomologesis" (Latin "satisfactiones"), Monks ignored true meaning of word, 5 causes old Church instituted [explore mens seri vs simulated + satisfy scandalized Church + terror-example + occasion for firm emendatio + public testimony no license], 5 Papist grades [opera supererogationis pilgrim/Rosary/fasts + Ordinis redemptio + meritum sanctorum defunctorum via indulgentiae + Purgatory + vigiliae/Missae for redeeming souls] all figmenta hominum, Papist sententia on imposition (culpa remitted in contritione but obligatio ad poenas temporales remains → Sacerdos censens et imposing = Trent's iuridicial process), 6-point refutation from Scripture [remissio culpae not distincta from remissio poenarum aeternarum per John 3:15 + Rom 5:9 + John 5:24; even distinct per Ps 89:33 virga, poenae temporales not subject to potestas clavium sicut experientia; poenae God sometimes remits/mitigates/imposes but not to satisfy sed longe aliae causae; longe max discrimen Papisticam satisfactionem vs crucifixio carnis Gal 5 + Paul Rom 7 non pro peccato satisfacit sola Christi satisfactio; unica satisfactio est mors Christi, all contriti/laborantes remittendi, Papatus blasphemy remitting to own satisfactions; boni opera as fructus dignos Matt 3 non ad satisfaciendum], OBIECTIONES I-IX [I. per satisfactionem resurgendum — 1 John 2 ad solum Christum ablegamur; II. David 2 Sam 12 poena — imposed by God not Nathan, for diligentia non satisfactio; III. 1 Cor 11:31 diiudicaremus — seipsum arguere non satisfactiones; IV. John facite fructus — truly good works testifying conversion; V. Moyses singula sacrificia — typi Christi unicum; VI. restitutio est satisfactio — canonica non necessaria vs civilis restitutio Deo praecepta Zacchaeus; VII. Ecclesia follows exempla iudicij divini imposing Adam poenas — rightly in praeceptis, not in non-praeceptis, Sacerdotes need peculiar mandate; VIII. afflictiones conformes corpori Christi — divinitus impositae yes, canonicae figmentum cerebri; IX. Christ's works don't obscure meritum — Minor false, canonicae nec praeceptae nec Christo efficiuntur, obscurant meritum]. Part 5 (why auricular confessio abrogated + OBIECTIONES I-VI on our abrogation + why retain private confessio in our Churches + OBIECTIONES I-III) follows in T89. 693 top-level Q + 402 Obj rendered so far.]*
