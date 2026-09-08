@@ -8522,4 +8522,76 @@ Although therefore **human reason is greatly offended if it be said that with th
 
 — ❦ —
 
-*[Locus XXVII Part 14 closes (RESPONSIO ARG VIII–XIV + transitional 4-demonstranda + 6 defects in Adversary position). Part 15 (RESPONSIO ARG XV–XXII: pronomen, quod-quatenus, pro-significat, Capernaitica, Augustine Ps 98, patres-signum, relinquo-mundum, panis-adorandus) follows in T68. 518 top-level Q + 297 Obj rendered so far.]*
+## Argument XV. **The demonstrative pronoun *"This"* pointeth only to the sacred bread. *Ergo* the body of Christ is not exhibited in the Supper with the bread.**
+
+**Respondeo**: **We concede that the pronoun *"This"* pointeth to the bread — but not only [to the bread]**. For **of the bread Christ enunciateth this — that it is his body, delivered up for us**. *Ergo* it is not to be received of the sole bread, but must be explained according to the perpetual sentence of the words of the Supper. But **these expressly say — that Christ took bread, and said, "This is my body, which is delivered up for you."* And so he speaketh on account of the Sacramental union — because his true body, Sacramentally united with the bread, is truly exhibited and perceived**.
+
+— ❦ —
+
+## Argument XVI. **But (they say) the pronoun *"Which"* is the same as *"in so far as"* — that is, *"the body of Christ, in so far as it was crucified for us and is salutary to the faithful"* — that is, *"body"* in this place is the same as *"virtue of Christ's crucified body."*** [*[T. 3, p. 450*]*]
+
+**Respondeo**: **Even to boys in the schools it is known — that it is not right to take *"in the manner"* for *"in what quality,"* nor an accident for a substance, and thence to weave consequences**. And **in the words of Christ, *"Which,"* cannot be the same as *"in so far as."*** For **Christ speaketh not of the quality or accident, of how he was crucified, and what is the fruit of his crucified body, but of the substance of his own proper true body, which was crucified and died for us**. On this account he saith: *"This is my body, which is delivered up for you"* — **he saith not, "this is my body, in so far as it is delivered up for you," or "as concerneth the fruit and efficacy of my crucified body."***
+
+— ❦ —
+
+## Argument XVII. **In the words of the Supper *"Est"* [*is*] must be received for *"Significat"* [*signifieth*] — as **John 7:39**, *"the Holy Spirit was not yet"* — and **Exod. 12**, *"the Lamb is the Pascha."***
+
+**Respondeo**: **That in the words of the Supper *"Est"* be the same as *"Significat"* is a figment of the Adversaries, which they can never teach and demonstrate**. For **it followeth not: here or there *"Est"* is the same as *"Significat"* — *ergo* also in the Supper. The argument proceedeth from a particular and concludeth nothing.**
+
+As concerneth the saying **John 7:39**: **he there speaketh not of the substance of the Holy Spirit — that he was not yet** (for if this were so, he would not be from eternity true God, but would first have begun to exist by the invisible effusion upon the Apostles) — **but of the visible effusion of the Holy Spirit, which was to be done at the feast of Pentecost at Jerusalem**. Therefore **there in no wise can *"Erat"* be the same as *"Significabat."***
+
+As concerneth the other saying **Exod. 12:11**, **it is not so had in the text: "The Lamb is the Pascha of the Lord"** — but so: *"Ye shall eat in haste, for it is the Phase [transit] of the Lord"* — wherefore in vain they urge this. Besides, **in the alleged saying *"Est"* cannot be the same as *"Significat"***: for **the transit of the Lord then was not signified, but was made**. And though they should obtain that in the said place *"Est"* be the same as *"Significat"* (which yet shall not happen), **not on that account would it follow that in the words of the Supper also it be the same. For from pure particulars nothing followeth**.
+
+— ❦ —
+
+## Argument XVIII. **If the body of Christ is truly exhibited in the Supper, thence followeth creophagy or that Capernaitic manducation.**
+
+**Respondeo**: [*[T. 8, p. 175; T. 3, p. 366*]*]: **By no means followeth it.** For **we teach not such a manducation of the flesh or body of Christ, as of other flesh which is bought in the shambles: but this we teach: the body of Christ in the sacred Supper is truly exhibited with the bread and taken — yet in a mode in no wise Capernaitic, natural, local, comprehensible, terrestrial, and carnal — but supernatural, celestial, and to us in this life ineffable**.
+
+— ❦ —
+
+## Argument XIX. **Augustine Ps. 98 saith: *"Not this body which ye see shall ye manducate: I have handed down to you a Sacrament, which if ye understand spiritually, shall profit you."* *Ergo* the body of Christ with the bread in the sacred Supper is not exhibited and taken.**
+
+**Respondeo**: [*[T. 3, p. 374*]*] **Augustine in the said place declareth himself, that he speaketh of the Capernaites and Capernaitic manducation of the body of Christ**, who thought (as Augustine teacheth) that **the Lord would cut off some particles of his body and set them before them to be eaten**. This opinion **Augustine deservedly rejecteth and saith: *"Not this body which ye see shall ye manducate"* — namely, in such a comprehensible terrestrial mode, as ye think — naturally and sensually, as ye see my body here to be — not that shall ye manducate — but in another mode, supernatural**.
+
+And if the Adversaries so simply urge the words of Augustine, they must confess that in the Supper only bare signs are given — which yet they utterly deny to teach. And what need is there of words? **Augustine in the same Psalm and p. 1104 hath these words**: *"He took flesh from the flesh of Mary, and in that flesh he walked here, and that same flesh he hath given to us to be manducated for salvation."*
+
+From which sufficiently is clear, that **Augustine did not reprobate every manducation of the flesh or body of Christ, but only the Capernaitic — which we together with Augustine also reprobate and damn**.
+
+— ❦ —
+
+## Argument XX. **The holy Fathers called the Supper *a sign, a figure, a Symbol*. *Ergo* they did not establish that the body of Christ is truly exhibited with the bread.**
+
+**Respondeo**: [*[T. 3, p. 367 and following*]*] **True this is, that Tertullian, Augustine, Nazianzen, called the Supper of the Lord *a sign***. But **they never added — as our Adversaries do — that it is a sign or figure of the far-absent body and blood of Christ**. Rather **they taught this — that the Supper standeth of two things, as above hath been demonstrated**. Whence sufficiently is clear, **that they established not bare, but exhibitive signs in the Supper**; and some of them expressly assert, that **Christ said not: *"This is a figure or antitype"* — but *"This is my body"*** — as **Theophylact on Matt. 26 and Damascene book 4, cap. 14**.
+
+Besides, this also is known — **that by the holy Fathers *Symbols* are called on account of the analogy of bread and wine — but this doth not derogate anything from the substance of the Supper**. **Chrysostom on Hebrews calleth the whole action of the Supper *a commemorative sign of Christ's death*, but doth not take away the substance of the Supper**. And **Augustine against Adamantus the Manichaean saith**: *"The bread is a sign of the body — as the blood is a sign of the soul, which is not absent from the blood, but present to it: so also the body in the Supper."*
+
+— ❦ —
+
+## Argument XXI. **But (they say) Christ himself saith**: *"I leave the world: me ye have not always: I am with you a little while."* ***Ergo* his body in the Supper cannot be exhibited with the bread and taken.**
+
+**Respondeo**: [*[T. 2, pp. 45, 47 and following*]*] To this objection we first with **Bucer** respond: **so, by the testimony of his departure from the world to the Father, it is certain, that the Lord willed to teach no more than that he was passing from that mode of living of this age exposed to the senses of common men, into a glorious and celestial mode of living, which is proper to the resurrection and to the future age. This reason of the future life so demandeth, that as *"eye hath not seen, nor ear heard, nor into the heart of man hath it come"* — that is, cannot be comprehended by our reason**. Hitherto Bucer.
+
+**From these sayings therefore it cannot be demonstrated, that the body of Christ is not dispensed in the sacred Supper**, since **they show and teach nothing other than that the Lord, having left the reason of living of this age common and exposed to the senses, has proceeded into another glorious and celestial mode of living, in which he willeth not to cohabit with them in the same way as in the time of exinanition — but in a new, celestial and invisible mode**, of which **Matt. 28:20 he saith**: *"I am with you all days unto the consummation of the age."*
+
+**Secondly**: **Christ himself declareth himself, what by those words *"I leave the world"* he willeth to be understood**. For he saith **John 16:28**: *"I have gone forth from the Father, I have come into the world"* — **not that he had left the Father, or that the Father is not in the world. Heaven and earth he himself filleth: but that he himself did exinanite himself, and to all the miseries of this life — nay rather to death itself — for us and for our salvation he objected himself**.
+
+**Thirdly**: **Christ himself luculently explaineth himself, Luke 24:44, saying**: *"These are the words which I spoke unto you, when I was still with you."* **These words expressly attest that the said sayings — "a little while I am with you," "me ye have not always," "I leave the world" — were then already fulfilled** — and that **they are in no wise to be received of an omnimode absence of his whole person, but only of another mode of life and cohabitation and conversation**. For **saying, *"when I was still with you"* — he was not then absent from them, but so he was with them, that not as before — namely mortal, obnoxious to Passion and cross — was he present according to the reason of this age**.
+
+**Not therefore are the superior sayings to be distorted, as though Christ God and man had so left this world, that in no wise anymore is he with us, and so his body also in the Supper he cannot and will not exhibit and distribute to us**: **but they must be understood thus** — that **Christ, laying down the form of servant, is no longer with us according to that external, visible, and comprehensible mode of this age, according to the reason of this life. Which the presence of his body and blood in the Supper doth not destroy or take away**. This explanation of the aforesaid places is also handed down by **Augustine on John 14** and **Jerome on Matt. 26**.
+
+— ❦ —
+
+## Argument XXII. **If the body of Christ in the bread, and with the bread, were truly exhibited, the bread also would have to be adored. But the bread is not to be adored. *Ergo* etc.**
+
+**Respondeo**: **This followeth not.** For **first: Christ saith not: *"Take and adore,"* but *"Take, eat, this is my body."***
+
+Then: **Nor followeth this — that everything is to be adored in which God promiseth his presence, and in which he dwelleth**. For **God dwelt in the mercy-seat, and to the mercy-seat the priests adored: but the mercy-seat or ark of the covenant itself they did not adore**. **So therefore the sacred bread — on account of the Sacramental union, and because it is a means through which Christ in the sacred Supper truly exhibiteth and communicateth to us his body — is in no wise to be adored**.
+
+**Thirdly**: **Nor doth Christ say: *"Take and adore the bread, with which my body is Sacramentally united, is exhibited and perceived"* — but simply *"Take, eat"* — and this is to be done by us — nothing must be added to the words of Christ**.
+
+As for the fact that **the Papists enclose the host or the consecrated bread in a pyx, adore and carry it around** — let them themselves respond concerning this: nothing of this pertaineth to us or our confession. **We clearly profess that the adoration of the consecrated bread is a horrible Idolatry and blasphemy.**
+
+— ❦ —
+
+*[Locus XXVII Part 15 closes (RESPONSIO ARG XV–XXII on pronomen, quod-quatenus, pro-significat, Capernaitica, Augustine Ps 98, patres-signum, relinquo-mundum, panis-adorandus). Part 16 (Q on consecration of bread + wine + Q on transubstantiation + Q on Missa propitiatoria + Q on Cena pro mortuis) follows in T69. 518 top-level Q + 305 Obj rendered so far.]*
