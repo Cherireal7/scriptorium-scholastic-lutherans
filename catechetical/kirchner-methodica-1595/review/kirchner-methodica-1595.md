@@ -6425,3 +6425,117 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 — ❦ —
 
 *[Locus XXIII De Bonis Operibus is TRULY COMPLETE — 26 top-level Q on bona opera (Q1–Q26) + 6 OBIECTIONES on necessitas-ad-salutem + embedded 'estote perfecti' Obj + 6 OBIECTIONES on meritum + DE DILECTIONE PROXIMI (4 Q) + DE ELEEMOSYNIS (10 Q) + DE IEIUNIO (6 Q). Total Locus XXIII: 46 Q + 13 Obj units. 411 top-level Q + 209 Obj rendered so far. Locus XXIV De Invocatione Dei follows in T44.]*
+
+— ❦ —
+
+# Locus XXIV. Of the Invocation of God, or of Prayer
+
+### *De Invocatione Dei, seu, De Precatione*
+
+## Question 1. Can the invocation of God be omitted without sin?
+
+**Can the invocation of God be omitted without sin?** [*[Tab. l. pag. 792; T. 7, p. 203, 293; Tab. Enarr. p. 78*]*]
+
+**By no means.** For **those who invoke not God, contemn the mandate of God, who prescribed his own invocation; they contemn God himself also, from whom they have all good; they show themselves to be secure Epicureans, and to others they are a scandal**.
+
+— ❦ —
+
+## Question 2. What is invocation?
+
+**What is invocation?**
+
+**Invocation is a serious colloquy with God, in which we expound to him our necessity, and, faithful in Christ, from him we seek aid, and every kind of temporal and eternal gifts.**
+
+— ❦ —
+
+## Question 3. Who worketh true invocation in the faithful?
+
+**Who worketh true invocation in the faithful?** [*[T. 7, p. 77*]*]
+
+**The Holy Spirit** — whence also **Zech. 12:10, he is called the Spirit of grace and of prayers**.
+
+— ❦ —
+
+## Question 4. How manifold is invocation?
+
+**How manifold is invocation?**
+
+**Twofold.** For **one is true, which is done in Spirit and in truth; the other is false, which is done without knowledge of God and without faith in Christ — such is the invocation of the Jews, of the Turks, and of the hypocrites**.
+
+— ❦ —
+
+## Question 5. What is the difference between true and false invocation?
+
+**What is the difference between true and false invocation?**
+
+**I.** **True adorers adore whom they know — namely, God the Father in Christ**. [*[T. 7, p. 207*]*] **False adorers — as the Jews, Turks, etc. — adore what they know not**.
+
+**II.** **True adorers adore in faith, and are certain that on account of Christ they are heard.** [*[T. 4/1, p. 515 f. b.; p. 770; T. 7, pp. 205, 106, 210 f. b*]*] **The false pray without faith, with doubt.**
+
+**III.** **The false adorers adore with confidence of their own works. The true — with confidence of the merit of Jesus Christ.** [*[T. 4, p. 454, tabula*]*]
+
+**IV.** **The false adorers know not what they ought to ask. The true — from the word of God know what they ought to ask.**
+
+— ❦ —
+
+## Question 6. Who then are the true adorers?
+
+**Who then are the true adorers?** [*[T. 7, p. 77 f. b*]*]
+
+**Those who adore in Spirit and in truth** — **John 4:23** — **that is, with a contrite heart, and true knowledge and confidence of the merit of Jesus Christ**. For **that true invocation be, it is necessary that the Holy Spirit dwell in the heart, and effect it — that it be done in true knowledge of God through Christ Jesus**.
+
+— ❦ —
+
+## Question 7. Who is to be invoked and adored?
+
+**Who is to be invoked and adored?**
+
+**GOD himself — as he hath made himself manifest in his own word — namely, God the Father, Son, and Holy Spirit** — **Ps. 50:15**: *"Invoke me in the day of tribulation."*
+
+**The Ethnics also themselves think that they invoke God**, but since **they have no certain word of God, they invoke a figment of the heart and not the true God** [*[Gen. 13, T. 2, p. 29*]*]. For **GOD outside his own word neither can rightly be known, nor invoked**.
+
+**The Turks of our time**, although they say that they invoke the God of heaven and earth, **falsely however boast — since they plainly reject that manifestation which God made through his Son Jesus Christ**. For **he who honoureth not the Son, honoureth not the Father who sent him** — **John 5:23**.
+
+**The Jews**, although they say that they invoke the God of Israel, yet since **they reject and blaspheme Jesus Christ the Saviour of the world, no invocation of theirs is**.
+
+**The Papists**, although they adore God the Father and his Son Jesus Christ, yet by this very thing **they enervate their adoration, because they simultaneously invoke saints, the deceased**. **Not therefore are they true adorers.**
+
+**Only the faithful — who stand upon the manifested word, and adore God in Christ Jesus through faith — are true adorers.**
+
+— ❦ —
+
+## Question 8. But God I discern not with the eyes — how then can I address and invoke him?
+
+**But God I discern not with the eyes — how then can I address and invoke him?**
+
+**On this account it is said**: *"True adorers shall adore the Father in Spirit and in truth"* — **John 4:23** — that is, **they shall believe and confide according to his own word, in which he hath manifested himself and his propitious will — although in this life they see him not with their eyes**.
+
+— ❦ —
+
+## Question 9. But what Mediator and intercessor is to be used, that our prayers may be heard?
+
+**But what Mediator and intercessor is to be used, that our prayers may be heard?**
+
+**Human reason excogitateth various ways, various means unto this — terrified by the consideration of the divine majesty**. **The Ethnics therefore — as also among the Jews the Pharisees — willed to merit God by their sacrifices**. **The Papists of our time call the deceased Saints as intercessors**.
+
+**We however must approach that Mediator and intercessor, whom God himself hath set forth as propitiation through faith in his blood** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God, one also Mediator of God and men, the man Christ Jesus, who gave himself as redemption for all."*
+
+For **this one — as hath now been demonstrated — is set forth by God, gave himself for us, remaineth for ever, is our High Priest, having an eternal Priesthood, intercedeth for us** — **Heb. 7:24–25; Rom. 8**. **He is our Lord and King, under whose jurisdiction and tutelage and aid we are — who also with a doubled Amen, John 16:23, hath promised us**: *"If anything ye shall have asked the Father in my name, it shall be given to you."*
+
+**In this sole Mediator therefore we must acquiesce and confide** — and **upon this one's merit exhibited for us, and not upon the intercession of any creature — of Angel or of Saint — our prayers can and ought to lean**.
+
+— ❦ —
+
+## Question 10. Is true faith also required unto invocation, that we be heard by God?
+
+**Is true faith also required unto invocation, that we be heard by God?**
+
+**Very much so.** Hence also **Rom. 10:14** it is said: *"How shall they invoke him in whom they have not believed?"* For **it is impossible that thou shouldest truly ask and expect anything from God, unless in faith thou be certain that he is propitious to thee on account of Christ, and is a most prompt helper of thee on account of the same** [*[Gen. 49, T. 4, p. 232 v. 21; T. 4/1, p. 792*]*]. So **Rom. 5:2**: *"Being justified therefore from faith, we have access through faith into this grace, in which we stand."* And **experience itself attesteth, that unless the conscience be certain that it is in the grace of God, it doth not approach God, but flieth him as a severe judge**.
+
+So **Matt. 21:22**: *"Amen, amen I say to you, if ye shall have faith and shall not have hesitated, all things whatsoever ye shall have asked in prayer, believing, ye shall receive."* [*[T. 5, p. 40 f. b*]*] Whence it is sufficiently clear, that **those who ask without faith, receive nothing**.
+
+**Being about to pray therefore, let us not think, "I will pray indeed, but whether I am to obtain anything, I am uncertain; perhaps God heareth not my prayer, nor will hear."** But much more **thus let us collect**: **"I will invoke, because this is the mandate of God. I believe also and am certain, that God will hear my prayer in Christ Jesus — for in him he hath promised hearing to me. Wherefore he will hear me, and those things which are of use — especially in spiritual matters — he will grant to me."**
+
+— ❦ —
+
+*[Locus XXIV Part 1 closes (Q1–Q10). Part 2 (Q11 ordo + Q12 need for prayer + Q13 delay of hearing + Q14 God defers + embedded Ioh 9:31 Obj + Q15–Q18 orationis forma + vis precum + studium + Papist Sanctorum invocation) follows in T45. 421 top-level Q + 209 Obj rendered so far.]*
