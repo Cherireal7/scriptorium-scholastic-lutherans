@@ -7021,3 +7021,107 @@ Whence it is clear, that **they fall into the error of the Donatists, who conten
 — ❦ —
 
 *[Locus XXV De Sacramentis in Genere is TRULY COMPLETE — 17 top-level Q + 4 formal Objs on sacramentaliter. Total Locus XXV: 17 Q + 4 Obj units. 451 top-level Q + 230 Obj rendered so far. Locus XXVI De Baptismo follows in T50.]*
+
+— ❦ —
+
+# Locus XXVI. Of Baptism
+
+### *De Baptismo*
+
+## Question 1. What is Baptism?
+
+**What is Baptism?** [*[Luther: T. 1, p. 173; T. 6, p. 219; T. 3 l., pp. 238, 278; T. 7, p. 395*]*]
+
+**Baptism is not simple water, but that which is included in the divine mandate, and comprehended in the word of God** — **Mark 16:16**.
+
+— ❦ —
+
+## Question 2. How manifold is Baptism?
+
+**How manifold is Baptism?** [*[Luther: T. 4/1, pp. 292 f. b; T. 8, pp. 272, 273*]*]
+
+**Simply one** — **Eph. 4:5**: *"One Lord, one faith, one Baptism."*
+
+The Jews indeed and the Turks also use baptisms — they wash and cleanse themselves. But **the Jews' washings are in Christ taken away and abolished. The Turks' lotions are a fictitious work, which leaneth upon no word of God — wherefore also it is of no worth**.
+
+— ❦ —
+
+## Question 3. By whom was Baptism instituted?
+
+**By whom was Baptism instituted?**
+
+**Christ himself instituted it** — for **no one can institute Sacraments, save he who is God and omnipotent to be in them, and to work through them**.
+
+— ❦ —
+
+## Question 4. By whom is it administered?
+
+**By whom is it administered?**
+
+**By the ministers of the Word** — **Matt. 28:19**: *"Go therefore, teach ye all nations, baptizing them."*
+
+— ❦ —
+
+## Question 5. But what are the requisites of Baptism — that is, what is the true form of Baptism?
+
+**But what are the requisites of Baptism — that is, what is the true form of Baptism?**
+
+**That which was prescribed by Christ, Matt. 28:19**: *"Go teach all nations: baptizing them in the name of the Father, and of the Son, and of the Holy Spirit."*
+
+**The Element is water**, which needeth no consecration, as the Papists dream. Concerning consecration **no word or mandate of Christ or of the Apostles exists in the sacred letters**. **Acts 8:38 — the Eunuch is baptized in the passing water, without any preceding consecration.**
+
+— ❦ —
+
+## Question 6. Who are to be baptized?
+
+**Who are to be baptized?**
+
+**All men.** As Christ himself saith: *"Baptize ye all nations"* — he saith not, "baptize only the elderly, but not infants" — but **all nations, whether elderly, whether young, whether infants**.
+
+— ❦ —
+
+## Question 7. Whence is the Baptism of infants proved?
+
+**Whence is the Baptism of infants proved?**
+
+**I.** **From the institution of Baptism**, where Christ saith: *"Baptize all nations"* — **making no distinction, nor excluding infants from Baptism** [*[T. 4/1, p. 789 f. b*]*].
+
+**II.** **From the examples of the Apostles, who baptized whole houses or families** — **Acts 16:15, 33; 1 Cor. 1:16** — **in which were not only the elderly, but also infants** [*[T. 4, p. 329; …33*]*].
+
+**III.** **From the custom of the Apostolic Church observed even to the present day.**
+
+**IV.** **Peter, Acts 2:39, speaking of Baptism, expressly saith**: *"For to you is the promise, and to your sons."* **Therefore there is no doubt but that infants also are to be baptized.**
+
+**V.** **Mark 10:14, Christ saith the kingdom of God to be of little ones — how therefore should Baptism, through which the kingdom of God is given, be denied to them?**
+
+**VI.** Since **infants also are flesh, and from flesh in sins conceived and born, they have need of regeneration** — **John 3:5–6; Ps. 51:7. That therefore they may be renewed, they are to be baptized.**
+
+**VII.** **In the Old Testament infants were circumcised** [*[Gen. 17, T. 2, p. 81*]*] — **why then in the New should they not be baptized?**
+
+**VIII.** **Nowhere in Scripture do we read that Baptism is bound to the confession, age, or intelligence of man, and that this must be awaited** [*[T. 5, p. 186 f. b*]*]. **Not therefore is it necessary, that the Baptism of infants be deferred until their mature age.**
+
+— ❦ —
+
+## Question 8. Can infants believe?
+
+**Can infants believe?** [*[T. 4, p. 319 f. b*]*]
+
+**By themselves and of themselves they cannot believe.** For **faith is not the work of man, but the gift of God — Eph. 2:8**. But when they are baptized, **the Holy Spirit, who cleanseth them through water in the word, regenerateth them, kindleth faith in them, and maketh them faithful**. Whence **Christ, Matt. 18:6, attributeth faith to little ones**.
+
+— ❦ —
+
+## Question 9. Briefly expound to me the words of Baptism: *"I baptize thee in the name of the Father and of the Son and of the Holy Spirit."*
+
+**Briefly expound to me the words of Baptism: *"I baptize thee in the name of the Father and of the Son and of the Holy Spirit."***
+
+**First**, these words comprehend and set before us **the chief and highest article of our faith, concerning the most holy Trinity — without the knowledge of which no man can be saved**. **One name here is** (*"Baptize them,"* saith he, *"in the name"*) — **one also the divinity or divine essence of all three Persons, the same honour, the same glory and majesty**.
+
+**Then**, **to be baptized in the name of the Father, and of the Son, and of the Holy Spirit is to have the name of God invoked upon us — to be by grace unto eternal life received into sons of God and adopted**. **By nature indeed we are sons of wrath, but through Baptism in the name of God we are cleansed from sins, and adopted into sons of God on account of Christ. The eternal Father, on account of his beloved Son, maketh us accepted to himself. The Holy Spirit regenerateth and reneweth us, that we may die to sin, and begin to live in Christ Jesus to God. The eternal Father, on account of his Son, heareth our prayers, and the Holy Spirit consoleth us.**
+
+**Thirdly**: **Since Baptism is performed in the name of the most holy Trinity, it is perspicuous that the dignity and efficacy of Baptism is not to be depended upon or estimated from the minister** [*[T. 2/1, pp. 271, 272*]*].
+
+**Firmly therefore let us believe, that the most holy Trinity in Baptism receiveth us into grace, regenerateth, giveth remission of sins and the Holy Spirit to us, and willeth henceforth to be with us, to lead us, rule and protect us — whatever the minister be**.
+
+— ❦ —
+
+*[Locus XXVI Part 1 closes (Q1–Q9). Part 2 (Q10–Q17 + embedded 'crediderit et baptizatus' Obj + Q on sanctitas of children before Baptism) follows in T51. 460 top-level Q + 230 Obj rendered so far.]*
