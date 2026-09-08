@@ -12420,4 +12420,171 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXVII De Coniugio COMPLETE — rendered in 1 tranche (T96). Q1–Q15 + OBIECTIONES I–II on Rom 8:8 flesh + Priests-abstain. 799 top-level Q + 424 Obj rendered so far. Locus XXXVIII De Antichristo (planned 2 tranches) follows in T97 at OCR line 43370.]*
+# Locus XXXVIII. Of Antichrist
+### *De Antichristo* [*[In praefat. sup. Dan.; T. 8, p. 241]*]
+
+## Question 1. Who is Antichrist?
+
+**Who is Antichrist?**
+
+**Respondeo**: **ANTICHRIST, or the Kingdom of Antichrist, is a syncretism of Ecclesiastical and political governance, introduced by Satan and his ministers, straining every nerve, that under the name and pretext of Christ he perturb the Church and destroy all things which Christ hath taught and instituted; under species of piety, the kingdoms of this world absorb, and consciences from Christ to human traditions, to doctrines of demons, lead away.**
+
+— ❦ —
+
+## Question 2. Whence is the kingdom of Antichrist? [*[T. 8, p. 218]*]
+
+**Whence is the kingdom of Antichrist?**
+
+**Respondeo**: **The kingdom of Antichrist began even in the time of Paul to work the "mystery of iniquity," 2 Thess. 2:7 — but finally openly did it burst forth, when Phocas the homicide constituted Boniface III, around the year of Christ 607, head of the universal Church at Rome; which authority the successors of the Popes with continual zeal took up and affected, and this kingdom day by day more and more with force and deceit amplified and corroborated.**
+
+**The true author therefore of this kingdom is Satan himself, 2 Thess. 2:9**: *"Whose coming is according to the working of Satan."*
+
+**The organs have been the Pontiffs themselves, who in this work their pains placed and place: for although Rome principally many outstanding Bishops — some of whom even with their blood to the truth gave testimony — did nourish, yet far more it had, who partly according to the working of Satan, partly by their own ambition affected the primacy: which from the lives of the Pontiffs is established.**
+
+**And Emperors also, as Phocas, Henry V, and others too Pope-eating, not a little augmented the kingdom of Antichrist.**
+
+— ❦ —
+
+## Question 3. Whence is it established, that this kingdom of Antichrist is from the Devil? [*[T. 8, p. 220]*]
+
+**Whence is it established, that this kingdom of Antichrist is from the Devil?**
+
+**Respondeo**:
+
+**I. Because the political Magistrate could not constitute this kingdom, since he had not this power. For it is not of the empire or of the Roman Emperor, but of God's power, such a head to give and constitute to the Church.**
+
+**II. Neither could the Ministers of the Church, Bishops or Councils, sanction this kingdom, or constitute the Pope head of the Church and vicar of Christ, since it is not in their hand, but in the hand of God alone, to constitute a certain head for the Church.**
+
+**III. Nor also doth the Pope concede, that this power and his primacy he received from men.**
+
+**Since therefore the Papacy neither by the political Magistrate, nor by Bishops or Councils, is or could be constituted — since such power they have not — necessary it is, that it be from the Devil.**
+
+**For that from God it be not, is manifest: because the heavenly Father gave Christ as head of the Church, Eph. 1:22, Eph. 5:23. But not the Roman Pope. Christ also of the Roman Pontificate, of the Roman Pontiff, and of the Roman Primacy in his sermons no letter or syllable maketh mention.**
+
+**No Roman Pope also before Boniface III dared to usurp that title of Bishop of the universal Church in the whole earth. Gregory the Great, his predecessor, rejected this title, and himself the mark of Antichrist proclaimed. But from that Boniface, the successors of the Popes with all force and fraud attempted to retain and amplify that primacy, nor with little blood was this Primacy retained, and is defended even now.**
+
+**That the kingdom of the Pope is from the Devil, is testified also by this: that he himself in the decreta, dist. 40, writeth**: *"Although many thousands of souls with himself into hell he lead down, yet to no one is it lawful to say to him, 'What dost thou?'"* — **and things like these. Which openly testifieth, that his kingdom and works are not from God, but from the Devil. The same also Paul testifieth, 2 Thess. 2:9**: *"Whose coming is according to the working of Satan."*
+
+— ❦ —
+
+## Question 4. But how hath the kingdom of the Pope so grown and been amplified? [*[T. 2, p. 53; T. 8, p. 218]*]
+
+**But how hath the kingdom of the Pope so grown and been amplified?**
+
+**Respondeo**:
+
+**I. By occasion of manifold heresies and schisms of the Eastern Church, in which the Easterners sought counsel from the Roman Bishops: which abuse afterwards they claimed to themselves as every judgment of the Church.**
+
+**II. By dissension of Bishops: for often the innocent, who in the sincerity of doctrine were deposed and excommunicated, took refuge to the Roman Bishops, and their aid implored.**
+
+**III. By the indulgence of Emperors, who to Bishops this authority conceded, and goods, whole regions even, to them donated — as Phocas and others.**
+
+**IV. By the authority of the city of Rome, which was then called the head of the world: added to these the horrid perturbation of the Roman Empire by the Barbarians, who then made irruption into Italy and Rome; item, the translation of the Seat of the Roman empire by Constantine to Constantinople. Item, the merits of certain Popes in the city of Rome — as of Leo I, who did calm Attila; of Pelagius I, who persuaded Totila, that he spare Rome.**
+
+**V. By the horrid abuse of the saying, Matt. 16:18 [*[T. 1, p. 155 & seq.]*]**: *"Thou art Peter,"* &c. — **by which they terrified Emperors and Kings, and to themselves as by a certain thunderbolt subjected them. Whereas this saying maketh as much for the confirmation of the Roman primacy, as that Gen. 1:16 maketh**: *"God made two great lights,"* &c. **Nor do the Popes see, if to that saying they appeal, that the triplicated crown with all papal dignity is to be laid down by them, and with Peter poenitentia and remission of sins is to be taught, and the Sacraments also administered. See the Epistle of Bernard 227 to Eugene the Pope. Summary: This saying doth nothing for confirming their primacy:**
+
+**1. Christ himself the Apostles disputing about primacy sharply rebuked, Luke 22. How therefore by this saying would he have decreed the Primacy to Peter?**
+
+**2. Uncertain it is, whether Peter ever came to Rome. They contend him to have been at Rome in the year of Christ 44, but certain it is, that himself in the year of Christ 57, when the Apostolic Council was celebrated, Acts 15, was still at Jerusalem: Nor was he at Rome when Paul as captive was led to Rome around the year of Christ 58 and 60. For in the Acts and in the Epistles of Paul nothing of him is had, whereas yet no doubt is, if he had been at Rome, that Paul would have made mention of him in his Epistles, as also without doubt Paul in bonds would have approached him. But nothing of these in the Acts is read. Although they say, that afterwards himself came to Rome, yet for a short time must he have been there. And thus his primacy at Rome will plainly be uncertain.**
+
+**3. Although he had been at Rome, nothing however would this make for the matter. For it followeth not: Peter was at Rome: Ergo the Roman Pontiffs are supreme Bishops of the Churches of the Christian world and vicars of Christ.**
+
+**4. Although also to Peter something singular were promised (which however was not done), yet that to the Roman Pontiffs by hereditary right would not pertain.**
+
+**5. If Peter had been supreme Bishop of Rome and head of the whole Christian world, the Apostles in their writings without doubt would have signified this — but by no word have they done this.**
+
+**6. Peter himself in his Epistle calleth himself not Bishop, but co-elder, 1 Pet. 5:1 — much less to himself the primacy over all Doctors, and the whole Church, and the vicariate of Christ would he arrogate.**
+
+**7. Certain it is, that Peter in that saying, Matt. 16, refereth not to the Roman Pope, but to Christ, or to Peter's confession of Christ, since the Church upon a mortal man and sinner neither can nor ought to be built. Augustine, tract. ult. in John**: *"Upon this rock, which thou hast confessed, I will build my Church."* **And Hilary, book 6 De Trinitate**: *"To Peter the Father revealed, that he should say: Thou art the Son of the living God: therefore upon this rock of confession is the edification of the Church: this faith is the foundation of the Church."* **And Chrysostom**: *"upon this rock, not upon Peter: for not upon a man, but upon the faith of Peter he built his Church."* **And what was the faith?** *"Thou art the Christ, the Son of the living God."*
+
+**8. The keys also not to Peter alone, but to all the Apostles at once were handed down — as from Matt. 18:18, where Christ the same promise repeateth: as also from John 20:22–23 is manifest.**
+
+**9. Diligently to be noted also, that the glossators of the Canon law deny, that from this saying the primacy of Peter or of the Roman Pontiff can be demonstrated: for they distinguish between the promise and the tradition [i.e. the handing-over]. They contend therefore John 21:16, where it is said**: *"Feed my sheep"* — **the primacy of Peter first to have been confirmed: for there Christ himself in the deed did hand over to Peter jurisdiction, dominion, and plenary power. In the chapter "Significasti." Item, in the chapter "Considerandum" — but everywhere the same demonstration of truth is.**
+
+— ❦ —
+
+## Question 5. But what moved the Pontiffs to affect this primacy? [*[T. 6, p. 514]*]
+
+**But what moved the Pontiffs to affect this primacy?**
+
+**Respondeo**: **Without doubt Satan himself, and ambition and lust of dominating and possessing that power, in which it would be lawful to them, what they would please, would be permitted — dist. 40, cap. Si Papa.**
+
+— ❦ —
+
+# OBIECTIONES
+
+### Objection I. **But (they say) the reason of order doth demand this?**
+
+**Respondeo**: **No order here hath place, unless in the Word of God founded it be demonstrated — which of the Pontificate they will not demonstrate in eternity.**
+
+— ❦ —
+
+### Objection II. **But is it not necessary, that in the Church there be some visible head?**
+
+**Respondeo**: **But sacred Scripture teacheth no head of the Church, save Jesus Christ alone. Eph. 1:22**: *"And him Christ he gave head above all things to the Church."* **Col. 1:18**: *"And he is the head of the body, the Church."*
+
+— ❦ —
+
+### Objection III. **But by the Papacy the unity of the Church hath been preserved?**
+
+**Respondeo**: **Much more destroyed and dissipated. His own Church the Pope alone hath nourished, but not Christ's Church, for this he extremely hath persecuted and doth persecute: which the histories of all times and experience make sufficiently testified.**
+
+— ❦ —
+
+## Question 6. But in what doth the Papacy, or the kingdom of Antichrist, consist?
+
+**But in what doth the Papacy, or the kingdom of Antichrist, consist?**
+
+**Respondeo**:
+
+**I. It is something patched together from Ethnic and Judaic ceremonies, as in the feast of the Purification of Mary, of the Bacchanalia, and others, one may see, which from the Ethnics have been transferred.**
+
+**II. From confusion and admixture of spiritual and secular dominion. For the Pope hath taken to himself the right of the sword, against the express Word of Christ, Luke 22:24**: *"The kings of the Gentiles have dominion over them, and they that have power over them are called beneficent: But you not so."*
+
+**III. From horrid depravation of the principal articles of Christian doctrine, of invocation, of the Mediator and his office, of Law and Gospel, of poenitentia, of indulgences, of human traditions, of the Lord's Supper, of the prohibition of the matrimony of priests, of doubting,** &c.
+
+**IV. From notoriously fabricated fables — as of the donation of Constantine, that the Emperor Constantine the Great gave to the Pope the crown and every imperial dignity of Rome in Italy, and all the Western regions: And of other privileges and immunities, which they take to themselves and feign to have been given.**
+
+**V. From falsification of Councils and of Ecclesiastical history — as this from the sixth Council of Carthage on the primacy of the Pope is clear.**
+
+**VI. From fictitious Cardinals, Monks, Priests, and similar Ministers of this kingdom.**
+
+— ❦ —
+
+## Question 7. What are the chief properties of the Papacy?
+
+**What are the chief properties of the Papacy?**
+
+**Respondeo**:
+
+**I. To pervert the words and doctrine of Christ.**
+
+**II. To invert the Sacraments instituted by Christ, and out of the holy Supper of the Lord to make the sacrifice of the Mass, to be offered for the living and the dead.**
+
+**III. In place of Christ, Saints and Idols to substitute as Mediators, and to teach that these are to be invoked.**
+
+**IV. Purgatory to feign, or at least to obtrude upon the whole Church.**
+
+**V. Human traditions to prescribe, to them equal with sacred Scripture authority to attribute, and to teach that it must be attributed.**
+
+**VI. To prohibit marrying, or to interdict matrimony to priests — which Paul expressly said to be a doctrine of demons, 1 Tim. 4:3.**
+
+**VII. To command abstinence from certain foods, 1 Tim. 4:3.**
+
+**VIII. To do lying signs and prodigies, 2 Thess. 2:9.**
+
+**IX. To convert the spiritual kingdom of Christ into a secular kingdom and dominion.**
+
+**X. To extremely persecute the true Church of Christ, and to kill the contradictors.**
+
+— ❦ —
+
+## Question 8. What is the end of the Papacy?
+
+**What is the end of the Papacy?**
+
+**Respondeo**: **Infinite thousands of souls with itself into hell to lead down — dist. 40, cap. Si Papa.**
+
+— ❦ —
+
+*[Locus XXXVIII De Antichristo Part 1 — Q1–Q8 + OBIECTIONES I–III on order/visible-head/unity rendered in T97 covering: definition of Antichrist as syncretism, origin at Phocas AD 607, three-fold proof from Devil (not by Magistrate/Councils/Pope's own admission + Christ silent + Gregory rejected title + Si Papa self-witness), 5 causes of Papal growth (Eastern schisms, Bishop dissension, Emperor indulgence, Rome's authority + Barbarian upheaval + Constantinian transfer + Leo/Pelagius, Matt 16:18 abuse with 9-point refutation), Satan's motive, 3 OBIECTIONES, 6-fold constitution of Papacy, 10 chief properties, end = damnation. Part 2 (Q9–Q13: Pope as head with 21-point enumeration of blasphemies + how manifested + how long endures + what Christians must do) follows in T98. 807 top-level Q + 427 Obj rendered so far.]*
