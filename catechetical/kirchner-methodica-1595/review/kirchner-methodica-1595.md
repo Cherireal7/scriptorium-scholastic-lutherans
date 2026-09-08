@@ -8234,4 +8234,64 @@ From all these it is clear: **the body of Christ *per se* is pernicious to no on
 
 — ❦ —
 
-*[Locus XXVII Part 10 closes (OBIECTIONES I–VII on indignorum manducation). Part 11 (OBIECTIONES VIII–XIV: Spiritual gifts not to indigni + res-sacramenti Augustinian argument + Judas as panem-Domini vs panem-Dominum + Paul says 'panem' not 'corpus' + Adversaries' sun-radius similitude + exhibition/reception distinction + extra usum nothing has Sacrament-power) follows in T64. 518 top-level Q + 270 Obj rendered so far.]*
+### Objection VIII. **Spiritual gifts are not given to the unworthy. The body of Christ is a spiritual gift. *Ergo* it is not given to the unworthy.**
+
+**Respondeo**: **Although this argument standeth with both ambiguities and incomplete propositions**, yet it can be conceded concerning the spiritual manducation unto salvation. But **concerning the Sacramental it concludeth nothing**. **The unworthiness and incredulity of the unfaithful doth not alter the substance of the Supper — although they abuse it unto their own pernicion and condemnation**. Just as **the sun is not changed on account of those who abuse its light — and just as the gifts of tongues and of prophecy are nonetheless good gifts of God, although the impious abuse them**.
+
+— ❦ —
+
+### Objection IX. **Those who receive only the Sacrament, but not the proper thing of that Sacrament, these do not receive the body of Christ — for this is the proper thing of this Sacrament. But the evil, as Augustine teacheth, receive the Sacrament, but not truly the thing of the Sacrament. *Ergo* they receive not the body of Christ.**
+
+**Respondeo**: **Equivocation lurketh in these terms, *Sacrament* and *thing of the Sacrament***. **The Adversaries by *Sacrament* understand only the sacred Symbols of bread and wine; but *the thing of the Sacrament* they call the virtue and efficacy of the body of Christ**. But we deny both expositions.
+
+For **first, that *Sacrament* signifieth not the bare sacred Symbols, hence is clear** — because **the Sacrament standeth of two things: bread and the body of Christ, wine and the blood of Christ**, as also **Irenaeus and Augustine expressly say, and the very words of institution luculently show**.
+
+Then, that **the thing of the Sacrament in the words of Christ *"eat, this is my body"* is not the same as the efficacy and virtue of the body of Christ, is sufficiently clear** — and **so perspicuous, that even Beza himself in Ep. 5 ad Alamannum confesseth it**.
+
+But as to the very saying of Augustine: **it is known that he useth this term *"the thing of the Sacrament"* in two ways**. **First** for the very body of Christ — for so **against the letters of Petilian, book 7, cap. 40, he writeth**: *"From one holy thing indeed, Judas took to himself judgement, Peter salvation."*
+
+Here anyone endowed with sound mind seeth: **Augustine calleth *the holy thing* not the fruit, virtue, efficacy, operation, or merit of the body of Christ, but the very body of Christ himself**: for **the merit of Christ no one can receive unto judgement, but only unto salvation**.
+
+**Then he useth the same term also speaking of the virtue and salutary operation of the body of Christ** — as **in tract 26 on John, when he saith**: *"The thing of the Sacrament can cede unto ruin to none of men, but is unto life for all."*
+
+**Nothing therefore this argument concludeth — since it laboureth under equivocation.**
+
+— ❦ —
+
+### Objection X. **Augustine, tract 59 in John, saith: *"Judas received the bread of the Lord against the Lord."* But the Apostles received the bread the Lord. *Ergo* Judas received not the body of the Lord.**
+
+**Respondeo**: **That rightly the saying of Augustine be understood, one must attend, what he calleth *the bread of the Lord* and *the bread the Lord***. This is certain: **Augustine in this saying treateth of the double manducation of the body of Christ — namely of the Sacramental, which is proper to this Supper, and of the spiritual, which also outside this Supper is done and can be done by the faithful**.
+
+**By *the bread of the Lord* therefore he understandeth the Sacramental**: whence also **book 7 De Baptismo, against the Donatists, he saith**: *"The Lord calleth the bread his body."* Whence also **Irenaeus, book 4, cap. 44, saith**: *"The bread of the Lord, over which thanks are given, is the body of the Lord."* Item **Ambrose, book 4 De Sacramentis, cap. 4**: *"The bread is the body of Christ the Lord."* And **Jerome ad Hedibiam**: *"The bread which the Lord broke and gave to his disciples, is the body of the Lord and Saviour."*
+
+On the contrary he understandeth the spiritual manducation by *the bread the Lord*. **This bread the Lord, or the virtue and efficacy and merit of the body of Christ, Judas received not — because he approached without faith**. And **of this bread, which the faithful alone enjoy, the sixth chapter of John speaketh**. **The one phrase therefore [Augustine] seemeth to have regarded to the institution of the Supper, but the other to the sixth chapter of John.**
+
+— ❦ —
+
+### Objection XI. **The Apostle saith not that the body of Christ is manducated unworthily, but the bread**: *"Whosoever shall have manducated this bread unworthily"* — **1 Cor. 11:27**. ***Ergo* the unworthy do not receive and manducate the body of Christ.**
+
+**Respondeo**: **But he speaketh of that bread of which he had said before, that it was the body of the Lord delivered up for us — and of which, 1 Cor. 10:16, he wrote**: *"The bread which we break, is it not the participation of the body of the Lord?"* And **he explaineth himself, when he addeth**: *"not discerning the body of the Lord."* And **in the same mode also of the faithful he saith, v. 28**: *"Let a man prove himself, and so let him eat of that bread, and drink of that cup."* Therefore **also the faithful themselves would not receive the body of the Lord, but only bread, if the consequence of the Adversaries availed**. This saying therefore doth not overturn the manducation of the unworthy, but rather solidly confirmeth it.
+
+— ❦ —
+
+### Objection XII. **As he who excludeth the light of the sun cannot participate its rays: so it is impossible that the unfaithful, who perceive not the virtue and efficacy of the body of Christ, should participate his body.**
+
+**Respondeo**: **Similitudes in this business, as elsewhere, prove nothing.** For **concerning controversies of this kind, judgement and decree must be made not from plausible similitudes, but from the word of GOD**.
+
+**Then Christ acteth most freely, and to the unfaithful he indeed exhibiteth his body in the Sacrament, but for that reason imparteth not to them its power and efficacy** — that is, **he saveth them not, but judgeth them on account of their incredulity**. **Nor should this seem strange to us — that Christ doth not always and to all vivify by his body**. For **food, however pure** (saith **Chrysostom, Hom. ad Antiochenos**), **received by a man into an impure and corrupt stomach corrupteth all things, and becometh the cause of illness**. So also **the Supper of the Lord**: **Christ is constituted by his Father both judge and Saviour** — **which his own office, wherever he is, he dischargeth**: **in the faithful worketh salvation, in the unfaithful judgement**.
+
+— ❦ —
+
+### Objection XIII. **But (say the Adversaries) there is a discrimen between the exhibition and the reception of the body of Christ: to all indeed it is exhibited; but the unfaithful by their incredulity reject and repel it from themselves, and thus become guilty of the body of the Lord. *Ergo* the unworthy do not receive the body of the Lord.**
+
+**Respondeo**: **Paul himself responded to this objection, saying 1 Cor. 11:27**: *"Whosoever shall have manducated or drunk unworthily"* — **he saith not, "whoever rejecteth or repelleth" — "shall be guilty of the body of the Lord."*** And **Augustine, Ep. 162**: *"The Lord himself tolerated Judas — the devil, thief, and seller of himself — and permitted him to receive among the innocent disciples what the faithful know to be our price."* Whence it is clear, **that Judas was made guilty of the body of the Lord not by rejecting but by manducating unworthily**. And **against Fulgentius**: *"Judas the traitor received the good body."* And **Chrysostom, Hom. 61 ad Antiochenos**: *"With impure mind they receive the body of the Lord."* **The distinction therefore of the Adversaries here can find no place.**
+
+— ❦ —
+
+### Objection XIV. **Outside the use instituted by Christ nothing hath the power and reason of the Sacrament. *Ergo* the impious hypocrites and the unworthy cannot receive the body of the Lord, but only the Symbols without the things signified — unto condemnation.**
+
+**Respondeo**: **The aforesaid rule treateth not of the manducation of the unworthy, but is opposed to the idolomania of the Papists** (who feign the consecrated bread enclosed in a capsule and paraded in procession pomatically to be a Sacrament — although in the words of institution no mention is made of this phantasy). But **the Adversaries falsely distort this rule to the use of faith, and hence they try to evince, that since the unworthy lack true faith, they receive nothing besides the sacred Symbols** — by which they do injury to this rule. And if this argument concluded anything, it would follow that the Sacrament perceived by hypocrites plainly is not a Sacrament — the contrary of which above hath been demonstrated.
+
+— ❦ —
+
+*[Locus XXVII Part 11 closes (OBIECTIONES VIII–XIV on indignorum manducation). Part 12 (**RESPONSIO AD PR ĂECIPVA ARGVMENTA ADVERSARIORVM** on Christ's body-nature — 7 arguments on human body properties + local circumscription + visibility of Christ's body + not-a-spirit objection) follows in T65. 518 top-level Q + 277 Obj rendered so far.]*
