@@ -13496,4 +13496,132 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XLIII De Resurrectione Mortuorum COMPLETE — rendered in 1 tranche (T103). Q1–Q21 with 4 formal Obj: certainty from Job 19 + Dan 12 + Isa 26 + Ezek 37 + John 5:28 + 1 Cor 15 with 8-fold Pauline demonstration (Scripture / Christ's example / witnesses / Church consent / absurdities of denial / Baptism / afflictions / nature) + argument from divine justice, definition, twofold (special vs universal + life vs judgement), Trinity as author, Christ as meritorious cause, body rises not soul per Epiphanius contra Hieracites, all rise John 5, last-day survivors changed 1 Cor 15:51-52, same flesh per Job 19:26 + Creed, by omnipotence John 5:25, whole man saved 2 Cor 5:10, in novissimo die, 1 Cor 15:42-44 four contrasts (corruption/incorruption, ignobility/glory, weakness/power, animal/spiritual) each expounded, gift-distinctions Dan 12:3 + 1 Cor 15:41 stars, blessed vs damned share resurrection differ in glory, question of infants' stature deferred to eschaton (Eph 4:13), ends = glorification + fulfillment of promises, consequences = corruption ends, creature freed Rom 8:21, ministry ceases 1 John 3:2, polities/economies cease Dan 2:44, benefits delivered Isa 25:8, retribution Rom 8:18, refutation of Hymenaeus/Philetus 2 Tim 2:18 by spiritual/bodily distinction, 4 Obj rebutted (flesh/blood per Aug ad Laur. 91 = corruption not substance, new gifts not new substance, 2 Cor 7:1 = interior cleansing, immutation = qualities not substance), Chiliasts refuted (Apoc 20 = Christ's reign to Mahomet/Papacy, not carnal per Mark 12:25), Sadducees refuted Matt 22:29. 886 top-level Q + 440 Obj rendered so far. Locus XLIV De Extremo Iudicio follows in T104 at OCR line 46219.]*
+# Locus XLIV. Of the Last Judgement
+
+### *De Extremo Iudicio*
+
+## Question 1. Is this last judgement also certain to come? [*[T. 3, p. 187]*]
+
+**Is this last judgement also certain to come?**
+
+**Respondeo**: **Most certainly: For Christ, who is Truth, hath foretold it, Matt. 25, and its process almost entirely hath described: The same the Apostles also have taught, Acts 10:42**: *"Because he is that one, who was appointed by God judge of the living and the dead."* **Rom. 2:5**: *"Thou treasurest up to thyself wrath, in the day of wrath and revelation of the just judgement of God."* **And 2 Cor. 5:10**: *"For all we must be manifested before the tribunal of Christ."* **And this day of judgement was also in the Old Testament announced, Gen. 4:7, Isa. 66:15**: *"For behold the Lord shall come in fire, and as a whirlwind his chariots, to render in indignation his fury, and his rebuke in flame of fire,"* &c. **Ps. 9:9 [Vg. 6:9]**: *"He hath prepared his throne in judgement, and he shall judge the world of the earth in equity."*
+
+— ❦ —
+
+## Question 2. What is the last judgement?
+
+**What is the last judgement?**
+
+**Respondeo**: **The last judgement is an act of this sort, in which the Lord Jesus Christ shall congregate all men, living and dead, before his tribunal in the clouds of heaven, and openly the final sentence upon believers and unbelievers shall pronounce, and believers into the plenary possession of eternal life shall lead with himself, but unbelievers into eternal fire shall cast.**
+
+— ❦ —
+
+## Question 3. Who then shall be the future judge?
+
+**Who then shall be the future judge?**
+
+**Respondeo**: **Jesus Christ, as himself saith, Matt. 25:31**: *"But when the Son of man shall come in his majesty, and all the Angels with him, then shall he sit,"* &c. **John 5:27**: *"And he hath given him power also to make judgement."* **In sum: He shall be the future judge, who before Pontius Pilate was judged, and who the hearts of all men hath created and hath known.**
+
+**Augustine, as Prosper citeth, elegantly saith**: *"Although the Father never departeth from the Son, yet unto the judging of the living and the dead not He himself is said, but the Son shall be present, because there neither the deity of the Father nor of the Son shall be seen, but that form of the Son shall be seen, which he by the Sacrament of the incarnation united to himself: This therefore shall be judge, which stood under a judge, this shall judge, which was judged, that the impious may see his glory, at whose meekness they raged."*
+
+**Such therefore shall the judge appear, as may be seen both by those, whom he is to crown, and by those whom he is to damn. The Father however shall not appear: For he was not clothed with the form of a servant, but unto the Son, who also having been made man, he gave the power of judgement.**
+
+— ❦ —
+
+## Question 4. Who then shall be judged in this judgement?
+
+**Who then shall be judged in this judgement?**
+
+**Respondeo**: **All men who in this world have lived, none excepted, Matt. 25:32**: *"And there shall be gathered before him all nations."* **Rom. 14:10–11**: *"For all we shall stand before the tribunal of Christ: for it is written, I live, saith the Lord, since to me every knee shall bow, and every tongue shall confess to God. So then each one of us shall render an account for himself to God."* **2 Cor. 5:10**: *"For all we must be manifested before the tribunal of Christ,"* &c. **Before this tribunal therefore must appear not only poor Lazaruses, but also rich Epulones; not only preachers, but also hearers; not only subjects, but also those bearing magistracies; not only sons and servants, but also parents and lords,** &c.
+
+**The Devils also shall then hear the sentence pronounced upon them, and shall go into eternal fire, Matt. 25:41, Apoc. 20:10. Let us watch therefore and pray, that we may safely stand before the tribunal of Christ.**
+
+— ❦ —
+
+## Question 5. When shall this judgement be? [*[T. 2/1, p. 230, 231]*]
+
+**When shall this judgement be?**
+
+**Respondeo**: **A certain day is not manifested to us, but the Lord the Judge in his own power hath placed it, and it becometh us to be ready, whenever the Lord shall come. Signs however going before this day he hath expounded, from which it can be gathered, that it is not far off. Matt. 24, Mark 13, Luke 17, 21. [*[T. 5, p. 530, &c., 54]*]**
+
+**Among those signs, first is the corruption and depravation of sincerer doctrine. 2. Wars and rumours of wars. 3. Perturbation and ruin of empires. 4. Pestilence. 5. Famine. 6. Earthquakes. 7. Persecutions of the pious. 8. Defection of many from the faith. 9. Iniquity shall abound, and charity of many shall wax cold. 10. And the Gospel of the kingdom shall be preached in the whole world. 11. The abomination of desolation in the holy place. 12. Abundance of false doctors. 13. Signs in heaven and in earth, on earth distress of nations. 14. The sign of the Son of man in heaven. [*[T. 6, p. 540]*] 15. Extreme security of men, such as was in the days of Noah.**
+
+**Daniel foretold that the ruin of the four Monarchies would go before, which now is known to all.**
+
+**Paul, 2 Thess. 2, writeth: The Antichrist also would first be revealed, who indeed himself now according to the good pleasure of God hath been manifested.**
+
+— ❦ —
+
+## Question 6. Where then shall it be celebrated?
+
+**Where then shall it be celebrated?**
+
+**Respondeo**: **In the clouds, as Paul writeth, 1 Thess. 4:17**: *"Then we, who have lived, who are left, shall together be caught up with them in the clouds to meet Christ in the air."*
+
+— ❦ —
+
+## Question 7. Why therefore, Joel 3:12, is it said**: *"Let the nations arise, and ascend into the valley of Jehoshaphat, for there I will sit, that I may judge all nations round about"?*
+
+**Why therefore, Joel 3:12, is it said**: *"Let the nations arise, and ascend into the valley of Jehoshaphat, for there I will sit, that I may judge all nations round about"?*
+
+**Respondeo**: **The Prophet there speaketh not of the extreme judgement (as the Pontificians will have it), but of the calling of the Gentiles unto the reign of Christ. For by the word of the judged all the nations, by the law of themselves the sins he reproveth, and them doing penance according to the promise of the Gospel unto grace he receiveth, and saveth. John 3:16**: *"That every one, who believeth in him, may not perish, but have eternal life,"* &c.
+
+— ❦ —
+
+## Question 8. What then shall be the process of this judgement? [*[Tos. Pro. p. 506, 532, 533]*]
+
+**What then shall be the process of this judgement?**
+
+**Respondeo**: **That in Matt. 25 is prolixly described, which there let each Christian also read and meditate on.**
+
+— ❦ —
+
+## Question 9. What then shall be the judgement, or what the definitive sentence of this judgement?
+
+**What then shall be the judgement, or what the definitive sentence of this judgement?**
+
+**Respondeo**: **That which now is manifested, John 3:18**: *"He that believeth in him (the Son) is not judged, but he that believeth not, is already judged."* **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved, but he that shall not have believed, shall be condemned."*
+
+— ❦ —
+
+## Question 10. What then shall be the end of this judgement?
+
+**What then shall be the end of this judgement?**
+
+**Respondeo**: **The plenary redemption of all the pious, who in this life have believed in Christ, Luke 21:28. And on the contrary the extreme and eternal rejection of all the impious. For this reason this judgement shall be instituted, that the pious may obtain the promised glory and joy, and that the impious may in the very reality experience, that the threatenings of the wrath, of the judgement, and of the divine punishments were not vain words, which they in this life securely, as though in a dream, dismissed.**
+
+— ❦ —
+
+## Question 11. How then is that saying of Christ, Matt. 25:34**: *"Come ye blessed of my Father, possess the kingdom prepared for you, for I was hungry,"* **to be understood?**
+
+**How then is that saying of Christ, Matt. 25:34**: *"Come ye blessed of my Father, possess the kingdom prepared for you, for I was hungry,"* **to be understood?**
+
+**Respondeo**: **Of the fruits, whereby the faithful their faith on these earths have attested, which fruits of theirs Christ in that day before all creatures shall commend. That Christ would not have those words understood of merit, is apparent hence**:
+
+**I. That he saith, "Blessed": But it is certain, that that blessing to believers freely for Christ's sake is imputed and given, when otherwise for their sins they would be cursed, Gal. 3:9. Therefore they, who are of faith, shall be blessed with faithful Abraham.**
+
+**II. "Possess"**: **which is needful to be expounded of grace, and not of merit: since an inheritance not from merit but from generation to sons falleth: Since therefore the faithful are sons of God, reborn by word and Sacraments, John 3:5, it is certain that they not from merit, but from grace obtain and possess that inheritance.**
+
+**III. "The kingdom prepared for you"**: **"Prepared" saith he "for you," not "promerited by your works." "From the foundation of the world." Since therefore from the foundation of the world it was prepared for them, how by their works could they have promerited it?**
+
+— ❦ —
+
+## Question 12. Whence cometh it, that by many men securely the day of judgement is contemned?
+
+**Whence cometh it, that by many men securely the day of judgement is contemned?**
+
+**Respondeo**: **This is thence, because that day, as the world and the flesh judge, tarrieth, 2 Pet. 3:2, 4, 5, 6, 7, 8, 9, 10, which whole place bears here, and diligently is to be attended.**
+
+— ❦ —
+
+## Question 13. How then ought the truly faithful prepare themselves for the day of judgement?
+
+**How then ought the truly faithful prepare themselves for the day of judgement?**
+
+**Respondeo**: **This likewise Peter teacheth, 2 Pet. 3:11–18, which place entire is to be referred here. In sum, that preparation chiefly in these things consisteth: that most maturely we do penance, in Christ believe, sins seriously avoid, fruits worthy of penance bring forth, watch and pray. Matt. 24:42**: *"Watch therefore, because ye know not, what hour the Lord your Lord shall come."* **Luke 21:34**: *"But attend to yourselves, lest perchance your hearts be burdened with surfeiting and drunkenness and the cares of this life, and that day come upon you suddenly, as a snare. For as a snare it shall come upon all, who dwell upon the face of the whole earth. Watch therefore at all times, praying, that ye may be accounted worthy to escape all these things, that are to be, and to stand before the Son of man."*
+
+**Augustine elegantly saith**: *"Every one ought also of the days of this life to dread his last: For in what state his last day findeth each, in that shall the last day of the world seize him, since as any one shall die on that day, such shall he be judged on that day. Wherefore every Christian ought to watch, lest the coming of the Lord find him unprepared: But he shall find unprepared him, whom the last day of his life shall find unprepared."*
+
+— ❦ —
+
+*[Locus XLIV De Extremo Iudicio COMPLETE — rendered in 1 tranche (T104). Q1–Q13 (no formal Obj): certainty (Matt 25 + Acts 10:42 + Rom 2:5 + 2 Cor 5:10 + OT Isa 66:15 + Ps 9:9), definition, Christ as judge (Matt 25:31 + John 5:27 + Aug via Prosper on form of Son visible not Father), all judged including Devils Matt 25:41, timing hidden with 15 signs preceding (doctrine-corruption / wars / empire-ruin / plague / famine / quakes / persecution / apostasy / iniquity + cold charity / gospel-preached / abomination-of-desolation / false doctors / signs in heaven-earth / Son-of-man-sign / Noah-security), 4 monarchies of Dan + Antichrist revealed per 2 Thess 2, celebrated in clouds 1 Thess 4:17, Joel 3:12 valley of Jehoshaphat rebutted as Papist misreading — really refers to calling of Gentiles to Christ's reign, process = Matt 25, sentence already manifest John 3:18 + Mark 16:16, end = plenary redemption of pious + rejection of impious, Matt 25:34 "Come ye blessed" NOT of merit (3-point exposition: "blessed" = imputed gratis Gal 3:9, "possess" = inheritance from generation not merit John 3:5, "prepared from foundation" pre-empts merit), why day contemned = 2 Pet 3:2-10, preparation per 2 Pet 3:11-18 + Matt 24:42 + Luke 21:34 + Augustine on last-day-of-life determining last-day-of-world. 899 top-level Q + 440 Obj rendered so far. Locus XLV follows in T105 at OCR line 46563.]*
