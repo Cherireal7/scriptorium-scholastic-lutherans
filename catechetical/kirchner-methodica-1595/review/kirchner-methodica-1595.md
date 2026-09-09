@@ -1742,6 +1742,50 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **III.** Besides, Christ according to his divinity ***is himself the right hand of God*** — **Isa. 53:1** — [Isa. 53:1 quoted]. It cannot therefore be said that according to that he was raised to the right hand of God; and so of the human nature is this exaltation to be understood.
 
+**IV.** This same thing Scripture demonstrates when at **Acts 2:36** it says: *"Let all the house of Israel therefore know most certainly, that God hath made both Lord and Christ this Jesus whom you have crucified."* Item, that ***this Christ, who was raised from the dead, has been exalted to the right hand of God***. By these words Scripture as with pointed finger indicates the ***human nature of Christ***.
+
+**V.** And thus also the ancient orthodox Church has declared this article — namely, that Christ has been exalted to the right hand of God ***according to the human nature***. **Athanasius** in **Theodoret**: *"It is the body to which the Lord says: Sit at my right hand."* **Ambrose on Heb. 1**: *"‘Sit at my right hand’ pertains to the exaltation of the human nature."* The same doctrine also **Cyprian, Chrysostom, and other Fathers** teach.
+
+### Objection. But Scripture itself says that ***God is exalted***. Rightly, therefore, could exaltation also be taken of the divine nature of Christ?
+
+**Respondeo**: **When Scripture says that God is exalted, it says this not with respect to himself and his essence and divinity, but with respect to *us*: namely, that God is exalted ***by us***, when we think of him magnificently, gloriously, and as he is in himself.** For God in himself, and in his own essence and majesty, always remains most exalted; just as his name in itself is holy, but is sanctified ***by us*** when we think of it holily and rightly. So Scripture also says that he is exalted, when we think magnificently and as he made himself known in his Word. But Christ is not exalted to the right hand of God ***in this manner***. He has truly been raised, ***according to the assumed human nature***, and placed at the right hand of the Virtue of God, that he may hold ***power and majesty equal with the Father and the Holy Spirit*** over all creatures, and have all things subjected in his hands and under his feet — **Eph. 1**.
+
+— ❦ —
+
+## Question 62. Does it follow, then, from the ***session at the right hand of God***, that to Christ ***not only as God, but also as Man***, all things are present — and that ***also as Man*** he administers and governs all things in heaven and on earth?
+
+**Does it follow from the session that Christ, also as Man, governs all things present?**
+
+**Most certainly.** For to sit at the right hand of God is properly nothing else than to reign over all creatures ***with equal power and majesty with the Father***. But the Father reigns over all creatures ***not absently, but presently***. Since therefore Christ, according to the assumed human nature, sits at the right hand of God — that is, rules over all creatures with equal power and majesty — there is no doubt that ***also as Man*** he governs, not absently but presently, all creatures in heaven and on earth, ***in a heavenly, supernatural manner incomprehensible to human reason***. As this same thing is expressly set out at **Eph. 1:20–22** — where Paul says that he has been ***constituted at the right hand of God in the heavenly places, above all principality and power, and virtue, and dominion, and every name that is named, not only in this world but also in that which is to come; and all things have been subjected under his feet***. So at **Ps. 8:6–8**: *"Thou hast set him over the works of thy hands, and hast subjected all things under his feet: sheep and oxen, moreover, and the beasts of the field, the birds of the air, and the fishes of the sea, that pass through the paths of the sea."*
+
+### Objection I. Although Christ, according to the assumed human nature, sits at the right hand of God, yet is this not to be so declared that the ***essential properties*** of his human nature remain ***safe and preserved***?
+
+**Respondeo**: **Rightly. And so we also declare the session at the right hand of God.** It has never come into our mind that Christ's human nature, through this exaltation to the right hand of God, ***loses, forfeits, or is converted into the divinity*** its essential properties. For Scripture expressly teaches both — that Christ's human nature ***retains its essential properties to all eternity***, and yet (***beyond and above*** those essential properties) has been raised to the ***divine virtue and majesty***. Therefore the one is not taken away by the other; both must be true. For to him it is most easy both to raise the assumed human nature to this majesty, and yet to preserve the same ***safe and entire in essence and in its essential properties***.
+
+### Objection II. But Scripture at **Heb. 1:3** uses the vocable ***"in the highest,"*** by which Scripture itself seems to show that Christ ***with his body is in a certain place of heaven — and indeed in the highest***?
+
+**Respondeo** with **Chrysostom**: *"What is *in the highest*? Does he shut God up in a place? Far be it! But just as, when he said *at the right hand*, he did not attribute a figure of the human body to God, but demonstrated a similitude of the ***honour*** which the Son has equal with the Father, so when he says *in the highest*, he does not enclose him in a place, but shows him ***loftier than all, eminent above all*** — that is, ***that he has arrived up to the very throne of the paternal brightness***. As therefore the Father is *in the highest*, so also the Son. The confession demonstrates nothing else than the ***equality of honour***."* Thus far Chrysostom.
+
+That by these formulas of speaking ***no fixed and circumscribed place in the heavens*** is assigned to Christ, appears also from Paul's saying at **Eph. 4:10** — he shows that he ascended ***far above all the heavens, that he might fill all things***. Phrases of this sort, therefore, are to be understood ***of his glory and majesty, which is above heaven, earth, and all creatures***.
+
+### Objection III. But Scripture itself says that Christ ***shall come from heaven to judgement***?
+
+**Respondeo**: **Most true — provided it be rightly received and explained.** At **Acts 1:11** the explication is added: *"So shall he come, as you have seen him going into heaven."* ***Visibly*** therefore shall he come to judgement — ***while presently, sitting at the right hand of God, he invisibly fills all things*** (**Eph. 4:10**), is present to his Church (**Matt. 18:20**), and reigns in the midst of his enemies (**Ps. 110:2**).
+
+— ❦ —
+
+## Question 63. But what do the words at **Luke 24:26** mean, where it is said that after the resurrection ***he entered into his glory***?
+
+**What do the words at Luke 24:26 mean, that Christ entered into his glory after the resurrection?**
+
+**Respondeo**: **The alleged saying does not teach that Christ ***after his resurrection*** first received, according to the assumed human nature, his glory and divine majesty — but that, after his resurrection, when he ***fully*** entered into the state of glory, he ***fully exerted and used this power and majesty of his***, according to the rule: *"A thing is then said to happen, when it begins to be made manifest."*
+
+Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor. 15**: *"Then shall the Son also himself be subject to him,"* etc. — *"By the genus of speech,"* he says, *"the question is dissolved. For Scripture often speaks thus: that ***when a thing already always is***, it is then said by someone to happen, when it has begun to be known in him."* The same is said also by the **Master of the Sentences, lib. 3, distinct. 18**.
+
+### Objection. But from the preceding it seems to follow that there is a ***confusion of the articles of faith*** — concerning the incarnation, the ascension, and the session at the right hand of God?
+
+**Respondeo**: **By no means.** For immediately in the incarnation itself, when the personal union of the divine and human nature was made, Christ, according to the human nature, on account of the personal union of the same with the divinity, ***had this majesty*** — but in the time of exinanition he ***concealed*** it, and did not always exert it. In the Ascension he ***laid aside*** all the infirmities which he had assumed for our sake, and the whole exinanition, and thus went out of this world. In the session at the right hand of God he entered into the ***full use*** of his glory and majesty — so that now he no longer conceals it, as in the time of exinanition, but ***fully exerts it in, with, and through the assumed human nature***. And thus, when he was exalted to the right hand of God, the exinanition ***ceased*** — **Phil. 2:9**. Concerning the ***descent of Christ into hell***, see **Luther, T. 6, pp. 76–77**.
+
 — ❦ —
 
 ```{=openxml}
