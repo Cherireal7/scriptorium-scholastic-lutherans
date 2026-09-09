@@ -13022,4 +13022,168 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XL De Sepultura COMPLETE — rendered in 1 tranche (T100). Q1–Q13 (no formal Obj): whence burial (Gen 3:19 + Abraham Gen 25:15), motives (Word of God + love of neighbour + hope of resurrection, refutation of Scholastic processions for dead), rightness of custom (2 Sam 2 + Patriarchs), no fixed place (earth is Lord's, no episcopal consecration needed, Hebrew "houses of the living"), burial profits not salvation (Martyrs' bodies unburied yet saved), magnificent burial profits not impious (Epulo Luke 16 vs Lazarus + Augustine de civ. Dei I.12), ancient care is solace of living not help to dead (Augustine), Gentile reproach met by 1 Cor 15, martyrs' monuments explained by preaching custom, refutation of Augustine's *De cura pro mortuis* as lacking Word of God (1 Tim 2:6 + John 3:36), rejection of unwritten tradition (John 5:39), Papist burial-market rejected, mean between contempt and superstition. 845 top-level Q + 427 Obj rendered so far. Locus XLI De Statu Animarum follows in T101 at OCR line 44939.]*
+# Locus XLI. Of the State of the Soul after the Death of Man
+
+### *De Statu Animae Post Mortem Hominis*
+
+## Question 1. Doth man die soul and body together?
+
+**Doth man die soul and body together?**
+
+**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"The breath of life was breathed by God into the face of man."* **Eccles. 12:7**: *"Let the spirit return unto God, who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:6**: *"Into thy hands I commend my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
+
+### Objection. **But God, Gen. 2, threatened death to the whole man, if he should sin?**
+
+**Respondeo**: **When Scripture of this matter speaketh, it will not, that the soul according to its own substance be mortal, but the state and condition of the soul it regardeth. For since the life of the soul is God, the soul is said to die, when by God it is deserted, and the spiritual life it letteth go, and unto eternal punishments is damned.** Hence Augustine, *De Trinitate*, lib. 14, cap. 4: *"The soul hath its own death, when it lacketh the blessed life, which is truly to be called the life of the soul. Otherwise the soul is immortal, for however wretchedly it liveth, yet it never dieth."*
+
+— ❦ —
+
+## Question 2. Where then are the souls of the faithful, after they have departed from the body?
+
+**Where then are the souls of the faithful, after they have departed from the body?**
+
+**Respondeo**: **Scripture simply saith, they are in the hand of God, Ps. 21, Wisd. 2, John 10. Apoc. 6:9 it is said**: *"The souls of the slain crying beneath the altar with a great voice, saying: How long, O Lord (holy and true), dost thou not judge, and dost thou not avenge our blood?"* **Augustine to Laurentius saith them to be hidden, "in their secret receptacles." Bernard**: *"They stand in the courts of the Lord, and rest, but they are not yet fully glorified."*
+
+— ❦ —
+
+## Question 3. What do they there? [*[T. 4/1, p. 364; G.t. 2, p. 254]*]
+
+**What do they there?**
+
+**Respondeo**: **Luke 16:25, Christ saith, that they there are consoled, that is, they behold God, in Him rejoice, and gladly the resurrection of the flesh expect.**
+
+— ❦ —
+
+## Question 4. Where are the souls of the impious?
+
+**Where are the souls of the impious?**
+
+**Respondeo**: **Scripture saith, Luke 16:22, they are in hell. Ps. 49:15**: *"In hell they are placed."* **And Matt. 22:13 it is said, they are cast into outer darkness.**
+
+### Objection. **If therefore they are in hell, why doth Scripture, Matt. 25:46, say: "And these shall go into eternal punishment"?**
+
+**Respondeo**: **There of the whole man, of body and soul which he consisteth, it speaketh. Nor these mysteries fully hath Scripture unto us revealed: nor all things that we may know are necessary or expedient unto us, but this is necessary and profitable unto us, that in this life we do penance, and in Christ believe, lest into the place of torments we come.**
+
+— ❦ —
+
+## Question 5. Do the souls of the impious suffer anything, after they have departed from their bodies?
+
+**Do the souls of the impious suffer anything, after they have departed from their bodies?**
+
+**Respondeo**: **Luke 16, of the soul of the rich man it is said, that it is in torments, and is tormented in flame. Matt. 22: "there shall be weeping and gnashing of teeth." But these mysteries in this life to be understood, or to be explained sufficiently, cannot be by us.**
+
+— ❦ —
+
+## Question 6. Why then doth Scripture say, that the dead sleep or rest? [*[T. 3, p. 220, 221]*]
+
+**Why then doth Scripture say, that the dead sleep or rest?**
+
+**Respondeo**: **Because the bodies rest in sepulchres, and the souls from all the misery of this life are free and immune: otherwise the souls sleep not nor rest, but they live ever, even when from their bodies they have departed.**
+
+— ❦ —
+
+## Question 7. And is there any middle place between heaven and hell?
+
+**And is there any middle place between heaven and hell?**
+
+**Respondeo**: **The Papists indeed this affirm, but without Scripture: For this teacheth only heaven and hell. John 3:16**: *"That every one that believeth in Him should not perish, but have eternal life."* **Mark 16:16**: *"He that shall not have believed, shall be condemned."* **John 3:18**: *"He that believeth not, is already judged, because he hath not believed in the name of the only-begotten Son of God."* **John 5:24**: *"He that heareth my word, and believeth on him that sent me, hath eternal life, cometh not into judgement, but passeth from death unto life."*
+
+— ❦ —
+
+## Question 8. And should we pray for the souls of the departed?
+
+**And should we pray for the souls of the departed?**
+
+**Respondeo**: **By no means: For the blessed have no need of our prayers; the damned our prayers profit not. Luke 16:26**: *"A great chasm hath been firmly set, that they who wish, hence to pass over unto you may not be able, nor thence pass over hither."*
+
+— ❦ —
+
+## Question 9. Are not therefore the souls purified in purgatory?
+
+**Are not therefore the souls purified in purgatory?**
+
+**Respondeo**: **By no means: For there is no purgatory: nor can by any foundation of Scripture any purgatory be taught, but it is a figment of the Pontificians, confirmed by Gregory the Great, who handed down, that souls in certain places are purged, and are afterwards by Angels transported into heaven.**
+
+— ❦ —
+
+## Question 10. What subsequent arguments demonstrate that there is no purgatory? [*[T. 5, p. 161 f. 171; G.t. 2, p. 254, 255; G.t. 4, p. 13 & seq.]*]
+
+**What subsequent arguments demonstrate that there is no purgatory?**
+
+**Respondeo**:
+
+**I. Christ by Himself hath expiated sins, and hath cleansed us from sins: therefore no other expiation or purgation from sins in purgatory can remain: else it would follow, that Christ by His office did not through all things make satisfaction.**
+
+**II. No dogma, which unto the testimonies of Scripture contradicteth, can be true: the dogma of purgatory unto the testimonies of Scripture contradicteth: Ergo it cannot be true. The minor is plain from what follows: 1 John 1:7**: *"The blood of Jesus Christ his Son cleanseth us from all sin."* **Heb. 9:14**: *"The blood of Christ, who offered himself, hath cleansed our conscience,"* &c.
+
+**III. If the doctrine of the Pontificians concerning purgatory were true, and unto salvation necessary, it would not have been by the Apostles neglected, but transmitted: But the Apostles that did not transmit: Ergo it is not true and unto salvation necessary. Nor this their doctrine can the Pontificians from the writings of the Apostles demonstrate.**
+
+**IV. Temporal punishments concern not the other life; therefore the purgatory of the Pontificians cannot have place, in which souls for the temporal punishments of sins should satisfy, 1 Pet. 5:10**: *"God hath called us into his eternal glory, after we have suffered a little while."* **He doth not say souls in purgatory must first be scoured, before they attain to glory. Rom. 8:18**: *"Not condign are the sufferings of this time compared to the future glory, which shall be revealed in us."* **Nothing he saith of sufferings of that purgatory of the age to come which yet remain,** &c.
+
+**V. Only two places of the age to come, namely heaven and hell, doth Scripture teach: Luke 16:23, in heaven or Paradise the blessed are, in hell the condemned; a third place or purgatory neither knoweth nor teacheth Scripture: Not therefore from Scripture such a third place or purgatory. Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved, but he that shall not have believed, shall be condemned."*
+
+**VI. They who shall live and be left over in the last day shall not be cast into purgatory, that there they may first satisfy for the temporal punishments of sins, but the faithful straight into eternal life, the unbelieving into eternal fire shall go, 1 Thess. 4:17**: *"We, who have lived, who are left, shall together be caught up with them in the clouds to meet Christ,"* &c. **Ergo there can plainly be no purgatory, in which after this life for the temporal punishments of sin souls must satisfy. For no cause of diversity can be given, wherefore they, who before the last day die, into purgatory must be cast: but they who shall have been left in the last day, not so.**
+
+**VII. When men die, either they are by faith in Christ justified and have peace with God, Rom. 5, or they believe not, and already are judged and condemned. No purgatory therefore can there be, into which after this life they first come: Since believers and having peace with God enter not purgatory, but with God are: The condemned however into outer darkness or hell are cast.**
+
+**VIII. Christians are bound to disapprove and condemn all doctrine not in Scripture founded, but by men invented: The doctrine of Purgatory hath no foundation in Scripture, but is a mere human figment, partly from the Gentiles, Plato, Virgil, borrowed, partly by Gregory the Great from vain apparitions of the souls of the departed contrived.**
+
+**Christians therefore are bound this doctrine as false and impious to disapprove and condemn.**
+
+**That Plato, Virgil, and Gregory the Great of purgatory treat, and it without the word of God assert, is clearer than the noonday light, and needeth no demonstration: since no Scripture testimony existeth, from which perspicuously and expressly purgatory can be certain.**
+
+### Objection I. **But Augustine also of purgatory maketh mention?**
+
+**Respondeo**: **He indeed maketh mention of Purgatory, but its question doth not decide, but leaveth it doubtful in the midst to be disputed. For in his *Enchiridion*, cap. 69, he writeth: "It is not incredible, that there be a purgatory": and in the same place addeth, that it can be asked, whether there be a purgatory. And though expressly he did assert and teach it, yet on that account it would not be so. For neither Augustine, nor any of men or Angels can obtrude anything as an article of faith, which in the sacred books hath no foundation. Besides, Augustine himself, lib. 1 *De peccatorum meritis et remissione*, cap. 28, writeth**: *"Nor is there any middle place, that one might be, save with the Devil, who is not with Christ."* **The same also he writeth, *De civitate Dei*, lib. 21, cap. 25.**
+
+### Objection II. **But 2 Maccabees 12:43 it is said of Judas**: *"And a collection having been made, twelve thousand drachmas of silver he sent to Jerusalem, to be offered as a sacrifice for sin, well and religiously concerning the resurrection thinking."* **Ergo,** &c.
+
+**Respondeo**:
+
+**I. They themselves must confess, that in the Old Testament there was no purgatory, how then from this text will they demonstrate it?**
+
+**II. By no word this text of purgatory maketh mention, nor is Judas said to have believed purgatory, but the resurrection of the dead.**
+
+**III. Even though this text did assert purgatory, nothing from it could be argued, since the book here is not in the canon, but among the Apocrypha is numbered.**
+
+### Objection III. **But Ps. 66:12 it is said**: *"We have passed through fire and water,"* &c. [*[T. p. 163, 164]*]
+
+**Respondeo**: **David speaketh not of the future torments of purgatory, but of the afflictions and liberations of this life. And the word "we have passed" concerneth not souls, but men suffering persecution for the glory of God. And the Pontificians themselves confess, that in the Old Testament there was no purgatory.**
+
+### Objection IV. **But 1 Cor. 3:15 it is said**: *"He himself however shall be saved, yet so as through fire."*
+
+**Respondeo**: **And this saying, by the testimony of Augustine *ad Laurentium*, cap. 68, is to be understood of the tribulations of this life outward and inward, not however of purgatory.**
+
+### Objection V. **But, they urge, expressly he saith "through fire."**
+
+**Respondeo**: **Fire, and purgatorial fire, or purgatory, differ: Of fire Paul speaketh, that is, of the temptation of tribulation which in this life awaiteth the faithful Doctors and hearers: nothing however of purgatory hath he, which not even in a dream did he see.**
+
+— ❦ —
+
+## Question 11. Do the souls then not at all appear, after they have departed from their bodies?
+
+**Do the souls then not at all appear, after they have departed from their bodies?**
+
+**Respondeo**: **This indeed the Pontificians feign, and chiefly unto the *Dialogues* of Gregory the Great appeal, but in vain. For no authority of these Dialogues is there among the truly faithful, since without Scripture this they assert: For whatsoever outside Scripture and without Scripture is taught, in articles of faith, is not authentic. Luke 16 expressly is said, that they cannot thence pass over: nor could the rich man obtain, that Lazarus should be sent to his brothers.**
+
+**Tertullian, lib. 4 *Contra Marcionem*, writeth**: *"The souls after departure from bodies, are not on earth, but in Abraham's bosom."* **And Chrysostom, Homily 26 on Matt., cap. 8**: *"The soul, from the body separated, cannot in these regions wander, for the souls of the just are in the hand of God,"* &c. **And in the same place**: *"The souls of sinners truly after this exit, are continually led away, which is made plain from Lazarus and the rich man: But elsewhere also the Lord saith: This day thy soul shall they require of thee: Therefore the soul cannot, when from the body it hath departed, wander here among us, nor is that without reason. For as men on earth walking, accustomed and known, and of body girt, when into unknown regions they have fallen, know not whither they must go, unless they have a guide: how much more the soul, having left the body, when a new life and way altogether it entereth, whither it should go, will be ignorant, unless it obtain a guide? From many places of Scripture it can be shown, that the souls of just men wander not here after death. For Stephen said: 'Receive my spirit.' Paul desired to be dissolved, and to be with Christ. Of the Patriarch also Scripture said: 'And he was gathered unto his fathers, being nourished in a good old age.' That neither the souls of sinners can here abide, hear the rich man, who earnestly requesteth this same thing, yet obtaineth nothing. For if the souls of men could here converse, he himself would have come, as he desired, and would have made his own more certain concerning the torments of hell: From which place of Scripture that also is openly plain, that after the exit from the body, into a certain place souls are led, whence to return of their own accord they cannot, but await that terrible day of judgement there."*
+
+### Objection I. **Yet Samuel appeared to Saul, 1 Sam. 28.**
+
+**Respondeo**: **That was not Samuel or his soul (which was in the hand of God, and by no art of the enchantress nor even of the Devil himself could thence be drawn out), but a Devil's apparition. Since neither enchanters, nor even the Devil himself, can souls of the blessed from the hand of God draw out, and in these lands set forth: for what would be the unhappiness of the blessed?**
+
+### Objection II. **But, Matt. 17, Moses and Elijah appeared?**
+
+**Respondeo**: **This apparition was extraordinary and plainly singular: Moreover, they appeared to Christ, nor is it said, that the soul of Moses and Elijah appeared, but that Moses and Elijah appeared.**
+
+— ❦ —
+
+## Question 12. Whence then is the fable of Purgatory?
+
+**Whence then is the fable of Purgatory?**
+
+**Respondeo**: **Without doubt from the books of the Ethnics, from Plato and Virgil, who almost the same doctrine as the Pontificians hand down concerning purgatory, at least.**
+
+— ❦ —
+
+*[Locus XLI De Statu Animae Post Mortem Hominis COMPLETE — rendered in 1 tranche (T101). Q1–Q12 with 9 formal Obj: soul immortal though body dies (Matt 10 + Gen 2:7 + Eccl 12:7) with Aug De Trin. 14.4 answering Gen 2 threat, souls of faithful in God's hand (Apoc 6:9 + Aug + Bernard), consoled seeing God (Luke 16:25), souls of impious in hell with Matt 25:46 objection resolved by body-soul distinction, torments now real yet not fully comprehensible, sleep/rest of dead explained as bodies-in-graves + souls-free-from-misery, no middle place (John 3:16 + Mark 16:16 + John 3:18 + John 5:24), no praying for dead (Luke 16:26 chasm), no purgatory, 8-point demonstration against purgatory (Christ's satisfaction, contradicts Scripture per 1 John 1:7 + Heb 9:14, Apostles didn't teach it, temporal punishments not in next life per 1 Pet 5:10 + Rom 8:18, only heaven/hell per Luke 16:23 + Mark 16:16, last-day faithful bypass it per 1 Thess 4:17, credentes go to God unbelievers to hell per Rom 5, purgatory borrowed from Plato/Virgil/Gregory), 5 objections rebutted (Aug's Enchiridion vs De pecc. merit. 1.28 + De civ. Dei 21.25, 2 Macc 12:43 apocryphal + no OT purgatory, Ps 66:12 = this-life afflictions, 1 Cor 3:15 per Aug ad Laur. 68 = tribulations, "per ignem" = trial not purgatory), souls don't wander post-mortem (Tertullian + Chrysostom Hom 26 in Matt), Samuel-to-Saul was Devil's apparition, Moses/Elijah at Transfiguration extraordinary and to Christ not souls-as-such, purgatory-fable from Plato/Virgil. 857 top-level Q + 436 Obj rendered so far. Locus XLII follows in T102 at OCR line 45498.]*
