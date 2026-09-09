@@ -27,10 +27,11 @@
 - **Locus XII** (Fall + Corrupted Powers) — OCR pass complete. **Substantive MD gap-fill landed:** MD stopped at Obj XVIII (Rom 9:16); OCR carries the free-will polemic through Obj XIX (voluntas libere / naturaliter dichotomy) + Obj XX (manente substantia manet modus agendi) and closes with a full Q25 "Ad quid prodest haec doctrina de corruptione et nullitate virium humanarum?" — the use of the doctrine (humility over corruption + faith as gift of God). MD now has 25 Q + 20 Obj (was 24 + 18).
 - **Loci XIII–XVII** (Sin in General, Original Sin, Actual Sin, Ruling/Non-Ruling Sin, Sin against Holy Spirit) — OCR pass complete. No MD edits required. Q-counts confirmed: XIII=10 (+2 Obj), XIV=15 (+17 Obj split 5+12 around the "5th error" of Q15 = the Flacian polemic), XV=11, XVI=10 (+13 Obj split 6+7 around Q7 and Q8), XVII=3.
 - **Loci XVIII–XX** (Law, Gospel, Justification) — OCR pass complete. No MD edits required. Q-counts confirmed: XVIII=20 (+18 Obj split 12 after Q9 + 6 Anti-Antinomian after Q16), XIX=13 (+3 Obj: 1 after Q11 + 2 after Q12), XX=34 (+22 Obj: 2 early + 16 Pontifician after Q34 + 4 sub-Obj on Osiandrism under an inserted unnumbered Q on essential righteousness).
+- **Loci XXI–XXIII** (Faith in Christ, Predestination, Good Works) — OCR pass complete. No MD edits required. Q-counts confirmed: XXI=27 (+13 Obj: 2 after Q15 + 11 after Q27 on certitude of grace), XXII=18 (+4 Obj sprinkled around Q10-Q11 and Q18), XXIII=46 total (26 main *De Bonis Operibus* + 4 sub-section *De Dilectione Proximi* + 10 *De Eleemosynis* + 6 *De Ieiunio*). Sub-section headings verified in OCR at lines 23885, 23943, 24189.
 
 ### Not yet audited
 
-- **Loci XXI–XLVI + Appendix A (Vita Kirchneri)** — 26 Loci remaining for OCR pass. Priority order for future sessions:
+- **Loci XXIV–XLVI + Appendix A (Vita Kirchneri)** — 23 Loci remaining for OCR pass. Priority order for future sessions:
   1. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's.
   2. **Locus XXVIII** (Church) — 47 Q's.
   3. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
