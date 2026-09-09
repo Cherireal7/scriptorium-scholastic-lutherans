@@ -13746,4 +13746,196 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XLV De Inferno COMPLETE — rendered in 1 tranche (T105). Q1–Q13 with 1 formal Obj: certainty of hell from 4 witnesses (OT Num 16:33 + Deut 32:22 + Ps 16:10 + Isa 30:33 Tophet; NT Luke 16 + Matt 25:41 + John Baptist Matt 3:10 + 2 Thess 1:8-9; conscience Rom 2:15; demonic confession Matt 8:29), Hebrew names ("Scheol" never-satiated, Gehenna = valley of Hinnom Moloch-child-sacrifice transferred, "lake of fire" Apoc 20:10, "prison" Matt 18, "outer darkness" Matt 22), definition (prison for Devils + impious in body and soul), God as author (as magistrate has prisons), inhabitants = demons + impenitent sinners with Apoc 21:8 + 1 Cor 6:9-10 + Gal 5:19-21 vice-lists, body-AND-soul tormented Matt 10:28 + 2 Cor 5:10, location not revealed (our task not to search but avoid), size vast per Isa 5:14 + Prov 27:20, nature of fire beyond investigation (rich man's flame Luke 16:24) with Bernard "glow not perish" + Aug De civ. Dei 21.7-8 on resurrected bodies differently constituted, degrees of punishment Matt 11:24 Sodom + Luke 12:47-48 stripes paralleling gift-distinctions of blessed, eternity from Matt 25:41 + Mark 9:43-44 vs Origenist Ps 103:9 rebutted as this-life remission, chief pains named 8 ways (weeping/gnashing, death feeding, outer darkness, separation from God, with devils in fire, inextinguishable, undying worm, sulphur lake), 5-places Papist scheme rejected — only heaven and hell known to Scripture. 912 top-level Q + 441 Obj rendered so far. Locus XLVI De Vita Aeterna follows in T106 at OCR line 46922.]*
+# Locus XLVI. Of Eternal Life
+
+### *De Vita Aeterna*
+
+## Question 1. What is the judgement of reason concerning this doctrine? [*[T. 6, p. 251; T. 3, p. 18]*]
+
+**What is the judgement of reason concerning this doctrine?**
+
+**Respondeo**: **Most of the Philosophers this doctrine plainly laughed at. Some indeed set the soul to be immortal: But since no certain foundation of the divine word they had, in the perils and the agony of death they began to doubt: as the example of Cato Uticensis and others teacheth. The Sadducees accounted a fable, whatsoever concerning the resurrection of the body and eternal life was taught. For the natural man this doctrine cannot perceive, but it is foolishness unto him.**
+
+— ❦ —
+
+## Question 2. Whence then is it certainly demonstrated, that there remaineth another, and indeed eternal, life?
+
+**Whence then is it certainly demonstrated, that there remaineth another, and indeed eternal, life?**
+
+**Respondeo**: **In many ways this can be demonstrated.**
+
+**I. From the creation of man: For Scripture testifieth, Gen. 1 and 2, that man by God from preceding deliberation was made: Whence it is clear that there is a distinction between man and irrational creatures: And that man not only unto this passing life was made.**
+
+**II. Also the image of God, unto which man was made, giveth most certain testimony of eternal life.**
+
+**III. That God only after sin threatened death unto man, Gen. 2.**
+
+**IV. That God himself breathed into the face of man the breath of life, Gen. 2.**
+
+**V. That he instituted the Sabbath also in Paradise, [*[G.t. 1, p. 23]*] in which man might singularly be at leisure for the callings divine, hear his word, learn, and meditate: Which certainly chiefly regarded eternal life and rest.**
+
+**VI. The same clearest sayings of Scripture testify, Ps. 16:11**: *"Thou hast made known unto me the ways of life, thou shalt fill me with joy with thy face. Delectations in thy right hand unto the end."* **Ps. 22:27**: *"Their hearts shall live for ever and ever."* **Job 19:25**: *"For I know that my Redeemer liveth."* **Ezek. 37:12**: *"Behold, I will open your tombs."* **Dan. 12:2**: *"And many of those, who sleep in the dust of the earth, shall awake: Some unto eternal life, and some unto reproach, that they may see for ever."* **John 3:16**: *"That every one, that believeth in him, may not perish, but have eternal life."* **John 10:28**: *"And I give unto them eternal life."* **Matt. 25:46**: *"And the just shall go into eternal life."* **John 6:39–40**: *"This is the will of him, who sent me, of the Father, that whatsoever he hath given me I should not lose any of it, but should raise it up in the last day. This however is the will of my Father, who sent me, that every one who seeth the Son, and believeth in him, may have eternal life. And I will raise him up in the last day."* **John 11:25**: *"I am the resurrection and the life, he that believeth in me, though he shall be dead, shall live."*
+
+**VII. Examples also in the Old Testament: of Abel, Enoch, Moses, Elijah, do convince that another and eternal life remaineth.**
+
+**VIII. In the New Testament, Christ ascended into heaven, and by the very fact confirmed, that another life remaineth.**
+
+**IX. The ministry of word and Sacraments therefore was instituted, that through it we may be called unto eternal life. It is therefore necessary that there be another and eternal life.**
+
+**X. Expressly in the Symbol we confess**: *"I believe in the resurrection of the flesh, and life everlasting."*
+
+**XI. The Apostle, Rom. 8:18, saith**: *"Not condign are the sufferings of this time unto the future glory, which shall be revealed in us."* **There remaineth therefore another life necessarily.**
+
+**XII. Christ convinceth the Sadducees, Matt. 22:32**: *"God is the God of Abraham, God of Isaac, of Jacob: God however is not of the dead, but of the living."* **Ergo it is necessary, that there be a resurrection of the dead, and a life after this one, and eternal.**
+
+— ❦ —
+
+## Question 3. How is it called in Scripture?
+
+**How is it called in Scripture?**
+
+**Respondeo**: **Eternal life, John 3:16. In respect to this miserable and passing life, Apoc. 21:2, it is said**: *"The holy city Jerusalem coming down from heaven from God prepared,"* &c. **Since God alone bestoweth eternal life, and God shall renew all things in us, in our nature the plenary righteousness and holiness, which in this life are only begun in us, he shall kindle.**
+
+— ❦ —
+
+## Question 4. What is eternal life?
+
+**What is eternal life?**
+
+**Respondeo**: **In this life eye hath not seen, nor ear heard, nor can the tongue of any man explain, what eternal life is. From the word of God however thus it can be described: Eternal life is the state of the blessed after the resurrection of the flesh, in which they shall plainly know and see God, and eternally without sin shall live, in righteousness, holiness, and everlasting joy. John 17:3**: *"This is however eternal life, that they may know thee, the only true God, and whom thou didst send, Jesus Christ."*
+
+— ❦ —
+
+## Question 5. Whence is eternal life?
+
+**Whence is eternal life?**
+
+**Respondeo**: **God alone bestoweth it. Apoc. 21:2. The Son of God Jesus Christ however by his death, resurrection, and ascension into heaven merited it, and distributeth it unto us, John 3:13–14, and chap. 14:2–3. For by our works we cannot merit it. And if by our works we could merit it, the incarnation and death of the Son of God would have been in vain.**
+
+— ❦ —
+
+## Question 6. Who then shall enter into eternal life?
+
+**Who then shall enter into eternal life?**
+
+**Respondeo**: **All, who in Jesus Christ have believed, and in true faith and knowledge of him have fallen asleep. John 3:16**: *"That every one,"* &c. **Hard it seemeth to deny eternal life unto Philosophers and Heroes, gentiles distinguished by the honesty of their morals, and unto others: But upon the words of Christ it becometh us and behoveth us to stand, who saith**: *"He that believeth not, is already judged,"* **John 3:18. And Mark 16:16**: *"But he that shall not have believed, shall be condemned."*
+
+### Objection. **Yet God seemeth unjust, if to gentiles and other honest and politically good men he deny eternal life.**
+
+**Respondeo**: **But on that account he is not unjust: For the wages of sin is death, Rom. 6:23. Since therefore they are sinners, injury is not done unto them, if in their sin they die. And from God there is not another name given under heaven unto men, in which it behoveth us to be saved, nor is there in any other salvation, save in Jesus Christ alone, Acts 4:12. But him they have not acknowledged, nor have believed in him: Saved therefore they cannot be. And though in the light of reason God in this part seem unjust, yet in the light of glory, when in eternal life we shall be with God, and shall see him face to face, we shall understand him also from this part to be free from all injustice, and to have done injury unto no one.**
+
+— ❦ —
+
+## Question 7. Where shall eternal life be?
+
+**Where shall eternal life be?**
+
+**Respondeo**: **With God in heaven. John 14:2**: *"In the house of my Father are many mansions."*
+
+— ❦ —
+
+## Question 8. And is heaven, in which the blessed shall be, such a place, as by Aristotle is described?
+
+**And is heaven, in which the blessed shall be, such a place, as by Aristotle is described?**
+
+**Respondeo**: **Our adversaries this indeed affirm, but from the word of God they cannot prove it. That there is, and shall be for all eternity, a certain place of the blessed, this abundantly appeareth from the sacred letters. But that that place be such, as by Aristotle a place is described, this indeed is a figment of the Adversaries. For the word "place" (John 14:2**: *"For I go to prepare a place for you"***) signifieth not a Physical and Aristotelian place, which concerneth only sublunary and elemental things subject to change, but a blessed and spiritual habitation, whose condition and quality can be comprehended by the reason of no man, and be explained by the tongue of no man in this life. And what need of words, when Scripture itself, 1 Cor. 2:9, expressly saith**: *"That eye hath not seen, nor ear heard, nor into the heart of man hath ascended, what things God hath prepared for those, who love him."* **With what warrant, I will not say foundation, but with what colour do the Adversaries dare to affirm, that eternal life or heaven, into which Christ ascended, and in which the blessed with Christ shall live, is a local space, or such a place, as by Aristotle is defined?**
+
+— ❦ —
+
+## Question 9. What however is that which, 2 Pet. 3:13, is said**: *"But we look for new heavens, and a new earth, in which righteousness dwelleth"?*
+
+**What however is that which, 2 Pet. 3:13, is said**: *"But we look for new heavens, and a new earth, in which righteousness dwelleth"?*
+
+**Respondeo**: **These in this life we cannot sufficiently explain: For what shall be the ratio of a new heaven and a new earth are mysteries. And in part in this life we know, 1 Cor. 13:9. Let it suffice us to know this, that heaven and earth then are to be renewed, and shall be much more splendid, than now they are. As Isa. 65:17 it is said**: *"Behold, I create new heavens, and a new earth, and the former shall not be in memory, and shall not ascend upon the heart."*
+
+— ❦ —
+
+## Question 10. Why then did God prepare eternal life?
+
+**Why then did God prepare eternal life?**
+
+**Respondeo**: **That the blessed in it, the reward of glory and everlasting joy, may enjoy.**
+
+— ❦ —
+
+## Question 11. What then shall be the gifts of eternal life? [*[T. 6, p. 242 & seq.]*]
+
+**What then shall be the gifts of eternal life?**
+
+**Respondeo**:
+
+**I. Then in body and soul shall we be perfectly just, clean, and holy, 1 John 3:2**: *"Beloved, now we are sons of God, and it hath not yet appeared what we shall be, since we shall see him as he is."* **For then shall be perfected, that which here in the ministry of word and Sacraments is begun in us.**
+
+**II. Truly free shall we be from death and every evil, Isa. 25:8**: *"He shall cast down death for ever."* **Hos. 13:14**: *"From the hand of death I will free them."* **1 Cor. 15:54. Apoc. 21:4**: *"And death shall be no more, nor mourning."*
+
+**III. Truly also free shall we be from the tyranny of the Devil and the torments of hell. 1 Cor. 15, Apoc. 12, Apoc. 20:10**: *"And the Devil was cast into the lake of fire and sulphur."* **Hos. 13, John 8.**
+
+**IV. So truly free shall we be from all miseries and calamities, interior and exterior. Isa. 25:8**: *"And the Lord God shall wipe away tears from every face."* **Ps. 116:8**: *"Because he hath rescued my soul from death, my eyes from tears, my feet from falling."* **John 16:20**: *"But your sorrow shall be turned into joy."*
+
+**V. Our bodies shall be configured to the body of Christ's brightness, Phil. 3:21. In such wise however, that its prerogative may remain unto the body of Christ over the bodies of Saints. The body of Christ is now immortal, so shall ours then be immortal. 1 Cor. 15: Now we have a natural body, so then we shall have a spiritual body. Matt. 13:43**: *"Then shall the just shine as the sun, in the kingdom of their Father."*
+
+**VI. To marry and to be given in marriage, and things of this sort, then shall plainly cease. Matt. 22:30**: *"In the resurrection neither shall they marry, nor shall be given in marriage, but shall be as Angels of God in heaven."* **Luke 20:36. So also all kingdoms of this world, all economies, the Ministry of word and Sacraments then shall cease. Dan. 2:44. For God shall be all in all, 1 Cor. 15:28.**
+
+**VII. God we shall see face to face, Job 19:27**: *"My eyes shall behold."* **1 John 3:2**: *"We know, that when he shall appear, we shall be like him, because we shall see him as he is."* **Augustine on Ps. 75**: *"We shall contemplate God face to face. This is promised us, in whom now not seeing we believe. How shall we rejoice, when we shall see him? Brethren, if now the promise maketh so great joy in us, how great shall the rendering make? For he shall render unto us that which he promised, himself: that of his face and of the contemplation of him we may rejoice, nor shall anything else delight us, because nothing is better than he, who made all things, which delight."*
+
+**With Christ also our Lord in eternal converse we shall cohabit, John 14:3**: *"Again I come, and I will receive you unto myself, that where I am, ye also may be."* **John 17:24**: *"I will, that where I am, they also may be with me, that they may see my brightness."*
+
+**VIII. Then with true and perfect and eternal joy shall we rejoice, John 16:20**: *"But your sorrow shall be turned into joy."* **Likewise verse 22**: *"Your heart shall rejoice, and your joy no man shall take from you."* **Isa. 35:10**: *"And the redeemed of the Lord shall be turned, and shall come into Zion with praise and everlasting joy upon their head. Joy and everlasting gladness shall they obtain, and sorrow and mourning shall flee away."* **Isa. 65:18**: *"Behold, I create new heavens, and a new earth, and the former shall not be in memory, and shall not ascend upon the heart: But ye shall rejoice and exult unto everlasting in these things, which I create."* **Matt. 25:21, 23**: *"Enter into the joy of thy Lord."* **Here belongeth the saying of Augustine, *De vera innocentia***: *"Of the eternal city eternal are the joys, and the perpetuity of standing days shall not be varied nor shall slip away."*
+
+**These heads in some manner insinuate unto us the gifts and glory of eternal life, wherefore let us learn also seriously to desire them, and with Paul from the heart to say, Phil. 1:23**: *"I have a desire to be dissolved, and to be with Christ."*
+
+— ❦ —
+
+## Question 12. Shall the glory of all the blessed or of the faithful be the same? [*[T. 6, p. 259 & seq.]*]
+
+**Shall the glory of all the blessed or of the faithful be the same?**
+
+**Respondeo**: **The same eternal life all shall obtain, but glory shall according to gifts be distinct, 1 Cor. 15:41–42. For as star from star differeth in brightness, though all in the same firmament or heaven be: So the blessed in eternal life shall differ in brightness, though all in the same beatitude be constituted.**
+
+— ❦ —
+
+## Question 13. What shall be the actions or works of the blessed in eternal life?
+
+**What shall be the actions or works of the blessed in eternal life?**
+
+**Respondeo**: **From Apoc. 5 it is clear: The blessed in God shall perpetually rejoice, and himself without ceasing shall praise and celebrate, Apoc. 5:11–14**: *"And I saw, and I heard the voice of many Angels round about the throne, and of the living creatures, and of the elders. And the number of them was thousands of thousands, saying with a loud voice: Worthy is the Lamb, who was slain, to receive virtue, and divinity, and wisdom, and fortitude, and honour, and glory, and benediction: And every creature, which is in heaven, above the earth, and under the earth, and which are in the sea, and which are in it, all I heard saying, sitting on the throne and to the Lamb, benediction, honour, and glory, and power for ever and ever. And the four living creatures said, Amen. And the twenty-four elders fell upon their faces, and adored him that liveth, for ever and ever."* **And chap. 7:9–12**: *"After this I saw a great multitude, which no one could number, out of all nations, and tribes, and peoples, and tongues, standing before the throne, and in sight of the Lamb, clothed with white robes, and palms in their hands, and they cried with a loud voice, saying: Salvation to our God, who sitteth upon the throne, and to the Lamb. And all the Angels stood round about the throne, and the elders, and the four living creatures, and they fell in the sight of the throne on their faces, and adored him, saying, Amen. Blessing, and brightness, and wisdom, and thanksgiving, honour, and virtue, and fortitude to our God for ever and ever, Amen."*
+
+**Augustine, book 22 *De civitate Dei*, cap. 29, writeth**: *"When it is asked of me, what the saints shall do in that spiritual body, I say not, what I already see, but I say, what I believe. I say however that they shall see God in that very body."* **And cap. 30**: *"He himself shall be the end of our desires, who without end shall be seen, without weariness shall be loved, without fatigue shall be praised."* **And on Ps. 83**: *"What shall we do in eternal life? This shall be our whole business, without defect, Alleluia, that is, without end we shall praise God."*
+
+— ❦ —
+
+## Question 14. Rightly do the Philosophers say, that nothing earthly can be in heaven, but our body is earthly?
+
+**Rightly do the Philosophers say, that nothing earthly can be in heaven, but our body is earthly?**
+
+**Respondeo**: **By no means: For Scripture, 1 Cor. 15:44, expressly saith**: *"A natural body is sown, a spiritual body shall rise."* **The Lord therefore our God shall transform in the resurrection the body formed from earth in such wise, that it be apt to cohabit in heaven with God and his holy Angels for all eternity: For which benefit we shall praise him for ever and ever.**
+
+— ❦ —
+
+## Question 15. Shall the saints recognize each other in eternal life?
+
+**Shall the saints recognize each other in eternal life?**
+
+**Respondeo**: **In the highest degree: For as Adam recognized his Eve, brought by God unto him, and understood, whence she was so, so also the saints in the other life shall recognize themselves mutually. And as Christ after his resurrection with his disciples spoke, and by them was recognized: So this without doubt much more shall be in eternal life. And as the women speak with the holy Angels concerning Christ raised: So no doubt but the saints also in the future life with the Angels shall speak, and life and everlasting joy shall enjoy.**
+
+— ❦ —
+
+## Question 16. How then are we rendered partakers of eternal life?
+
+**How then are we rendered partakers of eternal life?**
+
+**Respondeo**: **Through the word of the Gospel: For in it eternal life is promised, offered, and given unto us, Rom. 1:16**: *"The Gospel is the power of God unto salvation to every one that believeth."* **Through faith in Christ it is apprehended, and unto us applied, John 3:16**: *"That every one that believeth in him, may not perish, but have eternal life."* **By the virtue of God we are kept, through faith unto salvation prepared, and to be revealed in the last time, 1 Pet. 1:5.**
+
+— ❦ —
+
+## Question 17. What then ought to move and impel us seriously and with whole heart to desire and seek the glory and joy of eternal life?
+
+**What then ought to move and impel us seriously and with whole heart to desire and seek the glory and joy of eternal life?**
+
+**Respondeo**: **Those highest goods, which unto believers in Christ are promised, of which a little before was spoken. For nowhere better could we live, than with God and our Lord, from whom, and in whom, we shall have all things, which unto perennial joy, life, and true beatitude make, in which all sufficiency, unto perpetual eternities, we shall have, that we may fail in no good. And in sum, who from every evil shall fully liberate us, and with eternal life and glory shall bestow: Into which may Christ Jesus, who by his death and passion hath acquired these goods for us, lead us, Amen.**
+
+**To the King of ages, immortal, invisible, only wise God, honour and glory, unto ages of ages. Amen, Amen, Amen.**
+
+— ❦ —
+
+*[Locus XLVI De Vita Aeterna COMPLETE — rendered in 1 tranche (T106). MAIN BODY OF METHODICA CLOSES HERE. Q1–Q17 with 1 formal Obj: reason's laughter at doctrine (Cato Uticensis + Sadducees, natural man cannot perceive), 12-point demonstration of eternal life (creation with deliberation, imago Dei, death only after sin Gen 2, God's inspiration Gen 2, Sabbath in Paradise, Scripture-corpus from Ps 16-22 + Job 19 + Ezek 37 + Dan 12 + John 3/10 + Matt 25 + John 6/11, OT exempla Abel/Enoch/Moses/Elijah, NT ascension of Christ, ministry-of-word institution, Symbol, Rom 8:18, Christ vs Sadducees Matt 22:32), name (Eternal Life John 3:16 + Apoc 21:2 New Jerusalem), definition (state of blessed after resurrection seeing God without sin John 17:3), God alone as author but Christ merits by death/resurrection/ascension, all believers inherit (Obj on gentiles rebutted: wages of sin is death Rom 6:23 + Acts 4:12 + light-of-glory will vindicate God), heaven with God John 14:2, NOT Aristotelian place — spiritual habitation 1 Cor 2:9, new heavens/new earth Isa 65:17 mysteries partly known, God prepared it for reward-and-joy, 8-fold gifts (perfect just body+soul, free from death, free from Devil, free from miseries, bodies configured to Christ Phil 3:21, marriage/kingdoms/ministry cease Matt 22:30 + Dan 2:44, face-to-face vision + Aug on Ps 75 + cohabitation with Christ John 14:3/17:24, true+perfect+eternal joy + Aug De vera innocentia), same beatitude but distinct glory per gifts (stars 1 Cor 15:41), actions = eternal praise per Apoc 5:11-14 + Apoc 7:9-12 + Aug De civ. Dei 22.29-30 + Ps 83, earthly body transformed 1 Cor 15:44 not against Philosophers, saints recognize each other (Adam-Eve + risen Christ-disciples + women-angels), participation through Gospel Rom 1:16 + 1 Pet 1:5, motive = the promised highest goods, closes with capstone doxology "Regi seculorum, immortali, invisibili, soli sapienti Deo, honor et gloria, in secula seculorum. Amen, Amen, Amen." 929 top-level Q + 442 Obj rendered in the MAIN BODY. What follows in the printed 1595 volume (OCR 47541-48728) is Fladyng's biographical memorial *Simplex et Brevis Delineatio Curriculi Vitae, Ministerii, et Obitus Timothei Kirchneri* — a life-of-the-author appendix rather than the doctrinal short-form second cycle. The short-form catechetical Loci I-XXIV begin at OCR 48729. Confirm with user before continuing.]*
