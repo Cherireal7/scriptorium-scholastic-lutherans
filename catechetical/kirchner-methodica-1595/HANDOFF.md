@@ -7,11 +7,33 @@
 **COMPLETE.** No further tranches. Do not open a fresh chat to continue this volume.
 
 - **Last commit at completion:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
-- **MD file:** `review/kirchner-methodica-1595.md` — ~14.2k lines, closing marker at end of file.
+- **MD file:** `review/kirchner-methodica-1595.md` — ~14k lines, closing marker at end of file.
 - **Tranches:** 107 committed (T1–T107).
 - **Main body:** 46 Loci, 929 top-level Questions, 442 formal Objections.
 - **Appendix:** Fladyng's biography of Kirchner (T107).
 - **PDF/DOCX build:** `pwsh -f build-shareable.ps1` from the volume root.
+
+## Build pipeline (rebuilt 2026-09-09)
+
+The build uses a **volume-specific reference DOCX** (`reference-kirchner-methodica.docx`) that provides:
+
+- **Running headers** — chapter title printed at the top of every page via a Word `STYLEREF "Heading 1"` field.
+- **Centered page numbers** in the footer via a `PAGE` field.
+
+Post-pandoc, the build runs a small Python-UNO script (`update-fields.py`) via LibreOffice's bundled Python to refresh the `TOC`, `PAGE`, and `STYLEREF` fields so that the exported PDF ships with **populated page numbers** in the Table of Contents (rather than a placeholder that only fills in when the DOCX is opened in Word / LibreOffice).
+
+### Optional cover-page font
+
+The half-title and full-title pages reference **`IM Fell English`** — a digital revival of John Fell's late-17th-century Oxford types, the closest freely-licensed match to a late-16th-century Leipzig imprint in feel. Install it from <https://fonts.google.com/specimen/IM+Fell+English> (unzip → right-click each `.ttf` → *Install for all users*). If the font is not installed, Word / LibreOffice silently substitute a default serif face; the rest of the book is unaffected.
+
+### Files under the volume root
+
+- `build-shareable.ps1` — the build pipeline (pandoc → macro-driven field refresh → PDF).
+- `reference-kirchner-methodica.docx` — the volume-specific pandoc reference DOCX with running headers and page-number footer already wired.
+- `update-fields.py` — the LibreOffice-Python-UNO helper invoked by the build.
+- `review/kirchner-methodica-1595.md` — the master Markdown.
+- `review/*.docx` and `review/*.pdf` — the built artefacts.
+- `sources-original/` — the raw OCR text from the Google-Books scan of the 1595 print.
 
 ## What was deliberately omitted
 

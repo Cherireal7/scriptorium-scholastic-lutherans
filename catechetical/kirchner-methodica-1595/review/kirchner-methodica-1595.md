@@ -10,8 +10,8 @@ lang: en
 
 ```{=openxml}
 <w:p/><w:p/><w:p/><w:p/><w:p/>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="72"/></w:rPr><w:t>METHODICA</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="48"/></w:rPr><w:t>EXPLICATIO</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="IM FELL English" w:hAnsi="IM FELL English" w:cs="IM FELL English"/><w:b/><w:sz w:val="72"/></w:rPr><w:t>METHODICA</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="IM FELL English" w:hAnsi="IM FELL English" w:cs="IM FELL English"/><w:b/><w:sz w:val="48"/></w:rPr><w:t>EXPLICATIO</w:t></w:r></w:p>
 <w:p/>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Of Timotheus Kirchner</w:t></w:r></w:p>
 <w:p/>
@@ -31,8 +31,8 @@ lang: en
 
 ```{=openxml}
 <w:p/><w:p/>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="72"/></w:rPr><w:t>METHODICA</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="60"/></w:rPr><w:t>EXPLICATIO</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="IM FELL English" w:hAnsi="IM FELL English" w:cs="IM FELL English"/><w:b/><w:sz w:val="72"/></w:rPr><w:t>METHODICA</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="IM FELL English" w:hAnsi="IM FELL English" w:cs="IM FELL English"/><w:b/><w:sz w:val="60"/></w:rPr><w:t>EXPLICATIO</w:t></w:r></w:p>
 <w:p/>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>of the Chief Chapters of the Heavenly Doctrine,</w:t></w:r></w:p>
 <w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>so composed as to comprise not only a brief hypothesis</w:t></w:r></w:p>
@@ -145,82 +145,16 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 
 # Table of Contents
 
-## Front Matter
-
-- Title Page
-- Colophon / Imprint
-- Translator's Note
-
-## The Six Parts of Christian Doctrine
-
-### Part I. Foundations — Scripture, God, and Christ
-
-- **Locus I.** *De Sacra Scriptura seu Verbo Dei* — Of Sacred Scripture, or the Word of God
-- **Locus II.** *De Deo* — Of God
-- **Locus III.** *De Persona Christi* — Of the Person of Christ
-- **Locus IV.** *De Officio Christi* — Of the Office of Christ
-- **Locus V.** *De Regno Christi* — Of the Kingdom of Christ
-- **Locus VI.** *De Aeterno Sacerdotio Christi* — Of the Eternal Priesthood of Christ
-- **Locus VII.** *De Spiritu Sancto* — Of the Holy Spirit
-
-### Part II. Creation, the Fall, and Sin
-
-- **Locus VIII.** *De Creatione* — Of the Creation of All Creatures
-- **Locus IX.** *De Angelis* — Of the Angels of God
-- **Locus X.** *De Malis Angelis* — Of Evil Angels
-- **Locus XI.** *De Homine ante Lapsum* — Of Man before the Fall
-- **Locus XII.** *De Lapsu Adami et Corruptis Viribus Hominis* — Of the Fall of Adam and of the Corrupted Powers of Man
-- **Locus XIII.** *De Peccato in Genere* — Of Sin in General
-- **Locus XIV.** *De Peccato Originali* — Of Original Sin
-- **Locus XV.** *De Peccato Actuali* — Of Actual Sin
-- **Locus XVI.** *De Peccato Regnante et Non Regnante* — Of Ruling and Non-Ruling Sin
-- **Locus XVII.** *De Peccato in Spiritum Sanctum* — Of the Sin against the Holy Spirit
-
-### Part III. Law, Gospel, and the Life of Faith
-
-- **Locus XVIII.** *De Lege Dei* — Of the Law of God
-- **Locus XIX.** *De Evangelio* — Of the Gospel
-- **Locus XX.** *De Iustificatione Peccatoris coram Deo* — Of the Justification of the Sinner before God
-- **Locus XXI.** *De Fide in Christum* — Of Faith on Christ
-- **Locus XXII.** *De Aeterna Dei Electione* — Of God's Eternal Election
-- **Locus XXIII.** *De Bonis Operibus* — Of Good Works
-- **Locus XXIV.** *De Oratione* — Of Prayer
-
-### Part IV. The Sacraments and the Church
-
-- **Locus XXV.** *De Sacramentis in Genere* — Of the Sacraments in General
-- **Locus XXVI.** *De Baptismo* — Of Baptism
-- **Locus XXVII.** *De Sacra Coena* — Of the Holy Supper
-- **Locus XXVIII.** *De Ecclesia Catholica* — Of the Catholic or Christian Church
-- **Locus XXIX.** *De Ministerio Verbi* — Of the Preaching-Office
-- **Locus XXX.** *De Potestate Clavium* — Of the Power of the Keys
-
-### Part V. The Christian Life
-
-- **Locus XXXI.** *De Poenitentia* — Of Repentance
-- **Locus XXXII.** *De Libertate Christiana* — Of Christian Freedom
-- **Locus XXXIII.** *De Scandalo* — Of Offence
-- **Locus XXXIV.** *De Miraculis* — Of Wonder-Signs (Miracles)
-- **Locus XXXV.** *De Cruce et Afflictionibus* — Of the Cross and Sufferings
-- **Locus XXXVI.** *De Magistratu Politico* — Of the Worldly Authority
-- **Locus XXXVII.** *De Coniugio* — Of the Marriage-Estate
-- **Locus XXXVIII.** *De Antichristo* — Of the Antichrist
-
-### Part VI. The Last Things
-
-- **Locus XXXIX.** *De Morte* — Of Death
-- **Locus XL.** *De Sepultura* — Of Burial
-- **Locus XLI.** *De Statu Animarum post Mortem* — Of the State of the Souls after Death
-- **Locus XLII.** *De Fine Mundi* — Of the End of this World
-- **Locus XLIII.** *De Resurrectione Mortuorum* — Of the Resurrection of the Dead
-- **Locus XLIV.** *De Extremo Iudicio* — Of the Last Judgment
-- **Locus XLV.** *De Inferno* — Of Hell
-- **Locus XLVI.** *De Vita Aeterna* — Of Eternal Life
-
-## Back Matter
-
-- Endnotes
-- Closing Colophon
+```{=openxml}
+<w:p>
+  <w:pPr><w:jc w:val="left"/></w:pPr>
+  <w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r>
+  <w:r><w:instrText xml:space="preserve"> TOC \o "1-1" \h \z \u </w:instrText></w:r>
+  <w:r><w:fldChar w:fldCharType="separate"/></w:r>
+  <w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Right-click the table and choose "Update Field" to populate page numbers, or open in Word / LibreOffice.</w:t></w:r>
+  <w:r><w:fldChar w:fldCharType="end"/></w:r>
+</w:p>
+```
 
 — ❦ —
 
@@ -228,9 +162,7 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus I. Of Sacred Scripture, or the Word of God
-
-### *De Sacra Scriptura seu Verbo Dei*
+# Locus I. Of Sacred Scripture, or the Word of God (*De Sacra Scriptura seu Verbo Dei*)
 
 — ❦ —
 
@@ -612,9 +544,7 @@ To this, Christ did not say: *"I am human tradition or custom"*, but ***"I am th
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus II. Of God
-
-### *De Deo*
+# Locus II. Of God (*De Deo*)
 
 — ❦ —
 
@@ -888,9 +818,7 @@ So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus III. Of the Person of Our Lord and Saviour Jesus Christ
-
-### *De Persona Domini et Salvatoris Nostri Iesu Christi*
+# Locus III. Of the Person of Our Lord and Saviour Jesus Christ (*De Persona Domini et Salvatoris Nostri Iesu Christi*)
 
 — ❦ —
 
@@ -1816,9 +1744,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus IV. Of the Office of Christ
-
-### *De Officio Christi*
+# Locus IV. Of the Office of Christ (*De Officio Christi*)
 
 — ❦ —
 
@@ -1938,9 +1864,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus V. Of the Kingdom of Christ
-
-### *De Regno Christi*
+# Locus V. Of the Kingdom of Christ (*De Regno Christi*)
 
 — ❦ —
 
@@ -2094,9 +2018,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus VI. Of the Eternal Priesthood of Christ
-
-### *De Aeterno Christi Sacerdotio*
+# Locus VI. Of the Eternal Priesthood of Christ (*De Aeterno Christi Sacerdotio*)
 
 — ❦ —
 
@@ -2198,9 +2120,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus VII. Of the Holy Spirit
-
-### *De Spiritu Sancto*
+# Locus VII. Of the Holy Spirit (*De Spiritu Sancto*)
 
 — ❦ —
 
@@ -2326,9 +2246,7 @@ Whether the Holy Spirit is present in us ***essentially or virtually***: in the 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus VIII. Of the Creation of the Whole Universe, or of All Creatures
-
-### *De Creatione Totius Universi seu Omnium Creaturarum*
+# Locus VIII. Of the Creation of the Whole Universe, or of All Creatures (*De Creatione Totius Universi seu Omnium Creaturarum*)
 
 — ❦ —
 
@@ -2638,9 +2556,7 @@ Concerning ***evil events***, it must be known:
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus IX. Of Angels
-
-### *De Angelis*
+# Locus IX. Of Angels (*De Angelis*)
 
 — ❦ —
 
@@ -2748,9 +2664,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus X. Of the Evil Angels
-
-### *De Malis Angelis*
+# Locus X. Of the Evil Angels (*De Malis Angelis*)
 
 — ❦ —
 
@@ -2908,9 +2822,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus XI. Of Man Before the Fall
-
-### *De Homine ante Lapsum*
+# Locus XI. Of Man Before the Fall (*De Homine ante Lapsum*)
 
 — ❦ —
 
@@ -3028,9 +2940,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus XII. Of the Fall of Adam, and of the Corrupted Powers of Man
-
-### *De Lapsu Adami et Corruptis Viribus Humanis*
+# Locus XII. Of the Fall of Adam, and of the Corrupted Powers of Man (*De Lapsu Adami et Corruptis Viribus Humanis*)
 
 — ❦ —
 
@@ -3344,9 +3254,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 — ❦ —
 
-# Locus XIII. Of Sin in General
-
-### *De Peccato in Genere*
+# Locus XIII. Of Sin in General (*De Peccato in Genere*)
 
 ## Question 1. What is sin?
 
@@ -3494,9 +3402,7 @@ That **never to any penitent sinner has he denied the gratuitous remission of si
 
 — ❦ —
 
-# Locus XIV. Of Original Sin
-
-### *De Peccato Originali*
+# Locus XIV. Of Original Sin (*De Peccato Originali*)
 
 ## Question 1. What is original sin?
 
@@ -3786,9 +3692,7 @@ To the Minor: **But the flesh of the regenerate does not *per se* reluctate the 
 
 — ❦ —
 
-# Locus XV. Of Actual Sin
-
-### *De Peccato Actuali*
+# Locus XV. Of Actual Sin (*De Peccato Actuali*)
 
 ## Question 1. What is actual sin?
 
@@ -3907,9 +3811,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 — ❦ —
 
-# Locus XVI. Of Ruling and Non-Ruling Sin
-
-### *De Peccato Regnante et Non Regnante*
+# Locus XVI. Of Ruling and Non-Ruling Sin (*De Peccato Regnante et Non Regnante*)
 
 ## Question 1. How further is sin divided?
 
@@ -4081,9 +3983,7 @@ From these it is easy to understand who are truly the faithful and living member
 
 — ❦ —
 
-# Locus XVII. Of the Sin against the Holy Spirit
-
-### *De Peccato in Spiritum Sanctum*
+# Locus XVII. Of the Sin against the Holy Spirit (*De Peccato in Spiritum Sanctum*)
 
 ## Question 1. What is the sin against the Holy Spirit?
 
@@ -4129,9 +4029,7 @@ And what should our works do in so great a matter? — since we are creatures, a
 
 — ❦ —
 
-# Locus XVIII. Of the Law
-
-### *De Lege*
+# Locus XVIII. Of the Law (*De Lege*)
 
 ## Question 1. What is the Law?
 
@@ -4416,9 +4314,7 @@ For **Paul expressly says that we have been freed by Christ from the curse of th
 
 — ❦ —
 
-# Locus XIX. Of the Gospel
-
-### *De Evangelio*
+# Locus XIX. Of the Gospel (*De Evangelio*)
 
 ## Question 1. What is the Gospel?
 
@@ -4608,9 +4504,7 @@ Then there is **ambiguity in the voice *proper***. The **whole ministry of Chris
 
 — ❦ —
 
-# Locus XX. Of the Justification of the Sinner-Man Before God
-
-### *De Iustificatione Hominis Peccatoris coram Deo*
+# Locus XX. Of the Justification of the Sinner-Man Before God (*De Iustificatione Hominis Peccatoris coram Deo*)
 
 ## Question 1. What does the word *Grace* signify in this article?
 
@@ -5008,7 +4902,7 @@ But **here the hinge turneth, and this is the status of the controversy**: namel
 
 — ❦ —
 
-# OBIECTIONES PONTIFICIORVM
+## Objections of the Pontificians
 
 *[Concerning the solution of the arguments of the adversaries in general, Luther T. 4/1, p. 84, most beautifully explained, p. 89.]*
 
@@ -5178,9 +5072,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 — ❦ —
 
-# Locus XXI. Of Faith in Christ
-
-### *De Fide in Christum*
+# Locus XXI. Of Faith in Christ (*De Fide in Christum*)
 
 ## Question 1. What is faith?
 
@@ -5516,7 +5408,7 @@ But **if this article be sincerely taught and faithfully urged, easily by the ai
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **In uncertain things firm confidence cannot be placed. But whether I and thou be in grace, is uncertain. *Ergo* in this we cannot acquiesce with trust, and place firm confidence.**
 
@@ -5600,9 +5492,7 @@ Then **the saying of Joel speaketh not of the promise of grace and of the remiss
 
 — ❦ —
 
-# Locus XXII. Of Predestination
-
-### *De Praedestinatione*
+# Locus XXII. Of Predestination (*De Praedestinatione*)
 
 ## Question 1. Since also true Christians often experience most grievous temptations concerning predestination, expound to me briefly what it is.
 
@@ -5696,7 +5586,7 @@ Wherefore **let all the pious abstain from blasphemies of this kind**, and **if 
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) the reprobates cannot be saved, whatever they do?**
 
@@ -5818,9 +5708,7 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 
 — ❦ —
 
-# Locus XXIII. Of Good Works
-
-### *De Bonis Operibus*
+# Locus XXIII. Of Good Works (*De Bonis Operibus*)
 
 ## Question 1. What are good works?
 
@@ -5974,7 +5862,7 @@ By these therefore so many immoveable sayings of Scripture, **no man before GOD 
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 *[Concerning confession, see Luther T. 4, p. 513; T. 2, p. 339; T. 4/1, p. 402.]*
 
@@ -6170,7 +6058,7 @@ Whence **Augustine, Epistle 105, writeth**: *"What good of merit can sinners hav
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **"Whatsoever covereth the multitude of offences, meriteth grace. Charity doeth this — Prov. 10. *Ergo* it meriteth grace."**
 
@@ -6230,9 +6118,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 — ❦ —
 
-# OF LOVE OF THE NEIGHBOUR
-
-### *De Dilectione Proximi*
+## Of Love of the Neighbour (*De Dilectione Proximi*)
 
 ## Question 1. Is the Christian and faithful man bound to love his neighbour?
 
@@ -6266,9 +6152,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 — ❦ —
 
-# OF ALMS
-
-### *De Eleemosynis*
+## Of Alms (*De Eleemosynis*)
 
 ## Question 1. Doth the Christian and faithful man give alms?
 
@@ -6368,9 +6252,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 — ❦ —
 
-# OF FASTING
-
-### *De Ieiunio*
+## Of Fasting (*De Ieiunio*)
 
 ## Question 1. Is the faithful or Christian man bound to fast — that is, to live soberly and temperately?
 
@@ -6428,9 +6310,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 — ❦ —
 
-# Locus XXIV. Of the Invocation of God, or of Prayer
-
-### *De Invocatione Dei, seu, De Precatione*
+# Locus XXIV. Of the Invocation of God, or of Prayer (*De Invocatione Dei, seu, De Precatione*)
 
 ## Question 1. Can the invocation of God be omitted without sin?
 
@@ -6640,7 +6520,7 @@ The leper, **Matt. 8:2**, cleansing from leprosy; the Canaanite woman, **Matt. 1
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But the Saints pray for us and intercede? Therefore they are to be invoked.**
 
@@ -6720,7 +6600,7 @@ Then it is known also to the Papists, that **the exemplars of this Mass wondrous
 
 **Respondeo**: **By no means.** For in **Heb. 7** it is diserte written: *"Always living, that he may interpel for us."* And **Rom. 8**: *"Who is at the right hand of God, who also interpelleth for us."*
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **The actions of Christ that agree with the time of humiliation, are not to be attributed to the time of glorification. But intercession and Passion agreed with the state or time of humiliation. *Ergo* Christ now is not intercessor, nor to be invoked, that for us he intercede.**
 
@@ -6742,7 +6622,7 @@ The Minor is proved: **Because Christ, as once he died, so prayed for men, then 
 
 **By no means.** For **it lacketh express word of God.** And **in very truth it is idolatrous to worship dead bones and the like exuviae of Saints**. **In very deed also the invocations made to Mary of Ratisbon or of Loreto differ nothing from the Ethnic invocations, which once were made to Diana of Ephesus, or to other statues. And these cults have arisen from the examples of the Ethnics.**
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Miracles attest of truth. To the relics of the Saints miracles have been done. *Ergo* they attest that the cult of relics pleaseth God.**
 
@@ -6776,7 +6656,7 @@ The Minor is proved: **Because Christ, as once he died, so prayed for men, then 
 
 **Respondeo**: **In the Church of Christ such consecrations are not to be borne, because they are destitute of express mandate of God.**
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **It is pious to say a prayer at table over food. *Ergo* also consecrations in the temples are pious.**
 
@@ -6804,9 +6684,7 @@ As to the Minor: **the word "sanctify" in Paul is to be understood of the Physic
 
 — ❦ —
 
-# Locus XXV. Of the Sacraments in General
-
-### *De Sacramentis in Genere*
+# Locus XXV. Of the Sacraments in General (*De Sacramentis in Genere*)
 
 ## Question 1. Doth this word "Sacrament" exist in the sacred letters, used of Baptism and of the Supper of the Lord?
 
@@ -6936,7 +6814,7 @@ Whence it is clear, that **they fall into the error of the Donatists, who conten
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But Augustine saith to Boniface, Epistle 22: *"Signs receive the names of the things signified."***
 
@@ -7024,9 +6902,7 @@ Whence it is clear, that **they fall into the error of the Donatists, who conten
 
 — ❦ —
 
-# Locus XXVI. Of Baptism
-
-### *De Baptismo*
+# Locus XXVI. Of Baptism (*De Baptismo*)
 
 ## Question 1. What is Baptism?
 
@@ -7210,7 +7086,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But Gen. 17:7 it is said: *"I am thy God and the God of thy seed after thee."* *Ergo* it is necessary that the children of the faithful sinners be also holy before God before Baptism.**
 
@@ -7394,9 +7270,7 @@ When therefore **a faithful man, from the infirmity of the flesh and the seducti
 
 — ❦ —
 
-# Locus XXVII. Of the Sacred Supper of the Lord
-
-### *De Sacra Domini Coena*
+# Locus XXVII. Of the Sacred Supper of the Lord (*De Sacra Domini Coena*)
 
 ## Question 1. What are the names or appellations of this Sacrament?
 
@@ -7538,7 +7412,7 @@ So **bread properly and *per se* is not the body of Christ, but on account of th
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **The mode of predication must be either usual, or figurative, or inusitate. But by the usual mode of predication, disparate things or species properly cannot in any way be said of one another. But the inusitate mode pertaineth only to the mystery of the Incarnation — of which, on account of the hypostasis and subsistence of the two natures in the person of the Son of God, there is no similar example in the whole universe of things. *Ergo* the mode of predication [in the Supper] is figurative.**
 
@@ -7586,7 +7460,7 @@ So **bread properly and *per se* is not the body of Christ, but on account of th
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But if ye retain these particles, ye yourselves depart from the writing of the words of institution — for far other is the enunciation *"bread is the body of Christ,"* and *"in the bread is the body of Christ"*?** [*[T. 3, p. 439*]*]
 
@@ -7756,7 +7630,7 @@ The same **Cyril in John, bk. 4, cap. 26; bk. 4, cap. 14, 17**, and **Augustine,
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Do ye therefore teach a local and comprehensible union — so that the body of CHRIST is locally included in the bread?**
 
@@ -8040,7 +7914,7 @@ And on this account this doctrine is nothing — because **it attributeth this t
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) the body of Christ can be apprehended and eaten only spiritually with the mouth of faith. *Ergo* it is not received with the mouth of the body?**
 
@@ -8106,7 +7980,7 @@ And by a similar reason also **the manducation of which John 6 treateth differet
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But the spiritual manducation alone sufficeth. *Ergo* the oral is not needful?**
 
@@ -8178,7 +8052,7 @@ If therefore **the Adversaries would obtain anything, they must first demonstrat
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Where the promise is, there is faith. The unworthy or the evil have no faith. *Ergo* neither have they any promise, that they should receive the body of CHRIST.**
 
@@ -8294,7 +8168,7 @@ On the contrary he understandeth the spiritual manducation by *the bread the Lor
 
 — ❦ —
 
-# RESPONSIO AD PR ĂECIPVA ARGVMENTA ADVERSARIORVM
+## Response to the Chief Arguments of the Adversaries (*Responsio ad Praecipua Argumenta Adversariorum*) ARGVMENTA ADVERSARIORVM
 
 *[Response to the chief arguments of the Adversaries, by which they endeavour to prove that the true body and blood of Christ, with the sacred Symbols of bread and wine in the Supper, are plainly not given or exhibited.]*
 
@@ -8662,7 +8536,7 @@ Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned
 
 — ❦ —
 
-# RESPONSIO AD PRAECIPVA PONTIFICIORVM ARGVMENTA
+## Response to the Chief Arguments of the Pontificians (*Responsio ad Praecipua Pontificiorum Argumenta*)
 
 *[Response to the chief arguments of the Papists, by which they attempt to establish the oblation of the Mass.]*
 
@@ -8788,7 +8662,7 @@ So by **Irenaeus, Justin, and other Fathers, the sacred Supper is called *Euchar
 
 — ❦ —
 
-# RESPONSIO AD PRAECIPVA ALIQUOT ARGVMENTA A PONTIFICIIS PRO INTERDICTO CALICIS ALLATA
+## Response to Certain Chief Arguments Brought by the Pontificians for the Interdict of the Cup (*Responsio ad Praecipua Aliquot Argumenta a Pontificiis pro Interdicto Calicis Allata*)
 
 *[Response to certain chief arguments alleged by the Papists for the interdict of the cup.]*
 
@@ -8884,9 +8758,7 @@ And **the blasphemies indeed of the Papists are sufficiently palpable and easily
 
 — ❦ —
 
-# Locus XXVIII. Of the Catholic or Christian Church
-
-### *De Ecclesia Catholica vel Christiana*
+# Locus XXVIII. Of the Catholic or Christian Church (*De Ecclesia Catholica vel Christiana*)
 
 ## Question 1. Hath God on this earth a Church or a people, of whom he taketh singular care?
 
@@ -8994,7 +8866,7 @@ And on this account we say: **I believe the Church** — that is, we attest that
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But the Church is a city set on a mountain. *Ergo* it is not invisible.**
 
@@ -9122,7 +8994,7 @@ And if **the Gentiles could have been saved without knowledge of Christ, what ne
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **The word of God is spoken in the Church. *Ergo* the word of God is not a mark of the Church.**
 
@@ -9250,7 +9122,7 @@ Just as **in the Old Testament there always were some truly faithful even under 
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Christ never suffereth his Church to perish. *Ergo* she cannot be obscure or lie hid.**
 
@@ -9276,7 +9148,7 @@ Just as **in the Old Testament there always were some truly faithful even under 
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But the faith of the Roman Church everywhere, always, and by all hath been believed. *Ergo* etc.** [*[T. 7, p. 411 and following*]*]
 
@@ -9406,7 +9278,7 @@ If therefore this be considered, it is clear, that **for a long time among the P
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Catholic is what everywhere, what always, what by all is believed. The doctrine of your Churches is not such. *Ergo* it is not Catholic.** [*[See Luther T. 7, pp. 410, 411 and following*]*]
 
@@ -9450,7 +9322,7 @@ To those objecting therefore that saying of Tertullian: *"Who are ye? When and w
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Where scandals and defects are, there cannot be the true Church of God. Among you scandals and defects are. *Ergo* etc.**
 
@@ -9574,7 +9446,7 @@ But **she hath not the power of *condere novos articulos fidei* against the word
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **The Church is to be heard, because it is written**: *"Tell the Church, Matt. 18."* ***Ergo* with the Church is the supreme authority in matters of faith, and her voice without exception must in all things be followed.**
 
@@ -9718,7 +9590,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) if the Roman Church is not the true Church of God, where then hitherto hath the Church been?**
 
@@ -9746,7 +9618,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But 1 Tim. 3:15 the Church is said to be the *"column and firmament of truth."* *Ergo* she cannot err.** [*[T. 4/1, p. 23*]*]
 
@@ -9778,9 +9650,7 @@ They ask however of us, that we teach them **at what time therefore that defecti
 
 — ❦ —
 
-# Locus XXIX. Of the Ministry
-
-### *De Ministerio*
+# Locus XXIX. Of the Ministry (*De Ministerio*)
 
 ## Question 1. Is there any Ministry of the Word in the New Testament?
 
@@ -9946,7 +9816,7 @@ Then, **it is certain, that the right of calling and confirmation belongs not on
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) your ministers' ordination is null, since it is not made by consecrated Bishops. For this is by the right of custom.**
 
@@ -10096,7 +9966,7 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But John 16:12–13 we read written**: *"Yet many things I have to say to you, but ye cannot bear them now: but when he shall come, that Spirit of truth, he shall teach you all truth."* ***Ergo* the Bishops have the aforesaid power.**
 
@@ -10122,9 +9992,7 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-# Locus XXX. Of the Power of the Keys
-
-### *De Potestate Clavium*
+# Locus XXX. Of the Power of the Keys (*De Potestate Clavium*)
 
 ## Question 1. Hath the Church any such power?
 
@@ -10498,9 +10366,7 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-# Locus XXXI. Of Penitence
-
-### *De Poenitentia*
+# Locus XXXI. Of Penitence (*De Poenitentia*)
 
 ## Question 1. How is the word *poenitentia* used in the sacred letters?
 
@@ -10566,7 +10432,7 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Of an unknown thing there can be no grief. Many sins are unknown to us. *Ergo* concerning them we cannot grieve.**
 
@@ -10754,7 +10620,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **Malach. 3 it is said**: *"I am God and change not."* ***Ergo* he is not moved by our penitence.**
 
@@ -10940,7 +10806,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But there cannot be judgment without preceding cognition. *Ergo* is it not necessary that all sins with their circumstances in confession be enumerated?**
 
@@ -11044,7 +10910,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) by satisfaction one must rise again from sin committed.**
 
@@ -11118,7 +10984,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) the universal Church hath always understood such a confession, as they describe it, to have been instituted by Christ, and to have always been employed in the Church?**
 
@@ -11182,7 +11048,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But many abuses and infinite evils have been introduced by the Papists into the Church through auricular and private absolution? Therefore it were to be abrogated.**
 
@@ -11202,8 +11068,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXII. Of Christian Liberty
-### *De Libertate Christiana*
+# Locus XXXII. Of Christian Liberty (*De Libertate Christiana*)
 
 ## Question 1. What by the word "liberty" in this article is understood? [*[Gal. 5]*] [*[T. 1, p. 147, &c.]*]
 
@@ -11383,7 +11248,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But Paul, 1 Cor. 6:12, saith: "All things are lawful to me"?**
 
@@ -11397,8 +11262,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXIII. Of Scandal
-### *De Scandalo*
+# Locus XXXIII. Of Scandal (*De Scandalo*)
 
 ## Question 1. What is scandal?
 
@@ -11500,7 +11364,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIO
+## Objection
 
 ### Objection. **A doctrine giving scandal in the Church is to be shunned. The Lutheran is such. Ergo it is to be shunned.** [*[T. 6, p. 540–541; T. 4/1, p. 136]*]
 
@@ -11546,7 +11410,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIO
+## Objection
 
 ### Objection. **But they say they are offended at this, that our doctrine is new and scarce sixty years old?**
 
@@ -11556,8 +11420,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXIV. Of Miracles
-### *De Miraculis*
+# Locus XXXIV. Of Miracles (*De Miraculis*)
 
 ## Question 1. What are Miracles?
 
@@ -11699,7 +11562,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIO
+## Objection
 
 ### Objection. **But I thought that God to false Doctors would not indulge the operation of miracles?**
 
@@ -11767,7 +11630,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But so neither Christ nor his Apostles would have wrought miracles, since they also brought forth no new doctrine?**
 
@@ -11789,8 +11652,9 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXV. Of Calamities and the Cross
-### *De Calamitatibus et Cruce* [*[T. 5, p. 311 & seq., 264–265; T. 4, p. 88–89]*]
+# Locus XXXV. Of Calamities and the Cross (*De Calamitatibus et Cruce*)
+
+[*[T. 5, p. 311 & seq., 264–265; T. 4, p. 88–89]*]
 
 ## Question 1. Why is the doctrine and cognition of this locus necessary?
 
@@ -12046,8 +11910,9 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXVI. Of the Political Magistrate
-### *De Magistratu Politico* [*[G.t. 2, p. 39–40; Gen. t. 1, p. 1600; T. 3, p. 355; T. 5, p. 149; T. 1, p. 2]*]
+# Locus XXXVI. Of the Political Magistrate (*De Magistratu Politico*)
+
+[*[G.t. 2, p. 39–40; Gen. t. 1, p. 1600; T. 3, p. 355; T. 5, p. 149; T. 1, p. 2]*]
 
 ## Question 1. What is a Magistrate?
 
@@ -12065,7 +11930,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But in empires there are great and many difficulties. Ergo this order is not from God?**
 
@@ -12145,7 +12010,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIO
+## Objection
 
 ### Objection. **The Magistrate is to be obeyed. The Magistrate commandeth the Papacy to be received. Ergo he is to be obeyed.**
 
@@ -12201,8 +12066,9 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXVII. Of Matrimony
-### *De Coniugio* [*[Gen. t. 2, p. 227; G.t. p. 39; G.t. p. 102]*]
+# Locus XXXVII. Of Matrimony (*De Coniugio*)
+
+[*[Gen. t. 2, p. 227; G.t. p. 39; G.t. p. 102]*]
 
 ## Question 1. What is matrimony?
 
@@ -12396,7 +12262,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But Rom. 8:8 it is said: "They who are in the flesh, cannot please God." Spouses are in the flesh. Ergo they cannot please.**
 
@@ -12420,8 +12286,9 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXVIII. Of Antichrist
-### *De Antichristo* [*[In praefat. sup. Dan.; T. 8, p. 241]*]
+# Locus XXXVIII. Of Antichrist (*De Antichristo*)
+
+[*[In praefat. sup. Dan.; T. 8, p. 241]*]
 
 ## Question 1. Who is Antichrist?
 
@@ -12511,7 +12378,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# OBIECTIONES
+## Objections
 
 ### Objection I. **But (they say) the reason of order doth demand this?**
 
@@ -12687,8 +12554,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXIX. Of Death
-### *De Morte*
+# Locus XXXIX. Of Death (*De Morte*)
 
 ## Question 1. What is death?
 
@@ -12910,9 +12776,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XL. Of Burial
-
-### *De Sepultura*
+# Locus XL. Of Burial (*De Sepultura*)
 
 ## Question 1. Whence, and why, are the dead buried? [*[G.t. 4, p. 247; G.t. 1.6, p. 257]*]
 
@@ -13022,9 +12886,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLI. Of the State of the Soul after the Death of Man
-
-### *De Statu Animae Post Mortem Hominis*
+# Locus XLI. Of the State of the Soul after the Death of Man (*De Statu Animae Post Mortem Hominis*)
 
 ## Question 1. Doth man die soul and body together?
 
@@ -13186,9 +13048,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLII. Of the End of This World
-
-### *De Fine Huius Mundi*
+# Locus XLII. Of the End of This World (*De Fine Huius Mundi*)
 
 ## Question 1. Shall this world at last pass away and be ended?
 
@@ -13254,9 +13114,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLIII. Of the Resurrection of the Dead
-
-### *De Resurrectione Mortuorum*
+# Locus XLIII. Of the Resurrection of the Dead (*De Resurrectione Mortuorum*)
 
 ## Question 1. Is the future resurrection of the dead certain? [*[T. 6, p. 213; G.t. 2, p. 253; T. 4/1, p. 55; Gen. t. 3, p. 4, 45]*]
 
@@ -13496,9 +13354,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLIV. Of the Last Judgement
-
-### *De Extremo Iudicio*
+# Locus XLIV. Of the Last Judgement (*De Extremo Iudicio*)
 
 ## Question 1. Is this last judgement also certain to come? [*[T. 3, p. 187]*]
 
@@ -13624,9 +13480,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLV. Of Hell
-
-### *De Inferno*
+# Locus XLV. Of Hell (*De Inferno*)
 
 ## Question 1. Is there a hell? [*[T. 4/1]*]
 
@@ -13746,9 +13600,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLVI. Of Eternal Life
-
-### *De Vita Aeterna*
+# Locus XLVI. Of Eternal Life (*De Vita Aeterna*)
 
 ## Question 1. What is the judgement of reason concerning this doctrine? [*[T. 6, p. 251; T. 3, p. 18]*]
 

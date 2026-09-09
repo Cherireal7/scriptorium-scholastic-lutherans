@@ -22,9 +22,20 @@ param(
     [Parameter(Mandatory=$true)][string]$Work
 )
 
-$pandoc = "$env:LOCALAPPDATA\Pandoc\pandoc.exe"
+$pandoc = if (Get-Command pandoc -ErrorAction SilentlyContinue) {
+    (Get-Command pandoc).Source
+} else {
+    "$env:LOCALAPPDATA\Pandoc\pandoc.exe"
+}
 $lo = "C:\Program Files\LibreOffice\program\soffice.exe"
-$repoRoot = "$HOME\Documents\Github\scholastic-lutherans"
+
+# Auto-detect repo root so this script is portable across machines
+$repoRoot = & git rev-parse --show-toplevel 2>$null
+if (-not $repoRoot) {
+    $repoRoot = Split-Path -Parent $PSScriptRoot
+}
+$repoRoot = $repoRoot.Trim() -replace '/', '\'
+
 $reviewDir = Join-Path $repoRoot "$Category\$Work\review"
 $mdFile = "$Work.md"
 $docxFile = "$Work.docx"
