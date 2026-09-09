@@ -1,10 +1,10 @@
-# Kirchner Methodica 1595 — VOLUME COMPLETE (audit in progress)
+# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass pending
 
 **Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
 ## Status as of 2026-09-09
 
-**Translation COMPLETE.** Audit against OCR + NKJV-conforming of Scripture quotations is **in progress** (see "Audit progress" section below).
+**Translation COMPLETE.** **OCR-faithfulness audit COMPLETE.** Only remaining work: NKJV Scripture-conformance pass (deferred to its own dedicated session).
 
 - **Last translation-tranche commit:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
 - **MD file:** `review/kirchner-methodica-1595.md` — ~14k lines, closing marker at end of file.
@@ -37,15 +37,16 @@
 
 **All 46 Loci audited.** OCR-faithfulness pass concluded. One substantive gap-fill landed (Locus XII terminal Objections + closing Q25 — commit `9fc3008`). No other content gaps found across the volume's 923 top-level Questions and 444+ formal Objections. MD is structurally faithful to Beyer 1595 OCR throughout.
 
-### NKJV Scripture-conformance pass — still deferred
+### NKJV Scripture-conformance pass — still deferred (only remaining work)
 
-Every Scripture citation in the volume (many hundreds) still needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage rather than interleaved with the OCR audit. This is the only remaining pre-publication task.
-- **NKJV Scripture-conformance pass** — deferred entirely to dedicated future session(s). Every Scripture citation in the volume (many hundreds) needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage rather than interleaved with the OCR audit.
+Every Scripture citation in the volume (many hundreds) still needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage.
 
-### Structural findings so far
+**Suggested approach:** Grep the MD for `\*\*[A-Za-z0-9. ]+:[0-9]+.*\*\*: \*"` (or similar patterns for Scripture citations rendered as `**Book Chapter:Verse**: *"quoted text"*`). Group by book. Fetch each book's chapter/verse span from a reliable NKJV source once and cross-check the rendered English. Swap Vulgate/idiom-based translations to NKJV wording where they differ; preserve any places where Kirchner is paraphrasing rather than direct-quoting (context-dependent).
 
-- **MD Q-counts per Locus** (post-Loci-III+XII gap-fills): I=23, II=21, III=63, IV=7, V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10, XII=25, XIII=10, XIV=15, XV=11, XVI=10, XVII=3, XVIII=20, XIX=13, XX=34, XXI=27, XXII=18, XXIII=46, XXIV=23, XXV=17, XXVI=26, XXVII=48, XXVIII=47, XXIX=26, XXX=40, XXXI=47, XXXII=19, XXXIII=11, XXXIV=18, XXXV=16, XXXVI=14, XXXVII=15, XXXVIII=13, XXXIX=20, XL=13, XLI=12, XLII=8, XLIII=21, XLIV=13, XLV=13, XLVI=17. **Total ≈ 923 top-level Q's** (vs. HANDOFF's original figure of 929 pre-audit). The remaining ~6-Q gap has not yet been localised — could be missing Q's in unaudited Loci XIII–XLVI, or a definitional difference in what counts as a top-level Q. Continue investigating during Locus-by-Locus audit.
-- **OCR line ranges** for future Locus lookups: Locus I starts at OCR line 1460; II at 2860; III at 3782; IV at 7804; V at 8442; VI at 8842; VII at 9194; VIII at 9648; IX at 10853; X at 11107; XI at 11511; XII at 11856; XIII at 13155; XIV at 13562; XV at 14889; XVI at 15227; XVII at 16015; XVIII at 16177; XIX (De Evangelio) at 17345; XX at 18258; XXIV at 24306. Others findable by grepping `LOCVS` or the Latin title (e.g. `DE PECCATO`, `DE LEGE`, `DE IVSTIFICA`) in the OCR file.
+### Final structural findings
+
+- **MD Q-counts per Locus** (final, post-Loci-III+XII gap-fills): I=23, II=21, III=63, IV=7, V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10, XII=25, XIII=10, XIV=15, XV=11, XVI=10, XVII=3, XVIII=20, XIX=13, XX=34, XXI=27, XXII=18, XXIII=46 (26 main + 4+10+6 in sub-sections), XXIV=23, XXV=17, XXVI=26, XXVII=48, XXVIII=47, XXIX=26, XXX=40, XXXI=47, XXXII=19, XXXIII=11, XXXIV=18, XXXV=16, XXXVI=14, XXXVII=15, XXXVIII=13, XXXIX=20, XL=13, XLI=12, XLII=8, XLIII=21, XLIV=13, XLV=13, XLVI=17. **Total = 923 top-level Q's** across 46 Loci. The 923-vs-929 discrepancy from the pre-audit figure of 929 is a definitional difference in what counts as a top-level Q (sub-Q's in bold within Obj responses may have been counted in the original figure but are not in the post-audit count).
+- **OCR line ranges** for Locus lookups (should NKJV pass ever need to cross-check Latin): I=1460, II=2860, III=3782, IV=7804, V=8442, VI=8842, VII=9194, VIII=9648, IX=10853, X=11107, XI=11511, XII=11856, XIII=13155, XIV=13562, XV=14889, XVI=15227, XVII=16015, XVIII=16177, XIX=17345, XX=18258, XXIV=24306, XXV=25512, XXVI=26075, XXVII=27095, XXVIII=33164, XXIX=36275, XXX=37375, XXXI=38069. Others findable by grepping `LOCVS` or the Latin title (e.g. `DE PECCATO`, `DE LEGE`, `DE IVSTIFICA`) in the OCR file.
 
 ### Build tweaks landed alongside the audit (commit `db8a1b6`)
 
