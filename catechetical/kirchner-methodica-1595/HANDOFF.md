@@ -25,10 +25,11 @@
 - **Locus IV** (Office of Christ) — structural spot-check complete. 7 Q's; content verified through Papist errors + Mediators of Intercession discussion. No gap found.
 - **Loci V–XI** (Kingdom of Christ, Priesthood, Holy Spirit, Creation, Angels, Evil Angels, Man Before Fall) — OCR pass complete. No MD edits required. Q-counts confirmed: V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10.
 - **Locus XII** (Fall + Corrupted Powers) — OCR pass complete. **Substantive MD gap-fill landed:** MD stopped at Obj XVIII (Rom 9:16); OCR carries the free-will polemic through Obj XIX (voluntas libere / naturaliter dichotomy) + Obj XX (manente substantia manet modus agendi) and closes with a full Q25 "Ad quid prodest haec doctrina de corruptione et nullitate virium humanarum?" — the use of the doctrine (humility over corruption + faith as gift of God). MD now has 25 Q + 20 Obj (was 24 + 18).
+- **Loci XIII–XVII** (Sin in General, Original Sin, Actual Sin, Ruling/Non-Ruling Sin, Sin against Holy Spirit) — OCR pass complete. No MD edits required. Q-counts confirmed: XIII=10 (+2 Obj), XIV=15 (+17 Obj split 5+12 around the "5th error" of Q15 = the Flacian polemic), XV=11, XVI=10 (+13 Obj split 6+7 around Q7 and Q8), XVII=3.
 
 ### Not yet audited
 
-- **Loci XIII–XLVI + Appendix A (Vita Kirchneri)** — 34 Loci remaining for OCR pass. Priority order for future sessions:
+- **Loci XVIII–XLVI + Appendix A (Vita Kirchneri)** — 29 Loci remaining for OCR pass. Priority order for future sessions:
   1. **Locus XX** (Justification) — doctrinally critical, dense polemic against Trent + against Reformed. 34 Q's.
   2. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's.
   3. **Locus XXVIII** (Church) — 47 Q's.
@@ -39,7 +40,7 @@
 ### Structural findings so far
 
 - **MD Q-counts per Locus** (post-Loci-III+XII gap-fills): I=23, II=21, III=63, IV=7, V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10, XII=25, XIII=10, XIV=15, XV=11, XVI=10, XVII=3, XVIII=20, XIX=13, XX=34, XXI=27, XXII=18, XXIII=46, XXIV=23, XXV=17, XXVI=26, XXVII=48, XXVIII=47, XXIX=26, XXX=40, XXXI=47, XXXII=19, XXXIII=11, XXXIV=18, XXXV=16, XXXVI=14, XXXVII=15, XXXVIII=13, XXXIX=20, XL=13, XLI=12, XLII=8, XLIII=21, XLIV=13, XLV=13, XLVI=17. **Total ≈ 923 top-level Q's** (vs. HANDOFF's original figure of 929 pre-audit). The remaining ~6-Q gap has not yet been localised — could be missing Q's in unaudited Loci XIII–XLVI, or a definitional difference in what counts as a top-level Q. Continue investigating during Locus-by-Locus audit.
-- **OCR line ranges** for future Locus lookups: Locus I starts at OCR line 1460; Locus II at 2860; Locus III at 3782; Locus IV at 7804; Locus V at 8442; Locus VI at 8842; Locus VII at 9194; Locus VIII at 9648; Locus IX at 10853; Locus X at 11107; Locus XI at 11511; Locus XII at 11856; Locus XIII at 13155; Locus XIV at 13562; Locus XV at 14889; Locus XXIV at 24306. Others findable by grepping `LOCVS` or the Latin title (e.g. `DE PECCATO`, `DE LEGE`, `DE IVSTIFICA`) in the OCR file.
+- **OCR line ranges** for future Locus lookups: Locus I starts at OCR line 1460; II at 2860; III at 3782; IV at 7804; V at 8442; VI at 8842; VII at 9194; VIII at 9648; IX at 10853; X at 11107; XI at 11511; XII at 11856; XIII at 13155; XIV at 13562; XV at 14889; XVI at 15227; XVII at 16015; XVIII at 16177; XIX (De Evangelio) at 17345; XX at 18258; XXIV at 24306. Others findable by grepping `LOCVS` or the Latin title (e.g. `DE PECCATO`, `DE LEGE`, `DE IVSTIFICA`) in the OCR file.
 
 ### Build tweaks landed alongside the audit (commit `db8a1b6`)
 
