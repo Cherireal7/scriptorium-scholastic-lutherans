@@ -29,14 +29,14 @@
 - **Loci XVIII–XX** (Law, Gospel, Justification) — OCR pass complete. No MD edits required. Q-counts confirmed: XVIII=20 (+18 Obj split 12 after Q9 + 6 Anti-Antinomian after Q16), XIX=13 (+3 Obj: 1 after Q11 + 2 after Q12), XX=34 (+22 Obj: 2 early + 16 Pontifician after Q34 + 4 sub-Obj on Osiandrism under an inserted unnumbered Q on essential righteousness).
 - **Loci XXI–XXIII** (Faith in Christ, Predestination, Good Works) — OCR pass complete. No MD edits required. Q-counts confirmed: XXI=27 (+13 Obj: 2 after Q15 + 11 after Q27 on certitude of grace), XXII=18 (+4 Obj sprinkled around Q10-Q11 and Q18), XXIII=46 total (26 main *De Bonis Operibus* + 4 sub-section *De Dilectione Proximi* + 10 *De Eleemosynis* + 6 *De Ieiunio*). Sub-section headings verified in OCR at lines 23885, 23943, 24189.
 - **Loci XXIV–XXVI** (Prayer, Sacraments-General, Baptism) — OCR pass complete. No MD edits required. Q-counts confirmed: XXIV=23 (+17 Obj: 1 after Q14 + 9 anti-Saint-invocation after Q18 + 2 after Q19 Canisius + 3 relics after Q20 + 2 after Q22 consecrations), XXV=17 (+4 Obj after Q12 sacramentaliter regula), XXVI=26 (+5 Obj: 1 after Q15 + 2 after Q17 infant sanctity + 1 after Q23 + 1 after Q24).
+- **Loci XXVII–XXVIII** (Sacred Supper, Church) — OCR pass complete. No MD edits required. Two largest and doctrinally central Loci in the volume. Q-counts confirmed: XXVII=48 (with major Obj sequences: 14 anti-manducation-of-unworthy Obj after Q41 + Absurdities I.1-I.7, II.1-II.2, III, IV after Q41 + 10 anti-Missa Obj after Q45 + 5 anti-calicis-interdict Obj after Q46, plus scattered Obj throughout), XXVIII=47 (with ~34 Obj: 5 after Q11 visible/invisible + 3 after Q21 verae Ecclesiae signa + Papist objections against Catholic identity after Q29 and Q34 + Obj on Church errors after Q47).
 
 ### Not yet audited
 
-- **Loci XXVII–XLVI + Appendix A (Vita Kirchneri)** — 20 Loci remaining for OCR pass. Priority order for future sessions:
-  1. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's. OCR starts at line 27095.
-  2. **Locus XXVIII** (Church) — 47 Q's. OCR starts around 33164 (per grep result earlier).
-  3. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
-  4. All others in Locus-number order.
+- **Loci XXIX–XLVI + Appendix A (Vita Kirchneri)** — 18 Loci remaining for OCR pass. Priority order for future sessions:
+  1. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
+  2. **Locus XXIX** (Ministry) — 26 Q's. OCR starts at line 36275.
+  3. All others in Locus-number order.
 - **NKJV Scripture-conformance pass** — deferred entirely to dedicated future session(s). Every Scripture citation in the volume (many hundreds) needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage rather than interleaved with the OCR audit.
 
 ### Structural findings so far
