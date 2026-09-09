@@ -13186,4 +13186,72 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XLI De Statu Animae Post Mortem Hominis COMPLETE — rendered in 1 tranche (T101). Q1–Q12 with 9 formal Obj: soul immortal though body dies (Matt 10 + Gen 2:7 + Eccl 12:7) with Aug De Trin. 14.4 answering Gen 2 threat, souls of faithful in God's hand (Apoc 6:9 + Aug + Bernard), consoled seeing God (Luke 16:25), souls of impious in hell with Matt 25:46 objection resolved by body-soul distinction, torments now real yet not fully comprehensible, sleep/rest of dead explained as bodies-in-graves + souls-free-from-misery, no middle place (John 3:16 + Mark 16:16 + John 3:18 + John 5:24), no praying for dead (Luke 16:26 chasm), no purgatory, 8-point demonstration against purgatory (Christ's satisfaction, contradicts Scripture per 1 John 1:7 + Heb 9:14, Apostles didn't teach it, temporal punishments not in next life per 1 Pet 5:10 + Rom 8:18, only heaven/hell per Luke 16:23 + Mark 16:16, last-day faithful bypass it per 1 Thess 4:17, credentes go to God unbelievers to hell per Rom 5, purgatory borrowed from Plato/Virgil/Gregory), 5 objections rebutted (Aug's Enchiridion vs De pecc. merit. 1.28 + De civ. Dei 21.25, 2 Macc 12:43 apocryphal + no OT purgatory, Ps 66:12 = this-life afflictions, 1 Cor 3:15 per Aug ad Laur. 68 = tribulations, "per ignem" = trial not purgatory), souls don't wander post-mortem (Tertullian + Chrysostom Hom 26 in Matt), Samuel-to-Saul was Devil's apparition, Moses/Elijah at Transfiguration extraordinary and to Christ not souls-as-such, purgatory-fable from Plato/Virgil. 857 top-level Q + 436 Obj rendered so far. Locus XLII follows in T102 at OCR line 45498.]*
+# Locus XLII. Of the End of This World
+
+### *De Fine Huius Mundi*
+
+## Question 1. Shall this world at last pass away and be ended?
+
+**Shall this world at last pass away and be ended?**
+
+**Respondeo**: **In the highest degree: For however much the Epicureans believe not, but laugh, yet at last it shall pass away: for this Scripture perspicuously testifieth, Ps. 102:27**: *"The heavens themselves shall perish."* **Luke 21:33**: *"Heaven and earth shall pass away,"* &c. **2 Pet. 3:7**: *"The heavens moreover, that now are, and the earth by the same word are treasured up, being reserved unto fire in the day of judgement."*
+
+— ❦ —
+
+## Question 2. When shall this be?
+
+**When shall this be?**
+
+**Respondeo**: **Scripture determineth no certain time, hour, day, or year, when this ought to be done, but this to God leaveth, Matt. 24:36**: *"But of the day and the hour no man knoweth, neither the Angels of the heavens, but the Father alone."* **Acts 1:7**: *"It is not yours to know the times or the moments, which the Father hath set in his own power."* **1 Thess. 5:1–2**: *"But concerning the times and moments, brethren, ye need not that we write to you: for yourselves diligently know, that the day of the Lord as a thief in the night, so shall come."*
+
+— ❦ —
+
+## Question 3. Shall the Lord tarry, and shall the end of the world and his coming be put off long?
+
+**Shall the Lord tarry, and shall the end of the world and his coming be put off long?**
+
+**Respondeo**: **By no means: For, 1 John 2:18 it is said**: *"Little children, it is the last hour."* **Luke 17:26–27**: *"And as it came to pass in the days of Noah, so shall it be also in the days of the Son of man,"* &c.
+
+— ❦ —
+
+## Question 4. Why then would the Lord not lay this time open to us?
+
+**Why then would the Lord not lay this time open to us?**
+
+**Respondeo**: **He himself answereth, Matt. 24, that we may watch and pray, verses 42, 43, 44**: *"Watch therefore, because ye know not what hour the Lord your Lord shall come: But this know, that if the master of the house did know, what hour the thief would come, he would surely watch, and would not let his house be broken through. Therefore be ye also ready, because at what hour ye know not, the Son of man will come."*
+
+— ❦ —
+
+## Question 5. What then are the signs that shall go before the end of the world?
+
+**What then are the signs that shall go before the end of the world?**
+
+**Respondeo**: **These are described in Matt. 24, Mark 13, Luke 21, which every Christian daily ought to read and meditate on. Paul among the other signs of it setteth the revelation of Antichrist, 2 Thess. 2:8. Likewise the detestable security of the world, 1 Thess. 5:3**: *"For when they shall have said, 'Peace and security,' then sudden destruction shall come upon them, as sorrow upon a woman with child, and they shall not escape."*
+
+— ❦ —
+
+## Question 6. How then shall the world pass away? [*[T. 2, p. 391, 392; Fa. p. 333]*]
+
+**How then shall the world pass away?**
+
+**Respondeo**: **This Peter describeth, 2 Pet. 3:12, in these words**: *"Expecting and hastening unto the coming of the day of God, whereby the heavens burning shall be dissolved, and the elements shall melt with the fervent heat of fire."* **And verse 10**: *"But the day of the Lord shall come, as a thief, in the which the heavens with great impetus shall pass away, but the elements shall be dissolved with heat, but the earth, and the works that in it are, shall be burned up."*
+
+— ❦ —
+
+## Question 7. How is this to be understood?
+
+**How is this to be understood?**
+
+**Respondeo**: **Of mutation, as Ps. 102:27 speaketh**: *"And they shall be changed."* **Hence Augustine, *De Ecclesiasticis Dogmatibus***: *"The elements, that is, heaven and earth, let us not believe abolished by fire, but into better changed. The figure also of the world, that is, the image, not the substance, passeth away."*
+
+— ❦ —
+
+## Question 8. What then afterwards shall be?
+
+**What then afterwards shall be?**
+
+**Respondeo**: **New heavens, and a new earth, in which righteousness shall dwell, 2 Pet. 3:13**: *"But new heavens and a new earth, according to his promises we look for, in which righteousness dwelleth."*
+
+— ❦ —
+
+*[Locus XLII De Fine Huius Mundi COMPLETE — rendered in 1 tranche (T102). Q1–Q8 (no formal Obj): world shall pass (Ps 102 + Luke 21 + 2 Pet 3:7 against Epicureans), timing unknown (Matt 24:36 + Acts 1:7 + 1 Thess 5:1-2), not far off (1 John 2:18 + Luke 17), reason for concealment = watchfulness (Matt 24:42-44 thief), signs (Matt 24 / Mark 13 / Luke 21 + Antichrist 2 Thess 2:8 + false security 1 Thess 5:3), mode of passing = fire (2 Pet 3:10, 12), mutation not annihilation per Ps 102:27 + Aug De Eccl. Dogm. (image passes not substance), new heavens/earth 2 Pet 3:13. 865 top-level Q + 436 Obj rendered so far. Locus XLIII De Resurrectione Mortuorum follows in T103 at OCR line 45617.]*
