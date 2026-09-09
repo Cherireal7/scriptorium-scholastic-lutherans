@@ -13254,4 +13254,246 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XLII De Fine Huius Mundi COMPLETE — rendered in 1 tranche (T102). Q1–Q8 (no formal Obj): world shall pass (Ps 102 + Luke 21 + 2 Pet 3:7 against Epicureans), timing unknown (Matt 24:36 + Acts 1:7 + 1 Thess 5:1-2), not far off (1 John 2:18 + Luke 17), reason for concealment = watchfulness (Matt 24:42-44 thief), signs (Matt 24 / Mark 13 / Luke 21 + Antichrist 2 Thess 2:8 + false security 1 Thess 5:3), mode of passing = fire (2 Pet 3:10, 12), mutation not annihilation per Ps 102:27 + Aug De Eccl. Dogm. (image passes not substance), new heavens/earth 2 Pet 3:13. 865 top-level Q + 436 Obj rendered so far. Locus XLIII De Resurrectione Mortuorum follows in T103 at OCR line 45617.]*
+# Locus XLIII. Of the Resurrection of the Dead
+
+### *De Resurrectione Mortuorum*
+
+## Question 1. Is the future resurrection of the dead certain? [*[T. 6, p. 213; G.t. 2, p. 253; T. 4/1, p. 55; Gen. t. 3, p. 4, 45]*]
+
+**Is the future resurrection of the dead certain?**
+
+**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of these, who sleep in the dust of the earth, shall awake,"* &c. **Isa. 26:19**: *"Thy dead shall live."* **Ezek. 37:5**: *"Behold, I will send in a Spirit into you, and ye shall live."*
+
+**The same also Christ expressly teacheth, John 5:28**: *"For the hour cometh, in which all, who are in the monuments, shall hear his voice, and shall proceed,"* &c.
+
+**The Apostles likewise the same teach. 1 Cor. 15, in which chapter the Apostle demonstrateth the resurrection of the dead**:
+
+**I. From the sayings of Scripture.**
+
+**II. From the example of Christ raised. [*[T. 6, p. 223]*]**
+
+**III. From living witnesses.**
+
+**IV. From the unanimous consent of the whole Church upon this article.**
+
+**V. From the absurdities and impossibilities which follow upon the denial of the resurrection of the dead.**
+
+**VI. From the use of Baptism.**
+
+**VII. From the afflictions of the pious.**
+
+**VIII. From nature by like examples, verse 36**: *"Fool, that which thou sowest,"* &c.
+
+**So also the resurrection of the dead is established by the example of all those, who both in the Old and in the New Testament from the dead have been raised.**
+
+**So from the order of divine immutable justice it is demonstrated: for it is just with God, that unto the good rewards, unto the evil punishments be repaid. This however in this life is not done fully and perfectly: Ergo it is necessary, that there remain another life, in which unto the pious rewards, and unto the impious due punishments be rendered. It is also impossible that saintly and most excellent men of God, and Martyrs, who from the beginning have lived in the Church, should have been created for this most miserable life alone: Ergo it is necessary, that another life, and therefore also the resurrection of the dead, remain, in which for all miseries and afflictions endured they may receive rest and glory.**
+
+**Most just also are the judgements of God, it behoveth therefore, that the body rise again, which was the organ of divine operations, that with the soul it may live eternal life. And in nature itself the resurrection of the dead is manifoldly prefigured unto us: as 1 Cor. 15:36 the Apostle showeth.**
+
+— ❦ —
+
+## Question 2. What is the resurrection of the dead?
+
+**What is the resurrection of the dead?**
+
+**Respondeo**: **The resurrection of the dead is a work of God, in which by his omnipotent virtue according to the good pleasure of his will and according to his promises he raiseth the bodies of all the dead, and joineth them to their souls, that they may live eternally, believers indeed in everlasting joy, unbelievers however in eternal condemnation.**
+
+— ❦ —
+
+## Question 3. How manifold is the resurrection?
+
+**How manifold is the resurrection?**
+
+**Respondeo**: **Twofold: One special or singular, whereby certain persons by the Prophets, by Christ, by the Apostles have been raised: another universal of all the dead, which shall be in the last day, 1 Cor. 15, 1 Thess. 4. So one is the resurrection of life, another of judgement, John 5:29, and Dan. 12:2: some unto eternal life, some unto reproach shall be raised.**
+
+— ❦ —
+
+## Question 4. Who is the author of the resurrection of the dead?
+
+**Who is the author of the resurrection of the dead?**
+
+**Respondeo**: **The sacrosanct Trinity, or God himself. John 5:21**: *"For as the Father raiseth the dead, and quickeneth, so also the Son quickeneth those whom he will."* **Rom. 8:11**: *"He who raised Jesus Christ from the dead, shall also quicken your mortal bodies,"* &c. **John 6:40**: *"This is however the will of my Father who sent me, that every one, that seeth the Son, and believeth in him, may have eternal life, and I will raise him up in the last day."* **1 Thess. 4:14**: *"So God them that have slept through Jesus, will bring with him."* **Ezek. 37:1.**
+
+— ❦ —
+
+## Question 5. Who merited the resurrection of the dead?
+
+**Who merited the resurrection of the dead?**
+
+**Respondeo**: **Christ Jesus, Rom. 4:25**: *"Who was raised on account of our justification."* **1 Cor. 15:22**: *"In Christ all shall be quickened."* **Verse 57**: *"God hath given us the victory, through our Lord Jesus Christ."*
+
+— ❦ —
+
+## Question 6. But what riseth?
+
+**But what riseth?**
+
+**Respondeo**: **The body from the earth shall be raised, Job 19:25**: *"From the earth I am to rise."* **Whence Epiphanius against the Hieracites**: *"Of what sort is that which hath fallen, of what sort that which hath been buried, of what sort that which hath been dissolved? Certainly the body, and not the soul. The resurrection of the soul it is not called, but the body is that which riseth."*
+
+— ❦ —
+
+## Question 7. Who then shall rise? [*[T. 3, p. 513]*]
+
+**Who then shall rise?**
+
+**Respondeo**: **All, who in the earth sleep, or all the dead. John 5, 1 Cor. 15, Dan. 12.**
+
+— ❦ —
+
+## Question 8. What then shall happen with those, who shall be left in the coming of Christ?
+
+**What then shall happen with those, who shall be left in the coming of Christ?**
+
+**Respondeo**: **These alive, in an instant shall be changed, and unto meeting with the Lord shall be caught up in the clouds, 1 Cor. 15:51–52**: *"Behold I tell you a mystery, we shall not indeed all sleep, but we shall all be changed: In a moment, in the twinkling of an eye, at the last trumpet (for the trumpet shall sound), and the dead shall rise incorrupt, and we shall be changed."*
+
+— ❦ —
+
+## Question 9. Shall the substance of them that are raised be other, or shall their flesh according to essence be other than that which now is? [*[T. 6, upon 1 Cor. 15]*]
+
+**Shall the substance of them that are raised be other, or shall their flesh according to essence be other than that which now is?**
+
+**Respondeo**: **By no means: For the same our flesh which dieth, shall also rise, Job 19:26**: *"And again I shall be surrounded with my skin, and in my flesh I shall see God."* **Briefly: The same flesh shall rise, which Christ hath taken and redeemed: But he hath taken our flesh, without sin however: Ergo also this same our flesh shall rise. Whence also in the Symbol it is said**: *"I believe in the resurrection of the flesh."* **They err therefore basely, who this deny.**
+
+— ❦ —
+
+## Question 10. How then shall the resurrection be made?
+
+**How then shall the resurrection be made?**
+
+**Respondeo**: **By the omnipotence of God, who can all things, whatsoever he willeth in heaven and in earth. John 5, Christ saith, verse 25**: *"For the hour cometh, and now is, when the dead shall hear the voice of the Son of God, and they that hear, shall live."*
+
+— ❦ —
+
+## Question 11. Do bodies alone therefore rise, and shall they alone be saved?
+
+**Do bodies alone therefore rise, and shall they alone be saved?**
+
+**Respondeo**: **Bodies alone indeed rise, for these alone are dead: not however shall bodies alone be saved: But body and soul together, or the whole man consisting of body and soul, just as also the whole man of body and soul shall appear before the tribunal of God, 2 Cor. 5:10**: *"For all we must be manifested before the tribunal of Christ, that every one may bear the proper things of the body, according as he hath done, whether good or evil."*
+
+— ❦ —
+
+## Question 12. When shall the resurrection of the dead be?
+
+**When shall the resurrection of the dead be?**
+
+**Respondeo**: **In the last day, John 6:40**: *"And I will raise him up in the last day."* **Job 19:25**: *"And in the last day from the earth I am to rise,"* &c.
+
+— ❦ —
+
+## Question 13. With what body shall the saints come forth in the resurrection of the dead, with what gifts of glory shall they be adorned?
+
+**With what body shall the saints come forth in the resurrection of the dead, with what gifts of glory shall they be adorned?**
+
+**Respondeo**: **This the Apostle, 1 Cor. 15, teacheth, saying, verses 42–44**: *"It is sown in corruption: it shall rise in incorruption. It is sown in ignobility, it shall rise in glory. It is sown in weakness, it shall rise in power. It is sown a natural body, it shall rise a spiritual body. If there is a natural body, there is a spiritual body."*
+
+**A body sown in corruption**: is a body subject to corruption and death, and to all miseries which from sin follow. **To rise in incorruption**: is to have an incorruptible body, an immortal body, which unto no corruption is subject; such shall be the bodies of the blessed in that other life.
+
+**To be sown in ignobility**: is in sins to be conceived and born, and to lack the glory of God, Rom. 3:23, and to have a body full of infirmities and sorrows, and subject to every kind of misery on account of sin. **To be a body of glory** is to be a body free from all sin, uncleanness, infirmity, sorrow, small and pure, such as now are the bodies of Enoch, Moses, Elijah, &c.
+
+**To be sown in weakness**: is in weakness to be conceived and born, and to lead an infirm, and fragile, and passing life: To be exposed to various perilous changes from birth to death, in each calling to lie under various perils, ever to fear the extreme, and at last in death to become the food of worms. **To rise in power**: is to have a body firm, sound, which perpetually to endure and to live may avail: and in a word, such a body to have, to which nothing at all is lacking, that unto strength, beauty or form, agility, and blessedness maketh.
+
+**A natural body** is one which needeth food and drink, clothing, habitation, and other necessities of this life: and which, though all these things be supplied to itself, yet gradually faileth, until it is plainly extinguished.
+
+**A spiritual body** is a body adorned with spiritual gifts, and not depending on the sustenance of nature: that is, in which all powers are ruled by the Holy Spirit, they burn and shine in innocence, righteousness, and true holiness, as the Apostles saw such spiritual bodies in Christ, Moses, and Elijah, which they on account of the brightness could not sufficiently behold. But these in this life plainly cannot be explained.
+
+— ❦ —
+
+## Question 14. Shall there also be distinctions of gifts among the blessed?
+
+**Shall there also be distinctions of gifts among the blessed?**
+
+**Respondeo**: **In the highest degree: For this expressly teacheth Dan. 12:3**: *"Those however that shall have been taught shall shine as the splendour of the firmament, and those that instruct many unto righteousness as stars unto perpetual eternities."* **And Paul, 1 Cor. 15:41**: *"One is the brightness of the sun, another the brightness of the moon, and another the brightness of the stars. For star from star differeth in brightness. So also the resurrection of the dead,"* &c. **Moses, Elijah, Isaiah, Jeremiah shall differ from us in brightness: all however shall possess the same heaven and the same eternal life.**
+
+— ❦ —
+
+## Question 15. What then shall be the distinction between the bodies of the blessed and of the damned?
+
+**What then shall be the distinction between the bodies of the blessed and of the damned?**
+
+**Respondeo**: **The resurrection of the flesh shall be common unto both, for the flesh of both shall be raised: But eternal glory shall be given to the faithful alone: And the bodies of both shall be eternal, but the damned in body and soul shall lack joy, life, and eternal glory.**
+
+— ❦ —
+
+## Question 16. But in the same magnitude and quantity shall children rise with men?
+
+**But in the same magnitude and quantity shall children rise with men?**
+
+**Respondeo**: **Very many are in that opinion, that even infants and children reborn shall rise in the measure of the stature of the fullness of Christ, Eph. 4:13**: *"Into a perfect man, into the measure of the stature of the fullness of Christ."* **But the Apostle in that place speaketh of the renewal of the interior man, which here is begun, but there shall be perfected. Safest therefore is it to reserve the solution of this and like questions unto the resurrection itself, in which these things we shall see, not ask.**
+
+— ❦ —
+
+## Question 17. What then are the ends of the resurrection?
+
+**What then are the ends of the resurrection?**
+
+**Respondeo**:
+
+**I. It is the glorification or clarification of the faithful, which unto them in Christ is promised, Phil. 3:21**: *"Who shall reform the body of our humility, conformed unto the body of his brightness,"* &c.
+
+**II. The fulfillment of all promises and threatenings divine, to believers life and joy sempiternal was promised, to unbelievers eternal damnation was foretold: what therefore was promised to each, unto him then shall be delivered.**
+
+— ❦ —
+
+## Question 18. What shall be the consequence of the resurrection?
+
+**What shall be the consequence of the resurrection?**
+
+**Respondeo**:
+
+**I. All temporal, corruptible, and infirm things of our bodies shall cease and be laid aside, 1 Cor. 15:42–43,** &c.
+
+**II. The creature also itself shall be liberated from the servitude of corruption, Rom. 8:21.**
+
+**III. The ministry of word and Sacraments shall cease, for then we shall see God face to face, 1 John 3:2, and as he is. And God shall be all in all. 1 Cor. 15:28.**
+
+**IV. So also Polities and Economies shall cease, Dan. 2:44**: *"But he shall break in pieces and consume all these kingdoms, and it shall stand for ever."* **1 Cor. 15:24**: *"When he shall have made void every principality and power and virtue."*
+
+**V. All Christ's benefits shall be fully delivered unto us, and then shall be the saying which is written, 1 Cor. 15:54–55, Isa. 25:8**: *"He shall cast down death for ever, and the Lord God shall wipe away tears from every face."*
+
+**VI. The faithful shall receive abundant retribution for all their labours and afflictions, in the future glory which in them shall be revealed, the magnitude of which is so great, that it cannot be uttered, Rom. 8:18.**
+
+— ❦ —
+
+## Question 19. Rightly did Hymenaeus and Philetus, 2 Tim. 2:18, say, that the resurrection had already been made, and bodies were not to rise?
+
+**Rightly did Hymenaeus and Philetus, 2 Tim. 2:18, say, that the resurrection had already been made, and bodies were not to rise?**
+
+**Respondeo**: **By no means: For Scripture teacheth a twofold resurrection, a spiritual, which is made by faith, and is begun in Baptism. And of the body, which in the last day shall first be made, 1 Cor. 15.**
+
+### Objection I. **Yet, 1 Cor. 15:50 it is said**: *"Flesh and blood cannot possess the kingdom of God."*
+
+**Respondeo**: **Paul there not of the substance but of the sense of the flesh, or of carnal effects, which from the sin and corruption of the flesh are, speaketh. For the carnality of a corrupt and depraved nature, or the original malice, which now is in man from Adam by heredity, in the resurrection shall not be, but nature shall be plainly free from sin, and from all carnal concupiscences and desires then immune, and in the highest purity and holiness then more perfect shall man be, than he was before the fall. So this saying of Paul also Augustine *ad Laurentium*, cap. 91, declareth. As pertaineth to substance, then also there shall be flesh: by "flesh" therefore he understandeth corruption,** &c.
+
+### Objection II. **Yet, Christ then will create new bodies, for all things shall be new?**
+
+**Respondeo**: **As pertaineth to substance, he will not create new bodies, but as to the gifts, prerogatives, properties, and glory. For to those raised new powers and holy qualities in body and soul he shall bestow, as a little before from 1 Cor. 15 we have heard, but as to substance, he shall not create other new bodies for us: else he would not rightly have said, Job 19:25**: *"And in the last day from the earth I am to rise, and again I shall be surrounded with my skin,"* &c.
+
+### Objection III. **But 2 Cor. 7:1 it is said**: *"Let us cleanse ourselves from all filth of flesh and spirit."* **Ergo,** &c.
+
+**Respondeo**: **Hence it followeth not, that we in the resurrection shall receive other bodies according to substance. For Paul neither of other bodies in substance nor of the resurrection speaketh, but of interior cleansing, which in this life by the Holy Spirit through faith is begun, and in the other life shall at last be perfected. Far therefore another thing it is, from all filth of flesh and spirit, that is, from all sin and uncleanness to be cleansed, and plainly to be renewed or sanctified, and another to receive a new substance of flesh and spirit or of body and soul.**
+
+### Objection IV. **But Scripture maketh mention of change. Ergo we shall then have other bodies according to substance?**
+
+**Respondeo**: **By no means: For the change, of which Scripture, 1 Cor. 15:51, maketh mention, is not of the substance of the body, that it through the resurrection into a new substance and altogether another from the former ought to be changed. But of the change of gifts, properties, and qualities, &c., it speaketh, just as Paul himself hath expounded**: *"It is sown in corruption,"* &c. **and forthwith**: *"For this corruptible must put on incorruption, and this mortal must put on immortality,"* **verse 53.**
+
+— ❦ —
+
+## Question 20. What then is to be thought of the opinion of the Chiliasts, who handed down (as Eusebius, lib. 3, cap. 36, likewise lib. 7, cap. 22, and Lactantius, lib. 7, cap. 14, hath) that the Saints before the universal resurrection are to be raised, that unto a thousand years they may enjoy the empires and delights of this world?
+
+**What then is to be thought of the opinion of the Chiliasts, who handed down that the Saints before the universal resurrection are to be raised, that unto a thousand years they may enjoy the empires and delights of this world?**
+
+**Respondeo**: **Erroneous and impious is the opinion of these men: For though for their error they have alleged the 20th chapter of the Apocalypse, and unto their thousand-year reign have twisted it: yet it is plain that John in that place speaketh of the reign of Christ, and the years from the nativity or ministry of Christ, unto the beginning of the Mahometan empire in the East and of the Pontifician in the West, by which the reign of Christ was violently disturbed and shaken, are to be numbered.**
+
+**That the joy and beatitude to come is not to be temporal, nor is to be received of the delights of this life, is plain from what is said, Mark 12:25**: *"For when they shall have risen from the dead, neither shall they marry nor be given in marriage, but shall be as the angels in the heavens."* **Matt. 22:30.**
+
+— ❦ —
+
+## Question 21. Rightly did the Sadducees contend, that there was to be no resurrection of the flesh, but that the same was plainly impossible?
+
+**Rightly did the Sadducees contend, that there was to be no resurrection of the flesh, but that the same was plainly impossible?**
+
+**Respondeo**: **By no means: For Christ expressly unto them saith, Matt. 22:29**: *"Ye err, not knowing the Scripture, nor the power of God."*
+
+— ❦ —
+
+*[Locus XLIII De Resurrectione Mortuorum COMPLETE — rendered in 1 tranche (T103). Q1–Q21 with 4 formal Obj: certainty from Job 19 + Dan 12 + Isa 26 + Ezek 37 + John 5:28 + 1 Cor 15 with 8-fold Pauline demonstration (Scripture / Christ's example / witnesses / Church consent / absurdities of denial / Baptism / afflictions / nature) + argument from divine justice, definition, twofold (special vs universal + life vs judgement), Trinity as author, Christ as meritorious cause, body rises not soul per Epiphanius contra Hieracites, all rise John 5, last-day survivors changed 1 Cor 15:51-52, same flesh per Job 19:26 + Creed, by omnipotence John 5:25, whole man saved 2 Cor 5:10, in novissimo die, 1 Cor 15:42-44 four contrasts (corruption/incorruption, ignobility/glory, weakness/power, animal/spiritual) each expounded, gift-distinctions Dan 12:3 + 1 Cor 15:41 stars, blessed vs damned share resurrection differ in glory, question of infants' stature deferred to eschaton (Eph 4:13), ends = glorification + fulfillment of promises, consequences = corruption ends, creature freed Rom 8:21, ministry ceases 1 John 3:2, polities/economies cease Dan 2:44, benefits delivered Isa 25:8, retribution Rom 8:18, refutation of Hymenaeus/Philetus 2 Tim 2:18 by spiritual/bodily distinction, 4 Obj rebutted (flesh/blood per Aug ad Laur. 91 = corruption not substance, new gifts not new substance, 2 Cor 7:1 = interior cleansing, immutation = qualities not substance), Chiliasts refuted (Apoc 20 = Christ's reign to Mahomet/Papacy, not carnal per Mark 12:25), Sadducees refuted Matt 22:29. 886 top-level Q + 440 Obj rendered so far. Locus XLIV De Extremo Iudicio follows in T104 at OCR line 46219.]*
