@@ -3300,7 +3300,31 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Respondeo**: **In vain is this saying cited for free will, when it plainly denies it in spiritual things, and ascribes the whole conversion of man to God ***in solidum***.** The sentence of the Apostle's words is: *"It is not of him that willeth, nor of him that runneth, but of him that showeth mercy — of God"* — that ***the whole may be given to God***, who ***changes man's depraved will, and gives to him out of grace to will good***.
 
+### Objection XIX. Whatsoever acts, acts either ***freely*** or ***naturally***. The human will acts freely. *Ergo*, etc.
+
+**Respondeo**: **The Major is a philosophical principle. The Minor is to be distinguished.** The will acts freely — namely, ***in things subject to it***. But ***conversion to God is not a thing subject to reason***, but ***a singular gift of God***.
+
+### Objection XX. With ***substance remaining***, the mode of acting always remains the same. The will remained after the fall. *Ergo* also the mode of acting remained.
+
+**Respondeo**: **It is an ***aequivocation***.** The ***substance of the will*** indeed remained after the fall — but ***horribly corrupted***. The will remained, but ***miserably corrupted and depraved***. But the ***mode of acting in divine things***, or ***the application to divine things***, is ***lost***. For the will is ***depraved, enemy of God***, and ***exerts enmity against God*** — unless it be renewed through the Holy Spirit.
+
 — ❦ —
+
+## Question 25. To what end, then, does this doctrine of the ***corruption and nullity of human powers*** profit?
+
+**To what end this doctrine of the nullity of human powers?**
+
+**It profits for two ends.**
+
+**I.** That through this doctrine we may be ***humbled***, and rightly acknowledge our ***highest corruption and extreme impotence***, into which we fell through sin, and the ***infinite mercy of God***.
+
+**II.** That we may learn ***faith is the substance of things hoped for, the argument of things that appear not*** — that it is ***of those things which we can neither see, nor with our mind understand or comprehend*** — and that it is the ***work and gift of God***. And ***that we may not ascribe faith to our unregenerate powers or faculties***, but ***incessantly give thanks to God for this gratuitous gift***.
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 # Locus XIII. Of Sin in General (*De Peccato in Genere*)
 

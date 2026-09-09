@@ -9,7 +9,7 @@
 - **Last translation-tranche commit:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
 - **MD file:** `review/kirchner-methodica-1595.md` — ~14k lines, closing marker at end of file.
 - **Tranches:** 107 committed (T1–T107).
-- **Main body:** 46 Loci; ~931 top-level Questions after Locus III gap-fill (see audit notes); 442+ formal Objections.
+- **Main body:** 46 Loci; ~932 top-level Questions after Loci III + XII gap-fills (see audit notes); 444+ formal Objections.
 - **Appendix:** Fladyng's biography of Kirchner (T107).
 - **PDF/DOCX build:** `pwsh -f build-shareable.ps1` from the volume root.
 
@@ -23,22 +23,23 @@
 - **Locus II** (God) — OCR pass complete. **One MD edit landed** (commit `db8a1b6`): Q20 malformed Greek "συρισάμενος" → "ὑφιστάμενον" (present middle participle of ὑφίστημι, matching the verb already cited in the same sentence). Note: MD sometimes silently supplies quotation text for bare Scripture citations in Latin (e.g. Ps 103 in Q3); this is a stylistic enrichment, not an error.
 - **Locus III** (Person of Christ) — OCR pass complete. **Substantive MD gap-fill landed** (commit `1700fb3`): MD Q61 previously stopped at ground III of Kirchner's argument for "according to which nature Christ is exalted" and jumped straight to Locus IV, skipping ~275 OCR lines. Added: Q61 grounds IV (Acts 2:36) + V (patristic testimony — Athanasius apud Theodoretum, Ambrose on Heb. 1, Cyprian, Chrysostom); one objection after Q61 ("Deum exaltari"); a full new Q62 (session at right hand implies presence-as-Man over creatures) with 3 objections; and a new Q63 (Luke 24:26 "entered into his glory") with a closing objection. Numbering safe — Q62/Q63 are terminal in the Locus.
 - **Locus IV** (Office of Christ) — structural spot-check complete. 7 Q's; content verified through Papist errors + Mediators of Intercession discussion. No gap found.
+- **Loci V–XI** (Kingdom of Christ, Priesthood, Holy Spirit, Creation, Angels, Evil Angels, Man Before Fall) — OCR pass complete. No MD edits required. Q-counts confirmed: V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10.
+- **Locus XII** (Fall + Corrupted Powers) — OCR pass complete. **Substantive MD gap-fill landed:** MD stopped at Obj XVIII (Rom 9:16); OCR carries the free-will polemic through Obj XIX (voluntas libere / naturaliter dichotomy) + Obj XX (manente substantia manet modus agendi) and closes with a full Q25 "Ad quid prodest haec doctrina de corruptione et nullitate virium humanarum?" — the use of the doctrine (humility over corruption + faith as gift of God). MD now has 25 Q + 20 Obj (was 24 + 18).
 
 ### Not yet audited
 
-- **Loci V–XLVI + Appendix A (Vita Kirchneri)** — 42 Loci remaining for OCR pass. Priority order for future sessions:
+- **Loci XIII–XLVI + Appendix A (Vita Kirchneri)** — 34 Loci remaining for OCR pass. Priority order for future sessions:
   1. **Locus XX** (Justification) — doctrinally critical, dense polemic against Trent + against Reformed. 34 Q's.
   2. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's.
   3. **Locus XXVIII** (Church) — 47 Q's.
   4. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
-  5. **Locus XII** (Fall + Corrupted Powers) — 24 Q's; free-will polemic.
-  6. All others in Locus-number order.
+  5. All others in Locus-number order.
 - **NKJV Scripture-conformance pass** — deferred entirely to dedicated future session(s). Every Scripture citation in the volume (many hundreds) needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage rather than interleaved with the OCR audit.
 
 ### Structural findings so far
 
-- **MD Q-counts per Locus** (post-Locus-III gap-fill): I=23, II=21, III=63, IV=7, V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10, XII=24, XIII=10, XIV=15, XV=11, XVI=10, XVII=3, XVIII=20, XIX=13, XX=34, XXI=27, XXII=18, XXIII=46, XXIV=23, XXV=17, XXVI=26, XXVII=48, XXVIII=47, XXIX=26, XXX=40, XXXI=47, XXXII=19, XXXIII=11, XXXIV=18, XXXV=16, XXXVI=14, XXXVII=15, XXXVIII=13, XXXIX=20, XL=13, XLI=12, XLII=8, XLIII=21, XLIV=13, XLV=13, XLVI=17. **Total ≈ 922 top-level Q's** (vs. HANDOFF's original figure of 929 pre-audit). The ~9-Q gap has not yet been localised — could be missing Q's elsewhere, or a definitional difference in what counts as a top-level Q (sub-Q's in bold within Obj responses may or may not have been counted). Investigate during Locus-by-Locus audit.
-- **OCR line ranges** for future Locus lookups: Locus I starts at OCR line 1460; Locus II at 2860; Locus III at 3782; Locus IV at 7804; Locus V at 8442; Locus XIV at 13562; Locus XV at 14889; Locus XXIV at 24306. Others findable by grepping `LOCVS` in the OCR file.
+- **MD Q-counts per Locus** (post-Loci-III+XII gap-fills): I=23, II=21, III=63, IV=7, V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10, XII=25, XIII=10, XIV=15, XV=11, XVI=10, XVII=3, XVIII=20, XIX=13, XX=34, XXI=27, XXII=18, XXIII=46, XXIV=23, XXV=17, XXVI=26, XXVII=48, XXVIII=47, XXIX=26, XXX=40, XXXI=47, XXXII=19, XXXIII=11, XXXIV=18, XXXV=16, XXXVI=14, XXXVII=15, XXXVIII=13, XXXIX=20, XL=13, XLI=12, XLII=8, XLIII=21, XLIV=13, XLV=13, XLVI=17. **Total ≈ 923 top-level Q's** (vs. HANDOFF's original figure of 929 pre-audit). The remaining ~6-Q gap has not yet been localised — could be missing Q's in unaudited Loci XIII–XLVI, or a definitional difference in what counts as a top-level Q. Continue investigating during Locus-by-Locus audit.
+- **OCR line ranges** for future Locus lookups: Locus I starts at OCR line 1460; Locus II at 2860; Locus III at 3782; Locus IV at 7804; Locus V at 8442; Locus VI at 8842; Locus VII at 9194; Locus VIII at 9648; Locus IX at 10853; Locus X at 11107; Locus XI at 11511; Locus XII at 11856; Locus XIII at 13155; Locus XIV at 13562; Locus XV at 14889; Locus XXIV at 24306. Others findable by grepping `LOCVS` or the Latin title (e.g. `DE PECCATO`, `DE LEGE`, `DE IVSTIFICA`) in the OCR file.
 
 ### Build tweaks landed alongside the audit (commit `db8a1b6`)
 
