@@ -26,15 +26,15 @@
 - **Loci V–XI** (Kingdom of Christ, Priesthood, Holy Spirit, Creation, Angels, Evil Angels, Man Before Fall) — OCR pass complete. No MD edits required. Q-counts confirmed: V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10.
 - **Locus XII** (Fall + Corrupted Powers) — OCR pass complete. **Substantive MD gap-fill landed:** MD stopped at Obj XVIII (Rom 9:16); OCR carries the free-will polemic through Obj XIX (voluntas libere / naturaliter dichotomy) + Obj XX (manente substantia manet modus agendi) and closes with a full Q25 "Ad quid prodest haec doctrina de corruptione et nullitate virium humanarum?" — the use of the doctrine (humility over corruption + faith as gift of God). MD now has 25 Q + 20 Obj (was 24 + 18).
 - **Loci XIII–XVII** (Sin in General, Original Sin, Actual Sin, Ruling/Non-Ruling Sin, Sin against Holy Spirit) — OCR pass complete. No MD edits required. Q-counts confirmed: XIII=10 (+2 Obj), XIV=15 (+17 Obj split 5+12 around the "5th error" of Q15 = the Flacian polemic), XV=11, XVI=10 (+13 Obj split 6+7 around Q7 and Q8), XVII=3.
+- **Loci XVIII–XX** (Law, Gospel, Justification) — OCR pass complete. No MD edits required. Q-counts confirmed: XVIII=20 (+18 Obj split 12 after Q9 + 6 Anti-Antinomian after Q16), XIX=13 (+3 Obj: 1 after Q11 + 2 after Q12), XX=34 (+22 Obj: 2 early + 16 Pontifician after Q34 + 4 sub-Obj on Osiandrism under an inserted unnumbered Q on essential righteousness).
 
 ### Not yet audited
 
-- **Loci XVIII–XLVI + Appendix A (Vita Kirchneri)** — 29 Loci remaining for OCR pass. Priority order for future sessions:
-  1. **Locus XX** (Justification) — doctrinally critical, dense polemic against Trent + against Reformed. 34 Q's.
-  2. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's.
-  3. **Locus XXVIII** (Church) — 47 Q's.
-  4. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
-  5. All others in Locus-number order.
+- **Loci XXI–XLVI + Appendix A (Vita Kirchneri)** — 26 Loci remaining for OCR pass. Priority order for future sessions:
+  1. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's.
+  2. **Locus XXVIII** (Church) — 47 Q's.
+  3. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
+  4. All others in Locus-number order.
 - **NKJV Scripture-conformance pass** — deferred entirely to dedicated future session(s). Every Scripture citation in the volume (many hundreds) needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage rather than interleaved with the OCR audit.
 
 ### Structural findings so far
