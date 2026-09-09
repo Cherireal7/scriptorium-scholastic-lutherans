@@ -1,17 +1,49 @@
-# Kirchner Methodica 1595 — VOLUME COMPLETE
+# Kirchner Methodica 1595 — VOLUME COMPLETE (audit in progress)
 
 **Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
 ## Status as of 2026-09-09
 
-**COMPLETE.** No further tranches. Do not open a fresh chat to continue this volume.
+**Translation COMPLETE.** Audit against OCR + NKJV-conforming of Scripture quotations is **in progress** (see "Audit progress" section below).
 
-- **Last commit at completion:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
+- **Last translation-tranche commit:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
 - **MD file:** `review/kirchner-methodica-1595.md` — ~14k lines, closing marker at end of file.
 - **Tranches:** 107 committed (T1–T107).
-- **Main body:** 46 Loci, 929 top-level Questions, 442 formal Objections.
+- **Main body:** 46 Loci; ~931 top-level Questions after Locus III gap-fill (see audit notes); 442+ formal Objections.
 - **Appendix:** Fladyng's biography of Kirchner (T107).
 - **PDF/DOCX build:** `pwsh -f build-shareable.ps1` from the volume root.
+
+## Audit progress (2026-09-09)
+
+**Two-pass audit begun:** (1) OCR-faithfulness pass — locate each Q/Obj in the Latin OCR, verify translation is complete and semantically faithful; (2) NKJV pass — swap Vulgate-idiom English of Scripture quotations to NKJV wording.
+
+### Audited (2026-09-09)
+
+- **Locus I** (Sacred Scripture) — OCR pass complete. No MD edits required. 23 Q + 13 Obj verified against OCR lines 1424-2857. One structural note: MD Obj III folds Kirchner's separate "Rectene dicit Papa Romanus?" and unnumbered "OBIECTIO / At enim Ecclesia fuit antequam verbum Dei literis consignaretur?" into a single MD Obj III with the second as an embedded sub-question — kept as-is since renumbering would ripple through cross-references.
+- **Locus II** (God) — OCR pass complete. **One MD edit landed** (commit `db8a1b6`): Q20 malformed Greek "συρισάμενος" → "ὑφιστάμενον" (present middle participle of ὑφίστημι, matching the verb already cited in the same sentence). Note: MD sometimes silently supplies quotation text for bare Scripture citations in Latin (e.g. Ps 103 in Q3); this is a stylistic enrichment, not an error.
+- **Locus III** (Person of Christ) — OCR pass complete. **Substantive MD gap-fill landed** (commit `1700fb3`): MD Q61 previously stopped at ground III of Kirchner's argument for "according to which nature Christ is exalted" and jumped straight to Locus IV, skipping ~275 OCR lines. Added: Q61 grounds IV (Acts 2:36) + V (patristic testimony — Athanasius apud Theodoretum, Ambrose on Heb. 1, Cyprian, Chrysostom); one objection after Q61 ("Deum exaltari"); a full new Q62 (session at right hand implies presence-as-Man over creatures) with 3 objections; and a new Q63 (Luke 24:26 "entered into his glory") with a closing objection. Numbering safe — Q62/Q63 are terminal in the Locus.
+- **Locus IV** (Office of Christ) — structural spot-check complete. 7 Q's; content verified through Papist errors + Mediators of Intercession discussion. No gap found.
+
+### Not yet audited
+
+- **Loci V–XLVI + Appendix A (Vita Kirchneri)** — 42 Loci remaining for OCR pass. Priority order for future sessions:
+  1. **Locus XX** (Justification) — doctrinally critical, dense polemic against Trent + against Reformed. 34 Q's.
+  2. **Locus XXVII** (Sacred Supper) — largest single Locus at ~1500 MD lines. Ubiquity + Real Presence + anti-Sacramentarian material. 48 Q's.
+  3. **Locus XXVIII** (Church) — 47 Q's.
+  4. **Locus XXX–XXXI** (Keys + Penitence) — 40 + 47 Q's.
+  5. **Locus XII** (Fall + Corrupted Powers) — 24 Q's; free-will polemic.
+  6. All others in Locus-number order.
+- **NKJV Scripture-conformance pass** — deferred entirely to dedicated future session(s). Every Scripture citation in the volume (many hundreds) needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage rather than interleaved with the OCR audit.
+
+### Structural findings so far
+
+- **MD Q-counts per Locus** (post-Locus-III gap-fill): I=23, II=21, III=63, IV=7, V=13, VI=9, VII=7, VIII=19, IX=11, X=11, XI=10, XII=24, XIII=10, XIV=15, XV=11, XVI=10, XVII=3, XVIII=20, XIX=13, XX=34, XXI=27, XXII=18, XXIII=46, XXIV=23, XXV=17, XXVI=26, XXVII=48, XXVIII=47, XXIX=26, XXX=40, XXXI=47, XXXII=19, XXXIII=11, XXXIV=18, XXXV=16, XXXVI=14, XXXVII=15, XXXVIII=13, XXXIX=20, XL=13, XLI=12, XLII=8, XLIII=21, XLIV=13, XLV=13, XLVI=17. **Total ≈ 922 top-level Q's** (vs. HANDOFF's original figure of 929 pre-audit). The ~9-Q gap has not yet been localised — could be missing Q's elsewhere, or a definitional difference in what counts as a top-level Q (sub-Q's in bold within Obj responses may or may not have been counted). Investigate during Locus-by-Locus audit.
+- **OCR line ranges** for future Locus lookups: Locus I starts at OCR line 1460; Locus II at 2860; Locus III at 3782; Locus IV at 7804; Locus V at 8442; Locus XIV at 13562; Locus XV at 14889; Locus XXIV at 24306. Others findable by grepping `LOCVS` in the OCR file.
+
+### Build tweaks landed alongside the audit (commit `db8a1b6`)
+
+- Reference DOCX: `Title` and `Subtitle` paragraph styles bound to `IM FELL English` (was Palatino Linotype); body / headings / TOC unchanged. `pgNumType w:start="1"` injected into body sectPr (LibreOffice may normalise the `w:start` attribute out during field refresh — cosmetic only).
+- MD: mid-document raw-OpenXML `sectPr` inserted before `# Translator's Note` so front-matter pages (pandoc auto-title + half-title + full-title + colophon + versos) are section 1 with no `headerReference` / `footerReference` — suppressing the STYLEREF running header and the PAGE-number footer on all front matter. Body section (from Translator's Note on) inherits the reference-DOCX body-level header + footer as before.
 
 ## Build pipeline (rebuilt 2026-09-09)
 
