@@ -1,67 +1,36 @@
-# Kirchner Methodica 1595 — Handoff to fresh chat
+# Kirchner Methodica 1595 — VOLUME COMPLETE
 
-**Task:** Finish rendering Timotheus Kirchner's *Methodica Explicatio* (Jena: Beyer, 1595) into English.
+**Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
-## Read these memories first (in order)
+## Status as of 2026-09-09
 
-1. `feedback-token-budget-discipline` — **non-negotiable.** One volume-arc per chat, terse commits (<150 chars), no gratuitous file reads, `/compact` when context hits ~50%, no subagents.
-2. `reference-scholastic-lutherans-workflow` — MD style, OCR handling, git etiquette.
-3. `reference-methodica-1595-handoff-2026-09-08` — full running state, Q/Obj counters, all completed loci with tranche numbers.
+**COMPLETE.** No further tranches. Do not open a fresh chat to continue this volume.
 
-## Current state (verified 2026-09-08 end of T99 second follow-up chat)
-
-- **Last commit:** `2384598` T99 = Locus XXXIX De Morte COMPLETE.
-- **MD file:** `review/kirchner-methodica-1595.md` — ~13.5k lines. Loci I–XXXIX complete. **Do not Read this file whole.** Use `git show HEAD:catechetical/kirchner-methodica-1595/review/kirchner-methodica-1595.md > /tmp/md.txt; tail -30 /tmp/md.txt` (bash) or `Read` with `offset` + small `limit` to see the end-of-file marker.
-- **99 tranches committed this volume.**
+- **Last commit at completion:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
+- **MD file:** `review/kirchner-methodica-1595.md` — ~14.2k lines, closing marker at end of file.
+- **Tranches:** 107 committed (T1–T107).
+- **Main body:** 46 Loci, 929 top-level Questions, 442 formal Objections.
+- **Appendix:** Fladyng's biography of Kirchner (T107).
 - **PDF/DOCX build:** `pwsh -f build-shareable.ps1` from the volume root.
 
-## Resume point
+## What was deliberately omitted
 
-- **Next tranche:** T100.
-- **Next locus:** XL De Sepultura.
-- **OCR line:** 44718 in `sources-original/Kirchner_Methodica_1595_Beyer.txt`.
+The printed 1595 volume ends with two Latin apparatus sections that were **not** translated:
 
-## Remaining scope
+1. **Index Locorum huius Libelli** (OCR 48719 – ~51500): a table of contents mapping locus/chapter headings to page-numbers in the Beyer 1595 print. Its entries look like "Locus I. De Sacra Scriptura ... p.1.2" — those page-numbers refer to the *Latin* print, not to our English MD file, so translating them would produce dead references.
 
-### Main body (7 loci, OCR 44718–48728)
+2. **Index Scripturae in hoc Methodico Libello Explicatorum** (OCR ~51500 – 51938): a Scripture-passage index likewise keyed to Latin page-numbers.
 
-| Locus | OCR lines | Est. tranches |
-|---|---|---|
-| XL De Sepultura | 44718–44938 | 1 |
-| XLI | 44939–45497 | 1 |
-| XLII | 45498–45616 | 1 |
-| XLIII | 45617–46218 | 1 |
-| XLIV | 46219–46562 | 1 |
-| XLV | 46563–46921 | 1 |
-| XLVI | 46922–48728 | 3 |
+3. **Printer's colophon** (OCR 51934–51945): *"Soli Domino, Deo veritatis, sit gloria, Amen. LIPSIAE. Ex officina Typographica."*
 
-**Main-body total remaining: ~9 tranches.**
+An earlier draft of this handoff had speculated that a "short-form second catechetical cycle" of Loci I–XXIV followed the main body. **That was a misreading of the Index Locorum.** No such second cycle exists in the volume.
 
-### Appendix / short-form second cycle (OCR 48729–end, ~2700 lines)
+## What is next for the wider programme
 
-Fresh sequence starting "Locus I." through "XXIV." — appears to be a compressed catechetical index/summary. Estimate 6–10 tranches. Treat as its own sub-arc — decide with user whether to include before starting.
+Kirchner Methodica 1595 is now closed. Update the parent programme memory / progress board to move to the next volume in queue. Historical checkpoint memory `reference-methodica-1595-handoff-2026-09-08` can be retired or marked as *volume closed 2026-09-09* on your next memory-maintenance pass.
 
-## First-tranche checklist (T100)
+## If future revision is needed
 
-1. Confirm resume: `git log --oneline -1` should show `2384598`.
-2. Read only the last ~30 lines of the MD file to see the closing marker.
-3. Read OCR lines 44718–44938 (Locus XL De Sepultura) — that's ~220 lines, one Read call.
-4. Append T100 by replacing the end-marker with the new locus content + a new end-marker.
-5. Commit with title ≤150 chars: `Kirchner Methodica 1595 T100: Locus XL De Sepultura` + Co-Authored-By trailer. No multi-paragraph tag summary.
-
-## Style rules already established
-
-- Locus header: `# Locus XXX. Of the [Topic]` + `### *De [Latin Title]*` on next line.
-- Question header: `## Question N. [English question]` then body opens with the question repeated bold + Luther marginals `[*[T. 4/1, p. 397*]*]`.
-- Objection header: `### Objection N. **[Latin syllogism translated]**` then `**Respondeo**: ...`
-- Scripture always **bold**: `**Rom. 3:24**: *"Justified freely,"* etc.`
-- Separator between Q/Obj units: `— ❦ —`
-- End-of-tranche marker (last line of file): `*[Locus XXX Part N closes. Part N+1 (...) follows in TXX. XXX top-level Q + YYY Obj rendered so far.]*`
-
-## When Locus XLVI closes
-
-Ask the user whether to render the short-form appendix (OCR 48729+) in this chat, defer to a follow-up chat, or omit. Update `reference-methodica-1595-handoff-2026-09-08` memory to reflect final state either way.
-
-## When to stop this chat
-
-Per the token-budget discipline: if the context bar hits ~50%, run `/compact`. If it hits ~75% or session wall-time reaches 4 hours, stop cleanly at a locus boundary, update the handoff memory, and tell the user to open a fresh chat for the next arc.
+- All 46 Loci are inside one MD file. Search by `## Locus N.` for locus-level anchors, or `## Question N.` inside each locus.
+- The end-of-tranche end-markers (in italic `*[...]*` blocks) were removed and replaced as each tranche was appended. Only the final volume-complete marker remains — the intermediate ones are recoverable from git history if a per-tranche breakdown is ever needed.
+- Style rules used consistently across T1–T107 are documented in the older versions of this handoff and in memory `reference-scholastic-lutherans-workflow`.
