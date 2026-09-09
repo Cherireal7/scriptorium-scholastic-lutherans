@@ -85,10 +85,14 @@ lang: en
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-<!-- BLANK VERSO -->
+<!-- BLANK VERSO + SECTION BREAK -->
+<!-- End of front matter: this paragraph carries the sectPr that closes section 1  -->
+<!-- (front matter — no header, no footer). Section 2 (from Translator's Note on)  -->
+<!-- inherits the body-level sectPr from the reference DOCX, which has the STYLEREF -->
+<!-- running header and the PAGE-number footer.                                     -->
 
 ```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+<w:p><w:pPr><w:sectPr><w:type w:val="nextPage"/><w:pgSz w:w="12240" w:h="15840"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/><w:cols w:space="720"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr></w:p>
 ```
 
 # Translator's Note
@@ -802,7 +806,7 @@ So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord
 
 **What does the word "person" signify?**
 
-**Respondeo**: **In this article it signifies an individual substance, intelligent, incommunicable, not sustained in another nature.** To the Greeks the same is ***hypostasis*** — ***συρισάμενος***, something truly subsisting and not vanishing away — from the verb ***ὑφίστημι***, *to subsist*. It is distinguished from ***οὐσία***, as something in reality distinct from the other subsisting things.
+**Respondeo**: **In this article it signifies an individual substance, intelligent, incommunicable, not sustained in another nature.** To the Greeks the same is ***hypostasis*** — ***ὑφιστάμενον***, something truly subsisting and not vanishing away — from the verb ***ὑφίστημι***, *to subsist*. It is distinguished from ***οὐσία***, as something in reality distinct from the other subsisting things.
 
 — ❦ —
 
