@@ -13624,4 +13624,126 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XLIV De Extremo Iudicio COMPLETE — rendered in 1 tranche (T104). Q1–Q13 (no formal Obj): certainty (Matt 25 + Acts 10:42 + Rom 2:5 + 2 Cor 5:10 + OT Isa 66:15 + Ps 9:9), definition, Christ as judge (Matt 25:31 + John 5:27 + Aug via Prosper on form of Son visible not Father), all judged including Devils Matt 25:41, timing hidden with 15 signs preceding (doctrine-corruption / wars / empire-ruin / plague / famine / quakes / persecution / apostasy / iniquity + cold charity / gospel-preached / abomination-of-desolation / false doctors / signs in heaven-earth / Son-of-man-sign / Noah-security), 4 monarchies of Dan + Antichrist revealed per 2 Thess 2, celebrated in clouds 1 Thess 4:17, Joel 3:12 valley of Jehoshaphat rebutted as Papist misreading — really refers to calling of Gentiles to Christ's reign, process = Matt 25, sentence already manifest John 3:18 + Mark 16:16, end = plenary redemption of pious + rejection of impious, Matt 25:34 "Come ye blessed" NOT of merit (3-point exposition: "blessed" = imputed gratis Gal 3:9, "possess" = inheritance from generation not merit John 3:5, "prepared from foundation" pre-empts merit), why day contemned = 2 Pet 3:2-10, preparation per 2 Pet 3:11-18 + Matt 24:42 + Luke 21:34 + Augustine on last-day-of-life determining last-day-of-world. 899 top-level Q + 440 Obj rendered so far. Locus XLV follows in T105 at OCR line 46563.]*
+# Locus XLV. Of Hell
+
+### *De Inferno*
+
+## Question 1. Is there a hell? [*[T. 4/1]*]
+
+**Is there a hell?**
+
+**Respondeo**: **There are many, who of this doubt, more consider whatever of hell is said to be a fable. But that there is a hell, is testified**:
+
+**I. By the Scripture of the Old Testament. For Num. 16:33**: *"And they went down alive into hell."* **Deut. 32:22**: *"A fire is kindled in my fury, and shall burn even unto the lowest hell."* **Ps. 16:10**: *"For thou wilt not leave my soul in hell."* **Ps. 49:15**: *"As sheep they are placed in hell, death shall feed on them."* **Isa. 30:33**: *"For Tophet is prepared from yesterday, prepared by the king, deep and enlarged: its nourishment is fire and much wood: the breath of the Lord as a torrent of sulphur kindling it."*
+
+**II. By the Scripture of the New Testament, as Luke 16, the rich Epulo in hell is tormented in flame. Matt. 25:41**: *"Depart into eternal fire."* [*[Post. Eccle Dom. 16 Trinit.]*] **John the Baptist also of hell preacheth, Matt. 3:10**: *"For now the axe is laid at the root of the trees: therefore every tree, that maketh not good fruit, is hewn down, and cast into the fire."* **And Paul, 2 Thess. 1:8–9**: *"In a flame of fire giving vengeance to those, who have not known God, and who obey not the Gospel of our Lord Jesus Christ, who shall pay penalties, in eternal destruction from the face of the Lord, and from the glory of his power."*
+
+**III. Most grievous sorrows and stings of conscience in the impious give most certain testimony, that there is a hell and eternal condemnation of the impious. Rom. 2:15**: *"Their conscience bearing witness to them, and their thoughts among themselves accusing, or even defending them."*
+
+**IV. So the same hell confirm also the confessions of the unclean spirits, who these torments of hell dread and tremble at. Matt. 8:29**: *"Art thou come hither to torment us before the time?"*
+
+— ❦ —
+
+## Question 2. What names in Holy Scripture are attributed to hell?
+
+**What names in Holy Scripture are attributed to hell?**
+
+**Respondeo**: **In the holy tongue "Scheol" it is called, because it is never satisfied. Ps. 16, 49. Matt. 5 it is called "Gehenna." Gehenna moreover was a most pleasant valley of the sons of Hinnom in the tribe of Benjamin, in which the impious gave their children alive unto Moloch to be burned. Hence afterwards this word was transferred to hell by Christ: For as in the said valley the living children were burned, so the impious in hell shall be tormented in eternal fire. Apoc. 20:10**: *"Sent into the lake of fire and sulphur."* **Matt. 18, Christ calleth it a prison. Matt. 22 it is called the place of outer darkness, where shall be weeping and gnashing of teeth.**
+
+— ❦ —
+
+## Question 3. What is hell? [*[T. 3, p. 218]*]
+
+**What is hell?**
+
+**Respondeo**: **Hell is a prison, in which according to the severe judgement of divine justice the Devil and impious men in body and soul on account of sin shall be tormented with eternal tortures. Matt. 25, Mark 9:43–44**: *"To go into Gehenna, into inextinguishable fire, where their worm dieth not, and the fire is not extinguished."*
+
+— ❦ —
+
+## Question 4. Whence is hell?
+
+**Whence is hell?**
+
+**Respondeo**: **God himself hath prepared it, unto the punishment of Devils and of impenitent sinners: For as the Magistrate hath his own prisons for restraining the evil: so God hath prepared hell for those, who unto his word and command hearken not.**
+
+— ❦ —
+
+## Question 5. Who then shall be in hell? [*[T. 3/1, p. 195]*]
+
+**Who then shall be in hell?**
+
+**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Apoc. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Be not deceived, neither fornicators, nor those serving idols, nor adulterers, nor the effeminate, nor liers with mankind, nor thieves, nor covetous, nor drunkards, nor railers, nor rapacious shall possess the kingdom of God."* **Gal. 5:19–21**: *"Now manifest are the works of the flesh, which are, fornication, uncleanness, unchastity, luxury, service of idols, sorceries, enmities, contentions, emulations, wrath, quarrels, dissensions, sects, envy, homicides, drunkennesses, revellings, and the like of these, which I foretell you, as I have foretold, that they, who do such things, shall not attain the kingdom of God."*
+
+— ❦ —
+
+## Question 6. Only the body then shall be tormented in hell?
+
+**Only the body then shall be tormented in hell?**
+
+**Respondeo**: **The cursed in body and soul shall be tormented in hell. Matt. 10:28**: *"But rather fear him, who is able to destroy both soul and body in Gehenna."* **2 Cor. 5:10**: *"That each may bear the proper things of the body, according as he hath done, whether good, or evil,"* — **where certainly of the whole man he speaketh.**
+
+— ❦ —
+
+## Question 7. Where then is hell?
+
+**Where then is hell?**
+
+**Respondeo**: **That there is a hell, and that it is a horrible prison, in which the devils and cursed unto eternity shall be tormented, most certain sayings of Scripture testify. But where or in what place it is, certainly is not revealed. It is our part rather to give effort, that we come not into that place of torments, than solicitously to inquire after it. Luke 16:28 it is called the place of torments, and verse 26 it is said**: *"They, who wish hence to pass over unto you, cannot,"* &c. **Not however where it is, is expressly taught.**
+
+— ❦ —
+
+## Question 8. But how great is it?
+
+**But how great is it?**
+
+**Respondeo**: **Isa. 5:14 it is said**: *"Therefore hell hath enlarged her soul, and hath opened her mouth without any end."* **And Prov. 27:20**: *"Hell and perdition are never filled."* **Hence it is sufficiently clear that it is amply enough, that it may contain all Devils and the impious, and reserve them unto eternal torments.**
+
+— ❦ —
+
+## Question 9. But of what nature is that fire, the fire of hell?
+
+**But of what nature is that fire, the fire of hell?**
+
+**Respondeo**: **That it is eternal fire, from the word of God we are certain, but of what nature it be, since in the word of God it hath not been manifested, we ought not to search. That it is a fire of torments, the rich man expresseth, Luke 16:24, saying**: *"For I am tormented in this flame."*
+
+**Human reason marvelleth, that this fire burneth, and yet human bodies it consumeth not: But this is most easy to God, who all things can do. He excepteth also, that no body subject to sorrows and sufferings is perpetual: But this axiom only of human bodies, as long as they in this life live, is true; when they thither come, they shall be made such, that perpetually they shall suffer, nor yet die: Whence Bernard saith**: *"Man in Gehenna can be burned, not consumed, glow, but not destroyed."* **And Augustine, book 21 *De civitate Dei*, cap. 7, thus unto this objection answereth**: *"Why could God not do that both the bodies of the dead should rise, and by eternal fire the bodies of the damned be tormented, who made the world in heaven, in earth, in air, in waters full of innumerable miracles?"* **And in the same book, cap. 8**: *"But if on this account they answer, that they believe not, that human bodies shall ever burn nor ever die, we say, that we know the nature of human bodies far otherwise to be constituted: Whence neither that reason can here be rendered, which of those wonderful natures was rendered, that it might be said: 'This its natural power is, this the nature of this thing is,' because we know this not to be the nature of human flesh: We have indeed, what we may answer from sacred letters. Namely this same human flesh, that it was otherwise instituted before sin, that is, so that it could never suffer death: Otherwise however after sin, such as in the poverty of this mortality it became known, so that perpetual life it could not hold. So therefore otherwise, than is known to us, it shall be constituted in the resurrection of the dead."*
+
+— ❦ —
+
+## Question 10. Shall there be distinct degrees of pains in hell?
+
+**Shall there be distinct degrees of pains in hell?**
+
+**Respondeo**: **In the highest degree. For Christ saith, Matt. 11:24**: *"Verily however I say unto you, that for the land of Sodom it shall be more tolerable in the day of judgement, than for thee."* **And Luke 12:47–48**: *"But that servant, who knew the will of his Lord, and prepared not himself and did not according to his will, shall be beaten with many stripes. But he, who knew not, and did things worthy of stripes, shall be beaten with few stripes."* **As therefore there shall be distinctions of gifts among the blessed in eternal life: So there shall also be distinctions of pains among the damned in eternal fire.**
+
+— ❦ —
+
+## Question 11. Shall the pain of hell be eternal?
+
+**Shall the pain of hell be eternal?**
+
+**Respondeo**: **This Christ affirmeth, Matt. 25:41**: *"Depart into eternal fire."* **Mark 9:43–44**: *"Go into Gehenna, into inextinguishable fire, where their worm dieth not, and the fire is not extinguished."*
+
+### Objection. **Yet, Ps. 103:9, it is said**: *"He will not be angry for ever."*
+
+**Respondeo**: **This saying is not of hell, or of eternal damnation (as the Origenists would have it), but of the gratuitous remission of sins in the reign of Christ on these earths, it speaketh. For God willeth to receive all doing penance into grace, and all labouring and burdened for Christ to refresh, Matt. 11.**
+
+— ❦ —
+
+## Question 12. What then shall be the chief pains of hell? [*[T. 7, p. 318]*]
+
+**What then shall be the chief pains of hell?**
+
+**Respondeo**: **Scripture expresseth them by various names. Matt. 22:12: Weeping and gnashing of teeth. Ps. 49:15**: *"Death shall feed upon them."* **Matt. 22:13**: *"Into the outer darkness."* — **to depart from God, Matt. 7:23. To go with the Devils into fire, &c., Matt. 25. Into inextinguishable fire, Mark 9. The worm not dying, Isa. 66:24. The lake of fire and sulphur, Apoc. 20:10.**
+
+— ❦ —
+
+## Question 13. Rightly do the Pontificians hand down, that there are five places, unto which the dead come: 1. The hell of the damned. 2. Of unbaptized infants. 3. Purgatory. 4. The Limbo of the Fathers (in the New Testament they added Paradise). 5. Heaven itself?
+
+**Rightly do the Pontificians hand down, that there are five places, unto which the dead come: 1. The hell of the damned. 2. Of unbaptized infants. 3. Purgatory. 4. The Limbo of the Fathers (in the New Testament they added Paradise). 5. Heaven itself?**
+
+**Respondeo**: **By no means. For as pertaineth to the place of unbaptized infants, unto purgatory and the Limbo of the Fathers, they are mere figments of men, and by no testimony of Scripture, or example, can they be taught. For Scripture only two places knoweth and teacheth: heaven or Paradise, and hell. Nothing therefore unto us, whatsoever the Pontificians feign and refeign.**
+
+— ❦ —
+
+*[Locus XLV De Inferno COMPLETE — rendered in 1 tranche (T105). Q1–Q13 with 1 formal Obj: certainty of hell from 4 witnesses (OT Num 16:33 + Deut 32:22 + Ps 16:10 + Isa 30:33 Tophet; NT Luke 16 + Matt 25:41 + John Baptist Matt 3:10 + 2 Thess 1:8-9; conscience Rom 2:15; demonic confession Matt 8:29), Hebrew names ("Scheol" never-satiated, Gehenna = valley of Hinnom Moloch-child-sacrifice transferred, "lake of fire" Apoc 20:10, "prison" Matt 18, "outer darkness" Matt 22), definition (prison for Devils + impious in body and soul), God as author (as magistrate has prisons), inhabitants = demons + impenitent sinners with Apoc 21:8 + 1 Cor 6:9-10 + Gal 5:19-21 vice-lists, body-AND-soul tormented Matt 10:28 + 2 Cor 5:10, location not revealed (our task not to search but avoid), size vast per Isa 5:14 + Prov 27:20, nature of fire beyond investigation (rich man's flame Luke 16:24) with Bernard "glow not perish" + Aug De civ. Dei 21.7-8 on resurrected bodies differently constituted, degrees of punishment Matt 11:24 Sodom + Luke 12:47-48 stripes paralleling gift-distinctions of blessed, eternity from Matt 25:41 + Mark 9:43-44 vs Origenist Ps 103:9 rebutted as this-life remission, chief pains named 8 ways (weeping/gnashing, death feeding, outer darkness, separation from God, with devils in fire, inextinguishable, undying worm, sulphur lake), 5-places Papist scheme rejected — only heaven and hell known to Scripture. 912 top-level Q + 441 Obj rendered so far. Locus XLVI De Vita Aeterna follows in T106 at OCR line 46922.]*
