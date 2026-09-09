@@ -12910,4 +12910,116 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-*[Locus XXXIX De Morte COMPLETE — rendered in 1 tranche (T99). Q1–Q20 (no formal Obj) covering: definition, natural/violent + mature/immature + pious/impious distinctions, sin as principal cause, instruments (disease/plague/famine/sword/Devils), body-not-soul dies, dissolution as unnatural, universality (Ps 39:7 shadow), 4 final causes, refutation of Philosophers, refutation of Pelagians, refutation of animae-mortalitas, 6-fold preparation of soul, 3-fold attention at articulo mortis (liberation, Gospel promise, future goods with Cyprian de mortalitate), death as corruption not substance, refutation of Cicero's Tusculans, 4 reasons faithful die, why pious fear death with Cyprian's soliloquy, moderation in mourning per 1 Thess 4 + Chrysostom brass-statue analogy, suicide forbidden, 4 consolations (Christ absorbed death, victory imputed, present in tribulation, resurrection with Job 19). 832 top-level Q + 427 Obj rendered so far. Locus XL De Sepultura follows in T100 at OCR line 44718.]*
+# Locus XL. Of Burial
+
+### *De Sepultura*
+
+## Question 1. Whence, and why, are the dead buried? [*[G.t. 4, p. 247; G.t. 1.6, p. 257]*]
+
+**Whence, and why, are the dead buried?**
+
+**Respondeo**: **Without doubt from the saying, Gen. 3:19**: *"Dust thou art, and unto dust thou shalt return."* **Of burial the first mention in the history of Abraham is made, Gen. 25:15**: *"Thou moreover shalt go to thy fathers in peace, having been buried in a good old age."*
+
+— ❦ —
+
+## Question 2. What moved men to bury their dead?
+
+**What moved men to bury their dead?**
+
+**Respondeo**: **The Word of God, Gen. 3:19 and Gen. 15:15. Then, love owed unto neighbour. The faithful this peculiarly observed, that they might make their hope of the resurrection of the dead attested. The Scholastics contended that burial was also for this cause invented, that unto sepulchres processions might be made for the deceased, but this by no saying or example of Scripture can be taught: And though upon this matter they cite certain testimonies of the Fathers, yet these have no authority against Scripture.**
+
+— ❦ —
+
+## Question 3. Are the dead rightly and by laudable custom buried?
+
+**Are the dead rightly and by laudable custom buried?**
+
+**Respondeo**: **In the highest degree: for Scripture itself commendeth burial, as hath been said: And the men of Jabesh Gilead are blessed, that they buried Saul, 2 Sam. 2:4–5. The Patriarchs and saints of the Old Testament their own honourably interred, Gen. 27 and elsewhere: The same also in the New Testament was observed.**
+
+— ❦ —
+
+## Question 4. Where are the dead to be buried?
+
+**Where are the dead to be buried?**
+
+**Respondeo**: **Scripture no certain place in particular prescribeth, nor doth it any way matter. For the earth is the Lord's, Ps. 24. Nor is it needful, that a Bishop, or any Priest, consecrate a cemetery, since the earth, as a creature of God, is thoroughly good.**
+
+**Scripture nevertheless recordeth, that the dead for the most part were buried outside the cities: as Abraham buried Sarah his wife in a double cave of the field: which looked toward Mamre, Gen. 23:19. Luke 7:12: the deceased son of the widow is carried forth from the city. Lazarus was buried outside Bethany, John 11. Therefore it is not to be disapproved, that outside the city there be cemeteries, in which the dead may be buried. The Hebrews called their cemeteries "houses of the living," for this reason, that they believed their dead to live a hidden life unto God, and certainly to be raised from the dead unto a life to be lived eternally with God.**
+
+— ❦ —
+
+## Question 5. Doth honest burial profit the deceased unto salvation and beatitude?
+
+**Doth honest burial profit the deceased unto salvation and beatitude?**
+
+**Respondeo**: **By no means. Wherever and whenever they be buried, or whether they be buried at all, nothing in this promoteth or hindereth their salvation: For the bodies of many holy Martyrs have not been buried at all, but cast forth: nothing however of this doth harm to their salvation. Salvation likewise of Christians is not in burial founded, but in the merits of Christ, and the glory to come, which in them shall be revealed, Rom. 8:18.**
+
+— ❦ —
+
+## Question 6. Doth some magnificent apparatus of burial profit the impious?
+
+**Doth some magnificent apparatus of burial profit the impious?**
+
+**Respondeo**: **There is no doubt, that the rich Epulo, Luke 16, was most magnificently buried. What however this profited him, Christ in that very place attested.**
+
+**In sum**: **As neither the want of burial harmed Lazarus, so magnificent pomp aided not the rich Epulo. For nothing hurteth the true faithful, though their bodies unburied be cast forth: Whence Augustine, "On the City of God," Book 1, ch. 12, saith**: *"Many bodies of Christians the earth hath not covered, yet none of them hath anyone separated from heaven and earth, which He wholly filleth with the presence of Himself, who knoweth whence to raise up what He hath created."*
+
+— ❦ —
+
+## Question 7. Why then did the ancients bestow such care and such cost in the humation of the dead, if from this no help be unto the dead?
+
+**Why then did the ancients bestow such care and such cost in the humation of the dead, if from this no help be unto the dead?**
+
+**Respondeo**: To this Augustine answereth, *De civitate Dei*, Book 1, ch. 12: *"Wherefore all these things — the care of the funeral, the condition of the sepulchre, the pomp of the obsequies — are rather solaces of the living, than helps to the dead."*
+
+— ❦ —
+
+## Question 8. But the Gentiles reproached the Christians, that their bodies were cast forth unburied?
+
+**But the Gentiles reproached the Christians, that their bodies were cast forth unburied?**
+
+**Respondeo**: **On the contrary the Christians have a certain consolation, knowing that their bodies, as it were putrefied, from the earth shall be raised up, 1 Cor. 15.**
+
+— ❦ —
+
+## Question 9. Why, when persecution ceased, did Christians for the most part bury their dead near the monuments of the martyrs?
+
+**Why, when persecution ceased, did Christians for the most part bury their dead near the monuments of the martyrs?**
+
+**Respondeo**: **Thence seemeth to be taken this custom, that in those places sermons were then delivered, whereby Christians unto perseverance in the doctrine of Christ and unto the imitation of the examples of the Martyrs were stirred up, and prayers unto God for constancy in faith and piety were made.**
+
+— ❦ —
+
+## Question 10. But what is that which Augustine writeth "On the Care for the Dead": that "care profiteth the deceased which for them is borne, and that the martyrs to certain ones have brought aid"?
+
+**But what is that which Augustine writeth "On the Care for the Dead": that "care profiteth the deceased which for them is borne, and that the martyrs to certain ones have brought aid"?**
+
+**Respondeo**: **These things Augustine writeth without the Word of God, wherefore also of this opinion of Augustine there is no authority. For souls no one can save, save Christ, who gave the redemption of Himself for all, 1 Tim. 2:6. Christ, moreover, saveth those, who in this life have believed in Him, John 3:36**: *"He that believeth in the Son, hath eternal life."*
+
+— ❦ —
+
+## Question 11. But they say, that the Church from tradition hath this?
+
+**But they say, that the Church from tradition hath this?**
+
+**Respondeo**: **This tradition, since no foundation it hath in Scripture, is deservedly disapproved: Let the Pontificians themselves see, whence they have these traditions: We follow the Scripture, unto which, and not unto human traditions, Christ hath called us, John [5:39]**: *"Search the Scriptures."* **Nothing therefore unto us are the words of Augustine concerning tradition, nor do these words impose upon us a necessity of believing.**
+
+— ❦ —
+
+## Question 12. Is that Papist marketing of burial rightly instituted?
+
+**Is that Papist marketing of burial rightly instituted?**
+
+**Respondeo**: **By no means: For no precept or example of this matter have they in Scripture, or can they show, but only from human tradition this they do.**
+
+— ❦ —
+
+## Question 13. Ought we then to have no care of burial at all?
+
+**Ought we then to have no care of burial at all?**
+
+**Respondeo**: **Neither with no, nor with excessive care ought we to be affected: For it is neither safe with the Ethnics, ignorant of the resurrection, to contemn burial: nor superstitiously, as if unto salvation it did somewhat, or as if it were necessary, ought we to care for it,** &c.
+
+— ❦ —
+
+*[Locus XL De Sepultura COMPLETE — rendered in 1 tranche (T100). Q1–Q13 (no formal Obj): whence burial (Gen 3:19 + Abraham Gen 25:15), motives (Word of God + love of neighbour + hope of resurrection, refutation of Scholastic processions for dead), rightness of custom (2 Sam 2 + Patriarchs), no fixed place (earth is Lord's, no episcopal consecration needed, Hebrew "houses of the living"), burial profits not salvation (Martyrs' bodies unburied yet saved), magnificent burial profits not impious (Epulo Luke 16 vs Lazarus + Augustine de civ. Dei I.12), ancient care is solace of living not help to dead (Augustine), Gentile reproach met by 1 Cor 15, martyrs' monuments explained by preaching custom, refutation of Augustine's *De cura pro mortuis* as lacking Word of God (1 Tim 2:6 + John 3:36), rejection of unwritten tradition (John 5:39), Papist burial-market rejected, mean between contempt and superstition. 845 top-level Q + 427 Obj rendered so far. Locus XLI De Statu Animarum follows in T101 at OCR line 44939.]*
