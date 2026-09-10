@@ -1,4 +1,4 @@
-# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass IN PROGRESS (Rom + John + Matt done)
+# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass IN PROGRESS (Rom + John + Matt + Ps done)
 
 **Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
@@ -50,11 +50,8 @@ Every Scripture citation (~574 quoted, ~324 unique book+chapter combos across ~6
 - **Romans** — all 16 chapters, 2026-09-09. Commits `405244e`→`26e3369`.
 - **John** — all 21 chapters, 2026-09-10. Commits `8c17a12`, `18b672d`, `1fa03f8`.
 - **Matthew** — all citation instances, 2026-09-10. Commit `1918fa6`.
-
-**Books remaining (top-count first):**
-
-- **Ps.** — ~126 refs (Psalm numbering shift: Kirchner uses Vulgate/LXX Ps 9 = KJV/NKJV Ps 9+10, so his Ps 10–147 are off-by-one from NKJV Ps 11–148. Preserve the citation label as-is, but fetch the correct NKJV Psalm. Some MD entries already show `**Ps. 9:9 [Vg. 6:9]**` style — follow that pattern.)
-- **Eph.** — ~50 refs
+- **Psalms** — all ~99 unique verses, 2026-09-10. Commits `86cebb9`, `efccf1b`, `74d0522`. **Numbering note:** Kirchner mostly uses Hebrew/Protestant Psalm chapter numbers, but for many verses he keeps Vulgate/LXX **verse** numbers (which count the psalm title as v.1, so his Ps 51:19 = NKJV 51:17, his Ps 45:3 = NKJV 45:2, his Ps 51:12–13 = NKJV 51:10–11, his Ps 31:6 = NKJV 31:5, his Ps 34:19 = NKJV 34:18, his Ps 39:12 = NKJV 39:11, his Ps 68:21 = NKJV 68:20, his Ps 90:8 = NKJV 90:7, his Ps 143:2 = NKJV 143:2 which matches, etc.). Where the verse-number is off-by-one, I updated the label to the NKJV number to match the NKJV wording. Chapter numbers were preserved as-is (they're already Hebrew).
+- **Eph.** — ~50 refs (next up)
 - **Isa.** — ~48 refs
 - **Luke** — ~47 refs
 - **1 Cor.** — ~41 refs
