@@ -1,4 +1,4 @@
-# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass pending
+# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass IN PROGRESS (Romans done)
 
 **Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
@@ -37,11 +37,45 @@
 
 **All 46 Loci audited.** OCR-faithfulness pass concluded. One substantive gap-fill landed (Locus XII terminal Objections + closing Q25 — commit `9fc3008`). No other content gaps found across the volume's 923 top-level Questions and 444+ formal Objections. MD is structurally faithful to Beyer 1595 OCR throughout.
 
-### NKJV Scripture-conformance pass — still deferred (only remaining work)
+### NKJV Scripture-conformance pass — IN PROGRESS (one book per chat, ~60 books total)
 
-Every Scripture citation in the volume (many hundreds) still needs to be checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Best done as its own batch pass with efficient WebFetch usage.
+Every Scripture citation (~574 quoted, ~324 unique book+chapter combos across ~60 books) is being checked against NKJV wording and swapped where the current Vulgate-idiom English differs. Pacing: one book per chat.
 
-**Suggested approach:** Grep the MD for `\*\*[A-Za-z0-9. ]+:[0-9]+.*\*\*: \*"` (or similar patterns for Scripture citations rendered as `**Book Chapter:Verse**: *"quoted text"*`). Group by book. Fetch each book's chapter/verse span from a reliable NKJV source once and cross-check the rendered English. Swap Vulgate/idiom-based translations to NKJV wording where they differ; preserve any places where Kirchner is paraphrasing rather than direct-quoting (context-dependent).
+**Approach in use:** For each book, WebFetch NKJV of each cited chapter (batching all cited verses per chapter into one call), grep MD for citations in that chapter, Edit each quoted citation to NKJV wording where it materially differs. Skip pure references (no quoted text). Preserve Kirchner's paraphrases (prose bolded but not italic-quoted). Preserve his stylistic capitalization of "Law" / "Gospel" / "Sacred Scripture" even though NKJV lowercases these. Commit per-book batch with terse message (`Kirchner NKJV pass — <book>`).
+
+**BiblegGateway.com** with `?version=NKJV` returns clean per-verse text under WebFetch. Fetching full chapters is refused for copyright; small verse ranges (1–15 verses per call) are fine.
+
+**Books done (2026-09-09):**
+
+- **Romans** — all 16 chapters. 97 unique verse references, ~205 citation instances. ~130 edits landed across commits `405244e`, `1b80f6a`, `5351d94`, `611b3c5`, `60cddd1`, `26e3369`.
+
+**Books remaining (top-count first):**
+
+- **John** — ~129 refs
+- **Ps.** — ~126 refs (Psalm numbering shift: Kirchner uses Vulgate/LXX Ps 9 = KJV/NKJV Ps 9+10, so his Ps 10–147 are off-by-one from NKJV Ps 11–148. Preserve the citation label as-is, but fetch the correct NKJV Psalm. Some MD entries already show `**Ps. 9:9 [Vg. 6:9]**` style — follow that pattern.)
+- **Matt.** — ~88 refs
+- **Eph.** — ~50 refs
+- **Isa.** — ~48 refs
+- **Luke** — ~47 refs
+- **1 Cor.** — ~41 refs
+- **Gal.** — ~38 refs
+- **Acts** — ~36 refs
+- **Heb.** — ~35 refs
+- **Gen.** — ~31 refs
+- **1 John** — ~26 refs
+- **Phil.** — ~24 refs, **2 Cor.** — ~24 refs
+- **Mark** — ~16 refs, **1 Tim.** — ~15 refs, **1 Pet.** — ~14 refs, **2 Tim.** — ~13 refs, **Ezek.** — ~12 refs, **Col.** — ~11 refs
+- Remaining (≤10 refs each): Deut., Jer., Dan., 2 Pet., Job, 1 Thess., Tit., Lam., Exod., 2 Sam., Hos., Amos, Joel, Mal., Malachi, Mic., Micah, Zech., Josh., Jud., Hab., Eccles., Ecclesiastes, 2 Kings, 3 Kings, 1 Chron., Rev., Apoc., James, 2 Thess., Ex.
+- **Apocrypha / Deuterocanon** (Wisd./Wisdom, Sirach/Ecclus., Tob.) — NKJV does not include these. Kirchner cites them as Vulgate. **Leave as-is** — do not fetch. Mark them "(Vulgate; not in NKJV)" in the citation label if a labelling pass is later desired, but not required.
+- **Book-name normalization** (defer or do at end): `Apoc.` → `Rev.`, `Ex.` → `Exod.`, `1 Peter` → `1 Pet.`, `Malachi` → `Mal.`, `Micah` → `Mic.`, `Daniel` → `Dan.`, `Ecclesiastes` → `Eccles.`. `3 Kings` = NKJV `1 Kings`; `2 Kings` (Vulgate numbering) = NKJV `2 Sam.` in some places — verify each with OCR before changing.
+
+**Stylistic decisions made in Romans pass (apply consistently to remaining books):**
+
+1. Where Kirchner truncates a verse (e.g. "The gospel is the power of God..."), preserve his framing subject but use NKJV wording for the quoted biblical portion. Use `...` inside the italic quote where he elides material NKJV includes.
+2. Where Kirchner's citation is a direct one-verse quote, replace fully with NKJV wording.
+3. Where the citation is Kirchner's own paraphrase into prose (bold **but not italic-quoted** *"..."*), leave alone.
+4. Preserve capitalization of "Law", "Gospel", "Sacred Scripture", etc. per Kirchner's house style — even though NKJV lowercases them.
+5. If Kirchner cites verse N but his quoted text actually covers verses N–N+1, expand the label (e.g. `**Rom. 2:8**` → `**Rom. 2:8–9**`, `**Rom. 4:5**` → `**Rom. 4:5–7**`).
 
 ### Final structural findings
 
