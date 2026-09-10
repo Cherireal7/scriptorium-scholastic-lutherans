@@ -276,7 +276,7 @@ Whence **Augustine, *Contra Epistolam Petiliani***: ***"Nec catholicis Episcopis
 
 **II.** That Scripture is **more sure and firm than all councils**. For the councils themselves must be instituted according to Scripture, and depend upon it. [*Luther: T. 7, p. 255*]
 
-**Gal. 1:8** — *"But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema."*
+**Gal. 1:8** — *"But even if we, or an angel from heaven, preach any other gospel to you than what we have preached to you, let him be accursed."*
 
 Whence **Jerome**: ***"Spiritus Sancti doctrina est, quae canonicis literis est prodita; contra quam si quid statuant concilia, nefas duco."*** — *"It is the doctrine of the Holy Spirit which is set forth in the canonical letters; against which if the councils establish anything, I count it profane."*
 
@@ -672,7 +672,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 **I.** That by the ***names of Father, Son, and Holy Spirit***, she plainly indicates the distinction of Persons.
 
-**II.** That she has ***perspicuous testimonies*** in which the Father is discerned from the Son. **Ps. 2:7** — *"Today I have begotten You."* **Gal. 4:4** — *"God sent his Son."*
+**II.** That she has ***perspicuous testimonies*** in which the Father is discerned from the Son. **Ps. 2:7** — *"Today I have begotten You."* **Gal. 4:4** — *"God sent forth His Son."*
 
 **III.** That she supplies sayings in which the Son discerns his own Person from the Person of the Father — as **John 8:14–18**: *"Even if I bear witness of Myself, My witness is true...I am One who bears witness of Myself, and the Father who sent Me bears witness of Me."*
 
@@ -742,7 +742,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 ### Objection III. The Trinity is distinguished not by Persons, but by the names of ***offices***. In heaven he is called ***Father***; on earth, ***Son***; in the powers of creatures, ***Holy Spirit***. *Ergo* there is only one Person of the Deity.
 
-**Respondeo**: **It is false that the Trinity is distinguished only by names of offices.** For Scripture openly names three Persons — **Father**, ***λόγον***, and **Holy Spirit**. **1 John 5:7** — *"Three there are who bear witness in heaven — the Father, the Word, and the Holy Spirit; and these three are one."* And by name she distinguishes between the Father and the Son. **John 3:16** — *"For God so loved the world that He gave His only begotten Son."* And **Gal. 4:4** — *"When the fulness of the time was come, God sent his Son,"* etc.
+**Respondeo**: **It is false that the Trinity is distinguished only by names of offices.** For Scripture openly names three Persons — **Father**, ***λόγον***, and **Holy Spirit**. **1 John 5:7** — *"Three there are who bear witness in heaven — the Father, the Word, and the Holy Spirit; and these three are one."* And by name she distinguishes between the Father and the Son. **John 3:16** — *"For God so loved the world that He gave His only begotten Son."* And **Gal. 4:4** — *"But when the fullness of the time had come, God sent forth His Son,"* etc.
 
 ### Objection IV. If the Persons of the Divinity are really distinguished, they will not be one in essence, and the Trinity will not be unity.
 
@@ -914,7 +914,7 @@ Of the evil craft of **Arius**, see **Luther, T. 7, pp. 242, 243, 244**.
 
 **There is.** For the ***λόγος*** assumed a human nature — ***true, entire, or whole***, consisting of body and rational soul, ***consubstantial to us, without sin***, having all the conditions, powers, and appetitions proper and ordinate to nature; in which nature, however, he willed to assume the ***infirmities*** — which as penalties for sin entered into our nature — but ***without vice***, that he might free us from them.
 
-**John 1:14** — *"The Word became flesh."* **Gal. 4:4** — *"God sent his Son, made of a woman."* **Luke 1:31** — *"And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus."* **Heb. 2:14** — *"As children have shared in flesh and blood, he also himself in like manner has been partaker of the same."*
+**John 1:14** — *"The Word became flesh."* **Gal. 4:4** — *"God sent forth His Son, born of a woman."* **Luke 1:31** — *"And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus."* **Heb. 2:14** — *"As children have shared in flesh and blood, he also himself in like manner has been partaker of the same."*
 
 Whence deservedly are rejected the opinions of:
 
@@ -1824,7 +1824,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **Is Christ dead for all men and sinners?**
 
-**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just: and he is the propitiation for our sins; not for ours only, but also for those of the whole world."* **Gal. 3:22** — *"But the Scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe."* **Rom. 11:32** — *"For God has committed them all to disobedience, that He might have mercy on all."* **Isa. 53:6** — *"the Lord has laid on Him the iniquity of us all."*
+**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just: and he is the propitiation for our sins; not for ours only, but also for those of the whole world."* **Gal. 3:22** — *"But the Scripture has confined all under sin, that the promise by faith in Jesus Christ might be given to those who believe."* **Rom. 11:32** — *"For God has committed them all to disobedience, that He might have mercy on all."* **Isa. 53:6** — *"the Lord has laid on Him the iniquity of us all."*
 
 — ❦ —
 
@@ -2024,7 +2024,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Does the kingdom of Christ abolish Magistrate and household?**
 
-**By no means.** [*Postilla, Third Sunday of Epiphany*] Christ called the **Centurion** — **Luke 7** — and the **Ruler** — **John 4** — and others to his kingdom, but he did not bid them to forsake their vocation and mode of life in which they had been divinely established. Whence Paul, **Gal. 3:27–28**: *"For as many of you as have been baptised in Christ have put on Christ. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female. For you are all one in Christ Jesus."* Not therefore under pretext of Christ's kingdom is vocation to be forsaken, and another kind of external mode to be instituted — as the Monks and Nuns were wont to do. Let Christian men, therefore, learn to ***rightly discern the kingdom of Christ and the external life***.
+**By no means.** [*Postilla, Third Sunday of Epiphany*] Christ called the **Centurion** — **Luke 7** — and the **Ruler** — **John 4** — and others to his kingdom, but he did not bid them to forsake their vocation and mode of life in which they had been divinely established. Whence Paul, **Gal. 3:27–28**: *"For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus."* Not therefore under pretext of Christ's kingdom is vocation to be forsaken, and another kind of external mode to be instituted — as the Monks and Nuns were wont to do. Let Christian men, therefore, learn to ***rightly discern the kingdom of Christ and the external life***.
 
 — ❦ —
 
@@ -2152,7 +2152,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 
 **Are all true Christians spiritual priests?**
 
-**Most certainly.** For Peter, **1 Pet. 2:9**, says: *"But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light."* [*Luther: T. 7, pp. 345 f.b., 347, 348*] And **Rev. 1:5–6** — *"Who hath loved us, and washed us from our sins in his own blood, and hath made us a kingdom, and priests to God and his Father."* These testimonies perspicuously demonstrate that ***all the faithful in the New Testament are spiritual priests***. Wherefore each in his own vocation can ***propagate the doctrine of the Gospel, pray for themselves and for others, give thanks to God with heart and mouth for his benefits, and judge of every doctrine according to the norm of the Divine Word*** — **Matt. 7:15**: *"Beware of false Prophets."* **Gal. 1:8** — *"But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema."* **John 10:5** — *"But a stranger they will by no means follow."* **1 Cor. 14:29** — *"Let two or three prophets speak, and let the others judge."* The distinction between ***the ministry of the Word and the priesthood of all the faithful*** — **T. 7, pp. 345, 346, 347, 348**.
+**Most certainly.** For Peter, **1 Pet. 2:9**, says: *"But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light."* [*Luther: T. 7, pp. 345 f.b., 347, 348*] And **Rev. 1:5–6** — *"Who hath loved us, and washed us from our sins in his own blood, and hath made us a kingdom, and priests to God and his Father."* These testimonies perspicuously demonstrate that ***all the faithful in the New Testament are spiritual priests***. Wherefore each in his own vocation can ***propagate the doctrine of the Gospel, pray for themselves and for others, give thanks to God with heart and mouth for his benefits, and judge of every doctrine according to the norm of the Divine Word*** — **Matt. 7:15**: *"Beware of false Prophets."* **Gal. 1:8** — *"But even if we, or an angel from heaven, preach any other gospel to you than what we have preached to you, let him be accursed."* **John 10:5** — *"But a stranger they will by no means follow."* **1 Cor. 14:29** — *"Let two or three prophets speak, and let the others judge."* The distinction between ***the ministry of the Word and the priesthood of all the faithful*** — **T. 7, pp. 345, 346, 347, 348**.
 
 — ❦ —
 
@@ -2248,7 +2248,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **IV.** He ***directs and leads the faithful in all their life and vocation*** — **Ps. 143:10**: *"Teach me to do Your will, for You are my God; Your Spirit is good. Lead me in the land of uprightness."* **Ps. 51:10–11** — *"Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence, and do not take Your Holy Spirit from me."*
 
-**V.** He ***sanctifies the faithful unto eternal life*** [*Luther: T. 4, pp. 787, 788, 789*] — **Rom. 8:11**: *"But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you."* **Gal. 6:8** — *"He that soweth in the Spirit, of the Spirit shall reap life everlasting."*
+**V.** He ***sanctifies the faithful unto eternal life*** [*Luther: T. 4, pp. 787, 788, 789*] — **Rom. 8:11**: *"But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you."* **Gal. 6:8** — *"he who sows to the Spirit will of the Spirit reap everlasting life."*
 
 These works and benefices of the Holy Spirit let the pious and faithful always contemplate, and by these against the temptations of the Devil let them sustain and console themselves.
 
@@ -2284,7 +2284,7 @@ All men, therefore, let them join themselves to the ministry of Word and Sacrame
 
 **IV.** By ***hope and patience in temptations and afflictions***, in the cross and miseries, where the Holy Spirit in our hearts wrestles with ***ὀλιγοπιστία*** (little-faithness), pusillanimity, terrors, impatience, and similar affects of the flesh, and overcomes them — **Rom. 5:2–5**: *"We rejoice in hope of the glory of God. And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us."* **Rom. 8:26** — *"Likewise the Spirit also helpeth our infirmity. For we know not what we should pray for as we ought; but the Spirit himself asketh for us with unspeakable groanings."*
 
-**V.** By ***hatred and avoidance of sins***, and ***perpetual struggle against the flesh and its concupiscences*** — **Rom. 8:13–14**: *"For if you live according to the flesh you will die; but if by the Spirit you put to death the deeds of the body, you will live. For as many as are led by the Spirit of God, these are sons of God."* **Gal. 5:16–17** — *"Walk in the Spirit, and you shall not fulfil the lusts of the flesh. For the flesh lusteth against the spirit, and the spirit against the flesh; for these are contrary one to another, so that you do not the things that you would. But if you are led by the Spirit, you are not under the law."* Item **v. 24** — *"And they that are Christ's have crucified their flesh, with the vices and concupiscences."* Where these are, it is certain that the Holy Spirit dwells in the heart of that man — though sometimes more, sometimes less, they shine and exert themselves.
+**V.** By ***hatred and avoidance of sins***, and ***perpetual struggle against the flesh and its concupiscences*** — **Rom. 8:13–14**: *"For if you live according to the flesh you will die; but if by the Spirit you put to death the deeds of the body, you will live. For as many as are led by the Spirit of God, these are sons of God."* **Gal. 5:16–17** — *"Walk in the Spirit, and you shall not fulfill the lust of the flesh. For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, so that you do not do the things that you wish. But if you are led by the Spirit, you are not under the law."* Item **v. 24** — *"And those who are Christ's have crucified the flesh with its passions and desires."* Where these are, it is certain that the Holy Spirit dwells in the heart of that man — though sometimes more, sometimes less, they shine and exert themselves.
 
 Whether the Holy Spirit is present in us ***essentially or virtually***: in the disputation ***concerning the works of Law and Grace, agitated Anno 1537***, is handled.
 
@@ -2750,7 +2750,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 
 **VII.** All their zeals, actions, and endeavours are toward ***evil***; and this one thing they do — ***that no one may be saved, and that nothing may come to pass of what is agreeable to God and salutary to men***. [*Luther: T. 5, p. 334; T. 4, part 1, p. 416*]
 
-**VIII.** They are wont to ***bewitch*** men, that they receive and embrace ***lies for truth*** — as one may see in heretics. **Gal. 3:1** — *"O senseless Galatians, who hath bewitched you not to obey the truth."* [*Luther: T. 4, p. 227; T. 6, p. 196; T. 4, part 1, p. 218*]
+**VIII.** They are wont to ***bewitch*** men, that they receive and embrace ***lies for truth*** — as one may see in heretics. **Gal. 3:1** — *"O foolish Galatians! Who has bewitched you that you should not obey the truth."* [*Luther: T. 4, p. 227; T. 6, p. 196; T. 4, part 1, p. 218*]
 
 **IX.** Chiefly they are ***enemies of the literate***. For they fear that the literate man may act as ***preacher***, and bring damage to their kingdom. [*Luther: T. 1, p. 387*]
 
@@ -3336,7 +3336,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 - That sin **is a defect** is had **Rom. 3:23** — *"For all have sinned and fall short of the glory of God."*
 - That **evil inclination or evil concupiscence is sin** appears from the Decalogue, and from **Rom. 7:7**: *"I would not have known sin except through the Law. For I would not have known covetousness unless the Law had said, You shall not covet,"* etc.
-- That **evil actions are sins**, likewise the Decalogue teaches, and Paul demonstrates **Gal. 5:19**: *"Now the works of the flesh are manifest, which are fornication,"* etc., *"and such like — of which I foretell you, as I have foretold, that they who do such things shall not obtain the kingdom of God."*
+- That **evil actions are sins**, likewise the Decalogue teaches, and Paul demonstrates **Gal. 5:19–21**: *"Now the works of the flesh are evident, which are: adultery, fornication,"* etc., *"and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."*
 - That **all sins are against the Law of God, and fight with it**, the Apostle teaches **1 John 3:4**: ***"Every one that committeth sin, worketh also iniquity: and sin is iniquity"*** — *πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ· καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία*. Item Paul **Rom. 3:20**: *"For by the Law is the knowledge of sin."*
 - That **God is angered against sin** is had **Rom. 1:18**: *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men."*
 - That **sin merits wrath of God, temporal and eternal punishments**, is had **Deut. 27** and **Rom. 6:23**: *"For the wages of sin is death."*
@@ -3620,7 +3620,7 @@ In the following:
 
 **But what are the fruits which original sin brings forth in man?**
 
-**All evil works, which in the Decalogue are forbidden and adverse to the Law of God** [*[Luther: T. 6, p. 585; Gen. 6, pp. 143, 147*]*] — as are *incredulity, superstition, idolatry, atheism, security, despair, hatred, not to know God and not to trust him, to lie in his name and to swear by God's name, not to pray, not to give thanks, to despise the Word of God, not to obey parents, to kill, to commit adultery, to steal*, etc. **Matt. 15:19–20** — *"For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. These are the things which defile a man."* **Gal. 5:19** — *"Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty, luxury, idol-service, sorceries, enmities, contentions, emulations, wraths, quarrels, dissensions, sects, envies, homicides, drunkennesses, revellings, and such like — of which I foretell you, as I have foretold, that they who do such things shall not obtain the kingdom of God."*
+**All evil works, which in the Decalogue are forbidden and adverse to the Law of God** [*[Luther: T. 6, p. 585; Gen. 6, pp. 143, 147*]*] — as are *incredulity, superstition, idolatry, atheism, security, despair, hatred, not to know God and not to trust him, to lie in his name and to swear by God's name, not to pray, not to give thanks, to despise the Word of God, not to obey parents, to kill, to commit adultery, to steal*, etc. **Matt. 15:19–20** — *"For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. These are the things which defile a man."* **Gal. 5:19–21** — *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness, idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."*
 
 — ❦ —
 
@@ -3630,7 +3630,7 @@ In the following:
 
 **Sin in Baptism, through and on account of the merit of Jesus Christ (which is given to us by faith), is indeed remitted**, so that it cannot damn us — **Rom. 8** — but we are not therefore altogether clean. As is intimated in the **parable of the Samaritan, Luke 10**, who took up the man wounded by robbers and carried him into the inn — for he did not so receive him that he was straightway perfectly whole, but **bound up his wounds, pouring in oil and wine**.
 
-To speak summarily: **Sin indeed is fully remitted through and on account of Christ, but not fully expurgated**. For **if the Holy Spirit did not govern the regenerate**, the wound of sin would putrefy again. Therefore it is needful **that the Holy Spirit daily purge that wound of sin**. Therefore **this our life is a hospital and infirmary** — sin indeed is remitted, but not yet fully healed; and **evil concupiscence, as we more than sufficiently experience in daily temptations, ever springs up again** — **Gal. 5:17**: *"The flesh lusteth against the Spirit."* Therefore, if thou consentest to concupiscence, **sin becomes reigning**. Here therefore the Word of God exhorts thee: *Indulge not, obey not the evil concupiscence — sin indeed is remitted to thee, but see that thou persist in grace*.
+To speak summarily: **Sin indeed is fully remitted through and on account of Christ, but not fully expurgated**. For **if the Holy Spirit did not govern the regenerate**, the wound of sin would putrefy again. Therefore it is needful **that the Holy Spirit daily purge that wound of sin**. Therefore **this our life is a hospital and infirmary** — sin indeed is remitted, but not yet fully healed; and **evil concupiscence, as we more than sufficiently experience in daily temptations, ever springs up again** — **Gal. 5:17**: *"the flesh lusts against the Spirit."* Therefore, if thou consentest to concupiscence, **sin becomes reigning**. Here therefore the Word of God exhorts thee: *Indulge not, obey not the evil concupiscence — sin indeed is remitted to thee, but see that thou persist in grace*.
 
 In sum: **the remnants of sins which still are in the flesh are indeed remitted through faith on account of Christ** — in whom we believe, and whose righteousness is imputed to us — but not yet fully expurgated. If thou obey concupiscence, thou wilt fall into mortal sin. As for example: **David** has the remission of all his sins through faith upon the future Messiah and Saviour of the world. But when against his conscience and the Word of God he indulges in evil desires, and yields to Satan inciting him, he pollutes himself with **adultery and homicide**, and is made guilty of God's wrath. So also **sin reigned in his mortal body**, in which he would even have perished, unless he had been called back by grace.
 
@@ -3772,7 +3772,7 @@ To the Minor: **But the flesh of the regenerate does not *per se* reluctate the 
 
 **Actual sins are all the fruits of original sin** — that is, **all sins, internal and external — evil inclinations, sayings and deeds — against the Decalogue or Law of God**.
 
-And hither pertain the sayings: **Gen. 6:5** — *"But God seeing that the malice of men was much on the earth, and that all the thought of the heart was bent upon evil at all time,"* etc. Item **Gen. 8:21** — *"The thought of man's heart is evil from his childhood."* **Matt. 7:17** — *"a bad tree bears bad fruit."* **Matt. 15:19** — *"For out of the heart proceed evil thoughts, murders, adulteries,"* etc. **Gal. 5:19** — *"Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty,"* etc.
+And hither pertain the sayings: **Gen. 6:5** — *"But God seeing that the malice of men was much on the earth, and that all the thought of the heart was bent upon evil at all time,"* etc. Item **Gen. 8:21** — *"The thought of man's heart is evil from his childhood."* **Matt. 7:17** — *"a bad tree bears bad fruit."* **Matt. 15:19** — *"For out of the heart proceed evil thoughts, murders, adulteries,"* etc. **Gal. 5:19** — *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,"* etc.
 
 **The heart of man is the fount and spring of actual sins by accident** — because it is corrupted by sin. Hence it comes to pass that **in the depraved heart there are those supreme and greatest sins: idolatry, superstition, contempt of God, incredulity, disobedience, evil concupiscence, contumacy, and enmity against the Law of God**. Hence also Paul saith, **Rom. 8:7**, that **the carnal mind is enmity against God**.
 
@@ -4206,7 +4206,7 @@ From all these it is manifest that even the regenerate and faithful themselves *
 
 **Respondeo**: **But the same Apostle in ch. 8 writes: The sense of the flesh is enmity against God, and is not subject to the Law of God, nor even can be** — which is also true of the most holy. For no one is wholly free from this sense of the flesh, while he lives in this life. And the phrase, *to be in the Spirit*, does not will this: that the regenerate perfectly follow the leading of the Spirit — but **in some way**. For **only to will is present with the saints, but to perform they find not** — **Rom. 7**. **The mortification of the affections of the flesh is inchoate in the saints, but shall only be perfected in the future life.**
 
-### Objection III. **Gal. 3:26** — *"Ye are all sons of God."* *Ergo* the Law is possible to the sons of God — nay, they can supererogate somewhat.
+### Objection III. **Gal. 3:26** — *"you are all sons of God."* *Ergo* the Law is possible to the sons of God — nay, they can supererogate somewhat.
 
 **Respondeo**: **The Apostle calls believers sons of God, not because they perfectly satisfy the Law, but because through faith on Christ they have been gratuitously adopted as sons and heirs.** For no one perfectly obeys the Law. **Nor does it follow: The sons of God are no longer under the pedagogue, that is, under the damning Law — *ergo* they can supererogate something.** For that they cannot be damned by the Law happens not because they perfectly satisfy the Law, but because **there is no condemnation to those who are in Christ Jesus** — **Rom. 8** — and that on account of Christ's intercession and merit, not on account of their works of supererogation, which are none. Since in this life they never satisfy the divine Law, how shall they supererogate — that is, do more than the Law demands?
 
@@ -4360,7 +4360,7 @@ For **Paul expressly says that we have been freed by Christ from the curse of th
 
 **By no means.** [*[Luther: T. 2, pp. 483, 484, 485; In Præfat. Epi. Rom.*]*]
 
-**The liberty of the Law is first that** — that **the Law cannot condemn the faithful who are in Christ Jesus** — **Rom. 8**. For in Christ they have the end and fulfilment of the Law. **Then, such a liberty which makes willing doers of the Law**, who begin to live according to the Law, without coercion, out of the grace of the Holy Spirit, who kindles, fosters, and preserves this spontaneous liberty in believers — **Gal. 5:13**: *"Ye are called into liberty, brethren; only give not the liberty as an occasion to the flesh, but through charity serve one another."* For therefore is the Holy Spirit given to believers, that he may **create a clean heart in them, and renew a firm Spirit within their bowels, and thus prepare them, that they may begin in some way to obey the Decalogue or Law of God**.
+**The liberty of the Law is first that** — that **the Law cannot condemn the faithful who are in Christ Jesus** — **Rom. 8**. For in Christ they have the end and fulfilment of the Law. **Then, such a liberty which makes willing doers of the Law**, who begin to live according to the Law, without coercion, out of the grace of the Holy Spirit, who kindles, fosters, and preserves this spontaneous liberty in believers — **Gal. 5:13**: *"you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another."* For therefore is the Holy Spirit given to believers, that he may **create a clean heart in them, and renew a firm Spirit within their bowels, and thus prepare them, that they may begin in some way to obey the Decalogue or Law of God**.
 
 — ❦ —
 
@@ -4818,7 +4818,7 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 **But what are the fruits of the righteousness of faith?**
 
-These Paul recites, **Gal. 5:22–23**: *"But the fruit of the Spirit is charity, joy, peace, patience, benignity, goodness, longanimity, meekness, faith, modesty, continency, chastity."*
+These Paul recites, **Gal. 5:22–23**: *"But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control."*
 
 For **all these follow of themselves, where faith is true and living**, on account of **the ineffable and immense good which God hath exhibited unto us, when he delivered up his Son for us before we could ask this of him** — nay rather, **while we were yet enemies of him**. So therefore we believe: **that faith without works justifieth, and yet that it is not, nor doth remain, without good works**. For **faith and good works are inseparably connected — and yet faith alone, apart from works, justifieth. But good works are the fruits of justifying faith**.
 
@@ -4920,7 +4920,7 @@ From which also it standeth firm, that **Paul was not at length justified throug
 
 **Is that Papist doctrine therefore also false, when they teach that a man is justified partly by the merit of Christ, partly by his own good works?**
 
-**Very much so.** For **Scripture teacheth the contrary — Rom. 3:24**: *"Justified freely."* Item **v. 28**: *"We reckon a man to be justified by faith without the works of the Law."* And **this very doctrine also is a blasphemy against the merit of Christ, to which alone this honour is owed** — **Gal. 2:21**: *"For if righteousness is through the Law, then Christ died in vain."* **The examples also of Abraham and of all the faithful condemn this Papist dogma**, as is to be seen **Rom. 4; Acts 10, 15**.
+**Very much so.** For **Scripture teacheth the contrary — Rom. 3:24**: *"Justified freely."* Item **v. 28**: *"We reckon a man to be justified by faith without the works of the Law."* And **this very doctrine also is a blasphemy against the merit of Christ, to which alone this honour is owed** — **Gal. 2:21**: *"for if righteousness comes through the law, then Christ died in vain."* **The examples also of Abraham and of all the faithful condemn this Papist dogma**, as is to be seen **Rom. 4; Acts 10, 15**.
 
 Besides this, **it is impossible that a wounded and contrite heart should acquiesce before GOD in its own unclean and imperfect righteousness, and at the same time place its confidence in Christ's and in its own works' righteousness** — as **experience itself in the true and earnest exercises of penitence, faith, and prayer, in the highest and spiritual temptations, when a man must wrestle with sin, the wrath of God, the tyranny of the Devil, and the curse of the Law, sufficiently and abundantly attesteth**. Finally, **this very doctrine plainly maketh the promise of grace uncertain, since our inchoate obedience and righteousness is not such as we could confide in before God**. Wherefore also **David prayeth**: *"Lord, enter not into judgement with thy servant; for in thy sight shall no living man be justified"* — **Ps. 143:2**.
 
@@ -5202,7 +5202,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **But by what means is faith given?** [*[Luther: T. 5, p. 15*]*]
 
-**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"from the hearing of faith."* **Rom. 10:17**: *"So then faith comes by hearing."* **Acts 2:38**: *"Do penitence, and let each of you be baptized in the name of Jesus Christ unto the remission of your sins, and ye shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the laver of regeneration and renovation of the Holy Spirit."*
+**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"by the hearing of faith."* **Rom. 10:17**: *"So then faith comes by hearing."* **Acts 2:38**: *"Do penitence, and let each of you be baptized in the name of Jesus Christ unto the remission of your sins, and ye shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the laver of regeneration and renovation of the Holy Spirit."*
 
 — ❦ —
 
@@ -5310,7 +5310,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **Altogether necessary — and on these accounts:**
 
-**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He saith not, in seeds, as of many, but as of one — and to thy seed, which is Christ."* **1 Cor. 1:30**: *"Christ... became for us wisdom from God—and righteousness and sanctification and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
+**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He does not say, 'And to seeds,' as of many, but as of one, 'And to your Seed,' who is Christ."* **1 Cor. 1:30**: *"Christ... became for us wisdom from God—and righteousness and sanctification and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
 
 **II.** That **contrite and perturbed hearts may have a certain and firm consolation, and may be able to sustain and overcome the temptations of sin and the wrath of God** — **Ps. 130:4**: *"But there is forgiveness with You."* **Propitiation therefore thou wilt find not in Moses, not in the Law, not in thy works, but in Christ alone, and in his most holy merit**. For **in him alone and in no other, thy contrite heart and labouring conscience can safely confide** — and **it is impossible that in the terrors of conscience thou find firm consolation, unless thou confide and acquiesce in the sole obedience and satisfaction of Christ**.
 
@@ -5330,7 +5330,7 @@ And this indeed **under the reign of the Papacy is enough — and hath been enou
 
 **But (say the adversaries) the particle "Alone" is not contained in Scripture.**
 
-**Very much so is it contained in it.** **Mark 5:36**: *"Fear not, only believe."* **Gal. 2:16**: *"Knowing however that a man is not justified from the works of the Law, unless through the faith of Jesus Christ."* **Luke 8:50**: *"Do not be afraid; only believe."*
+**Very much so is it contained in it.** **Mark 5:36**: *"Fear not, only believe."* **Gal. 2:16**: *"knowing that a man is not justified by the works of the law but by faith in Jesus Christ."* **Luke 8:50**: *"Do not be afraid; only believe."*
 
 — ❦ —
 
@@ -5474,7 +5474,7 @@ But **if this article be sincerely taught and faithfully urged, easily by the ai
 
 **4.** Also **the Sacraments themselves are unto this end by God instituted, that they may render our hearts certain of the grace of God, and may seal that grace to us, and take away all doubt**.
 
-**5.** Also **the Holy Spirit himself is on this account poured out into the hearts of the faithful, that he may console, comfort and sustain them in certain faith and firm confidence concerning the grace of God and the remission of sins** — **Rom. 8:15**: *"For you did not receive the spirit of bondage again to fear, but you received the Spirit of adoption by whom we cry out, Abba, Father."* **Gal. 4:6**: *"Because ye are sons, God hath sent the Spirit of his Son into your hearts, crying, Abba, Father."* **Eph. 1:13–14**: *"in whom also, having believed, you were sealed with the Holy Spirit of promise, who is the guarantee of our inheritance,"* etc.
+**5.** Also **the Holy Spirit himself is on this account poured out into the hearts of the faithful, that he may console, comfort and sustain them in certain faith and firm confidence concerning the grace of God and the remission of sins** — **Rom. 8:15**: *"For you did not receive the spirit of bondage again to fear, but you received the Spirit of adoption by whom we cry out, Abba, Father."* **Gal. 4:6**: *"And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying out, 'Abba, Father!'"* **Eph. 1:13–14**: *"in whom also, having believed, you were sealed with the Holy Spirit of promise, who is the guarantee of our inheritance,"* etc.
 
 **Diffidence indeed by Scripture is manifestly reprobated and damned in this article** — **1 John 5:10**: *"He that believeth not the Son, maketh God a liar, who believeth not the testimony which God testified concerning his Son."*
 
@@ -6828,7 +6828,7 @@ As to the Minor: **the word "sanctify" in Paul is to be understood of the Physic
 
 **In general, they are instituted that they may be instruments and means, through which Christ's benefits are distributed and applied to us** — **John 3:5; Tit. 3:5; Matt. 26:26, 28** [*[Gen. T. 2, p. 82; T. II, p. 29 f. b*]*].
 
-**Then, that they may be means through which we ourselves are inserted into Christ and united with him.** Hence of Baptism, **Gal. 3:27**, it is said: *"Ye have put on Christ."* And of the Supper of the Lord, **Hilary saith**: *"By these it cometh to pass that we are in Christ, and Christ is in us."*
+**Then, that they may be means through which we ourselves are inserted into Christ and united with him.** Hence of Baptism, **Gal. 3:27**, it is said: *"as many of you as were baptized into Christ have put on Christ."* And of the Supper of the Lord, **Hilary saith**: *"By these it cometh to pass that we are in Christ, and Christ is in us."*
 
 **Thirdly, they ought also to be testimonies of the faith which by their use we profess.**
 
@@ -10686,7 +10686,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Is it so, that when after conversion I am again fallen into sin, a place of penitence anew is left, and is iterated penitence salutary?**
 
-**In the highest degree: only that it be true penitence: For therefore Christ, Matt. 18:22, saith**: *"I say not to thee unto seven times,"* etc. **Gal. 6:1**: *"If a man shall be overtaken in any delict, do ye of such a kind instruct him in the spirit of lenity, considering thyself lest thou also be tempted."* **Ezek. 18, 33:11**: *"I live, saith the Lord God: I will not the death of the impious, but that the impious be converted from his way and live."* **1 John 2:1**: *"My little sons, these things I write to you, that ye sin not: But if any also shall have sinned, an advocate we have with the Father, Jesus Christ the just, and he is a propitiation for our sins, not for our own only, but also for those of the whole world."*
+**In the highest degree: only that it be true penitence: For therefore Christ, Matt. 18:22, saith**: *"I say not to thee unto seven times,"* etc. **Gal. 6:1**: *"Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted."* **Ezek. 18, 33:11**: *"I live, saith the Lord God: I will not the death of the impious, but that the impious be converted from his way and live."* **1 John 2:1**: *"My little sons, these things I write to you, that ye sin not: But if any also shall have sinned, an advocate we have with the Father, Jesus Christ the just, and he is a propitiation for our sins, not for our own only, but also for those of the whole world."*
 
 **Erroneous therefore is the sentence of the Novatians, who denied penitence to those fallen after Baptism.**
 
@@ -10788,7 +10788,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Is the Papist definition of penitence true: "Penitence is a virtue, bewailing past sins, and not committing again those to be bewailed"?**
 
-**It is not true: For penitence is not a virtue of ours, but a work of God in us: Then it omitteth faith in CHRIST, without which no penitent can console or raise himself up, but hurled into the deepest desperation, perisheth. Besides, it ascribeth the amendment of life to our own powers — which is the work of the Holy Spirit. Rom. 8:13**: *"If by the Spirit ye have mortified the deeds of the flesh, ye shall live."* **Gal. 5:22**: *"The fruit of the Spirit is charity, joy, peace,"* etc.
+**It is not true: For penitence is not a virtue of ours, but a work of God in us: Then it omitteth faith in CHRIST, without which no penitent can console or raise himself up, but hurled into the deepest desperation, perisheth. Besides, it ascribeth the amendment of life to our own powers — which is the work of the Holy Spirit. Rom. 8:13**: *"If by the Spirit ye have mortified the deeds of the flesh, ye shall live."* **Gal. 5:22**: *"the fruit of the Spirit is love, joy, peace,"* etc.
 
 — ❦ —
 
@@ -11286,7 +11286,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is it not therefore, in time of persecution, lawful to yield in these to the enemies of the truth: and, for the tranquility and peace of the Church to be retained, such external ceremonies and rites to admit?**
 
-**Respondeo**: **By no means: for in time of persecution, in the case of confession, when adversaries either by force or by cunning attempt to oppress the truth, and their false doctrine little by little into our Churches to introduce privily, even in things adiaphorous with a good conscience to gratify them we neither can nor ought. 2 Cor. 6:14**: *"Bear not the yoke with unbelievers."* **Gal. 5:1**: *"Stand in the liberty wherewith Christ hath made us free."* **So the soldiers of Julian, when he by a certain hidden snare attempted to make Christians partakers of ethnic impiety — for when he was distributing gold, as is the ancient custom in military orders, he himself sat on the royal throne: but beyond custom he had set out an altar with coals, and hard by on a little table incense; and as each one approached to receive the gold, he ordered him first to put a little incense into the pan, then to take the gold from his hand. And so, not a grain of incense into the pan would they put, standing in Christian liberty: but they who did it, were held for apostates. Theodoret, book 3, chapter 16. Wherefore even now attention is to be given by Christians, that they consent not in conformity of Papist ceremonies, unless first the Papists shall have abjured their blasphemies, and shall have received the truth of the Gospel,** etc.
+**Respondeo**: **By no means: for in time of persecution, in the case of confession, when adversaries either by force or by cunning attempt to oppress the truth, and their false doctrine little by little into our Churches to introduce privily, even in things adiaphorous with a good conscience to gratify them we neither can nor ought. 2 Cor. 6:14**: *"Bear not the yoke with unbelievers."* **Gal. 5:1**: *"Stand fast therefore in the liberty by which Christ has made us free."* **So the soldiers of Julian, when he by a certain hidden snare attempted to make Christians partakers of ethnic impiety — for when he was distributing gold, as is the ancient custom in military orders, he himself sat on the royal throne: but beyond custom he had set out an altar with coals, and hard by on a little table incense; and as each one approached to receive the gold, he ordered him first to put a little incense into the pan, then to take the gold from his hand. And so, not a grain of incense into the pan would they put, standing in Christian liberty: but they who did it, were held for apostates. Theodoret, book 3, chapter 16. Wherefore even now attention is to be given by Christians, that they consent not in conformity of Papist ceremonies, unless first the Papists shall have abjured their blasphemies, and shall have received the truth of the Gospel,** etc.
 
 — ❦ —
 
@@ -13598,7 +13598,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Who then shall be in hell?**
 
-**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Apoc. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Do not be deceived. Neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God."* **Gal. 5:19–21**: *"Now manifest are the works of the flesh, which are, fornication, uncleanness, unchastity, luxury, service of idols, sorceries, enmities, contentions, emulations, wrath, quarrels, dissensions, sects, envy, homicides, drunkennesses, revellings, and the like of these, which I foretell you, as I have foretold, that they, who do such things, shall not attain the kingdom of God."*
+**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Apoc. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Do not be deceived. Neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God."* **Gal. 5:19–21**: *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness, idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."*
 
 — ❦ —
 
