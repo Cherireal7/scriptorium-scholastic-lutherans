@@ -870,7 +870,7 @@ It is clear therefore that **Christ has been begotten from eternity of the essen
 
 ### Objection IV. **Whoever ***was made*** Lord and Christ is not true and eternal God. But Christ was made Lord**, as Peter's words at **Acts 2:36** have. *Ergo* he is not true and eternal God.
 
-**Respondeo** to the Minor: **Peter speaks of the assumed human nature, according to which Christ was made Lord in heaven and on earth.** And so **Basil the Great, *Contra Eunomium*, lib. 2**, at the very beginning, expounds Peter's words, saying: *"The word ***fecit*** (made) refers to the humanity of Christ. But Eunomius and the recent Arians transfer it to the generation of the Only-begotten which was from eternity — but wrongly."* A similar saying stands at **Heb. 3:2**, ***"Who was faithful to him that made him"*** — where *made* is used ***for constituted or ordained Pontifex***. For the author of the Epistle speaks not of the divine nature in Christ, but of the office of this Person.
+**Respondeo** to the Minor: **Peter speaks of the assumed human nature, according to which Christ was made Lord in heaven and on earth.** And so **Basil the Great, *Contra Eunomium*, lib. 2**, at the very beginning, expounds Peter's words, saying: *"The word ***fecit*** (made) refers to the humanity of Christ. But Eunomius and the recent Arians transfer it to the generation of the Only-begotten which was from eternity — but wrongly."* A similar saying stands at **Heb. 3:2**, ***"who was faithful to Him who appointed Him"*** — where *made* is used ***for constituted or ordained Pontifex***. For the author of the Epistle speaks not of the divine nature in Christ, but of the office of this Person.
 
 ### Objection V. **Whoever has a God common and the same with us is not true God with the Father. But Christ has a God common and the same with us.** *Ergo*, etc. The Minor they prove, that Christ at **John 20:17** calls the Father ***his God***.
 
@@ -914,7 +914,7 @@ Of the evil craft of **Arius**, see **Luther, T. 7, pp. 242, 243, 244**.
 
 **There is.** For the ***λόγος*** assumed a human nature — ***true, entire, or whole***, consisting of body and rational soul, ***consubstantial to us, without sin***, having all the conditions, powers, and appetitions proper and ordinate to nature; in which nature, however, he willed to assume the ***infirmities*** — which as penalties for sin entered into our nature — but ***without vice***, that he might free us from them.
 
-**John 1:14** — *"The Word became flesh."* **Gal. 4:4** — *"God sent forth His Son, born of a woman."* **Luke 1:31** — *"And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus."* **Heb. 2:14** — *"As children have shared in flesh and blood, he also himself in like manner has been partaker of the same."*
+**John 1:14** — *"The Word became flesh."* **Gal. 4:4** — *"God sent forth His Son, born of a woman."* **Luke 1:31** — *"And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus."* **Heb. 2:14** — *"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same."*
 
 Whence deservedly are rejected the opinions of:
 
@@ -946,7 +946,7 @@ Next, he uses the vocable of ***likeness*** to teach that in ***habitus*** also 
 
 There is therefore truly a human nature in Christ, no other than in us — save that it was ***utterly purified from sin*** and personally united to the Word. Whence the Church sings: *"Like to us in flesh, but unlike in sin."*
 
-### Objection III. But at **Heb. 7:26** it is written: *"That he was ***segregated from sinners***."* *Ergo* he did not have flesh similar to our flesh.
+### Objection III. But at **Heb. 7:26** it is written: *"That he was ***separate from sinners***."* *Ergo* he did not have flesh similar to our flesh.
 
 **Respondeo**: **Although he was segregated from sinners in this respect — that his flesh in conception was cleansed by the Holy Spirit, so that he wholly lacked sin — nevertheless, on this account, Christ's flesh is not of another kind or of a different substance from ours.** For he was segregated from sinners not by reason of the flesh (according to which he is like us), but by reason of ***sin***, which he did not know. To sum up: he is ***like his brethren in all things, sin excepted*** — **Heb. 2:17; 4:15**.
 
@@ -1416,7 +1416,7 @@ The Sacramentarian allegory, following the Zwinglian tradition, leaves to Christ
 
 **Acts 20:28** — *"the church of God which He purchased with His own blood."*
 
-**Heb. 4:14** — *"We have a great High Priest that hath penetrated the heavens — Jesus the Son of God."*
+**Heb. 4:14** — *"we have a great High Priest who has passed through the heavens, Jesus the Son of God."*
 
 **2 Cor. 5:18–19** — *"All things are of God, who hath reconciled us to himself by Jesus Christ, since indeed God was in Christ reconciling the world to himself."*
 
@@ -1718,7 +1718,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **What difference between Christ's ascension and the blessed's?**
 
-**This difference is: that the blessed indeed shall come into heaven, but shall not be made ***higher than the heavens***. But Christ so ascended into heaven that ***he is made higher than the heavens*** — **Heb. 7:26** — which is said of no other man. Neither are the blessed so received into heaven that all things are subjected to them, as Christ in heaven has all things — and thus also heaven itself he holds subject to himself, and reigns in heaven — **1 Cor. 15:25, 27**. Besides, Christ, according to his assumed human nature, ascended ***far above all heavens, that he may fill all things, and reign present to all things subjected to himself*** — which of no blessed man either can or ought to be said. Add to this, Christ ascended into heaven with his body in such wise that at the same time in that body he sat at the right hand of God — which is common to none of the Angels or blessed men with him. **Heb. 1:13**: *"To which of the Angels said he: Sit thou on my right hand,"* etc.
+**This difference is: that the blessed indeed shall come into heaven, but shall not be made ***higher than the heavens***. But Christ so ascended into heaven that ***he is made higher than the heavens*** — **Heb. 7:26** — which is said of no other man. Neither are the blessed so received into heaven that all things are subjected to them, as Christ in heaven has all things — and thus also heaven itself he holds subject to himself, and reigns in heaven — **1 Cor. 15:25, 27**. Besides, Christ, according to his assumed human nature, ascended ***far above all heavens, that he may fill all things, and reign present to all things subjected to himself*** — which of no blessed man either can or ought to be said. Add to this, Christ ascended into heaven with his body in such wise that at the same time in that body he sat at the right hand of God — which is common to none of the Angels or blessed men with him. **Heb. 1:13**: *"But to which of the angels has He ever said: Sit at My right hand,"* etc.
 
 ### Objection. But Scripture says: ***"It behoves the heaven to receive Christ."***
 
@@ -1886,7 +1886,7 @@ Since this name (with the Apostle, **Phil. 2**) was given ***from grace*** to Ch
 
 **Respondeo**: **The particle ***therefore*** does not denote a meriting cause, but the ***glorious event*** of Christ's passion.** As at **Luke 24:26** by Christ himself this is taught: *"Ought not the Christ to have suffered these things and to enter into His glory?"* For this order had been ***foreordained by God***, that Christ, ***for the cause of our salvation***, should suffer, and by this way of his passion should ***accede to the full assumption of his divine majesty*** — so that his ***bitter passion and death*** the ***most glorious event of the resurrection*** and glorification should follow. Not that these things had a meriting cause, but that Christ ***as Man***, first humbled through the passion, afterwards through the ***glorious resurrection*** and other similar works, ought to reveal his divine majesty and glory to the whole world — which majesty or glory ***as God from eternity he had had***, but ***as Man in time*** he received through the mystery of the incarnation.
 
-### Objection III. But **Heb. 2:9** it is said: *"Jesus, on account of the passion of death, was crowned with glory and honour."* *Ergo* it is still true that by his passion he merited for himself.
+### Objection III. But **Heb. 2:9** it is said: *"Jesus, for the suffering of death, was crowned with glory and honor."* *Ergo* it is still true that by his passion he merited for himself.
 
 **Respondeo**: **Nor hence does it follow that Christ merited glory for himself.** For the exaltation of Christ, according to the assumed nature, is a ***work of grace, not of merit*** — **Phil. 2:9**: *"He hath given him a name."* Out of mere grace, in the very union and through the union, he was raised to the proper altitude or glory of the Word, ***not on account of any merit***; and every operation of that Man was ***subsequent to the union***; whence no operation of his could be the merit of the union, or of the glory which through the union he received. Thus, out of mere grace, ***he was exalted according to the assumed nature to the right hand of God***, and ***not on account of any merit***.
 
@@ -2096,7 +2096,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **II.** In ***intercession***. For he alone, by his intercession, ***reconciled us to the eternal Father***, and ***obtained eternal grace for us from the Father*** — **Isa. 53:12**: *"And made intercession for the transgressors."* **John 17; Heb. 4, 5, 7**. And daily he ***intercedes with the Father for us*** — **Rom. 8:34**.
 
-**III.** That ***once on the altar of the cross he offered himself for us, and by his sacrifice acquired eternal redemption for us*** — **John 17:19**: *"And for their sakes I sanctify Myself, that they also may be sanctified by the truth."* **Heb. 9:12** — *"Christ by his own blood entered once into the Holies, having obtained eternal redemption."* **Heb. 10:10** — *"In which will we are sanctified, by the oblation of the body of Jesus Christ once."*
+**III.** That ***once on the altar of the cross he offered himself for us, and by his sacrifice acquired eternal redemption for us*** — **John 17:19**: *"And for their sakes I sanctify Myself, that they also may be sanctified by the truth."* **Heb. 9:12** — *"with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."* **Heb. 10:10** — *"By that will we have been sanctified through the offering of the body of Jesus Christ once for all."*
 
 **IV.** That ***daily through the ministry of the Word he teaches us, calls us to himself, sanctifies us, and effectively renders us partakers of his redemption and of all his benefices*** through faith — **2 Cor. 5:20**: *"For Christ therefore we are ambassadors, God as it were exhorting by us. For Christ, we beseech you, be reconciled to God."* **Rom. 1:16** — *"The gospel...is the power of God to salvation for everyone who believes."* **Rom. 10:17** — *"So then faith comes by hearing, and hearing by the word of God."*
 
@@ -2106,7 +2106,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Is Christ alone the highest Priest of the New Testament?**
 
-**Most certainly.** For **Scripture at Ps. 110 attributes this honour to Christ alone**: *"Thou art a Priest for ever after the order of Melchisedech."* **2.** And he alone accomplished this pontifical and priestly munus and office on the altar of the cross — **Isa. 53:11** — *"For He shall bear their iniquities."* **Heb. 9, 10** — *"acquired eternal redemption."* **3.** He also alone could perform this. For he alone is ***ἀναμάρτητος*** and without sin — **Isa. 53:9**: *"Because He had done no violence, nor was any deceit in His mouth."* **Heb. 7:26–27** — *"For it was fitting that we should have such a High Priest — holy, innocent, undefiled, separated from sinners, and made higher than the heavens; who needeth not daily (as the other priests) to offer sacrifices first for his own sins,"* etc. He alone can also sanctify, efficaciously impute his merit to us, alone hear prayers, free from evils, and save.
+**Most certainly.** For **Scripture at Ps. 110 attributes this honour to Christ alone**: *"Thou art a Priest for ever after the order of Melchisedech."* **2.** And he alone accomplished this pontifical and priestly munus and office on the altar of the cross — **Isa. 53:11** — *"For He shall bear their iniquities."* **Heb. 9, 10** — *"having obtained eternal redemption."* **3.** He also alone could perform this. For he alone is ***ἀναμάρτητος*** and without sin — **Isa. 53:9**: *"Because He had done no violence, nor was any deceit in His mouth."* **Heb. 7:26–27** — *"For such a High Priest was fitting for us, who is holy, harmless, undefiled, separate from sinners, and has become higher than the heavens; who does not need daily, as those high priests, to offer up sacrifices, first for His own sins,"* etc. He alone can also sanctify, efficaciously impute his merit to us, alone hear prayers, free from evils, and save.
 
 — ❦ —
 
@@ -2124,7 +2124,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 
 **What difference between the highest Priest of Old and of New Testament?**
 
-**I.** The difference is in the ***institution***. Aaron's priesthood was instituted ***without an oath***: Christ's priesthood with an oath intervening — **Ps. 110**: *"The Lord hath sworn,"* etc. **Heb. 7:20–21**: *"The others indeed were made priests without an oath, but this one with an oath, by him that said to him: The Lord hath sworn."* [*Luther: T. 7, pp. 336, 337, 338, 339*]
+**I.** The difference is in the ***institution***. Aaron's priesthood was instituted ***without an oath***: Christ's priesthood with an oath intervening — **Ps. 110**: *"The Lord hath sworn,"* etc. **Heb. 7:20–21**: *"they have become priests without an oath, but He with an oath by Him who said to Him: The Lord has sworn."* [*Luther: T. 7, pp. 336, 337, 338, 339*]
 
 **II.** The highest Priest of the Old Testament was only ***Man, and indeed a sinner***. But Christ is God and Man in one Person, and ***separated from sinners*** — **Heb. 7**.
 
@@ -2132,7 +2132,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 
 **IV.** The priests of the Old Testament prayed for the people ***for a brief time***. For they were ***mortal men***. But Christ is ***eternal Pontifex***, and always makes intercession for us with the Father — **Rom. 1**. [*Luther: T. 7, p. 338*]
 
-**V.** The priests of the Old Testament offered only ***the blood of bulls and goats***, which could not cleanse consciences from sins. But Christ ***through his own blood entered into the Holies, and acquired eternal redemption*** — **Heb. 9:12; 10:10**.
+**V.** The priests of the Old Testament offered only ***the blood of bulls and goats***, which could not cleanse consciences from sins. But Christ ***through his own blood entered into the Holies, and acquired eternal redemption*** — **Heb. 9:12; 10:10** — *"with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."*
 
 **VI.** The priests of the Old Testament offered ***for their own and the people's sins***. But Christ offered himself ***not for his own, but only for the people's sins*** — **Isa. 53**.
 
@@ -2144,7 +2144,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 
 **What are the sacrifices of the New Testament?**
 
-**The New Testament has ***one*** ἱλαστήριον ***sacrifice*** — Christ Jesus himself, who offered himself to God, and acquired eternal redemption** — **Heb. 10:10**. Which sacrifice ***needs not to be offered oftener***. *"Every priest indeed"* (says the Apostle at **Heb. 10:11–12**) *"is ready daily ministering, and often offering the same sacrifices which can never take away sins. But this one, offering one sacrifice for sins, for ever sitteth at the right hand of God,"* etc. It is a horrid blasphemy, therefore, when the Papists say that ***Christ is daily to be offered in the Mass to the Father***. All the remaining sacrifices of the New Testament are only ***εὐχαριστικά*** — that is, they are such works as God has commanded, and which believers ought to do — ***not to merit eternal life, but to show gratitude***. **1 Pet. 2:5** — *"And be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God by Jesus Christ."* **Rom. 12:1** — *"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service."* **Ps. 50:14** — *"Offer to God thanksgiving."* **Ps. 51:17** — *"The sacrifices of God are a broken spirit, a broken and a contrite heart — these, O God, You will not despise."*
+**The New Testament has ***one*** ἱλαστήριον ***sacrifice*** — Christ Jesus himself, who offered himself to God, and acquired eternal redemption** — **Heb. 10:10**. Which sacrifice ***needs not to be offered oftener***. *"And every priest"* (says the Apostle at **Heb. 10:11–12**) *"stands ministering daily and offering repeatedly the same sacrifices, which can never take away sins. But this Man, after He had offered one sacrifice for sins forever, sat down at the right hand of God,"* etc. It is a horrid blasphemy, therefore, when the Papists say that ***Christ is daily to be offered in the Mass to the Father***. All the remaining sacrifices of the New Testament are only ***εὐχαριστικά*** — that is, they are such works as God has commanded, and which believers ought to do — ***not to merit eternal life, but to show gratitude***. **1 Pet. 2:5** — *"And be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God by Jesus Christ."* **Rom. 12:1** — *"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service."* **Ps. 50:14** — *"Offer to God thanksgiving."* **Ps. 51:17** — *"The sacrifices of God are a broken spirit, a broken and a contrite heart — these, O God, You will not despise."*
 
 — ❦ —
 
@@ -2620,7 +2620,7 @@ Concerning ***evil events***, it must be known:
 
 **What are the Angels?**
 
-**Respondeo**: **Administering spirits sent for ministry on account of those who shall obtain the inheritance of salvation** — **Heb. 1:14**. Or: they are ***spiritual essences created by God***, that they may be ***ministers of the Church and guardians of the pious***.
+**Respondeo**: **Administering spirits sent for ministry on account of those who shall obtain the inheritance of salvation** — **Heb. 1:14** — *"ministering spirits sent forth to minister for those who will inherit salvation."* Or: they are ***spiritual essences created by God***, that they may be ***ministers of the Church and guardians of the pious***.
 
 — ❦ —
 
@@ -4076,7 +4076,7 @@ Or: **He sins against the Holy Spirit** (as **Augustine** in the *Book of Exposi
 Hither pertain the sayings of Scripture:
 
 - **1 John 1:8–10** — *"If we shall say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just, that he may remit our sins and cleanse us from all iniquity. If we shall say that we have not sinned, we make him a liar, and his word is not in us."*
-- **Heb. 3:18** — *"But to whom sware he, that they should not enter into his rest, save to those who were unbelievers?"* And we see that **they could not enter in on account of unbelief**.
+- **Heb. 3:18** — *"And to whom did He swear that they would not enter His rest, but to those who did not obey?"* And we see that **they could not enter in on account of unbelief**.
 - **Rom. 11:22–23** — *"Therefore consider the goodness and severity of God: on those who fell, severity; but toward you, goodness, if you continue in His goodness. Otherwise you also will be cut off. And they also, if they do not continue in unbelief, will be grafted in — for God is able to graft them in again."*
 
 — ❦ —
@@ -4087,7 +4087,7 @@ Hither pertain the sayings of Scripture:
 
 **By no means.**
 
-For **sin is so great an evil, and its expiation so precious, that it cannot be done save through Christ, *θεάνθρωπος* (God-man)**. Here therefore **God-man reconciled us in the body of his flesh through death, that he might exhibit us holy and immaculate and irreprehensible before him** — **Col. 1:21–22**. *"δι' ἑαυτοῦ καθαρισμὸν ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν, ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης"* — *"having by himself made purgation of our sins, he sat down on the right hand of the Majesty"* — **Heb. 1:3**.
+For **sin is so great an evil, and its expiation so precious, that it cannot be done save through Christ, *θεάνθρωπος* (God-man)**. Here therefore **God-man reconciled us in the body of his flesh through death, that he might exhibit us holy and immaculate and irreprehensible before him** — **Col. 1:21–22**. *"δι' ἑαυτοῦ καθαρισμὸν ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν, ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης"* — *"when He had by Himself purged our sins, sat down at the right hand of the Majesty"* — **Heb. 1:3**.
 
 And what should our works do in so great a matter? — since we are creatures, and indeed sinful, corrupt, and abominable creatures. **Here is required an equivalent *ἀντίλυτρον* (counter-ransom), which may satisfy the divine Majesty, which is injured and offended by sin — which we cannot exhibit.**
 
@@ -5168,7 +5168,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **IV.** **By faith are hearts purified** — **Acts 15:9**. But **this a bare knowledge of the history of Christ cannot exhibit** — otherwise **even the hearts of the Pharisees, Sadducees, and Pilate would have been purified and reconciled to God**. **To believe therefore in this way is not to have a bare knowledge of the history of Christ: but to have a certain confidence, and in trust to be certain of the gratuitous purification and remission of all one's sins on account of Christ**.
 
-**V.** **Heb. 11:1**: *ἔστι δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων* — *"Now faith is the substance of things to be hoped for, the argument of things not appearing."* **Not therefore a bare knowledge, but a certain and firm confidence, opposed to doubt and diffidence, doth faith denote in this article**.
+**V.** **Heb. 11:1**: *ἔστι δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων* — *"Now faith is the substance of things hoped for, the evidence of things not seen."* **Not therefore a bare knowledge, but a certain and firm confidence, opposed to doubt and diffidence, doth faith denote in this article**.
 
 **VI.** **Rom. 4:20–21**, concerning the faith of Abraham it is said: *"He did not waver at the promise of God through unbelief, but was strengthened in faith, giving glory to God, being fully convinced that what He had promised He was also able to perform."* Whence it is clear, that **faith in this article denoteth not a bare knowledge of the history, but a most full knowledge without hesitation and diffidence — in the promise of God concerning the gratuitous remission of sins on account of Christ most firmly acquiescing, and certainly establishing that God on account of Christ is to him propitious, and remitteth all his sins freely**.
 
@@ -5786,7 +5786,7 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 
 **What are good works?** [*[Luther: T. 5, p. 370 f. b, p. 448; Gen. T. 2, p. 197; Gen. T. 2, p. 116*]*]
 
-**Good works are called those works which God hath commanded, and which are done by the regenerate — the Holy Spirit being the Author — in faith and knowledge of Jesus Christ, unto the glory of God and the utility of the neighbour** — **Exod. 20; Rom. 14:17**: *"For the kingdom of God is not meat and drink, but righteousness and peace, joy in the Holy Spirit; for he that in this serveth Christ, pleaseth God, and is approved of men."* **Heb. 11:4**: *"By faith Abel offered a more copious sacrifice than Cain to God."* **Matt. 5:16**: *"So let your light shine before men, that they may see your good works, and glorify your Father who is in the heavens."*
+**Good works are called those works which God hath commanded, and which are done by the regenerate — the Holy Spirit being the Author — in faith and knowledge of Jesus Christ, unto the glory of God and the utility of the neighbour** — **Exod. 20; Rom. 14:17**: *"For the kingdom of God is not meat and drink, but righteousness and peace, joy in the Holy Spirit; for he that in this serveth Christ, pleaseth God, and is approved of men."* **Heb. 11:4**: *"By faith Abel offered to God a more excellent sacrifice than Cain."* **Matt. 5:16**: *"So let your light shine before men, that they may see your good works, and glorify your Father who is in the heavens."*
 
 **The works of the faithful, or of Christians, which they do according to the prescription and mandate of God, are called *good* — Eph. 2:10** *"created in good works"*; **2 Tim. 3:17** *"instructed for every good work"* — **not that they are perfectly and absolutely good, and could stand in the judgement of God and consist in it, but because they are done by the regenerate and faithful, and out of the treasure of a good heart directed by the Holy Spirit, and proceed unto good work as created**.
 
@@ -5844,7 +5844,7 @@ And **hence also by contrast it is clear, that men not regenerate, who have not 
 
 **But how are good works to be done, that they please God?** [*[Luther: Gen. T. 1, pp. 74, 75; Gen. T. 2, p. 160; pp. 143, 144, 145, 146*]*]
 
-**In true faith and knowledge of Christ Jesus** — **Rom. 14:18**: *"For he who serves Christ in these things is acceptable to God."* **1 Pet. 2[:5]**: *"Offer spiritual sacrifices, acceptable to God through Jesus Christ."* Hence **Heb. 11:6** it is said: *"Without faith it is impossible to please God."* And **Gen. 4:5**: *"And the Lord had respect to Abel and to his gifts."*
+**In true faith and knowledge of Christ Jesus** — **Rom. 14:18**: *"For he who serves Christ in these things is acceptable to God."* **1 Pet. 2[:5]**: *"Offer spiritual sacrifices, acceptable to God through Jesus Christ."* Hence **Heb. 11:6** it is said: *"without faith it is impossible to please Him."* And **Gen. 4:5**: *"And the Lord had respect to Abel and to his gifts."*
 
 From which it is clear, that it is necessary that **the person first through faith in Christ be accepted of God, before his works please God — and that the person be justified before God not by and on account of works, but rather that the works, on account of the person accepted and faithful and justified, please God, and be truly good and accepted of God**.
 
@@ -5956,7 +5956,7 @@ For **the Apostle was writing to the Philippians, who through faith in Christ Je
 
 — ❦ —
 
-### Objection III. **Heb. 5 it is said: *"To those who obey him, he is made the Author of salvation."* *Ergo* good works are necessary to salvation.**
+### Objection III. **Heb. 5:9 it is said: *"He became the author of eternal salvation to all who obey Him."* *Ergo* good works are necessary to salvation.**
 
 **Respondeo**: **It is a fallacy of "not-cause-as-cause."** For **these words of the Epistle to the Hebrews speak not of good works, but of Christ the Highest Priest, who is made for us the Author of salvation, provided we believe in him, and with firm confidence of heart embrace his merits and intercession**. Undeservedly therefore **they are produced to palliate the proposition concerning the necessity of works to salvation, since they contain nothing of the kind**.
 
@@ -6670,7 +6670,7 @@ Then it is known also to the Papists, that **the exemplars of this Mass wondrous
 
 **Doth Canisius rightly write, who wrote that Christ now interpelleth not for us?**
 
-**Respondeo**: **By no means.** For in **Heb. 7** it is diserte written: *"Always living, that he may interpel for us."* And **Rom. 8**: *"Who is at the right hand of God, who also interpelleth for us."*
+**Respondeo**: **By no means.** For in **Heb. 7:25** it is diserte written: *"He always lives to make intercession for them."* And **Rom. 8**: *"Who is at the right hand of God, who also interpelleth for us."*
 
 ## Objections
 
@@ -6850,7 +6850,7 @@ As to the Minor: **the word "sanctify" in Paul is to be understood of the Physic
 
 **2.** In certain **circumstances and singular similitudes of things and signs**, which are as it were **peculiar to the Sacraments of each Testament**. But in reality and in use and efficacy they say those to be the same, and plainly to agree.
 
-**But we say these things do not yet sufficiently explain that difference.** For **regard must be paid not only to the aforesaid — but that we may plainly perceive the true discrimen of the Sacraments of the Old and New Testament, we must accurately attend, by what words Scripture itself explaineth this**: as **Heb. 10:1**: *"Having a shadow of good things to come, not the very image of things."* Whence it is clear that **the Sacraments of the Old Testament were only a shadow and type of the Messiah to come, but the Sacraments of the New Testament have the very image of goods**.
+**But we say these things do not yet sufficiently explain that difference.** For **regard must be paid not only to the aforesaid — but that we may plainly perceive the true discrimen of the Sacraments of the Old and New Testament, we must accurately attend, by what words Scripture itself explaineth this**: as **Heb. 10:1**: *"having a shadow of the good things to come, and not the very image of the things."* Whence it is clear that **the Sacraments of the Old Testament were only a shadow and type of the Messiah to come, but the Sacraments of the New Testament have the very image of goods**.
 
 **The blood of the Old Testament, Exod. 24:8, was indeed also true blood — but only of brute animals; and it was a type of the propitiatory blood of the Son of God, Jesus Christ**. But **the blood of the New Testament is that very blood of Jesus Christ poured out for us unto the remission of sins. And this very blood in the Supper of the Lord, according to the words of institution, is communicated to us.**
 
@@ -7164,7 +7164,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **It followeth not.** The reason is manifest: because **the adversaries tear apart the promise of grace and circumcision — which yet God conjoined**. **Not therefore is the bare promise of grace, without faith and without circumcision, rightly attributed to the children of the faithful** — because, as hath been said, **what God hath joined, no creature ought to separate**.
 
-**The same reason is of Baptism and the promise of grace.** Since therefore **the adversaries themselves confess, that children even born of faithful parents do not have faith — in vain they contend that those before Baptism are holy and heirs of the promise**. Since **Heb. 4:2 it is expressly said**: *"The word heard profited them not, not admixed by faith with the things they had heard."*
+**The same reason is of Baptism and the promise of grace.** Since therefore **the adversaries themselves confess, that children even born of faithful parents do not have faith — in vain they contend that those before Baptism are holy and heirs of the promise**. Since **Heb. 4:2 it is expressly said**: *"the word which they heard did not profit them, not being mixed with faith in those who heard it."*
 
 — ❦ —
 
@@ -8612,7 +8612,7 @@ Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned
 
 *[Response to the chief arguments of the Papists, by which they attempt to establish the oblation of the Mass.]*
 
-### Argument I. **Heb. 13:10 it is said**: *"We have an altar."* ***Ergo* we must have a host too, which is the Mass.**
+### Argument I. **Heb. 13:10 it is said**: *"We have an altar from which those who serve the tabernacle have no right to eat."* ***Ergo* we must have a host too, which is the Mass.**
 
 **Respondeo**: **The Epistle to the Hebrews mentioneth indeed an altar, but that the Mass is an oblation or a host to be offered on that altar, it saith by no word — but expressly attesteth, vv. 15–16, that the host of the Christians is the fruit of the lips, the confession of the name of Christ, beneficence, etc.** Hence therefore it standeth that **from the word *altar* it in no wise followeth: the Mass is an oblation for the living and the dead**.
 
@@ -8632,7 +8632,7 @@ Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned
 
 **Respondeo**: **The consequence availeth not**. For **the priesthood of Christ remaineth immoveable — even if the body of him in the Mass be not daily offered for the living and the dead**. **In what things the priesthood of Christ consisteth, Scripture itself expresseth — namely, that ever living he interpelleth for us, Heb. 7:25; that through him our Pontiff we have access to the Father, Rom. 5:2; Rom. 8:1; that he can save perpetually those approaching to God through him**. Whence it is perspicuous, **how the priesthood of Christ remaineth, and is not taken away with his death**.
 
-But hence in no wise followeth that **his body must daily be offered in the Mass for the living and the dead as a host of propitiation to the eternal Father**. For **Heb. 9:25 it is expressly said**: *"Nor that he should offer himself often — as the Pontiff enters into the holy places every year in the blood of another; otherwise it would behove him often to suffer from the beginning of the world: but now once at the consummation of the ages, unto the destruction of sin by his own host, he hath appeared. And as it is appointed for men once to die, but after this the judgement: so also Christ was offered once, to exhaust the sins of many."*
+But hence in no wise followeth that **his body must daily be offered in the Mass for the living and the dead as a host of propitiation to the eternal Father**. For **Heb. 9:25–28 it is expressly said**: *"not that He should offer Himself often, as the high priest enters the Most Holy Place every year with blood of another—He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself. And as it is appointed for men to die once, but after this the judgment, so Christ was offered once to bear the sins of many."*
 
 — ❦ —
 
@@ -9062,7 +9062,7 @@ And if **the Gentiles could have been saved without knowledge of Christ, what ne
 
 **II.** **The legitimate use of the Sacraments, as by God himself they have been instituted** — **Matt. 28; Mark 16; Acts 2; Eph. 5**.
 
-**III.** **Reverence and obedience toward the Ministry in all things which God in his Word hath prescribed** — **Matt. 8:20**: *"teaching them to observe all things that I have commanded you."* **Luke 10:16**: *"He who hears you hears Me."* **Heb. 13:17**: *"Obey your prelates, and be subject to them,"* etc.
+**III.** **Reverence and obedience toward the Ministry in all things which God in his Word hath prescribed** — **Matt. 8:20**: *"teaching them to observe all things that I have commanded you."* **Luke 10:16**: *"He who hears you hears Me."* **Heb. 13:17**: *"Obey those who rule over you, and be submissive,"* etc.
 
 — ❦ —
 
@@ -10700,7 +10700,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-### Objection II. **Heb. 6**: *"Impossible it is those who were once illuminated, and again have fallen, to be renewed by penitence."* **And cap. 10**: *"To those sinning voluntarily, is not left for sins any sacrifice."* ***Ergo* to those lapsed after Baptism sins are not pardoned.**
+### Objection II. **Heb. 6:4–6**: *"it is impossible for those who were once enlightened... if they fall away, to renew them again to repentance."* **And cap. 10:26**: *"For if we sin willfully after we have received the knowledge of the truth, there no longer remains a sacrifice for sins."* ***Ergo* to those lapsed after Baptism sins are not pardoned.**
 
 **Respondeo**: **It is a fallacy from a saying secundum quid: These sayings are to be taken not of all without distinction, but of blasphemers and those persevering in sins unto the end without penitence.** For **such blasphemers, who trample on the blood of Christ, and afflict the Spirit of grace with contumely, are not curable — but admonished and convicted, they become more rabid, and in that thing imitate their father the Devil**. For **as the Devil by hatred of God accumulates blasphemies: So the blasphemous men cease not to pollute themselves with crimes, until they fall into the hands of the living and punishing God**.
 
@@ -11912,7 +11912,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **But what doth cross and affliction beget?**
 
-**Respondeo**: **Mostly sadness of heart in the present it worketh, but in the future eternal gladness. Ps. 42**: *"Why art thou sad, my soul, why dost thou trouble me?"* **Heb. 12:11**: *"All discipline in the present seemeth indeed not to be of joy, but of sorrow: but afterwards it will render the most peaceable fruit of righteousness to them that are exercised through it."* **It also revealeth the thoughts of the hearts, Luke 2:35**: *"And thine own soul a sword shall pierce through, that from many hearts thoughts may be revealed."*
+**Respondeo**: **Mostly sadness of heart in the present it worketh, but in the future eternal gladness. Ps. 42**: *"Why art thou sad, my soul, why dost thou trouble me?"* **Heb. 12:11**: *"Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it."* **It also revealeth the thoughts of the hearts, Luke 2:35**: *"And thine own soul a sword shall pierce through, that from many hearts thoughts may be revealed."*
 
 — ❦ —
 
@@ -13048,7 +13048,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. Christ by Himself hath expiated sins, and hath cleansed us from sins: therefore no other expiation or purgation from sins in purgatory can remain: else it would follow, that Christ by His office did not through all things make satisfaction.**
 
-**II. No dogma, which unto the testimonies of Scripture contradicteth, can be true: the dogma of purgatory unto the testimonies of Scripture contradicteth: Ergo it cannot be true. The minor is plain from what follows: 1 John 1:7**: *"The blood of Jesus Christ his Son cleanseth us from all sin."* **Heb. 9:14**: *"The blood of Christ, who offered himself, hath cleansed our conscience,"* &c.
+**II. No dogma, which unto the testimonies of Scripture contradicteth, can be true: the dogma of purgatory unto the testimonies of Scripture contradicteth: Ergo it cannot be true. The minor is plain from what follows: 1 John 1:7**: *"The blood of Jesus Christ his Son cleanseth us from all sin."* **Heb. 9:14**: *"the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your conscience,"* &c.
 
 **III. If the doctrine of the Pontificians concerning purgatory were true, and unto salvation necessary, it would not have been by the Apostles neglected, but transmitted: But the Apostles that did not transmit: Ergo it is not true and unto salvation necessary. Nor this their doctrine can the Pontificians from the writings of the Apostles demonstrate.**
 
