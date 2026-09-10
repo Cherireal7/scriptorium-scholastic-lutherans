@@ -270,7 +270,7 @@ And **Ps. 147:19–20** — *"Who declareth his word to Jacob, his justices and 
 
 **I.** That Sacred Scripture is the **Lydian stone**, the **certain rule**, and the **infallible canon of all human writings** — apart from which, unless they be approved by it, they are nothing. [*Luther: T. 3, p. 165; T. 1, p. 402; T. 4, p. 20*]
 
-**Ps. 19:8** — *"The testimony of the Lord is faithful, giving wisdom to little ones."*
+**Ps. 19:8** — *"The testimony of the Lord is sure, making wise the simple."*
 
 Whence **Augustine, *Contra Epistolam Petiliani***: ***"Nec catholicis Episcopis consentiendum est, sicubi forte falluntur, aut contra canonicas Dei Scripturas aliquid sentiunt."*** — *"Neither with the Catholic Bishops themselves is one to consent, wherever they perhaps are deceived, or teach anything contrary to the canonical Scriptures of God."*
 
@@ -282,7 +282,7 @@ Whence **Jerome**: ***"Spiritus Sancti doctrina est, quae canonicis literis est 
 
 **III.** Scripture ***admits no syncretism or human mixture***; it wills to be either alone or nothing. [*Luther: T. 1, p. 503, f. b.; T. 5, p. 391; T. 3, part 1, p. 120*]
 
-Whence **Ps. 12:7** — *"The silver examined by fire, proved, and purged sevenfold."*
+Whence **Ps. 12:7** — *"as silver tried in a furnace of earth, purified seven times."*
 
 **IV.** Scripture is of ***unsearchable and inexhaustible wisdom***. [*Luther: T. 5, p. 440; T. 5, p. 125*] As **Ps. 147:5** — *"Great is our Lord, and great is his power; and of his wisdom there is no number."*
 
@@ -448,7 +448,7 @@ And to embrace all together: ***Scripture divinely inspired is profitable to tea
 
 **Let him hold both this rule and the other.** [*Luther: T. 1, p. 538; T. 7, p. 243*]
 
-**I.** Let him ask **whether the Fathers ever erred**. If they did err (as the adverse party, will he nill he, is compelled to confess), then ***their sayings by themselves demonstrate nothing***; but must be demonstrated from another firmer and per-se certain principle — that is, from a perspicuous testimony of Scripture. [*Luther: T. 3, part 1, p. 293, 297*] For **Sacred Scripture alone is the norm** according to which all dogmas and all cogitations are to be judged. **Ps. 19:8** — *"The testimony of the Lord is faithful, giving wisdom to little ones."* **Isa. 8:20** — *"To the Law rather, and to the Testimony; and if they speak not according to this word, they shall not have the morning light."*
+**I.** Let him ask **whether the Fathers ever erred**. If they did err (as the adverse party, will he nill he, is compelled to confess), then ***their sayings by themselves demonstrate nothing***; but must be demonstrated from another firmer and per-se certain principle — that is, from a perspicuous testimony of Scripture. [*Luther: T. 3, part 1, p. 293, 297*] For **Sacred Scripture alone is the norm** according to which all dogmas and all cogitations are to be judged. **Ps. 19:8** — *"The testimony of the Lord is sure, making wise the simple."* **Isa. 8:20** — *"To the Law rather, and to the Testimony; and if they speak not according to this word, they shall not have the morning light."*
 
 **II.** Let him answer: **The Fathers do not wish to be believed apart from perspicuous and manifest testimonies of Scripture.** [*Augustine's own witness*] **Augustine to Jerome, Epistle 19**: *"For I confess to thy charity, that to those books of Scriptures alone which are now called Canonical I have learned to defer this honour and fear, that I most firmly believe no one of their authors to have erred in writing anything. But others I read in such wise that, with however great sanctity and learning they surpass, I do not therefore hold that thing to be true because they themselves have so thought; but because either through those Canonical authors, or by probable reason which does not depart from the truth, they have been able to persuade me. Nor do I think, my brother, that thou dost feel otherwise; namely, I in no wise consider that thou wouldest so wish thy books to be read as those of the Prophets or Apostles, of whose writings — that they lack all error — it is unlawful to doubt."*
 
@@ -586,7 +586,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 **III.** That he is ***truthful***, and wonderfully keeps and performs what he has promised. [*Luther: T. 4, p. 449; T. 7, p. 150*] **John 4; Ps. 33:4** — *"For the word of the Lord is right, and all his works are done with faithfulness."*
 
-**IV.** That he is ***just and supreme Judge***, and therefore also to be feared. [*Luther: T. 1, p. 31*] **Ps. 7:12–13** — *"God is a just Judge, strong and patient — is he angry every day? Except you will be converted, he has shaken his sword; he has bent his bow, and made it ready. And in it he has prepared the instruments of death, he has made his arrows for the burning."*
+**IV.** That he is ***just and supreme Judge***, and therefore also to be feared. [*Luther: T. 1, p. 31*] **Ps. 7:11–13** — *"God is a just Judge, and God is angry with the wicked every day. If he does not turn back, He will sharpen His sword; He bends His bow and makes it ready. He also prepares for Himself instruments of death; He makes His arrows into fiery shafts."*
 
 **V.** That he is ***long-suffering, most clement, and most merciful***; wherefore they who do repentance ought not to doubt of his mercy and goodness. [*Luther: T. 4, p. 102, from the Sermon at Pentecost*] **Ps. 103:8–12** — *"The Lord is compassionate and merciful; long-suffering and plenteous in mercy... As a father hath compassion on his children, so hath the Lord compassion on them that fear him."* **John 3:16**.
 
@@ -672,7 +672,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 **I.** That by the ***names of Father, Son, and Holy Spirit***, she plainly indicates the distinction of Persons.
 
-**II.** That she has ***perspicuous testimonies*** in which the Father is discerned from the Son. **Ps. 2:7** — *"This day have I begotten thee."* **Gal. 4:4** — *"God sent his Son."*
+**II.** That she has ***perspicuous testimonies*** in which the Father is discerned from the Son. **Ps. 2:7** — *"Today I have begotten You."* **Gal. 4:4** — *"God sent his Son."*
 
 **III.** That she supplies sayings in which the Son discerns his own Person from the Person of the Father — as **John 8:14–18**: *"Even if I bear witness of Myself, My witness is true...I am One who bears witness of Myself, and the Father who sent Me bears witness of Me."*
 
@@ -842,13 +842,13 @@ So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord
 
 It is clear therefore that **Christ has been begotten from eternity of the essence of the Father, and is his substantial — not artificial, made, or created — image**. And, to draw the whole together, the ***eternal Divinity of Christ*** is irrefragably demonstrated from the following foundations:
 
-**I. From his eternal generation from the Father.** [*Luther: T. 4, part 1, pp. 748, 749*] **Ps. 2:7** — *"Thou art my Son; this day have I begotten thee."* **John 3:16** — *"For God so loved the world that He gave His only begotten Son."*
+**I. From his eternal generation from the Father.** [*Luther: T. 4, part 1, pp. 748, 749*] **Ps. 2:7** — *"You are My Son, Today I have begotten You."* **John 3:16** — *"For God so loved the world that He gave His only begotten Son."*
 
 **II. From his eternity**, since Scripture at **John 1:1**, and **Micah 5:2** (*"His going forth is from the beginning, from the days of eternity"*), testifies him to be ***from eternity, and thus before the creation of all things, and consequently not a creature but God***.
 
 **III. From the work of creation.** For Scripture testifies that ***all things were made through him*** — **John 1:3**. He is therefore true God by nature, for **creation is a work of the divine Majesty**.
 
-**IV. From the cultus of adoration.** [*Luther: T. 4, part 1, p. 47*] For Scripture attributes to him the ***cultus of adoration*** — **John 9:38**; **Ps. 45:12** — *"For he is the Lord thy God, and they shall adore him"*; **Ps. 72:11** — *"And all kings of the earth shall adore him; all nations shall serve him"*; **Jer. 23; Rom. 8**. It attributes to him therefore also ***the very Divinity***.
+**IV. From the cultus of adoration.** [*Luther: T. 4, part 1, p. 47*] For Scripture attributes to him the ***cultus of adoration*** — **John 9:38**; **Ps. 45:12** — *"He is your Lord; worship Him"*; **Ps. 72:11** — *"Yes, all kings shall fall down before Him; all nations shall serve Him"*; **Jer. 23; Rom. 8**. It attributes to him therefore also ***the very Divinity***.
 
 **V. From his works.** [*Luther: T. 4, part 1, pp. 91, 119, f. b.*] For to him are attributed in Scripture such works as no creature can effect — as the work of ***redemption, reconciliation with God, gathering of the Church***, and the like. **John 1:29** — *"Behold! The Lamb of God who takes away the sin of the world!"* **Matt. 1:21** — *"you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
 
@@ -876,7 +876,7 @@ It is clear therefore that **Christ has been begotten from eternity of the essen
 
 **Respondeo**: The saying of Christ does not take away his true Divinity, but rather confirms it. For the vocable ***God*** there is taken of the ***Person of the Father***, from whom the Son was begotten from eternity — **Ps. 2**. That he also calls him ***our*** God happens on account of the ***reconciliation*** which he acquired for us. For in Christ we are the ***adopted sons*** of the eternal Father — **John 1; Eph. 1**. But Christ is the ***only-begotten*** Son — **John 1**.
 
-### Objection VI. **The anointed and the anointing are not one and the same. But the Son is the anointed God, the Father is the anointing God.** *Ergo* the Son is not one and true God with the Father. The Minor is proved from **Ps. 45:7**: *"God, thy God, hath anointed thee."*
+### Objection VI. **The anointed and the anointing are not one and the same. But the Son is the anointed God, the Father is the anointing God.** *Ergo* the Son is not one and true God with the Father. The Minor is proved from **Ps. 45:7**: *"God, Your God, has anointed You."*
 
 **Respondeo**: **The Psalm speaks of the assumed human nature in Messiah, which was in time anointed with the plenitude of the Holy Spirit above his companions** — that is, above all saints — or, as **John 3:34** says, ***"God does not give the Spirit by measure."***
 
@@ -1650,7 +1650,7 @@ It is blasphemous, therefore, to teach that Christ-Man, or as Man, is not to be 
 
 **First**, from those which testify that ***he is present at his Church here on earth*** — **Matt. 18:20**: *"For where two or three are gathered together in My name, I am there in the midst of them."* **Matt. 28:20**: *"lo, I am with you always, even to the end of the age."*
 
-**Second**, from those which testify that ***also as Man, or according to his human nature, he has been exalted to the right hand of God, presently administers all things, and has all things subjected to him under his hands***. **Ps. 8:6–8**: *"Thou hast subjected all things under his feet, sheep and oxen — moreover, and the beasts of the field, the birds of the air, and the fishes of the sea, that pass through the paths of the sea."* **Eph. 1:20–23**: *"According to the working of his mighty power, which he wrought in Christ, raising him up from the dead and setting him at his right hand in the heavenly places, above all principality and power, and virtue and dominion, and every name that is named, not only in this world but also in that which is to come; and he hath subjected all things under his feet, and hath made him head over all the Church, which is his body, and the fulness of him who is filled all in all."* **Eph. 4:10** — *"He that descended is the same also that ascended above all the heavens, that he might fill all things."*
+**Second**, from those which testify that ***also as Man, or according to his human nature, he has been exalted to the right hand of God, presently administers all things, and has all things subjected to him under his hands***. **Ps. 8:6–8**: *"You have put all things under his feet, all sheep and oxen — even the beasts of the field, the birds of the air, and the fish of the sea, that pass through the paths of the seas."* **Eph. 1:20–23**: *"According to the working of his mighty power, which he wrought in Christ, raising him up from the dead and setting him at his right hand in the heavenly places, above all principality and power, and virtue and dominion, and every name that is named, not only in this world but also in that which is to come; and he hath subjected all things under his feet, and hath made him head over all the Church, which is his body, and the fulness of him who is filled all in all."* **Eph. 4:10** — *"He that descended is the same also that ascended above all the heavens, that he might fill all things."*
 
 ## Question 53. But how can it be that Christ, with his body — which nevertheless is and remains finite — should be in more places at once at one time?
 
@@ -1756,7 +1756,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **Does it follow from the session that Christ, also as Man, governs all things present?**
 
-**Most certainly.** For to sit at the right hand of God is properly nothing else than to reign over all creatures ***with equal power and majesty with the Father***. But the Father reigns over all creatures ***not absently, but presently***. Since therefore Christ, according to the assumed human nature, sits at the right hand of God — that is, rules over all creatures with equal power and majesty — there is no doubt that ***also as Man*** he governs, not absently but presently, all creatures in heaven and on earth, ***in a heavenly, supernatural manner incomprehensible to human reason***. As this same thing is expressly set out at **Eph. 1:20–22** — where Paul says that he has been ***constituted at the right hand of God in the heavenly places, above all principality and power, and virtue, and dominion, and every name that is named, not only in this world but also in that which is to come; and all things have been subjected under his feet***. So at **Ps. 8:6–8**: *"Thou hast set him over the works of thy hands, and hast subjected all things under his feet: sheep and oxen, moreover, and the beasts of the field, the birds of the air, and the fishes of the sea, that pass through the paths of the sea."*
+**Most certainly.** For to sit at the right hand of God is properly nothing else than to reign over all creatures ***with equal power and majesty with the Father***. But the Father reigns over all creatures ***not absently, but presently***. Since therefore Christ, according to the assumed human nature, sits at the right hand of God — that is, rules over all creatures with equal power and majesty — there is no doubt that ***also as Man*** he governs, not absently but presently, all creatures in heaven and on earth, ***in a heavenly, supernatural manner incomprehensible to human reason***. As this same thing is expressly set out at **Eph. 1:20–22** — where Paul says that he has been ***constituted at the right hand of God in the heavenly places, above all principality and power, and virtue, and dominion, and every name that is named, not only in this world but also in that which is to come; and all things have been subjected under his feet***. So at **Ps. 8:6–8**: *"You have made him to have dominion over the works of Your hands; You have put all things under his feet: all sheep and oxen, even the beasts of the field, the birds of the air, and the fish of the sea, that pass through the paths of the seas."*
 
 ### Objection I. Although Christ, according to the assumed human nature, sits at the right hand of God, yet is this not to be so declared that the ***essential properties*** of his human nature remain ***safe and preserved***?
 
@@ -1950,7 +1950,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Who is the author of this kingdom?**
 
-**God himself** — **Ps. 2:6** — *"But I have been established king by him upon Sion, his holy mount."* **Dan. 2; Luke 1**. For since by the instinct of Satan men, through sin, have been torn away from God, God has established this kingdom by which lost men are ***recalled and reduced into the way and unto salvation***.
+**God himself** — **Ps. 2:6** — *"Yet I have set My King on My holy hill of Zion."* **Dan. 2; Luke 1**. For since by the instinct of Satan men, through sin, have been torn away from God, God has established this kingdom by which lost men are ***recalled and reduced into the way and unto salvation***.
 
 — ❦ —
 
@@ -1958,7 +1958,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **In what is the kingdom of Christ chiefly occupied?**
 
-**In consoling contrite and humbled hearts, in raising them up, in freeing them from the tyranny and power of Satan, in hearing their prayers, in freeing them from all evils and blessing them with eternal life.** [*In the Postilla on the Sunday Septuagesima; the 3rd Sunday of Advent*] **Matt. 11:5** — *"the poor have the gospel preached to them."* **Ps. 22:26–27** — *"The poor shall eat and shall be filled, and they shall praise the Lord that seek him."*
+**In consoling contrite and humbled hearts, in raising them up, in freeing them from the tyranny and power of Satan, in hearing their prayers, in freeing them from all evils and blessing them with eternal life.** [*In the Postilla on the Sunday Septuagesima; the 3rd Sunday of Advent*] **Matt. 11:5** — *"the poor have the gospel preached to them."* **Ps. 22:26** — *"The poor shall eat and be satisfied; those who seek Him will praise the Lord."*
 
 — ❦ —
 
@@ -1982,11 +1982,11 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **I.** That Christ is a King ***spiritual, just, poor, and meek*** — **Zech. 9:9**.
 
-**II.** That he is a King ***most eloquent*** — **Isa. 50:4**: *"The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary."* **Ps. 45:3** — *"Grace is poured abroad in thy lips."*
+**II.** That he is a King ***most eloquent*** — **Isa. 50:4**: *"The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary."* **Ps. 45:3** — *"Grace is poured upon Your lips."*
 
-**III.** That ***his power is above all creatures*** — **Ps. 2:8**: *"Ask of me, and I will give thee the Gentiles for thy inheritance, and the utmost parts of the earth for thy possession."* **Ps. 8:8** — *"Thou hast subjected all things under his feet."*
+**III.** That ***his power is above all creatures*** — **Ps. 2:8**: *"Ask of Me, and I will give You the nations for Your inheritance, and the ends of the earth for Your possession."* **Ps. 8:8** — *"You have put all things under his feet."*
 
-**IV.** That he is a ***happy King***, who can subject all things to his power — **Ps. 2:9**: *"Thou shalt rule them with a rod of iron, and shalt break them in pieces like a potter's vessel."* **Ps. 45:4–5** — *"Gird thy sword upon thy thigh, O thou most mighty; with thy comeliness and thy beauty set out, proceed prosperously, and reign, because of truth, and meekness, and justice; and thy right hand shall wonderfully conduct thee."*
+**IV.** That he is a ***happy King***, who can subject all things to his power — **Ps. 2:9**: *"You shall break them with a rod of iron; You shall dash them to pieces like a potter's vessel."* **Ps. 45:3–4** — *"Gird Your sword upon Your thigh, O Mighty One, with Your glory and Your majesty. And in Your majesty ride prosperously because of truth, humility, and righteousness."*
 
 **V.** Whom does he have as ***subjects of his kingdom***? **Matt. 11:28** — the ***labouring and heavy-burdened***.
 
@@ -1998,7 +1998,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **IX.** How are we enrolled as ***citizens of this kingdom***, and made partakers of all this kingdom's benefits? Namely, ***through true and living faith*** — **Ps. 2 [end]**: *"Blessed are all who trust in him."* **John 3:16** — *"that whoever believes in Him should not perish but have everlasting life."*
 
-**X.** Where is this kingdom of Christ? Namely, ***through the whole orb of the lands*** — **Ps. 93** — and wheresoever his Word is preached, and the Sacraments are legitimately administered according to his institution. **Ps. 2:6** — *"I am appointed King by him upon Sion, his holy mount, preaching his precept."* **Ps. 22:23** — *"I will declare thy name to my brethren."* **Matt. 28:19** — *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."* **Mark 16:15** — *"Going into the whole world, preach the Gospel to every creature."*
+**X.** Where is this kingdom of Christ? Namely, ***through the whole orb of the lands*** — **Ps. 93** — and wheresoever his Word is preached, and the Sacraments are legitimately administered according to his institution. **Ps. 2:6–7** — *"Yet I have set My King on My holy hill of Zion. I will declare the decree."* **Ps. 22:23** — *"I will declare Your name to My brethren."* **Matt. 28:19** — *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."* **Mark 16:15** — *"Going into the whole world, preach the Gospel to every creature."*
 
 **XI.** What is the ***cultus*** of this kingdom? [*T. 3, pp. 330, 334*]
 
@@ -2048,7 +2048,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **IV.** The kingdoms of this world are administered by ***external and corporeal force, sword, and troops***: but the kingdom of Christ is administered by ***Word and Holy Spirit*** — **Ps. 2, 110**.
 
-**V.** The kingdoms of this world are enclosed within certain terms: but the kingdom of Christ diffuses itself unto the ends of the earth over the whole world — **Ps. 2:8**: *"He shall rule from sea to sea, and from the river to the ends of the earth."* **Dan. 2; Luke 1**. [*Luther: T. 5, p. 160*]
+**V.** The kingdoms of this world are enclosed within certain terms: but the kingdom of Christ diffuses itself unto the ends of the earth over the whole world — **Ps. 2:8**: *"He shall have dominion from sea to sea, and from the River to the ends of the earth."* **Dan. 2; Luke 1**. [*Luther: T. 5, p. 160*]
 
 **VI.** The kingdoms of this world have their periods, and at last altogether fall down. But the kingdom of Christ is ***eternal*** — **Luke 1; Dan. 2**. Difference between the kingdom of God and of Christ — **T. 6, p. 242**. How this shall be handed over to the Father — **T. 6, p. 236**.
 
@@ -2144,7 +2144,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 
 **What are the sacrifices of the New Testament?**
 
-**The New Testament has ***one*** ἱλαστήριον ***sacrifice*** — Christ Jesus himself, who offered himself to God, and acquired eternal redemption** — **Heb. 10:10**. Which sacrifice ***needs not to be offered oftener***. *"Every priest indeed"* (says the Apostle at **Heb. 10:11–12**) *"is ready daily ministering, and often offering the same sacrifices which can never take away sins. But this one, offering one sacrifice for sins, for ever sitteth at the right hand of God,"* etc. It is a horrid blasphemy, therefore, when the Papists say that ***Christ is daily to be offered in the Mass to the Father***. All the remaining sacrifices of the New Testament are only ***εὐχαριστικά*** — that is, they are such works as God has commanded, and which believers ought to do — ***not to merit eternal life, but to show gratitude***. **1 Pet. 2:5** — *"And be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God by Jesus Christ."* **Rom. 12:1** — *"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service."* **Ps. 50:14** — *"Offer to God the sacrifice of praise."* **Ps. 51:19** — *"A sacrifice to God is an afflicted spirit: a contrite and humbled heart, O God, thou wilt not despise."*
+**The New Testament has ***one*** ἱλαστήριον ***sacrifice*** — Christ Jesus himself, who offered himself to God, and acquired eternal redemption** — **Heb. 10:10**. Which sacrifice ***needs not to be offered oftener***. *"Every priest indeed"* (says the Apostle at **Heb. 10:11–12**) *"is ready daily ministering, and often offering the same sacrifices which can never take away sins. But this one, offering one sacrifice for sins, for ever sitteth at the right hand of God,"* etc. It is a horrid blasphemy, therefore, when the Papists say that ***Christ is daily to be offered in the Mass to the Father***. All the remaining sacrifices of the New Testament are only ***εὐχαριστικά*** — that is, they are such works as God has commanded, and which believers ought to do — ***not to merit eternal life, but to show gratitude***. **1 Pet. 2:5** — *"And be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God by Jesus Christ."* **Rom. 12:1** — *"I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service."* **Ps. 50:14** — *"Offer to God thanksgiving."* **Ps. 51:17** — *"The sacrifices of God are a broken spirit, a broken and a contrite heart — these, O God, You will not despise."*
 
 — ❦ —
 
@@ -2192,7 +2192,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **Demonstrate that the Holy Spirit is a Person, not a created quality.**
 
-**I.** **Ps. 33:6** — *"By the word of the Lord the heavens were established, and all their virtue by the Spirit of his mouth."* By which words expressly the work of creation is ascribed to the Holy Spirit together with the Father and the Son. He is not therefore ***a created quality or motion, but the Creator himself*** — necessarily so.
+**I.** **Ps. 33:6** — *"By the word of the Lord the heavens were made, and all the host of them by the breath of His mouth."* By which words expressly the work of creation is ascribed to the Holy Spirit together with the Father and the Son. He is not therefore ***a created quality or motion, but the Creator himself*** — necessarily so.
 
 **II.** Christ also, in the institution of Baptism, **Matt. 28**, commanded that all nations be baptised in the name of the Holy Spirit, and his name be invoked upon them. He wills not, however, that we invoke any created quality. The Holy Spirit therefore is not a ***created motion or creature***.
 
@@ -2246,7 +2246,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **III.** He ***raises up and consoles the contrite and humbled in heart***, in every kind of temptations and miseries; ***corroborates and preserves them in true faith in Christ, in hope, in patience***, etc. Whence he is also called ***Paraclete*** — **John 16:7** [*Luther: T. 7, pp. 89, 85, 87, 88, 89, 90, 91*]: *"But I tell you the truth: it is expedient to you that I go; for if I go not, the Paraclete will not come to you. But if I go, I will send him to you."* **Eph. 3:16** — *"That he would grant you, according to the riches of his glory, to be strengthened by his Spirit in the inner man,"* etc.
 
-**IV.** He ***directs and leads the faithful in all their life and vocation*** — **Ps. 143:10**: *"Teach me to do thy will, for thou art my God. Thy good Spirit shall lead me into the right land."* **Ps. 51:12–13** — *"Create in me a clean heart, O God, and renew a right Spirit within my bowels. Cast me not away from thy face, and take not thy Holy Spirit from me."*
+**IV.** He ***directs and leads the faithful in all their life and vocation*** — **Ps. 143:10**: *"Teach me to do Your will, for You are my God; Your Spirit is good. Lead me in the land of uprightness."* **Ps. 51:10–11** — *"Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence, and do not take Your Holy Spirit from me."*
 
 **V.** He ***sanctifies the faithful unto eternal life*** [*Luther: T. 4, pp. 787, 788, 789*] — **Rom. 8:11**: *"But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you."* **Gal. 6:8** — *"He that soweth in the Spirit, of the Spirit shall reap life everlasting."*
 
@@ -2302,7 +2302,7 @@ Whether the Holy Spirit is present in us ***essentially or virtually***: in the 
 
 **By whom was this world created?**
 
-**By the sacrosanct Trinity.** [*Luther: T. 8, pp. 149, 150, 151; Gen. T. 1, p. 1*] **Ps. 33:6** — *"By the word of the Lord the heavens were established, and all their virtue by the Spirit of his mouth."* Created therefore is the heaven and all things that are in it, etc. So **Moses** writes: *"God said, Let there be a firmament, and God made the firmament,"* etc. Similarly the earth also, and all things that are in it, are created by the word of God. Three Persons ***distinctly*** he names: the ***Lord***, ***his Word***, and ***his Spirit*** — and yet he sets ***one and individual*** Creator in essence. [*Luther: T. 8, pp. 158, 159*] For ***the works of the Trinity ad extra are undivided***.
+**By the sacrosanct Trinity.** [*Luther: T. 8, pp. 149, 150, 151; Gen. T. 1, p. 1*] **Ps. 33:6** — *"By the word of the Lord the heavens were made, and all the host of them by the breath of His mouth."* Created therefore is the heaven and all things that are in it, etc. So **Moses** writes: *"God said, Let there be a firmament, and God made the firmament,"* etc. Similarly the earth also, and all things that are in it, are created by the word of God. Three Persons ***distinctly*** he names: the ***Lord***, ***his Word***, and ***his Spirit*** — and yet he sets ***one and individual*** Creator in essence. [*Luther: T. 8, pp. 158, 159*] For ***the works of the Trinity ad extra are undivided***.
 
 — ❦ —
 
@@ -2480,7 +2480,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **IV.** That we may know and certainly hold that ***even the hairs of our head are numbered***, and that not one of them falls to the ground without the will of the heavenly Father — **Matt. 10:29–30**.
 
-**V.** That we may also understand ***the punishments of the impious are from God***, who permits them indeed to flourish for a time, but at last destroys them — **Ps. 37:20**: *"Because the wicked shall perish, and the enemies of the Lord, presently after they shall be honoured and exalted, shall come to nothing, and vanish like smoke."*
+**V.** That we may also understand ***the punishments of the impious are from God***, who permits them indeed to flourish for a time, but at last destroys them — **Ps. 37:20**: *"But the wicked shall perish; and the enemies of the Lord, like the splendor of the meadows, shall vanish. Into smoke they shall vanish away."*
 
 — ❦ —
 
@@ -2694,7 +2694,7 @@ Let us therefore give thanks to God, who gave them to us as guardians, for this 
 
 **With what men do the holy Angels willingly converse?**
 
-**Respondeo**: **With those who fear the Lord** — **Ps. 34:8** [*Gen. T. 2, pp. 136, 137*]; **with penitent sinners** — **Luke 15:10**: *"So there shall be joy before the Angels of God upon one sinner doing penance."* With those who contain themselves ***within the terms of their vocation***, and diligently execute the offices of their vocation — **Ps. 91**: *"He hath given his Angels charge over thee, to keep thee in all thy ways."*
+**Respondeo**: **With those who fear the Lord** — **Ps. 34:8** [*Gen. T. 2, pp. 136, 137*]; **with penitent sinners** — **Luke 15:10**: *"So there shall be joy before the Angels of God upon one sinner doing penance."* With those who contain themselves ***within the terms of their vocation***, and diligently execute the offices of their vocation — **Ps. 91:11**: *"For He shall give His angels charge over you, to keep you in all your ways."*
 
 ### Objection. If therefore the holy Angels converse with us, and keep watch among us for us — whence come such great perturbations of all things, and such sad and tragic events?
 
@@ -3396,7 +3396,7 @@ Therefore let us beware of sins, nor be secure in sins. For **God is a consuming
 
 **I.** The first evil fruit of sin is, that we have **the understanding darkened with darkness**, and **cannot see and rightly know God** — **Eph. 4:18**.
 
-**II.** **Most just wrath of God, terror and dread of conscience** — **Eph. 2:3**: *"We were by nature children of wrath, even as the rest."* **Ps. 6:1** — *"O Lord, rebuke me not in thy fury, neither chastise me in thy wrath."* **Job 6:4** — *"For the arrows of the Lord are in me, whose indignation drinketh up my spirit, and the terrors of the Lord fight against me."* **Wisdom 17:10–12** — *"For whereas any one is fearful, and looks about at all things, and is affrighted at every noise — this ariseth from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expecteth tragic calamities,"* etc.
+**II.** **Most just wrath of God, terror and dread of conscience** — **Eph. 2:3**: *"We were by nature children of wrath, even as the rest."* **Ps. 6:1** — *"O Lord, do not rebuke me in Your anger, nor chasten me in Your hot displeasure."* **Job 6:4** — *"For the arrows of the Lord are in me, whose indignation drinketh up my spirit, and the terrors of the Lord fight against me."* **Wisdom 17:10–12** — *"For whereas any one is fearful, and looks about at all things, and is affrighted at every noise — this ariseth from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expecteth tragic calamities,"* etc.
 
 **III.** **Madness, blindness, and fury of mind** in all studies and works, corporal and spiritual — **Deut. 28:28; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened."*
 
@@ -3454,7 +3454,7 @@ That **never to any penitent sinner has he denied the gratuitous remission of si
 
 **First**, that of the **Manichaeans**, who feigned that God created sin — which opinion **Gen. 1** refutes: *"God saw all things that he had made, and behold, they were very good."* Therefore sin is not from God.
 
-**Secondly** [*[Luther: T. 3, p. 102*]*], those who feign that **God willed men to sin** — whereas **Ps. 5:4** saith: *"Thou art not a God that willest iniquity."* To speak briefly: **it cannot be that we should fall through him, through whom we rise again from sins**.
+**Secondly** [*[Luther: T. 3, p. 102*]*], those who feign that **God willed men to sin** — whereas **Ps. 5:4** saith: *"You are not a God who takes pleasure in wickedness."* To speak briefly: **it cannot be that we should fall through him, through whom we rise again from sins**.
 
 **Thirdly**, those who fabricate that **no sin is in the nature of man, but that nature is now framed such as it is**. In which opinion were formerly the **Ethnic philosophers and the Pelagians**. But Scripture openly testifies **that the flesh, that is, the nature of man, is corrupted by sin** — **Gen. 6, 8**.
 
@@ -3500,7 +3500,7 @@ In sum: **original sin is truly sin**, and indeed **the greatest of all sins** [
 
 **But how is it derived and propagated into us?**
 
-**Through natural generation from Adam** [*[Luther: Gen. 2, p. 98 fine*; *T. 6, p. 231*]*]. — **Rom. 5:12**: *"through one man sin entered the world"* — of which we are all born. **Ps. 51:5** — *"For behold, I was conceived in iniquities, and in sins my mother conceived me."* **Eph. 2:3** — *"And we were by nature children of wrath, even as the rest."*
+**Through natural generation from Adam** [*[Luther: Gen. 2, p. 98 fine*; *T. 6, p. 231*]*]. — **Rom. 5:12**: *"through one man sin entered the world"* — of which we are all born. **Ps. 51:5** — *"Behold, I was brought forth in iniquity, and in sin my mother conceived me."* **Eph. 2:3** — *"And we were by nature children of wrath, even as the rest."*
 
 — ❦ —
 
@@ -3516,7 +3516,7 @@ In sum: **original sin is truly sin**, and indeed **the greatest of all sins** [
 
 **Do therefore also Christians baptised, having received remission of sins, transmit and propagate original sin to their posterity?**
 
-**Very much so.** For therefore David saith **Ps. 51:5**: *"Behold, I was conceived in iniquities, and in sins my mother conceived me,"* though he was conceived and born from believing parents. **John 3:6** — *"That which is born of the flesh is flesh."* Christian baptised men do not beget offspring according to their regeneration out of water and the Spirit, but **according to the flesh, in which sin still dwells** — **Rom. 7:18** — wherefore also they transmit sin to their offspring.
+**Very much so.** For therefore David saith **Ps. 51:5**: *"Behold, I was brought forth in iniquity, and in sin my mother conceived me,"* though he was conceived and born from believing parents. **John 3:6** — *"That which is born of the flesh is flesh."* Christian baptised men do not beget offspring according to their regeneration out of water and the Spirit, but **according to the flesh, in which sin still dwells** — **Rom. 7:18** — wherefore also they transmit sin to their offspring.
 
 — ❦ —
 
@@ -3692,7 +3692,7 @@ To the Minor I respond: **Adam in this part, when we treat of original sin, is t
 
 **Fifthly**, [the error] of those who **in our age** have taught, that **original sin is a substance, or the corrupt nature itself, which is a substance, is original sin; and that there is no distinction between the nature of man and original sin**. And they expressly denied that **original sin is an evil accident in human nature**, but they said there is a distinction between the corrupt nature and original sin itself.
 
-**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the sinful passions which were aroused by the Law were at work in our members to bear fruit to death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17–18**: *"But now, it is no longer I who do it, but sin that dwells in me. For I know that in me — that is, in my flesh — nothing good dwells."* Item **v. 21**: *"evil is present with me."* Item **v. 23**: *"But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"And according to the multitude of thy mercies blot out my iniquity,"* etc. **Matt. 1:21** — *"And you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
+**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the sinful passions which were aroused by the Law were at work in our members to bear fruit to death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17–18**: *"But now, it is no longer I who do it, but sin that dwells in me. For I know that in me — that is, in my flesh — nothing good dwells."* Item **v. 21**: *"evil is present with me."* Item **v. 23**: *"But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"According to the multitude of Your tender mercies, blot out my transgressions,"* etc. **Matt. 1:21** — *"And you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
 
 From these and similar pronouncements of Sacred Scripture it is sufficiently manifest that **Scripture constitutes a manifest distinction between the corrupt nature of man and original sin, and expressly denies that original sin is a substance or the corrupt nature itself**. For it asserts that sin is in the members, not that the members themselves are sin. Item, that sin dwells in the flesh, but not that the flesh is sin itself. Item, that the blood of Christ cleanses us from sin. Now if the corrupt nature were original sin itself, the blood of Christ would cleanse us from the nature itself, and not the nature from sin. Item, that Christ saves sinners, not sin itself.
 
@@ -3833,7 +3833,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **I.** Let him **not obey these concupiscences, nor exhibit himself a servant to them for obeying, nor exhibit his members as weapons of unrighteousness, but let him seriously repugn those concupiscences** — **Rom. 6:7**.
 
-**II.** Let him **seriously implore the help and aid of the Holy Spirit**, by which he may be able to crucify and kill the concupiscences of the flesh — **Ps. 51:12–13**: *"Create in me a new heart, O God, and renew a right spirit within my bowels. Cast me not away from thy face, and take not thy holy Spirit from me. Restore unto me the joy of thy salvation, and strengthen me with a principal Spirit."*
+**II.** Let him **seriously implore the help and aid of the Holy Spirit**, by which he may be able to crucify and kill the concupiscences of the flesh — **Ps. 51:10–12**: *"Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence, and do not take Your Holy Spirit from me. Restore to me the joy of Your salvation, and uphold me by Your generous Spirit."*
 
 **III.** Let him **take into his hands the sacred Bible and the Psalter, and assiduously read in them, and in the fear of the Lord meditate and search the Scripture**. For in those who meditate on the Law of the Lord day and night, the Devil cannot so work sin, as in the despisers of the Word of God.
 
@@ -3859,7 +3859,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **II.** **They are easily perpetrated, but with difficulty healed** [*[Luther: T. 3, pp. 205–206 fine*]*]. **Cain**, without labour, easily and suddenly killed Abel his brother; **David** easily and with a moment committed adultery, and defiled himself with fornication and homicide. But if the heart in the *Deus* fear come to conscience of sin, it doth *sit meditate cordibus depraved* — [rather: it does not easily obtain peace, but sadly meditates on God's judgements] [*[Luther: T. 4, p. 47; T. 5, p. 154; Gen. T. 1, pp. 77, 168*]*]. **David** — although he struggles and is converted, yet **is involved in many and great miseries and most hard temptations**.
 
-**III.** **They make man deaf and dumb** [*[Luther: Gen. T. 4, p. 104; Gen. 4:50, p. 247; Gen. T. 3, p. 186*]*] — so that he does not hear the Word of God; and though he be admonished by the ministry of the Word, yet he is unwilling **to acknowledge and confess or profess his sins** — **Ps. 32:3**: *"Because I kept silence, my bones grew old."*
+**III.** **They make man deaf and dumb** [*[Luther: Gen. T. 4, p. 104; Gen. 4:50, p. 247; Gen. T. 3, p. 186*]*] — so that he does not hear the Word of God; and though he be admonished by the ministry of the Word, yet he is unwilling **to acknowledge and confess or profess his sins** — **Ps. 32:3**: *"When I kept silent, my bones grew old."*
 
 **IV.** **The end of one actual sin is the beginning of another** [*[Luther: Gen. 6, pp. 114, 120; Gen. T. 4, p. 53*]*], and **one sin is wont to draw a great mass of sins with it** — as **David**, having committed adultery, polluted himself also with homicide. Therefore **the beginnings must be resisted**, and sins must be seriously guarded against; nor must one **consent to evil concupiscences**, but they must be **resisted in the fear of God, in invocation of the divine name** — **Ps. 119:133**: *"Direct my steps according to thy word, and let no iniquity have dominion over me."*
 
@@ -3871,7 +3871,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **The wrath of God** — **Rom. 1:18**; **an evil conscience** [*[Luther: T. 1, p. 20 fine, p. 163; T. 3, p. 209 fine; T. 7, p. 23; Postilla Domestica, Dom. Trinitatis*]*] — **Rom. 1:32; Wisdom 17:8, 11**: *"For whereas any one looks about at all things, and is affrighted at every noise, this arises from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expects tragic calamities. For fear thence exists, when any one is destitute of excuse and has no refuge,"* etc.
 
-**Temporal and eternal punishments** — *"For the wages of sin is death,"* **Rom. 6:23**. **Ps. 39:12** — *"For iniquity thou hast corrected man with rebukes, and hast made his soul consume away like a spider."*
+**Temporal and eternal punishments** — *"For the wages of sin is death,"* **Rom. 6:23**. **Ps. 39:11** — *"When with rebukes You correct man for iniquity, You make his beauty melt away like a moth."*
 
 — ❦ —
 
@@ -3911,7 +3911,7 @@ Whence also **manifest works of the flesh** are said [to happen], **when the hea
 
 **All the blemishes and infirmities in the faithful** [*[Luther: T. 4/1, pp. 386, 381*]*], which in their flesh or heart daily set themselves forth — as *incredulity, security, impatience, depraved thoughts*, etc. — **which nevertheless the faithful resist, crucify, and kill; and daily seek remission of them through and on account of Christ** — **Rom. 8:1**: *"Who do not walk according to the flesh, but according to the Spirit."* Item **v. 13**: *"if by the Spirit you put to death the deeds of the body"* — who **seek remission of their sins** — **Ps. 32:6**: *"For this shall every holy one pray to thee in a convenient time."*
 
-And in sum: **those who, beholding their perversity and corruption, shudder in horror, and with burning vows implore the aid and governance of the Holy Spirit** — **Ps. 51:11**: *"Cast me not away from thy face, and take not thy Holy Spirit from me."*
+And in sum: **those who, beholding their perversity and corruption, shudder in horror, and with burning vows implore the aid and governance of the Holy Spirit** — **Ps. 51:11**: *"Do not cast me away from Your presence, and do not take Your Holy Spirit from me."*
 
 — ❦ —
 
@@ -4170,7 +4170,7 @@ But since **no one keeps or does these**, no one of men **through his own works 
 
 **Then, that it may reduce us men (otherwise secure) to a true knowledge of our sins, and work in our hearts wrath and terror** [*[Luther: T. 4/1, pp. 49–50*]*] — whence it is said **Rom. 3:20**: *"For by the Law is the knowledge of sin."* **Rom. 4:15** — *"For the Law brings about wrath."* For since we men by nature do not understand what is sin and the wrath of God, nor know how horribly our nature is corrupted, **God through the preaching of the Law kills and terrifies our hearts, contrites and humiliates them, that they may be humiliated in the judgement of God**, nor thus secure and obstinately glory and grow insolent, as otherwise, unless they be prepared by the severe preaching of the Law, they are wont to do. **If even the preaching of the Law effects nothing in us**, God applies **the cross, temptations, sicknesses, and afflictions of every kind, that he may soften our hearts, and through these terrors and dreads terrify our heart and conscience, and stir up and, as it were, vivify sin in the conscience** — for **without the Law sin is dead** — **Rom. 7:8–9**.
 
-**Thirdly**, [*[Luther: Postilla Ecclesiastica in Epist. dei Circumc.; Dom. III Trinit. in Evang.; Postilla Domestica Dom. 3, 4 Adventus; Epiphan. 13 Trinit.; T. 3, p. 407; T. 7, p. 264; T. 4/2, p. 526*]*] **that it may show to the regenerate and faithful, what works please God, and how they ought to conform their whole life to the will of God** — **Ps. 1:2**: *"But in the Law of the Lord is his delight."* **Rom. 7:22** — *"For I delight in the Law of God according to the inward man."* **Ps. 119:105** — *"Thy Word is a lamp unto my feet, and a light unto my paths."* And finally, **that it may admonish the regenerate of the remaining infirmities, and deter them from security and other sins**.
+**Thirdly**, [*[Luther: Postilla Ecclesiastica in Epist. dei Circumc.; Dom. III Trinit. in Evang.; Postilla Domestica Dom. 3, 4 Adventus; Epiphan. 13 Trinit.; T. 3, p. 407; T. 7, p. 264; T. 4/2, p. 526*]*] **that it may show to the regenerate and faithful, what works please God, and how they ought to conform their whole life to the will of God** — **Ps. 1:2**: *"But his delight is in the Law of the Lord."* **Rom. 7:22** — *"For I delight in the Law of God according to the inward man."* **Ps. 119:105** — *"Thy Word is a lamp unto my feet, and a light unto my paths."* And finally, **that it may admonish the regenerate of the remaining infirmities, and deter them from security and other sins**.
 
 — ❦ —
 
@@ -4714,7 +4714,7 @@ For since **we could not satisfy for our sins and exhibit the righteousness of t
 
 It behoved this to be done thus:
 
-**I.** For **a mere and naked creature could expiate no sins, nor satisfy for them, nor acquire for men a righteousness prevailing before God** — **Ps. 49:8–9**: *"A brother by redeeming cannot redeem any man, nor give unto God a ransom for him: for precious is the redemption of their soul, that anyone should live for ever."*
+**I.** For **a mere and naked creature could expiate no sins, nor satisfy for them, nor acquire for men a righteousness prevailing before God** — **Ps. 49:7–9**: *"None of them can by any means redeem his brother, nor give to God a ransom for him: for the redemption of their souls is costly, that he should continue to live eternally."*
 
 **II.** Also **a mere and naked creature could not distribute and apply to sinners the satisfaction exhibited and the righteousness acquired, nor guard and preserve them therein against the temptations of sin and the tyranny of the Devil**. It behoved therefore that **the Mediator, who ought to acquire, distribute, and preserve these things, should be God and Man in one indissoluble person**.
 
@@ -4786,7 +4786,7 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 **But to whom will God give this highest grace and mercy?**
 
-**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Ezek. 33:11** — *"As I live, saith the Lord God, I will not the death of the impious, but that the impious be converted from his way and live."* **Ps. 22:26** — *"The poor shall eat, and shall be satisfied."* **Isa. 55[:1]** — *"All ye that thirst, come to the waters, and ye that have no silver, hasten, buy and eat; come, buy without silver and without any exchange wine and milk."*
+**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Ezek. 33:11** — *"As I live, saith the Lord God, I will not the death of the impious, but that the impious be converted from his way and live."* **Ps. 22:26** — *"The poor shall eat and be satisfied."* **Isa. 55[:1]** — *"All ye that thirst, come to the waters, and ye that have no silver, hasten, buy and eat; come, buy without silver and without any exchange wine and milk."*
 
 — ❦ —
 
@@ -5748,7 +5748,7 @@ But whereas **impious and profane men abuse this article — as also others — 
 
 **But how can and ought the pious and faithful conscience — labouring under most grievous temptations concerning predestination — to raise itself up and console itself?** [*[Luther: T. 3, p. 263 f. b; T. 5, pp. 486, 487; T. 2/1, pp. 56, 57*]*]
 
-**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth shall pass away, but his own words shall not pass away"* — **Luke 21:33**. *"The bruised reed he shall not break, and the smoking flax he shall not extinguish"* — **Isa. 42:3**. *"A contrite and humbled heart he shall not despise"* — **Ps. 51:19**.
+**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth shall pass away, but his own words shall not pass away"* — **Luke 21:33**. *"The bruised reed he shall not break, and the smoking flax he shall not extinguish"* — **Isa. 42:3**. *"a broken and a contrite heart — these, O God, You will not despise"* — **Ps. 51:17**.
 
 Since therefore **thou hast such a contrite and humbled heart, be certain that he himself will be present with thee in this most grievous temptation, will console thee, and out of it will deliver thee**.
 
@@ -6442,7 +6442,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 **Who is to be invoked and adored?**
 
-**GOD himself — as he hath made himself manifest in his own word — namely, God the Father, Son, and Holy Spirit** — **Ps. 50:15**: *"Invoke me in the day of tribulation."*
+**GOD himself — as he hath made himself manifest in his own word — namely, God the Father, Son, and Holy Spirit** — **Ps. 50:15**: *"Call upon Me in the day of trouble."*
 
 **The Ethnics also themselves think that they invoke God**, but since **they have no certain word of God, they invoke a figment of the heart and not the true God** [*[Gen. 13, T. 2, p. 29*]*]. For **GOD outside his own word neither can rightly be known, nor invoked**.
 
@@ -9004,7 +9004,7 @@ And this saying in general concerning the Church speaketh — which is a company
 
 **I.** **His ineffable and inexhausted mercy** — according to which he willed not the whole human race to perish — **Ezek. 18:32**: *"I will not the death of the sinner, saith the Lord God, but return ye and live."* For **unless God out of mere mercy had regarded man, and by the preaching of the Word and the Sacraments recalled him to penitence and life, he would have perished eternally**. For **the wages of sin is death with all men — Rom. 6:23**.
 
-**Then, the intercession and precious merit of Jesus Christ** — **Ps. 2:8**: *"Ask of me, and I will give thee the nations for thine inheritance, and thy possession the ends of the earth."* **Rom. 3:25**: *"Whom God set forth as a propitiation by His blood, through faith,"* etc. **For outside Christ no man can be saved or made accepted to God.**
+**Then, the intercession and precious merit of Jesus Christ** — **Ps. 2:8**: *"Ask of Me, and I will give You the nations for Your inheritance, and the ends of the earth for Your possession."* **Rom. 3:25**: *"Whom God set forth as a propitiation by His blood, through faith,"* etc. **For outside Christ no man can be saved or made accepted to God.**
 
 — ❦ —
 
@@ -10542,7 +10542,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Where is that contrition felt?**
 
-**In the heart or soul and Spirit, Ps. 51:19**: *"A contrite and humbled heart, O God, thou wilt not despise."* **Ps. 6:4**: *"And my soul is troubled exceedingly."* **For where he grieveth, that part the Lord toucheth, Joel 2:12–13.** [*[Tom. 4, p. 774*]*]
+**In the heart or soul and Spirit, Ps. 51:17**: *"a broken and a contrite heart — these, O God, You will not despise."* **Ps. 6:3**: *"My soul also is greatly troubled."* **For where he grieveth, that part the Lord toucheth, Joel 2:12–13.** [*[Tom. 4, p. 774*]*]
 
 — ❦ —
 
@@ -10718,7 +10718,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **First: good works or new obedience — which comprehendeth the firstfruits of a new life toward God and neighbour: Item, the firstfruits of the crucifixion of the flesh with concupiscence and its desires, Rom. 6, 7, 8, Gal. Hither pertaineth what John saith**: *"Bring forth fruit worthy of penitence, Matt. 3."*
 
-**Then, from penitence this commodity also accedeth, that the regenerate and converted are rendered a temple and habitation of God, Isa. 57:15**: *"For thus saith the High One, dwelling in the sanctuary, and with the contrite and humble in Spirit — that he may quicken the Spirit of the humble, and quicken the heart of the contrite."* **Ps. 34:19**: *"Nigh is the Lord to those who are troubled in heart, and the humble in Spirit he shall save."*
+**Then, from penitence this commodity also accedeth, that the regenerate and converted are rendered a temple and habitation of God, Isa. 57:15**: *"For thus saith the High One, dwelling in the sanctuary, and with the contrite and humble in Spirit — that he may quicken the Spirit of the humble, and quicken the heart of the contrite."* **Ps. 34:18**: *"The Lord is near to those who have a broken heart, and saves such as have a contrite spirit."*
 
 **Thirdly: It obtaineth also the mitigation of corporal penalties, Jer. 8**: *"If that nation shall have done penitence from its evil, I also shall do penitence upon the evil which I have thought that I would do to it."* **1 Cor. 11:31**: *"For if we ourselves judged ourselves, we should not indeed be judged."*
 
@@ -12964,7 +12964,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Doth man die soul and body together?**
 
-**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"The breath of life was breathed by God into the face of man."* **Eccles. 12:7**: *"Let the spirit return unto God, who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:6**: *"Into thy hands I commend my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
+**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"The breath of life was breathed by God into the face of man."* **Eccles. 12:7**: *"Let the spirit return unto God, who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:5**: *"Into Your hand I commit my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
 
 ### Objection. **But God, Gen. 2, threatened death to the whole man, if he should sin?**
 
@@ -13432,7 +13432,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is this last judgement also certain to come?**
 
-**Respondeo**: **Most certainly: For Christ, who is Truth, hath foretold it, Matt. 25, and its process almost entirely hath described: The same the Apostles also have taught, Acts 10:42**: *"Because he is that one, who was appointed by God judge of the living and the dead."* **Rom. 2:5**: *"[You] are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God."* **And 2 Cor. 5:10**: *"For all we must be manifested before the tribunal of Christ."* **And this day of judgement was also in the Old Testament announced, Gen. 4:7, Isa. 66:15**: *"For behold the Lord shall come in fire, and as a whirlwind his chariots, to render in indignation his fury, and his rebuke in flame of fire,"* &c. **Ps. 9:9 [Vg. 6:9]**: *"He hath prepared his throne in judgement, and he shall judge the world of the earth in equity."*
+**Respondeo**: **Most certainly: For Christ, who is Truth, hath foretold it, Matt. 25, and its process almost entirely hath described: The same the Apostles also have taught, Acts 10:42**: *"Because he is that one, who was appointed by God judge of the living and the dead."* **Rom. 2:5**: *"[You] are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God."* **And 2 Cor. 5:10**: *"For all we must be manifested before the tribunal of Christ."* **And this day of judgement was also in the Old Testament announced, Gen. 4:7, Isa. 66:15**: *"For behold the Lord shall come in fire, and as a whirlwind his chariots, to render in indignation his fury, and his rebuke in flame of fire,"* &c. **Ps. 9:7–8**: *"He has prepared His throne for judgment; He shall judge the world in righteousness."*
 
 — ❦ —
 
@@ -13560,7 +13560,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**: **There are many, who of this doubt, more consider whatever of hell is said to be a fable. But that there is a hell, is testified**:
 
-**I. By the Scripture of the Old Testament. For Num. 16:33**: *"And they went down alive into hell."* **Deut. 32:22**: *"A fire is kindled in my fury, and shall burn even unto the lowest hell."* **Ps. 16:10**: *"For thou wilt not leave my soul in hell."* **Ps. 49:15**: *"As sheep they are placed in hell, death shall feed on them."* **Isa. 30:33**: *"For Tophet is prepared from yesterday, prepared by the king, deep and enlarged: its nourishment is fire and much wood: the breath of the Lord as a torrent of sulphur kindling it."*
+**I. By the Scripture of the Old Testament. For Num. 16:33**: *"And they went down alive into hell."* **Deut. 32:22**: *"A fire is kindled in my fury, and shall burn even unto the lowest hell."* **Ps. 16:10**: *"For You will not leave my soul in Sheol."* **Ps. 49:14**: *"Like sheep they are laid in the grave; Death shall feed on them."* **Isa. 30:33**: *"For Tophet is prepared from yesterday, prepared by the king, deep and enlarged: its nourishment is fire and much wood: the breath of the Lord as a torrent of sulphur kindling it."*
 
 **II. By the Scripture of the New Testament, as Luke 16, the rich Epulo in hell is tormented in flame. Matt. 25:41**: *"Depart into eternal fire."* [*[Post. Eccle Dom. 16 Trinit.]*] **John the Baptist also of hell preacheth, Matt. 3:10**: *"For now the axe is laid at the root of the trees: therefore every tree, that maketh not good fruit, is hewn down, and cast into the fire."* **And Paul, 2 Thess. 1:8–9**: *"In a flame of fire giving vengeance to those, who have not known God, and who obey not the Gospel of our Lord Jesus Christ, who shall pay penalties, in eternal destruction from the face of the Lord, and from the glory of his power."*
 
