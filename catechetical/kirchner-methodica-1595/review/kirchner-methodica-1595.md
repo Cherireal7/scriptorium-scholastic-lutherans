@@ -178,7 +178,7 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 
 **Gen. 3:15** — *"I will put enmities between thee and the woman, and between thy seed and her seed; she [or: he] shall crush thy head, and thou shalt lie in wait for her heel."*
 
-**Acts 10:43** — *"To him [Jesus] all the Prophets bear witness, that all who believe in him shall receive remission of sins through his name."*
+**Acts 10:43** — *"To Him all the prophets witness that, through His name, whoever believes in Him will receive remission of sins."*
 
 **Rom. 4:3** — *"For what does the Scripture say? Abraham believed God, and it was accounted to him for righteousness."*
 
@@ -1304,7 +1304,7 @@ For example: ***"The flesh of Christ is vivifying, is to be adored,"*** etc. In 
 
 ### Objection II. But the Divinity cannot suffer?
 
-**This is true.** But since the Divinity and Humanity, or the divine and human nature in Christ are one and undivided Person, on account of this personal union, Scripture also attributes to the Divinity those things which happened to the assumed human nature in the time of humiliation. Although the Divinity does not suffer, that Person which is God suffers in his assumed humanity or in the flesh. For otherwise, if only the humanity had suffered for us, the passion of this Person would not have been a ***sufficient ἀντίλυτρον*** for the sins of the whole world. Whence Scripture at **Acts 20:28** says that ***God acquired the Church with his own blood***.
+**This is true.** But since the Divinity and Humanity, or the divine and human nature in Christ are one and undivided Person, on account of this personal union, Scripture also attributes to the Divinity those things which happened to the assumed human nature in the time of humiliation. Although the Divinity does not suffer, that Person which is God suffers in his assumed humanity or in the flesh. For otherwise, if only the humanity had suffered for us, the passion of this Person would not have been a ***sufficient ἀντίλυτρον*** for the sins of the whole world. Whence Scripture at **Acts 20:28** says that ***God purchased the church with His own blood***.
 
 ### Objection III. Does not Christ's Divinity therefore suffer no otherwise, when Christ suffers, than as God suffers in his saints — they being subjected to torments and death?
 
@@ -1414,7 +1414,7 @@ The Sacramentarian allegory, following the Zwinglian tradition, leaves to Christ
 
 **Prove Christ is our Mediator according to both natures.**
 
-**Acts 20:28** — *"That God has redeemed the Church through his own blood."*
+**Acts 20:28** — *"the church of God which He purchased with His own blood."*
 
 **Heb. 4:14** — *"We have a great High Priest that hath penetrated the heavens — Jesus the Son of God."*
 
@@ -1742,7 +1742,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **III.** Besides, Christ according to his divinity ***is himself the right hand of God*** — **Isa. 53:1** — *"Who has believed our report? And to whom has the arm of the Lord been revealed?"* It cannot therefore be said that according to that he was raised to the right hand of God; and so of the human nature is this exaltation to be understood.
 
-**IV.** This same thing Scripture demonstrates when at **Acts 2:36** it says: *"Let all the house of Israel therefore know most certainly, that God hath made both Lord and Christ this Jesus whom you have crucified."* Item, that ***this Christ, who was raised from the dead, has been exalted to the right hand of God***. By these words Scripture as with pointed finger indicates the ***human nature of Christ***.
+**IV.** This same thing Scripture demonstrates when at **Acts 2:36** it says: *"Therefore let all the house of Israel know assuredly that God has made this Jesus, whom you crucified, both Lord and Christ."* Item, that ***this Christ, who was raised from the dead, has been exalted to the right hand of God***. By these words Scripture as with pointed finger indicates the ***human nature of Christ***.
 
 **V.** And thus also the ancient orthodox Church has declared this article — namely, that Christ has been exalted to the right hand of God ***according to the human nature***. **Athanasius** in **Theodoret**: *"It is the body to which the Lord says: Sit at my right hand."* **Ambrose on Heb. 1**: *"‘Sit at my right hand’ pertains to the exaltation of the human nature."* The same doctrine also **Cyprian, Chrysostom, and other Fathers** teach.
 
@@ -1770,7 +1770,7 @@ That by these formulas of speaking ***no fixed and circumscribed place in the he
 
 ### Objection III. But Scripture itself says that Christ ***shall come from heaven to judgement***?
 
-**Respondeo**: **Most true — provided it be rightly received and explained.** At **Acts 1:11** the explication is added: *"So shall he come, as you have seen him going into heaven."* ***Visibly*** therefore shall he come to judgement — ***while presently, sitting at the right hand of God, he invisibly fills all things*** (**Eph. 4:10**), is present to his Church (**Matt. 18:20**), and reigns in the midst of his enemies (**Ps. 110:2**).
+**Respondeo**: **Most true — provided it be rightly received and explained.** At **Acts 1:11** the explication is added: *"This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."* ***Visibly*** therefore shall he come to judgement — ***while presently, sitting at the right hand of God, he invisibly fills all things*** (**Eph. 4:10**), is present to his Church (**Matt. 18:20**), and reigns in the midst of his enemies (**Ps. 110:2**).
 
 — ❦ —
 
@@ -1844,7 +1844,7 @@ Hither let there also be referred the **examples of all sinners who, for Christ'
 
 **Not to another than to thee — a penitent sinner — do these pertain; nor for others than for thee, if thou doest penance, are they procured.** For the **holy Angels have no need of these**; the ***devils do not seek them***; therefore ***to thee*** they have been merited by Christ — **Rom. 3, 4, 5**; ***to thee*** they have been promised — **Matt. 9, 11; John 3:16**: *"whoever believes in Him should not perish but have everlasting life"* — **1 Tim. 1:15**: *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
 
-Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Do penance, and be baptised every one of you in the name of Jesus Christ, for the remission of your sins."* **Mark 16:16** — *"He that believeth and is baptised, shall be saved."* Unto this same in the sacred Supper, with the body and blood of Christ (delivered and shed for thee on the altar of the cross) thou hast been ***fed and given to drink***. Unto this same thou hast been ***sealed with the Spirit of adoption*** — **Rom. 8:16** — who ***gives testimony to thy spirit that thou art a son***, and who ***also for thee makes intercession with unspeakable groanings***. And ***Christ himself is for thee***, lest thou be condemned — **Rom. 8:34**: *"Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."*
+Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Mark 16:16** — *"He that believeth and is baptised, shall be saved."* Unto this same in the sacred Supper, with the body and blood of Christ (delivered and shed for thee on the altar of the cross) thou hast been ***fed and given to drink***. Unto this same thou hast been ***sealed with the Spirit of adoption*** — **Rom. 8:16** — who ***gives testimony to thy spirit that thou art a son***, and who ***also for thee makes intercession with unspeakable groanings***. And ***Christ himself is for thee***, lest thou be condemned — **Rom. 8:34**: *"Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."*
 
 — ❦ —
 
@@ -2258,7 +2258,7 @@ These works and benefices of the Holy Spirit let the pious and faithful always c
 
 **Through what means is the Holy Spirit given?**
 
-**Through the ministry of Word and Sacraments.** **Isa. 59:21** — *"This is My covenant with them, says the Lord: My Spirit who is upon you, and My words which I have put in your mouth, shall not depart from your mouth, nor from the mouth of your descendants, nor from the mouth of your descendants' descendants, from this time and forevermore."* **Acts 2:38** — *"Do penance, and be baptised every one of you in the name of Jesus Christ, for the remission of your sins: and you shall receive the gift of the Holy Spirit."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit."*
+**Through the ministry of Word and Sacraments.** **Isa. 59:21** — *"This is My covenant with them, says the Lord: My Spirit who is upon you, and My words which I have put in your mouth, shall not depart from your mouth, nor from the mouth of your descendants, nor from the mouth of your descendants' descendants, from this time and forevermore."* **Acts 2:38** — *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit."*
 
 All men, therefore, let them join themselves to the ministry of Word and Sacraments: for through this, as through a means ordained by God himself in this order, ***the Holy Spirit is certainly given***.
 
@@ -2438,7 +2438,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **XI.** The ***Ophians***, who said that ***worlds are innumerable***. The same felt the ***Epicureans***. ***Origen*** also in ***De Principiis***, lib. 3, is of this opinion — that besides this ***visible and conspicuous*** world, there is yet another ***also created by God before this***, etc. But at **Gen. 1** it is expressly said that ***God created heaven and earth***, and there was no world before, ***either visible or invisible***. Nor then did God make many worlds. Rather, as there is ***one*** God, so also there is only ***one*** world. And if there were more, ***the Holy Spirit in Scripture would without doubt have signified this***.
 
-**XII.** The ***Epicureans***, who deny that God ***cares for created things***, etc. This error, or rather fury, is refuted at **Acts 17:28**: *"In him we live, and move, and are."* **Ps. 104:27** — *"These all wait for You, that You may give them their food in due season."* **Ps. 147:8** — *"Who covers the heavens with clouds, who prepares rain for the earth,"* etc. Nor does their argument avail: ***"Often it goes well with the evil,"*** etc. *Ergo* [God does not care].
+**XII.** The ***Epicureans***, who deny that God ***cares for created things***, etc. This error, or rather fury, is refuted at **Acts 17:28**: *"in Him we live and move and have our being."* **Ps. 104:27** — *"These all wait for You, that You may give them their food in due season."* **Ps. 147:8** — *"Who covers the heavens with clouds, who prepares rain for the earth,"* etc. Nor does their argument avail: ***"Often it goes well with the evil,"*** etc. *Ergo* [God does not care].
 
 **XIII.** Contrariwise the ***Stoics and Platonists***, who felt that ***the world is God***, and has ***soul and mind***. And most of the ancients called the ***Sun the mind of the world***, as **Cicero and Pliny**, following Homer.
 
@@ -2450,7 +2450,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **Whence is it clear that God takes care of all?**
 
-**I. From the order of nature, or ordered works of nature.** **Acts 17:28** — *"In him we live, and move, and are."* **Acts 14:16–17** — *"And yet he left not himself without testimony, doing good, giving rains from heaven and fruitful seasons, filling our hearts with food and gladness."* **Ps. 104:27–30** — *"All expect of thee that thou give them food in season. What thou givest to them they shall gather up: when thou openest thy hand, they shall all be filled with good. But if thou turnest away thy face, they shall be troubled: thou shalt take away their breath, and they shall fail, and shall return to their dust. Thou shalt send forth thy spirit, and they shall be created: and thou shalt renew the face of the earth."*
+**I. From the order of nature, or ordered works of nature.** **Acts 17:28** — *"in Him we live and move and have our being."* **Acts 14:16–17** — *"He allowed all nations to walk in their own ways. Nevertheless He did not leave Himself without witness, in that He did good, gave us rain from heaven and fruitful seasons, filling our hearts with food and gladness."* **Ps. 104:27–30** — *"All expect of thee that thou give them food in season. What thou givest to them they shall gather up: when thou openest thy hand, they shall all be filled with good. But if thou turnest away thy face, they shall be troubled: thou shalt take away their breath, and they shall fail, and shall return to their dust. Thou shalt send forth thy spirit, and they shall be created: and thou shalt renew the face of the earth."*
 
 **II. From the miracles which God has performed, both in the Old and in the New Testament.**
 
@@ -3132,7 +3132,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **Is conversion of man a mere work of God?**
 
-**Most certainly.** [*Luther: T. 2, p. 311; T. 3, part 1, p. 210*] For this work can be attributed ***neither in whole, nor in half, nor in any least part*** to human natural and unregenerate powers of free will; but is to be ascribed ***wholly to divine operation and to the Holy Spirit***. **Ezek. 36:26** — *"And I will give you a new heart, and put a new spirit within you: and I will take away the stony heart out of your flesh, and will give you a heart of flesh,"* etc. **Acts 16:14** — *"And the Lord opened Lydia's heart to attend to those things which were said by Paul."*
+**Most certainly.** [*Luther: T. 2, p. 311; T. 3, part 1, p. 210*] For this work can be attributed ***neither in whole, nor in half, nor in any least part*** to human natural and unregenerate powers of free will; but is to be ascribed ***wholly to divine operation and to the Holy Spirit***. **Ezek. 36:26** — *"And I will give you a new heart, and put a new spirit within you: and I will take away the stony heart out of your flesh, and will give you a heart of flesh,"* etc. **Acts 16:14** — *"The Lord opened her heart to heed the things spoken by Paul."*
 
 — ❦ —
 
@@ -4662,7 +4662,7 @@ The word itself is *per se* **forensic and judicial** — as **Exod. 23:8**: *"T
 
 He would have cause enough to condemn us, since we are sinners, and **death is the wage of sin** — **Rom. 6:23**. But **he has mercy of us**. And since his own Son sponsored for us and paid, **he absolves us from sins, and imputes Christ's righteousness to us, on account of which he can lawfully absolve us — whom otherwise it had behoved to condemn and destine to death**.
 
-So this word is used **Rom. 8:33–34**: *"Who shall bring a charge against God's elect? It is God who justifies. Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."* In the same manner it is used, **Isa. 53:11**: *"By His knowledge My righteous Servant shall justify many."* **Acts 13:38** — *"That through this man is announced to you remission of sins from all things, from which ye could not in the Law of Moses be justified; in him every one that believes is justified."*
+So this word is used **Rom. 8:33–34**: *"Who shall bring a charge against God's elect? It is God who justifies. Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."* In the same manner it is used, **Isa. 53:11**: *"By His knowledge My righteous Servant shall justify many."* **Acts 13:38–39** — *"through this Man is preached to you the forgiveness of sins; and by Him everyone who believes is justified from all things from which you could not be justified by the law of Moses."*
 
 This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p. 45 fine; T. 4/1, p. 607; Gen. 27, T. 3, p. 67; T. 3, pp. 106, 107, 146*]*] also confirms the forms of speaking, when justification is described, that it is **remission of sins and covering of sins** — **Rom. 4:7; Ps. 32; Ps. 51:1, 2, 5** — item when it is called **imputation of the righteousness of Christ** — **Rom. 4, 5**. Hither also pertains and makes the word *impute*: **Rom. 4:5** — *"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* Which plainly *ex diametro* is opposed to our works and our merit, and wills nothing else than that **we wretched sinners are justified on account of the merit, obedience, and righteousness of Christ, which he himself merited, and not on account of our own merits or works; and that God the Father imputes all these things to us, as though we ourselves had suffered and performed all which Christ Jesus his only-begotten Son suffered and performed for us**. In this manner therefore **our works are plainly removed and excluded from the article of justification**, so that neither in form, nor in part, nor in cause of our righteousness before God are they; nor by any pretext or name are they drawn into the article of our justification before God as pertaining to it or necessary.
 
@@ -4968,7 +4968,7 @@ But **here the hinge turneth, and this is the status of the controversy**: namel
 
 **VII.** Without doubt **that doctrine is false, which spoileth Christ of his due honour, and leaveth perturbed consciences in doubts**. But **this doeth the doctrine of the Papists in this article**. Therefore **also without doubt it is false**.
 
-**VIII.** **All the Prophets bear testimony to our doctrine of justification** — **Acts 10:43**: *"To him all the Prophets bear witness, that all who believe in him receive remission of sins through his name."* Therefore **it must in no wise be doubted that it is solid and certain**.
+**VIII.** **All the Prophets bear testimony to our doctrine of justification** — **Acts 10:43**: *"To Him all the prophets witness that, through His name, whoever believes in Him will receive remission of sins."* Therefore **it must in no wise be doubted that it is solid and certain**.
 
 **IX.** **The calling of the Gentiles into the kingdom of Christ also confirmeth our doctrine.** For **these, without any works, and without any merit from God, only on account of Christ through faith, were received into grace, justified, and saved** — **Acts 10, 13, 15**.
 
@@ -5202,7 +5202,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **But by what means is faith given?** [*[Luther: T. 5, p. 15*]*]
 
-**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"by the hearing of faith."* **Rom. 10:17**: *"So then faith comes by hearing."* **Acts 2:38**: *"Do penitence, and let each of you be baptized in the name of Jesus Christ unto the remission of your sins, and ye shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the laver of regeneration and renovation of the Holy Spirit."*
+**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"by the hearing of faith."* **Rom. 10:17**: *"So then faith comes by hearing."* **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the laver of regeneration and renovation of the Holy Spirit."*
 
 — ❦ —
 
@@ -5210,7 +5210,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **But where is faith kindled in man?**
 
-**In the heart.** **Rom. 10:10**: *"with the heart one believes unto righteousness."* **Acts 15:9**: *"faith purifying their hearts."*
+**In the heart.** **Rom. 10:10**: *"with the heart one believes unto righteousness."* **Acts 15:9**: *"purifying their hearts by faith."*
 
 — ❦ —
 
@@ -5220,7 +5220,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **True faith is founded and rooted in Christ alone, and in his most precious merit and most holy obedience.** For when **faith dealeth with God concerning remission of sins, and desireth to know what is the mind and what is the disposition of God toward it**, **it can look upon nothing, nor lean and sustain itself upon anything else, than the death and blood of Christ, or the gratuitous promise of God in the Gospel offered on account of Christ**. For upon **the preaching of the Law and its own works it cannot lean, since the Law denounceth nothing but the wrath of God, and our works are plainly unclean and imperfect** — for **far, nay most far off it is, that we should have loved God from the whole heart, and our neighbour as ourselves**.
 
-Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth as a propitiation by His blood, through faith."* **Acts 10:42–43**: *"To him bear all the Prophets testimony."*
+Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth as a propitiation by His blood, through faith."* **Acts 10:43**: *"To Him all the prophets witness."*
 
 — ❦ —
 
@@ -5402,7 +5402,7 @@ Here therefore in this article the question is not, whether works are exclusivel
 
 **Are all men therefore justified by one and the same way?** [*[Luther: T. 4, p. 25 f. b*]*]
 
-**Very much so.** For **Adam had the same faith in Christ, which we also have** — **Acts 15:11**: *"Through the grace of the Lord Jesus Christ we believe to be saved, in like manner as they."* This much only is the difference, that **he was justified through faith in the Messiah to come, we through faith in the Messiah who now is come**.
+**Very much so.** For **Adam had the same faith in Christ, which we also have** — **Acts 15:11**: *"We believe that through the grace of the Lord Jesus Christ we shall be saved in the same manner as they."* This much only is the difference, that **he was justified through faith in the Messiah to come, we through faith in the Messiah who now is come**.
 
 — ❦ —
 
@@ -5924,7 +5924,7 @@ By these therefore so many immoveable sayings of Scripture, **no man before GOD 
 
 **This doctrine must be held incorrupt in the Church** — and necessary it is, for these reasons:
 
-**1.** **Lest Christ be spoiled of his due honour.** For **he alone it is, on account of whose merit and satisfaction we are justified and saved** — **Acts 4:12**: *"There is not in any other salvation."*
+**1.** **Lest Christ be spoiled of his due honour.** For **he alone it is, on account of whose merit and satisfaction we are justified and saved** — **Acts 4:12**: *"Nor is there salvation in any other."*
 
 **2.** That **the promise may be firm to the faithful, and the consolation of the conscience unmoved** — which **is wholly weakened and torn, if it be built that good works are necessary to salvation**.
 
@@ -7016,7 +7016,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **That which was prescribed by Christ, Matt. 28:19**: *"Go teach all nations: baptizing them in the name of the Father, and of the Son, and of the Holy Spirit."*
 
-**The Element is water**, which needeth no consecration, as the Papists dream. Concerning consecration **no word or mandate of Christ or of the Apostles exists in the sacred letters**. **Acts 8:38 — the Eunuch is baptized in the passing water, without any preceding consecration.**
+**The Element is water**, which needeth no consecration, as the Papists dream. Concerning consecration **no word or mandate of Christ or of the Apostles exists in the sacred letters**. **Acts 8:38 — Philip and the eunuch went down into the water, and he baptized him, without any preceding consecration.**
 
 — ❦ —
 
@@ -7108,7 +7108,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **What doth Baptism work?** [*[T. 7, pp. 404, 405; T. 3, p. 543 f. b; T. 3/1, p. 80*]*]
 
-**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved."* **Acts 2:38**: *"Let each of you be baptized in the name of Jesus Christ unto the remission of your sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
+**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved."* **Acts 2:38**: *"let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
 
 — ❦ —
 
@@ -8844,7 +8844,7 @@ And **the blasphemies indeed of the Papists are sufficiently palpable and easily
 
 **What signifieth the word "Ecclesia"?** [*[T. 4, p. 412*]*]
 
-**Properly it signifieth an assembly convoked, or a body convoked** — **Acts 19:38**: *"When he had said these things, he dismissed the assembly."* **The vulgar taketh it of the temple or building — but it signifieth the congress or communion of the Saints, of the faithful Christians.**
+**Properly it signifieth an assembly convoked, or a body convoked** — **Acts 19:38–41**: *"the courts are open and there are proconsuls... when he had said these things, he dismissed the assembly."* **The vulgar taketh it of the temple or building — but it signifieth the congress or communion of the Saints, of the faithful Christians.**
 
 — ❦ —
 
@@ -8876,7 +8876,7 @@ And **the blasphemies indeed of the Papists are sufficiently palpable and easily
 
 **Why is she called *Catholic*?** [*[T. 7, p. 171*]*]
 
-**Catholic is the same as *universal Church*.** **So the Church is called, because through the whole world she is dispersed here and there, and is not bound to any certain place, region, or person**. **In every place of the whole world in which there are men sincerely believing in Christ, they are members of this Church of him** — **Acts 10:34**: *"In truth I have found, because God is not an accepter of persons, but in every nation, he that feareth him, and worketh righteousness, is accepted to him."* **Rom. 10:12**: *"For there is no distinction between Jew and Greek, for the same Lord over all is rich to all who call upon Him."*
+**Catholic is the same as *universal Church*.** **So the Church is called, because through the whole world she is dispersed here and there, and is not bound to any certain place, region, or person**. **In every place of the whole world in which there are men sincerely believing in Christ, they are members of this Church of him** — **Acts 10:34–35**: *"In truth I perceive that God shows no partiality. But in every nation whoever fears Him and works righteousness is accepted by Him."* **Rom. 10:12**: *"For there is no distinction between Jew and Greek, for the same Lord over all is rich to all who call upon Him."*
 
 — ❦ —
 
@@ -9650,7 +9650,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 **Can there be separation from the Church without peril?**
 
-**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Save yourselves from this depraved generation."* **1 Cor. 10:14**: *"flee from idolatry."* **2 Cor. 6:17**: *"Go ye out from the midst of them, and separate."* **Apoc. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
+**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Be saved from this perverse generation."* **1 Cor. 10:14**: *"flee from idolatry."* **2 Cor. 6:17**: *"Go ye out from the midst of them, and separate."* **Apoc. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
 
 — ❦ —
 
@@ -11076,7 +11076,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-### Objection IV. **Acts 19:18 it is said**: *"Many indeed of the believing came, and confessing, and announcing their acts,"* etc. ***Ergo,*** etc.
+### Objection IV. **Acts 19:18 it is said**: *"And many who had believed came confessing and telling their deeds,"* etc. ***Ergo,*** etc.
 
 **Respondeo**: **Luke there treateth not of Papist confession, which then was not in the nature of things, but of the general confession of believers, who confessed that they had done evil, following curious things and studying magic. Nor doth he say, that they enumerated all their sins specifically and according to all circumstances — but that in general they confessed and publicly professed, that they had done evil. Just as also Augustine wrote books of Confessions.**
 
@@ -13134,7 +13134,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **When shall this be?**
 
-**Respondeo**: **Scripture determineth no certain time, hour, day, or year, when this ought to be done, but this to God leaveth, Matt. 24:36**: *"But of the day and the hour no man knoweth, neither the Angels of the heavens, but the Father alone."* **Acts 1:7**: *"It is not yours to know the times or the moments, which the Father hath set in his own power."* **1 Thess. 5:1–2**: *"But concerning the times and moments, brethren, ye need not that we write to you: for yourselves diligently know, that the day of the Lord as a thief in the night, so shall come."*
+**Respondeo**: **Scripture determineth no certain time, hour, day, or year, when this ought to be done, but this to God leaveth, Matt. 24:36**: *"But of the day and the hour no man knoweth, neither the Angels of the heavens, but the Father alone."* **Acts 1:7**: *"It is not for you to know times or seasons which the Father has put in His own authority."* **1 Thess. 5:1–2**: *"But concerning the times and moments, brethren, ye need not that we write to you: for yourselves diligently know, that the day of the Lord as a thief in the night, so shall come."*
 
 — ❦ —
 
