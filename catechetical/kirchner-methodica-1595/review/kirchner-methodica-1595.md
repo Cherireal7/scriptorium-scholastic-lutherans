@@ -742,7 +742,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 ### Objection III. The Trinity is distinguished not by Persons, but by the names of ***offices***. In heaven he is called ***Father***; on earth, ***Son***; in the powers of creatures, ***Holy Spirit***. *Ergo* there is only one Person of the Deity.
 
-**Respondeo**: **It is false that the Trinity is distinguished only by names of offices.** For Scripture openly names three Persons — **Father**, ***λόγον***, and **Holy Spirit**. **1 John 5:7** — *"Three there are who bear witness in heaven — the Father, the Word, and the Holy Spirit; and these three are one."* And by name she distinguishes between the Father and the Son. **John 3:16** — *"For God so loved the world that He gave His only begotten Son."* And **Gal. 4:4** — *"But when the fullness of the time had come, God sent forth His Son,"* etc.
+**Respondeo**: **It is false that the Trinity is distinguished only by names of offices.** For Scripture openly names three Persons — **Father**, ***λόγον***, and **Holy Spirit**. **1 John 5:7** — *"For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one."* And by name she distinguishes between the Father and the Son. **John 3:16** — *"For God so loved the world that He gave His only begotten Son."* And **Gal. 4:4** — *"But when the fullness of the time had come, God sent forth His Son,"* etc.
 
 ### Objection IV. If the Persons of the Divinity are really distinguished, they will not be one in essence, and the Trinity will not be unity.
 
@@ -832,7 +832,7 @@ So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord
 
 **John 1:1–3** — *"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through Him, and without Him nothing was made that was made."* [*Luther: T. 6, pp. 543, 544; T. 4, part 1, p. 12*]
 
-**1 John 5:20** — *"And we know that the Son of God is come, and hath given us understanding, that we may know the true God, and may be in his true Son. This is the true God, and life eternal."*
+**1 John 5:20** — *"And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life."*
 
 **John 5:17** — *"My Father has been working until now, and I have been working."*
 
@@ -1824,7 +1824,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **Is Christ dead for all men and sinners?**
 
-**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just: and he is the propitiation for our sins; not for ours only, but also for those of the whole world."* **Gal. 3:22** — *"But the Scripture has confined all under sin, that the promise by faith in Jesus Christ might be given to those who believe."* **Rom. 11:32** — *"For God has committed them all to disobedience, that He might have mercy on all."* **Isa. 53:6** — *"the Lord has laid on Him the iniquity of us all."*
+**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous. And He Himself is the propitiation for our sins, and not for ours only but also for the whole world."* **Gal. 3:22** — *"But the Scripture has confined all under sin, that the promise by faith in Jesus Christ might be given to those who believe."* **Rom. 11:32** — *"For God has committed them all to disobedience, that He might have mercy on all."* **Isa. 53:6** — *"the Lord has laid on Him the iniquity of us all."*
 
 — ❦ —
 
@@ -1854,7 +1854,7 @@ Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Re
 
 **Respondeo**:
 
-**I.** They teach that ***Christ by his passion satisfied only for original sin and for actual sins preceding baptism*** — although the Apostle **1 John 2** clearly writes that Christ ***satisfied also for the sins of the regenerate or faithful***: *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just. And he is the propitiation for our sins."*
+**I.** They teach that ***Christ by his passion satisfied only for original sin and for actual sins preceding baptism*** — although the Apostle **1 John 2:1–2** clearly writes that Christ ***satisfied also for the sins of the regenerate or faithful***: *"My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous. And He Himself is the propitiation for our sins."*
 
 **II.** They teach that ***Christ, by his ignominious and bitter passion, obtained this from the Father — that whosoever embrace his death by faith may be imbued with a true justice, which is a sanctity, virtue, or new quality inhering in man himself***. Hence they contend that ***justification is twofold — first and second — and that Christ by his death merited this, that believers might be imbued and adorned with charity and other virtues; and this is the first justification***. But the new qualities having been accepted, on account of the merit of Christ, ***the man himself, by that inhering justice, further merits a greater and fuller justice, and at last eternal life***. Whence, according to their doctrine, ***properly speaking, Christ by his passion and death procured only this — that after charity and other virtues have been infused into us on account of Christ's passion, we ourselves by our own good works may be able to merit reconciliation and eternal life***. And this was of old the doctrine of the schoolmen — that ***Christ merited for us only the first grace***, so that we ourselves, ***with the concurrence of free will***, might be able to merit salvation and eternal life.
 
@@ -3337,7 +3337,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 - That sin **is a defect** is had **Rom. 3:23** — *"For all have sinned and fall short of the glory of God."*
 - That **evil inclination or evil concupiscence is sin** appears from the Decalogue, and from **Rom. 7:7**: *"I would not have known sin except through the Law. For I would not have known covetousness unless the Law had said, You shall not covet,"* etc.
 - That **evil actions are sins**, likewise the Decalogue teaches, and Paul demonstrates **Gal. 5:19–21**: *"Now the works of the flesh are evident, which are: adultery, fornication,"* etc., *"and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."*
-- That **all sins are against the Law of God, and fight with it**, the Apostle teaches **1 John 3:4**: ***"Every one that committeth sin, worketh also iniquity: and sin is iniquity"*** — *πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ· καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία*. Item Paul **Rom. 3:20**: *"For by the Law is the knowledge of sin."*
+- That **all sins are against the Law of God, and fight with it**, the Apostle teaches **1 John 3:4**: ***"Whoever commits sin also commits lawlessness, and sin is lawlessness"*** — *πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ· καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία*. Item Paul **Rom. 3:20**: *"For by the Law is the knowledge of sin."*
 - That **God is angered against sin** is had **Rom. 1:18**: *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men."*
 - That **sin merits wrath of God, temporal and eternal punishments**, is had **Deut. 27** and **Rom. 6:23**: *"For the wages of sin is death."*
 
@@ -3935,7 +3935,7 @@ From which it appears that **the distinction of reigning and not-reigning sin co
 
 **By no means.** There are indeed certain heretics of this opinion: that all who have once received the Holy Spirit and remission of sins and have been made faithful, though they sin afterwards, yet remain in faith, and sins do not hurt them. And they clamour: *"Whatever thou doest, only believe — nothing is against thee — faith blots out and covers all sins."* They affirm besides that **if any, after receiving faith and the Holy Spirit, sin, he never truly had faith and the Holy Spirit**. Of these furious men where and when some are found, therefore it is necessary to say and to teach: **That also the saints and faithful, if — besides that they have and feel original sin in their flesh and daily deplore it and repugn it — moreover fall into manifest crimes** (as David into adultery and homicide), **have not faith and the Holy Spirit at that time**.
 
-For the Holy Spirit does not permit dominion to sin, that it may be perfected by deed, but **resists and repugns it, lest what it wills, this it also do**. But if what he wills he also does — sin — then the Holy Spirit and faith are absent. Since, as John says, **1 John 3:9**: *"Every one that is born of God committeth not sin, because his seed abideth in him; and he cannot sin, because he is born of God."* And no less true is it also which the same John writes, **1 John 1:8**: *"If we shall say that we have no sin, we deceive ourselves, and the truth is not in us."*
+For the Holy Spirit does not permit dominion to sin, that it may be perfected by deed, but **resists and repugns it, lest what it wills, this it also do**. But if what he wills he also does — sin — then the Holy Spirit and faith are absent. Since, as John says, **1 John 3:9**: *"Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God."* And no less true is it also which the same John writes, **1 John 1:8**: *"If we say that we have no sin, we deceive ourselves, and the truth is not in us."*
 
 For the regenerate, although they resist sin, kill the deeds of the flesh by the Spirit, and coerce the cupidities of the flesh and depraved affections — nevertheless **out of infirmity sometimes slip, or resist the depraved affections not with so great diligence and care as they ought**. Wherefore also they confess and profess **themselves to be still sinners and imperfect in God's judgement**, even if the Holy Spirit have begun a new obedience in them.
 
@@ -4075,7 +4075,7 @@ Or: **He sins against the Holy Spirit** (as **Augustine** in the *Book of Exposi
 
 Hither pertain the sayings of Scripture:
 
-- **1 John 1:8–10** — *"If we shall say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just, that he may remit our sins and cleanse us from all iniquity. If we shall say that we have not sinned, we make him a liar, and his word is not in us."*
+- **1 John 1:8–10** — *"If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. If we say that we have not sinned, we make Him a liar, and His word is not in us."*
 - **Heb. 3:18** — *"And to whom did He swear that they would not enter His rest, but to those who did not obey?"* And we see that **they could not enter in on account of unbelief**.
 - **Rom. 11:22–23** — *"Therefore consider the goodness and severity of God: on those who fell, severity; but toward you, goodness, if you continue in His goodness. Otherwise you also will be cut off. And they also, if they do not continue in unbelief, will be grafted in — for God is able to graft them in again."*
 
@@ -5476,7 +5476,7 @@ But **if this article be sincerely taught and faithfully urged, easily by the ai
 
 **5.** Also **the Holy Spirit himself is on this account poured out into the hearts of the faithful, that he may console, comfort and sustain them in certain faith and firm confidence concerning the grace of God and the remission of sins** — **Rom. 8:15**: *"For you did not receive the spirit of bondage again to fear, but you received the Spirit of adoption by whom we cry out, Abba, Father."* **Gal. 4:6**: *"And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying out, 'Abba, Father!'"* **Eph. 1:13–14**: *"in whom also, having believed, you were sealed with the Holy Spirit of promise, who is the guarantee of our inheritance,"* etc.
 
-**Diffidence indeed by Scripture is manifestly reprobated and damned in this article** — **1 John 5:10**: *"He that believeth not the Son, maketh God a liar, who believeth not the testimony which God testified concerning his Son."*
+**Diffidence indeed by Scripture is manifestly reprobated and damned in this article** — **1 John 5:10**: *"he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son."*
 
 — ❦ —
 
@@ -5808,7 +5808,7 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 
 When therefore **we are regenerate through the Holy Spirit, and endowed and renewed with true faith, then faith in us is efficacious through charity** — **Gal. 5:6**.
 
-Besides, **when the man is now regenerate, and his heart and will is converted to God, he is not only delighted with the Law of God according to the interior man — Rom. 7:22 — but he also cooperateth in good, and doeth well, although all these things are conjoined with the greatest infirmity**. Whence **1 John 3:3** it is said: *"Everyone who hath this hope in him, sanctifieth himself, even as he is holy."* And **1 John 5:18**: *"We know, that everyone who is born of God sinneth not, but the begetting of God preserveth him, and the malignant one toucheth him not."*
+Besides, **when the man is now regenerate, and his heart and will is converted to God, he is not only delighted with the Law of God according to the interior man — Rom. 7:22 — but he also cooperateth in good, and doeth well, although all these things are conjoined with the greatest infirmity**. Whence **1 John 3:3** it is said: *"everyone who has this hope in Him purifies himself, just as He is pure."* And **1 John 5:18**: *"We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him."*
 
 — ❦ —
 
@@ -5834,7 +5834,7 @@ And **hence also by contrast it is clear, that men not regenerate, who have not 
 
 **Are those only therefore good works, which God hath commanded?** [*[Luther: T. 4, pp. 407, 408; Gen. T. 2, p. 214*]*]
 
-**Very much so.** For **the Decalogue prescribeth for us, how our whole life is to be conformed to the will of God** — **Ezek. 20:19**: *"I am the Lord your God, walk ye in my precepts."* **1 John 5:2**: *"For this is the charity of God, that we keep his commandments."*
+**Very much so.** For **the Decalogue prescribeth for us, how our whole life is to be conformed to the will of God** — **Ezek. 20:19**: *"I am the Lord your God, walk ye in my precepts."* **1 John 5:3**: *"For this is the love of God, that we keep His commandments."*
 
 **Christ himself also, Matt. [15], reprobateth the traditions and mandates of men.**
 
@@ -5886,7 +5886,7 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **II.** **The very nature and property of faith.** For **faith worketh through charity — Gal. 5:6**. If therefore **thou hast true faith in Christ, it will show itself in the fruits of charity, of hope, of patience, of invocation, in the love and support of the neighbour**.
 
-**III.** **The calling itself and its end. For unto sanctification, that in newness of life we may walk, are we called** — **1 Thess. 4:7**: *"For God hath not called us into uncleanness, but into sanctification."* **1 Pet. 2:12**: *"Having your conversation among the Gentiles good, that in that in which they detract concerning you as of evildoers, from your good works considering you, they may glorify God in the day of visitation."* **1 John 3:10**: *"In this are manifest the sons of God and the sons of the Devil; everyone who is not just, is not of God, and he that loveth not his brother."*
+**III.** **The calling itself and its end. For unto sanctification, that in newness of life we may walk, are we called** — **1 Thess. 4:7**: *"For God hath not called us into uncleanness, but into sanctification."* **1 Pet. 2:12**: *"Having your conversation among the Gentiles good, that in that in which they detract concerning you as of evildoers, from your good works considering you, they may glorify God in the day of visitation."* **1 John 3:10**: *"In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother."*
 
 **IV.** That **by our honest conversation we may adorn the doctrine of the Gospel** — **Phil. 1:27**: *"Only converse ye worthily of the Gospel of Christ."* **Tit. 2:10**: *"In all things showing good faith, that they may adorn the doctrine of God our Saviour in all things."*
 
@@ -6186,7 +6186,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 **Is it true, that the Papists say our men prohibit good works?**
 
-**They do us injury.** For **we expressly teach that good works are necessary — that he is not a truly faithful Christian who worketh not works, and in them walketh not**. Nay rather **we confess, that from the very works it is manifest, whether we be sons of GOD, or not** — **1 John 3:10**: *"In this are manifest the sons of God and the sons of the Devil: every one that doeth not righteousness, is not of God, and he that loveth not his brother."* **How therefore should we prohibit good works, as the Papists inequitably accuse us?**
+**They do us injury.** For **we expressly teach that good works are necessary — that he is not a truly faithful Christian who worketh not works, and in them walketh not**. Nay rather **we confess, that from the very works it is manifest, whether we be sons of GOD, or not** — **1 John 3:10**: *"In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother."* **How therefore should we prohibit good works, as the Papists inequitably accuse us?**
 
 — ❦ —
 
@@ -9404,7 +9404,7 @@ To those objecting therefore that saying of Tertullian: *"Who are ye? When and w
 
 ### Objection II. **But (they say) many heretics have arisen from you. *Ergo* ye cannot be the true Church of God.**
 
-**Respondeo**: **If this collection availed, the Apostolic and primitive Church would plainly be to be damned. For while the Apostles were yet alive, heretics arose — Simonians, Nicolaites, Corinthians, Ebionites, and the like. Paul, Acts 20:30, saith**: *"From you yourselves shall arise men speaking perverse things."* **Was then on that account the Ephesian Church not the Church of God?** Rightly, therefore, **1 John 2:19 it is said**: *"From us they went forth, but they were not of us."*
+**Respondeo**: **If this collection availed, the Apostolic and primitive Church would plainly be to be damned. For while the Apostles were yet alive, heretics arose — Simonians, Nicolaites, Corinthians, Ebionites, and the like. Paul, Acts 20:30, saith**: *"From you yourselves shall arise men speaking perverse things."* **Was then on that account the Ephesian Church not the Church of God?** Rightly, therefore, **1 John 2:19 it is said**: *"They went out from us, but they were not of us."*
 
 — ❦ —
 
@@ -9412,7 +9412,7 @@ To those objecting therefore that saying of Tertullian: *"Who are ye? When and w
 
 **Respondeo**: **First, to the Major: dissensions in matters of faith are not straightway a sign of the false Church**. **In Christ's time there were dissensions in religion, yet neither hence truly is it gathered, that Christ's assembly was not the true Church**. **In the people of Israel were various sects, yet the people of Israel did not utterly cease to be the Church. The Lord knoweth who are his own. In the one Church of the Corinthians, how many sects there were — and yet the Church of Christ remained**.
 
-**True it is, straightway from the beginning of the reborn Gospel, Zwingli and others separated themselves from us — yet the truth of doctrine through that Zwinglian secession was not taken away**. **"From us they went forth, but they were not of us"** — **1 John 2:19**.
+**True it is, straightway from the beginning of the reborn Gospel, Zwingli and others separated themselves from us — yet the truth of doctrine through that Zwinglian secession was not taken away**. **"They went out from us, but they were not of us"** — **1 John 2:19**.
 
 Besides, **not so many sects are among us as by their malice the Adversaries feign. And if there were, they ceased after the controversies were determined in the Book of Christian Concord**.
 
@@ -9504,7 +9504,7 @@ Finally, **the splendour of the Papist Church in riches, in magnificent ceremoni
 
 **I.** That **she useth the keys of the kingdom of the heavens in the name of Christ, and according to the words and institution of Christ remitteth and retaineth sins** — **Matt. 16:19; Matt. 18:18; John 20:23**.
 
-**II.** That **she judgeth of every doctrine** — **John 10:5**: *"They will by no means follow a stranger."* **Matt. 7:15**: *"Attend from false Prophets."* **1 John 4:1**: *"Prove the spirits, if they be from God."* **1 Thess. 5:21**: *"Prove ye all things,"* etc. But **this judgement must be instituted according to the word of God, which alone is the judge of every doctrine of faith** — **1 Tim. 6:3**: *"If any one teach otherwise, and consent not to the sound speeches of our Lord Jesus Christ, and to that doctrine which is according to piety, he is proud, knowing nothing."* **Rom. 16:17**: *"Note those who cause divisions and offenses, contrary to the doctrine which you learned, and avoid them."* **John 17:17**: *"Your word is truth."*
+**II.** That **she judgeth of every doctrine** — **John 10:5**: *"They will by no means follow a stranger."* **Matt. 7:15**: *"Attend from false Prophets."* **1 John 4:1**: *"test the spirits, whether they are of God."* **1 Thess. 5:21**: *"Prove ye all things,"* etc. But **this judgement must be instituted according to the word of God, which alone is the judge of every doctrine of faith** — **1 Tim. 6:3**: *"If any one teach otherwise, and consent not to the sound speeches of our Lord Jesus Christ, and to that doctrine which is according to piety, he is proud, knowing nothing."* **Rom. 16:17**: *"Note those who cause divisions and offenses, contrary to the doctrine which you learned, and avoid them."* **John 17:17**: *"Your word is truth."*
 
 **III.** **She hath the power of choosing and constituting the Ministers of the Church, and of removing and avoiding the unfaithful and false Doctors.** **Acts, Matthias is presented by the whole Church. Acts 6, seven Deacons are named by the whole Church. Acts 12 [13], the Church of Antioch separates Paul and Barnabas unto the ministry of teaching.** When **Paul of Samosata undertook to teach against the analogy of faith concerning Christ and his eternal divinity, he is removed by the Church**.
 
@@ -9568,7 +9568,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 **I.** That **the Papists contend the gift of interpretation is bound to Bishops and the Pontiff — whose it is to interpret Scripture**: when yet **Paul, 1 Cor. 12:11, expressly saith**: *"All these worketh one and the same Spirit, dividing severally as he wills."*
 
-**II.** That **they contend the interpretation of the Pontiff and Bishops is authentic, and that no inquiry may be made into it — but that simply, without any judgement, it must be approved**: when yet **1 John 4:1 it is said**: *"Prove ye the spirits."*
+**II.** That **they contend the interpretation of the Pontiff and Bishops is authentic, and that no inquiry may be made into it — but that simply, without any judgement, it must be approved**: when yet **1 John 4:1 it is said**: *"test the spirits."*
 
 **III.** That **they contend the interpretations of the Fathers must be received without any discrimen, whether they consent with the word of God or not** — when yet **the Fathers themselves appeal to Scripture, and will not that faith be had to them beyond what Scripture agreeth to**.
 
@@ -10686,7 +10686,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Is it so, that when after conversion I am again fallen into sin, a place of penitence anew is left, and is iterated penitence salutary?**
 
-**In the highest degree: only that it be true penitence: For therefore Christ, Matt. 18:22, saith**: *"I say not to thee unto seven times,"* etc. **Gal. 6:1**: *"Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted."* **Ezek. 18, 33:11**: *"I live, saith the Lord God: I will not the death of the impious, but that the impious be converted from his way and live."* **1 John 2:1**: *"My little sons, these things I write to you, that ye sin not: But if any also shall have sinned, an advocate we have with the Father, Jesus Christ the just, and he is a propitiation for our sins, not for our own only, but also for those of the whole world."*
+**In the highest degree: only that it be true penitence: For therefore Christ, Matt. 18:22, saith**: *"I say not to thee unto seven times,"* etc. **Gal. 6:1**: *"Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted."* **Ezek. 18, 33:11**: *"I live, saith the Lord God: I will not the death of the impious, but that the impious be converted from his way and live."* **1 John 2:1–2**: *"My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous. And He Himself is the propitiation for our sins, and not for ours only but also for the whole world."*
 
 **Erroneous therefore is the sentence of the Novatians, who denied penitence to those fallen after Baptism.**
 
@@ -11090,7 +11090,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ### Objection VI. **But both Scripture and the orthodox Fathers everywhere have mentioned confession. *Ergo* it is necessary?**
 
-**Respondeo**: **The sacred Scripture teacheth, first, a certain confession which is made to God alone, whereby, acknowledging our sins, before God we pour out our heart — confessing and deploring with true grief of heart, how manifoldly we have offended God, and confessing ourselves guilty of wrath and eternal damnation, we seek his mercy. Ps. 32:5**: *"I said, I will confess against me my injustice to the Lord,"* etc. **1 John 1[:9]**: *"If we shall confess our sins, he is faithful and just to remit to us our sins."* **But of this confession there is no controversy — nor hath it anything in common with the Papist confession.**
+**Respondeo**: **The sacred Scripture teacheth, first, a certain confession which is made to God alone, whereby, acknowledging our sins, before God we pour out our heart — confessing and deploring with true grief of heart, how manifoldly we have offended God, and confessing ourselves guilty of wrath and eternal damnation, we seek his mercy. Ps. 32:5**: *"I said, I will confess against me my injustice to the Lord,"* etc. **1 John 1:9**: *"If we confess our sins, He is faithful and just to forgive us our sins."* **But of this confession there is no controversy — nor hath it anything in common with the Papist confession.**
 
 **Then it teacheth fraternal confession, which is made to the neighbour, when he who hath offended the neighbour, led by penitence, confesseth that he hath sinned, and asketh to be forgiven. Luke 17:4**: *"If seven times in a day he shall sin against thee, and seven times in a day shall be converted to thee, saying, "It repenteth me," pardon him,"* etc. **And hither also pertaineth the saying of James 5:16**: *"Confess your sins one to another."* **Neither doth this confession communicate with that Papist one.**
 
@@ -13800,7 +13800,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **VI. To marry and to be given in marriage, and things of this sort, then shall plainly cease. Matt. 22:30**: *"In the resurrection neither shall they marry, nor shall be given in marriage, but shall be as Angels of God in heaven."* **Luke 20:36. So also all kingdoms of this world, all economies, the Ministry of word and Sacraments then shall cease. Dan. 2:44. For God shall be all in all, 1 Cor. 15:28.**
 
-**VII. God we shall see face to face, Job 19:27**: *"My eyes shall behold."* **1 John 3:2**: *"We know, that when he shall appear, we shall be like him, because we shall see him as he is."* **Augustine on Ps. 75**: *"We shall contemplate God face to face. This is promised us, in whom now not seeing we believe. How shall we rejoice, when we shall see him? Brethren, if now the promise maketh so great joy in us, how great shall the rendering make? For he shall render unto us that which he promised, himself: that of his face and of the contemplation of him we may rejoice, nor shall anything else delight us, because nothing is better than he, who made all things, which delight."*
+**VII. God we shall see face to face, Job 19:27**: *"My eyes shall behold."* **1 John 3:2**: *"we know that when He is revealed, we shall be like Him, for we shall see Him as He is."* **Augustine on Ps. 75**: *"We shall contemplate God face to face. This is promised us, in whom now not seeing we believe. How shall we rejoice, when we shall see him? Brethren, if now the promise maketh so great joy in us, how great shall the rendering make? For he shall render unto us that which he promised, himself: that of his face and of the contemplation of him we may rejoice, nor shall anything else delight us, because nothing is better than he, who made all things, which delight."*
 
 **With Christ also our Lord in eternal converse we shall cohabit, John 14:3**: *"I will come again and receive you to Myself, that where I am, there you may be also."* **John 17:24**: *"I desire that they also whom You gave Me may be with Me where I am, that they may behold My glory."*
 
