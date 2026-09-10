@@ -1300,7 +1300,7 @@ For example: ***"The flesh of Christ is vivifying, is to be adored,"*** etc. In 
 
 ### Objection I. Does it follow hence that only the humanity suffered for us?
 
-**By no means.** For that Person suffered for us who is at once ***God and Man***. **Luke 24:26** — *"Ought not the Christ to have suffered these things and to enter into His glory?"* — where he says **Christ ought so to have suffered** (who is God and Man in one indivisible and indissoluble Person) — not **Christ's humanity ought so to have suffered**. So at **1 Cor. 2:8** the Apostle says: *"If they had known, they would never have crucified the Lord of glory,"* — where he also does not ascribe the passion to Christ's humanity alone, but names the Person, namely, ***the Lord of glory***.
+**By no means.** For that Person suffered for us who is at once ***God and Man***. **Luke 24:26** — *"Ought not the Christ to have suffered these things and to enter into His glory?"* — where he says **Christ ought so to have suffered** (who is God and Man in one indivisible and indissoluble Person) — not **Christ's humanity ought so to have suffered**. So at **1 Cor. 2:8** the Apostle says: *"for had they known, they would not have crucified the Lord of glory,"* — where he also does not ascribe the passion to Christ's humanity alone, but names the Person, namely, ***the Lord of glory***.
 
 ### Objection II. But the Divinity cannot suffer?
 
@@ -1712,7 +1712,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **What dost thou understand by ***heaven***?**
 
-**The word ***heaven*** here signifies the ***seat and habitation of the blessed***, into which all the blessed come, and in which also Christ himself is with his body, according to the nature and condition of clarified bodies.** And this ***heaven*** or ***celestial mansion*** is chiefly ***distinct from Hell***. For as Christ himself, **Luke 16:26**, says: *"between us and you there is a great gulf fixed."* Meanwhile, however, we by no means approve that puerile imagination of the Adversaries, who ***imagine heaven to be a physical place, such as are places on this earth***. For Scripture does not describe heaven by a ***physical place***; but calls it ***the house of God*** — **John 14:2** — ***Paradise*** — **Luke 23:43** — ***eternal Life*** — **Dan. 12:2; Matt. 25:46**. But these things cannot be sufficiently explicated by us in this life. For most true it is and remains that ***"eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love him"*** — **1 Cor. 2:9; Isa. 64:4**.
+**The word ***heaven*** here signifies the ***seat and habitation of the blessed***, into which all the blessed come, and in which also Christ himself is with his body, according to the nature and condition of clarified bodies.** And this ***heaven*** or ***celestial mansion*** is chiefly ***distinct from Hell***. For as Christ himself, **Luke 16:26**, says: *"between us and you there is a great gulf fixed."* Meanwhile, however, we by no means approve that puerile imagination of the Adversaries, who ***imagine heaven to be a physical place, such as are places on this earth***. For Scripture does not describe heaven by a ***physical place***; but calls it ***the house of God*** — **John 14:2** — ***Paradise*** — **Luke 23:43** — ***eternal Life*** — **Dan. 12:2; Matt. 25:46**. But these things cannot be sufficiently explicated by us in this life. For most true it is and remains that ***"Eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him"*** — **1 Cor. 2:9; Isa. 64:4**.
 
 ## Question 59. What difference is there between the ascension of Christ into heaven, and the ascension of the blessed, who also themselves shall come into heaven?
 
@@ -1780,7 +1780,7 @@ That by these formulas of speaking ***no fixed and circumscribed place in the he
 
 **Respondeo**: **The alleged saying does not teach that Christ ***after his resurrection*** first received, according to the assumed human nature, his glory and divine majesty — but that, after his resurrection, when he ***fully*** entered into the state of glory, he ***fully exerted and used this power and majesty of his***, according to the rule: *"A thing is then said to happen, when it begins to be made manifest."*
 
-Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor. 15**: *"Then shall the Son also himself be subject to him,"* etc. — *"By the genus of speech,"* he says, *"the question is dissolved. For Scripture often speaks thus: that ***when a thing already always is***, it is then said by someone to happen, when it has begun to be known in him."* The same is said also by the **Master of the Sentences, lib. 3, distinct. 18**.
+Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor. 15:28**: *"then the Son Himself will also be subject to Him,"* etc. — *"By the genus of speech,"* he says, *"the question is dissolved. For Scripture often speaks thus: that ***when a thing already always is***, it is then said by someone to happen, when it has begun to be known in him."* The same is said also by the **Master of the Sentences, lib. 3, distinct. 18**.
 
 ### Objection. But from the preceding it seems to follow that there is a ***confusion of the articles of faith*** — concerning the incarnation, the ascension, and the session at the right hand of God?
 
@@ -2152,7 +2152,7 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 
 **Are all true Christians spiritual priests?**
 
-**Most certainly.** For Peter, **1 Pet. 2:9**, says: *"But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light."* [*Luther: T. 7, pp. 345 f.b., 347, 348*] And **Rev. 1:5–6** — *"Who hath loved us, and washed us from our sins in his own blood, and hath made us a kingdom, and priests to God and his Father."* These testimonies perspicuously demonstrate that ***all the faithful in the New Testament are spiritual priests***. Wherefore each in his own vocation can ***propagate the doctrine of the Gospel, pray for themselves and for others, give thanks to God with heart and mouth for his benefits, and judge of every doctrine according to the norm of the Divine Word*** — **Matt. 7:15**: *"Beware of false Prophets."* **Gal. 1:8** — *"But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema."* **John 10:5** — *"But a stranger they will by no means follow."* **1 Cor. 14:29** — *"And let the prophets speak, two or three; and let the rest judge."* The distinction between ***the ministry of the Word and the priesthood of all the faithful*** — **T. 7, pp. 345, 346, 347, 348**.
+**Most certainly.** For Peter, **1 Pet. 2:9**, says: *"But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light."* [*Luther: T. 7, pp. 345 f.b., 347, 348*] And **Rev. 1:5–6** — *"Who hath loved us, and washed us from our sins in his own blood, and hath made us a kingdom, and priests to God and his Father."* These testimonies perspicuously demonstrate that ***all the faithful in the New Testament are spiritual priests***. Wherefore each in his own vocation can ***propagate the doctrine of the Gospel, pray for themselves and for others, give thanks to God with heart and mouth for his benefits, and judge of every doctrine according to the norm of the Divine Word*** — **Matt. 7:15**: *"Beware of false Prophets."* **Gal. 1:8** — *"But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema."* **John 10:5** — *"But a stranger they will by no means follow."* **1 Cor. 14:29** — *"Let two or three prophets speak, and let the others judge."* The distinction between ***the ministry of the Word and the priesthood of all the faithful*** — **T. 7, pp. 345, 346, 347, 348**.
 
 — ❦ —
 
@@ -2406,7 +2406,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **II.** When ***the creatures which he himself created and preserves*** (chiefly however men) he commends to ***his Angels***, that they extrinsically may be present to them, lead them, accompany them, guard them, etc. For the ***interior conservation of creatures*** God alone performs; but ***externally the holy Angels*** avert many evils, and hasten and promote many goods to the use and salvation of men.
 
-**III.** Is that which God through ***men in his Church*** — namely through the Apostles and ministers of the Church — administers. For though God even without the ministry of men could make known his Gospel (as inwardly he himself efficaciously operates the true knowledge of himself in the hearts of men, and as by a certain internal power preserves all creatures without the ministry of Angels), yet ***he willed not to do this***, but to accomplish this work through the ***external voice of ministers***. **1 Cor. 3:9** — *"For we are God's helpers; you are God's husbandry; you are God's building."*
+**III.** Is that which God through ***men in his Church*** — namely through the Apostles and ministers of the Church — administers. For though God even without the ministry of men could make known his Gospel (as inwardly he himself efficaciously operates the true knowledge of himself in the hearts of men, and as by a certain internal power preserves all creatures without the ministry of Angels), yet ***he willed not to do this***, but to accomplish this work through the ***external voice of ministers***. **1 Cor. 3:9** — *"For we are God's fellow workers; you are God's field, you are God's building."*
 
 **IV.** Is the order of the ***political Magistrate***, under which is comprehended the ***Household***, and the ***power of parents over children and family***, and the ***authority of preceptors over disciples***.
 
@@ -2508,7 +2508,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **Respondeo**: **The very birth of monsters testifies that there is providence.** For they are not born in vain, but always signify something — as histories teach and experience convinces. Next, confusion in nature is a ***sad punishment of sin***, and a ***sermon of the extreme judgement and punishments to come***, unless men do penance.
 
-### Objection III. Does God care about oxen? — **1 Cor. 9:9**. *Ergo* God does not care about small things.
+### Objection III. Is it oxen God is concerned about? — **1 Cor. 9:9**. *Ergo* God does not care about small things.
 
 **Respondeo**: **It is the fallacy of phrase.** For the sense of the Apostle's words is: not that ***those things were written on account of oxen***, but ***on account of men***. These words therefore do not deny the providence of God as concerns animals and similar small things.
 
@@ -3114,7 +3114,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **V.** Because ***free will is dead, and plainly nothing***; and is held captive in the snares of the Devil, death, and sin. **Eph. 2:1** — *"And you He made alive, who were dead in trespasses and sins,"* etc. **2 Tim. 2**. If there were still some ***free will*** in us, if certain of our own powers against and into the Devil, sin, and death — Christ would not have had to die. [*Luther: T. 5, p. 297*]
 
-**VI.** Because in spiritual things there is nothing but ***mere darkness*** — **John 1:5**: *"the light shines in the darkness, and the darkness did not comprehend it."* For although human reason can in some way judge concerning external things, yet ***it cannot understand the things of faith*** — **1 Cor. 2:14**: *"The sensual man perceiveth not these things that are of the Spirit of God, for it is foolishness to him: and he cannot understand,"* etc. [*T. 2, p. 220*]
+**VI.** Because in spiritual things there is nothing but ***mere darkness*** — **John 1:5**: *"the light shines in the darkness, and the darkness did not comprehend it."* For although human reason can in some way judge concerning external things, yet ***it cannot understand the things of faith*** — **1 Cor. 2:14**: *"But the natural man does not receive the things of the Spirit of God, for they are foolishness to him; nor can he know them,"* etc. [*T. 2, p. 220*]
 
 **VII.** Because ***free will cannot receive the word of faith*** — **John 6:44–45**: *"No one can come to Me unless the Father who sent Me draws him. And they shall all be taught by God. Therefore everyone who has heard and learned from the Father comes to Me."* [*Sunday of Advent; In Postilla Eccl. p. 8; T. 6, p. 182*]
 
@@ -3272,7 +3272,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Respondeo**: **Nothing thence follows for synergy.** For although those two things must be considered in conversion, it does not by any means follow that man from his own powers apprehends the offered grace. For unless the Holy Spirit — who through the Word of the Gospel offers grace to us — ***also kindles faith in the hearts out of grace, that we may apprehend the offered grace*** — we not only do not receive it, but rather ***spew it out and cast it away***. For ***the sense of the flesh is enmity against God*** — **Rom. 8** — unless it be renewed through the Holy Spirit.
 
-### Objection XII. He who cleaves to the Lord is one Spirit with him — **1 Cor. 6:17**. *Ergo* man can cleave himself to God.
+### Objection XII. He who is joined to the Lord is one spirit with Him — **1 Cor. 6:17**. *Ergo* man can cleave himself to God.
 
 **Respondeo**: **The conditional indicatively sets nothing**: therefore, that man may cleave to the Lord and be one Spirit with him, it is necessary that ***the Holy Spirit cleave the heart of man, averted from God, to him by his grace and efficacy*** — otherwise man per se and out of his own powers will never cleave himself to the Lord. When the Lord opened Lydia's heart — **Acts 16** — and kindled true faith in Christ in it, Lydia was cleaved to the Lord; which had not happened, unless the heart of Lydia had been opened by the Lord out of mere grace.
 
@@ -3532,7 +3532,7 @@ In sum: **original sin is truly sin**, and indeed **the greatest of all sins** [
 
 **Where then, or in which parts of man, is original sin?**
 
-**The whole man is corrupted by original sin** [*[Luther: Ps. 14, pp. 27–28; T. 6, p. 73 fine; In Præfat. Epist. Rom.; Gen. cap. 3, pp. 40–41; Gen. cap. 8, pp. 138–141; Ps. 14, pp. 371–374*]*], so that original sin is in the body, in the soul, in the mind, in the will, and in all the powers and faculties of man. For Scripture expressly says **Rom. 3; Ps. 14** that we are corrupted, become abominable and useless, false, conceived and born in sins — **Ps. 51:5**; that we have the intellect darkened with darkness — **Eph. 4:18**; **that the natural man perceiveth not the things which are of the Spirit of God, for it is foolishness to him, nor can he understand** — **1 Cor. 2:14**. That the will of man is averted from God, evil, and hostile to God — **Rom. 8:7**. That in the heart and in all the powers and faculties of man there is rebellion, contumacy, security, disobedience, incredulity, doubt, pride, and that **from the heart as from a fount all evils proceed** — **Matt. 15; Gen. 6, 8; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened; for saying themselves to be wise, they became fools."* **Rom. 7:18** — *"in the flesh dwelleth sin, which resists the law of the mind."* Hence it is that also of the remaining members it is said **Rom. 3:13**: *"Their throat is an open tomb,"* etc.
+**The whole man is corrupted by original sin** [*[Luther: Ps. 14, pp. 27–28; T. 6, p. 73 fine; In Præfat. Epist. Rom.; Gen. cap. 3, pp. 40–41; Gen. cap. 8, pp. 138–141; Ps. 14, pp. 371–374*]*], so that original sin is in the body, in the soul, in the mind, in the will, and in all the powers and faculties of man. For Scripture expressly says **Rom. 3; Ps. 14** that we are corrupted, become abominable and useless, false, conceived and born in sins — **Ps. 51:5**; that we have the intellect darkened with darkness — **Eph. 4:18**; **that the natural man does not receive the things of the Spirit of God, for they are foolishness to him; nor can he know them** — **1 Cor. 2:14**. That the will of man is averted from God, evil, and hostile to God — **Rom. 8:7**. That in the heart and in all the powers and faculties of man there is rebellion, contumacy, security, disobedience, incredulity, doubt, pride, and that **from the heart as from a fount all evils proceed** — **Matt. 15; Gen. 6, 8; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened; for saying themselves to be wise, they became fools."* **Rom. 7:18** — *"in the flesh dwelleth sin, which resists the law of the mind."* Hence it is that also of the remaining members it is said **Rom. 3:13**: *"Their throat is an open tomb,"* etc.
 
 — ❦ —
 
@@ -4586,7 +4586,7 @@ Then there is **ambiguity in the voice *proper***. The **whole ministry of Chris
 
 This word (*Grace*) therefore testifies that **the cause of justification is not in us**, and that **God, though he have many causes of condemning us, out of mere grace on account of Christ has mercy of us, and lays down his most just wrath against us on account of the same** — which apart from Christ's merit and intercession **he would by no means be bound to do**.
 
-Otherwise it is sometimes also used **for the gifts of the Holy Spirit** [*[Luther: T. 4/1, p. 397; T. 3, p. 482*]*] which for Christ's sake are given to believers — **1 Cor. 12:4**: *"There are divisions of graces, but the same Spirit."* **Rom. 12:6** — *"Having then gifts differing according to the grace that is given to us."*
+Otherwise it is sometimes also used **for the gifts of the Holy Spirit** [*[Luther: T. 4/1, p. 397; T. 3, p. 482*]*] which for Christ's sake are given to believers — **1 Cor. 12:4**: *"There are diversities of gifts, but the same Spirit."* **Rom. 12:6** — *"Having then gifts differing according to the grace that is given to us."*
 
 — ❦ —
 
@@ -4612,7 +4612,7 @@ We therefore obtain grace and mercy — as concerns us — **without any merit o
 
 **Very much so.**
 
-For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son voluntarily took it up in himself, and satisfied for all the sins of us all, and was made obnoxious to the Law**. And what was paid out to Christ by God for us is sufficient, and so precious his obedience, that we may **firmly lean upon it without any doubt**. **Christ's obedience therefore is our obedience, and his satisfaction our satisfaction** — **Rom. 4:25**: *"who was delivered up because of our offenses, and was raised because of our justification."* **1 Cor. 1:30** — *"Who was made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, He that glorieth, let him glory in the Lord."*
+For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son voluntarily took it up in himself, and satisfied for all the sins of us all, and was made obnoxious to the Law**. And what was paid out to Christ by God for us is sufficient, and so precious his obedience, that we may **firmly lean upon it without any doubt**. **Christ's obedience therefore is our obedience, and his satisfaction our satisfaction** — **Rom. 4:25**: *"who was delivered up because of our offenses, and was raised because of our justification."* **1 Cor. 1:30–31** — *"who became for us wisdom from God—and righteousness and sanctification and redemption; that, as it is written, 'He who glories, let him glory in the Lord.'"*
 
 — ❦ —
 
@@ -4758,7 +4758,7 @@ When **with a heart contrite and humbled in true knowledge of sins and of God's 
 
 **Christ's satisfaction therefore and fulfilment of the Law is certainly our satisfaction?**
 
-**Most certainly ours.** For **he was delivered up for our sins, and rose again for our justification** — **Rom. 4:25**. **Isa. 53:5** — *"By His stripes we are healed."* **1 Cor. 1:30** — *"Christ Jesus is made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, he that glorieth, let him glory in the Lord."*
+**Most certainly ours.** For **he was delivered up for our sins, and rose again for our justification** — **Rom. 4:25**. **Isa. 53:5** — *"By His stripes we are healed."* **1 Cor. 1:30–31** — *"Christ Jesus became for us wisdom from God—and righteousness and sanctification and redemption; that, as it is written, 'He who glories, let him glory in the Lord.'"*
 
 — ❦ —
 
@@ -4766,7 +4766,7 @@ When **with a heart contrite and humbled in true knowledge of sins and of God's 
 
 **But by what means is this righteousness distributed and applied?**
 
-**God on his part useth the Gospel and the Sacraments, which are the means through which he rendereth us partakers of the merit of his Son, giveth it to us, and delivereth it over** — **1 Cor. 1:21**: *"It pleased God through the foolishness of preaching to save them that believe."* **Mark 16[:16]** — *"He that shall have believed and shall have been baptized, shall be saved."*
+**God on his part useth the Gospel and the Sacraments, which are the means through which he rendereth us partakers of the merit of his Son, giveth it to us, and delivereth it over** — **1 Cor. 1:21**: *"it pleased God through the foolishness of the message preached to save those who believe."* **Mark 16[:16]** — *"He that shall have believed and shall have been baptized, shall be saved."*
 
 But as concerns us: **we apprehend, receive, apply to ourselves, and retain this righteousness given out of grace by faith — that is, by true confidence of heart, which certainly acquiesceth in this, and wrestleth against diffidence and doubt** — **John 3:36**: *"He who believes in the Son has everlasting life."*
 
@@ -5042,7 +5042,7 @@ More therefore doth this sentence teach us, **what we lack, rather than what we 
 
 — ❦ —
 
-### Objection X. **The greatest virtue justifieth. But charity is the greatest virtue** — *"the greater of these is charity,"* **1 Cor. 13**. *Ergo* charity justifieth.
+### Objection X. **The greatest virtue justifieth. But charity is the greatest virtue** — *"the greatest of these is love,"* **1 Cor. 13:13**. *Ergo* charity justifieth.
 
 **Respondeo** to the Major: **that from the sacred letters cannot be proved**. Then to the Minor: **The Apostle compareth faith, hope, and charity according to *duration* — there it is true, that charity is greater on account of duration, because it shall not cease in the other life**. But **hence it followeth not, that before God it justifieth — since in the regenerate it is imperfect**.
 
@@ -5310,7 +5310,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **Altogether necessary — and on these accounts:**
 
-**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He saith not, in seeds, as of many, but as of one — and to thy seed, which is Christ."* **1 Cor. 1:30**: *"Christ is made unto us wisdom from God, and righteousness, and sanctification, and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
+**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He saith not, in seeds, as of many, but as of one — and to thy seed, which is Christ."* **1 Cor. 1:30**: *"Christ... became for us wisdom from God—and righteousness and sanctification and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
 
 **II.** That **contrite and perturbed hearts may have a certain and firm consolation, and may be able to sustain and overcome the temptations of sin and the wrath of God** — **Ps. 130:4**: *"But there is forgiveness with You."* **Propitiation therefore thou wilt find not in Moses, not in the Law, not in thy works, but in Christ alone, and in his most holy merit**. For **in him alone and in no other, thy contrite heart and labouring conscience can safely confide** — and **it is impossible that in the terrors of conscience thou find firm consolation, unless thou confide and acquiesce in the sole obedience and satisfaction of Christ**.
 
@@ -5520,7 +5520,7 @@ Nor **is the doctrine concerning election made manifest, that it might render ou
 
 — ❦ —
 
-### Objection VI. *"He that standeth, let him see that he fall not"* — **1 Cor. 10**. *Ergo* no one is certain of his salvation.
+### Objection VI. *"let him who thinks he stands take heed lest he fall"* — **1 Cor. 10:12**. *Ergo* no one is certain of his salvation.
 
 **Respondeo**: **The Apostle admonisheth, lest through the persuasion of certitude we slip into carnal security, whereby faith is suffocated** — **Luke 8**. But **rather let us see, that we receive not the grace of God in vain**. Not therefore **are his words (which are opposed to carnal security) to be drawn to the confirming of diffidence concerning the grace of God and eternal salvation**.
 
@@ -5890,9 +5890,9 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **IV.** That **by our honest conversation we may adorn the doctrine of the Gospel** — **Phil. 1:27**: *"Only converse ye worthily of the Gospel of Christ."* **Tit. 2:10**: *"In all things showing good faith, that they may adorn the doctrine of God our Saviour in all things."*
 
-**V.** That **we may be found imitators of Christ** — **Phil. 2:5**: *"Have this mind in you, which is also in Christ Jesus."* **1 Cor. 11:1**: *"Be ye imitators of me, even as I also of Christ."* **1 Pet. 1:14**: *"As sons of obedience, not configured to the former desires of your ignorance, but according to him who hath called you, be ye also holy in all your conversation — because it is written, ye shall be holy, because I am holy."*
+**V.** That **we may be found imitators of Christ** — **Phil. 2:5**: *"Have this mind in you, which is also in Christ Jesus."* **1 Cor. 11:1**: *"Imitate me, just as I also imitate Christ."* **1 Pet. 1:14**: *"As sons of obedience, not configured to the former desires of your ignorance, but according to him who hath called you, be ye also holy in all your conversation — because it is written, ye shall be holy, because I am holy."*
 
-**VI.** **To avoid and decline scandals** — **1 Cor. 10:32**: *"All things do ye unto the glory of God, without offence be ye to the Jews and to the Gentiles and to the Church of God."* **Phil. 2:14**: *"Do ye all things without murmurings and hesitations, that ye may be without complaint, and simple sons of God, without reprehension in the midst of a depraved and perverse nation, among whom ye shine, as luminaries in the world."*
+**VI.** **To avoid and decline scandals** — **1 Cor. 10:31–32**: *"Whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense, either to the Jews or to the Greeks or to the church of God."* **Phil. 2:14**: *"Do ye all things without murmurings and hesitations, that ye may be without complaint, and simple sons of God, without reprehension in the midst of a depraved and perverse nation, among whom ye shine, as luminaries in the world."*
 
 **More causes are elsewhere recited and explained.**
 
@@ -7348,7 +7348,7 @@ When therefore **a faithful man, from the infirmity of the flesh and the seducti
 
 **What are the names or appellations of this Sacrament?** [*[Luther: T. 4, p. 428; T. 3, pp. 50, 51, 62*]*]
 
-**First** — **The Supper of the Lord, or the Lord's Supper** — **1 Cor. 11:20 it is said**: *"Because the Lord Jesus in that night in which he was delivered up, instituted this Sacrament."*
+**First** — **The Supper of the Lord, or the Lord's Supper** — **1 Cor. 11:23 it is said**: *"the Lord Jesus on the same night in which He was betrayed took bread."*
 
 **Then**: **The Table of the Lord it is called — 1 Cor. 10:21** — because **in that table not common food and drink, but the very body and blood of the Lord himself with the sacred symbols of bread and wine, is set forth for us and communicated**.
 
@@ -7846,7 +7846,7 @@ In sum, the particle **"Do this"** pertaineth to the whole action of the sacred 
 
 **Respondeo**: **For the Church, and indeed for the living, not however for the dead.** For on this account he saith *"eat, drink"* — neither of which the dead can do. Which is to be noted against the Papists, who offer the Supper also for the dead.
 
-**Nor also is it instituted only for priests, but for the whole Church** — as from the repetition of the institution in Paul one may see, **1 Cor. 11**, where Paul expressly saith, v. 23: *"I have delivered to you"* (to the whole Church) *"which I received from the Lord"* — but these were not all priests or ministers of the Church, but the greatest part of them were laics — which also itself the Papist doth against, who despoiled the Laics of the use of the cup.
+**Nor also is it instituted only for priests, but for the whole Church** — as from the repetition of the institution in Paul one may see, **1 Cor. 11**, where Paul expressly saith, v. 23: *"I also delivered to you"* (to the whole Church) *"which I received from the Lord"* — but these were not all priests or ministers of the Church, but the greatest part of them were laics — which also itself the Papist doth against, who despoiled the Laics of the use of the cup.
 
 — ❦ —
 
@@ -7854,7 +7854,7 @@ In sum, the particle **"Do this"** pertaineth to the whole action of the sacred 
 
 **But what is the end unto which it is instituted?**
 
-**This is expressed in the words of Christ, when he saith**: *"This do in my commemoration."* And **1 Cor. 11:26**: *"Ye shall announce the death of the Lord until he come."* That is: **use this sacred Supper of the Lord unto the confirmation and increment of your faith: give thanks with a faithful heart to Christ your Saviour for the death which he underwent for us**.
+**This is expressed in the words of Christ, when he saith**: *"This do in my commemoration."* And **1 Cor. 11:26**: *"you proclaim the Lord's death till He comes."* That is: **use this sacred Supper of the Lord unto the confirmation and increment of your faith: give thanks with a faithful heart to Christ your Saviour for the death which he underwent for us**.
 
 — ❦ —
 
@@ -8214,7 +8214,7 @@ On the contrary he understandeth the spiritual manducation by *the bread the Lor
 
 — ❦ —
 
-### Objection XI. **The Apostle saith not that the body of Christ is manducated unworthily, but the bread**: *"Whosoever shall have manducated this bread unworthily"* — **1 Cor. 11:27**. ***Ergo* the unworthy do not receive and manducate the body of Christ.**
+### Objection XI. **The Apostle saith not that the body of Christ is manducated unworthily, but the bread**: *"whoever eats this bread in an unworthy manner"* — **1 Cor. 11:27**. ***Ergo* the unworthy do not receive and manducate the body of Christ.**
 
 **Respondeo**: **But he speaketh of that bread of which he had said before, that it was the body of the Lord delivered up for us — and of which, 1 Cor. 10:16, he wrote**: *"The bread which we break, is it not the participation of the body of the Lord?"* And **he explaineth himself, when he addeth**: *"not discerning the body of the Lord."* And **in the same mode also of the faithful he saith, v. 28**: *"Let a man prove himself, and so let him eat of that bread, and drink of that cup."* Therefore **also the faithful themselves would not receive the body of the Lord, but only bread, if the consequence of the Adversaries availed**. This saying therefore doth not overturn the manducation of the unworthy, but rather solidly confirmeth it.
 
@@ -8378,7 +8378,7 @@ Although also **he nameth the cup *the New Testament*, yet by the same very thin
 
 — ❦ —
 
-## Argument VII. **1 Cor. 10:16 Paul saith**: *"The bread which we break, is it not the participation or communication of the body of the Lord?"* — that is, sign or Sacrament, that we are inserted into Christ, and united more and more. ***Ergo* etc.**
+## Argument VII. **1 Cor. 10:16 Paul saith**: *"The bread which we break, is it not the communion of the body of Christ?"* — that is, sign or Sacrament, that we are inserted into Christ, and united more and more. ***Ergo* etc.**
 
 **Respondeo**: **Paul saith not that the bread as an external sign or Symbol causes those who manducate it to be inserted and united with Christ, but that it is a communication or participation of the body of Christ** — just as neither doth he say, that the bread is an external sign or symbol whereby those who eat of it remain in the communion of the body of Christ, that is, of the Church — as some interpret those words. For **here he treateth of that very body of which the words of institution speak**.
 
@@ -8994,7 +8994,7 @@ And this saying in general concerning the Church speaketh — which is a company
 
 **But by what means doth he use unto this?**
 
-**By the Word and Sacraments.** Hence **1 Pet. 1:23** [*[Gen. Lib. 3, p. 90*]*]: *"Born again not from corruptible seed, but from incorruptible, through the word of God living and remaining for ever."* And **1 Cor. 4:15**: *"For in Christ Jesus, through the Gospel, I have begotten you."* **The same we read concerning the Sacraments, Matt. 28; Mark 16; Acts 2; Tit. 3**. He could indeed do this without means also — but so it hath pleased him — **1 Cor. 1:21**.
+**By the Word and Sacraments.** Hence **1 Pet. 1:23** [*[Gen. Lib. 3, p. 90*]*]: *"Born again not from corruptible seed, but from incorruptible, through the word of God living and remaining for ever."* And **1 Cor. 4:15**: *"for in Christ Jesus I have begotten you through the gospel."* **The same we read concerning the Sacraments, Matt. 28; Mark 16; Acts 2; Tit. 3**. He could indeed do this without means also — but so it hath pleased him — **1 Cor. 1:21**.
 
 — ❦ —
 
@@ -9510,7 +9510,7 @@ Finally, **the splendour of the Papist Church in riches, in magnificent ceremoni
 
 **IV.** **She hath the power of instituting external ceremonies, which make for edification and good order of teaching** — **1 Cor. 14; Rom. 14** — yet so, that **consciences be not judged and burdened by them** — **Col. 2:8, 16; Gal. 4:9, 10**.
 
-**V.** Hither pertaineth **the gift of Prophecy and interpretation of Scripture** — **1 Cor. 14:29**: *"Let the Prophets two or three speak, and let the rest judge"* — namely, whether the prophecy be analogous to the faith — **Rom. 12:6**.
+**V.** Hither pertaineth **the gift of Prophecy and interpretation of Scripture** — **1 Cor. 14:29**: *"Let two or three prophets speak, and let the others judge"* — namely, whether the prophecy be analogous to the faith — **Rom. 12:6**.
 
 But **she hath not the power of *condere novos articulos fidei* against the word of God — Gal. 1:8**: *"If we, or an Angel from heaven, evangelize to you beside what we have evangelized to you, let him be anathema."*
 
@@ -9650,7 +9650,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 **Can there be separation from the Church without peril?**
 
-**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Save yourselves from this depraved generation."* **1 Cor. 10:14**: *"Flee from the cult of idols."* **2 Cor. 6:17**: *"Go ye out from the midst of them, and separate."* **Apoc. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
+**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Save yourselves from this depraved generation."* **1 Cor. 10:14**: *"flee from idolatry."* **2 Cor. 6:17**: *"Go ye out from the midst of them, and separate."* **Apoc. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
 
 — ❦ —
 
@@ -9820,7 +9820,7 @@ Then at the same time he looketh to **the absolute perfection of the kingdom of 
 
 **Unto what end is the Ministry instituted?** [*[Gen. T. 1, p. 127*]*]
 
-**That Christ may gather to himself from the human race a Church, to whom he may communicate himself and all his celestial goods, and whom he may save** — **1 Cor. 1:21**: *"It pleased God through the foolishness of preaching to save the believing."*
+**That Christ may gather to himself from the human race a Church, to whom he may communicate himself and all his celestial goods, and whom he may save** — **1 Cor. 1:21**: *"it pleased God through the foolishness of the message preached to save those who believe."*
 
 — ❦ —
 
@@ -9884,7 +9884,7 @@ Then, **it is certain, that the right of calling and confirmation belongs not on
 
 **Thirdly, sacred Scripture by no word or letter saith that those who have not received Papist unction, consecration, or tonsure cannot administer the Ministry of teaching and the Sacraments**. For **this Papist unction, consecration, and tonsure is plainly unknown to it**.
 
-**Fourthly, it is per se clear**: **the efficacy of the Ministry is not bound to this Papist consecration and tonsure, but dependeth on the ordination of God, who himself through these media is efficacious** — nor did he by any word hand down that the efficacy of the Ministry is bound to certain persons consecrated and ordained by Bishops of the Roman See. **1 Cor. 1:14 it is said**: *"That Paul himself baptized Crispus and Gaius"* — but that on that account they were baptized with a more sublime Baptism than if they were baptized by another, is said by no word. **Nor is it to be thought, that the body of Christ in the sacred Supper is present or communicated on account of the consecration and unction with which the priest is anointed** — since **on account of the sole institution and promise of Christ it is present**. **No place therefore here remaineth for Papist unction and consecration.**
+**Fourthly, it is per se clear**: **the efficacy of the Ministry is not bound to this Papist consecration and tonsure, but dependeth on the ordination of God, who himself through these media is efficacious** — nor did he by any word hand down that the efficacy of the Ministry is bound to certain persons consecrated and ordained by Bishops of the Roman See. **1 Cor. 1:14 it is said**: *"That Paul baptized none except Crispus and Gaius"* — but that on that account they were baptized with a more sublime Baptism than if they were baptized by another, is said by no word. **Nor is it to be thought, that the body of Christ in the sacred Supper is present or communicated on account of the consecration and unction with which the priest is anointed** — since **on account of the sole institution and promise of Christ it is present**. **No place therefore here remaineth for Papist unction and consecration.**
 
 — ❦ —
 
@@ -10720,7 +10720,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Then, from penitence this commodity also accedeth, that the regenerate and converted are rendered a temple and habitation of God, Isa. 57:15**: *"For thus saith the High One, dwelling in the sanctuary, and with the contrite and humble in Spirit — that he may quicken the Spirit of the humble, and quicken the heart of the contrite."* **Ps. 34:18**: *"The Lord is near to those who have a broken heart, and saves such as have a contrite spirit."*
 
-**Thirdly: It obtaineth also the mitigation of corporal penalties, Jer. 8**: *"If that nation shall have done penitence from its evil, I also shall do penitence upon the evil which I have thought that I would do to it."* **1 Cor. 11:31**: *"For if we ourselves judged ourselves, we should not indeed be judged."*
+**Thirdly: It obtaineth also the mitigation of corporal penalties, Jer. 8**: *"If that nation shall have done penitence from its evil, I also shall do penitence upon the evil which I have thought that I would do to it."* **1 Cor. 11:31**: *"For if we would judge ourselves, we would not be judged."*
 
 — ❦ —
 
@@ -10844,7 +10844,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 — ❦ —
 
-### Objection. **1 Cor. 7 it is said, that** *"the grief which is according to God worketh penitence unto salvation, no way to be repented of."* ***Ergo* our contrition is meritorious.**
+### Objection. **2 Cor. 7:10 it is said, that** *"godly sorrow produces repentance leading to salvation, not to be regretted."* ***Ergo* our contrition is meritorious.**
 
 **Respondeo**: **There is more in the consequent than in the antecedent. The words of the Apostle will not this, that our contrition merit salvation and eternal life — as the Papists contend — but they indicate that the grief or contrition excited in the heart by God is salutary and impelleth men, that they seek reconciliation with God through Christ the Mediator. Of Jesus Christ alone is contrition meritorious — ours meriteth nothing, but is thus rendered salutary, when the contrite heart looketh to the griefs and passion of Jesus Christ, and judgeth it to happen unto itself the remission of sins freely on account of Christ, whom God set forth as a propitiatory in his blood through faith. David, Magdalene, the Publican by their contrition merit not grace, but are impelled by the sadness divinely excited in their hearts, that they seek Christ the Helper.**
 
@@ -11276,7 +11276,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. That one Church easily judge not or condemn another on account of these. For grievously sinned Pope Victor in condemning the Churches of Asia, on this account, that they celebrated Pascha at the same time with the Jews. Socrates, book 5, chapter 22.**
 
-**II. That the consciences of the weak be spared, Rom. 14:1**: *"Him that is weak in the faith receive, not to the disputations of thoughts,"* etc. **1 Cor. 8:12–13**: *"But so sinning against the brethren, and striking their weak conscience, ye sin against Christ. Wherefore if meat scandalize my brother, I will not eat flesh for ever, that I scandalize not my brother."*
+**II. That the consciences of the weak be spared, Rom. 14:1**: *"Him that is weak in the faith receive, not to the disputations of thoughts,"* etc. **1 Cor. 8:12–13**: *"But when you thus sin against the brethren, and wound their weak conscience, you sin against Christ. Therefore, if food makes my brother stumble, I will never again eat meat, lest I make my brother stumble."*
 
 **III. But as to the pertinacious, who suffer not to be informed, they in their obstinacy are not to be confirmed, lest Christian liberty suffer violence, but on the contrary against such we should use our liberty, unto which we are called. Concerning whom Paul, Gal. 2:4–5, saith**: *"But because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Jesus, that they might bring us into bondage: to whom neither for an hour did we yield subjection, that the truth of the Gospel might continue with us."* **So also against the Papists the same is to be observed.**
 
@@ -11328,7 +11328,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-### Objection II. **1 Cor. 9:5 it is said: "Have we not power to lead about a woman a sister?" Ergo Paul approveth uncleanness.**
+### Objection II. **1 Cor. 9:5 it is said: "Do we have no right to take along a believing wife?" Ergo Paul approveth uncleanness.**
 
 **Respondeo**: **This is a Diabolical perversion of Paul's words: for there of holy matrimony — which as much to Paul and Barnabas as to the rest was free — he speaketh. But these blasphemous slanderers to unchastity twist the words, and to argue from thence that it is lawful they attempt: whereas notwithstanding Paul expressly writeth, 1 Cor. 6:9**: *"Be not deceived, neither fornicators, nor adulterers, nor effeminate shall inherit the kingdom of God."*
 
@@ -12696,7 +12696,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Must all men die?**
 
-**Respondeo**: **Very much. Ps. [90]:3; Heb. 9:27**: *"as it is appointed to men once to die."* **Gen. 3**: *"to earth thou shalt return."* **1 Cor. 15:22**: *"as in Adam all die"* — **and daily experience testifieth this. Yet one dieth more quickly than another, and to all men the hour of death is plainly uncertain: whence also to a shadow men are compared. Ps. 39:7**: *"Nevertheless in an image passeth man; but even in vain is he disturbed."*
+**Respondeo**: **Very much. Ps. [90]:3; Heb. 9:27**: *"as it is appointed to men once to die."* **Gen. 3**: *"to earth thou shalt return."* **1 Cor. 15:22**: *"For as in Adam all die"* — **and daily experience testifieth this. Yet one dieth more quickly than another, and to all men the hour of death is plainly uncertain: whence also to a shadow men are compared. Ps. 39:7**: *"Nevertheless in an image passeth man; but even in vain is he disturbed."*
 
 — ❦ —
 
@@ -13250,7 +13250,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Who merited the resurrection of the dead?**
 
-**Respondeo**: **Christ Jesus, Rom. 4:25**: *"Who was raised on account of our justification."* **1 Cor. 15:22**: *"In Christ all shall be quickened."* **Verse 57**: *"God hath given us the victory, through our Lord Jesus Christ."*
+**Respondeo**: **Christ Jesus, Rom. 4:25**: *"Who was raised on account of our justification."* **1 Cor. 15:22**: *"even so in Christ all shall be made alive."* **Verse 57**: *"God gives us the victory through our Lord Jesus Christ."*
 
 — ❦ —
 
@@ -13376,7 +13376,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **III. The ministry of word and Sacraments shall cease, for then we shall see God face to face, 1 John 3:2, and as he is. And God shall be all in all. 1 Cor. 15:28.**
 
-**IV. So also Polities and Economies shall cease, Dan. 2:44**: *"But he shall break in pieces and consume all these kingdoms, and it shall stand for ever."* **1 Cor. 15:24**: *"When he shall have made void every principality and power and virtue."*
+**IV. So also Polities and Economies shall cease, Dan. 2:44**: *"But he shall break in pieces and consume all these kingdoms, and it shall stand for ever."* **1 Cor. 15:24**: *"when He puts an end to all rule and all authority and power."*
 
 **V. All Christ's benefits shall be fully delivered unto us, and then shall be the saying which is written, 1 Cor. 15:54–55, Isa. 25:8**: *"He shall cast down death for ever, and the Lord God shall wipe away tears from every face."*
 
@@ -13598,7 +13598,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Who then shall be in hell?**
 
-**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Apoc. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Be not deceived, neither fornicators, nor those serving idols, nor adulterers, nor the effeminate, nor liers with mankind, nor thieves, nor covetous, nor drunkards, nor railers, nor rapacious shall possess the kingdom of God."* **Gal. 5:19–21**: *"Now manifest are the works of the flesh, which are, fornication, uncleanness, unchastity, luxury, service of idols, sorceries, enmities, contentions, emulations, wrath, quarrels, dissensions, sects, envy, homicides, drunkennesses, revellings, and the like of these, which I foretell you, as I have foretold, that they, who do such things, shall not attain the kingdom of God."*
+**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Apoc. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Do not be deceived. Neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God."* **Gal. 5:19–21**: *"Now manifest are the works of the flesh, which are, fornication, uncleanness, unchastity, luxury, service of idols, sorceries, enmities, contentions, emulations, wrath, quarrels, dissensions, sects, envy, homicides, drunkennesses, revellings, and the like of these, which I foretell you, as I have foretold, that they, who do such things, shall not attain the kingdom of God."*
 
 — ❦ —
 
