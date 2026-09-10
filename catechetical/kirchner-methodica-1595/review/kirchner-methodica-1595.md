@@ -228,7 +228,7 @@ Whence it is clear that God himself first ***consigned his word and revelations 
 
 **By whom was the Word of God first made known?**
 
-**By God himself.** [*Luther: T. 8, p. 134; Genesis T. 3, p. 1; Genesis T. 4, pp. 119, 120*] As **Ps. 103:7** says: *"He made known his ways to Moses, his wills to the children of Israel."* And **2 Tim. 3:16** — *"All Scripture divinely inspired is profitable to teach, to reprove, to correct, to instruct in justice, that the man of God may be perfect, furnished to every good work."*
+**By God himself.** [*Luther: T. 8, p. 134; Genesis T. 3, p. 1; Genesis T. 4, pp. 119, 120*] As **Ps. 103:7** says: *"He made known His ways to Moses, His acts to the children of Israel."* And **2 Tim. 3:16** — *"All Scripture divinely inspired is profitable to teach, to reprove, to correct, to instruct in justice, that the man of God may be perfect, furnished to every good work."*
 
 — ❦ —
 
@@ -248,7 +248,7 @@ Whence it is clear that God himself first ***consigned his word and revelations 
 
 **Deut. 4:6** — *"This is your wisdom, and understanding in the sight of peoples: that hearing all these precepts, they may say — Behold a wise and understanding people, a great nation. Nor is there any other nation so great, that hath gods so nigh them, as our God is present to all our petitions. For what other nation is there so renowned, that hath ceremonies and just judgements, and all the law which I set forth this day before your eyes."*
 
-And **Ps. 147:19–20** — *"Who declareth his word to Jacob, his justices and his judgements to Israel. He hath not done in like manner to every nation, and his judgements he hath not made manifest to them."*
+And **Ps. 147:19–20** — *"He declares His word to Jacob, His statutes and His judgments to Israel. He has not dealt thus with any nation; and as for His judgments, they have not known them."*
 
 **John 10:27, 5** — *"My sheep hear My voice...Yet they will by no means follow a stranger, but will flee from him, for they do not know the voice of strangers."*
 
@@ -284,7 +284,7 @@ Whence **Jerome**: ***"Spiritus Sancti doctrina est, quae canonicis literis est 
 
 Whence **Ps. 12:7** — *"as silver tried in a furnace of earth, purified seven times."*
 
-**IV.** Scripture is of ***unsearchable and inexhaustible wisdom***. [*Luther: T. 5, p. 440; T. 5, p. 125*] As **Ps. 147:5** — *"Great is our Lord, and great is his power; and of his wisdom there is no number."*
+**IV.** Scripture is of ***unsearchable and inexhaustible wisdom***. [*Luther: T. 5, p. 440; T. 5, p. 125*] As **Ps. 147:5** — *"Great is our Lord, and mighty in power; His understanding is infinite."*
 
 Whensoever any Christian therefore, of whatever condition or dignity, ought to search it and turn it over day and night by hand. Whence **Chrysostom, *Colossians* 3**, says: *"Hear, I entreat you, all secular ones: procure for yourselves Bibles, the pharmacies of the soul; or if nothing else, then at least acquire the New Testament, the Acts of the Apostles, the Gospels — as continual and diligent teachers. If molestation shall happen, look into these as into a pharmacy: from here take for yourself consolation, whether some damage happen, or death, or loss of household. Yea, not only look in, but pass all over again and again, and hold them in mind. For hence is the cause of all evils, that the Scriptures are ignored,"* etc.
 
@@ -556,7 +556,7 @@ To this, Christ did not say: *"I am human tradition or custom"*, but ***"I am th
 
 **How and whence does God rightly will to be known?**
 
-**In and from his Word, in which he has made himself known.** [*Luther: T. 4, p. 390; T. 7, pp. 64, 65; T. 8, p. 288; T. 2, part 1, pp. 60, 61, 62; T. 4, part 1, p. 5; T. 4, part 1, p. 130*] **Ps. 119:105** — *"Thy word is a lamp unto my feet, and a light unto my paths."*
+**In and from his Word, in which he has made himself known.** [*Luther: T. 4, p. 390; T. 7, pp. 64, 65; T. 8, p. 288; T. 2, part 1, pp. 60, 61, 62; T. 4, part 1, p. 5; T. 4, part 1, p. 130*] **Ps. 119:105** — *"Your word is a lamp to my feet and a light to my path."*
 
 — ❦ —
 
@@ -588,7 +588,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 **IV.** That he is ***just and supreme Judge***, and therefore also to be feared. [*Luther: T. 1, p. 31*] **Ps. 7:11–13** — *"God is a just Judge, and God is angry with the wicked every day. If he does not turn back, He will sharpen His sword; He bends His bow and makes it ready. He also prepares for Himself instruments of death; He makes His arrows into fiery shafts."*
 
-**V.** That he is ***long-suffering, most clement, and most merciful***; wherefore they who do repentance ought not to doubt of his mercy and goodness. [*Luther: T. 4, p. 102, from the Sermon at Pentecost*] **Ps. 103:8–12** — *"The Lord is compassionate and merciful; long-suffering and plenteous in mercy... As a father hath compassion on his children, so hath the Lord compassion on them that fear him."* **John 3:16**.
+**V.** That he is ***long-suffering, most clement, and most merciful***; wherefore they who do repentance ought not to doubt of his mercy and goodness. [*Luther: T. 4, p. 102, from the Sermon at Pentecost*] **Ps. 103:8, 13** — *"The Lord is merciful and gracious, slow to anger, and abounding in mercy... As a father pities his children, so the Lord pities those who fear Him."* **John 3:16**.
 
 — ❦ —
 
@@ -616,7 +616,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 ### Objection II. If God were one, he would also govern in one manner, and would do well to the good and ill to the evil. But we see the contrary happen. *Ergo* [there are more Gods].
 
-**Respondeo** to the Major: **God has his own causes why in this life he sometimes spares the evil and burdens the good with the cross and calamities.** He tolerates the evil patiently for a time, that by his long-suffering he may call them to repentance — **Rom. 2:4**. The good, however, he presses with the cross that he may exercise their faith, hope, and patience. Whence **Ps. 119:71** says: *"It is good for me, Lord, that thou hast humbled me, that I may learn thy justifications."*
+**Respondeo** to the Major: **God has his own causes why in this life he sometimes spares the evil and burdens the good with the cross and calamities.** He tolerates the evil patiently for a time, that by his long-suffering he may call them to repentance — **Rom. 2:4**. The good, however, he presses with the cross that he may exercise their faith, hope, and patience. Whence **Ps. 119:71** says: *"It is good for me that I have been afflicted, that I may learn Your statutes."*
 
 — ❦ —
 
@@ -1498,7 +1498,7 @@ This is most conveniently and plainly declared by the similitude of ***iron igni
 
 ### Objection V. To edit miracles is the work proper to the Divinity alone. *Ergo* it can in no wise be ascribed to the assumed humanity.
 
-**Respondeo**: **Miracles are rightly and deservedly ascribed to the divine nature.** For the ***virtue of editing miracles*** is an essential property of Divinity alone — **Ps. 86:10**: *"Thou art God alone, who doest wondrous things."*
+**Respondeo**: **Miracles are rightly and deservedly ascribed to the divine nature.** For the ***virtue of editing miracles*** is an essential property of Divinity alone — **Ps. 86:10**: *"You alone are God, and do wondrous things."*
 
 But since the whole plenitude of the Divinity in Christ — that is, in his flesh — dwells ***σωματικῶς*** (**Col. 2:9**), this divine virtue and power ***exerts itself in, with, and through the assumed human nature***. For to this very end has it been assumed by the ***λόγος*** into the unity of the Person, that the Divinity of the ***λόγος*** may in, with, and through it accomplish its operations.
 
@@ -1832,7 +1832,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **But my sins are too great to approach Christ?**
 
-**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace abounded much more."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Luke 15:7** — *"There shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance."* **Isa. 1:18** — *"If your sins be as scarlet, they shall be made white as snow; and if they be red as crimson, they shall be white as wool."* **Ps. 103:3** — *"Who forgiveth all thy iniquities."*
+**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace abounded much more."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Luke 15:7** — *"There shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance."* **Isa. 1:18** — *"If your sins be as scarlet, they shall be made white as snow; and if they be red as crimson, they shall be white as wool."* **Ps. 103:3** — *"Who forgives all your iniquities."*
 
 Hither let there also be referred the **examples of all sinners who, for Christ's sake, have obtained mercy and received remission of their sins**: **Adam and Eve, David, Manasses, the Publican** — **Matt. 9:12–13**; **Magdalene** — **Luke 7:37**; the **Thief on the cross** — **Luke 23**; **Paul** — **Acts 9; 1 Tim. 1**.
 
@@ -1882,7 +1882,7 @@ Since this name (with the Apostle, **Phil. 2**) was given ***from grace*** to Ch
 
 **In sum**: If he had first acquired majesty and glory for himself by his passion, he could not have manifested his glory before the passion. But he did manifest — **John 1, 2**. He therefore had it before the passion, and did not first acquire it through the passion. And he is said to be exalted, and to be gifted with the name of God, ***after the passion*** — not because through the passion he acquired for himself that exaltation. But because through the resurrection he entered upon the ***full assumption and manifestation*** of his divine glory, to which in the very incarnation he had been exalted or raised.
 
-### Objection II. **Ps. 110:7** — *"He shall drink of the torrent in the way: therefore shall he lift up the head."* *Ergo* by his passion he also merited for himself.
+### Objection II. **Ps. 110:7** — *"He shall drink of the brook by the wayside; therefore He shall lift up the head."* *Ergo* by his passion he also merited for himself.
 
 **Respondeo**: **The particle ***therefore*** does not denote a meriting cause, but the ***glorious event*** of Christ's passion.** As at **Luke 24:26** by Christ himself this is taught: *"Ought not Christ to have suffered these things, and so to enter into his glory?"* For this order had been ***foreordained by God***, that Christ, ***for the cause of our salvation***, should suffer, and by this way of his passion should ***accede to the full assumption of his divine majesty*** — so that his ***bitter passion and death*** the ***most glorious event of the resurrection*** and glorification should follow. Not that these things had a meriting cause, but that Christ ***as Man***, first humbled through the passion, afterwards through the ***glorious resurrection*** and other similar works, ought to reveal his divine majesty and glory to the whole world — which majesty or glory ***as God from eternity he had had***, but ***as Man in time*** he received through the mystery of the incarnation.
 
@@ -2074,7 +2074,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Is Christ an eternal Priest?**
 
-**Most certainly.** **Ps. 110:4** — *"Thou art a Priest for ever."*
+**Most certainly.** **Ps. 110:4** — *"You are a Priest forever."*
 
 — ❦ —
 
@@ -2358,7 +2358,7 @@ Whether the Holy Spirit is present in us ***essentially or virtually***: in the 
 
 **Does God govern most freely, or is he tied to second causes?**
 
-**Since God created and disposed all things ***most freely*** by his Word, he is not bound to second causes, but in all creatures he most freely acts, has all in his hand, and can change the order instituted by him whensoever he wills.** [*Gen. T. 1, p. 8, f.b.*] **Ps. 115:3** — *"But our God is in heaven; he hath done all things whatsoever he would."* **Ps. 135:5–6** — *"For I have known that the Lord is great, and our God is above all gods. Whatsoever the Lord pleased he hath done, in heaven, in earth, in the sea, and in all the deeps."*
+**Since God created and disposed all things ***most freely*** by his Word, he is not bound to second causes, but in all creatures he most freely acts, has all in his hand, and can change the order instituted by him whensoever he wills.** [*Gen. T. 1, p. 8, f.b.*] **Ps. 115:3** — *"But our God is in heaven; He does whatever He pleases."* **Ps. 135:5–6** — *"For I know that the Lord is great, and our Lord is above all gods. Whatever the Lord pleases He does, in heaven and in earth, in the seas and in all deep places."*
 
 All the miracles of the Old and New Testament testify that God is a most free agent, enclosed by no ***confines*** of creatures and second causes. Wherefore, though we fall into difficulties and straits so that ***we seem forsaken by all creatures***, yet let us ***not be terrified***, much less lose heart, cast away faith and hope, but let us ***know: our Lord God is greater than all creatures, has all things in his hand, and does whatsoever he wills***.
 
@@ -2368,7 +2368,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **Shall the world be eternal?**
 
-**It shall not be eternal.** [*Gen. T. 4, p. 159; Gen. T. 1, p. 141*] **Ps. 102:26–27** — *"In the beginning, O Lord, thou foundedst the earth: and the heavens are the works of thy hands. They shall perish, but thou remainest: and all of them shall grow old like a garment. And as a vesture thou shalt change them, and they shall be changed."* **Luke 21:33** — *"Heaven and earth shall pass away, but my words shall not pass away."*
+**It shall not be eternal.** [*Gen. T. 4, p. 159; Gen. T. 1, p. 141*] **Ps. 102:25–26** — *"Of old You laid the foundation of the earth, and the heavens are the work of Your hands. They will perish, but You will endure; yes, they will all grow old like a garment; like a cloak You will change them, and they will be changed."* **Luke 21:33** — *"Heaven and earth shall pass away, but my words shall not pass away."*
 
 — ❦ —
 
@@ -2438,7 +2438,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **XI.** The ***Ophians***, who said that ***worlds are innumerable***. The same felt the ***Epicureans***. ***Origen*** also in ***De Principiis***, lib. 3, is of this opinion — that besides this ***visible and conspicuous*** world, there is yet another ***also created by God before this***, etc. But at **Gen. 1** it is expressly said that ***God created heaven and earth***, and there was no world before, ***either visible or invisible***. Nor then did God make many worlds. Rather, as there is ***one*** God, so also there is only ***one*** world. And if there were more, ***the Holy Spirit in Scripture would without doubt have signified this***.
 
-**XII.** The ***Epicureans***, who deny that God ***cares for created things***, etc. This error, or rather fury, is refuted at **Acts 17:28**: *"In him we live, and move, and are."* **Ps. 104:27–28** — *"All expect of thee that thou give them food."* **Ps. 147:8** — *"Who covereth the heaven with clouds, and prepareth rain for the earth,"* etc. Nor does their argument avail: ***"Often it goes well with the evil,"*** etc. *Ergo* [God does not care].
+**XII.** The ***Epicureans***, who deny that God ***cares for created things***, etc. This error, or rather fury, is refuted at **Acts 17:28**: *"In him we live, and move, and are."* **Ps. 104:27** — *"These all wait for You, that You may give them their food in due season."* **Ps. 147:8** — *"Who covers the heavens with clouds, who prepares rain for the earth,"* etc. Nor does their argument avail: ***"Often it goes well with the evil,"*** etc. *Ergo* [God does not care].
 
 **XIII.** Contrariwise the ***Stoics and Platonists***, who felt that ***the world is God***, and has ***soul and mind***. And most of the ancients called the ***Sun the mind of the world***, as **Cicero and Pliny**, following Homer.
 
@@ -2454,9 +2454,9 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **II. From the miracles which God has performed, both in the Old and in the New Testament.**
 
-**III. From the ***infallible Word of God***, in which he himself perspicuously testifies that he takes care of all creatures.** **1 Tim. 4:10** — *"For therefore we labour and are reviled, because we hope in the living God, who is the Saviour of all men, especially of the faithful."* **Ps. 145:8–9** — *"The Lord is gracious and merciful: patient and plenteous in mercy. The Lord is sweet to all: and his tender mercies are over all his works."* **Ps. 147:8–9** — *"Who covereth the heaven with clouds, and prepareth rain for the earth: who maketh grass to grow on the mountains, and herbs for the service of men. Who giveth to beasts their food: and to the young ravens that call upon him."*
+**III. From the ***infallible Word of God***, in which he himself perspicuously testifies that he takes care of all creatures.** **1 Tim. 4:10** — *"For therefore we labour and are reviled, because we hope in the living God, who is the Saviour of all men, especially of the faithful."* **Ps. 145:8–9** — *"The Lord is gracious and full of compassion, slow to anger and great in mercy. The Lord is good to all, and His tender mercies are over all His works."* **Ps. 147:8–9** — *"Who covers the heavens with clouds, who prepares rain for the earth, who makes grass to grow on the mountains. He gives to the beast its food, and to the young ravens that cry."*
 
-Hither pertain the Scripture testimonies which expressly demonstrate that ***God cares for, cherishes, and preserves the political Magistrate***. **Ps. 127:1** — *"Unless the Lord keep the city, he watcheth in vain that keepeth it."* **Ps. 147:13** — *"Because he hath strengthened the bolts of thy gates, he hath blessed thy children within thee. Who hath placed peace in thy borders: and filleth thee with the fat of corn."* Similarly, those sayings of Scripture which testify that ***the household is God's care*** — **Ps. 128**: *"Blessed are all they that fear the Lord: that walk in his ways,"* etc.
+Hither pertain the Scripture testimonies which expressly demonstrate that ***God cares for, cherishes, and preserves the political Magistrate***. **Ps. 127:1** — *"Unless the Lord guards the city, the watchman stays awake in vain."* **Ps. 147:13–14** — *"For He has strengthened the bars of your gates; He has blessed your children within you. He makes peace in your borders, and fills you with the finest wheat."* Similarly, those sayings of Scripture which testify that ***the household is God's care*** — **Ps. 128**: *"Blessed are all they that fear the Lord: that walk in his ways,"* etc.
 
 — ❦ —
 
@@ -2472,7 +2472,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **What is the use of this doctrine?**
 
-**I.** That thence we may contemplate the ***admirable wisdom and power of God*** in the disposition and government of all things, and learn to give thanks to him for his singular goodness. **Ps. 139:17** — *"But to me thy friends, O God, are made exceedingly honourable: their principality is exceedingly strengthened. I will number them, and they shall be multiplied above the sand."*
+**I.** That thence we may contemplate the ***admirable wisdom and power of God*** in the disposition and government of all things, and learn to give thanks to him for his singular goodness. **Ps. 139:17–18** — *"How precious also are Your thoughts to me, O God! How great is the sum of them! If I should count them, they would be more in number than the sand."*
 
 **II.** That we may know, especially, that ***the gathering and preservation of the Church is God's work***. For otherwise, in such furies of Satan and of his organs, it would be impossible that the Church, ministry, and public assemblies could remain and be preserved.
 
@@ -2644,7 +2644,7 @@ Concerning ***evil events***, it must be known:
 
 **Are the Angels many?**
 
-**They are many, and indeed far more than the Devils** [*Luther: T. 5, p. 518*], who all stand in the custody of the Lord, and execute his mandates, guard and protect the pious. **Dan. 7:10** — *"Thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him."* **Ps. 91:11** — *"For he hath given his angels charge over thee, to keep thee in all thy ways."* Let these promises console us against the rage and fury of the Devil.
+**They are many, and indeed far more than the Devils** [*Luther: T. 5, p. 518*], who all stand in the custody of the Lord, and execute his mandates, guard and protect the pious. **Dan. 7:10** — *"Thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him."* **Ps. 91:11** — *"For He shall give His angels charge over you, to keep you in all your ways."* Let these promises console us against the rage and fury of the Devil.
 
 — ❦ —
 
@@ -3166,7 +3166,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Is conversion a coercion?**
 
-**By no means.** But God ***changes the contumacious and rebellious heart of man*** and makes it obedient to himself, regenerates and renews it — that from a contumacious heart it becomes a ***spontaneous heart***, and that now regenerate it ***of its own accord*** assents to the promise of grace — **Ps. 110:3**: *"Thy people are spontaneous,"* etc. **Rom. 7:22** — *"For I delight in the Law of God according to the inward man,"* etc. [*T. 5, p. 310*]
+**By no means.** But God ***changes the contumacious and rebellious heart of man*** and makes it obedient to himself, regenerates and renews it — that from a contumacious heart it becomes a ***spontaneous heart***, and that now regenerate it ***of its own accord*** assents to the promise of grace — **Ps. 110:3**: *"Your people shall be volunteers,"* etc. **Rom. 7:22** — *"For I delight in the Law of God according to the inward man,"* etc. [*T. 5, p. 310*]
 
 — ❦ —
 
@@ -3402,7 +3402,7 @@ Therefore let us beware of sins, nor be secure in sins. For **God is a consuming
 
 **IV.** **Horrid perversion and corruption of mind, understanding, will, heart, and of all the powers and faculties of man, and inclination to evil** — **Rom. 8; Gen. 6, 8**.
 
-**V.** **All kinds of evils, punishments, and infinite misery**, under which daily labouring we groan — **Ps. 90:7–8**: *"For we have failed in thy wrath, and are troubled in thy fury: thou hast set our iniquities in thy sight,"* etc.
+**V.** **All kinds of evils, punishments, and infinite misery**, under which daily labouring we groan — **Ps. 90:7–8**: *"For we have been consumed by Your anger, and by Your wrath we are terrified. You have set our iniquities before You,"* etc.
 
 **VI.** **All kinds of diseases, and death itself** — **Gen. 2; Rom. 6**.
 
@@ -3550,7 +3550,7 @@ Here, if we abide (as we ought) in the words of Scripture, there is no need of t
 
 **Very much so.** Human reason indeed **extenuates** it, and reckons it to be a light sin. But that it is truly sin, and indeed a *condemning* sin [*[Luther: T. 3, p. 310*]*], is manifest from what follows:
 
-**1.** That **God threatens against it death and all evils** — **Ps. 90:8**: *"Thou hast set our iniquities in thy sight, our secret things in the illumination of thy countenance."*
+**1.** That **God threatens against it death and all evils** — **Ps. 90:8**: *"You have set our iniquities before You, our secret sins in the light of Your countenance."*
 
 **2.** **The horrid evils which follow original sin evince how great an evil it is.** For it corrupts the sense, reason, will, heart, and all faculties — nay, the very body and soul — so that from the heart of man **evil thoughts and sins of every kind** ever proceed, and the sense and thought of man's heart is prone to evil from his youth.
 
@@ -4182,7 +4182,7 @@ But since **no one keeps or does these**, no one of men **through his own works 
 
 **Men not-regenerate cannot satisfy the Law of God.** For an evil tree cannot bring forth good fruits — **Matt. 8[7]:8**. And **an evil man out of the evil treasure of his heart brings forth evil things** — **Matt. 12:35**. To this, **human nature cannot bear even to hear the voice of the Law**, much less fulfil the whole Law by doing — **Exod. 19, 20; Deut. 5**. It is besides most certain that **there can be given no one of rational men, who would perfectly perform and fulfil the Law** — **Rom. 3:20**: *"For by the works of the Law shall no flesh be justified before him."*
 
-And **Moses himself, Exod. 34:7**, testifies that **no one of men perfectly obeys the Law**: *"For no one is innocent per se before thee."* The same the Prophets and Apostles testify. **Ps. 130:3** — *"If thou, O Lord, wilt observe iniquities, Lord, who shall stand?"* **Ps. 143:2** — *"Enter not into judgement with thy servant, for no living shall be justified in thy sight."* The same **Christ** also shows in the **parable of him who fell among the robbers, Luke 10**; and in the other **parable of the servant owing his Lord ten thousand talents, Matt. 18:24**.
+And **Moses himself, Exod. 34:7**, testifies that **no one of men perfectly obeys the Law**: *"For no one is innocent per se before thee."* The same the Prophets and Apostles testify. **Ps. 130:3** — *"If You, Lord, should mark iniquities, O Lord, who could stand?"* **Ps. 143:2** — *"Do not enter into judgment with Your servant, for in Your sight no one living is righteous."* The same **Christ** also shows in the **parable of him who fell among the robbers, Luke 10**; and in the other **parable of the servant owing his Lord ten thousand talents, Matt. 18:24**.
 
 — ❦ —
 
@@ -5312,7 +5312,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He saith not, in seeds, as of many, but as of one — and to thy seed, which is Christ."* **1 Cor. 1:30**: *"Christ is made unto us wisdom from God, and righteousness, and sanctification, and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
 
-**II.** That **contrite and perturbed hearts may have a certain and firm consolation, and may be able to sustain and overcome the temptations of sin and the wrath of God** — **Ps. 130:4**: *"For with thee is propitiation."* **Propitiation therefore thou wilt find not in Moses, not in the Law, not in thy works, but in Christ alone, and in his most holy merit**. For **in him alone and in no other, thy contrite heart and labouring conscience can safely confide** — and **it is impossible that in the terrors of conscience thou find firm consolation, unless thou confide and acquiesce in the sole obedience and satisfaction of Christ**.
+**II.** That **contrite and perturbed hearts may have a certain and firm consolation, and may be able to sustain and overcome the temptations of sin and the wrath of God** — **Ps. 130:4**: *"But there is forgiveness with You."* **Propitiation therefore thou wilt find not in Moses, not in the Law, not in thy works, but in Christ alone, and in his most holy merit**. For **in him alone and in no other, thy contrite heart and labouring conscience can safely confide** — and **it is impossible that in the terrors of conscience thou find firm consolation, unless thou confide and acquiesce in the sole obedience and satisfaction of Christ**.
 
 **III.** That **the discrimen of Law and Gospel may remain, and that against presumption and desperation we may have certain counsel**. For if **in the works of the Law righteousness be sought, the discrimen of Law and Gospel is taken away, and either presumption or desperation followeth**. **Presumption the Law worketh in those who have not yet attained its mind, and have not yet experienced its power. Desperation, however, in those who by the doctrine of the Law have been terrified, and led into the knowledge of their sins and of the wrath of God**. Necessary therefore it is, that **the labouring, contrite, humbled heart apprehend Christ alone and his merit — for from this alone certain and firm consolation is born**.
 
@@ -5866,7 +5866,7 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **Very much so.** For **Sacred Scripture itself useth the word "necessity" — Rom. 3:5; 1 Cor. 9:16; Acts 5:29**. **By the word "necessity" is to be understood the necessity of order, of the mandate and will of Christ, and of our debt — not however the necessity of coercion**. For **it doth not show a violent coercion, but the order of the immutable will of God, of whom we are debtors, since the very commandments of God show that the creature oweth obedience to his Creator** — **Rom. [8:12]**: *"We are debtors, not to the flesh."*
 
-**For the obedience of the faithful is spontaneous** — **Ps. 110:3**: *"Thy people shall be voluntary in the day of thy victory."* **2 Cor. 9:7**: *"God loveth a cheerful giver."* But **this promptitude and spontaneous will is not from the flesh but from the Spirit and the interior man, who is delighted with the Law of God — Rom. 7:22**.
+**For the obedience of the faithful is spontaneous** — **Ps. 110:3**: *"Your people shall be volunteers in the day of Your power."* **2 Cor. 9:7**: *"God loveth a cheerful giver."* But **this promptitude and spontaneous will is not from the flesh but from the Spirit and the interior man, who is delighted with the Law of God — Rom. 7:22**.
 
 — ❦ —
 
@@ -5910,7 +5910,7 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **Thirdly**, **all the saints, so long as they live this life, daily have need to pray: Forgive us our debts** — which is a most certain [proof] of their imperfection.
 
-**Fourthly**, **expressly the Scripture testifieth the same, Job 9:2–3**: *"Truly I know that so it is, and that a man will not be justified compared with God: if he willeth to contend with him, he cannot answer him one for a thousand."* **Ps. 143:2**: *"Enter not into judgement with thy servant, for in thy sight shall no living man be justified."*
+**Fourthly**, **expressly the Scripture testifieth the same, Job 9:2–3**: *"Truly I know that so it is, and that a man will not be justified compared with God: if he willeth to contend with him, he cannot answer him one for a thousand."* **Ps. 143:2**: *"Do not enter into judgment with Your servant, for in Your sight no one living is righteous."*
 
 By these therefore so many immoveable sayings of Scripture, **no man before GOD can glory of his perfection**; and **much less can he attribute this to himself, that his good works expiate sin in the sight and judgement of GOD**. For **this honour is owed to the Lamb of God alone — John [1:29]** — and **what is unclean in the sight of GOD, can cleanse nothing**. Whence the Apostle **Phil. 3:7–9**: *"What things were gain to me, these I have counted for Christ as detriments. But truly I esteem all things to be detriment for the eminent knowledge of Christ Jesus my Lord, on whose account I have made all things detriment, and I esteem them as dung, that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Jesus Christ."*
 
@@ -6286,7 +6286,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 **Secondly**: **Neither by any word doth he say, that alms or other works in the sight or judgement of God satisfy for sins or for the punishments of sins — which the Adversaries thence attempt to gather** (for of this **no word, no letter is in Daniel**) — but **the Adversaries feign this in the words of the Prophet, for the defence of their own error**.
 
-**Thirdly**: And on this very account **the interpretation of the Papists cannot subsist**, because **it expressly contradicteth the chief testimonies of Scripture concerning the expiation and satisfaction of Christ**. For **1 Pet. [1:18–19]** it is said: *"Knowing that not with corruptible things — with gold or silver — ye have been redeemed from your vain conversation of paternal tradition, but with the precious blood as of the immaculate Lamb of Christ."* But **alms are among these corruptible things**. Alms **are in no wise the precious blood of Christ, to whom alone redemption is and ought to be attributed** — **Eph. 1:7**: *"In whom we have redemption through his blood."* But **alms are not the blood of Christ**. **Ps. 130:8**: *"He himself shall redeem Israel from all his iniquities"* — he saith not: *"Alms redeem from iniquities or from their punishments."*
+**Thirdly**: And on this very account **the interpretation of the Papists cannot subsist**, because **it expressly contradicteth the chief testimonies of Scripture concerning the expiation and satisfaction of Christ**. For **1 Pet. [1:18–19]** it is said: *"Knowing that not with corruptible things — with gold or silver — ye have been redeemed from your vain conversation of paternal tradition, but with the precious blood as of the immaculate Lamb of Christ."* But **alms are among these corruptible things**. Alms **are in no wise the precious blood of Christ, to whom alone redemption is and ought to be attributed** — **Eph. 1:7**: *"In whom we have redemption through his blood."* But **alms are not the blood of Christ**. **Ps. 130:8**: *"And He shall redeem Israel from all his iniquities"* — he saith not: *"Alms redeem from iniquities or from their punishments."*
 
 **Fourthly**: And hence it is clear, that **the Prophet doth not speak with the king concerning a Papist satisfaction for temporal punishments**. For as **the Papists themselves confess and speak**: **only the regenerate and faithful can satisfy by alms for temporal punishments**. But **it is beyond controversy, that King Nabuchodonozor, when Daniel was speaking these things to him, was not yet regenerate and converted to true faith, but was to be converted and justified**: for **he was then an inflated and impious Tyrant, who of conversion to God knew nothing certain**, as **cap. 4 of Daniel abundantly attesteth**. Wherefore **plainly incongruous it is, that the Papists distort these words of Daniel unto satisfaction for temporal punishments**.
 
@@ -6530,7 +6530,7 @@ Hence gloriously **Augustine**: *"To him faithfully supplicating GOD for the nec
 
 **What is to be done, when God greatly defers his hearing?**
 
-Here **Ps. 27:14 answereth**: *"Await the Lord, act manfully, and let thy heart be strengthened, and sustain the Lord."* And **Ps. 130:5–7**: *"I have sustained thee, Lord; my soul hath sustained in his word, my soul hath hoped in the Lord — from the morning watch even to the night, let Israel hope in the Lord."* And **Hab. 2:3**: *"If it delay, expect it, because coming it shall come, and shall not tarry."* **Lam. 3:26–27**: *"It is good to prestolate with silence the salvation of God; it is good to a man, when he shall have borne the yoke from his adolescence: he shall sit solitary, and shall be silent."* [*[Gen. 25, T. 3, p. 7*]*]
+Here **Ps. 27:14 answereth**: *"Wait on the Lord; be of good courage, and He shall strengthen your heart; wait, I say, on the Lord."* And **Ps. 130:5–7**: *"I wait for the Lord, my soul waits, and in His word I do hope. My soul waits for the Lord more than those who watch for the morning — yes, more than those who watch for the morning. Let Israel hope in the Lord."* And **Hab. 2:3**: *"If it delay, expect it, because coming it shall come, and shall not tarry."* **Lam. 3:26–27**: *"It is good to prestolate with silence the salvation of God; it is good to a man, when he shall have borne the yoke from his adolescence: he shall sit solitary, and shall be silent."* [*[Gen. 25, T. 3, p. 7*]*]
 
 For on this account God oftentimes **deferreth the hearing of our prayers, that in his own time — far beyond what we asked or expected — he may bestow it upon us**. **Eph. 3:20**: *"To him, who is powerful to do all things superabundantly beyond what we ask or understand, according to the power which worketh in us, be glory in the Church"* [*[…p. 490 f. b*]*].
 
@@ -6574,7 +6574,7 @@ The leper, **Matt. 8:2**, cleansing from leprosy; the Canaanite woman, **Matt. 1
 
 **What should kindle and excite in the faithful the exercise and study of invocation?**
 
-**The mandate of God — Matt. 7:7**: *"Ask,"* etc. **Ps. 50:15** [*[T. 3, pp. 437, 438; T. 4, pp. 435, 436*]*]. **The most ample promises concerning the hearing of prayers — John 16:23; Ps. 145:19**: *"He shall do the will of those fearing him."* And **our proper necessity — for at each moment we are in need of the aid and protection of God**. Necessary therefore it is, that **at each moment we cry to him, and pour out our hearts before him** [*[Ps. 126:4, p. 449*]*].
+**The mandate of God — Matt. 7:7**: *"Ask,"* etc. **Ps. 50:15** [*[T. 3, pp. 437, 438; T. 4, pp. 435, 436*]*]. **The most ample promises concerning the hearing of prayers — John 16:23; Ps. 145:19**: *"He will fulfill the desire of those who fear Him."* And **our proper necessity — for at each moment we are in need of the aid and protection of God**. Necessary therefore it is, that **at each moment we cry to him, and pour out our hearts before him** [*[Ps. 126:4, p. 449*]*].
 
 — ❦ —
 
@@ -11514,7 +11514,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **What is the efficient cause of divine miracles?**
 
-**Respondeo**: **God himself, Ps. 72:18**: *"Blessed be the Lord God of Israel, who alone doth wondrous things."* **Ps. 136:4**: *"Who alone doth great wonders."* **John 10:25**: *"The works that I do in My Father's name."*
+**Respondeo**: **God himself, Ps. 72:18**: *"Blessed be the Lord God of Israel, who alone doth wondrous things."* **Ps. 136:4**: *"To Him who alone does great wonders."* **John 10:25**: *"The works that I do in My Father's name."*
 
 — ❦ —
 
@@ -11570,7 +11570,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **III. That they might bear testimony, that Jesus is Christ, true God, and Saviour of the world, Isa. 35:4–5, Matt. 11:4**: *"Go and tell John the things which ye have heard and seen: the blind see, the lame walk, the lepers are cleansed."*
 
-**IV. That they might testify, that God through and on account of Christ, from all dangers is able and willing to save us. Matt. [11:28]**: *"Come unto me all,"* &c. **Ps. 68:21**: *"Our God is the God of them that make safe."*
+**IV. That they might testify, that God through and on account of Christ, from all dangers is able and willing to save us. Matt. [11:28]**: *"Come unto me all,"* &c. **Ps. 68:20**: *"Our God is the God of salvation."*
 
 — ❦ —
 
@@ -11956,7 +11956,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**:
 
-**I. That they know these all things to happen unto them according to the good will of God, and not by chance or by hazard. Matt. 10:30**: *"But the very hairs of your head are all numbered."* **Ps. 68:20**: *"Blessed be the Lord daily; God will lay a burden upon us — God of our salvations: Our God, the God of them that make safe: And of the Lord, the Lord, are the goings forth of death."*
+**I. That they know these all things to happen unto them according to the good will of God, and not by chance or by hazard. Matt. 10:30**: *"But the very hairs of your head are all numbered."* **Ps. 68:19–20**: *"Blessed be the Lord, who daily loads us with benefits, the God of our salvation! Our God is the God of salvation; and to God the Lord belong escapes from death."*
 
 **II. That good it is with silence to await the salvation of God**: *"Good it is to a man, when he shall have borne the yoke from his youth. He shall sit solitary and shall be silent, because he hath lifted himself above [himself],"* &c. **Lam. 3:26–28.**
 
@@ -12680,7 +12680,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **But what in man dieth?**
 
-**Respondeo**: **The body. For the soul cannot be killed, Matt. 10:28. Gen. 3:19**: *"because dust thou art, and to dust thou shalt return."* **Ps. 90:3**: *"Thou makest man to return unto crushing, and thou sayest: Return, ye sons of men."*
+**Respondeo**: **The body. For the soul cannot be killed, Matt. 10:28. Gen. 3:19**: *"because dust thou art, and to dust thou shalt return."* **Ps. 90:3**: *"You turn man to destruction, and say: Return, O children of men."*
 
 — ❦ —
 
@@ -13794,7 +13794,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **III. Truly also free shall we be from the tyranny of the Devil and the torments of hell. 1 Cor. 15, Apoc. 12, Apoc. 20:10**: *"And the Devil was cast into the lake of fire and sulphur."* **Hos. 13, John 8.**
 
-**IV. So truly free shall we be from all miseries and calamities, interior and exterior. Isa. 25:8**: *"And the Lord God shall wipe away tears from every face."* **Ps. 116:8**: *"Because he hath rescued my soul from death, my eyes from tears, my feet from falling."* **John 16:20**: *"but your sorrow will be turned into joy."*
+**IV. So truly free shall we be from all miseries and calamities, interior and exterior. Isa. 25:8**: *"And the Lord God shall wipe away tears from every face."* **Ps. 116:8**: *"For You have delivered my soul from death, my eyes from tears, and my feet from falling."* **John 16:20**: *"but your sorrow will be turned into joy."*
 
 **V. Our bodies shall be configured to the body of Christ's brightness, Phil. 3:21. In such wise however, that its prerogative may remain unto the body of Christ over the bodies of Saints. The body of Christ is now immortal, so shall ours then be immortal. 1 Cor. 15: Now we have a natural body, so then we shall have a spiritual body. Matt. 13:43**: *"Then shall the just shine as the sun, in the kingdom of their Father."*
 
