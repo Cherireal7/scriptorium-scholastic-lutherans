@@ -180,7 +180,7 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 
 **Acts 10:43** — *"To him [Jesus] all the Prophets bear witness, that all who believe in him shall receive remission of sins through his name."*
 
-**Rom. 4:3** — *"For what saith the Scripture? Abraham believed God, and it was reputed to him unto justice."*
+**Rom. 4:3** — *"For what does the Scripture say? Abraham believed God, and it was accounted to him for righteousness."*
 
 **II.** **No religion in the world has been so confirmed and established by so many illustrious and truly divine works and miracles as the Christian faith** — as the histories of the Old and New Testaments abundantly witness. Besides this, no religion, though it has attempted them, has been able to bring forth similar works.
 
@@ -3060,9 +3060,9 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **VI.** ***All men are flesh*** — that is, their whole life, all thoughts and actions are ***carnal***, are ***enmity***, and cannot please God, unless man be born again. [*Luther: T. 7, p. 4; on Sunday of Trinity; In Postilla Eccl.; T. 5, p. 520*]
 
-**VII.** ***No man can glory of his own powers before God***. For ***all have sinned, and lack the glory of God***, and glorying is excluded — **Rom. 3:23, 26** — because ***all are conceived and born in sins***. [*Luther: T. 8, p. 53*]
+**VII.** ***No man can glory of his own powers before God***. For ***all have sinned, and fall short of the glory of God***, and glorying is excluded — **Rom. 3:23, 26** — because ***all are conceived and born in sins***. [*Luther: T. 8, p. 53*]
 
-**VIII.** ***All are guilty in God's judgement***. **Rom. 3:19** — *"that every mouth may be stopped and all the world may be made subject to God"* — ***ἵνα ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ Θεῷ*** — **v. 22–23**: *"For there is no distinction: for all have sinned, and lack the glory of God."* They cannot glory ***that before God they are innocent and just***. [*Luther: T. 8, p. 164*]
+**VIII.** ***All are guilty in God's judgement***. **Rom. 3:19** — *"that every mouth may be stopped, and all the world may become guilty before God"* — ***ἵνα ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ Θεῷ*** — **v. 22–23**: *"For there is no difference: for all have sinned, and fall short of the glory of God."* They cannot glory ***that before God they are innocent and just***. [*Luther: T. 8, p. 164*]
 
 — ❦ —
 
@@ -3365,7 +3365,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 These:
 
-**I.** That she **utterly corrupts man**. **Ps. 14** — *"They are corrupt, and are become abominable in their studies."* **Rom. 3:12–17** — *"They are all gone astray, together become useless,"* etc.
+**I.** That she **utterly corrupts man**. **Ps. 14** — *"They are corrupt, and are become abominable in their studies."* **Rom. 3:12–17** — *"They have all turned aside; they have together become unprofitable,"* etc.
 
 **II.** That **she is not idle, but ever brings forth evil fruits**. **Gen. 6:5; 8:21** — *"For the sense and thought of man's heart is prone to evil from his youth up."*
 
@@ -4146,7 +4146,7 @@ And what should our works do in so great a matter? — since we are creatures, a
 
 Wherefore it arraigns not only external offences, but also **the interior transgressions and prevarications of heart and soul** — **Rom. 7:14** [*[Luther: T. 2/1, p. 473*]*]: *"We know that the Law is spiritual, but I am carnal, sold under sin."*
 
-**Greatly therefore err the Pharisees and Papists**, who teach that the **Law requires only external obedience, and arraigns and condemns only external sins, but not the internal uncleanness of the heart**. For **the Law does not acquiesce, unless perfect obedience be shown to it by us, and sufficient punishment be paid out** — which hence appears, because **Christ had to fulfil the Law not only by his most perfect obedience, but also to pay out and satisfy for all our sins through his wounds and death, as a sufficient *ἀντίλυτρον*** — **Rom. 4:25**: *"Who was delivered up for our offences, and rose again for our justification."* **Rom. 5:19** — *"For as by the disobedience of one man many were made sinners, so also by the obedience of one shall many be made just."* **Rom. 8:3** — *"For what was impossible to the Law, in that it was weak through the flesh, God, sending his own Son in the likeness of the flesh of sin, of sin damned sin in the flesh,"* etc. **Rom. 10:4** — *"For Christ is the end of the Law unto righteousness to every believer."*
+**Greatly therefore err the Pharisees and Papists**, who teach that the **Law requires only external obedience, and arraigns and condemns only external sins, but not the internal uncleanness of the heart**. For **the Law does not acquiesce, unless perfect obedience be shown to it by us, and sufficient punishment be paid out** — which hence appears, because **Christ had to fulfil the Law not only by his most perfect obedience, but also to pay out and satisfy for all our sins through his wounds and death, as a sufficient *ἀντίλυτρον*** — **Rom. 4:25**: *"who was delivered up because of our offenses, and was raised because of our justification."* **Rom. 5:19** — *"For as by the disobedience of one man many were made sinners, so also by the obedience of one shall many be made just."* **Rom. 8:3** — *"For what was impossible to the Law, in that it was weak through the flesh, God, sending his own Son in the likeness of the flesh of sin, of sin damned sin in the flesh,"* etc. **Rom. 10:4** — *"For Christ is the end of the Law unto righteousness to every believer."*
 
 — ❦ —
 
@@ -4168,7 +4168,7 @@ But since **no one keeps or does these**, no one of men **through his own works 
 
 **First**, **for preserving external discipline, and coercing sins in all orders and estates** — **1 Tim. 1:9**: *"Knowing this, that the Law is not laid for the just, but for the unjust."* And for this cause also **parents, magistrates, and teachers are ordained by God, that they may be custodians of external discipline according to the Law of God, and coerce sins**.
 
-**Then, that it may reduce us men (otherwise secure) to a true knowledge of our sins, and work in our hearts wrath and terror** [*[Luther: T. 4/1, pp. 49–50*]*] — whence it is said **Rom. 3:20**: *"For by the Law is the knowledge of sin."* **Rom. 4:15** — *"For the Law worketh wrath."* For since we men by nature do not understand what is sin and the wrath of God, nor know how horribly our nature is corrupted, **God through the preaching of the Law kills and terrifies our hearts, contrites and humiliates them, that they may be humiliated in the judgement of God**, nor thus secure and obstinately glory and grow insolent, as otherwise, unless they be prepared by the severe preaching of the Law, they are wont to do. **If even the preaching of the Law effects nothing in us**, God applies **the cross, temptations, sicknesses, and afflictions of every kind, that he may soften our hearts, and through these terrors and dreads terrify our heart and conscience, and stir up and, as it were, vivify sin in the conscience** — for **without the Law sin is dead** — **Rom. 7:8–9**.
+**Then, that it may reduce us men (otherwise secure) to a true knowledge of our sins, and work in our hearts wrath and terror** [*[Luther: T. 4/1, pp. 49–50*]*] — whence it is said **Rom. 3:20**: *"For by the Law is the knowledge of sin."* **Rom. 4:15** — *"For the Law brings about wrath."* For since we men by nature do not understand what is sin and the wrath of God, nor know how horribly our nature is corrupted, **God through the preaching of the Law kills and terrifies our hearts, contrites and humiliates them, that they may be humiliated in the judgement of God**, nor thus secure and obstinately glory and grow insolent, as otherwise, unless they be prepared by the severe preaching of the Law, they are wont to do. **If even the preaching of the Law effects nothing in us**, God applies **the cross, temptations, sicknesses, and afflictions of every kind, that he may soften our hearts, and through these terrors and dreads terrify our heart and conscience, and stir up and, as it were, vivify sin in the conscience** — for **without the Law sin is dead** — **Rom. 7:8–9**.
 
 **Thirdly**, [*[Luther: Postilla Ecclesiastica in Epist. dei Circumc.; Dom. III Trinit. in Evang.; Postilla Domestica Dom. 3, 4 Adventus; Epiphan. 13 Trinit.; T. 3, p. 407; T. 7, p. 264; T. 4/2, p. 526*]*] **that it may show to the regenerate and faithful, what works please God, and how they ought to conform their whole life to the will of God** — **Ps. 1:2**: *"But in the Law of the Lord is his delight."* **Rom. 7:22** — *"For I delight in the Law of God according to the inward man."* **Ps. 119:105** — *"Thy Word is a lamp unto my feet, and a light unto my paths."* And finally, **that it may admonish the regenerate of the remaining infirmities, and deter them from security and other sins**.
 
@@ -4432,7 +4432,7 @@ Or: **The Gospel is nothing other than the preaching and announcement of Christ,
 
 **III.** **It is to the world a scandal** [*[Luther: T. 7, p. 397; Postilla Domestica, 3 Advent.; T. 3/1, pp. 37, 373*]*] — **Matt. 11:6**: *"Blessed is he who shall not be scandalised in me."* **For to reason it does not seem consonant, that sinful man should be saved through an alien obedience — namely, of Christ — not through his own works.**
 
-**IV.** **It offers remission of sins and eternal life to all who acknowledge their sins, gratuitously in Christ Jesus** [*[Luther: T. 8, p. 265; T. 3, p. 418 fine; T. 4/1, pp. 607 fine, 753–754*]*] — **Rom. 3:24**: *"Being justified freely by his grace, through the redemption which is in Christ Jesus."*
+**IV.** **It offers remission of sins and eternal life to all who acknowledge their sins, gratuitously in Christ Jesus** [*[Luther: T. 8, p. 265; T. 3, p. 418 fine; T. 4/1, pp. 607 fine, 753–754*]*] — **Rom. 3:24**: *"Being justified freely by His grace through the redemption that is in Christ Jesus."*
 
 — ❦ —
 
@@ -4512,7 +4512,7 @@ Unless Christ had come, and had revealed in the Gospel what is to be answered by
 
 But **the Gospel offers grace, life, and salvation gratuitously even to wretched and unworthy sinners doing penitence, turning themselves to God, and believing on Christ** — **Matt. 11:28**: *"Come unto me, all ye who labour and are burdened, and I will refresh you."* This preaching **truly raises up the contrite and humbled heart, gladdens and consoles it, that it may certainly settle that it is with God in grace, has God propitious to it, and has remission of all its sins for Christ's sake**.
 
-**III.** **The doctrine of the Law does not console, but terrifies and kills** [*[Luther: T. 4, pp. 784, 785*]*], and **fills the heart of man with terrors and dreads**. For it denounces and reveals the wrath of God, the judgement and eternal damnation, which man by his sins has deserved — **Rom. 4:15**: *"The Law worketh wrath."* Without the Law and knowledge of the Law our hearts are swollen and inflated; but touched by the preaching of the Law, they feel nothing but **terrors and dreads of death**, as in Adam, Eve, David, and other sinners it is to be seen. And as Paul in himself, **Rom. 7:9–10**, confesses: *"I was living without the Law once, but when the commandment came, sin revived, but I died; and it was found unto me that the commandment which was unto life, was unto death."*
+**III.** **The doctrine of the Law does not console, but terrifies and kills** [*[Luther: T. 4, pp. 784, 785*]*], and **fills the heart of man with terrors and dreads**. For it denounces and reveals the wrath of God, the judgement and eternal damnation, which man by his sins has deserved — **Rom. 4:15**: *"The Law brings about wrath."* Without the Law and knowledge of the Law our hearts are swollen and inflated; but touched by the preaching of the Law, they feel nothing but **terrors and dreads of death**, as in Adam, Eve, David, and other sinners it is to be seen. And as Paul in himself, **Rom. 7:9–10**, confesses: *"I was living without the Law once, but when the commandment came, sin revived, but I died; and it was found unto me that the commandment which was unto life, was unto death."*
 
 But **the Gospel brings consolation, peace, and gladness of the heart, raises up the sinner, and announces to him the grace and mercy of God — that God on account of Christ wills to remit and condone to him all sins**. As this the examples and experiences of all the faithful testify. **David is glad of heart, when from Nathan he hears absolution and remission of his sins**. So **Manasseh** is consoled by God; likewise **Peter, Mary Magdalene, the Paralytic Matt. 9, the Thief on the cross**, etc. — with wide heart and filial confidence they approach God, address him, and from him as from a propitious Father, without any doubt, expect grace, mercy, and all goods. **Augustine, in his Meditations**, could not have said, that **his whole consolation and the whole confidence of his heart was in the precious blood of the Redeemer Christ Jesus**, unless he had first learned this consolation from the gratuitous preaching of the Gospel.
 
@@ -4612,7 +4612,7 @@ We therefore obtain grace and mercy — as concerns us — **without any merit o
 
 **Very much so.**
 
-For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son voluntarily took it up in himself, and satisfied for all the sins of us all, and was made obnoxious to the Law**. And what was paid out to Christ by God for us is sufficient, and so precious his obedience, that we may **firmly lean upon it without any doubt**. **Christ's obedience therefore is our obedience, and his satisfaction our satisfaction** — **Rom. 4:25**: *"Who was delivered up for our offences, and rose again for our justification."* **1 Cor. 1:30** — *"Who was made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, He that glorieth, let him glory in the Lord."*
+For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son voluntarily took it up in himself, and satisfied for all the sins of us all, and was made obnoxious to the Law**. And what was paid out to Christ by God for us is sufficient, and so precious his obedience, that we may **firmly lean upon it without any doubt**. **Christ's obedience therefore is our obedience, and his satisfaction our satisfaction** — **Rom. 4:25**: *"who was delivered up because of our offenses, and was raised because of our justification."* **1 Cor. 1:30** — *"Who was made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, He that glorieth, let him glory in the Lord."*
 
 — ❦ —
 
@@ -4642,11 +4642,11 @@ For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son
 
 **First**, that **every merit and work of ours be excluded and separated from the article of justification**, and that **only the merit and obedience of Christ prevail in this article, lest the proper honour of redemption and propitiation be taken from him by a huge sacrilege**. For **he alone trod the wine-press** — **Isa. 63:3**. And **he alone was wounded for our iniquities, and bruised for our crimes; and by his stripes we are healed** — **Isa. 53:5**.
 
-**II.** That **our consolation concerning the grace of God may be certain and immoveable** [*[Luther: T. 4/1, pp. 185, 186*]*] — **Rom. 4:16**: *"Therefore is it of faith (righteousness), that according to grace the promise may be sure to all the seed,"* etc. It would not be sure, if it leaned partly or wholly upon the Law, or upon our works, and not upon **mere grace and the sole merit of Christ Jesus**. For although our hearts be purified by faith, and we have received the first-fruits of the Holy Spirit, who also **has begun the new obedience and good works in us**, yet **we have not that obedience and those good works in us which may prevail before God, and be opposed to his severe judgement** — since **many infirmities and iniquities are found even in the faithful and the justified**, which show that inchoate obedience to be **mutilated, maimed, and unclean**. **That therefore the promise of salvation may be sure to us, and that we may not doubt of the grace and mercy of God, it is founded solely in the grace of God, and in the merit of Christ Jesus, and by no means in our works, inchoate new obedience, love of God or neighbour, or the like virtues.**
+**II.** That **our consolation concerning the grace of God may be certain and immoveable** [*[Luther: T. 4/1, pp. 185, 186*]*] — **Rom. 4:16**: *"Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed,"* etc. It would not be sure, if it leaned partly or wholly upon the Law, or upon our works, and not upon **mere grace and the sole merit of Christ Jesus**. For although our hearts be purified by faith, and we have received the first-fruits of the Holy Spirit, who also **has begun the new obedience and good works in us**, yet **we have not that obedience and those good works in us which may prevail before God, and be opposed to his severe judgement** — since **many infirmities and iniquities are found even in the faithful and the justified**, which show that inchoate obedience to be **mutilated, maimed, and unclean**. **That therefore the promise of salvation may be sure to us, and that we may not doubt of the grace and mercy of God, it is founded solely in the grace of God, and in the merit of Christ Jesus, and by no means in our works, inchoate new obedience, love of God or neighbour, or the like virtues.**
 
 **III.** That we may have **the freest and *παρρησία* access to God**, and in all temptations and afflictions may with **more confident and full trust address God, and from him seek aid and deliverance** — **Rom. 5:2**: *"By whom also we have access through faith into this grace wherein we stand,"* and **Eph. 3:12**: *"In whom we have confidence and access with confidence through faith of him."* All which we could by no means have, if not only in the grace of God and the merit of Christ, but also in part in our own merit and inchoate imperfect obedience and works, our salvation were founded.
 
-**IV.** That the proper attribute of faith alone may remain — that **it alone is the instrument and medium by which we apprehend the grace of God and the merit of Christ** — **Rom. 3:28**: *"We decree a man to be justified through faith without the works of the Law."* — But of these below, in the *locus* of faith.
+**IV.** That the proper attribute of faith alone may remain — that **it alone is the instrument and medium by which we apprehend the grace of God and the merit of Christ** — **Rom. 3:28**: *"We conclude that a man is justified by faith apart from the deeds of the Law."* — But of these below, in the *locus* of faith.
 
 — ❦ —
 
@@ -4664,7 +4664,7 @@ He would have cause enough to condemn us, since we are sinners, and **death is t
 
 So this word is used **Rom. 8:33–34**: *"Who shall accuse against the elect of God? God, who justifies. Who is he that condemns? Christ Jesus, who died, nay, who is risen, who is at the right hand of God, who also intercedes for us."* In the same manner it is used, **Isa. 53:11**: *"By his knowledge shall my just servant justify many."* **Acts 13:38** — *"That through this man is announced to you remission of sins from all things, from which ye could not in the Law of Moses be justified; in him every one that believes is justified."*
 
-This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p. 45 fine; T. 4/1, p. 607; Gen. 27, T. 3, p. 67; T. 3, pp. 106, 107, 146*]*] also confirms the forms of speaking, when justification is described, that it is **remission of sins and covering of sins** — **Rom. 4:7; Ps. 32; Ps. 51:1, 2, 5** — item when it is called **imputation of the righteousness of Christ** — **Rom. 4, 5**. Hither also pertains and makes the word *impute*: **Rom. 4:5** — *"But to him that worketh not, but believeth in him that justifies the impious, his faith is reckoned unto righteousness."* Which plainly *ex diametro* is opposed to our works and our merit, and wills nothing else than that **we wretched sinners are justified on account of the merit, obedience, and righteousness of Christ, which he himself merited, and not on account of our own merits or works; and that God the Father imputes all these things to us, as though we ourselves had suffered and performed all which Christ Jesus his only-begotten Son suffered and performed for us**. In this manner therefore **our works are plainly removed and excluded from the article of justification**, so that neither in form, nor in part, nor in cause of our righteousness before God are they; nor by any pretext or name are they drawn into the article of our justification before God as pertaining to it or necessary.
+This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p. 45 fine; T. 4/1, p. 607; Gen. 27, T. 3, p. 67; T. 3, pp. 106, 107, 146*]*] also confirms the forms of speaking, when justification is described, that it is **remission of sins and covering of sins** — **Rom. 4:7; Ps. 32; Ps. 51:1, 2, 5** — item when it is called **imputation of the righteousness of Christ** — **Rom. 4, 5**. Hither also pertains and makes the word *impute*: **Rom. 4:5** — *"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* Which plainly *ex diametro* is opposed to our works and our merit, and wills nothing else than that **we wretched sinners are justified on account of the merit, obedience, and righteousness of Christ, which he himself merited, and not on account of our own merits or works; and that God the Father imputes all these things to us, as though we ourselves had suffered and performed all which Christ Jesus his only-begotten Son suffered and performed for us**. In this manner therefore **our works are plainly removed and excluded from the article of justification**, so that neither in form, nor in part, nor in cause of our righteousness before God are they; nor by any pretext or name are they drawn into the article of our justification before God as pertaining to it or necessary.
 
 — ❦ —
 
@@ -4676,7 +4676,7 @@ This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p.
 
 **Sometimes it signifies the righteousness of good works, or of the new obedience begun in believers through the Holy Spirit** — **Rom. 6:13**: *"Exhibit your members as weapons of righteousness to God."* **2 Tim. 2:22** — *"Follow righteousness,"* etc.
 
-**Sometimes indeed it signifies the righteousness of Christ, or the obedience and merit of Christ, which are imputed to faith** — **Rom. 3:22**: *"But the righteousness of God through faith of Jesus Christ."* Item v. 25: *"For the showing of his righteousness, for the remission of foregoing offences."*
+**Sometimes indeed it signifies the righteousness of Christ, or the obedience and merit of Christ, which are imputed to faith** — **Rom. 3:22**: *"even the righteousness of God, through faith in Jesus Christ."* Item v. 25: *"to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed."*
 
 And so also we use this word in this article of the justification of man before God.
 
@@ -4686,7 +4686,7 @@ And so also we use this word in this article of the justification of man before 
 
 **What therefore is the justification of the sinner before God?**
 
-**Nothing else than the gratuitous imputation of the righteousness and obedience of Christ, and the gratuitous remission of all sins on account of the Passion and most holy and most perfect obedience of Christ** — which God gives to the sinner doing penitence in conversion out of mere and undue grace, and imputes gratuitously through faith on Christ — **Rom. 3:26**: *"That he himself be just, and the justifier of him who is of the faith of Jesus Christ."*
+**Nothing else than the gratuitous imputation of the righteousness and obedience of Christ, and the gratuitous remission of all sins on account of the Passion and most holy and most perfect obedience of Christ** — which God gives to the sinner doing penitence in conversion out of mere and undue grace, and imputes gratuitously through faith on Christ — **Rom. 3:26**: *"that He might be just and the justifier of the one who has faith in Jesus."*
 
 — ❦ —
 
@@ -4694,7 +4694,7 @@ And so also we use this word in this article of the justification of man before 
 
 **What therefore is the righteousness of the sinner before God?**
 
-**Remission of sins and imputed righteousness — in sum, the imputed obedience of Christ, apprehended through faith** [*[Luther: In sum. Ps. 32; T. 3/1, p. 112, notitia*]*] — **Rom. 4:5–7**: *"As also David saith the blessedness of the man to whom God brings acceptable righteousness of Christ without works: Blessed are they whose iniquities are remitted, and whose sins are covered; blessed is the man to whom the Lord hath not imputed sin."* **Rom. 5:19** — *"By the obedience of one, many shall be made just."* **Rom. 10:4** — *"For Christ is the end of the Law, unto righteousness, to every believer."* **2 Cor. 5:19** — *"For God indeed was in Christ reconciling the world to himself, not imputing to them their offences."* And v. 21 — *"Him who knew no sin, for us he made sin, that we might be made the righteousness of God in him."*
+**Remission of sins and imputed righteousness — in sum, the imputed obedience of Christ, apprehended through faith** [*[Luther: In sum. Ps. 32; T. 3/1, p. 112, notitia*]*] — **Rom. 4:5–8**: *"just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: Blessed are those whose lawless deeds are forgiven, and whose sins are covered; blessed is the man to whom the Lord shall not impute sin."* **Rom. 5:19** — *"By the obedience of one, many shall be made just."* **Rom. 10:4** — *"For Christ is the end of the Law, unto righteousness, to every believer."* **2 Cor. 5:19** — *"For God indeed was in Christ reconciling the world to himself, not imputing to them their offences."* And v. 21 — *"Him who knew no sin, for us he made sin, that we might be made the righteousness of God in him."*
 
 For since **we could not satisfy for our sins and exhibit the righteousness of the Law**, God performed both through his Son, **satisfied for sins, fulfilled the Law**, and gives these to us through faith. **And this is our righteousness before him, in which we are pleasing and accepted to him** — since otherwise in our sins and under the curse of the Law we should have perished — **Rom. 8:30**.
 
@@ -4778,7 +4778,7 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 **I.** **His own ineffable mercy and goodness, by which he willeth us to be saved from sins and death** — **John 3:16**: *"For so God loved the world, that he gave his only-begotten Son,"* etc.
 
-**II.** Then **the satisfaction and precious merit of Jesus Christ** — **Rom. 3:24**: *"through the redemption which is in Christ Jesus."* Since Christ Jesus his beloved Son hath acquired it for us.
+**II.** Then **the satisfaction and precious merit of Jesus Christ** — **Rom. 3:24**: *"through the redemption that is in Christ Jesus."* Since Christ Jesus his beloved Son hath acquired it for us.
 
 — ❦ —
 
@@ -4802,7 +4802,7 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 **Are all sinners therefore, doing penitence, in like manner and by the same mode justified by God?**
 
-**Very much so.** For **here is no distinction [of persons]: all we have sinned, and lack the glory of GOD** — **Rom. 3:23**. Therefore also **in this we are equal, that we are justified freely by his grace, through the redemption which is in Christ Jesus, whom God set forth as a propitiation through faith in his blood** — **Rom. 3:24–25**.
+**Very much so.** For **here is no distinction [of persons]: all we have sinned, and lack the glory of GOD** — **Rom. 3:23**. Therefore also **in this we are equal, that we are justified freely by His grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith** — **Rom. 3:24–25**.
 
 — ❦ —
 
@@ -5170,7 +5170,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **V.** **Heb. 11:1**: *ἔστι δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων* — *"Now faith is the substance of things to be hoped for, the argument of things not appearing."* **Not therefore a bare knowledge, but a certain and firm confidence, opposed to doubt and diffidence, doth faith denote in this article**.
 
-**VI.** **Rom. 4:20–21**, concerning the faith of Abraham it is said: *"In the promise of God he doubted not in diffidence, but was strengthened by faith, giving glory to God, most fully knowing, that whatsoever he hath promised, he is able also to perform."* Whence it is clear, that **faith in this article denoteth not a bare knowledge of the history, but a most full knowledge without hesitation and diffidence — in the promise of God concerning the gratuitous remission of sins on account of Christ most firmly acquiescing, and certainly establishing that God on account of Christ is to him propitious, and remitteth all his sins freely**.
+**VI.** **Rom. 4:20–21**, concerning the faith of Abraham it is said: *"He did not waver at the promise of God through unbelief, but was strengthened in faith, giving glory to God, being fully convinced that what He had promised He was also able to perform."* Whence it is clear, that **faith in this article denoteth not a bare knowledge of the history, but a most full knowledge without hesitation and diffidence — in the promise of God concerning the gratuitous remission of sins on account of Christ most firmly acquiescing, and certainly establishing that God on account of Christ is to him propitious, and remitteth all his sins freely**.
 
 — ❦ —
 
@@ -5220,7 +5220,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **True faith is founded and rooted in Christ alone, and in his most precious merit and most holy obedience.** For when **faith dealeth with God concerning remission of sins, and desireth to know what is the mind and what is the disposition of God toward it**, **it can look upon nothing, nor lean and sustain itself upon anything else, than the death and blood of Christ, or the gratuitous promise of God in the Gospel offered on account of Christ**. For upon **the preaching of the Law and its own works it cannot lean, since the Law denounceth nothing but the wrath of God, and our works are plainly unclean and imperfect** — for **far, nay most far off it is, that we should have loved God from the whole heart, and our neighbour as ourselves**.
 
-Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth a propitiation through faith in his blood."* **Acts 10:42–43**: *"To him bear all the Prophets testimony."*
+Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth as a propitiation by His blood, through faith."* **Acts 10:42–43**: *"To him bear all the Prophets testimony."*
 
 — ❦ —
 
@@ -5228,7 +5228,7 @@ Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth a propi
 
 **But how doth faith apprehend Christ?**
 
-**By firm confidence.** For **faith is a certain and firm confidence, which apprehendeth Christ with all his benefits, and in them confideth and acquiesceth**. **Rom. 4:20**: *"In the promise of God he hesitated not,"* etc. **Eph. 3:12**: *"in whom we have confidence and access, in trust through the faith of him."*
+**By firm confidence.** For **faith is a certain and firm confidence, which apprehendeth Christ with all his benefits, and in them confideth and acquiesceth**. **Rom. 4:20**: *"He did not waver at the promise of God through unbelief,"* etc. **Eph. 3:12**: *"in whom we have confidence and access, in trust through the faith of him."*
 
 — ❦ —
 
@@ -5270,7 +5270,7 @@ Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concernin
 
 **I.** That **it is a confidence founded on the gratuitous promise of the Gospel — which alone it regardeth, as that in which God offereth freely his grace, remission of sins, and eternal life**. **Matt. 11:28**: *"Come unto me all ye that labour and are laden, and I will refresh you."* For **unless these and the like gratuitous promises had been made and set forth by God himself, we could promise ourselves nothing certain concerning gratuitous remission of sins and reconciliation with God**. Since **no man knoweth the mind of the Lord apart from his own word**.
 
-**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8**: *"that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Christ — the righteousness which is from God in faith."* **Eph. [3:12]**: *"In Christ we have confidence,"* etc. **Rom. 4:5**: *"To him who worketh not, but believeth in him who justifieth the impious, his faith is reckoned unto righteousness."* **Rom. 3:26**: *"That he himself be just, and the justifier of him who is from the faith of Jesus Christ. Where then is thy glory? It is excluded. By what Law? Of works? Nay, but by the Law of faith."*
+**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8**: *"that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Christ — the righteousness which is from God in faith."* **Eph. [3:12]**: *"In Christ we have confidence,"* etc. **Rom. 4:5**: *"To him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* **Rom. 3:26–27**: *"that He might be just and the justifier of the one who has faith in Jesus. Where is boasting then? It is excluded. By what law? Of works? No, but by the law of faith."*
 
 **Faith therefore establisheth, that God is propitious not only to others but even to thee thyself; that he remitteth to thee freely thy sins on account of Christ, without any merit and works of thine; that he giveth to thee freely the kingdom of the heavens, the Holy Spirit, and eternal life**. For **the just shall live by faith** — **Rom. 1:17**.
 
@@ -5278,7 +5278,7 @@ Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concernin
 
 For **it is impossible that a man with trust and cheerful countenance ask anything from God, unless he be first certain that he is reconciled to God on account of Christ, and hath remission of all his sins**.
 
-**IV.** That **it embraceth the promise of grace, and confideth in it, even before it seeth and experienceth the aid and the thing promised**. [*[Luther: In the Postill of the Sunday of Epiphany, T. 7, p. 316*]*] **John 4:50**: *"The man believed the word which Jesus spake to him."* **Rom. 4:18**: *"Abraham believed against hope in hope."* For **although it doth not straightway feel the aid and peace in conscience, but still wrestleth against the temptations of sin, of the wrath of God, etc., yet faith certainly establisheth, that the promise of grace is firm and immoveable, and that upon this wrestling at length peace of conscience and tranquillity of heart follow and increase** — **Rom. 5:2**.
+**IV.** That **it embraceth the promise of grace, and confideth in it, even before it seeth and experienceth the aid and the thing promised**. [*[Luther: In the Postill of the Sunday of Epiphany, T. 7, p. 316*]*] **John 4:50**: *"The man believed the word which Jesus spake to him."* **Rom. 4:18**: *"Who, contrary to hope, in hope believed."* For **although it doth not straightway feel the aid and peace in conscience, but still wrestleth against the temptations of sin, of the wrath of God, etc., yet faith certainly establisheth, that the promise of grace is firm and immoveable, and that upon this wrestling at length peace of conscience and tranquillity of heart follow and increase** — **Rom. 5:2**.
 
 **Also that it suffer not sin to receive dominion, but by the Spirit mortify the deeds of the flesh** — **Rom. 8:12–13**.
 
@@ -5292,7 +5292,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **Very much so.** And we indeed teach **that good works ought to be done, and the neighbour ought to be loved rightly and in truth** — but **distinctly, when concerning good works outside the article of justification before God is treated**. Here however **the question is, how we are justified, and how we obtain eternal life**. To this therefore **we answer with the Apostle: by faith alone in Christ we are pronounced just, not by the works of the Law nor by charity**. **Not that we reprobate or reject good works, but that they must in no wise be drawn into the article of justification**.
 
-**Rom. 3:28**: *"We decree a man to be justified by faith without the works of the Law."* **Gal. 2:21**: *"For if righteousness be through the Law, then Christ died in vain."* **Eph. 2:8–9**: *"For by grace ye are saved through faith. And this not of yourselves, for it is the gift of God — not of works, lest any man should glory."*
+**Rom. 3:28**: *"We conclude that a man is justified by faith apart from the deeds of the Law."* **Gal. 2:21**: *"For if righteousness be through the Law, then Christ died in vain."* **Eph. 2:8–9**: *"For by grace ye are saved through faith. And this not of yourselves, for it is the gift of God — not of works, lest any man should glory."*
 
 — ❦ —
 
@@ -5300,7 +5300,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **Why doth faith alone justify?**
 
-**Because it alone apprehendeth Christ.** It justifieth therefore **not because it is a work, but because it apprehendeth the mercy offered in Christ** — **Rom. 4:5**: *"To him that believeth in him, who justifieth the impious, his faith is reckoned unto righteousness."*
+**Because it alone apprehendeth Christ.** It justifieth therefore **not because it is a work, but because it apprehendeth the mercy offered in Christ** — **Rom. 4:5**: *"To him who believes on Him who justifies the ungodly, his faith is accounted for righteousness."*
 
 — ❦ —
 
@@ -5468,7 +5468,7 @@ But **if this article be sincerely taught and faithfully urged, easily by the ai
 
 **1.** For **it oppugneth the article of our faith: I believe the remission of sins**. But **to believe is not to doubt concerning the remission of sins, but in trust to be persuaded, and most fully to know, that God on account of Christ remitteth to us all sins**.
 
-**2.** Moreover on this very account **the promise of the Gospel is made and founded in the grace and merit of Christ, and not in our works or merits — that we may not doubt of the remission of sins: but of it be certain** — **Rom. 4:16**: *"Therefore is it of faith, that according to grace the promise may be firm."*
+**2.** Moreover on this very account **the promise of the Gospel is made and founded in the grace and merit of Christ, and not in our works or merits — that we may not doubt of the remission of sins: but of it be certain** — **Rom. 4:16**: *"Therefore it is of faith that it might be according to grace, so that the promise might be sure."*
 
 **3.** Also the **names and epithets which are ascribed to faith in Scripture testify, that faith in Christ concerning the grace of God, concerning the gratuitous remission of sins, ought not to doubt, but to be certain, and to believe it certainly and without hesitation** — as **Rom. 4:21** — *"most full knowledge without hesitation and diffidence."* **Heb. 11**, "*ὑπόστασις*" it is said.
 
@@ -5920,7 +5920,7 @@ By these therefore so many immoveable sayings of Scripture, **no man before GOD 
 
 **But although they justify not, will they be as necessary to salvation?** [*[Luther: T. 3, p. 469; p. 297, th. 38; p. 239; Gen. T. 2, p. 20 and following; T. 4/1, pp. 47, 48, 49*]*]
 
-**Sacred Scripture excludeth our works, not only from justification but also from salvation — as not necessary to obtaining it** — **Rom. 4:6[?]**: *"As also David saith the blessedness of the man, to whom God attributeth righteousness without works: Blessed are they, whose iniquities are remitted, and whose sins are covered. Blessed is the man to whom the Lord hath not imputed sin."* **Eph. 2:8–9**: *"By grace ye are saved through faith (and this not of yourselves; for it is the gift of God), not of works, lest any man should glory."*
+**Sacred Scripture excludeth our works, not only from justification but also from salvation — as not necessary to obtaining it** — **Rom. 4:6–8**: *"just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: Blessed are those whose lawless deeds are forgiven, and whose sins are covered. Blessed is the man to whom the Lord shall not impute sin."* **Eph. 2:8–9**: *"By grace ye are saved through faith (and this not of yourselves; for it is the gift of God), not of works, lest any man should glory."*
 
 **This doctrine must be held incorrupt in the Church** — and necessary it is, for these reasons:
 
@@ -6470,7 +6470,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 **Human reason excogitateth various ways, various means unto this — terrified by the consideration of the divine majesty**. **The Ethnics therefore — as also among the Jews the Pharisees — willed to merit God by their sacrifices**. **The Papists of our time call the deceased Saints as intercessors**.
 
-**We however must approach that Mediator and intercessor, whom God himself hath set forth as propitiation through faith in his blood** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God, one also Mediator of God and men, the man Christ Jesus, who gave himself as redemption for all."*
+**We however must approach that Mediator and intercessor, whom God himself hath set forth as a propitiation by His blood, through faith** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God, one also Mediator of God and men, the man Christ Jesus, who gave himself as redemption for all."*
 
 For **this one — as hath now been demonstrated — is set forth by God, gave himself for us, remaineth for ever, is our High Priest, having an eternal Priesthood, intercedeth for us** — **Heb. 7:24–25; Rom. 8**. **He is our Lord and King, under whose jurisdiction and tutelage and aid we are — who also with a doubled Amen, John 16:23, hath promised us**: *"If anything ye shall have asked the Father in my name, it shall be given to you."*
 
@@ -8586,7 +8586,7 @@ Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned
 
 **VI.** Because **to offer Christ pertaineth to no man or angel** — for **he himself saith John 17:19**: *"For them I sanctify myself"* — that is, offer myself; and **John 10:18**: *"I have power to lay down my soul"* — that is, to offer for the sins of the world.
 
-**VII.** Because **Rom. 3:25 it is expressly said**: *"That God set forth Christ as a propitiation through faith in his blood."* **A figment therefore is whatsoever concerning the propitiatory Mass the Papists hand down.**
+**VII.** Because **Rom. 3:25 it is expressly said**: *"That God set forth Christ as a propitiation by His blood, through faith."* **A figment therefore is whatsoever concerning the propitiatory Mass the Papists hand down.**
 
 **VIII.** Because **the Papists in their Mass re-crucify Christ, and thereby redeem not the salvation of men, but goods to themselves** [*[…p. 88; p. 285*]*].
 
@@ -9004,7 +9004,7 @@ And this saying in general concerning the Church speaketh — which is a company
 
 **I.** **His ineffable and inexhausted mercy** — according to which he willed not the whole human race to perish — **Ezek. 18:32**: *"I will not the death of the sinner, saith the Lord God, but return ye and live."* For **unless God out of mere mercy had regarded man, and by the preaching of the Word and the Sacraments recalled him to penitence and life, he would have perished eternally**. For **the wages of sin is death with all men — Rom. 6:23**.
 
-**Then, the intercession and precious merit of Jesus Christ** — **Ps. 2:8**: *"Ask of me, and I will give thee the nations for thine inheritance, and thy possession the ends of the earth."* **Rom. 3:25**: *"Whom God set forth as a propitiation through faith in his blood,"* etc. **For outside Christ no man can be saved or made accepted to God.**
+**Then, the intercession and precious merit of Jesus Christ** — **Ps. 2:8**: *"Ask of me, and I will give thee the nations for thine inheritance, and thy possession the ends of the earth."* **Rom. 3:25**: *"Whom God set forth as a propitiation by His blood, through faith,"* etc. **For outside Christ no man can be saved or made accepted to God.**
 
 — ❦ —
 
