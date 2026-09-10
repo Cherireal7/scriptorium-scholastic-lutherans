@@ -188,7 +188,7 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 
 **IV.** **No religion besides the Christian has sure predictions and prophecies concerning things to come.** For whatsoever concerning its own future and that of other sects, whatsoever concerning **Christ**, the **Church**, and the political mutations of empires has been foretold in Sacred Scripture many ages back, the outcome has confirmed and daily confirms. To all the oracles and predictions of the sacred letters the deeds and the events have answered, and answer still. **Isa. 43:11–12** — *"I am, I am the Lord, and there is no Saviour besides me: I have announced, and I have saved,"* etc.
 
-**V.** **Above all**, the doctrine of the **Gospel** — proper to Christians, unknown to men of all other sects — proves and demonstrates the truth and certitude of the Christian religion. For without this Gospel-doctrine, whoever live in the world are ***without God***, and ***have no hope*** (**Eph. 2:12**). And this Gospel-doctrine, they who embrace it by true faith, by the witness of the experience of all the faithful, have **solid, immovable, and efficacious consolation, tranquility, and peace of heart in all temptations and afflictions**; whence they easily come to rest, and gather that they are accepted to God in Christ. **Rom. 5:1–2** — *"Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God."*
+**V.** **Above all**, the doctrine of the **Gospel** — proper to Christians, unknown to men of all other sects — proves and demonstrates the truth and certitude of the Christian religion. For without this Gospel-doctrine, whoever live in the world are ***without God*** and ***having no hope*** (**Eph. 2:12**). And this Gospel-doctrine, they who embrace it by true faith, by the witness of the experience of all the faithful, have **solid, immovable, and efficacious consolation, tranquility, and peace of heart in all temptations and afflictions**; whence they easily come to rest, and gather that they are accepted to God in Christ. **Rom. 5:1–2** — *"Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God."*
 
 — ❦ —
 
@@ -396,7 +396,7 @@ But the most certain rule of proof is the ***Catechism***. [*The Catechism as th
 
 **I.** Through the Word the **Holy Spirit is given**, illuminating the hearts, and the ***remission of sins*** is offered. [*Luther: T. 6, p. 336; T. 3, p. 163; T. 7 f., p. 193; T. 4, p. 289 and 190; T. 6, p. 354; T. 5, p. 342*] **2 Cor. 3:6** — *"He made us fit to be ministers of the New Testament, not of the letter, but of the Spirit."* **Isa. 40:2** — *"Speak ye to the heart of Jerusalem, and call to her, for her malice is come to an end, her iniquity is forgiven: she hath received of the hand of the Lord double for all her sins."*
 
-**II.** It renders **consciences peaceful and tranquil** — which human writings neither do nor can do. [*Luther: T. 4, p. 266; Gen. T. 3, p. 19*] **Eph. 4:11–14** — *"And he himself gave some indeed to be Apostles, etc., for the perfecting of the saints, in the work of the ministry, in the edification of the body of Christ: until we all meet unto the unity of faith and of the knowledge of the Son of God, into a perfect man, into the measure of the age of the fulness of Christ; that henceforth we be no more children tossed to and fro, and carried about with every wind of doctrine, in the wickedness of men, in cunning craftiness by which they lie in wait to deceive."*
+**II.** It renders **consciences peaceful and tranquil** — which human writings neither do nor can do. [*Luther: T. 4, p. 266; Gen. T. 3, p. 19*] **Eph. 4:11–14** — *"And He Himself gave some to be apostles, etc., for the equipping of the saints for the work of ministry, for the edifying of the body of Christ; till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ; that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting."*
 
 **III.** It **puts the Devil to flight, aids, strengthens, and consoles against the world, the flesh, and all evil thoughts**. [*Luther: T. 4, p. 386*] Whence also **Psalm 1** calls those **blessed** who *meditate on the Word of God day and night*.
 
@@ -1650,7 +1650,7 @@ It is blasphemous, therefore, to teach that Christ-Man, or as Man, is not to be 
 
 **First**, from those which testify that ***he is present at his Church here on earth*** — **Matt. 18:20**: *"For where two or three are gathered together in My name, I am there in the midst of them."* **Matt. 28:20**: *"lo, I am with you always, even to the end of the age."*
 
-**Second**, from those which testify that ***also as Man, or according to his human nature, he has been exalted to the right hand of God, presently administers all things, and has all things subjected to him under his hands***. **Ps. 8:6–8**: *"You have put all things under his feet, all sheep and oxen — even the beasts of the field, the birds of the air, and the fish of the sea, that pass through the paths of the seas."* **Eph. 1:20–23**: *"According to the working of his mighty power, which he wrought in Christ, raising him up from the dead and setting him at his right hand in the heavenly places, above all principality and power, and virtue and dominion, and every name that is named, not only in this world but also in that which is to come; and he hath subjected all things under his feet, and hath made him head over all the Church, which is his body, and the fulness of him who is filled all in all."* **Eph. 4:10** — *"He that descended is the same also that ascended above all the heavens, that he might fill all things."*
+**Second**, from those which testify that ***also as Man, or according to his human nature, he has been exalted to the right hand of God, presently administers all things, and has all things subjected to him under his hands***. **Ps. 8:6–8**: *"You have put all things under his feet, all sheep and oxen — even the beasts of the field, the birds of the air, and the fish of the sea, that pass through the paths of the seas."* **Eph. 1:19–23**: *"the working of His mighty power, which He worked in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly places, far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come. And He put all things under His feet, and gave Him to be head over all things to the church, which is His body, the fullness of Him who fills all in all."* **Eph. 4:10** — *"He who descended is also the One who ascended far above all the heavens, that He might fill all things."*
 
 ## Question 53. But how can it be that Christ, with his body — which nevertheless is and remains finite — should be in more places at once at one time?
 
@@ -1722,7 +1722,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 ### Objection. But Scripture says: ***"It behoves the heaven to receive Christ."***
 
-**The Adversaries interpret the word ***δέξασθαι*** thus, but wrongly** — especially since they do this to this end, that they may have a certain place or text of Scripture whereby they may convince that ***the true and substantial body of Christ is not distributed with blessed bread*** in the Supper. This is a ***νόημα*** [thought] impossible: because heaven does not so receive Christ's body that Christ's body in it as in a prison is preserved and detained. But Christ rather so took and occupied heaven with his body, that in heaven he reigns, and heaven itself he has subject to himself. And what Scripture at **Eph. 4:9–10** expressly says — that he ascended ***above all heavens, that he might fill all things***. Item, that he ***with his body sits at the right hand of the Virtue of God***. From all which it is sufficiently clear that he is not so contained or enclosed in heaven that in some other place outside heaven he cannot be with his body.
+**The Adversaries interpret the word ***δέξασθαι*** thus, but wrongly** — especially since they do this to this end, that they may have a certain place or text of Scripture whereby they may convince that ***the true and substantial body of Christ is not distributed with blessed bread*** in the Supper. This is a ***νόημα*** [thought] impossible: because heaven does not so receive Christ's body that Christ's body in it as in a prison is preserved and detained. But Christ rather so took and occupied heaven with his body, that in heaven he reigns, and heaven itself he has subject to himself. And what Scripture at **Eph. 4:9–10** expressly says — that he ascended ***far above all the heavens, that He might fill all things***. Item, that he ***with his body sits at the right hand of the Virtue of God***. From all which it is sufficiently clear that he is not so contained or enclosed in heaven that in some other place outside heaven he cannot be with his body.
 
 ## Question 60. What, then, is the ***right hand of God***?
 
@@ -1756,7 +1756,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **Does it follow from the session that Christ, also as Man, governs all things present?**
 
-**Most certainly.** For to sit at the right hand of God is properly nothing else than to reign over all creatures ***with equal power and majesty with the Father***. But the Father reigns over all creatures ***not absently, but presently***. Since therefore Christ, according to the assumed human nature, sits at the right hand of God — that is, rules over all creatures with equal power and majesty — there is no doubt that ***also as Man*** he governs, not absently but presently, all creatures in heaven and on earth, ***in a heavenly, supernatural manner incomprehensible to human reason***. As this same thing is expressly set out at **Eph. 1:20–22** — where Paul says that he has been ***constituted at the right hand of God in the heavenly places, above all principality and power, and virtue, and dominion, and every name that is named, not only in this world but also in that which is to come; and all things have been subjected under his feet***. So at **Ps. 8:6–8**: *"You have made him to have dominion over the works of Your hands; You have put all things under his feet: all sheep and oxen, even the beasts of the field, the birds of the air, and the fish of the sea, that pass through the paths of the seas."*
+**Most certainly.** For to sit at the right hand of God is properly nothing else than to reign over all creatures ***with equal power and majesty with the Father***. But the Father reigns over all creatures ***not absently, but presently***. Since therefore Christ, according to the assumed human nature, sits at the right hand of God — that is, rules over all creatures with equal power and majesty — there is no doubt that ***also as Man*** he governs, not absently but presently, all creatures in heaven and on earth, ***in a heavenly, supernatural manner incomprehensible to human reason***. As this same thing is expressly set out at **Eph. 1:20–22** — where Paul says that he has been ***seated at the right hand of God in the heavenly places, far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come; and He put all things under his feet***. So at **Ps. 8:6–8**: *"You have made him to have dominion over the works of Your hands; You have put all things under his feet: all sheep and oxen, even the beasts of the field, the birds of the air, and the fish of the sea, that pass through the paths of the seas."*
 
 ### Objection I. Although Christ, according to the assumed human nature, sits at the right hand of God, yet is this not to be so declared that the ***essential properties*** of his human nature remain ***safe and preserved***?
 
@@ -2016,7 +2016,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Is the kingdom of Christ an external kingdom?**
 
-**By no means.** For Scripture itself calls it an ***eternal*** kingdom — **Dan. 2; Luke 1**. [*Luther: T. 3, p. 181; T. 7, p. 320; T. 4, part 1, p. 604, f. b.*] And Christ himself says that ***his kingdom is not of this world*** — **John 18**. And ***only spiritually***, through the ministry of Word and Sacraments, this kingdom is administered — **Ps. 2, 110**. Nor is it food and drink, but ***righteousness and peace and joy in the Holy Spirit*** — **Rom. 14:17**. Only besides, it is defended by ***spiritual arms*** — **2 Cor. 10:4**: *"For the weapons of our warfare are not carnal, but mighty to God unto the pulling down of fortifications, destroying counsels, and every height that exalteth itself against the knowledge of God, and bringing into captivity every understanding unto the obedience of Christ."* **Eph. 6:11** — *"Put you on the armour of God."* The kingdom of Christ, therefore, is not ***external and corporeal***, but ***spiritual and eternal***.
+**By no means.** For Scripture itself calls it an ***eternal*** kingdom — **Dan. 2; Luke 1**. [*Luther: T. 3, p. 181; T. 7, p. 320; T. 4, part 1, p. 604, f. b.*] And Christ himself says that ***his kingdom is not of this world*** — **John 18**. And ***only spiritually***, through the ministry of Word and Sacraments, this kingdom is administered — **Ps. 2, 110**. Nor is it food and drink, but ***righteousness and peace and joy in the Holy Spirit*** — **Rom. 14:17**. Only besides, it is defended by ***spiritual arms*** — **2 Cor. 10:4**: *"For the weapons of our warfare are not carnal, but mighty to God unto the pulling down of fortifications, destroying counsels, and every height that exalteth itself against the knowledge of God, and bringing into captivity every understanding unto the obedience of Christ."* **Eph. 6:11** — *"Put on the whole armor of God."* The kingdom of Christ, therefore, is not ***external and corporeal***, but ***spiritual and eternal***.
 
 — ❦ —
 
@@ -2244,7 +2244,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **II. Regeneration.** For he himself regenerates the whole man, and in the hearts of men excites and kindles true faith in Christ and new obedience — **John 3:5**: *"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit,"* etc.
 
-**III.** He ***raises up and consoles the contrite and humbled in heart***, in every kind of temptations and miseries; ***corroborates and preserves them in true faith in Christ, in hope, in patience***, etc. Whence he is also called ***Paraclete*** — **John 16:7** [*Luther: T. 7, pp. 89, 85, 87, 88, 89, 90, 91*]: *"But I tell you the truth: it is expedient to you that I go; for if I go not, the Paraclete will not come to you. But if I go, I will send him to you."* **Eph. 3:16** — *"That he would grant you, according to the riches of his glory, to be strengthened by his Spirit in the inner man,"* etc.
+**III.** He ***raises up and consoles the contrite and humbled in heart***, in every kind of temptations and miseries; ***corroborates and preserves them in true faith in Christ, in hope, in patience***, etc. Whence he is also called ***Paraclete*** — **John 16:7** [*Luther: T. 7, pp. 89, 85, 87, 88, 89, 90, 91*]: *"But I tell you the truth: it is expedient to you that I go; for if I go not, the Paraclete will not come to you. But if I go, I will send him to you."* **Eph. 3:16** — *"that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man,"* etc.
 
 **IV.** He ***directs and leads the faithful in all their life and vocation*** — **Ps. 143:10**: *"Teach me to do Your will, for You are my God; Your Spirit is good. Lead me in the land of uprightness."* **Ps. 51:10–11** — *"Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence, and do not take Your Holy Spirit from me."*
 
@@ -2554,7 +2554,7 @@ This illustrious sentence embraces ***six memorable points***:
 
 ### Objection II. God uses the work of the impious in punishing his own. *Ergo* the impious, killing the pious, do not offend God.
 
-**Respondeo**: **The impious do not serve God from their heart, but they look to something else — namely, that they may fulfil their cupidities.** Next, they sin against the ***Decalogue***, which they ought to attend — in which such homicides are prohibited. Thirdly, they cannot ***cover their pravity with the justice of God***, for they sin ***by their own will***, nor are they ***impelled or forced by God*** to slay the pious; but they are led by their own will, to which is added Satan, who is ***efficacious in the sons of unbelief*** — **Eph. 2**.
+**Respondeo**: **The impious do not serve God from their heart, but they look to something else — namely, that they may fulfil their cupidities.** Next, they sin against the ***Decalogue***, which they ought to attend — in which such homicides are prohibited. Thirdly, they cannot ***cover their pravity with the justice of God***, for they sin ***by their own will***, nor are they ***impelled or forced by God*** to slay the pious; but they are led by their own will, to which is added Satan, who ***works in the sons of disobedience*** — **Eph. 2:2**.
 
 — ❦ —
 
@@ -2572,7 +2572,7 @@ Thirdly, there are again ***other events***, which partly depend upon God himsel
 
 Concerning ***evil events***, it must be known:
 
-**First**, that God ***does not determine, ordain, aid, or will the evils of guilt or sins***. For to sins he is ever ***contrary***. **Zech. 8:17** — *"These are the things which the Lord hateth."* **Eph. 5:6** — *"For because of these things cometh the anger of God upon the unbelievers."*
+**First**, that God ***does not determine, ordain, aid, or will the evils of guilt or sins***. For to sins he is ever ***contrary***. **Zech. 8:17** — *"These are the things which the Lord hateth."* **Eph. 5:6** — *"because of these things the wrath of God comes upon the sons of disobedience."*
 
 **Secondly**, of ***permission***, let this sentence be observed. **Ps. 81:12–13** — *"But my people heard not my voice: and Israel would not hearken to me. So I let them go according to the desires of their heart: they shall walk in their own inventions,"* etc. Yet let not such ***permission*** be understood as though God ***stood afar off in some watch-tower, and beheld what men do, and permitted them by his own judgement to do those things which they will, and awaited fortuitous outcomes***: but such [permission] is when out of his ***most just anger*** he lets men ***rush into sins, and heap them up, until the measure is filled***. An example of this matter is in ***Cain*** — **Gen. 4**.
 
@@ -3112,7 +3112,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **IV.** Because ***it expostulates with God***, chiefly in the agony of death, and ***resists the aid and grace of Christ***. **Rom. 8:7** — *"For the carnal mind is enmity against God; for it is not subject to the law of God, nor indeed can be."* [*T. 4, p. 24 f.b.*]
 
-**V.** Because ***free will is dead, and plainly nothing***; and is held captive in the snares of the Devil, death, and sin. **Eph. 2:1** — *"And you when you were dead in your offences and sins,"* etc. **2 Tim. 2**. If there were still some ***free will*** in us, if certain of our own powers against and into the Devil, sin, and death — Christ would not have had to die. [*Luther: T. 5, p. 297*]
+**V.** Because ***free will is dead, and plainly nothing***; and is held captive in the snares of the Devil, death, and sin. **Eph. 2:1** — *"And you He made alive, who were dead in trespasses and sins,"* etc. **2 Tim. 2**. If there were still some ***free will*** in us, if certain of our own powers against and into the Devil, sin, and death — Christ would not have had to die. [*Luther: T. 5, p. 297*]
 
 **VI.** Because in spiritual things there is nothing but ***mere darkness*** — **John 1:5**: *"the light shines in the darkness, and the darkness did not comprehend it."* For although human reason can in some way judge concerning external things, yet ***it cannot understand the things of faith*** — **1 Cor. 2:14**: *"The sensual man perceiveth not these things that are of the Spirit of God, for it is foolishness to him: and he cannot understand,"* etc. [*T. 2, p. 220*]
 
@@ -3396,7 +3396,7 @@ Therefore let us beware of sins, nor be secure in sins. For **God is a consuming
 
 **I.** The first evil fruit of sin is, that we have **the understanding darkened with darkness**, and **cannot see and rightly know God** — **Eph. 4:18**.
 
-**II.** **Most just wrath of God, terror and dread of conscience** — **Eph. 2:3**: *"We were by nature children of wrath, even as the rest."* **Ps. 6:1** — *"O Lord, do not rebuke me in Your anger, nor chasten me in Your hot displeasure."* **Job 6:4** — *"For the arrows of the Lord are in me, whose indignation drinketh up my spirit, and the terrors of the Lord fight against me."* **Wisdom 17:10–12** — *"For whereas any one is fearful, and looks about at all things, and is affrighted at every noise — this ariseth from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expecteth tragic calamities,"* etc.
+**II.** **Most just wrath of God, terror and dread of conscience** — **Eph. 2:3**: *"we were by nature children of wrath, just as the others."* **Ps. 6:1** — *"O Lord, do not rebuke me in Your anger, nor chasten me in Your hot displeasure."* **Job 6:4** — *"For the arrows of the Lord are in me, whose indignation drinketh up my spirit, and the terrors of the Lord fight against me."* **Wisdom 17:10–12** — *"For whereas any one is fearful, and looks about at all things, and is affrighted at every noise — this ariseth from wickedness and malice, which convicts and condemns the heart; and a fearful conscience always expecteth tragic calamities,"* etc.
 
 **III.** **Madness, blindness, and fury of mind** in all studies and works, corporal and spiritual — **Deut. 28:28; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened."*
 
@@ -3500,7 +3500,7 @@ In sum: **original sin is truly sin**, and indeed **the greatest of all sins** [
 
 **But how is it derived and propagated into us?**
 
-**Through natural generation from Adam** [*[Luther: Gen. 2, p. 98 fine*; *T. 6, p. 231*]*]. — **Rom. 5:12**: *"through one man sin entered the world"* — of which we are all born. **Ps. 51:5** — *"Behold, I was brought forth in iniquity, and in sin my mother conceived me."* **Eph. 2:3** — *"And we were by nature children of wrath, even as the rest."*
+**Through natural generation from Adam** [*[Luther: Gen. 2, p. 98 fine*; *T. 6, p. 231*]*]. — **Rom. 5:12**: *"through one man sin entered the world"* — of which we are all born. **Ps. 51:5** — *"Behold, I was brought forth in iniquity, and in sin my mother conceived me."* **Eph. 2:3** — *"and were by nature children of wrath, just as the others."*
 
 — ❦ —
 
@@ -3658,7 +3658,7 @@ In sum: **the remnants of sins which still are in the flesh are indeed remitted 
 
 But **Sacred Scripture describes original sin far otherwise**. **Eph. 2** says that **we are by nature children of wrath** — that is, **we are conceived and born in sins, and on account of that foulness we sorely displease God**. And **Rom. 7** affirms that **sin dwells in us, lies adjacent to us, and impels us to sinning**, so that we cannot do good. Therefore **original sin is not merely a naked privation, but an evil depravation, by which we are ever incited to sin**. Also **in the regenerate the Apostle shows the remnants of original sin to be so efficacious**, that the regenerate see **another law in their members rebelling against the law of their mind, and captivating them under the law of sin**. Therefore **it is a fiction which is said of a naked privation or diseased quality only inclining the sensitive appetite** — since it is **a horrible depravation most tenaciously adhering in human nature**.
 
-Concerning the **tinder** which they feign, it is likewise a most vain fiction — since Scripture **Gen. 6** expressly says that **every imagination of the thoughts of the heart is only evil**. And lest anyone think that Moses speaks of actions only, or of acquired habits, he affirms in particular that **the imagination of the human heart is evil**. **For we are by nature children of wrath** — **Eph. 2**. Nor indeed is original sin only guilt on account of Adam's fall, without any depravation inhering in us. For not only is human nature *guilty* on account of Adam's fall, but it is also **polluted with a foul depravation**, by which it is brought to pass that **from the heart proceed evil thoughts, adulteries, thefts, injuries, wickedness, deceit, envy, blasphemy, pride, folly** — **Mark 7**. Whence also **Eph. 2** is written: *that we do the will of the flesh and of the thoughts*.
+Concerning the **tinder** which they feign, it is likewise a most vain fiction — since Scripture **Gen. 6** expressly says that **every imagination of the thoughts of the heart is only evil**. And lest anyone think that Moses speaks of actions only, or of acquired habits, he affirms in particular that **the imagination of the human heart is evil**. **For we are by nature children of wrath** — **Eph. 2**. Nor indeed is original sin only guilt on account of Adam's fall, without any depravation inhering in us. For not only is human nature *guilty* on account of Adam's fall, but it is also **polluted with a foul depravation**, by which it is brought to pass that **from the heart proceed evil thoughts, adulteries, thefts, injuries, wickedness, deceit, envy, blasphemy, pride, folly** — **Mark 7**. Whence also **Eph. 2:3** is written: *fulfilling the desires of the flesh and of the mind*.
 
 **It is a horrible blasphemy to say that original sin has no more of the reason of sin than it has of the voluntary; and that since it has very little of the voluntary, therefore it is the least of all sins.** For, **first**, this extenuation of sin diminishes **the glory of Christ**. For **howsoever sin is extenuated, so much is subtracted from the glory of Christ the Mediator**. **Secondly**, if original sin has no more of the reason of sin than of the voluntary, it can be easily inferred: that although in Adam the protoplast it was voluntary, in us however it is altogether involuntary — since our consent in specific did not come to our conception. **Therefore it has no reason of sin**. In this way, with one erasure, whatever Scripture teaches of original sin would be blotted out; and on the contrary it would be rightly collected: if that only be truly and properly sin, which is committed by free will by a knowing person — therefore original sin, since it is conceived and born with iniquity, as with David, properly of itself and of its own nature is not sin, but is improperly said to be sin. In *actual* sins that rule concerning the voluntary has place — but in the doctrine of original sin, by no means. **It would follow also this**: if original sin be the least of all sins, that **Christ by his bitter and most holy Passion satisfied for the least of all sins, but not for the greater**. Which blasphemy, since it verges upon the Author of our salvation, is not to be tolerated.
 
@@ -3797,7 +3797,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **Augustine, in his Enchiridion, ch. 24**, sets down four causes of actual sins: **ignorance, concupiscence, sorrow, and will**.
 
-**Eph. 2:1–2** — the Apostle unfolds the causes of sins in these words: *"In which offences and sins ye once walked, according to the world of this age, according to the prince of the power of this air, of the spirit that now worketh in the sons of diffidence — in whom we all also once had our conversation, in the desires of our flesh, doing the will of the flesh and of the thoughts."*
+**Eph. 2:1–3** — the Apostle unfolds the causes of sins in these words: *"And you He made alive, who were dead in trespasses and sins, in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the sons of disobedience — among whom also we all once conducted ourselves in the lusts of our flesh, fulfilling the desires of the flesh and of the mind."*
 
 — ❦ —
 
@@ -3815,7 +3815,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **Can also men not-regenerate resist evil concupiscence and depraved thoughts?**
 
-**In some way indeed, especially in external things.** For even an unbeliever can resist the cupidity and thought of killing his neighbour, and (if he obviate the beginnings) in some way shake it out of his mind. But this moderation of the affections is exceedingly difficult, on account of the innate corruption and the **tyranny of the Devil, who is efficacious in the sons of diffidence** — **Eph. 2:2**.
+**In some way indeed, especially in external things.** For even an unbeliever can resist the cupidity and thought of killing his neighbour, and (if he obviate the beginnings) in some way shake it out of his mind. But this moderation of the affections is exceedingly difficult, on account of the innate corruption and the **tyranny of the Devil, who works in the sons of disobedience** — **Eph. 2:2**.
 
 — ❦ —
 
@@ -4013,7 +4013,7 @@ But if this sentence were admitted, it would necessarily be said that **concupis
 
 **Respondeo**: **The Apostle does not say that the Holy Spirit perfects renovation straightway when man is baptised, but is poured out that the inward man may be renewed from day to day** — as **2 Cor. 4** he writes. **Insofar therefore as we are not renewed, we are yet in the oldness.** And **the efficacy of Baptism extends itself through the whole life**. The regenerate are bound daily to mortify the flesh with its desires, and to cut off the remnants of sins by the grace of the Spirit — therefore they are **not wholly immune from sin**.
 
-### Objection V. He sanctified the Church, cleansing her with the washing of water in the word, that he might exhibit her to himself glorious, not having spot or wrinkle — **Eph. 5:26–27**. *Ergo* etc.
+### Objection V. He sanctified and cleansed her with the washing of water by the word, that He might present her to Himself a glorious church, not having spot or wrinkle — **Eph. 5:26–27**. *Ergo* etc.
 
 **Respondeo**: **The Church is sanctified by the washing which is in the word, and freed from sin by the gratuitous remission and imputation of the merit and obedience of Christ the Saviour.** But **as for the plenary expurgation of sin, she is not yet without spot and wrinkle**. For **sin still dwells in the flesh of the regenerate** — **Rom. 7**. And the Apostle does not say that Christ exhibits the Church in this life straightway after Baptism without spot, **but that he set her forth without spot and wrinkle** — *when* shall this be? **Then (saith he) when it shall be *gloriously* or *fully glorified*** — which shall be when Christ shall appear in the last judgement.
 
@@ -4582,7 +4582,7 @@ Then there is **ambiguity in the voice *proper***. The **whole ministry of Chris
 
 **What does the word *Grace* signify in this article?** [*[Luther: T. 4, pp. 132, 133, 134, 135, 137, 138, 288, 289; T. 4/1, p. 486*]*]
 
-**Nothing other than the ineffable and inexhausted mercy of God, according to which he receives us wretched and condemned sinners into grace on account of Christ, and does not impute our sins to us, but the obedience and satisfaction of Christ — as equally as if we ourselves had exhibited it** — **Rom. 3:24**: *"being justified freely by His grace."* **Eph. 2:8** — *"For by grace ye are saved through faith, and that not of yourselves — for it is the gift of God — not of works."* The same testify the sayings in which the word *mercy* is used — **Ps. 51:1; Eph. 2:4** — and the word *charity*, **Rom. 5:8**, and the like. The same also is manifest from the word *gratis*.
+**Nothing other than the ineffable and inexhausted mercy of God, according to which he receives us wretched and condemned sinners into grace on account of Christ, and does not impute our sins to us, but the obedience and satisfaction of Christ — as equally as if we ourselves had exhibited it** — **Rom. 3:24**: *"being justified freely by His grace."* **Eph. 2:8–9** — *"For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works."* The same testify the sayings in which the word *mercy* is used — **Ps. 51:1; Eph. 2:4** — and the word *charity*, **Rom. 5:8**, and the like. The same also is manifest from the word *gratis*.
 
 This word (*Grace*) therefore testifies that **the cause of justification is not in us**, and that **God, though he have many causes of condemning us, out of mere grace on account of Christ has mercy of us, and lays down his most just wrath against us on account of the same** — which apart from Christ's merit and intercession **he would by no means be bound to do**.
 
@@ -4644,7 +4644,7 @@ For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son
 
 **II.** That **our consolation concerning the grace of God may be certain and immoveable** [*[Luther: T. 4/1, pp. 185, 186*]*] — **Rom. 4:16**: *"Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed,"* etc. It would not be sure, if it leaned partly or wholly upon the Law, or upon our works, and not upon **mere grace and the sole merit of Christ Jesus**. For although our hearts be purified by faith, and we have received the first-fruits of the Holy Spirit, who also **has begun the new obedience and good works in us**, yet **we have not that obedience and those good works in us which may prevail before God, and be opposed to his severe judgement** — since **many infirmities and iniquities are found even in the faithful and the justified**, which show that inchoate obedience to be **mutilated, maimed, and unclean**. **That therefore the promise of salvation may be sure to us, and that we may not doubt of the grace and mercy of God, it is founded solely in the grace of God, and in the merit of Christ Jesus, and by no means in our works, inchoate new obedience, love of God or neighbour, or the like virtues.**
 
-**III.** That we may have **the freest and *παρρησία* access to God**, and in all temptations and afflictions may with **more confident and full trust address God, and from him seek aid and deliverance** — **Rom. 5:2**: *"through whom also we have access by faith into this grace in which we stand,"* and **Eph. 3:12**: *"In whom we have confidence and access with confidence through faith of him."* All which we could by no means have, if not only in the grace of God and the merit of Christ, but also in part in our own merit and inchoate imperfect obedience and works, our salvation were founded.
+**III.** That we may have **the freest and *παρρησία* access to God**, and in all temptations and afflictions may with **more confident and full trust address God, and from him seek aid and deliverance** — **Rom. 5:2**: *"through whom also we have access by faith into this grace in which we stand,"* and **Eph. 3:12**: *"in whom we have boldness and access with confidence through faith in Him."* All which we could by no means have, if not only in the grace of God and the merit of Christ, but also in part in our own merit and inchoate imperfect obedience and works, our salvation were founded.
 
 **IV.** That the proper attribute of faith alone may remain — that **it alone is the instrument and medium by which we apprehend the grace of God and the merit of Christ** — **Rom. 3:28**: *"We conclude that a man is justified by faith apart from the deeds of the Law."* — But of these below, in the *locus* of faith.
 
@@ -4878,7 +4878,7 @@ So **David**, **Ps. 51**, when he was regenerate and had remission of his sins, 
 
 **Why doth God justify the sinner freely, out of mere grace and mercy?**
 
-**I.** That his **inexhaust grace and mercy may be manifested and demonstrated to all men** — **Eph. 2:4**: *"God, who is rich in mercy, on account of his exceeding charity wherewith he loved us, and when we were dead in sins, quickened us together in Christ."* Which yet **most difficultly, especially in temptations, do we suffer to be persuaded to us, that we may believe**.
+**I.** That his **inexhaust grace and mercy may be manifested and demonstrated to all men** — **Eph. 2:4–5**: *"God, who is rich in mercy, because of His great love with which He loved us, even when we were dead in trespasses, made us alive together with Christ."* Which yet **most difficultly, especially in temptations, do we suffer to be persuaded to us, that we may believe**.
 
 **II.** That **all glorying may be excluded, so that he that will glory, may glory in Christ alone and his satisfaction** — **1 Cor. 1:31; Eph. 2:7–8**. For since **God through his Son alone hath exhibited all things which pertain to our righteousness and salvation, to himself also alone — and that with merit — will he have the glory and praise of this work also to be attributed**. And **it is a horrible blasphemy and a nefarious sacrilege, through confidence in one's own works (as the Papists do), to spoil Christ of this glory**.
 
@@ -5150,7 +5150,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **What is faith?** [*[Luther: T. 2, p. 122; T. 4/1, p. 43, 176, 177; Q. 76, 77; T. 8, pp. 286, 287; T. 4/1, pp. 114, 792; Potestas Ecclesiastica, part 1, p. 120 f. b*]*]
 
-**Faith is not only knowledge of the history concerning Christ, but is a certain and firm confidence of the heart in the mercy of GOD, that he for Christ's obedience and merit remitteth to us all sins freely, and out of mere grace justifieth and saveth us** — **Eph. 3:12**: *"In whom (Christ) we have confidence and access in trust through the faith of him."*
+**Faith is not only knowledge of the history concerning Christ, but is a certain and firm confidence of the heart in the mercy of GOD, that he for Christ's obedience and merit remitteth to us all sins freely, and out of mere grace justifieth and saveth us** — **Eph. 3:12**: *"In whom (Christ) we have boldness and access with confidence through faith in Him."*
 
 **A Judaic and Papist faith is to merit grace by works or by the Law, to satisfy for sins, and thereby to be saved.**
 
@@ -5228,7 +5228,7 @@ Whence **Rom. 3:25** it is expressly said: *"Whom (Christ) God set forth as a pr
 
 **But how doth faith apprehend Christ?**
 
-**By firm confidence.** For **faith is a certain and firm confidence, which apprehendeth Christ with all his benefits, and in them confideth and acquiesceth**. **Rom. 4:20**: *"He did not waver at the promise of God through unbelief,"* etc. **Eph. 3:12**: *"in whom we have confidence and access, in trust through the faith of him."*
+**By firm confidence.** For **faith is a certain and firm confidence, which apprehendeth Christ with all his benefits, and in them confideth and acquiesceth**. **Rom. 4:20**: *"He did not waver at the promise of God through unbelief,"* etc. **Eph. 3:12**: *"in whom we have boldness and access with confidence through faith in Him."*
 
 — ❦ —
 
@@ -5270,7 +5270,7 @@ Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concernin
 
 **I.** That **it is a confidence founded on the gratuitous promise of the Gospel — which alone it regardeth, as that in which God offereth freely his grace, remission of sins, and eternal life**. **Matt. 11:28**: *"Come unto me all ye that labour and are laden, and I will refresh you."* For **unless these and the like gratuitous promises had been made and set forth by God himself, we could promise ourselves nothing certain concerning gratuitous remission of sins and reconciliation with God**. Since **no man knoweth the mind of the Lord apart from his own word**.
 
-**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8**: *"that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Christ — the righteousness which is from God in faith."* **Eph. [3:12]**: *"In Christ we have confidence,"* etc. **Rom. 4:5**: *"To him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* **Rom. 3:26–27**: *"that He might be just and the justifier of the one who has faith in Jesus. Where is boasting then? It is excluded. By what law? Of works? No, but by the law of faith."*
+**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8**: *"that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Christ — the righteousness which is from God in faith."* **Eph. [3:12]**: *"In Christ we have boldness,"* etc. **Rom. 4:5**: *"To him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* **Rom. 3:26–27**: *"that He might be just and the justifier of the one who has faith in Jesus. Where is boasting then? It is excluded. By what law? Of works? No, but by the law of faith."*
 
 **Faith therefore establisheth, that God is propitious not only to others but even to thee thyself; that he remitteth to thee freely thy sins on account of Christ, without any merit and works of thine; that he giveth to thee freely the kingdom of the heavens, the Holy Spirit, and eternal life**. For **the just shall live by faith** — **Rom. 1:17**.
 
@@ -5292,7 +5292,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **Very much so.** And we indeed teach **that good works ought to be done, and the neighbour ought to be loved rightly and in truth** — but **distinctly, when concerning good works outside the article of justification before God is treated**. Here however **the question is, how we are justified, and how we obtain eternal life**. To this therefore **we answer with the Apostle: by faith alone in Christ we are pronounced just, not by the works of the Law nor by charity**. **Not that we reprobate or reject good works, but that they must in no wise be drawn into the article of justification**.
 
-**Rom. 3:28**: *"We conclude that a man is justified by faith apart from the deeds of the Law."* **Gal. 2:21**: *"For if righteousness be through the Law, then Christ died in vain."* **Eph. 2:8–9**: *"For by grace ye are saved through faith. And this not of yourselves, for it is the gift of God — not of works, lest any man should glory."*
+**Rom. 3:28**: *"We conclude that a man is justified by faith apart from the deeds of the Law."* **Gal. 2:21**: *"For if righteousness be through the Law, then Christ died in vain."* **Eph. 2:8–9**: *"For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast."*
 
 — ❦ —
 
@@ -5474,7 +5474,7 @@ But **if this article be sincerely taught and faithfully urged, easily by the ai
 
 **4.** Also **the Sacraments themselves are unto this end by God instituted, that they may render our hearts certain of the grace of God, and may seal that grace to us, and take away all doubt**.
 
-**5.** Also **the Holy Spirit himself is on this account poured out into the hearts of the faithful, that he may console, comfort and sustain them in certain faith and firm confidence concerning the grace of God and the remission of sins** — **Rom. 8:15**: *"For you did not receive the spirit of bondage again to fear, but you received the Spirit of adoption by whom we cry out, Abba, Father."* **Gal. 4:6**: *"Because ye are sons, God hath sent the Spirit of his Son into your hearts, crying, Abba, Father."* **Eph. 1:13**: *"In whom also ye that believe are sealed with the Holy Spirit of promise, who is the pledge of our inheritance,"* etc.
+**5.** Also **the Holy Spirit himself is on this account poured out into the hearts of the faithful, that he may console, comfort and sustain them in certain faith and firm confidence concerning the grace of God and the remission of sins** — **Rom. 8:15**: *"For you did not receive the spirit of bondage again to fear, but you received the Spirit of adoption by whom we cry out, Abba, Father."* **Gal. 4:6**: *"Because ye are sons, God hath sent the Spirit of his Son into your hearts, crying, Abba, Father."* **Eph. 1:13–14**: *"in whom also, having believed, you were sealed with the Holy Spirit of promise, who is the guarantee of our inheritance,"* etc.
 
 **Diffidence indeed by Scripture is manifestly reprobated and damned in this article** — **1 John 5:10**: *"He that believeth not the Son, maketh God a liar, who believeth not the testimony which God testified concerning his Son."*
 
@@ -5508,7 +5508,7 @@ To this: **in Baptism, when thou wert baptized in the name of the Father, the So
 
 **Respondeo**: **We concede that from predestination one ought not to presume rashly.** But **hence it followeth not: election is altogether uncertain**. For **it hath been revealed through the doctrine of the Gospel, that the elect are those who do penitence, and believe in Christ the Mediator**. **The believing have eternal life — John [3:36]**. *Ergo* **they are elect**. And **Rom. 8** the Apostle saith: *"Whom he elected, these he called; whom he called, he justified."* Therefore **those whom God calleth and justifieth, ought certainly to establish that they are elect**.
 
-Nor **is the doctrine concerning election made manifest, that it might render our salvation dubious, but that it might be the foundation of certitude** — **Eph. 1**: *"He elected us in Christ."* But **in Christ we are not uncertain of our salvation, but most certain — for it is a faithful saying and worthy of all acceptation, that Christ Jesus came into this world to save sinners**.
+Nor **is the doctrine concerning election made manifest, that it might render our salvation dubious, but that it might be the foundation of certitude** — **Eph. 1:4**: *"He chose us in Him."* But **in Christ we are not uncertain of our salvation, but most certain — for it is a faithful saying and worthy of all acceptation, that Christ Jesus came into this world to save sinners**.
 
 — ❦ —
 
@@ -5572,7 +5572,7 @@ Then **the saying of Joel speaketh not of the promise of grace and of the remiss
 
 **PREDESTINATION is the ordination of God, whereby God out of mere mercy, on account of and through his only-begotten Son, chooseth for himself a Church or a people, to whom he freely giveth eternal life.** The members of this Church and people are all who **believe in Christ, and in this faith persevere unto the end of life**.
 
-**Rom. 9:15**: *"I will have mercy on whomever I will have mercy, and I will have compassion on whomever I will have compassion."* **Eph. 1:4**: *"As he elected us in Christ, before the constitution of the world, that we should be holy and immaculate in his sight in charity."*
+**Rom. 9:15**: *"I will have mercy on whomever I will have mercy, and I will have compassion on whomever I will have compassion."* **Eph. 1:4**: *"just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love."*
 
 — ❦ —
 
@@ -5588,7 +5588,7 @@ Then **the saying of Joel speaketh not of the promise of grace and of the remiss
 
 **Whence then is it?**
 
-**From the eternal counsel and decree of God** — **Eph. [1:5]**: *"Who predestined us to the adoption of sons through Jesus Christ into himself, according to the purpose of his will."*
+**From the eternal counsel and decree of God** — **Eph. [1:5]**: *"having predestined us to adoption as sons by Jesus Christ to Himself, according to the good pleasure of His will."*
 
 — ❦ —
 
@@ -5604,7 +5604,7 @@ Then **the saying of Joel speaketh not of the promise of grace and of the remiss
 
 **But who hath merited this predestination of grace?**
 
-**No one, save Christ Jesus alone**, who by his most precious death and most holy obedience redeemed us men from sins and death, and acquired us to himself as an inheritance and a peculiar people — **Eph. 1:4–6**: *"in which he hath graced or made us accepted in his beloved Son, in whom we have redemption through his blood."*
+**No one, save Christ Jesus alone**, who by his most precious death and most holy obedience redeemed us men from sins and death, and acquired us to himself as an inheritance and a peculiar people — **Eph. 1:6–7**: *"by which He made us accepted in the Beloved, in whom we have redemption through His blood."*
 
 **Erroneous therefore and false is it to seek the cause of predestination in our merits, or to place it there, as the Papists do.**
 
@@ -5704,7 +5704,7 @@ And to conclude by responding — **in this life we can say no more, than that w
 
 **But what is the end of this predestination according to grace?**
 
-**The glory of God** — **Eph. 1:5–6**: *"Who predestined us unto the praise of the glory of his grace and the salvation of our souls."*
+**The glory of God** — **Eph. 1:5–6**: *"Who predestined us... to the praise of the glory of His grace."*
 
 — ❦ —
 
@@ -5712,7 +5712,7 @@ And to conclude by responding — **in this life we can say no more, than that w
 
 **But what are the fruits of gratuitous predestination?**
 
-**These also Paul most openly expoundeth**, when he saith **Eph. 1:4**: *"He hath elected us in him, that we should be holy and immaculate in his sight in charity."* And **Eph. 2:10**: *"For we are his workmanship, created in Christ Jesus in good works, which God prepared, that we should walk in them."* And when **Rom. 8:29** he saith: *"Whom He foreknew, He also predestined to be conformed to the image of His Son"* — that is, **to bear the yoke and cross of Christ, and through many tribulations to enter into the kingdom of the heavens**.
+**These also Paul most openly expoundeth**, when he saith **Eph. 1:4**: *"He chose us in Him, that we should be holy and without blame before Him in love."* And **Eph. 2:10**: *"For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them."* And when **Rom. 8:29** he saith: *"Whom He foreknew, He also predestined to be conformed to the image of His Son"* — that is, **to bear the yoke and cross of Christ, and through many tribulations to enter into the kingdom of the heavens**.
 
 And at length, when **Rom. [8:38–39]** he writeth: *"That nothing can separate the elect of God from the charity of God — for I am certain,"* saith he, *"that neither death, nor life, nor Angels, nor principalities, nor virtues, nor things present, nor things to come, nor fortitude, nor height, nor depth, nor any other creature can separate us from the charity of God, which is in Christ Jesus our Lord."*
 
@@ -5722,7 +5722,7 @@ And at length, when **Rom. [8:38–39]** he writeth: *"That nothing can separate
 
 **Is it therefore false and erroneous to teach that predestination looketh to our works, and is founded in our will and in the free election of the free choice?**
 
-**Very much so.** For **it is founded only in the mercy of God and the merit of Christ** — **Rom. 9:16**: *"So then it is not of him who wills, nor of him who runs, but of God who shows mercy."* **Eph. [1:5]**: *"Who predestined us unto the adoption of sons through Jesus Christ into himself, according to the purpose of his will."*
+**Very much so.** For **it is founded only in the mercy of God and the merit of Christ** — **Rom. 9:16**: *"So then it is not of him who wills, nor of him who runs, but of God who shows mercy."* **Eph. [1:5]**: *"having predestined us to adoption as sons by Jesus Christ to Himself, according to the good pleasure of His will."*
 
 — ❦ —
 
@@ -5920,7 +5920,7 @@ By these therefore so many immoveable sayings of Scripture, **no man before GOD 
 
 **But although they justify not, will they be as necessary to salvation?** [*[Luther: T. 3, p. 469; p. 297, th. 38; p. 239; Gen. T. 2, p. 20 and following; T. 4/1, pp. 47, 48, 49*]*]
 
-**Sacred Scripture excludeth our works, not only from justification but also from salvation — as not necessary to obtaining it** — **Rom. 4:6–8**: *"just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: Blessed are those whose lawless deeds are forgiven, and whose sins are covered. Blessed is the man to whom the Lord shall not impute sin."* **Eph. 2:8–9**: *"By grace ye are saved through faith (and this not of yourselves; for it is the gift of God), not of works, lest any man should glory."*
+**Sacred Scripture excludeth our works, not only from justification but also from salvation — as not necessary to obtaining it** — **Rom. 4:6–8**: *"just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: Blessed are those whose lawless deeds are forgiven, and whose sins are covered. Blessed is the man to whom the Lord shall not impute sin."* **Eph. 2:8–9**: *"By grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast."*
 
 **This doctrine must be held incorrupt in the Church** — and necessary it is, for these reasons:
 
@@ -6286,7 +6286,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 **Secondly**: **Neither by any word doth he say, that alms or other works in the sight or judgement of God satisfy for sins or for the punishments of sins — which the Adversaries thence attempt to gather** (for of this **no word, no letter is in Daniel**) — but **the Adversaries feign this in the words of the Prophet, for the defence of their own error**.
 
-**Thirdly**: And on this very account **the interpretation of the Papists cannot subsist**, because **it expressly contradicteth the chief testimonies of Scripture concerning the expiation and satisfaction of Christ**. For **1 Pet. [1:18–19]** it is said: *"Knowing that not with corruptible things — with gold or silver — ye have been redeemed from your vain conversation of paternal tradition, but with the precious blood as of the immaculate Lamb of Christ."* But **alms are among these corruptible things**. Alms **are in no wise the precious blood of Christ, to whom alone redemption is and ought to be attributed** — **Eph. 1:7**: *"In whom we have redemption through his blood."* But **alms are not the blood of Christ**. **Ps. 130:8**: *"And He shall redeem Israel from all his iniquities"* — he saith not: *"Alms redeem from iniquities or from their punishments."*
+**Thirdly**: And on this very account **the interpretation of the Papists cannot subsist**, because **it expressly contradicteth the chief testimonies of Scripture concerning the expiation and satisfaction of Christ**. For **1 Pet. [1:18–19]** it is said: *"Knowing that not with corruptible things — with gold or silver — ye have been redeemed from your vain conversation of paternal tradition, but with the precious blood as of the immaculate Lamb of Christ."* But **alms are among these corruptible things**. Alms **are in no wise the precious blood of Christ, to whom alone redemption is and ought to be attributed** — **Eph. 1:7**: *"In Him we have redemption through His blood."* But **alms are not the blood of Christ**. **Ps. 130:8**: *"And He shall redeem Israel from all his iniquities"* — he saith not: *"Alms redeem from iniquities or from their punishments."*
 
 **Fourthly**: And hence it is clear, that **the Prophet doth not speak with the king concerning a Papist satisfaction for temporal punishments**. For as **the Papists themselves confess and speak**: **only the regenerate and faithful can satisfy by alms for temporal punishments**. But **it is beyond controversy, that King Nabuchodonozor, when Daniel was speaking these things to him, was not yet regenerate and converted to true faith, but was to be converted and justified**: for **he was then an inflated and impious Tyrant, who of conversion to God knew nothing certain**, as **cap. 4 of Daniel abundantly attesteth**. Wherefore **plainly incongruous it is, that the Papists distort these words of Daniel unto satisfaction for temporal punishments**.
 
@@ -6330,7 +6330,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 **Is the faithful or Christian man bound to fast — that is, to live soberly and temperately?** [*[Luther: T. 6, p. 486 and following*]*]
 
-**Very much so.** For **1 Pet. 5:8** we read, *"Be ye sober and watch."* **Eph. 5:18**: *"Be not ye drunken with wine, in which is luxury."* **Rom. 13:13**: *"not in revelry and drunkenness."* **Luke 21:34**: *"Attend to yourselves, lest perchance your hearts be weighed down with surfeit and drunkenness."*
+**Very much so.** For **1 Pet. 5:8** we read, *"Be ye sober and watch."* **Eph. 5:18**: *"Do not be drunk with wine, in which is dissipation."* **Rom. 13:13**: *"not in revelry and drunkenness."* **Luke 21:34**: *"Attend to yourselves, lest perchance your hearts be weighed down with surfeit and drunkenness."*
 
 **Unto this fasting or temperance the faithful man is so obliged, that he is bound always so to live — and unless he shall have lived intemperately, grievously he sinneth**.
 
@@ -6532,7 +6532,7 @@ Hence gloriously **Augustine**: *"To him faithfully supplicating GOD for the nec
 
 Here **Ps. 27:14 answereth**: *"Wait on the Lord; be of good courage, and He shall strengthen your heart; wait, I say, on the Lord."* And **Ps. 130:5–7**: *"I wait for the Lord, my soul waits, and in His word I do hope. My soul waits for the Lord more than those who watch for the morning — yes, more than those who watch for the morning. Let Israel hope in the Lord."* And **Hab. 2:3**: *"If it delay, expect it, because coming it shall come, and shall not tarry."* **Lam. 3:26–27**: *"It is good to prestolate with silence the salvation of God; it is good to a man, when he shall have borne the yoke from his adolescence: he shall sit solitary, and shall be silent."* [*[Gen. 25, T. 3, p. 7*]*]
 
-For on this account God oftentimes **deferreth the hearing of our prayers, that in his own time — far beyond what we asked or expected — he may bestow it upon us**. **Eph. 3:20**: *"To him, who is powerful to do all things superabundantly beyond what we ask or understand, according to the power which worketh in us, be glory in the Church"* [*[…p. 490 f. b*]*].
+For on this account God oftentimes **deferreth the hearing of our prayers, that in his own time — far beyond what we asked or expected — he may bestow it upon us**. **Eph. 3:20–21**: *"Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to Him be glory in the church"* [*[…p. 490 f. b*]*].
 
 **Nor thus is the hearing of prayers to be defined to the faithful — as though God were always held to grant precisely what they ask — but so, that those things which shall be to the salvation of body and soul, he giveth**. For **he who ought to give, better knoweth what is useful for us than we ourselves**.
 
@@ -6988,7 +6988,7 @@ Whence it is clear, that **they fall into the error of the Donatists, who conten
 
 **How manifold is Baptism?** [*[Luther: T. 4/1, pp. 292 f. b; T. 8, pp. 272, 273*]*]
 
-**Simply one** — **Eph. 4:5**: *"One Lord, one faith, one Baptism."*
+**Simply one** — **Eph. 4:5**: *"one Lord, one faith, one baptism."*
 
 The Jews indeed and the Turks also use baptisms — they wash and cleanse themselves. But **the Jews' washings are in Christ taken away and abolished. The Turks' lotions are a fictitious work, which leaneth upon no word of God — wherefore also it is of no worth**.
 
@@ -7108,7 +7108,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **What doth Baptism work?** [*[T. 7, pp. 404, 405; T. 3, p. 543 f. b; T. 3/1, p. 80*]*]
 
-**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved."* **Acts 2:38**: *"Let each of you be baptized in the name of Jesus Christ unto the remission of your sins."* **Eph. 5:26**: *"Cleansing it by the laver of water in the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
+**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved."* **Acts 2:38**: *"Let each of you be baptized in the name of Jesus Christ unto the remission of your sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
 
 — ❦ —
 
@@ -8868,7 +8868,7 @@ And **the blasphemies indeed of the Papists are sufficiently palpable and easily
 
 **Why is she called *communion of the Saints*?**
 
-**On this account — because in the visible Church, which is gathered by the Word and Sacraments, are many true and living members**, which **all, on account of Christ, are members of one Church, have one Spirit, one hope, and by the bond of the Spirit are compacted and connected in the Word into one body** — **Eph. 4:3–4**: *"Solicitous to preserve the unity of the Spirit in the bond of peace. One body and one Spirit — as ye are called in one hope of your calling."*
+**On this account — because in the visible Church, which is gathered by the Word and Sacraments, are many true and living members**, which **all, on account of Christ, are members of one Church, have one Spirit, one hope, and by the bond of the Spirit are compacted and connected in the Word into one body** — **Eph. 4:3–4**: *"endeavoring to keep the unity of the Spirit in the bond of peace. There is one body and one Spirit, just as you were called in one hope of your calling."*
 
 — ❦ —
 
@@ -9626,7 +9626,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 **Very much so.**
 
-**I.** Because **the Church according to the sacred Scripture hath no head besides Christ** — **Eph. 5:23**: *"Christ is head of the Church."* And **[Scripture] knoweth not a ministerial or visible head — whatsoever therefore is said of this, is a Papist figment**.
+**I.** Because **the Church according to the sacred Scripture hath no head besides Christ** — **Eph. 5:23**: *"Christ is head of the church."* And **[Scripture] knoweth not a ministerial or visible head — whatsoever therefore is said of this, is a Papist figment**.
 
 **II.** **The Pope cannot exhibit those things which are of the head of the Church**: for he cannot **be present to the Church wherever among the nations she is gathered, hear her prayers, defend her, and snatch her from sin, death, and all evils**.
 
