@@ -1682,7 +1682,7 @@ It cannot be denied, therefore, that ***without abolition of the same***, Christ
 
 **What sublimities has Christ in his resuscitated body?**
 
-**I.** That ***his body is made immortal***. For, in that he died, he died to sin ***once*** — **Rom. 6:10**.
+**I.** That ***his body is made immortal***. For, in that he died, he died to sin ***once for all*** — **Rom. 6:10**.
 
 **II.** ***Glorious*** — **Phil. 3:21**: *"Who will reform the body of our lowness, configured to the body of his glory."*
 
@@ -3166,7 +3166,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Is conversion a coercion?**
 
-**By no means.** But God ***changes the contumacious and rebellious heart of man*** and makes it obedient to himself, regenerates and renews it — that from a contumacious heart it becomes a ***spontaneous heart***, and that now regenerate it ***of its own accord*** assents to the promise of grace — **Ps. 110:3**: *"Thy people are spontaneous,"* etc. **Rom. 7:22** — *"For I am delighted with the law of God, according to the inward man,"* etc. [*T. 5, p. 310*]
+**By no means.** But God ***changes the contumacious and rebellious heart of man*** and makes it obedient to himself, regenerates and renews it — that from a contumacious heart it becomes a ***spontaneous heart***, and that now regenerate it ***of its own accord*** assents to the promise of grace — **Ps. 110:3**: *"Thy people are spontaneous,"* etc. **Rom. 7:22** — *"For I delight in the Law of God according to the inward man,"* etc. [*T. 5, p. 310*]
 
 — ❦ —
 
@@ -3174,7 +3174,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Can the regenerate will cooperate?**
 
-**Most certainly.** Whence Paul at **Rom. 7:25** says: *"Therefore I myself, with the mind, serve the law of God."*
+**Most certainly.** Whence Paul at **Rom. 7:25** says: *"So then, with the mind I myself serve the Law of God."*
 
 — ❦ —
 
@@ -3190,7 +3190,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Are the regenerate wholly renewed in this life?**
 
-**Many in the saints and truly regenerate remaining infirmities are and remain**, as Paul at **Rom. 7:23** laments that he sees in his members ***another law fighting against the law of his mind***, etc. Wherefore they are ***not wholly renewed in this life***, but the renewal in the saints in this life is only begun; yet it ought to grow in them daily. To which they ought to contend, ***lest they receive the grace of God in vain*** — **2 Cor. 6**.
+**Many in the saints and truly regenerate remaining infirmities are and remain**, as Paul at **Rom. 7:23** laments that he sees in his members ***another law warring against the law of his mind***, etc. Wherefore they are ***not wholly renewed in this life***, but the renewal in the saints in this life is only begun; yet it ought to grow in them daily. To which they ought to contend, ***lest they receive the grace of God in vain*** — **2 Cor. 6**.
 
 — ❦ —
 
@@ -3335,7 +3335,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 **Sin (to speak generally) is a defect or inclination or action against the Law of God, offending God and meriting the wrath of God, temporal and eternal punishments, unless remission be made through the Son the Mediator.**
 
 - That sin **is a defect** is had **Rom. 3:23** — *"For all have sinned and fall short of the glory of God."*
-- That **evil inclination or evil concupiscence is sin** appears from the Decalogue, and from **Rom. 7:7**: *"I had not known sin except through the Law; for I had not known concupiscence, unless the Law had said, Thou shalt not covet,"* etc.
+- That **evil inclination or evil concupiscence is sin** appears from the Decalogue, and from **Rom. 7:7**: *"I would not have known sin except through the Law. For I would not have known covetousness unless the Law had said, You shall not covet,"* etc.
 - That **evil actions are sins**, likewise the Decalogue teaches, and Paul demonstrates **Gal. 5:19**: *"Now the works of the flesh are manifest, which are fornication,"* etc., *"and such like — of which I foretell you, as I have foretold, that they who do such things shall not obtain the kingdom of God."*
 - That **all sins are against the Law of God, and fight with it**, the Apostle teaches **1 John 3:4**: ***"Every one that committeth sin, worketh also iniquity: and sin is iniquity"*** — *πᾶς ὁ ποιῶν τὴν ἁμαρτίαν καὶ τὴν ἀνομίαν ποιεῖ· καὶ ἡ ἁμαρτία ἐστὶν ἡ ἀνομία*. Item Paul **Rom. 3:20**: *"For by the Law is the knowledge of sin."*
 - That **God is angered against sin** is had **Rom. 1:18**: *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men."*
@@ -3462,11 +3462,11 @@ That **never to any penitent sinner has he denied the gratuitous remission of si
 
 ### Objection I. Nature is good. *Ergo* in nature there is no sin.
 
-**Respondeo**: **It is a fallacy from *dictum secundum quid* to *dictum simpliciter***. Nature, in as much as also after the Fall she is a creature of God, is a good thing; but **since nature is corrupted through sin, sin cleaves in her** — as **Rom. 7:20** saith: *"Sin dwelleth in me."*
+**Respondeo**: **It is a fallacy from *dictum secundum quid* to *dictum simpliciter***. Nature, in as much as also after the Fall she is a creature of God, is a good thing; but **since nature is corrupted through sin, sin cleaves in her** — as **Rom. 7:20** saith: *"sin that dwells in me."*
 
 ### Objection II. Reason prays after the best. *Ergo* through sin she is not corrupted.
 
-**Respondeo**: **To the antecedent** — reason prays after the *first* things *politically* and *economically*, but yet **not always**. For we sometimes see *the better things, and approve them, and yet follow the worse*. **Spiritually** indeed she prays after the best only then, when to wit she has been **renewed and illumined by the Holy Spirit** — although even in the regenerate there remains a **sad war between the flesh and the Spirit, so long as the man lives** — **Rom. 7:23**: *"I see another law in my members, rebelling against the law of my mind,"* etc.
+**Respondeo**: **To the antecedent** — reason prays after the *first* things *politically* and *economically*, but yet **not always**. For we sometimes see *the better things, and approve them, and yet follow the worse*. **Spiritually** indeed she prays after the best only then, when to wit she has been **renewed and illumined by the Holy Spirit** — although even in the regenerate there remains a **sad war between the flesh and the Spirit, so long as the man lives** — **Rom. 7:23**: *"I see another law in my members, warring against the law of my mind,"* etc.
 
 — ❦ —
 
@@ -3532,7 +3532,7 @@ In sum: **original sin is truly sin**, and indeed **the greatest of all sins** [
 
 **Where then, or in which parts of man, is original sin?**
 
-**The whole man is corrupted by original sin** [*[Luther: Ps. 14, pp. 27–28; T. 6, p. 73 fine; In Præfat. Epist. Rom.; Gen. cap. 3, pp. 40–41; Gen. cap. 8, pp. 138–141; Ps. 14, pp. 371–374*]*], so that original sin is in the body, in the soul, in the mind, in the will, and in all the powers and faculties of man. For Scripture expressly says **Rom. 3; Ps. 14** that we are corrupted, become abominable and useless, false, conceived and born in sins — **Ps. 51:5**; that we have the intellect darkened with darkness — **Eph. 4:18**; **that the natural man perceiveth not the things which are of the Spirit of God, for it is foolishness to him, nor can he understand** — **1 Cor. 2:14**. That the will of man is averted from God, evil, and hostile to God — **Rom. 8:7**. That in the heart and in all the powers and faculties of man there is rebellion, contumacy, security, disobedience, incredulity, doubt, pride, and that **from the heart as from a fount all evils proceed** — **Matt. 15; Gen. 6, 8; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened; for saying themselves to be wise, they became fools."* **Rom. 7:18** — *"in the flesh dwelleth sin, which resists the law of the mind."* Hence it is that also of the remaining members it is said **Rom. 3:13**: *"Their throat is an open sepulchre,"* etc.
+**The whole man is corrupted by original sin** [*[Luther: Ps. 14, pp. 27–28; T. 6, p. 73 fine; In Præfat. Epist. Rom.; Gen. cap. 3, pp. 40–41; Gen. cap. 8, pp. 138–141; Ps. 14, pp. 371–374*]*], so that original sin is in the body, in the soul, in the mind, in the will, and in all the powers and faculties of man. For Scripture expressly says **Rom. 3; Ps. 14** that we are corrupted, become abominable and useless, false, conceived and born in sins — **Ps. 51:5**; that we have the intellect darkened with darkness — **Eph. 4:18**; **that the natural man perceiveth not the things which are of the Spirit of God, for it is foolishness to him, nor can he understand** — **1 Cor. 2:14**. That the will of man is averted from God, evil, and hostile to God — **Rom. 8:7**. That in the heart and in all the powers and faculties of man there is rebellion, contumacy, security, disobedience, incredulity, doubt, pride, and that **from the heart as from a fount all evils proceed** — **Matt. 15; Gen. 6, 8; Rom. 1:21**: *"They became vain in their imaginations, and their foolish heart was darkened; for saying themselves to be wise, they became fools."* **Rom. 7:18** — *"in the flesh dwelleth sin, which resists the law of the mind."* Hence it is that also of the remaining members it is said **Rom. 3:13**: *"Their throat is an open tomb,"* etc.
 
 — ❦ —
 
@@ -3666,7 +3666,7 @@ Concerning the **tinder** which they feign, it is likewise a most vain fiction �
 
 ### Objection I. The depravation of nature is not to be too much exaggerated, lest we come by little and little near unto the Manichaeans. *Ergo* from such exaggeration of sin, which you urge, one must abstain.
 
-**Respondeo**: **Nay, it must most greatly be exaggerated**, since Scripture exaggerates it, and describes it in atrocious words as above is shown. **And since the benefit of redemption is extenuated, if it be said that original sin is the least of all sins**, and that depravation inhering in us can never be sufficiently deplored. **Rom. 7:24** — the Apostle, having in some way beheld the atrocity of sin, cries out: *"Unhappy I, a man! Who shall deliver me from the body of this death? — The grace of God, through Jesus Christ our Lord."* With what conscience therefore shall we extenuate it? **The blasphemy of the Manichaeans**, who taught sin to be a substance created, etc., we can flee — even if we with Scripture strongly exaggerate original sin.
+**Respondeo**: **Nay, it must most greatly be exaggerated**, since Scripture exaggerates it, and describes it in atrocious words as above is shown. **And since the benefit of redemption is extenuated, if it be said that original sin is the least of all sins**, and that depravation inhering in us can never be sufficiently deplored. **Rom. 7:24–25** — the Apostle, having in some way beheld the atrocity of sin, cries out: *"O wretched man that I am! Who will deliver me from this body of death? I thank God — through Jesus Christ our Lord."* With what conscience therefore shall we extenuate it? **The blasphemy of the Manichaeans**, who taught sin to be a substance created, etc., we can flee — even if we with Scripture strongly exaggerate original sin.
 
 ### Objection II. Sin is properly whatever is done by a knowing and willing person. But the infant in conception neither yet knows nor wills. *Ergo* original sin in the infant, who is conceived, has either little or nothing of the reason of sin, since he has not yet the use of the will.
 
@@ -3692,13 +3692,13 @@ To the Minor I respond: **Adam in this part, when we treat of original sin, is t
 
 **Fifthly**, [the error] of those who **in our age** have taught, that **original sin is a substance, or the corrupt nature itself, which is a substance, is original sin; and that there is no distinction between the nature of man and original sin**. And they expressly denied that **original sin is an evil accident in human nature**, but they said there is a distinction between the corrupt nature and original sin itself.
 
-**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the passions of sins, which were by the Law, were working in our members, that they should bring forth fruit unto death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17**: *"Now it is no longer I that work it, but sin that dwelleth in me. For I know that in me — that is, in my flesh — dwelleth no good."* Item **v. 21**: *"For evil lieth close to me."* Item **v. 23**: *"But I see another law in my members repugnant to the law of my mind, and captivating me in the law of sin, which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"And according to the multitude of thy mercies blot out my iniquity,"* etc. **Matt. 1:21** — *"And thou shalt call his name Jesus, for he shall save his people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
+**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the sinful passions which were aroused by the Law were at work in our members to bear fruit to death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17–18**: *"But now, it is no longer I who do it, but sin that dwells in me. For I know that in me — that is, in my flesh — nothing good dwells."* Item **v. 21**: *"evil is present with me."* Item **v. 23**: *"But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"And according to the multitude of thy mercies blot out my iniquity,"* etc. **Matt. 1:21** — *"And thou shalt call his name Jesus, for he shall save his people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
 
 From these and similar pronouncements of Sacred Scripture it is sufficiently manifest that **Scripture constitutes a manifest distinction between the corrupt nature of man and original sin, and expressly denies that original sin is a substance or the corrupt nature itself**. For it asserts that sin is in the members, not that the members themselves are sin. Item, that sin dwells in the flesh, but not that the flesh is sin itself. Item, that the blood of Christ cleanses us from sin. Now if the corrupt nature were original sin itself, the blood of Christ would cleanse us from the nature itself, and not the nature from sin. Item, that Christ saves sinners, not sin itself.
 
 **II.** The same also **the Articles of our Faith testify**. The article of Creation: **God even now after the Fall creates the nature of man, but he does not create sin**. Item the article of Redemption: **Christ assumed our nature or our flesh and blood into the unity of his Person; but he did not assume sin**. It is therefore necessary that **there be a distinction between the nature of man and original sin, and that original sin be an evil separable, that is, an accident**. Also **Christ redeemed the corrupt nature of man, but did not redeem sin**. Therefore the nature of man and sin cannot be one and the same. **The corrupt nature of man in Baptism through water and the Spirit is reborn; but sin is not reborn**. It is therefore necessary that **sin differ from the substance and nature of man**. The nature of man is cleansed from sin, will rise again from the dead, and shall live unto all eternity — but original sin shall be utterly abolished. How therefore can the nature of man and original sin be one and the same? **The corrupt nature of the faithful shall be saved — but sin shall not be saved**. It is therefore necessary that the nature of man and original sin be distinguished.
 
-**III.** The same is also manifest **from sufficient enumeration**. **Original sin is not the very body of man.** For **Rom. 6:12** the Apostle saith: *"Let not sin therefore reign in our mortal body, that ye should obey the concupiscences thereof"* — where it is expressly said that **sin is in our mortal body — therefore it is not the mortal body itself**. Neither also is it **the soul of man itself** — for this is a **spiritual, rational, and immortal creature**, which cannot be said of sin. It is therefore **an accident in nature, and not a substance**.
+**III.** The same is also manifest **from sufficient enumeration**. **Original sin is not the very body of man.** For **Rom. 6:12** the Apostle saith: *"Therefore do not let sin reign in your mortal body, that you should obey it in its lusts"* — where it is expressly said that **sin is in our mortal body — therefore it is not the mortal body itself**. Neither also is it **the soul of man itself** — for this is a **spiritual, rational, and immortal creature**, which cannot be said of sin. It is therefore **an accident in nature, and not a substance**.
 
 **IV.** The same the **distinct properties of nature and of original sin** evince. **The nature of every man has its own subsisting essence** through itself: but original sin does not. For it is not a substance and essence subsisting through itself, but **it is in the corrupt nature of man as in another; and it is the corruption itself of human nature**.
 
@@ -3847,7 +3847,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **But in which men are these sins?**
 
-**In all men.** **Gen. 6:5; Gen. 8:21** — *"For the sense and thought of man's heart are evil from his childhood."* This the **daily and proper experience of all men in their own person** testifies — just as Paul complains of himself, **Rom. 7:23**: *"I see (saith he) another law in my members repugnant to the law of my mind."*
+**In all men.** **Gen. 6:5; Gen. 8:21** — *"For the sense and thought of man's heart are evil from his childhood."* This the **daily and proper experience of all men in their own person** testifies — just as Paul complains of himself, **Rom. 7:23**: *"I see (saith he) another law in my members, warring against the law of my mind."*
 
 — ❦ —
 
@@ -4192,13 +4192,13 @@ And **Moses himself, Exod. 34:7**, testifies that **no one of men perfectly obey
 
 **By no means.**
 
-Since **even of the regenerate and faithful themselves Scripture pronounces** [*[Luther: T. 4/1, pp. 41, 42, 47, 48, 49, 106, 107, 126, 130; T. 4/1, pp. 81, 82*]*] that **they have remnants of sins** — **Ps. 51; Rom. 6, 7**. But where remnants of sins are, there is no fulfilling of the Law. Likewise, Scripture says that also in the faithful **the old Adam remains with depraved concupiscences and cupidities** — **Eph. 4:22; Col. 3:9**. But where depraved concupiscences and desires of the flesh remain, there is no fulfilment of the Law. Moreover, the same Scripture testifies **that love of God even in the regenerate is imperfect** — for **there remain in all depraved cupidities and enmities of the flesh against God, which in men, while they live, cannot be plainly extirpated**. To this, expressly it says **we are not perfect** — **Rom. 7:18**: *"For to will is present with me, but to perform that which is good I find not."* Finally, it teaches **that all the faithful daily in the Lord's Prayer seek remission of their sins**.
+Since **even of the regenerate and faithful themselves Scripture pronounces** [*[Luther: T. 4/1, pp. 41, 42, 47, 48, 49, 106, 107, 126, 130; T. 4/1, pp. 81, 82*]*] that **they have remnants of sins** — **Ps. 51; Rom. 6, 7**. But where remnants of sins are, there is no fulfilling of the Law. Likewise, Scripture says that also in the faithful **the old Adam remains with depraved concupiscences and cupidities** — **Eph. 4:22; Col. 3:9**. But where depraved concupiscences and desires of the flesh remain, there is no fulfilment of the Law. Moreover, the same Scripture testifies **that love of God even in the regenerate is imperfect** — for **there remain in all depraved cupidities and enmities of the flesh against God, which in men, while they live, cannot be plainly extirpated**. To this, expressly it says **we are not perfect** — **Rom. 7:18**: *"For to will is present with me, but how to perform what is good I do not find."* Finally, it teaches **that all the faithful daily in the Lord's Prayer seek remission of their sins**.
 
 From all these it is manifest that even the regenerate and faithful themselves **cannot fulfil the Law and exhibit perfect obedience to it**, although a new obedience through the Holy Spirit be begun in them.
 
 ## Objections
 
-### Objection I. **Rom. 7:25** — *"With the mind I serve the Law of God."* *Ergo* the Law can be satisfied.
+### Objection I. **Rom. 7:25** — *"With the mind I myself serve the Law of God."* *Ergo* the Law can be satisfied.
 
 **Respondeo**: **But the same Apostle in the same chapter writes of himself, that with the flesh he serves the law of sin.** Therefore he did not fulfil the Law. **For where sin is still remaining, there is no fulfilment of the Law.** As the holy Apostle lacked, much more shall the Monks lack.
 
@@ -4512,7 +4512,7 @@ Unless Christ had come, and had revealed in the Gospel what is to be answered by
 
 But **the Gospel offers grace, life, and salvation gratuitously even to wretched and unworthy sinners doing penitence, turning themselves to God, and believing on Christ** — **Matt. 11:28**: *"Come unto me, all ye who labour and are burdened, and I will refresh you."* This preaching **truly raises up the contrite and humbled heart, gladdens and consoles it, that it may certainly settle that it is with God in grace, has God propitious to it, and has remission of all its sins for Christ's sake**.
 
-**III.** **The doctrine of the Law does not console, but terrifies and kills** [*[Luther: T. 4, pp. 784, 785*]*], and **fills the heart of man with terrors and dreads**. For it denounces and reveals the wrath of God, the judgement and eternal damnation, which man by his sins has deserved — **Rom. 4:15**: *"The Law brings about wrath."* Without the Law and knowledge of the Law our hearts are swollen and inflated; but touched by the preaching of the Law, they feel nothing but **terrors and dreads of death**, as in Adam, Eve, David, and other sinners it is to be seen. And as Paul in himself, **Rom. 7:9–10**, confesses: *"I was living without the Law once, but when the commandment came, sin revived, but I died; and it was found unto me that the commandment which was unto life, was unto death."*
+**III.** **The doctrine of the Law does not console, but terrifies and kills** [*[Luther: T. 4, pp. 784, 785*]*], and **fills the heart of man with terrors and dreads**. For it denounces and reveals the wrath of God, the judgement and eternal damnation, which man by his sins has deserved — **Rom. 4:15**: *"The Law brings about wrath."* Without the Law and knowledge of the Law our hearts are swollen and inflated; but touched by the preaching of the Law, they feel nothing but **terrors and dreads of death**, as in Adam, Eve, David, and other sinners it is to be seen. And as Paul in himself, **Rom. 7:9–10**, confesses: *"I was alive once without the Law, but when the commandment came, sin revived and I died; and the commandment, which was to bring life, I found to bring death."*
 
 But **the Gospel brings consolation, peace, and gladness of the heart, raises up the sinner, and announces to him the grace and mercy of God — that God on account of Christ wills to remit and condone to him all sins**. As this the examples and experiences of all the faithful testify. **David is glad of heart, when from Nathan he hears absolution and remission of his sins**. So **Manasseh** is consoled by God; likewise **Peter, Mary Magdalene, the Paralytic Matt. 9, the Thief on the cross**, etc. — with wide heart and filial confidence they approach God, address him, and from him as from a propitious Father, without any doubt, expect grace, mercy, and all goods. **Augustine, in his Meditations**, could not have said, that **his whole consolation and the whole confidence of his heart was in the precious blood of the Redeemer Christ Jesus**, unless he had first learned this consolation from the gratuitous preaching of the Gospel.
 
@@ -4674,7 +4674,7 @@ This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p.
 
 **Sometimes it signifies the obedience which all men owe to God according to the prescription of the Law or Decalogue** — **Rom. 10:3**: *"For being ignorant of God's righteousness, and seeking to establish their own, they were not subject to the righteousness of God."*
 
-**Sometimes it signifies the righteousness of good works, or of the new obedience begun in believers through the Holy Spirit** — **Rom. 6:13**: *"Exhibit your members as weapons of righteousness to God."* **2 Tim. 2:22** — *"Follow righteousness,"* etc.
+**Sometimes it signifies the righteousness of good works, or of the new obedience begun in believers through the Holy Spirit** — **Rom. 6:13**: *"Present your members as instruments of righteousness to God."* **2 Tim. 2:22** — *"Follow righteousness,"* etc.
 
 **Sometimes indeed it signifies the righteousness of Christ, or the obedience and merit of Christ, which are imputed to faith** — **Rom. 3:22**: *"even the righteousness of God, through faith in Jesus Christ."* Item v. 25: *"to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed."*
 
@@ -5906,7 +5906,7 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **First**, on account of **sin dwelling in the flesh**, they are and remain **unclean** — **Rom. 7**.
 
-**Secondly**, also **in themselves and *per se* they are not perfect**. For **the saints in this life, on account of the inherent sin, cannot obtain perfection** — **Rom. 7:18**: *"To will is present with me, but to perfect the good I find not."*
+**Secondly**, also **in themselves and *per se* they are not perfect**. For **the saints in this life, on account of the inherent sin, cannot obtain perfection** — **Rom. 7:18**: *"To will is present with me, but how to perform what is good I do not find."*
 
 **Thirdly**, **all the saints, so long as they live this life, daily have need to pray: Forgive us our debts** — which is a most certain [proof] of their imperfection.
 
@@ -6076,7 +6076,7 @@ And to say it in one word: **detestable is the pride and execrable the blasphemy
 
 And **Christ indeed speaketh of the reward and rewards of good works, but he addeth not that they are given of debt, and that works are meritorious, and that God is held to give us eternal life for them**.
 
-So **Paul and the rest of the faithful of the Old and New Testament had indeed the promise of the reward and rewards of good works, and sufficiently understood it — but nowhere affirmed that by their works eternal life is merited**. Rather they said this: **that if the Lord shall have observed iniquity, they cannot sustain** — **Ps. 130:3** — and **that they cannot in the judgement of God answer God to one out of a thousand — Job 9:2–3**. Paul **Rom. 7:25** saith: *"The grace of God through Jesus Christ our Lord."* **Phil. 3:8**: he esteemeth his works **as dung in the judgement of God**, and willeth **to be found having not his own righteousness which is from the Law, but that which is from faith of Christ**.
+So **Paul and the rest of the faithful of the Old and New Testament had indeed the promise of the reward and rewards of good works, and sufficiently understood it — but nowhere affirmed that by their works eternal life is merited**. Rather they said this: **that if the Lord shall have observed iniquity, they cannot sustain** — **Ps. 130:3** — and **that they cannot in the judgement of God answer God to one out of a thousand — Job 9:2–3**. Paul **Rom. 7:25** saith: *"I thank God — through Jesus Christ our Lord."* **Phil. 3:8**: he esteemeth his works **as dung in the judgement of God**, and willeth **to be found having not his own righteousness which is from the Law, but that which is from faith of Christ**.
 
 — ❦ —
 
@@ -7140,7 +7140,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **But what doth Baptism, or the immersion in water, signify?** [*[T. 1/1, p. 19*]*]
 
-**It signifieth** (as our Catechism truly and well answereth) **that the old Adam ought subsequently through mortification and penitence in us to be submerged and extinguished — with all sins and evil concupiscences — and again daily to emerge and rise up a new man, who in sanctity and righteousness before God may live for ever** — as **Rom. 6:4 it is said**: *"For we are buried together with him through Baptism into death, that as Christ rose from the dead through the glory of the Father, so also we should walk in newness of life."*
+**It signifieth** (as our Catechism truly and well answereth) **that the old Adam ought subsequently through mortification and penitence in us to be submerged and extinguished — with all sins and evil concupiscences — and again daily to emerge and rise up a new man, who in sanctity and righteousness before God may live for ever** — as **Rom. 6:4 it is said**: *"Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."*
 
 — ❦ —
 
@@ -7282,7 +7282,7 @@ To this: **if infants were baptized in an alien faith, when would we be certain 
 
 **V.** That **they taught that in Baptism original sin is plainly taken away, so that its reliques in man are only *fomes*, not however sin** — **which is a mere figment**.
 
-**First**, Scripture itself confesseth, that **in the baptized sins remain** — **Rom. 6:12**: *"Let not sin therefore reign in your mortal body."* **Rom. 7:17**: *"That sin dwelleth in me."* Item **v. 21**: *"For evil lieth by me."* **1 John 1:8**: *"If we shall have said, that we have no sin, we deceive ourselves, and the truth is not in us."*
+**First**, Scripture itself confesseth, that **in the baptized sins remain** — **Rom. 6:12**: *"Therefore do not let sin reign in your mortal body."* **Rom. 7:17**: *"sin that dwells in me."* Item **v. 21**: *"evil is present with me."* **1 John 1:8**: *"If we shall have said, that we have no sin, we deceive ourselves, and the truth is not in us."*
 
 **II.** In the Lord's Prayer all the baptized saints daily ask remission of sins — **therefore they have remaining sin, of necessity**.
 
@@ -12728,7 +12728,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Do the Pelagians rightly teach, that death is connatural to man, and that man, even if he had not sinned, yet would have died?**
 
-**Respondeo**: **By no means. For the Word of God testifieth the contrary, Gen. 2:17**: *"In whatsoever day thou shalt eat of it, by death thou shalt die."* **And Rom. 5:12**: *"Through sin death, and thus unto all men death passed, in whom all sinned."* **Rom. 6:23**: *"The wages of sin is death."* **Hence therefore it is clear that the opinion of the Pelagians is false and erroneous.**
+**Respondeo**: **By no means. For the Word of God testifieth the contrary, Gen. 2:17**: *"In whatsoever day thou shalt eat of it, by death thou shalt die."* **And Rom. 5:12**: *"death through sin, and thus death spread to all men, because all sinned."* **Rom. 6:23**: *"The wages of sin is death."* **Hence therefore it is clear that the opinion of the Pelagians is false and erroneous.**
 
 — ❦ —
 
