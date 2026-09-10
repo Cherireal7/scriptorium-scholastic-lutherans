@@ -11874,7 +11874,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**:
 
-**I. That before other men they may know and deplore the horrid corruption of human nature — which the sons of this age do not, for these care not for nor fear either sin or God. Ps. 90:[7]**: *"Because we have failed in thy wrath, and in thy fury we have been troubled; thou hast set our iniquities in thy sight,"* &c. **Lam. 1:5**: *"The Lord hath spoken over her on account of the multitude of her iniquities."* **Item, v. 14**: *"The yoke of my iniquities hath watched: in his hand they have been wound about and imposed upon my neck."*
+**I. That before other men they may know and deplore the horrid corruption of human nature — which the sons of this age do not, for these care not for nor fear either sin or God. Ps. 90:7–8**: *"For we have been consumed by Your anger, and by Your wrath we are terrified. You have set our iniquities before You,"* &c. **Lam. 1:5**: *"The Lord hath spoken over her on account of the multitude of her iniquities."* **Item, v. 14**: *"The yoke of my iniquities hath watched: in his hand they have been wound about and imposed upon my neck."*
 
 **II. Because even in Saints many infirmities remain — security, impatience, negligence of prayers, desire of vindication, evil concupiscences, &c. — which have need that from God they be visited, corrected, and repressed. Ps. 89:33 [*[T. 2, p. 343]*]**: *"I will visit with the rod their iniquities, and with strokes their sins: but my mercy I will not disperse from him."*
 
