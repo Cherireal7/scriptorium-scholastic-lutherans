@@ -856,7 +856,7 @@ It is clear therefore that **Christ has been begotten from eternity of the essen
 
 ## Certain Objections against the eternal Divinity of the Son
 
-### Objection I. **The Father alone is God** — **John 17** — *"that they may know thee, the only true God."* *Ergo* the Son is not true God.
+### Objection I. **The Father alone is God** — **John 17** — *"that they may know You, the only true God."* *Ergo* the Son is not true God.
 
 **Respondeo**: **The particle *only* in this saying is not used ***exclusively***, so as to exclude the Son and the Holy Spirit from the Divinity, but is opposed to ***the Idols and fictitious Deities of the Gentiles***.** Next, Christ with these words refutes the Jews, who boasted that they worshipped the true God, when yet they rejected the Son consubstantial with the Father — without whose recognition God can neither truly be worshipped nor be invoked.
 
@@ -5274,7 +5274,7 @@ Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concernin
 
 **Faith therefore establisheth, that God is propitious not only to others but even to thee thyself; that he remitteth to thee freely thy sins on account of Christ, without any merit and works of thine; that he giveth to thee freely the kingdom of the heavens, the Holy Spirit, and eternal life**. For **the just shall live by faith** — **Rom. 1:17**.
 
-**III.** That **in all things — whether bodily or spiritual, whether temporal or eternal goods — it looketh upon the mercy of God alone and the merit of Christ**. For **from the word of God it knoweth, that God neither heareth prayers, nor delivereth out of evils, save through and on account of Christ the Mediator**. Hence **Matt. 21:22** it is said: *"All things whatsoever ye shall ask in prayer, believing, ye shall receive."* Item **John 16:23**: *"Amen, amen I say to you, if ye shall ask anything of the Father in my name, he shall give it to you."* **Matt. 9:2**: *"Be of good cheer, son, thy sins are remitted to thee."* **Luke 8:50**: *"Be not afraid, only believe, and she shall be saved."*
+**III.** That **in all things — whether bodily or spiritual, whether temporal or eternal goods — it looketh upon the mercy of God alone and the merit of Christ**. For **from the word of God it knoweth, that God neither heareth prayers, nor delivereth out of evils, save through and on account of Christ the Mediator**. Hence **Matt. 21:22** it is said: *"All things whatsoever ye shall ask in prayer, believing, ye shall receive."* Item **John 16:23**: *"Most assuredly, I say to you, whatever you ask the Father in My name He will give you."* **Matt. 9:2**: *"Be of good cheer, son, thy sins are remitted to thee."* **Luke 8:50**: *"Be not afraid, only believe, and she shall be saved."*
 
 For **it is impossible that a man with trust and cheerful countenance ask anything from God, unless he be first certain that he is reconciled to God on account of Christ, and hath remission of all his sins**.
 
@@ -6472,7 +6472,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 **We however must approach that Mediator and intercessor, whom God himself hath set forth as a propitiation by His blood, through faith** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God, one also Mediator of God and men, the man Christ Jesus, who gave himself as redemption for all."*
 
-For **this one — as hath now been demonstrated — is set forth by God, gave himself for us, remaineth for ever, is our High Priest, having an eternal Priesthood, intercedeth for us** — **Heb. 7:24–25; Rom. 8**. **He is our Lord and King, under whose jurisdiction and tutelage and aid we are — who also with a doubled Amen, John 16:23, hath promised us**: *"If anything ye shall have asked the Father in my name, it shall be given to you."*
+For **this one — as hath now been demonstrated — is set forth by God, gave himself for us, remaineth for ever, is our High Priest, having an eternal Priesthood, intercedeth for us** — **Heb. 7:24–25; Rom. 8**. **He is our Lord and King, under whose jurisdiction and tutelage and aid we are — who also with a doubled Amen, John 16:23, hath promised us**: *"whatever you ask the Father in My name He will give you."*
 
 **In this sole Mediator therefore we must acquiesce and confide** — and **upon this one's merit exhibited for us, and not upon the intercession of any creature — of Angel or of Saint — our prayers can and ought to lean**.
 
@@ -8520,7 +8520,7 @@ Besides, this also is known — **that by the holy Fathers *Symbols* are called 
 
 **From these sayings therefore it cannot be demonstrated, that the body of Christ is not dispensed in the sacred Supper**, since **they show and teach nothing other than that the Lord, having left the reason of living of this age common and exposed to the senses, has proceeded into another glorious and celestial mode of living, in which he willeth not to cohabit with them in the same way as in the time of exinanition — but in a new, celestial and invisible mode**, of which **Matt. 28:20 he saith**: *"I am with you all days unto the consummation of the age."*
 
-**Secondly**: **Christ himself declareth himself, what by those words *"I leave the world"* he willeth to be understood**. For he saith **John 16:28**: *"I have gone forth from the Father, I have come into the world"* — **not that he had left the Father, or that the Father is not in the world. Heaven and earth he himself filleth: but that he himself did exinanite himself, and to all the miseries of this life — nay rather to death itself — for us and for our salvation he objected himself**.
+**Secondly**: **Christ himself declareth himself, what by those words *"I leave the world"* he willeth to be understood**. For he saith **John 16:28**: *"I came forth from the Father and have come into the world"* — **not that he had left the Father, or that the Father is not in the world. Heaven and earth he himself filleth: but that he himself did exinanite himself, and to all the miseries of this life — nay rather to death itself — for us and for our salvation he objected himself**.
 
 **Thirdly**: **Christ himself luculently explaineth himself, Luke 24:44, saying**: *"These are the words which I spoke unto you, when I was still with you."* **These words expressly attest that the said sayings — "a little while I am with you," "me ye have not always," "I leave the world" — were then already fulfilled** — and that **they are in no wise to be received of an omnimode absence of his whole person, but only of another mode of life and cohabitation and conversation**. For **saying, *"when I was still with you"* — he was not then absent from them, but so he was with them, that not as before — namely mortal, obnoxious to Passion and cross — was he present according to the reason of this age**.
 
@@ -13754,7 +13754,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Where shall eternal life be?**
 
-**Respondeo**: **With God in heaven. John 14:2**: *"In the house of my Father are many mansions."*
+**Respondeo**: **With God in heaven. John 14:2**: *"In My Father's house are many mansions."*
 
 — ❦ —
 
@@ -13762,7 +13762,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **And is heaven, in which the blessed shall be, such a place, as by Aristotle is described?**
 
-**Respondeo**: **Our adversaries this indeed affirm, but from the word of God they cannot prove it. That there is, and shall be for all eternity, a certain place of the blessed, this abundantly appeareth from the sacred letters. But that that place be such, as by Aristotle a place is described, this indeed is a figment of the Adversaries. For the word "place" (John 14:2**: *"For I go to prepare a place for you"***) signifieth not a Physical and Aristotelian place, which concerneth only sublunary and elemental things subject to change, but a blessed and spiritual habitation, whose condition and quality can be comprehended by the reason of no man, and be explained by the tongue of no man in this life. And what need of words, when Scripture itself, 1 Cor. 2:9, expressly saith**: *"That eye hath not seen, nor ear heard, nor into the heart of man hath ascended, what things God hath prepared for those, who love him."* **With what warrant, I will not say foundation, but with what colour do the Adversaries dare to affirm, that eternal life or heaven, into which Christ ascended, and in which the blessed with Christ shall live, is a local space, or such a place, as by Aristotle is defined?**
+**Respondeo**: **Our adversaries this indeed affirm, but from the word of God they cannot prove it. That there is, and shall be for all eternity, a certain place of the blessed, this abundantly appeareth from the sacred letters. But that that place be such, as by Aristotle a place is described, this indeed is a figment of the Adversaries. For the word "place" (John 14:2**: *"I go to prepare a place for you"***) signifieth not a Physical and Aristotelian place, which concerneth only sublunary and elemental things subject to change, but a blessed and spiritual habitation, whose condition and quality can be comprehended by the reason of no man, and be explained by the tongue of no man in this life. And what need of words, when Scripture itself, 1 Cor. 2:9, expressly saith**: *"That eye hath not seen, nor ear heard, nor into the heart of man hath ascended, what things God hath prepared for those, who love him."* **With what warrant, I will not say foundation, but with what colour do the Adversaries dare to affirm, that eternal life or heaven, into which Christ ascended, and in which the blessed with Christ shall live, is a local space, or such a place, as by Aristotle is defined?**
 
 — ❦ —
 
