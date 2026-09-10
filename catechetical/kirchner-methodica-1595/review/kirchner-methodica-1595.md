@@ -186,7 +186,7 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 
 **III.** **No religion has been sealed with the blood of so many true martyrs** — who suffered for truth and righteousness. None has endured and conquered through so many perils and persecutions except the Christian. For though from the beginning of the world many have been slain for the sake of this religion, the religion has not been *cut off*; and though it has been assaulted by all other sects, it has never been *conquered*.
 
-**IV.** **No religion besides the Christian has sure predictions and prophecies concerning things to come.** For whatsoever concerning its own future and that of other sects, whatsoever concerning **Christ**, the **Church**, and the political mutations of empires has been foretold in Sacred Scripture many ages back, the outcome has confirmed and daily confirms. To all the oracles and predictions of the sacred letters the deeds and the events have answered, and answer still. **Isa. 43:11–12** — *"I am, I am the Lord, and there is no Saviour besides me: I have announced, and I have saved,"* etc.
+**IV.** **No religion besides the Christian has sure predictions and prophecies concerning things to come.** For whatsoever concerning its own future and that of other sects, whatsoever concerning **Christ**, the **Church**, and the political mutations of empires has been foretold in Sacred Scripture many ages back, the outcome has confirmed and daily confirms. To all the oracles and predictions of the sacred letters the deeds and the events have answered, and answer still. **Isa. 43:11–12** — *"I, even I, am the Lord, and besides Me there is no savior... I have declared and saved,"* etc.
 
 **V.** **Above all**, the doctrine of the **Gospel** — proper to Christians, unknown to men of all other sects — proves and demonstrates the truth and certitude of the Christian religion. For without this Gospel-doctrine, whoever live in the world are ***without God*** and ***having no hope*** (**Eph. 2:12**). And this Gospel-doctrine, they who embrace it by true faith, by the witness of the experience of all the faithful, have **solid, immovable, and efficacious consolation, tranquility, and peace of heart in all temptations and afflictions**; whence they easily come to rest, and gather that they are accepted to God in Christ. **Rom. 5:1–2** — *"Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God."*
 
@@ -394,7 +394,7 @@ But the most certain rule of proof is the ***Catechism***. [*The Catechism as th
 
 **What is the force, efficacy, and operation of Scripture, or of the Word of God?**
 
-**I.** Through the Word the **Holy Spirit is given**, illuminating the hearts, and the ***remission of sins*** is offered. [*Luther: T. 6, p. 336; T. 3, p. 163; T. 7 f., p. 193; T. 4, p. 289 and 190; T. 6, p. 354; T. 5, p. 342*] **2 Cor. 3:6** — *"He made us fit to be ministers of the New Testament, not of the letter, but of the Spirit."* **Isa. 40:2** — *"Speak ye to the heart of Jerusalem, and call to her, for her malice is come to an end, her iniquity is forgiven: she hath received of the hand of the Lord double for all her sins."*
+**I.** Through the Word the **Holy Spirit is given**, illuminating the hearts, and the ***remission of sins*** is offered. [*Luther: T. 6, p. 336; T. 3, p. 163; T. 7 f., p. 193; T. 4, p. 289 and 190; T. 6, p. 354; T. 5, p. 342*] **2 Cor. 3:6** — *"He made us fit to be ministers of the New Testament, not of the letter, but of the Spirit."* **Isa. 40:2** — *"Speak comfort to Jerusalem, and cry out to her, that her warfare is ended, that her iniquity is pardoned; for she has received from the Lord's hand double for all her sins."*
 
 **II.** It renders **consciences peaceful and tranquil** — which human writings neither do nor can do. [*Luther: T. 4, p. 266; Gen. T. 3, p. 19*] **Eph. 4:11–14** — *"And He Himself gave some to be apostles, etc., for the equipping of the saints for the work of ministry, for the edifying of the body of Christ; till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ; that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting."*
 
@@ -448,7 +448,7 @@ And to embrace all together: ***Scripture divinely inspired is profitable to tea
 
 **Let him hold both this rule and the other.** [*Luther: T. 1, p. 538; T. 7, p. 243*]
 
-**I.** Let him ask **whether the Fathers ever erred**. If they did err (as the adverse party, will he nill he, is compelled to confess), then ***their sayings by themselves demonstrate nothing***; but must be demonstrated from another firmer and per-se certain principle — that is, from a perspicuous testimony of Scripture. [*Luther: T. 3, part 1, p. 293, 297*] For **Sacred Scripture alone is the norm** according to which all dogmas and all cogitations are to be judged. **Ps. 19:8** — *"The testimony of the Lord is sure, making wise the simple."* **Isa. 8:20** — *"To the Law rather, and to the Testimony; and if they speak not according to this word, they shall not have the morning light."*
+**I.** Let him ask **whether the Fathers ever erred**. If they did err (as the adverse party, will he nill he, is compelled to confess), then ***their sayings by themselves demonstrate nothing***; but must be demonstrated from another firmer and per-se certain principle — that is, from a perspicuous testimony of Scripture. [*Luther: T. 3, part 1, p. 293, 297*] For **Sacred Scripture alone is the norm** according to which all dogmas and all cogitations are to be judged. **Ps. 19:8** — *"The testimony of the Lord is sure, making wise the simple."* **Isa. 8:20** — *"To the law and to the testimony! If they do not speak according to this word, it is because there is no light in them."*
 
 **II.** Let him answer: **The Fathers do not wish to be believed apart from perspicuous and manifest testimonies of Scripture.** [*Augustine's own witness*] **Augustine to Jerome, Epistle 19**: *"For I confess to thy charity, that to those books of Scriptures alone which are now called Canonical I have learned to defer this honour and fear, that I most firmly believe no one of their authors to have erred in writing anything. But others I read in such wise that, with however great sanctity and learning they surpass, I do not therefore hold that thing to be true because they themselves have so thought; but because either through those Canonical authors, or by probable reason which does not depart from the truth, they have been able to persuade me. Nor do I think, my brother, that thou dost feel otherwise; namely, I in no wise consider that thou wouldest so wish thy books to be read as those of the Prophets or Apostles, of whose writings — that they lack all error — it is unlawful to doubt."*
 
@@ -608,7 +608,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 **Is there only one God in essence, or only one divine essence?**
 
-**There is one in essence and nature, eternal, and true God.** **Deut. 6:4** — *"Hear, O Israel: The Lord our God is one Lord."* **Isa. 44:6** — *"Thus saith the Lord of Israel, and his redeemer the Lord of hosts: I am the first, and I am the last, and besides me there is no God."* And **v. 8** — *"You are my witnesses. Is there a God besides me, or a maker whom I have not known?"*
+**There is one in essence and nature, eternal, and true God.** **Deut. 6:4** — *"Hear, O Israel: The Lord our God is one Lord."* **Isa. 44:6** — *"Thus says the Lord, the King of Israel, and his Redeemer, the Lord of hosts: I am the First and I am the Last; besides Me there is no God."* And **v. 8** — *"You are My witnesses. Is there a God besides Me? Indeed there is no other Rock; I know not one."*
 
 ### Objection I. One God could not suffice to govern and preserve all creatures. *Ergo* there are many Gods.
 
@@ -748,7 +748,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 **Respondeo**: **Human reason indeed cannot attain that the Persons of the Divinity are really distinct, and yet in essence be one; but Faith, according to the Word of God, believes this, and leads the reason captive.** For so the Lord himself in the sacred letters speaks concerning this mystery. [*Genesis T. 1, p. 3*] **Gen. 1** describes the creation of all things, and it is said that ***Elohim*** created the heaven and the earth. The verb ***Bara*** is of singular number, that the ***unity of essence*** may be expressed. The name ***Elohim*** is plural, that the ***trinity of Persons in that most simple unity*** may be denoted. This same is repeated **Gen. 2**: *"In the day when Jehovah Elohim made the heaven and the earth."* **Josh. 24:19** — *"Ye cannot serve the Lord, for Elohim (God) is holy himself."* Here expressly the unity is confirmed, and yet at the same time the plurality of Persons is asserted. For he calls the one Jehovah ***holy Gods*** — that is, three Persons, Father, Son, and Holy Spirit.
 
-**Isa. 6:8** — *"Whom shall I send, or who shall go (in Hebrew ***Lanu***, ***nobis***) for us?"* And of this testimony **Jerome** on the 6th chapter of Isaiah writes that it indicates the Sacrament of the ***unity and Trinity***.
+**Isa. 6:8** — *"Whom shall I send, and who will go (in Hebrew ***Lanu***, ***nobis***) for Us?"* And of this testimony **Jerome** on the 6th chapter of Isaiah writes that it indicates the Sacrament of the ***unity and Trinity***.
 
 **Malachi 1:6** — *"If I am Lord (***Adonim***), where is my fear?"* God, as one Lord in essence, wills to be feared; and yet he speaks in the plural — ***Adonim***, ***Lords*** — that he may teach that in that one and most simple essence of the Divinity there are three distinct Persons.
 
@@ -928,7 +928,7 @@ Whence deservedly are rejected the opinions of:
 
 - The **Monothelites**, who denied that in Christ there are ***two wills and two operations***. For since there are and remain two natures in Christ — divine and human — and their essential properties safely remain, it is necessary that also there remain ***two wills and two operations***, lest a ***confusion or conversion of the natures*** be feigned.
 
-- Also those who taught that in this life, in the ***time of exinanition***, the human nature in Christ was not truly obnoxious to those infirmities with which our nature is burdened for sin as penalties. For the pains in Christ were not ***feigned***. **Isa. 53:4** — *"Truly he hath borne our infirmities, and he hath carried our sorrows."* And **Matt. 26:38** — *"My soul is exceedingly sorrowful, even to death,"* etc.
+- Also those who taught that in this life, in the ***time of exinanition***, the human nature in Christ was not truly obnoxious to those infirmities with which our nature is burdened for sin as penalties. For the pains in Christ were not ***feigned***. **Isa. 53:4** — *"Surely He has borne our griefs and carried our sorrows."* And **Matt. 26:38** — *"My soul is exceedingly sorrowful, even to death,"* etc.
 
 — ❦ —
 
@@ -1150,7 +1150,7 @@ Most false, therefore, is it to feel that the divine nature is communicated to C
 
 **What does the exinanition comprise?**
 
-**The assumption of our infirmities**, which he took upon himself ***without sin, not by necessity but by will***. **Isa. 53:4** — *"Truly he bore our infirmities."* For he was born in the utmost poverty, wept, suffered, died, and was buried. Item, that he grew in the ***gratuitous gifts, or created and finite qualities*** of his habitual grace; and that he ***concealed for a time his glory and divine majesty***, which he received in the moment of incarnation according to the assumed nature, and did not always in the assumed nature, with it and through it, manifestly exert.
+**The assumption of our infirmities**, which he took upon himself ***without sin, not by necessity but by will***. **Isa. 53:4** — *"Surely He has borne our griefs."* For he was born in the utmost poverty, wept, suffered, died, and was buried. Item, that he grew in the ***gratuitous gifts, or created and finite qualities*** of his habitual grace; and that he ***concealed for a time his glory and divine majesty***, which he received in the moment of incarnation according to the assumed nature, and did not always in the assumed nature, with it and through it, manifestly exert.
 
 — ❦ —
 
@@ -1638,7 +1638,7 @@ It is blasphemous, therefore, to teach that Christ-Man, or as Man, is not to be 
 
 **Respondeo**: **Jeremiah's saying does not speak of the flesh or human nature of Christ, but of the flesh of all other men (Christ excepted).** Evilly and blasphemously the Adversaries refer this saying to the flesh which the Son of God assumed into the indissoluble unity of his Person, and exalted to the right hand of the Virtue of God — whence also she obtained the honour of adoration. Hence **Augustine, on John 14, Serm. 58 De verbis Domini**, says: *"What is it that thou dost adore his flesh — which thou dost not deny to be a creature — together with the divinity, and dost serve it no less than the Deity? But I adore the Lord's flesh — nay, the perfect humanity in Christ — for this reason, that assumed by the divinity, and united to the Deity, I confess ***not another and another, but one and the same*** God and Man to be the Son of God. For if thou separate the Man from GOD, I never believe him and serve him."*
 
-### Objection III. But Christ's flesh is not God: it does not therefore fit the cultus of adoration — **Isa. 42:8**: *"I will not give my glory to another"*?
+### Objection III. But Christ's flesh is not God: it does not therefore fit the cultus of adoration — **Isa. 42:8**: *"My glory I will not give to another"*?
 
 **Christ's flesh is adored not because essentially it is God itself, but because it is united with the divinity of the Son of God into one indivisible Person.** And the saying of Isaiah speaks not of Christ's human nature, but of ***idols and idolatry***, as the words themselves perspicuously show. For *"My glory,"* says the Lord, *"I will not give to another; my praise to graven things."* Wherefore, though the Son of God communicates to his assumed human nature the glory of his adoration (as truly he communicates — **Phil. 2**), yet he does not give it to another. For in him there is not ***another and another***, as Nestorius feigned — but ***another***, that is, the human nature which he united to himself personally, and exalted to the right hand of the Virtue of God — to which he attributes also this glory, on account of (as has often been said) the personal union and exaltation — **Heb. 3**.
 
@@ -1740,7 +1740,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **II.** Because this exaltation has been made in time. But of the divinity it cannot be said that it received anything in time, since it has all things from eternity. This exaltation therefore is to be understood of the human nature of Christ.
 
-**III.** Besides, Christ according to his divinity ***is himself the right hand of God*** — **Isa. 53:1** — [Isa. 53:1 quoted]. It cannot therefore be said that according to that he was raised to the right hand of God; and so of the human nature is this exaltation to be understood.
+**III.** Besides, Christ according to his divinity ***is himself the right hand of God*** — **Isa. 53:1** — *"Who has believed our report? And to whom has the arm of the Lord been revealed?"* It cannot therefore be said that according to that he was raised to the right hand of God; and so of the human nature is this exaltation to be understood.
 
 **IV.** This same thing Scripture demonstrates when at **Acts 2:36** it says: *"Let all the house of Israel therefore know most certainly, that God hath made both Lord and Christ this Jesus whom you have crucified."* Item, that ***this Christ, who was raised from the dead, has been exalted to the right hand of God***. By these words Scripture as with pointed finger indicates the ***human nature of Christ***.
 
@@ -1824,7 +1824,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **Is Christ dead for all men and sinners?**
 
-**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just: and he is the propitiation for our sins; not for ours only, but also for those of the whole world."* **Gal. 3:22** — *"But the Scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe."* **Rom. 11:32** — *"For God has committed them all to disobedience, that He might have mercy on all."* **Isa. 53:6** — *"The Lord hath laid on him the iniquity of us all."*
+**Most certainly.** For thus it is written, and thus we read. **2 Cor. 5:14–15** — *"Estimating this, that if one died for all, then all were dead: and Christ died for all."* **1 John 2:1–2** — *"My little children, these things I write to you, that you may not sin. But if any man sin, we have an Advocate with the Father, Jesus Christ the just: and he is the propitiation for our sins; not for ours only, but also for those of the whole world."* **Gal. 3:22** — *"But the Scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe."* **Rom. 11:32** — *"For God has committed them all to disobedience, that He might have mercy on all."* **Isa. 53:6** — *"the Lord has laid on Him the iniquity of us all."*
 
 — ❦ —
 
@@ -1832,7 +1832,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **But my sins are too great to approach Christ?**
 
-**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace abounded much more."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Luke 15:7** — *"There shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance."* **Isa. 1:18** — *"If your sins be as scarlet, they shall be made white as snow; and if they be red as crimson, they shall be white as wool."* **Ps. 103:3** — *"Who forgives all your iniquities."*
+**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace abounded much more."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Luke 15:7** — *"There shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance."* **Isa. 1:18** — *"Though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool."* **Ps. 103:3** — *"Who forgives all your iniquities."*
 
 Hither let there also be referred the **examples of all sinners who, for Christ's sake, have obtained mercy and received remission of their sins**: **Adam and Eve, David, Manasses, the Publican** — **Matt. 9:12–13**; **Magdalene** — **Luke 7:37**; the **Thief on the cross** — **Luke 23**; **Paul** — **Acts 9; 1 Tim. 1**.
 
@@ -1920,7 +1920,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Has Christ any kingdom on these lands?**
 
-**Most certainly.** [*See Luther: T. 4, part 1, on cap. Mich. p. 550 and following; T. 7*] **Ps. 93:1** — *"The Lord hath reigned, he is clothed with beauty; the Lord is clothed with strength, and hath girded himself. For he hath established the world which shall not be moved."* **Dan. 2:44** — *"In the days of those kingdoms the God of heaven will raise up a kingdom which shall never be destroyed."* **Isa. 9:7** — *"Upon the throne of David and upon his kingdom shall he sit, to establish it and strengthen it in judgement and justice from henceforth and for ever."*
+**Most certainly.** [*See Luther: T. 4, part 1, on cap. Mich. p. 550 and following; T. 7*] **Ps. 93:1** — *"The Lord hath reigned, he is clothed with beauty; the Lord is clothed with strength, and hath girded himself. For he hath established the world which shall not be moved."* **Dan. 2:44** — *"In the days of those kingdoms the God of heaven will raise up a kingdom which shall never be destroyed."* **Isa. 9:7** — *"Upon the throne of David and over His kingdom, to order it and establish it with judgment and justice from that time forward, even forever."*
 
 — ❦ —
 
@@ -1982,7 +1982,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **I.** That Christ is a King ***spiritual, just, poor, and meek*** — **Zech. 9:9**.
 
-**II.** That he is a King ***most eloquent*** — **Isa. 50:4**: *"The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary."* **Ps. 45:3** — *"Grace is poured upon Your lips."*
+**II.** That he is a King ***most eloquent*** — **Isa. 50:4**: *"The Lord God has given Me the tongue of the learned, that I should know how to speak a word in season to him who is weary."* **Ps. 45:3** — *"Grace is poured upon Your lips."*
 
 **III.** That ***his power is above all creatures*** — **Ps. 2:8**: *"Ask of Me, and I will give You the nations for Your inheritance, and the ends of the earth for Your possession."* **Ps. 8:8** — *"You have put all things under his feet."*
 
@@ -2094,7 +2094,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **I.** That he ***brought forth from the bosom of the eternal Father, and narrated to us, the mystery of the Gospel*** concerning the gratuitous mercy of God toward sinful men — a mystery unknown to all men. **John 1:18** — *"No one has seen God at any time. The only begotten Son, who is in the bosom of the Father, He has declared Him."*
 
-**II.** In ***intercession***. For he alone, by his intercession, ***reconciled us to the eternal Father***, and ***obtained eternal grace for us from the Father*** — **Isa. 53:12**: *"And he hath prayed for the transgressors."* **John 17; Heb. 4, 5, 7**. And daily he ***intercedes with the Father for us*** — **Rom. 8:34**.
+**II.** In ***intercession***. For he alone, by his intercession, ***reconciled us to the eternal Father***, and ***obtained eternal grace for us from the Father*** — **Isa. 53:12**: *"And made intercession for the transgressors."* **John 17; Heb. 4, 5, 7**. And daily he ***intercedes with the Father for us*** — **Rom. 8:34**.
 
 **III.** That ***once on the altar of the cross he offered himself for us, and by his sacrifice acquired eternal redemption for us*** — **John 17:19**: *"And for their sakes I sanctify Myself, that they also may be sanctified by the truth."* **Heb. 9:12** — *"Christ by his own blood entered once into the Holies, having obtained eternal redemption."* **Heb. 10:10** — *"In which will we are sanctified, by the oblation of the body of Jesus Christ once."*
 
@@ -2106,7 +2106,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Is Christ alone the highest Priest of the New Testament?**
 
-**Most certainly.** For **Scripture at Ps. 110 attributes this honour to Christ alone**: *"Thou art a Priest for ever after the order of Melchisedech."* **2.** And he alone accomplished this pontifical and priestly munus and office on the altar of the cross — **Isa. 53:11** — *"He shall bear their iniquities."* **Heb. 9, 10** — *"acquired eternal redemption."* **3.** He also alone could perform this. For he alone is ***ἀναμάρτητος*** and without sin — **Isa. 53:9**: *"Because he had done no iniquity, neither was there deceit in his mouth."* **Heb. 7:26–27** — *"For it was fitting that we should have such a High Priest — holy, innocent, undefiled, separated from sinners, and made higher than the heavens; who needeth not daily (as the other priests) to offer sacrifices first for his own sins,"* etc. He alone can also sanctify, efficaciously impute his merit to us, alone hear prayers, free from evils, and save.
+**Most certainly.** For **Scripture at Ps. 110 attributes this honour to Christ alone**: *"Thou art a Priest for ever after the order of Melchisedech."* **2.** And he alone accomplished this pontifical and priestly munus and office on the altar of the cross — **Isa. 53:11** — *"For He shall bear their iniquities."* **Heb. 9, 10** — *"acquired eternal redemption."* **3.** He also alone could perform this. For he alone is ***ἀναμάρτητος*** and without sin — **Isa. 53:9**: *"Because He had done no violence, nor was any deceit in His mouth."* **Heb. 7:26–27** — *"For it was fitting that we should have such a High Priest — holy, innocent, undefiled, separated from sinners, and made higher than the heavens; who needeth not daily (as the other priests) to offer sacrifices first for his own sins,"* etc. He alone can also sanctify, efficaciously impute his merit to us, alone hear prayers, free from evils, and save.
 
 — ❦ —
 
@@ -2210,7 +2210,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **I.** He is the ***third Person of the Divinity*** — **Matt. 28:19**: *"baptizing them in the name of the Father and of the Son and of the Holy Spirit."* True and eternal therefore he must be — for it is not lawful to say or to think anything ***created*** in the sacrosanct Trinity, as **Epiphanius** rightly writes.
 
-**II.** He himself is of the ***essence of the Divinity***. **Joel 2:28** — *"I will pour out my Spirit upon all flesh."* **Isa. 59:21** — *"My Spirit that is in thee."* **John 15:26** — *"But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father."* It is required, therefore, that he be true God from the essence of the Father and of the Son.
+**II.** He himself is of the ***essence of the Divinity***. **Joel 2:28** — *"I will pour out my Spirit upon all flesh."* **Isa. 59:21** — *"My Spirit who is upon you."* **John 15:26** — *"But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father."* It is required, therefore, that he be true God from the essence of the Father and of the Son.
 
 **III.** To Christ also is attributed the ***cultus and honour of invocation*** — **Matt. 28** — when he bids that we baptise in his name. He must therefore be true God.
 
@@ -2258,7 +2258,7 @@ These works and benefices of the Holy Spirit let the pious and faithful always c
 
 **Through what means is the Holy Spirit given?**
 
-**Through the ministry of Word and Sacraments.** **Isa. 59:21** — *"This is my covenant with them, saith the Lord: My Spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, saith the Lord, from henceforth and for ever."* **Acts 2:38** — *"Do penance, and be baptised every one of you in the name of Jesus Christ, for the remission of your sins: and you shall receive the gift of the Holy Spirit."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit."*
+**Through the ministry of Word and Sacraments.** **Isa. 59:21** — *"This is My covenant with them, says the Lord: My Spirit who is upon you, and My words which I have put in your mouth, shall not depart from your mouth, nor from the mouth of your descendants, nor from the mouth of your descendants' descendants, from this time and forevermore."* **Acts 2:38** — *"Do penance, and be baptised every one of you in the name of Jesus Christ, for the remission of your sins: and you shall receive the gift of the Holy Spirit."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit."*
 
 All men, therefore, let them join themselves to the ministry of Word and Sacraments: for through this, as through a means ordained by God himself in this order, ***the Holy Spirit is certainly given***.
 
@@ -2464,7 +2464,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **Does God have singular care of the Church and the faithful?**
 
-**Most certainly.** [*Luther: T. 4, p. 247*] For although God in general regards and loves all his creatures, yet he takes ***singular care*** of the Church and the faithful. **Ps. 31:7** — *"Because thou hast regarded my humility, thou hast saved my soul out of distresses."* And **v. 20**: *"O how great is the multitude of thy sweetness, O Lord, which thou hast hidden for them that fear thee! Which thou hast wrought for them that hope in thee, in the sight of the sons of men. Thou shalt hide them in the secret of thy face, from the disturbance of men. Thou shalt protect them in thy tabernacle from the contradiction of tongues."* **Ps. 34:20** — *"Many are the afflictions of the just; but out of them all will the Lord deliver them."* **Ps. 40:18** — *"But I am a beggar and poor: the Lord is careful for me. Thou art my helper and my protector,"* etc. **Ps. 103:13** — *"As a father hath compassion on his children, so hath the Lord compassion on them that fear him."* **Isa. 49:14–16** — *"And Sion said: The Lord hath forsaken me, and the Lord hath forgotten me. Can a woman forget her infant, so as not to have pity on the son of her womb? And if she should forget, yet will not I forget thee. Behold, I have graven thee in my hands."*
+**Most certainly.** [*Luther: T. 4, p. 247*] For although God in general regards and loves all his creatures, yet he takes ***singular care*** of the Church and the faithful. **Ps. 31:7** — *"Because thou hast regarded my humility, thou hast saved my soul out of distresses."* And **v. 20**: *"O how great is the multitude of thy sweetness, O Lord, which thou hast hidden for them that fear thee! Which thou hast wrought for them that hope in thee, in the sight of the sons of men. Thou shalt hide them in the secret of thy face, from the disturbance of men. Thou shalt protect them in thy tabernacle from the contradiction of tongues."* **Ps. 34:20** — *"Many are the afflictions of the just; but out of them all will the Lord deliver them."* **Ps. 40:18** — *"But I am a beggar and poor: the Lord is careful for me. Thou art my helper and my protector,"* etc. **Ps. 103:13** — *"As a father hath compassion on his children, so hath the Lord compassion on them that fear him."* **Isa. 49:14–16** — *"But Zion said: The Lord has forsaken me, and my Lord has forgotten me. Can a woman forget her nursing child, and not have compassion on the son of her womb? Surely they may forget, yet I will not forget you. See, I have inscribed you on the palms of My hands."*
 
 — ❦ —
 
@@ -2576,7 +2576,7 @@ Concerning ***evil events***, it must be known:
 
 **Secondly**, of ***permission***, let this sentence be observed. **Ps. 81:12–13** — *"But my people heard not my voice: and Israel would not hearken to me. So I let them go according to the desires of their heart: they shall walk in their own inventions,"* etc. Yet let not such ***permission*** be understood as though God ***stood afar off in some watch-tower, and beheld what men do, and permitted them by his own judgement to do those things which they will, and awaited fortuitous outcomes***: but such [permission] is when out of his ***most just anger*** he lets men ***rush into sins, and heap them up, until the measure is filled***. An example of this matter is in ***Cain*** — **Gen. 4**.
 
-**Thirdly**, as concerns ***evils of punishment***, it is agreed that they are determined divinely. **Isa. 45:7** — *"I am the God who make peace, and create evil"* — that is, ***the evil of punishment or punishments***, etc. But with the ***condition of penitence***. For in conversion, eternal punishments are ***utterly remitted***; corporal ones are either taken away, or certainly mitigated — **Jer. 18; Isa. 38; Luke 13; Jonah 1**.
+**Thirdly**, as concerns ***evils of punishment***, it is agreed that they are determined divinely. **Isa. 45:7** — *"I make peace and create calamity"* — that is, ***the evil of punishment or punishments***, etc. But with the ***condition of penitence***. For in conversion, eternal punishments are ***utterly remitted***; corporal ones are either taken away, or certainly mitigated — **Jer. 18; Isa. 38; Luke 13; Jonah 1**.
 
 ### Objection. Man does not act without God ***sustaining***. *Ergo* God is the ***cause of crimes***.
 
@@ -4526,7 +4526,7 @@ But **the Gospel brings consolation, peace, and gladness of the heart, raises up
 
 **By no means.**
 
-For **Matt. 9:13** Christ says he came **to call sinners *εἰς μετάνοιαν* — to a coming-to-himself, to penitence** — not to sinning. But **penitence over sins committed requires contrition and grief, not secure perseverance in sins**. Item **Matt. 11:5** — *"The poor have the Gospel preached to them"* — *the poor*, saith he, that is, **those who feel their poverty and nakedness in the heart, and dread**; not those who contemn and mock sin and the wrath of God against sin. Item **Matt. 11:28** — *"Come unto me, all ye who labour and are burdened."* He does not say: *ye who are secure, and who in sins, without any terror and fear, persevere and go on*. Item **Isa. 61:1** — *"He hath sent me to announce to the meek, to heal the contrite in heart, to preach to the captives indulgence, and to those shut in, opening,"* etc.
+For **Matt. 9:13** Christ says he came **to call sinners *εἰς μετάνοιαν* — to a coming-to-himself, to penitence** — not to sinning. But **penitence over sins committed requires contrition and grief, not secure perseverance in sins**. Item **Matt. 11:5** — *"The poor have the Gospel preached to them"* — *the poor*, saith he, that is, **those who feel their poverty and nakedness in the heart, and dread**; not those who contemn and mock sin and the wrath of God against sin. Item **Matt. 11:28** — *"Come unto me, all ye who labour and are burdened."* He does not say: *ye who are secure, and who in sins, without any terror and fear, persevere and go on*. Item **Isa. 61:1** — *"He has anointed Me to preach good tidings to the poor; He has sent Me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound,"* etc.
 
 ## Objections
 
@@ -4640,7 +4640,7 @@ For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son
 
 **Not on that account, that the merit of Christ, the Gospel, or the Sacraments should thereby be excluded**; nor that **true faith can be without contrition**; or as though **good works, as most certain fruits, should not follow true faith**; or as though **the regenerate are not bound, unto the showing of their faith, to do good works**. But on this account: [*[Luther: Gen. 22, T. 2, pp. 206, 207*]*]
 
-**First**, that **every merit and work of ours be excluded and separated from the article of justification**, and that **only the merit and obedience of Christ prevail in this article, lest the proper honour of redemption and propitiation be taken from him by a huge sacrilege**. For **he alone trod the wine-press** — **Isa. 63:3**. And **he alone was wounded for our iniquities, and bruised for our crimes; and by his stripes we are healed** — **Isa. 53:5**.
+**First**, that **every merit and work of ours be excluded and separated from the article of justification**, and that **only the merit and obedience of Christ prevail in this article, lest the proper honour of redemption and propitiation be taken from him by a huge sacrilege**. For **he alone trod the wine-press** — **Isa. 63:3**. And **He was wounded for our transgressions, and bruised for our iniquities; and by His stripes we are healed** — **Isa. 53:5**.
 
 **II.** That **our consolation concerning the grace of God may be certain and immoveable** [*[Luther: T. 4/1, pp. 185, 186*]*] — **Rom. 4:16**: *"Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed,"* etc. It would not be sure, if it leaned partly or wholly upon the Law, or upon our works, and not upon **mere grace and the sole merit of Christ Jesus**. For although our hearts be purified by faith, and we have received the first-fruits of the Holy Spirit, who also **has begun the new obedience and good works in us**, yet **we have not that obedience and those good works in us which may prevail before God, and be opposed to his severe judgement** — since **many infirmities and iniquities are found even in the faithful and the justified**, which show that inchoate obedience to be **mutilated, maimed, and unclean**. **That therefore the promise of salvation may be sure to us, and that we may not doubt of the grace and mercy of God, it is founded solely in the grace of God, and in the merit of Christ Jesus, and by no means in our works, inchoate new obedience, love of God or neighbour, or the like virtues.**
 
@@ -4662,7 +4662,7 @@ The word itself is *per se* **forensic and judicial** — as **Exod. 23:8**: *"T
 
 He would have cause enough to condemn us, since we are sinners, and **death is the wage of sin** — **Rom. 6:23**. But **he has mercy of us**. And since his own Son sponsored for us and paid, **he absolves us from sins, and imputes Christ's righteousness to us, on account of which he can lawfully absolve us — whom otherwise it had behoved to condemn and destine to death**.
 
-So this word is used **Rom. 8:33–34**: *"Who shall bring a charge against God's elect? It is God who justifies. Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."* In the same manner it is used, **Isa. 53:11**: *"By his knowledge shall my just servant justify many."* **Acts 13:38** — *"That through this man is announced to you remission of sins from all things, from which ye could not in the Law of Moses be justified; in him every one that believes is justified."*
+So this word is used **Rom. 8:33–34**: *"Who shall bring a charge against God's elect? It is God who justifies. Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."* In the same manner it is used, **Isa. 53:11**: *"By His knowledge My righteous Servant shall justify many."* **Acts 13:38** — *"That through this man is announced to you remission of sins from all things, from which ye could not in the Law of Moses be justified; in him every one that believes is justified."*
 
 This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p. 45 fine; T. 4/1, p. 607; Gen. 27, T. 3, p. 67; T. 3, pp. 106, 107, 146*]*] also confirms the forms of speaking, when justification is described, that it is **remission of sins and covering of sins** — **Rom. 4:7; Ps. 32; Ps. 51:1, 2, 5** — item when it is called **imputation of the righteousness of Christ** — **Rom. 4, 5**. Hither also pertains and makes the word *impute*: **Rom. 4:5** — *"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* Which plainly *ex diametro* is opposed to our works and our merit, and wills nothing else than that **we wretched sinners are justified on account of the merit, obedience, and righteousness of Christ, which he himself merited, and not on account of our own merits or works; and that God the Father imputes all these things to us, as though we ourselves had suffered and performed all which Christ Jesus his only-begotten Son suffered and performed for us**. In this manner therefore **our works are plainly removed and excluded from the article of justification**, so that neither in form, nor in part, nor in cause of our righteousness before God are they; nor by any pretext or name are they drawn into the article of our justification before God as pertaining to it or necessary.
 
@@ -4704,7 +4704,7 @@ For since **we could not satisfy for our sins and exhibit the righteousness of t
 
 **Christ Jesus alone therefore the Son of God has merited this righteousness for us?**
 
-**He alone has merited and acquired it for us** [*[Luther: T. 7, p. 401 f. b*]*] — as he himself saith **Isa. 43:24–25**: *"Verily thou hast made me to serve in thy sins, thou hast afforded me labour in thine iniquities. I am, I am he, who blot out thine iniquities on account of me,"* etc. **Isa. 53:4** — *"Truly he himself hath borne our sicknesses, he himself hath carried our sorrows."* **John 1:29** — *"Behold! The Lamb of God who takes away the sin of the world!"* **Rom. 3:24–25** — *"through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith."*
+**He alone has merited and acquired it for us** [*[Luther: T. 7, p. 401 f. b*]*] — as he himself saith **Isa. 43:24–25**: *"you have burdened Me with your sins, you have wearied Me with your iniquities. I, even I, am He who blots out your transgressions for My own sake,"* etc. **Isa. 53:4** — *"Surely He has borne our griefs, and carried our sorrows."* **John 1:29** — *"Behold! The Lamb of God who takes away the sin of the world!"* **Rom. 3:24–25** — *"through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith."*
 
 — ❦ —
 
@@ -4726,7 +4726,7 @@ It behoved this to be done thus:
 
 **By what means therefore did he acquire this righteousness for us?**
 
-**Both by his Passion and death, and by his most holy and most perfect obedience, which for us he exhibited by fulfilling the whole Law** — **Isa. 53:5**: *"But he was wounded for our iniquities,"* etc. **Rom. 5:19**. Item **Rom. 8:3–4**.
+**Both by his Passion and death, and by his most holy and most perfect obedience, which for us he exhibited by fulfilling the whole Law** — **Isa. 53:5**: *"But He was wounded for our transgressions,"* etc. **Rom. 5:19**. Item **Rom. 8:3–4**.
 
 — ❦ —
 
@@ -4758,7 +4758,7 @@ When **with a heart contrite and humbled in true knowledge of sins and of God's 
 
 **Christ's satisfaction therefore and fulfilment of the Law is certainly our satisfaction?**
 
-**Most certainly ours.** For **he was delivered up for our sins, and rose again for our justification** — **Rom. 4:25**. **Isa. 53:5** — *"By his stripe we are healed."* **1 Cor. 1:30** — *"Christ Jesus is made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, he that glorieth, let him glory in the Lord."*
+**Most certainly ours.** For **he was delivered up for our sins, and rose again for our justification** — **Rom. 4:25**. **Isa. 53:5** — *"By His stripes we are healed."* **1 Cor. 1:30** — *"Christ Jesus is made unto us wisdom from God, and righteousness, and sanctification, and redemption; that, as it is written, he that glorieth, let him glory in the Lord."*
 
 — ❦ —
 
@@ -4786,7 +4786,7 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 **But to whom will God give this highest grace and mercy?**
 
-**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Ezek. 33:11** — *"As I live, saith the Lord God, I will not the death of the impious, but that the impious be converted from his way and live."* **Ps. 22:26** — *"The poor shall eat and be satisfied."* **Isa. 55[:1]** — *"All ye that thirst, come to the waters, and ye that have no silver, hasten, buy and eat; come, buy without silver and without any exchange wine and milk."*
+**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Ezek. 33:11** — *"As I live, saith the Lord God, I will not the death of the impious, but that the impious be converted from his way and live."* **Ps. 22:26** — *"The poor shall eat and be satisfied."* **Isa. 55:1** — *"Ho! Everyone who thirsts, come to the waters; and you who have no money, come, buy and eat. Yes, come, buy wine and milk without money and without price."*
 
 — ❦ —
 
@@ -5748,7 +5748,7 @@ But whereas **impious and profane men abuse this article — as also others — 
 
 **But how can and ought the pious and faithful conscience — labouring under most grievous temptations concerning predestination — to raise itself up and console itself?** [*[Luther: T. 3, p. 263 f. b; T. 5, pp. 486, 487; T. 2/1, pp. 56, 57*]*]
 
-**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth shall pass away, but his own words shall not pass away"* — **Luke 21:33**. *"The bruised reed he shall not break, and the smoking flax he shall not extinguish"* — **Isa. 42:3**. *"a broken and a contrite heart — these, O God, You will not despise"* — **Ps. 51:17**.
+**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth shall pass away, but his own words shall not pass away"* — **Luke 21:33**. *"A bruised reed He will not break, and smoking flax He will not quench"* — **Isa. 42:3**. *"a broken and a contrite heart — these, O God, You will not despise"* — **Ps. 51:17**.
 
 Since therefore **thou hast such a contrite and humbled heart, be certain that he himself will be present with thee in this most grievous temptation, will console thee, and out of it will deliver thee**.
 
@@ -5758,7 +5758,7 @@ Since therefore **thou hast such a contrite and humbled heart, be certain that h
 
 Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17:5]**. But what here doth he testify concerning thy salvation? this indeed: **that if in him thou believest, thou hast eternal life, and shalt not come into judgement, but hast passed from death into life** — **John 5:24**.
 
-**Fourthly**: and what need of words? Let the conscience afflicted and perturbed in this manner **only look upon the reddened wounds of Christ the only Saviour, out of which the certitude of their gratuitous election is clearer than the meridian light**. For since **he hath been wounded and slain on thy account, and hath poured out his blood for thee — why art thou not elected unto eternal life?** For why **shouldest thou be condemned and eternally perish, when he himself certainly hath suffered these things, not that thou perish or be condemned, but rather that thou be saved?** — **Isa. 53:5**: *"By his stripe we are healed, the discipline of our peace was upon him."* **1 John 1:7**: *"The blood of Jesus Christ his Son cleanseth us from all sin."* **If he cleanseth thee from all sin, thou must be elected**; for **he who is cleansed from all sin, is more certainly than certain heir of the kingdom of the heavens and of eternal life**. Therefore **thou shalt not number thyself among the condemned, when with a great price — namely, the blood of Jesus Christ the Son of God — thou hast been bought and cleansed from all sin** — **1 Cor. 6:20**.
+**Fourthly**: and what need of words? Let the conscience afflicted and perturbed in this manner **only look upon the reddened wounds of Christ the only Saviour, out of which the certitude of their gratuitous election is clearer than the meridian light**. For since **he hath been wounded and slain on thy account, and hath poured out his blood for thee — why art thou not elected unto eternal life?** For why **shouldest thou be condemned and eternally perish, when he himself certainly hath suffered these things, not that thou perish or be condemned, but rather that thou be saved?** — **Isa. 53:5**: *"By His stripes we are healed; the chastisement for our peace was upon Him."* **1 John 1:7**: *"The blood of Jesus Christ his Son cleanseth us from all sin."* **If he cleanseth thee from all sin, thou must be elected**; for **he who is cleansed from all sin, is more certainly than certain heir of the kingdom of the heavens and of eternal life**. Therefore **thou shalt not number thyself among the condemned, when with a great price — namely, the blood of Jesus Christ the Son of God — thou hast been bought and cleansed from all sin** — **1 Cor. 6:20**.
 
 **Fifthly**: **Expressly in Scripture universal promises are contained, which certainly and without doubt concern thee, exclude thee not, but include thee** — as when it is said, **that God hath mercy of all — Rom. [11:32]; Gal. [3:22]** — that he **is rich unto all — Rom. 10:12** — that he willeth **all who believe in the Son to be saved**. Since therefore **thou dost believe in Jesus Christ the Son, and dost rejoice in his most holy obedience, Passion, death, and resurrection — why shouldest thou except and exclude thyself from the universal promises?**
 
@@ -6002,7 +6002,7 @@ Then it is the nature of the cause "sine qua non," that without it the effect ca
 
 **Respondeo**: **Christ indeed saith this, but by this very thing — not that we are perfect or can be — he affirmeth, but showeth our imperfection to us, and admonisheth us that we should acknowledge it, and seek in himself the perfect fulfilment of the Law through faith, that so we may obtain righteousness and salvation** — **Rom. 10**. And so **he showeth, not whither we have come, but whither we ought to go and contend** [*[T. 1, p. 172; pp. 172, 173*]*].
 
-Whence **Bernard on the words of Isaiah**: *"Our righteousness — if any there be — is humble, upright perhaps, but not pure: unless perchance we believe ourselves better than our fathers, who not less truly than humbly said, 'all our righteousness is as a menstruous cloth'"* — **Isa. 64:6**.
+Whence **Bernard on the words of Isaiah**: *"Our righteousness — if any there be — is humble, upright perhaps, but not pure: unless perchance we believe ourselves better than our fathers, who not less truly than humbly said, 'all our righteousnesses are like filthy rags'"* — **Isa. 64:6**.
 
 — ❦ —
 
@@ -6230,7 +6230,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 **Doth the Christian and faithful man give alms?** [*[Luther: T. 5, p. 396 and following*]*]
 
-**Very much so.** For **this is of Christian charity, and by this is charity known** — **Isa. 58:7**: *"Break thy bread to the hungry."* And **Christ in the last day shall confess and preach**, if we shall have fed the hungry, given drink to the thirsty, covered the naked — **Matt. 25:35**.
+**Very much so.** For **this is of Christian charity, and by this is charity known** — **Isa. 58:7**: *"share your bread with the hungry."* And **Christ in the last day shall confess and preach**, if we shall have fed the hungry, given drink to the thirsty, covered the naked — **Matt. 25:35**.
 
 — ❦ —
 
@@ -6300,7 +6300,7 @@ And so **Augustine, Quaest. 83, q. 76, declared this saying**: *"Wherefore,"* he
 
 **This is the true and genuine sense of Daniel**: **He willeth that Nabuchodonozor do penitence, be converted to God with the whole heart, and by the true fruits of penitence — as by alms and by all other works — testify to men that he hath truly done penitence and is converted to God**. **For if he shall have done this, by the very deed it shall come to pass that he shall reconcile to himself the men whom before he hath afflicted and spoiled, and expiate himself with them, and from the very work it shall be perceived, that he hath done penitence and is converted to God**.
 
-But as concerns **the expiation and satisfaction of sin and of the punishments owed to sins, Daniel knew that no one can satisfy for them, save only Christ Jesus** — as also **cap. 9:24 he expressly attesteth**, when he saith: *"That prevarication be consumed, and that sin receive an end, and iniquity be blotted out, and eternal righteousness be brought in."* And **Isa. 53:5**: *"The discipline of our peace is upon him."* **Ill therefore do the Papists, that so celerately pervert and sinisterly interpret this saying of Daniel.**
+But as concerns **the expiation and satisfaction of sin and of the punishments owed to sins, Daniel knew that no one can satisfy for them, save only Christ Jesus** — as also **cap. 9:24 he expressly attesteth**, when he saith: *"That prevarication be consumed, and that sin receive an end, and iniquity be blotted out, and eternal righteousness be brought in."* And **Isa. 53:5**: *"The chastisement for our peace was upon Him."* **Ill therefore do the Papists, that so celerately pervert and sinisterly interpret this saying of Daniel.**
 
 — ❦ —
 
@@ -6308,7 +6308,7 @@ But as concerns **the expiation and satisfaction of sin and of the punishments o
 
 **Are there other rewards of alms?**
 
-**Very much so.** For **Isa. 58:7–8** it is said: *"Break thy bread to the hungry, and then shall thy light break forth as the morning, and thy health shall arise more speedily."* **Luke 6:38**: *"Give, and it shall be given unto you."* **In the other life also shall be copious the reward of alms — Matt. 25**.
+**Very much so.** For **Isa. 58:7–8** it is said: *"share your bread with the hungry, and then your light shall break forth like the morning, and your healing shall spring forth speedily."* **Luke 6:38**: *"Give, and it shall be given unto you."* **In the other life also shall be copious the reward of alms — Matt. 25**.
 
 — ❦ —
 
@@ -6318,7 +6318,7 @@ But as concerns **the expiation and satisfaction of sin and of the punishments o
 
 **This indeed they say — but they can teach it by no testimony of Scripture.** Besides, **to expiate and cleanse sins is such a work, as can be attributed to no creature or human work — but is proper to Christ alone, who is the Lamb of God, taking away the sins of the world**. And **whosoever ascribeth this glory to his own works, he raiseth them to the throne of the divine majesty**.
 
-**Nor doth this doctrine at all agree with the end of Christ's Passion**: for **Christ suffered, that he might satisfy for our sins and merit the remission of sins** — **not, however, that by his Passion he might acquire for our works, that they should be meritorious, and satisfy for sins**. **Isa. 53:5**: *"He was wounded for our iniquities"* — he saith not, "he was wounded for our good works, that to them he might acquire the virtue of expiating sins and of meriting eternal life."
+**Nor doth this doctrine at all agree with the end of Christ's Passion**: for **Christ suffered, that he might satisfy for our sins and merit the remission of sins** — **not, however, that by his Passion he might acquire for our works, that they should be meritorious, and satisfy for sins**. **Isa. 53:5**: *"He was wounded for our transgressions"* — he saith not, "he was wounded for our good works, that to them he might acquire the virtue of expiating sins and of meriting eternal life."
 
 And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save sinners"* — he saith not: *"He came into this world to merit, that our works satisfy for sins, and merit blessedness."*
 
@@ -6748,7 +6748,7 @@ As to the Minor: **the word "sanctify" in Paul is to be understood of the Physic
 
 **Can sinners, who securely without penitence and faith remain in sins, pray?**
 
-**By no means.** For of these God himself pronounceth, **Isa. 1:15**: *"When ye shall have extended your hands, I will avert my eyes from you; and when ye shall have multiplied prayer, I will not hear: for your hands are full of blood."* [*[Gen. 37, T. 4, p. 240*]*] **Prov. 1:28–31**: *"Then shall they invoke me, and I will not hear; in the morning they shall arise, and shall not find me — because they had hated discipline, and had not received the fear of the Lord; nor acquiesced in my counsel, and had detracted from all my correction. They shall eat therefore the fruits of their way, and shall be sated with their own counsels."*
+**By no means.** For of these God himself pronounceth, **Isa. 1:15**: *"When you spread out your hands, I will hide My eyes from you; even though you make many prayers, I will not hear: your hands are full of blood."* [*[Gen. 37, T. 4, p. 240*]*] **Prov. 1:28–31**: *"Then shall they invoke me, and I will not hear; in the morning they shall arise, and shall not find me — because they had hated discipline, and had not received the fear of the Lord; nor acquiesced in my counsel, and had detracted from all my correction. They shall eat therefore the fruits of their way, and shall be sated with their own counsels."*
 
 — ❦ —
 
@@ -8134,7 +8134,7 @@ If therefore **the Adversaries would obtain anything, they must first demonstrat
 
 ### Objection II. **Only they manducate the body of Christ, for whom Christ himself is delivered up or crucified. But for the unfaithful he is not crucified. *Ergo* etc.**
 
-**The Minor is simply false — that Christ was not crucified for the impious.** For **he himself is the Lamb of God, who taketh away the sins of the whole world**. And **1 Tim. 2:6 it is said**: *"Who gave himself as redemption for all."* **2 Cor. 5:14**: *"One died for all."* **Isa. 53:6**: *"And the Lord placed on him the iniquity of us all."* **1 John 2:1**: *"He is the propitiation for our sins, and not for our only, but even for [those] of the whole world."*
+**The Minor is simply false — that Christ was not crucified for the impious.** For **he himself is the Lamb of God, who taketh away the sins of the whole world**. And **1 Tim. 2:6 it is said**: *"Who gave himself as redemption for all."* **2 Cor. 5:14**: *"One died for all."* **Isa. 53:6**: *"And the Lord has laid on Him the iniquity of us all."* **1 John 2:1**: *"He is the propitiation for our sins, and not for our only, but even for [those] of the whole world."*
 
 But that **not all men by faith apprehend the death of Christ, and become partakers of the Passion of Christ, hence it followeth not — that only for the faithful he suffered and was crucified — but this cometh to pass on account of their own incredulity**. **No consequence therefore is of this argument** — and **the whole argument concludeth against the Adversaries by inversion**.
 
@@ -8270,7 +8270,7 @@ Hence **Augustine, *De Genesi ad literam*, book 6, cap. 17, saith**: *"Neither w
 
 Then: **Christ with his body ascended above all the heavens** (where there is no such physical place) **that he might fill all things — Eph. 4:10**. **How therefore should the body of him not be, or not be able to be, without such a physical place?**
 
-**Thirdly**, **heaven itself is no such circumscribed place, but is the kingdom, dwelling, throne, and house of God — Isa. 66:1; John 14:2 — which we in this life cannot describe or express**. And when **Scripture nameth the seat, throne, or house of God, in no way doth it understand a circumscribed place in which he himself is contained**. For **Isa. 66:1, the Lord himself with perspicuous words decideth that he is circumscribed by no certain place, but filleth all things — saying**: *"The heaven is my seat, but the earth is the footstool of my feet: what is this the house which ye shall build to me? and what is this the place of my rest?"* **By what foundation therefore do the Adversaries say, that the body of Christ is contained and enclosed in heaven — where is the seat, throne, and habitation of God — as in a certain and circumscribed place?**
+**Thirdly**, **heaven itself is no such circumscribed place, but is the kingdom, dwelling, throne, and house of God — Isa. 66:1; John 14:2 — which we in this life cannot describe or express**. And when **Scripture nameth the seat, throne, or house of God, in no way doth it understand a circumscribed place in which he himself is contained**. For **Isa. 66:1, the Lord himself with perspicuous words decideth that he is circumscribed by no certain place, but filleth all things — saying**: *"Heaven is My throne, and earth is My footstool. Where is the house that you will build Me? And where is the place of My rest?"* **By what foundation therefore do the Adversaries say, that the body of Christ is contained and enclosed in heaven — where is the seat, throne, and habitation of God — as in a certain and circumscribed place?**
 
 **Fourthly**: **The body of Christ is now considered as it sitteth at the right hand of the majesty and power of God — which certainly is no certain and circumscribed place, but the very omnipotence of God itself**. Item as **conjoined with divinity into one person**. Hence **Nazianzen writeth to Clidonius**: *"Where is the body, if not with him who assumed it?"*
 
@@ -9810,7 +9810,7 @@ Then at the same time he looketh to **the absolute perfection of the kingdom of 
 
 **VI.** **Let them not weary of always repeating the same things in sound doctrine — Phil. [3:1].**
 
-**VII.** **In arguing let them not be silent** — **Isa. 58:1**: *"Cry out, cease not, as a trumpet exalt thy voice, and announce to my people their wickednesses, and to the house of Jacob their sins."*
+**VII.** **In arguing let them not be silent** — **Isa. 58:1**: *"Cry aloud, spare not; lift up your voice like a trumpet; tell My people their transgression, and the house of Jacob their sins."*
 
 **VIII.** Finally, **let them be such as Paul wills them to be — 1 Tim. 3; Titus. It behoveth,** saith he, **a Bishop to be irreprehensible.**
 
@@ -10570,7 +10570,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Wherefore doth God so break the heart?**
 
-**That before the sight of him he may be humbled, sins seriously acknowledge, and their pardon seek. Ps. 32**: *"For day and night thy hand was heavy upon me — my delict have I made known to thee,"* etc. **Isa. 38**: *"Behold, in peace my bitterness most bitter; but thou hast rescued my soul, that it perish not,"* etc.
+**That before the sight of him he may be humbled, sins seriously acknowledge, and their pardon seek. Ps. 32**: *"For day and night thy hand was heavy upon me — my delict have I made known to thee,"* etc. **Isa. 38:17**: *"Indeed it was for my own peace that I had great bitterness; but You have lovingly delivered my soul from the pit of corruption,"* etc.
 
 — ❦ —
 
@@ -11964,7 +11964,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **IV. That they know themselves to be in the grace of God, and to be sons of God in Christ, although by various calamities they be pressed. Rom. 5 [*[T. 4, p. 214–215; Gen. t. 3, p. 129–130]*]**: *"Justified out of faith, we have peace unto God through our Lord Jesus Christ, through whom also we have access by faith into that grace, in which we stand, and glory in the hope of the glory of the sons of God."*
 
-**V. That they are certain, that they have God in tribulations present, consoler and helper. Ps. 21 [*[G.t. 1, p. 15]*]**: *"I am with him in tribulation."* **John 14**: *"I will not leave you orphans."* **Matt. 28**: *"Behold, I am with you all days, even unto the consummation of the age."* **Isa. 41:14**: *"Fear not, worm Jacob, ye who are dead of Israel, I have helped thee, saith the Lord, and thy Redeemer, the Holy One of Israel."* **Item v. 10**: *"Fear not, because I am with thee, decline not, because I am thy God."*
+**V. That they are certain, that they have God in tribulations present, consoler and helper. Ps. 21 [*[G.t. 1, p. 15]*]**: *"I am with him in tribulation."* **John 14**: *"I will not leave you orphans."* **Matt. 28**: *"Behold, I am with you all days, even unto the consummation of the age."* **Isa. 41:14**: *"Fear not, you worm Jacob, you men of Israel! I will help you, says the Lord, and your Redeemer, the Holy One of Israel."* **Item v. 10**: *"Fear not, for I am with you; be not dismayed, for I am your God."*
 
 **VI. That they are certain of eternal redemption from every evil and of future glory in Christ Jesus. Rom. 8:38–39 [*[G.t. 2, p. 62]*]**: *"For I am certain, that neither death, nor life, nor angels, nor principalities, nor virtues, nor things present, nor things future, nor fortitude, nor altitude, nor depth, nor other creature can separate us from the charity of God, which is in Christ Jesus our Lord."*
 
@@ -12030,9 +12030,9 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**:
 
-**I. That he be nurse and defender of the Church and of the Schools: the preaching of the Word, the legitimate administration of the Sacraments, and the whole Ecclesiastical ministry let him help and protect, and whatever adverse thereto is, let him demolish — which David and other pious kings and princes did. As Ambrose writeth of Theodosius, that dying he was more solicitous for the Church and for sound doctrine than for himself. Hence Ps. [2]:10**: *"And now kings understand, be ye instructed, who judge the earth."* **Isa. 49:23**: *"And kings shall be thy nurses, and queens thy nurses."*
+**I. That he be nurse and defender of the Church and of the Schools: the preaching of the Word, the legitimate administration of the Sacraments, and the whole Ecclesiastical ministry let him help and protect, and whatever adverse thereto is, let him demolish — which David and other pious kings and princes did. As Ambrose writeth of Theodosius, that dying he was more solicitous for the Church and for sound doctrine than for himself. Hence Ps. [2]:10**: *"And now kings understand, be ye instructed, who judge the earth."* **Isa. 49:23**: *"Kings shall be your foster fathers, and their queens your nursing mothers."*
 
-**II. That they themselves the government into their hands take, faithfully administer the republic, and with highest zeal intent thereon be, whereby justice and honest discipline be fostered, defended, and remunerated: on the contrary evil from the midst be taken away and punished. As Ps. 78:72 of David testifieth**: *"And he fed them in the innocence of his heart, and in the intellects of his hands he led them."* **Isa. 1:17**: *"Seek judgment, come to the aid of the oppressed, judge for the orphan, defend the widow."* **And hither pertaineth the whole 31st chapter of Job, which those constituted in regimen should daily inspect, read, and re-read, that from it of their office they be admonished.**
+**II. That they themselves the government into their hands take, faithfully administer the republic, and with highest zeal intent thereon be, whereby justice and honest discipline be fostered, defended, and remunerated: on the contrary evil from the midst be taken away and punished. As Ps. 78:72 of David testifieth**: *"And he fed them in the innocence of his heart, and in the intellects of his hands he led them."* **Isa. 1:17**: *"Seek justice, rebuke the oppressor; defend the fatherless, plead for the widow."* **And hither pertaineth the whole 31st chapter of Job, which those constituted in regimen should daily inspect, read, and re-read, that from it of their office they be admonished.**
 
 **III. That the guilty, who against the Decalogue and honest political Laws do sin, gravely he animadvert on, Rom. 13:3. For unless the Magistrate on sins and crimes shall animadvert, God himself lords and servants, the Magistrate with subjects, will visit and punish: for he himself is the supreme moderator, and judge over all kings and judges, who with vigilant staves them all doth observe.**
 
@@ -13192,7 +13192,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is the future resurrection of the dead certain?**
 
-**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of these, who sleep in the dust of the earth, shall awake,"* &c. **Isa. 26:19**: *"Thy dead shall live."* **Ezek. 37:5**: *"Behold, I will send in a Spirit into you, and ye shall live."*
+**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of these, who sleep in the dust of the earth, shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Behold, I will send in a Spirit into you, and ye shall live."*
 
 **The same also Christ expressly teacheth, John 5:28**: *"For the hour cometh, in which all, who are in the monuments, shall hear his voice, and shall proceed,"* &c.
 
@@ -13560,7 +13560,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**: **There are many, who of this doubt, more consider whatever of hell is said to be a fable. But that there is a hell, is testified**:
 
-**I. By the Scripture of the Old Testament. For Num. 16:33**: *"And they went down alive into hell."* **Deut. 32:22**: *"A fire is kindled in my fury, and shall burn even unto the lowest hell."* **Ps. 16:10**: *"For You will not leave my soul in Sheol."* **Ps. 49:14**: *"Like sheep they are laid in the grave; Death shall feed on them."* **Isa. 30:33**: *"For Tophet is prepared from yesterday, prepared by the king, deep and enlarged: its nourishment is fire and much wood: the breath of the Lord as a torrent of sulphur kindling it."*
+**I. By the Scripture of the Old Testament. For Num. 16:33**: *"And they went down alive into hell."* **Deut. 32:22**: *"A fire is kindled in my fury, and shall burn even unto the lowest hell."* **Ps. 16:10**: *"For You will not leave my soul in Sheol."* **Ps. 49:14**: *"Like sheep they are laid in the grave; Death shall feed on them."* **Isa. 30:33**: *"For Tophet was established of old, yes, for the king it is prepared. He has made it deep and large; its pyre is fire with much wood; the breath of the Lord, like a stream of brimstone, kindles it."*
 
 **II. By the Scripture of the New Testament, as Luke 16, the rich Epulo in hell is tormented in flame. Matt. 25:41**: *"Depart into eternal fire."* [*[Post. Eccle Dom. 16 Trinit.]*] **John the Baptist also of hell preacheth, Matt. 3:10**: *"For now the axe is laid at the root of the trees: therefore every tree, that maketh not good fruit, is hewn down, and cast into the fire."* **And Paul, 2 Thess. 1:8–9**: *"In a flame of fire giving vengeance to those, who have not known God, and who obey not the Gospel of our Lord Jesus Christ, who shall pay penalties, in eternal destruction from the face of the Lord, and from the glory of his power."*
 
@@ -13622,7 +13622,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **But how great is it?**
 
-**Respondeo**: **Isa. 5:14 it is said**: *"Therefore hell hath enlarged her soul, and hath opened her mouth without any end."* **And Prov. 27:20**: *"Hell and perdition are never filled."* **Hence it is sufficiently clear that it is amply enough, that it may contain all Devils and the impious, and reserve them unto eternal torments.**
+**Respondeo**: **Isa. 5:14 it is said**: *"Therefore Sheol has enlarged itself and opened its mouth beyond measure."* **And Prov. 27:20**: *"Hell and perdition are never filled."* **Hence it is sufficiently clear that it is amply enough, that it may contain all Devils and the impious, and reserve them unto eternal torments.**
 
 — ❦ —
 
@@ -13804,7 +13804,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **With Christ also our Lord in eternal converse we shall cohabit, John 14:3**: *"I will come again and receive you to Myself, that where I am, there you may be also."* **John 17:24**: *"I desire that they also whom You gave Me may be with Me where I am, that they may behold My glory."*
 
-**VIII. Then with true and perfect and eternal joy shall we rejoice, John 16:20**: *"But your sorrow shall be turned into joy."* **Likewise verse 22**: *"Your heart shall rejoice, and your joy no man shall take from you."* **Isa. 35:10**: *"And the redeemed of the Lord shall be turned, and shall come into Zion with praise and everlasting joy upon their head. Joy and everlasting gladness shall they obtain, and sorrow and mourning shall flee away."* **Isa. 65:18**: *"Behold, I create new heavens, and a new earth, and the former shall not be in memory, and shall not ascend upon the heart: But ye shall rejoice and exult unto everlasting in these things, which I create."* **Matt. 25:21, 23**: *"Enter into the joy of thy Lord."* **Here belongeth the saying of Augustine, *De vera innocentia***: *"Of the eternal city eternal are the joys, and the perpetuity of standing days shall not be varied nor shall slip away."*
+**VIII. Then with true and perfect and eternal joy shall we rejoice, John 16:20**: *"But your sorrow shall be turned into joy."* **Likewise verse 22**: *"Your heart shall rejoice, and your joy no man shall take from you."* **Isa. 35:10**: *"And the ransomed of the Lord shall return, and come to Zion with singing, with everlasting joy on their heads. They shall obtain joy and gladness, and sorrow and sighing shall flee away."* **Isa. 65:17–18**: *"Behold, I create new heavens and a new earth; and the former shall not be remembered or come to mind. But be glad and rejoice forever in what I create."* **Matt. 25:21, 23**: *"Enter into the joy of thy Lord."* **Here belongeth the saying of Augustine, *De vera innocentia***: *"Of the eternal city eternal are the joys, and the perpetuity of standing days shall not be varied nor shall slip away."*
 
 **These heads in some manner insinuate unto us the gifts and glory of eternal life, wherefore let us learn also seriously to desire them, and with Paul from the heart to say, Phil. 1:23**: *"I have a desire to be dissolved, and to be with Christ."*
 
