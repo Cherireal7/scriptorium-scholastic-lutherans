@@ -496,7 +496,7 @@ These things considered, it is plain: **Tertullian does not simply deny that Sac
 
 **What is a Christian man to think and to hold of Councils?**
 
-**Let him hold them in the greatest esteem** [*Authority of general councils*] — yet with such condition, that he *build his faith on the Word of God alone*. For God alone has authority to establish articles of faith, and no man. But it is the office of Councils **not to pronounce or show forth anything except what is grounded and revealed in the Sacred Letters**, and to give the orthodox and Scripture-consonant explication of those sayings which are perversely and evilly cited by false doctors and heretics. [*Luther: T. 7, pp. 255, 256, 257 and following*] Whence Christ, **Luke 24:48**: *"But you are witnesses of these things."*
+**Let him hold them in the greatest esteem** [*Authority of general councils*] — yet with such condition, that he *build his faith on the Word of God alone*. For God alone has authority to establish articles of faith, and no man. But it is the office of Councils **not to pronounce or show forth anything except what is grounded and revealed in the Sacred Letters**, and to give the orthodox and Scripture-consonant explication of those sayings which are perversely and evilly cited by false doctors and heretics. [*Luther: T. 7, pp. 255, 256, 257 and following*] Whence Christ, **Luke 24:48**: *"And you are witnesses of these things."*
 
 — ❦ —
 
@@ -914,7 +914,7 @@ Of the evil craft of **Arius**, see **Luther, T. 7, pp. 242, 243, 244**.
 
 **There is.** For the ***λόγος*** assumed a human nature — ***true, entire, or whole***, consisting of body and rational soul, ***consubstantial to us, without sin***, having all the conditions, powers, and appetitions proper and ordinate to nature; in which nature, however, he willed to assume the ***infirmities*** — which as penalties for sin entered into our nature — but ***without vice***, that he might free us from them.
 
-**John 1:14** — *"The Word became flesh."* **Gal. 4:4** — *"God sent his Son, made of a woman."* **Luke 1:31** — *"Behold thou shalt conceive in thy womb, and shalt bring forth a son, and thou shalt call his name Jesus."* **Heb. 2:14** — *"As children have shared in flesh and blood, he also himself in like manner has been partaker of the same."*
+**John 1:14** — *"The Word became flesh."* **Gal. 4:4** — *"God sent his Son, made of a woman."* **Luke 1:31** — *"And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus."* **Heb. 2:14** — *"As children have shared in flesh and blood, he also himself in like manner has been partaker of the same."*
 
 Whence deservedly are rejected the opinions of:
 
@@ -1300,7 +1300,7 @@ For example: ***"The flesh of Christ is vivifying, is to be adored,"*** etc. In 
 
 ### Objection I. Does it follow hence that only the humanity suffered for us?
 
-**By no means.** For that Person suffered for us who is at once ***God and Man***. **Luke 24:26** — *"Ought not Christ to have suffered these things, and so to enter into his glory?"* — where he says **Christ ought so to have suffered** (who is God and Man in one indivisible and indissoluble Person) — not **Christ's humanity ought so to have suffered**. So at **1 Cor. 2:8** the Apostle says: *"If they had known, they would never have crucified the Lord of glory,"* — where he also does not ascribe the passion to Christ's humanity alone, but names the Person, namely, ***the Lord of glory***.
+**By no means.** For that Person suffered for us who is at once ***God and Man***. **Luke 24:26** — *"Ought not the Christ to have suffered these things and to enter into His glory?"* — where he says **Christ ought so to have suffered** (who is God and Man in one indivisible and indissoluble Person) — not **Christ's humanity ought so to have suffered**. So at **1 Cor. 2:8** the Apostle says: *"If they had known, they would never have crucified the Lord of glory,"* — where he also does not ascribe the passion to Christ's humanity alone, but names the Person, namely, ***the Lord of glory***.
 
 ### Objection II. But the Divinity cannot suffer?
 
@@ -1460,7 +1460,7 @@ For as **Vigilius** writes: *"The office of Mediator, unless from the truth of t
 
 **Are there in Christ two wills, actions, and operations?**
 
-**Most certainly.** For the ***λόγος*** assumed a perfect human nature, consisting of a rational soul and body. It is not doubtful, therefore, that in him there are two wills, actions, and operations — namely, ***divine and human***. And that the human will is ***subject to the divine***. Rightly, therefore, did **Damascene** write of Christ's two wills: *"It is impossible that a nature should remain without its natural properties."* And Christ himself says at **Luke 22:42**: *"Not my will, but thine be done."* He therefore had, besides the divine, a human will also. And in miracles he used the human voice, touch, groaning — he also shed tears.
+**Most certainly.** For the ***λόγος*** assumed a perfect human nature, consisting of a rational soul and body. It is not doubtful, therefore, that in him there are two wills, actions, and operations — namely, ***divine and human***. And that the human will is ***subject to the divine***. Rightly, therefore, did **Damascene** write of Christ's two wills: *"It is impossible that a nature should remain without its natural properties."* And Christ himself says at **Luke 22:42**: *"not My will, but Yours, be done."* He therefore had, besides the divine, a human will also. And in miracles he used the human voice, touch, groaning — he also shed tears.
 
 ### Objection of the ***Monothelites***. Where there is one work, there is one will and one action. In Christ there is one work — one redemption. *Ergo* also one will and one action.
 
@@ -1658,7 +1658,7 @@ It is blasphemous, therefore, to teach that Christ-Man, or as Man, is not to be 
 
 **The Adversaries indeed set this as simply impossible, and contend that if it be to happen, it is necessary that Christ's human nature be made ***infinite***.**
 
-**But we rest in the perspicuous and express pronouncements of Scripture — Matt. 18, 28; Eph. 1, 4; Ps. 8 — and feel that the Creator of all things, the Son of God, can most easily bring about that his human nature — which is and remains finite — nevertheless, by reason of the ***indistant hypostatic union*** and of the ***session at the right hand of the Virtue of God***, in a ***supernatural and heavenly manner*** may be present**, since it has its subsistence nowhere except in the Person of the Word, and ***without distance of places*** has been raised to the ***whole right hand of God, not to some part of it***. For *"right is the word of the Lord, and all his works are done in faithfulness"* — **Ps. 33:4**. *"For he said, and it was done"* — **Ps. 33:9**. And *"nothing is impossible with him — every word"* — **Luke 1:37**.
+**But we rest in the perspicuous and express pronouncements of Scripture — Matt. 18, 28; Eph. 1, 4; Ps. 8 — and feel that the Creator of all things, the Son of God, can most easily bring about that his human nature — which is and remains finite — nevertheless, by reason of the ***indistant hypostatic union*** and of the ***session at the right hand of the Virtue of God***, in a ***supernatural and heavenly manner*** may be present**, since it has its subsistence nowhere except in the Person of the Word, and ***without distance of places*** has been raised to the ***whole right hand of God, not to some part of it***. For *"right is the word of the Lord, and all his works are done in faithfulness"* — **Ps. 33:4**. *"For he said, and it was done"* — **Ps. 33:9**. And *"For with God nothing will be impossible"* — **Luke 1:37**.
 
 ### Objection. Those things which take away the ***definition of a thing*** also take away the ***definitum*** and the thing itself. To teach that Christ's body is present at once and once in many places takes away the definition of the thing. *Ergo* also the definitum and the thing itself.
 
@@ -1712,7 +1712,7 @@ Whence **Augustine, Epistle 40**: *"Let him who has proposed these questions kno
 
 **What dost thou understand by ***heaven***?**
 
-**The word ***heaven*** here signifies the ***seat and habitation of the blessed***, into which all the blessed come, and in which also Christ himself is with his body, according to the nature and condition of clarified bodies.** And this ***heaven*** or ***celestial mansion*** is chiefly ***distinct from Hell***. For as Christ himself, **Luke 16:26**, says: *"A great chaos is firmed between the blessed and the condemned."* Meanwhile, however, we by no means approve that puerile imagination of the Adversaries, who ***imagine heaven to be a physical place, such as are places on this earth***. For Scripture does not describe heaven by a ***physical place***; but calls it ***the house of God*** — **John 14:2** — ***Paradise*** — **Luke 23:43** — ***eternal Life*** — **Dan. 12:2; Matt. 25:46**. But these things cannot be sufficiently explicated by us in this life. For most true it is and remains that ***"eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love him"*** — **1 Cor. 2:9; Isa. 64:4**.
+**The word ***heaven*** here signifies the ***seat and habitation of the blessed***, into which all the blessed come, and in which also Christ himself is with his body, according to the nature and condition of clarified bodies.** And this ***heaven*** or ***celestial mansion*** is chiefly ***distinct from Hell***. For as Christ himself, **Luke 16:26**, says: *"between us and you there is a great gulf fixed."* Meanwhile, however, we by no means approve that puerile imagination of the Adversaries, who ***imagine heaven to be a physical place, such as are places on this earth***. For Scripture does not describe heaven by a ***physical place***; but calls it ***the house of God*** — **John 14:2** — ***Paradise*** — **Luke 23:43** — ***eternal Life*** — **Dan. 12:2; Matt. 25:46**. But these things cannot be sufficiently explicated by us in this life. For most true it is and remains that ***"eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love him"*** — **1 Cor. 2:9; Isa. 64:4**.
 
 ## Question 59. What difference is there between the ascension of Christ into heaven, and the ascension of the blessed, who also themselves shall come into heaven?
 
@@ -1806,7 +1806,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **II.** That **he rendered perfect obedience to the whole Law of God for us**, and fulfilled the whole Law. **Matt. 5:17** — *"I am not come to destroy, but to fulfil."* **Rom. 8:3–4** — *"For what the Law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh, that the righteous requirement of the Law might be fulfilled in us who do not walk according to the flesh but according to the Spirit."* **Rom. 10:4** — *"For Christ is the end of the Law for righteousness to everyone who believes."*
 
-**III.** That **both — the liberation from sin and death, and the perfect satisfaction of the Law — he gives to us through the ministry of the Word and Sacraments**, imputes to us in faith, and efficaciously applies. Whence the Gospel — **Rom. 1:16** — is called ***the power of God to salvation for everyone who believes***. And **Luke 24:46–47** Christ himself says: *"Because thus it is written, and thus it behoved Christ to suffer and to rise from the dead the third day, and that penitence and remission of sins should be preached in his name unto all nations."*
+**III.** That **both — the liberation from sin and death, and the perfect satisfaction of the Law — he gives to us through the ministry of the Word and Sacraments**, imputes to us in faith, and efficaciously applies. Whence the Gospel — **Rom. 1:16** — is called ***the power of God to salvation for everyone who believes***. And **Luke 24:46–47** Christ himself says: *"Thus it is written, and thus it was necessary for the Christ to suffer and to rise from the dead the third day, and that repentance and remission of sins should be preached in His name to all nations."*
 
 **IV.** That **he is present to his Church**, and gives us his Holy Spirit — **John 14, 15, 16** — and preserves, comforts, and keeps us to the end of life in true faith, against our own flesh, the world, temptations, afflictions, the Devil, and all evils. **Phil. 1:6** — *"Because he who has begun in us the good work, will accomplish it unto the day of Jesus Christ."* **Phil. 2:13** — *"For it is God who worketh in you both to will and to accomplish, according to his good will."* **1 Pet. 5:10** — *"But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after we have suffered a little while, will himself perfect, confirm, and establish."* And finally, that **he rules over all creatures** — **Eph. 1**.
 
@@ -1832,7 +1832,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **But my sins are too great to approach Christ?**
 
-**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace abounded much more."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Luke 15:7** — *"There shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance."* **Isa. 1:18** — *"Though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool."* **Ps. 103:3** — *"Who forgives all your iniquities."*
+**If thy sins are great, greater, more excellent, and more abundant is his passion, death, and obedience than thy sins.** [*Luther: T. 7, pp. 26, 27*] **Rom. 5:20** — *"Where sin abounded, grace abounded much more."* And hither pertain all those testimonies of Scripture which without distinction offer and promise the grace and mercy of Christ to all penitent sinners. **Matt. 11:28** — *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Luke 15:7** — *"there will be more joy in heaven over one sinner who repents than over ninety-nine just persons who need no repentance."* **Isa. 1:18** — *"Though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool."* **Ps. 103:3** — *"Who forgives all your iniquities."*
 
 Hither let there also be referred the **examples of all sinners who, for Christ's sake, have obtained mercy and received remission of their sins**: **Adam and Eve, David, Manasses, the Publican** — **Matt. 9:12–13**; **Magdalene** — **Luke 7:37**; the **Thief on the cross** — **Luke 23**; **Paul** — **Acts 9; 1 Tim. 1**.
 
@@ -1876,7 +1876,7 @@ And to sum up: it teaches that ***by the justice of Christ the Mediator, not of 
 
 So **Ps. 44 [45:7]**: *"Thou hast loved justice, and hast hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows."* There also stands the causal particle ***propterea***, which nevertheless does not denote a meriting cause. For Christ according to his humanity was anointed with the oil of gladness — that is, with the Holy Spirit — ***immediately in the very conception***, and did not first, when he grew older, ***merit*** to be anointed with the Holy Spirit through love of justice and hatred of iniquity.
 
-The same judgment is of the Apostle's words at **Phil. 2**. In which the particle ***propterea*** does not indicate that Christ's passion is the efficient or meriting cause of the subsequent exaltation. For this denotes a gratuitous ***donation*** of the name which is above every name. Which donation was not first made after the passion and resurrection — but ***in the very conception***, according to the words of the Angel, **Luke 1:31–32**: *"Behold, thou shalt conceive, and shalt bring forth a Son, and thou shalt call his name Jesus. He shall be great, and shall be called the Son of the most High,"* etc.
+The same judgment is of the Apostle's words at **Phil. 2**. In which the particle ***propterea*** does not indicate that Christ's passion is the efficient or meriting cause of the subsequent exaltation. For this denotes a gratuitous ***donation*** of the name which is above every name. Which donation was not first made after the passion and resurrection — but ***in the very conception***, according to the words of the Angel, **Luke 1:31–32**: *"And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus. He will be great, and will be called the Son of the Highest,"* etc.
 
 Since this name (with the Apostle, **Phil. 2**) was given ***from grace*** to Christ according to the humanity, ***and indeed in the very conception***, it is clearer than the noonday light that ***he did not merit it through his passion***. For where there is merit, there is not grace; and where there is grace, there is not merit.
 
@@ -1884,7 +1884,7 @@ Since this name (with the Apostle, **Phil. 2**) was given ***from grace*** to Ch
 
 ### Objection II. **Ps. 110:7** — *"He shall drink of the brook by the wayside; therefore He shall lift up the head."* *Ergo* by his passion he also merited for himself.
 
-**Respondeo**: **The particle ***therefore*** does not denote a meriting cause, but the ***glorious event*** of Christ's passion.** As at **Luke 24:26** by Christ himself this is taught: *"Ought not Christ to have suffered these things, and so to enter into his glory?"* For this order had been ***foreordained by God***, that Christ, ***for the cause of our salvation***, should suffer, and by this way of his passion should ***accede to the full assumption of his divine majesty*** — so that his ***bitter passion and death*** the ***most glorious event of the resurrection*** and glorification should follow. Not that these things had a meriting cause, but that Christ ***as Man***, first humbled through the passion, afterwards through the ***glorious resurrection*** and other similar works, ought to reveal his divine majesty and glory to the whole world — which majesty or glory ***as God from eternity he had had***, but ***as Man in time*** he received through the mystery of the incarnation.
+**Respondeo**: **The particle ***therefore*** does not denote a meriting cause, but the ***glorious event*** of Christ's passion.** As at **Luke 24:26** by Christ himself this is taught: *"Ought not the Christ to have suffered these things and to enter into His glory?"* For this order had been ***foreordained by God***, that Christ, ***for the cause of our salvation***, should suffer, and by this way of his passion should ***accede to the full assumption of his divine majesty*** — so that his ***bitter passion and death*** the ***most glorious event of the resurrection*** and glorification should follow. Not that these things had a meriting cause, but that Christ ***as Man***, first humbled through the passion, afterwards through the ***glorious resurrection*** and other similar works, ought to reveal his divine majesty and glory to the whole world — which majesty or glory ***as God from eternity he had had***, but ***as Man in time*** he received through the mystery of the incarnation.
 
 ### Objection III. But **Heb. 2:9** it is said: *"Jesus, on account of the passion of death, was crowned with glory and honour."* *Ergo* it is still true that by his passion he merited for himself.
 
@@ -1928,7 +1928,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **What kind of kingdom is this?**
 
-**Spiritual — in which Christ gathers to himself a Church from the human race, to which he remits sins, which he gives his Holy Spirit, which he protects against the tyranny and fury of the Devil and of the world, whose prayers he hears, from all evils he frees, and with eternal life endows.** [*Luther: T. 7, pp. 309, 310; T. 5, p. 478*] **John 18:36** — *"My kingdom is not of this world."* **Luke 1:33** — *"Of his kingdom there shall be no end."*
+**Spiritual — in which Christ gathers to himself a Church from the human race, to which he remits sins, which he gives his Holy Spirit, which he protects against the tyranny and fury of the Devil and of the world, whose prayers he hears, from all evils he frees, and with eternal life endows.** [*Luther: T. 7, pp. 309, 310; T. 5, p. 478*] **John 18:36** — *"My kingdom is not of this world."* **Luke 1:33** — *"of His kingdom there will be no end."*
 
 — ❦ —
 
@@ -2008,7 +2008,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **What is the end of this kingdom?**
 
-**The end of this kingdom is ***eternal life*** — **Luke 12:32**: *"Fear not, little flock, for it hath pleased your Father to give you a kingdom."*
+**The end of this kingdom is ***eternal life*** — **Luke 12:32**: *"Do not fear, little flock, for it is your Father's good pleasure to give you the kingdom."*
 
 — ❦ —
 
@@ -2032,7 +2032,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **Is the kingdom bound to place, time, or persons?**
 
-**By no means.** [*Luther: T. 3, p. 32, f. b.*] For Christ himself says at **Luke 17:20–21**: *"The kingdom of God cometh not with observation; neither shall they say, Behold here, or behold there"* — which the other Evangelists have rendered: *"Behold here is Christ, or there"* — as if he said: *"The kingdom of Christ consists not in external things, places, times, persons, external works,"* but as he there says: *"For lo, the kingdom of God is within you."* Which, on account of the Papists (who will have the kingdom of Christ bound to these circumstances), is to be held.
+**By no means.** [*Luther: T. 3, p. 32, f. b.*] For Christ himself says at **Luke 17:20–21**: *"The kingdom of God does not come with observation; nor will they say, 'See here!' or 'See there!'"* — which the other Evangelists have rendered: *"Behold here is Christ, or there"* — as if he said: *"The kingdom of Christ consists not in external things, places, times, persons, external works,"* but as he there says: *"For indeed, the kingdom of God is within you."* Which, on account of the Papists (who will have the kingdom of Christ bound to these circumstances), is to be held.
 
 — ❦ —
 
@@ -2368,7 +2368,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **Shall the world be eternal?**
 
-**It shall not be eternal.** [*Gen. T. 4, p. 159; Gen. T. 1, p. 141*] **Ps. 102:25–26** — *"Of old You laid the foundation of the earth, and the heavens are the work of Your hands. They will perish, but You will endure; yes, they will all grow old like a garment; like a cloak You will change them, and they will be changed."* **Luke 21:33** — *"Heaven and earth shall pass away, but my words shall not pass away."*
+**It shall not be eternal.** [*Gen. T. 4, p. 159; Gen. T. 1, p. 141*] **Ps. 102:25–26** — *"Of old You laid the foundation of the earth, and the heavens are the work of Your hands. They will perish, but You will endure; yes, they will all grow old like a garment; like a cloak You will change them, and they will be changed."* **Luke 21:33** — *"Heaven and earth will pass away, but My words will by no means pass away."*
 
 — ❦ —
 
@@ -2384,7 +2384,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **What state before the end of the world?**
 
-**Luke 18:8** — Christ himself says: *"But yet the Son of man, when he cometh, shall he find, think you, faith on earth?"* And at **Matt. 24**, the last times he compares with the times of Noah. [*Gen. T. 1, p. 97*] Those words are ***tremendous***, since the world securely despises them, and daily rushes into the worse. But we who are faithful — let us watch and pray, that God may preserve us in faith and knowledge of his Son. **Amen.**
+**Luke 18:8** — Christ himself says: *"Nevertheless, when the Son of Man comes, will He really find faith on the earth?"* And at **Matt. 24**, the last times he compares with the times of Noah. [*Gen. T. 1, p. 97*] Those words are ***tremendous***, since the world securely despises them, and daily rushes into the worse. But we who are faithful — let us watch and pray, that God may preserve us in faith and knowledge of his Son. **Amen.**
 
 — ❦ —
 
@@ -2694,7 +2694,7 @@ Let us therefore give thanks to God, who gave them to us as guardians, for this 
 
 **With what men do the holy Angels willingly converse?**
 
-**Respondeo**: **With those who fear the Lord** — **Ps. 34:8** [*Gen. T. 2, pp. 136, 137*]; **with penitent sinners** — **Luke 15:10**: *"So there shall be joy before the Angels of God upon one sinner doing penance."* With those who contain themselves ***within the terms of their vocation***, and diligently execute the offices of their vocation — **Ps. 91:11**: *"For He shall give His angels charge over you, to keep you in all your ways."*
+**Respondeo**: **With those who fear the Lord** — **Ps. 34:8** [*Gen. T. 2, pp. 136, 137*]; **with penitent sinners** — **Luke 15:10**: *"there is joy in the presence of the angels of God over one sinner who repents."* With those who contain themselves ***within the terms of their vocation***, and diligently execute the offices of their vocation — **Ps. 91:11**: *"For He shall give His angels charge over you, to keep you in all your ways."*
 
 ### Objection. If therefore the holy Angels converse with us, and keep watch among us for us — whence come such great perturbations of all things, and such sad and tragic events?
 
@@ -3260,7 +3260,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Respondeo**: **Joseph is a man regenerate through the Holy Spirit, in whose heart the Holy Spirit had kindled the beginnings of faith.** Joseph therefore struggles ***out of the gift of the Holy Spirit*** with the flesh, and through faith, which is the ***victory that overcomes the world***, triumphs over his own flesh and over the impure suggestions of Satan. Whence it appears that this example is perversely adduced ***to establish synergy of unregenerate man in spiritual things***.
 
-### Objection IX. **Luke 11:13** — *"He will give the Holy Spirit to them that ask him."* *Ergo*, etc.
+### Objection IX. **Luke 11:13** — *"how much more will your heavenly Father give the Holy Spirit to those who ask Him."* *Ergo*, etc.
 
 **Respondeo**: **Christ speaks of the converted or justified.** For only those who believe, having the beginnings of faith, can ***worship God in Spirit and truth***, and ***ask for the increases of spiritual gifts***. Of the unconverted, **John 4** says: *"You worship that which you know not: we worship that which we know."*
 
@@ -3442,7 +3442,7 @@ That moreover **he certainly promises to all penitent sinners grace, mercy, and 
 
 That **he offers remission of sins even to the greatest and most unworthy sinners** — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Rom. 10:12** — *"For there is no distinction between Jew and Greek, for the same Lord over all is rich to all who call upon Him."*
 
-That **never to any penitent sinner has he denied the gratuitous remission of sins, but received all** — **Luke 15:7**: *"So shall there be joy in heaven upon one sinner doing penance, more than upon ninety and nine just, who need not penance."* **Rom. 5:20** — *"But where sin abounded, grace abounded much more."* The examples of *David, Manasseh, Peter, the Thief on the cross, and the like* testify the same. Therefore in the terrors and fears of sin let us **not despair**, but with confidence approach the **eternal Father in Christ the throne of grace full of grace**, and ask remission of sins from him for Christ's sake.
+That **never to any penitent sinner has he denied the gratuitous remission of sins, but received all** — **Luke 15:7**: *"there will be more joy in heaven over one sinner who repents than over ninety-nine just persons who need no repentance."* **Rom. 5:20** — *"But where sin abounded, grace abounded much more."* The examples of *David, Manasseh, Peter, the Thief on the cross, and the like* testify the same. Therefore in the terrors and fears of sin let us **not despair**, but with confidence approach the **eternal Father in Christ the throne of grace full of grace**, and ask remission of sins from him for Christ's sake.
 
 — ❦ —
 
@@ -4154,7 +4154,7 @@ Wherefore it arraigns not only external offences, but also **the interior transg
 
 **What promises has the Law?**
 
-**Conditional.** *"Do this, and thou shalt live"* — **Luke 10:28; Rom. 2:12**: *"For the hearers of the Law are not just before God, but the doers of the Law shall be justified."* **Matt. 19:17** — *"If you want to enter into life, keep the commandments."*
+**Conditional.** *"do this and you will live"* — **Luke 10:28; Rom. 2:12**: *"For the hearers of the Law are not just before God, but the doers of the Law shall be justified."* **Matt. 19:17** — *"If you want to enter into life, keep the commandments."*
 
 But since **no one keeps or does these**, no one of men **through his own works or merits can be made partaker of the promises of the Law**.
 
@@ -4508,7 +4508,7 @@ Unless Christ had come, and had revealed in the Gospel what is to be answered by
 
 **Respondeo**: **It is a fallacy of equivocation. For twofold is the power of God: of creation, and of salvation.** The power of **creation** is in some way known also to the Ethnics; but of **salvation** by no means. For **Matt. 11** Christ says: *"No one knows the Father, save the Son, and to whomsoever the Son shall will to reveal him."*
 
-**II.** [*[Luther: T. 1, pp. 507, 508; T. 7/1, p. 375*]*] **The Law is such a doctrine, which indeed has promises** — **Luke 10:28**: *"Do this, and thou shalt live."* **Matt. 19:17** — *"If you want to enter into life, keep the commandments."* But since **no mortal living has kept these, or is able to keep them, no man can arrogate these promises to himself**, or use them profitably; since **not the hearers, but the doers of the Law are justified in judgement** — **Rom. 2:13**. And even **the most holy men cannot in truth glory that they have exhibited perfect obedience to the Law**, but must confess and profess their impurity and manifold imperfection — **Rom. 7**.
+**II.** [*[Luther: T. 1, pp. 507, 508; T. 7/1, p. 375*]*] **The Law is such a doctrine, which indeed has promises** — **Luke 10:28**: *"do this and you will live."* **Matt. 19:17** — *"If you want to enter into life, keep the commandments."* But since **no mortal living has kept these, or is able to keep them, no man can arrogate these promises to himself**, or use them profitably; since **not the hearers, but the doers of the Law are justified in judgement** — **Rom. 2:13**. And even **the most holy men cannot in truth glory that they have exhibited perfect obedience to the Law**, but must confess and profess their impurity and manifold imperfection — **Rom. 7**.
 
 But **the Gospel offers grace, life, and salvation gratuitously even to wretched and unworthy sinners doing penitence, turning themselves to God, and believing on Christ** — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* This preaching **truly raises up the contrite and humbled heart, gladdens and consoles it, that it may certainly settle that it is with God in grace, has God propitious to it, and has remission of all its sins for Christ's sake**.
 
@@ -4550,7 +4550,7 @@ And **this is diligently to be noted and firmly to be held, lest the distinction
 
 ## Objections *(third series — on whether the Gospel is preaching of penitence)*
 
-### Objection I. Christ joins the preaching of penitence with the promise which is proper to the Gospel, saying: *"Do penitence, and believe the Gospel"* (**Mark 1:15**); and **Luke 24:47**: *"Preach in my name penitence and remission of sins."* *Ergo* the Gospel properly speaking is rightly called a preaching of penitence.
+### Objection I. Christ joins the preaching of penitence with the promise which is proper to the Gospel, saying: *"Do penitence, and believe the Gospel"* (**Mark 1:15**); and **Luke 24:47**: *"that repentance and remission of sins should be preached in His name to all nations."* *Ergo* the Gospel properly speaking is rightly called a preaching of penitence.
 
 **Respondeo**: **It is not asked, whether Christ joins the preaching of penitence with the promise which is proper to the Gospel; but what properly the Gospel is, or what preaching properly is such.** There, **if we regard the etymon of the word and the very thing of which it chiefly treats, it is certain that properly speaking it is not a preaching of penitence, but only of grace or remission of sins**. For **a preaching of penitence arraigns sins, denounces the wrath of God, threatens present and eternal punishments to sinners** — such a preaching is not a joyful or glad message, by which hearts may be raised up or vivified. Then, as to the sayings of Christ: **it is perspicuous, if it be more attentively weighed, that the word *penitence* in those sayings properly signifies *contrition*, which is to be taught from the Law and not from the Gospel**. For therefore at **Luke 24** he subjoins of *remission of sins*, that he may demonstrate the word *penitence* there **ought to be taken for contrition** — which is the *first* part of conversion, and is taught from the Law, not from the Gospel properly so-called. So also at **Mark 1** the voice of penitence is to be understood only of contrition, **which arises from the preaching of the Law, and not from the preaching of the Gospel**. For **the word of the Gospel there signifies nothing other than the preaching of grace, which is opposed to the preaching of the Law**. This too appears — that when the distinction of Law and Gospel is inquired, **to the Law only the preaching of penitence or contrition, and to the Gospel properly so-called only the announcement of grace ought to be ascribed**. For if the contrary be laid down, **there necessarily follows the confusion of Law and Gospel**. But if the voice of the Gospel be taken **generally for the whole ministry, which comprehends the preaching of the Law and the Gospel**, the definition which calls the Gospel a preaching of penitence in some way can be tolerated. **But for avoiding the confusion of Law and Gospel, it is safer to abstain from that general definition.**
 
@@ -4900,7 +4900,7 @@ So **David**, **Ps. 51**, when he was regenerate and had remission of his sins, 
 
 **IV.** That **they teach the regenerate in this life can satisfy the Law of God, and so merit eternal life — nay rather, that they can lay out above what the Law of God requireth of them**. But **to assert this we call blasphemous** — since **Paul, Rom. 7:18, expressly saith**: *"For to will is present with me, but to perfect the good I find not."* But **if Paul found it not, we much less find it to perfect**.
 
-**V.** That **they teach a man in this life cannot be certain of his salvation, and certainly establish that he is in grace**. Whom we contradict from the word of God. For **Christ himself teacheth John 3:36**: *"He that believeth in the Son, hath eternal life."* And **the Gospel teacheth us to pray and fight against doubts**, and with the Apostles biddeth us pray: *"Lord, increase thou our faith"* — **Luke 17:5**.
+**V.** That **they teach a man in this life cannot be certain of his salvation, and certainly establish that he is in grace**. Whom we contradict from the word of God. For **Christ himself teacheth John 3:36**: *"He that believeth in the Son, hath eternal life."* And **the Gospel teacheth us to pray and fight against doubts**, and with the Apostles biddeth us pray: *"Increase our faith"* — **Luke 17:5**.
 
 — ❦ —
 
@@ -5010,13 +5010,13 @@ The text also **hath not the word *alms*, but *righteousness***. Besides, in the
 
 — ❦ —
 
-### Objection VI. **Luke 1**: *"They were both just before GOD, walking in earnest in all the commandments and justifications of the Lord without complaint."* *Ergo* good works merit righteousness and life. [*[Luther: In the Postill, Feria 3 of Pasch*]*]
+### Objection VI. **Luke 1:6**: *"They were both righteous before God, walking in all the commandments and ordinances of the Lord blameless."* *Ergo* good works merit righteousness and life. [*[Luther: In the Postill, Feria 3 of Pasch*]*]
 
 **Respondeo**: **There is more in the consequent than in the antecedent.** And **the phrase of Scripture must be dexterously explained**. **They were just — imputatively, namely, through faith in the promised Messiah, through whom and in whom they awaited righteousness and eternal salvation**. But as to that which is said, that they walked without complaint — **the sense is not, as though they had perfectly fulfilled the Law of God, but that they so lived before men, that men could not by right complain of them, abstaining not only from evil, but from every species of evil**. **In sum: they were, as concerneth exterior life, irreprehensible**. But **hence in no way can it be gathered, that by their good works they merited eternal life**. For **eternal life is the gift of God** — **Rom. 6[:23]**.
 
 — ❦ —
 
-### Objection VII. *"To her are remitted many sins, because she loved much"* — **Luke 7**. *Ergo* faith and works together justify.
+### Objection VII. *"her sins, which are many, are forgiven, for she loved much"* — **Luke 7:47**. *Ergo* faith and works together justify.
 
 **Respondeo**: **The particle *because* signifieth two things.**
 
@@ -5274,7 +5274,7 @@ Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concernin
 
 **Faith therefore establisheth, that God is propitious not only to others but even to thee thyself; that he remitteth to thee freely thy sins on account of Christ, without any merit and works of thine; that he giveth to thee freely the kingdom of the heavens, the Holy Spirit, and eternal life**. For **the just shall live by faith** — **Rom. 1:17**.
 
-**III.** That **in all things — whether bodily or spiritual, whether temporal or eternal goods — it looketh upon the mercy of God alone and the merit of Christ**. For **from the word of God it knoweth, that God neither heareth prayers, nor delivereth out of evils, save through and on account of Christ the Mediator**. Hence **Matt. 21:22** it is said: *"And whatever things you ask in prayer, believing, you will receive."* Item **John 16:23**: *"Most assuredly, I say to you, whatever you ask the Father in My name He will give you."* **Matt. 9:2**: *"Son, be of good cheer; your sins are forgiven you."* **Luke 8:50**: *"Be not afraid, only believe, and she shall be saved."*
+**III.** That **in all things — whether bodily or spiritual, whether temporal or eternal goods — it looketh upon the mercy of God alone and the merit of Christ**. For **from the word of God it knoweth, that God neither heareth prayers, nor delivereth out of evils, save through and on account of Christ the Mediator**. Hence **Matt. 21:22** it is said: *"And whatever things you ask in prayer, believing, you will receive."* Item **John 16:23**: *"Most assuredly, I say to you, whatever you ask the Father in My name He will give you."* **Matt. 9:2**: *"Son, be of good cheer; your sins are forgiven you."* **Luke 8:50**: *"Do not be afraid; only believe, and she will be made well."*
 
 For **it is impossible that a man with trust and cheerful countenance ask anything from God, unless he be first certain that he is reconciled to God on account of Christ, and hath remission of all his sins**.
 
@@ -5330,7 +5330,7 @@ And this indeed **under the reign of the Papacy is enough — and hath been enou
 
 **But (say the adversaries) the particle "Alone" is not contained in Scripture.**
 
-**Very much so is it contained in it.** **Mark 5:36**: *"Fear not, only believe."* **Gal. 2:16**: *"Knowing however that a man is not justified from the works of the Law, unless through the faith of Jesus Christ."* **Luke 8:50**: *"Fear not, only believe."*
+**Very much so is it contained in it.** **Mark 5:36**: *"Fear not, only believe."* **Gal. 2:16**: *"Knowing however that a man is not justified from the works of the Law, unless through the faith of Jesus Christ."* **Luke 8:50**: *"Do not be afraid; only believe."*
 
 — ❦ —
 
@@ -5748,7 +5748,7 @@ But whereas **impious and profane men abuse this article — as also others — 
 
 **But how can and ought the pious and faithful conscience — labouring under most grievous temptations concerning predestination — to raise itself up and console itself?** [*[Luther: T. 3, p. 263 f. b; T. 5, pp. 486, 487; T. 2/1, pp. 56, 57*]*]
 
-**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth shall pass away, but his own words shall not pass away"* — **Luke 21:33**. *"A bruised reed He will not break, and smoking flax He will not quench"* — **Isa. 42:3**. *"a broken and a contrite heart — these, O God, You will not despise"* — **Ps. 51:17**.
+**First**, let the conscience thus perturbed and afflicted **look upon those most sweet and most ample promises, wherein God himself calleth himself the God of the poor, of the tribulated, of the contrite, and of the humbled** — **Ps. 9:10; Ps. 6:14; Ps. 40:18; Ps. 51:14** — and to these offereth **most certain hope and consolation**. Let it not **call these promises into doubt — since all works of God and all promises are in faith — Ps. 33:4**. *"Heaven and earth will pass away, but His words will by no means pass away"* — **Luke 21:33**. *"A bruised reed He will not break, and smoking flax He will not quench"* — **Isa. 42:3**. *"a broken and a contrite heart — these, O God, You will not despise"* — **Ps. 51:17**.
 
 Since therefore **thou hast such a contrite and humbled heart, be certain that he himself will be present with thee in this most grievous temptation, will console thee, and out of it will deliver thee**.
 
@@ -6048,7 +6048,7 @@ From these it is easily gathered, **what is to be judged concerning the elective
 
 **Is it true, that the Papists teach — that the faithful in the New Testament can not only fulfil the Law, but even do works of supererogation?**
 
-**A mere figment this is.** For as **Rom. 8:3** hath it, **this is impossible for the Law**. And **Luke 17:10 Christ himself saith**: *"Ye, when ye shall have done all things which were commanded you, say: We are unprofitable servants; we have done what we ought to do."* **Where here therefore are works of supererogation?**
+**A mere figment this is.** For as **Rom. 8:3** hath it, **this is impossible for the Law**. And **Luke 17:10 Christ himself saith**: *"So likewise you, when you have done all those things which you are commanded, say: We are unprofitable servants. We have done what was our duty to do."* **Where here therefore are works of supererogation?**
 
 **Deut. 6:5 God commandeth**: *"Thou shalt love the Lord thy God with thy whole heart."* **Where then doth anything remain in us not-owed, that we can add or supererogate?**
 
@@ -6308,7 +6308,7 @@ But as concerns **the expiation and satisfaction of sin and of the punishments o
 
 **Are there other rewards of alms?**
 
-**Very much so.** For **Isa. 58:7–8** it is said: *"share your bread with the hungry, and then your light shall break forth like the morning, and your healing shall spring forth speedily."* **Luke 6:38**: *"Give, and it shall be given unto you."* **In the other life also shall be copious the reward of alms — Matt. 25**.
+**Very much so.** For **Isa. 58:7–8** it is said: *"share your bread with the hungry, and then your light shall break forth like the morning, and your healing shall spring forth speedily."* **Luke 6:38**: *"Give, and it will be given to you."* **In the other life also shall be copious the reward of alms — Matt. 25**.
 
 — ❦ —
 
@@ -6330,7 +6330,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 **Is the faithful or Christian man bound to fast — that is, to live soberly and temperately?** [*[Luther: T. 6, p. 486 and following*]*]
 
-**Very much so.** For **1 Pet. 5:8** we read, *"Be ye sober and watch."* **Eph. 5:18**: *"Do not be drunk with wine, in which is dissipation."* **Rom. 13:13**: *"not in revelry and drunkenness."* **Luke 21:34**: *"Attend to yourselves, lest perchance your hearts be weighed down with surfeit and drunkenness."*
+**Very much so.** For **1 Pet. 5:8** we read, *"Be ye sober and watch."* **Eph. 5:18**: *"Do not be drunk with wine, in which is dissipation."* **Rom. 13:13**: *"not in revelry and drunkenness."* **Luke 21:34**: *"take heed to yourselves, lest your hearts be weighed down with carousing, drunkenness."*
 
 **Unto this fasting or temperance the faithful man is so obliged, that he is bound always so to live — and unless he shall have lived intemperately, grievously he sinneth**.
 
@@ -8404,7 +8404,7 @@ Although also **he nameth the cup *the New Testament*, yet by the same very thin
 
 ## Argument X. **2 Cor. 5:16, Paul saith**: *"But now henceforth we know not Christ according to the flesh."* ***Ergo* his body in the Supper is not exhibited with the sacred bread.**
 
-**Respondeo**: [*[T. 3, p. 452*]*] **The Apostle by the aforesaid words noteth not the sacred Supper, but carnal cogitations of the kingdom of Christ**, by which **the disciples sought nothing from Christ save carnal things, and expected the same from him** — as **Luke 24:21**: *"We were hoping, that he would redeem Israel"* — where they looked only unto an external redemption and restitution of liberty; and by which **others think and hope only carnal and corporeal things and those which are of this life; and by which Christ is not esteemed as any other than he who was seen in the state of exinanition**.
+**Respondeo**: [*[T. 3, p. 452*]*] **The Apostle by the aforesaid words noteth not the sacred Supper, but carnal cogitations of the kingdom of Christ**, by which **the disciples sought nothing from Christ save carnal things, and expected the same from him** — as **Luke 24:21**: *"we were hoping that it was He who was going to redeem Israel"* — where they looked only unto an external redemption and restitution of liberty; and by which **others think and hope only carnal and corporeal things and those which are of this life; and by which Christ is not esteemed as any other than he who was seen in the state of exinanition**.
 
 **Christ therefore now — saith the Apostle — we know not according to the flesh** — that is, **according to the infirmities which in the state of exinanition on our account he assumed** — for **now he hath been exalted, and hath laid down all those infirmities, and hath been raised to the right hand of the power of God, Eph. 1:21 — and even as man received all power in heaven and earth, Matt. 28** (*"For the flesh of the Most High hath been exalted,"* saith **Athanasius and Nyssen**). **Christ also we now know no longer according to the flesh — that we should seek corporeal and carnal goods of this life from him, or expect them from him: but spiritual, celestial, and true goods we expect from him, and crucify the corrupt concupiscences of our flesh**. **Nothing therefore this saying pertaineth to the sacred Supper, much less taketh away or destroyeth its presence.**
 
@@ -9062,7 +9062,7 @@ And if **the Gentiles could have been saved without knowledge of Christ, what ne
 
 **II.** **The legitimate use of the Sacraments, as by God himself they have been instituted** — **Matt. 28; Mark 16; Acts 2; Eph. 5**.
 
-**III.** **Reverence and obedience toward the Ministry in all things which God in his Word hath prescribed** — **Matt. 8:20**: *"teaching them to observe all things that I have commanded you."* **Luke 10:16**: *"He that heareth you, heareth me."* **Heb. 13:17**: *"Obey your prelates, and be subject to them,"* etc.
+**III.** **Reverence and obedience toward the Ministry in all things which God in his Word hath prescribed** — **Matt. 8:20**: *"teaching them to observe all things that I have commanded you."* **Luke 10:16**: *"He who hears you hears Me."* **Heb. 13:17**: *"Obey your prelates, and be subject to them,"* etc.
 
 — ❦ —
 
@@ -9200,7 +9200,7 @@ Just as **in the Old Testament there always were some truly faithful even under 
 
 **Respondeo**: **Christ indeed will never suffer his Church to perish — but one thing is to perish, another to lie hid for a time, and not to be openly known to all**. **The Church can lie hid — she cannot be extinguished. Christ promised that there will always be some Church — but that she will be always glorious and conspicuous in this age he did not promise**.
 
-**Zeph. 2 it is said**: *"I will leave in the midst of thee a poor and needy people — and they shall hope in the name of the Lord."* And **Luke 12**, Christ saith: *"Fear not, little flock."* And **Luke 18[:8]**: *"But when the Son of Man cometh, thinkest thou he shall find faith?"*
+**Zeph. 2 it is said**: *"I will leave in the midst of thee a poor and needy people — and they shall hope in the name of the Lord."* And **Luke 12:32**, Christ saith: *"Do not fear, little flock."* And **Luke 18:8**: *"Nevertheless, when the Son of Man comes, will He really find faith on the earth?"*
 
 — ❦ —
 
@@ -10002,7 +10002,7 @@ And thus ordination is described **1 Tim. 4:14**: *"Neglect not the grace which 
 
 **In what then consisteth the power of the Ministry?** [*[Gen. T. 2, p. 220; S. T. 4, p. 190*]*]
 
-**The Ministry hath not any external power of dominating, of constituting and deposing Emperors and Kings, of dispensing on the contrary against the Gospels and Epistles of Paul** — **which the Roman Pontiff hath taken to himself against the authority of Scripture as a mandate, just as also against the same he hath constituted himself Ministerial head of the Church**. For **Luke 22:25–27, Christ expressly saith**: *"The kings of the Gentiles domineer over them, and they who have power over them are called beneficent: But ye not so — but he who is greater among you, let him be as the younger, and he who is a leader, as a minister."*
+**The Ministry hath not any external power of dominating, of constituting and deposing Emperors and Kings, of dispensing on the contrary against the Gospels and Epistles of Paul** — **which the Roman Pontiff hath taken to himself against the authority of Scripture as a mandate, just as also against the same he hath constituted himself Ministerial head of the Church**. For **Luke 22:25–27, Christ expressly saith**: *"The kings of the Gentiles exercise lordship over them, and those who exercise authority over them are called benefactors. But not so among you; on the contrary, he who is greatest among you, let him be as the younger, and he who governs as he who serves."*
 
 So that **the Roman Pontiff hath usurped to himself the power of loosing and binding whatsoever also in the things of this age at his pleasure, and of commanding the Angels in heaven over souls, hath he done against Scripture**. **Neither of these belongeth to the power of the Ministry**.
 
@@ -10446,7 +10446,7 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 **Twofold: First, for the whole conversion of man unto God, which consisteth of contrition and faith. Jer. 18:8**: *"If that nation shall have done penitence,"* etc. And **cap. 31, v. 19**: *"For after that thou didst turn me, I did penitence,"* etc.
 
-**Then: for the other part of penitence — namely contrition, Mark 1:15**: *"Do penitence and believe the Gospel."* **Luke 24:47**: *"And in his name shall be preached penitence and remission of sins."*
+**Then: for the other part of penitence — namely contrition, Mark 1:15**: *"Do penitence and believe the Gospel."* **Luke 24:47**: *"And that repentance and remission of sins should be preached in His name to all nations."*
 
 — ❦ —
 
@@ -10796,7 +10796,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Do they teach rightly, that there be three parts of penitence — contrition, confession, and satisfaction?** [*[In Postilla, feria tertia paschatos, p. 27, etc.; Inst. Sch. Part 3, art. 3; T. 4, p. 660, etc.*]*]
 
-**By no means: For the word of God is ignorant of this partition of penitence, and demonstrateth only these two parts of the same — contrition and faith. Mark 1:15**: *"Do penitence and believe the Gospel."* **Luke 24:47**: *"And there shall be preached in his name penitence and remission of sins."* **Thus distinctly of the fruits of penitence doth he speak, Matt. 3**: *"Bring forth the fruit worthy of penitence."*
+**By no means: For the word of God is ignorant of this partition of penitence, and demonstrateth only these two parts of the same — contrition and faith. Mark 1:15**: *"Do penitence and believe the Gospel."* **Luke 24:47**: *"And that repentance and remission of sins should be preached in His name to all nations."* **Thus distinctly of the fruits of penitence doth he speak, Matt. 3**: *"Bring forth the fruit worthy of penitence."*
 
 **Contrition indeed is part of penitence, but that it can be sufficient, and merit the remission of sins, in Scripture is not taught.**
 
@@ -13126,7 +13126,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Shall this world at last pass away and be ended?**
 
-**Respondeo**: **In the highest degree: For however much the Epicureans believe not, but laugh, yet at last it shall pass away: for this Scripture perspicuously testifieth, Ps. 102:27**: *"The heavens themselves shall perish."* **Luke 21:33**: *"Heaven and earth shall pass away,"* &c. **2 Pet. 3:7**: *"The heavens moreover, that now are, and the earth by the same word are treasured up, being reserved unto fire in the day of judgement."*
+**Respondeo**: **In the highest degree: For however much the Epicureans believe not, but laugh, yet at last it shall pass away: for this Scripture perspicuously testifieth, Ps. 102:27**: *"The heavens themselves shall perish."* **Luke 21:33**: *"Heaven and earth will pass away,"* &c. **2 Pet. 3:7**: *"The heavens moreover, that now are, and the earth by the same word are treasured up, being reserved unto fire in the day of judgement."*
 
 — ❦ —
 
@@ -13142,7 +13142,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Shall the Lord tarry, and shall the end of the world and his coming be put off long?**
 
-**Respondeo**: **By no means: For, 1 John 2:18 it is said**: *"Little children, it is the last hour."* **Luke 17:26–27**: *"And as it came to pass in the days of Noah, so shall it be also in the days of the Son of man,"* &c.
+**Respondeo**: **By no means: For, 1 John 2:18 it is said**: *"Little children, it is the last hour."* **Luke 17:26–27**: *"And as it was in the days of Noah, so it will be also in the days of the Son of Man,"* &c.
 
 — ❦ —
 
@@ -13546,7 +13546,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **How then ought the truly faithful prepare themselves for the day of judgement?**
 
-**Respondeo**: **This likewise Peter teacheth, 2 Pet. 3:11–18, which place entire is to be referred here. In sum, that preparation chiefly in these things consisteth: that most maturely we do penance, in Christ believe, sins seriously avoid, fruits worthy of penance bring forth, watch and pray. Matt. 24:42**: *"Watch therefore, because ye know not, what hour the Lord your Lord shall come."* **Luke 21:34**: *"But attend to yourselves, lest perchance your hearts be burdened with surfeiting and drunkenness and the cares of this life, and that day come upon you suddenly, as a snare. For as a snare it shall come upon all, who dwell upon the face of the whole earth. Watch therefore at all times, praying, that ye may be accounted worthy to escape all these things, that are to be, and to stand before the Son of man."*
+**Respondeo**: **This likewise Peter teacheth, 2 Pet. 3:11–18, which place entire is to be referred here. In sum, that preparation chiefly in these things consisteth: that most maturely we do penance, in Christ believe, sins seriously avoid, fruits worthy of penance bring forth, watch and pray. Matt. 24:42**: *"Watch therefore, because ye know not, what hour the Lord your Lord shall come."* **Luke 21:34–36**: *"But take heed to yourselves, lest your hearts be weighed down with carousing, drunkenness, and cares of this life, and that Day come on you unexpectedly. For it will come as a snare on all those who dwell on the face of the whole earth. Watch therefore, and pray always that you may be counted worthy to escape all these things that will come to pass, and to stand before the Son of Man."*
 
 **Augustine elegantly saith**: *"Every one ought also of the days of this life to dread his last: For in what state his last day findeth each, in that shall the last day of the world seize him, since as any one shall die on that day, such shall he be judged on that day. Wherefore every Christian ought to watch, lest the coming of the Lord find him unprepared: But he shall find unprepared him, whom the last day of his life shall find unprepared."*
 
