@@ -1,4 +1,4 @@
-# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass IN PROGRESS (Romans done)
+# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass IN PROGRESS (Rom + John + Matt done)
 
 **Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
@@ -45,15 +45,15 @@ Every Scripture citation (~574 quoted, ~324 unique book+chapter combos across ~6
 
 **BiblegGateway.com** with `?version=NKJV` returns clean per-verse text under WebFetch. Fetching full chapters is refused for copyright; small verse ranges (1–15 verses per call) are fine.
 
-**Books done (2026-09-09):**
+**Books done:**
 
-- **Romans** — all 16 chapters. 97 unique verse references, ~205 citation instances. ~130 edits landed across commits `405244e`, `1b80f6a`, `5351d94`, `611b3c5`, `60cddd1`, `26e3369`.
+- **Romans** — all 16 chapters, 2026-09-09. Commits `405244e`→`26e3369`.
+- **John** — all 21 chapters, 2026-09-10. Commits `8c17a12`, `18b672d`, `1fa03f8`.
+- **Matthew** — all citation instances, 2026-09-10. Commit `1918fa6`.
 
 **Books remaining (top-count first):**
 
-- **John** — ~129 refs
 - **Ps.** — ~126 refs (Psalm numbering shift: Kirchner uses Vulgate/LXX Ps 9 = KJV/NKJV Ps 9+10, so his Ps 10–147 are off-by-one from NKJV Ps 11–148. Preserve the citation label as-is, but fetch the correct NKJV Psalm. Some MD entries already show `**Ps. 9:9 [Vg. 6:9]**` style — follow that pattern.)
-- **Matt.** — ~88 refs
 - **Eph.** — ~50 refs
 - **Isa.** — ~48 refs
 - **Luke** — ~47 refs
