@@ -458,7 +458,7 @@ And to embrace all together: ***Scripture divinely inspired is profitable to tea
 
 **If controversies arise in the cause of religion, who shall be the judge?**
 
-**Let Sacred Scripture alone be the judge.** [*Luther: T. 4, p. 297*] For it is therefore called ***Canon*** — **Ps. 19:8–9; Gal. 6:16** — *"And whosoever shall follow this rule, peace on them, and mercy, and upon the Israel of God."* **Phil. 3:16** — *"Nevertheless whereunto we are come, that we be of the same mind, let us also continue in the same rule."*
+**Let Sacred Scripture alone be the judge.** [*Luther: T. 4, p. 297*] For it is therefore called ***Canon*** — **Ps. 19:8–9; Gal. 6:16** — *"And whosoever shall follow this rule, peace on them, and mercy, and upon the Israel of God."* **Phil. 3:16** — *"Nevertheless, to the degree that we have already attained, let us walk by the same rule, let us be of the same mind."*
 
 Whence **Augustine, *De peccatorum meritis et remissione*, lib. 1, cap. 22**: [*Augustine's judgment*] *"Let us believe the Scripture, which neither can err, nor lead into error."*
 
@@ -1626,7 +1626,7 @@ Besides, it is worthy of note what **Nicephorus** writes at **lib. 18, cap. 50**
 
 **Has the cultus of adoration been communicated to Christ according to the assumed human nature?**
 
-**Most certainly.** For at **Phil. 2:9–11** the Apostle says: ***"Wherefore God also hath exalted him, and hath given him a name which is above all names, that in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth; and that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father."*** And at **John 9:38** the blind man healed by Christ adores ***the whole Christ, not only as God, but also as Man***. And at **Matt. 15:25** the ***Canaanite woman*** adores the whole Christ, God and Man, saying: ***"Have mercy on me, O Lord, Son of David."***
+**Most certainly.** For at **Phil. 2:9–11** the Apostle says: ***"Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."*** And at **John 9:38** the blind man healed by Christ adores ***the whole Christ, not only as God, but also as Man***. And at **Matt. 15:25** the ***Canaanite woman*** adores the whole Christ, God and Man, saying: ***"Have mercy on me, O Lord, Son of David."***
 
 ### Objection I. But invocation or adoration is to be directed to no creature. Since therefore Christ's human nature, even in the very personal union, is and remains a creature — a pious and religious adoration is not to be directed to her?
 
@@ -1684,7 +1684,7 @@ It cannot be denied, therefore, that ***without abolition of the same***, Christ
 
 **I.** That ***his body is made immortal***. For, in that he died, he died to sin ***once for all*** — **Rom. 6:10**.
 
-**II.** ***Glorious*** — **Phil. 3:21**: *"Who will reform the body of our lowness, configured to the body of his glory."*
+**II.** ***Glorious*** — **Phil. 3:21**: *"who will transform our lowly body that it may be conformed to His glorious body."*
 
 **III.** ***Spiritual*** — **1 Cor. 15:44**. For if the bodies of the elect in the resurrection will receive these things, how much more of Christ's body must these things be believed and set. Hence at **Matt. 28** he rose from the sepulchre ***guarded and sealed with a stone***. At **Luke 24:31** he ***vanished from the eyes of the disciples***, or, as it is in the Greek: ***ἄφαντος ἐγένετο ἀπ᾿ αὐτῶν***. At **John 20:19, 26** he ***did not walk step by step from place to place through certain grades***, entering with open doors into the ***conclave of the disciples***; but according to John he ***suddenly and unexpectedly stood in the midst of the disciples*** — so that from this the disciples concluded they saw a ***spirit, and not a man***. These and similar sublimities of Christ's glorified body cannot all be known in this life, much less explicated. Impudent, therefore, and quite audacious is the temerity of the Adversaries, who — even in the state of glorification — so urge ***locality and visibility*** of Christ's body, as though the body of Christ could not be and remain a true human body unless it were always ***locally and visibly*** present wheresoever it is — whereas Christ, even in the state of exinanition, made himself ***invisible***, as **Theophylact on John 8** writes: *"By his great power he made himself invisible to his enemies."*
 
@@ -1808,7 +1808,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **III.** That **both — the liberation from sin and death, and the perfect satisfaction of the Law — he gives to us through the ministry of the Word and Sacraments**, imputes to us in faith, and efficaciously applies. Whence the Gospel — **Rom. 1:16** — is called ***the power of God to salvation for everyone who believes***. And **Luke 24:46–47** Christ himself says: *"Thus it is written, and thus it was necessary for the Christ to suffer and to rise from the dead the third day, and that repentance and remission of sins should be preached in His name to all nations."*
 
-**IV.** That **he is present to his Church**, and gives us his Holy Spirit — **John 14, 15, 16** — and preserves, comforts, and keeps us to the end of life in true faith, against our own flesh, the world, temptations, afflictions, the Devil, and all evils. **Phil. 1:6** — *"Because he who has begun in us the good work, will accomplish it unto the day of Jesus Christ."* **Phil. 2:13** — *"For it is God who worketh in you both to will and to accomplish, according to his good will."* **1 Pet. 5:10** — *"But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after we have suffered a little while, will himself perfect, confirm, and establish."* And finally, that **he rules over all creatures** — **Eph. 1**.
+**IV.** That **he is present to his Church**, and gives us his Holy Spirit — **John 14, 15, 16** — and preserves, comforts, and keeps us to the end of life in true faith, against our own flesh, the world, temptations, afflictions, the Devil, and all evils. **Phil. 1:6** — *"He who has begun a good work in you will complete it until the day of Jesus Christ."* **Phil. 2:13** — *"for it is God who works in you both to will and to do for His good pleasure."* **1 Pet. 5:10** — *"But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after we have suffered a little while, will himself perfect, confirm, and establish."* And finally, that **he rules over all creatures** — **Eph. 1**.
 
 — ❦ —
 
@@ -1870,7 +1870,7 @@ And to sum up: it teaches that ***by the justice of Christ the Mediator, not of 
 
 — ❦ —
 
-### Objection I. **Phil. 2:8–9** — *"He humbled himself, becoming obedient unto death, even to the death of the cross. For which cause God also hath exalted him,"* etc. *Ergo* by his passion he merited for himself an exaltation which was consequent.
+### Objection I. **Phil. 2:8–9** — *"He humbled Himself and became obedient to the point of death, even the death of the cross. Therefore God also has highly exalted Him,"* etc. *Ergo* by his passion he merited for himself an exaltation which was consequent.
 
 **Respondeo**: **It is agreed that the causal or ratiocinative particles (*ideo, idcirco, quapropter, propterea*, etc.) do not always indicate that which precedes to be the efficient or meriting cause of the following matter.** For example, at **John 12:39–40** it is said: *"Therefore they could not believe, because Isaiah said again."* Where the particle ***therefore*** does not signify a cause. For the prophetic prediction was by no means the cause of the incredulity of the Jews.
 
@@ -1888,7 +1888,7 @@ Since this name (with the Apostle, **Phil. 2**) was given ***from grace*** to Ch
 
 ### Objection III. But **Heb. 2:9** it is said: *"Jesus, for the suffering of death, was crowned with glory and honor."* *Ergo* it is still true that by his passion he merited for himself.
 
-**Respondeo**: **Nor hence does it follow that Christ merited glory for himself.** For the exaltation of Christ, according to the assumed nature, is a ***work of grace, not of merit*** — **Phil. 2:9**: *"He hath given him a name."* Out of mere grace, in the very union and through the union, he was raised to the proper altitude or glory of the Word, ***not on account of any merit***; and every operation of that Man was ***subsequent to the union***; whence no operation of his could be the merit of the union, or of the glory which through the union he received. Thus, out of mere grace, ***he was exalted according to the assumed nature to the right hand of God***, and ***not on account of any merit***.
+**Respondeo**: **Nor hence does it follow that Christ merited glory for himself.** For the exaltation of Christ, according to the assumed nature, is a ***work of grace, not of merit*** — **Phil. 2:9**: *"given Him the name which is above every name."* Out of mere grace, in the very union and through the union, he was raised to the proper altitude or glory of the Word, ***not on account of any merit***; and every operation of that Man was ***subsequent to the union***; whence no operation of his could be the merit of the union, or of the glory which through the union he received. Thus, out of mere grace, ***he was exalted according to the assumed nature to the right hand of God***, and ***not on account of any merit***.
 
 The sense, therefore, of the words of the Epistle to the Hebrews is: ***that the passion was as it were a way and means destined by divine ordination to the perfect fruition of divine glory***. Which appears from the following words, where he writes: *"the Prince of salvation (Christ) was made perfect through passions."* As if he said: The passion was as it were a means through which Christ, according to the decree of the divine will, might come to the perfect ***assumption or manifestation*** of the divine glory which in the very incarnation he had received.
 
@@ -3140,7 +3140,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **Can man languidly consent to the promise?**
 
-**Augustine, ***De Praedestinatione*** cap. 3, confesses that he was in that opinion — that ***assent and acceptation of grace*** was in our own hand: but at the same time he confesses that he was in error therein**, and on the contrary testifies that it is the gift and work of God and the Holy Spirit alone that ***we assent to the promise of grace, and receive it with true faith***. [*Luther: T. 3, part 1, pp. 216 f.b., 171, 172*] And here is the unanimous consent of the whole Scripture, which testifies that faith — which is a true and firm confidence in God, and embraces the promise of grace offered in Christ, and makes it its own — is the ***gift and work of God***. **Phil. 1:29** — *"Because to you it is given for Christ, not only to believe in him, but also to suffer for him."*
+**Augustine, ***De Praedestinatione*** cap. 3, confesses that he was in that opinion — that ***assent and acceptation of grace*** was in our own hand: but at the same time he confesses that he was in error therein**, and on the contrary testifies that it is the gift and work of God and the Holy Spirit alone that ***we assent to the promise of grace, and receive it with true faith***. [*Luther: T. 3, part 1, pp. 216 f.b., 171, 172*] And here is the unanimous consent of the whole Scripture, which testifies that faith — which is a true and firm confidence in God, and embraces the promise of grace offered in Christ, and makes it its own — is the ***gift and work of God***. **Phil. 1:29** — *"For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake."*
 
 — ❦ —
 
@@ -3278,7 +3278,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 ### Objection XIII. Espousal requires mutual consent. Conversion is a mutual espousal of Christ and the sinful man. *Ergo*, etc.
 
-**Respondeo**: **I concede that conversion demands mutual consent**, and that unless such a consent of man come to it, no conversion can happen. But the question is not ***whether man ought to assent to the promise of grace***, but ***whence he has this, unless it be given***, that he can consent to the promise of grace — or, of the promise in which grace and salvation are offered him, assent. To which Scripture answers, that ***faith or this assent is a gift of God*** — **Phil. 1:29**: *"To you it is given, that ye should believe,"* etc.
+**Respondeo**: **I concede that conversion demands mutual consent**, and that unless such a consent of man come to it, no conversion can happen. But the question is not ***whether man ought to assent to the promise of grace***, but ***whence he has this, unless it be given***, that he can consent to the promise of grace — or, of the promise in which grace and salvation are offered him, assent. To which Scripture answers, that ***faith or this assent is a gift of God*** — **Phil. 1:29**: *"to you it has been granted... to believe,"* etc.
 
 ### Objection XIV. To whom ***unwillingness*** is imputed, to him is ***willing*** attributed. To man ***unwillingness*** is imputed — **Matt. 23:37**: *"How often I wanted to gather your children together, but you were not willing."* *Ergo* to him ***willing*** is attributed.
 
@@ -4214,7 +4214,7 @@ From all these it is manifest that even the regenerate and faithful themselves *
 
 **Respondeo**: **But not *perfect* love.** If in the regenerate in this life there were so great a perfection of love as the divine Law demands (**Deut. 6; Matt. 22**), the regenerate would fulfil the Law. But **such a love of God and neighbour, absolute in all its numbers, no one of the saints had or has in this life**. **In vain therefore is the fulfilment of the Law attributed to the saints or regenerate.** **Augustine** rightly holds, saying: *"The fullest love, which cannot now be increased, so long as man lives, is in no one."* Therefore not even perfect fulfilment of the Law of love is in the regenerate.
 
-### Objection V. **Phil. 3:15** — *"As many therefore as be perfect."* *Ergo* there is perfection in the regenerate.
+### Objection V. **Phil. 3:15** — *"as many as are mature."* *Ergo* there is perfection in the regenerate.
 
 **Respondeo**: **The Apostle speaks not of perfection according to the divine Law, but of sincerity of faith and obedience toward God without hypocrisy** — which he opposes against the Pharisees and similar hypocrites, **who simulate a study of piety, but without true faith and spiritual motions of the heart**. For the word *perfect* in the sacred letters does not always signify **perfect and in all its numbers absolute fulfilment of the Law**. But **most often sincerity of faith**, and it is opposed to hypocrisy or simulated piety. For even the holiest men are found imperfect, if you compare their life with the true and exact sentence of the divine Law.
 
@@ -4532,7 +4532,7 @@ For **Matt. 9:13** Christ says he came **to call sinners *εἰς μετάνοι
 
 ### Objection I. But the Gospel requires faith. *Ergo* the promises of the Gospel itself are also conditional?
 
-**Respondeo**: **The Gospel promises to all sinners doing penitence remission of sins, righteousness, life, and salvation gratuitously without any condition of their work or merit** — **Matt. 11:28; Rom. 3:24–28**. But that it requires **faith**, this is so, that we may learn and know **what the instrument and medium is by which we may and ought to receive and embrace the merit of Christ, freely offered to us in the Gospel**. It requires faith **not as a cause or merit**, but that it may be manifest what the distinction is **between those doing penitence and believing, and those impenitent and persevering in sins**. And **the promises of the Gospel so plainly exclude every condition of our work and merit, that the Holy Spirit through the preaching of the Gospel gratuitously kindles, creates, and works in hearts even faith itself, by which we embrace and apply to ourselves the grace and benefits of Christ** — **Rom. 1:16** — *"The gospel...is the power of God to salvation for everyone who believes."* **Rom. 10:17** — *"So then faith comes by hearing, and hearing by the word of God."* **Phil. 1:29** — *"For to you it is given τὸ ὑπὲρ Χριστοῦ, on behalf of Christ, not only that ye should believe in him, but also that ye should suffer for him."*
+**Respondeo**: **The Gospel promises to all sinners doing penitence remission of sins, righteousness, life, and salvation gratuitously without any condition of their work or merit** — **Matt. 11:28; Rom. 3:24–28**. But that it requires **faith**, this is so, that we may learn and know **what the instrument and medium is by which we may and ought to receive and embrace the merit of Christ, freely offered to us in the Gospel**. It requires faith **not as a cause or merit**, but that it may be manifest what the distinction is **between those doing penitence and believing, and those impenitent and persevering in sins**. And **the promises of the Gospel so plainly exclude every condition of our work and merit, that the Holy Spirit through the preaching of the Gospel gratuitously kindles, creates, and works in hearts even faith itself, by which we embrace and apply to ourselves the grace and benefits of Christ** — **Rom. 1:16** — *"The gospel...is the power of God to salvation for everyone who believes."* **Rom. 10:17** — *"So then faith comes by hearing, and hearing by the word of God."* **Phil. 1:29** — *"For to you it has been granted τὸ ὑπὲρ Χριστοῦ, on behalf of Christ, not only to believe in Him, but also to suffer for His sake."*
 
 ### Objection II. But the Gospel also preaches of good works. *Ergo* it also has annexed conditions?
 
@@ -5038,7 +5038,7 @@ More therefore doth this sentence teach us, **what we lack, rather than what we 
 
 ### Objection IX. *"The doers of the Law shall be justified."* *Ergo*, etc.
 
-**Respondeo**: **I concede, if thou wilt give a doer of the Law — but thou wilt not give one**. **Rom. 3**: *"For all lack the glory of God, and there is no distinction."* Therefore **through the Law no one is justified**. But **that we may obtain righteousness with God, and be absolved from the curse of the Law, it is necessary that we believe in Christ the Saviour, and seek and have our righteousness not in the Law, but in Christ through faith** — **Phil. 3**.
+**Respondeo**: **I concede, if thou wilt give a doer of the Law — but thou wilt not give one**. **Rom. 3**: *"For all lack the glory of God, and there is no distinction."* Therefore **through the Law no one is justified**. But **that we may obtain righteousness with God, and be absolved from the curse of the Law, it is necessary that we believe in Christ the Saviour, and seek and have our righteousness not in the Law, but in Christ through faith** — **Phil. 3:9**.
 
 — ❦ —
 
@@ -5194,7 +5194,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **But who worketh faith in hearts?** [*[Luther: T. 2, pp. 298, 299; T. 5, p. …; T. 4/1, p. 24; T. 3/1, p. 79 f.b., p. 429*]*]
 
-**The efficient cause of faith in Christ is the Holy Spirit himself, who out of mere grace kindleth this confidence in the heart.** For **it is the work of the Holy Spirit alone, to vivify dead hearts, and to kindle faith in them**. Whence **Phil. 1:29** it is said: *"It is granted to you for Christ, not only that ye should believe in him,"* etc. **Col. 2:12**: *"in whom also ye have risen through the faith of the operation of God."* **Plainly therefore they teach falsely, who hand down that faith is acquired from free will and human powers**.
+**The efficient cause of faith in Christ is the Holy Spirit himself, who out of mere grace kindleth this confidence in the heart.** For **it is the work of the Holy Spirit alone, to vivify dead hearts, and to kindle faith in them**. Whence **Phil. 1:29** it is said: *"For to you it has been granted on behalf of Christ, not only to believe in Him,"* etc. **Col. 2:12**: *"in whom also ye have risen through the faith of the operation of God."* **Plainly therefore they teach falsely, who hand down that faith is acquired from free will and human powers**.
 
 — ❦ —
 
@@ -5270,7 +5270,7 @@ Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concernin
 
 **I.** That **it is a confidence founded on the gratuitous promise of the Gospel — which alone it regardeth, as that in which God offereth freely his grace, remission of sins, and eternal life**. **Matt. 11:28**: *"Come unto me all ye that labour and are laden, and I will refresh you."* For **unless these and the like gratuitous promises had been made and set forth by God himself, we could promise ourselves nothing certain concerning gratuitous remission of sins and reconciliation with God**. Since **no man knoweth the mind of the Lord apart from his own word**.
 
-**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8**: *"that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Christ — the righteousness which is from God in faith."* **Eph. [3:12]**: *"In Christ we have boldness,"* etc. **Rom. 4:5**: *"To him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* **Rom. 3:26–27**: *"that He might be just and the justifier of the one who has faith in Jesus. Where is boasting then? It is excluded. By what law? Of works? No, but by the law of faith."*
+**II.** That **faith in the cause of justification before God relieth not at all upon its own works or merits, but confideth in the most precious merit and most holy obedience of Jesus Christ alone — applieth to itself this obedience and merit of Christ — and with immoveable confidence believeth this obedience and satisfaction to be its own, equally as if it itself had exhibited that which Christ exhibited**. **Phil. 3:8–9**: *"that I may gain Christ, and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith."* **Eph. [3:12]**: *"In Christ we have boldness,"* etc. **Rom. 4:5**: *"To him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness."* **Rom. 3:26–27**: *"that He might be just and the justifier of the one who has faith in Jesus. Where is boasting then? It is excluded. By what law? Of works? No, but by the law of faith."*
 
 **Faith therefore establisheth, that God is propitious not only to others but even to thee thyself; that he remitteth to thee freely thy sins on account of Christ, without any merit and works of thine; that he giveth to thee freely the kingdom of the heavens, the Holy Spirit, and eternal life**. For **the just shall live by faith** — **Rom. 1:17**.
 
@@ -5890,9 +5890,9 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **IV.** That **by our honest conversation we may adorn the doctrine of the Gospel** — **Phil. 1:27**: *"Only converse ye worthily of the Gospel of Christ."* **Tit. 2:10**: *"In all things showing good faith, that they may adorn the doctrine of God our Saviour in all things."*
 
-**V.** That **we may be found imitators of Christ** — **Phil. 2:5**: *"Have this mind in you, which is also in Christ Jesus."* **1 Cor. 11:1**: *"Imitate me, just as I also imitate Christ."* **1 Pet. 1:14**: *"As sons of obedience, not configured to the former desires of your ignorance, but according to him who hath called you, be ye also holy in all your conversation — because it is written, ye shall be holy, because I am holy."*
+**V.** That **we may be found imitators of Christ** — **Phil. 2:5**: *"Let this mind be in you which was also in Christ Jesus."* **1 Cor. 11:1**: *"Imitate me, just as I also imitate Christ."* **1 Pet. 1:14**: *"As sons of obedience, not configured to the former desires of your ignorance, but according to him who hath called you, be ye also holy in all your conversation — because it is written, ye shall be holy, because I am holy."*
 
-**VI.** **To avoid and decline scandals** — **1 Cor. 10:31–32**: *"Whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense, either to the Jews or to the Greeks or to the church of God."* **Phil. 2:14**: *"Do ye all things without murmurings and hesitations, that ye may be without complaint, and simple sons of God, without reprehension in the midst of a depraved and perverse nation, among whom ye shine, as luminaries in the world."*
+**VI.** **To avoid and decline scandals** — **1 Cor. 10:31–32**: *"Whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense, either to the Jews or to the Greeks or to the church of God."* **Phil. 2:14–15**: *"Do all things without complaining and disputing, that you may become blameless and harmless, children of God without fault in the midst of a crooked and perverse generation, among whom you shine as lights in the world."*
 
 **More causes are elsewhere recited and explained.**
 
@@ -5912,7 +5912,7 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **Fourthly**, **expressly the Scripture testifieth the same, Job 9:2–3**: *"Truly I know that so it is, and that a man will not be justified compared with God: if he willeth to contend with him, he cannot answer him one for a thousand."* **Ps. 143:2**: *"Do not enter into judgment with Your servant, for in Your sight no one living is righteous."*
 
-By these therefore so many immoveable sayings of Scripture, **no man before GOD can glory of his perfection**; and **much less can he attribute this to himself, that his good works expiate sin in the sight and judgement of GOD**. For **this honour is owed to the Lamb of God alone — John [1:29]** — and **what is unclean in the sight of GOD, can cleanse nothing**. Whence the Apostle **Phil. 3:7–9**: *"What things were gain to me, these I have counted for Christ as detriments. But truly I esteem all things to be detriment for the eminent knowledge of Christ Jesus my Lord, on whose account I have made all things detriment, and I esteem them as dung, that I may gain Christ, and be found in him, not having mine own righteousness, which is from the Law, but that which is from the faith of Jesus Christ."*
+By these therefore so many immoveable sayings of Scripture, **no man before GOD can glory of his perfection**; and **much less can he attribute this to himself, that his good works expiate sin in the sight and judgement of GOD**. For **this honour is owed to the Lamb of God alone — John [1:29]** — and **what is unclean in the sight of GOD, can cleanse nothing**. Whence the Apostle **Phil. 3:7–9**: *"But what things were gain to me, these I have counted loss for Christ. Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ."*
 
 — ❦ —
 
@@ -5946,7 +5946,7 @@ For **in the Hebrew phrase the Accusative with the preposition *"ad"* is put for
 
 — ❦ —
 
-### Objection II. **Phil. 2 it is said: *"With trembling work out your salvation."* *Ergo* good works are necessary to salvation.**
+### Objection II. **Phil. 2:12 it is said: *"work out your own salvation with fear and trembling."* *Ergo* good works are necessary to salvation.**
 
 **Respondeo**: **To work out salvation in this place signifieth not: to do good works necessary to salvation — but cautiously and circumspectly, or in the fear of the Lord to walk; to militate a good warfare; to attend, lest we should have received grace in vain, and lest from carnal security we should shake off the goods which have freely befallen us through faith in Christ**.
 
