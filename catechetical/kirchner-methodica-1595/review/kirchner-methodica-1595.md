@@ -176,7 +176,7 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 
 **I. From antiquity.** For no religion on this earth, of whatever name, has such authority as the Christian religion attains by antiquity and duration. This faith **Adam** and all the **Patriarchs** embraced; and this same faith **all** who shall be heirs of blessedness will retain **until the end of the world**.
 
-**Gen. 3:15** — *"I will put enmities between thee and the woman, and between thy seed and her seed; she [or: he] shall crush thy head, and thou shalt lie in wait for her heel."*
+**Gen. 3:15** — *"I will put enmity between you and the woman, and between your seed and her Seed; He shall bruise your head, and you shall bruise His heel."*
 
 **Acts 10:43** — *"To Him all the prophets witness that, through His name, whoever believes in Him will receive remission of sins."*
 
@@ -570,7 +570,7 @@ To this, Christ did not say: *"I am human tradition or custom"*, but ***"I am th
 
 This description, as easily may be seen, is drawn from the Word of God and from the Apostles' Creed.
 
-**John 4:24** — *"God is Spirit."* **Matt. 28:19** — *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."* **Gen. 1:1** — *"In the beginning God created the heaven and the earth."* **John 3:16** — *"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life."* **John 5:28–29** — *"Do not marvel at this, for the hour is coming in which all who are in the graves will hear His voice, and come forth — those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation."*
+**John 4:24** — *"God is Spirit."* **Matt. 28:19** — *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."* **Gen. 1:1** — *"In the beginning God created the heavens and the earth."* **John 3:16** — *"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life."* **John 5:28–29** — *"Do not marvel at this, for the hour is coming in which all who are in the graves will hear His voice, and come forth — those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation."*
 
 — ❦ —
 
@@ -582,7 +582,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 **I.** That he is ***eternal*** — **Gen. 21:33**: *"He called upon the name of the Lord, the Everlasting God."*
 
-**II.** That he is ***omnipotent and all-sufficient***, and consequently does whatsoever he wills, and can deliver from all evils. [*Luther: T. 1, p. 477; T. 3, p. 351; Gen. T. 2, p. 187; Gen. T. 3, p. 149*] **Gen. 17:1** — *"I am the Almighty Lord — El-Schaddai."*
+**II.** That he is ***omnipotent and all-sufficient***, and consequently does whatsoever he wills, and can deliver from all evils. [*Luther: T. 1, p. 477; T. 3, p. 351; Gen. T. 2, p. 187; Gen. T. 3, p. 149*] **Gen. 17:1** — *"I am Almighty God — El-Schaddai."*
 
 **III.** That he is ***truthful***, and wonderfully keeps and performs what he has promised. [*Luther: T. 4, p. 449; T. 7, p. 150*] **John 4; Ps. 33:4** — *"For the word of the Lord is right, and all his works are done with faithfulness."*
 
@@ -612,7 +612,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 ### Objection I. One God could not suffice to govern and preserve all creatures. *Ergo* there are many Gods.
 
-**Respondeo**: **He can suffice for all, since he is omnipotent.** **Gen. 17:1** — *"I am the Lord Almighty — El-Schaddai"* — signifies such a Lord as is sufficient for all creatures, for nourishing, governing, and preserving them.
+**Respondeo**: **He can suffice for all, since he is omnipotent.** **Gen. 17:1** — *"I am Almighty God — El-Schaddai"* — signifies such a Lord as is sufficient for all creatures, for nourishing, governing, and preserving them.
 
 ### Objection II. If God were one, he would also govern in one manner, and would do well to the good and ill to the evil. But we see the contrary happen. *Ergo* [there are more Gods].
 
@@ -678,7 +678,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 **IV.** That similarly she discerns the ***Holy Spirit*** in manifest words from the Father and the Son. **John 14:16** — *"And I will pray the Father, and He will give you another Helper."*
 
-**V.** That even in the ***Old Testament***, she everywhere brings forward testimonies of the Trinity of Persons. [*Genesis T. 3, p. 194*] **Gen. 1** — *"In the beginning ***Elohim*** created the heaven and the earth."* And **Ps. 33**.
+**V.** That even in the ***Old Testament***, she everywhere brings forward testimonies of the Trinity of Persons. [*Genesis T. 3, p. 194*] **Gen. 1:1** — *"In the beginning ***Elohim*** created the heavens and the earth."* And **Ps. 33**.
 
 — ❦ —
 
@@ -746,7 +746,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 ### Objection IV. If the Persons of the Divinity are really distinguished, they will not be one in essence, and the Trinity will not be unity.
 
-**Respondeo**: **Human reason indeed cannot attain that the Persons of the Divinity are really distinct, and yet in essence be one; but Faith, according to the Word of God, believes this, and leads the reason captive.** For so the Lord himself in the sacred letters speaks concerning this mystery. [*Genesis T. 1, p. 3*] **Gen. 1** describes the creation of all things, and it is said that ***Elohim*** created the heaven and the earth. The verb ***Bara*** is of singular number, that the ***unity of essence*** may be expressed. The name ***Elohim*** is plural, that the ***trinity of Persons in that most simple unity*** may be denoted. This same is repeated **Gen. 2**: *"In the day when Jehovah Elohim made the heaven and the earth."* **Josh. 24:19** — *"Ye cannot serve the Lord, for Elohim (God) is holy himself."* Here expressly the unity is confirmed, and yet at the same time the plurality of Persons is asserted. For he calls the one Jehovah ***holy Gods*** — that is, three Persons, Father, Son, and Holy Spirit.
+**Respondeo**: **Human reason indeed cannot attain that the Persons of the Divinity are really distinct, and yet in essence be one; but Faith, according to the Word of God, believes this, and leads the reason captive.** For so the Lord himself in the sacred letters speaks concerning this mystery. [*Genesis T. 1, p. 3*] **Gen. 1** describes the creation of all things, and it is said that ***Elohim*** created the heaven and the earth. The verb ***Bara*** is of singular number, that the ***unity of essence*** may be expressed. The name ***Elohim*** is plural, that the ***trinity of Persons in that most simple unity*** may be denoted. This same is repeated **Gen. 2:4**: *"In the day when Jehovah Elohim made the earth and the heavens."* **Josh. 24:19** — *"Ye cannot serve the Lord, for Elohim (God) is holy himself."* Here expressly the unity is confirmed, and yet at the same time the plurality of Persons is asserted. For he calls the one Jehovah ***holy Gods*** — that is, three Persons, Father, Son, and Holy Spirit.
 
 **Isa. 6:8** — *"Whom shall I send, and who will go (in Hebrew ***Lanu***, ***nobis***) for Us?"* And of this testimony **Jerome** on the 6th chapter of Isaiah writes that it indicates the Sacrament of the ***unity and Trinity***.
 
@@ -2526,7 +2526,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **What is the divine determination?**
 
-**Respondeo**: **It is part of providence, by which God — foreseeing all things — foresees also all future events, whether good or evil, and helps the good, but permits the evil; and constitutes terms and bounds how far he will permit them.** [*Luther: T. 4, part 1, pp. 345, 346*] **Gen. 15:13–16** — *"Be it certainly persuaded to thee that thy seed shall be a stranger in a land not their own, and they shall bring them under bondage, and afflict them four hundred years. But I will judge the nation, and after this they shall come out with great substance. And thou shalt go to thy fathers in peace, and be buried in a good old age. But in the fourth generation they shall return hither: for as yet the iniquities of the Amorites are not at the full."*
+**Respondeo**: **It is part of providence, by which God — foreseeing all things — foresees also all future events, whether good or evil, and helps the good, but permits the evil; and constitutes terms and bounds how far he will permit them.** [*Luther: T. 4, part 1, pp. 345, 346*] **Gen. 15:13–16** — *"Know certainly that your descendants will be strangers in a land that is not theirs, and will serve them, and they will afflict them four hundred years. And also the nation whom they serve I will judge; afterward they shall come out with great possessions. Now as for you, you shall go to your fathers in peace; you shall be buried at a good old age. But in the fourth generation they shall return here, for the iniquity of the Amorites is not yet complete."*
 
 This illustrious sentence embraces ***six memorable points***:
 
@@ -2886,7 +2886,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 
 **By whom is man created?**
 
-**By God himself.** **Gen. 1:26** — *"Let us make man to our image and likeness."* By which words God shows that with ***singular counsel and deliberation held*** he created man — which is the ***great glory of the human race***. [*Gen. T. 1, pp. 16, 35, 36*]
+**By God himself.** **Gen. 1:26** — *"Let Us make man in Our image, according to Our likeness."* By which words God shows that with ***singular counsel and deliberation held*** he created man — which is the ***great glory of the human race***. [*Gen. T. 1, pp. 16, 35, 36*]
 
 — ❦ —
 
@@ -2894,7 +2894,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 
 **Whence is man created?**
 
-**Gen. 2:7** — *"from the ***slime of the earth***"* — [Hebrew] ***מִן־הָאֲדָמָה***. ***Aphar*** properly is ***earth rarer and thinner***, not however plainly dust. From this rarer earth therefore the body of man was formed. But the ***soul*** was breathed by God himself into him. [*Luther: T. 4, p. 19*]
+**Gen. 2:7** — *"of the ***dust of the ground***"* — [Hebrew] ***מִן־הָאֲדָמָה***. ***Aphar*** properly is ***earth rarer and thinner***, not however plainly dust. From this rarer earth therefore the body of man was formed. But the ***soul*** was breathed by God himself into him. [*Luther: T. 4, p. 19*]
 
 — ❦ —
 
@@ -2956,7 +2956,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **Could the image of God be lost without corruption of nature?**
 
-**By no means.** For this image of God was ***implanted in the very nature of man***, and was connatural to man; whence without great corruption and loss of human nature it could not be lost. Hence Scripture says, **Ps. 14:1–3**, that man ***was made corrupt and abominable***; that ***much is the malice of men on the earth***, and ***the whole thought of the heart intent on evil at all times***, **Gen. 6:5**; that ***the sense and thought of man's heart is prone to evil from his youth***, **Gen. 8:21**; that ***from the heart of man go forth evil thoughts, homicides, adulteries, fornications, thefts, false testimonies, blasphemies***, etc. — **Matt. 15:19**; that ***the carnal mind is enmity against God***, or ***enmities against God*** — **Rom. 8:7**. Hence also the Church sings: *"Through the fall of Adam human substance and essence has been plainly corrupted."*
+**By no means.** For this image of God was ***implanted in the very nature of man***, and was connatural to man; whence without great corruption and loss of human nature it could not be lost. Hence Scripture says, **Ps. 14:1–3**, that man ***was made corrupt and abominable***; that ***the wickedness of man was great in the earth***, and ***every intent of the thoughts of his heart was only evil continually***, **Gen. 6:5**; that ***the imagination of man's heart is evil from his youth***, **Gen. 8:21**; that ***from the heart of man go forth evil thoughts, homicides, adulteries, fornications, thefts, false testimonies, blasphemies***, etc. — **Matt. 15:19**; that ***the carnal mind is enmity against God***, or ***enmities against God*** — **Rom. 8:7**. Hence also the Church sings: *"Through the fall of Adam human substance and essence has been plainly corrupted."*
 
 — ❦ —
 
@@ -3367,7 +3367,7 @@ These:
 
 **I.** That she **utterly corrupts man**. **Ps. 14** — *"They are corrupt, and are become abominable in their studies."* **Rom. 3:12–17** — *"They have all turned aside; they have together become unprofitable,"* etc.
 
-**II.** That **she is not idle, but ever brings forth evil fruits**. **Gen. 6:5; 8:21** — *"For the sense and thought of man's heart is prone to evil from his youth up."*
+**II.** That **she is not idle, but ever brings forth evil fruits**. **Gen. 6:5; 8:21** — *"every intent of the thoughts of his heart was only evil continually... the imagination of man's heart is evil from his youth."*
 
 **III.** That **she offends God** — **Rom. 1**.
 
@@ -3772,7 +3772,7 @@ To the Minor: **But the flesh of the regenerate does not *per se* reluctate the 
 
 **Actual sins are all the fruits of original sin** — that is, **all sins, internal and external — evil inclinations, sayings and deeds — against the Decalogue or Law of God**.
 
-And hither pertain the sayings: **Gen. 6:5** — *"But God seeing that the malice of men was much on the earth, and that all the thought of the heart was bent upon evil at all time,"* etc. Item **Gen. 8:21** — *"The thought of man's heart is evil from his childhood."* **Matt. 7:17** — *"a bad tree bears bad fruit."* **Matt. 15:19** — *"For out of the heart proceed evil thoughts, murders, adulteries,"* etc. **Gal. 5:19** — *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,"* etc.
+And hither pertain the sayings: **Gen. 6:5** — *"the Lord saw that the wickedness of man was great in the earth, and that every intent of the thoughts of his heart was only evil continually,"* etc. Item **Gen. 8:21** — *"the imagination of man's heart is evil from his youth."* **Matt. 7:17** — *"a bad tree bears bad fruit."* **Matt. 15:19** — *"For out of the heart proceed evil thoughts, murders, adulteries,"* etc. **Gal. 5:19** — *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,"* etc.
 
 **The heart of man is the fount and spring of actual sins by accident** — because it is corrupted by sin. Hence it comes to pass that **in the depraved heart there are those supreme and greatest sins: idolatry, superstition, contempt of God, incredulity, disobedience, evil concupiscence, contumacy, and enmity against the Law of God**. Hence also Paul saith, **Rom. 8:7**, that **the carnal mind is enmity against God**.
 
@@ -3847,7 +3847,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **But in which men are these sins?**
 
-**In all men.** **Gen. 6:5; Gen. 8:21** — *"For the sense and thought of man's heart are evil from his childhood."* This the **daily and proper experience of all men in their own person** testifies — just as Paul complains of himself, **Rom. 7:23**: *"I see (saith he) another law in my members, warring against the law of my mind."*
+**In all men.** **Gen. 6:5; Gen. 8:21** — *"the imagination of man's heart is evil from his youth."* This the **daily and proper experience of all men in their own person** testifies — just as Paul complains of himself, **Rom. 7:23**: *"I see (saith he) another law in my members, warring against the law of my mind."*
 
 — ❦ —
 
@@ -4978,7 +4978,7 @@ But **here the hinge turneth, and this is the status of the controversy**: namel
 
 *[Concerning the solution of the arguments of the adversaries in general, Luther T. 4/1, p. 84, most beautifully explained, p. 89.]*
 
-### Objection I. **Gen. 15**, it is said: *"I am thy reward."* *Ergo* by works we are justified before GOD.
+### Objection I. **Gen. 15:1**, it is said: *"I am your shield, your exceedingly great reward."* *Ergo* by works we are justified before GOD.
 
 **Respondeo**: **God speaketh not of the merit of eternal life, nor of the justification of Abraham before God, but of the rewards of good works, which befall and are given to believers out of grace on account of Christ**. And **Scripture Rom. 4 diserte denieth that Abraham was justified from works**.
 
@@ -5310,7 +5310,7 @@ For **it is impossible that a man with trust and cheerful countenance ask anythi
 
 **Altogether necessary — and on these accounts:**
 
-**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In thy seed shall all the nations of the earth be blessed."* **Gal. 3:16**: *"He does not say, 'And to seeds,' as of many, but as of one, 'And to your Seed,' who is Christ."* **1 Cor. 1:30**: *"Christ... became for us wisdom from God—and righteousness and sanctification and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
+**I.** Because **to Christ the blessed Lord alone is owed the honour of justification**. **Gen. 22:18**: *"In your seed all the nations of the earth shall be blessed."* **Gal. 3:16**: *"He does not say, 'And to seeds,' as of many, but as of one, 'And to your Seed,' who is Christ."* **1 Cor. 1:30**: *"Christ... became for us wisdom from God—and righteousness and sanctification and redemption."* **Rom. 3:27**: *"Where then is thy glorying? It is excluded,"* etc. **Abraham indeed hath many good works, and from them even hath glory, but not with God, Rom. 4:1–3**. **Christ therefore is our formal blessing, life, salvation, because we cleave to him through faith**.
 
 **II.** That **contrite and perturbed hearts may have a certain and firm consolation, and may be able to sustain and overcome the temptations of sin and the wrath of God** — **Ps. 130:4**: *"But there is forgiveness with You."* **Propitiation therefore thou wilt find not in Moses, not in the Law, not in thy works, but in Christ alone, and in his most holy merit**. For **in him alone and in no other, thy contrite heart and labouring conscience can safely confide** — and **it is impossible that in the terrors of conscience thou find firm consolation, unless thou confide and acquiesce in the sole obedience and satisfaction of Christ**.
 
@@ -5844,7 +5844,7 @@ And **hence also by contrast it is clear, that men not regenerate, who have not 
 
 **But how are good works to be done, that they please God?** [*[Luther: Gen. T. 1, pp. 74, 75; Gen. T. 2, p. 160; pp. 143, 144, 145, 146*]*]
 
-**In true faith and knowledge of Christ Jesus** — **Rom. 14:18**: *"For he who serves Christ in these things is acceptable to God."* **1 Pet. 2[:5]**: *"Offer spiritual sacrifices, acceptable to God through Jesus Christ."* Hence **Heb. 11:6** it is said: *"without faith it is impossible to please Him."* And **Gen. 4:5**: *"And the Lord had respect to Abel and to his gifts."*
+**In true faith and knowledge of Christ Jesus** — **Rom. 14:18**: *"For he who serves Christ in these things is acceptable to God."* **1 Pet. 2[:5]**: *"Offer spiritual sacrifices, acceptable to God through Jesus Christ."* Hence **Heb. 11:6** it is said: *"without faith it is impossible to please Him."* And **Gen. 4:4**: *"And the Lord respected Abel and his offering."*
 
 From which it is clear, that it is necessary that **the person first through faith in Christ be accepted of God, before his works please God — and that the person be justified before God not by and on account of works, but rather that the works, on account of the person accepted and faithful and justified, please God, and be truly good and accepted of God**.
 
@@ -6608,7 +6608,7 @@ The leper, **Matt. 8:2**, cleansing from leprosy; the Canaanite woman, **Matt. 1
 
 — ❦ —
 
-### Objection III. **Gen. 49 it is said: *"Let thy name be invoked upon them."* *Ergo* the invocation of Saints is prescribed.**
+### Objection III. **Gen. 48:16 it is said: *"Let my name be named upon them."* *Ergo* the invocation of Saints is prescribed.**
 
 **Respondeo**: **It is a fallacy of the figure of speech.** For **Jacob speaketh not of invocation to be directed to them, but he willeth that his own grandsons be named by the name of the fathers, so that this naming might attest that they are heirs of the promise made to the fathers**.
 
@@ -9144,11 +9144,11 @@ Also **the Sacraments can be outside the Church among heretics — *ergo* the us
 
 **For example, we shall see certain of the sayings of Scripture, from which more clearly than the meridian light shall appear, how shamefully the Roman Pontiff with his corrupteth the sacred Scripture, of which yet he boasteth**.
 
-**Gen. 1:16**: *"God made two great luminaries, the greater luminary to preside over the day, and the lesser luminary to preside over the night."* This saying the Pope interpreteth of himself and Caesar — and he saith he is the greater luminary, the Emperor the lesser. **Here anyone with hands may feel the horrible abuse of Scripture.**
+**Gen. 1:16**: *"God made two great lights: the greater light to rule the day, and the lesser light to rule the night."* This saying the Pope interpreteth of himself and Caesar — and he saith he is the greater luminary, the Emperor the lesser. **Here anyone with hands may feel the horrible abuse of Scripture.**
 
-**Gen. 3:15** it is said: *"He shall crush thy head"* — that is, **Christ from the seed of the woman shall crush the head of the Serpent** — for which the Pontiff substituteth: *"She, that is Mary, shall crush the head of the Serpent"* — which in the Latin Bibles printed by the Papists one may see.
+**Gen. 3:15** it is said: *"He shall bruise your head"* — that is, **Christ from the seed of the woman shall crush the head of the Serpent** — for which the Pontiff substituteth: *"She, that is Mary, shall crush the head of the Serpent"* — which in the Latin Bibles printed by the Papists one may see.
 
-**Gen. 48:16** it is said: *"Let my name be invoked upon them, and the name of my Fathers,"* etc. Here **against the Hebrew fonts, and against the mind of the Patriarch Jacob, they urge the Latin text — and thence attempt to evince, that the deceased saints are to be invoked** — when yet **the whole Church of the faithful of the Old Testament is ignorant of the invocation of Saints, and it never came into Jacob's mind, not even in a dream, to institute and hand down by those words the invocation of the dead**.
+**Gen. 48:16** it is said: *"Let my name be named upon them, and the name of my fathers,"* etc. Here **against the Hebrew fonts, and against the mind of the Patriarch Jacob, they urge the Latin text — and thence attempt to evince, that the deceased saints are to be invoked** — when yet **the whole Church of the faithful of the Old Testament is ignorant of the invocation of Saints, and it never came into Jacob's mind, not even in a dream, to institute and hand down by those words the invocation of the dead**.
 
 **Job 5:1** it is said: *"Turn thee to any of the Saints"* — and here similarly **they attempt to establish the invocation of the deceased Saints** — when yet **Eliphaz commandeth Job to show any Saint who innocent and without cause hath been afflicted by God** (as Job out of impatience contended) — **and in no wise treateth of the invocation of the deceased Saints**.
 
@@ -12012,7 +12012,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ### Objection II. **But unjust it is to shed blood. How then shall the Magistrate be from God?**
 
-**Respondeo**: **Unjust and iniquitous it is to shed blood by the private lust of vindication: but to the Magistrate this from God is enjoined. Gen. 9:6**: *"Whosoever shall have poured out human blood, his blood shall be poured out in Adam through man"* — **that is, through the legitimate Magistrate. Rom. 13:4**: *"not without cause beareth he the sword,"* &c.
+**Respondeo**: **Unjust and iniquitous it is to shed blood by the private lust of vindication: but to the Magistrate this from God is enjoined. Gen. 9:6**: *"Whoever sheds man's blood, by man his blood shall be shed"* — **that is, through the legitimate Magistrate. Rom. 13:4**: *"not without cause beareth he the sword,"* &c.
 
 — ❦ —
 
@@ -12272,7 +12272,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **But whence is it, that matrimony is a school of the cross?**
 
-**Respondeo**: **From the fall of the first parents, Adam and Eve, Gen. 3. And this even now cannot be changed: for where sin is, there also is chastisement and cross needful, whereby sin little by little is mortified. In matrimony remaining is sin: Ergo also chastisement and affliction in it is needful. And God to spouses maintenance and blessing hath promised indeed, Gen. 3, Ps. 128 — but with the exception of the cross**: *"In sweat of thy brow shalt thou eat thy bread,"* &c. **item**: *"in sorrow shalt thou bring forth sons,"* &c. **And since God, on account of Christ, hath plainly taken away from us eternal penalties, this light and momentary correction with even mind let us bear.**
+**Respondeo**: **From the fall of the first parents, Adam and Eve, Gen. 3. And this even now cannot be changed: for where sin is, there also is chastisement and cross needful, whereby sin little by little is mortified. In matrimony remaining is sin: Ergo also chastisement and affliction in it is needful. And God to spouses maintenance and blessing hath promised indeed, Gen. 3, Ps. 128 — but with the exception of the cross**: *"In the sweat of your face you shall eat bread,"* &c. **item**: *"In pain you shall bring forth children,"* &c. **And since God, on account of Christ, hath plainly taken away from us eternal penalties, this light and momentary correction with even mind let us bear.**
 
 — ❦ —
 
@@ -12696,7 +12696,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Must all men die?**
 
-**Respondeo**: **Very much. Ps. [90]:3; Heb. 9:27**: *"as it is appointed to men once to die."* **Gen. 3**: *"to earth thou shalt return."* **1 Cor. 15:22**: *"For as in Adam all die"* — **and daily experience testifieth this. Yet one dieth more quickly than another, and to all men the hour of death is plainly uncertain: whence also to a shadow men are compared. Ps. 39:7**: *"Nevertheless in an image passeth man; but even in vain is he disturbed."*
+**Respondeo**: **Very much. Ps. [90]:3; Heb. 9:27**: *"as it is appointed to men once to die."* **Gen. 3:19**: *"to dust you shall return."* **1 Cor. 15:22**: *"For as in Adam all die"* — **and daily experience testifieth this. Yet one dieth more quickly than another, and to all men the hour of death is plainly uncertain: whence also to a shadow men are compared. Ps. 39:7**: *"Nevertheless in an image passeth man; but even in vain is he disturbed."*
 
 — ❦ —
 
@@ -12964,7 +12964,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Doth man die soul and body together?**
 
-**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"The breath of life was breathed by God into the face of man."* **Eccles. 12:7**: *"Let the spirit return unto God, who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:5**: *"Into Your hand I commit my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
+**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"And the Lord God... breathed into his nostrils the breath of life."* **Eccles. 12:7**: *"Let the spirit return unto God, who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:5**: *"Into Your hand I commit my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
 
 ### Objection. **But God, Gen. 2, threatened death to the whole man, if he should sin?**
 
