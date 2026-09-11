@@ -51,18 +51,22 @@ Every Scripture citation (~574 quoted, ~324 unique book+chapter combos across ~6
 - **John** — all 21 chapters, 2026-09-10. Commits `8c17a12`, `18b672d`, `1fa03f8`.
 - **Matthew** — all citation instances, 2026-09-10. Commit `1918fa6`.
 - **Psalms** — all ~99 unique verses, 2026-09-10. Commits `86cebb9`, `efccf1b`, `74d0522`. **Numbering note:** Kirchner mostly uses Hebrew/Protestant Psalm chapter numbers, but for many verses he keeps Vulgate/LXX **verse** numbers (which count the psalm title as v.1, so his Ps 51:19 = NKJV 51:17, his Ps 45:3 = NKJV 45:2, his Ps 51:12–13 = NKJV 51:10–11, his Ps 31:6 = NKJV 31:5, his Ps 34:19 = NKJV 34:18, his Ps 39:12 = NKJV 39:11, his Ps 68:21 = NKJV 68:20, his Ps 90:8 = NKJV 90:7, his Ps 143:2 = NKJV 143:2 which matches, etc.). Where the verse-number is off-by-one, I updated the label to the NKJV number to match the NKJV wording. Chapter numbers were preserved as-is (they're already Hebrew).
-- **Eph.** — ~50 refs (next up)
-- **Isa.** — ~48 refs
-- **Luke** — ~47 refs
-- **1 Cor.** — ~41 refs
-- **Gal.** — ~38 refs
-- **Acts** — ~36 refs
-- **Heb.** — ~35 refs
-- **Gen.** — ~31 refs
-- **1 John** — ~26 refs
-- **Phil.** — ~24 refs, **2 Cor.** — ~24 refs
-- **Mark** — ~16 refs, **1 Tim.** — ~15 refs, **1 Pet.** — ~14 refs, **2 Tim.** — ~13 refs, **Ezek.** — ~12 refs, **Col.** — ~11 refs
+- **Ephesians** — 2026-09-10. Commit `37e21f8`.
+- **Isaiah** — 2026-09-10. Commit `ecb2b9a`.
+- **Luke** — 2026-09-10. Commit `aeacb09`.
+- **1 Corinthians** — 2026-09-10. Commit `7227e84`.
+- **Galatians** — 2026-09-10. Commit `3eb26e6`.
+- **Acts** — 2026-09-10. Commit `c3f4310`.
+- **Hebrews** — 2026-09-10. Commit `39d0ff9`.
+- **Genesis** — 2026-09-11. Commit `1d1e9ba`.
+- **1 John** — 2026-09-11. Commit `a344bb2`.
+- **Philippians** — 2026-09-11. Commit `df82906`.
+- **2 Corinthians** — 2026-09-11. Commit `6d9a190`.
+- **Mark** — ~16 refs (**next up**; queries were fetched but no edits landed before session pause)
+- **1 Tim.** — ~15 refs, **1 Pet.** — ~14 refs, **2 Tim.** — ~13 refs, **Ezek.** — ~12 refs, **Col.** — ~11 refs
 - Remaining (≤10 refs each): Deut., Jer., Dan., 2 Pet., Job, 1 Thess., Tit., Lam., Exod., 2 Sam., Hos., Amos, Joel, Mal., Malachi, Mic., Micah, Zech., Josh., Jud., Hab., Eccles., Ecclesiastes, 2 Kings, 3 Kings, 1 Chron., Rev., Apoc., James, 2 Thess., Ex.
+
+**Progress note (2026-09-11):** 16 of ~57 books done. Working tree clean at commit `6d9a190`. Resume at Mark.
 - **Apocrypha / Deuterocanon** (Wisd./Wisdom, Sirach/Ecclus., Tob.) — NKJV does not include these. Kirchner cites them as Vulgate. **Leave as-is** — do not fetch. Mark them "(Vulgate; not in NKJV)" in the citation label if a labelling pass is later desired, but not required.
 - **Book-name normalization** (defer or do at end): `Apoc.` → `Rev.`, `Ex.` → `Exod.`, `1 Peter` → `1 Pet.`, `Malachi` → `Mal.`, `Micah` → `Mic.`, `Daniel` → `Dan.`, `Ecclesiastes` → `Eccles.`. `3 Kings` = NKJV `1 Kings`; `2 Kings` (Vulgate numbering) = NKJV `2 Sam.` in some places — verify each with OCR before changing.
 
