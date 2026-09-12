@@ -246,7 +246,7 @@ Whence it is clear that God himself first ***consigned his word and revelations 
 
 **Only in the true Church of God**, to which God himself has made himself known by his Word and by illustrious miracles. [*Luther: T. 7, p. 93; Genesis T. 3, p. ; T. 3, p. 303*]
 
-**Deut. 4:6** — *"This is your wisdom, and understanding in the sight of peoples: that hearing all these precepts, they may say — Behold a wise and understanding people, a great nation. Nor is there any other nation so great, that hath gods so nigh them, as our God is present to all our petitions. For what other nation is there so renowned, that hath ceremonies and just judgements, and all the law which I set forth this day before your eyes."*
+**Deut. 4:6** — *"this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, 'Surely this great nation is a wise and understanding people.' For what great nation is there that has God so near to it, as the Lord our God is to us, for whatever reason we may call upon Him? And what great nation is there that has such statutes and righteous judgments as are in all this law which I set before you this day?"*
 
 And **Ps. 147:19–20** — *"He declares His word to Jacob, His statutes and His judgments to Israel. He has not dealt thus with any nation; and as for His judgments, they have not known them."*
 
@@ -608,7 +608,7 @@ This description, as easily may be seen, is drawn from the Word of God and from 
 
 **Is there only one God in essence, or only one divine essence?**
 
-**There is one in essence and nature, eternal, and true God.** **Deut. 6:4** — *"Hear, O Israel: The Lord our God is one Lord."* **Isa. 44:6** — *"Thus says the Lord, the King of Israel, and his Redeemer, the Lord of hosts: I am the First and I am the Last; besides Me there is no God."* And **v. 8** — *"You are My witnesses. Is there a God besides Me? Indeed there is no other Rock; I know not one."*
+**There is one in essence and nature, eternal, and true God.** **Deut. 6:4** — *"Hear, O Israel: The Lord our God, the Lord is one!"* **Isa. 44:6** — *"Thus says the Lord, the King of Israel, and his Redeemer, the Lord of hosts: I am the First and I am the Last; besides Me there is no God."* And **v. 8** — *"You are My witnesses. Is there a God besides Me? Indeed there is no other Rock; I know not one."*
 
 ### Objection I. One God could not suffice to govern and preserve all creatures. *Ergo* there are many Gods.
 
@@ -1634,7 +1634,7 @@ Besides, it is worthy of note what **Nicephorus** writes at **lib. 18, cap. 50**
 
 It is blasphemous, therefore, to teach that Christ-Man, or as Man, is not to be adored, but only as God. Whence **Cyril, ad Reginam**, writes: ***"If any say that the flesh of our Lord is unadorable, as of a man, and not adorable as of the Lord and God's flesh, him the Holy and Catholic Church anathematises."***
 
-### Objection II. Yet at **Jer. 17:5** we read: ***"Cursed is the man who trusts in man, and makes flesh his arm."*** But Christ's flesh is true flesh. *Ergo* cursed is he from the very mouth of God who to Christ's flesh, even in the very personal union, directs his invocation and adoration.
+### Objection II. Yet at **Jer. 17:5** we read: ***"Cursed is the man who trusts in man and makes flesh his strength."*** But Christ's flesh is true flesh. *Ergo* cursed is he from the very mouth of God who to Christ's flesh, even in the very personal union, directs his invocation and adoration.
 
 **Respondeo**: **Jeremiah's saying does not speak of the flesh or human nature of Christ, but of the flesh of all other men (Christ excepted).** Evilly and blasphemously the Adversaries refer this saying to the flesh which the Son of God assumed into the indissoluble unity of his Person, and exalted to the right hand of the Virtue of God — whence also she obtained the honour of adoration. Hence **Augustine, on John 14, Serm. 58 De verbis Domini**, says: *"What is it that thou dost adore his flesh — which thou dost not deny to be a creature — together with the divinity, and dost serve it no less than the Deity? But I adore the Lord's flesh — nay, the perfect humanity in Christ — for this reason, that assumed by the divinity, and united to the Deity, I confess ***not another and another, but one and the same*** God and Man to be the Son of God. For if thou separate the Man from GOD, I never believe him and serve him."*
 
@@ -2476,7 +2476,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **II.** That we may know, especially, that ***the gathering and preservation of the Church is God's work***. For otherwise, in such furies of Satan and of his organs, it would be impossible that the Church, ministry, and public assemblies could remain and be preserved.
 
-**III.** That we may learn that the ***changes of Empires are God's work, and in his hand*** — **Dan. 2:20–21**: *"Blessed be the name of the Lord from eternity and for evermore: for wisdom and fortitude are his. And he changeth times and ages, transferreth kingdoms and establisheth them: giveth wisdom to the wise, and knowledge to them that have understanding and discipline."*
+**III.** That we may learn that the ***changes of Empires are God's work, and in his hand*** — **Dan. 2:20–21**: *"Blessed be the name of God forever and ever, for wisdom and might are His. And He changes the times and the seasons; He removes kings and raises up kings; He gives wisdom to the wise and knowledge to those who have understanding."*
 
 **IV.** That we may know and certainly hold that ***even the hairs of our head are numbered***, and that not one of them falls to the ground without the will of the heavenly Father — **Matt. 10:29–30**.
 
@@ -2644,7 +2644,7 @@ Concerning ***evil events***, it must be known:
 
 **Are the Angels many?**
 
-**They are many, and indeed far more than the Devils** [*Luther: T. 5, p. 518*], who all stand in the custody of the Lord, and execute his mandates, guard and protect the pious. **Dan. 7:10** — *"Thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him."* **Ps. 91:11** — *"For He shall give His angels charge over you, to keep you in all your ways."* Let these promises console us against the rage and fury of the Devil.
+**They are many, and indeed far more than the Devils** [*Luther: T. 5, p. 518*], who all stand in the custody of the Lord, and execute his mandates, guard and protect the pious. **Dan. 7:10** — *"A thousand thousands ministered to Him; ten thousand times ten thousand stood before Him."* **Ps. 91:11** — *"For He shall give His angels charge over you, to keep you in all your ways."* Let these promises console us against the rage and fury of the Devil.
 
 — ❦ —
 
@@ -6050,7 +6050,7 @@ From these it is easily gathered, **what is to be judged concerning the elective
 
 **A mere figment this is.** For as **Rom. 8:3** hath it, **this is impossible for the Law**. And **Luke 17:10 Christ himself saith**: *"So likewise you, when you have done all those things which you are commanded, say: We are unprofitable servants. We have done what was our duty to do."* **Where here therefore are works of supererogation?**
 
-**Deut. 6:5 God commandeth**: *"Thou shalt love the Lord thy God with thy whole heart."* **Where then doth anything remain in us not-owed, that we can add or supererogate?**
+**Deut. 6:5 God commandeth**: *"You shall love the Lord your God with all your heart."* **Where then doth anything remain in us not-owed, that we can add or supererogate?**
 
 **The Lord's Prayer teacheth all the saints to confess that they are debtors — how then shall they exhibit works of supererogation?**
 
@@ -8618,7 +8618,7 @@ Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned
 
 — ❦ —
 
-### Argument II. **Daniel 7:9 and 11:31, of Antichrist it is said**: *"He shall take away the daily sacrifice."* ***Ergo* that there be a propitiatory sacrifice in the New Testament is necessary; but this is the Mass.**
+### Argument II. **Daniel 7:9 and 11:31, of Antichrist it is said**: *"they shall take away the daily sacrifices."* ***Ergo* that there be a propitiatory sacrifice in the New Testament is necessary; but this is the Mass.**
 
 **Respondeo**: **First, this is certain — Daniel speaketh properly of Antiochus, and his words are only allegorically transferred to Antichrist**.
 
@@ -9844,7 +9844,7 @@ Then at the same time he looketh to **the absolute perfection of the kingdom of 
 
 **Is it lawful in the Church to teach without a legitimate calling?** [*[T. 4/1, p. 7, 8; p. 367; T. 5, p. 346*]*]
 
-**He who willeth to teach in the Church of God, him it behoveth to be legitimately called** — either **immediately by God himself, as the Apostles; or mediately, as the disciples of the Apostles, and those who succeeded them in the Ministry**. Hence **the Apostle Gal. 1:7 upbraideth those who disturbed the Galatian Church without a calling**. And **Jer. 23:21 the Lord saith**: *"I sent not the Prophets, and they were running."*
+**He who willeth to teach in the Church of God, him it behoveth to be legitimately called** — either **immediately by God himself, as the Apostles; or mediately, as the disciples of the Apostles, and those who succeeded them in the Ministry**. Hence **the Apostle Gal. 1:7 upbraideth those who disturbed the Galatian Church without a calling**. And **Jer. 23:21 the Lord saith**: *"I have not sent these prophets, yet they ran."*
 
 — ❦ —
 
@@ -11998,7 +11998,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is not therefore the Magistrate truly an order divinely instituted?**
 
-**Respondeo**: **Very much: for Paul, Rom. 13:[1], saith**: *"There is no power but from God, and those which are, are ordained by God."* **The same also testify the sacred Scripture sayings, by which the office of the Magistrate is described, Rom. 13:3–4. Item, the examples of all pious kings and Magistrates, of whom in the sacred [writings] mention is made. Penalties also of those who resist the Magistrate: as also the sayings which prayers for the Magistrate to be made command. 1 Tim. 2:2**: *"for kings and all who are in authority,"* &c. **Jer. 29:7**: *"Seek the peace of the city, unto which I have caused you to be transferred, and pray for it unto the Lord, because in its peace shall be your peace."* **Which God would not command, if this order to himself were displeasing. The same also teach the examples of David, of Solomon, of Jehoshaphat, of Hezekiah, &c., whose prayers God heard, and to them help brought: as also the wondrous preservation of this order against the effort of the seditious.**
+**Respondeo**: **Very much: for Paul, Rom. 13:[1], saith**: *"There is no power but from God, and those which are, are ordained by God."* **The same also testify the sacred Scripture sayings, by which the office of the Magistrate is described, Rom. 13:3–4. Item, the examples of all pious kings and Magistrates, of whom in the sacred [writings] mention is made. Penalties also of those who resist the Magistrate: as also the sayings which prayers for the Magistrate to be made command. 1 Tim. 2:2**: *"for kings and all who are in authority,"* &c. **Jer. 29:7**: *"Seek the peace of the city where I have caused you to be carried away captive, and pray to the Lord for it; for in its peace you will have peace."* **Which God would not command, if this order to himself were displeasing. The same also teach the examples of David, of Solomon, of Jehoshaphat, of Hezekiah, &c., whose prayers God heard, and to them help brought: as also the wondrous preservation of this order against the effort of the seditious.**
 
 — ❦ —
 
@@ -12066,7 +12066,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. Let them know the power to which they are subject, or their Magistrate, to be an ordinance of God, and to God for this let them give thanks.**
 
-**II. Seriously and from the heart for their Magistrate let them beseech God. 1 Tim. 2:2**: *"for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence."* **Jer. 29:7**: *"Pray for it to the Lord,"* &c.
+**II. Seriously and from the heart for their Magistrate let them beseech God. 1 Tim. 2:2**: *"for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence."* **Jer. 29:7**: *"pray to the Lord for it,"* &c.
 
 **III. In the things of this life to the Magistrate of necessity let the subjects be subject, not only on account of wrath, but also on account of conscience, Rom. 13:5.**
 
@@ -13192,7 +13192,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is the future resurrection of the dead certain?**
 
-**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of these, who sleep in the dust of the earth, shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Surely I will cause breath to enter into you, and you shall live."*
+**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of those who sleep in the dust of the earth shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Surely I will cause breath to enter into you, and you shall live."*
 
 **The same also Christ expressly teacheth, John 5:28**: *"For the hour cometh, in which all, who are in the monuments, shall hear his voice, and shall proceed,"* &c.
 
