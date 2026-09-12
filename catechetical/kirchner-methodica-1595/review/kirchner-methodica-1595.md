@@ -850,7 +850,7 @@ It is clear therefore that **Christ has been begotten from eternity of the essen
 
 **IV. From the cultus of adoration.** [*Luther: T. 4, part 1, p. 47*] For Scripture attributes to him the ***cultus of adoration*** — **John 9:38**; **Ps. 45:12** — *"He is your Lord; worship Him"*; **Ps. 72:11** — *"Yes, all kings shall fall down before Him; all nations shall serve Him"*; **Jer. 23; Rom. 8**. It attributes to him therefore also ***the very Divinity***.
 
-**V. From his works.** [*Luther: T. 4, part 1, pp. 91, 119, f. b.*] For to him are attributed in Scripture such works as no creature can effect — as the work of ***redemption, reconciliation with God, gathering of the Church***, and the like. **John 1:29** — *"Behold! The Lamb of God who takes away the sin of the world!"* **Matt. 1:21** — *"you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
+**V. From his works.** [*Luther: T. 4, part 1, pp. 91, 119, f. b.*] For to him are attributed in Scripture such works as no creature can effect — as the work of ***redemption, reconciliation with God, gathering of the Church***, and the like. **John 1:29** — *"Behold! The Lamb of God who takes away the sin of the world!"* **Matt. 1:21** — *"you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners."*
 
 — ❦ —
 
@@ -1422,7 +1422,7 @@ The Sacramentarian allegory, following the Zwinglian tradition, leaves to Christ
 
 **Col. 1:19–20** — *"In him it hath pleased the Father that all the fulness should dwell, and through him to reconcile all things unto himself."*
 
-**1 Tim. 2:5–6** — *"There is one Mediator of God and men, the Man Christ Jesus, who gave himself a ransom for all."* These testimonies cannot be taken of the human nature alone.
+**1 Tim. 2:5–6** — *"There is one God and one Mediator between God and men, the Man Christ Jesus, who gave Himself a ransom for all."* These testimonies cannot be taken of the human nature alone.
 
 ### Objection I. But those words of the Apostle (*"the Man Jesus Christ"*) show that Christ is Mediator only according to the humanity. *Ergo*, etc.
 
@@ -1802,7 +1802,7 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 
 **In these four:**
 
-**I.** That he is our **Redeemer and Saviour**, who has freed us from sin and death, and gave his life or soul as victim for us — **Rom. 3:25; Isa. 53; 1 Tim. 2:5–6**: *"For there is one God, one also Mediator of God and men, the Man Christ Jesus, who gave himself a redemption for all."*
+**I.** That he is our **Redeemer and Saviour**, who has freed us from sin and death, and gave his life or soul as victim for us — **Rom. 3:25; Isa. 53; 1 Tim. 2:5–6**: *"For there is one God and one Mediator between God and men, the Man Christ Jesus, who gave Himself a ransom for all."*
 
 **II.** That **he rendered perfect obedience to the whole Law of God for us**, and fulfilled the whole Law. **Matt. 5:17** — *"I am not come to destroy, but to fulfil."* **Rom. 8:3–4** — *"For what the Law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh, that the righteous requirement of the Law might be fulfilled in us who do not walk according to the flesh but according to the Spirit."* **Rom. 10:4** — *"For Christ is the end of the Law for righteousness to everyone who believes."*
 
@@ -1842,7 +1842,7 @@ Hither let there also be referred the **examples of all sinners who, for Christ'
 
 **Do these concern only the holy?**
 
-**Not to another than to thee — a penitent sinner — do these pertain; nor for others than for thee, if thou doest penance, are they procured.** For the **holy Angels have no need of these**; the ***devils do not seek them***; therefore ***to thee*** they have been merited by Christ — **Rom. 3, 4, 5**; ***to thee*** they have been promised — **Matt. 9, 11; John 3:16**: *"whoever believes in Him should not perish but have everlasting life"* — **1 Tim. 1:15**: *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
+**Not to another than to thee — a penitent sinner — do these pertain; nor for others than for thee, if thou doest penance, are they procured.** For the **holy Angels have no need of these**; the ***devils do not seek them***; therefore ***to thee*** they have been merited by Christ — **Rom. 3, 4, 5**; ***to thee*** they have been promised — **Matt. 9, 11; John 3:16**: *"whoever believes in Him should not perish but have everlasting life"* — **1 Tim. 1:15**: *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners."*
 
 Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Mark 16:16** — *"He who believes and is baptized will be saved."* Unto this same in the sacred Supper, with the body and blood of Christ (delivered and shed for thee on the altar of the cross) thou hast been ***fed and given to drink***. Unto this same thou hast been ***sealed with the Spirit of adoption*** — **Rom. 8:16** — who ***gives testimony to thy spirit that thou art a son***, and who ***also for thee makes intercession with unspeakable groanings***. And ***Christ himself is for thee***, lest thou be condemned — **Rom. 8:34**: *"Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."*
 
@@ -2454,7 +2454,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **II. From the miracles which God has performed, both in the Old and in the New Testament.**
 
-**III. From the ***infallible Word of God***, in which he himself perspicuously testifies that he takes care of all creatures.** **1 Tim. 4:10** — *"For therefore we labour and are reviled, because we hope in the living God, who is the Saviour of all men, especially of the faithful."* **Ps. 145:8–9** — *"The Lord is gracious and full of compassion, slow to anger and great in mercy. The Lord is good to all, and His tender mercies are over all His works."* **Ps. 147:8–9** — *"Who covers the heavens with clouds, who prepares rain for the earth, who makes grass to grow on the mountains. He gives to the beast its food, and to the young ravens that cry."*
+**III. From the ***infallible Word of God***, in which he himself perspicuously testifies that he takes care of all creatures.** **1 Tim. 4:10** — *"For to this end we both labor and suffer reproach, because we trust in the living God, who is the Savior of all men, especially of those who believe."* **Ps. 145:8–9** — *"The Lord is gracious and full of compassion, slow to anger and great in mercy. The Lord is good to all, and His tender mercies are over all His works."* **Ps. 147:8–9** — *"Who covers the heavens with clouds, who prepares rain for the earth, who makes grass to grow on the mountains. He gives to the beast its food, and to the young ravens that cry."*
 
 Hither pertain the Scripture testimonies which expressly demonstrate that ***God cares for, cherishes, and preserves the political Magistrate***. **Ps. 127:1** — *"Unless the Lord guards the city, the watchman stays awake in vain."* **Ps. 147:13–14** — *"For He has strengthened the bars of your gates; He has blessed your children within you. He makes peace in your borders, and fills you with the finest wheat."* Similarly, those sayings of Scripture which testify that ***the household is God's care*** — **Ps. 128**: *"Blessed are all they that fear the Lord: that walk in his ways,"* etc.
 
@@ -3438,7 +3438,7 @@ And since they did not have a true notice of God's Law, how should they have kno
 
 That **God gave us the ministry of reconciliation** — **2 Cor. 5:18** — *"has given us the ministry of reconciliation."*
 
-That moreover **he certainly promises to all penitent sinners grace, mercy, and remission of sins** — **Ezek. 33:11**: *"As I live, saith the Lord God, I will not the death of the impious, but that he be converted from his way and live."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners, of whom I am chief."*
+That moreover **he certainly promises to all penitent sinners grace, mercy, and remission of sins** — **Ezek. 33:11**: *"As I live, saith the Lord God, I will not the death of the impious, but that he be converted from his way and live."* **1 Tim. 1:15** — *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."*
 
 That **he offers remission of sins even to the greatest and most unworthy sinners** — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Rom. 10:12** — *"For there is no distinction between Jew and Greek, for the same Lord over all is rich to all who call upon Him."*
 
@@ -3692,7 +3692,7 @@ To the Minor I respond: **Adam in this part, when we treat of original sin, is t
 
 **Fifthly**, [the error] of those who **in our age** have taught, that **original sin is a substance, or the corrupt nature itself, which is a substance, is original sin; and that there is no distinction between the nature of man and original sin**. And they expressly denied that **original sin is an evil accident in human nature**, but they said there is a distinction between the corrupt nature and original sin itself.
 
-**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the sinful passions which were aroused by the Law were at work in our members to bear fruit to death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17–18**: *"But now, it is no longer I who do it, but sin that dwells in me. For I know that in me — that is, in my flesh — nothing good dwells."* Item **v. 21**: *"evil is present with me."* Item **v. 23**: *"But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"According to the multitude of Your tender mercies, blot out my transgressions,"* etc. **Matt. 1:21** — *"And you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
+**The first thing that immoveable testimonies of Scripture evince** — **Rom. 3:23**: *"All have sinned, and fall short of the glory of God."* — *All have sinned*, saith he, not *all are sin itself*. **Rom. 7** — nearly the whole chapter is directed to this, to teach that **original sin is not the corrupt nature itself, or the essence of man, but rather an evil accident, and yet a horrid corruption**. For thus writes the Apostle **Rom. 7:5**: *"For when we were in the flesh, the sinful passions which were aroused by the Law were at work in our members to bear fruit to death,"* etc. Item **v. 14**: *"I am carnal, sold under sin."* Item **v. 17–18**: *"But now, it is no longer I who do it, but sin that dwells in me. For I know that in me — that is, in my flesh — nothing good dwells."* Item **v. 21**: *"evil is present with me."* Item **v. 23**: *"But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."* **1 John 1:7** — *"And the blood of Jesus Christ his Son cleanseth us from all sin."* **Ps. 51:1** — *"According to the multitude of Your tender mercies, blot out my transgressions,"* etc. **Matt. 1:21** — *"And you shall call His name Jesus, for He will save His people from their sins."* **1 Tim. 1:15** — *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners,"* etc. **Rom. 1:18** — *"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men"* — where **impiety and unrighteousness and the very man are not one and the same, but impiety and unrighteousness are in the man as in a subject**.
 
 From these and similar pronouncements of Sacred Scripture it is sufficiently manifest that **Scripture constitutes a manifest distinction between the corrupt nature of man and original sin, and expressly denies that original sin is a substance or the corrupt nature itself**. For it asserts that sin is in the members, not that the members themselves are sin. Item, that sin dwells in the flesh, but not that the flesh is sin itself. Item, that the blood of Christ cleanses us from sin. Now if the corrupt nature were original sin itself, the blood of Christ would cleanse us from the nature itself, and not the nature from sin. Item, that Christ saves sinners, not sin itself.
 
@@ -4166,7 +4166,7 @@ But since **no one keeps or does these**, no one of men **through his own works 
 
 **Chiefly for three causes.** [*[Luther: T. 6, pp. 583, 584; T. 4/1, pp. 98, 99, 103 sqq.*]*]
 
-**First**, **for preserving external discipline, and coercing sins in all orders and estates** — **1 Tim. 1:9**: *"Knowing this, that the Law is not laid for the just, but for the unjust."* And for this cause also **parents, magistrates, and teachers are ordained by God, that they may be custodians of external discipline according to the Law of God, and coerce sins**.
+**First**, **for preserving external discipline, and coercing sins in all orders and estates** — **1 Tim. 1:9**: *"the Law is not made for a righteous person, but for the lawless and insubordinate."* And for this cause also **parents, magistrates, and teachers are ordained by God, that they may be custodians of external discipline according to the Law of God, and coerce sins**.
 
 **Then, that it may reduce us men (otherwise secure) to a true knowledge of our sins, and work in our hearts wrath and terror** [*[Luther: T. 4/1, pp. 49–50*]*] — whence it is said **Rom. 3:20**: *"For by the Law is the knowledge of sin."* **Rom. 4:15** — *"For the Law brings about wrath."* For since we men by nature do not understand what is sin and the wrath of God, nor know how horribly our nature is corrupted, **God through the preaching of the Law kills and terrifies our hearts, contrites and humiliates them, that they may be humiliated in the judgement of God**, nor thus secure and obstinately glory and grow insolent, as otherwise, unless they be prepared by the severe preaching of the Law, they are wont to do. **If even the preaching of the Law effects nothing in us**, God applies **the cross, temptations, sicknesses, and afflictions of every kind, that he may soften our hearts, and through these terrors and dreads terrify our heart and conscience, and stir up and, as it were, vivify sin in the conscience** — for **without the Law sin is dead** — **Rom. 7:8–9**.
 
@@ -4418,7 +4418,7 @@ Or: **The Gospel is nothing other than the preaching and announcement of Christ,
 
 **What is the principal doctrine of the Gospel?**
 
-**The Gospel principally teaches Who Christ is** [*[Luther: T. 2, p. 305 fine; Postilla Domestica, Dom. 18 Trinit.; T. 4/1, p. 25 fine, p. 90 fine, pp. 114, 40*]*], **that we may acknowledge him — that he is our Saviour, who takes away from us sin and death, who frees us from all evils, who reconciles us to the eternal Father, and who, apart from our works, makes us just and saved** — **John 1:29**: *"Behold! The Lamb of God who takes away the sin of the world!"* **John 6:40** — *"And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will raise him up at the last day."* **1 Tim. 1:15** — *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners."*
+**The Gospel principally teaches Who Christ is** [*[Luther: T. 2, p. 305 fine; Postilla Domestica, Dom. 18 Trinit.; T. 4/1, p. 25 fine, p. 90 fine, pp. 114, 40*]*], **that we may acknowledge him — that he is our Saviour, who takes away from us sin and death, who frees us from all evils, who reconciles us to the eternal Father, and who, apart from our works, makes us just and saved** — **John 1:29**: *"Behold! The Lamb of God who takes away the sin of the world!"* **John 6:40** — *"And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will raise him up at the last day."* **1 Tim. 1:15** — *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners."*
 
 — ❦ —
 
@@ -5652,7 +5652,7 @@ And if anyone **according to the judgement of reason and the doctrine of the Law
 
 **Is it rightly said by some: that God — without respect of sin, by an eternal decree and purpose — hath ordained and predestined certain men to condemnation, who cannot be converted and saved?**
 
-**By no means.** For **nowhere doth Scripture so speak; but on the contrary expressly saith, 1 Tim. 2:4** — *"Our Saviour God willeth all men to be saved, and to come to the knowledge of the truth."* **Hos. 13:9** — *"Thy perdition is of thyself, Israel; only in me is thy help."*
+**By no means.** For **nowhere doth Scripture so speak; but on the contrary expressly saith, 1 Tim. 2:4** — *"God our Saviour desires all men to be saved and to come to the knowledge of the truth."* **Hos. 13:9** — *"Thy perdition is of thyself, Israel; only in me is thy help."*
 
 Wherefore **let all the pious abstain from blasphemies of this kind**, and **if from others they shall hear them uttered, let them shut ears and hearts against blasphemies of this kind**.
 
@@ -6064,7 +6064,7 @@ And to say it in one word: **detestable is the pride and execrable the blasphemy
 
 **Have the works of the faithful their own rewards and recompense?**
 
-**Very much so.** For so **Christ himself saith, Matt. 5:12**: *"Rejoice and be exceedingly glad, for great is your reward in heaven."* **1 Tim. 4:8**: *"Piety is useful to all things, having the promise of the life which now is, and of that to come — a faithful saying, and worthy of all acceptation."* **Rom. 8:18**: *"The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."*
+**Very much so.** For so **Christ himself saith, Matt. 5:12**: *"Rejoice and be exceedingly glad, for great is your reward in heaven."* **1 Tim. 4:8**: *"godliness is profitable for all things, having promise of the life that now is and of that which is to come — a faithful saying, and worthy of all acceptance."* **Rom. 8:18**: *"The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."*
 
 — ❦ —
 
@@ -6320,7 +6320,7 @@ But as concerns **the expiation and satisfaction of sin and of the punishments o
 
 **Nor doth this doctrine at all agree with the end of Christ's Passion**: for **Christ suffered, that he might satisfy for our sins and merit the remission of sins** — **not, however, that by his Passion he might acquire for our works, that they should be meritorious, and satisfy for sins**. **Isa. 53:5**: *"He was wounded for our transgressions"* — he saith not, "he was wounded for our good works, that to them he might acquire the virtue of expiating sins and of meriting eternal life."
 
-And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save sinners"* — he saith not: *"He came into this world to merit, that our works satisfy for sins, and merit blessedness."*
+And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into the world to save sinners"* — he saith not: *"He came into this world to merit, that our works satisfy for sins, and merit blessedness."*
 
 — ❦ —
 
@@ -6470,7 +6470,7 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into this world to save
 
 **Human reason excogitateth various ways, various means unto this — terrified by the consideration of the divine majesty**. **The Ethnics therefore — as also among the Jews the Pharisees — willed to merit God by their sacrifices**. **The Papists of our time call the deceased Saints as intercessors**.
 
-**We however must approach that Mediator and intercessor, whom God himself hath set forth as a propitiation by His blood, through faith** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God, one also Mediator of God and men, the man Christ Jesus, who gave himself as redemption for all."*
+**We however must approach that Mediator and intercessor, whom God himself hath set forth as a propitiation by His blood, through faith** — **Rom. 3:25; 1 Tim. 2:5**: *"There is one God and one Mediator between God and men, the Man Christ Jesus, who gave Himself a ransom for all."*
 
 For **this one — as hath now been demonstrated — is set forth by God, gave himself for us, remaineth for ever, is our High Priest, having an eternal Priesthood, intercedeth for us** — **Heb. 7:24–25; Rom. 8**. **He is our Lord and King, under whose jurisdiction and tutelage and aid we are — who also with a doubled Amen, John 16:23, hath promised us**: *"whatever you ask the Father in My name He will give you."*
 
@@ -8134,7 +8134,7 @@ If therefore **the Adversaries would obtain anything, they must first demonstrat
 
 ### Objection II. **Only they manducate the body of Christ, for whom Christ himself is delivered up or crucified. But for the unfaithful he is not crucified. *Ergo* etc.**
 
-**The Minor is simply false — that Christ was not crucified for the impious.** For **he himself is the Lamb of God, who taketh away the sins of the whole world**. And **1 Tim. 2:6 it is said**: *"Who gave himself as redemption for all."* **2 Cor. 5:14**: *"if One died for all, then all died."* **Isa. 53:6**: *"And the Lord has laid on Him the iniquity of us all."* **1 John 2:1**: *"He is the propitiation for our sins, and not for our only, but even for [those] of the whole world."*
+**The Minor is simply false — that Christ was not crucified for the impious.** For **he himself is the Lamb of God, who taketh away the sins of the whole world**. And **1 Tim. 2:6 it is said**: *"who gave Himself a ransom for all."* **2 Cor. 5:14**: *"if One died for all, then all died."* **Isa. 53:6**: *"And the Lord has laid on Him the iniquity of us all."* **1 John 2:1**: *"He is the propitiation for our sins, and not for our only, but even for [those] of the whole world."*
 
 But that **not all men by faith apprehend the death of Christ, and become partakers of the Passion of Christ, hence it followeth not — that only for the faithful he suffered and was crucified — but this cometh to pass on account of their own incredulity**. **No consequence therefore is of this argument** — and **the whole argument concludeth against the Adversaries by inversion**.
 
@@ -9504,7 +9504,7 @@ Finally, **the splendour of the Papist Church in riches, in magnificent ceremoni
 
 **I.** That **she useth the keys of the kingdom of the heavens in the name of Christ, and according to the words and institution of Christ remitteth and retaineth sins** — **Matt. 16:19; Matt. 18:18; John 20:23**.
 
-**II.** That **she judgeth of every doctrine** — **John 10:5**: *"They will by no means follow a stranger."* **Matt. 7:15**: *"Attend from false Prophets."* **1 John 4:1**: *"test the spirits, whether they are of God."* **1 Thess. 5:21**: *"Prove ye all things,"* etc. But **this judgement must be instituted according to the word of God, which alone is the judge of every doctrine of faith** — **1 Tim. 6:3**: *"If any one teach otherwise, and consent not to the sound speeches of our Lord Jesus Christ, and to that doctrine which is according to piety, he is proud, knowing nothing."* **Rom. 16:17**: *"Note those who cause divisions and offenses, contrary to the doctrine which you learned, and avoid them."* **John 17:17**: *"Your word is truth."*
+**II.** That **she judgeth of every doctrine** — **John 10:5**: *"They will by no means follow a stranger."* **Matt. 7:15**: *"Attend from false Prophets."* **1 John 4:1**: *"test the spirits, whether they are of God."* **1 Thess. 5:21**: *"Prove ye all things,"* etc. But **this judgement must be instituted according to the word of God, which alone is the judge of every doctrine of faith** — **1 Tim. 6:3**: *"If anyone teaches otherwise and does not consent to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which accords with godliness, he is proud, knowing nothing."* **Rom. 16:17**: *"Note those who cause divisions and offenses, contrary to the doctrine which you learned, and avoid them."* **John 17:17**: *"Your word is truth."*
 
 **III.** **She hath the power of choosing and constituting the Ministers of the Church, and of removing and avoiding the unfaithful and false Doctors.** **Acts, Matthias is presented by the whole Church. Acts 6, seven Deacons are named by the whole Church. Acts 12 [13], the Church of Antioch separates Paul and Barnabas unto the ministry of teaching.** When **Paul of Samosata undertook to teach against the analogy of faith concerning Christ and his eternal divinity, he is removed by the Church**.
 
@@ -9692,7 +9692,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 ## Objections
 
-### Objection I. **But 1 Tim. 3:15 the Church is said to be the *"column and firmament of truth."* *Ergo* she cannot err.** [*[T. 4/1, p. 23*]*]
+### Objection I. **But 1 Tim. 3:15 the Church is said to be the *"pillar and ground of the truth."* *Ergo* she cannot err.** [*[T. 4/1, p. 23*]*]
 
 **Respondeo**: **True is this saying of the true Church of God, who retaineth the foundation, and doth not contumaciously propugne false opinions against the articles of faith.** For **truth is both the column of the Church and the firmament — upon which she must lean, and upon which she must be founded**. Whence **Irenaeus, book 3, cap. 1, saith**: *"The Gospel handed down in the Scriptures is the foundation and column of our faith."* **But nothing pertaineth this saying to the Pontiff, Cardinals, Bishops, and his Prelates. For they reprobate the cornerstone — Ps. 118; blaspheme the merit of Christ; equate their own traditions to the word of God; pervert the Sacraments instituted by Christ; from the Supper of the Lord make an idolatric sacrifice for the living and the dead; propugne the fable of Purgatory; teach the invocation of Saints; and kill those contradicting**.
 
@@ -9852,7 +9852,7 @@ Then at the same time he looketh to **the absolute perfection of the kingdom of 
 
 **May anyone be admitted to the Ministry without accurate examination?**
 
-**By no means.** For **Paul, 1 Tim. 5:22, saith**: *"Impose thou hands hastily on no one, nor communicate with alien sins."* And **2 Tim. 2:2**: *"The things which thou hast heard from me through many witnesses, these commend to faithful men, who shall be fit to teach others also."*
+**By no means.** For **Paul, 1 Tim. 5:22, saith**: *"Do not lay hands on anyone hastily, nor share in other people's sins."* And **2 Tim. 2:2**: *"The things which thou hast heard from me through many witnesses, these commend to faithful men, who shall be fit to teach others also."*
 
 **See, if it please, the Council of Carthage, held in the year 400 after the birth of Christ, in which the examination of those to be ordained is most fully and perspicuously described.**
 
@@ -9964,7 +9964,7 @@ Whence **Jerome, Titus 1**: *"Presbyter is the same as Bishop"* — item, *"let 
 
 **It is certain that Christ instituted no peculiar rites or ceremonies to be observed in the ordination of Priests**: **He himself likewise consecrated and ordained his own Apostles by no certain ceremonies, as at Matt. 4:19 may be seen, where he simply saith**: *"Follow me."* **Acts 1, in the election of Matthias, they pray and cast lots**: **but no mandate was added, that Ministers should always be chosen by lot and confirmed**. **Acts 6, those seven Deacons by prayers and the imposition of hands are approved** — but by the progress of time in the Papacy many ceremonies were added to ordination, which in Scripture have no foundation. **Safest therefore is it, to acquiesce in the Apostolic simplicity — which also in the ordination of our Ministers we retain and imitate: those first diligently examined, legitimately called and elected — by prayers and imposition of hands ordaining and confirming them to the Ministry**.
 
-And thus ordination is described **1 Tim. 4:14**: *"Neglect not the grace which is in thee, which is given thee by prophecy, with the imposition of the hands of the presbytery."* And **2 Tim. 1:6**: *"For which cause I admonish thee, that thou stir up the grace of God, which is in thee by the imposition of my hands."*
+And thus ordination is described **1 Tim. 4:14**: *"Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership."* And **2 Tim. 1:6**: *"For which cause I admonish thee, that thou stir up the grace of God, which is in thee by the imposition of my hands."*
 
 — ❦ —
 
@@ -11998,7 +11998,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is not therefore the Magistrate truly an order divinely instituted?**
 
-**Respondeo**: **Very much: for Paul, Rom. 13:[1], saith**: *"There is no power but from God, and those which are, are ordained by God."* **The same also testify the sacred Scripture sayings, by which the office of the Magistrate is described, Rom. 13:3–4. Item, the examples of all pious kings and Magistrates, of whom in the sacred [writings] mention is made. Penalties also of those who resist the Magistrate: as also the sayings which prayers for the Magistrate to be made command. 1 Tim. 2:2**: *"for kings and for all who in sublimity are,"* &c. **Jer. 29:7**: *"Seek the peace of the city, unto which I have caused you to be transferred, and pray for it unto the Lord, because in its peace shall be your peace."* **Which God would not command, if this order to himself were displeasing. The same also teach the examples of David, of Solomon, of Jehoshaphat, of Hezekiah, &c., whose prayers God heard, and to them help brought: as also the wondrous preservation of this order against the effort of the seditious.**
+**Respondeo**: **Very much: for Paul, Rom. 13:[1], saith**: *"There is no power but from God, and those which are, are ordained by God."* **The same also testify the sacred Scripture sayings, by which the office of the Magistrate is described, Rom. 13:3–4. Item, the examples of all pious kings and Magistrates, of whom in the sacred [writings] mention is made. Penalties also of those who resist the Magistrate: as also the sayings which prayers for the Magistrate to be made command. 1 Tim. 2:2**: *"for kings and all who are in authority,"* &c. **Jer. 29:7**: *"Seek the peace of the city, unto which I have caused you to be transferred, and pray for it unto the Lord, because in its peace shall be your peace."* **Which God would not command, if this order to himself were displeasing. The same also teach the examples of David, of Solomon, of Jehoshaphat, of Hezekiah, &c., whose prayers God heard, and to them help brought: as also the wondrous preservation of this order against the effort of the seditious.**
 
 — ❦ —
 
@@ -12066,7 +12066,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. Let them know the power to which they are subject, or their Magistrate, to be an ordinance of God, and to God for this let them give thanks.**
 
-**II. Seriously and from the heart for their Magistrate let them beseech God. 1 Tim. 2:2**: *"for kings, and all who in sublimity are, that a quiet and tranquil life we may lead in all piety and chastity."* **Jer. 29:7**: *"Pray for it to the Lord,"* &c.
+**II. Seriously and from the heart for their Magistrate let them beseech God. 1 Tim. 2:2**: *"for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence."* **Jer. 29:7**: *"Pray for it to the Lord,"* &c.
 
 **III. In the things of this life to the Magistrate of necessity let the subjects be subject, not only on account of wrath, but also on account of conscience, Rom. 13:5.**
 
@@ -12330,7 +12330,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Did the Roman Pontiff act rightly, declaring matrimony as a carnal, and impure kind of life?**
 
-**Respondeo**: **By no means. What kind of life matrimony be, hitherto from the Word of God hath been demonstrated. Since however the Roman Pontiff be Antichrist, he must have been the enemy of this order, that might be fulfilled the prophecy of Daniel and of Paul concerning him. Dan. 11:37**: *"And the God of his fathers he shall not repute, and shall care neither for the love of women nor for any God,"* &c. **1 Tim. 4:1**: *"in the last times some shall depart from the faith, attending to doctrines of demons prohibiting to marry."*
+**Respondeo**: **By no means. What kind of life matrimony be, hitherto from the Word of God hath been demonstrated. Since however the Roman Pontiff be Antichrist, he must have been the enemy of this order, that might be fulfilled the prophecy of Daniel and of Paul concerning him. Dan. 11:37**: *"And the God of his fathers he shall not repute, and shall care neither for the love of women nor for any God,"* &c. **1 Tim. 4:1**: *"in latter times some will depart from the faith, giving heed to doctrines of demons, forbidding to marry."*
 
 — ❦ —
 
@@ -12344,7 +12344,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ### Objection II. **But (they except) we chiefly look to Priests, who from matrimony ought to abstain, that God they may please?**
 
-**Respondeo**: **Wheresoever they may look, certain it is, that Paul, Rom. 8, neither in general concerning matrimony, nor in specie concerning the matrimony of Priests, doth speak: And the Holy Spirit to Priests matrimony not only leaveth free, but expressly saith. 1 Tim. 3:2**: *"It behoveth a Bishop to be the husband of one wife."* **And by antithesis he placeth, that a mandate prohibiting to marry is a doctrine of demons. 1 Tim. 4:3–4.**
+**Respondeo**: **Wheresoever they may look, certain it is, that Paul, Rom. 8, neither in general concerning matrimony, nor in specie concerning the matrimony of Priests, doth speak: And the Holy Spirit to Priests matrimony not only leaveth free, but expressly saith. 1 Tim. 3:2**: *"A bishop must be the husband of one wife."* **And by antithesis he placeth, that a mandate prohibiting to marry is a doctrine of demons. 1 Tim. 4:3–4.**
 
 — ❦ —
 
