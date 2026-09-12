@@ -228,7 +228,7 @@ Whence it is clear that God himself first ***consigned his word and revelations 
 
 **By whom was the Word of God first made known?**
 
-**By God himself.** [*Luther: T. 8, p. 134; Genesis T. 3, p. 1; Genesis T. 4, pp. 119, 120*] As **Ps. 103:7** says: *"He made known His ways to Moses, His acts to the children of Israel."* And **2 Tim. 3:16** — *"All Scripture divinely inspired is profitable to teach, to reprove, to correct, to instruct in justice, that the man of God may be perfect, furnished to every good work."*
+**By God himself.** [*Luther: T. 8, p. 134; Genesis T. 3, p. 1; Genesis T. 4, pp. 119, 120*] As **Ps. 103:7** says: *"He made known His ways to Moses, His acts to the children of Israel."* And **2 Tim. 3:16** — *"All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, that the man of God may be complete, thoroughly equipped for every good work."*
 
 — ❦ —
 
@@ -330,7 +330,7 @@ Although there were faithful men before the Word of God was consigned to letters
 
 ### Objection IV. Do all things which are necessary to salvation, then, contain and are found in Scripture?
 
-**The Papists deny this — with the greatest injury and contumely to Scripture — but wrongly.** For at **2 Tim. 3:16–17** it is expressly written: *"All Scripture divinely inspired is profitable, that the man of God may be perfect, furnished unto every good work."* Whence also **Christ, Luke 16:29**, says: *"They have Moses and the Prophets: let them hear them."*
+**The Papists deny this — with the greatest injury and contumely to Scripture — but wrongly.** For at **2 Tim. 3:16–17** it is expressly written: *"All Scripture is given by inspiration of God, and is profitable... that the man of God may be complete, thoroughly equipped for every good work."* Whence also **Christ, Luke 16:29**, says: *"They have Moses and the Prophets: let them hear them."*
 
 Although the New Testament was at that time not yet written, yet **nothing has been written in it afterward which does not have its own immoveable foundation in the Old Testament** — as is clear from the harmony and consent of the Old and New Testaments.
 
@@ -4230,7 +4230,7 @@ From all these it is manifest that even the regenerate and faithful themselves *
 
 **Respondeo**: **It is a perverse twisting of the Pauline saying.** For the Apostle by those words does not speak of the fulfilment of the Law which in the regenerate is rather *begun* than *perfect* in this life, **but of the fulfilment of the Law made by Christ**, which is gratuitously reckoned to believers, to whom the Law or the perfect fulfilment of the Law is impossible on account of the infirmity of the flesh. For thus have the words of the Apostle: **"For what was impossible to the Law, in that it was weak through the flesh, God performed by sending his own Son in the likeness of the flesh of sin, and of sin damned sin in the flesh, that the justification of the Law might be fulfilled in us."**
 
-### Objection IX. **2 Tim. 4:7** — *"I have fought the good fight, I have consummated the course."* *Ergo* the regenerate satisfy the Law, and add somewhat over.
+### Objection IX. **2 Tim. 4:7** — *"I have fought the good fight, I have finished the race."* *Ergo* the regenerate satisfy the Law, and add somewhat over.
 
 **Respondeo**: **The Apostle does not treat there of the perfect fulfilment of the Law and of works of supererogation, but of his ministry and of the course of his vocation** — that he had performed it with all faith and diligence he could through the grace of Christ. **Therefore this saying makes nothing for the perfect fulfilment of the Law** — which the same Apostle, **Rom. 7**, in express words derogates from himself, saying: *"To perform I find not."* **Much less does it patronise the feigned works of supererogation.**
 
@@ -4674,7 +4674,7 @@ This explanation of the word *justify* [*[Luther: T. 7, pp. 186, 187; T. 4/1, p.
 
 **Sometimes it signifies the obedience which all men owe to God according to the prescription of the Law or Decalogue** — **Rom. 10:3**: *"For they being ignorant of God's righteousness, and seeking to establish their own righteousness, have not submitted to the righteousness of God."*
 
-**Sometimes it signifies the righteousness of good works, or of the new obedience begun in believers through the Holy Spirit** — **Rom. 6:13**: *"Present your members as instruments of righteousness to God."* **2 Tim. 2:22** — *"Follow righteousness,"* etc.
+**Sometimes it signifies the righteousness of good works, or of the new obedience begun in believers through the Holy Spirit** — **Rom. 6:13**: *"Present your members as instruments of righteousness to God."* **2 Tim. 2:22** — *"pursue righteousness,"* etc.
 
 **Sometimes indeed it signifies the righteousness of Christ, or the obedience and merit of Christ, which are imputed to faith** — **Rom. 3:22**: *"even the righteousness of God, through faith in Jesus Christ."* Item v. 25: *"to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed."*
 
@@ -5788,7 +5788,7 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 
 **Good works are called those works which God hath commanded, and which are done by the regenerate — the Holy Spirit being the Author — in faith and knowledge of Jesus Christ, unto the glory of God and the utility of the neighbour** — **Exod. 20; Rom. 14:17**: *"For the kingdom of God is not meat and drink, but righteousness and peace, joy in the Holy Spirit; for he that in this serveth Christ, pleaseth God, and is approved of men."* **Heb. 11:4**: *"By faith Abel offered to God a more excellent sacrifice than Cain."* **Matt. 5:16**: *"So let your light shine before men, that they may see your good works, and glorify your Father who is in the heavens."*
 
-**The works of the faithful, or of Christians, which they do according to the prescription and mandate of God, are called *good* — Eph. 2:10** *"created in good works"*; **2 Tim. 3:17** *"instructed for every good work"* — **not that they are perfectly and absolutely good, and could stand in the judgement of God and consist in it, but because they are done by the regenerate and faithful, and out of the treasure of a good heart directed by the Holy Spirit, and proceed unto good work as created**.
+**The works of the faithful, or of Christians, which they do according to the prescription and mandate of God, are called *good* — Eph. 2:10** *"created in good works"*; **2 Tim. 3:17** *"thoroughly equipped for every good work"* — **not that they are perfectly and absolutely good, and could stand in the judgement of God and consist in it, but because they are done by the regenerate and faithful, and out of the treasure of a good heart directed by the Holy Spirit, and proceed unto good work as created**.
 
 — ❦ —
 
@@ -9852,7 +9852,7 @@ Then at the same time he looketh to **the absolute perfection of the kingdom of 
 
 **May anyone be admitted to the Ministry without accurate examination?**
 
-**By no means.** For **Paul, 1 Tim. 5:22, saith**: *"Do not lay hands on anyone hastily, nor share in other people's sins."* And **2 Tim. 2:2**: *"The things which thou hast heard from me through many witnesses, these commend to faithful men, who shall be fit to teach others also."*
+**By no means.** For **Paul, 1 Tim. 5:22, saith**: *"Do not lay hands on anyone hastily, nor share in other people's sins."* And **2 Tim. 2:2**: *"The things that you have heard from me among many witnesses, commit these to faithful men who will be able to teach others also."*
 
 **See, if it please, the Council of Carthage, held in the year 400 after the birth of Christ, in which the examination of those to be ordained is most fully and perspicuously described.**
 
@@ -9964,7 +9964,7 @@ Whence **Jerome, Titus 1**: *"Presbyter is the same as Bishop"* — item, *"let 
 
 **It is certain that Christ instituted no peculiar rites or ceremonies to be observed in the ordination of Priests**: **He himself likewise consecrated and ordained his own Apostles by no certain ceremonies, as at Matt. 4:19 may be seen, where he simply saith**: *"Follow me."* **Acts 1, in the election of Matthias, they pray and cast lots**: **but no mandate was added, that Ministers should always be chosen by lot and confirmed**. **Acts 6, those seven Deacons by prayers and the imposition of hands are approved** — but by the progress of time in the Papacy many ceremonies were added to ordination, which in Scripture have no foundation. **Safest therefore is it, to acquiesce in the Apostolic simplicity — which also in the ordination of our Ministers we retain and imitate: those first diligently examined, legitimately called and elected — by prayers and imposition of hands ordaining and confirming them to the Ministry**.
 
-And thus ordination is described **1 Tim. 4:14**: *"Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership."* And **2 Tim. 1:6**: *"For which cause I admonish thee, that thou stir up the grace of God, which is in thee by the imposition of my hands."*
+And thus ordination is described **1 Tim. 4:14**: *"Do not neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the eldership."* And **2 Tim. 1:6**: *"Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands."*
 
 — ❦ —
 
@@ -11748,7 +11748,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is not the Church in these lands subject to the cross?**
 
-**Respondeo**: **Very much: as the whole sacred Scripture of the Old and New Testament aboundantly testifieth. Ps. 38:18**: *"For I am prepared for scourges, and my sorrow is in my sight always."* **2 Tim. 3:12**: *"And all who will live piously in Christ Jesus shall suffer persecution."*
+**Respondeo**: **Very much: as the whole sacred Scripture of the Old and New Testament aboundantly testifieth. Ps. 38:18**: *"For I am prepared for scourges, and my sorrow is in my sight always."* **2 Tim. 3:12**: *"all who desire to live godly in Christ Jesus will suffer persecution."*
 
 **The same also the examples of all Saints, of Patriarchs, of Prophets, of Apostles, of Martyrs, and of all the pious from the exordium of the world do teach. Yea, the Son of God himself, the head of the Church, was subject to the passion of the cross — not on account of his own, but on account of the sins of the whole world. Isa. 53:[5]**: *"He was wounded on account of our iniquities, was bruised on account of our crimes: the chastisement of our peace was upon him, by his stripes we were healed."*
 
@@ -11902,7 +11902,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **III. That the corruption and magnitude of sin in human nature they may attend more and deplore, than the secure sons of this age, who neither for sin nor for the wrath of God do care. Ps. 78:34**: *"When he slew them, they sought him, and turned again, and at daybreak came unto him: and they remembered, that God was their helper, and God most high their redeemer: and they loved him in their mouth, and with their tongue they lied to him: but their heart was not right with him, nor were they held faithful in his Testament."* **Mic. 7:9**: *"I will bear the wrath of the Lord, because I have sinned against him."* **Ps. 38:18–19**: *"For I am prepared for scourges, and my sorrow is in my sight always: for my iniquity I will announce, and I will think on for my sin."*
 
-**IV. That the various passions of this time may be immovable testimony of immortality and of eternal glory, which in the pious shall be revealed. Rom. 8:18**: *"For I reckon, that the passions of this time are not condign to the future glory, which shall be revealed in us."* **2 Tim. 2:11**: *"A faithful saying: For if we have died together, we shall also live together."* **The passions of the Prophets, of the Apostles, of the Martyrs are infallible testimony of their future life. On the contrary also of the future condemnation of the persecutors, who did no poenitentia.**
+**IV. That the various passions of this time may be immovable testimony of immortality and of eternal glory, which in the pious shall be revealed. Rom. 8:18**: *"For I reckon, that the passions of this time are not condign to the future glory, which shall be revealed in us."* **2 Tim. 2:11**: *"This is a faithful saying: For if we died with Him, we shall also live with Him."* **The passions of the Prophets, of the Apostles, of the Martyrs are infallible testimony of their future life. On the contrary also of the future condemnation of the persecutors, who did no poenitentia.**
 
 **V. That the very afflictions of the pious may testify, that they seek not this life and its pleasures, but only the glory of God and eternal salvation, and that they hold the Gospel not on account of riches, honours, and pleasures. But because they know that to be the immovable truth of God — which before they would lose, they would rather undergo a thousand deaths. As the histories of the Prophets, of the Apostles, and of all holy Martyrs abundantly do teach.**
 
@@ -12770,7 +12770,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **II. The sweetest promise of the Gospel concerning the gratuitous remission of sins and the donation of eternal life on account of Christ. John 3:16**: *"For God so loved the world that He gave His only begotten Son."*
 
-**III. The goods of the future life in Christ reposited to himself and to be received — namely gladness, life, rest and salvation eternal, and true beatitude: Communication with God himself, with his holy Angels, and with the blessed men. 2 Tim. 4:8**: *"In the rest reposited to me is the crown of righteousness, which the Lord shall render to me in that day, a just judge: not only however to me, but also to those who love his Advent."* **Cyprian de mortalitate**: *"To me to live is Christ, and to die is gain. Gain greatest — now not to be held by the snares of the age, now to be made obnoxious to no sins and vices of the flesh, exempt from the pressures which anguish, and freed from the poisoned jaws of the devil, to the gladness of eternal salvation, Christ calling, to set forth."*
+**III. The goods of the future life in Christ reposited to himself and to be received — namely gladness, life, rest and salvation eternal, and true beatitude: Communication with God himself, with his holy Angels, and with the blessed men. 2 Tim. 4:8**: *"Finally, there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will give to me on that Day, and not to me only but also to all who have loved His appearing."* **Cyprian de mortalitate**: *"To me to live is Christ, and to die is gain. Gain greatest — now not to be held by the snares of the age, now to be made obnoxious to no sins and vices of the flesh, exempt from the pressures which anguish, and freed from the poisoned jaws of the devil, to the gladness of eternal salvation, Christ calling, to set forth."*
 
 — ❦ —
 
