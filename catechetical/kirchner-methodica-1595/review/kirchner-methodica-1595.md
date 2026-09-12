@@ -1094,7 +1094,7 @@ It is, however, a ***personal union***, whereby the ***λόγος*** — remaini
 
 **Rightly is it said.**
 
-**I.** For **Col. 2:9** it is written: ***"In Christ dwells the whole plenitude of the Divinity"*** — that is, ***in his flesh, corporeally***; which is nothing else than that the Divinity of the Word is communicated to the assumed nature in Person, or on account of the personal union.
+**I.** For **Col. 2:9** it is written: ***"In Him dwells all the fullness of the Godhead bodily"*** — that is, ***in his flesh, corporeally***; which is nothing else than that the Divinity of the Word is communicated to the assumed nature in Person, or on account of the personal union.
 
 **II.** In vain would the Man Christ be called God ***only in title***, and not truly, if he had ***no communion*** with the Divinity of the Word. For nothing can truly be called ***God*** apart from a ***true communion of the Divinity***.
 
@@ -1420,7 +1420,7 @@ The Sacramentarian allegory, following the Zwinglian tradition, leaves to Christ
 
 **2 Cor. 5:18–19** — *"all things are of God, who has reconciled us to Himself through Jesus Christ... that is, that God was in Christ reconciling the world to Himself."*
 
-**Col. 1:19–20** — *"In him it hath pleased the Father that all the fulness should dwell, and through him to reconcile all things unto himself."*
+**Col. 1:19–20** — *"For it pleased the Father that in Him all the fullness should dwell, and by Him to reconcile all things to Himself."*
 
 **1 Tim. 2:5–6** — *"There is one God and one Mediator between God and men, the Man Christ Jesus, who gave Himself a ransom for all."* These testimonies cannot be taken of the human nature alone.
 
@@ -5194,7 +5194,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **But who worketh faith in hearts?** [*[Luther: T. 2, pp. 298, 299; T. 5, p. …; T. 4/1, p. 24; T. 3/1, p. 79 f.b., p. 429*]*]
 
-**The efficient cause of faith in Christ is the Holy Spirit himself, who out of mere grace kindleth this confidence in the heart.** For **it is the work of the Holy Spirit alone, to vivify dead hearts, and to kindle faith in them**. Whence **Phil. 1:29** it is said: *"For to you it has been granted on behalf of Christ, not only to believe in Him,"* etc. **Col. 2:12**: *"in whom also ye have risen through the faith of the operation of God."* **Plainly therefore they teach falsely, who hand down that faith is acquired from free will and human powers**.
+**The efficient cause of faith in Christ is the Holy Spirit himself, who out of mere grace kindleth this confidence in the heart.** For **it is the work of the Holy Spirit alone, to vivify dead hearts, and to kindle faith in them**. Whence **Phil. 1:29** it is said: *"For to you it has been granted on behalf of Christ, not only to believe in Him,"* etc. **Col. 2:12**: *"in which you also were raised with Him through faith in the working of God."* **Plainly therefore they teach falsely, who hand down that faith is acquired from free will and human powers**.
 
 — ❦ —
 
@@ -6038,7 +6038,7 @@ But **hence it followeth not, that in general or universally good works are noxi
 
 **This is certain — that no such works are to be excogitated or prescribed to others.** For **God himself hath prohibited this — Deut. 12:28**: *"Observe and hearken to all things which I command thee."* **V. 32**: *"What I command thee, only this do to the Lord, neither add anything nor diminish."*
 
-**How much God was inflamed against the people of Israel**, because **they built high places, and offered on them, one may abundantly see, among others, 3 Kings 14; Ezek. 16**. To this **Christ himself reprobateth and damneth the mandates of men — Matt. 15:9**. **Col. 2:18**: *"Let no man seduce you, willing in the humility and religion of Angels — those things which he hath not seen — to walk."*
+**How much God was inflamed against the people of Israel**, because **they built high places, and offered on them, one may abundantly see, among others, 3 Kings 14; Ezek. 16**. To this **Christ himself reprobateth and damneth the mandates of men — Matt. 15:9**. **Col. 2:18**: *"Let no one cheat you of your reward, taking delight in false humility and worship of angels, intruding into those things which he has not seen."*
 
 From these it is easily gathered, **what is to be judged concerning the elective works and cults of the Papists**.
 
@@ -12460,7 +12460,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ### Objection II. **But is it not necessary, that in the Church there be some visible head?**
 
-**Respondeo**: **But sacred Scripture teacheth no head of the Church, save Jesus Christ alone. Eph. 1:22**: *"And him Christ he gave head above all things to the Church."* **Col. 1:18**: *"And he is the head of the body, the Church."*
+**Respondeo**: **But sacred Scripture teacheth no head of the Church, save Jesus Christ alone. Eph. 1:22**: *"And him Christ he gave head above all things to the Church."* **Col. 1:18**: *"And He is the head of the body, the Church."*
 
 — ❦ —
 
