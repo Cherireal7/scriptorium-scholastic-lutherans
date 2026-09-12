@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Norma Veritatis 1588 — Astra vs. Opus 4.7</title>
+<style>
+  @page { size: A4 landscape; margin: 12mm; }
+  body {
+    font-family: "EB Garamond", "Garamond", "Cambria", "Georgia", serif;
+    font-size: 10pt;
+    line-height: 1.35;
+    color: #111;
+    margin: 0;
+  }
+  h1 { font-size: 15pt; margin: 0 0 2mm 0; text-align: center; }
+  h2.sub { font-size: 11pt; margin: 0 0 6mm 0; text-align: center; font-style: italic; font-weight: normal; color: #444; }
+  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  colgroup col.label { width: 12%; }
+  colgroup col.text  { width: 44%; }
+  th {
+    background: #eee;
+    border: 1px solid #999;
+    padding: 4px 6px;
+    text-align: left;
+    font-size: 10pt;
+    font-variant: small-caps;
+    letter-spacing: 0.5px;
+  }
+  td {
+    border: 1px solid #bbb;
+    padding: 6px 8px;
+    vertical-align: top;
+    page-break-inside: avoid;
+  }
+  td.label {
+    background: #f6f6f6;
+    font-variant: small-caps;
+    letter-spacing: 0.4px;
+    font-size: 9pt;
+    color: #333;
+  }
+  strong { color: #000; }
+  em { color: #333; }
+  .astra strong { color: #4a1a6b; }
+  .opus  strong { color: #1a3a6b; }
+  .num { font-weight: bold; }
+  .divergence {
+    background: #fff7d6;
+  }
+  .note {
+    font-size: 8.5pt;
+    color: #a04000;
+    font-style: italic;
+    margin-top: 3mm;
+  }
+  hr.thin { border: 0; border-top: 1px dashed #999; margin: 2mm 0; }
+</style>
+</head>
+<body>
+
+<h1>Norma Veritatis (Andreae &amp; Liebler, 1588) &mdash; Translation Comparison</h1>
+<h2 class="sub">GPT &ldquo;Astra&rdquo; (left) &nbsp; vs. &nbsp; Claude Opus 4.7 (right) &nbsp; &mdash; aligned by content, not by thesis number</h2>
+
+<table>
+  <colgroup>
+    <col class="label"><col class="text"><col class="text">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th>Section</th>
+      <th>GPT &ldquo;Astra&rdquo;</th>
+      <th>Claude Opus 4.7</th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+  <tr>
+    <td class="label">Title block</td>
+    <td class="astra">
+      <p><em>Respondent: Master Jakob Liebler, Minister of the Church at Regensburg &mdash; 10 January 1588.</em></p>
+      <p>Theological Theses concerning the <strong>Rule of Truth</strong> (<em><strong>norma veritatis</strong></em>), and the <strong>Judge</strong> (<em><strong>iudex</strong></em>) of Controversies in Religion.</p>
+      <p>Concerning which, divine grace assisting, under the presidency of the reverend and most renowned man, Jakob Andreae, Doctor of Sacred Theology, most worthy Provost of the <strong>Church</strong> and Chancellor of the University of T&uuml;bingen, his honoured preceptor, Master Jakob Liebler, Minister of the <strong>Church</strong> at Regensburg, shall answer in the Gymnasium of Regensburg, upon the tenth day of January, 1588.</p>
+      <p>A Disputation concerning the <strong>Rule of Truth</strong> and the <strong>Judge</strong> of Controversies in Religion.</p>
+    </td>
+    <td class="opus">
+      <p><em>Under the presidency of the Reverend and most illustrious man Jakob Andreae, Doctor of Sacred Theology, most worthy Provost and Chancellor of the Church and Academy of T&uuml;bingen, his revered teacher; at the Gymnasium of Regensburg, M. Jakob Liebler, Minister of the Church at Regensburg, will respond on the tenth day of January, 1588. Regensburg: printed by Johann Burger.</em></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Quaestio</td>
+    <td class="astra">
+      Seeing that, from the days of the Apostles even unto this present day, divers heresies and contentions have exercised the <strong>Church</strong> (<em><strong>Ecclesia</strong></em>) of God, it is not without cause demanded: What ought to be the sole <strong>rule of truth</strong> (<em><strong>regula veritatis</strong></em>) and the competent <strong>judge</strong> in controversies of religion?
+    </td>
+    <td class="opus">
+      Seeing that from the very days of the Apostles down unto the present day sundry <strong>heresies</strong> and contentions have exercised the Church, not without cause is it asked: what is that one <strong>rule of truth</strong> (<em>unica regula veritatis</em>) and the fitting <strong>judge</strong> in controversies of religion?
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 1<br>Scripture as sole norm</td>
+    <td class="astra">
+      <span class="num">1.</span> That Holy Scripture, of the Old and New Testament, is the sole <strong>rule of truth</strong> and <em><strong>norma</strong></em>, according to which all controversies in the doctrine of religion are to be judged, is amongst all the truly godly a matter placed beyond all doubt.
+    </td>
+    <td class="opus">
+      <span class="num">1.</span> That the <strong>Sacred Scripture</strong> of the Old and New Testament is the sole rule and norm of truth (<em>unica regula et norma veritatis</em>), out of which all controversies in the doctrine of religion are to be judged: this is placed beyond all doubt among all truly godly men.
+    </td>
+  </tr>
+
+  <tr class="divergence">
+    <td class="label">Thesis 2 &mdash; Rom. 3:4 + Bereans (Acts 17:11)
+      <div class="note">Astra split into two theses (2 &amp; 3); Opus kept together as one (matching OCR&rsquo;s numeric marker).</div>
+    </td>
+    <td class="astra">
+      <span class="num">2.</span> For <strong>Rom. 3:4</strong>: <em>&ldquo;Every man is a liar; but God alone is true in his word.&rdquo;</em>
+      <hr class="thin">
+      <span class="num">3.</span> Hence we read it written concerning the Bereans, <strong>Acts 17:11</strong>, that, <em>after they had received with all readiness the word of the Lord preached by Paul and Silas, they searched the Scriptures daily, whether these things were so, according as they had been preached by the Apostles.</em>
+    </td>
+    <td class="opus">
+      <span class="num">2.</span> For <em>&ldquo;every man is a liar, but God alone is true in his word&rdquo;</em> (<strong>Rom. 3:4</strong>). Hence we read written concerning the Beroeans, that after they had with all eagerness received the word of the Lord preached by Paul and Silas, <em>&ldquo;they daily searched the Scriptures, whether these things were so&rdquo;</em> &mdash; even in the very manner in which they had been preached by the Apostles (<strong>Acts 17:11</strong>).
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 3 (Opus) / 4 (Astra)<br>Apostles &gt; all doctors, Gal. 1:8</td>
+    <td class="astra">
+      <span class="num">4.</span> For if it was lawful to inquire into the doctrine of the Apostles, which was undoubted, and to take judgment from the Prophetic writings, much more must all the writings of all doctors, in all ages, be subject unto the writings of the Prophets and Apostles as unto their <strong>judge</strong>; according to that saying of Paul, <strong>Gal. 1:8</strong>: <em>&ldquo;If an angel from heaven preach another Gospel,&rdquo; &c.</em>
+    </td>
+    <td class="opus">
+      <span class="num">3.</span> For if it was lawful to inquire into the Apostles&rsquo; doctrine, which was itself undoubted, and to take judgment out of the Prophetic writings, then much more of necessity must all the writings of all doctors in every age be subjected, as unto a judge, to the writings of the <strong>Prophets and Apostles</strong>; according to that saying of Paul: <em>&ldquo;If an angel from heaven should preach any other gospel [unto you than that which we have preached], let him be accursed&rdquo;</em> (<strong>Gal. 1:8</strong>).
+    </td>
+  </tr>
+
+  <tr class="divergence">
+    <td class="label">Thesis 4 (Opus) / 5 (Astra) &mdash; four Scripture testimonies
+      <div class="note">Astra uses Vulgate numbering (Ps. 118:105); Opus uses KJV/modern (Ps. 119:105).</div>
+    </td>
+    <td class="astra">
+      <span class="num">5.</span> Hither are to be referred those notable testimonies of the Prophets and Apostles. <strong>Isa. 8:20</strong>: <em>&ldquo;To the law and to the testimony: but if they speak not according to this word,&rdquo; &c.</em> Again, <strong>Ps. 118:105</strong>: <em>&ldquo;Thy word is a lamp unto my feet.&rdquo;</em> Again, <strong>Matt. 17:5</strong>: <em>&ldquo;This is my beloved Son, in whom I am well pleased; hear ye him.&rdquo;</em> Again, <strong>2 Pet. 1:19</strong>: <em>&ldquo;We have a more sure prophetic word, whereunto ye do well to give heed, as unto a lamp shining in a dark place, until the day dawn.&rdquo;</em>
+    </td>
+    <td class="opus">
+      <span class="num">4.</span> Hither belong the illustrious testimonies of the Prophets and Apostles: <em>&ldquo;To the law and to the testimony; if they speak not according to this word, it is because there is no light in them&rdquo;</em> (<strong>Isa. 8:20</strong>). Item: <em>&ldquo;Thy word is a lamp unto my feet, and a light unto my path&rdquo;</em> (<strong>Ps. 119:105</strong>). Item: <em>&ldquo;This is my beloved Son, in whom I am well pleased; hear ye him&rdquo;</em> (<strong>Matt. 17:5</strong>). Item: <em>&ldquo;We have also a more sure word of prophecy, whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn&rdquo;</em> (<strong>2 Pet. 1:19</strong>).
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 5 (Opus) / 6 (Astra)<br>Obscure passages, clearer places</td>
+    <td class="astra">
+      <span class="num">6.</span> For although certain things difficult and obscure do occur in some places of Scripture, yet the way of salvation is unfolded through other and clearer places in the same.
+    </td>
+    <td class="opus">
+      <span class="num">5.</span> For although certain difficult and obscure things occur in some places of Scripture, yet the doctrine of <strong>salvation</strong> is explained through other, plainer places within the same Scripture.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 6 (Opus) / 7 (Astra)<br>Church&rsquo;s authority confirmed (Matt. 18:17)</td>
+    <td class="astra">
+      <span class="num">7.</span> Neither is anything taken away from the judgment of the <strong>Church</strong> by this <strong>judge</strong>; rather, her authority is confirmed, concerning whom Christ saith, <strong>Matt. 18:17</strong>: <em>&ldquo;If he hear not the Church, let him be unto thee as an heathen man and a publican.&rdquo;</em>
+    </td>
+    <td class="opus">
+      <span class="num">6.</span> Yet by this Judge nothing at all is taken away from the judgment of the <strong>Church</strong>; rather, her authority is confirmed &mdash; of which Christ saith: <em>&ldquo;If he will not hear the Church, let him be unto thee as an heathen man and a publican&rdquo;</em> (<strong>Matt. 18:17</strong>).
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 7 (Opus) / 8 (Astra)<br>Church has no absolute power</td>
+    <td class="astra">
+      <span class="num">8.</span> For the <strong>Church</strong> hath no absolute power (<em>absoluta potestas</em>), but a power bound and constrained by the Word of God; according to that saying of Paul, <strong>Gal. 1:8</strong>: <em>&ldquo;If we ourselves (the Apostles) should preach otherwise, we should be accursed.&rdquo;</em>
+    </td>
+    <td class="opus">
+      <span class="num">7.</span> For the Church hath no <strong>absolute power</strong>, but a power bound and constrained unto the word of GOD; according to that saying of Paul: <em>&ldquo;If we ourselves (the Apostles) should preach otherwise, we would be anathema&rdquo;</em> (<strong>Gal. 1:8</strong>).
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 8 (Opus) / 9 (Astra)<br>Judgment of Church &rArr; human dream unless from Word</td>
+    <td class="astra">
+      <span class="num">9.</span> <em>Ergo</em>, unless every judgment of the <strong>Church</strong> be subject unto the Word of the Lord, drawn therefrom, and confirmed thereby, it is to be received as a human dream, and by no means as the judgment and decree of the <strong>Church</strong>.
+    </td>
+    <td class="opus">
+      <span class="num">8.</span> Therefore every judgment of the Church, unless it hath been subjected to the word of the Lord, and drawn out of it, and confirmed by it, is to be received for a <strong>human dream</strong> (<em>humanum somnium</em>), and in no wise for a judgment or decree of the Church.
+    </td>
+  </tr>
+
+  <tr class="divergence">
+    <td class="label">Thesis 9 (Opus) / 10a (Astra) &mdash; Augustine, Contra Maximinum
+      <div class="note">Astra merges both Augustine quotes into a single Thesis 10; Opus splits into 9 and 10.</div>
+    </td>
+    <td class="astra">
+      <span class="num">10.</span> The same also is the judgment of blessed Augustine, and of the other sounder Fathers and Doctors of the <strong>Church</strong>. Augustine saith: &ldquo;But now neither ought I to bring forth the Nicene Council, nor thou the Council of Ariminum, as though thereby to prejudge the cause. Neither am I bound by the authority of this council, nor thou by that of the other. By the authorities of the Scriptures, as witnesses peculiar to neither party, but common to both, let matter be compared with matter, cause with cause, reason with reason.&rdquo; [<em>Aug., Contra Maximinum Arianorum Episcopum, lib. 3, cap. 14.</em>]
+    </td>
+    <td class="opus">
+      <span class="num">9.</span> The very same is likewise the judgment of St. <strong>Augustine</strong> and of the rest of the more sincere Fathers and Doctors of the Church. Augustine [<em>Contra Maximinum</em> II.14]: <em>&ldquo;But now,&rdquo;</em> saith he, <em>&ldquo;neither ought I to bring forth the Council of Nicaea, nor thou that of Ariminum, as though about to prejudge the case. I am not held by the authority of this [Arian] bishop, nor thou by that of the other. By the authorities of the Scriptures &mdash; not those proper to either party, but common witnesses to both &mdash; let matter be conferred with matter, cause with cause, reason with reason.&rdquo;</em>
+    </td>
+  </tr>
+
+  <tr class="divergence">
+    <td class="label">Thesis 10 (Opus) / 10b (Astra) &mdash; Augustine, ad Hieronymum
+      <div class="note">Opus corrects citation to modern <em>Epist. 82</em>; Astra keeps printer&rsquo;s <em>Epist. 19</em>.</div>
+    </td>
+    <td class="astra">
+      <em>[continued as part of Astra&rsquo;s Thesis 10]</em><br><br>
+      Again: &ldquo;For I confess unto thy charity that to those books of Scripture alone, which are now called Canonical, have I learned to render this fear and honour, that I most firmly believe none of their authors to have erred in writing aught. And if I meet with anything in those writings which seemeth contrary to truth, I shall nothing doubt but that either the copy is faulty, or the interpreter hath not attained unto the meaning of that which was spoken, or I myself have failed to understand it. But others I so read that, howsoever greatly they excel in holiness and learning, I account not a thing true because they themselves have so judged, but because they have been able to persuade me, either by those Canonical authors or by probable reason, that it is not contrary to truth. Neither do I suppose, my brother, that thou art of any other mind. Assuredly, I say, I deem not that thou wouldest have thy books read as those of the Prophets and Apostles, concerning whose writings it is wicked to doubt that they are free from all error. Far be this from thy godly humility and thy true judgment concerning thyself.&rdquo; [<em>Aug., Epist. 19 ad Hieron.</em>]
+    </td>
+    <td class="opus">
+      <span class="num">10.</span> Item [<em>Epist. 82 ad Hieronymum</em>]: <em>&ldquo;For I confess unto thy charity, that unto those books of the Scriptures alone which are now called Canonical have I learned to yield this fear and honour: that I most firmly believe that no author of them, in writing anything, hath erred. And if in them I shall find anything which seemeth contrary to truth, I shall not doubt but that either the codex is faulty, or the translator hath not followed what was said, or that I myself have not at all understood. But other authors I so read that, however much they may prevail in sanctity and doctrine, I do not therefore hold it true because they themselves thought so, but because they have been able to persuade me &mdash; whether by those Canonical authors, or by probable reason &mdash; that it doth not depart from the truth. Nor do I judge, my brother, that thou dost think aught otherwise; nor, I say, do I suppose that thou wouldest have thine own books read as those of the Prophets and Apostles, of whose writings &mdash; that they are free from all error &mdash; to doubt is impious. Far be this from a pious humility and a truthful estimation of thyself.&rdquo;</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 11<br>Colloquy of Worms condemned</td>
+    <td class="astra">
+      <span class="num">11.</span> Wherefore we affirm that the utterance put forth by the Papist disputants in the Colloquy of Worms was blasphemous and damnable, wherein they said that Holy Scripture is not the voice of the <strong>judge</strong>, but the matter in controversy (<em>materia litis</em>).
+    </td>
+    <td class="opus">
+      <span class="num">11.</span> Therefore we affirm that the voice of the colloquists at the <strong>Colloquy of Worms</strong>, put forth by the Papists, is blasphemous and damned &mdash; wherein they said: <em>&ldquo;Sacred Scripture is not the voice of the judge, but the matter of the suit&rdquo;</em> (<em>non vocem iudicis, sed materiam litis</em>).
+    </td>
+  </tr>
+
+  <tr class="divergence">
+    <td class="label">Thesis 12 &mdash; Cusanus condemned
+      <div class="note"><strong>Divergence:</strong> Astra cites <em>Epist. 2 de usu communionis</em>. OCR clearly says <em>epistola 7</em>. Opus preserved the printer&rsquo;s <em>Epist. 7</em>.</div>
+    </td>
+    <td class="astra">
+      <span class="num">12.</span> Neither do we doubt a whit that the sentence of Cardinal Cusanus also is no less blasphemous and execrable, when he saith: &ldquo;Let it not move thee that the Sacred Scriptures are accommodated to the time, and diversely understood, so that at one time they were expounded according to the universal rite then current, and, THE RITE BEING CHANGED, the sense should again BE CHANGED.&rdquo; [<em>Cusanus, Epist. 2 de usu communionis.</em>]
+      <br><br>
+      Again: &ldquo;The Scriptures may pertain to the <em>bene esse</em> of the government of the <strong>Church</strong>, even when she hath been founded and continued, but can in no wise pertain to her <em>essentia</em>.&rdquo;
+      <br><br>
+      Again: &ldquo;The judgment of the <strong>Church</strong> BEING CHANGED, the judgment of God also IS CHANGED.&rdquo;
+    </td>
+    <td class="opus">
+      <span class="num">12.</span> No less blasphemous and execrable do we by no means doubt the sentence of <strong>Cardinal Cusanus</strong> (<em>Chusanus</em>) also to be, when he saith [<em>Epist. 7</em>]: <em>&ldquo;Let it not move thee, that the Sacred Scriptures were adapted to their time and variously understood, so that at one time they were expounded according to the currently prevailing universal rite: THE RITE BEING CHANGED, LET THE INTERPRETATION ALSO BE CHANGED.&rdquo;</em> Item: <em>&ldquo;The Scriptures pertain to the well-being of the Church&rsquo;s government even when it hath been begun and continued, but they can in no wise exist of its essence.&rdquo;</em> Item: <em>&ldquo;THE JUDGMENT of the Church BEING CHANGED, the judgment of GOD is CHANGED also.&rdquo;</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Thesis 13<br>Whosoever refuses Scripture</td>
+    <td class="astra">
+      <span class="num">13.</span> Whosoever, therefore, acknowledgeth not <strong>Holy Scripture alone</strong> (<em><strong>sola Scriptura</strong></em>) as the sole and most sufficient <strong>judge</strong> of controversies in religion, but refuseth it, of him we pronounce that he distrusteth his own cause, and that with him no disputation whatsoever ought to be held in the matter of religion.
+    </td>
+    <td class="opus">
+      <span class="num">13.</span> Whosoever, therefore, doth not acknowledge Sacred Scripture alone (<em>sola Scriptura</em>) for the one and most sufficient Judge of the controversies of religion, but refuseth it &mdash; him we pronounce both to distrust his own cause, and that with such a one in the business of religion there is by no means any disputing to be had.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="label">Colophon</td>
+    <td class="astra">
+      Printed at Regensburg by Johannes Burger.
+    </td>
+    <td class="opus">
+      <em>[moved into the header block: &ldquo;Regensburg: printed by Johann Burger.&rdquo;]</em>
+    </td>
+  </tr>
+
+  </tbody>
+</table>
+
+</body>
+</html>

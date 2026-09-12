@@ -1844,7 +1844,7 @@ Hither let there also be referred the **examples of all sinners who, for Christ'
 
 **Not to another than to thee — a penitent sinner — do these pertain; nor for others than for thee, if thou doest penance, are they procured.** For the **holy Angels have no need of these**; the ***devils do not seek them***; therefore ***to thee*** they have been merited by Christ — **Rom. 3, 4, 5**; ***to thee*** they have been promised — **Matt. 9, 11; John 3:16**: *"whoever believes in Him should not perish but have everlasting life"* — **1 Tim. 1:15**: *"A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners."*
 
-Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Mark 16:16** — *"He that believeth and is baptised, shall be saved."* Unto this same in the sacred Supper, with the body and blood of Christ (delivered and shed for thee on the altar of the cross) thou hast been ***fed and given to drink***. Unto this same thou hast been ***sealed with the Spirit of adoption*** — **Rom. 8:16** — who ***gives testimony to thy spirit that thou art a son***, and who ***also for thee makes intercession with unspeakable groanings***. And ***Christ himself is for thee***, lest thou be condemned — **Rom. 8:34**: *"Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."*
+Thou hast been baptised ***unto the remission of sins*** — **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Mark 16:16** — *"He who believes and is baptized will be saved."* Unto this same in the sacred Supper, with the body and blood of Christ (delivered and shed for thee on the altar of the cross) thou hast been ***fed and given to drink***. Unto this same thou hast been ***sealed with the Spirit of adoption*** — **Rom. 8:16** — who ***gives testimony to thy spirit that thou art a son***, and who ***also for thee makes intercession with unspeakable groanings***. And ***Christ himself is for thee***, lest thou be condemned — **Rom. 8:34**: *"Who is he who condemns? It is Christ who died, and furthermore is also risen, who is even at the right hand of God, who also makes intercession for us."*
 
 — ❦ —
 
@@ -1998,7 +1998,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **IX.** How are we enrolled as ***citizens of this kingdom***, and made partakers of all this kingdom's benefits? Namely, ***through true and living faith*** — **Ps. 2 [end]**: *"Blessed are all who trust in him."* **John 3:16** — *"that whoever believes in Him should not perish but have everlasting life."*
 
-**X.** Where is this kingdom of Christ? Namely, ***through the whole orb of the lands*** — **Ps. 93** — and wheresoever his Word is preached, and the Sacraments are legitimately administered according to his institution. **Ps. 2:6–7** — *"Yet I have set My King on My holy hill of Zion. I will declare the decree."* **Ps. 22:23** — *"I will declare Your name to My brethren."* **Matt. 28:19** — *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."* **Mark 16:15** — *"Going into the whole world, preach the Gospel to every creature."*
+**X.** Where is this kingdom of Christ? Namely, ***through the whole orb of the lands*** — **Ps. 93** — and wheresoever his Word is preached, and the Sacraments are legitimately administered according to his institution. **Ps. 2:6–7** — *"Yet I have set My King on My holy hill of Zion. I will declare the decree."* **Ps. 22:23** — *"I will declare Your name to My brethren."* **Matt. 28:19** — *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."* **Mark 16:15** — *"Go into all the world and preach the Gospel to every creature."*
 
 **XI.** What is the ***cultus*** of this kingdom? [*T. 3, pp. 330, 334*]
 
@@ -3148,7 +3148,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **How is man converted?**
 
-**God gives ***Word and Sacraments***, institutes the ministry through which his Word is preached** [*Luther: T. 7, pp. 333, 334, 335*], and through the preaching of the Law and various tribulations ***breaks the stony hearts*** — **Jer. 23**; through the Gospel however he ***raises again the contrite and humbled hearts*** — **Rom. 1**; kindles some little ***spark of faith*** in the hearts, that the heart of man may begin to console itself of the promise of grace and the mercy offered in Christ, and may be able to embrace it — although all these things happen in the greatest infirmity, as the father of the possessed at **Mark 9:24** professes, exclaiming with tears: *"I do believe, Lord: help my unbelief."*
+**God gives ***Word and Sacraments***, institutes the ministry through which his Word is preached** [*Luther: T. 7, pp. 333, 334, 335*], and through the preaching of the Law and various tribulations ***breaks the stony hearts*** — **Jer. 23**; through the Gospel however he ***raises again the contrite and humbled hearts*** — **Rom. 1**; kindles some little ***spark of faith*** in the hearts, that the heart of man may begin to console itself of the promise of grace and the mercy offered in Christ, and may be able to embrace it — although all these things happen in the greatest infirmity, as the father of the possessed at **Mark 9:24** professes, exclaiming with tears: *"Lord, I believe; help my unbelief!"*
 
 When therefore in thy heart thou dost feel these new motions of the Holy Spirit — even though they be as yet exceedingly weak and infirm — yet be certain that God is operating them in thee. See therefore that thou proceed ***to exercise these motions and to use them with fruit***, that daily in thee they may grow and be corroborated. As the Prophet **Jer. 31:18** prays: *"Convert me and I shall be converted: for thou art the Lord my God. For after thou didst convert me, I did penance: and after thou didst show unto me, I struck my thigh."* This the holy Prophet had ***from God alone***, and not from his own natural unregenerate powers. If therefore any despises the ministry of the Word, ***he has nothing whereof to complain*** if he be not illuminated and converted by the Holy Spirit.
 
@@ -3384,7 +3384,7 @@ These:
 - **Ezek. 18:20** — *"The soul that sinneth, itself shall die."*
 - **Rom. 6:23** — *"The wages of sin is death."*
 - **John 3:36** — *"He who does not believe the Son shall not see life, but the wrath of God abides on him."*
-- **Mark 16:16** — *"He that believeth not shall be damned."*
+- **Mark 16:16** — *"He who does not believe will be condemned."*
 
 Therefore let us beware of sins, nor be secure in sins. For **God is a consuming fire against impenitent sinners** — **Deut. 4**.
 
@@ -3560,7 +3560,7 @@ Here, if we abide (as we ought) in the words of Scripture, there is no need of t
 
 **5.** It carries with it **terror and trembling**, and makes man *περίλυπον καὶ ἀδημονοῦντα* — full of grief and consternation. In the conscience it begets **doubt concerning God and his grace and mercy** — which certainly are the greatest evils, and neither can nor ought to be extenuated.
 
-**6.** It makes that **man cannot enter into the kingdom of heaven, unless he be born again** — **John 3:5; Mark 16:16**: *"He that believeth not shall be damned."* And that we may comprehend all in one word: **Original sin is the cause, the fount, and the spring of all our misery, and of all the evils which press us**. Wherefore also it is truly sin, and indeed **the greatest and condemning sin**.
+**6.** It makes that **man cannot enter into the kingdom of heaven, unless he be born again** — **John 3:5; Mark 16:16**: *"He who does not believe will be condemned."* And that we may comprehend all in one word: **Original sin is the cause, the fount, and the spring of all our misery, and of all the evils which press us**. Wherefore also it is truly sin, and indeed **the greatest and condemning sin**.
 
 — ❦ —
 
@@ -4550,7 +4550,7 @@ And **this is diligently to be noted and firmly to be held, lest the distinction
 
 ## Objections *(third series — on whether the Gospel is preaching of penitence)*
 
-### Objection I. Christ joins the preaching of penitence with the promise which is proper to the Gospel, saying: *"Do penitence, and believe the Gospel"* (**Mark 1:15**); and **Luke 24:47**: *"that repentance and remission of sins should be preached in His name to all nations."* *Ergo* the Gospel properly speaking is rightly called a preaching of penitence.
+### Objection I. Christ joins the preaching of penitence with the promise which is proper to the Gospel, saying: *"Repent, and believe in the Gospel"* (**Mark 1:15**); and **Luke 24:47**: *"that repentance and remission of sins should be preached in His name to all nations."* *Ergo* the Gospel properly speaking is rightly called a preaching of penitence.
 
 **Respondeo**: **It is not asked, whether Christ joins the preaching of penitence with the promise which is proper to the Gospel; but what properly the Gospel is, or what preaching properly is such.** There, **if we regard the etymon of the word and the very thing of which it chiefly treats, it is certain that properly speaking it is not a preaching of penitence, but only of grace or remission of sins**. For **a preaching of penitence arraigns sins, denounces the wrath of God, threatens present and eternal punishments to sinners** — such a preaching is not a joyful or glad message, by which hearts may be raised up or vivified. Then, as to the sayings of Christ: **it is perspicuous, if it be more attentively weighed, that the word *penitence* in those sayings properly signifies *contrition*, which is to be taught from the Law and not from the Gospel**. For therefore at **Luke 24** he subjoins of *remission of sins*, that he may demonstrate the word *penitence* there **ought to be taken for contrition** — which is the *first* part of conversion, and is taught from the Law, not from the Gospel properly so-called. So also at **Mark 1** the voice of penitence is to be understood only of contrition, **which arises from the preaching of the Law, and not from the preaching of the Gospel**. For **the word of the Gospel there signifies nothing other than the preaching of grace, which is opposed to the preaching of the Law**. This too appears — that when the distinction of Law and Gospel is inquired, **to the Law only the preaching of penitence or contrition, and to the Gospel properly so-called only the announcement of grace ought to be ascribed**. For if the contrary be laid down, **there necessarily follows the confusion of Law and Gospel**. But if the voice of the Gospel be taken **generally for the whole ministry, which comprehends the preaching of the Law and the Gospel**, the definition which calls the Gospel a preaching of penitence in some way can be tolerated. **But for avoiding the confusion of Law and Gospel, it is safer to abstain from that general definition.**
 
@@ -5330,7 +5330,7 @@ And this indeed **under the reign of the Papacy is enough — and hath been enou
 
 **But (say the adversaries) the particle "Alone" is not contained in Scripture.**
 
-**Very much so is it contained in it.** **Mark 5:36**: *"Fear not, only believe."* **Gal. 2:16**: *"knowing that a man is not justified by the works of the law but by faith in Jesus Christ."* **Luke 8:50**: *"Do not be afraid; only believe."*
+**Very much so is it contained in it.** **Mark 5:36**: *"Do not be afraid; only believe."* **Gal. 2:16**: *"knowing that a man is not justified by the works of the law but by faith in Jesus Christ."* **Luke 8:50**: *"Do not be afraid; only believe."*
 
 — ❦ —
 
@@ -5762,7 +5762,7 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 
 **Fifthly**: **Expressly in Scripture universal promises are contained, which certainly and without doubt concern thee, exclude thee not, but include thee** — as when it is said, **that God hath mercy of all — Rom. [11:32]; Gal. [3:22]** — that he **is rich unto all — Rom. 10:12** — that he willeth **all who believe in the Son to be saved**. Since therefore **thou dost believe in Jesus Christ the Son, and dost rejoice in his most holy obedience, Passion, death, and resurrection — why shouldest thou except and exclude thyself from the universal promises?**
 
-**Sixthly**, nay rather, **also in the name and blood of Jesus Christ thou hast been baptized unto the remission of sins, and unto the adoption and inheritance of eternal life** — **Acts 2:38; Mark 16:16**. **No cause therefore hast thou of doubting concerning thy salvation and election**. For *"he that shall have believed and shall have been baptized, shall be saved."*
+**Sixthly**, nay rather, **also in the name and blood of Jesus Christ thou hast been baptized unto the remission of sins, and unto the adoption and inheritance of eternal life** — **Acts 2:38; Mark 16:16**. **No cause therefore hast thou of doubting concerning thy salvation and election**. For *"He who believes and is baptized will be saved."*
 
 **Seventhly**: Moreover **the Holy Spirit dwelling in thy heart beareth testimony to thy spirit, that thou art a son of God and a co-heir of Christ** — **Rom. 8:16–17**. **How therefore art thou not elected and predestined unto eternal life?** Whence also **2 Cor. 1:21–22** Paul saith: *"Now He who establishes us with you in Christ and has anointed us is God, who also has sealed us and given us the Spirit in our hearts as a guarantee."*
 
@@ -7108,7 +7108,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **What doth Baptism work?** [*[T. 7, pp. 404, 405; T. 3, p. 543 f. b; T. 3/1, p. 80*]*]
 
-**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved."* **Acts 2:38**: *"let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
+**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He who believes and is baptized will be saved."* **Acts 2:38**: *"let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"Which also now, of like form, saveth us — Baptism, not the depositing of the filth of the flesh, but the interrogation of a good conscience unto God, through the resurrection of Jesus Christ."*
 
 — ❦ —
 
@@ -7176,7 +7176,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **Thirdly**, the Apostle showeth, that **the sons are holy for the parents** — **the adversaries hence will to evince, that the sons are holy for themselves, because they are born of faithful parents**; and so **the Apostle referreth the sanctity to the parents, but the adversaries refer it to the children — which certainly is not the same**.
 
-**Fourthly**, the Apostle speaketh only of external cleanness and sanctity, and not of that which prevaileth before God. For **if the adversaries would interpret this place of the interior sanctity which prevaileth before God, they must confess also that the unfaithful spouse is by cohabitation of the faithful sanctified and saved before GOD — which is manifestly absurd and false**. For **expressly, John 3:36, it is had**: *"He who believeth in the Son, hath eternal life; but he who is incredulous to the Son, shall not see life, but the wrath of God abideth upon him."* And **Mark 16:16**: *"But he that shall have not believed, shall be condemned."*
+**Fourthly**, the Apostle speaketh only of external cleanness and sanctity, and not of that which prevaileth before God. For **if the adversaries would interpret this place of the interior sanctity which prevaileth before God, they must confess also that the unfaithful spouse is by cohabitation of the faithful sanctified and saved before GOD — which is manifestly absurd and false**. For **expressly, John 3:36, it is had**: *"He who believeth in the Son, hath eternal life; but he who is incredulous to the Son, shall not see life, but the wrath of God abideth upon him."* And **Mark 16:16**: *"But he who does not believe will be condemned."*
 
 — ❦ —
 
@@ -7606,7 +7606,7 @@ But **the controversy between us is this** [*[T. 3, p. 34; T. 6, p. 19; T. 8, p.
 
 **The word *"Meum"* [My] expressly speaketh of Christ's body.** **The word *"Corpus"* [Body] cannot and ought not otherwise than of Christ's body be expounded**, lest **the exegetic particle *"which is delivered up for you"* be convicted of lie**. Just as **in the cup neither can be put the relative *"which"* pro *"quatenus"* — but relatively**. For it **showeth Christ's body, which truly was delivered up for us into death**.
 
-**Similarly the words concerning the cup dispatch us to no figure or symbol of the far-absent blood of Christ**. For **Christ himself saith, Matt. 26:28; Mark 14:24**: *"For this is my blood of the New Testament, which shall be poured out for many unto the remission of sins."* **Which words speak of Christ's proper blood, and of his own blood, which was poured out for us**.
+**Similarly the words concerning the cup dispatch us to no figure or symbol of the far-absent blood of Christ**. For **Christ himself saith, Matt. 26:28; Mark 14:24**: *"For this is My blood of the new covenant, which is shed for many for the remission of sins."* **Which words speak of Christ's proper blood, and of his own blood, which was poured out for us**.
 
 **This blood however was the true and substantial blood of Jesus Christ.** We cannot therefore **concede, that for the words *"My blood"* a symbol or sign of the far-absent blood be substituted**. **Since the blood of the New Testament is not a sign or figure or type of the blood of Christ, but the very true and proper blood of Christ**.
 
@@ -9020,7 +9020,7 @@ And this saying in general concerning the Church speaketh — which is a company
 
 **Are the Jews still now the people of God?**
 
-**They are not**, unless **they do penitence, and believe in the name of Jesus Christ, Acts 3; Luke 24:47** — *"He that shall not have believed shall be condemned"* — **Mark 16:16**.
+**They are not**, unless **they do penitence, and believe in the name of Jesus Christ, Acts 3; Luke 24:47** — *"He who does not believe will be condemned"* — **Mark 16:16**.
 
 — ❦ —
 
@@ -11710,7 +11710,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-### Objection II. **But Mark 16:17 it is said: "But signs shall follow them that shall have believed." Ergo,** &c.
+### Objection II. **But Mark 16:17 it is said: "And these signs will follow those who believe." Ergo,** &c.
 
 **Respondeo**: **Christ there speaketh of the Ministry of the Apostles, and of the signs which for the confirmation of their divine vocation and doctrine they had to do — and not of these last times, in which we live.**
 
@@ -13020,7 +13020,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **And is there any middle place between heaven and hell?**
 
-**Respondeo**: **The Papists indeed this affirm, but without Scripture: For this teacheth only heaven and hell. John 3:16**: *"that whoever believes in Him should not perish but have everlasting life."* **Mark 16:16**: *"He that shall not have believed, shall be condemned."* **John 3:18**: *"He who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God."* **John 5:24**: *"He who hears My word and believes in Him who sent Me has everlasting life, and shall not come into judgment, but has passed from death into life."*
+**Respondeo**: **The Papists indeed this affirm, but without Scripture: For this teacheth only heaven and hell. John 3:16**: *"that whoever believes in Him should not perish but have everlasting life."* **Mark 16:16**: *"He who does not believe will be condemned."* **John 3:18**: *"He who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God."* **John 5:24**: *"He who hears My word and believes in Him who sent Me has everlasting life, and shall not come into judgment, but has passed from death into life."*
 
 — ❦ —
 
@@ -13414,7 +13414,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**: **Erroneous and impious is the opinion of these men: For though for their error they have alleged the 20th chapter of the Apocalypse, and unto their thousand-year reign have twisted it: yet it is plain that John in that place speaketh of the reign of Christ, and the years from the nativity or ministry of Christ, unto the beginning of the Mahometan empire in the East and of the Pontifician in the West, by which the reign of Christ was violently disturbed and shaken, are to be numbered.**
 
-**That the joy and beatitude to come is not to be temporal, nor is to be received of the delights of this life, is plain from what is said, Mark 12:25**: *"For when they shall have risen from the dead, neither shall they marry nor be given in marriage, but shall be as the angels in the heavens."* **Matt. 22:30.**
+**That the joy and beatitude to come is not to be temporal, nor is to be received of the delights of this life, is plain from what is said, Mark 12:25**: *"For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven."* **Matt. 22:30.**
 
 — ❦ —
 
@@ -13508,7 +13508,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **What then shall be the judgement, or what the definitive sentence of this judgement?**
 
-**Respondeo**: **That which now is manifested, John 3:18**: *"He that believeth in him (the Son) is not judged, but he that believeth not, is already judged."* **Mark 16:16**: *"He that shall have believed and shall have been baptized, shall be saved, but he that shall not have believed, shall be condemned."*
+**Respondeo**: **That which now is manifested, John 3:18**: *"He that believeth in him (the Son) is not judged, but he that believeth not, is already judged."* **Mark 16:16**: *"He who believes and is baptized will be saved; but he who does not believe will be condemned."*
 
 — ❦ —
 
@@ -13582,7 +13582,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **What is hell?**
 
-**Respondeo**: **Hell is a prison, in which according to the severe judgement of divine justice the Devil and impious men in body and soul on account of sin shall be tormented with eternal tortures. Matt. 25, Mark 9:43–44**: *"To go into Gehenna, into inextinguishable fire, where their worm dieth not, and the fire is not extinguished."*
+**Respondeo**: **Hell is a prison, in which according to the severe judgement of divine justice the Devil and impious men in body and soul on account of sin shall be tormented with eternal tortures. Matt. 25, Mark 9:43–44**: *"to go to hell, into the fire that shall never be quenched, where 'Their worm does not die and the fire is not quenched.'"*
 
 — ❦ —
 
@@ -13648,7 +13648,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Shall the pain of hell be eternal?**
 
-**Respondeo**: **This Christ affirmeth, Matt. 25:41**: *"Depart into eternal fire."* **Mark 9:43–44**: *"Go into Gehenna, into inextinguishable fire, where their worm dieth not, and the fire is not extinguished."*
+**Respondeo**: **This Christ affirmeth, Matt. 25:41**: *"Depart into eternal fire."* **Mark 9:43–44**: *"to go to hell, into the fire that shall never be quenched, where 'Their worm does not die and the fire is not quenched.'"*
 
 ### Objection. **Yet, Ps. 103:9, it is said**: *"He will not be angry for ever."*
 
@@ -13742,7 +13742,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Who then shall enter into eternal life?**
 
-**Respondeo**: **All, who in Jesus Christ have believed, and in true faith and knowledge of him have fallen asleep. John 3:16**: *"that whoever believes in Him,"* &c. **Hard it seemeth to deny eternal life unto Philosophers and Heroes, gentiles distinguished by the honesty of their morals, and unto others: But upon the words of Christ it becometh us and behoveth us to stand, who saith**: *"He who does not believe is condemned already,"* **John 3:18. And Mark 16:16**: *"But he that shall not have believed, shall be condemned."*
+**Respondeo**: **All, who in Jesus Christ have believed, and in true faith and knowledge of him have fallen asleep. John 3:16**: *"that whoever believes in Him,"* &c. **Hard it seemeth to deny eternal life unto Philosophers and Heroes, gentiles distinguished by the honesty of their morals, and unto others: But upon the words of Christ it becometh us and behoveth us to stand, who saith**: *"He who does not believe is condemned already,"* **John 3:18. And Mark 16:16**: *"But he who does not believe will be condemned."*
 
 ### Objection. **Yet God seemeth unjust, if to gentiles and other honest and politically good men he deny eternal life.**
 
