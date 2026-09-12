@@ -157,26 +157,31 @@ clusters verified, plus any gap-fill commits.
 Every quoted Scripture citation in the MD gets checked against a modern
 translation and rewritten where the Vulgate-idiom English materially differs.
 
-For our line: **NKJV pass** — see the Kirchner Methodica log for canonical
-mechanics (memory `reference-methodica-1595-handoff-2026-09-08`). Short version:
+For our line: **KJV pass** (decision 2026-09-12 — switched from NKJV to sidestep
+Thomas Nelson's 500-verse permission threshold and to sit cleanly alongside our
+CC BY-NC-SA distribution license; KJV is public domain in the US and matches the
+1595-1611 register of our source Latin). Mechanics:
 
 1. Grep MD for `\*\*<Book>\.\s*<Ch>:` to enumerate all citations in each chapter.
-2. WebFetch NKJV per chapter via
-   `https://www.biblegateway.com/passage/?search=<Book>+<Ch>%3A<v1>%3B+<Ch>%3A<v2>&version=NKJV`
-   (small verse ranges — full chapters get refused for copyright).
-3. Compare each quoted citation (italic `*"..."*` form) to NKJV. Skip pure
-   references (no quoted text). Skip Kirchner's paraphrases-into-prose (bold but
-   not italic-quoted).
-4. Edit to NKJV wording where materially different. Preserve stylistic
+2. Fetch KJV — public domain, so full chapters are fine. Sources: BibleGateway
+   (`?version=KJV`), Wikisource, `openbible.info`, or a local KJV text file.
+3. Compare each quoted citation (italic `*"..."*` form) to KJV. Skip pure
+   references (no quoted text). Skip paraphrases-into-prose (bold but not
+   italic-quoted).
+4. Edit to KJV wording where materially different. Preserve stylistic
    capitalization of Law / Gospel / Sacred Scripture.
 5. Where the quoted text spans more verses than the label, expand the label.
-6. Commit per book with terse message: `<Volume> NKJV pass — <book>`.
+6. Commit per book with terse message: `<Volume> KJV pass — <book>`.
+
+**Verse budget:** track unique verses quoted; KJV has no legal ceiling, but the
+count is still useful for audit + future translation-swap contingency planning.
 
 **Book-name normalization at end of pass:** `Apoc.`→`Rev.`, `Ex.`→`Exod.`,
 `1 Peter`→`1 Pet.`, `Malachi`→`Mal.`, `Micah`→`Mic.`, `Daniel`→`Dan.`,
 `Ecclesiastes`→`Eccles.`, `3 Kings`→`1 Kings` (Vulgate 1–2 Kings = Protestant
 1–2 Samuel; verify each). Skip apocrypha (Wisd., Sirach/Ecclus., Tob.,
-Jud.[= Judith]) — NKJV omits.
+Jud.[= Judith]) — KJV Apocrypha exists but is treated as inter-testamental;
+leave Kirchner's Vulgate wording for those.
 
 **Wrinkle:** Psalm-numbering — Vulgate/LXX Ps 9 = KJV/NKJV Ps 9+10, so his
 Ps 10–147 are off-by-one from NKJV Ps 11–148. Also many Psalms count the title
