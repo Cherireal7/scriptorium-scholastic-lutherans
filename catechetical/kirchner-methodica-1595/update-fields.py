@@ -73,6 +73,26 @@ def main():
             indexes.getByIndex(i).update()
         doc.getTextFields().refresh()
 
+        # Post-process: remove any "Table of Contents" TOC entry that self-lists.
+        # LibreOffice's TOC-field expansion picks up our Heading-1-styled TOC title
+        # despite the paragraph-level outlineLvl override, so we strip the entry here.
+        enum = doc.getText().createEnumeration()
+        to_delete = []
+        while enum.hasMoreElements():
+            para = enum.nextElement()
+            try:
+                s = para.getString().strip()
+            except Exception:
+                continue
+            # A TOC entry line looks like "Table of Contents\t12" (tab-separated title/page)
+            # or contains "Table of Contents" with a page-number-like tail.
+            if s.startswith('Table of Contents') and s != 'Table of Contents':
+                style = getattr(para, 'ParaStyleName', '') or ''
+                if style.startswith('Contents') or style.startswith('TOC'):
+                    to_delete.append(para)
+        for para in to_delete:
+            para.getText().removeTextContent(para)
+
         # Save back to same path
         fn = PropertyValue()
         fn.Name = 'FilterName'

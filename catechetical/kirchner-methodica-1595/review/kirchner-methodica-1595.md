@@ -1,8 +1,4 @@
 ---
-title: "The Methodical Exposition of Timotheus Kirchner"
-subtitle: "A Latin systematic-theology posthumously published, Leipzig, Johann Beyer, M.D.XCV (1595) — the twin of the German Enchiridion, expanded with objections and Luther-marginalia"
-author: "The Scholastic Lutherans translation team"
-date: "2026"
 lang: en
 ---
 
@@ -67,21 +63,25 @@ lang: en
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-<!-- COLOPHON PAGE (verso) -->
+<!-- COPYRIGHT PAGE (verso) -->
 
 ```{=openxml}
-<w:p/><w:p/><w:p/><w:p/>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Working English translation from the Latin, prepared</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>from the 1595 Leipzig / Johann Beyer edition digitised by Google Books</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>per-page OCR text extracted via Poppler pdftotext, then translated</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>line-by-line and paragraph-by-paragraph following Kirchner's own 46-Loci order.</w:t></w:r></w:p>
+<w:p/><w:p/><w:p/><w:p/><w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Copyright © 2026 The Scholastic Lutherans translation team</w:t></w:r></w:p>
 <w:p/>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>Companion volume to the Scholastic Lutherans edition of the</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>German Enchiridion (1592 3rd edition), of which this Latin work</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>is the posthumous, expanded, objection-loaded, Luther-anchored sibling.</w:t></w:r></w:p>
-<w:p/><w:p/>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:b/></w:rPr><w:t>The Scholastic Lutherans translation team</w:t></w:r></w:p>
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t>2026</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Methodica Explicatio. First edition, first printed at Leipzig by Johann Beyer, 1595.</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">This working English rendering: First edition, 2026.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Translated from the Beyer 1595 Leipzig Latin print,</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">digitised by Google Books, per-page OCR text extracted via Poppler</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">pdftotext, translated line-by-line and paragraph-by-paragraph</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">following Kirchner's own 46-Loci order.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Companion to the Scholastic Lutherans edition of Kirchner's</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">German Enchiridion (1592, 3rd ed.), of which this Latin work</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">is the posthumous, expanded, objection-loaded, Luther-anchored sibling.</w:t></w:r></w:p>
+<w:p/>
+<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).</w:t></w:r></w:p>
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
@@ -92,7 +92,7 @@ lang: en
 <!-- running header and the PAGE-number footer.                                     -->
 
 ```{=openxml}
-<w:p><w:pPr><w:sectPr><w:type w:val="nextPage"/><w:pgSz w:w="12240" w:h="15840"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/><w:cols w:space="720"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr></w:p>
+<w:p><w:pPr><w:sectPr><w:type w:val="nextPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/><w:cols w:space="720"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr></w:p>
 ```
 
 # Translator's Note
@@ -147,9 +147,16 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Table of Contents
-
 ```{=openxml}
+<w:p>
+  <w:pPr>
+    <w:pStyle w:val="Heading1"/>
+    <w:outlineLvl w:val="9"/>
+  </w:pPr>
+  <w:r>
+    <w:t>Table of Contents</w:t>
+  </w:r>
+</w:p>
 <w:p>
   <w:pPr><w:jc w:val="left"/></w:pPr>
   <w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r>
@@ -166,7 +173,14 @@ The book contains **46 Loci** across the whole span of Christian doctrine, follo
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus I. Of Sacred Scripture, or the Word of God (*De Sacra Scriptura seu Verbo Dei*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus I. Of Sacred Scripture, or the Word of God
+
+*De Sacra Scriptura seu Verbo Dei*
 
 — ❦ —
 
@@ -548,7 +562,14 @@ To this, Christ did not say: *"I am human tradition or custom"*, but ***"I am th
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus II. Of God (*De Deo*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus II. Of God
+
+*De Deo*
 
 — ❦ —
 
@@ -822,7 +843,14 @@ So **St. Paul** and **Peter** speak: *"Blessed be the God and Father of our Lord
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus III. Of the Person of Our Lord and Saviour Jesus Christ (*De Persona Domini et Salvatoris Nostri Iesu Christi*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus III. Of the Person of Our Lord and Saviour Jesus Christ
+
+*De Persona Domini et Salvatoris Nostri Iesu Christi*
 
 — ❦ —
 
@@ -1792,7 +1820,14 @@ Whence **Augustine, *Liber Quaestionum*, quaest. 69**, on the saying of **1 Cor.
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus IV. Of the Office of Christ (*De Officio Christi*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus IV. Of the Office of Christ
+
+*De Officio Christi*
 
 — ❦ —
 
@@ -1912,7 +1947,14 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus V. Of the Kingdom of Christ (*De Regno Christi*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus V. Of the Kingdom of Christ
+
+*De Regno Christi*
 
 — ❦ —
 
@@ -2066,7 +2108,14 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus VI. Of the Eternal Priesthood of Christ (*De Aeterno Christi Sacerdotio*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus VI. Of the Eternal Priesthood of Christ
+
+*De Aeterno Christi Sacerdotio*
 
 — ❦ —
 
@@ -2168,7 +2217,14 @@ Nor does it help him that he says he is the highest Pastor of the Church by reas
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus VII. Of the Holy Spirit (*De Spiritu Sancto*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus VII. Of the Holy Spirit
+
+*De Spiritu Sancto*
 
 — ❦ —
 
@@ -2294,7 +2350,14 @@ Whether the Holy Spirit is present in us ***essentially or virtually***: in the 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus VIII. Of the Creation of the Whole Universe, or of All Creatures (*De Creatione Totius Universi seu Omnium Creaturarum*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus VIII. Of the Creation of the Whole Universe, or of All Creatures
+
+*De Creatione Totius Universi seu Omnium Creaturarum*
 
 — ❦ —
 
@@ -2604,7 +2667,14 @@ Concerning ***evil events***, it must be known:
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus IX. Of Angels (*De Angelis*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus IX. Of Angels
+
+*De Angelis*
 
 — ❦ —
 
@@ -2712,7 +2782,14 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus X. Of the Evil Angels (*De Malis Angelis*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus X. Of the Evil Angels
+
+*De Malis Angelis*
 
 — ❦ —
 
@@ -2870,7 +2947,14 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus XI. Of Man Before the Fall (*De Homine ante Lapsum*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XI. Of Man Before the Fall
+
+*De Homine ante Lapsum*
 
 — ❦ —
 
@@ -2988,7 +3072,14 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus XII. Of the Fall of Adam, and of the Corrupted Powers of Man (*De Lapsu Adami et Corruptis Viribus Humanis*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XII. Of the Fall of Adam, and of the Corrupted Powers of Man
+
+*De Lapsu Adami et Corruptis Viribus Humanis*
 
 — ❦ —
 
@@ -3326,7 +3417,14 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Locus XIII. Of Sin in General (*De Peccato in Genere*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XIII. Of Sin in General
+
+*De Peccato in Genere*
 
 ## Question 1. What is sin?
 
@@ -3474,7 +3572,14 @@ That **never to any penitent sinner has he denied the gratuitous remission of si
 
 — ❦ —
 
-# Locus XIV. Of Original Sin (*De Peccato Originali*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XIV. Of Original Sin
+
+*De Peccato Originali*
 
 ## Question 1. What is original sin?
 
@@ -3764,7 +3869,14 @@ To the Minor: **But the flesh of the regenerate does not *per se* reluctate the 
 
 — ❦ —
 
-# Locus XV. Of Actual Sin (*De Peccato Actuali*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XV. Of Actual Sin
+
+*De Peccato Actuali*
 
 ## Question 1. What is actual sin?
 
@@ -3883,7 +3995,14 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 — ❦ —
 
-# Locus XVI. Of Ruling and Non-Ruling Sin (*De Peccato Regnante et Non Regnante*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XVI. Of Ruling and Non-Ruling Sin
+
+*De Peccato Regnante et Non Regnante*
 
 ## Question 1. How further is sin divided?
 
@@ -4055,7 +4174,14 @@ From these it is easy to understand who are truly the faithful and living member
 
 — ❦ —
 
-# Locus XVII. Of the Sin against the Holy Spirit (*De Peccato in Spiritum Sanctum*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XVII. Of the Sin against the Holy Spirit
+
+*De Peccato in Spiritum Sanctum*
 
 ## Question 1. What is the sin against the Holy Spirit?
 
@@ -4101,7 +4227,14 @@ And what should our works do in so great a matter? — since we are creatures, a
 
 — ❦ —
 
-# Locus XVIII. Of the Law (*De Lege*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XVIII. Of the Law
+
+*De Lege*
 
 ## Question 1. What is the Law?
 
@@ -4386,7 +4519,14 @@ For **Paul expressly says that we have been freed by Christ from the curse of th
 
 — ❦ —
 
-# Locus XIX. Of the Gospel (*De Evangelio*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XIX. Of the Gospel
+
+*De Evangelio*
 
 ## Question 1. What is the Gospel?
 
@@ -4576,7 +4716,14 @@ Then there is **ambiguity in the voice *proper***. The **whole ministry of Chris
 
 — ❦ —
 
-# Locus XX. Of the Justification of the Sinner-Man Before God (*De Iustificatione Hominis Peccatoris coram Deo*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XX. Of the Justification of the Sinner-Man Before God
+
+*De Iustificatione Hominis Peccatoris coram Deo*
 
 ## Question 1. What does the word *Grace* signify in this article?
 
@@ -5139,12 +5286,16 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 **Respondeo**: **Relation is twofold — of Reason, and Real.** The **Real relation by which we are justified is not a bare cogitation, because it hath a foundation — namely, the merit and obedience of Jesus Christ**. For **those are imputed to us unto righteousness, and on account of them we are pronounced just before God, and are absolved from sins**. **Not therefore doth GOD justify us by a bare cogitation without righteousness, but when he justifieth us, he looketh to that immoveable foundation of the merit and obedience of Christ which he giveth to us through faith, that we in it may glory even as if it were our own proper**.
 
 — ❦ —
-
-*[Locus XX De Iustificatione is TRULY COMPLETE — 34 top-level Q + 20 Objs + 1 inserted Q on essential righteousness + 4 sub-Objs on Osiandrism. Total Locus XX: 35 Q + 24 Obj units. 331 top-level Q + 179 Obj rendered so far. Locus XXI De Fide in Christum follows in T31.]*
-
 — ❦ —
 
-# Locus XXI. Of Faith in Christ (*De Fide in Christum*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXI. Of Faith in Christ
+
+*De Fide in Christum*
 
 ## Question 1. What is faith?
 
@@ -5559,12 +5710,16 @@ Whence **Augustine, Ps. 88**: *"This God hath said, this hath he promised — if
 Then **the saying of Joel speaketh not of the promise of grace and of the remission of sins, which is freely offered through faith to believers — but of the changing or mitigation of impending punishments**, which **God to those doing penitence sometimes altogether remitteth, sometimes however suffereth to come, that the faithful may be proved and be found like to silver examined**. Nor yet **is it hence to be established, that God is wroth with them, since he afflicteth believers, not to destroy, but to preserve**.
 
 — ❦ —
-
-*[Locus XXI De Fide in Christum is TRULY COMPLETE — 27 top-level Q + 2 embedded Objs (in Q15) + 11 formal Papist Objs. Total Locus XXI: 27 Q + 13 Obj units. 358 top-level Q + 192 Obj rendered so far. Locus XXII De Praedestinatione follows in T35.]*
-
 — ❦ —
 
-# Locus XXII. Of Predestination (*De Praedestinatione*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXII. Of Predestination
+
+*De Praedestinatione*
 
 ## Question 1. Since also true Christians often experience most grievous temptations concerning predestination, expound to me briefly what it is.
 
@@ -5775,12 +5930,16 @@ Nay rather **the heavenly Father himself biddeth thee hear his Son — Matt. [17
 **This phantasy and imagination Satan suggesteth to thee, that he may perturb thee.** But **hear thou him not — but rather look upon the aforesaid foundations, out of which thou art certain and convinced that in Christ Jesus and through his death and blood thou art elected, and predestined unto eternal life**. Upon these do thou insist; and from these **suffer thyself not to be plucked away and driven off**. **The temptation shall by the presence, aid, and grace of God be mitigated and taken away — that at length again thou mayest be refreshed and made cheerful**.
 
 — ❦ —
-
-*[Locus XXII De Praedestinatione is TRULY COMPLETE — 18 top-level Q (incl. 2 embedded Qs 11–12 in the objection cluster) + 3 formal Papist/curious Objs + 1 embedded Objectio in Q18. Total Locus XXII: 18 Q + 4 Obj units. 373 top-level Q + 196 Obj rendered so far. Locus XXIII De Bonis Operibus follows in T38.]*
-
 — ❦ —
 
-# Locus XXIII. Of Good Works (*De Bonis Operibus*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXIII. Of Good Works
+
+*De Bonis Operibus*
 
 ## Question 1. What are good works?
 
@@ -6377,12 +6536,16 @@ And **1 Tim. 1:15**: **Paul saith**: *"Christ Jesus came into the world to save 
 **By no means.** But as concerns the Christian life, **we teach that the faithful man ought always to fast — that is, that his whole life ought to be sober and temperate**. But as concerns the **hypocritical fasting of the Papists**, that we deservedly reprobate: because **they feign it as necessary to salvation, and meritorious for obtaining the remission of sins** — **neither of which is founded in Scripture, but much more with the Pharisaic fastings of Matt. 6 is expressly damned**.
 
 — ❦ —
-
-*[Locus XXIII De Bonis Operibus is TRULY COMPLETE — 26 top-level Q on bona opera (Q1–Q26) + 6 OBIECTIONES on necessitas-ad-salutem + embedded 'estote perfecti' Obj + 6 OBIECTIONES on meritum + DE DILECTIONE PROXIMI (4 Q) + DE ELEEMOSYNIS (10 Q) + DE IEIUNIO (6 Q). Total Locus XXIII: 46 Q + 13 Obj units. 411 top-level Q + 209 Obj rendered so far. Locus XXIV De Invocatione Dei follows in T44.]*
-
 — ❦ —
 
-# Locus XXIV. Of the Invocation of God, or of Prayer (*De Invocatione Dei, seu, De Precatione*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXIV. Of the Invocation of God, or of Prayer
+
+*De Invocatione Dei, seu, De Precatione*
 
 ## Question 1. Can the invocation of God be omitted without sin?
 
@@ -6751,12 +6914,16 @@ As to the Minor: **the word "sanctify" in Paul is to be understood of the Physic
 **By no means.** For of these God himself pronounceth, **Isa. 1:15**: *"When you spread out your hands, I will hide My eyes from you; even though you make many prayers, I will not hear: your hands are full of blood."* [*[Gen. 37, T. 4, p. 240*]*] **Prov. 1:28–31**: *"Then shall they invoke me, and I will not hear; in the morning they shall arise, and shall not find me — because they had hated discipline, and had not received the fear of the Lord; nor acquiesced in my counsel, and had detracted from all my correction. They shall eat therefore the fruits of their way, and shall be sated with their own counsels."*
 
 — ❦ —
-
-*[Locus XXIV De Invocatione Dei is TRULY COMPLETE — 23 top-level Q (Q1–Q23) + 1 embedded Ioh 9:31 Obj (in Q14) + 9 formal Objs on Sanctorum invocation + 2 Objs on Christ's continuing intercession + 3 Objs on relics + 2 Objs on consecrations. Total Locus XXIV: 23 Q + 17 Obj units. 434 top-level Q + 226 Obj rendered so far. Locus XXV De Sacramentis in Genere follows in T48.]*
-
 — ❦ —
 
-# Locus XXV. Of the Sacraments in General (*De Sacramentis in Genere*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXV. Of the Sacraments in General
+
+*De Sacramentis in Genere*
 
 ## Question 1. Doth this word "Sacrament" exist in the sacred letters, used of Baptism and of the Supper of the Lord?
 
@@ -6969,12 +7136,16 @@ Whence it is clear, that **they fall into the error of the Donatists, who conten
 **In the Supper of the Lord Christ hath also specially promised the communication of his body delivered for us, and of his blood poured out for us, with the sacred symbols — which is not done in Baptism.** For **in the words of the institution of Baptism, of the body and blood nothing is promised**.
 
 — ❦ —
-
-*[Locus XXV De Sacramentis in Genere is TRULY COMPLETE — 17 top-level Q + 4 formal Objs on sacramentaliter. Total Locus XXV: 17 Q + 4 Obj units. 451 top-level Q + 230 Obj rendered so far. Locus XXVI De Baptismo follows in T50.]*
-
 — ❦ —
 
-# Locus XXVI. Of Baptism (*De Baptismo*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXVI. Of Baptism
+
+*De Baptismo*
 
 ## Question 1. What is Baptism?
 
@@ -7337,12 +7508,16 @@ When therefore **a faithful man, from the infirmity of the flesh and the seducti
 **III.** **John and the Apostles could not impart efficacy to Baptism** [*[T. 7, p. 400; T. 2/1, pp. 271, 272*]*] — but **Christ, as himself omnipotent God and Saviour, was efficacious through their Baptism, and worked and distributed remission of sins, regeneration, and renovation through it**. **Erroneous therefore it is to say, that through the Baptism of John sin was not remitted. For Luke [3:3] it is expressly said, that John preached the Baptism of penitence unto the remission of sins.**
 
 — ❦ —
-
-*[Locus XXVI De Baptismo is TRULY COMPLETE — 26 top-level Q + 4 embedded/formal Objs (crediderit Obj + Gen 17 Obj + 1 Cor 7 Obj + Matt 9:2 paralytic Obj + peccatum-remissum-non-remanet Obj = 5 Obj units). Total Locus XXVI: 26 Q + 5 Obj units. 477 top-level Q + 238 Obj rendered so far. Locus XXVII De Sacra Domini Coena follows in T54.]*
-
 — ❦ —
 
-# Locus XXVII. Of the Sacred Supper of the Lord (*De Sacra Domini Coena*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXVII. Of the Sacred Supper of the Lord
+
+*De Sacra Domini Coena*
 
 ## Question 1. What are the names or appellations of this Sacrament?
 
@@ -8825,12 +9000,16 @@ And **the blasphemies indeed of the Papists are sufficiently palpable and easily
 **IX.** That **the doctrine of monitory signs of the far-absent body of Christ bestoweth no solid consolation — and that consciences in temptations cannot give any account, why from the perspicuous words of institution they departed and expounded them of the signs of the far-absent body and blood of Christ**. Which also **Berengarius, by the testimony of his own history, taught by his own example — saying in the agony**: *"This day shall the Lord Jesus appear to me — either unto salvation, as I hope, on account of my penitence — or unto judgement, on account of those whom by my doctrine I have seduced, and whom I could not recall."*
 
 — ❦ —
-
-*[Locus XXVII De Sacra Domini Coena is TRULY COMPLETE — the largest locus in Methodica, spanning ~6067 OCR lines and rendered in 18 tranches (T54–T71). Total Locus XXVII: 48 top-level Q + numerous OBIECTIONES clusters (indignorum manducation × 14 + ore manducation × 3 + Spiritual-only × 5 + particles × 5 + predication × 4 + Sacramental union × 2 + RESPONSIO ARG I–XXII on body-nature/place/mode + Missa Papist ARG I–X + cup-interdict ARG I–V + inclusio × 3 + final 9-point Sacramentarian defects) ≈ 60+ Obj units. 522 top-level Q + 337 Obj rendered so far. Locus XXVIII De Ecclesia Catholica vel Christiana follows in T72.]*
-
 — ❦ —
 
-# Locus XXVIII. Of the Catholic or Christian Church (*De Ecclesia Catholica vel Christiana*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXVIII. Of the Catholic or Christian Church
+
+*De Ecclesia Catholica vel Christiana*
 
 ## Question 1. Hath God on this earth a Church or a people, of whom he taketh singular care?
 
@@ -9717,12 +9896,16 @@ Nay, to say summarily: **if the doctrine of the Roman Church on the chief heads 
 They ask however of us, that we teach them **at what time therefore that defection began? But the response is ready — that that defection was not made in one moment, but that errors crept in little by little**. This can be demonstrated by many most evident examples. **The Canon of the Mass was not composed at once, but was scarcely for a space of 500 years cobbled together by the Pontiffs and their successors** — which ecclesiastical history perspicuously attesteth, and the very writers of the Papists are forced to confess. **Augustine hath something concerning purgatory. Yet [it is] uncertain, and [he] is not consistent with himself. Gregory the Great — taught by ghosts that Purgatory exists — confirmed it**. **The invocation of Saints was little by little introduced. Origen around A.D. 240 first moved a disputation of the prayers of blessed spirits, yet invocation did not straightway follow.** Finally around A.D. 370, through **Basil and Nazianzen — on occasion of panegyrical orations of saints — the invocation was borne into the public assemblies of the Church**. Afterwards **Gregory the Great commanded the Litany invocatrix of the Saints publicly to be chanted**. **Bonifacius III bought the title of universal Bishop for great price from Phocas the parricide.** **Once there were no images in the Church** — as from **Epiphanius** it standeth. **They were received afterwards into the Churches, yet affected with no honours. Received and placed, certain pious Bishops broke them. At the extreme, in the second Nicene Council it was decreed that images are not only not to be cast down, but also to be piously adored. The first authors of the half-Sacrament, under Leo the Bishop, were the Manichaeans. So also in the rest, little by little defection was made.**
 
 — ❦ —
-
-*[Locus XXVIII De Ecclesia Catholica vel Christiana is TRULY COMPLETE — rendered in 8 tranches (T72–T79). Total Locus XXVIII: 47 top-level Q + numerous OBIECTIONES clusters (visibility × 5 + notae × 3 + Papist claim + Catholica × 4 [incl. Roman primacy] + antiquity × 4 + scandala × 3 + paucitas + authority × 5 + closing × 2 + Church-can-err × 3) ≈ 30 Obj units. 568 top-level Q + 372 Obj rendered so far. Locus XXIX De Ministerio follows in T80.]*
-
 — ❦ —
 
-# Locus XXIX. Of the Ministry (*De Ministerio*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXIX. Of the Ministry
+
+*De Ministerio*
 
 ## Question 1. Is there any Ministry of the Word in the New Testament?
 
@@ -10064,7 +10247,14 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-# Locus XXX. Of the Power of the Keys (*De Potestate Clavium*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXX. Of the Power of the Keys
+
+*De Potestate Clavium*
 
 ## Question 1. Hath the Church any such power?
 
@@ -10438,7 +10628,14 @@ And **all these things beyond the analogy and prescript of the word of God are n
 
 — ❦ —
 
-# Locus XXXI. Of Penitence (*De Poenitentia*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXI. Of Penitence
+
+*De Poenitentia*
 
 ## Question 1. How is the word *poenitentia* used in the sacred letters?
 
@@ -11140,7 +11337,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXII. Of Christian Liberty (*De Libertate Christiana*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXII. Of Christian Liberty
+
+*De Libertate Christiana*
 
 ## Question 1. What by the word "liberty" in this article is understood? [*[Gal. 5]*] [*[T. 1, p. 147, &c.]*]
 
@@ -11334,7 +11538,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXIII. Of Scandal (*De Scandalo*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXIII. Of Scandal
+
+*De Scandalo*
 
 ## Question 1. What is scandal?
 
@@ -11492,7 +11703,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXIV. Of Miracles (*De Miraculis*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXIV. Of Miracles
+
+*De Miraculis*
 
 ## Question 1. What are Miracles?
 
@@ -11724,7 +11942,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXV. Of Calamities and the Cross (*De Calamitatibus et Cruce*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXV. Of Calamities and the Cross
+
+*De Calamitatibus et Cruce*
 
 [*[T. 5, p. 311 & seq., 264–265; T. 4, p. 88–89]*]
 
@@ -11982,7 +12207,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXVI. Of the Political Magistrate (*De Magistratu Politico*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXVI. Of the Political Magistrate
+
+*De Magistratu Politico*
 
 [*[G.t. 2, p. 39–40; Gen. t. 1, p. 1600; T. 3, p. 355; T. 5, p. 149; T. 1, p. 2]*]
 
@@ -12138,7 +12370,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXVII. Of Matrimony (*De Coniugio*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXVII. Of Matrimony
+
+*De Coniugio*
 
 [*[Gen. t. 2, p. 227; G.t. p. 39; G.t. p. 102]*]
 
@@ -12358,7 +12597,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXVIII. Of Antichrist (*De Antichristo*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXVIII. Of Antichrist
+
+*De Antichristo*
 
 [*[In praefat. sup. Dan.; T. 8, p. 241]*]
 
@@ -12626,7 +12872,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XXXIX. Of Death (*De Morte*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XXXIX. Of Death
+
+*De Morte*
 
 ## Question 1. What is death?
 
@@ -12848,7 +13101,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XL. Of Burial (*De Sepultura*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XL. Of Burial
+
+*De Sepultura*
 
 ## Question 1. Whence, and why, are the dead buried? [*[G.t. 4, p. 247; G.t. 1.6, p. 257]*]
 
@@ -12958,7 +13218,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLI. Of the State of the Soul after the Death of Man (*De Statu Animae Post Mortem Hominis*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XLI. Of the State of the Soul after the Death of Man
+
+*De Statu Animae Post Mortem Hominis*
 
 ## Question 1. Doth man die soul and body together?
 
@@ -13120,7 +13387,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLII. Of the End of This World (*De Fine Huius Mundi*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XLII. Of the End of This World
+
+*De Fine Huius Mundi*
 
 ## Question 1. Shall this world at last pass away and be ended?
 
@@ -13186,7 +13460,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLIII. Of the Resurrection of the Dead (*De Resurrectione Mortuorum*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XLIII. Of the Resurrection of the Dead
+
+*De Resurrectione Mortuorum*
 
 ## Question 1. Is the future resurrection of the dead certain? [*[T. 6, p. 213; G.t. 2, p. 253; T. 4/1, p. 55; Gen. t. 3, p. 4, 45]*]
 
@@ -13426,7 +13707,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLIV. Of the Last Judgement (*De Extremo Iudicio*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XLIV. Of the Last Judgement
+
+*De Extremo Iudicio*
 
 ## Question 1. Is this last judgement also certain to come? [*[T. 3, p. 187]*]
 
@@ -13552,7 +13840,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLV. Of Hell (*De Inferno*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XLV. Of Hell
+
+*De Inferno*
 
 ## Question 1. Is there a hell? [*[T. 4/1]*]
 
@@ -13672,7 +13967,14 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 — ❦ —
 
-# Locus XLVI. Of Eternal Life (*De Vita Aeterna*)
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Locus XLVI. Of Eternal Life
+
+*De Vita Aeterna*
 
 ## Question 1. What is the judgement of reason concerning this doctrine? [*[T. 6, p. 251; T. 3, p. 18]*]
 
@@ -13864,6 +14166,11 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ---
 
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # Appendix A. A Simple and Brief Sketch of the Course of Life, Ministry, and Death of the Reverend and Most Illustrious Timotheus Kirchner
 
 ### *Simplex et Brevis Delineatio Curriculi Vitae, Ministerii, et Obitus Reverendi et Clarissimi Viri Timothei Kirchneri, S.S. Theologiae Doctoris Celeberrimi et Dignissimi*
@@ -13988,9 +14295,4 @@ Omens. Read, Christ Man, Christ God."*
 **— M. David Aquila**
 
 — ❦ —
-
-*[Appendix A Vita Kirchneri COMPLETE — rendered in 1 tranche (T107). Fladyng's *Simplex et Brevis Delineatio Curriculi Vitae, Ministerii, et Obitus Timothei Kirchneri* + Aquila's Epitaphium.]*
-
 ---
-
-*[**KIRCHNER METHODICA 1595 — VOLUME COMPLETE.** Full contents rendered: 46 Loci of the main dogmatic body (T1–T106) = 929 top-level Questions + 442 formal Objections, plus Fladyng's biographical appendix (T107). 107 tranches, 107 commits. What remains untranslated in the printed 1595 volume (OCR 48719–51945, verified 2026-09-09) is only apparatus: (1) *Index Locorum huius Libelli* — a table of contents mapping Latin locus/chapter headings to Latin page-numbers in the Beyer 1595 print, (2) *Index Scripturae in hoc Methodico Libello Explicatorum* — a Scripture-index likewise pointing to Latin page-numbers, and (3) the printer's colophon "Soli Domino, Deo veritatis, sit gloria, Amen. LIPSIAE. Ex officina Typographica." An earlier working handoff (drafted before the appendix was inspected) had speculated a short-form second catechetical cycle of Loci I–XXIV followed the main body; that was a misreading — the "Locus I. De Sacra Scriptura ... p.1.2" entries at OCR 48729ff are the index's page-number pointers into the main body already rendered, not fresh Q/A material. English translations of these two indexes would map to page-numbers that do not exist in our rendered MD, so they add no value and are deliberately omitted.]*
