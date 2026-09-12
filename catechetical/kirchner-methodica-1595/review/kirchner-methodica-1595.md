@@ -2044,7 +2044,7 @@ To this, the Papists themselves are compelled to confess that Scripture ***nowhe
 
 **II.** The goods of the kingdoms of this world are chiefly ***external peace and honest discipline***. But the kingdom of Christ ***comprises and bestows spiritual and eternal goods*** — namely, remission of sins, justice availing before God, the Holy Spirit, eternal life. [*Postilla on the Sunday for Peace of Kingdoms*]
 
-**III.** The kingdoms of this world dominate only over the ***external members***, and coerce them: but the kingdom of Christ dominates over the ***heart and the whole man***, and regenerates and renews the same — **Ps. 51:12**: *"Create in me a clean heart, O God."* **Ezek. 36:25–26** — *"I will pour upon you clean water, and you shall be cleansed from all your filthiness, and I will cleanse you from all your idols; and I will give you a new heart, and put a new spirit within you,"* etc. [*Luther: T. 7, p. 319*]
+**III.** The kingdoms of this world dominate only over the ***external members***, and coerce them: but the kingdom of Christ dominates over the ***heart and the whole man***, and regenerates and renews the same — **Ps. 51:12**: *"Create in me a clean heart, O God."* **Ezek. 36:25–26** — *"Then I will sprinkle clean water on you, and you shall be clean; I will cleanse you from all your filthiness and from all your idols; and I will give you a new heart and put a new spirit within you,"* etc. [*Luther: T. 7, p. 319*]
 
 **IV.** The kingdoms of this world are administered by ***external and corporeal force, sword, and troops***: but the kingdom of Christ is administered by ***Word and Holy Spirit*** — **Ps. 2, 110**.
 
@@ -3132,7 +3132,7 @@ And Paul at **Eph. 4:24; Col. 3:10** writes that ***justice and sanctity*** pert
 
 **Is conversion of man a mere work of God?**
 
-**Most certainly.** [*Luther: T. 2, p. 311; T. 3, part 1, p. 210*] For this work can be attributed ***neither in whole, nor in half, nor in any least part*** to human natural and unregenerate powers of free will; but is to be ascribed ***wholly to divine operation and to the Holy Spirit***. **Ezek. 36:26** — *"And I will give you a new heart, and put a new spirit within you: and I will take away the stony heart out of your flesh, and will give you a heart of flesh,"* etc. **Acts 16:14** — *"The Lord opened her heart to heed the things spoken by Paul."*
+**Most certainly.** [*Luther: T. 2, p. 311; T. 3, part 1, p. 210*] For this work can be attributed ***neither in whole, nor in half, nor in any least part*** to human natural and unregenerate powers of free will; but is to be ascribed ***wholly to divine operation and to the Holy Spirit***. **Ezek. 36:26** — *"I will give you a new heart and put a new spirit within you; I will take the heart of stone out of your flesh and give you a heart of flesh,"* etc. **Acts 16:14** — *"The Lord opened her heart to heed the things spoken by Paul."*
 
 — ❦ —
 
@@ -3381,7 +3381,7 @@ These:
 
 **Yes indeed.** For thus he has laid open his will concerning sin in his Word:
 
-- **Ezek. 18:20** — *"The soul that sinneth, itself shall die."*
+- **Ezek. 18:20** — *"The soul who sins shall die."*
 - **Rom. 6:23** — *"The wages of sin is death."*
 - **John 3:36** — *"He who does not believe the Son shall not see life, but the wrath of God abides on him."*
 - **Mark 16:16** — *"He who does not believe will be condemned."*
@@ -3438,7 +3438,7 @@ And since they did not have a true notice of God's Law, how should they have kno
 
 That **God gave us the ministry of reconciliation** — **2 Cor. 5:18** — *"has given us the ministry of reconciliation."*
 
-That moreover **he certainly promises to all penitent sinners grace, mercy, and remission of sins** — **Ezek. 33:11**: *"As I live, saith the Lord God, I will not the death of the impious, but that he be converted from his way and live."* **1 Tim. 1:15** — *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."*
+That moreover **he certainly promises to all penitent sinners grace, mercy, and remission of sins** — **Ezek. 33:11**: *"As I live, says the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."* **1 Tim. 1:15** — *"This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."*
 
 That **he offers remission of sins even to the greatest and most unworthy sinners** — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Rom. 10:12** — *"For there is no distinction between Jew and Greek, for the same Lord over all is rich to all who call upon Him."*
 
@@ -4786,7 +4786,7 @@ But as concerns us: **we apprehend, receive, apply to ourselves, and retain this
 
 **But to whom will God give this highest grace and mercy?**
 
-**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Ezek. 33:11** — *"As I live, saith the Lord God, I will not the death of the impious, but that the impious be converted from his way and live."* **Ps. 22:26** — *"The poor shall eat and be satisfied."* **Isa. 55:1** — *"Ho! Everyone who thirsts, come to the waters; and you who have no money, come, buy and eat. Yes, come, buy wine and milk without money and without price."*
+**To all sinners doing penitence, in earnest converting themselves to God, and seeking pardon and remission of sins in Christ, who is the Throne of grace.** [*[Luther: Gen. 21, T. 2, p. 206*]*] — **Matt. 11:28**: *"Come to Me, all you who labor and are heavy laden, and I will give you rest."* **Ezek. 33:11** — *"As I live, says the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."* **Ps. 22:26** — *"The poor shall eat and be satisfied."* **Isa. 55:1** — *"Ho! Everyone who thirsts, come to the waters; and you who have no money, come, buy and eat. Yes, come, buy wine and milk without money and without price."*
 
 — ❦ —
 
@@ -5596,7 +5596,7 @@ Then **the saying of Joel speaketh not of the promise of grace and of the remiss
 
 **But what impelleth him to this predestination?**
 
-**His own ineffable mercy** — **Rom. 9:15; Eph. 1:4** — **and that he willeth not the human race, created not in vain, to perish in eternal death** — **Ezek. 18:23**: *"Is it a matter of my will, saith the Lord, that the impious should die, and not that he should be converted from his ways and live?"*
+**His own ineffable mercy** — **Rom. 9:15; Eph. 1:4** — **and that he willeth not the human race, created not in vain, to perish in eternal death** — **Ezek. 18:23**: *"Do I have any pleasure at all that the wicked should die, says the Lord God, and not that he should turn from his ways and live?"*
 
 — ❦ —
 
@@ -5816,7 +5816,7 @@ Besides, **when the man is now regenerate, and his heart and will is converted t
 
 **By whom then can good works be exhibited?** [*[Luther: T. 7, p. 135; Gen. Lib. 2, pp. 96, 97; Potestas Ecclesiastica, part 1, p. 119 f. b; Gen. T. 1, p. 140 f. b*]*]
 
-**By those who are regenerate by the Holy Spirit, have faith in Christ, and in whom the Spirit of God dwelleth and worketh** — **Rom. 8; Ezek. 36:27**: *"I will place my Spirit in the midst of you, and will make you to walk in my commandments, and my judgements ye shall keep, ye shall do them."* **1 John 3:18; Matt. 7:17**: *"Every good tree beareth good fruit."*
+**By those who are regenerate by the Holy Spirit, have faith in Christ, and in whom the Spirit of God dwelleth and worketh** — **Rom. 8; Ezek. 36:27**: *"I will put My Spirit within you and cause you to walk in My statutes, and you will keep My judgments and do them."* **1 John 3:18; Matt. 7:17**: *"Every good tree beareth good fruit."*
 
 And **hence also by contrast it is clear, that men not regenerate, who have not faith in Christ, nor are temples of the Holy Spirit, cannot do truly good works**. Whence **the virtues of the Ethnics and the works of the Pharisees neither are, nor can be called, good works**.
 
@@ -5834,7 +5834,7 @@ And **hence also by contrast it is clear, that men not regenerate, who have not 
 
 **Are those only therefore good works, which God hath commanded?** [*[Luther: T. 4, pp. 407, 408; Gen. T. 2, p. 214*]*]
 
-**Very much so.** For **the Decalogue prescribeth for us, how our whole life is to be conformed to the will of God** — **Ezek. 20:19**: *"I am the Lord your God, walk ye in my precepts."* **1 John 5:3**: *"For this is the love of God, that we keep His commandments."*
+**Very much so.** For **the Decalogue prescribeth for us, how our whole life is to be conformed to the will of God** — **Ezek. 20:19**: *"I am the Lord your God: Walk in My statutes."* **1 John 5:3**: *"For this is the love of God, that we keep His commandments."*
 
 **Christ himself also, Matt. [15], reprobateth the traditions and mandates of men.**
 
@@ -9002,7 +9002,7 @@ And this saying in general concerning the Church speaketh — which is a company
 
 **But what impelleth him to this?**
 
-**I.** **His ineffable and inexhausted mercy** — according to which he willed not the whole human race to perish — **Ezek. 18:32**: *"I will not the death of the sinner, saith the Lord God, but return ye and live."* For **unless God out of mere mercy had regarded man, and by the preaching of the Word and the Sacraments recalled him to penitence and life, he would have perished eternally**. For **the wages of sin is death with all men — Rom. 6:23**.
+**I.** **His ineffable and inexhausted mercy** — according to which he willed not the whole human race to perish — **Ezek. 18:32**: *"I have no pleasure in the death of one who dies, says the Lord God. Therefore turn and live!"* For **unless God out of mere mercy had regarded man, and by the preaching of the Word and the Sacraments recalled him to penitence and life, he would have perished eternally**. For **the wages of sin is death with all men — Rom. 6:23**.
 
 **Then, the intercession and precious merit of Jesus Christ** — **Ps. 2:8**: *"Ask of Me, and I will give You the nations for Your inheritance, and the ends of the earth for Your possession."* **Rom. 3:25**: *"Whom God set forth as a propitiation by His blood, through faith,"* etc. **For outside Christ no man can be saved or made accepted to God.**
 
@@ -10660,7 +10660,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **In what doth God work penitence and conversion?**
 
-**Respondeo**: **In the heart of man, Ezek. 36:26**: *"I will give to you a new heart, and a new Spirit will I place in the midst of you, and I will take away the stony heart from your flesh, and I will give to you a heart of flesh."*
+**Respondeo**: **In the heart of man, Ezek. 36:26**: *"I will give you a new heart and put a new spirit within you; I will take the heart of stone out of your flesh and give you a heart of flesh."*
 
 **The Publican, Luke 18, when God had inwardly touched his heart, striketh his breast, saying**: *"God be propitious to me, a wretched sinner."* **Ps. 51**: *"A contrite and humbled heart thou wilt not despise, O God."* **By means nevertheless God worketh in human hearts, not without means — as the Enthusiasts feign.**
 
@@ -10764,7 +10764,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **Always, whensoever we do penitence, is access open to us into the grace of God?**
 
-**In the highest degree: only that with our whole heart we may return and be converted to the Lord: Ezek. 33:12**: *"The impiety of the impious shall not hurt him, on whatsoever day he shall be converted from his impiety."*
+**In the highest degree: only that with our whole heart we may return and be converted to the Lord: Ezek. 33:12**: *"The righteousness of the righteous man shall not deliver him in the day of his transgression."*
 
 — ❦ —
 
@@ -13192,7 +13192,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is the future resurrection of the dead certain?**
 
-**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of these, who sleep in the dust of the earth, shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Behold, I will send in a Spirit into you, and ye shall live."*
+**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of these, who sleep in the dust of the earth, shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Surely I will cause breath to enter into you, and you shall live."*
 
 **The same also Christ expressly teacheth, John 5:28**: *"For the hour cometh, in which all, who are in the monuments, shall hear his voice, and shall proceed,"* &c.
 
@@ -13698,7 +13698,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **V. That he instituted the Sabbath also in Paradise, [*[G.t. 1, p. 23]*] in which man might singularly be at leisure for the callings divine, hear his word, learn, and meditate: Which certainly chiefly regarded eternal life and rest.**
 
-**VI. The same clearest sayings of Scripture testify, Ps. 16:11**: *"Thou hast made known unto me the ways of life, thou shalt fill me with joy with thy face. Delectations in thy right hand unto the end."* **Ps. 22:27**: *"Their hearts shall live for ever and ever."* **Job 19:25**: *"For I know that my Redeemer liveth."* **Ezek. 37:12**: *"Behold, I will open your tombs."* **Dan. 12:2**: *"And many of those, who sleep in the dust of the earth, shall awake: Some unto eternal life, and some unto reproach, that they may see for ever."* **John 3:16**: *"that whoever believes in Him should not perish but have everlasting life."* **John 10:28**: *"And I give them eternal life."* **Matt. 25:46**: *"the righteous into eternal life."* **John 6:39–40**: *"This is the will of the Father who sent Me, that of all He has given Me I should lose nothing, but should raise it up at the last day. And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will raise him up at the last day."* **John 11:25**: *"I am the resurrection and the life. He who believes in Me, though he may die, he shall live."*
+**VI. The same clearest sayings of Scripture testify, Ps. 16:11**: *"Thou hast made known unto me the ways of life, thou shalt fill me with joy with thy face. Delectations in thy right hand unto the end."* **Ps. 22:27**: *"Their hearts shall live for ever and ever."* **Job 19:25**: *"For I know that my Redeemer liveth."* **Ezek. 37:12**: *"Behold, O My people, I will open your graves."* **Dan. 12:2**: *"And many of those, who sleep in the dust of the earth, shall awake: Some unto eternal life, and some unto reproach, that they may see for ever."* **John 3:16**: *"that whoever believes in Him should not perish but have everlasting life."* **John 10:28**: *"And I give them eternal life."* **Matt. 25:46**: *"the righteous into eternal life."* **John 6:39–40**: *"This is the will of the Father who sent Me, that of all He has given Me I should lose nothing, but should raise it up at the last day. And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will raise him up at the last day."* **John 11:25**: *"I am the resurrection and the life. He who believes in Me, though he may die, he shall live."*
 
 **VII. Examples also in the Old Testament: of Abel, Enoch, Moses, Elijah, do convince that another and eternal life remaineth.**
 
@@ -13908,7 +13908,7 @@ And having with David (Ps. 116) and the Apostles (2 Cor. 4) the same Spirit of f
 
 Mindful of the apostolic precept, Rom. 15 — the things which are of peace, and the things which are of mutual edification — he followed, and the weak in faith brotherly and paternally he instructed, took up. Witnesses are very many throughout Thuringia, Saxony, and the Palatinate: wolves in sheep's clothing, enemies, false brethren, many especially in the Palatinate, even most pertinacious enemies, and those who, since they know no God besides their belly, care not for religion but for region, not for what is God's, but what is of this world — Echebolian dogs turned to their vomit, and sows washed to wallowing in the mire — how kindly heard, faithfully instructed, warned with holy and grave detestation, &c.
 
-Having the Spirit of faith, most freely he spoke, confessing the truth, refuting the lie. He cried and ceased not, as a trumpet he lifted up his voice, and announced to the people of God their sins without any dissimulation. For he knew, and always had in his mouth and heart, that most grave and severe mandate of the Lord, Ezek. 33: *"And thou son of man, I have given thee a watchman to the house of Israel: hearing therefore from my mouth a word, thou shalt announce it to them from me: If, when I say to the wicked, 'Wicked, thou shalt die the death,' thou hast not spoken, that the wicked may turn from his way: the wicked himself dieth in his iniquity, but his blood I will require from thy hand."* **And that most grave sentence of Luther**: *"Whatsoever pastor reproveth not sins, for others' sins with the Devil he shall be cast into eternal torments — even though as to his own sins, which are pardoned him and covered in Christ, he be a son of eternal beatitude."*
+Having the Spirit of faith, most freely he spoke, confessing the truth, refuting the lie. He cried and ceased not, as a trumpet he lifted up his voice, and announced to the people of God their sins without any dissimulation. For he knew, and always had in his mouth and heart, that most grave and severe mandate of the Lord, Ezek. 33: *"So you, son of man: I have made you a watchman for the house of Israel; therefore you shall hear a word from My mouth and warn them for Me. When I say to the wicked, 'O wicked man, you shall surely die!' and you do not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood I will require at your hand."* **And that most grave sentence of Luther**: *"Whatsoever pastor reproveth not sins, for others' sins with the Devil he shall be cast into eternal torments — even though as to his own sins, which are pardoned him and covered in Christ, he be a son of eternal beatitude."*
 
 All corruptions with sincere and knowledgeable zeal he detested, so that not only in the counsel of the impious he went not, in the way of sinners he stood not, and in the pestilential seat he sat not (Ps. 1), but also the heresiarchs, as enemies of God, and the Church of the malignant with perfect hatred he hated (Ps. 139, Ps. 26). And ever with Luther this was his sentence: *"I would rather with the traitor Judas be tormented in infernal fire, than by my fault let any least particular Church of Christ be laid waste by false dogma, or through my collusion be infected with the poison of false doctors and corruption."* **Certain that more tolerable would be Judas's punishment in hell, than that of a prelate who under his own inspection, by conniving and keeping silence at false dogmas, letteth robbers and thieves steal, slaughter, and lose very many human souls.**
 
