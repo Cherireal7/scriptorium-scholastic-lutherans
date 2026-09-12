@@ -750,7 +750,7 @@ The ***community or common in God*** is called that which pertains not only to t
 
 **Isa. 6:8** — *"Whom shall I send, and who will go (in Hebrew ***Lanu***, ***nobis***) for Us?"* And of this testimony **Jerome** on the 6th chapter of Isaiah writes that it indicates the Sacrament of the ***unity and Trinity***.
 
-**Malachi 1:6** — *"If I am a Master (***Adonim***), where is My reverence?"* God, as one Lord in essence, wills to be feared; and yet he speaks in the plural — ***Adonim***, ***Lords*** — that he may teach that in that one and most simple essence of the Divinity there are three distinct Persons.
+**Mal. 1:6** — *"If I am a Master (***Adonim***), where is My reverence?"* God, as one Lord in essence, wills to be feared; and yet he speaks in the plural — ***Adonim***, ***Lords*** — that he may teach that in that one and most simple essence of the Divinity there are three distinct Persons.
 
 In the words of Baptism (as **Ambrose, *De fide* lib. 1, cap. 1**, also observed) an illustrious testimony stands, that the three Persons of the Divinity are one in essence, and that truly there is a Trinity of Persons in the unity of the divine essence. Christ said: *"Baptise them in the name"* — in the ***name*** indeed, ***not in the names***. He himself also says: *"I and the Father are one."* He said ***one***, lest a division of power be made. And in the same place, cap. 2, the Lord, saying *"Go, baptise the nations in the name of the Father and of the Son and of the Holy Spirit,"* shows that the power of the Trinity is one.
 
@@ -844,7 +844,7 @@ It is clear therefore that **Christ has been begotten from eternity of the essen
 
 **I. From his eternal generation from the Father.** [*Luther: T. 4, part 1, pp. 748, 749*] **Ps. 2:7** — *"You are My Son, Today I have begotten You."* **John 3:16** — *"For God so loved the world that He gave His only begotten Son."*
 
-**II. From his eternity**, since Scripture at **John 1:1**, and **Micah 5:2** (*"Whose goings forth are from of old, from everlasting"*), testifies him to be ***from eternity, and thus before the creation of all things, and consequently not a creature but God***.
+**II. From his eternity**, since Scripture at **John 1:1**, and **Mic. 5:2** (*"Whose goings forth are from of old, from everlasting"*), testifies him to be ***from eternity, and thus before the creation of all things, and consequently not a creature but God***.
 
 **III. From the work of creation.** For Scripture testifies that ***all things were made through him*** — **John 1:3**. He is therefore true God by nature, for **creation is a work of the divine Majesty**.
 
@@ -2912,7 +2912,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 
 **Paul at Eph. 4:24 explains the image of God in ***justice and true sanctity in soul and all the powers and faculties of man***.** [*Luther: T. 4, p. 11; Gen. T. 1, pp. 17, 18, 19, 98*]
 
-And this he wills to say — that man in the beginning was ***created full of wisdom, virtue, and charity, without evil concupiscence***, as also **Ecclesiastes 7:29** says: *"God created man ***right***."* This rectitude was ***natural in body and mind***; and if Adam had persisted in it, he would have begotten also such children — in whom no ***evil and inordinate concupiscence*** would have been. And this would have been said to be ***original justice*** — which from origin from Adam by natural propagation and generation would have been received.
+And this he wills to say — that man in the beginning was ***created full of wisdom, virtue, and charity, without evil concupiscence***, as also **Eccles. 7:29** says: *"God created man ***right***."* This rectitude was ***natural in body and mind***; and if Adam had persisted in it, he would have begotten also such children — in whom no ***evil and inordinate concupiscence*** would have been. And this would have been said to be ***original justice*** — which from origin from Adam by natural propagation and generation would have been received.
 
 But because Adam did not stand in that rectitude, that image of God perished, and we are born ***sons of wrath by nature***. To the image of God therefore these things chiefly pertained:
 
@@ -4656,7 +4656,7 @@ For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son
 
 **In this article, *to justify* is nothing else than to absolve from sins gratuitously on account of Christ, and to impute the obedience and merit of Christ through faith unto righteousness.**
 
-The word itself is *per se* **forensic and judicial** — as **Exod. 23:8**: *"do not kill the innocent and righteous. For I will not justify"* (the old translation has: *"I abhor the impious"*) *"the wicked."* **3 Kings 8:32; Isa. 5:22** — and hence into this highest article it has been translated, and puts as it were the whole matter of justification before our eyes.
+The word itself is *per se* **forensic and judicial** — as **Exod. 23:8**: *"do not kill the innocent and righteous. For I will not justify"* (the old translation has: *"I abhor the impious"*) *"the wicked."* **1 Kings 8:32; Isa. 5:22** — and hence into this highest article it has been translated, and puts as it were the whole matter of justification before our eyes.
 
 **Before the judgement of God we are set forth and accused on account of our sins**; there **the Law of God not only cannot absolve us, but even condemns us — nay rather, our own conscience damns us**. There **nothing would remain but death, if God should enter into judgement with us and deal with us according to our sins** — **Ps. 130; 143**. But what does he himself do? **He justifies us and absolves us from our sins** — not that we be found just before him, but **on account of the alien righteousness and merit which his own only-begotten Son Christ Jesus exhibited** — **Rom. 3, 4, 5, 8**.
 
@@ -5394,7 +5394,7 @@ Here therefore in this article the question is not, whether works are exclusivel
 
 **Who conserveth faith in the hearts of the regenerate?** [*[Luther: T. 2, p. 298*]*]
 
-**The Holy Spirit.** For **human powers cannot do this — as experience itself in temptations evinceth**. **1 Peter 1:5**: *"who are kept by the power of God through faith for salvation."* Wherefore **the conservation of salvation is in no wise to be attributed to good works, as some have done**.
+**The Holy Spirit.** For **human powers cannot do this — as experience itself in temptations evinceth**. **1 Pet. 1:5**: *"who are kept by the power of God through faith for salvation."* Wherefore **the conservation of salvation is in no wise to be attributed to good works, as some have done**.
 
 — ❦ —
 
@@ -6038,7 +6038,7 @@ But **hence it followeth not, that in general or universally good works are noxi
 
 **This is certain — that no such works are to be excogitated or prescribed to others.** For **God himself hath prohibited this — Deut. 12:28**: *"Observe and hearken to all things which I command thee."* **V. 32**: *"What I command thee, only this do to the Lord, neither add anything nor diminish."*
 
-**How much God was inflamed against the people of Israel**, because **they built high places, and offered on them, one may abundantly see, among others, 3 Kings 14; Ezek. 16**. To this **Christ himself reprobateth and damneth the mandates of men — Matt. 15:9**. **Col. 2:18**: *"Let no one cheat you of your reward, taking delight in false humility and worship of angels, intruding into those things which he has not seen."*
+**How much God was inflamed against the people of Israel**, because **they built high places, and offered on them, one may abundantly see, among others, 1 Kings 14; Ezek. 16**. To this **Christ himself reprobateth and damneth the mandates of men — Matt. 15:9**. **Col. 2:18**: *"Let no one cheat you of your reward, taking delight in false humility and worship of angels, intruding into those things which he has not seen."*
 
 From these it is easily gathered, **what is to be judged concerning the elective works and cults of the Papists**.
 
@@ -6624,7 +6624,7 @@ The leper, **Matt. 8:2**, cleansing from leprosy; the Canaanite woman, **Matt. 1
 
 ### Objection V. **The Saints in heaven hear the prayers of men. *Ergo* they ought to be invoked. Angels certainly hear the prayers of men, and bring them to God. *Ergo* also the saints, who are like unto the Angels.**
 
-**Respondeo**: **The antecedent is false, by the testimony of Scripture, which saith Abraham to know not what we do — Isa. [63:16]**. **Concerning the Angels I answer**: Although they bring the prayers of the pious to God, **yet they are not to be invoked** — nay, **they are prohibited to be adored — Apoc. 22**. Besides, **they were present to those whose prayers they carried to God — as with Tobias**. But **the deceased Saints are far absent from us**. And although **the Saints be similar to the Angels in some gifts, yet certain it is, that they are not present to our actions and colloquies**.
+**Respondeo**: **The antecedent is false, by the testimony of Scripture, which saith Abraham to know not what we do — Isa. [63:16]**. **Concerning the Angels I answer**: Although they bring the prayers of the pious to God, **yet they are not to be invoked** — nay, **they are prohibited to be adored — Rev. 22**. Besides, **they were present to those whose prayers they carried to God — as with Tobias**. But **the deceased Saints are far absent from us**. And although **the Saints be similar to the Angels in some gifts, yet certain it is, that they are not present to our actions and colloquies**.
 
 **The Papists bring the similitude of a mirror**, and contend that **the Saints in heaven look at that mirror or face of the divine Majesty, and thence recognize our prayers — just as they who look at a mirror hanging in an upper room, recognize the things done in the upper room**. But **similitude proveth nothing, since it is not fortified by the perspicuous word of God**. Every opinion also of men in divine matters apart from the word of God is idolatry. Such is the opinion of the deceased Saints to be invoked. It is therefore **mere idolatry**.
 
@@ -7552,7 +7552,7 @@ So **bread properly and *per se* is not the body of Christ, but on account of th
 
 *"To be in the bread," or "to be given and received with the bread"* — for these formulae are for us equipollent — **doth not will this, that the body be locally included in the bread, but that it be truly present, and with the bread — as through a medium instituted by Christ himself — be given and received**.
 
-**Certainly of God it is said, Ex. 20:24**: *"In every place, in which the memory of my name shall be, I will come to thee,"* etc. **Doth it therefore follow, that God is there locally?** So also **the body of Christ in or under the bread is truly present, but not locally, nor by way of inclusion**.
+**Certainly of God it is said, Exod. 20:24**: *"In every place, in which the memory of my name shall be, I will come to thee,"* etc. **Doth it therefore follow, that God is there locally?** So also **the body of Christ in or under the bread is truly present, but not locally, nor by way of inclusion**.
 
 — ❦ —
 
@@ -8364,7 +8364,7 @@ Hence **the return of Christ to judgement — 2 Thess. 1:7 — is called revelat
 
 **II.** Although the Fathers sometimes called the Supper *the memory of the death of Christ*, yet hence in no wise followeth that **the end and substance of the sacred Supper are one and the same** — since **Christ these two hath distinguished with words of institution, and both hath expressed, and willed to be accurately described to us**.
 
-**III.** **Memory is said not always of an absent thing, but often even of a present thing.** The faithful daily pray: **remember me, God** — but is God on that account absent from them? And **Ex. 20:24 it is said**: *"In every place in which I shall have made the memory of my name, I shall come unto thee, and shall bless thee."* **Is he on that account not present in that place where his memory is?** And **Oecolampadius himself acknowledged and professed the nullity of this argument** — that **it is nothing, since the memory is not only of the absent, but even of the present**.
+**III.** **Memory is said not always of an absent thing, but often even of a present thing.** The faithful daily pray: **remember me, God** — but is God on that account absent from them? And **Exod. 20:24 it is said**: *"In every place in which I shall have made the memory of my name, I shall come unto thee, and shall bless thee."* **Is he on that account not present in that place where his memory is?** And **Oecolampadius himself acknowledged and professed the nullity of this argument** — that **it is nothing, since the memory is not only of the absent, but even of the present**.
 
 — ❦ —
 
@@ -8618,7 +8618,7 @@ Whence **Chrysostom gloriously saith**: *"And now Christ is present, who adorned
 
 — ❦ —
 
-### Argument II. **Daniel 7:9 and 11:31, of Antichrist it is said**: *"they shall take away the daily sacrifices."* ***Ergo* that there be a propitiatory sacrifice in the New Testament is necessary; but this is the Mass.**
+### Argument II. **Dan. 7:9 and 11:31, of Antichrist it is said**: *"they shall take away the daily sacrifices."* ***Ergo* that there be a propitiatory sacrifice in the New Testament is necessary; but this is the Mass.**
 
 **Respondeo**: **First, this is certain — Daniel speaketh properly of Antiochus, and his words are only allegorically transferred to Antichrist**.
 
@@ -9180,7 +9180,7 @@ From all which it is clear, that **although the Pontiff and the Roman Church hav
 
 **So too the Pope and Pharisees were not the Church, but under them was the Church: so the Pontiff of Rome and his bishops — since they teach falsely and shamefully pervert the Sacraments — are not today the Church, but under the Papacy there was and is the Church**.
 
-Just as **in the Old Testament there always were some truly faithful even under impious priests and kings — as the books of Kings and the writings of the Prophets luculently attest**. **Apoc. 12 it is said, that woman — that is, the Church — having recently borne with the boy in the wilderness lay hid, and stayed in that holy city — that is, the Church — meanwhile, not for a small moment, but for months forty-two, or a thousand two hundred sixty days**.
+Just as **in the Old Testament there always were some truly faithful even under impious priests and kings — as the books of Kings and the writings of the Prophets luculently attest**. **Rev. 12 it is said, that woman — that is, the Church — having recently borne with the boy in the wilderness lay hid, and stayed in that holy city — that is, the Church — meanwhile, not for a small moment, but for months forty-two, or a thousand two hundred sixty days**.
 
 **Meanwhile therefore, while that great Michael appeared, killing that Dragon little by little with the sword of the word, or with the Spirit of his mouth — the Catholic Church, in the wilderness of Roman Babylon, with the son of perdition usurping the seat by ministers, and the harlot sitting upon seven mountains, lay hid**. And although she lay hid as it were in the wilderness, yet **there always were extant some witnesses of truth, who cried out against Antichrist or the Pope**.
 
@@ -9650,7 +9650,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 **Can there be separation from the Church without peril?**
 
-**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Be saved from this perverse generation."* **1 Cor. 10:14**: *"flee from idolatry."* **2 Cor. 6:17**: *"Come out from among them and be separate."* **Apoc. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
+**From the true Church no one can separate himself without peril and loss of his salvation.** But **from the false Church one must altogether go out and separate**. For **Christ himself, John 10:5**: *"An alien they follow not."* And **Acts 2:40**: *"Be saved from this perverse generation."* **1 Cor. 10:14**: *"flee from idolatry."* **2 Cor. 6:17**: *"Come out from among them and be separate."* **Rev. 18:4–5**: *"Go out from her, my people, that ye be not partakers of her offences, and receive not of her plagues. Because her sins have reached even unto heaven, and God hath remembered her iniquities."*
 
 — ❦ —
 
@@ -9666,7 +9666,7 @@ Hence **Gerson, part 1, De examinatione doctrinarum**: *"The first truth standet
 
 ### Objection I. **But (they say) if the Roman Church is not the true Church of God, where then hitherto hath the Church been?**
 
-**Respondeo**: **Christ by no word bound his Church to the See or Pontiff of Rome.** But **even in the Papist Antichrist he reserved to himself a holy dedicated name — with the Pontiff defecting from the word of Christ and reigning in the Church by his own traditions — as in the time of Elias, 3 Kings 19, and under Annas, Caiaphas, and the Pontiffs in the time of the Prophets and of Christ**.
+**Respondeo**: **Christ by no word bound his Church to the See or Pontiff of Rome.** But **even in the Papist Antichrist he reserved to himself a holy dedicated name — with the Pontiff defecting from the word of Christ and reigning in the Church by his own traditions — as in the time of Elias, 1 Kings 19, and under Annas, Caiaphas, and the Pontiffs in the time of the Prophets and of Christ**.
 
 — ❦ —
 
@@ -10604,7 +10604,7 @@ To the Minor: **In the converted is faith and love of God — but conjoined with
 
 **How many kinds of penitence are there?**
 
-**Twofold: One true and salutary, the other hypocritical and false — Ahab, 3 Kings [1 Kings] 21:27, simulateth penitence, yet doth not true penitence.**
+**Twofold: One true and salutary, the other hypocritical and false — Ahab, 1 Kings 21:27, simulateth penitence, yet doth not true penitence.**
 
 — ❦ —
 
@@ -11486,7 +11486,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ### Objection. **But they say they are offended at this, that our doctrine is new and scarce sixty years old?**
 
-**Respondeo**: **Of no weight is this urging. Long since they could have inquired, learned, and experienced, that we have not a new doctrine, but that handed down by the Prophets, by Christ, and by the Apostles, and in their writings, as a precious deposit, left to the Church. Since these things are so, and since we sacred Scripture, and the Symbols — the Apostolic, the Nicene, the Athanasian, the Ephesine, the Chalcedonian, &c. — uncorrupt do retain, with whole heart embrace, urge, teach, and confess: and with all the Prophets and Apostles testify: that remission of sins all do receive, doing true poenitentia, and in the name of the Lord Jesus Christ believing, Acts 10:43. Since also the Sacraments according to the institution of Christ we administer: they could and ought to learn hence, that our doctrine is not new, nor first before 60 years began: but that when the Pope and Bishops, neglecting these, in place of Prophetic and Apostolic Scripture, substituted traditions and doctrines and mandates of men, and obtruded them upon the Church, the light of the Divine Word from the infallible goodness of God again was kindled, and as Apoc. 14 it is said, to the whole world was preached**: *"Fear God, and give him honour."*
+**Respondeo**: **Of no weight is this urging. Long since they could have inquired, learned, and experienced, that we have not a new doctrine, but that handed down by the Prophets, by Christ, and by the Apostles, and in their writings, as a precious deposit, left to the Church. Since these things are so, and since we sacred Scripture, and the Symbols — the Apostolic, the Nicene, the Athanasian, the Ephesine, the Chalcedonian, &c. — uncorrupt do retain, with whole heart embrace, urge, teach, and confess: and with all the Prophets and Apostles testify: that remission of sins all do receive, doing true poenitentia, and in the name of the Lord Jesus Christ believing, Acts 10:43. Since also the Sacraments according to the institution of Christ we administer: they could and ought to learn hence, that our doctrine is not new, nor first before 60 years began: but that when the Pope and Bishops, neglecting these, in place of Prophetic and Apostolic Scripture, substituted traditions and doctrines and mandates of men, and obtruded them upon the Church, the light of the Divine Word from the infallible goodness of God again was kindled, and as Rev. 14 it is said, to the whole world was preached**: *"Fear God, and give him honour."*
 
 **But if besides this it be their pleasure to sit in darkness, not to embrace the truth but to persecute — let them do this at their own peril, let not our soul come into their counsel. We rely upon this immovable foundation, because we know that our Churches have the same faith with the Apostles, and on account of the consanguinity of the Apostolic doctrine are truly Apostolic — as Tertullian saith in De Praescriptione.**
 
@@ -11780,7 +11780,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Can the calamities of the pious be called penalties? They can also be called penalties, on this account: that even the pious in their flesh have remaining sin, which is in need of crucifixion and mortification, and that by such penalties and chastisements they be admonished of daily poenitentia: and because God even preceding sins in them by a temporal penalty, for their salvation and for example to the rest, doth punish. Nor yet doth it hence follow, that these penalties or temporal corrections be satisfactions for sins: for one thing it is on account of sin remaining or adhering in the flesh to be reproved: or on account of preceding sins after conversion to be chastised by temporal penalty: and another thing, by these penalties or corrections to satisfy for sins, to appease the wrath of God — which, beyond the Son of God, no one is able to do.**
 
-**III. Singular calamities are those which are said [to occur], when — on account of the confession of Christ and of true doctrine — God, of his good will, doth permit truly pious men to be afflicted and killed, Apoc. 6:9**: *"I saw under the altar the souls of them that were slain on account of the Word of God, and on account of the testimony which they had."* **Hither pertain the examples of all pious and Sanctorum Martyrum of the Old and New Testament, as of the three boys in the furnace of burning fire, of the seven Maccabees, of John the Baptist, of the holy Apostles, of Ignatius, of Polycarp, of Babylas, and of like Martyrs of Jesus Christ.**
+**III. Singular calamities are those which are said [to occur], when — on account of the confession of Christ and of true doctrine — God, of his good will, doth permit truly pious men to be afflicted and killed, Rev. 6:9**: *"I saw under the altar the souls of them that were slain on account of the Word of God, and on account of the testimony which they had."* **Hither pertain the examples of all pious and Sanctorum Martyrum of the Old and New Testament, as of the three boys in the furnace of burning fire, of the seven Maccabees, of John the Baptist, of the holy Apostles, of Ignatius, of Polycarp, of Babylas, and of like Martyrs of Jesus Christ.**
 
 **IV. The Passion of our Lord and Saviour Jesus Christ, to whom alone this most ample name properly belongeth: for he is the propitiation for our sins, and for the sins of the whole world. Isa. 53:5**: *"He was wounded on account of our iniquities."*
 
@@ -12038,7 +12038,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **IV. That he protect the good, Rom. 13, for he beareth the sword not for terror, but for defense and honour of the good. The Magistrate therefore let him not leave unpunished Cain, Absalom, and the like, nor let him strike and press Abel, Elijah, Jeremiah, and the pious; let him not give pardon to ravens and vex doves; let him not be a spider's web catching flies but caught by the mosquitoes' folds.**
 
-**V. Let him give heed, that under his praesidium subjects may honestly prepare their living. For this reason in Daniel 4 he is compared to a most beautiful tree, under whose shadow subjects can seek and acquire their food.**
+**V. Let him give heed, that under his praesidium subjects may honestly prepare their living. For this reason in Dan. 4 he is compared to a most beautiful tree, under whose shadow subjects can seek and acquire their food.**
 
 — ❦ —
 
@@ -12610,7 +12610,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Since therefore we have established that the Roman Pontiff is Antichrist, and the Papacy the kingdom of Antichrist, what is to be done by Christian men?**
 
-**Respondeo**: **They ought to go out from him, that they be not partakers of his works, and of his plagues receive not, Apoc. 18:4. And thus rightly from him shall they go out:**
+**Respondeo**: **They ought to go out from him, that they be not partakers of his works, and of his plagues receive not, Rev. 18:4. And thus rightly from him shall they go out:**
 
 **I. If his doctrine, in those heads in which contrary to Christ and to the Word of God he teacheth, as a doctrine of demons, they abominate and beware.**
 
@@ -12618,7 +12618,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **III. If from all fictitious and idolatrous worships of himself, sacrifices, Masses, &c., they abstain.**
 
-**IV. If his character — the tonsure, the shaving, the chrism, &c. — from him they receive not: for Apoc. 14:9–11 it is said**: *"If any shall have adored the beast and his image, and shall have received his character on his forehead or on his hand: also he shall drink of the wine of the wrath of God, which is mixed pure in the cup of his wrath, and shall be tormented with fire and sulphur in the sight of the holy Angels and before the sight of the Lamb: nor have they rest day and night, who have adored the beast and his image, and if any shall have received the character of his name."*
+**IV. If his character — the tonsure, the shaving, the chrism, &c. — from him they receive not: for Rev. 14:9–11 it is said**: *"If any shall have adored the beast and his image, and shall have received his character on his forehead or on his hand: also he shall drink of the wine of the wrath of God, which is mixed pure in the cup of his wrath, and shall be tormented with fire and sulphur in the sight of the holy Angels and before the sight of the Lamb: nor have they rest day and night, who have adored the beast and his image, and if any shall have received the character of his name."*
 
 **V. If in doctrine and in ceremonies with him no consent or conformity they receive, unless first the whole Papacy he abnegate, and the sincere truth of the Gospel embrace and confess.**
 
@@ -12976,7 +12976,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Where then are the souls of the faithful, after they have departed from the body?**
 
-**Respondeo**: **Scripture simply saith, they are in the hand of God, Ps. 21, Wisd. 2, John 10. Apoc. 6:9 it is said**: *"The souls of the slain crying beneath the altar with a great voice, saying: How long, O Lord (holy and true), dost thou not judge, and dost thou not avenge our blood?"* **Augustine to Laurentius saith them to be hidden, "in their secret receptacles." Bernard**: *"They stand in the courts of the Lord, and rest, but they are not yet fully glorified."*
+**Respondeo**: **Scripture simply saith, they are in the hand of God, Ps. 21, Wisd. 2, John 10. Rev. 6:9 it is said**: *"The souls of the slain crying beneath the altar with a great voice, saying: How long, O Lord (holy and true), dost thou not judge, and dost thou not avenge our blood?"* **Augustine to Laurentius saith them to be hidden, "in their secret receptacles." Bernard**: *"They stand in the courts of the Lord, and rest, but they are not yet fully glorified."*
 
 — ❦ —
 
@@ -13462,7 +13462,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**: **All men who in this world have lived, none excepted, Matt. 25:32**: *"And there shall be gathered before him all nations."* **Rom. 14:10–12**: *"For we shall all stand before the judgment seat of Christ: for it is written, As I live, says the Lord, Every knee shall bow to Me, and every tongue shall confess to God. So then each of us shall give account of himself to God."* **2 Cor. 5:10**: *"For we must all appear before the judgment seat of Christ,"* &c. **Before this tribunal therefore must appear not only poor Lazaruses, but also rich Epulones; not only preachers, but also hearers; not only subjects, but also those bearing magistracies; not only sons and servants, but also parents and lords,** &c.
 
-**The Devils also shall then hear the sentence pronounced upon them, and shall go into eternal fire, Matt. 25:41, Apoc. 20:10. Let us watch therefore and pray, that we may safely stand before the tribunal of Christ.**
+**The Devils also shall then hear the sentence pronounced upon them, and shall go into eternal fire, Matt. 25:41, Rev. 20:10. Let us watch therefore and pray, that we may safely stand before the tribunal of Christ.**
 
 — ❦ —
 
@@ -13574,7 +13574,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **What names in Holy Scripture are attributed to hell?**
 
-**Respondeo**: **In the holy tongue "Scheol" it is called, because it is never satisfied. Ps. 16, 49. Matt. 5 it is called "Gehenna." Gehenna moreover was a most pleasant valley of the sons of Hinnom in the tribe of Benjamin, in which the impious gave their children alive unto Moloch to be burned. Hence afterwards this word was transferred to hell by Christ: For as in the said valley the living children were burned, so the impious in hell shall be tormented in eternal fire. Apoc. 20:10**: *"Sent into the lake of fire and sulphur."* **Matt. 18, Christ calleth it a prison. Matt. 22 it is called the place of outer darkness, where shall be weeping and gnashing of teeth.**
+**Respondeo**: **In the holy tongue "Scheol" it is called, because it is never satisfied. Ps. 16, 49. Matt. 5 it is called "Gehenna." Gehenna moreover was a most pleasant valley of the sons of Hinnom in the tribe of Benjamin, in which the impious gave their children alive unto Moloch to be burned. Hence afterwards this word was transferred to hell by Christ: For as in the said valley the living children were burned, so the impious in hell shall be tormented in eternal fire. Rev. 20:10**: *"Sent into the lake of fire and sulphur."* **Matt. 18, Christ calleth it a prison. Matt. 22 it is called the place of outer darkness, where shall be weeping and gnashing of teeth.**
 
 — ❦ —
 
@@ -13598,7 +13598,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Who then shall be in hell?**
 
-**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Apoc. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Do not be deceived. Neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God."* **Gal. 5:19–21**: *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness, idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."*
+**Respondeo**: **Unclean spirits or evil Angels with all sinners, who in unbelief have remained, and have not done penance, as expressly is said, Matt. 25:41**: *"Depart from me, ye cursed, into eternal fire, which is prepared for the Devil and his Angels."* **Rev. 21:8**: *"But to the fearful, and unbelieving, and the execrable, and homicides, and fornicators, and sorcerers, and idolaters, and all liars, their part shall be in the lake burning with fire and sulphur, which is the second death."* **1 Cor. 6:9–10**: *"Do not be deceived. Neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God."* **Gal. 5:19–21**: *"Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness, idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."*
 
 — ❦ —
 
@@ -13660,7 +13660,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **What then shall be the chief pains of hell?**
 
-**Respondeo**: **Scripture expresseth them by various names. Matt. 22:12: Weeping and gnashing of teeth. Ps. 49:15**: *"Death shall feed upon them."* **Matt. 22:13**: *"into outer darkness."* — **to depart from God, Matt. 7:23. To go with the Devils into fire, &c., Matt. 25. Into inextinguishable fire, Mark 9. The worm not dying, Isa. 66:24. The lake of fire and sulphur, Apoc. 20:10.**
+**Respondeo**: **Scripture expresseth them by various names. Matt. 22:12: Weeping and gnashing of teeth. Ps. 49:15**: *"Death shall feed upon them."* **Matt. 22:13**: *"into outer darkness."* — **to depart from God, Matt. 7:23. To go with the Devils into fire, &c., Matt. 25. Into inextinguishable fire, Mark 9. The worm not dying, Isa. 66:24. The lake of fire and sulphur, Rev. 20:10.**
 
 — ❦ —
 
@@ -13718,7 +13718,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **How is it called in Scripture?**
 
-**Respondeo**: **Eternal life, John 3:16. In respect to this miserable and passing life, Apoc. 21:2, it is said**: *"The holy city Jerusalem coming down from heaven from God prepared,"* &c. **Since God alone bestoweth eternal life, and God shall renew all things in us, in our nature the plenary righteousness and holiness, which in this life are only begun in us, he shall kindle.**
+**Respondeo**: **Eternal life, John 3:16. In respect to this miserable and passing life, Rev. 21:2, it is said**: *"The holy city Jerusalem coming down from heaven from God prepared,"* &c. **Since God alone bestoweth eternal life, and God shall renew all things in us, in our nature the plenary righteousness and holiness, which in this life are only begun in us, he shall kindle.**
 
 — ❦ —
 
@@ -13734,7 +13734,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Whence is eternal life?**
 
-**Respondeo**: **God alone bestoweth it. Apoc. 21:2. The Son of God Jesus Christ however by his death, resurrection, and ascension into heaven merited it, and distributeth it unto us, John 3:13–14, and chap. 14:2–3. For by our works we cannot merit it. And if by our works we could merit it, the incarnation and death of the Son of God would have been in vain.**
+**Respondeo**: **God alone bestoweth it. Rev. 21:2. The Son of God Jesus Christ however by his death, resurrection, and ascension into heaven merited it, and distributeth it unto us, John 3:13–14, and chap. 14:2–3. For by our works we cannot merit it. And if by our works we could merit it, the incarnation and death of the Son of God would have been in vain.**
 
 — ❦ —
 
@@ -13790,9 +13790,9 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. Then in body and soul shall we be perfectly just, clean, and holy, 1 John 3:2**: *"Beloved, now we are sons of God, and it hath not yet appeared what we shall be, since we shall see him as he is."* **For then shall be perfected, that which here in the ministry of word and Sacraments is begun in us.**
 
-**II. Truly free shall we be from death and every evil, Isa. 25:8**: *"He shall cast down death for ever."* **Hos. 13:14**: *"I will redeem them from death."* **1 Cor. 15:54. Apoc. 21:4**: *"there shall be no more death, nor sorrow, nor crying."*
+**II. Truly free shall we be from death and every evil, Isa. 25:8**: *"He shall cast down death for ever."* **Hos. 13:14**: *"I will redeem them from death."* **1 Cor. 15:54. Rev. 21:4**: *"there shall be no more death, nor sorrow, nor crying."*
 
-**III. Truly also free shall we be from the tyranny of the Devil and the torments of hell. 1 Cor. 15, Apoc. 12, Apoc. 20:10**: *"And the Devil was cast into the lake of fire and sulphur."* **Hos. 13, John 8.**
+**III. Truly also free shall we be from the tyranny of the Devil and the torments of hell. 1 Cor. 15, Rev. 12, Rev. 20:10**: *"And the Devil was cast into the lake of fire and sulphur."* **Hos. 13, John 8.**
 
 **IV. So truly free shall we be from all miseries and calamities, interior and exterior. Isa. 25:8**: *"And the Lord God shall wipe away tears from every face."* **Ps. 116:8**: *"For You have delivered my soul from death, my eyes from tears, and my feet from falling."* **John 16:20**: *"but your sorrow will be turned into joy."*
 
@@ -13822,7 +13822,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **What shall be the actions or works of the blessed in eternal life?**
 
-**Respondeo**: **From Apoc. 5 it is clear: The blessed in God shall perpetually rejoice, and himself without ceasing shall praise and celebrate, Apoc. 5:11–14**: *"And I saw, and I heard the voice of many Angels round about the throne, and of the living creatures, and of the elders. And the number of them was thousands of thousands, saying with a loud voice: Worthy is the Lamb, who was slain, to receive virtue, and divinity, and wisdom, and fortitude, and honour, and glory, and benediction: And every creature, which is in heaven, above the earth, and under the earth, and which are in the sea, and which are in it, all I heard saying, sitting on the throne and to the Lamb, benediction, honour, and glory, and power for ever and ever. And the four living creatures said, Amen. And the twenty-four elders fell upon their faces, and adored him that liveth, for ever and ever."* **And chap. 7:9–12**: *"After this I saw a great multitude, which no one could number, out of all nations, and tribes, and peoples, and tongues, standing before the throne, and in sight of the Lamb, clothed with white robes, and palms in their hands, and they cried with a loud voice, saying: Salvation to our God, who sitteth upon the throne, and to the Lamb. And all the Angels stood round about the throne, and the elders, and the four living creatures, and they fell in the sight of the throne on their faces, and adored him, saying, Amen. Blessing, and brightness, and wisdom, and thanksgiving, honour, and virtue, and fortitude to our God for ever and ever, Amen."*
+**Respondeo**: **From Rev. 5 it is clear: The blessed in God shall perpetually rejoice, and himself without ceasing shall praise and celebrate, Rev. 5:11–14**: *"And I saw, and I heard the voice of many Angels round about the throne, and of the living creatures, and of the elders. And the number of them was thousands of thousands, saying with a loud voice: Worthy is the Lamb, who was slain, to receive virtue, and divinity, and wisdom, and fortitude, and honour, and glory, and benediction: And every creature, which is in heaven, above the earth, and under the earth, and which are in the sea, and which are in it, all I heard saying, sitting on the throne and to the Lamb, benediction, honour, and glory, and power for ever and ever. And the four living creatures said, Amen. And the twenty-four elders fell upon their faces, and adored him that liveth, for ever and ever."* **And chap. 7:9–12**: *"After this I saw a great multitude, which no one could number, out of all nations, and tribes, and peoples, and tongues, standing before the throne, and in sight of the Lamb, clothed with white robes, and palms in their hands, and they cried with a loud voice, saying: Salvation to our God, who sitteth upon the throne, and to the Lamb. And all the Angels stood round about the throne, and the elders, and the four living creatures, and they fell in the sight of the throne on their faces, and adored him, saying, Amen. Blessing, and brightness, and wisdom, and thanksgiving, honour, and virtue, and fortitude to our God for ever and ever, Amen."*
 
 **Augustine, book 22 *De civitate Dei*, cap. 29, writeth**: *"When it is asked of me, what the saints shall do in that spiritual body, I say not, what I already see, but I say, what I believe. I say however that they shall see God in that very body."* **And cap. 30**: *"He himself shall be the end of our desires, who without end shall be seen, without weariness shall be loved, without fatigue shall be praised."* **And on Ps. 83**: *"What shall we do in eternal life? This shall be our whole business, without defect, Alleluia, that is, without end we shall praise God."*
 
