@@ -1,10 +1,10 @@
-# Kirchner Methodica 1595 — OCR AUDIT COMPLETE, NKJV pass IN PROGRESS (Rom + John + Matt + Ps done)
+# Kirchner Methodica 1595 — VOLUME COMPLETE (Translation + OCR audit + NKJV pass all done)
 
 **Task:** *Timotheus Kirchner, Methodica Explicatio* (Jena: Beyer, 1595) — English rendering.
 
-## Status as of 2026-09-09
+## Status as of 2026-09-12
 
-**Translation COMPLETE.** **OCR-faithfulness audit COMPLETE.** Only remaining work: NKJV Scripture-conformance pass (deferred to its own dedicated session).
+**Translation COMPLETE.** **OCR-faithfulness audit COMPLETE.** **NKJV Scripture-conformance pass COMPLETE.** All ~57 cited books processed; book-name normalization landed. Volume closed.
 
 - **Last translation-tranche commit:** T107 (Fladyng's *Vita Kirchneri* + Aquila's Epitaphium).
 - **MD file:** `review/kirchner-methodica-1595.md` — ~14k lines, closing marker at end of file.
@@ -66,7 +66,7 @@ Every Scripture citation (~574 quoted, ~324 unique book+chapter combos across ~6
 - **1 Tim.** — ~15 refs, **1 Pet.** — ~14 refs, **2 Tim.** — ~13 refs, **Ezek.** — ~12 refs, **Col.** — ~11 refs
 - Remaining (≤10 refs each): Deut., Jer., Dan., 2 Pet., Job, 1 Thess., Tit., Lam., Exod., 2 Sam., Hos., Amos, Joel, Mal., Malachi, Mic., Micah, Zech., Josh., Jud., Hab., Eccles., Ecclesiastes, 2 Kings, 3 Kings, 1 Chron., Rev., Apoc., James, 2 Thess., Ex.
 
-**Progress note (2026-09-11):** 16 of ~57 books done. Working tree clean at commit `6d9a190`. Resume at Mark.
+**Progress note (2026-09-12):** All ~57 books done. NKJV pass concluded with Mark, 1 Tim, 1 Pet, 2 Tim, Ezek, Col, then shorter-books batch (Deut, Jer, Dan, 2 Pet, Job, 1 Thess, Tit, Lam, Exod, Zech, Rev, Prov, Joel, James, Hos, Eccles, Mic, Mal, Amos, 2 Sam, 2 Kings, 1 Chron, Josh, Hab), and closing book-name normalization (Apoc→Rev, Ex→Exod, Malachi→Mal, Micah→Mic, Daniel→Dan, Ecclesiastes→Eccles, 3 Kings→1 Kings, 1 Peter→1 Pet). Apocryphal citations (Wisd., Sirach/Ecclus., Tob., Jud.[= Judith]) left as-is per NKJV omission.
 - **Apocrypha / Deuterocanon** (Wisd./Wisdom, Sirach/Ecclus., Tob.) — NKJV does not include these. Kirchner cites them as Vulgate. **Leave as-is** — do not fetch. Mark them "(Vulgate; not in NKJV)" in the citation label if a labelling pass is later desired, but not required.
 - **Book-name normalization** (defer or do at end): `Apoc.` → `Rev.`, `Ex.` → `Exod.`, `1 Peter` → `1 Pet.`, `Malachi` → `Mal.`, `Micah` → `Mic.`, `Daniel` → `Dan.`, `Ecclesiastes` → `Eccles.`. `3 Kings` = NKJV `1 Kings`; `2 Kings` (Vulgate numbering) = NKJV `2 Sam.` in some places — verify each with OCR before changing.
 
