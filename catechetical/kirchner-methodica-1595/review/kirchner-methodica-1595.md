@@ -218,7 +218,7 @@ The **Gospel**, however, is not concerned with things to be done and omitted, bu
 
 **Whence does Sacred Scripture take its origin?**
 
-**From God himself.** For at **Exod. 32:15–16** we read: *"And Moses returned from the mount, carrying the two tables of the testimony in his hand, written on both sides, and made by the work of the Lord; the writing also of God was graven in the tables."*
+**From God himself.** For at **Exod. 32:15–16** we read: *"And Moses turned and went down from the mountain, and the two tablets of the Testimony were in his hand. The tablets were written on both sides; on the one side and on the other they were written. Now the tablets were the work of God, and the writing was the writing of God engraved on the tablets."*
 
 Whence it is clear that God himself first ***consigned his word and revelations to letters***, from which also we understand the dignity and majesty of the Sacred Letters. Moses hereafter, by God's command (as we read at **Exod. 34**), consigned the whole Law to letters and left it to posterity; and him the Prophets, Evangelists, and Apostles have followed.
 
@@ -302,7 +302,7 @@ Whensoever any Christian therefore, of whatever condition or dignity, ought to s
 
 **III.** That from the beginning it was ***confirmed by so many illustrious and truly divine miracles***.
 
-**IV.** That the ***holy men of God who wrote it were impelled by God himself*** — **2 Pet. 1:19**: *"And we have the more firm prophetical word, whereunto you do well to attend, as to a light that shineth in a dark place,"* etc.
+**IV.** That the ***holy men of God who wrote it were impelled by God himself*** — **2 Pet. 1:19**: *"And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place,"* etc.
 
 From which it is evident that Scripture is by far to be preferred to the writings of the Heathen.
 
@@ -524,7 +524,7 @@ These things considered, it is plain: **Tertullian does not simply deny that Sac
 
 And Christ himself expressly says, **Matt. 15:9**: *"And in vain they worship Me, teaching as doctrines the commandments of men."*
 
-Besides, the Scripture bids ***"prove all things"*** — **1 Thess. 5:21** — and hold that which is *good*, that is, what is *analogous to the Word of God*. But the rule of proof, as has been said, is the ***Word of God***.
+Besides, the Scripture bids ***"Test all things"*** — **1 Thess. 5:21** — and hold that which is *good*, that is, what is *analogous to the Word of God*. But the rule of proof, as has been said, is the ***Word of God***.
 
 To this, Christ did not say: *"I am human tradition or custom"*, but ***"I am the Truth"***. And **Cyprian to Pompeian**: ***"Consuetudo sine veritate vetustas erroris est: propter quod, relicto errore, sequamur veritatem."*** — *"Custom without truth is the antiquity of error: wherefore, error being forsaken, let us follow the truth."*
 
@@ -746,11 +746,11 @@ The ***community or common in God*** is called that which pertains not only to t
 
 ### Objection IV. If the Persons of the Divinity are really distinguished, they will not be one in essence, and the Trinity will not be unity.
 
-**Respondeo**: **Human reason indeed cannot attain that the Persons of the Divinity are really distinct, and yet in essence be one; but Faith, according to the Word of God, believes this, and leads the reason captive.** For so the Lord himself in the sacred letters speaks concerning this mystery. [*Genesis T. 1, p. 3*] **Gen. 1** describes the creation of all things, and it is said that ***Elohim*** created the heaven and the earth. The verb ***Bara*** is of singular number, that the ***unity of essence*** may be expressed. The name ***Elohim*** is plural, that the ***trinity of Persons in that most simple unity*** may be denoted. This same is repeated **Gen. 2:4**: *"In the day when Jehovah Elohim made the earth and the heavens."* **Josh. 24:19** — *"Ye cannot serve the Lord, for Elohim (God) is holy himself."* Here expressly the unity is confirmed, and yet at the same time the plurality of Persons is asserted. For he calls the one Jehovah ***holy Gods*** — that is, three Persons, Father, Son, and Holy Spirit.
+**Respondeo**: **Human reason indeed cannot attain that the Persons of the Divinity are really distinct, and yet in essence be one; but Faith, according to the Word of God, believes this, and leads the reason captive.** For so the Lord himself in the sacred letters speaks concerning this mystery. [*Genesis T. 1, p. 3*] **Gen. 1** describes the creation of all things, and it is said that ***Elohim*** created the heaven and the earth. The verb ***Bara*** is of singular number, that the ***unity of essence*** may be expressed. The name ***Elohim*** is plural, that the ***trinity of Persons in that most simple unity*** may be denoted. This same is repeated **Gen. 2:4**: *"In the day when Jehovah Elohim made the earth and the heavens."* **Josh. 24:19** — *"You cannot serve the Lord, for He is a holy God."* Here expressly the unity is confirmed, and yet at the same time the plurality of Persons is asserted. For he calls the one Jehovah ***holy Gods*** — that is, three Persons, Father, Son, and Holy Spirit.
 
 **Isa. 6:8** — *"Whom shall I send, and who will go (in Hebrew ***Lanu***, ***nobis***) for Us?"* And of this testimony **Jerome** on the 6th chapter of Isaiah writes that it indicates the Sacrament of the ***unity and Trinity***.
 
-**Malachi 1:6** — *"If I am Lord (***Adonim***), where is my fear?"* God, as one Lord in essence, wills to be feared; and yet he speaks in the plural — ***Adonim***, ***Lords*** — that he may teach that in that one and most simple essence of the Divinity there are three distinct Persons.
+**Malachi 1:6** — *"If I am a Master (***Adonim***), where is My reverence?"* God, as one Lord in essence, wills to be feared; and yet he speaks in the plural — ***Adonim***, ***Lords*** — that he may teach that in that one and most simple essence of the Divinity there are three distinct Persons.
 
 In the words of Baptism (as **Ambrose, *De fide* lib. 1, cap. 1**, also observed) an illustrious testimony stands, that the three Persons of the Divinity are one in essence, and that truly there is a Trinity of Persons in the unity of the divine essence. Christ said: *"Baptise them in the name"* — in the ***name*** indeed, ***not in the names***. He himself also says: *"I and the Father are one."* He said ***one***, lest a division of power be made. And in the same place, cap. 2, the Lord, saying *"Go, baptise the nations in the name of the Father and of the Son and of the Holy Spirit,"* shows that the power of the Trinity is one.
 
@@ -844,7 +844,7 @@ It is clear therefore that **Christ has been begotten from eternity of the essen
 
 **I. From his eternal generation from the Father.** [*Luther: T. 4, part 1, pp. 748, 749*] **Ps. 2:7** — *"You are My Son, Today I have begotten You."* **John 3:16** — *"For God so loved the world that He gave His only begotten Son."*
 
-**II. From his eternity**, since Scripture at **John 1:1**, and **Micah 5:2** (*"His going forth is from the beginning, from the days of eternity"*), testifies him to be ***from eternity, and thus before the creation of all things, and consequently not a creature but God***.
+**II. From his eternity**, since Scripture at **John 1:1**, and **Micah 5:2** (*"Whose goings forth are from of old, from everlasting"*), testifies him to be ***from eternity, and thus before the creation of all things, and consequently not a creature but God***.
 
 **III. From the work of creation.** For Scripture testifies that ***all things were made through him*** — **John 1:3**. He is therefore true God by nature, for **creation is a work of the divine Majesty**.
 
@@ -2210,7 +2210,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **I.** He is the ***third Person of the Divinity*** — **Matt. 28:19**: *"baptizing them in the name of the Father and of the Son and of the Holy Spirit."* True and eternal therefore he must be — for it is not lawful to say or to think anything ***created*** in the sacrosanct Trinity, as **Epiphanius** rightly writes.
 
-**II.** He himself is of the ***essence of the Divinity***. **Joel 2:28** — *"I will pour out my Spirit upon all flesh."* **Isa. 59:21** — *"My Spirit who is upon you."* **John 15:26** — *"But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father."* It is required, therefore, that he be true God from the essence of the Father and of the Son.
+**II.** He himself is of the ***essence of the Divinity***. **Joel 2:28** — *"I will pour out My Spirit on all flesh."* **Isa. 59:21** — *"My Spirit who is upon you."* **John 15:26** — *"But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father."* It is required, therefore, that he be true God from the essence of the Father and of the Son.
 
 **III.** To Christ also is attributed the ***cultus and honour of invocation*** — **Matt. 28** — when he bids that we baptise in his name. He must therefore be true God.
 
@@ -2222,7 +2222,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 ## Objections concerning the Holy Spirit
 
-### Objection I. At **Amos 4:13** it is said: *"Behold, God who createth Spirit."* *Ergo* the Holy Spirit is a creature.
+### Objection I. At **Amos 4:13** it is said: *"Behold, He who creates the wind."* *Ergo* the Holy Spirit is a creature.
 
 **Respondeo**: **Evil is the interpretation.** For in this place the Hebrew ***רוּחַ*** (Ruach) signifies ***wind and stirred air***, not the Holy Spirit.
 
@@ -2242,7 +2242,7 @@ This description has been drawn from the manifest testimonies of Scripture. **Jo
 
 **I. The gathering of the Church.** [*Luther: T. 7, pp. 164, 165, 166*] For he himself, together with the Father and the Son, through the ministry of the Word and Sacraments, gathers the Church — **John 16:8**: *"He will convict the world of sin."* **Matt. 10:20** — *"it is not you who speak, but the Spirit of your Father who speaks in you."*
 
-**II. Regeneration.** For he himself regenerates the whole man, and in the hearts of men excites and kindles true faith in Christ and new obedience — **John 3:5**: *"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God."* **Titus 3:5** — *"By the laver of regeneration and renewal of the Holy Spirit,"* etc.
+**II. Regeneration.** For he himself regenerates the whole man, and in the hearts of men excites and kindles true faith in Christ and new obedience — **John 3:5**: *"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God."* **Titus 3:5** — *"through the washing of regeneration and renewing of the Holy Spirit,"* etc.
 
 **III.** He ***raises up and consoles the contrite and humbled in heart***, in every kind of temptations and miseries; ***corroborates and preserves them in true faith in Christ, in hope, in patience***, etc. Whence he is also called ***Paraclete*** — **John 16:7** [*Luther: T. 7, pp. 89, 85, 87, 88, 89, 90, 91*]: *"But I tell you the truth: it is expedient to you that I go; for if I go not, the Paraclete will not come to you. But if I go, I will send him to you."* **Eph. 3:16** — *"that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man,"* etc.
 
@@ -2268,7 +2268,7 @@ All men, therefore, let them join themselves to the ministry of Word and Sacrame
 
 **To whom is the Holy Spirit given?**
 
-**John 14:17** — Christ says: *"the Spirit of truth, whom the world cannot receive."* Why? Because it does not know Christ, nor hear his Word. On the contrary, ***those who hear Christ, and from his Word know him and invoke him, these receive the Holy Spirit*** — **Joel 2:28–32**: *"I will pour out of my Spirit upon all flesh,"* etc. — *"And every one that calleth upon the name of the Lord shall be saved."*
+**John 14:17** — Christ says: *"the Spirit of truth, whom the world cannot receive."* Why? Because it does not know Christ, nor hear his Word. On the contrary, ***those who hear Christ, and from his Word know him and invoke him, these receive the Holy Spirit*** — **Joel 2:28–32**: *"I will pour out My Spirit on all flesh,"* etc. — *"whoever calls on the name of the Lord shall be saved."*
 
 — ❦ —
 
@@ -2316,7 +2316,7 @@ Whether the Holy Spirit is present in us ***essentially or virtually***: in the 
 
 **Respondeo**: **But there straightway is added: *"and I work."*** Therefore not ***exclusively*** are these words to be understood, as if the remaining Persons of the Divinity were to be excluded. Next, Scripture so speaks, because ***the Father is as it were the fountain of the whole Divinity***.
 
-### Objection III. **2 Kings 19:15** — *"Thou art God alone; thou hast made heaven and earth."* *Ergo* only the Father is the Creator of heaven and earth.
+### Objection III. **2 Kings 19:15** — *"You are God, You alone... You have made heaven and earth."* *Ergo* only the Father is the Creator of heaven and earth.
 
 **Respondeo**: **Hezekiah speaks of the one only true God, as he has manifested himself in his Word — who is Father, Son, and Holy Spirit.** For those three Persons are that one and only true God. He embraces therefore the ***one true and sole divine essence***, in which are three Persons — Father, Son, and Holy Spirit — and does not exclude the Son and the Holy Spirit from the work of creation.
 
@@ -2376,7 +2376,7 @@ All the miracles of the Old and New Testament testify that God is a most free ag
 
 **Through what shall the world pass away?**
 
-**Through fire.** [*Gen. T. 1, p. 122*] **2 Pet. 3:10** — *"But the day of the Lord shall come as a thief, in which the heavens shall pass away with great violence, and the elements shall be melted with heat; and the earth, and the works which are in it, shall be burnt up."*
+**Through fire.** [*Gen. T. 1, p. 122*] **2 Pet. 3:10** — *"But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will melt with fervent heat; both the earth and the works that are in it will be burned up."*
 
 — ❦ —
 
@@ -2512,7 +2512,7 @@ Hither pertain the Scripture testimonies which expressly demonstrate that ***God
 
 **Respondeo**: **It is the fallacy of phrase.** For the sense of the Apostle's words is: not that ***those things were written on account of oxen***, but ***on account of men***. These words therefore do not deny the providence of God as concerns animals and similar small things.
 
-### Objection IV. **Eccles. 1:18** — *"He that addeth knowledge, addeth also labour."* *Ergo* if providence is attributed to God, ***sorrow*** is also attributed to him.
+### Objection IV. **Eccles. 1:18** — *"he who increases knowledge increases sorrow."* *Ergo* if providence is attributed to God, ***sorrow*** is also attributed to him.
 
 **Respondeo**: **Solomon speaks of ***human*** wisdom or knowledge, not of divine knowledge or providence.** *"I applied,"* he says, *"to learn wisdom. But I have found also in this thing much sorrow — because in much wisdom there is much indignation,"* etc.
 
@@ -2572,7 +2572,7 @@ Thirdly, there are again ***other events***, which partly depend upon God himsel
 
 Concerning ***evil events***, it must be known:
 
-**First**, that God ***does not determine, ordain, aid, or will the evils of guilt or sins***. For to sins he is ever ***contrary***. **Zech. 8:17** — *"These are the things which the Lord hateth."* **Eph. 5:6** — *"because of these things the wrath of God comes upon the sons of disobedience."*
+**First**, that God ***does not determine, ordain, aid, or will the evils of guilt or sins***. For to sins he is ever ***contrary***. **Zech. 8:17** — *"For all these are things that I hate, says the Lord."* **Eph. 5:6** — *"because of these things the wrath of God comes upon the sons of disobedience."*
 
 **Secondly**, of ***permission***, let this sentence be observed. **Ps. 81:12–13** — *"But my people heard not my voice: and Israel would not hearken to me. So I let them go according to the desires of their heart: they shall walk in their own inventions,"* etc. Yet let not such ***permission*** be understood as though God ***stood afar off in some watch-tower, and beheld what men do, and permitted them by his own judgement to do those things which they will, and awaited fortuitous outcomes***: but such [permission] is when out of his ***most just anger*** he lets men ***rush into sins, and heap them up, until the measure is filled***. An example of this matter is in ***Cain*** — **Gen. 4**.
 
@@ -2684,7 +2684,7 @@ Concerning ***evil events***, it must be known:
 
 **Are the Angels to be invoked and adored?**
 
-**By no means.** [*Luther: T. 5, p. 336*] For this is nowhere commanded in Scripture, nor do the Angels themselves seek this honour. **Rev. 22:8–9** — *"And after I had heard and seen, I fell down to adore before the feet of the Angel who showed me these things. And he said to me: See thou do it not: for I am thy fellow-servant, and of thy brethren the Prophets, and of them that keep the words of the book of this. Adore God."*
+**By no means.** [*Luther: T. 5, p. 336*] For this is nowhere commanded in Scripture, nor do the Angels themselves seek this honour. **Rev. 22:8–9** — *"Now I, John, saw and heard these things. And when I heard and saw, I fell down to worship before the feet of the angel who showed me these things. Then he said to me, 'See that you do not do that. For I am your fellow servant, and of your brethren the prophets, and of those who keep the words of this book. Worship God.'"*
 
 Let us therefore give thanks to God, who gave them to us as guardians, for this benefit — but let us not adore the Angels themselves.
 
@@ -2862,7 +2862,7 @@ Let us know that ***the Guardian of Israel neither slumbers nor sleeps***; and l
 
 **V.** That ***even the temptations and evils intended by the Devils cooperate to their salvation*** — **Rom. 8** — and they know that ***nothing can separate them from the love of God***.
 
-**VI.** They have the ***strongest bulwark, pious prayers*** — **Prov. 18:10**: *"The name of the Lord is a strong tower: the just runneth to it, and shall be exalted."*
+**VI.** They have the ***strongest bulwark, pious prayers*** — **Prov. 18:10**: *"The name of the Lord is a strong tower; the righteous run to it and are safe."*
 
 — ❦ —
 
@@ -3284,7 +3284,7 @@ When therefore in thy heart thou dost feel these new motions of the Holy Spirit 
 
 **Respondeo**: **The Major is false.** It does not follow: ***"We can be unwilling; therefore also willing."*** To the Minor: Christ attributes to us ***unwillingness***, but ***willingness*** he does not attribute equally. ***Unwillingness*** we have from the corruption of nature, so that ***the sensual man not only does not perceive or will the things of the Spirit of God, but also averts them, and holds them for folly*** — **1 Cor. 2**. ***Willingness*** we have not, unless it be given us divinely through the grace of the Holy Spirit through the Word — **Jer. 44**. The Jews have this — that they say to Jeremiah: *"The word which thou hast spoken to us in the name of the Lord, we will not hear from thee. But we will do every word that goeth out of our own mouth."* That however they should obey the words of the Prophet, and adhere to them with firm confidence of heart, they have not, unless they receive it from the Holy Spirit.
 
-### Objection XV. **Rev. 3:20** — *"Behold, I stand at the door, and knock."* *Ergo* men can open to the Holy Spirit when he knocks.
+### Objection XV. **Rev. 3:20** — *"Behold, I stand at the door and knock."* *Ergo* men can open to the Holy Spirit when he knocks.
 
 **Respondeo**: ***From precept to power the consequence does not follow***, nor does anything follow from ***debitum to inesse***. We ought indeed to open to the Holy Spirit knocking through the Word, but Scripture and examples testify that we sooner ***close the door to him*** than we open. We can ***resist the Holy Spirit knocking***, and on account of innate corruption we ***reclaim to him gladly***. But to obey him from ourselves or our own powers we are not able, unless the Spirit himself renews the hearts, and inspires the powers of opening out of grace.
 
@@ -3805,7 +3805,7 @@ Generally speaking, **all these sins are fruits of original sin** [*[Luther: T. 
 
 **But how do actual sins arise and grow in us?**
 
-**James 1:14–15** — *"Every one is tempted, being drawn away and enticed by his own concupiscence. Then when concupiscence hath conceived, it beareth sin; but sin, when it is completed, begetteth death."*
+**James 1:14–15** — *"each one is tempted when he is drawn away by his own desires and enticed. Then, when desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death."*
 
 **First** therefore in our heart there **arises an evil inclination and thought** unto this or that concupiscence or thing. **Then the heart conceives** the appetite and desire of it, and takes delight in the forbidden thing — as in the example of Eve, **Gen. 3:6**, is to be seen. **After this accedes assent**, and the heart and will of man slip, and they seek an occasion to execute such a sin by work. Even if the heart at times, especially in the regenerate, resist and reluctate, yet the very inclination and depraved thought is sin; and it becomes so much the graver a sin, if the very work accede.
 
@@ -4238,7 +4238,7 @@ From all these it is manifest that even the regenerate and faithful themselves *
 
 **Respondeo**: **It was free for the Apostle to receive a stipend, or to abstain from it. But by what reason will they evince that he supererogated somewhat?** He abstained on account of scandal, lest the Corinthians estimate that he taught the Gospel for the cause of gain — not that he supererogated somewhat. **The words therefore of the Apostle pertain nothing whatsoever to establishing works of supererogation.**
 
-### Objection XI. **James** saith: *"Be ye doers of the Law, and not hearers only"* — **James 1:22**. *Ergo* the fulfilment of the Law is possible.
+### Objection XI. **James** saith: *"be doers of the word, and not hearers only"* — **James 1:22**. *Ergo* the fulfilment of the Law is possible.
 
 **Respondeo**: **From precept to power the consequence does not follow.** The Holy Spirit commands obedience to the Law, **not because we can perform it in this sad corruption of human nature, but that having recognised the infirmity of our powers, we may with whole heart shudder, and seek the perfect fulfilment of the Law from Christ**.
 
@@ -4656,7 +4656,7 @@ For **God put the iniquity of us all upon his Son** — **Isa. 53:6**. **The Son
 
 **In this article, *to justify* is nothing else than to absolve from sins gratuitously on account of Christ, and to impute the obedience and merit of Christ through faith unto righteousness.**
 
-The word itself is *per se* **forensic and judicial** — as **Exod. 23:8**: *"Thou shalt not slay the innocent and just, for I do not justify"* (the old translation has: *"I abhor the impious"*) *"the impious."* **3 Kings 8:32; Isa. 5:22** — and hence into this highest article it has been translated, and puts as it were the whole matter of justification before our eyes.
+The word itself is *per se* **forensic and judicial** — as **Exod. 23:8**: *"do not kill the innocent and righteous. For I will not justify"* (the old translation has: *"I abhor the impious"*) *"the wicked."* **3 Kings 8:32; Isa. 5:22** — and hence into this highest article it has been translated, and puts as it were the whole matter of justification before our eyes.
 
 **Before the judgement of God we are set forth and accused on account of our sins**; there **the Law of God not only cannot absolve us, but even condemns us — nay rather, our own conscience damns us**. There **nothing would remain but death, if God should enter into judgement with us and deal with us according to our sins** — **Ps. 130; 143**. But what does he himself do? **He justifies us and absolves us from our sins** — not that we be found just before him, but **on account of the alien righteousness and merit which his own only-begotten Son Christ Jesus exhibited** — **Rom. 3, 4, 5, 8**.
 
@@ -5202,7 +5202,7 @@ Also **the cause naturally precedeth the effect**. But **the inhabitation of God
 
 **But by what means is faith given?** [*[Luther: T. 5, p. 15*]*]
 
-**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"by the hearing of faith."* **Rom. 10:17**: *"So then faith comes by hearing."* **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the laver of regeneration and renovation of the Holy Spirit."*
+**Through the Word and the Sacraments, which are ordained and instituted by God unto this end** — **Gal. 3:2, 5**: *"by the hearing of faith."* **Rom. 10:17**: *"So then faith comes by hearing."* **Acts 2:38**: *"Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit."* **Tit. 3:5**: *"through the washing of regeneration and renewing of the Holy Spirit."*
 
 — ❦ —
 
@@ -5250,7 +5250,7 @@ Moreover, that **thou mayst know that the remaining doubts in the heart are not 
 
 **Very much so.** **Faith and promise are correlatives, and mutually look upon each other**. For **where there is no promise, there also no faith can be**; and **where there is no faith, there the promise profiteth us not**. But **faith is not always of the same strength, but is sometimes disturbed by temptations and is infirm**. **The promise, however, as the word of God immoveable, is always firm and ratified**.
 
-Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"constituted concerning the Christ of the God of Jacob"* — because he **hath the firm and immoveable promise concerning Christ, and embraceth it with true forming faith**.
+Hence of David it is said, **2 Sam. 23:1** — *hukkam*: *"the anointed of the God of Jacob"* — because he **hath the firm and immoveable promise concerning Christ, and embraceth it with true forming faith**.
 
 — ❦ —
 
@@ -5652,7 +5652,7 @@ And if anyone **according to the judgement of reason and the doctrine of the Law
 
 **Is it rightly said by some: that God — without respect of sin, by an eternal decree and purpose — hath ordained and predestined certain men to condemnation, who cannot be converted and saved?**
 
-**By no means.** For **nowhere doth Scripture so speak; but on the contrary expressly saith, 1 Tim. 2:4** — *"God our Saviour desires all men to be saved and to come to the knowledge of the truth."* **Hos. 13:9** — *"Thy perdition is of thyself, Israel; only in me is thy help."*
+**By no means.** For **nowhere doth Scripture so speak; but on the contrary expressly saith, 1 Tim. 2:4** — *"God our Saviour desires all men to be saved and to come to the knowledge of the truth."* **Hos. 13:9** — *"O Israel, you are destroyed, but your help is from Me."*
 
 Wherefore **let all the pious abstain from blasphemies of this kind**, and **if from others they shall hear them uttered, let them shut ears and hearts against blasphemies of this kind**.
 
@@ -5888,7 +5888,7 @@ From which it is clear, that it is necessary that **the person first through fai
 
 **III.** **The calling itself and its end. For unto sanctification, that in newness of life we may walk, are we called** — **1 Thess. 4:7**: *"For God hath not called us into uncleanness, but into sanctification."* **1 Pet. 2:12**: *"Having your conduct honorable among the Gentiles, that when they speak against you as evildoers, they may, by your good works which they observe, glorify God in the day of visitation."* **1 John 3:10**: *"In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother."*
 
-**IV.** That **by our honest conversation we may adorn the doctrine of the Gospel** — **Phil. 1:27**: *"Only converse ye worthily of the Gospel of Christ."* **Tit. 2:10**: *"In all things showing good faith, that they may adorn the doctrine of God our Saviour in all things."*
+**IV.** That **by our honest conversation we may adorn the doctrine of the Gospel** — **Phil. 1:27**: *"Only converse ye worthily of the Gospel of Christ."* **Tit. 2:10**: *"showing all good fidelity, that they may adorn the doctrine of God our Saviour in all things."*
 
 **V.** That **we may be found imitators of Christ** — **Phil. 2:5**: *"Let this mind be in you which was also in Christ Jesus."* **1 Cor. 11:1**: *"Imitate me, just as I also imitate Christ."* **1 Pet. 1:14**: *"as obedient children, not conforming yourselves to the former lusts, as in your ignorance; but as He who called you is holy, you also be holy in all your conduct, because it is written, 'Be holy, for I am holy.'"*
 
@@ -6530,7 +6530,7 @@ Hence gloriously **Augustine**: *"To him faithfully supplicating GOD for the nec
 
 **What is to be done, when God greatly defers his hearing?**
 
-Here **Ps. 27:14 answereth**: *"Wait on the Lord; be of good courage, and He shall strengthen your heart; wait, I say, on the Lord."* And **Ps. 130:5–7**: *"I wait for the Lord, my soul waits, and in His word I do hope. My soul waits for the Lord more than those who watch for the morning — yes, more than those who watch for the morning. Let Israel hope in the Lord."* And **Hab. 2:3**: *"If it delay, expect it, because coming it shall come, and shall not tarry."* **Lam. 3:26–27**: *"It is good to prestolate with silence the salvation of God; it is good to a man, when he shall have borne the yoke from his adolescence: he shall sit solitary, and shall be silent."* [*[Gen. 25, T. 3, p. 7*]*]
+Here **Ps. 27:14 answereth**: *"Wait on the Lord; be of good courage, and He shall strengthen your heart; wait, I say, on the Lord."* And **Ps. 130:5–7**: *"I wait for the Lord, my soul waits, and in His word I do hope. My soul waits for the Lord more than those who watch for the morning — yes, more than those who watch for the morning. Let Israel hope in the Lord."* And **Hab. 2:3**: *"though it tarries, wait for it; because it will surely come, it will not tarry."* **Lam. 3:26–27**: *"It is good that one should hope and wait quietly for the salvation of the Lord. It is good for a man to bear the yoke in his youth. Let him sit alone and keep silent, because God has laid it on him."* [*[Gen. 25, T. 3, p. 7*]*]
 
 For on this account God oftentimes **deferreth the hearing of our prayers, that in his own time — far beyond what we asked or expected — he may bestow it upon us**. **Eph. 3:20–21**: *"Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to Him be glory in the church"* [*[…p. 490 f. b*]*].
 
@@ -7108,7 +7108,7 @@ The Jews indeed and the Turks also use baptisms — they wash and cleanse themse
 
 **What doth Baptism work?** [*[T. 7, pp. 404, 405; T. 3, p. 543 f. b; T. 3/1, p. 80*]*]
 
-**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He who believes and is baptized will be saved."* **Acts 2:38**: *"let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"According to his mercy he hath saved us, through the laver of regeneration and renovation of the Holy Spirit."* **1 Pet. 3:21**: *"There is also an antitype which now saves us — baptism, not the removal of the filth of the flesh, but the answer of a good conscience toward God, through the resurrection of Jesus Christ."*
+**As an instrument and means of God, it worketh remission of sins, regeneration, renovation, and salvation** — as express sayings of Scripture attest. **Mark 16:16**: *"He who believes and is baptized will be saved."* **Acts 2:38**: *"let every one of you be baptized in the name of Jesus Christ for the remission of sins."* **Eph. 5:26**: *"cleansing her with the washing of water by the word."* **Tit. 3:5**: *"according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit."* **1 Pet. 3:21**: *"There is also an antitype which now saves us — baptism, not the removal of the filth of the flesh, but the answer of a good conscience toward God, through the resurrection of Jesus Christ."*
 
 — ❦ —
 
@@ -9150,7 +9150,7 @@ Also **the Sacraments can be outside the Church among heretics — *ergo* the us
 
 **Gen. 48:16** it is said: *"Let my name be named upon them, and the name of my fathers,"* etc. Here **against the Hebrew fonts, and against the mind of the Patriarch Jacob, they urge the Latin text — and thence attempt to evince, that the deceased saints are to be invoked** — when yet **the whole Church of the faithful of the Old Testament is ignorant of the invocation of Saints, and it never came into Jacob's mind, not even in a dream, to institute and hand down by those words the invocation of the dead**.
 
-**Job 5:1** it is said: *"Turn thee to any of the Saints"* — and here similarly **they attempt to establish the invocation of the deceased Saints** — when yet **Eliphaz commandeth Job to show any Saint who innocent and without cause hath been afflicted by God** (as Job out of impatience contended) — **and in no wise treateth of the invocation of the deceased Saints**.
+**Job 5:1** it is said: *"to which of the holy ones will you turn?"* — and here similarly **they attempt to establish the invocation of the deceased Saints** — when yet **Eliphaz commandeth Job to show any Saint who innocent and without cause hath been afflicted by God** (as Job out of impatience contended) — **and in no wise treateth of the invocation of the deceased Saints**.
 
 **What indeed can be said or thought more horrible and abominable, than that they have accommodated the whole Psalter to the Virgin Mary? And though David teacheth only God to be invoked, they invert his words, and in the place of God substitute Mary, invoke her, and all things which are to be sought from God alone, they ask from her** — as **Ps. 51**: *"Have mercy on me, O Lady, who art called mother of mercy: and according to the bowels of thy mercies cleanse me from all mine iniquities."*
 
@@ -10008,7 +10008,7 @@ So that **the Roman Pontiff hath usurped to himself the power of loosing and bin
 
 For **this hath no other power than — a legitimate calling preceding — of preaching the word of God, and of administering the Sacraments according to the institution of Christ, and not otherwise: of loosing the contrite and humbled in Spirit, of binding the sins of the impenitent and contumacious, according to the mandate of Christ**: item, **with the consent of the Church, of instituting free ceremonies not contrary to the word of God for the edification of the Church, without the snare of consciences** — **and the same again, if into abuse they be drawn or make not further for edification, of abrogating** — attending, **that all things in the Church be done in order and comeliness**.
 
-And **all these things beyond the analogy and prescript of the word of God are not to be extended**. **Prov. 30:5**: *"Every word of God is a fiery shield to those hoping in him: add thou not anything to his words — lest thou be reproved and be found a liar."*
+And **all these things beyond the analogy and prescript of the word of God are not to be extended**. **Prov. 30:5**: *"Every word of God is pure; He is a shield to those who put their trust in Him. Do not add to His words, lest He rebuke you, and you be found a liar."*
 
 — ❦ —
 
@@ -11958,7 +11958,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. That they know these all things to happen unto them according to the good will of God, and not by chance or by hazard. Matt. 10:30**: *"But the very hairs of your head are all numbered."* **Ps. 68:19–20**: *"Blessed be the Lord, who daily loads us with benefits, the God of our salvation! Our God is the God of salvation; and to God the Lord belong escapes from death."*
 
-**II. That good it is with silence to await the salvation of God**: *"Good it is to a man, when he shall have borne the yoke from his youth. He shall sit solitary and shall be silent, because he hath lifted himself above [himself],"* &c. **Lam. 3:26–28.**
+**II. That good it is with silence to await the salvation of God**: *"It is good for a man to bear the yoke in his youth. Let him sit alone and keep silent, because God has laid it on him,"* &c. **Lam. 3:26–28.**
 
 **III. That with good conscience they suffer, 2 Cor. 1:12 [*[Gen. t. 4, p. 25–26]*]**: *"For our glorying is this, the testimony of our conscience."*
 
@@ -12656,7 +12656,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Respondeo**: **This Philosophy and human reason plainly ignore. Galen saith, that death is the extinction of the innate heat: but this doth not yet express the true cause. Sacred Scripture saith, that the first and principal cause of death and of all human diseases and infirmities is the fall of the first parents, Gen. 3, and sin, in which man is conceived and born, Rom. 5–6**: *"The wages of sin is death."* **Ps. 90:8. Wisd. 2:23**: *"Because God created man inextinguishable, and to the image of his likeness he made him: But by the envy of the Devil death entered into the compass of the earths."*
 
-**Actual sins also often accelerate death. Ps. 39:12**: *"In rebukes on account of iniquity thou hast corrected man, and hast made his soul to waste as a spider,"* &c. **1 Chron. 10:13, it is said**: *"Saul therefore died on account of his iniquities."*
+**Actual sins also often accelerate death. Ps. 39:12**: *"In rebukes on account of iniquity thou hast corrected man, and hast made his soul to waste as a spider,"* &c. **1 Chron. 10:13, it is said**: *"So Saul died for his unfaithfulness which he had committed against the Lord."*
 
 — ❦ —
 
@@ -12844,7 +12844,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **III. That with them he is in tribulation, and in the sorrows of death, bestoweth a happy exit of life, freeth them from this vale of miseries, giveth them holy desire, that they may desire to be dissolved, and to be with Christ, Phil. 1:23.**
 
-**IV. That certainly them he shall raise up, and body and soul with eternal life and glory shall adorn and clarify. John 5, 6, Job 19:25–27**: *"For I know that my Redeemer liveth, and in the last day from the earth I shall arise: And again I shall be surrounded with my skin, and in my flesh I shall see God, whom I shall see, I my own self, and my eyes shall behold, and not another. Reposited is this my hope in my bosom."* **Faith therefore it is that conquereth death and triumpheth eternally. Luther, Gen. T. 2, p. 194–196.**
+**IV. That certainly them he shall raise up, and body and soul with eternal life and glory shall adorn and clarify. John 5, 6, Job 19:25–27**: *"For I know that my Redeemer lives, and He shall stand at last on the earth; and after my skin is destroyed, this I know, that in my flesh I shall see God, whom I shall see for myself, and my eyes shall behold, and not another. How my heart yearns within me!"* **Faith therefore it is that conquereth death and triumpheth eternally. Luther, Gen. T. 2, p. 194–196.**
 
 — ❦ —
 
@@ -12964,7 +12964,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Doth man die soul and body together?**
 
-**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"And the Lord God... breathed into his nostrils the breath of life."* **Eccles. 12:7**: *"Let the spirit return unto God, who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:5**: *"Into Your hand I commit my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
+**Respondeo**: **By no means. For only the body dieth, the soul from the body indeed by death is torn away, yet is immortal, Matt. 10**: *"They cannot kill the soul."* **Gen. 2:7 it is said**: *"And the Lord God... breathed into his nostrils the breath of life."* **Eccles. 12:7**: *"the spirit will return to God who gave it."* **Wisd. 3:1**: *"The souls of the just are in the hand of God."* **Ps. 31:5**: *"Into Your hand I commit my spirit."* **Acts 7:59**: *"Lord Jesus, receive my spirit."*
 
 ### Objection. **But God, Gen. 2, threatened death to the whole man, if he should sin?**
 
@@ -13126,7 +13126,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Shall this world at last pass away and be ended?**
 
-**Respondeo**: **In the highest degree: For however much the Epicureans believe not, but laugh, yet at last it shall pass away: for this Scripture perspicuously testifieth, Ps. 102:27**: *"The heavens themselves shall perish."* **Luke 21:33**: *"Heaven and earth will pass away,"* &c. **2 Pet. 3:7**: *"The heavens moreover, that now are, and the earth by the same word are treasured up, being reserved unto fire in the day of judgement."*
+**Respondeo**: **In the highest degree: For however much the Epicureans believe not, but laugh, yet at last it shall pass away: for this Scripture perspicuously testifieth, Ps. 102:27**: *"The heavens themselves shall perish."* **Luke 21:33**: *"Heaven and earth will pass away,"* &c. **2 Pet. 3:7**: *"the heavens and the earth which are now preserved by the same word, are reserved for fire until the day of judgment and perdition of ungodly men."*
 
 — ❦ —
 
@@ -13192,7 +13192,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **Is the future resurrection of the dead certain?**
 
-**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know, that my Redeemer liveth,"* &c. **Dan. 12:1–2**: *"And many of those who sleep in the dust of the earth shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Surely I will cause breath to enter into you, and you shall live."*
+**Respondeo**: **Most certainly: For this most evidently doth Scripture testify. Job 19:25**: *"For I know that my Redeemer lives,"* &c. **Dan. 12:1–2**: *"And many of those who sleep in the dust of the earth shall awake,"* &c. **Isa. 26:19**: *"Your dead shall live."* **Ezek. 37:5**: *"Surely I will cause breath to enter into you, and you shall live."*
 
 **The same also Christ expressly teacheth, John 5:28**: *"For the hour cometh, in which all, who are in the monuments, shall hear his voice, and shall proceed,"* &c.
 
@@ -13258,7 +13258,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **But what riseth?**
 
-**Respondeo**: **The body from the earth shall be raised, Job 19:25**: *"From the earth I am to rise."* **Whence Epiphanius against the Hieracites**: *"Of what sort is that which hath fallen, of what sort that which hath been buried, of what sort that which hath been dissolved? Certainly the body, and not the soul. The resurrection of the soul it is not called, but the body is that which riseth."*
+**Respondeo**: **The body from the earth shall be raised, Job 19:25**: *"He shall stand at last on the earth."* **Whence Epiphanius against the Hieracites**: *"Of what sort is that which hath fallen, of what sort that which hath been buried, of what sort that which hath been dissolved? Certainly the body, and not the soul. The resurrection of the soul it is not called, but the body is that which riseth."*
 
 — ❦ —
 
@@ -13306,7 +13306,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **When shall the resurrection of the dead be?**
 
-**Respondeo**: **In the last day, John 6:40**: *"And I will raise him up in the last day."* **Job 19:25**: *"And in the last day from the earth I am to rise,"* &c.
+**Respondeo**: **In the last day, John 6:40**: *"And I will raise him up in the last day."* **Job 19:25**: *"He shall stand at last on the earth,"* &c.
 
 — ❦ —
 
@@ -13396,7 +13396,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 ### Objection II. **Yet, Christ then will create new bodies, for all things shall be new?**
 
-**Respondeo**: **As pertaineth to substance, he will not create new bodies, but as to the gifts, prerogatives, properties, and glory. For to those raised new powers and holy qualities in body and soul he shall bestow, as a little before from 1 Cor. 15 we have heard, but as to substance, he shall not create other new bodies for us: else he would not rightly have said, Job 19:25**: *"And in the last day from the earth I am to rise, and again I shall be surrounded with my skin,"* &c.
+**Respondeo**: **As pertaineth to substance, he will not create new bodies, but as to the gifts, prerogatives, properties, and glory. For to those raised new powers and holy qualities in body and soul he shall bestow, as a little before from 1 Cor. 15 we have heard, but as to substance, he shall not create other new bodies for us: else he would not rightly have said, Job 19:25**: *"He shall stand at last on the earth. And after my skin is destroyed, this I know, that in my flesh I shall see God,"* &c.
 
 ### Objection III. **But 2 Cor. 7:1 it is said**: *"Let us cleanse ourselves from all filth of flesh and spirit."* **Ergo,** &c.
 
@@ -13698,7 +13698,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **V. That he instituted the Sabbath also in Paradise, [*[G.t. 1, p. 23]*] in which man might singularly be at leisure for the callings divine, hear his word, learn, and meditate: Which certainly chiefly regarded eternal life and rest.**
 
-**VI. The same clearest sayings of Scripture testify, Ps. 16:11**: *"Thou hast made known unto me the ways of life, thou shalt fill me with joy with thy face. Delectations in thy right hand unto the end."* **Ps. 22:27**: *"Their hearts shall live for ever and ever."* **Job 19:25**: *"For I know that my Redeemer liveth."* **Ezek. 37:12**: *"Behold, O My people, I will open your graves."* **Dan. 12:2**: *"And many of those, who sleep in the dust of the earth, shall awake: Some unto eternal life, and some unto reproach, that they may see for ever."* **John 3:16**: *"that whoever believes in Him should not perish but have everlasting life."* **John 10:28**: *"And I give them eternal life."* **Matt. 25:46**: *"the righteous into eternal life."* **John 6:39–40**: *"This is the will of the Father who sent Me, that of all He has given Me I should lose nothing, but should raise it up at the last day. And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will raise him up at the last day."* **John 11:25**: *"I am the resurrection and the life. He who believes in Me, though he may die, he shall live."*
+**VI. The same clearest sayings of Scripture testify, Ps. 16:11**: *"Thou hast made known unto me the ways of life, thou shalt fill me with joy with thy face. Delectations in thy right hand unto the end."* **Ps. 22:27**: *"Their hearts shall live for ever and ever."* **Job 19:25**: *"For I know that my Redeemer lives."* **Ezek. 37:12**: *"Behold, O My people, I will open your graves."* **Dan. 12:2**: *"And many of those, who sleep in the dust of the earth, shall awake: Some unto eternal life, and some unto reproach, that they may see for ever."* **John 3:16**: *"that whoever believes in Him should not perish but have everlasting life."* **John 10:28**: *"And I give them eternal life."* **Matt. 25:46**: *"the righteous into eternal life."* **John 6:39–40**: *"This is the will of the Father who sent Me, that of all He has given Me I should lose nothing, but should raise it up at the last day. And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will raise him up at the last day."* **John 11:25**: *"I am the resurrection and the life. He who believes in Me, though he may die, he shall live."*
 
 **VII. Examples also in the Old Testament: of Abel, Enoch, Moses, Elijah, do convince that another and eternal life remaineth.**
 
@@ -13790,7 +13790,7 @@ To the Minor: **The Papist Church followeth indeed the example of God, but witho
 
 **I. Then in body and soul shall we be perfectly just, clean, and holy, 1 John 3:2**: *"Beloved, now we are sons of God, and it hath not yet appeared what we shall be, since we shall see him as he is."* **For then shall be perfected, that which here in the ministry of word and Sacraments is begun in us.**
 
-**II. Truly free shall we be from death and every evil, Isa. 25:8**: *"He shall cast down death for ever."* **Hos. 13:14**: *"From the hand of death I will free them."* **1 Cor. 15:54. Apoc. 21:4**: *"And death shall be no more, nor mourning."*
+**II. Truly free shall we be from death and every evil, Isa. 25:8**: *"He shall cast down death for ever."* **Hos. 13:14**: *"I will redeem them from death."* **1 Cor. 15:54. Apoc. 21:4**: *"there shall be no more death, nor sorrow, nor crying."*
 
 **III. Truly also free shall we be from the tyranny of the Devil and the torments of hell. 1 Cor. 15, Apoc. 12, Apoc. 20:10**: *"And the Devil was cast into the lake of fire and sulphur."* **Hos. 13, John 8.**
 
