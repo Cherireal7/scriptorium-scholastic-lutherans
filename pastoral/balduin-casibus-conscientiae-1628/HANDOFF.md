@@ -34,33 +34,22 @@ balduin-casibus-conscientiae-1628/
 
 ## Stage 1: source acquisition — DONE
 
-Source PDF downloaded to `sources-original/balduin-casibus-1628.pdf`. If the download aborted mid-way, retry via:
+Source PDF at `sources-original/balduin-casibus-1628.pdf` (90.5 MB / 96 MB). **Note:** Stage 1's initial download aborted at 6.2 MB (missing xref/trailer); Stage 2 completed the download. If ever missing again, resume via:
 
     curl -L --retry 10 --retry-delay 5 --continue-at - \
       -o sources-original/balduin-casibus-1628.pdf \
       -A "Mozilla/5.0" \
       "https://archive.org/download/bub_gb_us9YzllXDMsC/bub_gb_us9YzllXDMsC.pdf"
 
-Or download manually via a browser from the archive.org details page and place at that path.
+## Stage 2: OCR extraction + structural map — DONE
 
-## Stage 2: OCR extraction + structural map — TODO
-
-**Step 1:** Extract text.
-
-    pdftotext -layout sources-original/balduin-casibus-1628.pdf \
-      sources-original/balduin-casibus-1628.txt
-
-If text-layer quality is poor (common for 17th-c. Wittenberg prints with heavy long-s + ligatures), fall back to Tesseract with Latin language pack, or use `pdfplumber` as the Selnecker Symbolorum volume did (see `dogmatics/selnecker-symbolorum-1577/sources-original/extract.py` as template).
-
-**Step 2:** Skim the OCR to identify structure:
-- Balduin's *Tractatus* is organized into **four books** (Libri), following the Decalogue structure — Book 1 (Duties toward God / Table I), Book 2 (Duties toward superiors, self, neighbour / Table II), Book 3 (specific vocation-cases: magistrate, minister, householder), Book 4 (adiaphora and residual cases). Each book divides into *Capita* (chapters), each chapter into numbered *Casus* (cases of conscience).
-- Grep the OCR for `LIBER`, `CAPUT`, `CASUS`, `Quaestio` markers.
-- Note the total case-count per Liber for the tranche plan.
-
-**Step 3:** Write `notes.md` with:
-- Full title (Latin), printer, year, place.
-- Structural breakdown with OCR line ranges per Liber / Caput.
-- Tranche plan (Balduin cases are typically shorter than Kirchner Q&A — group ~10–15 cases per tranche).
+Full details in `notes.md`. Summary:
+- Extraction: `sources-original/extract.py` (PyMuPDF; `pdftotext` refused the file). 75,390 OCR lines / 3.32 MB across all 1198 pages.
+- Structural map: **fourfold by object of action** (I=conscience, II=God, III=spirits, IV=human affairs — NOT Decalogue-ordered as this HANDOFF originally guessed).
+- Body ends naturally with AMEN + doxology on physical p. 1109; 3 back-matter indexes (Scriptura / Patres / Rerum) fill pp. 1110–1189; FINIS on p. 1190; Frankfurt colophon on p. 1191.
+- OCR quality: heavier long-s/ligature drift than Selnecker/Kirchner but tractable — see `notes.md §OCR quality`.
+- Tranche plan: 25 body tranches + 1 front-matter tranche.
+- Bible-citation policy: KJV pass (Kirchner precedent) — see `notes.md §Bible-citation policy`.
 
 ## Stage 3–5: translation, audit, build — TODO
 
@@ -73,11 +62,11 @@ Follow `shared/translation-pipeline.md` and `shared/formatting-standard.md`. Key
 - Auto-populated TOC via `TOC \o "1-1" \h \z \u` openxml field.
 - Recto (oddPage) chapter openers via `{=openxml}` sectPr injection before each body H1.
 - Strip Latin blockquotes from body (Kirchner English-only precedent).
-- KJV Scripture pass per `shared/translation-pipeline.md` §4b (Balduin will cite Scripture heavily on each case).
+- KJV Scripture pass per `shared/translation-pipeline.md` §4b (Balduin cites Scripture heavily on each case).
 
-**Bible-citation policy for this volume:** unclear yet — Balduin's *Casibus* is heavily Scripture-argued for each case-of-conscience. Depending on citation density, either the KJV-pass approach (Kirchner precedent, 577 changes) or the own-rendering approach (Selnecker Symbolorum precedent, patristic-heavy volumes) will fit. Decide after Stage 2 survey.
+**Reference DOCX + build pipeline:** copy from Kirchner Methodica (`catechetical/kirchner-methodica-1595/reference-kirchner-methodica.docx` + `update-fields.py` + build script) as the canonical Cooper/Reedsy-standard implementation. Adjust paths for this volume and set the shareable-name PDF stem to `Friedrich-Balduin-Tractatus-Posthumus-de-Casibus-Conscientiae-1628-English-Scholastic-Lutherans`.
 
-**Reference DOCX + build pipeline:** copy from Kirchner Methodica (`catechetical/kirchner-methodica-1595/reference-kirchner-methodica.docx` + `update-fields.py`) as the canonical Cooper/Reedsy-standard implementation. Adjust paths for this volume and set the shareable-name PDF stem to something like `Friedrich-Balduin-Tractatus-Posthumus-de-Casibus-Conscientiae-1628-English-Scholastic-Lutherans`.
+**OCR-specific note for Balduin translator prompt:** long-s/f, u/n, and ct/æ/ff-ligature drift is heavier here than in Selnecker or Kirchner — the translator should read *through* corruption silently rather than flag each occurrence. See `notes.md §OCR quality` for typical patterns.
 
 ## Companion volumes / cross-reference
 
