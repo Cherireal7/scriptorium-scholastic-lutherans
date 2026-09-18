@@ -85,8 +85,12 @@ lang: en
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+<!-- Section-close for front matter: closes section 1 (cover + title + copyright, NO -->
+<!-- header/footer) so that section 2 (from Translator's Note on) inherits the       -->
+<!-- body-level sectPr from the reference DOCX (STYLEREF running head + PAGE footer). -->
+
 ```{=openxml}
-<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+<w:p><w:pPr><w:sectPr><w:type w:val="nextPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/><w:cols w:space="720"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr></w:p>
 ```
 
 # Translator's Note
@@ -191,7 +195,7 @@ Selnecker died at **Leipzig on 24 May 1592,** and was buried in the *Paulinerkir
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Front Matter
+# The Title Page and Dedication
 
 ## The Title Page as Printed
 
@@ -554,7 +558,11 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Prolegomena — *Enarratio Symboli Apostolici, Niceni, et Athanasiani*
+# Prolegomena
+
+*Enarratio Symboli Apostolici, Niceni, et Athanasiani*
+
+— ❦ —
 
 ## Why the Church Recites the Creeds
 
@@ -725,7 +733,11 @@ A **subdivision** was added by antiquity, that the *second* article of the Apost
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Article I — *Credo in Deum Patrem Omnipotentem*
+# Article I
+
+*Credo in Deum Patrem Omnipotentem*
+
+— ❦ —
 
 **I believe in (one) God, the Father Almighty, Creator (maker) of heaven and earth (of all things visible and invisible).**
 
@@ -2254,7 +2266,11 @@ Since this doctrine is *proper to the Gospel,* set far *above and outside the vi
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Article II — *Credo in Iesum Christum Filium Dei*
+# Article II
+
+*Credo in Iesum Christum Filium Dei*
+
+— ❦ —
 
 **I believe in Jesus Christ, the only-begotten Son of God, our Lord, born of the Father before all ages: Light of light: true God of true God, begotten not made, &c.**
 
@@ -3291,7 +3307,11 @@ and several others — of whom some are *openly Arians* (and so far as *to go in
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# *Doctrina de Communicatione Idiomatum*
+# On the Communication of the Idioms
+
+*Doctrina de Communicatione Idiomatum*
+
+— ❦ —
 
 ## The Foundation
 
@@ -3567,7 +3587,11 @@ We therefore say: If Christ has a true human body, then He gives it to us in the
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# *Sedet ad Dexteram Dei Patris Omnipotentis* — He Sitteth at the Right Hand of God the Father Almighty
+# He Sitteth at the Right Hand of God the Father Almighty
+
+*Sedet ad Dexteram Dei Patris Omnipotentis*
+
+— ❦ —
 
 The prior Article on the Ascension is as it were the antecedent, of which this is the consequent and the fruit. For as Christ descended from the heavens and was made man, that in His self-exinanition He might be humiliated below all Angels and men, so now He hath ascended into the heavens in glorious triumph, that above all Angels and men He might be exalted to the right hand of God in supreme sublimity. Wherefore these two Articles — *He ascended into the heavens,* and *He sitteth at the right hand of God* — so cohere that they cannot be separated. For He ascended in order that He might sit at the right hand of the Father.
 
@@ -3801,7 +3825,11 @@ The **sixth glory** of the human nature of Christ is fourfold:
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# *Inde Venturus Est Iudicare Vivos et Mortuos* — Thence He Shall Come to Judge the Living and the Dead
+# Thence He Shall Come to Judge the Living and the Dead
+
+*Inde Venturus Est Iudicare Vivos et Mortuos*
+
+— ❦ —
 
 This too is a name of *office,* pertaining not only to the divine nature — of which it is written *"The LORD shall judge the world of the earth,"* and *"He is Judge"* (*Ps. 18, 75*), and again *"Judge of all is God"* (*Heb. 12*) — but also according to the *human* nature, as *John 5 and 6* showeth: *"The Father hath given the Son power to execute judgment, because He is the Son of Man."*
 
@@ -3894,7 +3922,11 @@ To Thee, one only God — Father, Son, and Holy Spirit — eternal, immortal, st
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Propositions in Which Is Set Forth the True Doctrine of the Lord's Supper, According to the Augsburg Confession
+# The Heidelberg Disputation of 1560
+
+*Propositiones in quibus exponitur vera de Coena Domini sententia, iuxta Confessionem Augustanam*
+
+— ❦ —
 
 *Propositions proposed for disputation at the Academy of Heidelberg, the 3rd and 4th of June, in the year 1560, against the contentions of certain men.*
 
@@ -4070,7 +4102,13 @@ And *Anathematism 11:* *"That which is set forth in the Supper is the proper bod
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# *De Iuda Accipiente Corpus et Sanguinem Christi* — On Judas Receiving the Body and Blood of Christ, as Luke Evidently Testifieth
+# On Judas Receiving the Body and Blood of Christ
+
+*De Iuda Accipiente Corpus et Sanguinem Christi*
+
+*As Luke evidently testifieth.*
+
+— ❦ —
 
 **Augustine,** *De baptismo contra Donatistas* lib. 5 cap. 8 (Tom. 7): *"As Judas — to whom the Lord delivered the morsel — not by receiving evil, but by receiving evilly, gave place in himself to the devil, so whosoever, unworthily receiving, taketh the Lord's Sacrament, effecteth not that — because he himself is evil — it should be evil, or that — because he receiveth it not unto salvation — he receiveth nothing at all. For the body of the Lord and the blood of the Lord was nonetheless also for those to whom the Apostle said, 'He that eateth unworthily eateth and drinketh judgment to himself.'"*
 
