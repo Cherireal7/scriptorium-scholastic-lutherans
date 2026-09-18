@@ -1,6 +1,6 @@
 # Handoff — Balduin, *Tractatus Posthumus de Casibus Conscientiae* (Wittenberg, 1628)
 
-**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. Everything to start Stage 2 (OCR extraction) is here or in the paths named here.
+**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 are done — the next tranche is T2 (Liber I part 1).** Everything needed to pick up at T2 is here or in the paths named here.
 
 ## What this project is
 
@@ -15,9 +15,16 @@ Working directory: `pastoral/balduin-casibus-conscientiae-1628/`
 ```
 balduin-casibus-conscientiae-1628/
 ├── HANDOFF.md                                 # this file
+├── notes.md                                   # Stage 2 structural map + 26-tranche plan
+├── build-shareable.ps1                        # Kirchner-standard build pipeline (adapted)
+├── update-fields.py                           # LibreOffice UNO field-refresh (verbatim from Kirchner)
+├── reference-balduin-casibus.docx             # reference DOCX (Cooper/Reedsy running-header + PAGE footer)
 ├── sources-original/
-│   └── balduin-casibus-1628.pdf              # Wittenberg 1628, from Internet Archive
-├── review/                                    # (empty; create balduin-casibus-conscientiae-1628.md here)
+│   ├── balduin-casibus-1628.pdf              # Wittenberg 1628, IA (full 90.5 MB)
+│   ├── balduin-casibus-1628.txt              # PyMuPDF extract (75,390 lines / 3.3 MB)
+│   └── extract.py                             # extraction script (use this, not pdftotext)
+└── review/
+    └── balduin-casibus-conscientiae-1628.md  # T1 front matter DONE; T2+ H1 placeholders
 ```
 
 ## Source
