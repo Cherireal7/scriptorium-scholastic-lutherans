@@ -171,7 +171,11 @@ The Scholastic Lutherans translation team.
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Nikolaus Selnecker — Biographical Sketch
+# Biographical Sketch
+
+*Nikolaus Selnecker (1530–1592)*
+
+— ❦ —
 
 *(Reused from the companion Institutio volumes for the reader coming to Selnecker for the first time, with a paragraph appended on this volume's place in his dogmatic-catechetical output.)*
 
@@ -195,7 +199,11 @@ Selnecker died at **Leipzig on 24 May 1592,** and was buried in the *Paulinerkir
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# The Title Page and Dedication
+# Dedication
+
+*Leipzig, April 1575 · To Count Johann Günther of Schwarzburg*
+
+— ❦ —
 
 ## The Title Page as Printed
 
@@ -303,7 +311,11 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# The Three Creeds and Their Ancient Accompaniments
+# The Three Creeds
+
+*With ancient accompaniments — Basil, Epiphanius, Chalcedon, Justinian, and two Psalms*
+
+— ❦ —
 
 *(Selnecker prints the three ancient Creeds at the head of the volume — that is, before the running Enarratio begins — as the very text on which the entire exposition will turn. He follows them immediately with a short cluster of related ancient formulae: Basil's shorter rendering of the Nicene article, Epiphanius' Nicene-Constantinopolitan expansion against the heresies, the Chalcedonian Definition, and two Christological confessions of the Emperor Justinian. He closes the cluster with two Psalms and his own Latin distich-versification of Psalm 124, dated 1573. The numbering follows Selnecker's own — that is, on the Psalms, in the Vulgate numbering, with the Hebrew/English number noted at the head.)*
 
@@ -3307,9 +3319,9 @@ and several others — of whom some are *openly Arians* (and so far as *to go in
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# On the Communication of the Idioms
+# Communicatio Idiomatum
 
-*Doctrina de Communicatione Idiomatum*
+*Doctrina de Communicatione Idiomatum · The Communication of the Idioms*
 
 — ❦ —
 
@@ -3587,9 +3599,9 @@ We therefore say: If Christ has a true human body, then He gives it to us in the
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# He Sitteth at the Right Hand of God the Father Almighty
+# The Session at the Right Hand
 
-*Sedet ad Dexteram Dei Patris Omnipotentis*
+*Sedet ad Dexteram Dei Patris Omnipotentis · He sitteth at the right hand of God the Father almighty*
 
 — ❦ —
 
@@ -3825,9 +3837,9 @@ The **sixth glory** of the human nature of Christ is fourfold:
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Thence He Shall Come to Judge the Living and the Dead
+# The Judgment
 
-*Inde Venturus Est Iudicare Vivos et Mortuos*
+*Inde Venturus Est Iudicare Vivos et Mortuos · Thence He shall come to judge the living and the dead*
 
 — ❦ —
 
@@ -3845,7 +3857,11 @@ That Form shall be seen — the Son whom He hath united to Himself through the s
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# The Third Article of the Symbol
+# The Third Article
+
+*Credo in Spiritum Sanctum · Ecclesiam · Remissionem Peccatorum · Resurrectionem Carnis · Vitam Aeternam*
+
+— ❦ —
 
 ***Credo in Spiritum Sanctum Dominum et vivificum, qui ex Patre Filioque procedit; qui cum Patre simul adoratur et glorificatur; qui locutus est per Prophetas.***
 
@@ -3922,9 +3938,9 @@ To Thee, one only God — Father, Son, and Holy Spirit — eternal, immortal, st
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# The Heidelberg Disputation of 1560
+# Heidelberg Disputation
 
-*Propositiones in quibus exponitur vera de Coena Domini sententia, iuxta Confessionem Augustanam*
+*Propositiones in quibus exponitur vera de Coena Domini sententia, iuxta Confessionem Augustanam · 3–4 June 1560*
 
 — ❦ —
 
@@ -4017,7 +4033,11 @@ To Thee, one only God — Father, Son, and Holy Spirit — eternal, immortal, st
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# Some Sayings of the Fathers on the Most Sacred Supper of the Lord
+# Sayings of the Fathers
+
+*Aliquot Sententiae Patrum de Sacrosancta Coena Domini*
+
+— ❦ —
 
 **Irenaeus, lib. 5 against the Valentinians:**  
 *"The Lord confirmed the cup, which is a creature, to be His own body, whereby our bodies are increased. When therefore the cup mingled and the bread broken receive the word of God, it becometh the Eucharist of the blood and body of Christ, out of which the substance of our flesh is increased and subsisteth: how then do they deny that the flesh is capable of the gift of God, which is life eternal — which flesh is nourished with the blood and body of Christ, and is a member of Him?"* &c. And again: *"These things are said of that disposition which is according to man, which consisteth of flesh, sinews, and bones — which flesh is nourished by the cup which is His blood, and increased by the bread which is His body. (For neither hath the Spirit bones nor flesh.)"*
@@ -4102,11 +4122,9 @@ And *Anathematism 11:* *"That which is set forth in the Supper is the proper bod
 <w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
-# On Judas Receiving the Body and Blood of Christ
+# On Judas
 
-*De Iuda Accipiente Corpus et Sanguinem Christi*
-
-*As Luke evidently testifieth.*
+*De Iuda Accipiente Corpus et Sanguinem Christi · On Judas receiving the body and blood of Christ, as Luke evidently testifieth*
 
 — ❦ —
 
