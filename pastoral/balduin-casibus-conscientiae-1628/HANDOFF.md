@@ -51,7 +51,23 @@ Full details in `notes.md`. Summary:
 - Tranche plan: 25 body tranches + 1 front-matter tranche.
 - Bible-citation policy: KJV pass (Kirchner precedent) — see `notes.md §Bible-citation policy`.
 
-## Stage 3–5: translation, audit, build — TODO
+## Stage 3: translation — IN PROGRESS
+
+**T1 front matter (physical pp. 1–30) — DONE (T1a scaffold + T1b Dedicatoria + T1c Praefatio + Buchner Epigram).** Half-title, full title, copyright, Translator's Note (4 sections), auto-TOC, no-header front-matter sectPr, recto oddPage sectPr openers before Dedication / Preface / Liber I–IV headings all in place at `review/balduin-casibus-conscientiae-1628.md`.
+
+**Next: T2 — Liber I part 1 (OCR ln 739–3000, physical pp. 31–~62).** Liber I is *De Conscientia et ejus casibus in genere* — Balduin's foundational treatment of the conscience itself before the case-material proper. Cap. I opens with **An sit Conscientia** (Whether conscience exists), proving conscience by (I) Scripture, (II) the lament of the pious, (III) the joys of the pious, (IV) the terrors of the impious after crime, (V) daily experience (Rom. 2:15's *"testimonio reddente illis conscientia ipsorum"*), (VI) pagan witnesses (Cicero *pro Milone*, Isocrates *ad Demonicum*, Seneca *ep.* 97, Ovid *Fasti* — *conscia mens...*). Then De nomine (Latin *conscientia* from *sciendo*, Greek *συνείδησις*, Hebrew *lev* = cor / cordis scientia, Syriac *rea*, three etymological accounts including the syllogism-of-conscience *concludens scientia* pattern). Continues through Cap. II onwards on the nature, seat, division, offices of conscience — the theoretical foundation for Books II–IV's case-material.
+
+**Tranche schedule (from notes.md):**
+- T2: Liber I pt 1 — OCR ln 739–3000 (~pp. 31–62)
+- T3: Liber I pt 2 — OCR ln 3000–5307 (~pp. 62–98)
+- T4–T11: Liber II — 8 tranches × ~3000 lines (pp. 99–471)
+- T12–T17: Liber III — 6 tranches × ~3000 lines (pp. 472–740)
+- T18–T25: Liber IV — 8 tranches × ~2750 lines (pp. 741–1109)
+- Back-matter indexes deferred (regenerable from finished English MD).
+
+Commit format: `Balduin Casibus T{N}{letter}: <content> (OCR ln <start>-<end>) — <narrative>`.
+
+## Stage 4–5: audit, KJV pass, build — TODO
 
 Follow `shared/translation-pipeline.md` and `shared/formatting-standard.md`. Key policies to carry forward from the recently-closed Selnecker Symbolorum volume:
 
