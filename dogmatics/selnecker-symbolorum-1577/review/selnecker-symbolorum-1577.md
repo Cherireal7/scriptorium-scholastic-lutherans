@@ -3494,6 +3494,79 @@ That Form shall be seen — the Son whom He hath united to Himself through the s
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+# The Third Article of the Symbol
+
+***Credo in Spiritum Sanctum Dominum et vivificum, qui ex Patre Filioque procedit; qui cum Patre simul adoratur et glorificatur; qui locutus est per Prophetas.***
+
+*I believe in the Holy Spirit, the Lord and Giver of life, who proceedeth from the Father and the Son; who together with the Father is adored and glorified; who spake by the Prophets.*
+
+## The Divinity and Person of the Holy Spirit
+
+The work of *creation* (*Job 33*, ***"The Spirit of the Lord hath made me"***; and *Ps. 32*, ***"By the Spirit of His mouth is all the virtue of the heavens made firm"***); His *Omnipresence* (*Ps. 139*, ***"Whither shall I go from Thy Spirit?"***); His being ***καρδιογνώστης*** (*Wisd. 1*, ***"The Spirit of the Lord hath knowledge of the voice"***); His *vivifying of things* (*Gen. 1*, ***"The Spirit of God vivified with His motion the created things"***); and the *cultus of faith,* the *testimonies of Scripture,* and the *confession of the Church* — all proclaim to us that the Holy Spirit is eternal God together with the Father and the Son.¹⁷⁸
+
+## The Five Benefits of the Holy Spirit
+
+The benefits of the Holy Spirit are these:
+
+**1.** To *teach.*  
+**2.** To *renew and sanctify.*  
+**3.** To *help* — by *witnessing of Christ,* by *giving,* by *consoling,* by *praying.*  
+**4.** To *seal the promises.*  
+**5.** To *be the pledge of our salvation and inheritance.*¹⁷⁹
+
+## And One Holy Catholic and Apostolic Church
+
+***Et unam sanctam Catholicam et Apostolicam Ecclesiam.***
+
+This Church is *wheresoever the voice of the Gospel soundeth,* according to the Prophetic and Apostolic writings; and is shown *by the true consent in the doctrine of the Gospel, as touching the foundation,* and *by the right understanding and lawful use of the sacraments,* and *by the due obedience in ministry according to the Gospel.*¹⁸⁰
+
+**Epiphanius:** ***πιστεύομεν εἰς μίαν καθολικὴν καὶ ἀποστολικὴν ἐκκλησίαν.*** *"We believe,"* saith he, *"in one Catholic and Apostolic Church, and in one baptism of penitence, and in the resurrection of the dead, and in the kingdom of the heavens, and in life eternal."*¹⁸¹
+
+For the ancients used the preposition ***In*** *not* because the faith relieth on the Church or on that visible assembly (as when it is said, *"I believe in God"*) — but to show that souls *acquiesce* in the doctrine which the Church professeth according to Scripture, and are *certain* concerning the resurrection and life everlasting.¹⁸²
+
+## I Confess One Baptism
+
+***Confiteor unum baptisma.***
+
+**Cyril of Jerusalem:** *"Baptism is the liberation from captivity, the remission of sins, the death of sin, the regeneration of the soul, the shining garment, the holy and indelible signaculum, the chariot to heaven, the delight of paradise, the reconciliation of the celestial kingdom, and the charisma of the adoption of sons."*
+
+**Augustine, *Epist.* 23:** *"The water which exhibiteth outwardly the sacrament of grace, and the Spirit operating inwardly the benefit of grace — loosing the bond of guilt, reconciling the good of nature — regenerateth man in one Christ, who was generated of one Adam."*¹⁸³
+
+## The Remission of Sins
+
+***Remissionem peccatorum.***
+
+This remission of all sins is *the Justification of man before God,* which is wrought *by faith alone in Christ,* applying to itself the merit and benefits of the Son of God, out of the mere grace and mercy of God — *without the works of the Law* — which works avail nothing unto justification: not as *merit,* nor as *cause co-operating and helping,* nor as *part,* nor as *form,* nor as *adjunct* of faith in the effecting of justification, nor as *medium* of application or of conservation, nor as *condition* so necessary that without its presence and access there could not be, or come to pass, justification. For the *foundation and cause* — the *first, middle, and last cause* — of justification is *one and sole:* the *obedience and satisfaction of Christ.* For we are justified *without our own works,* whether *antecedent* or *present* or *consequent.*
+
+And yet it is true that — as fire and heat, as water and moisture, as body and soul in the living man, as life and motion (indeed, as *Christ and the Holy Spirit*) cannot be separated — so justifying faith and works (as effects wrought by Christ through the Holy Spirit) cannot be torn asunder. The *efficient and formal cause* of faith is Christ Himself. The *formal cause of works* is faith, which is never idle, though it justify always without works. It is one thing to be *made* just, and another thing to be *declared* just.¹⁸⁴
+
+## The Resurrection of the Flesh
+
+***Carnis resurrectionem.***
+
+We believe *the resurrection of this very flesh.* For this corruptible must put on incorruptibility. Therefore Job saith: ***"In my flesh I shall see the Lord — clothed round with my skin. I myself shall see Him; mine own eyes shall behold Him, and no other. This hope hath been laid up for me in mine own bosom"*** (*Job 19*).
+
+## And the Life Everlasting
+
+***Et vitam aeternam.***
+
+Here shall be the end of all evils, and the beginning and eternal continuation of all consummated goods, and the last and supreme Good: the *sight of God,* the *converse with God,* the *eternal familiarity with the Angels and with all the blessed;* *life, purity, exultation, and gladness in God, who shall be all in all,* and *unto whom shall be given up all praises without end.*
+
+This eternal God — the Father of our Lord Jesus Christ, and Jesus Christ, and the Holy Spirit — we implore, that He heal our wounds and mercifully gather to Himself an eternal Church among us; that He avert and hinder the corruptions of doctrine and repress the attempts of fanatical men; and that He grant that all our Churches and schools, and their doctors, disciples, and citizens, be and remain *one in Him.*
+
+***"Sanctify us, O Lord, in Thy truth. Thy word is truth."***
+
+To Thee, one only God — Father, Son, and Holy Spirit — eternal, immortal, strong, holy, merciful, just — be praise, glory, honour, power, and might, world without end. **Amen.**
+
+***θεῷ δόξα καὶ χάρις.***  
+*To God be glory and thanks.*¹⁸⁵
+
+*Leipzig, on the day of the Holy Angels [29 September], cIɔIɔ.LXXV [1575].*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Endnotes
 
 ***Finis***
@@ -4332,3 +4405,19 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **¹⁷⁶** *The Sixth Glory — the fourfold post-resurrection specifics + the Athanasius Contra Arianos citations.* Selnecker's four-fold enumeration of the sixth-and-final glory of the human nature in Christ — *(1) virginal conception without virile seed;* *(2) sinlessness (ἄμωμος, ἄσπιλος, ἀναμάρτητος) and holiness of nature;* *(3) the plenitude of the Spirit's gifts (not by measure but plenary);* *(4) the post-resurrection glorification-cluster (exemption from miseries, penetration of dimensions, exaltation above all heavens, entry into the fellowship of the Holy Trinity, Lady of all creatures with all things subject)* — is the classical Wittenberg-orthodox enumeration of the *statuum exaltationis Christi* drawn from Chemnitz's *De duabus naturis* chapters XXVI-XXIX. The **Athanasius contra Arianos, orat. 2 and 4** citations — that the human nature *"hath advanced into divine glory"* (***εἰς θείαν προέκοψε δόξαν***) and *"hath all power in heaven and on earth without confusion of natures"* — is from Athanasius *Orationes contra Arianos* II.16 and IV.7 (PG 26:180ff., 470ff.); the passage stands directly behind FC SD VIII 51-52 on the glorification. The specific claim that *the human nature is now in the assembly and council of God, entered into the fellowship of the Holy Trinity, exalted above all creatures, having all things subject to Him — celestial, terrestrial, and infernal* — is the direct exegetical pre-history of FC SD VIII 78-79 on the *eight-fold participation* of the human nature in the divine glory.
 
 **¹⁷⁷** *The Judgment article — the same Person who was judged now judges. The "Veni Domine Iesu" pastoral close.* Selnecker's classical closing move — that the Judgment article is a *name of office* pertaining to *both* natures (with the *sedes* at John 5:22-27, *"the Father hath given the Son power to execute judgment, because He is the Son of Man"*) — is the standard Wittenberg-orthodox reading drawn from Chemnitz's *De duabus naturis* ch. XXX and stands behind FC SD VIII 47 on the *genus apotelesmaticum* of the office of judgment. The pastoral-apocalyptic figure — *"that very Form shall be Judge which stood under the judge; that very Form shall judge which was judged, so that the impious, the pagans, the tyrants, the heretics, and their like may see His glory, majesty, and presence conspicuous to all and each"* — is drawn from **Augustine's** *Enarratio in Psalmum 49* (PL 36:565ff.) on the *duplex adventus Christi,* one of the classical Wittenberg *sedes* on the visible-return-in-glory doctrine. The closing **"Come, Lord Jesus, Amen"** — from Rev. 22:20 (*"Veni Domine Iesu, Amen"*) — is the classical patristic-Christological *Maranatha* close, and stands as the direct pastoral bridge into Article III (the Holy Spirit / Church / Communion of Saints / Resurrection / Life Eternal), where the eschatological longing of the Judgment article resolves into the confession of the Holy Spirit as the *arrhabo* of the promised inheritance. It is Selnecker's most consciously pastoral-apocalyptic close in the whole volume — mirroring the *"Ach bleib bei uns, Herr Jesu Christ"* Ausgangs-Choral that had become his liturgical signature [[note-22]] and echoing the *mane nobiscum* pastoral closure of Article II [[note-149]].
+
+**¹⁷⁸** *The Spirit's divinity — five proof-clusters.* Selnecker's five-fold demonstration-catalogue for the eternal deity of the Holy Spirit — *(1) creation (Job 33:4, Ps. 33:6); (2) omnipresence (Ps. 139:7); (3) καρδιογνωσία (Wisd. 1:7); (4) vivification of created things (Gen. 1:2); (5) the cultus of faith, testimonies of Scripture, and confession of the Church* — is the standard Wittenberg-orthodox proof-scheme drawn from **Melanchthon's** *Loci* on the Spirit and from **Chemnitz's** *Loci Theologici* on *De Persona et Officiis Spiritus Sancti.* The Wisdom-of-Solomon citation is retained by Selnecker per the Vulgate canon; modern Protestant editions consign Wisdom to the Apocrypha but Selnecker (like the pre-*Concord* Wittenberg tradition) treats it as *deuterocanonical* — useful for edification, not for the foundation of doctrine, but freely citable as pious antiquity.
+
+**¹⁷⁹** *The Five Beneficia Spiritus Sancti — the classical Wittenberg-orthodox structure.* The five-fold enumeration — *(1) docere; (2) renovare et sanctificare; (3) iuvare* (with the four sub-modes: testando de Christo, donando, consolando, precando); *(4) obsignare promissiones; (5) esse arrhabonem salutis et hereditatis nostrae* — is the classical **Melanchthonian** structure carried forward through the *Corpus Doctrinae* and codified in FC SD II 71-73 on the operation of the Spirit in conversion. The *arrhabo* (pledge, earnest) terminology is the direct Pauline *sedes* from Eph. 1:14 and 2 Cor. 1:22 (***ἀρραβὼν τῆς κληρονομίας***), which became one of Melanchthon's favourite pastoral-consolatory terms — used throughout the 1555 *Loci* on *De Fide* and reprinted in Selnecker's own *Institutio Pars I*.
+
+**¹⁸⁰** *Ecclesia = wherever the voice of the Gospel soundeth — the classical Wittenberg pastoral definition.* Selnecker's classical definition of the Church — *ubicunque sonat vox Evangelii, iuxta scripta Prophetica et Apostolica* — with the three-fold mark structure *(true consent in doctrine as touching the foundation + right understanding and lawful use of sacraments + due obedience in ministry according to the Gospel)* — is the direct **Melanchthonian** definition from *Loci* 1555 *De Ecclesia,* itself an amplification of AC VII (*"est autem Ecclesia congregatio sanctorum, in qua Evangelium recte docetur et recte administrantur Sacramenta"*). Selnecker's addition of the *ministerial-obedience* mark reflects the mature FC-era emphasis on the ordained ministry as constitutive of the visible Church, against both Roman *ex opere operato* clericalism and Anabaptist *sola-Spirit* independency.
+
+**¹⁸¹** *The Epiphanius Nicene-Constantinopolitan Creed-fragment on the Church.* Selnecker's citation of **Epiphanius** — ***"πιστεύομεν εἰς μίαν καθολικὴν καὶ ἀποστολικὴν ἐκκλησίαν, καὶ εἰς ἓν βάπτισμα μετανοίας, καὶ εἰς ἀνάστασιν νεκρῶν, καὶ εἰς βασιλείαν οὐρανῶν, καὶ εἰς ζωὴν αἰώνιον"*** — is drawn from **Epiphanius's** *Ancoratus* 118 (PG 43:232ff., dated ca. 374), which preserves one of the earliest full witnesses to the Nicene-Constantinopolitan Symbol (381) in the pre-Ephesine East. Selnecker had earlier printed this same Epiphanius symbol among the *ancient accompaniments* to the Three Creeds in the front matter (see the section *"Epiphanius' Nicene-Constantinopolitan Symbol against the Heresies"*) and repeats it here for the ecclesiological clauses. The Greek preserved in the OCR is essentially sound and matches the *editio princeps* Basel 1544 (Oporinus) — the standard Reformation-era Epiphanius edition Selnecker would have used.
+
+**¹⁸²** *The "In" preposition rule — Credo Ecclesiam, not Credo IN Ecclesiam.* Selnecker's careful **hermeneutical rule** — that *the ancients used the preposition "In" not because the faith relieth on the Church, but to show that souls acquiesce in the doctrine which the Church professeth according to Scripture* — is the classical Wittenberg-Lutheran refutation of the Roman reading of *Credo in Sanctam Ecclesiam Catholicam* as implying that *faith rests in the visible Church as its object.* The distinction — *Credo Sanctam Ecclesiam* (I believe there is a holy Church) vs *Credo in Deum* (I trust in God) — is drawn from **Rufinus's** *Expositio Symboli* 34 (PL 21:373) and became the standard pro-Wittenberg reading through **Peter Lombard,** ***Sentences*** III.25.1, and **Aquinas,** *ST* IIa-IIae q. 1 a. 9. Selnecker's move here — that faith *acquiesces* in the doctrine, not *relies on* the visible assembly — is the classical Melanchthonian differentiation that stands behind AC VIII and Apol VII-VIII on the visible-invisible Church.
+
+**¹⁸³** *Baptism doctrine — Cyril of Jerusalem's ninefold description + Augustine Ep. 23.* The **Cyril of Jerusalem** ninefold description of baptism — *(1) captivity-liberation; (2) sin-remission; (3) sin-death; (4) soul-regeneration; (5) shining garment; (6) holy and indelible signaculum; (7) chariot to heaven; (8) paradise-delight; (9) charisma of adoption* — is drawn from **Cyril of Jerusalem's** *Catechesis Mystagogica* I.2-3 (PG 33:1065ff.), one of the great late-4th-century pastoral-baptismal instructions delivered to catechumens at Jerusalem c. 350. It became a stock Wittenberg-Lutheran *sedes* for the doctrine of Baptism as *media regenerationis* (against Zwingli's *nudum-signum* reading) and is preserved verbatim in **Chemnitz's** *Examen Concilii Tridentini* Part II *De Baptismo.* The **Augustine Ep. 23** citation — the *water-Spirit dual-cause* formula ("the water which exhibiteth outwardly the sacrament of grace, and the Spirit operating inwardly") — is from **Augustine's** *Epistula* 98 *ad Bonifacium* (modern numbering; older Erasmus-Basel enumeration puts it as *Ep. 23*), PL 33:359ff., the classical pro-Wittenberg *sedes* on Baptism's dual efficacy that stands behind AC IX and Apol IX.
+
+**¹⁸⁴** *Remissio peccatorum = Iustificatio doctrine — sola fide, sine operibus, and the "iustum fieri" vs "iustum declarari" distinction.* Selnecker's classical **sola-fide** statement — *"remission is Justification of man before God, wrought by faith alone in Christ applying His merit and benefits, out of the mere grace and mercy of God, without the works of the Law"* — with the seven-fold *negation-schema* of the role of works (*not as merit, not as co-operating cause, not as part, not as form, not as adjunct of faith, not as medium of application or conservation, not as condition*) — is the direct Melanchthonian structure from *Loci* 1555 *De Fide et Iustificatione* and stands verbatim behind FC SD III 25-35 and FC SD IV 3-16 on the *Osiandrist* and *Maiorist* controversies. The seven-fold negation-schema was designed to close off every possible *Roman-scholastic* re-entry point for works, and became the classical Wittenberg-orthodox *shibboleth* of the strict-Melanchthonian party. Selnecker's careful qualification — *that as fire-heat, water-moisture, body-soul, Christ-Spirit cannot be separated, so justifying faith and works cannot be torn asunder* — with the classical distinction *"aliud est iustum fieri, aliud est iustum declarari"* — is the mature FC IV synthesis (Selnecker's own signature contribution to FC SD IV alongside Chemnitz's phrasing), preserving both the *sola-fide* justification and the *Majorist-inheritance* concern for the necessity of works as *fructus* — without ever making them the *cause* or *condition* of justification.
+
+**¹⁸⁵** *Vita Aeterna as summum bonum + the Trinitarian doxology + the Greek θεῷ δόξα καὶ χάρις signature + the September 29, 1575 dating close.* Selnecker's classical enumeration of *life eternal* — *end of all evils; beginning and eternal continuation of all consummated goods; last and supreme Good: sight of God, converse with God, eternal familiarity with Angels and blessed; life, purity, exultation, gladness in God, who shall be all in all* — is the standard **Augustinian-Melanchthonian** *summum bonum* summa drawn from Augustine's *De civitate Dei* XXII.30 and Melanchthon's *Loci* *De Vita Aeterna.* The closing pastoral prayer — echoing John 17:17 (***Sanctify us in Thy truth; Thy word is truth***) — is Selnecker's characteristic *high-pastoral* liturgical close, preserved from the *Ausgangs-Choral* tradition and echoing his own *"Ach bleib bei uns, Herr Jesu Christ"* (see [[note-22]] and [[note-149]]). The Greek doxological signature ***θεῷ δόξα καὶ χάρις*** (*"To God be glory and thanks"*) is a stock Byzantine liturgical epigram used by Selnecker throughout his signed works. The dating close — ***Lipsiæ die Sanctorum [OCR "Castorum"; long-s→f corruption] Angelorum, cIɔIɔ.LXXV*** — dates the composition of the *Enarratio Symboli* proper to *the feast of the Holy Angels (Michaelmas), 29 September 1575,* in Leipzig. This is the *first-edition* signing date; the 1577 reissue (Rhamba) preserves it *verbatim* without alteration. What follows — the Heidelberg Disputation of 1560 and the *De Iuda accipiente* patristic catena — is presented as an *appendix* to the completed Symbol-exposition.
