@@ -1,8 +1,4 @@
 ﻿---
-title: "Exposition of the Apostles', Nicene, and Athanasian Creeds"
-subtitle: "Symbolorum Apostolici, Niceni, et Athanasiani Exegesis — Faithfully Repeating the Perpetual Doctrine of the Church of God on the Chief Heads and Articles of the Christian Faith, above all on the Eternal Divinity of the Son of God, the Hypostatic Union of the Two Natures in Christ, the Majesty of the Son of Man, the Communication of the Idioms, and the Supper of the Lord (Leipzig, 1577)"
-author: "The Scholastic Lutherans translation team"
-date: "2026"
 lang: en
 ---
 
