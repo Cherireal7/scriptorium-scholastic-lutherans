@@ -85,6 +85,10 @@ lang: en
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # Translator's Note
 
 ## 1. The text
@@ -137,75 +141,31 @@ The Scholastic Lutherans translation team.
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Contents
-
 ```{=openxml}
-<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:color w:val="B71C1C"/></w:rPr><w:t>— ❦ —</w:t></w:r></w:p>
+<w:p>
+  <w:pPr>
+    <w:pStyle w:val="Heading1"/>
+    <w:outlineLvl w:val="9"/>
+  </w:pPr>
+  <w:r>
+    <w:t>Table of Contents</w:t>
+  </w:r>
+</w:p>
+<w:p>
+  <w:pPr><w:jc w:val="left"/></w:pPr>
+  <w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r>
+  <w:r><w:instrText xml:space="preserve"> TOC \o "1-1" \h \z \u </w:instrText></w:r>
+  <w:r><w:fldChar w:fldCharType="separate"/></w:r>
+  <w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Right-click the table and choose "Update Field" to populate page numbers, or open in Word / LibreOffice.</w:t></w:r>
+  <w:r><w:fldChar w:fldCharType="end"/></w:r>
+</w:p>
 ```
 
-## Front Matter
+— ❦ —
 
-- Title Page (as printed, 1577 Leipzig imprint)
-- Translator's Note
-- Nikolaus Selnecker — Biographical Sketch
-- Dedicatory Epistle to Johann Günther, Count of Schwarzburg-Arnstadt-Sondershausen-Leutenberg (Leipzig, April 1575)
-
-## The Three Creeds and their Ancient Accompaniments
-
-- The Apostles' Creed
-- The Nicene-Constantinopolitan Creed (with the *Filioque*)
-- The Athanasian Creed (*Quicunque vult*)
-- Basil's Shorter Rendering of the Nicene Creed
-- Epiphanius' Nicene-Constantinopolitan Symbol against the Heresies
-- The Symbol of the Ecumenical Synod of Chalcedon
-- The Confession of the Emperor Justinian
-- The Edict of Justinian to the People of Constantinople
-- Psalm 141 (Vulgate; 142 Heb./Eng.) *Domine, ad te clamabo*
-- Psalm 124 (Vulgate; 125 Heb./Eng.) *Nisi Dominus ipse fuisset nobiscum*
-- Selnecker's Latin Distich Versification of Psalm 124/125 (1573)
-
-## Prolegomena — *Enarratio Symboli*
-
-- Why the Church recites Creeds
-- The four causes for which God ordains the ecumenical synods
-- Synods witness to Prophetic and Apostolic doctrine, and do not create new dogmas
-- The customary threefold division of the Creed — Creation · Redemption · Sanctification
-- The subdivision of Article II into six sub-articles and Article III into five, per the twelve-Apostles tradition
-
-## Article I — *Credo in Deum Patrem Omnipotentem*
-
-- Part 1. *Quid sit Credere* — Historical vs Justifying Faith · *Credere Deum, in Deum, Deo*
-- Part 1 (continued). *De una Dei essentia et tribus personis* — the vocabulary of *essentia, persona, hypostasis;* against Sabellius and Arius
-- Part 2. *De prima Trinitatis persona* — the First Person as the Creed presents Him
-- Part 2 (continued). *De Creatione* — creation *ex nihilo,* the grades of creatures, angels, man, the *imago Dei,* the four states of man
-- Part 3. *De Providentia, Contingentia, Lapsu, Libero Arbitrio, Peccato, Lege* — Providence, contingency, the Fall, free will, sin, and the Law
-- Part 3 (closing). The six-fold Law-Gospel *discrimen* and the bridge to Article II
-
-## Article II — *Credo in Iesum Christum Filium Dei*
-
-- Part 1. *Persona Christi · Divinitas · Officium* — the arcane counsel of the Trinity to send the Second Person as Mediator; anti-Nestorian formulations
-- Part 2. *Incarnatio* — the Nicene-clause exegesis: *Deum de Deo, Lumen de Lumine, genitum non factum, consubstantialem Patri, per quem omnia facta sunt;* the Passion, the Descensus, the Resurrection
-- Part 3. Closing exposition and transition into the *Communicatio Idiomatum*
-- ***Doctrina de Communicatione Idiomatum*** — the Chalcedonian formula in Greek, the three *genera communicationis,* the anti-Reformed *extra Calvinisticum* refuted
-- *De Ascensione* — the Ascension as the exaltation of Christ's human nature *super omnes caelos ad dexteram Dei,* not a mere local translation
-- *An Christus sit omnipraesens etiam secundum humanam naturam* — the ubiquity of Christ's human nature; the *finitum non capax infiniti* rebuttal
-- *De Sessione ad dexteram Dei* — the *dextera Dei* as universal dominion, not a physical location; the Sessio as the office-formal ground for the ubiquity of Christ's human nature
-- *De Adoratione Christi et de Judicio venturo* — the adoration of the incarnate Christ; the *Veni Domine Iesu* longing for the return; the last judgment as the vindication of Christ's kingdom
-
-## Article III — *Credo in Spiritum Sanctum · Ecclesiam · Remissionem Peccatorum · Resurrectionem Carnis · Vitam Aeternam*
-
-- *De Spiritu Sancto* — the five *beneficia Spiritus Sancti* (docere, renovare-sanctificare, iuvare, obsignare, arrhabo)
-- *De Ecclesia* — the Church as *ubicunque sonat vox Evangelii;* the Epiphanius Greek Creed-fragment on the Spirit
-
-## The Heidelberg Disputation of 3–4 June 1560
-
-*Propositiones de vera Coena Domini sententia, defended by Nikolaus Selnecker at the Academia Heidelbergensis under Elector Frederick III, iuxta Confessionem Augustanam.*
-
-## *De Iuda Accipiente Corpus et Sanguinem Christi*
-
-*A patristic catena on the eating of the body and blood of Christ by the unworthy — Augustine, Bernard, Jerome, Oecumenius, with a closing rule on the interpretation of the Fathers' language.*
-
-## Colophon (Leipzig, Johann Rhamba, 1577)
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
 
 # Nikolaus Selnecker — Biographical Sketch
 
@@ -225,6 +185,10 @@ Selnecker died at **Leipzig on 24 May 1592,** and was buried in the *Paulinerkir
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
 # Front Matter
@@ -331,31 +295,27 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # The Three Creeds and Their Ancient Accompaniments
 
-*(Selnecker prints the three ancient Creeds at the head of the volume — that is, before the running Enarratio begins — as the very text on which the entire exposition will turn. He follows them immediately with a short cluster of related ancient formulae: Basil's shorter rendering of the Nicene article, Epiphanius' Nicene-Constantinopolitan expansion against the heresies, the Chalcedonian Definition, and two Christological confessions of the Emperor Justinian. He closes the cluster with two Psalms and his own Latin distich-versification of Psalm 124, dated 1573. In the English rendering that follows, the Latin as printed in the 1577 imprint is presented first, and the English rendering follows immediately, with the numbering as Selnecker gives it — that is, on the Psalms, in the Vulgate numbering, with the Hebrew/English number noted at the head.)*
+*(Selnecker prints the three ancient Creeds at the head of the volume — that is, before the running Enarratio begins — as the very text on which the entire exposition will turn. He follows them immediately with a short cluster of related ancient formulae: Basil's shorter rendering of the Nicene article, Epiphanius' Nicene-Constantinopolitan expansion against the heresies, the Chalcedonian Definition, and two Christological confessions of the Emperor Justinian. He closes the cluster with two Psalms and his own Latin distich-versification of Psalm 124, dated 1573. The numbering follows Selnecker's own — that is, on the Psalms, in the Vulgate numbering, with the Hebrew/English number noted at the head.)*
 
 ## The Apostles' Creed — *Symbolum Apostolicum*
-
-> **CREDO in Deum, Patrem omnipotentem, Creatorem caeli et terrae. Et in Iesum Christum, Filium eius unicum, Dominum nostrum. Qui conceptus est de Spiritu Sancto, natus ex Maria virgine, passus sub Pontio Pilato, crucifixus, mortuus et sepultus; descendit ad inferna; tertia die resurrexit à mortuis; ascendit ad caelos; sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum; sanctam Ecclesiam Catholicam; sanctorum communionem; remissionem peccatorum; carnis resurrectionem; et vitam aeternam. Amen.**
 
 **I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our Lord. Who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven; He sits at the right hand of God the Father almighty; from thence He shall come to judge the living and the dead. I believe in the Holy Spirit; the holy Catholic Church; the communion of saints; the forgiveness of sins; the resurrection of the flesh; and life everlasting. Amen.**
 
 ## The Nicene Creed — *Symbolum Nicenum* *(that is, the Nicene-Constantinopolitan Creed of 381, with the Filioque interpolation as received in the Western Church)*
 
-> **Credo in unum Deum, Patrem omnipotentem, factorem caeli et terrae, visibilium omnium et invisibilium. Et in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula: Deum de Deo, Lumen de lumine, Deum verum de Deo vero: genitum non factum, consubstantialem Patri, per quem omnia facta sunt. Qui propter nos homines et propter nostram salutem descendit de caelis, et incarnatus est de Spiritu Sancto ex Maria Virgine: et homo factus est. Crucifixus etiam pro nobis sub Pontio Pilato: passus et sepultus est: et resurrexit tertia die secundum Scripturas: et ascendit ad caelos, sedet ad dexteram Patris: et iterum venturus est in gloria, iudicare vivos et mortuos, cuius regni non erit finis. Et in Spiritum Sanctum, Dominum et vivificantem: qui ex Patre Filioque procedit: qui cum Patre et Filio simul adoratur et glorificatur: qui locutus est per Prophetas. Et unam sanctam Catholicam et Apostolicam Ecclesiam. Confiteor unum Baptisma in remissionem peccatorum: et expecto resurrectionem mortuorum, et vitam venturi saeculi. Amen.**
-
 **I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, born of the Father before all ages: God of God, Light of light, true God of true God: begotten not made, consubstantial with the Father, through whom all things were made. Who for us men, and for our salvation, came down from heaven, and was incarnate by the Holy Spirit of the Virgin Mary, and was made man. He was crucified also for us under Pontius Pilate; He suffered and was buried; and rose again the third day according to the Scriptures; and ascended into heaven; He sits at the right hand of the Father; and He shall come again with glory to judge the living and the dead, of whose kingdom there shall be no end. And in the Holy Spirit, the Lord and giver of life, who proceeds from the Father *and the Son;* who together with the Father and the Son is adored and glorified; who spoke by the Prophets. And in one holy Catholic and Apostolic Church. I confess one Baptism for the remission of sins; and I look for the resurrection of the dead, and the life of the world to come. Amen.**
 
 ## The Athanasian Creed — *Symbolum Athanasii · Quicunque vult*
 
-> **Quicunque vult salvus esse, ante omnia opus est ut teneat Catholicam fidem. Quam nisi quisquis integram inviolatamque servaverit, absque dubio in aeternum peribit.**
-
 **1.** Whosoever will be saved, before all things it is necessary that he hold the Catholic faith.
 
 **2.** Which faith unless everyone shall have kept whole and undefiled, without doubt he shall perish everlastingly.
-
-> **Fides autem Catholica haec est, ut unum Deum in Trinitate, et Trinitatem in Unitate veneremur. Neque confundentes personas, neque substantiam separantes. Alia est enim persona Patris, alia Filij, alia Spiritus Sancti. Sed Patris et Filij et Spiritus Sancti una est Divinitas, aequalis gloria, coaeterna maiestas.**
 
 **3.** And the Catholic faith is this: That we worship one God in Trinity, and Trinity in Unity;
 
@@ -364,8 +324,6 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 **5.** For there is one Person of the Father, another of the Son, and another of the Holy Spirit.
 
 **6.** But the Godhead of the Father, of the Son, and of the Holy Spirit is all one, the glory equal, the majesty coeternal.
-
-> **Qualis Pater, talis Filius, talis Spiritus Sanctus. Increatus Pater, increatus Filius, increatus Spiritus Sanctus. Immensus Pater, immensus Filius, immensus Spiritus Sanctus. Aeternus Pater, aeternus Filius, aeternus Spiritus Sanctus. Et tamen non tres aeterni, sed unus aeternus. Sicut non tres increati, nec tres immensi: sed unus increatus, et unus immensus.**
 
 **7.** Such as the Father is, such is the Son, and such is the Holy Spirit.
 
@@ -379,8 +337,6 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 **12.** As also there are not three uncreated, nor three unmeasurable, but one uncreated, and one unmeasurable.
 
-> **Similiter omnipotens Pater, omnipotens Filius, omnipotens Spiritus Sanctus. Et tamen non tres omnipotentes, sed unus omnipotens. Ita Deus Pater, Deus Filius, Deus Spiritus Sanctus. Et tamen non tres Dij sunt: sed unus est Deus. Ita Dominus Pater, Dominus Filius, Dominus Spiritus Sanctus. Et tamen non tres Domini, sed unus est Dominus.**
-
 **13.** So likewise the Father is almighty, the Son almighty, and the Holy Spirit almighty.
 
 **14.** And yet they are not three almighties, but one almighty.
@@ -393,13 +349,9 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 **18.** And yet they are not three Lords, but one Lord.
 
-> **Quia sicut singulatim unamquamque personam Deum ac Dominum confiteri, Christiana veritate compellimur: Ita tres Deos, aut tres Dominos dicere, Catholica religione prohibemur.**
-
 **19.** For like as we are compelled by the Christian truth to acknowledge every Person by Himself to be God and Lord;
 
 **20.** So are we forbidden by the Catholic religion to say that there are three Gods or three Lords.
-
-> **Pater à nullo est factus, nec creatus, nec genitus. Filius à Patre solo est: non factus, nec creatus, sed genitus. Spiritus Sanctus à Patre et Filio: non factus, nec creatus, nec genitus: sed procedens.**
 
 **21.** The Father is made of none, neither created, nor begotten.
 
@@ -407,23 +359,17 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 **23.** The Holy Spirit is of the Father and of the Son; not made, nor created, nor begotten, but proceeding.
 
-> **Unus ergo Pater, non tres Patres: unus Filius, non tres Filij: unus Spiritus Sanctus, non tres Spiritus Sancti. Et in hac Trinitate nihil prius aut posterius, nihil maius aut minus. Sed totae tres personae, coaeternae sibi sunt et coaequales, ita ut per omnia, sicut iam supra dictum est, et Trinitas in Unitate, et Unitas in Trinitate veneranda sit.**
-
 **24.** So there is one Father, not three Fathers; one Son, not three Sons; one Holy Spirit, not three Holy Spirits.
 
 **25.** And in this Trinity none is before or after another; none is greater or less than another;
 
 **26.** But the whole three Persons are coeternal together and coequal, so that in all things, as is aforesaid, both the Trinity in Unity and the Unity in Trinity is to be worshipped.
 
-> **Qui vult ergo salvus esse, ita de Trinitate sentiat. Sed necessarium est ad aeternam salutem, ut incarnationem quoque Domini nostri Iesu Christi fideliter credat. Est ergo fides recta, ut credamus et confiteamur, quia Dominus noster Iesus Christus Dei Filius, Deus et homo est.**
-
 **27.** He therefore that will be saved must think thus of the Trinity.
 
 **28.** Furthermore, it is necessary to everlasting salvation that he also believe rightly the incarnation of our Lord Jesus Christ.
 
 **29.** For the right faith is that we believe and confess that our Lord Jesus Christ, the Son of God, is God and man.
-
-> **Deus ex substantia Patris ante saecula genitus, et homo ex substantia matris, in saeculo natus. Perfectus Deus, perfectus homo ex anima rationali, et humana carne subsistens. Aequalis Patri secundum divinitatem, minor Patre secundum humanitatem. Qui licet Deus sit et homo, non duo tamen, sed unus est Christus. Unus autem non conversione divinitatis in carnem, sed assumptione humanitatis in Deum. Unus omnino, non confusione substantiae, sed unitate personae. Nam sicut anima rationalis et caro unus est homo: ita Deus et homo unus est Christus.**
 
 **30.** God of the substance of the Father, begotten before the ages; and man of the substance of His Mother, born in time.
 
@@ -439,8 +385,6 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 **36.** For as the reasonable soul and flesh are one man, so God and man are one Christ.
 
-> **Qui passus est pro nostra salute: descendit ad inferos: tertia die resurrexit à mortuis. Ascendit ad caelos: sedet ad dexteram Dei Patris omnipotentis. Inde venturus est iudicare vivos et mortuos. Ad cuius adventum, omnes homines resurgere habent cum corporibus suis. Et reddituri sunt de factis proprijs rationem. Et qui bona egerunt, ibunt in vitam aeternam: qui vero mala, in ignem aeternum. Haec est fides Catholica, quam nisi quisque fideliter firmiterque crediderit, salvus esse non poterit.**
-
 **37.** Who suffered for our salvation; descended into hell; on the third day rose again from the dead.
 
 **38.** He ascended into heaven; He sits at the right hand of God the Father almighty.
@@ -455,13 +399,9 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 ## Editorial Note
 
-> ***Haec tria Symbola sunt Catholica et Oecumenica. Basilius autem Nicenum Symbolum recitat aliquo modo brevius sic:***
-
 *These three Creeds are Catholic and Ecumenical. Basil, however, recites the Nicene Creed somewhat more briefly, thus:*
 
 ## Basil's Shorter Rendering of the Nicene Creed
-
-> **Credimus in unum DEVM, Patrem omnipotentem, omnium visibilium et invisibilium factorem. Et in unum Dominum nostrum Iesum Christum, Filium Dei, genitum ex Patre, unigenitum — id est, ex substantia Patris. Deum de Deo, Lumen ex Lumine, Deum verum ex Deo vero, consubstantialem Patri, per quem omnia facta sunt in caelo et in terra: qui propter nos homines et propter nostram salutem descendit, et carnem assumsit, homo factus, passus est, et resurrexit tertia die. Ascendit in caelos, venturus est iudicatum vivos et mortuos. Et in Spiritum Sanctum et cetera.**
 
 **We believe in one God, the Father almighty, maker of all things visible and invisible. And in one Lord of ours, Jesus Christ, the Son of God, begotten of the Father, only-begotten — that is, of the substance of the Father. God of God, Light of Light, true God of true God, consubstantial with the Father, through whom all things were made in heaven and on earth; who for us men, and for our salvation, came down, and took flesh, was made man, suffered, and rose again on the third day. He ascended into heaven, is to come to judge the living and the dead. And in the Holy Spirit,** *and so on.*
 
@@ -469,17 +409,11 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 *Selnecker notes: "Epiphanius on account of the heresies commemorates these additions."*
 
-> **Incarnatus est — id est, natus perfectè ex sancta Maria semper virgine per Spiritum sanctum. Et Homo factus est — id est, qui perfectum hominem assumsit, animam et corpus et mentem, et omnia, si quid est homo, praeter peccatum. Non ab hominis semine, neque in homine, sed in seipsum carne conflata in unam sanctam unitatem. Non quemadmodum in Prophetis inspiravit et locutus est et efficax fuit, sed qui perfectè homo factus est. Nam verbum Caro factum est, non sustinens mutationem, neque mutata divinitate ipsius in humanitatem, qui in unam suam univit sanctam perfectionem et divinitatem. Vnus est enim Dominus Iesus Christus, et non duo. Idem Deus, idem Dominus, idem Rex. Qui idem est passus in Carne, et resurrexit, et ascendit in caelos ipso corpore in gloria, ut iudicet viventes et mortuos: cuius regni non erit finis.**
-
 **He was incarnate** — that is, He was born perfectly of holy Mary ever-virgin by the Holy Spirit. **And He was made man** — that is, He who assumed a perfect man: a soul and a body and a mind, and all things, if anything is a man, apart from sin. Not from the seed of a man, nor *in* a man, but *into Himself,* flesh conjoined into one holy unity. Not in the manner in which He inspired the Prophets and spoke and was efficacious in them, but as one who was made perfectly man. For **the Word was made Flesh,** not undergoing a mutation, nor with His divinity itself changed into humanity — who has united into His own one holy perfection and divinity. For there is **one Lord Jesus Christ, and not two.** The same God, the same Lord, the same King. Who Himself has suffered in the flesh, and rose again, and ascended into the heavens in that very body in glory, that He may judge the living and the dead — *of whose kingdom there shall be no end.*
-
-> **Credimus etiam in Spiritum Sanctum, qui locutus est in Lege, et praedicavit in Prophetis, et descendit ad Iordanem, loquens in Apostolis, habitans in sanctis. Sic autem credimus in ipso, quod sit Spiritus Sanctus, Spiritus Dei, spiritus perfectus, spiritus advocatus et consolator: non creatus, ex Patre et Filio procedens. Et credimus in unam Catholicam et Apostolicam Ecclesiam et cetera.**
 
 **We believe also in the Holy Spirit, who spoke in the Law, and preached in the Prophets, and descended to the Jordan, speaking in the Apostles, dwelling in the holy ones. Thus, however, we believe in Him: that He is the Holy Spirit, the Spirit of God, a perfect Spirit, the Spirit Advocate and Consoler; not created; proceeding from the Father and the Son. And we believe in one Catholic and Apostolic Church,** *and so on.*
 
 ## The Symbol of the Ecumenical Synod of Chalcedon
-
-> **Confitemur unum atque eundem esse Filium Dominum nostrum Iesum Christum, eundem perfectum in divinitate, eundem perfectum in humanitate, Deum verum et hominem verum, eundem ex rationali anima et corpore, consubstantialem Patri secundum divinitatem, consubstantialem eundem nobis secundum humanitatem, per omnia nobis aequalem absque peccato, ante saecula quidem ex Patre secundum divinitatem, in extremis autem diebus eundem propter nos et propter nostram salutem ex Maria Virgine et Dei Genitrice secundum humanitatem genitum, unum et eundem Iesum Christum Filium et Dominum unigenitum in duabus naturis inconfusè, immutabiliter, indivisè, insegregabiliter cognitum atque depraedicatum: haud quaquam naturarum differentiam unione tollente, sed proprietatem potius utriusque naturae conservante, quae in personam et subsistentiam unam concurrit: non veluti in duas personas dispertitum aut divisum, sed unum et eundem Filium unigenitum Deum verbum Dominum nostrum Iesum Christum, quemadmodum antiquitus Prophetae, et ipse de seipso nos docuit Christus, et Symbolum Patrum nobis tradidit. Qui aliter docuerint, anathema sint. Haec fides Apostolorum. Haec fides Patrum. Huic omnes consentimus. Omnes ita sapimus. Haec manifesta fiant divino vertici.**
 
 **We confess** that **one and the same is the Son, our Lord Jesus Christ:** the same *perfect in divinity,* the same *perfect in humanity,* true God and true man, the same *of a rational soul and body,* consubstantial with the Father as touching the divinity, and consubstantial with us as touching the humanity, **in all things like unto us, apart from sin;** before the ages indeed begotten of the Father according to the divinity, but in the last days the same one, for our sake and for our salvation, born of Mary the Virgin and Bearer of God according to the humanity: **one and the same Christ, Son, Lord, only-begotten, made known in two natures without confusion, without change, without division, without separation** — the difference of the natures by no means being taken away by the union, but rather the property of each nature being preserved, which together *concur into one Person and one subsistence:* not as though parted or divided into two Persons, but *one and the same only-begotten Son, God the Word, our Lord Jesus Christ* — even as the Prophets from of old, and Christ Himself has taught us of Himself, and the *Symbol of the Fathers* has handed down to us.
 
@@ -487,15 +421,9 @@ I bring the little book, which I beseech Your generous Clemency to receive with 
 
 ## The Confession of the Emperor Justinian
 
-> **Cum recta et inculpata Religio, quam profitetur et praedicat sancta Dei Catholica et Apostolica Ecclesia, nullo modo innovationem admittat: Nos doctrinam Sanctorum Apostolorum, et eorum, qui post illos in Sanctis Dei Ecclesijs versati sunt, sequentes, aequum esse existimavimus, notam et testatam omnibus spem, quae in nobis est, relinquere, traditioni et confessioni sanctae Dei et Catholicae Ecclesiae adhaerentes.**
-
 Since the right and unblameable Religion, which the holy Catholic and Apostolic Church of God professes and preaches, in no way admits innovation, **We,** following the doctrine of the holy Apostles, and of those who after them were engaged in the holy Churches of God, have judged it equitable to leave *known and attested to all* the hope that is in us — adhering to the tradition and confession of the holy Catholic Church of God.
 
-> **Credentes enim in Patrem et Filium et Spiritum Sanctum, unam essentiam in tribus personis adoramus, unam divinitatem, unam potentiam, Trinitatem consubstantialem. In extremis autem diebus confitemur Dei unigenitum Dei Filium ex Deo Deum, ante saecula et sine tempore ex Patre genitum, coaeternum Patri, ex quo omnia et per quem omnia: descendisse de caelis, et incarnatum ex Spiritu sancto, et ex beata atque gloriosa semper virgine Maria, hominem factum, crucifixum, sepultum esse, et die tertio resurrexisse: unius et eiusdem miracula et passiones, quas sponte in carne sustinuit, agnoscentes.**
-
 For believing in the Father and the Son and the Holy Spirit, we adore *one essence in three persons, one divinity, one power, a consubstantial Trinity.* But in the last days we confess that **the only-begotten of God, the Son of God, God of God, before the ages and outside of time begotten of the Father, coeternal with the Father, of whom are all things and through whom are all things, descended from the heavens, and was incarnate of the Holy Spirit and of the blessed and ever-glorious Virgin Mary, was made man, was crucified, was buried, and on the third day rose again** — acknowledging *the miracles and the sufferings of one and the same, which He willingly bore in the flesh.*
-
-> **Non enim alium Deum verbum, et alium Christum cognoscimus, sed unum et eundem, consubstantialem Patri secundum divinitatem, eundemque consubstantialem nobis secundum humanitatem. Trinitas enim permansit Trinitas, etiam incarnato uno è Trinitate Dei verbo. Neque enim quartae personae accessionem Sancta Trinitas admittit.**
 
 For we do **not** acknowledge one God-the-Word, and another Christ, but **one and the same:** consubstantial with the Father according to the divinity, and consubstantial with us according to the humanity. **For the Trinity has remained a Trinity, even when one of the Trinity, God-the-Word, was incarnate.** For the Holy Trinity does not admit the accession of a fourth person.
 
@@ -503,41 +431,25 @@ For we do **not** acknowledge one God-the-Word, and another Christ, but **one an
 
 Which things being so, **with anathema and the highest execration we condemn every heresy** — and then indeed most especially ***Nestorius the ἀνθρωπολάτρις,*** that is, the *cultivator and adorer of a man,* who *divides and tears apart* the one Lord of ours, Jesus Christ, Son of God and our God: nor does he confess in a manner properly and conveniently agreeing with the truth the holy, glorious, and ever-virgin Mary as ***Deipara*** — but calls one *Deus,* God-the-Word out of God the Father, and another *him who was born of the holy ever-virgin Mary,* who according to *grace and familiarity* toward God-the-Word was made a *deus.*
 
-> **Nec non amentem illum Eutychetem, vanas quasdam opiniones inducentem, et negantem ex sancta semper virgine et Deipara Maria veram incarnationem, hoc est, salutem nostram: neque omninò confitentem consubstantialem Patri secundum Divinitatem, eundemque consubstantialem nobis secundum humanitatem.**
-
 Also **that senseless Eutyches,** introducing certain vain opinions and denying the true incarnation from the holy ever-virgin and *Deipara* Mary — that is, denying our salvation — and not at all confessing the same as consubstantial with the Father according to divinity, and consubstantial with us according to humanity.
 
 > **Item, Apollinarium illum ψυχοφθόρον, id est, animam humanam Christo adimentem, et dicentem Dominum nostrum Iesum Christum Filium Dei et Deum nostrum mentis humanae expertem esse: et confusionem aut commixtionem in humanationi Filij Dei introducentem.**
 
 Likewise **that Apollinaris the *ψυχοφθόρος,*** *the soul-corrupter,* that is, one *taking away the human soul from Christ,* and *saying that our Lord Jesus Christ, the Son of God and our God, is destitute of a human mind* — and one *introducing a confusion or commixture into the humanation of the Son of God.*
 
-> **Denique omnes eos qui illorum opinionem secuti sunt aut adhuc sequendam putant. Quod si enim post hanc nostram constitutionem et plenissimam beatissimorum Episcoporum, qui in nostris regionibus constituti sunt, denunciationem, in posterum reperti fuerint contrariam opinionem sectantes, ne expectent ut digni venia iudicentur. Iubemus enim ut homines eiusmodi tanquam convicti et aperti haeretici iustae et idoneae animadversioni subijciantur.**
-
 Finally **all those who have followed the opinion of those men, or who yet think that it is to be followed.** For if after this our constitution, and after the fullest denunciation of the most-blessed Bishops who are constituted in our regions, they shall hereafter be found pursuing the contrary opinion, let them not expect to be judged worthy of pardon. **For we command that men of this kind, as convicted and open heretics, be subjected to just and suitable animadversion.**
 
 ## The Edict of the Same Emperor to the People of Constantinople
 
-> **Servatorem et Dominum omnium Iesum Christum verum Deum nostrum venerantes, per omnia studemus, quo ad eius assequi menti humanae datum est, ipsius humilitatem imitari.**
-
 Venerating **the Saviour and Lord of all, Jesus Christ our true God,** we strive in all things (so far as it is given to the human mind to attain) *to imitate His humility.*
-
-> **Cum enim nonnullos morbo atque insania Nestorij et Eutychetis, hominum impiorum, quique Deo et sanctae Catholicae et Apostolicae Ecclesiae bellum indixerunt, corruptos esse comperissemus, recusantes beatam gloriosam semperque virginem Mariam propriè et secundum veritatem Deiparam appellare, studiosè operam dedimus ut ad rectam Christianorum religionem pervenirent. Verum illi insanabiles, errorem suum occultantes, passim huc illuc vagantur (ut accepimus) simplicium et rudium animos conturbantes, atque in offensionem inducentes, et contraria Catholicae et Apostolicae Ecclesiae docentes.**
 
 For since we have found that not a few have been corrupted by the sickness and madness of *Nestorius* and *Eutyches* — impious men who declared war on God and on the holy Catholic and Apostolic Church, refusing to call the blessed, glorious, and ever-virgin Mary properly and according to the truth ***Deipara*** — we have zealously given our labour that they might come to the right Religion of the Christians. But those *insanable* ones, hiding their error, wander here and there indiscriminately (as we have heard), disturbing the minds of the simple and the rude, and drawing them into offence, and teaching things contrary to the Catholic and Apostolic Church.
 
-> **Necessarium igitur existimamus, mendacium et vanitatem haereticorum evellere: omnibus autem notum ac testatum relinquere, quae sit sancta Dei Catholica et Apostolica Ecclesiae de religione sententia, et quid sanctissimi sacerdotes annuncient et profiteantur. Quorum quidem et nos vestigijs inhaerentes, eam quae in nobis est spem exponimus, non innovantes religionem (quod Deus avertat), sed furorem eorum qui cum impijs haereticis consentiunt condemnantes: quod ipsum iam inde ab initio Imperij nostri notum atque manifestum fecimus.**
-
 We therefore judge it necessary **to root up the lying and vanity of the heretics,** and to leave known and attested to all what is the *sentence of the holy Catholic and Apostolic Church of God concerning religion,* and what the most holy priests announce and profess. In whose very footsteps we too are treading, and set forth the hope that is in us — *not innovating* the religion (which God avert), but condemning the fury of those who consent with impious heretics — which very thing we have already made known and manifest from the beginning of our Empire.
-
-> **Credimus enim in unum Deum, Patrem omnipotentem, et in unum Dominum Iesum Christum Filium Dei, et in Spiritum Sanctum: unam essentiam in tribus personis adorantes, unam divinitatem, unam potentiam, Trinitatem coessentialem.**
 
 For we believe in one God, the Father almighty, and in one Lord Jesus Christ the Son of God, and in the Holy Spirit: adoring **one essence in three persons, one divinity, one power, a coessential Trinity.**
 
-> **Postremis autem diebus confitemur Dominum nostrum Iesum Christum, Filium Dei unigenitum, Deum verum ex Deo vero, ante saecula et sine tempore, ex Patre natum, coaeternum Patri, ex quo omnia et per quem omnia, descendisse de caelis, incarnatum de Spiritu Sancto et ex sancta, gloriosa semperque virgine Maria, Hominem factum, et crucifixum esse pro nobis sub Pontio Pilato, sepultum, et die tertio resurrexisse: unius et eiusdem tum miracula, tum supplicia, quae sponte in carne sustinuit, agnoscentes.**
-
 But in the last days we confess our Lord Jesus Christ, the only-begotten Son of God, true God of true God, before the ages and outside of time begotten of the Father, coeternal with the Father, of whom are all things and through whom are all things, **to have descended from the heavens, to have been incarnate of the Holy Spirit and of the holy, glorious, and ever-virgin Mary, to have been made Man, and to have been crucified for us under Pontius Pilate, to have been buried, and to have risen again on the third day** — acknowledging the *miracles* as well as the *sufferings of one and the same, which He willingly bore in the flesh.*
-
-> **Non enim alium Deum verbum et alium Christum agnoscimus, sed unum et eundem, consubstantialem Patri secundum divinitatem, et consubstantialem nobis secundum humanitatem. Nam sicut in divinitate perfectus est, ita et in humanitate perfectus est. Etenim eam quae secundum hypostasin est unionem admittimus, ac confitemur, siquidem Trinitas permansit Trinitas, etiam uno è Trinitate, Deo scilicet Verbo, carnem assumente. Neque enim quartae personae accessionem sancta Trinitas admittit.**
 
 For we do **not** acknowledge one God-the-Word and another Christ, but **one and the same:** consubstantial with the Father according to divinity, and consubstantial with us according to humanity. For as He is perfect in the divinity, so is He perfect also in the humanity. For we admit and confess **that union which is according to the *hypostasis;*** the Trinity, that is, has remained a Trinity, even when one of the Trinity — God the Word, that is — assumed flesh. For the Holy Trinity does not admit the accession of a fourth person.
 
@@ -545,21 +457,15 @@ For we do **not** acknowledge one God-the-Word and another Christ, but **one and
 
 Which things being so, **with anathema we condemn every heresy** — but especially that of that Nestorius the ***ἀνθρωπολάτρις,*** *the cultivator and adorer of a man;* and likewise those who have judged or now judge the same with him, who *tear apart* the one Lord of ours, Jesus Christ, Son of God and our God. Nor do they confess, properly and according to the truth, the holy, glorious, and ever-virgin Mary as ***Deipara*** (that is, *Mother of God*), but affirm that there are *two sons,* the one indeed from the Father — God-the-Word — and the other from the holy ever-virgin *Deipara* Mary, who according to *grace, affection, and familiarity* which he has toward God-the-Word was born and made *deus.*
 
-> **Negantes praeterea neque confitentes Dominum nostrum Iesum Christum Filium Dei et Deum nostrum, incarnatum et hominem factum et crucifixum, unum esse è sancta et coessentiali Trinitate. Hic enim unus est qui simul colitur, simulque glorificatur cum Patre et Spiritu Sancto.**
-
 Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God and our God, incarnate and made man and crucified, is **one of the holy and coessential Trinity.** For this is that One who is at the same time worshipped, and at the same time glorified, with the Father and the Holy Spirit.
 
 > **Execramur etiam amentem illum Eutychetem, et quicunque eadem vel cum ipso senserunt vel sentiunt, vanas opiniones introducentes, et negantes veram generationem Domini et Servatoris Iesu Christi ex Maria virgine et Deipara — hoc est, nostram salutem — neque confitentes ipsum consubstantialem Patri secundum divinitatem, rursus consubstantialem nobis secundum humanitatem. Similiter autem et Apollinarium illum ψυχοφθόρον, id est, mentem humanam Christo adimentem, et qui cum ipso vel senserunt vel sentiunt, affirmantes Dominum nostrum Iesum Christum Filium Dei et Deum nostrum mentis humanae expertem esse, et confusionem inducentes aut commixtionem in unigeniti Filij Dei inhumanationem: omnes deinque illos, qui sententiam illorum vel secuti sunt, vel adhuc sequendam ac retinendam putant.**
 
 **We execrate also that senseless Eutyches,** and whosoever have judged or now judge the same with him, introducing vain opinions and denying the true generation of the Lord and Saviour Jesus Christ from Mary the virgin and *Deipara* — that is, our salvation — and not confessing Him consubstantial with the Father according to divinity, and again consubstantial with us according to humanity. Likewise also **Apollinaris the *ψυχοφθόρος,*** *the mind-corrupter,* that is, one *taking away the human mind from Christ,* and those who have judged or now judge with him, affirming that our Lord Jesus Christ the Son of God and our God is *destitute of a human mind* — and *introducing a confusion or commixture* into the inhumanation of the only-begotten Son of God: and finally **all those who have followed the opinion of those men, or who yet think that it is to be followed and held.**
 
-> **Idem edictum missum fuit Ephesijs, Caesariensibus, Cyzicenis, Amidanis, Trapezuntijs, Hierosolymitanis, Apamensibus, Iustinianopolitanis, Theopolitanis, Sebastenis, Tharsensibus, et Ancyranis.**
-
 *The same edict was sent to the Ephesians, the Caesareans, the Cyzicenes, the Amidenians, the Trapezuntians, the Jerusalemites, the Apameans, the Justinianopolitans, the Theopolitans, the Sebastenians, the Tharsensians, and the Ancyranians.*
 
 ## Psalm 141 *(that is, Psalm 142 in the Hebrew and English numbering) — Domine, ad te clamabo*
-
-> **Domine, ad te clamabo, percipe. Oratio mea valeat coram te, sicut incensum, et elevatio manuum mearum, sicut sacrificium vespertinum. Domine, custodi os meum, et custodi labia mea. Inclina cor meum non ad rem malam, non ad impiè vivendum cum maleficis, nec comedam de ijs, quae ipsis arrident. Iustus me percutiat amanter, et increpet me: id tam erit mihi gratum, ac si caput meum balsamo perfundatur: quoniam semper oro, ne mihi nocere possint. Doctores eorum praecipitentur de petra: tunc primùm audietur doctrina mea, quòd sit suavis. Ossa nostra sunt dispersa usque ad infernum, sicut aliquis proscindit et vastat terram. Quia ad te Domine Domine oculi mei: in te confido: ne reijcias animam meam. Custodi me à laqueo, quem posuerunt mihi, et à tendiculis operantium iniquitatem. Impij cadant in retia sua: ego autem evadam semper.**
 
 **O LORD, to Thee will I cry: hearken. Let my prayer avail before Thee as incense, and the lifting up of my hands as an evening sacrifice.**
 
@@ -580,8 +486,6 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 **Let the impious fall into their own nets; but as for me, I shall ever escape.**
 
 ## Psalm 124 *(that is, Psalm 125 in the Hebrew and English numbering) — Nisi Dominus ipse fuisset nobiscum*
-
-> **Nisi Dominus ipse fuisset nobiscum, dicat nunc Israël. Nisi Dominus ipse fuisset nobiscum, cum insurgerent contra nos homines. Tunc vivos deglutissent nos, cum furor eorum in nos exardesceret. Tunc aquae absorbuissent nos: torrens transibat super animam nostram. Aquae nimis altae pertransibant super animam nostram. Benedictus Dominus, qui nos non dat in praedam dentibus eorum. Anima nostra erepta est sicut avis de laqueo aucupis. Laqueus discissus est, et nos liberati sumus. Adiutorium nostrum in nomine Domini, qui fecit caelum et terram.**
 
 **Unless the LORD Himself had been with us, let Israel now say —**
 
@@ -604,43 +508,11 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 *(A metrical elaboration of Psalm 124/125 in elegiac Latin distichs, composed by Selnecker in 1573 and set into the Symbolorum Exegesis at the head of the volume as a doxological seal to the whole cluster of ancient Symbols.)*
 
 > **Proferat Israël nunc talia verba triumphans,**
-> **Et dicat: Salvi, quis putet? ecce sumus.**
-> **Ni Dominus nobis hoc tempore fortis adesset,**
 > **Quo multi contra nos sine mente ruunt,**
-> **Iam vivos dudum furibunda fauce vorâssent**
-> **Nos miseros — tanta est ira, furor, atque malum.**
-> **Diluvio absorpti iam dudum essemus aquarum,**
-> **E nobis nullus vivere posset homo.**
-> **Torrentes nos opplebant, animamque petebant,**
-> **Immersa horrisonis vita latebat aquis.**
 > **At Domino caeli, qui cuncta gubernat et implet,**
-> **Qui benefacta iuvat, qui malefacta premit,**
-> **Sit decus, et carmen, benedictio, gratia, nomen,**
-> **Quòd nos è cunctis liberat ipse malis.**
-> **Dentibus ipsorum nos praedam denegat atris,**
-> **Impediens morsus, vulnera, bella, minas.**
 > **Frendent, atque fremunt, convitia dira loquuntur,**
-> **Non prodesse volunt, sed nocuisse student.**
-> **Sed Deus est, omnesque tandem detegit artes,**
-> **Atque superborum vim, dolosque necat.**
-> **Aucupis è laqueo velut est erepta volucris,**
-> **Sic emersa malis carmina vita facit.**
-> **Quis putet? ardebant odijs sine fine furentes:**
-> **Verum nostra anima est libera, dante Deo.**
-> **Contritus laqueus iacet, et perrupimus inde,**
-> **Et lato victrix pectore turba sumus.**
-> **Credite, sic res est, tandem bona causa triumphat.**
-> **Simplicitas laudem dexteritatis habet.**
-> **Perfer et obdura, sepeliri in pulvere verum**
-> **Nescit, et est causae dux Deus ipse suae.**
 > **Dispereant, quicunque alios ero robore sistunt,**
-> **Ille sapit, verbi qui grave robur habet.**
-> **Auxilium nostrum non ulla potentia mundi est,**
 > **Auxilium in Domini nomine semper adest.**
-> **Fidimus in Domino, qui terram, atque astra creavit,**
-> **Et lato victrix pectore turba sumus.**
-> **— Nicolaus Selneccerus S., anno 1573.**
-
 **Let Israel now bring forth such words in triumph, and say: "Saved — who would have thought? — behold, we are."**
 
 **Had the LORD not been at hand for us, strong in this our time, when many were rushing against us without mind, long since would they have devoured us wretched ones, alive, in their raging jaws — so great is the wrath, the fury, the evil.**
@@ -678,6 +550,10 @@ Denying, moreover, and not confessing that our Lord Jesus Christ, the Son of God
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # Prolegomena — *Enarratio Symboli Apostolici, Niceni, et Athanasiani*
 
 ## Why the Church Recites the Creeds
@@ -845,9 +721,11 @@ A **subdivision** was added by antiquity, that the *second* article of the Apost
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Article I — *Credo in Deum Patrem Omnipotentem*
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
 
-> **Credo in (unum) Deum, Patrem Omnipotentem, Creatorem (factorem) caeli et terrae (visibilium omnium et invisibilium).**
+# Article I — *Credo in Deum Patrem Omnipotentem*
 
 **I believe in (one) God, the Father Almighty, Creator (maker) of heaven and earth (of all things visible and invisible).**
 
@@ -1539,8 +1417,6 @@ The state of man is **fourfold:**
 
 ## Part V — *De Providentia Dei:* On the Providence of God
 
-> ***Providentia Dei est actio mentis divinae, quae et cernit omnia, ubique praesens, cunctos eventus prospicit et gubernat et administrat naturam universam a se conditam, sustentat, moderatur, et conservat eam ad nominis sui gloriam, praecipue curat genus humanum, custodit civilem societatem, et punit atrocia scelera atrocibus poenis, et ornat iustos praemiis.***
-
 **The providence of God is the action of the divine mind, which discerns all things — everywhere present — foresees and governs and administers all events, and sustains, moderates, and conserves the whole nature constituted by itself, unto the glory of its own name; and chiefly cares for the human race, guards civil society, and punishes atrocious crimes with atrocious punishments, and adorns the just with rewards.**
 
 ### The Three Grades or Modes of Providence
@@ -1649,8 +1525,6 @@ But *not only the worthy eat, but also the hypocrites and the impenitent.* As, t
 
 > ***The same,*** on John ch. 12, tract. 50 (Tom. 9): *"Of the one bread Peter and Judas received; and yet what part has the faithful with the unbeliever? Peter received unto life; Judas unto death."*
 
-> ***The same,*** Ep. 162 ad Glorium (Tom. 2): *"The Lord tolerated Judas the devil, the thief, His seller; He allowed him to receive among the innocent disciples what the faithful know is our price."*
-
 > ***The same,*** on Ps. 10 (Tom. 8): *"What has Christ done to you, who bore His betrayer with such patience, that He should deliver to him the first Eucharist consecrated by His own hands and commended by His own mouth, as to the other Apostles?"*
 
 > ***The same,*** on the Epistle of John, tract. 7 (Tom. 9): *"He who receives the Sacrament of the Body and Blood of the Lord can be evil. For of such it was said: 'He who eats and drinks unworthily eats and drinks judgement to himself.'"*
@@ -1666,8 +1540,6 @@ But *not only the worthy eat, but also the hypocrites and the impenitent.* As, t
 > ***Basil,*** bk. 2 *De Baptismo,* q. 3: *"It is not without peril to eat the Body of the Lord and drink His blood, without purging oneself from every contamination of flesh and spirit."*
 
 > ***Cyprian,*** Sermon 5 *de Lapsis:* *"The unworthy invade the Body of the Lord."* And: *"They do violence to His body and blood, and they offend against the Lord with their hands and mouth."*
-
-> ***Athanasius,*** *Apologia secunda contra Arianos* (Tom. 2): *"The impious does contumely to the blood of Christ."*
 
 > ***Theodoret,*** on 1 Cor. 11: *"Not only to the eleven Apostles, but also to Judas the traitor, He imparted the precious Body and Blood."*
 
@@ -1707,9 +1579,6 @@ Here both *the grades of necessity* and *the fountains of contingency* are to be
 
 **The third grade is the Necessity of Naturally-Acting Things,** which is called ***physical necessity,*** and whose mode of acting is *ordered, the same, and one,* unless God changes it — as: ***"Fire necessarily burns"*** by physical necessity; ***"A finite body cannot be simultaneously and at once in different places,"*** in a physical mode; ***"The sun necessarily is moved,"*** by physical necessity, since nature is so ordered — which however *God often changes,* not being *bound to physical necessity or to secondary causes,* as in the most sweet verses of Dr. Philip [Melanchthon] is said:
 
-> ***Non Deus est numen parcarum carcere clausum,***
-> ***Quale putabatur Stoicus esse Deus:***
-> ***Ipse potest Solis currus inhibere volantes,***
 > ***Ipse velut scopulos flumina stare iubet.***
 
 > *God is not a numen closed in the prison of the Parcae,*
@@ -1910,13 +1779,6 @@ These causes considered, easily do they confute all objections, and *retain piou
 
 **I answer.** A most-true and most-safe rule is to be held: **In the Hebrew language, verbs signifying actions are most often set down *potentially,* and signify *permission,* which presupposes *longanimity* and a *space granted for penitence.***¹⁰⁴ As: *God hardens* — that is, *permits to be hardened* those who *will not undertake penitence,* and *permits them to be borne by their own impetus,* per that of Ps. 81: *"My people did not hear my voice, and Israel would not have me, and I dismissed them according to the desires of their heart, that they might proceed by their own counsels."* And this is the sentence expressed in the little verses which I shall subscribe:
 
-> ***Indurat, mollire Deus quos ante volebat,***
-> ***Flectere quae voluit, corda rigere facit.***
-> ***Cecutire sinit, lucem quibus obtulit ante,***
-> ***Et quos nolentes iussit adesse, fugat.***
-> ***Non Deus efficiens, sed permissiva malorum est***
-> ***Causa: mali si qua est causa ferenda Deo.***
-
 **"He hardens whom before He willed to soften; whom He willed to bend, He makes their hearts to grow rigid. He permits those to grow blind to whom before He offered the light; and those whom He commanded to be present, He puts to flight. God is not the efficient cause of evils, but the permissive — if there is any cause to be assigned to God."**
 
 From these things, therefore, again we repeat a *true conclusion, to be held by every mode:* **God neither wills, nor helps, nor approves sin.**
@@ -1949,7 +1811,6 @@ Then even when angry, He *defers penalties* and is *longanimous* and gives *spac
 
 Even the ethnics, taught by universal experience, often acknowledged this *longanimity of God* and *perversity of men.* Whence are the sentences:
 
-> ***Si quotiens peccant homines sua fulmina mittat Iuppiter, exiguo tempore inermis erit.***
 > *"If Jupiter should send his thunderbolts as often as men sin, in a short time he would be unarmed."*
 
 And in **Homer:**
@@ -2156,8 +2017,6 @@ Rightly indeed is it said: **The will holds itself purely passively** — as **L
 
 That indeed sometimes Free Will is called the *faculty of applying itself to grace* — it must be known that this description of Free Will was *cast out* by Luther, Pomeranus, and others, because the scholastics were using it of the *natural will* — even of the not-reborn man — *whose force and application to eternal salvation can be plainly nothing without the grace of God.* But by Philip [Melanchthon] the same description was employed and explicated *recitatively,* as it can be understood of the *reborn man,* or of *Free Will liberated,* against the Enthusiasts. Rightly and gravely **Luther** says:
 
-> ***"Free Will without the grace of God is by no means free, but immutably captive and servant of evil, since it cannot turn itself alone to the good. This standing, I grant you: that you make the strength of Free Will not merely moderate, but Angelic — indeed, if you can, plainly divine. If you add, however, that fatal appendix that without God's grace it is inefficacious, at once you take away from it all strength. For what is 'inefficacious strength' but plainly no strength?"***¹⁰⁹
-
 These things concerning the grades of Free Will was necessary to have admonished, that we may *cut off many curious and useless questions,* and *pray the Son of God* that He may be present to us, teach us, lead us, rule us, protect us. ***"Without me you can do nothing,"*** He Himself says (John 15). And most true and best are the little verses:
 
 > ***οὔτε θεὸν γνῶναι δύναται βροτὸς οὔτε διδάσκειν,***
@@ -2212,9 +2071,6 @@ Hence **Augustine** *contra Julianum* says:
 > *"This law which is in the members, remitted by spiritual regeneration and remains in the mortal flesh. It is remitted, because the reatus is loosed by the Sacrament by which the faithful are reborn. It remains, however, because it works desires, against which the faithful contend."*
 
 And elsewhere Augustine says: *"Sin in baptism is remitted not that it does not exist, but that it be not imputed."* As in the puerile little verses it is rightly said:
-
-> ***Peccatum tollit baptismus sanguine Christi,***
-> ***Non ut non assit, verum ne praesit, et obsit.***
 
 **"Baptism removes sin by Christ's blood — not that it be not present, but that it not prevail and harm."**
 
@@ -2394,9 +2250,11 @@ Since this doctrine is *proper to the Gospel,* set far *above and outside the vi
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-# Article II — *Credo in Iesum Christum Filium Dei*
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
 
-> **Credo in Iesum Christum, Filium Dei unigenitum, Dominum nostrum, ex Patre ante omnia saecula natum: Lumen de lumine: Deum verum de Deo vero, genitum non factum, &c.**
+# Article II — *Credo in Iesum Christum Filium Dei*
 
 **I believe in Jesus Christ, the only-begotten Son of God, our Lord, born of the Father before all ages: Light of light: true God of true God, begotten not made, &c.**
 
@@ -2539,8 +2397,6 @@ For rightly ***Chrysostom*** sometimes says: ***"Christ's words are infallible; 
 
 ## The Nicene-Clause Exegesis, and the Personal Union
 
-> **Credo in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula.**
-
 **I believe in one Lord Jesus Christ, the only-begotten Son of God, and born of the Father before all ages.**
 
 ### Four Arguments That the Son of God Is a Distinct Person from the Father and the Holy Spirit
@@ -2622,10 +2478,6 @@ Whence also before the Incarnation of the Son of God, in the Old Testament the P
 
 **Prudentius,** *in Apotheosi:*
 
-> ***Nónne Patrem violas, dum Gnatum scire recusas?***
-> ***Quandoquidem non est Genitor, nisi Filius extet.***
-> ***Nec vocitare Patrem potis es, quem Germine fraudas.***
-
 **"Dost thou not do violence to the Father, while thou dost refuse to know the Son? — since He is not the Begetter unless the Son exists — nor canst thou call Him Father whom thou defraudest of His Offspring."**
 
 **3. Whatever is outside the Person of the Father, and has in itself the divine nature *σωματικῶς,* is a divine Person.** Such is the Son (Col. 2; John 1). Therefore *He is a peculiar divine Person,* ***μὴ ἐν ἑτέρῳ οὖσα,*** but *discreet from the Father,* as the Father Himself says: *"This is my beloved Son."*
@@ -2645,8 +2497,6 @@ Whence also before the Incarnation of the Son of God, in the Old Testament the P
 ### The Next Nicene Clause
 
 **In the Symbol follows:**
-
-> ***"Qui propter nos homines et propter nostram salutem descendit de caelis, et incarnatus est de Spiritu Sancto,"*** and so on.
 
 ### The Seven-Part History of Christ's Humanity in Threefold Discrimen
 
@@ -2751,10 +2601,6 @@ There are *negative modes,* so far as it can be, to be considered, by which the 
 **Tenth:** it is not made a union ***προσθήκην ἢ παράστασιν καὶ παράθεσιν,*** by *apposition and attingentia* — such an *assistentia* as **Nestorius** feigned — as *feet are annexed to the remaining human body,* or as *two boards are compacted,* or as a *nail adheres to a certain part of the wheel,* or as the *body of the planet is affixed to a certain space of its own orbit.*
 
 **Eleventh:** it is not made a union ***κατὰ κρᾶσιν, ἢ σύγκρασιν,*** *by temperament and mixture,* as *many humours are mixed together.* The ancients indeed sometimes used the voice of *permixing,* and named it ***κρᾶσις καὶ μίξις,*** as we read in **Damascene** bk. 4, ch. 19. And **Cassian** *De Incarnatione* bk. 1 *ad Leonem* says: *"He was incarnate, and mixed in truth, without diminution and corruption of Himself. God, by the infusion of His power mercifully, was mixed with the human nature, and not the human nature mixed with the divine"* — which words **Theodoret** also cites in Dialogue 2 from **Hilary:** ***"Christ God is contained, non contained; penetrating, not penetrated; filling, not fillable; everywhere at once whole and passing through the whole, by the infusion of His power as merciful, was mixed with the human nature; but the human nature was not mixed with the divine."*** And **Gregory the Theologian** exclaims: ***"O new mixture, O admirable temperament!"*** **Augustine** calls it a *commerce.* And **Prudentius** *contra Patripassianos* used the verb *"to temper and to admix,"* saying of the Father:
-
-> ***Qui se formam hominis non induit, et Deitatis***
-> ***Immensum assumto non temperat ore, modóve:***
-> ***Vis intacta Patris non admiscenda caducis.***
 
 By these voices of *mixing, tempering, and communicating,* the ancients — Tertullian, Epiphanius, and others — willed to express *the true and personal union of the Word and the flesh.* But *on account of Eutyches's error,* these vocables afterwards were corrected and omitted, lest a *confusion of the natures* be thought of. Whence **Cyril** says: *"We do not define a mixture, confusion, or temperament of His substance made to the flesh, but we say — to flesh having a rational soul was united the Word, but beyond mind and ineffably, as He alone knew."* And **Rusticus the Deacon,** *De fide Chalcedonensis Concilii,* in the dialogue of orthodox and heretic, says: *"The name of commixtion also some of the saints have set down. But since thou dost reverently say this, lest by chance some refusion is thought to have happened, in the manner of those which are mixed liquid to each other, I liberate thee from such fears. For the saints, as we too, never abused the word — striving to signify the highest unition made of those which came together to each other."*
 
@@ -2945,7 +2791,6 @@ The similitudes are ***three.***
 
 **The first is rehearsed in the Athanasian Symbol** in these words:
 
-> ***"Sicut anima rationalis, et Caro, unus est homo: ita Deus et homo unus est Christus."***
 >
 > *"As the rational soul, and the flesh, is one man; so God and man is one Christ."*
 
@@ -3058,11 +2903,6 @@ He is named **Magus** because *by magical prestiges he demented men.* And from h
 **He denied that Jesus was born of a Virgin,** but said that Joseph and Mary had a Son who excelled in wisdom and justice; but Christ was *another,* who descended into Jesus *in the species of a dove from above,* and *revealed the unknown Father,* and *perfected the virtues,* and *again flew away from Jesus at the time of the passion.* For *Jesus alone suffered, and rose again.* See ***Irenaeus*** bk. 1, ch. 25.
 
 The Apostle **John,** having by chance encountered *Cerinthus* in the baths, said to his disciples: *"Let us go out, lest we be crushed."* And when John and the disciples had gone out, the building collapsed, and crushed Cerinthus and his associates. Hence the little verses:
-
-> ***Impia Cerinthus sancto convicia Christo***
-> ***Dum facit, et stulta garrulitate furit,***
-> ***Concidit, et rapido blasphemum contulit ictu,***
-> ***Collapsa, subitò facta ruina, domus.***
 
 **"While impious Cerinthus made insults against holy Christ, and raged with foolish garrulity, — the house collapsed, and by a rapid stroke crushed the blasphemer, a sudden ruin having been made."**
 
@@ -3447,6 +3287,10 @@ and several others — of whom some are *openly Arians* (and so far as *to go in
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # *Doctrina de Communicatione Idiomatum*
 
 ## The Foundation
@@ -3719,6 +3563,10 @@ We therefore say: If Christ has a true human body, then He gives it to us in the
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # *Sedet ad Dexteram Dei Patris Omnipotentis* — He Sitteth at the Right Hand of God the Father Almighty
 
 The prior Article on the Ascension is as it were the antecedent, of which this is the consequent and the fruit. For as Christ descended from the heavens and was made man, that in His self-exinanition He might be humiliated below all Angels and men, so now He hath ascended into the heavens in glorious triumph, that above all Angels and men He might be exalted to the right hand of God in supreme sublimity. Wherefore these two Articles — *He ascended into the heavens,* and *He sitteth at the right hand of God* — so cohere that they cannot be separated. For He ascended in order that He might sit at the right hand of the Father.
@@ -3949,6 +3797,10 @@ The **sixth glory** of the human nature of Christ is fourfold:
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # *Inde Venturus Est Iudicare Vivos et Mortuos* — Thence He Shall Come to Judge the Living and the Dead
 
 This too is a name of *office,* pertaining not only to the divine nature — of which it is written *"The LORD shall judge the world of the earth,"* and *"He is Judge"* (*Ps. 18, 75*), and again *"Judge of all is God"* (*Heb. 12*) — but also according to the *human* nature, as *John 5 and 6* showeth: *"The Father hath given the Son power to execute judgment, because He is the Son of Man."*
@@ -3959,6 +3811,10 @@ That Form shall be seen — the Son whom He hath united to Himself through the s
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
 # The Third Article of the Symbol
@@ -4032,6 +3888,10 @@ To Thee, one only God — Father, Son, and Holy Spirit — eternal, immortal, st
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
 ```
 
 # Propositions in Which Is Set Forth the True Doctrine of the Lord's Supper, According to the Augsburg Confession
@@ -4121,6 +3981,10 @@ To Thee, one only God — Father, Son, and Holy Spirit — eternal, immortal, st
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # Some Sayings of the Fathers on the Most Sacred Supper of the Lord
 
 **Irenaeus, lib. 5 against the Valentinians:**  
@@ -4202,6 +4066,10 @@ And *Anathematism 11:* *"That which is set forth in the Supper is the proper bod
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # *De Iuda Accipiente Corpus et Sanguinem Christi* — On Judas Receiving the Body and Blood of Christ, as Luke Evidently Testifieth
 
 **Augustine,** *De baptismo contra Donatistas* lib. 5 cap. 8 (Tom. 7): *"As Judas — to whom the Lord delivered the morsel — not by receiving evil, but by receiving evilly, gave place in himself to the devil, so whosoever, unworthily receiving, taketh the Lord's Sacrament, effecteth not that — because he himself is evil — it should be evil, or that — because he receiveth it not unto salvation — he receiveth nothing at all. For the body of the Lord and the blood of the Lord was nonetheless also for those to whom the Apostle said, 'He that eateth unworthily eateth and drinketh judgment to himself.'"*
@@ -4233,6 +4101,10 @@ The same saith **Augustine,** *De blasphemia in Spiritum Sanctum:* *"The Sacrame
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
 # Colophon
 
 ***LIPSIÆ***  
@@ -4246,6 +4118,10 @@ The same saith **Augustine,** *De blasphemia in Spiritum Sanctum:* *"The Sacrame
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
 
 # Endnotes
 
@@ -4642,3 +4518,4 @@ The same saith **Augustine,** *De blasphemia in Spiritum Sanctum:* *"The Sacrame
 **¹⁹⁵** *The closing Regula and the Fathers' "wicked do not eat" distinction resolved.* The closing hermeneutical **Regula** — that *wheresoever the Fathers deny that the wicked eat the flesh of Christ, they speak distinctly of the spiritual John-6 manducation proper to the good, not of the sacramental oral manducation which the wicked also receive* — is the classical Wittenberg-Lutheran *harmonisation-formula* by which the seemingly-contradictory patristic testimony on the *manducatio indignorum* was reconciled. The Rule preserves the Wittenberg-Lutheran commitment to *both* affirmations of the tradition: *(a)* that the wicked eat the sacramental body (Augustine, Cyril, Chrysostom, Fulgentius); *(b)* that the wicked do not eat the spiritual body (Jerome, Augustine on John 6, Oecumenius). The reconciliation — that they eat the *sacramentum* but not the *res sacramenti* — became the classical Wittenberg-orthodox distinction preserved in **Chemnitz's** *Fundamenta sanae doctrinae de vera et substantiali praesentia corporis et sanguinis Domini in coena sacra* (1570) and codified in **FC SD VII 60-68.** Selnecker's placement of this Rule at the very end of the volume — as the closing *pastoral-doctrinal instrument* for reading the Fathers rightly on the *manducatio impiorum* — is a deliberate *closing formal-key* for the whole *De Communicatione Idiomatum* + *De Coena Domini* arc that had begun at T5 [[note-150]] and now closes with this hermeneutical Rule as the operative *lens* for the whole preceding patristic catena.
 
 **¹⁹⁶** *The Colophon — Leipzig, Johann Rhamba, 1577.* The volume closes with the standard early-modern printer's colophon: ***LIPSIAE Iohannes Rhamba excudebat, Anno M.D.LXXVII.*** **Johann Rhamba** (Rhambau, †1587) was one of the Leipzig printers active in the 1570s who specialized in strict-Lutheran theological works — his imprints include the 1575 first-edition of Selnecker's *Symbolorum Exegesis* (from which the 1577 enlarged reissue derives), several works of the *Concord*-generation, and various Selnecker devotional and liturgical texts. The **BSB shelfmark** ***00021305*** which appears on every folio verso of the source scan identifies the exemplar as the Bayerische Staatsbibliothek München copy, digitized under Google-Books ID *hyfSeau9q60C.* The date **1577** places this volume in the very year of the *Concordienformel*'s subscription (25 June 1580 was the *Book of Concord* subscription; the *Formula* itself was completed 1577 and immediately printed) — thus Selnecker's *Symbolorum Exegesis* stands as a *contemporaneous confessional witness* to the FC's Christological and Sacramentological settlement, published in the very year of the Formula's own subscription-preparation.
+
