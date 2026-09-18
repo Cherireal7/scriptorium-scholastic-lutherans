@@ -313,7 +313,352 @@ Fortune bears the little skiff, garlanded with green branches, [to harbour].
 
 *De Conscientia et ejus casibus in genere — On conscience itself and its cases in general.*
 
-*[T2–T3 — to be translated from OCR lines 739–5307, physical pp. 31–98.]*
+## Chapter I. Whether Conscience Exists
+
+*An sit Conscientia.*
+
+**I.** That there is such a thing as conscience is taught even by the impious themselves. For no impious man says in his heart *there is no God* (Ps 14:1, 53:1) but that God either provokes him to some good — as in Rom 2:4 — or judges him. So it is when men, either in Adam's fall or afterwards, are stirred to consciousness of their guilt (Gen 42:1 ff.; 1 Sam 24; 1 Kgs 8:47; Jer 3:25; 1 Cor 4:2). Even in the very impious, whose consciences might seem seared, are found the pangs of judgment: they may indeed deaden and stop up the still small voice within, yet what they hear about themselves they inwardly acknowledge — as though what they refuse to confess by voice, they cry out for by conscience. The Germans have a word for such witnesses: **Gewissen** — that is, *knowers-with*. It is of these that Paul writes in Rom 2:15. Wherefore, that in every human being there is conscience, of that testimony there is no want.
+
+**II.** The same is taught by the **prayers of the pious**, and their vows for a good conscience. So David: *Create in me a clean heart, O God; and renew a right spirit within me* (Ps 51:10). So the wise author of Sirach (23:2 f.): *Who will set scourges over my thoughts, and the discipline of wisdom over mine heart? that they may not spare me for my ignorances, nor pass by my sins; that mine ignorances may not increase, neither be multiplied. . .* All which is nothing else than the vow of a good conscience.
+
+**III.** The same is taught by the **joys of the pious under the testimony of a good conscience** — of which the Apostle John speaks (1 Jn 3:21): *Beloved, if our heart condemn us not, then have we confidence toward God. And whatsoever we ask, we receive of him.* Hence that famous encomium of a good conscience by Bernard (*De interiori domo*, c. 11): *Conscience — a good title of religion, a garden of blessings, a paradise of delight; the couch of the soul, the joy of the angels, the ark of the covenant, the treasure of the King, the palace of God, the tabernacle of the Holy Spirit, the book sealed and closed until the Day of Judgment, when it shall be opened. There is nothing so fruitful, nothing so secure, as a good conscience. Let the body groan, let the world drag, let the devil rage — she stands secure. Secure, when the body dies; secure, when the soul is presented before God; secure, when both shall stand at the Day of Judgment before the trembling tribunal of the Judge. No middle way is more assured to blessedness, no witness more certain, than a good conscience.*
+
+**IV.** The same is taught by the **terrors of the impious after some evil deed**. For there is no man so utterly steeped in wickedness as not sometimes to feel some dread of the divine Godhead, punishing the transgressors of his law.
+
+**V.** The same is taught by **daily experience**. Every man has in his heart a witness and judge of his own deeds: if he acts well, that witness praises and comforts him, so that he can even appeal from the perverse judgments of the world to the tribunal of his own conscience — after the example of the Apostle Paul (2 Cor 1:12). If he does ill, he is accused and condemned by himself, even should many praise the deed. For every man is the best and simply infallible witness and judge of his own case. Many entrust the judgment of their deeds to others, and would learn from confessors whether they be good or evil — who, had they betaken themselves to the tribunal of their own conscience, would have counseled their affairs both more cheaply and with far greater certitude.
+
+**VI.** Finally there are added the sayings and sentences of the **pagan wise men**, who acknowledged the judgment of conscience:
+
+- **Cicero**, *Pro Milone*: *Great power has conscience upon either side — that they are not afraid who have not sinned, and they perpetually think the punishment set before their eyes who have sinned.*
+- **Isocrates**, *Ad Demonicum*: *Οὐδέποτ' ἐλπίσῃς λαθεῖν αἰσχρὸν ποιήσας* — *never hope to escape notice when you have done some shameful thing: for though you deceive the others, to yourself you will yet stand disclosed.*
+- **Seneca**, *Epistle* 97: *Nothing will avail thee toward hiding it, though the guilt be hidden — since conscience will convict thee, and show thee to thyself.*
+- **Ovid**, *Fasti* i: *Conscia mens ut cuique sua est, ita concipit intra pectora pro facto spemque metumque suo* — *as each has his own knowing mind, so within his breast he conceives hope or fear according to his deed.*
+
+There are further sayings without number that bear witness to the conscience of man, which are so common that only those who are utterly malicious and neglectful of their own salvation would deny it.
+
+— ❦ —
+
+## Chapter II. On the Name of Conscience
+
+*De Nomine Conscientiae.*
+
+It is not simply *scientia* (knowledge) but *conscientia* that is spoken of — a term of which a threefold rationale can be given.
+
+**In the Latin and German tongues** the name *conscientia* is drawn from *sciendo* — because it knows *with* the man all his thoughts, words, and deeds, and thus leads the man to a recognition of his own state; for it is the index and judge of all things that proceed from him, whether they be good or evil.
+
+**Among the Hebrews** the very *heart* — *lev* — is sometimes named conscience, because it convicts the man. Thus in Eccl 7:22 (Vulg. 7:23), where the Latin has *Scit tua conscientia*, "for thy conscience knows," the Hebrew has *scit cor tuum*, "thy heart knows." *Conscientia enim est cordis scientia* (the conscience is the *knowledge of the heart*), says Hugh of St. Victor (*De anima* ii); and Bernard, *De interiori domo* c. 20, says the same.
+
+**In the Syriac tongue** conscience is called *rea*, so the Syriac interpreter renders it in Rom. 2, with a term derived from a root that means to *form* or to *give expression to* — for the conscience is the expressed form of things spoken and done in the mind.
+
+— ❦ —
+
+## Chapter III. On the Etymology of Conscience
+
+*De Etymo Conscientiae.*
+
+The name of *conscientia* admits a threefold etymological account.
+
+**I.** Some hold that conscience is called such as if it were *cordis scientia*, the *knowledge of the heart*: for *scientia*, taken absolutely, is called conscience insofar as it looks toward some deed known, and afterwards is simply called science. For which reason conscience is said to be exercised specifically about our actions.
+
+**II.** For others, conscience is *concludens scientia*, the *concluding knowledge*: for conscience is a practical syllogism, which from the light of nature or of grace concludes what is honest and what base, what commanded and what forbidden, and what rewards or punishments await the man on that account. In this syllogism, the *major* is drawn from the light of nature or of Scripture — e.g., *whoso sheddeth man's blood, by man shall his blood be shed* (Gen 9:6). The *minor* subsumes the homicide's own case: *thou hast shed man's blood*. And the *conclusion* pronounces sentence upon the man himself: *therefore thy blood also shall be shed.*
+
+**III.** Others take conscience for *scientia cum aliis*, *knowledge with others* — for it imports an ordering of a man's knowledge toward another, and this in two ways.
+
+**1.** Conscience is the application of knowledge to some deed to be done or omitted, or also to some already done — of which it judges whether it stands rightly or not. So conscience is *the application of a deed with knowledge*, that is, the *application of knowledge to a deed* — the etymology given by Thomas (*Summa* Ia q. 79 a. 13). Here we see the reason for a common saying: *Consciousness of one who has done a thing brings on itself the judgment of its own heart* (Ovid) — *he perceived the deed to be against duty, and hence the judgment of the proper heart followed: he has committed a deed worthy of punishment.* So when Judas said *innocent blood I have betrayed* (Mt 27:4), *to betray one's Lord is a wrongful thing* — this was known to Judas the betrayer by right reason; and once the application of conscience joined this notion, he confessed himself the betrayer of his Lord.
+
+**2.** In another sense conscience is *knowledge with others* because a man is not the *sole* knower of his own deeds — for others know them too, and thus conscience joins several in the world, communicating one's knowledge to others.
+
+- *With God in heaven:* who knows even our secret things. Of which Job (16:19): *Behold, my witness is in heaven, and my record is on high.* And David (Ps 139:2): *Thou understandest my thought afar off.* And in Wisd 1:6, God is called *the searcher of the heart.*
+- *With the holy angels,* who are spectators of our actions both good and bad — approvers of the good, haters and accusers of the evil. Hence Bernard's admonition on Ps 91 (*Qui habitat*, homily 12): *Take heed, brother, as the ancients used to speak — of the guardians for glory, of the tormentors for punishment.*
+- *With the devils,* who take note of our deeds — grieving over our well-doings, and instilling and promoting our misdeeds, and being the first of all to bring them before the just Judge. Wherefore Satan is called *the accuser of our brethren* (Rev 12:10).
+- *With ourselves,* whose accomplice against ourselves we ourselves are. For no man is so alone in a corner of a hidden lodging that he does not have himself a witness. *Reveal thou wilt one day be found out* — *one knowing, they easily know it, though I to others am hidden. Certainty may be lacking, but the witness of the deed is one and cannot go astray.* As the poet sings: adulterers, thieves, robbers have many companions, all of them accomplices in one another's crimes. In German: *Ein Gauner erkennt den andern zu meiden.* But those also who have wrought praiseworthy deeds are not lacking their heralds — as Callimachus has it: *Fame remains, though the coverlets be cast over the corpse — Fame, which she who lives well has as her testimony.*
+- *With all creatures — heaven and earth.* For creatures are edified by our deeds each in their own way, and groan under our abuse, as Paul says (Rom 8:22). Hence heaven is called to witness against the impious, and earth against them likewise (Deut 30:19; Isa 1:2). *If God be witness, if the angels, if the devils, if the whole company of creatures* — *thou shalt not do in the presence of the One what thou wouldst not dare to do in the presence of any man.*
+
+So much for the *etymo* of conscience.
+
+— ❦ —
+
+## Chapter IV. On the Essence and Nature of Conscience
+
+*De Essentia et Natura Conscientiae.*
+
+Since it is chiefly upon this account that the scholastic disputes have been most stubbornly held, we must set the standing of the debate briefly. Some referred conscience to the *will*, holding that conscience is a habit, a certain rectitude of the heart, whence follow the vulgar phrases: *bonam conscientiam habere* (to have a good conscience), *bonam conscientiam retinere fideliter* (faithfully to retain a good conscience), and the like — for goodness pertains rather to the will. So too when the *worm of conscience* is spoken of, this seems to touch the office and faculty of the will. Item, when the *pleasant and painful* stings of conscience are named — both of which belong to the affections and to the concupiscible power. And so it seemed that whatever comes to conscience — its being good or bad — pertained not to the intellect but to the will, or to some other affection. This opinion is defended by Scotus, Bonaventure, and Durandus.
+
+*Others, however, and the majority, refer conscience to the intellect.* For it is said in Eccl 7:22 (Vulg.) that *thy conscience knows*, and to know is peculiar to the intellect. Item, conscience is said to *apply the principles* of the mind, whether the innate principles of nature or those extrinsic principles of Scripture, to a particular thing to be done — and this application pertains to the intellect *by way of the practical intellect*. Item, conscience is discerned as either *right* or *erroneous*, and error is present in the intellectual act of judging, not in the will. Item, conscience has these operations: *dictate, incite, direct, judge, testify* — and to these of the office of the intellect it pertains. And this opinion has generally prevailed in the schools.
+
+The truth is: since Scripture ascribes various operations to conscience — such as accusing, excusing, testifying, terrifying, and the like — conscience is called neither a habit nor an act of simple understanding, but rather is analogically taken for the intellect itself, or the intellectual faculty and power, so far as it puts forth these operations *in the several men* proper to each.
+
+We shall say therefore that **conscience is a practical act of the mind, arising from an application to us of the light of nature or of the light of Scripture** — *by which we conclude what is to be done or omitted, what is good or evil, what we have deserved from God, what we have to hope, what to fear.* Hence some — noting that it stands about the singular deed as such — have called conscience the *dictate of the mind* about *good and bad in individual actions*. And it lays hold of the intellect prominently through its practical operations.
+
+Two acts of the intellect concur in conscience:
+
+- One precedes the deed to be done, and is not merely cognitive but motive — because it moves and inclines the soul to pursue the good or to flee the evil. Others call this the *practical act*. In this respect conscience is joined to the natural habit — to that superior light of reason which is called *synderesis*.
+- The other follows the deed once done — for it is a judgment upon the work, whether it be honest or base. By this judgment there is thus an application of knowledge (or of some law of nature) to the deed already done. Others call this the *speculative act*.
+
+And in this respect conscience differs from synderesis. For synderesis is a natural habit — a spark of reason — and cannot err; conscience, however, may err in judging. Synderesis pertains only to the good (naturally spurring the man on to good and shrinking from evil); conscience pertains both to good and evil, judging of things honest and base. Synderesis pronounces universally what is to be pursued or fled; conscience judges of singular actions in particular. Yet these two — for synderesis is the principle of the natural habit, and conscience is the act of the intellect — are so ordered that synderesis is the principle of conscience. So Thomas (Ia q. 79 a. 13) and Gerson (*Part. 3, Sermon on the Nativity of the Virgin Mary*).
+
+— ❦ —
+
+## Chapter V. On the Office of Conscience
+
+*De Officio Conscientiae.*
+
+The offices of conscience are these: **to oblige, to judge, to direct, to testify.**
+
+**1. To oblige** — for conscience puts forth the commandment of a judge, and holds the man by that mandate as by the very virtue of the judge's mandate. And this it does not idly but efficaciously; for conscience is a herald of the law, whose proper office it is to oblige. Conscience obliges the man to obey the Word of God, and *he who does something against this conscience sins mortally.*
+
+Yet **conscience does not oblige per se**, but by reason of the law which commands or forbids something. For it is proper to law to oblige, and conscience obliges only in virtue of that law. Hence Paul says (Rom 13:5) that one must be subject *not only for wrath, but also for conscience' sake* — that is, lest thou determine anything in thyself by thy proper judgment, unless it be worthy of God.
+
+**2. To judge** — after the deed is done: conscience is not idle then either. For with the intellect it declares that the deed done is either good or bad, either judging *speculatively* by the syllogism, or by directly accusing, excusing, or condemning. Hence too the office of conscience is called *judiciary*.
+
+**3. To direct** — since conscience applies the law to the deed to be done or already done, its office is to direct the man in his acting: whether to do or forbear, whether the deed is honest or base. Conscience *urges and compels* the man: that he judge either what is to be done or what is to be omitted, or that having done, he either accuse or excuse himself.
+
+**4. To testify** — for the conscience of the man himself bears witness before God. As Paul writes: *my conscience also bearing me witness in the Holy Ghost* (Rom 9:1). Conscience testifies concerning the man himself, that he is such-and-such: for it applies the *simple knowledge*, the very intelligence of good and evil, to the deed done, and is a most trustworthy witness — freer than any other from all the affections. Hence conscience is called a *thousand witnesses*, in whose consciousness God is with us: *Non licet me tacere*, quotes Chamier — *thou dost testify contempt, thou dost testify laughter, thou dost testify neglect, and every such contumelious act.* Whence too the sacred writ appeals: *conscientiam Deo teste retinere* — *to hold conscience with God as witness.* And why does conscience testify to us, when to itself alone we sometimes summon it as a witness — that of which not even the wife knew, of which not even a friend — that of which we alone are conscious? So Paul calls his conscience his witness, because it is a very great and perpetual torturer of the heart, when it feels the reproach of past deeds. And thus is understood the saying of Solomon (Prov 15:15): *A merry heart maketh a cheerful countenance; but by sorrow of the heart the spirit is broken.* As a sound body has rest, but a sick body torment: so a good man in his good conscience sweetly finds rest in God; but a bad man is racked in his evil conscience *as with a sickness of the heart*.
+
+— ❦ —
+
+## Chapter VI. On the Species of Conscience, and First of Right Conscience
+
+*De Speciebus Conscientiae, & primum de recta conscientia.*
+
+The species of conscience, and its differences, are matters variously divided by the scholastics. We shall gather what is necessary and useful in a summary.
+
+**Right conscience** *is that which conforms to the rule (that is, judges rightly and truly) that something either is to be done, or ought to be done — either the goodness of something is affirmed, or, in a deed already done, is affirmed to have been done well.*
+
+The **foundation of a right conscience** — a foundation proper and divine — is the **Word of God**, by which God urges and compels the conscience in every action, so that it either judges what is to be done or omitted, or accuses or excuses the deed already done. This is *the ground of obligation*, and it belongs to God alone; for he alone is Lord of the conscience, who gave it to man, and beside him no one knows conscience; he alone has the power of saving and destroying the soul, according as his law is either kept or violated. Hence he alone is called *the searcher of the reins*, *he who saves and destroys* (James 4:12).
+
+Beyond this proper foundation of a right conscience, there come further **laws** to be accounted — namely, **the law of nature and human laws**.
+
+The **law of nature** obliges the conscience by the same right as the Word — for although it agrees with the Word, yet it is weak and imperfect after the Fall. It has less force than the Word itself, but greater force than human laws — since it is nothing else than a dictate of right reason.
+
+**Human laws** are the statutes of magistrates in ecclesiastical and civil matters, which are to be obeyed insofar as they are conformed to the Word of God, because they serve the public tranquillity and order, and because their transgression is often coupled with scandal and contempt. Among these are counted, by the Papists, their *ecclesiastical laws*, sanctioned by the pope and bishops — which they claim to bind the conscience as much as the Word of God itself. Their opinion may be seen in **Bellarmine**, *De Romano Pontifice* iv, c. 15 sqq. But of this we shall have to say more below when we come to the several cases of conscience.
+
+It stands from all this that a **right conscience** is placed in the middle between God and men: from God's side it is bound by his laws; from man's side it has power over the actions of man, which lie under the judgment of conscience.
+
+Right conscience arises from the correct application of the deed to the principles of the law — that is, when the mind of the man judges that whatever things are conformed to the law of nature, to the Decalogue, and to the statutes of the magistrate which are conformable to divine law, are to be done; and whatever is prohibited by these, is to be omitted. Bernard, *De interiori domo*, c. 10, writes: *A right conscience is that which the sinner's proper sin displeaseth and the sin of another she doth not consent to, nor withdraweth herself from the sinner for its sake, nor dissimulateth her own sin, and when she is rebuked doth not chafe. She is tranquil, because she is sweet to all and burdensome to none, useful to a friend for grace, to an enemy for patience, to all for benevolence, and to all whom she can — for beneficence.*
+
+— ❦ —
+
+## Chapter VII. On Erroneous Conscience
+
+*De Conscientia Erronea.*
+
+**Erroneous conscience is that which approves the false for the true, or the true for the false, or the uncertain for the certain, or the certain for the uncertain.** Error arises from a false application of the deed to the science, or from false ratiocinations, which are begotten either of ignorance, or of inadvertence, or of forgetfulness. For erroneous conscience urges that a thing is good and by force of a precept to be done, when it is in fact evil, or at any rate not commanded; or it urges that a thing is evil and prohibited by the law, when it is in fact not evil, nor interdicted by any law. As if some man should judge it lawful to appropriate the goods of others in order to succor the poor; or that one must lie in order to save another's life; or should think that on Friday it is forbidden to eat flesh.
+
+**Concerning this species of conscience the scholastics dispute much**, *whether it has the power of obliging us* — that is, whether we are bound to follow it and to act according to its prescript, so that if this be not done, sin has been committed. Some say that an erroneous conscience *binds* (*ligat*) but does not *oblige* (*obligat*). Others distinguish between *precepts* and *counsels*; between things necessary and things not necessary — with erroneous conscience proposed; between sins in themselves, and things which under aspect of a good end are proposed by an erroneous conscience; and so on. And by these distinctions they at last proceed to hold that even sins proposed by an erroneous conscience are to be done. On which see Thomas (Ia IIae q. 19 a. 5); Johann Azor, *Institutionum Moralium* i, lib. 2 c. 8; Jodocus Lorich, *Thesaurus Theol.*, s.v. *conscientia* §.6; Becanus, *Theologia Scholastica* i, tr. 1.
+
+**Others** hold that erroneous conscience by no means obliges — so that it is not lawful to act against it — because by its own judgment it declines from the law against which nothing is to be done. Therefore Cicero also said: *"A good man in his whole life never departs even a nail's breadth from a *right* conscience"* — right, he said, not erroneous. See the gloss on the chapter *Omnes*, *quaest.* 1. And Alensis (*Pars* 2, q. 120 memb. 3) taught that if an erroneous conscience judged something to be commanded which yet was intrinsically evil, then conscience does not oblige, nor is it lawful to act from it, but it must be laid aside. Becanus, in the passage cited, contradicts this.
+
+**To decide this question**, we must distinguish among the things proposed by an erroneous conscience. For either **they are indifferent** — neither commanded nor forbidden by God — or **they are defined by an express law, either commanded or forbidden.**
+
+*If erroneous conscience urges the doing of an indifferent thing, which it supposes to be commanded of God, then one must not act against that conscience — even though the thing thus prescribed is not commanded*: because the judgment of the intellect in these matters is the proximate rule of the will. The will therefore ought to follow the judgment of the intellect as its guide, and act as the intellect proposes.
+
+*Example:* In the primitive Church, many Jews converted to the faith of Christ judged the Levitical distinction of foods to be not yet abolished; if any of them had been compelled to the eating of flesh from swine, he would surely have sinned, because with doubting conscience he had done it. Therefore Paul writes: *nothing is unclean of itself, but to him that esteemeth it to be unclean, to him it is unclean* (Rom 14:14); and adds in v. 23: *he that doubteth is damned if he eat, because he eateth not of faith.* So too by example: some weaker brother might judge that flesh must necessarily be abstained from on a certain day, though the matter be in itself indifferent, and prohibited by no divine law. If he has been persuaded of this in his conscience, then, were he to do the contrary, he would sin — because his will has deflected from its rule, nor could he be certain concerning his own deed: *whatsoever is not of faith is sin* (Rom 14:23) — that is, whatever is not from the faith of conscience, from the certain persuasion of conscience, or is done with tottering conscience, cannot be pleasing to God. Wherefore Paul writes (1 Cor 8:7) of him who thinks the idol something (though the idol is nothing), that his conscience is polluted in eating things sacrificed to idols; and where by one's own example one impels him to eat such things, one strikes his weak conscience and *sins against Christ* (v. 11); and hence those who are rightly instituted must yet abstain from *eidolothyta* if some weaker brother should judge them to be sacrificed to idols — this for the sake of the weaker's conscience, which by that untimely usage of an in-itself-lawful thing would be polluted. Care must be taken that the erring weaker brother lay aside his error.
+
+So too an **oath** is in itself a middle thing, which can be preserved by piety or omitted by piety. But if any Anabaptist holds an oath as a thing per se unlawful and divinely prohibited, and were compelled by a magistrate to swear, he would do ill — not as though the oath be unlawful, but because he took it in an evil way, that is, against his own conscience — which although erroneous, yet since it resists him, in a thing in itself lawful, was not to be neglected.
+
+**But it is otherwise** when we come to **things expressly forbidden by divine law**, in which conscience may err by ignorance. And here we must distinguish between ignorance which is **invincible** — probable and just, because introduced from elsewhere, without the man's fault — and that which is **vincible**, that is, culpable, and begotten of a vicious will in the mind.
+
+*If conscience errs from invincible and just ignorance*, he who acts according to it does not sin — because the will follows the judgment of reason, though depraved in opinion, but by an opinion which without his fault was instilled and deceived him. *Example:* to give alms out of another's money, or out of money unjustly acquired, is a sin — for God will not have the reward of a whore, nor the price of a dog, brought into his house (Deut 23:18). But if a man is certain in his conscience that the money he received from his parent is his own in good faith, and legitimately acquired, not another's nor ill-gotten — and gave alms out of that money — he would not sin, but might rejoice in his own good work; not indeed insofar as he was liberal out of another's and ill-gotten goods (for he was in good faith ignorant of this), but because he knows the relieving of the poor to be a work of mercy pleasing to God.
+
+*But if the error of conscience is from vincible and vicious ignorance, he sins* who follows the judgment of that erroneous conscience — the contrary of what some scholastics (and among them the Jesuits) hold. For such conscience is not yet sufficiently confirmed. The rule of the will is not to be the judgment of the intellect infirm and voluntarily debilitated, but rather the law of God itself. *Example*: to steal is an unlawful thing. If conscience be deceived by an evil persuasion — as though it were lawful to steal, that alms may be given — no one would sin who acted against that conscience. For everyone ought to know: partly that theft is prohibited in the law; partly that evils are not to be done that good may come. Whoever holds theft lawful does so from a crass and vicious ignorance, which they call vincible: he sins. And therefore the conscience which sets such an error in the place of a foundation cannot oblige. *For no man can be obliged to evil; and no inferior law can oblige against the law of a superior.* But the law of God is: *thou shalt not do evil*. Therefore conscience cannot oblige us to do evil.
+
+Such an error therefore is to be laid down, according to the counsel of Sirach: *let not thyself down into error* (Sir 17:26); and the judgment of the intellect is to be at least conformed to the law of nature, so that when the speculative judgment is corrected — namely, that *one is not to steal in order that alms may be given* — the practical judgment is also changed thereby.
+
+For although conscience is called *the law of the intellect*, yet it is not the supreme law, because above it there is another law — that which God has proposed in his Word, and by his own part inscribed also on the minds of men, and afterwards inscribed with his fingers on the tables of stone. When conscience departs from that law, its lead is not to be followed. *Conscience is the herald of the law, as we said above.* Just as the herald stands as a middle between king and people, and the people are not held to hear him when he pronounces anything against the king, so conscience stands as a middle between God and us — whom we are not to follow, if she determines anything against God.
+
+So Bonaventure rightly warns (*In IV Sent.* dist. 38, art. 2, q. 4, sub fin.): *No one is perplexed by conscience, save for a time — namely, so long as the erroneous conscience remains; nor yet is he simply perplexed, because he ought to lay that conscience aside; and if he knows not the law of God, he ought to consult the wiser, or turn himself by prayer to God, if human counsel be wanting. Otherwise, if he is negligent, that word of the Apostle shall be verified in him: If any man be ignorant, let him be ignorant* (1 Cor 14:38). Exceedingly clear on the obligation of erroneous conscience is Gabriel Biel (*In Sent.* dist. 39 q. un., art. 3 d. 2, l. 2), as also cited by Johann Altenstaig in his *Lexicon Theologicum* (fol. 189): *Erroneous conscience also obliges, yet not as a right rule. For it does not oblige to do that which contradicts the law of God, thinking oneself to be judging in conformity with law — because then it would oblige contra legem, and by consequence one would be held to do a thing against the law: for the law obliges to its own observance, and at the same time one would be obliged to opposites simultaneously incompossible, which is absurd.*
+
+Erroneous conscience therefore obliges to *lay down that conscience, and to lay down the error* — not by the tie of conscience so dictating (because in the erroneous supposition it is not held as erroneous), but by the tie of the divine precept, which is: *remain not in error.* (Sir 17:26.)
+
+By this doctrine can be answered the question: *if any man was persuaded that he had not been baptized, when yet in fact he was baptized, ought baptism to be conferred?* For that persuasion arises from an error. If the error be **invincible** — so that the man believes with all certainty that he was not baptized — then he ought to be held for baptized. But if the error is **vincible** — that is, the persuasion rests only on conjectures — then baptism is to be conferred, lest, the error being cast off, conscience should at last make trouble to the man.
+
+So much of erroneous conscience.
+
+— ❦ —
+
+## Chapter VIII. On Doubtful Conscience
+
+*De Conscientia Dubia.*
+
+**A doubtful conscience is that which judges nothing certain of some deed, but hangs suspended between the two alternatives, ignorant whether what occurs is to be done or omitted.**
+
+It is doubtful either **practically or speculatively**. *Practically*, when a man in the very exercise of an action doubts whether he acts rightly or not — as when one, in betraying an enemy, doubts whether he does right. *Speculatively*, when he doubts outside the exercise of the action whether the action be lawful — as, whether it is lawful to betray an enemy. Conscience becomes doubtful partly from ignorance of the matters, partly from contrary opinions, partly from doubtful outcomes, whether lighter or graver — which a prudent man can readily distinguish.
+
+**Doubt from outcomes** concerns a deed already done: for since it has fallen out well for one, ill for another, they doubt (who estimate deeds by outcomes) whether the deed itself be lawful or unlawful.
+
+**Doubt from contrary opinions and from ignorance** concerns a deed both to be done and already done — for since nothing certain is settled concerning the goodness of the work, doubt arises whether it is to be done; or, once it has been done, whether it was done well or not — worthy of praise or of blame.
+
+**Opinions** are either *probable* — which rest on some reason of weight or on grave authority — or *improbable* — which have neither sufficient reason nor grave authority. *From an improbable opinion nothing is to be done*: for such a deed would plainly be rash.
+
+**Ignorance** is twofold: of *right* and of *fact*. *Ignorance of right* is when a man is ignorant of what is legal, having not weighed the circumstances of the matter — as when one doubts whether it is lawful to lie for some certain end, e.g. to redeem a life; or, when two precepts concur, one doubts to which is to be preferred (e.g., on the Lord's Day, whether to hear a sermon or to visit the sick). *Ignorance of fact* is when the deed itself is not known to be lawful or not — as when someone doubts whether a certain contract is lawful, or whether a certain marriage-alliance is honest.
+
+**A doubtful conscience obliges no one practically, until it lay aside the doubt and settle from just reasons that the thing may be done in this place and time.**
+
+Yet it can be so that a man doubts speculatively but is certain of the matter practically — and then he does not sin. As one may doubt whether this war is lawful, though certain in practice that it is lawful for him to serve in it: this certitude is drawn from practical principles — for he knows, so long as the injustice of the war is not manifest, that every man ought to obey his prince, from whom he is commanded to soldier, and cannot refuse until the injustice of the war becomes manifest to all.
+
+**Rules in doubt:**
+
+- Where in doubt one part is safer, better, and more difficult than the other, that is to be chosen which is safer and better, though joined with greater difficulty. In this whoever does not suffice for himself alone, let him hear the counsels of others, and earnestly pray to God that he himself may choose what is best.
+- Where either side carries equal evil or good with it, let him choose and follow what God has shown to him by his heavenly finger through preceding prayers, or that toward which God has inclined the will of the man. For *the divisions of hearts are of the Lord* (Prov 21:1); *the king's heart is in the hand of the Lord, whithersoever he will he inclines it.* Whoever therefore in doubtful matters commits his ways to God by prayer can be certain that whichever side in the doubt he submits to has been done by God's approval; *what is asked according to the will of God, he denies to no one* (1 John 5:14).
+
+See Bonaventure's *dictum* in the preceding chapter.
+
+— ❦ —
+
+## Chapter IX. On Opinionative Conscience
+
+*De Conscientia Opinabili.*
+
+**An opinionative conscience is that which probably judges one side to be honest in some deed and assents to it — yet fears lest perhaps the other, contrary side be the honest one, whose notion also has at least some probable reason.**
+
+It arises therefore from those probable reasons which cannot make the sense stable, and so beget not solid knowledge but some kind of opinion. It does not oblige when the opinion is plainly improbable, because the practical judgment resting on it would be rash. If any man should hold an improbable opinion for probable, then it becomes an **erroneous** conscience, of which we have spoken shortly before.
+
+Nor does it oblige when the opinion rests merely on the plurality of those thinking so, because *the multitude of the erring makes no patronage for the error*. Therefore when you hold some opinion — not on the assent of others but on probable grounds — you are bound in conscience not to act against it, even though superiors demand another thing of you, until you have heard truer reasons to the contrary. And you ought always to be ready to hear such reasons, and, when you have heard the better opinion, to lay aside your own.
+
+And here belong the **rules to be observed in opinionable matters, for the safeguarding of conscience.**
+
+**1.** In matters of faith, the sentence of Scripture is to be preferred to the opinions of the gravest doctors, and to the very decrees of councils and pontiffs. In this manner **Paphnutius** preferred the sentence of Scripture concerning the marriage of priests to all the Fathers of the Council of Nicaea, as Socrates records (*Hist. Eccles.* I, c. 11). *For the authority of Sacred Scripture is greater than the capacity of any human intellect.*
+
+**2.** Between two probable opinions, that one is more to be chosen which rests upon the sense of the law or the right, than that which rests upon custom or received usage. For no human custom can oblige human consciences against the divine or natural law. Thus the laws of fasting — as regards certain kinds of foods and certain days — although introduced by long custom, do not bind the conscience, because they run against the apostolic law (Col 2:16): *Let no man judge you in meat or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: which are a shadow of things to come.*
+
+**3.** Among two or more opinions on penal or odious matters, the gentler and milder is to be embraced, according to the rule of law: *Penalties and hatreds are to be restricted.* So when the penalty of excommunication is treated, there are some who opine that an excommunicate is not even to be greeted, nor any sign of benevolence shown to him; others deny that he is to be shut out from all greetings and conversation. The latter opinion, because milder, is thus safer in conscience. For although familiar company with the excommunicated is to be avoided, lest the ecclesiastical discipline seem to be despised — yet a benevolent mind toward them, desirous of their salvation, is not to be laid aside; indeed, when need arises, they are to be exhorted to repentance and consoled — for excommunication does not extend itself more broadly than Christian charity.
+
+**4.** When two opinions are equal as to the number of authors, that is to be followed which is safer. For example, some hold that a eunuch can contract matrimony; others deny it. The latter opinion is safer, and therefore to be followed. Yet this rule holds only when a man doubts speculatively about some deed, and cannot from certain practical principles elicit whether now and here it is lawful to do this — for then he ought to choose what is safer. But when he is speculatively doubtful (from contrary probable opinions) and yet practically certain, this does not always hold: for when either opinion practically, and from practical principles, can appear safe, then one may choose either. See Becanus, *Theologia Scholastica* i, tract. 1, c. 4, q. 15.
+
+**5.** Opinion strictly and properly taken is when there is fear and doubt of the opposite side; and *then that is to be chosen which is safer*. But if any man so opines that he has no doubt at all, then in acting he may follow even the less safe opinion, because he adheres to it with certainty, without any doubting — as for instance one who thinks it better *not* to give his daughter in marriage, so that he doubts not of the truth of his opinion, though he may not have altogether infallible grounds for it. He acts rightly if he does not give her in marriage. This is the sentence of the Apostle Paul (1 Cor 7:37): *He that standeth stedfast in his heart, having no necessity, but hath power over his own will* — *and hath so decreed in his heart, that he will keep his virgin* — *doeth well.*
+
+**6.** If a less safe opinion is more probable and more common, it is lawful for us to follow it in acting. That opinion is called **more probable** which is supported by stronger and better reasons; **more common**, which is generally observed. E.g., some hold that a judge sins who fails to condemn a man he sees to be innocent, but who has been convicted according to acts proved in judgment. Others hold that the man himself sins by condemning him. The former sentence, though less safe, is nevertheless more probable and commonly observed — and thus to be preferred to the latter.
+
+**7.** The more probable opinion is to be preferred in acting to the more common — for in opinions, sentences are not counted but weighed. So it is a common opinion among Calvinists that it is lawful to baptize with another liquid than water — but the more probable and more agreeable to the institution of Baptism is the opinion that only with water is one to be baptized: therefore this rather is to be chosen.
+
+**8.** In a sentence in which more agree with something, this is not judged more probable in the forum of conscience. For in casting votes, the greater part not rarely conquers the better: therefore the Lord in the law said, *Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment* (Exod 23:2).
+
+More on the selection of opinions in the forum of conscience may be seen in Johann Azor, *Instit. Moral.* i, lib. 1, c. 17.
+
+So much of opinionative conscience.
+
+— ❦ —
+
+## Chapter X. On Scrupulous Conscience
+
+*De Conscientia Scrupulosa.*
+
+**A scrupulous conscience is that which, in a question pertaining to some action, adheres to one side, but by light reasons of fear is deterred from acting — and thus is tossed as it were with a perpetual apprehension and anxiety of soul.** Practically, therefore, it judges it to be lawful to do what it does; but speculatively it doubts, with some anxiety and fear, lest perhaps it be unlawful.
+
+It has its name from *scrupus* or *scrupulum* — a little stone in the shoe that hurts a man and hinders his walk. For such is the care and anxiety that vexes a man's mind and impedes him in his actions.
+
+Scrupulous conscience differs from **doubtful**. For the doubtful man assents to neither side of the question; but the scrupulous man assents to one side, though he doubts about the opposite lest perhaps it be the truer. The doubtful man doubts because of probable reasons on either side; the scrupulous man, because of some quite trivial arguments, hesitates — sometimes without any cause at all.
+
+**Scrupulous conscience arises:**
+
+1. *From inexperience* — as men fresh in godliness and untried, when they most of all wish to be pious and cautious, easily fall into scruples of conscience.
+2. *From the suggestion of the Devil*, who disturbs the phantasy, deludes the outward senses, and drives to sundry sins — and after sin, holds a man in despair.
+3. *From weakness of head*, when the organs of the senses are hurt, and gradually the imagination too, so that a man imagines all things, even good ones, to the worse.
+4. *From bad bodily constitution* — which is caused by fasting, watchings, immoderate studies, cares and troubles, which render a man cold and thereby timid.
+5. *From a melancholic temperament, cold and moist*, which is prone to fear and timidity; whence also women, especially old wives, are chiefly obnoxious to scruples.
+6. *From company of scrupulous men.* For as *he who walks with a limping man learns to limp*, so a man who dwells with the scrupulous learns to be so himself.
+7. *From the singular providence of God*, who by such scruples wakens some men either on account of sins committed, or for the safety of their souls, to raise divine thoughts in them.
+
+Two modes present themselves in which a man may have a scrupulous conscience:
+
+**(i) About past things** — when one is anxious about his prior life, whether it was in all things conformable to the divine law, whether he has fulfilled his office in all, whether he has omitted this or that.
+
+**(ii) About present or future things** — whether it is lawful to do this or that, whether they are endowed with divine grace, whether they are in the good state of life, what is to become of them in the future, and the like. Here belongs what Gerson wrote (*Pars* 3, *De diversis diab. tentation.*) *of the too-narrow and the too-broad conscience*: *the Devil persuades a narrow and a broad conscience, saying to the narrow: dare do no good, that more often he may fail; for he knows it is a sin to do what one for certain judges his conscience to condemn as evil, though the thing in itself has no evil at all. And often he gives back to the enemy, before it is committed, a secure and broad conscience, that afterward it may not be repented of, &c.*
+
+**Such conscience does not oblige, because it rests on no certain or probable reason. It is therefore to be laid aside, and cast out with sure remedies:**
+
+**1.** *Against present matters:* by ardent prayers, that God may not deprive us of his grace, but relieve the hesitating conscience, that we may do what is right in his sight.
+
+**2.** *If the scruple is of past sins,* let him betake himself to repentance, doubting nothing that in truly penitent men the grace of God overcomes the sin — according to that word (Isa 1:18): *Though your sins be as scarlet, they shall be as white as snow.* Let him weigh himself not according to his own merits but according to the mercy of God, thinking that saying of Augustine (*Confess.* ix, c. 13): *Woe unto the praiseworthy life of men, if thou, O God, being severed thy mercy, dost examine it; but because thou dost not seek out our offences vehemently, thereby especially we look for the place of thy indulgence.*
+
+**3.** *Let him consider those scruples as darts of Satan* — and let him give them no place. Let him remember that he is made a son of God in Baptism, upon whom Satan has no right.
+
+**4.** *Let him not be too solicitous about his perseverance in good* — provided he has no purpose of sinning: even if he does not all things, he acts according to the will of God, if only according to the vow of his own will, so far as at God's beckoning.
+
+**5.** *Let him consult the pious and learned* — and especially let he pour the anguish of his soul into the bosom of his own pastor, and comply with his admonitions. *For his voice is the voice of God*, of the ministers of the Word the Savior said (Luke 10:16): *He that heareth you heareth me.*
+
+**6.** *Against his scruples let him place the precepts of the Redeemer* — for he calls all who labor and are heavy laden to himself, prone to forgive, prompt to help in any necessity.
+
+By these modes chiefly the scrupulous conscience is best cared for. To which, if the works of physicians be also brought to bear — who may succor the weakness of the brain — a great weight will be added to the man's restoration.
+
+— ❦ —
+
+## Chapter XI. On Good and Bad Conscience
+
+*De Conscientia Bona et Mala.*
+
+This distinction of conscience is most usual — but *conscience is less properly called good or bad*: for goodness or badness lies not in conscience itself, but in the actions of which conscience judges whether they be good or evil. Hence conscience is by metonymy called good or bad.
+
+**When therefore conscience judges of our action that it is good and conformed to law, it is called a good conscience.** The reason for the name is partly because it agrees with the norm of piety and honesty, and partly because it makes the mind good and tranquil, free from all shame, sadness, and remorse.
+
+Scripture calls it *καθαρὰ συνείδησις* (1 Tim 1:5) — a *pure conscience*, purged from every stain and blemish of great crime — and *καλή*, a **fair** or *beautiful* conscience (Heb 13:18), that is, whereby the mind of the man conscious of himself gleams with the brightness of virtues. And also *ἀπρόσκοπον* — a conscience that gives no offense — because it testifies that the man, of the deed of which it judges, has not offended the conscience of God (2 Tim 1:3): for he who has such a conscience is governed by the Spirit of God, and lives in the fear of God, bound in conscience to the will of God even in enduring adversities. Clement of Alexandria calls it *εὐσυνειδησία*, which term answers to the foregoing.
+
+Good conscience therefore is **a joyful and tranquil thought of the heart concerning our things, well, rightly, and cautiously administered according to the law of God and nature — of which, though others should judge less than fairly, our heart bears witness for us, excuses us against calumny, and makes us cheerful and intrepid.** *A good conscience,* says Bernard (*De inter. dom.* c. 10), *is that which punishes past sins, refuses to commit sins that must be punished, does not consent to sins felt, sighs over sins committed, cleanses the polluted thought.*
+
+**The four offices of a good conscience:**
+
+1. *To excuse* — when we are forced to hear the judgment of others. These are those "thoughts of the heart" said in Rom 2:15 to *excuse one another*.
+2. *To testify to the contrary* — namely, of well-doing (2 Cor 1:12).
+3. *To console* — even when in well-doing we are ill spoken of (Heb 13:18).
+4. *To absolve* — from unjust accusation (1 John 3:21).
+
+Such conscience is *the best treasure of a man, and a perpetual banquet* (Prov 15:15). Gregory calls it *cor simplex* — the *simple heart* — as he says: *Nothing is more felicitous than a simple heart, since by it a man exhibits innocence to others, and nothing exists that he need fear from others' machinations.* It is the safest comfort in adversity. Job in his sufferings raised himself thereby, that *his heart did not reproach him in all his life* (Job 27:6). The pagan poet called it *a brazen wall*, which is not broken in adversities: *hic murus aeneus esto — nil conscire sibi, nulla pallescere culpa*: *let this be a wall of brass — to be conscious of nothing to oneself, to grow pale at no guilt.* Others name it the highest good of man: *the highest good is the mind conscious of good to itself.* Similar encomia of a good conscience are elsewhere common.
+
+Yet **a good conscience is always to be distinguished from a mere feigned zeal for a good conscience**, such as is found in hypocrites — who either know not the will of God, or refuse to know it, and yet do impious things, teach impious things, or work evils, and pretend a conscience by which they claim they cannot be otherwise; when in truth they care for nothing less than that conscience, as in other matters plainly appears. The Pontifices and Elders would not enter the praetorium lest they be defiled — this was pretending a conscience; yet at the same time, when they were condemning an innocent man, they had no care of conscience whatsoever. So the papists cannot pretend a conscience on the day forbidden for eating flesh — yet they reckon a monk's belly the amphora of Bacchus. Whence the old distich against monks:
+
+*Vos monachi, vestri stomachi sunt amphora Bacchi;*
+*Vos estis, Deus est testis, tristissima pestis.*
+
+*(You monks, your bellies are the amphorae of Bacchus;*
+*You are, God is my witness, a most sorrowful pest.)*
+
+So much of the **good conscience**.
+
+**Now when conscience judges of our action that it is evil and contrary to the law or norm of piety and honesty, it is called an evil conscience.** The reason of the name is partly because it is found in evil and reprobate men, partly because the action itself is evil and wicked, partly because it has an evil effect — of which more below.
+
+In Scripture it is called *the worm* (Isa 66:24, that dies not; Isa 66:14), *sadness of mind* (Prov 15:13), *goad on the road* (Sir 10:13), *disturbed conscience* (Wisd 17:11), *defiled conscience* (Titus 1:15).
+
+**An evil conscience therefore is a judgment of the mind accusing itself and convicting us of some sin, on account of which we look for punishment from God, both temporal and eternal — whence there is fear and horror, trepidation, and sometimes final despair.**
+
+**The four offices of an evil conscience:**
+
+1. *To accuse the man* — of which Rom 2:15: *their thoughts one with another accuse them*.
+2. *To convict the accused sinner* — of infidels it is written that their conscience convicts them (Rom 2:15).
+3. *To condemn the convicted* — *whence we know our heart is said to condemn us* (1 John 3:20).
+4. *To torment the condemned* — of which Wisd 17:10: *fear ever betrayed cowardice, in the very things which she has despised.*
+
+Such a conscience is truly a **beast**, which, as that Cardinal used to say, *makes a man stand against himself.*
+
+By Moses it is called *a trembling heart* (Deut 28:65), because evil consciences fear all safety: *the wicked flee when no man pursues* (Prov 28:1). They fear their own shadow; they fear all creatures. *The rustling of a leaf shall chase them* (Lev 26:36). See Wisd 17:5 ff. Hence the impious are compared to *a troubled sea, that cannot rest, whose waters cast up mire and dirt* (Isa 57:20). Jeremiah calls it *the shield of the heart* (Lam 3:65), or the *hardened core of the heart*, because through anguish the heart is so pressed that the man knows not whither to turn.
+
+The pagan poets called an evil conscience the **Furies** — which torment and scourge a man without remission. Hence they are said to bear serpents for hair (Tibullus, *Elegies* i); and by Apollonius of Rhodes she is called *ἀερίφοιτος Ἐρινύς*, the *air-wandering Fury*, *swift-flying* — because they fly to the punishments of the condemned. **Tisiphone** punishes sins committed through anger and hatred, and hence the murders. **Alecto**, *envier-fury*, punishes sins committed through envy. **Megaera**, *the never-ceasing*, which is *jealousy of pleasures*, by which she takes vengeance in sinning souls. Thus writes Silius *Punica* xiii:
+
+*Invigilat animo scelerisque patrati*
+*Supplicium exercent curae; tunc plurima versat*
+*Pessimus in dubiis augur, timor.*
+
+*(She watches over the soul, and the cares exact the torment of the deed committed; then, worst diviner in doubtful things, fear turns many things over.)*
+
+*Nulla poena gravior est poena conscientiae*, says Isidore (*Soliloquy* ii): *no punishment is more grave than that of conscience.* Wilt thou not be always sad? Live well. A secure mind bears sadness lightly; the joy of a good life is ever in the punishment of an evil life; never is a guilty conscience secure — for the evil mind is turned upon the goads of its own conscience.
+
+**As evil is manifold, so of the evil conscience there are several species — of which those commonly reckoned are:**
+
+**1. Cauterized conscience** — as Paul intimates (1 Tim 4:2): that is, seared through with the fire of malice, and as if branded with an indelible stigma. This metaphor derives from the double use of the cauterizer: *first*, horses, bulls, and rams are cut by the burning iron for gelding; or gangrenes and poisoned ulcers are burned by the cauter, and a certain crust is drawn over the wound in place of skin, which is without feeling. So conscience in many is so cut through by malice that the mind has drawn a plain callus over itself, and perceives no sense of divine reverence. *Second*, wrongdoers are branded on the forehead or on some other conspicuous part of the body: with this species of conscience coheres the *reprobate mind*, which judges evil for good and good for evil. Hence even in the worst things no goads and no prickings are felt, because the mind is ever greedy to work whatever impurity, of which Paul treats in Rom 1.
+
+**2. Insensate conscience** — of those who reckon as sins only enormous ones — thefts, adulteries, homicides, and the like — but the rest, such as drunkenness, simple lust, impure thoughts, rash oaths, cheats and frauds in contracts, and the like, they plainly reckon no sins, or at best light ones — especially when they are committed with impunity.
+
+**3. Perverse conscience** — of those who count least sins, or none at all, as great and greatest, and reckon nothing for such: as the Pharisees of old, of whom Christ said that they *strain at a gnat, and swallow a camel* (Matt 23:24).
+
+**4. Dangerous conscience** — that in which even the greatest sins are but little regarded; committed sins are handed over to oblivion, and are not willingly heard remembered; but are obliterated by a presumption of God's mercy — by which reason it is necessary at last to fall into destruction most certain.
+
+**5. Too-narrow conscience** — that of those who, on account of frequent lapses, wholly despair of God's mercy, and thereupon perish in their iniquity, unwilling to be converted. They are called such *as have given themselves over to a reprobate sense* (Rom 1:28), *who have delivered themselves over unto uncleanness* (Eph 4:19).
+
+**6. Perplexed conscience** — which stands between two sins, doubtful which to choose, when neither can be done without the wounding of conscience. In such a case the safest thing is to turn oneself away from both, and
+
+— ❦ —
+
+*[T3 — to be translated from OCR lines 3000–5307, physical pp. 62–98.]*
 
 — ❦ —
 
