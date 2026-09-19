@@ -67,6 +67,15 @@ Raw grep on cleaned OCR; OCR corruption still swallows some markers. Approximate
 
 **Complete.** PyMuPDF (fitz 1.28.0) successfully extracted all 1198 pages after Stage 2's resume-download recovered the 84 MB tail. Output: `sources-original/balduin-casibus-1628.txt` — 75,390 lines / 3.32 MB. No truncation; body terminates naturally with AMEN + doxology; back-matter indexes intact; FINIS marker present.
 
+## Source-scan duplications (two ranges)
+
+The Google-Books scan of the 1628 physical copy has **two duplicate page ranges** — apparently signatures that were re-set and re-bound, resulting in the scan containing partial earlier printings of Liber I and Liber II openings:
+
+- **Liber I duplicate:** physical pp. 54–64 (OCR ln 2298–~3042) re-print the content of pp. 42–53 (Cap. VII *Erronea* through mid-Cap. XI *Bona et Mala*). Novel content resumes at p. 65 with Cap. XII (chapter header swallowed by OCR); Cap. XIII explicitly marked p. 66.
+- **Liber II duplicate:** physical pp. 87–98 (OCR ln 4514–5307) is a **partial** earlier printing of Liber II Cap. I Casus I–VI. It stops at Casus VI, and p. 98 sweeps in the tail of Liber I's Steuber Additamentum Q2 (Susanna/Apostles/Joseph exempla) under a stray "LIB. I. DE CONSCIENT." running header. The authoritative printing begins fresh on p. 99 (OCR ln 5308) with the full Cap. I text and continues past Casus VI into Casus VII (p. 110) and beyond.
+
+Both anomalies confirmed by `page.get_text('text')` returning identical body-text for the paired ranges. **Skip both duplicate ranges when translating; anchor on the authoritative range each time.**
+
 ## OCR quality
 
 Heavier corruption than Selnecker Symbolorum or Kirchner Methodica but still tractable. Typical patterns:
@@ -114,9 +123,10 @@ Target ~2,500–3,000 OCR lines per tranche → **~25 body tranches** plus 1 fro
 | # | Section | OCR lines | Physical pp. |
 |---|---------|-----------|--------------|
 | T1 | Front matter (cover, dedicatoria, praefatio) | 1–738 | 1–30 |
-| T2 | Liber I part 1 (conscience in general) | 739–3000 | 31–~62 |
-| T3 | Liber I part 2 (conclusion) | 3000–5307 | ~62–98 |
-| T4–T11 | Liber II (God & religion) — 8 chunks × ~3000 lines | 5308–29353 | 99–471 |
+| T2 ✓ | Liber I Cap. I–XI | 739–2296 | 31–53 |
+| T3 ✓ | Liber I Cap. XII–XVI + Steuber Additamentum (skip pp. 54–64 duplicate) | 3086–4510 | 65–86 |
+| T4 ✓ | Liber II Cap. I (skip pp. 87–98 duplicate) | 5308–7060 | 99–125 |
+| T5–T11 | rest of Liber II — 7 chunks × ~3200 lines | 7061–29353 | 125–471 |
 | T12–T17 | Liber III (celestial spirits) — 6 chunks × ~3000 lines | 29354–47119 | 472–740 |
 | T18–T25 | Liber IV (human affairs) — 8 chunks × ~2750 lines | 47120–69119 | 741–1109 |
 | — | Back-matter indexes (deferred — regenerable) | 69121–75365 | 1110–1190 |
