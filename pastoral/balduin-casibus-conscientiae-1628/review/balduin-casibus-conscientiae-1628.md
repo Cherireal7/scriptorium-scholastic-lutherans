@@ -654,11 +654,218 @@ The pagan poets called an evil conscience the **Furies** — which torment and s
 
 **5. Too-narrow conscience** — that of those who, on account of frequent lapses, wholly despair of God's mercy, and thereupon perish in their iniquity, unwilling to be converted. They are called such *as have given themselves over to a reprobate sense* (Rom 1:28), *who have delivered themselves over unto uncleanness* (Eph 4:19).
 
-**6. Perplexed conscience** — which stands between two sins, doubtful which to choose, when neither can be done without the wounding of conscience. In such a case the safest thing is to turn oneself away from both, and
+**6. Perplexed conscience** — which stands between two sins, doubtful which to choose, when neither can be done without the wounding of conscience. In such a case the safest thing is to turn oneself away from both, and rather to bear some temporal evil than the eternal — following what God signifies by the finger of his own providence, so that his will and not our own is done.
+
+*(An editorial note: the source PDF here interposes ten pages that visibly duplicate the material of Cap. XI already given above — a printer's-block reset or a binder's error in the physical volume from which the digitisation was taken. The narrative resumes below with what follows Cap. XI in Balduin's own outline: the chapter on the effects of good and bad conscience.)*
 
 — ❦ —
 
-*[T3 — to be translated from OCR lines 3000–5307, physical pp. 62–98.]*
+## Chapter XII. On the Effects of Good and Bad Conscience
+
+*De Effectibus Bonae et Malae Conscientiae.*
+
+Beyond what has already been said of the seared conscience — those inured through custom to whoremongers, gamblers, litigators, embezzlers, guileful contractors in their dealings, and the like, than which nothing is more common in the world; who indeed sin with impunity, yet in the heart still feel their own torment. For every voluntary transgression of law that comes with delight, however it may be palliated before the world, still *wounds the conscience* — one must observe the following effects.
+
+**Firstly, tranquillity and gladness of heart signify a good conscience; anxiety, fear, and sadness a bad one.** For these are the proper effects of conscience, as we have said above. And though the pious also sometimes grieve and fear, they grieve not because of their own guilt but on account of some outward and common evils that afflict even the strongest — meanwhile placing their inward trust in the Lord, tranquil in the very midst of the world's waves. Because *if our heart condemn us not, we have confidence toward God* (1 John 3:21). So also the impious sometimes bear before themselves a certain gladness or high-spiritedness — but it is a false pretext and mere show; for it lacks the true foundation, the tranquillity of the heart, since *he who is evilly conscious always presumes evil things* (Wisd 17:11): *there is no peace, saith my God, to the wicked* (Isa 57:21).
+
+**Secondly**, when a man is not conscious of any grave crime, and does not feel himself inclined toward one, but abhors it and detests those who commit such things, he enjoys a good conscience — though at times, on account of lukewarmness in prayers and love of God, he is more fearful. For such fear is filial and can coexist with — nay, preserves — good conscience. Solomon (Prov 28:14): *Happy is the man that feareth alway.* And on the opposite side (Ps 2:11): *Serve the Lord with fear.* So Job says: *I was afraid of all my works* (Job 9:28); and yet elsewhere: *my heart shall not reproach me any of my days* (Job 27:6) — which was the testimony of a good conscience.
+
+**Thirdly**, if a man has sinned most gravely, yet has done penance, and does not rejoice in the recollection of past sin but abominates it, he has a good conscience — for what was formerly polluted by sin is now, through the blood of Christ, cleansed *from dead works* (Heb 9:14). Hence John writes: *If our heart reprove us, God is greater than our heart* (1 John 3:20).
+
+**Fourthly**, whoever fears God and loves his Word, prays diligently, willingly serves his neighbor, keeps himself from his own harms, bears injuries patiently, guards himself from sins, grieves over the law of sin in his members, and mourns that he cannot in all things perfectly observe God's commandments — yet with his utmost strength strives to serve God, and prays that God may succor his weakness — he has no cause to doubt of his good conscience. For all these are works of the Spirit of God, *who will not enter into a malicious soul, nor dwell in a body subject to sins* (Wisd 1:4).
+
+**Fifthly** — as we shall see when treating the healing of a wounded conscience — even a mind once grievously wounded may be brought back to good conscience by the ministry of the Word and the application of Christ's satisfaction.
+
+**Sixthly**, a good conscience delights in the fellowship of Christ through the participation of his Body and Blood in the Holy Eucharist. *Christ dwells in our hearts by faith* (Eph 3:17); more intimately still he unites himself to us through the communication of his Body and Blood (John 6:56 f.).
+
+— ❦ —
+
+## Chapter XIII. Why Christians Especially Should Take Account of Conscience
+
+*Quod Christianis imprimis Conscientia rationem sit.*
+
+The devil's malice contrives to remove from the eyes of many the very care of conscience. Therefore we must set down four reasons that should stir every man to the study of a good conscience.
+
+**First, on account of God**, who commands us the purity of conscience, and demands of us a life without stain in his Word. Hence the summary of the mandate is called *charity out of a pure heart, of a good conscience, and of faith unfeigned* (1 Tim 1:5). Hence Solomon (Prov 4:23): *Keep thy heart with all diligence, for out of it are the issues of life.* Hence Christ's mandate that *our light so shine before men, that they may see our good works, and glorify our Father which is in heaven* (Matt 5:16). And Paul: *that thou keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ* (1 Tim 6:14).
+
+**Second, on account of the holy angels**, who are exhilarated by the pious and holy works of men, but grieved by impure and evil ones (Rev 12:10). Whose office we cannot better sustain than by studying to guard an unspotted conscience. It is worth the labor, therefore, that each man take account of all the paths of his life, accuse himself, and free his conscience. *Anticipate thy accuser: if thou wilt accuse thyself, thou shalt not fear thy accuser* — so Ambrose (*De poenitentia* ii, c. 7).
+
+**Third, on account of the devil** — so that we may give him no occasion to accuse us. For our *accuser stands before God day and night* (Rev 12:10). So that we may fear no evil, since the pain of a lost conscience carries with it the loss of God's favor, the sorrow of the angels, the fear of death, the accusation of the devil, the gnawing of conscience, and the terror of hell.
+
+**Fourth, and chiefly, on account of ourselves.** For with a good conscience lost, all our felicity perishes; with it kept, our highest good is retained. Hence the verse: *If you lose all things, remember to guard your good name — for once lost, it will belong to no one after.* This must be considered a little more carefully.
+
+*First*, with a good conscience is lost at the same time **faith**, and all the gifts that in faith are divinely bestowed upon us. For in Christians, faith and good conscience cohere by an indissoluble bond, so that the one cannot be retained without the other. Wherefore Paul in summing up the mandate names *faith unfeigned, conscience good* (1 Tim 1:5, 19), and joins these two — establishing that when good conscience is repelled, faith suffers shipwreck. So he bids the minister of the Church *hold the mystery of the faith in a pure conscience* (1 Tim 3:9). *Who having put away this*, he says, *concerning faith have made shipwreck* (1 Tim 1:19). And unbelievers are said also to have *defiled conscience* (Titus 1:15). So faith and complete good conscience are conjoined (Heb 10). When therefore good conscience is lost, faith too is lost; and so it follows that whoever does not have good conscience is *not in grace with God* — since *without faith it is impossible to please God* (Heb 11:6). Hence Paul joins good conscience with the grace of God (1 Cor 1:2).
+
+Thereby we lose the **remission of sins**, which by faith in Christ we receive (Acts 10:43); for the blood of Christ purges the conscience from dead works, that we may serve the living God (Heb 9:14). We lose the **righteousness before God** which is by faith, as all Scripture testifies; the **access to God with confidence** which is ascribed to faith (Rom 5:1) and to a good conscience (1 John 3:21); the **indwelling of Christ and of the Holy Spirit** in us — for such indwelling belongs to those *who keep the word of Christ* (John 14:23). Finally, we lose **the hope of eternal life** — into which nothing unclean shall enter (Rev 21:27). Whence of the impious it is read at the last day (Wisd 4:20): *In the reckoning of their sins they shall come with fear, and their iniquities shall convict them face to face.* It is therefore of the utmost concern that each man strive to keep his conscience unspotted. For *what shall it profit a man, if he shall gain the whole world, and lose his own soul?* (Matt 16:26).
+
+*Then*, with a good conscience are lost **all the exercises of true faith**. Prayers perish — being lukewarm, or plainly none, or at least without fruit. For they are done without faith, by those who sin mortally; and *God hears not sinners* (John 9:31). So God turned aside the prayers even of those who prayed with an evil conscience (Isa 1:15). Whereto Paul: he wills that we lift up *holy hands*, without wrath and doubting (1 Tim 2:8). Alms perish also, because they are done without the sufficient direction of conscience; and all other works of mercy — vigils, labors, and countless duties — no matter how diligently performed, because without faith and good conscience they are done, either of custom, of example, or of necessity — never with acquiescence in these things themselves.
+
+*Thirdly*, with good conscience lost, **all consolation and courage in adversity** are lost. For a good conscience is fitting refreshment to a regenerate mind; it despises the threats of enemies, and not only lifts the cross but even makes it sweet, and blunts the assault of temptations even in the very agony of death — of which all are destitute who have not a good conscience.
+
+*Fourthly*, with good conscience is lost **the tranquillity of life**. For good conscience is the joyful state of the whole life — but especially the sweet nurse of old age. Wherefore Samuel, already gray, appeals in the presence of the whole people to the innocence of his life (1 Sam 12:2 ff.). And an old man, asked by a young one why his old age was so pleasant, replied: *A free youth was my youth.* An evil conscience, however, is like a butcher or a most savage beast, gaping after the life and blood of the man even in this most fortunate world — bringing on perpetual fear and horror.
+
+*Fifthly*, with good conscience lost is lost the **hope of a blessed death**. For they die evil who have lived evilly — and a corrupt conscience prepares a precipice to despair, especially when again and again it is agitated. It is folly to think, as many do, that upon perceiving they have sinned they can then fly to God's mercy. For many sins have so lulled the man to sleep that he never comes to serious recognition of sin: their conscience itself is so twisted by such tortures that they cannot seriously think of the mercy of God, whence they rush headlong into the abyss of despair — either becoming numb in themselves and dying as beasts (like *Nabal* in 1 Sam 25) or laying violent hands upon themselves (like *Cain, Saul, Ahithophel, Judas*). Since this is so, it is worth-while indeed to preserve conscience without a stain — which should be the chief care of all the faithful. Hence Bernard's saying:
+
+*Hodie sit mea prima cura, ut te quaeram mente pura.*
+*(Today let this be my first care, that with pure mind I seek thee.)*
+
+— ❦ —
+
+## Chapter XIV. How Conscience is Healed, if it has been Wounded
+
+*Quomodo Sanetur Conscientia, si forte Vulnerata Fuerit.*
+
+Conscience is wounded by actions disagreeing with law, through headlong falls that sometimes overtake even the regenerate. For the falls of the regenerate are twofold: some *of infirmity*, done unwillingly; others *of malice*, done with set purpose and against conscience — and these last shake off grace and faith. In these, when conscience resists yet is not restrained, conscience is said to be *wounded*.
+
+**When conscience is thus wounded, there is no other remedy but this: that the wound be cured by that same blood of Christ which cleanses our conscience from dead works (Heb 9:14).** For Christ is the immaculate Lamb of God, who offered himself as a sacrifice for our sins (1 Pet 1:19); and as he took our sins upon himself, so also his conscience, laden with alien guilt, was made most sorrowful. So that all his agonies bear witness to that time; on which account *his soul was sorrowful even unto death* (Matt 26:38); and with his prayers and supplications with strong crying and tears he sufficiently expressed to God the anguish and press of his soul (Heb 5:7) — anguish which he suffered not for his own merit but for the guilt of others.
+
+Therefore this alone is the sufficient remedy for the healing of our wounded consciences; and since in the very agony it did not fail — being not human but divine — it is therefore now to be applied to the wounded conscience.
+
+**The application is by the ministry of the Word**, in which is required (from the minister's part) preaching of Law and of Gospel. By the *Law* the wound is displayed and pain is stirred, without which sense of pain no cure is possible; then by the *Gospel* the grace of God is announced through Christ, who cries to all truly penitent: *Come unto me, all ye that labor and are heavy laden, and I will give you rest* (Matt 11:28). *For if we confess our sins, he is faithful and just to forgive us our sins* (1 John 1:9). *Whosesoever sins ye remit, they are remitted unto them* (John 20:23) — the classical scriptural form of absolution, entrusted to Christ's ministers.
+
+Yet on the sinner's part is required *contrition*, *confession*, and *faith* — the same threefold operation of true penance so familiar in Wittenberg dogmatics.
+
+- **Contrition** arises from the acknowledgment of sin, which extorts sorrow and anguish of conscience, so that the man judges himself unworthy of any mercy.
+- **Confession** is the acknowledgment of sin — first before *God*, who alone has the power of remitting sins, David's example (Ps 32:5, Ps 51); and then before that *neighbor whom we have offended* (which other confession is called *reconciliation*, Matt 5:23 f.), and *before the minister of the Word* (James 5:16), from whom absolution is heard.
+- **Faith** consists not merely in a *notice* of Christ's merits — for even the devils believe (James 2:19) — nor merely in *assent* to what Scripture declares of Christ; but chiefly in the applying to oneself in individual assurance of what Christ has done for all. Whence he can say: *Christ loved me, and gave himself for me* (Gal 2:20). This confidence sets up the man's stricken mind, and holds him back from the precipice of despair, so that concerning the reconciliation with an offended God he promises himself the best things through Christ, whose wrath being appeased, the conscience is also pacified — and the man is excused, absolved from condemnation, because his sins have already been laid on Another, by whom abundant satisfaction has been made for them. To this the Spirit of God (*who intercedes for us with groanings which cannot be uttered*) bears witness — *the Spirit himself beareth witness with our spirit that we are the children of God* (Rom 8:16).
+
+So at length the anguishes of the heart vanish, gladness returns in the Lord, and the conscience, which was before like a hell, is converted into a most joyful paradise.
+
+— ❦ —
+
+## Chapter XV. Whether Conscience Can Be Extinguished in a Man
+
+*An Conscientia in Homine Extingui Possit.*
+
+**Conscience, being a natural light in man, cannot utterly be extinguished** — though it is often for a season *impeded* from its office, so that it does not judge rightly of the actions of men, nor accuse them. When this happens, it seems as it were extinguished and buried.
+
+Conscience is impeded in its office in various ways:
+
+**1.** *Externally*, when some cause obscures the judgment of honest and base actions, so that they are not recognized — as in *frenetics and maniacs*, who commit homicide or similar without murmur of conscience, because they do not understand what they are doing.
+
+**2.** *By the outward force of the affections*, which as by a dense fog obscures the mind so that it cannot recognize what it does; when that fog is repelled, it understands rightly, and conscience awakens as from the depths. An example is in the *angered*: *the fury of anger is brief; while it operates, one is not sane before God* (James 1:20). For the heat of anger disturbs the mind, so that while the man commits murder he thinks he does right, until his heat abates — then he first feels the sting of conscience. Cain provides the example. So the *lustful* is captivated when the flesh sweetly stirs him, and does not feel any bite or reluctance of conscience in the very act — but afterward, once done, he perceives the wound.
+
+**3.** *By the will's decision* not to allow conscience any voice in an impious deed. As appears in those who persecute confessors of the heavenly doctrine under the name of heretics: of whom Christ warned (John 16:2): *The time cometh, that whosoever killeth you will think that he doeth God service* — *and this they will do to you, because they have not known the Father, nor me.*
+
+**4.** *By hardness of obstination* — for conscience sleeps not as a watchman, but as a wild beast that has ceased its roar or as a hoarse dog: in some it is so lulled by the sluggishness of sin that in all the time of life no bark or spur is felt from it. Nevertheless, it will awake at least in death, when it flogs the man at a most untimely hour.
+
+Such consciences are either always impeded in their office, or only for a time. *Always impeded* — when men are given over to a *reprobate mind* (Rom 1:28), so that they judge good to be evil and evil to be good, and thus in erring judgment persist and perish without repentance. Thus many, on account of heresy or some horrid crime, endure the bitterest torments without any prick of conscience — as Faustus's example and those who slew kings whom they held to be heretics testify. Not always impeded, in those who at length by the sense of divine punishments, or by the exhortations of the pious, wake themselves up — as *Joseph's brethren* did (Gen 37, 42), who did not immediately, upon selling their brother, acknowledge how great a crime they had done — but ate their bread securely; and when treated more harshly in Egypt, they felt the anguishes of their former crime: *We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear* (Gen 42:21).
+
+Such conscience is called **dormant** (not extinct — for it is not utterly dead). It *sleeps* in a restless bed, ever able to be awakened; yet though it always murmurs and accuses, it never spurs unto good (as in the damned).
+
+Therefore let us admit betimes those means by which we can shake off the torpor of conscience. For it is better that we be afflicted in the time of grace than that we perish in the time of wrath. There the anguishes of conscience can carry their *sadness that worketh repentance to salvation not to be repented of* (2 Cor 7:10). But here in many, whose repentance death cuts short, they become the beginning of infernal torments.
+
+— ❦ —
+
+## Chapter XVI. What a Case of Conscience is, and How Many Kinds
+
+*Quid sit Casus Conscientiae et Quotuplex.*
+
+*Case* takes its name from *falling* (*cadendo*). In grammar it is the same as *lapse* or *ruin*. In *physics* it is a cause per accidens of things that come to pass beyond choice for the sake of some end. In *ethics* it is a fall or some vice or exorbitance from the middle. In the same manner it is used in **theology**: whence the saying — *A holy man walks in his fall of conscience, because he is headlong into vice.*
+
+Some call a *case of conscience* any action departing from right reason and repugnant to it; more correctly, however, it is called a *scruple* or *doubt* in some action of a man, concerning which conscience cannot without information carry out its own judgment under a certain determination. Whatever befalls a man in which his judgment can err, is called a case of conscience — which, so long as it is directed by right judgment, keeps conscience good; but when it errs, it is a fall and wounds the conscience.
+
+Hence *case of conscience*, of *lapses* or actions departing from right reason. In this signification is distinguished, in the papacy, between **reserved cases** and **non-reserved cases**.
+
+*A reserved case is that whose absolution is forbidden to an inferior priest.* It is either **papal** (whose absolution belongs solely to the Pope, and forbidden to bishops and pastors) or **episcopal** (whose absolution is granted to the bishop only, and forbidden to pastors). On this see the Council of Trent (Sess. 14, c. 7), Chemnitz (*Loci Theologici*, s.v. *Clavium*), and Tolet (*Instructionis Sacerdotum* Book 3).
+
+**But this distinction is completely without foundation, and has been thought up for the establishing of the Pope's absolute power.** For absolution from sins is not to be governed by human arbitration; and where the ministry of the sacred office is exercised — the remission of sins is announced without accepting persons who minister thereto. For this power is no greater in the Roman Pontifex than in the humblest deacon, since it is *ministerial in all and apostolic, exercised by God's dispensation for our stewardship*.
+
+Yet if by *reason* they are joined for Christ (2 Cor 5:20), they are judges of consciences but not dispensers — they are stewards of the remission of sins, not authors and lords. Even so, this reservation of cases does not pertain to us.
+
+**A case of conscience, in the wider sense of which we speak, pertains to the actions of men considered with respect to their propriety** — to which action must be tempered and shaped, so that it agree with right reason. And these questions branch over the whole life of man in its several kinds.
+
+**Cases of conscience are divided variously by various authors.**
+
+- Some divide them *according to the offices of the priest*, as does **Francisco de Toledo**.
+- Some divide them *according to the considerations of the man*, whether *simply in himself* or *with respect to God and neighbor*. The former yields questions of what the man must do, how he may be received into the grace of God and preserved therein, how he may be certain of his salvation, how he may collect himself when troubled in mind. The latter yields questions of *the worship of God* and of the actions of man as he is a member of the Church, family, or commonwealth. This is the order followed by **Guilielmus Perkinsius** (William Perkins).
+- Others distribute them *according to the parts of the catechetical doctrine* — placing cases about the several precepts of the Decalogue, about the several articles of the Creed, about the petitions of the Lord's Prayer, and about each of the Sacraments. This order is observed by **Hemmingius** (Niels Hemmingsen).
+
+**In this treatise, however, since the method is free to any writer, we shall distribute the cases of conscience *according to the object of the man's action*.** For man's action is either:
+
+- *In matters divine and concerning religion* — that is, toward *God* (Book II).
+- *Turned toward angels and spirits* — celestial spirits, angels, demons, astrology, magic (Book III).
+- *Occupied with human things* — either the state of body and fortune, or the salvation of the soul (Book IV, part 1).
+- *Directed toward the neighbor* — in ecclesiastical, political, and economic condition (Book IV, part 2).
+
+By this order we shall now set about the decisions of the cases of conscience, imploring the grace and blessing of God with our humble voices.
+
+— ❦ —
+
+## Additamentum — Two Questions from the *Table of Good and Bad Conscience* of D. Johann Steuber
+
+*Additamentum ad Librum hunc Primum, sumptum ex D. Joh. Steuberi Conscientiae Boni et Malae Tabula.*
+
+*(Editor's note: two supplementary questions appended by the widow-heirs in the 1628 edition, drawn from the tabular casuistical apparatus of Johann Steuber — an early-17th-century Wittenberg-Marburg Lutheran casuist. They pick up the same practical questions Balduin has been asking, in the tabular scholastic key.)*
+
+### Quaestio I. How is Good Conscience to be Preserved?
+
+The preservation of good conscience is most necessary — since *whatever is not of faith is sin* (Rom 14:23). Paul commends the retention of good conscience to Timothy: *This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare; holding faith, and a good conscience; which some having put away concerning faith have made shipwreck* (1 Tim 1:18–19).
+
+Great is the force of conscience on either side: that they are not afraid who have not sinned, and they perpetually think the punishment set before their eyes who have sinned (Cicero, *Pro Milone*). *Conscia mens ut cuique sua est, ita concipit intra pectora pro facto spemque metumque suo* (Ovid, *Fasti* i). *Whom I have delivered unto Satan, that they may learn not to blaspheme* (1 Tim 1:20). Conscience keeps mendacities as its whip; the mind is *tortor* to itself when guilty. So none — not even those who deny that we can wholly fall from justifying faith by reigning sins — can flatter themselves in the depravity of this dictum.
+
+**By what means is an untainted conscience to be preserved?** By five ordered means:
+
+**1. Attentive meditation on the divine majesty and accurate consideration of the divine Word by which God speaks to us in Sacred Scripture.** Because we are all sinners, our conscience is stained — therefore it must be purged by the application of the purification acquired by the blood of Christ (1 John 1:7), obtained through faith. Thus purified, our conscience must study new obedience according to the law of God, and shun the vices that would defile conscience — considering that saying of Sirach (13:30): *There is no wealth above health of body: and no joy above the joy of heart.*
+
+**2. Devoted colloquy with God** — a humble address of God (Cyprian, *Ep.* 1) in the name of Christ, that he may clothe us with the Holy Spirit (Luke 11:13), who leads us in the level path (Ps 143:10). *The effectual fervent prayer of a righteous man availeth much* (James 5:16).
+
+**3. Intimate association with Christ through the participation of his Body and Blood in the Holy Eucharist.** Christ indeed dwells in our hearts by faith (Eph 3:17); but more intimately still he unites himself to us through communication of his Body and Blood (John 6:56). To eat his flesh and drink his blood spiritually (which spiritual eating and drinking is required for the saving use of the Holy Supper) is to abide in him, and he in us — and he who abides in him will bear much fruit; for without him we can do nothing (John 15:5). Effectually the Word of God gives us life (Heb 4:12); the Body and Blood of Christ (John 6:55, 6:53–54) — when the former is given for us, and the latter poured out for us for the remission of our sins (Luke 22:19–20; Matt 26:28; Mark 14:24). The Word of God makes us certain in general of the remission of sins and confirms our faith; but the Holy Eucharist exhibits to us, by means of bread and wine, the Body and Blood of Christ as a pledge of redemption — and announces to each of us individually that the Body of Christ was given into death for me who eats the blessed bread, and his Blood was shed for me who drinks the blessed cup, for the remission of the sins that I have committed.
+
+**4. Daily reflection on some incitements to piety.** Many such exercises of piety abound; among the eminent are:
+
+- **To think of God as present in every action.** Tobit commended it to his son (Tob 4:5): *All thy days keep the Lord God our God in mind; and beware, lest by doing contrary to his commandments, thou sin.* Solomon (Prov 3:6): *In all thy ways acknowledge him, and he shall direct thy paths.* David (Ps 16:8): *I have set the Lord always before me: because he is at my right hand, I shall not be moved.* Who would in the sight of husband, father, teacher, master, or even judge commit some heinous crime? But God is everywhere present (Sir 24:8 ff.); nor can man hide himself in darkness from him (Wisd 17:2). His eyes are a thousand times brighter than the sun; they behold all the ways of men, the depths, and the concealed parts of the heart (Sir 23:28). *He is our Father* (Isa 63:16), *our Lord* (Luke 6:46), *our benefactor* (Acts 14:17, 17:25), whom villainy displeases (Prov 6:5), *the judge of the living and the dead* (Acts 10:42), who *will bring to light the hidden things of darkness, and will manifest the counsels of the hearts* (1 Cor 4:5). Therefore keep continually before thyself the three things: *his Eye*, which sees all our thoughts, words, and deeds, even in the hidden parts (Sir 23); *his Ear*, which attends to all our thoughts, words, and deeds (Ps 94:8–10); *his Book*, in which are inscribed all our thoughts, words, and deeds, that from it we may be judged on the last day (Rev 20:12).
+
+- **To keep in memory the Four Last Things** — *death, extreme judgment, eternal life, infernal pain* — as Sirach urges (Sir 7): *In all thy negotiations, remember thy last end, and thou shalt never sin.*
+
+    - *In recalling death, four things are to be considered*: (i) the *certitude* of death (Ps 89:48; Heb 9:27); (ii) the *uncertainty of its time*, kind, and our own constitution — we know not on what day, hour, or moment, nor in what place, we shall be seized (Prov 27:1); (iii) the *danger* — *if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be* (Eccl 11:3); (iv) the *leaving-behind of riches, honors, pleasures* and all worldly goods, which if I ponder as things to be relinquished at death, I shall not be offended when I see the impious rich, nor covet their honors and delights.
+
+    - *The memory of the extreme judgment is fivefold and to be dreaded*: (i) the *citation to judgment* by the sound of the trumpet (1 Cor 15:52; 1 Thess 4:16); (ii) the *strict examination* of all thoughts, words, and works of the heart, even *for every idle word* (Matt 12:36) and every doubtful thing, every stewardship of goods; (iii) the *Judge* — Christ Jesus, judge of quick and dead (John 5:22; Acts 10:42), supreme (Matt 25:32), strong and almighty (Ps 45:3–4), inflexible (Acts 10:42; James 1:17), omniscient (Heb 4:13), just (Rom 2:5–11), angry (Ps 76:3); (iv) the *accusers and witnesses* — a multitude will come forth: conscience (Rom 2:15), fellow-sinners (Wisd 5:3–8), doctors and teachers (Heb 13:17; John 12:48), just and holy men (Wisd 4:16), the devil (Rev 12:10), all creatures (Rom 8:19–22); (v) the *definitive sentence upon the impious*: *depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels* — a sentence which comprehends everlasting separation from God, from the holy angels, from all the elect — *everlasting malediction*, *everlasting fire*, *everlasting, sad, and horrid cohabitation with devils*, and *irrevocable committal to infernal pains*.
+
+    - *In the contemplation of eternal life* is represented: the insatiable *vision of the divine Majesty* (Matt 5:8; Job 19:26; 1 Cor 13:12; 1 John 3:2); the ineffable *condition of eternal life* (1 Cor 2:9; Ps 16:11); the *continual glorification of God* (Rev 4:8, 7:11 f.); the *soul's adornment* — intellect elevated in wisdom (1 Cor 2:9–10), will in sanctity (Matt 5:8), affections conformed to the will of God (Eph 5:17); the *body's clarity*, conformed to Christ's body (Phil 3:21) and to the angels (Matt 22:30; Luke 20:36), in clarity (Wisd 3:7; Dan 12:3; Matt 13:43), swiftness (1 Thess 4:17), strength (1 Cor 15:44), invisibility (Luke 24:31), immortality (1 Cor 15:52–53; Rev 21:4), power for penetration, restored vigor of powers (Isa 40:31), perfection of nature not subject to reparation by food or drink (Isa 49:10; Rev 7:16); the *pleasant fellowship and converse with Christ* (John 12:26; John 14:3; 1 Thess 4:17), with the holy angels (Heb 12:22), and with all the elect (Matt 8:11; Luke 13:28; Heb 12:23).
+
+    - *In pondering infernal pain*, terror will strike us: *everlasting separation* from God, from angels, from the elect (Matt 7:23; Matt 13:41–42; Matt 25:41; Luke 13:27–28; Luke 17:34–36); *horrid fellowship with the very devils themselves* (Matt 25:41); *extreme* pain (Job 6:15), *continual* (Rev 20:10), *infinite* (Rev 14:11; 19:3), of torture and torment; *extreme darkness* (Matt 8:12; 13:42; 22:13; 24:51; 25:30; Luke 13:28); *inextinguishable fire* (Isa 66:24; Mark 9:44; Matt 13:42, 25:41); *unsupportable thirst* (Zech 14:6; Matt 8:12; Luke 16:24); *vapor and sulphurous stench* (Isa 34:9–10; Rev 14:10, 19:19, 20:14, 21:8); *gnawing conscience* (Isa 66:24); the *sense of divine wrath* (Wisd 12:10; Matt 3:7; John 3:36; 1 Thess 1:10; Rev 6:16–17); *perpetual death* (Ps 49:14; Rev 2:11, 20:6, 20:14, 21:8); *hunger and thirst* (Isa 65:13; Rev 18:8; Luke 16:24).
+
+**5. Strict moderation of thoughts, words, members, and the whole body.** Our thoughts are either good, evil, or indifferent. *Good* — those to be tenaciously held to, praying God that he render us fit to think anything good (2 Cor 3:5) and that he make us both will and do (Phil 2:13). *Evil* — as soon as they arise, to be strangled and inhibited, lest they provoke delight; delight, consent; consent, act; act, custom; custom, habit; and habit, a seared conscience. *Indifferent* — pleasing to God if directed to a good end according to God's Word, in due place and time; otherwise displeasing.
+
+*In speech*, that no man offend and that no man's tongue destroy him, one must set a guard over the mouth (Sir 22:33) — that speech be silent, when it is not provoked to colloquy, when office nor station requires it. *He is wise who is discovered in silence, when opportunity would offer speech; and he is silent because he has nothing to answer* (Sir 20). *A silent tongue is a token of a wise soul* (Sir 22:33). But when necessity of speaking is laid on us, then before speech we must first weigh (a) *the truth* of what we say — for lying is condemned (Prov 12:22); (b) the *right time* and (c) the *usefulness* of what is said, in due measure — lest it obscure the good things spoken.
+
+*Concerning the members* — one is to guard them from every evil and appearance of evil (1 Thess 5:22). Paul calls this a *crucifying of the flesh with its affections and lusts* (Gal 5:24), a *crucifying of the old man*, an *abolition of the body of sin* (Rom 6:6), a *mortification of the deeds of the flesh through the Spirit* (Rom 8:13), a *putting to death of the members which are upon the earth* (Col 3:5), a *putting off of the old man and putting on of the new* (Eph 4:22 ff.; Col 3:9–10). To which end contribute much: sobriety and moderation of food and drink, so that the body may not be poured out to luxury.
+
+**Truly, none but with a good conscience is loosed** — which, if we would fully consider, would abominate falling. *Look upward*: man deserts God, and exposes himself to the devil's power. *Look downward*: horrible it is that a man should so forget himself as to send God's messenger away — that same God who created him from the mud, restored him by his Word, freed him from every evil, gave him life through the entire span of his days (Gen 48; Ps 27:15). *Look about*: he pours out all creatures for himself, and makes all the members of the human body witnesses of his kindnesses. Look horrible! that a man should destroy God so malignantly, when he alone is the supreme and immense good. Whence *sin* — which separates from God — is called *the greatest evil*. Look forward: sin is unworthy of a Christian (Phil 1:27), and beyond the reign of heaven.
+
+Set before thee the example of Joseph (Gen 39): *conscience-taught*, he despised his mistress's foul demand, cared not for prison or ill fame. Set before thee Susanna, who preferred to perish innocently than to sin against her conscience by adultery (Hist. Susanna 22–23). Set before thee the Apostles, who went forth from the Council of the Priests rejoicing that they were counted worthy to suffer disgrace for his name — nor could they be bent by threats or scourging to obey men more than God (Acts 5:41).
+
+### Quaestio II. Whether Reputation Can Sometimes Take Priority Over Conscience
+
+There are twin things: **conscience** and **reputation**. *Conscience is necessary to thyself; reputation is necessary to thy neighbor: whoso trusts to his own conscience but neglects his reputation is cruel* (Augustine, *Ad fratres in eremo*, sermon 32). Reputation must be preserved on account of ourselves most wisely; on account of others most mercifully. Augustine again (*Sermon 46, de diversis*): *They are not to be heard, whether men or women, who when they are rebuked in some negligence, lest they come into evil suspicion (whence they know their life is far removed), say that before God their conscience suffices, and yet contemptuously — indeed cruelly — despise the estimation of men. They slay the souls of others, either of the blasphemers of the way of God, who by suspicion (as if base) suspect the chaste and pleasing life of the saints, or even of those who imitate what they do not see but what they think.* Therefore *whoever guards his life against the outrages of profligacies and crimes does well by himself; whoever also his good name is merciful to others. Our life is necessary to us, our reputation to others.* Augustine, *De bono viduitatis* c. 11: *They are not to be heard.*
+
+**Yet reputation is never to be redeemed at the cost of a good conscience.** The *order of charity* must be observed — as to the person to be loved, and as to the thing which is loved or desired in her.
+
+*Concerning the person*, four things are to be loved out of charity:
+- *First*, God, who is above us — to be loved above all things, with all the heart, soul, and strength (Deut 6:5; Matt 22:37; Rom 13:9).
+- *Second*, ourselves — *for who is evil to himself, to whom shall he be good?* (Sir 14:5).
+- *Third*, our neighbor, who is beside us — *Thou shalt love thy neighbor as thyself* (Lev 19:18; Matt 22:39).
+- *Fourth*, the body of man, which is below us (Augustine, *De doctrina Christiana* i, c. 16–17; Biel, *Sent.* iii, dist. 28).
+
+*Concerning the thing*, there are three kinds of goods that we can either desire for ourselves or for others:
+- **Spiritual goods** — faith, the grace of God, good conscience, etc. — for the soul is more worthy than the body, and by natural dignity claims to itself the first solicitude (Bernard, *De adventu*, sermon 6).
+- **Bodily goods** — life, health (Sir 30:15–16).
+- **External goods** — reputation, honor, riches (Sir 41:15; Eccles 30:16). *This is the banner of the order of charity* (Cant 2:4).
+
+Joining the order of charity with respect to person and to thing, each man should:
+1. Love God;
+2. Love himself in spiritual goods;
+3. Love his neighbor in spiritual goods;
+4. Love himself in bodily goods;
+5. Love his neighbor in bodily goods;
+6. Love himself and then his neighbor in external goods.
+
+**The good of an inferior order is not to be redeemed by the loss of a good of a higher order, nor is the higher to yield to the lower.** *Conscience is much more to be attended to than reputation* (Publius Syrus). *Sometimes the multitude, that fickle and evil interpreter of good deeds, roars against a good man — if anything follows, it is not one's own conscience, which is also delighted by such things: which one exhibits, and against the rumor of reputation carries away the trophy — if it looks at the majesty of virtue in place of counting suffrages, one sentence conquers* (Seneca, *De vita beata* 6). *Whoever wills to publish his virtue, labors not for virtue but for glory. Do not will to be just beyond that thou art just; nay, however famous, be inwardly just. Now if thou art just, thou fearest not to praise God.* Then whoever, neglecting conscience, is willing at the risk of eternal condemnation to bring rumor to safety, is unworthy of a Christian (Phil 1:27) and out of the kingdom of heaven.
+
+The example of Joseph is prime (Gen 39:7 ff.): conscience-taught, he cared nothing for prison or infamy but held his mistress's foul demand for nothing. Susanna preferred to die innocently rather than to commit adultery against her conscience (Susanna 22–23). The Apostles rejoiced when they went out of the Council of Priests, for they were counted worthy to be dishonored for his name — nor could they be bent by threats or lashings to obey men more than God (Acts 5:41).
+
+**End of Liber I.**
 
 — ❦ —
 
