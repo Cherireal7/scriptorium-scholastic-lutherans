@@ -127,7 +127,8 @@ Target ~2,500–3,000 OCR lines per tranche → **~25 body tranches** plus 1 fro
 | T3 ✓ | Liber I Cap. XII–XVI + Steuber Additamentum (skip pp. 54–64 duplicate) | 3086–4510 | 65–86 |
 | T4 ✓ | Liber II Cap. I (skip pp. 87–98 duplicate) | 5308–7060 | 99–125 |
 | T5 ✓ | Liber II Cap. II–III (essence + persons + Trinity + Christology + Spirit + attributes) | 7061–8819 | 125–154 |
-| T6–T11 | rest of Liber II — 6 chunks × ~3400 lines | 8820–29353 | 155–471 |
+| T6 ✓ | Liber II Cap. IV–V (opera Dei externa + religio-cultus-internus) | 8820–11159 | 155–192 |
+| T7–T11 | rest of Liber II — 5 chunks × ~3650 lines | 11160–29353 | 192–471 |
 | T12–T17 | Liber III (celestial spirits) — 6 chunks × ~3000 lines | 29354–47119 | 472–740 |
 | T18–T25 | Liber IV (human affairs) — 8 chunks × ~2750 lines | 47120–69119 | 741–1109 |
 | — | Back-matter indexes (deferred — regenerable) | 69121–75365 | 1110–1190 |

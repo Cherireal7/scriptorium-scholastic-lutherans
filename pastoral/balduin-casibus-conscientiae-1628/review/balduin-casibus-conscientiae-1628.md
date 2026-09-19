@@ -1457,6 +1457,419 @@ But what if *the children themselves*, on account of the offenses of their evil 
 
 — ❦ —
 
+## Chapter IV. On Cases of Conscience Concerning the External Works of God
+
+*De casibus conscientiae circa opera Dei externa.*
+
+The works of God are either *within his very essence*, or *outside* — the internal works are also called *ad-intra proceedings*. Hence the other division is into *internal* and *external* works. *Internal works* distinguish the persons of the Holy Trinity, and are called by the Scholastics *personal* — of the Father, *to beget the Son*; of the Son, *to be begotten*; of the Holy Spirit, *to proceed from the Father and the Son*. These personal properties distinguish the persons from one another really. *External works* are common to all three persons and consist in the *creation, sustenance, government* of things; in *predestination, redemption*, and *sanctification* of men, and things similar. Hence the rule: *the works of the Trinity outward are undivided.*
+
+Internal works we leave to the schools of controversy; concerning external works there are certain practical questions, of which conscience seeks to be established, which we shall see in order.
+
+### Case I. Is it sufficiently safe to ask what God did before he created heaven and earth
+
+Socrates (*Historia Tripartita* i, on the works of the Devil) reports a certain frivolous man who, in questions of this kind, was told that God had built hell, in which such curious minds might pay the penalty for their curiosity. And Basil is our own — that in the creation of the world we ought to coerce our thoughts, and by humble spirit not seek to inquire beyond what Scripture teaches on this matter. So also Sirach warns (3:22, 24): *Seek not out things that are too hard for thee, neither search the things that are above thy strength. But what is commanded thee, think thereupon with reverence, for it is not needful for thee to see with thine eyes the things that are in secret.*
+
+If any *curious head* should demand: *what did God do before he made heaven and earth?* — or *did anything come into his mind to make, when he had never made anything?* And if a *jesting head* (to whom Augustine likens) should reply: *Truly, God was preparing hell for those who ask idle questions* — Augustine himself repudiates this jest. *This I do not answer* (he says); *I would rather answer, what I do not know, than what would make him mocked, who asked a difficult question, and by which one giving a false answer would be praised. But I say: OUR God, Creator of every creature. And if by the name of heaven and earth all creatures are understood, boldly I say: before God made heaven and earth, HE MADE NOTHING* (*Confessions* xi, c. 12).
+
+With this presupposition, nothing in Scripture forbids us to inquire; nor was God idle before the creation, since Scripture does not conceal what he did from eternity, if we consider well: *namely he decreed the goods of the faithful and the punishments of the unfaithful from eternity*. So the Son from eternity he begat, from eternity the Son was begotten, from eternity the Holy Spirit proceeds from the Father and the Son, but this internally by an eternal act — and hence he wills that on the seventh day he ceased from all his works (not from any weariness of powers, nor from any total cessation of act, but from *this new sort of work by which he had created things new* — since even in his very rest he speaks his own work, *which the Father hitherto works, and I work* — John 5:17); *the Word of the Lord established the heavens, and by the Spirit of his mouth all the host of them* (Ps 33:6). And *there are certain things which are attributed to God, as when it is said, God rested on the seventh day* (Gen 2:2) — where God is said neither to have needed rest, nor to have any moment yet in the contemplation of his works, so that in this way many things may be attributed to God.
+
+### Case II. Is it truly to be believed that God brought forth all species of things at the first six days, and not before
+
+**Respondeo.** *Augustine* wrestled with this doubt when, *fixing that God created all things simultaneously* — as *if the omnipotent Creator of all things* — is said to have first created the *seeds* or *seminal reasons* of all things: he cites this from Ecclesiasticus (18:1): *He that liveth for ever created all things at once* (see Ambrose in *Hexaemeron*).
+
+Certain animals whose growth follows from certain plants have been produced in the six first days — not because vintage-yield had preceded, nor because plants grew in one day, nor because bees had already made honey. And generally, all things which do not have a *seminal principle*: neither are they from seeds, but by the concurrence of other natural causes as by accident, and thus are said to be in their principles created (see the philosophy of Francis Vallesius, i, c. 2, p. 27).
+
+Today God still operates when he preserves and governs those species in their individuals. Which is expressly attested by Scripture (Jer 12:9): *One Lord, the whole all of Sabbaths — nothing without him*; *whence Jehovah Guardian of Israel does not sleep nor slumber* (Ps 121:4). And Christ himself says the Father works still, whose operation cannot be understood except as the sustenance of nature and the extension of divine action: *my Father worketh hitherto, and I work* (John 5:17). Hence the sixth doctrine of *the work of God ad extra* has been rightly framed: *whatever God ad extra does, he does through the Word, and the Word through the Holy Spirit*.
+
+**We conclude therefore that at the first six days of creation, God made all species of things at once** — but he still operates today in preserving and governing individuals through their species.
+
+### Case III. Whence sin, if God is the author of all things created good
+
+**Respondeo.** The Manichees of old imagined two Gods: *good*, from whom every good in the world came; *evil*, from whom every evil.
+
+Others held that *our flesh is evil*, and the cause of evil; others that of both good and evil compounded, and that then a man sins when he *conforms nature to Deus* — whom Augustine refutes (*De ecclesiae dogmatibus* c. 60 and *Ad Simplicium* i, q. 6).
+
+Also the *Calvinists* have introduced God as the author of the origin of sin. For Calvin himself (*Institutes* i, c. 18) *strongly attributes original sin to the will and providence of God, so that not only did the Fall happen, but God willed and moved the will of Adam to fall*; and elsewhere (*Institutes* iii, c. 23) he speaks of *the ruin of the impious* saying: *If God rules over all, of which he did not first know, nothing can turn out except by his will — even the same sin is not preserved to be against his will.*
+
+Against these assertions it is to be held that *sin is in no way from God, neither by his willing, nor by his approving, nor by his operating, nor by his aiding, nor by his silent instigation of the minds and wills of men*. For the divine is *nature not willing iniquity* (Ps 5:5, Sir 15:11). And with respect to the *work of creation*, Scripture longissime removes it: *God saw everything that he had made, and behold, it was very good* (Gen 1:31). *God made man upright* (Eccl 7:29); *God commanded no man to act impiously, and to no man gave he the spirit of sinning; he desires not a multitude of unfaithful children*, etc. (Sir 15:12, 20).
+
+But **whence then is sin, in this good creation of God? The Scripture has taught in many places** — and especially in the fall of first parents, having shown that: through the devil's proposition and persuasion of evil, or by man's own inclination toward evil. For the first man was created with *free will* — that is, *with the power of sinning and of not sinning* — and when he was inclined to obey by the deception of the devil, having fallen from God, he lost the liberty of doing good, and made nature-prone-to-sin in his posterity, whence man is *born a sinner*, as it is written (Gen 6:5, 8:21): *every imagination of the thoughts of man's heart is only evil continually*, and *by one man sin entered into the world, and by sin death* (Rom 5:12).
+
+*Four modes of the Devil's tempting*: (1) *internally*, by inflaming lust; (2) *by object*, by proposing the object; (3) *occasionally*, by giving occasion; (4) *impulsively*, by persuading and moving the mind toward evil.
+
+Then the *devil and man's malice* alone are the causes of sin, of which nothing is attributed to God — for *sin is not a substance, but a defect and departure from the good creation of God, brought in by the devil*.
+
+### Case IV. Why did not God impede the fall of the first-formed man, seeing he could have created him so that he *could not sin*
+
+**Respondeo.** *Vain is this scrutiny.* For, however we regard the matter, God most-just did well when he did not impede the fall of man — although not in the mode which appears to us. He gave to the first-formed the law he desired to be observed, and appointed the object, and neither by any necessity was he to sin.
+
+Then, when he made man in his own image in original justice, he bestowed on him full powers for the performing of every office to God — namely, an intellect fully knowing the mind of the law, and a will fully able to obey; and he added the threats of most grave punishments by which to draw the will of man, prone toward evil, back. Whence Sirach says of man before the fall (15:14): *He added his commandments and precepts. If thou wilt observe the commandments, they shall preserve thee.*
+
+These impediments in the created righteousness were far more strong to draw back the will from sin than any external violence would have been. For nothing more could have averted a free creature from sinning than perceiving that God, whom he was to obey, would be *incorruptibly severe*.
+
+But why then did God not so constitute man that he *could not* sin — since God created him a rational nature? Because — as Augustine says (*De correptione et gratia* c. 11) — *Adam yielded, when to Adam who could act well as he willed, it was not conferred to be able to persist by liberty of his own will*.
+
+But three reasons can be given why God did not create man such that he *could not* sin:
+
+**1.** God *never determines to make man such that he cannot sin*, since he wills that he act in freedom — not necessarily. *He appointed the law, in whose transgression, however light, at once God's judgment is announced.*
+
+**2.** *Because he could not justly punish a sin except one committed with will*: for a will that sins is what is punished — a reasoning Augustine gives (*De Genesi ad literam* xi, c. 7). But God threatened punishment: therefore the law he gave was such that man was to be by nature able to sin, so that he could deserve *any punishment for it*.
+
+**3.** *Because this very condition tends to the greater glory of man* — for as *voluntary action is more agreeable and more honorable than compelled* by nature, so *spontaneous obedience of a creature is more pleasing to God, and more glorious to man, than one bent by violence.* Therefore Augustine well says: *Just to render obedience is spontaneous, if you are made by nature, so that you cannot transgress.*
+
+Let us spare ourselves therefore in such thoughts, and not draw our Creator into judgment or seek to have him accountable to us. For the wisdom of God our Creator is far greater than that it should be either investigated by us or called into doubt by us.
+
+### Case V. When the works of God relate to Providence, is it to be believed that God's providence extends to *all things*
+
+**Respondeo.** Most certain it is, and every pious man's faith undoubted, that God is universal *arbiter of all things* — not only those which are, but which he begot in the world by his providence. Impossible it is that God should abandon his work. Whence Chrysostom (Homily 19 on Ephesians): *A ship, however firm and instructed, cannot stand without a helmsman; the world without the government of God is that neither one house nor state can stand without governance — so much less could the world*.
+
+To this pertains: *God makes an even path* (Ps 66:7); *he inspects the world* and all who are under heaven (Job 28:24, 34:21); *and by counsel and providence he governs all things* (Wisd 8:1, Sir 24:8).
+
+And though no pious man doubts the universal providence of things, there are yet some who call it in doubt in whole or in part, and by this reasoning render simple souls dubious.
+
+**Cicero** thought it *ridiculous* to attribute care of human affairs to God, whatever is highest, since it is polluted with sad and multiplex ministry (*De natura deorum* i, c. 7). But neither is God ministered to nor contaminated by his providence — nay, is human ordinances just — as neither is his presence, since without any affection and mutation of himself he knows and provides for all: *No task is difficult to God*, says Nazianzen.
+
+Others object to *perverse and disturbed order of things* — which they perceive in the world, and where the wicked are honored, but of these see later in Book II Cap. VI Casus 3.
+
+Then there are those who indeed do not remove all divine providence but negate it in part. **Some think God cares only for celestial things but exclude sublunary things from his providence** — against whom Augustine (on Ps 148) elegantly rebuts: *The land of a storm is troubled by the accidents of every case; and yet in the Psalm hail, fire, snow, mountains, tempests obey the Word of God* — from which he concludes that the order of these things is also subject to divine order.
+
+**Others exempt certain sublunary matters from Divine providence, as those minute and pestiferous little animals — worms, gnats, fleas, flies, worms of the sea, and multitudes of fish, mites, midges, insects.** So *Jerome* takes those things from providence (*Commentary on Habakkuk* i). To these are opposed: *flies and lice in Egypt, which without God's providence were not produced* (Exod 8:18); *the quality of ants, worms and bees* (Sir 11:3, Prov 6:6–8, 30:24–28). If any of these should be foreign to God, then it would not be foreign for him to have care of them (Job 39:36, Deut 32:11).
+
+**Others** — while conceding that God knows the number of the very smallest things — deny that he ordained them, so that certain things happen by chance. Among them is Aristotle (i.13 on *Physics* c. 4) and Averroes.
+
+But Scripture testifies that *God has disposed all things in number* (Wisd 11:21) and that even *the hairs of our head are numbered* (Matt 10:30). Hence Sirach (39:26): *Whatever is under heaven flees not God, but through him is providence; nothing at all escapes his notice — Jehovah both weighs, and imposes on it habitude, number, and quantity, and always accepts it.*
+
+So then of the providence of God is to be thought and spoken, that we neither restrict nor exempt any actions from him. For as much as here is detracted from the providence of God, so much departs from his majesty. But how it is particularly occupied with individuals is not the place here to explain, since I have said it at sufficient length in the *Disputation on Providence*, thesis 76.
+
+### Case VI. To the same end pertains the question, whence one can be certain that no other should be regarded as the promised redeemer, than Jesus of Nazareth
+
+**Respondeo.** Many things there are which can render this faith doubtful — especially the base condition of Jesus of Nazareth in the world; his very tenuous person, the abject servant-form; whereas that work — than which nothing more excellent is in the world — required a person far more excellent.
+
+But **fundamentals of most solid doctrine can be brought forth**, which convince that no other Redeemer is to be looked for:
+
+**1.** First to be borne in mind for us always are the words of the angel who spoke this very counsel to Mary before the birth of the Savior: *thou shalt call his name Jesus, for he shall save his people from their sins* (Matt 1:21). Then again the angel repeated in the night of the nativity, saying to the Shepherds: *Unto you is born this day a Saviour, which is Christ the Lord* (Luke 2:11).
+
+**2.** Then memorable is the sentence of *the Patriarch Jacob* (Gen 49:10): *the sceptre shall not depart from Judah, until Shiloh come; and unto him shall the gathering of the people be.* By *Shiloh* is meant *Jesus of Nazareth*, of whom the angel to Mary said: *he shall be great* (Luke 1:32; cf. Zech 9:9): *thy king cometh unto thee: he is just, and having salvation.* Jesus to himself has applied this (John 12:15).
+
+**3.** *A shepherd rescuing sheep from wolves' jaws — whence Ecclesiasticus 18* it is said: *the shepherd redeemed the sheep, etc.* Daniel 9:14 promises Christ, in whose time sin should be taken away, and inequities blotted out, and everlasting righteousness brought in (Dan 9:24). *Have mercy upon me, O Lord, and save me in the Lord thy God — that is, in Jesus of Nazareth*, of whom the angel to Mary said: *thou shalt call his name Jesus* (Luke 1:31; Zech 9:9); *for he shall save his people from their sins* (Matt 1:21).
+
+**4.** *These also are added other testimonies of the New Testament*: as *Christ was born and appeared* (Luke 19:10, where he speaks of himself: *the Son of Man came to seek and to save that which was lost*; 1 Tim 1:15) — which Peter testifies: *by the precious blood of Christ the Son of God we are redeemed from our sins* (1 Pet 1:18–19; 1 John 1:7).
+
+**By these and similar things — of which Scripture is full — the conscience can be confirmed, that we need not seek any other Redeemer than Jesus, Mary's Son, for our redemption and salvation.**
+
+Nor does the abject condition of his coming into the world hinder — for our salvation is not to be estimated according to our judgments, but according to the counsel of God. When by such contempt of men his coming was rendered great in the face of God, in whom he was well-pleased (Matt 3:17; 17:5), we too are pleased, and by this we approach God through him (Eph 3:12).
+
+For Christ has a double **ornament**, which the eyes of the faithful only can behold: one is *natural* — the sanctity of his innocence itself, for he is *separated from sinners* (Heb 7:26; Isa 53:9). The other is *personal* — because his human nature, assumed into the person of the Son of God, becomes part of the most sacred Trinity, is filled with every majesty, glory, and power of the DEITY, so that *he is even adored by angels* (Heb 1:6), and *is the fairest among the sons of men* (Ps 45:2).
+
+Whom therefore the *vileness* of his condition shows, this his very ornament also demonstrates.
+
+### Case VII. But how can we be profited by another's redemption — since God commands: *whoever has sinned, the same shall die*
+
+**Respondeo.** By this objection the Photinians shake tender consciences. But first of all it must be firmly held that *the work of our redemption depends on the arbitration of God*, to whom we ought not to prescribe by what mode he wills to procure it, or ought. Nor may we owe it to Christ (Eph 1); if therefore it has pleased Him, we can be redeemed by another's satisfaction: who art thou, that repliest to God — why do you not gratefully receive this mercy of God by simple faith?
+
+Openly, however, Scripture testifies that we are redeemed by another's price. Just as Paul writes (Rom 5:19): *For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.*
+
+**2.** We are redeemed by the price of Christ; for he himself says: *He solved what he had not seized* (Ps 69:4); *he gave his life for us* (Matt 20:28); *the Father gave the Son for us* (John 3:16); *the Son delivered himself for us* (Eph 5:2). Christ *died for all* (2 Cor 5:15), and *the blood of Christ cleanses us from sins* (1 John 1:7); and *the blood of Christ, who through the eternal Spirit offered himself without spot to God, cleanses our conscience from dead works* (Heb 9:14). Peter also expressly writes: *we are redeemed with the precious blood of Christ* (1 Pet 1:19).
+
+Ezekiel's words should not be opposed to this — for it cannot happen that the Holy Spirit contradict himself. **Ezekiel's words** treat of the law which God gave men not for himself, but for human courts: God so wills that this be observed, that the father shall not be plagued for the son, nor the son for the father, nor any innocent person for another — but each shall receive according to his own works, as it is written: *the fathers shall not die for the children, nor the children for the fathers, but each shall die for his own sin* (Deut 24:16); on which account *Amaziah the king of Judah*, when he demanded punishment from his servants who had killed his father, spared their sons (2 Kgs 14:6).
+
+But to this law God did not bind himself. Therefore in the counsel of punishing men's sins, for his supreme mercy, in order to spare the servant, he *did not spare his Son*. In which kind of the counsel of redeeming, it is simply the will of him who counsels — which we must admire with grateful minds, not scrupulously dispute.
+
+**Third — a distinction is to be made here between law and gospel.** If God had wished to act with us according to law, no one would be saved: to the gospel pertains our redemption, where the *epikeia* of God finds place — who, in order to bestow mercy on us and free us from sins, offered up justice in his Son, upon whom he laid the sins of all of us, together with *the chastisement of our peace* (Isa 53:5). This is what Paul says (2 Cor 5:21): *For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.*
+
+This is that admirable tempering of law and gospel, justice and mercy, which exceeds every intellect of ours — but in the work of our redemption easily removes difficulty for the faithful.
+
+### Case VIII. But the soul is not yet satisfied and searches: how could God accept the blood of the human man Christ for the price of our redemption, when he elsewhere forbade the shedding of human blood
+
+**Respondeo.** This scrutiny made *Peter Vallardus* a heretic, who would not believe that human blood could restore life to the world (as in Bernard *Epistle* 130 to Innocent). Better therefore would it be to marvel at this counsel of God than to scrutinize it, and to have faith in those Scriptures which testify to this expressly.
+
+**Great is here the cloud of witnesses** — like what the Patriarch Jacob predicted of the Messiah (Gen 49:11): *he shall wash his garments in wine, and his clothes in the blood of grapes* — that he is said to be *wounded for our transgressions* (Isa 53:5); that *the winepress he trod alone, and his vestment was sprinkled with blood* (Isa 63:3).
+
+In the New Testament it is clearer still, when the Apostles write: *whom God hath set forth to be a propitiation through faith in his blood* (Rom 3:25); *being now justified by his blood* (Rom 5:9); *the blood of Jesus his Son cleanseth us from all sin* (1 John 1:7); *the blood of Christ cleanses conscience from dead works* (Heb 9:14). And in general: *without shedding of blood there is no remission* (Heb 9:22).
+
+If these such clear testimonies of Scripture do not yet satisfy, let one further consider four reasons:
+
+**1.** *First is the will of God*, whose counsel of our redemption depended on his most gracious pleasure, since (as Bernard says) *rather he willed by blood than by word*, so that the more he would show us his love, and by his blood he might have his own united with him.
+
+**2.** *The other is the truth of divine justice*. To the first man from the forbidden tree it was threatened *thou shalt die* (Gen 2:17), which death our first parents by the transgression of the mandate deserved. Since therefore the Son of God freely undertook the malediction of the law upon himself, and for that cause was to satisfy the law for us in place of the man-mother, therefore he was to die and his blood to be shed.
+
+**3.** *The third is the end of his incarnation.* The Son of Man came, that he might take away our sins, and destroy the works of the devil (1 John 3:8); and this had to be done by suffering and dying (Heb 2:14). Thus he willed to give himself for us, so that he assumed for us not shed blood in things which for others were forbidden. That which concerns the *shedding of blood* of one — *when magistrates shed the blood of a murderer, they do a thing acceptable to God, because they act according to God's will* (Gen 9:6) — much more grateful to the eternal Father is the shedding of the blood of his beloved Son; whom he *willed, decreed, counseled* — for our sins to be poured out.
+
+### Case IX. Does the Holy Spirit sanctify infants of Christians in the mothers' womb, before they are born
+
+**Respondeo.** By this question the *Calvinist* spirit troubles consciences. For since they enervate the efficacy of baptism (in which they say no one is regenerated, but they hold regeneration to depend from elsewhere), they attribute to the infants of holy parents a natural sanctity in which they are born by force of divine promise: *I will be their God and their seed's*.
+
+Therefore *Beza* (*Ep.* 22 to *Responder-fool sacred sordid error* — he calls the beginning of our salvation *from baptism* — Part 2, *Reg. ad Anatolic coll.* p. 133) writes many things; especially: *he confesses the first step to salvation to be, that in the Church, children are born of pious parents, but not that they are baptized.* Where among others he writes thus: *We concede that faith intervenes, that we should please God through the Covenant — infants indeed; but we deny that they are endowed with the *right* by which we adults are, since we cannot lead this faith on our own; nay, indeed, the *eternal life* is bound to those in the Covenant, from birth from pious parents, and if it could have been, it was to be sealed in them by baptism afterward.*
+
+So Calvin (*Instit.* iv, c. 15, s. 20): *Our infants before they are born God pronounces to be adopted into his own; when he promises to us that he will be our God, and to our seed after us: in this word their salvation is contained. This promise suffices, etc.* *Zanchius* (in *Confessio* p. 163): *the children of the faithful are therefore preserved, because they are in the covenant of God and holy; but adults, because they believe truly in Christ.*
+
+**Whence some Fathers of the Church call the infants Christians before baptism, because they are born of Christians** (see the 11th chapter of Rom., dub. 12; earlier 1 Cor 7:14).
+
+From all these follows that the *infants of Christians before baptism have faith*, please God, are holy sons of God and heirs of eternal life — since no one is in the covenant of God who is not the Son of God, who does not have faith, who does not please God — all which, since they are the works of the Holy Spirit, follows that infants of this kind are *filled with the Holy Spirit before baptism*.
+
+**But if these things are true, it is necessary that baptism is conferred on them in vain**, especially since *Calvin* expressly writes that the promise of the covenant suffices for them; whence he denies that *baptism is absolutely necessary for salvation* (Beza *Resp. 2 ad Anatol. Colloquy* p. 158).
+
+**Which doctrine is far most pernicious**, introducing contempt of the sacraments and manifestly contradicting the Holy Spirit. For Scripture doctors: *that which is born of the flesh is flesh* (John 3:6); that *we are all by nature children of wrath* (Eph 2:3); *that unless one is born again of water and the Spirit, he cannot enter the kingdom of God* (John 3:5); *for as many as received him, to them gave he power to become the sons of God, which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God* (John 1:12–13).
+
+Not to natural birth but to *baptism* is ascribed the sanctification and regeneration of man, on which account it is called *the laver of regeneration* (Titus 3:5). And Christ himself is said *to cleanse the Church by the washing of water by the word* (Eph 5:26). Whence Tertullian rightly said (*Apol.* c. 16): *Christians are not born, but made.* *Baptism is the workshop of Christians* — *regeneration, not generation, makes Christians*, as Augustine speaks (*De peccat. merit. et remissione* i, c. 9). In baptism, then, in the ordinary way, the infants of Christians are filled with the Holy Spirit, who does not enter a malignant soul (as is in all not yet regenerate, whom Paul calls *sons of wrath*), with whom the Spirit of grace can have no commerce.
+
+Which truth is so clear that it *pierced even the eyes of Rodolphus Gualtherus* (Calvinist), who in Homily 3 on Acts writes: *why should carnal generation contribute to salvation, since it is polluted by the corruption of nature we have from our first parent, or by hereditary right transfused into us? Certainly of that David spoke (Ps 51:5): behold, in iniquity was I fashioned, and in sins did my mother conceive me. Sinners therefore are born, and not sons of adoption, before they are consecrated to Christ and the heavenly Kingdom.* And *Tertullian* also rightly said: *Christians are not born but made.*
+
+**But since in the promise it is said** *I will be their God and their seed's*, it is not to be understood absolutely, but with a *determination of faith*, promising to Christians in the interpretation of the Apostle (Gal 3:7): *they who are of faith are sons of Abraham* (Rom 9:6): *for they are not all Israel, which are of Israel; neither, because they are the seed of Abraham, are they all children: but, in Isaac shall thy seed be called* (v. 7).
+
+Since therefore this way the mind is confirmed regarding plurality in God, and the plurality is precisely three, not more or fewer — the third thing is to be shown: *these three are not three gods, but three distinct persons.*
+
+To what else that the *root be holy, so are the branches* (Rom 11:16), and *the children are holy* (1 Cor 7:14) — this does not have the sense that the sons of holy parents are born the sons of faith and in the covenant of God — but *legal sanctity* is meant, because they have the right and privilege of consequently obtaining the goods of the Church, from which those born outside are alien, until through legitimate means the Lord calls them too. On which account Augustine interprets that sanctity, of which the Apostle speaks, not as sanctity of faith but as *communion of the sacraments and likeness of profession* (Ep. 108).
+
+**We conclude therefore that the Holy Spirit does not yet regenerate or sanctify the children of the most holy parents, until through baptism they are regenerated and made sons: for *whom the Spirit of God rules, they are the sons of God* (Rom 8:14).**
+
+Commended to us then by the Apostle as it were the *cup of grace comforts* — this comforts the pious parents whose infants are extinguished in the womb, or before they can be baptized, if with prayers they commend them to God, they need not doubt of their salvation: since *the lack of the sacrament, not the contempt of the sacrament, condemns*. Hence Gerson (*Ad partem cancellar.*, in the sermon on the Nativity of the Virgin Mary) writes: *God has thus bound his mercy to the sacraments of salvation, that not without the prejudice of the law he could sanctify children not yet born outside the uterus by his grace of baptism, or by the power of the Holy Spirit — and so he admonishes parents to pray for the infant not yet born, that they should not fear that all hope of salvation is taken away from those who go without baptism.*
+
+— ❦ —
+
+## Chapter V. On Cases of Conscience Concerning Religion and the Internal Cult of God
+
+*De casibus conscientiae circa religionem cultumque Dei internum.*
+
+**Religion** is taken in two modes: (1) of the *moral virtue*, which gives to God the just and due honor. (2) of a certain *state and condition of the life* of many men, who by a special mode and rule think they worship God. In the first signification here it is considered; in the second below it will have its own peculiar place.
+
+Religion, therefore, as it is a *moral virtue*, is defined by *Augustine* (*De vera religione* c. 1) — by which term the true worship of God is expressed in Scripture (1 Tim 1:6, 3:16; Titus 1:1; 1 Pet 1). Otherwise it is called *piety*; and by reason of etymology it is distinguished from theology, in that theology consists in *knowledge*, while religion or piety consists in *performance and work*. But *as to the thing itself*, religion embraces both — namely the knowledge of God or wisdom, and the performance or cult of God.
+
+For as Lactantius writes (*Institutes* iv, c. 4): *religion cannot be separated from wisdom, nor wisdom from religion: it is one and the same God, who both must be understood (which is of wisdom) and honored (which is of religion). But wisdom precedes, religion follows: because to know God is prior; to worship God is consequent.*
+
+Hence it stands that there are two heads of religion: first, the *acknowledgment of God*; the other, the *worship of God* — which Solomon conjoins (1 Chr 28:9): *Thou also, Solomon my son, acknowledge the God of thy father, and worship him with an integral heart and a willing mind.* For only he is a *servant* who does, not only who understands (Matt 7:26; Luke 12:47). *He who says, I know him, and keeps not his commandments, is a liar* (1 John 2:4).
+
+The cases which fall around the *knowledge of God* we have seen hitherto. Now the worship of God follows. Here the cult is either *true and legitimate*, which is prescribed in the Word and is properly called *religion*; or *false*, and *devised by men in the confidence of their own wits* — and this is called *superstition* (as *Lactantius* writes iv, c. 28): *this it is which separates religion from superstition — that religion is true worship, superstition false*.
+
+**True worship of God is twofold: one *internal*, the other *external*** — which are called by others two acts of religion. About each various cases can occur in conscience. Concerning the former in this chapter we treat; the latter we reserve for the following.
+
+### Case I. Above all the pious mind wishes to be certain — what is the internal worship of God, and what things are required for it, lest by omission of some part he unwittingly fall short of the true worship of God
+
+**Respondeo.** The internal worship of God has its seat in the mind of man, and is the foundation of every external reverence and honor which is exhibited to God by words, works, and gestures of man. *God looks upon the heart* (1 Sam 16:7). And the true *worshippers worship the Father in Spirit and in truth* (John 4:23).
+
+Two are the acts of internal worship: *devotion* and *submission*.
+
+**Devotion** is when a man directs all the thoughts of his heart, the desires of his will, motions and affections, to God alone — clings wholly to him, depends on him alone, and yields himself to his beckoning. Hence Scripture joins with the worship of God adherence to him: *Thou shalt fear the Lord thy God; thou shalt worship him; thou shalt cleave to him* (Deut 10:20). Elsewhere it is called the *devotion of the mind, inquisition of God, and approach to God*: *The Lord is with you while ye be with him; if ye seek him, he will be found of you* (2 Chr 15:2); *draw nigh to God, and he will draw nigh to you* (James 4:8).
+
+And this devotion is the highest joy of the pious: hence David says (Ps 73:28): *it is good for me to draw nigh to God: I have put my trust in the Lord God*; (Ps 119:31): *I have stuck unto thy testimonies: O Lord, put me not to shame*. Great utility, and divine blessing, does he confer: for *Lord*, thou art *good and forgiving, and plenteous in mercy unto all them that call upon thee* (Ps 86:5); *he will fulfill the desire of them that fear him* (Ps 145:19).
+
+This devotion of mind embraces three cardinal virtues — of **faith, hope, love**.
+
+- **Faith** is that virtue by which the pious one relies on the Word of God about a rectified reason and promise of divine help, and by which we are drawn from anxieties of the world, from infirmities of the flesh, to look up alone to celestial help. Whence Abraham, robustly by faith against hope in the truth of divine promise, in the multiplication of his seed *believed* (Rom 4:18). This is true security of the pious: for while others in adversities seek escape by other means in vain, they by consideration of God's promises, whom they know is Father and Almighty, sweetly rest. *He who believeth shall not make haste* (Isa 28:16).
+- **Hope** is expectation of divine help in time of calamities, when no help either near or far distant appears, and dangers meanwhile increase — yet by continual faith is sustained. *If God be for us, who can be against us?* (Rom 8:31). *The Lord is my light and my salvation, whom shall I fear? The Lord is the strength of my life, of whom shall I be afraid?* (Ps 27:1). *In God have I put my trust: I will not be afraid what man can do unto me* (Ps 56:11). Peculiar to hope is *to await* things not obvious to the eyes, and to bear its delay patiently. For *hope deferred maketh the heart sick* (Prov 13:12), but *hope of the Lord is enduringly firm* — as *the Lord is my hope, in him will I trust* (Ps 91:2). Scripture calls this hope *the anchor of the soul, sure and steadfast* (Heb 6:19), and *the helmet of our salvation* (1 Thess 5:8; Eph 6:17).
+- **Charity or love** is that affection of the heart by which God is preferred to all things, and for the sake of God all things are loved. For God himself is our highest good, which the pious desire, to which all things they refer, to which all thoughts they direct, that they may attain it. God demands this love from all: *Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy might* (Deut 6:5). And this love of God the Apostle judges so necessary that he writes: *If any man love not the Lord Jesus Christ, let him be Anathema Maranatha* (1 Cor 16:22). It arises from consideration of God's love toward us, whence flow innumerable benefits, which move us to love God our so bounteous benefactor. Whence John writes: *Herein is love, not that we loved God, but that he loved us* (1 John 4:10, 19). And this love: (1) makes us rest in the one God alone, and though *all things in the world are great*, we count nothing our chief good save him; (2) makes us despise the insolent tumults of enemies, placing hope in the Lord; (3) seeks communion and quasi-union with him by whatever means we can — for it is the nature of love to desire to be joined to what it loves. Whence Augustine: *the soul is not where it lives, but where it loves*. This union is made *through faith, by which Christ dwells in our hearts* (Eph 3:17); faith is kindled and preserved through the Word and Sacraments — which whoever sincerely loves God, does not neglect but seeks and loves as the one thing necessary, without which there is separation from God. (4) It makes us conform our whole life, so far as may be, to God's beckoning and will — for we do not willingly offend whom we love. Hence Christ says: *he that hath my commandments, and keepeth them, he it is that loveth me* (John 14:21). (5) It holds us in some holy desire of eternal life, with all despised which in the world were pleasing to us — for *the fashion of this world passes away* (1 Cor 7:31), and in the other life *we shall always be with the Lord* (1 Thess 4:17). Whence commonly it is said: *nothing without love of God, nothing besides love of God*.
+
+**Submission** is the other act of internal worship: by which man, comparing himself, however great in the world, to God, judges himself as *nothing and vanity* (Isa 40:15) — like Abraham (Gen 18:27): *behold, I have taken upon me to speak unto the Lord my God, who am but dust and ashes*. This submission of mind embraces four affections: *fear, hope in time of adversity, patience, gratitude*.
+
+- **Fear** is reverence of God's supreme majesty, which is ever set before the eyes of the pious man — who therefore does nothing against God's commandment, nothing against honesty even before men, since he thinks *the eyes of the Lord are on him always* (Sir 15:19). *The eyes of the Lord are in every place* (Prov 15:3; Heb 4:13). God is feared: (1) *for God himself* — because he has divine majesty and hidden veneration, which sometimes takes hold even of the impious for a moment; (2) *for the works of God magnifically declared*; (3) *for God's own paternal love*, since fatherly love arouses filial fear; (4) *for the very commandments of God*, in which he demanded fear of us of himself; (5) *for punishments*, which threaten transgressors of the law.
+- **Hope in adversities** is that same hope as in devotion, but exercised more specifically. *Cast thy burden upon the Lord, and he shall sustain thee* (Ps 55:22).
+- **Patience** is that virtue, whose voluntary submission of the soul to whatever crosses befall God's economy in this world. Even the impious and devils bear the plagues from the Lord, but not with patience — for they blaspheme God with them, and wish to be freed from them at whatever cost. Not so the pious, who bear them out of love of God and hope of eternal reward. Not from being able to escape, but from love — patience distinguishes the pious from the impious.
+- **Gratitude** arises from consideration of God's works, which are always just and holy, though not to the corrupt mind always grateful: therefore whatever God does, always let us give him thanks — *in prosperous things*, for the divine mercies which he pours out on us abundantly; *in adversities*, on account of his solid providence, we bear the cross gratefully (Ps 50:15). And because he does not despise us or expel us from his sight, but grants us his correction. Part of this gratitude is the *very oblation of ourselves* — *sacrifice to the Lord*, souls, members of body, as *sacrifices living* consecrated to his glory (Rom 12:1). To which end we exhort you, brethren, through the mercies of God, that you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
+
+By these modes, in general, our internal worship consists — which whoever neglects, is a *worshipper of God only in name*.
+
+### Case II. Do they well who abstain from sins from fear of punishment
+
+**Respondeo.** Above we said what fear of God is to be feared, where the fear of punishments was mentioned. Others do this who abstain from sins not for God but *rather for punishment than for the offense of God* — as *Pharaoh* abstained from sinning of dismissing the people at God's command, but as soon as the punishment ceased, hardened himself and would not dismiss the people. Our love should be *filial* — namely, of him who abstains from sin *because of God alone*, whose nature sin opposes, and whom to offend is judged the greatest ignominy.
+
+Nor for that reason are the punishments to be feared, which threaten transgressors of the laws divine. For as *the servant of God*, so also *the minister of God* is to be feared, *not only for wrath and vengeance* (Rom 13:4), and it is *natural to shun that which is by nature hostile*. Therefore they do not sin who fear God, lest they be punished by him.
+
+But this is not the *principal or necessary cause* of fear; for it is *servile* to fear only lest one be punished. Punishment is to be feared: *nothing evil enters into the soul of him who fears God* (Sir 39:26), and *those who fear God shun evil, and love good* (Sir 10:11). Otherwise, *the Lord is to be feared* — that is *the fear of children*, which if it be lacking, no punishment can force. Because as when *children respect their parents*, though there be no punishment threatened, and yet they experience the benevolence and beneficence — even so with much reason we ought to shun offense of God because of God alone, who wished to have this fear of children in us, whose nature sin opposes and whom to offend is judged the highest ignominy.
+
+Hence with the *filial fear preserved*, sin is even shunned for fear of punishment — just as children are averse to displeasing parents even when no punishment is threatened, and yet the benevolence and beneficence of parents they experience.
+
+### Case III. When patience is often committed to the wrath of God, is it lawful to *pray for death*, and to grieve at having been born by sin
+
+**Respondeo.** Groans and complaints in general are of two kinds. *One kind arises from consideration of sin, which threw men from his felicity into these miseries — from which no one is exempt, since all have sinned*. This kind of groan is worthy of a pious mind — it does not yet think ill of God, but in his will patiently rests, wishing at least a liberation from these miseries, and a better life promised to all the faithful: yet neither the time nor the mode of liberation it prescribes, but resigns all these to his hand with strong soul.
+
+Groans of this kind are not forbidden in our miseries; for all pious men deplore the vanity of this age, all complain of the wickedness of men, all pray for liberation from evil and a better condition, to which we were created. Whence they wish the day of retribution to come, and think death better than a body oppressed by evils, groaning, so Paul (2 Cor 5:1–2) and elsewhere:
+
+> *Blessed is the man who does not desire death*.
+
+This gemitus of the good in our miseries is *not forbidden* — for we all mourn the vanity of the present age, we all complain of the wickedness of men, we all seek liberation from evil and a better condition, to which we were created.
+
+*The other kind of gemitus*, on the contrary, is *born from impatience*, which often even in pious men from infirmity of the flesh creeps in, when they judge their sufferings alone to be the greatest of all men. *Complaint against God from impatience*, they wish they had never been born, execrate the day of their nativity, and pray for the destruction of life — not so much from desire of a better life, as from disgust of patience and impatience.
+
+Against these groans *Seneca* also writes (*Ep.* 107): *Life must be borne like the beat of a lion — vivere ac dying it acts of will as a soldier, do you not know that thou owest a certain custom to soldiery? Cold of foot lays down the winter, laziness of head brings on summer; the intemperance of the sky tests health, you must fall ill. Wild beasts meet us in the way, and man is more dangerous than all wild beasts. From one the water washes out, from the other the fire; the rule of things cannot be changed. This I can, I can take up a great soul, and worthy of a good man, whereby I strongly submit and follow nature.*
+
+To this law let our soul be prepared: let it follow, obey — and whatsoever happens, let it think ought to happen, nor let it wish to abuse nature, nor by murmuring accompany what none of us can escape, since in some or other Author all things are pre-occurring. He is an evil soldier, who groans following the Emperor.
+
+Examples of pious minds whom impatience has *extorted* — Prophets Jonah, of the sun's heat only, said *it is better for me to die than to live* (Jon 4:3); Elias, who now sought death, *let it suffice thee, take away my soul* (1 Kgs 19:4); *Jeremiah, cursed the day in which he was born* (Jer 20:14–18); *especially Job*, who impatiently often groaned that he had been so struck, of which afterward he repented: *behold*, he says, *I am vile* (Job 40:4).
+
+These groans *fight against the true worship of God*: for worshippers of God cannot be without miseries in this world; for *all who will live godly in Christ Jesus shall suffer persecution* (2 Tim 3:12). And their soul be established for suffering. As it is written: *He gave his back to the smiters, and his cheeks to them that plucked off the hair* (Isa 50:6). Patience therefore is needed *that they may do the will of God* (Heb 10:36) — nor should we shirk the yoke of Christ, knowing *the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us* (Rom 8:18).
+
+For as Augustine says (*In martial* c. 32): *My soul, if all the torments should we have to bear, if hell itself we should have to tolerate for long time, that Christ we might see in glory and to the number of saints be adjoined, would it not be worthy to suffer everything sad, that such a great good and such a glory we might be partakers of?*
+
+### Case IV. What are the strange gods and things alien from divine honor and worship
+
+**Respondeo.** The decision of this doubt is in the first precept of the Decalogue where the Lord commanded: *Thou shalt have no strange gods before me* (Exod 20:3). By *strange gods* is meant whatever is *divinely honored*, and by the same worship is joined with God: from matter they are called *gods of silver, or of brass* (Exod 20:23), whom God forbade to have before his face (Exod 20:2).
+
+They are held before God's face when they are honored with either external or internal worship. *Internal worship*: when men conceive of them some divine opinion; *external worship*: when they exhibit to them external reverence and gestures of the body — especially statues, from common use divided (Dan 3:3), adorned with priestly garments (Baruch 6:9, 11), erected temples and altars (1 Kgs 12:16, 27, 31; Exod 32:5; 1 Kgs 13:26), cried out before them (Baruch 6:31), kissed (1 Kgs 19:18).
+
+All these are done in ignominy of the true God, which Christ simply removed from the worship of the pious when he said (Matt 4:10): *Thou shalt worship the Lord thy God, and him only shalt thou serve* — which words are laws divine (Deut 6:13).
+
+*The Papists see all these things are most true*, yet to justify their own idolatry — in which they attribute divine honors even to persons other than God, even to certain inanimate things — with which they are compelled, they usually distinguish among the words: **latria, dulia, hyperdulia**.
+
+- **Latria** they call the *supreme worship of servitude*, owed to God, Lord of all things, for his supreme empire and dominion, to which we submit ourselves by this worship, and in him place our hope and confidence.
+- **Dulia** they call the *veneration* which is given to holy men, citizens of the heavenly fatherland.
+- **Hyperdulia** they call an *eminent and excellent worship* among those cults owed to mortals living with Christ — which they assign to the Blessed Virgin Mary.
+
+Beyond these, since certain *things* which have touched the body of Christ are also cultivated in the Papacy, much dispute was had by what worship this ought to be done.
+
+- Some hold when the nail, spear, manger, sponge, scourges, crown of thorns, and other such things were touching Christ, they were to be cultivated with the worship of *latria*, since they were not worshipped separately but as being in Christ; but when the things which touched Christ, by themselves, separately, are worshipped, they need not be honored with the same cult as Christ but with a distinct — namely with *dulia*.
+- Others hold *the things themselves* ought to be worshipped only *insofar as they were united to Christ*, and not separately — which is the opinion of Thomas (III q. 25 art. 4).
+- Others distinguish between *things* which touched Christ ignominiously — impious and nefarious, like the *Gallic hand* which struck Christ, or the hands of the crucifiers, of the scourgers, of the man carrying the sponge full of vinegar to his mouth; those, whether they touched Christ or not, are not to be worshipped. The other things which did not touch Christ ignominiously — like the nails, scourges, crown of thorns, and all the instruments of the Passion — can be worshipped.
+
+Further, *things having power of intelligence, which touched Christ* — like the anointed Virgin, and the ass on which Christ sat on the day of Palms, and the horse of nights — are said to be *cultivated*, but not with veneration and honor of latria, since when they are cultivated by themselves, apart from their honor derived from Christ, we would see them cultivated only for their own sake.
+
+*(Note: even the Papists are not afraid to worship an ass. It is known that once the Turkish ambassadors were sent to Poland, who seeing on the day of Palms Christians procuring an ass and prostrating on their knees before it, laughed openly and not without the greatest astonishment said: "how inconvenient it is, so many wise men to adore an ass!" — Manlius in *Colloq. loci comm.* Cent. 2, p. 232.)*
+
+By this mode indeed *idolatry, which gives divine cult to saints and even inanimate things which touched Christ*, is glossed by these words — but in vain.
+
+For **1.** We ourselves acknowledge that these words *latria* and *dulia* in their first signification mean the same thing — as *Azorius* (i, c. 9, q. 2) and Bellarmine (*De sanctis* i, c. 14) both admit. Nor is *dulia* proper to divine worship, as Bellarmine says (*De sanct. beat.* iii, c. 11) — but we hence conclude, that they inaptly adhere to distinguish divine worship, when in their primary signification they mean the same thing, and cannot make sundered species.
+
+**2.** They say that the *use of the sacred Scripture* usually differs to signify these things — as Azor holds (i, d. Si). *Scholae Theologorum* not without cause devised this distinction, as Bellarmine (i, d. Si) says. But the sacred Scripture and Theologians are none other than *Papists*, whom we are not held to follow. They in probable authors much less in the sacred Bible found this distinction, but devised it as Bellarmine speaks: who then is bound by figments of men in a matter which concerns divine worship? And indeed not without cause they devised — that they might palliate their idolatry, however performed, under this cover of words.
+
+**3.** In the New Testament, worship of God is more often called *λατρεία* than *δουλεία* (Heb 13:10: *we have an altar*).
+
+**4.** If we consider the *etymon* of the word, *λατρεία* is more than *δουλεία*. For this one signifies *to worship* — which also is of friends and patrons whom we worship; that one signifies *to serve*, which is of masters whom we serve.
+
+For which cause *Martinus Teresianus Hispanianus* rejected the name of *dulia* for the worship of saints, since *dulia* signifies servitude — but we are not the *servants* of saints, but their *fellow-citizens* (I. de credit. cousid. 3; cf. Rom 16:18: *they serve not the Lord Jesus*; Eph 6:7: *serving the Lord with good will, and not to men*; Col 3:23: *whatever ye do, do it heartily, as to the Lord, and not to men*).
+
+**To *Augustine*, whom they cite (10 *De civ. Dei*), which distinguishes between *latria* and *dulia*** — beyond the fact that his *hypothesis* in this matter we are not compelled to, *Augustine* also does not hold this distinction as *accurate*, much less does he propose it as *species of divine worship opposed*. For in his *Questions on the Old and New Testament* c. 25, q. 94, on those words *if you serve strange gods*, they shall be to you a stumbling-block, thus he writes: *here he uses δουλεία, not λατρεία*, because *dulia* is called to be given to God as to a Lord, but *latria* to nothing but God as God. — Ludovicus Vivet also in his *Commentary on the book of Civ. Dei* proves by many examples that these words are used *interchangeably*. And *Augustine* never attributes divine worship to *saints departed* but says: *we worship the martyrs* (i, x. contra Faustum c. 11) *with the cult of oblation and society, by which in this life the holy men of God are cultivated, whose heart was ready for the evangelical truth of the passion*; and again, *we cultivate the saints not with the cult of servitude, but of honor*. *Neither temples to the saints does he build, nor does he order sacred rites to be instituted, but memoria to God — that they may be honored as the saintly of God, who unto the death of their bodies for the truth contended, so that they might become known — that the true religion, by the false religions being overcome, might shine* (see *De civ. Dei* i, c. 7; xi, c. 10).
+
+**Dulia**, therefore, owed to the saints, by *Augustine*'s use is not some *divine worship*, but *a worship of love and society*, such as also they in the present life mutually render to each other Christians.
+
+**As for the saints, who live with Christ in heaven**, we by no means judge them to be worshipped by any act of religion — for religion is owed to God alone, and to God alone we must serve — but they are to be *honored* and *magnified* as worshippers of God and confessors of truth, of wisdom, piety, patience, constancy, and by many other outstanding virtues conspicuous: to which end also memory of them in the Church is celebrated, that the gifts of God in them may be acknowledged, for which thanks are given, and to the imitation of their virtues we are made attentive.
+
+*In which kind, the Blessed Virgin Mary receives no peculiar species of cult*. *She, as Epiphanius says, is to be honored indeed, but not adored.* Let her virtues be published, let her outstanding privilege before all women be commended, that she was *of God the Mother*, and thus she is sufficiently honored.
+
+Least of all deserve some *divine* worship *certain things which touched Christ's body*, as the crown of thorns, nails, scourge, and similar things. Since no word about this matter is in Scripture, no example of true saints anywhere is found, who cultivated such things; and it is very perverse in itself to worship and honor the *instruments of Christ's Passion*.
+
+*Bellarmine* thinks (*De imaginibus sanctorum* i, c. 17) that Christ's *cross* (and so without doubt also the crown of thorns, scourges, etc.) is therefore venerable and honorable to us Christians, because it was the *instrument of the liberation of the human race* and the *instrument by which he conquered the devil*, etc.
+
+But it is false that either the *cross* or *similar things adhering to his passion* are the *instruments of our salvation*, or that they contributed anything to our salvation or Christ's victory: for the Lord chose the *cross*, because he wished to be made a curse for us (Gal 3:13), and *cursed are those that hang on wood* (Deut 21:23).
+
+*Instruments of the Passion* they are — but not *of salvation*, which put before our eyes the cruelty of the Jews rather than anything necessary for our salvation. Therefore they are not worthy of divine worship and veneration; else even by them the statues of the soldiers should be erected and afflicted with divine cult and veneration — for they also carried Christ's body and were instruments of the Passion.
+
+Nor is it true that the soldiers touched Christ *without injury*, or that the nails, crown of thorns, scourges did not. For through these very instruments they inflicted injury upon Christ: nor can any reason be given why they *themselves* are indeed to be blamed, but these instruments *are to be judged worthy of cult and veneration*.
+
+Besides, it is *uncertain* whether these things which are sold for a particle of Christ's cross, for a nail, for a thorn from the crown, for scourges and similar things, are really the things whose name they bear. How many *frauds* have crept in this kind, is not obscure to anyone.
+
+*(Egesippus, Abbot of Ambetorch, records: Once to the glorious King Edward it happened that a certain man was sent, that he might send to him some teeth of Apollonius, from all his churches, for his labor. It turned out however that from a single relic of the kingdom, so many teeth of Apollonius were counted, that some large containers could not hold them. It happened similarly to a certain wandering father-of-memory that he showed *feathers of the Holy Spirit* — but *coals of Saint Lawrence* — which he had preached to be. See Dom. Chemnitz *Examen Conc. Trid.* pt. 4, p. 20. A certain monk boasted himself to have *feathers which had fallen from the wings of the Angel Gabriel*, when he saluted the Virgin Mary. See more of this in *Trocatione Diaboli* p. 30, i, 2.)*
+
+**We refrain therefore rightly from these thoughts, lest we give the honor owed to God alone to creatures, nor undertake anything in the divine worship outside the Word of God from our own judgment** — for we are not ignorant that such worship is forbidden by Christ (Matt 15).
+
+But if it were certainly established that some *true particle* of Christ's cross, or a portion of the crown of thorns, or a nail, remained in our hands, we should not be *obliged* to worship such a thing as some singular and holy thing with devoted cult, or to attribute to it any peculiar virtue — yet not to be affected with any ignominy, but to preserve it in memory of the Passion of the Lord, as also we preserve other *ancient monuments*, though we render them no cult of religion or reverence.
+
+### Case V. Can one adore only one person of the Holy Trinity divinely, without sin
+
+**Respondeo.** Even though *the essence of God is one* in the persons of the Trinity, yet as concerning one we can *think, speak, and worship* distinctly, without adverting to the other or as if the other were not — so also can we distinctly worship him. For the Father is God, the Son is God, and the Holy Spirit is God.
+
+But when *worship is not to one alone, in that also the other person is as it were one thing to whom our sacrifice ascends* — and it cannot be separated from the other. For all these are one true God, and mutual is the between them the *περιχώρησις* [circumincession]. Thus one who invokes the Father *implicitly also invokes the Son and the Holy Spirit* — that is, not naming these two persons, yet in adoration of the Father he honors also the Son and the Holy Spirit, who among themselves are indeed distinct, but not separated.
+
+Whence follows: that because of the *personal distinctions* — that the Father is truly the Father, not the Son or the Holy Spirit — it happens that even in prayer, we call the Father *God* — and simultaneously also we set our confidence in the Son and the Holy Spirit, who *all together as one God with one veneration are worshipped*, as in the Hebrews it is said: *thou art worshipped, God of Israel, honor to thee, praise and glory* (Isa 6:3).
+
+Whence it follows that whoever the *Father* adores, distinctly also the *Son* and the *Holy Spirit* adores at the same time — because the Father's essence outside the Son and the Holy Spirit is not, but all are in the divine essence: *one veneration to be worshipped*.
+
+*Since it is so, to whichever person you may direct your prayers*, is the same: your confidence in the Trinity is complete. But distinctly — sometimes to the Father, sometimes to the Son, sometimes to the Holy Spirit — prayers are directed, because of the divine benefits which are *common to the persons* by *some peculiar mode of doing* proper to certain persons — for according to the order of persons — that indeed *three* are creators, redeemers, sanctifiers — this to the Father, that to the Son, this to the Holy Spirit — Scripture attributes. Whence in the Symbol we invoke the Father as *creator*, the Son as *redeemer* and *mediator*, the Holy Spirit as *sanctifier* and *vivifier*.
+
+*(For Father is *par excellence* said to be *Creator*: 1. by reason of *origin*; 2. by reason of *manifestation*; 3. by reason of *distinction*. Creation is a work *ad extra* whereby the Father in the Church and in the Symbol is distinguished from the Son and the Holy Spirit.)*
+
+### Case VI. Whether the human nature in Christ is rightly honored by us with divine worship, so that our faith and our prayers may be directed also to it
+
+**Respondeo.** If I consider the *human nature in Christ separately* in its own properties, by no means is it of the same state, glory, condition, and power as the nature of the *Word* — for this indeed would be a synergism of the divinity. For by this reasoning the creature would be equated with the Creator, and by union with the flesh some accession made to the most simple essence of the divinity. Therefore considered thus separately, no worship is owed to it — nay, considered separately outside the *Logos*, it does not subsist anywhere, since it has no proper subsistence.
+
+So *Cyril* considered Christ's human nature when in *De recta fide ad Theodosium* he wrote: *the divinity in Christ is being adored; the humanity adoring, as also the Lord himself says (John 4): we adore what we know.* And Augustine's memorable sentence (*On Psalm* 98) *of the great Lord Jesus. In Christ the humanity is prayed to, because the divinity is received and united to the divinity. If you separate a man from God, as the Photinians or the Samosatenes, — either I never believe, or I serve, as if I found a garment, or a purple, or a royal diadem lying: shall I dare to adore, when the King has been clothed with it, and to incur danger of death, if I contemn to adore it at once with the King?*
+
+**False therefore is what Thomas writes (III q. 25 art. 1): *the same person of Christ is to be adored by the adoration of Latria for his divinity, and by the adoration of Dulia for the perfection of his humanity.***
+
+*One is the adoration of Christ*, which Scripture knows — which is proper to the Word by essence, and befits the flesh united to him by grace. Nor does the human nature of Christ outside the *Logos* subsist anywhere; therefore neither can it be worshipped in any way outside him. When therefore I consider it *united to the Logos*, and constituting one person with him, then I consider it as *partaker of the divine majesty, omnipotence, omniscience, omnipresence, nay, of the very hypostasis of the Word*.
+
+Therefore in this consideration, from the cult and veneration owed to the *Logos*, it can in no way be exempted; but what worship is given to the *Logos through his nature*, here to the human nature is *attributed through the grace of union*. Whence also it itself is the *object of faith, confidence, adoration, and every divine worship*, which is owed to the *Logos*.
+
+It is not however to be worshipped separately *as with the Logos*, as if it stands by itself, as *Nestorius* wanted, who therefore is called *ἀνθρωπολάτρης* in the Code of Justinian (i, tit. 1, ss. 5). But in the *Logos* it is worshipped with *one worship*, and adored with *one adoration*, as Cyril (Ep. 10 against Nestorius) explains: *not another, in whom is present, is worshipped simultaneously with another; but one Christ Jesus is worshipped with one proper adoration by him*. And Damascene (*De fide orth.* iii, c. 8) writes: *I adore the Logos with his flesh — that is, the whole Christ — because of the flesh being united to the Deity conjoined*.
+
+**Reasons of this our faith:**
+
+**1.** Because the human nature of Christ with the *Logos* constitutes one person, from which it is never dissolved, outside which it is nowhere found. Divine worship is not of one nature only, but of the *whole person*, in the manner in which we believe such a Son of God to have been born of the Virgin Mary, suffered under Pontius Pilate, etc. Hence Leo (*Ep.* 10) writes: *nor without true divinity is humanity, nor without true humanity is divinity believed.* And Cyril: *De recta fide ad Theodosium: not the bare Word alone we believe, despoiling him of flesh, nor as a *mere man* like us; but faith terminates in a natural and true God in the person of Christ*.
+
+**2.** Because in the worship of Christ we look not only to the *person*, but also to his *office*, which is common to each nature. When about God the question is, it is rightly said: God alone is to be worshipped and adored; but when about the worship of Christ it is asked, not only the person, as *infinite and eternal principle* is considered, but also and especially as *redeemer, propitiator, Saviour, King, and our mediator* — those offices are of each nature: as *the man Christ our mediator is called* (1 Tim 2:5), and *God in Christ reconciled himself to us* (2 Cor 5:19).
+
+**3.** Scripture teaches us to be baptized not only into the divine nature of Christ, but also into his death (Rom 6:3). As therefore we are baptized, so we believe: which is the collation of *Basil, Nazianzen*, and *Cyril*.
+
+**4.** The human nature of Christ, through union with the *Logos*, deserves to enter the consortium of the Holy Trinity, as Ambrose speaks of the resurrection. Whatever pertains to the Holy Trinity is worthy of divine cult and veneration.
+
+**5.** The human nature of Christ has been *made one* with the *Logos* through exaltation to the right hand of the Father — as Paul speaks (Phil 2:9–10): *he received a name, which is above every name; that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth*.
+
+**6.** Finally, examples are added of those who worshipped Christ as *the son of David* (Luke 18:39; Matt 15, 20); and in the Apocalypse *the twenty-four elders fell down before the Lamb, who was slain, and adored him with the same reverence with which they worshipped him who sat upon the throne* (Rev 5:8, 14).
+
+These all can confirm the conscience that we do not err if in our prayers we approach Christ himself, and direct them to his human nature.
+
+**Nor should certain trivial objections trouble anyone**, from Calvinists — that *cursed is the man who trusts in a man* (Jer 17:5); that *God does not give his glory to another* (Isa 42:8); that *idolaters* are called *those adoring gods who are not by nature gods* (Gal 4:8) — see the *Examen* of Danaeus, pp. 415, 416, 417, 418, 419; and Sturmius in *Prodromus* p. 26.
+
+These are all to be understood of *man* and other creatures *outside* the hypostasis of the *Logos*. For in a bare man surely no confidence is to be placed. But of the man who is himself the *Lord from heaven*, who was born in the Father's own throne, and *exalted to the right hand of the Father's omnipotence and divine virtue*, Scripture pronounces that *whoever confides in him shall not be confounded*.
+
+*(A distinction is to be made between the *true* man and the *mere* man. Christ is *true* indeed, but not *mere* man. Isa 42:8, Jer 17:5, Gal 4:8 speak of *mere idols*, not of a person like *Servus Kupios*, not of a *human* Deus.)*
+
+And since this is so, *the glory of God is not given to another, when in the person of Christ there is not one and another, but is settled with God in solidum the praise and majesty, that he alone is worshipped and adored — not however as of old, of *bare divinity*, but *with his flesh worshipped and glorified* — one in *divine latria*, just as God alone is life-giving and continues, though the flesh of God is life-giving, because it is not of one else who is united, but proper to God alone*.
+
+### Case VII. Can one, without sin, place confidence at the same time in God and in a creature — as often is popularly said: *I trust in God and in my armor; I trust in God and in my ploughing*, etc.
+
+**Respondeo.** Certain it is that, properly speaking, our confidence has no other object than God, who — just as he had commanded that we should have no other gods before him — so also wills us to trust simply in him alone. Therefore in Scripture God is opposed, in whom must trust *every congregation of the people* (Ps 62:9), and *sons of Adam are vain and mendacious* (Ps 62:10). *It is better to trust in the Lord than to trust in man* (Ps 118:8).
+
+Yet often such expressions are heard, in which what is owed to God alone seems to lean on the creature — as when the soldier says: *I trust God and my armor*; the farmer: *I trust God and my strong arm*; the paterfamilias: *I trust God and my grain*.
+
+Yet it must be known that these are *popular sayings*, in which *καθ᾽ ἀκρίβειαν* is not to be sought, nor is any other object of faith intended between God and creatures — but only that confidence in God is *not immediate, but through an art, through hand, through grain* and similar organs which God gives to each as necessary. For an honest art always feeds the industrious cultivator, who loves and exercises it — and who in the time of necessity uses it for preparing food, does not so much place confidence in the art itself as in *God* acting through this medium.
+
+So God is *the one who teaches the hands of soldiers for battle, and makes bows of brass to break in their arms* (Ps 18:34); who *not without the hand of the soldier, or without arms, gives victory*. He therefore who trusts in his hand, in his sanity, in the strength of his body, does nothing else than trust God, who will strengthen his hands in honest battle, so that he may not fall into the hand of the enemy. And when God through grain feeds men, the paterfamilias trusts God through this medium to provide sustenance for himself and his household.
+
+For God does not want such confidence, which makes men *secure* — as if now, because they have means, God should aid them, wholly without labor: but confidence conjoined with our labor. Therefore *David* orders us to *commend our ways to the Lord and hope in him*, and yet also to *inhabit the earth, and be fed by his wealth* (Ps 37:3–5).
+
+That confidence, therefore, which one has in art, in strength of hand, in his grain, is not properly speaking *faith*, that virtue of the first precept — but only a *comfort and sign of a mind present and tranquil*, which by the presence of those means is more confirmed in its confidence in God.
+
+Otherwise, faith properly so called has as its object only *omnipotent God*, to whom in this cult no one is to be joined; when however anything else is joined to him, it has the ratio of *medium and instrument* through which he operates, not of *organ* — but *only in God*, who operates through it. And this faith properly so called always firmly adheres to God, even if those means are lacking, since it knows God to be not bound to them.
+
+Hence *maledicted are those who trust in man* (Jer 17:5), and much more those who trust in another creature — maledicted are they, since our whole help is from the Lord, who through few can help just as through many, who even without means holds the *fastness of omnipotence*.
+
+We can therefore use those popular sayings in the sense just indicated, especially since we have a similar locution in Scripture. For Prov 31:11, of a virtuous wife it is read: *the heart of her husband trusts in her*; and Exod 14:31, of the people is said *that they feared the Lord and believed in the Lord and in Moses his servant*. The object of faith is God alone, yet they are said to have *believed in God and in Moses* — because so long as they had faith in the words of Moses, their confidence in the Lord was confirmed.
+
+### Case VIII. The chief part of internal worship is love: it is asked, when man loves God so that his conscience may rest, that he has satisfied the divine command
+
+**Respondeo.** Before all things it is here to be held that *love toward God, from every point perfect and absolute, to which nothing can be added, in no mortal in this age is found.* For the command about loving God is so lofty that human nature vitiated by the flesh is far less and weaker than that to be able to satisfy it. For Moses says: *thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength* (Deut 6:5) — which Christ called the *first and greatest* commandment (Matt 22:38).
+
+The Papists acknowledge that *to love God with all one's heart is truly the same as to keep God's commands, or certainly the one is necessarily connected with the other, since it cannot happen that he who loves God with all his heart, does not also keep all his commandments* — that indeed Bekan confesses in his *Disp. de just. bonorum operum* c. 15.
+
+Since however *perfect obedience to divine commands* in man in this life is impossible, we teach, and hence they seek certain emblems, that even of that precept about loving God with all the heart, they show its possibility — with all which nevertheless the conscience about the true love of God cannot be satisfied.
+
+*Stapleton* (lib. 6 *de just.* c. 24) and Gregory of Valencia (lib. 3 *de virtutibus* q. 3) write: *the precept of loving God with all the heart is doctrinal, not obligatory* — with which nearly coincides what Bellarmine writes (*De monachis* i, c. 13): *this precept is given as it were as a scope, not that it be fulfilled: but if even it be not fulfilled, one is not made a transgressor.*
+
+But truly these are too crude, to which a pious man could easily oppose: *he cannot understand how any command should not oblige but only teach; for every precept is a particle of the law, and the law from *obligating* has its name; and it is absurd that any law be given, which does not oblige those to whom it is given.*
+
+**Yet no less difficult to understand is how any precept may be given by God, which ought not be fulfilled** — every precept rather is given that it be fulfilled; therefore every transgression of the law is called *sin* (1 John 3:4) because it is not conformable to the precept. And God expressly says of the precepts: *hear, ye people, do these precepts of God; if you do them not, malediction shall be intimated to you* (Deut 27:26).
+
+**Bellarmine** writes: *to love God with all one's forces and with all one's heart does not signify all forces at once but with one's whole heart, but only *for one's forces of loving* — sed *with special love*.* But this liberation is easily persuaded to the pious mind, because it plainly fights with the words of the Lord, who does not say *for the ability of your forces*, but *ex totis viribus* — thou shalt love God, *ex toto corde*, requiring all the powers of the soul by which God is loved, so that all our knowing, willing, and being able is referred to God. For to himself God has destined the whole man, as it were to his glory. *Nothing to a total remains, which can be added to a total; because if anything remained, it would not be a total* — says Augustine (*De spiritu et litera* c. 36).
+
+The same *Bellarmine* writes: this precept about loving God is doctrinal, *which does not oblige at every time but only when its glory needs to be procured*. So says Toletus (iv, c. *confess.* c. 9). But even in this emblem the pious mind cannot rest, since no time can be given in which the glory of God is not to be promoted by us. Even if therefore in its exercise external love is not carried into God at every moment, yet in its *habit and end* it always looks to him — as *whether you eat or drink, or whatever else you do, do all to the glory of God* (1 Cor 10:31). When therefore we love parents, children, and friends, and do them good, then we love God for whose sake all things are to be loved which can be dear to us. Whence Augustine says (*Confessions*): *the more I love thee, O God, the more anything else I love, which for thy sake I love*.
+
+**Becan** writes in *Disp. de just. hon. operum* c. 31: *to love God above all things is when we prefer him to other things, and neither from love or fear of any creature offend God, nor are drawn back by love of him.* Which indeed is true, but not sufficient — for the love of God requires *rectitude of all forces, and plentifulness of the offices owed to God*, such as does not fall into corrupt nature.
+
+**These things therefore cannot satisfy consciences. For they flow from a *vitiated principle* — as if in this life we could perfectly fulfill the law, which Scripture in many places denies (of which elsewhere): who indeed will give a man such a mind, that he may fear God, and keep all his commandments at every time?** (Deut 5:29).
+
+**Far better is conscience counseled if we acknowledge our imperfection**, love God as much as is in us, submit all our things to him, cling to him alone, and if no retribution appear, but afflictions daily grow, we do not depart from love. So in all these, even when we contend toward the highest, let us deplore our defects, certain believing that God will not impute them to us for Christ's sake, and in whatever effort of ours proceeding from faith in Christ, he will paternally rest. For as Bernard (*Sermon 50 on the Canticles*) says: *by commanding impossibles God has not made prevaricators of men, but humble — that every mouth may be stopped, and the whole world become guilty before God.*
+
+— ❦ —
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=openxml}
+<w:p><w:pPr><w:sectPr><w:headerReference w:type="default" r:id="rId31"/><w:footerReference w:type="default" r:id="rId32"/><w:type w:val="oddPage"/><w:pgSz w:w="8842" w:h="13262"/><w:pgMar w:top="792" w:right="835" w:bottom="936" w:left="1152" w:header="432" w:footer="504" w:gutter="0"/></w:sectPr></w:pPr></w:p>
+```
+
+# Liber III. Toward Celestial Spirits
+
 *De actionibus hominis circa spiritus coelestes — On the actions of man toward celestial spirits (angels, demons, astrology, magic, divinations).*
 
 *[T12–T17 — to be translated from OCR lines 29354–47119, physical pp. 472–740.]*
