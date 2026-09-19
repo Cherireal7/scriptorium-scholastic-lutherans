@@ -4128,6 +4128,240 @@ Nay rather if in these churches, where *private confession* is in use, for the r
 
 — ❦ —
 
+## Chapter XIII. On Cases of Conscience Concerning Feasts and the Sabbath
+
+*De casibus conscientiae circa festa et sabbatum.*
+
+To the *circumstances of divine cult pertains time*: for God does not require *continual cult*, as of old the *Psalliani* and *Euchitae* always prayed — so that to those who heard this of them it seemed *incredible*, and they were held to be *feigning*, as *Damascene* in *Haer.* 57 asserts.
+
+Rather God himself distinguished times, so that some days would be for work, some for quiet and sacred things — as it is written (Exod 20:10). And these he called *feriae*, or feast days, dedicated to divine cult, in which — with forensic business omitted — sacrifices, ferias, plays, and solemn banquets were celebrated, and, between vows and jokes for the ears, from all things it was fitting to abstain, as words proper to *Alexander ab Alexandro* (lib. 4 *general. dier.* c. 20): *the rest were called *profesti*, because they lacked festivity*.
+
+[*Ovid, lib. 5:*
+*Auroram, per quem, verba filentur,*
+*de Ausis tollendis existimo,*
+*fastus erit, per quem lege liceat*
+*agi.* — *Ovid, Fasti* 1.47]
+
+### Case I. Whether it be lawful for Christians to observe some days as *feriated*, or whether all days ought to be considered by us as equal, feriated, and non-feriated?
+
+**Respondeo.** In this error were of old the *Aerians*, whom today are imitated the *Anabaptists*, who seduce many in this opinion, as if to Christians no feasts should be conceded. Nor do they lack plausible reasons, drawn from Scripture.
+
+**First**, the *Apostle Paul* seems to concede *equality of all days*, when he writes (Rom 14:5): *some indeed judge one day preferable to another; others judge all days as equally preferable — each abound in his own sense*.
+
+**Then** the same Apostle reprehends the *Galatians* because *they observed days, months, and times* (Gal 4:10).
+
+**Third**, he does not want Christians *to be judged in feriated days* — that is, he wants them not to suffer themselves to be reduced under feast days (Col 2:16).
+
+Not far from this opinion is *Calvin*, who writes (in Instit. lib. 3 c. 20): *the days of Christ are all equal. Daily the preaching of the Gospel is renewed, and daily one should incumb on the mortifying of the flesh, and daily the death of Christ should be commemorated*.
+
+There were also in the time of *Sirach* certain — whom that tempest called *scoffers or subsannators* — who said: *what shall this observation of days effect? For to all days of the year the sun rises, and shines by night from the days*. But the sage responded: *we by the science of God are separated: for it is precepted from him to sing to the Lord according to observation of days and years — the day is exalted in his sanctification* (Sir 33:7).
+
+**To *morals* certainly, which are perpetual, pertains that distinction which God himself made *between days of work and of quiet*** — as in the third precept is contained: at a certain time we grant respite to our body, and to God we render our cult even from those who bless us with our labors.
+
+Which even nature has taught the gentiles, that they should distinguish certain days on account of *profesti* (workdays), that as it were in this middle-way they might have leisure for sacred things.
+
+Now what is of natural and divine law — what is in itself equal and just, and is with great utility of all of us — this obliges Christians also.
+
+Add that this distinction of days also *order and decor of the Church requires*: for without certain feriated days no order in the Church can be observed. The Apostle wants *all things in the Church to be done in order and decently* (1 Cor 14:40).
+
+**As to the objections** — they make nothing to the matter. In the place of Rom 14 days are not simply equated, but a discussion is being held about *middle things* (*adiaphora*), as *Paul* teaches — that a Christian *of that time*, in which the ceremonials of the OT were still free, who observes the distinction of Judaic days freely does not sin, nor does he who does not observe — provided each is persuaded in his conscience that by his observance he does not worship God, and that by neglecting that observance he does not offend the neighbor. For this is the nature of things that are of *free observation*.
+
+Distinction is also to be made between *cult* and *order*: in respect of *divine cult* there is no distinction today among days — for all are to prestate God cult; but *in respect of order and the days lunar and other*, so that God so ordained, that at a certain time we should render him our cult.
+
+**In the places adduced from the epistle to the Galatians and Colossians**, the Apostle speaks of the *superstitious observation of Jewish feasts*, to which false-apostles added the opinion of *merit*. But the *Jewish feasts* today are not to be observed by Christians, because they were *ceremonial*, which through the advent of Christ have been abrogated (Col 2:16). They were parts of the ceremonial law, which was to last only *until John* (Matt 11:13); for with the priesthood having been changed, a change also has been made of the law (Heb 7:12).
+
+But if to the observation of feasts of this kind there should moreover be added the opinion of singular *sanctity* and *merit*, then it is sinned in this way both — partly, that *abrogated rites* are called back, and partly, that to the rite *merit is affixed*. For our observation of feasts is only *the recollection of the benefits of God*, so far as they pertain to us — not that we observe times, but *those which are signified by times*, as *Augustine* responds to the Manichaeans (lib. 6 *contra Adimantum* c. 19).
+
+### Case II. If observation of feasts is from divine precept, why do we today not celebrate the *Sabbath*, as God precepted (Exod 20:8; 10:25), but the *Lord's Day*, whose observation from God we cannot show to be commanded?
+
+**Respondeo.** There were of old among Christians, some who judged that even to us the *seventh day of the Sabbath* must be cultivated — whence they were called *Sabbatarii* (Sabbatarians): and this on the ground that the Sabbath was not first invented by *Moses*, but observed *from the beginning of the world*, and because in the *moral law*, which obliges all, expressly *cult of the divine name is precepted*, and each of us ought to remember the *creation*; and finally, because God calls the observation of the seventh day *sabbatum perpetuum* (Exod 31:16-17).
+
+[*Sabbatum* comes from the Hebrew *Schabbath* and *Schabbaton*, that is, *rest, otium, feriated day*, because *God rested on the seventh day*: understand *from a certain species of works*, namely, from *creating* — for the preservation and continuous propagation of created things through *generation* God continues, as *Chrysostom* speaks (Hom. 40 in Matt).]
+
+**But this opinion has long since been antiquated in the Church**, because not all things which were done in the OT ought to be observed by us. The sanctification of the Sabbath is collected from *five*, from which it can be proved:
+
+**(1)** *all Israelites in the wilderness were bidden to abstain from work on the Sabbath* (Exod 16:23), and it is first read in Scripture; **(2)** the *Apostolic tradition* concerning the second day of the Sabbath, which now is called *Lord's Day*, on which day the assembly is congregated for prayers, on the fourth is celebrated the *communion of the Eucharist*; on the fifth *alms are collected for the ministers of God, indigent, orphans, and sick, and pilgrims*.
+
+*The chief works appear here, by which the Sabbath is sanctified* — such are: (1) *congregation in the temple*, that we hear the Word, use the sacraments, poured out prayers, as we do *sursum cor*, and other similar exercises of piety and parts of divine cult. For *sanctifying his own in these gatherings colloquize among themselves*: on the Sabbath *they come together in the sight of God, from whom likewise through prayers they speak to him, hear him speaking in sermons*. Those therefore *who are of God, hear the Word of God* (John 8:47); and those who love God *willingly hear God*. Whence *Gregory Naz.* in his *Epistle 1 to Basil* writes: *if the day of the Lord's Day is celebrated, it is necessary that in every way it be insisted upon by prayers, that whatever of negligence has been done for six days, on the day of the Lord's resurrection may be washed away by prayer*. So *David* did, who was daily present at sacred rites, and *thirsted after them* (Ps 42:1; 63:1), and his mind was recreated by these exercises (Ps 122:1), and to others he was inviting them (Ps 95:1 seqq.).
+
+**(2)** *The repetition of the divine Word and preaching* — for anyone can be made a *private doctor of the family*, whom he ought to examine on feast days from the sermons, and by his own means to inform — according to the mandate of the Lord (Deut 6:7): *these words which I command thee this day shall be in thine heart. And thou shalt teach them thoroughly to thy sons, and shalt speak of them sitting in thy house, and walking on the road, sleeping and rising*. Hither pertains that in many places on Lord's Days the youths publicly recite the *Catechism*, which is an exercise of piety useful even to this day proper.
+
+**(3)** *The love of the neighbor* which exerts itself through works of charity, which pertain to the sanctification of the Sabbath, because the precept about *loving God and the neighbor cohere*: *this mandate we have from God, that whoever loves God, also love his brother* (1 John 4:21; James 2:8). Now works of charity are various — chief among them is alms for the poor: which that it should be done on the Sabbath, *Paul* enjoined on the *Corinthians* (1 Cor 16:2). *Visiting and consoling the afflicted*, just as *Christ* visited the mother-in-law of Peter (Luke 4:38) — and *Paul* on the Sabbath at Troas resurrected fallen *Eutychus* (Acts 20:7); *to bring cattle to be watered*, to lead oxen or asses to water on the Sabbath, to *lead sheep from the pit* — these Christ does not condemn as *profanation of the Sabbath*, but as a *work rather necessary* which cattle can lack on no day (Matt 12:11-12). *To prepare food and drink*, which is *an office of charity toward one's own* — which willingly is done to those with whom we have peace, since to lack food any day is difficult.
+
+**(4)** *The very sanctification of the person* — which indeed always is required of us, but *especially at the time when we approach God*. *Be ye holy, because I your Lord God am holy* (Lev 20:8); *cease to act perversely* (Isa 1:16) — which exhortation especially on the Sabbath, which is the day of our rest, has place. Just as *on the Sabbath two lambs were offered, but on other days only one — much more in solemnities* (Num 28:9-10) — so our piety should indeed be *daily*, but on feriated days *doubled* by this reason. Then our Sabbath is a *dilecta Deo delicata* — of which he himself speaks (Isa 58:13): *if thou refrain from thy own will on the Sabbath, and thy own footsteps, and thou call the Sabbath a delicate day of the Lord glorious, and thou glorify it while thou doest not thy ways, and thy own will is not found — then thou wilt take delight over the Lord, and he will lift thee up in the heights of the earth*.
+
+[*The sanctification (of the Sabbath) is not in the softness of the body, nor in the variety and splendor of clothes, nor in comestations, whose fruit lasciviousness we know; nor in the flowers on the streets of the ways, for these are of the gentiles; but rather in purity of soul and mind — with sacred hymns for temperate voices, prayers for impious potations, psalmodies for hands.*]
+
+Just as therefore sin who *against the second precept blaspheme the name of God*, against the *seventh* who commit theft, against the *fifth* who kill — so gravely delinquish those who against the *third* either in comestations, or in other carnal pleasures indulge, or offer occasion to others at the wrong time by their untimely nuptials.
+
+Therefore the Emperors *Leo* and *Anthemius* by their decrees against this evil wanted to remedy: *feriated days, dedicated to the majesty of the Most High, we will that they be by no pleasures occupied*. For which causes *Justinus* also in this town abrogated nuptials on the Lord's Day; and *Bernard* (Hom. 96 in Luke) writes: *from the greater elders it was constituted, that on two days before the Lord's Day neither nuptials nor other public conventions should be celebrated — not because these per se are illicit, nor that from merits of fastings should be constituted expiation of sins, but that by sobriety of two days men should be rendered more apt to seeking that one thing necessary — that is, to hearing the Word of God, and to perceiving the doctrine of religion on the Lord's Day*.
+
+Always also there have been *orthodox theologians* who with pious zeal contradicted nuptials instituted on the Lord's Day. This requires our zeal, which admonishes us that we abstain from *every appearance of evil* and from *every occasion of sinning*, and cast no *stumbling-block* on others, since *feasts* do not fight with sanctification of the Sabbath. For *woe to him through whom scandals come*.
+
+*The reasons which those use who feel the contrary are of no great moment.* Sacred businesses befit sacred days: but one must distinguish between works pertaining to the *kingdom of Christ* and to *this polity*. Both are sacred, that is, good and pleasing to God: but *those are truly holy* and *competent to the sanctification of the Sabbath* which pertain to the *sanctification of the divine name* and *the salvation of souls* — such as *preaching and hearing of the Word*, *use of the sacraments*, *prayers*, *pious readings and meditations*, &c. The rest pertain to this natural life; though they be good in themselves, yet they are not sacred, but are *sanctified through the Word and ordination of God*.
+
+So *nuptials* pertain to this life only, and are sacred from God's constitution who instituted marriage — but to the sanctification of the Sabbath they do not pertain.
+
+**Each place's custom is deservedly observed**, if it does not fight with the Word, nor is scandalous. Otherwise most true is that of *Cyprian*: *one must not honor custom, but the truth of God*; and again: *custom without truth is antiquity of error*.
+
+[*Truth manifested must yield to custom.* — *Augustine*, lib. 3 *De unico bapt.* If we wish to be prudent, and to have care of our salvation, from evil custom we should desist, and to good we should recall ourselves — and to posterity give no small occasion of imitating the same. — *Chrysostom*, Hom. 5 in Genes.]
+
+**Christian liberty is not the license of doing anything at all indiscriminately**, but includes *good order in the Church*, without which many things could be done which cannot please God. He therefore who wishes to use Christian liberty rightly in this kind ought not to *profane the Lord's Day* outside case of necessity with those works which pertain to other days. For this day is by the Apostles destined for sanctification *in place of the Judaic Sabbath*.
+
+The *Apostolic prohibition* (Col 2:16) concerns only *superstitious observers of the Jewish Sabbath* — with whom those who *transact the Lord's Day with holy works* have nothing in common.
+
+*Marriage* is instituted by God — but so also is the *Sabbath*: *ordinances of God are not to be opposed to one another*. Just as therefore the *magistracy* is God's ordinance, and yet it is not permitted on feast days to transact forensic businesses; so *marriage* remains God's ordinance, even if nuptials are not celebrated on feast days: because *God, the author of order, wants order to be observed even in those things which by him are ordained*.
+
+### Case III. Whence is it proved that the observation of the Lord's Day is from *divine precept*, as God precepted the observation of the Sabbath (Exod 20:8,10,25)?
+
+**Respondeo.** In the OT the *day of the Sabbath* was on the *seventh day, from the annunciation of the beginning of the world* (Gen 2:2) — the *seventh day* God rested from all his works which he had made, and he sanctified it and blessed it. Therefore the seventh day is now a *day of the Lord's Day*, or the *first of the Sabbath* (which is called *Sunday* by the gentiles from their custom, but by Christian liberty). *Constantine* also from the *Trismegistic institution* names the *seventh from the planets*. Rightly it is called *feria prima septimana* (the first ordinary day of the week).
+
+**The sanctification of this day flows from the *constitution of the Apostles***, who on the first of the Sabbaths gathered for the sake of divine cult *to break bread*, and *to hear divine matters* (Acts 20:7); *the first of the Sabbaths* is the first day after the Sabbath, on which day *Christ rose from the dead* (Mark 16:9; Matt 26:1; John 20:7). So *on the day of Pentecost* all disciples were *gathered in one place*, and there they attended to *public prayers* (Acts 2:1). Now the *day of Pentecost* was the *first of the hebdomad* — because from the *day of resurrection* they were counting the days to Pentecost — and it fell on the first day of the hebdomad, which is called *first of the Sabbaths*.
+
+*The Apostle Paul* also ordained that *on the first day of each week* collections should be instituted in the Church of the *Corinthians* (1 Cor 16:1-2). Therefore, that on one day they might come together, he instituted. Also *John* — who was in the spirit *on the Lord's Day* (Rev 1:10) — *not without cause called this by no other name than the Lord's Day*. From Christ therefore or from the constitution of the Apostles today assemblies are held *on the Lord's Day constituted*, which although not first in order, is called *first of the Sabbaths*, just as among the Jews all feasts were called *Sabbaths* (Lev 23:38).
+
+**It is to be observed however**, that *neither Christ nor the Apostles precepted the celebration of the first day by any legislation*, nor by any threat that on that day only sacred things could be performed — nor with anathema or punishment (as the *Mosaic Law* threatened the Jews) did either the Gospel or the Apostles threaten. The scope of the Apostolic institution was not to establish laws about feast days, but to render those *authors of pieties* who — as *Socrates* has (lib. 5 *hist. eccles.* c. 21) — *from the ancient custom of the Church, on solemnity days for the sake of prayers to come together — not from any law, but from Apostolic freedom, from custom*.
+
+To this we can add, if a certain utility of the Church should require.
+
+This *liberty* used *Constantine the Great*, who not only the first day of the hebdomad but also the *sixth day* (which is called *Friday*) commanded to be observed, so that on that day from forensic business and from other work they should abstain, and only to sacred things have leisure — because *on that day the Savior of the world was crucified*, as *Sozomen* refers (lib. 1 *hist. eccl.* c. 8) and *Augustine* (Ep. 87 ad Casulanum, and 119 ad Ianuarium c. 13). This is why the *Lord's Day* is called *day of the Lord* (Rev 1:10).
+
+**From the same liberty of the churches other feasts were introduced** — such as those of *Nativity of Christ*, *Death and Resurrection*, *Ascension*, *Pentecost*, &c. — in memory of the *chief benefits of Christ*, of which we have obtained through him, and whose memory in the Church always ought to be preserved.
+
+So also *feasts of Saints and of Angels* are freely observed by the Church, as it finds from ancient custom — provided only that the cult be not directed *to them themselves*, on whose account feasts are not instituted; nay rather in the *Papacy* they are instituted to them themselves. It is ours therefore to *correct the errors*, not to abrogate the feasts themselves (which cannot be done without scandal of the weak), but to correct that *superstition* which from *human placit* has crept in. Let us however *refer the cult to the true God*, who in his saints is to be praised, and to him let us give thanks for the benefits which through those saints he bestowed on the Church — so he himself is praised in his saints. *Virtues also of the saints* should be proposed to imitation, whose *imitators we are bidden to be* (1 Cor 11:1; Heb 13:7).
+
+*Memories of the martyrs* let us finally celebrate, in praise of the constancy of the pious and to our own example. So the Church of *Smyrna* speaks (in *Eusebius* iv c. 14) *of the birthday of martyr Polycarp*: *let us bring to memory with joy and exultation the coagulated ecclesiastic to be celebrated, for the memory of those preceding, and for the exercise and preparation of those to come*. Similar things are found in the works of the fathers.
+
+**But this observation of feasts of the saints** may indeed be omitted, if the case has been so; but *where they can be retained, they are consulted*: that both hitherto by ecclesiastical utility bear the seal, and that from divine authority not without cause imprinted in us the reverence of the divine numen, that in honor of God — who from labors of ours on the six days of the week has ceased on the seventh — we should sanctify. Which *Cyprian* names *conventicula*, of which reads in *Eusebius* (lib. 4 *De Eucharist.* c. 21).
+
+### Case IV. What must be done to sanctify the Sabbath?
+
+**Respondeo.** God himself in the *institution of the Sabbath* requires two of us: (1) *rest from labors*; (2) *sanctification of that rest* (Exod 20:10).
+
+**Rest prohibits** those works which usually are done on non-feriated days — labors of the home, servile ones, all works of the hands which are done by artificers, distraction of matters, which are among merchants, buyers, sellers, defensions of causes, contentions, and forensic prosecutions of these, and finally journeys not necessary — which especially are done with *neglect of the divine Word*, and other similar things.
+
+**These sin, therefore, against this precept, who without urgent necessity on the Sabbath undertake servile works, whether of studious business, or from excessive avarice, and study of accumulating riches, or from contempt of sacred cult** — as the common vulgar does, who especially on feriated days provoke fights, indulge nothing sanctimonious, desert the offices of their vocation — which defect afterward on the Sabbath they attempt to fill up: which matter as a *reason of their sin* is more grave.
+
+Therefore this must be inculcated to them: *the sabbath was instituted by the sanctified fathers by the mandate of Christ, that they should hold the Lord's Day in universal veneration, that on this day they should learn the divine cult, that with terrestrial things relinquished they might sufficiently attend to the divine will*.
+
+Nor is it here to be conceded, that on the Sabbath, with necessity not urging, servile works may be done that are due on other days. For this matter would take away the distinction between feriated and profane days, when on feriated days sermons and sacred things are held.
+
+But *always here is excepted the case of necessity*, so that at the same time and space, whereto sacred cult belongs, some may occur which necessity urges — as when fire consumes some house, or the outer wall besieges, or some case comes upon that the divine Word's preaching should be intermitted. Then that intermission of preaching is not to be reprehended, because *for necessity has no law*. By which pact the *Maccabees* compelled by necessity waged war on the Sabbath prosperously (1 Macc 2:41 seqq.). If at the time of harvest cutting-necessity should press on the Lord's Day, necessity on that day, so far as it can be done, commands labor — provided that divine cult be not altogether omitted, nor neglected by all. For Christ himself with his disciples on the Sabbath through the fields *rubbing corn-ears he went* (Matt 12:1); so also *itineraries which suffer no delay, we can institute even on the Sabbath* — provided also to pilgrimages we do not forget divine cult, as *the eunuch* also in his chariot sitting was reading *the Prophet Isaiah* (Acts 8:28).
+
+**In the seventh place, from these are excepted works which on the Sabbath itself for the sake of divine cult are undertaken.** For the *Israelites* used to *go to consult God, and to hear his Word* on the Sabbath (and *on other feriated days*), as is collected from 2 Kgs 4:23.
+
+[*In all these places has place that of Christ: the sabbath was made for man, not man for the sabbath* (Mark 2:27). And so the *Sabbath* looks at the *utility of man*, which is transacted with quiet of labors.]
+
+*The sanctification of quiet* happens, when it is *consecrated to sacred use*. For not is man to loiter, as brutes; but from *servile labor* to abstain in *sacred works* he should be occupied. In which works of piety, and in preserving *sacraments*, all preceding *sabbaths in the shadows*, is collected from *Justin*: *all in the town or in country field* gather in one, and *first are read Scripture*, then the tradition Apostolic, as the treasure of the ancient allotted things, as the deposit; there the *sermon of the doctor* through the assembly all attends to prayers, fourth is celebrated the *communion of the Eucharist*, fifth are collected alms for the ministers, indigent, orphans, widows, sick, and pilgrims.
+
+**Servile works** are called those by which man serves man — for man is the servant of another man. This from the works of piety turns aside our heart, and hinders that *studium* of religion which is to be preferred to all these things.
+
+So if anyone after sacred things are performed rides for the sake of recreation, or does something similar, he does not thereby *profane the Sabbath* — just as one who for the sake of recreation walks out for some distance, as Christ also *on the Sabbath went out into the country* with his disciples (Matt 12).
+
+**Servile works** are not only *sordid works of artificers*, but also *of laborers, merchants, advocates, judicial minutiae*. For one who even uses *liberal arts sordidly*, for the sake of gain on the Sabbath, works *servilely*. From *every servile work indeed on the Sabbath we must abstain*, but on other feriated days from *servile works only*.
+
+**A threefold servitude — hence threefold servile work** (following *Thomas* 2.2 quaest. 122 resp. ad 4): (1) *Slavery of sin*, when man is a servant to sin; (2) *of man to man*; (3) *of man to God*.
+
+*Works of sin* are the noxious ones — *he who does sin is a servant of sin* (John 8:34) — and this we understand not only in respect of the Sabbath, but of every day are prohibited.
+
+*Works by which man serves man* are called *corporal*, because man is the servant of another man.
+
+*Works by which man serves God* are called *spiritual* — for the *mind is the master and free, the body servant and bound*. Hence such can even be done on the Sabbath, so that the mind may not degenerate into idleness, or by *doing nothing* learn to do evil. And thus in the Sabbath to leave *work of sin* is permitted at times *corporal work*.
+
+[Jerome: *Always do something, that the Devil find thee occupied. Nothing is unstained of vice. Men by doing nothing learn to do evil.*]
+
+Whence not undeservedly is quoted the sentence of Augustine (c. 3): *Better would the Jews on the Sabbath dig, than dance in choirs, and better women on that day should spin wool, than that whole day naked and moved with their crossings before publicly. *]*
+
+**A work by which anyone serves God is spiritual** — as to meditate on sacred things, to teach the people, to preach the Word, and other similar. Hence *ministers of Christ* serve on the Sabbath, nor do they *pollute the Sabbath, but sanctify it*. So *to make fire in the hearth, to bear a burden, to pasture cattle*, others on the Sabbath is not permitted; and *priests in the Temple sacrificed*, and yet they could not corporally labor on the Sabbath without *violation of the Sabbath* — of which matter Christ speaks (Matt 12:5): *on the Sabbath the priests in the temple profane the Sabbath* — that is, they operate corporally on the Sabbath, and yet are without fault. In the same manner to teach sacred things on the Sabbath, whether by voice or in writing, is not *observance of the Sabbath*.
+
+Whence the *Glossa ordinaria* on cap. 15 says: *he who does the same as a servile work, does not profane the sabbath, but sacerdotes in the temple violate the sabbath — but without crime*.
+
+### Case V. Whether the profanation of the Sabbath is committed by attending spectacles of comedies for the sake of recreation?
+
+**Respondeo.** The *Sabbath was instituted on account of recreation*: but our *chief recreation ought to be spiritual*, arising from the hearing of the Word and communion of sacred things — in which *David* declared his singular joy of soul (Ps 84).
+
+Therefore recreation of the body is permitted, which men altogether cannot lack, as food and drink: but let it not be carnal or ferrile, such as consists in obscene games — in the play of cards, in gluttony and compotations by some. For if labors of vocation on a feriated day are prohibited, how much more of this kind recreations, which on other days whenever they are done, take away the pure minds. But let the recreation be *liberal*, whereby the body is refreshed in the Lord — as (1) *in moderated convivia*. For in the people of God *even without sin* they lived on feriated days more richly than on others, from *singular joy* which by hearing and understanding of the Law they perceived. For thus is read (Neh 8:10): *Nehemiah said to the people: eat fat things, and drink wine, and send portions to those who have not prepared, for the day of the Lord is holy, and do not be saddened; for the joy of the Lord is your strength*; and adds (v. 12): *the whole people went to eat and to drink, and to send portions, and to make great joy — for they understood the words which he had taught them*.
+
+**(2)** *Games of ball, or hoop, palaestric exercises, jaculations*, and similar can also be referred to *liberal recreation* — provided that in part they have their use in the commonwealth: only let them not be done with *neglect of sacred cult*, which ought to precede before all.
+
+**(3)** *As to spectacles of comedies* — since to act comedies, if they be honest and to *forming morals* useful, on other days is licit; nothing obstructs but that even on the Lord's Day they may be attended, when sacred rites are finished — especially *biblical ones*, which represent the sensible words of Scripture, which through them are sent. For always *plus est*, we credit *oculis, quam auribus*, as *Seneca* speaks (Ep. 6).
+
+Since therefore in attending comedies there is *honest recreation* conjoined, nor by such spectacle is *sacred cult impeded*, it is better that that time which on the Lord's Day is left over from sacred exercises be spent on *honest recreation* than on lazy idleness, or *illiberal games*.
+
+But when *the whole day* on the Sabbath is spent in *action of comedies*, even with neglect of divine cult, then *profanation of the Sabbath* is done — of which the *Author* (in the book *De decem chordis*) says: *better it would be for a woman on the Sabbath to labor, than to be present at spectacles*.
+
+### Case VI. Whether *nundinae* (markets) may be instituted on feast days?
+
+**Respondeo.** The *gentiles* did not permit *nundinae* on the *first Kalends*, because if this were done, it was observed that *the whole year was made unhappy by mournful cases*, as *Macrobius* refers (lib. 1 *Saturnal.*). What therefore the gentiles did from *superstition* dissuades us for *religion*.
+
+[*Nundinae* are so called from *nonendinae*, that is, from the *ninth day*. They are said to have been instituted with counsel, that *rustics for eight days should be in the fields, and on the ninth day should come to the city for market*. See *Cicero* in *De agraria contra Rullum pro Sextio Roscio*, *Columella* i.10.]
+
+**In general it is prohibited to exercise on a feast day works impeding the ministry of the Word and of sacred ceremonies.** Since therefore *nundination* is a matter merely *political*, by which exercises of piety are easily impeded, it were better to defer *nundinae publicas* to another day. For therefore *Nehemiah* most severely reprehended those who by their *nundinationes violated the Sabbath* (Neh 13:16-17), and *Christ* cast the merchants out of the temple with a scourge, adding from *Isaiah*: *my house is a house of prayer* (Luke 19:45-46) — not obscurely intimating that God vehemently abominates *nundinationes*, whether instituted in the temple or on the Sabbath, because in each is provided *occasion of impeding the exercises of religion*.
+
+For which cause *Caroli Magni* (Charlemagne) in his constitutions prohibited *that no market on the Lord's Day should be held in any place*; and *Brentius* (in c. 58 Isaiae) does not fear to write: *he who with contempt of the hearing of the Gospel profanes these days (feast days) with nundinationes and other of his businesses, prebents occasion, so far as in him is, of abolishing pious teaching, and sins as much against God as against himself, his family, and the neighbors most heavily*.
+
+*Feriated days are profaned by nundinations*, not only because *profane works are exercised by buying and selling*, but also because *nundinae* frequently have conjoined *myriads of many scelera* — such as lies, perjuries, frauds, impostures, *adulteries, homicides, quarrels, blasphemies, and execrations of the divine name*, with which the sacred day is *immensely polluted*. Above all, *frequent* are on *nundinae* comestations, which offer *occasion of drunkenness*, which is especially inimical to a feriated day. And this comes from the *ancient custom of the gentiles*, who called *nundinae* *feriae rusticae*, as is in *Macrobius* (lib. 1 *Saturnal.*), by which for the sake of trading rustics came together to the city, and gave feasts — whence come the *nundinariae epulae* in *Cato*, as *Hospinianus* attests in *De festis gentilium* c. 4.
+
+[*The rustic race, be it best rendered good, in cups rejoicing* — that one poems, which here can not incommodiously be applied.]
+
+And *experience testifies* that *nundinae* bear with them *feasts and potations*. For which cause in the *Constitution Electoral Ecclesiastical* art. 17 it is done: *that nundinae either on another workday be deferred, or certainly on the Lord's Day not to be permitted, before sacred things are altogether completed — that divine cult not be impeded by nundinationes, nor auditors from hearing of the Word be diverted*.
+
+### Case VII. What however about *nuptials* — is it lawful to institute them on the Lord's Day or on a feast day?
+
+**Respondeo.** Some think this can be done, on the ground that *nuptials are sacred things*, and such sacred businesses befit sacred days: they allege the custom of the place, Christian *liberty*, the Apostle's prohibition *let no man judge you in feriated days* (Col 2:16), and *urge the sanctity of the marriage* on account of which nuptials could not profane the Lord's Day; and they seek other things of this kind.
+
+**But better is the opinion of those who determine that nuptials either should be deferred to another day, or on the Lord's Day only after sacred rites are finished in the evening be celebrated** — as prescribes the *Elector Constitution* art. 17.
+
+For one who prepares nuptials is occupied with *many other businesses*, which withdraw both himself and others from sacred cult. Now *God simply wants all impediments of his cult removed* (§ 14). *Nuptials* offer *occasion of drunkenness and lasciviousness*, which vices always are to be fled, but especially fight with *sanctification of the Sabbath*.
+
+[*Of old nuptials were celebrated with utmost honesty*, says *Chrysostom* (Hom. 47 in Genes.): *never there superfluity, never diabolic pomp, never cymbals and horns, and choirs, and satanic there convivia, and songs full of every obscenity — but all honesty, all sapience, all mente*.
+
+And *Nazianzen* (adv. Iulian.) says: *the sanctification (of the Sabbath) is not in the softness of the body, nor in the variety and splendor of clothes, nor in comestations, whose fruit lasciviousness we know; nor in the flowers on the streets of the ways, for these are of the gentiles; but rather in purity of soul and mind — with sacred hymns for temperate voices, prayers for impious potations, psalmodies for hands*.]
+
+Just as therefore they sin against the *second precept* who blaspheme the name of God, against the *seventh* who steal, against the *fifth* who kill — so *gravely delinquish* against the *third precept* those who either in comestations or in other carnal pleasures indulge, or offer that occasion to the matter by their untimely nuptials.
+
+Therefore the *Emperors Leo* and *Anthemius* by their decrees wanted to remedy this evil: *feriated days*, they say, *dedicated to the majesty of the Most High, we wish to be by no pleasures occupied*. For which causes *Justin* also abolished nuptials on the Lord's Day, and *Bernard* (Hom. 96 in Luke) writes: *from the elders it was established, that on two days before the Lord's Day neither nuptials nor other public convivia be celebrated — not because these per se are illicit, nor that from merits of fastings should stand expiation of sins, but that by sobriety of two days men should be rendered more apt to seeking that one thing necessary — that is, to hearing the Word of God, and perceiving the doctrine of religion on the Lord's Day*.
+
+Always also there have been *orthodox Theologians*, who with pious zeal contradicted nuptials instituted on the Lord's Day. This requires our zeal, which admonishes us that we abstain from *every appearance of evil*, and from every occasion of sinning; nor let us place a stumbling-block for others — since comestations do not fight with sanctification of the Sabbath. For *woe to him through whom scandals come*.
+
+*The reasons which those use who feel the contrary are of no great moment.* Sacred businesses befit sacred days: but one must distinguish between works pertaining to the *kingdom of Christ*, and to *this polity*: both are sacred, that is, good and pleasing to God: but *those are truly holy*, and *competent to the sanctification of the Sabbath*, which pertain to the sanctification of the divine name, and to the salvation of souls — as is *preaching and hearing of the Word*, *use of the sacraments*, *prayers*, *pious readings and meditations* &c. The rest pertain to this natural life; though in themselves good, yet they are not in themselves sacred, but *sanctified through the Word and ordination of God*.
+
+So *nuptials* pertain to this life only, and are sacred from *God's constitution* who instituted marriage — but to *sanctification of the Sabbath* they do not pertain.
+
+Each place's *custom* is deservedly observed, if it does not fight with the Word, nor is scandalous. Otherwise most true is that of *Cyprian*: *one must not honor custom, but God's truth*; and again: *custom without truth is antiquity of error*.
+
+[*Truth manifested must yield to custom* — *Augustine* lib. 3 *de unico bapt.*: *if we wish to be prudent, and to have care of our salvation, from evil custom we should desist, and to good we should recall ourselves — and to posterity give no small occasion of imitating the same* — *Chrysostom* Hom. 5 in Genes.]
+
+*Christian liberty is not license of doing anything at all*, indiscriminately — but includes *good order in the Church*, without which many things could be done which cannot please God. He therefore who wishes to use Christian liberty rightly in this kind ought not to *profane the Lord's Day* outside case of necessity with those works which pertain to other days. For this day, *in the place of the Judaic Sabbath*, from the Apostles was destined for sanctification.
+
+The *Apostolic prohibition* (Col 2:16) concerns only *superstitious observers of the Judaic Sabbath* — with whom those who *transact the Lord's Day in holy works* have nothing in common.
+
+*Marriage* is instituted by God, but so also is the *Sabbath*: *ordinances of God are not to be opposed to one another*. Just as therefore the *magistracy* is God's ordinance, and yet it is not permitted on a feast day to transact forensic businesses; so *marriage* remains God's ordinance, even if nuptials are not celebrated on feast days: because *God, the author of order, wants order to be observed even in those things which by him are ordained*.
+
+### Case VIII. Whence does it happen, that today less severely is the violation of the Sabbath punished, than in the OT, where death was the penalty?
+
+**Respondeo.** In the OT capital penalty by three repetitions was decreed (Exod 31:14-15): *all who make work on this day shall die* — whose execution is read in Num 15:32-36. Today so great a rigor is not observed, but *transgressors of the Sabbath by the magistrate are arbitrarily punished*.
+
+Of this diversity of reasons some give this: because *in the Sabbath of the Jews two were to be observed*: (1) the *type* of it — the sign of divine grace, as it is written (Exod 31:13-17): *this is a sign between me and you, in your generations, that ye should know that I am Jehovah who sanctify you*. (2) *Order* — which in the Church was to be preserved.
+
+Because therefore *the transgressors of the Sabbath* not only *violated ecclesiastical order*, but also that *sign of grace* — and they held it in *contempt* — God wished by this severity in those *contemners* to animadvert. Today the Sabbath is sanctified not so much *as a sign of grace* as *as a part of ecclesiastical order*: therefore *violators do not incur the penalty of capital*.
+
+**But — with peace of them said — still today the sanctification of the Sabbath includes both *representation* and *order***: representation indeed and commonstration of *our rest* by which peace, justice, and life in Christ we enjoy, proposed in this — that *Christ rising from death made a certain beginning of the new hebdomad*, in which we shall have *Sabbath from Sabbath*. Which commonstration those disturb, and as much as in them is, wholly overturn, who *rashly violate the Sabbath*.
+
+Therefore they ought to be *gravely punished by the magistrate*, especially, if they not only do not cultivate the divine cult, but even with *profane, impious, blasphemous works or sermons* contaminate the day — which *malice* by prison, or by fastings, or by other media (which we commend to the political magistrate) is to be coerced. Since the *magistrate is guardian of both tables*, this severity of God admonishes him that *revenge is to be exacted from him both of the first and of the second table*.
+
+**It was, however, God toward the Jews on account of the transgression of his precepts always more severe than in the NT** — so that *sons immorigerous* (Deut 21:18), *newly-espoused Hilias* (Deut 22), those *apprehended in adultery in another's chamber* (Deut 22:22), *blasphemers*, and *violators of the Sabbath* (Lev 24:12,23) he judged to be *punished with life*, which today does not happen. For, as *Augustine* has (*Contra Adimantum* c. 17): *that was the time of severity, today of charity; because then we were under the law by which we were bound, today under grace, so that us to do those things which are right, he *blandly invites*. So he writes (Contra Adimantum c. 17): *just as in the time of charity goodness*, so in the time of *fear of God severity* is chiefly commended. And *since it was still not appropriate before the advent of the Lord to unveil the people from the legitimate sacraments of the figures*, they were not invited to understand things signified, but were *justly compelled to fulfill them*. For they did not yet adhere to God through the Spirit, but through the flesh they served the law*.
+
+Although those capital penalties of the Sabbath *no longer are urged*, yet we are admonished by that severity of God — that *slight-esteemers, transgressors, violators of the Sabbath* not only *incur temporal penalties imposed by the magistrate*, but also have merited *eternal death*: therefore the Lord *threatens them with inextinguishable fire* (Isa 66:24).
+
+But it should be noted, that *observation of the Sabbath is the clausula of all precepts of the first table*, which pertain to divine cult. He therefore who *violates the Sabbath* makes himself liable of abdicating the *whole divine cult* — which cause is not the least, why violators of the Sabbath of this kind should be *more gravely punished* than transgressors of other laws.
+
+*If today too it were observed*, greater reverence of the numen would be in men, and diminution of public calamities would be hoped: for *the punishment of one is the fear of many*, and *more by punishments are men called back from wrongdoing, than by prizes invited to duty*.
+
+**But God constituted the magistrate as *distributor of prizes and penalties*, who if he himself is implicated in the vices which he ought to punish in others, or in the punishing of others is more mild — God himself is executor of his laws, in master equally as in disciple, in lord and in subject**. Whence are so many examples of fatal cases by which God has taken vengeance on violators of the Sabbath — as those who on the Sabbath, carrying grain into the barn, were struck by lightning and consumed together with the whole grain and the barn erected by fire; those who during the sermon on feast days by comestations or gambling with mutual wounds cut down themselves; those who neglecting the sermons, on the feast day journeys not necessary, in the waters miserably perished. Of which matter the historians supply many examples, especially of the pious *Iohannis Manlius*.
+
+— ❦ —
+
 # Liber III. Toward Celestial Spirits
 
 *De actionibus hominis circa spiritus coelestes — On the actions of man toward celestial spirits (angels, demons, astrology, magic, divinations).*
