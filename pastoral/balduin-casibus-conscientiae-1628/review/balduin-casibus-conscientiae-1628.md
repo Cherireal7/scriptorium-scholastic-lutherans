@@ -3712,6 +3712,422 @@ Then for those *standing*, that they *see that they fall not*: therefore let the
 
 — ❦ —
 
+## Chapter XII. On Cases of Conscience Concerning the Lord's Supper
+
+*De casibus conscientiae circa Coenam Dominicam.*
+
+The *Lord's Supper* is a *Sacrament of the New Testament* instituted by CHRIST in that night in which he was betrayed, to this end — that by the most precious pledge of his body and blood together with the bread and wine exhibited to us, we individually believing might be more surely confirmed concerning the obtained remission of sins and the grace of God.
+
+Its rightful use is *one of the chief parts of divine cult*, not only on account of the mandate of Christ, but also on account of the *spiritual aliment* by which, receiving from this Supper, we are rendered more prompt to serving GOD. For truly *the taste of good things comes*, as *Chrysostom* speaks (Hom. 83 *in Matth.*): *when we are called to CHRIST, we are stirred to prestate freely, that whereto we are more tardy*.
+
+But since this part of divine cult is subjected to many *scruples* on the part of those using it, that these not be left in suspense, we shall propose in order those scruples, and, as far as it can be done through us, examine them.
+
+### Case I. Since the Holy Supper is not salutary, unless it be worthily used, the first care of the pious is what is to be done, that we may worthily accede to this sacred table
+
+**Respondeo.** Deservedly this *first care* of the pious is in this part of divine cult: for *he who eats and drinks unworthily, eats and drinks judgment to himself* (1 Cor 11:29). Now none of us is worthy of this sacred banquet either by nature or by any habit, but for all of us it must be confessed, that this benefit by which GOD dignifies us is *above our merit*, since there is no comparison between us sinners and the most sanctified flesh of the Son of God, from which *we not only have not any suppositum, but we use it as a natural participation of nature*, as *Cyril* speaks (in *John* 10; and 1 John c. 3). And this very *acknowledgment of our own unworthiness* is the *first grade* of the *usurpation of the Supper*.
+
+[*Therefore we are members of Christ, and from his body we participate; and from these being taken and drawn we do them, that they may be in CHRIST and Christ in us*. — *Hilary*.]
+
+*Dignity therefore of those rightly using this sacrament* is to be considered both *on the part of God* and *on the part of men*. On the part of *God*, who alone dignifies us with this convivium, in which — divinely arranged — he offers us the *aliment of the soul*, and gives at the same time grace by his own, that we may be participants of this benefit. On our part, all that dignity consists in *worthy preparation*. For to nuptials, to convivia, to the colloquy of most excellent men we prepare ourselves, lest with unwashed hands (as they say) we come into their sight. How much greater preparation shall be needed, when to the table of the Lord — where the Son of God himself is host and food — in the sight of the most holy Trinity and holy angels we appear? Therefore the ancients acclaimed to the communicants: *sursum corda* — lift up your hearts! Because *then there is no place for earthly cares or carnal desires*.
+
+**That preparation involves the following members**:
+
+**(1)** *Dijudication of the body of the Lord* — for this cause the unworthy judgment eats and drinks: *not discerning the body of the Lord* (1 Cor 11:29). Diligently therefore should be expended what that food of the Lord's Supper is, and how much it differs from other vulgar meals.
+
+This dijudication involves the following: **(a)** here *not bread alone and wine* are set forth, but *the very body of the Lord*, which is given to us for death; *the blood of the Lord*, which is poured out for us — as the words of institution teach.
+
+[*Not yet enough was it to the love of the Son of God, that he became man for us; he wished that also he should become food for us.* — *Tauler*, Serm. 2 *de cor. Dom.*
+
+Hence *Leo* (*Serm. de jejunio*): *So we ought to communicate the sacred mystery, that thou hast no dubiety of the truth of the body and blood of the Lord: for this is received by the mouth, which is believed by the heart.*]
+
+**(b)** Other foods sate natural hunger, and nourish the body to this natural life; but this food so sates spiritual hunger, that it also excites and augments it. For the more often anyone uses the Lord's Supper salutarily, the greater is his desire for this most salutary board. For as *Cyprian* speaks (Serm. *de Coena Domini*): *the use of this flesh is a certain of the vine, and desire increasing itself extends it: through which sweetness of charity is imprinted in us, that it may cleave to our palate, and, infused into our viscera, penetrating and imbibing all the intimates and recesses of the body*.
+
+**(c)** Other foods are transmuted into the substance of the recipient; but this food transmutes the man himself into itself. These things taken and drunk make it that *Christ dwells in us, and we in Christ*. *For that Christ is in us not otherwise than truly, when he himself is in us; nor otherwise than corporally we in him, and if he takes* — as *Hilary* speaks (lib. 8 *De Trinit.*). Which consideration kindles in us reverence for this heavenly banquet, renders us devout and circumspect, and impedes all those things which could render this food, in itself most salutary, noxious and perhaps *pernicious* to others.
+
+**(2)** *Probation of self.* Preparation requires *probation of self*: *let a man prove himself, and so let him eat* (1 Cor 11:28). This probation consists most in the *serious examination of our whole life*, according to the precepts of the Decalogue — which is why usually the *penitence of sinners* is proposed, and afterward *absolution*, and the *amendment of life* is promised.
+
+Let each therefore who desires this Supper thoroughly *dijudicate his own conscience*, and without hypocrisy with fear and trembling accede to the holy table, bringing a mind truly humble, meek, abhorrent from sins, and desirous of perfect sanctimony — such as in this weakness of our flesh can be done. For, *however anyone is bitten with sin, provided he has not the will of sinning in the future, and communicates satisfaction with tears and prayers, and accedes to the divine ministration, which usually is wont to grant remission by pious confession, let him accede to the eucharist tranquil and secure* — as *Vasquez* speaks (in *Concilium Toletanum* de consecration cap. 43).
+
+**(3)** *Divine consideration.* Preparation requires the *divine consideration of the most sacred Supper*, which is conjoined with the highest joy — arising from the *consideration of the benefits of Christ*, above all of that most narrow *conjunction of ourselves with him*, whereby he wished us not only to adhere to him mind and soul through faith, but also to procure the *fellowship of our bodies with his body and blood through the communion in the sacred Supper*. By which reason he *luculently proved his intimate affection toward us* — which *Chrysostom* (Hom. 60 *ad populum Antiochenum* c. 32) expresses in these words: *what indeed also is not more marvelous than that he loved us to death: even so no one is left in indifference, but with Job we may saturate ourselves on his flesh, from which they said, "who shall give us his flesh, that we may saturate ourselves?"* (Job 31:31).
+
+[*On account of this both body and cup are mixed together, that we may be conjoined with him.* — *Chrysostom*, Hom. 22 in 1 Cor.]
+
+**(4)** *Grateful memory of Christ's benefits.* Preparation requires *the grateful memory of Christ's benefits*, above all of his most holy passion and death — which each should apply to himself by true faith, and not doubt that these benefits pertain also to himself; for which he should be grateful to Christ his Redeemer.
+
+This too is *to commemorate the death of the Lord*, which *Paul* postulates in the usurpation of the Supper: and this *meditation abstracts the heart of man from the desire of earthly things, elevates it aloft, mitigates all the tempests of this age, and gives a taste of the age to come*. And this meditation alone prepares the soul of man for this table, so that it makes him almost fit alone to worthily perceive it. For as *Chrysostom* elsewhere speaks (*Ad Diligenter discipulos*): *what art thou, who art called; and whither from what he set thee; how much thou lovest thyself; when it were, unless we knew we were separated*.
+
+[*This is the price of our redemption, the monument of the redeemer, food of the redeemed.* — *Augustine*, *De virginit.* c. 8.]
+
+**(5)** *True reconciliation with the neighbor.* Preparation requires *true reconciliation with the neighbor*. For as by faith toward God, so by charity toward the neighbor our heart ought to burn, if we wish worthily to use this sacred sacrament. This Christ demands of us, when about to offer our gifts at the altar, he wills us first to be reconciled with our brother (Matt 5:23,24).
+
+*[The Holy Supper is a sacrament of union — a sign of unity, a bond of charity.]*
+
+**(6)** *External discipline of the body in food and dress.* For preparation the *external discipline of the body in food and dress* pertains. For we must live temperately, that we may have leisure for prayers, and be able to expend this mystery. In dress also let there be no levity, but all be honest and decent: for those external things are often *characters of the mind*, which is ill disposed in those who accede to this sacred table as to feasts and dances.
+
+Let us accede therefore *with pure conscience, humble heart, true faith, holy purpose of amending life, with pious desire, and sincere love toward the neighbor*. *Let us see*, says *Chrysostom* (Hom. 83 *in Matth.*): *with what care nurses receive infants with which they arrive to the milk-station and grasp them; and let us with much greater desire come to this table and to this cup of spiritual milk we suck as suckling infants of grace of the Spirit — nay rather, let us have grief, and one at heart, if we be deprived of this spiritual aliment*. More on this preparation for the sacred Supper, see in *lib. 1 passion. Christi typ.* 2 comm. 5.
+
+### Case II. Who are those who accede to the sacred Supper unworthily?
+
+**Respondeo.** Unworthy are:
+
+**(1)** *Impenitent* — all who with sins against conscience are polluted, and have not yet conceived serious grief about them, much less have they the purpose of amending life.
+
+**(2)** *Infidels*, who deny the *presence of Christ's flesh and blood in the Supper*, or otherwise about the person and merit of Christ do not rightly feel.
+
+**(3)** *Blasphemers*, who with impure mouth *dishonor the sacraments and the wounds of Christ*, and yet receive his most holy body with impure hands, and admove it to the execrable and nefarious mouth.
+
+*All these eat judgment to themselves*, and *become guilty of the body and blood of the Lord*, and therefore incur most grave penalties. For, as *Chrysostom* (Hom. 82 *in John*) speaks: *if any coin the royal purple, no otherwise than as if they should smell it, they punish. Would that any of us should confess to Christ's body accepted, than that they should suffer supplice, who nailed him to the cross?*
+
+When anyone therefore understands himself culpable of this unworthiness, let him abstain from the sacrifice, and count himself among the dogs and swine, before whom this pearl is not to be cast. For although he can deceive the eyes of men by his simulated piety, yet let him not think that he can deceive God, whose eyes behold the heart. But if in this manifest unworthiness he should accede, and by that name should be convicted by his own conscience, let him not have that matter for jest, but among the most abject to be set, unworthy that he come into sight of God or of pious men — like one who has deceived the ministry of the Church, and *addicted himself to judgment, that is, to eternal damnation*.
+
+Yet let him not utterly despair of the grace of God, but even this itself let him consider among the maximum sins, for which Christ died. Let him therefore rise up, spare himself not, but accuse himself, seek remission on account of Christ, and hope with faithful heart, and confirm this his confidence by more worthy usurpation of the Supper — with *serious purpose of perfect amendment*.
+
+And that it may stand to all, that this purpose is not simulated, in the matter itself let him testify that he has abstained from blasphemies, rapines, impure libidines, and similar sins, with which he was hitherto polluted; let him do good to the neighbor whom he had held in hatred, and by the fact itself let him testify that he is *wholly changed*. For he who does not perform *real penitence*, in vain glories in words about amendment.
+
+*Unworthy indeed to admit to the usurpation of the Supper is not permitted* — not indeed, as *Chrysostom* (Hom. 83 *in Matth.*) speaks: *not small punishment threatens us, if anyone whom we know to be evil, and to bear away nothing profitable from this participation: knowest thou, than to admonish another, that we sooner die, than to give the Lord's body to the unworthy? So too the blood of one of us should suffer, than to admit the unworthy — except that we might concede*.
+
+Yet when *serious signs of penitence are present*, and hope of amendment appears — so far is it, that such a one should be warned off, that he should rather be reckoned among the most worthy convivia of this banquet, who from the cup of the Lord draws *refreshment for his soul*. Hence *Paul* did not therefore repel the *Corinthians* from the Supper, although he had indicted penalties on them for their unworthy use — but that they *repent, dijudicate themselves, and otherwise than hitherto they had been accustomed, come together to eat the Eucharistic bread*, he bids (1 Cor 11:34).
+
+### Case III. If someone of malefactors — a homicide, adulterer, or one who has enormously committed himself in some crime — has obtained the remission of the ordinary penalty from the Magistrate, and has also returned into grace with those whom by his private delict he offended, can he securely accede to the sacred Supper, before he by public deprecation is reconciled with the Church?
+
+**Respondeo.** We incline to the negative part, for the following causes:
+
+**(1) *Reason 1.* Ecclesiastical.** Because a malefactor of this kind has offended by his crime not merely certain private persons, but also the *whole Church*, has cast scandal: therefore he was *excommunicated*, and by true members of the Church is to be held as a *morbid member*, until he does *public penitence*, according to the Apostolic saying: *if any is named a brother, and is fornicator, or covetous, or serving idols, or reviler, or drunkard, or rapacious, with such do not even take food* (1 Cor 5:11). Therefore that anyone should free himself from these bonds of excommunication, it suffices not that he has satisfied the magistrate or certain private persons, but he must return into grace *with the Church whom he offended*: which is done by *public deprecation*.
+
+**(2) *Reason 2.* Scandal.** *The scandal cast on the whole Church is not to be lightly esteemed*, because *CHRIST holds one of the least offending as worthy of being drowned in the ocean, with a millstone tied about his neck* (Matt 18:6). Now that scandal by no other medium than public deprecation can be taken away.
+
+**(3) *Reason 3.* Conversion.** Since the magistrate may indeed remit the temporal punishment to the malefactor, yet does not convert his mind, this pertains to the ministry, which is the *ministry of reconciliation*, which operates true penitence through the Word — of which the sign is *public deprecation*.
+
+**(4) *Reason 4.* Distinct fora.** *The penalty or its remission from the magistrate pertains to the forum of the same alone, and justifies no one in the forum of God*. Even if therefore the magistrate has either remitted to the malefactor, or exacted penalties from him himself, yet has God not remitted — unless by public deprecation it stand of the serious grief of the sinner.
+
+**(5) *Reason 5.* Levitical parallel.** Hither pertains what the Lord in the Law says (Lev 19:20): *if any lay with a slave concubine, he indeed with flagello is to be beaten by command of the magistrate; but afterward for his delict he was bound to offer at the door of the tabernacle of testimony a sacrifice for sin, and let the priest pray for him, that he might be propitious to him in the sight of the Lord* — that public deprecation, common with the Church (Lev 15:20 seqq.).
+
+**(6) *Reason 6.* Practice.** Hence it was done without doubt, that the *Electoral Constitution*, Art. 10, on the notorious *malefactors from whom the magistrate has exacted no ordinary penalty*, enjoins that, for averting scandal, on certain Lord's Days, before the doors of the temple they stand, holding white staves in their hands — which is a sign of penitence, and until they be received again into the Church. This rigor was formerly observed, so that *Ambrose* the Emperor *Theodosius* forbade to enter the temple on account of the same slaughter of Thessalonians, until publicly he did public penitence. But the severity of this discipline, along with many other most useful constitutions, has now almost collapsed: therefore it is no wonder if atrocious crimes grow.
+
+Yet whoever has still a wounded conscience, in this kind will be his own accuser, and with those whom by his delict he publicly offended, will not refuse to return into grace publicly, since otherwise concerning true penitence — without which the reception of the Supper cannot be salutary — he must always doubt about himself.
+
+**How public deprecation is to be made:** Public deprecation can be done thus — that the malefactor (with his name suppressed indeed) through the minister of the Church indicate that he has serious grief of soul because of the perpetrated public and scandalous crime, ask pardon, and intercession with God, and promise amendment of life. Thus with tranquilized conscience he can accede to the sacred Supper.
+
+### Case IV. Whether those who litigate in the forum are worthy of the sacrament of the Supper?
+
+**Respondeo.** This is one of the *chief causes* why we ought not to be so ready for forensic lawsuits — that is, so that we may be prepared for the use of the sacred Supper: for it is difficult to lay aside all acrimony toward one with whom we litigate, so that our heart may no longer accuse us on that name. Whence *Paul* writes to the Corinthians: *there is altogether a delict in you, that you have judgments among yourselves; wherefore not rather do you suffer injury?* (1 Cor 6:7).
+
+This is the cause why some litigants in court, while the suit lasts, plainly are not admitted to the sacred Supper.
+
+But we cannot simply approve this. For from the sacred Supper *nothing repels save sin against conscience*. But to litigate in the forum *per se* is not sin: for Christ himself in judgment stood, and being struck on the cheek, defended his cause against the unbelieving judge (John 18:23).
+
+Yet is it not right that Christians altogether should proceed to legal suits, but rather to remit their own right, than to contend in court. If however on account of the gravity of the cause and the importunity of the adversary it cannot otherwise be done, it is indeed licit that he commit the whole business to the judge — provided that he himself from the sentiment of his mind has remitted to the adversary, and has conceived no hatred against him.
+
+This is the *fraternal reconciliation* which suffices for worthy usurpation of the Supper: but *cognition of the cause in court is not thereby removed*. Where, if to the accused a penalty be imposed, it is not to be held as *private revenge*, but for the exercise of public judgment — which we cannot impede, although privately with the adversary we are reconciled. Which reconciliation, if it be without hypocrisy, does not deny to the other party the offices of piety and charity, but does in this kind what Christian charity requires — negotium controversum committit judici. He who has such a mind toward his adversary — even with the suit pending — can use the sacred Supper.
+
+*But we least of all can approve* that the patrons of causes dissuade their clients from colloquy and conversation with the adversary, on the ground that the laws prohibit, and that the goodness of the cause is impeded by such conversation. Whence it happens that litigants frequently accede at the same time to the sacred Supper, and yet neither dignifies the other with even a look or a greeting. Which certainly nothing can be more alien from the office of a Christian man. For such gestures are not obscure *indications* of an angry mind and of one ill-disposed toward the neighbor — and Christ judges that anyone even by gestures of this kind can render himself liable to most grave penalties. Therefore he dissuades, that whoever wishes to offer his gift, first be reconciled with his brother (Matt 5:23,24).
+
+*The usurpation of the sacred Supper is a sign and pledge of mutual love*, that just as from many grains one bread is made, and from many berries wine flows into the cup — so also communicants should be *one heart and one soul, loving one another not in words only, but in deed and in truth* (1 John 3:18). With what mind therefore do they betake themselves to this sacred table, whose hearts still burn with hatred toward the neighbor? These indeed before the face of God are *homicides*, as *John* testifies (1 John 3:15).
+
+Let each therefore see, whether without hatred and wrath toward the neighbor he uses this sacred banquet — let him expel from his soul all rancor, wish his adversary all prosperity, and for the reborn nature declare his mind well-affected toward him in the matter itself. And thus even with the suit pending, with good conscience, one can accede to the sacred Supper. For the Gospel does not remove polities, and public judgments do not provide *fomenta of hatreds*, but rather remove them if one uses them rightly.
+
+### Case V. Whether one dwelling among those who feel not rightly about the sacred Supper, can to himself and to his own extend the sacrament of the Supper according to the institution of Christ?
+
+**Respondeo.** It can happen that anyone by reason of his office dwells among *Papists or Calvinists*, who feel not rightly about the Lord's Supper. Here before all he must know that it is not permissible for him to receive the sacrament from them, whose substance rightly he does not think. For with whom we participate of the same Supper, with these we have communion, and their doctrine we tacitly approve. *Paul* however does not want us to have communion with the unbelieving: *ye cannot drink the cup of the Lord and the cup of demons; ye cannot be partakers of the Lord's table and the table of demons* (1 Cor 10:21). Then he cannot altogether abstain from the Lord's Supper, since it is Christ's mandate that we use it more often.
+
+**The safest way, therefore, in this case is** — to depart from such who do not have the doctrine of Christ concerning the sacraments sincere and uncorrupt, and to seek domicile elsewhere — that in no manner should one be *yoked with the unbelievers*, or be compelled or seem to be; just as *Abraham* by divine command from his idolatrous people came out (Gen 12).
+
+If however for weighty causes he cannot change his domicile, in some vicinal *orthodox Church* let him seek with his own the use of the sacred Supper; or if hindered by disease he cannot betake himself elsewhere, with true faith let him apply to himself Christ with his merit, and not doubt that in this case of necessity, even without the usurpation of the sacred Supper, he may have God propitious. For here has place that of *Augustine* (Tract. 24 *in John*): *believe, and thou hast eaten*.
+
+*But that anyone privately should extend the sacred Supper to himself or to his own is not permitted* — because this is the act of the sacred ministry, which private persons without profanation of the sacrament cannot exercise. Nor do we have the mandate of Christ, nor is there such a necessity of this sacrament as of baptism — which in the case of necessity can be extended even by laymen. He would also have the *appearance of some schism*, which the magistrate would not tolerate, and would expose him with his own to great peril.
+
+*But if the magistrate should prohibit even the use of the Supper among vicinal orthodox*, then the safest of all is *to desert the office* with all its dignity and other worldly commodities, and *to seek domicile elsewhere*, where liberty is conceded to his conscience. For nothing in the world ought to be so dear to us, that it should be preposited to so preclarous a treasure of the soul.
+
+### Case VI. Whence can the laity be certain that they act rightly, when they receive the sacred Supper *under both kinds*?
+
+**Respondeo.** *Laity to the Papists are all who are not shaven and anointed* — although otherwise most erudite and constituted in high authority; nay, not even kings and princes are excepted. All these in the usurpation of the sacred Supper they *exclude from the use of the cup*, and bid them be content with one species only — as is notorious from the *Council of Constance*.
+
+Which since we say to be false, and on that account accuse the Papists of *sacrilege*, it behooves the laity to have *solid foundations*, that in usurping both species of the sacrament they do not sin.
+
+**First, therefore, them can confirm the *institution of the sacrament***, in which Christ commanded not only bread to be received with the body, but also *wine with the blood*; nor did he conjoin bread with the blood, but with the body, and wine with the blood; and on the other part, not only some but all, and indeed *διαρρήδην* (expressly) — as of the first he bids to participate.
+
+They except indeed that all note only the Apostles: but by this reason the sacrament would not have been instituted for the laity.
+
+*Becanus* says (in *Disputatione de communione sub utraque specie* c. 1): *Christ instituted the Eucharist twice — first at Jerusalem before his passion under both species for the Apostles, and afterward in Emmaus after the resurrection, under one species only for the laity*. But this is a fiction. For Christ instituted no sacrament in the state of glory, but both before his death. And of the sacred Supper in species — whose institution the Apostle Paul delivered to the Corinthians (who were altogether laymen), that *the Lord Jesus instituted it in that night in which he was betrayed* (1 Cor 11:24). Add that those *two disciples of Emmaus* were not laymen — but even by the Papists it is pleased that they were from those seventy whom Christ had earlier sent to teach. Nor is there any mention of the body or blood of Christ, but only of the *breaking of bread*: nor is there mandate of taking or commemorating Christ's death, nor promise of remission made to the users. Nothing therefore has this history of Emmaus in common with the institution of the sacrament — from which we conclude that in the first Supper, under the name of the Apostles, the cup was given to be drunk by all Christians, who also the blessed bread from Christ's mandate they eat — whom the Apostles represented.
+
+**Since therefore we must do what Christ in the institution of the Supper commanded to be done**, no one can doubt but that to us also *the taking of the cup* pertains.
+
+**Then the Apostle Paul writes to the whole Church of the Corinthians** (in which the greater part was of laymen), and repeats the words of the first institution of Christ, and not only bids *bread to be eaten*, but *the cup to be drunk* (1 Cor 11:26,27,28,29). Now the things which are written to the Corinthians pertain to us all — because *Apostolic tradition* (which name it takes from the institution of the Supper) *obliges all*; all from the *cup of demons* it warns off (v. 21); all it bids *to announce the death of the Lord* (v. 26); all it wills *to prove themselves* (v. 28).
+
+**Third**, that we receive both kinds of the sacrament, the *sacramental union* requires — which from the institution of Christ unites bread not with body and blood simultaneously, but bread separately with body, and wine separately with blood — whence it follows that each part is also to be received separately. Which overthrows that fictitious *concomitance* of the Papists: for although body and blood be never separated, if you consider their natural conjunction — yet as to the *sacramental union*, the body is received separately from blood, and blood separately from body in the Eucharist; for so Christ willed it to be done.
+
+**(4)** Let it be considered, that the Eucharist is a *sacred testament confirmed by the death of Christ*, which no one spurns, or to which anything else is superadded — as *Paul* speaks (Gal 3:15) — and the Jurists say (*l. 7 de nostro* &c. *de reg. juris*): *a testament, since it is a certain individual, cannot be partly acknowledged and partly repudiated*. Since therefore each pious is *heir of this testament*, he deservedly enjoys every part of the legacy, and if the other part be denied him, not unfittingly would he complain of being defrauded.
+
+**(5)** *The chief solace* which we draw from the usurpation of the Supper postulates the use of the cup. For from it we drink that *blood which was poured out for us in remission of sins*. For, as *Luther* writes (*Confess. major.* Sec. *Lord's Supper*): *the mandate of Christ in the sacred Supper embraces the cup: the cup contains wine; wine contains the blood of Christ; the blood of Christ contains the N.T., because it is the blood of the N.T.; the N.T. contains the remission of sins; the remission of sins is conjoined with the grace of God*. Of all these the laity are deprived, when the cup of the Lord in the Holy Supper is snatched from them.
+
+**(6)** Every one of the faithful should know himself *bound to commemorate the death of the Lord*; but that commemoration cannot be *integral*, unless he receives the whole sacrament — because the death of Christ is not integrally signified by one species. For that annunciation of the death of Christ consists in the *faithful recollection* that Christ has not only delivered his body for us to death, but also poured out his blood for us, in remission of sins. He therefore who perfectly wishes to announce the death of the Lord cannot suffer himself to be defrauded of the blood, which was poured out for his sins, of which the sign and seal is in the Supper delivered to us.
+
+**(7)** Finally, comes here also the *consent of the Church*, which in olden times conceded to the laity the use of the Supper *under both kinds* — which is so true that, according to *Ambrose Osiander* (*Refutatio Valentini Antheani*), *when the Church of the Old Testament held it in continuous religion*, unless it had learned from the *Papist fathers*, it would still today be preserved and Popish be. So it happened that not only the fathers proceeded from priests to laymen, but also that the sole species of bread was concluded to be sufficient. This can be understood also from other fathers, of whom in this very matter of doctrine the most constant *martyr John Huss* opposed his blood to the flames.
+
+To which we oppose all orthodox fathers, and among the first *Ignatius* in his *Epistle to the Philadelphians* (c. 6), who objects to us, that we should use *one faith, one preaching, one Eucharist, because one is the flesh of our Lord Jesus Christ, and one blood of his, which was poured out for us; that also is one bread, from all to us distributed*. Even further, even *Pope Gelasius himself*, who in *Canon Law* (in *Concilium comprehendendum* dist. 2 *de Consecratione*) sanctioned, that *whoever have taken only the portion of the sacred body, and from the participation of the sacred cup abstain, either take the sacrament integrally, or from the integrals be warned off, because the division of one and the same mystery cannot happen without great sacrilege*.
+
+These things concerning the pious layman it suffices to know, that with good conscience under both species he can use.
+
+### Case VII. If the magistrate in his territory in favor of tyranny should permit that the sacred Supper of the Eucharist be received *under both species*, but under adjoined conditions
+
+**Respondeo.** Any *Christian* convinced in his conscience that the doctrine of the Gospel is the very Word of God ought to know that *the sacraments are visible signs of invisible grace comprehended in the Word*: by which grace is offered to each in species, is applied through faith; moreover also *public and quasi-external confession* is given, which whoever uses the sacraments ought to *preserve to the last breath of life*. Therefore he is bid to use the sacred Supper *in commemoration of Christ*, and to announce his death.
+
+Which being pre-supposed, whoever knows that no one, on account of any *tyrannical necessity*, can intermit the legitimate administration of the sacraments — for this would be to omit the confession of faith and *to deny Christ*. For Christ himself opposes *denial* to *confession* (Matt 10:33). Now it is the same thing whether the whole Christ is denied, or part of the doctrine of Christ. All things therefore rather ought to be lost which can be lost in the light of life, than that from heavenly doctrine even one *apex* be denied. If something on that account must be lost, let there be to us the solace of Christ's promise concerning large *compensation* (Matt 19:29 and Mark 10). See more concerning this case in *Luther*, Tom. 4 *Ienensi Germ.* fol. 55, 76 seqq.
+
+### Case VIII. What if in defect of bread and wine, sacred Supper can be received?
+
+**Respondeo.** They are not a few places in which bread of pure wheat, and natural wine, fails — as in certain parts of *Norway*, where the wine on account of the intensity of the cold quickly congeals and is corrupted; and in certain places *of the Orient*, where neither grain grows, nor can it from elsewhere be imported or long preserved, but on account of the excessive heat of the sun and other intemperance of the air is quickly corrupted. Therefore some, in common repast having tasted, are not admitted (which counsel is praised by *Aquinas* in Sent. lib. 4 dist. 8 quaest. 11, where he adds: *if the necessity of the matter requires — since it is unbecoming that among terrestrial things the sacred Supper be administered corporally, in which all foods and drinks are contained in a most excellent liquor*). *Melanchthon* also (*Ad Thomam Tiltam*) writes: *from the sentence of Christ he does not err, who in a case where there is no plenty of bread and wine, or as it is at some time no time, uses instead of it another substance, which of another wonder in these regions may be received*.
+
+*But we with saved conscience cannot subscribe to this opinion in all things*, and therefore judge that the sacrament under other than *true wine and true bread species is not to be received*. For every sacrament depends on the *words of institution* as on its foundation, from which in the smallest we should not depart. Since therefore Christ has instituted the sacrament of his Supper under no other than *bread and wine* (nor in the description of the institution — Matt 26:26; Mark 14:22; Luke 22:19 — nor in its repetition 1 Cor 11:23,24 — any mention of another kind of aliment is made), we too, following the words of Christ, cannot substitute for bread and wine some other aliment.
+
+*It would be better to abstain from the use of the sacrament, than to adhibit some other aliment in place of bread and wine.* For this would no longer be the sacrament instituted by Christ, but a *proper figment*.
+
+Let us therefore have religion in departing from the words of Christ instituting: *if you abide in my word*, says Christ, *ye shall truly be my disciples* (John 8:31). And of that analogy, than which none more suitable can be given, between those elements of the sacrament, and the body and blood of the Lord — none more concinnitous can be given than what was placed by Christ between bread and wine with the body and blood — of which it is written that they *strengthen the heart of man* (Ps 104:15); so also the body and blood of Christ afflicted on us confer strength and vigor in our spiritual struggles, and *cheer with joy the hearts of those saddened by sin*. Whence *Chrysostom* wrote, that *we ought to depart from this sacred table as lions breathing fire*, and *terrible to the devil, when the body of Christ we take and drink and lave in his blood* — a mouth armed against every empire of the devil.
+
+Bread and wine also daily taken produce no *nausea*, but especially strengthen us in a most necessary hope. For neither doth the body and blood of Christ in the sacred Supper by more frequent taking sate the man, but on the contrary excites his hunger with more desire of this food.
+
+Bread is made from many grains, and wine from many clusters: so those who communicate at this sacred table should *coalesce into the same spirit* — which certainly happens to those who worthily accede to this convivium. To which point the Apostle Paul, when he writes (1 Cor 10:17): *the one bread we the many are one body — since we all of one bread participate*; and (1 Cor 11): *one drink, all one bread, one body we all are*.
+
+On account of this convenience of bread with body, of wine with blood of Christ, it was not in another than in these very species that Christ willed to institute his Supper: from whose institution whoever departs, mutilates the sacrament itself, or annihilates it.
+
+**As to the *root Indica* concerning which above** — since bread from *its farina*, which in common food men use, is deemed a nutriment to the body — we hold that bread as a *true and elementary bread*, because the matter is the same as in that bread which is made from grain, though the mode of producing (which cannot vary the matter itself) is *different*. Wherefore if in those places, in defect of wheat bread, the Supper is distributed from that bread, nothing is done contrary to the institution of Christ, since he *bread* used from the *common food of men in Judea*.
+
+### Case IX. Whether *uniformity of bread* in the perception of the true sacrament is always and everywhere necessary?
+
+**Respondeo.** The *form of Eucharistic bread* can be varied — either as to internal qualities, or as to external appearance. In respect of internal qualities it can be either *azyma* (unleavened), or *fermented*. In reason of external appearance it can have shape either round, or quadrangular, or oblong, or some other.
+
+Yet always there have been those who urged conformity of bread in these accidental things, as necessary. The *Greeks* of old for *fermented bread* litigated with the *Latins*, and these for *azymic* against the *Greeks*, so far that with mutual contention the Latins called the Greeks *fermentarii*, and the Greeks called the Latins *azymic*.
+
+[*Diligentius here* consider *time*, as long as the Church used fermented bread, up to *Alexander I*, who determined that the offering should be made from *azyma*. About this rule *Erasmus Rhotered*. sat, whether bread be *azymic* or *fermented*, the Greeks care not, *since it is Christi corpus*.]
+
+The *Papists* also fight for the use of *azymic bread* as if for the altars and hearths — as *Toletus* writes (in *Instit. sacerdot.* c. 5): *bread which we consecrate ought to be in the Church of the Latins from *azyma*, otherwise the priest gravely sins, as consecrating from bread which is not *azymic**.
+
+*From the Calvinists* also there are not lacking those who require *azymic bread* necessarily, on the ground that *Christ in the first Supper used *azymic bread**; by which reason *Beza* also (in *Confessio Fidei* c. 4).
+
+[*Not among the Calvinists themselves are all agreed.* For *Beza* (Ep. 12): *whether the bread be *azymic* or *fermented*, we do not think it necessary to labor greatly*. So *Chamier* (lib. 6 *De Euchar.* c. 4): *the best seems to be, and most nearest to the scope of the institution of the sacrament, the use of *fermented bread*: yet since so many of the churches to the *ex-Popish* rites have retained *azymic*, that also to us not much matters to change it*.]
+
+**Others in the external figure of the Eucharistic bread are too superstitious.** For urging the *Sacramentarians* *oblong and thick breads*, whose use is in common food, they reject our *little round placentulae*, which they call *hosts* — with minutiae they name *hostie nummulariae*, *sarrafen crustuli*, and *froth of bread*. Likewise *the more slender wafers*, *nebulas*, *ribbons*, *and the wolves-teeth-form*.
+
+[*Hosts* also formerly for the *sustentation of ministers and of the poor were served at the altars*.]
+
+The truth in this matter is easy — no reason for edification. In the *Eucharistic bread* neither *quality of matter* nor *external accidents* are to be considered, provided that it be *true and natural*, to which nothing else is required than *water and flour* mingled and cooked, and consisting, and by mastication and body-nourishment operating, as *Aquinas* teaches (lib. 4 sent. dist. 11 quaest. 2 art. 2 quaestiunc. 1). Whether it be made from barley or from wheat, whether *azymic* or *fermented*, matters not — for this adds nothing to nor takes anything from the substance of bread.
+
+In our churches *azymic* is adhibited, from no necessity, but freely — because Christ used it in the institution of the Supper, and because of the Eucharist the *azymic* bread is the type which was used in the eating of the *paschal lamb* (Exod 12:8). But if perchance some Church would use *fermented bread*, it is not that faith would be violated. For no mandate of Christ we have, that we use either *azymic* or *fermented*: this matter is *middle* and *free*. As well *from fermented as from azymic bread* the communication of Christ's body can happen.
+
+**As therefore each Church's custom bears, so it is to be done**, nor is one Church to be condemned by another on account of dissent, nor is communion of this kind to be interrupted.
+
+As for the *round placentulae which are received in our churches*, these are true and natural *bread*, made from water and grain, and although they are more slender, yet if they are taken in *just quantity*, no less than thicker breads have the virtue of nourishing.
+
+Among these forms retained in our churches, either an ancient custom is used, or an antiquated one continues: for from the *Sacramentary of Gregory Bishop of Rome*, around the year of Christ 590, round breads were already in use; and from the time of *Ariofianus*, until the year of Christ 850, of *sphaerical figure* bread was adhibited, as *Claudius Hervetus* proved. And around the year of Christ 800, chapter 1, *Cyprian* wished that as many *hosts or fragments be prepared* as there are members of the plebs.
+
+Nothing however matters, that these *lamellae are small and thinner* — which certainly cannot derogate from the truth of the bread; for they are received not to the *satiety of the body*, but *to increment of the spirit*, as *Origen* (in Matt) has: *not much do we take, but little, since not for satiety, but for sanctimoniam these are received*.
+
+[*The sacrament nourishes and augments not the body, but the soul.*]
+
+Nor does it matter that Christ in the first Supper used not these wafers: for he neither prohibited their use, nor prescribed a fixed figure of bread which necessarily must be observed. Nor even may we in all things imitate CHRIST in the first Supper — with others in a public tavern, in the evening time, and only among twelve, one of whom being Judas would offer the Supper of the Lord.
+
+*None therefore in these accidentals should make for himself a scruple*, nor let one judge another, much less by useless novelties disturb the Church: for in *middle* things and *adiaphora* it is useful to observe what one sees the Church, in which he lives, to observe: for a *perpetual and self-consistent uniformity* of these things among all and single Churches cannot be present.
+
+### Case X. Since Christ in the institution of the Supper broke the bread, and delivered it thus broken to his disciples, whether the *fraction of bread* in the very administration of the Supper cannot be omitted?
+
+**Respondeo.** This scruple is caused among the simpler *Calvinists*, some of whom urge the *fraction of bread in the very action of the Supper* as pertaining to the essence of the sacrament — others as pertaining to its integrity: which if they hear, they can doubt whether they have received the true and integral sacrament, from those who omit the tradition in the very administration of the sacrament.
+
+But without cause do they trouble consciences. For either therefore they urge that fraction necessarily, because *Christ in the first Supper broke bread*, or because *fraction of bread represents the crucifixion and death of Christ*. Neither reason constrains us so that we should hold the Lord's Supper as *mutilate and imperfect*, if the fraction be omitted in its administration.
+
+For (1) if we must do all things which Christ did in the first Supper, many things he did, which by reason of circumstances ought so to be done — as *at evening, in a public house, in the passover Supper* — which no one *judaizes*.
+
+Of this kind is also that he broke bread: for since he had bread from the eating of the paschal lamb *integral*, on account of distribution he broke it, so that he could hand it out. He broke however not with knife or hatchet (for they were not so thick as such breads, but flatter and less thick), so that they could more commodiously be broken than cut off — as also is recognized from *Chrysostom* (in Matt Hom. 51) and *Bonaventure* (in the *institution* loc. cit.). If therefore the *Calvinists* who urge the fraction of bread in the very action of the Supper wish to imitate Christ in all things, let them also make flat and less thick breads — which however not all do.
+
+Since therefore on account of *distribution the fraction of the bread by Christ was made*, it is all one whether in the very action of the Supper, or before it be broken: for distribution of the bread in the very action is *of the integrity of the sacrament, not the fraction itself*. And because among us before the action of the Supper the little pieces of bread are so prepared that among the communicants they can be distributed, we too are not destitute of *fraction of bread*, though in the very action of the Supper we do not adhibit it.
+
+**(2)** If on account of *representation* the fraction of bread is necessarily urged, they err with a whole heaven of *Sacramentarians*. For *Scripture ignores such representation*, but on the contrary: (a) it says *Hebraically the fraction of bread is not to represent but to communicate the body of Christ* (1 Cor 10:16); (b) it says *no bone of Christ was to be broken* (John 19:33-36); (c) it speaks of *body given and blood poured out*; (d) *the paschal lamb in the OT did not represent fraction* (Exod 12:46; Num 9:12); (e) *many more* are cited by D. Botsackius.
+
+*We should know therefore*, that we do not entirely reject the fraction of bread, but we hold it does not admit of being urged as *necessary* — as if without it the *Sacrament of the Supper would be mutilate*. When then without cause we throw a scruple into tender consciences on this account, and consequently to this dogma in every way we oppose ourselves — for these causes:
+
+**(1)** Because we have no *mandate of Christ* that in the usurpation of the Supper we necessarily break the bread. Without divine mandate the necessity of anything in worship is perversely urged. *They object the words of Christ: "this do."* But these are to be referred to those things which the Apostles did in the first Supper — these Christ bade them do, namely, to *accept his body and blood, eat and drink*. In which way also from some *Calvinists* it is interpreted, as *Aretius* (lib. 3 *De coena*) and *Zanchius* (lib. 1 *epistolar.* fol. 3) — who write that those err who think the *fraction* is precepted by these words *hoc facite*. And the matter from that manifest appears: because *the Apostles did not distribute bread*, which Christ did. And it is still uncertain (as *Calvin* speaks in *Comment. Evang.* fol. 384): *what is that which Christ did not represent through this fraction — how therefore did the very things he did by these words prescribe to us?*
+
+**(2)** No use we have of fraction *in the very act of the Supper*. For if it be adhibited *for representation*, we have already shown that it has no place there; if for *distribution*, it is not necessary in the very act, because *before* the administration of the bread it can so be prepared that it be apt for distribution.
+
+**(3)** Fraction of bread in the very action of the Supper is an *ecclesiastical rite*, because not mandated: therefore under the appearance of necessity it is not to be obtruded to us. For this fights with the *nature of adiaphora*.
+
+**(4)** The *Calvinists* make of that *fraction* from bread only a *sign representative*, whereas Christ willed it to be *the medium and organ of his body exhibited*. Which manifestly *Piscator* taught (in *Ser. germ. de fract. panis*): where he writes: *by fraction we impugn the idolatrous formed opinion concerning the presence of Christ's body in or under bread, and of oral manducation with omnipotence, and by the addition of superstition*. Since therefore the whole scope of that fraction of theirs asks the very doctrine of the true and real presence of the body and blood of Christ in the Supper, none of the pious in doctrine ought to admit that so subdolous and scandalous a novelty.
+
+**(5)** *Not the Calvinists themselves in one mode teach concerning fraction*, though its necessity on account of representation they urge; some call it *essential*, others *not essential but integral*: some before the Supper cut the bread into longish pieces, which afterward in the act of the Supper they break and distribute; others *of one bread into many parts of comminution* in the very act of the sacrament they say to be of its necessity. More discrepancies see in *D. Gerhard* (part. 5 L. C. de coena p. 306), *Cong. Hesselbein antidot. 1 Dn. D. Aitisic. p.m. part. 1 phil. sect. 5*.
+
+**(6)** Not lacking from the *Calvinists* are those who determine that fraction in the very Supper can be omitted, as *Beza* (Ep. 1 ad *Tilenum*, and in lib. *Quaest. et resp.* q. 190 Antimo. 1.4 de coena), *Zanchius* (Ep. 1) — who expressly writes: *since so it happens with bread, all one, whether extra the table, or in the table it be broken; in whose sentence we too acquiesce, and without cause we determine that a scruple is thrown to consciences by those who deny either the integrity or the truth of the sacrament, if the bread be not broken in the very action of the Supper*.
+
+### Case XI. What is to be done with *abstemious* persons, who are held to the desire of the Sacred Supper, and yet cannot take even a drop of wine without nausea and peril of vomiting?
+
+**Respondeo.** *The Romanists* consult such by *communion under one species*, as is to be seen in *Bellarmine* (lib. 4 *De sacr. Euchar.* c. 25) and *Becanus* (writes in *disp. de communione sub utraq. specie* c. 8): *All, both Catholics and adversaries, permit to the abstemious communion under one species; nor was it ever heard from the times of the Apostles down to us, that the abstemious were excluded from communion*. And at last he concludes: *therefore either communion under one species is not prohibited by divine right, or if it be prohibited, no dispensation can be made in that prohibition, and so the abstemious will be repelled from communion*.
+
+**But these things are not so great, that on their account the institution of Christ should be altered**. For very few indeed are those who so abhor from wine, that they cannot even take a small drop of wine: on account of these few, however, the *whole Church should not be defrauded of the cup*.
+
+Nor can it be denied that *Brentius* of old thought it consulted, if to the abstemious *only one species of the sacrament be given* — to whose opinion subscribes *D. Schopperus* (in *libello de coena*). But since wine is an *essential part of the sacrament*, this counsel no one can safely follow — since always about it he must doubt whether he has received an *integral sacrament*. Therefore *Schopperus* himself changed this sentiment (in *disp. de coena* Th. 34), where he writes in this manner: *some determine that the abstemious under one species can communicate — my former sentence, and *booklet on the Supper* published before this time, subscribes: but it seems to derogate less from the institution of Christ, if to the abstemious not a drop of wine can be borne, that taken in the sacred Supper it should suffice, or that a small drop of wine consecrated with it be mixed with *aqua injucundata*, it would be drawn — according to the *Agenda of Norimberg*.*
+
+By these latter words another *counsel* is supplied for the abstemious — namely, that *a little water be mixed with the wine in the cup*: which also *Theodorus* in his *Agenda* advised.
+
+**By this reason indeed nothing would be done against Christ's institution**, because it is verisimilar that Christ in the last Supper (with the finish of which he instituted the sacrament of the Supper) drank wine not *pure* but *mixed*, as *D. Chemnitz* thinks (part. 2 *Exam.*); and the most ancient writers in the description of the rites of the Eucharist make mention of *wine mixed with water*, whence also *Irenaeus* called the *mixed cup* and the *broken bread* the *essential parts of the Eucharist* (lib. 4 c. 5).
+
+But since that mixture of water with wine is urged *in the Papacy* in the very administration of the Supper as necessary, from the precept of Christ and *Apostolic tradition*, as from the *Council of Trent* (Sess. 22 c. 8) *Bellarmine* teaches (lib. 4 *De sacr. Euchar.* c. 20), *Gregorius de Valentia* (tom. 4 disp. 6 q. 8 punct. 4 seqq.), *Azorius* (tom. prim. *Instit. Moral.* lib. 10 c. 30) — for this cause the counsel for the abstemious is *perilous*, lest we should seem to collude with the Papists.
+
+**Nothing therefore remains, but that such abstemious ones — who altogether abhor from wine, that they cannot bear even a drop — should abstain from the communion of the Holy Eucharist**, according to the counsel of Luther in his *Sermon of the New Testament* (Tom. 1 *Jen. Germ.* fol. 388).
+
+Which *Vitus Theodorus* also follows in his *Agenda*, when he writes: *if a laic (abstemious) cannot with any reason of his own be moved to receive the wine, that he not be forced against his will, but he should be told that he ought to receive the sacrament, without noticing (as an unlicensed matter for the priest) not something to be repeated for the reception of the sacrament*.
+
+The *reason* is, because the *Holy Supper* is only the sacrament of *confirmation*, not of such necessity as baptism. The abstemious can therefore lack the sacrament itself, yet are not deprived of its salutary fruit, which through *faith* they can obtain — for as they can *have the Eucharist* according to *Augustine*: *crede, et manducasti* (believe, and thou hast eaten).
+
+Diligently therefore they ought to be present at the administration of the cup, consider the benefits of Christ, and apply them to themselves by true faith, and thus the fruit of the sacrament will be given to them. Nothing however do they do by this abstinence against the *institution of Christ*: for it embraces only those whom *necessity* does not exclude. Now *necessity has no law*, and, as the *jurists* speak: *laws embrace those things which commonly and to most happen; not those which happen to few or rarely*.
+
+### Case XII. Whether the deaf and mute can use the sacred Supper?
+
+**Respondeo.** Deaf and mute are of three kinds.
+
+**(1)** *Some were born with those senses integral, but later by some case lost the use of those senses.* These can before have been informed through sacred sermons in the capital points of Christian doctrine — afterward with desire of the Holy Supper they are held; by *nods and gestures* they can declare, testify of the grief of their heart, of faith, and of serious purpose of amending life. Which being so, without doubt they can use the sacred Supper *salutarily* no less than others, who by voice give confession of their sins: so in the *Council of Carthage* 3 can. 76 it is sanctioned: *let none holding the doctrine of the Christian religion, if he is seeking the Holy Supper, when afterward by some case supervening he becomes mute — while he has witnesses of his desire — be denied it, either*.
+
+**(2)** *Then there are those who are mute indeed, but yet have the faculty of hearing.* These, if assiduous hearers of the Word were, thence in true faith are erudite, and to doing penitence are excited. But if neither the confession of their sins nor of their faith by words can they render, being interrogated in general terms about them, by nod, gesture, or even by writing they can respond: which if they do, and with true desire to the sacred Supper accede, there is no doubt but that they receive salutarily.
+
+**(3)** *Finally there are others, mute and deaf by nature*, who never had the faculty of speaking or of hearing. Some absolutely warn these off from the use of the Supper — because they say them to lack faith, which *Paul* writes to be *ex auditu verbi divini* (Rom 10). Nor without those things without which no one can be saved — that Christ, coequal with God from eternity, in time became man, suffered, was crucified, died, and rose again for us; that the Holy Spirit illuminates us, rules us, and makes us fit for doing some good — they cannot from any nods and signs whatsoever learn. For which causes they will not admit them to the use of the Supper — while establishing that God from his immense mercy provides for these also *extraordinarily*, and gives eternal salvation. For he does not require more of them than they can prestate, since Scripture also says of Christ (Exod 4:11): *who makes the mute and the deaf, the seeing and the blind?*
+
+**But that with saved authority we cannot subscribe to this sentence.** For although we readily grant that such mute and deaf, from the *hearing of the divine Word* do not have faith, we think however that they can be informed even *through pictures*, nods, and gestures — so that they draw a certain *cognitio of Christ* which generates *confidence of the heart* in them, and suffices for salvation. And here they have preclarous use of *pictures* and *images of Gospel histories*.
+
+For that the mute and deaf can be informed through pictures, of those things which others perceive from the mouth of others, *Pliny* testifies (lib. 35 *nat. hist.* c. 4), when he writes of a certain Roman *Quintus Pedius*: *since he was by nature mute, he learned the art of painting by the persuasion of the orator Messala, that he might understand others, and be able to act with them through pictures*.
+
+So the mute and deaf can from *pictures expressing the histories of Christ's nativity, passion, death, &c.*, learn the thing itself: a *discreet informer* can add such gestures, from which they may understand also the use of those histories. Of which use of images *Damascene* writes (lib. 4 *Orthod. fid.* c. 17): *since not all learn letters, nor do all incumb on reading, our fathers have consented, that as certain trophies these things in images be represented for prompt memory*.
+
+Nor does *Jerome* altogether think otherwise (in *Epistola ad Galatas*), when he writes: *he greatly does not indigate these ears of the body to knowing the gospel of Christ*.
+
+[*What Scripture is to those reading, this is to idiots — a picture to see... Gregor.*, Ep. 55 lib. 9.
+
+*Great is the sound of silence.* — *Gregory of Nyssa* *On the Canticles*.
+
+*Let images be adhibited in the churches, that those who are ignorant of letters may see them on the walls, may read those who cannot read in codices.* — *Poul. Nolan.*, Ep. 5 ad *Severum Episc.*]
+
+Since therefore the mute and deaf by *gestures* show Christ crucified, and afterward by themselves show, by what gesture they apply the cross of Christ to themselves, with lifted hands to heaven, striking the breast, with tears even declaring serious grief for their sins — willingly they may attend the administration of the Supper, and declare their desire of the body and blood of the Lord by opening the cup, and applying the hand to the mouth as if to bear it — or even all these things by *written letters concerning themselves* they testify — nothing obstructs but that to the usurpation of the sacred Supper they may be admitted, and be held as worthy convivia.
+
+**Of which matter Melanchthon recites an example** — of a certain mute woman at Gotha admitted to the sacred Supper; *M. Sebast. Boethius Superintendent of Wallensberg* of a *deaf and mute knight admitted in the fortress of Adenberg* in the year 1554; another mute and deaf man was admitted at Halle in the year 1587 (per D. Ioh. Gerhard tom. 4 loc. c. c. th. 214). *And in the year 1613 in the court of Duke John Casimir* 64 *volumina* a mute and deaf man from the retinue of the prince made confession of his sins by writing with his hand, and to the sacred Supper was admitted.
+
+The aforesaid *Sebast. Boethius* refers, that *Wittenberg* such a girl, the daughter of *Christian Cotta*, admitted to communion by the counsel of *B. Luther*, from whose mouth he says he heard: *if there are signs of desire, let her not be warned off from the altar*.
+
+**But if any by no external sign can testify either penitence, or faith, or desire**, safer it is for these to abstain from this table; nor are they to be admitted by the ministers of the Church — which is the *judgment of Luther* concerning this matter (*Sermon of the New Testament* Tom. 1 *Jen. Germ.* fol. 318).
+
+### Case XIII. Do those act rightly, who bring the Holy Supper to the sick at home?
+
+**Respondeo.** The *Calvinists* deny this custom, and disapprove that the Eucharist is brought to the sick as a *viaticum*, and hold that it should not be used except in *public assemblies* — as is to be seen in *Beza* (part. 1 *Quaest. et resp.* q. 191); *Aretius* (part. 1 *Prob.* loc. *Musculus* in *loc.* fol. 300).
+
+*But our sentence is* that the sacred Supper by those who are able, and by no *sonticous* cause are excluded from public assemblies, is to be taken publicly with others in the temple. For *the congregation is not to be forsaken*, as it is to some, admonishing the Apostle (Heb 10:25).
+
+[*To the Calvinists opposition can be given even of Calvinists.* *Hieron. Zanchius* who in these words to our sentence: *since Christ denies to none of his disciples, why do we refuse to the sick, who before they depart hence, this they seek — from no superstition, but rather from magic desire of consolation and rising up, for their causes* (vid. lib. Ep. fol. 3, epist. ad Ioh. Gral. med. Caesar.).]
+
+If however anyone either by disease or by some other case of necessity is excluded from public assemblies, and has desire of this sacred aliment, nothing obstructs but that in a private home he can use. For *place* pertains to the circumstances of the sacrament, which have *free observation*, since Christ concerning them in the institution of the Supper *precepted nothing certain*.
+
+[*Confer also *Justinian Apol.*, where he teaches, that to the absent also they brought the Supper in the primitive Christian Church.*]
+
+In the *Old Testament* indeed there was a certain place, in which for the cause of divine cult they came together; but this pertained to *ceremonials of that people*, which in the NT are abrogated.
+
+*Christ himself and the Apostles not in the temple, but in a private house celebrated the sacred Supper.*
+
+Nor is one to think, *that the sick communicating at home are outside the Church*: for the Church is not merely a multitude of men, but *where two or three are gathered in the name of Christ, there is Christ in the midst of them* — so there is the true Church.
+
+Therefore in the writings of *Paul* one finds *domestic churches* of the pious (Rom 16:5; Phlm 2). And those who are sick are often more prepared for the sacred Supper than others: ill therefore would the sacred Supper be denied them.
+
+All these things without doubt did the ancients weigh, who *did not deny this celestial banquet to the sick in their houses*. In *Eusebius* (lib. 6 c. 41) the sacred Eucharist is brought to the sick *Seraption*; the same is read of *Exuperius*, who brings the *Eucharistic bread* to the sick in a *viminum canister*, and *Eucharistic wine in glass*, in *Jerome*'s *Epistle to Rusticus* — where such a case of necessity is described that they can use, as in the primitive Church.
+
+By these arguments *private communion in the sick* is stabilized: therefore let no one in this kind trouble his conscience — provided only he sees, lest impenitent he separate himself from the communion of the standing.
+
+### Case XIV. Whether the *Terziani*, who at certain seasons of the year require accession to the sacred Supper (*to those not acceding, they show themselves as heretics*)?
+
+**Respondeo.** *Ancient heretics*, whom *Tertullian* calls *Terziani* and *Quartadecimani*, required a certain day of the year — namely, the 14th of March — for the celebration of this sacrament, because on that day it was instituted by Christ, according to the *History Tripartita* (lib. 8 c. 18, 19). To this kind approaches closely *Victor Papa*, who bound the use of the Supper to *Passover*, as *Eusebius* refers (lib. 5). In the time of the Fathers, when *persecutions* increased, Christians used to communicate *daily*, as *Cyprian* speaks (Ep. c. 3); afterward on each *Lord's Day*, which we understand as *Augustine* attests (lib. *De eccles. dogmat.* c. 12).
+
+In the progress of time three times a year — namely on the three principal feasts — sacred Eucharist was taken, which is to be observed as ancient constitution, and among Christians was preceded, and by the *Council of Agdensis* can. 18 confirmed: to which some added *Ioviae Sanctae*, which is *Thursday before Passover*, on which day especially in *Augustine's* time Christians in Africa took the sacred communion, because on that day the sacrament was instituted.
+
+But since these matters are of *free observation* — Christ nothing about these in the words of institution precepted, but that we use this sacrament *more often* he inculcates, when he says: *do this, as often as ye drink, in remembrance of me* (1 Cor 11:25) — *frequently therefore let us accede to this sacred banquet*, yet not so as to bind ourselves to a certain time, as if by the *opus operatum* we should be seen to please God — but as often as we feel *desire of this sacred banquet*, and know ourselves *worthily prepared and proved*, whether this be done at each *monthly* or at each *quarter of the year*, let no one in this part offend. For the *anxiety of conscience*, whose refreshment is sought in this most sacred banquet, is the measure of time in this part.
+
+[*They are Christians*, as *Cyril of Jerusalem* speaks (*Catech.* 4 *myst.* p. 830): *by more frequent taking of the Lord's Supper, that Christ Christ-bearers we are, when his body and blood we have received into our members, and we are made partakers of divine nature*.]
+
+### Case XV. Whether it be a sin, if one *not on a fasting stomach* purely takes the Holy Supper?
+
+**Respondeo.** Also of this matter nothing has the institution of Christ. *Augustine* in his time used this sacrament on Thursday before Passover at nocturnal time after the Supper was taken, that the action of Christ might be better represented.
+
+But this custom was *abrogated* through a constitution of the Church in the *Council of Carthage*, where in can. 29 it is sanctioned: *let the mystery of the altars not be celebrated except by fasting men*. Whence *Augustine* (who was present at that council) writes in his Epistle 118 *ad Ianuarium*: *it has pleased the Holy Spirit, that in honor of so great a sacrament, that the body of the Lord enter into the mouth of Christian first, than other food: for indeed on this account through the whole world this custom is preserved*.
+
+We should know however, that this custom is not of such necessity that it cannot be changed. Therefore *Luther* thinks (in the book *De abrogatione Missae* part 1): *if by reason of the sick or of pregnant women, or even of decrepit old men, they cannot bear fasting so long, they are not bound to this rite, which not Christ's institution, but only probable reason introduced*.
+
+For *Christ himself gave to the Apostles the sacrament of his body and blood after the Supper had been taken*: nor is there taken from it the aliment of the body, which not more than other food of this kind has privilege of time preferably — but *the food of the soul*, which just as the preached Word, even after a taken food, can have place.
+
+Yet let no one temerariously and without a case of necessity subvert the custom of the Church introduced from a probable cause — lest this most sacred banquet be seen to be contemned, or without reverence be perfunctorily treated.
+
+### Case XVI. Can an orthodox with good conscience seek and receive the sacred Supper from a *Calvinist minister*?
+
+**Respondeo.** One must here distinguish between such a minister *occult* and *open*. If perchance in an *orthodox Church* a *crypto-Calvinist* lies concealed, who does not believe the true and real presence of Christ's body in the Holy Supper — from him the *members of the true Church* (that is, those who have been instituted concerning the sacred Supper) can indeed altogether receive it. For neither the *intention nor error of the minister*, especially while it is still occult, can hurt those communicating; since *the sacrament is not of the minister but of the Church's good*, whose faith concerning the true presence of Christ's body in the Supper — since it is *sincere* — is participated by his singular members.
+
+*An open Calvinist minister* is either a *member of the ministry in the orthodox Church*, where certainly he ought not to be tolerated, but with his error known, he should be *remitted to his co-brethren* (Calvinists). But if by the magistrate he is tolerated, one must *flee his ministry as of a wolf who invades the Lord's fold, not without great detriment to the sheep*. Or he is a *member of the ministry in a Calvinist Church*, and then much less should the Lord's Supper be received from him — because that Church does not believe the true presence of Christ's body in the Supper, and thus does not have the *institution of the sacrament integral*, and consequently *does not have the true sacrament*. For although the *efficacy* of the sacrament depends not on the faith of the minister, but on the authority of the one instituting, yet Christ *elsewhere than in the true Church*, which about his sacraments rightly feels, would not have the institution of the sacraments have place.
+
+**This is the reason why among us the *Papists* — seeking the Sacred Supper from an orthodox minister in our churches — receive the true body and blood of Christ, because among us is the true Church, whose the sacraments are; that intention of the *Papists* even in the Supper is preserved indeed — but our own from the *Calvinist* ministers do not receive the true sacrament of the body of the Lord, because the *Church of the Calvinists* is a false one, which perverts the words of institution.**
+
+**From such a minister therefore communion is to be abstained**: **(1)** because *false prophets and the errors of their doctrines we are to beware, that we not be partakers* (Matt 7:15; 2 Cor 10:21).
+
+**(2) *Reason 2.*** Because all those who feel not rightly about the substantials of the Sacred Supper have the *table of demons*. Now one *cannot drink of the cup of the Lord and the cup of demons*, says the Apostle (1 Cor 10:21).
+
+**(3) *Reason 3.*** Because that communion among the *Calvinists* would offer *scandal*, having the *appearance of confession*, of which sign the sacraments are. *Be not partakers*, writes *Paul* (1 Cor 10): *be my brethren, imitators of me, as I too of Christ*.
+
+**(4) *Reason 4.*** Because this is the *note of the sheep of Christ*: *my sheep hear not the voice of a stranger, but only that of their own shepherd* (John 10:5). But the voice of the *Sacramentaries* is plainly alien from the voice of Christ. They *bind the body of Christ to some supernatural place of heaven*, this here in the Supper as manducated together with bread it exhibits; they *warn off the unworthy from the manducation of the body*, but this admits even *Judas the betrayer*.
+
+**(5) *Reason 5.*** Because the *Calvinists* by many revilings *proscind our confession* concerning the *real and true presence of the body of Christ in the Supper* — how therefore can we with them of the same bread participate?
+
+**(6) *Reason 6.*** Because it is hypocrisy so to conjoin ourselves in the communion of the sacraments with those from whom in doctrine we plainly abhor.
+
+All these reasons at the same time *import the guilt of unworthiness*: for those who receive the Sacred Supper from the *Calvinists* do not discern the body of the Lord — thinking it all one, whether they receive it according to the sense of Christ's institution or according to the intention of men. Which very reason of *unworthiness* deservedly ought to *recall us from such communion*.
+
+### Case XVII. What if however one of the ministers administering the Supper is *orthodox*, and the other truly *Calvinist* — can from these the sacred Supper be received?
+
+**Respondeo.** This happens sometimes in *amplest commonwealths*, where there are many errors, just as in great rivers many filths. But ill consults for the Church the magistrate who, though himself orthodox, in *Calvinist ministers* their calling permits, and — what is more — inclines to so scandalous a mixture of ministry. And if perchance the magistrate is *mixed in religion* (that is, partly of *Lutherans*, partly of *Calvinists* he consists), because however the calling of ministers pertains to the whole Church, the subjects however to such a calling should not consent. For this is to commit the fold of the Lord partly to a good shepherd, partly to a wolf — than which nothing is more absurd.
+
+*God of old prohibited a garment* woven of linen and wool (Deut 22); by which prohibition without doubt he looked to mixture in religion and ministry. Since it is certain that *orthodox and Calvinists* disagree in the *fundamentals of faith*, how, I ask, can they at each temple, and at the same altar, administer the same sacred rites?
+
+If however a *Calvinist minister* has been intruded against the will of the subjects, better were it to *abstain from such ministry*, for the causes indicated in the preceding question — especially since in other temples the plenty of this sacred banquet is given from ministers *outside controversy sincere*.
+
+But one who even having been admonished still betakes himself, will either not undeservedly be accused of great *temerity and negligence in the cause of religion*, or certainly he will incur *suspicion of some collusion*. One must abstain also *from every appearance of evil* (1 Thess 5:22).
+
+If however anyone from *simplicity and ignorance* has received the Supper from such a mixed ministry, of him we do not doubt but that he has received the *true sacrament* — as long as that Church, which the *Calvinist minister* serves, has still remained sincere in religion. For the sacraments *do not depend on the authority of those administering, but on the institution of Christ, which where it is sincere, there too they are rightly administered*.
+
+### Case XVIII. Do they sin, who without previous *private confession* use the Sacred Supper?
+
+**Respondeo.** *Private confession* I call that by which anyone from private motion — indicating some of his special sins — asks solace of a wounded conscience from the minister of the Word, whether it be *generally* or *for the reborn nature*, of certain sins in species which the mind especially urge with perturbed motion.
+
+Such confession the ancients called *paroxysmal* — for so writes *Chrysostom* (Serm. 40): *not is the elapsis of sins to God's priests dolefully and simply to confess the sacrifice of conscience*. That name is taken from *Ps 39*, where thus he read: *do not confess, or make thy heart hurried, as I have loved sinners; hurry, that my crimes are turned into thee*.
+
+Examples of this confession we have in the histories of *Saul*, who confessed to *Samuel* (1 Sam 15); *David* to Nathan (2 Sam 12); those baptized by John, who confessing their sins came to baptism (Matt 3:6).
+
+Just it was that the ancients approved this rite. Whence *Sozomen* refers (in *H.E.* 7 c. 16): *in the time of the Emperor Decius the presbyters were constituted, whom penitentiaries were called, of whom in different times some inclined: of which one Origen speaks* (Hom. 2 in Ps 37): *the case is not to hide*, that *ye should confess your matter*.
+
+*Origen* also writes (lib. 10 *conf. Silv. conf.* to Numquid) *concerning confession — one must confess before God, not only sinful lapses but also perpetual meditation of the same*.
+
+*The Augsburg Confession also* (Art. 11) *concerning private absolution retains in the Church* — although, in the confession which is not necessary, an enumeration *of all sins* is not to be added — because in the confession of the *Papists* it is impossible.
+
+**We retain to this day this rite in our churches**, for the utility which it brings.
+
+*For it is mandated* — an *attrite* useful, which contributes to the exploration of those about to communicate (whether worthily they accede to the Holy Supper), it opens *fountains of consolations*, it has special application conjoined with the *absolution of God*; also it ministers *occasion* to those with perturbed consciences, seriously guilty of their sins, for consulting with sinners.
+
+For which causes it is not to be omitted, as *Luther* writes: *we ought to be willingly confessed before we come to the Holy Supper* (Tom. 1 *Jen. Germ.* fol. 306 and 60. Also *Sect. cast.* Sec. fol. 110): *ne perderemus... et me* (says he) *si a pontificibus, no maximum mihi extipedat solatium, dum in angustia et solicitudinibus animi haereo*.
+
+Where therefore this rite is customary, it is not to be omitted, both because it has a *praeclarum use*, and because *the order of the Church is not to be convelled*, nor is it to be committed that any one do what himself is right, since that not without scandal of others could be. For with *Augustine* (Ep. 118 ad Januarium) it is well said: *whoever with faithful faith accedes to the sacraments, and does not commit the disturbance of others*.
+
+**Yet this rite is to be usurped not as necessary**, because otherwise no one could omit it from conscience without difficulty. Nor should he for that reason with contempt, nor from study of singularity, only so make it, that he imposes on his conscience a *law of necessity*, and with confession omitted accedes to the sacred Supper — and no scruple should be moved, as if a grave crime had been committed, nor should communion be denied. For *private confession* was primarily introduced for the sake of *special absolution* and *information of the perturbed*.
+
+Therefore *Luther* writes: *if a pastor himself who daily treats the sacrament without prior confession has used it, hardly to himself is interdicted?* Which is the *judgment* also concerning others rightly informed Christians. Not therefore *Papist coactio* let us call back into a matter in itself indifferent. *D. Martinus himself*, he says, *sometimes without confession communicated in the Holy Supper — nay rather most often — with grief; for the sake of *absolution*, that is, on account of the *Word of God*.*
+
+*But in general the *vulgar* in this kind ought to be treated otherwise*. Thus *Luther*.
+
+[*Confession* is diligently to be distinguished between the *enumeration of all sins*, whether *auricular* and *Papist*, and between confession *private, whether accidental or ecclesiastical, and public*. That which *has no mandate of Scripture, promise, exemplum, converts law into Gospel, gratuitous remission of sins impounds by law*, is submitted by *Pontifex Cassander* (Ad Acta 15) — *carnifice for souls it is called* — is *impossible* (Ps 19:12,13); and *this is not to be received nor kept*, but to be admonished ministerially, and *special consolation of conscience* to be sought (John 20:23; Matt 18:18; the *certainty of the remission of sins* is expedient — Paul in *Consilio Casandriano*).
+
+Chapter XIII.]
+
+Although in villages more experienced in this kind they can use their liberty, on account of *scandal* which thence would easily be pouring, they do not use their right — for not always *what is licit, but also what is honest, is to be seen*.
+
+Nay rather if in these churches, where *private confession* is in use, for the reborn nature by anyone it can be intermitted — much more in those places, where it is not in use, and yet the doctrine of the Lord's Supper is retained in pure preservation (as in certain places of Upper Germany happens), it is omitted, and yet the Holy Eucharist salutarily is accepted. For substantially, in things *middle and indifferent*, from the sacrament nothing derogates.
+
+— ❦ —
+
 # Liber III. Toward Celestial Spirits
 
 *De actionibus hominis circa spiritus coelestes — On the actions of man toward celestial spirits (angels, demons, astrology, magic, divinations).*
