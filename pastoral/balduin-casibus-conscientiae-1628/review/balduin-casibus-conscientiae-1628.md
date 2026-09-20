@@ -4362,6 +4362,448 @@ But it should be noted, that *observation of the Sabbath is the clausula of all 
 
 — ❦ —
 
+## Chapter XIV. On Cases of Conscience Concerning Fasting
+
+*De casibus conscientiae circa jejunium.*
+
+*Fasting* per se indeed is not divine cult, since *the kingdom of God is not in food and drink, but in righteousness, peace, and joy in the Holy Spirit; and he who in these things serves Christ, is pleasing to God and approved by men* (Rom 14:17). Yet it is not prohibited, nor is it altogether alien from the cult of God: but for promoting that cult it is much profitable, and by that name has *preclarous testimonies and examples* in Scripture. For Scripture teaches that we should fast (2 Cor 6:5); how we should fast (Matt 6:16-17); which fasts please God (Isa 58:6); with what end we should fast — namely, that *the demon may be cast out* (Matt 17:21), that is, that with impure cogitations expelled, *we may have leisure for fasting and prayer* (1 Cor 7:5). It shows us *examples of the saints* who fasted — as *David* (Ps 35:13); *Daniel* (Dan 9:3; 10:5); *Sara* and *Tobias* (Tob 3:10); *the universal people* (Judg 20:26); the *Maccabees* (1 Macc 1). It shows also the *mode of fastings* — namely, that before evening they took nothing, nor did they eat delicately (Dan 10:3); it finally rejects *hypocritical fasts* (Isa 58:3; Zech 7).
+
+And since fasting pertains to *corporal exercises*, and is undertaken for the sake of *subduing the body*, it is called in Scripture *ἄσκησις* or affliction — as in Exod 34:28; Lev 26:23, of the *day of expiation* it is said: *ye shall afflict your souls on it*, which is to be understood of the *affliction of fasting*. Elsewhere affliction and fasting are conjoined (Ps 35:13: *I have afflicted my soul with fasting*; and Moses says (Deut 8:3): *he afflicted thee with hunger, and permitted thee to hunger*; those who fasted are said *to have afflicted themselves* (Isa 58:5; Dan 10:2).
+
+**Ridiculous therefore is what the *Romanists* speak**, that some of those fastings which are called *of four seasons* fall in the week of Pentecost, and call them *joyful* and *of exultation, not of sadness and affliction*, as *Azorius* refers (lib. 7 *institut.* c. 14, from *Thomas* 4 dist. 15 d. 3 art. 3 q. 1 and 4). For from the nature of fasting is *to subdue and afflict the body, not to recreate it*.
+
+**The Papists constitute two genera of fastings**: one is *of nature*, another *of the Church*, as is had in *Thomas* (22 q. 147 art. 6 ad 1).
+
+*Fast of nature* they call that by which we abstain both from drink and from food: *of the Church* is that by which we abstain not from drink but only from food, nor from food in general, but from that which is taken *as food, not as medicament*.
+
+They define *fast* as *the subtraction of any food from lunch, and after supper, up to the following day, and abstinence from meats, and from those which draw origin from meats — as milk, cheese, eggs*, &c.
+
+*Fast of Papists requires three things*: (1) that we eat only *once in the day*; (2) that we have a certain *selection of foods*, as to the quality of food; (3) that a *certain hour of the fast* be preserved. Hence they move various *dubia*, such as: *whether the fast is broken by some evening refection which is taken at night in the appetite of the night just before sleep, whether at hand contrary to nature? Whether this little refection can be taken also in the morning, when others lunch? Whether at that refectiuncula it be lawful to eat bread, or only the fruits of trees? Whether the refectiuncula ought to consist of a defined quality of food and quantity? Whether he sins who at the sixth hour eats? Whether only meats are prohibited and not also eggs, milk, or butter, &c.? Whether he to whom by privilege is conceded to eat meats, may eat also eggs, milk, and butter?* — and many similar which all rise from a *false principle*, as if the Church could bear *laws of fastings obliging the conscience*.
+
+**In our churches three species of fastings are constituted**: one is *moral*, another *political*, the third *religious*.
+
+*Moral* is *sobriety and temperance* in food and drink.
+
+*Political* is when for certain causes men are commanded to abstain from some kind of foods for a time — as from *meats* or *fish* — on account of a defect of these.
+
+*Religious* is when we abstain at times from foods, that we may be fitter for exercises of piety.
+
+*Moral fasting* is divinely precepted, and always necessary; *political* is enjoined by the magistrate for a time; *religious* is voluntarily undertaken. Concerning the *religious fast* we now treat.
+
+### Case I. To what extent it is in the power of the Church, that she may institute fasts?
+
+**Respondeo.** *Religious fast* is by voluntary abstinence, which many undertake even *without ecclesiastical institution*, that they may be more apt for penitence, prayers, and other exercises of piety — of which we have examples in *David* (2 Sam 12:14); *Daniel* (Dan 10:3); *Judith* (Judith 8:5); *Esther* (Esth 4:16); *Nehemiah* (Neh 1:4) and similar.
+
+Yet we read also in *Scripture examples that a fast was indicted by the Church in imminent public calamities* — either through the Prophets (1 Sam 7:6; Joel 2:15); through *priests* (2 Esdr 8:21); or through the *magistrate* (1 Sam 14:24; Jonah 3:6-7); or through *the Apostles* (Acts 14:22). For a *full belly is inept for prayer and penitence*, it begets *security*, it disturbs devotion. For which cause even *this corporal exercise* they wanted.
+
+Thus in the *primitive Church a little before the Passover-feast* a public fast was received, and *converted adults were baptized*, that they might be prepared for serious meditation and cult by fasting.
+
+*Tertullian* also in the book *De jejunio* writes that a *bishop, in some solicitude for his ecclesiastical district*, was accustomed to *indict a fast upon the whole plebs*, that with imminent peril, or a public calamity continuing, he might indict a public fast, that exercises of penitence should be undertaken by men, and rendered more prompt.
+
+But let no *coaction* be made, as to time and foods: for neither is the Church, by any Mosaic mandate, urged to bear such laws of fasts. Nay rather the Lord decreed the time and occasions of such institutions. As therefore *Augustine* speaks (in his letter 86 to Casulanus): *there is no other reason, as I judge, of fasting more solid than what stands from the mandates of the Apostles, in whom truly Christians through periods of fasting, not to observe a supererogation, but such a Christian liberty* — as *Cyril* speaks (loc. 25 lev.). Nor should laws of fasts be *perpetual*, but so long only should they last as those causes which gave occasion to them last. Nor should they be *restricted to certain foods*, because *all creatures of God are good* (1 Tim 4:4).
+
+Chiefly, however, we improve those things which in the fastings of the *Romanists* — those which come with a certain preservation of ecclesiastical order in these times of *Romanists* — we improve, since God does not want in his people that which they had freely instituted, *the fast of the fourth and seventh month*, in memory of past calamity, because in the fourth month the king of Babylon had begun to besiege Jerusalem, and in the seventh month *Gedaliah* had been slain (2 Kgs 25). Afterward when, with captivity resolved, they inquired whether they should continue such fasts, the Lord responds to them: *when ye fasted and mourned in the fourth and seventh through these seventy years, did ye fast at all to me?* &c. (Zech 7:6). Not therefore *to God, but to themselves, they fasted*, because neither did God institute that fast, nor was there need for so long a fast.
+
+And when the *Pharisees* had their fixed fasts, and reprehended Christ's disciples because they did not observe them, Christ responds: *when the bridegroom shall be taken away, then they shall mourn, and in mourning they shall fast* (Matt 9:15) — teaching that *perpetual fasts* are not necessary, since from *opus operatum* they cannot please God — but that *the cross, calamities, and persecutions* offer *certain and just cause* of fastings.
+
+Therefore the Church can indict a fast for a certain cause, provided *liberty as to time and foods is left*.
+
+### Case II. What are those fasts which the Church can indict?
+
+**Respondeo.** *Fasts of the Church* are called *fixed and solemn*, indicted for the sake of *prayers and humility*. In these two things are to be attended: (1) *abstinence*; (2) *duration* or *time* of abstinence.
+
+**Abstinence** is as it were the *soul of the fast*, for those do not fast who do not abstain.
+
+Abstinence is:
+
+**(1)** From *food and drink* — either *totally*, so that we neither lunch nor sup, as *Esther* with her handmaidens for the whole three days abstained from all food (Esth 4:16; Tob 3:10), and *Darius* even without candles in his house passed the night (Dan 6:18); or *partially*, so that with lunch omitted we sup only, or if we use both lunch and supper, but *sparingly*, eating less than usual, only for the health of the body to preserve.
+
+[*By this small distinction consecrate this day to Him, of what thou owest, not of what thou hast* — *Seneca* Ep. 15 moral.]
+
+Thus *David* in public mourning on account of *Abner slain* swore he would not taste bread or anything else before sunset (2 Sam 3:35). And the food of mourners (to whom fasters are equated by Christ, Matt 7) was *dry bread and drinking water* (Isa 30).
+
+**(2)** From *delicate foods and dainties heavier to the palate* — in which manner *Daniel* fasted, who did not eat desirable bread, *nor did flesh or wine enter his mouth* (Dan 10:3).
+
+[*Where is that fast which the delicate feasts declared? Where is our meditative one whose throat is exercised in dainties?* — *Jerome*, *Lig. adv. Jovinian.*]
+
+**(3)** From *all pleasures* which can affect the body softly — in which manner *David* when he fasted, on the first night even changed his garment (2 Sam 12:17,20). And in a solemn *fast of the Jews*, bridegroom and bride were bidden to *come out of the wedding chamber* (Joel 2:15-16).
+
+[*Great and general fast is to abstain from iniquities and illicit pleasures of this world*, — *Augustine*, *Serm.* &c.]
+
+**Such fast can the Church indict**, in which either from all food for the whole day, or from morning food, one abstains, or the ordinary food in lunch and supper is somewhat reduced.
+
+**Falsely therefore is it objected to us by the Papists**, that we call fasting only *temperance in victual*, which should be daily instituted. For, if the matter thus is needed, they do not deny but that also with necessity urging at some fixed time it be refined — provided that from it *no law of perpetuity is made*, which would even *outside necessity* endure: for this fights with the *liberty of the Church*, of which below in its place.
+
+*The duration of abstinence has no law*, for not even in the OT was there a *fixed and certain time of fastings*. The most illustrious was to fast the *whole day up to the evening* — examples are: Judg 20:26; 2 Sam 1:12; in *Acts of the Apostles Cornelius* fasted *up to the ninth hour of the day*, which corresponds to our third *post meridiem* (Acts 10:30). Sometimes fasts were extended even to the *third day*, as it is in the history of Esth 4:16 and Tob 3:10; and to the *seventh day* even, as *David* did when his son was sick (2 Sam 12:17); in that ancient fast they abstained from food until evening, when they ate — but nothing delicate.
+
+For nothing beyond the third day to *abstain entirely from all food* is *contrary to nature*: it is read in Judg 15 that a certain Egyptian, who *had not eaten nor drunk for three days and three nights*, was almost dead — so that he had to be revived, so that his spirits would not fail.
+
+Since therefore, *as to the duration of abstinence*, nothing certain can be prescribed, let these rules be observed: *fasting should be regulated according to the strength of nature — from these are to be strengthened, or from these avoided; not simply excessively, nor may the strength be attacked*. So the Apostle Paul (Col 2:23) says that abstinence *from foods, which nature commodiously has need of, cannot with impunity be denied*, but according to the strength of the fasting each one, the ratio of the fast is to be moderated. *Sanitas non sunt occidenda* — and to this rule especially he adheres who, in a public fast indicted by the Church, is to conform himself. For nothing more perilous than that *health be attacked* under the pretext of piety.
+
+### Case III. Whether transgressors of the ecclesiastical fast sin?
+
+**Respondeo.** [Some think, among whom is *John Fontanus*], that those bind themselves in *sin* who *out of contempt, either tacit or expressed, omit the precept of fasting*: he calls *tacit contempt* when someone without just cause, though he ought to observe, dissolves the fast.
+
+*John Azorius* (tom. 1 *instit. moral.* lib. 7 cap. 8) writes that it is the *common opinion of theologians* and of interpreters of canon law, and of the *summists* — that by the law and precept of fasting we are so bound, that if we dissolve it *without legitimate cause*, we bind ourselves in *mortal sin*. So the *Sententiaries* disagree among themselves.
+
+**But that a decision of the proposed case may be legitimately instituted, first the terms must be explicated.** *To oblige the conscience* is taken *properly* and *improperly*. *Properly* it is said to oblige the conscience when it *constrains us to obey under moral and mortal fault*, which is conjoined with the *fear of offending God* or of *violating the divine numen*. *Improperly*, when it obliges to obeying under *civil fault only*, which infers *human offense* and is conjoined with shame or *infamy*. Here we treat of *obligation properly so called*.
+
+**Now that obligation is twofold**: one is *direct* and *immediate* obligation of the conscience, when *some law is violated in reason of itself*, such is every *divine precept*, which *immediately and directly touches God and his cult* — as the law of *sanctifying the Sabbath*, of honoring parents, &c. I say therefore, a *fast indicted by the Church specially and directly does not oblige the conscience*, because that constitution is *not immediately from God*, but from *men*, whose power is only *exterior, not interior*: for it does not dominate the consciences. Nor does it concern *some divine cult, but only corporal exercise*; nor has the transgression of it adjoined the *comminations of eternal penalties*, by which consciences *directly and principally* are constrained to obedience.
+
+**However, it obliges the conscience *generally* and *indirectly*, since by its transgression**: (1) *resistance is made to good order*, which in the Church always ought to be observed, nor rashly convelled by study of novelty or singularity; (2) *scandal is offered to the weak*, which always and by all is to be avoided. For we have such precepts in Scripture, that *all things be done in order and decently* (1 Cor 14:40), and that *we not destroy him for whom Christ died* (Rom 14:15).
+
+**Although therefore anyone even without fasting could have leisure for exercises of piety**, yet on account of the cause said, a fast indicted by the Church he ought not dissolve. If he dissolves, he sins *mortally* — not so much because he did not abstain from food, as because he *disturbed the order of the Church* and *offended the weak*.
+
+### Case IV. Does the fast of the Church oblige all simply, who pertain to that Church?
+
+**Respondeo.** In the Papacy too scrupulously is this discussed. First they constitute certain genera of those who are *exempt from the fast of the Church*.
+
+**(1)** *The first is of those whom impotence excludes* — such are children up to the age of 21, and old men after the year 60; also the sick and weak, pregnant women, nurses, and the poor.
+
+Four ways they say these are *excused from fasting*: from one *refection* not indeed abstinence from prohibited foods, indeed to the sick according to the counsel of the physician they permit even prohibited foods; to *children before years of discretion* they do not prohibit meats and dairy in the time of fast; the *poor* can, on account of penury of foods, take even prohibited foods; and if they do not have one sufficient refection, they can take even another.
+
+**(2)** *The second genus is of those whom necessity excludes* — through which they say are *excused* all *obligated to labors*, who from fasting cannot be strengthened: such as *farmers* and *mechanics*, preachers and lecturers in schools, those hearing *confessions* the whole day, disciples also *obliged to exhibit exercise*; those making a long journey on foot — to which *Lorich* adds those *conjugated*, for rendering the *conjugal debt*, unless from devotion by mutual consent they wish to contain on days of fasting.
+
+**(3)** *The third genus is of those whom the exercise of a greater good excludes* — as if one were to undertake spontaneous pilgrimages on a fasting day, which he understands profits more the salvation of the soul than fasting; if a wife sees her husband on account of his fasting irritated to quarrels, since it is a greater good, *conjugal concord*, than fasting.
+
+**(4)** *The fourth genus is of those whom the dispensation of a superior excludes* — which they say the *Pope* can give absolutely, that is, *even without a just cause*, but a bishop and parish priest only for a just cause.
+
+Then they recount some who *are not excused*, though they think themselves excused — as are *paterfamilias*, hosts, innkeepers, who set out food to their own on fasting days, through whom they believe or attempt fasting can be violated; *paterfamilias* who impose heavy labors on the servants on the fasting day, which commodiously could be deferred to another day; and those who on the day of fasting prepare *convivia* to others, offering occasion of dissolving the fast — of which is *Tolet* (lib. 6 *summae Sacerdotalis* cap. 4) and *Lorich* (*Fasciculus Sacerdot.*).
+
+**But all these things partly from a *superstitious distinction of foods*, partly from the *forced ecclesiastical laws of the Roman Church*, proceed — and not undeservedly are little cared for by us.** Since however the *true Church* can bear laws of fasting, in her own manner obliging the conscience, as in the preceding we have shown, we should know that all altogether who can fast are *obligated to those laws*. For no one rashly should disturb the *order of the Church*, nor cast *scandal on the weak*.
+
+*Exceptions however are* those who either *by nature*, or *by age*, or *by health* are less apt for fastings. *Nature excepts* those who have a *colder stomach*, so that for a long time they cannot abstain from foods without peril to their health. In these fasting would not attain its end, but would rather impede prayers and sacred meditations, which — with the stomach growling — are done with less alacrity; and otherwise fastings ought not to *offend nature*, nor injure health.
+
+*Age excepts* children and the elderly, who can long lack food; to them one must *indulge something*, yet so that they have *moderation in eating*, and some distinction may be made between solemn fasting days and others.
+
+*Health excepts* pregnant women, sickly ones, those ill — to whom food not only serves for *nourishment* but as it were as *medicament*. To all these, not by any peculiar law or dispensation, is food to be permitted on a fasting day; but because *necessity has no law*, and fasting is neither cult, nor a part of divine cult, but a *free constitution of the Church*: only in *quality and due quantity of food* let *moderation* be observed, according to the cautions noted in the preceding.
+
+### Case V. Whence do we reprehend in the *Papacy*, that a fast is indicted with *distinction of foods*, whereas Paul *the prohibition of foods calls "doctrine of demons"*? Are we not, when we too when we fast, obliged to abstain from certain foods — the more delicate ones — falling into the same rebuke?
+
+**Respondeo.** For the right decision of this case, we should observe that the *prohibition of foods is multiplex*.
+
+**(1) *The first is Levitical*.** God himself, the distinction between *clean* and *unclean animals* was made by him before the deluge (Gen 7:2,8), repeated by him at Sinai (Lev 11:1 seqq.). From these he bid to abstain — not indeed as if some animals were in themselves *by nature unclean*: but that he might *distinguish his people* by this external distinction from the gentiles, and by this pedagogy bind them *to his Word*, outside which even in food nothing was licit to them; and that he might prove their obedience by prohibiting those things which *are not evil in themselves* — just as of *Adam* he proved obedience by prohibiting the *tree of knowledge of good and evil*. But this prohibition of foods lasted only *in the commonwealth of the Hebrews until Christ*, according to that: *the law and the prophets were until John* (Matt 11:13). But through Christ, the yoke of *Levitical ceremonies* being taken away, and the *political pedagogy* ended, the *distinction of foods* also is taken away, as *Paul* testifies (Col 2:16).
+
+[*Four dispositions concerning foods*: (1) before the fall, all herbs and fruit-trees (Gen 1:29); (2) after the fall, bread and vegetables (Gen 3:18); (3) after the deluge, meats (Gen 9:3); (4) after the advent of Christ, all foods equally clean.]
+
+*Query*: Why in the OT are certain animals declared *pure*, certain *impure*? *Philip Melanchthon*, as *Manlius* refers in *loc. commun.*, responds: *because many were born in the promised land who were most filthy — therefore against those swine who overturned everything up and down and devastated, God prohibited swine to the Jews*. But besides that this response addresses only species of swine, and cannot satisfy the general question, the *judgment of Tertullian*, which with peace of Philip's authority I shall speak — pleases me more, which he has in his *Epistle on Jewish foods*: *God, he says, forbade certain animals as if impure — not that they were truly impure, since they are creatures of God — but for two causes: (1) that in animals the human morals might be depicted, both actions and wills. So the swine's flesh, that is, a carnal life, is prohibited; the weasel, that is, thefts, are reprehended; the eating of a lizard, that is, a certain uncertain life; the raven, that is, cunning voluptas; the sparrow, that is, incontinence — all which in that animal indeed are not criminal, since they are born so; in man they are culpable, because contrary to nature, not sought from institution but from error. (2) For coercing the intemperance of the people, these remedies were sought. But since* Christ has now come, since he opens the sinuses of the whole obscurity of the law, therefore all foods with their blessings are restored to their finished law; nor to solemnities of foods must we return, since a certain cause had commanded them.
+
+[*Christ removed the evangelical yoke of the law, which yet is to be understood with the law of frugality and continence.* — *Ita* Bede, *l.4 Reg.* 5 §17 &c.]
+
+**(2) *The second is Ethnic*.** For among some ethnics the *use of certain animals in food* was such that *even Orpheus abhorred from flesh*, and by *Triptolemus* three laws were circulated: *parents to be honored, gods to be venerated, animals to be spared*, as *Diodorus* writes in the books of antiquities. In the time of *Saturn*, meats being rejected, they used to feed on fruits and pomegranates, as *Caelius Rhodiginus* refers (lib. 18 *lect. antiq.* c. 2). *Indian sages*, whom they called *Gymnosophists*, were so studious of abstinence that they lived only on apples, rice, and meal, as it is in *Pliny* (lib. 11). And in Crete the *prophets of Jove* did not eat meat, nor even things cooked, as *Euripides* refers *Hymniti* (lib. 2 in *Iovinian*). See *Alexander ab Alexandro* *Genial. dier.* c. 27.
+
+**(3) *The third prohibition of foods is heretical*.** For *Saturninus*, the disciple of Simon Magus, *Tatianus*, and originating from them *Encratitae*, abominated all animate things. In which error was also *Hierax*, who taught not to feed on animate things, pronouncing them *guilty of judgment who eat flesh, as if they ate a soul* — as *Epiphanius* writes (haer. 14). The same *Manichaeus* taught, according to *Epiphanius* (haer. 66). But these prohibitions are *partly superstitious, partly manifestly impious*, since foods are damned *which God created to be received with thanksgiving by those who believe and know the truth* (1 Tim 4:3).
+
+**(4) *The fourth prohibition is Physical* — when the *physician prescribes* to the sick a *diet*, and interdicts certain kinds of foods because they do not conduce to health.** Of which kind is what *Avicenna* is said to have written, that *not a few of the ancients were content to eat only meats in the morning*, and at supper used only bread, as *Caelius Rhodiginus* refers (lib. 28 *L.A.* c. 2).
+
+[*Seek a physician, and thou fleest fasting, as if any physician were more excellent than fasting.* — *Ambrose*, *Quo lib. hexaem.*]
+
+**(5) *The fifth is Political* — when the *magistrate*, whether in the siege of cities, or during high price of grain (annonae), or for other things demanding, establishes laws of food, or when some common peril imminent he indicts *laws of fasting*.** For instance, of old, when oxen had failed, by a law promulgated, abstinence from beef was made, as *Athenaeus* attests (lib. 9); and that no one during a year should consume more than fifteen talents of *smoked meat*, as *Caelius* writes (lib. 9 *L.A.* c. 27). Thus of *Valens the Emperor*, *Jerome* writes (lib. 2 in *Iovinian*) that he *established a law throughout the Orient, that no one should eat calf's meat*, providing for the utility of the sick. And in *England* at certain seasons of the year it is prohibited to eat meats, lest *lambs not yet perfected* be at the same time destroyed, and that account might be had of *fishermen* — as *Perkins* refers *In Catholico reformato*.
+
+**(6) *The sixth is Domestic* — when someone prescribes to himself and his own certain laws of foods, and studiously abstains from dainties and more delicate foods, that he may live more temperately, diminish the seed of diseases, and be more apt for prayers and sacred meditations.** Thus *Tertullian* praises the *selection of foods*, which is useful for conciliating temperance (lib. *de cibis Iudaicis*).
+
+[*I shall do so, that thou dost not kick*, said *Hilarion the eremite* to his own flesh — *not with barley shall I feed thee, but with chaff, of straw and stubble, from a filthy vessel; do not despair.* — *Marulus* i.9 c.5.]
+
+**These three species of prohibitions are not illicit**, for in all these, whatever conduces to *health*, to *good order*, or even to *private devotion*, is not alien from divine disposition, which neither takes away the canons of physicians, nor abolishes polities, nor disapproves domestic discipline.
+
+**(7) *There is a seventh prohibition of foods in the *Papacy*, which can be called *hypocritical* or *Pharisaic* — which under the splendid title of *ecclesiastical laws* is obtruded in the *Papacy*, where certain foods (namely meats, eggs, cheese, butter) either to a certain order of men always, or to all altogether on a certain day, are *interdicted* — so that those who obey this interdict, some *singular merit, sanctity, and perfection above others are attributed to them*.**
+
+Concerning this prohibition of foods *D. Paul* in two places acts, as if this very Papist error he took to be professedly refuted. **One is Col 2:20 seqq.**, where he introduces certain speaking so: *touch not, taste not, handle not*; and these prohibitions, he says, *have appearance of wisdom, since they are of voluntary cult, which conduce to affliction of the body and humility of soul* (v. 23). *But you*, he says, *with Christ are dead from such elements of the world, and with him have risen* (v. 20) — so that you should give work to divine cult in his kingdom. Foods, however, contribute nothing to cult, because by the very use they are consumed (v. 22). And as elsewhere he speaks: *food does not commend us to God: for whether we eat something, or whether we abstain from certain things, we shall have nothing more in the kingdom of God* (1 Cor 8:8).
+
+**The other place is 1 Tim 4:3**, where the *Holy Spirit* diserto says that in the last times there will be *impostors, who shall precept abstinence from certain foods in hypocrisy under simulation of extreme sanctity, when yet within the soul is impure, and the conscience is noted with a cautery*. Which *Apostolic thunderbolt* the *Romanists* would willingly ward off from their necks: for they say the Apostle speaks of *Manichaeans, Marcion, Tatianus, and Encratitae*, who damned certain foods as *per se impure*, as appears from the commentary of *Benedict Justiniani the Jesuit* on this place (fol. 479). But he labors in vain.
+
+For **(1)** the text itself shows that the Apostle acts indeed of those *ancient heretics*, in so far as with the *Papists* they have something in common: but above all he strikes at that *Antichristian prohibition of foods in the Papacy*.
+
+**(2)** For the Apostle speaks *of the last times*, in which many *shall depart from the faith*, pointing his finger not at the age a little after his own, but at the *last times of the world*, which elsewhere in Scripture are noted by the voice *ἐσχάτου* (which Paul in this place uses), as Matt 25:26 and 24:14, Mark 16:24. And altogether pertain these damnations *of the Antichristian* to those *efficacious errors* by which God, in the time of revealed *Antichrist*, would punish those who did not wish to receive the *truth* (2 Thess 2:12).
+
+**(3)** *Paul does not treat of those who damn foods*, as *Manichaeans* did: for of this matter no trace appears in the text; but of those who *do not damn foods*, but on a certain pretext (as the Apostle speaks, *by hypocrisy* and *appearance of singular perfection*) prohibit. Which *Manichaeans* and other heretics did not do, but simply *disapproved foods from animate things as impious, and unworthy of Christians*. But the Pope with his own does not want to *damn foods*, but on account of *singular sanctimony and perfection of appearance* prohibits. So *Thomas* writes: *to those tending to perfection above all is to be avoided the conjugal bond: the same and foods are prohibited to the perfect*.
+
+**(4)** If it is granted that *Paul acts of those ancient heretics*, yet not thereby are those excepted who in subsequent times, at any time whatever, prohibited foods. For he does not act of some certain sect, but of all who prohibit foods. Just as he damned *justice of works* in false apostles, which today is equally damnable, and reprehended illicit concubinages in the Corinthians, which reprehension still holds — for always both *justice of works* and *illicit concubinage* are contrary to the *Word of GOD*, in whatever man they are found.
+
+**From all these therefore most firm arguments can be constructed against the hypocritical prohibition of foods in the *Papacy*, in which almost even their fasting consists**:
+
+**(1)** Because *Paul* calls it *doctrine of demons* — to prohibit foods by hypocrisy, or under appearance of singular sanctimony and perfection — which yet *God has created for receiving with thanksgiving by the faithful and those who know the truth* (1 Tim 4:3).
+
+**(2)** Because it has indeed *appearance of some wisdom*, but *not being of any prize*, since it attains to those things by which the flesh is more affected (Col 2:23).
+
+**(3)** Because neither is it cult, nor pertains a part to some cult, but the whole ratio of fasting pertains to *corporal exercises*, of which Paul writes (1 Tim 4:8): *bodily exercise is of little profit unto salvation*. For *food does not commend us to God* (1 Cor 8:8), and *it is good that the heart be strengthened by grace, not by foods, which have not profited those who have walked in them* (Heb 13:9) — that is, who have observed that superstitious distinction after the *revealed Gospel*.
+
+**(4)** Because to prohibited foods they *ascribe some impurity*, therefore they prohibit meats and dairy, since *the earth is said to be cursed by God because of sin*, and consequently also the animals living on the earth. By their *consecrations*, however, they write, foods are *sanctified* — by which they pray that *all the army of the devil, all power of the enemy, all incursion of demons, may be eradicated and extirpated from this creature*.
+
+Not far this distant from the *madness of Tatianists* and *Manichaeans*, who established that *creatures at those times, when they are not consecrated, are infected by the power of the devil*.
+
+**(5)** Because to foods and to any creature they attribute the *virtue* of conferring *grace and celestial benediction* — as in the *consecration of cheese* they say: *deign to bless and sanctify this creature of cheese, that whatsoever of thy faithful shall eat of it, may be replenished with every celestial benediction and thy grace with sanctity*. And in general, of any creature at consecration, they say: *thou, Lord, send thy Holy Spirit into this creature, that they who shall taste of it, may profit to eternal salvation*. Which *spiritual efficacy* they attribute to the *virtue of the words* by which it is consecrated, to the *prayers of the Church*, and to the *devotion of the users* — as *Bellarmine* writes (lib. 3 *De cultu sanctorum* c. 7). Which how little differs from *magical efficacy of words*, let the sages judge: this is the fruit of that *Papist distinction of foods*, which they use in their fastings.
+
+**(6)** Finally, to that distinction of foods they attribute *singular perfection and opinion of merit*, so that they think those *far more holy* who *abstain from meats*, than those who do not do this — though meanwhile they ingorgitate themselves with other dainties. But *food does not commend us to God* (1 Cor 8:8), nor *does the kingdom of God consist in food and drink* (Rom 14:17); and all cult in general with opinion of singular merit is illicit. For which cause God even *disapproved sacrifices instituted by himself*, when without faith in the Messiah, from *opus operatum* and *opinion of merit*, they were offered (Isa 1:11; 66:3). And fasting without penitence instituted he expressly rejects (Isa 58:6-7). The *Pharisee* among other good works proposes to God also this: *I fast twice on the sabbath*, and yet he did not go home justified (Luke 18:12). Nay Christ altogether rejects the *Pharisaic fast*, which was undertaken for *ostentation, satisfaction, and merit* (Matt 6:16): *when ye fast*, he says, *be not as the hypocrites, who disfigure their faces, that they may appear unto men to fast*. And (Matt 9:16) he compares the Pharisees in this manner fasting to *worn-out garments* to which the newness of the Gospel would not fit.
+
+*For these causes therefore the Papist distinction of foods, prohibition, and fasting is deservedly disapproved* — with its own place, however, remaining, that selection of foods which conduces to *humbling and exciting the mind of man*, and which from no law obliging the conscience, but *freely* is usurped.
+
+### Case VI. For what causes is the *Papist fast* to be abstained from?
+
+**Respondeo.** The *Romanists* accuse us, that in our churches fastings are entirely removed, and *restraints for taming the flesh* broken. But they do us injury. For *fasting*, just as it is described in the Bible and shown by examples of the saints, is not yet removed in our churches — which consists in moderate use of foods, in abstinence from *lavish and delicate foods*, or even from foods altogether for a time, as one may think necessary for himself, for restraining the flesh, for humbling the mind, and for exciting in *serious exercises of piety and penitence*.
+
+*But that we deny the Papist fast has been removed from our churches, so far is it, that we rather thank God, congratulate ourselves, and admonish all the pious that they beware of such fasting*. For it is not fasting, but, as *D. Chemnitz* rightly established, *a mere mockery of true fasting described in the Bible*.
+
+**(1) First, the whole Papist fast consists in *abstinence from certain foods*, chiefly meats and dairy — but by which causes that distinction of foods is not to be attended, we said in the preceding decision.** Yet let it be considered how manifold *deceit* here concurs:
+
+**(a)** They have *frivolous* causes for this interdict: *from meats one must abstain*, they say, *because the earth is cursed on account of Adam's sin, but not the waters, which afterward through the baptism of Christ were sanctified: Christ after resurrection ate fish, not meats: the flesh of animals provokes to libido* — and other trifles which move no pious man.
+
+For God did not curse the *foods of the earth*, which he made for the use of men, and which *Paul* says are *good, and are sanctified through the Word and prayers* (1 Tim 4:3). Indeed why do they not also prohibit the *use of bread*, which is also *born of the earth*?
+
+If *waters through Christ's baptism*, in which he touched them, are sanctified, why is not the *earth* also sanctified through his daily walking?
+
+If Christ *after the resurrection ate fish*, he ate also *before the passion meats*, especially the *paschal lamb*.
+
+*Fish well-seasoned* are more delicate and *irritate libido more* than meats hardened by smoke. And yet with such frivolous ratiunculae they try to deceive the simple.
+
+**(b)** They *prohibit meats and dairy* even in the least quantity, but fish and other dainties they concede to be filled *not only to satiety but even to nausea* in the time of fast. They say: *manifest excess in quantity of food diminishes indeed the merit of fasting, yet does not dissolve the fast, since ecclesiastical law does not have anything defined about quantity, provided that from meats one abstains*.
+
+**(c)** They bid fasters to abstain from *meats and dairy* — but not from *wine* (in which yet *luxury* is, as *Paul* teaches, Eph 5:18), nor from *most delicate seasoned fish*; nay in time of fasting they teach *wine with fish to be necessary*. Such *egregious fasters* they have provided for themselves. And if even more than is just, and necessity requires, on fasting days wine is drunk, *this is indeed against temperance a sin*, *not however against fasting*, as *Azorius* writes (lib. 7 *institut. moral.* c. 10 q. 7) — as if fasting could stand with *intemperance*.
+
+[*Is not confusion and ignominy, that Him — crucified, poor, and starving — the Sacred Preachers of fasts, ill filling puffed-up cheeks, on the mouth would present?* — *Hieron.* in *May distinctions* 35 can. eccl.
+
+*Where is that fast when we are contained the whole day, and yet with more sumptuous banquets our meditations are cared for? Where is our meditative one whose throat is exercised in dainties?* — *Jerome* lib. 1 *contra Iovinian.*]
+
+**(d)** In the very time of fasting they concede to the fasters some *refreshment*. This *refreshment Azorius* calls (tom. 1 *inst. moral.* lib. 7 c. 8 q. 4) *vespertine*, which *at night, or at the appetite of evening, just before sleep, nature refreshes*, and he writes it to be *licit* not from law or from necessity of nature, but *partly from received custom, partly because a little food is taken*, which is held for almost nothing. But here too *deceit lurks*. For they concede so much of bread and generous fruits of the earth as suffices for refection of nature, and yet they are said to *fast*. They permit *morning refection* on account of health; they permit *more frequently in the day to drink wine*, both for digestion of foods, and for the alteration of the body. And to those drinking afterward they concede *to take something of food, lest drink harm* — but *by the manner of medicine*, as it is in *Iodocus Loerichius* (*Thesauro theol. novo*, voce *ieiunium* n. 3).
+
+**(e)** They say they fast *up to the evening*, but by *evening* they understand not the *evening hour*, but *when the vespertine office is celebrated*, which about the second hour post meridiem is usually done. Then they institute *supper*, which finished, a *vespertine collation* follows — which indeed the table is not solemnly set, but with a cloth in a circle, filled with confections, electuaries, placentae, cakes, *bolcus*, nuts, dates, and other dainties to satiety, with good wine added. This forsooth is to fast in *distinction of foods* — which fasting perhaps one might place before daily lunches and suppers. For which cause we not undeservedly disapprove the *Papist fast* as a *mockery of true fasting*.
+
+**(2) Then the Papists bind their fast to *certain seasons*, though *Augustine* confesses that it is not defined by the *precept of the Lord or of the Apostles* by what days one must fast, and by what one must not.**
+
+Yet although we do not disapprove certain fasting days: for in the primitive Church also they had *fixed times* — yet this is in the vice: (a) that days of fasts in the Papacy are multiplied, such as the *Quadragesimal fast*, that of the *four seasons* (namely in spring, month of March; in summer, month of June; in autumn, month of September; in winter, month of December); *of the Wednesday and Friday*; fasts in vigils of *Nativity of the Lord*, of the *Assumption of Mary*, of the *Apostles*, which they call fasts *indicted or instituted by the Church*; in the vigil of *John Baptist*, *Lawrence*, and *All Saints*, which they call *customary fasts*; fasts in *Advent of the Lord*, in *Rogations*, in the *vigil of Pentecost*.
+
+**(b) That they *obtrude those fixed days of fastings under the opinion of necessity*, whereas the times of fastings in the ancient Church in diverse places were dissimilar, and of *free observation*.** *Azorius* confesses this of the fast of *four seasons*, *that it was not in all provinces preserved in the same mode*; afterward however that *Leo I* and *Urban II* constituted, that everywhere in this manner it be celebrated: first at the *beginnings of Lent*, second in the *week of Pentecost*, third in *September*, fourth in the *full week before the Nativity of the Lord* (Azorius lib. 7 *instit. moral.* c. 17 q. 1).
+
+**With these therefore observances of days necessarily nooses are twisted to consciences**, from the *ἁμαρτία* of the Mosaic law, where of the tenth day of the seventh month it is written: *every soul that has not been afflicted on this day, shall perish from its people, and I will destroy it from its people* (Lev 23:29). But we know that such things which pertained to *pedagogy of the Judaic people* in the NT through Christ have been abrogated. Therefore *Paul* teaches, that observation of days under opinion of necessity *fights with the Gospel* (Gal 4:10). Much less is given to the prelates of the Church the power of loading consciences with new statutes about observation of certain days — and indeed more than were bidden to be observed of old in the Old Testament.
+
+**But even this Papist sanction is not without fraud**: for since on fixed days they prohibit certain foods, yet *dispensation* those can easily impetrate who number money. For extant is in the *Taxa of Sacred Penitentiary* (as they call it) also a *taxa for a license of using dairy in prohibited times*, for *one person*, for the *whole family*, for *many conjoined*, for a *chapter*, *college*, *congregation*, or *university*, for a *town and its district*, also for *clerics*, *brothers*, and *nuns of any order*, &c.
+
+See the *Taxa* in *Causae recusati Concil. Trid.* p. 431.
+
+And although of old the laws of fastings in certain persons and for just causes were *mitigated* — nay, anyone deprehending such a cause which would excuse from fasting, without dispensation by himself could dissolve the fast; today however the *Roman court weighs not so much causes as money*. Where those who are richer easily can find the power of feeding on any foods whatever, at any time whatever. So this too is not the least of the *Papist mockeries* concerning fasting.
+
+**(3) In the third place, especially each ought to abhor from the *Papist fast*, that they affix to it *the opinion not only of singular sanctimony, but also of merit and satisfaction***. So not only the ancients but also *more recent* have taught, among whom is *Peter a Soto*: who writes that *fasting not only for subduing the flesh to spirit, but also for placating God, for satisfying to him for sins of Christ, to merit us to be applied, is necessary*. And *Azorius* (tom. 1 *instit. moral.* lib. 7 c. 14 q. 1) about the *fast of four seasons* teaches that *they are instituted, that we may offer them to God for expiating sins*. *Iodocus Lorichius* (in *thesauro theol.*, voce *ieiunium* n. 3) says *fasting, like any good work, merits grace and glory*. *Pererius* (disp. 1 in c. 14 Rom. n. 79) writes expressly against the Apostle, that *the kingdom of God consists in food and drink so far as by abstinence which is toward God, we punish in ourselves*. And it cannot be denied that even *Bernard* from the superstition of that age in this kind attributed too much to fastings; thus he writes (Serm. 66 in Cant.): *I too sometimes abstain, but my abstinence is satisfaction for sins*.
+
+But since this doctrine simply strikes against the *merit and satisfaction of Christ*, no man's authority moves us, so that we should make it our own. Nor is any of the saints in Scripture read to have fasted *for expiation of his sins*: nor can fastings either taken up or indicted or even divinely precepted have any *proportion, force, or value of taking away sins*, which can be expiated only by the *precious blood of the Son of God*.
+
+[*P. Bernh.* elsewhere speaks with more elegance about fasting (Serm. 3 *de festis*): *if only the throat has sinned, only the throat fasts; if however the other members have sinned, let them fast also. Let the eye fast from curious sights; let the ears fast from fables and rumors; let the tongue fast from detraction and murmuring; let the hands fast from evil works; let the soul fast from vices and its own will.*
+
+*Then preclarous is (be it granted to me to speak according to the mind of Jerome) abstinence before God, when the soul fasts from vices. For what does it profit to empty the body from food, and to fill the soul with sins? What does it profit to be pale from fastings, if by hatred and envy you grow livid? What does it profit not to drink wine, and be inebriated by poison of wrath? What does it profit to abstain from meats created for eating, and to tear the members of your neighbor with malignant detractions?* — See *Maxim.* Serm. 27 *de temp.*]
+
+For all these causes altogether we ought not follow the *Papist fast*, which not only reeks with many frauds and impostures, but also, by reason of its *principal end* — which consists in *merit and satisfaction* — is *not free from impiety and blasphemy*.
+
+### Case VII. What if a *Lutheran* were dwelling among the *Papists* or on a pilgrimage — should he abstain from meats and dairy on those days by them prohibited, so as not to offend the weak?
+
+**Respondeo.** So indeed to some it seems, on account of the saying of Apostle *Paul* (Rom 14:14-15): *if on account of thy food thy brother is saddened, thou walkest not any longer according to charity: destroy not by thy food him for whom Christ died*; and (v. 21): *it is good not to eat flesh, and not to drink wine, nor whereby thy brother is offended, or scandalized, or weakened*; and (1 Cor 8:13): *if food scandalize my brother, I will not eat flesh forever*.
+
+They urge also the saying of *Ambrose* (which is cited by *Augustine*, Ep. 86 to Casulanus): *when I am here (at Milan), I do not fast on Saturday; when I am at Rome, I fast on Saturday: and into whatever church you enter, keep her custom, if you wish neither to suffer nor to cause scandal*. From these it can be seen that those who live in the Papacy should live according to Papal laws of fasting too, that the weak not be offended.
+
+**But by much surer conscience it is to abstain wholly from the Papist fast**, **(1)** because those laws are not divinely indicted, but *humanly invented*, not only that *flesh may be subdued to spirit*, but also that *through those fasts may be made expiation of sins*: which *final cause*, since to the merit and satisfaction of Christ it is *injurious*, renders the fasts of the Papists *especially vicious*.
+
+**(2)** A *Lutheran* of this kind knows that the eating of meats on any day is *licit*: for *food does not commend us to God, neither by abstinence from it*. But he who abstains from the use of a licit thing under opinion, I shall not say of *merit*, but even *of necessity*, wounds his conscience.
+
+**(3)** That abstinence would not lack *suspicion of hypocrisy*: for it would seem to simulate the *Papist religion*, since *communion of rites is as it were a symbol of communion in religion*. But the faithful *ought to abstain from every appearance of evil* (1 Thess 5:22).
+
+**Therefore, if one has to live among Papists**, either on days of fasting let him flee their commerce, or by his *power of using any foods whatever*, in his private *convictu* freely let him use — always mindful of that Apostolic: *to the pure all things are pure* (Tit 1:15), and of the Savior: *what enters the mouth does not contaminate the man* (Matt 15:11). But in favor of the Papists let him not abstain from some certain food. If from thence some scandal arises, it is *not given but taken*: for *given scandal* is when something is against divine mandate, or contrary to what is consentaneous with the divine — of which kind those Papist fasts are not.
+
+Yet let him give effort, that if the Papists among whom he lives are of a *better mark*, who neither pertinaciously defend their opinions, nor tyrannically persecute those contradicting, he may instruct them concerning the *true use of indifferent matters* — by which reason he can best avoid *scandal of all*. But if in *convivia* with a *Papist on a fasting day* he reclines, let him eat what has been placed before him, because *fish also are foods created by God and in themselves clean* — just as it was formerly permitted for Christians in the *convivia* of ethnics to eat *foods offered to idols* (1 Cor 10:27). But let him not compel a *Papist* who in his own conscience is persuaded that eating meat on that day is a sin — to eat meats: for although *all things are in themselves clean*, yet to those who judge them impure they become impure (Rom 14:14).
+
+**As for the *Apostle Paul's* place cited above**, it does not fight with this opinion. For he speaks of the *weak brothers*, that is, of those weak who are of *our religion*, and in the use of indifferent matters *are not yet rightly informed*. On their account we should not sadden our food; therefore if perchance they, for a certain licit end (say, from devotion and piety), abstain from meats — with them present, meat is not to be eaten out of contempt or envy of them, that liberty of theirs be not damned by us. Which cannot but *most gravely offend* them.
+
+[*Paul wants to abstain from meats prohibited by no law; the Papist abstains from meats prohibited by ecclesiastical law.*
+
+*Paul's abstinence lacked opinion of necessity and merit; the Papists' is otherwise.*]
+
+**But the *weak* of the Papists are not *brothers* but *enemies of orthodox religion*: not through some ignorance, but from *necessity and opinion of peculiar merit* they abstain from certain foods — to whom for an hour to condescend is dangerous, and our liberty is put in peril, and we are implicated in their perilous *opinion of merits and satisfactions*.
+
+**As to the counsel of *Ambrose*** — it obstructs us in nothing. For he speaks of *those churches*, where by honest causes (which we enumerate there) on certain days fasts were indicted; because however not to all in the same manner was the *ratio of fastings*, sometimes fasted on the Sabbath on account of *humility of the death of the Lord*, sometimes did not fast, but abstained from *reflection of joy*, on account of the *rest afterward the death of Christ given us*, as *Augustine* there teaches. Therefore *Ambrose* counsels that the *custom of each place is to be followed*.
+
+**In *middle* things we too follow this counsel usefully**, if perchance in some *particular Church* some rite has been introduced for a good end, which indeed for the sake of *Christian liberty* we can follow, or omit. But if its omission would offer *scandal to the weak*, on account of this one cause it becomes *necessarily observed*. For *woe to him through whom scandals come* (Matt 18:7). But what has this to do with *Papist fasts*, which under opinion of necessity and merit are obtruded on all churches? Which sanction, since it imposes yoke on the faithful, and fights with the liberty *which we have in Christ Jesus*, and with the Apostolic prohibition *let no one judge you in food and drink* — and has an *impious end* — is not to be preserved by those who in these matters are informed.
+
+### Case VIII. What is to be established concerning the *quadragesimal fast* — is not our conscience obliged to that fast of forty days?
+
+**Respondeo.** The *quadragesimal or forty-day fast* is that which in the last 40 days before Passover, commonly is inchoated from the *Wednesday of ashes*, which is vulgarly called *Wednesday at the head of the fast*. But *before Gregory the Great* it was always inchoated on the *Lord's Day*, which is called the *first of the quadragesima*, as *Ambrose* openly teaches (Serm. 34, which is *De quadragesima*); *Cassian* (*Collat.* 21 c. 24, 27, 28); *Gregory* (Hom. 16 in Evangel.); with which agrees from the *Jesuits John Azorius* (lib. 7 *instit. moral.* c. 12): *this, he says, is the common opinion of writers, that in cap. quadragesima, de consecrat. dist. 5 it is openly said, four days before the first Sunday in Quadragesima are added, that all plainly should observe the *quadragesimal fast* of forty days*.
+
+Of *Pope Telesphorus* is read in c. *statuimus* dist. 34 § 4 *ad clerum*, that *he ordered clerics to fast for seven weeks: prescribed only, that others should inchoate the fast from the fourth day of the week*.
+
+The *end* of this fast is commonly referred to *the fourth day of the great week*, which is called *the fifth day at the supper of the Lord*: others end it at the *Sabbath which immediately precedes Passover*; whence the authority of the *Council of Laodicea* (c. 50 which is cited in the *canon law* Gratian c. *non oportet* de consecrat. dist. 3): *it is not lawful in the fifth of the last hebdomad of Quadragesima to dissolve the fast, and the whole quadragesima to dishonor, but through all days of quadragesima to fast*. The same is decreed in c. *non liceat* de consecrat. dist. 3: *it is not lawful on the sixth feria, and on the Sabbath of any hebdomad, to preserve the fast, unless the fast be for the whole quadragesima* — whence *Ambrose* wrote: *the quadragesimal fast up to Passover has forty days*.
+
+In this fast either from all food they abstain up to supper, and this they call *perfect and full fast*; or from meats and those which draw origin from meats, though more often than once they eat, and this they call *imperfect fast*.
+
+*This fast Bellarmine calls Apostolic tradition*: for those things which are from the Apostles have divine authority.
+
+They adduce also *certain sayings of the fathers* — as *Ambrose* (Serm. 25) writes *this fast to be indicted by Christ the Lord*; and (Serm. 34) *this quadragesima the Lord commended to us as the greatest and greatest of all*. *Chrysostom* (lib. 1 *de bono operib. in partic.* c. 14) — but concerning its authority they do not agree.
+
+Some think *it is of divine right, which by his example Christ commended*, in which opinion is *Stapleton* (in *Promptuar.* dist. 3).
+
+But those who hold the earlier opinion think that indeed the *whole quadragenary* is completed by the *fifth feria of the great hebdomad*; and to it the two ferias following (sixth and Sabbath) are added from the *common fast of the whole year*: because *through the whole year the Latin Church has consecrated by its fast*. So *Maximus* (Hom. de quadrag.) writes: *the quadragenary fast has not so much been instituted by men, as consecrated by God, and precepted by celestial majesty*. *Augustine* (In Psalm 100) writes: *the quadragenary fast is precepted to us both by law and by the prophets, and by the very Gospel, which has testimony from the law and from the prophets*.
+
+But *Azorius* (lib. 7 *instit. moral.* c. 12 q. 4) contradicts this opinion, and says *this is not of some sanctimony, since the fathers did not rightly understand it*: *the common opinion of Scholastic Theologians*, however, is that the quadragenary fast is *not of divine right, but of Apostolic tradition or mandate, and of canon law, and of general ecclesiastical custom to be cultivated and celebrated*. And the fathers, he says, said only this — that this kind of fast in the *Old or New Scripture has examples, in Christ, Moses, and Elijah*: which yet he thinks are not to the proposal of imitation, since *not whatever Christ himself did, we too are also to do*.
+
+**We willingly acknowledge the antiquity of the *quadragesimal fast*, but under law of necessity, and under opinion of merit and satisfaction, we are not willing to be bound to it**: nor indeed at antiquity was it on that name indicted. But since from *Eusebius* it stands (lib. 5 *hist. eccles.* c. 24) that in the time of *Irenaeus* a *public fast a little before the feast of Passover was instituted*, because about that time the public penitents were received, and *adults were baptized*; and to the *meditation of the Lord's passion* they prepared themselves — afterward they instituted the *solemn fast for mortification of the flesh and exercises of penitence about Passover, that with Christ they too might suffer something*. For, as *Augustine* asks (Ep. 119 c. 15): *in what part of the year the observance of quadragesima could be more congruously constituted, than as close and contiguous to the Dominical passion?*
+
+They chose however the *quadragenary — that is, forty-day — fast* chiefly *in imitation of Christ*, who fasted 40 days; to which they added also the *examples of Moses and Elijah* — which examples still today are urged by the Romanists, especially by *Stapleton* and *Bellarmine* in the loci first quoted.
+
+But many of the Papists notice this ratio to be *cold*, because the fastings of *Christ, Moses, and Elijah* were miraculous; and in *miracles* Christ is proposed to us *not for imitation but for admiration* — which reason *Alexander of Hales* and *Azorius* have (loc. cit.).
+
+They have also *other reasons of this number*, but *ridiculous* rather than solid: as that *the tenth part of the year is to be paid to the Lord*, which reason they draw from *Gregory* (Hom. 16) and *Cassian* (Collat. 21 c. 27). But since the tenth part of the year consists of only 36 days, they number the beginning of the fast from the *first Sunday of Quadragesima*: from that day up to Passover they say are 42 days; with the six Sundays subtracted, on which they do not fast, there remain about 36 days.
+
+But this calculation will not stand with those who begin quadragesima on the *day of Ashes*, namely four before the *first Sunday of Quadragesima*, and end at the *fifth feria of the great hebdomad*. And how can the fast be called *quadragesimal*, when it is only of 36 days? Which doubt gave occasion for the distinction between *full and semi-full fast*, on which see *Azorius* (lib. 7 c. 22 q. 3).
+
+Others have other causes of the quadragenary number: because we are obliged to *satisfy God for the transgression of the Decalogue*, according to the inordination of the *four affections* against single precepts: but *four times fourteen makes* — wait rather — the *virtue of the Decalogue* is fulfilled through the *four Gospels*, since *ten times four makes 40* (*Augustine* Ep. 118 lib. 1 *De consens. Evangel.* c. 4): because God for 40 days and nights *rained the waters of the deluge*; because *forty days were given to the Ninevites* for penitence; because *for forty stations Israel came from Egypt to the promised land*, and things of this kind.
+
+**All these reasons are of not so much moment, that they should oblige the conscience to observation of the quadragenary fast.**
+
+Nor was this fast *uniformly received in all churches of antiquity*, which the *Romanists* cannot deny. For some inaugurated quadragesima *from the seventieth*, others *from the sixtieth*, others *from the fiftieth*, others *from the fortieth*, others *from the day of Ashes*, others fasted *only one day in Quadragesima*, others *two, not few more, many forty*, writes *Irenaeus* (lib. 5 c. 25). *Socrates* (lib. 7 *hist. eccles.* c. 38) and *Nicephorus* (lib. 12 c. 34) refer that the *Romans* used to fast only three weeks before Passover. Nay the *Synod gathered in Trullo* (can. 55) reprehends the *Roman Church* because, contrary to the custom of the Church, on the *Sabbaths in Quadragesima* she fasts — which ill *Azorius* takes (lib. 7 *instit. moral.* c. 12 q. 5 p. 570). Therefore he writes that this canon is *not received*, since the *Roman Church, mother of all churches, was reprehended*.
+
+It appears from this how much variety there was always in the *quadragesimal fast*; yet today it is obtruded on all under the *thunderbolt of anathema*, according to the rite of the Roman Church.
+
+**As however the ancients retained liberty in time or number of days, so also they did not suffer laws to be prescribed to them in a fixed kind of foods.**
+
+Concerning *Spiridion*, who lived around the times of the *Council of Nicaea*, *Sozomen* writes (lib. 1 c. 11) and *Nicephorus* (lib. 8 c. 42), that at the time of quadragesima a guest weary from the road turned aside to him; at what time others were content to live on bread and *polenta*, but those foods failing, on the feast day he had *swine's meats* — which at home he had salted — set before the guest, of which he himself also ate, and exhorted the guest to do the same. Who when he refused to do this, saying he was a Christian: *for this cause, said Spiridion, thou shouldst refuse less, the Word of God pronounces all things to be clean*.
+
+*Irenaeus* objected the variety of fasting to *Pope Victor* (in *Eusebius* lib. 5 c. 26).
+
+Some think one day is to be fasted, others two, others more, others counting the *forty diurnal and nocturnal hours*, establish their day.
+
+And this variety of fasting is not of our time only, but much earlier began by those who before us, ruled by accurate diligence (as it is likely), had held the reins of things, and *simple and common custom* they laid aside and changed — nothing however less kept *peace among themselves*, and even today we retain, and the *dissonance of fasting the concord of faith commends*.
+
+**From all these therefore we can collect reasons not to be contemned, why the *quadragesimal fast*, in the manner it is today observed in the *Papacy*, cannot bind our consciences**: (1) because such a custom of fasting is not from a mandate of the Lord or of the Apostles, but *only from an idiotism* (as *Irenaeus* speaks), that is, from *private sentiment or devotion introduced*.
+
+**(2)** Because the *quadragenary number*, which the *Romanists* so precisely exact, has no *solid foundation*, but *partly on the μυστήριον of Christ, partly on other frivolous ratiuncula it leans*.
+
+**(3)** Because always *uniform* was not in the whole Church such an observation of fasting: because that *dissonance* did not obstruct, but rather profited the *consonance of faith*.
+
+**(4)** Because the Papists themselves do not yet agree, when it should be *inchoated* or *ended*; but about an uncertain matter, laws obliging the conscience cannot be made.
+
+**(5)** Because of old, in the very quadragesima also on the *reborn nature*, they ate meats.
+
+**(6)** Because to the quadragesimal fast is ascribed the *expiation of sins*.
+
+**(7)** Because the quadragesimal fast, in the manner it is used in the Roman Church, in a solemn council was *contradicted*.
+
+**Which reasons all can munite the conscience, that we do not err, when we do not care about the quadragesimal fast of the *Romanists*.**
+
+The *Papists* object to us **(1)** the heretic *Aerius*, of whom *Epiphanius* writes (haer. 75), that *he rejected fixed days of fastings*, saying: *if I wish to fast, I choose a day for me freely, and I fast for the sake of liberty*.
+
+But this matter could not make *Aerius* a heretic, since *Paul* does not want anyone to judge us in food and drink (Col 2), nor to observe days (Gal 4). This did *Eustathius* and others of the *Montanist school*, who prescribed a rigid discipline about the days of fasting, with whom *Epiphanius* holds — so it is no wonder if he held *Aerius* who contradicted for a heretic. But *Aerius* contradicted from a solid foundation, because the *times of fastings are not fixed and ordered by the Apostles*: which even *Augustine* says in Ep. 86 to Casulanus.
+
+**As to what *Aerius* said, that he would fast from liberty on any day he wished, in this he did not sin — for where there is neither precept nor statute of Christ or of the Apostles, there in things otherwise licit *Christian liberty* finds place. Therefore *Tertullian* (lib. *De jejunio* c. 2) writes: *in the NT indiscriminately fasted from choice, not from imperium of new discipline, in the times and causes of each one*.**
+
+They object **(2)** *the decrees of councils* which are wont to be taken up for *resurrection of the Lord*, and by sacred communion in Passover we are deprived. *Erasmus* alone (can. 9) it is mandated to *priests*, that they should preach to the peoples the quadragesimal fast, and *accurately observe*. They add the saying of *Augustine* (Serm. 62): *not to fast in Quadragesima is a sin*.
+
+But these things perhaps are to be understood *of those who in the time of quadragesima not only do not abstain from certain foods, but live most intemperately*, and when the *passion of the Lord* is to be meditated, they themselves *from the highest morning to the evening ingorge themselves with the most delicate foods and wine*: these certainly *most gravely sin*, and are unworthy that they enjoy the *resurrection of the Lord*.
+
+But to fixed days of fastings not to suffer oneself to be bound, when otherwise one lives *temperately enough*, is not a sin, because that observation of days is not divinely precepted: *where there is no law, there is no prevarication* (Rom 4:15).
+
+**And if it be so great a sin, why are the *Papal and bishops* so easy in dispensing, who indeed by no cause the most grave, much less by money, ought to be moved to dispense with sinning? For *God himself neither commands anyone to sin, nor gives space for sinning* (Sir 15:21).**
+
+Nothing therefore is the *Papist Quadragesimal fast* to us. Meanwhile we do not deny that we should give operation with highest study, that the time immediately preceding Passover should be spent in *sanctimonious meditation*, and from all *enticements of the flesh* — whether in victual or in other external pleasures — one should diligently abstain, because that time is the *time of penitence*, which requires *chaste morals, temperate and sanctified life*.
+
+**Nor would they err who at that time on certain days abstain from food and drink, to be more apt to exercises of piety and penitence. But to a fixed number of days, and from certain foods, to abstain under opinion of necessity and merit — this is what especially in the quadragesimal fast we improve.**
+
+### Case IX. Can anyone impose fasting upon himself?
+
+**Respondeo.** The *vow of Jerome* is (Ep. 28 to *Lucinius*, which is cited in the *Canon Law* dist. 76 c. 4 *utinam*): *would to God we could always fast, since in the *Acts of the Apostles* (c. 13:2, and 27) *on the Sabbath and on the Lord's Day, we read that Apostle Paul, and with him those sitting, fasted*.
+
+But since we understand this of *continuation of fasting*, it would be superstitious, and less convenient to our nature.
+
+**Therefore by reason of times fastings are variously distinguished in the *Papacy*.** They have: (1) *fasts assumed* — when someone, without precept of the Church, freely for a certain cause indicts a fast for himself. (2) *Votive*, when someone from a vow fasts, whether it be a vow of some *monastic order*, or peculiarly emitted. (3) *Injunct*, which the priest in confession enjoins in place of satisfaction. (4) *Instituted or indicted*, which by the Church solemnly are indicted. (5) *Fasts of counsel*, which are not precepted to all, but only counseled to those who through *works of supererogation* contend to the *state of perfection*. (6) *Customary*, which in some region from institution of the ancients are customary. (7) *Extraordinary*, which according to the ratio of incident causes extraordinarily are indicted.
+
+All these species of fastings can be reduced to two: they are either *public fastings*, as are the *injunct, indicted, customary, extraordinary, and of counsel*, or they are *private*, as *assumed and votive*.
+
+**Concerning these *private fastings* we say that they are not only *licit*, but also have great *utility*.** One can therefore assume, or even vow, privately a fast for certain incident causes — and this pious people should do:
+
+**(1)** When they are to be for the *hearing of the Word and divine cult* on the *following feast* or *Lord's Day* to be instituted, that on the preceding *reborn nature* they may prepare themselves.
+
+**(2)** When they are to accede to the *sacred Supper* — as some on the preceding day for a whole day abstain from all food, some from lunch, some from supper only, some indeed do lunch and sup, but *more sparingly* than they are wont at other times.
+
+**(3)** When they mourn on account of the recent death of one of their own.
+
+**(4)** In *public calamities*, which for their part with ardent prayers they seek to avert — the *foment of prayers* however is *fasting*.
+
+**(5)** When they feel *depraved suggestions of the flesh*, which kind of demon is not cast out except by *prayer and fasting*.
+
+**(6)** When after a committed sin, in which the flesh conquered the spirit, the man animadverts to the lapse by *subtraction of food*, whereby the *lascivious flesh is subdued and subjected to the spirit*. For this is to *mortify the members and crucify the flesh* (Col 3; Gal 6).
+
+**In such fasting they have examples of the saints, who, no one commanding but spontaneously fasted, as incident cases postulated** — such were the *fastings of David* (Ps 35:13; 69:11; 109:24), of *Esther* (c. 4), of *Judith* (c. 8), of *Daniel* (10:3), and of others.
+
+**But that this *private fast* be legitimately instituted, the following *cautions* are to be observed**:
+
+**(1)** *Let not the fast be superstitious*, that is, restricted to a certain kind of food, as if it made much difference if one abstained from meats, and indeed on certain days, meanwhile filling himself with other foods. For above we have heard that in fastings consciences are to be bound neither by observation of foods nor by days. *He who cannot fast*, says *Chrysostom*, *can live temperately, and by sobriety subject the flesh*. And *Jerome* to *Nepotianus*: *let thy fast be daily; better it is daily and sparingly to eat, than rarely to fasting excess. Let thy foods be sober, simple, and chaste, humid moderation, and not superstitious. It should be so, that we not subject ourselves to the necessity of fasting and abstinence.* — See *Petrarch* *De vita contempl.*]
+
+**(2)** *Let not the fast be *inhuman*, by which the body is so weakened that it becomes inept for prayers and exercises of piety* — for this is to *overturn the legitimate fast*. The Apostle *Paul* wills that we *exhibit our bodies a living sacrifice, our rational service* (Rom 12:1). If therefore *the service of our body ought to be rational*, we should certainly avoid *immoderation in fastings, vigils, labors, and other exercises of the body*, which even *Thomas* prohibits (in quodlib. art. 28 quaest. 3): *rules of the same abstinence cannot be prescribed to all, since the constitution of nature is not the same in all*. General is however the observation, that fasting is so instituted, that the *end of fastings — devotion, sobriety, and humility in prayers — is not impeded*. Honor therefore is to be had for the body, lest it obstruct the soul. Therefore *Jerome* is cited in the same book of the *Canon Law* dist. 76: *the fast which is not moderated, either without judgment do we perform, or those things which are necessary we withdraw from the body — that which through the Prophet the Lord speaks: I am the Lord hating rapine in the holocaust. Now the rapine of the holocaust is either an excessive abstinence, or a superfluous eating*.
+
+[*Thus Bernard* to *sisters* (col. 1545): *fasting*, he says, *not from too great a plenitude, and thence disturbs us — but daily according to our measure*. Cf. *De inter. dom.* c. 14: *from the body flee I cannot, nor to leave anything of me, to carry around it is necessary, because it is bound to me by law of nature.*
+
+If a man *afflicts his flesh above measure, he kills his citizen*. — *Anton.* in *Vita patr.*: *fasting is not the end of penitence, nor an operation contrary to trembling ways solvit*.
+
+*Jerome* to *Rusticus*: *let fastings be moderated, lest they excessively debilitate the body, and force a greater refection of eating after crudity*.
+
+*Fulgentius* to *Prob.*: *let fasting be a temperance, that our body neither security should excite, nor immoderate food debilitate*.]
+
+*Peter the Cistercian* (*Confat. i. materium*) bids Papist fastings to be assumed *for expiation*. But this fights with the *satisfaction of Christ*, as we have taught above. Therefore he sins more lightly, who intemperately lives, than he who fasts to this end.
+
+**(4)** *Let it not be *scandalous*, which happens when others who do not fast are contemned, as if those fasting were of better condition in the eyes of God, who is a *spirit* and *whose fasts do not need indigence*. Which matter offends others, so that they think they have gravely sinned, since they too have not observed a similar fast — whence *opus operatum* and *ostentation* are worked from fasting.
+
+[*Ridicule not thy brother fasting, nor him who does not fast, that thou mayst be able to eat*: — *Ecclesiast.* 8:15.]
+
+**(5)** *Let it not be *inept*, when someone from an inept end (as they do who to avert the pain of teeth abstain from the eating of meats in the highest festivities, and who for similar milder diseases, or others fast on certain feasts of the saints, as those who on the day of *Saint Barbara* live on bread and water only, that they may not die without participation of the sacraments — partly out of gullibility, partly out of self-love, so that this their work they may object to God; that they may not die evilly).*  Which follies among the Romanists are not infrequent, and are gathered by *Lorich* in *Thesauro theol.* voce *ieiunium* n. 10.
+
+*With these cautions rightly observed, private fasting can be undertaken rightly and without sin.*
+
+### Case X. What are the general virtues which are required in fasting, that it may be pleasing to God?
+
+**Respondeo.** Although we have already treated some things about *private fastings*, yet *general* things still remain to be applied to all species of fastings. Three chiefly there are, which make every fast *unpleasing in the sight of God*: (1) *impiety*; (2) *hypocrisy*; (3) *inhumanity*.
+
+*Impiety* is when from fasting men place *merit and expiation of sins*. For nothing that is ours can *to expiation through Christ* be added or opposed, since Christ alone claims for himself all parts of our salvation. Therefore those who fasted in this way are said to have *fasted to themselves, not to the Lord*, that they might set forth this work of theirs to God — as of these the Prophet complains (Isa 58:3): *why have we fasted, and thou hast not seen? — why have we afflicted our souls, and thou hast not observed?*
+
+Therefore *to that impiety* the *true ends of fastings*, of which we spoke above, should be opposed. *For at fasting will be lightly, taking with him*, says *Augustine* (lib. de moribus *Manichaeorum* c. 13), *if we not — with the mockeries of the Papists — fast so, that we might satisfy God*.
+
+*Hypocrisy* is, when men fast, and *glory of men they seek*, so that they may condemn others not fasting — like the *Pharisee*, of whom *Christ* speaks (Matt 6:16): *when ye fast, be not sad, as the hypocrites: for they disfigure their faces, that they may appear unto men to fast*.
+
+True fasting is not from sadness of mind, but from *joy of spirit* to proceed, nor from *contempt* of others, but from *examination of one's own*. Because so is fasting. *If thou fastest*, says *Basil*, *as ancient nightingales serenely and alacrious excipe, nec vertere neque lacrimare, but with mind well composed, spirit well fastened, subterrestrial to the animate soul penetrating some illuminates, delighted, entertains; softens the tongue, praesumit strenuous* (Serm. 1 *de jejun.*). That is: *fastings, which alacrious and merry, bear things away*.
+
+Many err, when *plenty of pleasure of fasting they seek* — an *absurdity* which *Augustine* (*Sermone quotam*) observes: *at the time when the flesh was to be chastised, so much sweetness they promised to the flesh, so provided for it in food, sic captabantur voluptates, quadragesimal quasi ipsi essent tempori et anno, ut in inanibus mundi rebus vivere, and utilibus laboribus vestibus, vix possent sentire jejunia sua*.
+
+If therefore in all divine cult, so in fastings also, *hypocrisy* is to be avoided: for men can be deceived and deluded — *God however who sees the heart, is not deceived*.
+
+*Inhumanity* consists in this, that in fasting one gives the *field a foot*, moderation in food and drink adhibits, since he *neglects other parts of penitence*.
+
+[*They who from foods abstain but do evil, imitate demons, whose food always is not, and to whom this fault is.* — *Anton. in Amoi.*]
+
+For just as *phlebotomy* is not profitable unless the body be first evacuated, so *fasting* is not useful unless the *soul be first purged from vices*. *Great and general is fasting*, writes *Augustine* (Tract. 17 in John): *to abstain from iniquities and illicit pleasures rigidly — which is the perfect fast — that abstaining from the impiety of the world, we may live soberly, justly, and piously in this age*. And *Leo* (Serm. 4 *de Quadrag.*): *not in our abstinence alone stands the sum of fastings, or the fruit of foods withdrawn, unless it be joined with mercy*.
+
+[*Fast from sins, take not the least food of malice, drink not the pleasures of glutton pleasure, kindle not the wine of luxury; fast from evil arts, abstain from evil sermons, do not touch the stolen bread of perverse dogma*, &c. — *Origen*, *Hom. 6 in Lev.*]
+
+These agree with the words of the Lord, by which he reproves the *fasting of the Jews* (Isa 58:9): *in your days of fasting is found your own will, and all your debtors ye repeat; behold, to strifes and contentions ye fast, and ye strike with an impious fist: fast not as ye have done up to this day, that ye may make your clamor to be heard on high. Is this the fasting that I have chosen, that a man should afflict his soul? — is it to bend his head as a circle, and to make sackcloth and ashes his bed? — will you call this a fast, and a day accepted to the Lord? Is not this rather the fast which I have chosen: dissolve the bonds of impiety, lose the bands of the yoke, and let the oppressed go free, and break every yoke*.
+
+Since therefore with true fasting is conjoined *innocence of life, hatred of sin, love of virtue, and alms* (whence that saying: *fasting without alms is like a lamp without oil* — *Caesar. ad monachos*), *chastity, humility, patience, ignoring or compassion* (which *Augustine* called *a species of alms*): with these *virtues as with jewels* the *true fast is adorned*, in whose expression, of *all the members* he had capacity of sanctity — as *D. Bernard* elegantly (Serm. 3 *de quadrag.*): *if only gluttony sinned, only fasting; if however the other members have sinned, why do they too not fast? Let the eye fast from illicit sights; let the tongue fast from detraction and rumors; let the tongue fast from detraction; let the hands fast from illicit works; let the soul fast from vices. This is the perfect fasting, since if by external abstinence from foods we contend, and — with respect to the Lord — from the heart the vices we retain, we shall have no utility from the fast*.
+
+[*Right life more than the rest of things all profits. Right life however I call, not the labor of fastings, nor cilice, nor recumbency in ashes; but if thou art merciful, if with thy money thou dost bind the wounds of thy neighbor, if the hungry with thy bread thou dost nourish, if thou art superior to wrath, if empty glory thou dost not concupisce, if by envy thou art not deceived.* — *Chrysostom*, Hom. 47 *ad populum*.
+
+*Voluntarily also a fast to me pleases*, says the Lord, *if it is meet — be it granted to me to speak from the primitive primitive fathers elegantly to add — that the just fast will subdue the flesh to the spirit, drives back concupiscences, extinguishes the ardors of the eye, kindles the light of chastity*. So *Chrysostom* (lib. 5 *in Matt*): *fasting is the aid of prayer* (Hom. 1 *de poenit.*): *fasting to the body is nutriment to the soul*. So *Athanasius* (*de jejun.*): *fasting heals sicknesses; dries up defluxions; drives away demons; expels evil cogitations; renders the mind more brilliant; purifies the heart; the body sanctifies*, — *Cyprianus* (*De jejun. et tentat.*): *the fasting of Christ, if with discretion is exacted, tames all rebellion of flesh, tyranny of the throat spoils and disarms. Fasting closes and controls extraordinary motions in a wooden block, and constrains and binds vagrant appetites. Fasting is adorned with humility, makes servants of God, contemners of the world. Fasting cleanses the flesh, azyma, hardens, decomposes, consumes and dries out putrefactions which from fat proceed. Fasting is fed by the delicacies of Scripture, refreshed by contemplation, stabilized by grace, nourished by celestial bread. To Daniel the interpretation of dreams is revealed through fasting; three boys in Babylonia are guarded uninjured from the fire. Moses in the mountain for forty days perseveres in fasting, and the familiarity of colloquy with God he attained; Elijah abstains from foods, and in the wilderness is fed miraculously. So Origen (in c. 17 Matt): those persevering in prayers and fastings expel the malignant spirits*.
+
+*Therefore, it is well, when to the Lord one spares, of what is superfluous in his hand.* — Horace, *l. 4 Od. 6*.
+
+*Therefore, if it be well to the stomach, if to the feet, to the sides — nothing can royal riches add to this.* — *Horace* lib. 1 Ep. 12.
+
+*Therefore, live not to eat, but eat, that you may be able to live.* — Juvenal.
+
+*It is agreeable to fasting*, says *Hippocrates* in *Stobaeus* (Serm.).
+
+*Therefore, such temperance is to be adhibited, that our body neither should saturity excite, nor immoderate hunger too much debilitate.* — *Fulgentius* to *Prob.*
+
+*Therefore, in sober victual let one behold the frugality of life.* — *Pluto* (*Instit.*): *just as of the Germans of old is praised frugality*, because *their food was simple, wild fruits and thick milk their dainties*. — *Cornel. Tac. de moribus Germ.*
+
+*Therefore, fasting of the body is nutriment of the soul* — *Chrysostom* Hom. 1 *de poenit.* *Mother of health is abstinence.* — *Jerome*. *By quiet abstinence many diseases are cured.* — *Celsus.*
+
+*Wine is given to us, that we may delight in it, not that we should be dishonored by it; that we may laugh, not that we should be laughed at; that we may be healthy, not that we should be sick; for correcting the body's health, not that with our soul's virtue we should be prostrated.* — *Chrysostom* Hom. 71 *ad pop. Antioch.*]
+
+**So much of the chief difficulties which concerning cult and religion can disturb consciences: and thus we finish the second book of our tractate.**
+
+— ❦ —
+
 # Liber III. Toward Celestial Spirits
 
 *De actionibus hominis circa spiritus coelestes — On the actions of man toward celestial spirits (angels, demons, astrology, magic, divinations).*
