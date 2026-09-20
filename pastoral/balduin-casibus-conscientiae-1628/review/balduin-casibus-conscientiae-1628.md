@@ -6472,6 +6472,420 @@ Nor truly are all things to be imputed to Satan alone, — but also our *flesh m
 
 If therefore the *cause of the magi has been rightly known*, — the sources have been *convicted by fit witnesses and by their own confession*, — right and in order they are *afflicted with the penalty of death*, — in which mode of dealing is added-that *the soul from the jaws of the devil be freed*. For it is safer that the *body perish*, that the *soul be saved*, than the body be preserved with an *eternal detriment of the soul*.
 
+## Chapter VI. On Cases of Conscience Concerning Divination
+
+**Preamble.** *Divinatio*, in Greek *manteia*, is a *pre-sensing* and *knowledge of things future or absent*. Futures are known however either *in themselves*, or *in their causes*.
+
+Which *in themselves* are known, are predicted either by one's own spirit, — and thus only God knows and predicts futures, on which name he is distinguished from good angels (4 Ezra 4:51) and from the gods of the gentiles (Isa 41:23), — or they are predicted by *revelation of God*, whence are the *vaticinia of the prophets*, who not *from the will of men, but* were spoken *inspired by the Holy Spirit* (2 Pet 1:21).
+
+Which are known from *their causes*, either produce *necessary and infallible knowledge*, and these have necessary causes, in which manner the *Mathematicus* predicts a coming eclipse infallibly from its causes; or *probable*, which have contingent causes but which for the most part occur.
+
+These sorts of predictions of *men*, which either from revelation of God or from natural causes are done, properly speaking are *not divinations*, since they divine nothing; that is, they do nothing divine, but rather what is *divine* they receive.
+
+Then however they are said to *divine*, when they *unduly usurp for themselves prognostication of future events*. Whence *Hieronymus* (on Matt 3) says: *divinatio is always taken in the bad part*.
+
+Divinatio however concerns those things which are *proper to God alone*, — such as the *arcane mysteries of grace and faith*, *fortuitous futures*, *absent things*, *internal cogitations of men and their effects*, and similar things which to God alone are known, and from man about divine revelation ought not to be sought.
+
+Divination is done through *inspection or notation of some thing* which has nothing in common with the thing which is predicted or inquired; whence to *false and vain arts it is referred*, introduced *by deception of demons*, as *Augustine* attests (lib. 21 *De civ. Dei*, cap. 16): *all divination proceeds from the operation of demons*, either because *demons are expressly invoked* for manifesting futures, or because *demons insinuate themselves into vain inquiries of men, so that they may implicate men's minds in vanity*, — as *Thomas* says (I II q.95 art.1).
+
+It is however most-usually so that, by how much more pernicious a thing is, so much more into species does it disperse itself. Hence of *divinations* also — that is, of illicit predictions — are various species, which I shall here briefly recount:
+
+**The first species** is from *observation of the stars*, whence *Astrology*, which not in whole but only as to its abuse pertains here, — since namely *future contingents which depend only on man's will* and are known to God alone, are sought from the *constellation of the stars*; of which afterwards.
+
+**Second, *Aeromancy***, which from observation of the elements institutes predictions, whence *Stereomancy* from earth, from which according to the number of the four elements four species of divination arise: *geomantia*, when futures are predicted from signs and characters made in any *earthly thing* — wood, stone, sand; *hydromantia*, from *water*; *aeromantia*, from *air*; *pyromantia*, from *fire*.
+
+Others are:
+- *Ornithomancy* — from birds' flight
+- *Haruspicium* — from inspection of entrails of victims
+- *Chiromancy* — from inspection of hands
+- *Onomantia* — from names and their numbers
+- *Oneiromancy* — from dreams
+- *Necromancy* — from consultation of the dead
+
+**Casus I. What should be judged of *natural predictions* — whereby some think that in the very soul of man a *natural force of divining* is placed?**
+
+*Reply.* Not lacking are those, among Christians even, who *predictions* — not from preceding causes or conjectures arising, — as being *natural*, they defend, — and this indeed *partly by reasons, partly by experience and similar things* they dare to confirm. For they say the soul of man in itself of *all things, future and hidden* to have *simulacra and images*, — therefore when to itself alone left, and by external impediments free, — as in sleep or in ecstasy — better things absent and hidden it knows, since impeded by the mass of the body it cannot know them otherwise. Hence *Gregory Magnus* — *the soul foresees*. It appears in *sleepers*, who divine more than the vigilant. Add too *phrenetics, those close to death, morientes* — divine more than others, — to whose predictions or presages usually events *correspond*. Are also *some men so sagacious*, that of the outcome of a lawsuit or of other matters, if not entirely what is, — yet something similar-to-the-true they can pronounce.
+
+Even *animals* — did God deny this faculty to man? *Fish show to sailors coming tempests, birds to farmers, cattle to shepherds, from the grunting of pigs when from pasture they return home, when cats lick themselves and clean, crows run together, rains are gathered vehemently* — mice unite together running into a house — the ruin of the prior house from which they went forth they *presage*, and similar things.
+
+*Cratippus* [confirms] the *natural soul-divination* by two arguments: *whoever has once presaged or divined futures — even if he has erred in other things — has that faculty of divining innate*. Just as one who has once seen — even afterwards though never more he has seen, or in seeing has erred more often — has a natural faculty of seeing; that which he never had, at no time can he ever see. Nor can it be denied that *very many* in sleep sometimes, or even waking, have predicted futures which came to pass. Therefore they have that *natural faculty of divining*. Second: *just as naturally is attributed to the soul some force of sensing the present, — which is called sense, and of sensing the past, — which is called memory, — so it must be attributed to it another power of futures, which is called divination*.
+
+From *the sacred* they also adduce some things — as that *Elisha* by music was excited began to prophesy (2 Kgs 3:15); *Saul* began to prophesy when the *spirit of the Lord fell upon him* (1 Sam 10:2, 10) — whence they collect that a certain natural force lies in the soul for predicting futures, which by music can be excited.
+
+By these arguments some wish to persuade — that man has a natural force of predicting futures, — and consequently that it is false what we have said above from *Thomas*, that *all divination is from operation of demons*.
+
+*Reply.* We are not pleased by the sentence of the *Epicureans*, who denied every *praesensio* utterly; some presensations of futures to be in men, we believe indeed — either from *certain knowledge* — that is, from natural causes — or from conjectures joined with true prudence.
+
+**(2)** It does not please us the *sentence of the Peripatetics* who make a *natural faculty of the soul* out of divination: for if there is any, it is not of *some certain futures* — such that some be foreknown, others not: — but of *all* futures, just as *memory is of all past things*. Manifest however it is, that in the soul there are not species and notions of *all future things*: for this is of infinite virtue. Therefore *God alone* is said to be conscious of all futures, — who has this faculty so proper to his essence, that he is turned into it, — and thus with no creature it can be communicated.
+
+What is however true — that *the soul of man has simulacra of things*, when whatever it knows, it knows either by *revelation of God or of the saints*, — however that is expedited when by external things it is not impeded — as in sleep or in rapture.
+
+Thus is to be understood what is said by *Gregory* — that the very *force of souls, by its subtlety* something foresees, — namely either from *extension of judgment*, or from *peculiar revelation of God* — as in the Prophets, — or from collection of natural causes, as in physical predictions.
+
+Future contingents the soul by itself cannot know, — since either they are *occult and hidden from the senses*, — such as God has reserved to himself alone, — or since they *depend on the free will of man*, and are *subject to mutability*, — as whether one shall be *consul* or *king*, *rich or poor* in the future, — whether by this or that kind of death he shall die. Therefore *Augustine* has denied *natural divination in the human soul* (lib. 12 *De Genesi ad literam*, cap. 13): *if some think a certain force of divination to be in the human soul, but that this is false, plainly the same passage he shows*.
+
+*Divinations of the dying, of morientes, of the furious and of those near death*, are only certain *presages* and *conjectures*.
+
+*Sleepers* more easily presage something, since the soul is then collected within itself, and free from external things, better perceives the images of things furnished by the senses. Therefore God also usually to the *Prophets* spoke, and they mostly had *visions in dreams*. Therefore consulted, on the day following they responded. Therefore the *prophetess Huldah* bade the legates of *King Josiah* to await the night (2 Chr 34), and *Balaam*, the legates of King *Balak* (Num 22:8).
+
+The *furious* also predict something, — since they are furious *either from possession of the devil*, — who through them what he knows from certain indicia to be future, predicts, — or from *morbid ratio* — from *phrenetic and lethargic diseases*, whose examples recites *Augustine* (lib. 12 *De Genesi ad lit.* cap. 13): *we know without doubt of a certain phrenetic — a future death of one of his own — long before it happened — that he predicted, — not as future, but as fact and past he recalled. For with him with a friend present had he been, — Silva she was, — she died, — and again himself in the body he brought her — as if from body she had passed: — while she incolumis was living, — after few days he suddenly excited and elated was — over the place which he had predicted*. And of another he refers that among the greatest cruciates, — with all senses stripped, with open eyes he lay and saw no one, — after little space of time waking, — what things he had seen, indicated. About such things treats *Augustine* in the following chapter: *this happens also in dreams — in which many are false, some true, some perturbed, some tranquil, some indeed true futures altogether similar, or openly said sometimes with obscure significations and as if figurative speeches announced*. And finally he concludes: *it must be considered however of what genus be their divinations, — who apparently in various ways in soul happen*.
+
+Others attribute divination *of the furious* to *loquacity*: for while they much chatter, sometimes they happen to be predicting some future, just as *little archers who by shooting exercise themselves — sometimes even hit the target*, though they are inexperienced.
+
+*Morientes* also predict, since as they are prudent from *natural divination*, just as certain brutes more easily *presage futures than men*, since with acumen of nature they investigate what from their causes we cannot.
+
+It is verisimile also that God to these miserable men gives some such force, as around princes of the *fools* usually of their families they live, that with-magisters they teach: — for while wise men to hear they will not, from these fools not rarely are educated, — just as *Balaam* from his own she-ass.
+
+*Those about to die* also sometimes predict some futures, — of whom examples recites *Gregory* (lib. 4 *dial.* cap. 26 and 27), and thinks souls to be extracted from the body — by revelation to know futures.
+
+Of the saints indeed this is most verisimilar, — just as *Jacob and Elias* their sons before death gathered together, — that he might announce to them, — from the idols is read (Gen 49:1). Others *morituri* the *change of body*, the serenity of air or *tempests*, — since either of the light celestial recognize than others, since at that hour of death, senses withdrawn, — as if put to sleep, — the mind is more acute and better contemplates things, and those changes of body more quickly perceives.
+
+Physicians sometimes can predict the outcome of disease, through natural *epaisthesin* — that is, through natural sagacity, which *Galen* requires in a physician, — which is founded on certain sensations received about the *species and causes* of disease, — about the strength of nature, about the *affected place*, about *symptomata* to follow, about *interitus and convalescens*: — which with prohibited divination has nothing in common.
+
+Read of *Elisha* — who was fisherman — was to become a fisher of men, — some *natural instinct* whereby they conjecture futures, — which indeed have their causes, but *unknown to themselves*. And since corporals most strongly affect, *bruta*'s spirits also are more moved by bodily things, hence brute-ones by *senses* also better perceive intimacies of corporeal things than we, who are endowed with reason, — just as *the blind* hear more exactly and remember more easily, since they have no *external impediments of hearing*: and *the mindful more exactly sense*.
+
+*Cratippus'* collection therefore concludes nothing: for those which are *natural*, occur not once but often; while those from chance most rarely occur. So by chance it can happen, that one predicts something which happens, — if from a *natural faculty it were being done*, not so frequently in others would he err. For those which happen naturally, *only with something extrinsic acceding, they happen*.
+
+**(2)** *To memory is not opposed the faculty of divining*. For if of past and present *sense is*, — it does not follow it to be also of futures. Since indeed *species of present and past* can be in the mind, — of futures not likewise, — except *by accident* — from the past and present themselves.
+
+Finally, what are added from *sacred*, do not prove *natural force of divining*: — for *music to Elisha* did not excite a natural faculty for prophesying, — since he was predicting only those things which he had from *revelation of God*: — but the mind by erecting and abstracting from senses to divine things he was disposing. For the more the mind is *abstracted from things of this age*, so much the more apt for divine things it is contemplative.
+
+*Saul* began to prophesy — not by *exercise* in himself of *some natural faculty*, — but since the *spirit of the Lord upon him rushed*, as the text has. For *every prediction of futures* — which is not from natural causes or conjectures — either is from God, — as *prophecies of sacred vates*, — or from the devil, — as *divinations properly said*.
+
+The genus of men [given to divination] is enough by laws exiled from the *Republic*, as is the *lex ult. C. de maleficis et mathematicis*.
+
+Even among Christians the *magi* and *astrologers*, and those who consult them, — promiscuously all — condemned and reprobated by the *Fathers*: — many things acerbic against them are near *Vergilius* (lib. 5 *in Genesin*), *Augustine* (lib. 2 super Levit. ad lit. cap. 17, lib. 2 *De doctrina Christi* cap. 21, lib. 5 *De Civ. Dei* cap. 5), *Eusebius* (lib. 14 *De praeparat. Evang.* cap. 4), *Basil* (in Ps 4), and *Chrysostom* (Hom. 1 *cap. Gen.*). And *S. Isidore* even the *predictions of astrological genethlialogia simply* rejects (Etymolog. lib. 8, decretum 26 q. 2 cap. 2).
+
+In this sentence they cite Scripture: *ye have my witnesses, you are gods, that ye have chosen* (Isa 43:12); and (Isa 44:9): *I am the Lord, who make void the signs of the diviners, and I turn diviners into fools*; and (Isa 47:12): *stand in thy enchantments, and in the multitude of thy magics, in which thou hast laboured from thy youth, — perhaps thou canst make it prosper, or if thou canst grow strong. Thou hast failed in the multitude of thy counsels. Let them stand and save thee, the augurs of the sky, who contemplate the stars, and count months, that they may tell thee of futures*; and (Jer 10:2): *from the signs of heaven you fear not, which the gentiles fear*.
+
+They also argue from *Ecclesiastes* (10:14): *he knoweth not what has passed, and what will be after him, who can indicate?*; and (Eccl 8:7): *man is ignorant of the past, and of the future no man can be a messenger to him*; and (1 Cor 2:11): *the things of man no one knoweth, except the spirit of a man which is in him*.
+
+These are opposed to those who divinations — even not depending on natural causes — think licit, — which how much they contribute to nothing, from what has been said it is clear: most of this genus of predictions are from natural causes, from which the effect can be collected in some way, no one denies.
+
+Now let us pass to the *particulars*.
+
+**Casus II. What is to be thought about the *predictions of astrologers* — whether we can consult them with good conscience — whether in the *observation of tempests* and *events of the future*, or in the *prognostics from the birth-theme*?**
+
+*Reply.* *Mathematici*, *Astrologi*, *Genethlialogi*, and *Planetarii* of old were held promiscuously, — and their *reputation was so bad, that even in the city they were not tolerated*, — as though they were exercising a *vain art*. Thus writes *Tacitus* (lib. 2 *annal.*): *the Mathematici, — a genus of men to the powers unfaithful, — to the ambitious deceptive, — from our city always prohibited, — but always retained*.
+
+*Ethnic emperors* — Tiberius, Claudius, Vitellius, Domitianus — this kind of men also from the *Republic banished* (per the *lex ult. de maleficis C.* and *L. multi*).
+
+Even among *Christians* few there are, — but *astrologers* and *those who consult them promiscuously all* — reject and reprove. The holy Fathers many acerbic things against them wrote — *Virgil* (lib. 5 *in Genesin*), *Augustine* (lib. 2 super Levit. ad lit. cap. 17, lib. 2 *De doctrina Christi* cap. 21 seqq., lib. 5 *De Civ. Dei* cap. 5), *Eusebius* (lib. 14 *De praeparat. Evang.* cap. 4), *Basil* (in Ps 4), and *Chrysostom* (Hom. 1 *cap. Gen.*). And *S. Isidore* even the *predictions of astrological genethlialogia* simply rejects (Etymolog. lib. 8, decretum 26 q. 2 cap. 2).
+
+All these could render *astrological predictions* odious and suspect, unless the *most-precious from the vile use* were separated.
+
+**It must be known therefore that not all predictions which are drawn from stars are impious and prohibited.**
+
+**Some are *natural*,** which have signal use in *agriculture*, *seamanship*, *medicine*, and similar things; and they rest on natural causes which are drawn from the *rising or setting of stars, their motions and aspects*, whence powers *rightly applied to these lower things* are obtained. For *the stars have natural forces* — given to them by their Creator — whereby they act *most effectively in these lower things*; and they affect the *humors of bodies* in moving, in *tempest exciting*, in *change also of temperaments*.
+
+For to what purpose would God with such wisdom have made those *celestial bodies* — such as they are with number and order, — with such colors and diverse magnitudes, — with such energy — unless he had assigned to each some peculiar force, — indeed for adornment of the sky he did not affix them alone: what is the use of the stars, if they do nothing? God certainly, who *made nothing in vain*, would not suffer the stars with vagrant motion — without all efficacy — in their spheres to wander, — but has *set them for signs, for stated times, days and years*, that they might shine in the *firmament*, illumine these lower things, and affect them with *admirable qualities*.
+
+Whence experience testifies, how *admirable things daily in this sublunar orb happen through the virtues of the stars* — how many changes of air and tempests, — how many variations manifest in the bodies of men.
+
+From those things which happen around us — that is, from the *sky's tempering, the earth's fecundity*, and similar — *Gregory* collects the effects of *superior nature*, and from creatures himself is led to *God, the founder of them all*. And *Pliny* (lib. 18 *nat. hist.* cap. 25): from *Xenophon* — of *rustic affairs* — before God gave a sign, he did not want to be performed: that is, before those signs of *tempests* — by long observation noted — had begun to shine.
+
+Testify to this the *effects of the luminaries*. The *Sun*'s light disperses, the *Moon*'s congregates; with the Sun's presence the neighboring fixed stars' forces are excited and, as it were, *fanned up*, and made apt for operation. But *when erratic ones approach the Sun*, they are dulled and blunted, and their rays' force is intercepted by the Sun.
+
+Whence experience testifies, that the *Sun*, — while in these lower places, — brings some effect, — and although the *causes do not teach* apodictically, — nevertheless *from the outcome they testify*, — that we cannot deny.
+
+The *Moon*, in the temper and inclinations of moist things, — since she is *neighbor* to us, — has *greater force*, — which by any wise is not to be neglected. Hence *observation of eclipses* — which is placed among the *chief motions of the stars*, — for their variation *from the solar motion proceeds*, — since when in the seventh day the Moon flows contrary to the Sun with light-motion, — verisimilarly they conclude physicians, — a *disease relaxes* to be more, — and if crisis is delivered on the *seventh day*, — health-fine to be *decisive*, — otherwise increase.
+
+The same also can partly be said of *climacteric years*, of which *seventh and ninth greater force* are said to have, — since when *seventh from birth attains*, the Moon returns to the natural motion of the Sun opposition — at the moon-sign the year in the sign is compact of *seven days*, — since Moon delays in two days, — and after seven years — to the sign of contrary nature — returns.
+
+Thus physicians from the *constitution of the Moon* on the *vivacity of births* verisimilarly conjecture. Infants in the *interlune* are less vivacious, or less-slow and *debilitated they shall be* — predict. Because the fetus taken from the mother by the just humor, is easily expelled, — thus scarcely with great effort from the strait and dry lurkings the infant can be extracted, — the infant therefore with so great difficulty, — with so great malice of humors, — into the light born, — of the same weakness the roots in the rest of the life-course afterwards to cherish are believed.
+
+Hence we see, sometimes born in the *interlune*, — if beyond years of nursing life is prolonged, — the *liver, stomach, intestines* to inflame, — with jaundice, and other more ardent affections liable to be, — especially if the constitution of the body is *bilious* or *sanguine*, — nor an efficacious *initial dietetic* removes that force of the Moon.
+
+Which all things, since by diligent physicians are observed, we cannot improve.
+
+Then also *agricolae*, and men of *rural affairs* and *economists* useful things predict, which they do not lie in. They *observe Arcturus, Pleiades, Hyades, — especially however Vergiliae which as if brooders — that as at rising they begin summer, at setting winter, — semestri space between themselves harvest and grain sowing they close-in — into a large-part of the year, of the two chief*, — from whose rising *arising foretold oil's abundance*, and joyful *Democritus* — since *Aristotle* (in Politic. 1 c. 7) *with great utility* — into hope of grapes, and all with amazement suddenly at all the oil, — the citizens of whom poverty of the philosopher and lover of literature had not obstructed: — who since from the *heavens they saw the wealth of olives to conjecture*, — not without repentance the sky to observe began — which afterwards similarly did the *Ethnic Sextus* — testifies *Pliny* (lib. 18 *nat. hist.* cap. 28). Which from the *rising of the Vergiliae* — begins in the 6th of the *Ides of May* — they *sacred to know could*, since when the *olive trees* begin, so also the *vines* begin, — even *Florculiam* is not to be ignored.
+
+From the *rising or setting of the Pleiades* they gather the *vicissitudes of winter and summer*. When toward the end of *November before the setting of the Pleiades it rains*, they conjecture a *fruitful year*; when just with the setting of the Pleiades it rains, a *middling year*; when after the setting of the Pleiades it rains, a *long-lasting winter* they gather: — and according to these observations the domestic economy they institute.
+
+**In these observations of the stars there is nothing of impiety, nothing of superstition, but rather great utility they have**, — therefore neither for these should astrology be blamed, — nor is today culpable the *study of those who write Ephemerides*, and from the *position of the stars about tempests, plenties and defects of fruits*, something they predict.
+
+That however the *event* does not always respond to the prediction, — is from two causes:
+
+**(1)** From *ignorance of the art*. Very many *calendariographs are inexperienced in physics and astronomy*, and *without judgment they conform their astrological judgments*, — and *rashly predict tempests and other things*, — of whom the successes it is not marvelous — do not follow. From the influence of *the same stars* — not-know however since other-things *impede or correct the forces of the stars*. Not indeed alone do the stars *act in these lower things*, but to the *production of things more concur* — as the *seed and labor of the farmer*, the *quality of soil and region*, — which can *correct what through the stars seems vitiated*. Thus infants in the plenilunium or quadratures born, of *firmer usually are of health*; can however *seed's weakness sometimes alone bring sickness on the infant*.
+
+Is therefore *some certitude of these predictions*, but not *apodictic*, but of the sort as is usual of those which happen *for the most part*. And this is one *species of Astrological predictions*, which *natural we can call*, since it has causes in nature.
+
+To this we also refer *certain genethliacal predictions*, provided they are kept within their proper *terms*. For since from what precedes it is compact that *humors in the body are governed by stars*, — nothing prohibits that from a certain *position of the stars at the birth of a man* — about his *temperament* and morals which thence depend, something be predicted, — not indeed under some *infallible necessity*, but *verisimilarly*, — namely, unless *God, who is the supreme director of our whole life, has otherwise disposed through other causes*. Therefore commonly is it said, *the stars do not necessitate, but incline*, — that is, they do not induce *necessity* on things, as if thus and not otherwise it must happen, — but only *whither nature inclines they indicate*; so that if any *good* they show, *by prayers and pious exercises we can help nature*; but if *evil*, by prayers likewise and by *study of piety we can avert*.
+
+Those things however which simply depend on *the will and free arbitrium of man*, — of these no certain prediction we call licit, — since *of future contingents is not determined truth*.
+
+To our sentence do not obstruct what commonly are objected: — about *Jacob and Esau* — twin brothers *from one conception* — as *Paul* (Rom 9:10) speaks, — and yet of most *diverse nature* they were; likewise, what *Solomon* writes of his son, that he *ignored whether he was to be wise or foolish* (Eccl 4:13); that the birth of *Hector and Polydamas* fell on the same night, — of whose diverse dispositions *Homer* writes (Iliad 6); that as *Tullius* refers (lib. 1 *divinat.*), *Proclus and Eurysthenes*, kings of the Lacedaemonians and twin brothers, — neither in duration of life nor in nobility of morals were similar to each other, — since indeed that one led a shorter life, but far surpassed in virtue and things done.
+
+These things are to be opposed to those who *the outcome of all things refer to the stars*. I am ignorant of such force of the stars, which can be sufficiently efficacious for *all minute things of human life*. Nor do the stars alone govern *the temperament and studies of a man arising thence*. There are other more powerful things — as *education, diet, custom, — from the tender nails, as it is said, — of regions the diverse temperament, — from which the nature of peoples usually is noted, — the physical and similar things, — which not rarely dull and correct the forces of the stars*.
+
+With this moderation employed, the *astrological predictions* in *nativity-themes* do not fight with *piety* nor displease the wiser.
+
+*Luther* our own in cap. 5 *Genesis* calls it a *play of ingenium*, which can be tolerated: *I would say*, he says: *if it (astrological predictions) defends less pertinaciously, I do not much repugn*. — *For his ingenuities must be conceded*. — *If therefore superstition is removed, it does not much offend me, if for the sake of ingenium he plays with these predictions*.
+
+There are however *other astrological predictions*, which you can name *superstitious and chaldaic*, — since they were most-used by the *Chaldeans* of old, — which dare to *predict from the stars of heaven whatever fortuitous events of things*, — any occult and unknown to men, — as: *with whom things stolen are*, *what tomorrow or the day after* will be in things which simply are subject to man's liberty, — future to be, — *likewise the future condition of a man, kind of life, wealth, death, kind of death and its time*; — even also sacred things by these curious arts have been *obtruded*. For *the flood of Noah, the rising of Christ, and other supreme prodigies and miracles even from observation of the stars could be foreknown and predicted*, they write — which *Petrus 2 in Genesin disputes* — from the *astrologia adversaria* is to be understood, — from *superstitious and abused astrology*.
+
+*Cardanus erected the natal theme of Christ*, and to him a *violent death from the stars had been threatened*, — not without rash *impiety wrote*.
+
+Some of old have added many *incredible things*, — as that *Mars in the new house of the sky happily placed* is said to accomplish so much, — that anyone by his sole *presence can drive out demons from the possessed*; others have carried these predictions of *astrological* even to *eternal life*. *Jupiter* they said to be the *author of human happiness*, — of *sports and delights in this age*, — *Jupiter* after this life in the age to come.
+
+Men at that time born, when *Saturn* is in *Leo* — they say to be *long-lived*, and after death their souls into heaven to the gods to be about to fly.
+
+*Marbodius* writes: *those who at the position of Jupiter in the head of the dragon supplicate God, — whatever they have asked from God, — most-certainly they will impetrate*. From which rashness — I know not — how far are not the *fanatics of today*, — who *prayers and works of their art not seldom under a certain position of the stars begin*, — great happiness and coveted success promising themselves.
+
+Such *nugatory predictions* have made even some *holy men* to become *more inimical to all astrological predictions promiscuously*. Whence near the *Holy Fathers* many hard things against astrology are found, — which however mostly *of adulterated superstitious astrology are to be understood*, which either treats of *fortuitous things* — which cannot depend on the *influences of the stars* — or introduces *fatal necessity* into predicted things — which we equally profess to be *impious and blasphemous*.
+
+Against these *Origen* inveighs (near *Eusebius* lib. 6 *De praeparat. evang.* cap. 9): *not only gentiles*, — he says, — *by conjunction and aspect of the stars, — the things which are on earth necessarily to happen believe*, — which force they call *fate*, — *but even many of the faithful are disturbed, believing it impossible otherwise to happen than the courses of the stars have effected, — whence follows no liberty in us is*, etc.
+
+To these must be opposed the sayings of Scripture which above we have adduced; their predictions are *vain*, from which nothing should be feared, and to which nothing should be attributed. These the *Canons* have prohibited; these all *pious learned men hate*.
+
+Thus *Alexander III Pope* the *presbyter* who had *consulted an astrologer* about a certain theft committed in his church, *deprived of the ministry of the altar for a year*. For the *stars do not necessitate*, nor open thefts. Rightly *Basil* rebukes those, who to the *influences of stars ascribed that force, as if God through stars ravished men to crimes*: — for what is there common between stars and crimes?
+
+*There are*, — those who *spider-webs textam by their predictions*, — which can have no use, — nor is so tight, that a *gnat or fly of human weakness* cannot break, — as *Ambrose* refers from *Basil*.
+
+Whoever therefore is *delighted by astrological studies*, does not indeed sin, while he *observes the motions and influences of the stars*, — from these too he makes *judgment about natural futures*: but let him not *too much extend these studies*, nor let him attribute any *necessity* (in that concurrence of other causes) to his predictions, but hold them as a *play of ingenium*, — to which not too pertinaciously should one cling.
+
+Thus to seek *natal-themes* is indeed licit, — but *without excess of curiosity*. For it is not sufficiently safe *to be too solicitous about futures*.
+
+If some *futures* can be known through astrological predictions, little does their knowledge profit; for if they are *good*, they make the soul secure; but if *evil*, it is much better in *many modes ignorance of them* than *knowledge*, — and better it is *to be always in fear of God and to pray*, than to be tortured by fear of future events.
+
+Which is the sentence of *B. Luther* in the place cited before; in which we too rest, — and to *God the creator of the stars* commend all our affairs faithfully, — who preserves our present goods, mitigates evils, and for the future by his good-will provides for us.
+
+**Casus III. Whether without superstition and by observation of the sky and elements can *prognostica of future tempests* be sought?**
+
+*Reply.* A *natural matter*, — especially what pertains to the *tempering of air*, — to predict, and to observe, can be done *without superstition* from the *constitution of the heavens or elements*, — for its causes it has and *dependence* thereupon.
+
+Thus from *diverse color of clouds* we can predict *diverse tempering of air*.
+
+*Black* cloud is cause of *winds and lightnings in summer*, since it has *denser and thicker vapors*: *white* notes *serenity*, since it is generated from *subtle vapor, thin and rare*, which easily receives the light of stars; *ruddy* also generates *winds*, since it contains humid and terrestrial vapors: *dark-colored* notes *rain*, since it is *dewy and watery, and already begins to distill*.
+
+The *red morning* mostly notes *winds or rains*, — since the sun draws to itself an *aqueous and red cloud* to us, — which if it is *dewy*, rains fall; if less dewy, but better cooked, *material for winds it supplies*. The *evening red* is a sign of *serenity*, since it drags the cloud into another horizon, — and by the night's cold interposed the *watery cloud* is condensed, and does not deliver rain that day.
+
+The *sky in evening ruddy* is a sign of *rain*: the *sky in morning ruddy* is a sign of *serenity*.
+
+*Christ himself* not the observation of these matters or of the sky's judication *disapproves*, when he says to the *Pharisees* (Matt 16:3): *when the evening cometh, ye say, it will be fair weather, for the sky is red; and in the morning, it will be a tempest today, for the sky is red and lowering. Ye know how to discern the face of the sky, but of the signs of the times you cannot?* On which words *Hieronymus* writes: *the storm and the weather of tempests, which from constitution of the elements are known, easily can be discerned; the changes however of times cannot easily*. Hence are the verses:
+
+*If the sky reddens, evening promises serene:
+And likewise if morning stains, indicates rain.*
+
+*Red morning* mostly notes *winds or rains*, since the sun draws an *aqueous and red cloud* to us — if it is *dewy*, rains fall.
+
+*Rain* is predicted, when the flame of a candle sparks and hisses, and gradually diminishes, — since the vapor which is material of rain, surrounding the candle, is *turned into water*, dissolved by the heat of the candle, then flees.
+
+*These are of that genus which mostly happen, although we ignore the causes*. Therefore to *observe such things is not superstitious*, but rather that of a *diligent man*, — and to be praised more than *idle wine into strong-mead*.
+
+**Casus IV. Is it licit with good conscience to *elect days*?**
+
+*Reply.* *Election of days in the law of Moses is prohibited* (Deut 18:10) where *calculators of the months* (as some translate) are numbered among the *magi*. But with what *discrimen* about this thing must one hold judgment, we must judge.
+
+For there is: **(1)** *A vicious election of days*, of which three chiefly are the species:
+
+**(a)** *Hypocritical election of days*, of those who on certain days and hours think that prayers and other things which are done for the sake of divine cult are *more efficacious*. This the *Pharisees* did, — and *by antiquity of time* — this same feigned superstition — they augmented *its effect*.
+
+God indeed *sanctified the seventh day* — which he *elected and sanctified* — for his own *cult* he separated; the Church also *chooses feast days*, — but not as if *prayers on that day are more efficacious*, — for *neither place nor time sanctify prayers, but rather use and place; therefore Paul wills us to pray always and in every place* (1 Thess 5:17; 1 Tim 2:8) — but in *memory of the chief works of God*, God himself *the Sabbath to be sanctified* commanded (Gen 2:3), and *conventions of the Church he indicted*.
+
+*In the Papacy* however *one day is preferred to another*, and *with greater privileges* by the *Pope adorned*. To *observation of that day greater merit is promised*, from *mere superstition and Pharisaic hypocrisy*. *Christ* however every day *sanctifies*, — for with *Paul* neither is past, nor future, — but *ever eternal today*: therefore always must we labor for *Christ* (2 Cor 6:2); *always we live* (Rom 14:8). Those days however which are destined by the Church for the *divine cult*, they observe on account of *good order* — which every man ought to conserve, — *not however therefore because some greater merit before God on that day is to be sought*, — but of this thing above we treated *ex professo* (lib. 2, cap. 7, and cap. 13).
+
+**(b)** *Genethliacal election of days* — when from *stars certain days are predicted*, in which peril of death threatens someone, — which some so tenaciously observe, that they hold that *day as utterly unauspicious*, which even *more than God himself they fear*. And *deny indeed we cannot*, event sometimes to respond to the prediction, — but from *particular examples no certitude can be sought*. How often does the *event not respond*?
+
+Safer therefore it is to *remember on each single day that we are mature enough for death*, — and therefore with *fear and trembling always to serve God*, — who *has appointed a fixed terminus of our life, — beyond which if we cannot pass, — with tranquil souls*, — offices of vocation of ours we can do *without solicitude*. *Number our days, thou, Lord, and time thou hast set*, — whenever it pleases him: *no one numbers his years and time* (Job 15:15). Why then on each day are we not *fearful of death*?
+
+*B. David* was also solicitous of the day of his death: *make known to me, Lord, my end, and the number of my days, what it is, that I may know what is lacking to me* (Ps 39:4). But when he saw that this he had *sought in vain*, — soon he added (v. 5): *behold thou hast made my days measurable, and my substance is as nothing before thee*. — *Universal vanity is every man living, and in an image passes man, and vainly he is disturbed: he heaps up treasures, and knows not for whom he gathers them*.
+
+Therefore here has place that of *Jeremiah* (10:2): *from the signs of the sky fear ye not*.
+
+From the *stars certain eclipses of the luminaries* are predicted, — which predictions, since they have their *necessary and natural causes*, can never *fail*: — tempests are also predicted, — which predictions, from the *position and operation of stars in lower things*, have causes, but which by *intervention of other things are impeded*, — therefore sometimes they fail.
+
+But *predictions about man's fortune*, *long-life, death*, and similar *fortuitous events* — on account of *non-necessary conjunction of causes with this their effect* — *often deceive*: — therefore not much should be attributed to them, — and always let there be thought that of *Solomon* (Eccl 8): *it is not in the power of man to prohibit the spirit, nor has he power over the day of death*.
+
+**(c)** *Superstitious election of days*, — as that some on their day *fire in others' houses do not ignite*, and *do not permit others to do this*; on the day of *Jupiter and Saturn* from stables they do not carry out manure; on *feast days* they do not wash infants.
+
+Others observe *days destitute of saints* — on *Peter's day* they make *nests for hens*, which more fecund thereby they think will be that year; especially the *days of B. Virgin* they observe, — as the day of *Purification, Annunciation, or Visitation of Mary*, above others *auspicious* they think.
+
+Others from *Planetarium* books (as they call them) *predictions of the future they seek*. There they find *counsel with what day or hour it is commodious to buy or sell great and weighty things, — iron, lead, and other metals*; with what hour it is commodious to *sell wine, grain*; with what hour it is commodious to *plant a garden, to plow, to sow, to harvest*, *to buy new garments, to demand money from debtors, to commit boys to preceptors' instruction*, and other things of this genus *innumerable*, on account of which *superstitious men* consult *calendars and books of the planetaries*.
+
+Here pertain those *works of the impious on the natal night of our Savior*, — as that some from *water pipe-infused about their fortunes*, — some *little chairs from certain rooms projected of quality about future nuptials conjecture take*; likewise that on the *feast of John the Baptist* little-women *rise from bed, occupy windows*, and the *first voice of a man crying* they observe, — that if any male voice they have heard, in the *whole year they think will be happily married*, — if some female voice, that all things adverse they will fear. That on the *night preceding the day of Andrew* consult *fumigations*: — that on the *night preceding the day of Thomas* they inquire about futures. — Which all things are *superstitious* and *impious*, fight with the *providence of God*, and impede prayers. — No reason for those effects can be given, — but the *only foundation of predictions* is the *superstition of men*.
+
+Therefore to be laughed at are those who — commodities of air's tempering neglected, — which on other days they could have, — to a certain day domestic works reject, — on which they think it is commodious to plant, sow, or cultivate the field. That of *Solomon* about them says: *he who observes the wind, does not sow; he who considers clouds, will never reap* (Eccl 11:4).
+
+That are indeed *stolid*, who in labors of vocation, in marrying, building, buying, and selling, — happy and *unhappy days and hours* — which from *calendars or books of the Planetaries* they have learned, — they *await*. *Those who fear God, upon the labors of their hands God's blessing they* have (Ps 128:2). *Do therefore, whatever times or fortune brings*: *seize the hour with grateful hand*.
+
+Thus much of *prohibited elections of days*.
+
+There is however also *licit observation and election of times or days*, from which about *felicity or infelicity* a *probable conjecture* is taken. — Nam attentions *to economic-things* is not prohibited. For *experience* — from long observation — has proved that *some days are more commodious* for expediting domestic works, and from *some* the future *quality of the year probably can be conjectured*.
+
+Thus from the *fatness of birds in February* or at the beginning of *March* they gather still *cold and snow remain*. From the *serenity of the sky before sunrise* on the day *of the Purification of Mary* the *rustics gather the tempered mildness of the whole year*. If the *sun on the day of Bacchanals shines*, they promise a good *harvest of winter fruits*. — *Sowing near Bacchanals thrown into the field*, always they have observed to *green up*; — *the horns of deer* struck within the day of *Annunciation of Mary* are more useful than the rest for medicine; — and many such things have been *observed by rustics, hunters, and writers of economic-things*, — which are not to be despised: *for many things are hidden in nature*, — which *experience shows*, — even if their *causes are to us unknown*. Here pertain the popular verses about *the day of the Conversion of Paul*:
+
+*Which is the day of Paul, — good times denotes to years,
+If winds be, — designate battles of peoples,
+If clouds be, — perish animals of every kind,
+If snow or rain lie, — designate times dear.*
+
+And about *the day of Martin*:
+
+*If it rains on the feast of Martinian process,
+Continuous forty days it usually knows.*
+
+These are of that genus which mostly happen, although we ignore their causes. Therefore to *observe such things is not sin*, — provided we do not attribute *infallible certitude* to these predictions. For they rest on *experience*, — which is not a principle *apodictic*, — but has *middle of some way*, — since God is the arbiter of *tempests, diseases, peace, and wars*, — whose right hand can change everything, — and to whom in this part also we ought always to leave *first place*.
+
+**Casus V. Whether without good conscience *stolen things or things absent* can be inquired through *magical divination*?**
+
+*Reply.* Nothing is more used, not only in the rude *vulgo*, but even among some judges, than *to inquire by the art of divining* into things lost, into *thieves, into homicides*, — nay even into the *magi* themselves, — that to punishment they may be drawn. As *Bodinus* (lib. 3 *Daemonom.* cap. 5) about a certain *magus* refers, — who by *cribration* another magus pronounced by certain voices to have detected. The *names of all those who were under suspicion* were brought forth, and when to that name, on whom *culpa was to be reflected*, they came, — incessantly *the cribrum moved*, — and the magus was cast as *guilty of the crime*.
+
+*Predictions of this kind* are made partly by *cribration*, — partly by a *helmet with water*, — partly by a *specular cup*, — partly by *crystal*, — partly by *nails of boys not polluted*, — partly by a *vessel of water*, — partly by *lots* observed. Some also from *inspection of stars* contend to detect *thieves and homicides*, — likewise from *inspection of nails* of certain fingers.
+
+The *origin* of these divinations *Bodinus* draws from the *Chaldeans and Assyrians*, of whom writes *Sorenus* (lib. 19 *de fato* cap. 18): *the Assyrians and Chaldeans read helmets or dishes, into which certain silver plates, precious stones marked with certain characters, they place, — and with certain conceived verses a demon they invoke, who at the vessel — with immobile face — appeared, and to the interrogator responded*. And of *Julian the Apostate*, — that he took *tradition of the divining art in this genus*. — *Constantine* was too *illuminated to imitate this art*, — nowadays for the same reason of magic vasculum with water is filled, — or in the top of the fingernails is exercised, — into which the *images of things which are inquired about seem to be brought forth*. These *he says*.
+
+That all of which are *diabolic, illicit, and impious*, — no pious man ought to *doubt*. *Effect sometimes follows*, but is to be ascribed to the *work of the devil*, — who however with this and other similar *magical inquiries* — of theft or homicide the guilty exposes, — and yet *nonetheless innocence sometimes cloaks*. Some are also *fabulous of pre-things spoken*, — and for *deceiving men by the devil himself excogitated*: — such was the oracle at the *fountain of Ceres in Patras*, — in which by *specular mirror-image* to the sick a *cheerful or sad face was shown*, — and *from thence sanity or death of the sick was divined*: — likewise what is memorialized of the *fountain of the Palic-brothers* in *De mirabilibus mundi* (which falsely is ascribed to *Aristotle*), — in which by *dolus juraisses and tablets inscribed were placed*, — if they were *false, they would be absorbed*; — if however *true they were, they would swim above*.
+
+He therefore who delights in these arts, — even if he has an *outcome that seems good* — namely of *investigating hidden things*, — of detecting *criminals*, — is *guilty of piety*, does not however his *conscience protect*, since he serves the devil, — when better he *should be devoid of all these things*, — than to gratify the malignant spirit in the least.
+
+But they have some things — which as *conjectures* for their art they adduce from the *sacred*. For of *Joseph* it is read (Gen 44:5) that his *economus* said: *the cup, from which drinks my Lord, and whereby he is wont to divine* (v. 15); *he was wondering how so great was your ignorance, that ye did not know that there is not similar to me in the art of divining*: — whence they conclude that *Joseph* through *his cup used to divine*, as nowadays some through cribrum and dish divine, — and used *characters* and *verses*: and that this could not otherwise be obtained through the art of divination, — from whom things stolen were, — he could know.
+
+But no *patronage* they find in these words. For it is not verisimilar that that most-holy man was wont to *augur through the cup*, — or to attribute anything to *vain arts*, which afterwards the *Lord in the law so gravely prohibited* (Lev 19:26; Deut 18:10). Vainly therefore is that passage interpreted: — very many think, *Joseph did not seriously say these things* (how could such a holy man render Judah suspect of *plain diabolic art*?) — but only in *jest*, and *from the persuasion of the Egyptians*, — of whom he had learned that they *excelled in these arts*. — In which sentence is *Magnus Zwinglius* (Comment. 145 in *Genesin*), whom *B. Luther* follows in his *Commentary* on it. *Joseph*, he says, *neither is it strange to be held for a magus*: — *thence indeed his brothers thought it — Egypt abounded with augurs, ariolos, incantators, and especially their prince* [Pharaoh] *himself of these arts to be skilled it was known*. — Thus he simulates himself to know the arcane counsels of them, — by which simulation is so *stirred the trepidation of them*, that scarcely they are collected. — Thus *Luther*.
+
+*Selneccerus* attends to the *emphasis of the Hebrew voice — nachash*, — which not so much *augury* as *every crafty observation is usurped*, — as if the sense is: — *do ye not know, that observing observes some, — like as I am*?
+
+The same sense can have the words of the *economus*: *is there not something whence has drunk my Lord, — and by observing has observed on it*?
+
+**No refuge therefore has these place** — the *cephalomantic, hydromantic, oeconomantic*, whom as *ministers of the devil* to flee it befits *Christians*.
+
+**Casus VI. Whether from the *inspection of face and hands of a man* can predictions rightly be sought about the *affections of the soul* and the *future condition of a man*?**
+
+*Reply.* The Fathers of *natural science*, which considers the *members of the human body — face, eyes, nose, lips, ears, back, hands, and feet* — call *physiognomy*.
+
+Of this are two chief *species*: **(1)** *Metoscopia*, which chiefly from the *face of a man* certain things conjectures; **(2)** *Chiromantia*, which attends to the *constitution of the hands*.
+
+Both the ancients much attributed to, — and made an *art* out of them, which judges of *affections of the human soul*. *Aristotle* wrote a *peculiar book De physiognomia*. *Potamon* also and *Adamantius Sophista* *precepts of this art in* his own *observations included, and treated*: *Hippocrates* (in lib. 2 *De morbis*) many places treats scattered of this thing: — *whoever has a small nose, is love-inclined, quick*; *those who have a great nose with big eyes, are good; likewise: those who are great, bald, stammering, thin, with strong voice — are good*; again: *whose head is great, eyes small, stammering — are irascible*; and again: *eyes not-immoving — are irascible*; and again: *great head, dark and great eyes, thick and long nose — are good*.
+
+*Sirach* also praises *physiognomia* (19:26): *where he calls good countenance the abode of a good heart*. *Aristotle* also *shined in this genus*, — who, as *Athenaeus* testifies, *had no equal in discerning the vultures of men*, — and *the internal man from external and conspicuous things* than all others most he could perceive. — He therefore (Rhetor. c. 4) *whoever was to be future king — from face and lineaments of the whole mouth he depicted*: *those men*, he says, *whose eyes seemed to signify — and lifted up would be — with pupils moved would be here and there — as if certain wandering something in-of-turn-they-would-see-and-look, — voice great, breathing contumely, — of ridiculous mouth features — signifies the same laughter first swelling the throat*: — *and having no truth, — a stormy spirit, — asking of him — questions great and, ignorant of responses no otherwise better*.
+
+It is compact from these that *prognostica physiognomica in and out of the Church of antiquity have not been unused nor to be despised, — provided they remain within the limits of natural affections of soul and constitution of body*. For they arise from *the crass of seed and blood, from which a man is conceived, — which imprints notes on the face, — from which about the temperament, and consequently about the morals of the mind, in some manner one can judge*.
+
+From these notes judgment is made:
+
+**(1)** From *similitude with other animals*, — as those who *of small eyes are* are *timid* like the *simia and lepores*; those who of *big eyes*, are *stupid* like *bovis* and *asini*; those who are *very black* are *timid*, — as *Ethiopians*; those who are *very white*, also *timid*, — as *women*. Thus of the *comites of David* is written, that they were *virile-mouthed*, faces of them as *faces of lions* (1 Chr 12:8) — therefore from face he could judge of the *fortitude of soul*, — as usually is in *lions*, whose *fierceness the very face shows*.
+
+**(2)** From *the passions themselves*, — chiefly of the eyes, — which are as *windows of the heart*. Thus since irascible men do not blink but at *some thing intent*, thence *Adamantius judged that those who do not blink with the eyes are irascible*. Here pertains what *Solomon* writes (Eccl 8:1): *the wisdom of a man shines in his face*. And again: *before the face of the prudent shines wisdom, the eyes of fools are in the ends of the earth* (Prov 17:24). *Downcast eyes note a bashful man; the immobile — an impudent and irascible; the fluttering, — the light and fickle mind; oblique, — a subdolous and doleful; those who look aside* — Prov 16:30 — *a dolent one; the same notes eyes winking* — Eccl 27:22, Prov 10:10; *the elevated eye notes a proud man* — Prov 6:17; *sublime eyes* are among the things abominable to God (Prov 6:17). Similar notes God has impressed on other parts of the face and members of the body, — from which about the *temperament and morals of men judgment* one can seek — *probably however*, since *nature morals can correct* — long *custom, discipline*, which from *truculent gentle, from irascible mild, is wont to render*. Just as *Zopyrus physiognomon* about *Socrates* judged from the constitution of body, that he was *dull and stupid*, — even *muliebrous*, since he did not have *concave jugular*; but *none of these was in truth known to be about him*, — since he had *corrected the errors of nature*, — and *vices arising from natural causes* had by *will, study, and discipline* subdued, — so that *no vestige of what was predicted appeared*.
+
+Whoever therefore wishes from face to judge about the *studies and morals of men*, — to those *natural signs* let him also add those which from the *will of a man proceed*, which very often *emend nature*.
+
+The other species of physiognomy is *chiromantia*, of which *Hindus* wrote books among the Greeks, and among the *Latins*.
+
+*Fables of Egyptians*, when in *economic matter* — do we attend? — *general parts of the year are labors in spring, others in summer, others in autumn, others in winter — in each of these to be done at its own time*, — so easily about the successes of our affairs we can judge. This is *observation of times natural*, — of which by *Ecclesiasticus* it is said: *who gathers his crops-at-the-fitting-time-is-wise, who however-sleeps in-summer-is-confused-fool, who-however-in-tempest-of-hyems-obliviated, and long-lasting-tempest*. Such observation of times is even given to *brutes*, — as it is written (Jer 8:6): *the kite in the sky hath known his time, — the turtle-dove, — and the swallow, — and the crane, they have kept the time of their coming*.
+
+**Also the *choice of days is not prohibited* in economic-matters**. Experience from *long observation* has confirmed that *some days for expediting domestic works are more commodious*, and from *some* the future *quality of the year probably can be conjectured*. — For which purpose useful is the verses:
+
+*Which is the day of Paul, — good times denotes to years,
+If winds be, — designate battles of peoples,
+If clouds be, — perish animals of every kind,
+If snow lies, — designates times dear.*
+
+Chiromantia constitutes, — that to a future chiromantist there is need beyond *precepts of the art* — of a certain peculiar *donation*, which he who does not bring to the art, — in vain in the sole *doctrine of it will be labor*.
+
+Just as however both *astrologers* and *chiromants* sometimes *abuse things*, — the abuse among *Christians is not to be tolerated*. To the *little-hills of the hands separately they preside planets*, and from certain characters impressed thereupon predict such things as are of the *nature of the planets*. Some to the *thumb* attribute *Mars*, others *Venus*: under the *index* — *Jupiter*, under the *middle finger* — *Saturn*, under the *ring finger* — *the Sun*, under the *little finger* — *Venus* or *Mercury* they place; the *tubercle of the hand* they dedicate to the *Moon*, — but *without any natural cause*.
+
+From these afterwards *by vain effort they seek oracles* about *man's fortune, morals, studies, kind of life, nuptials, diseases* finally and *kind of death*: — to which predictions, though by particular experience they *pillage of some sort*, — yet nothing is to be *credited*.
+
+*Gypsies (Cingari)* especially are those who by this seek their food, — a genus of men that uses *magic in many things*, — for which *credulity of men not seldom have they suffered penalties*.
+
+So much therefore about *physiognomic and chiromantic predictions* in this place having been said suffices.
+
+**Casus VII. What is to be judged about *dreams* — whether one can observe them, and thence draw *predictions of futures without sin*?**
+
+*Reply.* Always about this thing have been diverse sentences. Among *Philosophers* — the *Platonists, Stoics, and Pythagoreans* attributed much to dreams, — and they thought that *these portend something*. *Epicurus* attributed *nothing at all* to dreams — whom followed *Cicero* (lib. 2 *De divinat.*): the *observation of dreams is vain, — since neither is God the effector of dreams, — nor of any thing else with dreams have community, — nor of observation nature nor knowledge can be found, — especially when those who see them themselves, divine nothing: — those who interpret, use conjecture, not nature. If some dream has turned out true, — why should we not rather derogate one from many, — than from one confirm innumerable?* The *Peripatetics* partly *approve, partly disapprove* dreams.
+
+Such diversity of sentences also among *Christians is found*, — some observing all dreams, others attributing nothing at all to them; some finally receiving certain, disapproving others.
+
+That therefore we may have some *certain thing*, in which the conscience may acquiesce, — it must be known that there are *diverse genera of dreams*: whence it will easily be compact why not all can equally be proved or disproved. For either to *all or to none* to give faith to dreams — is of the same vanity.
+
+There are however dreams of *three genera*: **1.** *Natural*; **2.** *Diabolical*; **3.** *Divine*.
+
+**Natural** are: **(1)** From *reliquiae of things done by the vigilant*, whose *species the spirits of the phantasy serve*, — carry, — and when through vapors, of food, drink, *from head arising*, they are cast to and fro, — bring various sights to the *sleepers*: — which because of *the disordered and tumultuous jactation of the spirits*, tumultuous and distorted also make *dreams*: — which have no *force of signifying*, but are *fallacious dreams*, — to observe which would be *vain*, — as if someone in the clouds *varied figures should observe*, and from thence something occult and future should wish to divine.
+
+Just as therefore the *sights of drunkards or phrenetics* we do not care about, but *contemn*, — so *such dreams should be esteemed as nothing*, — the more tumultuous they are and the more ridiculous, — which by the very *event usually always are argued of vanity*. Of these most-true is what *Ecclesiastes* says (5:6): *where many are dreams, there are many vanities, and much speech: — but do thou fear God*. And *Sirach* (34:1): *dreams excite imprudent men, — as one who apprehends a shadow and seeks the wind, — thus who attends to dreams: many have they made err, — dreams, and have made hopes fail*.
+
+**(2)** They happen also naturally from *some affection prevailing either in body or in soul*.
+
+*In body* from abundance of *yellow bile*, dreams are usually of *fires, lightnings, and quarrels, of fights and wars*, as happens in cholerics: when there abounds *atrabile*, dreams are of *sad, formidable, and abominable things*, as happens in *melancholics*: when there abounds *phlegm*, dreams are of *waters, rains, fountains, rivers*, as happens in phlegmatics: when there abounds *blood*, dreams are of *joyful things, nuptials, dances, plays, and similar*, — which so much delight, — as happens in sanguines.
+
+Thus when *hunger* abounds, one dreams of *venereal things*; who is drunk, dreams to drink; who thirsts, to drink (Isa 29:8). Such things per se signify no futures, but only the *abundance of humors*.
+
+But when the *very members of the body seem affected in sleep*, then something is *portended*, — as *he who sweats in sleep, or is seized by fever, the same in sleep also suffers*. Thus *Galen* (lib. *De praesagio ex somnis*) refers of a certain one who *dreamed* one of his own thighs to have become of stone, — and immediately began he from that part to be *paralytic*. Sometimes not by chance, but because some *harmful things* are already *made*, — through some *dream they are indicated*. *Suetonius* refers of *Publius Cornelius Rufus* (lib. 5 cap. 30): *that he dreamed himself to have made no light-thing*, — and thus in dream to have been done. — In this way happen dreams when some *affection in the body predominates*.
+
+*When in the soul some affection predominates*, is *indicated also through dreams*. Who *tenderly loves*, often dreams love-things: who is angry with another, has dreams of irascible and tumultuous things: who fears, is disturbed by threatening dreams: — dreams which greatly torment the *vigilant*, the same also *torture the sleeper*. Which one *frequently meditates* while awake, in *some vision in dream comes back to him*, — of which is that of the poet:
+
+*All things which by sense are turned by-day,
+Times of soft-sleep drives back the mind.*
+
+*Hannibal* burning long with *insatiable hatred toward the Romans*, — and *devastating Italy* often thinking, — saw in *dream a beast of horrible aspect*, — with mouth encompassed by *serpents*, — wherever it went, — with feet *everything treading down and overturning*.
+
+*Julius Caesar*, before he brought *hostile arms against the city*, — dreamed himself to have violated his *mother in sleep*: from which dream conjecturers led him into hope of *great empire*, — as has *Suetonius* in his life (cap. 7).
+
+*Studies also and labors* to which one is long accustomed, — beget *similar dreams*: of fish and waters *dreams the fisher*; of arms and *sound of trumpets and thunders of bombards*, the *soldier*. Of which thing writes *Augustine* (lib. *De spiritu et anima* cap. 28): *according to studies, in which we are extremely occupied, — thus we conjecture and see. — For according to that which we do at last, are seen images of the dream. Just as according to diverse variety of infirmities, diverse happen dreams; also according to modes and diversities of humors, dreams are varied*.
+
+These all are *natural dreams*, — which to observe is licit, — especially when *frequent, recurring*, — either as of *diseases of body or soul thence judgment* — for what end they are observed by physicians of both soul and body: — either that they may be able to *investigate the unknown cause of some effect*, — or that a reason may be sought for us to expel that molestation: — very often indeed *internal passions*, from which arise dreams, are also *initia of manifest symptoms* in *bodily affections and in the affections of the soul*.
+
+Let us give diligence, however, so that our *studies of the day be pious, honest, and of true piety*, — so that from *piety* we may go forth to *pious dreams* also. Whence *Sirach*: *reflection of good soul is placed under my head, — sweet is my sleep* (Sir 34).
+
+To *natural* dreams also pertain those which not without *allegorical interpretation are received*. From natural things, either scriptural, — which naturally can happen, — which occur to one in sleep, — by *allegorical conjecture* something is gathered about the *morals or events of men's affairs*. Thus if someone dreams *the earth is burned or dried by burning*, is a *sign of divine anger toward humanity*.
+
+*Astyages*, king of the *Assyrians*, saw in dream that *from the belly of his daughter arose a vine*, whose branches shaded the whole *Asia*, — which the interpreters said: — a *grandson would be born, who would reign over the whole Asia*, — which was in *Cyrus* implemented, as testifies *Herodotus* (lib. 1).
+
+[verses on dreams of Astyages and vine covering Asia]
+
+It is compact from what has been said, that *not all dreams have certain signification*, therefore they are *foolish who all things rashly observe*, — impious even, who so attend to dreams as if from them some *divine thing shone*, — as of old the *augurs* thought, in the *flight, cry, and pasture of birds*, — the *haruspices in entrails of animals*, — the *Chaldeans in stars*, — whence they predicted *future events*, — which the Lord has passim *prohibited* (Lev 19:26; Deut 18:10; Isa 10:2). For neither do *all future things depend on natural causes*, nor by *any dreams whatever are they signified*, — and in itself is *vain*, — to be too *curious about our future events*, — much *more vain* — all our actions and pursuits to *commit to dreams*, — and according to *their significations* — which are through the *thing uncertain*, — nor in *all things to be inquired*, — nor for anyone obvious, — our *businesses to dispose*. — Those who do this, we count among the *number of ariols, augurs, genethliacs and other diviners* to be placed, — for the causes just indicated.
+
+**Casus VIII. What is to be judged about *predictions or presages* which are supplied from *omens, monsters, and portents*?**
+
+*Reply.* What are *omens*, above in the *proemium* we noted, — namely *things said or done for another end and for other causes*, — which they call *fortuitous chances*, — as when one *going forth from home offends his foot*, or *puts left before right* by chance; if in the morning *going forth an old-woman or virgin* they see, or a *funeral*, or the *sign of the cross*, or some similar thing, — from which afterwards *presages are sought about happy or sad future events*, — which however *have no common with things said or done*.
+
+Of these we cannot deny that *sometimes it happens what one omens*, — but they have *no certain causes* from which they are predicted: — but either from *divine impulse they happen*, — as was the omen of *Eliezer* to the girl, — to whom he said, *let down thy pitcher, that I may drink*: and she said, *drink, and I will be spouse of the Lord's son* — which was fulfilled in *Rebecca* (Gen 24:14, 15). Such an omen also was that of *Jonathan* (1 Sam 14:9) — of *Gideon* (Judg 7:13); — or *by chance they happen*, of which examples many are among Ethnics — about the *offense of foot*, — as of *Tiberius Gracchus*, referring *Valerius Maximus* (lib. 1 c. 4), that when he was preparing new things, — sought *auspices in first light*, — and *going forth from the door offended his foot*, so that his *toe was crushed*, — which crushed on the *capitol by Scipio Nasica with the fragment of a bench being struck he fell*.
+
+Of *Crassus filius* refers *Plutarch* (in *Vita Crassi*), — that when he was to go forth against the *Parthians* into battle-line, he thus *offended his foot*, that he fell prone to the ground, — whence it was collected that he would *succumb in the battle*. And *Tibullus* mentions dreams (lib. 1 elegy 1):
+
+*O how many times, going forth on a journey, I said to myself sad things,
+That my foot at the door had given sign of offense.*
+
+Even though therefore not all *omens* are to be despised, — but for prudently instituting life they profit, — yet *stolid it is to observe any and every omen*, — since not all *fortuitous cases are omens*, — unless *superstition of man make them so*, — from which many *ridiculous presages* are made — especially by *little-women about future nuptials, about happy or unhappy marriage*, and similar things, — by which the mind is drawn away from *true piety*, from prayers and confidence in God, — in whose hands are our times.
+
+Therefore the *pious* do not much attribute to predictions from *omens*, — and if some rarer things which are thought *ominous* occur, they pray to God, — that he may do with them according to his own will. *Something certain from omens no one can conclude*, — but only from the *event is it compact*, — that some saying or deed was true omen, — which portended something.
+
+*What monsters and portents pertain*, — in which is *aberration of nature*, — of *monster the nature is to portend and to show something*, — whence also they have their name, — as, that *before the siege of Jerusalem, — a cow gave birth to a lamb*: — that at *Rome* a *bull spoke with human voice*: that in the same place a *boy of six months in the forum boario proclaimed triumph*: that from *horns of a deer, shields sweat blood*, — and things of this genus other; — these indeed rarely are without some *singular event*; but not for anyone is it to *predict* what event.
+
+*Better therefore is to commit such things in silence and hope to God*, — than by *divining betray temerity*.
+
+**Casus IX. Is it not licit without sin from *lots* about things unknown or future *to make judgment*?**
+
+*Reply.* Sort and sortilege sometimes is taken broadly for *any superstition magical*, — just as near *Pliny* (lib. 30 cap. 2) all *persuasions of magi are called sortilege*, — but of these it is not asked, but of *lots strictly taken*, — when from *casting of dice or tesserae*, from *commixture of beans or straws*, — from *production of little-papers from urn or hat*, something is known.
+
+[*Sort from two goats was elicited whether to God to be offered* (Lev 16:8). *Sort earth was distributed to Israel* (Josh 1). *Sort Saul was designated king* (1 Sam 10).]
+
+And this in respect of *end* can be done *triply*: — either *therefore lots are used, — that what to each is to be attributed be known*, — is called *sort divisor*, — which not rarely is adhibited in *dividing inheritances, honors, dignities, offices*, — or it is done thus, so that *God be consulted, what is to be done, what to be avoided or fled*, — is called *sort consultative*: — or finally it is done therefore, — that occult things and *events of things* be known, — and is called *sort divinatory*, by which *things stolen* are inquired for, — or from *casting of lots joyful or sad things presaged*, — of the sort as of old were the *lots of Sicily, of Delos, of Praeneste, and at Antium* among the ethnics.
+
+That therefore *lots in general attind — with whatever intention one uses them* — with acts *human of this sort, which are inquired through lots, — according to disposition of stars they undertake to be effected — vain and impious is divination from lots*, — with which sometimes the *demon mingles*.
+
+The same also must be said in species about *divinatory lots*: — for *occult things and to God alone known in no wise, — much less by lots, can be extracted*: nay by these *lots to attempt to indicate is entirely perilous*: for the *spirit lying and homicidal* easily can *supply the name of an innocent*, — and by this reason the *innocent would be punished, the guilty dismissed*.
+
+Nor here ought the example of the *theft of Achan committed* be accommodated, — which was known through lot (Josh 7:18): — this indeed was from *peculiar jussus of God*, — as itself the text has (v. 14), — nor were *ridiculous things adhibited*, — but from tribe to tribe, from house to house was inquiry made: — and moreover acceded *confession of the source* (v. 19).
+
+In *consultative lots* is sinned, when the *devil is consulted through lots about some event of some thing*, — as the *king of Babylon* did (Ezek 21:21) by *commixture of arrows*: — or when indeed from *God is awaited the event of lots*, but either *without necessity lots are usurped*: — this indeed seems to pertain to *tempting God*: — or in *necessity without reverence of God lots are adhibited*: — or *divine oracles* are converted to *futile and inane things*: — or finally in *ecclesiastical matters those things which by inspiration of the Holy Spirit ought to be done are committed to lots*.
+
+Whatever therefore *predictions* by this mode are *sought from lots, vain and illicit they are*, — of which in the *decretals of the Canon-law* it is said (26 q. 5 c. Sorts): *lots, — by which all things ye determine of your provinces — which parties damages you turn, — nothing else than divinations and malefices we decree. — Wherefore we will this altogether to be damned, — and lest they be exercised, by interdict of anathema we prohibit*.
+
+*Sort divisor* also is not rightly usurped, — if according to it *honors and ecclesiastical dignities are distributed*, — lest an *inept and less suitable* be preferred to a *more suitable*: — therefore the canons the *use of lot in ecclesiastical elections of persons by perpetual prohibition damn*, — as is in the *Decretals* (lib. c. *Ecclesiae vestrae de sortilegis*).
+
+By these modes chiefly predictions from lots are *illicit*.
+
+**On the other hand licit is judgment gathered from lots**: **1.** *In secular matters, — in distributing common goods, dignities also and honors*, — provided that persons *of dignity are equal parts to be elected in gifts and qualities of their own, lest an unworthy be preferred to a worthy*, — and that *the event of lots be committed to God, who tempers lots according to his own good pleasure*.
+
+**2.** *Even in the election of ministers of the church, if for persons — parity of both — with erudition and morals equal — occur, — and which to be preferred to the other is doubted*, — there *the use of sort could conduct*, — indeed *Canons prohibit*, — but with *necessity postulating, and when by other reason to election it cannot be arrived*, — *usurped can be the lot*, provided that to the matter with *true devotion and invocation of divine name approach be made*. The *broader consensus of the Church, that decision be made through lot, accedes, — since of both erudition and skill be exactly known*: — for thus *reposed pretermitted prayers, in the place of Judas they chose him — where names of Joseph and Matthias by the whole Church, — since then war was just, — from God the election was sought, which through lot was done*.
+
+**3.** In *matters doubtful*, whether from *them* to escape, — as if among *ministers of God* be dispute, — which of them in *time of persecution should remain*, — which should flee — as *Augustine* teaches (ep. 180 ad *Honoratum*), — if this dispute by other means cannot be determined, — those who remain and those who flee — *by lot to be elected*: — of the same the counsel is (lib. 1 *De doctr. Christi* cap. 28): if to any it were abounding — something, which ought to be given to those, who did not have, — nor to two could be given, — if to it should occur two, of whom neither the other, either by indigence, or by some urging necessity surpassed, — nothing juster wouldst thou do, than that *by lot elect to whom given must be, — which to be given to both cannot be*.
+
+Here pertain the *lots* of which *sacred* Scripture mentions, — in the history of *Saul* (1 Sam 14:41, 42) and in the history of *Jonah* (1:7). In these lots always *the event, — however it may fall, — must be ascribed to God — who lots temperates* (Prov 16:33): — it is written, — *lots are cast into the lap, but from the Lord they are tempered*.
+
+Rightly *Augustine* called *lot a thing which in human doubt divine reveals will*: — which of God's lots is true, — which for the matter of need for public or private salvation of men procuring, — or of God's glory illustrating, — with reverence and religion are committed to divine judgment by pious men: — vain however are the *lots by which future events and hidden — nor known necessary things — are investigated*, — since God with these more gravely than magical superstitions, — or with false cults is offended, — whence also magical *frauds and impostures generally sortilege are called*: — which very name of *lots illicit — the impiety notes*.
+
 — ❦ —
 
 ```{=openxml}
