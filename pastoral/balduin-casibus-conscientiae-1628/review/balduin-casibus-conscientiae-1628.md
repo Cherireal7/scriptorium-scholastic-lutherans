@@ -6886,6 +6886,367 @@ Here pertain the *lots* of which *sacred* Scripture mentions, — in the history
 
 Rightly *Augustine* called *lot a thing which in human doubt divine reveals will*: — which of God's lots is true, — which for the matter of need for public or private salvation of men procuring, — or of God's glory illustrating, — with reverence and religion are committed to divine judgment by pious men: — vain however are the *lots by which future events and hidden — nor known necessary things — are investigated*, — since God with these more gravely than magical superstitions, — or with false cults is offended, — whence also magical *frauds and impostures generally sortilege are called*: — which very name of *lots illicit — the impiety notes*.
 
+## Chapter VII. On Cases of Conscience Concerning Specters
+
+*Editorial note: — the source scan contains a duplicate re-set signature at pp. 707–718, — where the beginning of Cap. VII (preamble + Casus I–III) is printed twice. The authoritative complete printing begins at physical p. 719 (OCR ln 45548) with a fresh CAPUT VII header + full preamble + Casus I–VIII. This translation follows the authoritative pp. 719–740 printing.*
+
+**Preamble.** Not the last effort of the devil is to *deceive, terrify, sadden, and afflict men through specters and terrors*, which occupy the *senses of men* either through images or through external sounds.
+
+Many examples of this matter are contained both in the *sacred*, and in the profane history.
+
+In the sacred it is read of the *pseudo-Samuel from the Pythonic-wife raised at the prayers of Saul from the underworld* (1 Sam 28:11). Which indeed the *Pontificii* held for the true *Samuel*, but many are the indicia in the text that it was a *diabolic specter*.
+
+For *pseudo-Samuel confesses* the Lord to have withdrawn from him, and no longer through the Prophet to speak with him (v. 6). Is it therefore credible that the Lord after his death would speak with him through the true Samuel the Prophet?
+
+The *pythoness* also confesses that Saul had removed all *ariols and magi* from the land (v. 3), and this he did according to the law of the Lord, in which it was prohibited that anyone should consult the mortal (Deut 18); therefore it is not credible that the Prophet Samuel against the express prohibition of God would have obeyed Saul.
+
+Says *pseudo-Samuel* to Saul: *tomorrow thou and thy sons shall be with me* (v. 19). But truly *Samuel's soul was in the hand of God* (Wis 3:1); whither the soul of Saul did not come, since he from *desperation* laid violent hands upon himself.
+
+Finally *Samuel* had been dead for at least two full years before, and his *body already reduced to ashes*: is it therefore credible that *Satan* resuscitated him? This can be said only impiously, — for the devil no more can *resuscitate the dead*, than *create the living*.
+
+Wherefore *Augustine* names that specter *image of the dead Samuel* (lib. 2 *De doctr. Christi*, cap. 23; and elsewhere by reasons teaches, not the true *Samuel* was raised, but the devil, who *transforms himself into an angel of light*, in the phantasy of *Samuel* appeared, lib. 2 *De mirabil. sac. script.* cap. 11).
+
+Of specters infesting *Egypt* when God was about to lead out his people, it is read (Wis 17). Of specters *pursuing the Egyptians* is spoken (v. 15).
+
+Mention also of specters is made in the *New Testament*, — as when the *disciples* saw *Christ* under twilight walking on the sea, they held him for a *specter* (Matt 14:26); and when after his *resurrection*, with the doors shut he suddenly stood in their midst, they thought they *saw a spirit* (Luke 24:37).
+
+In *ecclesiastical history* it is read of *Moses of Crete* the Jewish impostor, who *persuaded the Jews* dwelling *in Crete* that he was *another Moses*, divinely sent, that he might lead them incolent-in-that-isle through the sea into the *land promised*. And when he had committed the credulous multitude to the sea, many perished, — partly by *ruggedness of a cliff* broken, — partly by waters suffocated, — and when they were trying to kill that impostor, — they could not apprehend him, since he had vanished. This to many was cause of suspicion, that it had been the *demon of the alastor* (avenging spirit), in the *effigy of a man* to *destroy that Jewish nation clothed*, as is near *Socrates* (lib. 7 *hist. ecclesiast.*, cap. 27).
+
+In *profane writings* many examples of specters that rendered houses infested are extant. Refers *Augustine* (lib. 22 *De civ. Dei*, cap. 8) of the *infested houses of a certain Hesperius Zubernitianus*, whose domestics and animals were gravely vexed with sundry evils.
+
+Of *infested baths* writes *Gregory of Nyssa* in the *Vita of Gregory Neocaesariensis*, in which specters had done many evils to those entering — and no one who had bathed had come out alive, except the *deacon of Gregory Neocaesariensis*.
+
+Similar things are read among the *profane writers*. *Plinius the younger* (lib. 1 *epist.* 27) writes that a certain *house at Athens* was infested by a *specter of vast and emaciated form*, with the *rattling of chains* by which he seemed to be bound, — with which sounds he replenished the *dwellings*. On which account no one wished to inhabit that dwelling, at any small price it was rented. *Idem tale hoc de Bibliothecis emit*.
+
+*Idem refers of the house of Dion Pyranthea sensu Ovide*, and of the *house of the emperor Caligula* — in which, in whatever room he might spend some part of the night, — save that some part passed in terror, — he attests *Suetonius in Caligula*.
+
+Writes *Cardanus* (lib. 16, cap. 93) *De rerum varietate*, that a certain noble family among the Piedmontese was thus, — from a chimney was seen an *old-woman*, already dead for a hundred years, — as often as from the family someone was about to die. Similar examples see near *Wier* (lib. 3 *De praestig. daemon.*, cap. 15), and near *Alexander ab Alexandro* (in *Geniali dierum*, cap. 5, and cap. 9, and cap. 29).
+
+**Infested therefore by specters are either places, or men, or brutes.** *Places* are either *private*, as houses, castles, farms, mines of metals, and similar; or *public*, as *temples, cemeteries, monasteries, courts, thermal baths, seas, rivers, ponds*.
+
+*Infested* however they are either *on account of men*, or *on account of the fortunes of men*.
+
+**On account of men** are infested certain places in which impious men in *notorious crimes polluted* dwelt of old, or still dwell, — as the *house of Nero* after his mother was slain by *ghosts* was always infested, and the *house of Otho* or any place where *Otho* was found after *Galba* was killed, — as testifies *Suetonius*: — for the malignant spirits pursue their *cleric-slaves* even while they still live.
+
+**On account of wealth** are infested *mines of metals*, and wherever *treasures* have perhaps been *buried*.
+
+*Men* also are divers-wise *vexed by specters*, especially those constituted *in public office*, or *doing the works of their vocation with zeal*: — for to these Satan is chiefly hostile. Thus in some places *ministers of the churches* are infested by *specters*; those *traveling* are deluded by the *foolish fire* to which not rarely mingles the *spirit of darkness*, — by whom they are led to a *precipice*, into a lake, into obscure places, etc. *Soldiers on watch*, *hunters*, even *parturient women* nocturnally suffer many things from *specters*; sometimes even whole cities and provinces, as in *Egypt* of old was done in the time of *Moses*, and before these *30 years* (in the year 1594) in the neighboring *March of Spandau, Fridberg, and Berlin*, — where specters even appeared *by day*, and *by night* those whom they wished to terrify they *addressed*; — they scattered even coins, mirrors, girdles, garlands, papers, — which whoever touched, in the manner of the *daemonic-frenzied* were turned.
+
+Sometimes specters do not harm men but only *terrify*, — as at *Pictavium* in the parish of St *Paul*, in the year 1447, there was a spirit which broke *pipes and inkwells*, hurling *stones*, — yet touched no mortal, — as refers *Antoninus historicum*, part 3, cap. 24.
+
+*Brutes* also sometimes feel the *malice of specters*. Hence are heard horses at night in stables neighing and rushing to *recoil*, cows bellowing and striking with horns as if with specters they were *sporting*.
+
+Nothing here I shall say of the *variety of specters*, — which either with some *aspectable image*, or with *horrible sound* or *laughter and cackle*, or with a *tenuous shrieking*, or even with *lashes and fists* are troublesome, — hurt men themselves or cattle, break *stones, pots, dishes*, and similar vessels: — by all of which the *malignant spirit* wills to inflict terror on miserable mortals, so that, as at the *organs of the devil* — those which specters by their arts strive to expel — they may seek aid, — he *solicits*.
+
+Since therefore even about these *illusions of the devil* are some cases in which the souls of men must be informed, — lest anything be done against conscience, — therefore it is worth the effort to *propose and explain them separately*, — which in this chapter, by God's benefit, we shall do.
+
+**Casus I. Is it credible that the souls of the dead return and molest the living?**
+
+*Reply.* The *Pontificii* say there are three genera of spirits which infest men and places: — first, *devils*; then, *souls of men damned to the pains of the underworld*; and third, those *of purgatory which by pains are expiated*, as is near *Petrus Thyraeus* (part 1 *De locis infestis*, cap. 5).
+
+But it is *most-verisimile* that all specters which can be troublesome to us are *diabolical*. For it is *most-certain* that the *souls of the dead do not return*; but if ever they appear to have appeared, — *diabolic illusions* they were.
+
+For either they are *souls of the blessed*, and these *rest in the hand of God, — and not shall the torment of death touch them* (Wis 3:1); or they are *souls of the damned in the underworld*, from which no *liberation* is, — nor any return to the living: since *between us and you a great chaos is firm-fixed, so that neither those who wish from these to pass to you, may pass* (Luke 16:26).
+
+*Purgatory* however is a *Platonic figment*, from Scripture rejected, of which nothing sane about the third place of souls it knows: *he who does not believe, is already judged* (John 3:18); *he who believes, has passed from death to life* (John 5:24); *he who does not believe, into damnation shall go* (Mark 16:16).
+
+Whence also *Augustine* wrote (lib. 1 *De pecc. mer. et remis.*, cap. 28): *there is no middle place, that could be, — save with the devil, who is not with Christ: — nor is any place middle for salvation which our catholic faith believes to be the kingdom of the heavens, — or gehenna of the underworld; — the third place of doctrine we do not find, — nor is it necessary in the Scriptures to find*. And in sermon 15 *De verbis Apostoli*: *not divisions of places gave*, — *but sacraments discerns. Item between right and left is left middle of the middle place*.
+
+If therefore we would consider the *state of souls after this life*, it will appear that the opinion of the *return* of them is entirely *futile*. For souls of the *dead blessed* do not want to return to us, — since they are already in the solace and joy of heaven, — from which to be mixed with the miseries of those living here they do not desire. But souls of the damned indeed would wish to return, — on account of the pains of the underworld, — before which they would rather suffer any miseries of this life: — but they *cannot*, since from the place of torments departing to them no power is granted. *For divine power alone can souls return from the underworld*, as *Augustine* says (Serm. 105 *De tempore*). But that God will do this, we have *no promise*.
+
+Nay *no soul without its body can wander here among us*, much less can *emit sound or groan, or even human voice*: — for these things happen through the *organs of the body*. The body however is either in the sepulcher already reduced to ashes, or in another mode is corrupted, — and by God not until the *last day* is restored to its soul: — by the devil it cannot be resuscitated, since *resuscitation of bodies* belongs only to him whose is their *creation*. And especially God does not permit the malignant spirit to *disturb the souls of the blessed* which are already *in rest*, and *carry them here and there*: *the Lord keeps all the bones of the pious* (Ps 34:20). Therefore was it not permitted to *Lazarus* to return from the bosom of Abraham to the brothers of the rich glutton (Luke 16): — for whom God has *received into his own bosom*, — them to *molest men* he does not send.
+
+Whatever therefore examples are *adduced* for the apparition of *human souls*, are *mere sports of Satan*, — who is wont to put on the *face, habit, gesture, and voice of a man*, when he wills to *delude others*: — which also the *works of appearing shadows* testify, which either *false persuade*, or with *complaints or even external violence molest the living*: — which is the perpetual *study of the devil*, who therefore is called *the father of homicide and of lying*. In which sentence beautifully writes *Chrysostom* (homil. 29 in cap. 8 Matt): *whence to me is this persuasion? Or, since demons themselves have proclaimed: I am soul of that one? — But this indeed itself from fraud and deception diabolic proceeds. Not therefore is it the soul of the defunct which says these things, but the demon, who these things — that hearing he may deceive — feigns*.
+
+*Augustine* in the book *De cura pro mortuis* (cap. 10) refers about certain of the dead who, either in dreams or by whatever other way appeared to the living, and where their bodies lay unburied, indicating to the ignorant, — with those places pointed out, — admonished them that at last burial, which had been lacking, be *provided*.
+
+He denies however himself that *souls of the dead had been in dreams*, but the *image of the dead* is thought to appear in dreams and indicate something, — which those waking after find to be true, — but those very ones, whose are their bodies, know nothing of this at all, — and finally proves in cap. 15 that *souls of the dead were not concerned about the miseries of the living*: *where are the spirits of the dead*, — where they do not see whatever they act or happen in this life of men? *how then do they see their tumuli, or that their bodies unburied lie, or if buried, — how do they intermix themselves with the miseries of the living, — since either their own evils they suffer, if such merits they have contracted, — or in peace they rest, as to Josiah was promised, where evils neither by suffering nor by compassion they sustain, — freed from all evils, which by suffering compassionate — while here they lived — they endured*.
+
+*Luther* also gravely on this thing has taught (in *lib. Germanico De abusu Missae*, tom. 2 Jena, german. fol. 33): *since Christians we are, — let us believe henceforth all specters, which we see, or unfortunate men indeed are, that these are devils, — nor souls of the dead which therefore either the voice or habit of the dead simulate, — as if to be freed by us they can, — that from the most-divine Sacrament and Testament of God make sports, — faith they extinguish, and abominable market-days of masses, whereby these thousand years the whole Christian orb they have occupied, — they excite and confirm*. So he.
+
+Let us therefore indubitably believe that *souls of the dead in no wise return to us*, — and thus about our departed less solicitous, — and more prepared to resist the *sports of Satan* we shall be.
+
+**Casus II. Whether from apparitions of specters we can be informed either about human matters or about dogmas of the faith?**
+
+*Reply.* Specters either are apparitions of the very *demons themselves*, or images of *absent men*, or of men *not with us speaking* — with those who are the images unknowing: which according to *Augustine* are called specters, — which are not *true men*, but *certain phantasms deceiving-things*.
+
+**From demons no one anything should learn in whatever matter**, — since they are *most-fallacious spirits* — even when they speak truth, — from *lying they render themselves suspect*.
+
+From *nocturnal visions* some have learned some things pertaining to matters of this age: — but those *vision-things* were not properly *specters*, — but images of *men still living*, — but who elsewhere-in-places were acting, — of which they were speaking with the *sleepers*, — nothing at all they knew. Of which thing examples recites *Augustine* (lib. *De cura pro mort.*, cap. 11): *there is with us a man named Vincentius, whom we have known — because when-again about-that pleaded-with-a-certain-one, — his father's caution having-been-produced, — since to the son-not-knowing from the father already had been settled, — the man began gravely to be saddened, and to wonder how the father dying to him did not say what he owed, when he had made also a testament. Then to that anxious one appeared in sleep that same his father, and where also had been recorded that debt, indicated to the son. Which having been found by the young man and shown, — he not only put away the false calumny of debt, but even the paternal chirograph he received, — which the father had not received when the money was paid*.
+
+Here is *thought* the *soul of the man had been concerned for the son*, and to him had come while sleeping, — that it might teach what he was ignorant of, — and free him from great molestation.
+
+But *Augustine denies* it was either the *soul or body of the dead*, — but *similitude of the man* is thought to have appeared, — since also of the *dead men not knowing what they do, — not souls but similitudes can appear to sleepers*.
+
+Another example *Augustine* adduces from his own *experience*. *At Milan of us constituted*, says he: *Eulogius the Carthaginian rhetor, — who at Rome in that same art disciple to him had been, — just as to me himself, — after into Africa I returned, — recounted that when he was handing on to his disciples the Rhetoric books of Cicero, — with the lesson being reviewed, — which he had transmitted the day-before, — he found some obscure place. This not understood, he could scarcely sleep for anxiety: on which night in a dream I explained to him what he did not understand: — nay not I, but my image, — with me not knowing, and so far across the seas either doing something else, either sleeping, — with nothing at all of his concern to me being carrying-out. How these things happen I do not know, — but in whatever way they happen, — why not by that same mode we believe, — that in sleep another sees a dead-one, — how it happens that he sees the living one, — with both un-knowing, — neither caring, — either who, or where, or when, or their images someone dreams?* Thus *Augustine*. Who (cap. 12 of the same book) also adds a third example, — about a certain *Curma curial slave of a *Tullian estate* which is next to *Hippo*, — who lying gravely ill, among other things also saw himself *baptized* by *Augustine*, — which however had not happened. — Later even the thing itself he narrated to have been brought into paradise, and it was said to him, when thence he was being dismissed to his own: *go, be baptized, if thou wilt be in that place of the blessed*: — then, when *by Augustine* he was admonished to be baptized, he responded that already it had been done. To whom in turn that one who was speaking with him said: *go, be baptized truly, — for that was in vision*. Which having heard, he hastened to *Hippo*, and with the others by *Augustine* — of those things unaware — he received baptism.
+
+That *vision Augustine* believes to have been *angelic operations*, — through the dispensation of divine providence which uses both good and evil, — according to the inscrutable altitude of his judgments: — either that hence the minds of mortals be instructed, or beguiled, or consoled, or terrified, — as to each is either mercy to be applied, or vengeance to be inflicted, — from him whose *mercy and judgment the Church does not sing in vain*.
+
+These about *nocturnal visions*, which improperly are called *specters*. The *Pontificii*, since both they *believe souls of the dead return*, and *appear to men as specters* (although false), from one error weave another, — thinking that *dogmas of faith* can also be learned from those specters. *Petrus Thyraeus* (part 1 *De locis infestis*, cap. 5) writes: *the souls of men with the bodies do not perish, — but with bodies laid aside — live another life, — this they prove — by apparitions of the dead — which appear, — and by tumults and terrifications which in diverse places excite*.
+
+But since the apparitions of *souls after death of a man* are nothing except *sport of the demons*, as before we have shown, — nothing here can be proved.
+
+[See examples about the *soul of some soldiers* near *Thyraeus* (part 3 *De locis infestis*, c. 1 fol. 25).]
+
+*Gregory the Great* (if he himself is author of these *dialogues*) in *lib. 4 dial.* cap. 40, — from apparitions of souls proves *purgatory*. For he narrates the *soul of Deacon Paschasius*, after much time from death, appeared to *Germanus Bishop Capuanus* in the thermae Angulariae, — and when *Germanus* had seen *Paschasius* standing in the heats of the thermal baths, and *he asked what so great a man was doing there* — that one however responded, he was on that account *deputed to that penal place*, since in the schism of the Pontiffs on the side of *Laurence against Symmachum he had stood*, — added however: *I beseech thee, pray to the Lord for me: and in this thou shalt know that thou art heard, if returning hither, thou dost not find me*.
+
+Adds *Gregory* that *souls of the dead* constituted in the *penal place* are aided by *sacred communion*, and proves this (cap. 39) by the example of a certain *monk* after his death returning.
+
+All of which *Gregory* has from the relation of others, — and are so *fabulous* that already of old they had been suspected in the church, — since God in the word has expressly prohibited that we should seek from the dead (Isa 8:19; Deut 18:11); and the rich glutton (Luke 16), seeking information for his brothers through *Lazarus* the deceased, — is sent back to *Moses and the Prophets*.
+
+Whenever therefore we read in *Gregory*, in the *Lombardic history*, in the fictitious epistle of *Cyril of Jerusalem*, and in other writings of this genus, that *souls appeared, complained of their torments, and by suffrages of Masses sought liberation*, — so many times let us deplore the misery of former times, when men in matters of faith by *fables encompassed* believed *efficacious errors*, since the truth in the word shown they were unwilling to have faith.
+
+Let there be however always in our *ears the divine law: — let there not be found in thee, one that seeks the truth from the dead* (Deut 18:10–11). About which *B. Luther* prolixly writes (in *lib. De privatis Missis*, tom. 2 Jena, fol. 8): where among other things this he adds: *thus with confidence these three witnesses of Scripture let us oppose to the specters of the Papists: first Moses and Aaron, so that you may seek the truth from the ancient. Then Isaiah, more the testimony of God to consult than the dead. Third, Abraham and Christ, that they have Moses and the Prophets, let them hear them. Nor let us be moved by that great multitude of vigils, of masses, of processions, of temples and altars, — which all upon responses of specters have been founded. — Thou seest indeed all these things from lies of the devil, — from marvels of pseudo-Christs and pseudo-apostles* (of whom Christ predicted) *to have flowed forth, — that the whole world with horrible idolatry may be implicated, — which unto heaven cries, — and the most-recent judgment of God with wrath ineffable it accelerates*. Thus *Luther*.
+
+Without doubt some *Romanenses* had those apparitions of souls for *fables*, but since they fostered *purgatory*, — without which their *kitchens would have grown cold*, — they retained them, — and by other fallacies and deceits augmented, — of which genus is what *Erasmus* in his epistles refers of a certain *pastor*, who being about to persuade the people *of the return of souls*, — the *preceding night* secretly threw into the cemetery *live crabs*, to which sides *little burning candles* were attached. Which when they crawled among the tombs, — appeared at night a *terrible spectacle*, — nor did anyone dare to approach nearer. — With all astonished the day following the *pastor* began to persuade, — they were souls of the dead — begging their liberation from *purgatory through masses ecclesiastical*.
+
+This is that *efficacy of errors* which the *Apostle* predicted (2 Thess 2:11–12) — and which he brings among the *signs of Antichrist*, — on which name those *specter-infestations* meritoriously are suspect to us.
+
+**Casus III. What causes there are of *infestations of specters*, so that from causes recognized we may be more immune from their sport?**
+
+*Reply.* After it has now been established that all specters are *sports of demons*, — the work of value is to conjecture concerning the *causes of these infestations*: for from causes known and shunned we shall be more immune from those illusions.
+
+Many things however can be given for this thing as *causes* or *occasions*; I shall note only the chief:
+
+**1.** *Those specters love those places in which false religion and superstition flourish*, since they are the *cults* which the devil fosters with his shadows and specters. Whence — when in the greatest darkness of errors, the light of *truth* enlightens, — specters cease, since no further use of them is, — just as vice versa in the *Papacy* — where by specters is fostered *purgatory* — great is their number; in those places however where the *doctrine of the pure Gospel* sounds, they no longer thus tumultuate: for the devil is *ejected through the word*, — as also in the primitive Church was done: — in *Ephesus* the exorcists no longer could exercise their magical arts when *Christ* began to preach the Gospel (Luke 11:22); in *Samaria* fell that great virtue of *Simon Magus* when *Philip* there was announcing the Gospel (Acts 8); *Philippus*, when *Paul* taught, *spirit of Python* was cast out; wherever the word is lacking, it prevails over curious temptations, and *magical books* were burned (Acts 19).
+
+Thus in our fathers' memory *monasteries* — which had been *full of specters and phantasms of demons* — now that they have been *reformed by the doctrine of the Gospel*, — smaller is the copy of specters. He therefore who desires to be immune from *illusions of demons*, let him flee the *doctrines of demons*.
+
+**2.** *Specters love solitary places* and uninhabited, — as *castles, temples, mountains, forests*, where rarely are seen men. There indeed dwell *beasts and dragons* (Isa 13:22). And it is compact that those places, — as soon as they are inhabited by men, — are freed from specters.
+
+**3.** *Infested by specters are also intolerable and impatient of injuries*, — of which thing example refers *Alexander ab Alexandro* (lib. 5 *Genial. dier.*, cap. 18) about a certain adolescent, who in *depraved morals and incivilities with contempt of God* long lived, — against parents *contumelies and intolerable reproaches* he said, — by their execrations and imprecations he was excited — the demon in *dreadful and horrible species* appearing on the road, — with claw-hands infested, — as if about to seize him. Miserable he was, seeing someone with a pallium and mantle he seized-hold-of, — and asked, as much as he could, that he not suffer him to be seized, — and often the divine name invoked, — scarcely at last he threw off the *demon*, with which finally driven off, the youth received into the *house of that man*, always to the pallium or garments of the man clung, — with such an *invasion of the mind*, that he was not master of himself, — since to himself so-strongly the image was represented, — and before his eyes that species seemed to hover.
+
+Of *Nero* refers *Suetonius* that after he had killed his *mother Agrippina*, — everywhere pursuing spirits followed him: *nor*, says *Suetonius*, *could he bear the conscience of the crime — often confessing, — he was agitated by the specter of the mother, — and by whips and burning torches of the furies*.
+
+**4.** *Similar cruelty of specters* is experienced by those who on account of *tyranny and cruelty* which they have exercised on innocent — infamous became, — as of *Tiberius* refers *Suetonius*, that before his death in the *senate barbaric murmur was heard, and much in the theatre with great weeping and cachinnation was heard*, — when yet no one of men was there. And of *Caesar Caligula* the same *Suetonius* — that before he was buried, — the guards of the gardens *were disquieted by shady ghosts*, — but in the house where he had died, — no night without some terror was passed.
+
+**5.** *There are some places infested by specters on account of the ferocity of the inhabitants*, — as *Johan. Damascenus* refers (lib. 4, cap. 6) of a certain *Cyprus of Persia*, which — since it was on account of criminal-scandal — infested by demons — very much, — where the demon in the form of a *fierce bull* now sheep infested and fatigued, — now to shepherds of herds and cattle brought grievous molestations, — so that even some of them on account of molestations were compelled to change place. In many dwellings frequent are *commestations, harlotries*, and other unclean works: — what wonder is it, if in those the unclean spirit infests?
+
+**6.** *Not lacking are examples also, that places have been infested by specters, — on account of certain bodies unburied left*, — of which thing example refers *Plinius* (lib. 7, epist. 17) about an *Athenian house* — in which *dwelled a shadow* of vast form and emaciated, — with the rattling of chains by which he seemed to be bound, — replete. — Which without doubt was a diabolic specter, — which although after burial of the cadaver in the courtyard of the house was found, — was not however by night on account of the burial of a man made *solicitous*, — but sought to *confirm the superstition of men*.
+
+*Augustine* refers otherwise (in *De cura pro mort.*, cap. 10) of some *dead* — either in dreams, — or by any other way, appearing to the living, — and where their bodies lay unburied, ignorant of these — indicating to them, — to be admonished that a burial place — which was lacking, — might be provided.
+
+Examples of this thing recites *Thyraeus* (part 3 *De loc. infest.* cap. 8, 6; th. 10) and *Bozius* (in lib. 18 *De notis eccles.* c. 6) of *Ganidius Elias*, — for *St Stephen* the *protomartyr* and *Zacharias* to obtain more honorable burial, from the *presbyter Lucianus by dreams*, and of *Barnabas*, — who on this name three-times *molested Anthemius Salamis Bishop*, — of *Zacharias* the Prophet, — who *Salomeno*, — of *Thyrsus* who along with 40 martyrs the same solicited from *Pulcheria Augusta*, the sister of *Emperor Theodosius*.
+
+Of these examples and similar writes *Augustine*: *I believe to have been more of angelic operations, — whether they be permitted from above, or ordered, — that they may seem to say something about bodies to be buried in dreams, — since it is entirely unknown whose those bodies are, — being sometimes done, either for solace of the living to whom pertain those dead, — whose images appear to sleepers, — or that by these admonitions to the human race sepulture may be commended humanly, — which although to the defunct nothing profits, — yet if neglected by irreligious it is neglected*.
+
+These are the chief causes why specters tumultuate, — the consideration of which ought to excite us to *true piety* and to a *life chaste and honest*: — for no right has Satan over those who *live in true fear of God*, *confide in him*, and finally *do not obey the will and enticements of the devil*. *He who fears God, shall dread nothing, — nor be terrified, since God himself is his hope* (Sir 34:16).
+
+**Casus IV. In what modes can the soul of a pious man fortify and erect itself against illusions and turmoils of specters?**
+
+*Reply.* **First** of all let us look here to *God*, — without whose permission the devil not a hair can move against us. The *power of the devil* indeed is great, — but under God's omnipotence, — by which he is constrained and coerced, as an *indomitable horse* by *bit*.
+
+God permits however the devil to illude men with his wickedness, partly on account of the *impious*, partly on account of the *pious*.
+
+*Impious* mostly are *secure*, they do not fear the devil's power, — many even do not believe it. — To these very often it happens what in Ps 109:6 is written: *the devil shall stand at his right hand*: — for those who do not want to hear God and his ministers in the word, — to these Satan-masks God casts, — which they are compelled to see and hear unwilling.
+
+*Pious* by this reason are led to *consideration of the divine and angelic protection against Satan's stratagems*. Never indeed do we better understand how dear we are to God and to the holy angels, than when *evil angels* infest us, — and yet they cannot harm, — with the Lord *sustaining his hand*.
+
+By this *shield* therefore let us fortify ourselves, — that *specters have no right* against us, unless the Lord has permitted: — when however he permits, — our *piety* and *studium in praying* he exercises, and *strengths* he lavishes, that in this temptation we do not succumb.
+
+**Then** let us think that even *holy men* have experienced illusions of specters, — as chiefly the examples of *Gregory, Antony*, and *our Luther* testify: — nor however anything of their devotion or love with which God embraced them was diminished. If similar thing happens to us, let us not think of ourselves as a *sign of God's wrath*, — but that he in temptation wills to produce us into the arena and, as though it were a pact with the devil, — our faith and patience wills to prove: — nothing however are we better than *our fathers*, *Macarius* said.
+
+**Third**, let us *erect* ourselves by the *presence of God*, who through *faith dwells in the hearts of the pious* (Eph 3:17), — who is *stronger than all devils*, — and appeared in this, that he may *destroy the works of the devil* (1 John 3:8): — has already vanquished the devil, — and *crushed his head* through Christ (John 12:31): — can eject him also from the dwellings of the faithful, — himself is *in our midst*, and *at his right hand — we shall not be moved* (Ps 16:8).
+
+Just as therefore the *citizens of Antioch* in a great earthquake shouted to each other: *God is with us*: — so also in illusions of Satan let us mutually address ourselves: *Christ is with us*, *Immanuel*, *fiery walls around us*: *the Lord is my helper, — whom shall I fear?* (Isa 41:10).
+
+**Fourth**, let there accede *firm confidence in God the Father*, — who for the sake of his Son *our Lord Jesus Christ*, in whom we believe, — will not deliver us to Satan's power, but will protect us, so that *nothing may separate us from the charity of Christ* (Rom 8:39); — *in his hands he has signed us* (Isa 49:16); and if *camps stand against us, our heart shall not fear*. This is the *shield of faith*, of which *Paul* (Eph 6): *whereby we can extinguish all fiery darts of the wicked one*.
+
+**Fifth**, from faith let *ardent prayers* be, — that God may crush Satan under our feet: *much avails the prayer of the just* (Jas 5:16); and as *Macarius* says: *demons dread not so much strong mountains as the prayer of the strong*, — from which prayer *the assault of Satan is received and beaten back*.
+
+**Sixth**, with prayers let there be conjoined the *word*, which is *the sword of the Holy Spirit* (Eph 6): let us seize sayings of Scripture whereby the powers of the devil are *diminished and crushed*: *the seed of the woman shall crush the head of the serpent* (Gen 3:15). Of which saying a certain *metallurgist* drove off a *diabolic specter*: *for this the Son of God appeared, — that he might destroy the works of the devil* (1 John 3:8); *comes the prince of this world, — but in me he has nothing* (John 14:30); *good cheer, I have conquered the world* (John 16:33); and similar. For the *demon flees the Word of God*, through which daily his kingdom is destroyed. Hence *Luther* writes on Ps *Ecclesiaste*: *[German passage about specters flourishing where the Gospel is not preached and being driven off where God's word rules — encouraging the reader to have faith and hang firm on God's word, — since God's word will not fail him, and he shall have no doubt]*.
+
+**Seventh** let there be confidence in the *divine vocation*, which each has in his own place: for he who has *legitimate vocation* to some thing to be perfected, — even if the places be *infested*, and he must labor in the midst of demons — the place can be safe: since *God has given his angels charge over thee, to keep thee in all thy ways: in their hands they shall bear thee up, lest thou dash thy foot against a stone* (Ps 91:11–12).
+
+Great therefore is the solace in any adverses: *legitima vocatio*. Whence *Sirach* writes (10:17): *in adversities be strong of soul, and lean on thy vocation: who indeed can better rest, than he who confides in his vocation? — For legitimate vocation is always accompanied by divine protection*.
+
+Thus *Luther* drove off specters by his own vocation. *Sciat*, he said to the devil: *since God has willed me to be lord in this house: — if thou hast a better vocation, — then just stay: — but know, that thou art not the lord of these things: — but a better place is prepared for thee* etc.
+
+**Eighth** consoles us the *guardianship of holy angels*, wherewith the Most High has surrounded his own, — as it is written: *the angel of the Lord shall encamp round about them that fear him* (Ps 34:8). Which the histories of *Elisha* (2 Kgs 6), of the *three boys in the furnace of Babylon* (Dan 3), and of *Daniel in the den of lions* (Dan 6) testify.
+
+**Ninth** let us recall *remission of sins*, which we have impetrated for Christ's sake. To whom sins have been *remitted*, blessed are they, and in the grace of God, — in whom there is *nothing of condemnation* (Rom 8:1), — therefore neither the devil has any right in them: by which reason *B. Martin* drove off the devil, — when to him agonizing a *horrible specter stood by*, — manfully he addressed him: *what standest thou for, dreadful beast? thou hast no right in me*.
+
+It befits however **tenth** to accede a *truly penitent soul*, and *good conscience*, lest our sins accuse us. *For if our heart condemns us not, then we have access to God* (1 John 3:21): — then also with strengths against the devil we can fight and put him to flight. *Evil conscience* however makes timid (Wis 17); and where by the works of the devil consciences vigil, — there specters diabolical nocturnally willingly tumultuate.
+
+**Eleventh**, those who wish to be *immune from specters*, let them flee *solitary places*, and *melancholic sadness*: — for in *hermitages Satan dances*, — and *melancholic head is Satan's bath*, of which above we said many things (Casus 6, a little before).
+
+Let us shun therefore *sadness* as much as it can be done, — lest we notice *Satan*: who *interior of heart* cannot search out, — since *God alone knows the heart of the sons of men* (1 Kgs 8:39).
+
+**Twelfth**, let no one desire to see and hear *specters*, as *temerarious and petulant* some are wont: — to these easily obeys Satan, — but with great peril of themselves, — so that of that impious desire afterwards greatly they may repent.
+
+**Thirteenth**, let no one also *feign* a specter: for to God is *impious the leaping-with-things*, — which displeases, — and therefore either he permits the demon power over these temerarious men — or over other men, — that with fiducia against such simulated specters with armed hand opposing themselves they may cut throats.
+
+**Finally** let no one without *vocation* by *temerarious audacity* attack *Satanic specters*, which are not expugnated *without God*.
+
+*Athenodorus* the Philosopher inhabited *houses infested at Athens*, which no one wished to inhabit, and by his *magnanimity a specter he expelled*, as is near *Plinius* (lib. 7, epist. 27): — but not per any *severity of his own*, — but by *indicating to the magistrate the place*, where a specter — which he was following — had fallen: — which when *cleared out*, *bones* woven with chains implicated in earth were found: — with which after being buried, — the specter afterwards left the house.
+
+*Gregory* entered a certain *house infested*, and it by his prayers he *freed from the demon*, as is near *John Deacon* in the *Life of Gregory* (lib. 2, cap. 14).
+
+But *many are so audacious*, that with specters they either play, or with curses and execrations try to *eject them* — but with great damage to themselves. For the *devil* not by curses and blasphemies but by *prayers and word* and *pure conscience* is *forced* to yield.
+
+By these media of driving away specters some add *frequent invocation of the saints* and especially of the *proper angel* to whom each from birth is *committed*, whose office (they say) is *against powers of the underworld to be a mortals' presidio*, as speaks *Petrus Thyraeus* (part 3 *De loc. infest.*, cap. 40).
+
+But that neither *holy men nor angels are to be invoked*, we have taught above (lib. 3, cap. 1, Casus 2 and cap. 7).
+
+And it is still *uncertain* whether each has his *proper angel destined for his guardianship*. The pious have *whole camps of angels*, who protect them from demons; on that account therefore not by us are they to be invoked.
+
+God however is to be *asked*, that from the power of Satan and *terrors of specters* he render us immune. With these media therefore let us be content, which we have just indicated, — and thus by the benefit of the Most High, we shall be either from *specters utterly immune*, or certainly their apparition will be tolerable to us.
+
+**Casus V. Is it licit with piety to *adjure spirits appearing to identify themselves*, — what and of what kind they are, — what they wish, — and for what cause they are troublesome, if not to us who resist?**
+
+*Reply.* Much on this thing disputes *Thyraeus* (part 3, cap. 55): *whether specters can be adjured? By what formula of adjuration, — for whom it fits? — In what places and times he may be usable against spirits?* But there is no need of prolix disputation.
+
+For since from what precedes it is now compact that only *infernal spirits are* who *molest men in the form of specters*, — and just now we have heard by what arms for putting them to flight is need. For the *word of God and prayers, — just as they sanctify the good creatures of God, — so drive off the evil ones*, and their damages of us ward off.
+
+What pertains to *adjuration*, — it is nothing else than an *obligation of someone*, — as if by oath made, — to speak, — whether he shall have done something, — or wishes, — or he do or omit something.
+
+Such *adjuration* not all approve: for *Origen* (in cap. 15 Matt) writes: *he who wishes according to the Gospel to live, ought not to adjure another*. But many examples of this *adjuration* stand in Scripture. *Abraham* adjures his servant *Eliezer*, that from his kindred only he take a wife for his son *Isaac* (Gen 24:3). *Jacob* adjures *Joseph* not to bury him in Egypt (Gen 47:29). *Number Numbers* prescribes formula of adjuring a woman suspected of adultery to her husband (Num 5:19). *Saul* adjures the people with a *curse of imprecation*, if anyone that day should taste anything (1 Sam 14:24). *Caiaphas* adjures *Christ* (Matt 26:63). *Paul* the *Thessalonians* (1 Thess 5:27). Even *devils* he adjured *Jesus* not to torment him (Mark 5:7).
+
+Nowhere however is read in Scripture that *specters have been adjured by man*. This however we read, that when some had *adjured devils, — to go out from the possessed, — by the devils they were seized and put to flight* (Acts 19:13).
+
+*Ridiculous* also it is to *adjure them, that they betray, — what and who they are, — and what they wish*, — whether it be done *preceptorially* or *deprecatorily*, — as *Thyraeus* disputes: — whence indeed is it compact, — that the answer is *of the spirit of the pious deceased*, — and not of the *devil*, — who can *transform himself into an angel of light*?
+
+To the faithful all is without doubt, that *souls of the pious do not return to us*, — nay neither of the impious, — for they are in rest, these in the place of torments, — as above we have shown.
+
+*Malignant spirits* therefore are these illusions-specters, — whom we should *adjure and as if by oath oblige*, that to our beck they submit themselves, — it is not worth the effort.
+
+A pious man in the virtue of *Christ* can *impute to the devil*, that troublesome to us he cease to be, — which if it be done *in faith and with true invocation of the divine name*, — will not be without *fruit*. For *faith is the victory which overcomes the world* (1 John 5:4); — therefore also the *prince of this world*.
+
+Nor is there need of *prolix disputation with the devil* — why he comes, and why he is troublesome: — for we know already the *perpetual study of the devil to be, — to destroy men, — on account of which he is called *Satan*, that is, *adversary*.
+
+Otiose therefore is that whole disputation about *adjuration of spirits*, to which however the *Pontificii* much attribute: — nay even *pernicious* it is, — since to their *exorcisms and adjurations* they attribute *some magical force*, — as is compact from the *exorcisms* which near the *baptized and possessed* they adhibit, — from *Durandus* (lib. 6 *rationale div. offic.* cap. 6).
+
+**Casus VI. Whether specters can be put to flight by the *prayers of the ancients devised* — Purgatory-based, — through *masses, oblations of candles, alms, fasts, and pilgrimages*?**
+
+*Reply.* Various are the modes of the *Romanenses*, whereby specters — troublesome to men, whom they *from purgatory returning to be freed will* — however-in-whatever-way, — to expel they think possible.
+
+For which purpose *Thyraeus* (part 3 *De loc. infest.* cap. 63) recites *prayer for the deceased*, *sacrifice of the Mass*, *alms*, *fasting*, *restitution of what was stolen*, *pilgrimages undertaken for the sake of the dead*, *tears*, *offering of candles and oil*.
+
+For the three first he brings forth testimony of *Augustine* from *sermo de verbis Apostoli pro qua co Gregorii, pro quarto Erm-guito exlibr. 6 revelationum*, for the sixth he adduces no author, — *pilgrimages* only he commends: for the seventh — *rite in Vita Reggij Bishop of Rheims*, for the eighth — *B. Anthanasii*.
+
+By these modes he thinks both *men can be freed from the molestations of spirits*, and the very spirits from the *pains of purgatory* can be freed. Doubtful however is nothing about that *spirits sometimes let up*, — since to those *pious petitions* they have yielded.
+
+But all this *structure* [built] against the *apparitions and molestations of specters*, — by one *ram is destroyed*, — namely, that neither yet *has been proved*, nor forever *can be proved, — either purgatory itself, — or the return of souls from it, — or even that those souls to the living are molesting*.
+
+*Old-wives' fables these are*, which above from sacred Scripture we have refuted: — therefore whether even a thousand times you adhibit these *remedies*, — nothing against specters they profit. For only the *devil* it is, — who is troublesome to men with his shadows and specters, — who if to the *Papistic remedies tumultuating desists*, — does this for his own *lucre*, — that namely he may render men more *devoted in the superstition of their errors*. Willingly indeed he cedes, and *the senses of bodies* he ceases to afflict, — where the *soul on that occasion into a greater peril* he can cast.
+
+The *media themselves*, which for this thing are adhibited, greatly for the most part are not licit, — to the *deceased* moreover in no wise they profit.
+
+Of *prayers for the deceased* I have treated prolixly above (lib. 2, cap. 7, Casus 5), — where I have shown that they neither in the OT nor in the NT are used by the pious; — but from *gentiles* had taken their origin, — to imitation of whom some of the first Christians prayed for their dead friends, — but not that they might free them from *purgatory* (for they knew nothing of it), — but since they had *hope of the resurrection* of those whom in fixed sleep — in immobile hope, — not in cemeteries of purgatory to be, — they knew, as *Dionysius* speaks (De cael. hierarch. cap. 7).
+
+At the time of *Gregory Magnus* the opinion had accreted, that *souls of the dead in purgatory by prayers of the living could be aided*, — and yet many believed they were aided by those prayers not otherwise, — than that *they saw each other in torments* — a mutual thing, according to *Durandus* (lib. 4 sent. dist. 45).
+
+To *Masses in expelling specters* much they attribute — which *Thyraeus* (part 3, above) by many other modes vastly-longer prefers, — therefore in the *Council of Trent* (canon 6, session 22) under penalty of anathema is bidden to be *offered for the living and the dead*. In the *Dialogues* which are ascribed to *Gregory Magnus*, is referred that *a certain monk had died*, — and since 300 aureos in his own goods he possessed, — long in fire he had been tortured, — but when *thirty continuous days Mass for him was offered*, — he had appeared to his own brother, — and that today he had received communion, indicated, — thence to him now well he-signified.
+
+The *Romanenses* therefore believe *souls of the dead not only by Masses to be aided*, — but also *sacred communion to receive*.
+
+But not even are all *Romanenses* those who believe the *Mass to be a propitiatory sacrifice* offered for the living and dead. This indeed *Gropperus* denies (in *Antidipomate Coloniensi*), *Lombardus* (in *sent.* dist. 12), *Petavius* (in *libro Ing.* fol. 4 cap. 74), — all of whom teach the *Mass to be neither a propitiatory sacrifice*, — nor to be offered for the dead, — but only to admonish us of the unique sacrifice of Christ performed on the cross.
+
+And the *dogma of Mass to be offered for the dead* in itself is *sufficiently absurd and impious*, — since *absolution from sins* is here in life, — through *faithful application of the unique propitiatory sacrifice*, — which *Christ offered on the cross once with eternal redemption discovered to us* (Heb 9:12), — of which thing to say more in this place is not necessary.
+
+*Alms and fasts, restitution also of what was unjustly stolen* — no one of the pious is who does not commend, — but by these media *to abige specters, — souls from torments to free*, — is ridiculous.
+
+*To have care of the poor, to shun gluttony, to restitute what was taken away* — we must do, — while we live. For these are *exercises of faith*, whereby others we can profit, and our *faith prove in this life*, — but to be willing to serve the *dead*, and to *free souls from torments*, — in vain it is attempted.
+
+Therefore *Gregory* (or whoever is the author of that book, lib. 4 dial. cap. 58) thinks the *safer way* is: *let the good, which anyone hopes to be done for him after his death by others, do himself while he lives — through himself*.
+
+Meanwhile *it is true*, that men *immerciful, intemperate, unjust and rapacious* are more oppressed by diabolic *molestations* than others, — from which if anyone *through liberality to the poor, through temperance and justice, — while he lives, — free himself would study*, — we do not oppose it, — that this can be *impetrated from God*.
+
+*Peregrination to the places of saints* is *utterly superstitious, useless and supervacaneous*. — If then for the relics of saints they are instituted, uncertain it is whether *the relics are of those saints* whose names they bear, — since very often the same relics are shown elsewhere.
+
+If for the *sake of prayers* it be done, prayers *in every place can be done*, as teaches the Apostle *Paul* (1 Tim 2:8): *I will that men pray in every place*. Therefore *Bernard* (ep. 322) persuaded a certain monk *of Jerusalemite pilgrimage*, adding this reason: *not the terrestrial, but the celestial Jerusalem to inquire is the proposition of monks, — and this not by feet by moving-onward, — but by heart-affections proficient*.
+
+*Tears* moreover are needed, not to *expel specters*, but to *deplore the blindness of men*, — who in that light of the Gospel by *illusions of the devil, — under pretext of souls returning from purgatory, — they suffer themselves to be led about*.
+
+*Candles* also with *oil poured* on the dead lit, taste greatly of *superstition and folly*; useless are here the expenses. The dead indeed do not care about *candles*, which *ethnic superstition* lit; for of them *Juvenal* writes:
+
+*Therefore supervacuous things or pernicious are sought,
+For which cause it is proper to wax over the knees of gods.*
+
+And with one word for all to say — *these all media of expelling molestations of tumultuating spirits depend on purgatory*, — for the stabilizing of which *nugae* these have been *excogitated*.
+
+And although *many examples of appearing spirits are alleged*, who *by these media perhibited to be freed from purgatory*, — yet how much to those narrations to attribute, — the pious *by God's benefit are not ignorant*.
+
+*It is of a vecordious soul* to be *delighted* by those fables which pertain to *thoughts*, not to *suggestion*, — even if even great men on account of the *superstition of their age* — have been deceived by them.
+
+Who is *certain from the word of God* that *purgatory* is a *figment of men*, and *souls of the dead not at all return to us*, — he neither on *specters of these good spirits* (as they call them), — nor on *media of putting them to flight* — anything much *attributes*, — but on *legitimate media* — which we in the preceding Casus have shown, — solely relies.
+
+**Casus VII. Whether *relics of saints* can be of some avail for *putting to flight diabolic specters*?**
+
+*Reply.* Much in this genus *Thyraeus* attributes to *relics of saints*, — to whose mere presence — *specters of cacodemons are put to flight*, as writes (part 3 *De loc. infest.* cap. 67); and confirms this by the testimony of *Chrysostom*, *Hieronymus*, *Theodoret*, the *Magdeburgian Centuries* (cent. 4, cap. 6), and by some examples transcribed from *Baronius*.
+
+Common also is the doctrine of the *Romanenses*, — that *relics of saints* — whether *whole bodies, or members, or garments, or dusts* — expel *cacodemons*: — therefore with great study they are *sought*, in *precious cases* are enclosed, and as if endowed with *divine virtue* religiously they are cultivated.
+
+But for this his opinion he has neither *examples nor precepts* in sacred letters, — which alone supply *arms against the devil and his specters*.
+
+*Saints*, beside *honest sepulture*, sought no honor after their death; and if ever in the sacred is read that *bones or ashes of some were exhumed*, and elsewhere translated, — this in no wise happened to *saints*, — but to *impious ones*, on account of some *political cause*, — as of the *bones of Saul* it is read, that when the citizens of *Jabesh Gilead* had *buried them in the wood*, *David* afterwards had them *transported to Benjamin*, and *transferred to the paternal sepulcher of Saul* (2 Sam 21). And of *Josiah* it is read, — that when he destroyed the *sepulchers in the high place of Jeroboam*, he *dug up bones from tombs and burned them on the altar*: when however he understood that *near that place was the sepulcher of the man of God and Prophet*, — he ordered *Josiah*: *let his bones alone in his place, let no one move his bones* (2 Kgs 23).
+
+This therefore is a *penalty of the impious*, — from scripture-sayings dictated: *the impious of the whole earth are cast out of their sepulchers* (Jer 8:1); — of which it is written that they have *habitation in the tomb of the earth*, and that *a little short time they are hidden*, until his indignation *passes* (Isa 26).
+
+Much less is it read in the sacred, — that any one of men had adhibited *bones or dusts of the dead* for putting to flight *specters*, — I say nothing of what is *uncertain*, — whether the relics which are adhibited, — be of those saints whose names they bear.
+
+Nay *Augustine* of old complained (in *De opere monach.*, cap. 22) — of monks *selling limbs of martyrs* everywhere, — *if however of martyrs*: — and books are extant, whereby is shown that from the sacred *Pontifices* some are shown to be *tri-corporeal, others tri-cipite, others by some other reason monstrous*. How therefore from that *uncertainty a certain, — and indeed such an insigne, — effect can be gathered*?
+
+*To be honored are the bones and ashes of saints*, — not to be projected in the manner of stercora, — but by *honest sepulture* to be dispatched; — but no more anything of *presidio* against the devil is to be expected from them.
+
+This custom was used with certain *gentiles*, — but by the *most-ancient Fathers, Justin*, *Tertullian*, *Arnobius*, and *Lactantius* *disapproved*.
+
+The *later Fathers* in commending *relics* very often exceeded *modum*: *Hieronymus* by his own judgment establishes (against *Vigilantius*) — *dusts of martyrs of corpora — should be worshiped*. But he confesses: *nemine tamen fidelium eorum opera adhibens*.
+
+**(1)** Since it has the *species of collusion* with those in the *religion of the Papists* (from which pious ought to be alien) — since *there is no society of light to darkness, nor concord of Christ with Belial* (2 Cor 6:15), — nay even to *abstain from every appearance of evil we are bidden* (1 Thess 5:22).
+
+**(2)** Since very often the most-wicked *nebulones* use those arts. — They teach indeed *Romanenses*, — it makes no difference, whether *exorcists* have *pure conscience*, or whether *in sins they are constituted*, — since *ecclesiastical exorcisms are valid in-and-of-operation*, as *Institoris* has (part 1 *De daemonum culti*, cap. 5), and *Lorichius* (in *Thesauro theol.*, voce *daemones*, num. 52).
+
+How however *impurity of conscience* can stand with *invocation of the divine name*, which for *adjuring the demon* they establish, I do not see. Certainly *God our scrutator of hearts is Spirit and Truth* (John 4:24). The Apostle *Paul* in praying to lift up *pure hands* bids us (1 Tim 2:8).
+
+**(3)** *They use media of the impious* — since through their *organs they use*, — by that very fact approve, — and thus of their *impiety* they *participate*. For over the possessed *saints they invoke*, — the *Mass* also sometimes they perform, — and in *multiloquy far indeed of their nostril's singular force of the exorcism* they place: — which all *impious* and against Scripture, no one of the pious doubts.
+
+**(4)** *They use media of superstition* — they adhibit *relics of saints*, — with *holy water they sprinkle the possessed*, — *host consecrated, candle blessed, and other things blessed* (as they call), — that is, *exorcised — with oil* — and *from the-hand of the possessed apply*, — to which thing they are persuaded to be *singular-force for expelling the devil*, — which all *superstitious* (and *magna ex parte impia*) with all right-thinking is in agreement. — For what would Satan care of those chants, — who not even the *majesty of Christ* he dreaded, — whom with *divine voice-benediction and testimony-of-heaven* being accepted, — as if with a most-present *amulet* fortified, — nonetheless with his *temptations* he attacked in the desert.
+
+**(5)** *They abhor also from sacred Scriptures*. For in the *Malleus Maleficarum* it is prescribed — that the *exorcist*, if he knows how to *read Scripture* (therefore not all *exorcists* can read the Psalms — and yet they are *ecclesiastical persons*), let him read the *Gospels of the four first Evangelists*, — item the Gospel *of the angel*, and *the Passion of the Lord*, — which all have great virtue for the expulsion of demons *of the devil*. Item the *Gospel of St John — in principio erat verbum*, — is transcribed, and to the neck suspended. — This truly is with the *words and letters* of *pigs*, though not-unlearned, to attribute great efficacy, — which in the thing absurd is, and against the end of *sacred Scriptures*, which diligently *read, and rightly understood, are*, — not for *exorcising*, but for *consoling, comforting, admonishing*: which beyond these ends of Scripture otherwise communicates, — he *impiously abuses divine words*, — to which impiety no one of the pious ought to consent.
+
+Therefore even if great miracles are done at those relics, on that account they are not to be adhibited for *putting to flight specters*, — for even through *Peter's shadow* the possessed and the sick were healed (Acts 5:15), but yet with those things no one drove off specters.
+
+Nor is it always compact whether those *miracles are from God, or from the Devil*: since even *the devil, with God permitting, can produce miracles for confirming his idolatry*. Therefore *Augustine* (lib. 22 *De civ. Dei*, cap. 8) not so much attributes to such *miracles* as to those of *Christ and the Apostles*: *marvellous notice and commendable authority*, he says, *without doubt or difficulty are believed: — although Christ true and faithful are said*.
+
+*Truest* also we think that of *Abbot Trithemius* (lib. 8, *quaest. ad Maximilianum*, quaest. 7): *where truth is not cultivated, if some miracles happen, — not God, but the devil operates. For God, since he is truth, does not institute false religions, — and therefore his own miracles with lies never illustrates*.
+
+Since therefore the *flight of specters from relics is a consequence of the doctrine of Antichrist*, — from God remitted to be we do not first believe, — until the *doctrine of Antichrist* or *Papist* by God to be firmly *proved to be* — shall be.
+
+Whence at last it follows, that those who *diabolic specters by relics of saints wish to expel*, — of the false doctrine are either *patrons or approvers*, though *ignorant*.
+
+**Casus VIII. Whether perhaps for *putting to flight specters* the *sign of the cross* has some moment?**
+
+*Reply.* The ancients were wont, both in *sacred solemnities* and in daily fights against evil spirits, with their fingers to form in the air the *figure crosswise as if with the sign of the cross they signed themselves*, even when by *specters* they were troubled: — as *Gregory of Nyssa* writes (in *Vita Gregorii Neocaesariensis*) about his deacon, who from *infested baths alone came out unharmed*, *fortified with the sign of the cross*, — whence still is in the mouth of all the *proverb*: *the devil flees the cross*.
+
+But they used this *sign* not as if in itself it had *efficacy for expelling Satan*, — but as a *free and pious ceremony*, — which added to prayer *lifted the souls of the faithful to the cross of Christ*, — and *showed confidence in him*.
+
+Which *confidence and prayers* directed to *Christ* put demons to flight, — even if that *external symbol of faith-profession did not accede*. And in that *sense the faithful can fortify themselves with the sign of the cross against the infernal enemy* without *superstition*.
+
+In which sentence *Paulinus the poet* elegantly writes (in *Natali octavo of Felix*):
+
+*We with the invincible sign of the cross, and with the confession fortified,
+Armed and with God-mind, — not we seek arms elsewhere,
+Of body, — although members we might seem unarmed:
+Spiritual arms we bear, whereby in-peace serene,
+Against incorporeal enemies of the soul we contend.*
+
+The *sign of the cross* therefore is a *confession of our faith*, and *admonition of the cross of Christ*, — through which the *kingdom and works of the devil are destroyed*. The *cross itself* however does not put the devil to flight, — but *by prayers* Christ imparts to it that force: — *this kind of demons goes not out, unless by prayers and fasting* (Matt 17:21). — Far otherwise here it is taught in the *Papacy*, where they constitute a *duplex crux*: — one they call *transient*, which is formed in the air with fingers; — the other *permanent and constant*, which is either painted on a plane, or in solid matter is *fashioned*. To both they attribute *efficacy*: — that even the very *specters* of *cross drive off*, — the *transient does this*, they say, — as *object and efficient cause*: — the *permanent only as object*, — since it not-known to demons could be. — Through the *transient cross greater force is said to be inflicted on the devil*, — since to the *hatred* by which the specters flee the cross, — is added *empire*, — *in and with the virtue of the cross*, — *dissoluble of imperantium and of yielding of them-selves compelling*: — and thus with the cross here even *men act into demons* — as this thing *Thyraeus philosophates* (part 3 *De loc. infest.* cap. 65).
+
+This is what of *superstition in this genus* we say: — not the *very signature of the cross*, — which anyone freely can use, — and at the same time of the *cross of Christ, through which the devil has been vanquished*, may recall: — but since to it *efficient cause, force, and virtue of compelling demons — whether in the air formed, or in some solid painted, or fashioned — they attribute to the cross*, — which to those *ancient doctors of the Church* — to come into mind — we minimally believe.
+
+The *devil* certainly does not fear *wood or stone*, in whatever figure object; — otherwise all who *just so with the cross sign themselves*, or the *image of the cross about the neck bear*, — from all *illusions of demons* would be *immediately immune*, — otherwise however to others *their souls compared were*, — which experience — which is the mistress of fools — sufficiently and more than testifies.
+
+*The same things* we wish to say of *other consecrated things and exorcisms*, — whereby both *infested houses*, — and *men themselves* — from *molestations of specters can be freed* the *Romanenses* think: — these are inventions of *men*, nurtured by *superstition*, and confirmed by the *authority of papal decretals*.
+
+To the pious it is certain and explored, — that *the devil these nugae does not care*: sufficient are *prayers and word, with true study of piety*: — these are the *spiritual arms of our militia*, whereby whoever uses, — will fear the *illusions diabolic little*.
+
+Here also to note about the *actions of men concerning good and evil spirits*, and their *ministers*, it has pleased: — *and thus of the third book of our tractate the end we impose*.
+
+*To God immortal, creator of all spirits, we commend our souls, bodies, and fortunes; that all these things through the guardianship of the holy angels he may keep, and from the power of malignant spirits immune he may present, — devoutly we pray.*
+
+***AMEN.***
+
 — ❦ —
 
 ```{=openxml}
@@ -6900,4 +7261,20 @@ Rightly *Augustine* called *lot a thing which in human doubt divine reveals will
 
 *De actionibus hominum circa res humanas — On the actions of men toward human affairs (body, soul, fortune, vocation).*
 
-*[T18–T25 — to be translated from OCR lines 47120–69119, physical pp. 741–1109.]*
+## Continuation
+
+*Considered in dignity precede spirits the man, on account of simplicity of essence and subtlety of operation. Therefore first on the conversation with spirits and their ministers must be acted, which so far in the third book by God's benefit we have done.*
+
+*Now to the consideration of actions concerning human affairs we descend: where many things occur, in which the mind of a man must be informed, lest anything against conscience he do.*
+
+*Four things however are chiefly to be considered in a man: (1) body, (2) soul, (3) goods of fortune, (4) status of him and condition in whatever life-genus.*
+
+*Some indeed give themselves to ecclesiastical life, others are placed in politics, others in economics.*
+
+*In each are many things which for confirming the conscience require accurate consideration.*
+
+*But since about these things most of the theologians' counsels treat, and whole volumes are extant in which they are communicated to posterity, — we in these will not be much prolix, but the chief and not-anywhere-obvious we shall propose according to our little institute.*
+
+*Which may happily be done, — God the creator of men and governor of all human affairs devoutly, gratefully we venerate. AMEN.*
+
+*[T23–T29 — Liber IV chapters to follow: body-care, soul-care, wealth-and-fortunes, vocations (ecclesiastical/political/economic), marriage, education, neighbor-relations, and closing doxology at OCR ln 69119 / phys p. 1109.]*
