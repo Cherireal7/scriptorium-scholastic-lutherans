@@ -1,6 +1,6 @@
 # Handoff — Balduin, *Tractatus Posthumus de Casibus Conscientiae* (Wittenberg, 1628)
 
-**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T30 are done — Liber I is COMPLETE, Liber II is COMPLETE, Liber III is COMPLETE, and Liber IV Cap. I–IX are COMPLETE (~88% of volume body).** The next tranche is T31 (Liber IV Cap. X *De clavium usu* through end; ~130 pp remaining, ~1-2 tranches to volume-close). T2–T30 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter. Everything needed to pick up at T31 is here or in the paths named here.
+**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T31 are done — Liber I is COMPLETE, Liber II is COMPLETE, Liber III is COMPLETE, and Liber IV Cap. I–XI are COMPLETE (~90% of volume body).** The next tranche is T32 (Liber IV Cap. XII *De magistratu politico* through end; ~118 pp remaining, ~1 tranche to close volume body). T2–T31 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter. Everything needed to pick up at T32 is here or in the paths named here.
 
 ## What this project is
 
@@ -25,21 +25,23 @@ Translating **Friedrich Balduin** (1575–1627) · ***Tractatus Luculentus, Post
 | Liber IV Cap. VII | *De officio concionatorum* (preachers' office, 6 Casus) | ✅ T29 |
 | Liber IV Cap. VIII | *De administratione baptismi* (baptism, 10 Casus) | ✅ T30 |
 | Liber IV Cap. IX | *De administratione coenae Dominicae* (Lord's Supper, 8 Casus) | ✅ T30 |
-| Liber IV Cap. X–end | Keys/absolution, magistrate, subjects, marriage, family, death | ⏳ T31 |
+| Liber IV Cap. X | *De clavium usu ecclesiae* (keys/absolution/confession/discipline, 11 Casus) | ✅ T31 |
+| Liber IV Cap. XI | *De decorum ac ordinem in ecclesia* (rites/ceremonies, 5 Casus) | ✅ T31 |
+| Liber IV Cap. XII–end | Political magistrate, subjects, marriage, family, death | ⏳ T32 |
 
-**~130 physical pages remain / ~1-2 tranches to volume close. Overall progress: ~88%.**
+**~118 physical pages remain / ~1 tranche to close volume body. Overall progress: ~90%.**
 
-## Immediate resume point (T31)
+## Immediate resume point (T32)
 
-Open OCR at **`sources-original/balduin-casibus-1628.txt`** line **61058** (physical page 979). The `CAPUT X.` header starts Cap. X *De casibus conscientiae circa usum clavium* (use of the keys — binding + loosing = absolution + confession + discipline). Cap. XI (subjects/subditis) appears at ln 62506 (physical p. 995); Cap. XII (spouses) at ln 63188; Cap. XV (children/parents/servants) at ln 65070; Cap. XVI (death/burial) at ln 67595. Body ends ~ln 69119 with AMEN doxology.
+Open OCR at **`sources-original/balduin-casibus-1628.txt`** line **63188** (physical page 1010). The `CAPUT XII` header (OCR corruption: appears as `CAPUT xrt`) starts Cap. XII *De casibus conscientiae circa Magistratum politicum* (political magistrate). Cap. XV (children/parents/servants) at ln 65070 (Cap. XIII-XIV are skipped in original book); Cap. XVI (death/burial) at ln 67595. Body ends ~ln 69119 with AMEN doxology.
 
-**Note on chapter numbering**: original book skips from Cap. XII to Cap. XV (Cap. XIII-XIV do not exist or are unlabeled), and skips Cap. XI in some places — verify by content, not by header numbers.
+**Note on chapter numbering**: original book skips from Cap. XII to Cap. XV (Cap. XIII-XIV do not exist). Also verify by content whether spouses/marriage chapter is embedded within Cap. XII or Cap. XV.
 
-**Preamble to note (Cap. X):** Keys of Church = power which Lord conceded to his ministers in Church for blessing + cursing men (Deut 30:19 proposing life/death/blessing/curse); two contrary effects of ministry (benediction + malediction); two-fold keys — one *of loosing* (Matt 16:19), other *of binding* (Matt 18:18) — committed not only to Apostles but to whole Church, exercised through ministers of the word.
+**Preamble to note (Cap. XII):** *Second hierarchy* concerns *political magistrate*, who agrees with the ministry in many things but is distinct in office. Cases likely include: divine institution of magistrate, forms of government, election, oaths, taxation, war-just-and-unjust, capital punishment, treatment of subjects.
 
 ## Remaining tranche plan
 
-- **T31** — Cap. X *De clavium usu* + Cap. XI *De subditis* + Cap. XII *De officio conjugum* + Cap. XV *De liberis+parentibus+servis* + Cap. XVI closing death chapter (ln 61058–69119, ~130 pp — LARGE; may split into T31a + T31b if unwieldy; consider T31a = Cap. X + XI ~35pp, T31b = Cap. XII + XV + XVI ~95pp)
+- **T32** — Cap. XII *De magistratu politico* + Cap. XV *De liberis+parentibus+servis* + Cap. XVI closing death chapter (ln 63188–69119, ~118 pp — LARGE final tranche closing volume body; may split into T32a + T32b if unwieldy)
 
 Chapter titles in remaining book (approximate, from running headers + content):
 - Cap. VI — Ordination of ministers (ln 57534)
@@ -55,7 +57,7 @@ Book ends at ~ln 69119 with **AMEN body-doxology** on physical p. 1109. Back mat
 ## Where the files are
 
 - **OCR source**: `sources-original/balduin-casibus-1628.txt` (75,390 lines from PyMuPDF extraction; use `sources-original/extract.py` to re-extract if ever needed).
-- **Translation MD** (append here): `review/balduin-casibus-conscientiae-1628.md` — currently ~T30 in length (~11,700 lines). Append T31 by replacing the *[T30 pickup / VOLUME REMAINING]* placeholder block at the end.
+- **Translation MD** (append here): `review/balduin-casibus-conscientiae-1628.md` — currently ~T31 in length (~13,600 lines). Append T32 by replacing the *[T31a pickup / VOLUME REMAINING]* placeholder block at the end.
 - **Build machinery** (for Stage 5): `build-shareable.ps1`, `update-fields.py`, `reference-balduin-casibus.docx` — Kirchner-precedent pipeline.
 - **Notes**: `notes.md` (source-plan, tranche-plan, structural map).
 
@@ -94,13 +96,13 @@ This book has **multiple re-set signature reprints**. Confirmed duplicates so fa
 
 ## First actions in new chat
 
-1. Read the memory `reference-balduin-casibus-handoff-2026-09-18.md` for full T2–T30 context.
-2. Read the last ~50 lines of `review/balduin-casibus-conscientiae-1628.md` to see the T30 close + T31 placeholder block.
-3. Read OCR `sources-original/balduin-casibus-1628.txt` ln 61058 onward to identify Cap. X-XVI Casus boundaries (whole rest of body).
-4. Draft T31 (Cap. X through XVI, ~130 pp) — may split into T31a + T31b if unwieldy — replace T31 placeholder, commit with terse message.
-5. Update handoff memory `reference-balduin-casibus-handoff-2026-09-18.md` with T31 summary. If T31 closes body: mark VOLUME BODY COMPLETE and move to Stage 4 (KJV audit pass) + Stage 5 (Reedsy build).
+1. Read the memory `reference-balduin-casibus-handoff-2026-09-18.md` for full T2–T31 context.
+2. Read the last ~50 lines of `review/balduin-casibus-conscientiae-1628.md` to see the T31 close + T32 placeholder block.
+3. Read OCR `sources-original/balduin-casibus-1628.txt` ln 63188 onward to identify Cap. XII-XVI Casus boundaries (whole rest of body).
+4. Draft T32 (Cap. XII through XVI, ~118 pp) — may split into T32a + T32b if unwieldy — replace T32 placeholder, commit with terse message.
+5. Update handoff memory `reference-balduin-casibus-handoff-2026-09-18.md` with T32 summary. If T32 closes body: mark VOLUME BODY COMPLETE and move to Stage 4 (KJV audit pass) + Stage 5 (Reedsy build).
 
-**Volume estimate to close:** 1-2 more tranches (T31 alone or T31a+T31b) then Stage 4 (KJV audit pass) + Stage 5 (Reedsy build). Follow **Symbolorum 1577** (most recent close) and **Methodica 1595** (canonical build pipeline) as closest precedents.
+**Volume estimate to close:** 1 more tranche (T32 alone or T32a+T32b) then Stage 4 (KJV audit pass) + Stage 5 (Reedsy build). Follow **Symbolorum 1577** (most recent close) and **Methodica 1595** (canonical build pipeline) as closest precedents.
 
 ## Source metadata
 
