@@ -1,6 +1,12 @@
 # Handoff — Balduin, *Tractatus Posthumus de Casibus Conscientiae* (Wittenberg, 1628)
 
-**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T33 are done — VOLUME BODY COMPLETE ✅.** All 4 books (Liber I–IV) are fully translated, ending with the AMEN doxology at physical p. 1109. Back matter (Scripture/Fathers/Rerum indices pp. 1110–1189) is deferred per plan. The next tranche is **Stage 4** (KJV audit pass) + **Stage 5** (Reedsy build).
+**VOLUME CLOSED 2026-09-21.** All stages complete:
+
+- ✅ **Stages 1+2** — source ID + OCR extraction
+- ✅ **Stage 3** (T1–T33) — translation of the entire body (Liber I–IV), ending with the AMEN doxology at physical p. 1109
+- ✅ **Stage 4** — KJV Scripture pass (415 verse citations conformed; commit `6b0c8b1`)
+- ✅ **Stage 5** — Reedsy-inspired PDF build (1074 pages including back-matter)
+- ✅ **Back-matter indices** — Scripture + Fathers/Councils/Cited-Authors regenerated from the finished MD (~1800 entries; commit `bdf01e8`). Rerum (subject) index omitted per Kirchner-1595 precedent.
 
 T2–T33 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter tranche.
 
@@ -40,25 +46,12 @@ Translating **Friedrich Balduin** (1575–1627) · ***Tractatus Luculentus, Post
 - **Build machinery** (for Stage 5): `build-shareable.ps1`, `update-fields.py`, `reference-balduin-casibus.docx` — Kirchner-precedent pipeline.
 - **Notes**: `notes.md` (source-plan, tranche-plan, structural map).
 
-## Next steps
+## Follow-ups (optional polish, low priority)
 
-### Stage 4 — KJV audit pass
-
-Following the **Kirchner Methodica 1595** precedent, do a batch pass replacing inline Scripture translations (currently a mix of direct-from-Latin and various English translations) with **KJV (1611/1769)** wording where verse identity is unambiguous. This ensures the volume matches the house style established by Kirchner and Symbolorum-1577 forerunners.
-
-- Scope: full body of `review/balduin-casibus-conscientiae-1628.md`.
-- Cite-preservation: keep parenthetical (Book chapter:verse) citations exactly.
-- Deviation policy: if Balduin's Latin quotation deviates from KJV (unusual gloss, different rendering, or theological point), preserve the deviation with a footnote or bracketed note.
-
-### Stage 5 — Reedsy build
-
-Follow the **Kirchner Methodica 1595** and **Symbolorum 1577** precedents:
-
-1. Front matter — cover, title, copyright, TOC. English-only H1 titles with Latin sub-caption. No running header on cover/title/copyright pages.
-2. Body — Reedsy-inspired house format (trim 6×9″, standard margins, Georgia/Cormorant Garamond serif, Fira Sans headings). Drop caps at each Casus. Chapter openings on recto (page-break tags already in the MD).
-3. Back matter — could be built from the finished English MD (regenerable Scripture/Fathers/subject indices) — but per plan, this is optional and deferred.
-
-Build pipeline: `build-shareable.ps1` calls Pandoc on the MD → DOCX using `reference-balduin-casibus.docx` as template, then `update-fields.py` inserts TOC/updates page numbers. Output goes to a `build/` subdirectory.
+- **Fragment-scripture review** — 897 short italic quotes were preserved as-is (< 50% of full KJV verse — Balduin's paraphrase-heavy casuistry style). Could be spot-reviewed if fuller quotes are wanted.
+- **Rerum (subject) index** — not generated. Would require manual curation to be useful. Kirchner-1595 also omitted this.
+- **Index cross-reference sanity** — the Fathers index is regex-based over a curated list; a handful of common-word names (e.g., "Clement", "Titus") may over-match if the token also appears as a proper noun elsewhere. Skim if bothered.
+- **Cover font** — IM Fell English is referenced by name in the title pages; if not installed on the build machine, Word/LibreOffice silently substitutes a default serif. Install from https://fonts.google.com/specimen/IM+Fell+English for the intended look.
 
 ## OCR anomalies (for future reference)
 
