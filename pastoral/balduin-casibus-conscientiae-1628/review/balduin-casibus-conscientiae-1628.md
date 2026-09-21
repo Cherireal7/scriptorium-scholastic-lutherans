@@ -10943,17 +10943,23 @@ If for an ox this is thus, how much more for a servant — whom the master can, 
 
 But if the servants have sinned *unknown to, or unwilling to, the master*, then no one is answerable for another — each answers for his own. Yet the master must in this case likewise not neglect the household-discipline required, — for if his negligence provided the occasion of the sin, he too is not wholly free from guilt.
 
-### Casus IV. Whether master owes servant his wage
+### Casus IV. Whether the master owes wages to the servant
 
-*Reply.* Beyond controversy, master must pay servant his wage. As Paul admonishes: *thou shalt not defraud the reward of thy hireling* (Matt 10:10). And the *worker is worthy of his hire* (Luke 10:7).
+*Reply.* Beyond controversy, the master must pay the servant his wage. As Paul admonishes (Matt 10:10, Luke 10:7): *the labourer is worthy of his hire*. And the Lord in the law (Lev 19:13): *the wages of him that is hired shall not abide with thee all night until the morning*. And James (5:4): *behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of Sabaoth*.
 
-Yet some do not owe wages:
-1. Those who from mere goodwill submit themselves to that servitude.
-2. Sacerdotes who are placed under vows.
-3. Those who supererogate work on other things not needy — as, if they graft themselves onto a servant's ministry — beyond food and clothing nothing is owed.
-4. Those who in the houses of princes are honestly educated and instructed — where education and instruction are wage-equivalent.
+Yet **some do not owe wages**, or only limited wages:
 
-If, however, servant was hired at fixed price for fixed time, and in the interim for some months ails, nothing is to be withdrawn from wage: since the sicknesses are matters of chance, and through no fault of his — so long as through the servant it does not stand that duties in whole time were not performed, all the time contracted must be paid.
+**(1)** Those who from mere goodwill (*ex mera benevolentia*) submit themselves to that servitude — subjecting themselves not with hope of any wage, but merely from love or piety — as those who out of veneration attach themselves to the household of an eminent person.
+
+**(2)** *Sacerdotes* who are placed under vows: for their service is offered to God as a gratuitous work of piety, and no wage in the strict sense is due.
+
+**(3)** Those who supererogate — that is, take on duties that are not needful, grafting themselves on to a servant's ministry: to these beyond food and clothing nothing is owed.
+
+**(4)** Those who in the houses of princes are honestly educated and instructed: where the education and instruction serve *loco stipendii* (in place of wages). — Such is the case of squires and young nobles in service at courts.
+
+**If, however, a servant was hired at a fixed price for a fixed time**, and in the interim for some months he falls ill, nothing is to be withdrawn from his wage: for illnesses are matters of chance, and occur through no fault of his — so long as through the servant it does not stand that the duties in the whole time were not performed. All the contracted time must be paid.
+
+**Contrariwise**, if the servant should of his own will abandon the master before the term of service is up, without just cause, he loses the wage for the time not served; and if from his negligence some damage has come to the master's estate, he is bound to compensate it from his wages, unless the master by his charity remit.
 
 ### Casus V. What master a Christian master owes to keep toward his servants
 
@@ -11024,15 +11030,19 @@ Just as therefore our enemies' power or felicity does not sadden us as being som
 
 Yet the neighbor, though he be an enemy, in **himself** we ought never to wish evil, as evil: *love your enemies, bless them that curse you, do good to them that hate you* (Matt 5:44). Only the ruin of his sin may we desire; and even in praying for the enemy's overthrow, our design is not his damnation but his recovery.
 
-### Casus III. Whether one may with good conscience exclude an enemy from public benefaction
+### Casus III. Whether one may with good conscience exclude an enemy from a common benefit
 
-*Reply.* When common benefit is imparted (as alms distributed, another benefit conferred, or release from common prison), we ask: *may the enemy be excluded?*
+*Reply.* When some *common benefit* is imparted — as when alms are distributed, or some other benefit conferred, or persons are released from common prison — the question arises: *may the enemy be excluded?*
 
-Distinction between **public person and private**. A **public person** — magistrate, judge, etc., who commonly acts — can prefer the enemy no worse than others; if he uses this passing-by to punish him for some delinquency according to laws, licit. So while releasing others from prison, he may retain the enemy — not qua enemy but qua more gravely delinquent.
+Here we must **distinguish** between a *public person* and a *private person*.
 
-But if such a **private person**, then let the enemy enjoy along with the friend the common benefit — where care must be taken lest under pretext of public judgment private vengeance be exercised.
+**A public person** — as a magistrate, judge, or the like, who commonly acts — can pass the enemy by no worse than others; and if he uses this passing-by to punish him for some delinquency according to the laws, this is lawful. So while releasing others from prison, he may retain the enemy — not *qua* enemy but *qua* more gravely delinquent. But here caution must be taken lest under the pretext of public judgment private vengeance be exercised: for the magistrate is not permitted to disguise his own hatred under color of law.
 
-**In common questions for all, the enemy is not to be excluded**: for since public benefits are for all, they are for enemies as well, if these too are in need.
+**But if he is a private person**, then let the enemy enjoy along with the friend the common benefit. Care must be had lest, under the pretext of public benefit, private hatred be indulged, — since Christ commands love of enemy (Matt 5:44).
+
+**In common questions and benefits touching all, the enemy is not to be excluded**: for since public benefits belong to all, they belong to enemies as well, if these too are in need. — And especially in extreme necessity, no distinction of friend or foe holds: the sick, the hungry, the persecuted must be helped by all who have means, without respect of persons.
+
+Thus we imitate the heavenly Father, who *maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust* (Matt 5:45).
 
 ### Casus IV. Whether one must salute a chance-met enemy without sin
 
@@ -11102,11 +11112,21 @@ To these can be added **temerity and haste** in growing angry; insufficient caus
 - **For our neighbor's sake**: much harms him. A wrathful man is troublesome to others, as Prov 22:24: *do not walk with a wrathful man, nor go with a raging man*; and Prov 27:4: *cruelty of wrath and rushing headlong of anger and who will be able to stand?*; anger destroys friendship (Prov 22:24, 15:1); *A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.* (Prov 15:18).
 - **For our own sake**: the wrathful is torn from his own consultations, wastes with cares, is torn with anxieties of proximity to affairs, torn with envy (Prov 14:30: *envy is a rottenness of bones*; Sir 4:8: *envy consumes the envier*). Paul: *But if ye bite and devour one another, take heed that ye be not consumed one of another.* (Gal 5:15).
 
-### Casus VII. Whether just anger can arise suddenly
+### Casus VII. How one may be angry with the neighbor, so that the anger not harm him, nor an illicit anger be nourished in oneself
 
-*Reply.* Sudden anger is more often unjust than just, since it is not deliberated. Yet just anger too, if suddenly kindled, can arise from perceiving grave affront to God or scandal to neighbor; but even so it must quickly submit to reason and not be allowed to swell to blasphemy or violation of charity.
+*Reply.* The general rule is that in anger one must not so vent oneself on the neighbor that either he is destroyed or one's own charity is broken. — Some observations here:
 
-**Rule**: brief and moderated bursts, from perception of just cause, may be borne — provided reason at once resumes rule, and one does not spend anger's violence upon the person of the offender but upon his vice.
+**(1) Better to be slow to anger than to indulge sudden bursts.** For sudden anger is more often unjust than just, since it is undeliberated. Yet just anger too, if suddenly kindled, can arise from perceiving grave affront to God or scandal to neighbor; but even so it must quickly submit to reason and not be allowed to swell to blasphemy or violation of charity. — *Let every man be swift to hear, slow to speak, slow to wrath* (James 1:19). — *He that is slow to wrath is of great understanding, but he that is hasty of spirit exalteth folly* (Prov 14:29).
+
+**(2) Do not let anger settle into hatred.** The wound-of-anger may be brief; the *rancor* which follows is often long-lasting and much more pernicious. Paul: *let not the sun go down upon your wrath* (Eph 4:26); which admonition preserves the heart from being turned into a lodging of the devil.
+
+**(3) Anger must not be spent on the neighbor's person but on his vice.** For the person, made in the image of God, is always to be preserved: only the vice by which he has fallen from that image is to be hated. — *So love the sinner; hate the sin* (Augustine).
+
+**(4) Anger must not seek destruction, but correction.** *For this end all just wrath is directed, that the offender may know his sin and amend: not that he may perish.*
+
+**(5) Public anger must be distinguished from private.** The public authority (magistrate, judge, parent, minister) may bear anger justly in the exercise of office; the private man must be more careful to restrain his own passions, since he acts not as vicar of God but only from his own private will.
+
+**Rule**: brief and moderated bursts, arising from perception of just cause, may be borne — provided reason at once resumes rule; and provided one does not spend the violence of anger upon the person of the offender, but only upon his vice.
 
 ### Casus VIII. Whether one may with good conscience expose life to peril to save the life of a friend
 
