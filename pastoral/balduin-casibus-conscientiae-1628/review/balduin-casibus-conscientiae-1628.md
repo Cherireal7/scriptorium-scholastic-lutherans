@@ -7277,4 +7277,460 @@ Here also to note about the *actions of men concerning good and evil spirits*, a
 
 *Which may happily be done, — God the creator of men and governor of all human affairs devoutly, gratefully we venerate. AMEN.*
 
-*[T23–T29 — Liber IV chapters to follow: body-care, soul-care, wealth-and-fortunes, vocations (ecclesiastical/political/economic), marriage, education, neighbor-relations, and closing doxology at OCR ln 69119 / phys p. 1109.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Chapter I. Body of Man
+
+*De casibus conscientiae circa Corpus hominis — On cases of conscience concerning the body of man.*
+
+### Casus I. Whether one may without wound to conscience change the habit of the body, so as to be reckoned of another kind, sex, or condition than he is
+
+*Prooemium.* We are not here treating of the natural conformation of the body's members, in which there is beauty and comely conformity, which is not to be drawn into disputation against the creator: for no one, as Christ says, *can add to his stature one cubit, nor make one white hair* (Matt 6:27; 5:36). Therefore let each be content with the habit of body which is furnished him from birth, especially if in a sound body he has a sound mind.
+
+*Reply.* The habit of the outward body can with conscience whole be changed, provided it be not done for deceit's sake.
+
+Clothing itself confesses that from the Fall it has its origin, as sacred letters testify (Gen 3): for since before the Fall they were nude without vice, afterwards for hindering scandal they were clothed by God himself.
+
+The use of garments now is not of one genus. The first use is of covering — to cover, namely, and to fend off the injuries of the air; the second is of distinguishing — to cover members which nature willed to be covered; the third is for ornament; and finally, for discrimination — namely of sex from sex, of one nation from another, of one dignity from another, and one office and function from another.
+
+For this cause God himself wills the discrimination of garments to be preserved, according to each one's condition and life-kind: to the priests he himself designed vestments (Exod 28). Others are sacred garments, others military, others civil, others of nobles, others of rustics. In whatever kind of life anyone is constituted by God, so let him clothe himself, that from the body's habit his condition and status of life may be known. Whence the Lord commanded in the law: *A woman shall not put on the garment of a man, nor a man the garment of a woman* (Deut 22:5). So also in the Council of Gangra was it prohibited under pain of anathema, lest a woman use manly garments. And in well-constituted commonwealths that license is not tolerated, that anyone should change vestment convenient to himself and his status, since this thing to killings, lusts, public plottings, and similar sins gives service.
+
+Thus *Achilles*, lest he be forced to the Trojan war, was sent under feminine dress to King Lycomedes; but on this occasion he defiled his daughter.
+
+*Julius Caesar* for that reason repudiated *Pompeia*, because in her sacred rites (to which alone were women permitted to attend) *Clodius* had been apprehended in the temple under feminine dress — as *Plutarch* narrates in the *Life of Cicero*. *Alexander ab Alexandro* (*Genial. dier.* 1 c. 27) from *Busbequius* reports how a Turkish woman under a boy's habit courted and led away a maiden.
+
+*Hercules* under a womanly dress served *Omphale*; *Venus* in a similar habit hunted with *Adonis*. In *Diodorus* it is said that under feminine dress there was carried into *Alexander* a sword to slay him. To this we refer *masking*, in which anyone takes license of some sort of vestments, whether they be of women, or of merchants, or of physicians, or of soldiers — so that the more safely he might cross lands, spy out others' matters, and apply them to his own advantage.
+
+If in Academies among heretics such-called men mingle, they go in the habit of masters of liberal arts; if in the courts of princes, as nobles; if in fairs, as merchants, even as cobblers and tailors — of which see *Cazerus, hor. success.* p. 1 c. 26.
+
+As therefore every guile whereby one may privately injure another is prohibited, so also the permutation of vestments is not licit, which is usurped for deceit.
+
+*Two cases however may occur, wherein one without sin can change the habit of the body:*
+
+**(1)** When one is in most-present peril among enemies, where flight is left for taking counsel, — as *David* did (1 Sam 21:14) and *Judith* (Judith 10:3). In flight nothing hinders that we should change the habit of the body, lest we be recognized by enemies. — As *David* without sin feigned a fool's madness in the court of the Ethnic king (1 Sam 21:14), when his life was in peril, so by permutation of garments he escaped peril of life. Thus *Theopompus*, duke of the Spartans, by permutation with his wife of dress escaped from prison.
+
+**(2)** When one in legitimate war performs the office of scout, it is licit for him to change the habit of the body. For it is the same whether by guile or by force you conquer an enemy in such a war. So *Rahab* hid the scouts of the sons of Israel *Joshua* had sent (Josh 2). In which some think the servant tools of masters they held under vestments, that they might be reckoned artisans; others say that *Rahab* offered flax and linens for sale, so that the men might not be suspected of anyone — as reports *Andreas Masius* in his commentary on *Joshua*.
+
+Hither some refer the example of Christ Our Savior, who in the habit of a traveler joined the two disciples going to Emmaus (Luke 24), and who *in similitude of the flesh of sin was converted in the world* (Rom 8:3), when he was to conquer the devil. But these we leave to their own place.
+
+### Casus II. Whether it be sin in comedies, and similar spectacles, whether of masks or of vestments, to bear another person than one is
+
+*Reply.* Some austere men reject comedies entirely — not so much on account of the lasciviousness which they hold conjoined, but especially on account of the masks and permutations of clothing, which by Christians should be esteemed simply alien.
+
+But truly comedies, since they are living mirrors of what is done in human affairs, are not per se illicit, nor without utility, since they inform manners and to honest delight allure — provided all lasciviousness and obscenity, with every scurrility, be far from them, since these do not become Christians.
+
+For nowhere do we read in Scripture that scenic plays are simply prohibited; nay rather, the books of *Job*, *Judith*, *Tobit*, in the judgment of *Luther*, have the form of an elegant comedy. To the action of a comedy however pertains the representation of persons, which without habit cannot be done. Therefore, if the use of comedies is not in itself illicit, neither has it any impiety to put on the person of a king, or servant, or rustic, or virgin, or matron.
+
+The Lord willed indeed in the law, that no man put on woman's vestment; but in what sense this is said, has been explained in the preceding Casus — namely, in political conversation, where the sexes must always be distinguished.
+
+Of masks briefly and morally we are compelled to speak. They can scarcely without sin be used. For they deform the face of man to something bestial, they reform the work of our creator, — who, since he does not will his image also to be plainly effaced in man, willed that under masks men be transfigured into a bestial or diabolic countenance (as they are masked).
+
+*A good face is the vestige of a good heart,* said *Sirach*; and *Cicero* (lib. 3 De orat.) — *the countenance is the image of the mind, the eyes are its interpreters.* This under masks fails: under masks many things are perpetrated against honesty and good manners; under masks the chastity of virgins and matrons is tempted; under masks luxuriate impudent manners and gestures; ambushes are laid against the fortunes of others; and many things are done with much greater boldness, which anyone would blush to commit with a face known to himself.
+
+From these it is easy to gather what should be thought of the *mascarades*, as they call them, which in the courts of princes and nobles, in knightly plays, in nocturnal choruses, in the Bacchanalia, and elsewhere are in use. Many things are conceded to princely persons for the sake of recreation, which anyone is not permitted to imitate — among which these too are numbered. Nevertheless it cannot be denied that many things in courts are disorderly, which corrupt good manners and injure piety. Wherefore they who preside in court-churches must be circumspect, that in such recreations due moderation be applied. For in the actions of men not only what is licit, but also what is honest, must be considered.
+
+Nor will examples be lacking, how God even in great men has punished mask-wearers' lasciviousness. See *Camerarius, hor. succis.* p. 1 c. 240 (about a woman who lay with a demon-masked man, and afterward bore a Cacodemon).
+
+Men of lower condition, let them not imitate all that is done in courts; for each shall bear his own judgment. It were much to be wished that the impious spectacles of masks in the Bacchanalia, together with the pagan festival itself, and in weddings and similar assemblies, could be wholly abolished among Christians — as scandalous deeds, incentives of many crimes. In this genus pious magistrates together with the ministry ought to expend diligent labor. But many things happen through connivance which the pious mind abhors, and which must be borne while they cannot be mended. Meanwhile that saying of *Aristippus* the philosopher has place: *He who is truly chaste is not corrupted even amid the Bacchanalia.*
+
+Let each however make beginning of amendment from himself, and thus little by little all that vanity will vanish.
+
+There is however some use of masks minimally illicit:
+
+**(1)** When by masked persons the safety of another is provided for — as *Michal*, when she had let *David* down through the window, put a masked simulacrum on the bed, feigning her husband to be sick, and by these arts freed him from the hands of the wicked king (1 Sam 19:13). To this pertain those masked men who set upon *Luther* returning from Worms, and led him for safety into the castle of Wartburg.
+
+**(2)** In place of cadavers, either of nobles or otherwise mutilated by some accident — so that for deformity's sake they cannot be exposed to public eyes — certain masks are substituted, which represent their faces, either painted flat, or covered with vestments — which for that reason are called *masked funerals*: of which see *Camerarius, hor. success.* p. 1 c. 26.
+
+### Casus III. Whether one with conscience unwounded may be present at promiscuous baths of male and female bodies
+
+*Reply.* Nakedness of body in itself is not dishonest, — for God made man nude, having sanctity and justice for a vestment. The first men also in the state of innocence were not offended by their nakedness: *they were both nude, and were not ashamed*, says (Gen 2:25).
+
+But the Fall of man corrupted nature, and filled all faculties with vices, so that man can scarcely without sin look upon another man nude, especially of the other sex.
+
+Therefore the first parents, when they saw themselves after the Fall thus nude, blushed with immediate shame, and cut for themselves aprons (Gen 3:7). Whence *Augustine*: *Not made by God, but through the sin of men were shameful things committed, so that Adam and Eve after the Fall for the turpitude which grew up in their members felt shame.*
+
+Which since it is indeed so, that which in certain places of Germany is still tolerated — promiscuous baths of men and women — even though that custom can easily be changed…
+
+It can indeed happen, that this custom by continuance of time diminishes libido — as *Servius* in a commentary on *Homer* affirmed of American women, whose libidos are excited not so much among their women (with whom continual intercourse is had), as by simple and natural nudity to be extinguished more; and less lascivious were the *Gallic* women, than *Roman* matrons who with elegant and exquisite garments and ornaments were wont to be proud.
+
+Whatever it may be however, unless the soul be most-continent, easily flows in from nakedness of the object the incentive of libido. Hence *Job* also had need to make covenant with his eyes lest they gaze on a virgin (Job 31:1). Hence Christians must remove from the state all things that have some show of dishonesty; for we are bidden *to abstain from every appearance of evil* (1 Thess 5:22). Such however have always been held promiscuous baths of either sex, even among Ethnics. Thus *Aemilius Probus* to his emperor addressing *Cimon*, willed men and women to be washed separately — which law afterward *Alexander Severus* the Emperor confirmed, so that *if any imperial custodian access to a woman's bath while she was bathing had — he should be deprived of his donation for nuptials, and the woman while she was washing should be forced to receive a chaste guard.*
+
+The same is confessed in the canon *Faemina* 27, distinction 5, whereby to all Christians, principally clerics, common baths with women are prohibited, since this among the Gentiles is a matter of censure. *Cyprian* also promiscuous washings of the sexes for capital sins is wont to reckon: not to be endured that a man be present at a woman's washing, or even at her sight, where women bathe. *Ignatius* in his epistle to *Philip* judges it to be an invention of the devil, when men, without impediment of women, undress in the same place — a fomenter of manly lust.
+
+Which all things ought to move the minds of Christians, that they abstain from those lascivious baths, — lest that be cast in our face which of the Ancients they were wont to write of the *Bathyllians* in the same way of promiscuous washing.
+
+For not indeed to lascivious ones are these given as occasion of libidos, but even to others which the species of an unclean habit can put on, which is wont to be greatly odious in Christian ears.
+
+### Casus IV. Whether it be sin, that women faces exposed among men wander, so that they be by others gazed upon
+
+*Reply.* As it is the greatest shame of women, the nakedness of body — since a woman is said to depose her one vestment of modesty — so for chastity's sake it is customary to cover the body, and principally the face, of women.
+
+But according to diversity of regions is diverse the manner of covering. In *Arabia* the women cover not only the head, but also the whole face — with one eye alone left free, choosing rather to enjoy half the light than to prostitute the whole face. She prefers to see rather than to be seen: for which reason *Roman* said that certain women are most happy, in that they may love more than be loved — as *Jerome* reports, ad Eustochium *De virginitate* c. 27.
+
+That custom of *Arabian* women *Jerome* commends in the same place: *Just as an Arabian woman most beautiful, once come out into public, scarcely has she any who has ceased his journey when she has passed by.* Thus the virgins of *Patavium*, who come out only with covered face to be visible in public. The same of the *Spartans* he writes, that with open face is the virgin, and with veiled face the bride, seen in public — since for virgins to have men in view is necessary, but for wives to guard those whom they have obtained.
+
+The *Chalcedonians* also observed that custom, that if they fell in with strange men, chiefly with magistrates, they covered their face with a partial veil, that they might not sate the sight, or because it did not so become. In certain places of *Germany* virgins go not only with face uncovered, but even with flowing locks.
+
+*Tertullian* however in the book which he wrote of set purpose on this subject, argues to persuade all women, even virgins, that they must walk with veiled face. Where among other things he adds (c. 12): *Concupiscence itself of not hiding is not chaste: it suffers something which of virginity is not, — the study of pleasing others.* Afterward he addresses the feminine sex thus:
+
+> *Cover, mother, thy face, if sister or daughter, if all ages in thee at once are gathered, put on the armour of chastity, gird about with the modesty of virginity, — that at least thou mayest be believed to have proper things.*
+
+The greatest ornament of woman is honest veiling of the head; therefore nature gave to this sex hair more copious, both for covering-grace, and for memory of subjection. Whence *Apuleius* on a bald woman: *A woman, though most beautiful, if she be bare of head — either fallen from heaven, or born of the sea, or nourished by the waves — though I say she were Venus herself, though escorted by the whole choir of the Graces, and by the entire people of Cupid, and with her girdle and cinnamon dropping — if she were bald, she could not please even her Vulcan.*
+
+To this natural covering is added what by art may be — such as mitras, veils, peplos, — which vestments hold women in the honest genus, and by which very often the eyes of others are held from lascivious contemplation of foreign women. It is guarded age.
+
+So far, therefore, is it from veiling of head and face being in woman vitious, that rather it is a good part of praise. Hence *D. Paul* wills women to pray with veiled head (1 Cor 11:6), *and that they have power upon her head because of the angels* (v. 10). For when at sacred rites they assemble, all occasion of libidos and lasciviousness is to be avoided — for which cause the *Romans* sacrificing to all their gods, except *Saturn* alone, were wont to veil the head, lest amid religion they should offer to the sight what would be offensive — as *Vergil* notes (*Aeneid* 3), *Tiraquellus* on *Alex. ab Alex. Genial. dier.* 1 c. 5.
+
+That in Scripture beautiful women are named in great number is clear — *Sara* (Gen 12), *Rebecca* (Gen 24), *Rachel* (Gen 29), *Solomon*'s wife (Judg 14), *Abigail* (1 Sam 25), *Bathsheba* (2 Sam 11), *Tamar* (2 Sam 13), *Abishag* the Shunammite (1 Kgs 1), *Esther* (Esth 1), — from all which we gather that women do not sin who guard the cleanness of the body, and observe modest cultus.
+
+Nay rather, God-given beauty of face and body does so distinguish, that between the human countenance and the bestial there is manifest discrimination. For filth pleases neither God nor honest men — which discrimination however either of religion or of humility, is dissembled by hypocrites.
+
+### Casus V. Whether for the sake of beauty it be lawful to paint the face, to soften it with unguents, or to change the color, and adorn oneself with gems
+
+*Reply.* Beauty of body is a singular gift of God, who is called the generator of species and form (Wis 13), and it is commended in Scripture, as much of male as of female sex. For beauty of body many both women and men are commended (Gen 2:9; 39:6; Cant 5; 1 Sam 9; 16; Dan 6); but principally is this gift proclaimed in the female sex. *A beautiful woman is a rousing of hope*, said Sirach 26:16, — she is *a flower ready to be plucked, a resplendent seed of the eternal Spirit* (Wis).
+
+Hence *Jerome* admonishes in his epistle to *Nepotianus*: *An elegant filth is greatly to be avoided, since it savors of a woman rather than a man's affected glory.* And of the tricks it is set forth in filth to be judged.
+
+Therefore as filth, so also excessive cultivation of form renders man odious — such as principally is wont to be among softer women — who natively strive to amend the color and constitution of the countenance by art, and paint the face with black powder, they pollute the limbs with unguents, and to onlookers give nausea and fastidiousness.
+
+In which kind sometimes they are ridiculous even to stupefaction, and are more sumptuous than a miracle. *Tertullian* elegantly extols their folly (in *De velandis virginibus* c. 12): *They divide the hair, they make triple: with waves they compose the hair down to their front, they bring in curls, they seek from a mirror counsels of form, and macerate a wrinkled face in the bath, perhaps also with any medicament interposed. The mantle from outside they toss out, the shoe multiform they pack, they carry many pinstruments to the baths.* So he.
+
+Some soft ones with crocodile excrements have polished the face — whom *Clement of Alexandria* (*Paedag.* 3 c. 2) rightly gravely indignant chides: *They are not to be pitied merely once — the women who use crocodile excrements, or are anointed with the foam of the sepia.*
+
+Of *Poppaea*, wife of *Nero*, *Pliny* writes (*Nat. hist.* 11 c. 41), that she led about with her everywhere 500 she-asses, and in a bath-tub with their milk her whole body she macerated, believing thereby to be extended, and the whiteness of her face preserved. — For they say that from this milk the face is smoothed and softens. She also in exile took her she-asses with her.
+
+The same *Pliny* (*N.H.* 28 c. 12) affirms it to be known, that certain among the Roman women daily nourished 500 she-asses for this very same purpose.
+
+But even if all cannot afford so many vanities such expenses, yet in general we affirm every such painting of the face illicit and impious, by whomsoever it may be done.
+
+**(1)** For first, a man dares to reform his creator, — as if he had not formed his face convenient enough or bright enough — of whose cultus a man dares to correct, and to something better to amend, with great temerity: for as *no one can make one hair white* (as says Christ, Matt 6:27), — so neither the skin nor the color of his body can he correct; but let each be content with the form which from God he has.
+
+**(2)** God does not leave that temerity of his correctors unpunished. For as he is the avenger of all pride, so especially this painting of the body he detests: which he showed in *Jezebel*, when *painted with black stibium, and neatly adorned, from the window she was thrown down, and by horses' hooves trampled* (2 Kgs 9:33).
+
+**(3)** That was not the manner of the holy women, whose adornment was not outward — the plaiting of hair, or wearing of gold, or putting on of apparel; but the hidden man of the heart in incorruptness of a meek and quiet spirit (1 Pet 3:4). Therefore *Esther* named the adornment of the head a sign of pride (Esth 14:16). But of unchaste women this painting was a note — such as of *Jezebel*, of whom it is read that *for the adulterer she painted her eyes and darkened her face with stibium* (2 Kgs 9:30). And these paintings pertain to harlot's ornament, whereby souls are deceived (Prov 7:10). Thus *Judith*, when to deceive *Holofernes* she feigned herself a harlot, *anointed her body with the best ointment, she distinguished the hair of her head, she put a mitre upon her head, she put on the garments of her merriment, she put sandals upon her feet, she took bracelets and rings and every ornament, and adorned herself* (Judith 10).
+
+**(4)** This painting of the face fights with the fragility of human bodies. For what is painted, but ashes and dust? — And, as the verses have it:
+
+> *Fair, brief flower, and death not to be repelled.
+> Say to any who has painted his face: —
+> what art thou other than a wormy dust?*
+
+As therefore he is worthy of laughter who should walk on a wooden but well-fitted and gilded foot, — and hold others in contempt who have not such elegant feet — so are they not so much to be laughed at as reviled by execration who prefer painted faces with unknown colors to the native, not thinking of what dust and mud has adorned them.
+
+**(5)** These paintings harm themselves. For not only do they betray their native deformity, — for if they were sufficiently beautiful they would not have adopted this color, — but they harm also greatly the unity and native form. For they experience that from that unguent the skin is corrupted, is wrinkled, and old-age deformity is hastened before the time. Hence that of *Aretaeus* to *Progos*: *Learn not with art to increase thy body, — art learn.*
+
+**(6)** They harm also others, especially more lascivious young men, whom by painted face they allure, and either bind in illicit loves or in untimely marriage — which happens not rarely to them, — that they might sustain great pain of soul, and that they judge man's form and beauty only from external color. These nothing love in man but the skin, — the shell, — and a well-painted color. For as under a whitewashed wall very often wormy timbers lurk, near which to sit is not safe enough — so a painted face covers not only a putrid body but also a wicked soul. He who trusts to external color, no wonder that he is easily deceived.
+
+On which matter *Alphonsus Guevarra* has an elegant admonition addressed to young men: *Do not, stupid young man, judge such-and-such — do not on account of form which reforms the face — as if of a statue thou hadst art. Not without deceit is that which is composed of unguents. Miser! what art thou to bring into life, when thou art satiated with foul pleasure? Who will rule the house, with whom wilt thou mingle discourse? Who will minister to thee sick? Who will comfort thee weary and stooped? What partner wilt thou have in adversity, — with whom wilt thou congratulate thee in prosperity?*
+
+Hence *Sirach* also warns (c. 9:8): *Turn away thy face from a comely woman, and look not around at another's beauty; on account of the beauty of a woman many have perished, and from this concupiscence is inflamed as fire.*
+
+**(7)** It is added finally, that both money and time these women lose by such elegant self-scouring. It is madness by sumptuous labor and laborious cost to do nothing else but destroy oneself and others.
+
+For these causes the holy Fathers in all times against such folly of men have written gravely.
+
+*Gregory of Nazianzen*, in a poem *De ornatu mulierum*: *If in a beauty adopted thou boastest, thou wilt never be certain of a chaste soul, — being one that averts thyself from face-paint.*
+
+*Chrysostom* (Hom. 4 in 1 Ep. ad Timoth.): *A modest and honest one is she who, anointed with unguents, comes not forth: who paints the face not at all with paints and colors, but is content with the workmanship, and adds nothing from herself as if by art she should contrive.*
+
+Especially *Augustine* (Serm. 245 De tempore), on women who paint their face, considers this to be an imitation of manly garments; and on hair-adulteration of the native color, to the vestments of adulterers he refers, — as things unworthy of the society of holy matrons. He inveighs above all against that womanly paint-adoption: *Whoever her quality or form, which the most-provident former of hers has framed, in another she strives to transfigure — does she not clearly seem to say to him who has fashioned her: "Why hast thou fashioned me thus?" A wicked temerity, to make cheap the plasmations of the Creator, — as though she would carry the form (as far as in her is) into something else. What by nature it has, incomparably it holds itself, — she grieves. Nothing let us say new as if from ourselves: we have Fathers of ours, distinguished teachers, who before us against these have written, and by irrefragable authority have condemned. Let us hear Paul the teacher of the Gentiles, saying of superfluous hair to the Corinthians: "If a man have long hair, it is a shame to him." For since man from the ordination of God has primacy over woman, she who contrary to the honor of her sex with superfluity of hair covers her head, from her primacy she abdicates herself, — so that deservedly of her it may be said: "Man, when he was in honor, understood not, and became like — that we may say what is true — not only to women, but even to unwise beasts." — For by judgment of laws he is justly deprived of his obtained dignity, who abuses the privilege granted him.*
+
+Let us also hear *St. Cyprian*, distinguished martyr and most sweet doctor, disputing of adulterous habit. He says in the epistle he writes to the virgins of Carthage: *God's own creation and his workmanship in no way ought to be adulterated with tawny color, or with black, or with any drawn line of native lineaments corrupting medicament. And a little further:*
+
+> *The hand cannot be brought upon God, — that what he has formed you strive to reform and to transfigure, knowing that a work of God is whatever is born; a work of the devil is whatever is changed. If any master painter had painted with expressive colors the countenance and species and quality of another's body, — with the signature already consummate — should another master painter's hand come upon it, and reform now-formed, now-painted things as if more expert — a grievous injury would rightly be judged upon the first artist, and a just indignation would seem. And in what follows: When the day of resurrection shall come, thy artificer will not recognize thee, but will remove and exclude thee coming to his own things promised. Nay, with rebuking chiding and judicial voice he shall say: "This work is not mine, nor this image ours: with tawny medicament thou hast polished the skin — the form which I had given, with lying whitewashing thou hast deformed, the face is corrupt, the members are alien. Thou canst not see God, since eyes are not thine, — which God made, but which the devil unmade. So follow me, listening, as ye follow me exhorting; hear ye who instruct your daughters — hear us consulting for your health. Be such as God the artificer made you; be such as your Father's hand set you. Let there remain in you an incorrupt face, a pure neck, a form of majesty, from superfluous adornments free feet, hair marked with no color feigned, eyes worthy to look upon God.*
+
+A similar exhortation *Tertullian* has (*Ad uxorem*, book *De cultu feminarum* c. 12): *Come forth, women, adorned with the medicaments and ornaments of the Apostles, taking from simplicity the whiteness, from chastity the ruddiness, painting your eyes with modesty, and your mouth with silence, — casting into your ears the word of God, entwining upon your neck the yoke of Christ, whose head submit to your husbands and ye shall be sufficiently adorned. Occupy your hands, keep your feet at home, and more than in gold ye will please. Clothe yourselves with the silk of probity, the byssus of sanctity, and the purple of modesty: — thus painted with such pigments ye shall have God as your suitor.*
+
+### Casus VI. How great a sin lies in luxury of vestments, in which today almost the greatest of bodily ornaments is placed
+
+*Reply.* Not all believe that there is any sin in splendid dress: for either they think God does not care for our vestments, or they think it turns to the honor of God to build up for so labored a body ornament from him.
+
+Nor are they ignorant that materials also were created by God for this purpose, that we may use them for the adornment and clothing of the body. Some think it more decent to adorn the body than to neglect it; more laudable to cultivate it than to defile it with filths.
+
+But we must here maintain the middle way. For as the filth of vestments delights none, so neither is over-elegance and luxury (which we oppose to filth of dress) laudable.
+
+Of luxury of vestments therefore is here our speech, which consists partly in superfluity, partly in variety, partly in novelty, partly in over-frequency, partly also in the neglect of the order and condition of ours. Where the sword and the traveler's stock are needed — with all genera of vestments recounted, whereby the members of the body from head to heel are either covered or embellished.
+
+Very laborious in this genus were some of the Ethnics: the *Persians* did not admit a woman except a year first placed, combed, polished, dyed, and adorned — which among other things also from the sacred history of *Esther* is confirmed (Esth 2:12). — Thus to banquets and sacrifices they were wont to invite women a year in advance, that no time might be lacking for preparing the body's cultus, as *Plutarch* attests (*Sept. sap. conviv.* 1 b. 4).
+
+But even Christians in this genus partly cede to the Ethnics — whence in all times some have been found who to a luxurious clothing oppose *Cynic* frugality; but with most a fable it seems to relate.
+
+But how great a sin be luxuriated in dress, from the following can easily be gathered:
+
+**(1)** *Luxury in vestments is against God to the sins of men*, and God contradicts it as by punishing. For God on man first-fallen put a garment of animal-skins, which as a sign of guilt he clothed him with: today however these skins they cover with silk and purple, they cover with gold and silver and precious stones, so that what was primaeval was rather a matter of shame, more and more they precipitate into the fall of pride and prodigality.
+
+**(2)** *Luxury of vestments abduces the soul of man from the imitation of Christ*, whose vestment was simple, and only twin — one inner, called the tunic, another outer, called the mantle. But our men are not content with so much simplicity and frugality in dress; but they not only daily have vestments to change, they even at one time weigh down their body with vestments, so that many can scarcely bear them. These are not imitators of Christ, but they imitate a harlot *arrayed in purple and scarlet, adorned with gold and precious stones and pearls* (Rev 17:4).
+
+**(3)** *Luxury of vestments accelerates the wrath of God, and causes various pains.* Therefore the Lord *by two women* is called Isa 3:16 and following: *because the daughters of Zion have lifted themselves up, — and the Lord shall make bald the crown of their head. — On that day the Lord shall take away the ornament of their little bells, and their chains, and their neck-collars, and their bracelets, and their mitres, and their kerchiefs, and their leg-bracelets, and their pins, and their ear-rings and rings, and their pendants* (Isa 3:18). Among the sins of Jerusalem is also reckoned *that thou hast adorned thy regions and hast put on thy various paints, — thou hast eaten the same fine meal and honey and oil.*
+
+Christ also in the rich glutton reproves him, that daily he was *clothed in purple and byssus* (Luke 16). Elsewhere he reproves the too-great care for body and food, when he says: *Be not solicitous, saying: What shall we eat, or what shall we drink, or wherewith shall we be clothed? — For all these things do the gentiles seek* (Matt 6:31). The care of vestments therefore he assimilates to gentile-idolatry; but he wills Christians to *seek before all things the kingdom of God*.
+
+**(4)** *Luxury of vestments most often takes away care and soul-cultivation*, of those who in cultivating the body are too solicitous, and neglect the soul. Hence that of *Bernard*, sermon *De diligendo Deo*: *A shameful and unworthy thing is it, that when the body is most curiously and empty-glorily composed, adorned, and set forth, the inner soul is befouled and abhorred. Thus care of body would be, if not first attention to inner virtues had preceded it.*
+
+To this sense writes *Osualdus* (in his manual *De disciplina et habitu virorum* c. 3): *He cannot induce silks and purple garments upon Christ: who by gold and pearls, and by all bodily ornaments, has lost the ornament of heart and breast.*
+
+Hither pertains that of the Prophet *Ezekiel* (c. 27:25): *Behold that whose breast is of gold, of silver, and of every price of glory — but the Spirit of God is not in his inward parts.* Hence it is hard to nourish the body with milk, and at the same time to cultivate the soul.
+
+**(5)** *Luxury of vestments is the fountain and origin of many evils.* It rouses in others depraved conceptions concerning us: for pride is the individual companion of splendid dress. Those who in truth are not such — yet the suspicion of that vice they draw against themselves. For why do they walk fine at home, and go proud out into public? — They seek empty glory, they wish to please the eyes of others only.
+
+Well said *Seneca* (*Natural.* lib. 7 c. 18): *Men have not so much care of the body's simplicity, as of the sight of others; nay rather with contumely are they affected who have come to too-adorned temples.* For they do not go there to choreas or nuptials, — not to the scenic games, — nor do they come to make of themselves a spectacle: — but to hear God, to pray for their sins. To which purpose nothing that stately vesture of clothes achieves.
+
+Finally, in expenses they spare none, who in the ornament of the body strive with others: for in splendid dress they show their riches; poor ones may all bear their own, — one may look on them, — even not their own but of others they are forced to bring; and yet what they show on the body, they still owe to the merchant: — and, as *Boethius* has it, *the eyes of men are deceived.*
+
+Every single one of these vices is worthy of grave penalties: — how much therefore must anything be feared, and luxury of vestments be shaken off?
+
+*A primary end of vestments is the covering of nakedness, whence Isaiah writes to Laodicea: — thou art naked; whence thou art poor, be thou faithful, — this alone is fixed to be the reason of vestments to us.*
+
+Then also, cultus in vestments is not per se against God — provided the vices we have named be avoided. But the moderation therein must observe the condition of each and life-genus which God himself in vestments has willed to be diverse. Let it always be remembered that vestments are the indices of the soul, according to *Sirach* c. 19:27: *A man is known by the sight of his garment, and by his laughter, and by his gait, — thus a man's inner attitude is manifested.*
+
+A grave and honest sign of soul is a grave and decorous vestment: — a womanish soul, light and effeminate, has a light and womanish vestment; a diabolic one has either negligence, or vaingloriousness, or something not-sticking-together-with-itself — of which many today great pride, glory, and honor, in ignominy of God, — in shame of their bodies boast.
+
+### Casus VII. Whether by spontaneous affliction of the body, by scourges, fasting, hair-shirt, or by some other freely chosen chastisement of the body, sins may be expiated
+
+*Reply.* Spontaneous afflictions of the body, which by fasting and hair-shirt, and principally by bloody flagellation, are done — the *Papists* consider these to be singular cults, whereby they satisfy God offended, and merit greater rewards from him, — as speaks *Bernardinus Ochinus*, monk of Monaco, in his *Trismegisti Papae* Speculum ov. 1 lib. 6 c. 4 art. 130.
+
+We do not fault every self-inflicted lash against the body, when it is done unto the honor of God — as it is read in *Lev 16:29–31; 23:27; Joel 2*, together with *Zech 12* and *v. 10*. And the *Prophet* writes *of the people that had vowed and constrained themselves by oath, that by fast or by fixed abstinence for a time from other things they might afflict their soul* (Zech 8:19).
+
+Also the examples are laudable of those who to the honor of God have with fastings afflicted their body — chiefly of voluntary flagellation, which is much attributed to those who in processions on naked feet, with such force and violence, that they might redden themselves with blood, — which is judged singularly grateful and acceptable to God, and made to be blood shed by love of Christ, — and by desire of doing penance through *disciplines* (that is, through flagellations), and to expiate sins, and powerfully to destroy the kingdom of the devil. All of which *Iacobus Croserius* wrote (lib. 3 De disciplin. cap. 3).
+
+Against these *Papist* furors *Otto Brunfels* has expostulated at length, and *Georgius Zelmannus* in a book, whose title is *Carnifices seu Flagellantes*. — We shall touch chiefly the sum of things, and how great a sin be it: to hurt one's body spontaneously, whether by flagellations, or by fasting, or by hair-shirt, or by any other means, especially when the opinion of satisfaction for sins, — of a singular merit — accedes.
+
+*First, therefore, we do not condemn every bodily chastisement*, which is by subtraction of delicacies, sobriety, temperance in food, — labors of one's vocation, — prayers, and cross-bearing — by all of which the wanton flesh is subdued and to the spirit subjected. Of these speaks *Paul* (1 Cor 9:27): *I chastise my body* — and elsewhere it is called *mortification and crucifixion of the old man*, of which the Apostle speaks (Rom 6:6): *our old man is crucified with him, that the body of sin might be destroyed, that we may not serve sin any longer.* (Rom 8:13): *If ye live after the flesh, ye shall die: but if by the Spirit ye do mortify the deeds of the flesh, ye shall live.* (Col 3:5): *Mortify therefore your members, which are upon the earth: fornication, uncleanness, inordinate affection, evil concupiscence.* And (1 Cor 15:31): *I die daily, brethren.*
+
+But this mortification or crucifixion has nothing in common with *Papist* flagellation or affliction of the body: because that mortification is not to laceration of the body, but to putting off of the body of sin; not by means of scourges or straps, but by the Holy Spirit; not for expiation of sins, but for restraining the concupiscences of the flesh, and for serving God.
+
+Even if we macerate our body with fasts, and lash it with scourges *Papist*-style, — that we affirm to be entirely alien from the profession of true Christians, by the following arguments we prove:
+
+**(1)** *It manifestly fights with the fifth precept of the Decalogue, on not killing*: where either the one or the other is prohibited — whether thyself, or another thou killest: — for by the name of killing not only privation of life, but also every mutilation of members, and voluntary — whether one's own or another's — oppression, is understood.
+
+To his precept God is not contrary: therefore when in the law to his own people it is enjoined that in the feast of expiation they *afflict their soul* (Lev 16), by no means is *Papist*-style *flagellation* of body to be understood, but a solemn fast is indicted, whereby they were prepared for that festivity — which indeed pertained to the *Jewish* Synagogue, — yet even now among the fasts of Christians is included: soberly and temperately let one accede, — no one is there to blame, provided that opinion of merit or of satisfaction do not come in.
+
+**(2)** *It fights with the interdict of God* (Isa 58:3), where with hypocrites, who exhibited no mercy to their neighbor, but with fastings and hair-shirts whereby they were troublesome to the body, thought that sin was expiated, the Lord answered them: *Is this the fasting I have chosen, that a man should afflict his soul by day? Is it that he should twist his head as a hoop, and spread out sackcloth and ashes? Is this then what thou callest a fast, and an acceptable day to the Lord? Is not this rather the fast that I have chosen: — Loose the bonds of impiety, undo the burdensome fascicles, dismiss those who are broken, free them; break every yoke; deal thy bread to the hungry?*
+
+You see here that God is little pleased by affliction of the body, if works of mercy are absent. In which sense the Apostle *Paul* says: *Bodily exercise is of little profit, but piety is profitable unto all things* (1 Tim 4:8).
+
+**(3)** *It fights with the precept of the Apostle*, who bids us have care of the body (Rom 13:14) — to nourish and cherish the flesh, not to scourge or afflict: *for no man ever hated his own flesh* (Eph 5:29). Therefore *Solomon* calls him a fool *who thinks up evil things to do to himself* (Prov 24:8). And *Jerome*, on the moderating of fasts, writes to *Rusticus* the monk: *Let fasts be moderate, lest they too greatly debilitate the stomach, and demand a greater refection from concupiscence, that they burst forth into cruelty, which is the parent of libidos. A modest and temperate food is a bridle to flesh and soul.*
+
+It is an abomination before God, who has forbidden spontaneous laceration of the body in his people: *Ye shall not cut yourselves* (Lev 19:28); and *hands full of blood* the Prophet says are with *Isaiah* 1:15.
+
+**(5)** *It is un-Christian*, because these spontaneous afflictions of the body they ascribe such power, as Scripture ascribes to the merit of Christ — namely, expiation of sins; nay, the blood of the flagellants they mix with the blood of Christ, and from thence make one unguent: which is diametrically opposed to Christ's absolute merit.
+
+**(6)** *It is Baalitic*: for as of the priests of *Baal* it is read (1 Kgs 18:28): *they cut themselves after their manner with knives and lances* — so these modern flagellants do it with scourges and thongs; the end is everywhere the same, namely, reconciliation with God and expiation of sins.
+
+**(7)** *It is heretical.* For the sect of flagellants around the year of Christ 1260 sprung up, and the year 1349 renewed, and by *Pope Clement VI* himself under the pain of excommunication was repressed. — Whence afterward *John Gerson*, chancellor of Paris, wrote a peculiar little book against all such, especially the publicly flagellated.
+
+**(8)** *It is ethnic.* For the *Spartans* consecrated to spontaneous flagellation a peculiar festival, which they called *Diamastigosis* — flagellation, of which mention is made in *Tertullian* (*Ad martyras*), and *Plutarch* (*De ant. Laconum instituti*). — The same custom relates *Suidas* about the *Roman Luperci*, — as reports *Polydor Vergil* (lib. 5 *De rer. inventor.* c. 6). What however do Christians have in common with these rites of Gentiles? — *After these things walk not*, says the Apostle (Eph 4:17), *as the Gentiles walk in the vanity of their mind.*
+
+**(9)** *It is pseudo-Apostolic*: for of pseudo-apostles *Paul* writes (Col 2:23): *which things have indeed a show of wisdom in vain worship of the will, and humility, and neglect of the body* — where in-so-many-words the Apostle refutes monastic life in the *Papacy*, which is nothing else but a superstitious and hypocritical life-genus, in clerical works, in filthy vestments, in body-affliction of body, and cleric merit of eternal life.
+
+**(10)** *It is Pharisaic*, because affliction of the body is feigned to be a divine cult, and yet is not divinely commanded, — since without express command of God to worship him, they wish to see divine, — *and to be, — foolish though they are made*, says the Apostle. For *the wisdom of this world is foolishness with God* (1 Cor 3:19).
+
+Moreover, one's own body spontaneously to lay hold of is either delusive or of a besotted man, since *no one has dominion over his own body* (Eph 5:29). Hence *Augustine* (*De civ. Dei* 6 c. 10) — where *Seneca*'s superstitions he writes about — those maniacs he simulates, who, that to their gods they may reconcile themselves, either cut off their manly parts, or with lancets scar themselves. *A furious mind, — he says — hangs beside minds in the seats and stalls of the pushed-out furor. He tries to displease God, as some savage-fierce men are wont, — and are given over to fables of cruelty. Tyrants have lacerated some, whose bodies no other tyrant would have thought of lacerating.*
+
+**(11)** *It is diabolic*, that spontaneous blood-shedding, especially that peculiar cult would seem to be — for the demons are homicides, and delight in human blood, especially under the pretext of religion. — Thus the *Israelites* once at the instinct of the demon burnt their children (Ps 106:37). Hence *Lyra* writes on 1 Kgs 18: *demons delight in a sacrifice of human blood, which is the noblest creature made to the image of God.*
+
+I do not press what such spontaneous affliction of the body may be — hypocrisy, and only for pomp and spectacle before men Pharisaically composed, and *ostentation-of-injury-of-body pleats,* as says *Chrysostom*. — Let these arguments suffice, — from divine Word and probable proofs, — that those injuries against the body voluntarily inflicted (which the saints proclaim so greatly), have never pleased God, or pious men.
+
+We do not deny that a man can impose upon himself some law, whereby the wanton flesh may be constrained, and in office be kept, — but with certain applied conditions:
+
+**(1)** *That God be worshiped, not for a work outside the law placed*, which contravenes all divine works, — since God will not be worshiped by the commandments of men, — as Christ interprets it.
+
+**(2)** *That no notion of satisfaction or merit be attached*, — which defrauds all our works, even those divinely-commanded, of their proper fruit, — since God does not wish men to be worshiped as by commandments of men.
+
+We have read of some who out of an honesty of soul mutilated their members, and it is written of a certain man that his thumb-nail he cut off; some, that they might not appear too proud, cut off their nose. Among the *Turks* and barbarous nations of *India* are found those who at the entrances of their lords, either from walls or towers precipitate themselves, or wound the body, in sign of submission and reverence.
+
+Are found also mountebanks and hawkers of medicaments, who to their spectators of unguents may commend their excellence, — pierce their arms and afflict wide wounds. And of these all what should be thought — from what precedes is manifest. For spontaneous laceration of the body does not lack cruelty, by whatever name it be made; principally, when it is done for a religion, which is against God, — or for glory, — or for pride, — or for making cheap of an alien fortune.
+
+### Casus VIII. Whether, therefore, one may amputate any of his members either to the danger of religion, or for glory, or for humility
+
+*Reply.* A little earlier we have heard, of Christians who by ingenuity have amputated their genital parts, or lacerated their members, to reconcile the gods to themselves. And what is to be thought about it, from what precedes we conclude. For spontaneous action of body is not without cruelty, however named, especially about that action which we now touch. — Those principally sin, whom for chastity — to that they seem to pretend — testify to be zealous.
+
+For generation indeed they impede, but not the libidos of flesh, which in the castrated are wont to grow — as *Chrysostom* proves (Hom. 49 in Matth.), *Basil* (*De virginitate*), and *Gregorius Nyssen* (*De virginitate* c. 7).
+
+Hence in Canon 22 (from Nicaea) the mutilation of members even for chastity's sake is prohibited — since it is not a necessary means to salvation, — since not more chastely does he live who has amputated the parts than he who has castigated the desires of the mind.
+
+Among the *Donatists* of *Africa* the *Circumcellions* imagined that if from mountains they cast themselves down, — into fire threw themselves, — or by other means killed themselves, — because it is written *the flesh must be mortified, — he who hates his life in this world, keeps it to life eternal* (John 12:25).
+
+There are others who for the sake of salvation — that is, to avoid the libidos of flesh — cut off from themselves their genital parts, and mangle their members — and shall be judged of their own works.
+
+Scripture calls him a wicked man who *hurts himself* (Sir 19:2 [text: Sirach 8]); and *equally impious is he, who neglects his own health, as he who neglects his life*. Such daring men, therefore, who either for glory's sake or for a vain religion mutilate themselves or wound themselves, are not to be tolerated, who do not weigh how precious among God is human blood, which they so temerariously shed.
+
+Nay, it is much more, in his own flesh to be a beast, than to feed on the flesh of another.
+
+*A pious magistrate does not delight in the cruelty of his subjects, — nor does that observance please him which is sought by cruelty toward the proper body.*
+
+Stolid moreover is that kind of gain, which is founded upon cruelty; — and cruel are the riches which are gotten not except by voluntary wounding of body. Since therefore Nature abhors this, — much less ought one to be extolled by these zeals of exhortation.
+
+### Casus IX. May any member of the body be cut off, in order that the rest be preserved and life protected
+
+*Reply.* Amputation of a member — for instance, a hand or a finger — can arise from a triple cause: (1) *from an intrinsic necessity* — as from a disease, when either gangrene or a viper's bite has infected a member; (2) *from an external necessity*, — as when one is bound and a sudden fire arises, which cannot be avoided except by cutting off the hand; (3) from the command of a tyrant.
+
+Thus *Autoritas Bellionis*, tyrant of *Tiberias*, commanded a certain rebel — if he willed to redeem his life — soon to cut off his own hand — as *Josephus* refers (lib. 4 *De bello Iud.* c. 5).
+
+In these cases, as to what should be judged, not all agree.
+
+When from an internal cause or from an external peril is to be feared a loss of life, all consent that hand or finger rather perish, than the whole body be given to death — even as physicians persuade, that the sword-in-cutting-in is what part sound draws to a cause. Reason: because the members are for the good of the whole. If therefore a member be to the whole body deadly, — or destined to become so — it is not against nature to cut it off.
+
+If however the amputation of the member be at the command of a tyrant, this makes an ordinary matter of controversy (see *Cajetan* *Comm. in 2.2. q. 65 art. 1*), because no one has jurisdiction or command over the members of another.
+
+Others, and indeed more probably, judge that one may consent to the mutilation of a member by a command of a tyrant, if otherwise one would have to die: — because a part of the body is for the whole; therefore it is licit to remove the part, that the whole be preserved.
+
+Even if a tyrant does not have power over our members — no one has power over the members of his body according to his own will — yet there is a necessity in man, whereby, when pressed, he chooses rather to lose a member not necessary to life, than life itself.
+
+### Casus X. Whether some member of the body should be mutilated for the safety of the commonwealth, or for some greater advantage of another
+
+*Reply.* Some go further, and think mutilation of the body — even beyond the command of a tyrant — licit, if it be done for the safety of the fatherland or of some greater advantage: — as *Zopyrus*, general of the *Persians* (as *Herodotus* refers, lib. 3 near the end), afflicted himself with most deformed mutilation — cut off his nose and ears, cropped his hair in deformity, and inflicted wounds upon himself. And thus scarred and blooded, he crossed over to the *Babylonians*, and complained to them that he had been afflicted thus by *Darius*, on account of whose injury to be avenged, he had crossed over to the *Babylonians*. By which stratagem he took *Babylon*, and reduced it into the power of Darius (per *Bede*).
+
+Hither also they refer the example of that Prophet who commanded himself to be wounded (1 Kgs 20:37) — which would not have pleased God, if wounding of the body were intrinsically evil.
+
+But truly such things are not easily to be drawn into examples. Many deeds of Ethnics are not heroic, but temerarious and only undertaken for the sake of vain glory, and therefore are minimally-legitimate means for effecting great things.
+
+Thus many acts of the Prophets are wholly extraordinary, and not to be imitated by anyone, — as that *he ate human dung* (Ezek 4), that *for some days on one side he slept* (Ezek 4:4), etc.
+
+We cannot therefore approve what *Leonhardus Lessius*, *Iesuita*, writes (lib. *De just. et jure* 9 dubit. 15): *It is probable that for the safety of the Commonwealth I can cut off my nose, ears, and lips, — as did Zopyrus, etc.* — Without reason are these things said. For no one is master of his own members, but each only guardian and pupil of his own body. The safety of the Commonwealth can be preserved by other means.
+
+If, however, it were certain that in no other way than by this mutilation of members either a tyrant could be moved to mercy, or otherwise the Commonwealth indubitably could be aided — some concession might be given to those spontaneously willing; but in doubt, the injury of a tyrant is rather to be borne, than to be inflicted upon the body of another.
+
+### Casus XI. Whether Christians may engage in games in which the safety and health of others is temerariously placed in danger, in the very occasion of another, where wounds are inflicted
+
+*Reply.* Games are of two genera: (1) those in which for the sake of the soul recreations are done, not always with laceration of the body — such is the ancient one of gladiators, of which we have some specimen in sacred history: as when *Abner* said to *Joab*: *Let the boys arise and play before us: — arose therefore twelve of Benjamin, of the party of Ishbaal, — of the sons of Saul, and twelve of the servants of David: — and each seized the other's head and drove his sword into the side of his adversary, and they all fell together* (2 Sam 2:14–15).
+
+Especially however this genus of game was in use among the *Romans*, who committed men with men, or men with beasts, either in banquets or publicly in the forum, whereby with a cruel spectacle they explained their soul. — So much that the Emperor *Marcus* preferred to be with the gladiators, than in the curia. In this manner they explored the fortitude of citizens: but fortitude without justice is not laudable. *Fortitude is joined with virtue*, says *Marcus Antonius*, cited by *Cassiodorus*, — and if it is exercised in cruelty, it is impious.
+
+Christian Emperors have prohibited these fights of gladiators by laws — as in the *Codex* the law of *Constantine* stands: *In eight-hour civil peace, — cruel spectacles please us not.* Also *Leo* and *Zeno* have shaken off these plays, as *Codrenus* attests, — when to certain uncertain contests men with bears and lions were committed. Thus *Procopius* (in the *pro-emium*) confirms the same: *He who calls the games, whence originated, moderating.*
+
+Another genus of games is the *pugilistic* — of athletes wrestling, — even still in use, as part of liberal exercises. And this — if it contain itself within its own bounds — is not altogether illicit. For not all exercises can flow into it, whereby the strength of the body is exercised.
+
+This kind of game also has its use in wars against the enemy, whom by agility of body and pugilistic art of arms he may seek. All arts at the end are to be exercised.
+
+If someone in this genus of game is wounded in body, — that is done gratis and beyond the will of him who inflicts. If however anyone with fixed proposition wounds his antagonist among the gladiating, — and with that intention that he wound the one who is coming forward to meet him — whether from hatred, or from cupidity of glory, — he sins gravely.
+
+For what things that arise with detriment of neighbor from proposition, are against charity. And what wounds charity, cannot be done with good conscience. Hence *Solomon*: *Anger dwells in the bosom of a fool* (Eccl 7:9) — as *Goliath* against *David* (1 Sam 17), it should be a strong man.
+
+### Casus XII. Whether with good conscience one man is called to a monomachia — that is, to a duel to appear
+
+*Reply.* *Duel* is otherwise the same as *war*, because in war between the armies there is such-a-contention. But here we treat of the combat of two persons, which is commonly called *duel*, — more suitably *monomachia*, in which there is always one challenger and one challenged.
+
+Much in olden time was attributed to this genus of contest, and even now to certain nations. So much that *Otto* has laid down as a law, that all controversies of whatever sort should be settled by judges. — For no one is so violent in another's temerity occasioned, as by *duel* the Commonwealth can easily be well governed. Wherefore such bloody and fatal duels are not found among Christians. For in cap. *Talteus* it is said: *All duels are wholly to be repudiated, in which the life of men or the safety of souls is placed in danger. — All entirely are to be avoided, because they fight with the word of God.*
+
+And Christian emperors of other nations by laws they have prohibited them, — as in *De gladiat.* the law of *Constantine* stands, together with civil laws and peace domestic — *cruel spectacles do not please*. And *Leo* and *Zeno* also have restored these spectacles.
+
+But whatever it may be about others, this genus of contest has some species of lot: — lots however are not all condemned by us. Some of them speak more mildly of this, — because the lot for a right cause is tolerated, if the Scripture we consult, — nowhere shall we find *duel* (as here of it we treat) approved by God, seeing that one strives to injure the other. — They sin in God, in neighbor, in themselves.
+
+*In God diversely*: (1) *When for vindication's sake they are borne to combats.* But private vengeance is prohibited: *for vengeance is God's alone; I will repay, says the Lord* (Deut 32:35). Whence *Paul* admonishes (Rom 12:19): *Not avenging yourselves, my dearly beloved, but rather give place unto wrath: for it is written, — Vengeance is mine; I will repay, says the Lord.* God exercises that vengeance through the magistrate, before whom the cause is to be conducted. But he who avenges himself, does not escape the vengeance of God.
+
+(2) *When with prepared work they transgress the command of God*, who has enjoined us to love our enemies; — and by this Christ has distinguished the sons of God from Ethnics — that these love only friends, but those love their enemies (Matt 5; Luke 6). — Christ has commanded not to be angry with the neighbor, and such anger he holds for homicide (Matt 5). Much more are homicides they who with angry soul wound the body of the neighbor, or even with intent inflict death upon him.
+
+(3) *When they hostilely attack the house of God, and study to devastate it.* For the *house of God is the body of every faithful*, as it is written: *ye are the temple of the living God, as God says: I will dwell in them, and walk in them, and I will be their God, and they shall be my people* (2 Cor 6:16). *If any man defile the temple of God, God shall destroy him* (1 Cor 3:17).
+
+(4) *When they destroy the useful organs of God.* For among those who among the gladiating perish, — not few are there, whose use in the commonwealth could have been, of which all hope is cut off in as it were a moment. As therefore one who is petulant to smash domestic vessels — without doubt does not do this with impunity, — so he who wounds the body of a man, or takes away life, — will not remain unpunished. For *no homicide has eternal life abiding in him* (1 John 3:15).
+
+*Finally, gladiators sin against the neighbor.* For as one whom they ought to love as themselves, — they descend into hatred and wrath, so that they think of nothing except of killing him himself, or certainly of wounding his body. And this they do to brothers, when they have one and the same Father in heaven. In these more than bestial is the ferocity: for beasts do not rage in their own bowels, but these men with many wounds and blows dispatch themselves.
+
+(2) *They usurp for themselves power over the life of another, which does not belong to them.* For *our times are in the hands of God* (Ps 31:15), *and no one has power over his own spirit* (Eccl 8:8), — much less can he take it upon himself over another's.
+
+*Finally, they sin against themselves*, first in body and life, of which they are so prodigal, that they expose them to a doubtful wind of chance. — If they succumb here, they have loss upon loss: if they are vanquished, then either they are mutilated in body's members, or even the soul angry and hateful from an unhappy body they pour out.
+
+*If they conquer, they become homicides*, — they wound their own conscience, and incur the punishment of the magistrate: which if to the greatest they escape, — the avenging God they cannot escape. *Vengeance is God's alone*, as we said.
+
+Moreover they sin against the soul, in that they deprive themselves of all grace of God — while they either soak themselves in the blood of others, or even angry pour out their own.
+
+And though many think that they are absolved from these injuries if before the meeting they are fortified with the Eucharist — such deceive themselves. For the *opus operatum* — which without faith and charity — is not worthy of the sacred fruit — the sacred Supper does not profit — except to those who well prepared accede in faith, and so worthily receive it. — Nor can there be any preparation in those who have full proposition either of killing or of wounding another. Their soul burns with wrath and hatred against neighbor; there is no reconciliation among them, — which yet Christ necessarily requires of those, — who wish to offer their gifts upon the altar (Matt 5). Such cannot ask of God the remission of their sins, — because he neither acknowledges sin, but persists pertinaciously in it, — nor has faith which is without charity, — nor does he himself remit to his neighbor.
+
+Truest therefore is here that which *Sirach* writes (28:3): *A man reserves wrath against his neighbor, — and seeks a remedy from God? On a man similar to himself he has no mercy, and for his own sins he asks pardon? He himself, being flesh, keeps wrath, — and asks propitiation from God; who shall entreat for his sins?* (Sir 28:3). — He is already as a homicide in the judgment of God condemned (Gal 5, 1 John 3, Rev 21), — and what minister of the Church will dare absolve him from his sins? Who against so manifest a word of God shall promise the grace of God? — Nay, he augments the sin, when to a solid substance for his iniquity, — the mystery he abuses. So great therefore in ways do they sin who to duel go forward: — from which sin, whoever wishes to honor God, love the magistrate, love neighbor, and is not prodigal of his own safety — in all ways abstains.
+
+Duelists have, indeed, their pretexts, whereby they consider it to be tolerated: **(1)** they appeal to a custom most-ancient of persons illustrious, who suits among themselves by iron in these settled. But merit here has place that of *Cyprian*: *Consuetudo without truth is aged error*; and *what once has come to be unjust, does not sustain longevity by continuance of time.* How impious then that custom be, from what precedes is agreed.
+
+Wherefore, as with God there is no respect of persons, — so neither the splendor of birth, nor the brilliance of one's office will excuse anyone, who against those thunders of the divine word, — which we have heard above, — dares to attempt anything.
+
+**(2)** They say that this is done at the command of a Christian magistrate — as of King *David* we have heard, who in a doubtful matter willed the truth to be explored by arms; — or they act tacitly-approving-yet-not-punishing. As also *Charles V*, Emperor, seems to allow duels by public rescript. — *Reply.* The magistrate is not to be obeyed in things which are against God and justice, or charity of the neighbor. Then to God we ought to obey rather than to men (Acts 5:29). Therefore rescripts against divine laws in ordinary force are to be corrected.
+
+And on the other hand there are examples of Christian magistrates, who set most grave penalties on gladiators — by which name are also styled duelists: — as *Louis IX, King of Gauls* — and *Henry, Elector of Saxony*. The former under pain of punishment of body, the latter in the laws of tournaments under pain of exclusion the challenger, and the challenged under pain of tenacious taking-away of arms — prohibited digladiations and duels. — For those wisest princes see into what peril the gladiators cast themselves and their own: since they thus temerariously despise truth.
+
+**(3)** They allege examples of *David*, who thrust himself into single combat with *Goliath*. — But singular and heroic deeds of holy men are not to be imitated. For the example of *David* is not to be imitated in the temerity — but by the impulse of the Spirit sprung forth, a young man, and a shepherd, but a future savior of his people, whom he was to bring into liberty — and in this itself a type of Christ Savior to come: — which all things another cannot rashly imitate.
+
+Moreover *David* was engaged not with a friend, or a companion of faith, but with a most-obdurate enemy of the people of GOD, who blasphemed and vexed God with blasphemies. — But what has this to do with our companions, brothers, and confessions of the same faith and religion — who yet for a light injury cast themselves into arms, and mutually wounds — if not death itself — inflict on themselves?
+
+**(4)** They say that by a duel occult things can be proved — whether some injury is truly done, since the truth cannot be by witnesses, nor by scripts, nor by other indicia detected.
+
+*Reply.* Cannot much be attributed to this kind of proof? — But this is one of those things of whose genus is proof by hot iron, or by water, or by oil — which today are called vulgar proofs, because they are of vulgar men, — and have not the force of proving, — neither by right nor by laws. Wherefore they frequently deceive; and it happens that he who has the better cause succumbs in this proof. — Which happens by just judgment of God, because nowhere is it read that he wished by proof either of a right cause or of innocence to be indicated in a duel.
+
+Therefore these lack the word, and word failing must be faith too. — But *whatever is not of faith is sin* (Rom 14:23). — Thus gladiators freely pollute themselves with sin. The magistrate however who permits this — tempts God, as though by an unknown sign to be manifested innocence or judgment upon men: — meanwhile it is fixed that the fifth precept — one strikes another under simulation of impious piety, wounds and threatens.
+
+Uncertain things in doubt are shown in Scripture: **(1)** by testimony of two or three (Deut 19); **(2)** by chirograph tablets (as in Jer 32:10 — *Jeremiah* buys a field in *Anathoth* and thence tablets sealed, and *when the debt is paid* he shows his chirograph); **(3)** public confession, as *Achan* is compelled by *Joshua* to confess *the theft, and to give glory to God* (Josh 7:19); **(4)** *by oath*, which *Paul* names *the end of all controversies* (Heb 6:16).
+
+If the magistrate by these means can produce nothing, it is better to acquit the accused and to commend it to God, than in a doubtful duel to give occasion of vengeance: for *what things God has willed hidden to us, we are not permitted to investigate* (Deut 29:29).
+
+**(5)** They say that both life and fame in the same rank must be held; every reckoning and fame is prostituted, if one challenged does not come forward, and thence ignominy is inflicted on the whole family. — This reason is greatly exaggerated by those who have such glory before men, greater than glory before God. — But Christians know that *nothing is to be done in contention or in vain-glory* (Phil 2:3). Better it is that a matter with the laws before the magistrate be tried, than that with one's own iron and by arms be decided. Life and fame in this genus is preparation to bear all things. Life which snatches from us — is not by our will taken away, — but from whatever ends do they come to prove injuries to another, they themselves lasciviate. — Madness is it therefore, as *Seneca* has said, *for a fool a fool to hire*: — the same is his who under pretext of a certain honor commanded another to whore or to plunder, would rightly hesitate — whether he honors his own honor by not obeying — but only then when he perceives *that he who acts thus temerariously against divine laws and human laws — his honor does not lose*, but would lose if he obeyed, because against express prohibition of God he would wound himself, — of set purpose the neighbor would kill, and expose his life to peril. This then would maim fame the more grievously, — when one against divine and human laws does something of set purpose, — which is easily proved of the gladiating. — For thus it is best to keep the safety of one's own life, — badly to condition oneself for common opinion of Christians, whom befits both to do well and to be ill spoken of.
+
+*Finally, in war it is decided as a foolhardy thing to commit the whole to a duel, when the cause is more just and the forces stronger — namely, to expose everything to the doubt of two, rather than to expose the whole to the hazard of one's army.*
+
+Yet duel is not always for grave cause: it has however the species of foolhardy. In a legitimate war one contends for the goodness of the cause, and does it, so far as in our strength is: to God however the event is committed with certain confidence, that through few he can defend a just cause, as through many, — which he has often done, — especially in Judges 7 and 1 Samuel 14.
+
+**(7)** They say a robber is licitly attacked by the sword, — why then not him who assaults my fame and reputation with insults? — But here is a wholly divulged difference. For a robber sets upon another, — against whom to defend oneself is of natural right. — But gladiators of a stipulation come together, that either the one or the other be wounded or killed. They have a proposition, — even if the thing before the legitimate magistrate could easily be shown, — and calumny.
+
+**(8)** Some allege special examples, in which about doubtful matters without sin decision is wont to be given. — But an example is plainly *extraordinary*: for even though lots have fallen, — yet without peril of life. — Nor even in matters concerning the life and safety of man are they to be admitted; nor is the proposition of harming the neighbor there — as in gladiations: but the event is committed to God, into whose will, whatever falls out — the pious ones acquiesce patiently.
+
+These are what gladiators are wont to object; — which since they are not of such moment, — nor able to bring in doubt the arguments alleged to the contrary — nor even to fracture them, — rightly duel and gladiation are entirely rejected.
+
+### Casus XIII. In what way is necessary defense of one's body against unjust violence to be undertaken legitimately, so that we may without sin proceed against another
+
+*Reply.* Scripture in this genus does not seem to depart from the law of nature. For the law of nature is: *it is licit to repel force with force* — whence in the *Codex, to the law of Cornelia*, on *Sicarii*, it is said: *He is who kills a robber or a violent enemy in doubtful discrimination is constituted an enemy — of the same is not to be feared any imputation.* Christ however seems to teach the contrary: *Resist not evil, — but if any smite thee on thy right cheek, — turn to him the other also* (Matt 5:39).
+
+For this cause the *Anabaptists*, in order that the assertion of Christ may have its own constancy authority, that law of theirs have entirely rejected, — as if the Gospel were contrary — thinking, that if we ought to live according to the law of nature, we could not be saved.
+
+To some of the Fathers also that vulgar saying — *that it is licit to slay a robber invading* — is not much acceptable. *Augustine* writes (lib. *De liberoarbitrio* c. 5): *That law I do not much reprove, which such (robbers invading) permits to be killed; but by what mode those who kill are to be defended, I do not find.*
+
+It is therefore to be known that the sentences of the law of nature themselves through corruption of nature are wont to be depraved — but must be regulated by the Word, and from every corruption purified. Thus that sentence — *it is licit to repel force with force* — is easily corrupted by wicked affections of private vengeance, or of licit revenge; or cupidity of vengeance is easily palliated by defense which is not necessary — therefore from Scripture must be sought a right explanation of this sentence, so that with the saying of Christ it may not fight.
+
+A right explanation of that sentence commonly is thus proposed: — *it is licit to repel force by force* — (1) when there is a sudden violence of the invader, such that by no reasoning, neither by fleeing nor by receding, canst thou escape; (2) when the invasion is obstinate, so that the invader continues in vain the deprecating injury. For if the invader flees or ceases to strike, — thou canst not either pursue him, strike him, or slay him; because thou art no longer constituted in peril; (3) when there is manifest violence, so that thou canst not by other manner of defense preserve body and life, unless by striking or killing; (4) when the magistrate is absent, so that thou canst not be helped, — and manifest peril of life is in delay; (5) when the moderation of unblameworthy defense is observed — that is, when such moderation is applied, without which injury cannot be repelled: for in legitimate defense it is not licit to use greater force than is necessary for warding off injury, — otherwise it would be revenge.
+
+*Three however are required to unblameworthy defense*: **(1)** *That defense be incontinent.* — For a lex delayed by any interval — is not one of averting injury, but seems done for the sake of vengeance. **(2)** *That it be not with soul or with proposition of taking vengeance, from grief of injury, but only for the sake of defense, — so that if by flight or other reasoning thou couldst take care for thyself, more willingly wouldst thou abstain from defense.* **(3)** *That parity of arms be observed — lest against one striking with a rod thou usest a sword or a bombard.* — With these circumstances observed, the defense of unjust violence is legitimate, — which does not fight with the Gospel of Christ, who has forbidden private vengeance, — not the necessary defense of one's own body.
+
+Such defense has certain foundations: **(1)** *In the law itself* the Lord commands: *If a thief be found breaking open the house, and having been wounded should die, — he who has struck him shall not be guilty of murder* — because he was in doubt whether he was invading to plunder or to slay. *But if he have done it after the sun-rise, he has committed murder, and he shall die himself* (Exod 22:2–3). In which case God himself has willed to be observed moderation of unblameworthy defense: — for to kill a thief taken in the act with weapon in day is rash, — because it cannot be discerned whether he came with proposition of killing, or of only plundering. *Augustine* (*Ep. 88 in Exodum*) explains this. — By day the father of the family can protect himself and his own by other reasoning.
+
+**(2)** *In hostile invasion*, from the law of charity, we are bound to free our neighbor from unjust force, — according to Prov 24:11: *Rescue those who are led to death, and those who are drawn to slaughter forbear not to deliver.* — So *Abraham* took up arms of his household for the defense of his nephew *Lot* against the force of the kings of the Sodomites (Gen 14:14). Much more is the defense of one's own body licit, because we are commanded to love the neighbor as ourselves — and charity begins with itself.
+
+**(3)** *Defense of oneself is of the law of nature*: about which *Cicero* writes in *De officiis* — *This is given by nature to every kind of animate creatures, that they defend themselves, — their life, — their body, — and that they avoid whatever seems noxious.* Which sentence is not abolished through the Gospel, but is thus explained, that unjust cupidities, hatreds, or enmities be not mixed in.
+
+### Casus XIV. Since therefore it is agreed that defense may be licitly undertaken, one may ask, — whether against a superior — as against a king, a father, or a master — may I in this case for the preservation and safety of my body be licit to defend
+
+*Reply.* Some are those who indifferently propose defense against any violent invader, — even not excepting the natural parent. So writes *Lessius* (*De just. et jure* 2 c. 9 dub. 8): *It seems to be conceded even to cleric and monk, this (namely, self-defense), and even against superiors, as of a monk against an abbot, of a son against his parent, of a servant against his lord, of a vassal against his prince, — in whatever office one is placed.*
+
+But whatever it may be of others, defense against parents I shall not lightly concede. For even if a parent be a tyrannical invader of his son, — while he does not fulfill the office of parent, — nevertheless he remains a parent, because that natural bond between father and son by no case is broken. Therefore a son must always honor his father, even the harder — and even the plainly tyrannical — which honor consists not only in word and in deed, but also in patience (Sir 3:9).
+
+Most-hard therefore, whatever it be — except death alone — a son must-and-ought to bear, than that death he inflict upon him from whom he naturally has his life. Which well understanding *David*, would not put a hand upon his father-in-law *Saul*, though he had come into his hands in the persecution itself (1 Sam 24:6, and 26).
+
+Also *defense against a prince* has not always place. When it is certain that from his death great will follow to the Commonwealth harm — namely, sedition, civil war, or something similar — it is better to bear even an unjust death, than to give occasion of so many disturbances by self-defense. Hence the *Apostle* concerning *any magistrate* (not excepting the tyrannical) wills every soul to be subject, as in Rom 13.
+
+The first Christians for the health of the emperors — though ethnics — used to pray: and elsewhere *Paul* writes, *every power is from God, and he who resists it — resists the ordinance of God* (Rom 13:1). — *And injury must be borne patiently* (Rom 13).
+
+Third, some judge, as says *Cajetan* (2.2. q. 63 art. 8), — one who by false witnesses or feigned criminations sets snares before the judge for my life, — because it matters little whether one invades with his own or another's sword. *Cajetan* however says he invades an innocent by the sword of the judge. — But this opinion is not without danger: because the soul of a man is too prone to suspicions of calumny, — which yet often are unfounded. — And thou canst escape that occasion either by legitimate defense, — or by testimony opposed, — or by other ways. But if thou hadst thought that only by the death of the accuser wast thou free from calumny, — many kills would receive occasion — which although in this century's forum they cannot be punished — yet in the forum of conscience there always remains a scruple, — whether the defense was legitimate, when calumniator could be met by another way. Better therefore even here, to suffer injury, than to another to inflict it.
+
+*The three requisites of legitimate defense, — recapitulated*: **(1)** *That we cannot otherwise protect ourselves than by death of the invader:* in which case, though it is licit indeed to inflict this on the invader, — nevertheless it is pious and philanthropic to permit oneself to be killed rather than to kill: — because in defense itself is peril lest either wrath or hatred be mixed in — and charity persuades to beware lest the neighbor sustain eternal damage of the soul, which for the moment was the cause; — as *Augustine* in the place above cited on ceded, — reads: — of the law which invaders permits — but does not find, how those who kill it defends. **(2)** *That he who defends himself against the invader — need not intend the death of the invader, but only the repulse of violence*: which if wounded and prostrated he can be safe from him — not with multiplied blows, — nor life to take away, could he attempt. If however from the first plague the hostile enemy dies, — this is not for what reason to have as blameworthy in scruple in conscience: because in that judgment of God he is absolved from homicide (Exod 22:2–3). — Yet let him grieve, that the invader has fallen into his hands, — from whose blood he would have chosen rather to remain immune. Those however who boast, that they have prostrated an invader — themselves prove that a soul not entirely alien from vengeance they had. **(3)** *That those who are suddenly and violently invaded by others may flee — are held.* If in flight-and-effort-and-toil-slipping he shall have trampled a fetus lying in the way that has died — of that thing they are not guilty, — because they did not intend the death of the infant, but beyond their will it happened.
+
+It suffices for their expurgation, if amid such distress a case they have applied circumspection, — such as it could be lawful.
+
+### Casus XV. Whether may the body of him who attempts to violate the honor of another be wounded even unto death
+
+*Reply.* The honor of a man is his chief treasure — so much so that peril of fame is equated with peril of life, and he is called cruel who neglects his own fame.
+
+*The honor of a man however can be violated four ways*: through contumely of word, through vain claim by right, or when a slap is inflicted on an honorable man, — especially in public. In all these cases some think defense to be licit — even up to the death of the invader. So writes *Cicero* (in the *Oration for Milo*): *When some rustic had come to a woman wishing to inflict force upon him — chaste, — and had killed him himself; — that man having been absolved by the Emperor Marius.*
+
+Thus by common opinion of the *Casuists*, — it is licit to slay a contumelious one, when otherwise that injury against another cannot be avoided, — even though it might not have arisen with arms: — as writes *Petrus Navarrus*, — the same *Lessius*, — that it is licit for an honored man to kill an invader, who wishes to strike him with a staff or slap — that he may bring ignominy — unless otherwise this ignominy may be avoided.
+
+Thus indeed they teach — showing themselves more concerned for honor and reputation than for consciences. — Though it is grave to a serious and honest man to suffer peril of his honor, — nevertheless no honor's estimation must be of such value, that by the life of another it be redeemed. — Nor does this matter lack hatred, wrath, or cupidity of vengeance.
+
+If the injury be verbal, — it suffices that by word it be expressed, and by legitimate vengeance before the magistrate be repressed.
+
+If real, it can also be repressed by real resistance, — that the incoming dishonor be repelled — not to take vengeance for the received slap, but to avoid infamy and ignominy — provided that be done at once, incontinently, upon the injury inflicted.
+
+But defense should not extend up to the death of the invader.
+
+The same manner *Augustine* on this matter disputes (lib. *De libero arbitrio* c. 5): He thinks that law, which gives power either to a man, that he may kill a robber lest by him he himself be killed, — or to any man or woman, that they may kill the violent violator before consummated stupration, if they can — that law, he says, is given to lesser men, lest they should commit greater sins. Much less indeed harmful is he who lies in wait against another's life, than he who guards his own. — And much more inhuman is it that a man be forced into stupration unwilling, than that the assailant be killed by the one on whom he attempts to inflict it. — That law, he says, does not compel anyone to kill; but leaves it in his power. — Therefore neither does he blame the law, but under what compact he defends those who confess they have not found themselves unstained. — On the other hand honor and up to the death of him who attempts to violate it, — to defend, entirely disapproves; — since honor is not in our power, but can be omitted even by those unwilling.
+
+Wherefore *Chrysostom* in *ep. 10 in Roman.* well governed us to the norm of that law, — a good man himself is not readily immersed but has this care, — lest anything be done against God and conscience: for which reason of him it is said: *He is not guilty of blood, but only of the body which he keeps as delivered.*
+
+*[T24 pickup: Liber IV Cap. II — De cultu animi (worship/cultivation of the soul), OCR ln 49057 / physical p. 776. Preamble transitions from body-care to soul-care with the doctrine that soul-cultivation is itself the cult of God — through piety, expurgation of vices, and moderation of affections. Casus I opens on faith as the first member of soul-cultus.]*
