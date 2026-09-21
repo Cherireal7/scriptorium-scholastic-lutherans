@@ -8742,6 +8742,196 @@ Which the *sacred foundation* imitates — for as they are seized by their affec
 
 Therefore ministers of the Churches in these regions have, *according to the received order*, — a peculiar consistory, — and by exemption from the audience of the secular magistrate they are exempted personally, — and ecclesiastical consistories are instituted, — in which judgments about ministers of the Church and of Schools are administered. — On which matter see the abundant *Chytraeus, in Vita Pauli* c. 19.
 
-*[T27 pickup: Liber IV Cap. VI — De ordinatione ministrorum ecclesiae (ordination of ministers of the Church), OCR ln 57534 / phys p. 913. Preamble: ordination = public and solemn confirmation of legitimate vocation, so that it may be known to all that this person did not seize the ecclesiastical office for himself, nor entered by fraud or robbery; it is act of the whole Church though executed by one person in the presence of the whole ministry, as Paul ordained Timothy 1 Tim 4:14 by whole presbytery. Anti-Papist rejection of ordination-as-sacrament (Trent Sess. 23 De sacramento ordinis can. 3): properly not sacramentum since not universal + confers no infused grace + only distinguishes ordinary vocation.]*
+```{=openxml}
+<w:br w:type="page"/>
+```
 
-*[VOLUME REMAINING: Cap. VI (De ordinatione ministrorum, ~ln 57534-58787), Cap. VIII (De officio ministrorum, ln 58788-61057), Cap. X (De magistratu politico, ln 61058-62505), Cap. XI (De subditis, ln 62506-63187), Cap. XII (De officio conjugum, ln 63188-65069), Cap. XV (De liberis + parentibus + servis, ln 65070-67594), Cap. XVI (De defunctis + sepultura + ultima, ln 67595-69119). Approximately 190 physical pages remaining. Estimated 3 more tranches to volume close.]*
+## Chapter VI. Cases of Conscience concerning the Ordination of Ministers of the Church
+
+*De casibus conscientiae circa ordinationem ministrorum ecclesiae.*
+
+### Preamble
+
+Ordination is nothing other than a *public and solemn confirmation of legitimate vocation*, — so that it may be evident to all that this person did not seize the ecclesiastical office for himself, — nor entered from elsewhere in the manner of thieves and robbers.
+
+It is however act *of the whole Church*, — although one certain person in the presence of the whole ministry executes it, — in which manner *Paul* ordained *Timothy* (2 Tim 1:6), and Timothy is said to have been ordained *with the laying-on of the hands of the whole presbytery* (1 Tim 4:14).
+
+**Whether ordination is a sacrament.** — The Papists in ordination make it a *sacrament* of the Church, as is clear from the Council of Trent, Sess. 23 *De sacramento ordinis* can. 3. But even if in a broad sense it might be so called, — properly however it is not a *sacrament*, — since it is not for all men, — whereas sacraments pertain to all members of the Church; — it has no perpetual and certain external element; — nor is there special application of grace: — on which matter more in many places by the Theologians.
+
+Better it is to call ordination *the solemn rite of ministers*, — by which the Church testifies of the legitimate vocation of the one being ordained, and of the gifts necessary for that office to which he is to be set over.
+
+Concerning this rite also certain doubts arise worthy of explication, — that the minister of the Word may have greater *αὐτοπραξίαν* [readiness for action] in his office: — of which, now with the Lord's help, briefly we shall treat.
+
+### Casus I. Whether the offices of ministry may be exercised, — even if he shall not have been ordained
+
+*Reply.* Ordination is *not simply and absolutely necessary*. — For such times may fall in, — in which it cannot be procured, — such as the time of war or of plague, — where nonetheless the office of teaching and administering sacraments in the Church is not to be neglected.
+
+Neither is it *divinely commanded*, so that it cannot be omitted; — nor is its effect such — as is *feigned in the Papacy* — that without it the exercise of office cannot be omitted; — nor does the efficacy of ministry depend on ordination, — as if without it the Gospel could not be usefully taught: — but it is *an ecclesiastical rite*, — which commends the minister to the Church, — and admonishes him of his certain function.
+
+**Yet outside the case of necessity ordination is not to be omitted.** For:
+
+**(1) On account of the *use of the primitive Church*.** — For always in the Apostolic Church was ordination used, — as we have shown in Casus I of the preceding chapter [*De vocatione*]; wherefore *Timothy* by this rite was appointed by *Paul* to the ministry, — nay was confirmed in his office (1 Tim 4:14; 2 Tim 1:6).
+
+**(2) On account of the *example of the Apostles*.** *Christ*, — with respect to Baptism, which he received from *John* the Baptist, — nonetheless was confirmed *by an heavenly voice*, when he first began the office of the Gospel-teacher. *Paul* after conversion was confirmed in his call by *Ananias* through the *laying-on of hands* (Acts 9:17), — and afterwards again by this rite the *doctor of the Gentiles* was confirmed (Acts 13:2-3).
+
+**(3) On account of the *utility* which redounds thence to the ministry of the Church.** — For by this rite the public minister is *segregated from the rest of the people*, — as it were the *peculium of God*, — as the Holy Spirit spoke concerning the ordination of *Paul* and *Barnabas*: *Separate to me these to the work whereunto I have taken them* (Acts 13:2). — Also they are adorned by gifts necessary to their ministry, by the power of the prayers which are poured out over the ordinand.
+
+Whence *Paul* admonishes *Timothy* — *neglect not the gift which is in thee, which was given thee through prophecy with laying-on of the hands of the presbytery* (1 Tim 4:14). See more on this matter in the *Institutio ministrorum verbi* c. 5 p. 25.
+
+**(4) It is like a *tessera and public sign*,** — by which the ordinand is reminded that he is placed under the protection of God for the whole time of his office, — and by a certain sacred office is to be consecrated and as it were dedicated.
+
+**On the rite of hand-laying.** — *Christ* when he consecrated his own *Apostles*, — did not lay hands upon them, — but employed *another rite*, — namely the *breathing* — that they might not think the grace of God and the efficacy of the ministry to be bound to this rite, — and that an evident distinction remain between them and other disciples.
+
+When however that act by that ceremony could not be effected, — they employed *the imposition of hands upon the head of the ordinand*, — since that rite was *sacred and legitimate*. For by *the imposition of hands* the *Patriarchs* distributed blessings (Gen 48:14); — priests consecrated victims (Lev 8:10); — magistrates and priests were inaugurated (Num 8:10); — the sick were healed (Mark 16:18); — visible gifts of the Holy Spirit were conferred (Acts 8:16-17; 19:6, 17).
+
+**(2) Because by this rite the person is consecrated to public office and to the ministry of God,** — as *Timothy* of old — as we have said — by this rite was consecrated to God, and the *Levites* likewise (Num 8).
+
+**(3) Because it was signified that the prayers poured out over the ordinand would not be *in vain*, — but would bear the blessing of God**, — in the manner in which the *Patriarch Jacob* blessed his grandsons by *laying-on hands* (Gen 48:14), — and *Christ* blessing infants *laid hands on them* (Matt 19:15; Mark 10:16).
+
+**(4) Because it is expressly enjoined** — that hands be laid upon the *Levites* to consecrate them to the ministry (Num 8), — that by this rite they might be admonished of the protection and defense against the injuries of *Satan and the world*, — to which ministers of the churches are more than others exposed.
+
+Hither without doubt looked the *Apostles*; — for which causes we also today use it in the ordination of ministers, — from the liberty of the Church, — after the example of the Apostles, — and on account of the useful admonitions.
+
+**Rites are used freely — yet not to be lightly omitted.** Although with liberty however we use these, — no one nonetheless *temerariously* can omit or change them, — because they have now for many years been received in the Church, — nor could a change be made without scandal of the Church, — or without disturbance of the ordinand, — as though his ordination were not legitimate.
+
+Nor can we approve those who — to avoid the opinion of necessity or of worship — receive imposition of hands as *a sign of faith, love, fellowship, and consensus in the doctrine-symbol*, — as they urge in *Formula Concordiae* Sol. Decl., *De coena Domini*.
+
+For what the Church has once received, — and which without scandal it cannot omit — is not temerariously to be omitted. For it is nature of rites that things which of themselves are *adiaphora*, — through long use and custom of the Church may become *necessary*, — since without evident scandal of the Church they cannot be omitted.
+
+### Casus II. Whether he who himself is not ordained can ordain another
+
+*Reply.* Some there are who in the promotion of *Doctors of Theology* affirm that this power is conceded to them: — not only of teaching in office, but also of administering the sacraments, of ordaining others, — even if they themselves are neither ordained by the imposition of hands, — nor are they part of the ministry.
+
+But how gravely these are deceived — I have shown *proliferently* and *sufficiently* in the *Institutio ministrorum* c. 5.
+
+**Certain it is however that doctoral promotions are only *Academic acts*, in which there is no ordination to the ministry: — but ordination is a *ministerial act*, in which alone is conferred the power of ordaining others and of administering sacraments.**
+
+And it is an ancient canon: *no one is who is not ordained by another*. Which principle is expressed in the canon Grat. dist. 14 c. 4; whence *Damasus* likewise writes (lib. *De iure ordin.* c. 13): *Concerning the minister of ordination the matter is perspicuous, since the Church never acknowledged presbyters ordained by presbyters, but only ordained by bishops*.
+
+Nor is it permitted in Academic colleges — that anyone should confer honors of the mastership or doctorate on another, — who himself is not distinguished by such degree: — how then is it that some dare to confer on others ordination to the sacred ministry, — when they themselves are not ordained?
+
+### Casus III. Whether one is legitimately ordained who is not ordained by a bishop
+
+*Reply.* The *Pontificals* defend the negative of this question, — who commit the power of ordination *only* to bishops, — as is clear from the Council of Trent, — where the anathema is: *He is not ordained who is not ordained by a bishop*. See *Bellarmine* lib. 5 *De clericis* c. 2; *Gretser* in *Summa casuum conscientiae, de sacramento ordinis* quaest. 2; and *Stapleton* in *Promptuario* *S. Andreae* Dominica c. de eccl.
+
+**They understand however by *bishops* — not doctors of the Church**, — such as *Paul* describes at 1 Tim 3; but *those prelates* — who beyond the title are nothing, — since it is truly what *Jerome* calls *episcopulos* [little bishops].
+
+**Our sentence however is:** ordination pertains *to the whole Church*: — for she calls and ordains ministers, — which right of hers she executes through the ministry, — whose administration of execution is carried out through the bishop, or first-in-the-Church, — as head of ministry.
+
+**The bishop has his priority in ministry, — not by divine right**; — which right of commonly teaching and administering sacraments concedes to presbyters and to deacons, — equally as to bishops, — for whom the names also are common: for the presbyter is called *bishop* (Acts 20:17; Phil 1:1; 1 Tim 3:1; Titus 1:6-7), — and the bishop is called *presbyter*, — in the manner *Peter* — who was bishop (Trent does not deny it) — calls himself *συμπρεσβύτερος* [fellow-presbyter] (1 Pet 5:1). — But he has by *free disposition of the Church*, — which willed that for order's sake the *bishop* or *first-in-ministry* should ordain in the Church, — in the presence of and with the laying-on of hands of the whole presbytery, — yet in such a way, that in the absence of the bishop, — even a presbyter or some deacon might perform his role in this genus, — in the manner also the bishop that of the presbyter, — lest anything in the Church be neglected. *For nothing else is a bishop than a first presbyter*, — as *Augustine* says in quaest. 101 ex NT.
+
+Therefore *in the absence of a bishop the presbyter consecrates*, — as *Jerome* writes in cap. 4 *ad Ephes*.
+
+**Reply to objection.** — These things being so, — nothing is there which in the ordination of our ministers could be desired. For:
+
+**(1) That great difference** which the Papists put between bishop and presbyter, — as though solely with the former resides the power of ordaining — Scripture does not acknowledge.
+
+**(2) Papal bishops do not do the office of a bishop**, — by teaching, and by having true care of the Church, — according to the prescript of the Apostle (Titus 1:3, 9); — but they are *political princes and dynasts*, — who perform no work or office of the Church. For if they did this, — it would be permitted them from charity, on account of tranquillity of the Church, — but not from equity, — to ordain evangelical preachers and to confirm them, as *Luther* speaks in *De Smalcald.* p. 5.
+
+**(3) The Papal bishops do not themselves ordain**, — but commit this work as vicarial to *suffragans*, — who have neither right nor episcopal power, — but are at most presbyters: — why then may not our presbyters ordain in the Church?
+
+**(4) Scripture attributes ordination to the whole presbytery, — not to the bishop separately** (1 Tim 4:14): *Neglect not*, says the Apostle, *the grace which is in thee, which was given thee through prophecy, with the imposition of hands of the presbytery*.
+
+**(5) Even the *Apostle Paul* — no inferior to episcopal dignity** (for the apostolate is the episcopate — Acts 1:20) — received *ordination from the presbytery of Antioch*, not separately from a bishop (Acts 13:2-3); which *Stapleton* also attests in his *Promptuarium Catholicae Dom.* 5 post Trin.
+
+**(6) Even *canon law* concedes to presbyters the power of ordaining**, — as we have Grat. dist. 68 cap. *Quoniam*, where these things are read: *When a chorepiscopus ordains, — if with the consent of the diocesan bishop, — he is pontiff by ordination of the presbytery*.
+
+From all these things evidently we collect — that concerning the ordination of *Luther* and of other *Lutheran* ministers no doubt can rightly be raised: — much less however of those who at the beginning of the Reformation were ordained by *Luther* — the ordination of any of these cannot be called into doubt.
+
+For if Papal bishops had wished to give suitable ministers to the reformed churches, — *Luther* would not have opposed their ordination; — but because they themselves refused to ordain our ministers, — unless they returned to the bosom of the Papist Church, — necessity demanded — that the *presbytery*, *more majorum* [after the manner of the elders], should ordain the ministers of its Church: — *for confession is most in fault, when it is not to be deserted, — nor is the ministry to be omitted, — as Luther says in the place already cited.*
+
+**Nor is it wrong** what those do — who even from foreign places send back to ecclesiastical consistories for the cause of ordination.
+
+In defect however of consistories, — it makes no difference, — if any church, — especially in larger *republics* — where the ministry with the *public senate* constitutes a consistory, — with communicated works and votes of the whole presbytery, — should ordain its own ministers, whom in examination it has found worthy, — as we know was done *at the beginning of the Reformation*, before consistories were erected.
+
+### Casus IV. Whether the *political magistrate* in any place has the right of ordaining his ministers
+
+*Reply.* If it were a matter of the *strict ecclesiastical right*, — we would not deny — since indeed this right of ordaining is with the whole particular Church: — but because here it is a question of the *execution of this right*, — it cannot be conceded to all churches: — but anciently was, and in the reformed churches is now, with those churches — where there are *ecclesiastical consistories* — which have episcopal jurisdiction. — Which order in the *Churches of the Augustanae Confessionis* [Augsburg Confession] now customary — no one ought to overturn. For what it has, is right; — for this is used according to the Apostle's saying: *all things are lawful to me, but not all things are useful* (1 Cor 6:12).
+
+They also do rightly, who from *external places* send back to ecclesiastical consistories for the cause of ordination.
+
+In defect of consistories however, — it makes no difference, — if any church, — especially in larger republics — where the ministry with the *public senate* constitutes a consistory — with communicated works and the votes of the whole presbytery, — should ordain its own ministers, whom it has found worthy in examination — in the manner it is known was done *at the beginning of the Reformation*, before consistories were erected.
+
+### Casus V. Whether one ordained by some heretical sect, — if with the truth grasped he adjoin himself to the orthodox churches — must again be ordained
+
+*Reply.* This question is of those who *have already discharged public ministry in the church of the heretics*, — and are still called ordained by their own, — such as, for example, are the *sacrificers* and *presbyters in the Papacy*, — who, — with the truth acknowledged, — accede to our churches, — and are promoted to ecclesiastical offices. — Whether by these a new ordination is needed?
+
+The diverse sentences of the Theologians I am not ignorant of: — safest however I judge, — that such a one shake out his own conscience: — which if he judge — that with tranquil conscience he can perform office in our churches, — if with our rites also he uses the sacrosanct ministry, — nothing hinders, — but that he may receive ordination from us: — for the reason of *ordination is not the same* as of *baptism*, — which cannot be iterated. This latter is a sacrament of the Church; — the former is an external rite only.
+
+If however by this name he is not troubled, — his ordination which he received *in the Papacy* — he can be content with. For there is no necessity of *iterated ordination*: — but wherever there is still any Church, — which has *baptism substantially entire*, — and preaches *some part of the word of God*, — such as the Sunday Gospels and Epistles, — the history of the Passion, — the Apostolic Symbol, — there also ordination to ministry can be *true*, — even if in external rites it is *corrupt*, — provided in its substantials it is left entire, — that is, — some power of teaching the word of God is committed through the prayers of the Church: — which we cannot deny to be done *in the Papist Church*, — even if the ministry is impure enough.
+
+**Rationes for our assertion are these:**
+
+**(1) Because ordination is not an act of *corrupted ministry*, but of the *whole Church*** — which even a corrupt ministry can execute, — provided the substantials of the matter be left entire. Thus a corrupted ministry administers baptism truly, — as long as it does not change the substantials of it. — So then also it can have true ordination, — even if it add certain Ethnic disguises and larvas — which cannot detract from the substance of the thing.
+
+**(2) Because sacrificers and *Levites* in the Old Testament were ordained among the Jews, — and were consecrated to the ministry very corrupt**, — of which the Prophet says: *All his watchmen are blind — they are all ignorant* (Isa 56:10). The *Pharisees* also and *scribes* ordained others like themselves, — and yet Christ said — *they sat in Moses' seat* (Matt 23:2), — by which very thing he approved the consecration and ordination they had received.
+
+**(3) If baptism from the *Donatists* and other heretics — who did not overthrow the substance of that sacrament — is *received without iteration*, much less should ordination be**, — of which the necessity is greater — since a sacrament is a certain necessary act of the Church, — ordination is not so, — but is a certain necessary rite.
+
+**(4) In the same manner the Fathers argue from the example of baptism concerning ordination not to be iterated of heretics.** *Gregory* (lib. 1 epist. 25) to *John* bishop of Ravenna Catholic asks — *what should be said of one ordained again? It is very ridiculous. May it seem to your fraternity so to reflect. — As baptized once is not baptized again, — thus the once-consecrated in same office should not be ordained again*: — which testimony is cited in *Grat. non modo dist. 68 cap. sicut semel*. In the same sense *Augustine* has lib. 2 *Quaest. Petiliani* c. 11: *If sometimes those baptized in schism by error are again baptized, — it seemed useful — that they should perform the same offices they used to perform, — they are not again to be ordained: — but as baptism in them, — so also ordination remains entire, — since in precision the vice was, — that being cut off from unity was corrected, — not the sacraments, — which wherever they are, they themselves are*. And a little after — *iterated ordination is vicious — but judged worthy of pardon*, — if it was done through ignorance and *καλῷ φρονῆμα* [with good intent].
+
+**(5) The same is confirmed by the *praxis of our churches***. For *Luther* and others *in the Papacy ordained*, — after they acknowledged the errors of the Papist Church, — were not again ordained, — but were content with the ordination which they had received in the Papacy, — and no one blamed this in them; — nay *Luther* in art. 10 *Smalcald.* urges — that the laws affirm — the ordained by heretics are truly ordained, — and that ordination is not to be changed.
+
+**(6) By this sentence we can more firmly maintain the ordination of *Luther* and of others who were ordained in the Papacy — against the *calumnies of the Romanists***, who from time to time cry out that we do not have legitimately-ordained ministers. For laughing they are compelled to confess — that those in the Papacy received true ordination, — and impressed *an indelible character*; whence we can conclude — that the vigor of that ordination always remains, — as is very clearly taught in the law *Canon. dist. 1 quaest. 1 quod quidam*: — where it is said — *those who are separated from the Catholic church by error of schism* — nothing less receive the sacraments — *not only in act first, but even in act second, — with respect to the collation of baptism*. And *Gretser* in *Luther Academician* writes: *that priesthood impresses an indelible character*, — by which it comes about — *that whoever the priest remains, — as long as the character remains, — that is, in perpetuity*. — Iterated however ordination of *Luther* and of others would seem to weaken, — and would give occasion to many defections.
+
+**(7) If necessarily the ordination of those must be iterated who were ordained in the Papacy — doubt must be raised about all their ministry, — chiefly however about *baptism* administered by them, — and thence dependent men's eternal salvation**: — whence the scruple would infect those who were baptized by them, — whether it was a true and salvific baptism, — which sole reason would suffice — lest we ordain-again in Papacy those, — who to our Church acceded — should be reordained by us.
+
+**Objections + reply.** Some object however who feel the contrary: — **(1) The person of the ordainer** was one who was not a shepherd of the Church, but a *wolf*, — who could not commit sheep to be fed by others. **(2) The *corrupted form*** — for which propagation he was ordained, — namely for the sacrificing of the Mass, — for the communicating under one species, — for anointing the dying, — and other idolomanias to be exercised.
+
+*Reply.* Here distinction must be made — between the *offices of those* who in the Papacy ordained others. *Certain things they did* — as wolves and slaves of the Pope — such as those which in the objection are commemorated; — but *the rest*, — which are *mandates of God*, — and are *mere inventions of men*: — certain things they did *as ordinary ministers of the Church*, — insofar as with the precepts of God they agreed, — as when they baptized infants, — ordained other ministers, — joined spouses, — buried the dead.
+
+In these offices — *the works of God are to be distinguished from the works of men*. The latter are done by ministers of Antichrist, — because without mandate of God; — the former are to be ascribed to God himself, — who through corrupt ministers works his own — in the manner in which in the *Jewish Church* even idolatrous priests to God themselves offered their sons and daughters (Ezek 16); — through the ministry of the *Pharisees* Christ himself was circumcised, — sacrificers ordained, and similar things did, — even though they themselves — in their own traditions — remained.
+
+Thus *Luther* — when he was ordained in the Papacy, — was ordained to the ministry of the word of God: — but when he distinguished the precious from the vile, — and with the abominations of the Papacy left behind — began to teach the word of God pure, — of a new ordination he had no need, — but with the ordination in the Papacy he was rightly content.
+
+The same judgment is to be made about others once ordained in the Papacy, — and afterwards to acknowledgment of the truth converted; — of whom see more things in *Phosphorus veri Catholicismi* lib. 4 cap. 12 pag. 138 and following.
+
+### Casus VI. But what should be determined of those, — who today from the Papacy, — or from other heresies altogether alien from Christian faith, — depart, — and desire to be advanced to the ministry from Papal bishops or from heretical churches
+
+*Reply.* Of these the reason is different. For after they have acknowledged the *errors of some Church*, — it is not lawful for them any longer any way to communicate in her sacred things — lest they *approve* them: — for this would be *unequally to yoke themselves with unbelievers*, — which the *Apostle* expressly prohibited (2 Cor 6:14).
+
+And to what purpose is it to seek ordination from the *Pontifex* or from other heretics, — when it can be obtained in an orthodox Church? — Certain it is — that *Papal bishops confer sacred orders on no one*, — who does not swear to hold the doctrine of the *Roman Church*, — nor may anyone be admitted to ordination — unless he swear obedience to their *Ordinary*.
+
+We know that Papal bishops are *wolves and devastators of the churches*: — who then knowingly and willingly by these desires to be ordained, — and as it were begs a shepherd from a wolf to be given him to care for the sheep committed to him?
+
+*Cavere* [beware] the *Prophet* commands us from the *Roman Babylon* (Rev 18:4; Isa 48:20; Jer 51:9): — and would anyone so dement be, that he cast himself to them, — that ministry in an orthodox Church could be committed to him?
+
+What cause can there be — that from a *Papist* rather than from an orthodox any minister should seek ordination?
+
+The one who has ordained you is your capital enemy and persecutor of the Church, — whose ministers are: traditions of men, — which he equates with the word of God, — and to be propagated commands, — and no contradicting-*examination* to lie in the way — but of course expects, — which the *Roman Pontifical* p. 5 sets before our eyes, — where these words are read: *In the ordination of the presbyter is required scientia grammatica, — especially if he be secular, — to whom the care of souls is to be committed, — since it cannot be exercised without letters. Let there be examination also of his birth, — whether he is of legitimate birth or by Apostolic dispensation and privilege has been legitimated; — of freedom, — namely if he is neither servant nor obliged to civil station, so that with Joseph in Egypt at will of an owner*. *Let there be discernment also of the integrity of his members, — lest he be maimed by any debilities, — deformities of continence, — palpable-obviously*: *nor from monsters be commended by anyone to sacred orders. Let his belly be pushed in, — let his fingers, — his hands be strong, — and his feet, — if it happens to be needed, — be shod, — unless perhaps they be wooden. — And finally with the whole body considered, — let nothing bad or shameful appear*.
+
+Hear you of examining the Senate: — nothing of the cognition of the *articles of Christian faith*, — nothing of other requisites — which the Apostle demands in the ordinand — either in *first Epistle to Timothy* c. 3, or *to Titus* c. 1.
+
+The *rites* also which the bishop employs in ordination itself, — are these: — two *Pontifical* bishops hold the codex of the Gospels over the head and neck or shoulders of him; — a *mitre* is imposed on his head, — a *ring* is given to him, — a *staff*, — *gloves*, — and these substantials of ordination *Durandus* calls in lib. 3 *rationalis divini officii* cap. 11.
+
+All these things — partly *superstitious*, — partly *ridiculous* — is compelled to approve — he who from the *Pontifex* ordination seeks: — but who can do this with good conscience?
+
+Therefore this ordination is to be held for nothing, — nay he is worthy of hate, — who having the care of the orthodox Church committed to him, — and from the enemies of the Church, — whom he well knows, — knowingly and willingly seeks the confirmation which — through impious rites — is customarily done.
+
+Nor does that excuse — that such a one with an *evangelical protestation* undertakes what is to be ordained, — namely that he receives not the traditions [of men], — but the dogmas conformable to the sacred Scripture as those to be proposed. — For this protestation is *deceitful* and *contradictory*; — because Papist ordination itself is *part of the Papist doctrine*, — nay a *sacrament* of that Church, — which error he who is ordained knowingly-willingly approves.
+
+**Wherefore it is better to repudiate such an ordination utterly, — than to attend to that vain protestation**: — which I have shown at large in the *Dialogus circa altare Kilonianum* some years since edited: — where the response of the *Wittenberg Theologians* to such a genus of ordination — that in *orthodox churches* they judge unavailable — is retained: — but if not can be, — *always to seek from Roman ordination — as we read to have been done by learned* Wanceslavius Sturmius* — is a mandate of princes at his time, — as I have gathered from part 1 of *Consiliorum Dedekennianorum* fol. 39 seq.
+
+**Nor is it enough**, — that one from tender years has learned the sacred letters, — and *animo* has drawn *the intention of serving in the Church*, — wherever the Lord shall command him to go, — but he must also *be called to some certain church of his own citizens*.
+
+The *Apostles* alone had power to teach — and wherever they had come; — but they themselves committed *ministry of teaching* only to others, — through the imposition of hands, — after they had already passed through and been elected to teach at certain churches.
+
+Hence in the *Council of Carthaginian* c. 6 it was cautioned — that no one absolutely be ordained, — unless to a certain and special Church.
+
+Not without reason is the custom of the *Church of Germany* repeated, — where some in Theology instructed — are sent to *foreign churches*, — being prepared, — even if into some church not yet been chosen. For no Church has the power of sending ministers to whom she has not consented to a certain place, — nor is anyone to be admitted from unwilling place. See *D. Chemnitz* p. 3 E. C. loco *De ecclesia* c. 4. — More things pertaining to ordination of ministers, — in the *Institutio ministrorum verbi* c. 8 and 9 I have set forth.
+
+### Casus VII. Whether anyone can be admitted to ordination, — whose vocation is not consented to; — nor whether anyone from the place unwilling can be admitted, — who has not been dismissed
+
+*Reply.* No one is to be ordained without preceding legitimate vocation: — of which more above in Cap. V. In an ordination without previous vocation, — the place is not indicated to the ordinand, — where he should apply the labors of his office. And from an unwilling place — no one is to be received against his will.
+
+The *Apostles* alone had power to teach wherever they had come; — they themselves however committed *ministry of teaching* only to others through the imposition of hands, — after these had already been elected to teach in some certain Church.
+
+Hence in the *Council of Carthaginian* c. 6 it was cautioned — that no one *absolutely* be ordained, — unless to a certain and special Church.
+
+Not to be blamed is the *custom of the Church of Germany*, — where some — in Theology instructed — are sent to foreign churches to be *prepared*, — even if in no church have yet been chosen. For no Church has power of sending ministers to a place — where she has not been consented, — nor is one to be received from unwilling place. So *D. Chemnitz* p. 3 *E. C.* loco de *Ecclesia* c. 4.
+
+More pertaining to ordination of ministers I have set forth in *De institutione ministrorum verbi* c. 8 and 9 to progress in Christ.
+
+*[T28 pickup: Liber IV Cap. VII — De officio concionatorum ecclesiae (office of preachers of the Church), OCR ln 58116 / phys p. 925. Preamble: office of ministers legitimately called consists in 4 members: (1) propagation of true doctrine; (2) administration of sacraments; (3) reproving delinquents with word — elenchtic office; (4) preservation of order and discipline of Church. Each has its own cases. Cap. VII treats preaching-office cases.]*
+
+*[VOLUME REMAINING: Cap. VII (De officio concionatorum, ln 58116-58787, ~15 pp), Cap. VIII (De administratione baptismi, ln 58788-61057, ~45 pp), Cap. X (De magistratu politico, ln 61058-62505), Cap. XI (De subditis, ln 62506-63187), Cap. XII (De officio conjugum, ln 63188-65069), Cap. XV (De liberis + parentibus + servis, ln 65070-67594), Cap. XVI (De defunctis + sepultura + ultima, ln 67595-69119). Approximately 175 physical pages remaining. Estimated 2-3 more tranches to volume close.]*

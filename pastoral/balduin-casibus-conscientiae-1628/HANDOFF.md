@@ -1,6 +1,6 @@
 # Handoff — Balduin, *Tractatus Posthumus de Casibus Conscientiae* (Wittenberg, 1628)
 
-**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T27 are done — Liber I is COMPLETE, Liber II is COMPLETE, Liber III is COMPLETE, and Liber IV Cap. I–V are COMPLETE. The next tranche is T28 (Liber IV Cap. VI *De ordinatione ministrorum*, OCR ln 57534 / phys p. 913; ~190 pp remaining, ~3 tranches to volume-close).** T2–T27 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter. Everything needed to pick up at T28 is here or in the paths named here.
+**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T28 are done — Liber I is COMPLETE, Liber II is COMPLETE, Liber III is COMPLETE, and Liber IV Cap. I–VI are COMPLETE. The next tranche is T29 (Liber IV Cap. VII *De officio concionatorum*, OCR ln 58116 / phys p. 925; ~175 pp remaining, ~2-3 tranches to volume-close).** T2–T28 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter. Everything needed to pick up at T29 is here or in the paths named here.
 
 ## What this project is
 
@@ -21,25 +21,26 @@ Translating **Friedrich Balduin** (1575–1627) · ***Tractatus Luculentus, Post
 | Liber IV Cap. III | *De bonis fortunae* (wealth, 9 Casus) | ✅ T25 |
 | Liber IV Cap. IV | *De vitae generibus* (kinds of life/calling, 10 Casus) | ✅ T26 |
 | Liber IV Cap. V | *De vocatione ad ministerium verbi* (Word-ministry vocation, 12 Casus) | ✅ T27 |
-| Liber IV Cap. VI–end | Ordination, ministerial office, magistrate, subjects, marriage, family, death | ⏳ T28–T30 |
+| Liber IV Cap. VI | *De ordinatione ministrorum* (ordination of ministers, 7 Casus) | ✅ T28 |
+| Liber IV Cap. VII–end | Preaching-office, sacraments, magistrate, subjects, marriage, family, death | ⏳ T29–T31 |
 
-**~190 physical pages remain / ~3 tranches to volume close.**
+**~175 physical pages remain / ~2-3 tranches to volume close.**
 
-## Immediate resume point (T28)
+## Immediate resume point (T29)
 
-Open OCR at **`sources-original/balduin-casibus-1628.txt`** line **57534** (physical page 913). The `CAPUT VI.` header starts Cap. VI *De casibus conscientiae circa ordinationem ministrorum ecclesiae*. Cap. VII appears next around ln 58788 (running header shows `CAPUT IIX` = OCR corruption; content will confirm as VII or VIII).
+Open OCR at **`sources-original/balduin-casibus-1628.txt`** line **58116** (physical page 925). The `CAPUT VII.` header (OCR corruption: appears as `tAPUT VH` on same line as `CASUS I`) starts Cap. VII *De officio concionatorum ecclesiae*. Cap. VIII (`CAPUT IIX` in OCR) appears at ln 58788 (physical p. 936) starting the sacraments-administration section.
 
-Cap. VI approximate scope: ln 57534 → 58787 ≈ **1250 lines / ~25 physical pages**. Manageable in one tranche.
+Cap. VII approximate scope: ln 58116 → 58787 ≈ **670 lines / ~11 physical pages**. Very manageable — could bundle with Cap. VIII for one tranche if wanted.
 
-**Preamble to note:** Ordination = *public solemn confirmation of legitimate vocation* so all may know this person did not seize the ecclesiastical office nor enter as thief/robber. It is act of the whole Church though executed by one person in the presence of the whole ministry (Paul ordained Timothy 1 Tim 4:14 with the *whole presbytery*). **Anti-Trent**: ordination properly not a *sacrament* (Council of Trent Sess. 23 *De sacramento ordinis* can. 3 rejected) since not universal, confers no infused grace, only distinguishes the ordinary vocation.
+**Preamble to note:** Office of ministers legitimately-called consists in 4 members: (1) propagation of true doctrine; (2) administration of sacraments; (3) reproving delinquents with word — *elenchtic office*; (4) preservation of order and discipline of Church. Each has its own cases-of-conscience. Cap. VII treats preaching-office cases specifically: preaching to Scripture-prescription + libri symbolici; reproving delinquents by name; elenchtic office cannot be omitted; whether minister can be summoned before magistrate for vehement rebukes; whether magistrate himself is to be rebuked publicly.
 
 ## Remaining tranche plan
 
 Rough boundaries from OCR `CAPUT` markers (some corrupted, verify by content):
 
-- **T28** — Cap. VI *De ordinatione ministrorum* (ln 57534–58787, ~25 pp)
-- **T29** — Cap. VII/VIII *De officio ministrorum* + associated ln 58788–61057 (~45 pp; may split further)
-- **T30** — Cap. X onward (ln 61058–69119, ~160 pp — LARGE; consider T30 = Cap. X + XI political-magistrate + subditi ~40 pp, then T31–T32 for marriage/family/servants/closing-death chapters)
+- **T29** — Cap. VII *De officio concionatorum* + Cap. VIII *De administratione baptismi* (ln 58116–61057, ~55 pp)
+- **T30** — Cap. X onward (ln 61058–69119, ~160 pp — LARGE; consider T30 = Cap. X + XI political-magistrate + subditi ~40 pp)
+- **T31** — Cap. XII marriage + Cap. XV liberi/parentes/servi + Cap. XVI closing death chapter (~120 pp)
 
 Chapter titles in remaining book (approximate, from running headers + content):
 - Cap. VI — Ordination of ministers (ln 57534)
@@ -55,7 +56,7 @@ Book ends at ~ln 69119 with **AMEN body-doxology** on physical p. 1109. Back mat
 ## Where the files are
 
 - **OCR source**: `sources-original/balduin-casibus-1628.txt` (75,390 lines from PyMuPDF extraction; use `sources-original/extract.py` to re-extract if ever needed).
-- **Translation MD** (append here): `review/balduin-casibus-conscientiae-1628.md` — currently ~T27 in length. Append T28 by replacing the *[T27 pickup / VOLUME REMAINING]* placeholder block at the end.
+- **Translation MD** (append here): `review/balduin-casibus-conscientiae-1628.md` — currently ~T28 in length. Append T29 by replacing the *[T28 pickup / VOLUME REMAINING]* placeholder block at the end.
 - **Build machinery** (for Stage 5): `build-shareable.ps1`, `update-fields.py`, `reference-balduin-casibus.docx` — Kirchner-precedent pipeline.
 - **Notes**: `notes.md` (source-plan, tranche-plan, structural map).
 
@@ -69,6 +70,7 @@ This book has **multiple re-set signature reprints**. Confirmed duplicates so fa
 - Liber IV Cap. II pp. 793–805 (reprints Cap. II Casus VII–IX = fear/joy/liberal-arts)
 - Liber IV Cap. III pp. 837–850ish (reprints Cap. II Casus IX tail + Cap. III preamble + early Casus)
 - Liber IV Cap. V (OCR ln 57156–57256) has another duplicate of Cap. V Casus VIII–IX region
+- Liber IV Cap. VI OCR Casus numbering is **corrupt** — visible Casus labels read I, II (as "IK"), III (embedded), V, VI, VII (as "PASUS"), VIII — jumping directly from III to V and mis-labeling; content-analysis shows **7 true Casus** (I-VII sequential). Anchor on content, not on Roman-numeral labels.
 
 **Rule:** Always compare content when Casus numbers seem to jump or repeat. Skip the duplicate, anchor on the authoritative first-print portion.
 
@@ -93,13 +95,13 @@ This book has **multiple re-set signature reprints**. Confirmed duplicates so fa
 
 ## First actions in new chat
 
-1. Read the memory `reference-balduin-casibus-handoff-2026-09-18.md` for full T2–T27 context.
-2. Read the last ~50 lines of `review/balduin-casibus-conscientiae-1628.md` to see the T27 close + T28 placeholder block.
-3. Read OCR `sources-original/balduin-casibus-1628.txt` ln 57534 onward to identify Cap. VI Casus boundaries (grep `CASUS` in the range 57534–58787).
-4. Draft Cap. VI end-to-end, replace T28 placeholder, commit with terse message.
-5. Update handoff memory `reference-balduin-casibus-handoff-2026-09-18.md` with T28 summary + T29 pickup point.
+1. Read the memory `reference-balduin-casibus-handoff-2026-09-18.md` for full T2–T28 context.
+2. Read the last ~50 lines of `review/balduin-casibus-conscientiae-1628.md` to see the T28 close + T29 placeholder block.
+3. Read OCR `sources-original/balduin-casibus-1628.txt` ln 58116 onward to identify Cap. VII Casus boundaries (Cap. VIII begins at ln 58788 with `CAPUT IIX` label).
+4. Draft Cap. VII (and probably bundle Cap. VIII in same tranche since Cap. VII is only ~11 pp), replace T29 placeholder, commit with terse message.
+5. Update handoff memory `reference-balduin-casibus-handoff-2026-09-18.md` with T29 summary + T30 pickup point.
 
-**Volume estimate to close:** 3 more tranches (T28, T29, T30) then Stage 4 (KJV audit pass) + Stage 5 (Reedsy build). Follow **Symbolorum 1577** (most recent close) and **Methodica 1595** (canonical build pipeline) as closest precedents.
+**Volume estimate to close:** 2-3 more tranches (T29, T30, possibly T31) then Stage 4 (KJV audit pass) + Stage 5 (Reedsy build). Follow **Symbolorum 1577** (most recent close) and **Methodica 1595** (canonical build pipeline) as closest precedents.
 
 ## Source metadata
 
