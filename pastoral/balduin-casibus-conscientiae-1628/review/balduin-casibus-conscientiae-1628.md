@@ -151,25 +151,29 @@ The book contains **four Libri** with approximately fifty *Capita* and two hundr
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-```{=openxml}
-<w:p>
-  <w:pPr>
-    <w:pStyle w:val="Heading1"/>
-    <w:outlineLvl w:val="9"/>
-  </w:pPr>
-  <w:r>
-    <w:t>Table of Contents</w:t>
-  </w:r>
-</w:p>
-<w:p>
-  <w:pPr><w:jc w:val="left"/></w:pPr>
-  <w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r>
-  <w:r><w:instrText xml:space="preserve"> TOC \o "1-1" \h \z \u </w:instrText></w:r>
-  <w:r><w:fldChar w:fldCharType="separate"/></w:r>
-  <w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">Right-click the table and choose "Update Field" to populate page numbers, or open in Word / LibreOffice.</w:t></w:r>
-  <w:r><w:fldChar w:fldCharType="end"/></w:r>
-</w:p>
-```
+# Table of Contents
+
+Translator's Note ......................................................... 6
+
+Dedication ................................................................ 12
+
+Preface ................................................................... 19
+
+**Liber I.** On Conscience ................................................ 30
+
+**Liber II.** Toward God and Religion .................................... 100
+
+**Liber III.** Toward Celestial Spirits .................................. 460
+
+**Liber IV.** Toward Human Affairs ....................................... 683
+
+Index I. Scripture Citations ........................................... 1030
+
+Index II. Fathers, Councils, and Cited Authors ......................... 1087
+
+Index III. Subjects (Rerum) ............................................ 1093
+
+*Page numbers refer to physical pages of this English edition, which runs about 1114 pages total.*
 
 — ❦ —
 
