@@ -10620,25 +10620,43 @@ But if the wife is in **consummated** matrimony with another man, we must see fo
 
 If however by malice and probable fraud he departed and did not legitimately appear when cited, and the wife was judicially absolved and contracted another marriage — and after this the returning deserter is heard: **he is not heard**, but according to his deserts is punished, and, if occasion arise, sent into exile — since he abandoned the spouse.
 
-### Casus IX. Whether marriage in any prohibited degree of consanguinity or affinity is a legitimate marriage, or must be dissolved
+### Casus IX. Whether marriage contracted in any prohibited degree of consanguinity or affinity is legitimate, or must be dissolved
 
-*Reply.* What the prohibited degrees are, and how they are distinguished, is taught elsewhere: here we advise consciences if any imprudently and unknowingly have contracted matrimony in some prohibited degree.
+*Reply.* Which are the prohibited degrees, and how they are to be distinguished — is taught elsewhere. Here we only advise consciences, if any imprudently and unknowingly have contracted matrimony in some prohibited degree, what they must do.
 
-Distinguish between **degrees prohibited by divine right** and **positive right**. The divinely prohibited are read in Lev 18 and 20, and are usually included in these verses: *Nate, soror, neptis, matertera, filia, uxor; / Fratris et uxoris — natæ, patruique parens / atque soror patris coniungi lege vetantur*.
+**Distinguish between degrees prohibited *by divine right*, and by *positive law*.**
 
-When matrimony is contracted in some degree prohibited by divine right — for example, if someone marries his brother's wife or his dead brother's wife — that matrimony is **incestuous**, and not so much legitimate marriage as an impure *contubernium* is to be called. — Those contracting, even unwittingly, are gravely to be punished by the magistrate; because against divine right nothing may human dispensation attempt, since the magistrate in higher matters cannot go beyond it. *Nothing more absurd than that human power should presume more than divine has willed*.
+The degrees **prohibited by divine right** are read in Leviticus 18 and 20; and are commonly comprised in these verses:
 
-But when matrimony was contracted in a degree prohibited by human or positive law, then there is no need to hasten dissolution of these marriages. In human laws dispensation can be obtained from those who gave the laws: since they see spouses acknowledging the fault, praying for pardon; and the magistrate can indulge such marriages, especially in degrees prohibited less than by divine law and more remote from divine prohibition.
+> *Nate, soror, neptis, matertera, filia, uxor,*
+> *Fratris et uxoris — natæ, patruique parens*
+> *atque soror patris coniungi lege vetantur.*
 
-Whoever therefore applies his mind to marriage, let him first look at all things beforehand, lest fall into incestuous marriage or contravene laws. — Prudent and wise men avoid trouble and ignominy of soul.
+(Daughter, sister, granddaughter, maternal-aunt, daughter, wife, / of brother and of wife — the born, and paternal-uncle's parent / and sister of father — by law are forbidden to be joined.)
 
-### Casus X. Whether the Pope has power to dispense in the degrees prohibited by divine law
+**Two rules** in these degrees:
 
-*Reply.* Positively no, though the Papists teach and practice otherwise (as at Trent, sess. 24, can. 3). They boast of dispensing power in every degree, — building on the assumption either that the divine prohibitions of the OT are abrogated in the NT, or that the Pope is wiser than God: no less blasphemous positions.
+**(1) Not only** are those persons prohibited who are expressly named in Leviticus, but **all others in the same or an equal degree**. — The prohibition is to be understood of cognations arising either from matrimony or from fornication, of whichever kind.
 
-But **against divine law no human dispensation avails**: therefore whoever marries in a prohibited-by-divine-law degree incurs incest. Only in degrees prohibited by human (positive) or ecclesiastical statute may magistrates or superiors dispense. And so it stands.
+**(2)** By positive right, further degrees are added: for there are prohibited also marriages with a cousin or paternal-cousin (*consobrinos vel patrueles*), and yet-more-inferior degrees, up to the seventh grade among the churches, — the last of which is prohibited by inequal-degree conjunctions. In our *Constitutio Electoralis Saxonica*, the seventh is the ultimate prohibited.
 
-**Distinction**: he who marries in a degree divinely prohibited **commits incest**; he who does so in a merely positively prohibited degree contracts illegitimate marriage; only for the latter can dispensation be sought, — for the former, matrimony must be dissolved simply, lest conscience be left in perpetual impurities.
+**When matrimony has been contracted in some degree prohibited by divine right** — for example, if someone marries his uncle's wife, or his dead brother's wife — that matrimony is *incestuous*: and it is not so much to be called *legitimate marriage* as *impure contubernium*. Those who contract in this way, even if unwitting, are to be gravely punished by the magistrate; because against divine right nothing may human dispensation attempt, since the magistrate in these matters cannot go beyond the divine, — for *nothing is more absurd than that human power should presume beyond what divine power has willed*.
+
+**But when matrimony has been contracted in a degree prohibited by human or positive law**, there is no need to hasten the dissolution of such marriages. In human laws, dispensation can be obtained from those who established them: for when they see the spouses acknowledging their fault, praying for pardon and also paying the customary penalty, the magistrate can indulge them in matrimony, especially in degrees remote from divine law's prohibition, and less-nearly touched by it.
+
+Whoever therefore applies his mind to marriage, let him first look at all things beforehand, so that he not fall into incestuous marriage or contravene the laws. — For prudent and wise men, who know these matters, thus avoid trouble and ignominy of soul.
+
+### Casus X. Whether the Pope may dispense in the degrees prohibited by divine law
+
+*Reply.* Positively no. Yet the Papists teach and practice otherwise, as at *Trent* (sess. 24 c. 3): they boast the papal power to dispense in every degree, building either on the assumption that the divine prohibitions of the Old Testament are abrogated in the New, or as if that place of Levitical prohibition were merely a *ceremonial law* now abrogated, or as if the Pope himself, being wiser than God, judged more clearly which persons in which persons ought to be marrying: no less blasphemous positions.
+
+But **against divine law no human dispensation avails**. Wherefore whoever marries in a degree prohibited by divine law incurs *incest*. Only in degrees prohibited by human (positive) or ecclesiastical statute can magistrates or superiors dispense. And so it stands.
+
+**Distinction of much moment**: he who marries in a divinely-prohibited degree **commits incest**; he who marries in a merely positively-prohibited degree contracts a marriage that is *illegitimate but not incestuous*. In the case of the latter, *dispensation* can be requested from the magistrate; in the case of the former, however, the matrimony must simply be dissolved — that the conscience not be left in perpetual impurities.
+
+*Marvelous is the audacity* of the Roman Pontiff, who has dared to dispense even in degrees divinely-prohibited, as in the case of Henry VIII of England and Catherine of Aragon (who had been the wife of his deceased brother Arthur), the *displenchement* of which pretended-dispensation was among the first reasons why England withdrew from Roman obedience. So *Sirach* is verified (Sir 34:4): *from the false shall not be gathered true*; and from an unjustly-dispensed marriage there follows perpetual scandal in the Church.
+
+Nevertheless what has been said of the Pope's inability to dispense holds equally of any human power. *Whoever* — Pope, emperor, prince, magistrate — undertakes such a dispensation, undertakes it wickedly and impiously; and any marriage grounded on such a dispensation remains, in the sight of God, incestuous.
 
 ### Casus XI. What are the mutual duties of pious spouses whereby they may keep good conscience
 
@@ -11171,19 +11189,39 @@ But if the debtor come out of that peril, then he is bound to restore what he to
 
 But if the debtor, having emerged from the peril, cannot restore neither the same nor something equivalent, then rest-assured that his conscience is to be consoled — the *creditor* now becoming *ceu iam mercedibus receptor* through his mercy shown, and reckoning what was given as an *opus caritatis*, of which more anon.
 
-### Casus XII. Whether one who has given alms may demand back what he gave
+### Casus XII. Whether one who has given alms may recall what he gave
 
-*Reply.* Distinguish precept of alms from precept of mercy. **All alms is a species of mercy, but not all mercy is alms.** Mercy's precept (*Sir 4*): *do not despise the hungry soul*. Precept of alms (*Isa 58*): *give hungering thy bread*. — Alms pertains to *external opera misericordiae*; mercy also to *internal*. So he shows greater mercy who ministers to soul than to body.
+*Reply.* Here **distinguish** the precept of *alms* from the precept of *mercy*. **All alms is a species of mercy, but not all mercy is alms.** — The precept of mercy (Sir 4:1–2): *despise not the hungry soul, and afflict not a poor man in his want*. The precept of alms (Isa 58:7): *deal thy bread to the hungry*. — Alms pertains to *external* works of mercy; mercy also to *internal*, and to spiritual works. Whence he shows greater mercy who ministers to the soul than to the body.
 
-**In case of necessity**, alms can be exacted from another for someone in extreme need, without obligation of restitution.
+**In a case of necessity**, alms can be exacted from another for someone in extreme need — without obligation of restitution, since the extremity of need makes all things common to use.
 
-**Alms simply given, without pact-of-restitution**, transfer dominion. If then he to whom given is not restored to sufficient means, the giver cannot demand back what was given without an act of harshness. — But if the receiver later comes to means, and the giver himself falls into poverty, then it becomes lawful and pious to ask restitution — since alms flow from ordered charity.
+**Alms simply given, without any pact of restitution**, transfer dominion of the thing to the receiver. If then the recipient does not come back to sufficient means, the giver cannot demand back what was given without an act of harshness — since he has given, not lent.
 
-### Casus XIII. Whether one who has given the poor may exact debts they contracted for support
+**But** if the recipient later comes to sufficient means, and the giver himself falls into poverty, then it becomes lawful and pious for the giver to ask restitution — since alms flow from *ordered charity*, and no one is more bound to me than I am to myself. The former recipient, now well-established, owes to his prior benefactor at least gratitude, and — if the situation demands — the very restitution of what he received.
 
-*Reply.* Distinguish. A poor person burdened with debts, if now solvent, must repay; but if in extreme need, further alms may be added, with obligation of restitution only when he can. — Between charity and justice: if debtor is truly poor, richer must forbear, as *Sir* teaches: *do not press one poor beyond means*.
+Some cases further distinguish. Take the seven-fold enumeration of *corporal* works of mercy comprised in the mnemonic:
 
-**Beyond that, mercy is more than a legal demand**: it is more Christian to remit than to press. — He who freely forgives when he cannot pay, gives an *opus caritatis* far excelling mere legal collection.
+> *visito, poto, cibo, redimo, tego, colligo, condo.*
+
+(I visit, I give drink, I feed, I ransom, I clothe, I gather, I bury.)
+
+And the seven-fold *spiritual* works, comprised in another verse:
+
+> *consule, castiga, solare, remitte, fer, ora.*
+
+(Counsel, chastise, console, remit, bear, pray.)
+
+Mercy extends to both kinds; alms strictly to the first. He therefore who *feeds*, *clothes*, or *shelters* the neighbor's body performs alms. He who *counsels* the erring, *chastises* the sinner, *consoles* the sad, *remits* offense, *bears* injuries, and *prays* for another performs a spiritual work of mercy — of which more in the following Casus on fraternal correction.
+
+### Casus XIII. Whether one may exact debts which a poor man contracted for the sake of alms — that is, of sustenance
+
+*Reply.* **Distinguish here.** If a poor man is burdened with debts which he contracted for the sake of his own sustenance, and is now able to pay, he must render to the creditor what he owes. But if he is in extreme need, and cannot repay, further alms may be added, with the obligation of restitution only when he can.
+
+**Charity and justice** must here concur. If the debtor is truly and enduringly poor, the richer creditor must forbear — as *Sirach* teaches: *do not press the poor beyond his measure* (Sir 29:8–9). The Lord in the Old Testament required that if one loaned to a poor brother, the pledge should not be kept beyond sunset (Exod 22:26–27; Deut 24:12–13); nay, the *sabbatical year* released all debts owed by a Hebrew (Deut 15:1–2). These provisions signify that in the eye of God, mercy toward the poor far outweighs the strict pursuit of debt.
+
+**Beyond that, mercy is more than a legal demand**: it is *more Christian to remit than to press*. He who freely forgives when the debtor cannot pay, gives thereby an *opus caritatis* far excelling mere legal collection. Christ says (Luke 6:35): *lend, hoping for nothing again; and your reward shall be great*. And in the Lord's Prayer: *forgive us our debts, as we also forgive our debtors* — which is to be understood not only of sins, but also, in a lesser sense, of pecuniary debts, where he cannot pay.
+
+Yet **let it not be an occasion of iniquity**: the sluggard or spendthrift who has feigned poverty to escape his creditors is not to be indulged. Charity ought not to feed vice; the discipline of the magistrate should here intervene, that dishonest debtors be forced to work, and to render what they owe. But for those who truly labor under real poverty, the yoke should be lightened by the mild spirit of Christ.
 
 ### Casus XIV. Whether alms are owed to misers who from perverse mind starve themselves
 
