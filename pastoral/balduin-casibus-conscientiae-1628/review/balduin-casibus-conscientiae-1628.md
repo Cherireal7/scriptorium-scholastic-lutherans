@@ -10538,58 +10538,77 @@ If however anyone contract with an impotent whose impotence was known to the par
 
 Wrongly then *Gregory III* permitted to a husband whose wife labored in natural infirmity to contract with another; this sanction *Gratian* has included, but it is contrary to evangelical and apostolic doctrine — hence today his ruling is no longer read.
 
-### Casus V. Whether after a legitimate divorce lawfully carried out, the innocent party may pass to second marriages with good conscience
+### Casus V. Whether after a legitimate divorce carried out, the innocent party may with good conscience pass to second marriages
 
-*Reply.* The legitimate cause of divorce, per Christ's own testimony, is fornication (Matt 19:9). Others add cruelty, suspicion of poisoning, infidelity, and things of this kind; on which see Beza *De divortiis*.
+*Reply.* The **legitimate cause** of divorce, by the express testimony of Christ himself, is *fornication* (Matt 19:9); to which others add *cruelty*, *suspicion of poisoning*, *infidelity*, and things of this kind. On these grounds see Beza's *De divortiis* c. 5.
 
-When there has been a legitimate divorce, the Papists deny the innocent party second marriages: they leave the innocent party in perpetual flames of temptations. So the Canonists (5 q. 3 cap. *quod bonum*), *Bellarmine* (*De matrim.* c. 16), *Gregory de Valentia* (tom. 4, disp. 10 q. 1). Under adultery, however, even the Canonists concede second marriages to the innocent party, if the adultery is incestuous.
+**When lawful divorce has occurred**, the Papists deny second marriages to the innocent party, and leave that innocent one in the perpetual flames of temptations. So the Canonists (5 q. 3 c. *quod bonum*, and 2.q. 1 cap. *quod Deus junxit*). The Council of Trent (sess. 24 c. 5) subscribes to this same position. Similarly *Bellarmine* (*De matrimonio* lib. 1 c. 16), *Gregory de Valentia* (tom. 4 disp. 10 q. 1 *de matrimonii firmitate secundum septem sacramentis*, tract. 6 c. 6), and others. In the case of *incestuous* adultery, however, even the Canonists concede to the innocent party a second marriage.
 
-*Augustine* also sometimes doubts, as in *De bono coniugali* c. 7 and elsewhere.
+Some of the Fathers also here doubt, as *Augustine* in *De sermone Domini in monte* lib. 1 c. 25, in *De bono conjugali* c. 7, sometimes doubts also in *De adulterinis conjugiis*.
 
-**Our reply**: second marriages after legitimate divorce may be granted to the innocent party. — Reason: the marriage bond has been dissolved by adultery no less than by death — for adultery is a kind of death of the marriage; since spouses ought to be *one flesh* only two, and through adultery this natural union is broken and separation follows. — Adulterers and adulteresses become **civilly dead** to their spouse; and just as physical death leaves the surviving spouse free for second marriage, so adultery frees the innocent party from the marriage bond so that they can take another spouse.
+But **we teach** that second marriages after legitimate divorce may with good conscience be granted to the innocent party.
 
-Some object Paul (1 Cor 7): *to those already joined I command, not I but the Lord, that a wife not depart from her husband; but if she depart, let her remain unmarried or be reconciled to her husband*. — But Paul there does not treat of legitimate divorce cases: he treats of those where without command of the Lord dismissal of the spouse is not lawful — as if because of simulations or slight quarrels spouses at once dismiss one another. There Paul does not acknowledge a *true* divorce and permits no other marriage. **True divorce on account of adultery** Christ acknowledges (Matt 19:9).
+**They first adduce a passage from the Apostle Paul** (Rom 7:1–2): *the woman, being married, is under obligation by the law to her husband so long as he lives; but if the husband be dead, she is freed from the law of the husband*.
 
-Objections about *indissoluble bond* (from Matt 19 or 1 Cor 7:39 or the *character indelebilis* in the sacrament of matrimony) are refuted in the *De divortio* by Beza.
+But the Apostle in this place treats of matrimony *simply considered* (extra casum divortii): he speaks of the *indissoluble conjunction* of spouses, from which no separation should be made while both live; but when they are lawfully separated for a legitimate cause, he grants to the innocent party a marriage with another (1 Cor 7:15), from the example of a marriage between disparate-in-faith persons, where by God's precept the faithful is *exempted* from the leash of the prior matrimony, even while the deserting party is surviving.
 
-**Optatum** it would be if both parties did their office and did not proceed to adultery: but when the crime supervenes, conscience must be consoled — that the innocent party, having been legitimately freed, does not sin if he contract another marriage.
+**Then they oppose a passage from 1 Cor 7:10**: *unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband: but and if she depart, let her remain unmarried, or be reconciled to her husband; and let not the husband put away his wife*.
 
-Objections refuted:
-- The formula of divorce in the Old Testament gave power to the woman dismissed to marry anyone (Deut 24:2; Lev 22:7).
-- Christ's saying (Matt 5:32) refers to the one who *dismisses without cause of fornication*.
+But there Paul deals with those cases in which, without the Lord's command, dismissal of the spouse is not lawful — as when for simulations or slight quarrels spouses at once dismiss each other. Paul does not there acknowledge a *true* divorce, and does not permit another marriage. **The true divorce on account of adultery**, however, Christ acknowledges (Matt 19:9). — If therefore for adultery separation is lawful, the departing person is not held to remain unmarried: for the conjugal bond is as much dissolved by adultery as by death; wherefore just as by natural death the surviving spouse is freed to a second marriage, so also adultery frees the innocent party from the conjugal bond so that they can take another spouse.
 
-Hence our churches concede second marriages to the innocent party after separation, as *Origen* did (in Matt 19), *Jerome* (ad Amandum), *Augustine* (*an ei qui talem uxorem adulteram duxerit* — some Fathers, however, disagreed).
+**Objections about *indissoluble bond*** (drawn from Matt 19, or from 1 Cor 7:39, or from an alleged *character indelebilis* in the sacrament of matrimony which is imprinted and cannot be deleted by divorce) — these are refuted with amplitude in Beza's *De divortio*.
 
-### Casus VI. Whether between spouses, after committed adultery, reconciliation can take place
+**Would that** both parties did their duty and did not proceed to adultery: but when the crime supervenes, the conscience of the innocent party is to be consoled — namely, that the innocent part, legitimately freed by the adulterer or adulteress, does not sin if while the adulterer still lives she contracts another marriage.
 
-*Reply.* Some deny it, arguing:
-1. Paul wills a woman offended to be reconciled to her husband, therefore vice versa also to be demanded of the husband.
-2. Christ pardoned the adulteress (John 8), therefore the husband ought to pardon.
-3. God the Church spiritually receives back into grace even when it commits adultery (Jer 3).
-4. David took back Michal his wife, though she had married another, since she had contracted the new nuptials from paternal fear.
-5. They appeal to *Basil's* authority (*ad Amphiloch.* can. 6 and 24), that adulterous husbands should be kept by wives, — that a woman who marries another after being sent away is an adulteress, but the man who cohabits after being dismissed by the wife is not so held.
+**Further** *the very laws which make adultery capital*, and by which the adulterer or adulteress becomes *civilly dead* — as if he had ceased to exist — leave the second marriage free to the surviving innocent party. Just as therefore adultery absolves the innocent party from the tie of conjugal bond, so also from the power of contracting with another it does not prohibit; nay, that another marriage may follow, as when in the ancient formula of repudiation the letter was given by the Jews to those repudiated, that they might marry any man — save that they should not, after the death of the second husband, marry the prior one (Deut 24:2ff.; Lev 21:7; Ezek 44:22).
 
-Others hold that a man should not receive back an adulterous wife on any account, — appealing to *Solomon* (Prov 6:32): *he who commits adultery is void of understanding*; and *Prov. 18:22*; and *Ecclus. 25*.
+**Finally**, when Christ says (Matt 5:32; 19:9): *he who sends away his wife except for the cause of fornication and marries another, commits adultery* — *by contrary sense* he bids to be understood, that he does not commit adultery who, having sent away for the cause of fornication his legitimate wife, marries another.
 
-*Augustine* wants the husband to receive back his adulterous wife if she repents — but this seems too hard. Beza (*De repudiis et divortiis* p. 177) prefers the latter opinion.
+For these reasons our churches concede second marriages to the innocent party after separation, — which even *Origen* conceded (on Matt 19), *Jerome* did not judge such marriage undissolved (epistle *ad Amandum*), and *Augustine* whether he who takes such an adulterous wife is *inter adulteros faciens* (making adultery) — many, however, of the Fathers were less kind to this view.
 
-**Our answer**: if with an adulterer she has been together, according to God's law there is no more one flesh, since already through adultery she has been joined to another. Just as through legitimate marriage natural union is consummated, so through adultery the same union is naturally dissolved, since only two, not three, can be one flesh.
+### Casus VI. Whether between spouses, after adultery has been committed, reconciliation can take place
 
-We do not deny that in such case diligent attempt at reconciliation should be tried, — whether the innocent party especially in weakness of nature is willing to remit and receive the returning delinquent. But if he seeks divorce, let it be granted; since the adulterer or adulteress is no more one flesh with his own spouse, being made one flesh with another.
+*Reply.* Some deny it, alleging:
 
-### Casus VII. Whether desertion is equivalent to adultery, so that legitimate divorce may take place
+1. *Paul wills the offending woman to be reconciled to her husband* (1 Cor 7:11) — therefore likewise the offending husband is to be reconciled to the wife.
+2. *Christ pardoned the adulteress* (John 8) — therefore the husband should also pardon.
+3. *God, when the spiritual Church commits adultery, often receives her back into grace, and invites her back through the prophet* (Jer 3:1 seqq.).
+4. *David took back his wife Michal*, though she had married another, since she had contracted the new nuptials not by her own will but under her father's fear.
+5. They appeal to *Basil* (in *ad Amphilochium* can. 6 and 24), and to the ancient canonists: — that adulterous husbands should be retained by their wives, and that a woman who marries another after being sent away is an adulteress, but a man who cohabits with another after being dismissed by his wife is not held to be an adulterer.
 
-*Reply.* Desertion is either **voluntary**, when done with consent of the other spouse (as if with wife's consent a man goes abroad to soldier or to business, intending to return); this is not properly desertion. — Or **malicious**, when someone leaves the spouse by fraud, force, or fear, without intent of returning. Such deserters are:
+**Others hold** that a man should on no account receive back an adulterous wife, appealing to *Solomon*: *he who commits adultery is void of understanding* (Prov 6:32); *the just man knows not the adulterous wife* (Prov 18:22); and *Sirach 25*: *the patronage of turpitude is not less than the vice itself, since he thinks that his wife's crime may be concealed*.
 
-1. Adulterers who go off with adulteresses, wandering, not returning.
-2. *Landsknechte* who left their spouses to soldier and joined with other women.
-3. Rash pilgrims who without just cause go to foreign lands, leaving wife and children at home without maritime affection; among these are also those held captive far off.
-4. Those who, with all goods sold off, leave the spouse.
-5. Those who cruelly rage against wives and by no means allow themselves to be corrected are equivalent to malicious deserters: — for it makes no difference whether you leave the spouse yourself, or drive her far off. Both ways matrimonial affection is extinguished.
+**Some** hold the sentence, that a repentant adulterous husband may be received back into grace; and the same reasoning holds of an adulterous wife. — *Augustine* is much inclined to reconciliation (*De adulterinis conjugiis*), which he defends with arguments given above. — But this sentence seems too hard, and its reasons are refuted by *Beza* (*De repudio et divortio* p. 177). The latter opinion is the more probable.
 
-Such deserted party can petition dissolution from the ordinary judge. — But not hastily: laws prescribe certain years to be awaited, if the deserter be abroad but not yet certainly dead. Sometimes a biennium, triennium, quadrennium — even a decennium in doubtful cases.
+**Our reply**: if the adulterer or adulteress has been with another, according to God's law there is no more one flesh with the innocent spouse — since already, through adultery, they have been joined to a third. Just as through legitimate marriage the natural union is consummated, so through adultery that same natural union is dissolved: because only *two*, not *three*, can be *one flesh*.
 
-By judicial edict the deserter is summoned publicly, and if he does not appear, the wife is judicially absolved and free to marry another. If afterwards he returns without contumacy, arguing lawful cause of long absence, he may petition inquiry: if within just cause, worthy of pardon, having lived honestly meanwhile, — inquire whether the wife is still faithful. If maximally the husband still lives, and the woman ignorant of this, since he was summoned and did not appear, an adulterer he is held, and never afterward permitted to cohabit with his wife.
+If then according to God's law separation had preceded, there would be no need of these difficulties. But we do not deny that in such case a diligent attempt at reconciliation should be tried, — namely, whether the innocent party, especially from weakness of nature, is willing to remit and receive back the returning delinquent, whom he received in grace. But if he seeks divorce, let it be granted him — since the adulterer or adulteress is no more *one flesh* with his own spouse, being now made one flesh with another, with whom he unlawfully joined himself.
+
+### Casus VII. Whether desertion is equivalent to adultery, so that a legitimate divorce may take place
+
+*Reply.* Desertion equals adultery, and constitutes a legitimate cause of divorce.
+
+**Desertion is two-fold**: **voluntary** and **malicious**.
+
+**Voluntary** desertion is when it takes place with the consent of the other spouse — as if a man, with his wife's consent, goes abroad to soldier or to trade, with the intention of returning. This is properly not desertion but a certain honest going-away for some cause, instituted for a time, whereby between angry spouses conjugal love may return; the wife in her husband's absence is to remain faithful, faithfully to administer the family, to pray for his happy return, and to abstain from every appearance of evil.
+
+**Malicious** desertion is when one *by fraud, force, or fear* leaves the spouse, without any intention of returning. Such deserters are:
+
+1. **Adulterers** who go off with adulteresses; even if with the wife's consent they went off, but in the meanwhile hither and thither wander for years, and have no further care of the spouse, — not even once through letters, nor by other messengers, do they salute her, — so that from these evident indices it is clear that they have laid aside all matrimonial affection.
+
+2. ***Landsknechten* — mercenary soldiers** — who leaving their wives went off to soldiering, with no mind of returning, but abide with other women in the militia and live viciously.
+
+3. **Rash pilgrims** who without just cause go off into foreign lands, leaving wife and children at home without any marital affection; and if among the pilgrims they fall into long-lasting captivity, they are held to be deserters — see *Auth. cap. 12 De desertis*.
+
+4. **Those who, with all their goods sold off, forsake their spouse**, and any other conjugal things.
+
+5. **Those who cruelly rage against their wives**, and by no means allow themselves to be corrected by admonitions of pastors and friends — those in whom pertinacity and contumacy has fixed itself — are held as malicious deserters by Luther (*De vita conjugali*). It makes no difference whether you leave the spouse yourself or drive her far off: both ways matrimonial affection is extinguished.
+
+**Such a deserted party can petition dissolution from the ordinary judge**, that he may free her from the deserter. — But she must not hasten: the laws prescribe *certain years* to be awaited, when the deserter is far off, before he is judged to be a definite deserter, — but not without exceptions. Sometimes a *biennium*, sometimes a *triennium*, sometimes even a *decennium*: nothing certain can here be prescribed, on account of the variety of circumstances.
+
+**Circumspection of the judge** is required, that according to the diversity of circumstances he prescribe the time of divorce, whether briefer or longer. If the wife has been *importuna* — with perverse morals gave the husband occasion to depart; or if she was elderly, in whom there is no danger of vehement temptations of the flesh — a longer wait is fit, and diligent inquiry where the husband is, and reconciliation is to be sought. But if she has *testimonium probitatis* — is a young girl, a smaller number of years suffices.
+
+**Then by public edict the deserter is summoned in three distinct territories**, and if he does not appear, he is held for abandoned or dead; and to the deserted person, power of marrying another is granted by judicial sentence — chiefly if in the meantime, in the husband's absence, she has demonstrably lived honestly. For even though the husband still lives — of which the woman is nevertheless ignorant — yet since when he was cited he did not appear, he is held for an adulterer, and never afterwards is permitted to cohabit with his wife.
 
 ### Casus VIII. What is to be done if, after an initial marriage was interrupted by absence, a former husband returns and finds the wife has legitimately taken another
 
