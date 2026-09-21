@@ -2048,7 +2048,7 @@ But *miserably are they deceived*: **only in ceremonial laws does dispensation h
 
 *Nor can any peril be greater than to act against the moral commandments of God*, for the avoidance of which the *corporal and external peril* that threatens from men need not be feared: for God can freely deliver those who cling to him with heart from the hands of enemies. Wherefore Christ wills that we *But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.* (Luke 12:5).
 
-### Case IX. Whether the pious can with good conscience live and dwell among enemies of true religion, and by reason of his vocation, which he had from God, refuse to change place, than by living with doubting conscience among them
+### Case VIII. Whether the pious can with good conscience live and dwell among enemies of true religion, and by reason of his vocation, which he had from God, refuse to change place, than by living with doubting conscience among them
 
 **Respondeo.** For *nothing is to be done in whatsoever kind of things with doubting conscience*, as gathered from Rom 14:23. But since many make for themselves a scruple in conscience where there is no need, some information in this question is required.
 
@@ -3158,7 +3158,7 @@ If someone swore to injure another and pledged something illicit, before the one
 
 These about *the relaxation of oaths* suffice: more the scholastics dispute, but nothing bears on our institute, which was to consult consciences, not indulge in litigations.
 
-### Case XX. What things by way of conclusion are to be observed in oaths?
+### Case XIX. What things by way of conclusion are to be observed in oaths?
 
 **Respondeo.** Of these by way of conclusion a few things I will subjoin:
 
