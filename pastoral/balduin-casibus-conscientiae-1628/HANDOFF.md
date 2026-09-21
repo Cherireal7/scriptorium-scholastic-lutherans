@@ -6,7 +6,9 @@
 - ✅ **Stage 3** (T1–T33) — translation of the entire body (Liber I–IV), ending with the AMEN doxology at physical p. 1109
 - ✅ **Stage 4** — KJV Scripture pass (415 verse citations conformed; commit `6b0c8b1`)
 - ✅ **Stage 5** — Reedsy-inspired PDF build (1074 pages including back-matter)
-- ✅ **Back-matter indices** — Scripture + Fathers/Councils/Cited-Authors regenerated from the finished MD (~1800 entries; commit `bdf01e8`). Rerum (subject) index omitted per Kirchner-1595 precedent.
+- ✅ **Back-matter indices** — Scripture + Fathers/Councils/Cited-Authors regenerated from the finished MD (~1800 entries; commit `bdf01e8`). Rerum (subject) index added in a second pass (~235 curated topic heads; commit `8ef0a1d`).
+- ✅ **Second-pass KJV sweep** — `expand-fragment-scriptures.py` catches 84 more shortened KJV quotes via content-word Jaccard ≥ 0.4 (commit `e1768c2`). Total KJV replacements across both passes: 499.
+- ✅ **IM Fell English font bundled** — `shared/fonts/` holds Regular + Italic TTFs plus SIL OFL 1.1 license and install README (commit `48a9dc3`). Installed per-user on this machine 2026-09-21.
 
 T2–T33 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter tranche.
 
@@ -46,12 +48,10 @@ Translating **Friedrich Balduin** (1575–1627) · ***Tractatus Luculentus, Post
 - **Build machinery** (for Stage 5): `build-shareable.ps1`, `update-fields.py`, `reference-balduin-casibus.docx` — Kirchner-precedent pipeline.
 - **Notes**: `notes.md` (source-plan, tranche-plan, structural map).
 
-## Follow-ups (optional polish, low priority)
+## Follow-ups (very optional polish; nothing pressing)
 
-- **Fragment-scripture review** — 897 short italic quotes were preserved as-is (< 50% of full KJV verse — Balduin's paraphrase-heavy casuistry style). Could be spot-reviewed if fuller quotes are wanted.
-- **Rerum (subject) index** — not generated. Would require manual curation to be useful. Kirchner-1595 also omitted this.
-- **Index cross-reference sanity** — the Fathers index is regex-based over a curated list; a handful of common-word names (e.g., "Clement", "Titus") may over-match if the token also appears as a proper noun elsewhere. Skim if bothered.
-- **Cover font** — IM Fell English is referenced by name in the title pages; if not installed on the build machine, Word/LibreOffice silently substitutes a default serif. Install from https://fonts.google.com/specimen/IM+Fell+English for the intended look.
+- **Index cross-reference sanity** — the Fathers index is regex-based over a curated list; a handful of common-word names (e.g., "Clement", "Titus") may over-match. Skim if bothered.
+- **Rerum topic curation** — 235 topics are covered by shared/build-rerum-index.py. If additional Balduin-specific topics come to mind, add to `TOPICS` and re-run.
 
 ## OCR anomalies (for future reference)
 
