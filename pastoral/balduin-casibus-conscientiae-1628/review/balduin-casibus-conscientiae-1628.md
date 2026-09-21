@@ -8227,6 +8227,313 @@ Thus you may with hilarious soul use your goods.
 
 If anything then remains, it can with good conscience be lent to others, especially to those of one's own religion, — who from it can add to their affairs, — or on annual interest for lands or estates. For to do this is not illicit — this is proved by the example of *David* in Exod 22:25 and *Sirach* 7:26 and following.
 
-*[T26 pickup: Liber IV Cap. IV — De vitae generibus (kinds of life / calling): body-of-teaching that God has founded diverse life-callings (ecclesiastical/political/economic), and each Christian should live within his own calling. Cap. IV opens with preamble at OCR ln ~54277 / phys p. ~865 introducing the diverse life-genera + Casus I begins at ln 54301 on whether one may live in private retirement/leisure with good conscience.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
-*[Note on OCR duplicates in Cap. III: physical pages 818-836 (OCR ln 51586-52892) reprint Cap. II Casus VII-IX material; physical pages 837 onward (OCR ln 52893+) re-start Cap. III preamble and Casus I. The authoritative Cap. III text is a composite drawn from the unique first-print portion (ln 51200-51585) and the continuation past the duplicate section.]*
+## Chapter IV. Kinds of Life / Vocation
+
+*De casibus conscientiae circa vitae genera — On cases of conscience concerning kinds of life (calling, vocation).*
+
+*Prooemium.* God the Founder of order and of all hierarchies has prescribed his own limits both to clerics and to laity, within which each ought to contain himself, — as says the Apostle (1 Cor 7:17): *As God has called each, so let him walk; and thus in all churches I appoint*; and (v. 20): *Let each remain in the calling wherein he was called* — with the addition (1 Thess 4:11): *and labor with your hands, that ye may walk honestly toward them that are without.*
+
+And though *economia* extends through all estates — such that even a *bishop* has a house and rules his family well (1 Tim 3:4) — nevertheless he willed to distinguish clerics from laity, that is, ecclesiastical persons from secular or political ones, so that without *turmoil-of-hierarchy* the office of one may not invade another's. And for this cause in the people of Israel he cast the *ecclesiastical office* upon the *Levitical tribe* (Lev 24; Num 16), — and *the political power* on the *tribe of Judah* (Gen 49; 2 Sam 8) — a constitution of God which pleased pious kings among his own people. Thus *Jehoshaphat* said to the judges: *Amariah the priest and pontiff shall preside over you in what pertains to God, but Zebadiah the son of Ishmael, who is the leader of the house of Judah, shall be over the works which pertain to the king's office; you have as masters the Levites before you* (2 Chr 19:11).
+
+There are however things which are common to all the hierarchies, and fall into specific questions, in which conscience must be guarded — of which we treat first — after which we shall treat of things special to each hierarchy.
+
+### Casus I. Whether one may retire into private life, and be exempt from all public office, without wound to conscience
+
+*Reply.* Many are those to whom it seems consonant to piety, when from their private revenues they subtract themselves from every public office, — even though for undertaking such office they are quite fit. — They hide themselves within private walls, and rest content in the peace of home life, — attending to their private household and to reading.
+
+But this is contrary to the ordinance of God, who wills each to serve the neighbor with the gifts freely given from himself. — *For not to us alone is our life given, but that we should administer some part of it to our fatherland.*
+
+Secondly, the *use of virtues and gifts* is expected — from which honor and glory-of-God through these arts may exist. — For in all their actions men should seek not God's honor but their own — nor be content with mediocre glory, but always aspire to greater.
+
+Thirdly, private life is *the nursery of idleness*, which is the mother of many vices. Many make their own that saying of the *Poet*: *He lived well who lay well hid.* But these things are opposed to the *Apostle Paul*, who bids us *live in peace and to do our own business, and to work with our hands, as we commanded you* (1 Thess 4:11).
+
+*Ignatius* also writes (in *Ep. ad Antioch.*): *No one seeing you idle, thinks you a Christ-worshipper*; and *to the Thessalonians*: *Let no one among you be idle, for idleness is the mother of poverty.* Never is the soul better cared for than through labors in an honest kind of life. — For these heal depraved cupidities, purge the soul from vices, — which suddenly succeed in the idle. As in uncultivated ground there arise thorns, and in stagnant water worms, — so in the idle soul evil thoughts spring up. Our souls are made for some doing; therefore they are fed by work, strengthened, — and rejoice; but by idleness are dissolved, and fall into vices.
+
+Fourth, labor in some public kind of life prepares for us a pure conscience and true glory, to which honest studies impel any Christian.
+
+Add to this the ancient wise ones, who made laws against idle men. — Thus a law of the *Egyptians* was, that each year all should declare before the *Areopagi* — that is, the presidents of each prefecture — whence they lived; and whoever did not do this, was punished with extreme death. — This law *Solon of Athens*, moved to *Athenians*, promulgated (as *Camerarius* refers, *Hor. success.* p. 1 c. 34).
+
+**Exceptions**: **(1)** *The aged, whom age has consumed*, who are no longer fit for undertaking labors: — these, when in their youth they well placed their talent, may spend the rest of their life privately without sin, — provided the dismission of those to whom they were bound has been granted, — as *David* passed the eighty-year-old *Barzillai* to his son (2 Sam 19:37), — and himself in the citadel could rest secure. To which example even today, veterans in Church and Republic — substituted in their office — are dismissed, with themselves in rest left, — since God himself dismissed the *Levites* at fifty from their assigned service (Num 8:25). — Yet a scrupulous man does not easily desire this rest, unless he feel the extremest infirmity of his powers; and it is worse for a firm conscience of that man to solve who in adult age, or in a green old age, from an aged aversion withdraws his hand from his plough — of whom, what Christ says, is known (Luke 9:62).
+
+**(2)** *The invalid through continuous diseases* — who indeed cannot serve in dolorous times, but in his own place has his vocation to prayers and to the exercise of patience. — Nor is he obliged beyond his own strength.
+
+**(3)** *The literary*, who indeed do not live in a public office, but neither at home in idleness do they lie torpid, — but by writing or advising serve others. For every kind of work is undertaken for the glory of God and the utility of the neighbor. — Many are lacking the occasion to promote themselves through the abundance of their subjects; many are not fit to teach publicly or converse with others, who at home privately serve others. If therefore the talent committed to them they do not altogether bury, — they are sufficiently discharged of their office.
+
+### Casus II. Whether ecclesiastical dignity may be conjoined with political power in the same person
+
+*Reply.* God himself, as *author of order* and *founder of all hierarchies*, has prescribed to clerics as well as to laity his own limits — within which each is to contain himself, that the offices be not confused. And in the *Old Testament* the *Levitical priesthood* was distinguished from the *political power of Judah*, — a divine constitution that pleased pious kings among his own people. In the *New Testament*, *Christ* committed the government of the Church to his disciples (John 20:21), but *the political regime he interdicted* (Luke 22:25): *The kings of the Gentiles*, he says, *have dominion over them, and those who have power are called benefactors; but ye shall not so.*
+
+Nay, Christ himself abstained from political governance and judgment (John 8:15; 18:36; Luke 12:13; and 20), and *his kingdom was not of this world.*
+
+*In whatever manner the Father sent him, so he also sent his disciples* (John 20:21); — from which sanction *Peter*, following the magistrate, learned to *fear God, honor the king* (1 Pet 2:17). God also gravely punished kings who arrogated what was of the priests, — as *Uzziah*, king of Judah, was struck with leprosy for burning incense (2 Chr 26:18); whom therefore *Jerome* calls a *usurper of the priesthood*.
+
+How also *Bishops* and *Roman Pontiffs*, — *Boniface VIII*, *Benedict VI*, *Gregory VII*, *Boniface VII*, *Sixtus IV* — who mixed themselves in political expeditions and sometimes were even soldiers, — God has punished, ecclesiastical history attests. For *a bishop ought not to be a striker, nor combative, nor a stranger to strife* (1 Tim 3:3); *and he who accepts the sword*, says Christ to Peter, *shall perish by the sword* (Matt 26:52); *no one warring for God entangles himself with secular affairs* (2 Tim 2:4).
+
+Civil laws also say — a reproach against clerics is, that they be found expert in secular matters: — and in general with *Ambrose*: *One should not have a double profession* (in c. 1 *post. ad Tim.*).
+
+By the holy Fathers — bishops and clerics, not even the Pontiff himself excepted — secular offices are interdicted:
+
+Among the *Canons of the Apostles* the sixth is: *A bishop or presbyter or deacon shall not undertake secular cares; otherwise let him be deposed.*
+
+*Synesius* in *Nicephorus* (lib. 14 c. 15) says: *It is impossible for the same man to apply the episcopal or sacred profession, and to conjoin what cannot be conjoined.*
+
+Nor may you say the Roman Pontiffs are excepted: — hear *Bernard* (writing to *Pope Eugenius*, lib. 1 *De consideratione* c. 6): *Grant then that thou vindicate these things to thee by any reason, — yet not by Apostolic right, — nor could he give thee, what he himself did not have; that which he had he gave — care, as I said, of the churches. Is it dominion? Hear him: not dominating, he says, in the clergy, but be thou made a form of the flock. And lest thou think this said only in humility, and not in truth, — the voice of the Lord in the Gospel: *The kings of the Gentiles rule over them, and those who have power are called benefactors*; and he adds: *ye shall not so.* — It is plain, that dominion is interdicted to the Apostles. — Go thou therefore, if thou darest usurp either lordly Apostolate, or Apostolic lordship; — thou art plainly prohibited from the other. If thou wilt have both similarly, thou shalt lose both.*
+
+In the same manner the Fathers have excluded from ecclesiastical power kings and princes. *Hosius bishop of Cordova* in *Athanasius*'s epistle *ad solitariam vitam agentes*, to *Constantius* the emperor, said: *Do not, I pray, Emperor, mix thyself in ecclesiastical matters, nor prescribe us in this kind, but rather learn these from us. God has committed the empire to thee, — but to us he has entrusted what pertains to the Church.*
+
+Thus *Ambrose* to *Valentinian the Emperor*, when he demanded the basilicas to be handed over to him, answered: *Do not weigh thyself down, Emperor, that thou think thou hast any imperial right in what is divine. Do not extol thyself; but if thou wilt long reign, be subject to God. — It is written: What is God's, to God; what is Caesar's, to Caesar. To the emperor pertain palaces, to the priest the churches* (Ambrose Ep. ad Marcellinam sororem).
+
+The *Confession of Augsburg*, art. 7 on abuses, constantly urges that the distinction between ecclesiastical and civil power must be retained. — The ecclesiastical has its mandate to teach the gospel and to administer the sacraments; it does not encroach upon another's office; does not transfer kingdoms of the world; does not abrogate the laws of magistrates; does not take away legitimate obedience. And a little further: *bishops have not the right of the sword from the mandate of the Gospel, but by human right conferred upon them by kings and emperors for the administration of their civil goods.* — Which are indeed most true; but bishops are not permitted to accept some political power that they hold together with their ecclesiastical.
+
+In the *Papacy* the *bishops, canons, and Pope himself*, sacred functions sometimes (though rarely) administer — they teach, sanctify, ordain ministers, — either themselves or through their suffragans; — yet at the same time they are political princes, occupied in war and arms — in which kind they differ from *reformed bishops*. Therefore this objection does not damage our position.
+
+**Objection I:** *Ecclesiastical princes in the reformed churches* — Where such princes are recognized (as archbishops or bishops of some province), — this is not the same as of what we speak. — For our princes possess those ecclesiastical foundations, — even though they are not "bishops" in the proper sense (whose office is teaching the Word and administering the sacraments); — they administer what pertains to the preservation of the episcopate — establishing suitable ministers, keeping decent order, protecting law and justice, distributing goods and revenues of the episcopate. Therefore they retain the name of "bishops" — that is, of directors — in the sense of *Bodinus* — which is nothing else than to play a *political* person. In the same reason also *Canons* who in administering these goods pertaining to the episcopate are coadjutors, — as to this office are more political than ecclesiastical persons.
+
+But *in the Papacy*, bishops, canons, and the Pope himself are at the same time political princes, occupied with fortunes, wars, and arms, — in which they differ from reformed bishops. — Therefore this objection nothing avails against our position.
+
+**Objection II:** *Moderators of Schools and Academies* — as when one is at the same time a *court scribe* and a *rector of an Academy*, or a *pastor* over rustics who are his own subjects. — But the *Academies* in the Empire are all *clerical*, — that is, they belong to the ecclesiastical state, — retaining rights, privileges, labors, sometimes names of old collegia canonicorum. And to prefer clerics over other clerics is not to combine diverse things, — since these offices are not diverse, but of one and the same hierarchy. Even in the case of a *ludimoderator* [school-master] who is a court-scribe — this is *extreme necessity*, since due to the paucity of the ecclesiastical fisc the ludimoderator could not otherwise be sustained. — But this is an exception on grounds of necessity, — not an approval of *dispensations* to combine unequal offices.
+
+Where *no necessity* commands combining offices, there is *no power* for it, — neither in school, nor in court. Only such things are approvable — that a pastor for rustics-subjects has *jurisdictional* (not spiritual) power. — But this custom is inherited from the *Papacy*, which by no means we approve. — For a pastor's it is, following the Savior's example, *to send back business political* into a common forum. Hence it is the good custom in reformed churches, — that for the most part such causes are handled before *presiding officers*, and referred to *consistories*, which stand of Theologians and Politicals mingled — that neither is anything cast over from the pastor by *jurisdiction*, — nor is the pastor entangled in secular matters.
+
+**Objection III:** Some object *Solomon* (in Prov 6:16): *Political and ecclesiastical power to a good conscience cannot be combined* — therefore they can be one and the same. But not so; here we are treating not of *the goodness or the facility* of combining, — but *of just prohibition*, — since God expressly interdicted his own to unite these things. Therefore *Christ* himself was the *Savior*, — but not by his mediate power alone.
+
+**Objection IV:** Some say the *pious kings and princes* — who gave to bishops principalities and wealth, — did an act of piety. — But when for luxury they enlarged the wealth of bishops, — and gave Roman bishops the occasion of aspiring to temporal principality, — surely no work of piety they did, — since this is expressly contrary to Christ's interdict; — and gradually they loosened discipline of the Church, — of which the ancients complained in the well-known dictum: *Religion has given birth to riches, and the daughter has devoured the mother* (in *Bernard, Ad Eugenium*).
+
+Indeed *Pope Boniface* himself testifies that *bishops were first golden, when the vessels of the church were wooden; — but they began to be wooden, when their vessels became golden* — as is in the *Decretum Gratiani, de consecrat.* dist. 1 c. *vasa.*
+
+Removing therefore all these things which seemed to obstruct our assertion, we conclude — that not without cause is one and the same man denied both political and ecclesiastical power; and whoever attempts this, — approves the confusion of the most-distinct genera of life, — which no pious man has ever done.
+
+### Casus III. Whether Canonics may live in such a kind of life that pleases God, and in which with good conscience they may with ecclesiastical goods enjoy without sin
+
+*Reply.* A kind of life that pleases God is instituted *by him*, — comprised by certain laws, — supported by divine promises, — and confirmed by the examples of the saints, — in which without controversy live *pastor, deacon, consul, judge, quaestor, king, prince, courtier, noble, rustic, soldier, father-of-family, children, servants, workmen, notaries, litigators, and executioners.*
+
+All these can be certain, that they are in such a station as is not a human invention but a divine institution, — into which through ordinary means they have been divinely placed. And if in it they live according to God's ordinance, they conduct their affairs tranquilly, and by their labors serve God and neighbor, — they can be certain of God's protection and blessing. — Whatever also they acquire of earthly goods by their labors, they can with good conscience possess, and confer with hilarious soul to their own and their loved ones' use.
+
+Now as to *Canonics* — some are called *regular*, others *irregular* — which distinction the *Pontificals* themselves mock. — For every canon is *regular*, that is, living under the rule and canon of the Church, — subject to a bishop, and serving in the ministry. Some are *ecclesiastical canons*, who in Schools and Academies teach, or are part of the sacred ministry, — or by writing against adversaries defend the purity of religion. — If any such enjoy the goods of the Church, — with best conscience they enjoy those goods which were principally for this end ordained. — Some by *political counsel* serve the Republic, — and hence still remain in the ecclesiastical estate, — and the Church's revenues can be by them shared as if by a salary — with good conscience: for they too in their own way serve at the altar (1 Cor 9:13). Therefore especially, since the goods of the Church are so great, that above all others ecclesiastical ministers, and studious adolescents, and others in the ministry, can be sustained sufficiently and liberally.
+
+*Nothing must be diminished from either the veterans, who once in youth served the Church and Republic, and now their remaining years have consecrated to God*: to these, if from ecclesiastical benefices something is conferred, — deservedly they may enjoy. Nor is it forbidden if the same applies also to *sons of noble or rich or free* — but reduced to poverty — whose parents once with their goods largely enriched the treasuries of the Church: — where equity postulates, that also in *the poor benefices of the Church* they be principally received; — although for other poor also sacred money was destined, — who nevertheless must always be admonished, not to give themselves over to leisure and idleness, but that they walk before God as far as they can. — For no vocation is more contemptible than that of the beggarly poor, — nor for that cause do they take alimony, — since even Christians they wish to seem: — this they are held to do, even if not at fixed hours.
+
+*Just therefore is he who is worthy of the wage of his labor, as it is said (Luke 10:7): The laborer is worthy of his hire; so likewise Paul: goods of the Church, even to those not laboring, are to be given* (1 Tim 5:17-18).
+
+This *counsel of ours corresponds with Luther's* (t. 1 *Ien. germ.* fol. 273): *No one should attain to the goods of the Church who does not need them; the goods of the Church are for the pious, that is, for the poor of Christ, — the truly poor. — For where they are handled otherwise, they are inutile, from which comes ignominy of Christ.*
+
+We can not approve the *collegium canonicorum* which serves not politically, — but in which idleness is spread, and men are given over to it, — with the office they have received left behind, — while they neither pray nor sing psalms. — Such are the *many secular Canonics* (as they call them), who with bad conscience enjoy ecclesiastical goods, — and preserve not the substance of Canonics as instituted.
+
+### Casus IV. Whether anyone can with good conscience *become* an ecclesiastical or Musical Canon, and thereby demand a maintenance from that kind of life
+
+*Reply.* To this question no easy answer can be given — unless one considers what Canonics *ought to be* and what *they are today*.
+
+It is certain that in ancient times the *foundation of Canonics* consisted of *schools* and *collegiate lodgings*, in which the holy Fathers educated *younger men* — that they might be trained in *sound doctrine*, especially in interpretation of Scripture (which is called *canonical*, whence the name *Canonics*) — and in *liberal arts*, — to be *prepared for the ministry* of the Church and Republic. — Such schools *St. Augustine* himself had — as is agreed from his writings; and thus these collegia of Canonics were as it were *seminaries of the Church*.
+
+In the time of *Basil* the *monks* were not only devoted to studies of letters, but also to labors of hands. — They had in their monasteries workshops, in which each exercised his own art, — which places in the fatherland (that is, in Greek language, *ascetereia*, *hascereia*) they called *homes of exercise of practice*; whence also *monks laboring* they called *ascetes*, *nuns* they called *asceteria*, and *those in exercise* they called *ascetici* — as *Basil* in his sermons to these monks names them *ascetics*, as *Hospinianus* mentions.
+
+If therefore the *monastic life* had neither examples nor precepts in Scripture, — nevertheless in that age this institute seemed tolerable, since it conduced much to discipline, piety, and erudition — and moved the souls of princes and other opulent men, that they gave the greatest wealth to the monasteries with contest.
+
+For these did not therefore live monastically as *ungrateful to God*, but in that kind of life were dedicated candidates for the sacred ministry. — Today's *Papist monks* however have nothing in common with those, — but are wholly separated *by profession, vow, labor, study, habit, custom, discipline, and whatever else may be able to distinguish a wicked and useless burden from an honest man and one useful to the Christian Republic.*
+
+*Truest of them* is that which *Jerome* wrote to *Eustochium* the virgin: *In these are all things affected, — sleeves flowing, — shoes squeaking, — the little breast held stiff, — visitation of virgins, — swearing by the hair, — going forth first, — and if any thing more is desired for saturation. — Others in the streets are called *widowsloves*, *palentines*, — *practising sterility* and *no woman-in-things-past-corrupt* — for that name is more grateful to them, than *virgin*.*
+
+*Bernard* also wrote of the monks of his time (in *Ep. ad Guillelmum abbatem*): *O how much we differ from those who in Antony's days were! — When monks come to us, — of Scriptures nothing is dealt with, — nothing of the salvation of souls; — but nugae and vanities are brought forth into the wind.*
+
+What would *Bernard* say if he saw modern monks — to whose manners and life the monks of Bernard would seem angels?
+
+In such colleges of monks therefore no one can live with good conscience. — Which is not difficult to prove:
+
+**(1)** Among all pious men beyond controversy it should be, that *monasticism* is not a kind of life pleasing to God, — because it is not instituted by God himself, — nor by Prophets or Apostles, — but is a mere invention of men.
+
+**(2)** *Hermitic life origin* — The first author of the *eremitical life* was *Paul Thebais* and *Antony*. *Jerome* also in *the Life of Paul* denies that *Elijah* and *John* were fathers of monks; but calls *Paul* the illustrious author of the eremitic life, along with *Antony*. — The author of *coenobitic life* is *Pachomius* on the island of *Thebenna*, whose fathers were named *Thabennsiotae* or *Thabennitae* — as in *Vincent* (*Hist.* lib. 21 c. 81) and in *Nicephorus* (lib. 8 c. 4). Some add *Basil* and *Augustine* — but these in doctrine, discipline, — a way of life — differ from modern monks in the Papacy.
+
+**(3)** *Bellarmine* himself does not dare to confess that monasticism is instituted by Christ — but he says Christ *counsels* that certain men (whom he calls monks) may institute a stricter and more sublime kind of life than divine law prescribes, or the infirmity of many mortals may bear. — But nowhere do we read that Christ counseled anyone to *undertake a new kind of life* — where he should enter a coenobium, renounce marriage, and pour all his substance to others. — Nor should any new law or rule beyond divine be followed.
+
+**(4)** Monasticism does not befit any of the *three divinely-instituted hierarchies* (ecclesiastical, political, economic) — and even *Bellarmine* (in *De ecclesia militante*) puts monks in the *middle place* between clerics and laity, — but he cannot make his position stand.
+
+**(5)** Monks are not *hearers* of the Church, because they retire from others into solitary places — Chrysostom (in the *Rule*) prohibits them from receiving canons of the Church.
+
+**(6)** Nor is monastic *doctrine pleasing to God*, — since it is not from the Apostles or Christ but from *Dominic, Francis, Benedict*, and others of this sort — prescribed, — not commanded by Christ, — but for the most part *superstitious and inept* human thoughts and rules — not to speak of the *many Antichristian impieties.* True doctrine relies on the foundation of prophetic and apostolic Scripture (Eph 2:20) — and as *Ambrose* writes (*De poenitent.* lib. 1 c. 4): *Not by another's assertion — but by his own — must the Prince be valued.*
+
+**(7)** Finally, if you inspect the life of monks — although they present a great show of sanctity — yet within their gullets most live not the life of men, but of beasts. — So says the verse:
+
+> *What Stygian Pluto dares to attempt — what dares to do
+> the infamous, fraudulent monk!*
+
+They confess this themselves, — the more candid *Cluniac* brothers, — as *Peter of Cluny* writes to *the archbishop of Lyons*, calling *the monks and monasteries of the province of Lyons a Synagogue of Satan*. *Nicholas of Clémanges* (in *De corrupto ecclesiae statu*) says monks are *ravening wolves in sheep's clothing, — Satans transformed into angels of light, scribes, Pharisees, hypocrites, whited sepulchres, — and the monasteries of monks nothing else than prostibula of Venus to be prowled through, — to veil a virgin is nothing other than to expose her publicly to whoredom.* *Catherine of Siena* (in *Homily to the Church* c. 22) says *many religious in religion are as angels, but many more are the worse angels.*
+
+Therefore whoever wishes to have his conscience unspotted, and in his station in life to serve God, — let him flee the monastic life, and lend his labor rather that these dens of tauri putids and every hidden place of impiety be pulled down, or transferred to a better use, — which thing is the *ecclesiastical benefit of monastic profession*.
+
+### Casus V. Whether the profession of virginity dedicated to Christ from the pure evangelical faith may be professed with good conscience in the Reformed Churches, in some monastery institute
+
+*Reply.* As the ancient colleges of Canonics were once seminaries of piety and virtue, — in which the youth were educated to be always fit men for public offices — so also in the primitive Church, virgins had a *monastery* in which they might be dedicated to God and thus mediate the works of virginity — as *Athanasius* himself testifies (*De virginitate*).
+
+Before *Constantine the Great* and shortly after, they were not yet included in monasteries — the pious virgins consecrated to God remained at home with their parents or kinsmen, — or in solitary places (with one or another companion of the same purpose) they lived, — sedulously fleeing public conventions, going forth rarely and only modestly, — never joining lascivious banquets, — for such was reproved by *Cyprian* (in *De habitu virginum*).
+
+Then in the time of *Cyprian*, the *Alexandrians* had monasteries *coenobia* — into which some virgins were driven; and later this transferred to *Italy*: for *Ambrose* (in book *De virginibus ad Marcellinam* his sister) makes mention of Alexandrian virgins whom he had veiled.
+
+At *Rome* first was *Marcella*, a most noble widow, who took her name *Roman-and-widowed* into a virgin's profession, and finally drew many others — matrons and virgins — to her, as *Sophronia, Principia, Demetrias, Paula*, and *Eustochium*, whom *Jerome* teaches in his epistles.
+
+They did this without a vow of perpetual celibacy, *spontaneously and freely, — not compelled by anyone, — nor from a superstition or opinion of merit, but from pious zeal and ardent desire for the kingdom of heaven.*
+
+Their labor in monasteries was *to pray and to sing psalms* — but with an unknown language — that is, without understanding and affection — like parrots — which Scripture calls *worshipping God with lips only, and approaching him with the mouth* (Isa 29:13).
+
+*Boniface III*, Pope, around the year of Christ 710, permitted nuns to preach; — *Teccla* also at the river Uecrifum Vinga, and *Lieba* in *Bischofsheim* preached with the same author (*Ledione* lib. 6 c. 11) — nay, so much progressed the audacity, that even certain *abbesses* dared to lay on hands, ordain priests, and veil virgins, as *Hospinianus* (in *De monach.* c. 18 f. 151) refers.
+
+This was drawn from *Basil*, who called nuns *priests* — but this is expressly against Scripture, where *Paul* wills *a woman in silence to learn, not to teach in the Church, but to be silent* (1 Cor 14:34; 1 Tim 2:12); therefore *Charles the Great* in his constitutions gravely admonished bishops not to permit this.
+
+Hence at the *time of the Reformation*, along with other abominations, — such a life of nuns was translated to a better estate, — with the *contubernia* of nuns preserved, in which the daughters of the noble, and of others (especially poorer) — are nourished under the care and inspection of a grave and pious matron (*Domina*, *abbatissa*) — and under the direction of an *orthodox pastor* — in sincere religion and true piety.
+
+Into a *contubernium* or *monastery-college* of virgins of honest parents' daughters can without sin confer themselves — but under certain conditions:
+
+**(1)** Not against their will and unwillingly they be driven there by parents or kinsmen (as often happens in the *Papacy*), but spontaneously and freely they associate themselves to this contubernium.
+
+**(2)** Let them not think, that by this kind of life they are far holier than others; but with true humility of soul let them serve God — for *the place does not sanctify the man, but the man the place.*
+
+**(3)** Much less let them from this kind of life make any *merit*, or think themselves more grateful to God on that account, — for *with God there is no respect of persons; but in every people, whoever fears him and works righteousness, is accepted with him* (Acts 10:34-35).
+
+**(4)** Let them not think that in those cloisters they have a *sure custody* of chastity — for *coerced chastity is often perilous*, — as *Erasmus* wrote (in *Life of Jerome*): *Sacred virgins from the beginning were not, as today are they wont — locked up with iron bars as though in prison; and to lock them up is a religious matter approved by no one.*
+
+**(5)** *Let them not first vow perpetual celibacy* — much less continence — for this is not in their power. — Therefore let no snare be laid on tender consciences by vows, — according to the counsel of *Augustine* (*In Matth.* c. 30). — For nowhere did the Lord command a vow of virginity, — for *not all take that word* (Matt 19:11); — and *often those are more devoted who are compelled to be virgins* — as *Tertullian* writes.
+
+**(6)** Let them retain *the power of leaving the contubernium and marrying* — since in the primitive Church this was licit — as we heard above: *better to marry than to burn* (1 Cor 7:9). — Which power if they had not, better would it be not to see the contubernium, than with pollution of body and soul to have a sacred virgin.
+
+**(7)** Nor is the consecration and veiling necessary — much less is any singular sanctity in it, — but as an *outer sign of a free obedience* — where it is retained, — it may pass as an indifferent thing. But no place of it, in the sudden mutation of habit, without scandal. — Where however not customary, or even *when interrupted, no one shall make religion of it*.
+
+**(8)** As long as they are in the contubernium, let them abstain from *teaching* and other parts of sacred office which *Paul* forbade to the female sex; — themselves let them serve God as far as possible in the Spirit, — praying, singing psalms, reading, hearing, — meditating the Word; to the neighbor let them serve by the labors properly belonging to the female sex.
+
+By these means they can approximate the *usage of the primitive Church*, and either the whole or the good part of their life in such a contubernium without wound of conscience conduct.
+
+### Casus VI. Whether Princes, Counts, Barons, and nobles rightly enjoy ecclesiastical benefices in canonicates, to the exclusion of poorer men
+
+*Reply.* We do not ignore that in many collegia of canonics this custom is observed; — but we cannot approve it.
+
+For as *Jerome* writes (in *Ep. ad Damasum*): *It behooves the clerics to be sustained by ecclesiastical stipends who are supported by no stipends of their parents.* — But those who can be sustained by the goods and wealth of their parents — if they take what is of the poor, — surely they commit *sacrilege*; and by abuse of such things, they eat and drink the goods of the Church and the priesthood.
+
+We do not indeed disapprove, that even to sons and kinsmen of *founders* (other things being equal) a place in collegia be conceded; but that the poor be wholly excluded, — this we cannot approve. For even *Christ* in the college of the Apostles had *regard to his own kinsmen* — but *excluded no others from among the remaining*.
+
+Since so ample *legacies* to the Church have been donated by founders — among other things also for this cause, that noble families may be preserved in bloom — it is not indeed inequitable that regard be had for them before others, — provided they otherwise are worthy and apt; — nay it is equitable that also *poor* men be joined to them, — whose use in the Church or Republic can be, — provided otherwise they be of honest birth, who by study and industry can supply the defect of splendid ancestors.
+
+So therefore let ecclesiastical goods be distributed, — not only to those who have — against whom in this way the groans of the poor are stirred up, — but also that the neediness of the poor be relieved: thus each with greater tranquility of soul his revenues may enjoy.
+
+### Casus VII. Whether one may with good conscience enter a monastery, professing so-called *religion*
+
+*Reply.* Here we do not ask about the early monks who were first found in *Egypt*, and who afterward passed through other nations, — chiefly the *East* — of whose institutes *Augustine* speaks in *De moribus ecclesiae* c. 31, — and which *Bullinger* (lib. 4 *De origine erroris* c. 8) described: *They lived,* he says, *pursuing the study of goods and of sacred letters, at first ordinary men, — free, unmarried, and in colleges apart from all business at all things preferring — whence colleges were founded, from which came coenobia. — They served the same masters, — with splendid raiment they wore, — and with all sundry proportional foods, — likewise fasting living. — Also nearly all had a common purse — nothing peculiar was there — or if there was, it was quickly cleaned. All were consecrated to studies. — Almost twice a day they came to preachings, — and the reading was sacred with reverence, — of the whole day one part in preaching, — the other in exposition of canonical Scripture, — whence they also had the name *canonical hours*; — in other exercises the youth were in disciplines.*
+
+Even if the monastic life had neither example nor precepts in Scripture, — nevertheless in that age it seemed tolerable, because it much conduced to discipline, piety, and erudition — and much moved the souls of princes and others, that they contributed *the greatest wealth* to monasteries. For these were not ungrateful to God — but in such a life were candidates for the sacred ministry.
+
+*Modern Papist monks however have nothing in common with those*, but are wholly separated by profession, vow, labors, studies, habit, manners, discipline, — and whatever else may distinguish a wicked and useless burden from an honest and useful Christian citizen.
+
+Truest of them is what *Jerome* wrote to *Eustochium* the virgin (as cited above), — and *Bernard* also (in *Ep. ad Guillelmum abbatem*): *O how much do we differ from those who in Antony's days were! — Of Scriptures nothing is dealt with; nothing of the salvation of souls; — but nugae and vanities brought forth into the wind.*
+
+What would *Bernard* say — if he beheld modern monks, to whose manners and life the monks of *Bernard* would seem angels?
+
+In such colleges therefore no one can with good conscience live. As we showed above (Casus III of vows), *monasticism* is not a kind of life *pleasing to God*, — because it is not instituted by God — but is a mere invention of men.
+
+*Bellarmine* himself does not dare confess that Christ instituted monasticism, — but says Christ *counsels* it. — But nowhere do we read that Christ counseled anyone to *undertake* a new kind of life, — where he should enter a coenobium, — abjure marriage, — and pour out all his substance to others; — much less that he should follow any new rule or law beyond the divine.
+
+Monasticism therefore remains simply *a new kind of life, alien to the three hierarchies divinely instituted*.
+
+Moreover monks are not *hearers* of the Church, — because they withdraw to solitary places, — while Chrysostom's *canons* prohibit them from being of the *audientes*, — since they are separated from others in solitary places.
+
+Nor are they *doctors of the Church*, since the *Apostle* himself has distinguished them so that of no monks makes he mention (Eph 4:11; 1 Cor 12:28). — For *Christ has given some Apostles, some Prophets, some Evangelists, some pastors and doctors, for the perfecting of the saints, and for the edifying of the body of Christ.*
+
+Nor is *doctrine of monks pleasing to God* — since it is not from the Apostles or Christ, but from *Dominic, Francis, Benedict*, or others of this sort — prescribed; — for the most part *superstitious and inept* human thoughts and rules — not to speak of the *many Antichristian impieties.*
+
+Finally if the life of monks be inspected — although with great show of sanctity — yet within their gullets, most live not the life of men, but of beasts. — Even *Peter of Cluny* himself calls the monks of the province of Lyons a *Synagogue of Satan* (in *Ep. ad Archiepiscopum Lugdunensem*); — *Nicholas of Clémanges* calls them *ravening wolves in sheep's clothing*, *Satans transformed into angels of light*, *scribes and Pharisees, hypocrites, whited sepulchres*, — and their monasteries *prostibula of Venus, — to expose a virgin is publicly to prostitute her.*
+
+Therefore whoever wishes to have his conscience unspotted, and in his station to serve God, — let him flee the monastic life; — let him rather give his labor that these *stables of putrid tauri* and every *hidden place of impiety* be pulled down, — or transferred to a better use.
+
+### Casus VIII. On the *sacred virgins* (consecrated virgins / nuns)
+
+*Reply.* As the colleges of Canonics were once *seminaries of piety and virtue*, — in which youth were educated to be fit men for public offices — so also in the primitive Church, virgins had a *monastery*, in which they might be dedicated to God — as *Athanasius* himself testifies (*De virginitate*).
+
+Before *Constantine the Great* and shortly after, they were not yet included in monasteries — the pious virgins consecrated to God remained at home with their parents or kinsmen, — or in solitary places (with one or another companion of the same purpose) they lived, — sedulously fleeing public conventions.
+
+They did this *without a vow of perpetual celibacy, spontaneously and freely, — not compelled by anyone, — nor from a superstition or opinion of merit, but from pious zeal and ardent desire for the kingdom of heaven.*
+
+*Their labor* in monasteries: to pray, to sing Psalms and hymns at fixed hours, to labor with the hands, and to work in wool and linen. — Thus *Jerome* (writing to *Demetriades* on the guarding of virginity): *Beyond the order of Psalms and prayer, — what for thee at the third, sixth, ninth hour, and at evening, and at midnight should always be observed, — set thou. — What time thou shouldst learn the holy Scriptures. — How long thou shouldst not read but for exercise and instruction of soul. Which sentence for us, — if solicitous of soul, — is aroused: have always the loom in thy hands, — even with the thumb the thread be drawn, — with the shuttle sound-and-fro thou draw beneath the woven-work — the little basket receive them; — of others thy own — the woven-carding-collect, — or the weavings compose. — What is woven, look upon; — what is worn, correct.* And similar things are in *Augustine* (*De moribus catholicae ecclesiae* lib. 1 c. 31).
+
+In later times, when true religion became polluted with superstition — the sacred virgins (called *nuns*) were locked up in monasteries, — for the most part in tender age, — and by *ethelothrescia* [Col 2:23, self-imposed worship], hypocrisy, superstition, and a vain persuasion of merit, — vowed virginity to God. — Which vow they could not without grave sin (and almost capital crime) change, thinking this cultus most grateful to God, — with the largest promises of the present and especially of the future life.
+
+At *the time of the Reformation*, along with other abominations, such a life of the nuns was translated to a better estate — with contubernia of nuns preserved (where they are kept nowadays under an orthodox pastor's direction in true piety).
+
+*Into a contubernium of virgins* can, without sin, confer themselves — but under certain conditions:
+
+**(1)** Not against their will and unwillingly be they driven by parents or kinsmen, but spontaneously and freely associate themselves.
+
+**(2)** Let them not think themselves holier than others by this life — for *the place does not sanctify the man*.
+
+**(3)** Much less let them by this life make *merit* — for *with God there is no respect of persons* (Acts 10:34-35).
+
+**(4)** Let them not think that in cloisters they have a *sure custody of chastity* — since *coerced chastity is often perilous.*
+
+**(5)** Nor let them perform a *vow of perpetual celibacy* — much less continence — for it is not in their power. — *Better to marry than to burn* (1 Cor 7:9).
+
+**(6)** Let them retain *the power of leaving the contubernium and marrying* — since in the primitive Church this was licit — *better to marry than to burn.*
+
+**(7)** Nor is the *consecration and veiling* necessary — much less any singular sanctity in it — but only as an *outer sign of a free obedience* — where retained, — it may pass as an indifferent thing.
+
+**(8)** As long as they are in the contubernium, let them *abstain from teaching* and other parts of sacred office which *Paul* forbade to the female sex; — themselves let them serve God as far as possible *in the Spirit* — praying, singing psalms, reading, hearing, meditating the Word; — to the neighbor let them serve by the labors properly belonging to the female sex.
+
+By these means they can approximate the *usage of the primitive Church*, and pass either the whole or the good part of their life in such a contubernium without wound of conscience.
+
+### Casus IX. On beggars — whether they live in a legitimate kind of life, — and how they should be tolerated in the Republic
+
+*Reply.* No one indeed in the Republic lives in an honest life-kind who does not live: therefore the divine laws exclude *mendicants and prostitutes* from the Republic of the Hebrews (Deut 23:15,17). And to idle, lazy bellies, *Paul* denies bread (2 Thess 3:10). So also the *Electoral constitutions* do not permit *vagabonds* in the territories of Saxony.
+
+Now as to mendicants — they indeed pertain to *the poor*; but there are two orders of poor: **(1)** *the truly poor*, who have nothing whereby to live, nor can with their hands procure food — even were they willing; — such are *orphans*, foundling infants, aged sick or attenuated. **(2)** *Able-bodied mendicants*, valid in body-powers, and fit for their labors, — even though otherwise they possess nothing in their own goods.
+
+To the first class we cannot exclude, — though they can serve no one, — from any order of men, — but refer them to the *economic estate*, — since they are part of those whom the paterfamilias should feed, according to that of Christ: *The poor ye have always with you* (Matt 26:11).
+
+For sustaining these, there should be established *hospitalia*, *ptochotrophia*, *orphanotrophia*, *gerontocomia*, *xenodochia*, in which such be sustained; — collections should be made from the peculium of subjects, that always there be at hand sufficient sums for feeding such mendicants, — lest they be forced to seek bread door-to-door and thus be a burden to citizens.
+
+For that cause the Lord in his people's law forbade that *there be a mendicant in his people* (Deut 15:4) — for otherwise they should provide for the poor: — for which end the priest set a chest in the church, in which contributions of the people were collected, for the preservation of the temple and the sustenance of the poor (Deut 12:9). *The Apostle Paul* commanded a *collection* to be made every Sabbath (1 Cor 16:2).
+
+To this example the *Apostolic Church*, and later others, instituted collections for the poor — as *Tertullian* (about the custom of his times) writes: *Each on the monthly day, or as when he wills or as he is able, brings some modest coin. — And these are as pledges of piety; from them do not banquets, nor do drinking parties, nor those *ungrateful gourmandies* dispense; — but to feed the needy, — and to bury them, — to boys and girls destitute of father and mother — and now to domestic elders, — likewise the shipwrecked — and if there be any in mines, or on islands, or in custodies, — provided the cause be of God, — become alumni of their confession.*
+
+The same was in use in the time of *Origen* and *Chrysostom* — as is agreed from *Homily 16 of Origen on Jehoiada*, and from *Chrysostom Homily 47 to the people of Antioch*.
+
+Of *Atticus, bishop of Constantinople*, *Socrates* (*H.E.* lib. 7 c. 25) refers, that he sent 500 aurei to *Calliopus* the presbyter of the Niceans, to be distributed among the poor, — namely those poor who *blush to beg*, not who through their life consult their belly. — As they follow those things.
+
+The *Ethnics* also did not indeed tolerate mendicants in their city — as is known from *Plato*'s law (lib. 12 *De legibus*: *No one shall be a beggar in our city*, — but at public expense the poor are to be sustained, — he judges).
+
+There stands also the *Constitution of Charlemagne*, in which he prohibited that anything be given to *palanting beggars*; but ordered that each region feed its own poor, — and that the healthy and valid seek food by labor, — as *Camerarius* refers (*Hor. success.* part 1).
+
+Finally our *Luther* in his *sermon on usuries* has this counsel — that the poor of each city be nourished by the citizens of that same city, — and that no public begging be permitted. — For it is *a reproach of Christians*, — and *a non-negligible sign*, — that among us charity toward the truly poor has cooled, — to which as often as those cries of the beggars are heard in the streets, we are admonished.
+
+In the *second class* are *the able-bodied beggars*, who wander hither and thither errantly, — feigning diseases and infirmities of body, — while in truth they labor under the disease of *idleness*. — These we deny to live in a legitimate kind of life. — Neither has God instituted this order of men, — nor do their works please him, — nor do they serve God or neighbor, — but on the contrary harm greatly: — they intercept what is of the true poor, — and accustomed to voluntary poverty, — they easily fall into thefts and robberies.
+
+Hence in ancient times they were cast out from the Republic as *putrid members*, — with the lepers and the corpses of the dead (which were also not tolerated in the temples), — as *Plato* (*Republic* 8): *In that city where thou seest beggars, — there also there are thieves, — hidden thieves, — sacrilegious ones — and every kind of crime-artists.*
+
+Therefore *those idle-lazy bellies must be compelled who blush not to beg*, — and either to labor, or to leave the city, must be forced. — For nothing is more shameful, — nothing more stupid, — than being able to acquire food by labor, — nevertheless to beg.
+
+On this matter we have the gravest admonition (Sir 40:28): *My son, in the time of thy life beg not; for death is better than begging. He who looks to another's man's table, his life is not to be reckoned for a life; he feeds his soul with others' food.*
+
+Let therefore the *mendicant monks* see how they may please God or men, and preserve their conscience tranquil. — For they depart both from the *institution* of God, — and from the *customs* of the ancient monks who (as *Epiphanius* writes in *Compend. doctr. cateches.*) *made themselves exercised in slender arts, lest they lead an idle life or eat bread gained by force.* — *Augustine* (*De opere monachorum* c. 27) writes: *It is not lawful for a monk to live from another's substance, though he be assiduous in prayers and contemplations.*
+
+### Casus X. Whether in a legitimate kind of life live those who exercise *ludicrous arts*, or *scurrilous and ridiculous* ones, or *make instruments of gaming*, as dice or playing cards
+
+*Reply.* *Tightrope-walkers and jugglers*, who by some agility of body or fascinating of the eyes seek their food — whether they live in such a kind of life which pleases God, I greatly doubt.
+
+For they can be referred to none of the said hierarchies; nor do they by these arts profit anyone, — but rather call away others from honest labors to leisure, — and themselves are more given to leisure than to labor, — since their arts consist of no or only inutile labor. — In a well-constituted Republic they are not readily received, — but wander about as *ardelions*, — an example to the youth, — that better and more useful things one may learn. — For *Paul* wills that any Christian *labor with his hands doing what is good* (Eph 4:28) — and *whatever is grave and worthy of veneration, and whatever holds in itself gravity and reverence* (Phil 4:8) — by which name *Paul* demands that Christians be not sitters of *scurrilous, jocular, ridiculous* arts — such as that of him who cut chickpeas from a spacious distance into a needle continually and without frustration, — whom *Alexander*, when he saw him, is said to have donated a modius of the same legume. — Which was a prize most worthy of the work. — For such arts have no *veneration*, no *gravity* — and are unworthy of the name of art.
+
+Therefore *Paul* demands that a Christian *beware of these arts, and hold the honest* — whether of things useful and necessary in the Republic, or of other honest callings — which are the words of the Apostle (Phil 4:8).
+
+As to those who *make dice and playing cards* — of them a judgment can be formed from the character of *gamblers* and those who play cards.
+
+Such a game is sometimes played *for sake of gain* — and since here by loss of money (which might better be placed elsewhere) the outcome depends on chance, — time is uselessly wasted, — patrimony is sometimes abandoned, — occasion is given for insults, blasphemies, — quarrels and fights. Hence *gamblers are so ill spoken of in civil laws and in the writings of the sacred Fathers.*
+
+In the *Digest, De aleatoribus*, the praetor denies right of action to a gambler for injury from his associate, — which he grants even to the plunderer or invader however unworthy.
+
+Emperor *Justinian* in his *Authenticae* (*Tit. De sacrosanctis episcopiis, § interdicimus*), by name prohibits that any bishop, presbyter, or deacon either himself play or watch those playing. — If any does otherwise, he decrees that he be thrust into a monastery for three years.
+
+In the *Canons of the Apostles*, canons 41 and 42 — and cited in canon law (*Distinct*. 35 c. *episcopi*): *A bishop or presbyter or deacon serving dice or drunkenness, either let him desist or certainly be condemned. A subdeacon, or reader, or singer doing the like, either let him desist or be deprived of communion.*
+
+*Chrysostom* (Hom. 6 in Matth.) writes: *God did not invent play, but the devil* — alluding perhaps to what *Plato* wrote in the *Phaedrus*, that *Theuth*, the demon of the Egyptians, invented *number, geometry, astrology, letters, and dice*.
+
+But when *without hope of gain* — merely for the sake of the soul — one plays, — it is not sin. *It is wisdom* (says *Augustine*, *De Musica* lib. 2) *sometimes to recall the soul from serious things — which is most done by play.* Therefore the ancients allowed the family, that at meals they play for *dice, — which afterward was eaten at the meal*; also to the ancients was it permitted to soldiers, apart from their duties, to play at dice; and *Plato* said that life is similar to playing dice. — For as at chess, so also in life, — if something less apt has fallen, it must be corrected by art.
+
+When therefore the play of dice or cards is *for the sake of soul-recreation*, — brings no damage, — nor takes time from more useful things, — but refreshes the alternations of life, — and is conjoined with honesty — it is not to be blamed. — In which name we do not exclude from an honest kind of life those who make dice or playing cards — especially since they use their industry not only on these, but also on other more useful things. — If any *abuse* enters, this is to be imputed not to the art, but to the vice of men.
+
+*[T27 pickup: Liber IV Cap. V — De vocatione ad ministerium verbi (calling to the ministry of the Word), OCR ln 56344 / phys p. 896. Preamble on ecclesiastical hierarchy as principal condition of human life — instituted by Christ Matt 28 + John 20 + Isa 61:1 + sanctified by Christ's own example; ordinary means through which regeneration + faith + eternal salvation are wrought (1 Cor 3:8 verbum vitae + Spirit's efficacy through Word); Casus I opens on calling of ministers (both the internal call from God + external call through the Church) — see loc. commun. of Gerhard t.6 + Vom Amtstheologische consilia of Georg Dedekenn appendix.]*
