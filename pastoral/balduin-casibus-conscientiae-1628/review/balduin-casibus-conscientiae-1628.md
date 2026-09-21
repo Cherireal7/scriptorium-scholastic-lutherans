@@ -11094,27 +11094,49 @@ Those to whom this is not commanded do not sin if they exhort others from vices,
 
 ### Casus IX. What things are to be observed concerning alms which we owe our neighbor
 
-*Reply.* Alms-giving is of divine right, which cannot be violated without wounding conscience. God so commanded: *if one of thy brethren fall into poverty, thou shalt not shut up thy heart nor draw thy hand, but open it to him and lend him what he needs* (Deut 15:7–8); *deal thy bread to the hungry* (Isa 58:7); *do good and lend, expecting nothing again* (Luke 6:35); *That they do good, that they be rich in good works, ready to distribute, willing to communicate;* (1 Tim 6:18); *forget not benefits and communication* (Heb 13:16). Christ testifies many at the last day will be sent into eternal fire because of omitted alms (Matt 25). Hence Ambrose: *if thou hast not fed, thou hast killed*.
+*Reply.* It is certain that alms-giving is of divine right, which we cannot violate without wounding of conscience. So the Lord in *Deuteronomy* commanded: *if one of thy brethren fall into poverty, thou shalt not shut up thy heart, nor withhold thy hand from thy poor brother; but thou shalt open thy hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth* (Deut 15:7–8). *Deal thy bread to the hungry* (Isa 58:7). So Christ (Luke 6:35): *do good, and lend, hoping for nothing again*. So also to Timothy Paul writes: *charge them that are rich in this world, that they do good, that they be rich in good works, ready to distribute, willing to communicate* (1 Tim 6:18). And in the epistle to the Hebrews: *to do good and to communicate forget not: for with such sacrifices God is well pleased* (Heb 13:16).
 
-**Alms-giving requires two things**:
-1. **Person of giver**: must have (a) just dominion over what he gives — for from ill-gotten things ill given (God does not accept prostitute's or dog's price, Deut 23:18); (b) alms from superfluity — what remains after preserving his own decent state; (c) given willingly, hilariously, without upbraiding, *God loves a cheerful giver* (Sir 35:8; 2 Cor 9:7); (d) not from hypocritical or vainglory-motive (as the Pharisees, cf. Matt 6), but for God's command's sake and to lift up neighbor's need; (e) not excessive so as to reduce oneself to poverty (Prov 27, "let your fountains flow, but keep them within thyself").
-2. **Person of receiver**: must be needy. Not those with sufficient means. Necessity is threefold: **extreme** (proximate peril of life), **grave** (something needed for maintaining status), **common** (ordinary poverty as of beggars).
+Christ himself testifies (Matt 25) that many on the last day will be sent into eternal fire on account of alms omitted. Nay, *every dilection of God is denied to him who to a neighbor does not show mercy* (1 John 3:17). And to Job (chap. 25) Augustine appended: *si non pavisti, occidisti* — *if thou hast not fed, thou hast killed*.
 
-### Casus X. To whom alms are to be given
+**Two things are required for alms**: (1) the *person of the giver*, (2) the *person of the receiver*.
 
-*Reply.* Alms are fruit of Christian charity. Charity is ordered, and *begins from itself*. It can happen that parents are reduced to poverty while children flourish; then rightly the *initium* of alms starts with them: **among parents the first place is father**, to be helped before mother.
+**As to the giver**, he must have:
 
-Then follow **children** — to whom before their wife, though she be poor, alms should be given.
+*(a) Just dominion* over what he gives to alms — for from ill-gotten things one gives ill. So God of old would not accept the price of a whore or of a dog (Deut 23:18). Of another's goods either nothing can be given to the poor, except by those to whom the administration of another's goods is committed — as *quaestores*, *oeconomi*, *tutores*, *curatores* &c., who from the goods of their principals commonly give alms to those among whom they live.
 
-Then **brothers, sisters, other blood-kin near of blood**. *Who has not care of his own is worse than an infidel* (1 Tim 5:8).
+*(b) Alms must be given from superfluity of goods* — that is, from what is left over for preserving one's own status and one's own family's. For thus is it to be given: *let there be equality, — your abundance may be a supply for their want* (2 Cor 8:14).
 
-Then **domestics** and those any way joined to us: they should be helped in alms before strangers. — Similarly a debtor reduced to poverty ought rather be helped than another.
+*(c) Alms must be given not unwillingly, not sadly, but hilariously* — not with upbraiding, but so that the left hand knows not what the right hand doeth. *God loves a cheerful giver* (Sir 35:8; 2 Cor 9:7).
 
-Finally **strangers**, among whom however **religious brethren, our religious fellows**, have precedence — as Paul writes, *As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.* (Gal 6:10).
+*(d) Alms must not be given from hypocritical animus and vainglory-motive*, as were the alms of the Pharisees (which Christ rebukes, Matt 6); but *simplicis animi* — with simple mind — only for the sake of God's command and to relieve neighbor's want.
 
-To *extraneos* pertain also **enemies** and even those unworthy of benefit: to these too alms should not be denied, since Christ (Matt 5) wills we love enemies; especially one in extreme necessity, is to be helped by us before beasts, — since in general more must be looked at need than dignity.
+*(e) Alms must not be excessive*, such as would reduce the giver himself to poverty. Wherefore Solomon exhorts: *let thy fountains flow abroad, — but keep them within thy own bounds* (Prov 5:16).
 
-Yet if someone maliciously feigns poverty when he could work — no obligation of alms.
+**As to the receiver**, he must be *needy*, in extreme necessity. For to the wealthy or to those having necessities of life, alms are not given.
+
+*Necessity* however, on account of which alms is to be given, can be threefold: either **extreme**, or **grave**, or **common and ordinary**.
+
+- **Extreme necessity**: when someone incurs the probable peril of life.
+- **Grave necessity**: when someone needs things by which he must preserve the decent condition or status of his person or of his own.
+- **Common and ordinary**: which happens everywhere and to many, as is the poverty of *mendicantium simpliciter et vulgarium pauperum* — those who are supported in our alms-houses or hospices, or others who need clothing, food, and drink.
+
+### Casus X. To whom alms are chiefly to be given
+
+*Reply.* Alms are a fruit of Christian charity. But charity is ordered and *begins from itself*.
+
+It can happen that parents fall into poverty while their children flourish; then rightly the *initium* of alms starts from these. **Among parents the first place is due to the father**, who is to be helped before the mother.
+
+Then follow the **children**, to whom, before the wife herself (though she be poor), alms are to be given.
+
+Afterwards follow **brothers, sisters, and other blood-relatives most nearly conjoined**. He that has no care of his own is worse than an infidel (1 Tim 5:8).
+
+Here belong also **domestics** and those any way conjoined to us: these must first be helped by alms before strangers. — Similarly a creditor rather ought help a debtor reduced to poverty than another, if the creditor himself is not likewise in extreme necessity.
+
+Finally follow **strangers**, among whom, however, our *religious fellows* — those of the same faith — have precedence, as Paul writes: *As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith* (Gal 6:10).
+
+To *strangers* also pertain **enemies** and those unworthy of our benefits. To these, however, alms are not to be denied, since Christ (Matt 5:44) wills us to love our enemies. So a needy man in extreme necessity, whether friend or enemy, is to be helped even before our beasts, — since in general one must look more to need than to dignity.
+
+Yet if someone maliciously feigns poverty though he could work, there is no obligation to give alms to him — since our liberality ought not to sustain the sluggishness of others. *More on the validity of these authorities see Sirach*, *Bishop Cyprian*, and others.
 
 ### Casus XI. If a debtor and a creditor labor in extreme necessity, whether by divine right the debtor is bound to render to the creditor what he owes, and to perish
 
@@ -11154,15 +11176,19 @@ To these, though hungry, alms should not be given from another's alms, since the
 
 **Some misers are spiritual**: as parents who omit alms out of fear of leaving no inheritance to children. To these: it is well to admonish that spiritual alms are more excellent than corporal — the *magna virtus* of alms lies before God (Lev 25; Sir 3:29–30). Scripture ascribes remission of sin, in some places, to alms — as Daniel to Nebuchadnezzar (Dan 4:24): *break off thy sins by alms*. And *Sir 3:33: alms extinguish fire, as water*.
 
-### Casus XV. Whether alms are spiritual gifts, so that faith is to be believed, alms redeem sins
+### Casus XV. Whether alms are a *spiritual* gift, so that we should believe that alms redeem sins
 
-*Reply.* *Augustine* (*De civ. Dei* 21.22 & 26) refuted those who thought that no one is damned who gave many alms; because it is written *For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.* (James 2:13), but those who give alms, though held by great sins in which they persevere unto end of life, are neither damned nor tormented eternally.
+*Reply.* *Augustine* (*De civ. Dei* lib. 21 c. 22 & 26) refuted those who reckoned that no one is damned who gave many alms — because it is written (James 2:13): *he shall have judgment without mercy, that hath shewed no mercy* — yet those (they said) who give alms, though held by great sins in which they persevere to the end of life, are neither damned nor tormented eternally. Which error *Augustine* solidly refutes in that same chapter.
 
-**True however is that alms of themselves are pledges of God's grace** — the truly-faithful alms flow from faith working through love. But **expiation of sins, liberation from death and Satan's power, are wholly the work of Christ**: as he says of himself (Isa 43:25): *I am he that blots out thine iniquities for my own sake*. Alms cannot be **the cause of remission of sins** but are **fruits of a heart already reconciled with God**.
+Scripture too seems in some places to ascribe the remission of sins to alms, as when *Daniel* says to Nebuchadnezzar (Dan 4:27): *break off thy sins by alms, and thy iniquities by showing mercy to the poor*. And *Sirach* (3:30): *water quencheth a flaming fire; and alms maketh atonement for sins*. And elsewhere (Sir 29:12): *shut up alms in thy storehouses, and it shall deliver thee from all affliction*. And (Prov 16:6): *by mercy and truth iniquity is purged*.
 
-If Scripture in some places (Dan 4; Sir 3) speaks of alms in respect of the remission of sins, it must be understood in the ordinary way that alms are witness that the soul is reconciled; they show the fruit of penitence. — *Fides* through alms is proved living, — hypocritical faith without alms proved dead.
+**True indeed** it is that alms of themselves are pledges of God's grace — the truly-faithful alms flow from faith working through love. **But the expiation of sins, and liberation from death and the power of Satan, are wholly the work of Christ**, as he himself says (Isa 43:25): *I am he that blotteth out thy transgressions for mine own sake; and, I will not remember thy sins*. Wherefore alms cannot be the **meritorious cause of remission of sins**; but they are **fruits of a heart already reconciled with God**, and by them faith is proved *living* — as faith without them is proved *dead* (James 2:17).
 
-**In sum**: alms not the meritorious cause of forgiveness, but sign and fruit of a heart pleasing to God through Christ.
+If then Scripture (Dan 4, Sir 3) ascribes to alms remission of sins, it must be understood in the ordinary manner: that alms bear witness that the soul is reconciled, and are the fruit of penitence. So *Chrysostom* on that Sirach passage: *alms extinguish sins as water extinguishes fire — that is, they testify to a heart already truly turned to God*.
+
+**Wherefore** *impii* — those who abide in impenitence — get nothing from alms toward salvation; but rather increase their own condemnation by making a show of piety without a heart truly renewed. Alms of a proud man, of one impenitent, of one unbelieving, — are as splendid vices, and often become fuel of hardness.
+
+**In sum**: alms are not the meritorious cause of forgiveness, but the sign and fruit of a heart pleasing to God through Christ; and by this gate alone do alms belong to the *spiritual* order — as witnesses of faith and effects of divine grace working within.
 
 ### Casus XVI. How correction of a sinning neighbor is to be undertaken, that the neighbor may be corrected
 
