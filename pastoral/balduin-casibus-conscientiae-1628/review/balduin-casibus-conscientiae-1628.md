@@ -8536,4 +8536,212 @@ But when *without hope of gain* — merely for the sake of the soul — one play
 
 When therefore the play of dice or cards is *for the sake of soul-recreation*, — brings no damage, — nor takes time from more useful things, — but refreshes the alternations of life, — and is conjoined with honesty — it is not to be blamed. — In which name we do not exclude from an honest kind of life those who make dice or playing cards — especially since they use their industry not only on these, but also on other more useful things. — If any *abuse* enters, this is to be imputed not to the art, but to the vice of men.
 
-*[T27 pickup: Liber IV Cap. V — De vocatione ad ministerium verbi (calling to the ministry of the Word), OCR ln 56344 / phys p. 896. Preamble on ecclesiastical hierarchy as principal condition of human life — instituted by Christ Matt 28 + John 20 + Isa 61:1 + sanctified by Christ's own example; ordinary means through which regeneration + faith + eternal salvation are wrought (1 Cor 3:8 verbum vitae + Spirit's efficacy through Word); Casus I opens on calling of ministers (both the internal call from God + external call through the Church) — see loc. commun. of Gerhard t.6 + Vom Amtstheologische consilia of Georg Dedekenn appendix.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Chapter V. Calling to the Ministry of the Word
+
+*De casibus conscientiae circa vocationem ad ministerium verbi.*
+
+*Prooemium.* Thus far in general we have treated of the estates and conditions of men. Now we approach those things which, concerning any single kind of life divinely instituted, must be considered *in species*.
+
+The principal condition of human life is the *ecclesiastical hierarchy* or *ministry of the Word* — which *Christ himself* instituted (Matt 28; John 20:21), and sanctified by his own example (Isa 61:1-2), — and willed to be *the ordinary means* by which in us he might work *regeneration, faith, and eternal salvation* — whence it is also called *the ministry of the Spirit* (2 Cor 3:8), because the Holy Spirit through it is wont to be *efficacious* in us.
+
+Its necessity is such — that the world can sooner lack its sun, than the Church lack the ministry of the Word. Yet not absolute is the necessity — as if God could not otherwise promote human salvation; but *conditional*, according to God's will. For as God ordinarily by common food sustains the health of men (Ps 104), — yet sometimes even without such food he has done this (as in the desert he not only fed his own people forty years with manna, but also *Moses* and *Elijah* in species he sustained without food, Exod 24:18; 1 Kgs 19:8) — so also ordinarily through the ministry of the Word he deals with us in the matter of salvation, — and yet without the Word he has illuminated the Prophets, and converted the thief on the cross without the ministry.
+
+Many things concerning the ministry of the Word occur as doubts, which concern in part *the persons of teachers*, in part *vocation, office, gifts, qualities, virtues, and vices* of the ministers. — Of which here we treat briefly, since many things in the *loci communes* of *D. Gerhard* (t. 6) and in the *volumes of theological counsels* of *Master George Dedekenn* (in the *Appendix*) are collected and unfolded, — and above (Lib. 1 c. 6) we have had some of this kind, — and especially in our booklet *De institutione ministrorum verbi* we have treated it.
+
+To treat distinctly of distinct things, let us begin now with the vocation of ministers — the chief with God to be explained things which concerning it are called into doubt.
+
+### Casus I. Can anyone not called — but otherwise fit for teaching — with good conscience take upon himself the office of teaching, when in some church, with all other doctors failing, no called minister can be had
+
+*Reply.* It can happen that some particular church, either by wars or some other event, is deprived of all her ministers, — where neither can copies of others legitimately called be had, — nor can the Church long lack doctors. — Here seems to be a certain case of necessity, which has no law: — and therefore he might be excused perhaps, who from a middle assembly should come forward to teach the people, baptize infants, administer the Supper, visit the sick, unite spouses, or otherwise execute the parts of the ministry.
+
+But one rightly instructed on the vocation of ministers will not easily approach this. *For no one takes this honor to himself, unless he be called of God*, as Aaron (Heb 5:4). — *God himself repudiates those not sent*, as pseudoprophets *who run before they are sent* (Jer 23:21). *Paul* also teaches that no one can preach without a calling (Rom 10:14-15). And to pseudoprophets Christ says (Matt 7:15): *they come to us* — that is, not sent.
+
+Unworthy indeed it is, that anyone should burst into the house of God not called, — and much less should a man dare to do this in someone's private house.
+
+Neither does one take the burden of a legation upon himself unless sent by a prince: — much less should one dare to take upon himself the ministry of the Church, in which doctors *stand as legates for Christ*.
+
+Moreover a *legitimate calling* is a great solace to those who in the discharge of their office undergo perils. — For he who has called will also give the necessary gifts, and from the perils into which one falls in his vocation, he will deliver — a solace which those who have thrust themselves in have not.
+
+It also greatly matters that the people know whom they have as ordinary doctor, and by whom he has been called — for *every spirit should not be believed*, according to the admonition of *John* (1 John 4:1).
+
+For this cause let no one without a calling undertake the public ministry: — for neither can he ever have tranquil conscience whether his labor be pleasing to God; — nor in adversities can he lift up himself or others, since he knows this was not committed to him.
+
+Let him therefore see to be called, that he may have a true foundation for his labors. — Wherefore *Luther* writes (t. 1 *Ien. germ.* fol. 233): *Whoever bursts in, — let him not think that he is called; — let him see the letters and the writings to be attested, that he is a firm and certain teacher of others.*
+
+If this cannot be done, — it is better in a defect of one's own pastor to be content with the ministry of the vicinity, — or to use mute doctors, — that is, to use good books; baptism of infants, sacrament of the altar, uniting of spouses, — to seek from neighbors: — until God has regard for his Church, and provides suitable ministers.
+
+Meanwhile from that very defect of the ordinary ministry let him gather how great a treasure the Church has to have pious doctors, — whom while we have, let us pursue with due obedience, lest that be fulfilled in us (Prov 20:14): *Evil, evil, says every buyer; and once he has departed, he does not cease to boast.*
+
+*Objection*: *Luther* in several places (in his *Book on the Abuse of the Mass*) teaches that vocation is not necessary — since anyone may teach without calling. — But *Luther* in all those places is not speaking of the *public ministry* (since a Church there is not constituted, or without extreme necessity — where always a legitimate calling is urged, as is agreed from *1 Reg.* c. *nunc autem* — that the Church has power of calling ministers, — but concerning the *common right of all Christians*). For when the Pope and bishops had usurped the right of calling ministers to the exclusion of the priesthood-of-the-people, — *Luther* opposed to a Papal *sacerdotium* the *common right of all Christians*, whom Peter calls *a royal priesthood, to declare the virtues of him who called us out of darkness* (1 Pet 2:9).
+
+But that power of announcing the Gospel publicly is exercised not by all promiscuously, but by certain persons legitimately called to the ministry. Which sentence *Luther* himself has explained in his book *De instituendis ministris ecclesiae* (Tom. 2 Ien. lat. fol. 375): *This community of right compels, — either that one, or however many please, be chosen and accepted, — who in the place and name of all who have the same right may exercise those offices publicly: — not that anyone in the people of God be a Babel, — but that all things be done according to order, as the Apostle taught. — For it is one thing to exercise this right publicly, — another thing in necessity to use the right; — publicly nothing must be done except by common consent, — but in necessity anyone may use the right as he wills.*
+
+### Casus II. What right belongs to a Christian community when it cannot be without ministry of the Word, nor has a copy of ordinary ministers in the vicinity — may any of them without a calling teach
+
+*Reply. Luther* answers (in the place cited above, Tom. 2 *Ien. germ.* fol. 236): *He who is in that place where there are no Christians*, — he says — *needs no other calling than to be a Christian, — internally called and anointed by God to be a priest.* Therefore he does not err — the erring gentiles and unbelievers to preach the Gospel — even from debt and fraternal charity, — even from a non-man-called-thing. Thus did *Stephen* and *Philip* (Acts 6 and 7), when they had no power of teaching, and yet they taught, and did miracles great among the people. Thus did *Philip* the Deacon (Acts 8) — to whom teaching was not committed. And *Apollos* (Acts 18). For in that case *the Christian, out of fraternal charity, provides for the necessity-of-perishing-souls of pagans*, — nor does he wait, — until by letters of vocation this office of teaching be commended to him by a bishop or some prince.
+
+Whence in that place *the Roman-Christian teacher* is a *legitimate teacher, as Sozomen refers* (lib. 2 *Hist. eccles.* c. 6): *a certain captive woman among the Iberians preached the faith of Christ, converted first the queen, then also the king himself.*
+
+Of this woman we can say — that she evangelized *without a calling*, since among the Iberians there was not yet any pastor of the Church.
+
+Hence *Bucer* — or whoever the author of the commentary on the Epistle to the Ephesians — distinguishes between *a Church newly planted, and a Church already almost constituted*: in the former, any Christian may teach and baptize even without calling; in the latter, only those called and ordained. His words: *After the Church is constituted in all places, and the offices ordained, — otherwise it stands than it began. First all baptized those with whom on days or in occasions was given occasion. — Nor did Philip await time or day when he baptized the Eunuch; nor Paul and Silas the jailer* (Acts 16:33). *No later did Peter — where he had deacons — inquire on what day he might baptize Cornelius, — but through the brethren who were with him from Joppa (nor he himself, but his companions) baptized. For up till then, apart from the seven deacons, no one had been ordained. — But after ordinaries had been constituted, ministers are chosen; — nor could any lift himself up beyond what was commissioned, — to evangelize, to baptize, to explain Scriptures, is now that of the Church.*
+
+So today: no one but the ordinary — either clerics or laics — should baptize, evangelize, or teach — unless in extreme case of the highest necessity.
+
+### Casus III. Since therefore it is agreed that in the Church no one may live in the ministry without a legitimate vocation, — how may one certainly know whether a vocation be legitimate
+
+*Reply.* Legitimate vocation is twofold — one *immediate*, whereby God calls someone without the mediation of men, without help of men, or *not through men, nor by man* (Gal 1:1) — such as the calling of the Prophets and Apostles: today an example of this is not easily reproduced.
+
+*Mediate vocation* is that which is from God but through means of men. — So *Ephesian bishops* in the Church certain, *called*, — the Apostle Paul said: *The Holy Spirit hath made you bishops* (Acts 20:28).
+
+This right of calling in the Papacy is granted only to bishops, with the consent of magistrate and people excluded. — Something like passing-through-the-hoop and jest, — nor is the judgment of the people about the worthiness of the one to be called required. For the suffragan stands within the doors of the temple and cries: *Well done, — worthy, — this is worthy and just, — behold, whom ye have chosen!* — and stands one in a corner, who in place of the people responds: *Worthy and just is he!*
+
+But this can render no one certain of a legitimate calling: — since the *choice of ministers is of the whole Church*, according to that (1 Cor 3:21): *All things are yours*. And Christ granted to *the whole Church the keys* (Matt 18:18) — therefore election and vocation. — Hence *Leo* rightly said (Dist. 62 c. 1): *There is no vocation whose praesumtion has been raised.*
+
+The Church consists of three orders: *sacred* (i.e., pastors), *political*, and *plebeian*: — all these must combine in the vocation of a minister, if the vocation is to be legitimate.
+
+*To the sacred order* pertain *the ministers of the Church*, whose it is to examine the doctrine and manners of the one to be called, — and choose a fit person useful to the Church. — *To the political order* pertains the magistrate, — that is, the Church's patron, — whose it is to nominate the pastor, and to seek the consent of the ministers of the Church and of the hearers, lest anyone be forced upon them unwilling. — If any of the orders has a just cause of refusing the named person, another is chosen; — if the causes are not just, but arise from some malignant affection, the objectors must be instructed. — *To the plebs* pertain especially *the elders of the people*, who may hear the one to be called in a sermon, inquire into his life and manners, — if all is just, humbly submit to the judgment of the ministers and patrons of the Church.
+
+This manner of calling ministers was in use in the Church of the Apostles (though the magistrate could not be called into counsel then, since he was not yet Christian). Yet they did not exclude the people, as is gathered from the calling of *Matthias* to the Apostolate (Acts 1:15,26), and the election of legates in the *Synod of Jerusalem* (Acts 15:22). — The *Fathers* approved this: — the ancient canon is *of Stephen bishop of Rome* (who lived about the time of Cyprian, in the year 250): *Election of the priest is that which is done by all together humbly, from a letter of Cyprian* (ep. 87), where these words are cited in canon law (dist. 63 c. *vota civium*): *Testimony of the people, arbitration of the honored, election of the clerics — in ordinations of priests await.*
+
+Of the people especially *Cyprian* writes (lib. 1 ep. 4): *The people has the greatest power either of choosing worthy priests, or of refusing unworthy ones* — which is of divine right, he proves, because the priest of old was chosen in the presence of the people, under the eyes of all, — and afterward a law was made that *no one should be given to the people unwilling*, as *Augustine* writes (*apolog.* c.). And in the canon (Dist. 63 *nosse*): *Socrates* writes (lib. 6 *H.E.* c. 19) — that in the *Council of Nicaea* was sanctioned, that *those who are elected in the places of the deceased succeed as bishops, only if they appear worthy, — and the people elects.*
+
+Especially however *the magistrate has the right of calling* — partly because he is *part of the Church*, partly because he is *nutritius of the Church*, whose office it is to place fit doctors over the Church, so that purity of doctrine be preserved in the people, and errors be avoided. Thus even in canon law (dist. 63 c. *in Synodo* and c. *cum longe*) it is permitted to kings, that they choose successors of bishops, — even without a pastor's ordination by ecclesiastical persons, until the king consents to that ordination.
+
+Thus *Ambrose*, by the common suffrage of all, and by the will and consent of the *Emperor himself*, was elected bishop of *Milan* in place of *Auxentius* (as *Theodoret* refers, lib. 4 *H.E.* c. 5). — The same about *Peter Athanasius*, elected bishop of *Alexandria*, refers *Theodoret* (lib. 4 *H.E.* c. 10) and *Nicephorus* (lib. 6 c. 26).
+
+Whoever therefore desires a tranquil conscience in the ministry, — before all things let him take care not to enter into the Church like a thief or robber, — nor insinuate himself in through gifts, nor by force of a more powerful party: — but that he seek the legitimate consent of all orders of the Church. — Thus by legitimate vocation as by a shield he can protect himself against all adversity.
+
+### Casus IV. Whether the calling of a minister be legitimate, if it be made by a Papist patron
+
+*Reply.* This happens in some places, where the Church is indeed reformed from Papist abominations, — but the patron himself still adheres to those errors, — who nevertheless gives evangelical ministers to the reformed Church.
+
+Those thus called by such a patron ought not to doubt of a legitimate calling, — provided that in doctrine and ceremonies nothing be changed at the patron's will, — and they themselves in examination are found to be *orthodox and rightly founded in God's word*.
+
+Necessity indeed *breaks a law, — but charity ought to help.* Whom charity ought to help, then even from those left, — is *Luther*'s doctrine. Which doctrine is confirmed by the example of the primitive Church: for even those pagan-Iberian-woman-taught by a *Roman-teacher* were regarded as legitimately taught.
+
+*Under the beginning of the Reformation* many pastors were in the *Papatus* called by a *Pontifical* magistrate; — afterwards, when together with their church they came to knowledge of the truth, and renounced the *Papatus*, — they needed no new calling, but only new cult, and doctrine hitherto unknown in the Papatus proposed to their hearers. — *Luther* himself was called to the professorship of the Academy by the *Saxon Elector Frederick III* in the year 1508 (or so), when Papatus was not yet entirely faded: yet no one of the evangelicals ever suspected *Luther*'s calling as illegitimate.
+
+If however the false religion of a patron were to *vitiate* the calling of an orthodox minister, — the same would also vitiate the ministry — which depends on that calling — since no one but a called minister must intrude himself. — And by that reason all ministerial parts thus called might easily be brought into doubt, — or held as those of a private person; — which scruple is cast on tender consciences by those who call such a vocation into doubt.
+
+So one called by a *noble*, or by an *abbot*, or by a *Papist bishop* to the ministry of an orthodox Church — with the consent of the whole Church — should by no means doubt of what has been received, — but give thanks to God who has granted *halcyon days* to his Church under such a magistrate, — pray for his conversion, — and with greater diligence and circumspection do his office, lest any of those committed to him perish.
+
+### Casus V. If there be two patrons of one Church, — one contending over the right of patronage or at least dissenting in the person to be called — while the other consents; may one thus called glory in a legitimate vocation
+
+*Reply.* Two members of this question: one concerns the *magistrate* as to *right of patronage*; the other concerns dissent among *patrons*.
+
+**As to the first**: — the magistrate does not have the right of *absolutely* calling ministers, — for this right is of the whole *Church*, as we have shown above. The magistrate is only *executor* of this right — for the magistrate is not the whole Church, but a *member* of it (Ps 45:6); — not lord of the Church but *nutritius* (Isa 49:23) — nay, *minister* (Isa 60:7).
+
+When therefore one of the disputants is in possession (as they call it), and on the other side has the consent of the remaining orders of the Church who consent in a certain person, — the minister to be called with good conscience can accept the vocation thus offered, and enjoy his office — notwithstanding that the other patron does not wish to consent. — For he seeks not the *public right* of the Church, but *private advantage*, — that is, he opposes the vocation not because he has the person to be called for unworthy, but only because he labors for his own right to be asserted.
+
+It is not for the minister of the Church to entangle himself in these lawsuits of patrons, — but because he knows himself called from all the orders of the Church, — he leans on this vocation intrepidly, — and does his office manfully; — the outcome he commits to God, and to those to whom belongs the power of judging.
+
+**As to the second** (about a dissenting patron): — if the dissenting patron has no just cause, — that dissent is to be held as nothing; nor for that reason is the vocation illegitimate — since (as we said) the total consent of the Church must be judged sufficient. But if one of the ecclesiastical orders is against the person's calling, the vocation is null. And this must be judged, if the patron is otherwise satisfied of him.
+
+If however he has an error in doctrine, or is troubled with some notable vice of manners, — then the dissent of even one person vitiates the vocation, — and admonition must be given, — and the election must proceed to another, — lest a wolf be placed over the sheep, — with irrevocable damage of souls.
+
+### Casus VI. When several fit persons of equal gifts and virtues aspire to some place in the ministry, and dissent, — may an election be made by lot?
+
+*Reply.* Election by lot is not altogether illicit in itself, since Scripture attests: *The lots are cast into the lap, but from the Lord is the disposal thereof* (Prov 16:33). *Divisor of lots is God, — the lot is of him* (Josh 18:8).
+
+However there are difficulties: **(1)** *It is against the order of God's vocation of ministers.* God calls men to the ministry through *ordinary means* — but those means are *not lots but men*, as is agreed from Acts 20:28 and Gal 1:1. **(2)** Nowhere in Scripture is there example of vocation by lot in the primitive Church — since that *sort about Matthias* was extraordinary (a peculiar case, with special divine inspiration, as *Jerome* interprets on Acts 1). **(3)** The lot subtracts *legitimate vocation from all the orders of the Church* — since when the throw of lots is committed, no free suffrage is left to any part of the Church. **(4)** *It is to be feared that the office may be committed to unworthy men, — the more worthy being passed over, since the lot did not favor them.* — For *Paul* wills that those who wish to minister *be first examined* (1 Tim 3:10). **(5)** *Not always is the magistrate himself elected by lot*: — should we then tempt God for that in which we could act, — foolhardy.
+
+For these causes election by lot is prohibited in the canon on the Church (Extra *de sortilegis*), and in civil law (Codex *de episcopis et clericis* leg. 27).
+
+For these causes chance-lots should not be admitted, — that with a man wholly unfit either for peace or for the ministry the Church be entrusted; — nor is he who is chosen by lot to be regarded — nor is he who is elected by lot to be regarded as fit for the office by lot alone.
+
+### Casus VII. What if to several the same office is at once offered — may he from divinely-given signs seek to know which he should choose
+
+*Reply.* Some think that in this case a *divinely-given sign* is not to be sought, — whence one may know which vocation is from God. So writes *Petrus Martyr* (in *Loc. commun.* part 3 loc. 8 § 15): *When by an unaccustomed vocation (as is the reason of an ambiguous vocation) it be uncertain of divine will, — lest by chance we be deceived, — since those things have nothing explored from divine letters, and are not easily believed by men or angels concerning them (for even bad angels are wont sometimes to be transformed into angels of light) — it is right to seek by some sign, — provided the ambiguity is real, — the will is prepared, — nay eager, — to serve the divine command. — Neither could such be accused of divine tempting or of any presumption.* Thus Peter Martyr.
+
+But I cannot subscribe to this sentence. For the *seeking of signs* pertains to the *Old Testament*, where God dealt still *paternally* and *familiarly* with his people, — and among other things confirmed the calling of certain immediate ones by a sign — as the examples of *Moses* (Exod 4:1) and *Gideon* (Judg 6:17) attest: — where what God was wont to offer, one could also ask of God.
+
+Today however, when that manner of familiarly dealing with God has ceased, no one should dare to explore his vocation *by a peculiar sign*, — unless divine instinct or some singular mandate has moved him to this — which nevertheless no one today can say of himself without suspicion of most insolent boasting: — but in a concurrence of two or more vocations, let him first see for which he is most worthy and fit, — for God is wont to instruct those whom he calls with suitable gifts, according to the Teutonic proverb: *Whom God shafts, — him he makes fit.*
+
+Then let God be solicited by prayers, that not by signs or miracles, but by the leading of the Holy Spirit, he bend our souls thither, where with greater fruit we can serve the Church or Republic. God has promised to give the Holy Spirit to those asking him (Luke 11:13). Hence when in the election an assurance emerges, — that is a sign of firm faith; when it fails, — is a sign of weak or of no faith. — Better it would be to abstain from every calling, than after prayers poured out ardently, and one's forces explored, — to doubt of a taken calling, — whether it be legitimate. For *whatever is not of faith is sin* (Rom 14:23).
+
+### Casus VIII. Whether in the vocation of a deacon the *vote of the Church's pastor* is required
+
+*Reply.* This question has been given occasion by the *kauchisme* [boasting] of certain persons. — For there are some *political men* who assume for themselves, — beyond right and equity, — the power of electing whatever ministers they wish, and of deposing them whenever it pleases. — And these, when they wish to trouble a pastor, — attach to him a deacon even against the pastor's will and against his contradiction, — under the plenitude-of-power, which by right of patronage they claim; — not without scandal to the Church.
+
+But the matter is clear if we follow the *Apostolic Church*. Which teaches (as we have shown above) that for legitimate vocation of ministers *the vote and consent of the whole Church* are required. Whence I collect, — in the election of a deacon it does not suffice that it be done by the magistrate, — with only the pastor knowing: — but the vote must also be left to the pastor, — and the power of contradicting, if he has honest causes, — otherwise the chief part of the Church would be omitted in the vocation of such a minister, and therefore the vocation of him vitiated.
+
+Thus *Paul* commanded *Timothy* — that what he had heard through many witnesses, he should commend to faithful men, who would be fit to teach others (2 Tim 2:2). To *Titus* he wrote: *For this cause I left thee, — that thou shouldst set in order those things that are wanting, and constitute presbyters throughout the cities* (Titus 1:5).
+
+Moreover no one can judge better of a deacon's doctrine than the pastor; — why then should he be neglected in the election of a deacon? — Besides, an individual comrade and *symmista* [assistant] is the deacon; — it is inequitable that one be obtruded, in whom for just causes he cannot consent; — otherwise perpetual strifes and tumults are to be feared in that unequal yoke.
+
+Add to this the practice of the Fathers: — as it is in *Theodoret* (lib. 4 *H.E.* c. 24), where *at Alexandria*, after that *Petrus Athanasius* was released from his labors, and had departed to a quiet and free life, — *Peter* succeeded, a most excellent man, whom the blessed *Athanasius* first designated as chief by his own vote, — which the sacerdotal order ratified, — and the magistrate and princes, — and finally the whole people testified their joy by joyful acclamations.
+
+Thus the Fathers of the Council of *Constantinople* — with the consent of the whole people and the whole presbytery, in the presence of Emperor *Theodosius* — constituted *Nectarius* bishop of *Constantinople*, as is in the same *Theodoret* (lib. 5 *H.E.* c. 8).
+
+This therefore is of the pastoral office in the Church, — when the diaconate is vacant, — to commend a learned and pious man to the magistrate, according as in examination he shall have been found worthy; — then to present him to the people in a sermon: — and if the consent of all shall have acceded, let the magistrate give him letters of vocation. — Whoever, however, is called *without the vote and consent of the pastor* — his vocation is fraudulent, scandalous, and illegitimate against the practice of the Apostolic and primitive Church.
+
+### Casus IX. Whether some ecclesiastical office may be promised or commended on this condition — that the recipient marry the widow or daughter of the deceased pastor
+
+*Reply.* Marriage of pastors of the Church no pious man disapproves; nay, *Paul* among the requisites of a bishop places, that he *rule his own house well, having his children in subjection with all reverence* (1 Tim 3:4). — It is not inequitable therefore, that after the death of a well-educated husband, provision be made for a widow or a daughter with an honest marriage.
+
+If therefore anyone is sufficiently fit for the office, — and to the whole Church acceptable, — and to such a marriage does not unwillingly consent, — the Church does not sin if it promise him some function on this condition — that he marry the widow or daughter of his deceased pastor.
+
+For this is a species of *gratitude* — toward benefits — that we cannot show to a deceased pastor, we may in another manner to his family. This custom exists in some churches; — and where it seems useful, it is not to be blamed.
+
+**Cautions**: (1) *The Church should not force marriage* upon the elected candidate, — but leave it a matter of free consent. (2) The candidate himself is to consent freely, — lest he be deceived by himself and the Church, and involve himself in an entirely unequal yoke of marriage.
+
+### Casus X. May a minister of the Word legitimately called, — with the ministry left, transfer himself to some scholastic office
+
+*Reply.* Here rightly is that popular saying: *let offices not be leaped-over.* Nothing therefore is to be done here for the sake of base gain or leisure. — But if a minister of the Church sees that he has *sufficient gifts for teaching in the Church*, — is heard willingly and loved by the Church, — and with great fruit and edification of his hearers can he teach in the Church, — he ought by no means to change place or office, — even if he might enjoy quiet and larger salary in some scholastic function.
+
+Always here should sound in his ears that saying of the *Apostle Peter*, — which was set before him at his ordination: *Feeding the flock, — not for shameful gain, but of a willing mind* (1 Pet 5:2); likewise Christ's: *No man having put his hand to the plough, and looking back, is fit for the kingdom of God* (Luke 9:62); and the Apostle's: *Let every man abide in the same calling wherein he was called* (1 Cor 7:20); and what is read in the *Apocalypse*: *Be thou faithful unto death, and I will give thee a crown of life* (Rev 2:10).
+
+If, however, one perceives that *he does not have sufficient gifts, — nor is willingly heard, — but rather has fallen into the hatred of his hearers without his own fault*, — and is more apt and prompt for scholastic labors, — he, if such a calling to a scholastic office should befall him, — can with good conscience accept it. — For great is the kinship between ecclesiastical and scholastic offices: — nay, *schools are little churches*, — and many ecclesiastical doctors have at the same time labored in schools — as the Prophet *Samuel* had a school in *Ramah* (1 Sam 7:17), and the Prophet *Elisha* had his disciples in *Gilgal* (2 Kgs 4:38); — in the school of *Alexandria* *Pantaenus, Origen, Clement*, and even now in Academies theologians teach as much in schools as in temples.
+
+Let one thus called only take care, that not only for leisure or salary he change an ecclesiastical for a scholastic function, — nor entirely neglect sacred election; — but in it exercise both himself and his youth diligently — so with more tranquil conscience he may discharge the scholastic labors.
+
+### Casus XI. Whether a woman may be called to the public ministry of the Church, and administer sacred things
+
+*Reply.* There have always been those who indulged the female sex too much in this genus. *The Persians* had priestesses, — the same custom was in Greek priesthoods, — and *Virgil* (*Aen.* 6) calls *Sibylla* a *long-lived priestess*. *Gellius* calls such women *priestesses* (lib. 10 *Noctes* c. 15).
+
+In the Church there were once *Quintilian heretics*, who admitted women to the episcopate or presbyterate — in favor of Eve — as *Epiphanius* refers (haer. 49). But under the *Cataphrygians* also or *Peputians*, they granted women public ministry — whom they called *presbyteridas* and *diaconissas* — as *Augustine* (*De haer.* 27) and *Epiphanius* (haer. 79) attest.
+
+*In the time of Constantine the Great*, when the emperor *Licinius* — a man impious — had commanded contrary to the manner of the Church and the mandate of God — that women should not be gathered together with men in the temple — it was done that women *chose from their own sex* those who would teach them in their assemblies (as is in *Eusebius* lib. 1 *De vita Constantini*).
+
+At the time of *Basil* was it conceded to *nuns* to teach publicly, to baptize, — to administer the sacred Supper, — who therefore by *Basil* are called *priests*.
+
+Afterward in the Papatus (in the time of Pope *Boniface III*) nuns also taught publicly; — *abbesses* ordained priests, — and dared to lay hands on others; — as we heard in the preceding chapter (Casus 8).
+
+But *all these things are contrary to Scripture*, which wills *a woman to be silent in the Church* (1 Cor 14:34), and *in silence to learn* (1 Tim 2:11) — since neither for learning letters nor for governing the ministry of the Church is the female sex fit — because it is *slippery, — prone to error, — and of humble intellect*, as *Epiphanius* has (haer. 79).
+
+There were indeed once in the Apostolic Church *virgins and widows* who served the Church, — of whom the Apostle makes mention (1 Tim 5:9); and these were called *deaconesses*. — But neither did they teach, nor ordain, nor administer sacraments: — what their offices were, *Epiphanius* commemorates: *The ministrations of deaconesses called in the Church are given not for the sacrifice, — nor may they attempt anything, — but out of reverence for the female-nature, — either at the times of the hour of prayers, or at the times of visitation, — with body immersed, — or of affection, or of labor.*
+
+*In the Old Testament* also and in the beginning of the New, there were certain *prophetesses*; — but these have nothing to do with the case: — for they *taught extraordinarily*, — to which neither called nor ordained they were.
+
+*Luther* is also cited by the *Romanists* — as if he taught, that where men are lacking, women should be joined to the ministry: — but of the election or vocation of women in the ministry *Luther* has nothing. — He only says, that in the defect of men even women may teach the Word of God, — rather than that it be silenced altogether (see t. 2 *Ien. germ.* fol. 246 and 316). — In which manner even today *private instruction of the youth* in piety, *consolation of the sick*, *correction of delinquents* — is permitted to women.
+
+Elsewhere *Luther* many times commands *women to be silent in the Church* (see *De abusu Missae*, and in *Commentar. ad post. Petri*).
+
+What is *ordinarily* prohibited to women, can in a *case of necessity* be conceded, — namely, in a defect of ministers of the Word, — that they baptize infants placed on the threshold of death, — just as *Sephora* and the *Jewish women* in a similar case circumcised their infants (Exod 4:25; 1 Macc 1:60-63; 2 Macc 6:10); — to which thing neither vocation nor special ordination is needed, — since not in a public assembly of men, but *in private houses*, and only in an extreme case of necessity, they do this: — of which matter, more elsewhere.
+
+### Casus XII. Whether a minister of the Church legitimately called may be dismissed at the will of the political magistrate — because he has the right of patronage — and be removed from his office
+
+*Reply.* This is what senates of towns or nobles in the countryside assume for themselves — pretending the rule of law: *He who has the right of dismissing has who has the right of calling a pastor.* — Whence it happens that often on a light cause the Church is deprived of her faithful pastors, — who with fear and trembling must do their office, or live and teach according to the pleasure of the patrons — either of which is very far from a righteous foundation.
+
+*Luther* is moved not without cause when in an *Admonition to Councils of Cities* he inveighs gravely (t. 5 *Ien. germ.* fol. 202-208), against those who dismissed their pastor because he had gravely rebuked the vices of the hearers, — writing: *These are not the houses of pastors or ministers, or so much as pigsties, — that ye may lift up the sons of God, and rule us like the devil rules the kingdom of hell. It is not yours to reform the Church-magistrates* — *to make the ministers cease from public rebuke of vices at your pleasure*, etc.
+
+*It must be recognized* — that according to that rule of law the judgment is to be made that *the magistrate alone* wrongly usurps the dismission of pastors, — since the vocation of a pastor is not with the magistrate alone, — but with the whole Church, as we have shown above against the *Papists*. — Therefore neither is their *dismission* his alone.
+
+How then may the magistrate depose some minister — whom the Church, with few private exceptions, loves and gladly hears? — I do not see, — otherwise than by proceeding this way *by sacrilege*.
+
+Then also must be distinguished *right of patronage from ecclesiastical jurisdiction*. — The former is left to magistrates or patrons of the Church, — the latter not likewise: — for even the most wise emperors have judged that ecclesiastical causes of judging pertain not to themselves, but *to ecclesiastical consistories*, — through which Christian princes exercise them. — With these belongs the judgment: — if perchance anything reprehensible occur in the pastor of the Church, — whereby he may legitimately be deposed.
+
+Therefore if a minister of the Church becomes reprehensible either in doctrine or in life, — let this be referred to the *consistory*, which has power in the place of the prince, — either of defending ministers of the Church against unjust actors, or of punishing them according to reason of what they deserve. — Which manner of judging presbyters *Paul* commands (1 Tim 5:19); and by Christian emperors was confirmed, — nor is it impious, nor contrary to the word of God.
+
+Which the *sacred foundation* imitates — for as they are seized by their affections, — they draw ministers of the Church into political judgments, together with citizens and rustics, — and without preceding due examination of the cause, cast them from their churches.
+
+Therefore ministers of the Churches in these regions have, *according to the received order*, — a peculiar consistory, — and by exemption from the audience of the secular magistrate they are exempted personally, — and ecclesiastical consistories are instituted, — in which judgments about ministers of the Church and of Schools are administered. — On which matter see the abundant *Chytraeus, in Vita Pauli* c. 19.
+
+*[T27 pickup: Liber IV Cap. VI — De ordinatione ministrorum ecclesiae (ordination of ministers of the Church), OCR ln 57534 / phys p. 913. Preamble: ordination = public and solemn confirmation of legitimate vocation, so that it may be known to all that this person did not seize the ecclesiastical office for himself, nor entered by fraud or robbery; it is act of the whole Church though executed by one person in the presence of the whole ministry, as Paul ordained Timothy 1 Tim 4:14 by whole presbytery. Anti-Papist rejection of ordination-as-sacrament (Trent Sess. 23 De sacramento ordinis can. 3): properly not sacramentum since not universal + confers no infused grace + only distinguishes ordinary vocation.]*
+
+*[VOLUME REMAINING: Cap. VI (De ordinatione ministrorum, ~ln 57534-58787), Cap. VIII (De officio ministrorum, ln 58788-61057), Cap. X (De magistratu politico, ln 61058-62505), Cap. XI (De subditis, ln 62506-63187), Cap. XII (De officio conjugum, ln 63188-65069), Cap. XV (De liberis + parentibus + servis, ln 65070-67594), Cap. XVI (De defunctis + sepultura + ultima, ln 67595-69119). Approximately 190 physical pages remaining. Estimated 3 more tranches to volume close.]*
