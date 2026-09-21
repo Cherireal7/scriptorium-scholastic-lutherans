@@ -7733,4 +7733,330 @@ The same manner *Augustine* on this matter disputes (lib. *De libero arbitrio* c
 
 Wherefore *Chrysostom* in *ep. 10 in Roman.* well governed us to the norm of that law, — a good man himself is not readily immersed but has this care, — lest anything be done against God and conscience: for which reason of him it is said: *He is not guilty of blood, but only of the body which he keeps as delivered.*
 
-*[T24 pickup: Liber IV Cap. II — De cultu animi (worship/cultivation of the soul), OCR ln 49057 / physical p. 776. Preamble transitions from body-care to soul-care with the doctrine that soul-cultivation is itself the cult of God — through piety, expurgation of vices, and moderation of affections. Casus I opens on faith as the first member of soul-cultus.]*
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## Chapter II. Cultivation of the Soul
+
+*De casibus conscientiae circa cultum animi — On cases of conscience concerning the cultivation of the soul.*
+
+*Prooemium.* *A soul it is,* says *Augustine* (*De spiritu et anima* c. 14), *which distinguishes man from beast, since without soul life-remains, — without mind soul does not endure*. Whence the Philosophers say: *If the soul does not remain, life does not remain* — noticeable in madmen. As much as therefore the soul surpasses the body, so much more accurate ought to be the care of the soul.
+
+The soul is the beauty of the body, its governor and leader, — which commands the body and moves all its members. With all these praises does *Augustine* adorn its name.
+
+As however the body's health can be changed through the habit of externals which molest bodies with sicknesses and scabs indicating hunger, — so also the souls of the vitious have their diseases, whereby their fasting they confess.
+
+*Affections of the soul are otherwise called perturbations*, because they do not leave the soul relaxed but move and disturb it, mostly in disorderly fashion. Four principal are reckoned by *Augustine* (*Confess.* lib. 10 c. 14; *De civ. Dei* lib. 14 c. 3): *cupidity, fear, joy, sadness* — which he calls the origins of all sins and vices.
+
+The soul is also cultivated *from without*, by studies of the liberal arts.
+
+Concerning each of these certain matters occur that pertain to the preservation of a good conscience, which we shall now consider in order.
+
+### Casus I. What faith the soul requires, since faith is the first member wherein the soul's cultus rests, so that it be not deformed
+
+*Reply.* That faith makes the soul before God pure, grateful, and accepted, Sacred Scripture testifies, since *with the heart it is believed unto righteousness* (Rom 10:10), and elsewhere: *without faith it is impossible to please God* (Heb 11:6). Therefore in Christian life, though it be full of most-noble virtues, faith alone is deputed to justification (Rom 4:22).
+
+But hypocrites also boast faith, and even demons are said to believe (James 2:19); therefore true faith which is worship of soul is not any faith whatever, but faith in Christ. For *not all is faith* (2 Thess 3:2), but of them to whom God has given it (Phil 1:29). This faith itself is the cultus of soul, since it is from God.
+
+*Three things must be observed about this cultus of soul*: (1) what faith be in general — that it be true and correct; (2) whether it require certainty of soul; (3) what may be its notes, by which it is discerned from hypocritical faith.
+
+As to the first member, faith includes *notice, assent, and confidence*. That knows the historical faith, this holds; the other, whereby faith adheres in general to what is embraced, receives; the third, whereby true faith applies special in individual instances, presupposes both former.
+
+Faith presupposes the whole Word of God, wherein assent is entire — for who wavers in one fundamental article of faith does not have true faith, since faith is one copulative, whose articles are connected like rings in a chain. And this Word of God in general is the object of faith, as it is notice and assent; but as it is confidence, it has a special object — namely, the mercy of GOD the Father promised in Christ, which is called the *word of promise of grace*.
+
+Herein the *Romanists* fault us doubly: (1) some deny that faith is notice, but only assent — nay, they say that faith is better defined through ignorance than through notice (*Bellarmine* *De justif.* cap. 7), and they do this because they remit their subjects to implicit faith, which they call *faith of the Church* — since yet Scripture defines faith properly through notice: *know that I am the LORD* (Isa 43:10; Rom 10:14); *to understand* they hold as *believing* (Heb 11:6). To *know Scriptures* is said (Eph 6:9); nay, the life eternal itself in *knowing* not in ignorance is said to consist (John 17:3).
+
+(2) They deny faith to be *confidence*, which doctrine they call an invention of the heretics — as *Bellarmine* (*Comm. cap. 4 ad Rom.* thes. 30). But nothing does Scripture teach more frequently, than that (1) it promiscuously uses *to believe*, *credit*, and *entrust* (Ps 2:12; 34:9; 112:7-8; Ps 7:1; Prov 3:5; Matt 16:16); (2) it opposes *believing* to *confidence* (Ps 18:31: *believing in God, they are safe*); (3) *to believe on God alone*, which is not the fruit of notice — for even devils believe there is a God; but confidence, which is borne into God, apprehends God with his promises. (4) When faith is called *hypostasis of things hoped for* — this is not description of mere notice, but of confidence, whereby things hoped for so firmly are apprehended as if present — so that a soul struck by no doubts yields not its place, but stands, and undertakes and sustains: *for this is properly to believe*.
+
+Faith of this sort is not born or generated in anyone, nor acquired by his own strength, but is given by God (Phil 1:29): *unto you it is given of God to believe.* Yet not by raptures and enthusiasms is it given, but through ordinary organs, — namely, Word preached and Sacraments legitimately administered. *For faith comes by hearing* (Rom 10:17); *baptism is a laver of regeneration, — which without faith is not, — the Sacrament of the supper is a confirmation of faith*. Through these means therefore let him strain who wishes to have his soul cultivated by true faith.
+
+Faith is of those things which are not seen by eyes or external senses, but lie hidden in the soul, and are known only by certain indicia. — Notes to be observed therefore, and indicia are given, from which we can collect that a man's soul be cultivated by true faith:
+
+**(1)** The first note is *charity*, which does not inform faith (as the schoolmen suppose), but signs it, and produces it outwardly. Hence faith through charity is said to be *working* (Gal 5:6), and elsewhere: *the just shall live by his faith* (Rom 1:17). Faith without works is a hypocritical show, dead (James 2:26).
+
+**(2)** The second note is *confession before man*, — if the soul's confidence be in words: for *he who believes shall not make haste* (Isa 28:16); with firm reliance on the promises of God he overcomes all adverse waves. This note however is not always equally clear: for faith in a strait grows infirm, — there then also is infirmed the confidence, as in those who labor with faint-heartedness — therefore from the defect of confidence absence of faith is not to be collected, since even weak faith is faith.
+
+**(3)** The third note is *humiliation of heart* before God and neighbor. For he who has true faith is displeased with himself, and is ashamed of his sins — for which reason before GOD he prostrates himself, confesses his sins, and for their remission for the sake of Christ, in whom he believes, asks; and hence also before the neighbor he humbles himself, contemns no one, since he knows himself also to be a great sinner: — which *Paul* requires: *nothing be done in strife and vain-glory, but in lowliness of mind let each esteem the other better than himself* (Phil 2:3).
+
+**(4)** The fourth note is *confession of the things we believe.* For *the faithful must always be ready to render account of the hope which is in them* (1 Pet 3:15). Thus *David*: *I believed, therefore have I spoken* (Ps 116:10); and *Paul*: *With the heart is believed unto righteousness, — with the mouth is confession made unto salvation* (Rom 10:10). From this confession faith is known, especially in time of persecution; and in time of tranquility from works of charity. But it is not always necessary that in time of peril confession be by mouth, — for both flight and departure from the impious can be done. — The oral confession's necessity is not that of faith itself, — since no one demanding of us the confession of faith, we can safely lie hid during persecution.
+
+**(5)** The fifth note is *the assiduity of prayer*: for who has true faith in God, gladly speaks with him — knowing that what he asks according to the will of God, he will obtain. But an indication of languid faith is negligence in prayers. For such either think they can lack God, or despair of divine help: — either is a sign of infidelity.
+
+**(6)** The sixth note is *infallibility of hope in time of delay*. For faith is a *fortitude which consolidates the soul in adversities*, so that even *against hope in hope* it may go, — since it holds one to be God the truth-teller who promised (Rom 4:20), and the other, of the power of God, — that *he can indeed do abundantly, above what we can think* (Eph 3:20).
+
+In this member the hypocrites fail — who boast faith by mouth, deny it by deed, whom *Christians only in name* calls *Augustine* (*c. Parmen.* i c. 4). For they simulate Christianity, but with various vices against Christ descend into fight. For though *faith justifies without works*, — yet it is never without works, but with them individually and inseparably conjoined, so that with the study of good works lacking, *faith also is dead*, or as *James* has it (2:20), *without works is dead*.
+
+**(7)** Whether one is bidden to doubt of grace of God and remission of sins, and this doubting under the title of humility to defend, — that *Romanists* do — but doubt fights with faith, — hence *Paul* opposes them to each other (Rom 4:20). It fights with the end of divine promises, which make firm the consciences of believing (Rom 4:16). It fights with the office of faith, whose it is to seal that God is truth-teller (John 3:33). It fights with the office of the Holy Spirit, who is *Spirit of promise*, sealing in our hearts the *adoption of the sons of God* (Rom 8:15; Eph 1:13). It fights with the truth of God, who has said: *He who believes in the Son has everlasting life* (John 3:36).
+
+All of this we hold true concerning faith, which cultivates the soul, and holds first place.
+
+### Casus II. In what way is good conscience preserved and cultivated
+
+*Reply.* Good conscience is a most excellent good, — a "double treasure" as *Sirach* names it (1 Tim 1:5 and 1:19): so much so that once lost it cannot be repaired without heavy loss.
+
+Great therefore should be the study of good conscience of every Christian, — such as would guard it as the eye's apple, — and best cultivate the soul thereby.
+
+Good conscience is acquired and preserved through *innocence*, which is thus preserved when either we do not sin, or we amend sins immediately. Whence *Bernard* writes (*De interior. domo* c. 10): *A good conscience is that which grieves for past sins, and shrinks from committing what must be punished*. And *Cassiodorus* (in *Instit. div. lit.* prooem.): *The first step of ascending to God is not to do to the neighbor what would displease when done to yourself.*
+
+Two things therefore lead a man to good conscience: **(1)** innocence of life; **(2)** careful meditation and observance of the Law of God, wherein we may always see what befits or dishonors us. Whence to a youth writes *David*: *Wherein shall a young man cleanse his way? By taking heed thereto according to thy word* (Ps 119:9).
+
+Then let there also be a serious struggle against the movements which our tender flesh has — according to that of *Paul* (Gal 5:17): *The flesh lusts against the spirit, and the spirit against the flesh.* — In this ceaseless struggle, we do not overcome all things by prayers and labors that grow in us; but by prayers and labors we deaden the sense of the flesh — that no evil desire may reign in our mortal body (Rom 6:12).
+
+**(3)** *Serious meditation of the rewards which God has promised the obedient, and of the punishments which he has threatened the disobedient.* — *For it is a moral thing* (Prov 8:13) — *to hate to sin under fear of punishment*: yet God himself willed to invite us by rewards and by punishments to obedience to his kingdom, — hence also *piety has promises both of the present life and of the coming* (1 Tim 4:8).
+
+**(4)** *Serious recollection of examples in which God has executed the threats of his law*. Therefore examples are set before us — of the first world, of the Sodomites, of the Jerusalemites, of the whole people of Judah — which for our correction were written (1 Cor 10:11), — for the punishment of one man is the terror of many.
+
+**(5)** *Frequent consideration of the last judgment*, in which the just judge will render to each according to his own works. What however shall we do, when the *Lord rises to judgment*, and when he *makes his visitation, what shall we answer him*? (Job 31:14). — *In that judgment neither is favor of persons found, nor is mercy moved, nor is he corrupted by money, nor is he mitigated by any satisfaction or penitence*, says *Augustine* (lib. 3 *De symbolo*). Hence *Jerome* writes: *whether I eat, or drink, or do anything else, always that voice seems to sound in my ears: — Arise, ye dead, come to judgment! As often as I think of the day of judgment, my heart trembles and my body shakes.*
+
+With these auxiliaries we can acquire innocence of life and good conscience.
+
+But since in many we fall — and no one is alive who can say, *"my heart is pure, I am clean from sin"* — the conscience must be purified by true displicence, which makes man displeased with himself in what before he was delighted with. — Which is the first step to a further scrutiny or examination of conscience, when one stands before the tribunal of his own heart, and animadverts upon himself, and daily examines the past day's life, and what he has done in a vitious way in himself he punishes: which is the first remedy against similar sins in the future. Hence with diligence it is commended by holy Fathers.
+
+*Augustine* writes (*De spir. et anim.* c. 51): *It is necessary that we examine our life daily to the judgment of the mind, — and that we do by night and day; — and to good things fostering more alacritous, and to evil things overcoming more constant, whether by some work our secret enemy may supplant us; whether the eye of the mind by delight of the flesh may deceptively be lulled to slumber.*
+
+*Basil* (in *Sermone commonitorio ad monachos*): *What ye have done in the day, remember at evening, and as the day before, so weigh it.*
+
+*Bernard* (*De interiore domo* c. 15): *Much is the science of men, but none better than that whereby man knows himself. Blessed is the man who is able to know himself, prove himself and improve himself. For he who is displeased with himself is pleasing to God; and he who is vile to himself is dear to God.*
+
+Among the Gentiles this scrutiny of conscience was so common that nature seems to have dictated it. The *Gymnosophists of India* admitted no one of their disciples to lunch who had not first submitted to a scrutiny of his own conscience. *Pythagoras* so instructed his disciples: *That what any one had said, or heard, or done, in the evening he should recount* — as *Laertius* refers in his life.
+
+*Ausonius* elegantly describes the character of a good man — *a judge of his own life, — from the tip of his nail he weighs what may hurt, — not caring for the opinion of the vulgar, — balancing his own good acts with reasons, — as if with a plumb-line weighing whatever is beneath, — not first laying down to sleep before he has re-pondered the interval of the day and the deeds and times: — what is now, what precedes and what follows — what troubles him with sorrow, what he wills or does not will — what he thinks useful and honest — walking through all things with words and deeds — turning at morning and evening, — and thus at setting and rising sun, like a Cato living well.*
+
+Of such a good man's example is *Lucius Annaeus Seneca*, who writes about his own custom (*De ira* 3.36): *I use this power, and daily at my own examination sit judge. When the lamp is put out, and my wife has grown silent, my custom is known — I recount the whole day with myself, and re-measure things and words. Nothing to myself do I hide, — nothing do I pass over. Why should I fear anything of my errors, when I can say to myself: See that thou do this no more? — Now I forgive thee.* And elsewhere (*De vita beata* c. 17): *This is easy to me — daily to lessen something of my vices, — to rebuke my errors.*
+
+At the example of these good men our Christian breast ought to blush the more — especially since the thing is not without eminent utility. For while one is either praised or admonished, — and made a spectator of himself and a censor of his own manners, — he composes himself with tranquility, — with pleasant eyes he beholds the sun of the following day, — with a mind put on a good hope in God. He amends his errors, — anger, hatred, pride, and whatever else there is of this venomous kind he lays aside before sleep.
+
+In sum, the scrutiny of conscience is our incitement to virtue, — the expulsion of vices, — the occasion of true repentance, — the beginning of true tranquility.
+
+Not less is the necessity than the utility of this thing. For all admonitions and exhortations to virtue that are made in the pulpit, — all corrections of parents or magistrate, — all penalties and chastisements are in vain, unless upon thyself thou animadvert, — accuse thyself, correct thyself, catch thyself, punish thyself.
+
+The soul of man is very changeable. Timber once trimmed with an axe remains such as it was formed by the axe. But the soul of man, though carefully polished by virtue, is prone to vices, — which unless from time to time thou amputate, the soul will grow negligent.
+
+*Much it matters however to know how examination is to be instituted.* Therefore let the reason of the whole past day, before thou go to bed, be instituted:
+
+- *First*, how many benefits from God thou hast received, — how much on this account thou owest him — with thyself think, and thanks give diligently: for by that reason to praising God most-fully thou art invited.
+- *Then*, what things thou hast done, — what thou hast omitted, — what has occupied thy soul: — is a vain thought some, in which thou hast been delighted, though not yet extended into act? whether thy limbs have obeyed the cupidities of the flesh — attend.
+- *Third*, on these accounts rebuke thyself, ask pardon of God, place penalty upon thyself, if thou hast returned and struck against the same stone. — For no pertinacious vice will lie hid, when thou daily against it animadvertest. Above all, insist against that vice which most infests thee. For in vain art thou occupied in correcting minor levities, while thou loosest reins to wrath, libido, pride, avarice, or similar meanwhile. Remove the capital vices, and the remaining lesser noxious ones together will be diminished.
+
+Three parts therefore are there in this scrutiny of conscience: (1) reckoning-up-of-benefits received — the consideration of which turns the soul of man from many vices; (2) recognition-and-deploring of one's own errors; (3) severe animadversion, and correction of internal movements.
+
+An examination of conscience of this sort the *Prophet Nathan* with *David*, after the perpetrated adultery, instituted (2 Sam 12). *First* he numbered divine benefits: *Thou, — thou art the man; thou hast escaped the snares of Saul; a most opulent house thou hast obtained; the empire has been committed to thee over Judah and Israel; and since these seem to thee too little, the Lord is ready to add greater things.* *Then* he opens his sin in general, and shows its source, — namely, the forgetfulness of the divine commandment: *Why — why hast thou despised the word of the Lord, — that thou shouldst do this evil in my sight?* *Finally* he exaggerates the sin, and adds correction: *Thou hast slain Uriah, thou hast taken his wife: — wherefore the sword shall not depart from thy house* (2 Sam 12:9-10).
+
+This is the ratio of examining conscience — a matter in which he who desires to have the soul purged from vices, must never be slack. — *This makes us most-wicked*, says *Seneca* (*Ep.* 83), — *that no one examines his own life. What we are about to do, we think, and rarely; — what we have done we do not think about; — and yet counsel of future comes from past.*
+
+There is no shorter way to preserving a good conscience than the examination of conscience, — which purges the soul from vices, and perfects it in the study of virtue. And for this cause it pertains to the cultus of the soul, before many other things.
+
+### Casus III. Since by immoderate affections the true cultus of the soul is impeded, the pious mind is anxious not without cause — how the affections of the soul must be broken, lest they harm us — and here first of all on restraining the *cupidity of riches*
+
+*Reply.* No one in the world so holily lives, but that by his affections he is at times carried away sideways. Always *the flesh lusts against the spirit* (Gal 5:17). Whence *Aristotle* rightly wrote: *every man walks with his own bias.* — *Nothing is more human than to fall, to err, and to be deceived.*
+
+But of the pious man's it is: to guard against his own fall — by living cautiously, by subduing his affections, and by conquering himself, than which no more beautiful victory can be.
+
+Above we heard from *Augustine* that there are four more vehement affections in man: *cupidity, fear, joy, sadness.* Whoever in moderating these shows himself a man, — he can retain a tranquil soul.
+
+The general governance of the affections consists in this: — that we not immediately consent to those things which delight our soul, — but that we resist manfully the movements arising in the soul, — according to the admonition of *Sirach* (18:30): *Go not after thy lusts, and turn away from thine own will*; — and of *Paul* (Rom 6:12): *Let not therefore sin reign in your mortal body, that ye should obey its lusts.*
+
+Birds fly over our heads — and this no one can prohibit; but that they build no nest in the head, — anyone can guard against. Thus that vitious affections attack us, we cannot altogether hinder in this infirmity of our flesh; but that they occupy the soul, and that pious thoughts in it be suffocated, — this to prohibit is in our power. And to this all our study should be occupied, if we wish to have the soul cultivated and tranquil.
+
+As to *cupidity* in species, that affection embraces in its ambit every *concupiscence*, — that is, love of having, — whether of a spouse and children, — whether of goods and fortunes, — whether even of retribution and vengeance against enemies. He therefore who wishes to bridle cupidity, must struggle against avarice, ambition, wrath, private vengeance, libido, — and finally the desire of every pleasure.
+
+*Since avarice occupies your soul* — that principal of noxious cupidities — think first of all how greatly it harms a pious man. Scripture calls it *root of all evils* (1 Tim 6:10) — *sunk in the will of vices*.
+
+It never leaves the mind of man quiet, but perpetually with anxieties and solicitudes crucifies it — with diffidences, fear, envy, appetence, desperation: for to the miser is always lacking even what he has, since he is not content with it.
+
+Moreover to his body itself he does injury, — by night and day through cold and heat, through sea, through lands, seeking the corruptible riches of this world. And when with great heap he has acquired them, besides looking at them he has nothing, — daring not to use them: and thus himself of divine benefits he deprives. For God has created all things in the world useful for the use of men. But when he lays down for himself the use of these goods, from others he envies: meanwhile to their service he subjects himself, of whom Lord himself he ought to be; from his goods he makes an idol, in which he places much greater confidence than in God himself; those whom by his goods he ought to sustain and nourish, he defrauds. For he alone is not the Lord of his goods, but part belongs to his fatherland, part to his children and friends, part to the magistrate, part even the poor claim.
+
+Cupidity of having has been the cause of many wars, plunderings, and robberies. Not only armed against an enemy, but also against brother, and with kinsman's blood a homicide he becomes. As *Sirach* speaks (34:25): *Bread from the poor is life to the man who takes it away; whoso defrauds him in this is a man of blood.*
+
+It makes a man an atheist, who cares for no religion, who despises sermons; more confidence he receives from a little money enclosed in a chest, than from all the promises divine. Riches themselves in peril rarely can bring help. Many have with their riches come into the hands of enemies: and Scripture attests, that *gold and silver cannot deliver anyone in the day of wrath of the Lord* (Ezek 7:19; Zeph 1:18). — Contrariwise the riches of many are the cause of perils and adversities: many for money act unjustly, bring on themselves the hatreds of others, and expose themselves to the ambushes of enemies. Whence *Democritus*, asked why he was pale, is reported to have answered: *Because I have many liers-in-wait.* Why then art thou vexed by that thing which makes life so bitter?
+
+It extinguishes *emulation and love of virtue*, — takes away religion from temples, discipline from cities and homes, brings schism and confusion into the church.
+
+Then consider that riches make the soul minimally tranquil: — to what end therefore are they to be sought? Every desire of ours, unless it be referred to tranquility of soul, is pernicious.
+
+The Apostles had neither valise nor money, and yet in no necessary thing were they destitute, — with far more cheerful soul than those who possessed much. *Tellus the Athenian*, as *Plutarch* has it in the life of *Solon*, content with a little farm and a little house, — so much as sufficed him and his children to be fed, — lived with tranquil soul. But *Croesus*, with the kingdom of Lydia and infinite tributes, could not be satisfied. Rightly therefore judged *Solon* *Tellus* to be far happier than that *Croesus*. — For that one, content with a little, lived well in his mediocrity: this one, ever seeking more, full of cares, finally lost even what he possessed.
+
+Finally, think of remedies whereby this pestilence of avarice may be expelled from thy soul. Nature is content with few things: therefore never is there too little where there is enough. Cupidity of having is insatiable — *riches drag men into perdition* (1 Tim 6:9). He who knows it is better to give than to receive (Acts 20:35), — will more willingly distribute his own well, than by various arts to augment.
+
+### Casus IV. Cupidity of Honors and Glory
+
+Another species of cupidities is the *desire of honors and glory*, from which, if it exceeds the measure, arises ambition, which above all things besets a generous soul, no otherwise than the more delicate timbers are more subject to worms and putridity than others.
+
+This pestilence when it invades the pious soul, how noxious be its effects: for those who are too eager for glory, can scarcely bear a peer or a superior — which is the cause that neither *Alexander* bore *Darius*, nor *Caesar* could bear *Pompey* in the same lot alive.
+
+Beyond that they seek a *false and vain honor*, not that which virtue and the judgment of honest men has produced, — which honor is most praiseworthy and to be sought — but that which is sought from *the ignorant vulgar*, whether by vice, or by virtue, whether by necessary things, or by superfluous actions it be acquired — which honor the wise despise, and place more in vice than in praise.
+
+They *oppose themselves to God*, to whom is due every glory. — In all their actions they seek not God's, but their own honor, — nor are they content with mediocre glory, but always aspire to greater, — that they may excel all — which the examples of *Lucifer* and the *first parents* attest.
+
+They are cause of many *seditions, strifes, and disturbances*. The cupidity of honors made *Cain* a fratricide, drove *Esau* to inhuman hatred of his brother *Jacob*, made *Absalom* raise wars against *David*, made *Ammon* rise against his own parent: — the cupidity of glory made *Alexander* pursue the whole world with iron and fire, made the *Lacedaemonians* wage perpetual wars against the *Athenians*, the *Carthaginians* against the *Romans*, with divers nations: the desire of glory has given many disturbances in the Church, has excited *Arius*, *Donatus*, and *Priscillian*, whose ensigns all ambitious ones make heretics.
+
+They are *inhuman and pitiless toward the neighbor*, whose misery they do not consider, but rather in their own high glory despise him with supercilious eye. Ambition makes men proud; pride makes them contemners of others.
+
+They *cast themselves into miseries*. For cupidity of glory cast *Lucifer* from heaven, the protoplasts from paradise, struck *Miriam* with leprosy, *Saul* was pierced with the sword, *Nebuchadnezzar* was assimilated to beasts, *Absalom* hanged himself upon an oak. Hither is God's continual labor from heaven: to depress the elated, and to exalt the humble — which *Chilo the Lacedaemonian* of old is said to have said.
+
+They *fear not the wrath of God*. For God resists the proud, which they either do not believe, or do not weigh, when they are established in sublimity. — For they flower like a laurel exalted and raised, as *David* says: *I passed by, — and lo, — he was not: — I sought him, and his place was not found* (Ps 37:35–36); *if thou be exalted as an eagle, and if among the stars thou put thy nest, thence I will bring thee down, saith the Lord* (Obad 1:4).
+
+They *do not know themselves* — how vile and low worms they are — whose likeness the Savior himself has taken (Ps 22:6): *I am a worm, and no man.* But they aim at empty vanity, and imagine to themselves sublime things, forgetful of their imperfection, of the stains of impurities, add also the seat of divine indignation, into which through sin we have fallen.
+
+Such are those pestilential fruits that arise from immoderate desire of glory. Which if any diligently consider, — this affection to remove wholly is not indeed possible, — but to diminish greatly they can.
+
+Then think about the remedies whereby this evil is to be met. The first is *the recognition of thyself*. Consider what by the fall thou hast become — how miserable in whole nature is depraved, how of all glory and honor which was concreated with the first man thou art stripped, — to what miseries thou art exposed, — what pains thou hast earned. Consider also the infirmity of thy body, how many diseases it is exposed to, — how altogether at last to death and burial: why then dost thou lift thyself up? Consider thy origin, which is a lump of earth. That does not give us the material for glorying, or of pride. Should not ambition also come into the mind, when reciting *Salvianus* has: *After a man a worm; — after a worm dust and horror; — thus not a man is a worm, — but a man himself is nothing.*
+
+The other is *the example of the Savior* — Christ Jesus, who, *even though he was in the form of God, thought it not robbery to be equal with God, but emptied himself, taking the form of a servant* — which example Paul greatly extols, when he exhorts to the study of humility (Phil 2:5ff.). Paul himself *cared not for the glory of men*, content that he was in grace with God: *To me for the least it is, — I judge — that I be judged of you, or of man's judgment* (1 Cor 4:3). — The Mother of the Lord, blessed among women, did not extol herself gloriously above others on account of that privilege of dignity conferred on her being made *theotokos*, but as *the handmaid of the Lord* she recognized herself, — she did not disdain to render most inferior services even to *Elizabeth*. — By such examples the cupidity of glory can be extinguished, and study of humility kindled in pious souls.
+
+The third is *the greatest peril* to which are exposed those set on the summit of honors. Most true is that of *Augustine*: *The more we are honored, the more we are endangered.* An enemy they bear in their bosom, and indeed that very one from whom they proclaim themselves most happy. — For the very felicity of thing, in which they abound, — the splendor and height of honor by which they excel, — the great abundance of servants and subjects — lie in ambush for them, — either that they may act against justice, or in present peril of life be placed: — from all of which those in mediocre condition are free.
+
+Wherefore let each be content with his lot, and whatever *Sparta* he has obtained, let him adorn it for his ability: *let him not affect higher things, but in those which are commanded him, let him show himself faithful* (Sirach 3:22). Of all remedies of true tranquility to be attained, this may be judged the best.
+
+### Casus V. What must be opposed to the cupidity of vengeance, which in many preoccupies the soul, and displaces it from stability
+
+*Reply.* Cupidity of vengeance is not only praised by the ignorant vulgar, but also by those who wish to be in some estimation. For few things today are held for a sign of a strong soul, — but to endure injuries and to commit vengeance to God is easily believed of a degenerate and cowardly soul: — but this is corrupt judgment.
+
+*Better it is to bear an injury than to inflict one, — better to be wounded than to wound.*
+
+If we consult Scripture, — nothing is more adverse to God and Christian charity, than cupidity of vengeance. It arises from an angry soul: *the wrath of man worketh not the righteousness of God* (James 1:20). Whoever can compose his wrath, will also easily abstain from vengeance.
+
+But that thou mayest bridle the affection of wrath: consider first how cruel a beast is wrath. Brief is the word — *wrath is brief*, but it has a long epiphonema. For he who called wrath fury, has said all things whereby wrath in us may be extinguished. Fury takes away reason, changes a man into a beast, makes him inept to every conversation, and arms him against himself, — so that the furious harms almost no one more than himself. — These things are also said of wrath, which is the mother of vengeance. It takes away the heart of a man, whom it disturbs from right reason, that as if senseless he may not know what he does. Many things does the wrathful undertake, which suit not his age, nor his office or order; many things does the vengeance-desiring do, even with his own detriment, provided he harm his neighbor.
+
+Therefore the wrathful in Scripture are called *fools*: *He that has no rule over his own spirit is like a city that is broken down, and without walls* (Prov 25:28). *And a fool immediately shows his wrath* (Prov 12:16). Conversely, *Gregory of Nazianzen* judges that those who are patient, and slow to wrath, are for the most part the wise. Wrath takes away true piety, for those with hateful soul are desirous of vengeance, cannot pray with pure conscience: *pure hands to be lifted up in prayers without wrath* (1 Tim 2:8); — on the contrary, to blasphemy and reviling with their tongue they are ready. It takes away brotherly love which we owe the neighbor: — for who will love him whom he wishes to harm? — It takes away justice, — for the wrathful inflict injury on many: but justice cannot be exercised except by gentle and moderate men. It takes away patience, which avenges not, but bears injuries. It takes away peace and joy of soul, — for the wrathful and vengeance-desiring is ever anxious, is ever turbulent, is ever at fight. It takes away concord with the neighbor, — without which life cannot be pleasant. For *the wrathful man provokes strifes*, says *Solomon* (Prov 15:18). It takes away the study of truth — for many things are attached to others through calumny, in which we wish to avenge ourselves. It takes away all humanity, transforming men into beasts, — nay, into the very devils.
+
+These are the chief effects of wrath which run out in the vengeance-desiring, which often to weigh is useful. For no one who has considered these will indulge in this most pernicious cupidity, which bears so many discomforts with itself.
+
+Then consider what be the causes of this immoderate cupidity. They are all indeed vices, — how then can a poisoned fruit come from a good tree? The first cause is *pride*. — The proud endure no injuries, are morose and cruel toward whomsoever they think has caused them slight injury: which if they did not do, they would think they detract much from their honor.
+
+The other is *self-love*, for whoever loves himself too much, is quickly angry with others who have hurt him in some way: often like a gout-sufferer, before being touched, he cries out.
+
+Third is *curiosity and suspicion*: — for who curiously inquires into single things easily finds someone at whom to be indignant; and when he does not easily forgive even lightly offending, he is quick to vengeance.
+
+The fourth is *rash credulity*: — for who believes all things hears many ingratiations, gladly admits flatterers, who at peril of others' honor gain his favor: whence hatred often arises against undeserving persons.
+
+The fifth is *negligence*, that we do not consider how easily Satan can precipitate us into vices. We are men, and by nature too prone to vices; — such are those with whom we live, we ought to think, and many things forgive them, into which others' vengeance-wishing are wont to sharpen. — No good man is who does not detest these vices as far off as possible; — with them therefore resist manfully, and thou shalt not easily find place in thee for the cupidity of vengeance.
+
+Third also of the remedies of this most vitious affection be thou solicitous. First of all, let there always sound in thy ears the Apostolic prohibition (Rom 12:19): *Avenge not yourselves, dearly beloved, but rather give place unto wrath: for it is written, — Vengeance is mine; I will repay, saith the Lord.*
+
+Then, when vengeance-desires arise, immediately by the contrary movements of gentleness and clemency struggle. — Which is a common remedy in all vices, which most easily are extinguished by sudden study of contrary virtues. Bodily diseases are cured by similars, — bitter bile is cast out by bitter pharmacy: but diseases of the soul not so: acerbity is corrected by patience and gentleness, — the type of pride by depression of soul.
+
+Third, if thou art disturbed by the cupidity of vengeance, *defer its execution* — in the meantime that fury begins to cool, and thy soul will be milder. *The best remedy for wrath is delay*, says *Seneca*.
+
+Fourth, against the desire of vengeance let our soul grow warm with such patience, that the more we are irritated, the milder we are. For as gold seven times proved in the fire changes neither nature nor color, so the soul of the pious man against injuries even often-repeated puts on a callus of patience, — becomes more proven than any gold. Christians are little sheep of Christ: sheep every year suffer themselves to be shorn, and at last silently are slaughtered: — thus even they against every meeting of injuries must be gentle and hardened, and then their patience will be a testimony of innocence.
+
+Fifth, before our eyes let us place, whenever the cupidity of vengeance stimulates us, *the example of Christ and the holy martyrs*: of whom Christ bore scourges, spittings, the crown of thorns, the cross, the illusions of enemies, and finally death most patiently, and did not seek his own vengeance, nay rather, for his enemies he prayed. — By which example *Peter* exhorts us also to moderation of soul (1 Pet 2:21ff.). And they suffered themselves to be stretched and beaten like the skins of drums, various injuries and blows, a most bitter death they sustained, — nor yet did they curse their enemies, but rendered thanks to God who had thought them worthy that for his name they should suffer something.
+
+These are the spiritual arms of our militia, whereby that most-pestilential enemy — cupidity of vengeance — when it disturbs the soul, and in the true cultus and exercises of piety hinders — we can overcome; especially if there be added prayers, that God with the spirit of gentleness and patience clothe us — without which we cannot for a moment stand against so impetuous a perturbation.
+
+### Casus VI. How is to be assaulted the *affection of carnal pleasures*, which infects the souls of many
+
+*Reply.* Not every desire of pleasures is to be blamed. For there is a certain honest and holy pleasure, which arises from the reading or hearing of the divine word, or from meditation on the works and benefits divine, or from the labors of our office ritely-discharged: which pleasures it is licit to seek. Nay, therefore we give effort to those holy and honest things, that thence some holy recreation we may perceive. And *David* bids us *delight in the Lord, and he shall give to us all petitions of our heart* (Ps 37:4).
+
+There are also certain middle and indifferent pleasures, which vulgarly are called *natural*, as from food, or drink, from smell, from sight or hearing of pleasant things, from bodily rest and comfort, and from similar external senses' qualities. Which, if they be moderate, deserve praise, since to recognize the goodness of God, and for preserving the health of the body they make, and the soul to praise and glorify God who benefits us everywhere they invite.
+
+If however excess enters, or right end be not applied, they degenerate into illicit pleasures. Therefore this affection of pleasure must not be shaken off or wholly removed, but be governed by due mode. For as *Aristotle* said in *Ethics*: *Virtue does not consist in the absence, but in the moderation, of affections.*
+
+Of illicit pleasures here we act, some of which are of the mouth and gullet, others of the belly: those serve *Bacchus*, these *Venus*; from those come banquets and drunkennesses, from these libidos, fornications, adulteries. Each affection leads to hell, unless matured it be repressed.
+
+*Against the desire of drunkenness and revelry* these remedies be adopted: first of all let Sacred Scripture lead — which grievously deters us from those vices, especially when *Christ* says (Luke 21:34): *Take heed lest at any time your hearts be overcharged with surfeiting and drunkenness*; and when *Paul* to the works of the flesh reckons *drunkenness and revelry*, of which he affirms *that they which do such things shall not inherit the kingdom of God* (Gal 5:21).
+
+Then let it be considered, that these vices cast man below beasts: for rarely does one see a beast eating or drinking above satiety. Drunkards do not merely eat delicacies more frequently than measure, but so do they engorge themselves that neither eyes see nor hands nor feet do their office: by which reason they become similar to idols, which have eyes and see not, hands and touch not, feet and walk not.
+
+Third, whoever loves the health of body, let him resist that appetite, and be zealous for sobriety. Nothing more easily corrupts the humors in the body, and generates various diseases, than surfeit and drunkenness. Whence *Sirach* writes (37:34): *Many have perished through eating, and by intemperance in the throat*. And *Solomon*: *To whom woe? Whose father woe? — to whom strifes? to whom cavils? — who has wounds without cause? whose eyes are red? — Is it not those who dwell in wines, and study to drain out draughts?* (Prov 23:29-30). Nothing more shortens life than intemperance in food and drink, as inversely a simple and frugal diet prolonged the life of ancient patriarchs and others for some centuries of years.
+
+Fourth: consider, that surfeit renders man wholly inept for honest actions. For *drunkenness carries away the heart* of the Lord, as the Prophet speaks (Hos 4:11). It debilitates the wit, obfuscates the intellect, so that a man for consulting, discussing, and judging becomes as it were an infant: therefore drunken judges are blamed, who *pronounce sentence* (Isa 5:23). Nay even the works of hands they impede, for who loves drunkenness *hates labors, — his hands are inactive, — he squanders his inheritance to grandchildren*, as *Sirach* says.
+
+Fifth, revelries and drunkennesses are the seed-plot of many evils — as rightly *Paul* says: *Drink not wine wherein is dissolution* (Eph 5:18): the flesh becomes so lascivious, that it shakes off all discipline of gospel; and thence, as from a field luxuriating, spring cardueni and thistles of evil cupidities in great number; the body is aggravated with foods and fatnesses, the mind is difficult to remove from natural rest: prayers and meditations are impeded, the mind is stupefied, such that in a short time it unlearns both God and religion; offices assigned are neglected, the poor are not fed; and thus the pleasure of food and drink, which without sin might have been, is by too much taken away — for labor, sweat, work, hunger and thirst is the best condiment of foods. Worst is that food and drink which neither for the hungry nor the thirsty is prepared.
+
+Further, *let those who feel suggestions to libidos and illicit Venus*, before all things persuade themselves that these are from the devil, who is that most-unclean spirit — hater of marriage and chastity — whom so often we are commanded to resist that he may flee from us.
+
+Then let them think: *fornication is a work of the flesh, which excludes a man from the kingdom of God* (Gal 5:19), and *makes members of Christ members of a harlot* (1 Cor 6:15). Since other sins be committed outside the body, — *he who fornicates sins against his own body* (v. 18).
+
+Third, let him weigh how great miseries this sin cast on man. For it blinds the soul, — makes it stupid — whence the libidinous are for the most part unfit for serious business: — which the example of *Solomon* especially attests: — who though before he was the wisest of kings, — as soon as he became polluted with women, and gave himself to Ethnic wives, — kept nothing of his wisdom, — so that even for the sake of his little women he worshiped strange gods (1 Kgs 11).
+
+*Samson* also, conquered by the love of a little Delilah and deceived, lost all his strength, and fell into the hands of enemies (Judg 16:19). Nothing shall I say of *Hercules*, — nothing of *Marcus Antonius* and *Cleopatra*, as *Plutarch* refers: *His soul in the very body was dying, as in the body a mistress was living.*
+
+Fourth, consider how many illicit love has brought to the highest poverty. For *Venus is voracious*, who in short spaces of time has dispensed the greatest riches: since by nothing more than by money are the doors and souls of harlots stormed. Hence *Solomon* named a harlot *a deep pit* (Prov 23:27); for she absorbs both the strength and the substance of a man. And *Sirach* exhorts: *Give not thy soul to fornicators, lest thou lose thyself and thy inheritance* (Sir 9:6).
+
+Fifth, before his eyes let him place the examples of penalties, whereby God has punished libidinous men. On account of the fornication of *Shechem* all the males of Shechem were slain (Gen 34:25); on account of libidos the first world perished by flood, — the *Sodomites* by fire (Gen 6, 19); on account of the same cause 24,000 fell in the desert (Num 25:9); and whole tribes of *Benjamin* were cut off (Judg 20). *These have been written for our examples, that we should not lust after evil things, as they lusted; nor let us commit fornication as some of them* (1 Cor 10:6-8). For God is a chaste mind, and grievously punishes libidinous men, as it is written: *God shall judge the fornicators and adulterers* (Heb 13:4).
+
+Sixth, let him flee every occasion of libidos. *With a dancing woman thou shalt not be affable*, says *Sirach*, *lest by chance thou perish. Turn away thy face from a comely woman, and look not around at another's beauty; on account of the beauty of a woman many have perished, and from this concupiscence is inflamed as fire* (Sir 9:6-8).
+
+Hither also pertains the exhortation of *Solomon* (Prov 5:1ff.; 6:24; 7:1ff.). Let him also apply diligence in prayers and assiduity in the labors of his vocation; for these keep the soul in office, and are guardians of chastity: but in the improbi and idle, the heart lies open to the tempter, and is easily filled with impure thoughts.
+
+So much of the cupidity of pleasures.
+
+### Casus VII. How is to be resisted the affection of fear, that it may not impede the cultus of the soul
+
+*Reply.* *Fear*, as *Augustine* has it, is placed in second among the affections of the soul. It is a mover and impeller of the affections, whose it is either fervently to urge, or by turns to agitate. Desire of money causes fear of poverty; desire of honor, fear of infamy or dishonor; desire of pleasures, fear of labor and troubles. Add to these the fear of deformity, of captivity, of old age, of diseases, and finally of death itself. And these are all species of fear about external things.
+
+There is also *fear of spiritual things* — as of sin, of divine judgment, of eternal damnation and the like. All these impede the tranquility of soul: therefore convenient remedies must be sought whereby that fear may be expelled.
+
+*The fear of poverty* we shake off by consideration of the divine promises — that *they who seek the Lord do not want any good* (Ps 34:11), and *blessed are they that fear the Lord, — the labors of their hands they shall eat* (Ps 128:1-2), — that *blessing of the Lord makes rich* (Prov 10:22). Let each therefore do what he can, and commit the rest to God, trusting his promise in *Christ Jesus* and *Providence*, which takes on the care of all things that are in the world. *For he opens his hand, and fills every animal with blessing* (Ps 145:16); even the little birds he feeds, and the lilies of the field he clothes — how much more shall he provide for his own sons? For he is our Father, and is conscious of our necessities: therefore his sons he cannot neglect. — On which sentence *Christ* instituted a long exhortation (Matt 6).
+
+To the *fear of ignominy and infamy* we can oppose: **(1)** Christian magnanimity — which becomes all Christians, *who seek not the things which are theirs, but of others* (Phil 2:4). **(2)** The condition of those who cause us shame: — they are worldly men, carnal, in the kingdom of God foreigners. It is madness to fear infamy from infamous men. **(3)** Our true glory, which we have before God, — which consists in this, that we are sons of God and heirs of eternal life, — which Scripture places before all honors of this century (Rom 8:17ff.; 2 Cor 4:17). **(4)** The great remuneration for ignominy which we suffer on account of Christ. For this the Lord promised (Matt 5:11): *Blessed are ye when men shall speak evil of you.*
+
+*The fear of labor and troubles* we can drive away: **(1)** by consideration of the divine will. For God has imposed labor upon man (Gen 3:19), and through labors his gifts he has willed to sell to us. Whence *Sirach* says: *Hate not laborious work, and husbandry created by the Most High* (Sir 7:16). **(2)** By consideration of utility which we have from labor. It profits the health of man, strengthens the powers of body, heals depraved desires, well merits from neighbor, frees us from base servitude of pleasures, finally procures praise before right-thinking men. For no one approves idleness, which teaches many vices (Sir 33:29). But those occupied with honest labors easily deserve the favor of good men.
+
+When *deformity of body* casts fear, let us think, that this is not from our hand, but *God is the generator of form* (Wis 11), who *distributes his goods to each as he wills* (1 Cor 12:11); *no one can add one cubit to his stature, no one can make one hair white or black* (Matt 6:27; 5:36). If some defect of form has arisen, let it be striven for, that by cultivation of soul that defect be compensated. Meanwhile let us solace ourselves with the future glorification of our bodies, of which *Paul* (Phil 3:21), where *the bodies of the just shall shine as the sun in the kingdom of the Father* (Matt 13:43).
+
+If *fear of captivity or exile* threatens, let it be considered — these belong to the sure casus that can befall anyone, from which even the pious have not been excepted, — as the examples of *Joseph*, *Daniel*, the *Apostles*, and finally of *Christ* himself in his infancy exiled, attest. *Let no one suffer as a murderer, or a thief, or an evil-doer, or a busybody in other men's matters; but if as a Christian, let him not be ashamed, but let him glorify God on this behalf* (1 Pet 4:15-16).
+
+*Fear of calamities* can also be extinguished by consideration of that necessary evil: for *all that would live godly in Christ Jesus shall suffer persecution* (2 Tim 3:12); and *this is the way to glory through many tribulations* (Acts 14:22); — in that consists our conformity with *Christ* (Rom 8:29); in that medium is mortified in us the flesh, and what other benefits of the cross are proposed elsewhere.
+
+*The fear of old age* is frustrated. Old age is a gift of God, which they cannot fear, who wish long to live: it is honorable, — even by divine judgment: it is immune from many vices and inconveniences by which adolescence and virile age are troubled. And though it does not lack its own inconveniences, — yet the old are more exercised in bearing them, more circumspect and moderate. And though for the things that are done by strength of body, they be less apt, in those things however which by prudence and counsel are managed, they are more exercised — so much so that youth, which seems more apt for managing affairs, can do nothing except by the counsel of old men governed.
+
+If finally one is troubled that he is subject to diseases, and to death itself, that with sin, the devil, and eternal damnation itself he must contend, — against all these above we have shown remedies (lib. 3 c. 4), when we treated of the melancholics. Nor is it needful here to repeat.
+
+### Casus VIII. What manner of moderation is to be applied in governing *joy and sadness*, when those affections exceed the mode, and impede the cultus of the soul
+
+*Reply. There is a mode in things, — there is a time both of laughing and of weeping* (Eccl 3:4). That we may use either without sin, we must see.
+
+*Joy we may moderate in this manner*: **(1)** Let us think, that God indeed *wills a cheerful heart in ours*, who also does not envy us honest recreation, whereby we may temper the bitterness of this life: — but the reason for the usurpation of this from God will one day exact us. Whereon *Solomon* writes (Eccl 11:9): *Rejoice, O young man, in thy adolescence, and let thy heart be in thy good days of youth, and walk in the ways of thy heart, and in the sight of thine eyes: — but know, that for all these things God will bring thee into judgment.* Let each therefore, while he rejoices, from his eyes not put away God, as an Inspector and judge of all our works.
+
+**(2)** *Let it much be considered how there be measure in laughing.* Hope therefore, before thou take thy rest, set forth an inspection of thy whole past day, by how many benefits from God thou hast been affected, how much on this account thou owest thee, — think with thyself, and thanks give diligently.
+
+**(3)** Let us recall, that the joy of this world is not the best, but one only ordained to temporal and perishable things, which are attributed to constant times. Therefore let us not so wholly immerse ourselves in such joy, as if our summum bonum were in it constituted: — nor let us be too much sad if by some cause it be cut off: — for these are not proper to the pious, which they have in common with the impious.
+
+**(4)** *The joy of this world, unless it spontaneously offer itself, — let us not too much seek*, but learn to despise it: so much the more shall we aspire to celestial joy, in which sense *Augustine* writes (*Soliloq.* c. 27): *In this life I have felicity, my soul, — that thou mayest be worthy to be filled with such consolation. What is more just, my Lord God, than that I have thee, than any thing else in which I am delighted, than in thee?*
+
+The same is the reason of sadness, which indeed always cannot be avoided, but must be moderated, lest it either draw us into any impatience, or degenerate into wickedness in God or the neighbor, or breed some hard thing in us, or shorten life, according to the admonition of *Sirach* (22:6-11): *Give not thy heart to sadness, and afflict not thyself in thy counsel. Many hath sadness slain, and there is no profit in it.*
+
+Not however do we treat here of melancholic sadness, which above we expelled (Lib. 3 c. 4); but of that which has just causes, which we must moderate — lest it degenerate into impatience, or of anything harder in God or in the neighbor.
+
+That moderation may there be: **(1)** When we consider — God has not left us without consolation, according to that of *Paul* (2 Cor 1:5): *As the sufferings of Christ abound in us, so also our consolation abounds through Christ.*
+
+**(2)** When we recollect, that the sadness of this world is not perpetual, but has its interims. *For God does not give perpetually affliction to the just* (Ps 55:23); whatever has an end, does not long endure, says *Seneca*. *God is not delighted in our perditions, but after tempest he makes tranquility, and after tears and mourning, he pours in exultation* (Job 7:12); *weeping shall stay till evening, and joy shall come in the morning* (Ps 30:6). Hence *Solomon* exhorts: *consider the works of God, that no one can correct what he has bent. In the good day fruits of good, and in the evil day take heed* (Eccl 7:14).
+
+**(3)** When we consider the *author of sadness*. This is *God, who saddens, that he may exhilarate, and does not tempt any man of the human race beyond what he can bear, but gives with the temptation also a way of escape* (1 Cor 10:13).
+
+**(4)** When we ponder the coming joy of the future life, which overtops with a long interval every sadness of the pious, that they may have in this world. *For our present affliction is momentary and light, and works for us beyond measure in sublimity of eternal — an eternal weight of glory* (2 Cor 4:17).
+
+Thus therefore also these affections must be reduced to due moderation, lest they be against the tranquility of the soul, or impede the cultus and use grateful to God.
+
+So much of the internal cultus of the soul: a few things now follow which cultivate the soul *from without*, as are the studies of the liberal arts.
+
+### Casus IX. Whether Christians may well spend labor upon the studies of the liberal arts, since by these means they may render the soul more cultivated
+
+*Reply.* There are two genera of men to whom studies of languages and arts are contemptible, from whom in vain shall one expect that the soul in this manner be cultivated: namely, *some enthusiasts and monastic-persons.*
+
+*Enthusiasts* despise not only philosophical studies promiscuously, but also Academies and schools. Their well-known familiar was *Carolostadt*, who along with his brother *Gabriel Mostuchius* and Master *John Ammon* in *Halae* shut the schools; and parents who sent their children into schools, he called out. The studies of languages and arts, as a sign of proud soul he stigmatized, quips-with-jokes teasing:
+
+> *Nobody in the world, — Grammar teaches men to be men.*
+
+That fury of *Carolostadt* in these ranks in some has revived — among whom is *Valentinus Weigelius*, who in his book judges Academies just like the gymnasia of the ephebes and *Greek* glories. He notes the abuse of the Academies, such as in his time were in the Papacy, where without *Aristotle*, or the very true understanding, Christian wits were occupied with gentile and human letters, and instead of the word of God the Papist dogma was handed down (as says *Christian Chemnitz*, *Loc. Germ.* i fol. 262), where adolescents were imbued in the worst manners, with Philosophical, gentile, human, in impious even legal opinions: where they drank the venom which perhaps they never vomited out: holding for a good what is evil, and imbuing those whom they undertook to teach with similar opinions.
+
+*Luther* himself was Professor of Philosophy in this our Academy for some time; in the Academies, the books of *Aristotle*, of the Logic, of the Ethics, of the Politics, are to be retained, he persuades. If not all things in disputations be transformed, the exercises of languages and disciplines useful he approves (t. 6 *Ien. germ.* fol. 310). He exhorts also governors of Commonwealths to open schools, wherein the youth may be imbued with honest disciplines (t. 2 *Ien. germ.* fol. 452). So far is it from schools and studies of languages and arts being to be damned, as *Weigelius* does.
+
+Indeed no one of sane mind can damn or fault them: since if from true piety they be not separated, the best cultus of the soul consists in them. For they procure to men the knowledge of many things, that a man may not live in the world like a beast, which cares for nothing that is done; they tame the manners, and are handmaids to true modesty, according to that oracle of the Poet:
+
+> *Ingenuous cultivated fitting arts, — softens manners nor allows them to be wild.*
+
+They render the soul gentle and patient of injuries — for barbarians praise vengeance, but the erudite know that to conquer themselves is the best victory. Hence an anonymous adolescent, who at *Zeno*'s had studied philosophy, — returning home, when by his father he was ordered to give some specimen of his erudition, said: *I shall shortly show what I have profited.* And when by chance his father, imperious, raised his hand and beat his mouth: — after he had borne his parent's severity with equal mind, and when his father demanded of him a document of proficiency: — he said: *This is what philosophy has taught, — that I bear even the wrath and blows of my father with equal mind, when justly he strikes*, as *Erasmus* refers (lib. 5 *Apophtheg.*, and *Aelian* lib. 5 *var. hist.*).
+
+Of *Dionysius the Younger* it is reported: when he was expelled from the kingdom, and by someone was asked what *Plato* would have profited by his philosophy, he replied: *That the mutation of my fortune I bear serenely*. For he did not put his hand on himself, as others are wont, but he opened a school for the boys of his fellow-citizens.
+
+Studies moreover inform judgment. Who understand not the arts, admire not artificers — like a blind judge concerning colors. *Studies profit the health of the body*, says *Seneca* (Ep. 21). For into a remedy come honest solaces, and whatever raises the soul, even the body is profitable. True recreation comes from studies: as the same *Seneca* says (Ep. 82): *Leisure without letters is death, and burial of a living man.* Reading feeds the wit, and refreshes the mind fatigued with study — yet not without study: nor writing only, nor reading only, ought we — either thing would consume our strength and exhaust; the one would loosen and dissolve. Studies discern men from brutes: therefore some have said that they ought to give effort to letters, lest they seem to sit atop a stone. And *Aristippus*, asked what an educated man differs from an uneducated, replied: *As a broken horse from a wild one.* For as an unbroken horse is inconvenient for every use, because of nimbleness and ferocity, so those who are inept in the arts — which alone philosophy tames — for every conversation of life are useless (*Laert.* lib. 2 c. 8).
+
+These few things teach that they lose not time who watch over good letters, but cultivate the soul, and lead this life longer and sweeter than others whom their own ignorance stupefies.
+
+Whence *Solomon* writes (Prov 17:24): *A learned spirit is precious.* Truly these effects on the soul are not perceived in all studies, but where they have embraced a suitable nature which admits discipline and cultivation, and by its goodness helps it. For as not all fields are fruitful that are cultivated, so not all souls when cultivated bear fruit. As a field, however sterile, without cultivation cannot be fruitful, so without doctrine the soul is: either thing without cultivation is weak, — with which similitude *Cicero* uses (*Tusc. quaest.* lib. 2).
+
+*[T25 pickup: Liber IV Cap. III — De bonis fortunae (goods of fortune, wealth, riches), OCR ln 51200 / phys p. 812. Cap. III opens with distinction between goods-of-fortune (external, wealth) vs virtues (of soul); Stoic dispute about whether external goods are properly "bona" or merely "commoda"; Casus I on whether Christians may possess private property with good conscience — anti-Anabaptist common-goods rejected via Christian liberty + Apostolic precedents.]*
