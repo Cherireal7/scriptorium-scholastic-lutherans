@@ -11132,86 +11132,131 @@ If Scripture in some places (Dan 4; Sir 3) speaks of alms in respect of the remi
 
 **In sum**: alms not the meritorious cause of forgiveness, but sign and fruit of a heart pleasing to God through Christ.
 
-### Casus XVI. How correction of a sinning neighbor is to be undertaken, so that he may be corrected
+### Casus XVI. How correction of a sinning neighbor is to be undertaken, that the neighbor may be corrected
 
-*Reply.* Fraternal correction pertains to works of spiritual mercy, sometimes called *spiritual almsgiving*.
+*Reply.* Fraternal correction pertains to the works of spiritual mercy, and is called by some *spiritual almsgiving*.
 
-*A great work is charity*. Just as we are bound to relieve neighbor's bodily suffering — poverty, captivity, life-perils — so also to correct his sins by which the soul incurs peril: by law of charity we are bound. — Christ required this of his own (Matt 18:15): *if thy brother sin against thee, go and correct him between thee and him alone*.
+**A great work is charity.** As we are bound to lift the neighbor's bodily hurt — poverty, captivity, dangers to life — so also to correct his sins, by which his soul takes peril: from the law of charity we are held obliged. Christ required this of his own (Matt 18:15): *if thy brother shall trespass against thee, go and tell him his fault between thee and him alone*.
 
-**Considerations**: (1) *who is to correct*; (2) *who to be corrected*; (3) *how manifold correction is*; (4) *how to be undertaken*; (5) *for what end*.
+**Five heads must be considered:** (1) *who ought to correct*, (2) *who ought to be corrected*, (3) *how manifold correction is*, (4) *how it is to be undertaken*, (5) *toward what end*.
 
-**(1) Who corrects**: primarily *superiors* who have some office-authority (magistrates over subjects, ministers over auditors, parents over children, teachers over disciples). Yet even *equals* and *inferiors* may correct out of charity — since the offices of charity are common to all. — Just as an inferior can console a superior in ills, so can he admonish him from sin.
+**(1) Who is to correct?**
 
-*Not everyone can correct*: he who has not yet cleared himself of sins that peccadant even worse than the neighbor's. Yet an inferior may judge of superior's sin without scandal, unless with self-condemnation.
+Simply, all Christians are bound to correct a sinning neighbor. In the first place *superiors*, in whom by office there is some authority — magistrates over subjects, ministers of the Church over their hearers, parents over children, teachers over disciples: — of superiors' duty there is no doubt. But that even *inferiors* are obliged to this office is plain from that the duties of charity are common to all. Just as the inferior can console the superior placed in bodily ills, so also he can call him back from sin, that he may not perish.
 
-**(2) Who to be corrected**: any sinner, especially the notorious. Even the highest, if their sins are notorious, are to be corrected — as *Nathan* corrected David, *John Baptist* Herod, *Ambrose* Emperor Theodosius. But *reverence* should temper: correct with humble prostration, not insult.
+Nor can everyone straightway correct: *he who is himself not yet purged of the sin* which he intends to reprove peccadant even worse than the neighbor's. — Nevertheless the inferior can judge of the superior's sins, even not-without scandal to others, but as though himself under self-condemnation.
 
-**(3) Manifold correction**:
-- *Private admonition* (Sir 19:13–14): *correct thy friend, lest peradventure he understand not; correct thy neighbor lest he do it again*.
-- *Denunciation to superiors or to the church* (Matt 18:15–17: if he hear thee not, take with thee one or two witnesses; tell the church; if he hear not the church, let him be as heathen).
+**(2) Who is to be corrected?**
 
-**Public and private sins**:
-- *Public sins* — after prior admonitions, correct openly by superiors.
-- *Private sins* — first, privately correct; if no fruit, use witness; last, to superiors.
+Every sinner — chiefly the notorious ones, without respect of dignity — for as the *common ministry of Christ* is to save, so also the common work of medicine is to heal. Wherefore even a superior can be corrected by an inferior; and the elder by the younger; the husband by the wife — with due mode and manner, of which afterwards.
 
-**Beware**: correct not by mere suspicions or rumors, but on certain evidence; not before believing all things (Sir 19:16).
+Here pertains that saying of Sirach (19:13–14): *admonish thy friend, lest perhaps he understood not*; and, *admonish thy neighbor, that he do not do it again*.
 
-**(4) How to correct**:
-- *Person* — if superior, with humility and reverence; supplicative rather than magisterial.
-- *Piety* — from love, not scorn or insult.
-- *Time and place* — not before crowd; discreetly.
-- *Freedom from same vice*: he who corrects should first cleanse himself; *shameful for a teacher* when his fault re-strikes him.
+The corrector-of-sin should not remain silent, but the modes and steps should be observed. — Christ has himself explained them (Matt 18:15–17): (a) private admonition between the corrector and the delinquent alone; (b) denunciation of the deed done before witnesses, especially before a superior, or also before the whole ecclesial assembly.
 
-**(5) End of correction**: not vengeance, but neighbor's salvation from damnation; zeal, but *mercy first* joined with it, that thou be more cautious for the peril of thy brother than for thy own (Gal 6:1: *thou spiritual, instruct such a one in spirit of meekness, considering thyself lest thou also be tempted*). — As that old monk said: *when I heard someone brother sinned, — I said, I too tomorrow may be so* (Ambrose lib. 2 c. 7). Three things: **mens, lingua, manus**, — that in *heart*, *tongue*, and *hand* the corrector should have mercy in reproving, plenty in exhorting, efficacy in persuading, and in hand continence of flesh.
+Of the *first mode* Christ says (Matt 18:15): *if thy brother shall trespass against thee, go and tell him his fault between thee and him alone*. — Sirach 19:13: *if he have done it, admonish him, that he do it not again*. — And James 5:20: *he who converts a sinner from the error of his way shall save a soul from death*.
 
-### Casus XVII. How humaneness (humanitas) toward neighbor without injury of conscience may be preserved
+Of the *second* Christ says (Matt 18:17): *if he hear thee not, take with thee one or two more, that in the mouth of two or three witnesses every word may stand*. — 1 Tim 5:20: *those that sin, rebuke before all, that others also may fear*. — And finally (Matt 18:17): *if he neglect to hear them, tell it unto the church; but if he neglect to hear the church, let him be unto thee as an heathen*.
 
-*Reply.* Humaneness is elsewhere called *urbanity*, *affability*, or *bland conversation*. It is that virtue by which one takes pains not to hurt anyone in word or deed, but rather delights all honestly.
+**Public and private sins.** Public sins, of which no suspicion is even needed, are not to be inquired even by superiors, and the subject is not held to answer questioning about hidden things. Hidden ones, or those where the conscience of an eminent person could be marked by detriment, — as betrayal of the city, the secret propagation of heresies, or something similar, — must first-and-immediately be corrected: if in this way the sinner cannot be brought back, then let it be referred to superiors, by whom the peril may be broken. So Absalom's proditors and dagger-men *Ahitophel* betrayed to the king (2 Sam 15:12); and David's kinsman betrayed the plots of Absalom to David (2 Sam 15:17). — If someone corrects the delinquent secretly *cum spe melioris vitae*, indicating it also to superiors, whereby he might be shamed and cease sinning — this too is safer to consult with the neighbor's conscience than with his fame.
+
+**(3) How manifold is correction?**
+
+Fraternal correction can be undertaken in three ways: (a) *by rebuke of the fact* privately, chiefly before superiors, or even before the whole church; (b) *by denunciation* — of which Matt 18:15 and Deut 19:15; and of the sinner brought before the church for judgment (Matt 18:17). See James 5:20; Prov 27:5 (open rebuke better than secret love); 1 Tim 5:20. — Notorious *ζηλωτῶν* is domesticorum-referentium-vitia: reference to Corinthians (1 Cor 5:1), and finally *conversation with denunciationi* of that most-perfidious traitor of *Judah* to Christ — of which see Eph 5:11 (*have no fellowship with the unfruitful works of darkness, but rather reprove them*).
+
+**(4) In what mode is correction to be undertaken?**
+
+Many things must be observed:
+
+*(a) Respect of the corrected person.* If he is a *superior*, correction must be done with humble reverence and reason, lest one seem to be arrogating an empire against a superior: rather by mode of obsecration than by rebuke. So the elder-son, before his father, should reprove somewhat harshly with the delinquent — of which see the example of *Paul* concerning *Peter* (Gal 2:11–14): first, and without spectators, — lest the superior's authority not be shaken.
+
+*(b) The corrector himself*, that as he corrects, he first should have laid aside his own sin, and with great mildness proceed toward the sinner, lest he seem to insult; and let him beware, especially, that he not fall into the same fault which he rebukes in another. *For shameful is it to a teacher, when his own fault re-strikes him.*
+
+*(c) Respect of piety*: no one is to be corrected on mere suspicions or on the rumors of the crowd, but on some certainty about the sin: *not believe every word* (Sir 19:16).
+
+Sins are either **public**, or **hidden** or **occult**. Public sins, with preceding admonitions, are to be corrected first privately, if this does not avail; then publicly also, especially by superiors, since many by such sins are disturbed. This holds by Christ's precept: *if thy brother trespass against thee, tell him his fault between thee and him alone; if he shall hear thee, thou hast gained thy brother* (Matt 18:15). — Sirach 19:13, and: *rebuke a wise man, and he will love thee* (Prov 9:8).
+
+**Occult sins**, of which there is nothing of suspicion, are not to be inquired even from superiors; nor is the subject bound to respond to questioning about hidden matters. Occult sins where there is peril for the conscience of an eminent person — as betrayal of the city, hidden propagation of heresy, and such things — must at first be corrected privately: if in this way it does not amend, the case is to be referred to superiors, by whom peril may be broken. In this way Ahithophel and the dagger-men of Absalom were denounced to the king (2 Sam 15:12); and David's kinsman *Hushai* betrayed to David the counsel of Absalom (2 Sam 15:31 ff.). — If someone with hope of a better life corrects the delinquent secretly, that is to be done; but if there is no hope of correction, it must also be indicated to superiors, that he may be ashamed and cease sinning — since it is safer in such case to consult for the neighbor's conscience than for his fame.
+
+*(d) Respect of other circumstances*, of place and time especially — that the correction of one drunk, or in a public gathering where the friend of the corrector present might be embarrassed, be avoided. Many an untimely admonition has made the corrected the more contumacious.
+
+**(5) Toward what end is correction to be undertaken?**
+
+The end of fraternal correction, ultimately, is not zeal for our neighbor's punishment, but *for his life and escape from damnation*. Wherefore first indeed *zeal*, but with *mercy* and *humility* joined, is required — that we be more cautious for the peril of the brother than for our own (Gal 6:1): *ye which are spiritual, restore such an one in the spirit of meekness, considering thyself, lest thou also be tempted*.
+
+Which that old monk did, who when he had heard that one of the brethren had sinned, said: *he sinned yesterday, I tomorrow may be so* (see Bern. serm. 22 super Cant.); on which passage *Augustine* the same monk requires three members of body in him who is about to correct: *mens, lingua, manus* — *heart*, *tongue*, and *hand*. In the *heart*, mercy in reproving; in the *tongue*, sufficiency in reprehending, plenty in exhorting, efficacy in persuading; in the *hand*, continence of the flesh.
+
+### Casus XVII. How humaneness (humanitas) toward the neighbor can be preserved without injury of conscience
+
+*Reply.* Humaneness is elsewhere called *urbanity*, *affability*, or *blandness of conversation with familiars*. It is one of the virtues of humaneness, — indeed one of the graces which flow from a Christian who bears the image of God — by which he keeps himself so that in speech or deed he offends no one, but rather honestly delights all.
 
 Its object is speech and deed in familiar conversation.
 
-He who therefore would use this virtue must so labor that in speech or deed he offend no neighbor. — This can be sinned against by defect and by excess:
-- **Defect** (*inhumanity*): occurs when one speaks harshly, hears fastidious, difficultly performs duties, or does it without any sweetness or evidence of goodwill.
-- **Excess**: (a) *scurrility* — when to please, one flouts propriety, jokes, makes light of everything; (b) *adulation* — sinful flattery in speech.
+He therefore who would use this virtue rightly ought so to labor that in speech or in deed he offend no neighbor. Which can be sinned against both by *defect* and by *excess*.
 
-**Distinguish scurrility and adulation from humaneness**: adulation joins with lie, since none can please all in every point — hence adulators, wishing to earn favor, praise vice as virtue and confirm sinners in sin. — Whence the saying: *nothing so pernicious as flatterers' tongue*. — Both are conjoined with mendacity. Impossible to please all sound: therefore adulators lie.
+**In excess**, when one dares in all things which he ought and ought not — and *when* he ought not; and this can happen for a double cause. For either only for the sake of delighting we do so, that we may seem pleasing and lovable to all; and thus we deviate to the vice of *scurrility*, which is called disgraceful pleasantry, — because it does not consider what is fitting. Or we labor to please, that we may capture the favor of those with whom we live, and win over the wills of our neighbors; and this vice is called *adulation* or *flattery*. Both vices are joined with lie, since it is not possible to please all in every point; therefore the flatterer, to earn favor, praises vice as virtue and confirms sinners in their sin. Whence the saying: *nothing is more pernicious than the tongue of flatterers*. Adulators most closely attach themselves to the avaricious, applauding neighbors, that not only their goods may remain safe but that foreign goods too may flow to them by gift.
 
-Adulators go with the avaricious, applauding proximum, that their goods may not only remain safe but foreign goods flow to them as gift.
+**In defect**, however, one goes against humaneness by *morositas* — sourness — a vice by which one speaks harshly with others, hears fastidiously, difficultly performs duties, or if he does so, does it without any sweetness or evidence of goodwill.
 
-**In defect**: fights with humaneness, moroseness — one who speaks bitterly, refuses hospitality, does not fulfill duties. — At times *morositas* accedes to *dissimulatio*, — but between adulation and *morositas*, adulation more closely resembles humaneness because it produces an *actus humanitatis* (though vicious), which morositas cannot.
+There is also mid-way *dissimulation*, which does not sting or bite, but is a kind of frigid disguise. — Between flattery and moroseness, however, *adulation* approaches nearer humaneness, since it produces (though viciously) an *actus humanitatis*: whereas *morositas* cannot.
 
-**Rule** for keeping humaneness without sin toward proximus:
-1. Not seek to please all: some cannot be pleased however good; do as much as thou canst.
-2. Different in conversation with those in rank, different with the crowd.
-3. Do not always seek to delight those with whom conversant; if delight is joined with turpitude, offend rather than deceitfully please.
-4. Show singular benevolence in speech and gesture — speaking, hearing, seeing readily; freely undertaking mutual services; observing benevolence, blandness, equanimity.
-5. Avoid all offense-occasion in speech and demeanor. — In speech: what offends is voice-thinness, murmur, inconstancy, *concentus histrionis* (theatrical air), vain-glory. — In gesture: buffoonery, ridiculous gesticulation, lightness.
+**Rules for preserving humaneness without sin toward the neighbor**:
 
-Cicero (*De off.* 1) praises *Philip*'s institution of Antipater to his successors, ordering that by kind letters to friends *humanitatis moderatio* be shown, — soothing the enemy with benign oration; making the multitude benevolent to themselves by *appellando* soldiers with mild speeches.
+**(1)** Do not seek to please all — since some cannot be pleased however good you are; do as much as thou canst.
 
-Diligently to beware, however, that all these things happen from *nostrae salutis pauxillum* — the little bit that concerns our salvation — not from a servile scope to please, nor mere hypocrisy: but for the sake of true honesty of *communem salutariam*, — which is of virtue's own.
+**(2)** Converse otherwise with men set in a rank of dignity, otherwise with the vulgar.
 
-### Casus XVIII. Whether one may at times lie for the good of another
+**(3)** Do not always seek to delight those with whom thou conversest; if the delight is joined with turpitude, offend the neighbor rather than deceitfully please him.
 
-*Reply.* Since not on man's will does truth depend, — which whether *speaking* or *silent*, — how one ought to speak: — thus with truth war *mendacia* (lies), when *anything either affirmed or denied* is other than the thing itself makes clear, or than one has held it in mind.
+**(4)** Show singular benevolence in speech and gesture, — speaking, hearing, seeing willingly; freely undertaking mutual services; keeping affability, blandness, equanimity.
 
-Lie is threefold: **perniciosum, jocosum, officiosum** — pernicious, jocose, officious. — *Pernicious lie* — because it inflicts damage on the neighbor, is a sin held by all. — *Jocose lie* — some hold *not for a lie*, since a false-hearing man understands truthfully. — Of the **officious lie** the question is: is it lawful without sin? — such a lie is by which we would profit ourselves or the neighbor, or friend.
+**(5)** Avoid all occasion of offense in speech and demeanor. — In *speech* what offends is thinness of voice, murmur, inconstancy, *concentus histrionis* (theatrical intonation), and vain-glorious display. — In *gesture*: buffoonery, ridiculous gesticulation, and levity.
 
-There are those who deny that any lie is lawful to a Christian — not even officious — because it is written *Ps 5:7: thou shalt destroy all who speak lies*; and *Christ (John 8:44) names the devil the author of lies*.
+Cicero (*De officiis* 1) praises the *institutio* of *Philip* to his successors, ordering that by kind letters to friends they observe *humanitatis moderatio* — soothing the enemy by benign oration; making the multitude benevolent to themselves by addressing the soldiers with mild speeches.
 
-*Augustine* simply calls every lie sin (*Enchirid. ad Laur.* c. 18–19; and *De mendacio ad Consent.* c. 15). More clearly he writes: *No pact, no place, no cause of any consideration can justify a manifest lie which is against faith of good*. — He considers that mendacity is only when the false signification of a voice is emitted with intention of falsehood, — since *not sufficient is intention alone to make a lie, but private desire is required*.
+We must diligently beware, however, that all these things be done from *pauxillum salutis nostrae* — the little bit that pertains to our salvation — not from a servile scope of pleasing, which is of flatterers; nor from mere blandishment, which is of adulators; but for the sake of *civic honesty*, *and communi utilitate*, which is proper to virtue.
 
-*Chrysostom* and *Origen*, however, at least permit the **officious lie** in some cases. — Others (Basil, Cassian) similarly.
+*Diogenes* thus rightly rebuked a certain man of ill morals who was too much accosting a boy: *thou wouldst indeed thyself be more affable and courteous, — but let it be so, not for the sake of thy own convenience, but for the sake of good communities*.
 
-**We however hold**, on balance:
-1. Manifest lie against faith is never lawful, — even in matters of religion, salvation, or benefit of neighbor. — The truth alone glorifies God.
-2. *Simulations, hyperbolizations, stratagems, and similar* in cases where secrecy is licit for our neighbor's benefit — are to be ascribed **not to mendacity but to sagacity** (*calliditas*), — which Cicero in *De officiis* commends: only that kind of mendacity he condemns, in which pretense is joined with intention to deceive.
+He who then aims at humaneness let him see (1) that he strive to please not from private gain, but for common benefit; (2) not to please all — that is not human but adulation; nor please none — that is not humaneness but sourness — but rather to please those to whom, and when it is fit; (3) *even the excess of adulation to be shunned*, — since it does more harm than mere sourness: since sourness only offends, while adulation seduces from truth into vice.
 
-*Lactantius* (lib. 6 *Instit.* c. 18) expressly defines *mendacium* as belonging *only to those who intend to deceive*. Which if it be so, then *sagacity* is not lie — since without desire to deceive.
+### Casus XVIII. Whether one may sometimes lie for the good of another
 
-Wherefore *simulatio* in things useful to neighbor, — as *Rebecca*'s bringing Jacob to obtain the paternal blessing (Gen 27), or the case of the midwives of Egypt (Exod 1:19), — is not simply lying, but is sometimes commended.
+*Reply.* Since not on man's will does truth depend, — which whether *speaking* or *keeping-silent*, and *what mode of speaking* one ought to use, — with truth do *lies* war, when what is *affirmed* or *denied* is other than the thing itself displays, or than one has held it in mind.
 
-*But here I break off, judging concerning cases of conscience I have said sufficient.*
+For with truth wars a lie which is contrary to it, either by *affirming* what is false, or by *denying* what is true. — Or as *Augustine* defines (*Enchiridion ad Laurent.* c. 18): *A lie is a falsehood signified by voice with the desire of deceiving*.
+
+**The lie is threefold**: *pernicious*, *jocose*, *officious*.
+
+**Pernicious lie** — because it brings damage to the neighbor, is by all held for a sin.
+
+**Jocose lie** — is that in jest, not so held to be a lie, because the false-hearer, understanding it in jest, is not deceived: but rather is commended among the *facetiae* of an urbane speaker.
+
+Of the **officious lie**, the question here is: whether it be lawful and without sin? Such is a lie by which we would profit ourselves or the neighbor or a friend.
+
+**Some deny that any lie is lawful to a Christian** — not even the officious — because it is written (Ps 5:6): *thou shalt destroy all who speak lies*; and *lying lips are an abomination to the Lord* (Prov 12:22). And Christ (John 8:44) names *the devil the author of lies*.
+
+*Augustine* simply calls every lie sin (*Enchirid. ad Laur.* c. 18–19, and *De mendacio ad Consent.* c. 15). More clearly he writes: *by no compact, no place, no cause of any consideration can be justified a manifest lie which is against the faith of good*. — He judges that mendacity exists whenever the false signification of a voice is emitted with intention of falsity, — since *not sufficient is the intention alone to make a lie*, but a special *cupiditas fallendi* (desire to deceive) is required.
+
+*Chrysostom* on the other side (in *De sacerdot.* 1) and *Origen* (in *Stromat.* lib. 6) admit officious lying in some cases as licit. So also *Basil*, *Cassian* (*Collat.* 17 c. 17 seqq.). *Some* even distinguish *not-lying* by a fine art from *simulation*, and hold the officious lie as licit.
+
+**We however hold**, on balance, as follows:
+
+**(1)** A manifest lie against the faith is never lawful — not in matters of religion, not in salvation, not for the benefit of the neighbor — since no way can a lie serve the truth: for *by lie is not truth confirmed but corrupted* (Sir 34:4). Christ says: *let your communication be yea, yea, nay, nay; whatsoever is more than these cometh of evil* (Matt 5:37). A mendacity is a mendacity, whether pernicious, or jocose, or officious.
+
+**(2)** *Simulations, hyperbolizations, stratagems, and the like*, in cases where secrecy is lawful for the benefit of the neighbor, — are to be reckoned *not to mendacity but to sagacity* (*calliditas*), as *Cicero* commends (*De officiis*): he condemns only that mendacity in which *simulatio is joined with a firm intention of deceiving*.
+
+*Lactantius* (lib. 6 *Instit.* c. 18) expressly defines *mendacium* as belonging *only to those who intend to deceive*. Which if it be so, then *sagacity* is not lie — since it lacks the desire of deceiving.
+
+Wherefore *simulation* in things useful for the neighbor — as when *Rebecca* by simulation bade Jacob obtain the paternal blessing (Gen 27), or the midwives of Egypt spoke to Pharaoh (Exod 1:19), or Abraham to the Egyptians said *she is my sister* (Gen 12:13), or Elisha *led the enemies* into Samaria (2 Kgs 6:19), or David *feigned madness* before Achish (1 Sam 21:13) — this is not simply lying, but is sometimes commended when done in charitable prudence.
+
+Cicero in *De officiis*: *only that species of mendacity is condemned, in which simulation is joined with intention of deceiving to the harm of another*.
+
+Therefore in figurative and stratagemata (in things that pertain to the commodum of the neighbor, when they could not be done openly) — these are not to be ascribed to mendacity but to *calliditas* — a virtuous prudence — as *Cicero* elsewhere: *only that kind of mendacity is condemned in which simulation is joined with the firm intention of deceiving to another's harm*.
+
+*Hence Diogenes* thus rightly rebuked a certain man of ill morals who too much bade a boy: *thou wouldst indeed thyself be affable, but for the sake of good communities, not for thy own commodity*.
+
+*But here I break off, judging that on the cases of conscience I have said sufficient.*
 
 ---
 
