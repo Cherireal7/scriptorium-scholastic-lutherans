@@ -10327,6 +10327,831 @@ The **sword of *judgment* he-*uses in-*time of *peace and *public *tranquillity*
 
 **As-*to *goods *common, — those from *tribute *are *exempt**; because of *no *person are-*proper, and to *common *sustentation of *clerics *pertain. *Therefore *Joseph, when *whole *Egypt *land *obliged-*had, and *tributary *made-*had, *sacerdotum *land *excepted, which *wished to-*be *free* (Gen 47:22). — And when *paid-*were *tributes to-*king of *Persarum, *excepted *were *sacerdotes and *Levitae*, as-*read-*is at *Ezra 7:24.
 
-*[T32 pickup: Cap. XIII/XIV/XV — remaining chapters on *marriage, *children/parents, *masters/servants* + closing sections. Volume body ends ~ln 69119 with AMEN doxology at physical p. 1109. Approximately 80 pp remain to close the volume body. See OCR ln 65070 onward (whatever CAPUT header comes next — check running headers for topic).]*
+### Casus XV. Whether laws made by the political magistrate bind the consciences of subjects
 
-*[VOLUME REMAINING: All chapters after Cap. XII (ln 65070-69119, ~85 pp). Cap. XVI at ln 67595 = *De officiis dominorum ac servorum* (masters and servants) — running header confirmed. Chapters between (ln 65070-67594) cover marriage/family/children topics. Progress: ~93% complete. Estimated T33 closes volume body.]*
+*Reply.* *Not-*here *of *question, — whether *magistrate *has *right on *consciences of *subjects*: — for-*this *belongs to *God *alone, who as *searches *hearts and *reins, so *alone-*also *consciences *bind *can: **He alone-*is *lawgiver, who *can *save and *destroy* (James 4:12). — But *this *asked-*is, — *whether *subjects *laws by-*magistrate *enacted *knowingly and *willingly *transgress *can, — even-*if by *no-*one either *charged-*or *punished, — from *sole however *conscience *convicted-*may-*be.
+
+**Thus *proposed *question *decision *has in *authentic *of-*Apostle *Paul* (Rom 13:5): *by *necessity to-*subject-*be, — *not *only for *wrath, but *also for *conscience*, — that *this-*sound and *inviolate *may-*be-*left; — and in *that other (v. 4): *magistrate *is *of-*God *minister, — *who therefore *of-*power *resists, *of-*God *ordination *resists*.
+
+**But *here-*of *distinction *there-*is-*need**, *partly *as-*to *laws, *partly *as-*to *obligation *of-*them.
+
+**If *laws *shall-*be *impious**, — *leading to *those which *are against *true *religion, *piety and *good *morals, *conscience *by-*no-*means *bind: *behooves indeed *God *rather *to-*obey *than *men* (Acts 5:29). — **If *laws *are *manifest to-*all**, — so-*that *even *sense of *law *no-*one *escapes, — *transgression-*of-*them *not-*is *without *wound of *conscience, — *species indeed *has of *contempt both of *laws and of-*magistrate-*himself. — But if *any-*one *such *law *made *to-*have-*been, — or *this *its *sense *invincibly *were-*ignorant, — *such *ignorance *excuses, and *transgressor in *conscience *his on-*account *not *bound-*is. — **If *laws *most-*grave *some, to *state of *Republic and *tranquility *public *pertaining, *should-*prescribe**, — those *altogether *conscience *bind, — because with *right *natural *agree, and *right of-*nature with *right *divine (which *without *controversy *binds *conscience) *coincides. — **But-*if *however *laws *contain *some-*things *slighter, *order *perhaps or *decorum in *Republic *concerning, — *these-*if *someone *transgress-*should with *public *scandal, — *without *doubt *conscience *violate; — if *however *without *evident *some *scandal *should-*be, — *transgression *not *violates.
+
+**As-*to *obligation, — **(1) *some *laws *bind *simply*, so-*that in *no *mode either *with *respect from *their *prescription to-*depart *may-*be-*allowed, as *laws *natural and *divine; **some however-*from *hypothesis*, — if *of-*any *violation-*of-*them *should-*happen from *contempt, in *evil *cause, or *not *without *scandal. **(2) *Some *obligation *direct*, when *law *immediately *is from *God; *some *indirect*, when *law *not indeed *immediately from *God *is, but *only from *person *such, to whom *God *power of *laws *enacting *has-*given. — To *this indeed *obedience *owed-*is on-*account-of *God, whose *ordination *resists *who *such *person, as *vicar of *God, *resists.
+
+**Plain therefore *is, — how *laws of *civil *magistrates in *conscience to-*bind *said-*are, *not *directly by-*respect of *magistrate-*himself, but by-*reason of *God, who *wills, — *ministers and *vicars-*his in *every *life-*kind *reverently to-*have-*us. — *More on *this *question *see at *Meisner* (*Lib. 4 De iure* sect. 6 quaest. 11) and *Gerhard* (L.C. tom. 6 *De magistratu politico* art. 1 th. 167 *seqq.*).
+
+### Casus XVI. Whether the magistrate can with good conscience arrogate to himself alone the right of hunting, so that on those who invade this right he-*have *power of *punishing
+
+*Reply.* *God in *first *creation *fishes, *birds, *beasts of *earth-*first *subjected to-*man, without *any *distinction of *honor or *dignity*, as *written-*is (Gen 1:28): *have-*dominion over-*fishes of *sea and *birds of *heaven and *all *living-*things, which *move *upon *earth*. — And *this *dominion *was *part *secondary of *image *divine, to *which *man *was *created, *which *though *much *diminished, *remained still *after *fall (Gen 9:2). *Hence *also *huntings *were *first *common*, which *anyone *at *pleasure, — not-*only in *his-*own but also in *another *territory-*was-*instituting, — as *Esau (Gen 27:5), and *today still *among *Turks and *some *other *peoples *free-*is *to-*anyone, in *any *estate *to-*hunt.
+
+**But-*when *human *race *multiplied**, so-*that *some *into *kings and *princes *were-*elected, *certain-*things either *for-*right-*sake or *for-*recreation-*sake *ceded from *dominion *common into *use *proper, which *customarily *regalia *called-*are, — as-*are *vectigalia, *salt-*works, and-*others.
+
+**Can therefore *magistrates *higher, that-*is, *kings and *princes, *and *who *any *part with-*them *participate, this *right-*of-*their-*own (*not indeed of *Christ *their-*own is, *his-*own from *princes to-*strip *regalia*), but *observing *certain *cautions.
+
+**(1) *Let-*be *hunt *legitimate for-*ends***: (1) *of-*honest *recreation-*sake, (2) *for *diminishing *noxious *beasts, that *men and *crops of-*earth *may-*be in *safety, (3) *for *procuring *food for *table of *princes, as in *court of *Solomon (1 Kgs 4). — *Pernicious however-*is *hunt, which *is-*done with *destruction of *subjects.
+
+**(2) *Let-*not-*be in *hunt *too-*much *neglect of *justice**, with *groan of *widows and *orphans, whose *causes *not-*known-*are, with *destruction of-*whole *Republic.
+
+**(3) *Wild-*beasts *multiply *not to-*permit, with *maximum *of-*their *detriment*.
+
+**(4) *Huntings in-*just-*time to-*be-*instituted**, *not under *sermon-*hour, from *which not-*only *magnates themselves, but *also *most-*many of *subjects, whose *work in *hunt they-*need, *are-*drawn-*away.
+
+**(5) *Let-*happen *huntings *without *damage of *subjects**, *not *trampled-*be *crops, and *by-*tears of *subjects *of-*princes *pleasures *fed*: — but *if any *detriment to-*anyone even from *unwilling *made *shall-*be, — *it by-*just *compensation *repaired-*be*: which *most-*religiously *prince and *Elector of-*Saxony *Frederick III* to-*have-*done *writes *Luther* on-*chapter 27 of *Genesis: *thus he-*hunted (says-*he), — that to-*no-*one he-*was-*hurtful, but to-*many *profitable, and-*whenever *even *little *damage *someone-*inflicted, — *paid *double. *If-*even *rustic *some *measures of *grain *strewed-*out, that-*was, — which *wild-*beasts *fed-*upon: — *that *worthy *is of *good and *praiseworthy *prince to-*believe*.
+
+**These *rules *ought *moderate *huntings of *princes**.
+
+**As-*to *penalties on *violators of *forests, or on-*those who *beasts *contrary-*to *prince *hunt*, — of *these *certain what *jurisconsults *determine.
+
+**In *general *we-*say**: **(1) *not-*to-*lack *species of *theft, if *anyone *those which from *reasons *above *praised *belong to *prince, *contrary-*to *prince, *to-*wild-*beasts *seizes: — *therefore *grave *penalty to-*inflict *not-*is-*able. **(2) *to-*be-*seen whether *this *fact *is from *ignorance or from *contempt of *magistrate, — whether *once and *again, or from *purpose, or *by-*chance: — for these *and *similar *circumstances *lessen or *increase *deed. **(3) *for-*pious *princes *more-*praiseworthy and to-*consciences *safer *is, *penalty *that *not-*to-*make *capital, but *even if-*most *civil *laws *it *such *to-*be *order, *for *equity-*sake however *it to-*mitigate and into *mulct *pecuniary, or of *prison to-*change *fitting-*is*: for-*of-*man to *image of *God *made *life *much *more-*excellent-*is, than *thousand *stags or *hares. — *More on *hunting *see at *Dominicus Soto* (lib. 4 *de iust.* q. 6 art. 3), *Azorius* (part 3 moral. lib. 5 cap. 26), *Gerhard* (L.C. tom. 6 cap. 3 seqq.), *Loricchius* (in *thesauro Theol. novo* voice *fera*).
+
+### Casus XVII. Whether the magistrate may with good conscience tolerate brothels in the republic
+
+*Reply.* *Brothels *are *places *public, where *harlots and *prostitutes with-*body-*their-*own *gain *make*. So-*called from *harlots, who *among *Latins *were-*called *lupae* (she-*wolves), as-*at *Livy* (*Livy* dec. 1 lib. 1) *Larentia* by-*common *body-*prostituting *she-*wolf *among *shepherds *called-*is, — and *at *Plautus* (*Epidicus* 3.4.7) *wolf* *contrasted-*is to *virgin*: *diverse *are-*morals, — I-*say, — of *virgin from *she-*wolf*. — *Called *also *Romans *brothel *summenium*, as-*if *sub-*wall (sub-*moenia); *therefore *also *summeniana-*women at *Martial*. — *Among *Greeks *these *places *various *names *bore*, — *casaria*, *casalia*, *casauria*, *casoria*, — for *harlots-*themselves *were-*called *casoreides*.
+
+**Such *impure *places *tolerated-*were *among *gentiles*, who either *sin-*not-*counted-*it in *youth, or *public *this-*flagitious *profession as *penalty-*place *had; — **among *Christians however *such *not-*even *heard *ought-*to-*be**, — according-to *admonition of *Apostle: *fornication however and *all *uncleanness or *avarice *let-*not-*be-*named among *you, as *fitting-*is among *saints* (Eph 5:3). — **Well-*therefore *does *pious *magistrate, that neither *prostitutes and *she-*wolves *these, nor *brothels or *inns-*their-*own in *republic *tolerates*.
+
+**Arguments**: (1) *what *manifestly *are *contrary-*to *law of *God, *not *to-*be-*fostered, *not to-*be-*promoted *ought: — but *fornications and *adulteries *contrary *to *law of *God, *undoubted *truth-*is: — *hence *not to-*be-*tolerated impiety-*is, that *those, who *this *do, — *dwellings *conceded-*are, in *which *such *things *unpunished *they-*perpetrate. (2) *Brothels for *certain *money (which *vectigal *bordello *called-*is) *let-*out-*are, which by *prostitutes *paid-*is to *magistrate, and to *fisc *common *carried-*is. — But *God in *law *of-*old *forbade*: *offer-*not the-*hire of *prostitute in *house of *Lord thy *God* (Deut 23:18); — and *civil *laws *sanction, that if *anyone *dishonest *gains *shall-*have, *them to-*restore *he-*be-*compelled. (3) *Civil *laws *infamous *pronounce *woman, who *herself *prostitutes*: — similarly *Iulianus *Emperor *wills *prostitutes *utterly to-*be *banished from *cities. (4) *Every *fuel of *lusts from *sight of *Christians *far to-*be-*removed*: — but through *brothels *certainly *lust *inflamed-*is, and-*many to *this *sin *enticed-*are, who of *it *else *not-*even *would-*think. *Who indeed *can *foster *coals in *bosom-*his-*own, — that not *burn*? (Prov 6:27) *Chrysostom on Ambrose: *who *may-*deem, that *prostitutes fostered-*can *be in *city, if *young-*men *fornicate-*not? (5) *Holy *fathers-*also *abhorred *brothels*. *Tertullian* *them before *God *execrable *calls, *farms of *foul *called-*they, — as *shameful *places (*De civitate Dei* 14.18; 18.28).
+
+**Which *since-*so-*are, *marvelous-*is *bold-*wickedness of *Roman *Pontiff and *whole *clergy *papistic**, who *public *brothels in *most-*ample *cities, — even in *very *city *Rome *tolerate*, — which *houses *often not-*far from *sacraries *have, — with-*permitted *diction of *bishops and *prelates *Papal *watching-*over, — so-*far-*is *of-*profit *hunger, and *good *of-*gain *smell from *thing *any*.
+
+**Reasons of-*Jesuits *defending *brothels**: (1) *between *two *evils *lesser to-*be-*chosen: *tolerable *thus-*seemed *brothel, lest *young-*men *even-*more *heinous *evils *dared. — *Reply*: *not-*is *doing *evil, that *may-*come *good* (Rom 3:8), which of *every *evil of-*guilt *true-*is. Nor-*ever *let-*us-*think, as *Augustine* (*De mendacio* c. 9): *by *minor-*ones *committing *major-*ones *may-*be-*avoided; *rather-*abandon *limits and *all *terms-*removed, *into *infinite *space *all *will-*enter, and *reign*. *There-*are *modes, by-*which *insolent-*men *violence from *honest *matrons *repelled-*can-*be*: not *tolerated-*are *idle *bellies in *republic, *prison and *hunger *coerce their *wantonness, *adultery according-to *laws *punished-*be, and *not-*will-*be, *whence *honest *matrons *for-*themselves from-*those *fear-*need. (2) *That *God *himself, — *lest-*graver *evils *permit, — *letter of *repudium *permitted to-*Jews. — *Reply*: *God of *deed-*his-*own *without *doubt *just *reasons *had, which to *investigate-*ours *not-*is. *Not *therefore-*must-*be-*seen, what *God *has-*done, but *what *he *us to-*do *has-*commanded: for-*us, — *not himself, — *law *he-*gave. (3) *They-*produce *some laws *civil, by-*which *brothels *conceded-*are. — *Reply*: *Even-*if *thousand *laws *were, *of-*greater-*ought to-*us to-*be *authority *word of *God*. *Jerome* writes on *Fabiolam*: *other-*is-*what *Papinian, *other-*is-*what *Paul *writes. (4) *If *tolerated-*are *harlots, *an *occasion-*of-*conversion-*of-*them *would-*be*. *Christ *says to *Pharisees*: *harlots and *publicans *precede *you in *kingdom of *God* (Matt 21:31). — *Reply*: *But *badly *hence *inferred: *therefore *tolerated-*are *brothels. — *Tolerated *indeed *harlots*, but *not *that in *sumptuous *dwellings *live, *not *shining *pomp in *public *go-*forth, *much *less-*that in *sins-*their-*own *continue: — *such-*ones *no *place *have, *nor *precede *others in *kingdom of *God: — *but *cease-*let-*them *to-*sin, *seriously *repent*, — with-*all *body-*ornament *cast-*off, in *garb of *penitents in *public *go-*forth, to *sacred *assemblies *let-*join-*themselves, *word *divine *studiously *hear, — *thus perhaps in *way *recalled-*may-*be. (5) *In-*time of *Solomon *two harlots *were in *one *house (1 Kgs 3:16). — *Reply*: *From-*that *not-*can-*be-*collected *that *Solomon *tolerated *brothels, *nor *proved *that *house *was *brothel: *not *here-*asked, *what *done, but *what to-*have-*been-*done *ought. *God *of-*old *had-*forbidden *harlots to-*be in *his *people (Deut). — *If in *time of *Solomon *this *discipline *collapsed, — *not therefore *permitted-*it *God to-*be-*done. (6) *Augustine* (*De ordine* 2.4): *take *harlots from *human *affairs, — *thou-*wilt-*disturb *all *lusts: *put-*them in *place of *matrons, *taint and *dishonor *thou-*wilt-*mark*. — *Reply*: *Augustine there *not *orders *harlots together with *brothels in *city to-*place, but *where-*already *they-*are, *them also *order *pro *its *modulo to-*take *teaches, — as-*also *those things which *are *noxious or *deformed, to *order *pertain in *body or *republic *some. — *Moreover *also *forbids, *that *where *are, *in *place of *matrons *substituted-*they-*be, but in *place *most-*vile *left-*they-*be, — which-*all *us *by-*no-*means *strike, who against *brothels *fight, — which *Augustine *also *disapproves.
+
+**Magistrate therefore *fearing *God, — by-*whatsoever *modes and *means *he-*can, *these *useless *earth-*cattle together with *filths-*their-*own from *bounds *of-*his-*own *republic *will-*ban**. *Absent indeed from *piety of *true *Christians, *either *species of *evil to-*have, or in-*any-*way *occasion of *evil to-*present: *let-*fear *rather *all *woe-*that of *Savior, — *who *against *all *scandals-*giving with-*great *severity *thundered* (Matt 18:6).
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+## Chapter XIII. On Cases of Conscience concerning Marriage, and the Duties of Spouses
+
+*The third hierarchy embraces the economic state, which extends to spouses, to parents and children, to masters and servants, to brothers and sisters, and finally to all who in common life mutually render their services.*
+
+Many things arise here whereby the conscience can be wounded, if a just moderation be not brought into acting. Wherefore we shall not do amiss to sift through what falls out in all these matters, and to fortify consciences.
+
+We begin this chapter with **marriage**, which is the foundation of the family, as the family is the foundation of the republic and of colleges and any polity, — *these* being nothing else than **lawful societies of three or more persons of the same condition**, as Xenophon defines them (*de repub.* c. 3).
+
+What difficulties therefore occur concerning marriage and spouses, we shall in a few words, the Lord assisting, unfold in this chapter.
+
+### Casus I. Whether those who live in celibacy have a purer conscience than those who live in marriage
+
+*Reply.* The affirmative is held by all who call **marriage a work of the flesh** and reckon it the same to live in marriage as to live in the flesh, — as Pope *Siricius* once willed (*dist.* 82 cap. *proposuisti*), drawing to marriage the words of *Rom. 8: those who are in the flesh cannot please God*; — or who make virginity meritorious, and that a hundredfold more than matrimony, as Jerome learnedly taught.
+
+They abuse besides the words of Paul: *it is good for a man not to touch a woman* (1 Cor 7:1); *if thou hast taken a wife, thou hast not sinned, and if a virgin has married, she has not sinned, but they shall have tribulation of the flesh* (v. 28); *he who joins his virgin in marriage does well, and he who does not join her does better* (v. 38).
+
+Hence in the Papacy the priests reckon celibacy purer than matrimony, and by their vow of celibacy make it a work of perfection. In the **Council of Trent** they struck with anathema those who deny it to be **better and more blessed** to remain in virginity or celibacy than to be joined in marriage (session 24, can. 10).
+
+Some of the Fathers too were less friendly to marriage and highly preferred celibacy. *Tertullian* calls conjugal intercourse a **kind of stain** and hardly distinguishes conjugal intercourse from adultery: *he who marries in order to lust commits adultery against the commandment of God*. *Jerome* argued thus: *if it be good not to touch a woman, then it will be evil to touch her, for nothing is contrary to good but evil.* And: *marriages fill the earth, virginity fills heaven*.
+
+But that we may set out the mind of Scripture on this matter, we must first distinguish between **virginity and celibacy**, which two are commonly confused in the Papacy. Not virginity but *celibacy* is opposed to matrimony: for virginity embraces both chastity and cleanness, and this can be preserved even in marriage; for it does not consist in abstinence from a woman only, but either in abstinence, or in the *moderate and lawful use of one's wife*.
+
+Whether therefore celibacy is compared with marriage in respect of purity, we cannot in the abstract say which is more excellent. **Both are things indifferent**: if in celibacy chastity can be preserved by those to whom it is given, so also in marriage; and neither is the gift of continence or virginity so to be commended as to detract from marriage, which is a singular ordinance of God: — and marriage was instituted not only for procreation but also as a **remedy for lust** (1 Cor 7:2, 5).
+
+Wherefore we say that those who **live chastely in marriage** have a purer conscience than those who cherish outside it impure inclinations. Those to whom the gift of continence is given may live chastely, but let them not on this account boast themselves in any way above others: for all are gifts of God, both celibacy and marriage, which only in time of temptation are tested (as Augustine teaches *De virginitate* c. 34).
+
+Celibacy commends no man before God, nor does marriage: but a chaste and pure mind, which whoever has, is equally pleasing to God whether he live in marriage or in celibacy: no state is meritorious; for holy men are found both among spouses and among blessed virgins.
+
+Paul reckons both without necessity: *if thou hast taken a wife, thou hast not sinned; if a virgin has married, she has not sinned* (1 Cor 7:28). — Conversely: *if a man keep his virgin, he does well* (v. 37); — but if in virginity or celibacy the flame of lust be kindled, he judges it *better to marry than to burn* (v. 9).
+
+Marriage therefore, on account of its state, is not to be reckoned unworthy: nor is it Paul-like to live in the flesh, but to live in marriage: rather, to be held by carnal desires and to do the works of the flesh which God neither willed, nor instituted, nor approved, — that cannot be said of marriage, which is God's ordinance.
+
+Salvation is not to be received from either celibacy or marriage, but only from the labors and passions of Christ: many ways is he blasphemous and injurious who chooses either celibacy or marriage that he may merit something before God: for the end of these ways of life is unknown to universal Scripture.
+
+**How the passages of Paul are to be understood**: he says, *it is good for a man not to touch a woman* — not as if it were evil, or a wife a thing not to be taken — but that, at that time, on account of *present necessity* (v. 26), it was not expedient. — The word καλόν (kalon) does not always mean *honorable*: elsewhere marriage is called **καλόν** — that is, *useful, expedient* (v. 35). — And Paul adds: *for fornication-sake let each one have his own wife, and each her own husband* (v. 2). In the same way those who marry, he writes, *shall have tribulation*, and let them *marry as though they married not* — namely, on account of *present necessity*, on account of *fear of persecutions and dangers*, on account of *briefness of time*, to which then the Church was exposed.
+
+Preferred therefore by Paul is celibacy to marriage, — not because it was meritorious (as some have exposited), but for certain useful ends: (1) that celibates in time of persecution are freer to bear exiles (v. 26); (2) that conjugal delights in persecutions are very brief and transitory (v. 29); (3) that celibates can more freely give themselves to divine matters than spouses, who are implicated in domestic matters (vv. 32-33).
+
+**As to the Fathers**: it cannot be denied that some were less friendly to marriage, and by abusing the Apostolic text preferred celibacy to marriage for the sake of a more excellent merit: but not all did this, nor is their judgment to be preferred to Scripture. — Some indeed, contrary, who preferred virginity to marriage, gravely reproved the pride of virgins exalting themselves above spouses; which especially Augustine did (*De virginitate* c. 26): *it is faith of Christ, and the kingdom of heaven, that is given commonly and equally to all, — both to spouses and to virgins, — who through faith are justified freely on account of redemption*.
+
+### Casus II. Whether ministers of the Word can with good conscience live in matrimony
+
+*Reply.* The affirmative is beyond controversy for us Evangelicals, and universally, Paul's admonition stands: *this is a saying worthy of all acceptation, if any desire the office of a bishop, he desires a good work. It behooves therefore that a bishop be blameless, the husband of one wife* (1 Tim 3:1–2).
+
+Against this the Papists war, contending priestly celibacy to be of divine institution, and they thunder anathema at the Council of Trent (sess. 24, can. 9) against those who deny that celibacy is more excellent than matrimony, and against those who say that clergy in holy orders, having contracted matrimony, are bound to complete it.
+
+Yet even the Papists themselves are compelled to confess this to be by human, not divine right: *Bellarmine* (*De clericis* lib. 1 cap. 18) admits that clerical celibacy stands merely on ecclesiastical laws. In the ancient Church, however, priests were married, and even bishops. *Peter* and other Apostles had wives (1 Cor 9:5); *Aquila* and *Prisca* were together in the ministry.
+
+In the East the ancient discipline of allowing clergy already married before ordination to keep their wives is retained: only widowers, not those already married a second time, are admitted. Also in the Roman Church for many centuries priests had wives.
+
+The forced celibacy of priests, first enjoined generally by Gregory VII (*Hildebrand*, 1074), is an ordinance not only against divine and Apostolic authority but against nature itself, whence has flowed the greatest impurity and dishonesty of the clergy. Their own histories complain of it. — *Better therefore to marry than to burn*.
+
+If a minister has once received the gift of continence with certainty of it, he may profess celibacy; but no state is set above his conscience to bind it. **Whoever cannot contain, let him marry** (1 Cor 7:9). The ministry of the Word requires him who is **blameless, the husband of one wife**, ruling his own house well.
+
+Wherefore ministers of the Word contract marriage with good conscience, since God himself has ordained the state, and their office is not the sacerdotal ministry of Levites, from which no true continuity of clerical celibacy can be shown.
+
+### Casus III. Whether marriage can be repeated after the death of a spouse, chiefly by a minister of the Church, whom Paul wills to be *the husband of one wife* (1 Tim 3:2)
+
+*Reply.* Repeated marriages are those which, after the death of the first spouse, or after legitimate separation, are contracted with another.
+
+Such marriages the *Montanists* of old promiscuously condemned in all — although their patriarch *Montanus* himself had two wives simultaneously (*Priscillam* and *Maximillam*, cf. Nicephorus lib. 4 c. 22).
+
+Others did not indeed condemn them, but *dissuaded* them, as if they had something of incontinence and impurity, — as Epiphanius (*Haer.* 42), Augustine (*De bono viduitatis* c. 4).
+
+Still others prohibited them at least to priests, as *Ambrose* (*De officiis* lib. 1 c. 50), *Augustine* (*De bono conjugali* c. 21), *Jerome* (*ad Gerontiam*), and today from the Papists *Bellarmine* (*De clericis* lib. 1 c. 21) and *Benedictus Iustinianus* on 1 Tim 3, who writes: *second marriages fight in some way against the sanctity of priesthood, since chastity partly is indication of a mind less than pure*.
+
+But **we teach**: (1) in general, repeated marriages after the death of the first spouse are conceded to anyone; (2) in particular, they are lawful also to ministers of the Church.
+
+**As to the first**, the Apostle Paul expressly teaches concerning younger widows: *I will therefore that the younger widows marry, bear children, guide the house* (1 Tim 5:14), which words not only urge but command second marriages upon widows, on account of the gift of continence being given to few.
+
+Further, Paul teaches that the conjugal bond lasts only until the death of the other spouse; through it that bond is broken, and the surviving spouse is freed from the former, so that if after the death of the spouse she marries with another, she is not an adulteress (Rom 7:2–3).
+
+Afterward came the consent even of those who elsewhere were less friendly to second marriages. So writes *Jerome* on Amos: *if it be necessary, we open even third marriages to those who cannot contain, so that they may be drawn from Satan*. *Ambrose* (*De viduis* c. 4), *Augustine* (*De fide ad Petrum* c. 3 sub fin.).
+
+**As to the second**, that these marriages are lawful for ministers of the Church too after the death of the first spouse: Paul says he wills a bishop to be *the husband of one wife* — not as if after death of the prior spouse a minister cannot take another, but he forbids polygamy, when several wives are held at once. — For among Christians there lived those who from inveterate custom, sending away the prior wife, brought in another; these Paul tolerated but, once converted to Christianity, did not admit to the ministry. In this respect he willed a bishop to be *the husband of one wife*: second nuptials, however, after death of the first spouse, he did not forbid. So *Theodoret* on the passage, and *Chrysostom* (*hom.* 11 *ad Tim.*), *Ambrose* (*ep. 82 ad Oceanum*).
+
+*Abraham* was a most holy patriarch and yet he took another wife (Keturah) after Sarah's death, with his patriarchate inviolate. — *Epiphanius* (haer. 48): *even priests may marry a second time after the death of the first wife*.
+
+**Second marriages are not an appearance of impurity**: for prostitution is always concurrent with impurity: — Paul writes that a woman after the husband's death is not an adulteress if she marries another (1 Rom 7:3); the same reason works for husbands: therefore in a second marriage there cannot be a species of impurity, unless one wishes to say that marriage with the first wife is an ordinance of God, but the second not.
+
+### Casus IV. Whether a woman whose husband is impotent or wasting with a long illness such that he cannot render her the conjugal debt may pass to another spouse
+
+*Reply.* Impotence and long-lasting illness of a spouse do hinder the end of marriage: therefore those who know themselves impotent, or labor under such disease as impedes the end of marriage, should rather abstain from marriage than deceive fit and apt persons and involve them in an intolerable yoke. — But if between such persons an already-consummated marriage exists which turns out to have been contracted by natural impotence *from the beginning*, it can be separated: which shows that between such persons no marriage was, because such spouses could not become **one flesh** (which is required by God's ordinance).
+
+Therefore *Luther* writes (*De vita conjug.*, German tom. 5 Ien.), *the truly impotent — thus manifestly so — may be separated from the spouse*.
+
+However, true impotence must be evidenced by both spouses; and, if need be, by oath, lest indeed from disgust with the other spouse or from mutual pact it be pretended: therefore of old in the *Extravag. Bonif.* 25 quaest. 1 c. *dixerunt*, was decreed that each spouse should say by oath together with seven kinsmen, that never through mixture of flesh had they become one flesh; then the woman may contract second marriage: but the man, who is of frigid nature, remains without hope of a spouse.
+
+But if impotence supervene after nuptials, whether from *maleficium* or from any other cause, it does not at once separate spouses, since with progress of time it can be corrected: therefore in this case, on account of impotence, for the most part a biennium or triennium is expected, or the judgment of physicians is followed: meanwhile the parties must not mingle with another, but ask God for the gift of continence and pray for restoration of the impotent spouse.
+
+If however anyone contract with an impotent whose impotence was known to the party, though the man cannot cohabit with the woman conjugally, still they should not be separated: but the man have the woman as sister, and the woman the man as brother, as is prescribed in the *jure canonico de frigidis*.
+
+*Luther* was later regretful of a certain advice he had once given — that a woman whose husband was impotent might separate: he laid it aside for the greater temptations that might follow, though he still allowed some private counsels. — Some quote *Gregory III* (Pope, 8th cent.) as allowing a man whose wife labored under natural infirmity to take another: which sanction *Gratian* insinuates in his canonical decrees, but it is directly against evangelical and apostolic doctrine.
+
+**The same reasoning holds for diseases**: if a disease natural is an impediment to matrimony from beginning, whoever was subject to it before nuptials gravely sins in deceiving the innocent spouse, who therefore may petition separation, especially if it be incurable and cohabitation would end life. — But if before nuptials one spouse knew of the other's infirmity, let him bear patiently his own condition, since he did not shun it when he could. To the willing no injury is done. — But if in constant marriage some grave and long-lasting disease grip a spouse, there is no place for separation, but it must be patiently borne. For **common are the calamities of marriage**, as *Isidore* speaks: *if the man does not communicate the wife's calamity, neither is the wife participant of the man's*.
+
+Wrongly then *Gregory III* permitted to a husband whose wife labored in natural infirmity to contract with another; this sanction *Gratian* has included, but it is contrary to evangelical and apostolic doctrine — hence today his ruling is no longer read.
+
+### Casus V. Whether after a legitimate divorce lawfully carried out, the innocent party may pass to second marriages with good conscience
+
+*Reply.* The legitimate cause of divorce, per Christ's own testimony, is fornication (Matt 19:9). Others add cruelty, suspicion of poisoning, infidelity, and things of this kind; on which see Beza *De divortiis*.
+
+When there has been a legitimate divorce, the Papists deny the innocent party second marriages: they leave the innocent party in perpetual flames of temptations. So the Canonists (5 q. 3 cap. *quod bonum*), *Bellarmine* (*De matrim.* c. 16), *Gregory de Valentia* (tom. 4, disp. 10 q. 1). Under adultery, however, even the Canonists concede second marriages to the innocent party, if the adultery is incestuous.
+
+*Augustine* also sometimes doubts, as in *De bono coniugali* c. 7 and elsewhere.
+
+**Our reply**: second marriages after legitimate divorce may be granted to the innocent party. — Reason: the marriage bond has been dissolved by adultery no less than by death — for adultery is a kind of death of the marriage; since spouses ought to be *one flesh* only two, and through adultery this natural union is broken and separation follows. — Adulterers and adulteresses become **civilly dead** to their spouse; and just as physical death leaves the surviving spouse free for second marriage, so adultery frees the innocent party from the marriage bond so that they can take another spouse.
+
+Some object Paul (1 Cor 7): *to those already joined I command, not I but the Lord, that a wife not depart from her husband; but if she depart, let her remain unmarried or be reconciled to her husband*. — But Paul there does not treat of legitimate divorce cases: he treats of those where without command of the Lord dismissal of the spouse is not lawful — as if because of simulations or slight quarrels spouses at once dismiss one another. There Paul does not acknowledge a *true* divorce and permits no other marriage. **True divorce on account of adultery** Christ acknowledges (Matt 19:9).
+
+Objections about *indissoluble bond* (from Matt 19 or 1 Cor 7:39 or the *character indelebilis* in the sacrament of matrimony) are refuted in the *De divortio* by Beza.
+
+**Optatum** it would be if both parties did their office and did not proceed to adultery: but when the crime supervenes, conscience must be consoled — that the innocent party, having been legitimately freed, does not sin if he contract another marriage.
+
+Objections refuted:
+- The formula of divorce in the Old Testament gave power to the woman dismissed to marry anyone (Deut 24:2; Lev 22:7).
+- Christ's saying (Matt 5:32) refers to the one who *dismisses without cause of fornication*.
+
+Hence our churches concede second marriages to the innocent party after separation, as *Origen* did (in Matt 19), *Jerome* (ad Amandum), *Augustine* (*an ei qui talem uxorem adulteram duxerit* — some Fathers, however, disagreed).
+
+### Casus VI. Whether between spouses, after committed adultery, reconciliation can take place
+
+*Reply.* Some deny it, arguing:
+1. Paul wills a woman offended to be reconciled to her husband, therefore vice versa also to be demanded of the husband.
+2. Christ pardoned the adulteress (John 8), therefore the husband ought to pardon.
+3. God the Church spiritually receives back into grace even when it commits adultery (Jer 3).
+4. David took back Michal his wife, though she had married another, since she had contracted the new nuptials from paternal fear.
+5. They appeal to *Basil's* authority (*ad Amphiloch.* can. 6 and 24), that adulterous husbands should be kept by wives, — that a woman who marries another after being sent away is an adulteress, but the man who cohabits after being dismissed by the wife is not so held.
+
+Others hold that a man should not receive back an adulterous wife on any account, — appealing to *Solomon* (Prov 6:32): *he who commits adultery is void of understanding*; and *Prov. 18:22*; and *Ecclus. 25*.
+
+*Augustine* wants the husband to receive back his adulterous wife if she repents — but this seems too hard. Beza (*De repudiis et divortiis* p. 177) prefers the latter opinion.
+
+**Our answer**: if with an adulterer she has been together, according to God's law there is no more one flesh, since already through adultery she has been joined to another. Just as through legitimate marriage natural union is consummated, so through adultery the same union is naturally dissolved, since only two, not three, can be one flesh.
+
+We do not deny that in such case diligent attempt at reconciliation should be tried, — whether the innocent party especially in weakness of nature is willing to remit and receive the returning delinquent. But if he seeks divorce, let it be granted; since the adulterer or adulteress is no more one flesh with his own spouse, being made one flesh with another.
+
+### Casus VII. Whether desertion is equivalent to adultery, so that legitimate divorce may take place
+
+*Reply.* Desertion is either **voluntary**, when done with consent of the other spouse (as if with wife's consent a man goes abroad to soldier or to business, intending to return); this is not properly desertion. — Or **malicious**, when someone leaves the spouse by fraud, force, or fear, without intent of returning. Such deserters are:
+
+1. Adulterers who go off with adulteresses, wandering, not returning.
+2. *Landsknechte* who left their spouses to soldier and joined with other women.
+3. Rash pilgrims who without just cause go to foreign lands, leaving wife and children at home without maritime affection; among these are also those held captive far off.
+4. Those who, with all goods sold off, leave the spouse.
+5. Those who cruelly rage against wives and by no means allow themselves to be corrected are equivalent to malicious deserters: — for it makes no difference whether you leave the spouse yourself, or drive her far off. Both ways matrimonial affection is extinguished.
+
+Such deserted party can petition dissolution from the ordinary judge. — But not hastily: laws prescribe certain years to be awaited, if the deserter be abroad but not yet certainly dead. Sometimes a biennium, triennium, quadrennium — even a decennium in doubtful cases.
+
+By judicial edict the deserter is summoned publicly, and if he does not appear, the wife is judicially absolved and free to marry another. If afterwards he returns without contumacy, arguing lawful cause of long absence, he may petition inquiry: if within just cause, worthy of pardon, having lived honestly meanwhile, — inquire whether the wife is still faithful. If maximally the husband still lives, and the woman ignorant of this, since he was summoned and did not appear, an adulterer he is held, and never afterward permitted to cohabit with his wife.
+
+### Casus VIII. What is to be done if, after an initial marriage was interrupted by absence, a former husband returns and finds the wife has legitimately taken another
+
+*Reply.* Distinguish: (1) whether the matrimony was **only begun** (per *sponsalia*) or **consummated**; (2) whether the wife married another *with* or *without* magistrate's authority.
+
+If the marriage was only begun by *sponsalia*, and the prior husband supervenes from foreign parts, the wife should be reconciled with the deserter husband and return to him: her novel espousal is dissolved. — For not yet is the bond of the prior marriage broken, since the deserter has returned and asks pardon; perhaps he had just causes of long absence.
+
+But if the wife is in **consummated** matrimony with another man, we must see for what cause the prior husband stayed so long, even if in exile. If, without malice, on account of business or public affairs he was absent, and could not send notice — the wife also, without magistrate's authority and consent, having contracted with another — theologians and jurists agree the wife is bound to return to the first husband, even if children were begotten by the second. This is Luther's sentence (*De causis matrim.* tom. 5, Ien. lat. fol. 130), where he counsels that a woman who has repudiated the prior husband should be brought back to cohabit with him.
+
+If however by malice and probable fraud he departed and did not legitimately appear when cited, and the wife was judicially absolved and contracted another marriage — and after this the returning deserter is heard: **he is not heard**, but according to his deserts is punished, and, if occasion arise, sent into exile — since he abandoned the spouse.
+
+### Casus IX. Whether marriage in any prohibited degree of consanguinity or affinity is a legitimate marriage, or must be dissolved
+
+*Reply.* What the prohibited degrees are, and how they are distinguished, is taught elsewhere: here we advise consciences if any imprudently and unknowingly have contracted matrimony in some prohibited degree.
+
+Distinguish between **degrees prohibited by divine right** and **positive right**. The divinely prohibited are read in Lev 18 and 20, and are usually included in these verses: *Nate, soror, neptis, matertera, filia, uxor; / Fratris et uxoris — natæ, patruique parens / atque soror patris coniungi lege vetantur*.
+
+When matrimony is contracted in some degree prohibited by divine right — for example, if someone marries his brother's wife or his dead brother's wife — that matrimony is **incestuous**, and not so much legitimate marriage as an impure *contubernium* is to be called. — Those contracting, even unwittingly, are gravely to be punished by the magistrate; because against divine right nothing may human dispensation attempt, since the magistrate in higher matters cannot go beyond it. *Nothing more absurd than that human power should presume more than divine has willed*.
+
+But when matrimony was contracted in a degree prohibited by human or positive law, then there is no need to hasten dissolution of these marriages. In human laws dispensation can be obtained from those who gave the laws: since they see spouses acknowledging the fault, praying for pardon; and the magistrate can indulge such marriages, especially in degrees prohibited less than by divine law and more remote from divine prohibition.
+
+Whoever therefore applies his mind to marriage, let him first look at all things beforehand, lest fall into incestuous marriage or contravene laws. — Prudent and wise men avoid trouble and ignominy of soul.
+
+### Casus X. Whether the Pope has power to dispense in the degrees prohibited by divine law
+
+*Reply.* Positively no, though the Papists teach and practice otherwise (as at Trent, sess. 24, can. 3). They boast of dispensing power in every degree, — building on the assumption either that the divine prohibitions of the OT are abrogated in the NT, or that the Pope is wiser than God: no less blasphemous positions.
+
+But **against divine law no human dispensation avails**: therefore whoever marries in a prohibited-by-divine-law degree incurs incest. Only in degrees prohibited by human (positive) or ecclesiastical statute may magistrates or superiors dispense. And so it stands.
+
+**Distinction**: he who marries in a degree divinely prohibited **commits incest**; he who does so in a merely positively prohibited degree contracts illegitimate marriage; only for the latter can dispensation be sought, — for the former, matrimony must be dissolved simply, lest conscience be left in perpetual impurities.
+
+### Casus XI. What are the mutual duties of pious spouses whereby they may keep good conscience
+
+*Reply.* They are of various kinds, — not inconveniently divisible in three classes: **in prayer**, **in labor**, **in bed** (in thoro, in labore, in oratione).
+
+- **In prayer (oratione)** they mutually owe prayers, as *Isaac* prayed for *Rebecca* his wife when she was barren (Gen 25:21); exhortations to piety and instruction in true religion (Tob 3:1).
+- **In labor (labore)** they mutually owe works: in care of the family, in education of children, in true concord, in gentleness and mutual bearing of infirmities.
+- **In bed (thoro)** they mutually owe each other the **conjugal debt** according to the Apostle's precept: *let the husband render to his wife due benevolence, and likewise also the wife to her husband* (1 Cor 7:3). In which just moderation must be applied: let no one abuse his wife as a harlot, but be joined with her so that in marriage chastity can be preserved. Paul exhorts (1 Thess 4:4–5): *let each know how to possess his own vessel in sanctification and honor, not in the passion of lust, as the Gentiles who know not God*. — Times of prayer and fasting are set (1 Cor 7:5), and menstrual times legally forbidden (Lev 18:19; 20:18).
+
+In all these pious spouses will guard themselves, considering not merely what is lawful but what is honest, in every matter.
+
+In respect of these mutual duties which spouses owe each other, the wife is called *adjumentum primum viri* (Gen 2:18) — namely first help, — in prayers, in generation and education of offspring, in family government, in ruling the house, in conjugal love: and in all virtues by which pious spouses commend themselves, and may present themselves spotless to Christ and his Church in spiritual matrimony.
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+## Chapter XIV. On Cases of Conscience concerning the Duties of Parents and Children
+
+*From marriage flow parents, and from parents flow children. God gives conjugal fruits when he wills to make parents. Between parents and children daily is the conversation, in which many things fall out, which, if not rightly conducted, wound consciences. Therefore now, God willing, we treat of what pertains to the offices of parents and children.*
+
+### Casus I. What is the duty of parents concerning the sustenance of children
+
+*Reply.* Three things parents owe their children: **necessary sustenance**, **honest institution** in true religion and morals, and **provision for their state and calling** — that in some honest kind, according to condition, the son be placed.
+
+**Sustenance** parents owe their children by natural right: there is in the father natural propensity to procure necessary things without which children cannot live: whence even wild beasts provide for their whelps. Hence Christ says: *what man of you, if his son shall ask him bread, will he give him a stone?* (Matt 7:9). — Parents ought to *thesaurize for children* (2 Cor 12:14). — He that does not provide for his own, and especially for those of his house, has denied the faith and is worse than an infidel (1 Tim 5:8; cf. Ecclus 20:12).
+
+Sustenance is owed:
+1. To **infants**, until they grow up.
+2. To **adults** according to strength of their faculties, until they can support themselves and be released; and if they receive from father property in aid of studies of letters or arms, they are not bound to restore it (unless capable).
+3. To **the unfit** — those weak of mind, sick, mutilated, mad — who in this respect scarcely differ from infants.
+4. Not to **the lazy**, who through parents' neglect have learned nothing whereby they might sustain themselves. It is a great injury to parents if idle bellies constrain them to feed those who could work.
+
+**Sustenance** understood means: (1) food and drink; (2) clothing and bedding; (3) housing; (4) medicines; (5) expenses for study of letters or ascent to degrees; (6) military expenses if they cannot be had otherwise; (7) nuptial expenses. In all these, parents are bound by natural right except as follows.
+
+**Sustenance may be denied by parents** on these **fourteen** grounds (as in *auth. de appellat.*):
+1. If the child laid violent hand on parents.
+2. If he gravely and heavily wronged parents by contumely.
+3. If he accused parents of grave crime — unless the father is charged with a common or princely offense (treason).
+4. If he associated with sorcerers and practices magic with them.
+5. If he plotted parents' life by poison or any other art.
+6. If he had intercourse with his father's stepmother or concubine.
+7. If parents were denied by him in court concerning some large sum.
+8. If sustenance was denied to parents when the child was requested (as guardian) and refused.
+9. If a child prohibited a parent from making a will in favor of another child.
+10. If against parents' will he devotes himself to mimes or arts, unless he himself is of the same profession.
+11. If someone of parents wills to marry off daughter or granddaughter, and the child does not consent, instead choosing a shameful life.
+12. If either parent is furious and the child does not care for him.
+13. If the child does not redeem a captive father or mother.
+14. If children delight in non-Christian religion.
+
+For these causes it is licit to deny sustenance, if children can be otherwise sustained. But not permitted, if the children are in extreme necessity and cannot be sustained elsewhere.
+
+### Casus II. Whether a father must give sustenance to a spurious son, i.e. one born out of illegitimate intercourse
+
+*Reply.* Civil laws deny sustenance to *spurii* if they can be sustained by the mother, as in *Auth. Ex complexu, C. de suc. nupt.*. — But **theologians teach the father must give sustenance** even to *spurii*, as *Ambrose* says: *the father owes sustenance also to the spurious son*.
+
+Reason: it is natural equity. It would be twice sinning: once in begetting offspring in illicit embrace, then in leaving that offspring to hunger. Therefore even in consistories such a father is enjoined to provide sustenance to his *spurius*, until the *spurius* himself can support himself.
+
+### Casus III. Whether a mother is bound to nurse her own offspring
+
+*Reply.* If she can do so with just cause and rightly, yes. Just cause for delegating nursing to a wet-nurse: (1) *bodily inability* — as when the mother has ill health, small breasts, or a body that hardly can nourish; (2) *very poor circumstance* — the mother must labor for daily bread; (3) *high nobility* — where custom of matrons is that they entrust nursing to another. Add: (4) if the man contracts remarriage during her time — but the first two grounds are held most probable.
+
+We prefer that mothers, especially of middling fortune, nurse their own children, — for the Providence of God has furnished them with sufficient nourishment along with birth (as *Plutarch* teaches, *De liberis educandis*). Wise men judge that mothers who commit their children to nurses show less love — perhaps as if they had rejected them. — Character transferred with milk shapes morals: *what is drawn in with milk grows with age* (Favorinus in Gell. lib. 12 cap. 1). — Add the peril of malformation of manners if the nurse be luxurious or intemperate.
+
+Scripture furnishes examples: Sarah nursed her son (Gen 21:7); the mother of the Lord nursed hers (Luke 11:27); the daughter of Pharaoh sought a Hebrew nurse, and Moses' own mother served (Exod 2:7ff).
+
+More on sustenance see in *Azorius* (tom. 2 *institut. moral*), *Perkins*.
+
+### Casus IV. Whether children may with good conscience be entrusted to Jesuits or Calvinists to educate
+
+*Reply.* Jesuits and Calvinists here we join together, since one and the same spirit blows through them both. In their schools many think wisdom preeminently dwells; and on this account they commit their children to these masters — not, indeed, that they be *informed* in their religion, but merely (as they pretend) *instructed in tongues and arts*, which they claim flourish greatly there.
+
+But they are gravely deceived; and experience, the mistress of fools, at last teaches. When their sons among strangers imbibe strange opinions, when they use books tainted with foreign learning, when they read *libri Theologici veneno tincti* — where they can neither perceive nor rebuke error — parents, though acting from a good intention, cannot avoid injecting into their children's souls the poison of false doctrine.
+
+Second, it is the duty of all pious parents to shun with word and deed false doctrine: therefore not to abjure the *Papismum* or *Calvinismum* with words while entrusting the son in fact to be educated by them. What else is this but to profess oneself an Israelite yet immolate one's children to Moloch — as impious kings Achaz and Manasseh did (2 Kgs 16:3; 21)? Gravely did the prophet reproach the people for these things.
+
+Third, the diligence and success of Jesuits in educating youth is much preached. But not few examples in contrary can be adduced. And even if all should become learned, their erudition consists chiefly in *studia sanguinaria* not agreeable to Christ; and where their fountain and head is corrupt, in malice, in subtle craft, in fallacious deceptions, in stratagems against men of great name, in perjuries and other execrable arts they occupy themselves.
+
+Wherefore parents, if their children have not been formed in gentile errors and in perverse arts by the diligence of Jesuits or Calvinist masters, but *only* under the character of these masters through cohabitation are attracted — beware even so, since:
+- *Solomon* writes: *for training thy son, do not lay soul to his ways* (Prov 22:15).
+- Reference the *Deut* commandment that God has forbidden his people to make alliances with the *Canaanites, Gebuseans, Jebusites*, unfaithful and idolatrous nations — even more must Christians beware, that their children be not corrupted.
+
+Conclusion: parents who value their children's salvation will keep them from Jesuit and Calvinist schools, since it is greatly to be feared that a common life with these masters may corrupt them.
+
+### Casus V. How far paternal power extends over children
+
+*Reply.* Paternal power over children has limits which Scripture prescribes. God once granted parents power of life and death over rebellious sons in the people of Israel (Deut 21:18–21): *parents were permitted to accuse their disobedient sons before the judgment of the elders, by whom they were condemned and stoned*.
+
+But this does not favor those who claim absolute *ius vitae ac necis* over children. God did not commit to parents alone the private judgment of children by their own authority: but willed the complaint to be brought to public judges, who would proceed by legitimate process. The judges — not the parents personally — pronounced sentence.
+
+Among the Romans indeed *ipsi parentes* could crucify their own children by their own arbitrary judgment — which was often used cruelly, as when a father raged in wanton passion or was stirred by his wife's naggings.
+
+Conclusion: parents even in a Christian polity cannot injure their children's lives, cannot manifestly rob them, cannot embitter their state by imprecations. Fathers must remember they have no ius over the lives of their children beyond what the magistrate grants — and magistrates, aware that this fights with piety, wisely refuse to grant it.
+
+### Casus VI. How far the obedience of children toward parents extends
+
+*Reply.* The Apostle's precept: *children, obey your parents in all things, for this is well-pleasing unto the Lord* (Col 3:20). But this is to be received in universal sense, as explained in Eph 6:1: *obey your parents in the Lord* — i.e., in those things which are pleasing to the Lord. — For there are many in which children are not bound to obey parents:
+
+(1) *Sinful things* — things against God or against a superior; if parents order children to serve idols, embrace false religion, steal, commit murder, — children rightly refuse obedience, since one must obey God rather than parents. — *He who loves father and mother more than me is not worthy of me* (Matt 10:37). *If parents give commands contrary to God, hearken not, walk not in their statutes, keep not their judgments — I am the Lord your God, walk in my statutes and keep my judgments* (Ezek 20:18–19).
+
+(2) *Matters indifferent* (*adiaphora*), such as in choice of a wife, entering this or that state of life, taking up gifts and honors, and similar: many impediments here can arise, but children are not absolutely bound to obey father. — Yet in these things nothing arrogant should be undertaken; but sons should present themselves reverently and be conducted by solid reasons more than mere paternal willfulness.
+
+**In all other things which are not contrary to God, or against good morals**, children are bound to parents: where morose severity falls under curse, the transgressor is guilty of breaking the 4th commandment.
+
+### Casus VII. Whether even spurii (illegitimate children) must honor their parents
+
+*Reply.* We take *spurium* here in wide sense — anyone illegitimately born, whether from intercourse damned by law (incest, rape, adultery) or from any illicit intercourse. Such indeed are injured by parents: on their account they become disgraceful, incapable of holding public offices, etc. According to *lege Dei* (Deut 23:2): *a mamzer shall not enter the assembly of the Lord to the tenth generation*.
+
+Yet the fourth commandment *honor thy father and mother* applies also to spurious children: they too owe honor to those from whom they have their natural life. In the XII Tables it is written *matrem tuam ne pulses (do not strike thy mother)*. — Wherefore spurious children too must not be lacking in the honor owed to those from whom they have life, though these came together in unlawful embrace. And Sirach: *honor thy father with all thy soul, and forget not the sorrows of thy mother* (Sir 3:20).
+
+If the parents are shameful, still because they gave the natural being, all *honor debet exhiberi*.
+
+### Casus VIII. Whether the consent of parents is necessary for the marriage of children
+
+*Reply.* The Papists dispute variously. Some hold that an emancipated son may take a wife without paternal consent; that a daughter beyond 25 years may marry without father's consent. Others hold that the daughter must always await paternal permission.
+
+**Theologians insist on the fourth commandment**: parental consent is always necessary, — for the obedience which children owe parents does not cease so long as parents live: — and it behooves the spouses to be certain in their consciences that their marriage was entered according to God's will, — which is characteristic of those who have not scorned parental counsel.
+
+Therefore in the *Constitutio Electoralis Saxonica* c. 33, *Ehesachen*, without any distinction of age, sex, or condition, parental consent in the nuptials of children is enacted to be necessary. — Reason: not what may be obtained in court between men, but what in the court of conscience can stand against temptations, — where safer it is that children of whatever kind, age, or condition, in a matter of such moment, comply with parental counsel than burden conscience by such flimsy pretexts.
+
+**Proofs**: (1) God commands: honor father and mother, — which honor extends also to obedience of children, especially in things of great moment as marriage. (2) Divine laws where parents are ordered to provide marriages: *do not give thy daughter to their son nor take his daughter for thy son* (Exod 34:16), *thou shalt not give thy son...* (Deut 7:3); *give thy daughter and thou wilt do a great work* (Sir 7:25). (3) *Paternal power* to make void a son's vow (Num 30:5) — therefore also to nullify his marriage promise made without consent. (4) Examples: *Isaac* took a wife from paternal choice (Gen 24), the wives of *Ismael* also, *Esau*, *Iacob*. — Children asked parents: *Samson* said to parents *take her for me for wife* (Judg 14:2). — David's daughter Tamar left disposition of her marriage to father (2 Sam 13:5). (5) Consent of pagans: Aristotle (*Politics* 8), praised in *ius canonicum* (32 q. 1 c. *Rebekka*). (6) Civil laws: *Cod. Iust.* (7) Canonical decrees.
+
+**Understand parents** to include also grandparents in absence of parents; and in case of mental incapacity, absence beyond triennium etc., their consent may be dispensed with. Yet minor children who contract clandestinely later — parents may afterward ratify, or may refuse the nuptial dowry. — Grave scandal to the church and family arise from clandestine marriages, which must not be counseled.
+
+### Casus IX. Whether a son may pass to second vows or to the ministry without paternal consent
+
+*Reply.* The Theologians disagree with the Papist jurists. According to the jurists, an emancipated son may marry without paternal consent; a daughter emancipated but not yet in her 25th year cannot marry without father's consent. — But **Theologians**, insisting on the honor-of-parents precept, teach that parental consent remains necessary in second marriages also, since the duty of obedience never ceases while parents live. In choosing the ministry likewise counsel must be taken with parents, though the ministry itself is God's calling and if parents unjustly forbid it, the son must obey God rather than parents.
+
+**Rule**: consciences are best safeguarded by obtaining parental consent even in second marriages, even where parents are morose, — since God's will in marriage is discerned partly through the counsel of those he has placed in authority.
+
+### Casus X. What of children who, unknown to parents but with intervening oath, have promised marriage to another
+
+*Reply.* Rash oaths are to be rescinded: *whatever thou promisest imprudently, break; whatever thou vowest incautiously, do not fulfill; an impious promise is a scelerated deed to fulfill; oaths ought not to be bonds of iniquity*. — Since such an oath is contrary to divine right (God's requirement of paternal consent), rescinding it is not perjury but piety.
+
+Yet let counsel be taken: try by all means to move parents' minds to consent to such marriage, provided the person is honest and not a disgrace to family. — If consent cannot be obtained, safer to rescind an impious oath than to violate the fourth commandment: especially where blind love urged toward a certain person rather than just reason. — The intervention of oath, however, is not without weight for moving parents' minds toward consenting to such a marriage.
+
+Better to give up matters not at our nod than by perjury to noose one's own conscience.
+
+### Casus XI. If father and mother are both in need, and the son can help only one, ought he to help father rather than mother
+
+*Reply.* Common sentence of Theologians: father is to be preferred in this case. Though the mother sustained more labor in bearing and educating, the authority of the father is greater — for father is the principal cause of the son, and head of the family, so *Thomas* (2.2 q. 26 art. 10).
+
+Yet piety of son requires that mother's need also be considered, and sustenance divided so that mother is not defrauded of paternal support — since Scripture, when commending honor of parents, generally joins father and mother.
+
+### Casus XII. Whether a son may sometimes deny the offices of piety to parents
+
+*Reply.* Children must always honor parents, in whatever kind of life or condition they live. Respect between parents and children is never removed by the fourth commandment (which God has not abrogated).
+
+Wherefore gravely sin children who, being raised to honors and dignities in public office, despise their humbler-fortune parents, forgetting they have their origin from them — which ingratitude God usually punishes with like contempt in due time.
+
+This is Sirach's warning (c. 3): *never scorn thy father in his old age*. — It can happen, however, that a father becomes an enemy of his fatherland, or a traitor to the majesty of the kingdom; then by force of civic laws the son placed in higher office may deny him some duties. But **natural duties** which regard piety can never be denied: for these depend on the tie of blood by which the son is commended to parents.
+
+Wherefore it is impiously taught in the Papacy that those who enter monasteries and religion (as they call it) ought to renounce their parents: which superstitious love of the monastic life not a little seduced *Jerome*, who wrote to *Heliodorum* (persuading him to solitary life): *even if with disheveled hair and torn garments thy mother should show thee the breast at which she suckled thee, even if on the threshold thy father lie prostrate, pass over thy father's body, march past with dry eyes to the standard of the Cross. Only kind of piety in this matter is to be cruel*.
+
+But *Erasmus* rightly judges of that letter that it was not written from mature judgment, but with too much rhetorical passion. *Jerome* himself said of the letter it was written to *Nepotianum* as a mere youth, and painted with rhetorical flourishes of the age.
+
+The doctrine itself which he treats savors no piety and is contrary to the Apostle, who wills children to return the office to parents (1 Tim 5:4) and everyone to provide for his own (v. 8). — And *Prov 30:17*: *he that despiseth father, — the eye that mocketh at the father, — the ravens of the valley shall pluck it out*.
+
+### Casus XIII. Whether the son may summon parents to court, and accuse them before a judge
+
+*Reply.* Civil laws forbid this to a son — for it openly fights with honor and reverence which children owe parents, — which even in enduring parents' injuries children must show, according to *Ecclus. 3:12ff*. — If injury done to a neighbor is by charity of Christ commanded to be pardoned, much more injury from parents is to be borne.
+
+Wherefore let sons contending against parents be repelled from the very threshold of judgment, and rather bear scandalous contentions in silence with a father to whom sufficient gratitude they never can render.
+
+Yet it can happen the parent be a public enemy (an *hostis reipublicae*), a traitor, or one guilty of *crimen laesae maiestatis*. Then by force of civil laws the son placed in office of majesty of state may not deny the accusation. Two cases:
+1. When parent is public enemy or traitor.
+2. When parent threatens the prince's death or takes arms against country.
+
+**Cicero** (*De officiis* 1): *if he shall look to destroy his fatherland, he will place safety of country before safety of father*. Similarly *Alexander* (*Instit. moral.* lib. 2 c. 2).
+
+Yet **piety** would be greater to allow other action rather than by our accusation to divulge our father's shame. *Nec confusio patris tui est: non enim est tibi gloria sed confusio* (cf. Sir 3:12–13). *The glory of a man is from his father's honor, and the disgrace of a son is a father without honor*.
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+## Chapter XV. On Cases of Conscience concerning the Duties of Brothers, Sisters, and Kinsmen
+
+*The word "brother" (frater) is variously derived. Some say it comes from Greek φράτηρ, another one who eats of the same φρατρία; others derive it from φερετρίζω, "companion" or "contubernalis," because brothers are educated in the same house, as it were in the same contubernium. In Scripture the word is used in many senses:*
+
+1. *Of offspring who are from the same parents, natural brothers, as Jacob and Esau.*
+2. *Of kinsmen and blood-relatives or affines, as the kinsfolk of Christ are called his brothers and sisters (Matt 12).*
+3. *Of men of the same nation: after the Jewish covenant Jews called one another brothers (Acts 3); soldiers coming from the tribe of Benjamin are called brothers of Saul (1 Chron 12) — i.e. tribesmen.*
+4. *Of those who are of the same religion — thus all Christians are brothers and sisters among themselves (1 Cor 5:11).*
+5. *All men are called brothers among themselves because they have one Father in heaven, as in David's words (2 Sam 15:20).*
+6. *Of those joined by any tie or league of society, or otherwise similar (Prov 18:9): "he who is slothful in his work is brother of him who destroys."*
+7. *Each thing joined by some reason to another is called brother or sister of it (Exod 26:3): "five curtains were joined, one to another."*
+
+*Here we speak of natural brothers and sisters, who, because they are from the same parents, are bound by the closest tie, and to duties of piety before all others obliged: — whose concord and society is especially pleasing to God, according to Psalm 133:1: "Behold how good and pleasant it is when brothers dwell together in unity."*
+
+*What pertains to illustrating their duties, we shall in this chapter explain briefly, as God gives.*
+
+### Casus I. Whether a brother owes sustenance to a needy brother or sister
+
+*Reply.* If a brother or sister is reduced to extreme poverty, no one doubts that the remaining brothers or sisters are bound to provide necessary sustenance. To this we are bound toward any needy neighbor.
+
+But this holds when someone through no fault of his own is reduced to poverty. Gluttons and prodigals should be sent back to spade and rake, lest they abuse fraternal leniency.
+
+If a brother is pressed by poverty in some way, but is of honest lineage and lives honestly, the other brothers must honestly and according to condition of family sustain him: if they resist, the magistrate can enjoin them, lest they stain the honor of the family through the beggary of their brother.
+
+From this foundation it is judged equitable that a brother provide the sister an honest dowry, since it is like sustenance.
+
+To sustenance also pertain expenses for the learning of honest arts befitting the condition: brothers are also bound to supply these according to means, and under condition of restitution if the needy brother, by God's blessing, attains such fortune as suffices.
+
+So *Joseph* honestly supported his brothers in famine time (Gen 45), and *David* in exile had regard for his brothers and all his father's house when they came down to him in the wilderness expelled from *Achish* their country (1 Sam 22:1).
+
+### Casus II. Whether a brother owes sustenance to a brother disinherited by the father
+
+*Reply.* Commonly we hold the brother bound to this, whether the father justly or unjustly excluded the son from the inheritance. It is natural equity not to deny necessary sustenance to a disinherited son. If parents do not do it, in their place the brothers or sisters are bound, until through honest labors the disinherited can adequately support himself.
+
+But if the disinherited is degenerate and despicable, joined with a prodigal son to gain sustenance, they can refuse it as not being obliged to feed vice.
+
+### Casus III. Whether brothers and sisters owe sustenance to spurious (illegitimate) brothers or sisters
+
+*Reply.* That spurious ones are excluded from paternal inheritance is indubitable right, and confirmed by the example of *Jephthah* whose brothers cast him out of paternal house, saying: *Thou canst not be heir in our father's house, because thou art born of another mother* (Judg 11:2).
+
+Nevertheless necessary sustenance a brother owes a spurious brother or sister, as reason of common humanity demands (*ex complexu, C. de suc. nupt.*). Even in these cases dowry pertains to sustenance.
+
+By sustenance is understood what is necessary for supporting life. Where these are not simply necessary, they may be otherwise obtained by the spurious sister; therefore it is not necessary that they be supplied by the other brothers or sisters.
+
+### Casus IV. What duties also are owed to kinsmen or relatives (propinquis seu cognatis)
+
+*Reply.* *Luke* in the history of the birth of the Baptist distinguishes *kinsmen* from *kindred*: the former he calls *propinquos*, the latter *cognatos* (Luke 1:58). With both, holy concord is to be cherished.
+
+*Three things are approved before God and men: concord of brethren, love of neighbors, and man and wife agreeing together* (Sir 25:1–2).
+
+In conversation with neighbors let us observe the rule of *Christ*: *what thou wouldst not have done to thee, do not to another* (Matt 7); and of God himself: *thou shalt love thy neighbor as thyself* (Lev 19).
+
+In conversation with kinsmen we should render to **ascendants** the honor owed to parents, to **collaterals** the offices of brothers and sisters, to **descendants** the offices owed by parents to children, as Anthony notes in *Summa* c. 17.
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+## Chapter XVI. On Cases of Conscience concerning the Duties of Masters and Servants
+
+*Servants and famuli today are commonly confused. But they differ. **Servi** properly are the same as **mancipia**, and originate from war, in which those captured and preserved were called mancipia and servants, according to Horace (Ep. 1.16): "Since thou canst sell the captive, thou canst not slay him." **Famuli** are free men whose services and duties are hired for stipend and time. **Operarii** are those who let out their services for a certain kind of work.*
+
+*Over all these, masters have command, whom Peter exhorts servants: "Be subject to your lords in all fear of the Lord, not only to the good and mild, but also to the froward" (1 Pet 2:18).*
+
+*Some refer the origin of this authority to Ham revealing the shame of his father (Gen 9:22), for which crime he was cursed by his father and consigned to servitude — whence Ambrose (De Elia et jejun. c. 5): "There would be no servitude today if drunkenness had not existed." **Bandusius** thinks the state of servitude among the Lacedaemonians was for a long age unknown, as Herodotus attests (lib. 7).*
+
+*There are also concerning the duties of masters and servants some doubts, of which in this chapter, with the supreme Lord assisting, we shall treat in few words.*
+
+### Casus I. What are the duties of servants, that they may live in their state with good conscience
+
+*Reply.* Commonly it is said: *as many enemies as servants*. Such are made partly by masters' harshness, partly by servants' own malice.
+
+Wherefore it is worth while for servants to know how they ought to bear themselves toward their masters, so that they may have God propitious and preserve good conscience.
+
+- **First, fear God** as supreme Master, to whom they owe account of all their actions.
+- **Second, be content with their lot**, envy not the better fortune of others, but know that in their servile condition they are as pleasing to God as their masters — if they act with faithful mind and diligent work. Whence Paul: *let each one abide in that vocation to which he is called; a servant art thou, be not concerned* (1 Cor 7:20-21).
+- **Third, honor their masters**, despise them not, but rather with honor persecute them, even if they are not so convenient but sometimes morose, according to Peter's admonition (1 Pet 2:18): *be subject in the fear of the Lord, not only to the mild and good, but also to the froward*.
+- **Fourth, execute all just orders and commands of masters** — if not against God and conscience — faithfully, as the Apostle: *servants, obey your carnal masters with fear and trembling, in simplicity of heart, as unto Christ, not with eye-service as pleasers of men, but as servants of Christ, doing the will of God from the heart, with good will serving as unto the Lord and not to men* (Eph 6:5–7; Col 3:22).
+- **Fifth, cause no damage** either to master's goods themselves or allow others to inflict; if he sees damage occurring, warn in time. He must attend to master's goods equally with his own.
+- **Sixth, in illicit things a servant is not bound to master**: if he sins to the utility of his master, whether by usury, contracts, murder, — he sins with the master and will be punished with him.
+
+### Casus II. What are the duties of masters (toward servants)
+
+*Reply.* 
+- **First** of all, let masters recognize themselves placed in higher station by God, to whom too they must at some time render account of all their actions.
+- **Second, study to promote piety toward God and equity toward neighbor**, — not only in precepts but even in example, — that they may direct their servants also. To this fits what the Apostle says of ministers of the church: *be a pattern of the faithful in conversation, in charity, in spirit, in faith, in chastity* (1 Tim 4:12).
+- **Third, masters owe servants necessary sustenance, care in illness, and defense**: *the worker is worthy of his hire* (Matt 10:10); and Sirach: *treat him not as a beast of burden, as if he were a brother in Christ, as thou thyself* (Sir 33:31).
+- **Fourth, in illness a master must be humane to a sick servant**, that he may recover: — for God punishes the harshness which some show sick servants, as illustrated by the example of Amalekite servant left by his master to die on the road (1 Sam 30:11-16).
+- **Fifth, use gentleness and clemency with servants** according to the Apostle's admonition: *do the same to them, remitting threats, knowing that both your Master and theirs is in heaven, and there is no respect of persons with him* (Eph 6:9). Seneca (*Ep.* 47): *live gently with servants, lest come to pass what is in the proverb: as many enemies as servants*.
+- **Sixth, so that masters may fulfill office laudably, be sober in food and drink, lest wisdom and gentleness of mind be forgotten**, — vigilant, lest evil befall the family through your negligence, — not letting master's dignity swell too high (Sir 32:1–4).
+- **Seventh, watch the mores of servants**: for according to Sirach's proverb (Sir 19:16), *external composition indicates the disposition of the soul: gait of the man, laugh of the teeth, and step of his shoes indicate what kind he is*.
+- **Eighth, correct servants of corrupt morals with words and rod**, so that they may amend: as Solomon: *the whip for the horse, the halter for the ass, and the rod for the fool's back* (Prov 26:3). If by these means they are not amended, expel them from the house, — since it is probable that a servant driven from your house will lead a more licentious life outside.
+
+### Casus III. How far masters are bound in every action of servants
+
+*Reply.* Ancient Romans had *ius vitae ac necis* over servants, whom they took captive in war by *ius gentium*. As pleased them, so they exercised authority.
+
+This right the later posterity judged against nature, since masters domineered over servants as over beasts of burden. Later, through constitutions of emperors, it was much amended: especially the constitution of *Antoninus*, whereby he who without cause killed his own servant was punished with the same penalty as if he had killed another's or his neighbor's.
+
+Others enacted that masters should not deal too cruelly with servants nor treat them beyond measure inhumanely: — else servants could bring action against them before the *iudex civilis*.
+
+All these are consonant with divine law. For *Sirach* (Sir 33:29–31) prohibits harshness of masters against servants. — And the more familiar the one is with the other in domestic conversation, the graver the injury done to him: for domestics are members of one body.
+
+**General rule**: not every action a servant commits binds the master. But so much the more this holds, when the servant acts by master's command or authority — as in mandates and ministries which he does by master's order and threat; or if in commodum of master something arises. Then master is liable.
+
+Thus once God enacted: *if an ox butts a man or woman by his horns, and they die, that ox shall be stoned to death, — but the flesh not eaten, — the master of the ox innocent: — but if the ox was thrusting yesterday and the day before, and warning given to the master, and he has not kept him in, but the ox has killed a man or woman, — the ox shall be stoned, and the master also shall be put to death* (Exod 21:28–29).
+
+If for an ox thus, how much more for a servant, whom the master to his own commodum for illicit things or dangerous to another he can instigate.
+
+But if servants unknowingly or unwillingly by master sin, no one holds another responsible — each is answerable for his own.
+
+### Casus IV. Whether master owes servant his wage
+
+*Reply.* Beyond controversy, master must pay servant his wage. As Paul admonishes: *thou shalt not defraud the reward of thy hireling* (Matt 10:10). And the *worker is worthy of his hire* (Luke 10:7).
+
+Yet some do not owe wages:
+1. Those who from mere goodwill submit themselves to that servitude.
+2. Sacerdotes who are placed under vows.
+3. Those who supererogate work on other things not needy — as, if they graft themselves onto a servant's ministry — beyond food and clothing nothing is owed.
+4. Those who in the houses of princes are honestly educated and instructed — where education and instruction are wage-equivalent.
+
+If, however, servant was hired at fixed price for fixed time, and in the interim for some months ails, nothing is to be withdrawn from wage: since the sicknesses are matters of chance, and through no fault of his — so long as through the servant it does not stand that duties in whole time were not performed, all the time contracted must be paid.
+
+### Casus V. Whether a mild master retains servants
+
+*Reply.* Out of controversy, that a good master exercises gentle authority. Yet mildness must not turn into indulgence. Servants must fear reverence; masters must be gentle but not remiss. — Where a master is truly good, servants attach themselves willingly. But if servants abuse his goodness, sharper discipline is needful, lest license destroy the family.
+
+*Discreta severitas* — discreet severity — with gentleness is the moderator of masters: this is well shown in Job (31), where he treats his servants and handmaids with piety, hearing them, as those made from same clay by same Creator.
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+## Chapter XVII. On Cases of Conscience concerning Conversation with the Neighbor
+
+*Who our neighbor is, is not understood by all. Some say: I am my own neighbor — as if we should not care for any but ourselves, but live only for ourselves, moved neither by other men's fortunes nor by their adversities. — Others hold their blood-relatives to be their neighbors alone, and treat only these as beneficiaries. — Others count friends and benefactors as neighbors, of whom they hope to receive in return; the poor and those from whom nothing can be received they do not count.*
+
+*But Christ, in the parable of him who fell among thieves (Luke 10), teaches that every man who has need of our aid is our neighbor, — whether friend or foe, kin or stranger.*
+
+*Since therefore man is a social animal, whom God has so created that he lives not to himself alone and sits at home, but converses with others, — instruction is needed in this converse, lest it be vicious and lest one give to another occasion to sin. — What here occurs of doubts, in this last chapter, God helping, we shall unfold.*
+
+### Casus I. Whether even enemies are to be numbered among neighbors we love
+
+*Reply.* Love of neighbor is such love by which we will good to another for his sake, — that is, without emolument or convenience to ourselves. — And of this love even the pagans made human being (whether friend or enemy) the object: for it is a man's duty to love another as man, — that is, as sharer of the same human nature, — a love called *benevolence* or *humaneness*.
+
+When, however, the pagan philosophers taught friends should be loved and enemies hated, they did not mean enemies should be loved *as* they are our contrary and adverse. — David also in the militia against enemies: *do I not hate them, O Lord, who hate thee? I have hated them with perfect hatred* (Ps 139:21–22).
+
+But contrary to this, Christ commands us to love enemies (Matt 5:44), — and by this discriminates Christians from pagans, that these love only benefactors, while we love even our enemies.
+
+**Three considerations concerning enemies**:
+1. Insofar as they are our enemies, they harm us; in this respect they are not to be loved — else sin would be loved.
+2. Insofar as they are men and share our nature, — by natural right we are compelled to love them.
+3. Insofar as they are men and capable of divine grace and eternal life which Christ acquired for all, — and in this last respect chiefly Christ wills that enemies be loved by us, — as the heavenly Father does good to good and evil, considering them equally works of his hand.
+
+**Loving the vice** — no; **loving the enemy himself** — yes. Following that principle: *unum sit dilectio, sed diversa faciat*. Love the enemy as a person of divine gift, of the same grace and eternal life-capacity.
+
+### Casus II. Whether we may take on good against neighbor in his affliction, or bring bad in
+
+*Reply.* Concerning imprecations we spoke elsewhere (*De iudicio* lib. 2 cap. 7). — Concerning **joy over neighbor's affliction**, Scripture speaks in many places: *he shall pluck up prostitute-women, and them not fair; the one who humbles exalts* (Sir 20:12); *rejoice not over the ruin of an enemy in his fall, — lest the Lord see and it displease him, and turn away his wrath from him* (Prov 24:17–18); *whoever rejoices over another's ruin will not be unpunished* (Prov 17:5); *when the wicked perish is exultation* (Prov 11:10); *when the wicked stand up, men are hid; when they perish, the righteous multiply* (Prov 28:12).
+
+These all oppose **envy** (invidia), which seeks nothing for the neighbor and desires nothing of his own good, but grieves at his prosperity.
+
+**Yet we can rejoice as at good, if the enemy is broken** — not qua evil to him, but insofar as it makes for good, as: correction and turning from evil. Chrysostom (in Homily 1 on Matt): *let the ruin of an enemy sadden you as if he perished in his own guilt, together with him falling; those whom we thought good and even seemed to us to be so — if they perish, we grieve*.
+
+Just as concerning enemy's *power or felicity* we sadden — not as good, but as evil, since he abuses good things for us — so we can rejoice at his evil, — not as evil, but because it conduces for him to good, since as *Ephesus 5:19* speaks the *castigation works repentance*.
+
+**Yet some castigate the neighbor**...
+
+### Casus III. Whether one may with good conscience exclude an enemy from public benefaction
+
+*Reply.* When common benefit is imparted (as alms distributed, another benefit conferred, or release from common prison), we ask: *may the enemy be excluded?*
+
+Distinction between **public person and private**. A **public person** — magistrate, judge, etc., who commonly acts — can prefer the enemy no worse than others; if he uses this passing-by to punish him for some delinquency according to laws, licit. So while releasing others from prison, he may retain the enemy — not qua enemy but qua more gravely delinquent.
+
+But if such a **private person**, then let the enemy enjoy along with the friend the common benefit — where care must be taken lest under pretext of public judgment private vengeance be exercised.
+
+**In common questions for all, the enemy is not to be excluded**: for since public benefits are for all, they are for enemies as well, if these too are in need.
+
+### Casus IV. Whether one must salute a chance-met enemy without sin
+
+*Reply.* Scholastics disputed whether one is bound to salute a chance-met enemy, and some contended that even those approaching the Sacred Communion, if they saw an enemy nearby at the same sacred office, and would not salute him, sinned not.
+
+But greater must be for us Christ's rule of loving enemies, of beneficence toward them, than that of the Pharisees (Matt 5).
+
+Nor may you say: I love the neighbor in soul, though I do not express that love by external signs. — For if you are a *diligens simpliciter*, and not a hypocrite, no one will believe you.
+
+Wherefore if truly you love the enemy, you will not be reluctant even to salute him — following the example of *David*, who saluted his most bitter enemy (2 Sam 15:19; 26).
+
+Even if you had him in your hands and could injure him at will, you would rather deal humanely, as David did with Saul (1 Sam 24:19; 26).
+
+Especially in the reception of the Divine Mysteries — when we participate in the same benefactions and gifts of God, eat of one loaf, drink of one cup, one hour — none but the reconciled with neighbor should approach this sacred office, else unworthy of the blessed loaf and chalice, taking judgment upon himself.
+
+Let such advocates take heed who persuade this inhumanity to their clients: into what labyrinth they cast them, whence never they can extricate them.
+
+Rather **overcome evil with good**, and that you may with tranquil mind approach the sacred and awesome table, salute your enemy, — perchance you may thus move him to lay aside all wrath and rancor of affect, and bind him to you by your humanity — which surely is a most salutary and worthy office of a good Christian, and by which we accumulate coals of fire on the head of the enemy (Prov 25:22).
+
+### Casus V. How reconciliation with an offended neighbor takes place
+
+*Reply.* Reconciliation is a most Christian and pertains to grace with God, — as Christ willed us to ask remission of our sins from God, likewise asking us to remit to the neighbor whatever offense he committed against us (Matt 6:12). — *If therefore thou offer thy gift at the altar, and there rememberest thou hast anything against thy brother, leave there thy gift at the altar, and go, first reconcile to thy brother, and then offer thy gift* (Matt 5:23–24).
+
+Reconciliation presupposes offense. If only one party has offended the other, that party alone is bound to seek reconciliation — that is, the offender should approach him, and ask pardon, as taught by *Christ* (Matt 5). — Unless the offended is absent: then interior reconciliation in mind suffices — or testimony before others that ready to seek pardon.
+
+If offense is mutual, he who first offended must begin reconciliation, — provided all things are equal on side of persons and gravity of delict. Otherwise, if the second-offender is gravier delinquent, or the offended is of superior condition, — he who is later and of nobler condition may nevertheless take initiative in reconciliation, if the other is somewhat difficult toward reconciliation: — in this imitating the heavenly Father, who is most noble, and is offended by us, yet always initiates reconciliation, — nay, that we may be reconciled, *bonarum artium usui* himself invites us.
+
+### Casus VI. What anger is and how one may be angry with a neighbor without sin, and what is unjust anger
+
+*Reply.* Anger is a passion of the soul by which one wills evil for another out of vengeance.
+
+It is of two kinds: **just and unjust**.
+
+**Just anger** — that anger is sometimes lawful the *admonition of Ps 4:5 and Eph 4:26* teaches, where we are commanded *to be angry but not to sin*: therefore there is some anger by which we do not sin.
+
+**Just anger** is such as:
+1. Has a just cause: cause of God violated, whether by idolatry or blasphemy or studious transgression of God's commands, as *Moses* raged against the Israelites when they had made the golden calf and called it their God who brought them out of Egypt (Exod 32:19); *Paul* rebuked in the *Antioch* incident (Gal 2:15); *David* raged over the incest of Amnon (2 Sam 13).
+2. Does not arise suddenly but from consulted counsel and deliberation.
+3. Is kindled from noble affections — from study of virtue, from love of God and his commands.
+4. Is directed not so much against the person of the man, as against his vice by which he has violated the decalogue.
+5. Does not violate charity of neighbor: for while it is angry with the neighbor, it does not exceed the moderation of neighbor-charity — the charity which we owe even to our enemies — but preserves it even toward those who justly gave us cause of anger.
+6. Does not seek destruction, but the good of him with whom we are angry.
+
+Such is called *ira laudabilis* — laudable anger. So Sirach: *most-honest bright wrath* (Sir 33:29).
+
+**Unjust anger** has five species:
+1. When someone desires punishments to which he has no title.
+2. When someone desires more punishment for another than he has merited.
+3. When someone desires another to be punished without just order — by one not authorized.
+4. When someone desires to punish without due end — that is, not for defending good or correcting fault, but for another end.
+5. When someone desires punishment without due mode — as when someone is immoderately angry so as to blaspheme God or curse neighbor, or in extreme necessity does not succor.
+
+To these can be added **temerity and haste** in growing angry; insufficient cause not aimed at God's glory but private revenge; excess of anger, even if just cause, when joined with blasphemy, strife, insult, and other things wounding charity of neighbor.
+
+**Such anger must be avoided** for God's sake and for our neighbor's, and for our own:
+- **For God's sake**, since (1) anger displeases God, disturbs his hospitality, and gives place in the angry heart to the devil (Eph 4:30); (2) mars the divine image which is preserved in tranquility; (3) invades God's office when we usurp private vengeance; (4) God even reckons anger for homicide, and by the same judgment punishes it (James 1:19–20; Matt 5:22).
+- **For our neighbor's sake**: much harms him. A wrathful man is troublesome to others, as Prov 22:24: *do not walk with a wrathful man, nor go with a raging man*; and Prov 27:4: *cruelty of wrath and rushing headlong of anger and who will be able to stand?*; anger destroys friendship (Prov 22:24, 15:1); *the wrathful stirs up strife, the patient stills a raging one* (Prov 15:18).
+- **For our own sake**: the wrathful is torn from his own consultations, wastes with cares, is torn with anxieties of proximity to affairs, torn with envy (Prov 14:30: *envy is a rottenness of bones*; Sir 4:8: *envy consumes the envier*). Paul: *let us not envy one another, biting and eating each other, so that we not be consumed by one another* (Gal 5:15).
+
+### Casus VII. Whether just anger can arise suddenly
+
+*Reply.* Sudden anger is more often unjust than just, since it is not deliberated. Yet just anger too, if suddenly kindled, can arise from perceiving grave affront to God or scandal to neighbor; but even so it must quickly submit to reason and not be allowed to swell to blasphemy or violation of charity.
+
+**Rule**: brief and moderated bursts, from perception of just cause, may be borne — provided reason at once resumes rule, and one does not spend anger's violence upon the person of the offender but upon his vice.
+
+### Casus VIII. Whether one may with good conscience expose life to peril to save the life of a friend
+
+*Reply.* Many placed high in true friendship, that one should die for a friend, in his necessity or peril.
+
+Such was the friendship of *Damon* and *Pythias* of the Pythagorean philosophers, that one did not shrink from dying for the other under the tyrant *Dionysius*, as Lactantius relates (*Institut. divin.* lib. 5 c. 18). — Similarly *Pylades and Orestes* (in Cicero *Pro Milone*), *Pomponius and Laenas*, *Volumnius and M. Lucullus* (Valerius Maximus 4.7).
+
+Christ has this as sign of most perfect friendship: *greater love has no man than this, that one lay down his life for his friends* (John 15:13). — John: *by this we know charity of God: because he laid down his life for us, and we ought to lay down our lives for the brethren* (1 John 3:16).
+
+Yet **as first principle** know: to die for the brother is indeed a most perfect sign of true love toward neighbor, by which Christ in his own case proved his most ardent love toward us, — but we have no command to die for the salvation of others; nay, if this were done in judgment, and one were to receive punishment for another, — expressly forbidden (Deut 24:16): *fathers shall not be put to death for children, nor children for fathers: each shall die for his own sin*; Ezek 18:20: *the soul that sins, it shall die*.
+
+That St. John writes we ought to lay down our lives for one another, — this only signifies the **readiness** required toward neighbor: readiness to serve him even with our peril, even though we do not die for him. — *Animam* in Scripture does not mean only life but fortunes and honor, — everything that in this life can be dear to us, as in Christ: *he who loves his soul shall lose it* (John 12:25).
+
+Examples of pagans are not indeed to be discarded, but not all were approved. *Carneades* the philosopher said it was foolish to die for another. Which foolishness deserves greater reproach when done for personal glory, as often was done by them.
+
+**Know however it is lawful to lay down life for another in three cases**:
+1. When he for whom we lay it down is a **public person** in whose safety the safety of the Republic depends — emperor or prince, — if his life is in danger in war or sedition. So a subject in exposing his own body preserves the prince: as with *Maurice*, Duke of Saxony, in 1542 — at age 21, a nobleman named *Ribisch* took the fatal blow, letting his own body cover the fallen prince; the prince recovered but at last succumbed to wounds (Sleidan lib. 15).
+2. When someone exposes life to peril for **salvation of a whole people**, — as in single combat, as *David* against *Goliath*, *Jonathan* against Philistines (1 Sam 14).
+3. When someone exposes bodily life on account of another's **spiritual life** — as if in plague-time a pastor of infected people, when consoling them and administering sacraments, exposes himself to peril; or if someone teaches Scripture even with peril of persecution, lest his flock be defrauded of the food of soul; or if he dehorts an adulterer from adultery even with peril of death — as *John the Baptist* publicly rebuked Herod's incest, though at peril of his head (Matt 14).
+
+Those to whom this is not commanded do not sin if they exhort others from vices, — for this is duty of mutual charity, taught by the Apostle (Gal 6:1); but let them beware not from luxury of temerity of affections to incur penalty.
+
+### Casus IX. What things are to be observed concerning alms which we owe our neighbor
+
+*Reply.* Alms-giving is of divine right, which cannot be violated without wounding conscience. God so commanded: *if one of thy brethren fall into poverty, thou shalt not shut up thy heart nor draw thy hand, but open it to him and lend him what he needs* (Deut 15:7–8); *deal thy bread to the hungry* (Isa 58:7); *do good and lend, expecting nothing again* (Luke 6:35); *the rich in this world command to do good, communicating* (1 Tim 6:18); *forget not benefits and communication* (Heb 13:16). Christ testifies many at the last day will be sent into eternal fire because of omitted alms (Matt 25). Hence Ambrose: *if thou hast not fed, thou hast killed*.
+
+**Alms-giving requires two things**:
+1. **Person of giver**: must have (a) just dominion over what he gives — for from ill-gotten things ill given (God does not accept prostitute's or dog's price, Deut 23:18); (b) alms from superfluity — what remains after preserving his own decent state; (c) given willingly, hilariously, without upbraiding, *God loves a cheerful giver* (Sir 35:8; 2 Cor 9:7); (d) not from hypocritical or vainglory-motive (as the Pharisees, cf. Matt 6), but for God's command's sake and to lift up neighbor's need; (e) not excessive so as to reduce oneself to poverty (Prov 27, "let your fountains flow, but keep them within thyself").
+2. **Person of receiver**: must be needy. Not those with sufficient means. Necessity is threefold: **extreme** (proximate peril of life), **grave** (something needed for maintaining status), **common** (ordinary poverty as of beggars).
+
+### Casus X. To whom alms are to be given
+
+*Reply.* Alms are fruit of Christian charity. Charity is ordered, and *begins from itself*. It can happen that parents are reduced to poverty while children flourish; then rightly the *initium* of alms starts with them: **among parents the first place is father**, to be helped before mother.
+
+Then follow **children** — to whom before their wife, though she be poor, alms should be given.
+
+Then **brothers, sisters, other blood-kin near of blood**. *Who has not care of his own is worse than an infidel* (1 Tim 5:8).
+
+Then **domestics** and those any way joined to us: they should be helped in alms before strangers. — Similarly a debtor reduced to poverty ought rather be helped than another.
+
+Finally **strangers**, among whom however **religious brethren, our religious fellows**, have precedence — as Paul writes, *while we have time, let us do good to all, especially to the household of faith* (Gal 6:10).
+
+To *extraneos* pertain also **enemies** and even those unworthy of benefit: to these too alms should not be denied, since Christ (Matt 5) wills we love enemies; especially one in extreme necessity, is to be helped by us before beasts, — since in general more must be looked at need than dignity.
+
+Yet if someone maliciously feigns poverty when he could work — no obligation of alms.
+
+### Casus XI. Whether in common peril a debtor is bound to repay creditor, if by not repaying he saves his own life
+
+*Reply.* This is discussed by the Scholastics. Some hold that a debtor must always render creditor his own; others distinguish. — **Some distinguish** between **fungible things** (as bread, other food) and **non-fungibles** (as a horse, ship). — **Fungible things**: in extreme famine, they may be retained; the debtor is bound to restitute *by equivalent* when he can. — **Non-fungibles**: as a horse or ship needed for flight, must be at once restored, since creditor has dominion in property.
+
+**Others**: even without distinction the debtor is not bound to restore the loaned thing even in extreme necessity, because (a) in extreme necessity all things become common to use (D.2 §*cum in eadem*), (b) in *communi periculo* better is the condition of possessor.
+
+**Third view (probable)**: charity begins from oneself. No one ever hated his own flesh. If one placed in extreme peril, having ready-to-hand a thing (though received from creditor), and if not using it he would perish, he would seem to injure himself. — But if the debtor escapes the peril, he is bound to restore what he took, if not the same then something equivalent in price. — And beyond that, in place of thanksgiving, something additional he owes, since life of man surpasses all other goods.
+
+### Casus XII. Whether one who has given alms may demand back what he gave
+
+*Reply.* Distinguish precept of alms from precept of mercy. **All alms is a species of mercy, but not all mercy is alms.** Mercy's precept (*Sir 4*): *do not despise the hungry soul*. Precept of alms (*Isa 58*): *give hungering thy bread*. — Alms pertains to *external opera misericordiae*; mercy also to *internal*. So he shows greater mercy who ministers to soul than to body.
+
+**In case of necessity**, alms can be exacted from another for someone in extreme need, without obligation of restitution.
+
+**Alms simply given, without pact-of-restitution**, transfer dominion. If then he to whom given is not restored to sufficient means, the giver cannot demand back what was given without an act of harshness. — But if the receiver later comes to means, and the giver himself falls into poverty, then it becomes lawful and pious to ask restitution — since alms flow from ordered charity.
+
+### Casus XIII. Whether one who has given the poor may exact debts they contracted for support
+
+*Reply.* Distinguish. A poor person burdened with debts, if now solvent, must repay; but if in extreme need, further alms may be added, with obligation of restitution only when he can. — Between charity and justice: if debtor is truly poor, richer must forbear, as *Sir* teaches: *do not press one poor beyond means*.
+
+**Beyond that, mercy is more than a legal demand**: it is more Christian to remit than to press. — He who freely forgives when he cannot pay, gives an *opus caritatis* far excelling mere legal collection.
+
+### Casus XIV. Whether alms are owed to misers who from perverse mind starve themselves
+
+*Reply.* Distinguish among the tenacious: **some are from vice miserly** — never satisfied, dare not use their goods lest their heap be diminished. These God punishes by not letting them enjoy their goods, as Solomon writes (Eccl 6:2): *there is another evil which is frequent among men: a man to whom God has given riches, substance, and honor, so that nothing lacks him to his soul of what he desires, — yet God has not given him power to eat of it, but a stranger eats it — this is vanity and a grave evil*.
+
+To these, though hungry, alms should not be given from another's alms, since they are knowingly and willingly so; their sin is ingratitude to God, whom by not using his gifts they injure. — Rather they should be forced by care of body to learn use of their goods for their salvation.
+
+**Some are miserly from mind-illness** — as melancholics, persuaded that whatever they have belongs to others. These merit compassion, must be helped, until they come to themselves.
+
+**Some misers are spiritual**: as parents who omit alms out of fear of leaving no inheritance to children. To these: it is well to admonish that spiritual alms are more excellent than corporal — the *magna virtus* of alms lies before God (Lev 25; Sir 3:29–30). Scripture ascribes remission of sin, in some places, to alms — as Daniel to Nebuchadnezzar (Dan 4:24): *break off thy sins by alms*. And *Sir 3:33: alms extinguish fire, as water*.
+
+### Casus XV. Whether alms are spiritual gifts, so that faith is to be believed, alms redeem sins
+
+*Reply.* *Augustine* (*De civ. Dei* 21.22 & 26) refuted those who thought that no one is damned who gave many alms; because it is written *judgment without mercy to him who has not shown mercy* (James 2:13), but those who give alms, though held by great sins in which they persevere unto end of life, are neither damned nor tormented eternally.
+
+**True however is that alms of themselves are pledges of God's grace** — the truly-faithful alms flow from faith working through love. But **expiation of sins, liberation from death and Satan's power, are wholly the work of Christ**: as he says of himself (Isa 43:25): *I am he that blots out thine iniquities for my own sake*. Alms cannot be **the cause of remission of sins** but are **fruits of a heart already reconciled with God**.
+
+If Scripture in some places (Dan 4; Sir 3) speaks of alms in respect of the remission of sins, it must be understood in the ordinary way that alms are witness that the soul is reconciled; they show the fruit of penitence. — *Fides* through alms is proved living, — hypocritical faith without alms proved dead.
+
+**In sum**: alms not the meritorious cause of forgiveness, but sign and fruit of a heart pleasing to God through Christ.
+
+### Casus XVI. How correction of a sinning neighbor is to be undertaken, so that he may be corrected
+
+*Reply.* Fraternal correction pertains to works of spiritual mercy, sometimes called *spiritual almsgiving*.
+
+*A great work is charity*. Just as we are bound to relieve neighbor's bodily suffering — poverty, captivity, life-perils — so also to correct his sins by which the soul incurs peril: by law of charity we are bound. — Christ required this of his own (Matt 18:15): *if thy brother sin against thee, go and correct him between thee and him alone*.
+
+**Considerations**: (1) *who is to correct*; (2) *who to be corrected*; (3) *how manifold correction is*; (4) *how to be undertaken*; (5) *for what end*.
+
+**(1) Who corrects**: primarily *superiors* who have some office-authority (magistrates over subjects, ministers over auditors, parents over children, teachers over disciples). Yet even *equals* and *inferiors* may correct out of charity — since the offices of charity are common to all. — Just as an inferior can console a superior in ills, so can he admonish him from sin.
+
+*Not everyone can correct*: he who has not yet cleared himself of sins that peccadant even worse than the neighbor's. Yet an inferior may judge of superior's sin without scandal, unless with self-condemnation.
+
+**(2) Who to be corrected**: any sinner, especially the notorious. Even the highest, if their sins are notorious, are to be corrected — as *Nathan* corrected David, *John Baptist* Herod, *Ambrose* Emperor Theodosius. But *reverence* should temper: correct with humble prostration, not insult.
+
+**(3) Manifold correction**:
+- *Private admonition* (Sir 19:13–14): *correct thy friend, lest peradventure he understand not; correct thy neighbor lest he do it again*.
+- *Denunciation to superiors or to the church* (Matt 18:15–17: if he hear thee not, take with thee one or two witnesses; tell the church; if he hear not the church, let him be as heathen).
+
+**Public and private sins**:
+- *Public sins* — after prior admonitions, correct openly by superiors.
+- *Private sins* — first, privately correct; if no fruit, use witness; last, to superiors.
+
+**Beware**: correct not by mere suspicions or rumors, but on certain evidence; not before believing all things (Sir 19:16).
+
+**(4) How to correct**:
+- *Person* — if superior, with humility and reverence; supplicative rather than magisterial.
+- *Piety* — from love, not scorn or insult.
+- *Time and place* — not before crowd; discreetly.
+- *Freedom from same vice*: he who corrects should first cleanse himself; *shameful for a teacher* when his fault re-strikes him.
+
+**(5) End of correction**: not vengeance, but neighbor's salvation from damnation; zeal, but *mercy first* joined with it, that thou be more cautious for the peril of thy brother than for thy own (Gal 6:1: *thou spiritual, instruct such a one in spirit of meekness, considering thyself lest thou also be tempted*). — As that old monk said: *when I heard someone brother sinned, — I said, I too tomorrow may be so* (Ambrose lib. 2 c. 7). Three things: **mens, lingua, manus**, — that in *heart*, *tongue*, and *hand* the corrector should have mercy in reproving, plenty in exhorting, efficacy in persuading, and in hand continence of flesh.
+
+### Casus XVII. How humaneness (humanitas) toward neighbor without injury of conscience may be preserved
+
+*Reply.* Humaneness is elsewhere called *urbanity*, *affability*, or *bland conversation*. It is that virtue by which one takes pains not to hurt anyone in word or deed, but rather delights all honestly.
+
+Its object is speech and deed in familiar conversation.
+
+He who therefore would use this virtue must so labor that in speech or deed he offend no neighbor. — This can be sinned against by defect and by excess:
+- **Defect** (*inhumanity*): occurs when one speaks harshly, hears fastidious, difficultly performs duties, or does it without any sweetness or evidence of goodwill.
+- **Excess**: (a) *scurrility* — when to please, one flouts propriety, jokes, makes light of everything; (b) *adulation* — sinful flattery in speech.
+
+**Distinguish scurrility and adulation from humaneness**: adulation joins with lie, since none can please all in every point — hence adulators, wishing to earn favor, praise vice as virtue and confirm sinners in sin. — Whence the saying: *nothing so pernicious as flatterers' tongue*. — Both are conjoined with mendacity. Impossible to please all sound: therefore adulators lie.
+
+Adulators go with the avaricious, applauding proximum, that their goods may not only remain safe but foreign goods flow to them as gift.
+
+**In defect**: fights with humaneness, moroseness — one who speaks bitterly, refuses hospitality, does not fulfill duties. — At times *morositas* accedes to *dissimulatio*, — but between adulation and *morositas*, adulation more closely resembles humaneness because it produces an *actus humanitatis* (though vicious), which morositas cannot.
+
+**Rule** for keeping humaneness without sin toward proximus:
+1. Not seek to please all: some cannot be pleased however good; do as much as thou canst.
+2. Different in conversation with those in rank, different with the crowd.
+3. Do not always seek to delight those with whom conversant; if delight is joined with turpitude, offend rather than deceitfully please.
+4. Show singular benevolence in speech and gesture — speaking, hearing, seeing readily; freely undertaking mutual services; observing benevolence, blandness, equanimity.
+5. Avoid all offense-occasion in speech and demeanor. — In speech: what offends is voice-thinness, murmur, inconstancy, *concentus histrionis* (theatrical air), vain-glory. — In gesture: buffoonery, ridiculous gesticulation, lightness.
+
+Cicero (*De off.* 1) praises *Philip*'s institution of Antipater to his successors, ordering that by kind letters to friends *humanitatis moderatio* be shown, — soothing the enemy with benign oration; making the multitude benevolent to themselves by *appellando* soldiers with mild speeches.
+
+Diligently to beware, however, that all these things happen from *nostrae salutis pauxillum* — the little bit that concerns our salvation — not from a servile scope to please, nor mere hypocrisy: but for the sake of true honesty of *communem salutariam*, — which is of virtue's own.
+
+### Casus XVIII. Whether one may at times lie for the good of another
+
+*Reply.* Since not on man's will does truth depend, — which whether *speaking* or *silent*, — how one ought to speak: — thus with truth war *mendacia* (lies), when *anything either affirmed or denied* is other than the thing itself makes clear, or than one has held it in mind.
+
+Lie is threefold: **perniciosum, jocosum, officiosum** — pernicious, jocose, officious. — *Pernicious lie* — because it inflicts damage on the neighbor, is a sin held by all. — *Jocose lie* — some hold *not for a lie*, since a false-hearing man understands truthfully. — Of the **officious lie** the question is: is it lawful without sin? — such a lie is by which we would profit ourselves or the neighbor, or friend.
+
+There are those who deny that any lie is lawful to a Christian — not even officious — because it is written *Ps 5:7: thou shalt destroy all who speak lies*; and *Christ (John 8:44) names the devil the author of lies*.
+
+*Augustine* simply calls every lie sin (*Enchirid. ad Laur.* c. 18–19; and *De mendacio ad Consent.* c. 15). More clearly he writes: *No pact, no place, no cause of any consideration can justify a manifest lie which is against faith of good*. — He considers that mendacity is only when the false signification of a voice is emitted with intention of falsehood, — since *not sufficient is intention alone to make a lie, but private desire is required*.
+
+*Chrysostom* and *Origen*, however, at least permit the **officious lie** in some cases. — Others (Basil, Cassian) similarly.
+
+**We however hold**, on balance:
+1. Manifest lie against faith is never lawful, — even in matters of religion, salvation, or benefit of neighbor. — The truth alone glorifies God.
+2. *Simulations, hyperbolizations, stratagems, and similar* in cases where secrecy is licit for our neighbor's benefit — are to be ascribed **not to mendacity but to sagacity** (*calliditas*), — which Cicero in *De officiis* commends: only that kind of mendacity he condemns, in which pretense is joined with intention to deceive.
+
+*Lactantius* (lib. 6 *Instit.* c. 18) expressly defines *mendacium* as belonging *only to those who intend to deceive*. Which if it be so, then *sagacity* is not lie — since without desire to deceive.
+
+Wherefore *simulatio* in things useful to neighbor, — as *Rebecca*'s bringing Jacob to obtain the paternal blessing (Gen 27), or the case of the midwives of Egypt (Exod 1:19), — is not simply lying, but is sometimes commended.
+
+*But here I break off, judging concerning cases of conscience I have said sufficient.*
+
+---
+
+**JESUS CHRIST**, *who by his blood cleanses our consciences from dead works, that we may serve the living God, direct all our discourses and works, that they may be pleasing to him*: **and preserve us also from all evils, both present and coming, and let us stand before the Son of Man: to whom be honor, glory, and empire, forever and ever.** 
+
+**AMEN.**
