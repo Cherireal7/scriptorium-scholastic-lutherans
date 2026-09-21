@@ -1,6 +1,6 @@
 # Handoff — Balduin, *Tractatus Posthumus de Casibus Conscientiae* (Wittenberg, 1628)
 
-**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T31 are done — Liber I is COMPLETE, Liber II is COMPLETE, Liber III is COMPLETE, and Liber IV Cap. I–XI are COMPLETE (~90% of volume body).** The next tranche is T32 (Liber IV Cap. XII *De magistratu politico* through end; ~118 pp remaining, ~1 tranche to close volume body). T2–T31 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter. Everything needed to pick up at T32 is here or in the paths named here.
+**Read this first.** Self-contained brief for whoever picks up the volume in a fresh chat. **Stages 1+2 and Stage 3 T1 through T32 are done — Liber I is COMPLETE, Liber II is COMPLETE, Liber III is COMPLETE, and Liber IV Cap. I–XII are COMPLETE (~93% of volume body).** The next tranche is T33 (Liber IV Cap. XIII–XVI covering marriage/family/masters+servants + closing; ~85 pp remaining, ~1 tranche to close volume body). T2–T32 detail is in the git log (`git log --oneline`) — each Balduin-Casibus commit narrates one full chapter. Everything needed to pick up at T33 is here or in the paths named here.
 
 ## What this project is
 
@@ -27,21 +27,20 @@ Translating **Friedrich Balduin** (1575–1627) · ***Tractatus Luculentus, Post
 | Liber IV Cap. IX | *De administratione coenae Dominicae* (Lord's Supper, 8 Casus) | ✅ T30 |
 | Liber IV Cap. X | *De clavium usu ecclesiae* (keys/absolution/confession/discipline, 11 Casus) | ✅ T31 |
 | Liber IV Cap. XI | *De decorum ac ordinem in ecclesia* (rites/ceremonies, 5 Casus) | ✅ T31 |
-| Liber IV Cap. XII–end | Political magistrate, subjects, marriage, family, death | ⏳ T32 |
+| Liber IV Cap. XII | *De magistratu politico* (political magistrate, 14 Casus) | ✅ T32 |
+| Liber IV Cap. XIII–XVI | Marriage, family, masters+servants + closing | ⏳ T33 |
 
-**~118 physical pages remain / ~1 tranche to close volume body. Overall progress: ~90%.**
+**~85 physical pages remain / ~1 tranche to close volume body. Overall progress: ~93%.**
 
-## Immediate resume point (T32)
+## Immediate resume point (T33)
 
-Open OCR at **`sources-original/balduin-casibus-1628.txt`** line **63188** (physical page 1010). The `CAPUT XII` header (OCR corruption: appears as `CAPUT xrt`) starts Cap. XII *De casibus conscientiae circa Magistratum politicum* (political magistrate). Cap. XV (children/parents/servants) at ln 65070 (Cap. XIII-XIV are skipped in original book); Cap. XVI (death/burial) at ln 67595. Body ends ~ln 69119 with AMEN doxology.
+Open OCR at **`sources-original/balduin-casibus-1628.txt`** approximately line **65070** onward. Chapter identification requires verifying via running headers — Cap. XII on political magistrate ends around here. Between there and ln 67595 there are 1-2 chapters covering marriage/family/children. **Cap. XVI at ln 67595 = *De officiis dominorum ac servorum* (masters and servants)** — running header confirmed on physical page 1083. Body ends ~ln 69119 with AMEN doxology at physical p. 1109.
 
-**Note on chapter numbering**: original book skips from Cap. XII to Cap. XV (Cap. XIII-XIV do not exist). Also verify by content whether spouses/marriage chapter is embedded within Cap. XII or Cap. XV.
-
-**Preamble to note (Cap. XII):** *Second hierarchy* concerns *political magistrate*, who agrees with the ministry in many things but is distinct in office. Cases likely include: divine institution of magistrate, forms of government, election, oaths, taxation, war-just-and-unjust, capital punishment, treatment of subjects.
+**Note on chapter numbering**: OCR grep shows "CAPUT XV" at ln 65070 but that content is actually a Casus of Cap. XII on laws-binding-conscience. Chapter divisions between Cap. XII and Cap. XVI need careful reading. Original book likely skips numerical chapter numbers.
 
 ## Remaining tranche plan
 
-- **T32** — Cap. XII *De magistratu politico* + Cap. XV *De liberis+parentibus+servis* + Cap. XVI closing death chapter (ln 63188–69119, ~118 pp — LARGE final tranche closing volume body; may split into T32a + T32b if unwieldy)
+- **T33** — Chapters between Cap. XII and Cap. XVI (marriage/family/children, ln ~65070-67594, ~50 pp) + Cap. XVI *De officiis dominorum ac servorum* (ln 67595-69119, ~30 pp) — total ~80 pp closing volume body
 
 Chapter titles in remaining book (approximate, from running headers + content):
 - Cap. VI — Ordination of ministers (ln 57534)
@@ -57,7 +56,7 @@ Book ends at ~ln 69119 with **AMEN body-doxology** on physical p. 1109. Back mat
 ## Where the files are
 
 - **OCR source**: `sources-original/balduin-casibus-1628.txt` (75,390 lines from PyMuPDF extraction; use `sources-original/extract.py` to re-extract if ever needed).
-- **Translation MD** (append here): `review/balduin-casibus-conscientiae-1628.md` — currently ~T31 in length (~13,600 lines). Append T32 by replacing the *[T31a pickup / VOLUME REMAINING]* placeholder block at the end.
+- **Translation MD** (append here): `review/balduin-casibus-conscientiae-1628.md` — currently ~T32 in length (~15,700 lines). Append T33 by replacing the *[T32 pickup / VOLUME REMAINING]* placeholder block at the end.
 - **Build machinery** (for Stage 5): `build-shareable.ps1`, `update-fields.py`, `reference-balduin-casibus.docx` — Kirchner-precedent pipeline.
 - **Notes**: `notes.md` (source-plan, tranche-plan, structural map).
 
@@ -96,13 +95,13 @@ This book has **multiple re-set signature reprints**. Confirmed duplicates so fa
 
 ## First actions in new chat
 
-1. Read the memory `reference-balduin-casibus-handoff-2026-09-18.md` for full T2–T31 context.
-2. Read the last ~50 lines of `review/balduin-casibus-conscientiae-1628.md` to see the T31 close + T32 placeholder block.
-3. Read OCR `sources-original/balduin-casibus-1628.txt` ln 63188 onward to identify Cap. XII-XVI Casus boundaries (whole rest of body).
-4. Draft T32 (Cap. XII through XVI, ~118 pp) — may split into T32a + T32b if unwieldy — replace T32 placeholder, commit with terse message.
-5. Update handoff memory `reference-balduin-casibus-handoff-2026-09-18.md` with T32 summary. If T32 closes body: mark VOLUME BODY COMPLETE and move to Stage 4 (KJV audit pass) + Stage 5 (Reedsy build).
+1. Read the memory `reference-balduin-casibus-handoff-2026-09-18.md` for full T2–T32 context.
+2. Read the last ~50 lines of `review/balduin-casibus-conscientiae-1628.md` to see the T32 close + T33 placeholder block.
+3. Read OCR `sources-original/balduin-casibus-1628.txt` ln 65070 onward + running-header inspection to identify actual chapter boundaries and titles.
+4. Draft T33 (~80 pp) end-to-end covering all remaining chapters, replace T33 placeholder, commit with terse message.
+5. Update handoff memory `reference-balduin-casibus-handoff-2026-09-18.md` with T33 summary. If T33 closes body: mark VOLUME BODY COMPLETE and move to Stage 4 (KJV audit pass) + Stage 5 (Reedsy build).
 
-**Volume estimate to close:** 1 more tranche (T32 alone or T32a+T32b) then Stage 4 (KJV audit pass) + Stage 5 (Reedsy build). Follow **Symbolorum 1577** (most recent close) and **Methodica 1595** (canonical build pipeline) as closest precedents.
+**Volume estimate to close:** 1 more tranche (T33) then Stage 4 (KJV audit pass) + Stage 5 (Reedsy build). Follow **Symbolorum 1577** (most recent close) and **Methodica 1595** (canonical build pipeline) as closest precedents.
 
 ## Source metadata
 
