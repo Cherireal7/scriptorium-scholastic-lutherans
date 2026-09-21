@@ -9527,29 +9527,23 @@ Either the-treatment is of-*Pontifical* ministers or *priests*, — who in-*priv
 
 **In-the-manner therefore in-which a *physician* — even-if in-doctrine and-experience excellent** — even-in-his-own-disease, — *not-only his-own-judgment follows*, — but from-another *physician medicine receives*: — so a *Theologian* also *most-learned* from-another of-the-ministers of-the-Church, — whom he-has, — the *sacred-coena to-seek more-safely must*, — than to-himself to-give, — lest the *ministry-of-the-Holy-Spirit* — he-himself by-his-own-deed contemn seem.
 
-### Casus VIII. What is-to-be-determined of-that minister-of-the-church, — who perhaps in-consecration *some word* omits
+### Casus VIII. What is to be determined of a minister of the Church who in consecration omits some word
 
-*Reply.* This-deed by-some is-excused when — not from-*place-of-him is*, — but from-*too-much attention of-minister* as-if-*to-another-place-transferred*, — and-then, — that he-said or-did *he-does-not-observe*. Usual indeed rule-is: *for-*sin *not-to-be-held*, — *fluent-in-will*, — *thought*.
+*Reply.* This deed is by some excused when the omission does not proceed from lack of attention in the minister as such, but from the *too-much attention* of the minister transferred as it were elsewhere — with the result that he does not observe what he says or does. The usual rule is: *not to be held for sin what happens with a will that flows, — with the thought elsewhere*.
 
-**But-questionable is** — of-how-much-force is in-this excusation. For in-all actions, — even in-those-which *religion-touch*, — *due moderation of-attention is-to-be-adhibited*. In-the-manner in-which too-*severe towards law is-strictness in-Micha* (Judg 17-18) *nimia towards-Paul is-observance in-Peter* (Gal 2:11) is-reprehended: — thus even *too-attention-lax is-to-be-blamed* in-treating-of-sacred-things: — for it-not-only ought-to-happen or-of-what-loco-us or-suggestion-of-fantastic — that-either we-act-or we-speak in-things-divine.
+**But it is questionable** how much force this excuse has. For in all actions — even in those which touch religion — a *due moderation of attention* must be applied. Just as too-severe strictness toward the law in Micah (Judg 17–18) and Peter's over-observance rebuked by Paul (Gal 2:11) are censured, so also *too-lax attention* is to be blamed in the handling of sacred things: for it ought not merely by chance or by wandering fancy that we act or speak in divine things.
 
-**And-this-is *true-attention*** — which the-*divine-thing well-weighs*, — and-to-with-*true-conscience treats*.
+**True attention** is that which well weighs the divine thing and treats it with true conscience.
 
-**Then-that-axiom, — *for-sin not-to-be-had, — what-not-happens with-will-conformed*, — in-things-political has-force**, — where-*cogitation-about-something-else-*with-nobody-harms*, — in-things-spiritual however, — and-especially in-*distribution of-sacred-things* — no-place-has. — For also *sins-of-ignorance and-youth* are-punished-in-Scripture (Lev 4:2; Ps 25:12; Ps 19:12-13). — Who-therefore *distributes-Sacrament*.
+**And that axiom** — *not held for sin what does not happen with conformed will* — holds in political matters, where thought about another thing harms no one. But in spiritual matters, and especially in the dispensing of sacred things, it has no place. For *sins of ignorance and youth* are punished in Scripture (Lev 4:2; Ps 25:12; Ps 19:12–13). Whoever therefore distributes the Sacrament:
 
-**(1) *Contrary to institution of Christ*** — sins, — whether-by-slip-of-tongue, — whether-by-inadvertence he-does: — but-if he-added *desire-to-purpose designated*, — the-sin-graver was, — and-of-greater-penalty *worthy*, — because *voluntary-was*.
+**(1) sins *against the institution of Christ***, whether by slip of tongue or by inadvertence he does it — but if he added *desire and set purpose* to the omission, then the sin was graver, and worthy of greater penalty, because voluntary.
 
-**Then the *omission of-word-of-institution* in-the-very-act of-Eucharist grave-is sin**, — and-*condemnation-worthy* — (1) because he-*violates the-institution-of-Christ*, — of-which good-substance came-those-words.
+**(2) The omission of the word of institution in the very act of the Eucharist is a grave sin**, and worthy of condemnation, for (1) he violates the institution of Christ, of whose substance those words are part; (2) the other part of the sacramental elements is not consecrated — that is, not separated by the institution of Christ, for it is that word which is the vehicle of the mystery — leaving the element a naked element; (3) the dispensation of the Sacrament is not a private action, where error can be easily and without scandal corrected, but a public one pertaining to the whole Church, which gathers in the same place at the prayer of the Sacrament: where, if something happens otherwise than as it ought, it is not without maximum scandal in the face of the congregation; (4) this deed is either inexcusable temerity or a light drowsiness. In the dispensation of sacred things, religious attention is required not only of the communicants but also of the dispensers.
 
-**(2) The-other-part of-*sacramental-elements* is-not-consecrated**, — that-is, — with-institution-of-Christ *is-not-separated*: — for that vehicle is-of-the-mystery, — but *remains-naked-element*.
+**Which things being so**, there is no doubt that such a pastor is worthy of grave penalty. Above all, he must himself flee to God, whose sacrament he profaned; then to the Church, which he not lightly offended; third, he must seek pardon from God and Church; fourth, obedience to his own pastor, however mild, must be shown; and if he more often lapses into this, he is to be punished by total removal.
 
-**(3) The-dispensation of-the-Sacrament is-not a-*private-action***, — where error easily and-without-scandal to-be-corrected can, — but *public to-the-whole church pertaining*, — which in-the-same-place at *prayer of-the-Sacrament comes-together*, — where-if not-*without-maximum-scandal in-face-of-them* something *otherwise-happens than as-ought parts*.
-
-**(4) This-deed either of-*inexcusable temerity is***, — or of-lightsome *drowsiness*. In-*dispensation however of-sacred-things not-only of-communicants*, — but-also-of-*dispensers-of-them*, — in-*religious-attention required*.
-
-**Which-things-so-are** — doubt none-is, — that-such-a-pastor of-grave-penalty *worthy is*: — before-*all-however he-himself before God should-flee*, — whose *sacrament he-profaned*, — then-of-the-church, — which not-lightly he-offended, — third *pardon from God and church he-should-seek*, — fourth by-*obedience of-pastor of-his-own*, — how-*mild-be*, — if-*more-often to-this-lapses* — of-total-*removal be-punished*.
-
-**The Church however to-be-admonished is**, — lest that-deed to-whole-they-impute-ministry, — as-*man's-heart to-scandal much-inclined tends*: — therefore *most-be moved with-diligence and-serious-of-cause of-ministry-should-take*, — lest in-any-way in-word or-in-deed *heard should-offend*. — *Faithful indeed teacher of-church edifies, — as-much-as by-prayers Deum implorat*.
+**The Church however must be admonished** not to impute this deed to the whole ministry (for the heart of man is much inclined to scandal). Rather, the ministers must with all diligence and serious care take up their office, lest by any word or deed they offend the hearers. For the *faithful teacher of the Church edifies as much by prayers to God as by preaching*.
 
 ```{=openxml}
 <w:br w:type="page"/>
