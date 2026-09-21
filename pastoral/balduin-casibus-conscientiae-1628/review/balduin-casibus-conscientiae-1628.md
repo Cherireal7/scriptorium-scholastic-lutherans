@@ -10890,23 +10890,21 @@ Wherefore it is worth while for servants to know how they ought to bear themselv
 - **Seventh, watch the mores of servants**: for according to Sirach's proverb (Sir 19:16), *external composition indicates the disposition of the soul: gait of the man, laugh of the teeth, and step of his shoes indicate what kind he is*.
 - **Eighth, correct servants of corrupt morals with words and rod**, so that they may amend: as Solomon: *A whip for the horse, a bridle for the ass, and a rod for the fool's back.* (Prov 26:3). If by these means they are not amended, expel them from the house, — since it is probable that a servant driven from your house will lead a more licentious life outside.
 
-### Casus III. How far masters are bound in every action of servants
+### Casus III. In what actions of servants a master is bound; and in what he is not
 
-*Reply.* Ancient Romans had *ius vitae ac necis* over servants, whom they took captive in war by *ius gentium*. As pleased them, so they exercised authority.
+*Reply.* The ancient Romans indeed had a *ius vitae ac necis* over servants — whom they took captive in war by *ius gentium* — and used it against nature. As it pleased them, so they exercised authority; for masters domineered over servants as over beasts of burden. Wherefore later, through the constitutions of emperors, this was much amended: especially by the constitution of the Emperor *Antoninus*, whereby he who without cause killed his own servant was punished with the same penalty as if he had killed another's servant or his neighbor's.
 
-This right the later posterity judged against nature, since masters domineered over servants as over beasts of burden. Later, through constitutions of emperors, it was much amended: especially the constitution of *Antoninus*, whereby he who without cause killed his own servant was punished with the same penalty as if he had killed another's or his neighbor's.
+Others enacted that masters ought not to be too immoderate against their servants, nor treat them beyond measure inhumanely: — else the servants could bring action against them before the civil judge.
 
-Others enacted that masters should not deal too cruelly with servants nor treat them beyond measure inhumanely: — else servants could bring action against them before the *iudex civilis*.
+All these are consonant with divine law. For *Sirach* (Sir 33:29–31) prohibits harshness of masters against servants: *treat him not as a beast of burden; as if he were a brother in Christ, use him as thyself*. And the more familiar one is with another in domestic conversation, the graver the injury inflicted: for domestics are members of one body, which no one can injure without wounding himself.
 
-All these are consonant with divine law. For *Sirach* (Sir 33:29–31) prohibits harshness of masters against servants. — And the more familiar the one is with the other in domestic conversation, the graver the injury done to him: for domestics are members of one body.
+**The general rule**: not every action which a servant commits binds the master. But the more this holds, when the servant acts *by the master's command or authority* — as in the mandates and ministries which he does by the master's order and threat; or if it arises for the master's *commodum*. Then the master is liable, and is punished together with the servant.
 
-**General rule**: not every action a servant commits binds the master. But so much the more this holds, when the servant acts by master's command or authority — as in mandates and ministries which he does by master's order and threat; or if in commodum of master something arises. Then master is liable.
+Thus once God enacted: *If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit. But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death; if there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him* (Exod 21:28–30).
 
-Thus once God enacted: *If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit. But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.* (Exod 21:28–29).
+If for an ox this is thus, how much more for a servant — whom the master can, to his own commodum, instigate to illicit things or to what is dangerous to another. Wherefore an evil master, who to his own advantage arouses the servant to sin, is bound *in solidum* to punishment together with the servant, — and often, if the servant sinned only in obedience, the master is more punished than the servant.
 
-If for an ox thus, how much more for a servant, whom the master to his own commodum for illicit things or dangerous to another he can instigate.
-
-But if servants unknowingly or unwillingly by master sin, no one holds another responsible — each is answerable for his own.
+But if the servants have sinned *unknown to, or unwilling to, the master*, then no one is answerable for another — each answers for his own. Yet the master must in this case likewise not neglect the household-discipline required, — for if his negligence provided the occasion of the sin, he too is not wholly free from guilt.
 
 ### Casus IV. Whether master owes servant his wage
 
@@ -10920,11 +10918,29 @@ Yet some do not owe wages:
 
 If, however, servant was hired at fixed price for fixed time, and in the interim for some months ails, nothing is to be withdrawn from wage: since the sicknesses are matters of chance, and through no fault of his — so long as through the servant it does not stand that duties in whole time were not performed, all the time contracted must be paid.
 
-### Casus V. Whether a mild master retains servants
+### Casus V. What master a Christian master owes to keep toward his servants
 
-*Reply.* Out of controversy, that a good master exercises gentle authority. Yet mildness must not turn into indulgence. Servants must fear reverence; masters must be gentle but not remiss. — Where a master is truly good, servants attach themselves willingly. But if servants abuse his goodness, sharper discipline is needful, lest license destroy the family.
+*Reply.* Beyond controversy is it, that a Christian master exercises gentle authority; a *discreta severitas* — discreet severity — mixed with mildness moderates good masters. Yet the mildness must not turn into indulgence: servants must retain fear-reverence, and masters must be gentle but not remiss.
 
-*Discreta severitas* — discreet severity — with gentleness is the moderator of masters: this is well shown in Job (31), where he treats his servants and handmaids with piety, hearing them, as those made from same clay by same Creator.
+When a master is truly good, servants attach themselves willingly to him and serve with a hilarious mind. But if servants abuse his goodness, sharper discipline is needed, lest license destroy the family.
+
+*The example of Job* is illustrious (Job 31:13–15): *if I did despise the cause of my manservant or of my maidservant, when they contended with me — what then shall I do when God riseth up? and when he visiteth, what shall I answer him? Did not he that made me in the womb make him? and did not one fashion us in the womb?* — Whence Job treats his servants and handmaids with piety, hearing them, and considering them as made from the same clay by the same Creator.
+
+Similar was the humaneness of *Abraham*, who called his eldest servant to great counsels (Gen 24); and of *Boaz*, who saluted his reapers with a divine benediction (Ruth 2:4). — The master fearing God will render his household happy; the fearless master will destroy his own house together with his servants.
+
+**Practical rules for the mild master**:
+
+(1) Not to indulge servants in sin, but to correct with the rod and with words those of corrupt morals (Prov 26:3).
+
+(2) Not to require of them what exceeds their strength, or what is against God or good morals.
+
+(3) To render them their wages in due time, and not to defraud (James 5:4: *the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth*).
+
+(4) To care for them in sickness, and not to cast them out in weakness (as the master of the Amalekite in 1 Sam 30:13).
+
+(5) To rear them in piety, so that in their servile condition they still serve God — for masters bear a share of responsibility for the eternal salvation of those set under them (Eph 6:9).
+
+Thus, the master who fears God will preserve mildness with gravity, gentleness with due severity, care with authority; and by these means will not only retain his servants, but also form them into pious and obedient members of his household.
 
 ```{=openxml}
 <w:br w:type="page"/>
@@ -10999,13 +11015,23 @@ Let such advocates take heed who persuade this inhumanity to their clients: into
 
 Rather **overcome evil with good**, and that you may with tranquil mind approach the sacred and awesome table, salute your enemy, — perchance you may thus move him to lay aside all wrath and rancor of affect, and bind him to you by your humanity — which surely is a most salutary and worthy office of a good Christian, and by which we accumulate coals of fire on the head of the enemy (Prov 25:22).
 
-### Casus V. How reconciliation with an offended neighbor takes place
+### Casus V. How reconciliation with an offended neighbor is to be undertaken
 
-*Reply.* Reconciliation is a most Christian and pertains to grace with God, — as Christ willed us to ask remission of our sins from God, likewise asking us to remit to the neighbor whatever offense he committed against us (Matt 6:12). — *Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee; Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.* (Matt 5:23–24).
+*Reply.* Reconciliation is a most-Christian matter, and pertains to grace with God, — as Christ, when he willed us to ask remission of our sins from the Father, likewise willed us to remit to the neighbor whatever he committed against us (Matt 6:12): *forgive us our debts, as we forgive our debtors*. Similarly (Matt 5:23–24): *therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the altar, and go thy way, first be reconciled to thy brother, and then come and offer thy gift*.
 
-Reconciliation presupposes offense. If only one party has offended the other, that party alone is bound to seek reconciliation — that is, the offender should approach him, and ask pardon, as taught by *Christ* (Matt 5). — Unless the offended is absent: then interior reconciliation in mind suffices — or testimony before others that ready to seek pardon.
+Reconciliation presupposes offense. If only one party has offended, that party alone is bound to reconciliation — that is, he must approach the offended and ask pardon, as taught by Christ (Matt 5). — Unless the offended be absent, so that he cannot be spoken to: then it suffices that in the mind there be a certain inward reconciliation, or a testimony before others that one is ready to seek pardon.
 
-If offense is mutual, he who first offended must begin reconciliation, — provided all things are equal on side of persons and gravity of delict. Otherwise, if the second-offender is gravier delinquent, or the offended is of superior condition, — he who is later and of nobler condition may nevertheless take initiative in reconciliation, if the other is somewhat difficult toward reconciliation: — in this imitating the heavenly Father, who is most noble, and is offended by us, yet always initiates reconciliation, — nay, that we may be reconciled, *bonarum artium usui* himself invites us.
+If the offense be mutual, then he who *first* offended must first take up reconciliation, provided all things are equal on side of the persons and gravity of the delict. But if the second-offender's delict is graver, or the person offended is of nobler condition, — he who later offended and is of a nobler condition ought nevertheless to begin the reconciliation first, if the other is somewhat more difficult toward reconciliation, whether from the graver deed done or from a nobler condition of the person offended. — In this we imitate the heavenly Father, who though most noble, and though offended by us, yet always takes the initium of reconciliation, — nay, that we may be reconciled, he by good arts himself invites us.
+
+*The Apostle's admonition* (Rom 12:18): *if it be possible, as much as lieth in you, live peaceably with all men*. And (Eph 4:26): *let not the sun go down upon your wrath*. — He who postpones reconciliation, gives place to the devil in his own heart.
+
+**Two things to shun in reconciliation**:
+
+(1) *That we do not, from the pretense of reconciliation, indulge the sinner in his sin*, but seek to bring him back to the way of piety and truth. It is not enough that we bear no more anger toward him: we must also, if it be in our power, admonish him of his fault, that he may know how far he departed from us.
+
+(2) *That we not, from the pretense of reconciliation, admit familiar society with one who obstinately continues in sin* — since with such a one Paul forbids even to eat (1 Cor 5:11); rather charity must be reserved which effectively wills the sinner's good, though outward familiarity is withheld until repentance.
+
+Reconciliation therefore is not the mere covering-over of a wound with words of peace, but a real re-uniting of hearts in the love of Christ, with the healing of the injury by mutual forgiveness. — And where reconciliation of hearts is not to be had at all, the office of the offended party is at least to be *inwardly* reconciled and to pray for the enemy, according to the Lord's command (Matt 5:44): *pray for them that despitefully use you*.
 
 ### Casus VI. What anger is and how one may be angry with a neighbor without sin, and what is unjust anger
 
@@ -11090,13 +11116,19 @@ To *extraneos* pertain also **enemies** and even those unworthy of benefit: to t
 
 Yet if someone maliciously feigns poverty when he could work — no obligation of alms.
 
-### Casus XI. Whether in common peril a debtor is bound to repay creditor, if by not repaying he saves his own life
+### Casus XI. If a debtor and a creditor labor in extreme necessity, whether by divine right the debtor is bound to render to the creditor what he owes, and to perish
 
-*Reply.* This is discussed by the Scholastics. Some hold that a debtor must always render creditor his own; others distinguish. — **Some distinguish** between **fungible things** (as bread, other food) and **non-fungibles** (as a horse, ship). — **Fungible things**: in extreme famine, they may be retained; the debtor is bound to restitute *by equivalent* when he can. — **Non-fungibles**: as a horse or ship needed for flight, must be at once restored, since creditor has dominion in property.
+*Reply.* This question is disputed among the Scholastics. Some hold that a debtor is always bound to render to a creditor what is owed, no matter the peril; others distinguish.
 
-**Others**: even without distinction the debtor is not bound to restore the loaned thing even in extreme necessity, because (a) in extreme necessity all things become common to use (D.2 §*cum in eadem*), (b) in *communi periculo* better is the condition of possessor.
+**Some distinguish** between the *things due to the creditor* which by use are consumed (as bread and other food), and *non-fungibles* which are not consumed by use, as a horse, a ship, and similar. Concerning *fungibles*: as bread in extreme famine, they may be retained by the debtor, who is bound (when he can) to restore an equivalent to the creditor. Concerning *non-fungibles*: as a horse or ship which the creditor needs for flight, they must be restored *at once*, since the creditor still has proper dominion, and it would be all one as if the debtor were depriving the creditor of the possession of the horse or ship.
 
-**Third view (probable)**: charity begins from oneself. No one ever hated his own flesh. If one placed in extreme peril, having ready-to-hand a thing (though received from creditor), and if not using it he would perish, he would seem to injure himself. — But if the debtor escapes the peril, he is bound to restore what he took, if not the same then something equivalent in price. — And beyond that, in place of thanksgiving, something additional he owes, since life of man surpasses all other goods.
+**Others hold that without any such distinction the debtor is not bound to restore the loaned thing** even in extreme necessity, because (1) in extreme necessity all things become common as to use (*D.2 § cum in eadem*, *l. sciendum*, *ff. de furtis*); (2) *in common peril the condition of the possessor is better*. Wherefore, even if the thing be received from the creditor, in extreme necessity it becomes common as to use, and can without sin be usurped from the debtor in his own peril.
+
+**This reason seems probable, because *charity begins from itself*, and no one ever hated his own flesh**; but if one placed in extreme peril and having ready to hand a thing (though received from the creditor) would not use it and so would perish, he would seem to inflict injury on himself. And this holds whether the thing be of that kind which by use is consumed, or not.
+
+But if the debtor come out of that peril, then he is bound to restore what he took, if not the same, then something equivalent in price. — And besides that, in place of thanksgiving, he owes something additional, since the life of man surpasses all other goods. *A hilarior giver God loves*: the *hilarior taker* ought no less to give back with grace than he received in necessity.
+
+But if the debtor, having emerged from the peril, cannot restore neither the same nor something equivalent, then rest-assured that his conscience is to be consoled — the *creditor* now becoming *ceu iam mercedibus receptor* through his mercy shown, and reckoning what was given as an *opus caritatis*, of which more anon.
 
 ### Casus XII. Whether one who has given alms may demand back what he gave
 
