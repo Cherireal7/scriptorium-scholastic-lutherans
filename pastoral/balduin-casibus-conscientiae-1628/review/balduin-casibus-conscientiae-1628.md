@@ -11155,3 +11155,2046 @@ Wherefore *simulatio* in things useful to neighbor, — as *Rebecca*'s bringing 
 **JESUS CHRIST**, *who by his blood cleanses our consciences from dead works, that we may serve the living God, direct all our discourses and works, that they may be pleasing to him*: **and preserve us also from all evils, both present and coming, and let us stand before the Son of Man: to whom be honor, glory, and empire, forever and ever.** 
 
 **AMEN.**
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+# Index I. Scripture Citations
+
+*References give the location within the volume as L.C.S — Liber (I–IV), Chapter (I–XVIII in Liber IV, etc.), Casus. Where no Casus is listed, the citation falls in the chapter preamble or general discussion.*
+
+## Genesis
+
+- **1:2** — II.II
+- **1:16** — II.II
+- **1:26** — II.II
+- **1:28** — IV.XII.XVI
+- **1:29** — II.XIV
+- **1:31** — II.IV, III.II
+- **2:2** — II.IV, II.XIII
+- **2:3** — III.VI
+- **2:17** — II.IV, III.IV
+- **2:18** — IV.XIII.XI
+- **2:25** — IV.I.III
+- **3:1** — III.II
+- **3:5** — II.II
+- **3:7** — IV.I.III
+- **3:15** — III.VII
+- **3:18** — II.XIV
+- **3:19** — IV.II.VII
+- **3:22** — II.II
+- **4:8** — III.II
+- **6:5** — II.VIII
+- **7:2,8** — II.XIV
+- **9:2** — IV.XII.XVI
+- **9:3** — II.XIV
+- **9:6** — I.III, II.IV
+- **9:22** — IV.XVI
+- **9:25** — II.VII
+- **11:7** — II.II
+- **14:14** — IV.I.XIII, IV.XII.I, IV.XII.X
+- **14:22** — II.IX
+- **15:13** — III.IV
+- **17:10** — II.XI
+- **17:12** — IV.VIII.VIII
+- **18:14** — II.III
+- **18:17** — III.I
+- **18:27** — II.V
+- **18:32** — IV.X.X
+- **19:1** — III.I
+- **19:11** — III.I
+- **19:24** — II.II
+- **21:7** — IV.XIV.III
+- **21:23** — II.IX
+- **22:16** — II.IX, III.V
+- **22:17** — III.IV
+- **23:16** — IV.III.VII
+- **24:2** — II.IX
+- **24:3** — III.VII
+- **24:7** — IV.XII.XII
+- **24:14,15** — III.VI
+- **25:21** — IV.XIII.XI
+- **26:31** — II.IX
+- **27:5** — IV.XII.XVI
+- **27:34** — III.IV
+- **28:22** — II.VIII
+- **31:41** — II.VI
+- **31:53** — II.IX
+- **32:1** — III.I
+- **33:19** — IV.III.VII
+- **34:22** — II.II
+- **34:25** — IV.II.VI
+- **39:4** — II.VI
+- **42:15** — II.IX
+- **42:21** — I.XV
+- **44:5** — III.VI
+- **47:16** — IV.III.VII
+- **47:22** — IV.XII.XIV
+- **47:29** — II.IX, III.VII
+- **48:14** — IV.VI.I
+- **48:15** — III.I
+- **49:1** — III.VI
+- **49:10** — II.IV
+- **49:11** — II.IV
+- **50:24** — III.IV
+
+## Exodus
+
+- **1:19** — IV.XVII.XVIII
+- **4:1** — IV.V.VII
+- **4:11** — II.II, II.XII
+- **4:25** — II.XI
+- **7:1** — IV.XII.I
+- **8:18** — II.IV, III.V
+- **8:19** — II.I
+- **9:16** — II.III
+- **9:22** — III.V
+- **12:8** — II.XII
+- **12:18** — III.V
+- **12:29** — III.I
+- **14:15** — II.VII
+- **16:23** — II.XIII
+- **17:15** — IV.XII.X
+- **18:21** — IV.XII.VI
+- **20:2** — II.V
+- **20:3** — II.II, II.V
+- **20:5** — II.III
+- **20:7** — II.IX
+- **20:8** — II.X
+- **20:8,10,25** — II.XIII
+- **20:10** — II.XIII
+- **20:23** — II.V
+- **20:24** — II.VII, II.X
+- **21:22** — IV.XII.V
+- **21:28-29** — IV.XVI.III
+- **22:2-3** — IV.I.XIII, IV.I.XIV
+- **22:11** — II.IX
+- **22:18** — III.V
+- **22:24** — IV.XII.X
+- **22:25** — IV.III.IV, IV.III.V
+- **22:26-27** — IV.III.V
+- **22:28** — II.IX
+- **23:2** — I.IX
+- **23:7** — IV.XII.VI
+- **23:13** — II.IX
+- **23:20** — III.I
+- **24:5** — III.III
+- **25:8** — II.X
+- **26:3** — IV.XV
+- **31:13-17** — II.XIII
+- **31:14-15** — II.XIII
+- **31:16-17** — II.XIII
+- **32:19** — IV.XVII.VI
+- **33:23** — II.II
+- **34:16** — IV.XIV.VIII
+- **34:24** — II.X
+
+## Leviticus
+
+- **8:10** — IV.VI.I
+- **16:8** — III.VI
+- **17:7** — III.II
+- **18:21** — II.VIII
+- **19:12** — II.IX
+- **19:20** — II.XII
+- **19:28** — IV.I.VII
+- **19:31** — III.V
+- **20:6** — III.V
+- **20:8** — II.XIII
+- **20:14** — III.V
+- **20:22** — II.VIII
+- **20:27** — III.V
+- **23:29** — II.XIV
+- **23:38** — II.XIII
+- **24:12,23** — II.XIII
+- **26:36** — I.XI
+
+## Numbers
+
+- **5:19** — III.VII
+- **8:10** — IV.VI.I
+- **8:25** — IV.IV.I
+- **12:14** — II.VII
+- **14:14** — II.X
+- **16:46** — II.VII
+- **22:8** — III.VI
+- **25:5** — IV.XII.III
+- **25:8** — IV.XII.III
+- **25:9** — IV.II.VI
+- **28:9-10** — II.XIII
+- **30:4** — II.IX
+- **30:4,6,8,11** — II.IX
+- **30:5** — IV.XIV.VIII
+- **30:6** — II.VIII
+
+## Deuteronomy
+
+- **1:17** — IV.XII.V
+- **4:2** — II.I
+- **4:16** — II.II
+- **5:29** — II.V
+- **6:5** — II.V
+- **6:7** — II.XIII
+- **6:13** — II.V
+- **7:1-16** — IV.XII.X
+- **7:3** — IV.XIV.VIII
+- **8:3** — II.XIV
+- **10:20** — II.V
+- **12:8** — IV.III.I
+- **12:9** — IV.IV.IX
+- **13:1** — III.II, IV.XII.X
+- **13:1-5** — III.II
+- **13:3** — III.II
+- **13:11** — IV.VII.II
+- **14:29** — IV.X.V
+- **15:4** — II.VIII, IV.IV.IX
+- **15:7-8** — IV.XVII.IX
+- **16:16** — III.V
+- **16:18** — IV.XII.VII
+- **16:19** — IV.XII.IX
+- **17:3,4** — II.VII
+- **18:10** — III.V, III.VI
+- **18:10-11** — III.V, III.VII
+- **18:11** — II.VII
+- **19:15** — II.XI
+- **20:2** — IV.XII.X
+- **20:5-8** — IV.XII.X
+- **20:8** — IV.XII.X
+- **20:14** — IV.XII.XII
+- **20:19** — IV.XII.X
+- **21:18** — II.XIII
+- **21:18-21** — IV.XIV.V
+- **21:23** — II.V
+- **22:5** — IV.I.I
+- **22:22** — II.XIII
+- **23:2** — IV.XIV.VII
+- **23:15,17** — IV.IV.IX
+- **23:18** — I.VII, II.VIII, IV.XII.XVII
+- **23:19** — IV.III.IV
+- **23:21-23** — II.VIII
+- **24:14-15** — IV.III.II
+- **24:16** — II.IV, IV.XVII.VIII
+- **25:1** — IV.XII.V
+- **25:13** — IV.III.VII
+- **27:25** — IV.XII.IX
+- **27:26** — II.V, II.IX
+- **28:21-22** — III.II
+- **28:65** — I.XI
+- **29:29** — IV.I.XII
+- **30:19** — IV.X
+- **32:34** — II.VII
+- **32:35** — IV.I.XII
+
+## Joshua
+
+- **1:2** — IV.XII.I
+- **7:1** — IV.XII.X
+- **7:11** — IV.XII.X
+- **7:18** — III.VI
+- **7:19** — IV.I.XII
+- **9:19** — II.IX
+- **10:12** — II.IX
+- **18:8** — IV.V.VI
+
+## Judges
+
+- **3:19-20** — IV.XII.III
+- **6:11** — III.I
+- **6:17** — IV.V.VII
+- **7:13** — III.VI
+- **11:2** — IV.XV.III
+- **11:31** — II.VIII
+- **13:3** — III.I
+- **13:6** — III.I
+- **14:2** — IV.XIV.VIII
+- **16:19** — IV.II.VI
+- **16:30** — III.IV
+- **20:26** — II.VII, II.XIV
+
+## 1 Samuel
+
+- **1:10** — II.VII
+- **1:11** — II.VIII
+- **7:17** — IV.V.X
+- **10:2,10** — III.VI
+- **12:3** — IV.XII.IX
+- **12:23** — II.VIII
+- **14:6** — II.XI, IV.XII.X
+- **14:9** — III.VI
+- **14:24** — III.VII
+- **14:41,42** — III.VI
+- **15:11** — II.X
+- **15:24** — IV.X.II
+- **16:7** — II.V, II.VII, III.II
+- **16:13** — IV.XII.I
+- **18:8** — III.III
+- **19:13** — IV.I.II
+- **20:3** — III.IV
+- **21:14** — IV.I.I
+- **22:1** — IV.XV.I
+- **28:11** — III.VII
+- **28:14** — III.II
+- **28:15** — III.II
+- **28:20** — III.I
+- **28:21** — III.I
+- **30:11-16** — IV.XVI.II
+
+## 2 Samuel
+
+- **2:14-15** — IV.I.XI
+- **3:8** — II.VII
+- **3:35** — II.XIV
+- **8:5** — IV.XII.X
+- **10:4** — IV.XII.X
+- **12:9-10** — IV.II.II
+- **12:13** — IV.X.II
+- **12:14** — II.XIV
+- **12:17** — II.XIV
+- **12:17,20** — II.XIV
+- **13:5** — IV.XIV.VIII
+- **14:20** — III.I
+- **15:6** — II.II
+- **15:20** — IV.XV
+- **15:31** — II.VII
+- **19:23** — II.IX
+- **19:37** — IV.IV.I
+- **21:1** — II.IX
+
+## 1 Kings
+
+- **1:26** — II.II
+- **2:9** — II.IX
+- **2:27** — IV.XII.XIII
+- **3:14,18** — II.III
+- **3:16** — IV.XII.XVII
+- **8:22** — II.VII
+- **8:39** — III.VII
+- **13:2** — IV.XI.V
+- **18:17** — IV.VII.II
+- **18:25** — IV.VII.II
+- **18:28** — IV.I.VII
+- **19:4** — II.V, II.VII
+- **19:18** — II.V
+- **20:37** — IV.I.X
+- **21:5** — IV.VII.VI
+- **21:23-24** — IV.XI.V
+- **22:6** — II.II
+- **22:22** — III.II
+
+## 2 Kings
+
+- **1:3** — III.I
+- **1:6** — III.V
+- **3:7** — IV.XII.X
+- **3:15** — III.VI
+- **4:30** — II.IX
+- **4:38** — IV.V.X
+- **5:18** — II.VI, II.X
+- **6:18** — III.I, III.V
+- **7:6** — III.I
+- **9:30** — IV.I.V
+- **9:33** — IV.I.V
+- **9:35** — IV.XI.V
+- **14:6** — II.IV
+- **16:14-15** — IV.XI.II
+- **17:24** — II.VI
+- **19:35** — III.I
+- **20:1** — II.VII
+- **23:16** — IV.XI.V
+- **25:12** — IV.VII.VI
+
+## 1 Chronicles
+
+- **12:8** — III.VI
+- **17:16** — II.VII
+- **25:8** — II.VII
+- **28:9** — II.V
+- **29:14** — IV.III.II, IV.III.IX
+- **29:23** — IV.XII.I
+
+## 2 Chronicles
+
+- **6:20** — II.VII
+- **15:2** — II.V, II.VI
+- **19:6** — IV.XII.V
+- **19:6-7** — IV.XII.VII
+- **19:11** — IV.IV
+- **20:12** — II.VII
+- **21:19-20** — IV.XI.V
+- **26:18** — IV.IV.II
+- **32:31** — III.IV
+
+## Nehemiah
+
+- **1:4** — II.XIV
+- **8:10** — II.XIII
+- **13:16-17** — II.XIII
+
+## Esther
+
+- **2:10** — II.I
+- **2:12** — IV.I.VI
+- **4:16** — II.XIV
+- **14:16** — IV.I.V
+
+## Job
+
+- **1:6** — III.II
+- **3:1-4** — III.IV
+- **3:13** — II.XI
+- **5:1** — III.I
+- **6:15** — I.XVI
+- **7:1** — III.IV
+- **7:12** — IV.II.VIII
+- **9:28** — I.XII, III.IV
+- **10:8** — II.XI
+- **15:14** — II.III
+- **15:15** — III.VI
+- **27:6** — I.XI, I.XII
+- **28:26** — III.V
+- **31:1** — IV.I.III
+- **31:14** — IV.II.II
+- **31:31** — II.XII
+- **33:4** — II.II
+- **38:28-29** — III.V
+- **38:35** — III.V
+- **40:4** — II.V
+- **40:5** — II.II
+- **41:25** — III.I
+
+## Psalms
+
+- **2:7** — II.II
+- **2:11** — I.XII
+- **6:10** — II.VII
+- **7:10** — III.II
+- **8:2** — II.VII
+- **11:4** — III.I
+- **13:1** — III.IV
+- **15:5** — IV.III.IV
+- **16:8** — I.XVI, III.VII
+- **18:34** — II.V
+- **19:9** — II.X
+- **19:12** — II.VII, IV.X.III
+- **19:12,13** — II.XII
+- **19:14** — III.IV
+- **22:6** — IV.II.IV
+- **22:10** — II.XI
+- **25:1** — II.VII
+- **25:7** — III.IV
+- **26:6** — II.VII
+- **27:1** — II.V
+- **30:6** — IV.II.VIII
+- **31:15** — IV.I.XII
+- **31:16** — III.IV
+- **32:5** — IV.X.II
+- **32:6** — II.VII, III.IV
+- **33:6** — II.II, II.IV
+- **34:8** — II.X, III.VII
+- **34:11** — IV.II.VII
+- **34:20** — III.VII
+- **35:1-2** — II.VII
+- **35:13** — II.VII, II.XIV
+- **37:3-5** — II.V
+- **37:4** — IV.II.VI
+- **37:35-36** — IV.II.IV
+- **39:4** — III.IV, III.VI
+- **39:10** — III.IV
+- **40:12** — IV.X.III
+- **42:1** — II.VII, II.X
+- **45:2** — II.IV
+- **45:3-4** — I.XVI
+- **45:6** — IV.V.V
+- **45:10** — IV.X
+- **49:6** — II.VI
+- **49:8** — II.II
+- **50:7** — II.X
+- **50:15** — II.V, II.VII
+- **51:5** — II.III, II.IV, II.XI
+- **51:6** — II.II
+- **51:10** — I.I
+- **51:19** — II.VII
+- **55:17** — II.VII
+- **55:22** — II.V
+- **55:23** — II.X, III.IV, IV.II.VIII
+- **56:9** — III.IV
+- **56:11** — II.V
+- **58:11** — II.VII
+- **59:11** — II.VI
+- **62:9** — II.V
+- **62:10** — II.V, II.X
+- **62:11** — III.IV, IV.III.I
+- **65:5** — II.II
+- **66:7** — II.IV
+- **66:13** — II.VIII
+- **68:12** — IV.X
+- **68:31** — IV.XII.X
+- **69:4** — II.IV
+- **69:29** — II.VII
+- **72:18** — III.II
+- **73:16** — II.III
+- **73:28** — II.V
+- **75:8** — III.IV
+- **76:3** — I.XVI
+- **76:10** — II.III
+- **76:12** — II.II
+- **78:11** — III.I
+- **78:49** — III.II
+- **82:3** — IV.XII.VII
+- **82:6** — IV.XII.I
+- **83:17** — II.VII
+- **84:10** — II.X
+- **86:5** — II.V
+- **87:5** — IV.VIII.VIII
+- **90:2** — II.III
+- **90:10** — III.IV
+- **90:12** — III.IV
+- **91:1** — III.II
+- **91:2** — II.V, III.V
+- **91:11** — III.I, III.II
+- **91:11-12** — III.VII
+- **94:2** — II.VII
+- **94:8-10** — I.XVI
+- **96:5** — III.II
+- **100:2** — II.X
+- **103:9** — III.IV
+- **103:20** — III.I
+- **104:15** — II.XII
+- **106:37** — IV.I.VII
+- **107:18** — III.II
+- **108:8** — II.VII
+- **110:1** — II.II
+- **110:4** — II.III
+- **111:3** — IV.III.I
+- **113:8** — III.IV
+- **116:10** — IV.II.I
+- **116:15** — III.IV
+- **118:8** — II.V
+- **119:9** — IV.II.II
+- **119:11** — II.X
+- **119:31** — II.V
+- **119:50** — II.X
+- **119:59** — II.X
+- **119:68** — II.III
+- **119:82** — III.IV
+- **119:105** — III.IV
+- **121:2** — III.V
+- **121:4** — II.IV
+- **122:1** — II.X, II.XIII
+- **128:1-2** — IV.II.VII
+- **128:2** — III.VI
+- **132:2** — II.VIII
+- **135:6** — II.III
+- **138:8** — II.XI
+- **139:2** — I.III
+- **139:7** — II.II
+- **139:13** — II.XI
+- **139:21-22** — IV.XVII.I
+- **143:10** — I.XVI
+- **144:1** — IV.XII.X
+- **145:16** — IV.II.VII
+- **145:19** — II.V
+
+## Proverbs
+
+- **3:6** — I.XVI
+- **3:9-10** — IV.III.II, IV.III.IX, IV.X.V
+- **3:15** — III.V
+- **4:23** — I.XIII
+- **6:5** — I.XVI
+- **6:17** — III.VI
+- **6:20** — II.VIII
+- **6:27** — IV.XII.XVII
+- **6:30** — IV.III.IX
+- **6:32** — IV.XIII.VI
+- **7:10** — IV.I.V
+- **8:13** — IV.II.II
+- **8:15** — IV.XII.I
+- **10:22** — IV.II.VII, IV.III.I, IV.III.VI
+- **11:4** — IV.III.III
+- **11:10** — IV.XVII.II
+- **11:14** — IV.XII.I
+- **12:16** — IV.II.V
+- **12:22** — I.XVI
+- **13:12** — II.V
+- **15:13** — I.XI
+- **15:15** — I.V, I.XI
+- **15:18** — IV.II.V, IV.XVII.VI
+- **15:26** — III.IV
+- **16:1,9** — III.IV
+- **16:33** — III.VI, IV.V.VI
+- **17:5** — IV.XVII.II
+- **17:15** — IV.XII.VII
+- **17:22** — III.IV
+- **17:24** — III.VI, IV.II.IX
+- **18:9** — IV.XV
+- **19:12** — II.II
+- **20:9** — II.III
+- **20:14** — IV.V.I
+- **21:1** — I.VIII
+- **21:13** — II.VII
+- **21:31** — IV.XII.X
+- **22:15** — IV.XIV.IV
+- **22:16** — IV.III.VII
+- **23:27** — IV.II.VI
+- **23:29-30** — IV.II.VI
+- **24:8** — IV.I.VII
+- **24:11** — IV.III.II
+- **24:11,12** — II.X
+- **24:17-18** — IV.XVII.II
+- **25:22** — IV.XVII.IV
+- **25:28** — IV.II.V
+- **26:3** — IV.XVI.II
+- **26:4** — II.I
+- **27:1** — I.XVI
+- **28:1** — I.XI
+- **28:12** — IV.XVII.II
+- **28:13** — III.IV, IV.X.II
+- **28:14** — I.XII, III.IV
+- **31:14** — IV.III.VII
+
+## Ecclesiastes
+
+- **3:1,4** — III.IV
+- **3:4** — IV.II.VIII
+- **4:13** — III.VI
+- **5:5** — II.VIII
+- **6:2** — IV.XVII.XIV
+- **7:9** — IV.I.XI
+- **7:14** — III.IV, IV.II.VIII
+- **7:20** — II.VII, II.VIII
+- **7:29** — II.IV
+- **8:1** — III.VI
+- **8:7** — III.VI
+- **8:8** — IV.I.XII
+- **11:3** — I.XVI
+- **11:4** — III.VI
+- **11:8** — III.IV
+- **11:9** — IV.II.VIII
+- **39:33** — II.VII
+
+## Song of Solomon
+
+- **2:4** — I.XVI
+- **2:9** — III.I
+
+## Isaiah
+
+- **1:15** — I.XIII, II.VII
+- **1:16** — II.XIII
+- **1:18** — I.X
+- **1:23** — IV.XII.IX
+- **2:3** — II.X
+- **3:18** — IV.I.VI
+- **5:6** — III.II
+- **5:20** — II.VI
+- **5:23** — IV.II.VI, IV.XII.VII, IV.XII.IX
+- **6:2** — II.VII
+- **6:3** — II.V
+- **6:8** — II.II
+- **8:2** — II.XI
+- **8:20** — III.I, III.II
+- **11:2** — II.II
+- **13:22** — III.VII
+- **19:17** — IV.X.II
+- **25:14** — III.II
+- **28:16** — II.V, IV.II.I
+- **29:8** — III.VI
+- **29:10** — II.X
+- **29:13** — IV.IV.V
+- **29:30** — II.X
+- **40:15** — II.V
+- **40:31** — I.XVI
+- **41:10** — III.VII
+- **41:22-23** — III.I
+- **41:23** — II.I, III.VI
+- **42:8** — II.V, II.VIII, III.I
+- **43:1,2** — II.XI
+- **43:12** — III.VI
+- **43:25** — IV.XVII.XV
+- **43:26** — IV.X.II
+- **44:9** — III.VI
+- **45:5** — III.II
+- **45:7** — III.II
+- **47:12** — III.VI
+- **48:11** — II.VII
+- **48:16** — II.II
+- **49:16** — III.VII
+- **49:23** — IV.V.V, IV.XII.I
+- **50:6** — II.V
+- **53:5** — II.IV, IV.X.IV
+- **53:11** — II.I
+- **54:13** — II.X
+- **56:7** — II.VII
+- **56:10** — IV.VI.V, IV.VII.V
+- **57:16** — II.III
+- **57:20** — I.XI
+- **57:21** — I.XII
+- **58:1** — IV.VII.IV
+- **58:3** — II.XIV, IV.I.VII
+- **58:6** — II.XIV
+- **58:6-7** — II.XIV
+- **58:7** — IV.III.I, IV.III.II, IV.XVII.IX
+- **58:9** — II.XIV
+- **58:13** — II.XIII
+- **59:21** — IV.X.I
+- **60:7** — IV.V.V
+- **61:1-2** — IV.V
+- **61:10** — II.XI
+- **63:3** — II.IV
+- **63:16** — I.XVI, II.VII
+- **64:5** — II.III
+- **65:16** — II.IX
+- **65:24** — II.VII
+- **66:2** — II.VII
+- **66:24** — I.XVI, II.XIII
+
+## Jeremiah
+
+- **1:5** — II.XI
+- **1:9** — II.I, IV.X.I
+- **5:3** — II.X
+- **5:7** — II.IX
+- **6:10** — II.X
+- **7:16** — II.VII
+- **8:1** — III.VII
+- **8:6** — III.VI
+- **10:2** — III.VI
+- **10:13** — III.V
+- **11:14** — II.VII
+- **12:9** — II.IV
+- **14:11-12** — II.VII
+- **15:19** — IV.VII.II
+- **16:4** — IV.XI.V
+- **17:5** — II.V, II.VII
+- **17:9** — III.II
+- **17:9-10** — III.I
+- **20:14-18** — II.V
+- **22:18** — IV.XI.V
+- **23:6** — II.II
+- **23:21** — IV.V.I
+- **23:24** — II.III
+- **25:11** — III.IV
+- **29:7** — II.VII, IV.XII.III
+- **32:9** — IV.III.VII
+- **38:9** — II.X
+
+## Lamentations
+
+- **2:19** — II.VII
+- **3:65** — I.XI
+- **4:4** — IV.IX.V
+
+## Ezekiel
+
+- **3:18** — IV.VII.V, IV.IX.V
+- **4:4** — IV.I.X
+- **7:19** — IV.III.VI
+- **8:3** — III.I
+- **13:5** — IV.VII.IV
+- **13:19** — IV.IX.I
+- **17:15-16** — II.IX
+- **18:7** — IV.III.V
+- **18:14** — III.IV
+- **18:20** — III.IV
+- **18:24** — III.IV
+- **20:18-19** — IV.XIV.VI
+- **21:21** — III.VI
+- **22:26** — IV.VII.II
+- **33:8** — IV.IX.I
+- **33:12** — III.IV
+- **33:22** — II.X
+- **34:4** — IV.VII.IV
+
+## Daniel
+
+- **3:3** — II.V
+- **4:24** — IV.XVII.XIV
+- **5:30** — III.IV
+- **6:10** — II.VII
+- **6:18** — II.XIV
+- **6:22** — III.I
+- **7:9** — II.II
+- **7:10** — III.I
+- **9:24** — II.IV
+- **10:3** — II.XIV
+- **10:13** — III.I
+- **10:14** — III.I
+- **14:35** — III.I
+
+## Hosea
+
+- **1:7** — II.II
+- **4:11** — IV.II.VI
+- **12:5** — III.I
+- **13:11** — IV.XII.I
+
+## Joel
+
+- **2:15-16** — II.XIV
+- **2:28** — III.I
+
+## Amos
+
+- **6:6** — IV.IX.V
+- **7:12-13** — III.IV
+- **8:5** — IV.III.VI
+- **8:11** — II.X
+- **8:11,12** — II.X
+
+## Obadiah
+
+- **1:4** — IV.II.IV
+
+## Habakkuk
+
+- **2:3** — III.IV
+- **2:4** — II.I, II.XI
+
+## Zephaniah
+
+- **1:4-5** — II.IX
+
+## Zechariah
+
+- **1:12** — III.I
+- **5:3** — II.IX
+- **5:4** — II.IX
+- **7:6** — II.XIV
+- **7:11** — II.X
+- **8:17** — II.IX
+- **8:19** — IV.I.VII
+
+## Malachi
+
+- **2:7** — II.X
+- **3:5** — II.IX
+- **3:14** — II.VII
+
+## Wisdom
+
+- **1:4** — I.XII
+- **1:11** — II.VII
+- **2:12** — II.X
+- **3:1** — III.VII
+- **3:14** — IV.III.IX
+- **4:16** — I.XVI, II.VII
+- **4:20** — I.XIII
+- **5:3-8** — I.XVI
+- **6:1** — IV.XII.I
+- **8:17** — II.IX
+- **11:20-21** — IV.III.VI
+- **11:21** — II.IV
+- **12:1** — II.II
+- **17:2** — I.XVI
+- **17:11** — I.XI, I.XII
+
+## Sirach
+
+- **1:12-13** — III.IV
+- **1:28** — II.VIII
+- **2:15** — III.IV
+- **3:9** — IV.I.XIV
+- **3:20** — IV.XIV.VII
+- **3:22** — IV.II.IV
+- **7:5** — II.VII
+- **7:15** — II.VII
+- **7:16** — IV.II.VII
+- **7:25** — IV.XIV.VIII
+- **9:6** — IV.II.VI
+- **9:6-8** — IV.II.VI
+- **10:11** — II.V
+- **10:13** — I.XI
+- **11:7** — IV.VII.II
+- **11:14** — III.IV, III.V
+- **13:1** — II.VI
+- **14:5** — I.XVI
+- **15:12,20** — II.IV
+- **15:19** — II.V
+- **15:21** — II.XIV
+- **17:26** — I.VII
+- **18:23** — II.VIII
+- **19:13-14** — IV.XVII.XVI
+- **19:16** — IV.XVI.II, IV.XVII.XVI
+- **20:12** — IV.XVII.II
+- **22:33** — I.XVI, II.VIII
+- **23:9** — II.IX
+- **23:28** — I.XVI
+- **25:1-2** — IV.XV.IV
+- **27:2** — IV.III.VI
+- **28:3** — IV.I.XII
+- **29:1** — IV.III.II
+- **29:8** — IV.III.V
+- **29:30** — III.IV
+- **30:15-16** — I.XVI
+- **31:5** — IV.III.VI
+- **32:1-4** — IV.XVI.II
+- **33:7** — II.XIII
+- **33:29** — III.II, IV.II.VII, IV.XVII.VI
+- **33:29-31** — IV.XVI.III
+- **33:30** — II.XI
+- **33:31** — IV.XVI.II
+- **34:16** — III.VII
+- **34:24-25** — IV.III.VIII
+- **35:11** — IV.III.II, IV.III.IX
+- **38:15** — III.II
+- **39:26** — II.V
+- **40:1** — III.IV
+- **40:28** — IV.IV.IX
+- **41:3** — III.IV
+- **44:3** — IV.XII.I
+
+## Tobit
+
+- **2:14** — III.IV
+- **3:1** — IV.XIII.XI
+- **3:10** — II.XIV
+- **4:3** — II.VIII
+- **4:5** — I.XVI
+- **6:17** — II.VIII
+- **8:3** — III.I
+- **12:11** — III.I
+
+## Judith
+
+- **6:15** — III.I
+- **8:5** — II.XIV
+- **10:3** — IV.I.I
+- **13:4** — IV.XII.III
+- **13:15,20** — III.I
+
+## Baruch
+
+- **6:9,11** — II.V
+- **6:31** — II.V
+
+## 1 Maccabees
+
+- **3:10** — IV.XII.X
+- **9:54** — II.IX
+
+## 2 Maccabees
+
+- **4:38** — II.IX
+
+## Matthew
+
+- **1:20** — III.I
+- **1:21** — II.IV
+- **2:1** — III.V
+- **2:13** — III.IV
+- **2:13,20** — III.I
+- **2:16** — II.XI
+- **2:19** — III.I
+- **3:6** — II.XII
+- **3:8** — IV.X.IV
+- **3:16** — II.II, IV.VIII.IV
+- **4:5** — II.IX
+- **4:7** — III.II
+- **4:10** — II.V, III.II
+- **4:11** — III.I, III.II
+- **4:13** — II.VI
+- **5:4** — III.IV
+- **5:8** — I.XVI, III.IV
+- **5:11** — IV.II.VII
+- **5:16** — I.XIII, II.X
+- **5:23,24** — II.XII
+- **5:23-24** — II.VII, IV.IX.I, IV.IX.V, IV.XVII.V
+- **5:25** — III.IV
+- **5:32** — IV.XIII.V
+- **5:34** — II.IX
+- **5:35** — II.IX
+- **5:37** — II.IX
+- **5:39** — IV.I.XIII
+- **5:40** — IV.XII.V
+- **5:44** — II.VI, II.VII, IV.XVII.I
+- **6:3** — IV.III.II, IV.III.IX
+- **6:5-6** — II.VII
+- **6:7** — II.VII
+- **6:8** — III.III
+- **6:12** — IV.XVII.V
+- **6:13** — III.II
+- **6:16** — II.XIV
+- **6:16-17** — II.XIV
+- **6:19** — IV.III.I
+- **6:19-20** — III.IV
+- **6:19-21** — IV.III.I
+- **6:24** — II.VI
+- **6:31** — IV.I.VI
+- **6:33** — II.X, IV.III.III
+- **7:6** — IV.IX.I
+- **7:9** — IV.XIV.I
+- **7:12** — IV.IX.V
+- **7:15** — II.I, IV.V.I, IV.VII.II
+- **7:22** — III.II
+- **8:29** — III.II
+- **8:31** — III.II
+- **9:2** — IV.X.IV
+- **9:15** — II.XIV
+- **9:16** — II.XIV
+- **9:30** — II.I
+- **10:10** — IV.XVI.II, IV.XVI.IV
+- **10:16** — II.I
+- **10:17** — III.IV
+- **10:22** — III.IV
+- **10:22-23** — III.IV
+- **10:23** — II.X
+- **10:30** — II.IV, III.II, III.IV
+- **10:32** — II.I, IV.XI.III
+- **10:32-33** — III.IV
+- **10:33** — II.XII
+- **10:37** — IV.XIV.VI
+- **11:13** — II.XIII, II.XIV
+- **11:28** — I.XIV
+- **12:1** — II.XIII
+- **12:5** — II.XIII
+- **12:11-12** — II.XIII
+- **12:26** — III.III
+- **12:30** — III.V
+- **12:31** — II.VII
+- **12:36** — I.XVI
+- **12:43** — III.II
+- **13:19** — III.II
+- **13:29** — IV.X.X
+- **13:33** — III.I
+- **13:39** — III.II
+- **13:43** — IV.II.VII
+- **13:45** — IV.III.VII
+- **14:7** — II.IX
+- **14:9** — II.IX
+- **14:26** — III.VII
+- **15:3** — II.VI
+- **15:9** — II.VII
+- **15:11** — II.XIV
+- **15:13** — II.VII
+- **15:22** — III.III
+- **16:3** — III.VI
+- **16:19** — IV.X
+- **16:26** — I.XIII
+- **17:21** — II.XIV, III.II, III.III, III.VII
+- **17:24-27** — IV.XII.XIII
+- **17:27** — II.I
+- **18:6** — II.XI, II.XII, IV.XII.XVII
+- **18:7** — II.XIV, IV.XI.III
+- **18:10** — III.I
+- **18:14** — II.XI
+- **18:15** — IV.X.VIII, IV.XVII.XVI
+- **18:18** — IV.V.III, IV.X, IV.X.I, IV.X.IV
+- **18:19** — II.VII
+- **18:19,20,22** — II.XI
+- **18:20** — II.XI
+- **19:5** — II.I
+- **19:6** — II.VIII
+- **19:9** — IV.XIII.V
+- **19:11** — II.VII, II.VIII, IV.IV.V
+- **19:21** — IV.III.I
+- **19:29** — II.X, III.IV
+- **20:20** — II.VII
+- **20:20-23** — II.VII
+- **20:28** — II.IV
+- **21:9,15** — II.VII
+- **21:12** — IV.III.VII
+- **21:31** — IV.XII.XVII
+- **22:5** — II.X
+- **22:21** — IV.III.II, IV.III.IX, IV.XII.II
+- **22:38** — II.V
+- **23:2** — IV.VI.V
+- **23:24** — I.XI
+- **23:27** — IV.VII.II
+- **24:24** — III.II
+- **24:42** — III.IV
+- **25:14** — IV.III.VII
+- **25:32** — I.XVI
+- **25:41** — I.XVI
+- **26:11** — IV.IV.IX
+- **26:38** — I.XIV
+- **26:39** — II.VII
+- **26:41** — III.II
+- **26:52** — IV.IV.II
+- **26:63** — III.VII
+- **26:75** — II.XI
+- **27:4** — I.III
+- **27:25** — II.VI
+- **28:2** — III.I
+- **28:19** — II.II, II.VI, II.XI
+- **28:20** — II.III, IV.VIII.II
+
+## Mark
+
+- **2:27** — II.XIII
+- **5:7** — III.VII
+- **5:25** — III.IV
+- **6:14** — IV.VII.VI
+- **7:8** — II.VIII
+- **7:36** — II.I
+- **11:25** — II.VII
+- **15:46** — IV.III.VII
+- **16:16** — II.XI, III.IV, III.VII
+- **16:17** — III.III
+- **16:18** — IV.VI.I
+- **20:23** — IV.VIII.IV
+
+## Luke
+
+- **1:8** — II.II
+- **1:11** — III.I
+- **1:26** — III.I
+- **1:34** — II.I
+- **1:35** — II.II
+- **1:37** — II.III
+- **1:41** — II.I
+- **1:58** — IV.XV.IV
+- **1:78** — II.III
+- **2:11** — II.IV
+- **3:14** — IV.XII.X
+- **4:38** — II.XIII
+- **6:21** — III.IV
+- **6:24** — IV.III.I
+- **6:28** — II.VII
+- **6:30** — IV.III.II, IV.III.IX
+- **6:35** — IV.III.II, IV.III.IX, IV.XVII.IX
+- **6:37** — IV.XII.V
+- **6:46** — I.XVI
+- **7:13** — III.IV
+- **8:2-3** — IV.X.V
+- **8:5** — II.X
+- **8:7** — II.X
+- **8:8** — II.X
+- **8:18** — II.X
+- **9:11** — IV.IX.V
+- **9:62** — IV.IV.I, IV.V.X
+- **10:7** — IV.IV.III, IV.X.V, IV.X.VI, IV.XVI.IV
+- **10:16** — I.X, III.I, IV.VII.V, IV.X.I
+- **10:42** — II.X
+- **11:4** — III.IV
+- **11:9** — II.VII
+- **11:13** — I.XVI, IV.V.VII
+- **11:22** — III.VII
+- **11:24** — III.I
+- **11:26** — III.IV
+- **11:27** — IV.XIV.III
+- **11:28** — II.X
+- **11:41** — IV.III.VIII
+- **12:5** — II.VI
+- **12:15** — II.X
+- **12:19** — II.X, III.II
+- **13:11** — III.II
+- **13:32** — IV.VII.II
+- **14:18** — II.X
+- **16:14** — II.X
+- **16:22** — III.I
+- **16:26** — III.VII
+- **17:20** — II.VII
+- **18:1** — II.VII, III.IV
+- **18:11-13** — II.VII
+- **18:12** — II.XIV
+- **18:13** — IV.X.II
+- **18:27** — II.III
+- **19:8** — IV.III.VIII
+- **19:45-46** — II.XIII
+- **21:34** — II.X, IV.II.VI
+- **22:3** — III.III
+- **22:21** — IV.IX.I
+- **22:25** — IV.IV.II
+- **22:31** — III.II
+- **22:41** — II.VII
+- **22:42** — III.IV
+- **22:43** — III.I
+- **23:34** — II.VII
+- **23:40** — III.IV
+- **23:43** — II.XI
+- **24:31** — I.XVI, III.V
+- **24:37** — III.VII
+- **24:47** — IV.X.IV
+- **24:49** — II.II
+
+## John
+
+- **1:12** — II.XI
+- **1:12-13** — II.IV
+- **1:14** — II.II
+- **1:16** — IV.VIII.IV
+- **3:4** — II.I
+- **3:5** — II.IV, II.XI, IV.VIII.IV, IV.VIII.V
+- **3:6** — II.IV, II.VIII, II.XI
+- **3:16** — II.IV, III.IV
+- **3:18** — III.IV, III.VII
+- **3:23** — IV.VIII.IV
+- **3:29** — IV.X
+- **3:33** — IV.II.I
+- **3:35** — II.II
+- **3:36** — II.III, IV.II.I, IV.X.I
+- **4:8** — II.VIII
+- **4:21** — II.VII
+- **4:23** — II.V
+- **4:24** — II.II, III.III, III.VII
+- **5:4** — III.I
+- **5:17** — II.IV
+- **5:24** — II.VII, III.IV, III.VII
+- **5:26** — II.II
+- **5:28** — III.IV
+- **5:39** — II.I
+- **6:26,66** — II.X
+- **6:29** — II.I
+- **6:37** — IV.IX.V
+- **6:45** — II.X
+- **6:56** — I.XVI
+- **6:60** — II.I
+- **8:13** — II.X
+- **8:31** — II.I, II.XII
+- **8:34** — II.XIII
+- **8:37** — II.I
+- **8:44** — III.II, IV.XVII.XVIII
+- **8:47** — II.XIII
+- **8:48** — III.III
+- **8:51** — II.X
+- **8:58** — II.II
+- **9:3** — III.III
+- **9:31** — I.XIII, II.XI
+- **10:4** — IV.IX.IV
+- **10:5** — II.XII
+- **10:11** — III.IV
+- **10:27,5** — II.X
+- **10:28** — III.II
+- **12:15** — II.IV
+- **12:25** — IV.I.VIII, IV.XVII.VIII
+- **12:26** — II.III
+- **12:31** — III.VII
+- **12:32** — III.IV
+- **12:38** — III.IV
+- **12:48** — II.I
+- **13:2** — III.II
+- **13:20** — II.X
+- **14:21** — II.V, II.X
+- **14:23** — I.XIII, II.III, II.X
+- **14:26** — II.X
+- **14:30** — III.VII
+- **15:5** — I.XVI
+- **15:8** — IV.VII.III
+- **15:13** — IV.XVII.VIII
+- **15:16** — II.VII
+- **15:20** — III.IV
+- **15:26** — II.II
+- **16:2** — I.XV
+- **16:7** — II.II
+- **16:8** — IV.VII.VI
+- **16:15** — II.II
+- **16:23** — II.VII
+- **16:33** — III.II, III.VII
+- **17:1** — II.VII
+- **17:3** — II.I, IV.II.I
+- **17:9** — II.VII
+- **17:17** — II.I
+- **18:23** — II.XII
+- **18:36** — IV.XII.V
+- **18:37** — IV.X.II
+- **19:11** — IV.XII.XIII
+- **19:33-36** — II.XII
+- **20:21** — IV.IV.II
+- **20:23** — I.XIV, IV.IX.I, IV.X.I, IV.X.VIII
+
+## Acts
+
+- **1:10** — III.I
+- **1:15,26** — IV.V.III
+- **1:16** — III.I
+- **2:1** — II.XIII
+- **2:37** — IV.VII.IV
+- **2:38** — II.XI
+- **2:39** — II.XI, IV.VIII.VIII
+- **4:7** — II.I
+- **4:12** — III.IV
+- **4:19** — IV.VII.II
+- **4:29** — II.VII
+- **5:3** — II.II
+- **5:4** — II.VIII, IV.III.I
+- **5:15** — III.VII
+- **5:29** — II.VI, IV.I.XII, IV.XII.XV
+- **5:41** — I.XVI
+- **7:54** — II.X, IV.VII.IV
+- **7:57** — II.I
+- **7:60** — II.VII
+- **8:9** — III.V
+- **8:10** — III.II
+- **8:28** — II.XIII
+- **8:29** — III.I
+- **8:36** — IV.VIII.IV
+- **8:39** — III.I
+- **8:39,40** — III.V
+- **9:17** — IV.VI.I
+- **9:22** — II.I
+- **10:22,31** — III.I
+- **10:30** — II.XIV
+- **10:33** — II.X
+- **10:34-35** — IV.IV.V, IV.IV.VIII
+- **10:38** — III.II
+- **10:42** — I.XVI
+- **10:43** — I.XIII
+- **12:7** — III.I
+- **12:23** — II.II, III.II
+- **13:2** — II.II, IV.VI.I
+- **13:2-3** — IV.VI.I, IV.VI.III
+- **13:8,10** — III.V
+- **13:45** — II.I, II.X
+- **14:11** — III.II
+- **14:22** — II.XIV, III.IV, IV.II.VII
+- **15:21** — II.VI, II.X
+- **15:22** — IV.V.III
+- **16:3** — IV.XI.III
+- **16:9** — III.I
+- **16:14** — II.X
+- **16:16** — III.II
+- **16:25** — II.VII
+- **16:27** — III.IV
+- **16:33** — IV.V.II
+- **17:11** — II.I, II.X
+- **17:22** — III.III
+- **17:26** — IV.III.I
+- **17:27** — II.III
+- **18:2** — III.IV
+- **19:9** — II.X
+- **19:13** — III.III, III.VII
+- **19:15-16** — III.III
+- **20:7** — II.XIII
+- **20:28** — II.II, II.X, IV.V.III, IV.IX.V
+- **20:35** — IV.II.III
+- **22:16** — II.XI
+- **23:8** — III.II
+- **23:11** — II.VI
+- **23:12** — IV.XII.V
+- **23:12,14** — II.VIII
+- **23:16-17** — IV.XII.V
+- **24:25** — II.X
+- **25:8** — IV.XII.V
+- **25:10** — IV.XII.V
+- **26:24** — II.X
+- **28:25** — II.II
+
+## Romans
+
+- **1:3** — II.II
+- **1:14** — IV.IX.V
+- **1:16** — II.I
+- **1:17** — IV.II.I
+- **1:18** — II.I, II.III
+- **1:19** — II.I
+- **1:20** — II.I
+- **1:23** — II.I
+- **1:28** — I.XI, I.XV
+- **2:5** — II.III, II.X
+- **2:5-11** — I.XVI
+- **2:14** — II.I
+- **2:15** — I.XI, I.XVI, II.I
+- **3:8** — III.IV, III.V, IV.XII.XVII
+- **3:19** — IV.XII.XIII
+- **3:25** — II.IV
+- **3:29** — IV.IX.V
+- **4:15** — II.XIV
+- **4:16** — IV.II.I
+- **4:18** — II.V
+- **4:20** — II.VII, IV.II.I
+- **4:21** — II.III
+- **4:22** — IV.II.I
+- **5:1** — I.XIII
+- **5:9** — II.IV
+- **5:12** — II.IV
+- **5:14** — IV.VIII.III
+- **5:19** — II.IV
+- **6:3** — II.V, II.XI, IV.VIII.II
+- **6:6** — I.XVI, IV.I.VII
+- **6:7** — III.IV
+- **6:12** — IV.II.II, IV.II.III
+- **6:23** — III.IV
+- **7:2-3** — IV.XIII.III
+- **7:19** — III.IV
+- **7:24** — III.IV
+- **8:1** — II.VII, III.VII
+- **8:3** — IV.I.I
+- **8:13** — I.XVI, IV.I.VII
+- **8:14** — II.IV
+- **8:15-16** — III.IV
+- **8:16** — I.XIV, II.II, II.VII, IV.VIII.X
+- **8:18** — II.V, III.IV
+- **8:19-22** — I.XVI
+- **8:22** — I.III
+- **8:26** — II.II, II.VII
+- **8:28** — II.X, III.IV
+- **8:29** — III.IV, IV.II.VII
+- **8:31** — II.V
+- **8:38-39** — III.IV
+- **8:39** — III.VII
+- **9:1** — I.V
+- **9:6** — II.IV
+- **9:10** — III.VI
+- **10:9-10** — II.I
+- **10:10** — II.I, IV.II.I
+- **10:14** — II.VI, II.VII
+- **10:14-15** — III.I, IV.V.I
+- **10:14-17** — II.X
+- **10:17** — II.I, III.IV, IV.II.I
+- **11:16** — II.IV, IV.VIII.VIII
+- **11:17** — II.XI
+- **11:25** — II.VI
+- **11:29** — III.IV
+- **11:32** — II.VIII
+- **12:1** — II.V, II.XI, II.XIV
+- **12:6** — II.I
+- **12:11** — II.VII
+- **12:14,17,21** — II.VII
+- **12:18** — II.X
+- **12:19** — IV.I.XII, IV.II.V
+- **13:1** — IV.I.XIV, IV.XII.I, IV.XII.II, IV.XII.XIII
+- **13:1,5** — II.IX
+- **13:2** — IV.III.VI
+- **13:4** — II.V, IV.XII.V, IV.XII.VII, IV.XII.X
+- **13:5** — I.V, IV.XII.XV
+- **13:7** — IV.III.II, IV.III.IX
+- **13:14** — IV.I.VII
+- **14:4** — IV.XI.V
+- **14:5** — II.I, II.XIII
+- **14:8** — III.IV, III.VI
+- **14:10** — II.I
+- **14:14** — I.VII, II.XIV
+- **14:14-15** — II.XIV
+- **14:15** — II.XIV
+- **14:17** — II.VIII, II.XIV
+- **14:23** — I.VII, I.XVI, II.VI, IV.I.XII, IV.V.VII, IV.XII.XI
+- **15:4** — III.III, III.IV
+- **15:19** — II.II
+- **16:17** — II.VI, IV.VII.II
+- **16:20** — III.II
+
+## 1 Corinthians
+
+- **1:2** — I.XIII
+- **1:5,6** — II.X
+- **1:21** — II.I
+- **2:4** — II.X
+- **2:9-10** — I.XVI
+- **2:10** — II.II
+- **2:11** — III.I, III.II, III.VI
+- **2:12** — III.II
+- **2:15** — II.X
+- **3:3** — II.I
+- **3:4,5** — II.X
+- **3:10** — IV.VII.IV
+- **3:17** — IV.I.XII
+- **3:19** — IV.I.VII
+- **3:21** — IV.V.III
+- **3:22** — II.VI
+- **4:3** — IV.II.IV
+- **4:5** — I.XVI, IV.IX.III
+- **4:20** — II.I, II.X
+- **5:3-5** — IV.X.VIII
+- **5:4** — IV.X.VIII
+- **5:5** — IV.X.VIII
+- **5:10** — II.VI, II.XI
+- **5:11** — II.XI, II.XII, IV.IX.I, IV.XV
+- **5:12** — IV.XII.II
+- **6:1** — IV.XII.V
+- **6:7** — II.XII, IV.XII.V
+- **6:11** — III.IV
+- **6:12** — IV.VI.IV
+- **6:14** — II.VI
+- **6:15** — IV.II.VI
+- **6:19** — II.III
+- **6:20** — II.VI
+- **7:1** — IV.XIII.I
+- **7:2,5** — IV.XIII.I
+- **7:2,9** — II.VII
+- **7:3** — IV.XIII.XI
+- **7:5** — II.XIV, IV.XIII.XI
+- **7:7** — II.VII
+- **7:9** — II.VIII, IV.IV.V, IV.IV.VIII, IV.XIII.II
+- **7:12-13** — II.VI
+- **7:14** — II.IV, IV.VIII.VIII
+- **7:17** — IV.IV
+- **7:20** — II.VI, II.VIII, IV.V.X
+- **7:20-21** — IV.XVI.I
+- **7:23** — II.VIII
+- **7:28** — IV.XIII.I
+- **7:31** — II.V
+- **7:35** — II.I, II.VIII
+- **7:37** — I.IX, II.VIII
+- **8:7** — I.VII
+- **8:8** — II.XIV
+- **8:13** — II.VI, II.XIV
+- **9:5** — IV.XIII.II
+- **9:13** — IV.IV.III
+- **9:14** — IV.X.V
+- **9:27** — IV.I.VII
+- **10:2** — IV.VIII.IV
+- **10:6-8** — IV.II.VI
+- **10:11** — IV.II.II
+- **10:13** — III.II, IV.II.VIII
+- **10:14** — II.VI
+- **10:15** — II.X, II.XI
+- **10:16** — II.XII
+- **10:17** — II.XII
+- **10:21** — II.XII, III.II
+- **10:27** — II.XIV
+- **10:31** — II.V
+- **11:4** — II.VII
+- **11:6** — IV.I.IV
+- **11:16** — II.I
+- **11:24** — II.XII
+- **11:25** — II.XII
+- **11:26** — IV.IX.II, IV.IX.IV
+- **11:26,27,28,29** — II.XII
+- **11:28** — II.XI, II.XII, IV.IX.I, IV.IX.IV
+- **11:28-29** — IV.IX.I
+- **11:29** — II.XII
+- **11:30** — III.III
+- **11:34** — II.XII
+- **12:3** — IV.VIII.X
+- **12:4** — II.X, II.XI
+- **12:11** — II.II, IV.II.VII
+- **12:12,13** — II.XI
+- **12:13** — II.XI
+- **13:4** — II.XI
+- **13:12** — II.II
+- **14:5** — II.VII
+- **14:14-15** — II.VII
+- **14:22** — II.VII
+- **14:32** — III.I
+- **14:33** — IV.III.VI
+- **14:34** — IV.V.XI
+- **14:38** — I.VII
+- **14:40** — II.X, II.XIII, II.XIV, IV.XI
+- **15:19** — III.IV
+- **15:31** — IV.I.VII
+- **15:44** — I.XVI
+- **15:47** — II.II
+- **15:54-57** — III.IV
+- **16:1-2** — II.XIII
+- **16:2** — II.XIII, IV.IV.IX
+- **16:22** — II.V, II.VII
+
+## 2 Corinthians
+
+- **1:3** — III.IV
+- **1:5** — III.III, IV.II.VIII
+- **1:12** — I.I, I.XI
+- **1:20** — III.IV
+- **1:24** — IV.XI.I
+- **2:6** — IV.X.XI
+- **2:16** — II.X
+- **3:5** — I.XVI
+- **3:8** — IV.V
+- **4:4** — II.X, III.I, III.II
+- **4:17** — III.IV, IV.II.VIII
+- **5:1-2** — II.V
+- **5:15** — II.IV
+- **5:19** — II.V
+- **5:20** — I.XVI, III.I, IV.VII.V
+- **5:21** — II.IV
+- **5:23** — III.II
+- **6:2** — III.VI
+- **6:5** — II.XIV
+- **6:9-10** — III.IV
+- **6:14** — II.VI, II.X, II.XI, IV.VI.VI, IV.IX.I, IV.XI.III
+- **6:14-15** — III.II
+- **6:15** — III.III, III.V, III.VII
+- **6:16** — IV.I.XII
+- **7:10** — I.XV
+- **8:13** — II.VIII, IV.III.IV
+- **9:7** — II.VIII, IV.III.II, IV.III.IX
+- **11:3** — II.I, III.II
+- **11:13** — IV.VII.II
+- **11:14** — III.I
+- **12:7** — III.I
+- **12:9** — II.I, II.VII, II.X
+- **12:14** — IV.III.I, IV.XIV.I
+- **13:5** — II.I
+
+## Galatians
+
+- **1:1** — IV.V.III
+- **1:8** — III.I, III.II, IV.VII.II
+- **2:5** — IV.VIII.VII, IV.XI.III
+- **2:11** — IV.IX.VIII
+- **2:15** — IV.XVII.VI
+- **2:20** — I.XIV
+- **3:7** — II.IV, II.XI
+- **3:13** — II.V
+- **3:15** — II.XII
+- **3:27** — II.XI
+- **4:8** — II.V
+- **4:10** — II.VII, II.XIII, II.XIV
+- **4:15** — II.X
+- **5:1** — III.V, IV.VII.II, IV.XI.III
+- **5:6** — IV.II.I
+- **5:7** — II.X
+- **5:12** — II.VII, IV.VII.II
+- **5:15** — IV.XVII.VI
+- **5:17** — III.IV, IV.II.II, IV.II.III
+- **5:19** — IV.II.VI
+- **5:20** — III.V
+- **5:21** — IV.II.VI
+- **5:24** — I.XVI
+- **6:1** — IV.VII.IV, IV.XVII.VIII
+- **6:6** — IV.X.V
+- **6:10** — IV.VIII.VIII, IV.XVII.X
+
+## Ephesians
+
+- **1:6** — III.IV
+- **1:17** — II.II
+- **2:2** — III.I, III.II, III.V
+- **2:3** — II.IV, II.XI
+- **2:5** — IV.VIII.V
+- **2:12** — II.I
+- **2:20** — II.I, IV.IV.IV
+- **3:10** — III.I
+- **3:12** — II.IV, II.VII
+- **3:14** — II.VII
+- **3:17** — I.XII, I.XVI, II.V, III.VII
+- **3:20** — II.III, IV.II.I
+- **4:11** — III.I, IV.VII
+- **4:14** — II.X, IV.VII.I
+- **4:17** — IV.I.VII
+- **4:19** — I.XI, II.X
+- **4:28** — II.VIII, IV.III.I, IV.IV.X
+- **4:30** — IV.XVII.VI
+- **5:2** — II.IV
+- **5:3** — IV.XII.XVII
+- **5:5** — IV.III.VI
+- **5:11** — II.VI
+- **5:14** — II.X
+- **5:17** — I.XVI
+- **5:18** — IV.II.VI
+- **5:26** — II.IV, II.VI, II.XI
+- **5:29** — II.VIII, IV.I.VII
+- **6:9** — IV.II.I, IV.XVI.II
+- **6:10-13** — III.II
+- **6:12** — III.II, III.IV
+- **6:12-13** — III.II
+- **6:18** — II.VII
+- **6:19** — II.VII
+
+## Philippians
+
+- **1:21** — III.IV
+- **1:27** — I.XVI
+- **1:29** — II.X, III.IV, IV.II.I
+- **2:3** — II.I, III.I, IV.I.XII, IV.II.I
+- **2:4** — IV.II.VII
+- **2:9-10** — II.V
+- **2:12** — III.IV
+- **2:13** — I.XVI
+- **2:29** — II.X
+- **3:18** — IV.VII.II
+- **3:19** — II.X
+- **3:21** — I.XVI, IV.II.VII
+- **4:5** — II.X
+- **4:8** — IV.IV.X
+- **4:12** — II.VIII
+
+## Colossians
+
+- **1:13** — III.II
+- **1:16** — III.I
+- **2:9** — II.II, II.III
+- **2:16** — I.IX, II.XIII, II.XIV
+- **2:18** — III.I
+- **2:23** — II.XIV, IV.I.VII
+- **3:1** — III.IV
+- **3:3-4** — III.IV
+- **3:5** — I.XVI, IV.I.VII
+- **3:16** — II.X
+- **3:20** — IV.XIV.VI
+- **3:24** — II.VII
+- **4:2** — II.VII
+
+## 1 Thessalonians
+
+- **1:2** — II.VII
+- **2:13** — II.X, III.I, IV.X.I
+- **4:4-5** — IV.XIII.XI
+- **4:6** — IV.III.VI, IV.III.VII
+- **4:11** — IV.IV, IV.IV.I
+- **4:17** — I.XVI, II.III, II.V
+- **5:17** — II.VII
+- **5:21** — II.I
+- **5:22** — I.XVI, II.XI, II.XII, II.XIV, III.III, III.VII, IV.I.III
+- **5:27** — III.VII
+
+## 2 Thessalonians
+
+- **1:6-7** — II.III
+- **1:7** — III.I
+- **2:9** — III.I, III.II
+- **2:11** — III.II
+- **2:11-12** — III.I, III.VII
+- **2:12** — II.XIV
+- **3:1-2** — II.VII
+- **3:2** — IV.II.I
+- **3:6** — II.XI
+- **3:10** — II.VIII, IV.IV.IX
+- **3:12** — IV.III.I
+- **3:14** — IV.X.VIII
+
+## 1 Timothy
+
+- **1:5** — I.XI, I.XIII
+- **1:5,19** — I.XIII
+- **1:18** — III.IV
+- **1:18-19** — I.XVI
+- **1:19** — I.XIII
+- **1:20** — I.XVI, III.III, IV.X.VIII
+- **2:1** — II.VII
+- **2:2** — II.VI, IV.XII.I
+- **2:4** — II.XI, III.IV
+- **2:5** — II.V
+- **2:8** — I.XIII, II.VII, II.X, III.III, III.IV, III.VII, IV.II.V
+- **2:11** — IV.V.XI
+- **3:1-2** — IV.XIII.II
+- **3:3** — IV.IV.II, IV.VIII.I
+- **3:4** — IV.III.I, IV.IV, IV.V.IX
+- **3:9** — I.XIII
+- **3:10** — IV.V.VI
+- **3:16** — II.II
+- **4:1** — II.X, III.I
+- **4:2** — I.XI
+- **4:3** — II.XIV
+- **4:4** — II.XIV
+- **4:8** — II.XIV, IV.I.VII, IV.II.II
+- **4:12** — IV.XVI.II
+- **4:14** — IV.VI, IV.VI.I, IV.VI.III
+- **5:1-2** — IV.VII.IV
+- **5:4** — II.VIII, IV.XIV.XII
+- **5:8** — IV.III.I, IV.III.II, IV.III.IX, IV.XVII.X
+- **5:9** — IV.V.XI
+- **5:14** — II.VIII, IV.XIII.III
+- **5:17-18** — IV.IV.III
+- **5:19** — IV.V.XII
+- **5:20** — IV.VII.IV
+- **5:21** — III.I
+- **6:4** — II.I
+- **6:6** — III.IV
+- **6:7** — IV.III.III
+- **6:8** — III.IV, IV.III.III
+- **6:9** — II.X, IV.II.III, IV.III.I, IV.III.VI
+- **6:10** — IV.II.III, IV.III.III
+- **6:14** — I.XIII
+- **6:17** — IV.III.I
+- **6:18** — IV.III.I, IV.XVII.IX
+- **6:20** — II.I
+
+## 2 Timothy
+
+- **1:3** — I.XI
+- **1:6** — IV.VI
+- **1:9** — III.IV
+- **2:2** — IV.V.VIII
+- **2:4** — IV.III.VII, IV.IV.II
+- **2:13** — II.III, II.X, II.XI, III.IV
+- **2:17** — II.VI, IV.VII.II, IV.VII.III
+- **2:18** — II.VI
+- **2:20** — II.X
+- **2:24** — IV.VII.IV
+- **3:8** — II.X, III.II
+- **3:12** — II.III, II.V, IV.II.VII
+- **3:13** — II.X
+- **3:14** — IV.VII.II
+- **3:15** — II.I
+- **3:16** — IV.VII.I, IV.VII.II, IV.VII.IV
+- **3:17** — IV.VII.I, IV.VII.II
+- **4:2** — II.X
+- **4:14** — II.VII, IV.VII.II
+
+## Titus
+
+- **1:3,9** — IV.VI.III
+- **1:5** — IV.V.VIII
+- **1:9** — IV.VII.IV
+- **1:15** — I.XI, I.XIII, II.XIV
+- **3:5** — II.IV, II.VI, II.XI, IV.VIII.V
+- **3:10** — IV.VII.II, IV.X.VIII
+
+## Hebrews
+
+- **1:3** — III.I
+- **1:6** — II.IV
+- **1:14** — III.I
+- **2:14** — II.II, II.IV, II.XI
+- **3:6** — IV.X.I
+- **3:14** — II.X, III.IV
+- **4:2** — II.X
+- **4:12** — I.XVI, II.X, IV.VII.IV
+- **4:13** — I.XVI
+- **5:4** — IV.V.I
+- **5:7** — I.XIV
+- **5:12** — II.I
+- **6:1** — II.I
+- **6:1-2** — II.I
+- **6:12** — II.VII, III.IV
+- **6:13,16** — II.IX
+- **6:16** — II.IX, IV.I.XII
+- **6:16-17** — II.VII
+- **6:18** — II.III, II.VII
+- **6:19** — II.V
+- **7:12** — II.XIII
+- **9:7** — III.IV
+- **9:12** — III.VII
+- **9:14** — I.XII, I.XIII, I.XIV, II.IV
+- **9:22** — II.II, II.IV
+- **9:27** — III.IV
+- **10:25** — II.VI, II.X, II.XII
+- **10:29** — II.VII
+- **10:36** — II.V, II.X, III.IV
+- **11:6** — I.XIII, II.I, II.XI, III.III, IV.II.I
+- **11:32** — II.VIII
+- **11:32-33** — IV.XII.I
+- **11:33** — III.IV
+- **12:22** — I.XVI
+- **13:1-2** — IV.III.II
+- **13:4** — IV.II.VI
+- **13:7** — II.VII
+- **13:9** — II.XIV
+- **13:16** — IV.XVII.IX
+- **13:17** — II.X
+- **13:18** — I.XI
+
+## James
+
+- **1:6** — II.VII
+- **1:17** — II.III, II.VII
+- **1:19** — II.X
+- **1:20** — I.XV, IV.II.V
+- **1:21** — II.X
+- **1:22** — II.X
+- **2:10** — III.IV
+- **2:13** — IV.XVII.XV
+- **2:19** — I.XIV, IV.II.I
+- **2:26** — IV.II.I
+- **3:2** — II.VII
+- **3:9** — II.VII
+- **4:7** — III.II
+- **4:8** — II.V
+- **4:12** — I.VI, IV.XII.XV
+- **4:13-14** — IV.III.VII
+- **4:17** — IV.IX.IV
+- **5:12** — II.IX
+- **5:16** — I.XIV, I.XVI, II.VII, III.VII
+
+## 1 Peter
+
+- **1:6** — III.IV
+- **1:9** — III.III
+- **1:19** — I.XIV, II.IV
+- **2:9** — IV.V.I
+- **2:11** — II.X
+- **2:13-14** — IV.XII.VII
+- **2:17** — IV.IV.II
+- **2:18** — IV.VII.VI, IV.XVI, IV.XVI.I
+- **3:1** — II.XI
+- **3:4** — IV.I.V
+- **3:15** — II.I, II.VI, IV.II.I
+- **3:21** — II.VIII, II.X, II.XI, IV.VIII.III
+- **4:1** — II.II
+- **4:11** — IV.VII.I
+- **4:13** — III.IV
+- **4:15-16** — IV.II.VII
+- **4:17** — II.X
+- **4:18** — III.III
+- **5:1** — IV.VI.III
+- **5:1-2** — IV.IX.V
+- **5:2** — II.X, III.III, IV.V.X, IV.X.V
+- **5:3** — II.I
+- **5:5** — II.VII
+- **5:7** — III.IV
+- **5:8** — III.II
+- **5:8-9** — III.II
+- **5:9** — III.II, III.IV, III.V
+
+## 2 Peter
+
+- **1:5,6** — II.X
+- **1:19** — II.I
+- **1:20** — II.I, III.I
+- **1:21** — II.I, III.VI
+- **2:1** — II.VI
+- **2:19** — IV.XII.II, IV.XII.III
+- **3:4** — II.X
+- **3:9** — II.XI, III.IV
+
+## 1 John
+
+- **1:5** — II.III
+- **1:7** — I.XVI, II.IV
+- **1:9** — I.XIV, IV.X.II
+- **2:2** — III.IV
+- **2:4** — II.V
+- **2:14** — II.I
+- **2:15,16** — II.X
+- **2:27** — II.X
+- **3:4** — II.V
+- **3:8** — II.IV, III.II, III.VII
+- **3:15** — II.XII, IV.I.XII
+- **3:16** — IV.XVII.VIII
+- **3:17** — IV.III.VI
+- **3:18** — II.XII
+- **3:20** — I.XI, I.XII
+- **3:21** — I.XI, I.XII, I.XIII, III.VII
+- **4:1** — II.I, II.X, IV.V.I
+- **4:7,16** — II.III
+- **4:10,19** — II.V
+- **5:4** — III.VII
+- **5:6** — II.I
+- **5:10** — II.VII
+- **5:14** — I.VIII, II.VII, II.X
+- **5:16** — II.VII
+
+## 3 John
+
+- **1:5** — IV.IX.V
+
+## Revelation
+
+- **1:10** — II.XIII
+- **2:10** — IV.V.X
+- **3:7** — III.I, IV.X.I
+- **5:8,14** — II.V
+- **5:11** — III.I
+- **8:3-4** — III.I
+- **10:5** — II.IX
+- **10:5,6** — II.IX
+- **12:10** — I.III, I.XIII, I.XVI, III.II
+- **12:12** — III.II
+- **14:10** — III.I
+- **14:13** — II.VII
+- **17:4** — IV.I.VI
+- **18:4** — II.X, II.XI
+- **19:9** — III.III
+- **19:10** — III.I
+- **20:10** — I.XVI
+- **20:12** — I.XVI
+- **21:8** — III.IV
+- **21:27** — I.XIII
+- **22:9** — II.VII, III.I
+- **22:17** — IV.IX.V
+
+
+```{=openxml}
+<w:br w:type="page"/>
+```
+
+# Index II. Fathers, Councils, and Cited Authors
+
+*Alphabetical. Same L.C.S location scheme as Index I.*
+
+- **Alvarus Pelagius** — IV.XII.II
+- **Ambrose** — I.XIII, II.I, II.II, II.IV, II.V, II.VII, II.IX, II.X, II.XI, II.XII, II.XIV, III.II, III.IV, III.VI, IV.IV.II, IV.IV.IV, IV.IV.V, IV.V.III, IV.VII.II, IV.VIII.II, IV.VIII.IV, IV.X.II, IV.X.VIII, IV.XII.II, IV.XII.IV, IV.XII.VI, IV.XII.XVII, IV.XIII.III, IV.XIV.II, IV.XVI, IV.XVII.IX, IV.XVII.XVI
+- **Anselm** — II.II, II.III, II.XI
+- **Aquinas** — II.VIII, II.IX, II.XI, II.XII, III.II, III.III
+- **Arelate** — II.VI
+- **Aristotle** — II.II, II.IV, II.VI, II.VIII, II.IX, III.II, III.IV, III.V, III.VI, IV.II.III, IV.II.VI, IV.II.IX, IV.III.VI, IV.XII.VI, IV.XIV.VIII
+- **Arius** — IV.II.IV, IV.VII.II
+- **Athanasius** — II.II, II.III, II.VI, II.VIII, II.XI, II.XIV, III.I, III.II, III.III, III.IV, III.V, IV.IV.II, IV.IV.V, IV.IV.VIII, IV.V.III, IV.V.VIII, IV.VII.I, IV.IX.I, IV.XI.II
+- **Augustine** — I.X, I.XVI, II.I, II.II, II.III, II.IV, II.V, II.VI, II.VII, II.VIII, II.IX, II.X, II.XI, II.XII, II.XIII, II.XIV, III.I, III.II, III.III, III.IV, III.V, III.VI, III.VII, IV.I.III, IV.I.V, IV.I.VII, IV.I.XIII, IV.I.XIV, IV.I.XV, IV.II, IV.II.I, IV.II.II, IV.II.III, IV.II.IV, IV.II.VII, IV.II.VIII, IV.III, IV.III.VII, IV.III.VIII, IV.IV.IV, IV.IV.V, IV.IV.VII, IV.IV.VIII, IV.IV.IX, IV.IV.X, IV.V.III, IV.V.XI, IV.VI.III, IV.VI.V, IV.VII.I, IV.VII.II, IV.VII.III, IV.VIII.IV, IV.IX.I, IV.IX.II, IV.X.I, IV.X.II, IV.X.VIII, IV.X.X, IV.XI.I, IV.XI.V, IV.XII.X, IV.XII.XI, IV.XII.XVII, IV.XIII.I, IV.XIII.III, IV.XIII.V, IV.XIII.VI, IV.XVII.XV, IV.XVII.XVIII
+- **Azorius** — II.V, II.VII, II.VIII, II.IX, II.XII, II.XIV, IV.III.V, IV.III.VIII, IV.XII.XVI, IV.XIV.III
+- **Balduin** — I.XI, I.XVI
+- **Barclay** — IV.XII.II, IV.XII.XIII
+- **Basil** — II.I, II.IV, II.V, II.VII, II.XIII, II.XIV, III.I, III.V, III.VI, IV.I.VIII, IV.II.II, IV.III.VI, IV.III.VIII, IV.IV.IV, IV.IV.V, IV.V.XI, IV.XIII.VI, IV.XVII.XVIII
+- **Bede** — II.XI, II.XIV, III.II, IV.I.X, IV.VII.IV
+- **Bellarmine** — I.VI, II.I, II.V, II.VI, II.VII, II.VIII, II.X, II.XI, II.XII, II.XIV, III.I, III.IV, III.V, IV.II.I, IV.IV.IV, IV.IV.VII, IV.VI.III, IV.VIII.II, IV.X.I, IV.X.III, IV.X.IV, IV.XI.IV, IV.XII.II, IV.XII.III, IV.XII.XIII, IV.XIII.II, IV.XIII.III, IV.XIII.V
+- **Bernard** — I.I, I.II, I.III, I.VI, I.XI, I.XIII, I.XVI, II.III, II.IV, II.V, II.VI, II.X, II.XI, II.XIII, II.XIV, III.I, III.IV, III.VII, IV.I.VI, IV.II.II, IV.IV.II, IV.IV.IV, IV.IV.VII, IV.XII.II
+- **Beza** — II.II, II.IV, II.VII, II.XI, II.XII, IV.VIII.IV, IV.VIII.V, IV.XIII.V, IV.XIII.VI
+- **Biel** — I.XVI, II.VII
+- **Boethius** — II.II, II.XII, IV.I.VI
+- **Bonaventure** — I.IV, I.VII, I.VIII, II.I, II.XI, II.XII
+- **Bozius** — III.VII, IV.XII.II
+- **Brenz** — IV.VIII.II
+- **Bullinger** — IV.IV.VII
+- **Cajetan** — II.VII, II.VIII, II.IX, II.XI, IV.I.IX, IV.I.XIV, IV.VIII.VI
+- **Calvin** — II.IV, II.XI, II.XII, II.XIII, IV.VIII.V
+- **Cassian** — II.VIII, II.XIV, III.II, IV.XVII.XVIII
+- **Chemnitz** — I.XVI, II.I, II.II, II.V, II.VI, II.VIII, II.XI, II.XII, II.XIV, IV.II.IX, IV.VI.VI, IV.VI.VII, IV.IX.VI, IV.IX.VII, IV.X.IV, IV.X.VIII, IV.XII.V
+- **Chrysostom** — II.I, II.III, II.IV, II.VI, II.VII, II.VIII, II.IX, II.X, II.XI, II.XII, II.XIII, II.XIV, III.I, III.II, III.III, III.IV, III.V, III.VI, III.VII, IV.I.V, IV.I.VII, IV.I.VIII, IV.I.XV, IV.III.VII, IV.IV.IV, IV.IV.VII, IV.IV.IX, IV.IV.X, IV.VII.IV, IV.IX.I, IV.IX.IV, IV.XII.XIII, IV.XII.XVII, IV.XIII.III, IV.XVII.II, IV.XVII.XVIII
+- **Cicero** — I.I, I.VII, I.XVI, II.I, II.IV, II.VI, II.VII, II.IX, II.X, II.XIII, III.II, III.V, III.VI, III.VII, IV.I.I, IV.I.II, IV.I.XIII, IV.I.XV, IV.II.IX, IV.XIV.XIII, IV.XVII.VIII, IV.XVII.XVII, IV.XVII.XVIII
+- **Clement** — III.I, III.V, IV.I.VII, IV.V.X
+- **Clement of Alexandria** — I.XI, II.I, II.II, III.I, IV.I.V
+- **Constantinople** — IV.IV.IX, IV.V.VIII, IV.VII.II
+- **Council of Nicaea** — I.IX, II.VI, II.XIV, IV.V.III
+- **Council of Trent** — I.XVI, II.VII, II.VIII, II.XII, III.VII, IV.VI, IV.VI.III, IV.XIII.I, IV.XIII.II
+- **Cyprian** — I.XVI, II.VI, II.VII, II.X, II.XI, II.XII, II.XIII, III.I, III.II, III.III, III.IV, IV.I.III, IV.I.V, IV.I.XII, IV.IV.V, IV.V.III, IV.VII.IV, IV.VIII.VIII, IV.IX.I, IV.IX.IV, IV.IX.V
+- **Cyril** — II.V, II.VI, II.VII, II.IX, II.XII, II.XIV, III.I
+- **Cyril of Jerusalem** — II.XII, III.VII
+- **Damascene** — II.II, II.V, II.VI, II.VII, II.XI, II.XII, II.XIII, III.II, IV.XI.II
+- **Dominicus Soto** — IV.XII.XVI
+- **Elvira** — IV.IX.V
+- **Ephesus** — II.I, II.X, III.III, III.IV, III.V, III.VII, IV.XVII.II
+- **Epiphanius** — II.II, II.V, II.VIII, II.XIV, III.I, IV.IV.IX, IV.V.XI, IV.XI.IV, IV.XIII.III
+- **Erasmus** — II.I, II.X, II.XII, II.XIV, III.V, III.VII, IV.II.IX, IV.IV.V, IV.XIV.XII
+- **Eusebius** — II.II, II.VII, II.IX, II.X, II.XI, II.XII, II.XIII, II.XIV, III.I, III.III, III.IV, III.VI, IV.V.XI, IV.IX.VI, IV.X.VIII, IV.X.X
+- **Eutyches** — IV.VII.II
+- **Gabriel Biel** — I.VII, II.VII, II.XI, IV.VIII.VI
+- **Gerhard** — II.VII, II.XII, IV.V, IV.XII.XV, IV.XII.XVI
+- **Gregory** — I.XI, II.I, II.V, II.VII, II.VIII, II.IX, II.X, II.XI, II.XII, II.XIII, II.XIV, III.I, III.II, III.III, III.IV, III.V, III.VI, III.VII, IV.I.V, IV.II.V, IV.IV.II, IV.VI.V, IV.VII.IV, IV.VIII.II, IV.IX.III, IV.XI.V, IV.XII.II, IV.XIII.II, IV.XIII.IV
+- **Gregory de Valentia** — IV.XIII.V
+- **Gregory Nazianzen** — IV.XI
+- **Gregory of Nyssa** — II.XII, III.VII
+- **Gregory the Great** — II.VII, II.VIII, II.XIV, III.VII, IV.XII.II
+- **Herodotus** — II.IX, III.V, III.VI, IV.I.X, IV.XII.IV, IV.XVI
+- **Horace** — II.XIV, III.V, IV.XVI
+- **Iacobus Loricchius** — IV.XII.XI
+- **Ignatius** — II.XII, IV.I.III, IV.IV.I
+- **Irenaeus** — II.I, II.II, II.XII, II.XIV, III.I, IV.VIII.II, IV.X.X
+- **Isidore** — I.XI, II.VI, II.VIII, II.IX, III.V, III.VI, IV.XIII.IV
+- **Jerome** — II.I, II.IV, II.VI, II.VII, II.VIII, II.IX, II.XI, II.XII, II.XIII, II.XIV, III.I, III.IV, IV.I.IV, IV.I.V, IV.I.VII, IV.II.II, IV.IV.II, IV.IV.IV, IV.IV.V, IV.IV.VI, IV.IV.VII, IV.IV.VIII, IV.V.VI, IV.VI.III, IV.VII.II, IV.VIII.II, IV.XII.XVII, IV.XIII.I, IV.XIII.III, IV.XIII.V, IV.XIV.XII
+- **Josephus** — II.VIII, III.II, III.III, III.V, IV.I.IX
+- **Justin** — II.II, II.IX, II.XI, II.XIII, III.VII
+- **Justin Martyr** — II.II, II.VII, IV.VIII.IV
+- **Lactantius** — II.II, II.V, III.VII, IV.XVII.VIII, IV.XVII.XVIII
+- **Laodicea** — II.VII, II.XIV, III.I, IV.I.VI, IV.VIII.II
+- **Leo** — II.V, II.VII, II.XI, II.XII, II.XIII, II.XIV, III.I, III.VI, IV.I.XI, IV.I.XII, IV.III.V, IV.III.VI, IV.V.III, IV.VIII.I, IV.XII.II
+- **Livy** — II.IX, III.II, IV.XII.XVII
+- **Lombard** — II.VII, II.XI
+- **Loricchius** — IV.XII.XVI
+- **Luther** — II.I, II.VI, II.VII, II.VIII, II.XI, II.XII, III.I, III.II, III.III, III.V, III.VI, III.VII, IV.I.II, IV.II.IX, IV.IV.III, IV.IV.IX, IV.V.I, IV.V.II, IV.V.IV, IV.V.XI, IV.V.XII, IV.VI.III, IV.VI.V, IV.VII.I, IV.VII.VI, IV.VIII.I, IV.VIII.II, IV.VIII.IV, IV.IX.I, IV.IX.IV, IV.IX.VI, IV.IX.VII, IV.X.II, IV.X.VI, IV.X.VIII, IV.XI.III, IV.XII.I, IV.XII.XVI, IV.XIII.IV, IV.XIII.VIII
+- **Macedonius** — IV.VII.II
+- **Manichaeus** — II.XIV
+- **Marcion** — II.XIV
+- **Mariana** — IV.XII.III
+- **Marsilius** — IV.XII.II
+- **Martial** — IV.XII.XVII
+- **Meisner** — IV.XII.XV
+- **Melanchthon** — II.I, II.XII, II.XIV, III.II, III.III, IV.VIII.II, IV.XII.III
+- **Montanus** — IV.VIII.IV, IV.XIII.III
+- **Nestorius** — II.V
+- **Nicaea** — IV.I.VIII
+- **Nicene Council** — IV.VII.I, IV.VIII.II
+- **Nicephorus** — II.II, II.XIV, III.I, III.II, III.IV, III.V, IV.IV.II, IV.IV.IV, IV.V.III, IV.VIII.II, IV.XIII.III
+- **Origen** — II.II, II.VII, II.X, II.XII, II.XIV, III.II, III.III, III.IV, III.VI, III.VII, IV.IV.IX, IV.V.X, IV.XIII.V, IV.XVII.XVIII
+- **Ovid** — I.I, I.III, I.XVI, II.IX, II.XIII, III.II, III.V
+- **Panormitanus** — II.I, II.VIII, II.IX, IV.XII.II
+- **Pelagius** — II.VII, IV.VII.II
+- **Peter Lombard** — II.VII
+- **Peter Martyr** — II.III, IV.V.VII
+- **Photinus** — III.IV
+- **Plato** — II.II, II.VI, III.V, IV.II.IX, IV.III, IV.IV.IX, IV.IV.X
+- **Plautus** — IV.XII.XVII
+- **Plutarch** — II.II, II.VI, III.V, III.VI, IV.I.I, IV.I.VI, IV.I.VII, IV.II.III, IV.II.VI, IV.XIV.III
+- **Prosper** — II.VII, III.III
+- **Sabellius** — II.II
+- **Scotus** — I.IV, III.V
+- **Seneca** — I.I, I.XVI, II.I, II.V, II.IX, II.XI, II.XIII, II.XIV, III.I, III.IV, IV.I.VI, IV.I.VII, IV.I.XII, IV.II.II, IV.II.V, IV.II.VIII, IV.II.IX, IV.VII.IV, IV.XVI.II
+- **Silvester** — II.VIII, III.V, IV.XII.II
+- **Sleidan** — IV.XVII.VIII
+- **Suarez** — IV.III.VI
+- **Suárez** — IV.XII.III
+- **Tertullian** — II.II, II.IV, II.VII, II.XI, II.XII, II.XIV, III.II, III.VII, IV.I.IV, IV.I.V, IV.I.VII, IV.III.I, IV.IV.V, IV.IV.IX, IV.XII.II, IV.XII.XVII, IV.XIII.I
+- **Theodore** — IV.X.III
+- **Theodoret** — III.I, III.V, III.VII, IV.V.III, IV.V.VIII, IV.X.VIII, IV.XIII.III
+- **Thomas** — I.III, I.IV, I.VII, II.I, II.V, II.VII, II.VIII, II.IX, II.XI, II.XIII, II.XIV, III.I, III.III, III.VI, IV.VIII.IV, IV.IX.III, IV.XII.V, IV.XII.VI, IV.XII.X, IV.XIV.XI
+- **Thomas Aquinas** — III.V
+- **Trent** — IV.VI.III, IV.IX.VI, IV.IX.VII, IV.X.III, IV.XIII.X
+- **Trident** — IV.XII.XIII
+- **Valentia** — II.I, II.XI, II.XII, IV.VIII.II, IV.VIII.IV
+- **Vergil** — II.VII, II.VIII, II.IX, II.X, IV.I.IV, IV.I.VII
+- **Vincent** — IV.IV.IV, IV.XI.V
+- **Virgil** — II.VII, III.V, III.VI, IV.V.XI
+- **Xenophon** — III.VI, IV.XIII
+- **Zwingli** — II.I, II.II, III.I, IV.VIII.II, IV.VIII.V
