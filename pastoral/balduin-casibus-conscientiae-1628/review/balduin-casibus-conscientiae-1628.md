@@ -10798,9 +10798,13 @@ Better to give up matters not at our nod than by perjury to noose one's own cons
 
 ### Casus XI. If father and mother are both in need, and the son can help only one, ought he to help father rather than mother
 
-*Reply.* Common sentence of Theologians: father is to be preferred in this case. Though the mother sustained more labor in bearing and educating, the authority of the father is greater — for father is the principal cause of the son, and head of the family, so *Thomas* (2.2 q. 26 art. 10).
+*Reply.* The common sentence of theologians is that the **father is to be preferred** in this case. For although the mother sustained more labors and burdens in giving birth and in the education of the son, yet greater is the authority of the father, — who is the principal cause of the son, and head of the family. So *Thomas Aquinas* (*ST* II-II, q. 26 art. 10) treats: since the father is the more excellent principle of the offspring's being, other things equal, greater honor is due to him.
 
-Yet piety of son requires that mother's need also be considered, and sustenance divided so that mother is not defrauded of paternal support — since Scripture, when commending honor of parents, generally joins father and mother.
+Yet even if the father, by reason of the causes mentioned, has some prerogative over the mother, the piety of the son also requires that the need of the mother be considered, and that alms should be so divided that the mother be not defrauded of the paternal aid — since Scripture, when it commends the honor of parents, generally joins father and mother together, as we heard above (Exod 20:12, Deut 5:16, etc.).
+
+**Practical caution**: if the mother is in more extreme necessity, or if the father can be otherwise sustained (e.g. from a stipend, from other kin), then the natural preference for the father yields to the greater need of the mother. For *ordered charity* looks first at extremity of necessity, and only secondarily at the natural order of persons. — Similarly, if between two brothers only one can be helped, the one in the greater need should be helped first, though in the natural order elder-brother has some precedence.
+
+**In all these matters** the son must remember that he owes *both parents* honor and, when possible, aid; and he should so divide his help that neither parent is left defrauded of what natural piety and Scripture ordain.
 
 ### Casus XII. Whether a son may sometimes deny the offices of piety to parents
 
