@@ -8932,6 +8932,169 @@ Not to be blamed is the *custom of the Church of Germany*, — where some — in
 
 More pertaining to ordination of ministers I have set forth in *De institutione ministrorum verbi* c. 8 and 9 to progress in Christ.
 
-*[T28 pickup: Liber IV Cap. VII — De officio concionatorum ecclesiae (office of preachers of the Church), OCR ln 58116 / phys p. 925. Preamble: office of ministers legitimately called consists in 4 members: (1) propagation of true doctrine; (2) administration of sacraments; (3) reproving delinquents with word — elenchtic office; (4) preservation of order and discipline of Church. Each has its own cases. Cap. VII treats preaching-office cases.]*
+```{=openxml}
+<w:br w:type="page"/>
+```
 
-*[VOLUME REMAINING: Cap. VII (De officio concionatorum, ln 58116-58787, ~15 pp), Cap. VIII (De administratione baptismi, ln 58788-61057, ~45 pp), Cap. X (De magistratu politico, ln 61058-62505), Cap. XI (De subditis, ln 62506-63187), Cap. XII (De officio conjugum, ln 63188-65069), Cap. XV (De liberis + parentibus + servis, ln 65070-67594), Cap. XVI (De defunctis + sepultura + ultima, ln 67595-69119). Approximately 175 physical pages remaining. Estimated 2-3 more tranches to volume close.]*
+## Chapter VII. Cases of Conscience concerning the Office of Preachers of the Church
+
+*De casibus conscientiae circa officium concionatorum ecclesiae.*
+
+### Preamble
+
+Those who are legitimately called and ordained to the ministry of the word — ought so to do all things in their office — for right reason of their vocation and ordination which they have received.
+
+Their office moreover consists in *four members*: (1) In the *propagation of true doctrine*; (2) In the *administration of the sacraments*; (3) In the *reproving of the vices* of hearers by the word — the *elenchtic office*; (4) In the *preservation of the order and discipline of the Church*.
+
+Concerning individual matters many things can be moved, — in which the younger ministers have need of information, — lest they do anything against conscience: — but since concerning others in books elsewhere it has been treated more copiously, — we shall choose the chief points, — of all which now in order we shall speak, — and in this chapter we shall explain the doubts which occur about *the sermons to be held*.
+
+For this head of the ministerial office is one, — and the chief of all, — which pertains to the *pastors and teachers* about whom *Paul* speaks in the same way (Eph 4:11), — that pastors understand that to their office pertains *the doctrine of Christ*.
+
+### Casus I. Whether the minister of the Church can conform his doctrine to the prescription of the magistrate with good conscience
+
+*Reply.* The *unique norm of doctrine* is the *word of God*, in which all the counsel of God is revealed (2 Tim 3:16); whatever cannot make a man perfect toward God is to be despised (2 Tim 3:17). — Wherefore *Peter* commands: *If any man speak, let him speak as the oracles of God* (1 Pet 4:11).
+
+It can however happen — that a *pious magistrate* prescribes a certain form of teaching to the churches of his regions, — not spun from his own brain, but drawn from the Scripture, — collected and approved by learned and religious men, — to this end, — that among so many *heresies* — each of which appeals to Scripture — a certain manner of speaking may be held, — and a *form of sound words* observed.
+
+And here doctrine is comprehended in *public books*, which they call *symbolic*, — because they are as it were the *symbol and tessera of the doctrine*, — which sounds publicly in those churches.
+
+Such books the magistrate can commend to doctors in the churches and schools of his regions, — and mandate that they form sermons according to their prescription.
+
+Thus in the *Nicene Council* under the nod of the most pious Emperor *Constantine* the symbol was drawn up — which is called by the name of the *place*, *Nicene* — of which *Athanasius* in his epistle *ad Epictetum* writes: *A faith set forth by the fathers in synod according to the sacred Scriptures, is sufficient to overthrow every hostile impiety of heresy, and to confirm pious faith in Christ*.
+
+**Symbolic book of our age.** The symbolic book of our age is the *Augustana Confessio* invariata, in the year of Christ 1530 at *Augsburg of the Vindelici* presented to Emperor *Charles V*; — and the book of the *Christian Concord* composed by orthodox Theologians, at the command of the most religious prince, *Augustus Elector of Saxony*, — which, — because it is conformable to sacred Scripture *in every part*, — and produces from their lurking-places the errors of many who name themselves *socii* of the *Augustana Confessio* — ought to be commended to those teaching in the Church before all others: — not indeed as *judge*, — but as *witness* of the doctrine comprehended in Scripture and infallibly explained. — For thus *Augustine* distinguishes between *sacred Scripture* and *other theological writings* (epist. 19 ad Hieronymum): *I alone of these books of Scriptures which are called Canonical — have learned to bear this fear and honor, — that of no of these authors do I believe that anything was written by them in error: — others however I so read, that with whatever holiness and doctrine they excel, — I do not therefore judge to be true, because they themselves so felt, — but because they by those Canonical authors, or through probable reasons, — persuaded me that they do not depart from the truth*.
+
+The *Formula Concordiae* itself also determines this concerning itself, — in the preface, *de compendiaria regula*, etc.
+
+**The status of the symbolic books.** — The commemorated symbols and other writings, of which a little before we made mention (namely the *tria symbola* Apostolic, Nicene, Athanasian, *Augustana Confessio*, its *Apologia*, articles *Smalcaldici*, *both Catechisms of Luther*), do not obtain the *authority of a judge*: — for that dignity is due to the *sacred letters alone*: — but only they *bear testimony* of our religion, — and they *explain* it, — that it may be manifest — in what sense they accepted the sacred letters, — and how they were interpreted by those churches then existing, — and by what reasons they *rejected and condemned* dogmas conflicting with sacred Scripture.
+
+**Different case: an ambiguous prescription is not binding.** — *Another case it is*, — when the magistrate — either wholly given over to *false religion*, — or in some way suspicious of it, — obtrudes libels on the Church — in which Christian doctrine is proposed in *slippery and ambiguous words*, — and nevertheless wills those teaching in the churches and schools to be bound to these as to some *norm of doctrine*: — such ministers of the Church are not held, — but *piously* to examine that libel by the norm of sacred Scripture, — and to point out those errors with solid arguments, — and to seek that they be not compelled to teach anything contrary to Scripture.
+
+In which way of old, — when under *Emperor Charles V* the *Interim* was obtruded on the evangelical churches, — many *Theologians masculinely contradicted*, — even at peril of life, — or loss of office, — although not a few from *too great pusillanimity* consented to Caesar's mandate, — not without scruple of conscience.
+
+For it is *the same* — whether you propose to your hearers doctrine *openly false*, — or *ambiguous and buskin-like* [*cothurno similem*].
+
+Here therefore let the *Apostle*'s saying have place: *That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive* (Eph 4:14).
+
+### Casus II. Whether the minister of the Church for the sake of tranquillity may abstain from *antithesis* and from the condemnation of *false doctors and their doctrine* in sermons with pious conscience
+
+*Reply.* You find among politicals not a few, who not even the mention of true doctrine can bear to be uttered in a sermon, — thinking that disputations concerning religion should be shrouded in silence, — or at least remitted to schools, — that they pertain not to the people: — plainly like of old *Valentinian and Ursacius, Germinius, Auxentius*, and *Demophilus* in the *Rimini Synod* postulated — that individual sentences be not for the future too curiously investigated, — lest dissensions and seditions be moved (as *Sozomen* refers, lib. 4 *H.E.* c. 17).
+
+**Others permit antithesis** — nay call it an *adamantine nail* of true concord (which is the word of *Victorinus Strigel*): — but *doctors of false doctrine* they cannot bear to be refuted *by name* in sermon, — nor their doctrine to be *condemned*. Thus of old in the *Eastern churches* it was sought — that concerning the *divinity of the Son of God* orthodox doctrine be entirely proposed, — and contrary doctrine refuted, — with suppression of the name of *Arius* or of the *Arians*, — to which petition many obeyed (referring *Philip* in *Praelectiones Targinsibus* year 1548). — At the time of *the Interim* there were not lacking those to whom *Caesar* was formidable, — who persuaded, — that *the Pope, bishops, monks* and similar should not be expressly named in sermon, — much less should their doctrine be condemned.
+
+**Others cannot bear it any less**, — than that the *names of their doctors* be expressed, — when we refute their doctrine, — or than the *Calvinist-like* condemnation: — as among other things appears from the *Neustadt admonition* which *Formula Concordiae* opposed cap. 7, — and from *Targeliae antitheses* num. 32: — whence more often it happened that *magistrates were inflamed against doctors of the Church*, — and mandates of inhibition impeded.
+
+**Reply as to why antithesis cannot be omitted.** — For antithesis of true doctrine no one can omit, — since Scripture is *useful for teaching sound doctrine and for refuting contrary* (2 Tim 3:16). — And to the office of a *bishop*, that is, of a minister of the Church, — pertains also *διακρίνειν* [to discern] *precious from vile* (Jer 15:19), — the *clean from unclean* (Ezek 22:26).
+
+Who therefore prohibits ministers of the Church to treat antithesis, — takes a good part of the ecclesiastical ministry. — And although the *more accurate treatment* of controversies pertains chiefly to schools, — necessary however it is — that each preach the refutation to his hearers' comprehension, — that *simpler ones* may not only hold the *foundations of sound doctrine*, — but *refute the errors of adversaries* according to their measure, — lest wholly *hosts* in this genus they be, — if we do not have adversaries' errors from their books thoroughly-known, — we shall deceive both ourselves and others not without blushing.
+
+**Much error in this genus commit those** who condemn our doctrine neither read nor understood. — Of which genus of egregious specimen has *Johannes Ittigius* published in *Orat.*, — that he confesses he has not read the *book of Concord*, — nor ever seen, — in *praelectiones publicis* praelectiones pag. 90 in *vindicatione* — pag. 16, and *utilius* — c. 4, — worst things about that book he has vomited. — Our doctrine of *oral manducation* of *worthy and unworthy*, he calls *two hairs from the horse's tail*. *Two black hairs, pulled from the most beautiful horse's tail, are compared to the beautiful form of a horse, — thus the doctrine of oral manducation of Christ's body, and of manducation of unworthy — nothing profits the institution of the Lord's Supper*. — The doctrine of *majesty of Christ's flesh* he calls *filth of a female nymph, τερατολογήματος* [monstrous-utterance], — a new prostitute in the Church, — Sphinx and Chimera, — in which are all things *Manichaean, and Valentinian, and Arian, and Eutychian, and Nestorian, and Sabellian* — false and inane dogmas. — So lightly certainly we do not judge concerning the doctrine of adversaries not yet known. — For we know that saying (Sir 11:7): *Before thou hearest, do not answer, — and in the midst of discourse do not interrupt: — before thou hast investigated, do not blame anyone; — first investigate, — and before speech-hear-a-response*.
+
+**In antithesis of doctrine also be observed**: — not anything be done from hatred of person, — but all from love of truth, — to which erring ones (if it can be) are to be reduced, — according to the sentence of *Christ* in *homily de anathemate*: *Dogmas of impiety and heretics — one is professed to be argued anathematized, — a man however to be spared, — for his salvation to be prayed*.
+
+**With this refutation also *peace with salt* to be entered** — that is, mildness with pious zeal to be tempered. — For the *Apostle* wills the minister of the Church to be *instructed to every good work* (2 Tim 3:14); — but wills also *seductores to be argued* (Titus 3:10) — in the manner Christ himself, mildest of all men, called *Herod a fox* (Luke 13:32); — *pseudo-prophets ravening wolves* (Matt 7:15); — *scribes and Pharisees hypocrites, whited sepulchres* (Matt 23:27); — *Paul* called *pseudo-apostles deceitful workers* (2 Cor 11:13), — *enemies of the cross of Christ* (Phil 3:18), — and cursed *whoever preaches otherwise* (Gal 1:8), — and prayed for the *disturbers of the Galatian church* that they be cut off (Gal 5:12), — and named specifically *Hymenaeus and Philetus* (2 Tim 2:17), — and *Alexander the coppersmith* (2 Tim 4:14).
+
+To this example did the *Fathers of Constantinople* specifically anathematize *Arius, Eutyches, Macedonius, Pelagius*, and other heretics — and to those who orthodox to feel would not, — to these they said *anathema*, — as it is in Canon 1 of the *Council of Constantinopolitan* first; — and *Augustine* to all heresies of his time struck with anathema (lib. 5 *Hypognosticon* c. 6). — And why should it not be lawful to name those, — whose doctrine we know to be false? — for how otherwise can others be warned against them by the hearers?
+
+**Objections and reply.** — Which objections are made by adversaries are of no great moment, and are refuted in *disputat. de anathemate* cap. 5 thesi 9 and following.
+
+**From abstaining from anathema not follows omission of elenchus.** — From condemnation neither is Church-integrity — according to *Jerome* on ep. 61 *ad Pammach.* — *another people hear, another priests preach*; — but *heresiarchs* are condemned, — and those who to them pertinaciously-adhere, — monstered-to-the-truth-not-yielding, — in the manner *Paul* the *disturbers* of the church of *Galatia* condemned, — the church however he loved — and rightly-formed brethren in her acknowledged (Gal 5:1) — with which also the *Formula Concordiae* explicated its mind concerning condemnations in the *preface*.
+
+**Third: from condemnation of false dogmas the propagators are to be pierced specifically.** — In antithesis and condemnation of false dogmas — the propagators are to be pierced specifically. — We have foundations sufficiently firm: — (1) *God's mandate is* — that those who lead the *people to idolatry — into stones-crush* (Deut 13:11); — and *pseudo-prophets be avoided* (Matt 7:15). — (2) *Apostolic mandate: — that those who make dissensions and offenses — be observed* (Rom 16:17); — that *those who resist the truth be corrected* (2 Tim 3:17); — in all which places, — not so much erring doctrine — as the *reprehension of false doctors* is enjoined.
+
+By which way *Elijah* stood publicly against *Ahab* for idolatry (1 Kgs 18:17); — *Baalites* (1 Kgs 18:25); — *Isaiah* reproving *the people of Israel*, *Isaiah* arguing *Ephraim* (Isa 28), — arguing *pseudo-prophets* (Isa 56:10, seq.); — *Jeremiah* (Jer 23, 54).
+
+**5. The inhibition of the elenchtic office also promotes impious doctrine**, — with dogs silent — who ought to watch — for the Lord's sheep, — easy is access of the wolf to the sheep.
+
+**6. It has a species also of *Epicureanism*** — as though one religion is not better than another. For if we have some dogma for erroneous, — why do we not permit that publicly to be argued and damned?
+
+**7. And finally not far off it is from *ἀσέβημα* [impiety]** — for it is not of the magistrate — to prescribe to ministers of the Church, — what to teach, — what to refute, — when to speak, — when to be silent. — For, as *Ambrose* to Emperor *Theodosius* said (lib. 5 epist. 26): *Neither is it of the empire, — to deny liberty of teaching, — nor of the priesthood, — to say not what he feels*.
+
+**8. Therefore ministers of the word are not bound to obey mandates prohibiting the elenchus**, — because it is *manifestly against the word of God*, — which a pious man ought to obey more than men: — in the manner in which, — when to *Peter* and other Apostles preaching of the gospel of Christ was prohibited by *Sadducees and heads of people*, — they did not obey, — saying: *whether it is right to obey you rather than God, judge ye: for we cannot but speak the things which we have seen and heard* (Acts 4:19).
+
+**Objections from adversaries are of no great moment** — and are refuted in *disputat. de anathemate* — where at large: for even error in doctrine often serpent-like as *cancer* (2 Tim 2:17).
+
+### Casus III. If those *erring in doctrine* by name may be refuted in sermon, — is it not also lawful *those sinning in morals* by name to be pierced
+
+*Reply.* Even if *vices of hearers* in sermons must be gravely castigated, — for here also is part of the *elenchtic office*, — whose author is *the Holy Spirit himself*, who *convinceth world of sin* (John 15:8), — nevertheless it is not lawful to *pierce any delinquent in morals by name*, — or so to depict him in his colors, — that anyone can point him out with a finger: — which especially is most scandalous *in the magistrate's own house*, — as it is prohibited in our churches.
+
+Neither did *Christ* nor the *Prophets* nor the *Apostles* do this, — although they refuted *pseudo-doctors* even *specifically*.
+
+**Great is the difference** between errors in doctrine and sins in morals. — (1) In *doctrinal errors* it treats of the *salvation of the whole church*, lest it be led astray; — in *sins of morals* it treats only of the *conversion of individual sinners*.
+
+**(2) Sins of morals fall under the *external senses*, — and cannot long be hidden**: — errors in doctrine often serpent-like as *cancer* creep (2 Tim 2:17).
+
+**(3) Sins of morals only harm by example**: — errors in doctrine deliberately are sown, — and to others by way of instruction are propagated.
+
+**(4) The *heretic* teaches to *believe evil*: — the *wicked man* does not teach others to *live evilly*.**
+
+**(5) The *heretic* by believing badly *also makes them live badly*** — for *badly is lived*, if *God is not well believed*, as *Augustine* says (lib. 5 *De civ. Dei* c. 10); — but the *wicked man* only by his own example harms his life.
+
+More accurate *animadversion* therefore is needed on *heretics* than on those who *live badly*: — whence also there is *diversity in the elenchus*.
+
+### Casus IV. Whether the minister of the Church can with good conscience entirely omit the *elenchtic office*
+
+*Reply.* In no way. — In the manner in which Scripture is *useful for reproving and correcting* (2 Tim 3:16), — thus the minister of the Church ought to be *able to exhort in sound doctrine and to convince the gainsayers* (Titus 1:9).
+
+**They are *shepherds*** — and *feed their sheep* so that — what is weak — they *corroborate*, — what is *sick* they *heal*, — what is *broken* they *bind up*, — what is *pushed out* they *bring back*, — what has *perished* they *seek* (Ezek 34:4).
+
+**Architects they are *in the house of God*** (1 Cor 3:10), — therefore not only should they *build*, — but should also *resist those who* by false doctrine or by corrupt morals *destroy* the edifice, — and restore what has been destroyed. *What is it to be an architect in vain*, as *Bede* says on cap. 5 epist. 1 *ad Petrum*, — *to gather stones which are to be destroyed by others, — to permit*.
+
+**Bishops are *watchmen*** (Ezek 3:17; 33:7), — therefore let them *animadvert* on those who *live impiously*, — and *announce their impiety to them*, — otherwise *their blood God will require from their hand* (Ezek 3:18, seq.).
+
+**And for this cause God himself enjoined ministers of the word:** *Cry, — cease not, — exalt your voice like a trumpet, — and announce to my people their crimes, — and to the house of Jacob their sins* (Isa 58:1).
+
+**Ill-hear the Prophets:** — *who as it were sound not in the desert, — do not ascend against the front, — nor oppose the wall for the house of Israel, — to stand in battle in the day of the Lord* (Ezek 13:5); — *who deceive the people, saying: peace, and there is no peace* (v. 10); — *who sew cushions under every elbow of the hand, — and make coverings under the head of every age to catch souls* (v. 18); — *who violate the Lord to the people, — for handfuls of barley and morsels of bread, — to slay souls that should not die, — and to save souls that should not live* (v. 19).
+
+**Diverse however are the ways of men.** Some sin *from weakness of the flesh*, — and *easily admit correction*: — these are to be *mildly treated*, — and with the *spirit of gentleness*, — according to the admonition of the Apostle: *A servant of the Lord must not strive, — but be gentle* (2 Tim 2:24); — and again: *If any man be overtaken in a fault, — you who are spiritual, restore such an one in the spirit of meekness* (Gal 6:1). — In which sentence writes *Chrysostom* in homily 1 *De incomprehensibili natura DEI*: *With an angry man let us act modestly, — and lovingly, — and humanely dispute: — nothing prevails more than mildness, — nothing more efficacious than modesty*. — *D. Paul* also wills consideration of *sex and age*: *Rebuke not an elder, — but entreat him as a father; — younger, as brethren; — elder-women, as mothers; — young-women, as sisters, — in all chastity* (1 Tim 5:1-2).
+
+**Some however sin *scandalously and enormously*, — and *in sinning are obstinate***, — whence it comes that *vices grow*, — with peril of salvation: — here *asperity* is required, — even without discrimination of age. For as *Gregory* speaks (lib. 7 epist. 1): *Where a senior gives an example of interim to youths, — is to be smitten with severe rebuke*. — Hence is that of the Apostle: *Those that sin before all, — rebuke, — that others also may fear* (1 Tim 5:20). — And *Cyprian* writes (*de lapsis*): *To tolerate the molestness of pertinacious men is not to love a man, — but to accede: — if any nourishes sinners and impious in wickedness, — and by obsequious deceives, — deceives itself like an unskilful physician, who softly-handles heavy wounds with sparing-hand*.
+
+**In this elenchtic office are to be avoided:**
+
+**(1) That *vengeance* be not sought in the vice-taxation, — but the *emendation of the delinquent, — or the aversion of scandal***. — For in every punishment threefold-view is: — either that he who is punished may be *emended*, — or that his punishment may render others *better*, — or that with *public evils* others may live more securely, — as *Seneca* admonishes (lib. 1 *De clementia* c. 22).
+
+**(2) Before some one's vice is *taxed in sermon*, let the *gradus of admonitions* be premised, — as *Christ* wills** (Matt 18): — that is, — let the delinquent first be admonished *privately* of his delict: — if he does not care, — let one and another of the ministry be adhibited, — and the admonition repeated: — if neither by this reason he is emended, — let him be told to the Church, — that is, — let him be *publicly reprehended*, — if perchance suffused with shame he may wish to return to the fruit.
+
+**(3) Moreover *no delinquent* be *specifically pierced in sermon*, — or so painted, that anyone can understand who is noted**: — which in the *Constitutio Electoralis* art. 3 *curialis* is expressly interdicted.
+
+If however some hearer applies this general rebuke to himself, — the *efficacy of the word* is thence to be recognized, — because *the word is living and efficacious, — sharper than any two-edged sword, — piercing to the division of soul and spirit* (Heb 4:12) — and it has such efficacy — both in the *pious*, who by this medium are emended, — as was made in the hearers of *D. Peter* (Acts 2:37), — as in the *impious*, — which happened to the hearers of *D. Stephen* (Acts 7:54).
+
+### Casus V. Whether the minister of the Church for *vehement rebukes* may be summoned to court before the political magistrate
+
+*Reply.* *Pious zeal* in arguing vices even *publicly in sermon* is not to be extinguished, — provided the minister of the Church remains *in generalibus*, — without express nomination of delinquent persons, — or their-description. For it is not becoming ministers of the word to be *mute dogs* (Isa 56:10), — or blind watchmen, — from whose hand *God will require the blood of the dying in his sin* (Ezek 3:18).
+
+**If anyone therefore thinks himself injured by the minister**, — whom by that name before the magistrate he does not doubt to summon to court, — the minister cannot be compelled to *appear and answer*, — partly because *the political magistrate is not the competent judge* of what pertains to the minister's office, — partly because *the minister did not conduct his own cause, — but Christ's, — in the manner in which he is legate*, — and through whom *God himself is said to exhort* (2 Cor 5:20). — Wherefore *Christ said to the Apostles and their successors in ministry: — He that heareth you heareth me; — he that despiseth you despiseth me* (Luke 10:16). — With him therefore let him deal, — who is so impatient of admonitions.
+
+**If however it happen (as often it does)** — that a minister has *κακοζηλίαν* [ill-zeal], — and from *private affects* too much inclines to species-of-personal-attack, — and *without preceding gradus of admonitions* inveighs against some person, — either *by name*, — or *by vivid colors*: — in this indeed he sinned, — and is worthy of correction; — but *the cognition of the cause pertains not to the political magistrate*, — which would not be without contempt of the ministry: — but let the matter be referred *to the ministry*, — or for gravity of excess *to the Consistory*, — that the excess be punished, — and to the ministry its authority nonetheless be left.
+
+### Casus VI. Whether *the magistrate himself* also is to be reproved in sermon
+
+*Reply.* Many there are who cannot bear this, — call it *crimen laesae maiestatis*, — and sedition — by which subjects are moved to *contempt of the magistrate*.
+
+But it should be thought — that even the *magistrate* is taken *from among men*, — who can slip, err, and be deceived; — turn, — they are not men who in the ministry deal with them, — but the *Holy Spirit* whose office is *to convince the world of sin* (John 16:8), — who through the mouth of the ministers deals with others in the world contemned. — *Greater however is the majesty of the Holy Spirit* — than of most powerful kings and princes; — therefore *crimen laesae divinae majestatis* commit those, — who wish to hear *nothing harsher* against the magistrate, — but *only pleasing things*.
+
+**A faithful minister of the Church therefore** — cannot in this genus spare even the magistrate — (who is a *good part of the Church*), — if need be.
+
+**Let this correction however tend not against the magistrate qua magistrate** — for that would tend against the very *ordinance of God*, — which no man ought to overthrow — or bring into contempt among others: — but *against the vices of the magistrate*, — which often more enormously in this order of men are found than in others, — according to the customary little verse:
+
+> *Every vice of the soul so much more conspicuous in itself has crime:*
+> *the greater who sins, — the greater is held.*
+
+**Vices of the magistrate are of *two kinds*.** — *Certain* are in the magistrate — *as in a man*, — which he has *in common with others*, — like *homicide*, *adultery*, *revels*, and similar things: — that these must be *taxed in sermon* no one can deny, — unless someone would wish to estimate — that the magistrate has *privilege against the law of God* of sinning freely. — Thus *Nathan* argued *David* for adultery and homicide (2 Sam 12). — *John the Baptist* argued *Herod* for incest (Mark 6:14).
+
+**Other are the *vices in themselves* which are perpetrated against the *office of the magistrate***, — like *harshness and tyranny*. — And here again distinction is needed. Rightly it is said: *Of tyrants many things are to be pardoned*. — Sometimes however tyranny and harshness is manifest, — namely when *exactions* are made from the people, and *new burdens* imposed *without mode and without public necessity*, — in the way in which *Pharaoh* harshly treated the *Israelites in Egypt*, — *Nebuchadnezzar* the same in the *Babylonian captivity*, — or when the magistrate takes the goods of subjects *by species of right unjustly*, — as *Ahab* the *vineyard of Naboth* (1 Kgs 21:5); — and as *certain nobles* do — who *extort corn* from their subjects for a *tiny price*, — obtrude on them *ill-cooked beer*, — make their goods *vendible*, — and other things of this genus. — Such *harshness, tyranny, and injustice openly* — by the ministry of the word is to be *taxed*, — in the manner in which *Moses* did to *Pharaoh*, — *Isaiah and Jeremiah* to *Nebuchadnezzar*, — *Elijah* to *Ahab*, for similar flagitious deeds reprehended.
+
+**Otherwise it stands**, — when *public calamities* befall, — where the magistrate cannot help the republic without *subsidies from subjects*. — There if *new contributions* are exacted from the people, — the magistrate is not to be reprehended; — but the minister of the word ought to admonish the people of the *differences of times*. For some age is *golden*, some also *iron*, — some flourishes and is *grateful to the people*, — some also *withers*, — and to the people is *hard*: — under *David and Solomon* the state of the Church was flourishing, — under *Ahab* not. — The sins of this people are the cause of *non-felicity*, in which the magistrate too is involved.
+
+**As therefore the calamity of the magistrate** — by the beneficence of subjects is to be lifted, — especially when it makes for the *advantage of the Republic*: — so conversely *the rapacity and injustice of the magistrate* — is not to be passed over in silence, — but reproved before others in sermons, — as the *Prophets* frequently — (especially *Habakkuk* c. 1) — gravely argued *the vices of princes*.
+
+Whence *Luther* writes in *comment. in Hebraeos* tom. 5 *Ien. Germ.* fol. 130. 4: *No one is more in fault, — that so great injustice is in lands, — than the magistrate, — whose office it is to punish injustice, — that not only he does not do it, — but himself also with iniquity presses down subjects, — which iniquity from head flows to members, — this God cannot bear: — therefore at the time of the Babylonian captivity, — Nebuzaradan the chief captain of the warfare of Nebuchadnezzar led away the king of the Jews and grandees, whom he took to Babylon, — but of the poor in the land he left vinedressers and agriculturalists* (2 Kgs 25:12).
+
+**Caution however in this genus** — lest by this elenchus of the magistrate the *reverence and obsequium* — which are due to the magistrate — be diminished: — therefore let those vices indeed be taxed, — but *with common admonition to the people* — that they not therefore *detract the obsequium due to the magistrate*, — but themselves also *recognize themselves as men*, — pray for their *emendation*, — and bear *their own burden patiently*: — and this *for God's sake*, — in whose place the magistrate — even *not altogether the best* — is prefect to them: — in the manner in which *D. Peter* commands to obey servants their lords — *not only the good and moderate, — but also the froward or morose* (1 Pet 2:18).
+
+Of other things — which pertain to sermons *usefully and to the edification of hearers* to be formed, — I have sufficiently treated in *Institut. minist.* c. 12-14 sequ., — which here to be repeated I supersede.
+
+*[T29 pickup: Liber IV Cap. VIII — De casibus conscientiae circa administrationem baptismi (administration of baptism), OCR ln 58788 / phys p. 936. Preamble: second office of ecclesiastical ministry concerns administration of baptism — whose necessity is greater since it is *sacrament of initiation and gate to grace*, whence many circumstances require careful discernment.]*
+
+*[VOLUME REMAINING: Cap. VIII (De administratione baptismi, ln 58788-61057, ~45 pp), Cap. X (De magistratu politico, ln 61058-62505), Cap. XI (De subditis, ln 62506-63187), Cap. XII (De officio conjugum, ln 63188-65069), Cap. XV (De liberis + parentibus + servis, ln 65070-67594), Cap. XVI (De defunctis + sepultura + ultima, ln 67595-69119). Approximately 160 physical pages remaining. Estimated 2 more tranches to volume close.]*
