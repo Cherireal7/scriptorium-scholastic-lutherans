@@ -167,11 +167,11 @@ Preface ................................................................... 19
 
 **Liber IV.** Toward Human Affairs ....................................... 683
 
-Index I. Scripture Citations ........................................... 1030
+Index I. Scripture Citations ........................................... 1031
 
-Index II. Fathers, Councils, and Cited Authors ......................... 1087
+Index II. Fathers, Councils, and Cited Authors ......................... 1088
 
-Index III. Subjects (Rerum) ............................................ 1093
+Index III. Subjects (Rerum) ............................................ 1094
 
 *Page numbers refer to physical pages of this English edition, which runs about 1114 pages total.*
 
