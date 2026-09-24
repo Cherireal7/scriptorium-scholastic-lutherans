@@ -220,7 +220,7 @@ Total: ~700 pp body + ~8 pp front matter + folding table. Re-cut into **nine tra
 
 ## Coordination with parallel Scholastic Lutherans chats
 
-- **Chytraeus** — COMPLETE + POLISHED 2026-08-30 (commit `2658f99` on `Cherireal7/scholastic-lutherans` private).
+- **Chytraeus** — COMPLETE + POLISHED 2026-08-30 (commit `2658f99` on `Cherireal7/scriptorium-scholastic-lutherans` (now public)).
 - **Flacius** — kick-off + source sighting 2026-08-30 (commits `9c1eb56` + subsequent). Different category (`polemics/`), different language (Latin), no per-work file collisions.
 - **Quenstedt *Exercitationes*** — new parallel chat opening (per [[scholastic-lutherans-parallel-work-2026-08]]). Different category (`encyclopedias/`), different language (Latin), no per-work file collisions.
 - **`shared/terms.yaml`** — shared. This work's entries live in a dedicated `# ─── PASTORAL / SECONDARY — Große, Die alten Tröster (1900) ───` section below the Flacius section-end marker; new tranche entries append below the Große section-end marker so parallel chats' additions do not interleave.

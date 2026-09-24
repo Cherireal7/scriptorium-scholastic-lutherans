@@ -138,7 +138,7 @@ Build budget: 2 builds total (Tranche 2 mid-checkpoint, Tranche 3 volume-final) 
 
 ## Coordination with parallel Scholastic Lutherans chats
 
-- **Chytraeus 1594** — COMPLETE + POLISHED as of 2026-08-30 (per [[scholastic-lutherans-program]] table). Pushed to `Cherireal7/scholastic-lutherans` (private). No further coordination needed; catechetical vocabulary is stable.
+- **Chytraeus 1594** — COMPLETE + POLISHED as of 2026-08-30 (per [[scholastic-lutherans-program]] table). Pushed to `Cherireal7/scriptorium-scholastic-lutherans` (now public). No further coordination needed; catechetical vocabulary is stable.
 - **Flacius *Catalogus Testium* (1556)** — in flight in a separate chat since 2026-08-30 (`caa5c62` on same private repo). Different category (`polemics/`); no file collisions. Vocabulary lives under `shared/terms.yaml` `# ─── POLEMICS — Flacius, Catalogus Testium Veritatis (1556) ───` section, closed by a `# FLACIUS 1556 — KICK-OFF` end-marker.
 - **Grosse *Die alten Tröster* (1614)** — parallel Chat B, pastoral category. No file collisions.
 - **`shared/terms.yaml`** — shared. This work's entries live in a new dedicated `# ─── ENCYCLOPEDIAS — Quenstedt, Exercitationes de theologia in genere ───` section appended *below* the Flacius end-marker. Tranche-1-and-later entries append below a matching `# QUENSTEDT — KICK-OFF` end-marker so parallel chats' appends do not interleave.

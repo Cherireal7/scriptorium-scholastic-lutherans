@@ -192,7 +192,7 @@ Page-boundaries are approximate. Sight the exact chronological turn-points from 
 
 ## Coordination with parallel Scholastic Lutherans chats
 
-- **Chytraeus** — COMPLETE + POLISHED as of 2026-08-30 (per [[scholastic-lutherans-program]] table). Pushed to `Cherireal7/scholastic-lutherans` (private). No further coordination needed.
+- **Chytraeus** — COMPLETE + POLISHED as of 2026-08-30 (per [[scholastic-lutherans-program]] table). Pushed to `Cherireal7/scriptorium-scholastic-lutherans` (now public). No further coordination needed.
 - **Quenstedt** *Exercitationes* and **Grosse** *Die alten Tröster* — new parallel chats opening (per [[scholastic-lutherans-parallel-work-2026-08]]). Different categories (`encyclopedias/` and `pastoral/`); no per-work file collisions.
 - **`shared/terms.yaml`** — shared. Both other chats will append. This work's entries live in a dedicated `# ─── POLEMICS — Flacius, Catalogus Testium (1556) ───` section below the Chytraeus completion marker; new tranche entries append below the Flacius section-end marker so parallel chats' additions do not interleave.
 - **`shared/reference-custom.docx`** and **`shared/build.ps1`** — DO NOT modify from this chat. Locked at repo-init state.
