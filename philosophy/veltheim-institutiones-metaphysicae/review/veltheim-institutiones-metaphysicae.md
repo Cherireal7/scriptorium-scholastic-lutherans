@@ -405,3 +405,141 @@ Entirely the same, *mutatis mutandis*, must be said concerning the simply first 
 — ❦ —
 
 *[T1 closes: Front matter (title, copyright, Translator's Note), Dedicatory Epistle, Preface to the Reader, List of Auditors (97 names), and Caput Praeliminare in full (50 §§). Caput I — De Ente et Non Ente — follows in T2.]*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Part I — Of Things Really Abstract from Sensible Matter *according to Indifference*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Caput I. Of Being and Non-Being, with the various distinctions of each, and of Being by Accident
+
+### *De Ente et Non Ente, variisque utriusque distinctionibus. Item De Ente per Accidens.*
+
+---
+
+**§ 1.** ***Being*** (*Ens*) is said to be ***that which truly exists***. It is also wont to be delineated thus: *that which, with no one thinking of it, exists* — i.e. *that which exists, even though no one think that it exist*.
+
+> **Notes.**
+>
+> **I.** In vain do you ask for a *definition* of being, since being, by reason of its utmost commonality, cannot be defined; but what has just now been said can suffice in the place of a delineation.
+>
+> **II.** When it was said *with no one thinking of it*, this must be understood of the thinking of a *created intellect*: for otherwise it cannot be denied that *nothing exists unless God know that it exists*; yet in our mode of knowing it is first that something — e.g. God, sky, earth — exist, and secondly that it is known by God to exist.
+>
+> **III.** If *being* is taken as it was just now delineated, then it is common to one — nay, *most common to one*, that is, must be referred to the first class, viz. of those which closely approach the univocals; and yet there is no doubt but that in another sense *being* can, with saving truth, be referred to the second class, viz. of those which more closely approach the equivocals: both are agreeable to Aristotle's doctrine.
+
+**§ 2.** ***The opposite of being is Non-being*** (*Non ens*); and that is called *non-being* which truly does not exist.
+
+> **Notes.**
+>
+> **I.** If that is *being* which truly exists, then by force of opposition that will be *non-being* which actually does not exist.
+>
+> **II.** An *immediate* and the *greatest of all* opposition is given between *being* and *non-being*.
+>
+> **III.** Not a few call the *being of reason* (*ens rationis*) the opposite of being; but it must be noted (1) that *being of reason* is not opposed to being *immediately*, but *mediately* — namely by the mediation of non-being, since *being of reason* is contained under *non-being* as the narrower under the wider; (2) that many things are neither *real beings* nor *beings of reason*: e.g. the *rose in winter* is not a being (since it truly does not exist), yet neither is it a being of reason, since (as will be noted hereafter) a being of reason is *an impossible something*, which cannot be said of the rose in winter, since it is contained in the number of *possibles* — for it is a *being in potency*, and every being in potency is a *possible being*.
+
+**§ 3.** Without any delay we proceed to the chief distinctions of *being* and *non-being*. In the Schools of the Metaphysicians distinction is made between ***possible being*** and ***actual being***: the former by the Scholastics was wont to be called *Nominal* being (*ens Nominale*), the latter *Participial* being (*ens Participiale*). ***Possible being*** is called *that which can exist*; ***actual being*** is called *that which exists*. But let it be well noted that this distinction cannot be held by the accurate Philosopher as a true *division of being*: the reason is that *possible being as such is not true being*.
+
+> **Notes.**
+>
+> **I.** Deliberately it is said *possible being as such is not true being*: for we do not deny that a possible being *can be* a true being — but not *as such*. For every true being is a possible being, but not every possible being is a true being; for by this that something is a true being, namely that it exists: it is not however that all that can exist, forthwith exists.
+>
+> **II.** So, if any should argue thus: *The sky is a true being. The sky is a possible being. Therefore, some possible being is a true being* — we grant the whole argument, if the conclusion be taken in the material or divided sense; but if it be understood in the formal or composite sense, then the conclusion comes out most false. Briefly: the *fallacia compositionis* is committed.
+>
+> **III.** Hence the distinction just adduced must by no means be confounded with the distinction immediately following, as will appear from the reasons just about to be given.
+
+**§ 4.** It is also commonly wont (2) to be distinguished between ***being in act*** (*ens actu*) and ***being in potency*** (*ens potentia*); but any estimator of the more accurate Philosophy will never sufficiently wonder why so many pass this distinction off as a true *division*. For *being in potency* is called *that which in act is not a being, yet can be*: as, *the rose in winter*. ***Being in act*** is called *that which actually exists*, or *that which is in act*.
+
+> **Notes.**
+>
+> **I.** *To be in act* denotes the same as *to exist*.
+>
+> **II.** Thus *being in potency* and *possible being* differ: (1) *being in potency* does not extend so widely as *possible being*, since every being in potency is a possible being, but not every possible being is a being in potency: e.g. the *rose in winter*, because it is a *being in potency*, is also called a *possible being*; but the *rose in spring*, if it be in act, is a *possible being* — it can be — yet the rose in spring, when it is, is not a *being in potency*. (2) In the *divided* sense this proposition can be true: *a possible being is a true being*; but this proposition — *a being in potency is a true being* — can never be true, neither in composite nor in divided sense: for as long as something is a *being in potency*, so long it is in no way a true being. (3) As *animal* stands to *man* and *brute*, so in its own manner *possible being* stands to *being in act* and *being in potency*: for as *animal as such* notes neither *man* nor *brute*, so *possible being as such* notes neither *being in act* nor argues *being in potency*, but is abstract from both.
+>
+> **III.** Therefore these two are most distinct: *to be in potency* (*esse potentia*) and *to be able to be* (*esse posse*): for *to be in potency* cannot stand with *to be in act* — that is, *what is in potency, is not in act*; on the contrary, *to be able to be* and *to be in act* can stand together — that is, something can *be* and yet actually *is*; nay, every thing which is in act, *can be*: for unless it could be, it would be impossible, and if it were an impossible being, how would it be?
+
+**§ 5.** Though the distinctions just adduced cannot be held as true divisions of being, there is no doubt but that there is place for true divisions of being also. And to note this in passing, as it is the most common, so by us also it is held as the first and immediate division of being into ***substance and accident***. There are meanwhile other and far more divisions of being, and any *disjunctive attribute* of being, as they call it, is in the judgment of the more accurate Metaphysicians nothing other than a true division of being. But of these solidly, and so far as the reason of our institute requires, it will be treated in its own place.
+
+**§ 6.** It does our matter not a little good if we also elicit the ***division of non-being***. The most commodious division of non-being is this: *non-being is either possible or impossible*. ***Possible non-being*** we call *that which in act is not — i.e. does not exist — yet can exist*: e.g. the *rose in winter*, a *mountain of gold* (for why by the absolute power of God could a mountain of gold not exist?). ***Impossible non-being*** is called *that which in act is not, that is, does not exist, so that neither can it be or exist*: e.g. *blindness* (for neither does blindness exist, nor can it exist), a *square circle*.
+
+> **Notes.**
+>
+> **I.** Sometimes *possible non-being* is wont to be called absolutely *non-being*; *impossible non-being* is also called *impossibile in essendo*.
+>
+> **II.** *Possible non-being* with the more accurate Philosophers is the same as *being in potency*. For these do not hold *being in potency* as a true being: *it is not a being; therefore it is a non-being*, since from a finite negative proposition the consequence always holds to the infinite affirmative on the side of the predicate, provided the predicate consists of a single word.
+
+**§ 7.** To ***non-beings*** belong *beings in potency*, *negations* (and *pure privations*), *impossibles*, *beings of reason*. In some manner also *beings by accident* (*entia per accidens*) can be referred hither, and in some sense they are so referred by the more accurate Metaphysicians.
+
+> **Notes.**
+>
+> **I.** It becomes the cultivator of First Philosophy altogether to know these falsities, lest he at once stumble on the threshold of metaphysical erudition. And truly, whoever rightly attends to this paragraph will — without further leading by the hand — easily grasp that *the distinction of being into real being and being of reason can by no means be called immediate*: for many things are given as *middle* between real being and being of reason — namely, all those non-beings which, besides *beings of reason*, were by this very fact enumerated.
+>
+> **II.** On the less experienced sometimes this very dictum has imposed, which is commonly said: *Real being exists apart from the operation of the mind, i.e. apart from being objectively in the intellect. Being of reason does not exist apart from the operation of the mind, i.e. apart from being objectively in the intellect.* But these propositions, if the terms be taken as they lie, do not yet certainly suffice to understand rightly the difference of being of reason from real being: for of every non-being whatsoever it must be said that it does not exist apart from the operation of the mind.
+
+**§ 8.** That ***beings in potency are non-beings*** follows from this, that in act they are not beings. Rightly and finely says **Aristotle**: *τὰ δυνάμει ὄντα, οὐκ ἔστιν, ἐπεὶ ἐνεργείᾳ οὐκ ἔστιν* — *"beings in potency are not, since in act they are not."* To this point tends Aristotle's mind: that *to be in act* is the same as *to exist*, and that nothing is a true being unless it exist: e.g. non-beings are *the rose in winter*, *snow in summer*, since they do not exist. For as *I am* signifies the same as *I exist*, not the same as *I can*, so *being* is the same as *existing*.
+
+> **Notes.**
+>
+> **I.** The matter can be most easily perceived in this way: As he who *can be* learned is not forthwith learned, and he who *can have* a wife does not on that account forthwith have one, so what *can be* a being is not forthwith a being. In each case the reason is equal, as any man sees who is yet free from preconceived or vulgar opinion.
+>
+> **II.** This indeed we do not deny: that **Aristotle** in various places calls *being in potency* a *true being*. But there he does not treat of being in potency simply so-called — i.e. of that which plainly is not, though it could be — but of *being in potency secundum quid*, that is, of that which absolutely speaking is a being, yet in a certain mode is a non-being, since it is not such a being as from it can be made. For example: Aristotle calls bronze a *being in potency* — not because bronze plainly is not, but on this ground, that it is a *statue in potency*, since out of bronze a statue can be made.
+>
+> **III.** We could also have said of *the possible as such* that it is not a being: the reason is easily learned from what precedes — for the possible as such is not an *existent*, but *in so far as it is at the same time said* (i.e. in act). Meanwhile, since the possible can be a true being, though not as such, we therefore leave *the possible* as really abstract from being and non-being.
+
+**§ 9.** That ***negations are non-beings***, no man of sound judgment will doubt, so that no proof whatever is needed: for a *pure negation* speaks no true existence. The like judgment be made of ***privations***, if they be considered *formally* — that is, on the side of that which they signify in the straight case: e.g. when it is asked whether *blindness is given in that man who, saving truth, is called blind*, the answer must altogether be that *blindness does not exist*; yet, without loss of truth, it is said that *blindness is given in that man*, and this through the fact that *the opposite of that whose absence is called blindness is not in the man*. For whether you say *sight is not in the man*, or *sight is a non-being in the man*, or *blindness is given in the man*, you pronounce entirely the same. So through this: *darkness is given in the air, because light does not exist in the air*. The same judgment must be made of all privations.
+
+> **Notes.**
+>
+> **I.** They philosophise rightly who say that *by privation a non-being is noted, yet a being is connoted*: e.g. by *blindness* non-being — the absence of sight — is noted, but a being is connoted, namely an animal; from the fact that when sight is absent from the animal, we call that absence *blindness*. Note, however, that *blindness remains a non-being, however much it connote a being*.
+>
+> **II.** Yet *privation* and *the privative* must not be confounded between themselves. For just as *whiteness is not white*, but whiteness differs from the white as *abstract from concrete*, so *privation is not a privative something*; whence although *the privative* is a true being, yet it is not a true being if it be considered as speaking the privation; but if you consider the *subject* to which privation is attributed, e.g. the *man* to whom blindness, saving truth, is attributed.
+>
+> **III.** Lest the Scholastics confound privation with true being, they willed to call no privation *inherent* in a subject, but *adherent*: hence it came about that *inhaesio* was attributed to a real being, namely to a predicamental accident, but *adhaesio* to a privation.
+>
+> **IV.** *Privations are neither real beings nor beings of reason*, if they be considered in themselves and precisively, as will be seen in what follows.
+
+**§ 10.** That the ***impossible is not a being*** is clear from this: *because it cannot be*. But what cannot be, this cannot be a being, and so is a non-being. Certainly every true being is a possible being; therefore the impossible is not a true being, and so is a non-being.
+
+**§ 11.** ***A being of reason is a non-being***, which, by the use of speech received among the more accurate Metaphysicians, is nothing other than *an impossible something which is nevertheless held for a possible*.
+
+> **Notes.**
+>
+> **I.** *Being of reason* and *the impossible* differ as narrower and wider: for every being of reason is an impossible, but not every impossible is a being of reason. For the *impossible* requires at least two things: (1) the negation of true and real existence; (2) the negation of possible existence. More clearly: two things are required to the impossible (as it is here taken): (1) that it *not be*; (2) that it *not be able to be*. But these two do not suffice to a *being of reason*. For to that one further requisite is added: that it (that is, what is not and cannot be) be held, through error, for a true being, or at least for a possible being.
+>
+> **II.** That this may be better perceived, we can distinguish between *the quasi-material of a being of reason* and *the quasi-formal of a being of reason*. The *material* is *the impossible*, since every being of reason is impossible. The *formal* is contained in these words: *that which is held for a true possible being*: so, e.g., when any one considers that *blindness never exists in an animal, nor can exist in an animal*, he certainly does not form any being of reason. But let us suppose someone to be stuck in such a little error, that he supposes blindness to be some little worm actually existing in the eye of his rustic wife, and therefore seeks from a quack a medicament by which that little worm may be smothered — he at last *feigns* a being of reason.
+>
+> **III.** From what has been said we may at once gather that privations are then to be held for *beings of reason* when they are held for *true possible beings*: but this happens to privations. For in order rightly to conceive privation, there is no reason why you should hold it for a true being; nay, when you hold it for a true being, you falsely conceive privation — meanwhile you feign a being of reason.
+
+**§ 12.** Of ***Being by Accident*** (*Ens per Accidens*) it remains now to speak, since this also we have reckoned (together with the best Metaphysical Doctors) can in some manner be called a *non-being*. Namely, *being by accident* is called *in quantum*, non-being — in so far as it says *more existences* than were required for *being absolutely so-called*. For example: *this white thing*, if I point with my finger to a white wall, is called *being by accident*, since besides the substance in which the whiteness inheres, it says the very *existence of the whiteness*: and the whiteness per se was not required for the substance of the wall, and the wall could be without all whiteness. So the *physical man*, i.e. man endowed with physical science, is called *being by accident*, since the *man in himself* and *per se* remains a complete being, though no physical science were in his intellect. In this sense, then, *being by accident* is called *non-being*, in so far as it says *more* than *being* — namely, it says *beings*, of which the one was not of itself ordered to the other, nor the two to the constitution of a third being as to the being *per se*, out of their own nature.
+
+> **Notes.**
+>
+> **I.** *Being by accident as such* says *beings* (plural). As the singular is not the plural nor the plural the singular, so *ens* and *entia* also differ; and *entia* are not *ens*, since they are not *one* but *many*. If they are not *ens*, therefore in a sound sense they are *non-ens*, however many beings they remain.
+>
+> **II.** You will say: *Man says two beings — body and soul; therefore in a certain manner he is non-being — which is absurd.* It is most easily answered: body and soul are *two beings really distinct in man*, but they are ordered *per se* and out of their own nature to constitute *one being*, namely the man. You will urge back: *wall and whiteness also constitute one being, namely one white thing*. It is answered: the wall can be without whiteness, nor is whiteness ordered *per se* to constituting a being; whereas soul and body are *per se* ordered to each other — which cannot be said of wall and whiteness, since they are not ordered *per se* to each other.
+
+**§ 13.** Of ***beings by accident*** there are, so to speak, ***three classes***. For (1) *being by accident* is given when several beings, without all order and union, are called *being by accident* on account of mere *aggregation*: e.g. several stones lying without order and union are called *one heap*; so many grains of wheat are *one pile*; so a wholly inordinate multitude of men is called *one assembly*. These beings by accident are called by the name of **beings by aggregation** (*entia per aggregationem*), when nothing is regarded except the aggregation. (2) Several beings are called *being by accident* when they are united among themselves by the mediation of an *accidental* union, as *wall and whiteness*, if they be considered with their union, are called *one white thing*, and so a *being by accident*: so a *believer in Christ* is a being by accident, by the union which comes between the man who believes in Christ and the faith itself. (3) Several beings are called *being by accident* on account of a certain ***order*** which they keep among themselves: e.g. several men keeping a certain order among themselves in a certain polity are called *one society*; so *city* and *church* are beings by accident.
+
+> **Notes.**
+>
+> **I.** The *first class* of beings by accident — i.e. by mere aggregation — do not deserve more prolix consideration.
+>
+> **II.** Of beings by accident of the second class we shall treat *ex professo* in the doctrine of *one and union*.
+>
+> **III.** Of beings by accident of the third class the treatment likewise will be instituted in its own place, namely where we shall treat of *order*.
+
+**§ 14.** The ***Synonyms*** of *being* are commonly called: *Real* (*Reale*) and *Positive* (*Positivum*).
+
+> **Notes.**
+>
+> **I.** It is most true, we believe, that *Real* and *Positive* in a rigorous signification mean plainly the same as *Being*; which however notwithstanding, sometimes *real* and *positive* admit a laxer signification, so as to mean the same as *not depending on mere thinking*, though it do not exist: e.g. a *possible being* is called a *real something*, though it is not a being, in this sense: just as, e.g., an *angel* who in act is or exists has this — that he is in act or exists — not from the operation of our intellect (for the angel exists even though no one think that he exists); so also such an angel who does not yet exist is called *possible* apart from the operation of our intellect — for no one would say that an angel not yet produced has this, that he is possible, that he can be produced, from our mere thinking. Hence it is that an angel not yet produced, since he can be produced by God with no one thinking of it, is in the Schools called *really possible* and so *real possible*. So *the rose in winter* can in a sound sense be called a *real and positive something*, so as yet to not be a *real being*: for just as it does not depend on any created intellect that the rose is in act, so also it does not depend thereon that the rose can be, or that it is in potency. — So we say: *this man is really blind*, and so blindness we call a *real something* — yet not in this sense as if blindness were a real being, or as if it spoke a real essence or a part of a real essence. The sense therefore is this: *with no one thinking it that this man is blind, yet he is blind — i.e. he lacks sight, of which he would have been capable, had not something of his nature stood as an obstacle*. So the more accurate Philosophers call many *relations real*, yet those which come under the name of real relations are not therefore to be called real *beings*: e.g. between two blind men a *real relation* is given, a *real similitude* — i.e. they are like one another, with no one thinking of it — because, with no one thinking of it, each of them is blind; yet that *real similitude* has not for its foundation a real being, but a mere non-being, namely blindness. Likewise we say that many *attributes of being* are given, and single attributes of being we call *real attributes*, *item positive attributes*; yet they are not many *real and positive beings*. The same is the judgment of *the attributes of God*.
+>
+> **II.** By innumerable other examples this could be declared. So, those who deny the faculties of the soul to be *really* distinct among themselves call those faculties *real*, yet not real *beings*: e.g. *intellect* and *will* are real faculties of the rational soul, with this standing, that they do not differ really among themselves, nor from the rational soul; with this also standing, that the rational soul is *one per se* being, intellect and will will be *one per se* being. Let every man therefore beware lest he suffer himself to be imposed upon by these ambiguities. This is certain: *real* and *positive*, if they be taken absolutely and in the rigour, can be — nay, must be — held as synonyms of *being*.
+
+— ❦ —
+
+*[T2 closes: Caput I §§ 1–14 — ens, non ens, their chief divisions (possibile / actuale, actu / potentia, substantia / accidens), the division of non-ens into possibile / impossibile, the four kinds of non-ens (entia potentia, negationes-privationes, impossibilia, entia rationis) plus the appended ens per accidens with its three classes (per aggregationem, per unionem accidentalem, per ordinem), and finally the synonyms Reale and Positivum in both their rigorous and laxer senses. **Axioma I** — *Impossibile est idem simul esse et non esse* — follows in T3.]*

@@ -112,6 +112,8 @@ Progress is tracked by prepending **"Latest addition:"** entries to this file in
 
 ## Latest addition
 
+**2026-10-05 — T2 shipped.** Caput I §§ 1–14 (ens / non ens / ens per accidens definitions and the three classes of entia per accidens; Reale and Positivum as synonyms of being). Caput I's four Axioms will each be their own tranche (T3–T6). Axioma I (*Impossibile est idem simul esse et non esse*) is next.
+
 **2026-10-05 — T1 shipped.** Front matter (title/copyright/Translator's Note), Dedicatory Epistle to the Jena Rector and Senate, Preface to the Reader, List of 97 Auditors, and *Caput Praeliminare* in full (50 §§: nature, constitution, and use of metaphysics; abstractio rationis vs. realis; general + special use in Theology, Jurisprudence, Ethics, Politics; the Reeb-vs-Ames defence of metaphysics against the Ramist detractors). Caput I next.
 
 **2026-10-04 — Stage 1 + Stage 2 complete.** Source acquired via Kiel plaintext endpoint; structural map above; tranche plan drafted. Moving to T1 (front matter + Caput Praeliminare).
