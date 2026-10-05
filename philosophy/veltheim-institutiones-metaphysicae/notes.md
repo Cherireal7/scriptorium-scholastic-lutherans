@@ -1,0 +1,117 @@
+# Veltheim, *Institutiones Metaphysicae* (Jena 1680) — Working Notes
+
+Scholastic Lutherans working file. Operational scratchpad for the translation; the reader-facing Translator's Note lives at `review/veltheim-institutiones-metaphysicae.md`.
+
+## Bibliographic record
+
+- **Author:** Valentin Veltheim (Valentinus Veltheim), Hallensis Saxo — Lecturer in Logic and First Philosophy (Logices et Philosophiae Primae Professor Publicus Ordinarius) in the University of Jena.
+- **Full title:** ***Institutiones Metaphysicae, Continuis Exemplis Inprimis Theologicis, Iuridicis, Moralibus, Politicis Illustratae, ut omnium Facultatum ac disciplinarum Studiosis eorumque usibus apprime serviant*** — *"Institutes of Metaphysics, illustrated with continuous examples drawn chiefly from theology, jurisprudence, morals, and politics, so that they may suitably serve students of all faculties and disciplines and their uses."*
+- **Place / year:** Jena, Anno Orbis Redempti MDCLXXX (1680).
+- **Printer:** *Sumtibus Autoris, Typis Wertherianis* — at the author's expense, from the press of the Werthers.
+- **Format:** Octavo (8°).
+- **Collation:** [16] Bl., 1896 S., [60] Bl. — i.e. 16 unnumbered leaves of front matter + 1896 numbered pages of body + 60 unnumbered leaves of indexes/colophon.
+- **License:** Public Domain Mark 1.0.
+- **Source copy:** Universitätsbibliothek Kiel, shelfmark K 2791-1; K 2791-2.
+- **PI resolver:** https://schriftgut.sh/viewer/piresolver?id=PPN72572448X
+
+## Source acquisition — Stage 1
+
+Seth's pointer: `schriftgut.sh viewer PPN72572448X`.
+
+- IIIF manifest: `https://schriftgut.sh/viewer/api/v1/records/PPN72572448X/manifest/` — 2060 canvases, label *Institutiones Metaphysicae*.
+- Plaintext endpoint: `https://schriftgut.sh/viewer/api/v1/records/PPN72572448X/plaintext/` — serves the full OCR'd Latin as one UTF-8 stream (2.59 MB, 67,379 lines). This is what we work from.
+- ALTO endpoint: `https://schriftgut.sh/viewer/api/v1/records/PPN72572448X/alto/` — per-page positional OCR, available if we need coordinate-level verification during Stage 4 audit.
+- PDF endpoint (`/pdf/`) is gated behind the schriftgut.sh Anubis anti-bot proof-of-work and did not resolve from scripted fetch. The plaintext is sufficient to proceed; images can be pulled individually via the IIIF `files/images/<zero-padded>.tif/full/<w>,/0/default.jpg` pattern when needed for audit (e.g. for the printed title-page or any passage where the OCR is unrecoverable).
+
+Local file (git-ignored per repo `.gitignore` `**/sources-original/`):
+- `sources-original/veltheim-1680.txt` — bulk OCR, 2.59 MB, 67,379 lines.
+
+**OCR quality notes.** The OCR is mid-grade for a 1680 octavo Fraktur-adjacent Latin. Typical mangling to correct silently:
+
+- Long-*s* → *f*: *subdividenda* → *fubdividenda*, *fuit* → *füit*, *efficacia* → *efficaciae*, etc.
+- Digit substitutions in all-caps display lines: `THEOLOGIC1S`, `polit1cis`.
+- Dropped / split chapter headers at page breaks: `CAPUT NON UM` for *CAPUT NONUM*; `Caput Decimum Ter'tium`; occasional stray floor-paragraph markers (`JJjJ`, `d<`, `í`, etc.) at line-ends.
+- Mangled diacritics in the title page (`VALENTIÑd^d^em/`) — these are strictly cosmetic and the title-page image can be consulted directly.
+- Running headers / signatures intermittently flowed into body text at page boundaries.
+
+None of this blocks translation; it needs quiet correction in the T-pass against the sense of the surrounding Latin.
+
+## Structural map — Stage 2
+
+**Top-level structure:** no *Libri* or *Partes*. The body is a single sequence of chapters: one *Caput Praeliminare* on the nature, constitution, and use of metaphysics, followed by 49 numbered *Capita*. An *Index Capitum* and *Index Rerum* follow at the back.
+
+**Front matter (OCR lines ~1–810):** title page; dedication to the Rector Magnificus and Senate of the University of Jena (*Illustris. Academiae Jenensis Rectori Magnifico*); *Prolegomena* / *Praefatio ad Lectorem*; printer's/compositor's errata if any.
+
+### Chapter table (with OCR anchor lines)
+
+| § | Caput | OCR line |
+|---|---|---|
+| — | **Caput Praeliminare** — *De Metaphysices Natura, Constitutione ac Usu* | 811 |
+| I | *Caput Primum* | 2372 |
+| II | *Caput Secundum* | 8558 |
+| III | *Caput Tertium* | ~9000 (header OCR'd as plain line) |
+| IV | *Caput Quartum* | 9672 |
+| V | *Caput Quintum* | 13378 |
+| VI | *Caput Sextum* | 14932 |
+| VII | *Caput Septimum* | ~16500 |
+| VIII | *Caput Octavum* | 17821 |
+| IX | *Caput Nonum* | 18930 |
+| X | *Caput Decimum* | ~21000 |
+| XI | *Caput Undecimum* | 23504 |
+| XII | *Caput Duodecimum* | 24938 |
+| XIII | *Caput Decimum Tertium* | 25964 |
+| XIV | *Caput Decimum Quartum* | 26216 |
+| XV | *Caput Decimum Quintum* | 29264 |
+| XVI | *Caput Decimum Sextum* | 30455 |
+| XVII | *Caput Decimum Septimum* | 31484 |
+| XVIII | *Caput Decimum Octavum* | 31872 |
+| XIX | *Caput Decimum Nonum* | 32556 |
+| XX | *Caput Vigesimum* — *De Libertatis Definitione* | 32929 |
+| XXI | *Caput Vigesimum Primum* | 33618 |
+| XXII | *Caput Vigesimum Secundum* | 34092 |
+| XXIII | *Caput Vigesimum Tertium* | ~34700 |
+| XXIV | *Caput Vigesimum Quartum* | 35113 |
+| XXV | *Caput Vigesimum Quintum* | 36754 |
+| XXVI | *Caput Vigesimum Sextum* | ~38000 |
+| XXVII | *Caput Vigesimum Septimum* | 39907 |
+| XXVIII | *Caput Vigesimum Octavum* | 44693 |
+| XXIX | *Caput Vigesimum Nonum* | 48536 |
+| XXX | *Caput Trigesimum* | 51342 |
+| XXXI | *Caput Trigesimum Primum* | 53018 |
+| XXXII | *Caput Trigesimum Secundum* | 53686 |
+| XXXIV | *Caput Trigesimum Quartum* | 55775 |
+| XXXV | *Caput Trigesimum Quintum* | 55966 |
+| XXXVI | *Caput Trigesimum Sextum* | 56421 |
+| XXXVII | *Caput Trigesimum Septimum* | 57010 |
+| XXXVIII | *Caput Trigesimum Octavum* | 57794 |
+| XXXIX | *Caput Trigesimum Nonum* | 58234 |
+| XLI | *Caput Quadragesimum Primum* | 58885 |
+| XLV | *Caput Quadragesimum Quintum* | 59963 |
+| XLIX | *Caput Quadragesimum Nonum* | 60877 |
+| — | **Index Capitum** | 62624 |
+| — | **Index Rerum** | 62795 |
+
+OCR anchors are approximate: a few chapter headers (3, 7, 10, 23, 26, 33, 40, 42, 43, 44, 46, 47, 48) got absorbed into their running pages and need to be relocated by sense when their tranche comes up. The chapter count is **49 + Praeliminare = 50**, consistent with the TOC at line 62624.
+
+**Paragraph granularity.** Every chapter is subdivided into numbered §§, usually 10–40 per chapter, in the characteristic late-17c scholastic exposition style (definition → corollary → example drawn from theology / jurisprudence / morals / politics, as the title promises). Numbering restarts at §1 at the head of each chapter.
+
+### Tranche plan
+
+Because the work is a 50-chapter, ~2000-page octavo, this is a multi-chat volume. One chapter ≈ one tranche is unworkable — some chapters are 100+ pages. The working plan:
+
+- **T1** — Front matter (dedication, prolegomena/prooemium, errata) + *Caput Praeliminare* in full. One chat.
+- **T2 – T?** — one tranche per *Caput* for the shorter chapters (say ≤ 1,500 OCR lines) and one per logical section (half-chapter) for the longer ones. Expect roughly 60–80 tranches to close the body, plus a tranche for each index.
+
+Progress is tracked by prepending **"Latest addition:"** entries to this file in the pattern used by Flacius `notes.md` and Balduin `notes.md`.
+
+## Companion / cross-reference
+
+- Google Books also holds digitisations of the same 1680 Jena edition (ids `fyVfAAAAcAAJ` and `XAYF5BKhy4wC`) — useful for cross-checking the title page or any passage where Kiel's OCR is unrecoverable. No modern critical edition is known.
+- Veltheim (1645–1700) was Logices et Metaphysices Professor at Jena from 1679; the *Institutiones Metaphysicae* is his inaugural textbook for the Jena chair and dates one year into his tenure. See *ADB* 39:598.
+- No English or German translation is known. This appears to be the first.
+
+## Latest addition
+
+**2026-10-05 — T1 shipped.** Front matter (title/copyright/Translator's Note), Dedicatory Epistle to the Jena Rector and Senate, Preface to the Reader, List of 97 Auditors, and *Caput Praeliminare* in full (50 §§: nature, constitution, and use of metaphysics; abstractio rationis vs. realis; general + special use in Theology, Jurisprudence, Ethics, Politics; the Reeb-vs-Ames defence of metaphysics against the Ramist detractors). Caput I next.
+
+**2026-10-04 — Stage 1 + Stage 2 complete.** Source acquired via Kiel plaintext endpoint; structural map above; tranche plan drafted. Moving to T1 (front matter + Caput Praeliminare).
