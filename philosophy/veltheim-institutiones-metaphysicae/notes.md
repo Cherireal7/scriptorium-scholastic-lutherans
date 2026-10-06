@@ -112,6 +112,8 @@ Progress is tracked by prepending **"Latest addition:"** entries to this file in
 
 ## Latest addition
 
+**2026-10-06 — T4 shipped.** Opening of Abusus Practicus of Axioma I: the broadside against the "modern Fanatici" (Cartesian school of universal doubt). Covers (a) the Cartesian Meditations method of doubting even first principles, including the deceiving-God hypothesis + the "mushrooms sprung from the earth" formulation; (b) the extension of this method to Moral Philosophy and Theology, which Veltheim judges opens gates "to the overthrow of what they call Christianity"; (c) the correction of Mendoza's claim that no one ever denied the axiom (the ancient Sceptics did, and the modern innovators are their ash-born revival). T5 begins the first extended example — the opponent who feigns a self-contradiction in Grotius and the common view that human acts can be considered morally apart from law.
+
 **2026-10-05 — T3 shipped.** Axioma I of Caput I — the principle of non-contradiction — through Sensus, Confirmatio, Demonstratio per Absurdum (Aristotle *Met.* IV.4's three sorts of deniers; Mendoza's "club rather than reason" quip at *Disp. Metaph.* III.21; the three methods of self-refutation), and Usus Practicus (resolving every solid doctrine into non-contradiction; the Rom. 11:6 passage as the Holy Spirit's own axiomatic use). Abusus Practicus will span T4–T? (~3000 OCR lines of Cartesian / "Fanatic" doubt-method polemic).
 
 **2026-10-05 — T2 shipped.** Caput I §§ 1–14 (ens / non ens / ens per accidens definitions and the three classes of entia per accidens; Reale and Positivum as synonyms of being). Caput I's four Axioms will each be their own tranche (T3–T6). Axioma I (*Impossibile est idem simul esse et non esse*) is next.
