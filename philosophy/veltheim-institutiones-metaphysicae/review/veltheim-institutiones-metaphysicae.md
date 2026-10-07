@@ -4372,6 +4372,34 @@ In this solid judgment we deservedly acquiesce. The same view is defended at len
 
 **III.** What of this: that particular rationes sometimes can be in the place of medium, which compared to universal rationes cannot deserve the ***Analytic denomination of CAUSA***? Just as elsewhere ***negative and particular*** are called ***weak parts***, so if they can be the cause of any scientia, they will be causes of ***imperfect and weak scientia***.
 
+#### § 4 — Ratio Causandi: Metaphysica vs Analytica
+
+> ***RATIO CAUSANDI on the side of cause considered in the Metaphysical sense was explicated in chapter 8 § 12. Of that, however, of which something can be CAUSE analytically-taken, this [analytical] ratio consists in this: ***SI POSSIT SOLIDAM SCIENTIAM QUAERENTI EX ASSE SATISFACERE*** (if it can satisfy from the whole him who seeks solid scientia).***
+
+#### Notes
+
+**I.** From what [criteria] such aptitude can be judged, we have more copiously disserted in the Notes to § 1 of the present chapter.
+
+**II.** In ***Metaphysics***, what plainly says no ratio of causing (or qua such does not say it) either plainly is not — or qua such is not — a true cause metaphysically received. Likewise in ***Analytics***, what is plainly not apt to be or to come to be ***MEDIUM of DEMONSTRATION*** (or what qua such is not fit for demonstration), to this the true analytic notion of CAUSA cannot belong.
+
+For example: If someone, from what was said — ***that from a promise there was acquired to the one to whom the promise was made a right against the promisor*** — should will to infer and demonstrate that ***even the promisor, in the case where the other (to whom the promise had been made) released him, is bound to stand by the promise***. In this act — although otherwise natural law disposes concerning the promise — a certain ***imago of mutation*** deceives the incautious, so that he thinks: otherwise, if it is pronounced [that the promisor is released], natural law is changed. But really this conclusion of Natural Law — ***"a promise by its nature obliges the promisor"*** — is not changed; rather the ***promise*** (concerning which natural law constitutes something) also receives mutation. For if he to whom I promised releases me from the promise, I am no longer bound to keep the promise — not because natural Law has ceased to prescribe that what I promise be kept, but because what I owed from the promise has ceased to be owed.
+
+#### § 5 — Formale Causae: Metaphysica vs Analytica
+
+> ***FORMALE CAUSAE in the Metaphysical sense was explicated in chapter 8 § 13. In ***ANALYTICS***, cause is cause ***by this***: that it SATISFIES FROM THE WHOLE a solid response to a scientific question to one seeking.***
+
+#### Note
+
+For the rest, just as in ***Metaphysics*** many things occur which (though they are neither cause, nor ratio causandi, nor causality) are nevertheless necessary for something actually to come to be or be cause: so in ***Analytics*** various indeed are given ***requisites and GRADUS*** (as they are called) ***of propositions***, of which can be seen ***Aristotle in the books of the Posterior Analytics***; ***Dn. D. Zeidlerus in Analysi, book 1, from chapter 3 to chapter 15***; and ***Dn. D. Bechmann Institutiones Logicae book 4 chapter 2 and 3***. Nor do we doubt that some of these requisites deserve to be called ***primary***, others ***secondary*** — which [note it suffices] to have touched in passing. Namely, these matters ex professo belong to Analytics.
+
+#### § 6 — Causa Virtualis Opens
+
+> ***CAUSA VIRTUALIS by the Metaphysical Doctors (who indeed...)***
+
+— ❦ —
+
+*[T94 — **Caput XI §§ 4-5 + § 6 opens**. **§ 4 ratio causandi**: metaphysical cross-ref to c.8 § 12; **Analytical** ratio-causandi = *aptitude si-possit-solidam-scientiam-quaerenti-ex-asse-satisfacere*. Notes: criteria judged via § 1; parallelism — what Metaphysically is not causal, Analytically is not medium-of-demonstration. **Worked example on promise-release**: *imago-mutationis* deceives incautious — but *Juris-naturalis-conclusio PROMISSIO-EX-SUA-NATURA-OBLIGAT* does not change; what changes is the ***promissio-ipsa*** (quando-liberat-promissarius, debita-cessat); *non quia Ius-naturae-desierit-praecipere, sed quia quod-ex-promisso-debebam deberi-desiit*. **§ 5 formale causae**: *in Analyticis causa per hoc est causa, quod solidam-responsionem-ex-asse-satisfaciat*. Note: Analytical ***gradus propositionum***; cross-refs to ***Aristotle libri posteriorum Analyticorum*** + ***Zeidler Analysi lib. 1 c. 3-15*** + ***Bechmann Instit. Logicae lib. 4 c. 2-3***; primaria-vs-secundaria-requisita distinction. **§ 6 opens**: ***Causa Virtualis a Metaphysicis Doctoribus***... T95 picks up § 6 full exposition of Causa Virtualis.]*
+
 — ❦ —
 
 *[T93 — **Caput XI §§ 2-3**: notio-causati-analytica + materiale-causae-analyticum. **§ 2**: causati-notio duplex (Metaphysica c.8+7 vs Analytica). ***Causatum analytice sumtum = conclusio quae demonstratur***. Notes: cross-ref § 1; ***Bechmann Instit. Logic. IV.1 § 15*** full citation on Aristotle's mens — *scientiam-certam-immotam-constantem = conclusionis-aliter-se-habere-non-posse*; **D. Petrus Musaeus Instit. Metaph. c. 20 § 14** + Fonseca + Mendoza cross-ref; subjectum-conclusionis-simpliciter-necessarium → *perfectior scientia*. **§ 3**: analytical-requisites. ***Materiale causae analytice = MEDIUM TERMINUS* from which *tanquam-principio-proprio-certo-necessario-vero-immediato unio-extremorum-conclusionis pendet***. Notes: (I) Moral + Political worked examples (promissum-obligat; civis-suffragiorum-particeps); (II) materiale potest-esse-affirmativum-et-negativum (affirmativa-praepollent); ***Conring De Prudentia Civili c. 10 pp. 194 + 214-215*** cross-ref; (III) particulares-rationes don't merit Analyticam-denominationem (negativa-et-particularis = ***partes debiles***). T94 picks up **§§ 4-5** = ratio-causandi + formale-causae analytical with Aristotle Posterior Analytics + Zeidler + Bechmann cross-refs; **§ 6 opens Causa Virtualis**.]*
