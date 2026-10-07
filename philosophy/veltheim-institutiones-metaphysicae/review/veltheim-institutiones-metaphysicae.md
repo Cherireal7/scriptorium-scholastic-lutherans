@@ -3752,7 +3752,47 @@ But either from what we have thus far said the solution easily depends, or is ho
 
 Meanwhile, if what the matter is must be said: although by greater arguments and with all doubtation removed it cannot be affirmed that some creature could have been from eternity, yet neither must it be pertinaciously denied. For ***although in the substance which is intrinsically and through essence eternal, ESSE and POSSE ESSE do not differ, yet manifestly in that substance FACERE and POSSE FACERE differ. For it is not in God thus with His own ESSE as with His own FACERE: whence He can do all things that are possible, or that can come to be — but He does not do all those things.*** As is clear from the saying of Christ at ***Matt. 26:54***: ***"Do you suppose I cannot ask the Father, and He will provide me more than twelve legions of angels?"*** — where however neither did Christ ask, nor did the Father provide the angels. Thus ***Matt. 3:9 / Luke 3:8*** — ***"God is able of these stones to raise up children unto Abraham"*** — which however we never read He did. Whereby it is made manifest: it is not necessary, nor does it pertain to the reason of God's potency, that if a possible creature was from eternity and God Himself could have produced it from eternity, He also would have produced it. Thus discourses ***B. Slevogt Vol. disputt. Academ. part. 1 disp. 9 § 18***.
 
+#### § 2 — Causatum Possibile vs Causatum Potentia
+
+> ***CAUSATUM POSSIBILE and CAUSATUM POTENTIA differ, because the consequence holds from the latter to the former, but not from the former to the latter — this is: EVERY CAUSATUM POTENTIA IS CAUSATUM POSSIBILE, BUT NOT EVERY CAUSATUM POSSIBILE IS CAUSATUM POTENTIA.***
+
+#### Note
+
+As ***ens possibile*** and ***ens potentia*** have themselves to ens, so ***causatum possibile*** and ***causatum potentia*** have themselves to causatum. Namely, what is a true causatum, if precisely considered as ***it can be causatum***, is called ***causatum possibile***; what can be causatum but ***is not yet***, is called ***causatum potentia***. Whence just as ens potentia is not true ens, so causatum potentia is not true causatum.
+
+#### § 3 — Impossibile
+
+> ***The opposite of ***possibile*** (if, namely, possibile is taken as noting the same as causatum possibile) is ***IMPOSSIBILE***. ***Impossibile*** is called a NON-ENS WHICH CANNOT BE CAUSATUM POSSIBILE.***
+
+#### Note
+
+Two things are required for ***impossibile***: (1) that it be ***non-ens***; (2) that it ***cannot be causatum possibile***. One of these without the other does not suffice, because this place treats of the ***impossibile*** as precisely considered in opposition to causatum possibile.
+
+#### § 4 — Repugnance: On What Side?
+
+> ***One who wishes to know both — the ***possibile*** and the ***impossibile*** (as taken in the preceding §§) — more rightly and distinctly must studiously discern ***ON WHAT SIDE*** that which is called impossibile says repugnance. For nothing is called impossibile unless it say repugnance.***
+
+#### § 5 — Threefold Repugnance
+
+> ***There is given a THREEFOLD such repugnance:***
+>
+> ***(1) EX PARTE CAUSATI: e.gr. a stone cannot be the son of a man — i.e. a stone cannot be called causatum possibile with respect to man as father, since generation ***passive*** (by which something has it, that it be called SON) repugns to a stone; since such generation always says the ORIGIN OF A LIVING THING FROM A LIVING THING IN A SUBSTANCE LIKE ITSELF.***
+>
+> ***(2) EX PARTE CAUSAE: e.gr. a stone cannot be father of a man — i.e. a stone cannot be called causa possibilis with respect to man as son (and so as causati possibilis), since generation ***active*** (by which something has it, that it come to be or be FATHER) repugns to a stone.***
+>
+> ***(3) EX PARTE UTRIUSQUE: e.gr. a stone cannot be the father of a stone, nor can a stone be the son of a stone.***
+
+#### Note I — The Diligent Inquiry Required
+
+The inquiry of such repugnances or non-repugnances often requires great ***diligence***, as from the doctrines of causes-in-species it will more rightly stand. For not only in the genus of ***efficient cause***, but also in the genera of all other causes, the use of this distinction exerts itself. Thus e.gr. in the genus of ***objective cause***:
+
+- repugnance is given ***ex parte causae*** if we say that ***by a man endowed with the complete potency of seeing, taste or sound cannot be seen*** — because taste or sound is altogether not in the number of visibles;
+- Contrariwise, if we assert that ***by a blind man colored and luminous cannot be seen***, this is not to be received as if colored and luminous are not visible, but because in the blind man there is no potency which can be extrinsically terminated to that which is otherwise the object of sight (i.e. the colored and the luminous);
+- Finally, if I say ***it is not possible for taste to be seen by a blind man***, here repugnance is given ***ex parte utriusque***.
+
 — ❦ —
+
+*[T72 — **Caput X §§ 2-5 + Note I**. **§ 2**: causatum-possibile vs causatum-potentia — consequence from latter to former only; parallel to ens-possibile/potentia; causatum-potentia NOT verum-causatum. **§ 3**: *impossibile = non-ens-quod-nequit-esse-causatum-possibile* (two joint requisites). **§ 4**: investigator must discern ***ex quanam parte*** the impossibile says repugnance. **§ 5 triplex repugnantia**: (1) ***ex parte causati*** — *lapis non filius hominis* (generatio-passiva requires origo-viventis-a-vivente-in-substantia-sibi-simili); (2) ***ex parte causae*** — *lapis non pater hominis* (generatio-activa repugnat lapidi); (3) ***ex parte utriusque*** — *lapis nec pater nec filius lapidis*. **Note I**: diligence demanded; sense-genus examples — ex-parte-causae-repugnantia if ***completa-potentia-videndi non potest videre saporem/sonum*** (not visibilium); ex-parte-potentiae-repugnantia if ***caecus non potest videre coloratum/lucidum*** (visible-but-no-visual-potency); ex-parte-utriusque if ***caecus non videat saporem***. T73 picks up **Note II — the MASSIVE application to IUS-NATURAE-IMMUTABILE doctrine** (natural law so immutable even God cannot change it; Novatores' objections against Divine-liberty / omnipotence refuted via *necessitas-essentiae-vs-existentiae* and *homo-existit-liberrime-ex-beneplacito-Dei-sed-non-potest-non-habere-naturam-rationalem-ac-socialem*).]*
 
 *[T71 — **Caput X Note II responses Ad IV-VI + Notes III-IV**. **Ad IV**: *vana collectio* — distinction (per Thomas Aquinas ***opusc. 27 de aeternitate mundi*** + ***Durandus of St. Pourçain 2 dist. 1 q. 2***) between creaturae-duratio ***quoad esse commune*** (abstractum from both — may equal essentia-Dei) vs ***quoad esse proprium*** (restrictus to creatura — absurd to equate). Creaturae-duratio *potest non durare* vs Dei-duratio *non potest non durare*. **Doctor Angelicus citation**: ***aliquid praeter Deum potuerit semper fuisse qua non ab eo factum = error abominabilis***; sed *aliquid semper fuisse et causatum a Deo* potest stare. **Ad V**: deny consequence. Formal + real distinction between aeternitas-Dei (absolute repugnat non-esse) vs aeternitas-creaturae (absolute non-repugnat non-esse). The Antitrinitarian maxim ***quicunque re ipsa et actu est ab aeterno, est verus Deus*** limited: only ***intrinsece et per essentiam*** — aeternitas-intrinsice-denominans-creaturae *absolute repugnat*. Immutability-of-creatura inference conceded with limitation (intrinsece-per-essentiam) — not against us. **Ad VI**: deny connection; (1) potentia-et-actus NOT formaliter dividant ens — corpus-naturale is Ens-but-neither-potentia-nec-actus; (2) habere-verum-esse-in-potentia-Dei = posse-creari-ante-creationem (no verum-ens-sequela); false-conclusion-syllogism exposing adduced-major. **Note III**: ***Paulus Voet, Gisberti filius, Juris in Acad. Ultrajectina Antecessor*** attributes negative view to Reformed in his ***Theologia Naturali Reformata c. 30 § 3 n. 7 p. 205 ff. ed. 1656*** with 13 contra-arguments; ***Thomas Campanella Metaph. 11.5.3 p. 25***. **Note IV**: ***Slevogt Vol. disputt. Academ. part. 1 disp. 9 § 18*** — ***in substantia intrinsice et per essentiam aeterna, ESSE et POSSE ESSE non differunt, sed FACERE et POSSE FACERE differunt*** — *non perinde Deo est suum esse ac suum facere*. Scripture: **Matt. 26:54** Christ-non-rogavit-angelos; **Matt. 3:9 / Luke 3:8** Deus-ex-lapidibus-excitare-potest-filios-Abrahae. ***Potuisse non implicat fecisse*** — Deus could-have-produced from eternity but did not. T72 picks up **§§ 2-5 + Note I**: causatum-possibile vs causatum-potentia; impossibile = non-ens-nequit-esse-causatum-possibile; triplex-repugnantia (ex-parte-causati vs ex-parte-causae vs ex-parte-utriusque) with lapis-filius-hominis / lapis-pater-hominis / lapis-pater-lapidis examples; sapor-sonus-coloratum-caecus analog.]*
 
