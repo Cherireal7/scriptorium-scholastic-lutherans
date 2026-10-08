@@ -4464,6 +4464,56 @@ The use of this doctrine will be placed before the eyes of the benevolent reader
 
 **[CAPUT XI CLOSES]**
 
+## Caput Duodecimum
+
+### Of Cause Per Se and Per Accidens. Likewise of Causatum Per Se and Per Accidens
+
+#### § 1
+
+> ***CAUSA IN COMMUNI is distinguished into ***CAUSA PER SE*** and ***CAUSA PER ACCIDENS***, and this distinction is in received use among all suitable Doctors of First Philosophy and has found their approval.***
+
+#### Notes
+
+**I.** That this distinction, known to students of ***Practical Philosophy, Law, and Theology***, is maximally necessary and most useful — chiefly in the ***Doctrine on the Efficient Cause*** — will be demonstrated.
+
+**II.** With special study it is said that CAUSA ***IN COMMUNI*** is distinguished into per se and per accidens. For we shall not detain those who ***restrict this distinction to the efficient cause***, and so consider it in too narrow a signification; since this distinction wanders through all genera of causes.
+
+**III.** The progress of the chapter will teach that ***division*** of cause into per se and per accidens is tossed about in vain, if ***causa per accidens*** be considered in its ***widest yet genuine and received signification***. On this account we said CAUSA in communi is ***distinguished*** (not ***divided***) into per se and per accidens.
+
+#### § 2 — Likewise for Causatum
+
+> ***Likewise the distinction of ***CAUSATUM IN COMMUNI*** into ***CAUSATUM PER SE*** and ***CAUSATUM PER ACCIDENS*** the common usage of suitable Doctors of Metaphysics admits and approves.***
+
+#### Note
+
+By the same law which was noted on § 1, [the same] cannot be repeated here, so far as the reason of the opposites is the same.
+
+#### § 3 — Each Divides into Ex Parte Causae / Ex Parte Causati
+
+> ***CAUSA PER SE is again distinguished into causa per se ***EX PARTE CAUSAE*** and causa per se ***EX PARTE CAUSATI***. In the same mode CAUSA PER ACCIDENS must be distinguished into causa per accidens ex parte causae and causa per accidens ex parte causati.***
+
+#### Note
+
+This distinction is unshaken in the eyes of him who, asked ***why he holds any causa per accidens as true cause***, responds: ***"because it really influences into the effect — e.gr. when a Musician heals a man, he truly influences and produces health; but the Musician in order to healing is causa per accidens."*** Who does not see that by this proof nothing more can be evinced than that ***causa per accidens EX PARTE CAUSAE is true cause***? But by ***the whole heaven*** causa per accidens ex parte causae and causa per accidens ex parte causati differ, as will soon be demonstrated.
+
+#### § 4 — Causa Per Se / Per Accidens Ex Parte Causati
+
+> ***Causa per se ex parte causae and causa per accidens ex parte causae were defined above at chapter VIII § 16. Let us see what are called causa per se ex parte causati and causa per accidens ex parte causati.***
+>
+> ***CAUSA PER SE ex parte causati is ***that which is the TRUE CAUSE OF ANOTHER, and indeed of another QUA SUCH***. E.gr. the ARCHITECT is causa per se of the building ex parte causati, because the architect is the TRUE cause of the building ***qua such*** (i.e. as building). The FATHER is causa per se of the son ex parte causati — i.e. as of son.***
+>
+> ***Contrariwise, CAUSA PER ACCIDENS ex parte causati is ***that which is the TRUE CAUSE of another, but NOT of another QUA SUCH; or plainly is NOT a true cause of that of which it is called causa per accidens ex parte causati, but is only the true cause of something which is CONJOINED with it (of which it is plainly not true cause) or which FOLLOWS it***.***
+>
+> ***E.gr. the ARCHITECT is true cause of a yellow building, yet not as yellow — for thus the cause was not the architect but the ***painter (tinctor)***. The FATHER is true cause of the Roman Pontiff, yet not as Pontiff, but as of son. Likewise a FATHER who sends his son to a wedding at the time when he knew nothing other than that the way was safe enough from robbers — nor had he to know otherwise — is called causa per accidens of his son's death, if on the way he be killed by robbers.***
+
+#### § 5 — Convergence and Divergence
+
+> ***Causa per se ex parte causae and causa per accidens ex parte causae ***converge*** in this: that each is a true cause. They ***differ***: because the former is true cause ***qua such***, the latter is not true cause ***qua such***. Exempli gratia: an architect through the act of building is true cause of a building — and indeed an architect ***as he is such***. The Musician too (through building) is true cause of a building, if, namely, the same person is simultaneously Musician and Architect — for otherwise the same would be simultaneously true cause of a building and NOT true cause of a building...***
+
+— ❦ —
+
+*[T98 — **Caput XII OPENS: *Causa Per Se Et Per Accidens. Item de Causato Per Se Et Per Accidens***. **§ 1**: ***causa in communi distinguitur in per-se / per-accidens***. 3 Notes: (I) Philosophiae Practicae + Iuris + Theologiae-Studiosis maximally-useful (demonstrable in de-causa-efficiente); (II) ***singulari-studio-in-communi*** — NOT restricted to efficient-cause-only; applies vage through all cause-genera; (III) ***distinguitur*** not ***dividitur*** (if causa-per-accidens taken latissima-genuina-usitata-significatione). **§ 2 parallel for causatum**: communis-usus-idoneorum-Doctorum-Metaphysices admittit. **§ 3 each subdivides into ex-parte-causae / ex-parte-causati**. Note: unshaken-against-objector who defends-causam-per-accidens-via-realiter-influit (Musicus-sanat-hominem example — but this evinces only ex-parte-causae; toto-coelo-differunt ex-parte-causae vs ex-parte-causati. **§ 4 definitions**: ***causa-per-se ex-parte-causati = vera-causa-alterius-qua-talis*** (architectus-aedificii-qua-aedificii; pater-filii-qua-filii); ***causa-per-accidens ex-parte-causati = vera-causa-alterius-NON-qua-talis aut plane-non-vera-causa sed vera-causa-alicujus-coniuncti/sequentis***. Three worked examples: **architectus-aedificii-flavi NON-ut-flavi** (sic causa-non-architectus-sed-tinctor); **pater-Pontificis-Romani NON-ut-Pontificis sed ut-filii**; **pater-mittens-filium-ad-nuptias caesum-a-latronibus = causa-per-accidens-caedis** (iter-satis-tutum-noverat nec-noscere-debuerat). **§ 5 convergence/divergence per-se vs per-accidens ex-parte-causae**: both verae-causae, differ in qua-talis status; architectus-aedificii example (if idem = Musicus et Architectus). T99 picks up remaining § 5 + more §§ of Caput XII (further distinctions and uses of causa-per-se/accidens).]*
+
 — ❦ —
 
 *[T95-T97 — **Caput XI §§ 6-10 CLOSE Caput XI**: Causa Virtualis + Causatum Virtuale + four discriminations with Scholastic origin + Metaphysica/Analytica discrimen quadruplex. **§ 6-7 Causa/Causatum Virtualis**: ***realiter-non-differt-sed-si-distingueretur-vera-causa-esset***; Deus/aeternitas/immutabilitas example *per-impossibile*. Notes: Scholastics apply to Deus/angelos/animas-spirituales + rationalitas-docilitatis + extensionem-divisibilitatis; some hold *omnia propria ἀκρίβως = causata-virtualia*; applied in divinis to **cognitio-feipsum-ut-summum-bonum = virtualis-causa-amoris** + **praevisio-fidei-in-Christum = virtualis-causa-electionis**; per-emanationem vs citra-emanationem subdivision. **§ 8 four discriminations**: (a) virtualis-non-differt-realiter-a-causato; (b) non-aliud-et-aliud; (c) non-vera-causa (*nihil-est-causa-sui*); (d) ***non-causat-rem, causaret-tamen-si-res-ab-ea-causari-posset***. **4 Notes**: Scholastic origin via **Thomas de Vio Cajetanus Cardinalis 1 Posterior Analyt. c.2** first author; also Paulus Soncinas + Johannes Sanchez + Suarez + Michael Zanardus Bergomas ex Urgnano + Bernardus Morisanus Ferensis Hibernus; nostri: ***Stahl Instit. Metaph. c. III concl. 2*** + ***Petrus Musaeus c. 13 § 10 ff***. **MASSIVE worked examples**: *Deus-aeternus-quia-immutabilis* (virtualis via Cajetanus); *Deus-amat-feipsum-quia-feipsum-ut-bonum-cognoscit* (cognitio virtual causa amoris); the massive **predestination application**: ***Deus-praevidit-paucos-in-Christum-credituros-usque-ad-finem, ideo-paucos-elegit*** — praevisio-finalis-fidei = virtualis-causa-electionis (NOT formaliter — actiones-ad-intra non-realiter-differunt-nec-ab-essentia-divina); uses in Morals (culpa→reatus; directiva→coactiva), Politics (decretum→lex-civilis-obligatio), Jurisprudence (emptio-venditio→dominium+pretium). **§ 9 Metaphysica/Analytica discrimen quadruplex**: coincidunt (serra-ferri); Metaphysica-non-Analytica (Titius-pedibus-anima); Analytica-non-Metaphysica (immutabilitas-Dei-aeternitas-Dei = CAUSA VIRTUALIS per Theologi-naturalis-revelatae). **§ 10 pointer to c. 14**; examples c. 8+9+10+11 Metaphysical, c. 4 pp. 373-383 Analytical. **CAPUT XI CLOSES**. T98 opens **Caput XII — *Causa Per Se Et Per Accidens. Item de Causato Per Se Et Per Accidens***.]*
