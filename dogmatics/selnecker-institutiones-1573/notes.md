@@ -27,12 +27,18 @@ The corpus-row date "1573" is therefore adjusted to "1579" (or "c. 1573–1580" 
 - **Publication:** Jena, Jakob Tröster, 1579
 
 **Google Books alternate scans** (probably OCR-superior for text-mining):
-- Pars II (Iustificatio/Poenitentia/Libertas/Ecclesiae potestas/Sacramenta/vitae hominis ratio): `oeBoAAAAcAAJ` and `xRE8AAAAcAAJ` (two copies)
-- Pars III (Authoritate et Certitudine Verbi Divini): `E6VoAAAAcAAJ`
-- ["Continens Sinceram Doctrinam Ecclesiae"]: `hBE8AAAAcAAJ`
+- Pars II Jena 1579 (Iustificatio/Poenitentia/Libertas/Ecclesiae potestas/Sacramenta/vitae hominis ratio): `oeBoAAAAcAAJ`, `xRE8AAAAcAAJ`, `3xE8AAAAcAAJ` (three copies)
+- Pars I editio prima (Frankfurt, Peter Lechler, 1573) — *Explicatio Locorum de Authoritate et Certitudine Verbi Divini*: `E6VoAAAAcAAJ` — validates this folder's naming; the Jena 1579 reissue we translated is a revised reprint of this 1573 editio prima
+- Pars I Jena 1579 ["Continens Sinceram Doctrinam Ecclesiae"]: `hBE8AAAAcAAJ`
+- Pars III Jena 1579 (catechetical — Luther's Small Catechism Græcè & Latinè + Decalogue + school-Qs): BSB MDZ `bsb10175492`, VD16 S 5567 — UNTRANSLATED as of 2026-10-23
 - Google Books PDF download pattern: `https://books.google.com/books/download/Institutionis_Christianae_Religionis_Par.pdf?id={GBID}&output=pdf`
 
-**Pars I:** not yet identified in a digitised copy. Sourcing task: search PRDL, HAB Wolfenbüttel, VD16.de for VD16 S 5565 (probable identifier).
+**VD16 identifiers:**
+- Pars I Jena 1579 = VD16 S 5565
+- Pars II Jena 1579 = VD16 S 5566
+- Pars III Jena 1579 = VD16 S 5567 (catechetical)
+
+**Correction (2026-10-23):** An earlier draft of this file described Pars III as "De Novissimis + De Antichristo." That is incorrect — no such Pars III was ever issued for the Jena 1579 Institutio. The real Pars III is the catechetical volume (`bsb10175492` / S 5567). The eschatological ascription came from mis-reading `E6VoAAAAcAAJ`, which is actually the Frankfurt 1573 Lechler Pars I editio prima.
 
 ## Author
 
