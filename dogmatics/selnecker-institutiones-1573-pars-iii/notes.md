@@ -91,3 +91,23 @@ Follow the Praetorius-Chytraeus-Kirchner-Große-Selnecker-Pars-I-II-Symbolorum s
 - [[reference-scholastic-lutherans-workflow]] — Pandoc + LibreOffice pipeline.
 - [[reference-scholastic-lutherans-glossary]] — Lutheran-orthodoxy vocabulary + editorial conventions.
 - [[handoff-file-convention]] — this file + HANDOFF.md pattern.
+
+## Scan-to-print page table (established 2026-11-26 from the BSB images)
+
+The earlier assumption "printed page = image − 6" holds only at the two ends of the book.
+
+| BSB images | Printed page | Remark |
+|---|---|---|
+| 5 | title page | 6 = blank verso |
+| 7–19 | image − 6 (pp. 1–13) | |
+| 20–21 | 12–13 again | the opening pp. 12–13 was photographed twice |
+| 22–215 | image − 8 (pp. 14–207) | isolated misprinted numbers on images 143 and 143–144 ("136" twice) |
+| 216, 217 | 209, 210 | the printer skipped 208 |
+| 218–328 | image − 6 (pp. 212–322) | the printer skipped 211; misprinted numbers on images 270 ("262") and 289 ("285") |
+| 329–340 | three indexes, unpaginated | |
+
+The printed text therefore has 318 pages, numbered to 322. The indexes cite the printed numbers.
+
+Structure as found: Catechism in Greek and Latin (pp. 1–31), *Carmen in Explicationem Capitum Doctrinae Christianae* (Dresden 1563; pp. 32–44), *Explicatio Decalogi* (pp. 45–166), catechetical questions on the first part of the Catechism (pp. 166–206; no printed heading — they begin at "Unde dicitur Catechesis?"), *Tabella* of virtues and vices in Greek and Latin (pp. 207–226), *De Secunda Parte Catechismi* and the rest (pp. 226–322), indexes.
+
+Scripture: KJV standard (programme decision of 2026-09-12, confirmed 2026-11-26), not the "own rendering of Selnecker's Latin" rule in HANDOFF.md.
