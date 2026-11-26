@@ -139,7 +139,7 @@ NICOLAUS SELNECCER.
 
 Pedagogy is divine religion, which is the doctrine of the divine worship, and an instruction unto the attaining of the acknowledgment of the truth, and a right training and manner of leading the life, which bringeth unto heaven, etc.
 
-[^P00-1]: The word is read from the image as ἄπλευρος, literally "without sides" or "without ribs"; the sense taken is "holding firmly to nothing".
+[^P00-1]: ἄπλευρος, literally "without sides" or "without ribs"; the sense taken is "holding firmly to nothing".
 
 [^P00-2]: Ecebolius, a sophist of Constantinople, who changed his religion with each change of emperor; hence a byword for a turncoat in religion.
 

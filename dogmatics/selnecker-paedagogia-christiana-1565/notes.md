@@ -159,3 +159,13 @@ Follow the Praetorius-Chytraeus-Kirchner-Große-Selnecker standard workflow ([[r
 - [[reference-scholastic-lutherans-workflow]] — Pandoc + LibreOffice pipeline.
 - [[reference-scholastic-lutherans-glossary]] — Lutheran-orthodoxy vocabulary + editorial conventions.
 - [[handoff-file-convention]] — this file + HANDOFF.md pattern.
+
+## Status — 2026-11-26: Pars I translated, second-read, built (532 pp.)
+
+- Source used: BSB bsb10175496 (Pars I, 432 images; printed page = image number) and bsb10175497 (Pars II, 630 images), downloaded with the library OCR to `sources-original/` (git-ignored).
+- **What the Latin Pars II actually contains** (correcting HANDOFF.md): the Creeds, Apostles' Creed article by article (images 3–449, pp. 3–449), and then on p. 450 a *Tertia Pars Christianorum Capitum, continens doctrinam de Oratione et Sacramentis Novi Testamenti, Baptismo et Coena Domini* (pp. 450–587), with the indexes and colophon. So the prayer-and-sacraments matter IS in the Latin, bound in the Pars II volume.
+- **Overlap check (OCR shingle comparison, 2026-11-26):** the Pars II Creed section shares almost no text with *Symbolorum Exegesis* 1577 (median page overlap 3%; 1 page of 447 above 45%); Pars I shares almost no text with *Institutio* Pars III (median 2%). Both are independent texts and need full translation.
+- **Pars I method:** `pars-i/TRANSLATOR-BRIEF.md`; 22 parts in `pars-i/review/parts/` (front matter, text pp. 21–396 in 19 parts, two index parts); page marks for pp. 3–396 each present once; one doubled passage cut at the p. 182 join; "free will" and "detraction" made uniform; commandments promoted to top-level sections for running heads.
+- **Second reading:** 11 readers, two parts each, every page against the images; logs in `pars-i/audit/01-log.md` … `11-log.md`. About 80 corrections: roughly 15 errors of sense, Greek restored to the print, endnotes added where the translator had silently corrected the print, page marks placed, index page numbers and head-words fixed.
+- **Open:** three `[?]` (Orpheus verse p. 145; hand-overwritten chapter number p. 157; Greek of Ps. 51 p. 307). The note on the Jews and the blood libel (P12-6) stays as written unless the editor decides otherwise.
+- **Next:** Pars II Creed section (pp. 3–449) and the Prayer/Sacraments part (pp. 450–587) — not started; waiting for the spend limit to reset (2 Dec 2026) per the editor's instruction.

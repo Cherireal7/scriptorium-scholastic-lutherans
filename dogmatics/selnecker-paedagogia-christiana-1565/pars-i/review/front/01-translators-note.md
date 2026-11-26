@@ -4,7 +4,7 @@
 
 This volume renders into English the first part of Nikolaus Selnecker's *Paedagogia Christiana*, the "Christian Pedagogy", in the Frankfurt edition of 1577: *Paedagogiae Christianae, denuo et ultimo auctae, … Pars Prima*. The title calls this edition "newly and finally enlarged, so that it shall need no further revision", and it is therefore taken here as Selnecker's last word on the book.
 
-The text-base is the copy of the Bayerische Staatsbibliothek, Munich, in the library's digital facsimile bsb10175496. The translation was made from the page images of that copy, page by page; the library's machine-read text served as an aid only. The printer's abbreviations are expanded silently.
+The text-base is the copy of the Bayerische Staatsbibliothek, Munich, in the library's digital facsimile bsb10175496. The translation was made from the page images of that copy, page by page, and every page was afterwards read a second time against the images by a reader who had not translated it; the library's machine-read text served as an aid only. The printer's abbreviations are expanded silently.
 
 ## 2. How the book came to be
 

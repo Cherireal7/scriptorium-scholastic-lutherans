@@ -76,7 +76,7 @@
 
 ### K
 
-- ***Κενοζηλία*** (vain zeal) — to be avoided — 223
+- ***Κακοζηλία*** (perverse imitation) — to be avoided — 223
 - ***Κατηχέω*** (I catechize) — 26
 - ***Ketzerey*** (heresy) — whence the word cometh — 99
 - ***Κοινωνία*** (communion, fellowship) — what the word comprehendeth — 223
@@ -128,7 +128,7 @@
 - **Wolf** (*de Lupo*) — a fable of the wolf — 291
 - **Luther** (*Lutherus*) — when he began to reveal the pope — 110; writing of usuries, he is mocked by a merchant — 241
 - **Luther** (*de D. Luthero*) — a prophecy concerning **Dr Luther** — 110
-- **Lutherans** (*Lutheranos*) — the opinion of a certain magistrate of the King of France, that they have no magistracy — 222
+- **Lutherans** (*Lutheranos*) — the opinion of a certain French king, that they have no magistrate — 222
 - **Lycurgus** — 147
 
 ### M
@@ -280,7 +280,7 @@
 - **Father's brother** (*Patruus*) — ibid.
 - **Paul** (*Paulus*) — resisting Christ, is converted — 335
 - **Fear** (*Pavor*) — what it is — 66
-- **Poverty** (*Paupertatem*) — it becometh godly princes to avoid poverty — 188
+- **Poverty** (*Paupertatem*) — it becometh godly princes to relieve poverty — 188
 - **Pausanias** — the Spartan, killed by hunger — 147, 194, 356
 - **The sinner** (*Peccator*) — though he repent, is yet accursed according to the sentence of the Law — 33
 - **Sin** (*Peccatum*) — what it is — 44; serving or not reigning — 48; reigning — ibi.; whence it arose — 76; original sin, in what men it is — 78; the formal element is taken away in baptism — 79; the material element remaineth — ibid.; actual sin, what it is — 79; when it reigneth — 80; sin against conscience is elsewhere called reigning or dominant sin — ibi.; what it is — 117; original — 308
@@ -350,7 +350,7 @@
 - **Property** (*Proprietas*) — property in things is permitted — 224
 - ***Πρωσοποληψία*** (respect of persons) — 163
 - **Neighbour** (*Proximo*) — no injury is to be done to our neighbour — 252
-- **A girl** (*Puella*) — changed into the form of a mare — 85; possessed by the devil — 264
+- **A girl** (*Puella*) — changed into the form of a horse — 85; possessed by the devil — 264
 - **A boy** (*de Puero*) — of a boy who had given himself over to the devil — 247
 - **Pygius** — 191
 - **Pythagoras** — 382
@@ -595,8 +595,6 @@
 THE END.
 
 # Colophon
-
-*Impressum Francofurti ad Moenum, apud Franciscum Bassaeum. M. D. LXXVII.*
 
 Printed at Frankfurt on the Main, by Franciscus Bassaeus. 1577.
 

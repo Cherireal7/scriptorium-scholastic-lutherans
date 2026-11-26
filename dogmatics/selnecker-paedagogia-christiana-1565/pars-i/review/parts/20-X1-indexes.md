@@ -157,6 +157,8 @@
 - By God's permission Satan layeth hand upon the elect of God. — 71
 - How philosophical books are to be used in sacred matters. — 374
 
+THE END.
+
 # *Rerum ac verborum in prima parte huius Operis observatu dignissimorum Index* · An Index of the Things and Words Most Worthy of Note in the First Part of this Work
 
 ### A
@@ -234,7 +236,8 @@
 - **Ascharoth** — a Devil — 56
 - **Asp** (*Aspis*) — the nature of its venom — 257
 - **Assyrians** — worshipped Bel — 82
-- ***Ἀστοργία*** (want of natural affection) — is censured — 142; examples thereof — ibid.
+- ***Ἀστοργία*** (want of natural affection) — is censured — 142
+- ***Ἀστοργία*** (want of natural affection) — examples thereof — ibid.
 - **Athenodorus** — 182
 - **Attic gods** (*Atticorum Dii*) — 55
 - **Attila** (*Attylas*) — the tyrant, styled himself the Scourge of God and the terror of the peoples — 77; laid waste Rome and the Gauls — ibid.
@@ -254,7 +257,7 @@
 ### B
 
 - **Baal-berith** — a god of the heathen — 82
-- **Babylonia** — 11 [?]
+- **Babylonia** — 11
 - **Babylonians** — worshipped Bel — 82
 - **Bajazet** (*Baicetes*) — Emperor of the Turks — 77
 - **Balm** (*Balsamum*) — the signification thereof — 153
@@ -304,7 +307,7 @@
 - **Charles V** (*Carolus V*) — the Emperor — 278
 - **Cassia** — where it groweth — 150; for what it serveth — ibid.
 - **Chastity** (*Castitas*) — the ornament of all virtues — 221, 222
-- **Chastity** (*Castitas*) — examples thereof — 356, 358 [?]; what things ought to move us to chastity — 220
+- **Chastity** (*Castitas*) — examples thereof — 356, 358; what things ought to move us to chastity — 220
 - **Hundredth** (*Centesima*) — usury of the hundredth — 240
 - **Ceremonies** (*Ceremoniae*) — for the disagreement of ceremonies the agreement of faith is not to be broken — 118
 - **Ceremonies** (*Ceremoniae*) — are twofold — 119; the Mosaic, for what causes instituted of God — 121
@@ -395,7 +398,7 @@
 - **Demaratus the Lacedaemonian** — the counsellor of Xerxes — 287
 - **Democritus** — laughed in place of anger — 181; derided human follies — 377, 382
 - **Demosthenes** — reproveth the negligence of judges — 161, 162; driven into exile — 163
-- **God the Father** (*Deus Pater*) — testifieth of the Son — 282; whether he commandeth things impossible — ibid.; he alone is to be called upon — 31; is a consuming fire — 40; is to be known by the Word — 52; how he loveth us — 59; is sweet, upright, Father and Avenger — 66; hath given whatsoever we have — 68; suffereth no man to be tempted above his strength — 71; why he maketh his own subject to the cross — 73; is not the author of sin — 76; is greatly delighted with thanksgiving — 90; is hurt by perjury — ibid.; ***καρδιογνώστης*** (knower of hearts) — 98; rested on the seventh day from all his work — 101; why he rested on that day — ibid.; delivereth the Church — ibid.; is present to his creature — ibid.; maketh the earth fruitful — ibid.; giveth life to living things — ibid.; is perpetually present to his creature — ibid.; will hear them that call upon him — 248; the judge to come of secret anger — 177; the founder of nature — 311; the author of the notions — 366; is not the cause of sin — 325; the chief good — 378; the fountain and origin of all good — ibid.
+- **God the Father** (*Deus Pater*) — testifieth of the Son — 282; whether he commandeth things impossible — ibid.; he alone is to be called upon — 31; is a consuming fire — 40; is to be known by the Word — 52; how he loveth us — 59; is sweet, upright, Father and Avenger — 66; hath given whatsoever we have — 68; suffereth no man to be tempted above his strength — 71; why he maketh his own subject to the cross — 73; is not the author of sin — 76; is greatly delighted with thanksgiving — 90; is hurt by perjury — ibid.; ***καρδιογνώστης*** (knower of hearts) — 98; rested on the seventh day from all his work — 102; why he rested on that day — ibid.; delivereth the Church — ibid.; is present to his creature — ibid.; maketh the earth fruitful — ibid.; giveth life to living things — ibid.; is perpetually present to his creature — ibid.; will hear them that call upon him — 248; the judge to come of secret anger — 177; the founder of nature — 311; the author of the notions — 366; is not the cause of sin — 325; the chief good — 378; the fountain and origin of all good — ibid.
 - **God** (*Dei testimonium*) — the testimony of God, that he is propitious to them that turn to the Son — 28; the preaching of his essence and will requireth three things — 90
 - **God** (*Deo*) — we ought to obey God rather than men — 117
 - **God** (*Deo semel dicatum*) — that which hath once been dedicated to God is not to be transferred further to human uses — 232
@@ -416,7 +419,7 @@
 - **Discipline** — why it is to be maintained — 37; what it is — ibid.; a schoolmaster unto Christ — 362
 - **Discord** — ariseth from the Devil — 153
 - **Riches** (*Divitiae*) — the use thereof — 257
-- **Divorce** — of divorce — 219 [?]
+- **Divorce** — of divorce — 219
 - **Divorce** — when it is approved by the Son of God — 219, 220
 - **Divorce** — why Moses gave the Jews the power of making divorce — 219
 - **Doctors** — the rewards of them that teach rightly — 23; theft — 252
@@ -488,7 +491,7 @@
 - **Freiberg** (*Friberga*) — in Meissen — 145
 - **Usury** (*Foenus*) — forbidden of God — 245
 - **Fornication** — defileth both body and conscience — 202
-- **Fornication** — the punishment thereof — 87 [?]
+- **Fornication** — the punishment thereof — 87
 - **Fortune** — her inconstancy — 394; an example thereof — ibid.
 - **Francis Spira** — 99
 - **Brethren** (*Fratres*) — who are so named — 153; the Son of Sirach speaketh of them — ibid.
@@ -530,7 +533,7 @@
 - **Gregory** — the history of a Bishop Gregory in Cappadocia — 57
 - **Godwin** (*Goduinus*) — the Earl, factious, deceitful and ambitious — 95
 - **Gonzaga** (*Gonsaga*) — a prelate of Milan — 297
-- **Goslar** (*Goslaria*) — 263 [?]
+- **Goslar** (*Goslaria*) — 263
 - **Governing** (*Gubernandi vocatio*) — the calling of governing is not to be fled because of difficulties and labours — 163
 - **Welf VI** (*Guelphus Sextus*) — his history — 198
 - **William, Duke of Normandy** — 94
@@ -564,11 +567,11 @@
 - **Murderer** (*Homicida*) — his punishment — 31
 - **Manslaughter** (*Homicidium*) — twofold — 183
 - **Manslaughter** (*Homicidium*) — an example of manslaughter punished — 255
-- **Man** (*Homo*) — created that he might know God — 22; why he liveth — 23; created in righteousness and holiness — 45; without conversion he is not quickened by faith through the Holy Ghost — 47; when he becometh guilty of eternal wrath — 43; created of nothing — 58; by the snares of the Devil and his own will made nothing — ibid.; the instrument of the Devil — ibid.; whether he be condemned, seeing he cannot satisfy the law of God — 61; believing in God, he hath three colours — 63; what manner of man he was before the fall — ibid.; by the snares of the Devil and his own will turned away from God — 64; born to labour — 216; not created for the Sabbath — 136; what he is without the knowledge of the honest arts — 267; why he striveth against Christ — 337; after the fall he lost his chief end — 379; what things are required that he may be blessed on every part — 384, 385; subject to miseries — 389; a disease from his birth — 304
+- **Man** (*Homo*) — created that he might know God — 22; why he liveth — 23; created in righteousness and holiness — 45; without conversion he is not quickened by faith through the Holy Ghost — 47; when he becometh guilty of eternal wrath — 48; created of nothing — 58; by the snares of the Devil and his own will made nothing — ibid.; the instrument of the Devil — ibid.; whether he be condemned, seeing he cannot satisfy the law of God — 61; believing in God, he hath three colours — 63; what manner of man he was before the fall — ibid.; by the snares of the Devil and his own will turned away from God — 64; born to labour — 216; not created for the Sabbath — 136; what he is without the knowledge of the honest arts — 267; why he striveth against Christ — 337; after the fall he lost his chief end — 379; what things are required that he may be blessed on every part — 384, 385; subject to miseries — 389; a disease from his birth — 304
 - **Man** (*Hominis dignitas*) — the dignity of man is described by the law — 39; his nature corrupted by the fault of origin — 75; what his perfection is — 305; the cause of his fall — 307, 308; the difference of the regenerate and the unregenerate man — 322; how his conversion is wrought — 334; his chief good before the fall, God — 378; the description of man — 394
 - **Man** (*Homo*) — testimonies that man is evil from his infancy — 309, 310; for whose sake all things were made — 22
 - **Man** (*Homo*) — of the perfection of man in the life to come — 384, 385
-- **Men** (*Homines*) — by nature children of wrath — 78; are not to be killed for any offences whatsoever — 172
+- **Men** (*Homines*) — by nature children of wrath — 78; are not to be killed for the sake of any wild beasts whatsoever — 172
 - **Men** (*Homines*) — for the sake of men all things were made — 102; for what causes their fellowship was instituted of God — 137
 - **Honesty** (*Honestas*) — twofold — 213
 - **Honest** (*Honestum*) — the honest is by nature praiseworthy — 360
