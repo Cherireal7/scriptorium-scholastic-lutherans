@@ -27,3 +27,4 @@ venv/
 
 # HTML build folders (regenerated)
 **/review/build-*/
+**/review/build/

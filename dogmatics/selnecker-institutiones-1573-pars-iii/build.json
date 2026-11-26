@@ -1,0 +1,9 @@
+{
+  "stem": "Nikolaus-Selnecker-The-Institution-of-the-Christian-Religion-Pars-III-1579-English-Scholastic-Lutherans",
+  "title": "Nikolaus Selnecker, The Institution of the Christian Religion, Part Three (1579) — English",
+  "front": "review/front.html",
+  "parts": ["review/front/*.md", "review/parts/*.md"],
+  "master": "review/selnecker-institutio-pars-iii-1579.md",
+  "toc_depth": 2,
+  "short_heads": {}
+}
