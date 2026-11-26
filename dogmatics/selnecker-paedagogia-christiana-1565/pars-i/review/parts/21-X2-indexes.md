@@ -5,7 +5,7 @@
 - **Hypocrites** (*Hypocritae*) — sin horribly in three things — 101; God will not hold them guiltless — ibidem
 - **Hypocrites** (*Hypocritae*) — have a servile fear — 86
 
-**I.**
+### I
 
 - **Jacob** (*Iacob*) — wrestling with the angel, hath a firm faith — 54; patriarch — 60
 - **Jaddua** (*Iaddus*) — high priest — 132
@@ -43,4 +43,567 @@
 - **Josephus** (*Iosippi*) — his ordering of the precepts of the Decalogue — [no page printed]
 - **Joshua** (*Iosua*) — led the people into the promised land — 52
 - **Wrath** (*Ira*) — of God, to be acknowledged — 47; a work of the flesh — 178; whence it ariseth — 178, 179; how it is to be restrained — 180; of God, upon whom it abideth — 183
-- **Wrath** (*Ira*) — by it the powers of body and soul are weakened — 181; thence the most grievous diseases arise — ibid.
+- **Wrath** (*Ira*) — by it the powers of body and soul are weakened — 181; thence the most grievous diseases arise — ibid.; sins are increased, etc. — ibid.
+- **Wrath** (*Iram*) — of God, no man can bear it — 40; what ought to move us to restrain it — 181
+- **The Jews** (*Iudaei*) — are confuted by Christ with five arguments — 136; why they are not to be tolerated by the magistrate — 249
+- **A Jew** (*Iudaei*) — his disputation with a Christian — 94
+- **The Jews** (*Iudaeorum*) — their dancing before the lamb[^X2-1] — 55; their error concerning the Sabbath — 135; their superstitious observance of the Sabbath — 136; their ceremony in giving a bill of divorcement — 218
+- **Judge** (*Iudex*) — what manner of man he ought to be — 160
+- **Judge** (*Iudici*) — three things he is to have regard to — 170
+- **Judge** (*de Iudice*) — a history of a Spanish judge — 297
+- **Judges** (*Iudicum*) — their oath among the Athenians — 160; their negligence reproved by Demosthenes — 191
+- **Judges** (*Iudicum*) — why the Thebans painted them without eyes and hands[^X2-2] — 164; their duties — 158
+- **Judgement** (*Iudicium*) — hasty judgement, evil — 298
+- **Courts of law** (*Iudicia*) — are permitted — 159; why they were instituted — ibid.
+- **Courts of law** (*Iudiciorum*) — how many their final causes are — 160
+- **Judgement** (*Iudicium*) — the judgement of reason is a ray of the divine wisdom — 31
+- **Judith** (*Iudith*) — 269
+- **Julian** (*Iulianus*) — the Apostate — 152; emperor — 99; persecuted Athanasius — ibid.; his argument concerning concupiscence refuted — 79
+- **Right** (*Ius*) — extreme right, extreme wrong — 170; what is called strict right — 170, 136
+- **Right** (*contra Ius*) — things done against right are held as not done — 255
+- **Oath** (*Iusiurandum*) — what it is — 92; the end of all controversy — 92
+- **Oath** (*Iurisiurandi*) — its extremes — 99
+- **Justice** (*Iustitia*) — to be magnified — 173; commutative — 225; whence it proceedeth — 372
+- **Justice** (*Iustitiae*) — its definition — 223
+- **Justin Martyr** (*Iustinus*) — 382
+- **The just** (*Iustis*) — they too have need of the Word — 38
+- **Oath** (*Iuramentum*) — is often taken for invocation — 92; not to be imposed on any man for any cause whatever — 96; not to be broken — ibid.; against God, by no means to be kept — ibid.; whence so called — ibid.; ought not to be a bond of iniquity — ibid.; an ungodly oath — 100; of judges among the Athenians — 160
+- **Oath** (*Iuramenti*) — its rite among the Romans — 96; examples of oaths kept and not kept — ibid.; its form — 121
+- **Oath** (*in Iuramento*) — how a man ought to behave himself in an oath — ibid.; what is to be considered in it — 96; an imprecation is contained in it — ibid.
+- **Oaths** (*Iuramenta*) — which are disapproved by God — 92; which are approved — 92
+- **Oath** (*de Iureiurando*) — of the oath — ibid.
+- **To swear** (*Iurare*) — what it is — ibid.
+
+### K
+
+- ***Κενοζηλία*** (vain zeal) — to be avoided — 223
+- ***Κατηχέω*** (I catechize) — 26
+- ***Ketzerey*** (heresy) — whence the word cometh — 99
+- ***Κοινωνία*** (communion, fellowship) — what the word comprehendeth — 223
+
+### L
+
+- **Labour** (*Laboris*) — whence the fruits of our labour proceed — 225
+- **Lacedaemonians** (*Lacedaemonii*) — permitted bargains concerning adulteries — 32
+- **Laconian youths** (*Laconicorum iuvenum*) — their crime — 194
+- **Lambert of Aschaffenburg** (*Lambertus Schafnaburgensis*) — historian — 263
+- **Lamech** — after the flood the author of polygamy — 219
+- **Lampsacenes** (*Lampsacenorum*) — their gods — 55
+- **Lampsacus** (*Lampsacum*) — a town — 301
+- **The fall** (*Lapsus*) — of man, its cause — 308
+- **Law** (*Lex*) — when it was made impossible — 30; what manner of doctrine it is — 32; a flaming sword — 33; it accuseth and condemneth — ibid.; what it worketh — ibid.; the knowledge of sin — ibid.; into what it casteth a man — ibi.; to be set before the unjust — 34
+- **Law** (*Legis*) — the definition of the moral law — 35; it worketh wrath — 37; it reproveth sin — 38; of what things it admonisheth us — 39 & sequentib.; the norm and rule of life and obedience — 48; it causeth shame — 90; how the moral law is abrogated — 114; it is called a tyranny — 112; it is fulfilled by Christ in four ways — 115
+- **The Manilian law** (*Lex Manilia*) — 156
+- **Law** (*Legis*) — the difference between the Law and the Gospel — 29; the first — ibid.; the second — 32; the third — ibid.; the fourth — 33; the fifth — 34; the sixth — ibi.; why God willed that a knowledge of it should remain in us — 31; its synonyms — 33, 34; its division — ibid.; its parts avail nothing to justification — 35; its abrogation — ibid.; the moral use — 36; its use is felt in true repentance — 37
+- **Law** (*Legi*) — the divine law cannot be satisfied in this life — 40; whether we can satisfy it — 351, 352
+- **Law** (*per Legem*) — by the Law we know sins — 37
+- **Law** (*Legem*) — Christ fulfilleth the Law in four ways — 38; when we truly hear it — 40
+- **Law** (*Lege*) — men are not justified by the Law — 37
+- **Law** (*sub Lege*) — we are no longer under the Law — 36
+- **Law** (*sine Lege*) — what it is to live without the Law — 37
+- **Law** (*cum Lege*) — our nature fighteth against the Law — 39
+- **Laws** (*Leges*) — that the divine laws are not natural — 31; the forensic laws abolished as to obedience — 35; why they may be wholly omitted — 36; the ceremonial laws — 35; why they may be wholly omitted — 36; whether they be abolished — 133; whether they are to be changed — 112; abolished as to obedience — 35
+- **Laws** (*Legibus*) — how far papal and royal laws are not to be obeyed — 117
+- **Laws** (*Legibus*) — when laws concerning adiaphora are to be opposed — ibid.
+- **Lion** (*de Leone*) — a fable of the lion — 279
+- **Leonidas** (*Leonides*) — Spartan captain — 287
+- **Bawdy-houses** (*Lenocinia*) — public bawdry not to be suffered — 200
+- **Levity** (*Levitas*) — courtly levity forbidden — 178
+- **Liberality** (*Liberalitas*) — and beneficence, which are pleasing to God — 258
+- **Children** (*Liberi*) — why they are often called out of this life in the flower of their age — 166; they ought to be brought by godly parents to hear the Word of God — 144
+- **Children** (*Liberis*) — the faults of parents are to be borne by them patiently — 148; they must not go to law with their parents — ibid.
+- **Children** (*Liberorum*) — their duties — 144
+- **Free will** (*Liberi arbitrii*) — its definition — 315
+- **Free will** (*de Libero arbitrio*) — a brief admonition concerning free will — ibid.
+- **Liberty** (*Libertas*) — what Christian liberty is — 112; where it beginneth — 113; in what three things it chiefly consisteth — ibi.; the degrees which are delivered by the theologians — ibi.
+- **Liberty** (*Libertatis*) — abuse of the word — 111
+- **Liberty** (*de Libertate Christiana*) — of Christian liberty — ibid.; the opinion of the philosophers — 112; the judgement of **Plato** — ibid.
+- **Line** (*Linea*) — which is the line of ascendants — 208; of descendants — ibid.; the collateral line twofold — 209
+- **Livia** — wife of Drusus — 219
+- ***Lobopffer*** (sacrifice of praise) — 120
+- **Talkativeness** (*Loquacitas*) — 301
+- **Lucian of Antioch** (*Lucianus Antiochenus*) — presbyter — 25
+- **Lewis the German** (*Ludovicus Germanicus*) — 152
+- **Wolf** (*Lupus*) — the image of a tyrant — 270
+- **Wolf** (*de Lupo*) — a fable of the wolf — 291
+- **Luther** (*Lutherus*) — when he began to reveal the pope — 110; writing of usuries, he is mocked by a merchant — 241
+- **Luther** (*de D. Luthero*) — a prophecy concerning **Dr Luther** — 110
+- **Lutherans** (*Lutheranos*) — the opinion of a certain magistrate of the King of France, that they have no magistracy — 222
+- **Lycurgus** — 147
+
+### M
+
+- **Macarius** — a holy man — 85
+- **Macedo** — a usurer — 240
+- **Macedonians** (*Macedones*) — 236
+- **Macedonia** — 133
+- **Macedonian princes** (*Macedonicorum Principes*) — fight with the sword for the kingdom — 152
+- **Machetes** — 162
+- **Magic** (*Magia*) — what it is — 84, 85
+- **Magicians** (*Magi*) — to be most severely punished — ibid.
+- **Magistrate** (*Magistratus*) — how far he hath right over his subjects — 157; what he is — 159; magistrates are called fathers of the country — 145; why he ought not to be slothful, the keeper of the First and Second Table — 186; he ought not to be unlearned in doctrine — 187; nor given to pleasures — ibi.; not to be despised — 188; whether he have power to put to death those who kill wild beasts — 192; he ought to avoid incests — 272; his office — 231; why magistrates are called gods — 280
+- **Magistrate** (*Magistratus boni*) — the office of a good magistrate — 154, 156
+- **Magistrate** (*Magistratui*) — how far he is to be obeyed — 158; of what things he may judge — 186; a stipend is owed him — 243
+- **Magistrate** (*Magistratum*) — what ought to move him to punish the wicked — 171, 172
+- **Magistrates** (*Magistratuum*) — their ends — 157
+- **Evil** (*Malum*) — how the evil of guilt is distinguished from the evil of punishment — 76
+- **Breasts** (*Mamillae*) — why they are set in the breast in men — 142
+- **Manichaeans** (*Manichaeorum*) — the raving of the later Manichaeans refuted — 79
+- **Marcus Varro** — 376
+- **M. Crassus** — stabbed with a dagger by a barbarian — 236
+- **Mary** (*Maria*) — the mother of James, sister of the mother of Christ — 195
+- **Mary** (*Maria*) — the betrothed and wife of Joseph — ibid.
+- **Husband** (*Mariti*) — his two duties — 215
+- **Husbands** (*Maritorum*) — their harshness to be overcome with patience and gentleness — 199
+- **Martia** — wife of Cato — 219
+- **D. Martin Luther** (*Martinus*) — how many sevens of years he fulfilled in this life — 110; he departed out of this life — ibid.
+- **Mother's sister** (*Matertera*) — 208
+- **Matron** (*de Matrona*) — of a matron who had to do with her own son — 205
+- **Moors** (*Mauri*) — worshipped Juba — 82
+- **Maurice** (*Mauricius*) — Emperor — 232; falleth sick — 72; fleeth with his household to Chalcedon — ibi.; seeth the slaughter of his wife and his children — ibid.; is beheaded — 72; his corpse is cast out upon the shore — ibi.; is buried by a eunuch — ibidem
+- **Maurice** (*Mauricii*) — the Emperor's dream — 72
+- **Maurice** (*de Mauricio*) — a memorable history of him — 72, 182
+- **Maurice** (*Mauricius*) — Elector of Saxony — 110
+- **Maximilian the First** (*Maximilianus Primus*) — 134
+- **Maximilian** (*Maximilianus*) — Emperor — 296
+- **Medea** — killeth her own children — 143
+- **Lying** (*Mendax*) — a lying lip, the devil's vessel — 267
+- **Liars** (*Mendaces*) — are punished by God — 267
+- **A lie** (*Mendacium*) — bringeth forth riches — 267; what it is — 268; it is from the devil — 268
+- **Lies** (*Mendaciorum*) — three kinds — 268; examples — 278
+- **Beggars** (*Mendici*) — of what sort — 253
+- **Begging** (*Mendicitas*) — what begging is censured — ibid.
+- **Menaches** — 116
+- **Mind** (*Mens*) — the human mind not born for destruction — 24
+- **Minds** (*Mentes*) — which are weak minds — 54
+- **Meones** (Hebrew *me'onen*, an observer of times) — 85
+- **Wages** (*Merces*) — in what things they are withheld from the poor — 252
+- **Wages** (*Mercedes*) — unjust wages are thefts — 252
+- **Firkin** (*Metreta*) — 195
+- **Micaseph** (Hebrew *mekashsheph*, a witch) — 85
+- **Michael Servetus** — burned — 99
+- **Michal** (*Michol*) — daughter of Saul — 269
+- **Warfare** (*Militia*) — what warfare is lawful — 256
+- **Minister** — that he is in the place of God — 273; godly and faithful, when he rightly dischargeth his office — 128
+- **Ministers** (*Ministri*) — the ministers of the Word of God are called fathers — 271
+- **Ministers** (*Ministrorum*) — wherein the office of godly ministers consisteth — 127
+- **Ministers** (*de Ministris*) — the judgement of worldly men concerning the ministers of the divine Word — 271
+- **Ministry** (*Ministerii*) — its definition — 127; its end — 127
+- **Ministry** (*Ministerium*) — whence it is drawn — 127
+- **Ministry** (*Ministerio*) — its due honour is to be given to the public ministry — 135
+- **Ministry** (*ad Ministerium*) — some contribution of means is to be made for the ministry — 131
+- **Mercy** (*Misericordiae*) — the difference between mercy and truth — 265
+- **Mass** (*Missae*) — the signification of the word — 131
+- **Moloch** — what manner of god he was — 83
+- **A monk** (*Monachus*) — foretold the death of the Emperor Maurice — 72
+- **Monks** (*Monachi*) — are confuted — 79
+- **Monica** — mother of **Augustine** — 199
+- **Manners** (*Mores*) — which are commanded by God — 116
+- **Moses** — led out the people — 52; why he gave the Jews leave to make divorce — 218
+- **Moroseness** (*Morositas*) — forbidden — 178
+- **Death** (*Mors*) — the death of the saints a testimony of doctrine and of immortality — 72; to be looked for at every moment — 185; the end of labours — 389
+- **The dead** (*Mortuorum*) — invocation of the dead not commanded by God — 97
+- **Woman** (*Mulieris*) — her virtue — 217
+- **Women** (*Mulierum*) — their disposition — 61
+- **Worldly men** (*Mundanorum*) — their judgement concerning the ministers of the divine Word — 271[^X2-3]
+- **Myrrh** (*Myrrha*) — where it groweth — 150
+- **Myrtle** (*Myrtus*) — a tree — 261; its nature — ibid.
+- **Mysteries** (*Mysteria*) — where the mysteries of God are comprehended — 127
+
+### N
+
+- **Naboth** — 159
+- **Nebuchadnezzar** (*Nabuchodonosor*) — 90
+- **Nebuchadnezzar** (*Nabuchodonosori*) — dominion over the beasts and the fowls is ascribed to him by Daniel — 187
+- **Nature** (*Natura*) — depraved — 30; fighteth against the Law — 40
+- **Nature** (*Naturae*) — the remnants of depraved nature — 30
+- **Natural things** (*Naturalia*) — possible to nature unimpaired — ibid.
+- **G. Nazianzen** (*Nazianzenus*) — hearer of **Basil the Great** — 375
+- **Nemesis** — 170
+- **Nero** (*Neronis*) — his most cruel deed — 143
+- **Nicephorus** — 192
+- **Nod** — the region — 387; where it lieth — ibid.; the signification — ibid.
+- **Knowledge** (*Noticia*) — of God — 128
+- **Knowledge** (*Noticia*) — the knowledge of first principles in man, a marvellous thing — 366
+- **Knowledge** (*Noticiae*) — the notions of the Law, unimpaired, were known to nature unimpaired — 29; the difference between philosophical and Christian knowledge — 50; what the natural notions are — 51
+- **Number** (*Numerus*) — the number seven is called sacred — 106
+- **Number** (*Numeri*) — examples of the number seven — 107
+- **Number** (*Numero*) — how Holy Scripture useth the number seven — ibid.
+- **Numbers** (*Numerorum*) — why the knowledge of numbers is good — 79
+
+### O
+
+- **Ob** (Hebrew *'ob*, a familiar spirit) — 84
+- **Obedience** (*Obedientia*) — it ought to be willing — 38; necessary for him that believeth — ibid.; the new obedience, when it pleaseth God — 353
+- **Obedience** (*Obedientiam*) — what obedience God requireth — 37; the Law showeth that it is necessary — 38; the Gospel teacheth how it pleaseth God — ibid.
+- **Rebukes** (*Obiurgationum*) — the manner of them — 272
+- **Detraction** (*Obtrectatio*) — the dainty dish of the envious — 289
+- **Idleness** (*Ocium*) — Satan's pillow — 227; the tinder of sins — 228
+- **Idleness** (*ab Ocio*) — a dissuasion from idleness — ibid.
+- **The eye of the Lord** (*Oculus Domini*) — 293
+- **Oedipus** — King of Thebes — 152
+- **Duty** (*Officium*) — of children — 144; of parents — 142
+- **Duties** (*Officia*) — not all duties on feast days are to be reproved — 135; of subjects toward the magistrate — 157, 158; of judges — 159; of husbands — 197; the husband's two duties — 215; of husband and wife — 218
+- **Offences** (*Offensiones*) — everywhere in the world — 143
+- **Oil** (*Oleum*) — wherewith priests and kings were anointed of old, where it groweth — ibi.; how it is made — ibid.
+- **Labourer** (*Operario*) — his hire is to be given him — 252
+- **Works** (*Opera*) — those commanded by God in the Decalogue are to be done — 43; those not commanded by God are no worship of God — ibid.; how they please God — 46; why they please him — ibi.; why they are to be done — 46, 47; they are not to be brought in toward salvation or merit — 48; they are fruits of faith — ibid.; they merit spiritual and bodily rewards — ibi.; the works of the godly — 363
+- **Works** (*Operum*) — where their recompense is made — 354
+- **Works** (*Operibus*) — the wrath of God cannot be appeased by human works — 46
+- **Opinions** (*Opiniones*) — **Marcus Varro** reckoneth up the opinions concerning the end of man — 378
+- **The Lord's Prayer** (*Oratio Dominica*) — biddeth us implore the help of the Father — 27
+- **Order** (*Ordo*) — the order which yet remaineth in nature is preserved by God — 45
+- **Orpheus** (*Orphei*) — his verses cited by **Stobaeus** — 145
+- **Otho** — Duke of the Swabians — 278
+- **Osiander** — 52
+
+### P
+
+- **Paches** — an Athenian captain — 170
+- **Compacts** (*Pacta*) — which cannot be performed without sin are to be rescinded — 96
+- **The pope** (*Papa*) — the punishment of security and ungodliness — 77
+- **Papists** (*Papistae*) — and monks trust in their own works — 64
+- **Papists** (*Papistae*) — worship bread as God — 55; invoke the saints — ibid.
+- **Papists** (*Papistarum*) — their greatest sin — 137
+- **Paradise** (*Paradisus*) — 387
+- **Parents** (*Parentes*) — owe instruction to their offspring — 142
+- **Parents** (*Parentum*) — wherein their duty consisteth — ibid.; their indulgence reproved — 143; it is punished by God — ibid.; their consent is required in marriage — 214[^X2-4]
+- **Parents** (*ad Parentum amorem*) — what belongeth to the love of parents — 145
+- **Parents** (*Parentes*) — ought not to be morose — 214
+- **Parents** (*Parentibus*) — when they are not to be obeyed — 146; an equivalent price cannot be rendered them — 147
+- **Parricide** (*Parricidium*) — in how many ways it is committed — 183
+- **Parricide** (*Parricidii*) — its punishment — ibid.
+- **Patience** (*Patientia*) — in calamities, the mark of a godly man — 72; it overcometh Satan and confoundeth the world — 74; it is exercised in three ways — 70; how it cometh about — 74
+- **Patience** (*Patientiae*) — the things contrary to it — 86
+- **Father** (*Patris*) — wherein his duty consisteth — 156
+- **Cousins** (*Patrueles*) — on the father's side — 208
+- **Father's brother** (*Patruus*) — ibid.
+- **Paul** (*Paulus*) — resisting Christ, is converted — 335
+- **Fear** (*Pavor*) — what it is — 66
+- **Poverty** (*Paupertatem*) — it becometh godly princes to avoid poverty — 188
+- **Pausanias** — the Spartan, killed by hunger — 147, 194, 356
+- **The sinner** (*Peccator*) — though he repent, is yet accursed according to the sentence of the Law — 33
+- **Sin** (*Peccatum*) — what it is — 44; serving or not reigning — 48; reigning — ibi.; whence it arose — 76; original sin, in what men it is — 78; the formal element is taken away in baptism — 79; the material element remaineth — ibid.; actual sin, what it is — 79; when it reigneth — 80; sin against conscience is elsewhere called reigning or dominant sin — ibi.; what it is — 117; original — 308
+- **Sin** (*Peccatum*) — he that committeth sin is of the devil — 47
+- **Sins** (*Peccata*) — the Lamb of God taketh them away — 37; we know them by the Law — ibi.; remaining in the saints — 48; they are remitted to us by the blood of the Son of God — 64; against the First Commandment — 67; sins are punished with sins — 77; contrary to faith — 82; against the Third Commandment — 135; contrary to the Third Commandment — 136; to be judged out of the Word of God — 243; why they are to be reproved — 246; they are to be censured by the minister of the divine Word — 271
+- **Sin** (*Peccati*) — its definition — 76; its kinds — 106; pardon is not given save to him that is amended — 256
+- **Sins** (*Peccatorum*) — whereon their remission dependeth — 74; their distinction — 48; why the reproof of sins is not to be held in hatred — 273
+- **Sins** (*Peccatis*) — they that resist not sins offend against conscience — 80
+- **Sins** (*de Peccatis*) — of sins against the Second Commandment — 98; against the First Commandment — 75
+- **Perjury** (*Periurium*) — hurteth the glory of God — 94
+- **Perjury** (*Periurii*) — a notable example of perjury punished — 94, 96
+- **Perjured** (*Periuri*) — why we are perjured — 100
+- **Perjurer** (*a Periuro*) — God is hurt by the perjurer — 94
+- **Peleus** (*Pelei*) — his chastity — 356
+- **Perfidy** (*Perfidiae*) — examples — 277
+- **Pericles** (*Periclis*) — his wife the firebrand of the Peloponnesian war — 219
+- **Persians** (*Persae*) — feigned fire to be God — 55
+- **Persecutions** (*Persecutiones*) — all that will live godly in Christ must suffer persecutions — 74
+- **Perseverance** (*de Perseverantia*) — of perseverance — 74
+- **Peter** (*Petrus*) — lived in marriage — 192; his wife put to death — ibid.
+- **Pharaoh** (*Pharao*) — 111
+- **Philippicus** — kinsman of the Emperor Maurice — 72; is cast into prison — ibid.; is brought out of prison — ibid.
+- **Philo the Pythagorean** (*Philo Pythagoreus*) — 109, 38
+- **Philonomus** — carried his father out through the midst of the flame — 147
+- **D. Philip Melanchthon** (*Philippus Melanthon*) — died — 110
+- **Philip** (*Philippi*) — King of Macedonia, his deed — 162
+- **Philosophy** (*Philosophia*) — the rule of life — 370; not to be mingled into the proper doctrine of the Church — 376
+- **Philosophy** (*Philosophiae*) — its use — 373
+- **Philosophers** (*Philosophis*) — how far they are to be commended — 375
+- **Philosophy** (*Philosophica doctrina*) — philosophical doctrine not to be despised — ibid.
+- **Philosophy** (*Philosophicis literis*) — how philosophical learning is to be used — ibid.
+- **Phocas** (*Phoca*) — is saluted Emperor — 73; is crowned by Cyriacus the Patriarch — ibi.; a soldier of the Emperor Maurice — 72; an ambitious centurion — ibid.
+- **The godly** (*Pii*) — ought to have both love and fear of God — 98; men are relieved by the prayers of the godly — 166; examples — ibid.
+- **Godliness** (*Pietas*) — profitable unto all things — 88, 354, 390; it hath promises of this life and of that which is to come — 354
+- **Pindar** (*Pindarus*) — in what year of the world he lived — 389
+- **Pisistratus** — 248
+- **Placidia** — sister of the Emperor Honorius — 227
+- **Plato** — in what year of the world he flourished — 382; his judgement concerning liberty — 112
+- **Punishment** (*Poena*) — of those who violate the First Commandment — 87; to be executed at a fit time — 172; it ought not to be greater than the offence — ibi.; it ought not to be appointed out of hatred — ib.; sometimes to be deferred — ibid.
+- **Punishment** (*Poena*) — to be avoided — 47
+- **Repentance** (*Poenitentiam*) — sins are remitted to them that repent — 88
+- **Commonwealth** (*Politia*) — the Mosaic commonwealth ordained — 36; it perished — ibid.; which is best constituted — 372
+- **Possessor** — who is a possessor in bad faith — 255
+- **Teachers** (*Praeceptoribus*) — as much honour is owed to teachers as to parents — 359
+- **Commandment** (*Praeceptum*) — the First showeth the manner of knowing God — 52, 54; what it requireth — ib.; what it teacheth — 88, 101; it preacheth of outward worship — 168; the Second — 89; what it teacheth — ibidem and 101; the worship of this commandment — 89; the Third — 101; what it teacheth — ibi.; the Fourth — 101; the worship of this commandment — ibi.; the Fifth speaketh of the converse among us and of the person of our neighbour — ibi.; what is to be considered in it — 169; against it men sin in four ways — 177; the Sixth preacheth of the person joined to our neighbour — 168, 189; the Seventh — 232; it forbiddeth the taking away of our neighbour's goods — 168; in what things the sum of this commandment consisteth — ibi.; the Eighth — 265; it speaketh of preserving the good name of our neighbour — 168; the Ninth speaketh of the goods and possessions of our neighbour — ibid.
+- **Commandment** (*Praeceptum*) — the Ninth and Tenth — 302; they contain the sum of the whole Decalogue — 168; what the Tenth Commandment containeth — 169
+- **Commandment** (*Praecepti*) — the sum of the Second — 101; the worship of the Third — 126; the promises of the Fourth — 165; an objection — ibid.
+- **Commandments** (*Praecepta*) — the commandments of God are twofold — 105; some absolute — 126; some relative — ibid.
+- **Commandments** (*Praeceptorum*) — their order — 101
+- **Preaching** (*Praedicatio*) — where it is made manifest — 91
+- **Preaching** (*de Praedicatione*) — of true preaching — 90
+- **Preaching** (*cum Praedicatione*) — things contrary to preaching — 99
+- **The provost of Goslar** (*Praepositi Goslariensis*) — his death — 263
+- **Prester John** (*Preietanes*) — 59
+- **Presence** (*Praesentia*) — the degrees of the divine presence — 103
+- **Prexaspes** — slain by Cambyses — 279
+- **Priapus** — whence so called — 83
+- **Prince** (*Princeps*) — how a good prince is the nourisher and defender of his own — 156; who is called a painted prince — 196
+- **Princes** (*Principes*) — the fathers of their country — 154
+- **Prince** (*Principem*) — he must be mindful of three things — 154
+- **Princes** (*Principum*) — the praise of the German princes — 277; when their edicts are to be transgressed — 188
+- **Prodigality** (*de Prodigalitate*) — little verses most worthy of note concerning prodigality — 260
+- **Extravagance** (*Profusionum*) — examples of immoderate extravagance — 259
+- **Promachus** — died of excessive drinking — 185
+- **Promises** (*in Promissis*) — what is to be done in promises which cannot be performed without sin — 96
+- **Promises** (*Promissiones*) — of the First Commandment — 88
+- **Property** (*Proprietas*) — property in things is permitted — 224
+- ***Πρωσοποληψία*** (respect of persons) — 163
+- **Neighbour** (*Proximo*) — no injury is to be done to our neighbour — 252
+- **A girl** (*Puella*) — changed into the form of a mare — 85; possessed by the devil — 264
+- **A boy** (*de Puero*) — of a boy who had given himself over to the devil — 247
+- **Pygius** — 191
+- **Pythagoras** — 382
+
+### Q
+
+- **What hath once pleased** (*Quod semel placuit*) — can no more displease — 215
+
+### R
+
+- **Rahab** — 269
+- **Rachel** (*Rahel*) — wife of the patriarch Jacob — 217
+- **Reason** (*Ratio*) — reasoning in the article of providence is Epicurean, Stoic, Academic — 51
+- **Raca** (*Rhaca*) — whence it is derived — 176
+- **Rhodians** (*Rhodiorum*) — their god the sun — 82
+- **Guilt** (*Reatus*) — to whom it is remitted — 80
+- **Redemption** (*Redemptio*) — of mankind, why it was made — 23
+- **Kingdom** (*Regnum*) — when the kingdom of God shall come — 193
+- **Kingdoms** (*Regna*) — the kingdoms of the world perish through pride — 67
+- **Religion** (*Religio*) — without learned men nothing — 257
+- **Stolen goods** (*Rem raptam*) — whether it profiteth to restore what was taken by robbery — 254
+- **The regenerate** (*Renati*) — when they abide in grace — 80
+- **The regenerate** (*Renatorum*) — the distinction between the regenerate and the unregenerate — 80
+- **The unregenerate** (*non Renatos*) — what bendeth them to moderation and the other virtues — 355
+- **The regenerate** (*in Renatis*) — what sins cleave to them in this life — 48
+- **The regenerate** (*in Renatis*) — their weakness — 324
+- **Divorce** (*Repudii*) — in what form the bill of divorcement was written — 218, 219
+- **Sacred things** (*Res Sacras*) — in three cases it is lawful to sell them — 232
+- **Commonwealth** (*Respublica*) — why the Roman commonwealth was changed — 194; when it is happy — 372; without learned men, ***ἀναρχία*** (anarchy) — 258
+- **Reverence** (*Reverentia*) — 130; why it is to be shown — 359
+- **Reverence** (*ex Reverentia*) — what springeth from reverence — 146
+- **Roswitha** (*Rosuida*) — Abbess of Gandersheim — 248; daughter of a Greek emperor — ibid.
+- **Rudolph** (*Rudolphi*) — Count of Habsburg, his deed most worthy of praise — 129
+- **Rudolph** (*Rudolphus*) — Duke of Swabia — 95; lost his hand in the battle at Merseburg — ibid.
+- **Good report** (*Rumor honestus*) — a second patrimony — 388
+
+### S
+
+- **Sabbath** (*Sabbatum*) — of creation — 102; of redemption — 106; of eternal life — ibid.; the ceremonial Sabbath — 104; why it was instituted — ibid.; to whom it was left — 106; the moral Sabbath, to whom it pertaineth — ibid.; what it requireth — ibid.; God sanctified it for four causes — 102; what it signifieth — ibi.; in Holy Scripture it is fourfold — ibid.; why the Christians' Sabbath is transferred to the eighth or the Lord's day — ibid.; instituted by God for man's sake — 136
+- **Sabbath** (*Sabbati*) — its three works — 131; whereof Christ is Lord — 136
+- **Priest** (*Sacerdotis*) — his office — 277
+- **Priests** (*Sacerdotes*) — set in the first tribe by the Indians — 132
+- **Priests** (*Sacerdotum*) — their very great dignity among the Egyptians — 132
+- **Priests** (*Sacerdotibus*) — when it is lawful for them to sell sacred things — 232
+- **Sacraments** (*Sacramenta*) — teach us to be certain of help and deliverance — 27
+- **Sacrifices** (*Sacrificia*) — were types of Christ — 148; why God reproveth them — 121
+- **Sacrifices** (*Sacrificiorum*) — six kinds — 120
+- **Sacrilege** (*Sacrilegium*) — threefold — 230; sacrilege properly so called — 238; by whom it is committed — ibi. & 238
+- **Sacrilege** (*Sacrilegii*) — its punishment — 254
+- **Sacrilegious men** (*Sacrilegis*) — when their sin is remitted — 254
+- **Sadducees** (*Saducaei*) — 281
+- **Saladin** (*Saladinus*) — King of Asia, Syria and Egypt — 262, 394
+- **Salome** (*Salomes*) — 193
+- **Solomon** (*Salomon*) — served Moloch — 83; is made judge between two women — 172
+- **Salvation** (*Salutis*) — the salvation of the soul ought to be our first care — 225
+- **Samson** — taketh a wife with the consent of his parents — 212
+- **To sanctify** (*Sanctificare*) — 122
+- **The saints** (*Sanctorum*) — their death precious — 165; a testimony of Christian doctrine — 73
+- **The saints** (*Sanctorum*) — the invocation of the saints is idolatry — 58
+- **The saints** (*in Sanctis*) — what sins remain in the saints — 48, 80
+- **Health** (*Sanitas*) — is opposed to sickness — 28
+- **Satan** — driveth the secure into horrible wickednesses — 322; layeth hands on the elect of God for two causes — 70
+- **Saul** — not converted to God, is damned — 48, 114
+- **Sarah** (*Sara*) — 269
+- **Sardanapalus** — emperor — 227
+- **Harlots** (*Scorta*) — not to be maintained — 201, 202
+- **Whoredom** (*Scortatio*) — to be fled — ibid.
+- **Whoredom** (*Scortationem*) — what followeth it — 203
+- **Whoredom** (*contra Scortationem*) — a remedy against it — ibid.
+- **Whoremongers** (*Scortatores*) — God will punish them — 193, 222; examples — ibi.; to be punished severely — 200
+- **Crimes** (*Scelera*) — crimes against the Law show our infirmity and malice — 31
+- ***Schuldopffer*** (trespass offering) — 120
+- **Scilurus** — had eighty sons — 152
+- **Scipio Africanus** — 294; restoreth his captive bride to her bridegroom Allucius — 35
+- **Scripture** (*Scriptura*) — how it is rightly to be understood — 62
+- **Sedition** (*Seditio*) — is a punishment and divine vengeance — 272
+- **Senses** (*Sensus*) — the outward — 311; the inward — ibid.
+- **The number seven** (*Septenarius*) — the vehicle of human life — 108
+- **Servetus** — a heretic — 186
+- **Servants** (*Servi*) — what manner of men they ought to be — 164
+- **Servius Tullus** — father-in-law of Tarquin the Proud — 155
+- **Sesostris** — King of Egypt — 394
+- **Severus** — king — ibid.
+- **Simon the Canaanite** (*Simon Cananaeus*) — son of Mary the mother of James — 195
+- **Simoisius** (*Simoisio*) — his life was shortened because of disobedience — 148
+- **Simplicity** (*Simplicitas*) — 300
+- **Sinai** — the mount — 34; where God with his voice published the Law amid thunders and lightnings — ibid.; what it signifieth — ibid.; where it lieth — ibid.
+- **Sion** — the mount — 35; where it lieth — ibid.; its signification — ibi.; on which the castle of David was placed — ibi.
+- **Sisamnes** (*Sisamnus*) — the punishment of an unjust judge — 163
+- **Society** (*Societas*) — without what things human society cannot stand — 45
+- **Socrates** — 382
+- **Sodom** (*Sodomorum*) — why the cities of the Sodomites and Gomorrheans were turned to ashes — 204
+- **Alone** (*SOLA*) — why the particle "alone" is to be retained — 45
+- **Carefulness** (*Sollicitudo*) — whence it ariseth — 226; why it is called care of the flesh — ibid.; necessary carefulness — ibid.
+- **Carefulness** (*Sollicitudinis*) — its opposites — 227
+- **Carefulness** (*ad Sollicitudinem*) — what is required to necessary carefulness — ibid.
+- **Solon** (*Solonis*) — his elegy — 109
+- **The guilty** (*de Sontibus*) — the manner of judging them — 171
+- **Hope** (*Spes*) — is joined to faith — 58
+- **Hope** (*inter Spem*) — the difference between hope and faith — ibid.
+- **The Holy Ghost** (*Spiritus sanctus*) — beareth witness in the Church — 28; when he is troubled and driven away — 47
+- **The Holy Ghost** (*Spiritus sancti*) — his office — 363
+- **Spirit** (*Spiritus precum*) — what the spirit of prayers is — 29
+- **Spirits** (*Spirituum*) — the names of fanatical spirits in Holy Scripture — 84
+- **Sponge** (*Spongia*) — of Vespasian — 291
+- **Statues** (*Statuarum*) — the worship of statues a horrible idolatry — 55
+- **Stigelius** — 191
+- **Stobaeus** — 147
+- **Stoics** (*Stoici*) — what they think of natural affections — 140
+- ***Στοργὴ φυσικὴ*** (natural affection) — 162, 163; they are defined — 141; why it is implanted in men — 139
+- **Natural affections** (*Storgas*) — who have them in a notable degree — 141
+- ***Στοργῶν φυσικῶν*** (of natural affections) — examples — 139
+- **Subjects** (*Subditorum*) — their duties — 154, 157
+- ***Sündopffer*** (sin offering) — 117
+- **Pride** (*Superbia*) — forbidden — 178
+- **Pride** (*Superbiae*) — the pricking of pride showeth that the devil is at hand — 69; whose companion is Nemesis — ibid.; examples — ibid.
+- **The proud** (*Superbi*) — give no thanks — 90; ascribe all things to their own power — ibidem
+- **Supplication** (*Supplicandi*) — the custom of supplicating among the ancients — 191
+- **Punishments** (*Supplicia*) — the punishments of the condemned, horrible spectacles — 173; why they were instituted — ibidem
+- **Susanna** (*Susannae*) — her innocence is recognized by Daniel — 172
+- **Sponsors** (*Susceptores*) — sponsors at baptism are witnesses — 26
+- **Symmachus** — and Boethius, Roman consuls — 155
+- **The Creed** (*Symbolum*) — teacheth us to acknowledge God as Father — 27
+- **The son of Sirach** (*Syracidae*) — his warning concerning the indulgence of parents — 143
+- **Syria** — 150
+
+### T
+
+- **Table** (*Tabula*) — the Second Table of the Decalogue — 137; it speaketh of the services to be rendered to our neighbour — 160
+- **Tables** (*Tabulae*) — the two Tables of the Decalogue — 43; what the First containeth — ibid.; what the Second — ibid.
+- **Tables** (*Tabulae*) — what the hard and stony tables signify — 33
+- **Silence** (*Taciturnitas*) — 301
+- **Tamerlane** (*Tamerlanes*) — King of the Parthians — 77; he seized Asia — ibid.; he led Bajazet bound with golden chains about through all Asia and Syria — ibid.; his custom in besieging towns — ibid.; he called himself the wrath of God and the devastation of the earth — ibid.
+- **Tarquin the Proud** (*Tarquinius Superbus*) — the seventh king of the Romans — 154; cast out of the city with his whole family — ibid.
+- **Tauler** (*Taulerus*) — monk — 138
+- **Churches** (*Templorum*) — the goods of churches not to be plundered — 236, 237
+- **Tightfistedness** (*Tenacitas*) — toward churches, reproved — 257; whence it ariseth in regard to supporting the ministry — 231
+- **Temptations** (*Tentationes*) — from the devil — 70
+- **The Holy Land** (*Terra sancta*) — what wine it brought forth — 196
+- **Earth** (*Terrae*) — the colour of the earth out of which man was created — 94; its threefold foundations — 278
+- **Tertullian** (*Tertullianus*) — at what time he flourished — 375
+- **Witnesses** (*Testes*) — seven witnesses make a matter valid — 107
+- **Thales** — 382
+- **Thalia** — 286
+- **Thamer** (*Thammerus*) — thought the heathen were saved by the Law — 52
+- **Terah** (*Tharah*) — the author of images — 166
+- **Thebans** (*Thebani*) — paint the images of judges without eyes and hands — 164
+- **Thebans** (*Thebanorum*) — their gods — 55
+- **Themis** — goddess of honesty — 162; her daughter — ibid.
+- **Theodoric of Verona** (*Theodoricus Veronensis*) — 155, 273
+- **Theodosius** — 154, 182, 280
+- **Theodosius** — son of the Emperor Maurice, beaten with cudgels — 72
+- **Theologians** (*Theologi*) — who are lying theologians — 274, 276
+- **Thule** — King of Egypt — 63
+- **Tiberius** — 261
+- **To fear God** (*Timere Deum*) — what it is — 65
+- **He that feareth** (*Timens*) — is not made perfect in the love of God — 66
+- **The fear of God** (*Timor Dei*) — is the beginning of wisdom — 65, 172
+- **The fear of God** (*ad Timorem Dei*) — what ought to drive us to the fear of God — 66
+- **The fear of God** (*de Timore Dei*) — of the fear of God — 65
+- **The fear of God** (*cum Timore Dei*) — what things are contrary to the fear of God — 86
+- **Toulouse** (*Tolosanum oppidum*) — the town — 237
+- **Thunders** (*Tonitrua*) — why thunders, lightnings and clouds attended the promulgation of the Law — 33; what those which happen yet today signify — 34
+- **Torga** — a city — [no page printed]
+- **Traditions** (*Traditiones*) — human traditions do not merit the remission of sins — 115
+- **Passing** (*Transitus*) — how we are to prepare for our passing out of this life — 396
+- **Passing** (*de Transitu*) — most sweet little verses of Vida on our passing — ibid.
+- **Troy** (*Troia*) — why it was overthrown — 194
+- **The Turk** (*Turca*) — the scourge of God — 77
+- **The Turks** (*Turci*) — do not call upon the true God — 98; what manner of god they call upon — 83
+- **Tyrant** (*Tyrannus*) — who is a tyrant — 30, 154
+- **Tyrants** (*Tyranni*) — suffer not the truth to be told them — 279
+- **Tyrants** (*Tyrannorum*) — their end — 174
+
+### V
+
+- **Valerius Messala** — 157
+- **Health** (*Valetudo*) — by what things it is broken — 388
+- **Varna** (*Varnensis cladis*) — the history of the defeat at Varna — 95
+- **Vau** — 53
+- **Hunting** (*Venatio*) — is not forbidden by the laws — 189
+- **The Word of God** (*Verbum Dei*) — why it is to be heard diligently — 22; to be learned — ibid.; that we hear and learn it is the commandment of God — 22; where it is rightly taught and learned — 24
+- **The Word of God** (*Verbi Dei*) — to what end the reading of it ought to serve — 23
+- **Truth** (*Veritas*) — to be defended — 117; what it is — ibi.; why it is to be loved — 265, 226; it begetteth poverty — ibid.; hatred — 270; the truth of the Law — ibid.; in what things it consisteth — ibid.; to be considered in the estate of all men — 270; the truth of the Gospel — 276; of life — ibi.; of lords — 277; it requireth simple men — 279; it is from God — 280; how it is to be obtained — 296, 297, 298
+- **Truth** (*Veritatis*) — the etymology of the word — 265; the manifold use of this word — ibid. & 266
+- **Truth** (*Veritatis*) — the doctrine of truth and mercy — 266
+- **Truth** (*Veritatis*) — the chief things opposed to political truth — 280, 284
+- **Truth** (*Veritatem*) — time openeth the truth — 270; what things destroy it — 284; what things overthrow it — 302; who speak it out — 279
+- **Truth** (*ad Veritatem*) — what should move godly princes to the truth — 280
+- **Vespasian** (*Vespasianus*) — held his officers for sponges — 295
+- **Vincent** (*Vicentii*) — his saying to the tyrant — 74
+- **Vienna** — 255
+- **Wine** (*Vinum*) — maketh glad — 196; to what end it was created — 185
+- **Virgil** (*Virgilius*) — 147
+- **A maiden** (*Virgo*) — of Bologna, dead, yet for some while conversed with her parents and others as though alive — 85
+- **Virtue** (*Virtus*) — the chief good according to **Aristotle** — 384
+- **Virtue** (*Virtutis*) — the philosophers know not the restoring of true virtue — ibi.; its definition — 239; its reward, the account of what is true — 390
+- **Virtues** (*inter Virtutes*) — the difference between the virtues of the heathen and of the Church — 355
+- **Vengeance** (*Vindicta*) — public — 169; private — 182
+- **Long life** (*Vita longaeva*) — why it is to be asked of God — 23; eternal life the gift of God — 48
+- **Life** (*Vitae*) — whence its term is appointed — 166, 167
+- **Eternal life** (*Vitae aeternae*) — its Sabbath — 106
+- **Vitellius** — 259
+- **Vladislaus** (*Vladislaus*) — King of Hungary — 95
+- **Will** (*Voluntas*) — whence the will of God is learned — 24; it is expressed in the Law and the Gospel — ibid.
+- **Will** (*Voluntas*) — when the will and the heart rush into crimes — 31
+- **Pleasure** (*Voluptas*) — the chief good according to **Epicurus** — 387; twofold — 388
+- **Vows** (*Vota*) — monastic — 97; what is to be determined concerning them — ibi.; when they hurt the glory of Christ — ibid.
+- **Voice** (*Vox*) — the voice of God the Father heard from heaven — 22
+- **Courtesy** (*Urbanitas*) — 301
+- **Usury** (*Usura*) — what it is — 240; against nature — 241; how it is called in Hebrew — 244
+- **Usury** (*ab Usura*) — what ought to deter us from usury — 245, 246
+- **Usuries** (*Usurae*) — destroy civil society — 240; they are against the will of God — 243; why they are permitted today — 243; forbidden in four councils — 247
+- **Usuries** (*Usurarum*) — the devil their author — ibid.
+- **Usuries** (*Usuris*) — a measure set to usuries by the heathen — 241
+- **Usuries** (*Usuras*) — to take usuries is unjust — 240
+- **Usuries** (*de Usuris*) — of usuries — ibid.
+- **Usurers** (*Usurarii*) — what causes they pretend — 241, 242, 243 & deinceps
+- **Usurers** (*Usurariis*) — when the sin is remitted to usurers — 254
+- **Uses** (*Utilitates*) — the four uses of ethical doctrine — 365
+- **William Farel** (*Vuilhelmus Farellus*) — 99
+- **The little fox** (*Vulpecula*) — the image of a crafty man — 270
+- **The little fox** (*de Vulpecula*) — a fable of the little fox — 290
+- **Wife** (*Uxor*) — why she was taken out of the side of the man — 198
+- **Wife** (*Uxoris*) — her two duties — 217
+- **Wife** (*Uxorem*) — **Plato** writeth that a man should take a wife — 192; why every man ought to have his own — 193
+- **Wives** (*Uxores*) — the companions of life — 198; to be gently handled — 216
+
+### X
+
+- **Xanthians** (*Xanthiorum*) — their history — 32, 143
+- **Xenophon** — historian — 152
+- **Xerxes** — King of the Persians — 237; son of King Darius — 786[^X2-5]
+- **Xiphias** — a comet seen — 72
+
+### Z
+
+- **Zeal** (*Zelus*) — 179
+- **Zeal** (*Zeli*) — examples — ibid.
+- **Zion** (*Zionis*) — the complaint of Zion concerning God, rendered in verse by **Stigelius** — 140
+
+THE END.
+
+# Colophon
+
+*Impressum Francofurti ad Moenum, apud Franciscum Bassaeum. M. D. LXXVII.*
+
+Printed at Frankfurt on the Main, by Franciscus Bassaeus. 1577.
+
+*[Printer's device: the dove of the Holy Ghost in a glory of rays, within an ornamental frame; above it, in a cartouche, the Hebrew name **יהוה** (YHWH, Jehovah).]*
+
+[^X2-1]: The print reads *salutatio* ("greeting"); the passage on p. 55 speaks of *saltatio ad agnum seu vitulum* ("dancing before the lamb or calf", Exod. 32), and the index entry is translated accordingly.
+[^X2-2]: The print reads *Iudicum manus* ("the hands of judges"); the passage on p. 164 relates that the Thebans painted the images of judges without hands, and the chief judge with closed eyes.
+[^X2-3]: In the Munich copy this entry is struck through in ink by an early hand; it repeats the entry "Ministers (*de Ministris*)" above.
+[^X2-4]: The print shows "2 4", the middle figure not inked; parental consent to marriage is treated on p. 214.
+[^X2-5]: So printed; the volume has no such page. The figure is evidently a misprint.
