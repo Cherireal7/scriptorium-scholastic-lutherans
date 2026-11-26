@@ -1,0 +1,46 @@
+- **Humility** (*in Humilitate*) — what keepeth us in it — 90
+- **The humble** (*Humilium*) — their rewards — 68
+- **The humble** (*Humilium*) — their punishment — ibid.
+- **Water-pot** (*Hydria*) — 195
+- **Hypocrites** (*Hypocritae*) — sin horribly in three things — 101; God will not hold them guiltless — ibidem
+- **Hypocrites** (*Hypocritae*) — have a servile fear — 86
+
+**I.**
+
+- **Jacob** (*Iacob*) — wrestling with the angel, hath a firm faith — 54; patriarch — 60
+- **Jaddua** (*Iaddus*) — high priest — 132
+- ***Ηχω*** (Echo) — 26
+- **Idolatry** (*Idolatria*) — consisteth in four things — 82
+- **Idolatry** (*Idolatriae*) — certain kinds of it — 55 & seq.
+- **Idolatry** (*Idolatriam*) — dreadful punishments follow it — 82
+- **Jehovah** (*Iehoua*) — whence it is derived — 53; to whom it is ascribed — ibid.
+- **Jeremiah** (*Ieremias*) — why he took no wife — 192
+- **Jesus Christ** (*Iesu Christi*) — his blood cleanseth us from all sin — 59
+- **Iezar** (Hebrew *yetzer*, "imagination") — 78
+- **The ungodly** (*Impii*) — flourish in this life, but perish — 73
+- **The ungodly** (*Impiorum*) — their punishment — 23
+- **The ungodly** (*Impiis*) — their days are shortened — 167
+- **Inclinations** (*Inclinationibus*) — vicious inclinations are to be resisted with spiritual motions — 80
+- **Unbelief** (*Incredulitas*) — 292
+- **India** — 150
+- **Indulgence** (*Indulgentia*) — of the magistrate, reproved — 155
+- **Infirmity** (*Infirmitas*) — ours, to be acknowledged and bewailed — 31
+- **The weak** (*Infirmis*) — what they are to consider — 54
+- **Wits** (*Ingenia*) — that overturn things rightly said with calumnies, not to be borne — 281
+- **Ingratitude** (*Ingratitudo*) — 98
+- **The disobedient** (*Inobedientium*) — their horrible punishment — 273
+- **Snares** (*Insidiae*) — of the devil, to be guarded against — 48
+- **Snares** (*Insidiarum*) — of the devils, their greatness — 70
+- **Invocation** (*Invocatio*) — true invocation, when it is hindered — 47
+- **Invocation** (*Invocationis*) — the difference between true and false — 89
+- **Invocation** (*de Invocatione*) — of invocation — ibid.
+- **Yod** (*Iod*) — 53
+- **John** (*Iohannes*) — Elector, Duke of Saxony — 110
+- **John Frederick** (*Iohannes Fridericus*) — the Constant — ibid.
+- **John** (*Iohannes*) — the Evangelist — 195
+- **John Hus** (*Iohannes Hus*) — 278
+- **Joseph** (*Ioseph*) — what arguments he useth against his mistress — 361; his chastity — 357
+- **Josephus** (*Iosippi*) — his ordering of the precepts of the Decalogue — [no page printed]
+- **Joshua** (*Iosua*) — led the people into the promised land — 52
+- **Wrath** (*Ira*) — of God, to be acknowledged — 47; a work of the flesh — 178; whence it ariseth — 178, 179; how it is to be restrained — 180; of God, upon whom it abideth — 183
+- **Wrath** (*Ira*) — by it the powers of body and soul are weakened — 181; thence the most grievous diseases arise — ibid.

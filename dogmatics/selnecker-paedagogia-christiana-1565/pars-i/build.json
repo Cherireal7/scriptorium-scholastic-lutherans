@@ -1,0 +1,26 @@
+{
+  "stem": "Nikolaus-Selnecker-Paedagogia-Christiana-Pars-I-1577-English-Scholastic-Lutherans",
+  "title": "Nikolaus Selnecker, Paedagogia Christiana, Part One (1577) — English",
+  "front": "review/front.html",
+  "parts": [
+    "review/front/*.md",
+    "review/parts/*.md"
+  ],
+  "master": "review/selnecker-paedagogia-pars-i-1577.md",
+  "toc_depth": 2,
+  "short_heads": {
+    "Prima Pars Capitum Doctrinae Christianae, complectens explicationem Decalogi · The First Part of the Heads of Christian Doctrine, containing the Exposition of the Decalogue": "The First Part: Of the Word of God and the Law",
+    "In Paedagogiam Christianam Georgius Fabricius ad Lectorem · Georg Fabricius to the Reader, upon the Christian Pedagogy": "Georg Fabricius to the Reader",
+    "Recitatio Decalogi · The Recitation of the Decalogue": "The Recitation of the Decalogue",
+    "Primum Praeceptum · The First Commandment": "The First Commandment",
+    "Secundum Praeceptum · The Second Commandment": "The Second Commandment",
+    "Tertium Praeceptum · The Third Commandment": "The Third Commandment",
+    "Quartum Praeceptum · The Fourth Commandment": "The Fourth Commandment",
+    "Quintum Praeceptum · The Fifth Commandment": "The Fifth Commandment",
+    "De VI. Praecepto · Of the Sixth Commandment": "The Sixth Commandment",
+    "Septimum Praeceptum · The Seventh Commandment": "The Seventh Commandment",
+    "Octavum Praeceptum · The Eighth Commandment": "The Eighth Commandment",
+    "Nonum et Decimum Praeceptum · The Ninth and Tenth Commandment": "The Ninth and Tenth Commandment",
+    "Appendix · Appendix": "Appendix: Heathen Discipline and Christian Godliness"
+  }
+}
