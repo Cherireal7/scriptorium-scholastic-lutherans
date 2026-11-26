@@ -13,7 +13,9 @@ The volume directory holds a `build.json`:
       "master": "review/<work-slug>.md",                            # assembled master file (written on every build)
       "toc_depth": 2,                                               # heading levels in the contents (1 or 2)
       "english_only": ["review/parts/01-*.md"],                     # optional: drop block quotes (originals) from these parts in the PDF
-      "english_headings": true,                                     # optional: print '*Latin* · English' headings as English only
+      "english_headings": true,
+      "toc_groups": {"Translator's Note": "Front Matter"},          # optional: group labels printed in the contents before these entries
+      "toc_no_children": ["Translator's Note"],                     # optional: list these sections without their sub-sections                                     # optional: print '*Latin* · English' headings as English only
       "short_heads": {"Long Section Title": "Short Running Head"}   # optional
     }
 
@@ -72,14 +74,25 @@ tr { break-inside: avoid; }
 .tp .red, .half .red { color: #b3261e; }
 .cr { padding-top: 1.5in; font-style: italic; font-size: 9.6pt; }
 .cr p { margin-bottom: 1.4em; }
-.toc { list-style: none; padding: 0; }
-.toc li { display: flex; margin: 0 0 0.3em 0; }
-.toc li span.d { flex: 1; border-bottom: 0.5pt dotted #777; margin: 0 0.4em 0.32em 0.4em; }
-.toc li.l2 { margin-left: 1.3em; font-size: 10pt; }
+.toc { list-style: none; padding: 0; margin: 0; }
+.toc li { display: flex; align-items: flex-end; margin: 0; text-indent: 0; text-align: left; break-inside: avoid; }
+.toc li a { color: inherit; text-decoration: none; }
+.toc li .t { flex: 0 1 auto; padding-left: 1.1em; text-indent: -1.1em; hyphens: none; }
+.toc li .d { flex: 1 0 1.4em; border-bottom: 0.6pt dotted #9a9a9a; margin: 0 0.35em 0.3em 0.35em; }
+.toc li .p { flex: 0 0 2em; text-align: right; font-variant-numeric: lining-nums tabular-nums; }
+.toc li.l1 { font-weight: bold; font-size: 10.4pt; margin-top: 0.5em; color: #1a1a1a; }
+.toc li.l2 { font-size: 9.5pt; margin: 0.16em 0 0 1.5em; color: #333; }
+.toc li.l2 .p { color: #555; }
+.toc li.grp { display: block; margin: 1.15em 0 0.1em 0; font-variant: small-caps; letter-spacing: 0.08em; font-size: 9.5pt; color: #b3261e; border-bottom: 0.5pt solid #d9b3ae; padding-bottom: 0.12em; }
+.toc li.grp:first-child { margin-top: 0.2em; }
 """
 
 HEAD_FONT = ("font-family: Palatino, 'Palatino Linotype', serif; font-size: 8.8pt; "
              "font-variant: small-caps; letter-spacing: 0.09em; color: #333;")
+
+
+def norm_t(s):
+    return re.sub(r"\s+", " ", s.replace("\u2019", "'").replace("\u2018", "'")).strip().lower()
 
 
 def plain(s):
@@ -135,11 +148,18 @@ def render(vol, cfg, toc_pages=None):
         n += 1
         return f'<section id="{sid}" class="level1" style="page: s{n}">'
     body = re.sub(r'<section id="([^"]+)" class="level1[^"]*">', tag, body)
+    body = re.sub(r'<section id="([^"]+)" class="(level[12])[^"]*"([^>]*)>\s*<h([12])([^>]*)>',
+                  lambda m: f'<section id="{m.group(1)}" class="{m.group(2)}"{m.group(3)}><h{m.group(4)} id="h-{m.group(1)}"{m.group(5)}>', body)
     entries = []      # (level, title, anchor id)
-    for m in re.finditer(r'<h([12])[^>]*>(.*?)</h\1>', body, re.S):
+    skip_kids, parent = {norm_t(x) for x in cfg.get("toc_no_children", [])}, ""
+    for m in re.finditer(r'<h([12])([^>]*)>(.*?)</h\1>', body, re.S):
         lvl = int(m.group(1))
-        if lvl <= cfg.get("toc_depth", 2):
-            entries.append((lvl, plain(m.group(2)), ""))
+        idm = re.search(r'id="([^"]+)"', m.group(2))
+        title = plain(m.group(3))
+        if lvl == 1:
+            parent = norm_t(title)
+        if lvl <= cfg.get("toc_depth", 2) and not (lvl == 2 and parent in skip_kids):
+            entries.append((lvl, title, idm.group(1) if idm else ""))
     k = 0
     for lvl, title, _ in entries:
         if lvl == 1 and title != "Endnotes":
@@ -150,9 +170,15 @@ def render(vol, cfg, toc_pages=None):
     rules.append(f'@page notes {{ @top-center {{ content: "Endnotes"; {HEAD_FONT} }} }}\n'
                  '@page notes:first { @top-center { content: none; } }')
     toc = ['<section class="level1" style="page: toc"><h1>Contents</h1><p class="fleuron">— ❦ —</p><ul class="toc">']
-    for i, (lvl, title, _) in enumerate(entries):
+    groups = {norm_t(k): v for k, v in cfg.get("toc_groups", {}).items()}
+    for i, (lvl, title, hid) in enumerate(entries):
+        if lvl == 1 and norm_t(title) in groups:
+            toc.append(f'<li class="grp">{html.escape(groups[norm_t(title)])}</li>')
         pg = (toc_pages or {}).get(i, "")
-        toc.append(f'<li class="l{lvl}"><span>{html.escape(title)}</span><span class="d"></span><span>{pg}</span></li>')
+        t = html.escape(title)
+        if hid:
+            t, pg = f'<a href="#{hid}">{t}</a>', f'<a href="#{hid}">{pg}</a>'
+        toc.append(f'<li class="l{lvl}"><span class="t">{t}</span><span class="d"></span><span class="p">{pg}</span></li>')
     toc.append("</ul></section>")
     front = (vol / cfg["front"]).read_text(encoding="utf-8")
     doc = ("<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'>"
@@ -162,7 +188,7 @@ def render(vol, cfg, toc_pages=None):
     out.mkdir(parents=True, exist_ok=True)
     (out / "book.html").write_text(doc, encoding="utf-8")
     pdf = vol / "review" / (cfg["stem"] + ".pdf")
-    subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer",
+    subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer", "--generate-pdf-document-outline",
                     f"--print-to-pdf={pdf}", (out / "book.html").as_uri()],
                    check=True, capture_output=True, timeout=1200)
     return entries, pdf

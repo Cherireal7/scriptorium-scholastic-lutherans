@@ -24,5 +24,13 @@
     "review/parts/01-A1-*.md",
     "review/parts/02-A2-*.md"
   ],
-  "english_headings": true
+  "english_headings": true,
+  "toc_groups": {
+    "Translator's Note": "Front Matter",
+    "Luther's Small Catechism": "The Text",
+    "Index of the Passages of Scripture whose Explanation is Touched upon in Passing in this Catechetical Doctrine": "Indexes and Notes"
+  },
+  "toc_no_children": [
+    "Translator's Note"
+  ]
 }
