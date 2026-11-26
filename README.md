@@ -18,6 +18,8 @@ The completed [Praetorius *Syntagma Musicum* trilogy](https://github.com/Cherire
 - Selnecker, *Symbolorum … Exegesis* (Leipzig 1577) — build complete 2026-09-18
 - Balduin, *Tractatus … de Casibus Conscientiae* (Wittenberg 1628) — closed 2026-09-21
 
+- Musculus, *Precationes* — two volumes, Frankfurt on the Oder 1561 (strict) and Leipzig 1573 (enlarged); translated, audited and built 2026-11-26 (`devotional/musculus-precationes/`)
+
 **Volumes shipped as translation + PDF (some passes deferred):** Chytraeus 1594 Catechism, Selnecker *Institutes* Pars I + II, Grosse *Die alten Tröster*, Andreae *Disputationes*, Quenstedt *Exercitationes*, Kirchner *Enchiridion*.
 
 **In progress:** Flacius, *Catalogus Testium Veritatis* (~58%).
@@ -41,6 +43,7 @@ dogmatics/          selnecker-institutiones (Pars I + II), selnecker-symbolorum-
                     musculus-loci-communes, baumgarten-glaubenslehre-1759
 polemics/           dannhauer-hodomoria-1655, dannhauer-mysterium-syncretismi-1648,
                     flacius-catalogus-testium-1556
+devotional/         musculus-precationes (1561 + 1573)
 pastoral/           balduin-casibus-conscientiae-1628, grosse-alten-troester-1900
 catechetical/       chytraeus-catechismus-1594, andreae-disputationes,
                     kirchner-enchiridion, kirchner-methodica-1595

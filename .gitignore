@@ -24,3 +24,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# HTML build folders (regenerated)
+**/review/build-*/
