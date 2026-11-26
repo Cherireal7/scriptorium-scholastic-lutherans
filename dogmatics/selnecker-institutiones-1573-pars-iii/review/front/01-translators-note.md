@@ -30,7 +30,7 @@ Scripture quotations are conformed to the King James Version (1611), which is in
 
 ## 5. Editorial conventions
 
-**Headings.** The headings are those of the print, given in Latin and in English. Where the print has none, a heading has been supplied so that the reader can find his way: the title "Catechetical Questions" over the first block of questions, which in the print begin without a heading in the middle of a page, and three group headings within that block. In the Exposition of the Decalogue the print's bare "On the First Point", "On the Second Point" have their subject added from Selnecker's own list of points.
+**Headings.** The headings are those of the print, given in English. Where the print has none, a heading has been supplied so that the reader can find his way: the title "Catechetical Questions" over the first block of questions, which in the print begin without a heading in the middle of a page, and three group headings within that block. In the Exposition of the Decalogue the print's bare "On the First Point", "On the Second Point" have their subject added from Selnecker's own list of points.
 
 **Page numbers.** The indexes refer to the pages of the 1579 print, and their numbers are kept as printed. The printer's numbering runs to 322 but skips four numbers, so that the text has 318 pages.
 

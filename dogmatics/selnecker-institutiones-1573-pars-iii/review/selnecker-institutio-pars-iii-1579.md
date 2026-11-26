@@ -30,7 +30,7 @@ Scripture quotations are conformed to the King James Version (1611), which is in
 
 ## 5. Editorial conventions
 
-**Headings.** The headings are those of the print, given in Latin and in English. Where the print has none, a heading has been supplied so that the reader can find his way: the title "Catechetical Questions" over the first block of questions, which in the print begin without a heading in the middle of a page, and three group headings within that block. In the Exposition of the Decalogue the print's bare "On the First Point", "On the Second Point" have their subject added from Selnecker's own list of points.
+**Headings.** The headings are those of the print, given in English. Where the print has none, a heading has been supplied so that the reader can find his way: the title "Catechetical Questions" over the first block of questions, which in the print begin without a heading in the middle of a page, and three group headings within that block. In the Exposition of the Decalogue the print's bare "On the First Point", "On the Second Point" have their subject added from Selnecker's own list of points.
 
 **Page numbers.** The indexes refer to the pages of the 1579 print, and their numbers are kept as printed. The printer's numbering runs to 322 but skips four numbers, so that the text has 318 pages.
 
@@ -68,25 +68,25 @@ The present *Institutio Christianae Religionis* is Selnecker's mature systematic
 
 # The Title Page as Printed
 
-INSTITUTIONIS  
-CHRISTIANAE  
-RELIGIONIS PARS TERTIA,  
-CONTINENS DOCTRINAM CATECHE-  
-ticam: Catechismum D. D. Lutheri Graece et Latine:  
-Decalogi Explicationem: et Quaestiones Cate-  
-cheticas, accommodatas ad usum  
-Scholarum:  
-AUTORE  
-D. NICOLAO SELNECCERO.  
+> INSTITUTIONIS  
+> CHRISTIANAE  
+> RELIGIONIS PARS TERTIA,  
+> CONTINENS DOCTRINAM CATECHE-  
+> ticam: Catechismum D. D. Lutheri Graece et Latine:  
+> Decalogi Explicationem: et Quaestiones Cate-  
+> cheticas, accommodatas ad usum  
+> Scholarum:  
+> AUTORE  
+> D. NICOLAO SELNECCERO.  
 
 [Printer's device: within an oval, the Dove of the Holy Ghost descending in a glory of rays; above it, in a cloud, the Hebrew Name of God; the whole set in a frame of strapwork with fruit and foliage, and a mask at the foot.]
 
-Iohan. 17.  
-Sanctifica eos in veritate tua: sermo tuus  
-est veritas.  
+> Iohan. 17.  
+> Sanctifica eos in veritate tua: sermo tuus  
+> est veritas.  
 
-Cum Gratia et Privilegio ad decennium.  
-Anno M. D. LXXIX.  
+> Cum Gratia et Privilegio ad decennium.  
+> Anno M. D. LXXIX.  
 
 **The Third Part of the Instruction in the Christian Religion,** containing the Catechetical Doctrine: the Catechism of **D. D. Luther** in Greek and Latin; an Explication of the Decalogue; and Catechetical Questions, fitted to the use of Schools. By the author **D. Nicolaus Selneccer.**
 
@@ -94,7 +94,7 @@ Anno M. D. LXXIX.
 
 With Grace and Privilege for ten years. In the year 1579.
 
-# Luther's Small Catechism in Greek and Latin
+# Luther's Small Catechism
 
 <!-- p.1 -->
 

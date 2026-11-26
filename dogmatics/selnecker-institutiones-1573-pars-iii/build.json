@@ -9,7 +9,6 @@
   "master": "review/selnecker-institutio-pars-iii-1579.md",
   "toc_depth": 2,
   "short_heads": {
-    "Luther's Small Catechism in Greek and Latin": "Luther's Small Catechism",
     "Carmen in Explicationem Capitum Doctrinae Christianae, quae Catechismum Lutheri nominamus, Dresdae scriptum, Anno 1563 · A Poem upon the Exposition of the Heads of Christian Doctrine, which we call Luther's Catechism, written at Dresden in the Year 1563": "A Poem upon Luther's Catechism",
     "Explicatio Decalogi · Exposition of the Decalogue": "Exposition of the Decalogue",
     "Quaestiones Catecheticae · Catechetical Questions": "Catechetical Questions",
@@ -18,12 +17,12 @@
     "De Tertia Parte Catechismi · On the Third Part of the Catechism": "The Third Part of the Catechism: Prayer",
     "De Quarta Parte Catechismi · On the Fourth Part of the Catechism": "The Fourth Part of the Catechism: Baptism",
     "De Quinta Parte Catechismi, quae est Coena Dominica · On the Fifth Part of the Catechism, which is the Lord's Supper": "The Fifth Part of the Catechism: The Lord's Supper",
-    "Luther’s Small Catechism in Greek and Latin": "Luther's Small Catechism",
     "Carmen in Explicationem Capitum Doctrinae Christianae, quae Catechismum Lutheri nominamus, Dresdae scriptum, Anno 1563 · A Poem upon the Exposition of the Heads of Christian Doctrine, which we call Luther’s Catechism, written at Dresden in the Year 1563": "A Poem upon Luther's Catechism",
     "De Quinta Parte Catechismi, quae est Coena Dominica · On the Fifth Part of the Catechism, which is the Lord’s Supper": "The Fifth Part of the Catechism: The Lord's Supper"
   },
   "english_only": [
     "review/parts/01-A1-*.md",
     "review/parts/02-A2-*.md"
-  ]
+  ],
+  "english_headings": true
 }

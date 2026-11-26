@@ -29,7 +29,7 @@ Scripture quotations are conformed to the King James Version (1611), which is in
 
 **Language.** This edition prints the English only. Greek words and phrases, which Selnecker sets into his Latin, are kept in Greek as the print has them, with the English beside them; German words and sayings are kept in German with the English after them; Hebrew words, which the print mostly gives in Latin letters, are kept as printed.
 
-**Headings.** The headings are those of the print, given in Latin and in English. Where the print announces a series of points ("On the First", "On the Second") the subject has sometimes been added after the English from Selnecker's own list.
+**Headings.** The headings are those of the print, given in English. Where the print announces a series of points ("On the First", "On the Second") the subject has sometimes been added after the English from Selnecker's own list.
 
 **Marginal notes.** The Munich copy carries many notes, underlinings and numbers in the hand of an early reader, in red and brown ink. They are not part of the book and are not translated. The printed book itself has almost no marginal notes; the few there are have been kept.
 

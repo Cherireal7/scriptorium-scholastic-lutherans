@@ -13,6 +13,7 @@ The volume directory holds a `build.json`:
       "master": "review/<work-slug>.md",                            # assembled master file (written on every build)
       "toc_depth": 2,                                               # heading levels in the contents (1 or 2)
       "english_only": ["review/parts/01-*.md"],                     # optional: drop block quotes (originals) from these parts in the PDF
+      "english_headings": true,                                     # optional: print '*Latin* · English' headings as English only
       "short_heads": {"Long Section Title": "Short Running Head"}   # optional
     }
 
@@ -85,6 +86,17 @@ def plain(s):
     return html.unescape(re.sub(r"<[^>]+>", "", s)).strip()
 
 
+def english_headings(md):
+    """Headings written '*Latin* · English' print as 'English' only (the master keeps both)."""
+    out = []
+    for line in md.split("\n"):
+        m = re.match(r"^(#{1,6} )(.*?)\s·\s(.+)$", line)
+        if m and m.group(2).strip().startswith("*"):
+            line = m.group(1) + m.group(3).strip()
+        out.append(line)
+    return "\n".join(out)
+
+
 def render(vol, cfg, toc_pages=None):
     files = []
     for pat in cfg["parts"]:
@@ -104,6 +116,8 @@ def render(vol, cfg, toc_pages=None):
                 t = re.sub(r"\n{3,}", "\n\n", t)
             texts.append(t)
         md = "\n\n".join(texts) + "\n"
+    if cfg.get("english_headings"):
+        md = english_headings(md)
     body = subprocess.run(
         ["pandoc", "-f", "markdown+smart-implicit_figures", "-t", "html5", "--section-divs", "--wrap=none"],
         input=md, capture_output=True, text=True, check=True).stdout
@@ -130,7 +144,7 @@ def render(vol, cfg, toc_pages=None):
     for lvl, title, _ in entries:
         if lvl == 1 and title != "Endnotes":
             k += 1
-            t = cfg.get("short_heads", {}).get(title, title).replace("\\", "").replace('"', "'")
+            sh = cfg.get("short_heads", {}); t = sh.get(title) or {k.split(" · ")[-1]: v for k, v in sh.items()}.get(title, title).replace("\\", "").replace('"', "'")
             rules.append(f'@page s{k} {{ @top-center {{ content: "{t}"; {HEAD_FONT} }} }}\n'
                          f'@page s{k}:first {{ @top-center {{ content: none; }} }}')
     rules.append(f'@page notes {{ @top-center {{ content: "Endnotes"; {HEAD_FONT} }} }}\n'

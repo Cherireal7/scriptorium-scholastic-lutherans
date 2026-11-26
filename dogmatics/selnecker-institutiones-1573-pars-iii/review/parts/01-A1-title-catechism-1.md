@@ -1,24 +1,24 @@
 # The Title Page as Printed
 
-INSTITUTIONIS  
-CHRISTIANAE  
-RELIGIONIS PARS TERTIA,  
-CONTINENS DOCTRINAM CATECHE-  
-ticam: Catechismum D. D. Lutheri Graece et Latine:  
-Decalogi Explicationem: et Quaestiones Cate-  
-cheticas, accommodatas ad usum  
-Scholarum:  
-AUTORE  
-D. NICOLAO SELNECCERO.  
+> INSTITUTIONIS  
+> CHRISTIANAE  
+> RELIGIONIS PARS TERTIA,  
+> CONTINENS DOCTRINAM CATECHE-  
+> ticam: Catechismum D. D. Lutheri Graece et Latine:  
+> Decalogi Explicationem: et Quaestiones Cate-  
+> cheticas, accommodatas ad usum  
+> Scholarum:  
+> AUTORE  
+> D. NICOLAO SELNECCERO.  
 
 [Printer's device: within an oval, the Dove of the Holy Ghost descending in a glory of rays; above it, in a cloud, the Hebrew Name of God; the whole set in a frame of strapwork with fruit and foliage, and a mask at the foot.]
 
-Iohan. 17.  
-Sanctifica eos in veritate tua: sermo tuus  
-est veritas.  
+> Iohan. 17.  
+> Sanctifica eos in veritate tua: sermo tuus  
+> est veritas.  
 
-Cum Gratia et Privilegio ad decennium.  
-Anno M. D. LXXIX.  
+> Cum Gratia et Privilegio ad decennium.  
+> Anno M. D. LXXIX.  
 
 **The Third Part of the Instruction in the Christian Religion,** containing the Catechetical Doctrine: the Catechism of **D. D. Luther** in Greek and Latin; an Explication of the Decalogue; and Catechetical Questions, fitted to the use of Schools. By the author **D. Nicolaus Selneccer.**
 
@@ -26,7 +26,7 @@ Anno M. D. LXXIX.
 
 With Grace and Privilege for ten years. In the year 1579.
 
-# Luther's Small Catechism in Greek and Latin
+# Luther's Small Catechism
 
 <!-- p.1 -->
 

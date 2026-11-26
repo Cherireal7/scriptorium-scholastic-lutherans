@@ -26,7 +26,6 @@ AT FRANKFURT ON THE MAIN,
 
 # Preface
 
-*Praefatio in Paedagogiam Christianam*
 
 <!-- p.3 -->
 
