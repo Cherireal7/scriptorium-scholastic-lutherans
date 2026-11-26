@@ -1,5 +1,3 @@
-<!-- p.141 -->
-
 **Spartianus** also relateth of Pescennius Niger: *"For the plundering of a single cock,"* saith he, *"he commanded ten comrades of one maniple, who had eaten that which one of them had seized, to be smitten with the axe; and he would have done it, had he not been entreated by the whole army, well-nigh to the fear of a mutiny. And when he had spared them, he commanded that they should never take food freshly cooked, but should feed on bread and cold fare, watchers being set over them."*[^C5-1]
 
 But what shall we say of Christian soldiers? who, whether they go any whither or return, steal, plunder, ravish, drive off cattle, stave in vessels, and handle their own people more inhumanly than enemies?
@@ -16,7 +14,7 @@ King Lycurgus is read to have charged his soldiers and horsemen that they should
 
 Let these things be said concerning Christian wars, how they ought and may be waged lawfully, rightly, and with a good conscience. What is further required concerning that matter doth not belong to us. Neither is it seemly that Phormio should move Hannibal to laughter.[^C5-5] But this must be added, that the wars which are undertaken and waged at this day, in these dregs of the world, are for the most part pernicious, evil, tyrannical, ambitious, rash and ruinous. And of these the verses of **Homer** may truly be spoken:
 
-> ***ἀφρήτωρ, ἀθέμιστος, ἀνέστιός ἐστιν ἐκεῖνος,***  
+> ***ἀφρήτωρ, ἀθέμιστος ἀνέστιος ἔστιν ἐκεῖνος,***  
 > ***ὃς πολέμου ἔραται ἐπιδημίου, ὀκρυόεντος.***[^C5-6]  
 
 > *A shameful man is this, wicked, unprofitable, witless,*  
@@ -29,7 +27,7 @@ Likewise **Lucan**:
 > *No faith (or at the least rare) and no piety is in the men who follow the camp;*  
 > *and their hands are for sale: there is right, where is the greatest wage.*[^C5-7]  
 
-It is manifest also that the most part of the wars of our time seem to be only ***μυομαχίας*** (battles of mice), and to be, as Christ called them, *rumours of wars*, that is, not wars of the Monarchies, the end whereof is peace and the establishment of an honest life and of tranquillity, of laws and of discipline, but to be robberies, tyrannical, ambitious and tumultuous; against which we ought to pray unto God, as David saith: *"Scatter the nations that will have wars."*
+It is manifest also that the most part of the wars of our time seem to be only ***μυομαχίας*** (battles of mice), and to be, as Christ called them, *rumours of wars*, that is, not wars of the Monarchies, the end whereof is peace and the establishment of an honest life and of tranquillity, of laws and of discipline, but to be robberies, tyrannical, ambitious and tumultuous; against which we ought to pray unto God, as David saith: *"Scatter thou the people that delight in war."*
 
 But if any godly soldiers and captains remain, whose service we may use against the Turk and other foreign enemies, and haters of the divine word and of honest laws, for these let us give
 <!-- p.143 -->
@@ -61,7 +59,7 @@ But these definitions are not sufficient enough. The definition will be sufficie
 
 > (*Zeal for thy most holy house devoureth me.*)  
 
-For no man ought to be negligent or cold in his office, seeing it is written: *"Cursed is he that doeth the work of the Lord negligently,"* **Jerem. 48**. And the word *Remiioth*[^C5-12] (which is commonly rendered
+For no man ought to be negligent or cold in his office, seeing it is written: *"Cursed be he that doeth the work of the Lord negligently,"* **Jerem. 48**. And the word *Remiioth*[^C5-12] (which is commonly rendered
 <!-- p.145 -->
 *fraudulently*) properly signifieth deception and neglect, or fraudulence and hurtful sloth, whereby a man deceiveth himself and others, and hurteth himself and others, as all slothful men do. God therefore requireth zeal, which hath its name either from ***ζηλοῦν***, that is, from imitating another, or rather from ***ζέειν***, that is, from being fervent, namely in the study and labours of vocation, of godliness, and of honesty.
 
@@ -85,7 +83,7 @@ but falsely. For this zeal hath for its antecedent cause ignorance, or unskilful
 
 **Divine zeal according to knowledge** is an affection sprung from true knowledge and the true fear of God, and inflamed with the love of propagating the divine word, and with indignation or hatred of those things which hinder the course of the word, or which delay, corrupt and deform the true doctrine, whether by idolatry, or by labyrinths of disputations, or by tyranny, or by inconstancy, or by perverseness of life and evil examples. Now this zeal is either seasonable or unseasonable.
 
-**Seasonable divine zeal** is that which burneth at a fit time, and hath sufficient causes of indignation, and overpasseth not the bounds of vocation and of charity, and seeketh nothing else but the glory of God, and directeth all things to edification and to the conversion of many unto God, and to the destruction of ungodliness. Examples in the sacred Scriptures are many. Moses casteth down and breaketh the Tables, and burneth the calf, **Exod. 32**. And against Korah, Dathan and Abiram he ordereth his prayers, in **Numbers, chap. 16**. Phinehas, the grandson of Aaron, burning with zeal for chastity and for propagating the glory of God, slayeth the Israelite who was committing whoredom with the Midianitish woman, **Numer. 25**. Christ overturneth the tables and seats of the merchants in the Temple, and himself saith, **Psalm 69**: *"The zeal of thine house maketh me to pine away, because
+**Seasonable divine zeal** is that which burneth at a fit time, and hath sufficient causes of indignation, and overpasseth not the bounds of vocation and of charity, and seeketh nothing else but the glory of God, and directeth all things to edification and to the conversion of many unto God, and to the destruction of ungodliness. Examples in the sacred Scriptures are many. Moses casteth down and breaketh the Tables, and burneth the calf, **Exod. 32**. And against Korah, Dathan and Abiram he ordereth his prayers, in **Numbers, chap. 16**. Phinehas, the grandson of Aaron, burning with zeal for chastity and for propagating the glory of God, slayeth the Israelite who was committing whoredom with the Midianitish woman, **Numer. 25**. Christ overturneth the tables and seats of the merchants in the Temple, and himself saith, **Psalm 69**: *"The zeal of thine house hath consumed me, because
 <!-- p.147 -->
 mine enemies have forgotten thy words,"*[^C5-13] that is, I could not refrain myself from punishing those impure profaners, neither felt I any rest, unless thy Church were reformed, which I perceived to be miserably depraved. Elias, moved by such zeal, slayeth the priests of Baal. **Luther** in like manner, kindled with divine zeal joined with knowledge, seasonably, and upon a most fit occasion, reproved the Papistical errors, and showed forth the true doctrine anew.
 
@@ -111,9 +109,9 @@ and the table containing the rules of our whole life, political, ecclesiastical 
 
 ### *De promissionibus et comminationibus quinti Praecepti* · On the Promises and Threatenings of the Fifth Commandment
 
-In **Luke 6** it is written: *"Forgive, and it shall be forgiven you."* For meekness, gentleness and placableness have always great rewards, as the Son of God saith: *"Blessed are the meek, for they shall possess the earth. Blessed are the merciful, for they shall obtain mercy."* And examples do testify that the labours, the patience and the meekness of the godly are blessed in many ways. And the threatenings also are known: *"He that taketh the sword shall perish by the sword." "Whoso sheddeth man's blood, by man shall his blood be shed." "With what measure ye mete, with the same shall it be rendered
+In **Luke 6** it is written: *"Forgive, and ye shall be forgiven."* For meekness, gentleness and placableness have always great rewards, as the Son of God saith: *"Blessed are the meek, for they shall inherit the earth. Blessed are the merciful, for they shall obtain mercy."* And examples do testify that the labours, the patience and the meekness of the godly are blessed in many ways. And the threatenings also are known: *"He that taketh the sword shall perish with the sword." "Whoso sheddeth man's blood, by man shall his blood be shed." "With the same measure that ye mete withal it shall be measured
 <!-- p.150 -->
-unto you." "Judgment without mercy unto him that showeth no mercy."* Examples in Cain, Joab, and in the seditious and the wrathful, are before our eyes in all times. God grant that we may consider the saying of Christ: *"Learn of me, for I am meek and lowly in heart."*
+to you again." "He shall have judgment without mercy, that hath shewed no mercy."* Examples in Cain, Joab, and in the seditious and the wrathful, are before our eyes in all times. God grant that we may consider the saying of Christ: *"Learn of me, for I am meek and lowly in heart."*
 
 ## *De VI. Praecepto* · On the Sixth Commandment
 
@@ -129,7 +127,7 @@ This commandment fenceth the covenants of marriage, and forbiddeth all minglings
 
 **Purity of the single life** (*puritas vitae caelibis*) is the virtue which keepeth cleanness of mind and of body without any abuse of seed, without mingling and defilement of bodies, and without unchaste thoughts, and without any burnings of lusts.
 
-**Marriage** is the lawful and indissoluble conjunction of one male and one female, ordained, established and approved by God, for procreation, and for the avoiding of the confusions of lusts, that we may acknowledge God to be a chaste mind, and may serve him in chastity, and that in this manner the human race may be preserved and propagated, that out of it an eternal Church may be gathered unto God. And **conjugal chastity** (*castitas coniugalis*) is, in marriage, to keep the order instituted by the wonderful counsel of God, without wandering lusts, unto lawful procreation, with mutual love, with sincere faith, with a common fellowship of goods and of hardships, and with defence and ***ἐπιείκεια*** (forbearance) used.
+**Marriage** is the lawful and indissoluble conjunction of one male and one female, ordained, established and approved by God, for procreation, and for the avoiding of the confusions of lusts, that we may acknowledge God to be a chaste mind, and may serve him in chastity, and that in this manner the human race may be preserved and propagated, that out of it an eternal Church may be gathered unto God. And **conjugal chastity** (*castitas coniugalis*) is, in marriage, to keep the order instituted by the wonderful counsel of God, without wandering lusts, unto lawful procreation, with mutual love, with sincere faith, with a common fellowship of goods and of hardships, and with defence and ***ἐπιεικείᾳ*** (forbearance) used.
 
 <!-- p.151 -->
 
@@ -153,7 +151,7 @@ With temperance conflicteth drunkenness, voracity, surfeiting, gluttony, riot, p
 
 <!-- p.152 -->
 
-**Matth. 5.** *"Blessed are the pure in heart, for they shall see God."* **1 Cor. 5.**[^C5-17] *"Fornicators and adulterers shall not possess the Kingdom of God."* **Hebr. 13.** *"Whoremongers and adulterers God will punish, or judge."* **Heb. 12.** *"Follow after sanctification, without which no man shall see God."* And examples of horrible punishments do show the wrath of God against lusts, as the burning of Sodom, the destruction of the tribe of Benjamin, the exile of David, the slaughter of the Lacedaemonians in the battle of Leuctra, because of the unpunished ravishers of the daughters of Scedasus, and daily other examples, public and private. Let us therefore be studious and lovers of chastity, and let us use seed reverently, and let us resist the depraved and wandering flames of lusts by prayer, by reading, by the study of temperance, and by the removing of the occasions and enticements whereby the foul burnings of minds are kindled or cherished; such as are wine, wherein is ***ἀσωτία*** (riotousness), immoderately taken, evil companies, ***γυναικὸς ὄμμα τοῖς ἀκμάζουσι βέλος*** (a woman's eye is a dart unto them that are in their prime), and the like enticements.
+**Matth. 5.** *"Blessed are the pure in heart, for they shall see God."* **1 Cor. 5.**[^C5-17] *"Fornicators and adulterers shall not inherit the kingdom of God."* **Hebr. 13.** *"Whoremongers and adulterers God will punish, or judge."* **Heb. 12.** *"Follow after sanctification, without which no man shall see God."* And examples of horrible punishments do show the wrath of God against lusts, as the burning of Sodom, the destruction of the tribe of Benjamin, the exile of David, the slaughter of the Lacedaemonians in the battle of Leuctra, because of the unpunished ravishers of the daughters of Scedasus, and daily other examples, public and private. Let us therefore be studious and lovers of chastity, and let us use seed reverently, and let us resist the depraved and wandering flames of lusts by prayer, by reading, by the study of temperance, and by the removing of the occasions and enticements whereby the foul burnings of minds are kindled or cherished; such as are wine, wherein is ***ἀσωτία*** (riotousness), immoderately taken, evil companies, ***γυναικὸς ὄμμα τοῖς ἀκμάζουσι βέλος*** (a woman's eye is a dart unto them that are in their prime), and the like enticements.
 
 ## *De VII. Praecepto* · On the Seventh Commandment
 
@@ -170,17 +168,17 @@ Now let the order of the commandments be considered: the Fifth Commandment guard
 - Gratitude.
 - Sedulity.
 
-**Just possession** (*iusta possessio*) is the virtue which, in the fear of God, and in faith and a good conscience, holdeth its own goods, and which, acknowledging that they are given and kept by God, diligently studieth to preserve them, and to increase them by honest means, and to bestow them upon the uses ordained by God. Hither belongeth also the definition of ownership (*dominium*). Ownership is a right or faculty ordained by law, whereby the owner, and no other, holdeth a thing by a just title, and disposeth of that thing at his own will, save so far as he is forbidden by law and by covenant. And this is to be held against the Anabaptists and the like. For it is lawful for Christians to have property, riches and goods, so that pride, avarice, security, prodigality and abuse be taken away. And it is written: *"The blessing of the Lord maketh rich."* And the examples of Abraham, Isaac, Jacob, Joseph and others are known. And in general the rule is to be held, that the Gospel doth not abolish political ordinances.
+**Just possession** (*iusta possessio*) is the virtue which, in the fear of God, and in faith and a good conscience, holdeth its own goods, and which, acknowledging that they are given and kept by God, diligently studieth to preserve them, and to increase them by honest means, and to bestow them upon the uses ordained by God. Hither belongeth also the definition of ownership (*dominium*). Ownership is a right or faculty ordained by law, whereby the owner, and no other, holdeth a thing by a just title, and disposeth of that thing at his own will, save so far as he is forbidden by law and by covenant. And this is to be held against the Anabaptists and the like. For it is lawful for Christians to have property, riches and goods, so that pride, avarice, security, prodigality and abuse be taken away. And it is written: *"The blessing of the Lord, it maketh rich."* And the examples of Abraham, Isaac, Jacob, Joseph and others are known. And in general the rule is to be held, that the Gospel doth not abolish political ordinances.
 
 **Commutative justice** (*iustitia commutativa*) is the virtue which in contracts, or in the exchange of things, keepeth an arithmetical equality, lest the one party be drained dry. Hither belongeth the whole doctrine of contracts, ***ἢ συναλλάγμασιν*** (or dealings), and of obligations.
 
 **Beneficence** (*beneficentia*) is the virtue which imparteth goods and services not owed by a civil obligation, but by a natural and divine one, where and when it is seemly, and which maketh a mean between profusions and niggardliness. Hither belong alms, of which three kinds are necessary. The first, to contribute something to the preservation of the ecclesiastical ministry, according to that saying: *"He that shall give unto the least
 <!-- p.154 -->
-in the name of a disciple, shall not lose his reward."* The second kind is to bestow upon needy kinsfolk. *"For if any man careth not for his own, and specially for those of his own house, he is worse than an infidel."* The third kind is to help strangers, whom the present occasion commendeth unto us, as it is written: *"He that hath goods, and seeth his brother have need, and shutteth up his bowels from him, how abideth the love of God in him?"* **1 John 3**. And **Deut. 15**: *"If one of thy brethren, who dwell within the gates of thy city, in the land which the Lord thy God is about to give thee, shall be brought to poverty, thou shalt not stop up thine heart."* And: *"The poor shall not be wanting in the land of thy habitation: therefore I command thee, that thou open thine hand unto thy needy and poor brother, who dwelleth with thee in the land."* And **Paul** appointeth a measure for alms, **2 Cor. 8**, saying: *"Not that there should be ease unto others, and unto you tribulation; but that out of an equality, for the present occasion, out of that which remaineth over unto us, their want may be relieved."* Now the equality is understood not as arithmetical, but as geometrical, in respect both of the giver and of the receiver. For from greater numbers more units can be taken away, from lesser fewer. And the needy ought not to abuse another's liberality, nor to use that which is another's save in necessity. And beggary which hath not a reasonable cause is a sin, and a kind of theft. And there is no need to bestow upon slothful beggars. It is also to be looked to that alms be not profusions got up for ostentation, but that they provide for the necessity of others, because of the commandment of God. And let these sayings be known: *"Break thy bread unto the hungry; then shalt thou call, and the Lord shall hear thee."* **Isa. 58**.
+in the name of a disciple, shall in no wise lose his reward."* The second kind is to bestow upon needy kinsfolk. *"For if any provide not for his own, and specially for those of his own house, he is worse than an infidel."* The third kind is to help strangers, whom the present occasion commendeth unto us, as it is written: *"Whoso hath goods, and seeth his brother have need, and shutteth up his bowels from him, how dwelleth the love of God in him?"* **1 John 3**. And **Deut. 15**: *"If one of thy brethren, who dwell within the gates of thy city, in the land which the Lord thy God is about to give thee, shall be brought to poverty, thou shalt not stop up thine heart."* And: *"The poor shall not be wanting in the land of thy habitation: therefore I command thee, that thou open thine hand unto thy needy and poor brother, who dwelleth with thee in the land."* And **Paul** appointeth a measure for alms, **2 Cor. 8**, saying: *"Not that other men be eased, and ye burdened: but that by an equality, at this present time, out of that which remaineth over unto us, their want may be supplied."* Now the equality is understood not as arithmetical, but as geometrical, in respect both of the giver and of the receiver. For from greater numbers more units can be taken away, from lesser fewer. And the needy ought not to abuse another's liberality, nor to use that which is another's save in necessity. And beggary which hath not a reasonable cause is a sin, and a kind of theft. And there is no need to bestow upon slothful beggars. It is also to be looked to that alms be not profusions got up for ostentation, but that they provide for the necessity of others, because of the commandment of God. And let these sayings be known: *"Deal thy bread to the hungry; then shalt thou call, and the Lord shall answer thee."* **Isa. 58**.
 
-**Proverb. 21.** *"He that stoppeth his ears at the cry of the poor, he also himself shall cry in his turn, and shall not be heard."* **Proverb. 5.** *"Drink of thine own fountains, and let thy rivulets be led abroad, and be thou lord of them. Blessed shall thy vein be."*
+**Proverb. 21.** *"Whoso stoppeth his ears at the cry of the poor, he also shall cry himself in his turn, but shall not be heard."* **Proverb. 5.** *"Drink of thine own fountains, and let thy rivulets be led abroad, and be thou lord of them. Blessed shall thy vein be."*
 
-**Matth. 25.** *"I was hungry and thirsty, and ye gave me meat and
+**Matth. 25.** *"I was an hungred and thirsty, and ye gave me meat and
 <!-- p.155 -->
 drink."* And **Matth. 10.** *"He that shall give a drink of water for the doctrine's sake, shall not lack his reward."*
 
@@ -188,7 +186,7 @@ drink."* And **Matth. 10.** *"He that shall give a drink of water for the doctri
 
 **Parsimony** or frugality (*parsimonia seu frugalitas*) is the virtue which keepeth its own things, and layeth them out profitably, shunneth unnecessary charges, the itch of buying, riot, borrowings, buildings, and yet, where reason biddeth, spendeth as much as is meet.
 
-***αὐτάρκεια*** (contentment) is the virtue which is content with the present blessing of God, or with present goods, and beareth it calmly if aught be lacking, neither coveteth the goods of others, nor is broken by want, nor doeth anything against the godliness owed unto God, or against the other virtues.
+***αὐταρκεία*** (contentment) is the virtue which is content with the present blessing of God, or with present goods, and beareth it calmly if aught be lacking, neither coveteth the goods of others, nor is broken by want, nor doeth anything against the godliness owed unto God, or against the other virtues.
 
 **Gratitude** (*gratitudo*) is a virtue mixed of truth and of justice, that is, it professeth what and how great benefits it hath received, and studieth to render an equal return, according to its ability, unto its benefactor.
 
@@ -210,7 +208,7 @@ Pretext of right, when we transfer unto ourselves the things of others under som
 
 Pretext of gift, when superiors ask something of their inferiors, which these dare not deny.
 
-Pretext of prescription, as in ecclesiastical goods. And the interruption of a possession, or quasi-possession, grounded upon lapse of time is brought in by gainsaying, and by proof of possession in bad faith, as the wiser jurists judge and speak. And since the possessor of ecclesiastical goods, the ministry being neglected, and studies being neglected, is a possessor in bad faith, a robber and a spoiler, law and equity pronounce that he is bound, without distinction, to restore all the revenues, whether they be yet extant or be consumed. And altogether the rule hath place: *The sin is not remitted, unless that which was taken away be restored.*[^C5-19] And: *"He that hath stolen, let him henceforth steal no more,"* that is, let him render that which is another's, and cease to be a thief. Yet we do not shut out ***ἐπιείκειαν*** (equity), that offences may be avoided, and infamy be guarded against.
+Pretext of prescription, as in ecclesiastical goods. And the interruption of a possession, or quasi-possession, grounded upon lapse of time is brought in by gainsaying, and by proof of possession in bad faith, as the wiser jurists judge and speak. And since the possessor of ecclesiastical goods, the ministry being neglected, and studies being neglected, is a possessor in bad faith, a robber and a spoiler, law and equity pronounce that he is bound, without distinction, to restore all the revenues, whether they be yet extant or be consumed. And altogether the rule hath place: *The sin is not remitted, unless that which was taken away be restored.*[^C5-19] And: *"Let him that stole steal no more,"* that is, let him render that which is another's, and cease to be a thief. Yet we do not shut out ***ἐπιείκειαν*** (equity), that offences may be avoided, and infamy be guarded against.
 
 In right theft is committed when we render not unto others those things which we owe them by covenant or by duty; as when we pay not his wage unto the labourer, or show not the offices of charity unto our neighbour. For by a natural obligation we are mutually bound one to another, and each is debtor to the other; by a civil obligation also we are bound to pay wages.
 
@@ -230,7 +228,7 @@ With parsimony: profusions, tenacity, negligence and sloth in guarding one's own
 
 <!-- p.158 -->
 
-With ***αὐτάρκεια***, of which **Paul** speaketh, **1 Tim. 6**, conflict the desire of money, insatiableness, the itch of buying, avarice, overmuch carefulness, prodigality, the abuse of one's own things.
+With ***αὐταρκείᾳ***, of which **Paul** speaketh, **1 Tim. 6**, conflict the desire of money, insatiableness, the itch of buying, avarice, overmuch carefulness, prodigality, the abuse of one's own things.
 
 With gratitude conflict ingratitude, lying, pride, injustice, the forgetting of benefits, and contempt of the benefactor.
 
@@ -238,7 +236,7 @@ With sedulity conflict sloth, which doeth not the proper labours of its vocation
 
 ### *Promissiones et comminationes septimi praecepti* · The Promises and Threatenings of the Seventh Commandment
 
-**Luke 6.** *"Give, and it shall be given unto you."* **Proverb. 19.** *"He lendeth unto the Lord, who hath pity upon the needy."* **Isa. 33.** *"Woe unto thee that spoilest; shalt not thou thyself be spoiled in turn?"* **Habac. 2.** *"Because thou hast spoiled many nations, all they of the peoples shall spoil thee."* For a curse, an evil conscience, infamy, loss in goods, and other punishments, public and private, bodily and spiritual, temporal and eternal, are laid upon thieves and impostors; and *things ill gotten ill slip away.*[^C5-20]
+**Luke 6.** *"Give, and it shall be given unto you."* **Proverb. 19.** *"He that hath pity upon the poor lendeth unto the Lord."* **Isa. 33.** *"Woe unto thee that spoilest; shalt not thou thyself be spoiled in turn?"* **Habac. 2.** *"Because thou hast spoiled many nations, all they of the peoples shall spoil thee."* For a curse, an evil conscience, infamy, loss in goods, and other punishments, public and private, bodily and spiritual, temporal and eternal, are laid upon thieves and impostors; and *things ill gotten ill slip away.*[^C5-20]
 
 ## *De VIII. Praecepto* · On the Eighth Commandment
 
@@ -301,7 +299,7 @@ With courtesy conflict levity, frowardness. With urbanity, scurrility, and rude 
 
 ### *Promissiones et comminationes Octavi praecepti* · The Promises and Threatenings of the Eighth Commandment
 
-**Psalm 15.** *"He that speaketh truth in his heart, and backbiteth not his neighbour with his tongue, he shall dwell in thy tabernacle, O Lord."* **Luke 6.** *"Judge not, and ye shall not be judged."* **Psal. 5.** *"Thou shalt destroy all them that speak a lie."* **Isa. 5.** *"Woe unto you that call evil good, and good evil, putting darkness for light, and light for darkness."* **Proverb. 12.** *"Lying lips are an abomination unto God."*
+**Psalm 15.** *"He that speaketh the truth in his heart, and backbiteth not his neighbour with his tongue, he shall abide in thy tabernacle, O Lord."* **Luke 6.** *"Judge not, and ye shall not be judged."* **Psal. 5.** *"Thou shalt destroy all them that speak leasing."* **Isa. 5.** *"Woe unto you that call evil good, and good evil, that put darkness for light, and light for darkness."* **Proverb. 12.** *"Lying lips are abomination to God."*
 
 ## *De IX. Praecepto* · On the Ninth Commandment
 

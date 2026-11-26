@@ -12,6 +12,7 @@ The volume directory holds a `build.json`:
       "parts":  ["review/front/*.md", "review/parts/*.md"],         # Markdown, in order (globs are sorted)
       "master": "review/<work-slug>.md",                            # assembled master file (written on every build)
       "toc_depth": 2,                                               # heading levels in the contents (1 or 2)
+      "english_only": ["review/parts/01-*.md"],                     # optional: drop block quotes (originals) from these parts in the PDF
       "short_heads": {"Long Section Title": "Short Running Head"}   # optional
     }
 
@@ -89,7 +90,20 @@ def render(vol, cfg, toc_pages=None):
     for pat in cfg["parts"]:
         files += sorted(glob.glob(str(vol / pat)))
     md = "\n\n".join(Path(f).read_text(encoding="utf-8").strip() for f in files) + "\n"
-    (vol / cfg["master"]).write_text(md, encoding="utf-8")
+    (vol / cfg["master"]).write_text(md, encoding="utf-8")       # the master keeps everything
+    # "english_only": part files whose block quotes hold the Greek and Latin originals; the book prints the English alone
+    drop = set()
+    for pat in cfg.get("english_only", []):
+        drop |= set(glob.glob(str(vol / pat)))
+    if drop:
+        texts = []
+        for f in files:
+            t = Path(f).read_text(encoding="utf-8").strip()
+            if f in drop:
+                t = "\n".join(l for l in t.split("\n") if not l.lstrip().startswith(">"))
+                t = re.sub(r"\n{3,}", "\n\n", t)
+            texts.append(t)
+        md = "\n\n".join(texts) + "\n"
     body = subprocess.run(
         ["pandoc", "-f", "markdown+smart-implicit_figures", "-t", "html5", "--section-divs", "--wrap=none"],
         input=md, capture_output=True, text=True, check=True).stdout

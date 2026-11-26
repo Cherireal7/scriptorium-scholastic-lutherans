@@ -46,7 +46,7 @@ The parts of repentance they make to be: contrition of the heart, confession of 
 
 2. That contrition meriteth remission of sins. This detestable error transferreth unto our work the honour that is due unto the Son of God alone, and fighteth with the whole doctrine of justification.
 
-Concerning confession they teach that the enumeration of all offences is necessary, and meriteth remission of sins. Concerning satisfaction they teach that works not due, that is, not commanded by the Law of God, but works of supererogation, merit the remission of the pains of purgatory, or of other pains of this life, etc. Against these lies <!-- p.304 --> it is enough to set this one rule: *"In vain do they worship me with the commandments of men."*
+Concerning confession they teach that the enumeration of all offences is necessary, and meriteth remission of sins. Concerning satisfaction they teach that works not due, that is, not commanded by the Law of God, but works of supererogation, merit the remission of the pains of purgatory, or of other pains of this life, etc. Against these lies <!-- p.304 --> it is enough to set this one rule: *"In vain they do worship me with the commandments of men."*
 
 ## *Credo carnis resurrectionem, et vitam aeternam* · I Believe in the Resurrection of the Flesh, and the Life Everlasting
 
@@ -209,8 +209,6 @@ Unto this is opposed the death everlasting, which is the perpetual casting away[
 
 Life everlasting is begun in us in this life, when out of the revealed Word we know God, and rest in his mercy, promised for the Son's sake, and when our hearts feel the consolation of the Holy Ghost, whereby there is at the same time kindled a new light, righteousness and gladness, which is the taste of the life everlasting. Thus much of the Creed.
 
-— ❦ —
-
 # *De Tertia Parte Catechismi* · On the Third Part of the Catechism
 
 ### What is the third part of the Catechism?
@@ -289,8 +287,6 @@ All things spiritual and bodily that agree with the commandments, which are set 
 6. That the devils may be confounded and put to flight.
 7. Confession, distinguishing the Church from other sects.
 
-— ❦ —
-
 # *De Quarta Parte Catechismi* · On the Fourth Part of the Catechism
 
 ### What is the fourth part of the Catechism?
@@ -326,8 +322,6 @@ The principal end is the application of the remission of sins unto him that is b
 ### Are infants to be baptized?
 
 They are to be baptized, because unto them pertaineth the promise of salvation, as it is said: *"Of such is the kingdom of heaven."* But there is no salvation without the Church, as it is written, **John 3**: *"Except a man be born of water and of the Spirit, he shall not enter into the kingdom of heaven."* Therefore it is necessary that infants be regenerated through Baptism, and ingrafted into the Church. And Christ is effectual in infants through Baptism, and worketh in them faith and other motions, as he saith, **Matt. 18**: *"It is not the will of the Father, that one of these little ones should perish, which believe in me."*
-
-— ❦ —
 
 # *De Quinta Parte Catechismi, quae est Coena Dominica* · On the Fifth Part of the Catechism, which is the Lord's Supper
 
@@ -446,7 +440,7 @@ Reverend Sir, I pray you to hear my confession, and in the name, in the stead an
 - **Gen. 2**, *"He rested on the seventh day from all his work, and blessed it"* — 87
 - **Exod. 20**, *"I am the Lord thy God"* — 53
 - **Exod. 20**, *"Thou shalt not make unto thee any graven image"* — 73
-- **Job 14**, *"The number of his months is with thee"* — 109
+- **Job 14**, *"The number of his months are with thee"* — 109
 - **Ps. 8**, *"Out of the mouth of babes and sucklings thou hast perfected praise"* — 169
 - **Ps. 69**, *"The zeal of thine house maketh me to pine away"* — 147, 148
 - **Ps. 110**, *"Sit thou at my right hand"* — 285
@@ -631,7 +625,7 @@ Reverend Sir, I pray you to hear my confession, and in the name, in the stead an
 - **Strange gods** (*Dii alieni*) — who they are — 59
 - **Love** (*Dilectio*) — what it is — 57
 - **Love** (*cum Dilectione pugnantia*) — things contrary to it — 209
-- **Discipline, the military** — of Alexander Severus — 141[?]
+- **Discipline, the military** — of Alexander Severus — 141
 - **Discipline** — what it is — 174; why necessary — *ibid.*
 - **Disciples** — their duties — 102
 - **Teachers** (*Docentium officia*) — their duties — 212

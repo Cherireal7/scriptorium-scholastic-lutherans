@@ -100,7 +100,7 @@ The second person, namely the Son, was made man, as it is written: *"The Word wa
 
 There are seven causes. The first is, because it became him by whom are all things to be made the author of salvation. **Heb. 2**. The Creator is the re-creator; the former, the reformer; the maker, the re-maker; the preparer, the repairer. Whose is the ***πλάσις*** (the forming), his also is the ***ἀνάπλασις*** (the forming anew); and whose is the ***κτίσις*** (the creation), his also is the ***ἀνάκτισις*** (the creation anew). The second cause is, because it was fitting that that person in whom the life of man had been, even before the fall, should be sent unto the office of redemption, that mankind, delivered from death, might be brought again unto life through him in whom was life, and the light of men.
 
-The third cause is, because it was meet that he who in the divinity was the Son of God the Father should in the manhood become the son of a human mother, lest there should be believed to be two Sons, but that there might be one Son, who should bestow upon us also, who were the children of wrath, this power, that we should become through him and for his sake sons of God, brethren and joint-heirs with Christ by a free adoption, ***κεχαριτωμένοι ἐν τῷ ἠγαπημένῳ*** (made accepted in the beloved).
+The third cause is, because it was meet that he who in the divinity was the Son of God the Father should in the manhood become the son of a human mother, lest there should be believed to be two Sons, but that there might be one Son, who should bestow upon us also, who were the children of wrath, this power, that we should become through him and for his sake sons of God, brethren and joint-heirs with Christ by a free adoption, ***κεχαριτωμένοι εἰς τῷ ἠγαπημένῳ*** (made accepted in the beloved).
 
 <!-- p.256 -->
 
@@ -209,7 +209,7 @@ By no means did the Son of God assume only a human mass destitute of life, but a
 
 **Argument.**
 
-Whatsoever consisteth of a reasonable soul and a human body, that is a person, which is named man. Christ the man, ***σώματι περιγραπτός*** (circumscribed in body) and walking upon the earth, consisteth of a reasonable soul and a human body. Therefore he is a person, even as touching his human nature; and by consequence it is not rightly said that the human nature in Christ had not the character of a person (*rationem personae*).
+Whatsoever consisteth of a reasonable soul and a human body, that is a person, which is named man. Christ the man, ***σώματι περίγραπτος*** (circumscribed in body) and walking upon the earth, consisteth of a reasonable soul and a human body. Therefore he is a person, even as touching his human nature; and by consequence it is not rightly said that the human nature in Christ had not the character of a person (*rationem personae*).
 
 **I answer** unto the major. The major pertaineth unto the usual and regular predications, and is true universally in the order of nature, after the usual manner, without any exception, save this one unusual example of the incarnation of the Son of God, which is the mystery of mysteries, beyond the course of things, a wonderful exchange (*admirabile commercium*), in which ***τὸ ἄλλο καὶ ἄλλο*** (one thing and another thing) do meet together, and yet there is not ***ἄλλος καὶ ἄλλος*** (one person and another person), but there is one ***ὑπόστασις*** (hypostasis), one Christ, ***εἷς ἐν προσώπῳ, καὶ ὅλος, εἷς ἐν ὀνόματι*** (one in person, and whole, one in name), one God and man, ***θεάνθρωπος*** (God-man), ***ὅλος ἐν τῷ πράττειν*** (whole in the working), so that each nature in the one Christ doth, with communication of the other, that which is proper unto each. And although <!-- p.265 --> the assumed human nature is not a brute thing, lifeless, idle, or ***ἄεργος*** (without working), but a certain living thing, understanding and effectual, yet it hath not the character of a person, but is assumed into the person of the Son of God, and there is one Christ, God and man. Thou askest, How? I know not how to answer: the mind faileth, the tongue is silent, not of men only, but of Angels also.
 
@@ -225,17 +225,17 @@ Whatsoever consisteth of a reasonable soul and a human body, that is a person, w
 
 5. He willed that our consolation should be firm and lively, and our invocation sure, who know that Christ, God, is our brother, and that our flesh and blood is in the Trinity at the right hand of the divine Power and Majesty.
 
-### What is the communication of idioms?
+### What is the communication of properties?
 
 That is called an idiom (*idioma*) which is a property agreeing unto one nature.
 
-The communication of idioms (*communicatio idiomatum*) is, when the idioms, that is, the properties of one nature, are communicated and attributed unto the other, not in the abstract, but in the concrete, or in the person.
+The communication of properties (*communicatio idiomatum*) is, when the idioms, that is, the properties of one nature, are communicated and attributed unto the other, not in the abstract, but in the concrete, or in the person.
 
 Abstract terms signify the natures and forms considered by themselves, as: divinity, divine nature, humanity, human nature.
 
 Concrete terms signify the subjects themselves together with their natures and forms, as: God, man, that is, the person, or ***τὸ ὑφιστάμενον*** (that which subsisteth).
 
-### How many are the kinds of the communication of idioms?
+### How many are the kinds of the communication of properties?
 
 For the sake of teaching and of learning we say that there are three. The first is, when those things which are proper unto one nature in Christ are attributed unto the person in the concrete, with a declaration added, according to which nature, that the essential properties of each nature may remain entire; as: God was born of a virgin; the Son of God suffered, was crucified, died. The Lord of glory was crucified. God redeemed the Church with his own blood. The Son of Mary is the creator of heaven and earth. But in the abstract it is not said: <!-- p.267 --> The Divinity was born, suffered, died. The human nature died for us (because this phrase, with the little words "for us" added, comprehendeth the whole work of Redemption, which belongeth unto the person). The humanity created heaven and earth.
 
@@ -321,7 +321,7 @@ The Passion belongeth unto the person, not in the divine, but in the human natur
 
 The human nature is likened unto Iron, the Divine unto Fire, so that there is made a fiery iron (*ferrum ignitum*). For so hath Antiquity always spoken. Now if any man shall essay to touch and to handle the Iron, he shall feel the force, not of the iron, but of the fire; which thing all they shall really prove, who are either manifest blasphemers and revilers of the Son of God, or diminishers of the Divine Majesty communicated unto Christ the man.
 
-[^F2-1]: The definition is Philip Melanchthon's, from the *Liber de anima*.
+[^F2-1]: The definition is Philip Melanchthon's.
 
 [^F2-2]: So the print. The words stand in Heb. 1:6.
 

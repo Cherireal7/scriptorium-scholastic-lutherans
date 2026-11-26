@@ -111,3 +111,18 @@ The printed text therefore has 318 pages, numbered to 322. The indexes cite the 
 Structure as found: Catechism in Greek and Latin (pp. 1–31), *Carmen in Explicationem Capitum Doctrinae Christianae* (Dresden 1563; pp. 32–44), *Explicatio Decalogi* (pp. 45–166), catechetical questions on the first part of the Catechism (pp. 166–206; no printed heading — they begin at "Unde dicitur Catechesis?"), *Tabella* of virtues and vices in Greek and Latin (pp. 207–226), *De Secunda Parte Catechismi* and the rest (pp. 226–322), indexes.
 
 Scripture: KJV standard (programme decision of 2026-09-12, confirmed 2026-11-26), not the "own rendering of Selnecker's Latin" rule in HANDOFF.md.
+
+## Status — 2026-11-26: translated, audited, built
+
+- **Translation:** 15 parallel parts on fixed image ranges (`review/parts/`), assembled into the master `review/selnecker-institutio-pars-iii-1579.md` on every build (about 115,000 words).
+- **Completeness:** all 320 printed pages carry one hidden page mark each (`<!-- p.N -->`, printed numbers), in order; joins between parts checked and two doubled passages removed.
+- **Audit:** every page read a second time against the BSB images by a reader who had not translated it; logs in `audit/NN-log.md` (about 200 corrections: mostly Scripture brought to KJV and Greek restored to the print's readings; about a dozen errors of sense; no omitted or added sentence found). The three indexes were checked entry by entry and digit by digit.
+- **Build:** `python3 shared/build-mac.py dogmatics/selnecker-institutiones-1573-pars-iii` → 386-page PDF in `review/` (settings in `build.json`).
+- **Departures from HANDOFF.md, by the editor's decision (2026-11-26):** Scripture conformed to the KJV; the catechism prints in English only (the Greek and Latin transcriptions stay in parts 01 and 02 as block quotes and are dropped at build time by `english_only` in `build.json`); macOS HTML/Chrome build instead of pandoc → DOCX → LibreOffice; parallel parts instead of tranches.
+
+### Open points
+- **Imprint.** The title page of this copy names neither place nor printer (only "Anno M.D.LXXIX" and a ten-year privilege). HANDOFF.md gives "Jena, Jakob Tröster"; not confirmed on the facsimile, so the volume says only "1579".
+- **VD16 number.** HANDOFF.md says S 5567; the BSB record for bsb10175492 shows S 5566. Left out of the copyright page until settled.
+- **Source notes.** Identifications of classical and patristic sources in the endnotes were confirmed by the second readers from their knowledge of the texts, not against editions.
+- **Greek accents.** Letters were checked on every page; accents were restored to the print wherever a reader looked closely, but not mark by mark on every line (matters only for the Table of the virtues, since the catechism prints in English).
+- **"leasing"** (Ps. 5, KJV) stands in the Eighth Commandment section; "a lie" would be clearer to a modern reader.

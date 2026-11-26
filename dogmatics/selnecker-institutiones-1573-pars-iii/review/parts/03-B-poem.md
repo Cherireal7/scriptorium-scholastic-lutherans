@@ -37,7 +37,7 @@
 > or what the arduous strength, ever in our  
 > time, of the German speech brings forth with great endeavour.  
 > <!-- p.33 -->Of books there is enough; all things are full of Christ.  
-> Every side is stored with catechisms, and with a postil.  
+> Every side is stored with catechisms, and with postils.  
 
 *Sed tamen est aliquid, de quo mens iusta moneri*
 
@@ -160,7 +160,7 @@
 > Perhaps by what rule I call some catechisms "the earlier"  
 > thou askest: thou hast from me an answer true and friendly.  
 > Many writings he gave, truly great by the power of God,  
-> our father, the prophet of our age, **Luther**,  
+> the father, the prophet of our age, **Luther**,  
 > <!-- p.36 -->than whom, thou being witness, O God, none since the times of the  
 > apostolic company hath lived greater; upon whom from heaven every  
 > skill so breathed, of seeing all sacred things,  
@@ -224,7 +224,7 @@
 > flowing from Christ, the brightness of the Father.  
 > Showing the errors, he, sure of his ground, the godly doctrines  
 > delivered by a method unknown to monks and gymnosophists.  
-> Simply professing the truth with a mind taught of God,  
+> Simply professing the truth with a divine mind,  
 > he would seek nothing else but the name of Christ,  
 > and this he found, with a success sprung from heaven.  
 > He scattered also the mists, if any strove to corrupt  
@@ -483,7 +483,7 @@
 > On every side depart the learned, and the aged, and the fathers;  
 > on every side succeed men swelling with the heat of youth,  
 > who break down the roofs built aforetime, and the covenants,  
-> and follow after novelties, foolish things agreeable to reason.  
+> and follow after novelties, agreeable to foolish reason.  
 > So likewise, after its manner, by our own fault, alas, the truth  
 > dieth little by little; scarce a small shadow is left.  
 
@@ -551,11 +551,11 @@
 
 [^B-8]: The print has *Non animum cœlo*. It is read here as *celo*, "I do not hide my mind", which alone suits what follows.
 
-[^B-9]: 2 Kings 2:12, Elisha's cry after Elijah: "the chariot of Israel, and the horsemen thereof".
+[^B-9]: 2 Kings 2:12, Elisha's cry after Elijah: "the chariot of Israel, and the horsemen thereof"; the Vulgate has *currus Israel et auriga eius*.
 
-[^B-10]: Friedrich Staphylus (1512–1564), once a student at Wittenberg, who returned to the Roman Church. His *Theologiae Martini Lutheri trimembris epitome* (1558) drew up a table of the sects that he derived from Luther, counting Anabaptists and Sacramentarians among the "Lutherans".
+[^B-10]: Friedrich Staphylus (1512–1564), once a student at Wittenberg, who returned to the Roman Church. His *Theologiae Martini Lutheri trimembris epitome* (1558) set out the sects that he derived from Luther; it is this reckoning of Anabaptists and deniers of the Supper among the "Lutherans" that the poem rejects.
 
-[^B-11]: On printed pp. 39 and 40 a fold in the paper of the Munich copy hides a letter or two in the middle of most lines. The words have been supplied from the sense and the metre (for example *constans*, *dicere*, *fallitur*, *nihil est*, *proprio*, *texit*, *felle*, *quoties*, *sit*, *quicunque*, *rationis*, *relatum*, *nomina*, *scripsit*, *sermone*, *invide*, *haud*, *dona*, *magnum*); none of them is in doubt.
+[^B-11]: On printed pp. 39 and 40 a fold in the paper of the Munich copy hides a letter or two in the middle of most lines. The words have been supplied from the sense and the metre (for example *constans*, *mos*, *dicere*, *fallitur*, *nihil est*, *proprio*, *texit*, *felle*, *quoties*, *sit*, *quicunque*, *rationis*, *pontus*, *relatum*, *nomina*, *scripsit*, *sermone*, *invide*, *haud*, *dona*, *magnum*); none of them is in doubt.
 
 [^B-12]: The print seems to read *(viæ nobis)*; read *vae nobis*, "woe to us".
 

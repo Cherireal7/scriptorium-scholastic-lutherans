@@ -1,6 +1,6 @@
 # Nikolaus Selnecker — Biographical Sketch
 
-*(Reused from the companion Pars I volume for the reader coming to Selnecker for the first time.)*
+*(Reused from the companion volumes of Parts One and Two for the reader coming to Selnecker for the first time.)*
 
 **Nikolaus Selnecker** (also spelled *Selneccer* or *Schellenecker*) was born on **5 December 1530 at Hersbruck,** a small Franconian town near Nürnberg. His father, a jurist, brought the family to Nürnberg while Selnecker was still a child, and it was there that Selnecker received his first musical education — a formation that would define one strand of his later life-work as a paradigm-Lutheran hymn-writer.
 

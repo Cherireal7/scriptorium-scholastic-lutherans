@@ -42,7 +42,7 @@ Everything that is of necessity required for life and for the sustenance of the 
 
 > *V. Et remitte nobis debita nostra, sicut et nos remittimus debitoribus nostris.*
 
-V. And forgive us our debts, as we also forgive our debtors.
+V. And forgive us our debts, as we forgive our debtors.
 
 > Τί τοῦτο λέγειν ἐστί;
 >
@@ -120,7 +120,7 @@ That I may be certain that these petitions are acceptable to the heavenly Father
 
 <!-- p.20 -->
 
-## *De Sacro Baptismo* · On Holy Baptism
+## On Holy Baptism
 
 > Κατὰ ὃν τρόπον οἱ παιδαγωγοὶ τοὺς αὐτῶν παῖδας ἁπλούστατα διδάξαι ὀφείλουσι τὰ τοῦ ἁγίου βαπτίσματος.
 
@@ -186,7 +186,7 @@ It worketh remission of sins, delivereth from death and from the devil, and give
 
 Where Christ our Lord saith, in the last chapter of **Mark**:
 
-> *"He that shall believe and be baptized shall be saved: but he that shall not believe shall be condemned."*
+*"He that believeth and is baptized shall be saved; but he that believeth not shall be damned."*
 
 ### Third. How can water effect such great things?
 
@@ -202,9 +202,9 @@ Where Christ our Lord saith, in the last chapter of **Mark**:
 >
 > *Aqua certe non id efficit, sed verbum Dei, quod cum aqua et apud eam est, atque fides, quae tali verbo in aqua credit. Aqua enim absque Dei Verbo est aqua simpliciter, et non baptisma. sed cum Verbo Dei est baptismus, id est, gratia abundans aqua Vitae, et lavacrum regenerationis in Spiritu Sancto, sicut Paulus ait ad Titum tertio: Salvos nos fecit per lavacrum regenerationis et renovationem Spiritus sancti, quem effudit in nos opulenter per Iesum Christum Servatorem nostrum, ut iustificati illius gratia haeredes efficiamur vitae aeternae, iuxta spem. Indubitatus sermo.*
 
-Water assuredly doth not effect it, but the word of God, which is with the water and beside it, and faith, which believeth such a word in the water. For water without the Word of God is simply water, and not baptism; but with the Word of God it is baptism, that is, a water of Life abounding in grace, and a laver of regeneration in the Holy Ghost, as **Paul** saith to **Titus**, in the third chapter:
+Water assuredly doth not effect it, but the word of God, which is with the water and beside it, and faith, which believeth such a word in the water. For water without the Word of God is simply water, and not baptism; but with the Word of God it is baptism, that is, a water of Life abounding in grace, and a washing of regeneration in the Holy Ghost, as **Paul** saith to **Titus**, in the third chapter:
 
-> *"He saved us by the laver of regeneration and the renewing of the Holy Ghost, whom he poured out upon us richly through Jesus Christ our Saviour, that, being justified by his grace, we might be made heirs of eternal life, according to hope. A saying not to be doubted."*
+*"He saved us, by the washing of regeneration, and renewing of the Holy Ghost; which he shed on us abundantly through Jesus Christ our Saviour; that being justified by his grace, we should be made heirs according to the hope of eternal life. This is a faithful saying."*
 
 ### Fourth. What doth this immersion into water signify?
 
@@ -234,9 +234,9 @@ It signifieth that the old Adam in us must, by daily contrition and repentance, 
 
 **Saint Paul** to the **Romans**, in the sixth chapter, saith:
 
-> *"We are buried together with Christ by baptism into death, that, as Christ was raised from the dead by the glory of the Father, so we also should walk in newness of life."*
+> *"We are buried with Christ by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."*
 
-## *De Coena Domini* · On the Lord's Supper
+## On the Lord's Supper
 
 > Κατὰ ὃν τρόπον οἱ παιδαγωγοὶ τοὺς αὐτῶν παῖδας ἁπλούστατα διδάξαι ὀφείλουσι περὶ τοῦ δείπνου τοῦ κυρίου.
 
@@ -276,9 +276,9 @@ It is the true body and the true blood of our Lord Jesus Christ, under the bread
 
 Thus write the holy Evangelists, **Matthew**, **Mark**, **Luke**, and **St. Paul**:
 
-> *"Our Lord JESUS CHRIST, in that night in which he was betrayed, took Bread, and when he had given thanks, he brake it and said: Take, eat, this is my Body, which is given for you. This do in remembrance of me.*
+> *"Our Lord JESUS CHRIST, the same night in which he was betrayed, took Bread: and when he had given thanks, he brake it, and said, Take, eat: this is my Body, which is given for you: this do in remembrance of me.*
 >
-> *"In like manner also, having taken the cup, when he had given thanks, after he had supped, he gave it to them, saying: Drink ye all of it. This Cup is the new testament in my blood, which is shed for you and for many unto the remission of sins. This do, as often as ye shall drink, in remembrance of me."*[^A2-3]
+> *"After the same manner also, having taken the cup, when he had given thanks, after he had supped, he gave it to them, saying, Drink ye all of it. This Cup is the new testament in my blood, which is shed for you and for many for the remission of sins. This do, as oft as ye drink it, in remembrance of me."*[^A2-3]
 
 ### What doth it profit so to eat and to drink?
 
@@ -292,11 +292,11 @@ Thus write the holy Evangelists, **Matthew**, **Mark**, **Luke**, and **St. Paul
 >
 > *Id indicant nobis haec verba: Pro vobis datum, et effusum in remissionem peccatorum, nempe, quod in Sacramento remissio peccatorum, vita, et salus per haec verba nobis dantur. Ubi enim remissio peccatorum est, ibi est et vita et salus.*
 
-That do these words show us: *"Given for you, and shed unto the remission of sins"*; namely, that in the Sacrament remission of sins, life, and salvation are given us through these words. For where remission of sins is, there is also life and salvation.
+That do these words show us: *"Given for you, and shed for the remission of sins"*; namely, that in the Sacrament remission of sins, life, and salvation are given us through these words. For where remission of sins is, there is also life and salvation.
 
 ### How can bodily eating effect so great a thing?
 
-> πῶς τὸ σωματικῶς ἐσθίειν καὶ πίνειν τοσοῦτο ποιεῖν δυνατόν ἐστι;
+> πῶς τὸ σωματικῶς ἐσθίειν καὶ πίνειν τοσοῦτα ποιεῖν δυνατόν ἐστι;
 >
 > τὸ ἐσθίειν καὶ πίνειν οὐ μὴ τοσοῦτον ποιεῖ, ἀλλὰ τὰ ῥήματα· ὑπὲρ ὑμῶν διδόμενον καὶ ἐκχυνόμενον εἰς ἄφεσιν ἁμαρτιῶν· ἃ ῥήματα παρὰ τῷ σωματικῶς ἐσθίειν καὶ πίνειν, ὡς κεφάλαιον ἐστὶν ἐν τούτῳ τῷ μυστηρίῳ. Καὶ ὁ πιστεύων τούτοις ῥήμασιν, ἔχει ἐκεῖνος τὰ ἐν αὐτοῖς λεγόμενα, ὥσπερ ἐπαγγέλλουσι, τὴν δηλονότι ἄφεσιν τῶν ἁμαρτιῶν.
 
@@ -304,7 +304,7 @@ That do these words show us: *"Given for you, and shed unto the remission of sin
 >
 > *Manducare et bibere quidem non faciunt illud, sed verba haec: Pro vobis datur et effunditur in remissionem peccatorum: quae verba cum corporali manducatione sunt caput in Sacramento: et qui credit his verbis, is habet, quae dicunt, et sicut sonant, nempe, remissionem peccatorum.*
 
-Eating and drinking indeed do it not, but these words: *"Is given for you, and is shed unto the remission of sins"*: which words, together with the bodily eating, are the chief thing in the Sacrament: and he that believeth these words hath what they say, and as they sound, namely, the remission of sins.
+Eating and drinking indeed do it not, but these words: *"Is given for you, and is shed for the remission of sins"*: which words, together with the bodily eating, are the chief thing in the Sacrament: and he that believeth these words hath what they say, and as they sound, namely, the remission of sins.
 
 ### Who then useth this Sacrament worthily?
 
@@ -316,13 +316,13 @@ Eating and drinking indeed do it not, but these words: *"Is given for you, and i
 >
 > *Ieiunare, et corporaliter se praeparare, est quidem bona et externa disciplina: at ille est vere dignus ac probe paratus, qui habet fidem in haec verba (Pro vobis datur et effunditur in remissionem peccatorum.) Qui vero his verbis non credit, aut dubitat, ille est indignus et imparatus. Nam verbum (Pro vobis) postulat corda simpliciter credentia.*
 
-To fast, and to prepare oneself bodily, is indeed a good and outward discipline: but he is truly worthy and well prepared who hath faith in these words (*"Is given for you, and is shed unto the remission of sins"*). But he that believeth not these words, or doubteth, is unworthy and unprepared. For the word (*"For you"*) requireth hearts that simply believe.
+To fast, and to prepare oneself bodily, is indeed a good and outward discipline: but he is truly worthy and well prepared who hath faith in these words (*"Is given for you, and is shed for the remission of sins"*). But he that believeth not these words, or doubteth, is unworthy and unprepared. For the word (*"For you"*) requireth hearts that simply believe.
 
 > Τέλος. Θεῷ δόξα.
 
 The End. Glory be to God.[^A2-4]
 
-## *De Confessione* · On Confession
+## On Confession
 
 > ΠΕΡΙ ΕΞΟΜΟΛΟγήσεως.
 
@@ -360,7 +360,7 @@ Before God we ought to hold ourselves guilty of all sins, even of those which ar
 
 > Τίνες αὗται εἰσὶν ἁμαρτίαι;
 >
-> ἐνταῦθα ἐξέταζε τὸν βίον σὸν, κατὰ τὰς δέκα ἐντολὰς, εἰ πατὴρ, μήτηρ, υἱὸς, θυγάτηρ, κύριος, δέσποινα, δοῦλος ᾖς· εἰ ἀπειθὴς, ἄπιστος, ἀσπούδαστος ᾖς: εἴ τινα βέβλαφας λόγοις τε καὶ ἔργοις· εἰ κλέπτης ᾖς, καὶ ἀμεριμνίᾳ, ἢ ῥᾳθυμίᾳ, ἀπροσεξίᾳ ἐπιζήμιός τινι ᾖς.
+> ἐνταῦθα ἐξέταζε τὸν βίον σὸν, κατὰ τὰς δέκα ἐντολὰς, εἰ πατὴρ, μήτηρ, υἱὸς, θυγάτηρ, κύριος, δέσποινα, δοῦλος εἶς· εἰ ἀπειθὴς, ἄπιστος, ἀσπούδαστος ἦς: εἰ τινὰ βέβλαφας λόγοις τε καὶ ἔργοις· εἰ κλέπτης ἦς, καὶ ἀμεριμνίᾳ, ἢ ῥαθυμίᾳ, ἀπροσεξίᾳ ἐπιζήμιός τινι ἦς.
 
 > *Quae nam illa sunt peccata?*
 >
@@ -378,7 +378,7 @@ Here examine the state of thy life according to the ten commandments, whether th
 >
 > Λέγε.
 >
-> Ἐγὼ ἄθλιος ἁμαρτωλὸς ἐξομολογοῦμαι ἐνώπιον τοῦ θεοῦ καὶ σοῦ, ὅτι πάντων ἁμαρτιῶν, τῆς ἀπιστίας, καὶ ἀνομιῶν παντοίων ἔνοχός εἰμι· ταῖς τοῦ θεοῦ ἐντολαῖς οὐκ ἐμμένω· τῷ εὐαγγελίῳ οὐ πιστεύω· οὐδένα καρπὸν τοῦ λόγου τοῦ θεοῦ ἐν ἐμοὶ αἰσθάνομαι· τὰ κακὰ μετὰ ὑπομονῆς οὐχ ὑπομενῶ· ἀκούω μὲν τὰ πλεῖστα τὸν τοῦ θεοῦ λόγον, ἀλλ' οὐ μὴ ἐκ καρδίας, μηδὲ ἀκριβῶς προσδέχομαι. πρὸς τὸν πλησίον μου οὐκ ἀγαπητῶς ἔχω. ὀργίζομαι, φθόνον ἔχω, δυσμένειαν καὶ ἀπέχθειαν, ἀνύποιστός εἰμι, καὶ ἀτάλλω, πλεονεκτικὸς, καὶ προπετὴς πρὸς πάντα κακά. τὰ καὶ τὰ πράττω, καὶ εἰμὶ ἀχρεῖος δοῦλος. ταῦτα τὸ συνειδός μου πολὺ βαρύνει. ἐπιστεύομαι[?] δὲ ἀπολύεσθαι τούτων κακῶν τῆς ψυχῆς τε καὶ τοῦ σώματος. Εὔχομαι οὖν, καὶ ἀξιῶ διὰ τὸν θεὸν, ὥστε ἐμοὶ πρὸς τὴν τῆς ψυχῆς παράκλησιν συμβούλιον πιστὸν διδόναι, καὶ τὴν ὀλίγην ἐμοῦ πίστιν βεβαιωθῆναι, καὶ τὸ συνειδός μου πεφορτισμένον παρηγορεῖσθαι τῷ τοῦ θεοῦ ῥήματι, καὶ ταῖς αὐτοῦ ἁγίαις, καὶ ἐπαγγελίαις, καὶ ὡς τοποτηρητὴς τοῦ θεοῦ εἰπεῖν ἐμοὶ τῶν ἐμοῦ ἁμαρτιῶν ἄφεσιν· ὁσίως ἐπαγγέλλομαι ἐπανόρθωσιν τοῦ βίου, θεοῦ διδόντος.
+> Ἐγὼ ἄθλιος ἁμαρτωλὸς ἐξομολογοῦμαι ἐνώπιον τοῦ θεοῦ καὶ σοῦ, ὅτι πάντων ἁμαρτιῶν, τῆς ἀπιστίας, καὶ ἀνομιῶν παντοίων ἔνοχός εἰμι· ταῖς τοῦ θεοῦ ἐντολαῖς οὐκ ἐμμένω· τῷ εὐαγγελίῳ οὐ πιστεύω· οὐδένα καρπὸν τοῦ λόγου τοῦ θεοῦ ἐν ἐμοὶ αἰστάνομαι· τὰ κακὰ μετὰ ὑπομονῆς οὐχ ὑπομενῶ· ἀκούω μὲν τὰ πλεῖστα τὸν τοῦ θεοῦ λόγον, ἀλλ' οὐ μὴ ἐκ καρδίας, μηδὲ ἀκριβῶς προσδέχομαι. πρὸς τὸν πλησίον μου οὐκ ἀγαπητῶς ἔχω. ὀργίζομαι, φθόνον ἔχω, δυσμένειαν καὶ ἀπέχθειαν, ἀνύποιστός εἰμι, καὶ ἀτάλλω, πλεονεκτικὸς, καὶ προπετὴς πρὸς πάντα κακά. τὰ καὶ τὰ πράττω, καὶ εἰμὶ ἀχρεῖος δοῦλος. ταῦτα τὸ συνειδός μου πολὺ βαρύνει. ἐπιστεύομαι δὲ ἀπολύεσθαι τούτων κακῶν τῆς ψυχῆς τε καὶ τοῦ σώματος. Εὔχομαι οὖν, καὶ ἀξιῶ διὰ τὸν θεὸν, ὥστε ἐμοὶ πρὸς τὴν τῆς ψυχῆς παράκλησιν συμβούλιον πιστὸν διδόναι, καὶ τὴν ὀλίγην ἐμοῦ πίστιν βεβαιωθῆναι, καὶ τὸ συνειδός μου πεφορτισμένον παρηγορεῖσθαι τῷ τοῦ θεοῦ ῥήματι, καὶ ταῖς αὐτοῦ ἁγίαις, καὶ ἐπαγγελίαις, καὶ ὡς τοποτηρητὴς τοῦ θεοῦ εἰπεῖν ἐμοὶ τῶν ἐμοῦ ἁμαρτιῶν ἄφεσιν· ὁσίως ἐπαγγέλλομαι ἐπανόρθωσιν τοῦ βίου, θεοῦ διδόντος.
 
 > *Da mihi formam quandam brevem Confessionis.*
 >
@@ -402,7 +402,7 @@ Thus oughtest thou to say to the minister of Christ:
 
 > διὰ τί μὲν οὖν τοῦτο μυστήριον, τουτέστι, τὸ σῶμα καὶ αἷμα χριστοῦ θέλεις λαμβάνειν;
 >
-> θέλω τὴν ψυχήν μου τῷ ἁγίῳ τοῦ θεοῦ ῥήματι, καὶ ταύτῃ τῇ σφραγίδι βεβαιῶσαι, καὶ οὕτω τῆς τῶν ἁμαρτιῶν ἀφέσεως καὶ χάριτος τυχεῖν.
+> θέλω τὴν ψυχήν μου τῷ ἁγίῳ τοῦ θεοῦ ῥήματι, καὶ ταύτῃ τῇ σφραγίδι βεβαινῶσαι, καὶ οὕτω τῆς τῶν ἁμαρτιῶν ἀφέσεως καὶ χάριτος τυχεῖν.
 
 > *Cur hoc Sacramentum, id est, Corpus et sanguinem Christi vis accipere?*
 >
@@ -410,7 +410,7 @@ Thus oughtest thou to say to the minister of Christ:
 
 I will strengthen my soul both with the holy word of God and with this seal, and so obtain remission of sins and grace.
 
-## ***Προσευχὴ πρωινή*** · Morning Prayer
+## Morning Prayer
 
 > ΠΡΟΣΕΥΧΗ πρωινή.
 >
@@ -428,17 +428,17 @@ In the morning season, when thou art risen from sleep, sign thyself with the sig
 
 Being risen from sleep we fall down before thee, O thou Good, and cry unto thee the hymn of the angels, O thou Mighty: Holy, holy, holy art thou, O God; through thy Son Jesus Christ have mercy upon us.
 
-Thou that hast raised me from my bed and from sleep, O Lord, enlighten my mind, and open my heart and my lips, that I may hymn thee, O holy Trinity: Holy, holy, holy art thou.
+Thou that hast raised me from my bed and from sleep, O Lord, enlighten my mind and my heart, and open my lips, that I may hymn thee, O holy Trinity: Holy, holy, holy art thou.
 
 I give thee thanks as I rise from sleep, O holy Trinity, that of thy great goodness and longsuffering thou wast not wroth with me, slothful and a sinner, neither didst destroy me together with mine iniquities, but didst show thy wonted love toward man, and didst raise me up as I lay in despair, that I might rise early and glorify thy might. And now enlighten the eyes of my understanding; open my mouth, to meditate upon thine oracles, and to understand thy commandments, and to do thy will, and to sing unto thee in confession of heart, and to hymn thine all-holy name, of the Father and of the Son and of the Holy Ghost, now and ever, unto the ages of ages. Amen.[^A2-7]
 
 > Εὐχαριστῶ σοὶ ὦ θεὸς πάτερ οὐράνιε, διὰ Ἰησοῦ χριστοῦ τοῦ υἱοῦ σοῦ ἀγαπητοῦ, ὅτι ἐμὲ ἐν ταύτῃ τῇ νυκτὶ ἐκ πάντων κινδύνων, συμφορῶν καὶ κακῶν διασώζων διεφύλαξας. Δέομαί σου, ἵνα καὶ σήμερον ἀπὸ τῶν ἁμαρτιῶν, καὶ τῶν ἄλλων κακῶν διατηρῇς με, καὶ πᾶσαι αἱ πράξεις μου, καὶ ὅλος ὁ βίος μου εὐάρεστός σοι γένηται. ἐγὼ γὰρ ἐμὲ, καὶ τὸ σῶμά μου, καὶ τὴν ψυχὴν, καὶ τὰ πάντα ἐμοῦ εἰς τὰς χεῖράς σου παρατίθημι. ἄγγελός σου ἅγιος μετ' ἐμοῦ ἔστω, ὥστε ὁ πονηρὸς ἐχθρὸς ἐν ἐμοὶ οὐκ ἔχειν οὐδέν· ἀμήν.
 
-I give thee thanks, O God, heavenly Father, through Jesus Christ thy beloved Son, that thou hast this night kept me safe and guarded me from all dangers, calamities, and evils. I beseech thee that this day also thou wouldst preserve me from sins and from all other evils, and that all my doings and my whole life may be well-pleasing unto thee. For I commit myself, and my body, and my soul, and all that is mine, into thy hands. Let thy holy angel be with me, that the evil enemy may have nothing in me. Amen.
+I give thee thanks, O God, heavenly Father, through Jesus Christ thy beloved Son, that thou hast this night kept me safe and guarded me from all dangers, calamities, and evils. I beseech thee that this day also thou wouldst preserve me from sins and from the other evils, and that all my doings and my whole life may be well-pleasing unto thee. For I commit myself, and my body, and my soul, and all that is mine, into thy hands. Let thy holy angel be with me, that the evil enemy may have nothing in me. Amen.
 
 <!-- p.31 -->
 
-## ***Εὐλογία τῆς τραπέζης*** · The Blessing of the Table
+## The Blessing of the Table
 
 > Εὐλογία τῆς τραπέζης.
 >
@@ -448,25 +448,25 @@ I give thee thanks, O God, heavenly Father, through Jesus Christ thy beloved Son
 
 The Blessing of the Table.
 
-The eyes of all hope in thee, O Lord, and thou givest them their food in due season. Thou openest thy hand, and fillest every living thing with good pleasure.[^A2-8]
+The eyes of all wait upon thee, O Lord; and thou givest them their meat in due season. Thou openest thine hand, and fillest every living thing with good pleasure.[^A2-8]
 
 O Lord God, heavenly Father, bless us, and these gifts, which of thy bounteous kindness we are about to receive, through Jesus Christ our Lord. Amen.
 
-## ***Εὐχαριστία μετὰ τὸν δεῖπνον*** · Thanksgiving after the Meal
+## Thanksgiving after the Meal
 
 > Εὐχαριστία μετὰ τὸν δεῖπνον.
 >
 > Ἐξομολογεῖσθε τῷ Κυρίῳ, ὅτι ἀγαθὸς, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ· τῷ διδόντι τὴν τροφὴν πάσῃ σαρκὶ, καὶ τοῖς κτήνεσι τὴν τροφὴν αὐτῶν, καὶ τοῖς νεοσσοῖς τῶν κοράκων τοῖς ἐπικαλουμένοις αὐτόν. οὐκ ἐν τῇ δυναστείᾳ τοῦ ἵππου θελήσει, οὐδὲ ἐν ταῖς κνήμαις τοῦ ἀνδρὸς εὐδοκεῖ. εὐδοκεῖ ὁ Κύριος ἐν τοῖς φοβουμένοις αὐτὸν καὶ ἐν τοῖς ἐλπίζουσιν ἐπὶ τὸ ἔλεος αὐτοῦ.
 >
-> Εὐχαριστοῦμέν σοι ὦ Κύριε θεὸς, πάτερ οὐράνιε, διὰ Ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν, ὑπὲρ πασῶν τῶν δωρεῶν καὶ εὐεργεσιῶν σου, ὃς ζῇς καὶ βασιλεύεις εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.
+> Εὐχαριστοῦμέν σοι ὦ Κύριε θεὸς, πάτερ οὐράνιε, διὰ Ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν, ὑπὲρ πασῶν τῶν δωρεῶν καὶ εὐεργεσιῶν σου, ὃς ζῇς καὶ βασιλεύεις εἰς τοὺς αἰῶνας τῶν αἰωνον· ἀμήν.
 
 Thanksgiving after the Meal.
 
-Give ye thanks unto the Lord, for he is good, for unto the age is his mercy: unto him that giveth food to all flesh, and to the cattle their food, and to the young of the ravens that call upon him. He will take no delight in the might of the horse, neither hath he pleasure in the legs of a man. The Lord hath pleasure in them that fear him, and in them that hope upon his mercy.
+O give thanks unto the Lord; for he is good: for his mercy endureth for ever: unto him that giveth food to all flesh, and to the beasts their food, and to the young ravens which call upon him. He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. The Lord taketh pleasure in them that fear him, and in those that hope in his mercy.
 
 We give thee thanks, O Lord God, heavenly Father, through Jesus Christ our Lord, for all thy gifts and benefits, who livest and reignest unto the ages of ages. Amen.
 
-## ***Προσευχὴ ἑσπερινή*** · Evening Prayer
+## Evening Prayer
 
 > Προσευχὴ ἑσπερινή.
 >
@@ -484,12 +484,10 @@ I give thee thanks, O God, heavenly Father, through Jesus Christ thy beloved Son
 
 [^A2-4]: These words stand in Greek only, at the close of the part on the Supper. In this print Confession follows the Lord's Supper, and not Baptism.
 
-[^A2-5]: Where the Latin has "in God's stead" (*loco Dei*), the Greek has ***ὡς τοποτηρητὴς τοῦ θεοῦ***, "as God's lieutenant" or "vicegerent"; the print divides the word wrongly as ***τὸ ποτηρήτης***. For "I am exceedingly impatient" the Greek has ***ἀνύποιστός εἰμι, καὶ ἀτάλλω***; the second verb does not give the sense required, and ***ἀσχάλλω***, "I am vexed", may have been meant. The word given above as ***ἐπιστεύομαι*** answers to the Latin "I earnestly desire" (*cupio vehementer*); the letters are clear in the print, but the form is doubtful.
+[^A2-5]: Where the Latin has "in God's stead" (*loco Dei*), the Greek has ***ὡς τοποτηρητὴς τοῦ θεοῦ***, "as God's lieutenant" or "vicegerent"; the print divides the word wrongly as ***τὸ ποτηρήτης***. For "I am exceedingly impatient" the Greek has ***ἀνύποιστός εἰμι, καὶ ἀτάλλω***; the second verb does not give the sense required, and ***ἀσχάλλω***, "I am vexed", may have been meant. The word ***ἐπιστεύομαι*** answers to the Latin "I earnestly desire" (*cupio vehementer*); the print reads so without doubt, but the form is not a regular one and does not of itself give that sense. In the same prayer the print has ***αἰστάνομαι*** for ***αἰσθάνομαι***, "I feel"; it is left as printed.
 
 [^A2-6]: From this heading to the end of the Catechism the print gives the Greek only, without a Latin version; the English is here made from the Greek.
 
 [^A2-7]: These three pieces are not from Luther's Catechism. They are morning prayers of the Greek Church, found in the *Horologion*: two of the hymns to the Trinity said on rising, and the prayer of thanksgiving that follows them. In the first, where the Greek Church prays "through the Mother of God have mercy upon us", this print has "through thy Son Jesus Christ have mercy upon us". Luther's own morning prayer follows.
 
 [^A2-8]: The verses of the blessing are from the Psalm that is 145 in the Hebrew numbering (144 in the Greek); those of the thanksgiving are from Psalms 136 and 147 in the Hebrew numbering (135 and 146 in the Greek). The print gives no references.
-
-<!-- shifted -->

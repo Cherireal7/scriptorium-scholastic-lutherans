@@ -161,7 +161,7 @@ By no means. For because He ascended into Heaven that He might carry up His Body
 
 In no wise is Christ contained by Heaven, so that He cannot be elsewhere on earth with His Body and Blood. And the version of the place **Acts 3** is plainly perverse.[^F3-3] For Christ received Heaven, possessed it, occupied it, subjected it unto Himself, that is, as **Peter** expoundeth himself: *"He is on the right hand of God, being gone into Heaven, Angels, Authorities, and Powers being made subject unto Him."* And the Heavens received Christ ascending no otherwise than that with joy and triumph they most humbly subjected themselves unto Him, and acknowledge and salute and proclaim Him Lord.
 
-### Is not Christ by a bodily location in some place of Heaven, ***σώματι περιγραπτός*** (circumscribed in body)?
+### Is not Christ by a bodily location in some place of Heaven, ***σώματι περίγραπτος*** (circumscribed in body)?
 
 Most freely can Christ be wheresoever He will be. <!-- p.284 -->By a bodily location indeed, as touching the manner of a true Body, Physically: but without Physical circumscription, Hyperphysically and in a Divine manner, unknown to us, because He hath not only a human Body, as other men have, but hath carried up that very Body to the Right Hand of His Almighty Father, above all heavens, above all places, and above all Orders, He only excepted which did put all things under Him, because He sitteth not above Him, but on His right hand.
 
@@ -218,8 +218,6 @@ No. For God is the Head of Christ the man, **Ephes. 1**,[^F3-4] and the human na
 ## *Inde venturus est iudicare vivos et mortuos* · From Thence He Shall Come to Judge the Quick and the Dead
 
 Christ shall return in the visible form wherein also He ascended into Heaven, **Acts 1**, and in the universal judgement He shall judge the quick, which shall then remain in the World, and the dead, which are already buried, and shall be buried before the judgement, being raised up and called together by the Trump of the Archangel; that is, He shall punish the ungodly, and deliver the godly, and adorn the Church with life eternal, according to the process which Christ Himself describeth, **Matth. 25**.
-
-— ❦ —
 
 ## *De Tertio Articulo Symboli Apostolici, id est, de Spiritu Sancto, de Ecclesia, et praecipuis Dei beneficiis* · On the Third Article of the Apostles' Creed, that is, of the Holy Ghost, of the Church, and of the Chief Benefits of God
 
@@ -290,7 +288,7 @@ Of all the calamities of the whole human race, of the Church and of the ungodly,
 
 **The Final Causes are ten.**
 
-1. God layeth not calamities upon us to the end that He may destroy us, but that He may do us good. **Ezech. 33.** *"As I live, I will not the death of the sinner, but this I will, that he turn and live."* **Ps. 118 [119].** *"It is good for me, O Lord, that thou hast afflicted me."*
+1. God layeth not calamities upon us to the end that He may destroy us, but that He may do us good. **Ezech. 33.** *"As I live, I have no pleasure in the death of the sinner; but this I will, that he turn and live."* **Ps. 118 [119].** *"It is good for me, O Lord, that thou hast afflicted me."*
 2. That the virtues of the Saints may be proved, exercised, and confirmed, the Fear of God, Faith, invocation, patience, Confession, etc. These highest virtues grow when the Saints are exercised with afflictions; in prosperity they become more languid, and by little and little are utterly quenched.
 3. That the Church may acknowledge the wrath of God against the common sin of the whole human race, and against the inward uncleanness, which the world neglecteth.
 4. <!-- p.292 -->That afflictions may be testimonies of the immortality of the godly.
@@ -420,13 +418,13 @@ And the Scripture therefore useth this form of words, *By faith we are justified
 
 [^F3-1]: The sentence stands in the *Exposition of the Creed* of Rufinus of Aquileia, which the sixteenth-century editions printed among the works of Cyprian. The two sayings on the ascension and the session quoted under Cyprian's name below (*"He ascended into the Heavens, not where God the Word had not been before…"* and *"To sit on the right hand of the Father is a Mystery of the assumed flesh…"*) come from the same work.
 
-[^F3-2]: Irenaeus, *Adversus haereses* III, 19, 3: the Word "resting" (***ἡσυχάζοντος τοῦ Λόγου***), that He might be able to be tempted, dishonoured, crucified, and to die.
+[^F3-2]: Irenaeus, *Adversus haereses* III, 19, 3: the Word "resting" (*requiescente Verbo* in the old Latin version), that He might be able to be tempted, dishonoured, crucified, and to die.
 
-[^F3-3]: Selnecker cites and rejects the passive Latin rendering of Acts 3:21, *quem oportet coelo capi* ("whom heaven must receive", taken as "contain"), which was used by the Reformed against the bodily presence in the Supper; he reads the clause actively, "who must receive heaven". His Latin is translated here as he gives it; the King James wording ("whom the heaven must receive") is not his.
+[^F3-3]: Selnecker cites and rejects the passive Latin rendering of Acts 3:21, which he quotes as *Oportet Christum coelo capi* ("Christ must be received by heaven", taken as "contained"), which was used by the Reformed against the bodily presence in the Supper; he reads the clause actively, "who must receive heaven". His Latin is translated here as he gives it; the King James wording ("whom the heaven must receive") is not his.
 
 [^F3-4]: So the print. The words "the head of Christ is God" stand in 1 Cor. 11:3; Eph. 1 speaks of Christ set at the right hand and given as head to the Church.
 
-[^F3-5]: Selnecker's own *Paedagogia Christiana*, to which the Catechetical Questions refer the student for fuller treatment.
+[^F3-5]: Selnecker's own *Paedagogia Christiana*, to which he refers the student for fuller treatment.
 
 [^F3-6]: The print has *petentes condemnationem* ("asking condemnation"), an evident misprint for *condonationem* ("pardon"), which is translated.
 

@@ -38,7 +38,7 @@ The virtues, or good works, which are contained in the several commandments stan
 2. ***πεποίθησις τῆς ἀνθρωπίνης βοηθείας*** — *fiducia humani auxilii* — Trust in the help of man.
 3. ***εἰδωλολατρεία*** — *Idolorum cultura* — The worship of idols.
 4. ***δεισιδαιμονία*** — *superstitio* — Superstition.
-5. ***Μαγεία*** — *incantatio* — Enchantment. ***χρησμοὶ ἢ μαντεύματα*** — *oracula* — Oracles. ***θεομαντεία*** — *vaticinia afflatorum, etc.* — The soothsayings of them that are possessed with a spirit, and the like.
+5. ***Μαγεία*** — *incantatio* — Enchantment. ***χρησμοὶ ἢ μαντεύματα*** — *oracula* — Oracles. ***θεομάντεια*** — *vaticinia afflatorum, etc.* — The soothsayings of them that are possessed with a spirit, and the like.
 
 **Contrary to love are:**
 
@@ -90,14 +90,14 @@ The virtues, or good works, which are contained in the several commandments stan
 2. ***εὐχαριστία*** — *gratiarum actio* — Thanksgiving.
 3. ***ἀληθὴς διδαχή, ἢ ἀληθὲς κήρυγμα*** — *puritas doctrinae et vera praedicatio* — Purity of doctrine and true preaching.
 4. ***ὁμολόγησις*** — *Confessio* — Confession.
-5. ***ὅρκος ἐπακτὸς καὶ νόμιμος*** — *Iuramentum, vel impositum et requisitum a Magistratu, vel legitimum, quod fit ex officio vocationis* — An oath, either imposed and required by the Magistrate, or lawful, such as is made by the duty of one's calling.
+5. ***ὅρκος ἐπακτὸς καὶ νομιμός*** — *Iuramentum, vel impositum et requisitum a Magistratu, vel legitimum, quod fit ex officio vocationis* — An oath, either imposed and required by the Magistrate, or lawful, such as is made by the duty of one's calling.
 
 ### *Extrema* · The Extremes
 
 **Contrary to invocation are:**
 
 1. ***τὸ διαλείπειν ἢ ἀποτίθεσθαι τὴν προσευχήν*** — *intermittere, vel omittere precationem* — To leave off, or to lay aside, prayer.
-2. ***πᾶσα ψευδὴς προσκύνησις ἐθνική, εἰδωλολατρική, ἰουδαϊκή, ἢ τῶν νεκρῶν*** — *Omnis falsa invocatio, Ethnica, Turcica, Idololatrica, Iudaica, mortuorum* — All false invocation: heathen, Turkish, idolatrous, Jewish, and that of the dead.
+2. ***πᾶσα ψευδὴς προσκύνησις ἐθνική, εἰδωλολατρεική, ἰουδαϊκή, ἢ τῶν νεκρῶν*** — *Omnis falsa invocatio, Ethnica, Turcica, Idololatrica, Iudaica, mortuorum* — All false invocation: heathen, Turkish, idolatrous, Jewish, and that of the dead.
 3. ***βαττολογίαι*** — *Multiloquia in precatione* — Vain repetitions and much speaking in prayer.
 4. ***δεισιδαιμονικαὶ προσευχαί*** — *superstitiosae preces* — Superstitious prayers.
 
@@ -128,7 +128,7 @@ The virtues, or good works, which are contained in the several commandments stan
 1. ***σοφιστικαὶ καὶ διαβολικαὶ ἐξηγήσεις καὶ ἑρμηνεῖαι τῶν ὅρκων*** — *Sophisticae et calumniosae expositiones iuramentorum* — Sophistical and slanderous expositions of oaths.
 2. ***ἀσεβεῖς ὅρκοι*** — *impia iuramenta* — Ungodly oaths.
 3. ***βλασφημία*** — *blasphemia* — Blasphemy.
-4. ***εὐχαὶ εἰδωλολατρικαί*** — *vota Monachorum, superstitiosae precationes* — The vows of monks, superstitious prayers [idolatrous vows].
+4. ***εὐχαὶ εἰδωλολατρεικαί*** — *vota Monachorum, superstitiosae precationes* — The vows of monks, superstitious prayers [idolatrous vows].
 5. ***ἐπιορκία*** — *periurium* — Perjury.
 
 ## *Virtutes III. Praecepti* · The Virtues of the Third Commandment
@@ -179,7 +179,7 @@ The virtues, or good works, which are contained in the several commandments stan
 3. ***τῶν μυστηρίων ἤτοι μὴ μεταλαβεῖν σπουδαίως, ἢ μετέχειν ἀναξίως, ἢ καὶ ὑβριστικῶς ἀπέχεσθαι*** — *Sacramentis non uti, vel indigne uti, vel ea contumaciter negligere* — Not to use the Sacraments, or to use them unworthily, or contumaciously to neglect them.
 4. ***τὰς ἑορτασίμους τῶν ἡμερῶν μετενεγκεῖν εἰς ἄλλας τινὰς ἀσχολίας, δι' ὧν ἐμποδίζοιτ' ἂν ὁ ἁγιασμός*** — *Festos dies transferre ad alias occupationes, delitias, voluptates, quibus impeditur sanctificatio* — To turn the feast days to other occupations, delights and pleasures, whereby the sanctifying of them is hindered.
 5. ***τὰς λειτουργήσεις μεταστρέφειν πρὸς πλεονεξίαν, τόκον, πορισμόν, κέρδος ἢ ἐργασίαν*** — *abuti iis, quae ad publicum ministerium pertinent, ad avaritiam, usuram, quaestum, lucrum* — To abuse the things that pertain to the public ministry unto covetousness, usury, gain and lucre.
-6. ***τοὺς πιστοὺς τοῦ λόγου κήρυκας, ποιμένας, καὶ διδασκάλους μὴ ὠφελεῖν*** — *non iuvare fideles Pastores et doctores* — Not to help faithful Pastors and teachers.
+6. ***τοὺς πιστοὺς τοῦ λόγου κήρυκας, ποιμένας, καὶ διδασκάλοις μὴ ὠφελεῖν*** — *non iuvare fideles Pastores et doctores* — Not to help faithful Pastors and teachers.
 7. ***δολοφροσύνη ὑποκριτική, ἡ ἐχθρεύουσα τῇ τοῦ θείου λόγου διακονίᾳ*** — *simulatio arte premens ministerium* — A dissembling that by craft oppresseth the ministry.
 8. ***προσόδους, ἢ χρήματα καὶ κτήματα τὰ ἐκκλησιαστικὰ μηχανᾶσθαι, καὶ ἁρπάζειν*** — *rapere bona ecclesiastica* — To seize upon the goods of the Church, as do our Evangelical Princes and nobles.
 9. ***καταναλόειν τὰ χρήματα εἰς εἰδωλολατρείαν*** — *profundere pecunias ad idololatriam, Missam, monasteria* — To pour out money upon idolatry, the Mass, monasteries.
@@ -310,12 +310,12 @@ The virtues, or good works, which are contained in the several commandments stan
 1. ***κουφότης καὶ ἀστασία*** — *levitas et inconstantia* — Lightness and inconstancy.
 2. ***μαλακία*** — *mollities animi* — Softness of mind.
 3. ***ἰσχυρογνωμοσύνη*** — *pervicacia, pertinacia* — Obstinacy, stubbornness.
-4. ***δυσχέρεια ἡ στωϊκή*** — *morositas Stoica* — Stoical moroseness, that is, ***τὸ εἶναι δύσκολον καὶ σκυθρωπόν*** (to be froward and of a sour countenance).
+4. ***δυσχέρεια ἡ στωϊκή*** — *morositas Stoica* — Stoical moroseness, that is, ***τὸ εἶναι δύσκολον καὶ σκύθρωπον*** (to be froward and of a sour countenance).
 
 **But contrary to the fortitude of war are:**
 
 1. ***δειλότης*** — *timiditas* — Cowardice.
-2. ***αἰσχρουργία*** — *foedum facinus* — A foul deed, as drunkenness, whoredom, blasphemy, unjust manslaughter, rapine, shameful flight, ***καὶ τὸ εἶναι ῥίψασπιδα*** (and to be one that casteth away his shield), as the soldiers are wont to do today.
+2. ***αἰσχρουργία*** — *foedum facinus* — A foul deed, as drunkenness, whoredom, blasphemy, unjust manslaughter, rapine, shameful flight, ***καὶ τὸ εἶναι ῥιψάσπιδα*** (and to be one that casteth away his shield), as the soldiers are wont to do today.
 3. ***περιπέτεια, καὶ ἀβουλία*** — *temeritas* — Rashness.
 
 **Contrary to philosophical patience are:**
@@ -379,7 +379,7 @@ The virtues, or good works, which are contained in the several commandments stan
 1. ***δυσχέρεια*** — *morositas* — Moroseness. ***μισανθρωπία*** (the hatred of mankind).
 2. ***ἀστασία ἢ ὑπόκρισις*** — *levitas et simulatio* — Lightness and dissembling, such as there is in Courts.
 
-**Contrary to affability** is to be ***σκυθρωπόν***, *morosum, torvum*, sour and grim, ***δυσπρόσοδον, δυσόμιλον καὶ δυσέντευκτον***, *aditu difficilem et inaffabilem*, hard of access and not to be spoken with.
+**Contrary to affability** is to be ***σκύθρωπον***, *morosum, torvum*, sour and grim, ***δυσπρόσοδον, δυσόμιλον καὶ δυσέντευκτον***, *aditu difficilem et inaffabilem*, hard of access and not to be spoken with.
 
 **Contrary to zeal:**
 
@@ -525,7 +525,7 @@ The virtues, or good works, which are contained in the several commandments stan
 3. ***πᾶσα διαβολή*** — *omnis calumnia* — All slander; ***ἡ λαθραίως κατηγορία ἐξ ἐρημίας γενομένη, τὸν κατηγορούμενον λεληθυῖα, ἐκ τοῦ μονομεροῦς ἀναντιλέκτως πεπιστευμένη*** — *clandestina delatio, accusato absente et inscio, et altera tantum parte audita, contradicente nemine* — secret informing, the accused being absent and unaware, and one side only being heard, no man gainsaying.
 4. ***ἀπιστία ἐν ταῖς ὑποσχέσεσιν, ἐπαγγελίαις, ὅρκοις, συναλλάγμασι, σπονδαῖς*** — *perfidia in promissionibus, iuramentis, contractibus et foederibus* — Faithlessness in promises, oaths, contracts and leagues.
 5. ***εἰρωνεῖαι*** — *irrisiones, et dissimulationes* — Mockings and dissemblings, as are sarcasm, *mycterismus* (the sneer), and ***ἀστεϊσμός*** (the polished jest). Likewise, ***σκώμματα τῆς ὑποκρίσεως ἐνεδρευτικὰ τῶν πλησίον*** — *scommata, quibus insidiae proximo tacite struuntur* — gibes whereby snares are privily laid for one's neighbour.
-6. ***συκοφαντία, ἐπηρεασμός, μεταλαλία[?], ἀλαζονεία, κολακεία, ἀστασία, μηδὲν ὑγιές*** — *sycophantia, iactantia, obtrectatio, fastus, adulatio, levitas, nihil sinceri* — False accusing, vaunting, backbiting, haughtiness, flattery, lightness, nothing sound.[^E-13] ***προπέτεια*** — *immodestia* — Forwardness. ***γλῶσσα*** <!-- p.224 -->***ἀκόλαστος*** — *petulans lingua* — An unbridled tongue, ***ἧς τέλος ἡ δυστυχία*** (whose end is misfortune).[^E-14] Likewise ***αἰσχρολογία*** — *turpitudo in sermone* — filthiness in speech.
+6. ***συκοφαντία, ἐπηρεασμός, μεταλαλία, ἀλαζονεία, κολακεία, ἀστασία, μηδὲν ὑγιές*** — *sycophantia, iactantia, obtrectatio, fastus, adulatio, levitas, nihil sinceri* — False accusing, vaunting, backbiting, haughtiness, flattery, lightness, nothing sound.[^E-13] ***προπέτεια*** — *immodestia* — Forwardness. ***γλῶσσα*** <!-- p.224 -->***ἀκόλαστος*** — *petulans lingua* — An unbridled tongue, ***ἧς τέλος ἡ δυστυχία*** (whose end is misfortune).[^E-14] Likewise ***αἰσχρολογία*** — *turpitudo in sermone* — filthiness in speech.
 7. ***πᾶσα ὑπόκρισις ἐν τοῖς λόγοις, ἤθεσι, τρόποις, καὶ ἐν τῷ ὅλῳ βίῳ*** — *simulatio in sermonibus, moribus, gestibus, et in tota vita* — All dissembling in words, manners, bearing, and in the whole life.
 8. ***κατάκρυψις μετ' ἐπιβουλῆς, ἢ τὸ ὕπουλον*** — *occultatio insidiosa* — Treacherous concealment [or that which festereth beneath the surface].
 
@@ -540,7 +540,7 @@ The virtues, or good works, which are contained in the several commandments stan
 
 **In excess:**
 
-- ***ὑπόκρισις*** — *simulatio simplicitatis* — The feigning of simplicity. ***τὸ εἶναι βαυκοπανοῦργον*** — *in cute ovis, intus lupus* — in the skin a sheep, within a wolf [to be a mincing knave].
+- ***ὑπόκρισις*** — *simulatio simplicitatis* — The feigning of simplicity. ***τὸ εἶναι βαυκοπάνουργον*** — *in cute ovis, intus lupus* — in the skin a sheep, within a wolf [to be a mincing knave].
 - ***εὐήθεια*** — *fatuitas* — Silliness.
 
 **III.**
@@ -593,7 +593,7 @@ The virtues, or good works, which are contained in the several commandments stan
 
 **VIII.**
 
-**The virtue:** ***Εὐτραπελία, φιλοφροσύνη, μετὰ σεμνότητος χαριέδης[?]*** — *comitas* — Courtesy [ready pleasantness, friendliness, graceful with gravity].
+**The virtue:** ***Εὐτραπελία, φιλοφροσύνη, μετὰ σεμνότητος χαριέδης***[^E-15] — *comitas* — Courtesy [ready pleasantness, friendliness, graceful with gravity].
 
 **In defect:** ***δυσχέρεια*** — *morositas* — Moroseness.
 
@@ -620,7 +620,7 @@ The virtues, or good works, which are contained in the several commandments stan
 
 Contrary to this is all ***ἁμαρτία, ἐπιθυμία, ἀπειροπάθεια, ἢ τῶν παθῶν ἀμετρία, καὶ ἀταξία. πᾶσα μοχθηρία, καὶ ἐννόησις τῆς ἀδικίας, ἡ ὄρεξις, ὁρμή, βούλευσις, ἐπιβολή*** — *omnis inobedientia et transgressio* — all disobedience and transgression [sin, concupiscence, boundless passion, or the want of measure and of order in the affections; all wickedness, and the very thinking upon unrighteousness, the appetite, the impulse, the purposing, the setting about it].
 
-[^E-1]: David Chytraeus (1530–1600), professor at Rostock, *Regulae vitae: virtutum descriptiones methodicae* (first printed at Wittenberg in 1555), a schoolbook that sets out the virtues and vices in the order of the Decalogue.
+[^E-1]: David Chytraeus (1530–1600), professor at Rostock, *Regulae vitae: virtutum descriptiones methodicae* (first printed in the 1550s), a schoolbook that sets out the virtues and vices in the order of the Decalogue.
 
 [^E-2]: Ecebolius, the sophist of Constantinople who changed his religion with each emperor; his story is told by Socrates Scholasticus, *Ecclesiastical History* 3.13.
 
@@ -634,7 +634,7 @@ Contrary to this is all ***ἁμαρτία, ἐπιθυμία, ἀπειροπά
 
 [^E-7]: Juvenal, *Satires* 2.63.
 
-[^E-8]: The armed men sprung from the dragon's teeth sown by Cadmus, who fell upon one another and slew each other.
+[^E-8]: Probably the armed men sprung from the dragon's teeth sown by Cadmus, who fell upon one another and slew each other.
 
 [^E-9]: The print has *nimia crudelitas* ("overmuch cruelty"), an evident misprint for *nimia credulitas*, as the Greek shows and as the same word is rendered under the Eighth Commandment (*credulitas nimia et praepropera*).
 
@@ -644,6 +644,8 @@ Contrary to this is all ***ἁμαρτία, ἐπιθυμία, ἀπειροπά
 
 [^E-12]: Plato, *Laws* 5, 730c, where the received text has ***θεοῖς*** ("for the gods").
 
-[^E-13]: The third Greek word is printed ***μεταλαλία***, which is no known word. The order of the Latin (*obtrectatio*, backbiting) suggests that ***καταλαλία*** is meant.
+[^E-13]: The third Greek word is plainly printed ***μεταλαλία***, a form not found in the lexica. By the order of the Latin it answers to *obtrectatio* (backbiting), so that ***καταλαλία*** may be meant.
 
 [^E-14]: After Euripides, *Bacchae* 386–388.
+
+[^E-15]: So the print, plainly: ***χαριέδης***, a form not found in the lexica. Some word for "graceful" is evidently meant (***χαρίεις*** or ***χαριτώδης***); the rendering follows that sense.

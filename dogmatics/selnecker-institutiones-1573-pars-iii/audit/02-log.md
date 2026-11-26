@@ -1,0 +1,50 @@
+# Audit log — part 02-A2 (catechism 2), printed pp. 16–31, images p00024–p00039
+
+## Changes
+
+- p.18 (img 026) — print: "Et remitte nobis debita nostra, sicut et nos remittimus debitoribus nostris" — was: "as we also forgive our debtors" — now: "as we forgive our debtors" — kind: scripture
+- p.21 (img 029) — print: "Qui crediderit, et baptizatus fuerit, salvus erit: Qui vero non crediderit, condemnabitur" — was: "He that shall believe and be baptized shall be saved: but he that shall not believe shall be condemned." — now: "He that believeth and is baptized shall be saved; but he that believeth not shall be damned." — kind: scripture
+- p.22 (img 030) — print: "lavacrum regenerationis in Spiritu Sancto" — was: "a laver of regeneration in the Holy Ghost" — now: "a washing of regeneration in the Holy Ghost" (to agree with the quotation that follows) — kind: scripture
+- p.22 (img 030) — print: "Salvos nos fecit per lavacrum regenerationis … Indubitatus sermo" (Tit. 3) — was: "He saved us by the laver of regeneration and the renewing of the Holy Ghost, whom he poured out upon us richly … heirs of eternal life, according to hope. A saying not to be doubted." — now: "He saved us, by the washing of regeneration, and renewing of the Holy Ghost; which he shed on us abundantly through Jesus Christ our Saviour; that being justified by his grace, we should be made heirs according to the hope of eternal life. This is a faithful saying." — kind: scripture
+- p.23 (img 031) — print: "Sepulti sumus una cum Christo per baptismum in mortem, ut quemadmodum excitatus est Christus …" (Rom. 6) — was: "We are buried together with Christ by baptism into death, that, as Christ was raised from the dead by the glory of the Father, so we also should walk…" — now: "We are buried with Christ by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life." — kind: scripture
+- p.24 (img 032) — print: "in ea nocte, qua traditus est, accepit Panem … Hoc facite in mei commemorationem" — was: "in that night in which he was betrayed, took Bread, and when he had given thanks, he brake it and said: Take, eat, this is my Body, which is given for you. This do…" — now: "the same night in which he was betrayed, took Bread: and when he had given thanks, he brake it, and said, Take, eat: this is my Body, which is given for you: this do in remembrance of me." — kind: scripture
+- p.24 (img 032) — print: "Similiter et accepto calice … in remissionem peccatorum. Hoc facite, quotiescunque biberitis…" — was: "In like manner also … shed for you and for many unto the remission of sins. This do, as often as ye shall drink…" — now: "After the same manner also … shed for you and for many for the remission of sins. This do, as oft as ye drink it, in remembrance of me." — kind: scripture
+- p.25 (img 033) — print: "Pro vobis datum, et effusum in remissionem peccatorum" — was: "shed unto the remission of sins" — now: "shed for the remission of sins" — kind: scripture
+- p.25 (img 033) — print: "Pro vobis datur et effunditur in remissionem peccatorum" — was: "is shed unto the remission of sins" — now: "is shed for the remission of sins" — kind: scripture
+- p.26 (img 034) — print: "(Pro vobis datur et effunditur in remissionem peccatorum.)" — was: "is shed unto the remission of sins" — now: "is shed for the remission of sins" — kind: scripture
+- p.25 (img 033) — print: "πῶς τὸ σωματικῶς ἐσθίειν καὶ πίνειν τοσοῦτα ποιεῖν δυνατόν ἐστι" — was: "τοσοῦτο" — now: "τοσοῦτα" — kind: greek
+- p.27 (img 035) — print: "δοῦλος εἶς· εἰ ἀπειθὴς, ἄπιστος, ἀσπούδαστος ἦς: εἰ τινὰ βέβλαφας … εἰ κλέπτης ἦς … ἢ ῥαθυμίᾳ … τινι ἦς" — was: "ᾖς" four times, "εἴ τινα", "ῥᾳθυμίᾳ" (normalised by the translator) — now: "εἶς", "ἦς" (three times), "εἰ τινὰ", "ῥαθυμίᾳ", as printed — kind: greek
+- p.28 (img 036) — print: "ἐν ἐμοὶ αἰστάνομαι" (the στ ligature, the same sort as in πιστεύω and πλεῖστα on the same page) — was: "αἰσθάνομαι" — now: "αἰστάνομαι" — kind: greek
+- p.28 (img 036) — print: "ἐπιστεύομαι δὲ ἀπολύεσθαι" (ἐπι-ligature, στ, ευ, ομαι; all clear at high enlargement) — was: "ἐπιστεύομαι[?]" — now: "ἐπιστεύομαι" (query removed; the reading is certain, only the form is irregular, and the endnote says so) — kind: greek
+- p.29 (img 037) — print: "ταύτῃ τῇ σφραγίδι βεβαινῶσαι" (a letter ν stands between αι and ω; compare βεβαιωθῆναι on p.28, which has none) — was: "βεβαιῶσαι" — now: "βεβαινῶσαι" — kind: greek
+- p.31 (img 039) — print: "εἰς τοὺς αἰῶνας τῶν αἰωνον· ἀμήν" (thanksgiving after the meal) — was: "αἰώνων" — now: "αἰωνον" — kind: greek
+- p.30 (img 038) — print: "τὸν νοῦν μου φώτισον καὶ τὴν καρδίαν καὶ τὰ χείλη μου ἄνοιξον" — was: "enlighten my mind, and open my heart and my lips" — now: "enlighten my mind and my heart, and open my lips" — kind: mistranslation
+- p.30 (img 038) — print: "ἀπὸ τῶν ἁμαρτιῶν, καὶ τῶν ἄλλων κακῶν διατηρῇς με" — was: "from sins and from all other evils" — now: "from sins and from the other evils" — kind: addition
+- p.31 (img 039) — print: "οἱ ὀφθαλμοὶ πάντων εἰς σὲ ἐλπίζουσι Κύριε … ἀνοίγεις σὺ τὴν χεῖρά σου" (Ps. 145) — was: "The eyes of all hope in thee, O Lord, and thou givest them their food in due season. Thou openest thy hand…" — now: "The eyes of all wait upon thee, O Lord; and thou givest them their meat in due season. Thou openest thine hand, and fillest every living thing with good pleasure." (the last clause follows the Greek, which differs from the KJV) — kind: scripture
+- p.31 (img 039) — print: "Ἐξομολογεῖσθε τῷ Κυρίῳ, ὅτι ἀγαθὸς … ἐπὶ τὸ ἔλεος αὐτοῦ" (Ps. 136; 147) — was: "Give ye thanks unto the Lord, for he is good, for unto the age is his mercy … He will take no delight in the might of the horse, neither hath he pleasure in the legs of a man. The Lord hath pleasure in them that fear him, and in them that hope upon his mercy." — now: "O give thanks unto the Lord; for he is good: for his mercy endureth for ever: unto him that giveth food to all flesh, and to the beasts their food, and to the young ravens which call upon him. He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. The Lord taketh pleasure in them that fear him, and in those that hope in his mercy." — kind: scripture
+- p.28 (img 036), endnote A2-5 — print: "ἐπιστεύομαι", "αἰστάνομαι" — was: "The word given above as ἐπιστεύομαι … the letters are clear in the print, but the form is doubtful." — now: "The word ἐπιστεύομαι … the print reads so without doubt, but the form is not a regular one and does not of itself give that sense. In the same prayer the print has αἰστάνομαι for αἰσθάνομαι, 'I feel'; it is left as printed." — kind: endnote
+
+## Endnotes confirmed on the image (not changed)
+
+- A2-3: the print does read "εἰς ἔφεσιν ἁμαρτιῶν" over the cup (p.24, img 032; epsilon clear at high enlargement); the text keeps the translator's corrected "ἄφεσιν" with the note.
+- A2-5: the print does read "ὡς τὸ ποτηρήτης τοῦ θεοῦ" (p.28, img 036); the text keeps the translator's corrected "τοποτηρητὴς" with the note. "ἀνύποιστός εἰμι, καὶ ἀτάλλω" is as printed.
+- A2-7 (Horologion): kept as it stands. The three pieces are the first and the "Glory" troparion of the Trinitarian hymns said on rising ("Ἐξεγερθέντες τοῦ ὕπνου…", "Τῆς κλίνης καὶ τοῦ ὕπνου…") and the prayer "Ἐκ τοῦ ὕπνου ἐξανιστάμενος εὐχαριστῶ σοι, Ἁγία Τριάς…" of the Greek Horologion; the usual ending "διὰ τῆς Θεοτόκου ἐλέησον ἡμᾶς" is replaced in the print by "διὰ τοῦ υἱοῦ σου Ἰησοῦ χριστοῦ". Identified from knowledge of the text, not checked against a printed Horologion in this session.
+- A2-1, A2-2, A2-4, A2-6, A2-8: checked against the Greek and the page; true as written.
+
+## Doubtful, not changed
+
+- Headings "## *De Sacro Baptismo*" and "## *De Coena Domini*": these Latin titles are not in the print (pp. 20, 23), which has only "Quomodo paedagogi suos pueros…" in Greek and Latin; they are the translator's section titles. "De Confessione" (p.26) is printed. Left for the editor, since the contents are built from the `##` headings.
+- Two printer's errors stand corrected in the Greek text with an endnote (ἔφεσιν → ἄφεσιν, p.24; τὸ ποτηρήτης → τοποτηρητὴς, p.28), while other oddities are left as printed (τὸ βαπτισμὸς, ταῦται, ἀτάλλω, and now αἰστάνομαι, βεβαινῶσαι, αἰωνον). The editor may wish to treat all alike.
+- p.25 (img 033) τοσοῦτα: the last sort is the τα ligature as I read it (open, with a tail), not το; fairly sure, not certain.
+- p.29 (img 037) βεβαινῶσαι: the extra letter is certainly there; I read it as ν (it could be taken for υ).
+- p.18 (img 026) "ἢν δέποτε": the breathing over the ην ligature cannot be told at this resolution; left.
+- p.24 (img 032) "τοῖς μαθηταῖς αὐτοῦ": the breathing may be rough in the print; left.
+- p.31 (img 039) "ἐμπιμπλᾷς": the print has a circumflex; whether an iota subscript stands under the α cannot be told; left. Likewise p.30 "πρωῒ" (print perhaps "πρωὶ").
+- Accents and breathings in general: checked word by word at 1.6× enlargement and at 4–5× where a reading was in question; a few grave/acute or enclitic accents may still differ from the print.
+- Page marks: because each passage is set as Greek, Latin, English while the print runs Greek and Latin in longer alternating blocks, some marks (p.18, p.25) can only stand near, not exactly at, the page break. Left.
+- Endnote A2-1 says the Greek differs from the Latin "in three places"; there are further small differences in the same answer (e.g. "ἀλλὰ δωρεὰν πάντα ἡμῖν παρέχει" as a statement, "αἰτίων τῶν μεγίστων ἀξιούμεθα"). Not false, left.
+- Endnote A2-5 conjecture "ἀσχάλλω may have been meant" for ἀτάλλω: a guess, marked as such; left.
+- p.30 "Volo animam meam … confirmare" rendered "I will strengthen my soul" (will = wish); defensible, left.
+- Matt. 28 (p.20): English follows the Latin "Euntes in universum mundum" ("Go ye into all the world"), which is not the KJV wording of Matt. 28:19; the rest is KJV. Left.
+
+Pages checked: 16 of 16

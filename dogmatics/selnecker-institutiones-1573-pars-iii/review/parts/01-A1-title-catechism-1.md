@@ -22,13 +22,9 @@ Anno M. D. LXXIX.
 
 **The Third Part of the Instruction in the Christian Religion,** containing the Catechetical Doctrine: the Catechism of **D. D. Luther** in Greek and Latin; an Explication of the Decalogue; and Catechetical Questions, fitted to the use of Schools. By the author **D. Nicolaus Selneccer.**
 
-**John 17.**
-
-> *"Sanctify them in thy truth: thy word is truth."*
+**John 17.** *"Sanctify them through thy truth: thy word is truth."*
 
 With Grace and Privilege for ten years. In the year 1579.
-
-— ❦ —
 
 # Luther's Small Catechism in Greek and Latin
 
@@ -58,7 +54,7 @@ How schoolmasters ought to teach their boys the Ten Commandments in the simplest
 >
 > *Non habebis Deos alienos coram me.*
 
-Thou shalt not have strange gods before me.
+Thou shalt have no other gods before me.
 
 > τί ἐστι τοῦτο;
 >
@@ -108,7 +104,7 @@ We ought to fear and love God, that we curse not by his name, nor swear, nor use
 >
 > *Memento, ut diem Sabbati sanctifices.*
 
-Remember that thou sanctify the Sabbath day.
+Remember the sabbath day, to keep it holy.
 
 > τί τοῦτο λέγειν ἐστίν;
 >
@@ -206,7 +202,7 @@ We ought to fear and love God, that we live chastely and modestly in words and i
 >
 > *Non furtum facies.*
 
-Thou shalt not commit theft.
+Thou shalt not steal.
 
 > τί τοῦτο λέγειν ἐστί;
 >
@@ -232,7 +228,7 @@ We ought to fear and love God, that we take not from our neighbour his money or 
 >
 > *Non loqueris contra proximum tuum falsum testimonium.*
 
-Thou shalt not speak false witness against thy neighbour.
+Thou shalt not bear false witness against thy neighbour.
 
 > τουτέστι.
 >
@@ -310,7 +306,7 @@ We ought to fear and love God, that we draw not to ourselves from our neighbour,
 
 Thus he saith, **Exod. 20:**
 
-> *"I am the Lord thy God, a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands, to them that love me and keep my commandments."*[^A1-6]
+*"I am the Lord thy God, a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments."*[^A1-6]
 
 > τί τοῦτο λέγειν ἐστί;
 >
@@ -568,7 +564,7 @@ And the life everlasting. Amen.[^A1-11]
 
 > τί τοῦτο λέγειν ἐστί;
 >
-> πιστεύω, ὅτι οὐκ ἐκ τοῦ ἐμοῦ λογισμοῦ, ἢ ἐκ τῆς ἰδίης δυνάμεως εἰς Ἰησοῦν Χριστὸν τὸν Κύριον ἐμὸν πιστεύειν, καὶ πρὸς αὐτὸν προσελθεῖν δύναμαι, ἀλλὰ τὸ ἅγιον πνεῦμα διὰ τοῦ Εὐαγγελίου ἐκάλεσέ με, καὶ τοῖς δώροις ἑαυτοῦ ἐφώτισεν, ἐν ἀληθινῇ πίστει ἡγίασέ τε καὶ διεφύλαξε: ὃν τρόπον καὶ ὅλην τῶν χριστιανῶν ἐκκλησίαν κατὰ γῆν συγκαλεῖ, συναθροίζει, καταυγάζεται, ἁγιάζει, καὶ ἐν τῷ Ἰησοῦ χριστῷ διὰ τῆς ὀρθῆς καὶ μιᾶς πίστεως διασώζει· ἐν ᾗ τῶν χριστιανῶν Ἐκκλησίᾳ αὐτὸς ἐμοὶ καὶ ἅπασι τοῖς πιστεύουσι καθ᾽ ἑκάστην πάσας τὰς ἁμαρτίας πλουσίως ἀφίησι, καὶ ἡμέρᾳ τῇ ἐσχάτῃ ἐμὲ καὶ πάντας τεθνεῶτας ἐκ τῶν νεκρῶν ἐγερεῖ, καὶ ἐμοὶ σὺν ἅπασι πιστεύουσι εἰς χριστόν, ζωὴν αἰώνιον δώσει. πιστὸς λόγος.
+> πιστεύω, ὅτι οὐκ ἐκ τοῦ ἐμοῦ λογισμοῦ, ἢ ἐκ τῆς ἰδίης δυνάμεως εἰς Ἰησοῦν Χριστὸν τὸν Κύριον ἐμὸν πιστεύειν, καὶ πρὸς αὐτὸν προσελθεῖν δύναμαι, ἀλλὰ τὸ ἅγιον πνεῦμα διὰ τοῦ Εὐαγγελίου ἐκάλεσέ με, καὶ τοῖς δώροις ἑαυτοῦ ἐφώτισεν, ἐν ἀληθινῇ πίστει ἡγίασέ τε καὶ διεφύλαξε: ὃν τρόπον καὶ ὅλην τῶν χριστιανῶν ἐκκλησίαν κατὰ γῆν συγκαλεῖ, συναθροίζει, καταυγάζεται, ἁγιάζει, καὶ ἐν τῷ Ἰησοῦ χριστῷ διὰ τῆς ὀρθῆς καὶ μιᾶς πίστεως διασώζει· ἐν ᾗ τῶν χριστιανῶν Ἐκκλησίᾳ αὐτὸς ἐμοὶ καὶ ἅπασι τοῖς πιστεύουσι καθ᾽ ἑκάστην πάσας τὰς ἁμαρτίας πλουσίως ἀφίησι, καὶ ἡμέρᾳ τῇ ἐσχάτῃ ἐμὲ καὶ πάντας τεθνεῶντας ἐκ τῶν νεκρῶν ἐγερεῖ, καὶ ἐμοὶ σὺν ἅπασι πιστεύουσι εἰς χριστόν, ζωὴν αἰώνιον δώσει. πιστὸς λόγος.
 
 > *Quid hoc sibi vult?*
 >
@@ -588,13 +584,13 @@ I believe that by the proper powers of my own reason I can neither believe in Ch
 
 How schoolmasters ought to teach their boys the Lord's Prayer in the simplest manner.
 
-### *Pater noster qui es in coelis* · Our Father who art in heaven
+### *Pater noster qui es in coelis* · Our Father which art in heaven
 
 > Πάτερ ἡμῶν, ὁ ἐν τοῖς οὐρανοῖς.
 
 > *Pater noster qui es in coelis.*
 
-Our Father who art in heaven.
+Our Father which art in heaven.
 
 > τί τοῦτό ἐστι;
 >
@@ -710,7 +706,7 @@ When the heavenly Father giveth us his Holy Spirit, that by his grace we may bel
 >
 > *Cum Deus omne malum consilium et voluntatem frangit,* <!-- p.16 --> *et impedit, quae nobis Nomen Dei sanctificare, et Regnum eius ad nos pervenire non sinunt, ut est Diaboli, mundi et carnis nostrae voluntas: verum corroborat et conservat nos firmiter in suo verbo et fide usque ad vitae nostrae finem. Haec est misericors et bona eius voluntas.*
 
-Thy will be done, as in heaven, so also on earth.
+Thy will be done in earth, as it is in heaven.
 
 **What meaneth this?**
 

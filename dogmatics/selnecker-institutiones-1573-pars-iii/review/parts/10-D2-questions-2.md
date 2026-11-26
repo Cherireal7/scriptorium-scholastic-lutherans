@@ -91,7 +91,7 @@ Every commonwealth (*politia*) is either:
 
 - **Monarchy**
     - lawful, ***βασιλεία*** (kingship);
-    - violent, ***τυραννίς*** (tyranny).
+    - violent, ***τύραννις*** (tyranny).
 - **Oligarchy**
     - ***ἀριστοκρατία*** (aristocracy), lawful;
     - ***τιμοκρατία ἢ ὀλιγαρχία*** (timocracy or oligarchy), violent.
@@ -260,7 +260,7 @@ Three: the commandment of God; faith in Christ; the celebration and honour of th
 5. The knowledge of ourselves is to be sought from the end of creation, or from our duty, which is to bear the image of God in sincere righteousness and godliness; next, from the estimation of our own powers, who are not able to perform the duty that is owed; afterward, from the easiness of falling into sin.
 6. Faith is the worker of all true divine worship.
 7. Faith maketh the person pleasing to God, and rendereth a willing and voluntary worship, and joineth the worship of the mind with the outward work, that it may become a spiritual worship.
-8. <!-- p.195 -->All worship without faith, whether it be commanded by God in respect of the work, or brought in from elsewhere, is to be condemned, even as God condemneth sacrifices, **Isa. 1**;[^D2-4] **Ps. 50**.
+8. <!-- p.195 -->All worship without faith, whether it be commanded by God in respect of the work, or brought in from elsewhere, is to be condemned, even as God condemneth sacrifices, **Isa. 11**;[^D2-4] **Ps. 50**.
 9. All worship ought to tend unto the celebration of the glory of God.
 
 ### What is it to glorify God?
@@ -510,8 +510,6 @@ These words the LORD spake out of the midst of the fire, of the cloud, and of th
 
 [^D2-3]: The Majoristic controversy, which arose in the 1550s from Georg Major's defence of the proposition that good works are necessary to salvation; the counter-proposition treated in the next question, that good works are hurtful to salvation, was maintained by Nikolaus von Amsdorf. Both phrases were set aside in Article IV of the Formula of Concord (1577), of which Selnecker was a co-author.
 
-[^D2-4]: The print appears to read "Esa. 11"; the chapter in which God rejecteth the sacrifices is Isaiah 1, and it is so given here.
+[^D2-4]: So the print ("Esa. 11"), and the reference is kept as printed; the chapter in which God rejecteth the sacrifices is Isaiah 1 (verse 11).
 
 [^D2-5]: The print has *conseratoru*, an evident misprint for *conservator*.
-
-<!-- shifted -->

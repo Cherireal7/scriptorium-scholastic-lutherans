@@ -31,7 +31,7 @@ Either because it was written by the Apostles, and delivered as it were from han
 
 There are three authentic ones: the Apostles', the Nicene, and the Athanasian.
 
-Of the Apostles' Creed the words of **Irenaeus** are these: *"We ought not to seek among others the truth which it is easy to take from the Church, seeing the Apostles have most fully bestowed upon her, as into a rich storehouse, all things that are of the truth, that every man, whosoever will, may take from her the drink of life. For this is the entrance of life; but all the rest are thieves and robbers: wherefore we ought indeed to shun them; but the things that are of the Church to love with great diligence, and to lay hold of the tradition of the truth,"* etc.[^F1-1]
+Of the Apostles' Creed the words of **Irenaeus** are these: *"We ought not to seek among others the truth which it is easy to take from the Church, seeing the Apostles have most fully bestowed upon her, as into a rich storehouse, all things that are of the truth, that every man, whosoever will, may take from it the drink of life. For this is the entrance of life; but all the rest are thieves and robbers: wherefore we ought indeed to shun them; but the things that are of the Church to love with great diligence, and to lay hold of the tradition of the truth,"* etc.[^F1-1]
 
 The Nicene hath its name from Nicaea, a city of Bithynia, where in the year of Christ 328[^F1-2] the Emperor **Constantine the Great**, three hundred and eighteen Bishops being gathered together, appointed an Ecumenical Synod against Arius, the blasphemer of the Son of God, which lasted longer than three years.
 
@@ -220,7 +220,7 @@ Therefore it is wrought no otherwise by the Son, than by the Father and the Holy
 
 ### How do to be begotten and to proceed differ?
 
-To be begotten is from the knowing power, because that which is begotten is the image of him that begetteth. To proceed is from the will, ***τὸ ἐκπορεύεσθαι*** (to go forth), because the Holy Ghost is the mover or stirrer. For ***πόρος*** signifieth also motion, and ***ἐκπόρευσις*** a going out, a setting forth, and efficacy.
+To be begotten is from the knowing power, because that which is begotten is the image of him that begetteth. To proceed is from the will, ***τὸ ἐκπορεύεσθαι*** (to go forth), because the Holy Ghost is the mover or stirrer. For ***πόρος*** signifieth motion, and ***ἐκπόρευσις*** a going out, a setting forth, and efficacy.
 
 ### How do these differ: to believe that God is, to believe in God, and to believe God?
 
@@ -337,7 +337,7 @@ Therefore they call upon the true God.
 
 God alone is good, **Luke 18**, namely by nature, cause, and origin, not having the ground of his goodness from elsewhere. But created things are good, both because they were made of God and ordained to good uses, and because each of them in its own order ought to serve God, and they please God.
 
-### What are the degrees of created things?
+### How many are the degrees of created things?
 
 Four. The lowest is of things which only are, or exist, that they may serve the three degrees following, as the lower serve the higher; such as are the elements, stones, metals. The next degree is of things which are and live, with the vegetative life, that they may serve the two degrees following; such as are plants, herbs, shrubs. The third is of things which are, live, <!-- p.247 --> and have sense, that they may serve the last degree; such as are the brute beasts. The fourth is of things which not only are, live, and have sense, but also understand; such as are men, who have God above them, whom they themselves ought to serve. For a man not serving God doth against his own nature, and overturneth the order of the nature of things. Rightly therefore is it said: All things were made for man; but man was made for God, that he may acknowledge and praise him, and serve him: which thing the Angels also do, ***οἱ ὑμνοῦντες καὶ διακονοῦντες*** (they that sing praise and minister).
 
@@ -411,7 +411,7 @@ In the first degree man hath Free Will. In the second and third degree, seeing t
 
 [^F1-5]: So the print. The place meant appears to be Deut. 6 (*"The LORD our God is one LORD"*).
 
-[^F1-6]: The definition is Philip Melanchthon's, from the *Loci* (*De Deo*) and the *Examen ordinandorum*. The print has *beneficia* for *benefica* (bountiful).
+[^F1-6]: The definition is in substance Philip Melanchthon's, found with small differences of wording in the later editions of the *Loci* (*De Deo*) and in the *Examen ordinandorum*. The print has *beneficia* for *benefica* (bountiful).
 
 [^F1-7]: The print has *conseruato rerum, redemptio generis humani seruatio ordine*; the endings of two words have changed places, and it is read as *conservatio rerum, redemptio generis humani servato ordine*.
 
